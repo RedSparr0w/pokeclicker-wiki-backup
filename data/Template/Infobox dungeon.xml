@@ -4,9 +4,70 @@
   <ns>10</ns>
   <id>309</id>
   <revision>
-    <id>4427</id>
-    <timestamp>2022-07-29T18:05:38Z</timestamp>
-    <text space="preserve" bytes="1678">&lt;translate&gt;
+    <id>30190</id>
+    <timestamp>2022-12-05T04:26:08Z</timestamp>
+    <text space="preserve" bytes="1691">&lt;languages/&gt;
+&lt;translate&gt;
+&lt;!--T:1--&gt;
+{|class="infobox bordered" style="float:right; width:264px; font-size:90%; text-align:left; border:2px solid #404040; padding:3px;" cellpadding="3"
+|- 
+!colspan="2" style="font-size:110%; text-align:center; background-color:#{{Dungeons color dark}}; color:#FFF;"|{{{name}}}
+|-
+{{#if:{{{image&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} colspan="2" style="text-align:center;background-color:#FFF;" {{!}}{{{image}}}&lt;br /&gt;{{#if:{{{caption|}}}|&lt;br /&gt;{{{caption}}}}}
+{{!}}-
+}}
+{{#if:{{{tokens&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#{{Dungeons color light}}; color:#000;" {{!}}'''Tokens needed'''
+{{!}}{{{tokens}}} {{Dungeontokens}}
+{{!}}-
+}}
+{{#if:{{{location&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#{{Dungeons color light}}; color:#000;" {{!}}'''Location'''
+{{!}}{{{location}}}
+{{!}}-
+}}
+
+
+&lt;!--T:2--&gt;
+|}&lt;noinclude&gt;
+
+&lt;!--T:3--&gt;
+== Code ==
+&lt;pre&gt;{{Infobox Dungeon
+|name    =
+|image   =
+|caption =
+|tokens  =
+|location =
+}}&lt;/pre&gt;
+
+&lt;!--T:4--&gt;
+== Usage ==
+To use this template, place the code above at the top of an article and fill in the respective blanks.
+
+&lt;!--T:5--&gt;
+'''Where:'''
+*&lt;code&gt;name&lt;/code&gt; should be filled with the name of the dungeon.
+*&lt;code&gt;image&lt;/code&gt; should be filled with the background image of the dungeon (from the screen before you start the dungeon).
+*&lt;code&gt;caption&lt;/code&gt; should be filled with a description of the &lt;code&gt;image&lt;/code&gt; spot.
+*&lt;code&gt;tokens&lt;/code&gt; should be filled with the number of dungeon tokens needed to enter the dungeon.
+*&lt;code&gt;location&lt;/code&gt; should be filled with the general location of the dungeon; i.e., Viridian Forest is north of Viridian City on Route 2.
+&lt;/translate&gt;</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment>Marked this version for translation</comment>
+    <model>wikitext</model>
+    <parentid>30189</parentid>
+    <sha1>8398009f376c8ace36f00f712bf57d47cd2b8049</sha1>
+  </revision>
+  <revision>
+    <id>30189</id>
+    <timestamp>2022-12-05T04:26:01Z</timestamp>
+    <text space="preserve" bytes="1691">&lt;languages/&gt;
+&lt;translate&gt;
 &lt;!--T:1--&gt;
 {|class="infobox bordered" style="float:right; width:264px; font-size:90%; text-align:left; border:2px solid #404040; padding:3px;" cellpadding="3"
 |- 
@@ -55,15 +116,17 @@ To use this template, place the code above at the top of an article and fill in 
       <username>Jk13</username>
       <id>14</id>
     </contributor>
-    <comment>Marked this version for translation</comment>
+    <comment></comment>
     <model>wikitext</model>
-    <parentid>4426</parentid>
-    <sha1>ee17b1ad74d37af010661b6fb427ca6afbb8b4d6</sha1>
+    <parentid>30188</parentid>
+    <sha1>271963625067a03705ac4e45f5eca674b3fa46c5</sha1>
   </revision>
   <revision>
-    <id>4426</id>
-    <timestamp>2022-07-29T16:20:35Z</timestamp>
-    <text space="preserve" bytes="1623">&lt;translate&gt;
+    <id>30188</id>
+    <timestamp>2022-12-05T04:25:24Z</timestamp>
+    <text space="preserve" bytes="1691">&lt;/languages&gt;
+&lt;translate&gt;
+&lt;!--T:1--&gt;
 {|class="infobox bordered" style="float:right; width:264px; font-size:90%; text-align:left; border:2px solid #404040; padding:3px;" cellpadding="3"
 |- 
 !colspan="2" style="font-size:110%; text-align:center; background-color:#{{Dungeons color dark}}; color:#FFF;"|{{{name}}}
@@ -84,9 +147,10 @@ To use this template, place the code above at the top of an article and fill in 
 }}
 
 
+&lt;!--T:2--&gt;
 |}&lt;noinclude&gt;
 
-== Code ==
+== Code == &lt;!--T:3--&gt;
 &lt;pre&gt;{{Infobox Dungeon
 |name    =
 |image   =
@@ -95,9 +159,10 @@ To use this template, place the code above at the top of an article and fill in 
 |location =
 }}&lt;/pre&gt;
 
-== Usage ==
+== Usage == &lt;!--T:4--&gt;
 To use this template, place the code above at the top of an article and fill in the respective blanks.
 
+&lt;!--T:5--&gt;
 '''Where:'''
 *&lt;code&gt;name&lt;/code&gt; should be filled with the name of the dungeon.
 *&lt;code&gt;image&lt;/code&gt; should be filled with the background image of the dungeon (from the screen before you start the dungeon).
@@ -106,12 +171,70 @@ To use this template, place the code above at the top of an article and fill in 
 *&lt;code&gt;location&lt;/code&gt; should be filled with the general location of the dungeon; i.e., Viridian Forest is north of Viridian City on Route 2.
 &lt;/translate&gt;</text>
     <contributor>
-      <username>Cthulhu Follower</username>
-      <id>51</id>
+      <username>Jk13</username>
+      <id>14</id>
     </contributor>
     <comment></comment>
     <model>wikitext</model>
-    <parentid>4425</parentid>
-    <sha1>9e2fdef2c2e095893789a837df27de8531d6a72d</sha1>
+    <parentid>30187</parentid>
+    <sha1>5ab615ec79c8506f7e9d6b6e98124a0c0c3d79b8</sha1>
+  </revision>
+  <revision>
+    <id>30187</id>
+    <timestamp>2022-12-05T04:24:26Z</timestamp>
+    <text space="preserve" bytes="1690">&lt;languages&gt;
+&lt;translate&gt;
+&lt;!--T:1--&gt;
+{|class="infobox bordered" style="float:right; width:264px; font-size:90%; text-align:left; border:2px solid #404040; padding:3px;" cellpadding="3"
+|- 
+!colspan="2" style="font-size:110%; text-align:center; background-color:#{{Dungeons color dark}}; color:#FFF;"|{{{name}}}
+|-
+{{#if:{{{image&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} colspan="2" style="text-align:center;background-color:#FFF;" {{!}}{{{image}}}&lt;br /&gt;{{#if:{{{caption|}}}|&lt;br /&gt;{{{caption}}}}}
+{{!}}-
+}}
+{{#if:{{{tokens&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#{{Dungeons color light}}; color:#000;" {{!}}'''Tokens needed'''
+{{!}}{{{tokens}}} {{Dungeontokens}}
+{{!}}-
+}}
+{{#if:{{{location&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#{{Dungeons color light}}; color:#000;" {{!}}'''Location'''
+{{!}}{{{location}}}
+{{!}}-
+}}
+
+
+&lt;!--T:2--&gt;
+|}&lt;noinclude&gt;
+
+== Code == &lt;!--T:3--&gt;
+&lt;pre&gt;{{Infobox Dungeon
+|name    =
+|image   =
+|caption =
+|tokens  =
+|location =
+}}&lt;/pre&gt;
+
+== Usage == &lt;!--T:4--&gt;
+To use this template, place the code above at the top of an article and fill in the respective blanks.
+
+&lt;!--T:5--&gt;
+'''Where:'''
+*&lt;code&gt;name&lt;/code&gt; should be filled with the name of the dungeon.
+*&lt;code&gt;image&lt;/code&gt; should be filled with the background image of the dungeon (from the screen before you start the dungeon).
+*&lt;code&gt;caption&lt;/code&gt; should be filled with a description of the &lt;code&gt;image&lt;/code&gt; spot.
+*&lt;code&gt;tokens&lt;/code&gt; should be filled with the number of dungeon tokens needed to enter the dungeon.
+*&lt;code&gt;location&lt;/code&gt; should be filled with the general location of the dungeon; i.e., Viridian Forest is north of Viridian City on Route 2.
+&lt;/translate&gt;</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>4427</parentid>
+    <sha1>104e9b75e2f26a590727e2fd90f46f122be1c642</sha1>
   </revision>
 </page></mediawiki>
