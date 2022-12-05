@@ -2,4 +2,4 @@
 
 cd /wikiteam3/wikiteam3
 
-dumpgenerator --xml --curonly --images --api=https://pokeclicker.miraheze.org/w/api.php --path=/pokeclicker-wiki-backup/data
+dumpgenerator --xmlrevisions --xml --api=https://pokeclicker.miraheze.org/w/api.php --path=/pokeclicker-wiki-backup/data

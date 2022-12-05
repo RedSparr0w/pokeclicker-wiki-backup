@@ -6,6 +6,8 @@ services:
     command: ["crond", "-f"]
     networks:
       - proxy
+    volumes:
+      - ./.ssh:/root/.ssh/
     working_dir: /wikiteam3/wikiteam3
     restart: unless-stopped
 
@@ -13,7 +15,7 @@ networks:
   proxy:
     external: true
 
-# After creation run: ssh-keygen -t rsa -b 4096 -C backup@email.com
+# After creation run: ssh-keygen -t rsa -b 4096 -C backup@pokeclicker.com
 # this will create your ssh keys
 
 # Get your key using this: cat ~/.ssh/id_rsa.pub
@@ -23,9 +25,9 @@ networks:
 # ensure you are not running origin as an https reference, must be a git@github.com (ssh) reference
 
 # Run the following:
-# git remote add upstream https://github.com/user/repo.git
-# git remote set-url origin git@github.com:user/repo.git
-# git config --global user.email "backup@email.com"
+# git clone git@github.com:RedSparr0w/pokeclicker-wiki-backup.git
+# git remote set-url origin git@github.com:user/pokeclicker-wiki-backup.git
+# git config --global user.email "backup@pokeclicker.com"
 # git config --global user.name "auto-backup"
 
 # test that you have push access: git push -f
