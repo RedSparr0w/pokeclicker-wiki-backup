@@ -1,0 +1,23 @@
+{
+  "name": "pokeclicker-wiki-backup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RedSparr0w/pokeclicker-wiki-backup.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RedSparr0w/pokeclicker-wiki-backup/issues"
+  },
+  "homepage": "https://github.com/RedSparr0w/pokeclicker-wiki-backup#readme",
+  "dependencies": {
+    "fast-xml-parser": "^4.0.12",
+    "xmlsplit": "^1.2.8"
+  }
+}

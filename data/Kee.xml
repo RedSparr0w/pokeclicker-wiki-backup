@@ -1,0 +1,111 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Kee</title>
+  <ns>0</ns>
+  <id>583</id>
+  <revision>
+    <id>25175</id>
+    <timestamp>2022-12-03T20:01:53Z</timestamp>
+    <text space="preserve" bytes="3316">&lt;languages/&gt;
+&lt;translate&gt;
+&lt;!--T:1--&gt;
+{{Infobox Berry
+|name    = #59 Kee
+|image   = [[File:Kee.png]]
+|caption = This Berry remains poisonous until fully ripened. Once ripe it has a spicy and sweet complex flavor.
+|growtime  = 10h 6m 0s
+|harvest = 1 berry
+|replant = 5%
+|mutation = 0.03%
+|points = 3000
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*30 spicy 
+*30 dry
+*10 sweet
+*10 bitter
+*10 sour
+}}
+
+&lt;!--T:2--&gt;
+'''Kee''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by surrounding an empty plot with at least 1 [[Liechi]] and at least 1 [[Ganlon]].
+
+== Growth Tables == &lt;!--T:3--&gt;
+=== Growth Stages ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 1 hour 18 mins || 2 hours 36 mins || 5 hours 6 mins || 10 hours 6 mins - 20 hours 12 mins
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt;[[File:KeeTreeTaller.png|50px]] || &lt;center&gt;[[File:KeeTreeBloom.png|50px]] || &lt;center&gt;[[File:KeeTreeBerry.png|50px]]
+|}
+
+=== Ripening Time with Modifiers  === &lt;!--T:4--&gt;
+{| class="wikitable" | style="text-align: center;"
+! Modifier !! Ripe-Wither Time !! Boost Mulch Needed to Ripen
+|-
+! None
+| 10 hours 6 mins -&lt;br&gt; 20 hours 12 mins || ---
+|-
+! Mulch or Sprayduck
+| 6 hours 44 mins -&lt;br&gt; 13 hours 28 mins || 81 mulch
+|-
+! Mulch &amp; Sprayduck
+| 4 hours 29 mins 20 secs -&lt;br&gt; 8 hours 58 mins 40 secs || 54 mulch
+|}
+
+== Flow Chart == &lt;!--T:5--&gt;
+[[File:Kee_Flow_Chart.png|500px]]
+&lt;br&gt;
+
+== Mutation Strategy == &lt;!--T:6--&gt;
+=== Possible Planting Formations ===
+
+&lt;!--T:7--&gt;
+You can fill your farm in the following way to obtain Kee berries. Purple squares indicate where mutations can occur.
+
+&lt;!--T:8--&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Farm
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Liechi.png|30px]] [[Liechi]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Liechi.png|30px]] [[Liechi]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Ganlon.png|30px]] [[Ganlon]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Ganlon.png|30px]] [[Ganlon]] 
+|- style="height: 50px; background-color:#9C7D98;"
+| || || || || 
+|-
+| [[File:Liechi.png|30px]] [[Liechi]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Liechi.png|30px]] [[Liechi]] || style="background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Ganlon.png|30px]] [[Ganlon]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Ganlon.png|30px]] [[Ganlon]] 
+|}
+
+=== Timing Table === &lt;!--T:9--&gt;
+{| class="wikitable"| style="text-align: center;"
+|+ ''All planting times use the time-to-ripe remaining of the first planted berry for subsequent planting times''
+! Berry !! Planting Time with &lt;br&gt; No Modifier !! Planting Time with &lt;br&gt; Mulch or Sprayduck || Planting Time with &lt;br&gt;  Mulch &amp; Sprayduck
+|-
+| [[Liechi]] || - || - || -
+|-
+| [[Ganlon]] || - || - || -
+|}
+
+&lt;!--T:10--&gt;
+Note: Ganlon and Liechi berries have equivalent growth times.
+
+&lt;!--T:11--&gt;
+{{Berries}}
+
+&lt;!--T:12--&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/translate&gt;</text>
+    <contributor>
+      <username>DraKay</username>
+      <id>18</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>6985</parentid>
+    <sha1>523fc6c3d1b6012f8c58a175adb5e727cf17dcba</sha1>
+  </revision>
+</page></mediawiki>

@@ -1,0 +1,73 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>PokeClicker Wiki</sitename>
+    <dbname>pokeclickerwiki</dbname>
+    <base>https://pokeclicker.miraheze.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.38.4</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">PokeClicker Wiki</namespace>
+      <namespace key="5" case="first-letter">PokeClicker Wiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+    </namespaces>
+  </siteinfo>
+
+<page>
+  <title>Forum:Index</title>
+  <ns>0</ns>
+  <id>32</id>
+  <revision>
+    <id>341</id>
+    <timestamp>2020-09-03T15:54:22Z</timestamp>
+    <text space="preserve" bytes="924">Welcome to the {{SITENAME}} forum! This forum can be used by members of this community to discuss topics related to their wiki. Some communities prefer to use the [[Project talk:Community Portal|Community Portal]] instead for wiki discussions, its up to you!
+
+:''Notes: You may have to [{{fullurl:{{FULLPAGENAME}}|action=purge}} purge] this page to see changes; for more explanation and how to set up new forums, see [[Help:Forums]].''
+
+&lt;table class="forumlist" width="100%"&gt;&lt;tr&gt;&lt;th class="forum_title" align="left"&gt;Forum&lt;/th&gt;&lt;th class="forum_edited" align="left"&gt;Last Edit&lt;/th&gt;&lt;th class="forum_editor" align="left"&gt;Last Author&lt;/th&gt;&lt;/tr&gt;
+&lt;forum&gt;
+namespace=Forum
+category=Help desk
+title=Forum:Help desk
+shownamespace=false
+addlasteditor=true
+&lt;/forum&gt;
+&lt;forum&gt;
+namespace=Forum
+category=Watercooler
+title=Forum:Watercooler
+shownamespace=false
+addlasteditor=true
+&lt;/forum&gt;
+&lt;/table&gt;
+
+[[Category:Forums|*]]
+[[Category:Help|Forums]]</text>
+    <contributor>
+      <username>ElvisDitto</username>
+      <id>19</id>
+    </contributor>
+    <comment>Created page with "Welcome to the {{SITENAME}} forum! This forum can be used by members of this community to discuss topics related to their wiki. Some communities prefer to use the Project ta..."</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>b6d24a26d7b6bf0fa690d7c1e62933e3750ace29</sha1>
+  </revision>
+</page></mediawiki>

@@ -1,0 +1,111 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Cheri</title>
+  <ns>0</ns>
+  <id>457</id>
+  <revision>
+    <id>6269</id>
+    <timestamp>2022-08-11T04:51:18Z</timestamp>
+    <text space="preserve" bytes="2590">&lt;languages/&gt;
+&lt;translate&gt;
+&lt;!--T:1--&gt;
+{{Infobox Berry
+|name    = #01 Cheri
+|image   = [[File:Cheri.png]]
+|caption = This bright red Berry is very spicy and has a provocative flavor. It blooms with delicate, pretty flowers.
+|growtime  = 30s
+|harvest = 2 berries
+|replant = 50%
+|points = 5
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*10 spicy 
+*0 dry
+*0 sweet
+*0 bitter
+*0 sour
+}}
+
+&lt;!--T:2--&gt;
+'''Cheri''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]] to obtain [[Farming Points|Farm Points]]. It can be obtained as a random drop by defeating wild Pokémon on routes.
+
+== Growth Tables == &lt;!--T:3--&gt;
+=== Growth Stages ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 5 secs || 10 secs || 20 secs || 30 secs - 1 min
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt;[[File:CheriTreeTaller.png|50px]] || &lt;center&gt;[[File:CheriTreeBloom.png|50px]] || &lt;center&gt;[[File:CheriTreeBerry.png|50px]]
+|}
+
+=== Ripening Time with Modifiers === &lt;!--T:4--&gt;
+{| class="wikitable collapsible" | style="text-align: center;"
+! Modifier !! Ripe-Wither Time
+|-
+! None
+| 30 secs -&lt;br&gt; 1 min
+|-
+! Sprayduck
+| 20 secs -&lt;br&gt; 40 secs
+|}
+
+== Flow Chart == &lt;!--T:5--&gt;
+[[File:Cheri_Flow_Chart.png|100px]]
+
+==Uses== &lt;!--T:6--&gt;
+===Mutations===
+
+&lt;!--T:7--&gt;
+Cheri berries can be used to mutate the following berries.
+
+&lt;!--T:8--&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Razz.png|20px]] [[Razz]] || [[File:Leppa.png|20px]] [[Leppa]]
+|-
+| [[File:Figy.png|20px]] [[Figy]] || -
+|-
+| [[File:Lum.png|20px]] [[Lum]] || [[File:Chesto.png|20px]] [[Chesto]] &lt;br&gt; [[File:Pecha.png|20px]] [[Pecha]] &lt;br&gt; [[File:Rawst.png|20px]] [[Rawst]] &lt;br&gt; [[File:Aspear.png|20px]] [[Aspear]] &lt;br&gt; [[File:Leppa.png|20px]] [[Leppa]] &lt;br&gt; [[File:Oran.png|20px]] [[Oran]] &lt;br&gt; [[File:Sitrus.png|20px]] [[Sitrus]]
+|-
+| [[File:Qualot.png|20px]] [[Qualot]] || [[File:Pecha.png|20px]] [[Pecha]] &lt;br&gt; [[File:Aspear.png|20px]] [[Aspear]]
+|-
+| [[File:Rindo.png|20px]] [[Rindo]] || [[File:Aguav.png|20px]] [[Aguav]]
+|-
+|}
+
+==Acquisition== &lt;!--T:9--&gt;
+===Dungeons===
+{{Loot/head‎|Berries}}
+{{LootItem|Power Plant|Common}}
+{{LootItem|Berry Forest|Common}}
+{{LootItem|New Mauville|Common}}
+{{LootItem|Eterna Forest|Common}}
+{{LootItem|Hall of Origin|Common}}
+{{LootItem|Floccesy Ranch|Common}}
+{{LootItem|Pikachu Valley|Common}}
+{{LootItem|Ruins of Conflict|Common}}
+{{LootItem|Ruins of Life|Common}}
+|}
+|}
+
+&lt;!--T:10--&gt;
+&lt;br&gt;
+
+&lt;!--T:11--&gt;
+{{Berries}}
+[[Category:Farm]][[Category:Berries]]
+&lt;/translate&gt;</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>6268</parentid>
+    <sha1>460dae8b2883902df3dd34b3a26364c12a9eea3b</sha1>
+  </revision>
+</page></mediawiki>

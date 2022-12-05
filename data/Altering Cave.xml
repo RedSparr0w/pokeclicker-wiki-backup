@@ -1,0 +1,242 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Altering Cave</title>
+  <ns>0</ns>
+  <id>10207</id>
+  <revision>
+    <id>30173</id>
+    <timestamp>2022-12-05T02:06:23Z</timestamp>
+    <text space="preserve" bytes="2739">{{Infobox dungeon
+|name    = Altering Cave
+|image   = [[File:Altering Cave.png|thumb]]
+|caption = An overhead map of Altering Cave.
+|tokens  = 43,000
+|location = Sevii Island 6, north of Outcast Island.
+}}
+'''Altering Cave''' is a [[Dungeons|dungeon]] in [[Kanto]]. It has 49 tiles arranged in a 7x7 square, including 7 chest tiles, 17 non-boss encounter tiles, and 1 boss encounter tile. Wild Encounters have 720,600 HP.
+
+== Encounter Tables ==
+
+===Wild Encounters===
+
+{| class="wikitable"
+|-
+! Wild Pokémon !! colspan=2|Trainers
+|-
+! Encounter !! Trainer !! Pokémon Team
+|-
+| [[File:Zubat.png|40px]] Zubat|| colspan=2 rowspan=7| &lt;center&gt; N/A
+|-
+| [[File:Mareep.png|40px]] Mareep
+|-
+| [[File:Pineco.png|40px]] Pineco
+|-
+| [[File:Houndour.png|40px]] Houndour
+|-
+| [[File:Teddiursa.png|40px]] Teddiursa
+|-
+| [[File:Aipom.png|40px]] Aipom
+|-
+| [[File:Shuckle.png|40px]] Shuckle
+|}
+
+===Boss Encounters===
+{| class="wikitable"
+|-
+! Wild Pokémon !! Base Health !! Boss Trainer !! Pokémon Team !! Base Health
+|-
+| [[File:Stantler.png|40px]] Stantler|| rowspan=2|&lt;center&gt; 3,703,000 || colspan=3 rowspan=2|&lt;center&gt;N/A
+|-
+| [[File:Smeargle.png|40px]] Smeargle
+|}
+
+==Items==
+
+&lt;tabs&gt;
+&lt;tab name="No Debuff"&gt;
+{| class="wikitable"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+|-
+| align="center" colspan=6| '''Common'''
+|-
+| {{Bag2|xAttack}} || N/A || 39.06% || 38.06% || 33.73%
+|-
+| {{Bag2|xClick}} || N/A || 39.06% || 38.06% || 33.73%
+|-
+| align="center" colspan=6| '''Rare'''
+|-
+| {{Bag2|Grey Shard}} || N/A || 10.42% || 11.10% || 14.03%
+|-
+| {{Bag2|Ochre Shard}} || N/A || 10.42% || 11.10% || 14.03%
+|-
+| align="center" colspan=6| '''Legendary'''
+|-
+| {{Bag2|Small Restore}} || 3 || 0.52% || 0.84% || 2.24%
+|-
+| {{Bag2|Medium Restore}} || 2 || 0.35% || 0.56% || 1.50%
+|-
+| {{Bag2|Large Restore}} || N/A || 0.17% || 0.28% || 0.75%
+|}
+&lt;/tab&gt;
+&lt;tab name="Debuff"&gt;
+
+After Reaching Kalos, the drop chance for items will be debuffed for any loot with a Tier rarer than Rare (ie: Epic, Legendary, Mythic).
+
+{| class="wikitable"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+|-
+| align="center" colspan=6| '''Common'''
+|-
+| {{Bag2|xAttack}} || N/A || 37.84% || 37.84% || 37.84%
+|-
+| {{Bag2|xClick}} || N/A || 37.84% || 37.84% || 37.84%
+|-
+| align="center" colspan=6| '''Rare'''
+|-
+| {{Bag2|Grey Shard}} || N/A || 12.11% || 12.11% || 12.11%
+|-
+| {{Bag2|Ochre Shard}} || N/A || 12.11% || 12.11% || 12.11%
+|-
+| align="center" colspan=6| '''Legendary'''
+|-
+| {{Bag2|Small Restore}} || 3 || 0.05% || 0.05% || 0.05%
+|-
+| {{Bag2|Medium Restore}} || 2 || 0.03% || 0.03% || 0.03%
+|-
+| {{Bag2|Large Restore}} || N/A || 0.02% || 0.02% || 0.02%
+|}
+&lt;/tab&gt;
+&lt;/tabs&gt;
+
+{{Kanto Dungeons}}
+[[Category:Dungeons|^Region #1 - Kanto^c]]</text>
+    <contributor>
+      <username>ThePantMan</username>
+      <id>8</id>
+    </contributor>
+    <comment>/* Location */</comment>
+    <model>wikitext</model>
+    <parentid>30172</parentid>
+    <sha1>01ebd93fc569b0d2b58ae6a4eb4d84cef34a5e39</sha1>
+  </revision>
+  <revision>
+    <id>30172</id>
+    <timestamp>2022-12-05T02:03:09Z</timestamp>
+    <text space="preserve" bytes="2720">{{Infobox dungeon
+|name    = Altering Cave
+|image   = [[File:Altering Cave.png|thumb]]
+|caption = An overhead map of Altering Cave.
+|tokens  = 43,000
+|location = North of Kindle Road.
+}}
+'''Altering Cave''' is a [[Dungeons|dungeon]] in [[Kanto]]. It has 49 tiles arranged in a 7x7 square, including 7 chest tiles, 17 non-boss encounter tiles, and 1 boss encounter tile. Wild Encounters have 720,600 HP.
+
+== Encounter Tables ==
+
+===Wild Encounters===
+
+{| class="wikitable"
+|-
+! Wild Pokémon !! colspan=2|Trainers
+|-
+! Encounter !! Trainer !! Pokémon Team
+|-
+| [[File:Zubat.png|40px]] Zubat|| colspan=2 rowspan=7| &lt;center&gt; N/A
+|-
+| [[File:Mareep.png|40px]] Mareep
+|-
+| [[File:Pineco.png|40px]] Pineco
+|-
+| [[File:Houndour.png|40px]] Houndour
+|-
+| [[File:Teddiursa.png|40px]] Teddiursa
+|-
+| [[File:Aipom.png|40px]] Aipom
+|-
+| [[File:Shuckle.png|40px]] Shuckle
+|}
+
+===Boss Encounters===
+{| class="wikitable"
+|-
+! Wild Pokémon !! Base Health !! Boss Trainer !! Pokémon Team !! Base Health
+|-
+| [[File:Stantler.png|40px]] Stantler|| rowspan=2|&lt;center&gt; 3,703,000 || colspan=3 rowspan=2|&lt;center&gt;N/A
+|-
+| [[File:Smeargle.png|40px]] Smeargle
+|}
+
+==Items==
+
+&lt;tabs&gt;
+&lt;tab name="No Debuff"&gt;
+{| class="wikitable"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+|-
+| align="center" colspan=6| '''Common'''
+|-
+| {{Bag2|xAttack}} || N/A || 39.06% || 38.06% || 33.73%
+|-
+| {{Bag2|xClick}} || N/A || 39.06% || 38.06% || 33.73%
+|-
+| align="center" colspan=6| '''Rare'''
+|-
+| {{Bag2|Grey Shard}} || N/A || 10.42% || 11.10% || 14.03%
+|-
+| {{Bag2|Ochre Shard}} || N/A || 10.42% || 11.10% || 14.03%
+|-
+| align="center" colspan=6| '''Legendary'''
+|-
+| {{Bag2|Small Restore}} || 3 || 0.52% || 0.84% || 2.24%
+|-
+| {{Bag2|Medium Restore}} || 2 || 0.35% || 0.56% || 1.50%
+|-
+| {{Bag2|Large Restore}} || N/A || 0.17% || 0.28% || 0.75%
+|}
+&lt;/tab&gt;
+&lt;tab name="Debuff"&gt;
+
+After Reaching Kalos, the drop chance for items will be debuffed for any loot with a Tier rarer than Rare (ie: Epic, Legendary, Mythic).
+
+{| class="wikitable"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+|-
+| align="center" colspan=6| '''Common'''
+|-
+| {{Bag2|xAttack}} || N/A || 37.84% || 37.84% || 37.84%
+|-
+| {{Bag2|xClick}} || N/A || 37.84% || 37.84% || 37.84%
+|-
+| align="center" colspan=6| '''Rare'''
+|-
+| {{Bag2|Grey Shard}} || N/A || 12.11% || 12.11% || 12.11%
+|-
+| {{Bag2|Ochre Shard}} || N/A || 12.11% || 12.11% || 12.11%
+|-
+| align="center" colspan=6| '''Legendary'''
+|-
+| {{Bag2|Small Restore}} || 3 || 0.05% || 0.05% || 0.05%
+|-
+| {{Bag2|Medium Restore}} || 2 || 0.03% || 0.03% || 0.03%
+|-
+| {{Bag2|Large Restore}} || N/A || 0.02% || 0.02% || 0.02%
+|}
+&lt;/tab&gt;
+&lt;/tabs&gt;
+
+{{Kanto Dungeons}}
+[[Category:Dungeons|^Region #1 - Kanto^c]]</text>
+    <contributor>
+      <username>ThePantMan</username>
+      <id>8</id>
+    </contributor>
+    <comment>Created page with "{{Infobox dungeon |name    = Altering Cave |image   = [[File:Altering Cave.png|thumb]] |caption = An overhead map of Altering Cave. |tokens  = 43,000 |location = North of Kindle Road. }} '''Altering Cave''' is a [[Dungeons|dungeon]] in [[Kanto]]. It has 49 tiles arranged in a 7x7 square, including 7 chest tiles, 17 non-boss encounter tiles, and 1 boss encounter tile. Wild Encounters have 720,600 HP.  == Encounter Tables ==  ===Wild Encounters===  {| class="wikitable" |-..."</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>3e824b500868bb354f2510cefb9b515cf36d5978</sha1>
+  </revision>
+</page></mediawiki>

@@ -1,0 +1,120 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Salac</title>
+  <ns>0</ns>
+  <id>745</id>
+  <revision>
+    <id>25178</id>
+    <timestamp>2022-12-03T20:02:56Z</timestamp>
+    <text space="preserve" bytes="3252">&lt;languages/&gt;
+&lt;translate&gt;
+&lt;!--T:1--&gt;
+{{Infobox Berry
+|name    = #63 Salac
+|image   = [[File:Salac.png]]
+|caption = This Berry is surrounded by mystery. It is rumored to be imbued with the power of the sky.
+|growtime  = 2d
+|harvest = 0.5 berries
+|replant = 0%
+|mutation = 0.001%
+|points = 10,000
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 spicy 
+*0 dry
+*30 sweet
+*10 bitter
+*30 sour
+}}
+
+&lt;!--T:2--&gt;
+'''Salac''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by having at least one empty plot and at least 23 ripe [[Coba]] on the field. Pokémon #384 (Rayquaza) must be caught to unlock this berry.
+
+== Growth Tables == &lt;!--T:3--&gt;
+=== Growth Stages ===
+{| class="wikitable" style="text-align: center;" | style = "image-rendering: pixelated"
+! !! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 6 hours || 12 hours || 1 day || 2 days - 4 days
+|- 
+! Animation
+| [[File:AllTreeSprout.png|50px]] || [[File:SalacTreeTaller.png|50px]] || [[File:SalacTreeBloom.png|50px]] || [[File:SalacTreeBerry.png|50px]]
+|}
+
+=== Ripening Time with Modifiers  === &lt;!--T:4--&gt;
+{| class="wikitable" | style="text-align: center;"
+! Modifier !! Ripe-Wither Time !! Boost Mulch Needed to Ripen
+|-
+! None
+| 2 days -&lt;br&gt; 4 days || ---
+|-
+! Mulch or Sprayduck
+| 1 day 8 hours -&lt;br&gt; 2 days 16 hours || 384 mulch
+|-
+! Mulch &amp; Sprayduck
+| 21 hours 20 mins -&lt;br&gt; 42 hours 40 mins || 256 mulch
+|}
+
+== Flow Chart == &lt;!--T:5--&gt;
+[[File:Salac_Flow_Chart.png|250px]]
+&lt;br&gt;
+
+== Mutation Strategy == &lt;!--T:6--&gt;
+=== Possible Planting Formations ===
+
+&lt;!--T:7--&gt;
+You can fill your farm in the following way to obtain Salac berries. Purple squares indicate where mutations can occur.
+
+&lt;!--T:8--&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Farm
+|-
+| style="width: 50px;" | [[File:Coba.png|30px]]&lt;br&gt;[[Coba]] || style="width: 50px;" | [[File:Coba.png|30px]]&lt;br&gt;[[Coba]] || style="width: 50px;" | [[File:Coba.png|30px]]&lt;br&gt;[[Coba]] || style="width: 50px;" | [[File:Coba.png|30px]]&lt;br&gt;[[Coba]] || style="width: 50px;" | [[File:Coba.png|30px]]&lt;br&gt;[[Coba]]
+|-
+| [[File:Coba.png|30px]]&lt;br&gt;[[Coba]] || [[File:Coba.png|30px]]&lt;br&gt;[[Coba]] || [[File:Coba.png|30px]]&lt;br&gt;[[Coba]] || [[File:Coba.png|30px]]&lt;br&gt;[[Coba]] || [[File:Coba.png|30px]]&lt;br&gt;[[Coba]]
+|-
+| [[File:Coba.png|30px]]&lt;br&gt;[[Coba]] || [[File:Coba.png|30px]]&lt;br&gt;[[Coba]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Coba.png|30px]]&lt;br&gt;[[Coba]]
+|-
+| [[File:Coba.png|30px]]&lt;br&gt;[[Coba]] || [[File:Coba.png|30px]]&lt;br&gt;[[Coba]] || [[File:Coba.png|30px]]&lt;br&gt;[[Coba]] || [[File:Coba.png|30px]]&lt;br&gt;[[Coba]] || [[File:Coba.png|30px]]&lt;br&gt;[[Coba]]
+|-
+| [[File:Coba.png|30px]]&lt;br&gt;[[Coba]] || [[File:Coba.png|30px]]&lt;br&gt;[[Coba]] || [[File:Coba.png|30px]]&lt;br&gt;[[Coba]] || [[File:Coba.png|30px]]&lt;br&gt;[[Coba]] || [[File:Coba.png|30px]]&lt;br&gt;[[Coba]]
+|}
+
+==Uses== &lt;!--T:9--&gt;
+===Mutations===
+
+&lt;!--T:10--&gt;
+Salac berries can be used to mutate the following berries.
+
+&lt;!--T:11--&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Maranga.png|20px]] [[Maranga]] || [[File:Petaya.png|20px]] [[Petaya]]
+|-
+|}
+
+&lt;!--T:12--&gt;
+&lt;br&gt;
+
+
+&lt;!--T:13--&gt;
+&lt;br&gt;
+
+&lt;!--T:14--&gt;
+{{Berries}}
+
+&lt;!--T:15--&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/translate&gt;</text>
+    <contributor>
+      <username>DraKay</username>
+      <id>18</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>7852</parentid>
+    <sha1>936c57f97457651b982f4ecf3a42569f2484793d</sha1>
+  </revision>
+</page></mediawiki>

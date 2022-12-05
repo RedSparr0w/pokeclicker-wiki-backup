@@ -1,0 +1,327 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Template:Underground Items</title>
+  <ns>10</ns>
+  <id>3548</id>
+  <revision>
+    <id>25210</id>
+    <timestamp>2022-12-03T23:32:09Z</timestamp>
+    <text space="preserve" bytes="5133">&lt;div class="roundy" style="margin:auto; border: 3px solid #{{Underground Items color dark}}; white-space:nowrap; padding:3px; max-width:1000px"&gt;
+&lt;div class="roundy" style="margin:auto; text-align:center; background-color:#{{Underground Items color dark}}; padding:2px; margin-bottom:3px"&gt;&lt;big&gt;'''{{color2|000|Underground|Underground Items}}'''&lt;/big&gt;&lt;/div&gt;
+&lt;div class="roundy" style="margin:auto; text-align:left; background-color:#{{Underground Items color light}}; padding:2px; margin-bottom:3px"&gt;&lt;big&gt;'''{{color2|000|Fossils}}:'''&lt;/big&gt;&lt;/div&gt;
+&lt;div style="clear:both; display: grid; grid-template-columns: repeat(auto-fill, minmax(130px, 1fr))"&gt;
+&lt;div&gt;{{Bag2|Dome Fossil}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Helix Fossil}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Old Amber}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Claw Fossil}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Root Fossil}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Armor Fossil}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Skull Fossil}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Plume Fossil}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Cover Fossil}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Jaw Fossil}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Sail Fossil}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Fossilized Bird}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Fossilized Fish}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Fossilized Drake}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Fossilized Dino}}&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="roundy" style="margin:auto; text-align:left; background-color:#{{Underground Items color light}}; padding:2px; margin-bottom:3px"&gt;&lt;big&gt;'''{{color2|000|Diamonds|Diamond Items}}:'''&lt;/big&gt;&lt;/div&gt;
+&lt;div style="clear:both; display: grid; grid-template-columns: repeat(auto-fill, minmax(130px, 1fr))"&gt;
+&lt;div&gt;{{Bag2|Max Revive}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Rare Bone}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Everstone}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Revive}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Heart Scale}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Icy Rock}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Heat Rock}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Damp Rock}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Smooth Rock}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Star Piece}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Light Clay}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Hard Stone}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Odd Keystone}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Iron Ball}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Oval Stone}}&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="roundy" style="margin:auto; text-align:left; background-color:#{{Evolution items color light}}; padding:2px; margin-bottom:3px"&gt;&lt;big&gt;'''{{color2|000|Evolution Items}}:'''&lt;/big&gt;&lt;/div&gt;
+&lt;div style="clear:both; display: grid; grid-template-columns: repeat(auto-fill, minmax(130px, 1fr))"&gt;
+&lt;div&gt;{{Bag2|Water Stone}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Fire Stone}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Leaf Stone}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Thunder Stone}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Moon Stone}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Sun Stone}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Dawn Stone}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Dusk Stone}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Shiny Stone}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Ice Stone}}&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="roundy" style="margin:auto; text-align:left; background-color:#{{Underground Items color light}}; padding:2px; margin-bottom:3px"&gt;&lt;big&gt;'''{{color2|000|Gem Plates}}:'''&lt;/big&gt;&lt;/div&gt;
+&lt;div style="clear:both; display: grid; grid-template-columns: repeat(auto-fill, minmax(130px, 1fr))"&gt;
+&lt;div&gt;{{Bag2|Flame Plate}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Splash Plate}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Zap Plate}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Meadow Plate}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Icicle Plate}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Fist Plate}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Toxic Plate}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Earth Plate}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Sky Plate}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Mind Plate}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Insect Plate}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Stone Plate}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Spooky Plate}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Draco Plate}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Dread Plate}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Iron Plate}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Pixie Plate}}&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="roundy" style="margin:auto; text-align:left; background-color:#{{Underground Items color light}}; padding:2px; margin-bottom:3px"&gt;&lt;big&gt;'''{{color2|000|Shards}}:'''&lt;/big&gt;&lt;/div&gt;
+&lt;div style="clear:both; display: grid; grid-template-columns: repeat(auto-fill, minmax(130px, 1fr))"&gt;
+&lt;div&gt;[[File:Red_Shard_Updated.png|25px]] [[Red Shard]]&lt;/div&gt;
+&lt;div&gt;[[File:Yellow_Shard_Updated.png|25px]] [[Yellow Shard]]&lt;/div&gt;
+&lt;div&gt;[[File:Green_Shard_Updated.png|25px]] [[Green Shard]]&lt;/div&gt;
+&lt;div&gt;[[File:Blue_Shard_Updated.png|25px]] [[Blue Shard]]&lt;/div&gt;
+&lt;div&gt;[[File:Grey_Shard_Updated.png|25px]] [[Grey Shard]]&lt;/div&gt;
+&lt;div&gt;[[File:Purple_Shard_Updated.png|25px]] [[Purple Shard]]&lt;/div&gt;
+&lt;div&gt;[[File:Ochre_Shard_Updated.png|25px]] [[Ochre Shard]]&lt;/div&gt;
+&lt;div&gt;[[File:Black_Shard_Updated.png|25px]] [[Black Shard]]&lt;/div&gt;
+&lt;div&gt;[[File:Crimson_Shard_Updated.png|25px]] [[Crimson Shard]]&lt;/div&gt;
+&lt;div&gt;[[File:Lime_Shard_Updated.png|25px]] [[Lime Shard]]&lt;/div&gt;
+&lt;div&gt;[[File:White_Shard_Updated.png|25px]] [[White Shard]]&lt;/div&gt;
+&lt;div&gt;[[File:Pink_Shard_Updated.png|25px]] [[Pink Shard]]&lt;/div&gt;
+&lt;div&gt;[[File:Cyan_Shard_Updated.png|25px]] [[Cyan Shard]]&lt;/div&gt;
+&lt;div&gt;[[File:Rose_Shard_Updated.png|25px]] [[Rose Shard]]&lt;/div&gt;
+&lt;div&gt;[[File:Brown_Shard_Updated.png|25px]] [[Brown Shard]]&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="roundy" style="margin:auto; text-align:left; background-color:#{{Underground Items color light}}; padding:2px; margin-bottom:3px"&gt;&lt;big&gt;'''{{color2|000|Underground|Restore Items}}:'''&lt;/big&gt;&lt;/div&gt;
+&lt;div style="clear:both; display: grid; grid-template-columns: repeat(auto-fill, minmax(130px, 1fr))"&gt;
+&lt;div&gt;{{Bag2|Small Restore}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Medium Restore}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Large Restore}}&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;noinclude&gt;[[Category:Item navigation templates]]&lt;/noinclude&gt;</text>
+    <contributor>
+      <username>SomeonealiveQN</username>
+      <id>5</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>25166</parentid>
+    <sha1>4428425ef4ec49399342c629f48ed2b9bfb7769f</sha1>
+  </revision>
+  <revision>
+    <id>25166</id>
+    <timestamp>2022-12-03T19:56:33Z</timestamp>
+    <text space="preserve" bytes="5117">&lt;div class="roundy" style="margin:auto; border: 3px solid #{{Underground Items color dark}}; white-space:nowrap; padding:3px; max-width:1000px"&gt;
+&lt;div class="roundy" style="margin:auto; text-align:center; background-color:#{{Underground Items color dark}}; padding:2px; margin-bottom:3px"&gt;&lt;big&gt;'''{{color2|000|Underground|Underground Items}}'''&lt;/big&gt;&lt;/div&gt;
+&lt;div class="roundy" style="margin:auto; text-align:left; background-color:#{{Underground Items color light}}; padding:2px; margin-bottom:3px"&gt;&lt;big&gt;'''{{color2|000|Fossils}}:'''&lt;/big&gt;&lt;/div&gt;
+&lt;div style="clear:both; display: grid; grid-template-columns: repeat(auto-fill, minmax(130px, 1fr))"&gt;
+&lt;div&gt;{{Bag2|Dome Fossil}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Helix Fossil}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Old Amber}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Claw Fossil}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Root Fossil}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Armor Fossil}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Skull Fossil}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Plume Fossil}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Cover Fossil}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Jaw Fossil}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Sail Fossil}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Bird Fossil}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Fish Fossil}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Drake Fossil}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Dino Fossil}}&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="roundy" style="margin:auto; text-align:left; background-color:#{{Underground Items color light}}; padding:2px; margin-bottom:3px"&gt;&lt;big&gt;'''{{color2|000|Diamonds|Diamond Items}}:'''&lt;/big&gt;&lt;/div&gt;
+&lt;div style="clear:both; display: grid; grid-template-columns: repeat(auto-fill, minmax(130px, 1fr))"&gt;
+&lt;div&gt;{{Bag2|Max Revive}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Rare Bone}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Everstone}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Revive}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Heart Scale}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Icy Rock}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Heat Rock}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Damp Rock}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Smooth Rock}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Star Piece}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Light Clay}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Hard Stone}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Odd Keystone}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Iron Ball}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Oval Stone}}&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="roundy" style="margin:auto; text-align:left; background-color:#{{Evolution items color light}}; padding:2px; margin-bottom:3px"&gt;&lt;big&gt;'''{{color2|000|Evolution Items}}:'''&lt;/big&gt;&lt;/div&gt;
+&lt;div style="clear:both; display: grid; grid-template-columns: repeat(auto-fill, minmax(130px, 1fr))"&gt;
+&lt;div&gt;{{Bag2|Water Stone}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Fire Stone}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Leaf Stone}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Thunder Stone}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Moon Stone}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Sun Stone}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Dawn Stone}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Dusk Stone}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Shiny Stone}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Ice Stone}}&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="roundy" style="margin:auto; text-align:left; background-color:#{{Underground Items color light}}; padding:2px; margin-bottom:3px"&gt;&lt;big&gt;'''{{color2|000|Gem Plates}}:'''&lt;/big&gt;&lt;/div&gt;
+&lt;div style="clear:both; display: grid; grid-template-columns: repeat(auto-fill, minmax(130px, 1fr))"&gt;
+&lt;div&gt;{{Bag2|Flame Plate}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Splash Plate}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Zap Plate}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Meadow Plate}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Icicle Plate}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Fist Plate}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Toxic Plate}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Earth Plate}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Sky Plate}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Mind Plate}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Insect Plate}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Stone Plate}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Spooky Plate}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Draco Plate}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Dread Plate}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Iron Plate}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Pixie Plate}}&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="roundy" style="margin:auto; text-align:left; background-color:#{{Underground Items color light}}; padding:2px; margin-bottom:3px"&gt;&lt;big&gt;'''{{color2|000|Shards}}:'''&lt;/big&gt;&lt;/div&gt;
+&lt;div style="clear:both; display: grid; grid-template-columns: repeat(auto-fill, minmax(130px, 1fr))"&gt;
+&lt;div&gt;[[File:Red_Shard_Updated.png|25px]] [[Red Shard]]&lt;/div&gt;
+&lt;div&gt;[[File:Yellow_Shard_Updated.png|25px]] [[Yellow Shard]]&lt;/div&gt;
+&lt;div&gt;[[File:Green_Shard_Updated.png|25px]] [[Green Shard]]&lt;/div&gt;
+&lt;div&gt;[[File:Blue_Shard_Updated.png|25px]] [[Blue Shard]]&lt;/div&gt;
+&lt;div&gt;[[File:Grey_Shard_Updated.png|25px]] [[Grey Shard]]&lt;/div&gt;
+&lt;div&gt;[[File:Purple_Shard_Updated.png|25px]] [[Purple Shard]]&lt;/div&gt;
+&lt;div&gt;[[File:Ochre_Shard_Updated.png|25px]] [[Ochre Shard]]&lt;/div&gt;
+&lt;div&gt;[[File:Black_Shard_Updated.png|25px]] [[Black Shard]]&lt;/div&gt;
+&lt;div&gt;[[File:Crimson_Shard_Updated.png|25px]] [[Crimson Shard]]&lt;/div&gt;
+&lt;div&gt;[[File:Lime_Shard_Updated.png|25px]] [[Lime Shard]]&lt;/div&gt;
+&lt;div&gt;[[File:White_Shard_Updated.png|25px]] [[White Shard]]&lt;/div&gt;
+&lt;div&gt;[[File:Pink_Shard_Updated.png|25px]] [[Pink Shard]]&lt;/div&gt;
+&lt;div&gt;[[File:Cyan_Shard_Updated.png|25px]] [[Cyan Shard]]&lt;/div&gt;
+&lt;div&gt;[[File:Rose_Shard_Updated.png|25px]] [[Rose Shard]]&lt;/div&gt;
+&lt;div&gt;[[File:Brown_Shard_Updated.png|25px]] [[Brown Shard]]&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="roundy" style="margin:auto; text-align:left; background-color:#{{Underground Items color light}}; padding:2px; margin-bottom:3px"&gt;&lt;big&gt;'''{{color2|000|Underground|Restore Items}}:'''&lt;/big&gt;&lt;/div&gt;
+&lt;div style="clear:both; display: grid; grid-template-columns: repeat(auto-fill, minmax(130px, 1fr))"&gt;
+&lt;div&gt;{{Bag2|Small Restore}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Medium Restore}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Large Restore}}&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;noinclude&gt;[[Category:Item navigation templates]]&lt;/noinclude&gt;</text>
+    <contributor>
+      <username>SomeonealiveQN</username>
+      <id>5</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>25140</parentid>
+    <sha1>5036f12eb7dd1f3f311fa0f125a01c064002249d</sha1>
+  </revision>
+  <revision>
+    <id>25140</id>
+    <timestamp>2022-12-03T19:14:36Z</timestamp>
+    <text space="preserve" bytes="5117">&lt;div class="roundy" style="margin:auto; border: 3px solid #{{Underground Items color dark}}; white-space:nowrap; padding:3px; max-width:1000px"&gt;
+&lt;div class="roundy" style="margin:auto; text-align:center; background-color:#{{Underground Items color dark}}; padding:2px; margin-bottom:3px"&gt;&lt;big&gt;'''{{color2|000|Underground|Underground Items}}'''&lt;/big&gt;&lt;/div&gt;
+&lt;div class="roundy" style="margin:auto; text-align:left; background-color:#{{Underground Items color light}}; padding:2px; margin-bottom:3px"&gt;&lt;big&gt;'''{{color2|000|Fossils}}:'''&lt;/big&gt;&lt;/div&gt;
+&lt;div style="clear:both; display: grid; grid-template-columns: repeat(auto-fill, minmax(130px, 1fr))"&gt;
+&lt;div&gt;{{Bag2|Dome Fossil}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Helix Fossil}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Old Amber}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Claw Fossil}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Root Fossil}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Armor Fossil}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Skull Fossil}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Plume Fossil}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Cover Fossil}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Jaw Fossil}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Sail Fossil}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Drake Fossil}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Bird Fossil}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Dino Fossil}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Fish Fossil}}&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="roundy" style="margin:auto; text-align:left; background-color:#{{Underground Items color light}}; padding:2px; margin-bottom:3px"&gt;&lt;big&gt;'''{{color2|000|Diamonds|Diamond Items}}:'''&lt;/big&gt;&lt;/div&gt;
+&lt;div style="clear:both; display: grid; grid-template-columns: repeat(auto-fill, minmax(130px, 1fr))"&gt;
+&lt;div&gt;{{Bag2|Max Revive}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Rare Bone}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Everstone}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Revive}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Heart Scale}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Icy Rock}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Heat Rock}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Damp Rock}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Smooth Rock}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Star Piece}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Light Clay}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Hard Stone}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Odd Keystone}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Iron Ball}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Oval Stone}}&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="roundy" style="margin:auto; text-align:left; background-color:#{{Evolution items color light}}; padding:2px; margin-bottom:3px"&gt;&lt;big&gt;'''{{color2|000|Evolution Items}}:'''&lt;/big&gt;&lt;/div&gt;
+&lt;div style="clear:both; display: grid; grid-template-columns: repeat(auto-fill, minmax(130px, 1fr))"&gt;
+&lt;div&gt;{{Bag2|Water Stone}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Fire Stone}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Leaf Stone}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Thunder Stone}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Moon Stone}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Sun Stone}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Dawn Stone}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Dusk Stone}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Shiny Stone}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Ice Stone}}&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="roundy" style="margin:auto; text-align:left; background-color:#{{Underground Items color light}}; padding:2px; margin-bottom:3px"&gt;&lt;big&gt;'''{{color2|000|Gem Plates}}:'''&lt;/big&gt;&lt;/div&gt;
+&lt;div style="clear:both; display: grid; grid-template-columns: repeat(auto-fill, minmax(130px, 1fr))"&gt;
+&lt;div&gt;{{Bag2|Flame Plate}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Splash Plate}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Zap Plate}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Meadow Plate}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Icicle Plate}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Fist Plate}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Toxic Plate}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Earth Plate}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Sky Plate}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Mind Plate}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Insect Plate}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Stone Plate}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Spooky Plate}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Draco Plate}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Dread Plate}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Iron Plate}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Pixie Plate}}&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="roundy" style="margin:auto; text-align:left; background-color:#{{Underground Items color light}}; padding:2px; margin-bottom:3px"&gt;&lt;big&gt;'''{{color2|000|Shards}}:'''&lt;/big&gt;&lt;/div&gt;
+&lt;div style="clear:both; display: grid; grid-template-columns: repeat(auto-fill, minmax(130px, 1fr))"&gt;
+&lt;div&gt;[[File:Red_Shard_Updated.png|25px]] [[Red Shard]]&lt;/div&gt;
+&lt;div&gt;[[File:Yellow_Shard_Updated.png|25px]] [[Yellow Shard]]&lt;/div&gt;
+&lt;div&gt;[[File:Green_Shard_Updated.png|25px]] [[Green Shard]]&lt;/div&gt;
+&lt;div&gt;[[File:Blue_Shard_Updated.png|25px]] [[Blue Shard]]&lt;/div&gt;
+&lt;div&gt;[[File:Grey_Shard_Updated.png|25px]] [[Grey Shard]]&lt;/div&gt;
+&lt;div&gt;[[File:Purple_Shard_Updated.png|25px]] [[Purple Shard]]&lt;/div&gt;
+&lt;div&gt;[[File:Ochre_Shard_Updated.png|25px]] [[Ochre Shard]]&lt;/div&gt;
+&lt;div&gt;[[File:Black_Shard_Updated.png|25px]] [[Black Shard]]&lt;/div&gt;
+&lt;div&gt;[[File:Crimson_Shard_Updated.png|25px]] [[Crimson Shard]]&lt;/div&gt;
+&lt;div&gt;[[File:Lime_Shard_Updated.png|25px]] [[Lime Shard]]&lt;/div&gt;
+&lt;div&gt;[[File:White_Shard_Updated.png|25px]] [[White Shard]]&lt;/div&gt;
+&lt;div&gt;[[File:Pink_Shard_Updated.png|25px]] [[Pink Shard]]&lt;/div&gt;
+&lt;div&gt;[[File:Cyan_Shard_Updated.png|25px]] [[Cyan Shard]]&lt;/div&gt;
+&lt;div&gt;[[File:Brown_Shard_Updated.png|25px]] [[Brown Shard]]&lt;/div&gt;
+&lt;div&gt;[[File:Rose_Shard_Updated.png|25px]] [[Rose Shard]]&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="roundy" style="margin:auto; text-align:left; background-color:#{{Underground Items color light}}; padding:2px; margin-bottom:3px"&gt;&lt;big&gt;'''{{color2|000|Underground|Restore Items}}:'''&lt;/big&gt;&lt;/div&gt;
+&lt;div style="clear:both; display: grid; grid-template-columns: repeat(auto-fill, minmax(130px, 1fr))"&gt;
+&lt;div&gt;{{Bag2|Small Restore}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Medium Restore}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Large Restore}}&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;noinclude&gt;[[Category:Item navigation templates]]&lt;/noinclude&gt;</text>
+    <contributor>
+      <username>SomeonealiveQN</username>
+      <id>5</id>
+    </contributor>
+    <comment>Missing shards and fossils added</comment>
+    <model>wikitext</model>
+    <parentid>13391</parentid>
+    <sha1>441db643896a5413f06a496b1f2edba996bda104</sha1>
+  </revision>
+</page></mediawiki>

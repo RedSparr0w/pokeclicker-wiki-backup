@@ -1,0 +1,204 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Quickball</title>
+  <ns>0</ns>
+  <id>3549</id>
+  <revision>
+    <id>13404</id>
+    <timestamp>2022-08-11T05:04:34Z</timestamp>
+    <text space="preserve" bytes="2299">&lt;languages/&gt;
+&lt;translate&gt;
+
+&lt;!--T:1--&gt;
+{{Infobox Pokéball
+|name       = Quickball
+|image      = [[File:Quickball.png]]
+|caption    = In-Game image of the ''Quickball''.
+|price      = Variable
+|catchTime  = 1s
+|catchRate = Variable (Decreases with more route kills)
+*+15% (0 route kills)
+*+0% (4012 route kills)
+|location   = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*[[Quickball#Shops|Shops]]
+*[[Quickball#Dungeons|Dungeons]]
+}}
+
+==Description== &lt;!--T:2--&gt;
+
+&lt;!--T:7--&gt;
+The '''Quickball''' is a type of [[Pokéballs|Pokéball]]. It automatically tries to catch a wild Pokémon after defeating it if is the highest type of Pokéball active and there is a remaining supply in the Pokéball selector.
+
+==Details== &lt;!--T:3--&gt;
+
+&lt;!--T:8--&gt;
+A specialized Pokéball to capture Pokémon with. It provides an increased catch rate on routes with fewer Pokémon defeated, and an increased catch rate in Dungeons with more time remaining. It catches Pokémon in 1s.
+
+==Rate== &lt;!--T:4--&gt;
+
+===Routes=== &lt;!--T:9--&gt;
+
+&lt;!--T:10--&gt;
+{| class="wikitable"
+|+ Quickball Catch Rates
+|-
+! Route kills !! Catch chance (+%)
+|-
+| 0 || 15
+|-
+| 153 || 10 (Equal to Ultraball)
+|-
+| 719 || 5 (Equal to Greatball)
+|-
+| 4012 || 0 (Equal to Pokéball)
+|}
+
+&lt;!--T:11--&gt;
+[[File:Quickball-catchrate-graph.png|X-axis: Route kills&lt;br&gt;Y-axis: Catch rate|200px]]
+
+===Dungeons=== &lt;!--T:12--&gt;
+
+&lt;!--T:13--&gt;
+{| class="wikitable"
+|+ Quickball Catch Rates
+|-
+! % Time Remaining in Dungeon !! Catch chance (+%)
+|-
+| 100 || 15
+|-
+| 70.71 || 10 (Equal to Ultraball)
+|-
+| 50 || 5 (Equal to Greatball)
+|-
+| 0 || 0 (Equal to Pokéball)
+|}
+
+&lt;!--T:14--&gt;
+[[File:Quickball_Dungeon_Catch_Rate_Graph.png|X-axis: % Time Remaining in Dungeon&lt;br&gt;Y-axis: Catch rate|200px]]
+
+== Acquisition == &lt;!--T:5--&gt;
+===Shops===
+{{ItemPrice/head‎|Pokéballs}}
+{{ItemPrice|[[Berry Master#Trades|Goldenrod City]]|20 - 40 Random [[File:Cheri.png|25px]] [[Berries#Gen 1 Berries|Gen 1 Berries]] &lt;br&gt; 5 - 15 Random [[File:Persim.png|25px]] [[Berries#Gen 2 Berries|Gen 2 Berries]]}}
+|}
+|}
+
+===Dungeons=== &lt;!--T:15--&gt;
+{{Loot/head‎|Pokéballs}}
+{{LootItem|Victory Road Unova|Epic}}
+{{LootItem|Pokéball Factory|Epic}}
+{{LootItem|Wela Volcano Park|Epic}}
+{{LootItem|Hokulani Observatory|Legendary}}
+|}
+|}
+
+&lt;!--T:6--&gt;
+&lt;br&gt;{{Pokéballs}}&lt;br&gt;
+[[Category:Items]] [[Category:Pokéballs]]
+&lt;/translate&gt;</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment>Marked this version for translation</comment>
+    <model>wikitext</model>
+    <parentid>13403</parentid>
+    <sha1>e981aaf0e49bb7372d2b50a985f7f88d79ca71f8</sha1>
+  </revision>
+  <revision>
+    <id>13403</id>
+    <timestamp>2022-08-11T05:03:13Z</timestamp>
+    <text space="preserve" bytes="2194">&lt;languages/&gt;
+&lt;translate&gt;
+
+&lt;!--T:1--&gt;
+{{Infobox Pokéball
+|name       = Quickball
+|image      = [[File:Quickball.png]]
+|caption    = In-Game image of the ''Quickball''.
+|price      = Variable
+|catchTime  = 1s
+|catchRate = Variable (Decreases with more route kills)
+*+15% (0 route kills)
+*+0% (4012 route kills)
+|location   = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*[[Quickball#Shops|Shops]]
+*[[Quickball#Dungeons|Dungeons]]
+}}
+
+==Description== &lt;!--T:2--&gt;
+
+The '''Quickball''' is a type of [[Pokéballs|Pokéball]]. It automatically tries to catch a wild Pokémon after defeating it if is the highest type of Pokéball active and there is a remaining supply in the Pokéball selector.
+
+==Details== &lt;!--T:3--&gt;
+
+A specialized Pokéball to capture Pokémon with. It provides an increased catch rate on routes with fewer Pokémon defeated, and an increased catch rate in Dungeons with more time remaining. It catches Pokémon in 1s.
+
+==Rate== &lt;!--T:4--&gt;
+
+===Routes===
+
+{| class="wikitable"
+|+ Quickball Catch Rates
+|-
+! Route kills !! Catch chance (+%)
+|-
+| 0 || 15
+|-
+| 153 || 10 (Equal to Ultraball)
+|-
+| 719 || 5 (Equal to Greatball)
+|-
+| 4012 || 0 (Equal to Pokéball)
+|}
+
+[[File:Quickball-catchrate-graph.png|X-axis: Route kills&lt;br&gt;Y-axis: Catch rate|200px]]
+
+===Dungeons===
+
+{| class="wikitable"
+|+ Quickball Catch Rates
+|-
+! % Time Remaining in Dungeon !! Catch chance (+%)
+|-
+| 100 || 15
+|-
+| 70.71 || 10 (Equal to Ultraball)
+|-
+| 50 || 5 (Equal to Greatball)
+|-
+| 0 || 0 (Equal to Pokéball)
+|}
+
+[[File:Quickball_Dungeon_Catch_Rate_Graph.png|X-axis: % Time Remaining in Dungeon&lt;br&gt;Y-axis: Catch rate|200px]]
+
+== Acquisition == &lt;!--T:5--&gt;
+===Shops===
+{{ItemPrice/head‎|Pokéballs}}
+{{ItemPrice|[[Berry Master#Trades|Goldenrod City]]|20 - 40 Random [[File:Cheri.png|25px]] [[Berries#Gen 1 Berries|Gen 1 Berries]] &lt;br&gt; 5 - 15 Random [[File:Persim.png|25px]] [[Berries#Gen 2 Berries|Gen 2 Berries]]}}
+|}
+|}
+
+===Dungeons===
+{{Loot/head‎|Pokéballs}}
+{{LootItem|Victory Road Unova|Epic}}
+{{LootItem|Pokéball Factory|Epic}}
+{{LootItem|Wela Volcano Park|Epic}}
+{{LootItem|Hokulani Observatory|Legendary}}
+|}
+|}
+
+&lt;!--T:6--&gt;
+&lt;br&gt;{{Pokéballs}}&lt;br&gt;
+[[Category:Items]] [[Category:Pokéballs]]
+&lt;/translate&gt;</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>13402</parentid>
+    <sha1>58315a465cc4735050091fa612a703b1991fa709</sha1>
+  </revision>
+</page></mediawiki>

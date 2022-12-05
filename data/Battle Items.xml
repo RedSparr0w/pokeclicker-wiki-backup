@@ -1,0 +1,45 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Battle Items</title>
+  <ns>0</ns>
+  <id>73</id>
+  <revision>
+    <id>813</id>
+    <timestamp>2022-06-29T18:30:45Z</timestamp>
+    <text space="preserve" bytes="2167">'''Battle Items''' are common items used throughout gameplay to buff various player attributes. Each item boosts its corresponding parameter by 50% for 30 seconds per use. Buff duration can be extended indefinitely via multiple uses of the same item. In addition to being available in certain [[Shops|shops]], the items can be obtained by opening chests in [[Dungeons|dungeons]]. Most of the items are also given as rewards for clearing certain stages in the [[Battle Frontier]].
+
+==List of Battle Items==
+Outside of [[Kanto]], all battle items can be found in the Pokémart shortcut that is unlocked after beating the Elite Four in [[Johto]]. They can also be purchased at shops in [[Towns &amp; Cities#Hoenn|LilyCove City]], [[Towns &amp; Cities#Sinnoh|Veilstone City]], and [[Towns &amp; Cities#Unova|Opelucid City]].
+
+{| class="wikitable"
+! rowspan=2|Item !! colspan=2|Boosted parameter !! rowspan=2|[[Kanto]] shop locations !! rowspan=2|Cost !! rowspan=2|Battle Frontier stage rewards
+|-
+! Type !! Amount
+|-
+| {{Bag3|X Attack}} [[XAttack]] || Pokémon attack || 50% || [[Shops#Kanto: Locations &amp; Items|Lavender Town]] || 600 {{pdollar}} || Stage 40
+|-
+| {{Bag3|X Click}} [[XClick]] || Click attack || 50% || [[Shops#Kanto: Locations &amp; Items|Saffron City]], [[Shops#Kanto: Locations &amp; Items|Viridian City]] || 400 {{pdollar}} || Stage 35
+|-
+| {{Bag3|Lucky Egg}} [[Lucky Egg]] || Experience gain || 50% || [[Shops#Kanto: Locations &amp; Items|Pewter City]], [[Shops#Kanto: Locations &amp; Items|Vermillion City]], [[Shops#Kanto: Locations &amp; Items|Fuchsia City]] || 800 {{pdollar}} || Stage 160
+|-
+| {{Bag3|Token Collector}} [[Token Collector]] || [[Dungeon Tokens|Dungeon Token]] {{dungeontokens}} gain || 50% || [[Shops#Kanto: Locations &amp; Items|Pewter City]] || 1000 {{pdollar}} || None
+|-
+| {{Bag3|Dowsing Machine}} [[Dowsing Machine]] || [[Rare hold items|Rare Hold Item]] rate&lt;br&gt;[[Dungeons|Dungeon]] chest item yield || 50% &lt;br&gt; 2x || rowspan=2 | [[Shops#Kanto: Locations &amp; Items|Lavender Town]] || 1500 {{pdollar}} || Stage 180
+|-
+| {{Bag3|Lucky Incense}} [[Lucky Incense]] || [[Poké Dollar]] {{pdollar}} gain || 50% || 2000 {{pdollar}} || Stage 170
+|}
+
+
+
+
+{{Battle items}}&lt;br&gt;</text>
+    <contributor>
+      <username>Dragonkin550</username>
+      <id>27</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>812</parentid>
+    <sha1>20d7eceefa026b6e0e443218acf300bc22d135f4</sha1>
+  </revision>
+</page></mediawiki>

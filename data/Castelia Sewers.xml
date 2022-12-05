@@ -1,0 +1,109 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Castelia Sewers</title>
+  <ns>0</ns>
+  <id>1738</id>
+  <revision>
+    <id>10374</id>
+    <timestamp>2022-07-27T02:43:17Z</timestamp>
+    <text space="preserve" bytes="2993">{{Infobox dungeon
+|name    = Castelia Sewers
+|image   = [[File:Castelia Sewers.png|300px]]
+|caption = A map of Castelia Sewers.
+|tokens  = 146,500
+|location = Castelia City
+}}
+'''Castelia Sewers''' is a [[Dungeons|dungeon]] in [[Unova]]. It initially has 81 tiles arranged in an 9x9 square, including 9 chest tiles, 21 non-boss encounter tiles, and 1 boss encounter tile. Wild Encounters have 2,603,000 HP.
+
+==Encounter  Tables==
+
+===Wild Encounters===
+
+{| class="wikitable"
+|-
+! Wild Pokémon !! colspan=2|Trainers
+|-
+! Encounter !! Trainer !! Pokémon Team
+|-
+| [[File:Rattata.png|40px]] Rattata ||  [[File:Janitor.png|40px]] Janitor Felix || [[File:Lillipup.png|40px]] Lillipup, [[File:Trubbish.png|40px]] Trubbish 
+|-
+| [[File:Zubat.png|40px]] Zubat || [[File:Doctor.png|40px]] Doctor Heath || [[File:Sewaddle.png|40px]] Sewaddle
+|-
+| [[File:Grimer.png|40px]] Grimer || [[File:Worker.png|40px]] Worker Zack || [[File:Drilbur.png|40px]] Drilbur
+|-
+| rowspan=2|[[File:Muk.png|40px]] Muk || [[File:Worker.png|40px]] Worker Scott || [[File:Timburr.png|40px]] Timburr
+|-
+| [[File:Scientist_(female).png|40px]] Scientist Caroline || [[File:Grimer.png|40px]] Grimer
+|-
+| rowspan=2|[[File:Trubbish.png|40px]] Trubbish || [[File:Scientist_(male).png|40px]] Scientist Clarke || [[File:Magnemite.png|40px]] Magnemite
+|-
+| [[File:Janitor.png|40px]] Janitor Brady || [[File:Marill.png|40px]] Marill, [[File:Cinccino.png|40px]] Cinccino
+|}
+
+===Boss Encounters===
+
+{| class="wikitable"
+|-
+! Wild Pokémon !! Base Health !! Boss Trainer !! Pokémon Team !! Base Health
+|-
+| rowspan=2 colspan=2|&lt;center&gt; N/A || [[File:Team_Plasma_Grunt_(male).png|40px]] Team Plasma Grunt || [[File:Sandile.png|40px]] Sandile || rowspan=2|&lt;center&gt;15,000,000
+|-
+| [[File:Team_Plasma_Grunt_(female).png|40px]] Team Plasma Grunt || [[File:Scraggy.png|40px]] Scraggy
+|}
+
+==Items==
+
+{| class="wikitable"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+|-
+| align="center" colspan=6| '''Common'''
+|-
+| {{Bag2|xClick}} || 2 || 49.98% || 48.00% || 40.00%
+|-
+| {{Bag2|xAttack}} || N/A || 24.99% || 24.00% || 20.00%
+|-
+| align="center" colspan=6| '''Rare'''
+|-
+| {{Bag2|Red Shard}} || N/A || 10.00% || 10.50% || 12.47%
+|-
+| {{Bag2|Blue Shard}} || N/A || 10.00% || 10.50% || 12.47%
+|-
+| align="center" colspan=6| '''Epic'''
+|-
+| {{Bag2|Toxic Plate}} || N/A || 2.01% || 2.60% || 5.00%
+|-
+| {{Bag2|Mind Plate}} || N/A || 2.01% || 2.60% || 5.00%
+|-
+| align="center" colspan=6| '''Legendary'''
+|-
+| {{Bag2|Small Restore}} || N/A || 0.14% || 0.23% || 0.57%
+|-
+| {{Bag2|Ultraball}} || N/A || 0.14% || 0.23% || 0.57%
+|-
+| {{Bag2|Revive}} || N/A || 0.14% || 0.23% || 0.57%
+|-
+| {{Bag2|Medium Restore}} || 2 || 0.28% || 0.45% || 1.14%
+|-
+| {{Bag2|Rare Bone}} || N/A || 0.14% || 0.23% || 0.57%
+|-
+| {{Bag2|Large Restore}} || N/A || 0.14% || 0.23% || 0.57%
+|-
+| align="center" colspan=6| '''Mythic'''
+|-
+| {{Bag2|Heart Scale}} || N/A || 0.01% || 0.22% || 1.06%
+|}
+
+{{Unova Dungeons}}
+
+[[Category:Dungeons|^Region #5 - Unova^c]]</text>
+    <contributor>
+      <username>LatiosRider</username>
+      <id>35</id>
+    </contributor>
+    <comment>Add Category header</comment>
+    <model>wikitext</model>
+    <parentid>10373</parentid>
+    <sha1>de7757e1a69494748823f4f12d139d4edd8e1224</sha1>
+  </revision>
+</page></mediawiki>

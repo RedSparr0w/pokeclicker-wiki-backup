@@ -1,0 +1,62 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Discord Integration</title>
+  <ns>0</ns>
+  <id>3488</id>
+  <revision>
+    <id>13281</id>
+    <timestamp>2021-12-16T16:24:32Z</timestamp>
+    <text space="preserve" bytes="1696">Linking a Discord account to a Pokéclicker save is necessary to unlock certain content, like the hints for the [[Enigma|Enigma berry]] and the ability to redeem [[Obtainable Pokémon#Events &amp; Discord Exclusives|Discord-exclusive Pokémon]] from codes. The same Discord account and Pokémon codes can be reused across multiple save files. Linking to Discord will '''not'''  allow you to recover or transfer save files.
+
+=== Linking ===
+# Navigate to the "Save" modal, found under the start menu.
+# Click on the yellow button labeled "Link Discord."
+# Log into a Discord account if necessary, then scroll down and hit "authorize."
+# You should be redirected back to the main page. (If you have more than one save file, select one.) You should see a green notification on the top left of your screen confirming that you've linked your Discord account.
+# Repeat this process for as many save files that you want to link to a Discord account.
+
+=== Troubleshooting ===
+If you have trouble inputting Discord codes into Pokéclicker, try these steps:
+* First, make sure that the Discord account you have linked to your save file is the same one that you redeemed the code with. (This can be checked by uploading your save to the Pokéclicker Discord server: if the bot doesn't recognize your username,  If not, you can switch accounts on the page that asks for your authorization.
+* Unlink your Discord, wait 30-60 seconds, then relink it again. (You may have to repeat this step multiple times for best results.)
+* '''Save your game,''' then clear your browser's cache and try linking again.
+
+If you are still having problems with Discord integration, feel free to message our #bugs channel on Discord.</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment>Protected "[[Discord Integration]]": Protection ([Edit=Allow only autoconfirmed users] (indefinite) [Move=Allow only autoconfirmed users] (indefinite) [Delete=Allow only autoconfirmed users] (indefinite) [Protect=Allow only autoconfirmed users] (indefinite))</comment>
+    <model>wikitext</model>
+    <parentid>13280</parentid>
+    <sha1>0eff64a68fa7bc20f2484024a430a3d2696baf21</sha1>
+  </revision>
+  <revision>
+    <id>13280</id>
+    <timestamp>2021-12-16T14:57:48Z</timestamp>
+    <text space="preserve" bytes="1696">Linking a Discord account to a Pokéclicker save is necessary to unlock certain content, like the hints for the [[Enigma|Enigma berry]] and the ability to redeem [[Obtainable Pokémon#Events &amp; Discord Exclusives|Discord-exclusive Pokémon]] from codes. The same Discord account and Pokémon codes can be reused across multiple save files. Linking to Discord will '''not'''  allow you to recover or transfer save files.
+
+=== Linking ===
+# Navigate to the "Save" modal, found under the start menu.
+# Click on the yellow button labeled "Link Discord."
+# Log into a Discord account if necessary, then scroll down and hit "authorize."
+# You should be redirected back to the main page. (If you have more than one save file, select one.) You should see a green notification on the top left of your screen confirming that you've linked your Discord account.
+# Repeat this process for as many save files that you want to link to a Discord account.
+
+=== Troubleshooting ===
+If you have trouble inputting Discord codes into Pokéclicker, try these steps:
+* First, make sure that the Discord account you have linked to your save file is the same one that you redeemed the code with. (This can be checked by uploading your save to the Pokéclicker Discord server: if the bot doesn't recognize your username,  If not, you can switch accounts on the page that asks for your authorization.
+* Unlink your Discord, wait 30-60 seconds, then relink it again. (You may have to repeat this step multiple times for best results.)
+* '''Save your game,''' then clear your browser's cache and try linking again.
+
+If you are still having problems with Discord integration, feel free to message our #bugs channel on Discord.</text>
+    <contributor>
+      <username>Catie-cat</username>
+      <id>30</id>
+    </contributor>
+    <comment>Created page with "Linking a Discord account to a Pokéclicker save is necessary to unlock certain content, like the hints for the [[Enigma|Enigma berry]] and the ability to redeem [[Obtainable Pokémon#Events &amp; Discord Exclusives|Discord-exclusive Pokémon]] from codes. The same Discord account and Pokémon codes can be reused across multiple save files. Linking to Discord will '''not'''  allow you to recover or transfer save files.  === Linking === # Navigate to the "Save" modal, found u..."</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>0eff64a68fa7bc20f2484024a430a3d2696baf21</sha1>
+  </revision>
+</page></mediawiki>

@@ -1,0 +1,129 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Flower Paradise</title>
+  <ns>0</ns>
+  <id>440</id>
+  <revision>
+    <id>5963</id>
+    <timestamp>2022-07-30T05:05:10Z</timestamp>
+    <text space="preserve" bytes="2935">{{Infobox dungeon
+|name    = Flower Paradise
+|image   = [[File:Flower Paradise.png|300px]]
+|caption = A bird's-eye view of Flower Paradise.
+|tokens  = 96,500
+|location = North of Route 224.
+}}
+'''Flower Paradise''' is a [[dungeons|dungeon]] in [[Sinnoh]]. It initially has 64 tiles arranged in an 8x8 square, including 8 chest tiles, 19 non-boss encounter tiles, and 1 boss encounter tile. Wild Encounters have 2,603,000 HP.
+
+== Encounter Tables ==
+
+===Wild Encounters===
+
+{| class="wikitable"
+|-
+! Wild Pokémon !! colspan=2|Trainers
+|-
+! Encounter !! Trainer !! Pokémon Team
+|-
+| [[File:Gloom.png|40px]] Gloom || colspan=2 rowspan=7| &lt;center&gt;N/A
+|-
+| [[File:Bellsprout.png|40px]] Bellsprout
+|-
+| [[File:Tangela.png|40px]] Tangela
+|-
+| [[File:Skiploom.png|40px]] Skiploom 
+|-
+| [[File:Lombre.png|40px]] Lombre
+|-
+| [[File:Seedot.png|40px]] Seedot 
+|-
+| [[File:Roselia.png|40px]] Roselia
+|}
+
+===Boss Encounters===
+
+{| class="wikitable"
+|-
+! Wild Pokémon !! Base Health !! Boss Trainer !! Pokémon Team !! Base Health
+|-
+| [[File:Parasect.png|40px]] Parasect || &lt;center&gt;9,900,000  || rowspan=4 colspan=3 | &lt;center&gt; N/A
+|-
+| [[File:Breloom.png|40px]] Breloom || rowspan=3|&lt;center&gt;11,000,000
+|-
+| [[File:Shaymin_(land).png|40px]] Shaymin (land) 
+|-
+| [[File:Shaymin_(sky).png|40px]] '''Shaymin (sky)*'''
+|}
+'''*Note Shaymin (land) must be caught for Shaymin (sky) to appear.'''
+
+==Items==
+
+===No Debuff===
+
+{| class="wikitable"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+|-
+| align="center" colspan=6| '''Common'''
+|-
+| {{Bag2|xAttack}} || N/A || 25.24% || 24.44% || 21.06%
+|-
+| {{Bag2|Mago}} || N/A || 25.24% || 24.44% || 21.06%
+|-
+| {{Bag2|Aguav}} || N/A || 25.24% || 24.44% || 21.06%
+|-
+| align="center" colspan=6| '''Rare'''
+|-
+| {{Bag2|Blue Shard}} || N/A || 10.11% || 10.69% || 13.14%
+|-
+| {{Bag2|Green Shard}} || N/A || 10.11% || 10.69% || 13.14%
+|-
+| align="center" colspan=6| '''Epic'''
+|-
+| {{Bag2|Meadow Plate}} || N/A || 2.03% || 2.65% || 5.27%
+|-
+| {{Bag2|Sky Plate}} || N/A || 2.03% || 2.65% || 5.27%
+|}
+
+===Debuff Drop Table===
+
+After Reaching Alola, the drop chance for items in Sinnoh will be debuffed for any loot with a Tier rarer than Rare (ie: Epic, Legendary, Mythic).
+
+{| class="wikitable collapsible collapsed"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+|-
+| align="center" colspan=6| '''Common'''
+|-
+| {{Bag2|xAttack}} || N/A || 25.03% || 25.03% || 25.03%
+|-
+| {{Bag2|Mago}} || N/A || 25.03% || 25.03% || 25.03%
+|-
+| {{Bag2|Aguav}} || N/A || 25.03% || 25.03% || 25.03%
+|-
+| align="center" colspan=6| '''Rare'''
+|-
+| {{Bag2|Blue Shard}} || N/A || 12.01% || 12.01% || 12.01%
+|-
+| {{Bag2|Green Shard}} || N/A || 12.01% || 12.01% || 12.01%
+|-
+| align="center" colspan=6| '''Epic'''
+|-
+| {{Bag2|Meadow Plate}} || N/A || 0.45% || 0.45% || 0.45%
+|-
+| {{Bag2|Sky Plate}} || N/A || 0.45% || 0.45% || 0.45%
+|}
+
+{{Sinnoh Dungeons}}
+
+[[Category:Dungeons|^Region #4 - Sinnoh^s]]</text>
+    <contributor>
+      <username>ThePantMan</username>
+      <id>8</id>
+    </contributor>
+    <comment>/* Debuff Drop Table */</comment>
+    <model>wikitext</model>
+    <parentid>5962</parentid>
+    <sha1>ba3ed42c78881130ea02ad9df5e0a8a026a2c1e1</sha1>
+  </revision>
+</page></mediawiki>

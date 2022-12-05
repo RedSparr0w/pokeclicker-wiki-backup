@@ -1,0 +1,56 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Treasure Scanner</title>
+  <ns>0</ns>
+  <id>1823</id>
+  <revision>
+    <id>10796</id>
+    <timestamp>2022-07-22T16:18:18Z</timestamp>
+    <text space="preserve" bytes="1738">&lt;languages/&gt;
+&lt;translate&gt;&lt;!--T:1--&gt;
+{{Infobox Oak Item
+|name       = Treasure Scanner
+|image      = [[File:TreasureScanner.png]]
+|caption    = Artwork of the ''Treasure Scanner''.
+|dex = 0 (Bought at Cinnabar Island in [[Kanto]] for 10,000 {{Questpoints}})
+|effect     = Randomly multiplies uncovered items in the [[Underground]]
+}}
+
+&lt;!--T:2--&gt;
+The '''Treasure Scanner''' is a type of [[Oak Items|Oak Item]]. When equipped, it provides a chance to multiply mined items in the [[Underground]]. It only starts taking effect upon fully uncovering an item. After duplicating an item, it activates again, providing ''another'' chance to reward the same item. This can happen a maximum of three times, potentially giving four of the same item after uncovering one. Unlike most other Oak Items, it is not unlocked by capturing unique Pokémon and instead can be bought from the [[Shops#Kanto: Locations &amp; Items|Cinnabar Island Shop]] in [[Kanto]].
+
+==Details== &lt;!--T:3--&gt;
+
+&lt;!--T:4--&gt;
+{| class="wikitable sortable"
+|-
+! Level !! Effect !! Upgrade Requirement !! Upgrade Cost
+|-
+|0 || 4% duplication chance || 20 Mined Items || style="text-align:right" | 50,000 {{pdollar}}
+|-
+|1 || 8% duplication chance || 20 Mined Items || style="text-align:right" | 100,000 {{pdollar}}
+|-
+|2 || 12% duplication chance || 60 Mined Items || style="text-align:right" | 250,000 {{pdollar}}
+|-
+|3 || 16% duplication chance || 100 Mined Items || style="text-align:right" | 500,000 {{pdollar}}
+|-
+|4 || 20% duplication chance || 200 Mined Items || style="text-align:right" | 1,000,000 {{pdollar}}
+|-
+|5/Max || 24% duplication chance || N/A || style="text-align:right" | N/A
+|-
+|}
+
+&lt;!--T:5--&gt;
+&lt;br&gt;{{Oak items}}&lt;br&gt;
+[[Category:Oak Items]] [[Category:Items]]
+&lt;/translate&gt;</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment>Marked this version for translation</comment>
+    <model>wikitext</model>
+    <parentid>10795</parentid>
+    <sha1>1d22d9d51598ab6d47fd9c91b2a818623d89cc81</sha1>
+  </revision>
+</page></mediawiki>

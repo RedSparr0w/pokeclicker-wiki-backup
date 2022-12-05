@@ -1,0 +1,118 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>P2 Laboratory</title>
+  <ns>0</ns>
+  <id>1756</id>
+  <revision>
+    <id>29995</id>
+    <timestamp>2022-12-04T19:45:40Z</timestamp>
+    <text space="preserve" bytes="2938">{{Infobox dungeon
+|name    = P2 Laboratory
+|image   = [[File:P2 Laboratory.png|300px]]
+|caption = A map of P2 Laboratory.
+|tokens  = 396,500
+|location = Unova Route 18
+}}
+'''P2 Laboratory''' is a [[Dungeons|dungeon]] in [[Unova]]. It initially has 81 tiles arranged in an 9x9 square, including 9 chest tiles, 21 non-boss encounter tiles, and 1 boss encounter tile. Wild Encounters have 5,403,000 HP.
+
+==Encounter  Tables==
+
+===Wild Encounters===
+
+{| class="wikitable"
+|-
+! Wild Pokémon !! colspan=2|Trainers
+|-
+! Encounter !! Trainer !! Pokémon Team
+|-
+| [[File:Scyther.png|40px]] Scyther ||  rowspan=7 colspan=3|&lt;center&gt;N/A 
+|-
+| [[File:Electrode.png|40px]] Electrode
+|-
+| [[File:Pineco.png|40px]] Pineco
+|-
+| [[File:Forretress.png|40px]] Forretress
+|-
+| [[File:Metang.png|40px]] Metang
+|-
+| [[File:Ferroseed.png|40px]] Ferroseed
+|-
+| [[File:Ferrothorn.png|40px]] Ferrothorn
+|}
+
+===Boss Encounters===
+
+{| class="wikitable"
+|-
+! Wild Pokémon !! Base Health !! Boss Trainer !! Pokémon Team !! Base Health
+|-
+| [[File:Ursaring.png|40px]] '''Ursaring*''' || rowspan=2|&lt;center&gt; 58,000,000 || rowspan=7|[[File:Team_Plasma_(colress).png|30px]] Team Plasma Colress || [[File:Magneton.png|40px]] Magneton || rowspan=5|&lt;center&gt;10,000,000
+|-
+| [[File:Durant.png|40px]] '''Durant*''' || [[File:Rotom_(Wash).png|40px]] Rotom (Wash)
+|-
+| [[File:Mawile.png|40px]] '''Mawile*''' || rowspan=5|&lt;center&gt;62,000,000 || [[File:Metagross.png|40px]] Metagross
+|-
+| [[File:Sableye.png|40px]] '''Sableye*''' || [[File:Beheeyem.png|40px]] Beheeyem
+|-
+| [[File:Zangoose.png|40px]] '''Zangoose*''' || [[File:Magnezone.png|40px]] Magnezone
+|-
+| [[File:Audino.png|40px]] '''Audino*''' || rowspan=2|[[File:Klinklang.png|40px]] Klinklang || rowspan=2|&lt;center&gt;11,000,000
+|-
+| [[File:Genesect.png|40px]] '''Genesect*'''
+|-
+|}
+
+'''*Must have cleared P2 Laboratory at least once to unlock all Dungeon Boss Pokémon'''
+
+==Items==
+
+{| class="wikitable"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+|-
+| align="center" colspan=6| '''Common'''
+|-
+| {{Bag2|xClick}} || N/A || 12.50% || 12.03% || 10.11%
+|-
+| {{Bag2|xAttack}} || 2 || 24.99% || 24.05% || 20.21%
+|-
+| {{Bag2|Token Collector}} || 2 || 24.99% || 24.05% || 20.21%
+|-
+| {{Pokemon|Forretress}} || N/A || 12.50% || 12.03% || 10.11%
+|-
+| align="center" colspan=6| '''Rare'''
+|-
+| {{Bag2|Red Shard}} || N/A || 5.00% || 5.26% || 6.30%
+|-
+| {{Bag2|Blue Shard}} || N/A || 5.00% || 5.26% || 6.30%
+|-
+| {{Bag2|Green Shard}} || N/A || 5.00% || 5.26% || 6.30%
+|-
+| {{Bag2|Yellow Shard}} || N/A || 5.00% || 5.26% || 6.30%
+|-
+| align="center" colspan=6| '''Epic'''
+|-
+| {{Bag2|Iron Plate}} || 2 || 1.60% || 2.08% || 4.04%
+|-
+| {{Bag2|Insect Plate}} || 2 || 1.60% || 2.08% || 4.04%
+|-
+| {{Bag2|Zap Plate}} || N/A || 0.80% || 1.04% || 2.02%
+|-
+| align="center" colspan=6| '''Legendary'''
+|-
+| {{Bag2|Revive}} || N/A || 1.00% || 1.59% || 4.03%
+|}
+
+{{Unova Dungeons}}
+
+[[Category:Dungeons|^Region #5 - Unova^x]]</text>
+    <contributor>
+      <username>SomeonealiveQN</username>
+      <id>5</id>
+    </contributor>
+    <comment>/* Boss Encounters */</comment>
+    <model>wikitext</model>
+    <parentid>10630</parentid>
+    <sha1>f182b6c486d3a7711a35cdb743af37ef2f48286a</sha1>
+  </revision>
+</page></mediawiki>

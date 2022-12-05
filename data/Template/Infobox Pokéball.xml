@@ -1,0 +1,170 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Template:Infobox Pokéball</title>
+  <ns>10</ns>
+  <id>771</id>
+  <revision>
+    <id>8016</id>
+    <timestamp>2022-08-02T22:20:51Z</timestamp>
+    <text space="preserve" bytes="1299">&lt;translate&gt;
+&lt;!--T:1--&gt;
+{|class="infobox bordered" style="float:right; width:264px; font-size:90%; text-align:left; border:2px solid #94493a; padding:3px;" cellpadding="3"
+|- 
+!colspan="2" style="font-size:110%; text-align:center; background-color:#960018; color:#FFF;" | {{{name}}}
+|-
+{{#if:{{{image&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} colspan="2" style="text-align:center;" {{!}}{{{image}}}{{#if:{{{symbol|}}}|&lt;br /&gt;{{{symbol}}}}}{{#if:{{{caption|}}}|&lt;br /&gt;{{{caption}}}}}
+{{!}}-
+}}
+{{#if:{{{price&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#c41e3a; color:#000;" {{!}}'''Price'''
+{{!}}{{{price}}}
+{{!}}-
+}}
+{{#if:{{{location&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#c41e3a; color:#000;" {{!}}'''Catch time'''
+{{!}}{{{catchTime}}}
+{{!}}-
+}}
+{{#if:{{{location&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#c41e3a; color:#000;" {{!}}'''Catch rate'''
+{{!}}&amp;plus;{{{catchRate}}}
+{{!}}-
+}}
+{{#if:{{{location&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#c41e3a; color:#000;" {{!}}'''Locations'''
+{{!}}{{{location}}}
+{{!}}-
+}}
+|}&lt;noinclude&gt;
+
+== Code == &lt;!--T:2--&gt;
+&lt;pre&gt;{{Infobox character general
+|name       = 
+|image      = 
+|caption    = 
+|price      = 
+|catchRate  = 
+|catchTime  = 
+|location   = 
+}}&lt;/pre&gt;
+&lt;/translate&gt;</text>
+    <contributor>
+      <username>Dragonkin550</username>
+      <id>27</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>8015</parentid>
+    <sha1>dfdaa8f76ba397218b1864fcf151ad123b23163c</sha1>
+  </revision>
+  <revision>
+    <id>8015</id>
+    <timestamp>2022-08-02T22:17:02Z</timestamp>
+    <text space="preserve" bytes="1298">&lt;translate&gt;
+&lt;!--T:1--&gt;
+{|class="infobox bordered" style="float:right; width:264px; font-size:90%; text-align:left; border:2px solid #94493a; padding:3px;" cellpadding="3"
+|- 
+!colspan="2" style="font-size:110%; text-align:center; background-color:#960018; color:#FFF;" | {{{name}}}
+|-
+{{#if:{{{image&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} colspan="2" style="text-align:center;" {{!}}{{{image}}}{{#if:{{{symbol|}}}|&lt;br /&gt;{{{symbol}}}}}{{#if:{{{caption|}}}|&lt;br /&gt;{{{caption}}}}}
+{{!}}-
+}}
+{{#if:{{{price&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#c41e3a; color:#000;" {{!}}'''Price'''
+{{!}}{{{price}}}
+{{!}}-
+}}
+{{#if:{{{location&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#c41e3a; color:#000;" {{!}}'''Catch time'''
+{{!}}{{{catchTime}}}
+{{!}}-
+}}
+{{#if:{{{location&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#c41e3a; color:#000;" {{!}}'''Catch rate'''
+{{!}}&amp;plus;{{{catchRate}}}
+{{!}}-
+}}
+{{#if:{{{location&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#c41e3a; color:#000;" {{!}}'''Locations'''
+{{!}}{{{location}}}
+{{!}}-
+}}
+|}&lt;noinclude&gt;
+
+== Code == &lt;!--T:2--&gt;
+&lt;pre&gt;{{Infobox character general
+|name       = 
+|image      = 
+|caption    = 
+|price      = 
+|catchRate  = 
+|catchTime  = 
+|location  = 
+}}&lt;/pre&gt;
+&lt;/translate&gt;</text>
+    <contributor>
+      <username>Dragonkin550</username>
+      <id>27</id>
+    </contributor>
+    <comment>Undo revision 20815 by [[Special:Contributions/Dragonkin550|Dragonkin550]] ([[User talk:Dragonkin550|talk]]) nope, was still broken.</comment>
+    <model>wikitext</model>
+    <parentid>8014</parentid>
+    <sha1>2dc63640df33c36cfbf70cf60a34ffa2fe3bf98b</sha1>
+  </revision>
+  <revision>
+    <id>8014</id>
+    <timestamp>2022-08-02T22:14:03Z</timestamp>
+    <text space="preserve" bytes="1276">&lt;translate&gt;
+{|class="infobox bordered" style="float:right; width:264px; font-size:90%; text-align:left; border:2px solid #94493a; padding:3px;" cellpadding="3"
+|- 
+!colspan="2" style="font-size:110%; text-align:center; background-color:#960018; color:#FFF;" | {{{name}}}
+|-
+{{#if:{{{image&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} colspan="2" style="text-align:center;" {{!}}{{{image}}}{{#if:{{{symbol|}}}|&lt;br /&gt;{{{symbol}}}}}{{#if:{{{caption|}}}|&lt;br /&gt;{{{caption}}}}}
+{{!}}-
+}}
+{{#if:{{{price&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#c41e3a; color:#000;" {{!}}'''Price'''
+{{!}}{{{price}}}
+{{!}}-
+}}
+{{#if:{{{location&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#c41e3a; color:#000;" {{!}}'''Catch time'''
+{{!}}{{{catchTime}}}
+{{!}}-
+}}
+{{#if:{{{location&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#c41e3a; color:#000;" {{!}}'''Catch rate'''
+{{!}}&amp;plus;{{{catchRate}}}
+{{!}}-
+}}
+{{#if:{{{location&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#c41e3a; color:#000;" {{!}}'''Locations'''
+{{!}}{{{location}}}
+{{!}}-
+}}
+|}&lt;noinclude&gt;
+
+== Code ==
+&lt;pre&gt;{{Infobox character general
+|name       = 
+|image      = 
+|caption    = 
+|price      = 
+|catchRate  = 
+|catchTime  = 
+|location  = 
+}}&lt;/pre&gt;
+&lt;/translate&gt;</text>
+    <contributor>
+      <username>Dragonkin550</username>
+      <id>27</id>
+    </contributor>
+    <comment>Undo revision 19778 by [[Special:Contributions/Jk13|Jk13]] ([[User talk:Jk13|talk]]) seems to have broken the template?</comment>
+    <model>wikitext</model>
+    <parentid>8013</parentid>
+    <sha1>9c1cceda0dfad016b5e8d7fc632f93722964bfa9</sha1>
+  </revision>
+</page></mediawiki>

@@ -1,0 +1,99 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Iceberg Ruins</title>
+  <ns>0</ns>
+  <id>10122</id>
+  <revision>
+    <id>30161</id>
+    <timestamp>2022-12-05T00:38:47Z</timestamp>
+    <text space="preserve" bytes="2253">{{Infobox dungeon
+|name    = Iceberg Ruins
+|image   = [[File:Iceberg Ruins.png|thumb]]
+|caption = A map of Iceberg Ruins.
+|tokens  = 1,920,000
+|location = North of Snowslide Slope
+}}
+'''Iceberg Ruins''' is a [[Dungeons|dungeon]] in [[Galar]]. It initially has 125 tiles arranged in two floors: 10x10 and 6x6 in size, respectively; including 16 chest tiles, 38 non-boss encounter tiles, 1 ladder tile, and 1 boss encounter tile. Wild Encounters have 31,507,840 HP.
+
+== Encounter Tables ==
+
+===Wild Encounters===
+
+{| class="wikitable"
+|-
+! Wild Pokémon !! colspan=2|Trainers
+|-
+! Encounter !! Trainer !! Pokémon Team
+|-
+| [[File:Cryogonal.png|40px]] Cryogonal|| colspan=2 rowspan=8| &lt;center&gt; N/A
+|-
+| [[File:Beartic.png|40px]] Beartic
+|-
+| [[File:Galarian Darumaka.png|40px]] Galarian Darumaka
+|-
+| [[File:Weavile.png|40px]] Weavile
+|-
+| [[File:Vanilluxe.png|40px]] Vanilluxe
+|-
+| [[File:Froslass.png|40px]] Froslass
+|-
+| [[File:Delibird.png|40px]] Delibird
+|-
+| [[File:Aurorus.png|40px]] Aurorus*
+|}
+
+'''*Note:''' Aurorus will only appear if the player has captured it previously.
+
+===Boss Encounters===
+{| class="wikitable"
+|-
+! Wild Pokémon !! Base Health !! Boss Trainer !! Pokémon Team !! Base Health
+|-
+| [[File:Glalie.png|40px]] Glalie|| &lt;center&gt;149,662,240 || colspan=3 rowspan=2|&lt;center&gt;N/A
+|-
+| [[File:Regice.png|40px]] '''Regice*'''|| &lt;center&gt;157,539,200
+|}
+
+'''*Note:''' Must have made progress in [[Questlines|The Ancient Golems]] Questline to unlock.
+
+==Items==
+
+{| class="wikitable"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+|-
+| align="center" colspan=5| '''Common'''
+|-
+| {{Bag2|Dowsing Machine}} || 3 || 32.46% || 31.43% || 27.08%
+|-
+| {{Bag2|Lucky Incense}} || 3 || 32.46% || 31.43% || 27.08%
+|-
+| {{Pokemon|Cryogonal}} || N/A || 10.82% || 10.48% || 9.03%
+|-
+| align="center" colspan=5| '''Rare'''
+|-
+| {{Bag2|White Shard}} || N/A || 10.11% || 10.69% || 13.14%
+|-
+| {{Bag2|Cyan Shard}} || N/A || 10.11% || 10.69% || 13.14%
+|-
+| align="center" colspan=5| '''Epic'''
+|-
+| {{Bag2|Hard Stone}} || N/A || 1.35% || 1.77% || 3.51%
+|-
+| {{Bag2|Everstone}} || N/A || 1.35% || 1.77% || 3.51%
+|-
+| {{Bag2|Icicle Plate}} || N/A || 1.35% || 1.77% || 3.51%
+|}
+
+{{Galar Dungeons}}
+[[Category:Dungeons|^Region #8 - Galar^c]]</text>
+    <contributor>
+      <username>Razorflame</username>
+      <id>9</id>
+    </contributor>
+    <comment>/* Boss Encounters */ Fix link</comment>
+    <model>wikitext</model>
+    <parentid>30053</parentid>
+    <sha1>5d4ada147573bffc83e3593f896fb7b5237977fd</sha1>
+  </revision>
+</page></mediawiki>

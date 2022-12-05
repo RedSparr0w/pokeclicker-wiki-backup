@@ -1,0 +1,111 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Template:Battle items</title>
+  <ns>10</ns>
+  <id>11</id>
+  <revision>
+    <id>297</id>
+    <timestamp>2022-06-26T21:14:44Z</timestamp>
+    <text space="preserve" bytes="1191">&lt;div class="roundy" style="margin:auto; border: 3px solid #{{battle items color dark}}; white-space:nowrap; padding:3px; max-width:1000px"&gt;
+&lt;div class="roundy" style="margin:auto; text-align:center; background-color:#{{battle items color light}}; padding:2px; margin-bottom:3px"&gt;&lt;big&gt;'''{{color2|000|Battle Items|Battle Items}}'''&lt;/big&gt;&lt;/div&gt;
+&lt;div style="clear:both; display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr))"&gt;
+&lt;div&gt;{{Bag2|XAttack}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|XClick}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Lucky Egg}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Token Collector}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Dowsing Machine}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Lucky Incense}}&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="roundy" style="margin:auto; text-align:center; background-color:#{{battle items color light}}; padding:2px; margin-bottom:3px"&gt;&lt;big&gt;'''{{color2|000|Flutes}}'''&lt;/big&gt;&lt;/div&gt;
+&lt;div style="clear:both; display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr))"&gt;
+&lt;div&gt;{{Bag2|Yellow Flute}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Time Flute}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Black Flute}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Red Flute}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|White Flute}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Blue Flute}}&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;noinclude&gt;[[Category:Item navigation templates]]&lt;/noinclude&gt;</text>
+    <contributor>
+      <username>LatiosRider</username>
+      <id>35</id>
+    </contributor>
+    <comment>/* Deleted removed flutes, renamed Item Magnet to Dowsing Machine, and rearranged entries */</comment>
+    <model>wikitext</model>
+    <parentid>296</parentid>
+    <sha1>3c238279b61f31b27046a222c0fa7dd6b3f9069d</sha1>
+  </revision>
+  <revision>
+    <id>296</id>
+    <timestamp>2022-04-28T16:18:45Z</timestamp>
+    <text space="preserve" bytes="1373">&lt;div class="roundy" style="margin:auto; border: 3px solid #{{battle items color dark}}; white-space:nowrap; padding:3px; max-width:1000px"&gt;
+&lt;div class="roundy" style="margin:auto; text-align:center; background-color:#{{battle items color light}}; padding:2px; margin-bottom:3px"&gt;&lt;big&gt;'''{{color2|000|Battle Items|Battle Items}}'''&lt;/big&gt;&lt;/div&gt;
+&lt;div style="clear:both; display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr))"&gt;
+&lt;div&gt;{{Bag2|Item Magnet}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Lucky Incense}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Token Collector}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Lucky Egg}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|XAttack}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|XClick}}&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="roundy" style="margin:auto; text-align:center; background-color:#{{battle items color light}}; padding:2px; margin-bottom:3px"&gt;&lt;big&gt;'''{{color2|000|Flutes}}'''&lt;/big&gt;&lt;/div&gt;
+&lt;div style="clear:both; display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr))"&gt;
+&lt;div&gt;{{Bag2|Red Flute}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|White Flute}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Black Flute}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Yellow Flute}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Blue Flute}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Poke Flute}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Azure Flute}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Eon Flute}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Sun Flute}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Moon Flute}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Time Flute}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Grass Flute}}&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;noinclude&gt;[[Category:Item navigation templates]]&lt;/noinclude&gt;</text>
+    <contributor>
+      <username>Dragonkin550</username>
+      <id>27</id>
+    </contributor>
+    <comment>fixing Flutes link</comment>
+    <model>wikitext</model>
+    <parentid>295</parentid>
+    <sha1>8a37ecf7f7e8f13da262eea7b62ee064d486af2a</sha1>
+  </revision>
+  <revision>
+    <id>295</id>
+    <timestamp>2022-04-28T16:00:58Z</timestamp>
+    <text space="preserve" bytes="1380">&lt;div class="roundy" style="margin:auto; border: 3px solid #{{battle items color dark}}; white-space:nowrap; padding:3px; max-width:1000px"&gt;
+&lt;div class="roundy" style="margin:auto; text-align:center; background-color:#{{battle items color light}}; padding:2px; margin-bottom:3px"&gt;&lt;big&gt;'''{{color2|000|Battle Items|Battle Items}}'''&lt;/big&gt;&lt;/div&gt;
+&lt;div style="clear:both; display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr))"&gt;
+&lt;div&gt;{{Bag2|Item Magnet}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Lucky Incense}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Token Collector}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Lucky Egg}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|XAttack}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|XClick}}&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="roundy" style="margin:auto; text-align:center; background-color:#{{battle items color light}}; padding:2px; margin-bottom:3px"&gt;&lt;big&gt;'''{{color2|000|Flutes|Flutes}}'''&lt;/big&gt;&lt;/div&gt;
+&lt;div style="clear:both; display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr))"&gt;
+&lt;div&gt;{{Bag2|Red Flute}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|White Flute}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Black Flute}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Yellow Flute}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Blue Flute}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Poke Flute}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Azure Flute}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Eon Flute}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Sun Flute}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Moon Flute}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Time Flute}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Grass Flute}}&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;noinclude&gt;[[Category:Item navigation templates]]&lt;/noinclude&gt;</text>
+    <contributor>
+      <username>Dragonkin550</username>
+      <id>27</id>
+    </contributor>
+    <comment>updating to include Flutes</comment>
+    <model>wikitext</model>
+    <parentid>294</parentid>
+    <sha1>4af7c89914711c903d5cd2896f5fed9501e5590f</sha1>
+  </revision>
+</page></mediawiki>
