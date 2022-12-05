@@ -15,7 +15,6 @@
 
   console.log('Splitting wiki file..');
 
-  const isRedirectSamePage = new RegExp(`#REDIRECT \\[\\[${title}\\]\\]`, 'i')
 
   var xmlsplit = new XmlSplit(1, 'page')
   var inputStream = fs.createReadStream(`data-dump/${files[0]}`) // from somewhere
@@ -23,6 +22,7 @@
   inputStream.pipe(xmlsplit).on('data', function(data) {
     let xmlDocument = data.toString();
     const title = (xmlDocument.match(/<title>(.*)<\/title>/) || [,'undefined'])[1];
+    const isRedirectSamePage = new RegExp(`#REDIRECT \\[\\[${title}\\]\\]`, 'i')
 
     if (title.includes('/')) return;
     if (
