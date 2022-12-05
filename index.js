@@ -9,7 +9,7 @@ if (!files?.length) {
 }
 
 var xmlsplit = new XmlSplit(1, 'page')
-var inputStream = fs.createReadStream(files[0]) // from somewhere
+var inputStream = fs.createReadStream(`data-dump/${files[0]}`) // from somewhere
 fs.mkdir('data', { recursive: true }, (err) => {});
 const titles = new Set();
 inputStream.pipe(xmlsplit).on('data', function(data) {
