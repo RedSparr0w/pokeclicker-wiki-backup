@@ -1,6 +1,9 @@
 const fs = require('fs')
 const XmlSplit = require('xmlsplit')
 
+fs.mkdir('data', { recursive: true }, console.error);
+fs.mkdir('data-dump', { recursive: true }, console.error);
+
 const dirCont = fs.readdirSync('data-dump');
 const files = dirCont.filter((filename) => filename.match(/.*\.xml/ig));
 
@@ -10,8 +13,6 @@ if (!files?.length) {
 
 var xmlsplit = new XmlSplit(1, 'page')
 var inputStream = fs.createReadStream(`data-dump/${files[0]}`) // from somewhere
-fs.mkdir('data', { recursive: true }, console.error);
-fs.mkdir('data-dump', { recursive: true }, console.error);
 const titles = new Set();
 inputStream.pipe(xmlsplit).on('data', function(data) {
   let xmlDocument = data.toString();
