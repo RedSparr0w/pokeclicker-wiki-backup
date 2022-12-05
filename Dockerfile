@@ -7,4 +7,5 @@ RUN cd wikiteam3 && pip install --force-reinstall dist/*.whl
 
 # Run our backup every X time
 COPY ./backup /etc/periodic/daily/backup
+RUN dos2unix /etc/periodic/daily/backup
 RUN chmod +x /etc/periodic/daily/backup
