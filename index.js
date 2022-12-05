@@ -35,7 +35,7 @@
     ) return;
 
     const isRedirectSamePage = new RegExp(`#REDIRECT \\[\\[${title}\\]\\]`, 'i')
-    if (isRedirectSamePage.test(title)) return;
+    if (isRedirectSamePage.test(xmlDocument)) return;
 
     titles.add(title);
     xmlDocument = `${xmlDocument.substring(0, xmlDocument.indexOf('<siteinfo>') - 3)}${xmlDocument.substring(xmlDocument.indexOf('</siteinfo>') + 12)}`
