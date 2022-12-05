@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>303</id>
   <revision>
-    <id>4352</id>
-    <timestamp>2022-08-19T02:51:20Z</timestamp>
-    <text space="preserve" bytes="27410">'''Johto''' is the second [[Regions|Region]] in the Pokéclicker world. The Pokédex for this region contains 103 Pokémon from Chikorita #152 to Celebi #251.
+    <id>30181</id>
+    <timestamp>2022-12-05T03:51:12Z</timestamp>
+    <text space="preserve" bytes="27419">'''Johto''' is the second [[Regions|Region]] in the Pokéclicker world. The Pokédex for this region contains 103 Pokémon from Chikorita #152 to Celebi #251.
 
 [[File:Johto_V0.9.11.png|thumb|A Town Map of the Johto region]]
 
@@ -271,20 +271,18 @@
 |-
 ! Pokémon !! Requirement(s)
 |-
-| [[File:Entei.png|40px]] Entei ||  rowspan=3| Complete [[Burned Tower]] dungeon
-|-
-| [[File:Suicune.png|40px]] Suicune
+| [[File:Entei.png|40px]] Entei ||  rowspan=2| Unlocks during [[Questlines#The_Legendary_Beasts|The Legendary Beasts]] Questline
 |-
 | [[File:Raikou.png|40px]] Raikou
 |}
 [[Category:Regions]]</text>
     <contributor>
-      <username>ThePantMan</username>
-      <id>8</id>
+      <username>CypherX</username>
+      <id>15</id>
     </contributor>
-    <comment>/* Dungeons - added the questline name to Ilex Forest (Celebi) */</comment>
+    <comment>update Johto roamers</comment>
     <model>wikitext</model>
-    <parentid>4351</parentid>
-    <sha1>b8edba99b864652cd1aace41092b565765330ae8</sha1>
+    <parentid>4352</parentid>
+    <sha1>805a3c947b52296707de47e048e10459dcfa98af</sha1>
   </revision>
 </page></mediawiki>

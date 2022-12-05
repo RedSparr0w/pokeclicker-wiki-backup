@@ -1,19 +1,39 @@
 <mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
 <page>
-  <title>Wailmer pail</title>
+  <title>Wailmer Pail</title>
   <ns>0</ns>
-  <id>1245</id>
+  <id>135</id>
   <revision>
-    <id>9706</id>
-    <timestamp>2020-12-17T11:41:54Z</timestamp>
-    <text space="preserve" bytes="26">#REDIRECT [[Wailmer Pail]]</text>
+    <id>1614</id>
+    <timestamp>2021-10-03T13:56:49Z</timestamp>
+    <text space="preserve" bytes="761">{{Infobox Key Item
+|name       = Wailmer Pail
+|image      = [[File:WailmerPail_HighRes.png]]
+|caption    = Artwork of the ''Wailmer Pail''.
+|use        = Allows entry to the [[Farm]]
+|obtain     = Unlock [[Kanto]] Route 14
+}}
+
+===Description===
+This is a tool for watering [[Berries]] you planted to make them grow more quickly
+
+===Acquisition===
+Defeat 10 Pokémon on Route 13 or Route 15. When either is complete, the Wailmer Pail will appear in the [[Key Items]] list, and the farm will be unlocked with one slot to plant [[Berries]].
+
+===Effects===
+You can now access the [[Farm]] on the corner of Route 14 and Route 15, allowing you to plant [[Berries]] to use for trades.
+
+&lt;br&gt;
+{{Key Items}}&lt;br&gt;
+[[Category:Key Items]] [[Category:Items]]
+[[Category:Farm]]</text>
     <contributor>
-      <username>J-3047</username>
-      <id>42</id>
+      <username>GarrikFel</username>
+      <id>23</id>
     </contributor>
-    <comment>J-3047 moved page [[Wailmer pail]] to [[Wailmer Pail]]</comment>
+    <comment>Added farm category</comment>
     <model>wikitext</model>
-    <parentid>0</parentid>
-    <sha1>5b077f9531d6cb00538d156321a671f1f284b72f</sha1>
+    <parentid>1613</parentid>
+    <sha1>0a18cea8aaf3d21a9813f22164a816bf950ccb02</sha1>
   </revision>
 </page></mediawiki>

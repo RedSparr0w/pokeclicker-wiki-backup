@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>312</id>
   <revision>
-    <id>4514</id>
-    <timestamp>2022-07-13T12:53:56Z</timestamp>
-    <text space="preserve" bytes="44654">'''Sinnoh''' is the fourth [[Regions|Region]] in the Pokéclicker world. The Pokédex for this region contains 107 Pokémon from Turtwig #387 to Arceus #493.
+    <id>30206</id>
+    <timestamp>2022-12-05T05:18:24Z</timestamp>
+    <text space="preserve" bytes="45006">'''Sinnoh''' is the fourth [[Regions|Region]] in the Pokéclicker world. The Pokédex for this region contains 107 Pokémon from Turtwig #387 to Arceus #493.
 
 [[File:Sinnoh_V0.9.11.png|thumb|A Town Map of the Sinnoh region]]
 
@@ -313,6 +313,16 @@
 
 '''*Note:''' The Pokémon with an asterisk (*) next to their names are time-dependent. Lucario requires daytime (6am - 6pm / 6:00 - 18:00). Weavile and Gliscor require nighttime (6pm - 6am / 18:00 - 06:00).
 
+====[[Held Items|Held Item Evolutions]]====
+
+{| class="wikitable sortable" style="text-align: center;"
+|-
+! Item Name !! Used On !! Number Required !! Necessary to Obtain
+|-
+| [[File:Griseous Orb.png|15px]] [[Griseous Orb]] || [[File:Giratina (Altered).png|30px]] Giratina (Altered) || 1 || [[File:Giratina (Origin).png|30px]] Giratina (Origin)
+|-
+|}
+
 ====[[Shops#Sinnoh: Locations &amp; Items|Shopmons]]====
 
 {| class="wikitable sortable" style="text-align: center;"
@@ -434,12 +444,12 @@
 |}
 [[Category:Regions]]</text>
     <contributor>
-      <username>Dragonkin550</username>
-      <id>27</id>
+      <username>SomeonealiveQN</username>
+      <id>5</id>
     </contributor>
-    <comment>/* Fossils */</comment>
+    <comment>/* Item Evolutions */</comment>
     <model>wikitext</model>
-    <parentid>4513</parentid>
-    <sha1>d51bf9938c250ea4b87bd56483f92d670d73b5ac</sha1>
+    <parentid>4514</parentid>
+    <sha1>3c650ccdb6eeade2cd449d66474c32acf876950c</sha1>
   </revision>
 </page></mediawiki>
