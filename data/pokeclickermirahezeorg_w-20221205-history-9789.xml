@@ -1,0 +1,122 @@
+<page>
+  <title>Wacan</title>
+  <ns>0</ns>
+  <id>626</id>
+  <revision>
+    <id>7167</id>
+    <timestamp>2021-10-16T16:32:23Z</timestamp>
+    <text bytes="4419" space="preserve">{{Infobox Berry
+|name    = #38 Wacan
+|image   = [[File:Wacan.png]]
+|caption = Energy from lightning strikes is drawn into the plant, making the Berries grow big and rich. The same energy promotes the growth of nearby Berries.
+|growtime  = 30m 0s
+|harvest = 2 berries
+|replant = 5%
+|mutation = 0.01%
+|points = 250
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 spicy 
+*0 dry
+*15 sweet
+*0 bitter
+*10 sour
+}}
+
+'''Wacan''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by surrounding an empty plot with at least 1 [[Iapapa]], at least 1 [[Qualot]], at least 1 [[Pinap]] and at least 1 [[Grepa]].
+
+== Growth Tables ==
+=== Growth Stages ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 10 secs || 3 mins || 15 mins || 30 mins - 1 hour
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:WacanTreeTaller.png|50px]] || &lt;center&gt; [[File:WacanTreeBloom.png|50px]] || &lt;center&gt; [[File:WacanTreeBerry.png|50px]]
+|-
+! Aura (growth rate)
+| || &lt;center&gt; x1.1 || &lt;center&gt; x1.2 || &lt;center&gt; x1.3
+|}
+
+=== Ripening Time with Modifiers  ===
+{| class="wikitable" | style="text-align: center;"
+! Modifier !! Ripe-Wither Time !! Boost Mulch Needed to Ripen
+|-
+! None
+| 30 mins -&lt;br&gt; 1 hour || ---
+|-
+! Mulch or Sprayduck
+| 20 mins -&lt;br&gt; 40 mins || 4 mulch
+|-
+! Mulch &amp; Sprayduck
+| 13 mins 20 secs-&lt;br&gt; 26 mins 40 secs || 3 mulch
+|}
+
+== Flow Chart ==
+[[File:Wacan_Flow_Chart.png|400px]]
+&lt;br&gt;
+
+== Mutation Strategy ==
+=== Possible Planting Formations ===
+
+You can fill your farm in the following way to obtain Wacan berries. Purple squares indicate where mutations can occur.
+
+{| class="wikitable" style="text-align: center;"
+|+ Farm
+|-
+| style="width: 40px;" | [[File:Iapapa.png|30px]] [[Iapapa]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Pinap.png|30px]] [[Pinap]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Iapapa.png|30px]] [[Iapapa]]
+|-
+| [[File:Qualot.png|30px]] [[Qualot]] || style="background-color:#9C7D98;" | || [[File:Grepa.png|30px]] [[Grepa]] || style="background-color:#9C7D98;" | || [[File:Qualot.png|30px]] [[Qualot]]
+|- style="height: 50px;"
+| || style="background-color:#9C7D98;" | || || style="background-color:#9C7D98;" | || 
+|-
+| [[File:Pinap.png|30px]] [[Pinap]] || style="background-color:#9C7D98;" | || [[File:Iapapa.png|30px]] [[Iapapa]] || style="background-color:#9C7D98;" | || [[File:Pinap.png|30px]] [[Pinap]] 
+|-
+| [[File:Grepa.png|30px]] [[Grepa]] || style="background-color:#9C7D98;" | || [[File:Qualot.png|30px]] [[Qualot]] || style="background-color:#9C7D98;" | || [[File:Grepa.png|30px]] [[Grepa]]
+|}
+
+=== Timing Table ===
+{| class="wikitable"| style="text-align: center;"
+|+ ''All planting times use the time-to-ripe remaining of the first planted berry for subsequent planting times''
+! Berry !! Planting Time with &lt;br&gt; No Modifier !! Planting Time with &lt;br&gt; Mulch or Sprayduck || Planting Time with &lt;br&gt;  Mulch &amp; Sprayduck
+|-
+| [[Grepa]] || - || - || -
+|-
+| [[Qualot]] || 1 hour 20 mins until ripe || 53 mins 20 secs until ripe || 35 mins 33 secs
+|-
+| [[Iapapa]] || 6 mins 20 secs until ripe || 4 mins 13 secs until ripe || Not Practical
+|-
+| [[Pinap]] || 4 mins until ripe || 2 mins 40 secs until ripe || Not Practical
+|}
+
+==Uses==
+===Mutations===
+
+Wacan berries can be used to mutate the following berries.
+
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Haban.png|20px]] [[Haban]] || [[File:Occa.png|20px]] [[Occa]] &lt;br&gt; [[File:Passho.png|20px]] [[Passho]] &lt;br&gt; [[File:Rindo.png|20px]] [[Rindo]]
+|-
+| [[File:Petaya.png|20px]] [[Petaya]] || [[File:Occa.png|20px]] [[Occa]] [[File:Passho.png|20px]] [[Passho]] &lt;br&gt;[[File:Rindo.png|20px]] [[Rindo]] [[File:Yache.png|20px]] [[Yache]] &lt;br&gt; [[File:Chople.png|20px]] [[Chople]] [[File:Kebia.png|20px]] [[Kebia]] &lt;br&gt; [[File:Shuca.png|20px]] [[Shuca]] [[File:Coba.png|20px]] [[Coba]] &lt;br&gt; [[File:Payapa.png|20px]] [[Payapa]] [[File:Tanga.png|20px]] [[Tanga]] &lt;br&gt; [[File:Charti.png|20px]] [[Charti]] [[File:Kasib.png|20px]] [[Kasib]] &lt;br&gt; [[File:Haban.png|20px]] [[Haban]] [[File:Colbur.png|20px]] [[Colbur]] &lt;br&gt; [[File:Babiri.png|20px]] [[Babiri]] [[File:Chilan.png|20px]] [[Chilan]] &lt;br&gt; [[File:Roseli.png|20px]] [[Roseli]]
+|-
+|}
+
+&lt;br&gt;
+
+{{Berries}}
+
+[[Category:Farm]][[Category:Berries]]</text>
+    <contributor>
+      <username>GarrikFel</username>
+      <id>23</id>
+    </contributor>
+    <comment>Added Category</comment>
+    <model>wikitext</model>
+    <parentid>7166</parentid>
+    <sha1>3df96e72bd1272cc83977fc8680bd5d731acc62d</sha1>
+  </revision>
+</page>

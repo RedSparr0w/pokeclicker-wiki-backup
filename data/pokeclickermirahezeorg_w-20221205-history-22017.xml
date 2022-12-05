@@ -1,0 +1,173 @@
+<page>
+  <title>Template:LootItem</title>
+  <ns>10</ns>
+  <id>3681</id>
+  <revision>
+    <id>14046</id>
+    <timestamp>2022-03-21T21:01:55Z</timestamp>
+    <text bytes="153" space="preserve">|-
+| [[File:{{{1}}}.png|30px|{{{1}}}|link={{{1}}}]] [[{{{1}}}|{{{1}}}]] || {{{2|N/A}}} || {{{3|N/A}}} &lt;noinclude&gt;[[Category:Table templates]]&lt;/noinclude&gt;</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>14045</parentid>
+    <sha1>5dde7ae931445d30b70533ba8b55db827fb1aa40</sha1>
+  </revision>
+  <revision>
+    <id>14045</id>
+    <timestamp>2022-03-21T19:30:32Z</timestamp>
+    <text bytes="180" space="preserve">|-
+| [[File:{{{1}}}.png|30px|{{{1}}}|link={{#if:{{{1|}}}|{{{1|}}}#|}}{{{1}}}]] [[{{{1}}}|{{{1}}}]] || {{{2|N/A}}} || {{{3|N/A}}} &lt;noinclude&gt;[[Category:Table templates]]&lt;/noinclude&gt;</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>14044</parentid>
+    <sha1>5e3cba586ebbfd56ad267f965cd2d3473be70f67</sha1>
+  </revision>
+  <revision>
+    <id>14044</id>
+    <timestamp>2022-03-21T19:30:22Z</timestamp>
+    <text bytes="195" space="preserve">|-
+| [[File:{{{1}}}.png|30px|{{{1}}}|link={{#if:{{{1|}}}|{{{1|}}}#|}}{{{1}}}]] [[{{{1}}}|{{{1}}}]] || {{{2|N/A}}} || {{{3|N/A}}} || {{{4|N/A}}} &lt;noinclude&gt;[[Category:Table templates]]&lt;/noinclude&gt;</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>14043</parentid>
+    <sha1>72488fb02a7b256aa27a0674f984e8c8ff5870f6</sha1>
+  </revision>
+  <revision>
+    <id>14043</id>
+    <timestamp>2022-03-21T19:28:51Z</timestamp>
+    <text bytes="195" space="preserve">|-
+| [[File:{{{1}}}.png|30px|{{{1}}}|link={{#if:{{{2|}}}|{{{2|}}}#|}}{{{1}}}]] [[{{{1}}}|{{{1}}}]] || {{{2|N/A}}} || {{{3|N/A}}} || {{{4|N/A}}} &lt;noinclude&gt;[[Category:Table templates]]&lt;/noinclude&gt;</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>14042</parentid>
+    <sha1>6038e85ac77f80579e0d70639963e446abd61075</sha1>
+  </revision>
+  <revision>
+    <id>14042</id>
+    <timestamp>2022-03-21T19:26:59Z</timestamp>
+    <text bytes="195" space="preserve">|-
+| [[File:{{{1}}}.png|30px|{{{1}}}|link={{#if:{{{2|}}}|{{{2|}}}#|}}{{{1}}}]] [[{{{1}}}|{{{1}}}]] || {{{3|N/A}}} || {{{4|N/A}}} || {{{5|N/A}}} &lt;noinclude&gt;[[Category:Table templates]]&lt;/noinclude&gt;</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>14041</parentid>
+    <sha1>1af5d03bd1d6a735405667b21488d77020be3fc4</sha1>
+  </revision>
+  <revision>
+    <id>14041</id>
+    <timestamp>2022-03-21T19:26:15Z</timestamp>
+    <text bytes="195" space="preserve">|-
+| [[File:{{{1}}}.png|24px|{{{1}}}|link={{#if:{{{2|}}}|{{{2|}}}#|}}{{{1}}}]] [[{{{1}}}|{{{1}}}]] || {{{3|N/A}}} || {{{4|N/A}}} || {{{5|N/A}}} &lt;noinclude&gt;[[Category:Table templates]]&lt;/noinclude&gt;</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>14040</parentid>
+    <sha1>66cf0a17e650bd2ebf907696f112ceb8dadcaae3</sha1>
+  </revision>
+  <revision>
+    <id>14040</id>
+    <timestamp>2022-03-21T19:22:09Z</timestamp>
+    <text bytes="124" space="preserve">|-
+| [[File:{{{1}}}.png|30px]] {{{1|N/A}}} || {{{2|N/A}}} || {{{3|N/A}}} &lt;noinclude&gt;[[Category:Table templates]]&lt;/noinclude&gt;</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment>test</comment>
+    <model>wikitext</model>
+    <parentid>14039</parentid>
+    <sha1>6ec935e5c6fe6098946af5a10760e6451686c2e2</sha1>
+  </revision>
+  <revision>
+    <id>14039</id>
+    <timestamp>2022-03-21T18:06:18Z</timestamp>
+    <text bytes="98" space="preserve">|-
+| {{{1|N/A}}} || {{{2|N/A}}} || {{{3|N/A}}} &lt;noinclude&gt;[[Category:Table templates]]&lt;/noinclude&gt;</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>14038</parentid>
+    <sha1>bca9302466fee0b70c7c78a31071b419faffcb45</sha1>
+  </revision>
+  <revision>
+    <id>14038</id>
+    <timestamp>2022-03-21T18:02:23Z</timestamp>
+    <text bytes="133" space="preserve">|-
+| {{{1|N/A}}} || {{{2|N/A}}} || {{#if:{{{3&lt;includeonly&gt;|N/A&lt;/includeonly&gt;}}}}} &lt;noinclude&gt;[[Category:Table templates]]&lt;/noinclude&gt;</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>14037</parentid>
+    <sha1>225faecebf76b0336df5a3688fdbdbeacc972bc2</sha1>
+  </revision>
+  <revision>
+    <id>14037</id>
+    <timestamp>2022-03-21T17:58:45Z</timestamp>
+    <text bytes="106" space="preserve">|-
+| {{{1|N/A}}} || {{{2|N/A}}} {{#if:{{{|| 3|N/A}}}}} &lt;noinclude&gt;[[Category:Table templates]]&lt;/noinclude&gt;</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>14036</parentid>
+    <sha1>03aa5cf2db3c8109d134294c2dbf8c3e3b3f3362</sha1>
+  </revision>
+  <revision>
+    <id>14036</id>
+    <timestamp>2022-03-21T17:58:14Z</timestamp>
+    <text bytes="113" space="preserve">|-
+| {{{1|N/A}}} || {{{2|N/A}}} || {{#if:{{{3|N/A}}}{{{3}}}}} &lt;noinclude&gt;[[Category:Table templates]]&lt;/noinclude&gt;</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment>test</comment>
+    <model>wikitext</model>
+    <parentid>14035</parentid>
+    <sha1>515b6ff32c540f0e64b81c72bc09f2c73bc03c28</sha1>
+  </revision>
+  <revision>
+    <id>14035</id>
+    <timestamp>2022-03-21T16:05:21Z</timestamp>
+    <text bytes="98" space="preserve">|-
+| {{{1|N/A}}} || {{{2|N/A}}} || {{{3|N/A}}} &lt;noinclude&gt;[[Category:Table templates]]&lt;/noinclude&gt;</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment>Created page with "|- | {{{1|N/A}}} || {{{2|N/A}}} || {{{3|N/A}}} &lt;noinclude&gt;[[Category:Table templates]]&lt;/noinclude&gt;"</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>bca9302466fee0b70c7c78a31071b419faffcb45</sha1>
+  </revision>
+</page>

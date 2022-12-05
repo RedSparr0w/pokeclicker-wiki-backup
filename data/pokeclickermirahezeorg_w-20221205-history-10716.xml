@@ -1,0 +1,97 @@
+<page>
+  <title>Grepa</title>
+  <ns>0</ns>
+  <id>574</id>
+  <revision>
+    <id>6954</id>
+    <timestamp>2021-01-30T18:56:37Z</timestamp>
+    <text bytes="3002" space="preserve">{{Infobox Berry
+|name    = #25 Grepa
+|image   = [[File:Grepa.png]]
+|caption = One bite of this very tender Berry fills the mouth with its sweet and tangy flavor.
+|growtime  = 2h 0m 0s
+|harvest = 24 berries
+|replant = 20%
+|points = 600
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 spicy 
+*10 dry
+*10 sweet
+*0 bitter
+*10 sour
+}}
+
+'''Grepa''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by surrounding an empty plot with at least 1 [[Aguav]] and at least 1 [[Figy]].
+
+== Growth Tables ==
+=== Growth Stages ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 5 mins || 56 mins 40 secs || 1 hour 33 mins 20 secs || 2 hours - 4 hours
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:GrepaTreeTaller.png|50px]] || &lt;center&gt; [[File:GrepaTreeBloom.png|50px]] || &lt;center&gt; [[File:GrepaTreeBerry.png|50px]]
+|}
+
+=== Ripening Time with Modifiers  ===
+{| class="wikitable" | style="text-align: center;"
+! Modifier !! Ripe-Wither Time !! Boost Mulch Needed to Ripen
+|-
+! None
+| 2 hours -&lt;br&gt; 4 hours || ---
+|-
+! Mulch or Sprayduck
+| 1 hour 20 mins -&lt;br&gt; 2 hours 40 mins || 16 mulch
+|-
+! Mulch and Sprayduck
+| 53 mins 20 secs -&lt;br&gt; 1 hour 46 mins 40 secs || 11 mulch
+|}
+
+== Flow Chart ==
+[[File:Grepa_Flow_Chart.png|250px]]
+&lt;br&gt;
+
+== Mutation Strategy ==
+=== Possible Planting Formations ===
+
+You can fill your farm in the following way to obtain Grepa berries. Purple squares indicate where mutations can occur.
+
+{| class="wikitable" style="text-align: center;"
+|+ Farm
+|-
+| style="width: 40px;" | [[File:Aguav.png|30px]] [[Aguav]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 45px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Aguav.png|30px]] [[Aguav]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Figy.png|30px]]&lt;br&gt;[[Figy]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Figy.png|30px]]&lt;br&gt;[[Figy]] 
+|- style="height: 60px; background-color:#9C7D98;"
+| || || || || 
+|-
+| [[File:Aguav.png|30px]] [[Aguav]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Aguav.png|30px]] [[Aguav]] || style="background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Figy.png|30px]]&lt;br&gt;[[Figy]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Figy.png|30px]]&lt;br&gt;[[Figy]] 
+|}
+
+=== Timing Table ===
+{| class="wikitable"| style="text-align: center;"
+|+ ''All planting times use the time-to-ripe remaining of the first planted berry for subsequent planting times''
+! Berry !! Planting Time with &lt;br&gt; No Modifier !! Planting Time with &lt;br&gt; Mulch or Sprayduck || Planting Time with &lt;br&gt;  Mulch &amp; Sprayduck
+|-
+| [[Aguav]] || - || - || -
+|-
+| [[Figy]] || - || - || -
+|}
+
+Note: Figy and Aguav berries have equivalent growth times.
+
+{{Berries}}</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment>Flow Chart</comment>
+    <model>wikitext</model>
+    <parentid>6953</parentid>
+    <sha1>016dbd76a66d7f7cda0f1985bf50dd50bd7fe5d6</sha1>
+  </revision>
+</page>

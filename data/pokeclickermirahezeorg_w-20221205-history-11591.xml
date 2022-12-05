@@ -1,0 +1,82 @@
+<page>
+  <title>Roseli</title>
+  <ns>0</ns>
+  <id>629</id>
+  <revision>
+    <id>7228</id>
+    <timestamp>2020-12-21T04:08:33Z</timestamp>
+    <text bytes="2345" space="preserve">{{Infobox Berry
+|name    = #53 Roseli
+|image   = [[File:Roseli.png]]
+|caption = This Berry is sweet with a hint of bitterness and has a lingering sweet scent. The scent of this Berry plant attracts wild Pokémon.
+|growtime  = 7h
+|harvest = 38 berries
+|replant = 5%
+|points = 2,500
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 spicy 
+*0 dry
+*25 sweet
+*10 bitter
+*0 sour
+}}
+'''Roseli''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by surrounding an empty plot with at least 1 ripe [[Mago]], at least 1 ripe [[Nanab]], at least 1 ripe [[Magost]] and at least 1 ripe [[Watmel]]. It emits an aura that increases the chance of encountering a wandering Pokemon.
+
+{| class="wikitable"
+|+ Growth Stages
+! !! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 40 mins 10 secs || 1 hour 24 mins || 3 hours 30 mins || 7 hours - 14 hours
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:RoseliTreeTaller.png|50px]] || &lt;center&gt; [[File:RoseliTreeBloom.png|50px]] || &lt;center&gt; [[File:RoseliTreeBerry.png|50px]]
+|-
+! Aura (wandering chance)
+| || &lt;center&gt; x1.01 || &lt;center&gt; x1.02 || &lt;center&gt; x1.03
+|}
+
+=== Possible Planting Formations ===
+
+You can fill your [[farm]] in the following way to obtain this berry.
+
+{| class="wikitable" style="text-align: center;"
+|+ Farm
+|-
+| style="width: 40px;" | [[File:Mago.png|30px]]&lt;br&gt;[[Mago]] || style="width: 40px;" | || style="width: 40px;" | [[File:Magost.png|30px]] [[Magost]] || style="width: 40px;" | || style="width: 40px;" | [[File:Mago.png|30px]]&lt;br&gt;[[Mago]]
+|-
+| [[File:Nanab.png|30px]] [[Nanab]] ||  || [[File:Watmel.png|30px]] [[Watmel]] ||  || [[File:Nanab.png|30px]] [[Nanab]]
+|- style="height: 55px;"
+| || || || || 
+|-
+| [[File:Magost.png|30px]] [[Magost]]  ||  || [[File:Mago.png|30px]]&lt;br&gt;[[Mago]] || || [[File:Magost.png|30px]] [[Magost]] 
+|-
+| [[File:Watmel.png|30px]] [[Watmel]] ||  || [[File:Nanab.png|30px]] [[Nanab]] ||  || [[File:Watmel.png|30px]] [[Watmel]]
+|}
+
+{| class="collapsed collapsible wikitable"
+|+ Timings
+! Berry !! Time !! Time with Mulch/Sprayduck || Time with Mulch &amp; Sprayduck
+|-
+| [[Watmel]] || || ||
+|-
+| [[Magost]] || 36 mins || 24 mins || 16 mins
+|-
+| [[Mago]] || 4 hrs 29 mins 50 secs || 3 hrs || 2 hrs
+|-
+| [[Nanab]] || 4 hrs 31 mins 50 secs || 3 hrs 1 min || 2 hrs 1 min
+|-
+|}
+
+
+{{Berries}}</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment>Timing Table</comment>
+    <model>wikitext</model>
+    <parentid>7227</parentid>
+    <sha1>c722a5a3f372e724f334522ab0d2d073a35f83e8</sha1>
+  </revision>
+</page>

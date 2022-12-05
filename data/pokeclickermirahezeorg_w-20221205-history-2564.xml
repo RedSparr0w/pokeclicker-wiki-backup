@@ -1,0 +1,77 @@
+<page>
+  <title>Translations:Template:Infobox Key Item/1/fr</title>
+  <ns>0</ns>
+  <id>7753</id>
+  <revision>
+    <id>21908</id>
+    <timestamp>2022-08-05T21:23:34Z</timestamp>
+    <text bytes="928" space="preserve">{|class="infobox bordered" style="float:right; width:264px; font-size:90%; text-align:left; border:2px solid #000; padding:3px;" cellpadding="3"
+|- 
+!colspan="2" style="font-size:110%; text-align:center; background-color:#3f9ad8; color:#000;" | {{{name}}}
+|-
+{{#if:{{{image&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} colspan="2" style="text-align:center;" {{!}}{{{image}}}{{#if:{{{symbol|}}}|&lt;br /&gt;{{{symbol}}}}}{{#if:{{{caption|}}}|&lt;br /&gt;{{{caption}}}}}
+{{!}}-
+}}
+{{#if:{{{descript&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#3f9ad8; color:#000;" {{!}}'''Description'''
+{{!}}{{{descript}}}
+{{!}}-
+}}
+{{#if:{{{use&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#3f9ad8; color:#000;" {{!}}'''Usage'''
+{{!}}{{{use}}}
+{{!}}-
+}}
+{{#if:{{{obtain&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#3f9ad8; color:#000;" {{!}}'''Comment l'obtenir'''
+{{!}}{{{obtain}}}
+{{!}}-
+}}
+|}&lt;noinclude&gt;</text>
+    <contributor>
+      <username>PetroleVB</username>
+      <id>36</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>21907</parentid>
+    <sha1>59fc8fc5bf275379e24763926764386b8d07a41c</sha1>
+  </revision>
+  <revision>
+    <id>21907</id>
+    <timestamp>2022-08-05T21:22:03Z</timestamp>
+    <text bytes="934" space="preserve">{|class="infobox bordered" style="float:right; width:264px; font-size:90%; text-align:left; border:2px solid #000; padding:3px;" cellpadding="3"
+|- 
+!colspan="2" style="font-size:110%; text-align:center; background-color:#3f9ad8; color:#000;" | {{{name}}}
+|-
+{{#if:{{{image&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} colspan="2" style="text-align:center;" {{!}}{{{image}}}{{#if:{{{symbol|}}}|&lt;br /&gt;{{{symbol}}}}}{{#if:{{{caption|}}}|&lt;br /&gt;{{{caption}}}}}
+{{!}}-
+}}
+{{#if:{{{descript&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#3f9ad8; color:#000;" {{!}}'''Description'''
+{{!}}{{{descript}}}
+{{!}}-
+}}
+{{#if:{{{use&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#3f9ad8; color:#000;" {{!}}'''Utilisation'''
+{{!}}{{{use}}}
+{{!}}-
+}}
+{{#if:{{{obtain&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#3f9ad8; color:#000;" {{!}}'''Comment l'obtenir'''
+{{!}}{{{obtain}}}
+{{!}}-
+}}
+|}&lt;noinclude&gt;</text>
+    <contributor>
+      <username>PetroleVB</username>
+      <id>36</id>
+    </contributor>
+    <comment>Created page with "{|class="infobox bordered" style="float:right; width:264px; font-size:90%; text-align:left; border:2px solid #000; padding:3px;" cellpadding="3" |-  !colspan="2" style="font-size:110%; text-align:center; background-color:#3f9ad8; color:#000;" | {{{name}}} |- {{#if:{{{image&lt;includeonly&gt;|&lt;/includeonly&gt;}}} | {{!}} colspan="2" style="text-align:center;" {{!}}{{{image}}}{{#if:{{{symbol|}}}|&lt;br /&gt;{{{symbol}}}}}{{#if:{{{caption|}}}|&lt;br /&gt;{{{caption}}}}} {{!}}- }} {{#if:{{{descr..."</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>c56fd2606d4c9f88e14872f75e16cd7e7c580049</sha1>
+  </revision>
+</page>

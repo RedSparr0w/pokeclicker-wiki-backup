@@ -1,0 +1,41 @@
+<page>
+  <title>Shiny Chance</title>
+  <ns>0</ns>
+  <id>140</id>
+  <revision>
+    <id>1668</id>
+    <timestamp>2020-11-21T06:11:53Z</timestamp>
+    <text bytes="558" space="preserve">== Details ==
+
+{| class="wikitable sortable"
+|-
+! Action !! Chance (no [[Shiny Charm]]) !! Chance (Lv 5 [[Shiny Charm]])
+|-
+| Route Encounter || 1 / 8192 || 1 / 4096
+|-
+| Dungeon Encounter || 1 / 4096 || 1 / 2048
+|-
+| Evolution stone/item use || 1 / 2048 || 1 / 1024
+|-
+| Purchasing a shop Pokémon || 1 / 2048 || 1 / 1024
+|-
+| Safari Zone Encounter || 1 / 2048 || 1 / 1024
+|-
+| Hatching an Egg || 1 / 1024 || 1 / 512
+|-
+|}
+
+===Trivia===
+Shinies as over Version 0.3.0 now increase click damage at a 50% rate compared to normal Pokémon.
+
+[[Category:Shinies]]</text>
+    <contributor>
+      <username>Adrian.Lew</username>
+      <id>29</id>
+    </contributor>
+    <comment>/* Details */  Condensed to table</comment>
+    <model>wikitext</model>
+    <parentid>1667</parentid>
+    <sha1>eb492c5ef30a4bd02abf4b7898becef19f9283de</sha1>
+  </revision>
+</page>

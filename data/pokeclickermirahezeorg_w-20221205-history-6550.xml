@@ -1,0 +1,867 @@
+<page>
+  <title>Sprayduck/es</title>
+  <ns>0</ns>
+  <id>4737</id>
+  <revision>
+    <id>16487</id>
+    <timestamp>2022-07-23T22:40:21Z</timestamp>
+    <text bytes="14265" space="preserve">&lt;languages/&gt;
+{{Infobox Oak Item
+|name       = Psydugadera
+|image      = [[File:Sprayduck_New.png]]
+|caption    = Dibujo de la ''Psydugadera''.
+|dex = 60
+|effect     = Hace que tus [[Berries|Bayas]] crezcan más rápido
+}}
+
+La '''Psydugadera''' es un  [[Oak Items|Objeto de Oak]]. Al equipar la aumenta la velocidad a la que las [[Berries|bayas]] crecen (y marchitan) en la [[Farm|granja]]. La psydugadera se desbloquea tras capturar 60 pokémons únicos.
+
+== Detalles ==
+
+{| class="wikitable sortable"
+|-
+! Nivel !! Efecto !! Requisitos de Mejora !! Coste de Mejora
+|-
+|0 || x1.25 Velocidad de Crecimiento || 500 Puntos de Exp. al recolectar Bayas || style="text-align:right" | 50,000 {{pdollar}}
+|-
+|1 || x1.3 Velocidad de Crecimiento || 500 Puntos de Exp. al recolectar Bayas || style="text-align:right" | 100,000 {{pdollar}}
+|-
+|2 || x1.35 Velocidad de Crecimiento || 1500 Puntos de Exp. al recolectar Bayas || style="text-align:right" | 250,000 {{pdollar}}
+|-
+|3 || x1.4 Velocidad de Crecimiento || 2500 Puntos de Exp. al recolectar Bayas || style="text-align:right" | 500,000 {{pdollar}}
+|-
+|4 || x1.45 Velocidad de Crecimiento || 5000 Puntos de Exp. al recolectar Bayas || style="text-align:right" | 1,000,000 {{pdollar}}
+|-
+|5/Max || x1.5 Velocidad de Crecimiento || N/A || style="text-align:right" | N/A
+|-
+|}
+
+== Experiencia de las bayas cosechadas == 
+
+Todos los valores han sido calculados con una Psydugadera de nivel 0 equipada. Aunque la experiencia por minuto aumentará con un mayor nivel de la Psydugadera las velocidades relativas de las bayas no cambiarán. La mejor baya seguirá siendo la misma independientemente del nivel de la Psydugadera. La experiencia por minuto ha sido redondeada a 2 decimales.
+
+&lt;!--  Lógica de los cálculos de experiencia por minuto:
+Usamos EXP mínima/min con una regadera a nivel 0, sin tener en cuenta el abono de crecimiento. 
+Usamos el tiempo de crecimiento mínimo de la baya Zreza: 30 segundos
+Aumento de la regadera a nivel 0: x1.25 de la velocidad de crecimiento
+Aumento de la velocidad de crecimiento de la baya Zreza por la Psydugadera: 30 / 1.25 = 24 segundos
+60/24 = 2.5 cosechas por minuto
+La baya Zreza da 1 punto por cosecha, así que los puntos por minuto equivalen a 2.5*1 = 2.5.  
+Escribiendo esto en una única ecuación tenemos:
+60 segundos / (30 segundls /1.25 bonus de la regaders) * XP de la baya
+= 60 / (24) * 1
+= 2.5
+{{ #expr: expression }} el cálculo de la wiki redondea el resultado con 2 decimales
+
+Más adelante en la tabla en lugar de números sin formato para los segundos encontrarás el siguiente formato:
+
+6*60 + 20, lo que significa 6 minutos, 20 segundos
+11*60^2 + 12*60. Resultando en 11 horas, 12 minutos
+--&gt;
+
+{| class="wikitable sortable"
+|-
+! Dex # !! Baya !! Experiencia por Cosecha !! Experiencia por Minuto
+|-
+| #1 [[File:Cheri.png|25px]] || [[Cheri|Zreza]] ||  style="text-align:right" | 1 || style="text-align:right" | {{ #expr: 60/(30/1.25)*1round2 }}
+|-
+| #2 [[File:Chesto.png|25px]] || [[Chesto|Atania]] ||  style="text-align:right" | 2 || style="text-align:right" | {{ #expr: 60/(40/1.25)*2round2 }}
+|-
+| #3 [[File:Pecha.png|25px]] || [[Pecha|Meloc]] ||  style="text-align:right" | 3 || style="text-align:right" | {{ #expr: 60/((1*60)/1.25)*3round2 }}
+|-
+| #4 [[File:Rawst.png|25px]] || [[Rawst|Safre]] ||  style="text-align:right" | 4 || style="text-align:right" | {{ #expr: 60/((1*60+20)/1.25)*4round2 }}
+|-
+| #5 [[File:Aspear.png|25px]] || [[Aspear|Perasi]] ||  style="text-align:right" | 5 || style="text-align:right" | {{ #expr: 60/((2*60)/1.25)*5round2 }}
+|-
+| #6 [[File:Leppa.png|25px]] || [[Leppa|Zanama]] ||  style="text-align:right" | 6 || style="text-align:right" | {{ #expr: 60/((4*60)/1.25)*6round2 }}
+|-
+| #7 [[File:Oran.png|25px]] || [[Oran|Aranja]] ||  style="text-align:right" | 7 || style="text-align:right" | {{ #expr: 60/((5*60)/1.25)*7round2 }}
+|-
+| #8 [[File:Sitrus.png|25px]] || [[Sitrus|Zidra]] ||  style="text-align:right" | 8 || style="text-align:right" | {{ #expr: 60/((10*60)/1.25)*8round2 }}
+&lt;!--Second Generation--&gt;
+|-1
+| #9 [[File:Persim.png|25px]] || [[Persim|Caquic]] ||  style="text-align:right" | 2  || style="text-align:right" | {{ #expr: 60/((1*60+30)/1.25)*2round2 }}
+|-
+| #10 [[File:Razz.png|25px]] || [[Razz|Frambu]] ||  style="text-align:right" | 2  || style="text-align:right" | {{ #expr: 60/((4*60+10)/1.25)*2round2 }}
+|-
+| #11 [[File:Bluk.png|25px]] || [[Bluk|Oram]] ||  style="text-align:right" | 2  || style="text-align:right" | {{ #expr: 60/((5*60+30)/1.25)*2round2 }}
+|-
+| #12 [[File:Nanab.png|25px]] || [[Nanab|Latano]] ||  style="text-align:right" | 2  || style="text-align:right" | {{ #expr: 60/((4*60+10)/1.25)*2round2 }}
+|-
+| #13 [[File:Wepear.png|25px]] || [[Wepear|Peragu]] ||  style="text-align:right" | 2  || style="text-align:right" | {{ #expr: 60/((6*60+40)/1.25)*2round2 }}
+|-
+| #14 [[File:Pinap.png|25px]] || [[Pinap|Pinia]] ||  style="text-align:right" | 2  || style="text-align:right" | {{ #expr: 60/((4*60)/1.25)*2round2 }}
+|-
+| #15 [[File:Figy.png|25px]] || [[Figy|Higog]] ||  style="text-align:right" | 3  || style="text-align:right" | {{ #expr: 60/((5*60+50)/1.25)*3round2 }}
+|-
+| #16 [[File:Wiki.png|25px]] || [[Wiki]] ||  style="text-align:right" | 3  || style="text-align:right" | {{ #expr: 60/((6*60)/1.25)*3round2 }}
+|-
+| #17 [[File:Mago.png|25px]] || [[Mago|Ango]] ||  style="text-align:right" | 3  || style="text-align:right" | {{ #expr: 60/((6*60+10)/1.25)*3round2 }}
+|-
+| #18 [[File:Aguav.png|25px]] || [[Aguav|Guaya]] ||  style="text-align:right" | 3  || style="text-align:right" | {{ #expr: 60/((5*60+50)/1.25)*3round2 }}
+|-
+| #19 [[File:Iapapa.png|25px]] || [[Iapapa|Pabaya]] ||  style="text-align:right" | 3  || style="text-align:right" | {{ #expr: 60/((6*60+20)/1.25)*3round2 }}
+|-
+| #20 [[File:Lum.png|25px]] || [[Lum|Ziuela]] ||  style="text-align:right" | 3  || style="text-align:right" | {{ #expr: 60/((1*60^2)/1.25)*3round2 }}
+&lt;!--THIRD GENERATION--&gt;
+|-
+| #21 [[File:Pomeg.png|25px]] || [[Pomeg|Grana]] ||  style="text-align:right" | 10 || style="text-align:right" | {{ #expr: 60/((1*60^2+30*60)/1.25)*10round2 }}
+|-
+| #22 [[File:Kelpsy.png|25px]] || [[Kelpsy|Algama]] ||  style="text-align:right" | 10 || style="text-align:right" | {{ #expr: 60/((1*60^2+40*60)/1.25)*10round2 }}
+|-
+| #23 [[File:Qualot.png|25px]] || [[Qualot|Ispero]] ||  style="text-align:right" | 10 || style="text-align:right" | {{ #expr: 60/((1*60^2+20*60)/1.25)*10round2 }}
+|-
+| #24 [[File:Hondew.png|25px]] || [[Hondew|Meluce]] ||  style="text-align:right" | 10 || style="text-align:right" | {{ #expr: 60/((3*60^2)/1.25)*10round2 }}
+|-
+| #25 [[File:Grepa.png|25px]] || [[Grepa|Uvav]] ||  style="text-align:right" | 10 || style="text-align:right" | {{ #expr: 60/((2*60^2)/1.25)*10round2 }}
+|-
+| #26 [[File:Tamato.png|25px]] || [[Tamato|Tamate]] ||  style="text-align:right" | 10 || style="text-align:right" | {{ #expr: 60/((2*60^2+24*60)/1.25)*10round2 }}
+|-
+| #27 [[File:Cornn.png|25px]] || [[Cornn|Mais]] ||  style="text-align:right" | 10 || style="text-align:right" | {{ #expr: 60/((2*60^2+30*60)/1.25)*10round2 }}
+|-
+| #28 [[File:Magost.png|25px]] || [[Magost|Aostan]] ||  style="text-align:right" | 10 || style="text-align:right" | {{ #expr: 60/((4*60^2)/1.25)*10round2 }}
+|-
+| #29 [[File:Rabuta.png|25px]] || [[Rabuta|Rautan]] ||  style="text-align:right" | 10 || style="text-align:right" | {{ #expr: 60/((3*60^2+24*60)/1.25)*10round2 }}
+|-
+| #30 [[File:Nomel.png|25px]] || [[Nomel|Monli]] ||  style="text-align:right" | 10 || style="text-align:right" | {{ #expr: 60/((4*60^2+12*60)/1.25)*10round2 }}
+|-
+| #31 [[File:Spelon.png|25px]] || [[Spelon|Wikano]] ||  style="text-align:right" | 10 || style="text-align:right" | {{ #expr: 60/((4*60^2+18*60)/1.25)*10round2 }}
+|-
+| #32 [[File:Pamtre.png|25px]] || [[Pamtre|Plama]] ||  style="text-align:right" | 10 || style="text-align:right" | {{ #expr: 60/((5*60^2)/1.25)*10round2 }}
+|-
+| #33 [[File:Watmel.png|25px]] || [[Watmel|Sambia]] ||  style="text-align:right" | 10 || style="text-align:right" | {{ #expr: 60/((4*60^2+36*60)/1.25)*10round2 }}
+|-
+| #34 [[File:Durin.png|25px]] || [[Durin|Raudion]] ||  style="text-align:right" | 10 || style="text-align:right" | {{ #expr: 60/((6*60^2)/1.25)*10round2 }}
+|-
+| #35 [[File:Belue.png|25px]] || [[Belue|Andano]] ||  style="text-align:right" | 10 || style="text-align:right" | {{ #expr: 60/((5*60^2+30*60)/1.25)*10round2 }}
+&lt;!--FOURTH GENERATION--&gt;
+|-
+| #36 [[File:Occa.png|25px]] || [[Occa|Caoca]] ||  style="text-align:right" | 15 || style="text-align:right" | {{ #expr: 60/((6*60^2+6*60)/1.25)*15round2 }}
+|-
+| #37 [[File:Passho.png|25px]] || [[Passho|Pasio]] ||  style="text-align:right" | 15 || style="text-align:right" | {{ #expr: 60/((6*60^2)/1.25)*15round2 }}
+|-
+| #38 [[File:Wacan.png|25px]] || [[Wacan|Gualot]] ||  style="text-align:right" | 1 || style="text-align:right" | Entre {{ #expr: 60/((30*60)/1.25)*1round2 }} y {{ #expr: 60/((30*60)/(1.3^8*1.25))*1round2 }}
+|-
+| #39 [[File:Rindo.png|25px]] || [[Rindo|Tamar]] ||  style="text-align:right" | 15 || style="text-align:right" | {{ #expr: 60/((8*60^2)/1.25)*15round2 }}
+|-
+| #40 [[File:Yache.png|25px]] || [[Yache|Rimoya]] ||  style="text-align:right" | 15 || style="text-align:right" | {{ #expr: 60/((12*60^2)/1.25)*15round2}}
+|-
+| #41 [[File:Chople.png|25px]] || [[Chople|Pomaro]] ||  style="text-align:right" | 15 || style="text-align:right" | {{ #expr: 60/((10*60^2)/1.25)*15round2}}
+|-
+| #42 [[File:Kebia.png|25px]] || [[Kebia]] ||  style="text-align:right" | 1 || style="text-align:right" |  {{ #expr: 60/((10*60)/1.25)*1round2}}
+|-
+| #43 [[File:Shuca.png|25px]] || [[Shuca|Acardo]] ||  style="text-align:right" | 15 || style="text-align:right" | {{ #expr: 60/((11*60^2)/1.25)*15round2}}
+|-
+| #44 [[File:Coba.png|25px]] || [[Coba|Kouba]] ||  style="text-align:right" | 15 || style="text-align:right" | {{ #expr: 60/((5*60^2+30*60)/1.25)*15round2}}
+|-
+| #45 [[File:Payapa.png|25px]] || [[Payapa]] ||  style="text-align:right" | 15 || style="text-align:right" | {{ #expr: 60/((9*60^2+30*60)/1.25)*15round2}}
+|-
+| #46 [[File:Tanga.png|25px]] || [[Tanga|Yecana]] ||  style="text-align:right" | 15 || style="text-align:right" | {{ #expr: 60/((1*60^2)/1.25)*15round2}}
+|-
+| #47 [[File:Charti.png|25px]] || [[Charti|Alcho]] ||  style="text-align:right" | 15 || style="text-align:right" | {{ #expr: 60/((10*60^2+30*60)/1.25)*15round2}}
+|-
+| #48 [[File:Kasib.png|25px]] || [[Kasib|Drasi]] ||  style="text-align:right" | 1 || style="text-align:right" | {{ #expr: 60/((5*60)/1.25)*1round2 }}
+|-
+| #49 [[File:Haban.png|25px]] || [[Haban|Anjiro]] ||  style="text-align:right" | 15 || style="text-align:right" | {{ #expr: 60/((24*60^2)/1.25)*15round2 }}
+|-
+| #50 [[File:Colbur.png|25px]] || [[Colbur|Dillo]] ||  style="text-align:right" | 15 || style="text-align:right" | {{ #expr: 60/((7*60^2+30*60)/1.25)*15round2 }}
+|-
+| #51 [[File:Babiri.png|25px]] || [[Babiri|Baribá]] ||  style="text-align:right" | 15 || style="text-align:right" | {{ #expr: 60/((18*60^2)/1.25)*15round2 }}
+|-
+| #52 [[File:Chilan.png|25px]] || [[Chilan]] ||  style="text-align:right" | 15 || style="text-align:right" | {{ #expr: 60/((2*60^2)/1.25)*15round2 }}
+|-
+| #53 [[File:Roseli.png|25px]] || [[Roseli|Hibis]] ||  style="text-align:right" | 15 || style="text-align:right" | {{ #expr: 60/((7*60^2)/1.25)*15round2 }}
+&lt;!--FIFTH GENERATION--&gt;
+|-
+| #54 [[File:Micle.png|25px]] || [[Micle|Lagro]] || style="text-align:right" | 20 || style="text-align:right" | {{ #expr: 60/((8*60^2+48*60)/1.25)*20round2 }}
+|-
+| #55 [[File:Custap.png|25px]] || [[Custap|Chiri]] || style="text-align:right" | 20 || style="text-align:right" | {{ #expr: 60/((7*60^2+36*60)/1.25)*20round2 }}
+|-
+| #56 [[File:Jaboca.png|25px]] || [[Jaboca]] || style="text-align:right" | 20 || style="text-align:right" | {{ #expr: 60/((9*60^2+18*60)/1.25)*20round2 }}
+|-
+| #57 [[File:Rowap.png|25px]] || [[Rowap|Magua]] || style="text-align:right" | 20 || style="text-align:right" | {{ #expr: 60/((5*60^2+44*60)/1.25)*20round2 }}
+|-
+| #58 [[File:Kee.png|25px]] || [[Kee|Bigilia]] || style="text-align:right" | 20 || style="text-align:right" | {{ #expr: 60/((10*60^2+6*60)/1.25)*20round2 }}
+|-
+| #59 [[File:Maranga.png|25px]] || [[Maranga]] || style="text-align:right" | 20 || style="text-align:right" | {{ #expr: 60/((11*60^2+12*60)/1.25)*20round2 }}
+|-
+| #60 [[File:Liechi.png|25px]] || [[Liechi|Lichi]] || style="text-align:right" | 20 || style="text-align:right" | {{ #expr: 60/((48*60^2)/1.25)*20round2 }}
+|-
+| #61 [[File:Ganlon.png|25px]] || [[Ganlon|Gonlan]] || style="text-align:right" | 20 || style="text-align:right" | {{ #expr: 60/((48*60^2)/1.25)*20round2 }}
+|-
+| #62 [[File:Salac.png|25px]] || [[Salac|Aslac]] || style="text-align:right" | 20 || style="text-align:right" | {{ #expr: 60/((48*60^2)/1.25)*20round2 }}
+|-
+| #63 [[File:Petaya.png|25px]] || [[Petaya|Yapati]] || style="text-align:right" | 20 || style="text-align:right" | {{ #expr: 60/((24*60^2)/1.25)*20round2 }}
+|-
+| #64 [[File:Apicot.png|25px]] || [[Apicot|Aricoc]] || style="text-align:right" | 20 || style="text-align:right" | {{ #expr: 60/((24*60^2)/1.25)*20round2 }}
+|-
+| #65 [[File:Lansat.png|25px]] || [[Lansat|Zonlan]] || style="text-align:right" | 20 || style="text-align:right" | {{ #expr: 60/((24*60^2)/1.25)*20round2 }}
+|-
+| #66 [[File:Starf.png|25px]] || [[Starf|Arabol]] || style="text-align:right" | 20 || style="text-align:right" | {{ #expr: 60/((24*60^2)/1.25)*20round2 }}
+|-
+| #67 [[File:Enigma.png|25px]] || [[Enigma]] || style="text-align:right" | 20 || style="text-align:right" | {{ #expr: 60/((24*60^2)/1.25)*20round2 }}
+|-
+|}
+
+Nota: Los números para la baya Gualot pueden discrepar ya que las Gualot aumentan el ratio de crecimiento de las bayas cercanas. El ratio de experiencia por minuto sería: {{ #expr: 60/((30*60)/1.25)*1round2 }} para una única Gualot. Sin embargo si plantaras una Gualot cerca de otras 8 Gualot maduras la Gualot central tendría una experiencia por minuto de:{{ #expr: 60/((30*60)/(1.3^8*1.25))*1round2 }}.  Cada Gualot tendría una experiencia por minuto entre esos dos valores (con una Psydugadera de nivel 0 equipada y sin abono aplicado).
+
+&lt;br&gt;{{Objetos de Oak}}&lt;br&gt;
+[[Category:Oak Items|Categoría:Objetos de Oak]] [[Category:Items|Categoría:Objetos]] [[Category:Farm|Categoría:Granja]]</text>
+    <contributor>
+      <username>Cthulhu Follower</username>
+      <id>51</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>16486</parentid>
+    <sha1>9269224e78ea52f4af9de321966d9b085e5a2d40</sha1>
+  </revision>
+  <revision>
+    <id>16486</id>
+    <timestamp>2022-07-23T22:38:39Z</timestamp>
+    <text bytes="14265" space="preserve">&lt;languages/&gt;
+{{Infobox Oak Item
+|name       = Psydugadera
+|image      = [[File:Sprayduck_New.png]]
+|caption    = Dibujo de la ''Psydugadera''.
+|dex = 60
+|effect     = Hace que tus [[Berries|Bayas]] crezcan más rápido
+}}
+
+La '''Psydugadera''' es un  [[Oak Items|Objeto de Oak]]. Al equipar la aumenta la velocidad a la que las [[Berries|bayas]] crecen (y marchitan) en la [[Farm|granja]]. La psydugadera se desbloquea tras capturar 60 pokémons únicos.
+
+== Detalles ==
+
+{| class="wikitable sortable"
+|-
+! Nivel !! Efecto !! Requisitos de Mejora !! Coste de Mejora
+|-
+|0 || x1.25 Velocidad de Crecimiento || 500 Puntos de Exp. al recolectar Bayas || style="text-align:right" | 50,000 {{pdollar}}
+|-
+|1 || x1.3 Velocidad de Crecimiento || 500 Puntos de Exp. al recolectar Bayas || style="text-align:right" | 100,000 {{pdollar}}
+|-
+|2 || x1.35 Velocidad de Crecimiento || 1500 Puntos de Exp. al recolectar Bayas || style="text-align:right" | 250,000 {{pdollar}}
+|-
+|3 || x1.4 Velocidad de Crecimiento || 2500 Puntos de Exp. al recolectar Bayas || style="text-align:right" | 500,000 {{pdollar}}
+|-
+|4 || x1.45 Velocidad de Crecimiento || 5000 Puntos de Exp. al recolectar Bayas || style="text-align:right" | 1,000,000 {{pdollar}}
+|-
+|5/Max || x1.5 Velocidad de Crecimiento || N/A || style="text-align:right" | N/A
+|-
+|}
+
+== Experiencia de las bayas cosechadas == 
+
+Todos los valores han sido calculados con una Psydugadera de nivel 0 equipada. Aunque la experiencia por minuto aumentará con un mayor nivel de la Psydugadera las velocidades relativas de las bayas no cambiarán. La mejor baya seguirá siendo la misma independientemente del nivel de la Psydugadera. La experiencia por minuto ha sido redondeada a 2 decimales.
+
+&lt;!--  Lógica de los cálculos de experiencia por minuto:
+Usamos EXP mínima/min con una regadera a nivel 0, sin tener en cuenta el abono de crecimiento. 
+Usamos el tiempo de crecimiento mínimo de la baya Zreza: 30 segundos
+Aumento de la regadera a nivel 0: x1.25 de la velocidad de crecimiento
+Aumento de la velocidad de crecimiento de la baya Zreza por la Psydugadera: 30 / 1.25 = 24 segundos
+60/24 = 2.5 cosechas por minuto
+La baya Zreza da 1 punto por cosecha, así que los puntos por minuto equivalen a 2.5*1 = 2.5.  
+Escribiendo esto en una única ecuación tenemos:
+60 segundos / (30 segundls /1.25 bonus de la regaders) * XP de la baya
+= 60 / (24) * 1
+= 2.5
+{{ #expr: expression }} el cálculo de la wiki redondea el resultado con 2 decimales
+
+Más adelante en la tabla en lugar de números sin formato para los segundos encontrarás el siguiente formato:
+
+6*60 + 20, lo que significa 6 minutos, 20 segundos
+11*60^2 + 12*60. Resultando en 11 horas, 12 minutos
+--&gt;
+
+{| class="wikitable sortable"
+|-
+! Dex # !! Baya !! Experiencia por Cosecha !! Experiencia por Minuto
+|-
+| #1 [[File:Cheri.png|25px]] || [[Cheri|Zreza]] ||  style="text-align:right" | 1 || style="text-align:right" | {{ #expr: 60/(30/1.25)*1round2 }}
+|-
+| #2 [[File:Chesto.png|25px]] || [[Chesto|Atania]] ||  style="text-align:right" | 2 || style="text-align:right" | {{ #expr: 60/(40/1.25)*2round2 }}
+|-
+| #3 [[File:Pecha.png|25px]] || [[Pecha|Meloc]] ||  style="text-align:right" | 3 || style="text-align:right" | {{ #expr: 60/((1*60)/1.25)*3round2 }}
+|-
+| #4 [[File:Rawst.png|25px]] || [[Rawst]|Safre] ||  style="text-align:right" | 4 || style="text-align:right" | {{ #expr: 60/((1*60+20)/1.25)*4round2 }}
+|-
+| #5 [[File:Aspear.png|25px]] || [[Aspear|Perasi]] ||  style="text-align:right" | 5 || style="text-align:right" | {{ #expr: 60/((2*60)/1.25)*5round2 }}
+|-
+| #6 [[File:Leppa.png|25px]] || [[Leppa|Zanama]] ||  style="text-align:right" | 6 || style="text-align:right" | {{ #expr: 60/((4*60)/1.25)*6round2 }}
+|-
+| #7 [[File:Oran.png|25px]] || [[Oran|Aranja]] ||  style="text-align:right" | 7 || style="text-align:right" | {{ #expr: 60/((5*60)/1.25)*7round2 }}
+|-
+| #8 [[File:Sitrus.png|25px]] || [[Sitrus|Zidra]] ||  style="text-align:right" | 8 || style="text-align:right" | {{ #expr: 60/((10*60)/1.25)*8round2 }}
+&lt;!--Second Generation--&gt;
+|-1
+| #9 [[File:Persim.png|25px]] || [[Persim|Caquic]] ||  style="text-align:right" | 2  || style="text-align:right" | {{ #expr: 60/((1*60+30)/1.25)*2round2 }}
+|-
+| #10 [[File:Razz.png|25px]] || [[Razz|Frambu]] ||  style="text-align:right" | 2  || style="text-align:right" | {{ #expr: 60/((4*60+10)/1.25)*2round2 }}
+|-
+| #11 [[File:Bluk.png|25px]] || [[Bluk|Oram]] ||  style="text-align:right" | 2  || style="text-align:right" | {{ #expr: 60/((5*60+30)/1.25)*2round2 }}
+|-
+| #12 [[File:Nanab.png|25px]] || [[Nanab|Latano]] ||  style="text-align:right" | 2  || style="text-align:right" | {{ #expr: 60/((4*60+10)/1.25)*2round2 }}
+|-
+| #13 [[File:Wepear.png|25px]] || [[Wepear|Peragu]] ||  style="text-align:right" | 2  || style="text-align:right" | {{ #expr: 60/((6*60+40)/1.25)*2round2 }}
+|-
+| #14 [[File:Pinap.png|25px]] || [[Pinap|Pinia]] ||  style="text-align:right" | 2  || style="text-align:right" | {{ #expr: 60/((4*60)/1.25)*2round2 }}
+|-
+| #15 [[File:Figy.png|25px]] || [[Figy|Higog]] ||  style="text-align:right" | 3  || style="text-align:right" | {{ #expr: 60/((5*60+50)/1.25)*3round2 }}
+|-
+| #16 [[File:Wiki.png|25px]] || [[Wiki]] ||  style="text-align:right" | 3  || style="text-align:right" | {{ #expr: 60/((6*60)/1.25)*3round2 }}
+|-
+| #17 [[File:Mago.png|25px]] || [[Mago|Ango]] ||  style="text-align:right" | 3  || style="text-align:right" | {{ #expr: 60/((6*60+10)/1.25)*3round2 }}
+|-
+| #18 [[File:Aguav.png|25px]] || [[Aguav|Guaya]] ||  style="text-align:right" | 3  || style="text-align:right" | {{ #expr: 60/((5*60+50)/1.25)*3round2 }}
+|-
+| #19 [[File:Iapapa.png|25px]] || [[Iapapa|Pabaya]] ||  style="text-align:right" | 3  || style="text-align:right" | {{ #expr: 60/((6*60+20)/1.25)*3round2 }}
+|-
+| #20 [[File:Lum.png|25px]] || [[Lum|Ziuela]] ||  style="text-align:right" | 3  || style="text-align:right" | {{ #expr: 60/((1*60^2)/1.25)*3round2 }}
+&lt;!--THIRD GENERATION--&gt;
+|-
+| #21 [[File:Pomeg.png|25px]] || [[Pomeg|Grana]] ||  style="text-align:right" | 10 || style="text-align:right" | {{ #expr: 60/((1*60^2+30*60)/1.25)*10round2 }}
+|-
+| #22 [[File:Kelpsy.png|25px]] || [[Kelpsy|Algama]] ||  style="text-align:right" | 10 || style="text-align:right" | {{ #expr: 60/((1*60^2+40*60)/1.25)*10round2 }}
+|-
+| #23 [[File:Qualot.png|25px]] || [[Qualot|Ispero]] ||  style="text-align:right" | 10 || style="text-align:right" | {{ #expr: 60/((1*60^2+20*60)/1.25)*10round2 }}
+|-
+| #24 [[File:Hondew.png|25px]] || [[Hondew|Meluce]] ||  style="text-align:right" | 10 || style="text-align:right" | {{ #expr: 60/((3*60^2)/1.25)*10round2 }}
+|-
+| #25 [[File:Grepa.png|25px]] || [[Grepa|Uvav]] ||  style="text-align:right" | 10 || style="text-align:right" | {{ #expr: 60/((2*60^2)/1.25)*10round2 }}
+|-
+| #26 [[File:Tamato.png|25px]] || [[Tamato|Tamate]] ||  style="text-align:right" | 10 || style="text-align:right" | {{ #expr: 60/((2*60^2+24*60)/1.25)*10round2 }}
+|-
+| #27 [[File:Cornn.png|25px]] || [[Cornn|Mais]] ||  style="text-align:right" | 10 || style="text-align:right" | {{ #expr: 60/((2*60^2+30*60)/1.25)*10round2 }}
+|-
+| #28 [[File:Magost.png|25px]] || [[Magost|Aostan]] ||  style="text-align:right" | 10 || style="text-align:right" | {{ #expr: 60/((4*60^2)/1.25)*10round2 }}
+|-
+| #29 [[File:Rabuta.png|25px]] || [[Rabuta|Rautan]] ||  style="text-align:right" | 10 || style="text-align:right" | {{ #expr: 60/((3*60^2+24*60)/1.25)*10round2 }}
+|-
+| #30 [[File:Nomel.png|25px]] || [[Nomel|Monli]] ||  style="text-align:right" | 10 || style="text-align:right" | {{ #expr: 60/((4*60^2+12*60)/1.25)*10round2 }}
+|-
+| #31 [[File:Spelon.png|25px]] || [[Spelon|Wikano]] ||  style="text-align:right" | 10 || style="text-align:right" | {{ #expr: 60/((4*60^2+18*60)/1.25)*10round2 }}
+|-
+| #32 [[File:Pamtre.png|25px]] || [[Pamtre|Plama]] ||  style="text-align:right" | 10 || style="text-align:right" | {{ #expr: 60/((5*60^2)/1.25)*10round2 }}
+|-
+| #33 [[File:Watmel.png|25px]] || [[Watmel|Sambia]] ||  style="text-align:right" | 10 || style="text-align:right" | {{ #expr: 60/((4*60^2+36*60)/1.25)*10round2 }}
+|-
+| #34 [[File:Durin.png|25px]] || [[Durin|Raudion]] ||  style="text-align:right" | 10 || style="text-align:right" | {{ #expr: 60/((6*60^2)/1.25)*10round2 }}
+|-
+| #35 [[File:Belue.png|25px]] || [[Belue|Andano]] ||  style="text-align:right" | 10 || style="text-align:right" | {{ #expr: 60/((5*60^2+30*60)/1.25)*10round2 }}
+&lt;!--FOURTH GENERATION--&gt;
+|-
+| #36 [[File:Occa.png|25px]] || [[Occa|Caoca]] ||  style="text-align:right" | 15 || style="text-align:right" | {{ #expr: 60/((6*60^2+6*60)/1.25)*15round2 }}
+|-
+| #37 [[File:Passho.png|25px]] || [[Passho|Pasio]] ||  style="text-align:right" | 15 || style="text-align:right" | {{ #expr: 60/((6*60^2)/1.25)*15round2 }}
+|-
+| #38 [[File:Wacan.png|25px]] || [[Wacan|Gualot]] ||  style="text-align:right" | 1 || style="text-align:right" | Entre {{ #expr: 60/((30*60)/1.25)*1round2 }} y {{ #expr: 60/((30*60)/(1.3^8*1.25))*1round2 }}
+|-
+| #39 [[File:Rindo.png|25px]] || [[Rindo|Tamar]] ||  style="text-align:right" | 15 || style="text-align:right" | {{ #expr: 60/((8*60^2)/1.25)*15round2 }}
+|-
+| #40 [[File:Yache.png|25px]] || [[Yache|Rimoya]] ||  style="text-align:right" | 15 || style="text-align:right" | {{ #expr: 60/((12*60^2)/1.25)*15round2}}
+|-
+| #41 [[File:Chople.png|25px]] || [[Chople|Pomaro]] ||  style="text-align:right" | 15 || style="text-align:right" | {{ #expr: 60/((10*60^2)/1.25)*15round2}}
+|-
+| #42 [[File:Kebia.png|25px]] || [[Kebia]] ||  style="text-align:right" | 1 || style="text-align:right" |  {{ #expr: 60/((10*60)/1.25)*1round2}}
+|-
+| #43 [[File:Shuca.png|25px]] || [[Shuca|Acardo]] ||  style="text-align:right" | 15 || style="text-align:right" | {{ #expr: 60/((11*60^2)/1.25)*15round2}}
+|-
+| #44 [[File:Coba.png|25px]] || [[Coba|Kouba]] ||  style="text-align:right" | 15 || style="text-align:right" | {{ #expr: 60/((5*60^2+30*60)/1.25)*15round2}}
+|-
+| #45 [[File:Payapa.png|25px]] || [[Payapa]] ||  style="text-align:right" | 15 || style="text-align:right" | {{ #expr: 60/((9*60^2+30*60)/1.25)*15round2}}
+|-
+| #46 [[File:Tanga.png|25px]] || [[Tanga|Yecana]] ||  style="text-align:right" | 15 || style="text-align:right" | {{ #expr: 60/((1*60^2)/1.25)*15round2}}
+|-
+| #47 [[File:Charti.png|25px]] || [[Charti|Alcho]] ||  style="text-align:right" | 15 || style="text-align:right" | {{ #expr: 60/((10*60^2+30*60)/1.25)*15round2}}
+|-
+| #48 [[File:Kasib.png|25px]] || [[Kasib|Drasi]] ||  style="text-align:right" | 1 || style="text-align:right" | {{ #expr: 60/((5*60)/1.25)*1round2 }}
+|-
+| #49 [[File:Haban.png|25px]] || [[Haban|Anjiro]] ||  style="text-align:right" | 15 || style="text-align:right" | {{ #expr: 60/((24*60^2)/1.25)*15round2 }}
+|-
+| #50 [[File:Colbur.png|25px]] || [[Colbur|Dillo]] ||  style="text-align:right" | 15 || style="text-align:right" | {{ #expr: 60/((7*60^2+30*60)/1.25)*15round2 }}
+|-
+| #51 [[File:Babiri.png|25px]] || [[Babiri|Baribá]] ||  style="text-align:right" | 15 || style="text-align:right" | {{ #expr: 60/((18*60^2)/1.25)*15round2 }}
+|-
+| #52 [[File:Chilan.png|25px]] || [[Chilan]] ||  style="text-align:right" | 15 || style="text-align:right" | {{ #expr: 60/((2*60^2)/1.25)*15round2 }}
+|-
+| #53 [[File:Roseli.png|25px]] || [[Roseli|Hibis]] ||  style="text-align:right" | 15 || style="text-align:right" | {{ #expr: 60/((7*60^2)/1.25)*15round2 }}
+&lt;!--FIFTH GENERATION--&gt;
+|-
+| #54 [[File:Micle.png|25px]] || [[Micle|Lagro]] || style="text-align:right" | 20 || style="text-align:right" | {{ #expr: 60/((8*60^2+48*60)/1.25)*20round2 }}
+|-
+| #55 [[File:Custap.png|25px]] || [[Custap|Chiri]] || style="text-align:right" | 20 || style="text-align:right" | {{ #expr: 60/((7*60^2+36*60)/1.25)*20round2 }}
+|-
+| #56 [[File:Jaboca.png|25px]] || [[Jaboca]] || style="text-align:right" | 20 || style="text-align:right" | {{ #expr: 60/((9*60^2+18*60)/1.25)*20round2 }}
+|-
+| #57 [[File:Rowap.png|25px]] || [[Rowap|Magua]] || style="text-align:right" | 20 || style="text-align:right" | {{ #expr: 60/((5*60^2+44*60)/1.25)*20round2 }}
+|-
+| #58 [[File:Kee.png|25px]] || [[Kee|Bigilia]] || style="text-align:right" | 20 || style="text-align:right" | {{ #expr: 60/((10*60^2+6*60)/1.25)*20round2 }}
+|-
+| #59 [[File:Maranga.png|25px]] || [[Maranga]] || style="text-align:right" | 20 || style="text-align:right" | {{ #expr: 60/((11*60^2+12*60)/1.25)*20round2 }}
+|-
+| #60 [[File:Liechi.png|25px]] || [[Liechi|Lichi]] || style="text-align:right" | 20 || style="text-align:right" | {{ #expr: 60/((48*60^2)/1.25)*20round2 }}
+|-
+| #61 [[File:Ganlon.png|25px]] || [[Ganlon|Gonlan]] || style="text-align:right" | 20 || style="text-align:right" | {{ #expr: 60/((48*60^2)/1.25)*20round2 }}
+|-
+| #62 [[File:Salac.png|25px]] || [[Salac|Aslac]] || style="text-align:right" | 20 || style="text-align:right" | {{ #expr: 60/((48*60^2)/1.25)*20round2 }}
+|-
+| #63 [[File:Petaya.png|25px]] || [[Petaya|Yapati]] || style="text-align:right" | 20 || style="text-align:right" | {{ #expr: 60/((24*60^2)/1.25)*20round2 }}
+|-
+| #64 [[File:Apicot.png|25px]] || [[Apicot|Aricoc]] || style="text-align:right" | 20 || style="text-align:right" | {{ #expr: 60/((24*60^2)/1.25)*20round2 }}
+|-
+| #65 [[File:Lansat.png|25px]] || [[Lansat|Zonlan]] || style="text-align:right" | 20 || style="text-align:right" | {{ #expr: 60/((24*60^2)/1.25)*20round2 }}
+|-
+| #66 [[File:Starf.png|25px]] || [[Starf|Arabol]] || style="text-align:right" | 20 || style="text-align:right" | {{ #expr: 60/((24*60^2)/1.25)*20round2 }}
+|-
+| #67 [[File:Enigma.png|25px]] || [[Enigma]] || style="text-align:right" | 20 || style="text-align:right" | {{ #expr: 60/((24*60^2)/1.25)*20round2 }}
+|-
+|}
+
+Nota: Los números para la baya Gualot pueden discrepar ya que las Gualot aumentan el ratio de crecimiento de las bayas cercanas. El ratio de experiencia por minuto sería: {{ #expr: 60/((30*60)/1.25)*1round2 }} para una única Gualot. Sin embargo si plantaras una Gualot cerca de otras 8 Gualot maduras la Gualot central tendría una experiencia por minuto de:{{ #expr: 60/((30*60)/(1.3^8*1.25))*1round2 }}.  Cada Gualot tendría una experiencia por minuto entre esos dos valores (con una Psydugadera de nivel 0 equipada y sin abono aplicado).
+
+&lt;br&gt;{{Objetos de Oak}}&lt;br&gt;
+[[Category:Oak Items|Categoría:Objetos de Oak]] [[Category:Items|Categoría:Objetos]] [[Category:Farm|Categoría:Granja]]</text>
+    <contributor>
+      <username>Cthulhu Follower</username>
+      <id>51</id>
+    </contributor>
+    <comment>Created page with "{{Infobox Oak Item |name       = Psydugadera |image      = [[File:Sprayduck_New.png]] |caption    = Dibujo de la ''Psydugadera''. |dex = 60 |effect     = Hace que tus [[Berries|Bayas]] crezcan más rápido }}"</comment>
+    <model>wikitext</model>
+    <parentid>16485</parentid>
+    <sha1>196147091aed7d6a2f0cc71273e40e740ca79e3b</sha1>
+  </revision>
+  <revision>
+    <id>16485</id>
+    <timestamp>2022-07-23T22:37:13Z</timestamp>
+    <text bytes="14302" space="preserve">&lt;languages/&gt;
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Infobox Oak Item
+|name       = Sprayduck
+|image      = [[File:Sprayduck_New.png]]
+|caption    = Artwork of the ''Sprayduck''.
+|dex = 60
+|effect     = Makes your [[Berries]] grow faster
+}}
+&lt;/div&gt;
+
+La '''Psydugadera''' es un  [[Oak Items|Objeto de Oak]]. Al equipar la aumenta la velocidad a la que las [[Berries|bayas]] crecen (y marchitan) en la [[Farm|granja]]. La psydugadera se desbloquea tras capturar 60 pokémons únicos.
+
+== Detalles ==
+
+{| class="wikitable sortable"
+|-
+! Nivel !! Efecto !! Requisitos de Mejora !! Coste de Mejora
+|-
+|0 || x1.25 Velocidad de Crecimiento || 500 Puntos de Exp. al recolectar Bayas || style="text-align:right" | 50,000 {{pdollar}}
+|-
+|1 || x1.3 Velocidad de Crecimiento || 500 Puntos de Exp. al recolectar Bayas || style="text-align:right" | 100,000 {{pdollar}}
+|-
+|2 || x1.35 Velocidad de Crecimiento || 1500 Puntos de Exp. al recolectar Bayas || style="text-align:right" | 250,000 {{pdollar}}
+|-
+|3 || x1.4 Velocidad de Crecimiento || 2500 Puntos de Exp. al recolectar Bayas || style="text-align:right" | 500,000 {{pdollar}}
+|-
+|4 || x1.45 Velocidad de Crecimiento || 5000 Puntos de Exp. al recolectar Bayas || style="text-align:right" | 1,000,000 {{pdollar}}
+|-
+|5/Max || x1.5 Velocidad de Crecimiento || N/A || style="text-align:right" | N/A
+|-
+|}
+
+== Experiencia de las bayas cosechadas == 
+
+Todos los valores han sido calculados con una Psydugadera de nivel 0 equipada. Aunque la experiencia por minuto aumentará con un mayor nivel de la Psydugadera las velocidades relativas de las bayas no cambiarán. La mejor baya seguirá siendo la misma independientemente del nivel de la Psydugadera. La experiencia por minuto ha sido redondeada a 2 decimales.
+
+&lt;!--  Lógica de los cálculos de experiencia por minuto:
+Usamos EXP mínima/min con una regadera a nivel 0, sin tener en cuenta el abono de crecimiento. 
+Usamos el tiempo de crecimiento mínimo de la baya Zreza: 30 segundos
+Aumento de la regadera a nivel 0: x1.25 de la velocidad de crecimiento
+Aumento de la velocidad de crecimiento de la baya Zreza por la Psydugadera: 30 / 1.25 = 24 segundos
+60/24 = 2.5 cosechas por minuto
+La baya Zreza da 1 punto por cosecha, así que los puntos por minuto equivalen a 2.5*1 = 2.5.  
+Escribiendo esto en una única ecuación tenemos:
+60 segundos / (30 segundls /1.25 bonus de la regaders) * XP de la baya
+= 60 / (24) * 1
+= 2.5
+{{ #expr: expression }} el cálculo de la wiki redondea el resultado con 2 decimales
+
+Más adelante en la tabla en lugar de números sin formato para los segundos encontrarás el siguiente formato:
+
+6*60 + 20, lo que significa 6 minutos, 20 segundos
+11*60^2 + 12*60. Resultando en 11 horas, 12 minutos
+--&gt;
+
+{| class="wikitable sortable"
+|-
+! Dex # !! Baya !! Experiencia por Cosecha !! Experiencia por Minuto
+|-
+| #1 [[File:Cheri.png|25px]] || [[Cheri|Zreza]] ||  style="text-align:right" | 1 || style="text-align:right" | {{ #expr: 60/(30/1.25)*1round2 }}
+|-
+| #2 [[File:Chesto.png|25px]] || [[Chesto|Atania]] ||  style="text-align:right" | 2 || style="text-align:right" | {{ #expr: 60/(40/1.25)*2round2 }}
+|-
+| #3 [[File:Pecha.png|25px]] || [[Pecha|Meloc]] ||  style="text-align:right" | 3 || style="text-align:right" | {{ #expr: 60/((1*60)/1.25)*3round2 }}
+|-
+| #4 [[File:Rawst.png|25px]] || [[Rawst]|Safre] ||  style="text-align:right" | 4 || style="text-align:right" | {{ #expr: 60/((1*60+20)/1.25)*4round2 }}
+|-
+| #5 [[File:Aspear.png|25px]] || [[Aspear|Perasi]] ||  style="text-align:right" | 5 || style="text-align:right" | {{ #expr: 60/((2*60)/1.25)*5round2 }}
+|-
+| #6 [[File:Leppa.png|25px]] || [[Leppa|Zanama]] ||  style="text-align:right" | 6 || style="text-align:right" | {{ #expr: 60/((4*60)/1.25)*6round2 }}
+|-
+| #7 [[File:Oran.png|25px]] || [[Oran|Aranja]] ||  style="text-align:right" | 7 || style="text-align:right" | {{ #expr: 60/((5*60)/1.25)*7round2 }}
+|-
+| #8 [[File:Sitrus.png|25px]] || [[Sitrus|Zidra]] ||  style="text-align:right" | 8 || style="text-align:right" | {{ #expr: 60/((10*60)/1.25)*8round2 }}
+&lt;!--Second Generation--&gt;
+|-1
+| #9 [[File:Persim.png|25px]] || [[Persim|Caquic]] ||  style="text-align:right" | 2  || style="text-align:right" | {{ #expr: 60/((1*60+30)/1.25)*2round2 }}
+|-
+| #10 [[File:Razz.png|25px]] || [[Razz|Frambu]] ||  style="text-align:right" | 2  || style="text-align:right" | {{ #expr: 60/((4*60+10)/1.25)*2round2 }}
+|-
+| #11 [[File:Bluk.png|25px]] || [[Bluk|Oram]] ||  style="text-align:right" | 2  || style="text-align:right" | {{ #expr: 60/((5*60+30)/1.25)*2round2 }}
+|-
+| #12 [[File:Nanab.png|25px]] || [[Nanab|Latano]] ||  style="text-align:right" | 2  || style="text-align:right" | {{ #expr: 60/((4*60+10)/1.25)*2round2 }}
+|-
+| #13 [[File:Wepear.png|25px]] || [[Wepear|Peragu]] ||  style="text-align:right" | 2  || style="text-align:right" | {{ #expr: 60/((6*60+40)/1.25)*2round2 }}
+|-
+| #14 [[File:Pinap.png|25px]] || [[Pinap|Pinia]] ||  style="text-align:right" | 2  || style="text-align:right" | {{ #expr: 60/((4*60)/1.25)*2round2 }}
+|-
+| #15 [[File:Figy.png|25px]] || [[Figy|Higog]] ||  style="text-align:right" | 3  || style="text-align:right" | {{ #expr: 60/((5*60+50)/1.25)*3round2 }}
+|-
+| #16 [[File:Wiki.png|25px]] || [[Wiki]] ||  style="text-align:right" | 3  || style="text-align:right" | {{ #expr: 60/((6*60)/1.25)*3round2 }}
+|-
+| #17 [[File:Mago.png|25px]] || [[Mago|Ango]] ||  style="text-align:right" | 3  || style="text-align:right" | {{ #expr: 60/((6*60+10)/1.25)*3round2 }}
+|-
+| #18 [[File:Aguav.png|25px]] || [[Aguav|Guaya]] ||  style="text-align:right" | 3  || style="text-align:right" | {{ #expr: 60/((5*60+50)/1.25)*3round2 }}
+|-
+| #19 [[File:Iapapa.png|25px]] || [[Iapapa|Pabaya]] ||  style="text-align:right" | 3  || style="text-align:right" | {{ #expr: 60/((6*60+20)/1.25)*3round2 }}
+|-
+| #20 [[File:Lum.png|25px]] || [[Lum|Ziuela]] ||  style="text-align:right" | 3  || style="text-align:right" | {{ #expr: 60/((1*60^2)/1.25)*3round2 }}
+&lt;!--THIRD GENERATION--&gt;
+|-
+| #21 [[File:Pomeg.png|25px]] || [[Pomeg|Grana]] ||  style="text-align:right" | 10 || style="text-align:right" | {{ #expr: 60/((1*60^2+30*60)/1.25)*10round2 }}
+|-
+| #22 [[File:Kelpsy.png|25px]] || [[Kelpsy|Algama]] ||  style="text-align:right" | 10 || style="text-align:right" | {{ #expr: 60/((1*60^2+40*60)/1.25)*10round2 }}
+|-
+| #23 [[File:Qualot.png|25px]] || [[Qualot|Ispero]] ||  style="text-align:right" | 10 || style="text-align:right" | {{ #expr: 60/((1*60^2+20*60)/1.25)*10round2 }}
+|-
+| #24 [[File:Hondew.png|25px]] || [[Hondew|Meluce]] ||  style="text-align:right" | 10 || style="text-align:right" | {{ #expr: 60/((3*60^2)/1.25)*10round2 }}
+|-
+| #25 [[File:Grepa.png|25px]] || [[Grepa|Uvav]] ||  style="text-align:right" | 10 || style="text-align:right" | {{ #expr: 60/((2*60^2)/1.25)*10round2 }}
+|-
+| #26 [[File:Tamato.png|25px]] || [[Tamato|Tamate]] ||  style="text-align:right" | 10 || style="text-align:right" | {{ #expr: 60/((2*60^2+24*60)/1.25)*10round2 }}
+|-
+| #27 [[File:Cornn.png|25px]] || [[Cornn|Mais]] ||  style="text-align:right" | 10 || style="text-align:right" | {{ #expr: 60/((2*60^2+30*60)/1.25)*10round2 }}
+|-
+| #28 [[File:Magost.png|25px]] || [[Magost|Aostan]] ||  style="text-align:right" | 10 || style="text-align:right" | {{ #expr: 60/((4*60^2)/1.25)*10round2 }}
+|-
+| #29 [[File:Rabuta.png|25px]] || [[Rabuta|Rautan]] ||  style="text-align:right" | 10 || style="text-align:right" | {{ #expr: 60/((3*60^2+24*60)/1.25)*10round2 }}
+|-
+| #30 [[File:Nomel.png|25px]] || [[Nomel|Monli]] ||  style="text-align:right" | 10 || style="text-align:right" | {{ #expr: 60/((4*60^2+12*60)/1.25)*10round2 }}
+|-
+| #31 [[File:Spelon.png|25px]] || [[Spelon|Wikano]] ||  style="text-align:right" | 10 || style="text-align:right" | {{ #expr: 60/((4*60^2+18*60)/1.25)*10round2 }}
+|-
+| #32 [[File:Pamtre.png|25px]] || [[Pamtre|Plama]] ||  style="text-align:right" | 10 || style="text-align:right" | {{ #expr: 60/((5*60^2)/1.25)*10round2 }}
+|-
+| #33 [[File:Watmel.png|25px]] || [[Watmel|Sambia]] ||  style="text-align:right" | 10 || style="text-align:right" | {{ #expr: 60/((4*60^2+36*60)/1.25)*10round2 }}
+|-
+| #34 [[File:Durin.png|25px]] || [[Durin|Raudion]] ||  style="text-align:right" | 10 || style="text-align:right" | {{ #expr: 60/((6*60^2)/1.25)*10round2 }}
+|-
+| #35 [[File:Belue.png|25px]] || [[Belue|Andano]] ||  style="text-align:right" | 10 || style="text-align:right" | {{ #expr: 60/((5*60^2+30*60)/1.25)*10round2 }}
+&lt;!--FOURTH GENERATION--&gt;
+|-
+| #36 [[File:Occa.png|25px]] || [[Occa|Caoca]] ||  style="text-align:right" | 15 || style="text-align:right" | {{ #expr: 60/((6*60^2+6*60)/1.25)*15round2 }}
+|-
+| #37 [[File:Passho.png|25px]] || [[Passho|Pasio]] ||  style="text-align:right" | 15 || style="text-align:right" | {{ #expr: 60/((6*60^2)/1.25)*15round2 }}
+|-
+| #38 [[File:Wacan.png|25px]] || [[Wacan|Gualot]] ||  style="text-align:right" | 1 || style="text-align:right" | Entre {{ #expr: 60/((30*60)/1.25)*1round2 }} y {{ #expr: 60/((30*60)/(1.3^8*1.25))*1round2 }}
+|-
+| #39 [[File:Rindo.png|25px]] || [[Rindo|Tamar]] ||  style="text-align:right" | 15 || style="text-align:right" | {{ #expr: 60/((8*60^2)/1.25)*15round2 }}
+|-
+| #40 [[File:Yache.png|25px]] || [[Yache|Rimoya]] ||  style="text-align:right" | 15 || style="text-align:right" | {{ #expr: 60/((12*60^2)/1.25)*15round2}}
+|-
+| #41 [[File:Chople.png|25px]] || [[Chople|Pomaro]] ||  style="text-align:right" | 15 || style="text-align:right" | {{ #expr: 60/((10*60^2)/1.25)*15round2}}
+|-
+| #42 [[File:Kebia.png|25px]] || [[Kebia]] ||  style="text-align:right" | 1 || style="text-align:right" |  {{ #expr: 60/((10*60)/1.25)*1round2}}
+|-
+| #43 [[File:Shuca.png|25px]] || [[Shuca|Acardo]] ||  style="text-align:right" | 15 || style="text-align:right" | {{ #expr: 60/((11*60^2)/1.25)*15round2}}
+|-
+| #44 [[File:Coba.png|25px]] || [[Coba|Kouba]] ||  style="text-align:right" | 15 || style="text-align:right" | {{ #expr: 60/((5*60^2+30*60)/1.25)*15round2}}
+|-
+| #45 [[File:Payapa.png|25px]] || [[Payapa]] ||  style="text-align:right" | 15 || style="text-align:right" | {{ #expr: 60/((9*60^2+30*60)/1.25)*15round2}}
+|-
+| #46 [[File:Tanga.png|25px]] || [[Tanga|Yecana]] ||  style="text-align:right" | 15 || style="text-align:right" | {{ #expr: 60/((1*60^2)/1.25)*15round2}}
+|-
+| #47 [[File:Charti.png|25px]] || [[Charti|Alcho]] ||  style="text-align:right" | 15 || style="text-align:right" | {{ #expr: 60/((10*60^2+30*60)/1.25)*15round2}}
+|-
+| #48 [[File:Kasib.png|25px]] || [[Kasib|Drasi]] ||  style="text-align:right" | 1 || style="text-align:right" | {{ #expr: 60/((5*60)/1.25)*1round2 }}
+|-
+| #49 [[File:Haban.png|25px]] || [[Haban|Anjiro]] ||  style="text-align:right" | 15 || style="text-align:right" | {{ #expr: 60/((24*60^2)/1.25)*15round2 }}
+|-
+| #50 [[File:Colbur.png|25px]] || [[Colbur|Dillo]] ||  style="text-align:right" | 15 || style="text-align:right" | {{ #expr: 60/((7*60^2+30*60)/1.25)*15round2 }}
+|-
+| #51 [[File:Babiri.png|25px]] || [[Babiri|Baribá]] ||  style="text-align:right" | 15 || style="text-align:right" | {{ #expr: 60/((18*60^2)/1.25)*15round2 }}
+|-
+| #52 [[File:Chilan.png|25px]] || [[Chilan]] ||  style="text-align:right" | 15 || style="text-align:right" | {{ #expr: 60/((2*60^2)/1.25)*15round2 }}
+|-
+| #53 [[File:Roseli.png|25px]] || [[Roseli|Hibis]] ||  style="text-align:right" | 15 || style="text-align:right" | {{ #expr: 60/((7*60^2)/1.25)*15round2 }}
+&lt;!--FIFTH GENERATION--&gt;
+|-
+| #54 [[File:Micle.png|25px]] || [[Micle|Lagro]] || style="text-align:right" | 20 || style="text-align:right" | {{ #expr: 60/((8*60^2+48*60)/1.25)*20round2 }}
+|-
+| #55 [[File:Custap.png|25px]] || [[Custap|Chiri]] || style="text-align:right" | 20 || style="text-align:right" | {{ #expr: 60/((7*60^2+36*60)/1.25)*20round2 }}
+|-
+| #56 [[File:Jaboca.png|25px]] || [[Jaboca]] || style="text-align:right" | 20 || style="text-align:right" | {{ #expr: 60/((9*60^2+18*60)/1.25)*20round2 }}
+|-
+| #57 [[File:Rowap.png|25px]] || [[Rowap|Magua]] || style="text-align:right" | 20 || style="text-align:right" | {{ #expr: 60/((5*60^2+44*60)/1.25)*20round2 }}
+|-
+| #58 [[File:Kee.png|25px]] || [[Kee|Bigilia]] || style="text-align:right" | 20 || style="text-align:right" | {{ #expr: 60/((10*60^2+6*60)/1.25)*20round2 }}
+|-
+| #59 [[File:Maranga.png|25px]] || [[Maranga]] || style="text-align:right" | 20 || style="text-align:right" | {{ #expr: 60/((11*60^2+12*60)/1.25)*20round2 }}
+|-
+| #60 [[File:Liechi.png|25px]] || [[Liechi|Lichi]] || style="text-align:right" | 20 || style="text-align:right" | {{ #expr: 60/((48*60^2)/1.25)*20round2 }}
+|-
+| #61 [[File:Ganlon.png|25px]] || [[Ganlon|Gonlan]] || style="text-align:right" | 20 || style="text-align:right" | {{ #expr: 60/((48*60^2)/1.25)*20round2 }}
+|-
+| #62 [[File:Salac.png|25px]] || [[Salac|Aslac]] || style="text-align:right" | 20 || style="text-align:right" | {{ #expr: 60/((48*60^2)/1.25)*20round2 }}
+|-
+| #63 [[File:Petaya.png|25px]] || [[Petaya|Yapati]] || style="text-align:right" | 20 || style="text-align:right" | {{ #expr: 60/((24*60^2)/1.25)*20round2 }}
+|-
+| #64 [[File:Apicot.png|25px]] || [[Apicot|Aricoc]] || style="text-align:right" | 20 || style="text-align:right" | {{ #expr: 60/((24*60^2)/1.25)*20round2 }}
+|-
+| #65 [[File:Lansat.png|25px]] || [[Lansat|Zonlan]] || style="text-align:right" | 20 || style="text-align:right" | {{ #expr: 60/((24*60^2)/1.25)*20round2 }}
+|-
+| #66 [[File:Starf.png|25px]] || [[Starf|Arabol]] || style="text-align:right" | 20 || style="text-align:right" | {{ #expr: 60/((24*60^2)/1.25)*20round2 }}
+|-
+| #67 [[File:Enigma.png|25px]] || [[Enigma]] || style="text-align:right" | 20 || style="text-align:right" | {{ #expr: 60/((24*60^2)/1.25)*20round2 }}
+|-
+|}
+
+Nota: Los números para la baya Gualot pueden discrepar ya que las Gualot aumentan el ratio de crecimiento de las bayas cercanas. El ratio de experiencia por minuto sería: {{ #expr: 60/((30*60)/1.25)*1round2 }} para una única Gualot. Sin embargo si plantaras una Gualot cerca de otras 8 Gualot maduras la Gualot central tendría una experiencia por minuto de:{{ #expr: 60/((30*60)/(1.3^8*1.25))*1round2 }}.  Cada Gualot tendría una experiencia por minuto entre esos dos valores (con una Psydugadera de nivel 0 equipada y sin abono aplicado).
+
+&lt;br&gt;{{Objetos de Oak}}&lt;br&gt;
+[[Category:Oak Items|Categoría:Objetos de Oak]] [[Category:Items|Categoría:Objetos]] [[Category:Farm|Categoría:Granja]]</text>
+    <contributor>
+      <username>Cthulhu Follower</username>
+      <id>51</id>
+    </contributor>
+    <comment>Created page with "{| class="wikitable sortable" |- ! Nivel !! Efecto !! Requisitos de Mejora !! Coste de Mejora |- |0 || x1.25 Velocidad de Crecimiento || 500 Puntos de Exp. al recolectar Bayas || style="text-align:right" | 50,000 {{pdollar}} |- |1 || x1.3 Velocidad de Crecimiento || 500 Puntos de Exp. al recolectar Bayas || style="text-align:right" | 100,000 {{pdollar}} |- |2 || x1.35 Velocidad de Crecimiento || 1500 Puntos de Exp. al recolectar Bayas || style="text-align:right" | 250,00..."</comment>
+    <model>wikitext</model>
+    <parentid>16484</parentid>
+    <sha1>c0c9d2604f5070eb5b06b34887bc3583aa1d1b51</sha1>
+  </revision>
+  <revision>
+    <id>16484</id>
+    <timestamp>2022-07-23T22:31:52Z</timestamp>
+    <text bytes="14232" space="preserve">&lt;languages/&gt;
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Infobox Oak Item
+|name       = Sprayduck
+|image      = [[File:Sprayduck_New.png]]
+|caption    = Artwork of the ''Sprayduck''.
+|dex = 60
+|effect     = Makes your [[Berries]] grow faster
+}}
+&lt;/div&gt;
+
+La '''Psydugadera''' es un  [[Oak Items|Objeto de Oak]]. Al equipar la aumenta la velocidad a la que las [[Berries|bayas]] crecen (y marchitan) en la [[Farm|granja]]. La psydugadera se desbloquea tras capturar 60 pokémons únicos.
+
+== Detalles ==
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable sortable"
+|-
+! Level !! Effect !! Upgrade Requirement !! Upgrade Cost
+|-
+|0 || x1.25 Growth Speed || 500 Berry harvest Experience || style="text-align:right" | 50,000 {{pdollar}}
+|-
+|1 || x1.3 Growth Speed || 500 Berry harvest Experience || style="text-align:right" | 100,000 {{pdollar}}
+|-
+|2 || x1.35 Growth Speed || 1500 Berry harvest Experience || style="text-align:right" | 250,000 {{pdollar}}
+|-
+|3 || x1.4 Growth Speed || 2500 Berry harvest Experience || style="text-align:right" | 500,000 {{pdollar}}
+|-
+|4 || x1.45 Growth Speed || 5000 Berry harvest Experience || style="text-align:right" | 1,000,000 {{pdollar}}
+|-
+|5/Max || x1.5 Growth Speed || N/A || style="text-align:right" | N/A
+|-
+|}
+&lt;/div&gt;
+
+== Experiencia de las bayas cosechadas == 
+
+Todos los valores han sido calculados con una Psydugadera de nivel 0 equipada. Aunque la experiencia por minuto aumentará con un mayor nivel de la Psydugadera las velocidades relativas de las bayas no cambiarán. La mejor baya seguirá siendo la misma independientemente del nivel de la Psydugadera. La experiencia por minuto ha sido redondeada a 2 decimales.
+
+&lt;!--  Lógica de los cálculos de experiencia por minuto:
+Usamos EXP mínima/min con una regadera a nivel 0, sin tener en cuenta el abono de crecimiento. 
+Usamos el tiempo de crecimiento mínimo de la baya Zreza: 30 segundos
+Aumento de la regadera a nivel 0: x1.25 de la velocidad de crecimiento
+Aumento de la velocidad de crecimiento de la baya Zreza por la Psydugadera: 30 / 1.25 = 24 segundos
+60/24 = 2.5 cosechas por minuto
+La baya Zreza da 1 punto por cosecha, así que los puntos por minuto equivalen a 2.5*1 = 2.5.  
+Escribiendo esto en una única ecuación tenemos:
+60 segundos / (30 segundls /1.25 bonus de la regaders) * XP de la baya
+= 60 / (24) * 1
+= 2.5
+{{ #expr: expression }} el cálculo de la wiki redondea el resultado con 2 decimales
+
+Más adelante en la tabla en lugar de números sin formato para los segundos encontrarás el siguiente formato:
+
+6*60 + 20, lo que significa 6 minutos, 20 segundos
+11*60^2 + 12*60. Resultando en 11 horas, 12 minutos
+--&gt;
+
+{| class="wikitable sortable"
+|-
+! Dex # !! Baya !! Experiencia por Cosecha !! Experiencia por Minuto
+|-
+| #1 [[File:Cheri.png|25px]] || [[Cheri|Zreza]] ||  style="text-align:right" | 1 || style="text-align:right" | {{ #expr: 60/(30/1.25)*1round2 }}
+|-
+| #2 [[File:Chesto.png|25px]] || [[Chesto|Atania]] ||  style="text-align:right" | 2 || style="text-align:right" | {{ #expr: 60/(40/1.25)*2round2 }}
+|-
+| #3 [[File:Pecha.png|25px]] || [[Pecha|Meloc]] ||  style="text-align:right" | 3 || style="text-align:right" | {{ #expr: 60/((1*60)/1.25)*3round2 }}
+|-
+| #4 [[File:Rawst.png|25px]] || [[Rawst]|Safre] ||  style="text-align:right" | 4 || style="text-align:right" | {{ #expr: 60/((1*60+20)/1.25)*4round2 }}
+|-
+| #5 [[File:Aspear.png|25px]] || [[Aspear|Perasi]] ||  style="text-align:right" | 5 || style="text-align:right" | {{ #expr: 60/((2*60)/1.25)*5round2 }}
+|-
+| #6 [[File:Leppa.png|25px]] || [[Leppa|Zanama]] ||  style="text-align:right" | 6 || style="text-align:right" | {{ #expr: 60/((4*60)/1.25)*6round2 }}
+|-
+| #7 [[File:Oran.png|25px]] || [[Oran|Aranja]] ||  style="text-align:right" | 7 || style="text-align:right" | {{ #expr: 60/((5*60)/1.25)*7round2 }}
+|-
+| #8 [[File:Sitrus.png|25px]] || [[Sitrus|Zidra]] ||  style="text-align:right" | 8 || style="text-align:right" | {{ #expr: 60/((10*60)/1.25)*8round2 }}
+&lt;!--Second Generation--&gt;
+|-1
+| #9 [[File:Persim.png|25px]] || [[Persim|Caquic]] ||  style="text-align:right" | 2  || style="text-align:right" | {{ #expr: 60/((1*60+30)/1.25)*2round2 }}
+|-
+| #10 [[File:Razz.png|25px]] || [[Razz|Frambu]] ||  style="text-align:right" | 2  || style="text-align:right" | {{ #expr: 60/((4*60+10)/1.25)*2round2 }}
+|-
+| #11 [[File:Bluk.png|25px]] || [[Bluk|Oram]] ||  style="text-align:right" | 2  || style="text-align:right" | {{ #expr: 60/((5*60+30)/1.25)*2round2 }}
+|-
+| #12 [[File:Nanab.png|25px]] || [[Nanab|Latano]] ||  style="text-align:right" | 2  || style="text-align:right" | {{ #expr: 60/((4*60+10)/1.25)*2round2 }}
+|-
+| #13 [[File:Wepear.png|25px]] || [[Wepear|Peragu]] ||  style="text-align:right" | 2  || style="text-align:right" | {{ #expr: 60/((6*60+40)/1.25)*2round2 }}
+|-
+| #14 [[File:Pinap.png|25px]] || [[Pinap|Pinia]] ||  style="text-align:right" | 2  || style="text-align:right" | {{ #expr: 60/((4*60)/1.25)*2round2 }}
+|-
+| #15 [[File:Figy.png|25px]] || [[Figy|Higog]] ||  style="text-align:right" | 3  || style="text-align:right" | {{ #expr: 60/((5*60+50)/1.25)*3round2 }}
+|-
+| #16 [[File:Wiki.png|25px]] || [[Wiki]] ||  style="text-align:right" | 3  || style="text-align:right" | {{ #expr: 60/((6*60)/1.25)*3round2 }}
+|-
+| #17 [[File:Mago.png|25px]] || [[Mago|Ango]] ||  style="text-align:right" | 3  || style="text-align:right" | {{ #expr: 60/((6*60+10)/1.25)*3round2 }}
+|-
+| #18 [[File:Aguav.png|25px]] || [[Aguav|Guaya]] ||  style="text-align:right" | 3  || style="text-align:right" | {{ #expr: 60/((5*60+50)/1.25)*3round2 }}
+|-
+| #19 [[File:Iapapa.png|25px]] || [[Iapapa|Pabaya]] ||  style="text-align:right" | 3  || style="text-align:right" | {{ #expr: 60/((6*60+20)/1.25)*3round2 }}
+|-
+| #20 [[File:Lum.png|25px]] || [[Lum|Ziuela]] ||  style="text-align:right" | 3  || style="text-align:right" | {{ #expr: 60/((1*60^2)/1.25)*3round2 }}
+&lt;!--THIRD GENERATION--&gt;
+|-
+| #21 [[File:Pomeg.png|25px]] || [[Pomeg|Grana]] ||  style="text-align:right" | 10 || style="text-align:right" | {{ #expr: 60/((1*60^2+30*60)/1.25)*10round2 }}
+|-
+| #22 [[File:Kelpsy.png|25px]] || [[Kelpsy|Algama]] ||  style="text-align:right" | 10 || style="text-align:right" | {{ #expr: 60/((1*60^2+40*60)/1.25)*10round2 }}
+|-
+| #23 [[File:Qualot.png|25px]] || [[Qualot|Ispero]] ||  style="text-align:right" | 10 || style="text-align:right" | {{ #expr: 60/((1*60^2+20*60)/1.25)*10round2 }}
+|-
+| #24 [[File:Hondew.png|25px]] || [[Hondew|Meluce]] ||  style="text-align:right" | 10 || style="text-align:right" | {{ #expr: 60/((3*60^2)/1.25)*10round2 }}
+|-
+| #25 [[File:Grepa.png|25px]] || [[Grepa|Uvav]] ||  style="text-align:right" | 10 || style="text-align:right" | {{ #expr: 60/((2*60^2)/1.25)*10round2 }}
+|-
+| #26 [[File:Tamato.png|25px]] || [[Tamato|Tamate]] ||  style="text-align:right" | 10 || style="text-align:right" | {{ #expr: 60/((2*60^2+24*60)/1.25)*10round2 }}
+|-
+| #27 [[File:Cornn.png|25px]] || [[Cornn|Mais]] ||  style="text-align:right" | 10 || style="text-align:right" | {{ #expr: 60/((2*60^2+30*60)/1.25)*10round2 }}
+|-
+| #28 [[File:Magost.png|25px]] || [[Magost|Aostan]] ||  style="text-align:right" | 10 || style="text-align:right" | {{ #expr: 60/((4*60^2)/1.25)*10round2 }}
+|-
+| #29 [[File:Rabuta.png|25px]] || [[Rabuta|Rautan]] ||  style="text-align:right" | 10 || style="text-align:right" | {{ #expr: 60/((3*60^2+24*60)/1.25)*10round2 }}
+|-
+| #30 [[File:Nomel.png|25px]] || [[Nomel|Monli]] ||  style="text-align:right" | 10 || style="text-align:right" | {{ #expr: 60/((4*60^2+12*60)/1.25)*10round2 }}
+|-
+| #31 [[File:Spelon.png|25px]] || [[Spelon|Wikano]] ||  style="text-align:right" | 10 || style="text-align:right" | {{ #expr: 60/((4*60^2+18*60)/1.25)*10round2 }}
+|-
+| #32 [[File:Pamtre.png|25px]] || [[Pamtre|Plama]] ||  style="text-align:right" | 10 || style="text-align:right" | {{ #expr: 60/((5*60^2)/1.25)*10round2 }}
+|-
+| #33 [[File:Watmel.png|25px]] || [[Watmel|Sambia]] ||  style="text-align:right" | 10 || style="text-align:right" | {{ #expr: 60/((4*60^2+36*60)/1.25)*10round2 }}
+|-
+| #34 [[File:Durin.png|25px]] || [[Durin|Raudion]] ||  style="text-align:right" | 10 || style="text-align:right" | {{ #expr: 60/((6*60^2)/1.25)*10round2 }}
+|-
+| #35 [[File:Belue.png|25px]] || [[Belue|Andano]] ||  style="text-align:right" | 10 || style="text-align:right" | {{ #expr: 60/((5*60^2+30*60)/1.25)*10round2 }}
+&lt;!--FOURTH GENERATION--&gt;
+|-
+| #36 [[File:Occa.png|25px]] || [[Occa|Caoca]] ||  style="text-align:right" | 15 || style="text-align:right" | {{ #expr: 60/((6*60^2+6*60)/1.25)*15round2 }}
+|-
+| #37 [[File:Passho.png|25px]] || [[Passho|Pasio]] ||  style="text-align:right" | 15 || style="text-align:right" | {{ #expr: 60/((6*60^2)/1.25)*15round2 }}
+|-
+| #38 [[File:Wacan.png|25px]] || [[Wacan|Gualot]] ||  style="text-align:right" | 1 || style="text-align:right" | Entre {{ #expr: 60/((30*60)/1.25)*1round2 }} y {{ #expr: 60/((30*60)/(1.3^8*1.25))*1round2 }}
+|-
+| #39 [[File:Rindo.png|25px]] || [[Rindo|Tamar]] ||  style="text-align:right" | 15 || style="text-align:right" | {{ #expr: 60/((8*60^2)/1.25)*15round2 }}
+|-
+| #40 [[File:Yache.png|25px]] || [[Yache|Rimoya]] ||  style="text-align:right" | 15 || style="text-align:right" | {{ #expr: 60/((12*60^2)/1.25)*15round2}}
+|-
+| #41 [[File:Chople.png|25px]] || [[Chople|Pomaro]] ||  style="text-align:right" | 15 || style="text-align:right" | {{ #expr: 60/((10*60^2)/1.25)*15round2}}
+|-
+| #42 [[File:Kebia.png|25px]] || [[Kebia]] ||  style="text-align:right" | 1 || style="text-align:right" |  {{ #expr: 60/((10*60)/1.25)*1round2}}
+|-
+| #43 [[File:Shuca.png|25px]] || [[Shuca|Acardo]] ||  style="text-align:right" | 15 || style="text-align:right" | {{ #expr: 60/((11*60^2)/1.25)*15round2}}
+|-
+| #44 [[File:Coba.png|25px]] || [[Coba|Kouba]] ||  style="text-align:right" | 15 || style="text-align:right" | {{ #expr: 60/((5*60^2+30*60)/1.25)*15round2}}
+|-
+| #45 [[File:Payapa.png|25px]] || [[Payapa]] ||  style="text-align:right" | 15 || style="text-align:right" | {{ #expr: 60/((9*60^2+30*60)/1.25)*15round2}}
+|-
+| #46 [[File:Tanga.png|25px]] || [[Tanga|Yecana]] ||  style="text-align:right" | 15 || style="text-align:right" | {{ #expr: 60/((1*60^2)/1.25)*15round2}}
+|-
+| #47 [[File:Charti.png|25px]] || [[Charti|Alcho]] ||  style="text-align:right" | 15 || style="text-align:right" | {{ #expr: 60/((10*60^2+30*60)/1.25)*15round2}}
+|-
+| #48 [[File:Kasib.png|25px]] || [[Kasib|Drasi]] ||  style="text-align:right" | 1 || style="text-align:right" | {{ #expr: 60/((5*60)/1.25)*1round2 }}
+|-
+| #49 [[File:Haban.png|25px]] || [[Haban|Anjiro]] ||  style="text-align:right" | 15 || style="text-align:right" | {{ #expr: 60/((24*60^2)/1.25)*15round2 }}
+|-
+| #50 [[File:Colbur.png|25px]] || [[Colbur|Dillo]] ||  style="text-align:right" | 15 || style="text-align:right" | {{ #expr: 60/((7*60^2+30*60)/1.25)*15round2 }}
+|-
+| #51 [[File:Babiri.png|25px]] || [[Babiri|Baribá]] ||  style="text-align:right" | 15 || style="text-align:right" | {{ #expr: 60/((18*60^2)/1.25)*15round2 }}
+|-
+| #52 [[File:Chilan.png|25px]] || [[Chilan]] ||  style="text-align:right" | 15 || style="text-align:right" | {{ #expr: 60/((2*60^2)/1.25)*15round2 }}
+|-
+| #53 [[File:Roseli.png|25px]] || [[Roseli|Hibis]] ||  style="text-align:right" | 15 || style="text-align:right" | {{ #expr: 60/((7*60^2)/1.25)*15round2 }}
+&lt;!--FIFTH GENERATION--&gt;
+|-
+| #54 [[File:Micle.png|25px]] || [[Micle|Lagro]] || style="text-align:right" | 20 || style="text-align:right" | {{ #expr: 60/((8*60^2+48*60)/1.25)*20round2 }}
+|-
+| #55 [[File:Custap.png|25px]] || [[Custap|Chiri]] || style="text-align:right" | 20 || style="text-align:right" | {{ #expr: 60/((7*60^2+36*60)/1.25)*20round2 }}
+|-
+| #56 [[File:Jaboca.png|25px]] || [[Jaboca]] || style="text-align:right" | 20 || style="text-align:right" | {{ #expr: 60/((9*60^2+18*60)/1.25)*20round2 }}
+|-
+| #57 [[File:Rowap.png|25px]] || [[Rowap|Magua]] || style="text-align:right" | 20 || style="text-align:right" | {{ #expr: 60/((5*60^2+44*60)/1.25)*20round2 }}
+|-
+| #58 [[File:Kee.png|25px]] || [[Kee|Bigilia]] || style="text-align:right" | 20 || style="text-align:right" | {{ #expr: 60/((10*60^2+6*60)/1.25)*20round2 }}
+|-
+| #59 [[File:Maranga.png|25px]] || [[Maranga]] || style="text-align:right" | 20 || style="text-align:right" | {{ #expr: 60/((11*60^2+12*60)/1.25)*20round2 }}
+|-
+| #60 [[File:Liechi.png|25px]] || [[Liechi|Lichi]] || style="text-align:right" | 20 || style="text-align:right" | {{ #expr: 60/((48*60^2)/1.25)*20round2 }}
+|-
+| #61 [[File:Ganlon.png|25px]] || [[Ganlon|Gonlan]] || style="text-align:right" | 20 || style="text-align:right" | {{ #expr: 60/((48*60^2)/1.25)*20round2 }}
+|-
+| #62 [[File:Salac.png|25px]] || [[Salac|Aslac]] || style="text-align:right" | 20 || style="text-align:right" | {{ #expr: 60/((48*60^2)/1.25)*20round2 }}
+|-
+| #63 [[File:Petaya.png|25px]] || [[Petaya|Yapati]] || style="text-align:right" | 20 || style="text-align:right" | {{ #expr: 60/((24*60^2)/1.25)*20round2 }}
+|-
+| #64 [[File:Apicot.png|25px]] || [[Apicot|Aricoc]] || style="text-align:right" | 20 || style="text-align:right" | {{ #expr: 60/((24*60^2)/1.25)*20round2 }}
+|-
+| #65 [[File:Lansat.png|25px]] || [[Lansat|Zonlan]] || style="text-align:right" | 20 || style="text-align:right" | {{ #expr: 60/((24*60^2)/1.25)*20round2 }}
+|-
+| #66 [[File:Starf.png|25px]] || [[Starf|Arabol]] || style="text-align:right" | 20 || style="text-align:right" | {{ #expr: 60/((24*60^2)/1.25)*20round2 }}
+|-
+| #67 [[File:Enigma.png|25px]] || [[Enigma]] || style="text-align:right" | 20 || style="text-align:right" | {{ #expr: 60/((24*60^2)/1.25)*20round2 }}
+|-
+|}
+
+Nota: Los números para la baya Gualot pueden discrepar ya que las Gualot aumentan el ratio de crecimiento de las bayas cercanas. El ratio de experiencia por minuto sería: {{ #expr: 60/((30*60)/1.25)*1round2 }} para una única Gualot. Sin embargo si plantaras una Gualot cerca de otras 8 Gualot maduras la Gualot central tendría una experiencia por minuto de:{{ #expr: 60/((30*60)/(1.3^8*1.25))*1round2 }}.  Cada Gualot tendría una experiencia por minuto entre esos dos valores (con una Psydugadera de nivel 0 equipada y sin abono aplicado).
+
+&lt;br&gt;{{Objetos de Oak}}&lt;br&gt;
+[[Category:Oak Items|Categoría:Objetos de Oak]] [[Category:Items|Categoría:Objetos]] [[Category:Farm|Categoría:Granja]]</text>
+    <contributor>
+      <username>Cthulhu Follower</username>
+      <id>51</id>
+    </contributor>
+    <comment>Created page with "{| class="wikitable sortable" |- ! Dex # !! Baya !! Experiencia por Cosecha !! Experiencia por Minuto |- | #1 [[File:Cheri.png|25px]] || [[Cheri|Zreza]] ||  style="text-align:right" | 1 || style="text-align:right" | {{ #expr: 60/(30/1.25)*1round2 }} |- | #2 [[File:Chesto.png|25px]] || [[Chesto|Atania]] ||  style="text-align:right" | 2 || style="text-align:right" | {{ #expr: 60/(40/1.25)*2round2 }} |- | #3 [[File:Pecha.png|25px]] || [[Pecha|Meloc]] ||  style="text-align:r..."</comment>
+    <model>wikitext</model>
+    <parentid>16483</parentid>
+    <sha1>66efff8c6e307601305afd518a03b3d85b9aaf92</sha1>
+  </revision>
+</page>

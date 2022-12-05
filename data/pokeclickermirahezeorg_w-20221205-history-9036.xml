@@ -1,0 +1,75 @@
+<page>
+  <title>Aqua Hideout</title>
+  <ns>0</ns>
+  <id>3243</id>
+  <revision>
+    <id>12691</id>
+    <timestamp>2022-03-16T21:11:50Z</timestamp>
+    <text bytes="2248" space="preserve">{{Infobox dungeon
+|name    = Aqua Hideout
+|image   = [[File:Aqua Hideout.png|300px]]
+|caption = A map of Aqua Hideout.
+|tokens  = 30,000
+|location = North of Route 124
+}}
+'''Aqua Hideout''' is a [[Dungeons|dungeon]] in [[Hoenn]]. It initially has 49 tiles arranged in a 7x7 square, including 7 chest tiles, 17 non-boss encounter tiles, and 1 boss encounter tile.
+
+==Pokémon and Dungeon Stats==
+
+{| class="wikitable"
+|-
+! Wild Encounter !! Base Health !! Trainer !! Pokémon !! Base Health
+|-
+| rowspan=7|&lt;center&gt;N/A || rowspan=7|&lt;center&gt;N/A || [[File:Team_Aqua_Grunt_(male).png|40px]] Team Aqua Grunt ||  [[File:Poochyena.png|40px]] Poochyena || rowspan=7|&lt;center&gt; 30,000
+|-
+| [[File:Team_Aqua_Grunt_(female).png|40px]] Team Aqua Grunt ||[[File:Carvanha.png|40px]] Carvanha
+|-
+| [[File:Team_Aqua_Grunt_(male).png|40px]] Team Aqua Grunt || [[File:Zubat.png|40px]] Zubat, [[File:Carvanha.png|40px]] Carvanha
+|-
+| [[File:Team_Aqua_Grunt_(female).png|40px]] Team Aqua Grunt ||[[File:Poochyena.png|40px]] Poochyena, [[File:Zubat.png|40px]] Zubat
+|-
+| [[File:Team_Aqua_Grunt_(male).png|40px]] Team Aqua Grunt || [[File:Carvanha.png|40px]] Carvanha
+|-
+| [[File:Team_Aqua_Grunt_(male).png|40px]] Team Aqua Grunt || [[File:Zubat.png|40px]] Zubat
+|-
+| [[File:Team_Aqua_Grunt_(female).png|40px]] Team Aqua Grunt || [[File:Zubat.png|40px]] Zubat
+|-
+! Boss !! Base Health !! Boss Trainer !! Pokémon !! Base Health
+|-
+| rowspan=2|&lt;center&gt; N/A || rowspan=2|&lt;center&gt; N/A || rowspan=2|[[File:Aqua_Admin_(matt).png|40px]] Aqua Admin Matt || [[File:Mightyena.png|40px]] Mightyena || rowspan=2|&lt;center&gt; 900,000
+|-
+| [[File:Golbat.png|40px]] Golbat
+|}
+
+==Items==
+
+{| class="wikitable"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears !! Requirement
+|-
+| {{Bag3|Token Collector}} [[Token Collector]] || 3.75 || 54.26% || 53.68% || 50.51% || rowspan=7|&lt;center&gt;N/A
+|-
+| {{Bag4|Pokéball}} || 3.25 || 27.57% || 27.38% || 25.88% 
+|-
+| {{Bag2|Electrode}} || 3.25 || 14.01% || 14.01% || 13.62% 
+|-
+| {{Bag2|Dread Plate}} || 2.5 || 1.84% || 2.02% || 3.34% 
+|-
+| {{Bag2|Splash Plate}} || 2.5 || 1.84% || 2.02% || 3.34% 
+|-
+| {{Bag4|Duskball}} || 2 || 0.48% || 0.68% || 2.86% 
+|-
+| {{Bag2|Max Revive}} || 0 || 0.00% || 0.21% || 0.96% 
+|}
+
+[[Category:Dungeons]]</text>
+    <contributor>
+      <username>SomeonealiveQN</username>
+      <id>5</id>
+    </contributor>
+    <comment>/* Items */Loot table</comment>
+    <model>wikitext</model>
+    <parentid>12690</parentid>
+    <sha1>38856871a3aaa935d2efc33ec7f76ef129ba67d0</sha1>
+  </revision>
+</page>

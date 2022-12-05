@@ -1,0 +1,34 @@
+<page>
+  <title>Translations:Kebia/3/en</title>
+  <ns>0</ns>
+  <id>6217</id>
+  <revision>
+    <id>19034</id>
+    <timestamp>2022-07-29T08:01:55Z</timestamp>
+    <text bytes="619" space="preserve">== Growth Tables ==
+=== Growth Stages ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 1 min 40 secs || 3 mins 20 secs || 6 mins 40 secs || 10 mins - 24 hours
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:KebiaTreeTaller.png|50px]] || &lt;center&gt; [[File:KebiaTreeBloom.png|50px]] || &lt;center&gt; [[File:KebiaTreeBerry.png|50px]]
+|-
+! Aura (mutation chance)
+| || &lt;center&gt; x1.2 || &lt;center&gt; x1.4 || &lt;center&gt; x1.6
+|-
+! Parasite (Tendency to Overtake Planted Plots)
+| colspan=3|&lt;center&gt; N/A || &lt;center&gt; 0.04%
+|}</text>
+    <contributor>
+      <username>FuzzyBot</username>
+      <id>133</id>
+    </contributor>
+    <comment>Importing a new version from external source</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>c167a69883d56006e78fd37e7fef4e9923e8f904</sha1>
+  </revision>
+</page>

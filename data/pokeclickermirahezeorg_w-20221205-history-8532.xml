@@ -1,0 +1,97 @@
+<page>
+  <title>Lansat</title>
+  <ns>0</ns>
+  <id>3405</id>
+  <revision>
+    <id>13030</id>
+    <timestamp>2022-04-09T22:14:07Z</timestamp>
+    <text bytes="3007" space="preserve">{{Infobox Berry
+|name    = #65 Lansat
+|image   = [[File:Lansat.png]]
+|caption = This is said to be a legendary Berry. Holding it supposedly brings great joy.
+|growtime  = 24h 0m 0s
+|harvest = 0.5 berries
+|replant = 0%
+|mutation = 0.001%
+|points = 15,000
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*30 spicy 
+*10 dry
+*30 sweet
+*10 bitter
+*30 sour
+}}
+
+'''Lansat''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by having at least one empty plot and at least 23 [[Roseli]] on the field. Pokémon #483 (Dialga) must be caught to unlock this berry.
+
+== Growth Tables ==
+=== Growth Stages ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 3 hours || 6 hours || 12 hours || 1 day - 5 days
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:LansatTreeTaller.png|50px]] || &lt;center&gt; [[File:LansatTreeBloom.png|50px]] || &lt;center&gt; [[File:LansatTreeBerry.png|50px]]
+|}
+
+==== Ripening Time with Modifiers  ====
+{| class="wikitable" | style="text-align: center;"
+! Modifier !! Ripe-Wither Time !! Boost Mulch Needed to Ripen
+|-
+! None
+| 1 day -&lt;br&gt; 5 days || &lt;center&gt; ---
+|-
+! Mulch or Sprayduck
+| 16 hours -&lt;br&gt; 80 hours || &lt;center&gt; 192 mulch
+|-
+! Mulch &amp; Sprayduck
+| 10 hours 40 mins -&lt;br&gt; 53 hours 20 mins || &lt;center&gt; 128 mulch
+|}
+
+== Flow Chart ==
+[[File:Lansat_Flow_Chart.png|350px]]
+&lt;br&gt;
+
+== Mutation Strategy ==
+=== Possible Planting Formations ===
+
+You can fill your farm in the following way to obtain Lansat berries. Purple squares indicate where mutations can occur.
+
+{| class="wikitable" style="text-align: center;"
+|+ Farm
+|-
+| style="width: 50px;" | [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || style="width: 50px;" | [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || style="width: 50px;" | [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || style="width: 50px;" | [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || style="width: 50px;" | [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]]
+|-
+| [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]]
+|-
+| [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]]
+|-
+| [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]]
+|-
+| [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]]
+|}
+
+==Acquisition==
+===Dungeons===
+{{Loot/head‎|Berries}}
+{{LootItem|Spear Pillar|0|1500 Clears}}
+|}
+|}
+
+&lt;br&gt;
+
+{{Berries}}
+
+[[Category:Farm]][[Category:Berries]]</text>
+    <contributor>
+      <username>Amative1</username>
+      <id>68</id>
+    </contributor>
+    <comment>/* Possible Planting Formations */ Moved berries to center to better allow for increased growth and harvest rates of target.</comment>
+    <model>wikitext</model>
+    <parentid>13029</parentid>
+    <sha1>e4daf2aa7153705f58246b84585ce2056ee69d6c</sha1>
+  </revision>
+</page>

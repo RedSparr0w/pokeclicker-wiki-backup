@@ -1,0 +1,89 @@
+<page>
+  <title>Parfum Palace</title>
+  <ns>0</ns>
+  <id>2899</id>
+  <revision>
+    <id>12157</id>
+    <timestamp>2022-07-22T18:08:39Z</timestamp>
+    <text bytes="1755" space="preserve">{{Infobox dungeon
+|name    = Parfum Palace
+|image   = [[File:Parfum Palace.png|250px]]
+|caption = A map of Parfum Palace.
+|tokens  = 445,000
+|location = West of Route 6.
+}}
+'''Parfum Palace''' is a [[Dungeons|dungeon]] in [[Kalos]]. It initially has 100 tiles arranged in a 10x10 square, including 10 chest tiles, 23 non-boss encounter tiles, and 1 boss encounter tile. Wild Encounters have 6,303,405 HP.
+
+==Encounter  Tables==
+
+===Wild Encounters===
+
+{| class="wikitable"
+|-
+! Wild Pokémon !! colspan=2|Trainers
+|-
+! Encounter !! Trainer !! Pokémon Team
+|-
+| [[File:Goldeen.png|40px]] Goldeen || rowspan=6 colspan=2| &lt;center&gt;N/A
+|-
+| [[File:Seaking.png|40px]] Seaking
+|-
+| [[File:Magikarp.png|40px]] Magikarp
+|-
+| [[File:Gyarados.png|40px]] Gyarados
+|-
+| [[File:Corphish.png|40px]] Corphish
+|-
+| [[File:Crawdaunt.png|40px]] Crawdaunt
+|}
+
+
+===Boss Encounters===
+
+{| class="wikitable"
+|-
+! Wild Pokémon !! Base Health !! Boss Trainer !! Pokémon Team !! Base Health
+|-
+| [[File:Furfrou.png|40px]] Furfrou || &lt;center&gt; 56,375,930 || colspan=3| &lt;center&gt;N/A
+|}
+
+==Items==
+
+{| class="wikitable"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+|-
+| align="center" colspan=6| '''Common'''
+|-
+| {{Bag2|Oran}} || N/A || 26.04% || 25.38% || 22.49%
+|-
+| {{Bag2|Lucky Incense}} || N/A || 26.04% || 25.38% || 22.49%
+|-
+| {{Bag2|xAttack}} || N/A || 26.04% || 25.38% || 22.49%
+|-
+| align="center" colspan=6| '''Rare'''
+|-
+| {{Bag2|Blue Shard}} || N/A || 10.42% || 11.10% || 14.03%
+|-
+| {{Bag2|Red Shard}} || N/A || 10.42% || 11.10% || 14.03%
+|-
+| align="center" colspan=6| '''Legendary'''
+|-
+| {{Bag2|Revive}} || 2 || 0.69% || 1.12% || 2.99%
+|-
+| {{Bag2|Medium Restore}} || N/A || 0.35% || 0.56% || 1.50%
+|}
+
+{{Kalos Dungeons}}
+
+[[Category:Dungeons]]</text>
+    <contributor>
+      <username>Dragonkin550</username>
+      <id>27</id>
+    </contributor>
+    <comment>/* Items */</comment>
+    <model>wikitext</model>
+    <parentid>12156</parentid>
+    <sha1>0f6d9acf0f7693004ffd339de5c4b5a1b5cf6a50</sha1>
+  </revision>
+</page>

@@ -1,0 +1,90 @@
+<page>
+  <title>Digletts Cave</title>
+  <ns>0</ns>
+  <id>318</id>
+  <revision>
+    <id>4694</id>
+    <timestamp>2022-06-02T17:40:14Z</timestamp>
+    <text bytes="2084" space="preserve">{{Infobox dungeon
+|name    = Digletts Cave
+|image   = [[File:Digletts Cave.png|thumb]]
+|caption = An overhead map of Digletts Cave.
+|tokens  = 95
+|location = Entrance 1: North of Viridian Forest, on Route 2.&lt;br&gt;Entrance 2: East of Vermilion City, on Route 11.
+}}
+'''Digletts Cave''' is a [[Dungeons|dungeon]] in [[Kanto]]. It has 25 tiles arranged in a 5x5 square, including 5 chest tiles, 13 non-boss encounter tiles, and 1 boss encounter tile. Wild Encounters have 1,208 HP.
+
+== Encounter Tables ==
+
+===Wild Encounters===
+
+{| class="wikitable"
+|-
+! Wild Pokémon !! colspan=2|Trainers
+|-
+! Encounter !! Trainer !! Pokémon Team
+|-
+| [[File:Diglett.png|40px]] Diglett || colspan=2|&lt;center&gt; N/A
+|-
+|}
+
+===Boss Encounters===
+{| class="wikitable"
+|-
+! Wild Pokémon !! Base Health !! Boss Trainer !! Pokémon Team !! Base Health
+|-
+|[[File:Dugtrio.png|40px]] Dugtrio || &lt;center&gt; 6,040 || colspan=3|&lt;center&gt; N/A
+|}
+
+==Items==
+
+===No Debuff===
+
+{| class="wikitable"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears !! Requirement 
+|-
+| {{Bag2|XClick}} || 4 || 50.00% || 49.80% || 49.04% || rowspan=2|&lt;center&gt;N/A
+|-
+| {{Bag2|Lucky Incense}} || 4 || 50.00% || 49.80% || 49.04%
+|-
+| {{Bag2|Mystery Egg}} || 1 || 0.00% || 0.20% || 0.96% || &lt;center&gt;100 Clears
+|-
+| {{Bag2|Max Revive}} || 0 || 0.0020% || 0.10% || 0.48% || rowspan=2|&lt;center&gt;N/A
+|-
+| {{Bag2|Wiki}} || 0 || 0.0020% || 0.10% || 0.48%
+|}
+
+===Debuff Drop Table===
+
+After Reaching Sinnoh, the drop chance for items in Kanto will be debuffed for any loot with weight &lt; 2.
+
+{| class="wikitable collapsible collapsed"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears !! Requirement
+|-
+| {{Bag2|XClick}} || 4 || 50.00% || 49.99% || 49.95% || rowspan=2|&lt;center&gt;N/A
+|-
+| {{Bag2|Lucky Incense}} || 4 || 50.00% || 49.99% || 49.95%
+|-
+| {{Bag2|Mystery Egg}} || 1 || 0.00% || 0.0099% || 0.049% || &lt;center&gt;100 Clears
+|-
+| {{Bag2|Max Revive}} || 0 || 0.000049% || 0.0049% || 0.024% || rowspan=2|&lt;center&gt;N/A
+|-
+| {{Bag2|Wiki}} || 0 || 0.000049% || 0.0049% || 0.024%
+|}
+
+
+{{Kanto Dungeons}}
+
+[[Category:Dungeons]]</text>
+    <contributor>
+      <username>Dragonkin550</username>
+      <id>27</id>
+    </contributor>
+    <comment>added 2nd entrance location info</comment>
+    <model>wikitext</model>
+    <parentid>4693</parentid>
+    <sha1>5b5bc507e93529e49700176d1c5ed483222f9cbe</sha1>
+  </revision>
+</page>

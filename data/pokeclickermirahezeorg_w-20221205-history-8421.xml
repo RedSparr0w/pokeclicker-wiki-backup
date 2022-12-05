@@ -1,0 +1,83 @@
+<page>
+  <title>Sprout Tower</title>
+  <ns>0</ns>
+  <id>321</id>
+  <revision>
+    <id>4754</id>
+    <timestamp>2022-04-16T17:32:51Z</timestamp>
+    <text bytes="2405" space="preserve">{{Infobox dungeon
+|name    = Sprout Tower
+|image   = [[File:Sprout Tower.png|thumb]]
+|caption = An outside view of Sprout Tower.
+|tokens  = 2,500
+|location = Directly east of Violet City.
+}}
+'''Sprout Tower''' is a [[Dungeons|dungeon]] in [[Johto]]. It initially has 36 tiles arranged in a 6x6 square, including 6 chest tiles, 15 non-boss encounter tiles, and 1 boss encounter tile. Wild Encounters have 56,735 HP.
+
+== Encounter Tables ==
+
+===Wild Encounters===
+
+{| class="wikitable"
+|-
+! Wild Pokémon !! colspan=2|Trainers
+|-
+! Encounter !! Trainer !! Pokémon Team
+|-
+| rowspan=2|[[File:Rattata.png|40px]] Rattata || [[File:Sage.png|40px]] Sage Nico || [[File:Bellsprout.png|40px]] Bellsprout, [[File:Bellsprout.png|40px]] Bellsprout, [[File:Bellsprout.png|40px]] Bellsprout
+|-
+| [[File:Sage.png|40px]] Sage Chow || [[File:Bellsprout.png|40px]] Bellsprout, [[File:Bellsprout.png|40px]] Bellsprout, [[File:Bellsprout.png|40px]] Bellsprout
+|-
+| rowspan=2|[[File:Gastly.png|40px]] Gastly || [[File:Sage.png|40px]] Sage Edmond || [[File:Bellsprout.png|40px]] Bellsprout, [[File:Bellsprout.png|40px]] Bellsprout, [[File:Bellsprout.png|40px]] Bellsprout
+|-
+| [[File:Sage.png|40px]] Sage Jin || [[File:Bellsprout.png|40px]] Bellsprout
+|-
+| rowspan=2|[[File:Hoothoot.png|40px]] Hoothoot || [[File:Sage.png|40px]] Sage Neal || [[File:Bellsprout.png|40px]] Bellsprout
+|-
+| [[File:Sage.png|40px]] Sage Troy || [[File:Bellsprout.png|40px]] Bellsprout, [[File:Hoothoot.png|40px]] Hoothoot
+|-
+|}
+
+===Boss Encounters===
+{| class="wikitable"
+|-
+! Wild Pokémon !! Base Health !! Boss Trainer !! Pokémon Team !! Base Health
+|-
+| colspan=2 rowspan=2|&lt;center&gt;N/A || rowspan=2|[[File:Sage.png|40px]] Sage Li || [[File:Bellsprout.png|40px]] Bellsprout, [[File:Bellsprout.png|40px]] Bellsprout || &lt;center&gt; 86,000
+|-
+| [[File:Hoothoot.png|40px]] Hoothoot || &lt;center&gt; 87,000
+|-
+|}
+
+==Items==
+
+{| class="wikitable"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears !! Requirement 
+|-
+| {{Bag2|XClick}} || 4 || 65.64% || 65.14% || 62.24% || rowspan=6|&lt;center&gt;N/A
+|-
+| {{Bag2|Lucky Incense}} || 3.5 || 16.95% || 16.92% || 16.52% 
+|-
+| {{Bag2|Lucky Egg}} || 3.5 || 16.95% || 16.92% || 16.52% 
+|-
+| {{Bag2|Meadow Plate}} || 2 || 0.29% || 0.42% || 1.83% 
+|-
+| {{Bag2|Small Restore}} || 1.75 || 0.15% || 0.35% || 1.67% 
+|-
+| {{Bag2|Grass Egg}} || 1 || 0.02% || 0.26% || 1.22% 
+|}
+
+{{Dungeons}}
+
+[[Category:Dungeons]]</text>
+    <contributor>
+      <username>Slk</username>
+      <id>6</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>4753</parentid>
+    <sha1>67cbd4899eef677c89cd2c838ab2bf7501f8e9ab</sha1>
+  </revision>
+</page>

@@ -1,0 +1,109 @@
+<page>
+  <title>Template:Infobox Pokéball</title>
+  <ns>10</ns>
+  <id>771</id>
+  <revision>
+    <id>7995</id>
+    <timestamp>2020-11-28T16:34:38Z</timestamp>
+    <text bytes="1245" space="preserve">{|class="infobox bordered" style="float:right; width:264px; font-size:90%; text-align:left; border:2px solid #94493a; padding:3px;" cellpadding="3"
+|- 
+!colspan="2" style="font-size:110%; text-align:center; background-color:#D6D6E9; color:#000;" | {{{name}}}
+|-
+{{#if:{{{image&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} colspan="2" style="text-align:center;" {{!}}{{{image}}}{{#if:{{{symbol|}}}|&lt;br /&gt;{{{symbol}}}}}{{#if:{{{caption|}}}|&lt;br /&gt;{{{caption}}}}}
+{{!}}-
+}}
+{{#if:{{{price&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#D6D6E9; color:#000;" {{!}}'''Price'''
+{{!}}{{{price}}}
+{{!}}-
+}}
+{{#if:{{{location&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#D6D6E9; color:#000;" {{!}}'''Catch time'''
+{{!}}{{{catchTime}}}
+{{!}}-
+}}
+{{#if:{{{location&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#D6D6E9; color:#000;" {{!}}'''Catch rate'''
+{{!}}{{{catchRate}}}
+{{!}}-
+}}
+{{#if:{{{location&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#D6D6E9; color:#000;" {{!}}'''Locations'''
+{{!}}{{{location}}}
+{{!}}-
+}}
+|}&lt;noinclude&gt;
+
+== Code ==
+&lt;pre&gt;{{Infobox character general
+|name       = 
+|image      = 
+|caption    = 
+|price      = 
+|catchRate  = 
+|catchTime  = 
+|location  = 
+}}&lt;/pre&gt;</text>
+    <contributor>
+      <username>Catie-cat</username>
+      <id>30</id>
+    </contributor>
+    <comment>added border</comment>
+    <model>wikitext</model>
+    <parentid>7994</parentid>
+    <sha1>073fa78a71e2d937d6592d2e61b4a190e79b5385</sha1>
+  </revision>
+  <revision>
+    <id>7994</id>
+    <timestamp>2020-11-26T11:26:26Z</timestamp>
+    <text bytes="1206" space="preserve">{|class="infobox bordered" style="float:right; width:264px; font-size:90%; text-align:left;" cellpadding="3"
+|- 
+!colspan="2" style="font-size:110%; text-align:center; background-color:#D6D6E9; color:#000;" | {{{name}}}
+|-
+{{#if:{{{image&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} colspan="2" style="text-align:center;" {{!}}{{{image}}}{{#if:{{{symbol|}}}|&lt;br /&gt;{{{symbol}}}}}{{#if:{{{caption|}}}|&lt;br /&gt;{{{caption}}}}}
+{{!}}-
+}}
+{{#if:{{{price&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#D6D6E9; color:#000;" {{!}}'''Price'''
+{{!}}{{{price}}}
+{{!}}-
+}}
+{{#if:{{{location&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#D6D6E9; color:#000;" {{!}}'''Catch time'''
+{{!}}{{{catchTime}}}
+{{!}}-
+}}
+{{#if:{{{location&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#D6D6E9; color:#000;" {{!}}'''Catch rate'''
+{{!}}{{{catchRate}}}
+{{!}}-
+}}
+{{#if:{{{location&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#D6D6E9; color:#000;" {{!}}'''Locations'''
+{{!}}{{{location}}}
+{{!}}-
+}}
+|}&lt;noinclude&gt;
+
+== Code ==
+&lt;pre&gt;{{Infobox character general
+|name       = 
+|image      = 
+|caption    = 
+|price      = 
+|catchRate  = 
+|catchTime  = 
+|location  = 
+}}&lt;/pre&gt;</text>
+    <contributor>
+      <username>Adrian.Lew</username>
+      <id>29</id>
+    </contributor>
+    <comment>WIP Pokeball infobox (may not be needed)</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>1994cd0d42c9d29eaaad1eb53997c852f695f8a2</sha1>
+  </revision>
+</page>

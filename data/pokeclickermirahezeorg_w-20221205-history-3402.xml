@@ -1,0 +1,41 @@
+<page>
+  <title>Translations:Template:Infobox Key Item/1/en</title>
+  <ns>0</ns>
+  <id>7206</id>
+  <revision>
+    <id>20695</id>
+    <timestamp>2022-07-29T18:05:36Z</timestamp>
+    <text bytes="922" space="preserve">{|class="infobox bordered" style="float:right; width:264px; font-size:90%; text-align:left; border:2px solid #000; padding:3px;" cellpadding="3"
+|- 
+!colspan="2" style="font-size:110%; text-align:center; background-color:#3f9ad8; color:#000;" | {{{name}}}
+|-
+{{#if:{{{image&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} colspan="2" style="text-align:center;" {{!}}{{{image}}}{{#if:{{{symbol|}}}|&lt;br /&gt;{{{symbol}}}}}{{#if:{{{caption|}}}|&lt;br /&gt;{{{caption}}}}}
+{{!}}-
+}}
+{{#if:{{{descript&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#3f9ad8; color:#000;" {{!}}'''Description'''
+{{!}}{{{descript}}}
+{{!}}-
+}}
+{{#if:{{{use&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#3f9ad8; color:#000;" {{!}}'''Use'''
+{{!}}{{{use}}}
+{{!}}-
+}}
+{{#if:{{{obtain&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#3f9ad8; color:#000;" {{!}}'''How to obtain'''
+{{!}}{{{obtain}}}
+{{!}}-
+}}
+|}&lt;noinclude&gt;</text>
+    <contributor>
+      <username>FuzzyBot</username>
+      <id>133</id>
+    </contributor>
+    <comment>Importing a new version from external source</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>e02e90d96cd8a0f121c25536f85772a06acdb217</sha1>
+  </revision>
+</page>

@@ -1,0 +1,35 @@
+<page>
+  <title>Translations:Safari Zone/5/es</title>
+  <ns>0</ns>
+  <id>7376</id>
+  <revision>
+    <id>20926</id>
+    <timestamp>2022-07-29T23:21:18Z</timestamp>
+    <text bytes="1610" space="preserve">==Acciones==
+{| class="wikitable"
+! Acción !! Efecto
+|-
+| Ball || Intento de capturar el Pokémon con una Safari Ball. Dependiendo del porcentaje de captura, esta acción puede fallar, después del cual el Pokémon puede escapar (dependiendo de la porcentaje de escape), observar cuidadosamente / estar enfadado (por ejemplo no hacer nada), o continuar comiéndose el cebo. Hasta que se acaben las Safari Balls, el jugador será forzado a salir de la Zona Safari, requiriéndole pagar la entrada de nuevo para volver a entrar.
+|-
+| Roca || Lanzar una roca al Pokémon, eliminando el estado "comiendo" y enfadándolo de 2 - 7 turnos. Cuando está enfadado, el porcentaje de captura del Pokémon y escape se doblan.
+|-
+| Run || Huir del encuentro y volver a la Zona Safari sin penalización.
+|-
+| colspan=2 | Los tres tipos de cebo dan al Pokémon el estado "comiendo", y elimina el estado "enfadado". Mientras come, el porcentaje de captura del Pokémon es reducido a la mitad, y su porcentaje de escape es reducido un cuarto. Los Pokémon encontrados empiezan con un porcentaje de escape del 30%.
+|-
+| Cebo (génerico) || Da al Pokémon el estado "comiendo" de 2 - 7 turnos. No tiene otros efectos.
+|-
+| Cebo ([[Berry|Baya]] [[Razz|Frambu]]) || Da al Pokémon el estado "comiendo" de 2 - 8 turnos. Divide el porcentaje de escape un x1,5 por el resto del encuentro a menos que se use otro tipo de cebo.
+|-
+| Cebo ([[Berry|Baya]] [[Nanab|Latano]]) || Da al Pokémon el estado "comiendo" de 2 - 8 turnos. Incrementa el porcentaje de captura un x1,5 el resto del encuentro a menos que se use otro tipo de cebo.
+|}</text>
+    <contributor>
+      <username>SrVariable</username>
+      <id>142</id>
+    </contributor>
+    <comment>Created page with "==Acciones== {| class="wikitable" ! Acción !! Efecto |- | Ball || Intento de capturar el Pokémon con una Safari Ball. Dependiendo del porcentaje de captura, esta acción puede fallar, después del cual el Pokémon puede escapar (dependiendo de la porcentaje de escape), observar cuidadosamente / estar enfadado (por ejemplo no hacer nada), o continuar comiéndose el cebo. Hasta que se acaben las Safari Balls, el jugador será forzado a salir de la Zona Safari, requirién..."</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>d47ef78b0abe4f061e2642d82dc3af9dd5a0f44a</sha1>
+  </revision>
+</page>

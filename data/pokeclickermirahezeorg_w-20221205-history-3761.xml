@@ -1,0 +1,107 @@
+<page>
+  <title>Salac/en</title>
+  <ns>0</ns>
+  <id>6743</id>
+  <revision>
+    <id>19560</id>
+    <timestamp>2022-07-29T08:05:26Z</timestamp>
+    <text bytes="3056" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #62 Salac
+|image   = [[File:Salac.png]]
+|caption = This Berry is surrounded by mystery. It is rumored to be imbued with the power of the sky.
+|growtime  = 2d
+|harvest = 0.5 berries
+|replant = 0%
+|mutation = 0.001%
+|points = 10,000
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 spicy 
+*0 dry
+*30 sweet
+*10 bitter
+*30 sour
+}}
+
+'''Salac''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by having at least one empty plot and at least 23 ripe [[Coba]] on the field. Pokémon #384 (Rayquaza) must be caught to unlock this berry.
+
+== Growth Tables ==
+=== Growth Stages ===
+{| class="wikitable" style="text-align: center;" | style = "image-rendering: pixelated"
+! !! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 6 hours || 12 hours || 1 day || 2 days - 4 days
+|- 
+! Animation
+| [[File:AllTreeSprout.png|50px]] || [[File:SalacTreeTaller.png|50px]] || [[File:SalacTreeBloom.png|50px]] || [[File:SalacTreeBerry.png|50px]]
+|}
+
+=== Ripening Time with Modifiers  ===
+{| class="wikitable" | style="text-align: center;"
+! Modifier !! Ripe-Wither Time !! Boost Mulch Needed to Ripen
+|-
+! None
+| 2 days -&lt;br&gt; 4 days || ---
+|-
+! Mulch or Sprayduck
+| 1 day 8 hours -&lt;br&gt; 2 days 16 hours || 384 mulch
+|-
+! Mulch &amp; Sprayduck
+| 21 hours 20 mins -&lt;br&gt; 42 hours 40 mins || 256 mulch
+|}
+
+== Flow Chart ==
+[[File:Salac_Flow_Chart.png|250px]]
+&lt;br&gt;
+
+== Mutation Strategy ==
+=== Possible Planting Formations ===
+
+You can fill your farm in the following way to obtain Salac berries. Purple squares indicate where mutations can occur.
+
+{| class="wikitable" style="text-align: center;"
+|+ Farm
+|-
+| style="width: 50px;" | [[File:Coba.png|30px]]&lt;br&gt;[[Coba]] || style="width: 50px;" | [[File:Coba.png|30px]]&lt;br&gt;[[Coba]] || style="width: 50px;" | [[File:Coba.png|30px]]&lt;br&gt;[[Coba]] || style="width: 50px;" | [[File:Coba.png|30px]]&lt;br&gt;[[Coba]] || style="width: 50px;" | [[File:Coba.png|30px]]&lt;br&gt;[[Coba]]
+|-
+| [[File:Coba.png|30px]]&lt;br&gt;[[Coba]] || [[File:Coba.png|30px]]&lt;br&gt;[[Coba]] || [[File:Coba.png|30px]]&lt;br&gt;[[Coba]] || [[File:Coba.png|30px]]&lt;br&gt;[[Coba]] || [[File:Coba.png|30px]]&lt;br&gt;[[Coba]]
+|-
+| [[File:Coba.png|30px]]&lt;br&gt;[[Coba]] || [[File:Coba.png|30px]]&lt;br&gt;[[Coba]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Coba.png|30px]]&lt;br&gt;[[Coba]]
+|-
+| [[File:Coba.png|30px]]&lt;br&gt;[[Coba]] || [[File:Coba.png|30px]]&lt;br&gt;[[Coba]] || [[File:Coba.png|30px]]&lt;br&gt;[[Coba]] || [[File:Coba.png|30px]]&lt;br&gt;[[Coba]] || [[File:Coba.png|30px]]&lt;br&gt;[[Coba]]
+|-
+| [[File:Coba.png|30px]]&lt;br&gt;[[Coba]] || [[File:Coba.png|30px]]&lt;br&gt;[[Coba]] || [[File:Coba.png|30px]]&lt;br&gt;[[Coba]] || [[File:Coba.png|30px]]&lt;br&gt;[[Coba]] || [[File:Coba.png|30px]]&lt;br&gt;[[Coba]]
+|}
+
+==Uses==
+===Mutations===
+
+Salac berries can be used to mutate the following berries.
+
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Maranga.png|20px]] [[Maranga]] || [[File:Petaya.png|20px]] [[Petaya]]
+|-
+|}
+
+&lt;br&gt;
+
+
+&lt;br&gt;
+
+{{Berries}}
+
+[[Category:Farm]][[Category:Berries]]</text>
+    <contributor>
+      <username>FuzzyBot</username>
+      <id>133</id>
+    </contributor>
+    <comment>Updating to match new version of source page</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>e7a6ac6d63c7b135c8cb95fe8286861c1744891b</sha1>
+  </revision>
+</page>

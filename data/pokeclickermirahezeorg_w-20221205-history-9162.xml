@@ -1,0 +1,78 @@
+<page>
+  <title>Viridian Forest</title>
+  <ns>0</ns>
+  <id>316</id>
+  <revision>
+    <id>4619</id>
+    <timestamp>2022-03-15T11:04:39Z</timestamp>
+    <text bytes="2287" space="preserve">{{Infobox dungeon
+|name    = Viridian Forest
+|image   = [[File:Viridian Forest.png]]
+|caption = A map of Viridian Forest.
+|tokens  = 50
+|location = North of Viridian City, on Route 2.
+}}
+'''Viridian Forest''' is a [[Dungeons|dungeon]] in [[Kanto]]. It has 25 tiles arranged in a 5x5 square, including 5 chest tiles, 13 non-boss encounter tiles, and 1 boss encounter tile. Wild Encounters have 50 HP.
+
+== Encounter Tables ==
+
+===Wild Encounters===
+
+{| class="wikitable"
+|-
+! Wild Pokémon !! colspan=2|Trainers
+|-
+! Encounter !! Trainer !! Pokémon Team
+|-
+| [[File:Caterpie.png|40px]] Caterpie || [[File:Bug_Catcher.png|40px]] Bug Catcher Rick || [[File:Caterpie.png|40px]] Caterpie, [[File:Weedle.png|40px]] Weedle
+|-
+| [[File:Metapod.png|40px]] Metapod || [[File:Bug_Catcher.png|40px]] Bug Catcher Doug || [[File:Weedle.png|40px]] Weedle, [[File:Kakuna.png|40px]] Kakuna, [[File:Weedle.png|40px]] Weedle
+|-
+| [[File:Weedle.png|40px]] Weedle || rowspan=2|[[File:Bug_Catcher.png|40px]] Bug Catcher Anthony || rowspan=2|[[File:Caterpie.png|40px]] Caterpie, [[File:Caterpie.png|40px]] Caterpie
+|-
+| [[File:Kakuna.png|40px]] Kakuna
+|-
+| [[File:Pidgey.png|40px]] Pidgey || rowspan=2|[[File:Bug_Catcher.png|40px]] Bug Catcher Charlie || rowspan=2|[[File:Metapod.png|40px]] Metapod, [[File:Caterpie.png|40px]] Caterpie, [[File:Metapod.png|40px]] Metapod
+|-
+| [[File:Pidgeotto.png|40px]] Pidgeotto
+|-
+|}
+
+===Boss Encounters===
+{| class="wikitable"
+|-
+! Wild Pokémon !! Base Health !! Boss Trainer !! Pokémon Team !! Base Health
+|-
+| [[File:Pikachu.png|40px]] Pikachu || &lt;center&gt; 510 ||[[File:Bug_Catcher.png|40px]] Bug Catcher Sammy || [[File:Weedle.png|40px]] Weedle || &lt;center&gt; 510
+|}
+
+==Items==
+
+{| class="wikitable"
+|-
+! Chest Item !! 0 Clears !! 100 Clears !! 500 Clears !! Requirement 
+|-
+| {{Bag3|X Attack}} [[X Attack|xAttack]] || 75.35% || 74.65% || 71.56% || No Requirement
+|-
+| {{Bag2|Pecha}} || 19.46% || 19.38% || 18.99% || No Requirement
+|-
+| {{Bag4|Pokéball}} || 5.02% || 5.11% || 5.42% || No Requirement
+|-
+| {{Bag2|Small Restore}} || 0.17% || 0.40% || 1.92% || No Requirement
+|-
+| {{Bag2|Grass Egg}} || 0.00% || 0.29% || 1.40% || Clear Viridian Forest 100 Times
+|-
+| {{Bag2|Leaf Stone}} || 0.00% || 0.15% || 0.70% || Clear Viridian Forest 100 Times
+|}
+
+[[Category:Dungeons]]</text>
+    <contributor>
+      <username>SomeonealiveQN</username>
+      <id>5</id>
+    </contributor>
+    <comment>/* Items */The loot for vf</comment>
+    <model>wikitext</model>
+    <parentid>4618</parentid>
+    <sha1>b93e184e5a1838486046df6179a61e9a833b30cf</sha1>
+  </revision>
+</page>

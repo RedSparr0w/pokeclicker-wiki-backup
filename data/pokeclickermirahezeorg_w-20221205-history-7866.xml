@@ -1,0 +1,124 @@
+<page>
+  <title>Eterna Forest</title>
+  <ns>0</ns>
+  <id>425</id>
+  <revision>
+    <id>5615</id>
+    <timestamp>2022-04-30T19:32:05Z</timestamp>
+    <text bytes="3543" space="preserve">{{Infobox dungeon
+|name    = Eterna Forest
+|image   = [[File:Eterna Forest.png|300px]]
+|caption = A map of Eterna Forest.
+|tokens  = 48,000
+|location = On the North part of Route 205.
+}}
+'''Eterna Forest''' is a [[Dungeons|dungeon]] in [[Sinnoh]]. It initially has 64 tiles arranged in an 8x8 square, including 8 chest tiles, 19 non-boss encounter tiles, and 1 boss encounter tile. Wild Encounters have 812,000 HP.
+
+== Encounter Tables ==
+
+===Wild Encounters===
+
+{| class="wikitable"
+|-
+! Wild Pokémon !! colspan=2|Trainers
+|-
+! Encounter !! Trainer !! Pokémon Team
+|-
+| [[File:Gastly.png|40px]] Gastly || rowspan=2| [[File:Bookworms.png|40px]] Bookworms Jack &amp; Briana || rowspan=2|[[File:Wurmple.png|40px]] Wurmple, [[File:Silcoon.png|40px]] Silcoon, [[File:Beautifly.png|40px]] Beautifly, [[File:Pachirisu.png|40px]] Pachirisu
+|-
+| [[File:Hoothoot.png|40px]] Hoothoot
+|-
+| [[File:Wurmple.png|40px]] Wurmple || rowspan=2| [[File:Melded_Minds_(both).png|40px]] Melded Minds Linsey &amp; Elijah || rowspan=2|[[File:Abra.png|40px]] Abra, [[File:Abra.png|40px]] Abra
+|-
+| [[File:Silcoon.png|40px]] Silcoon
+|-
+| [[File:Cascoon.png|40px]] Cascoon || rowspan=2| [[File:Bug_Buds.png|40px]] Bug Buds Philip &amp; Donald || rowspan=2|[[File:Wurmple.png|40px]] Wurmple, [[File:Cascoon.png|40px]] Cascoon, [[File:Dustox.png|40px]] Dustox, [[File:Burmy.png|40px]] Burmy (plant), [[File:Kricketune.png|40px]] Kricketune
+|-
+| [[File:Bidoof.png|40px]] Bidoof
+|-
+| [[File:Kricketot.png|40px]] Kricketot || rowspan=3| [[File:Melded_Minds_(both).png|40px]] Melded Minds Kody &amp; Rachael || rowspan=3|[[File:Meditite.png|40px]] Meditite, [[File:Psyduck.png|40px]] Psyduck
+|-
+| [[File:Budew.png|40px]] Budew
+|-
+| [[File:Buneary.png|40px]] Buneary
+|}
+
+===Boss Encounters===
+
+{| class="wikitable"
+|-
+! Wild Pokémon !! Base Health !! Boss Trainer !! Pokémon Team !! Base Health
+|-
+|[[File:Beautifly.png|40px]] Beautifly ||  rowspan=2 | &lt;center&gt;3,950,000 || colspan=3 rowspan=2 | &lt;center&gt;N/A
+|-
+|[[File:Dustox.png|40px]] Dustox
+|}
+
+==Items==
+
+===No Debuff===
+
+{| class="wikitable"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears !! Requirement 
+|-
+| {{Bag2|Cheri}} || 4 || 40.62% || 40.36% || 39.21% || rowspan=9|&lt;center&gt;N/A
+|-
+| {{Bag2|Oran}} || 4 || 40.62% || 40.36% || 39.21% 
+|-
+| {{Bag2|Greatball}} || 3.5 || 10.49% || 10.48% || 10.41% 
+|-
+| {{Bag2|Razz}} || 3 || 2.71% || 2.77% || 2.97% 
+|-
+| {{Bag2|Bluk}} || 3 || 2.71% || 2.77% || 2.97% 
+|-
+| {{Bag2|Insect Plate}} || 2.75 || 1.38% || 1.44% || 1.70% 
+|-
+| {{Bag2|Meadow Plate}} || 2.75  || 1.38% || 1.44% || 1.70% 
+|-
+| {{Bag2|Small Restore}} || 1.75 || 0.09% || 0.22% || 1.05% 
+|-
+| {{Bag2|Soothe Bell}} || 0 || 0.01% || 0.16% || 0.77% 
+|-
+|}
+
+===Debuff Drop Table===
+
+After Reaching Alola, the drop chance for items in Sinnoh will be debuffed for any loot with weight &lt; 2.
+
+{| class="wikitable collapsible collapsed"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears !! Requirement
+|-
+| {{Bag2|Cheri}} || 4 || 40.66% || 40.51% || 39.91% || rowspan=9|&lt;center&gt;N/A
+|-
+| {{Bag2|Oran}} || 4 || 40.66% || 40.51% || 39.91%
+|-
+| {{Bag2|Greatball}} || 3.5 || 10.50% || 10.52% || 10.59%
+|-
+| {{Bag2|Razz}} || 3 || 2.71% || 2.78% || 3.02%
+|-
+| {{Bag2|Bluk}} || 3 || 2.71% || 2.78% || 3.02%
+|-
+| {{Bag2|Insect Plate}} || 2.75 || 1.38% || 1.45% || 1.73%
+|-
+| {{Bag2|Meadow Plate}} || 2.75 || 1.38% || 1.45% || 1.73%
+|-
+| {{Bag2|Small Restore}} || 1.75 || 0.00014% || 0.014% || 0.068%
+|-
+| {{Bag2|Soothe Bell}} || 0 || 0.00004% || 0.004% || 0.02%
+|}
+
+{{Sinnoh Dungeons}}
+
+[[Category:Dungeons]]</text>
+    <contributor>
+      <username>Razrushil</username>
+      <id>31</id>
+    </contributor>
+    <comment>/* Items */ Adding debuffed drop table</comment>
+    <model>wikitext</model>
+    <parentid>5614</parentid>
+    <sha1>af91a2cd200d9d83047ab2f1a2fd729e02ccca71</sha1>
+  </revision>
+</page>

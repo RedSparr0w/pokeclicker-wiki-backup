@@ -1,0 +1,108 @@
+<page>
+  <title>Rindo</title>
+  <ns>0</ns>
+  <id>683</id>
+  <revision>
+    <id>7519</id>
+    <timestamp>2021-01-06T02:41:56Z</timestamp>
+    <text bytes="4314" space="preserve">{{Infobox Berry
+|name    = #39 Rindo
+|image   = [[File:Rindo.png]]
+|caption = This Berry has a disagreeable "green" flavor and scent typical of vegetables. It is rich in health-promoting fiber. It has a tendency to expand into nearby plots.
+|growtime  = 8h 0m 0s
+|harvest = 24 berries
+|replant = 5%
+|points = 1,400
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*10 spicy 
+*0 dry
+*0 sweet
+*15 bitter
+*0 sour
+}}
+
+'''Rindo''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by surrounding an empty plot with at least 10, but no more than 15 points of spicy, at least 15, but no more than 20 points of bitter and 0 points of all other flavours. The [[Cheri]] and [[Aguav]] must be unlocked to unlock this berry.
+
+== Growth Tables ==
+=== Growth Stages ===
+{| class="wikitable"
+|+ Growth Stages
+!!! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 1 hour || 2 hours || 4 hours 30 mins || 8 hours - 16 hours
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:RindoTreeTaller.png|50px]] || &lt;center&gt;[[File:RindoTreeBloom.png|50px]] || &lt;center&gt; [[File:RindoTreeBerry.png|50px]]
+|}
+
+=== Ripening Time with Modifiers  ===
+{| class="wikitable" | style="text-align: center;"
+! Modifier !! Ripe-Wither Time !! Boost Mulch Needed to Ripen
+|-
+! None
+| 8 hours -&lt;br&gt; 16 hours || ---
+|-
+! Mulch or Sprayduck
+| 5 hours 20 mins -&lt;br&gt; 10 hours 40 mins || 64 mulch
+|-
+! Mulch &amp; Sprayduck
+| 3 hours 33 mins 20 secs -&lt;br&gt; 7 hours 6 mins 40 secs || 43 mulch
+|}
+
+== Mutation Strategy ==
+=== Possible Planting Formations ===
+
+You can fill your farm in the following ways to obtain Rindo berries. Purple squares indicate where mutations can occur.
+
+{| class="wikitable" style="text-align: center;"
+|+ Farm
+|- style="height: 50px;" 
+| style="width: 40px;" | [[File:Figy.png|30px]]&lt;br&gt;[[Figy]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Figy.png|30px]]&lt;br&gt;[[Figy]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Aguav.png|30px]] [[Aguav]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Aguav.png|30px]] [[Aguav]] 
+|- style="height: 50px; background-color:#9C7D98;"
+| || || || || 
+|-
+| [[File:Figy.png|30px]]&lt;br&gt;[[Figy]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Figy.png|30px]]&lt;br&gt;[[Figy]] || style="background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Aguav.png|30px]] [[Aguav]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Aguav.png|30px]] [[Aguav]] 
+|}
+
+{| class="wikitable" style="text-align: center;"
+|+ Farm
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Aguav.png|30px]] [[Aguav]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Aguav.png|30px]] [[Aguav]] 
+|- style="height: 50px; background-color:#9C7D98;"
+| || || || || 
+|-
+| [[File:Cheri.png|30px]] [[Cheri]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Cheri.png|30px]] [[Cheri]] || style="background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Aguav.png|30px]] [[Aguav]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Aguav.png|30px]] [[Aguav]] 
+|}
+
+=== Timing Table ===
+{| class="wikitable"| style="text-align: center;"
+|+ ''All planting times use the time-to-ripe remaining of the first planted berry for subsequent planting times''
+! Berry !! Planting Time with &lt;br&gt; No Modifier !! Planting Time with &lt;br&gt; Mulch or Sprayduck || Planting Time with &lt;br&gt;  Mulch &amp; Sprayduck
+|-
+| [[Aguav]] || - || - || -
+|-
+| [[Figy]] &lt;br&gt; '''OR''' &lt;br&gt; [[Cheri]] || - &lt;br&gt; '''OR''' &lt;br&gt; 30 secs until ripe || - &lt;br&gt; '''OR''' &lt;br&gt; 20 secs until ripe || - &lt;br&gt; '''OR''' &lt;br&gt; Not Practical
+|}
+
+Note: Figy and Aguav have equivalent growth times.
+
+{{Berries}}</text>
+    <contributor>
+      <username>Catie-cat</username>
+      <id>30</id>
+    </contributor>
+    <comment>minor visual changes, added mutation plots to formation table</comment>
+    <model>wikitext</model>
+    <parentid>7518</parentid>
+    <sha1>b78a5afa3a2683ede3866c613a944c13937faaad</sha1>
+  </revision>
+</page>

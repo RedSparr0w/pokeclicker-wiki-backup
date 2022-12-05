@@ -1,0 +1,31 @@
+<page>
+  <title>Translations:Yache/3/en</title>
+  <ns>0</ns>
+  <id>6192</id>
+  <revision>
+    <id>19009</id>
+    <timestamp>2022-07-29T08:01:47Z</timestamp>
+    <text bytes="499" space="preserve">== Growth Tables ==
+=== Growth Stages ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 1 hour || 4 hours || 8 hours || 12 hours - 1 day
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:YacheTreeTaller.png|50px]] || &lt;center&gt; [[File:YacheTreeBloom.png|50px]] || &lt;center&gt; [[File:YacheTreeBerry.png|50px]]
+|-
+! Aura (growth speed)
+| || &lt;center&gt; x0.9 || &lt;center&gt; x0.8 || &lt;center&gt; x0.7
+|}</text>
+    <contributor>
+      <username>FuzzyBot</username>
+      <id>133</id>
+    </contributor>
+    <comment>Importing a new version from external source</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>80f3da5b48da7ca52a4ee7e9ab0a0b1ff28171a9</sha1>
+  </revision>
+</page>

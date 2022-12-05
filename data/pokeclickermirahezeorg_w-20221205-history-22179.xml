@@ -1,0 +1,31 @@
+<page>
+  <title>Template:Template link with alternate text</title>
+  <ns>10</ns>
+  <id>977</id>
+  <revision>
+    <id>9400</id>
+    <timestamp>2020-04-13T14:54:11Z</timestamp>
+    <text bytes="644" space="preserve">{{Tlg|subst={{{subst|}}}|nowrap={{{nowrap|}}}|{{{1|}}}&lt;!--
+--&gt;|alttext{{#ifeq:{{{2}}}|{{{2|x}}}||x}}={{{2}}}&lt;!--
+--&gt;|3{{#ifeq:{{{3}}}|{{{3|x}}}||x}}={{{3}}}&lt;!--
+--&gt;|4{{#ifeq:{{{4}}}|{{{4|x}}}||x}}={{{4}}}&lt;!--
+--&gt;|5{{#ifeq:{{{5}}}|{{{5|x}}}||x}}={{{5}}}&lt;!--
+--&gt;|6{{#ifeq:{{{6}}}|{{{6|x}}}||x}}={{{6}}}&lt;!--
+--&gt;|7{{#ifeq:{{{7}}}|{{{7|x}}}||x}}={{{7}}}&lt;!--
+--&gt;|8{{#ifeq:{{{8}}}|{{{8|x}}}||x}}={{{8}}}&lt;!--
+--&gt;|9{{#ifeq:{{{9}}}|{{{9|x}}}||x}}={{{9}}}&lt;!--
+--&gt;|10{{#ifeq:{{{10}}}|{{{10|x}}}||x}}={{{10}}}&lt;!--
+--&gt;|11{{#ifeq:{{{11}}}|{{{11|x}}}||x}}={{{11}}}&lt;!--
+--&gt;|12{{#ifeq:{{{12}}}|{{{12|x}}}||x}}={{{12}}}}}&lt;noinclude&gt;
+{{Documentation}}
+&lt;/noinclude&gt;</text>
+    <contributor>
+      <username>Cleanup Template&gt;Primefac</username>
+      <id>0</id>
+    </contributor>
+    <comment>Primefac moved page [[Template:Tla]] to [[Template:Template link with alternate text]]: full name for clarity</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>7caf0bb11d2f63149bfc961432b7cf4a05b02cad</sha1>
+  </revision>
+</page>

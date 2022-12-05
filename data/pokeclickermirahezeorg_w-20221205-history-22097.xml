@@ -1,0 +1,48 @@
+<page>
+  <title>Template:Documentation subpage</title>
+  <ns>10</ns>
+  <id>959</id>
+  <revision>
+    <id>9365</id>
+    <timestamp>2020-12-14T04:05:50Z</timestamp>
+    <text bytes="1667" space="preserve">&lt;includeonly&gt;&lt;!--
+ --&gt;{{#ifeq:{{lc:{{SUBPAGENAME}}}} |{{{override|doc}}}
+     | &lt;!--(this template has been transcluded on a /doc or /{{{override}}} page)--&gt;
+&lt;/includeonly&gt;&lt;!--
+
+      --&gt;{{#ifeq:{{{doc-notice|show}}} |show
+          | {{Mbox
+             | type = notice
+             | style = margin-bottom:1.0em;
+             | image = [[File:Edit-copy green.svg|40px|alt=|link=]]
+             | text =
+'''This is a [[Wikipedia:Template documentation|documentation]] [[Wikipedia:Subpages|subpage]] for {{{1|[[:{{SUBJECTSPACE}}:{{BASEPAGENAME}}]]}}}'''.&lt;br /&gt;It contains usage information, [[Wikipedia:Categorization|categories]] and other content that is not part of the original {{#if:{{{text2|}}} |{{{text2}}} |{{#if:{{{text1|}}} |{{{text1}}} |{{#ifeq:{{SUBJECTSPACE}} |{{ns:User}} |{{lc:{{SUBJECTSPACE}}}} template page |{{#if:{{SUBJECTSPACE}} |{{lc:{{SUBJECTSPACE}}}} page|article}}}}}}}}. 
+            }}
+         }}&lt;!--
+
+      --&gt;{{DEFAULTSORT:{{{defaultsort|{{PAGENAME}}}}}}}&lt;!--
+
+      --&gt;{{#if:{{{inhibit|}}} |&lt;!--(don't categorize)--&gt;
+          |   &lt;includeonly&gt;&lt;!--
+               --&gt;{{#ifexist:{{NAMESPACE}}:{{BASEPAGENAME}}
+                   | [[Category:{{#switch:{{SUBJECTSPACE}} |Template=Template |Module=Module |User=User |#default=Wikipedia}} documentation pages]]
+                   | [[Category:Documentation subpages without corresponding pages]]
+                  }}&lt;!--
+           --&gt;&lt;/includeonly&gt;
+         }}&lt;!--
+
+(completing initial #ifeq: at start of template:)
+--&gt;&lt;includeonly&gt;
+     | &lt;!--(this template has not been transcluded on a /doc or /{{{override}}} page)--&gt;
+    }}&lt;!--
+--&gt;&lt;/includeonly&gt;&lt;noinclude&gt;{{Documentation}}&lt;/noinclude&gt;</text>
+    <contributor>
+      <username>Liczale</username>
+      <id>20</id>
+    </contributor>
+    <comment>1 revision imported: Here you go Cate &lt;3</comment>
+    <model>wikitext</model>
+    <parentid>9364</parentid>
+    <sha1>a1dda2f5e5ddf9097546af5acd7a7bad14fdac9d</sha1>
+  </revision>
+</page>

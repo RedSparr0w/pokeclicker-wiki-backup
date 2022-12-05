@@ -1,0 +1,69 @@
+<page>
+  <title>Roaming Pokémon</title>
+  <ns>0</ns>
+  <id>123</id>
+  <revision>
+    <id>1374</id>
+    <timestamp>2021-04-27T22:15:04Z</timestamp>
+    <text bytes="2335" space="preserve">'''Roaming Pokémon''' are rare Pokémon that can be found randomly while on routes.
+Each [[Regions|Region]] has a set of Roaming Pokémon that can be caught.
+So far, only Mew and Manaphy have no requirements to appear.
+
+==Odds==
+
+''For a breakdown of roaming chances on every route, visit the [[Route Statistics]] page.''
+
+The chance to encounter a roaming Pokémon is 1/8192 for the first route of a region, and increases linearly up to 1/4096 for the last route of a region."First" and "last" here refer to the health of the Pokémon on these routes, not necessarily the order they are unlocked. This means that a route you can 1-shot will always be at least as efficient as a route you can't, so it is recommended to idle on the highest route number you can 1-shot if you need them. &lt;br&gt;&lt;br&gt;
+An [[NPCs|NPC]] in each region can inform the player of a specific route in that region where the odds of encountering Roaming Pokémon are tripled. The boosted route changes every 8 hours. 
+
+==Regions==
+{| class="wikitable collapsible"
+|-
+! Region !! Roaming Pokémon !! Unlock Condition 
+|-
+| [[Kanto]] || [[File:Mew.png|40px]] Mew || No current requirement
+|-
+| rowspan=3|[[Johto]] || [[File:Entei.png|40px]] Entei || rowspan=3|Clear [[Dungeons#Johto|Burned Tower]]
+|-
+|[[File:Raikou.png|40px]] Raikou 
+|-
+| [[File:Suicune.png|40px]] Suicune 
+|-
+| rowspan=3|[[Hoenn]] || [[File:Latios.png|40px]] Latios || rowspan=3|Become the [[Hoenn|Hoenn Champion]]
+|-
+| [[File:Latias.png|40px]] Latias 
+|-
+| [[File:Jirachi.png|40px]] Jirachi
+|-
+| rowspan=3|[[Sinnoh]] || [[File:Manaphy.png|40px]] Manaphy || No current requirement
+|-
+| [[File:Cresselia.png|40px]] Cresselia || Clear [[Dungeons#Sinnoh|Fullmoon Island]]
+|-
+| [[File:Mesprit.png|40px]] Mesprit || Clear [[Dungeons#Sinnoh|Lake Verity]]
+|-
+| rowspan=3|[[Unova]] || [[File:Tornadus.png|30px]]Tornadus || rowspan=2|Defeat the [[Gyms#Unova|Opelucid City Gym]]
+|-
+| [[File:Thundurus.png|30px]]Thundurus
+|-
+| [[File:Meloetta (aria).png|30px]]Meloetta || Become the [[Unova|Unova Champion]]
+|-
+| rowspan=4|[[Kalos]] || [[File:Zapdos.png|30px]] Zapdos || rowspan=3|Clear the [[Dungeons#Kalos|Sea Spirit's Den]]
+|-
+| [[File:Moltres.png|30px]]Moltres
+|-
+| [[File:Articuno.png|30px]]Articuno
+|-
+| [[File:Hoopa.png|30px]]Hoopa || Become the [[Kalos|Kalos Champion]]
+|}
+
+[[Category:Unique Pokémon]]</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>1373</parentid>
+    <sha1>3d9d414e131e5056e2541d5087d1d01235e5d126</sha1>
+  </revision>
+</page>

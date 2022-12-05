@@ -1,0 +1,251 @@
+<page>
+  <title>Type Effectiveness</title>
+  <ns>0</ns>
+  <id>179</id>
+  <revision>
+    <id>2895</id>
+    <timestamp>2021-01-05T01:56:17Z</timestamp>
+    <text bytes="2814" space="preserve">Below is a table showing the effectiveness of each Pokemon type. It can be used to prioritize [[Shards|shard]] upgrades.
+
+=Type effectiveness table=
+
+{| class="wikitable"
+! Attacker ↴ Defender → !! Normal !! Fire !! Water !! Electric !! Grass !! Ice !! Fighting !! Poison !! Ground !! Flying !! Psychic !! Bug !! Rock !! Ghost !! Dragon !! Dark !! Steel !! Fairy
+|-
+| '''Normal''' ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || ½ || 0 ||  ||  || ½ || 
+|-
+| '''Fire''' ||  || ½ || ½ ||  || 2 || 2 ||  ||  ||  ||  ||  || 2 || ½ ||  || ½ ||  || 2 || 
+|-
+| '''Water''' ||  || 2 || ½ ||  || ½ ||  ||  ||  || 2 ||  ||  ||  || 2 ||  || ½ ||  ||  || 
+|-
+| '''Electric''' ||  ||  || 2 || ½ || ½ ||  ||  ||  || 0 || 2 ||  ||  ||  ||  || ½ ||  ||  || 
+|-
+| '''Grass''' ||  || ½ || 2 ||  || ½ ||  ||  || ½ || 2 || ½ ||  || ½ || 2 ||  || ½ ||  || ½ || 
+|-
+| '''Ice''' ||  || ½ || ½ ||  || 2 || ½ ||  ||  || 2 || 2 ||  ||  ||  ||  || 2 ||  || ½ || 
+|-
+| '''Fighting''' || 2 ||  ||  ||  ||  || 2 ||  || ½ ||  || ½ || ½ || ½ || 2 || 0 ||  || 2 || 2 || ½
+|-
+| '''Poison''' ||  ||  ||  ||  || 2 ||  ||  || ½ || ½ ||  ||  ||  || ½ || ½ ||  ||  || 0 || 2
+|-
+| '''Ground''' ||  || 2 ||  || 2 || ½ ||  ||  || 2 ||  || 0 ||  || ½ || 2 ||  ||  ||  || 2 || 
+|-
+| '''Flying''' ||  ||  ||  || ½ || 2 ||  || 2 ||  ||  ||  ||  || 2 || ½ ||  ||  ||  || ½ || 
+|-
+| '''Psychic''' ||  ||  ||  ||  ||  ||  || 2 || 2 ||  ||  || ½ ||  ||  ||  ||  || 0 || ½ || 
+|-
+| '''Bug''' ||  || ½ ||  ||  || 2 ||  || ½ || ½ ||  || ½ || 2 ||  ||  || ½ ||  || 2 || ½ || ½
+|-
+| '''Rock''' ||  || 2 ||  ||  ||  || 2 || ½ ||  || ½ || 2 ||  || 2 ||  ||  ||  ||  || ½ || 
+|-
+| '''Ghost''' || 0 ||  ||  ||  ||  ||  ||  ||  ||  ||  || 2 ||  ||  || 2 ||  || ½ ||  || 
+|-
+| '''Dragon''' ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 2 ||  || ½ || 0
+|-
+| '''Dark''' ||  ||  ||  ||  ||  ||  || ½ ||  ||  ||  || 2 ||  ||  || 2 ||  || ½ ||  || ½
+|-
+| '''Steel''' ||  || ½ || ½ || ½ ||  || 2 ||  ||  ||  ||  ||  ||  || 2 ||  ||  ||  || ½ || 2
+|-
+| '''Fairy''' ||  || ½ ||  ||  ||  ||  || 2 || ½ ||  ||  ||  ||  ||  ||  || 2 || 2 || ½ || 
+|}
+
+=Practicality=
+
+''See [[Shards]] for a list of optimal farming routes for each type of shard.''
+
+A breakdown of how much damage each type contributes to total damage, absent any shard boosts, can be seen by using the Damage Calculator screen in the Start Menu. Types that do the most damage generally should be upgraded with shards first.
+
+=Trivia=
+
+As of PokeClicker version 0.5.8 the following categories were removed from the shard case because they have no effect (they do not increase damage) when invested into.
+
+&lt;b&gt;Very Effective (last row)&lt;/b&gt;
+
+*Normal
+
+&lt;b&gt;Immune (first row)&lt;/b&gt;
+
+*Fire
+*Water
+*Grass
+*Ice
+*Flying
+*Bug
+*Rock
+*Dark
+*Steel
+*Fairy</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment>/* Practicality */</comment>
+    <model>wikitext</model>
+    <parentid>2894</parentid>
+    <sha1>d56c18471195c8220a8f56cd75a02e829dbfa460</sha1>
+  </revision>
+  <revision>
+    <id>2894</id>
+    <timestamp>2021-01-05T01:54:49Z</timestamp>
+    <text bytes="2810" space="preserve">Below is a table showing the effectiveness of each Pokemon type. It can be used to prioritize [[Shards|shard]] upgrades.
+
+=Type effectiveness table=
+
+{| class="wikitable"
+! Attacker ↴ Defender → !! Normal !! Fire !! Water !! Electric !! Grass !! Ice !! Fighting !! Poison !! Ground !! Flying !! Psychic !! Bug !! Rock !! Ghost !! Dragon !! Dark !! Steel !! Fairy
+|-
+| '''Normal''' ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || ½ || 0 ||  ||  || ½ || 
+|-
+| '''Fire''' ||  || ½ || ½ ||  || 2 || 2 ||  ||  ||  ||  ||  || 2 || ½ ||  || ½ ||  || 2 || 
+|-
+| '''Water''' ||  || 2 || ½ ||  || ½ ||  ||  ||  || 2 ||  ||  ||  || 2 ||  || ½ ||  ||  || 
+|-
+| '''Electric''' ||  ||  || 2 || ½ || ½ ||  ||  ||  || 0 || 2 ||  ||  ||  ||  || ½ ||  ||  || 
+|-
+| '''Grass''' ||  || ½ || 2 ||  || ½ ||  ||  || ½ || 2 || ½ ||  || ½ || 2 ||  || ½ ||  || ½ || 
+|-
+| '''Ice''' ||  || ½ || ½ ||  || 2 || ½ ||  ||  || 2 || 2 ||  ||  ||  ||  || 2 ||  || ½ || 
+|-
+| '''Fighting''' || 2 ||  ||  ||  ||  || 2 ||  || ½ ||  || ½ || ½ || ½ || 2 || 0 ||  || 2 || 2 || ½
+|-
+| '''Poison''' ||  ||  ||  ||  || 2 ||  ||  || ½ || ½ ||  ||  ||  || ½ || ½ ||  ||  || 0 || 2
+|-
+| '''Ground''' ||  || 2 ||  || 2 || ½ ||  ||  || 2 ||  || 0 ||  || ½ || 2 ||  ||  ||  || 2 || 
+|-
+| '''Flying''' ||  ||  ||  || ½ || 2 ||  || 2 ||  ||  ||  ||  || 2 || ½ ||  ||  ||  || ½ || 
+|-
+| '''Psychic''' ||  ||  ||  ||  ||  ||  || 2 || 2 ||  ||  || ½ ||  ||  ||  ||  || 0 || ½ || 
+|-
+| '''Bug''' ||  || ½ ||  ||  || 2 ||  || ½ || ½ ||  || ½ || 2 ||  ||  || ½ ||  || 2 || ½ || ½
+|-
+| '''Rock''' ||  || 2 ||  ||  ||  || 2 || ½ ||  || ½ || 2 ||  || 2 ||  ||  ||  ||  || ½ || 
+|-
+| '''Ghost''' || 0 ||  ||  ||  ||  ||  ||  ||  ||  ||  || 2 ||  ||  || 2 ||  || ½ ||  || 
+|-
+| '''Dragon''' ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 2 ||  || ½ || 0
+|-
+| '''Dark''' ||  ||  ||  ||  ||  ||  || ½ ||  ||  ||  || 2 ||  ||  || 2 ||  || ½ ||  || ½
+|-
+| '''Steel''' ||  || ½ || ½ || ½ ||  || 2 ||  ||  ||  ||  ||  ||  || 2 ||  ||  ||  || ½ || 2
+|-
+| '''Fairy''' ||  || ½ ||  ||  ||  ||  || 2 || ½ ||  ||  ||  ||  ||  ||  || 2 || 2 || ½ || 
+|}
+
+=Practicality=
+
+''See [[Shards]] for a list of optimal farming routes for each type of shard.''
+
+Using the Damage Calculator screen in the Start Menu, a breakdown of how much damage each type contributes to total damage can be seen absent any shard boosts. Types that do the most damage generally should be upgraded with shards first.
+
+=Trivia=
+
+As of PokeClicker version 0.5.8 the following categories were removed from the shard case because they have no effect (they do not increase damage) when invested into.
+
+&lt;b&gt;Very Effective (last row)&lt;/b&gt;
+
+*Normal
+
+&lt;b&gt;Immune (first row)&lt;/b&gt;
+
+*Fire
+*Water
+*Grass
+*Ice
+*Flying
+*Bug
+*Rock
+*Dark
+*Steel
+*Fairy</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment>/* Trivia */</comment>
+    <model>wikitext</model>
+    <parentid>2893</parentid>
+    <sha1>510486b427649721b39fabcb004715d186cdc89f</sha1>
+  </revision>
+  <revision>
+    <id>2893</id>
+    <timestamp>2021-01-05T01:53:59Z</timestamp>
+    <text bytes="2812" space="preserve">Below is a table showing the effectiveness of each Pokemon type. It can be used to prioritize [[Shards|shard]] upgrades.
+
+=Type effectiveness table=
+
+{| class="wikitable"
+! Attacker ↴ Defender → !! Normal !! Fire !! Water !! Electric !! Grass !! Ice !! Fighting !! Poison !! Ground !! Flying !! Psychic !! Bug !! Rock !! Ghost !! Dragon !! Dark !! Steel !! Fairy
+|-
+| '''Normal''' ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || ½ || 0 ||  ||  || ½ || 
+|-
+| '''Fire''' ||  || ½ || ½ ||  || 2 || 2 ||  ||  ||  ||  ||  || 2 || ½ ||  || ½ ||  || 2 || 
+|-
+| '''Water''' ||  || 2 || ½ ||  || ½ ||  ||  ||  || 2 ||  ||  ||  || 2 ||  || ½ ||  ||  || 
+|-
+| '''Electric''' ||  ||  || 2 || ½ || ½ ||  ||  ||  || 0 || 2 ||  ||  ||  ||  || ½ ||  ||  || 
+|-
+| '''Grass''' ||  || ½ || 2 ||  || ½ ||  ||  || ½ || 2 || ½ ||  || ½ || 2 ||  || ½ ||  || ½ || 
+|-
+| '''Ice''' ||  || ½ || ½ ||  || 2 || ½ ||  ||  || 2 || 2 ||  ||  ||  ||  || 2 ||  || ½ || 
+|-
+| '''Fighting''' || 2 ||  ||  ||  ||  || 2 ||  || ½ ||  || ½ || ½ || ½ || 2 || 0 ||  || 2 || 2 || ½
+|-
+| '''Poison''' ||  ||  ||  ||  || 2 ||  ||  || ½ || ½ ||  ||  ||  || ½ || ½ ||  ||  || 0 || 2
+|-
+| '''Ground''' ||  || 2 ||  || 2 || ½ ||  ||  || 2 ||  || 0 ||  || ½ || 2 ||  ||  ||  || 2 || 
+|-
+| '''Flying''' ||  ||  ||  || ½ || 2 ||  || 2 ||  ||  ||  ||  || 2 || ½ ||  ||  ||  || ½ || 
+|-
+| '''Psychic''' ||  ||  ||  ||  ||  ||  || 2 || 2 ||  ||  || ½ ||  ||  ||  ||  || 0 || ½ || 
+|-
+| '''Bug''' ||  || ½ ||  ||  || 2 ||  || ½ || ½ ||  || ½ || 2 ||  ||  || ½ ||  || 2 || ½ || ½
+|-
+| '''Rock''' ||  || 2 ||  ||  ||  || 2 || ½ ||  || ½ || 2 ||  || 2 ||  ||  ||  ||  || ½ || 
+|-
+| '''Ghost''' || 0 ||  ||  ||  ||  ||  ||  ||  ||  ||  || 2 ||  ||  || 2 ||  || ½ ||  || 
+|-
+| '''Dragon''' ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 2 ||  || ½ || 0
+|-
+| '''Dark''' ||  ||  ||  ||  ||  ||  || ½ ||  ||  ||  || 2 ||  ||  || 2 ||  || ½ ||  || ½
+|-
+| '''Steel''' ||  || ½ || ½ || ½ ||  || 2 ||  ||  ||  ||  ||  ||  || 2 ||  ||  ||  || ½ || 2
+|-
+| '''Fairy''' ||  || ½ ||  ||  ||  ||  || 2 || ½ ||  ||  ||  ||  ||  ||  || 2 || 2 || ½ || 
+|}
+
+=Practicality=
+
+''See [[Shards]] for a list of optimal farming routes for each type of shard.''
+
+Using the Damage Calculator screen in the Start Menu, a breakdown of how much damage each type contributes to total damage can be seen absent any shard boosts. Types that do the most damage generally should be upgraded with shards first.
+
+=Trivia=
+
+As of PokeClicker version 0.5.8 the following categories were removed from the shard case because they have no effect (they do not increase damage) when invested into.
+
+====Very Effective (last row)====
+
+*Normal
+
+====Immune (first row)====
+
+*Fire
+*Water
+*Grass
+*Ice
+*Flying
+*Bug
+*Rock
+*Dark
+*Steel
+*Fairy</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment>Updated page</comment>
+    <model>wikitext</model>
+    <parentid>2892</parentid>
+    <sha1>745106862e78cc180536c1d5723426807fa10ff0</sha1>
+  </revision>
+</page>

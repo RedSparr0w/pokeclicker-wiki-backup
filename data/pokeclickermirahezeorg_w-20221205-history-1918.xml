@@ -1,0 +1,926 @@
+<page>
+  <title>Lum/fr</title>
+  <ns>0</ns>
+  <id>8145</id>
+  <revision>
+    <id>22966</id>
+    <timestamp>2022-08-09T21:24:02Z</timestamp>
+    <text bytes="7432" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #20 Prine
+|image   = [[File:Lum.png]]
+|caption = Cette Baie pousse lentement pour stocker les nutriments nécessaires à la santé des Pokémon. Cette Baie multiplie les effets des plants de Baie autour d'elle.
+|growtime  = 1h 0m 0s
+|harvest = 1 baie
+|replant = 0%
+|mutation = 0.1%
+|points = 1,000
+||flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*10 épicée
+*10 sèche
+*10 sucrée
+*10 amère
+*0 acide
+|helditem = [[File:Shaymin.png|30px]]Shaymin, [[File:Mew.png|30px]]Mew, [[File:Celebi.png|30px]]Celebi
+}}
+
+'''Prine''' est un type de [[Berries/fr|Baie]] qui peut être plantée dans la [[Farm/fr|Ferme]]. Elle s'obtient en entourant une parcelle avec les 8 [[Berries#Baies de Gen 1|Baies de première génération]] à maturité.
+
+== Tables de croissance ==
+=== Stades de croissance ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+|-
+! !! Pousse !! Arbuste !! Fleuri !! Mûr
+|-
+! Temps écoulé depuis plantation
+| 50 mins || 53 mins 20 secs || 56 mins 40 secs || 1 heure - 12 heures
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:LumTreeTaller.png|50px]] || &lt;center&gt; [[File:LumTreeBloom.png|50px]] || &lt;center&gt; [[File:LumTreeBerry.png|50px]]
+|-
+! rowspan=2|Aura (améliore les auras alentours)
+| rowspan=2|&lt;center&gt; N/A || &lt;center&gt; x1,01 || &lt;center&gt; x1,02 || &lt;center&gt;x1,03
+|-
+| colspan=3|'''Note&amp;nbsp;: Une Baie ne peut être affectée que par l'aura d'une seule Prine à la fois'''
+|}
+
+===Temps de croissance avec modificateurs===
+{| class="wikitable collapsible" | style="text-align: center;"
+! Modificateur !! Temps Maturité-Flétrissement !! Fertibérance nécessaire pour mûrir
+|-
+! Aucun
+| 1 heure -&lt;br&gt; 12 heures || ---
+|-
+! Engrais ou Kwakarrosoir
+| 40 mins -&lt;br&gt; 8 heures || 8 engrais
+|-
+! Engrais et Kwakarrosoir
+| 26 mins 40 secs -&lt;br&gt; 5 heures 20 mins || 6 engrais
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Flow Chart ==
+[[File:Lum_Flow_Chart1.png|500px]]
+&lt;br&gt;
+&lt;/div&gt;
+
+== Stratégie de mutation ==
+=== Formations de plantation possibles ===
+
+Vous pouvez remplir votre ferme de la manière suivante pour obtenir des baies Prine. Les cases violettes indiquent où les mutations peuvent avoir lieu.
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation de base
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Sitrus.png|30px]]&lt;br&gt;[[Sitrus/fr|Sitrus]] || style="width: 40px;" | [[File:Oran.png|30px]]&lt;br&gt;[[Oran/fr|Oran]] || style="width: 40px;" | [[File:Aspear.png|30px]]&lt;br&gt;[[Aspear/fr|Willia]]
+|-
+| [[File:Leppa.png|30px]]&lt;br&gt;[[Leppa/fr|Mepo]] || style="background-color:#9C7D98;" | || [[File:Pecha.png|30px]]&lt;br&gt;[[Pecha/fr|Pêcha]]
+|- style="height: 50px;"
+| [[File:Rawst.png|30px]]&lt;br&gt;[[Rawst/fr|Fraive]] || [[File:Chesto.png|30px]]&lt;br&gt;[[Chesto/fr|Maron]] || [[File:Cheri.png|30px]]&lt;br&gt;[[Cheri/fr|Ceriz]]
+|}
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation de plantation optimisée
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Sitrus.png|30px]]&lt;br&gt;[[Sitrus/fr|Sitrus]] || style="width: 40px;" | [[File:Oran.png|30px]]&lt;br&gt;[[Oran/fr|Oran]] || style="width: 40px;" | [[File:Aspear.png|30px]]&lt;br&gt;[[Aspear/fr|Willia]] || style="width: 40px;" | [[File:Oran.png|30px]]&lt;br&gt;[[Oran/fr|Oran]] || style="width: 40px;" | [[File:Sitrus.png|30px]]&lt;br&gt;[[Sitrus/fr|Sitrus]]
+|-
+| [[File:Leppa.png|30px]]&lt;br&gt;[[Leppa/fr|Mepo]] || style="background-color:#9C7D98;" | || [[File:Pecha.png|30px]]&lt;br&gt;[[Pecha/fr|Pêcha]] || style="background-color:#9C7D98;" | || [[File:Leppa.png|30px]]&lt;br&gt;[[Leppa/fr|Mepo]]
+|- style="height: 50px;"
+| [[File:Rawst.png|30px]]&lt;br&gt;[[Rawst/fr|Fraive]] || [[File:Chesto.png|30px]]&lt;br&gt;[[Chesto]] || [[File:Cheri.png|30px]]&lt;br&gt;[[Cheri/fr|Ceriz]] || [[File:Chesto.png|30px]]&lt;br&gt;[[Chesto]] || [[File:Rawst.png|30px]]&lt;br&gt;[[Rawst/fr|Fraive]] 
+|-
+| [[File:Leppa.png|30px]]&lt;br&gt;[[Leppa/fr|Mepo]] || style="background-color:#9C7D98;" | || [[File:Pecha.png|30px]]&lt;br&gt;[[Pecha/fr|Pêcha]] || style="background-color:#9C7D98;" | || [[File:Leppa.png|30px]]&lt;br&gt;[[Leppa/fr|Mepo]]
+|-
+| [[File:Sitrus.png|30px]]&lt;br&gt;[[Sitrus/fr|Sitrus]] || [[File:Oran.png|30px]]&lt;br&gt;[[Oran/fr|Oran]] || [[File:Aspear.png|30px]]&lt;br&gt;[[Aspear/fr|Willia]] || [[File:Oran.png|30px]]&lt;br&gt;[[Oran/fr|Oran]] || [[File:Sitrus.png|30px]]&lt;br&gt;[[Sitrus/fr|Sitrus]]
+|}
+
+=== Notes importantes ===
+
+Le temps total nécessaire pour obtenir un champs plein de Baies de première génération mûres est court à seulement dix minutes (sans modificatuers), mais la baie Prine peut s'avérer difficile à obtenir. Cela est principalement dû aux forts taux de mutation des baies indésirables qui pourraient muter sur la case centrale, combiné au temps court entre maturité et flétrissement des baies de première genération. Il est fréquent de passer par de nombreux cycles de ce processus de pousse avant d'obtenir ne serait-ce qu'une seule mutation de baie Prine. Le temps de croissance étant si court, si vous utilisez le Kwakarroisr, remplacez-le par un autre [[Oak Items/fr|objet de Chen]] dès que la baie Ceriz est mûre. De plus, bien qu'obtenir deux cycles de maturité de la baie Ceriz est possible pendant un cycle de Sitrus, il est souvent difficile de coordoner ce timing avec les autres baies. Lorsque les 8 baies sont mûres, assurez-vous d'appliquer du [[Farm Items/fr|Fertistantané]] sur la parcelle centrale, et utilisez aussitôt une [[Farm Items/fr|Pel' à Baie]] sur toute baie indésirable qui apparaît. Un suivi attentif de votre parcelle durant ce processus peut considérablement réduire le nombre de tentative de Prine avec d'obtenir une mutation.
+
+=== Tableau de chronométrage ===
+{| class="wikitable" | style="text-align: center;"
+|+ ''Tous les temps indiqués sont basés sur le temps restant avant que la première baie plantée n'arrive à maturité''
+! Baie !! Temps de plantation&lt;br&gt;sans modificateur!! Temps de plantation avec &lt;br&gt; Engrais ou Kwakarrosoir || Temps de plantation avec &lt;br&gt; Engrais et Kwakarrosoir
+|-
+| [[Sitrus/fr|Sitrus]] || - || - || -
+|-
+| [[Oran/fr|Oran]] || 5 mins avant maturité || 3 mins 20 secs avant maturité || rowspan=8|Non optimal
+|-
+| [[Leppa/fr|Mepo]] || 4 mins avant maturité || 2 mins 40 secs avant maturité
+|-
+| [[Aspear/fr|Willia]] || 2 mins avant maturité || 1 min 20 secs avant maturité
+|-
+| [[Rawst/fr|Fraive]] || 1 min 20 secs avant maturité || 53 secs avant maturité
+|-
+| [[Pecha/fr|Pêcha]] || 1 min avant maturité || 40 secs avant maturité
+|-
+| [[Chesto/fr|Maron]] || 40 secs avant maturité || 26 secs avant maturité
+|-
+| [[Cheri/fr|Ceriz]] || 30 secs avant maturité || 20 secs avant maturité
+|-
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Acquisition==
+===Dungeons===
+{{Loot/head‎|Berries}}
+{{LootItem|Berry Forest|Mythic|400 Clears}}
+{{LootItem|Radio Tower|Mythic|250 Clears}}
+{{LootItem|Cave of Origin|Mythic|150 Clears}}
+{{LootItem|Moor of Icirrus|Mythic|200 Clears}}
+{{LootItem|Pinwheel Forest|Mythic|200 Clears}}
+{{LootItem|Thrifty Megamart|Mythic|100 Clears}}
+|}
+|}
+&lt;/div&gt;
+
+&lt;br&gt;
+
+==Utiliser la Prine==
+Des agencements de Ferme utilisant la Prine peuvent être consultés sur ces pages:
+* [[Pokémon_Day_Care/fr|Maximiser le gain de pas pour une reproduction plus rapide des Pokémon]] 
+* [[Shiny Chance/fr|Maximiser les chances de Pokémon chromatiques pour rendre chromatique tous les Pokémon]]
+* [[Farming Setups/fr|Divers agencements de Ferme utiles]]
+&lt;br&gt;
+
+
+{{Berries}}
+
+[[Category:Farm]][[Category:Berries]]</text>
+    <contributor>
+      <username>LeChatMG</username>
+      <id>97</id>
+    </contributor>
+    <comment>Coquille/grammaire</comment>
+    <model>wikitext</model>
+    <parentid>22965</parentid>
+    <sha1>45a0e6eb5b9b4fa85f933c198204d2e2029b6f1b</sha1>
+  </revision>
+  <revision>
+    <id>22965</id>
+    <timestamp>2022-08-09T21:23:09Z</timestamp>
+    <text bytes="7431" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #20 Prine
+|image   = [[File:Lum.png]]
+|caption = Cette Baie pousse lentement pour stocker les nutriments nécessaires à la santé des Pokémon. Cette Baie multiplie les effets des plants de Baie autour d'elle.
+|growtime  = 1h 0m 0s
+|harvest = 1 baie
+|replant = 0%
+|mutation = 0.1%
+|points = 1,000
+||flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*10 épicé
+*10 sèche
+*10 sucrée
+*10 amère
+*0 acide
+|helditem = [[File:Shaymin.png|30px]]Shaymin, [[File:Mew.png|30px]]Mew, [[File:Celebi.png|30px]]Celebi
+}}
+
+'''Prine''' est un type de [[Berries/fr|Baie]] qui peut être plantée dans la [[Farm/fr|Ferme]]. Elle s'obtient en entourant une parcelle avec les 8 [[Berries#Baies de Gen 1|Baies de première génération]] à maturité.
+
+== Tables de croissance ==
+=== Stades de croissance ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+|-
+! !! Pousse !! Arbuste !! Fleuri !! Mûr
+|-
+! Temps écoulé depuis plantation
+| 50 mins || 53 mins 20 secs || 56 mins 40 secs || 1 heure - 12 heures
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:LumTreeTaller.png|50px]] || &lt;center&gt; [[File:LumTreeBloom.png|50px]] || &lt;center&gt; [[File:LumTreeBerry.png|50px]]
+|-
+! rowspan=2|Aura (améliore les auras alentours)
+| rowspan=2|&lt;center&gt; N/A || &lt;center&gt; x1,01 || &lt;center&gt; x1,02 || &lt;center&gt;x1,03
+|-
+| colspan=3|'''Note&amp;nbsp;: Une Baie ne peut être affectée que par l'aura d'une seule Prine à la fois'''
+|}
+
+===Temps de croissance avec modificateurs===
+{| class="wikitable collapsible" | style="text-align: center;"
+! Modificateur !! Temps Maturité-Flétrissement !! Fertibérance nécessaire pour mûrir
+|-
+! Aucun
+| 1 heure -&lt;br&gt; 12 heures || ---
+|-
+! Engrais ou Kwakarrosoir
+| 40 mins -&lt;br&gt; 8 heures || 8 engrais
+|-
+! Engrais et Kwakarrosoir
+| 26 mins 40 secs -&lt;br&gt; 5 heures 20 mins || 6 engrais
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Flow Chart ==
+[[File:Lum_Flow_Chart1.png|500px]]
+&lt;br&gt;
+&lt;/div&gt;
+
+== Stratégie de mutation ==
+=== Formations de plantation possibles ===
+
+Vous pouvez remplir votre ferme de la manière suivante pour obtenir des baies Prine. Les cases violettes indiquent où les mutations peuvent avoir lieu.
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation de base
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Sitrus.png|30px]]&lt;br&gt;[[Sitrus/fr|Sitrus]] || style="width: 40px;" | [[File:Oran.png|30px]]&lt;br&gt;[[Oran/fr|Oran]] || style="width: 40px;" | [[File:Aspear.png|30px]]&lt;br&gt;[[Aspear/fr|Willia]]
+|-
+| [[File:Leppa.png|30px]]&lt;br&gt;[[Leppa/fr|Mepo]] || style="background-color:#9C7D98;" | || [[File:Pecha.png|30px]]&lt;br&gt;[[Pecha/fr|Pêcha]]
+|- style="height: 50px;"
+| [[File:Rawst.png|30px]]&lt;br&gt;[[Rawst/fr|Fraive]] || [[File:Chesto.png|30px]]&lt;br&gt;[[Chesto/fr|Maron]] || [[File:Cheri.png|30px]]&lt;br&gt;[[Cheri/fr|Ceriz]]
+|}
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation de plantation optimisée
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Sitrus.png|30px]]&lt;br&gt;[[Sitrus/fr|Sitrus]] || style="width: 40px;" | [[File:Oran.png|30px]]&lt;br&gt;[[Oran/fr|Oran]] || style="width: 40px;" | [[File:Aspear.png|30px]]&lt;br&gt;[[Aspear/fr|Willia]] || style="width: 40px;" | [[File:Oran.png|30px]]&lt;br&gt;[[Oran/fr|Oran]] || style="width: 40px;" | [[File:Sitrus.png|30px]]&lt;br&gt;[[Sitrus/fr|Sitrus]]
+|-
+| [[File:Leppa.png|30px]]&lt;br&gt;[[Leppa/fr|Mepo]] || style="background-color:#9C7D98;" | || [[File:Pecha.png|30px]]&lt;br&gt;[[Pecha/fr|Pêcha]] || style="background-color:#9C7D98;" | || [[File:Leppa.png|30px]]&lt;br&gt;[[Leppa/fr|Mepo]]
+|- style="height: 50px;"
+| [[File:Rawst.png|30px]]&lt;br&gt;[[Rawst/fr|Fraive]] || [[File:Chesto.png|30px]]&lt;br&gt;[[Chesto]] || [[File:Cheri.png|30px]]&lt;br&gt;[[Cheri/fr|Ceriz]] || [[File:Chesto.png|30px]]&lt;br&gt;[[Chesto]] || [[File:Rawst.png|30px]]&lt;br&gt;[[Rawst/fr|Fraive]] 
+|-
+| [[File:Leppa.png|30px]]&lt;br&gt;[[Leppa/fr|Mepo]] || style="background-color:#9C7D98;" | || [[File:Pecha.png|30px]]&lt;br&gt;[[Pecha/fr|Pêcha]] || style="background-color:#9C7D98;" | || [[File:Leppa.png|30px]]&lt;br&gt;[[Leppa/fr|Mepo]]
+|-
+| [[File:Sitrus.png|30px]]&lt;br&gt;[[Sitrus/fr|Sitrus]] || [[File:Oran.png|30px]]&lt;br&gt;[[Oran/fr|Oran]] || [[File:Aspear.png|30px]]&lt;br&gt;[[Aspear/fr|Willia]] || [[File:Oran.png|30px]]&lt;br&gt;[[Oran/fr|Oran]] || [[File:Sitrus.png|30px]]&lt;br&gt;[[Sitrus/fr|Sitrus]]
+|}
+
+=== Notes importantes ===
+
+Le temps total nécessaire pour obtenir un champs plein de Baies de première génération mûres est court à seulement dix minutes (sans modificatuers), mais la baie Prine peut s'avérer difficile à obtenir. Cela est principalement dû aux forts taux de mutation des baies indésirables qui pourraient muter sur la case centrale, combiné au temps court entre maturité et flétrissement des baies de première genération. Il est fréquent de passer par de nombreux cycles de ce processus de pousse avant d'obtenir ne serait-ce qu'une seule mutation de baie Prine. Le temps de croissance étant si court, si vous utilisez le Kwakarroisr, remplacez-le par un autre [[Oak Items/fr|objet de Chen]] dès que la baie Ceriz est mûre. De plus, bien qu'obtenir deux cycles de maturité de la baie Ceriz est possible pendant un cycle de Sitrus, il est souvent difficile de coordoner ce timing avec les autres baies. Lorsque les 8 baies sont mûres, assurez-vous d'appliquer du [[Farm Items/fr|Fertistantané]] sur la parcelle centrale, et utilisez aussitôt une [[Farm Items/fr|Pel' à Baie]] sur toute baie indésirable qui apparaît. Un suivi attentif de votre parcelle durant ce processus peut considérablement réduire le nombre de tentative de Prine avec d'obtenir une mutation.
+
+=== Tableau de chronométrage ===
+{| class="wikitable" | style="text-align: center;"
+|+ ''Tous les temps indiqués sont basés sur le temps restant avant que la première baie plantée n'arrive à maturité''
+! Baie !! Temps de plantation&lt;br&gt;sans modificateur!! Temps de plantation avec &lt;br&gt; Engrais ou Kwakarrosoir || Temps de plantation avec &lt;br&gt; Engrais et Kwakarrosoir
+|-
+| [[Sitrus/fr|Sitrus]] || - || - || -
+|-
+| [[Oran/fr|Oran]] || 5 mins avant maturité || 3 mins 20 secs avant maturité || rowspan=8|Non optimal
+|-
+| [[Leppa/fr|Mepo]] || 4 mins avant maturité || 2 mins 40 secs avant maturité
+|-
+| [[Aspear/fr|Willia]] || 2 mins avant maturité || 1 min 20 secs avant maturité
+|-
+| [[Rawst/fr|Fraive]] || 1 min 20 secs avant maturité || 53 secs avant maturité
+|-
+| [[Pecha/fr|Pêcha]] || 1 min avant maturité || 40 secs avant maturité
+|-
+| [[Chesto/fr|Maron]] || 40 secs avant maturité || 26 secs avant maturité
+|-
+| [[Cheri/fr|Ceriz]] || 30 secs avant maturité || 20 secs avant maturité
+|-
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Acquisition==
+===Dungeons===
+{{Loot/head‎|Berries}}
+{{LootItem|Berry Forest|Mythic|400 Clears}}
+{{LootItem|Radio Tower|Mythic|250 Clears}}
+{{LootItem|Cave of Origin|Mythic|150 Clears}}
+{{LootItem|Moor of Icirrus|Mythic|200 Clears}}
+{{LootItem|Pinwheel Forest|Mythic|200 Clears}}
+{{LootItem|Thrifty Megamart|Mythic|100 Clears}}
+|}
+|}
+&lt;/div&gt;
+
+&lt;br&gt;
+
+==Utiliser la Prine==
+Des agencements de Ferme utilisant la Prine peuvent être consultés sur ces pages:
+* [[Pokémon_Day_Care/fr|Maximiser le gain de pas pour une reproduction plus rapide des Pokémon]] 
+* [[Shiny Chance/fr|Maximiser les chances de Pokémon chromatiques pour rendre chromatique tous les Pokémon]]
+* [[Farming Setups/fr|Divers agencements de Ferme utiles]]
+&lt;br&gt;
+
+
+{{Berries}}
+
+[[Category:Farm]][[Category:Berries]]</text>
+    <contributor>
+      <username>LeChatMG</username>
+      <id>97</id>
+    </contributor>
+    <comment>Coquille/grammaire</comment>
+    <model>wikitext</model>
+    <parentid>22964</parentid>
+    <sha1>308ccc26153ac72f603bb1e111d15b182f31c7f8</sha1>
+  </revision>
+  <revision>
+    <id>22964</id>
+    <timestamp>2022-08-09T21:21:59Z</timestamp>
+    <text bytes="7430" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #20 Prine
+|image   = [[File:Lum.png]]
+|caption = Cette Baie pousse lentement pour stocker les nutriments nécessaires à la santé des Pokémon. Cette Baie multiplie les effets des plants de Baie autour d'elle.
+|growtime  = 1h 0m 0s
+|harvest = 1 baie
+|replant = 0%
+|mutation = 0.1%
+|points = 1,000
+||flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*10 épicé
+*10 sèche
+*10 sucrée
+*10 amère
+*0 acide
+|helditem = [[File:Shaymin.png|30px]]Shaymin, [[File:Mew.png|30px]]Mew, [[File:Celebi.png|30px]]Celebi
+}}
+
+'''Prine''' est un type de [[Berries/fr|Baie]] qui peut être plantée dans la [[Farm/fr|Ferme]]. Elle s'obtient en entourant une parcelle avec les 8 [[Berries#Baies de Gen 1|Baies de première génération]] à maturité.
+
+== Tables de croissance ==
+=== Stades de croissance ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+|-
+! !! Pousse !! Arbuste !! Fleuri !! Mûr
+|-
+! Temps écoulé depuis plantation
+| 50 mins || 53 mins 20 secs || 56 mins 40 secs || 1 heure - 12 heures
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:LumTreeTaller.png|50px]] || &lt;center&gt; [[File:LumTreeBloom.png|50px]] || &lt;center&gt; [[File:LumTreeBerry.png|50px]]
+|-
+! rowspan=2|Aura (améliore les auras alentours)
+| rowspan=2|&lt;center&gt; N/A || &lt;center&gt; x1,01 || &lt;center&gt; x1,02 || &lt;center&gt;x1,03
+|-
+| colspan=3|'''Note&amp;nbsp;: Une Baie ne peut être affectée que par l'aura d'une seule Prine à la fois'''
+|}
+
+===Temps de croissance avec modificateurs===
+{| class="wikitable collapsible" | style="text-align: center;"
+! Modificateur !! Temps Maturité-Flétrissement !! Fertibérance nécessaire pour mûrir
+|-
+! Aucun
+| 1 heure -&lt;br&gt; 12 heures || ---
+|-
+! Engrais ou Kwakarrosoir
+| 40 mins -&lt;br&gt; 8 heures || 8 engrais
+|-
+! Engrais et Kwakarrosoir
+| 26 mins 40 secs -&lt;br&gt; 5 heures 20 mins || 6 engrais
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Flow Chart ==
+[[File:Lum_Flow_Chart1.png|500px]]
+&lt;br&gt;
+&lt;/div&gt;
+
+== Stratégie de mutation ==
+=== Formations de plantation possibles ===
+
+Vous pouvez remplir votre ferme de la manière suivante pour obtenir des baies Prine. Les cases violettes indiquent où les mutations peuvent avoir lieu.
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation de base
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Sitrus.png|30px]]&lt;br&gt;[[Sitrus/fr|Sitrus]] || style="width: 40px;" | [[File:Oran.png|30px]]&lt;br&gt;[[Oran/fr|Oran]] || style="width: 40px;" | [[File:Aspear.png|30px]]&lt;br&gt;[[Aspear/fr|Willia]]
+|-
+| [[File:Leppa.png|30px]]&lt;br&gt;[[Leppa/fr|Mepo]] || style="background-color:#9C7D98;" | || [[File:Pecha.png|30px]]&lt;br&gt;[[Pecha/fr|Pêcha]]
+|- style="height: 50px;"
+| [[File:Rawst.png|30px]]&lt;br&gt;[[Rawst/fr|Fraive]] || [[File:Chesto.png|30px]]&lt;br&gt;[[Chesto/fr|Maron]] || [[File:Cheri.png|30px]]&lt;br&gt;[[Cheri/fr|Ceriz]]
+|}
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation de plantation optimisée
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Sitrus.png|30px]]&lt;br&gt;[[Sitrus/fr|Sitrus]] || style="width: 40px;" | [[File:Oran.png|30px]]&lt;br&gt;[[Oran/fr|Oran]] || style="width: 40px;" | [[File:Aspear.png|30px]]&lt;br&gt;[[Aspear/fr|Willia]] || style="width: 40px;" | [[File:Oran.png|30px]]&lt;br&gt;[[Oran/fr|Oran]] || style="width: 40px;" | [[File:Sitrus.png|30px]]&lt;br&gt;[[Sitrus/fr|Sitrus]]
+|-
+| [[File:Leppa.png|30px]]&lt;br&gt;[[Leppa/fr|Mepo]] || style="background-color:#9C7D98;" | || [[File:Pecha.png|30px]]&lt;br&gt;[[Pecha/fr|Pêcha]] || style="background-color:#9C7D98;" | || [[File:Leppa.png|30px]]&lt;br&gt;[[Leppa/fr|Mepo]]
+|- style="height: 50px;"
+| [[File:Rawst.png|30px]]&lt;br&gt;[[Rawst/fr|Fraive]] || [[File:Chesto.png|30px]]&lt;br&gt;[[Chesto]] || [[File:Cheri.png|30px]]&lt;br&gt;[[Cheri/fr|Ceriz]] || [[File:Chesto.png|30px]]&lt;br&gt;[[Chesto]] || [[File:Rawst.png|30px]]&lt;br&gt;[[Rawst/fr|Fraive]] 
+|-
+| [[File:Leppa.png|30px]]&lt;br&gt;[[Leppa/fr|Mepo]] || style="background-color:#9C7D98;" | || [[File:Pecha.png|30px]]&lt;br&gt;[[Pecha/fr|Pêcha]] || style="background-color:#9C7D98;" | || [[File:Leppa.png|30px]]&lt;br&gt;[[Leppa/fr|Mepo]]
+|-
+| [[File:Sitrus.png|30px]]&lt;br&gt;[[Sitrus/fr|Sitrus]] || [[File:Oran.png|30px]]&lt;br&gt;[[Oran/fr|Oran]] || [[File:Aspear.png|30px]]&lt;br&gt;[[Aspear/fr|Willia]] || [[File:Oran.png|30px]]&lt;br&gt;[[Oran/fr|Oran]] || [[File:Sitrus.png|30px]]&lt;br&gt;[[Sitrus/fr|Sitrus]]
+|}
+
+=== Notes importantes ===
+
+Le temps total nécessaire pour obtenir un champs plein de Baies de première génération mûres est court à seulement dix minutes (sans modificatuers), mais la baie Prine peut s'avérer difficile à obtenir. Cela est principalement dû aux forts taux de mutation des baies indésirables qui pourraient muter sur la case centrale, combiné au temps court entre maturité et flétrissement des baies de première genération. Il est fréquent de passer par de nombreux cycles de ce processus de pousse avant d'obtenir ne serait-ce qu'une seule mutation de baie Prine. Le temps de croissance étant si court, si vous utilisez le Kwakarroisr, remplacez-le par un autre [[Oak Items/fr|objet de Chen]] dès que la baie Ceriz est mûre. De plus, bien qu'obtenir deux cycles de maturité de la baie Ceriz est possible pendant un cycle de Sitrus, il est souvent difficile de coordoner ce timing avec les autres baies. Lorsque les 8 baies sont mûres, assurez-vous d'appliquer du [[Farm Items/fr|Fertistantané]] sur la parcelle centrale, et utilisez aussitôt une [[Farm Items/fr|Pel' à Baie]] sur toute baie indésirable qui apparaît. Un suivi attentif de votre parcelle durant ce processus peut considérablement réduire le nombre de tentative de Prine avec d'obtenir une mutation.
+
+=== Tableau de chronométrage ===
+{| class="wikitable" | style="text-align: center;"
+|+ ''Tous les temps indiqués sont basés sur le temps restant avant que la première baie plantée n'arrive à maturité''
+! Baie !! Temps de plantation&lt;br&gt;sans modificateur!! Temps de plantation avec &lt;br&gt; Engrais ou Kwakarrosoir || Temps de plantation avec &lt;br&gt; Engrais et Kwakarrosoir
+|-
+| [[Sitrus/fr|Sitrus]] || - || - || -
+|-
+| [[Oran/fr|Oran]] || 5 mins avant maturité || 3 mins 20 secs avant maturité || rowspan=8|Non optimal
+|-
+| [[Leppa/fr|Mepo]] || 4 mins avant maturité || 2 mins 40 secs avant maturité
+|-
+| [[Aspear/fr|Willia]] || 2 mins avant maturité || 1 min 20 secs avant maturité
+|-
+| [[Rawst/fr|Fraive]] || 1 min 20 secs avant maturité || 53 secs avant maturité
+|-
+| [[Pecha/fr|Pêcha]] || 1 min avant maturité || 40 secs avant maturité
+|-
+| [[Chesto/fr|Maron]] || 40 secs avant maturité || 26 secs avant maturité
+|-
+| [[Cheri/fr|Ceriz]] || 30 secs avant maturité || 20 secs avant maturité
+|-
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Acquisition==
+===Dungeons===
+{{Loot/head‎|Berries}}
+{{LootItem|Berry Forest|Mythic|400 Clears}}
+{{LootItem|Radio Tower|Mythic|250 Clears}}
+{{LootItem|Cave of Origin|Mythic|150 Clears}}
+{{LootItem|Moor of Icirrus|Mythic|200 Clears}}
+{{LootItem|Pinwheel Forest|Mythic|200 Clears}}
+{{LootItem|Thrifty Megamart|Mythic|100 Clears}}
+|}
+|}
+&lt;/div&gt;
+
+&lt;br&gt;
+
+==Utiliser la Prine==
+Des agencements de Ferme utilisant la Prine peuvent être consulté sur ces pages:
+* [[Pokémon_Day_Care/fr|Maximiser le gain de pas pour une reproduction plus rapide des Pokémon]] 
+* [[Shiny Chance/fr|Maximiser les chances de Pokémon chromatiques pour rendre chromatique tous les Pokémon]]
+* [[Farming Setups/fr|Divers agencements de Ferme utiles]]
+&lt;br&gt;
+
+
+{{Berries}}
+
+[[Category:Farm]][[Category:Berries]]</text>
+    <contributor>
+      <username>LeChatMG</username>
+      <id>97</id>
+    </contributor>
+    <comment>Réparation du tableau cassé</comment>
+    <model>wikitext</model>
+    <parentid>22963</parentid>
+    <sha1>50d9fe9355c25cda39d530e8a89b15d7f14ea835</sha1>
+  </revision>
+  <revision>
+    <id>22963</id>
+    <timestamp>2022-08-09T21:20:19Z</timestamp>
+    <text bytes="7427" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #20 Prine
+|image   = [[File:Lum.png]]
+|caption = Cette Baie pousse lentement pour stocker les nutriments nécessaires à la santé des Pokémon. Cette Baie multiplie les effets des plants de Baie autour d'elle.
+|growtime  = 1h 0m 0s
+|harvest = 1 baie
+|replant = 0%
+|mutation = 0.1%
+|points = 1,000
+||flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*10 épicé
+*10 sèche
+*10 sucrée
+*10 amère
+*0 acide
+|helditem = [[File:Shaymin.png|30px]]Shaymin, [[File:Mew.png|30px]]Mew, [[File:Celebi.png|30px]]Celebi
+}}
+
+'''Prine''' est un type de [[Berries/fr|Baie]] qui peut être plantée dans la [[Farm/fr|Ferme]]. Elle s'obtient en entourant une parcelle avec les 8 [[Berries#Baies de Gen 1|Baies de première génération]] à maturité.
+
+== Tables de croissance ==
+=== Stades de croissance ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+|-
+! !! Pousse !! Arbuste !! Fleuri !! Mûr
+|-
+! Temps écoulé depuis plantation
+| 50 mins || 53 mins 20 secs || 56 mins 40 secs || 1 heure - 12 heures
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:LumTreeTaller.png|50px]] || &lt;center&gt; [[File:LumTreeBloom.png|50px]] || &lt;center&gt; [[File:LumTreeBerry.png|50px]]
+|-
+! rowspan=2|Aura (améliore les auras alentours)
+| rowspan=2|&lt;center&gt; N/A || &lt;center&gt; x1,01 || &lt;center&gt; x1,02 || &lt;center&gt;x1,03
+|-
+| colspan=3|'''Note&amp;nbsp;: Une Baie ne peut être affectée que par l'aura d'une seule Prine à la fois'''
+|}
+
+===Temps de croissance avec modificateurs===
+{| class="wikitable collapsible" | style="text-align: center;"
+! Modificateur !! Temps Maturité-Flétrissement !! Fertibérance nécessaire pour mûrir
+|-
+! Aucun
+| 1 heure -&lt;br&gt; 12 heures || ---
+|-
+! Engrais ou Kwakarrosoir
+| 40 mins -&lt;br&gt; 8 heures || 8 engrais
+|-
+! Engrais et Kwakarrosoir
+| 26 mins 40 secs -&lt;br&gt; 5 heures 20 mins || 6 engrais
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Flow Chart ==
+[[File:Lum_Flow_Chart1.png|500px]]
+&lt;br&gt;
+&lt;/div&gt;
+
+== Stratégie de mutation ==
+=== Formations de plantation possibles ===
+
+Vous pouvez remplir votre ferme de la manière suivante pour obtenir des baies Prine. Les cases violettes indiquent où les mutations peuvent avoir lieu.
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation de base
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Sitrus.png|30px]]&lt;br&gt;[[Sitrus/fr|Sitrus]] || style="width: 40px;" | [[File:Oran.png|30px]]&lt;br&gt;[[Oran/fr|Oran]] || style="width: 40px;" | [[File:Aspear.png|30px]]&lt;br&gt;[[Aspear/fr|Willia]]
+|-
+| [[File:Leppa.png|30px]]&lt;br&gt;[[Leppa/fr|Mepo]] || style="background-color:#9C7D98;" | || [[File:Pecha.png|30px]]&lt;br&gt;[[Pecha/fr|Pêcha]]
+|- style="height: 50px;"
+| [[File:Rawst.png|30px]]&lt;br&gt;[[Rawst/fr|Fraive]] || [[File:Chesto.png|30px]]&lt;br&gt;[[Chesto/fr|Maron]] || [[File:Cheri.png|30px]]&lt;br&gt;[[Cheri/fr|Ceriz]]
+|}
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation de plantation optimisée
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Sitrus.png|30px]]&lt;br&gt;[[Sitrus/fr|Sitrus]] || style="width: 40px;" | [[File:Oran.png|30px]]&lt;br&gt;[[Oran/fr|Oran]] || style="width: 40px;" | [[File:Aspear.png|30px]]&lt;br&gt;[[Aspear/fr|Willia]] || style="width: 40px;" | [[File:Oran.png|30px]]&lt;br&gt;[[Oran/fr|Oran]] || style="width: 40px;" | [[File:Sitrus.png|30px]]&lt;br&gt;[[Sitrus/fr|Sitrus]]
+|-
+| [[File:Leppa.png|30px]]&lt;br&gt;[[Leppa/fr|Mepo]] || style="background-color:#9C7D98;" | || [[File:Pecha.png|30px]]&lt;br&gt;[[Pecha/fr|Pêcha]] || style="background-color:#9C7D98;" | || [[File:Leppa.png|30px]]&lt;br&gt;[[Leppa/fr|Mepo]]
+|- style="height: 50px;"
+| [[File:Rawst.png|30px]]&lt;br&gt;[[Rawst/fr|Fraive]] || [[File:Chesto.png|30px]]&lt;br&gt;[[Chesto]] || [[File:Cheri.png|30px]]&lt;br&gt;[[Cheri/fr|Ceriz]] || [[File:Chesto.png|30px]]&lt;br&gt;[[Chesto]] || [[File:Rawst.png|30px]]&lt;br&gt;[[Rawst/fr|Fraive]] 
+|-
+| [[File:Leppa.png|30px]]&lt;br&gt;[[Leppa/fr|Mepo]] || style="background-color:#9C7D98;" | || [[File:Pecha.png|30px]]&lt;br&gt;[[Pecha/fr|Pêcha]] || style="background-color:#9C7D98;" | || [[File:Leppa.png|30px]]&lt;br&gt;[[Leppa/fr|Mepo]]
+|-
+| [[File:Sitrus.png|30px]]&lt;br&gt;[[Sitrus/fr|Sitrus]] || [[File:Oran.png|30px]]&lt;br&gt;[[Oran/fr|Oran]] || [[File:Aspear.png|30px]]&lt;br&gt;[[Aspear/fr|Willia]] || [[File:Oran.png|30px]]&lt;br&gt;[[Oran/fr|Oran]] || [[File:Sitrus.png|30px]]&lt;br&gt;[[Sitrus/fr|Sitrus]]
+|}
+
+=== Notes importantes ===
+
+Le temps total nécessaire pour obtenir un champs plein de Baies de première génération mûres est court à seulement dix minutes (sans modificatuers), mais la baie Prine peut s'avérer difficile à obtenir. Cela est principalement dû aux forts taux de mutation des baies indésirables qui pourraient muter sur la case centrale, combiné au temps court entre maturité et flétrissement des baies de première genération. Il est fréquent de passer par de nombreux cycles de ce processus de pousse avant d'obtenir ne serait-ce qu'une seule mutation de baie Prine. Le temps de croissance étant si court, si vous utilisez le Kwakarroisr, remplacez-le par un autre [[Oak Items/fr|objet de Chen]] dès que la baie Ceriz est mûre. De plus, bien qu'obtenir deux cycles de maturité de la baie Ceriz est possible pendant un cycle de Sitrus, il est souvent difficile de coordoner ce timing avec les autres baies. Lorsque les 8 baies sont mûres, assurez-vous d'appliquer du [[Farm Items/fr|Fertistantané]] sur la parcelle centrale, et utilisez aussitôt une [[Farm Items/fr|Pel' à Baie]] sur toute baie indésirable qui apparaît. Un suivi attentif de votre parcelle durant ce processus peut considérablement réduire le nombre de tentative de Prine avec d'obtenir une mutation.
+
+=== Tableau de chronométrage ===
+{| class="wikitable" | style="text-align: center;"
+|+ ''Tous les temps indiqués sont basés sur le temps restant avant que la première baie plantée n'arrive à maturité''
+! Baie !! Temps de plantation&lt;br&gt;sans modificateur!! Temps de plantation avec &lt;br&gt; Engrais ou Kwakarrosoir || Temps de plantation avec &lt;br&gt; Engrais et Kwakarrosoir
+| [[Sitrus/fr|Sitrus]] || - || - || -
+|-
+| [[Oran/fr|Oran]] || 5 mins avant maturité || 3 mins 20 secs avant maturité || rowspan=8|Non optimal
+|-
+| [[Leppa/fr|Mepo]] || 4 mins avant maturité || 2 mins 40 secs avant maturité
+|-
+| [[Aspear/fr|Willia]] || 2 mins avant maturité || 1 min 20 secs avant maturité
+|-
+| [[Rawst/fr|Fraive]] || 1 min 20 secs avant maturité || 53 secs avant maturité
+|-
+| [[Pecha/fr|Pêcha]] || 1 min avant maturité || 40 secs avant maturité
+|-
+| [[Chesto/fr|Maron]] || 40 secs avant maturité || 26 secs avant maturité
+|-
+| [[Cheri/fr|Ceriz]] || 30 secs avant maturité || 20 secs avant maturité
+|-
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Acquisition==
+===Dungeons===
+{{Loot/head‎|Berries}}
+{{LootItem|Berry Forest|Mythic|400 Clears}}
+{{LootItem|Radio Tower|Mythic|250 Clears}}
+{{LootItem|Cave of Origin|Mythic|150 Clears}}
+{{LootItem|Moor of Icirrus|Mythic|200 Clears}}
+{{LootItem|Pinwheel Forest|Mythic|200 Clears}}
+{{LootItem|Thrifty Megamart|Mythic|100 Clears}}
+|}
+|}
+&lt;/div&gt;
+
+&lt;br&gt;
+
+==Utiliser la Prine==
+Des agencements de Ferme utilisant la Prine peuvent être consulté sur ces pages:
+* [[Pokémon_Day_Care/fr|Maximiser le gain de pas pour une reproduction plus rapide des Pokémon]] 
+* [[Shiny Chance/fr|Maximiser les chances de Pokémon chromatiques pour rendre chromatique tous les Pokémon]]
+* [[Farming Setups/fr|Divers agencements de Ferme utiles]]
+&lt;br&gt;
+
+
+{{Berries}}
+
+[[Category:Farm]][[Category:Berries]]</text>
+    <contributor>
+      <username>LeChatMG</username>
+      <id>97</id>
+    </contributor>
+    <comment>Oubli de trad de "hour(s)"</comment>
+    <model>wikitext</model>
+    <parentid>22962</parentid>
+    <sha1>4bfd0a8754bb98ea23bf2416d638d0628abc8890</sha1>
+  </revision>
+  <revision>
+    <id>22962</id>
+    <timestamp>2022-08-09T21:19:48Z</timestamp>
+    <text bytes="7423" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #20 Prine
+|image   = [[File:Lum.png]]
+|caption = Cette Baie pousse lentement pour stocker les nutriments nécessaires à la santé des Pokémon. Cette Baie multiplie les effets des plants de Baie autour d'elle.
+|growtime  = 1h 0m 0s
+|harvest = 1 baie
+|replant = 0%
+|mutation = 0.1%
+|points = 1,000
+||flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*10 épicé
+*10 sèche
+*10 sucrée
+*10 amère
+*0 acide
+|helditem = [[File:Shaymin.png|30px]]Shaymin, [[File:Mew.png|30px]]Mew, [[File:Celebi.png|30px]]Celebi
+}}
+
+'''Prine''' est un type de [[Berries/fr|Baie]] qui peut être plantée dans la [[Farm/fr|Ferme]]. Elle s'obtient en entourant une parcelle avec les 8 [[Berries#Baies de Gen 1|Baies de première génération]] à maturité.
+
+== Tables de croissance ==
+=== Stades de croissance ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+|-
+! !! Pousse !! Arbuste !! Fleuri !! Mûr
+|-
+! Temps écoulé depuis plantation
+| 50 mins || 53 mins 20 secs || 56 mins 40 secs || 1 heure - 12 heures
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:LumTreeTaller.png|50px]] || &lt;center&gt; [[File:LumTreeBloom.png|50px]] || &lt;center&gt; [[File:LumTreeBerry.png|50px]]
+|-
+! rowspan=2|Aura (améliore les auras alentours)
+| rowspan=2|&lt;center&gt; N/A || &lt;center&gt; x1,01 || &lt;center&gt; x1,02 || &lt;center&gt;x1,03
+|-
+| colspan=3|'''Note&amp;nbsp;: Une Baie ne peut être affectée que par l'aura d'une seule Prine à la fois'''
+|}
+
+===Temps de croissance avec modificateurs===
+{| class="wikitable collapsible" | style="text-align: center;"
+! Modificateur !! Temps Maturité-Flétrissement !! Fertibérance nécessaire pour mûrir
+|-
+! Aucun
+| 1 hour -&lt;br&gt; 12 hours || ---
+|-
+! Engrais ou Kwakarrosoir
+| 40 mins -&lt;br&gt; 8 hours || 8 engrais
+|-
+! Engrais et Kwakarrosoir
+| 26 mins 40 secs -&lt;br&gt; 5 hours 20 mins || 6 engrais
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Flow Chart ==
+[[File:Lum_Flow_Chart1.png|500px]]
+&lt;br&gt;
+&lt;/div&gt;
+
+== Stratégie de mutation ==
+=== Formations de plantation possibles ===
+
+Vous pouvez remplir votre ferme de la manière suivante pour obtenir des baies Prine. Les cases violettes indiquent où les mutations peuvent avoir lieu.
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation de base
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Sitrus.png|30px]]&lt;br&gt;[[Sitrus/fr|Sitrus]] || style="width: 40px;" | [[File:Oran.png|30px]]&lt;br&gt;[[Oran/fr|Oran]] || style="width: 40px;" | [[File:Aspear.png|30px]]&lt;br&gt;[[Aspear/fr|Willia]]
+|-
+| [[File:Leppa.png|30px]]&lt;br&gt;[[Leppa/fr|Mepo]] || style="background-color:#9C7D98;" | || [[File:Pecha.png|30px]]&lt;br&gt;[[Pecha/fr|Pêcha]]
+|- style="height: 50px;"
+| [[File:Rawst.png|30px]]&lt;br&gt;[[Rawst/fr|Fraive]] || [[File:Chesto.png|30px]]&lt;br&gt;[[Chesto/fr|Maron]] || [[File:Cheri.png|30px]]&lt;br&gt;[[Cheri/fr|Ceriz]]
+|}
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation de plantation optimisée
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Sitrus.png|30px]]&lt;br&gt;[[Sitrus/fr|Sitrus]] || style="width: 40px;" | [[File:Oran.png|30px]]&lt;br&gt;[[Oran/fr|Oran]] || style="width: 40px;" | [[File:Aspear.png|30px]]&lt;br&gt;[[Aspear/fr|Willia]] || style="width: 40px;" | [[File:Oran.png|30px]]&lt;br&gt;[[Oran/fr|Oran]] || style="width: 40px;" | [[File:Sitrus.png|30px]]&lt;br&gt;[[Sitrus/fr|Sitrus]]
+|-
+| [[File:Leppa.png|30px]]&lt;br&gt;[[Leppa/fr|Mepo]] || style="background-color:#9C7D98;" | || [[File:Pecha.png|30px]]&lt;br&gt;[[Pecha/fr|Pêcha]] || style="background-color:#9C7D98;" | || [[File:Leppa.png|30px]]&lt;br&gt;[[Leppa/fr|Mepo]]
+|- style="height: 50px;"
+| [[File:Rawst.png|30px]]&lt;br&gt;[[Rawst/fr|Fraive]] || [[File:Chesto.png|30px]]&lt;br&gt;[[Chesto]] || [[File:Cheri.png|30px]]&lt;br&gt;[[Cheri/fr|Ceriz]] || [[File:Chesto.png|30px]]&lt;br&gt;[[Chesto]] || [[File:Rawst.png|30px]]&lt;br&gt;[[Rawst/fr|Fraive]] 
+|-
+| [[File:Leppa.png|30px]]&lt;br&gt;[[Leppa/fr|Mepo]] || style="background-color:#9C7D98;" | || [[File:Pecha.png|30px]]&lt;br&gt;[[Pecha/fr|Pêcha]] || style="background-color:#9C7D98;" | || [[File:Leppa.png|30px]]&lt;br&gt;[[Leppa/fr|Mepo]]
+|-
+| [[File:Sitrus.png|30px]]&lt;br&gt;[[Sitrus/fr|Sitrus]] || [[File:Oran.png|30px]]&lt;br&gt;[[Oran/fr|Oran]] || [[File:Aspear.png|30px]]&lt;br&gt;[[Aspear/fr|Willia]] || [[File:Oran.png|30px]]&lt;br&gt;[[Oran/fr|Oran]] || [[File:Sitrus.png|30px]]&lt;br&gt;[[Sitrus/fr|Sitrus]]
+|}
+
+=== Notes importantes ===
+
+Le temps total nécessaire pour obtenir un champs plein de Baies de première génération mûres est court à seulement dix minutes (sans modificatuers), mais la baie Prine peut s'avérer difficile à obtenir. Cela est principalement dû aux forts taux de mutation des baies indésirables qui pourraient muter sur la case centrale, combiné au temps court entre maturité et flétrissement des baies de première genération. Il est fréquent de passer par de nombreux cycles de ce processus de pousse avant d'obtenir ne serait-ce qu'une seule mutation de baie Prine. Le temps de croissance étant si court, si vous utilisez le Kwakarroisr, remplacez-le par un autre [[Oak Items/fr|objet de Chen]] dès que la baie Ceriz est mûre. De plus, bien qu'obtenir deux cycles de maturité de la baie Ceriz est possible pendant un cycle de Sitrus, il est souvent difficile de coordoner ce timing avec les autres baies. Lorsque les 8 baies sont mûres, assurez-vous d'appliquer du [[Farm Items/fr|Fertistantané]] sur la parcelle centrale, et utilisez aussitôt une [[Farm Items/fr|Pel' à Baie]] sur toute baie indésirable qui apparaît. Un suivi attentif de votre parcelle durant ce processus peut considérablement réduire le nombre de tentative de Prine avec d'obtenir une mutation.
+
+=== Tableau de chronométrage ===
+{| class="wikitable" | style="text-align: center;"
+|+ ''Tous les temps indiqués sont basés sur le temps restant avant que la première baie plantée n'arrive à maturité''
+! Baie !! Temps de plantation&lt;br&gt;sans modificateur!! Temps de plantation avec &lt;br&gt; Engrais ou Kwakarrosoir || Temps de plantation avec &lt;br&gt; Engrais et Kwakarrosoir
+| [[Sitrus/fr|Sitrus]] || - || - || -
+|-
+| [[Oran/fr|Oran]] || 5 mins avant maturité || 3 mins 20 secs avant maturité || rowspan=8|Non optimal
+|-
+| [[Leppa/fr|Mepo]] || 4 mins avant maturité || 2 mins 40 secs avant maturité
+|-
+| [[Aspear/fr|Willia]] || 2 mins avant maturité || 1 min 20 secs avant maturité
+|-
+| [[Rawst/fr|Fraive]] || 1 min 20 secs avant maturité || 53 secs avant maturité
+|-
+| [[Pecha/fr|Pêcha]] || 1 min avant maturité || 40 secs avant maturité
+|-
+| [[Chesto/fr|Maron]] || 40 secs avant maturité || 26 secs avant maturité
+|-
+| [[Cheri/fr|Ceriz]] || 30 secs avant maturité || 20 secs avant maturité
+|-
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Acquisition==
+===Dungeons===
+{{Loot/head‎|Berries}}
+{{LootItem|Berry Forest|Mythic|400 Clears}}
+{{LootItem|Radio Tower|Mythic|250 Clears}}
+{{LootItem|Cave of Origin|Mythic|150 Clears}}
+{{LootItem|Moor of Icirrus|Mythic|200 Clears}}
+{{LootItem|Pinwheel Forest|Mythic|200 Clears}}
+{{LootItem|Thrifty Megamart|Mythic|100 Clears}}
+|}
+|}
+&lt;/div&gt;
+
+&lt;br&gt;
+
+==Utiliser la Prine==
+Des agencements de Ferme utilisant la Prine peuvent être consulté sur ces pages:
+* [[Pokémon_Day_Care/fr|Maximiser le gain de pas pour une reproduction plus rapide des Pokémon]] 
+* [[Shiny Chance/fr|Maximiser les chances de Pokémon chromatiques pour rendre chromatique tous les Pokémon]]
+* [[Farming Setups/fr|Divers agencements de Ferme utiles]]
+&lt;br&gt;
+
+
+{{Berries}}
+
+[[Category:Farm]][[Category:Berries]]</text>
+    <contributor>
+      <username>LeChatMG</username>
+      <id>97</id>
+    </contributor>
+    <comment>Oubli de trad de "hour(s)"</comment>
+    <model>wikitext</model>
+    <parentid>22961</parentid>
+    <sha1>dda9ca7840b83648ca5a117df77d99f5d3cbcbaa</sha1>
+  </revision>
+  <revision>
+    <id>22961</id>
+    <timestamp>2022-08-09T21:18:14Z</timestamp>
+    <text bytes="7421" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #20 Prine
+|image   = [[File:Lum.png]]
+|caption = Cette Baie pousse lentement pour stocker les nutriments nécessaires à la santé des Pokémon. Cette Baie multiplie les effets des plants de Baie autour d'elle.
+|growtime  = 1h 0m 0s
+|harvest = 1 baie
+|replant = 0%
+|mutation = 0.1%
+|points = 1,000
+||flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*10 épicé
+*10 sèche
+*10 sucrée
+*10 amère
+*0 acide
+|helditem = [[File:Shaymin.png|30px]]Shaymin, [[File:Mew.png|30px]]Mew, [[File:Celebi.png|30px]]Celebi
+}}
+
+'''Prine''' est un type de [[Berries/fr|Baie]] qui peut être plantée dans la [[Farm/fr|Ferme]]. Elle s'obtient en entourant une parcelle avec les 8 [[Berries#Baies de Gen 1|Baies de première génération]] à maturité.
+
+== Tables de croissance ==
+=== Stades de croissance ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+|-
+! !! Pousse !! Arbuste !! Fleuri !! Mûr
+|-
+! Temps écoulé depuis plantation
+| 50 mins || 53 mins 20 secs || 56 mins 40 secs || 1 hour - 12 hours
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:LumTreeTaller.png|50px]] || &lt;center&gt; [[File:LumTreeBloom.png|50px]] || &lt;center&gt; [[File:LumTreeBerry.png|50px]]
+|-
+! rowspan=2|Aura (améliore les auras alentours)
+| rowspan=2|&lt;center&gt; N/A || &lt;center&gt; x1,01 || &lt;center&gt; x1,02 || &lt;center&gt;x1,03
+|-
+| colspan=3|'''Note&amp;nbsp;: Une Baie ne peut être affectée que par l'aura d'une seule Prine à la fois'''
+|}
+
+===Temps de croissance avec modificateurs===
+{| class="wikitable collapsible" | style="text-align: center;"
+! Modificateur !! Temps Maturité-Flétrissement !! Fertibérance nécessaire pour mûrir
+|-
+! Aucun
+| 1 hour -&lt;br&gt; 12 hours || ---
+|-
+! Engrais ou Kwakarrosoir
+| 40 mins -&lt;br&gt; 8 hours || 8 engrais
+|-
+! Engrais et Kwakarrosoir
+| 26 mins 40 secs -&lt;br&gt; 5 hours 20 mins || 6 engrais
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Flow Chart ==
+[[File:Lum_Flow_Chart1.png|500px]]
+&lt;br&gt;
+&lt;/div&gt;
+
+== Stratégie de mutation ==
+=== Formations de plantation possibles ===
+
+Vous pouvez remplir votre ferme de la manière suivante pour obtenir des baies Prine. Les cases violettes indiquent où les mutations peuvent avoir lieu.
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation de base
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Sitrus.png|30px]]&lt;br&gt;[[Sitrus/fr|Sitrus]] || style="width: 40px;" | [[File:Oran.png|30px]]&lt;br&gt;[[Oran/fr|Oran]] || style="width: 40px;" | [[File:Aspear.png|30px]]&lt;br&gt;[[Aspear/fr|Willia]]
+|-
+| [[File:Leppa.png|30px]]&lt;br&gt;[[Leppa/fr|Mepo]] || style="background-color:#9C7D98;" | || [[File:Pecha.png|30px]]&lt;br&gt;[[Pecha/fr|Pêcha]]
+|- style="height: 50px;"
+| [[File:Rawst.png|30px]]&lt;br&gt;[[Rawst/fr|Fraive]] || [[File:Chesto.png|30px]]&lt;br&gt;[[Chesto/fr|Maron]] || [[File:Cheri.png|30px]]&lt;br&gt;[[Cheri/fr|Ceriz]]
+|}
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation de plantation optimisée
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Sitrus.png|30px]]&lt;br&gt;[[Sitrus/fr|Sitrus]] || style="width: 40px;" | [[File:Oran.png|30px]]&lt;br&gt;[[Oran/fr|Oran]] || style="width: 40px;" | [[File:Aspear.png|30px]]&lt;br&gt;[[Aspear/fr|Willia]] || style="width: 40px;" | [[File:Oran.png|30px]]&lt;br&gt;[[Oran/fr|Oran]] || style="width: 40px;" | [[File:Sitrus.png|30px]]&lt;br&gt;[[Sitrus/fr|Sitrus]]
+|-
+| [[File:Leppa.png|30px]]&lt;br&gt;[[Leppa/fr|Mepo]] || style="background-color:#9C7D98;" | || [[File:Pecha.png|30px]]&lt;br&gt;[[Pecha/fr|Pêcha]] || style="background-color:#9C7D98;" | || [[File:Leppa.png|30px]]&lt;br&gt;[[Leppa/fr|Mepo]]
+|- style="height: 50px;"
+| [[File:Rawst.png|30px]]&lt;br&gt;[[Rawst/fr|Fraive]] || [[File:Chesto.png|30px]]&lt;br&gt;[[Chesto]] || [[File:Cheri.png|30px]]&lt;br&gt;[[Cheri/fr|Ceriz]] || [[File:Chesto.png|30px]]&lt;br&gt;[[Chesto]] || [[File:Rawst.png|30px]]&lt;br&gt;[[Rawst/fr|Fraive]] 
+|-
+| [[File:Leppa.png|30px]]&lt;br&gt;[[Leppa/fr|Mepo]] || style="background-color:#9C7D98;" | || [[File:Pecha.png|30px]]&lt;br&gt;[[Pecha/fr|Pêcha]] || style="background-color:#9C7D98;" | || [[File:Leppa.png|30px]]&lt;br&gt;[[Leppa/fr|Mepo]]
+|-
+| [[File:Sitrus.png|30px]]&lt;br&gt;[[Sitrus/fr|Sitrus]] || [[File:Oran.png|30px]]&lt;br&gt;[[Oran/fr|Oran]] || [[File:Aspear.png|30px]]&lt;br&gt;[[Aspear/fr|Willia]] || [[File:Oran.png|30px]]&lt;br&gt;[[Oran/fr|Oran]] || [[File:Sitrus.png|30px]]&lt;br&gt;[[Sitrus/fr|Sitrus]]
+|}
+
+=== Notes importantes ===
+
+Le temps total nécessaire pour obtenir un champs plein de Baies de première génération mûres est court à seulement dix minutes (sans modificatuers), mais la baie Prine peut s'avérer difficile à obtenir. Cela est principalement dû aux forts taux de mutation des baies indésirables qui pourraient muter sur la case centrale, combiné au temps court entre maturité et flétrissement des baies de première genération. Il est fréquent de passer par de nombreux cycles de ce processus de pousse avant d'obtenir ne serait-ce qu'une seule mutation de baie Prine. Le temps de croissance étant si court, si vous utilisez le Kwakarroisr, remplacez-le par un autre [[Oak Items/fr|objet de Chen]] dès que la baie Ceriz est mûre. De plus, bien qu'obtenir deux cycles de maturité de la baie Ceriz est possible pendant un cycle de Sitrus, il est souvent difficile de coordoner ce timing avec les autres baies. Lorsque les 8 baies sont mûres, assurez-vous d'appliquer du [[Farm Items/fr|Fertistantané]] sur la parcelle centrale, et utilisez aussitôt une [[Farm Items/fr|Pel' à Baie]] sur toute baie indésirable qui apparaît. Un suivi attentif de votre parcelle durant ce processus peut considérablement réduire le nombre de tentative de Prine avec d'obtenir une mutation.
+
+=== Tableau de chronométrage ===
+{| class="wikitable" | style="text-align: center;"
+|+ ''Tous les temps indiqués sont basés sur le temps restant avant que la première baie plantée n'arrive à maturité''
+! Baie !! Temps de plantation&lt;br&gt;sans modificateur!! Temps de plantation avec &lt;br&gt; Engrais ou Kwakarrosoir || Temps de plantation avec &lt;br&gt; Engrais et Kwakarrosoir
+| [[Sitrus/fr|Sitrus]] || - || - || -
+|-
+| [[Oran/fr|Oran]] || 5 mins avant maturité || 3 mins 20 secs avant maturité || rowspan=8|Non optimal
+|-
+| [[Leppa/fr|Mepo]] || 4 mins avant maturité || 2 mins 40 secs avant maturité
+|-
+| [[Aspear/fr|Willia]] || 2 mins avant maturité || 1 min 20 secs avant maturité
+|-
+| [[Rawst/fr|Fraive]] || 1 min 20 secs avant maturité || 53 secs avant maturité
+|-
+| [[Pecha/fr|Pêcha]] || 1 min avant maturité || 40 secs avant maturité
+|-
+| [[Chesto/fr|Maron]] || 40 secs avant maturité || 26 secs avant maturité
+|-
+| [[Cheri/fr|Ceriz]] || 30 secs avant maturité || 20 secs avant maturité
+|-
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Acquisition==
+===Dungeons===
+{{Loot/head‎|Berries}}
+{{LootItem|Berry Forest|Mythic|400 Clears}}
+{{LootItem|Radio Tower|Mythic|250 Clears}}
+{{LootItem|Cave of Origin|Mythic|150 Clears}}
+{{LootItem|Moor of Icirrus|Mythic|200 Clears}}
+{{LootItem|Pinwheel Forest|Mythic|200 Clears}}
+{{LootItem|Thrifty Megamart|Mythic|100 Clears}}
+|}
+|}
+&lt;/div&gt;
+
+&lt;br&gt;
+
+==Utiliser la Prine==
+Des agencements de Ferme utilisant la Prine peuvent être consulté sur ces pages:
+* [[Pokémon_Day_Care/fr|Maximiser le gain de pas pour une reproduction plus rapide des Pokémon]] 
+* [[Shiny Chance/fr|Maximiser les chances de Pokémon chromatiques pour rendre chromatique tous les Pokémon]]
+* [[Farming Setups/fr|Divers agencements de Ferme utiles]]
+&lt;br&gt;
+
+
+{{Berries}}
+
+[[Category:Farm]][[Category:Berries]]</text>
+    <contributor>
+      <username>LeChatMG</username>
+      <id>97</id>
+    </contributor>
+    <comment>Created page with "{{Berries}}"</comment>
+    <model>wikitext</model>
+    <parentid>22960</parentid>
+    <sha1>99b95e6b8f5dfd29dfa0b03d08c0b26741cb1b51</sha1>
+  </revision>
+</page>

@@ -1,0 +1,53 @@
+<page>
+  <title>Challenge Mode</title>
+  <ns>0</ns>
+  <id>3432</id>
+  <revision>
+    <id>13139</id>
+    <timestamp>2022-04-30T20:44:47Z</timestamp>
+    <text bytes="2600" space="preserve">{{Infobox battle item
+|name       = Challenge Mode
+|image      = [[File:Challenge_Modes_Start_Menu.png|thumb|372px]]
+|caption    = The Challenge Mode Modal upon starting the game
+}}
+
+'''Challenge Modes''' are in-game options to change the difficulty of the game.  There are currently 8 challenges, and once activated they cannot be deactivated on that save file.  There are no rewards for completing the challenges, other than for bragging rights.  The game is always designed to be 100% completable, even with all eight challenges active (although the methods may be different).  The recommended challenges are selected by default, however, you can click on them to disable that challenge.
+
+{| class="wikitable" style="text-align: center;"
+|-
+! Challenge !! Recommended !! Requirements
+|-
+| Regional Attack Debuff || Yes || Lowers Pokémon attack based on native region and highest reached region. (See [[Regions]] for the debuffs)
+|-
+| Require Complete Pokédex || Yes || Requires a complete regional pokédex before moving on to the next region. (See each [[Regions]] page for more)
+|-
+| No Click Attack || No || Prevents clicking on pokemon to deal damage.
+|-
+| No Battle Item || No || Prevents the use of the 6 [[Battle Items]] or the 12 [[Flutes]].
+|-
+| No Masterball || No || Prevents the use of [[Masterball|Masterballs]].
+|-
+| No Oak Item || No || Prevents the use of [[Oak Items]].
+|-
+| No Gem || No || Prevents the use of [[Gems]] and [[Flutes]].
+|-
+| No Protein || No || Prevents the use of [[Protein|Proteins]].
+|}
+
+===Challenge Mode Berries===
+
+If the No Oak Items challenge is active, the [[Chople]], [[Kebia]], [[Shuca]] and [[Charti]] [[Berries]] are unable to be obtained as they normally would be from the [[Farm]] as all four berries require Oak Items to be equipped in order to mutate. Instead, they become available for purchase from the Johto [[Berry Master]]. 
+
+===All Challenges Shiny Route Quest (ACSRQ) ===
+
+Many community members have developed and participate in a challenge that goes beyond what is offered via the standard Challenge Modes. ACSRQ is defined as not only playing using all 8 challenges (AC/A8C is also a popular challenge), but also capturing every Shiny Pokémon possible on each Route/Dungeon/Town etc. before proceeding to the next location in the game. More information can be found on the [https://discord.gg/a6DFe4p Pokéclicker Discord], the [https://discord.gg/eRBzdU9tVk ACSRQ Discord] where there is an active leaderboard that is maintained, and the [https://bit.ly/acsrq-leaderboard ACSRQ Leaderboard] where there are more resources and an FAQ.</text>
+    <contributor>
+      <username>LatiosRider</username>
+      <id>35</id>
+    </contributor>
+    <comment>/* Flutes can't be used in the No Battle Item and No Gem challenges */</comment>
+    <model>wikitext</model>
+    <parentid>13138</parentid>
+    <sha1>7dc3ceb57c107c69851c920cd935cc96aee55724</sha1>
+  </revision>
+</page>

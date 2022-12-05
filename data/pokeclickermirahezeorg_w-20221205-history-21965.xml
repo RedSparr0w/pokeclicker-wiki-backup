@@ -1,0 +1,99 @@
+<page>
+  <title>Template:Infobox Berry/en</title>
+  <ns>10</ns>
+  <id>7205</id>
+  <revision>
+    <id>20694</id>
+    <timestamp>2022-07-29T18:05:36Z</timestamp>
+    <text bytes="3224" space="preserve">{|class="infobox bordered" style="float:right; width:264px; font-size:90%; text-align:left; border:2px solid #404040; padding:3px;" cellpadding="3"
+|- 
+!colspan="2" style="font-size:110%; text-align:center; background-color:#{{Berries color dark}}; color:#FFF;"|{{{name}}}
+|-
+{{#if:{{{image&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} colspan="2" style="text-align:center;background-color:#FFF;" {{!}}{{{image}}}&lt;br /&gt;{{#if:{{{caption|}}}|&lt;br /&gt;{{{caption}}}}}
+{{!}}-
+}}
+{{#if:{{{growtime&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#{{Berries color light}}; color:#000;" {{!}}'''Total Growth Time'''
+{{!}}{{{growtime}}}
+{{!}}-
+}}
+{{#if:{{{harvest&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#{{Berries color light}}; color:#000;" {{!}}'''Harvest Amount'''
+{{!}}{{{harvest}}}
+{{!}}-
+}}
+{{#if:{{{replant&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#{{Berries color light}}; color:#000;" {{!}}'''Replant Rate'''
+{{!}}{{{replant}}}
+{{!}}-
+}}
+{{#if:{{{mutation&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#{{Berries color light}}; color:#000;" {{!}}'''Mutation Rate'''
+{{!}}{{{mutation}}}
+{{!}}-
+}}
+{{#if:{{{points&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#{{Berries color light}}; color:#000;" {{!}}'''Farm Points Gained'''
+{{!}}{{{points}}} {{farmpoints}}
+{{!}}-
+}}
+{{#if:{{{flavor&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#{{Berries color light}}; color:#000;" {{!}}'''Berry Flavors'''
+{{!}}{{{flavor}}}
+{{!}}-
+}}
+{{#if:{{{helditem&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#{{Berries color light}}; color:#000;" {{!}}'''Dropped by'''
+{{!}}{{{helditem}}}
+{{!}}-
+}}
+
+
+|}&lt;noinclude&gt;
+
+== Code ==
+&lt;pre&gt;{{Infobox Berry
+|name    =
+|image   =
+|caption =
+|growtime  =
+|harvest =
+|replant =
+|mutation =
+|points =
+|flavor =
+|helditem =
+}}&lt;/pre&gt;
+
+== Usage ==
+To use this template, place the code above at the top of an article and fill in the respective blanks.
+
+'''Where:'''
+*&lt;code&gt;name&lt;/code&gt; should be filled with the number of the berry in the dex (formatted #00) and the name of the berry.
+*&lt;code&gt;image&lt;/code&gt; should be filled with the berry's image.
+*&lt;code&gt;caption&lt;/code&gt; should be filled with the description of the berry from the in-game berrydex (or github).
+*&lt;code&gt;growtime&lt;/code&gt; should be filled with the time it takes for the berry to *fully* grow (with h/m/s as needed).
+*&lt;code&gt;harvest&lt;/code&gt; should be filled with the number of berries collected when manually harvesting the plant.
+*&lt;code&gt;replant&lt;/code&gt; should be filled with the replant rate of the berry.
+*&lt;code&gt;mutation&lt;/code&gt; should be filled with the mutation rate of the berry.
+*&lt;code&gt;points&lt;/code&gt; should be filled with the number of Farm Points gained on harvest ({{farmpoints}} is automatically added, don't add it yourself).
+*&lt;code&gt;flavor&lt;/code&gt; should be filled with the flavors of the berry. Copy and paste this code after the equals sign and fill in the numbers:
+&lt;pre&gt;&lt;div style="clear:both;"&gt;&lt;/div&gt;
+* # spicy
+* # dry
+* # sweet
+* # bitter
+* # sour
+&lt;/pre&gt;
+*&lt;code&gt;helditem&lt;/code&gt; should only be included if the berry is dropped by a wild Pokémon. It should be filled with the names of each Pokémon that can drop the berry.</text>
+    <contributor>
+      <username>FuzzyBot</username>
+      <id>133</id>
+    </contributor>
+    <comment>Updating to match new version of source page</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>3596db37779ec7bb56874e78a39c9311d0ed0308</sha1>
+  </revision>
+</page>

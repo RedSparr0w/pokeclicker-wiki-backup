@@ -1,0 +1,60 @@
+<page>
+  <title>Yache</title>
+  <ns>0</ns>
+  <id>762</id>
+  <revision>
+    <id>7870</id>
+    <timestamp>2020-12-05T19:38:25Z</timestamp>
+    <text bytes="1548" space="preserve">{{Infobox Berry
+|name    = #40 Yache
+|image   = [[File:Yache.png]]
+|caption = This Berry has a refreshing flavor that strikes a good balance of dryness and sourness. It tastes better chilled. This Berry slows the growth of nearby Berries.
+|growtime  = 12h 0m 0s
+|harvest = 25 berries
+|replant = 5%
+|points = 1,500
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 spicy 
+*10 dry
+*0 sweet
+*0 bitter
+*15 sour
+}}
+'''Yache''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by surrounding a [[Passho]] with 8 empty plots. The [[Passho]] will then have a chance to mutate into this berry.
+
+{| class="wikitable"
+|+ Growth Stage Durations
+! Seed !! Sprout !! Taller !! Bloom !! Berry
+|-
+| 0-3600s || 3600-14400s || 14400-28800s || 28800-43200s || 43200-86400s
+|-
+| [[File:AllTreeSeed.png|50px]] || [[File:AllTreeSprout.png|50px]] || [[File:YacheTreeTaller.png|50px]] || [[File:YacheTreeBloom.png|50px]] || [[File:YacheTreeBerry.png|50px]]
+|}
+
+=== Possible Planting Formations ===
+
+You can fill your [[farm]] in following way to obtain Yache berry.
+
+{| class="wikitable" style="text-align: center;"
+|+ Farm
+|- style="height: 50px;"
+| style="width: 40px;" | || style="width: 40px;" | || style="width: 40px;" | || style="width: 40px;" | || style="width: 40px;" | 
+|-
+| || [[File:Passho.png|30px]] [[Passho]] || || [[File:Passho.png|30px]] [[Passho]] ||
+|- style="height: 50px;"
+| || || || || 
+|-
+| || [[File:Passho.png|30px]] [[Passho]] || || [[File:Passho.png|30px]] [[Passho]] ||
+|- style="height: 50px;"
+| || || || || 
+|}</text>
+    <contributor>
+      <username>Claygame</username>
+      <id>22</id>
+    </contributor>
+    <comment>added image of berry in possible formation table</comment>
+    <model>wikitext</model>
+    <parentid>7869</parentid>
+    <sha1>dcfc0e25595b40fdc64a6c683d2e8debb3fb92ba</sha1>
+  </revision>
+</page>

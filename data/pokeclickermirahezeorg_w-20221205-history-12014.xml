@@ -1,0 +1,71 @@
+<page>
+  <title>Qualot</title>
+  <ns>0</ns>
+  <id>681</id>
+  <revision>
+    <id>7471</id>
+    <timestamp>2020-12-12T18:12:17Z</timestamp>
+    <text bytes="1860" space="preserve">{{Infobox Berry
+|name    = Qualot
+|image   = [[File:Qualot.png]]
+|caption = Even in places of constant rain and high humidity, this Berry's plant grows healthy and strong.
+|growtime  = 1h 20m 0s
+|harvest = 22 berries
+|replant = 20%
+|points = 550
+|flavor = {{!}} 10 {{!}} 0 {{!}} 10 {{!}} 0 {{!}} 10
+}}
+'''Qualot''' is a type of [[Berries|Berry]] that can be planted in [[Farm]]. It can be obtained by surrounding an empty plot with at least 10, but no more than 15 points of spicy, sweet and sour and 0 points of all other flavours. The [[Cheri]], [[Pecha]] and [[Aspear]] must be unlocked to unlock this berry.
+
+{| class="wikitable"
+|+ Harvest Stages durations
+! Seed !! Sprout !! Taller !! Bloom !! Berry
+|-
+| 0-230s || 230-1000s || 1000-2500s || 2500-4800s || 4800-9600s
+|-
+| [[File:AllTreeSeed.png|50px]] || [[File:AllTreeSprout.png|50px]] || [[File:QualotTreeTaller.png|50px]] || [[File:QualotTreeBloom.png|50px]] || [[File:QualotTreeBerry.png|50px]]
+|}
+
+=== Possible Planting Formations ===
+
+You can fill your [[farm]] in following way to obtain Qualot berry.
+
+{| class="wikitable" style="text-align: center;"
+|+ Farm
+|-
+| style="width: 40px;" | [[Pinap]] || style="width: 40px;" | || style="width: 40px;" | || style="width: 40px;" | [[Pinap]] || style="width: 40px;" | 
+|-
+| || [[Mago]] ||  ||  || [[Mago]] 
+|- style="height: 26px;"
+| || || || || 
+|-
+| [[Pinap]] || || || [[Pinap]] || 
+|-
+| || [[Mago]] ||  ||  || [[Mago]] 
+|}
+
+{| class="wikitable" style="text-align: center;"
+|+ Farm
+|-
+| style="width: 40px;" | || style="width: 40px;" | [[Cheri]] || style="width: 40px;" | || style="width: 40px;" | || style="width: 40px;" | [[Cheri]]
+|-
+| [[Pecha]] || [[Aspear]] ||  || [[Pecha]] || [[Aspear]] 
+|- style="height: 26px;"
+| || || || || 
+|-
+| || [[Cheri]] ||  || || [[Cheri]] 
+|-
+| [[Pecha]] || [[Aspear]] ||  || [[Pecha]] || [[Aspear]] 
+|}
+
+{{Berries}}</text>
+    <contributor>
+      <username>Claygame</username>
+      <id>22</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>7470</parentid>
+    <sha1>d7dfec2f387452f6db05fe9d006f0da4dd50ebb9</sha1>
+  </revision>
+</page>

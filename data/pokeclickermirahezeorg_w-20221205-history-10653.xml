@@ -1,0 +1,89 @@
+<page>
+  <title>Starf</title>
+  <ns>0</ns>
+  <id>794</id>
+  <revision>
+    <id>8140</id>
+    <timestamp>2021-02-01T18:09:04Z</timestamp>
+    <text bytes="3954" space="preserve">{{Infobox Berry
+|name    = #66 Starf
+|image   = [[File:Starf.png]]
+|caption = This Berry is considered a mirage. It was said to be so strong that it had to be abandoned at the world's edge.
+|growtime  = 1d
+|harvest = 0.5 berries
+|replant = 0%
+|points = 15,000
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*30 spicy 
+*10 dry
+*30 sweet
+*10 bitter
+*30 sour
+}}
+
+'''Starf''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by having at least 1 empty plot while encountering a shiny wandering Pokémon. At least one [[Berries#Gen 4 Berries | Gen 4]] or [[Berries#Gen 5 Berries | 5]] berry must be unlocked to unlock this berry. It emits an aura that increases [[Shiny Chance]].
+
+=== Growth Tables ===
+==== Growth Stages ====
+{| class="wikitable" | style = "image-rendering: pixelated"
+|+ Growth Stages
+! !! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 3 hours || 6 hours || 12 hours || 1 day - 5 days
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:StarfTreeTaller.png|50px]] || &lt;center&gt; [[File:StarfTreeBloom.png|50px]] || &lt;center&gt; [[File:StarfTreeBerry.png|50px]]
+|-
+! Aura (shiny chance)
+| || &lt;center&gt; x1.005 || &lt;center&gt; x1.01 || &lt;center&gt; x1.015
+|}
+
+==== Ripening Time with Modifiers  ====
+{| class="wikitable" | style="text-align: center;"
+! Modifier !! Ripe-Wither Time !! Boost Mulch Needed to Ripen
+|-
+! None
+| 1 day -&lt;br&gt; 5 days || &lt;center&gt; ---
+|-
+! Mulch or Sprayduck
+| 16 hours -&lt;br&gt; 80 hours || &lt;center&gt; 192 mulch
+|-
+! Mulch &amp; Sprayduck
+| 10 hours 40 mins -&lt;br&gt; 53 hours 20 mins || &lt;center&gt; 128 mulch
+|}
+
+=== Mutation Strategy ===
+==== Possible Planting Formations ====
+
+You can fill your farm in the following way to have the best chance to obtain Starf berries. Note that the setup omits a 24th [[Roseli]], as that would allow [[Custap]] berries to mutate, which would occupy the empty plots. Purple squares indicate where mutations can occur.
+
+{| class="wikitable" style="text-align: center;"
+|+ Farm
+|-
+| style="width: 50px;" | [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || style="width: 50px;" | [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || style="width: 50px;" | [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || style="width: 50px;" | [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || style="width: 50px;" | [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]]
+|- style="height: 26px;"
+| [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || style="background-color:#9C7D98;" | || [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || style="background-color:#9C7D98;" | || [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] 
+|- style="height: 26px;"
+| [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] 
+|-
+| [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] 
+|-
+| [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]]
+|}
+
+==== Important Notes ====
+
+If possible, it is highly recommended to obtain at least 8 Passho berries prior to obtaining the Starf Berry mutation. Without any Passho berries surrounding the Starf plot, harvesting a Starf plant ('''Even with a rich mulch applied''') will only ever yield 1 Starf Berry. Furthermore, harvesting a single ripe Starf berry with the maximum yield modifier (surrounded by ripe Passho berries (8 spots) and with a rich mulch applied to the plot it is on) will still only yield 8 Starf berries. It is necessary to use a combination of Passho berries and Ripe Mulch to increase the total amount of Starf berries one has (excluding finding additional Starf berries randomly or using the Enigma berry).
+
+{{Berries}}</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment>Important notes about harvesting Starf</comment>
+    <model>wikitext</model>
+    <parentid>8139</parentid>
+    <sha1>e609ce7578afc81e4bbc1d0d7d0e66ed7f2cc80b</sha1>
+  </revision>
+</page>

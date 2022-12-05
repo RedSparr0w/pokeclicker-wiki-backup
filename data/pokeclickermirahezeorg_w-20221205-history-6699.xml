@@ -1,0 +1,492 @@
+<page>
+  <title>Pokérus/fr</title>
+  <ns>0</ns>
+  <id>4542</id>
+  <revision>
+    <id>15817</id>
+    <timestamp>2022-07-23T13:16:30Z</timestamp>
+    <text bytes="3693" space="preserve">&lt;languages/&gt;
+[[File:Charmander_infected.png|thumb|200px|Un Salamèche Chromatique en Incubateur, infecté par le Pokérus [[File:Pokerus.png|20px]]]]
+
+==Description==
+Le Pokérus est une forme de vie microscopique pouvant s'attacher aux Pokémon, par lequel votre Pokémon de départ de Kanto sera infecté à Sinnoh. Il s'agit d'une mécanique avantageuse pour un Pokémon. Votre Pokémon de départ de Kanto se trouvera infecté après avoir passé le "Monde Distorsion" pour la première fois. À partir du moment où un Pokémon est infecté par le Pokérus, il pourra gagner des Effort Values (EVs), qui augmenteront l'attaque de ce Pokémon.
+
+==Propager le Pokérus==
+Le virus peut seulement se propager via la [[Pokémon Day Care| Pension]] . Actuellement, seul un Pokémon infecté par le Pokérus, et étant contagieux, est capable de le propager. Le faire éclore manuellement (sans l'aide d'Assistants) aux côtés d'autres Pokémon partageant au moins un type en commun permet de propager le virus. En bref, mettez votre Pokémon infecté ainsi qu'un à trois autres Pokémon partageant au moins un type, et aussi longtemps que votre Pokémon infecté n'a pas fini d'éclore, tous les autres Pokémon actuellement en couve (manuellement, sans Assistants) seront infectés par le Pokérus.
+
+==Effort Values (EV)==
+Les EV sont des statistiques de multiplication des dégâts pour chaque Pokémon. Ils ne peuvent actuellement être vus que sur la page Pokédex du Pokémon. Les EV d'un Pokémon augmentent en recapturant ce Pokémon ou en utilisant des objets d'évolution après qu'il ait attrapé le Pokérus. Gagner des EV peut se faire en obtenant le Pokémon sur une [[Route Statistics|Route]], dans un [[Dungeon|Donjon]], par [[Evolution Items|Objets d'évolution]], avec les [[Wandering Pokémon|Pokémon errants de la Ferme]] et bien d'autres moyens.
+
+
+====Gains d'EV ====
+La quantité d'EV gagnée dépend de la façon dont le Pokémon est attrapé. Si le [[Challenge Mode|Challenge des EV lents]] est activé, vous gagnerez 10x moins d'EVs.
+
+{| class="wikitable"
+! EV gagnés || Slow EV Challenge || Méthode de capture
+|-
+| 0.1 || 0.01 || Basique (Route avec une ball hors Repeatball)
+|-
+| 1 || 0.1 || Objet d'évolution
+|-
+| 1 || 0.1 || Pokémon Errants (Ferme)
+|-
+| 1 || 0.1 || Pokémon de Boutique
+|-
+| 1 || 0.1 || Pokémon du Safari
+|}
+
+De plus, selon le lieu de capture ou le type de Pokémon attrapé, les EV reçus peuvent recevoir un multiplicateur :
+
+{| class="wikitable"
+! Multiplicateur|| Caractéristique
+|-
+| X5 || Le Pokémon est chromatique
+|-
+| X3 || Le Pokémon est dans un donjon
+|-
+| X10 || Le Pokémon est le Boss d'un donjon
+|-
+| X50 || Le Pokémon est un Pokémon Itinérant
+|-
+| X5 || Le Pokémon a été capturé avec une Bis Ball
+|}
+
+==== Multiplicateur de Dégâts des EV ====
+Les EV bénéficient au joueur en augmentant la quantité de dégâts qu'un Pokémon inflige. Les EV peuvent multiplier les dégâts infligés jusqu'à 2x. Si vos EV sont inférieurs à 50, vous gagnez 1% de dégâts supplémentaires par EV. Par exemple, avec 5 EV, vous avez un multiplicateur de 1.05x pour ce Pokémon.
+{| class="wikitable"
+! Effort Value || Multiplicateur de dégâts du Pokémon
+|-
+| 50 || 1.5x
+|-
+| 85 || 1.6x
+|-
+| 172 || 1.7x
+|-
+| 375 || 1.8x
+|-
+| 824 || 1.9x
+|-
+| 1770 || 2x
+|}
+
+====Formules liées aux EVs====
+'''Lorsque l'Effort Value est inférieure à 50:''' &lt;br&gt;
+&lt;math&gt;\colorbox{White}{$ \text{EV Damage Multiplier} = 1 + (\text{EV} / 100)$}&lt;/math&gt; &lt;br&gt;&lt;br&gt;
+'''Lorsque l'Effort Value est égale ou supérieure à 50:''' &lt;br&gt;
+&lt;math&gt;\colorbox{White}{$ \text{EV Damage Multiplier} = 1 + \text{Min}(1, ((\text{EV} - 30)^{0.075} - 0.75 ))$}&lt;/math&gt;</text>
+    <contributor>
+      <username>Razikd</username>
+      <id>33</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>15816</parentid>
+    <sha1>72e03444c41bd09e6dff5a50aa3a6ce07b668e05</sha1>
+  </revision>
+  <revision>
+    <id>15816</id>
+    <timestamp>2022-07-23T13:16:07Z</timestamp>
+    <text bytes="3692" space="preserve">&lt;languages/&gt;
+[[File:Charmander_infected.png|thumb|200px|Un Salamèche Chromatique en Incubateur, infecté par le Pokérus [[File:Pokerus.png|20px]]]]
+
+==Description==
+Le Pokérus est une forme de vie microscopique pouvant s'attacher aux Pokémon, par lequel votre Pokémon de départ de Kanto sera infecté à Sinnoh. Il s'agit d'une mécanique avantageuse pour un Pokémon. Votre Pokémon de départ de Kanto se trouvera infecté après avoir passé le "Monde Distorsion" pour la première fois. À partir du moment où un Pokémon est infecté par le Pokérus, il pourra gagner des Effort Values (EVs), qui augmenteront l'attaque de ce Pokémon.
+
+==Propager le Pokérus==
+Le virus peut seulement se propager via la [[Pokémon Day Care| Pension]] . Actuellement, seul un Pokémon infecté par le Pokérus, et étant contagieux, est capable de le propager. Le faire éclore manuellement (sans l'aide d'Assistants) aux côtés d'autres Pokémon partageant au moins un type en commun permet de propager le virus. En bref, mettez votre Pokémon infecté ainsi qu'un à trois autres Pokémon partageant au moins un type, et aussi longtemps que votre Pokémon infecté n'a pas fini d'éclore, tous les autres Pokémon actuellement en couve (manuellement, sans Assistants) seront infectés par le Pokérus.
+
+==Effort Values (EV)==
+Les EV sont des statistiques de multiplication des dégâts pour chaque Pokémon. Ils ne peuvent actuellement être vus que sur la page Pokédex du Pokémon. Les EV d'un Pokémon augmentent en recapturant ce Pokémon ou en utilisant des objets d'évolution après qu'il ait attrapé le Pokérus. Gagner des EV peut se faire en obtenant le Pokémon sur une [[Route Statistics|Route]], dans un [[Dungeon|Donjon]], par [[Evolution Items|Objets d'évolution]], avec les [[Wandering Pokémon|Pokémon errants de la Ferme]] et bien d'autres moyens.
+
+
+====Gains d'EV ====
+La quantité d'EV gagnée dépend de la façon dont le Pokémon est attrapé. Si le [[Challenge Mode|Challenge des EV lents]] est activé, vous gagnerez 10x moins d'EVs.
+
+{| class="wikitable"
+! EV gagnés || Slow EV Challenge || Méthode de capture
+|-
+| 0.1 || 0.01 || Basique (Route avec une ball hors Repeatball)
+|-
+| 1 || 0.1 || Objet d'évolution
+|-
+| 1 || 0.1 || Pokémon Errants (Ferme)
+|-
+| 1 || 0.1 || Pokémon de Boutique
+|-
+| 1 || 0.1 || Pokémon du Safari
+|}
+
+De plus, selon le lieu de capture ou le type de Pokémon attrapé, les EV reçus peuvent recevoir un multiplicateur :
+
+{| class="wikitable"
+! Multiplicateur|| Caractéristique
+|-
+| X5 || Le Pokémon est chromatique
+|-
+| X3 || Le Pokémon est dans un donjon
+|-
+| X10 || Le Pokémon est le Boss d'un donjon
+|-
+| X50 || Le Pokémon est un Pokémon Itinérant
+|-
+| X5 || Le Pokémon a été capturé avec une Bis Ball
+|}
+
+==== Multiplicateur de Dégâts des EV ====
+Les EV bénéficient au joueur en augmentant la quantité de dégâts qu'un Pokémon inflige. Les EV peuvent multiplier les dégâts infligés jusqu'à 2x. Si vos EV sont inférieurs à 50, vous gagnez 1% de dégâts supplémentaires par EV. Par exemple, avec 5 EV, vous avez un multiplicateur de 1.05x pour ce Pokémon.
+{| class="wikitable"
+! Effort Value || Multiplicateur de dégâts du Pokémon
+|-
+| 50 || 1.5x
+|-
+| 85 || 1.6x
+|-
+| 172 || 1.7x
+|-
+| 375 || 1.8x
+|-
+| 824 || 1.9x
+|-
+| 1770 || 2x
+|}
+
+====Formules liées aux EVs====
+'''Lorsque l'Effort Value est inférieure à 50:''' &lt;br&gt;
+&lt;math&gt;\colorbox{White}{$ \text{EV Damage Multiplier} = 1 + (\text{EV} / 100)$}&lt;/math&gt; &lt;br&gt;&lt;br&gt;
+'''Lorque l'Effort Value est égale ou supérieure à 50:''' &lt;br&gt;
+&lt;math&gt;\colorbox{White}{$ \text{EV Damage Multiplier} = 1 + \text{Min}(1, ((\text{EV} - 30)^{0.075} - 0.75 ))$}&lt;/math&gt;</text>
+    <contributor>
+      <username>Razikd</username>
+      <id>33</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>15815</parentid>
+    <sha1>ea856d215f31fdec17272ca7b3996676f10b0ac0</sha1>
+  </revision>
+  <revision>
+    <id>15815</id>
+    <timestamp>2022-07-23T13:14:52Z</timestamp>
+    <text bytes="3690" space="preserve">&lt;languages/&gt;
+[[File:Charmander_infected.png|thumb|200px|Un Salamèche Chromatique en Incubateur, infecté par le Pokérus [[File:Pokerus.png|20px]]]]
+
+==Description==
+Le Pokérus est une forme de vie microscopique pouvant s'attacher aux Pokémon, par lequel votre Pokémon de départ de Kanto sera infecté à Sinnoh. Il s'agit d'une mécanique avantageuse pour un Pokémon. Votre Pokémon de départ de Kanto se trouvera infecté après avoir passé le "Monde Distorsion" pour la première fois. À partir du moment où un Pokémon est infecté par le Pokérus, il pourra gagner des Effort Values (EVs), qui augmenteront l'attaque de ce Pokémon.
+
+==Propager le Pokérus==
+Le virus peut seulement se propager via la [[Pokémon Day Care| Pension]] . Actuellement, seul un Pokémon infecté par le Pokérus, et étant contagieux, est capable de le propager. Le faire éclore manuellement (sans l'aide d'Assistants) aux côtés d'autres Pokémon partageant au moins un type en commun permet de propager le virus. En bref, mettez votre Pokémon infecté ainsi qu'un à trois autres Pokémon partageant au moins un type, et aussi longtemps que votre Pokémon infecté n'a pas fini d'éclore, tous les autres Pokémon actuellement en couve (manuellement, sans Assistants) seront infectés par le Pokérus.
+
+==Effort Values (EV)==
+Les EV sont des statistiques de multiplication des dégâts pour chaque Pokémon. Ils ne peuvent actuellement être vus que sur la page Pokédex du Pokémon. Les EV d'un Pokémon augmentent en recapturant ce Pokémon ou en utilisant des objets d'évolution après qu'il ait attrapé le Pokérus. Gagner des EV peut se faire en obtenant le Pokémon sur une [[Route Statistics|Route]], dans un [[Dungeon|Donjon]], par [[Evolution Items|Objets d'évolution]], avec les [[Wandering Pokémon|Pokémon errants de la Ferme]] et bien d'autres moyens.
+
+
+====Gains d'EV ====
+La quantité d'EV gagnée dépend de la façon dont le Pokémon est attrapé. Si le [[Challenge Mode|Challenge des EV lents]] est activé, vous gagnerez 10x moins d'EVs.
+
+{| class="wikitable"
+! EV gagnés || Slow EV Challenge || Méthode de capture
+|-
+| 0.1 || 0.01 || Basique (Route avec une ball hors Repeatball)
+|-
+| 1 || 0.1 || Objet d'évolution
+|-
+| 1 || 0.1 || Pokémon Errants (Ferme)
+|-
+| 1 || 0.1 || Pokémon de Boutique
+|-
+| 1 || 0.1 || Pokémon du Safari
+|}
+
+De plus, selon le lieu de capture ou le type de Pokémon attrapé, les EV reçus peuvent recevoir un multiplicateur :
+
+{| class="wikitable"
+! Multiplicateur|| Caractéristique
+|-
+| X5 || Le Pokémon est chromatique
+|-
+| X3 || Le Pokémon est dans un donjon
+|-
+| X10 || Le Pokémon est le Boss d'un donjon
+|-
+| X50 || Le Pokémon est un Pokémon Itinérant
+|-
+| X5 || Le Pokémon a été capturé avec une Bis Ball
+|}
+
+====Multiplicateur de Dégats des EVs====
+Les EVs bénéficient au joueur en augmentant la quantité de dégats qu'un Pokémon inflige. Les EVs peuvent multiplier les dégats infligés jusqu'à 2x. Si vos EVs sont inférieurs à 50, vous gagnez 1% de dégâts supplémentaires par EV. Par exemple, avec 5 EV, vous avez un multiplicateur de 1.05x pour ce Pokémon.
+{| class="wikitable"
+! Effort Value || Multiplicateur de dégats du Pokémon
+|-
+| 50 || 1.5x
+|-
+| 85 || 1.6x
+|-
+| 172 || 1.7x
+|-
+| 375 || 1.8x
+|-
+| 824 || 1.9x
+|-
+| 1770 || 2x
+|}
+
+====Formules liées aux EVs====
+'''Lorsque l'Effort Value est inférieure à 50:''' &lt;br&gt;
+&lt;math&gt;\colorbox{White}{$ \text{EV Damage Multiplier} = 1 + (\text{EV} / 100)$}&lt;/math&gt; &lt;br&gt;&lt;br&gt;
+'''Lorque l'Effort Value est égale ou supérieure à 50:''' &lt;br&gt;
+&lt;math&gt;\colorbox{White}{$ \text{EV Damage Multiplier} = 1 + \text{Min}(1, ((\text{EV} - 30)^{0.075} - 0.75 ))$}&lt;/math&gt;</text>
+    <contributor>
+      <username>Razikd</username>
+      <id>33</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>15814</parentid>
+    <sha1>23396a31519a5c5061c070273e3ccc982fa2afb8</sha1>
+  </revision>
+  <revision>
+    <id>15814</id>
+    <timestamp>2022-07-23T13:03:24Z</timestamp>
+    <text bytes="3270" space="preserve">&lt;languages/&gt;
+[[File:Charmander_infected.png|thumb|200px|Un Salamèche Chromatique en Incubateur, infecté par le Pokérus [[File:Pokerus.png|20px]]]]
+
+==Description==
+Le Pokérus est une forme de vie microscopique pouvant s'attacher aux Pokémon, par lequel votre Pokémon de départ de Kanto sera infecté à Sinnoh. Il s'agit d'une mécanique avantageuse pour un Pokémon. Votre Pokémon de départ de Kanto se trouvera infecté après avoir passé le "Monde Distorsion" pour la première fois. À partir du moment où un Pokémon est infecté par le Pokérus, il pourra gagner des Effort Values (EVs), qui augmenteront l'attaque de ce Pokémon.
+
+==Propager le Pokérus==
+Le virus peut seulement se propager via la [[Pokémon Day Care| Pension]] . Actuellement, seul un Pokémon infecté par le Pokérus, et étant contagieux, est capable de le propager. Le faire éclore manuellement (sans l'aide d'Assistants) aux côtés d'autres Pokémon partageant au moins un type en commun permet de propager le virus. En bref, mettez votre Pokémon infecté ainsi qu'un à trois autres Pokémon partageant au moins un type, et aussi longtemps que votre Pokémon infecté n'a pas fini d'éclore, tous les autres Pokémon actuellement en couve (manuellement, sans Assistants) seront infectés par le Pokérus.
+
+==Effort Values (EV)==
+Les EV sont des statistiques de multiplication des dégâts pour chaque Pokémon. Ils ne peuvent actuellement être vus que sur la page Pokédex du Pokémon. Les EV d'un Pokémon augmentent en recapturant ce Pokémon ou en utilisant des objets d'évolution après qu'il ait attrapé le Pokérus. Gagner des EV peut se faire en obtenant le Pokémon sur une [[Route Statistics|Route]], dans un [[Dungeon|Donjon]], par [[Evolution Items|Objets d'évolution]], avec les [[Wandering Pokémon|Pokémon errants de la Ferme]] et bien d'autres moyens.
+
+
+====Gains d'EVs====
+La quantité d'EV gagnée dépend de la façon dont le Pokémon est attrapé. Si le [[Challenge Mode|Slow EVs Challenge Mode]] est activé, vous gagnerez 10x moins d'EVs.
+&lt;br&gt;''Note: Les Pokémon chromatiques attrapés donnent 5x plus d'EVs que montré ci-dessous.''
+{| class="wikitable"
+! EVs gagnés || Slow EV Challenge || Méthode de capture
+|-
+| 0.1 || 0.01 || Pokémon d'une route
+|-
+| 0.2 || 0.02 || Pokémon d'un donjon
+|-
+| 1 || 0.1 || Objets d'évolution
+|}
+
+====Multiplicateur de Dégats des EVs====
+Les EVs bénéficient au joueur en augmentant la quantité de dégats qu'un Pokémon inflige. Les EVs peuvent multiplier les dégats infligés jusqu'à 2x. Si vos EVs sont inférieurs à 50, vous gagnez 1% de dégâts supplémentaires par EV. Par exemple, avec 5 EV, vous avez un multiplicateur de 1.05x pour ce Pokémon.
+{| class="wikitable"
+! Effort Value || Multiplicateur de dégats du Pokémon
+|-
+| 50 || 1.5x
+|-
+| 85 || 1.6x
+|-
+| 172 || 1.7x
+|-
+| 375 || 1.8x
+|-
+| 824 || 1.9x
+|-
+| 1770 || 2x
+|}
+
+====Formules liées aux EVs====
+'''Lorsque l'Effort Value est inférieure à 50:''' &lt;br&gt;
+&lt;math&gt;\colorbox{White}{$ \text{EV Damage Multiplier} = 1 + (\text{EV} / 100)$}&lt;/math&gt; &lt;br&gt;&lt;br&gt;
+'''Lorque l'Effort Value est égale ou supérieure à 50:''' &lt;br&gt;
+&lt;math&gt;\colorbox{White}{$ \text{EV Damage Multiplier} = 1 + \text{Min}(1, ((\text{EV} - 30)^{0.075} - 0.75 ))$}&lt;/math&gt;</text>
+    <contributor>
+      <username>Razikd</username>
+      <id>33</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>15813</parentid>
+    <sha1>800596ff77ef0796fb4f52366b1ff43bfddbf781</sha1>
+  </revision>
+  <revision>
+    <id>15813</id>
+    <timestamp>2022-07-23T12:59:56Z</timestamp>
+    <text bytes="3308" space="preserve">&lt;languages/&gt;
+[[File:Charmander_infected.png|thumb|200px|Un Salamèche Chromatique en Incubateur, infecté par le Pokérus [[File:Pokerus.png|20px]]]]
+
+==Description==
+Le Pokérus est une forme de vie microscopique pouvant s'attacher aux Pokémon, par lequel votre Pokémon de départ de Kanto sera infecté à Sinnoh. Il s'agit d'une mécanique avantageuse pour un Pokémon. Votre Pokémon de départ de Kanto se trouvera infecté après avoir passé le "Monde Distorsion" pour la première fois. À partir du moment où un Pokémon est infecté par le Pokérus, il pourra gagner des Effort Values (EVs), qui augmenteront l'attaque de ce Pokémon.
+
+==Propager le Pokérus==
+Le virus peut seulement se propager via la [[Pokémon Day Care| Pension]] . Actuellement, seul un Pokémon infecté par le Pokérus, et étant contagieux, est capable de le propager. Le faire éclore manuellement (sans l'aide d'Assistants) aux côtés d'autres Pokémon partageant au moins un type en commun permet de propager le virus. En bref, mettez votre Pokémon infecté ainsi qu'un à trois autres Pokémon partageant au moins un type, et aussi longtemps que votre Pokémon infecté n'a pas fini d'éclore, tous les autres Pokémon actuellement en couve (manuellement, sans Assistants) seront infectés par le Pokérus.
+
+==Effort Values (EV)==
+Les EV sont des statistiques de multiplication des dégâts pour chaque Pokémon. Ils ne peuvent actuellement être vus que sur la page Pokédex du Pokémon. Les EV d'un Pokémon augmentent en recapturant ce Pokémon ou en utilisant des objets d'évolution après qu'il ait attrapé le Pokérus. Gagner des EV peut se faire en capturant un Pokémon sur une [[Route Statistics|Route]], dans un [[Dungeon|Donjon]], par [[Evolution Items|Objets d'évolution]]. Les [[Breeding|éclosions]] et les [[Wandering Pokémon|Pokémon errants de la Ferme]] ne comptent pas pour gagner des EV.
+
+
+====Gains d'EVs====
+La quantité d'EV gagnée dépend de la façon dont le Pokémon est attrapé. Si le [[Challenge Mode|Slow EVs Challenge Mode]] est activé, vous gagnerez 10x moins d'EVs.
+&lt;br&gt;''Note: Les Pokémon chromatiques attrapés donnent 5x plus d'EVs que montré ci-dessous.''
+{| class="wikitable"
+! EVs gagnés || Slow EV Challenge || Méthode de capture
+|-
+| 0.1 || 0.01 || Pokémon d'une route
+|-
+| 0.2 || 0.02 || Pokémon d'un donjon
+|-
+| 1 || 0.1 || Objets d'évolution
+|}
+
+====Multiplicateur de Dégats des EVs====
+Les EVs bénéficient au joueur en augmentant la quantité de dégats qu'un Pokémon inflige. Les EVs peuvent multiplier les dégats infligés jusqu'à 2x. Si vos EVs sont inférieurs à 50, vous gagnez 1% de dégâts supplémentaires par EV. Par exemple, avec 5 EV, vous avez un multiplicateur de 1.05x pour ce Pokémon.
+{| class="wikitable"
+! Effort Value || Multiplicateur de dégats du Pokémon
+|-
+| 50 || 1.5x
+|-
+| 85 || 1.6x
+|-
+| 172 || 1.7x
+|-
+| 375 || 1.8x
+|-
+| 824 || 1.9x
+|-
+| 1770 || 2x
+|}
+
+====Formules liées aux EVs====
+'''Lorsque l'Effort Value est inférieure à 50:''' &lt;br&gt;
+&lt;math&gt;\colorbox{White}{$ \text{EV Damage Multiplier} = 1 + (\text{EV} / 100)$}&lt;/math&gt; &lt;br&gt;&lt;br&gt;
+'''Lorque l'Effort Value est égale ou supérieure à 50:''' &lt;br&gt;
+&lt;math&gt;\colorbox{White}{$ \text{EV Damage Multiplier} = 1 + \text{Min}(1, ((\text{EV} - 30)^{0.075} - 0.75 ))$}&lt;/math&gt;</text>
+    <contributor>
+      <username>Razikd</username>
+      <id>33</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>15812</parentid>
+    <sha1>4a6f861c0fa9d34f001b5d34f51ff83a2b9ca5d5</sha1>
+  </revision>
+  <revision>
+    <id>15812</id>
+    <timestamp>2022-07-23T12:55:32Z</timestamp>
+    <text bytes="3299" space="preserve">&lt;languages/&gt;
+[[File:Charmander_infected.png|thumb|200px|Un Salamèche Chromatique en Incubateur, infecté par le Pokérus [[File:Pokerus.png|20px]]]]
+
+==Description==
+Le Pokérus est une forme de vie microscopique pouvant s'attacher aux Pokémon, par lequel votre Pokémon de départ de Kanto sera infecté à Sinnoh. Il s'agit d'une mécanique avantageuse pour un Pokémon. Votre Pokémon de départ de Kanto se trouvera infecté après avoir passé le "Monde Distorsion" pour la première fois. À partir du moment où un Pokémon est infecté par le Pokérus, il pourra gagner des Effort Values (EVs), qui augmenteront l'attaque de ce Pokémon.
+
+==Propager le Pokérus==
+Le virus peut seulement se propager via la [[Pokémon Day Care| Pension]] . Actuellement, seul un Pokémon infecté par le Pokérus, et étant contagieux, est capable de le propager. Le faire éclore manuellement (sans l'aide d'Assistants) aux côtés d'autres Pokémon partageant au moins un type en commun permet de propager le virus. En bref, mettez votre Pokémon infecté ainsi qu'un à trois autres Pokémon partageant au moins un type, et aussi longtemps que votre Pokémon infecté n'a pas fini d'éclore, tous les autres Pokémon actuellement en couve (manuellement, sans Assistants) seront infectés par le Pokérus.
+
+==Effort Values (EVs)==
+Les EVs sont des statistiques de multiplication des dégats individuels de chaque Pokémon, ils ne peuvent actuellement être vus que sur la page Pokédex du Pokémon. Les EVs d'un Pokémon ne peuvent actuellement qu'être augmentés en recapturant ce Pokémon après qu'il ait attrapé Pokérus. Gagnaer des EVs peut se faire en capturant  un pokemon sur une [[Route Statistics|Route]], dans un [[Dungeon|Donjon]], par [[Evolution Items|Objets d'évolution]]. Les [[Breeding|éclosions]] et [[Wandering Pokémon|Pokémon voyageurs]] ne comptent pas pour gagner des EVs.
+
+
+====Gains d'EVs====
+La quantité d'EV gagnée dépend de la façon dont le Pokémon est attrapé. Si le [[Challenge Mode|Slow EVs Challenge Mode]] est activé, vous gagnerez 10x moins d'EVs.
+&lt;br&gt;''Note: Les Pokémon chromatiques attrapés donnent 5x plus d'EVs que montré ci-dessous.''
+{| class="wikitable"
+! EVs gagnés || Slow EV Challenge || Méthode de capture
+|-
+| 0.1 || 0.01 || Pokémon d'une route
+|-
+| 0.2 || 0.02 || Pokémon d'un donjon
+|-
+| 1 || 0.1 || Objets d'évolution
+|}
+
+====Multiplicateur de Dégats des EVs====
+Les EVs bénéficient au joueur en augmentant la quantité de dégats qu'un Pokémon inflige. Les EVs peuvent multiplier les dégats infligés jusqu'à 2x. Si vos EVs sont inférieurs à 50, vous gagnez 1% de dégâts supplémentaires par EV. Par exemple, avec 5 EV, vous avez un multiplicateur de 1.05x pour ce Pokémon.
+{| class="wikitable"
+! Effort Value || Multiplicateur de dégats du Pokémon
+|-
+| 50 || 1.5x
+|-
+| 85 || 1.6x
+|-
+| 172 || 1.7x
+|-
+| 375 || 1.8x
+|-
+| 824 || 1.9x
+|-
+| 1770 || 2x
+|}
+
+====Formules liées aux EVs====
+'''Lorsque l'Effort Value est inférieure à 50:''' &lt;br&gt;
+&lt;math&gt;\colorbox{White}{$ \text{EV Damage Multiplier} = 1 + (\text{EV} / 100)$}&lt;/math&gt; &lt;br&gt;&lt;br&gt;
+'''Lorque l'Effort Value est égale ou supérieure à 50:''' &lt;br&gt;
+&lt;math&gt;\colorbox{White}{$ \text{EV Damage Multiplier} = 1 + \text{Min}(1, ((\text{EV} - 30)^{0.075} - 0.75 ))$}&lt;/math&gt;</text>
+    <contributor>
+      <username>Razikd</username>
+      <id>33</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>15811</parentid>
+    <sha1>16283da1c99bced7d89fa134ec367237a47e1a94</sha1>
+  </revision>
+  <revision>
+    <id>15811</id>
+    <timestamp>2022-07-23T12:48:51Z</timestamp>
+    <text bytes="3283" space="preserve">&lt;languages/&gt;
+[[File:Charmander_infected.png|thumb|200px|Un Salamèche Chromatique en Incubateur, infecté par le Pokérus [[File:Pokerus.png|20px]]]]
+
+==Description==
+Le Pokérus est une forme de vie microscopique pouvant s'attacher aux Pokémon, par lequel votre Pokémon de départ de Kanto sera infecté à Sinnoh. Il s'agit d'une mécanique avantageuse pour un Pokémon. Votre Pokémon de départ de Kanto se trouvera infecté après avoir passé le "Monde Distorsion" pour la première fois. À partir du moment où un Pokémon est infecté par le Pokérus, il pourra gagner des Effort Values (EVs), qui augmenteront l'attaque de ce Pokémon.
+
+==Propager le Pokérus==
+Le virus peut seulement se propager via la [[Pokémon Day Care| Pension]] . Actuellement, seul un Pokémon infecté par le Pokérus, et étant contagieux, est capable de le propager. Le faire éclore  manuellement aux côtés d'autres Pokémon partageant au moins un type en commun permettra de propager le virus. En bref, mettez votre Pokémon infecté ainsi qu'un à trois autres Pokémon partageant au moins un type en commun, et aussi longtemps que votre Pokémon infecté n'a pas fini d'éclore, tous les autres Pokémon actuellement en couve (manuellement, sans helpers) seront infectés par le Pokérus.
+
+==Effort Values (EVs)==
+Les EVs sont des statistiques de multiplication des dégats individuels de chaque Pokémon, ils ne peuvent actuellement être vus que sur la page Pokédex du Pokémon. Les EVs d'un Pokémon ne peuvent actuellement qu'être augmentés en recapturant ce Pokémon après qu'il ait attrapé Pokérus. Gagnaer des EVs peut se faire en capturant  un pokemon sur une [[Route Statistics|Route]], dans un [[Dungeon|Donjon]], par [[Evolution Items|Objets d'évolution]]. Les [[Breeding|éclosions]] et [[Wandering Pokémon|Pokémon voyageurs]] ne comptent pas pour gagner des EVs.
+
+
+====Gains d'EVs====
+La quantité d'EV gagnée dépend de la façon dont le Pokémon est attrapé. Si le [[Challenge Mode|Slow EVs Challenge Mode]] est activé, vous gagnerez 10x moins d'EVs.
+&lt;br&gt;''Note: Les Pokémon chromatiques attrapés donnent 5x plus d'EVs que montré ci-dessous.''
+{| class="wikitable"
+! EVs gagnés || Slow EV Challenge || Méthode de capture
+|-
+| 0.1 || 0.01 || Pokémon d'une route
+|-
+| 0.2 || 0.02 || Pokémon d'un donjon
+|-
+| 1 || 0.1 || Objets d'évolution
+|}
+
+====Multiplicateur de Dégats des EVs====
+Les EVs bénéficient au joueur en augmentant la quantité de dégats qu'un Pokémon inflige. Les EVs peuvent multiplier les dégats infligés jusqu'à 2x. Si vos EVs sont inférieurs à 50, vous gagnez 1% de dégâts supplémentaires par EV. Par exemple, avec 5 EV, vous avez un multiplicateur de 1.05x pour ce Pokémon.
+{| class="wikitable"
+! Effort Value || Multiplicateur de dégats du Pokémon
+|-
+| 50 || 1.5x
+|-
+| 85 || 1.6x
+|-
+| 172 || 1.7x
+|-
+| 375 || 1.8x
+|-
+| 824 || 1.9x
+|-
+| 1770 || 2x
+|}
+
+====Formules liées aux EVs====
+'''Lorsque l'Effort Value est inférieure à 50:''' &lt;br&gt;
+&lt;math&gt;\colorbox{White}{$ \text{EV Damage Multiplier} = 1 + (\text{EV} / 100)$}&lt;/math&gt; &lt;br&gt;&lt;br&gt;
+'''Lorque l'Effort Value est égale ou supérieure à 50:''' &lt;br&gt;
+&lt;math&gt;\colorbox{White}{$ \text{EV Damage Multiplier} = 1 + \text{Min}(1, ((\text{EV} - 30)^{0.075} - 0.75 ))$}&lt;/math&gt;</text>
+    <contributor>
+      <username>Razikd</username>
+      <id>33</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>15810</parentid>
+    <sha1>e834870ca2c257699f4c9655111ea077c66a422a</sha1>
+  </revision>
+</page>

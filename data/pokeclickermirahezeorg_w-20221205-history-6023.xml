@@ -1,0 +1,55 @@
+<page>
+  <title>Translations:Shiny Chance/11/en</title>
+  <ns>0</ns>
+  <id>5048</id>
+  <revision>
+    <id>17011</id>
+    <timestamp>2022-07-25T17:17:59Z</timestamp>
+    <text bytes="6602" space="preserve">{| class="wikitable sortable collapsible collapsed"
+! Berry Types !! Full Strategy !! MESBM !! MSBM !! BD (hours) !! MRT (hours) !! U% !! MESBM w/ U% !! MSBM w/ U% !! ER
+|+Expanded Rate Table
+| rowspan=10|Chople ([[File:Chople.png|20px]]) || [[Pokemon Day Care#Chople + Empty Rows|Chople]]&lt;br&gt; ([[File:Chople.png|20px]]) || 1.56x || 1.00x || 10 hours || 10 hours || {{ #expr: 10/(10+10) * 100}} % || {{ #expr: (10/(10+10)) * (1.56-1) +1}}x || {{ #expr: (10/(10+10)) * (1.00 - 1) + 1}}.00x || 14
+|-
+| [[Pokemon Day Care#Chople + Yache/Haban|Chople + Yache]]&lt;br&gt; ([[File:Chople.png|20px]] + [[File:Yache.png|20px]])|| 1.56x || 1.00x || {{ #expr: 10/0.7round2 }} hours || {{ #expr: 10/0.7round2 }} hours || {{ #expr: (10/0.7)/((10/0.7) + (10/0.7)) * 100}} % || {{ #expr: ((10/0.7)/((10/0.7) + (10/0.7))) * (1.56-1) + 1}}x || {{ #expr: ((10/0.7)/((10/0.7) + (10/0.7))) * (1.00-1) + 1}}.00x || 14
+|-
+| [[Pokemon Day Care#Chople + Yache/Haban|Chople + Haban]]&lt;br&gt; ([[File:Chople.png|20px]] + [[File:Haban.png|20px]])|| 1.56x || 1.00x || {{ #expr: 10/0.5round2 }} hours || {{ #expr: 10/0.5round2 }} hours || {{ #expr: (10/0.5)/((10/0.5) + (10/0.5)) *100}} % || {{ #expr: ((10/0.5)/((10/0.5) + (10/0.5))) * (1.56-1) + 1}}x || {{ #expr: ((10/0.5)/((10/0.5) + (10/0.5))) * (1.00-1) + 1}}.00x || 14
+|-
+| [[Pokemon Day Care#Chople + Petaya|Chople + Petaya]]&lt;br&gt; ([[File:Chople.png|20px]] + [[File:Petaya.png|20px]]) || 1.56x || 1.00x || 4 days 10 hours || 24 hours || {{ #expr: (4*24 + 10)/((4*24 + 10) + 24) *100 round2}} % || {{ #expr: ((4*24 + 10)/((4*24 + 10) + 24)) * (1.56-1) + 1round2}} || {{ #expr: ((4*24 + 10)/((4*24 + 10) + 24)) * (1.00-1) + 1round2}}.00x || 10
+|-
+| [[Pokemon Day Care#Chople + Lum|Chople + Lum]]&lt;br&gt; ([[File:Chople.png|20px]] + [[File:Lum.png|20px]]) || 2.43x || 1.00x || 10 hours || 10 hours || {{ #expr: 10/(10+10) * 100}} % || {{ #expr: (10/(10+10)) * (2.43-1) + 1round2}} || {{ #expr: (10/(10+10)) * (1.00-1) + 1round2}}.00x || 6
+|-
+| [[Pokemon Day Care#Chople + Lum + Petaya|Chople + Lum + Petaya]]&lt;br&gt; ([[File:Chople.png|20px]] + [[File:Lum.png|20px]] + [[File:Petaya.png|20px]]) || 2.43x || 1.00x || 4 days 10 hours || 24 hours || {{ #expr: (4*24 + 10)/((4*24 + 10) + 24) *100 round2}} % || {{ #expr: ((4*24 + 10)/((4*24 + 10) + 24)) * (2.43-1) + 1round2}} || {{ #expr: ((4*24 + 10)/((4*24 + 10) + 24)) * (1.00-1) + 1round2}}.00x || 4
+|-
+| [[Pokemon Day Care#Chople + Babiri + Petaya|Chople + Babiri + Petaya]]&lt;br&gt; ([[File:Chople.png|20px]] + [[File:Babiri.png|20px]] + [[File:Petaya.png|20px]]) || 1.81x || 1.00x || 4 days 10 hours || 24 hours || {{ #expr: (4*24 + 10)/((4*24 + 10) + 24) *100 round2}} % || {{ #expr: ((4*24 + 10)/((4*24 + 10) + 24)) * (1.81-1) + 1round2}} || {{ #expr: ((4*24 + 10)/((4*24 + 10) + 24)) * (1.00-1) + 1round2}}.00x || 12
+|-
+| [[Pokemon Day Care#Chople + Babiri|Chople + Babiri]]&lt;br&gt; ([[File:Chople.png|20px]] + [[File:Babiri.png|20px]]) || 1.86x || 1.00x || 10 hours || 18 hours || {{ #expr: 10/(10 + 18) *100 round2}} % || {{ #expr: (10/(10 + 18)) * (1.86-1) + 1round2}} || {{ #expr: (10/(10 + 18)) * (1.00-1) + 1round2}}.00x || 11
+|-
+| [[Pokemon Day Care#Chople + Babiri + Lum|Chople + Babiri + Lum]]&lt;br&gt; ([[File:Chople.png|20px]] + [[File:Babiri.png|20px]] + [[File:Lum.png|20px]]) || 2.90x || 1.00x || 10 hours || 18 hours || {{ #expr: 10/(10 + 18) *100 round2}} % || {{ #expr: (10/(10 + 18)) * (2.90-1) + 1round2}} || {{ #expr: (10/(10 + 18)) * (1.00-1) + 1round2}}.00x || 5
+|-
+| [[Pokemon Day Care#Chople + Babiri + Petaya + Lum|Chople + Babiri + Petaya + Lum]]&lt;br&gt; ([[File:Chople.png|20px]] + [[File:Babiri.png|20px]] + [[File:Petaya.png|20px]] + [[File:Lum.png|20px]]) || 2.73x || 1.00x || 4 days 10 hours || 24 hours || {{ #expr: (4*24 + 10)/((4*24 + 10) + 24) *100 round2}} % || {{ #expr: ((4*24 + 10)/((4*24 + 10) + 24)) * (2.73-1) + 1round2}} || {{ #expr: ((4*24 + 10)/((4*24 + 10) + 24)) * (1.00-1) + 1round2}}.00x || 2
+|-
+| rowspan=3|Starf ([[File:Starf.png|20px]]) || [[Shiny Chance#Starf Planting Formation|Starf]]&lt;br&gt; ([[File:Starf.png|20px]]) || 1.00x || 1.45x || 96 hours || 24 hours || {{ #expr: (4)/(4 + 1) *100 round2}} % || {{ #expr: ((4)/(4 + 1)) * (1.00-1) + 1round2}}.00x || {{ #expr: ((4)/(4 + 1)) * (1.45-1) + 1round2}} || 13
+|-
+| [[Shiny Chance#Starf + Lum Planting Formation|Starf + Lum]]&lt;br&gt; ([[File:Starf.png|20px]] + [[File:Lum.png|20px]]) || 1.00x || 2.54x || 12 hours || 24 hours || {{ #expr: (12)/(12 + 24) *100 round2}} % || {{ #expr: ((12)/(12 + 24)) * (1.00-1) + 1round2}}.00x || {{ #expr: ((12)/(12 + 24)) * (2.54-1) + 1round2}} || 9
+|-
+| [[Shiny Chance#Starf + Lum + Petaya Planting Formation|Starf + Lum + Petaya]]&lt;br&gt; ([[File:Starf.png|20px]] + [[File:Lum.png|20px]] + [[File:Petaya.png|20px]]) || 1.00x || 2.43x || 4 days 12 hours || 24 hours || {{ #expr: (4*24 + 12)/((4*24 + 12) + 24) *100 round2}} % || {{ #expr: ((4*24 + 12)/((4*24 + 12) + 24)) * (1.00-1) + 1round2}}.00x || {{ #expr: ((4*24 + 12)/((4*24 + 12) + 24)) * (2.43-1) + 1round2}} || 3
+|-
+|rowspan=4|Starf &amp; Chople ([[File:Starf.png|20px]] &amp; [[File:Chople.png|20px]]) || [[Shiny Chance#Starf + Chople Planting Formation|Starf + Chople]]&lt;br&gt; ([[File:Starf.png|20px]] + [[File:Chople.png|20px]]) || 1.56x || 1.16x || 10 hours || 24 hours || {{ #expr: 10/(10 + 24) *100 round2}} % || {{ #expr: (10/(10 + 24)) * (1.56-1) + 1round2}} || {{ #expr: (10/(10 + 24)) * (1.16-1) + 1round2}} || 15
+|-
+| [[Shiny Chance#Starf + Chople + Petaya Planting Formation|Starf + Chople + Petaya]]&lt;br&gt; ([[File:Starf.png|20px]] + [[File:Chople.png|20px]] + [[File:Petaya.png|20px]]) || 1.56x || 1.14x || 4 days 10 hours || 24 hours || {{ #expr: (4*24 + 12)/((4*24 + 12) + 24) *100 round2}} % || {{ #expr: ((4*24 + 12)/((4*24 + 12) + 24)) * (1.56-1) + 1round2}} || {{ #expr: ((4*24 + 12)/((4*24 + 12) + 24)) * (1.14-1) + 1round2}} || 7
+|-
+| [[Shiny Chance#Starf + Lum + Chople Planting Formation|Starf + Lum + Chople]]&lt;br&gt; ([[File:Starf.png|20px]] + [[File:Lum.png|20px]] + [[File:Chople.png|20px]]) || 2.43x || 1.31x || 10 hours || 24 hours || {{ #expr: (10)/(10 + 24) *100 round2}} % || {{ #expr: ((10)/(10 + 24)) * (2.43-1) + 1round2}} || {{ #expr: ((10)/(10 + 24)) * (1.31-1) + 1round2}} || 8
+|-
+| [[Shiny Chance#Starf + Lum + Chople + Petaya Planting Formation|Starf + Lum + Chople + Petaya]]&lt;br&gt; ([[File:Starf.png|20px]] + [[File:Lum.png|20px]] + [[File:Chople.png|20px]] + [[File:Petaya.png|20px]]) || 2.43x || 1.25x || 4 days 10 hours || 24 hours || {{ #expr: (4*24 + 12)/((4*24 + 12) + 24) *100 round2}} % || {{ #expr: ((4*24 + 12)/((4*24 + 12) + 24)) * (2.43-1) + 1round2}} || {{ #expr: ((4*24 + 12)/((4*24 + 12) + 24)) * (1.25-1) + 1round2}} || 1
+|-
+|}</text>
+    <contributor>
+      <username>FuzzyBot</username>
+      <id>133</id>
+    </contributor>
+    <comment>Importing a new version from external source</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>f1d49323c17d77414386e2eed854f5886c963d73</sha1>
+  </revision>
+</page>

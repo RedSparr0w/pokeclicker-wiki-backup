@@ -1,0 +1,214 @@
+<page>
+  <title>Template:Infobox evolution item</title>
+  <ns>10</ns>
+  <id>1779</id>
+  <revision>
+    <id>10659</id>
+    <timestamp>2021-02-07T23:11:26Z</timestamp>
+    <text bytes="1072" space="preserve">{|class="infobox bordered" style="float:right; width:264px; font-size:90%; text-align:left; border:2px solid #4d4494; padding:3px;" cellpadding="3"
+|- 
+!colspan="2" style="font-size:110%; text-align:center; background-color:#615ea9; color:#FFF;" | {{{name}}}
+|-
+{{#if:{{{image&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} colspan="2" style="text-align:center;" {{!}}{{{image}}}{{#if:{{{symbol|}}}|&lt;br /&gt;{{{symbol}}}}}{{#if:{{{caption|}}}|&lt;br /&gt;{{{caption}}}}}
+{{!}}-
+}}
+{{#if:{{{price&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#757dbb; color:#000;" {{!}}'''Price'''
+{{!}}{{{price}}}
+{{!}}-
+}}
+{{#if:{{{location&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#757dbb; color:#000;" {{!}}'''Location'''
+{{!}}{{{location}}}
+{{!}}-
+}}
+{{#if:{{{helditem&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#757dbb; color:#000;" {{!}}'''Dropped by'''
+{{!}}{{{helditem}}}
+{{!}}-
+}}
+|}&lt;noinclude&gt;
+
+== Code ==
+&lt;pre&gt;{{Infobox character general
+|name       = 
+|image      = 
+|caption    = 
+|price      = 
+|location   = 
+|helditem   =
+}}&lt;/pre&gt;</text>
+    <contributor>
+      <username>Catie-cat</username>
+      <id>30</id>
+    </contributor>
+    <comment>added held item line</comment>
+    <model>wikitext</model>
+    <parentid>10658</parentid>
+    <sha1>7bcc5c2ab61c7d878d2f6e0203a76b16df771d52</sha1>
+  </revision>
+  <revision>
+    <id>10658</id>
+    <timestamp>2021-01-18T01:22:53Z</timestamp>
+    <text bytes="903" space="preserve">{|class="infobox bordered" style="float:right; width:264px; font-size:90%; text-align:left; border:2px solid #4d4494; padding:3px;" cellpadding="3"
+|- 
+!colspan="2" style="font-size:110%; text-align:center; background-color:#615ea9; color:#FFF;" | {{{name}}}
+|-
+{{#if:{{{image&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} colspan="2" style="text-align:center;" {{!}}{{{image}}}{{#if:{{{symbol|}}}|&lt;br /&gt;{{{symbol}}}}}{{#if:{{{caption|}}}|&lt;br /&gt;{{{caption}}}}}
+{{!}}-
+}}
+{{#if:{{{price&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#757dbb; color:#000;" {{!}}'''Price'''
+{{!}}{{{price}}}
+{{!}}-
+}}
+{{#if:{{{location&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#757dbb; color:#000;" {{!}}'''Location'''
+{{!}}{{{location}}}
+{{!}}-
+}}
+|}&lt;noinclude&gt;
+
+== Code ==
+&lt;pre&gt;{{Infobox character general
+|name       = 
+|image      = 
+|caption    = 
+|price      = 
+|location   = 
+}}&lt;/pre&gt;</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment>/* Code */</comment>
+    <model>wikitext</model>
+    <parentid>10657</parentid>
+    <sha1>b3ffd79fa380c1eba46beb7a57aebd2aba1f238c</sha1>
+  </revision>
+  <revision>
+    <id>10657</id>
+    <timestamp>2021-01-18T01:22:13Z</timestamp>
+    <text bytes="919" space="preserve">{|class="infobox bordered" style="float:right; width:264px; font-size:90%; text-align:left; border:2px solid #4d4494; padding:3px;" cellpadding="3"
+|- 
+!colspan="2" style="font-size:110%; text-align:center; background-color:#615ea9; color:#FFF;" | {{{name}}}
+|-
+{{#if:{{{image&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} colspan="2" style="text-align:center;" {{!}}{{{image}}}{{#if:{{{symbol|}}}|&lt;br /&gt;{{{symbol}}}}}{{#if:{{{caption|}}}|&lt;br /&gt;{{{caption}}}}}
+{{!}}-
+}}
+{{#if:{{{price&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#757dbb; color:#000;" {{!}}'''Price'''
+{{!}}{{{price}}}
+{{!}}-
+}}
+{{#if:{{{location&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#757dbb; color:#000;" {{!}}'''Location'''
+{{!}}{{{location}}}
+{{!}}-
+}}
+|}&lt;noinclude&gt;
+
+== Code ==
+&lt;pre&gt;{{Infobox character general
+|name       = 
+|image      = 
+|caption    = 
+|price      = 
+|held item   = 
+|location   = 
+}}&lt;/pre&gt;</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment>/* Code */</comment>
+    <model>wikitext</model>
+    <parentid>10656</parentid>
+    <sha1>8b5cd5ff84be2f1359a2034948781d166c8c16a9</sha1>
+  </revision>
+  <revision>
+    <id>10656</id>
+    <timestamp>2021-01-18T01:21:13Z</timestamp>
+    <text bytes="919" space="preserve">{|class="infobox bordered" style="float:right; width:264px; font-size:90%; text-align:left; border:2px solid #4d4494; padding:3px;" cellpadding="3"
+|- 
+!colspan="2" style="font-size:110%; text-align:center; background-color:#615ea9; color:#FFF;" | {{{name}}}
+|-
+{{#if:{{{image&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} colspan="2" style="text-align:center;" {{!}}{{{image}}}{{#if:{{{symbol|}}}|&lt;br /&gt;{{{symbol}}}}}{{#if:{{{caption|}}}|&lt;br /&gt;{{{caption}}}}}
+{{!}}-
+}}
+{{#if:{{{price&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#757dbb; color:#000;" {{!}}'''Price'''
+{{!}}{{{price}}}
+{{!}}-
+}}
+{{#if:{{{location&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#757dbb; color:#000;" {{!}}'''Location'''
+{{!}}{{{location}}}
+{{!}}-
+}}
+|}&lt;noinclude&gt;
+
+== Code ==
+&lt;pre&gt;{{Infobox character general
+|name       = 
+|image      = 
+|caption    = 
+|price      = 
+|location   = 
+|held item   = 
+}}&lt;/pre&gt;</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment>/* Code */</comment>
+    <model>wikitext</model>
+    <parentid>10655</parentid>
+    <sha1>99d431c73dd3a08c2535c7978ad99ea1dd123bcf</sha1>
+  </revision>
+  <revision>
+    <id>10655</id>
+    <timestamp>2021-01-18T01:16:18Z</timestamp>
+    <text bytes="918" space="preserve">{|class="infobox bordered" style="float:right; width:264px; font-size:90%; text-align:left; border:2px solid #4d4494; padding:3px;" cellpadding="3"
+|- 
+!colspan="2" style="font-size:110%; text-align:center; background-color:#615ea9; color:#FFF;" | {{{name}}}
+|-
+{{#if:{{{image&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} colspan="2" style="text-align:center;" {{!}}{{{image}}}{{#if:{{{symbol|}}}|&lt;br /&gt;{{{symbol}}}}}{{#if:{{{caption|}}}|&lt;br /&gt;{{{caption}}}}}
+{{!}}-
+}}
+{{#if:{{{price&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#757dbb; color:#000;" {{!}}'''Price'''
+{{!}}{{{price}}}
+{{!}}-
+}}
+{{#if:{{{location&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#757dbb; color:#000;" {{!}}'''Location'''
+{{!}}{{{location}}}
+{{!}}-
+}}
+|}&lt;noinclude&gt;
+
+== Code ==
+&lt;pre&gt;{{Infobox character general
+|name       = 
+|image      = 
+|caption    = 
+|price      = 
+|location   = 
+|held item   =
+}}&lt;/pre&gt;</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment>/* Code */</comment>
+    <model>wikitext</model>
+    <parentid>10654</parentid>
+    <sha1>307f9d3cc30ac0935a2bc5eb24dfe35aea4a7a09</sha1>
+  </revision>
+</page>

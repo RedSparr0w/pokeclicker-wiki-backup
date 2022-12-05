@@ -1,0 +1,237 @@
+<page>
+  <title>Kasib</title>
+  <ns>0</ns>
+  <id>770</id>
+  <revision>
+    <id>7989</id>
+    <timestamp>2022-05-20T17:57:07Z</timestamp>
+    <text bytes="4716" space="preserve">{{Infobox Berry
+|name    = #48 Kasib
+|image   = [[File:Kasib.png]]
+|caption = Considered to have a special power from the olden days, this Berry is sometimes dried and used as a good-luck charm. Nearby Pokémon are wary of this Berry plant.
+|growtime  = 5m 0s
+|harvest = 1 berry
+|replant = 100%
+|mutation = 5% after any wither
+|points = 25
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 spicy 
+*10 dry
+*20 sweet
+*0 bitter
+*0 sour
+}}
+
+'''Kasib''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. Letting any berry wither after unlocking any [[Berries#Gen 4 Berries|Gen 4]] or [[Berries#Gen 5 Berries|5]] berry has a 5% chance of spawning a Kasib plant in its place, as long as there are no [[Colbur]] plants in the farm. [[Farming Setups]] using Kasib can be found [[Farming Setups#Sprinklotad Leveling Strategy|here]].
+
+== Growth Tables ==
+=== Growth Stages ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 30 secs || 1 min || 2 mins || 5 mins - 1 day
+|-
+! Animation
+| [[File:AllTreeSprout.png|50px]] || [[File:KasibTreeTaller.png|50px]] || [[File:KasibTreeBloom.png|50px]] || [[File:KasibTreeBerry.png|50px]]
+|-
+! Aura (Wither Rate)
+| || &lt;center&gt; x1.25 || &lt;center&gt; x1.5 || &lt;center&gt; x2.0
+|}
+
+=== Ripening Time with Modifiers  ===
+{| class="wikitable" | style="text-align: center;"
+! Modifier !! Ripe-Wither Time !! Boost Mulch Needed to Ripen
+|-
+! None
+| 5 mins -&lt;br&gt; 23 hours 55 mins || ---
+|-
+! Mulch or Sprayduck
+| 3 mins 20 secs -&lt;br&gt; 15 hours 56 mins 40 secs || 1 mulch
+|-
+! Mulch &amp; Sprayduck
+| 2 mins 13 secs -&lt;br&gt; 10 hours 37 mins 47 secs || 1 mulch
+|}
+
+== Flow Chart ==
+[[File:Kasib_Flow_Chart1.png|350px]]
+&lt;br&gt;
+
+== Mutation Strategy ==
+=== Possible Planting Formations ===
+
+You can fill your farm in the following way to obtain Kasib berries. Purple squares indicate where mutations can occur.
+
+{| class="wikitable" style="text-align: center;"
+|+ Farm
+|- style="background-color:#9C7D98;"
+| style="width: 50px;" | [[File:Cheri.png|30px]]&lt;br&gt;'''[[Cheri]]''' || style="width: 50px;" | [[File:Cheri.png|30px]]&lt;br&gt;'''[[Cheri]]''' || style="width: 50px;" | [[File:Cheri.png|30px]]&lt;br&gt;'''[[Cheri]]''' || style="width: 50px;" | [[File:Cheri.png|30px]]&lt;br&gt;'''[[Cheri]]''' || style="width: 50px;" | [[File:Cheri.png|30px]]&lt;br&gt;'''[[Cheri]]'''
+|- style="background-color:#9C7D98;"
+| [[File:Cheri.png|30px]]&lt;br&gt;'''[[Cheri]]''' || [[File:Cheri.png|30px]]&lt;br&gt;'''[[Cheri]]''' || [[File:Cheri.png|30px]]&lt;br&gt;'''[[Cheri]]''' || [[File:Cheri.png|30px]]&lt;br&gt;'''[[Cheri]]''' || [[File:Cheri.png|30px]]&lt;br&gt;'''[[Cheri]]'''
+|- style="height: 26px; background-color:#9C7D98;"
+| [[File:Cheri.png|30px]]&lt;br&gt;'''[[Cheri]]''' || [[File:Cheri.png|30px]]&lt;br&gt;'''[[Cheri]]''' || [[File:Cheri.png|30px]]&lt;br&gt;'''[[Cheri]]''' || [[File:Cheri.png|30px]]&lt;br&gt;'''[[Cheri]]''' || [[File:Cheri.png|30px]]&lt;br&gt;'''[[Cheri]]'''
+|- style="background-color:#9C7D98;"
+| [[File:Cheri.png|30px]]&lt;br&gt;'''[[Cheri]]''' || [[File:Cheri.png|30px]]&lt;br&gt;'''[[Cheri]]''' || [[File:Cheri.png|30px]]&lt;br&gt;'''[[Cheri]]''' || [[File:Cheri.png|30px]]&lt;br&gt;'''[[Cheri]]''' || [[File:Cheri.png|30px]]&lt;br&gt;'''[[Cheri]]'''
+|- style="background-color:#9C7D98;"
+| [[File:Cheri.png|30px]]&lt;br&gt;'''[[Cheri]]''' || [[File:Cheri.png|30px]]&lt;br&gt;'''[[Cheri]]''' || [[File:Cheri.png|30px]]&lt;br&gt;'''[[Cheri]]''' || [[File:Cheri.png|30px]]&lt;br&gt;'''[[Cheri]]''' || [[File:Cheri.png|30px]]&lt;br&gt;'''[[Cheri]]'''
+|}
+
+==Uses==
+===Mutations===
+
+Kasib berries can be used to mutate the following berries.
+
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Colbur.png|20px]] [[Colbur]] || [[File:Rabuta.png|20px]] [[Rabuta]] &lt;br&gt; [[File:Payapa.png|20px]] [[Payapa]]
+|-
+| [[File:Petaya.png|20px]] [[Petaya]] || [[File:Occa.png|20px]] [[Occa]] [[File:Passho.png|20px]] [[Passho]] &lt;br&gt; [[File:Wacan.png|20px]] [[Wacan]] [[File:Rindo.png|20px]] [[Rindo]] &lt;br&gt; [[File:Yache.png|20px]] [[Yache]] [[File:Chople.png|20px]] [[Chople]] &lt;br&gt; [[File:Kebia.png|20px]] [[Kebia]] [[File:Shuca.png|20px]] [[Shuca]] &lt;br&gt; [[File:Coba.png|20px]] [[Coba]] [[File:Payapa.png|20px]] [[Payapa]] &lt;br&gt; [[File:Tanga.png|20px]] [[Tanga]] [[File:Charti.png|20px]] [[Charti]] &lt;br&gt; [[File:Haban.png|20px]] [[Haban]] [[File:Colbur.png|20px]] [[Colbur]] &lt;br&gt; [[File:Babiri.png|20px]] [[Babiri]] [[File:Chilan.png|20px]] [[Chilan]] &lt;br&gt; [[File:Roseli.png|20px]] [[Roseli]]
+|-
+|}
+
+==Acquisition==
+===Dungeons===
+{{Loot/head‎|Berries}}
+{{LootItem|Old Chateau|2|50 Clears}}
+{{LootItem|Distortion World|0.5|50 Clears}}
+{{LootItem|Flower Paradise|0.5|50 Clears}}
+{{LootItem|Celestial Tower|1|50 Clears}}
+{{LootItem|Pokémon Village|1|25 Clears}}
+|}
+|}
+
+&lt;br&gt;
+
+{{Berries}}
+
+[[Category:Farm]][[Category:Berries]]</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>7988</parentid>
+    <sha1>1732bb7f027bd9804803defb402c4b649e7aef88</sha1>
+  </revision>
+  <revision>
+    <id>7988</id>
+    <timestamp>2022-05-19T20:33:17Z</timestamp>
+    <text bytes="4779" space="preserve">{{Infobox Berry
+|name    = #48 Kasib
+|image   = [[File:Kasib.png]]
+|caption = Considered to have a special power from the olden days, this Berry is sometimes dried and used as a good-luck charm. Nearby Pokémon are wary of this Berry plant.
+|growtime  = 5m 0s
+|harvest = 1 berry
+|replant = 100%
+|mutation = 5% after any wither
+|points = 25
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 spicy 
+*10 dry
+*20 sweet
+*0 bitter
+*0 sour
+}}
+
+'''Kasib''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. Letting any berry wither after unlocking any [[Berries#Gen 4 Berries|Gen 4]] or [[Berries#Gen 5 Berries|5]] berry has a 5% chance of spawning a Kasib plant in its place, as long as there are no [[Colbur]] plants in the farm.
+
+== Growth Tables ==
+=== Growth Stages ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 30 secs || 1 min || 2 mins || 5 mins - 1 day
+|-
+! Animation
+| [[File:AllTreeSprout.png|50px]] || [[File:KasibTreeTaller.png|50px]] || [[File:KasibTreeBloom.png|50px]] || [[File:KasibTreeBerry.png|50px]]
+|-
+! Aura (Wither Rate)
+| || &lt;center&gt; x1.25 || &lt;center&gt; x1.5 || &lt;center&gt; x2.0
+|}
+
+=== Ripening Time with Modifiers  ===
+{| class="wikitable" | style="text-align: center;"
+! Modifier !! Ripe-Wither Time !! Boost Mulch Needed to Ripen
+|-
+! None
+| 5 mins -&lt;br&gt; 23 hours 55 mins || ---
+|-
+! Mulch or Sprayduck
+| 3 mins 20 secs -&lt;br&gt; 15 hours 56 mins 40 secs || 1 mulch
+|-
+! Mulch &amp; Sprayduck
+| 2 mins 13 secs -&lt;br&gt; 10 hours 37 mins 47 secs || 1 mulch
+|}
+
+== Flow Chart ==
+[[File:Kasib_Flow_Chart1.png|350px]]
+&lt;br&gt;
+
+== Mutation Strategy ==
+=== Possible Planting Formations ===
+
+You can fill your farm in the following way to obtain Kasib berries. Purple squares indicate where mutations can occur.
+
+{| class="wikitable" style="text-align: center;"
+|+ Farm
+|- style="background-color:#9C7D98;"
+| style="width: 50px;" | [[File:Cheri.png|30px]]&lt;br&gt;'''[[Cheri]]''' || style="width: 50px;" | [[File:Cheri.png|30px]]&lt;br&gt;'''[[Cheri]]''' || style="width: 50px;" | [[File:Cheri.png|30px]]&lt;br&gt;'''[[Cheri]]''' || style="width: 50px;" | [[File:Cheri.png|30px]]&lt;br&gt;'''[[Cheri]]''' || style="width: 50px;" | [[File:Cheri.png|30px]]&lt;br&gt;'''[[Cheri]]'''
+|- style="background-color:#9C7D98;"
+| [[File:Cheri.png|30px]]&lt;br&gt;'''[[Cheri]]''' || [[File:Cheri.png|30px]]&lt;br&gt;'''[[Cheri]]''' || [[File:Cheri.png|30px]]&lt;br&gt;'''[[Cheri]]''' || [[File:Cheri.png|30px]]&lt;br&gt;'''[[Cheri]]''' || [[File:Cheri.png|30px]]&lt;br&gt;'''[[Cheri]]'''
+|- style="height: 26px; background-color:#9C7D98;"
+| [[File:Cheri.png|30px]]&lt;br&gt;'''[[Cheri]]''' || [[File:Cheri.png|30px]]&lt;br&gt;'''[[Cheri]]''' || [[File:Cheri.png|30px]]&lt;br&gt;'''[[Cheri]]''' || [[File:Cheri.png|30px]]&lt;br&gt;'''[[Cheri]]''' || [[File:Cheri.png|30px]]&lt;br&gt;'''[[Cheri]]'''
+|- style="background-color:#9C7D98;"
+| [[File:Cheri.png|30px]]&lt;br&gt;'''[[Cheri]]''' || [[File:Cheri.png|30px]]&lt;br&gt;'''[[Cheri]]''' || [[File:Cheri.png|30px]]&lt;br&gt;'''[[Cheri]]''' || [[File:Cheri.png|30px]]&lt;br&gt;'''[[Cheri]]''' || [[File:Cheri.png|30px]]&lt;br&gt;'''[[Cheri]]'''
+|- style="background-color:#9C7D98;"
+| [[File:Cheri.png|30px]]&lt;br&gt;'''[[Cheri]]''' || [[File:Cheri.png|30px]]&lt;br&gt;'''[[Cheri]]''' || [[File:Cheri.png|30px]]&lt;br&gt;'''[[Cheri]]''' || [[File:Cheri.png|30px]]&lt;br&gt;'''[[Cheri]]''' || [[File:Cheri.png|30px]]&lt;br&gt;'''[[Cheri]]'''
+|}
+
+==Uses==
+===Mutations===
+
+Kasib berries can be used to mutate the following berries.
+
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Colbur.png|20px]] [[Colbur]] || [[File:Rabuta.png|20px]] [[Rabuta]] &lt;br&gt; [[File:Payapa.png|20px]] [[Payapa]]
+|-
+| [[File:Petaya.png|20px]] [[Petaya]] || [[File:Occa.png|20px]] [[Occa]] [[File:Passho.png|20px]] [[Passho]] &lt;br&gt; [[File:Wacan.png|20px]] [[Wacan]] [[File:Rindo.png|20px]] [[Rindo]] &lt;br&gt; [[File:Yache.png|20px]] [[Yache]] [[File:Chople.png|20px]] [[Chople]] &lt;br&gt; [[File:Kebia.png|20px]] [[Kebia]] [[File:Shuca.png|20px]] [[Shuca]] &lt;br&gt; [[File:Coba.png|20px]] [[Coba]] [[File:Payapa.png|20px]] [[Payapa]] &lt;br&gt; [[File:Tanga.png|20px]] [[Tanga]] [[File:Charti.png|20px]] [[Charti]] &lt;br&gt; [[File:Haban.png|20px]] [[Haban]] [[File:Colbur.png|20px]] [[Colbur]] &lt;br&gt; [[File:Babiri.png|20px]] [[Babiri]] [[File:Chilan.png|20px]] [[Chilan]] &lt;br&gt; [[File:Roseli.png|20px]] [[Roseli]]
+|-
+|}
+
+==Acquisition==
+===Dungeons===
+{{Loot/head‎|Berries}}
+{{LootItem|Old Chateau|2|50 Clears}}
+{{LootItem|Distortion World|0.5|50 Clears}}
+{{LootItem|Flower Paradise|0.5|50 Clears}}
+{{LootItem|Celestial Tower|1|50 Clears}}
+{{LootItem|Pokémon Village|1|25 Clears}}
+|}
+|}
+
+&lt;br&gt;
+==Using Kasib==
+Farm setups using Kasib can be found here:
+* [[Farming Setups#Sprinklotad Leveling Strategy|Special Setup to help level up the Sprinklotad]]
+&lt;br&gt;
+
+{{Berries}}
+
+[[Category:Farm]][[Category:Berries]]</text>
+    <contributor>
+      <username>Dragonkin550</username>
+      <id>27</id>
+    </contributor>
+    <comment>/* Using Kasib */ moving link to farming setups page</comment>
+    <model>wikitext</model>
+    <parentid>7987</parentid>
+    <sha1>acddd3d74a34f36da27cb4ed1d83be26ef20eb1a</sha1>
+  </revision>
+</page>

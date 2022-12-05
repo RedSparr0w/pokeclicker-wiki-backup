@@ -1,0 +1,137 @@
+<page>
+  <title>Seafloor Cavern</title>
+  <ns>0</ns>
+  <id>400</id>
+  <revision>
+    <id>5482</id>
+    <timestamp>2022-07-22T17:26:08Z</timestamp>
+    <text bytes="3774" space="preserve">{{Infobox dungeon
+|name    = Seafloor Cavern
+|image   = [[File:Seafloor Cavern.png|300px]]
+|caption = A map of Seafloor Cavern.
+|tokens  = 32,000
+|location = To the west of Route 128.
+}}
+'''Seafloor Cavern''' is a [[Dungeons|dungeon]] in [[Hoenn]]. It initially has 49 tiles arranged in a 7x7 square, including 7 chest tiles, 17 non-boss encounter tiles, and 1 boss encounter tile. Wild Encounters have 530,000 HP.
+
+== Encounter Tables ==
+
+===Wild Encounters===
+
+{| class="wikitable"
+|-
+! Wild Pokémon !! colspan=2|Trainers
+|-
+! Encounter !! Trainer !! Pokémon Team
+|-
+| [[File:Zubat.png|40px]] Zubat || [[File:Team_Aqua_Grunt_(male).png|40px]] Team Aqua Grunt || [[File:Poochyena.png|40px]] Poochyena
+|-
+| [[File:Golbat.png|40px]] Golbat || [[File:Team_Aqua_Grunt_(male).png|40px]] Team Aqua Grunt || [[File:Carvanha.png|40px]] Carvanha
+|-
+| [[File:Tentacool.png|40px]] Tentacool || [[File:Team_Aqua_Grunt_(male).png|40px]] Team Aqua Grunt || [[File:Zubat.png|40px]] Zubat
+|-
+| [[File:Magikarp.png|40px]] Magikarp || [[File:Team_Aqua_Grunt_(female).png|40px]] Team Aqua Grunt || [[File:Carvanha.png|40px]] Carvanha
+|-
+| rowspan=2|[[File:Wailmer.png|40px]] Wailmer || [[File:Team_Aqua_Grunt_(male).png|40px]] Team Aqua Grunt || [[File:Mightyena.png|40px]] Mightyena, [[File:Golbat.png|40px]] Golbat
+|-
+| [[File:Aqua_Admin_(shelly).png|40px]] Aqua Admin Shelly || [[File:Sharpedo.png|40px]] Sharpedo,[[File:Mightyena.png|40px]] Mightyena
+|-
+|}
+
+===Boss Encounters===
+{| class="wikitable"
+|-
+! Wild Pokémon !! Base Health !! Boss Trainer !! Pokémon Team !! Base Health
+|-
+| colspan=2 rowspan=3|&lt;center&gt;N/A || rowspan=2|[[File:Aqua_Leader.png|40px]] Aqua Leader Archie || [[File:Mightyena.png|40px]] Mightyena, [[File:Crobat.png|40px]] Crobat || &lt;center&gt;700,000
+|-
+| [[File:Sharpedo.png|40px]] Sharpedo || &lt;center&gt;900,000
+|}
+
+==Items==
+
+===No Debuff===
+
+{| class="wikitable"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+|-
+| align="center" colspan=6| '''Common'''
+|-
+| {{Bag2|xClick}} || N/A || 37.49% || 36.08% || 30.32%
+|-
+| {{Bag2|Token Collector}} || N/A || 37.49% || 36.08% || 30.32%
+|-
+| align="center" colspan=6| '''Rare'''
+|-
+| {{Bag2|Red Shard}} || N/A || 10.01% || 10.52% || 12.61%
+|-
+| {{Bag2|Ochre Shard}} || N/A || 10.01% || 10.52% || 12.61%
+|-
+| align="center" colspan=6| '''Epic'''
+|-
+| {{Bag2|Greatball}} || N/A || 2.01% || 2.61% || 5.05%
+|-
+| {{Bag2|Diveball}} || N/A || 2.01% || 2.61% || 5.05%
+|-
+| align="center" colspan=6| '''Legendary'''
+|-
+| {{Bag2|Stone Plate}} || 2 || 0.28% || 0.46% || 1.15%
+|-
+| {{Bag2|Icicle Plate}} || 2 || 0.28% || 0.46% || 1.15%
+|-
+| {{Bag2|Iron Plate}} || 2 || 0.28% || 0.46% || 1.15%
+|-
+| {{Bag2|Hard Stone}} || N/A || 0.14% || 0.23% || 0.58%
+|}
+
+===Debuff Drop Table===
+
+After Reaching Kalos, the drop chance for items in Hoenn will be debuffed for any loot with weight &lt; 2.
+
+{| class="wikitable collapsible collapsed"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+|-
+| align="center" colspan=6| '''Common'''
+|-
+| {{Bag2|xClick}} || N/A || 37.50% || 37.50% || 37.50%
+|-
+| {{Bag2|Token Collector}} || N/A || 37.50% || 37.50% || 37.50%
+|-
+| align="center" colspan=6| '''Rare'''
+|-
+| {{Bag2|Red Shard}} || N/A || 12.00% || 12.00% || 12.00%
+|-
+| {{Bag2|Ochre Shard}} || N/A || 12.00% || 12.00% || 12.00%
+|-
+| align="center" colspan=6| '''Epic'''
+|-
+| {{Bag2|Greatball}} || N/A || 0.45% || 0.45% || 0.45%
+|-
+| {{Bag2|Diveball}} || N/A || 0.45% || 0.45% || 0.45%
+|-
+| align="center" colspan=6| '''Legendary'''
+|-
+| {{Bag2|Stone Plate}} || 2 || 0.03% || 0.03% || 0.03%
+|-
+| {{Bag2|Icicle Plate}} || 2 || 0.03% || 0.03% || 0.03%
+|-
+| {{Bag2|Iron Plate}} || 2 || 0.03% || 0.03% || 0.03%
+|-
+| {{Bag2|Hard Stone}} || N/A || 0.01% || 0.01% || 0.01%
+|}
+
+{{Hoenn Dungeons}}
+
+[[Category:Dungeons]]</text>
+    <contributor>
+      <username>Dragonkin550</username>
+      <id>27</id>
+    </contributor>
+    <comment>/* Items */</comment>
+    <model>wikitext</model>
+    <parentid>5481</parentid>
+    <sha1>4648c4c3f3f6e77e1a94963cd11dd733bbf9c6be</sha1>
+  </revision>
+</page>

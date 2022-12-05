@@ -1,0 +1,80 @@
+<page>
+  <title>Meteor Falls</title>
+  <ns>0</ns>
+  <id>351</id>
+  <revision>
+    <id>5111</id>
+    <timestamp>2022-03-16T20:33:11Z</timestamp>
+    <text bytes="2069" space="preserve">{{Infobox dungeon
+|name    = Meteor Falls
+|image   = [[File:Meteor Falls.png]]
+|caption = A map of Meteor Falls.
+|tokens  = 18,000
+|location = North of Route 115.
+}}
+'''Meteor Falls''' is a [[Dungeons|dungeon]] in [[Hoenn]]. It initially has 49 tiles arranged in a 7x7 square, including 7 chest tiles, 17 non-boss encounter tiles, and 1 boss encounter tile.
+
+==Pokémon and Dungeon Stats==
+
+{| class="wikitable"
+|-
+! Wild Encounter !! Base Health !! Trainer !! Pokémon !! Base Health
+|-
+| [[File:Zubat.png|40px]] Zubat || rowspan=6| &lt;center&gt; 443,000 || rowspan=6|[[File:Old_Couple.png|40px]] Old Couple John and Jay || rowspan=6|[[File:Medicham.png|40px]] Medicham, [[File:Hariyama.png|40px]] Hariyama || rowspan=6| &lt;center&gt; 18,000
+|-
+| [[File:Golbat.png|40px]] Golbat
+|-
+| [[File:Goldeen.png|40px]] Goldeen
+|-
+| [[File:Magikarp.png|40px]] Magikarp
+|-
+| [[File:Barboach.png|40px]] Barboach
+|-
+| [[File:Shroomish.png|40px]] Shroomish
+|-
+! Boss !! Base Health !! Boss Trainer !! Pokémon !! Base Health
+|-
+| [[File:Solrock.png|40px]] Solrock || &lt;center&gt; rowspan=2|1,240,000 || rowspan=2|[[File:Dragon_Tamer.png|40px]] Dragon Tamer Nicolas || [[File:Altaria.png|40px]] Altaria || rowspan=2|&lt;center&gt; 640,000
+|-
+| [[File:Lunatone.png|40px]] Lunatone || [[File:Altaria.png|40px]] Altaria
+|}
+
+
+==Items==
+
+{| class="wikitable"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears !! Requirement
+|-
+| {{Bag3|Lucky Incense}} [[Lucky Incense]] || 4 || 74.39% || 73.28% ||  66.12% || rowspan=10|&lt;center&gt;N/A
+|-
+| {{Bag2|Cornn}} || 3.5 || 19.21% || 19.03% ||  17.55% 
+|-
+| {{Bag4|Greatball}} || 3 || 4.96% || 5.02% ||  5.01% 
+|-
+| {{Bag2|Stone Plate}} || 2 || 0.33% || 0.47% ||  1.94% 
+|-
+| {{Bag2|Iron Plate}} || 2 || 0.33% || 0.47% ||  1.94% 
+|-
+| {{Bag2|Sky Plate}} || 2 || 0.33% || 0.47% ||  1.94% 
+|-
+| {{Bag2|Draco Plate}} || 2 || 0.33% || 0.47% ||  1.94% 
+|-
+| {{Bag2|Mystery Egg}} || 1.5 || 0.09% || 0.36% ||  1.62% 
+|-
+| {{Bag2|Star Piece}} || 1 || 0.02% || 0.29% ||  1.29% 
+|-
+| {{Bag2|Moon Stone}}  || 0 || 0.00% || 0.15% ||  0.65% 
+|}
+
+[[Category:Dungeons]]</text>
+    <contributor>
+      <username>SomeonealiveQN</username>
+      <id>5</id>
+    </contributor>
+    <comment>/* Items */Added weight and new pattern</comment>
+    <model>wikitext</model>
+    <parentid>5110</parentid>
+    <sha1>ad03e7b29a3402ebdeca0a20139ca9917d166569</sha1>
+  </revision>
+</page>

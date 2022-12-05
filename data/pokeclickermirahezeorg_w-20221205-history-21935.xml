@@ -1,0 +1,145 @@
+<page>
+  <title>Template:Infobox Key Item/fr</title>
+  <ns>10</ns>
+  <id>7751</id>
+  <revision>
+    <id>21905</id>
+    <timestamp>2022-08-05T21:23:40Z</timestamp>
+    <text bytes="1072" space="preserve">{|class="infobox bordered" style="float:right; width:264px; font-size:90%; text-align:left; border:2px solid #000; padding:3px;" cellpadding="3"
+|- 
+!colspan="2" style="font-size:110%; text-align:center; background-color:#3f9ad8; color:#000;" | {{{name}}}
+|-
+{{#if:{{{image&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} colspan="2" style="text-align:center;" {{!}}{{{image}}}{{#if:{{{symbol|}}}|&lt;br /&gt;{{{symbol}}}}}{{#if:{{{caption|}}}|&lt;br /&gt;{{{caption}}}}}
+{{!}}-
+}}
+{{#if:{{{descript&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#3f9ad8; color:#000;" {{!}}'''Description'''
+{{!}}{{{descript}}}
+{{!}}-
+}}
+{{#if:{{{use&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#3f9ad8; color:#000;" {{!}}'''Usage'''
+{{!}}{{{use}}}
+{{!}}-
+}}
+{{#if:{{{obtain&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#3f9ad8; color:#000;" {{!}}'''Comment l'obtenir'''
+{{!}}{{{obtain}}}
+{{!}}-
+}}
+|}&lt;noinclude&gt;
+
+== Code ==
+&lt;pre&gt;{{Infobox character general
+|name       = 
+|image      = 
+|caption    = 
+|descript   = 
+|use        = 
+|obtain     = 
+}}&lt;/pre&gt;</text>
+    <contributor>
+      <username>PetroleVB</username>
+      <id>36</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>21904</parentid>
+    <sha1>e2febe724866c6432279910ee1f0353678f2676a</sha1>
+  </revision>
+  <revision>
+    <id>21904</id>
+    <timestamp>2022-08-05T21:22:10Z</timestamp>
+    <text bytes="1078" space="preserve">{|class="infobox bordered" style="float:right; width:264px; font-size:90%; text-align:left; border:2px solid #000; padding:3px;" cellpadding="3"
+|- 
+!colspan="2" style="font-size:110%; text-align:center; background-color:#3f9ad8; color:#000;" | {{{name}}}
+|-
+{{#if:{{{image&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} colspan="2" style="text-align:center;" {{!}}{{{image}}}{{#if:{{{symbol|}}}|&lt;br /&gt;{{{symbol}}}}}{{#if:{{{caption|}}}|&lt;br /&gt;{{{caption}}}}}
+{{!}}-
+}}
+{{#if:{{{descript&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#3f9ad8; color:#000;" {{!}}'''Description'''
+{{!}}{{{descript}}}
+{{!}}-
+}}
+{{#if:{{{use&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#3f9ad8; color:#000;" {{!}}'''Utilisation'''
+{{!}}{{{use}}}
+{{!}}-
+}}
+{{#if:{{{obtain&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#3f9ad8; color:#000;" {{!}}'''Comment l'obtenir'''
+{{!}}{{{obtain}}}
+{{!}}-
+}}
+|}&lt;noinclude&gt;
+
+== Code ==
+&lt;pre&gt;{{Infobox character general
+|name       = 
+|image      = 
+|caption    = 
+|descript   = 
+|use        = 
+|obtain     = 
+}}&lt;/pre&gt;</text>
+    <contributor>
+      <username>PetroleVB</username>
+      <id>36</id>
+    </contributor>
+    <comment>Created page with "{|class="infobox bordered" style="float:right; width:264px; font-size:90%; text-align:left; border:2px solid #000; padding:3px;" cellpadding="3" |-  !colspan="2" style="font-size:110%; text-align:center; background-color:#3f9ad8; color:#000;" | {{{name}}} |- {{#if:{{{image&lt;includeonly&gt;|&lt;/includeonly&gt;}}} | {{!}} colspan="2" style="text-align:center;" {{!}}{{{image}}}{{#if:{{{symbol|}}}|&lt;br /&gt;{{{symbol}}}}}{{#if:{{{caption|}}}|&lt;br /&gt;{{{caption}}}}} {{!}}- }} {{#if:{{{descr..."</comment>
+    <model>wikitext</model>
+    <parentid>21903</parentid>
+    <sha1>924b0efc2af16470f169bd01578c9aab1d49bf58</sha1>
+  </revision>
+  <revision>
+    <id>21903</id>
+    <timestamp>2022-08-05T21:18:29Z</timestamp>
+    <text bytes="1122" space="preserve">&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{|class="infobox bordered" style="float:right; width:264px; font-size:90%; text-align:left; border:2px solid #000; padding:3px;" cellpadding="3"
+|- 
+!colspan="2" style="font-size:110%; text-align:center; background-color:#3f9ad8; color:#000;" | {{{name}}}
+|-
+{{#if:{{{image&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} colspan="2" style="text-align:center;" {{!}}{{{image}}}{{#if:{{{symbol|}}}|&lt;br /&gt;{{{symbol}}}}}{{#if:{{{caption|}}}|&lt;br /&gt;{{{caption}}}}}
+{{!}}-
+}}
+{{#if:{{{descript&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#3f9ad8; color:#000;" {{!}}'''Description'''
+{{!}}{{{descript}}}
+{{!}}-
+}}
+{{#if:{{{use&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#3f9ad8; color:#000;" {{!}}'''Use'''
+{{!}}{{{use}}}
+{{!}}-
+}}
+{{#if:{{{obtain&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#3f9ad8; color:#000;" {{!}}'''How to obtain'''
+{{!}}{{{obtain}}}
+{{!}}-
+}}
+|}&lt;noinclude&gt;
+&lt;/div&gt;
+
+== Code ==
+&lt;pre&gt;{{Infobox character general
+|name       = 
+|image      = 
+|caption    = 
+|descript   = 
+|use        = 
+|obtain     = 
+}}&lt;/pre&gt;</text>
+    <contributor>
+      <username>PetroleVB</username>
+      <id>36</id>
+    </contributor>
+    <comment>Created page with "== Code == &lt;pre&gt;{{Infobox character general |name       =  |image      =  |caption    =  |descript   =  |use        =  |obtain     =  }}&lt;/pre&gt;"</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>b28f5376a2cf7194929302be8b4fd4ce2098f664</sha1>
+  </revision>
+</page>

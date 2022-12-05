@@ -1,0 +1,341 @@
+<page>
+  <title>Template:Infobox dungeon/fr</title>
+  <ns>10</ns>
+  <id>7745</id>
+  <revision>
+    <id>21896</id>
+    <timestamp>2022-08-05T21:15:10Z</timestamp>
+    <text bytes="1670" space="preserve">{|class="infobox bordered" style="float:right; width:264px; font-size:90%; text-align:left; border:2px solid #404040; padding:3px;" cellpadding="3"
+|- 
+!colspan="2" style="font-size:110%; text-align:center; background-color:#{{Dungeons color dark}}; color:#FFF;"|{{{name}}}
+|-
+{{#if:{{{image&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} colspan="2" style="text-align:center;background-color:#FFF;" {{!}}{{{image}}}&lt;br /&gt;{{#if:{{{caption|}}}|&lt;br /&gt;{{{caption}}}}}
+{{!}}-
+}}
+{{#if:{{{tokens&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#{{Dungeons color light}}; color:#000;" {{!}}'''Jetons requis'''
+{{!}}{{{tokens}}} {{Dungeontokens}}
+{{!}}-
+}}
+{{#if:{{{location&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#{{Dungeons color light}}; color:#000;" {{!}}'''Lieu'''
+{{!}}{{{location}}}
+{{!}}-
+}}
+
+
+|}&lt;noinclude&gt;
+
+== Code ==
+&lt;pre&gt;{{Infobox Dungeon
+|name    =
+|image   =
+|caption =
+|tokens  =
+|location =
+}}&lt;/pre&gt;
+
+== Utilisation ==
+Pour utiliser ce template, copiez le code ci-dessus en haut d'un article, et remplissez les valeurs respectives :
+
+'''Où :'''
+*&lt;code&gt;name&lt;/code&gt; doit être rempli avec le nom du donjon.
+*&lt;code&gt;image&lt;/code&gt; doit être rempli avec l'image du donjon, l'écran montré avant démarrage (attention, les images sont nommées d'après les noms anglais).
+*&lt;code&gt;caption&lt;/code&gt; doit être rempli avec une description de l'&lt;code&gt;image&lt;/code&gt; fournie.
+*&lt;code&gt;tokens&lt;/code&gt; doit être rempli avec le nombre de Jetons de Donjons requis pour entrer dans le donjon.
+*&lt;code&gt;location&lt;/code&gt; doit être rempli avec la localisation générale du donjon (par exemple la forêt de jade se trouve au nord de Jadielle sur la Route 2)</text>
+    <contributor>
+      <username>PetroleVB</username>
+      <id>36</id>
+    </contributor>
+    <comment>Created page with "{|class="infobox bordered" style="float:right; width:264px; font-size:90%; text-align:left; border:2px solid #404040; padding:3px;" cellpadding="3" |-  !colspan="2" style="font-size:110%; text-align:center; background-color:#{{Dungeons color dark}}; color:#FFF;"|{{{name}}} |- {{#if:{{{image&lt;includeonly&gt;|&lt;/includeonly&gt;}}} | {{!}} colspan="2" style="text-align:center;background-color:#FFF;" {{!}}{{{image}}}&lt;br /&gt;{{#if:{{{caption|}}}|&lt;br /&gt;{{{caption}}}}} {{!}}- }} {{#if:{{..."</comment>
+    <model>wikitext</model>
+    <parentid>21895</parentid>
+    <sha1>cb0f33d130d43ae420fabfe6a043f1cbeba10b17</sha1>
+  </revision>
+  <revision>
+    <id>21895</id>
+    <timestamp>2022-08-05T21:14:20Z</timestamp>
+    <text bytes="1730" space="preserve">&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{|class="infobox bordered" style="float:right; width:264px; font-size:90%; text-align:left; border:2px solid #404040; padding:3px;" cellpadding="3"
+|- 
+!colspan="2" style="font-size:110%; text-align:center; background-color:#{{Dungeons color dark}}; color:#FFF;"|{{{name}}}
+|-
+{{#if:{{{image&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} colspan="2" style="text-align:center;background-color:#FFF;" {{!}}{{{image}}}&lt;br /&gt;{{#if:{{{caption|}}}|&lt;br /&gt;{{{caption}}}}}
+{{!}}-
+}}
+{{#if:{{{tokens&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#{{Dungeons color light}}; color:#000;" {{!}}'''Tokens needed'''
+{{!}}{{{tokens}}} {{Dungeontokens}}
+{{!}}-
+}}
+{{#if:{{{location&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#{{Dungeons color light}}; color:#000;" {{!}}'''Location'''
+{{!}}{{{location}}}
+{{!}}-
+}}
+&lt;/div&gt;
+
+
+|}&lt;noinclude&gt;
+
+== Code ==
+&lt;pre&gt;{{Infobox Dungeon
+|name    =
+|image   =
+|caption =
+|tokens  =
+|location =
+}}&lt;/pre&gt;
+
+== Utilisation ==
+Pour utiliser ce template, copiez le code ci-dessus en haut d'un article, et remplissez les valeurs respectives :
+
+'''Où :'''
+*&lt;code&gt;name&lt;/code&gt; doit être rempli avec le nom du donjon.
+*&lt;code&gt;image&lt;/code&gt; doit être rempli avec l'image du donjon, l'écran montré avant démarrage (attention, les images sont nommées d'après les noms anglais).
+*&lt;code&gt;caption&lt;/code&gt; doit être rempli avec une description de l'&lt;code&gt;image&lt;/code&gt; fournie.
+*&lt;code&gt;tokens&lt;/code&gt; doit être rempli avec le nombre de Jetons de Donjons requis pour entrer dans le donjon.
+*&lt;code&gt;location&lt;/code&gt; doit être rempli avec la localisation générale du donjon (par exemple la forêt de jade se trouve au nord de Jadielle sur la Route 2)</text>
+    <contributor>
+      <username>PetroleVB</username>
+      <id>36</id>
+    </contributor>
+    <comment>Created page with "'''Où :''' *&lt;code&gt;name&lt;/code&gt; doit être rempli avec le nom du donjon. *&lt;code&gt;image&lt;/code&gt; doit être rempli avec l'image du donjon, l'écran montré avant démarrage (attention, les images sont nommées d'après les noms anglais). *&lt;code&gt;caption&lt;/code&gt; doit être rempli avec une description de l'&lt;code&gt;image&lt;/code&gt; fournie. *&lt;code&gt;tokens&lt;/code&gt; doit être rempli avec le nombre de Jetons de Donjons requis pour entrer dans le donjon. *&lt;code&gt;location&lt;/code&gt; doit être remp..."</comment>
+    <model>wikitext</model>
+    <parentid>21894</parentid>
+    <sha1>9f547da2839262ea2a35240b914b05dd1b700e83</sha1>
+  </revision>
+  <revision>
+    <id>21894</id>
+    <timestamp>2022-08-05T21:10:39Z</timestamp>
+    <text bytes="1727" space="preserve">&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{|class="infobox bordered" style="float:right; width:264px; font-size:90%; text-align:left; border:2px solid #404040; padding:3px;" cellpadding="3"
+|- 
+!colspan="2" style="font-size:110%; text-align:center; background-color:#{{Dungeons color dark}}; color:#FFF;"|{{{name}}}
+|-
+{{#if:{{{image&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} colspan="2" style="text-align:center;background-color:#FFF;" {{!}}{{{image}}}&lt;br /&gt;{{#if:{{{caption|}}}|&lt;br /&gt;{{{caption}}}}}
+{{!}}-
+}}
+{{#if:{{{tokens&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#{{Dungeons color light}}; color:#000;" {{!}}'''Tokens needed'''
+{{!}}{{{tokens}}} {{Dungeontokens}}
+{{!}}-
+}}
+{{#if:{{{location&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#{{Dungeons color light}}; color:#000;" {{!}}'''Location'''
+{{!}}{{{location}}}
+{{!}}-
+}}
+&lt;/div&gt;
+
+
+|}&lt;noinclude&gt;
+
+== Code ==
+&lt;pre&gt;{{Infobox Dungeon
+|name    =
+|image   =
+|caption =
+|tokens  =
+|location =
+}}&lt;/pre&gt;
+
+== Utilisation ==
+Pour utiliser ce template, copiez le code ci-dessus en haut d'un article, et remplissez les valeurs respectives :
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+'''Where:'''
+*&lt;code&gt;name&lt;/code&gt; should be filled with the name of the dungeon.
+*&lt;code&gt;image&lt;/code&gt; should be filled with the background image of the dungeon (from the screen before you start the dungeon).
+*&lt;code&gt;caption&lt;/code&gt; should be filled with a description of the &lt;code&gt;image&lt;/code&gt; spot.
+*&lt;code&gt;tokens&lt;/code&gt; should be filled with the number of dungeon tokens needed to enter the dungeon.
+*&lt;code&gt;location&lt;/code&gt; should be filled with the general location of the dungeon; i.e., Viridian Forest is north of Viridian City on Route 2.
+&lt;/div&gt;</text>
+    <contributor>
+      <username>PetroleVB</username>
+      <id>36</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>21893</parentid>
+    <sha1>4567a6a66e461c476c0c6a4566f595f31c6d4cc2</sha1>
+  </revision>
+  <revision>
+    <id>21893</id>
+    <timestamp>2022-08-05T21:06:34Z</timestamp>
+    <text bytes="1761" space="preserve">&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{|class="infobox bordered" style="float:right; width:264px; font-size:90%; text-align:left; border:2px solid #404040; padding:3px;" cellpadding="3"
+|- 
+!colspan="2" style="font-size:110%; text-align:center; background-color:#{{Dungeons color dark}}; color:#FFF;"|{{{name}}}
+|-
+{{#if:{{{image&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} colspan="2" style="text-align:center;background-color:#FFF;" {{!}}{{{image}}}&lt;br /&gt;{{#if:{{{caption|}}}|&lt;br /&gt;{{{caption}}}}}
+{{!}}-
+}}
+{{#if:{{{tokens&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#{{Dungeons color light}}; color:#000;" {{!}}'''Tokens needed'''
+{{!}}{{{tokens}}} {{Dungeontokens}}
+{{!}}-
+}}
+{{#if:{{{location&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#{{Dungeons color light}}; color:#000;" {{!}}'''Location'''
+{{!}}{{{location}}}
+{{!}}-
+}}
+&lt;/div&gt;
+
+
+|}&lt;noinclude&gt;
+
+== Code ==
+&lt;pre&gt;{{Infobox Dungeon
+|name    =
+|image   =
+|caption =
+|tokens  =
+|location =
+}}&lt;/pre&gt;
+
+== Utilisation ==
+Pour utiliser ce template, copier-coller le code ci-dessus en haut de la page et remplissez les valeurs des variables selon les règles suivantes :
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+'''Where:'''
+*&lt;code&gt;name&lt;/code&gt; should be filled with the name of the dungeon.
+*&lt;code&gt;image&lt;/code&gt; should be filled with the background image of the dungeon (from the screen before you start the dungeon).
+*&lt;code&gt;caption&lt;/code&gt; should be filled with a description of the &lt;code&gt;image&lt;/code&gt; spot.
+*&lt;code&gt;tokens&lt;/code&gt; should be filled with the number of dungeon tokens needed to enter the dungeon.
+*&lt;code&gt;location&lt;/code&gt; should be filled with the general location of the dungeon; i.e., Viridian Forest is north of Viridian City on Route 2.
+&lt;/div&gt;</text>
+    <contributor>
+      <username>PetroleVB</username>
+      <id>36</id>
+    </contributor>
+    <comment>Created page with "== Utilisation == Pour utiliser ce template, copier-coller le code ci-dessus en haut de la page et remplissez les valeurs des variables selon les règles suivantes :"</comment>
+    <model>wikitext</model>
+    <parentid>21892</parentid>
+    <sha1>65a446a062251f0b2a5fc5e54c5db23e182d17f8</sha1>
+  </revision>
+  <revision>
+    <id>21892</id>
+    <timestamp>2022-08-05T21:04:40Z</timestamp>
+    <text bytes="1766" space="preserve">&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{|class="infobox bordered" style="float:right; width:264px; font-size:90%; text-align:left; border:2px solid #404040; padding:3px;" cellpadding="3"
+|- 
+!colspan="2" style="font-size:110%; text-align:center; background-color:#{{Dungeons color dark}}; color:#FFF;"|{{{name}}}
+|-
+{{#if:{{{image&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} colspan="2" style="text-align:center;background-color:#FFF;" {{!}}{{{image}}}&lt;br /&gt;{{#if:{{{caption|}}}|&lt;br /&gt;{{{caption}}}}}
+{{!}}-
+}}
+{{#if:{{{tokens&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#{{Dungeons color light}}; color:#000;" {{!}}'''Tokens needed'''
+{{!}}{{{tokens}}} {{Dungeontokens}}
+{{!}}-
+}}
+{{#if:{{{location&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#{{Dungeons color light}}; color:#000;" {{!}}'''Location'''
+{{!}}{{{location}}}
+{{!}}-
+}}
+&lt;/div&gt;
+
+
+|}&lt;noinclude&gt;
+
+== Code ==
+&lt;pre&gt;{{Infobox Dungeon
+|name    =
+|image   =
+|caption =
+|tokens  =
+|location =
+}}&lt;/pre&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Usage ==
+To use this template, place the code above at the top of an article and fill in the respective blanks.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+'''Where:'''
+*&lt;code&gt;name&lt;/code&gt; should be filled with the name of the dungeon.
+*&lt;code&gt;image&lt;/code&gt; should be filled with the background image of the dungeon (from the screen before you start the dungeon).
+*&lt;code&gt;caption&lt;/code&gt; should be filled with a description of the &lt;code&gt;image&lt;/code&gt; spot.
+*&lt;code&gt;tokens&lt;/code&gt; should be filled with the number of dungeon tokens needed to enter the dungeon.
+*&lt;code&gt;location&lt;/code&gt; should be filled with the general location of the dungeon; i.e., Viridian Forest is north of Viridian City on Route 2.
+&lt;/div&gt;</text>
+    <contributor>
+      <username>PetroleVB</username>
+      <id>36</id>
+    </contributor>
+    <comment>Created page with "== Code == &lt;pre&gt;{{Infobox Dungeon |name    = |image   = |caption = |tokens  = |location = }}&lt;/pre&gt;"</comment>
+    <model>wikitext</model>
+    <parentid>21891</parentid>
+    <sha1>e803bb6a62a1779ca918ffb4bb9e3502d88da4bf</sha1>
+  </revision>
+  <revision>
+    <id>21891</id>
+    <timestamp>2022-08-05T21:04:34Z</timestamp>
+    <text bytes="1822" space="preserve">&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{|class="infobox bordered" style="float:right; width:264px; font-size:90%; text-align:left; border:2px solid #404040; padding:3px;" cellpadding="3"
+|- 
+!colspan="2" style="font-size:110%; text-align:center; background-color:#{{Dungeons color dark}}; color:#FFF;"|{{{name}}}
+|-
+{{#if:{{{image&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} colspan="2" style="text-align:center;background-color:#FFF;" {{!}}{{{image}}}&lt;br /&gt;{{#if:{{{caption|}}}|&lt;br /&gt;{{{caption}}}}}
+{{!}}-
+}}
+{{#if:{{{tokens&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#{{Dungeons color light}}; color:#000;" {{!}}'''Tokens needed'''
+{{!}}{{{tokens}}} {{Dungeontokens}}
+{{!}}-
+}}
+{{#if:{{{location&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#{{Dungeons color light}}; color:#000;" {{!}}'''Location'''
+{{!}}{{{location}}}
+{{!}}-
+}}
+&lt;/div&gt;
+
+
+|}&lt;noinclude&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Code ==
+&lt;pre&gt;{{Infobox Dungeon
+|name    =
+|image   =
+|caption =
+|tokens  =
+|location =
+}}&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Usage ==
+To use this template, place the code above at the top of an article and fill in the respective blanks.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+'''Where:'''
+*&lt;code&gt;name&lt;/code&gt; should be filled with the name of the dungeon.
+*&lt;code&gt;image&lt;/code&gt; should be filled with the background image of the dungeon (from the screen before you start the dungeon).
+*&lt;code&gt;caption&lt;/code&gt; should be filled with a description of the &lt;code&gt;image&lt;/code&gt; spot.
+*&lt;code&gt;tokens&lt;/code&gt; should be filled with the number of dungeon tokens needed to enter the dungeon.
+*&lt;code&gt;location&lt;/code&gt; should be filled with the general location of the dungeon; i.e., Viridian Forest is north of Viridian City on Route 2.
+&lt;/div&gt;</text>
+    <contributor>
+      <username>PetroleVB</username>
+      <id>36</id>
+    </contributor>
+    <comment>Created page with "Template:Infobox donjons"</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>38cee4524ff5ef5837bea8a15fde6a82b3b6c166</sha1>
+  </revision>
+</page>

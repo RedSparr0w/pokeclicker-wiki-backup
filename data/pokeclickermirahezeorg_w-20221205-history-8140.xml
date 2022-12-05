@@ -1,0 +1,83 @@
+<page>
+  <title>Tin Tower</title>
+  <ns>0</ns>
+  <id>370</id>
+  <revision>
+    <id>5256</id>
+    <timestamp>2022-04-20T03:37:54Z</timestamp>
+    <text bytes="1776" space="preserve">{{Infobox dungeon
+|name    = Tin Tower
+|image   = [[File:Tin Tower.png|thumb]]
+|caption = A map of Tin Tower.
+|tokens  = 4,500
+|location = Northeast of Ecruteak City.
+}}
+'''Tin Tower''' is a [[Dungeons|dungeon]] in [[Johto]]. It initially has 36 tiles arranged in a 6x6 square, including 6 chest tiles, 15 non-boss encounter tiles, and 1 boss encounter tile. Wild Encounters have 88,500 HP.
+
+== Encounter Tables ==
+
+===Wild Encounters===
+
+{| class="wikitable"
+|-
+! Wild Pokémon !! colspan=2|Trainers
+|-
+! Encounter !! Trainer !! Pokémon Team
+|-
+| [[File:Rattata.png|40px]] Rattata || colspan=2 rowspan=2|&lt;center&gt;N/A
+|-
+| [[File:Gastly.png|40px]] Gastly
+|-
+|}
+
+===Boss Encounters===
+{| class="wikitable"
+|-
+! Wild Pokémon !! Base Health !! Boss Trainer !! Pokémon Team !! Base Health
+|-
+| [[File:Raticate.png|40px]] Raticate || rowspan=2|&lt;center&gt;380,000 || colspan=3 rowspan=3|&lt;center&gt;N/A
+|-
+| [[File:Haunter.png|40px]] Haunter
+|-
+| [[File:Ho-Oh.png|40px]] '''Ho-Oh*''' || &lt;center&gt;1,410,000
+|}
+'''Note: Must have captured Suicune, Raikou, and Entei'''
+
+==Items==
+
+{| class="wikitable"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears !! Requirement 
+|-
+| {{Bag2|XClick}} || 4 || 49.49% || 49.09% || 46.01% || rowspan=9|&lt;center&gt;N/A
+|-
+| {{Bag2|Token Collector}} || 4 || 49.49% || 49.09% || 46.01% 
+|-
+| {{Bag2|Ultraball}} || 2 || 0.22% || 0.31% || 1.35% 
+|-
+| {{Bag2|Spooky Plate}} || 2 || 0.22% || 0.31% || 1.35% 
+|-
+| {{Bag2|Flame Plate}} || 2 || 0.22% || 0.31% || 1.35% 
+|-
+| {{Bag2|Sky Plate}} || 2 || 0.22% || 0.31% || 1.35% 
+|-
+| {{Bag2|Medium Restore}} || 1.75 || 0.11% || 0.27% || 1.24 
+|-
+| {{Bag2|Fire Egg}} || 1 || 0.016% || 0.19% || 0.90% 
+|-
+| {{Bag2|Max Revive}} || 0 || 0.0020% || 0.10% || 0.45% 
+|}
+
+{{Johto Dungeons}}
+
+[[Category:Dungeons]]</text>
+    <contributor>
+      <username>Slk</username>
+      <id>6</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>5255</parentid>
+    <sha1>77284d4faa90be192ccf533ce11f12b4a58c8e60</sha1>
+  </revision>
+</page>

@@ -1,0 +1,57 @@
+<page>
+  <title>Colbur</title>
+  <ns>0</ns>
+  <id>599</id>
+  <revision>
+    <id>7058</id>
+    <timestamp>2020-12-12T18:26:46Z</timestamp>
+    <text bytes="1491" space="preserve">{{Infobox Berry
+|name    = Colbur
+|image   = [[File:Colbur.png]]
+|caption = Tiny hooks grow on the surface of this Berry. It latches on to Pokémon so it can be carried to far-off places. It has a tendency to overtake nearby plants.
+|growtime  = 7h 30m 0s
+|harvest = 35 berries
+|replant = 5%
+|points = 2300
+|flavor = {{!}} 0 {{!}} 0 {{!}} 0 {{!}} 10 {{!}} 20
+}}
+'''Colbur''' is a type of [[Berries|Berry]] that can be planted in [[Farm]]. It can be obtained by surrounding an empty plot with at least 1 [[Rabuta]], at least 1 [[Kasib]] and at least 1 [[Payapa]].
+
+{| class="wikitable"
+|+ Harvest Stages durations
+! Seed !! Sprout !! Taller !! Bloom !! Berry
+|-
+| 0-2880s || 2880-10080s || 10080-19440s || 19440-27000s || 27000-54000s
+|-
+| [[File:AllTreeSeed.png|50px]] || &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:ColburTreeTaller.png|50px]] || &lt;center&gt;[[File:ColburTreeBloom.png|50px]] || &lt;center&gt; [[File:ColburTreeBerry.png|50px]]
+|}
+
+=== Possible Planting Formations ===
+
+You can fill your [[farm]] in following way to obtain Colbur berry.
+
+{| class="wikitable" style="text-align: center;"
+|+ Farm
+|-
+| style="width: 40px;" | || style="width: 40px;" | [[Rabuta]] || style="width: 40px;" | || style="width: 40px;" | || style="width: 40px;" | [[Rabuta]]
+|-
+| [[Kasib]] || [[Payapa]] ||  || [[Kasib]] || [[Payapa]] 
+|- style="height: 26px;"
+| || || || || 
+|-
+| || [[Rabuta]] ||  || || [[Rabuta]] 
+|-
+| [[Kasib]] || [[Payapa]] ||  || [[Kasib]] || [[Payapa]] 
+|}
+
+{{Berries}}</text>
+    <contributor>
+      <username>Claygame</username>
+      <id>22</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>7057</parentid>
+    <sha1>10b3cca2c9d96a0bc6efaff38f9c4c8cb02f8e99</sha1>
+  </revision>
+</page>

@@ -1,0 +1,345 @@
+<page>
+  <title>Lum</title>
+  <ns>0</ns>
+  <id>559</id>
+  <revision>
+    <id>6819</id>
+    <timestamp>2020-12-17T01:22:53Z</timestamp>
+    <text bytes="3565" space="preserve">{{Infobox Berry
+|name    = Lum
+|image   = [[File:Lum.png]]
+|caption = This Berry's gradual process of storing nutrients beneficial to Pokémon health causes it to mature slowly. This Berry minorly promotes the growth of Berry plants around it.
+|growtime  = 1h 0m 0s
+|harvest = 2 berries
+|replant = 0%
+|points = 1,000
+||flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*10 spicy 
+*10 dry
+*10 sweet
+*10 bitter
+*0 sour
+}}
+'''Lum''' is a type of [[Berries|Berry]] that can be planted in [[Farm]]. It can be obtained by surrounding an empty plot with all 8 berries from page 1 in the ripe stage.
+
+{| class="wikitable"
+|+ Growth Stages
+! !! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 50 mins || 53 mins 20 secs || 56 mins 40 secs || 1 hour - 2 hours
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:LumTreeTaller.png|50px]] || &lt;center&gt; [[File:LumTreeBloom.png|50px]] || &lt;center&gt; [[File:LumTreeBerry.png|50px]]
+|}
+
+=== Strategy and important notes ===
+
+The total growth time without modifiers is short at only ten minutes, but the Lum berry can be challenging to obtain due to the high mutation rates of unwanted berries that can mutate on center space, and the short ripe time of cherri berries. It is common to go through many full cycles of this process before a single Lum has been successfully mutated. As the growth time is so short, if you use the Squirtbottle be sure to switch it to another oak item as soon as the cherri berry is ripe. Furthermore, while getting two cycles of cherri berry ripeness is possible in one Sitrus ripe cycle, it is often difficult to coordinate with the other berries. When all 8 berries are ripe be sure to shovel any unwanted berries as they appear. Finally, be sure to apply a surprise mulch to the center plot whenever all 8 berries are ripe at once, this may dramatically reduce the number of Lum attempts necessary to achieve the mutation.
+
+{| class="wikitable floatcenter"
+|+ Timings
+! Berry !! Time !! Time with max&lt;br&gt;[[Sprayduck]]
+|-
+| [[Sitrus]] || ||
+|-
+| [[Oran]] || 5 mins || 3 mins 20 secs
+|-
+| [[Leppa]] || 6 mins || 4 mins
+|-
+| [[Aspear]] || 8 mins || 5 mins 20 secs
+|-
+| [[Rawst]] || 8 mins 40 secs || 5 mins 47 secs
+|-
+| [[Pecha]] || 9 mins || 6 mins
+|-
+| [[Chesto]] || 9 mins 20 secs || 6 mins 14 secs
+|-
+| [[Cheri]] || 9 mins 30 secs || 6 mins 20 secs
+|-
+|}
+
+=== Possible Planting Formations ===
+
+You can fill your [[farm]] in following way to obtain Lum berry.
+
+{| class="wikitable" style="text-align: center;"
+|+ Farm
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Sitrus.png|30px]]&lt;br&gt;[[Sitrus]] || style="width: 40px;" | [[File:Oran.png|30px]]&lt;br&gt;[[Oran]] || style="width: 40px;" | [[File:Aspear.png|30px]]&lt;br&gt;[[Aspear]] || style="width: 40px;" | [[File:Oran.png|30px]]&lt;br&gt;[[Oran]] || style="width: 40px;" | [[File:Sitrus.png|30px]]&lt;br&gt;[[Sitrus]]
+|-
+| [[File:Leppa.png|30px]]&lt;br&gt;[[Leppa]] || || [[File:Pecha.png|30px]]&lt;br&gt;[[Pecha]] ||  || [[File:Leppa.png|30px]]&lt;br&gt;[[Leppa]]
+|- style="height: 50px;"
+| [[File:Rawst.png|30px]]&lt;br&gt;[[Rawst]] || [[File:Chesto.png|30px]]&lt;br&gt;[[Chesto]] || [[File:Cheri.png|30px]]&lt;br&gt;[[Cheri]] || [[File:Chesto.png|30px]]&lt;br&gt;[[Chesto]] || [[File:Rawst.png|30px]]&lt;br&gt;[[Rawst]] 
+|-
+| [[File:Leppa.png|30px]]&lt;br&gt;[[Leppa]] ||  || [[File:Pecha.png|30px]]&lt;br&gt;[[Pecha]] || || [[File:Leppa.png|30px]]&lt;br&gt;[[Leppa]]
+|-
+| [[File:Sitrus.png|30px]]&lt;br&gt;[[Sitrus]] || [[File:Oran.png|30px]]&lt;br&gt;[[Oran]] || [[File:Aspear.png|30px]]&lt;br&gt;[[Aspear]] || [[File:Oran.png|30px]]&lt;br&gt;[[Oran]] || [[File:Sitrus.png|30px]]&lt;br&gt;[[Sitrus]]
+|}
+
+{{Berries}}</text>
+    <contributor>
+      <username>Adrian.Lew</username>
+      <id>29</id>
+    </contributor>
+    <comment>/* Strategy and important notes */ Corrected name of Oak item</comment>
+    <model>wikitext</model>
+    <parentid>6818</parentid>
+    <sha1>132d1e74e0fa943c6f342c276216690cfa9ad0b4</sha1>
+  </revision>
+  <revision>
+    <id>6818</id>
+    <timestamp>2020-12-17T00:46:21Z</timestamp>
+    <text bytes="3561" space="preserve">{{Infobox Berry
+|name    = Lum
+|image   = [[File:Lum.png]]
+|caption = This Berry's gradual process of storing nutrients beneficial to Pokémon health causes it to mature slowly. This Berry minorly promotes the growth of Berry plants around it.
+|growtime  = 1h 0m 0s
+|harvest = 2 berries
+|replant = 0%
+|points = 1,000
+||flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*10 spicy 
+*10 dry
+*10 sweet
+*10 bitter
+*0 sour
+}}
+'''Lum''' is a type of [[Berries|Berry]] that can be planted in [[Farm]]. It can be obtained by surrounding an empty plot with all 8 berries from page 1 in the ripe stage.
+
+{| class="wikitable"
+|+ Growth Stages
+! !! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 50 mins || 53 mins 20 secs || 56 mins 40 secs || 1 hour - 2 hours
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:LumTreeTaller.png|50px]] || &lt;center&gt; [[File:LumTreeBloom.png|50px]] || &lt;center&gt; [[File:LumTreeBerry.png|50px]]
+|}
+
+=== Strategy and important notes ===
+
+The total growth time without modifiers is short at only ten minutes, but the Lum berry can be challenging to obtain due to the high mutation rates of unwanted berries that can mutate on center space, and the short ripe time of cherri berries. It is common to go through many full cycles of this process before a single Lum has been successfully mutated. As the growth time is so short, if you use the Squirtbottle be sure to switch it to another oak item as soon as the cherri berry is ripe. Furthermore, while getting two cycles of cherri berry ripeness is possible in one Sitrus ripe cycle, it is often difficult to coordinate with the other berries. When all 8 berries are ripe be sure to shovel any unwanted berries as they appear. Finally, be sure to apply a surprise mulch to the center plot whenever all 8 berries are ripe at once, this may dramatically reduce the number of Lum attempts necessary to achieve the mutation.
+
+{| class="wikitable floatcenter"
+|+ Timings
+! Berry !! Time !! Time with max Squirtbottle
+|-
+| [[Sitrus]] || ||
+|-
+| [[Oran]] || 5 mins || 3 mins 20 secs
+|-
+| [[Leppa]] || 6 mins || 4 mins
+|-
+| [[Aspear]] || 8 mins || 5 mins 20 secs
+|-
+| [[Rawst]] || 8 mins 40 secs || 5 mins 47 secs
+|-
+| [[Pecha]] || 9 mins || 6 mins
+|-
+| [[Chesto]] || 9 mins 20 secs || 6 mins 14 secs
+|-
+| [[Cheri]] || 9 mins 30 secs || 6 mins 20 secs
+|-
+|}
+
+=== Possible Planting Formations ===
+
+You can fill your [[farm]] in following way to obtain Lum berry.
+
+{| class="wikitable" style="text-align: center;"
+|+ Farm
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Sitrus.png|30px]]&lt;br&gt;[[Sitrus]] || style="width: 40px;" | [[File:Oran.png|30px]]&lt;br&gt;[[Oran]] || style="width: 40px;" | [[File:Aspear.png|30px]]&lt;br&gt;[[Aspear]] || style="width: 40px;" | [[File:Oran.png|30px]]&lt;br&gt;[[Oran]] || style="width: 40px;" | [[File:Sitrus.png|30px]]&lt;br&gt;[[Sitrus]]
+|-
+| [[File:Leppa.png|30px]]&lt;br&gt;[[Leppa]] || || [[File:Pecha.png|30px]]&lt;br&gt;[[Pecha]] ||  || [[File:Leppa.png|30px]]&lt;br&gt;[[Leppa]]
+|- style="height: 50px;"
+| [[File:Rawst.png|30px]]&lt;br&gt;[[Rawst]] || [[File:Chesto.png|30px]]&lt;br&gt;[[Chesto]] || [[File:Cheri.png|30px]]&lt;br&gt;[[Cheri]] || [[File:Chesto.png|30px]]&lt;br&gt;[[Chesto]] || [[File:Rawst.png|30px]]&lt;br&gt;[[Rawst]] 
+|-
+| [[File:Leppa.png|30px]]&lt;br&gt;[[Leppa]] ||  || [[File:Pecha.png|30px]]&lt;br&gt;[[Pecha]] || || [[File:Leppa.png|30px]]&lt;br&gt;[[Leppa]]
+|-
+| [[File:Sitrus.png|30px]]&lt;br&gt;[[Sitrus]] || [[File:Oran.png|30px]]&lt;br&gt;[[Oran]] || [[File:Aspear.png|30px]]&lt;br&gt;[[Aspear]] || [[File:Oran.png|30px]]&lt;br&gt;[[Oran]] || [[File:Sitrus.png|30px]]&lt;br&gt;[[Sitrus]]
+|}
+
+{{Berries}}</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment>/* Strategy and important notes */</comment>
+    <model>wikitext</model>
+    <parentid>6817</parentid>
+    <sha1>7e3c18d6d7ecaea3f9107a1b451ed7ba1735004d</sha1>
+  </revision>
+  <revision>
+    <id>6817</id>
+    <timestamp>2020-12-17T00:43:42Z</timestamp>
+    <text bytes="3478" space="preserve">{{Infobox Berry
+|name    = Lum
+|image   = [[File:Lum.png]]
+|caption = This Berry's gradual process of storing nutrients beneficial to Pokémon health causes it to mature slowly. This Berry minorly promotes the growth of Berry plants around it.
+|growtime  = 1h 0m 0s
+|harvest = 2 berries
+|replant = 0%
+|points = 1,000
+||flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*10 spicy 
+*10 dry
+*10 sweet
+*10 bitter
+*0 sour
+}}
+'''Lum''' is a type of [[Berries|Berry]] that can be planted in [[Farm]]. It can be obtained by surrounding an empty plot with all 8 berries from page 1 in the ripe stage.
+
+{| class="wikitable"
+|+ Growth Stages
+! !! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 50 mins || 53 mins 20 secs || 56 mins 40 secs || 1 hour - 2 hours
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:LumTreeTaller.png|50px]] || &lt;center&gt; [[File:LumTreeBloom.png|50px]] || &lt;center&gt; [[File:LumTreeBerry.png|50px]]
+|}
+
+=== Strategy and important notes ===
+
+The total growth time without modifiers is short at only ten minutes, but the Lum berry can be challenging to obtain due to the high mutation rates of unwanted berries that can mutate on center space, and the short ripe time of cherri berries. It is common to go through many full cycles of this process before a single Lum has been successfully mutated. As the growth time is so short, if you use the Squirtbottle be sure to switch it to another oak item as soon as the cherri berry is ripe. Furthermore, while getting two cycles of cherri berry ripeness is possible in one Sitrus ripe cycle, it is often difficult to coordinate with the other berries. Finally, be sure to apply a surprise mulch to the center plot whenever all 8 berries are ripe at once, this may dramatically reduce the number of Lum attempts necessary to achieve the mutation.
+
+{| class="wikitable floatcenter"
+|+ Timings
+! Berry !! Time !! Time with max Squirtbottle
+|-
+| [[Sitrus]] || ||
+|-
+| [[Oran]] || 5 mins || 3 mins 20 secs
+|-
+| [[Leppa]] || 6 mins || 4 mins
+|-
+| [[Aspear]] || 8 mins || 5 mins 20 secs
+|-
+| [[Rawst]] || 8 mins 40 secs || 5 mins 47 secs
+|-
+| [[Pecha]] || 9 mins || 6 mins
+|-
+| [[Chesto]] || 9 mins 20 secs || 6 mins 14 secs
+|-
+| [[Cheri]] || 9 mins 30 secs || 6 mins 20 secs
+|-
+|}
+
+=== Possible Planting Formations ===
+
+You can fill your [[farm]] in following way to obtain Lum berry.
+
+{| class="wikitable" style="text-align: center;"
+|+ Farm
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Sitrus.png|30px]]&lt;br&gt;[[Sitrus]] || style="width: 40px;" | [[File:Oran.png|30px]]&lt;br&gt;[[Oran]] || style="width: 40px;" | [[File:Aspear.png|30px]]&lt;br&gt;[[Aspear]] || style="width: 40px;" | [[File:Oran.png|30px]]&lt;br&gt;[[Oran]] || style="width: 40px;" | [[File:Sitrus.png|30px]]&lt;br&gt;[[Sitrus]]
+|-
+| [[File:Leppa.png|30px]]&lt;br&gt;[[Leppa]] || || [[File:Pecha.png|30px]]&lt;br&gt;[[Pecha]] ||  || [[File:Leppa.png|30px]]&lt;br&gt;[[Leppa]]
+|- style="height: 50px;"
+| [[File:Rawst.png|30px]]&lt;br&gt;[[Rawst]] || [[File:Chesto.png|30px]]&lt;br&gt;[[Chesto]] || [[File:Cheri.png|30px]]&lt;br&gt;[[Cheri]] || [[File:Chesto.png|30px]]&lt;br&gt;[[Chesto]] || [[File:Rawst.png|30px]]&lt;br&gt;[[Rawst]] 
+|-
+| [[File:Leppa.png|30px]]&lt;br&gt;[[Leppa]] ||  || [[File:Pecha.png|30px]]&lt;br&gt;[[Pecha]] || || [[File:Leppa.png|30px]]&lt;br&gt;[[Leppa]]
+|-
+| [[File:Sitrus.png|30px]]&lt;br&gt;[[Sitrus]] || [[File:Oran.png|30px]]&lt;br&gt;[[Oran]] || [[File:Aspear.png|30px]]&lt;br&gt;[[Aspear]] || [[File:Oran.png|30px]]&lt;br&gt;[[Oran]] || [[File:Sitrus.png|30px]]&lt;br&gt;[[Sitrus]]
+|}
+
+{{Berries}}</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment>/* Strategy and important notes */</comment>
+    <model>wikitext</model>
+    <parentid>6816</parentid>
+    <sha1>6c180244b661a5bcb9ee14572ee8a1e251237ac3</sha1>
+  </revision>
+  <revision>
+    <id>6816</id>
+    <timestamp>2020-12-17T00:38:08Z</timestamp>
+    <text bytes="2999" space="preserve">{{Infobox Berry
+|name    = Lum
+|image   = [[File:Lum.png]]
+|caption = This Berry's gradual process of storing nutrients beneficial to Pokémon health causes it to mature slowly. This Berry minorly promotes the growth of Berry plants around it.
+|growtime  = 1h 0m 0s
+|harvest = 2 berries
+|replant = 0%
+|points = 1,000
+||flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*10 spicy 
+*10 dry
+*10 sweet
+*10 bitter
+*0 sour
+}}
+'''Lum''' is a type of [[Berries|Berry]] that can be planted in [[Farm]]. It can be obtained by surrounding an empty plot with all 8 berries from page 1 in the ripe stage.
+
+{| class="wikitable"
+|+ Growth Stages
+! !! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 50 mins || 53 mins 20 secs || 56 mins 40 secs || 1 hour - 2 hours
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:LumTreeTaller.png|50px]] || &lt;center&gt; [[File:LumTreeBloom.png|50px]] || &lt;center&gt; [[File:LumTreeBerry.png|50px]]
+|}
+
+=== Strategy and important notes ===
+
+The total growth time without modifiers is short at only ten minutes, but the Lum berry can be challenging to obtain due to the high mutation rates of unwanted berries that can mutate on center space, and the short ripe time of cherri berries. It is common to go through many full cycles before a single Lum has been successfully mutated. As the growth time is so short, 
+
+{| class="wikitable floatcenter"
+|+ Timings
+! Berry !! Time !! Time with max Squirtbottle
+|-
+| [[Sitrus]] ||
+|-
+| [[Oran]] || 5 mins || 3 mins 20 secs
+|-
+| [[Leppa]] || 6 mins || 4 mins
+|-
+| [[Aspear]] || 8 mins || 5 mins 20 secs
+|-
+| [[Rawst]] || 8 mins 40 secs || 5 mins 47 secs
+|-
+| [[Pecha]] || 9 mins || 6 mins
+|-
+| [[Chesto]] || 9 mins 20 secs || 6 mins 14 secs
+|-
+| [[Cheri]] || 9 mins 30 secs || 6 mins 20 secs
+|-
+|}
+
+=== Possible Planting Formations ===
+
+You can fill your [[farm]] in following way to obtain Lum berry.
+
+{| class="wikitable" style="text-align: center;"
+|+ Farm
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Sitrus.png|30px]]&lt;br&gt;[[Sitrus]] || style="width: 40px;" | [[File:Oran.png|30px]]&lt;br&gt;[[Oran]] || style="width: 40px;" | [[File:Aspear.png|30px]]&lt;br&gt;[[Aspear]] || style="width: 40px;" | [[File:Oran.png|30px]]&lt;br&gt;[[Oran]] || style="width: 40px;" | [[File:Sitrus.png|30px]]&lt;br&gt;[[Sitrus]]
+|-
+| [[File:Leppa.png|30px]]&lt;br&gt;[[Leppa]] || || [[File:Pecha.png|30px]]&lt;br&gt;[[Pecha]] ||  || [[File:Leppa.png|30px]]&lt;br&gt;[[Leppa]]
+|- style="height: 50px;"
+| [[File:Rawst.png|30px]]&lt;br&gt;[[Rawst]] || [[File:Chesto.png|30px]]&lt;br&gt;[[Chesto]] || [[File:Cheri.png|30px]]&lt;br&gt;[[Cheri]] || [[File:Chesto.png|30px]]&lt;br&gt;[[Chesto]] || [[File:Rawst.png|30px]]&lt;br&gt;[[Rawst]] 
+|-
+| [[File:Leppa.png|30px]]&lt;br&gt;[[Leppa]] ||  || [[File:Pecha.png|30px]]&lt;br&gt;[[Pecha]] || || [[File:Leppa.png|30px]]&lt;br&gt;[[Leppa]]
+|-
+| [[File:Sitrus.png|30px]]&lt;br&gt;[[Sitrus]] || [[File:Oran.png|30px]]&lt;br&gt;[[Oran]] || [[File:Aspear.png|30px]]&lt;br&gt;[[Aspear]] || [[File:Oran.png|30px]]&lt;br&gt;[[Oran]] || [[File:Sitrus.png|30px]]&lt;br&gt;[[Sitrus]]
+|}
+
+{{Berries}}</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment>/* Strategy and important notes */</comment>
+    <model>wikitext</model>
+    <parentid>6815</parentid>
+    <sha1>7775fb749083f742eb3970319f8594b67760bd81</sha1>
+  </revision>
+</page>

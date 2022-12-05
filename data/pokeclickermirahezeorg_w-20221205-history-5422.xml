@@ -1,0 +1,23 @@
+<page>
+  <title>Translations:Pokérus/6/es</title>
+  <ns>0</ns>
+  <id>4716</id>
+  <revision>
+    <id>16412</id>
+    <timestamp>2022-07-27T18:45:40Z</timestamp>
+    <text bytes="938" space="preserve">===Multiplicador de Daño por PE===
+Los PE aumentan la cantidad de daño que hace un Pokémon. Los PE pueden multiplicar el daño que hace un Pokémon hasta x2. Si un Pokémon tiene menos de 50 PE, el múltiplo de daño será 0.01 por cada EV que tenga. Es decir, hasta los 50 PE, el ataque de un Pokémon aumenta en un 1% por cada PE que tenga.
+&lt;br&gt;&lt;br&gt;
+Los Pokémon que han contraído el Pokérus y han sido incubados pasan a ser contagiosos mientras que sus PE sean inferiores a 50. Una vez que contraen 50 puntos o más pasan a estar curados. Para más información se puede visitar los [[Pokérus#Pokérus States|Estados Pokérus]].
+&lt;br&gt;&lt;br&gt;
+A partir de los 50 PE, los Pokémon seguirán ganando PE del mismo modo, pero el incremento de ataque será menor con cada PE ganado. Una vez que un Pokémon ha alcanzado un aumento de daño x2 en base a sus PE, puede seguir ganando PE pero no seguirá aumentando su ataque por este método.</text>
+    <contributor>
+      <username>Cthulhu Follower</username>
+      <id>51</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>16411</parentid>
+    <sha1>b8a7fd643439c176ebefe24fc1a4d1fe2258a4fe</sha1>
+  </revision>
+</page>

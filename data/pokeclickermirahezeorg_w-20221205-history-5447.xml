@@ -1,0 +1,21 @@
+<page>
+  <title>Translations:Pokérus/6/en</title>
+  <ns>0</ns>
+  <id>4535</id>
+  <revision>
+    <id>15779</id>
+    <timestamp>2022-07-27T05:41:11Z</timestamp>
+    <text bytes="1005" space="preserve">===EV Damage Multiplier===
+EVs increase the amount of damage that a Pokémon does. EVs multiply the damage done by a Pokémon by up to 2x. If your Pokémon has fewer than 50 EVs, a Pokémon's EV Damage Multiplier increases by 0.01 per EV, and consequently a Pokémon gains 1% extra damage per EV for the first 50 EVs. &lt;br&gt;&lt;br&gt;
+Pokemon that have: contracted Pokérus, have left the hatchery after contracting Pokérus (ie: not ''Infected''), and have gained less than 50 EVs are considered ''Contagious''. However, Pokémon that fulfill all the above conditions but have gained 50 or more EVs are considered ''Cured''. See [[Pokérus#Pokérus States|Pokérus States]] for more information on Pokérus States.&lt;br&gt;&lt;br&gt;
+Beyond 50 EVs, Pokémon will still gain EVs at the same rate, but will see diminishing returns with respect to the EV Damage Multiplier bonus gained per EV gained. Once a Pokémon has reached a 2x EV Damage Multiplier, it can still gain EVs, but will not receieve any further attack bonus.</text>
+    <contributor>
+      <username>FuzzyBot</username>
+      <id>133</id>
+    </contributor>
+    <comment>Importing a new version from external source</comment>
+    <model>wikitext</model>
+    <parentid>15778</parentid>
+    <sha1>705522c6ca68e11e1a407b3bbf651858f895800a</sha1>
+  </revision>
+</page>

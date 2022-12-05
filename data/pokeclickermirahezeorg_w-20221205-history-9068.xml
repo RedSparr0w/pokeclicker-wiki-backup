@@ -1,0 +1,111 @@
+<page>
+  <title>Type Effectiveness</title>
+  <ns>0</ns>
+  <id>179</id>
+  <revision>
+    <id>2916</id>
+    <timestamp>2022-03-16T18:02:31Z</timestamp>
+    <text bytes="9931" space="preserve">
+=Description=
+An attacking Pokémon's damage output against a defending Pokémon is calculated as follows. The attacking Pokémon is treated as having a single type (mono-type). The type that is used is the one that does the most damage against the defending Pokémon, including any Gem modifications to the type-efficacy multiplier. The sum of all valid Party Pokémon (non-[[Pokemon Day Care|breeding]]) with modifiers ([[Weather]], [[XAttack]]) is the total Pokémon Attack. Below are some examples to articulate this calculation.
+
+==Examples==
+
+* [[File:Lanturn.png|35px]] Lanturn (attacking) vs [[File:Gyarados.png|35px]] Gyarados (defending) - Lanturn is dual electric-water typed and Gyarados is dual water-flying typed. Lanturn's electric type is 4x effective against Gyarados (2x for both water and electric) so this is the type that is used. Lanturn's attack against Gyarados is increased by a factor of 4 (4x) as per the type multiplier.
+
+* [[File:Venusaur.png|35px]] Venusaur (attacking) vs. [[File:Magcargo.png|35px]] Magcargo (defending) - Venusaur is dual grass-poison typed and Magcargo is dual fire-rock typed. Venusaur's grass type is 1x effective against Magcargo (normal-effective, 2x effective against rock while 0.5x effective against fire) while Venusaur's poison type is 0.5x effective (not very-effective). Thus, Venusaur's grass type is the type that is used. Venusaur's attack against Magcargo is neither increased nor decreased as per the type multiplier of 1 (1x).
+
+* [[File:Venusaur.png|35px]] Venusaur (attacking) with fully boosted not-very effective Poison Gem vs. [[File:Magcargo.png|35px]] Magcargo (defending) - Venusaur is dual grass-poison typed and Magcargo is dual fire-rock typed. Venusaur's grass type is 1x effective against Magcargo (normal-effective, 2x effective against rock while 0.5x effective against fire), while Venusaur's poison type is 1.5x effective (not very-effective) with the Gem multiplier. Thus, Venusaur's poison type is the type that is used. Venusaur's attack against Magcargo is increased by a factor of 1.5 (1.5x) as per the type multiplier.
+
+* [[File:Gengar.png|35px]] Gengar (attacking) vs. [[File:Kangaskhan.png|35px]] Kangaskhan (defending) - Gengar is dual ghost-poison typed and Kangaskhan is mono normal typed. Gengar's ghost type is 0x effective (immune) against Kangaskhan while Gengar's poison type is 1x effective (normal-effective). Thus, Gengar's poison type is the type that is used. Gengar's attack against Kangaskhan is neither increased nor decreased as per the type multiplier of 1 (1x).
+
+* [[File:Kangaskhan.png|35px]] Kangaskhan (attacking) vs. [[File:Gengar.png|35px]] Gengar (defending) - Kangaskhan is mono normal typed and Gengar is dual ghost-poison typed. Kangaskhan's normal type is 0x effective (immune) against Gengar's ghost type. As this is the only type of Kangaskhan, Kangaskhan's normal type is used. Thus, Kangaskhan's attack against Gengar is 0 as per the type multiplier of 0 (0x).
+
+=Type Effectiveness Explanation=
+==Type Effectiveness Modifiers==
+*Very = "Super Effective" - (2x)
+*Normal = "Effective" - (1x)
+*Not-Very = "Not-Very Effective" - (0.5x)
+*Immunue = "Not Effective" - (0x)
+
+==Type Effectiveness Chart==
+Below is a table showing the effectiveness of each Pokémon type. It can be used to prioritize [[Gems]] upgrades.
+
+{| class="wikitable" style="text-align: center;"
+! Attacker ↴ Defender → !! Normal [[File:Normal_Gem.png|15px]] !! Fire [[File:Fire_Gem.png|15px]] !! Water [[File:Water_Gem.png|15px]] !! Electric [[File:Electric_Gem.png|15px]] !! Grass [[File:Grass_Gem.png|15px]] !! Ice [[File:Ice_Gem.png|15px]] !! Fighting [[File:Fighting_Gem.png|15px]] !! Poison [[File:Poison_Gem.png|15px]] !! Ground [[File:Ground_Gem.png|15px]] !! Flying [[File:Flying_Gem.png|15px]] !! Psychic [[File:Psychic_Gem.png|15px]] !! Bug [[File:Bug_Gem.png|15px]] !! Rock [[File:Rock_Gem.png|15px]] !! Ghost [[File:Ghost_Gem.png|15px]] !! Dragon [[File:Dragon_Gem.png|15px]] !! Dark [[File:Dark_Gem.png|15px]] !! Steel [[File:Steel_Gem.png|15px]] !! Fairy [[File:Fairy_Gem.png|15px]]
+|-
+| '''Normal''' [[File:Normal_Gem.png|15px]] ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || &lt;span style="color:Blue"&gt;x½ || x0 ||  ||  || &lt;span style="color:Blue"&gt;x½ || 
+|-
+| '''Fire''' [[File:Fire_Gem.png|15px]] ||  || &lt;span style="color:Blue"&gt;x½ || &lt;span style="color:Blue"&gt;x½ ||  || &lt;span style="color:Red"&gt;x2 || &lt;span style="color:Red"&gt;x2 ||  ||  ||  ||  ||  || &lt;span style="color:Red"&gt;x2 || &lt;span style="color:Blue"&gt;x½ ||  || &lt;span style="color:Blue"&gt;x½ ||  || &lt;span style="color:Red"&gt;x2 || 
+|-
+| '''Water''' [[File:Water_Gem.png|15px]] ||  || &lt;span style="color:Red"&gt;x2 || &lt;span style="color:Blue"&gt;x½ ||  || &lt;span style="color:Blue"&gt;x½ ||  ||  ||  || &lt;span style="color:Red"&gt;x2 ||  ||  ||  || &lt;span style="color:Red"&gt;x2 ||  || &lt;span style="color:Blue"&gt;x½ ||  ||  || 
+|-
+| '''Electric''' [[File:Electric_Gem.png|15px]] ||  ||  || &lt;span style="color:Red"&gt;x2 || &lt;span style="color:Blue"&gt;x½ || &lt;span style="color:Blue"&gt;x½ ||  ||  ||  || x0 || &lt;span style="color:Red"&gt;x2 ||  ||  ||  ||  || &lt;span style="color:Blue"&gt;x½ ||  ||  || 
+|-
+| '''Grass''' [[File:Grass_Gem.png|15px]] ||  || &lt;span style="color:Blue"&gt;x½ || &lt;span style="color:Red"&gt;x2 ||  || &lt;span style="color:Blue"&gt;x½ ||  ||  || &lt;span style="color:Blue"&gt;x½ || &lt;span style="color:Red"&gt;x2 || &lt;span style="color:Blue"&gt;x½ ||  || &lt;span style="color:Blue"&gt;x½ || &lt;span style="color:Red"&gt;x2 ||  || &lt;span style="color:Blue"&gt;x½ ||  || &lt;span style="color:Blue"&gt;x½ || 
+|-
+| '''Ice''' [[File:Ice_Gem.png|15px]] ||  || &lt;span style="color:Blue"&gt;x½ || &lt;span style="color:Blue"&gt;x½ ||  || &lt;span style="color:Red"&gt;x2 || &lt;span style="color:Blue"&gt;x½ ||  ||  || &lt;span style="color:Red"&gt;x2 || &lt;span style="color:Red"&gt;x2 ||  ||  ||  ||  || &lt;span style="color:Red"&gt;x2 ||  || &lt;span style="color:Blue"&gt;x½ || 
+|-
+| '''Fighting''' [[File:Fighting_Gem.png|15px]] || &lt;span style="color:Red"&gt;x2 ||  ||  ||  ||  || &lt;span style="color:Red"&gt;x2 ||  || &lt;span style="color:Blue"&gt;x½ ||  || &lt;span style="color:Blue"&gt;x½ || &lt;span style="color:Blue"&gt;x½ || &lt;span style="color:Blue"&gt;x½ || &lt;span style="color:Red"&gt;x2 || x0 ||  || &lt;span style="color:Red"&gt;x2 || &lt;span style="color:Red"&gt;x2 || &lt;span style="color:Blue"&gt;x½
+|-
+| '''Poison''' [[File:Poison_Gem.png|15px]] ||  ||  ||  ||  || &lt;span style="color:Red"&gt;x2 ||  ||  || &lt;span style="color:Blue"&gt;x½ || &lt;span style="color:Blue"&gt;x½ ||  ||  ||  || &lt;span style="color:Blue"&gt;x½ || &lt;span style="color:Blue"&gt;x½ ||  ||  || x0 || &lt;span style="color:Red"&gt;x2
+|-
+| '''Ground''' [[File:Ground_Gem.png|15px]] ||  || &lt;span style="color:Red"&gt;x2 ||  || &lt;span style="color:Red"&gt;x2 || &lt;span style="color:Blue"&gt;x½ ||  ||  || &lt;span style="color:Red"&gt;x2 ||  || x0 ||  || &lt;span style="color:Blue"&gt;x½ || &lt;span style="color:Red"&gt;x2 ||  ||  ||  || &lt;span style="color:Red"&gt;x2 || 
+|-
+| '''Flying''' [[File:Flying_Gem.png|15px]] ||  ||  ||  || &lt;span style="color:Blue"&gt;x½ || &lt;span style="color:Red"&gt;x2 ||  || &lt;span style="color:Red"&gt;x2 ||  ||  ||  ||  || &lt;span style="color:Red"&gt;x2 || &lt;span style="color:Blue"&gt;x½ ||  ||  ||  || &lt;span style="color:Blue"&gt;x½ || 
+|-
+| '''Psychic''' [[File:Psychic_Gem.png|15px]] ||  ||  ||  ||  ||  ||  || &lt;span style="color:Red"&gt;x2 || &lt;span style="color:Red"&gt;x2 ||  ||  || &lt;span style="color:Blue"&gt;x½ ||  ||  ||  ||  || x0 || &lt;span style="color:Blue"&gt;x½ || 
+|-
+| '''Bug''' [[File:Bug_Gem.png|15px]] ||  || &lt;span style="color:Blue"&gt;x½ ||  ||  || &lt;span style="color:Red"&gt;x2 ||  || &lt;span style="color:Blue"&gt;x½ || &lt;span style="color:Blue"&gt;x½ ||  || &lt;span style="color:Blue"&gt;x½ || &lt;span style="color:Red"&gt;x2 ||  ||  || &lt;span style="color:Blue"&gt;x½ ||  || &lt;span style="color:Red"&gt;x2 || &lt;span style="color:Blue"&gt;x½ || &lt;span style="color:Blue"&gt;x½
+|-
+| '''Rock''' [[File:Rock_Gem.png|15px]] ||  || &lt;span style="color:Red"&gt;x2 ||  ||  ||  || &lt;span style="color:Red"&gt;x2 || &lt;span style="color:Blue"&gt;x½ ||  || &lt;span style="color:Blue"&gt;x½ || &lt;span style="color:Red"&gt;x2 ||  || &lt;span style="color:Red"&gt;x2 ||  ||  ||  ||  || &lt;span style="color:Blue"&gt;x½ || 
+|-
+| '''Ghost''' [[File:Ghost_Gem.png|15px]] || x0 ||  ||  ||  ||  ||  ||  ||  ||  ||  || &lt;span style="color:Red"&gt;x2 ||  ||  || &lt;span style="color:Red"&gt;x2 ||  || &lt;span style="color:Blue"&gt;x½ ||  || 
+|-
+| '''Dragon''' [[File:Dragon_Gem.png|15px]] ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || &lt;span style="color:Red"&gt;x2 ||  || &lt;span style="color:Blue"&gt;x½ || x0
+|-
+| '''Dark''' [[File:Dark_Gem.png|15px]] ||  ||  ||  ||  ||  ||  || &lt;span style="color:Blue"&gt;x½ ||  ||  ||  || &lt;span style="color:Red"&gt;x2 ||  ||  || &lt;span style="color:Red"&gt;x2 ||  || &lt;span style="color:Blue"&gt;x½ ||  || &lt;span style="color:Blue"&gt;x½
+|-
+| '''Steel''' [[File:Steel_Gem.png|15px]] ||  || &lt;span style="color:Blue"&gt;x½ || &lt;span style="color:Blue"&gt;x½ || &lt;span style="color:Blue"&gt;x½ ||  || &lt;span style="color:Red"&gt;x2 ||  ||  ||  ||  ||  ||  || &lt;span style="color:Red"&gt;x2 ||  ||  ||  || &lt;span style="color:Blue"&gt;x½ || &lt;span style="color:Red"&gt;x2
+|-
+| '''Fairy''' [[File:Fairy_Gem.png|15px]] ||  || &lt;span style="color:Blue"&gt;x½ ||  ||  ||  ||  || &lt;span style="color:Red"&gt;x2 || &lt;span style="color:Blue"&gt;x½ ||  ||  ||  ||  ||  ||  || &lt;span style="color:Red"&gt;x2 || &lt;span style="color:Red"&gt;x2 || &lt;span style="color:Blue"&gt;x½ || 
+|}
+
+=Practicality=
+
+''See [[Gems]] for a list of optimal farming routes for each type of Gem.''
+
+A breakdown of how much damage each type contributes to total damage, absent any gem boosts, can be seen by using the Damage Calculator screen in the Start Menu. Types that do the most damage generally should be upgraded with gems first.
+
+=Trivia=
+
+As of PokéClicker version 0.5.8 the following categories were removed from the [[Gem Case]] because they have no effect (they do not increase damage) when invested into.
+
+&lt;b&gt;Very Effective (last row)&lt;/b&gt;
+
+*Normal
+
+&lt;b&gt;Immune (first row)&lt;/b&gt;
+
+*Fire
+*Water
+*Grass
+*Ice
+*Flying
+*Bug
+*Rock
+*Dark
+*Steel
+*Fairy
+
+[[Category:Gems]]</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment>Jk13 moved page [[Gem-type Advantages]] to [[Type Effectiveness]]: Name is a WIP</comment>
+    <model>wikitext</model>
+    <parentid>2915</parentid>
+    <sha1>0741bab6c34074cbbcf6638a43d541304adf8657</sha1>
+  </revision>
+</page>

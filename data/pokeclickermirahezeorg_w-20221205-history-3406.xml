@@ -1,0 +1,35 @@
+<page>
+  <title>Translations:Template:Infobox Berry/5/en</title>
+  <ns>0</ns>
+  <id>7200</id>
+  <revision>
+    <id>20689</id>
+    <timestamp>2022-07-29T18:05:30Z</timestamp>
+    <text bytes="1237" space="preserve">'''Where:'''
+*&lt;code&gt;name&lt;/code&gt; should be filled with the number of the berry in the dex (formatted #00) and the name of the berry.
+*&lt;code&gt;image&lt;/code&gt; should be filled with the berry's image.
+*&lt;code&gt;caption&lt;/code&gt; should be filled with the description of the berry from the in-game berrydex (or github).
+*&lt;code&gt;growtime&lt;/code&gt; should be filled with the time it takes for the berry to *fully* grow (with h/m/s as needed).
+*&lt;code&gt;harvest&lt;/code&gt; should be filled with the number of berries collected when manually harvesting the plant.
+*&lt;code&gt;replant&lt;/code&gt; should be filled with the replant rate of the berry.
+*&lt;code&gt;mutation&lt;/code&gt; should be filled with the mutation rate of the berry.
+*&lt;code&gt;points&lt;/code&gt; should be filled with the number of Farm Points gained on harvest ({{farmpoints}} is automatically added, don't add it yourself).
+*&lt;code&gt;flavor&lt;/code&gt; should be filled with the flavors of the berry. Copy and paste this code after the equals sign and fill in the numbers:
+&lt;pre&gt;&lt;div style="clear:both;"&gt;&lt;/div&gt;
+* # spicy
+* # dry
+* # sweet
+* # bitter
+* # sour
+&lt;/pre&gt;
+*&lt;code&gt;helditem&lt;/code&gt; should only be included if the berry is dropped by a wild Pokémon. It should be filled with the names of each Pokémon that can drop the berry.</text>
+    <contributor>
+      <username>FuzzyBot</username>
+      <id>133</id>
+    </contributor>
+    <comment>Importing a new version from external source</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>572a4ae4f28dff12a16cd3695c03de656d91f771</sha1>
+  </revision>
+</page>

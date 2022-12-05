@@ -1,0 +1,2942 @@
+<page>
+  <title>Gyms</title>
+  <ns>0</ns>
+  <id>797</id>
+  <revision>
+    <id>8323</id>
+    <timestamp>2022-06-18T20:36:21Z</timestamp>
+    <text bytes="50482" space="preserve">[[File:Badge case 2.0.png|thumb|365px]]
+'''Gyms''' are special areas in Pokéclicker where the player can earn gym badges and unlock new routes by defeating the gym leader in a battle. There are 8 or More gyms in each region plus the Pokémon League building, which includes the Elite 4 trainers and the champion.
+
+==Features==
+===Gym Auto-Rebattle===
+Upon defeating a Gym for the 100th time the '''Gym Auto-Rebattle''' feature is unlocked. This allows gyms to be automatically restarted. However, each Gym fight using the Auto-Rebattle feature costs 2x the base cost (not including Achievement or Battle Item Bonuses) of the Gym and clearing the gym does not award any money.
+
+
+==[[Kanto]]==
+
+===Level Cap===
+
+There are level caps that restrict the maximum level of obtained Pokémon in Kanto. The general formula is: &lt;br&gt;&lt;br&gt; &lt;math&gt;\colorbox{White}{$Max level = (n + 2)*10$}&lt;/math&gt; &lt;br&gt;&lt;br&gt; where n = the number of obtained badges by the player. Below is a table of badges and the respective level cap.
+
+{| class="wikitable collapsible collapsed" style="text-align: center;"
+|-
+! Number of Obtained Badges !! Level Cap
+|-
+| 0 || 20
+|-
+| 1 || 30
+|-
+| 2 || 40
+|-
+| 3 || 50
+|-
+| 4 || 60
+|-
+| 5 || 70
+|-
+| 6 || 80
+|-
+| 7 || 90
+|-
+| 8 || 100
+|-
+|}
+
+===Gyms===
+
+*Note: Minimum attack is calculated without taking into consideration click attack or the Pokémon's type(s). You can see how much damage you do against a certain Pokémon by clicking on or scrolling over the "Pokémon attack" number below the battle screen. The [[Type Effectiveness]] page has more information on how type matchups are ruled in Pokéclicker.
+
+{| class="wikitable collapsible" style="text-align: center;"
+|-
+! Location !! Badge !! Leader !! Money Earned !! Min. Attack !! Pokémon !! HP !! Weakness
+|-
+| rowspan=2 | [[Towns &amp; Cities#Kanto|Pewter City]]|| rowspan=2 | Boulder [[File:Boulder_Badge.png|15px]] || rowspan=2 | Brock [[File:Brock.png|15px]] || rowspan=2 | 250 || rowspan=2 | 78
+|| Geodude [[File:Geodude.png|25px]] || 770 || rowspan=2 | (x4) Water, Grass&lt;br/&gt;(x2) Ice, Fighting, Ground, Steel 
+|-
+|| Onix [[File:Onix.png|25px]] || 1,554
+|-
+| rowspan=2 | [[Towns &amp; Cities#Kanto|Cerulean City]]|| rowspan=2 | Cascade [[File:Cascade_Badge.png|15px]] || rowspan=2 | Misty [[File:Misty.png|15px]] || rowspan=2 | 500 || rowspan=2 | 364
+|| Staryu [[File:Staryu.png|25px]] || 4,000 || (x2) Electric, Grass
+|-
+|| Starmie [[File:Starmie.png|25px]] || 6,800 || (x2) Electric, Grass, Bug, Ghost, Dark
+|-
+|| [[Towns &amp; Cities#Kanto|Vermilion City]] || Thunder [[File:Thunder_Badge.png|15px]] || Lt. Surge [[File:Lt._Surge.png|15px]] || 1,000 || 1,234
+|| Raichu [[File:Raichu.png|25px]] || 37,000 || (x2) Ground
+|-
+| rowspan=3 | [[Towns &amp; Cities#Kanto|Celadon City]]|| rowspan=3 | Rainbow [[File:Rainbow_Badge.png|15px]] || rowspan=3 | Erika [[File:Erika.png|15px]] || rowspan=3 | 1,500 || rowspan=3 | 3,640
+|| Tangela [[File:Tangela.png|25px]] || 38,810 || (x2) Fire, Ice, Poison, Flying, Bug
+|-
+|| Weepinbell [[File:Weepinbell.png|25px]] || 30,340 || rowspan=2 | (x2) Fire, Ice, Flying, Psychic 
+|-
+|| Gloom [[File:Gloom.png|25px]]|| 36,400
+|-
+| rowspan=4 | [[Towns &amp; Cities#Kanto|Fuchsia City]]|| rowspan=4 | Soul [[File:Soul_Badge.png|15px]] || rowspan=4 | Koga [[File:Koga.png|15px]] || rowspan=4 | 3,500 || rowspan=4 | 4,679
+|| Venonat [[File:Venonat.png|25px]]|| 30,780 || rowspan=4 | (x2) Fire, Flying, Psychic, Rock
+|-
+|| Venonat [[File:Venonat.png|25px]] || 32,460
+|-
+|| Venonat [[File:Venonat.png|25px]] || 36,540
+|-
+|| Venomoth [[File:Venomoth.png|25px]] || 37,430
+|-
+| rowspan=3 | [[Towns &amp; Cities#Kanto|Saffron City]]|| rowspan=3 | Marsh [[File:Marsh_Badge.png|15px]] || rowspan=3 | Sabrina [[File:Sabrina.png|15px]] || rowspan=3 | 2,500 || rowspan=3 | 2,582
+|| Abra [[File:Abra.png|25px]] || 23,040 || rowspan=3 | (x2) Bug, Ghost, Dark
+|-
+|| Kadabra [[File:Kadabra.png|25px]] || 25,600
+|-
+|| Alakazam [[File:Alakazam.png|25px]] || 28,400
+|-
+| rowspan=3 | [[Towns &amp; Cities#Kanto|Cinnabar Island]]|| rowspan=3 | Volcano [[File:Volcano_Badge.png|15px]] || rowspan=3 | Blaine [[File:Blaine.png|15px]] || rowspan=3 | 5,000 || rowspan=3 | 4,572
+|| Ninetales [[File:Ninetales.png|25px]] || 37,430 || rowspan=3 | (x2) Water, Ground, Rock
+|-
+|| Rapidash [[File:Rapidash.png|25px]] || 45,230
+|-
+|| Arcanine [[File:Arcanine.png|25px]] || 50,290
+|-
+| rowspan=5 | [[Towns &amp; Cities#Kanto|Viridian City]]|| rowspan=5 | Earth [[File:Earth_Badge.png|15px]] || rowspan=5 | Giovanni [[File:Giovanni.png|15px]] || rowspan=5 | 6,000 || rowspan=5 | 9,046
+|| Dugtrio [[File:Dugtrio.png|25px]] || 45,230 || (x2) Water, Grass, Ice
+|-
+|| Persian [[File:Persian.png|25px]] || 47,530 || (x2) Fighting
+|-
+|| Nidoqueen [[File:Nidoqueen.png|25px]] || 48,740 || rowspan=2 | (x2) Water, Ice, Ground, Psychic
+|-
+|| Nidoking [[File:Nidoking.png|25px]] || 48,350
+|-
+|| Rhydon [[File:Rhydon.png|25px]] || 55,000 || (x4) Water, Grass &lt;br&gt; (x2) Ice, Fighting, Ground, Steel
+|}
+
+=== [[Towns &amp; Cities#Kanto|Indigo Plateau]] ===
+{| class="wikitable collapsible" style="text-align: center;"
+|-
+! Leader !! Money Earned !! Min. Attack !! Pokémon !! HP !! Weakness
+|-
+| rowspan=5 | Elite Lorelei [[File:Lorelei.png|25px]] || rowspan=5 | 7,500 || rowspan=5 | 9,500
+|| Dewgong [[File:Dewgong.png|25px]] || 45,330 || rowspan=2 | (x2) Electric, Grass, Fighting, Rock
+|-
+|| Cloyster [[File:Cloyster.png|25px]] || 48,300
+|-
+|| Slowbro [[File:Slowbro.png|25px]] || 52,000 || (x2) Electric, Grass, Bug, Ghost, Dark
+|-
+|| Jynx [[File:Jynx.png|25px]] || 57,000 || (x2) Fire, Bug, Rock, Ghost, Dark, Steel
+|-
+|| Lapras [[File:Lapras.png|25px]] || 60,250 || (x2) Electric, Grass, Fighting, Rock
+|-
+| rowspan=5 | Elite Bruno [[File:Bruno.png|25px]] || rowspan=5 | 7,500 || rowspan=5 | 9,500
+|| Onix [[File:Onix.png|25px]] || 45,330 || (x4) Water, Grass&lt;br/&gt;(x2) Ice, Fighting, Ground, Steel
+|-
+|| Hitmonchan [[File:Hitmonchan.png|25px]] || 48,300 || rowspan=2 | (x2) Flying, Psychic, Fairy
+|-
+|| Hitmonlee [[File:Hitmonlee.png|25px]] || 52,000
+|-
+|| Onix [[File:Onix.png|25px]] || 57,000 || (x4) Water, Grass &lt;br&gt; (x2) Ice, Fighting, Ground, Steel
+|-
+|| Machamp [[File:Machamp.png|25px]] || 60,250 || (x2) Flying, Psychic, Fairy
+|-
+| rowspan=5 | Elite Agatha [[File:Agatha.png|25px]] || rowspan=5 | 7,500 || rowspan=5 | 9,500
+|| Gengar [[File:Gengar.png|25px]] || 45,330 || (x2) Ground, Psychic, Ghost, Dark
+|-
+|| Golbat [[File:Golbat.png|25px]] || 48,300 || (x2) Electric, Ice, Psychic, Rock
+|-
+|| Haunter [[File:Haunter.png|25px]] || 52,000 || (x2) Ground, Psychic, Ghost, Dark
+|-
+|| Arbok [[File:Arbok.png|25px]] || 57,000 || (x2) Ground, Psychic
+|-
+|| Gengar [[File:Gengar.png|25px]] || 60,250 || (x2) Ground, Psychic, Ghost, Dark
+|-
+| rowspan=5 | Elite Lance [[File:Lance.png|25px]] || rowspan=5 | 7,500 || rowspan=5 | 10,042
+|| Gyarados [[File:Gyarados.png|25px]] || 48,300 || (x4) Electric &lt;br&gt; (x2) Rock
+|-
+|| Dragonair [[File:Dragonair.png|25px]] || 52,000 || rowspan=2 | (x2) Ice, Dragon, Fairy
+|-
+|| Dragonair [[File:Dragonair.png|25px]] || 57,000
+|-
+|| Aerodactyl [[File:Aerodactyl.png|25px]] || 60,250 || (x2) Water, Electric, Ice, Rock, Steel
+|-
+|| Dragonite [[File:Dragonite.png|25px]] || 66,000 || (x4) Ice &lt;br&gt; (x2) Rock, Dragon, Fairy
+|-
+| colspan=6 | Blue's team changes based on the chosen starter Pokémon (Bulbasaur, Charmander, or Squirtle/Pikachu).
+|-
+| rowspan=12 | Champion Blue [[File:Blue.png|15px]] || rowspan=12 | 10,000 || rowspan=3 | Starter: All
+|| Pidgeot [[File:Pidgeot.png|25px]] || 52,340 || (x2) Electric, Ice, Rock
+|-
+|| Alakazam [[File:Alakazam.png|25px]] || 56,320 || (x2) Bug, Ghost, Dark
+|-
+|| Rhydon [[File:Rhydon.png|25px]] || 58,340 || (x4) Water, Grass &lt;br&gt; (x2) Ice, Fighting, Ground, Steel
+|-
+| rowspan=3 | 13,085 &lt;br&gt; Starter: Bulbasaur || Exeggutor [[File:Exeggutor.png|25px]] || 57,520 || (x4) Bug &lt;br&gt; (x2) Fire, Ice, Poison, Flying, Ghost, Dark
+|-
+|| Gyarados [[File:Gyarados.png|25px]] || 63,040 || (x4) Electric &lt;br&gt; (x2) Rock
+|-
+|| Charizard [[File:Charizard.png|25px]] || 70,000 || (x4) Rock &lt;br&gt; (x2) Water, Electric
+|-
+| rowspan=3 | 13,085 &lt;br&gt; Starter: Charmander || Arcanine [[File:Arcanine.png|25px]] || 65,340 || (x2) Water, Ground, Rock
+|-
+|| Exeggutor [[File:Exeggutor.png|25px]] || 57,520 || (x4) Bug &lt;br&gt; (x2) Fire, Ice, Poison, Flying, Ghost, Dark
+|-
+|| Blastoise [[File:Blastoise.png|25px]] || 70,000 || (x2) Electric, Grass 
+|-
+| rowspan=3 | 13,085 &lt;br&gt; Starter: Squirtle/Pikachu || Gyarados [[File:Gyarados.png|25px]] || 63,040 || (x4) Electric &lt;br&gt; (x2) Rock
+|-
+|| Arcanine [[File:Arcanine.png|25px]] || 65,340 || (x2) Water, Ground, Rock
+|-
+|| Venusaur [[File:Venusaur.png|25px]] || 70,000 || (x2) Fire, Ice, Flying, Psychic 
+|}
+
+==[[Johto]]==
+===Gyms===
+{| class="wikitable collapsible" style="text-align: center;"
+|-
+! Location !! Badge !! Leader !! Money Earned !! Min. Attack !! Pokémon !! HP !! Weakness
+|-
+| rowspan=2 | [[Towns &amp; Cities#Johto|Violet City]]|| rowspan=2 | Zephyr [[File:Zephyr_Badge.png|15px]] || rowspan=2 | Falkner [[File:Falkner.png|25px]] || rowspan=2 | 250 || rowspan=2 | 7,467
+|| Pidgey [[File:Pidgey.png|25px]] || 108,000 || rowspan=2 | (x2) Electric, Ice, Rock
+|-
+|| Pidgeotto [[File:Pidgeotto.png|25px]] || 112,000
+|-
+| rowspan=3 | [[Towns &amp; Cities#Johto|Azalea Town]]|| rowspan=3 | Hive [[File:Hive_Badge.png|15px]] || rowspan=3 | Bugsy [[File:Bugsy.png|25px]] || rowspan=3 | 500 || rowspan=3 | 11,278
+|| Metapod [[File:Metapod.png|25px]] || 103,000 || (x2) Fire, Flying, Rock
+|-
+|| Kakuna [[File:Kakuna.png|25px]] || 101,500 || (x2) Fire, Flying, Psychic, Rock
+|-
+|| Scyther [[File:Scyther.png|25px]] || 119,000 || (x4) Rock &lt;br&gt; (x2) Fire, Electric, Ice, Flying
+|-
+| rowspan=2 | [[Towns &amp; Cities#Johto|Goldenrod City]]|| rowspan=2 | Plain [[File:Plain_Badge.png|15px]] || rowspan=2 | Whitney [[File:Whitney.png|25px]] || rowspan=2 | 1,000 || rowspan=2 | 10,000
+|| Clefairy [[File:Clefairy.png|25px]] || 130,000 || (x2) Poison, Steel
+|-
+|| Miltank [[File:Miltank.png|25px]] || 170,000 || (x2) Fighting
+|-
+| rowspan=4 | [[Towns &amp; Cities#Johto|Ecruteak City]]|| rowspan=4 | Fog [[File:Fog_Badge.png|15px]] || rowspan=4 | Morty [[File:Morty.png|25px]] || rowspan=4 | 1,500 || rowspan=4 | 18,286
+|| Gastly [[File:Gastly.png|25px]] || 127,000 || rowspan=4 | (x2) Ground, Psychic, Ghost, Dark
+|-
+|| Haunter [[File:Haunter.png|25px]] || 128,000
+|-
+|| Gengar [[File:Gengar.png|25px]] || 132,000
+|-
+|| Haunter [[File:Haunter.png|25px]] || 130,000
+|-
+| rowspan=2 | [[Towns &amp; Cities#Johto|Cianwood City]]|| rowspan=2 | Storm [[File:Storm_Badge.png|15px]] || rowspan=2 | Chuck [[File:Chuck.png|25px]] || rowspan=2 | 2,500 || rowspan=2 | 12,200
+|| Primeape [[File:Primeape.png|25px]] || 177,000 || (x2) Flying, Psychic, Fairy
+|-
+|| Poliwrath [[File:Poliwrath.png|25px]] || 183,000 || (x2) Electric, Grass, Flying, Psychic, Fairy
+|-
+| rowspan=3 | [[Towns &amp; Cities#Johto|Olivine City]]|| rowspan=3 | Mineral [[File:Mineral_Badge.png|15px]] || rowspan=3 | Jasmine [[File:Jasmine.png|25px]] || rowspan=3 | 3,500 || rowspan=3 | 18,200
+|| Magnemite [[File:Magnemite.png|25px]] || 177,000 || rowspan=2 | (x4) Ground &lt;br&gt; (x2) Fire, Fighting
+|-
+|| Magnemite [[File:Magnemite.png|25px]] || 178,000
+|-
+|| Steelix [[File:Steelix.png|25px]] || 182,000 || (x2) Fire, Water, Fighting, Ground
+|-
+| rowspan=3 | [[Towns &amp; Cities#Johto|Mahogany Town]]|| rowspan=3 | Glacier [[File:Glacier_Badge.png|15px]] || rowspan=3 | Pryce [[File:Pryce.png|25px]] || rowspan=3 | 4,000 || rowspan=3 | 19,600
+|| Seel [[File:Seel.png|25px]] || 190,000 || (x2) Electric, Grass 
+|-
+|| Dewgong [[File:Dewgong.png|25px]] || 192,500 || (x2) Electric, Grass, Fighting, Rock
+|-
+|| Piloswine [[File:Piloswine.png|25px]] || 196,000 || (x2) Fire, Water, Grass, Fighting, Steel
+|-
+| rowspan=4 | [[Towns &amp; Cities#Johto|Blackthorn City]]|| rowspan=4 | Rising [[File:Rising_Badge.png|15px]] || rowspan=4 | Clair [[File:Clair.png|25px]] || rowspan=4 | 5,000 || rowspan=4 | 29,286
+|| Dragonair [[File:Dragonair.png|25px]] || 205,000 || rowspan=3 | (x2) Ice, Dragon, Fairy
+|-
+|| Dragonair [[File:Dragonair.png|25px]] || 205,000
+|-
+|| Dragonair [[File:Dragonair.png|25px]] || 218,000
+|-
+|| Kingdra [[File:Kingdra.png|25px]] || 220,000 || (x2) Dragon, Fairy
+|}
+
+===[[Towns &amp; Cities#Johto|Johto Indigo Plateau]]===
+{| class="wikitable collapsible" style="text-align: center;"
+|-
+! Leader !! Money Earned !! Min. Attack !! Pokémon !! HP !! Weakness
+|-
+| rowspan=5 | Elite Will [[File:Will.png|20px]] || rowspan=5 | 7,500 || rowspan=5 | 43,375
+|| Xatu [[File:Xatu.png|25px]] || 245,330 || (x2) Electric, Ice, Rock, Ghost, Dark
+|-
+|| Exeggutor [[File:Exeggutor.png|25px]] || 248,300 || (x4) Bug &lt;br&gt; (x2) Fire, Ice, Poison, Flying, Ghost, Dark
+|-
+|| Slowbro [[File:Slowbro.png|25px]] || 252,000 || (x2) Electric, Grass, Bug, Ghost, Dark
+|-
+|| Jynx [[File:Jynx.png|25px]] || 257,000 || (x2) Fire, Bug, Rock, Ghost, Dark, Steel
+|-
+|| Xatu [[File:Xatu.png|25px]] || 260,250 || (x2) Electric, Ice, Rock, Ghost, Dark
+|-
+| rowspan=5 | Elite Koga [[File:Koga2.png|20px]] || rowspan=5 | 7,500 || rowspan=5 | 43,375
+|| Ariados [[File:Ariados.png|25px]] || 245,330 || rowspan=2 | (x2) Fire, Flying, Psychic, Rock  
+|-
+|| Venomoth [[File:Venomoth.png|25px]] || 248,300
+|-
+|| Forretress [[File:Forretress.png|25px]] || 252,000 || (x4) Fire
+|-
+|| Muk [[File:Muk.png|25px]] || 257,000 || (x2) Ground, Psychic
+|-
+|| Crobat [[File:Crobat.png|25px]] || 260,250 || (x2) Electric, Ice, Psychic, Rock
+|-
+| rowspan=5 | Elite Bruno 2 [[File:Bruno2.png|20px]] || rowspan=5 | 7,500 || rowspan=5 | 43,375
+|| Hitmontop [[File:Hitmontop.png|25px]] || 245,330 || rowspan=3 | (x2) Flying, Psychic, Fairy
+|-
+|| Hitmonlee [[File:Hitmonlee.png|25px]] || 248,300
+|-
+|| Hitmonchan [[File:Hitmonchan.png|25px]] || 252,000
+|-
+|| Onix [[File:Onix.png|25px]] || 257,000 || (x4) Water, Grass &lt;br&gt; (x2) Ice, Fighting, Ground, Steel
+|-
+|| Machamp [[File:Machamp.png|25px]] || 260,250 || (x2) Flying, Psychic, Fairy
+|-
+| rowspan=5 | Elite Karen [[File:Karen.png|20px]] || rowspan=5 | 7,500 || rowspan=5 | 44,334
+|| Umbreon [[File:Umbreon.png|25px]] || 248,300 || (x2) Fighting, Bug, Fairy
+|-
+|| Vileplume [[File:Vileplume.png|25px]] || 252,000 || (x2) Fire, Ice, Flying, Psychic
+|-
+|| Murkrow [[File:Murkrow.png|25px]] || 257,000 || (x2) Electric, Ice, Rock, Fairy
+|-
+|| Gengar [[File:Gengar.png|25px]] || 260,250 || (x2) Ground, Psychic, Ghost, Dark
+|-
+|| Houndoom [[File:Houndoom.png|25px]] || 266,000 || (x2) Water, Fighting, Ground, Rock
+|-
+| rowspan=6 | Champion Lance [[File:Lance2.png|20px]] || rowspan=6 | 7,500 || rowspan=6 | 54,000
+|| Gyarados [[File:Gyarados.png|25px]] || 258,300 || (x4) Electric&lt;br/&gt;(x2) Rock
+|-
+|| Dragonite [[File:Dragonite.png|25px]] || 262,000 || (x4) Ice &lt;br&gt; (x2) Rock, Dragon, Fairy
+|-
+|| Charizard [[File:Charizard.png|25px]] || 264,000 || (x4) Rock &lt;br&gt; (x2) Water, Electric
+|-
+|| Aerodactyl [[File:Aerodactyl.png|25px]] || 260,250 || (x2) Water, Electric, Ice, Rock, Steel
+|-
+|| Dragonite [[File:Dragonite.png|25px]] || 270,000 || rowspan=2 | (x4) Ice &lt;br&gt; (x2) Rock, Dragon, Fairy
+|-
+|| Dragonite [[File:Dragonite.png|25px]] || 270,000
+|}
+
+==[[Hoenn]]==
+===Gyms===
+{| class="wikitable collapsible" style="text-align: center;"
+|-
+! Location !! Badge !! Leader !! Money Earned !! Min. Attack !! Pokémon !! HP !! Weakness
+|-
+| rowspan=3 | [[Towns &amp; Cities#Hoenn|Rustboro City]]|| rowspan=3 | Stone [[File:Stone_Badge.png|15px]] || rowspan=3 | Roxanne [[File:Roxanne.png|25px]] || rowspan=3 | 1,000 || rowspan=3 | 41,020
+|| Geodude [[File:Geodude.png|25px]] || 382,900 || rowspan=2 | (x4) Water, Grass &lt;br&gt; (x2) Ice, Fighting, Ground, Steel
+|-
+|| Geodude [[File:Geodude.png|25px]] || 382,900
+|-
+|| Nosepass [[File:Nosepass.png|25px]] || 410,200 || (x2) Water, Grass, Fighting, Ground, Steel
+|-
+| rowspan=3 | [[Towns &amp; Cities#Hoenn|Dewford Town]]|| rowspan=3 | Knuckle [[File:Knuckle_Badge.png|15px]] || rowspan=3 | Brawly [[File:Brawly.png|25px]] || rowspan=3 | 2,000 || rowspan=3 | 44,400
+|| Machop [[File:Machop.png|25px]] || 424,000 || (x2) Flying, Psychic, Fairy
+|-
+|| Meditite [[File:Meditite.png|25px]] || 424,000 || (x2) Flying, Ghost, Fairy
+|-
+|| Makuhita [[File:Makuhita.png|25px]] || 444,000 || (x2) Flying, Psychic, Fairy
+|-
+| rowspan=4 | [[Towns &amp; Cities#Hoenn|Mauville City]]|| rowspan=4 | Dynamo [[File:Dynamo_Badge.png|15px]] || rowspan=4 | Wattson [[File:Wattson.png|25px]] || rowspan=4 | 3,000 || rowspan=4 | 64,000
+|| Voltorb [[File:Voltorb.png|25px]] || 452,000 || rowspan=2 | (x2) Ground
+|-
+|| Electrike [[File:Electrike.png|25px]] || 448,000
+|-
+|| Magneton [[File:Magneton.png|25px]] || 483,000 || (x4) Ground &lt;br&gt; (x2) Fire, Fighting
+|-
+|| Manectric [[File:Manectric.png|25px]] || 448,000 || (x2) Ground
+|-
+| rowspan=4 | [[Towns &amp; Cities#Hoenn|Lavaridge Town]]|| rowspan=4 | Heat [[File:Heat_Badge.png|15px]] || rowspan=4 | Flannery [[File:Flannery.png|25px]] || rowspan=4 | 4,000 || rowspan=4 | 67,429
+|| Numel [[File:Numel.png|25px]] || 472,000 || (x4) Water &lt;br&gt; (x2) Ground
+|-
+|| Slugma [[File:Slugma.png|25px]] || 472,000 || (x2) Water, Ground, Rock
+|-
+|| Camerupt [[File:Camerupt.png|25px]] || 492,000 || (x4) Water &lt;br&gt; (x2) Ground
+|-
+|| Torkoal [[File:Torkoal.png|25px]] || 524,000 || (x2) Water, Ground, Rock
+|-
+| rowspan=4 | [[Towns &amp; Cities#Hoenn|Petalburg City]]|| rowspan=4 | Balance [[File:Balance_Badge.png|15px]] || rowspan=4 | Norman [[File:Norman.png|25px]] || rowspan=4 | 5,000 || rowspan=4 | 75,715
+|| Spinda [[File:Spinda.png|25px]] || 490,000 || rowspan=4 | (x2) Fighting
+|-
+|| Vigoroth [[File:Vigoroth.png|25px]] || 530,000
+|-
+|| Linoone [[File:Linoone.png|25px]] || 560,000
+|-
+|| Slaking [[File:Slaking.png|25px]] || 596,000
+|-
+| rowspan=5 | [[Towns &amp; Cities#Hoenn|Fortree City]]|| rowspan=5 | Feather [[File:Feather_Badge.png|15px]] || rowspan=5 | Winona [[File:Winona.png|25px]] || rowspan=5 | 6,000 || rowspan=5 | 111,500
+|| Swablu [[File:Swablu.png|25px]] || 605,000 || (x2) Electric, Ice, Rock
+|-
+|| Tropius [[File:Tropius.png|25px]] || 650,000 || (x4) Ice &lt;br&gt; (x2) Fire, Poison, Flying, Rock
+|-
+|| Pelipper [[File:Pelipper.png|25px]] || 630,000 || (x4) Electric &lt;br&gt; (x2) Rock 
+|-
+|| Skarmory [[File:Skarmory.png|25px]] || 667,000 || (x2) Fire, Electric
+|-
+|| Altaria [[File:Altaria.png|25px]] || 669,000 || (x4) Ice &lt;br&gt; (x2) Rock, Dragon, Fairy
+|-
+| rowspan=4 | [[Towns &amp; Cities#Hoenn|Mossdeep City]]|| rowspan=4 | Mind [[File:Mind_Badge.png|15px]] || rowspan=4 | Tate &amp; Liza [[File:Tate_&amp;_Liza.png|25px]] || rowspan=4 | 8,000 || rowspan=4 | 100,286
+|| Claydol [[File:Claydol.png|25px]] || 702,000 || (x2) Water, Grass, Ice, Bug, Ghost, Dark
+|-
+|| Xatu [[File:Xatu.png|25px]] || 703,000 || (x2) Electric, Ice, Rock, Ghost, Dark
+|-
+|| Lunatone [[File:Lunatone.png|25px]] || 702,000 || rowspan=2 | (x2) Water, Grass, Bug, Ghost, Dark, Steel
+|-
+|| Solrock [[File:Solrock.png|25px]] || 703,000
+|-
+| rowspan=5 | [[Towns &amp; Cities#Hoenn|Sootopolis City]]|| rowspan=5 | Rain [[File:Rain_Badge.png|15px]] || rowspan=5 | Juan [[File:Juan.png|25px]] || rowspan=5 | 10,000 || rowspan=5 | 144,167
+|| Luvdisc [[File:Luvdisc.png|25px]] || 798,000 || (x2) Electric, Grass
+|-
+|| Whiscash [[File:Whiscash.png|25px]] || 813,000 || (x4) Grass
+|-
+|| Sealeo [[File:Sealeo.png|25px]] || 823,400 || (x2) Electric, Grass, Fighting, Rock
+|-
+|| Crawdaunt [[File:Crawdaunt.png|25px]] || 842,000 || (x2) Electric, Grass, Fighting, Bug, Fairy
+|-
+|| Kingdra [[File:Kingdra.png|25px]] || 865,000 || (x2) Dragon, Fairy
+|}
+
+===[[Towns &amp; Cities#Hoenn|Pokémon League Hoenn]]===
+{| class="wikitable collapsible" style="text-align: center;"
+|-
+! Leader !! Money Earned !! Min. Attack !! Pokémon !! HP !! Weakness
+|-
+| rowspan=5 | Elite Sidney [[File:Sidney.png|25px]] || rowspan=5 | 15,000 || rowspan=5 | 170,000
+|| Mightyena [[File:Mightyena.png|25px]] || 972,000 || (x2) Fighting, Bug, Fairy
+|-
+|| Shiftry [[File:Shiftry.png|25px]] || 980,000 || rowspan=2 | (x4) Bug &lt;br&gt; (x2) Fire, Ice, Fighting, Poison, Flying, Fairy
+|-
+|| Cacturne [[File:Cacturne.png|25px]] || 1,002,000
+|-
+|| Crawdaunt [[File:Crawdaunt.png|25px]] || 1,015,000 || (x2) Electric, Grass, Fighting, Bug, Fairy
+|-
+|| Absol [[File:Absol.png|25px]] || 1,020,000 || (x2) Fighting, Bug, Fairy
+|-
+| rowspan=5 | Elite Phoebe [[File:Phoebe.png|25px]] || rowspan=5 | 15,000  || rowspan=5 | 177,167
+|| Dusclops [[File:Dusclops.png|25px]] || 1,036,700 || rowspan=2 | (x2) Ghost, Dark
+|-
+|| Banette [[File:Banette.png|25px]] || 1,038,000
+|-
+|| Sableye [[File:Sableye.png|25px]] || 1,052,000 || (x2) Fairy
+|-
+|| Banette [[File:Banette.png|25px]] || 1,038,000 || rowspan=2 | (x2) Ghost, Dark
+|-
+|| Dusclops [[File:Dusclops.png|25px]] || 1,063,000
+|-
+| rowspan=5 | Elite Glacia [[File:Glacia.png|25px]] || rowspan=5 | 15,000 || rowspan=5 | 183,334
+|| Sealeo [[File:Sealeo.png|25px]] || 1,082,000 || (x2) Electric, Grass, Fighting, Rock
+|-
+|| Glalie [[File:Glalie.png|25px]] || 1,072,000 || (x2) Fire, Fighting, Rock, Steel
+|-
+|| Sealeo [[File:Sealeo.png|25px]] || 1,086,000 || (x2) Electric, Grass, Fighting, Rock
+|-
+|| Glalie [[File:Glalie.png|25px]] || 1,076,000 || (x2) Fire, Fighting, Rock, Steel
+|-
+|| Walrein [[File:Walrein.png|25px]] || 1,100,000 || (x2) Electric, Grass, Fighting, Rock
+|-
+| rowspan=5 | Elite Drake [[File:Drake.png|25px]] || rowspan=5 | 15,000 || rowspan=5 | 192,834
+|| Shelgon [[File:Shelgon.png|25px]] || 1,064,000 || (x2) Ice, Dragon, Fairy
+|-
+|| Altaria [[File:Altaria.png|25px]] || 1,072,000 || (x4) Ice &lt;br&gt; (x2) Rock, Dragon, Fairy
+|-
+|| Flygon [[File:Flygon.png|25px]] || 1,076,000 || rowspan=2 | (x4) Ice &lt;br&gt; (x2) Dragon, Fairy
+|-
+|| Flygon [[File:Flygon.png|25px]] || 1,076,000
+|-
+|| Salamence [[File:Salamence.png|25px]] || 1,157,000 || (x4) Ice &lt;br&gt; (x2) Rock, Dragon, Fairy
+|-
+| rowspan=6 | Champion Wallace [[File:Wallace.png|25px]] || rowspan=6 | 16,000 || rowspan=6 | 240,400
+|| Wailord [[File:Wailord.png|25px]] || 1,202,000 || (x2) Electric, Grass
+|-
+|| Tentacruel [[File:Tentacruel.png|25px]] || 1,164,000 || (x2) Electric, Ground, Psychic
+|-
+|| Ludicolo [[File:Ludicolo.png|25px]] || 1,184,000 || (x2) Poison, Flying, Bug
+|-
+|| Whiscash [[File:Whiscash.png|25px]] || 1,172,000 || (x4) Grass
+|-
+|| Gyarados [[File:Gyarados.png|25px]] || 1,163,000 || (x4) Electric &lt;br&gt; (x2) Rock
+|-
+|| Milotic [[File:Milotic.png|25px]] || 1,182,000 || (x2) Electric, Grass
+|}
+
+==[[Sinnoh]]==
+===Gyms===
+{| class="wikitable collapsible" style="text-align: center;"
+|-
+! Location !! Badge !! Leader !! Money Earned !! Min. Attack !! Pokémon !! HP !! Weakness
+|-
+| rowspan=3 | [[Towns &amp; Cities#Sinnoh|Oreburgh City]] || rowspan=3 | Coal [[File:Coal_Badge.png|15px]] || rowspan=3 | Roark [[File:Roark.png|25px]] || rowspan=3 | 250 || rowspan=3 | 134,200
+|| Geodude [[File:Geodude.png|25px]] || 1,338,000 || rowspan=2 | (x4) Water, Grass &lt;br&gt; (x2) Ice, Fighting, Ground, Steel
+|-
+|| Onix [[File:Onix.png|25px]] || 1,342,000
+|-
+|| Cranidos [[File:Cranidos.png|25px]] || 1,342,000 || (x2) Water, Grass, Fighting, Ground, Steel
+|-
+| rowspan=3 | [[Towns &amp; Cities#Sinnoh|Eterna City]]|| rowspan=3 | Forest [[File:Forest_Badge.png|15px]] || rowspan=3 | Gardenia [[File:Gardenia.png|25px]] || rowspan=3 | 400 || rowspan=3 | 143,900
+|| Turtwig [[File:Turtwig.png|25px]] || 1,433,000 || rowspan=2 | (x2) Fire, Ice, Poison, Flying, Bug 
+|-
+|| Cherrim (overcast) [[File:Cherrim_(overcast).png|25px]] || 1,437,500
+|-
+|| Roserade [[File:Roserade.png|25px]] || 1,439,000 || (x2) Fire, Ice, Flying, Psychic
+|-
+| rowspan=3 | [[Towns &amp; Cities#Sinnoh|Hearthome City]]|| rowspan=3 | Relic [[File:Relic_Badge.png|15px]] || rowspan=3 | Fantina [[File:Fantina.png|25px]] || rowspan=3 | 740 || rowspan=3 | 148,000
+|| Duskull [[File:Duskull.png|25px]] || 1,450,000 || (x2) Ghost, Dark
+|-
+|| Haunter [[File:Haunter.png|25px]] || 1,480,000 || (x2) Ground, Psychic, Ghost, Dark
+|-
+|| Mismagius [[File:Mismagius.png|25px]] || 1,480,000 || (x2) Ghost, Dark
+|-
+| rowspan=3 | [[Towns &amp; Cities#Sinnoh|Veilstone City]]|| rowspan=3 | Cobble [[File:Cobble_Badge.png|15px]] || rowspan=3 | Maylene [[File:Maylene.png|25px]] || rowspan=3 | 1,200 || rowspan=3 | 154,000
+|| Meditite [[File:Meditite.png|25px]] || 1,537,000 || (x2) Flying, Ghost, Fairy
+|-
+|| Machoke [[File:Machoke.png|25px]] || 1,538,000 || (x2) Flying, Psychic, Fairy
+|-
+|| Lucario [[File:Lucario.png|25px]] || 1,540,000 || (x2) Fire, Fighting, Ground
+|-
+| rowspan=3 | [[Towns &amp; Cities#Sinnoh|Pastoria City]]|| rowspan=3 | Fen [[File:Fen_Badge.png|15px]] || rowspan=3 | Crasher Wake [[File:Crasher_Wake.png|25px]] || rowspan=3 | 2,500 || rowspan=3 | 169,300
+|| Gyarados [[File:Gyarados.png|25px]] || 1,687,000 || (x4) Electric &lt;br&gt; (x2) Rock
+|-
+|| Quagsire [[File:Quagsire.png|25px]] || 1,693,000 || (x4) Grass
+|-
+|| Floatzel [[File:Floatzel.png|25px]] || 1,693,000 || (x2) Electric, Grass
+|-
+| rowspan=3 | [[Towns &amp; Cities#Sinnoh|Canalave City]]|| rowspan=3 | Mine [[File:Mine_Badge.png|15px]] || rowspan=3 | Byron [[File:Byron.png|25px]] || rowspan=3 | 4,800 || rowspan=3 | 177,200
+|| Magneton [[File:Magneton.png|25px]] || 1,767,000 || (x4) Ground &lt;br&gt; (x2) Fire, Fighting
+|-
+|| Steelix [[File:Steelix.png|25px]] || 1,772,000 || (x2) Fire, Water, Fighting, Ground
+|-
+|| Bastiodon [[File:Bastiodon.png|25px]] || 1,768,000 || (x4) Fighting, Ground &lt;br&gt; (x2) Water
+|-
+| rowspan=4 | [[Towns &amp; Cities#Sinnoh|Snowpoint City]]|| rowspan=4 | Icicle [[File:Icicle_Badge.png|15px]] || rowspan=4 | Candice [[File:Candice.png|25px]] || rowspan=4 | 8,000 || rowspan=4 | 267,143
+|| Sneasel [[File:Sneasel.png|25px]] || 1,872,500 || (x4) Fighting &lt;br&gt; (x2) Fire, Bug, Rock, Steel, Fairy
+|-
+|| Piloswine [[File:Piloswine.png|25px]] || 1,876,000 || (x2) Fire, Water, Grass, Fighting, Steel
+|-
+|| Abomasnow [[File:Abomasnow.png|25px]] || 1,870,000 || (x4) Fire &lt;br&gt; (x2) Fighting, Poison, Flying, Bug, Rock, Steel
+|-
+|| Froslass [[File:Froslass.png|25px]] || 1,870,000 || (x2) Fire, Rock, Ghost, Dark, Steel
+|-
+| rowspan=4 | [[Towns &amp; Cities#Sinnoh|Sunyshore City]]|| rowspan=4 | Beacon [[File:Beacon_Badge.png|15px]] || rowspan=4 | Volkner [[File:Volkner.png|25px]] || rowspan=4 | 12,000 || rowspan=4 | 280,715
+|| Jolteon [[File:Jolteon.png|25px]] || 1,965,000 || rowspan=4 | (x2) Ground
+|-
+|| Raichu [[File:Raichu.png|25px]] || 1,965,000
+|-
+|| Luxray [[File:Luxray.png|25px]] || 1,978,000
+|-
+|| Electivire [[File:Electivire.png|25px]] || 1,980,000
+|}
+
+===[[Towns &amp; Cities#Sinnoh|Pokémon League Sinnoh]]===
+{| class="wikitable collapsible" style="text-align: center;"
+|-
+! Leader !! Money Earned !! Min. Attack !! Pokémon !! HP !! Weakness
+|-
+| rowspan=5 | Elite Aaron [[File:Aaron.png|25px]] || rowspan=5 | 18,000 || rowspan=5 | 426,709
+|| Yanmega [[File:Yanmega.png|25px]] || 2,545,330 || (x4) Rock &lt;br&gt; (x2) Fire, Electric, Ice, Flying
+|-
+|| Scizor [[File:Scizor.png|25px]] || 2,548,300 || (x4) Fire
+|-
+|| Vespiquen [[File:Vespiquen.png|25px]] || 2,552,000 || (x4) Rock &lt;br&gt; (x2) Fire, Electric, Ice, Flying
+|-
+|| Heracross [[File:Heracross.png|25px]] || 2,557,000 || (x4) Flying &lt;br&gt; (x2) Fire, Psychic, Fairy
+|-
+|| Drapion [[File:Drapion.png|25px]] || 2,560,250 || (x2) Ground
+|-
+| rowspan=5 | Elite Bertha [[File:Bertha.png|25px]] || rowspan=5 | 18,000 || rowspan=5 | 443,375
+|| Whiscash [[File:Whiscash.png|25px]] || 2,645,330 || (x4) Grass
+|-
+|| Gliscor [[File:Gliscor.png|25px]] || 2,648,300 || (x4) Ice &lt;br&gt; (x2) Water
+|-
+|| Hippowdon [[File:Hippowdon.png|25px]] || 2,652,000 || (x2) Water, Grass, Ice
+|-
+|| Golem [[File:Golem.png|25px]] || 2,657,000 || rowspan=2 | (x4) Water, Grass &lt;br&gt; (x2) Ice, Fighting, Ground, Steel
+|-
+|| Rhyperior [[File:Rhyperior.png|25px]] || 2,660,250
+|-
+| rowspan=5 | Elite Flint [[File:Flint.png|25px]] || rowspan=5 | 18,000 || rowspan=5 | 476,709
+|| Houndoom [[File:Houndoom.png|25px]] || 2,845,330 || (x2) Water, Fighting, Ground, Rock
+|-
+|| Flareon [[File:Flareon.png|25px]] || 2,848,300 || rowspan=2 | (x2) Water, Ground, Rock
+|-
+|| Rapidash [[File:Rapidash.png|25px]] || 2,852,000
+|-
+|| Infernape [[File:Infernape.png|25px]] || 2,857,000 || (x2) Water, Ground, Flying, Psychic
+|-
+|| Magmortar [[File:Magmortar.png|25px]] || 2,860,250 || (x2) Water, Ground, Rock
+|-
+| rowspan=5 | Elite Lucian [[File:Lucian.png|25px]] || rowspan=5 | 18,000 || rowspan=5 | 511,000
+|| Mr. Mime [[File:Mr._Mime.png|25px]] || 3,048,300 || (x2) Poison, Ghost, Steel 
+|-
+|| Espeon [[File:Espeon.png|25px]] || 3,052,000 || (x2) Bug, Ghost, Dark
+|-
+|| Bronzong [[File:Bronzong.png|25px]] || 3,057,000 || (x2) Fire, Ground, Ghost, Dark
+|-
+|| Alakazam [[File:Alakazam.png|25px]] || 3,060,250 || (x2) Bug, Ghost, Dark
+|-
+|| Gallade [[File:Gallade.png|25px]] || 3,066,000 || (x2) Flying, Ghost, Fairy
+|-
+| rowspan=6 | Champion Cynthia [[File:Cynthia.png|25px]] || rowspan=6 | 32,000 || rowspan=6 | 714,000
+|| Spiritomb [[File:Spiritomb.png|25px]] || 3,458,300 || (x2) Fairy
+|-
+|| Roserade [[File:Roserade.png|25px]] || 3,462,000 || (x2) Fire, Ice, Flying, Psychic
+|-
+|| Togekiss [[File:Togekiss.png|25px]] || 3,464,000 || (x2) Electric, Ice, Poison, Rock, Steel
+|-
+|| Lucario [[File:Lucario.png|25px]] || 3,460,250 || (x2) Fire, Fighting, Ground
+|-
+|| Milotic [[File:Milotic.png|25px]] || 3,470,000 || (x2) Electric, Grass
+|-
+|| Garchomp [[File:Garchomp.png|25px]] || 3,570,000 || (x4) Ice &lt;br&gt; (x2) Dragon, Fairy
+|}
+
+==[[Unova]]==
+===Gyms===
+{| class="wikitable collapsible" style="text-align: center;"
+|-
+! Location !! Badge !! Leader !! Money Earned !! Min. Attack !! Pokémon !! HP !! Weakness
+|-
+| rowspan=3 | [[Towns &amp; Cities#Unova|Aspertia City]] || rowspan=3 | Basic [[File:Basic_Badge.png|15px]] || rowspan=3 | Cheren [[File:Cheren.png|25px]] || rowspan=3 | 500 || rowspan=3 | 346,400
+|| Patrat [[File:Patrat.png|25px]] || 3,458,300 || (x2) Fighting
+|-
+|| Pidove [[File:Pidove.png|25px]] || 3,462,000 || (x2) Electric, Ice, Rock
+|-
+|| Lillipup [[File:Lillipup.png|25px]] || 3,464,000 || (x2) Fighting
+|-
+| rowspan=3 | [[Towns &amp; Cities#Unova|Virbank City]] || rowspan=3 | Toxic [[File:Toxic_Badge.png|15px]] || rowspan=3 | Roxie [[File:Roxie.png|25px]] || rowspan=3 | 800  || rowspan=3 | 366,400
+|| Koffing [[File:Koffing.png|25px]] || 3,658,300 || rowspan=2 | (x2) Ground, Psychic
+|-
+|| Grimer [[File:Grimer.png|25px]] || 3,662,000
+|-
+|| Whirlipede [[File:Whirlipede.png|25px]] || 3,664,000 || (x2) Fire, Flying, Psychic, Rock  
+|-
+| rowspan=4 | [[Towns &amp; Cities#Unova|Castelia City]] || rowspan=4 | Insect [[File:Insect_Badge.png|15px]] || rowspan=4 | Burgh [[File:Burgh.png|25px]] || rowspan=4 | 1,500 || rowspan=4 | 551,715
+|| Dwebble [[File:Dwebble.png|25px]] || 3,858,300 || (x2) Water, Rock, Steel
+|-
+|| Shelmet [[File:Shelmet.png|25px]] || 3,862,000 || rowspan=2 | (x2) Fire, Flying, Rock
+|-
+|| Karrablast [[File:Karrablast.png|25px]] || 3,964,000
+|-
+|| Leavanny [[File:Leavanny.png|25px]] || 4,064,000 || (x4) Fire, Flying &lt;br&gt; (x2) Ice, Poison, Bug, Rock
+|-
+| rowspan=4 | [[Towns &amp; Cities#Unova|Nimbasa City]] || rowspan=4 | Bolt [[File:Bolt_Badge.png|15px]] || rowspan=4 | Elesa [[File:Elesa.png|25px]] || rowspan=4 | 2,600 || rowspan=4 | 608,858
+|| Emolga [[File:Emolga.png|25px]] || 4,258,300 || (x2) Ice, Rock
+|-
+|| Flaaffy [[File:Flaaffy.png|25px]] || 4,262,000 || (x2) Ground
+|-
+|| Joltik [[File:Joltik.png|25px]] || 4,464,000 || (x2) Fire, Rock
+|-
+|| Zebstrika [[File:Zebstrika.png|25px]] || 4,464,000 || (x2) Ground
+|-
+| rowspan=4 | [[Towns &amp; Cities#Unova|Driftveil City]] || rowspan=4 | Quake [[File:Quake_Badge.png|15px]] || rowspan=4 | Clay [[File:Clay.png|25px]] || rowspan=4 | 4,800 || rowspan=4 | 666,000
+|| Krokorok [[File:Krokorok.png|25px]] || 4,658,300 || (x2) Water, Grass, Ice, Fighting, Bug, Fairy
+|-
+|| Sandslash [[File:Sandslash.png|25px]] || 4,662,000 || (x2) Water, Grass, Ice
+|-
+|| Onix [[File:Onix.png|25px]] || 4,864,000 || (x4) Water, Grass &lt;br&gt; (x2) Ice, Fighting, Ground, Steel
+|-
+|| Excadrill [[File:Excadrill.png|25px]] || 5,064,000 || (x2) Fire, Water, Fighting, Ground
+|-
+| rowspan=4 | [[Towns &amp; Cities#Unova|Mistralton City]] || rowspan=4 | Jet [[File:Jet_Badge.png|15px]] || rowspan=4 | Skyla [[File:Skyla.png|25px]] || rowspan=4 | 7,600 || rowspan=4 | 809,143
+|| Swoobat [[File:Swoobat.png|25px]] || 5,458,300 || (x2) Electric, Ice, Rock, Ghost, Dark
+|-
+|| Skarmory [[File:Skarmory.png|25px]] || 6,062,000 || (x2) Fire, Electric
+|-
+|| Sigilyph [[File:Sigilyph.png|25px]] || 5,664,000 || (x2) Electric, Ice, Rock, Ghost, Dark
+|-
+|| Swanna [[File:Swanna.png|25px]] || 5,864,000 || (x4) Electric &lt;br&gt; (x2) Rock
+|-
+| rowspan=4 | [[Towns &amp; Cities#Unova|Opelucid City]]|| rowspan=4 | Legend [[File:Legend_Badge.png|15px]] || rowspan=4 | Drayden [[File:Drayden.png|25px]] || rowspan=4 | 14,000 || rowspan=4 | 936,900
+|| Druddigon [[File:Druddigon.png|25px]] || 6,558,300 || (x2) Ice, Dragon, Fairy
+|-
+|| Flygon [[File:Flygon.png|25px]] || 6,662,000 || (x4) Ice &lt;br&gt; (x2) Dragon, Fairy
+|-
+|| Altaria [[File:Altaria.png|25px]] || 6,464,000 || (x4) Ice &lt;br&gt; (x2) Rock, Dragon, Fairy
+|-
+|| Haxorus [[File:Haxorus.png|25px]] || 6,964,000 || (x2) Ice, Dragon, Fairy
+|-
+| rowspan=4 | [[Towns &amp; Cities#Unova|Humilau City]]|| rowspan=4 | Wave [[File:Wave_Badge.png|15px]] || rowspan=4 | Marlon [[File:Marlon.png|25px]] || rowspan=4 | 27,000 || rowspan=4 | 1,037,429
+|| Wailord [[File:Wailord.png|25px]] || 7,458,300 || (x2) Electric, Grass
+|-
+|| Mantine [[File:Mantine.png|25px]] || 7,262,000 || (x4) Electric &lt;br&gt; (x2) Rock
+|-
+|| Carracosta [[File:Carracosta.png|25px]] || 7,064,000 || (x4) Grass &lt;br&gt; (x2) Electric, Fighting, Ground
+|-
+|| Jellicent [[File:Jellicent.png|25px]] || 7,464,000 || (x2) Electric, Grass, Ghost, Dark
+|-
+|}
+
+===[[Towns &amp; Cities#Unova|Pokémon League Unova]]===
+{| class="wikitable collapsible" style="text-align: center;"
+|-
+! Leader !! Money Earned !! Min. Attack !! Pokémon !! HP !! Weakness
+|-
+| rowspan=6 | Elite Shauntal [[File:Shauntal.png|25px]] || rowspan=6 | 32,000 || rowspan=6 | 1,792,050
+|| Cofagrigus [[File:Cofagrigus.png|25px]] || 8,945,330 || (x2) Ghost, Dark
+|-
+|| Gengar [[File:Gengar.png|25px]] || 8,948,300 || (x2) Ground, Psychic, Ghost, Dark
+|-
+|| Froslass [[File:Froslass.png|25px]] || 8,952,000 || (x2) Fire, Rock, Ghost, Dark, Steel
+|-
+|| Drifblim [[File:Drifblim.png|25px]] || 8,957,000 || (x2) Electric, Ice, Rock, Ghost, Dark
+|-
+|| Golurk [[File:Golurk.png|25px]] || 8,960,250 || (x2) Water, Grass, Ice, Ghost, Dark
+|-
+|| Chandelure [[File:Chandelure.png|25px]] || 8,960,250 || (x2) Water, Ground, Rock, Ghost, Dark
+|-
+| rowspan=6 | Elite Marshal [[File:Marshal.png|25px]] || rowspan=6 | 32,000 || rowspan=6 | 1,992,050
+|| Throh [[File:Throh.png|25px]] || 9,945,330 || rowspan=2 | (x2) Flying, Psychic, Fairy
+|-
+|| Sawk [[File:Sawk.png|25px]] || 9,948,300
+|-
+|| Lucario [[File:Lucario.png|25px]] || 9,952,000 || (x2) Fire, Fighting, Ground
+|-
+|| Mienshao [[File:Mienshao.png|25px]] || 9,957,000 || rowspan=3 | (x2) Flying, Psychic, Fairy
+|-
+|| Machamp [[File:Machamp.png|25px]] || 9,957,000
+|-
+|| Conkeldurr [[File:Conkeldurr.png|25px]] || 9,960,250
+|-
+| rowspan=6 | Elite Grimsley [[File:Grimsley.png|25px]] || rowspan=6 | 32,000 || rowspan=6 | 2,192,050
+|| Honchkrow [[File:Honchkrow.png|25px]] || 10,945,330 || (x2) Electric, Ice, Rock, Fairy
+|-
+|| Scrafty [[File:Scrafty.png|25px]] || 10,948,300 || (x4) Fairy &lt;br&gt; (x2) Fighting, Flying
+|-
+|| Krookodile [[File:Krookodile.png|25px]] || 10,952,000 || (x2) Water, Grass, Ice, Fighting, Bug, Fairy
+|-
+|| Houndoom [[File:Houndoom.png|25px]] || 10,957,000 || (x2) Water, Fighting, Ground, Rock
+|-
+|| Tyranitar [[File:Tyranitar.png|25px]] || 10,957,000 || (x4) Fighting &lt;br&gt; (x2) Water, Grass, Ground, Bug, Steel, Fairy
+|-
+|| Bisharp [[File:Bisharp.png|25px]] || 10,960,250 || (x4) Fighting &lt;br&gt; (x2) Ground, Fire
+|-
+| rowspan=6 | Elite Caitlin [[File:Caitlin.png|25px]] || rowspan=6 | 32,000 || rowspan=6 | 2,392,050
+|| Musharna [[File:Musharna.png|25px]] || 11,945,330 || rowspan=3 | (x2) Bug, Ghost, Dark
+|-
+|| Alakazam [[File:Alakazam.png|25px]] || 11,948,300
+|-
+|| Gothitelle [[File:Gothitelle.png|25px]] || 11,957,000
+|-
+|| Gallade [[File:Gallade.png|25px]] || 11,957,000 || (x2) Flying, Ghost, Fairy
+|-
+|| Reuniclus [[File:Reuniclus.png|25px]] || 11,952,000 || (x2) Bug, Ghost, Dark
+|-
+|| Metagross [[File:Metagross.png|25px]] || 11,960,250 || (x2) Fire, Ground, Ghost, Dark
+|-
+| rowspan=6 | Champion Iris [[File:Iris.png|25px]] || rowspan=6 | 64,000 || rowspan=6 | 2,914,000
+|| Hydreigon [[File:Hydreigon.png|25px]] || 12,458,300 || (x4) Fairy &lt;br&gt; (x2) Ice, Fighting, Bug, Dragon
+|-
+|| Salamence [[File:Salamence.png|25px]] || 12,462,000 || (x4) Ice &lt;br&gt; (x2) Rock, Dragon, Fairy
+|-
+|| Aggron [[File:Aggron.png|25px]] || 12,464,000 || (x4) Fighting, Ground &lt;br&gt; (x2) Water
+|-
+|| Archeops [[File:Archeops.png|25px]] || 12,460,250 || (x2) Water, Electric, Ice, Rock, Steel
+|-
+|| Lapras [[File:Lapras.png|25px]] || 12,470,000 || (x2) Electric, Grass, Fighting, Rock
+|-
+|| Haxorus [[File:Haxorus.png|25px]] || 14,570,000 || (x2) Ice, Dragon, Fairy
+|}
+
+==[[Kalos]]==
+===Gyms===
+{| class="wikitable collapsible" style="text-align: center;"
+|-
+! Location !! Badge !! Leader !! Money Earned !! Min. Attack !! Pokémon !! HP !! Weakness
+|-
+| rowspan=2 | [[Towns &amp; Cities#Kalos|Santalune City]] || rowspan=2 | Bug [[File:Bug_Badge.png|15px]] || rowspan=2 | Viola [[File:Viola.png|25px]] || rowspan=2 | 800 || rowspan=2 | 1,056,724
+|| Surskit [[File:Surskit.png|25px]] || 13,737,400 || (x2) Electric, Flying, Rock
+|-
+|| Vivillon (Meadow) [[File:Vivillon_(Meadow).png|25px]] || 17,395,730 || (x4) Rock &lt;br&gt; (x2) Fire, Electric, Ice, Flying
+|-
+| rowspan=2 | [[Towns &amp; Cities#Kalos|Cyllage City]] || rowspan=2 | Cliff [[File:Cliff_Badge.png|15px]] || rowspan=2 | Grant [[File:Grant.png|25px]] || rowspan=2 | 1,700 || rowspan=2 | 1,239,838
+|| Amaura [[File:Amaura.png|25px]] || 16,937,530 || (x4) Fighting, Steel &lt;br&gt; (x2) Water, Grass, Ground, Rock
+|-
+|| Tyrunt [[File:Tyrunt.png|25px]] || 19,837,400 || (x2) Ice, Fighting, Ground, Dragon, Steel
+|-
+| rowspan=3 | [[Towns &amp; Cities#Kalos|Shalour City]]|| rowspan=3 | Rumble [[File:Rumble_Badge.png|15px]] || rowspan=3 | Korrina [[File:Korrina.png|25px]] || rowspan=3 | 3,800 || rowspan=3 | 2,236,200
+|| Mienfoo [[File:Mienfoo.png|25px]] || 21,558,300 || rowspan=2 | (x2) Flying, Psychic, Fairy
+|-
+|| Machoke [[File:Machoke.png|25px]] || 22,062,000
+|-
+|| Hawlucha [[File:Hawlucha.png|25px]] || 22,362,000 || (x2) Electric, Ice, Flying, Psychic, Fairy
+|-
+| rowspan=3 | [[Towns &amp; Cities#Kalos|Coumarine City]]|| rowspan=3 | Plant [[File:Plant_Badge.png|15px]] || rowspan=3 | Ramos [[File:Ramos.png|25px]] || rowspan=3 | 5,500 || rowspan=3 | 2,834,256
+|| Jumpluff [[File:Jumpluff.png|25px]] || 25,508,300 || (x4) Ice &lt;br&gt; (x2) Fire, Poison, Flying, Rock
+|-
+|| Weepinbell [[File:Weepinbell.png|25px]] || 27,562,000 || (x2) Fire, Ice, Flying, Psychic 
+|-
+|| Gogoat [[File:Gogoat.png|25px]] || 29,502,000 || (x2) Fire, Ice, Poison, Flying, Bug 
+|-
+| rowspan=3 | [[Towns &amp; Cities#Kalos|Lumiose City]]|| rowspan=3 | Voltage [[File:Voltage_Badge.png|15px]] || rowspan=3 | Clemont [[File:Clemont.png|25px]] || rowspan=3 | 9,000 || rowspan=3 | 3,206,200
+|| Emolga [[File:Emolga.png|25px]] || 30,058,300 || (x2) Ice, Rock
+|-
+|| Magneton [[File:Magneton.png|25px]] || 31,062,000 || (x4) Ground &lt;br&gt; (x2) Fire, Fighting
+|-
+|| Heliolisk [[File:Heliolisk.png|25px]] || 32,062,000 || (x2) Ground, Fighting
+|-
+| rowspan=3 | [[Towns &amp; Cities#Kalos|Laverre City]]|| rowspan=3 | Fairy [[File:Fairy_Badge.png|15px]] || rowspan=3 | Valerie [[File:Valerie.png|25px]] || rowspan=3 | 16,000 || rowspan=3 | 3,673,145
+|| Mawile [[File:Mawile.png|25px]] || 33,058,300 || (x2) Fire, Ground
+|-
+|| Mr. Mime [[File:Mr._Mime.png|25px]] || 36,462,000 || (x2) Poison, Ghost, Steel 
+|-
+|| Sylveon [[File:Sylveon.png|25px]] || 38,062,000 || (x2) Poison, Steel
+|-
+| rowspan=3 | [[Towns &amp; Cities#Kalos|Anistar City]]|| rowspan=3 | Psychic [[File:Psychic_Badge.png|15px]] || rowspan=3 | Olympia [[File:Olympia.png|25px]] || rowspan=3 | 30,000 || rowspan=3 | 4,446,200
+|| Sigilyph [[File:Sigilyph.png|25px]] || 40,058,300 || (x2) Electric, Ice, Rock, Ghost, Dark
+|-
+|| Slowking [[File:Slowking.png|25px]] || 42,062,000 || (x2) Electric, Grass, Bug, Ghost, Dark
+|-
+|| Meowstic [[File:Meowstic.png|25px]] || 44,462,000 || (x2) Bug, Ghost, Dark
+|-
+| rowspan=3 | [[Towns &amp; Cities#Kalos|Snowbelle City]]|| rowspan=3 | Iceberg [[File:Iceberg_Badge.png|15px]] || rowspan=3 | Wulfric [[File:Wulfric.png|25px]] || rowspan=3 | 52,000 || rowspan=3 | 5,006,200
+|| Abomasnow [[File:Abomasnow.png|25px]] || 46,558,300 || (x4) Fire &lt;br&gt; (x2) Fighting, Poison, Flying, Bug, Rock, Steel
+|-
+|| Cryogonal [[File:Cryogonal.png|25px]] || 47,654,830 || rowspan=2 | (x2) Fire, Fighting, Rock, Steel
+|-
+|| Avalugg [[File:Avalugg.png|25px]] || 50,062,000
+|}
+
+===[[Towns &amp; Cities#Kalos|Pokémon League Kalos]]===
+{| class="wikitable collapsible" style="text-align: center;"
+|-
+! Leader !! Money Earned !! Min. Attack !! Pokémon !! HP !! Weakness
+|-
+| rowspan=4 | Elite Malva [[File:Malva.png|25px]] || rowspan=4 | 64,000 || rowspan=4 | 7,864,043
+|| Pyroar [[File:Pyroar.png|25px]] || 54,696,969 || (x2) Water, Fighting, Ground, Rock
+|-
+|| Torkoal [[File:Torkoal.png|25px]] || 55,048,300 || (x2) Water, Ground, Rock
+|-
+|| Chandelure [[File:Chandelure.png|25px]] || 55,052,000 || (x2) Water, Ground, Rock, Ghost, Dark
+|-
+|| Talonflame [[File:Talonflame.png|25px]] || 55,557,000 || (x4) Rock &lt;br&gt; (x2) Water, Electric
+|-
+| rowspan=4 | Elite Siebold [[File:Siebold.png|25px]] || rowspan=4 | 64,000 || rowspan=4 | 7,915,048
+|| Clawitzer [[File:Clawitzer.png|25px]] || 54,696,969 || (x2) Electric, Grass 
+|-
+|| Gyarados [[File:Gyarados.png|25px]] || 55,405,330 || (x4) Electric &lt;br&gt; (x2) Rock
+|-
+|| Starmie [[File:Starmie.png|25px]] || 55,405,330 || (x2) Electric, Grass, Bug, Ghost, Dark
+|-
+|| Barbaracle [[File:Barbaracle.png|25px]] || 55,557,000 || (x4) Grass &lt;br&gt; (x2) Electric, Fighting, Ground
+|-
+| rowspan=4 | Elite Wikstrom [[File:Wikstrom.png|25px]] || rowspan=4 | 64,000 || rowspan=4 | 7,915,048
+|| Klefki [[File:Klefki.png|25px]] || 54,696,969 || (x2) Fire, Ground
+|-
+|| Probopass [[File:Probopass.png|25px]] || 55,405,330 || (x4) Fighting, Ground &lt;br&gt; (x2) Water
+|-
+|| Scizor [[File:Scizor.png|25px]] || 55,405,330 || (x4) Fire
+|-
+|| Aegislash [[File:Aegislash.png|25px]] || 55,557,000 || (x2) Fire, Ground, Ghost, Dark
+|-
+| rowspan=4 | Elite Drasna [[File:Drasna.png|25px]] || rowspan=4 | 64,000 || rowspan=4 | 7,915,048
+|| Dragalge [[File:Dragalge.png|25px]] || 54,696,969 || (x2) Ice, Ground, Psychic, Dragon
+|-
+|| Druddigon [[File:Druddigon.png|25px]] || 55,405,330 || (x2) Ice, Dragon, Fairy
+|-
+|| Altaria [[File:Altaria.png|25px]] || 55,405,330 || rowspan=2 | (x4) Ice &lt;br&gt; (x2) Rock, Dragon, Fairy
+|-
+|| Noivern [[File:Noivern.png|25px]] || 55,557,000
+|-
+| rowspan=6 | Champion Diantha [[File:Diantha.png|25px]] || rowspan=6 | 128,000 || rowspan=6 | 12,614,800
+|| Hawlucha [[File:Hawlucha.png|25px]] || 60,083,000 || (x2) Electric, Ice, Flying, Psychic, Fairy
+|-
+|| Tyrantrum [[File:Tyrantrum.png|25px]] || 62,057,000 || (x2) Ice, Fighting, Ground, Dragon, Steel
+|-
+|| Aurorus [[File:Aurorus.png|25px]] || 62,057,000 || (x4) Fighting, Steel &lt;br&gt; (x2) Water, Grass, Ground, Rock
+|-
+|| Gourgeist [[File:Gourgeist.png|25px]] || 62,557,000 || (x2) Fire, Ice, Flying, Ghost, Dark
+|-
+|| Goodra [[File:Goodra.png|25px]] || 62,170,000 || (x2) Ice, Dragon, Fairy
+|-
+|| Mega Gardevoir [[File:Mega Gardevoir.png|25px]] || 63,070,000 || (x2) Poison, Ghost, Steel
+|}
+
+==[[Alola]]==
+===Island Trials===
+{| class="wikitable collapsible" style="text-align: center;"
+|-
+! Location !! Badge !! Leader !! Possible Bosses
+|-
+| [[Verdant Cavern]] || Normalium Z [[File:NormaliumZ.png|15px]] || Ilima[[File:Ilima.png|25px]] || Gumshoos [[File:Gumshoos.png|25px]] &lt;br&gt; Alolan Raticate [[File:Alolan Raticate.png|25px]] 
+|-
+| [[Brooklet Hill]] || Waterium Z [[File:WateriumZ.png|15px]] || Lana [[File:Lana.png|25px]] || Wishiwashi (School) [[File:Wishiwashi (School).png|25px]] &lt;br&gt; Araquanid [[File:Araquanid.png|25px]] 
+|-
+| [[Wela Volcano Park]] || Firium Z [[File:FiriumZ.png|15px]] || Kiawe [[File:Kiawe.png|25px]] || Alolan Marowak [[File:Alolan Marowak.png|25px]] &lt;br&gt; Salazzle [[File:Salazzle.png|25px]] 
+|-
+| [[Lush Jungle]] || Grassium Z [[File:GrassiumZ.png|15px]] || Mallow [[File:Mallow.png|25px]] || Lurantis [[File:Lurantis.png|25px]]
+|-
+| [[Hokulani Observatory]] || Electrium Z [[File:ElectriumZ.png|15px]] || Sophocles [[File:Sophocles.png|25px]] || Vikavolt [[File:Vikavolt.png|25px]] &lt;br&gt; Togedemaru [[File:Togedemaru.png|25px]]
+|-
+| [[Thrifty Megamart]] || Ghostium Z [[File:GhostiumZ.png|15px]] || Acerola [[File:Acerola.png|25px]] || Mimikyu [[File:Mimikyu.png|25px]] 
+|-
+| [[Vast Poni Canyon]] || Dragonium Z [[File:DragoniumZ.png|15px]] || Totem Kommo-o [[File:Totem Kommo-o.png|25px]] || Kommo-o [[File:Kommo-o.png|25px]] 
+|-
+| [[Mina's Houseboat]] || Fairium Z [[File:FairiumZ.png|15px]] || Mina [[File:Mina.png|25px]] || Ribombee [[File:Ribombee.png|25px]] 
+|-
+|}
+
+===Gyms===
+{| class="wikitable collapsible" style="text-align: center;"
+|-
+! Location !! Badge !! Leader !! Money Earned !! Min. Attack !! Pokémon !! HP !! Weakness
+|-
+| rowspan=3 | [[Towns &amp; Cities#Alola|Iki Town]] || rowspan=3 | Fightinium Z [[File:FightiniumZ.png|15px]] || rowspan=3 | Hala [[File:Hala.png|25px]] || rowspan=3 | 128,000 || rowspan=3 | 6,306,962
+|| Machop [[File:Machop.png|25px]] || 62,058,739 || (x2) Flying, Fairy, Psychic
+|- 
+|| Makuhita [[File:Makuhita.png|25px]] || 62,058,739 || (x2) Flying, Fairy, Psychic
+|-
+|| Crabrawler [[File:Crabrawler.png|25px]] || 63,069,612 || (x2) Flying, Fairy, Psychic
+|-
+| rowspan=3 | [[Towns &amp; Cities#Alola|Konikoni City]]|| rowspan=3 | Rockium Z [[File:RockiumZ.png|15px]] || rowspan=3 | Olivia [[File:Olivia.png|25px]] || rowspan=3 | 128,000 || rowspan=3 | 6,747,868
+|| Lileep [[File:Lileep.png|25px]] || 66,147,743 || (x2) Fighting, Steel, Ice, Bug
+|-
+|| Anorith [[File:Anorith.png|25px]] || 66,147,743 || (x2) Water, Rock, Steel
+|-
+|| Lycanroc (Midnight) [[File:Lycanroc (Midnight).png|25px]] || 67,478,674 || (x2) Ground, Steel, Water, Grass, Fighting
+|-
+| rowspan=3 | [[Towns &amp; Cities#Alola|Malie City]]|| rowspan=3 | Darkinium Z [[File:DarkiniumZ.png|15px]] || rowspan=3 | Nanu [[File:Nanu.png|25px]] || rowspan=3 | 128,000 || rowspan=3 | 7,173,511
+|| Sableye [[File:Sableye.png|25px]] || 70,650,480 || (x2) Fairy
+|-
+|| Krokorok [[File:Krokorok.png|25px]] || 70,650,480 || (x2) Fighting, Water, Grass, Ice, Bug, Fairy
+|-
+|| Alolan Persian [[File:Alolan Persian.png|25px]] || 71,735,104 || (x2) Fighting, Bug, Fairy
+|-
+| rowspan=4 | [[Towns &amp; Cities#Alola|Exeggutor Island]]|| rowspan=4 | Groundium Z [[File:GroundiumZ.png|15px]] || rowspan=4 | Hapu [[File:Hapu.png|25px]] || rowspan=4 | 128,000 || rowspan=4 | 10,951,182
+|| Golurk [[File:Golurk.png|25px]] || 76,658,268 || (x2) Ghost, Dark, Grass, Ice, Water
+|-
+|| Gastrodon (east) [[File:Gastrodon (east).png|25px]] || 76,658,268 || (x4) Grass
+|-
+|| Flygon [[File:Flygon.png|25px]] || 76,658,268 || (x4) Ice &lt;br&gt; (x2) Dragon, Fairy
+|-
+|| Mudsdale [[File:Mudsdale.png|25px]] || 77,747,374 || (2x) Ice, Grass, Water
+|-
+|}
+
+===[[Towns &amp; Cities#Alola|Pokémon League Alola]]===
+{| class="wikitable collapsible" style="text-align: center;"
+|-
+! Leader !! Money Earned !! Min. Attack !! Pokémon !! HP !! Weakness
+|-
+| rowspan=5 | Elite Molayne [[File:Molayne.png|25px]] || rowspan=5 | 64,000 || rowspan=5 | 14,409,408
+|| Klefki [[File:Klefki.png|25px]] || 85,547,357 || (x2) Fire, Ground
+|-
+|| Bisharp [[File:Bisharp.png|25px]] || 85,547,357 || (x4) Fighting &lt;br&gt; (x2) Ground, Fire
+|-
+|| Magnezone [[File:Magnezone.png|25px]] || 85,547,357 || (x4) Ground &lt;br&gt; (x2) Fighting, Fire
+|-
+|| Metagross [[File:Metagross.png|25px]] || 85,547,357 || (x2) Fire, Ground, Ghost, Dark
+|-
+|| Alolan Dugtrio [[File:Alolan Dugtrio.png|25px]] || 86,456,446 || (x2) Fighting, Ground, Water, Fire
+|-
+| rowspan=5 | Elite Olivia [[File:Olivia.png|25px]] || rowspan=5 | 64,000 || rowspan=5 | 14,409,408 || Armaldo [[File:Armaldo.png|25px]] || 85,547,357 || (x2) Steel, Rock,  Water
+|-
+|| Cradily [[File:Cradily.png|25px]] || 85,547,357 || (x2) Steel, Fighting, Ice, Bug
+|-
+|| Gigalith [[File:Gigalith.png|25px]] || 85,547,357 || (x2) Ground, Grass, Water, Steel, Fighting
+|-
+|| Probopass [[File:Probopass.png|25px]] || 85,547,357 || (x4) Ground, Fighting &lt;br&gt; (x2) Water
+|-
+|| Lycanroc (Midnight) [[File:Lycanroc_(Midnight).png|25px]] || 86,456,446 || (x2) Ground, Grass, Water, Steel, Fighting
+|-
+| rowspan=5 | Elite Acerola [[File:Acerola.png|25px]] || rowspan=5 | 64,000 || rowspan=5 | 14,409,408 || Banette [[File:Banette.png|25px]] || 85,547,357 || (x2) Dark, Ghost
+|-
+|| Drifblim [[File:Drifblim.png|25px]] || 85,547,357 || (x2) Ice, Ghost, Electric, Dark, Rock
+|-
+|| Dhelmise [[File:Dhelmise.png|25px]] || 85,547,357 || (x2) Ghost, Fire, Dark, Ice, Flying 
+|-
+|| Froslass [[File:Froslass.png|25px]] || 85,547,357 || (x2) Ghost, Fire, Dark, Rock, Steel
+|-
+|| Palossand [[File:Palossand.png|25px]] || 86,456,446 || (x2) Grass, Ice, Ghost, Dark, Water
+|-
+| rowspan=5 | Elite Kahili [[File:Kahili.png|25px]] || rowspan=5 | 64,000 || rowspan=5 | 14,409,408
+|| Braviary [[File:Braviary.png|25px]] || 85,547,357 || (x2) Ice, Electric, Rock
+|-
+|| Hawlucha [[File:Hawlucha.png|25px]] || 85,547,357 || (x2) Electric, Ice, Flying, Psychic, Fairy
+|-
+|| Oricorio (Baile) [[File:Oricorio_(Baile).png|25px]] || 85,547,357 || (x4) Rock &lt;br&gt;(x2) Electric, Water
+|-
+|| Mandibuzz [[File:Mandibuzz.png|25px]] || 85,547,357 || (x2) Fairy, Ice, Rock, Electric
+|-
+|| Toucannon [[File:Toucannon.png|25px]] || 86,456,446 || (x2) Ice, Electric, Rock
+|-
+| colspan=6 | Hau's team changes based on the chosen starter Pokémon (Rowlet,Litten and Popplio).
+|-
+| rowspan=10 | Champion Hau [[File:Hau.png|15px]] || rowspan=10 | 100,000 || rowspan=4 | Starter: All
+|| Alolan Raichu [[File:Alolan Raichu.png|25px]] || 91,545,555 || (x2) Ground, Ghost, Dark
+|-
+|| Tauros [[File:Tauros.png|25px]] || 89,636,471 || (x2) Fighting
+|-
+|| Noivern [[File:Noivern.png|25px]] || 89,636,471 || (x4) Ice &lt;br&gt; (x2) Fairy, Rock, Dragon
+|-
+|| Crabominable [[File:Crabominable.png|25px]] || 91,545,555 || (x2) Flying, Fire, Fairy, Psychic, Fighting, Steel
+|-
+| rowspan=2 | 19,345,078 &lt;br&gt; Starter: Rowlet || Flareon [[File:Flareon.png|25px]] || 86,936,471 || (x2) Rock, Water, Ground
+|-
+|| Primarina [[File:Primarina.png|25px]] || 96,725,389 || (x2) Grass, Electric, Poison
+|-
+| rowspan=2 | 19,345,078 &lt;br&gt; Starter: Litten || Vaporeon [[File:Vaporeon.png|25px]] || 86,936,471 || (x2) Grass, Electric
+|-
+|| Decidueye [[File:Decidueye.png|25px]] || 96,725,389 || (x2) Fire, Ice, Flying, Ghost, Dark 
+|-
+| rowspan=2 | 19,345,078 &lt;br&gt; Starter: Popplio || Leafeon [[File:Leafeon.png|25px]] || 86,936,471 || (x2) Fire, Ice, Poison, Bug, Flying
+|-
+||  Incineroar [[File:Incineroar.png|25px]] || 96,725,389 || (x2) Water, Fighting, Ground, Rock 
+|-
+|}</text>
+    <contributor>
+      <username>SomeonealiveQN</username>
+      <id>5</id>
+    </contributor>
+    <comment>/* Pokémon League Alola */</comment>
+    <model>wikitext</model>
+    <parentid>8322</parentid>
+    <sha1>46beee2cbb3072f656951efcc1dd1fd43bd48563</sha1>
+  </revision>
+  <revision>
+    <id>8322</id>
+    <timestamp>2022-06-18T19:23:08Z</timestamp>
+    <text bytes="50498" space="preserve">[[File:Badge case 2.0.png|thumb|365px]]
+'''Gyms''' are special areas in Pokéclicker where the player can earn gym badges and unlock new routes by defeating the gym leader in a battle. There are 8 or More gyms in each region plus the Pokémon League building, which includes the Elite 4 trainers and the champion.
+
+==Features==
+===Gym Auto-Rebattle===
+Upon defeating a Gym for the 100th time the '''Gym Auto-Rebattle''' feature is unlocked. This allows gyms to be automatically restarted. However, each Gym fight using the Auto-Rebattle feature costs 2x the base cost (not including Achievement or Battle Item Bonuses) of the Gym and clearing the gym does not award any money.
+
+
+==[[Kanto]]==
+
+===Level Cap===
+
+There are level caps that restrict the maximum level of obtained Pokémon in Kanto. The general formula is: &lt;br&gt;&lt;br&gt; &lt;math&gt;\colorbox{White}{$Max level = (n + 2)*10$}&lt;/math&gt; &lt;br&gt;&lt;br&gt; where n = the number of obtained badges by the player. Below is a table of badges and the respective level cap.
+
+{| class="wikitable collapsible collapsed" style="text-align: center;"
+|-
+! Number of Obtained Badges !! Level Cap
+|-
+| 0 || 20
+|-
+| 1 || 30
+|-
+| 2 || 40
+|-
+| 3 || 50
+|-
+| 4 || 60
+|-
+| 5 || 70
+|-
+| 6 || 80
+|-
+| 7 || 90
+|-
+| 8 || 100
+|-
+|}
+
+===Gyms===
+
+*Note: Minimum attack is calculated without taking into consideration click attack or the Pokémon's type(s). You can see how much damage you do against a certain Pokémon by clicking on or scrolling over the "Pokémon attack" number below the battle screen. The [[Type Effectiveness]] page has more information on how type matchups are ruled in Pokéclicker.
+
+{| class="wikitable collapsible" style="text-align: center;"
+|-
+! Location !! Badge !! Leader !! Money Earned !! Min. Attack !! Pokémon !! HP !! Weakness
+|-
+| rowspan=2 | [[Towns &amp; Cities#Kanto|Pewter City]]|| rowspan=2 | Boulder [[File:Boulder_Badge.png|15px]] || rowspan=2 | Brock [[File:Brock.png|15px]] || rowspan=2 | 250 || rowspan=2 | 78
+|| Geodude [[File:Geodude.png|25px]] || 770 || rowspan=2 | (x4) Water, Grass&lt;br/&gt;(x2) Ice, Fighting, Ground, Steel 
+|-
+|| Onix [[File:Onix.png|25px]] || 1,554
+|-
+| rowspan=2 | [[Towns &amp; Cities#Kanto|Cerulean City]]|| rowspan=2 | Cascade [[File:Cascade_Badge.png|15px]] || rowspan=2 | Misty [[File:Misty.png|15px]] || rowspan=2 | 500 || rowspan=2 | 364
+|| Staryu [[File:Staryu.png|25px]] || 4,000 || (x2) Electric, Grass
+|-
+|| Starmie [[File:Starmie.png|25px]] || 6,800 || (x2) Electric, Grass, Bug, Ghost, Dark
+|-
+|| [[Towns &amp; Cities#Kanto|Vermilion City]] || Thunder [[File:Thunder_Badge.png|15px]] || Lt. Surge [[File:Lt._Surge.png|15px]] || 1,000 || 1,234
+|| Raichu [[File:Raichu.png|25px]] || 37,000 || (x2) Ground
+|-
+| rowspan=3 | [[Towns &amp; Cities#Kanto|Celadon City]]|| rowspan=3 | Rainbow [[File:Rainbow_Badge.png|15px]] || rowspan=3 | Erika [[File:Erika.png|15px]] || rowspan=3 | 1,500 || rowspan=3 | 3,640
+|| Tangela [[File:Tangela.png|25px]] || 38,810 || (x2) Fire, Ice, Poison, Flying, Bug
+|-
+|| Weepinbell [[File:Weepinbell.png|25px]] || 30,340 || rowspan=2 | (x2) Fire, Ice, Flying, Psychic 
+|-
+|| Gloom [[File:Gloom.png|25px]]|| 36,400
+|-
+| rowspan=4 | [[Towns &amp; Cities#Kanto|Fuchsia City]]|| rowspan=4 | Soul [[File:Soul_Badge.png|15px]] || rowspan=4 | Koga [[File:Koga.png|15px]] || rowspan=4 | 3,500 || rowspan=4 | 4,679
+|| Venonat [[File:Venonat.png|25px]]|| 30,780 || rowspan=4 | (x2) Fire, Flying, Psychic, Rock
+|-
+|| Venonat [[File:Venonat.png|25px]] || 32,460
+|-
+|| Venonat [[File:Venonat.png|25px]] || 36,540
+|-
+|| Venomoth [[File:Venomoth.png|25px]] || 37,430
+|-
+| rowspan=3 | [[Towns &amp; Cities#Kanto|Saffron City]]|| rowspan=3 | Marsh [[File:Marsh_Badge.png|15px]] || rowspan=3 | Sabrina [[File:Sabrina.png|15px]] || rowspan=3 | 2,500 || rowspan=3 | 2,582
+|| Abra [[File:Abra.png|25px]] || 23,040 || rowspan=3 | (x2) Bug, Ghost, Dark
+|-
+|| Kadabra [[File:Kadabra.png|25px]] || 25,600
+|-
+|| Alakazam [[File:Alakazam.png|25px]] || 28,400
+|-
+| rowspan=3 | [[Towns &amp; Cities#Kanto|Cinnabar Island]]|| rowspan=3 | Volcano [[File:Volcano_Badge.png|15px]] || rowspan=3 | Blaine [[File:Blaine.png|15px]] || rowspan=3 | 5,000 || rowspan=3 | 4,572
+|| Ninetales [[File:Ninetales.png|25px]] || 37,430 || rowspan=3 | (x2) Water, Ground, Rock
+|-
+|| Rapidash [[File:Rapidash.png|25px]] || 45,230
+|-
+|| Arcanine [[File:Arcanine.png|25px]] || 50,290
+|-
+| rowspan=5 | [[Towns &amp; Cities#Kanto|Viridian City]]|| rowspan=5 | Earth [[File:Earth_Badge.png|15px]] || rowspan=5 | Giovanni [[File:Giovanni.png|15px]] || rowspan=5 | 6,000 || rowspan=5 | 9,046
+|| Dugtrio [[File:Dugtrio.png|25px]] || 45,230 || (x2) Water, Grass, Ice
+|-
+|| Persian [[File:Persian.png|25px]] || 47,530 || (x2) Fighting
+|-
+|| Nidoqueen [[File:Nidoqueen.png|25px]] || 48,740 || rowspan=2 | (x2) Water, Ice, Ground, Psychic
+|-
+|| Nidoking [[File:Nidoking.png|25px]] || 48,350
+|-
+|| Rhydon [[File:Rhydon.png|25px]] || 55,000 || (x4) Water, Grass &lt;br&gt; (x2) Ice, Fighting, Ground, Steel
+|}
+
+=== [[Towns &amp; Cities#Kanto|Indigo Plateau]] ===
+{| class="wikitable collapsible" style="text-align: center;"
+|-
+! Leader !! Money Earned !! Min. Attack !! Pokémon !! HP !! Weakness
+|-
+| rowspan=5 | Elite Lorelei [[File:Lorelei.png|25px]] || rowspan=5 | 7,500 || rowspan=5 | 9,500
+|| Dewgong [[File:Dewgong.png|25px]] || 45,330 || rowspan=2 | (x2) Electric, Grass, Fighting, Rock
+|-
+|| Cloyster [[File:Cloyster.png|25px]] || 48,300
+|-
+|| Slowbro [[File:Slowbro.png|25px]] || 52,000 || (x2) Electric, Grass, Bug, Ghost, Dark
+|-
+|| Jynx [[File:Jynx.png|25px]] || 57,000 || (x2) Fire, Bug, Rock, Ghost, Dark, Steel
+|-
+|| Lapras [[File:Lapras.png|25px]] || 60,250 || (x2) Electric, Grass, Fighting, Rock
+|-
+| rowspan=5 | Elite Bruno [[File:Bruno.png|25px]] || rowspan=5 | 7,500 || rowspan=5 | 9,500
+|| Onix [[File:Onix.png|25px]] || 45,330 || (x4) Water, Grass&lt;br/&gt;(x2) Ice, Fighting, Ground, Steel
+|-
+|| Hitmonchan [[File:Hitmonchan.png|25px]] || 48,300 || rowspan=2 | (x2) Flying, Psychic, Fairy
+|-
+|| Hitmonlee [[File:Hitmonlee.png|25px]] || 52,000
+|-
+|| Onix [[File:Onix.png|25px]] || 57,000 || (x4) Water, Grass &lt;br&gt; (x2) Ice, Fighting, Ground, Steel
+|-
+|| Machamp [[File:Machamp.png|25px]] || 60,250 || (x2) Flying, Psychic, Fairy
+|-
+| rowspan=5 | Elite Agatha [[File:Agatha.png|25px]] || rowspan=5 | 7,500 || rowspan=5 | 9,500
+|| Gengar [[File:Gengar.png|25px]] || 45,330 || (x2) Ground, Psychic, Ghost, Dark
+|-
+|| Golbat [[File:Golbat.png|25px]] || 48,300 || (x2) Electric, Ice, Psychic, Rock
+|-
+|| Haunter [[File:Haunter.png|25px]] || 52,000 || (x2) Ground, Psychic, Ghost, Dark
+|-
+|| Arbok [[File:Arbok.png|25px]] || 57,000 || (x2) Ground, Psychic
+|-
+|| Gengar [[File:Gengar.png|25px]] || 60,250 || (x2) Ground, Psychic, Ghost, Dark
+|-
+| rowspan=5 | Elite Lance [[File:Lance.png|25px]] || rowspan=5 | 7,500 || rowspan=5 | 10,042
+|| Gyarados [[File:Gyarados.png|25px]] || 48,300 || (x4) Electric &lt;br&gt; (x2) Rock
+|-
+|| Dragonair [[File:Dragonair.png|25px]] || 52,000 || rowspan=2 | (x2) Ice, Dragon, Fairy
+|-
+|| Dragonair [[File:Dragonair.png|25px]] || 57,000
+|-
+|| Aerodactyl [[File:Aerodactyl.png|25px]] || 60,250 || (x2) Water, Electric, Ice, Rock, Steel
+|-
+|| Dragonite [[File:Dragonite.png|25px]] || 66,000 || (x4) Ice &lt;br&gt; (x2) Rock, Dragon, Fairy
+|-
+| colspan=6 | Blue's team changes based on the chosen starter Pokémon (Bulbasaur, Charmander, or Squirtle/Pikachu).
+|-
+| rowspan=12 | Champion Blue [[File:Blue.png|15px]] || rowspan=12 | 10,000 || rowspan=3 | Starter: All
+|| Pidgeot [[File:Pidgeot.png|25px]] || 52,340 || (x2) Electric, Ice, Rock
+|-
+|| Alakazam [[File:Alakazam.png|25px]] || 56,320 || (x2) Bug, Ghost, Dark
+|-
+|| Rhydon [[File:Rhydon.png|25px]] || 58,340 || (x4) Water, Grass &lt;br&gt; (x2) Ice, Fighting, Ground, Steel
+|-
+| rowspan=3 | 13,085 &lt;br&gt; Starter: Bulbasaur || Exeggutor [[File:Exeggutor.png|25px]] || 57,520 || (x4) Bug &lt;br&gt; (x2) Fire, Ice, Poison, Flying, Ghost, Dark
+|-
+|| Gyarados [[File:Gyarados.png|25px]] || 63,040 || (x4) Electric &lt;br&gt; (x2) Rock
+|-
+|| Charizard [[File:Charizard.png|25px]] || 70,000 || (x4) Rock &lt;br&gt; (x2) Water, Electric
+|-
+| rowspan=3 | 13,085 &lt;br&gt; Starter: Charmander || Arcanine [[File:Arcanine.png|25px]] || 65,340 || (x2) Water, Ground, Rock
+|-
+|| Exeggutor [[File:Exeggutor.png|25px]] || 57,520 || (x4) Bug &lt;br&gt; (x2) Fire, Ice, Poison, Flying, Ghost, Dark
+|-
+|| Blastoise [[File:Blastoise.png|25px]] || 70,000 || (x2) Electric, Grass 
+|-
+| rowspan=3 | 13,085 &lt;br&gt; Starter: Squirtle/Pikachu || Gyarados [[File:Gyarados.png|25px]] || 63,040 || (x4) Electric &lt;br&gt; (x2) Rock
+|-
+|| Arcanine [[File:Arcanine.png|25px]] || 65,340 || (x2) Water, Ground, Rock
+|-
+|| Venusaur [[File:Venusaur.png|25px]] || 70,000 || (x2) Fire, Ice, Flying, Psychic 
+|}
+
+==[[Johto]]==
+===Gyms===
+{| class="wikitable collapsible" style="text-align: center;"
+|-
+! Location !! Badge !! Leader !! Money Earned !! Min. Attack !! Pokémon !! HP !! Weakness
+|-
+| rowspan=2 | [[Towns &amp; Cities#Johto|Violet City]]|| rowspan=2 | Zephyr [[File:Zephyr_Badge.png|15px]] || rowspan=2 | Falkner [[File:Falkner.png|25px]] || rowspan=2 | 250 || rowspan=2 | 7,467
+|| Pidgey [[File:Pidgey.png|25px]] || 108,000 || rowspan=2 | (x2) Electric, Ice, Rock
+|-
+|| Pidgeotto [[File:Pidgeotto.png|25px]] || 112,000
+|-
+| rowspan=3 | [[Towns &amp; Cities#Johto|Azalea Town]]|| rowspan=3 | Hive [[File:Hive_Badge.png|15px]] || rowspan=3 | Bugsy [[File:Bugsy.png|25px]] || rowspan=3 | 500 || rowspan=3 | 11,278
+|| Metapod [[File:Metapod.png|25px]] || 103,000 || (x2) Fire, Flying, Rock
+|-
+|| Kakuna [[File:Kakuna.png|25px]] || 101,500 || (x2) Fire, Flying, Psychic, Rock
+|-
+|| Scyther [[File:Scyther.png|25px]] || 119,000 || (x4) Rock &lt;br&gt; (x2) Fire, Electric, Ice, Flying
+|-
+| rowspan=2 | [[Towns &amp; Cities#Johto|Goldenrod City]]|| rowspan=2 | Plain [[File:Plain_Badge.png|15px]] || rowspan=2 | Whitney [[File:Whitney.png|25px]] || rowspan=2 | 1,000 || rowspan=2 | 10,000
+|| Clefairy [[File:Clefairy.png|25px]] || 130,000 || (x2) Poison, Steel
+|-
+|| Miltank [[File:Miltank.png|25px]] || 170,000 || (x2) Fighting
+|-
+| rowspan=4 | [[Towns &amp; Cities#Johto|Ecruteak City]]|| rowspan=4 | Fog [[File:Fog_Badge.png|15px]] || rowspan=4 | Morty [[File:Morty.png|25px]] || rowspan=4 | 1,500 || rowspan=4 | 18,286
+|| Gastly [[File:Gastly.png|25px]] || 127,000 || rowspan=4 | (x2) Ground, Psychic, Ghost, Dark
+|-
+|| Haunter [[File:Haunter.png|25px]] || 128,000
+|-
+|| Gengar [[File:Gengar.png|25px]] || 132,000
+|-
+|| Haunter [[File:Haunter.png|25px]] || 130,000
+|-
+| rowspan=2 | [[Towns &amp; Cities#Johto|Cianwood City]]|| rowspan=2 | Storm [[File:Storm_Badge.png|15px]] || rowspan=2 | Chuck [[File:Chuck.png|25px]] || rowspan=2 | 2,500 || rowspan=2 | 12,200
+|| Primeape [[File:Primeape.png|25px]] || 177,000 || (x2) Flying, Psychic, Fairy
+|-
+|| Poliwrath [[File:Poliwrath.png|25px]] || 183,000 || (x2) Electric, Grass, Flying, Psychic, Fairy
+|-
+| rowspan=3 | [[Towns &amp; Cities#Johto|Olivine City]]|| rowspan=3 | Mineral [[File:Mineral_Badge.png|15px]] || rowspan=3 | Jasmine [[File:Jasmine.png|25px]] || rowspan=3 | 3,500 || rowspan=3 | 18,200
+|| Magnemite [[File:Magnemite.png|25px]] || 177,000 || rowspan=2 | (x4) Ground &lt;br&gt; (x2) Fire, Fighting
+|-
+|| Magnemite [[File:Magnemite.png|25px]] || 178,000
+|-
+|| Steelix [[File:Steelix.png|25px]] || 182,000 || (x2) Fire, Water, Fighting, Ground
+|-
+| rowspan=3 | [[Towns &amp; Cities#Johto|Mahogany Town]]|| rowspan=3 | Glacier [[File:Glacier_Badge.png|15px]] || rowspan=3 | Pryce [[File:Pryce.png|25px]] || rowspan=3 | 4,000 || rowspan=3 | 19,600
+|| Seel [[File:Seel.png|25px]] || 190,000 || (x2) Electric, Grass 
+|-
+|| Dewgong [[File:Dewgong.png|25px]] || 192,500 || (x2) Electric, Grass, Fighting, Rock
+|-
+|| Piloswine [[File:Piloswine.png|25px]] || 196,000 || (x2) Fire, Water, Grass, Fighting, Steel
+|-
+| rowspan=4 | [[Towns &amp; Cities#Johto|Blackthorn City]]|| rowspan=4 | Rising [[File:Rising_Badge.png|15px]] || rowspan=4 | Clair [[File:Clair.png|25px]] || rowspan=4 | 5,000 || rowspan=4 | 29,286
+|| Dragonair [[File:Dragonair.png|25px]] || 205,000 || rowspan=3 | (x2) Ice, Dragon, Fairy
+|-
+|| Dragonair [[File:Dragonair.png|25px]] || 205,000
+|-
+|| Dragonair [[File:Dragonair.png|25px]] || 218,000
+|-
+|| Kingdra [[File:Kingdra.png|25px]] || 220,000 || (x2) Dragon, Fairy
+|}
+
+===[[Towns &amp; Cities#Johto|Johto Indigo Plateau]]===
+{| class="wikitable collapsible" style="text-align: center;"
+|-
+! Leader !! Money Earned !! Min. Attack !! Pokémon !! HP !! Weakness
+|-
+| rowspan=5 | Elite Will [[File:Will.png|20px]] || rowspan=5 | 7,500 || rowspan=5 | 43,375
+|| Xatu [[File:Xatu.png|25px]] || 245,330 || (x2) Electric, Ice, Rock, Ghost, Dark
+|-
+|| Exeggutor [[File:Exeggutor.png|25px]] || 248,300 || (x4) Bug &lt;br&gt; (x2) Fire, Ice, Poison, Flying, Ghost, Dark
+|-
+|| Slowbro [[File:Slowbro.png|25px]] || 252,000 || (x2) Electric, Grass, Bug, Ghost, Dark
+|-
+|| Jynx [[File:Jynx.png|25px]] || 257,000 || (x2) Fire, Bug, Rock, Ghost, Dark, Steel
+|-
+|| Xatu [[File:Xatu.png|25px]] || 260,250 || (x2) Electric, Ice, Rock, Ghost, Dark
+|-
+| rowspan=5 | Elite Koga [[File:Koga2.png|20px]] || rowspan=5 | 7,500 || rowspan=5 | 43,375
+|| Ariados [[File:Ariados.png|25px]] || 245,330 || rowspan=2 | (x2) Fire, Flying, Psychic, Rock  
+|-
+|| Venomoth [[File:Venomoth.png|25px]] || 248,300
+|-
+|| Forretress [[File:Forretress.png|25px]] || 252,000 || (x4) Fire
+|-
+|| Muk [[File:Muk.png|25px]] || 257,000 || (x2) Ground, Psychic
+|-
+|| Crobat [[File:Crobat.png|25px]] || 260,250 || (x2) Electric, Ice, Psychic, Rock
+|-
+| rowspan=5 | Elite Bruno 2 [[File:Bruno2.png|20px]] || rowspan=5 | 7,500 || rowspan=5 | 43,375
+|| Hitmontop [[File:Hitmontop.png|25px]] || 245,330 || rowspan=3 | (x2) Flying, Psychic, Fairy
+|-
+|| Hitmonlee [[File:Hitmonlee.png|25px]] || 248,300
+|-
+|| Hitmonchan [[File:Hitmonchan.png|25px]] || 252,000
+|-
+|| Onix [[File:Onix.png|25px]] || 257,000 || (x4) Water, Grass &lt;br&gt; (x2) Ice, Fighting, Ground, Steel
+|-
+|| Machamp [[File:Machamp.png|25px]] || 260,250 || (x2) Flying, Psychic, Fairy
+|-
+| rowspan=5 | Elite Karen [[File:Karen.png|20px]] || rowspan=5 | 7,500 || rowspan=5 | 44,334
+|| Umbreon [[File:Umbreon.png|25px]] || 248,300 || (x2) Fighting, Bug, Fairy
+|-
+|| Vileplume [[File:Vileplume.png|25px]] || 252,000 || (x2) Fire, Ice, Flying, Psychic
+|-
+|| Murkrow [[File:Murkrow.png|25px]] || 257,000 || (x2) Electric, Ice, Rock, Fairy
+|-
+|| Gengar [[File:Gengar.png|25px]] || 260,250 || (x2) Ground, Psychic, Ghost, Dark
+|-
+|| Houndoom [[File:Houndoom.png|25px]] || 266,000 || (x2) Water, Fighting, Ground, Rock
+|-
+| rowspan=6 | Champion Lance [[File:Lance2.png|20px]] || rowspan=6 | 7,500 || rowspan=6 | 54,000
+|| Gyarados [[File:Gyarados.png|25px]] || 258,300 || (x4) Electric&lt;br/&gt;(x2) Rock
+|-
+|| Dragonite [[File:Dragonite.png|25px]] || 262,000 || (x4) Ice &lt;br&gt; (x2) Rock, Dragon, Fairy
+|-
+|| Charizard [[File:Charizard.png|25px]] || 264,000 || (x4) Rock &lt;br&gt; (x2) Water, Electric
+|-
+|| Aerodactyl [[File:Aerodactyl.png|25px]] || 260,250 || (x2) Water, Electric, Ice, Rock, Steel
+|-
+|| Dragonite [[File:Dragonite.png|25px]] || 270,000 || rowspan=2 | (x4) Ice &lt;br&gt; (x2) Rock, Dragon, Fairy
+|-
+|| Dragonite [[File:Dragonite.png|25px]] || 270,000
+|}
+
+==[[Hoenn]]==
+===Gyms===
+{| class="wikitable collapsible" style="text-align: center;"
+|-
+! Location !! Badge !! Leader !! Money Earned !! Min. Attack !! Pokémon !! HP !! Weakness
+|-
+| rowspan=3 | [[Towns &amp; Cities#Hoenn|Rustboro City]]|| rowspan=3 | Stone [[File:Stone_Badge.png|15px]] || rowspan=3 | Roxanne [[File:Roxanne.png|25px]] || rowspan=3 | 1,000 || rowspan=3 | 41,020
+|| Geodude [[File:Geodude.png|25px]] || 382,900 || rowspan=2 | (x4) Water, Grass &lt;br&gt; (x2) Ice, Fighting, Ground, Steel
+|-
+|| Geodude [[File:Geodude.png|25px]] || 382,900
+|-
+|| Nosepass [[File:Nosepass.png|25px]] || 410,200 || (x2) Water, Grass, Fighting, Ground, Steel
+|-
+| rowspan=3 | [[Towns &amp; Cities#Hoenn|Dewford Town]]|| rowspan=3 | Knuckle [[File:Knuckle_Badge.png|15px]] || rowspan=3 | Brawly [[File:Brawly.png|25px]] || rowspan=3 | 2,000 || rowspan=3 | 44,400
+|| Machop [[File:Machop.png|25px]] || 424,000 || (x2) Flying, Psychic, Fairy
+|-
+|| Meditite [[File:Meditite.png|25px]] || 424,000 || (x2) Flying, Ghost, Fairy
+|-
+|| Makuhita [[File:Makuhita.png|25px]] || 444,000 || (x2) Flying, Psychic, Fairy
+|-
+| rowspan=4 | [[Towns &amp; Cities#Hoenn|Mauville City]]|| rowspan=4 | Dynamo [[File:Dynamo_Badge.png|15px]] || rowspan=4 | Wattson [[File:Wattson.png|25px]] || rowspan=4 | 3,000 || rowspan=4 | 64,000
+|| Voltorb [[File:Voltorb.png|25px]] || 452,000 || rowspan=2 | (x2) Ground
+|-
+|| Electrike [[File:Electrike.png|25px]] || 448,000
+|-
+|| Magneton [[File:Magneton.png|25px]] || 483,000 || (x4) Ground &lt;br&gt; (x2) Fire, Fighting
+|-
+|| Manectric [[File:Manectric.png|25px]] || 448,000 || (x2) Ground
+|-
+| rowspan=4 | [[Towns &amp; Cities#Hoenn|Lavaridge Town]]|| rowspan=4 | Heat [[File:Heat_Badge.png|15px]] || rowspan=4 | Flannery [[File:Flannery.png|25px]] || rowspan=4 | 4,000 || rowspan=4 | 67,429
+|| Numel [[File:Numel.png|25px]] || 472,000 || (x4) Water &lt;br&gt; (x2) Ground
+|-
+|| Slugma [[File:Slugma.png|25px]] || 472,000 || (x2) Water, Ground, Rock
+|-
+|| Camerupt [[File:Camerupt.png|25px]] || 492,000 || (x4) Water &lt;br&gt; (x2) Ground
+|-
+|| Torkoal [[File:Torkoal.png|25px]] || 524,000 || (x2) Water, Ground, Rock
+|-
+| rowspan=4 | [[Towns &amp; Cities#Hoenn|Petalburg City]]|| rowspan=4 | Balance [[File:Balance_Badge.png|15px]] || rowspan=4 | Norman [[File:Norman.png|25px]] || rowspan=4 | 5,000 || rowspan=4 | 75,715
+|| Spinda [[File:Spinda.png|25px]] || 490,000 || rowspan=4 | (x2) Fighting
+|-
+|| Vigoroth [[File:Vigoroth.png|25px]] || 530,000
+|-
+|| Linoone [[File:Linoone.png|25px]] || 560,000
+|-
+|| Slaking [[File:Slaking.png|25px]] || 596,000
+|-
+| rowspan=5 | [[Towns &amp; Cities#Hoenn|Fortree City]]|| rowspan=5 | Feather [[File:Feather_Badge.png|15px]] || rowspan=5 | Winona [[File:Winona.png|25px]] || rowspan=5 | 6,000 || rowspan=5 | 111,500
+|| Swablu [[File:Swablu.png|25px]] || 605,000 || (x2) Electric, Ice, Rock
+|-
+|| Tropius [[File:Tropius.png|25px]] || 650,000 || (x4) Ice &lt;br&gt; (x2) Fire, Poison, Flying, Rock
+|-
+|| Pelipper [[File:Pelipper.png|25px]] || 630,000 || (x4) Electric &lt;br&gt; (x2) Rock 
+|-
+|| Skarmory [[File:Skarmory.png|25px]] || 667,000 || (x2) Fire, Electric
+|-
+|| Altaria [[File:Altaria.png|25px]] || 669,000 || (x4) Ice &lt;br&gt; (x2) Rock, Dragon, Fairy
+|-
+| rowspan=4 | [[Towns &amp; Cities#Hoenn|Mossdeep City]]|| rowspan=4 | Mind [[File:Mind_Badge.png|15px]] || rowspan=4 | Tate &amp; Liza [[File:Tate_&amp;_Liza.png|25px]] || rowspan=4 | 8,000 || rowspan=4 | 100,286
+|| Claydol [[File:Claydol.png|25px]] || 702,000 || (x2) Water, Grass, Ice, Bug, Ghost, Dark
+|-
+|| Xatu [[File:Xatu.png|25px]] || 703,000 || (x2) Electric, Ice, Rock, Ghost, Dark
+|-
+|| Lunatone [[File:Lunatone.png|25px]] || 702,000 || rowspan=2 | (x2) Water, Grass, Bug, Ghost, Dark, Steel
+|-
+|| Solrock [[File:Solrock.png|25px]] || 703,000
+|-
+| rowspan=5 | [[Towns &amp; Cities#Hoenn|Sootopolis City]]|| rowspan=5 | Rain [[File:Rain_Badge.png|15px]] || rowspan=5 | Juan [[File:Juan.png|25px]] || rowspan=5 | 10,000 || rowspan=5 | 144,167
+|| Luvdisc [[File:Luvdisc.png|25px]] || 798,000 || (x2) Electric, Grass
+|-
+|| Whiscash [[File:Whiscash.png|25px]] || 813,000 || (x4) Grass
+|-
+|| Sealeo [[File:Sealeo.png|25px]] || 823,400 || (x2) Electric, Grass, Fighting, Rock
+|-
+|| Crawdaunt [[File:Crawdaunt.png|25px]] || 842,000 || (x2) Electric, Grass, Fighting, Bug, Fairy
+|-
+|| Kingdra [[File:Kingdra.png|25px]] || 865,000 || (x2) Dragon, Fairy
+|}
+
+===[[Towns &amp; Cities#Hoenn|Pokémon League Hoenn]]===
+{| class="wikitable collapsible" style="text-align: center;"
+|-
+! Leader !! Money Earned !! Min. Attack !! Pokémon !! HP !! Weakness
+|-
+| rowspan=5 | Elite Sidney [[File:Sidney.png|25px]] || rowspan=5 | 15,000 || rowspan=5 | 170,000
+|| Mightyena [[File:Mightyena.png|25px]] || 972,000 || (x2) Fighting, Bug, Fairy
+|-
+|| Shiftry [[File:Shiftry.png|25px]] || 980,000 || rowspan=2 | (x4) Bug &lt;br&gt; (x2) Fire, Ice, Fighting, Poison, Flying, Fairy
+|-
+|| Cacturne [[File:Cacturne.png|25px]] || 1,002,000
+|-
+|| Crawdaunt [[File:Crawdaunt.png|25px]] || 1,015,000 || (x2) Electric, Grass, Fighting, Bug, Fairy
+|-
+|| Absol [[File:Absol.png|25px]] || 1,020,000 || (x2) Fighting, Bug, Fairy
+|-
+| rowspan=5 | Elite Phoebe [[File:Phoebe.png|25px]] || rowspan=5 | 15,000  || rowspan=5 | 177,167
+|| Dusclops [[File:Dusclops.png|25px]] || 1,036,700 || rowspan=2 | (x2) Ghost, Dark
+|-
+|| Banette [[File:Banette.png|25px]] || 1,038,000
+|-
+|| Sableye [[File:Sableye.png|25px]] || 1,052,000 || (x2) Fairy
+|-
+|| Banette [[File:Banette.png|25px]] || 1,038,000 || rowspan=2 | (x2) Ghost, Dark
+|-
+|| Dusclops [[File:Dusclops.png|25px]] || 1,063,000
+|-
+| rowspan=5 | Elite Glacia [[File:Glacia.png|25px]] || rowspan=5 | 15,000 || rowspan=5 | 183,334
+|| Sealeo [[File:Sealeo.png|25px]] || 1,082,000 || (x2) Electric, Grass, Fighting, Rock
+|-
+|| Glalie [[File:Glalie.png|25px]] || 1,072,000 || (x2) Fire, Fighting, Rock, Steel
+|-
+|| Sealeo [[File:Sealeo.png|25px]] || 1,086,000 || (x2) Electric, Grass, Fighting, Rock
+|-
+|| Glalie [[File:Glalie.png|25px]] || 1,076,000 || (x2) Fire, Fighting, Rock, Steel
+|-
+|| Walrein [[File:Walrein.png|25px]] || 1,100,000 || (x2) Electric, Grass, Fighting, Rock
+|-
+| rowspan=5 | Elite Drake [[File:Drake.png|25px]] || rowspan=5 | 15,000 || rowspan=5 | 192,834
+|| Shelgon [[File:Shelgon.png|25px]] || 1,064,000 || (x2) Ice, Dragon, Fairy
+|-
+|| Altaria [[File:Altaria.png|25px]] || 1,072,000 || (x4) Ice &lt;br&gt; (x2) Rock, Dragon, Fairy
+|-
+|| Flygon [[File:Flygon.png|25px]] || 1,076,000 || rowspan=2 | (x4) Ice &lt;br&gt; (x2) Dragon, Fairy
+|-
+|| Flygon [[File:Flygon.png|25px]] || 1,076,000
+|-
+|| Salamence [[File:Salamence.png|25px]] || 1,157,000 || (x4) Ice &lt;br&gt; (x2) Rock, Dragon, Fairy
+|-
+| rowspan=6 | Champion Wallace [[File:Wallace.png|25px]] || rowspan=6 | 16,000 || rowspan=6 | 240,400
+|| Wailord [[File:Wailord.png|25px]] || 1,202,000 || (x2) Electric, Grass
+|-
+|| Tentacruel [[File:Tentacruel.png|25px]] || 1,164,000 || (x2) Electric, Ground, Psychic
+|-
+|| Ludicolo [[File:Ludicolo.png|25px]] || 1,184,000 || (x2) Poison, Flying, Bug
+|-
+|| Whiscash [[File:Whiscash.png|25px]] || 1,172,000 || (x4) Grass
+|-
+|| Gyarados [[File:Gyarados.png|25px]] || 1,163,000 || (x4) Electric &lt;br&gt; (x2) Rock
+|-
+|| Milotic [[File:Milotic.png|25px]] || 1,182,000 || (x2) Electric, Grass
+|}
+
+==[[Sinnoh]]==
+===Gyms===
+{| class="wikitable collapsible" style="text-align: center;"
+|-
+! Location !! Badge !! Leader !! Money Earned !! Min. Attack !! Pokémon !! HP !! Weakness
+|-
+| rowspan=3 | [[Towns &amp; Cities#Sinnoh|Oreburgh City]] || rowspan=3 | Coal [[File:Coal_Badge.png|15px]] || rowspan=3 | Roark [[File:Roark.png|25px]] || rowspan=3 | 250 || rowspan=3 | 134,200
+|| Geodude [[File:Geodude.png|25px]] || 1,338,000 || rowspan=2 | (x4) Water, Grass &lt;br&gt; (x2) Ice, Fighting, Ground, Steel
+|-
+|| Onix [[File:Onix.png|25px]] || 1,342,000
+|-
+|| Cranidos [[File:Cranidos.png|25px]] || 1,342,000 || (x2) Water, Grass, Fighting, Ground, Steel
+|-
+| rowspan=3 | [[Towns &amp; Cities#Sinnoh|Eterna City]]|| rowspan=3 | Forest [[File:Forest_Badge.png|15px]] || rowspan=3 | Gardenia [[File:Gardenia.png|25px]] || rowspan=3 | 400 || rowspan=3 | 143,900
+|| Turtwig [[File:Turtwig.png|25px]] || 1,433,000 || rowspan=2 | (x2) Fire, Ice, Poison, Flying, Bug 
+|-
+|| Cherrim (overcast) [[File:Cherrim_(overcast).png|25px]] || 1,437,500
+|-
+|| Roserade [[File:Roserade.png|25px]] || 1,439,000 || (x2) Fire, Ice, Flying, Psychic
+|-
+| rowspan=3 | [[Towns &amp; Cities#Sinnoh|Hearthome City]]|| rowspan=3 | Relic [[File:Relic_Badge.png|15px]] || rowspan=3 | Fantina [[File:Fantina.png|25px]] || rowspan=3 | 740 || rowspan=3 | 148,000
+|| Duskull [[File:Duskull.png|25px]] || 1,450,000 || (x2) Ghost, Dark
+|-
+|| Haunter [[File:Haunter.png|25px]] || 1,480,000 || (x2) Ground, Psychic, Ghost, Dark
+|-
+|| Mismagius [[File:Mismagius.png|25px]] || 1,480,000 || (x2) Ghost, Dark
+|-
+| rowspan=3 | [[Towns &amp; Cities#Sinnoh|Veilstone City]]|| rowspan=3 | Cobble [[File:Cobble_Badge.png|15px]] || rowspan=3 | Maylene [[File:Maylene.png|25px]] || rowspan=3 | 1,200 || rowspan=3 | 154,000
+|| Meditite [[File:Meditite.png|25px]] || 1,537,000 || (x2) Flying, Ghost, Fairy
+|-
+|| Machoke [[File:Machoke.png|25px]] || 1,538,000 || (x2) Flying, Psychic, Fairy
+|-
+|| Lucario [[File:Lucario.png|25px]] || 1,540,000 || (x2) Fire, Fighting, Ground
+|-
+| rowspan=3 | [[Towns &amp; Cities#Sinnoh|Pastoria City]]|| rowspan=3 | Fen [[File:Fen_Badge.png|15px]] || rowspan=3 | Crasher Wake [[File:Crasher_Wake.png|25px]] || rowspan=3 | 2,500 || rowspan=3 | 169,300
+|| Gyarados [[File:Gyarados.png|25px]] || 1,687,000 || (x4) Electric &lt;br&gt; (x2) Rock
+|-
+|| Quagsire [[File:Quagsire.png|25px]] || 1,693,000 || (x4) Grass
+|-
+|| Floatzel [[File:Floatzel.png|25px]] || 1,693,000 || (x2) Electric, Grass
+|-
+| rowspan=3 | [[Towns &amp; Cities#Sinnoh|Canalave City]]|| rowspan=3 | Mine [[File:Mine_Badge.png|15px]] || rowspan=3 | Byron [[File:Byron.png|25px]] || rowspan=3 | 4,800 || rowspan=3 | 177,200
+|| Magneton [[File:Magneton.png|25px]] || 1,767,000 || (x4) Ground &lt;br&gt; (x2) Fire, Fighting
+|-
+|| Steelix [[File:Steelix.png|25px]] || 1,772,000 || (x2) Fire, Water, Fighting, Ground
+|-
+|| Bastiodon [[File:Bastiodon.png|25px]] || 1,768,000 || (x4) Fighting, Ground &lt;br&gt; (x2) Water
+|-
+| rowspan=4 | [[Towns &amp; Cities#Sinnoh|Snowpoint City]]|| rowspan=4 | Icicle [[File:Icicle_Badge.png|15px]] || rowspan=4 | Candice [[File:Candice.png|25px]] || rowspan=4 | 8,000 || rowspan=4 | 267,143
+|| Sneasel [[File:Sneasel.png|25px]] || 1,872,500 || (x4) Fighting &lt;br&gt; (x2) Fire, Bug, Rock, Steel, Fairy
+|-
+|| Piloswine [[File:Piloswine.png|25px]] || 1,876,000 || (x2) Fire, Water, Grass, Fighting, Steel
+|-
+|| Abomasnow [[File:Abomasnow.png|25px]] || 1,870,000 || (x4) Fire &lt;br&gt; (x2) Fighting, Poison, Flying, Bug, Rock, Steel
+|-
+|| Froslass [[File:Froslass.png|25px]] || 1,870,000 || (x2) Fire, Rock, Ghost, Dark, Steel
+|-
+| rowspan=4 | [[Towns &amp; Cities#Sinnoh|Sunyshore City]]|| rowspan=4 | Beacon [[File:Beacon_Badge.png|15px]] || rowspan=4 | Volkner [[File:Volkner.png|25px]] || rowspan=4 | 12,000 || rowspan=4 | 280,715
+|| Jolteon [[File:Jolteon.png|25px]] || 1,965,000 || rowspan=4 | (x2) Ground
+|-
+|| Raichu [[File:Raichu.png|25px]] || 1,965,000
+|-
+|| Luxray [[File:Luxray.png|25px]] || 1,978,000
+|-
+|| Electivire [[File:Electivire.png|25px]] || 1,980,000
+|}
+
+===[[Towns &amp; Cities#Sinnoh|Pokémon League Sinnoh]]===
+{| class="wikitable collapsible" style="text-align: center;"
+|-
+! Leader !! Money Earned !! Min. Attack !! Pokémon !! HP !! Weakness
+|-
+| rowspan=5 | Elite Aaron [[File:Aaron.png|25px]] || rowspan=5 | 18,000 || rowspan=5 | 426,709
+|| Yanmega [[File:Yanmega.png|25px]] || 2,545,330 || (x4) Rock &lt;br&gt; (x2) Fire, Electric, Ice, Flying
+|-
+|| Scizor [[File:Scizor.png|25px]] || 2,548,300 || (x4) Fire
+|-
+|| Vespiquen [[File:Vespiquen.png|25px]] || 2,552,000 || (x4) Rock &lt;br&gt; (x2) Fire, Electric, Ice, Flying
+|-
+|| Heracross [[File:Heracross.png|25px]] || 2,557,000 || (x4) Flying &lt;br&gt; (x2) Fire, Psychic, Fairy
+|-
+|| Drapion [[File:Drapion.png|25px]] || 2,560,250 || (x2) Ground
+|-
+| rowspan=5 | Elite Bertha [[File:Bertha.png|25px]] || rowspan=5 | 18,000 || rowspan=5 | 443,375
+|| Whiscash [[File:Whiscash.png|25px]] || 2,645,330 || (x4) Grass
+|-
+|| Gliscor [[File:Gliscor.png|25px]] || 2,648,300 || (x4) Ice &lt;br&gt; (x2) Water
+|-
+|| Hippowdon [[File:Hippowdon.png|25px]] || 2,652,000 || (x2) Water, Grass, Ice
+|-
+|| Golem [[File:Golem.png|25px]] || 2,657,000 || rowspan=2 | (x4) Water, Grass &lt;br&gt; (x2) Ice, Fighting, Ground, Steel
+|-
+|| Rhyperior [[File:Rhyperior.png|25px]] || 2,660,250
+|-
+| rowspan=5 | Elite Flint [[File:Flint.png|25px]] || rowspan=5 | 18,000 || rowspan=5 | 476,709
+|| Houndoom [[File:Houndoom.png|25px]] || 2,845,330 || (x2) Water, Fighting, Ground, Rock
+|-
+|| Flareon [[File:Flareon.png|25px]] || 2,848,300 || rowspan=2 | (x2) Water, Ground, Rock
+|-
+|| Rapidash [[File:Rapidash.png|25px]] || 2,852,000
+|-
+|| Infernape [[File:Infernape.png|25px]] || 2,857,000 || (x2) Water, Ground, Flying, Psychic
+|-
+|| Magmortar [[File:Magmortar.png|25px]] || 2,860,250 || (x2) Water, Ground, Rock
+|-
+| rowspan=5 | Elite Lucian [[File:Lucian.png|25px]] || rowspan=5 | 18,000 || rowspan=5 | 511,000
+|| Mr. Mime [[File:Mr._Mime.png|25px]] || 3,048,300 || (x2) Poison, Ghost, Steel 
+|-
+|| Espeon [[File:Espeon.png|25px]] || 3,052,000 || (x2) Bug, Ghost, Dark
+|-
+|| Bronzong [[File:Bronzong.png|25px]] || 3,057,000 || (x2) Fire, Ground, Ghost, Dark
+|-
+|| Alakazam [[File:Alakazam.png|25px]] || 3,060,250 || (x2) Bug, Ghost, Dark
+|-
+|| Gallade [[File:Gallade.png|25px]] || 3,066,000 || (x2) Flying, Ghost, Fairy
+|-
+| rowspan=6 | Champion Cynthia [[File:Cynthia.png|25px]] || rowspan=6 | 32,000 || rowspan=6 | 714,000
+|| Spiritomb [[File:Spiritomb.png|25px]] || 3,458,300 || (x2) Fairy
+|-
+|| Roserade [[File:Roserade.png|25px]] || 3,462,000 || (x2) Fire, Ice, Flying, Psychic
+|-
+|| Togekiss [[File:Togekiss.png|25px]] || 3,464,000 || (x2) Electric, Ice, Poison, Rock, Steel
+|-
+|| Lucario [[File:Lucario.png|25px]] || 3,460,250 || (x2) Fire, Fighting, Ground
+|-
+|| Milotic [[File:Milotic.png|25px]] || 3,470,000 || (x2) Electric, Grass
+|-
+|| Garchomp [[File:Garchomp.png|25px]] || 3,570,000 || (x4) Ice &lt;br&gt; (x2) Dragon, Fairy
+|}
+
+==[[Unova]]==
+===Gyms===
+{| class="wikitable collapsible" style="text-align: center;"
+|-
+! Location !! Badge !! Leader !! Money Earned !! Min. Attack !! Pokémon !! HP !! Weakness
+|-
+| rowspan=3 | [[Towns &amp; Cities#Unova|Aspertia City]] || rowspan=3 | Basic [[File:Basic_Badge.png|15px]] || rowspan=3 | Cheren [[File:Cheren.png|25px]] || rowspan=3 | 500 || rowspan=3 | 346,400
+|| Patrat [[File:Patrat.png|25px]] || 3,458,300 || (x2) Fighting
+|-
+|| Pidove [[File:Pidove.png|25px]] || 3,462,000 || (x2) Electric, Ice, Rock
+|-
+|| Lillipup [[File:Lillipup.png|25px]] || 3,464,000 || (x2) Fighting
+|-
+| rowspan=3 | [[Towns &amp; Cities#Unova|Virbank City]] || rowspan=3 | Toxic [[File:Toxic_Badge.png|15px]] || rowspan=3 | Roxie [[File:Roxie.png|25px]] || rowspan=3 | 800  || rowspan=3 | 366,400
+|| Koffing [[File:Koffing.png|25px]] || 3,658,300 || rowspan=2 | (x2) Ground, Psychic
+|-
+|| Grimer [[File:Grimer.png|25px]] || 3,662,000
+|-
+|| Whirlipede [[File:Whirlipede.png|25px]] || 3,664,000 || (x2) Fire, Flying, Psychic, Rock  
+|-
+| rowspan=4 | [[Towns &amp; Cities#Unova|Castelia City]] || rowspan=4 | Insect [[File:Insect_Badge.png|15px]] || rowspan=4 | Burgh [[File:Burgh.png|25px]] || rowspan=4 | 1,500 || rowspan=4 | 551,715
+|| Dwebble [[File:Dwebble.png|25px]] || 3,858,300 || (x2) Water, Rock, Steel
+|-
+|| Shelmet [[File:Shelmet.png|25px]] || 3,862,000 || rowspan=2 | (x2) Fire, Flying, Rock
+|-
+|| Karrablast [[File:Karrablast.png|25px]] || 3,964,000
+|-
+|| Leavanny [[File:Leavanny.png|25px]] || 4,064,000 || (x4) Fire, Flying &lt;br&gt; (x2) Ice, Poison, Bug, Rock
+|-
+| rowspan=4 | [[Towns &amp; Cities#Unova|Nimbasa City]] || rowspan=4 | Bolt [[File:Bolt_Badge.png|15px]] || rowspan=4 | Elesa [[File:Elesa.png|25px]] || rowspan=4 | 2,600 || rowspan=4 | 608,858
+|| Emolga [[File:Emolga.png|25px]] || 4,258,300 || (x2) Ice, Rock
+|-
+|| Flaaffy [[File:Flaaffy.png|25px]] || 4,262,000 || (x2) Ground
+|-
+|| Joltik [[File:Joltik.png|25px]] || 4,464,000 || (x2) Fire, Rock
+|-
+|| Zebstrika [[File:Zebstrika.png|25px]] || 4,464,000 || (x2) Ground
+|-
+| rowspan=4 | [[Towns &amp; Cities#Unova|Driftveil City]] || rowspan=4 | Quake [[File:Quake_Badge.png|15px]] || rowspan=4 | Clay [[File:Clay.png|25px]] || rowspan=4 | 4,800 || rowspan=4 | 666,000
+|| Krokorok [[File:Krokorok.png|25px]] || 4,658,300 || (x2) Water, Grass, Ice, Fighting, Bug, Fairy
+|-
+|| Sandslash [[File:Sandslash.png|25px]] || 4,662,000 || (x2) Water, Grass, Ice
+|-
+|| Onix [[File:Onix.png|25px]] || 4,864,000 || (x4) Water, Grass &lt;br&gt; (x2) Ice, Fighting, Ground, Steel
+|-
+|| Excadrill [[File:Excadrill.png|25px]] || 5,064,000 || (x2) Fire, Water, Fighting, Ground
+|-
+| rowspan=4 | [[Towns &amp; Cities#Unova|Mistralton City]] || rowspan=4 | Jet [[File:Jet_Badge.png|15px]] || rowspan=4 | Skyla [[File:Skyla.png|25px]] || rowspan=4 | 7,600 || rowspan=4 | 809,143
+|| Swoobat [[File:Swoobat.png|25px]] || 5,458,300 || (x2) Electric, Ice, Rock, Ghost, Dark
+|-
+|| Skarmory [[File:Skarmory.png|25px]] || 6,062,000 || (x2) Fire, Electric
+|-
+|| Sigilyph [[File:Sigilyph.png|25px]] || 5,664,000 || (x2) Electric, Ice, Rock, Ghost, Dark
+|-
+|| Swanna [[File:Swanna.png|25px]] || 5,864,000 || (x4) Electric &lt;br&gt; (x2) Rock
+|-
+| rowspan=4 | [[Towns &amp; Cities#Unova|Opelucid City]]|| rowspan=4 | Legend [[File:Legend_Badge.png|15px]] || rowspan=4 | Drayden [[File:Drayden.png|25px]] || rowspan=4 | 14,000 || rowspan=4 | 936,900
+|| Druddigon [[File:Druddigon.png|25px]] || 6,558,300 || (x2) Ice, Dragon, Fairy
+|-
+|| Flygon [[File:Flygon.png|25px]] || 6,662,000 || (x4) Ice &lt;br&gt; (x2) Dragon, Fairy
+|-
+|| Altaria [[File:Altaria.png|25px]] || 6,464,000 || (x4) Ice &lt;br&gt; (x2) Rock, Dragon, Fairy
+|-
+|| Haxorus [[File:Haxorus.png|25px]] || 6,964,000 || (x2) Ice, Dragon, Fairy
+|-
+| rowspan=4 | [[Towns &amp; Cities#Unova|Humilau City]]|| rowspan=4 | Wave [[File:Wave_Badge.png|15px]] || rowspan=4 | Marlon [[File:Marlon.png|25px]] || rowspan=4 | 27,000 || rowspan=4 | 1,037,429
+|| Wailord [[File:Wailord.png|25px]] || 7,458,300 || (x2) Electric, Grass
+|-
+|| Mantine [[File:Mantine.png|25px]] || 7,262,000 || (x4) Electric &lt;br&gt; (x2) Rock
+|-
+|| Carracosta [[File:Carracosta.png|25px]] || 7,064,000 || (x4) Grass &lt;br&gt; (x2) Electric, Fighting, Ground
+|-
+|| Jellicent [[File:Jellicent.png|25px]] || 7,464,000 || (x2) Electric, Grass, Ghost, Dark
+|-
+|}
+
+===[[Towns &amp; Cities#Unova|Pokémon League Unova]]===
+{| class="wikitable collapsible" style="text-align: center;"
+|-
+! Leader !! Money Earned !! Min. Attack !! Pokémon !! HP !! Weakness
+|-
+| rowspan=6 | Elite Shauntal [[File:Shauntal.png|25px]] || rowspan=6 | 32,000 || rowspan=6 | 1,792,050
+|| Cofagrigus [[File:Cofagrigus.png|25px]] || 8,945,330 || (x2) Ghost, Dark
+|-
+|| Gengar [[File:Gengar.png|25px]] || 8,948,300 || (x2) Ground, Psychic, Ghost, Dark
+|-
+|| Froslass [[File:Froslass.png|25px]] || 8,952,000 || (x2) Fire, Rock, Ghost, Dark, Steel
+|-
+|| Drifblim [[File:Drifblim.png|25px]] || 8,957,000 || (x2) Electric, Ice, Rock, Ghost, Dark
+|-
+|| Golurk [[File:Golurk.png|25px]] || 8,960,250 || (x2) Water, Grass, Ice, Ghost, Dark
+|-
+|| Chandelure [[File:Chandelure.png|25px]] || 8,960,250 || (x2) Water, Ground, Rock, Ghost, Dark
+|-
+| rowspan=6 | Elite Marshal [[File:Marshal.png|25px]] || rowspan=6 | 32,000 || rowspan=6 | 1,992,050
+|| Throh [[File:Throh.png|25px]] || 9,945,330 || rowspan=2 | (x2) Flying, Psychic, Fairy
+|-
+|| Sawk [[File:Sawk.png|25px]] || 9,948,300
+|-
+|| Lucario [[File:Lucario.png|25px]] || 9,952,000 || (x2) Fire, Fighting, Ground
+|-
+|| Mienshao [[File:Mienshao.png|25px]] || 9,957,000 || rowspan=3 | (x2) Flying, Psychic, Fairy
+|-
+|| Machamp [[File:Machamp.png|25px]] || 9,957,000
+|-
+|| Conkeldurr [[File:Conkeldurr.png|25px]] || 9,960,250
+|-
+| rowspan=6 | Elite Grimsley [[File:Grimsley.png|25px]] || rowspan=6 | 32,000 || rowspan=6 | 2,192,050
+|| Honchkrow [[File:Honchkrow.png|25px]] || 10,945,330 || (x2) Electric, Ice, Rock, Fairy
+|-
+|| Scrafty [[File:Scrafty.png|25px]] || 10,948,300 || (x4) Fairy &lt;br&gt; (x2) Fighting, Flying
+|-
+|| Krookodile [[File:Krookodile.png|25px]] || 10,952,000 || (x2) Water, Grass, Ice, Fighting, Bug, Fairy
+|-
+|| Houndoom [[File:Houndoom.png|25px]] || 10,957,000 || (x2) Water, Fighting, Ground, Rock
+|-
+|| Tyranitar [[File:Tyranitar.png|25px]] || 10,957,000 || (x4) Fighting &lt;br&gt; (x2) Water, Grass, Ground, Bug, Steel, Fairy
+|-
+|| Bisharp [[File:Bisharp.png|25px]] || 10,960,250 || (x4) Fighting &lt;br&gt; (x2) Ground, Fire
+|-
+| rowspan=6 | Elite Caitlin [[File:Caitlin.png|25px]] || rowspan=6 | 32,000 || rowspan=6 | 2,392,050
+|| Musharna [[File:Musharna.png|25px]] || 11,945,330 || rowspan=3 | (x2) Bug, Ghost, Dark
+|-
+|| Alakazam [[File:Alakazam.png|25px]] || 11,948,300
+|-
+|| Gothitelle [[File:Gothitelle.png|25px]] || 11,957,000
+|-
+|| Gallade [[File:Gallade.png|25px]] || 11,957,000 || (x2) Flying, Ghost, Fairy
+|-
+|| Reuniclus [[File:Reuniclus.png|25px]] || 11,952,000 || (x2) Bug, Ghost, Dark
+|-
+|| Metagross [[File:Metagross.png|25px]] || 11,960,250 || (x2) Fire, Ground, Ghost, Dark
+|-
+| rowspan=6 | Champion Iris [[File:Iris.png|25px]] || rowspan=6 | 64,000 || rowspan=6 | 2,914,000
+|| Hydreigon [[File:Hydreigon.png|25px]] || 12,458,300 || (x4) Fairy &lt;br&gt; (x2) Ice, Fighting, Bug, Dragon
+|-
+|| Salamence [[File:Salamence.png|25px]] || 12,462,000 || (x4) Ice &lt;br&gt; (x2) Rock, Dragon, Fairy
+|-
+|| Aggron [[File:Aggron.png|25px]] || 12,464,000 || (x4) Fighting, Ground &lt;br&gt; (x2) Water
+|-
+|| Archeops [[File:Archeops.png|25px]] || 12,460,250 || (x2) Water, Electric, Ice, Rock, Steel
+|-
+|| Lapras [[File:Lapras.png|25px]] || 12,470,000 || (x2) Electric, Grass, Fighting, Rock
+|-
+|| Haxorus [[File:Haxorus.png|25px]] || 14,570,000 || (x2) Ice, Dragon, Fairy
+|}
+
+==[[Kalos]]==
+===Gyms===
+{| class="wikitable collapsible" style="text-align: center;"
+|-
+! Location !! Badge !! Leader !! Money Earned !! Min. Attack !! Pokémon !! HP !! Weakness
+|-
+| rowspan=2 | [[Towns &amp; Cities#Kalos|Santalune City]] || rowspan=2 | Bug [[File:Bug_Badge.png|15px]] || rowspan=2 | Viola [[File:Viola.png|25px]] || rowspan=2 | 800 || rowspan=2 | 1,056,724
+|| Surskit [[File:Surskit.png|25px]] || 13,737,400 || (x2) Electric, Flying, Rock
+|-
+|| Vivillon (Meadow) [[File:Vivillon_(Meadow).png|25px]] || 17,395,730 || (x4) Rock &lt;br&gt; (x2) Fire, Electric, Ice, Flying
+|-
+| rowspan=2 | [[Towns &amp; Cities#Kalos|Cyllage City]] || rowspan=2 | Cliff [[File:Cliff_Badge.png|15px]] || rowspan=2 | Grant [[File:Grant.png|25px]] || rowspan=2 | 1,700 || rowspan=2 | 1,239,838
+|| Amaura [[File:Amaura.png|25px]] || 16,937,530 || (x4) Fighting, Steel &lt;br&gt; (x2) Water, Grass, Ground, Rock
+|-
+|| Tyrunt [[File:Tyrunt.png|25px]] || 19,837,400 || (x2) Ice, Fighting, Ground, Dragon, Steel
+|-
+| rowspan=3 | [[Towns &amp; Cities#Kalos|Shalour City]]|| rowspan=3 | Rumble [[File:Rumble_Badge.png|15px]] || rowspan=3 | Korrina [[File:Korrina.png|25px]] || rowspan=3 | 3,800 || rowspan=3 | 2,236,200
+|| Mienfoo [[File:Mienfoo.png|25px]] || 21,558,300 || rowspan=2 | (x2) Flying, Psychic, Fairy
+|-
+|| Machoke [[File:Machoke.png|25px]] || 22,062,000
+|-
+|| Hawlucha [[File:Hawlucha.png|25px]] || 22,362,000 || (x2) Electric, Ice, Flying, Psychic, Fairy
+|-
+| rowspan=3 | [[Towns &amp; Cities#Kalos|Coumarine City]]|| rowspan=3 | Plant [[File:Plant_Badge.png|15px]] || rowspan=3 | Ramos [[File:Ramos.png|25px]] || rowspan=3 | 5,500 || rowspan=3 | 2,834,256
+|| Jumpluff [[File:Jumpluff.png|25px]] || 25,508,300 || (x4) Ice &lt;br&gt; (x2) Fire, Poison, Flying, Rock
+|-
+|| Weepinbell [[File:Weepinbell.png|25px]] || 27,562,000 || (x2) Fire, Ice, Flying, Psychic 
+|-
+|| Gogoat [[File:Gogoat.png|25px]] || 29,502,000 || (x2) Fire, Ice, Poison, Flying, Bug 
+|-
+| rowspan=3 | [[Towns &amp; Cities#Kalos|Lumiose City]]|| rowspan=3 | Voltage [[File:Voltage_Badge.png|15px]] || rowspan=3 | Clemont [[File:Clemont.png|25px]] || rowspan=3 | 9,000 || rowspan=3 | 3,206,200
+|| Emolga [[File:Emolga.png|25px]] || 30,058,300 || (x2) Ice, Rock
+|-
+|| Magneton [[File:Magneton.png|25px]] || 31,062,000 || (x4) Ground &lt;br&gt; (x2) Fire, Fighting
+|-
+|| Heliolisk [[File:Heliolisk.png|25px]] || 32,062,000 || (x2) Ground, Fighting
+|-
+| rowspan=3 | [[Towns &amp; Cities#Kalos|Laverre City]]|| rowspan=3 | Fairy [[File:Fairy_Badge.png|15px]] || rowspan=3 | Valerie [[File:Valerie.png|25px]] || rowspan=3 | 16,000 || rowspan=3 | 3,673,145
+|| Mawile [[File:Mawile.png|25px]] || 33,058,300 || (x2) Fire, Ground
+|-
+|| Mr. Mime [[File:Mr._Mime.png|25px]] || 36,462,000 || (x2) Poison, Ghost, Steel 
+|-
+|| Sylveon [[File:Sylveon.png|25px]] || 38,062,000 || (x2) Poison, Steel
+|-
+| rowspan=3 | [[Towns &amp; Cities#Kalos|Anistar City]]|| rowspan=3 | Psychic [[File:Psychic_Badge.png|15px]] || rowspan=3 | Olympia [[File:Olympia.png|25px]] || rowspan=3 | 30,000 || rowspan=3 | 4,446,200
+|| Sigilyph [[File:Sigilyph.png|25px]] || 40,058,300 || (x2) Electric, Ice, Rock, Ghost, Dark
+|-
+|| Slowking [[File:Slowking.png|25px]] || 42,062,000 || (x2) Electric, Grass, Bug, Ghost, Dark
+|-
+|| Meowstic [[File:Meowstic.png|25px]] || 44,462,000 || (x2) Bug, Ghost, Dark
+|-
+| rowspan=3 | [[Towns &amp; Cities#Kalos|Snowbelle City]]|| rowspan=3 | Iceberg [[File:Iceberg_Badge.png|15px]] || rowspan=3 | Wulfric [[File:Wulfric.png|25px]] || rowspan=3 | 52,000 || rowspan=3 | 5,006,200
+|| Abomasnow [[File:Abomasnow.png|25px]] || 46,558,300 || (x4) Fire &lt;br&gt; (x2) Fighting, Poison, Flying, Bug, Rock, Steel
+|-
+|| Cryogonal [[File:Cryogonal.png|25px]] || 47,654,830 || rowspan=2 | (x2) Fire, Fighting, Rock, Steel
+|-
+|| Avalugg [[File:Avalugg.png|25px]] || 50,062,000
+|}
+
+===[[Towns &amp; Cities#Kalos|Pokémon League Kalos]]===
+{| class="wikitable collapsible" style="text-align: center;"
+|-
+! Leader !! Money Earned !! Min. Attack !! Pokémon !! HP !! Weakness
+|-
+| rowspan=4 | Elite Malva [[File:Malva.png|25px]] || rowspan=4 | 64,000 || rowspan=4 | 7,864,043
+|| Pyroar [[File:Pyroar.png|25px]] || 54,696,969 || (x2) Water, Fighting, Ground, Rock
+|-
+|| Torkoal [[File:Torkoal.png|25px]] || 55,048,300 || (x2) Water, Ground, Rock
+|-
+|| Chandelure [[File:Chandelure.png|25px]] || 55,052,000 || (x2) Water, Ground, Rock, Ghost, Dark
+|-
+|| Talonflame [[File:Talonflame.png|25px]] || 55,557,000 || (x4) Rock &lt;br&gt; (x2) Water, Electric
+|-
+| rowspan=4 | Elite Siebold [[File:Siebold.png|25px]] || rowspan=4 | 64,000 || rowspan=4 | 7,915,048
+|| Clawitzer [[File:Clawitzer.png|25px]] || 54,696,969 || (x2) Electric, Grass 
+|-
+|| Gyarados [[File:Gyarados.png|25px]] || 55,405,330 || (x4) Electric &lt;br&gt; (x2) Rock
+|-
+|| Starmie [[File:Starmie.png|25px]] || 55,405,330 || (x2) Electric, Grass, Bug, Ghost, Dark
+|-
+|| Barbaracle [[File:Barbaracle.png|25px]] || 55,557,000 || (x4) Grass &lt;br&gt; (x2) Electric, Fighting, Ground
+|-
+| rowspan=4 | Elite Wikstrom [[File:Wikstrom.png|25px]] || rowspan=4 | 64,000 || rowspan=4 | 7,915,048
+|| Klefki [[File:Klefki.png|25px]] || 54,696,969 || (x2) Fire, Ground
+|-
+|| Probopass [[File:Probopass.png|25px]] || 55,405,330 || (x4) Fighting, Ground &lt;br&gt; (x2) Water
+|-
+|| Scizor [[File:Scizor.png|25px]] || 55,405,330 || (x4) Fire
+|-
+|| Aegislash [[File:Aegislash.png|25px]] || 55,557,000 || (x2) Fire, Ground, Ghost, Dark
+|-
+| rowspan=4 | Elite Drasna [[File:Drasna.png|25px]] || rowspan=4 | 64,000 || rowspan=4 | 7,915,048
+|| Dragalge [[File:Dragalge.png|25px]] || 54,696,969 || (x2) Ice, Ground, Psychic, Dragon
+|-
+|| Druddigon [[File:Druddigon.png|25px]] || 55,405,330 || (x2) Ice, Dragon, Fairy
+|-
+|| Altaria [[File:Altaria.png|25px]] || 55,405,330 || rowspan=2 | (x4) Ice &lt;br&gt; (x2) Rock, Dragon, Fairy
+|-
+|| Noivern [[File:Noivern.png|25px]] || 55,557,000
+|-
+| rowspan=6 | Champion Diantha [[File:Diantha.png|25px]] || rowspan=6 | 128,000 || rowspan=6 | 12,614,800
+|| Hawlucha [[File:Hawlucha.png|25px]] || 60,083,000 || (x2) Electric, Ice, Flying, Psychic, Fairy
+|-
+|| Tyrantrum [[File:Tyrantrum.png|25px]] || 62,057,000 || (x2) Ice, Fighting, Ground, Dragon, Steel
+|-
+|| Aurorus [[File:Aurorus.png|25px]] || 62,057,000 || (x4) Fighting, Steel &lt;br&gt; (x2) Water, Grass, Ground, Rock
+|-
+|| Gourgeist [[File:Gourgeist.png|25px]] || 62,557,000 || (x2) Fire, Ice, Flying, Ghost, Dark
+|-
+|| Goodra [[File:Goodra.png|25px]] || 62,170,000 || (x2) Ice, Dragon, Fairy
+|-
+|| Mega Gardevoir [[File:Mega Gardevoir.png|25px]] || 63,070,000 || (x2) Poison, Ghost, Steel
+|}
+
+==[[Alola]]==
+===Island Trials===
+{| class="wikitable collapsible" style="text-align: center;"
+|-
+! Location !! Badge !! Leader !! Possible Bosses
+|-
+| [[Verdant Cavern]] || Normalium Z [[File:NormaliumZ.png|15px]] || Ilima[[File:Ilima.png|25px]] || Gumshoos [[File:Gumshoos.png|25px]] &lt;br&gt; Alolan Raticate [[File:Alolan Raticate.png|25px]] 
+|-
+| [[Brooklet Hill]] || Waterium Z [[File:WateriumZ.png|15px]] || Lana [[File:Lana.png|25px]] || Wishiwashi (School) [[File:Wishiwashi (School).png|25px]] &lt;br&gt; Araquanid [[File:Araquanid.png|25px]] 
+|-
+| [[Wela Volcano Park]] || Firium Z [[File:FiriumZ.png|15px]] || Kiawe [[File:Kiawe.png|25px]] || Alolan Marowak [[File:Alolan Marowak.png|25px]] &lt;br&gt; Salazzle [[File:Salazzle.png|25px]] 
+|-
+| [[Lush Jungle]] || Grassium Z [[File:GrassiumZ.png|15px]] || Mallow [[File:Mallow.png|25px]] || Lurantis [[File:Lurantis.png|25px]]
+|-
+| [[Hokulani Observatory]] || Electrium Z [[File:ElectriumZ.png|15px]] || Sophocles [[File:Sophocles.png|25px]] || Vikavolt [[File:Vikavolt.png|25px]] &lt;br&gt; Togedemaru [[File:Togedemaru.png|25px]]
+|-
+| [[Thrifty Megamart]] || Ghostium Z [[File:GhostiumZ.png|15px]] || Acerola [[File:Acerola.png|25px]] || Mimikyu [[File:Mimikyu.png|25px]] 
+|-
+| [[Vast Poni Canyon]] || Dragonium Z [[File:DragoniumZ.png|15px]] || Totem Kommo-o [[File:Totem Kommo-o.png|25px]] || Kommo-o [[File:Kommo-o.png|25px]] 
+|-
+| [[Mina's Houseboat]] || Fairium Z [[File:FairiumZ.png|15px]] || Mina [[File:Mina.png|25px]] || Ribombee [[File:Ribombee.png|25px]] 
+|-
+|}
+
+===Gyms===
+{| class="wikitable collapsible" style="text-align: center;"
+|-
+! Location !! Badge !! Leader !! Money Earned !! Min. Attack !! Pokémon !! HP !! Weakness
+|-
+| rowspan=3 | [[Towns &amp; Cities#Alola|Iki Town]] || rowspan=3 | Fightinium Z [[File:FightiniumZ.png|15px]] || rowspan=3 | Hala [[File:Hala.png|25px]] || rowspan=3 | 128,000 || rowspan=3 | 6,306,962
+|| Machop [[File:Machop.png|25px]] || 62,058,739 || (x2) Flying, Fairy, Psychic
+|- 
+|| Makuhita [[File:Makuhita.png|25px]] || 62,058,739 || (x2) Flying, Fairy, Psychic
+|-
+|| Crabrawler [[File:Crabrawler.png|25px]] || 63,069,612 || (x2) Flying, Fairy, Psychic
+|-
+| rowspan=3 | [[Towns &amp; Cities#Alola|Konikoni City]]|| rowspan=3 | Rockium Z [[File:RockiumZ.png|15px]] || rowspan=3 | Olivia [[File:Olivia.png|25px]] || rowspan=3 | 128,000 || rowspan=3 | 6,747,868
+|| Lileep [[File:Lileep.png|25px]] || 66,147,743 || (x2) Fighting, Steel, Ice, Bug
+|-
+|| Anorith [[File:Anorith.png|25px]] || 66,147,743 || (x2) Water, Rock, Steel
+|-
+|| Lycanroc (Midnight) [[File:Lycanroc (Midnight).png|25px]] || 67,478,674 || (x2) Ground, Steel, Water, Grass, Fighting
+|-
+| rowspan=3 | [[Towns &amp; Cities#Alola|Malie City]]|| rowspan=3 | Darkinium Z [[File:DarkiniumZ.png|15px]] || rowspan=3 | Nanu [[File:Nanu.png|25px]] || rowspan=3 | 128,000 || rowspan=3 | 7,173,511
+|| Sableye [[File:Sableye.png|25px]] || 70,650,480 || (x2) Fairy
+|-
+|| Krokorok [[File:Krokorok.png|25px]] || 70,650,480 || (x2) Fighting, Water, Grass, Ice, Bug, Fairy
+|-
+|| Alolan Persian [[File:Alolan Persian.png|25px]] || 71,735,104 || (x2) Fighting, Bug, Fairy
+|-
+| rowspan=4 | [[Towns &amp; Cities#Alola|Exeggutor Island]]|| rowspan=4 | Groundium Z [[File:GroundiumZ.png|15px]] || rowspan=4 | Hapu [[File:Hapu.png|25px]] || rowspan=4 | 128,000 || rowspan=4 | 10,951,182
+|| Golurk [[File:Golurk.png|25px]] || 76,658,268 || (x2) Ghost, Dark, Grass, Ice, Water
+|-
+|| Gastrodon (east) [[File:Gastrodon (east).png|25px]] || 76,658,268 || (x4) Grass
+|-
+|| Flygon [[File:Flygon.png|25px]] || 76,658,268 || (x4) Ice &lt;br&gt; (x2) Dragon, Fairy
+|-
+|| Mudsdale [[File:Mudsdale.png|25px]] || 77,747,374 || (2x) Ice, Grass, Water
+|-
+|}
+
+===[[Towns &amp; Cities#Alola|Pokémon League Alola]]===
+{| class="wikitable collapsible" style="text-align: center;"
+|-
+! Leader !! Money Earned !! Min. Attack !! Pokémon !! HP !! Weakness
+|-
+| rowspan=5 | Elite Molayne [[File:Molayne.png|25px]] || rowspan=5 | 64,000 || rowspan=5 | 14,409,408
+|| Klefki [[File:Klefki.png|25px]] || 85,547,357 || (x2) Fire, Ground
+|-
+|| Bisharp [[File:Bisharp.png|25px]] || 85,547,357 || (x4) Fighting &lt;br&gt; (x2) Ground, Fire
+|-
+|| Magnezone [[File:Magnezone.png|25px]] || 85,547,357 || (x4) Ground &lt;br&gt; (x2) Fighting, Fire
+|-
+|| Metagross [[File:Metagross.png|25px]] || 85,547,357 || (x2) Fire, Ground, Ghost, Dark
+|-
+|| Alolan Dugtrio [[File:Alolan Dugtrio.png|25px]] || 86,456,446 || (x2) Fighting, Ground, Water, Fire
+|-
+| rowspan=5 | Elite Olivia [[File:Olivia.png|25px]] || rowspan=5 | 64,000 || rowspan=5 | 14,409,408 || Armaldo [[File:Armaldo.png|25px]] || 85,547,357 || (x2) Steel, Rock,  Water
+|-
+|| Cradily [[File:Cradily.png|25px]] || 85,547,357 || (x2) Steel, Fighting, Ice, Bug
+|-
+|| Gigalith [[File:Gigalith.png|25px]] || 85,547,357 || (x2) Ground, Grass, Water, Steel, Fighting
+|-
+|| Probopass [[File:Probopass.png|25px]] || 85,547,357 || (x4) Ground, Fighting &lt;br&gt; (x2) Water
+|-
+|| Lycanroc (Midnight) [[File:Lycanroc_(Midnight).png|25px]] || 86,456,446 || (x2) Ground, Grass, Water, Steel, Fighting
+|-
+| rowspan=5 | Elite Acerola [[File:Acerola.png|25px]] || rowspan=5 | 64,000 || rowspan=5 | 14,409,408 || Banette [[File:Banette.png|25px]] || 85,547,357 || (x2) Dark, Ghost
+|-
+|| Drifblim [[File:Drifblim.png|25px]] || 85,547,357 || (x2) Ice, Ghost, Electric, Dark, Rock
+|-
+|| Dhelmise [[File:Dhelmise.png|25px]] || 85,547,357 || (x2) Ghost, Fire, Dark, Ice, Flying 
+|-
+|| Froslass [[File:Froslass.png|25px]] || 85,547,357 || (x2) Ghost, Fire, Dark, Rock, Steel
+|-
+|| Palossand [[File:Palossand.png|25px]] || 86,456,446 || (x2) Grass, Ice, Ghost, Dark, Water
+|-
+| rowspan=5 | Elite Kahili [[File:Kahili.png|25px]] || rowspan=5 | 64,000 || rowspan=5 | 14,409,408
+|| Braviary [[File:Braviary.png|25px]] || 85,547,357 || (x2) Ice, Electric, Rock
+|-
+|| Hawlucha [[File:Hawlucha.png|25px]] || 85,547,357 || (x2) Electric, Ice, Flying, Psychic, Fairy
+|-
+|| Oricorio (Baile) [[File:Oricorio_(Baile).png|25px]] || 85,547,357 || (x4) Rock &lt;br&gt;(x2) Electric, Water
+|-
+|| Mandibuzz [[File:Mandibuzz.png|25px]] || 85,547,357 || (x2) Fairy, Ice, Rock, Electric
+|-
+|| Toucannon [[File:Toucannon.png|25px]] || 86,456,446 || (x2) Ice, Electric, Rock
+|-
+| colspan=6 | Hau's team changes based on the chosen starter Pokémon (Rowlet,Litten and Popplio/Pikachu).
+|-
+| rowspan=10 | Champion Hau [[File:Hau.png|15px]] || rowspan=10 | 100,000 || rowspan=4 | Starter: All
+|| Alolan Raichu [[File:Alolan Raichu.png|25px]] || 91,545,555 || (x2) Ground, Ghost, Dark
+|-
+|| Tauros [[File:Tauros.png|25px]] || 89,636,471 || (x2) Fighting
+|-
+|| Noivern [[File:Noivern.png|25px]] || 89,636,471 || (x4) Ice &lt;br&gt; (x2) Fairy, Rock, Dragon
+|-
+|| Crabominable [[File:Crabominable.png|25px]] || 91,545,555 || (x2) Flying, Fire, Fairy, Psychic, Fighting, Steel
+|-
+| rowspan=2 | 19,345,078 &lt;br&gt; Starter: Rowlet || Flareon [[File:Flareon.png|25px]] || 86,936,471 || (x2) Rock, Water, Ground
+|-
+|| Primarina [[File:Primarina.png|25px]] || 96,725,389 || (x2) Grass, Electric, Poison
+|-
+| rowspan=2 | 19,345,078 &lt;br&gt; Starter: Litten || Vaporeon [[File:Vaporeon.png|25px]] || 86,936,471 || (x2) Grass, Electric
+|-
+|| Decidueye [[File:Decidueye.png|25px]] || 96,725,389 || (x2) Fire, Ice, Flying, Ghost, Dark 
+|-
+| rowspan=2 | 19,345,078 &lt;br&gt; Starter: Popplio/Pikachu || Leafeon [[File:Leafeon.png|25px]] || 86,936,471 || (x2) Fire, Ice, Poison, Bug, Flying
+|-
+||  Incineroar [[File:Incineroar.png|25px]] || 96,725,389 || (x2) Water, Fighting, Ground, Rock 
+|-
+|}</text>
+    <contributor>
+      <username>SomeonealiveQN</username>
+      <id>5</id>
+    </contributor>
+    <comment>/* Pokémon League Alola */</comment>
+    <model>wikitext</model>
+    <parentid>8321</parentid>
+    <sha1>5b59aaa94c1abab5ff03b1b10d0f2c9910099074</sha1>
+  </revision>
+  <revision>
+    <id>8321</id>
+    <timestamp>2022-06-10T21:21:55Z</timestamp>
+    <text bytes="50515" space="preserve">[[File:Badge case 2.0.png|thumb|365px]]
+'''Gyms''' are special areas in Pokéclicker where the player can earn gym badges and unlock new routes by defeating the gym leader in a battle. There are 8 or More gyms in each region plus the Pokémon League building, which includes the Elite 4 trainers and the champion.
+
+==Features==
+===Gym Auto-Rebattle===
+Upon defeating a Gym for the 100th time the '''Gym Auto-Rebattle''' feature is unlocked. This allows gyms to be automatically restarted. However, each Gym fight using the Auto-Rebattle feature costs 2x the base cost (not including Achievement or Battle Item Bonuses) of the Gym and clearing the gym does not award any money.
+
+
+==[[Kanto]]==
+
+===Level Cap===
+
+There are level caps that restrict the maximum level of obtained Pokémon in Kanto. The general formula is: &lt;br&gt;&lt;br&gt; &lt;math&gt;\colorbox{White}{$Max level = (n + 2)*10$}&lt;/math&gt; &lt;br&gt;&lt;br&gt; where n = the number of obtained badges by the player. Below is a table of badges and the respective level cap.
+
+{| class="wikitable collapsible collapsed" style="text-align: center;"
+|-
+! Number of Obtained Badges !! Level Cap
+|-
+| 0 || 20
+|-
+| 1 || 30
+|-
+| 2 || 40
+|-
+| 3 || 50
+|-
+| 4 || 60
+|-
+| 5 || 70
+|-
+| 6 || 80
+|-
+| 7 || 90
+|-
+| 8 || 100
+|-
+|}
+
+===Gyms===
+
+*Note: Minimum attack is calculated without taking into consideration click attack or the Pokémon's type(s). You can see how much damage you do against a certain Pokémon by clicking on or scrolling over the "Pokémon attack" number below the battle screen. The [[Type Effectiveness]] page has more information on how type matchups are ruled in Pokéclicker.
+
+{| class="wikitable collapsible" style="text-align: center;"
+|-
+! Location !! Badge !! Leader !! Money Earned !! Min. Attack !! Pokémon !! HP !! Weakness
+|-
+| rowspan=2 | [[Towns &amp; Cities#Kanto|Pewter City]]|| rowspan=2 | Boulder [[File:Boulder_Badge.png|15px]] || rowspan=2 | Brock [[File:Brock.png|15px]] || rowspan=2 | 250 || rowspan=2 | 78
+|| Geodude [[File:Geodude.png|25px]] || 770 || rowspan=2 | (x4) Water, Grass&lt;br/&gt;(x2) Ice, Fighting, Ground, Steel 
+|-
+|| Onix [[File:Onix.png|25px]] || 1,554
+|-
+| rowspan=2 | [[Towns &amp; Cities#Kanto|Cerulean City]]|| rowspan=2 | Cascade [[File:Cascade_Badge.png|15px]] || rowspan=2 | Misty [[File:Misty.png|15px]] || rowspan=2 | 500 || rowspan=2 | 364
+|| Staryu [[File:Staryu.png|25px]] || 4,000 || (x2) Electric, Grass
+|-
+|| Starmie [[File:Starmie.png|25px]] || 6,800 || (x2) Electric, Grass, Bug, Ghost, Dark
+|-
+|| [[Towns &amp; Cities#Kanto|Vermilion City]] || Thunder [[File:Thunder_Badge.png|15px]] || Lt. Surge [[File:Lt._Surge.png|15px]] || 1,000 || 1,234
+|| Raichu [[File:Raichu.png|25px]] || 37,000 || (x2) Ground
+|-
+| rowspan=3 | [[Towns &amp; Cities#Kanto|Celadon City]]|| rowspan=3 | Rainbow [[File:Rainbow_Badge.png|15px]] || rowspan=3 | Erika [[File:Erika.png|15px]] || rowspan=3 | 1,500 || rowspan=3 | 3,640
+|| Tangela [[File:Tangela.png|25px]] || 38,810 || (x2) Fire, Ice, Poison, Flying, Bug
+|-
+|| Weepinbell [[File:Weepinbell.png|25px]] || 30,340 || rowspan=2 | (x2) Fire, Ice, Flying, Psychic 
+|-
+|| Gloom [[File:Gloom.png|25px]]|| 36,400
+|-
+| rowspan=4 | [[Towns &amp; Cities#Kanto|Fuchsia City]]|| rowspan=4 | Soul [[File:Soul_Badge.png|15px]] || rowspan=4 | Koga [[File:Koga.png|15px]] || rowspan=4 | 3,500 || rowspan=4 | 4,679
+|| Venonat [[File:Venonat.png|25px]]|| 30,780 || rowspan=4 | (x2) Fire, Flying, Psychic, Rock
+|-
+|| Venonat [[File:Venonat.png|25px]] || 32,460
+|-
+|| Venonat [[File:Venonat.png|25px]] || 36,540
+|-
+|| Venomoth [[File:Venomoth.png|25px]] || 37,430
+|-
+| rowspan=3 | [[Towns &amp; Cities#Kanto|Saffron City]]|| rowspan=3 | Marsh [[File:Marsh_Badge.png|15px]] || rowspan=3 | Sabrina [[File:Sabrina.png|15px]] || rowspan=3 | 2,500 || rowspan=3 | 2,582
+|| Abra [[File:Abra.png|25px]] || 23,040 || rowspan=3 | (x2) Bug, Ghost, Dark
+|-
+|| Kadabra [[File:Kadabra.png|25px]] || 25,600
+|-
+|| Alakazam [[File:Alakazam.png|25px]] || 28,400
+|-
+| rowspan=3 | [[Towns &amp; Cities#Kanto|Cinnabar Island]]|| rowspan=3 | Volcano [[File:Volcano_Badge.png|15px]] || rowspan=3 | Blaine [[File:Blaine.png|15px]] || rowspan=3 | 5,000 || rowspan=3 | 4,572
+|| Ninetales [[File:Ninetales.png|25px]] || 37,430 || rowspan=3 | (x2) Water, Ground, Rock
+|-
+|| Rapidash [[File:Rapidash.png|25px]] || 45,230
+|-
+|| Arcanine [[File:Arcanine.png|25px]] || 50,290
+|-
+| rowspan=5 | [[Towns &amp; Cities#Kanto|Viridian City]]|| rowspan=5 | Earth [[File:Earth_Badge.png|15px]] || rowspan=5 | Giovanni [[File:Giovanni.png|15px]] || rowspan=5 | 6,000 || rowspan=5 | 9,046
+|| Dugtrio [[File:Dugtrio.png|25px]] || 45,230 || (x2) Water, Grass, Ice
+|-
+|| Persian [[File:Persian.png|25px]] || 47,530 || (x2) Fighting
+|-
+|| Nidoqueen [[File:Nidoqueen.png|25px]] || 48,740 || rowspan=2 | (x2) Water, Ice, Ground, Psychic
+|-
+|| Nidoking [[File:Nidoking.png|25px]] || 48,350
+|-
+|| Rhydon [[File:Rhydon.png|25px]] || 55,000 || (x4) Water, Grass &lt;br&gt; (x2) Ice, Fighting, Ground, Steel
+|}
+
+=== [[Towns &amp; Cities#Kanto|Indigo Plateau]] ===
+{| class="wikitable collapsible" style="text-align: center;"
+|-
+! Leader !! Money Earned !! Min. Attack !! Pokémon !! HP !! Weakness
+|-
+| rowspan=5 | Elite Lorelei [[File:Lorelei.png|25px]] || rowspan=5 | 7,500 || rowspan=5 | 9,500
+|| Dewgong [[File:Dewgong.png|25px]] || 45,330 || rowspan=2 | (x2) Electric, Grass, Fighting, Rock
+|-
+|| Cloyster [[File:Cloyster.png|25px]] || 48,300
+|-
+|| Slowbro [[File:Slowbro.png|25px]] || 52,000 || (x2) Electric, Grass, Bug, Ghost, Dark
+|-
+|| Jynx [[File:Jynx.png|25px]] || 57,000 || (x2) Fire, Bug, Rock, Ghost, Dark, Steel
+|-
+|| Lapras [[File:Lapras.png|25px]] || 60,250 || (x2) Electric, Grass, Fighting, Rock
+|-
+| rowspan=5 | Elite Bruno [[File:Bruno.png|25px]] || rowspan=5 | 7,500 || rowspan=5 | 9,500
+|| Onix [[File:Onix.png|25px]] || 45,330 || (x4) Water, Grass&lt;br/&gt;(x2) Ice, Fighting, Ground, Steel
+|-
+|| Hitmonchan [[File:Hitmonchan.png|25px]] || 48,300 || rowspan=2 | (x2) Flying, Psychic, Fairy
+|-
+|| Hitmonlee [[File:Hitmonlee.png|25px]] || 52,000
+|-
+|| Onix [[File:Onix.png|25px]] || 57,000 || (x4) Water, Grass &lt;br&gt; (x2) Ice, Fighting, Ground, Steel
+|-
+|| Machamp [[File:Machamp.png|25px]] || 60,250 || (x2) Flying, Psychic, Fairy
+|-
+| rowspan=5 | Elite Agatha [[File:Agatha.png|25px]] || rowspan=5 | 7,500 || rowspan=5 | 9,500
+|| Gengar [[File:Gengar.png|25px]] || 45,330 || (x2) Ground, Psychic, Ghost, Dark
+|-
+|| Golbat [[File:Golbat.png|25px]] || 48,300 || (x2) Electric, Ice, Psychic, Rock
+|-
+|| Haunter [[File:Haunter.png|25px]] || 52,000 || (x2) Ground, Psychic, Ghost, Dark
+|-
+|| Arbok [[File:Arbok.png|25px]] || 57,000 || (x2) Ground, Psychic
+|-
+|| Gengar [[File:Gengar.png|25px]] || 60,250 || (x2) Ground, Psychic, Ghost, Dark
+|-
+| rowspan=5 | Elite Lance [[File:Lance.png|25px]] || rowspan=5 | 7,500 || rowspan=5 | 10,042
+|| Gyarados [[File:Gyarados.png|25px]] || 48,300 || (x4) Electric &lt;br&gt; (x2) Rock
+|-
+|| Dragonair [[File:Dragonair.png|25px]] || 52,000 || rowspan=2 | (x2) Ice, Dragon, Fairy
+|-
+|| Dragonair [[File:Dragonair.png|25px]] || 57,000
+|-
+|| Aerodactyl [[File:Aerodactyl.png|25px]] || 60,250 || (x2) Water, Electric, Ice, Rock, Steel
+|-
+|| Dragonite [[File:Dragonite.png|25px]] || 66,000 || (x4) Ice &lt;br&gt; (x2) Rock, Dragon, Fairy
+|-
+| colspan=6 | Blue's team changes based on the chosen starter Pokémon (Bulbasaur, Charmander, or Squirtle/Pikachu).
+|-
+| rowspan=12 | Champion Blue [[File:Blue.png|15px]] || rowspan=12 | 10,000 || rowspan=3 | Starter: All
+|| Pidgeot [[File:Pidgeot.png|25px]] || 52,340 || (x2) Electric, Ice, Rock
+|-
+|| Alakazam [[File:Alakazam.png|25px]] || 56,320 || (x2) Bug, Ghost, Dark
+|-
+|| Rhydon [[File:Rhydon.png|25px]] || 58,340 || (x4) Water, Grass &lt;br&gt; (x2) Ice, Fighting, Ground, Steel
+|-
+| rowspan=3 | 13,085 &lt;br&gt; Starter: Bulbasaur || Exeggutor [[File:Exeggutor.png|25px]] || 57,520 || (x4) Bug &lt;br&gt; (x2) Fire, Ice, Poison, Flying, Ghost, Dark
+|-
+|| Gyarados [[File:Gyarados.png|25px]] || 63,040 || (x4) Electric &lt;br&gt; (x2) Rock
+|-
+|| Charizard [[File:Charizard.png|25px]] || 70,000 || (x4) Rock &lt;br&gt; (x2) Water, Electric
+|-
+| rowspan=3 | 13,085 &lt;br&gt; Starter: Charmander || Arcanine [[File:Arcanine.png|25px]] || 65,340 || (x2) Water, Ground, Rock
+|-
+|| Exeggutor [[File:Exeggutor.png|25px]] || 57,520 || (x4) Bug &lt;br&gt; (x2) Fire, Ice, Poison, Flying, Ghost, Dark
+|-
+|| Blastoise [[File:Blastoise.png|25px]] || 70,000 || (x2) Electric, Grass 
+|-
+| rowspan=3 | 13,085 &lt;br&gt; Starter: Squirtle/Pikachu || Gyarados [[File:Gyarados.png|25px]] || 63,040 || (x4) Electric &lt;br&gt; (x2) Rock
+|-
+|| Arcanine [[File:Arcanine.png|25px]] || 65,340 || (x2) Water, Ground, Rock
+|-
+|| Venusaur [[File:Venusaur.png|25px]] || 70,000 || (x2) Fire, Ice, Flying, Psychic 
+|}
+
+==[[Johto]]==
+===Gyms===
+{| class="wikitable collapsible" style="text-align: center;"
+|-
+! Location !! Badge !! Leader !! Money Earned !! Min. Attack !! Pokémon !! HP !! Weakness
+|-
+| rowspan=2 | [[Towns &amp; Cities#Johto|Violet City]]|| rowspan=2 | Zephyr [[File:Zephyr_Badge.png|15px]] || rowspan=2 | Falkner [[File:Falkner.png|25px]] || rowspan=2 | 250 || rowspan=2 | 7,467
+|| Pidgey [[File:Pidgey.png|25px]] || 108,000 || rowspan=2 | (x2) Electric, Ice, Rock
+|-
+|| Pidgeotto [[File:Pidgeotto.png|25px]] || 112,000
+|-
+| rowspan=3 | [[Towns &amp; Cities#Johto|Azalea Town]]|| rowspan=3 | Hive [[File:Hive_Badge.png|15px]] || rowspan=3 | Bugsy [[File:Bugsy.png|25px]] || rowspan=3 | 500 || rowspan=3 | 11,278
+|| Metapod [[File:Metapod.png|25px]] || 103,000 || (x2) Fire, Flying, Rock
+|-
+|| Kakuna [[File:Kakuna.png|25px]] || 101,500 || (x2) Fire, Flying, Psychic, Rock
+|-
+|| Scyther [[File:Scyther.png|25px]] || 119,000 || (x4) Rock &lt;br&gt; (x2) Fire, Electric, Ice, Flying
+|-
+| rowspan=2 | [[Towns &amp; Cities#Johto|Goldenrod City]]|| rowspan=2 | Plain [[File:Plain_Badge.png|15px]] || rowspan=2 | Whitney [[File:Whitney.png|25px]] || rowspan=2 | 1,000 || rowspan=2 | 10,000
+|| Clefairy [[File:Clefairy.png|25px]] || 130,000 || (x2) Poison, Steel
+|-
+|| Miltank [[File:Miltank.png|25px]] || 170,000 || (x2) Fighting
+|-
+| rowspan=4 | [[Towns &amp; Cities#Johto|Ecruteak City]]|| rowspan=4 | Fog [[File:Fog_Badge.png|15px]] || rowspan=4 | Morty [[File:Morty.png|25px]] || rowspan=4 | 1,500 || rowspan=4 | 18,286
+|| Gastly [[File:Gastly.png|25px]] || 127,000 || rowspan=4 | (x2) Ground, Psychic, Ghost, Dark
+|-
+|| Haunter [[File:Haunter.png|25px]] || 128,000
+|-
+|| Gengar [[File:Gengar.png|25px]] || 132,000
+|-
+|| Haunter [[File:Haunter.png|25px]] || 130,000
+|-
+| rowspan=2 | [[Towns &amp; Cities#Johto|Cianwood City]]|| rowspan=2 | Storm [[File:Storm_Badge.png|15px]] || rowspan=2 | Chuck [[File:Chuck.png|25px]] || rowspan=2 | 2,500 || rowspan=2 | 12,200
+|| Primeape [[File:Primeape.png|25px]] || 177,000 || (x2) Flying, Psychic, Fairy
+|-
+|| Poliwrath [[File:Poliwrath.png|25px]] || 183,000 || (x2) Electric, Grass, Flying, Psychic, Fairy
+|-
+| rowspan=3 | [[Towns &amp; Cities#Johto|Olivine City]]|| rowspan=3 | Mineral [[File:Mineral_Badge.png|15px]] || rowspan=3 | Jasmine [[File:Jasmine.png|25px]] || rowspan=3 | 3,500 || rowspan=3 | 18,200
+|| Magnemite [[File:Magnemite.png|25px]] || 177,000 || rowspan=2 | (x4) Ground &lt;br&gt; (x2) Fire, Fighting
+|-
+|| Magnemite [[File:Magnemite.png|25px]] || 178,000
+|-
+|| Steelix [[File:Steelix.png|25px]] || 182,000 || (x2) Fire, Water, Fighting, Ground
+|-
+| rowspan=3 | [[Towns &amp; Cities#Johto|Mahogany Town]]|| rowspan=3 | Glacier [[File:Glacier_Badge.png|15px]] || rowspan=3 | Pryce [[File:Pryce.png|25px]] || rowspan=3 | 4,000 || rowspan=3 | 19,600
+|| Seel [[File:Seel.png|25px]] || 190,000 || (x2) Electric, Grass 
+|-
+|| Dewgong [[File:Dewgong.png|25px]] || 192,500 || (x2) Electric, Grass, Fighting, Rock
+|-
+|| Piloswine [[File:Piloswine.png|25px]] || 196,000 || (x2) Fire, Water, Grass, Fighting, Steel
+|-
+| rowspan=4 | [[Towns &amp; Cities#Johto|Blackthorn City]]|| rowspan=4 | Rising [[File:Rising_Badge.png|15px]] || rowspan=4 | Clair [[File:Clair.png|25px]] || rowspan=4 | 5,000 || rowspan=4 | 29,286
+|| Dragonair [[File:Dragonair.png|25px]] || 205,000 || rowspan=3 | (x2) Ice, Dragon, Fairy
+|-
+|| Dragonair [[File:Dragonair.png|25px]] || 205,000
+|-
+|| Dragonair [[File:Dragonair.png|25px]] || 218,000
+|-
+|| Kingdra [[File:Kingdra.png|25px]] || 220,000 || (x2) Dragon, Fairy
+|}
+
+===[[Towns &amp; Cities#Johto|Johto Indigo Plateau]]===
+{| class="wikitable collapsible" style="text-align: center;"
+|-
+! Leader !! Money Earned !! Min. Attack !! Pokémon !! HP !! Weakness
+|-
+| rowspan=5 | Elite Will [[File:Will.png|20px]] || rowspan=5 | 7,500 || rowspan=5 | 43,375
+|| Xatu [[File:Xatu.png|25px]] || 245,330 || (x2) Electric, Ice, Rock, Ghost, Dark
+|-
+|| Exeggutor [[File:Exeggutor.png|25px]] || 248,300 || (x4) Bug &lt;br&gt; (x2) Fire, Ice, Poison, Flying, Ghost, Dark
+|-
+|| Slowbro [[File:Slowbro.png|25px]] || 252,000 || (x2) Electric, Grass, Bug, Ghost, Dark
+|-
+|| Jynx [[File:Jynx.png|25px]] || 257,000 || (x2) Fire, Bug, Rock, Ghost, Dark, Steel
+|-
+|| Xatu [[File:Xatu.png|25px]] || 260,250 || (x2) Electric, Ice, Rock, Ghost, Dark
+|-
+| rowspan=5 | Elite Koga [[File:Koga2.png|20px]] || rowspan=5 | 7,500 || rowspan=5 | 43,375
+|| Ariados [[File:Ariados.png|25px]] || 245,330 || rowspan=2 | (x2) Fire, Flying, Psychic, Rock  
+|-
+|| Venomoth [[File:Venomoth.png|25px]] || 248,300
+|-
+|| Forretress [[File:Forretress.png|25px]] || 252,000 || (x4) Fire
+|-
+|| Muk [[File:Muk.png|25px]] || 257,000 || (x2) Ground, Psychic
+|-
+|| Crobat [[File:Crobat.png|25px]] || 260,250 || (x2) Electric, Ice, Psychic, Rock
+|-
+| rowspan=5 | Elite Bruno 2 [[File:Bruno2.png|20px]] || rowspan=5 | 7,500 || rowspan=5 | 43,375
+|| Hitmontop [[File:Hitmontop.png|25px]] || 245,330 || rowspan=3 | (x2) Flying, Psychic, Fairy
+|-
+|| Hitmonlee [[File:Hitmonlee.png|25px]] || 248,300
+|-
+|| Hitmonchan [[File:Hitmonchan.png|25px]] || 252,000
+|-
+|| Onix [[File:Onix.png|25px]] || 257,000 || (x4) Water, Grass &lt;br&gt; (x2) Ice, Fighting, Ground, Steel
+|-
+|| Machamp [[File:Machamp.png|25px]] || 260,250 || (x2) Flying, Psychic, Fairy
+|-
+| rowspan=5 | Elite Karen [[File:Karen.png|20px]] || rowspan=5 | 7,500 || rowspan=5 | 44,334
+|| Umbreon [[File:Umbreon.png|25px]] || 248,300 || (x2) Fighting, Bug, Fairy
+|-
+|| Vileplume [[File:Vileplume.png|25px]] || 252,000 || (x2) Fire, Ice, Flying, Psychic
+|-
+|| Murkrow [[File:Murkrow.png|25px]] || 257,000 || (x2) Electric, Ice, Rock, Fairy
+|-
+|| Gengar [[File:Gengar.png|25px]] || 260,250 || (x2) Ground, Psychic, Ghost, Dark
+|-
+|| Houndoom [[File:Houndoom.png|25px]] || 266,000 || (x2) Water, Fighting, Ground, Rock
+|-
+| rowspan=6 | Champion Lance [[File:Lance2.png|20px]] || rowspan=6 | 7,500 || rowspan=6 | 54,000
+|| Gyarados [[File:Gyarados.png|25px]] || 258,300 || (x4) Electric&lt;br/&gt;(x2) Rock
+|-
+|| Dragonite [[File:Dragonite.png|25px]] || 262,000 || (x4) Ice &lt;br&gt; (x2) Rock, Dragon, Fairy
+|-
+|| Charizard [[File:Charizard.png|25px]] || 264,000 || (x4) Rock &lt;br&gt; (x2) Water, Electric
+|-
+|| Aerodactyl [[File:Aerodactyl.png|25px]] || 260,250 || (x2) Water, Electric, Ice, Rock, Steel
+|-
+|| Dragonite [[File:Dragonite.png|25px]] || 270,000 || rowspan=2 | (x4) Ice &lt;br&gt; (x2) Rock, Dragon, Fairy
+|-
+|| Dragonite [[File:Dragonite.png|25px]] || 270,000
+|}
+
+==[[Hoenn]]==
+===Gyms===
+{| class="wikitable collapsible" style="text-align: center;"
+|-
+! Location !! Badge !! Leader !! Money Earned !! Min. Attack !! Pokémon !! HP !! Weakness
+|-
+| rowspan=3 | [[Towns &amp; Cities#Hoenn|Rustboro City]]|| rowspan=3 | Stone [[File:Stone_Badge.png|15px]] || rowspan=3 | Roxanne [[File:Roxanne.png|25px]] || rowspan=3 | 1,000 || rowspan=3 | 41,020
+|| Geodude [[File:Geodude.png|25px]] || 382,900 || rowspan=2 | (x4) Water, Grass &lt;br&gt; (x2) Ice, Fighting, Ground, Steel
+|-
+|| Geodude [[File:Geodude.png|25px]] || 382,900
+|-
+|| Nosepass [[File:Nosepass.png|25px]] || 410,200 || (x2) Water, Grass, Fighting, Ground, Steel
+|-
+| rowspan=3 | [[Towns &amp; Cities#Hoenn|Dewford Town]]|| rowspan=3 | Knuckle [[File:Knuckle_Badge.png|15px]] || rowspan=3 | Brawly [[File:Brawly.png|25px]] || rowspan=3 | 2,000 || rowspan=3 | 44,400
+|| Machop [[File:Machop.png|25px]] || 424,000 || (x2) Flying, Psychic, Fairy
+|-
+|| Meditite [[File:Meditite.png|25px]] || 424,000 || (x2) Flying, Ghost, Fairy
+|-
+|| Makuhita [[File:Makuhita.png|25px]] || 444,000 || (x2) Flying, Psychic, Fairy
+|-
+| rowspan=4 | [[Towns &amp; Cities#Hoenn|Mauville City]]|| rowspan=4 | Dynamo [[File:Dynamo_Badge.png|15px]] || rowspan=4 | Wattson [[File:Wattson.png|25px]] || rowspan=4 | 3,000 || rowspan=4 | 64,000
+|| Voltorb [[File:Voltorb.png|25px]] || 452,000 || rowspan=2 | (x2) Ground
+|-
+|| Electrike [[File:Electrike.png|25px]] || 448,000
+|-
+|| Magneton [[File:Magneton.png|25px]] || 483,000 || (x4) Ground &lt;br&gt; (x2) Fire, Fighting
+|-
+|| Manectric [[File:Manectric.png|25px]] || 448,000 || (x2) Ground
+|-
+| rowspan=4 | [[Towns &amp; Cities#Hoenn|Lavaridge Town]]|| rowspan=4 | Heat [[File:Heat_Badge.png|15px]] || rowspan=4 | Flannery [[File:Flannery.png|25px]] || rowspan=4 | 4,000 || rowspan=4 | 67,429
+|| Numel [[File:Numel.png|25px]] || 472,000 || (x4) Water &lt;br&gt; (x2) Ground
+|-
+|| Slugma [[File:Slugma.png|25px]] || 472,000 || (x2) Water, Ground, Rock
+|-
+|| Camerupt [[File:Camerupt.png|25px]] || 492,000 || (x4) Water &lt;br&gt; (x2) Ground
+|-
+|| Torkoal [[File:Torkoal.png|25px]] || 524,000 || (x2) Water, Ground, Rock
+|-
+| rowspan=4 | [[Towns &amp; Cities#Hoenn|Petalburg City]]|| rowspan=4 | Balance [[File:Balance_Badge.png|15px]] || rowspan=4 | Norman [[File:Norman.png|25px]] || rowspan=4 | 5,000 || rowspan=4 | 75,715
+|| Spinda [[File:Spinda.png|25px]] || 490,000 || rowspan=4 | (x2) Fighting
+|-
+|| Vigoroth [[File:Vigoroth.png|25px]] || 530,000
+|-
+|| Linoone [[File:Linoone.png|25px]] || 560,000
+|-
+|| Slaking [[File:Slaking.png|25px]] || 596,000
+|-
+| rowspan=5 | [[Towns &amp; Cities#Hoenn|Fortree City]]|| rowspan=5 | Feather [[File:Feather_Badge.png|15px]] || rowspan=5 | Winona [[File:Winona.png|25px]] || rowspan=5 | 6,000 || rowspan=5 | 111,500
+|| Swablu [[File:Swablu.png|25px]] || 605,000 || (x2) Electric, Ice, Rock
+|-
+|| Tropius [[File:Tropius.png|25px]] || 650,000 || (x4) Ice &lt;br&gt; (x2) Fire, Poison, Flying, Rock
+|-
+|| Pelipper [[File:Pelipper.png|25px]] || 630,000 || (x4) Electric &lt;br&gt; (x2) Rock 
+|-
+|| Skarmory [[File:Skarmory.png|25px]] || 667,000 || (x2) Fire, Electric
+|-
+|| Altaria [[File:Altaria.png|25px]] || 669,000 || (x4) Ice &lt;br&gt; (x2) Rock, Dragon, Fairy
+|-
+| rowspan=4 | [[Towns &amp; Cities#Hoenn|Mossdeep City]]|| rowspan=4 | Mind [[File:Mind_Badge.png|15px]] || rowspan=4 | Tate &amp; Liza [[File:Tate_&amp;_Liza.png|25px]] || rowspan=4 | 8,000 || rowspan=4 | 100,286
+|| Claydol [[File:Claydol.png|25px]] || 702,000 || (x2) Water, Grass, Ice, Bug, Ghost, Dark
+|-
+|| Xatu [[File:Xatu.png|25px]] || 703,000 || (x2) Electric, Ice, Rock, Ghost, Dark
+|-
+|| Lunatone [[File:Lunatone.png|25px]] || 702,000 || rowspan=2 | (x2) Water, Grass, Bug, Ghost, Dark, Steel
+|-
+|| Solrock [[File:Solrock.png|25px]] || 703,000
+|-
+| rowspan=5 | [[Towns &amp; Cities#Hoenn|Sootopolis City]]|| rowspan=5 | Rain [[File:Rain_Badge.png|15px]] || rowspan=5 | Juan [[File:Juan.png|25px]] || rowspan=5 | 10,000 || rowspan=5 | 144,167
+|| Luvdisc [[File:Luvdisc.png|25px]] || 798,000 || (x2) Electric, Grass
+|-
+|| Whiscash [[File:Whiscash.png|25px]] || 813,000 || (x4) Grass
+|-
+|| Sealeo [[File:Sealeo.png|25px]] || 823,400 || (x2) Electric, Grass, Fighting, Rock
+|-
+|| Crawdaunt [[File:Crawdaunt.png|25px]] || 842,000 || (x2) Electric, Grass, Fighting, Bug, Fairy
+|-
+|| Kingdra [[File:Kingdra.png|25px]] || 865,000 || (x2) Dragon, Fairy
+|}
+
+===[[Towns &amp; Cities#Hoenn|Pokémon League Hoenn]]===
+{| class="wikitable collapsible" style="text-align: center;"
+|-
+! Leader !! Money Earned !! Min. Attack !! Pokémon !! HP !! Weakness
+|-
+| rowspan=5 | Elite Sidney [[File:Sidney.png|25px]] || rowspan=5 | 15,000 || rowspan=5 | 170,000
+|| Mightyena [[File:Mightyena.png|25px]] || 972,000 || (x2) Fighting, Bug, Fairy
+|-
+|| Shiftry [[File:Shiftry.png|25px]] || 980,000 || rowspan=2 | (x4) Bug &lt;br&gt; (x2) Fire, Ice, Fighting, Poison, Flying, Fairy
+|-
+|| Cacturne [[File:Cacturne.png|25px]] || 1,002,000
+|-
+|| Crawdaunt [[File:Crawdaunt.png|25px]] || 1,015,000 || (x2) Electric, Grass, Fighting, Bug, Fairy
+|-
+|| Absol [[File:Absol.png|25px]] || 1,020,000 || (x2) Fighting, Bug, Fairy
+|-
+| rowspan=5 | Elite Phoebe [[File:Phoebe.png|25px]] || rowspan=5 | 15,000  || rowspan=5 | 177,167
+|| Dusclops [[File:Dusclops.png|25px]] || 1,036,700 || rowspan=2 | (x2) Ghost, Dark
+|-
+|| Banette [[File:Banette.png|25px]] || 1,038,000
+|-
+|| Sableye [[File:Sableye.png|25px]] || 1,052,000 || (x2) Fairy
+|-
+|| Banette [[File:Banette.png|25px]] || 1,038,000 || rowspan=2 | (x2) Ghost, Dark
+|-
+|| Dusclops [[File:Dusclops.png|25px]] || 1,063,000
+|-
+| rowspan=5 | Elite Glacia [[File:Glacia.png|25px]] || rowspan=5 | 15,000 || rowspan=5 | 183,334
+|| Sealeo [[File:Sealeo.png|25px]] || 1,082,000 || (x2) Electric, Grass, Fighting, Rock
+|-
+|| Glalie [[File:Glalie.png|25px]] || 1,072,000 || (x2) Fire, Fighting, Rock, Steel
+|-
+|| Sealeo [[File:Sealeo.png|25px]] || 1,086,000 || (x2) Electric, Grass, Fighting, Rock
+|-
+|| Glalie [[File:Glalie.png|25px]] || 1,076,000 || (x2) Fire, Fighting, Rock, Steel
+|-
+|| Walrein [[File:Walrein.png|25px]] || 1,100,000 || (x2) Electric, Grass, Fighting, Rock
+|-
+| rowspan=5 | Elite Drake [[File:Drake.png|25px]] || rowspan=5 | 15,000 || rowspan=5 | 192,834
+|| Shelgon [[File:Shelgon.png|25px]] || 1,064,000 || (x2) Ice, Dragon, Fairy
+|-
+|| Altaria [[File:Altaria.png|25px]] || 1,072,000 || (x4) Ice &lt;br&gt; (x2) Rock, Dragon, Fairy
+|-
+|| Flygon [[File:Flygon.png|25px]] || 1,076,000 || rowspan=2 | (x4) Ice &lt;br&gt; (x2) Dragon, Fairy
+|-
+|| Flygon [[File:Flygon.png|25px]] || 1,076,000
+|-
+|| Salamence [[File:Salamence.png|25px]] || 1,157,000 || (x4) Ice &lt;br&gt; (x2) Rock, Dragon, Fairy
+|-
+| rowspan=6 | Champion Wallace [[File:Wallace.png|25px]] || rowspan=6 | 16,000 || rowspan=6 | 240,400
+|| Wailord [[File:Wailord.png|25px]] || 1,202,000 || (x2) Electric, Grass
+|-
+|| Tentacruel [[File:Tentacruel.png|25px]] || 1,164,000 || (x2) Electric, Ground, Psychic
+|-
+|| Ludicolo [[File:Ludicolo.png|25px]] || 1,184,000 || (x2) Poison, Flying, Bug
+|-
+|| Whiscash [[File:Whiscash.png|25px]] || 1,172,000 || (x4) Grass
+|-
+|| Gyarados [[File:Gyarados.png|25px]] || 1,163,000 || (x4) Electric &lt;br&gt; (x2) Rock
+|-
+|| Milotic [[File:Milotic.png|25px]] || 1,182,000 || (x2) Electric, Grass
+|}
+
+==[[Sinnoh]]==
+===Gyms===
+{| class="wikitable collapsible" style="text-align: center;"
+|-
+! Location !! Badge !! Leader !! Money Earned !! Min. Attack !! Pokémon !! HP !! Weakness
+|-
+| rowspan=3 | [[Towns &amp; Cities#Sinnoh|Oreburgh City]] || rowspan=3 | Coal [[File:Coal_Badge.png|15px]] || rowspan=3 | Roark [[File:Roark.png|25px]] || rowspan=3 | 250 || rowspan=3 | 134,200
+|| Geodude [[File:Geodude.png|25px]] || 1,338,000 || rowspan=2 | (x4) Water, Grass &lt;br&gt; (x2) Ice, Fighting, Ground, Steel
+|-
+|| Onix [[File:Onix.png|25px]] || 1,342,000
+|-
+|| Cranidos [[File:Cranidos.png|25px]] || 1,342,000 || (x2) Water, Grass, Fighting, Ground, Steel
+|-
+| rowspan=3 | [[Towns &amp; Cities#Sinnoh|Eterna City]]|| rowspan=3 | Forest [[File:Forest_Badge.png|15px]] || rowspan=3 | Gardenia [[File:Gardenia.png|25px]] || rowspan=3 | 400 || rowspan=3 | 143,900
+|| Turtwig [[File:Turtwig.png|25px]] || 1,433,000 || rowspan=2 | (x2) Fire, Ice, Poison, Flying, Bug 
+|-
+|| Cherrim (overcast) [[File:Cherrim_(overcast).png|25px]] || 1,437,500
+|-
+|| Roserade [[File:Roserade.png|25px]] || 1,439,000 || (x2) Fire, Ice, Flying, Psychic
+|-
+| rowspan=3 | [[Towns &amp; Cities#Sinnoh|Hearthome City]]|| rowspan=3 | Relic [[File:Relic_Badge.png|15px]] || rowspan=3 | Fantina [[File:Fantina.png|25px]] || rowspan=3 | 740 || rowspan=3 | 148,000
+|| Duskull [[File:Duskull.png|25px]] || 1,450,000 || (x2) Ghost, Dark
+|-
+|| Haunter [[File:Haunter.png|25px]] || 1,480,000 || (x2) Ground, Psychic, Ghost, Dark
+|-
+|| Mismagius [[File:Mismagius.png|25px]] || 1,480,000 || (x2) Ghost, Dark
+|-
+| rowspan=3 | [[Towns &amp; Cities#Sinnoh|Veilstone City]]|| rowspan=3 | Cobble [[File:Cobble_Badge.png|15px]] || rowspan=3 | Maylene [[File:Maylene.png|25px]] || rowspan=3 | 1,200 || rowspan=3 | 154,000
+|| Meditite [[File:Meditite.png|25px]] || 1,537,000 || (x2) Flying, Ghost, Fairy
+|-
+|| Machoke [[File:Machoke.png|25px]] || 1,538,000 || (x2) Flying, Psychic, Fairy
+|-
+|| Lucario [[File:Lucario.png|25px]] || 1,540,000 || (x2) Fire, Fighting, Ground
+|-
+| rowspan=3 | [[Towns &amp; Cities#Sinnoh|Pastoria City]]|| rowspan=3 | Fen [[File:Fen_Badge.png|15px]] || rowspan=3 | Crasher Wake [[File:Crasher_Wake.png|25px]] || rowspan=3 | 2,500 || rowspan=3 | 169,300
+|| Gyarados [[File:Gyarados.png|25px]] || 1,687,000 || (x4) Electric &lt;br&gt; (x2) Rock
+|-
+|| Quagsire [[File:Quagsire.png|25px]] || 1,693,000 || (x4) Grass
+|-
+|| Floatzel [[File:Floatzel.png|25px]] || 1,693,000 || (x2) Electric, Grass
+|-
+| rowspan=3 | [[Towns &amp; Cities#Sinnoh|Canalave City]]|| rowspan=3 | Mine [[File:Mine_Badge.png|15px]] || rowspan=3 | Byron [[File:Byron.png|25px]] || rowspan=3 | 4,800 || rowspan=3 | 177,200
+|| Magneton [[File:Magneton.png|25px]] || 1,767,000 || (x4) Ground &lt;br&gt; (x2) Fire, Fighting
+|-
+|| Steelix [[File:Steelix.png|25px]] || 1,772,000 || (x2) Fire, Water, Fighting, Ground
+|-
+|| Bastiodon [[File:Bastiodon.png|25px]] || 1,768,000 || (x4) Fighting, Ground &lt;br&gt; (x2) Water
+|-
+| rowspan=4 | [[Towns &amp; Cities#Sinnoh|Snowpoint City]]|| rowspan=4 | Icicle [[File:Icicle_Badge.png|15px]] || rowspan=4 | Candice [[File:Candice.png|25px]] || rowspan=4 | 8,000 || rowspan=4 | 267,143
+|| Sneasel [[File:Sneasel.png|25px]] || 1,872,500 || (x4) Fighting &lt;br&gt; (x2) Fire, Bug, Rock, Steel, Fairy
+|-
+|| Piloswine [[File:Piloswine.png|25px]] || 1,876,000 || (x2) Fire, Water, Grass, Fighting, Steel
+|-
+|| Abomasnow [[File:Abomasnow.png|25px]] || 1,870,000 || (x4) Fire &lt;br&gt; (x2) Fighting, Poison, Flying, Bug, Rock, Steel
+|-
+|| Froslass [[File:Froslass.png|25px]] || 1,870,000 || (x2) Fire, Rock, Ghost, Dark, Steel
+|-
+| rowspan=4 | [[Towns &amp; Cities#Sinnoh|Sunyshore City]]|| rowspan=4 | Beacon [[File:Beacon_Badge.png|15px]] || rowspan=4 | Volkner [[File:Volkner.png|25px]] || rowspan=4 | 12,000 || rowspan=4 | 280,715
+|| Jolteon [[File:Jolteon.png|25px]] || 1,965,000 || rowspan=4 | (x2) Ground
+|-
+|| Raichu [[File:Raichu.png|25px]] || 1,965,000
+|-
+|| Luxray [[File:Luxray.png|25px]] || 1,978,000
+|-
+|| Electivire [[File:Electivire.png|25px]] || 1,980,000
+|}
+
+===[[Towns &amp; Cities#Sinnoh|Pokémon League Sinnoh]]===
+{| class="wikitable collapsible" style="text-align: center;"
+|-
+! Leader !! Money Earned !! Min. Attack !! Pokémon !! HP !! Weakness
+|-
+| rowspan=5 | Elite Aaron [[File:Aaron.png|25px]] || rowspan=5 | 18,000 || rowspan=5 | 426,709
+|| Yanmega [[File:Yanmega.png|25px]] || 2,545,330 || (x4) Rock &lt;br&gt; (x2) Fire, Electric, Ice, Flying
+|-
+|| Scizor [[File:Scizor.png|25px]] || 2,548,300 || (x4) Fire
+|-
+|| Vespiquen [[File:Vespiquen.png|25px]] || 2,552,000 || (x4) Rock &lt;br&gt; (x2) Fire, Electric, Ice, Flying
+|-
+|| Heracross [[File:Heracross.png|25px]] || 2,557,000 || (x4) Flying &lt;br&gt; (x2) Fire, Psychic, Fairy
+|-
+|| Drapion [[File:Drapion.png|25px]] || 2,560,250 || (x2) Ground
+|-
+| rowspan=5 | Elite Bertha [[File:Bertha.png|25px]] || rowspan=5 | 18,000 || rowspan=5 | 443,375
+|| Whiscash [[File:Whiscash.png|25px]] || 2,645,330 || (x4) Grass
+|-
+|| Gliscor [[File:Gliscor.png|25px]] || 2,648,300 || (x4) Ice &lt;br&gt; (x2) Water
+|-
+|| Hippowdon [[File:Hippowdon.png|25px]] || 2,652,000 || (x2) Water, Grass, Ice
+|-
+|| Golem [[File:Golem.png|25px]] || 2,657,000 || rowspan=2 | (x4) Water, Grass &lt;br&gt; (x2) Ice, Fighting, Ground, Steel
+|-
+|| Rhyperior [[File:Rhyperior.png|25px]] || 2,660,250
+|-
+| rowspan=5 | Elite Flint [[File:Flint.png|25px]] || rowspan=5 | 18,000 || rowspan=5 | 476,709
+|| Houndoom [[File:Houndoom.png|25px]] || 2,845,330 || (x2) Water, Fighting, Ground, Rock
+|-
+|| Flareon [[File:Flareon.png|25px]] || 2,848,300 || rowspan=2 | (x2) Water, Ground, Rock
+|-
+|| Rapidash [[File:Rapidash.png|25px]] || 2,852,000
+|-
+|| Infernape [[File:Infernape.png|25px]] || 2,857,000 || (x2) Water, Ground, Flying, Psychic
+|-
+|| Magmortar [[File:Magmortar.png|25px]] || 2,860,250 || (x2) Water, Ground, Rock
+|-
+| rowspan=5 | Elite Lucian [[File:Lucian.png|25px]] || rowspan=5 | 18,000 || rowspan=5 | 511,000
+|| Mr. Mime [[File:Mr._Mime.png|25px]] || 3,048,300 || (x2) Poison, Ghost, Steel 
+|-
+|| Espeon [[File:Espeon.png|25px]] || 3,052,000 || (x2) Bug, Ghost, Dark
+|-
+|| Bronzong [[File:Bronzong.png|25px]] || 3,057,000 || (x2) Fire, Ground, Ghost, Dark
+|-
+|| Alakazam [[File:Alakazam.png|25px]] || 3,060,250 || (x2) Bug, Ghost, Dark
+|-
+|| Gallade [[File:Gallade.png|25px]] || 3,066,000 || (x2) Flying, Ghost, Fairy
+|-
+| rowspan=6 | Champion Cynthia [[File:Cynthia.png|25px]] || rowspan=6 | 32,000 || rowspan=6 | 714,000
+|| Spiritomb [[File:Spiritomb.png|25px]] || 3,458,300 || (x2) Fairy
+|-
+|| Roserade [[File:Roserade.png|25px]] || 3,462,000 || (x2) Fire, Ice, Flying, Psychic
+|-
+|| Togekiss [[File:Togekiss.png|25px]] || 3,464,000 || (x2) Electric, Ice, Poison, Rock, Steel
+|-
+|| Lucario [[File:Lucario.png|25px]] || 3,460,250 || (x2) Fire, Fighting, Ground
+|-
+|| Milotic [[File:Milotic.png|25px]] || 3,470,000 || (x2) Electric, Grass
+|-
+|| Garchomp [[File:Garchomp.png|25px]] || 3,570,000 || (x4) Ice &lt;br&gt; (x2) Dragon, Fairy
+|}
+
+==[[Unova]]==
+===Gyms===
+{| class="wikitable collapsible" style="text-align: center;"
+|-
+! Location !! Badge !! Leader !! Money Earned !! Min. Attack !! Pokémon !! HP !! Weakness
+|-
+| rowspan=3 | [[Towns &amp; Cities#Unova|Aspertia City]] || rowspan=3 | Basic [[File:Basic_Badge.png|15px]] || rowspan=3 | Cheren [[File:Cheren.png|25px]] || rowspan=3 | 500 || rowspan=3 | 346,400
+|| Patrat [[File:Patrat.png|25px]] || 3,458,300 || (x2) Fighting
+|-
+|| Pidove [[File:Pidove.png|25px]] || 3,462,000 || (x2) Electric, Ice, Rock
+|-
+|| Lillipup [[File:Lillipup.png|25px]] || 3,464,000 || (x2) Fighting
+|-
+| rowspan=3 | [[Towns &amp; Cities#Unova|Virbank City]] || rowspan=3 | Toxic [[File:Toxic_Badge.png|15px]] || rowspan=3 | Roxie [[File:Roxie.png|25px]] || rowspan=3 | 800  || rowspan=3 | 366,400
+|| Koffing [[File:Koffing.png|25px]] || 3,658,300 || rowspan=2 | (x2) Ground, Psychic
+|-
+|| Grimer [[File:Grimer.png|25px]] || 3,662,000
+|-
+|| Whirlipede [[File:Whirlipede.png|25px]] || 3,664,000 || (x2) Fire, Flying, Psychic, Rock  
+|-
+| rowspan=4 | [[Towns &amp; Cities#Unova|Castelia City]] || rowspan=4 | Insect [[File:Insect_Badge.png|15px]] || rowspan=4 | Burgh [[File:Burgh.png|25px]] || rowspan=4 | 1,500 || rowspan=4 | 551,715
+|| Dwebble [[File:Dwebble.png|25px]] || 3,858,300 || (x2) Water, Rock, Steel
+|-
+|| Shelmet [[File:Shelmet.png|25px]] || 3,862,000 || rowspan=2 | (x2) Fire, Flying, Rock
+|-
+|| Karrablast [[File:Karrablast.png|25px]] || 3,964,000
+|-
+|| Leavanny [[File:Leavanny.png|25px]] || 4,064,000 || (x4) Fire, Flying &lt;br&gt; (x2) Ice, Poison, Bug, Rock
+|-
+| rowspan=4 | [[Towns &amp; Cities#Unova|Nimbasa City]] || rowspan=4 | Bolt [[File:Bolt_Badge.png|15px]] || rowspan=4 | Elesa [[File:Elesa.png|25px]] || rowspan=4 | 2,600 || rowspan=4 | 608,858
+|| Emolga [[File:Emolga.png|25px]] || 4,258,300 || (x2) Ice, Rock
+|-
+|| Flaaffy [[File:Flaaffy.png|25px]] || 4,262,000 || (x2) Ground
+|-
+|| Joltik [[File:Joltik.png|25px]] || 4,464,000 || (x2) Fire, Rock
+|-
+|| Zebstrika [[File:Zebstrika.png|25px]] || 4,464,000 || (x2) Ground
+|-
+| rowspan=4 | [[Towns &amp; Cities#Unova|Driftveil City]] || rowspan=4 | Quake [[File:Quake_Badge.png|15px]] || rowspan=4 | Clay [[File:Clay.png|25px]] || rowspan=4 | 4,800 || rowspan=4 | 666,000
+|| Krokorok [[File:Krokorok.png|25px]] || 4,658,300 || (x2) Water, Grass, Ice, Fighting, Bug, Fairy
+|-
+|| Sandslash [[File:Sandslash.png|25px]] || 4,662,000 || (x2) Water, Grass, Ice
+|-
+|| Onix [[File:Onix.png|25px]] || 4,864,000 || (x4) Water, Grass &lt;br&gt; (x2) Ice, Fighting, Ground, Steel
+|-
+|| Excadrill [[File:Excadrill.png|25px]] || 5,064,000 || (x2) Fire, Water, Fighting, Ground
+|-
+| rowspan=4 | [[Towns &amp; Cities#Unova|Mistralton City]] || rowspan=4 | Jet [[File:Jet_Badge.png|15px]] || rowspan=4 | Skyla [[File:Skyla.png|25px]] || rowspan=4 | 7,600 || rowspan=4 | 809,143
+|| Swoobat [[File:Swoobat.png|25px]] || 5,458,300 || (x2) Electric, Ice, Rock, Ghost, Dark
+|-
+|| Skarmory [[File:Skarmory.png|25px]] || 6,062,000 || (x2) Fire, Electric
+|-
+|| Sigilyph [[File:Sigilyph.png|25px]] || 5,664,000 || (x2) Electric, Ice, Rock, Ghost, Dark
+|-
+|| Swanna [[File:Swanna.png|25px]] || 5,864,000 || (x4) Electric &lt;br&gt; (x2) Rock
+|-
+| rowspan=4 | [[Towns &amp; Cities#Unova|Opelucid City]]|| rowspan=4 | Legend [[File:Legend_Badge.png|15px]] || rowspan=4 | Drayden [[File:Drayden.png|25px]] || rowspan=4 | 14,000 || rowspan=4 | 936,900
+|| Druddigon [[File:Druddigon.png|25px]] || 6,558,300 || (x2) Ice, Dragon, Fairy
+|-
+|| Flygon [[File:Flygon.png|25px]] || 6,662,000 || (x4) Ice &lt;br&gt; (x2) Dragon, Fairy
+|-
+|| Altaria [[File:Altaria.png|25px]] || 6,464,000 || (x4) Ice &lt;br&gt; (x2) Rock, Dragon, Fairy
+|-
+|| Haxorus [[File:Haxorus.png|25px]] || 6,964,000 || (x2) Ice, Dragon, Fairy
+|-
+| rowspan=4 | [[Towns &amp; Cities#Unova|Humilau City]]|| rowspan=4 | Wave [[File:Wave_Badge.png|15px]] || rowspan=4 | Marlon [[File:Marlon.png|25px]] || rowspan=4 | 27,000 || rowspan=4 | 1,037,429
+|| Wailord [[File:Wailord.png|25px]] || 7,458,300 || (x2) Electric, Grass
+|-
+|| Mantine [[File:Mantine.png|25px]] || 7,262,000 || (x4) Electric &lt;br&gt; (x2) Rock
+|-
+|| Carracosta [[File:Carracosta.png|25px]] || 7,064,000 || (x4) Grass &lt;br&gt; (x2) Electric, Fighting, Ground
+|-
+|| Jellicent [[File:Jellicent.png|25px]] || 7,464,000 || (x2) Electric, Grass, Ghost, Dark
+|-
+|}
+
+===[[Towns &amp; Cities#Unova|Pokémon League Unova]]===
+{| class="wikitable collapsible" style="text-align: center;"
+|-
+! Leader !! Money Earned !! Min. Attack !! Pokémon !! HP !! Weakness
+|-
+| rowspan=6 | Elite Shauntal [[File:Shauntal.png|25px]] || rowspan=6 | 32,000 || rowspan=6 | 1,792,050
+|| Cofagrigus [[File:Cofagrigus.png|25px]] || 8,945,330 || (x2) Ghost, Dark
+|-
+|| Gengar [[File:Gengar.png|25px]] || 8,948,300 || (x2) Ground, Psychic, Ghost, Dark
+|-
+|| Froslass [[File:Froslass.png|25px]] || 8,952,000 || (x2) Fire, Rock, Ghost, Dark, Steel
+|-
+|| Drifblim [[File:Drifblim.png|25px]] || 8,957,000 || (x2) Electric, Ice, Rock, Ghost, Dark
+|-
+|| Golurk [[File:Golurk.png|25px]] || 8,960,250 || (x2) Water, Grass, Ice, Ghost, Dark
+|-
+|| Chandelure [[File:Chandelure.png|25px]] || 8,960,250 || (x2) Water, Ground, Rock, Ghost, Dark
+|-
+| rowspan=6 | Elite Marshal [[File:Marshal.png|25px]] || rowspan=6 | 32,000 || rowspan=6 | 1,992,050
+|| Throh [[File:Throh.png|25px]] || 9,945,330 || rowspan=2 | (x2) Flying, Psychic, Fairy
+|-
+|| Sawk [[File:Sawk.png|25px]] || 9,948,300
+|-
+|| Lucario [[File:Lucario.png|25px]] || 9,952,000 || (x2) Fire, Fighting, Ground
+|-
+|| Mienshao [[File:Mienshao.png|25px]] || 9,957,000 || rowspan=3 | (x2) Flying, Psychic, Fairy
+|-
+|| Machamp [[File:Machamp.png|25px]] || 9,957,000
+|-
+|| Conkeldurr [[File:Conkeldurr.png|25px]] || 9,960,250
+|-
+| rowspan=6 | Elite Grimsley [[File:Grimsley.png|25px]] || rowspan=6 | 32,000 || rowspan=6 | 2,192,050
+|| Honchkrow [[File:Honchkrow.png|25px]] || 10,945,330 || (x2) Electric, Ice, Rock, Fairy
+|-
+|| Scrafty [[File:Scrafty.png|25px]] || 10,948,300 || (x4) Fairy &lt;br&gt; (x2) Fighting, Flying
+|-
+|| Krookodile [[File:Krookodile.png|25px]] || 10,952,000 || (x2) Water, Grass, Ice, Fighting, Bug, Fairy
+|-
+|| Houndoom [[File:Houndoom.png|25px]] || 10,957,000 || (x2) Water, Fighting, Ground, Rock
+|-
+|| Tyranitar [[File:Tyranitar.png|25px]] || 10,957,000 || (x4) Fighting &lt;br&gt; (x2) Water, Grass, Ground, Bug, Steel, Fairy
+|-
+|| Bisharp [[File:Bisharp.png|25px]] || 10,960,250 || (x4) Fighting &lt;br&gt; (x2) Ground, Fire
+|-
+| rowspan=6 | Elite Caitlin [[File:Caitlin.png|25px]] || rowspan=6 | 32,000 || rowspan=6 | 2,392,050
+|| Musharna [[File:Musharna.png|25px]] || 11,945,330 || rowspan=3 | (x2) Bug, Ghost, Dark
+|-
+|| Alakazam [[File:Alakazam.png|25px]] || 11,948,300
+|-
+|| Gothitelle [[File:Gothitelle.png|25px]] || 11,957,000
+|-
+|| Gallade [[File:Gallade.png|25px]] || 11,957,000 || (x2) Flying, Ghost, Fairy
+|-
+|| Reuniclus [[File:Reuniclus.png|25px]] || 11,952,000 || (x2) Bug, Ghost, Dark
+|-
+|| Metagross [[File:Metagross.png|25px]] || 11,960,250 || (x2) Fire, Ground, Ghost, Dark
+|-
+| rowspan=6 | Champion Iris [[File:Iris.png|25px]] || rowspan=6 | 64,000 || rowspan=6 | 2,914,000
+|| Hydreigon [[File:Hydreigon.png|25px]] || 12,458,300 || (x4) Fairy &lt;br&gt; (x2) Ice, Fighting, Bug, Dragon
+|-
+|| Salamence [[File:Salamence.png|25px]] || 12,462,000 || (x4) Ice &lt;br&gt; (x2) Rock, Dragon, Fairy
+|-
+|| Aggron [[File:Aggron.png|25px]] || 12,464,000 || (x4) Fighting, Ground &lt;br&gt; (x2) Water
+|-
+|| Archeops [[File:Archeops.png|25px]] || 12,460,250 || (x2) Water, Electric, Ice, Rock, Steel
+|-
+|| Lapras [[File:Lapras.png|25px]] || 12,470,000 || (x2) Electric, Grass, Fighting, Rock
+|-
+|| Haxorus [[File:Haxorus.png|25px]] || 14,570,000 || (x2) Ice, Dragon, Fairy
+|}
+
+==[[Kalos]]==
+===Gyms===
+{| class="wikitable collapsible" style="text-align: center;"
+|-
+! Location !! Badge !! Leader !! Money Earned !! Min. Attack !! Pokémon !! HP !! Weakness
+|-
+| rowspan=2 | [[Towns &amp; Cities#Kalos|Santalune City]] || rowspan=2 | Bug [[File:Bug_Badge.png|15px]] || rowspan=2 | Viola [[File:Viola.png|25px]] || rowspan=2 | 800 || rowspan=2 | 1,056,724
+|| Surskit [[File:Surskit.png|25px]] || 13,737,400 || (x2) Electric, Flying, Rock
+|-
+|| Vivillon (Meadow) [[File:Vivillon_(Meadow).png|25px]] || 17,395,730 || (x4) Rock &lt;br&gt; (x2) Fire, Electric, Ice, Flying
+|-
+| rowspan=2 | [[Towns &amp; Cities#Kalos|Cyllage City]] || rowspan=2 | Cliff [[File:Cliff_Badge.png|15px]] || rowspan=2 | Grant [[File:Grant.png|25px]] || rowspan=2 | 1,700 || rowspan=2 | 1,239,838
+|| Amaura [[File:Amaura.png|25px]] || 16,937,530 || (x4) Fighting, Steel &lt;br&gt; (x2) Water, Grass, Ground, Rock
+|-
+|| Tyrunt [[File:Tyrunt.png|25px]] || 19,837,400 || (x2) Ice, Fighting, Ground, Dragon, Steel
+|-
+| rowspan=3 | [[Towns &amp; Cities#Kalos|Shalour City]]|| rowspan=3 | Rumble [[File:Rumble_Badge.png|15px]] || rowspan=3 | Korrina [[File:Korrina.png|25px]] || rowspan=3 | 3,800 || rowspan=3 | 2,236,200
+|| Mienfoo [[File:Mienfoo.png|25px]] || 21,558,300 || rowspan=2 | (x2) Flying, Psychic, Fairy
+|-
+|| Machoke [[File:Machoke.png|25px]] || 22,062,000
+|-
+|| Hawlucha [[File:Hawlucha.png|25px]] || 22,362,000 || (x2) Electric, Ice, Flying, Psychic, Fairy
+|-
+| rowspan=3 | [[Towns &amp; Cities#Kalos|Coumarine City]]|| rowspan=3 | Plant [[File:Plant_Badge.png|15px]] || rowspan=3 | Ramos [[File:Ramos.png|25px]] || rowspan=3 | 5,500 || rowspan=3 | 2,834,256
+|| Jumpluff [[File:Jumpluff.png|25px]] || 25,508,300 || (x4) Ice &lt;br&gt; (x2) Fire, Poison, Flying, Rock
+|-
+|| Weepinbell [[File:Weepinbell.png|25px]] || 27,562,000 || (x2) Fire, Ice, Flying, Psychic 
+|-
+|| Gogoat [[File:Gogoat.png|25px]] || 29,502,000 || (x2) Fire, Ice, Poison, Flying, Bug 
+|-
+| rowspan=3 | [[Towns &amp; Cities#Kalos|Lumiose City]]|| rowspan=3 | Voltage [[File:Voltage_Badge.png|15px]] || rowspan=3 | Clemont [[File:Clemont.png|25px]] || rowspan=3 | 9,000 || rowspan=3 | 3,206,200
+|| Emolga [[File:Emolga.png|25px]] || 30,058,300 || (x2) Ice, Rock
+|-
+|| Magneton [[File:Magneton.png|25px]] || 31,062,000 || (x4) Ground &lt;br&gt; (x2) Fire, Fighting
+|-
+|| Heliolisk [[File:Heliolisk.png|25px]] || 32,062,000 || (x2) Ground, Fighting
+|-
+| rowspan=3 | [[Towns &amp; Cities#Kalos|Laverre City]]|| rowspan=3 | Fairy [[File:Fairy_Badge.png|15px]] || rowspan=3 | Valerie [[File:Valerie.png|25px]] || rowspan=3 | 16,000 || rowspan=3 | 3,673,145
+|| Mawile [[File:Mawile.png|25px]] || 33,058,300 || (x2) Fire, Ground
+|-
+|| Mr. Mime [[File:Mr._Mime.png|25px]] || 36,462,000 || (x2) Poison, Ghost, Steel 
+|-
+|| Sylveon [[File:Sylveon.png|25px]] || 38,062,000 || (x2) Poison, Steel
+|-
+| rowspan=3 | [[Towns &amp; Cities#Kalos|Anistar City]]|| rowspan=3 | Psychic [[File:Psychic_Badge.png|15px]] || rowspan=3 | Olympia [[File:Olympia.png|25px]] || rowspan=3 | 30,000 || rowspan=3 | 4,446,200
+|| Sigilyph [[File:Sigilyph.png|25px]] || 40,058,300 || (x2) Electric, Ice, Rock, Ghost, Dark
+|-
+|| Slowking [[File:Slowking.png|25px]] || 42,062,000 || (x2) Electric, Grass, Bug, Ghost, Dark
+|-
+|| Meowstic [[File:Meowstic.png|25px]] || 44,462,000 || (x2) Bug, Ghost, Dark
+|-
+| rowspan=3 | [[Towns &amp; Cities#Kalos|Snowbelle City]]|| rowspan=3 | Iceberg [[File:Iceberg_Badge.png|15px]] || rowspan=3 | Wulfric [[File:Wulfric.png|25px]] || rowspan=3 | 52,000 || rowspan=3 | 5,006,200
+|| Abomasnow [[File:Abomasnow.png|25px]] || 46,558,300 || (x4) Fire &lt;br&gt; (x2) Fighting, Poison, Flying, Bug, Rock, Steel
+|-
+|| Cryogonal [[File:Cryogonal.png|25px]] || 47,654,830 || rowspan=2 | (x2) Fire, Fighting, Rock, Steel
+|-
+|| Avalugg [[File:Avalugg.png|25px]] || 50,062,000
+|}
+
+===[[Towns &amp; Cities#Kalos|Pokémon League Kalos]]===
+{| class="wikitable collapsible" style="text-align: center;"
+|-
+! Leader !! Money Earned !! Min. Attack !! Pokémon !! HP !! Weakness
+|-
+| rowspan=4 | Elite Malva [[File:Malva.png|25px]] || rowspan=4 | 64,000 || rowspan=4 | 7,864,043
+|| Pyroar [[File:Pyroar.png|25px]] || 54,696,969 || (x2) Water, Fighting, Ground, Rock
+|-
+|| Torkoal [[File:Torkoal.png|25px]] || 55,048,300 || (x2) Water, Ground, Rock
+|-
+|| Chandelure [[File:Chandelure.png|25px]] || 55,052,000 || (x2) Water, Ground, Rock, Ghost, Dark
+|-
+|| Talonflame [[File:Talonflame.png|25px]] || 55,557,000 || (x4) Rock &lt;br&gt; (x2) Water, Electric
+|-
+| rowspan=4 | Elite Siebold [[File:Siebold.png|25px]] || rowspan=4 | 64,000 || rowspan=4 | 7,915,048
+|| Clawitzer [[File:Clawitzer.png|25px]] || 54,696,969 || (x2) Electric, Grass 
+|-
+|| Gyarados [[File:Gyarados.png|25px]] || 55,405,330 || (x4) Electric &lt;br&gt; (x2) Rock
+|-
+|| Starmie [[File:Starmie.png|25px]] || 55,405,330 || (x2) Electric, Grass, Bug, Ghost, Dark
+|-
+|| Barbaracle [[File:Barbaracle.png|25px]] || 55,557,000 || (x4) Grass &lt;br&gt; (x2) Electric, Fighting, Ground
+|-
+| rowspan=4 | Elite Wikstrom [[File:Wikstrom.png|25px]] || rowspan=4 | 64,000 || rowspan=4 | 7,915,048
+|| Klefki [[File:Klefki.png|25px]] || 54,696,969 || (x2) Fire, Ground
+|-
+|| Probopass [[File:Probopass.png|25px]] || 55,405,330 || (x4) Fighting, Ground &lt;br&gt; (x2) Water
+|-
+|| Scizor [[File:Scizor.png|25px]] || 55,405,330 || (x4) Fire
+|-
+|| Aegislash [[File:Aegislash.png|25px]] || 55,557,000 || (x2) Fire, Ground, Ghost, Dark
+|-
+| rowspan=4 | Elite Drasna [[File:Drasna.png|25px]] || rowspan=4 | 64,000 || rowspan=4 | 7,915,048
+|| Dragalge [[File:Dragalge.png|25px]] || 54,696,969 || (x2) Ice, Ground, Psychic, Dragon
+|-
+|| Druddigon [[File:Druddigon.png|25px]] || 55,405,330 || (x2) Ice, Dragon, Fairy
+|-
+|| Altaria [[File:Altaria.png|25px]] || 55,405,330 || rowspan=2 | (x4) Ice &lt;br&gt; (x2) Rock, Dragon, Fairy
+|-
+|| Noivern [[File:Noivern.png|25px]] || 55,557,000
+|-
+| rowspan=6 | Champion Diantha [[File:Diantha.png|25px]] || rowspan=6 | 128,000 || rowspan=6 | 12,614,800
+|| Hawlucha [[File:Hawlucha.png|25px]] || 60,083,000 || (x2) Electric, Ice, Flying, Psychic, Fairy
+|-
+|| Tyrantrum [[File:Tyrantrum.png|25px]] || 62,057,000 || (x2) Ice, Fighting, Ground, Dragon, Steel
+|-
+|| Aurorus [[File:Aurorus.png|25px]] || 62,057,000 || (x4) Fighting, Steel &lt;br&gt; (x2) Water, Grass, Ground, Rock
+|-
+|| Gourgeist [[File:Gourgeist.png|25px]] || 62,557,000 || (x2) Fire, Ice, Flying, Ghost, Dark
+|-
+|| Goodra [[File:Goodra.png|25px]] || 62,170,000 || (x2) Ice, Dragon, Fairy
+|-
+|| Mega Gardevoir [[File:Mega Gardevoir.png|25px]] || 63,070,000 || (x2) Poison, Ghost, Steel
+|}
+
+==[[Alola]]==
+===Island Trials===
+{| class="wikitable collapsible" style="text-align: center;"
+|-
+! Location !! Badge !! Leader !! Possible Bosses
+|-
+| [[Verdant Cavern]] || Normalium Z [[File:NormaliumZ.png|15px]] || Ilima[[File:Ilima.png|25px]] || Gumshoos [[File:Gumshoos.png|25px]] &lt;br&gt; Alolan Raticate [[File:Alolan Raticate.png|25px]] 
+|-
+| [[Brooklet Hill]] || Waterium Z [[File:WateriumZ.png|15px]] || Lana [[File:Lana.png|25px]] || Wishiwashi (School) [[File:Wishiwashi (School).png|25px]] &lt;br&gt; Araquanid [[File:Araquanid.png|25px]] 
+|-
+| [[Wela Volcano Park]] || Firium Z [[File:FiriumZ.png|15px]] || Kiawe [[File:Kiawe.png|25px]] || Alolan Marowak [[File:Alolan Marowak.png|25px]] &lt;br&gt; Salazzle [[File:Salazzle.png|25px]] 
+|-
+| [[Lush Jungle]] || Grassium Z [[File:GrassiumZ.png|15px]] || Mallow [[File:Mallow.png|25px]] || Lurantis [[File:Lurantis.png|25px]]
+|-
+| [[Hokulani Observatory]] || Electrium Z [[File:ElectriumZ.png|15px]] || Sophocles [[File:Sophocles.png|25px]] || Vikavolt [[File:Vikavolt.png|25px]] &lt;br&gt; Togedemaru [[File:Togedemaru.png|25px]]
+|-
+| [[Thrifty Megamart]] || Ghostium Z [[File:GhostiumZ.png|15px]] || Acerola [[File:Acerola.png|25px]] || Mimikyu [[File:Mimikyu.png|25px]] 
+|-
+| [[Vast Poni Canyon]] || Dragonium Z [[File:DragoniumZ.png|15px]] || Totem Kommo-o [[File:Totem Kommo-o.png|25px]] || Kommo-o [[File:Kommo-o.png|25px]] 
+|-
+| [[Mina's Houseboat]] || Fairium Z [[File:FairiumZ.png|15px]] || Mina [[File:Mina.png|25px]] || Ribombee [[File:Ribombee.png|25px]] 
+|-
+|}
+
+===Gyms===
+{| class="wikitable collapsible" style="text-align: center;"
+|-
+! Location !! Badge !! Leader !! Money Earned !! Min. Attack !! Pokémon !! HP !! Weakness
+|-
+| rowspan=3 | [[Towns &amp; Cities#Alola|Iki Town]] || rowspan=3 | Fightinium Z [[File:FightiniumZ.png|15px]] || rowspan=3 | Hala [[File:Hala.png|25px]] || rowspan=3 | 128,000 || rowspan=3 | 6,306,962
+|| Machop [[File:Machop.png|25px]] || 62,058,739 || (x2) Flying, Fairy, Psychic
+|- 
+|| Makuhita [[File:Makuhita.png|25px]] || 62,058,739 || (x2) Flying, Fairy, Psychic
+|-
+|| Crabrawler [[File:Crabrawler.png|25px]] || 63,069,612 || (x2) Flying, Fairy, Psychic
+|-
+| rowspan=3 | [[Towns &amp; Cities#Alola|Konikoni City]]|| rowspan=3 | Rockium Z [[File:RockiumZ.png|15px]] || rowspan=3 | Olivia [[File:Olivia.png|25px]] || rowspan=3 | 128,000 || rowspan=3 | 6,747,868
+|| Lileep [[File:Lileep.png|25px]] || 66,147,743 || (x2) Fighting, Steel, Ice, Bug
+|-
+|| Anorith [[File:Anorith.png|25px]] || 66,147,743 || (x2) Water, Rock, Steel
+|-
+|| Lycanroc (Midnight) [[File:Lycanroc (Midnight).png|25px]] || 67,478,674 || (x2) Ground, Steel, Water, Grass, Fighting
+|-
+| rowspan=3 | [[Towns &amp; Cities#Alola|Malie City]]|| rowspan=3 | Darkinium Z [[File:DarkiniumZ.png|15px]] || rowspan=3 | Nanu [[File:Nanu.png|25px]] || rowspan=3 | 128,000 || rowspan=3 | 7,173,511
+|| Sableye [[File:Sableye.png|25px]] || 70,650,480 || (x2) Fairy
+|-
+|| Krokorok [[File:Krokorok.png|25px]] || 70,650,480 || (x2) Fighting, Water, Grass, Ice, Bug, Fairy
+|-
+|| Alolan Persian [[File:Alolan Persian.png|25px]] || 71,735,104 || (x2) Fighting, Bug, Fairy
+|-
+| rowspan=4 | [[Towns &amp; Cities#Alola|Exeggutor Island]]|| rowspan=4 | Groundium Z [[File:GroundiumZ.png|15px]] || rowspan=4 | Hapu [[File:Hapu.png|25px]] || rowspan=4 | 128,000 || rowspan=4 | 10,951,182
+|| Golurk [[File:Golurk.png|25px]] || 76,658,268 || (x2) Ghost, Dark, Grass, Ice, Water
+|-
+|| Gastrodon (east) [[File:Gastrodon (east).png|25px]] || 76,658,268 || (x4) Grass
+|-
+|| Flygon [[File:Flygon.png|25px]] || 76,658,268 || (x4) Ice &lt;br&gt; (x2) Dragon, Fairy
+|-
+|| Mudsdale [[File:Mudsdale.png|25px]] || 77,747,374 || (2x) Ice, Grass, Water
+|-
+|}
+
+===[[Towns &amp; Cities#Alola|Pokémon League Alola]]===
+{| class="wikitable collapsible" style="text-align: center;"
+|-
+! Leader !! Money Earned !! Min. Attack !! Pokémon !! HP !! Weakness
+|-
+| rowspan=5 | Elite Molayne [[File:Molayne.png|25px]] || rowspan=5 | 64,000 || rowspan=5 | 14,409,408
+|| Klefki [[File:Klefki.png|25px]] || 85,547,357 || (x2) Fire, Ground
+|-
+|| Bisharp [[File:Bisharp.png|25px]] || 85,547,357 || (x4) Fighting &lt;br&gt; (x2) Ground, Fire
+|-
+|| Magnezone [[File:Magnezone.png|25px]] || 85,547,357 || (x4) Ground &lt;br&gt; (x2) Fighting, Fire
+|-
+|| Metagross [[File:Metagross.png|25px]] || 85,547,357 || (x2) Fire, Ground, Ghost, Dark
+|-
+|| Alolan Dugtrio [[File:Alolan Dugtrio.png|25px]] || 86,456,446 || (x2) Fighting, Ground, Water, Fire
+|-
+| rowspan=5 | Elite Olivia [[File:Olivia.png|25px]] || rowspan=5 | 64,000 || rowspan=5 | 14,409,408 || Armaldo [[File:Armaldo.png|25px]] || 85,547,357 || (x2) Steel, Rock,  Water
+|-
+|| Cradily [[File:Cradily.png|25px]] || 85,547,357 || (x2) Steel, Fighting, Ice, Bug
+|-
+|| Gigalith [[File:Gigalith.png|25px]] || 85,547,357 || (x2) Ground, Grass, Water, Steel, Fighting
+|-
+|| Probopass [[File:Probopass.png|25px]] || 85,547,357 || (x4) Ground, Fighting &lt;br&gt; (x2) Water
+|-
+|| Lycanroc (Midnight) [[File:Lycanroc_(Midnight).png|25px]] || 86,456,446 || (x2) Ground, Grass, Water, Steel, Fighting
+|-
+| rowspan=5 | Elite Acerola [[File:Acerola.png|25px]] || rowspan=5 | 64,000 || rowspan=5 | 14,409,408 || Banette [[File:Banette.png|25px]] || 85,547,357 || (x2) Dark, Ghost
+|-
+|| Drifblim [[File:Drifblim.png|25px]] || 85,547,357 || (x2) Ice, Ghost, Electric, Dark, Rock
+|-
+|| Dhelmise [[File:Dhelmise.png|25px]] || 85,547,357 || (x2) Ghost, Fire, Dark, Ice, Flying 
+|-
+|| Froslass [[File:Froslass.png|25px]] || 85,547,357 || (x2) Ghost, Fire, Dark, Rock, Steel
+|-
+|| Palossand [[File:Palossand.png|25px]] || 86,456,446 || (x2) Grass, Ice, Ghost, Dark, Water
+|-
+| rowspan=5 | Elite Kahili [[File:Kahili.png|25px]] || rowspan=5 | 64,000 || rowspan=5 | 14,409,408
+|| Braviary [[File:Braviary.png|25px]] || 85,547,357 || (x2) Ice, Electric, Rock
+|-
+|| Hawlucha [[File:Hawlucha.png|25px]] || 85,547,357 || (x2) Electric, Ice, Flying, Psychic, Fairy
+|-
+|| Oricorio (Baile) [[File:Oricorio_(Baile).png|25px]] || 85,547,357 || (x4) Rock &lt;br&gt;(x2) Electric, Water
+|-
+|| Mandibuzz [[File:Mandibuzz.png|25px]] || 85,547,357 || (x2) Fairy, Ice, Rock, Electric
+|-
+|| Toucannon [[File:Toucannon.png|25px]] || 86,456,446 || (x2) Ice, Electric, Rock
+|-
+| colspan=6 | Hau's team changes based on the chosen starter Pokémon (Bulbasaur, Charmander, or Squirtle/Pikachu).
+|-
+| rowspan=10 | Champion Hau [[File:Hau.png|15px]] || rowspan=10 | 100,000 || rowspan=4 | Starter: All
+|| Alolan Raichu [[File:Alolan Raichu.png|25px]] || 91,545,555 || (x2) Ground, Ghost, Dark
+|-
+|| Tauros [[File:Tauros.png|25px]] || 89,636,471 || (x2) Fighting
+|-
+|| Noivern [[File:Noivern.png|25px]] || 89,636,471 || (x4) Ice &lt;br&gt; (x2) Fairy, Rock, Dragon
+|-
+|| Crabominable [[File:Crabominable.png|25px]] || 91,545,555 || (x2) Flying, Fire, Fairy, Psychic, Fighting, Steel
+|-
+| rowspan=2 | 19,345,078 &lt;br&gt; Starter: Bulbasaur || Flareon [[File:Flareon.png|25px]] || 86,936,471 || (x2) Rock, Water, Ground
+|-
+|| Primarina [[File:Primarina.png|25px]] || 96,725,389 || (x2) Grass, Electric, Poison
+|-
+| rowspan=2 | 19,345,078 &lt;br&gt; Starter: Charmander || Vaporeon [[File:Vaporeon.png|25px]] || 86,936,471 || (x2) Grass, Electric
+|-
+|| Decidueye [[File:Decidueye.png|25px]] || 96,725,389 || (x2) Fire, Ice, Flying, Ghost, Dark 
+|-
+| rowspan=2 | 19,345,078 &lt;br&gt; Starter: Squirtle/Pikachu || Leafeon [[File:Leafeon.png|25px]] || 86,936,471 || (x2) Fire, Ice, Poison, Bug, Flying
+|-
+||  Incineroar [[File:Incineroar.png|25px]] || 96,725,389 || (x2) Water, Fighting, Ground, Rock 
+|-
+|}</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>8320</parentid>
+    <sha1>0d3d47fd17f84341143f1f73d402058ade6f8191</sha1>
+  </revision>
+</page>

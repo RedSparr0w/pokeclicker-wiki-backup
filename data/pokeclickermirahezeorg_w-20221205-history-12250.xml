@@ -1,0 +1,62 @@
+<page>
+  <title>Ganlon</title>
+  <ns>0</ns>
+  <id>744</id>
+  <revision>
+    <id>7813</id>
+    <timestamp>2020-12-08T02:33:25Z</timestamp>
+    <text bytes="2158" space="preserve">{{Infobox Berry
+|name    = #61 Ganlon
+|image   = [[File:Ganlon.png]]
+|caption = This Berry is surrounded by mystery. It is rumored to be imbued with the power of the land.
+|growtime  = 2d
+|harvest = 0.5 berries
+|replant = 0%
+|points = 10,000
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 spicy 
+*30 dry
+*10 sweet
+*30 bitter
+*0 sour
+}}
+'''Ganlon''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by having at least one empty plot and at least 23 ripe [[Shuca]] on the field. #383 Groudon must have been caught to unlock this berry.
+
+{| class="wikitable" style="text-align: center;
+|+ Growth Stages
+! !! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 6 hours || 12 hours || 1 day || 2-4 days
+|- 
+! Animation
+| [[File:AllTreeSprout.png|50px]] || [[File:GanlonTreeTaller.png|50px]] || [[File:GanlonTreeBloom.png|50px]] || [[File:GanlonTreeBerry.png|50px]]
+|}
+
+=== Possible Planting Formations ===
+
+You can fill your [[Farm]] in the following way to obtain this berry.
+
+{| class="wikitable" style="text-align: center;"
+|+ Farm
+|-
+| style="width: 50px;" | || style="width: 50px;" | [[File:Shuca.png|30px]]&lt;br&gt;[[Shuca]] || style="width: 50px;" | [[File:Shuca.png|30px]]&lt;br&gt;[[Shuca]] || style="width: 50px;" | [[File:Shuca.png|30px]]&lt;br&gt;[[Shuca]] || style="width: 50px;" | [[File:Shuca.png|30px]]&lt;br&gt;[[Shuca]]
+|-
+| [[File:Shuca.png|30px]]&lt;br&gt;[[Shuca]] || [[File:Shuca.png|30px]]&lt;br&gt;[[Shuca]] || [[File:Shuca.png|30px]]&lt;br&gt;[[Shuca]] || [[File:Shuca.png|30px]]&lt;br&gt;[[Shuca]] || [[File:Shuca.png|30px]]&lt;br&gt;[[Shuca]]
+|- style="height: 26px;"
+| [[File:Shuca.png|30px]]&lt;br&gt;[[Shuca]] || [[File:Shuca.png|30px]]&lt;br&gt;[[Shuca]] || [[File:Shuca.png|30px]]&lt;br&gt;[[Shuca]] || [[File:Shuca.png|30px]]&lt;br&gt;[[Shuca]] || [[File:Shuca.png|30px]]&lt;br&gt;[[Shuca]]
+|-
+| [[File:Shuca.png|30px]]&lt;br&gt;[[Shuca]] || [[File:Shuca.png|30px]]&lt;br&gt;[[Shuca]] || [[File:Shuca.png|30px]]&lt;br&gt;[[Shuca]] || [[File:Shuca.png|30px]]&lt;br&gt;[[Shuca]] || [[File:Shuca.png|30px]]&lt;br&gt;[[Shuca]]
+|-
+| || [[File:Shuca.png|30px]]&lt;br&gt;[[Shuca]] || [[File:Shuca.png|30px]]&lt;br&gt;[[Shuca]] || [[File:Shuca.png|30px]]&lt;br&gt;[[Shuca]] || [[File:Shuca.png|30px]]&lt;br&gt;[[Shuca]]
+|}</text>
+    <contributor>
+      <username>Adrian.Lew</username>
+      <id>29</id>
+    </contributor>
+    <comment>/* Possible Planting Formations */ Added images, tweaked sizing</comment>
+    <model>wikitext</model>
+    <parentid>7812</parentid>
+    <sha1>0eaa3fc1ccd0beb2a52ad0c48ddd90a6c5aa5e78</sha1>
+  </revision>
+</page>

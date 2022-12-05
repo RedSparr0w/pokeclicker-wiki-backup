@@ -1,0 +1,66 @@
+<page>
+  <title>Test Page</title>
+  <ns>0</ns>
+  <id>2035</id>
+  <revision>
+    <id>11265</id>
+    <timestamp>2022-08-16T16:26:50Z</timestamp>
+    <text bytes="977" space="preserve">Test Page Returns
+
+Test: 1&lt;sup&gt;ère&lt;/sup&gt; génération
+
+===Used in===
+
+{|class="wikitable"
+|-
+| This berry is used in
+|-
+| Berry 1
+|-
+| Berry 2
+|}
+
+{|class="wikitable"
+|-
+| Test
+|-
+| [[File:Bulbasaur_Egg_Pattern.png|30px]]
+|-
+| [[File:Ivysaur_Egg_Pattern.png|30px]]
+|-
+| [[File:Venusaur_Egg_Pattern.png|30px]]
+|-
+| [[File:Charmander_Egg_Pattern.png|30px]]
+|-
+| [[File:Charmeleon_Egg_Pattern.png|30px]]
+|-
+| [[File:Charizard_Egg_Pattern.png|30px]]
+|-
+| [[File:Grey Shard.png|79px]][[File:GreyShardMine.png]]
+|-
+| [[File:Purple Shard.png|79px]][[File:PurpleShardMine.png]]
+|}
+
+====Bag Functions test====
+
+
+{{Bag2|Lucky Incense|Lucky test ?}} &lt;- Bag2 set the image link to the second argument, but seems like never used anywhere
+
+{{Bag3|EXP Share|EXP test ?}} &lt;- Bag3 doesn't show anything if second argument, just the picture
+
+{{Bag4|Pokéball|Poké test ?}} &lt;- Bag4 works perfectly
+
+====Template test for translators====
+
+{{Loot/head‎|Berries}}
+{{LootItem|Parc Safari|Commun}}</text>
+    <contributor>
+      <username>LeChatMG</username>
+      <id>97</id>
+    </contributor>
+    <comment>testing &lt;sup</comment>
+    <model>wikitext</model>
+    <parentid>11264</parentid>
+    <sha1>0c461bcdcd803847cb19bd7bd7c47bac1879ebfc</sha1>
+  </revision>
+</page>

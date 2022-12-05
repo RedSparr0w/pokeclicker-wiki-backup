@@ -1,0 +1,32 @@
+<page>
+  <title>Template:Oak items</title>
+  <ns>10</ns>
+  <id>83</id>
+  <revision>
+    <id>859</id>
+    <timestamp>2020-11-21T05:04:42Z</timestamp>
+    <text bytes="1035" space="preserve">&lt;div class="roundy" style="margin:auto; border: 3px solid #{{battle items color dark}}; white-space:nowrap; padding:3px; max-width:1000px"&gt;
+&lt;div class="roundy" style="margin:auto; text-align:center; background-color:#{{battle items color light}}; padding:2px; margin-bottom:3px"&gt;&lt;big&gt;'''{{color2|000|Oak Items|Oak Items}}'''&lt;/big&gt;&lt;/div&gt;
+&lt;div style="clear:both; display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr))"&gt;
+&lt;div&gt;{{Bag3|Magic Ball}} [[Magic Ball]]&lt;/div&gt;
+&lt;div&gt;{{Bag3|Amulet Coin}} [[Amulet Coin]]&lt;/div&gt;
+&lt;div&gt;{{Bag3|Poison Barb}} [[Poison Barb]]&lt;/div&gt;
+&lt;div&gt;{{Bag3|EXP Share}} [[EXP Share]]&lt;/div&gt;
+&lt;div&gt;[[File:Sprayduck_New.png|24px]] [[Sprayduck]]&lt;/div&gt;
+&lt;div&gt;{{Bag3|Shiny Charm}} [[Shiny Charm]]&lt;/div&gt;
+&lt;div&gt;{{Bag3|Blaze Cassette}} [[Blaze Cassette]]&lt;/div&gt;
+&lt;div&gt;{{Bag3|Cell Battery}} [[Cell Battery]]&lt;/div&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;div&gt;[[File:Squirtbottle.png|24px]] [[Squirtbottle]]&lt;/div&gt;
+&lt;div&gt;[[File:Sprinklotad.png|24px]] [[Sprinklotad]]&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;noinclude&gt;[[Category:Item navigation templates]]&lt;/noinclude&gt;</text>
+    <contributor>
+      <username>Adrian.Lew</username>
+      <id>29</id>
+    </contributor>
+    <comment>Added Farm overhaul items</comment>
+    <model>wikitext</model>
+    <parentid>858</parentid>
+    <sha1>94e52aa3dfb6af79c8251050ced6577218acc052</sha1>
+  </revision>
+</page>

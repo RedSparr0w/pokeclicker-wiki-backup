@@ -1,0 +1,43 @@
+<page>
+  <title>Shiny Chance</title>
+  <ns>0</ns>
+  <id>140</id>
+  <revision>
+    <id>1669</id>
+    <timestamp>2020-12-14T08:14:45Z</timestamp>
+    <text bytes="830" space="preserve">Shiny Pokémon can be obtained in a number of different ways, each with their own odds. As of version 0.6.8, the only ways to augment the chances of encountering shinies are to equip the [[Shiny Charm]] or have [[Starf]] Berries growing in the [[Farm]] (at full ripeness, each Starf plant gives a 1.5% boost).
+
+=Details=
+
+{| class="wikitable sortable"
+|-
+! Action !! Chance (no Shiny Charm) !! Chance (Lv 5 Shiny Charm)
+|-
+| Route Encounter || 1 / 8192 || 1 / 4096
+|-
+| Dungeon Encounter || 1 / 4096 || 1 / 2048
+|-
+| Evolution stone/item use || rowspan = 3 | 1 / 2048 || rowspan = 3 | 1 / 1024
+|-
+| Purchasing shop Pokémon
+|-
+| Safari Zone Encounter
+|-
+| Hatching an Egg || 1 / 1024 || 1 / 512
+|-
+|}
+
+===Trivia===
+Shinies as of version 0.3.0 increase click damage at a 150% rate compared to normal Pokémon.
+
+[[Category:Shinies]]</text>
+    <contributor>
+      <username>Adrian.Lew</username>
+      <id>29</id>
+    </contributor>
+    <comment>Opening description, Starf details added</comment>
+    <model>wikitext</model>
+    <parentid>1668</parentid>
+    <sha1>765985e192300ec9478b8273fd6812e3c2a19990</sha1>
+  </revision>
+</page>

@@ -1,0 +1,69 @@
+<page>
+  <title>Module:Category handler/data</title>
+  <ns>828</ns>
+  <id>989</id>
+  <revision>
+    <id>9425</id>
+    <timestamp>2020-12-14T04:06:02Z</timestamp>
+    <text bytes="631" space="preserve">-- This module assembles data to be passed to [[Module:Category handler]] using
+-- mw.loadData. This includes the configuration data and whether the current
+-- page matches the title blacklist.
+
+local data = require('Module:Category handler/config')
+local mShared = require('Module:Category handler/shared')
+local blacklist = require('Module:Category handler/blacklist')
+local title = mw.title.getCurrentTitle()
+
+data.currentTitleMatchesBlacklist = mShared.matchesBlacklist(
+	title.prefixedText,
+	blacklist
+)
+
+data.currentTitleNamespaceParameters = mShared.getNamespaceParameters(
+	title,
+	mShared.getParamMappings()
+)
+
+return data</text>
+    <contributor>
+      <username>Liczale</username>
+      <id>20</id>
+    </contributor>
+    <comment>1 revision imported: Here you go Cate &lt;3</comment>
+    <model>Scribunto</model>
+    <parentid>9424</parentid>
+    <sha1>abbc68048ff698e88dda06b64ecf384bbf583120</sha1>
+  </revision>
+  <revision>
+    <id>9424</id>
+    <timestamp>2020-04-01T06:12:41Z</timestamp>
+    <text bytes="631" space="preserve">-- This module assembles data to be passed to [[Module:Category handler]] using
+-- mw.loadData. This includes the configuration data and whether the current
+-- page matches the title blacklist.
+
+local data = require('Module:Category handler/config')
+local mShared = require('Module:Category handler/shared')
+local blacklist = require('Module:Category handler/blacklist')
+local title = mw.title.getCurrentTitle()
+
+data.currentTitleMatchesBlacklist = mShared.matchesBlacklist(
+	title.prefixedText,
+	blacklist
+)
+
+data.currentTitleNamespaceParameters = mShared.getNamespaceParameters(
+	title,
+	mShared.getParamMappings()
+)
+
+return data</text>
+    <contributor>
+      <username>Cleanup Template&gt;MusikAnimal</username>
+      <id>0</id>
+    </contributor>
+    <comment>1 revision imported</comment>
+    <model>Scribunto</model>
+    <parentid>0</parentid>
+    <sha1>abbc68048ff698e88dda06b64ecf384bbf583120</sha1>
+  </revision>
+</page>

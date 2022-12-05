@@ -1,0 +1,103 @@
+<page>
+  <title>Yache</title>
+  <ns>0</ns>
+  <id>762</id>
+  <revision>
+    <id>7881</id>
+    <timestamp>2021-06-03T22:50:34Z</timestamp>
+    <text bytes="3208" space="preserve">{{Infobox Berry
+|name    = #40 Yache
+|image   = [[File:Yache.png]]
+|caption = This Berry has a refreshing flavor that strikes a good balance of dryness and sourness. It tastes better chilled. This Berry slows the growth of nearby Berries.
+|growtime  = 12h 0m 0s
+|harvest = 25 berries
+|replant = 5%
+|points = 1,500
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 spicy 
+*10 dry
+*0 sweet
+*0 bitter
+*15 sour
+}}
+== Description ==
+'''Yache''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by surrounding a [[Passho]] with all empty plots. The Passho will then have a chance to mutate into this berry.
+
+== Growth Tables ==
+=== Growth Stages ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 1 hour || 4 hours || 8 hours || 12 hours - 1 day
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:YacheTreeTaller.png|50px]] || &lt;center&gt; [[File:YacheTreeBloom.png|50px]] || &lt;center&gt; [[File:YacheTreeBerry.png|50px]]
+|-
+! Aura (growth speed)
+| || &lt;center&gt; x0.9 || &lt;center&gt; x0.8 || &lt;center&gt; x0.7
+|}
+
+=== Ripening Time with Modifiers  ===
+{| class="wikitable" | style="text-align: center;"
+! Modifier !! Ripe-Wither Time !! Boost Mulch Needed to Ripen
+|-
+! None
+| 12 hours -&lt;br&gt; 1 day || ---
+|-
+! Mulch or Sprayduck
+| 8 hours -&lt;br&gt; 16 hours || 96 mulch
+|-
+! Mulch &amp; Sprayduck
+| 5 hours 20 mins -&lt;br&gt; 10 hours 40 mins || 64 mulch
+|}
+
+== Flow Chart ==
+[[File:Yache_Flow_Chart.png|350px]]
+&lt;br&gt;
+
+== Mutation Strategy ==
+=== Possible Planting Formations ===
+
+You can fill your farm in the following way to obtain Yache berries. Purple squares indicate where mutations can occur.
+
+{| class="wikitable" style="text-align: center;"
+|+ Farm
+|- style="height: 50px;"
+| style="width: 40px;" | || style="width: 40px;" | || style="width: 40px;" | || style="width: 40px;" | || style="width: 40px;" | 
+|-
+| || style="background-color:#9C7D98;" | [[File:Passho.png|30px]] '''[[Passho]]''' || || style="background-color:#9C7D98;" | [[File:Passho.png|30px]] '''[[Passho]]''' ||
+|- style="height: 50px;"
+| || || || || 
+|-
+| || style="background-color:#9C7D98;" | [[File:Passho.png|30px]] '''[[Passho]]''' || || style="background-color:#9C7D98;" | [[File:Passho.png|30px]] '''[[Passho]]''' ||
+|- style="height: 50px;"
+| || || || || 
+|}
+
+==Uses==
+===Mutations===
+
+Yache berries can be used to mutate the following berries.
+
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Petaya.png|20px]] [[Petaya]] || [[File:Occa.png|20px]] [[Occa]] [[File:Passho.png|20px]] [[Passho]] &lt;br&gt; [[File:Wacan.png|20px]] [[Wacan]] [[File:Rindo.png|20px]] [[Rindo]] &lt;br&gt; [[File:Chople.png|20px]] [[Chople]] [[File:Kebia.png|20px]] [[Kebia]] &lt;br&gt; [[File:Shuca.png|20px]] [[Shuca]] [[File:Coba.png|20px]] [[Coba]] &lt;br&gt; [[File:Payapa.png|20px]] [[Payapa]] [[File:Tanga.png|20px]] [[Tanga]] &lt;br&gt; [[File:Charti.png|20px]] [[Charti]] [[File:Kasib.png|20px]] [[Kasib]] &lt;br&gt; [[File:Haban.png|20px]] [[Haban]] [[File:Colbur.png|20px]] [[Colbur]] &lt;br&gt; [[File:Babiri.png|20px]] [[Babiri]] [[File:Chilan.png|20px]] [[Chilan]] &lt;br&gt; [[File:Roseli.png|20px]] [[Roseli]]
+|-
+|}
+
+&lt;br&gt;
+
+{{Berries}}</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment>/* Growth Stages */</comment>
+    <model>wikitext</model>
+    <parentid>7880</parentid>
+    <sha1>021c9fcfd1fee8361e018f14e46b42099fe0160d</sha1>
+  </revision>
+</page>

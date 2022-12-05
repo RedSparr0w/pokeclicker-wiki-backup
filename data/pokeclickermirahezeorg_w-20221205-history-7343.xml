@@ -1,0 +1,36 @@
+<page>
+  <title>Translations:Template:Infobox Oak Item/1/en</title>
+  <ns>0</ns>
+  <id>4324</id>
+  <revision>
+    <id>15405</id>
+    <timestamp>2022-07-20T07:40:33Z</timestamp>
+    <text bytes="780" space="preserve">{|class="infobox bordered" style="float:right; width:264px; font-size:90%; text-align:left; border:2px solid #000; padding:3px;" cellpadding="3"
+|- 
+!colspan="2" style="font-size:110%; text-align:center; background-color:#3f9ad8; color:#000;" | {{{name}}}
+|-
+{{#if:{{{image&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} colspan="2" style="text-align:center;" {{!}}{{{image}}}{{#if:{{{symbol|}}}|&lt;br /&gt;{{{symbol}}}}}{{#if:{{{caption|}}}|&lt;br /&gt;{{{caption}}}}}
+{{!}}-
+}}
+{{#if:{{{effect&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#3f9ad8; color:#000;" {{!}}'''Effect'''
+{{!}}{{{effect}}}
+{{!}}-
+}}
+{{#if:{{{dex&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#3f9ad8; color:#000;" {{!}}'''Unique Pokémon Required'''
+{{!}}{{{dex}}}
+{{!}}-
+}}
+|}&lt;noinclude&gt;</text>
+    <contributor>
+      <username>FuzzyBot</username>
+      <id>133</id>
+    </contributor>
+    <comment>Importing a new version from external source</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>582740af9fee6976ed25dd5d50bac9be719a4cf6</sha1>
+  </revision>
+</page>

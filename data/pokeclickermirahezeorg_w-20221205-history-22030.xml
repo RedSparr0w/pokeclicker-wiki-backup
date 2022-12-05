@@ -1,0 +1,473 @@
+<page>
+  <title>Template:Infobox Pokéball</title>
+  <ns>10</ns>
+  <id>771</id>
+  <revision>
+    <id>8011</id>
+    <timestamp>2022-02-08T19:29:04Z</timestamp>
+    <text bytes="1251" space="preserve">{|class="infobox bordered" style="float:right; width:264px; font-size:90%; text-align:left; border:2px solid #94493a; padding:3px;" cellpadding="3"
+|- 
+!colspan="2" style="font-size:110%; text-align:center; background-color:#960018; color:#FFF;" | {{{name}}}
+|-
+{{#if:{{{image&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} colspan="2" style="text-align:center;" {{!}}{{{image}}}{{#if:{{{symbol|}}}|&lt;br /&gt;{{{symbol}}}}}{{#if:{{{caption|}}}|&lt;br /&gt;{{{caption}}}}}
+{{!}}-
+}}
+{{#if:{{{price&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#c41e3a; color:#000;" {{!}}'''Price'''
+{{!}}{{{price}}}
+{{!}}-
+}}
+{{#if:{{{location&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#c41e3a; color:#000;" {{!}}'''Catch time'''
+{{!}}{{{catchTime}}}
+{{!}}-
+}}
+{{#if:{{{location&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#c41e3a; color:#000;" {{!}}'''Catch rate'''
+{{!}}&amp;plus;{{{catchRate}}}
+{{!}}-
+}}
+{{#if:{{{location&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#c41e3a; color:#000;" {{!}}'''Locations'''
+{{!}}{{{location}}}
+{{!}}-
+}}
+|}&lt;noinclude&gt;
+
+== Code ==
+&lt;pre&gt;{{Infobox character general
+|name       = 
+|image      = 
+|caption    = 
+|price      = 
+|catchRate  = 
+|catchTime  = 
+|location  = 
+}}&lt;/pre&gt;</text>
+    <contributor>
+      <username>Singram</username>
+      <id>78</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>8010</parentid>
+    <sha1>67a836f144995d5a56c9570888fe8b8934184d59</sha1>
+  </revision>
+  <revision>
+    <id>8010</id>
+    <timestamp>2022-02-08T19:19:29Z</timestamp>
+    <text bytes="1250" space="preserve">{|class="infobox bordered" style="float:right; width:264px; font-size:90%; text-align:left; border:2px solid #94493a; padding:3px;" cellpadding="3"
+|- 
+!colspan="2" style="font-size:110%; text-align:center; background-color:#960018; color:#FFF;" | {{{name}}}
+|-
+{{#if:{{{image&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} colspan="2" style="text-align:center;" {{!}}{{{image}}}{{#if:{{{symbol|}}}|&lt;br /&gt;{{{symbol}}}}}{{#if:{{{caption|}}}|&lt;br /&gt;{{{caption}}}}}
+{{!}}-
+}}
+{{#if:{{{price&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#c41e3a; color:#000;" {{!}}'''Price'''
+{{!}}{{{price}}}
+{{!}}-
+}}
+{{#if:{{{location&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#c41e3a; color:#000;" {{!}}'''Catch time'''
+{{!}}{{{catchTime}}}
+{{!}}-
+}}
+{{#if:{{{location&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#c41e3a; color:#000;" {{!}}'''Catch rate'''
+{{!}}''+''{{{catchRate}}}
+{{!}}-
+}}
+{{#if:{{{location&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#c41e3a; color:#000;" {{!}}'''Locations'''
+{{!}}{{{location}}}
+{{!}}-
+}}
+|}&lt;noinclude&gt;
+
+== Code ==
+&lt;pre&gt;{{Infobox character general
+|name       = 
+|image      = 
+|caption    = 
+|price      = 
+|catchRate  = 
+|catchTime  = 
+|location  = 
+}}&lt;/pre&gt;</text>
+    <contributor>
+      <username>Singram</username>
+      <id>78</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>8009</parentid>
+    <sha1>54c79bfc4d1230cba6ad2aac61843900f9bf92a4</sha1>
+  </revision>
+  <revision>
+    <id>8009</id>
+    <timestamp>2022-02-08T19:02:52Z</timestamp>
+    <text bytes="1252" space="preserve">{|class="infobox bordered" style="float:right; width:264px; font-size:90%; text-align:left; border:2px solid #94493a; padding:3px;" cellpadding="3"
+|- 
+!colspan="2" style="font-size:110%; text-align:center; background-color:#960018; color:#FFF;" | {{{name}}}
+|-
+{{#if:{{{image&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} colspan="2" style="text-align:center;" {{!}}{{{image}}}{{#if:{{{symbol|}}}|&lt;br /&gt;{{{symbol}}}}}{{#if:{{{caption|}}}|&lt;br /&gt;{{{caption}}}}}
+{{!}}-
+}}
+{{#if:{{{price&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#c41e3a; color:#000;" {{!}}'''Price'''
+{{!}}{{{price}}}
+{{!}}-
+}}
+{{#if:{{{location&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#c41e3a; color:#000;" {{!}}'''Catch time'''
+{{!}}{{{catchTime}}}
+{{!}}-
+}}
+{{#if:{{{location&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#c41e3a; color:#000;" {{!}}'''Catch rate'''
+{{!}}'''+'''{{{catchRate}}}
+{{!}}-
+}}
+{{#if:{{{location&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#c41e3a; color:#000;" {{!}}'''Locations'''
+{{!}}{{{location}}}
+{{!}}-
+}}
+|}&lt;noinclude&gt;
+
+== Code ==
+&lt;pre&gt;{{Infobox character general
+|name       = 
+|image      = 
+|caption    = 
+|price      = 
+|catchRate  = 
+|catchTime  = 
+|location  = 
+}}&lt;/pre&gt;</text>
+    <contributor>
+      <username>Singram</username>
+      <id>78</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>8008</parentid>
+    <sha1>9ac537900cbd6e5c89f84603fbf8f87c368dcc15</sha1>
+  </revision>
+  <revision>
+    <id>8008</id>
+    <timestamp>2022-02-08T18:59:47Z</timestamp>
+    <text bytes="1245" space="preserve">{|class="infobox bordered" style="float:right; width:264px; font-size:90%; text-align:left; border:2px solid #94493a; padding:3px;" cellpadding="3"
+|- 
+!colspan="2" style="font-size:110%; text-align:center; background-color:#960018; color:#FFF;" | {{{name}}}
+|-
+{{#if:{{{image&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} colspan="2" style="text-align:center;" {{!}}{{{image}}}{{#if:{{{symbol|}}}|&lt;br /&gt;{{{symbol}}}}}{{#if:{{{caption|}}}|&lt;br /&gt;{{{caption}}}}}
+{{!}}-
+}}
+{{#if:{{{price&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#c41e3a; color:#000;" {{!}}'''Price'''
+{{!}}{{{price}}}
+{{!}}-
+}}
+{{#if:{{{location&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#c41e3a; color:#000;" {{!}}'''Catch time'''
+{{!}}{{{catchTime}}}
+{{!}}-
+}}
+{{#if:{{{location&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#c41e3a; color:#000;" {{!}}'''Catch rate'''
+{{!}}{{{catchRate}}}
+{{!}}-
+}}
+{{#if:{{{location&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#c41e3a; color:#000;" {{!}}'''Locations'''
+{{!}}{{{location}}}
+{{!}}-
+}}
+|}&lt;noinclude&gt;
+
+== Code ==
+&lt;pre&gt;{{Infobox character general
+|name       = 
+|image      = 
+|caption    = 
+|price      = 
+|catchRate  = 
+|catchTime  = 
+|location  = 
+}}&lt;/pre&gt;</text>
+    <contributor>
+      <username>Singram</username>
+      <id>78</id>
+    </contributor>
+    <comment>/* Code */</comment>
+    <model>wikitext</model>
+    <parentid>8007</parentid>
+    <sha1>e0e71fd93fbbc24d993b4513c424f0bc1de4e10d</sha1>
+  </revision>
+  <revision>
+    <id>8007</id>
+    <timestamp>2022-02-08T18:57:31Z</timestamp>
+    <text bytes="1255" space="preserve">{|class="infobox bordered" style="float:right; width:264px; font-size:90%; text-align:left; border:2px solid #94493a; padding:3px;" cellpadding="3"
+|- 
+!colspan="2" style="font-size:110%; text-align:center; background-color:#960018; color:#FFF;" | {{{name}}}
+|-
+{{#if:{{{image&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} colspan="2" style="text-align:center;" {{!}}{{{image}}}{{#if:{{{symbol|}}}|&lt;br /&gt;{{{symbol}}}}}{{#if:{{{caption|}}}|&lt;br /&gt;{{{caption}}}}}
+{{!}}-
+}}
+{{#if:{{{price&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#c41e3a; color:#000;" {{!}}'''Price'''
+{{!}}{{{price}}}
+{{!}}-
+}}
+{{#if:{{{location&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#c41e3a; color:#000;" {{!}}'''Catch time'''
+{{!}}{{{catchTime}}}
+{{!}}-
+}}
+{{#if:{{{location&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#c41e3a; color:#000;" {{!}}'''Catch rate'''
+{{!}}{{{catchRate}}}
+{{!}}-
+}}
+{{#if:{{{location&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#c41e3a; color:#000;" {{!}}'''Locations'''
+{{!}}{{{location}}}
+{{!}}-
+}}
+|}&lt;noinclude&gt;
+
+== Code ==
+&lt;pre&gt;{{Infobox character general
+|name       = 
+|image      = 
+|caption    = 
+|price      = 
+|catchRate  = {{char|+}}
+|catchTime  = 
+|location  = 
+}}&lt;/pre&gt;</text>
+    <contributor>
+      <username>Singram</username>
+      <id>78</id>
+    </contributor>
+    <comment>/* Code */</comment>
+    <model>wikitext</model>
+    <parentid>8006</parentid>
+    <sha1>306906dfa023420a9886364ea3a6630283c3f2c2</sha1>
+  </revision>
+  <revision>
+    <id>8006</id>
+    <timestamp>2022-02-08T18:55:18Z</timestamp>
+    <text bytes="1249" space="preserve">{|class="infobox bordered" style="float:right; width:264px; font-size:90%; text-align:left; border:2px solid #94493a; padding:3px;" cellpadding="3"
+|- 
+!colspan="2" style="font-size:110%; text-align:center; background-color:#960018; color:#FFF;" | {{{name}}}
+|-
+{{#if:{{{image&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} colspan="2" style="text-align:center;" {{!}}{{{image}}}{{#if:{{{symbol|}}}|&lt;br /&gt;{{{symbol}}}}}{{#if:{{{caption|}}}|&lt;br /&gt;{{{caption}}}}}
+{{!}}-
+}}
+{{#if:{{{price&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#c41e3a; color:#000;" {{!}}'''Price'''
+{{!}}{{{price}}}
+{{!}}-
+}}
+{{#if:{{{location&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#c41e3a; color:#000;" {{!}}'''Catch time'''
+{{!}}{{{catchTime}}}
+{{!}}-
+}}
+{{#if:{{{location&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#c41e3a; color:#000;" {{!}}'''Catch rate'''
+{{!}}{{{catchRate}}}
+{{!}}-
+}}
+{{#if:{{{location&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#c41e3a; color:#000;" {{!}}'''Locations'''
+{{!}}{{{location}}}
+{{!}}-
+}}
+|}&lt;noinclude&gt;
+
+== Code ==
+&lt;pre&gt;{{Infobox character general
+|name       = 
+|image      = 
+|caption    = 
+|price      = 
+|catchRate  = "+" 
+|catchTime  = 
+|location  = 
+}}&lt;/pre&gt;</text>
+    <contributor>
+      <username>Singram</username>
+      <id>78</id>
+    </contributor>
+    <comment>/* Code */</comment>
+    <model>wikitext</model>
+    <parentid>8005</parentid>
+    <sha1>0ecebe1a67014823de566ac7cad10c461993288a</sha1>
+  </revision>
+  <revision>
+    <id>8005</id>
+    <timestamp>2022-02-08T18:50:52Z</timestamp>
+    <text bytes="1247" space="preserve">{|class="infobox bordered" style="float:right; width:264px; font-size:90%; text-align:left; border:2px solid #94493a; padding:3px;" cellpadding="3"
+|- 
+!colspan="2" style="font-size:110%; text-align:center; background-color:#960018; color:#FFF;" | {{{name}}}
+|-
+{{#if:{{{image&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} colspan="2" style="text-align:center;" {{!}}{{{image}}}{{#if:{{{symbol|}}}|&lt;br /&gt;{{{symbol}}}}}{{#if:{{{caption|}}}|&lt;br /&gt;{{{caption}}}}}
+{{!}}-
+}}
+{{#if:{{{price&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#c41e3a; color:#000;" {{!}}'''Price'''
+{{!}}{{{price}}}
+{{!}}-
+}}
+{{#if:{{{location&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#c41e3a; color:#000;" {{!}}'''Catch time'''
+{{!}}{{{catchTime}}}
+{{!}}-
+}}
+{{#if:{{{location&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#c41e3a; color:#000;" {{!}}'''Catch rate'''
+{{!}}{{{catchRate}}}
+{{!}}-
+}}
+{{#if:{{{location&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#c41e3a; color:#000;" {{!}}'''Locations'''
+{{!}}{{{location}}}
+{{!}}-
+}}
+|}&lt;noinclude&gt;
+
+== Code ==
+&lt;pre&gt;{{Infobox character general
+|name       = 
+|image      = 
+|caption    = 
+|price      = 
+|catchRate  = + 
+|catchTime  = 
+|location  = 
+}}&lt;/pre&gt;</text>
+    <contributor>
+      <username>Singram</username>
+      <id>78</id>
+    </contributor>
+    <comment>/* Code */</comment>
+    <model>wikitext</model>
+    <parentid>8004</parentid>
+    <sha1>49dbe5c14f67276ac486332b6a68f1e6fa7607cc</sha1>
+  </revision>
+  <revision>
+    <id>8004</id>
+    <timestamp>2022-02-08T18:49:27Z</timestamp>
+    <text bytes="1246" space="preserve">{|class="infobox bordered" style="float:right; width:264px; font-size:90%; text-align:left; border:2px solid #94493a; padding:3px;" cellpadding="3"
+|- 
+!colspan="2" style="font-size:110%; text-align:center; background-color:#960018; color:#FFF;" | {{{name}}}
+|-
+{{#if:{{{image&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} colspan="2" style="text-align:center;" {{!}}{{{image}}}{{#if:{{{symbol|}}}|&lt;br /&gt;{{{symbol}}}}}{{#if:{{{caption|}}}|&lt;br /&gt;{{{caption}}}}}
+{{!}}-
+}}
+{{#if:{{{price&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#c41e3a; color:#000;" {{!}}'''Price'''
+{{!}}{{{price}}}
+{{!}}-
+}}
+{{#if:{{{location&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#c41e3a; color:#000;" {{!}}'''Catch time'''
+{{!}}{{{catchTime}}}
+{{!}}-
+}}
+{{#if:{{{location&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#c41e3a; color:#000;" {{!}}'''Catch rate'''
+{{!}}{{{catchRate}}}
+{{!}}-
+}}
+{{#if:{{{location&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#c41e3a; color:#000;" {{!}}'''Locations'''
+{{!}}{{{location}}}
+{{!}}-
+}}
+|}&lt;noinclude&gt;
+
+== Code ==
+&lt;pre&gt;{{Infobox character general
+|name       = 
+|image      = 
+|caption    = 
+|price      = 
+|catchRate + = 
+|catchTime  = 
+|location  = 
+}}&lt;/pre&gt;</text>
+    <contributor>
+      <username>Singram</username>
+      <id>78</id>
+    </contributor>
+    <comment>/* Code */</comment>
+    <model>wikitext</model>
+    <parentid>8003</parentid>
+    <sha1>d53b6771f0b1be122372187d1e36143567a67e9a</sha1>
+  </revision>
+  <revision>
+    <id>8003</id>
+    <timestamp>2022-02-08T18:43:14Z</timestamp>
+    <text bytes="1249" space="preserve">{|class="infobox bordered" style="float:right; width:264px; font-size:90%; text-align:left; border:2px solid #94493a; padding:3px;" cellpadding="3"
+|- 
+!colspan="2" style="font-size:110%; text-align:center; background-color:#960018; color:#FFF;" | {{{name}}}
+|-
+{{#if:{{{image&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} colspan="2" style="text-align:center;" {{!}}{{{image}}}{{#if:{{{symbol|}}}|&lt;br /&gt;{{{symbol}}}}}{{#if:{{{caption|}}}|&lt;br /&gt;{{{caption}}}}}
+{{!}}-
+}}
+{{#if:{{{price&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#c41e3a; color:#000;" {{!}}'''Price'''
+{{!}}{{{price}}}
+{{!}}-
+}}
+{{#if:{{{location&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#c41e3a; color:#000;" {{!}}'''Catch time'''
+{{!}}{{{catchTime}}}
+{{!}}-
+}}
+{{#if:{{{location&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#c41e3a; color:#000;" {{!}}'''Catch rate'''
+{{!}}{{{catchRate}}}
+{{!}}-
+}}
+{{#if:{{{location&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#c41e3a; color:#000;" {{!}}'''Locations'''
+{{!}}{{{location}}}
+{{!}}-
+}}
+|}&lt;noinclude&gt;
+
+== Code ==
+&lt;pre&gt;{{Infobox character general
+|name       = 
+|image      = 
+|caption    = 
+|price      = 
+|catchRate  = +15%
+|catchTime  = 
+|location  = 
+}}&lt;/pre&gt;</text>
+    <contributor>
+      <username>Singram</username>
+      <id>78</id>
+    </contributor>
+    <comment>/* Code */</comment>
+    <model>wikitext</model>
+    <parentid>8002</parentid>
+    <sha1>85e27d01bc2c1d0671bc145ac2c1e5a5557f3119</sha1>
+  </revision>
+</page>

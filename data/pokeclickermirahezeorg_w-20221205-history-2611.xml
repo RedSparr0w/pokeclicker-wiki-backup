@@ -1,0 +1,907 @@
+<page>
+  <title>Safari Zone/fr</title>
+  <ns>0</ns>
+  <id>7716</id>
+  <revision>
+    <id>21814</id>
+    <timestamp>2022-08-05T14:26:36Z</timestamp>
+    <text bytes="4351" space="preserve">&lt;languages/&gt;
+{{Infobox battle item
+|name       = Parc Safari
+|image      = [[File:safarizone1.png]]
+|caption    = Le joueur dans le Parc Safari.
+|location   = Kanto
+}}
+
+
+Le '''Parc Safari''' est une région de  [[Kanto]] où le joueur peut dépenser 100 [[Quest Points|Points de Quêtes]] {{Questpoints}} pour tenter d'attraper des Pokémon uniques. Certains de ces Pokémon, à l'instar des jeux originaux, n'apparaissent que dans le Parc Safari.
+ 
+À l'entrée du Parc, le joueur reçoit 30 Safari balls. Lors d'un combat, il peut choisir entre attraper, lancer un caillou, lancer un appât, ou fuir. Pour débloquer cette zone le joueur doit tout d'abord récupérer le [[Safari Ticket|Pass Safari]].
+Les Pokémon encore non-attrapés ont deux fois plus de chances d'apparaitre.
+
+Le joueur peut sortir et entrer du Parc Safari à volonté sans devoir payer les 100 {{Questpoints}} à chaque fois. La seule raison de repayer les frais d'entrée est si le joueur n'a plus de Safari balls.
+
+==Pokémon==
+{| class="wikitable sortable" style
+|-
+! Pokémon !! Taux de rencontre
+|-
+| [[File:Nidoran(F).png|40px]] Nidoran(F)|| 9,04%
+|-
+| [[File:Nidorina.png|40px]] Nidorina || 6,02% 
+|-
+| [[File:Nidoran(M).png|40px]] Nidoran(M) || 15,06%
+|-
+| [[File:Nidorino.png|40px]] Nidorino || 6,02%
+|-
+| [[File:Exeggcute.png|40px]] Noeunoeuf || 12,05%
+|-
+| [[File:Paras.png|40px]] Paras || 3,01%
+|-
+| [[File:Parasect.png|40px]] Parasect || 9,04%
+|-
+| [[File:Rhyhorn.png|40px]] Rhinocorne || 6,02%
+|-
+| [[File:Chansey.png|40px]] Leveinard || 2,41%
+|-
+| [[File:Scyther.png|40px]] Insécateur || 2,41%
+|-
+| [[File:Pinsir.png|40px]] Scarabrute || 2,41%
+|-
+| [[File:Kangaskhan.png|40px]] Kangourex || 9,04%
+|-
+| [[File:Tauros.png|40px]] Tauros || 6,02%
+|-
+| [[File:Cubone.png|40px]] Osselait || 6,02%
+|-
+| [[File:Marowak.png|40px]] Ossatueur || 3,01%
+|-
+| [[File:Tangela.png|40px]] Saquedeneu|| 2,41%
+|}
+
+==Actions==
+{| class="wikitable"
+! Action !! Effet
+|-
+| Ball || Essaie d'attraper le Pokémon avec une Safari Ball. Selon les chances de capture, cette action peut échouer, après quoi le Pokémon peut fuir (sur la base de ses chances de fuite), vous regarder avec attention ou être furieux (c.à.d ne rien faire dans ces deux cas), ou encore continuer de manger l'appât. Si vous arrivez à court de Safari Ball, vous serez conduit à la sortie du Parc Safari, et sommé de payer les frais d'entrée à nouveau pour y retourner.
+|-
+| Caillou || Jette un caillou sur le Pokémon, lui retirant le statut "mange" et le rendant furieux entre 2 et 7 tours. Lorsqu'il est furieux, un Pokémon a deux fois plus de chances de se faire attraper, et de s'enfuir. 
+|-
+| Fuir || Fuit le combat et retourne dans le Parc Safari sans pénalité. 
+|-
+| colspan=2 | Les trois types d'appâts donnent aux Pokémon le statut "mange" et retirent le statut "furieux". Lorsqu'il mange, un Pokémon a deux fois moins de chance de se faire attraper, et a quatre fois moins de chance de fuir. Au début du combat, les Pokémon démarrent avec un taux de fuite de 30%.
+|-
+| Appât (générique) || Donne au Pokémon le statut "mange" entre 2 et 7 tours, sans plus d'effets.
+|-
+| Appât ( [[Berry|Baie]] [[Razz|Framby]]) || Donne au Pokémon le statut "mange" entre 2 et 8 tours. Divise ses chances de fuir par 1,5 pour le reste du combat, à moins qu'un autre type d'appât ne soit utilisé.
+|-
+| Appât ([[Berry|Baie]] [[Nanab]] ) || Donne au Pokémon le statut "mange" entre 2 et 8 tours. Multiplie les chances de l'attraper par 1,5 pour le reste du combat, à moins qu'un autre type d'appât ne soit utilisé.
+|}
+
+Exemple d'utilisation des appâts : 
+* Vous rencontrez un Parasect sauvage dans le Parc Safari. Vous avez '''12,5%''' de chance de le capturer, et il a '''30%''' de chance de fuir.
+* Au tour du joueur, vous utilisez une [[Nanab|Baie Nanab]] en appât. Vous multipliez vos chance de l'attraper par 1,5 : 12,5 * 1,5 = '''18,75%'''. Ses chances de fuir restent à '''30%'''.
+* Le Parasect mange. La chance de l'attraper diminue de moitié : 18,75 / 2 = '''9,375%'''. Sa chance de fuir, elle, est divisée par 4 : 30 / 4 = '''7,5%'''.
+* Après quelques tours, le Parasect a fini de manger. Les bonus liés à l'état sont inversés, mais le bonus de la [[Nanab|Baie Nanab]] persiste : la chance de l'attraper est de '''18,75%''', et sa chance de fuir est revenue à '''30%'''.</text>
+    <contributor>
+      <username>LuK</username>
+      <id>96</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>21813</parentid>
+    <sha1>ad80cc354abf79b210768e5bc2d4f5171657c69e</sha1>
+  </revision>
+  <revision>
+    <id>21813</id>
+    <timestamp>2022-08-05T14:25:33Z</timestamp>
+    <text bytes="4349" space="preserve">&lt;languages/&gt;
+{{Infobox battle item
+|name       = Parc Safari
+|image      = [[File:safarizone1.png]]
+|caption    = Le joueur dans le Parc Safari.
+|location   = Kanto
+}}
+
+
+Le '''Parc Safari''' est une région de  [[Kanto]] où le joueur peut dépenser 100 [[Quest Points|Points de Quêtes]] {{Questpoints}} pour tenter d'attraper des Pokémon uniques. Certains de ces Pokémon, à l'instar des jeux originaux, n'apparaissent que dans le Parc Safari.
+ 
+À l'entrée du Parc, le joueur reçoit 30 Safari balls. Lors d'un combat, il peut choisir entre attraper, lancer un caillou, lancer un appât, ou fuir. Pour débloquer cette zone le joueur doit tout d'abord récupérer le [[Safari Ticket|Pass Safari]].
+Les Pokémon encore non-attrapés ont deux fois plus de chances d'apparaitre.
+
+Le joueur peut sortir et entrer du Parc Safari à volonté sans devoir payer les 100 {{Questpoints}} à chaque fois. La seule raison de repayer les frais d'entrée est si le joueur n'a plus de Safari balls.
+
+==Pokémon==
+{| class="wikitable sortable" style
+|-
+! Pokémon !! Taux de rencontre
+|-
+| [[File:Nidoran(F).png|40px]] Nidoran(F)|| 9,04%
+|-
+| [[File:Nidorina.png|40px]] Nidorina || 6,02% 
+|-
+| [[File:Nidoran(M).png|40px]] Nidoran(M) || 15,06%
+|-
+| [[File:Nidorino.png|40px]] Nidorino || 6,02%
+|-
+| [[File:Exeggcute.png|40px]] Noeunoeuf || 12,05%
+|-
+| [[File:Paras.png|40px]] Paras || 3,01%
+|-
+| [[File:Parasect.png|40px]] Parasect || 9,04%
+|-
+| [[File:Rhyhorn.png|40px]] Rhinocorne || 6,02%
+|-
+| [[File:Chansey.png|40px]] Leveinard || 2,41%
+|-
+| [[File:Scyther.png|40px]] Insécateur || 2,41%
+|-
+| [[File:Pinsir.png|40px]] Scarabrute || 2,41%
+|-
+| [[File:Kangaskhan.png|40px]] Kangourex || 9,04%
+|-
+| [[File:Tauros.png|40px]] Tauros || 6,02%
+|-
+| [[File:Cubone.png|40px]] Osselait || 6,02%
+|-
+| [[File:Marowak.png|40px]] Ossatueur || 3,01%
+|-
+| [[File:Tangela.png|40px]] Saquedeneu|| 2,41%
+|}
+
+==Actions==
+{| class="wikitable"
+! Action !! Effet
+|-
+| Ball || Essaie d'attraper le Pokémon avec une Safari Ball. Selon les chances de capture, cette action peut échouer, après quoi le Pokémon peut fuir (sur la base de ses chances de fuite), vous regarder avec attention ou être furieux (c.à.d ne rien faire dans ces deux cas), ou encore continuer de manger l'appât. Si vous arrivez à court de Safari Ball, vous serez conduit à la sortie du Parc Safari, et sommé de payer les frais d'entrée à nouveau pour y retourner.
+|-
+| Caillou || Jette un caillou sur le Pokémon, lui retirant le statut "mange" et le rendant furieux entre 2 et 7 tours. Lorsqu'il est furieux, un Pokémon a deux fois plus de chances de se faire attraper, et de s'enfuir. 
+|-
+| Fuir || Fuit le combat et retourne dans le Parc Safari sans pénalité. 
+|-
+| colspan=2 | Les trois types d'appâts donnent aux Pokémon le statut "mange" et retirent le statut "furieux". Lorsqu'il mange, un Pokémon a deux fois moins de chance de se faire attraper, et a quatre fois moins de chance de fuir. Au début du combat, les Pokémon démarrent avec un taux de fuite de 30%.
+|-
+| Appât (générique) || Donne au Pokémon le statut "mange" entre 2 et 7 tours, sans plus d'effets.
+|-
+| Appât ( [[Berry|Baie]] [[Razz|Framby]]) || Donne au Pokémon le statut "mange" entre 2 et 8 tours. Divise ses chances de fuir par 1,5 pour le reste du combat, à moins qu'un autre type d'appât ne soit utilisé.
+|-
+| Appât ([[Berry|Baie]] [[Nanab]] ) || Donne au Pokémon le statut "mange" entre 2 et 8 tours. Multiplie les chances de l'attraper par 1,5 pour le reste du combat, à moins qu'un autre type d'appât ne soit utilisé.
+|}
+
+Exemple d'utilisation des appâts : 
+* Vous rencontrez un Parasect sauvage dans le Parc Safari. Vous avez '''12,5%''' de chance de le capturer, et il a '''30%''' de chance de fuir.
+* Au tour du joueur, vous utilisez une [[Nanab|Baie Nanab]] en appât. Vous multipliez vos chance de l'attraper par 1,5 : 12,5 * 1,5 = '''18,75%'''. Ses chances de fuir restent à '''30%'''.
+* Le Parasect mange. La chance de l'attraper diminue de moitié : 18,75 / 2 = '''9,375%'''. Sa chance de fuir elle est divisée par 4 : 30 / 4 = '''7,5%'''.
+* Après quelques tours, le Parasect a fini de manger. Les bonus liés à l'état sont inversés, mais le bonus de la [[Nanab|Baie Nanab]] persiste : la chance de l'attraper est de '''18,75%''', et sa chance de fuir est revenue à '''30%'''.</text>
+    <contributor>
+      <username>LuK</username>
+      <id>96</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>21812</parentid>
+    <sha1>995cd691cc5504daec76721c176232ff10e1a9e2</sha1>
+  </revision>
+  <revision>
+    <id>21812</id>
+    <timestamp>2022-08-05T14:21:04Z</timestamp>
+    <text bytes="4350" space="preserve">&lt;languages/&gt;
+{{Infobox battle item
+|name       = Parc Safari
+|image      = [[File:safarizone1.png]]
+|caption    = Le joueur dans le Parc Safari.
+|location   = Kanto
+}}
+
+
+Le '''Parc Safari''' est une région de  [[Kanto]] où le joueur peut dépenser 100 [[Quest Points|Points de Quêtes]] {{Questpoints}} pour tenter d'attraper des Pokémon uniques. Certains de ces Pokémon, à l'instar des jeux originaux, n'apparaissent que dans le Parc Safari.
+ 
+À l'entrée du Parc, le joueur reçoit 30 Safari balls. Lors d'un combat, il peut choisir entre attraper, lancer un caillou, lancer un appât, ou fuir. Pour débloquer cette zone le joueur doit tout d'abord récupérer le [[Safari Ticket|Pass Safari]].
+Les Pokémon encore non-attrapés ont deux fois plus de chances d'apparaitre.
+
+Le joueur peut sortir et entrer du Parc Safari à volonté sans devoir payer les 100 {{Questpoints}} à chaque fois. La seule raison de repayer les frais d'entrée est si le joueur n'a plus de Safari balls.
+
+==Pokémon==
+{| class="wikitable sortable" style
+|-
+! Pokémon !! Taux de rencontre
+|-
+| [[File:Nidoran(F).png|40px]] Nidoran(F)|| 9,04%
+|-
+| [[File:Nidorina.png|40px]] Nidorina || 6,02% 
+|-
+| [[File:Nidoran(M).png|40px]] Nidoran(M) || 15,06%
+|-
+| [[File:Nidorino.png|40px]] Nidorino || 6,02%
+|-
+| [[File:Exeggcute.png|40px]] Noeunoeuf || 12,05%
+|-
+| [[File:Paras.png|40px]] Paras || 3,01%
+|-
+| [[File:Parasect.png|40px]] Parasect || 9,04%
+|-
+| [[File:Rhyhorn.png|40px]] Rhinocorne || 6,02%
+|-
+| [[File:Chansey.png|40px]] Leveinard || 2,41%
+|-
+| [[File:Scyther.png|40px]] Insécateur || 2,41%
+|-
+| [[File:Pinsir.png|40px]] Scarabrute || 2,41%
+|-
+| [[File:Kangaskhan.png|40px]] Kangourex || 9,04%
+|-
+| [[File:Tauros.png|40px]] Tauros || 6,02%
+|-
+| [[File:Cubone.png|40px]] Osselait || 6,02%
+|-
+| [[File:Marowak.png|40px]] Ossatueur || 3,01%
+|-
+| [[File:Tangela.png|40px]] Saquedeneu|| 2,41%
+|}
+
+==Actions==
+{| class="wikitable"
+! Action !! Effet
+|-
+| Ball || Essaie d'attraper le Pokémon avec une Safari Ball. Basé sur les chances de capture, cette action peut échouer, après quoi le Pokémon peut fuir (sur la base de ses chances de fuite), vous regarder avec attention, être furieux (c.à.d ne rien faire dans ces deux cas), ou continuer de manger l'appât. Si vous arrivez à court de Safari Ball, vous serez conduit à la sortie du Parc Safari, vous demandant de payer les frais d'entrée à nouveau pour y retourner.
+|-
+| Caillou || Jette un caillou vers le Pokémon, lui retirant le statut "mange" et le rendant furieux entre 2 et 7 tours. Lorsqu'il est furieux, un Pokémon a deux fois plus de chances de se faire attraper, et de s'enfuir. 
+|-
+| Fuir || Fuit le combat et retourne dans le Parc Safari sans pénalité. 
+|-
+| colspan=2 | Les trois types d'appâts donnent aux Pokémon le statut "mange" et retirent le statut "furieux". Lorsqu'il mange, un Pokémon a deux fois moins de chance de se faire attraper, et a quatre fois moins de chance de fuir. Au début du combat, les Pokémon démarrent avec un taux de fuite de 30%.
+|-
+| Appât (générique) || Donne au Pokémon le statut "mange" entre 2 et 7 tours, sans plus d'effets.
+|-
+| Appât ( [[Berry|Baie]] [[Razz|Framby]]) || Donne au Pokémon le statut "mange" entre 2 et 8 tours. Divise ses chances de fuir par 1,5 pour le reste du combat, à moins qu'un autre type d'appât ne soit utilisé.
+|-
+| Appât ([[Berry|Baie]] [[Nanab]] ) || Donne au Pokémon le statut "mange" entre 2 et 8 tours. Multiplie les chances de l'attraper par 1,5 pour le reste du combat, à moins qu'un autre type d'appât ne soit utilisé.
+|}
+
+Exemple d'utilisation des appâts : 
+* Vous rencontrez un Parasect sauvage dans le Parc Safari. Vous avez '''12,5%''' de chance de le capturer, et il a '''30%''' de chance de fuir.
+* Au tour du joueur, vous utilisez une [[Nanab|Baie Nanab]] en appât. Vous multipliez vos chance de l'attraper par 1,5 : 12,5 * 1,5 = '''18,75%'''. Ses chances de fuir restent à '''30%'''.
+* Le Parasect mange. La chance de l'attraper diminue de moitié : 18,75 / 2 = '''9,375%'''. Sa chance de fuir elle est divisée par 4 : 30 / 4 = '''7,5%'''.
+* Après quelques tours, le Parasect a fini de manger. Les bonus liés à l'état sont inversés, mais le bonus de la [[Nanab|Baie Nanab]] persiste : la chance de l'attraper est de '''18,75%''', et sa chance de fuir est revenue à '''30%'''.</text>
+    <contributor>
+      <username>LuK</username>
+      <id>96</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>21811</parentid>
+    <sha1>c1c5e179a9d1704b7bd1243c9494d301a35dba3d</sha1>
+  </revision>
+  <revision>
+    <id>21811</id>
+    <timestamp>2022-08-05T14:20:21Z</timestamp>
+    <text bytes="4349" space="preserve">&lt;languages/&gt;
+{{Infobox battle item
+|name       = Parc Safari
+|image      = [[File:safarizone1.png]]
+|caption    = Le joueur dans le Parc Safari.
+|location   = Kanto
+}}
+
+
+Le '''Parc Safari''' est une région de  [[Kanto]] où le joueur peut dépenser 100 [[Quest Points|Points de Quêtes]] {{Questpoints}} pour tenter d'attraper des Pokémon uniques. Certains de ces Pokémon, à l'instar des jeux originaux, n'apparaissent que dans le Parc Safari.
+ 
+À l'entrée du Parc, le joueur reçoit 30 Safari balls. Lors d'un combat, il peut choisir entre attraper, lancer un caillou, lancer un appât, ou fuir. Pour débloquer cette zone le joueur doit tout d'abord récupérer le [[Safari Ticket|Pass Safari]].
+Les Pokémon encore non-attrapés ont deux fois plus de chances d'apparaitre.
+
+Le joueur peut sortir et entrer du Parc Safari à volonté sans devoir payer les 100 {{Questpoints}} à chaque fois. La seule raison de repayer les frais d'entrée est si le joueur n'a plus de Safari balls
+
+==Pokémon==
+{| class="wikitable sortable" style
+|-
+! Pokémon !! Taux de rencontre
+|-
+| [[File:Nidoran(F).png|40px]] Nidoran(F)|| 9,04%
+|-
+| [[File:Nidorina.png|40px]] Nidorina || 6,02% 
+|-
+| [[File:Nidoran(M).png|40px]] Nidoran(M) || 15,06%
+|-
+| [[File:Nidorino.png|40px]] Nidorino || 6,02%
+|-
+| [[File:Exeggcute.png|40px]] Noeunoeuf || 12,05%
+|-
+| [[File:Paras.png|40px]] Paras || 3,01%
+|-
+| [[File:Parasect.png|40px]] Parasect || 9,04%
+|-
+| [[File:Rhyhorn.png|40px]] Rhinocorne || 6,02%
+|-
+| [[File:Chansey.png|40px]] Leveinard || 2,41%
+|-
+| [[File:Scyther.png|40px]] Insécateur || 2,41%
+|-
+| [[File:Pinsir.png|40px]] Scarabrute || 2,41%
+|-
+| [[File:Kangaskhan.png|40px]] Kangourex || 9,04%
+|-
+| [[File:Tauros.png|40px]] Tauros || 6,02%
+|-
+| [[File:Cubone.png|40px]] Osselait || 6,02%
+|-
+| [[File:Marowak.png|40px]] Ossatueur || 3,01%
+|-
+| [[File:Tangela.png|40px]] Saquedeneu|| 2,41%
+|}
+
+==Actions==
+{| class="wikitable"
+! Action !! Effet
+|-
+| Ball || Essaie d'attraper le Pokémon avec une Safari Ball. Basé sur les chances de capture, cette action peut échouer, après quoi le Pokémon peut fuir (sur la base de ses chances de fuite), vous regarder avec attention, être furieux (c.à.d ne rien faire dans ces deux cas), ou continuer de manger l'appât. Si vous arrivez à court de Safari Ball, vous serez conduit à la sortie du Parc Safari, vous demandant de payer les frais d'entrée à nouveau pour y retourner.
+|-
+| Caillou || Jette un caillou vers le Pokémon, lui retirant le statut "mange" et le rendant furieux entre 2 et 7 tours. Lorsqu'il est furieux, un Pokémon a deux fois plus de chances de se faire attraper, et de s'enfuir. 
+|-
+| Fuir || Fuit le combat et retourne dans le Parc Safari sans pénalité. 
+|-
+| colspan=2 | Les trois types d'appâts donnent aux Pokémon le statut "mange" et retirent le statut "furieux". Lorsqu'il mange, un Pokémon a deux fois moins de chance de se faire attraper, et a quatre fois moins de chance de fuir. Au début du combat, les Pokémon démarrent avec un taux de fuite de 30%.
+|-
+| Appât (générique) || Donne au Pokémon le statut "mange" entre 2 et 7 tours, sans plus d'effets.
+|-
+| Appât ( [[Berry|Baie]] [[Razz|Framby]]) || Donne au Pokémon le statut "mange" entre 2 et 8 tours. Divise ses chances de fuir par 1,5 pour le reste du combat, à moins qu'un autre type d'appât ne soit utilisé.
+|-
+| Appât ([[Berry|Baie]] [[Nanab]] ) || Donne au Pokémon le statut "mange" entre 2 et 8 tours. Multiplie les chances de l'attraper par 1,5 pour le reste du combat, à moins qu'un autre type d'appât ne soit utilisé.
+|}
+
+Exemple d'utilisation des appâts : 
+* Vous rencontrez un Parasect sauvage dans le Parc Safari. Vous avez '''12,5%''' de chance de le capturer, et il a '''30%''' de chance de fuir.
+* Au tour du joueur, vous utilisez une [[Nanab|Baie Nanab]] en appât. Vous multipliez vos chance de l'attraper par 1,5 : 12,5 * 1,5 = '''18,75%'''. Ses chances de fuir restent à '''30%'''.
+* Le Parasect mange. La chance de l'attraper diminue de moitié : 18,75 / 2 = '''9,375%'''. Sa chance de fuir elle est divisée par 4 : 30 / 4 = '''7,5%'''.
+* Après quelques tours, le Parasect a fini de manger. Les bonus liés à l'état sont inversés, mais le bonus de la [[Nanab|Baie Nanab]] persiste : la chance de l'attraper est de '''18,75%''', et sa chance de fuir est revenue à '''30%'''.</text>
+    <contributor>
+      <username>LuK</username>
+      <id>96</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>21810</parentid>
+    <sha1>1a753d2fa7c75d75a8fdead8705a24b932dd6160</sha1>
+  </revision>
+  <revision>
+    <id>21810</id>
+    <timestamp>2022-08-05T14:19:07Z</timestamp>
+    <text bytes="4370" space="preserve">&lt;languages/&gt;
+{{Infobox battle item
+|name       = Parc Safari
+|image      = [[File:safarizone1.png]]
+|caption    = Le joueur dans le Parc Safari.
+|location   = Kanto
+}}
+
+
+Le '''Parc Safari''' est une région de  [[Kanto]] où le joueur peut dépenser 100 [[Quest Points|Points de Quêtes]] {{Questpoints}} pour tenter d'attraper des Pokémon unique à la région. Certains de ces Pokémon, à l'instar des jeux originaux, n'apparaissent que dans le Parc Safari.
+ 
+À l'entrée du Parc, le joueur reçoit 30 Safari balls. Lors d'un combat, il peut choisir entre attraper, lancer un caillou, lancer un appât ou fuir. Pour débloquer cette zone le joueur doit tout d'abord récupérer le [[Safari Ticket|Pass Safari]].
+Les Pokémon non-attrapés ont deux fois plus de chances d'apparaitre qu'à la normal.
+
+Le joueur peut sortir et entrer du Parc Safari à volonté sans devoir payer les 100 {{Questpoints}} à chaque fois. La seule raison de repayer les frais d'entrée est si le joueur n'a plus de Safari balls
+
+==Pokémon==
+{| class="wikitable sortable" style
+|-
+! Pokémon !! Taux de rencontre
+|-
+| [[File:Nidoran(F).png|40px]] Nidoran(F)|| 9,04%
+|-
+| [[File:Nidorina.png|40px]] Nidorina || 6,02% 
+|-
+| [[File:Nidoran(M).png|40px]] Nidoran(M) || 15,06%
+|-
+| [[File:Nidorino.png|40px]] Nidorino || 6,02%
+|-
+| [[File:Exeggcute.png|40px]] Noeunoeuf || 12,05%
+|-
+| [[File:Paras.png|40px]] Paras || 3,01%
+|-
+| [[File:Parasect.png|40px]] Parasect || 9,04%
+|-
+| [[File:Rhyhorn.png|40px]] Rhinocorne || 6,02%
+|-
+| [[File:Chansey.png|40px]] Leveinard || 2,41%
+|-
+| [[File:Scyther.png|40px]] Insécateur || 2,41%
+|-
+| [[File:Pinsir.png|40px]] Scarabrute || 2,41%
+|-
+| [[File:Kangaskhan.png|40px]] Kangourex || 9,04%
+|-
+| [[File:Tauros.png|40px]] Tauros || 6,02%
+|-
+| [[File:Cubone.png|40px]] Osselait || 6,02%
+|-
+| [[File:Marowak.png|40px]] Ossatueur || 3,01%
+|-
+| [[File:Tangela.png|40px]] Saquedeneu|| 2,41%
+|}
+
+==Actions==
+{| class="wikitable"
+! Action !! Effet
+|-
+| Ball || Essaie d'attraper le Pokémon avec une Safari Ball. Basé sur les chances de capture, cette action peut échouer, après quoi le Pokémon peut fuir (sur la base de ses chances de fuite), vous regarder avec attention, être furieux (c.à.d ne rien faire dans ces deux cas), ou continuer de manger l'appât. Si vous arrivez à court de Safari Ball, vous serez conduit à la sortie du Parc Safari, vous demandant de payer les frais d'entrée à nouveau pour y retourner.
+|-
+| Caillou || Jette un caillou vers le Pokémon, lui retirant le statut "mange" et le rendant furieux entre 2 et 7 tours. Lorsqu'il est furieux, un Pokémon a deux fois plus de chances de se faire attraper, et de s'enfuir. 
+|-
+| Fuir || Fuit le combat et retourne dans le Parc Safari sans pénalité. 
+|-
+| colspan=2 | Les trois types d'appâts donnent aux Pokémon le statut "mange" et retirent le statut "furieux". Lorsqu'il mange, un Pokémon a deux fois moins de chance de se faire attraper, et a quatre fois moins de chance de fuir. Au début du combat, les Pokémon démarrent avec un taux de fuite de 30%.
+|-
+| Appât (générique) || Donne au Pokémon le statut "mange" entre 2 et 7 tours, sans plus d'effets.
+|-
+| Appât ( [[Berry|Baie]] [[Razz|Framby]]) || Donne au Pokémon le statut "mange" entre 2 et 8 tours. Divise ses chances de fuir par 1,5 pour le reste du combat, à moins qu'un autre type d'appât ne soit utilisé.
+|-
+| Appât ([[Berry|Baie]] [[Nanab]] ) || Donne au Pokémon le statut "mange" entre 2 et 8 tours. Multiplie les chances de l'attraper par 1,5 pour le reste du combat, à moins qu'un autre type d'appât ne soit utilisé.
+|}
+
+Exemple d'utilisation des appâts : 
+* Vous rencontrez un Parasect sauvage dans le Parc Safari. Vous avez '''12,5%''' de chance de le capturer, et il a '''30%''' de chance de fuir.
+* Au tour du joueur, vous utilisez une [[Nanab|Baie Nanab]] en appât. Vous multipliez vos chance de l'attraper par 1,5 : 12,5 * 1,5 = '''18,75%'''. Ses chances de fuir restent à '''30%'''.
+* Le Parasect mange. La chance de l'attraper diminue de moitié : 18,75 / 2 = '''9,375%'''. Sa chance de fuir elle est divisée par 4 : 30 / 4 = '''7,5%'''.
+* Après quelques tours, le Parasect a fini de manger. Les bonus liés à l'état sont inversés, mais le bonus de la [[Nanab|Baie Nanab]] persiste : la chance de l'attraper est de '''18,75%''', et sa chance de fuir est revenue à '''30%'''.</text>
+    <contributor>
+      <username>PetroleVB</username>
+      <id>36</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>21809</parentid>
+    <sha1>586ed38871b2042ede050b2cf5284c3e5a7b7329</sha1>
+  </revision>
+  <revision>
+    <id>21809</id>
+    <timestamp>2022-08-05T14:18:48Z</timestamp>
+    <text bytes="4372" space="preserve">&lt;languages/&gt;
+{{Infobox battle item
+|name       = Parc Safari
+|image      = [[File:safarizone1.png]]
+|caption    = Le joueur dans le Parc Safari.
+|location   = Kanto
+}}
+
+
+Le '''Parc Safari''' est une région de  [[Kanto]] où le joueur peut dépenser 100 [[Quest Points|Points de Quêtes]] {{Questpoints}} pour tenter d'attraper des Pokémon unique à la région. Certains de ces Pokémon, à l'instar des jeux originaux, n'apparaissent que dans le Parc Safari.
+ 
+À l'entrée du Parc, le joueur reçoit 30 Safari balls. Lors d'un combat, il peut choisir entre attraper, lancer un caillou, lancer un appât ou fuir. Pour débloquer cette zone le joueur doit tout d'abord récupérer le [[Safari Ticket|Pass Safari]].
+Les Pokémon non-attrapés ont deux fois plus de chances d'apparaitre qu'à la normal.
+
+Le joueur peut sortir et entrer du Parc Safari à volonté sans devoir payer les 100 {{Questpoints}} à chaque fois. La seule raison de repayer les frais d'entrée est si le joueur n'a plus de Safari balls
+
+==Pokémon==
+{| class="wikitable sortable" style
+|-
+! Pokémon !! Taux de rencontre
+|-
+| [[File:Nidoran(F).png|40px]] Nidoran(F)|| 9,04%
+|-
+| [[File:Nidorina.png|40px]] Nidorina || 6,02% 
+|-
+| [[File:Nidoran(M).png|40px]] Nidoran(M) || 15,06%
+|-
+| [[File:Nidorino.png|40px]] Nidorino || 6,02%
+|-
+| [[File:Exeggcute.png|40px]] Noeunoeuf || 12,05%
+|-
+| [[File:Paras.png|40px]] Paras || 3,01%
+|-
+| [[File:Parasect.png|40px]] Parasect || 9,04%
+|-
+| [[File:Rhyhorn.png|40px]] Rhinocorne || 6,02%
+|-
+| [[File:Chansey.png|40px]] Leveinard || 2,41%
+|-
+| [[File:Scyther.png|40px]] Insécateur || 2,41%
+|-
+| [[File:Pinsir.png|40px]] Scarabrute || 2,41%
+|-
+| [[File:Kangaskhan.png|40px]] Kangourex || 9,04%
+|-
+| [[File:Tauros.png|40px]] Tauros || 6,02%
+|-
+| [[File:Cubone.png|40px]] Osselait || 6,02%
+|-
+| [[File:Marowak.png|40px]] Ossatueur || 3,01%
+|-
+| [[File:Tangela.png|40px]] Saquedeneu|| 2,41%
+|}
+
+==Actions==
+{| class="wikitable"
+! Action !! Effet
+|-
+| Ball || Essaie d'attraper le Pokémon avec une Safari Ball. Basé sur les chances de capture, cette action peut échouer, après quoi le Pokémon peut fuir (sur la base de ses chances de fuite), vous regarder avec attention, être furieux (c.à.d ne rien faire dans ces deux cas), ou continuer de manger l'appât. Si vous arrivez à court de Safari Ball, vous serez conduit à la sortie du Parc Safari, vous demandant de payer les frais d'entrée à nouveau pour y retourner.
+|-
+| Caillou || Jette un caillou vers le Pokémon, lui retirant le statut "mange" et le rendant furieux entre 2 et 7 tours. Lorsqu'il est furieux, un Pokémon a deux fois plus de chances de se faire attraper, et de s'enfuir. 
+|-
+| Fuir || Fuit le combat et retourne dans le Parc Safari sans pénalité. 
+|-
+| colspan=2 | Les trois types d'appâts donnent aux Pokémons le statut "mange" et retirent le statut "furieux". Lorsqu'il mange, un Pokémon a deux fois moins de chance de se faire attraper, et a quatre fois moins de chance de fuir. Au début du combat, les Pokémons démarrent avec un taux de fuite de 30%.
+|-
+| Appât (générique) || Donne au Pokémon le statut "mange" entre 2 et 7 tours, sans plus d'effets.
+|-
+| Appât ( [[Berry|Baie]] [[Razz|Framby]]) || Donne au Pokémon le statut "mange" entre 2 et 8 tours. Divise ses chances de fuir par 1,5 pour le reste du combat, à moins qu'un autre type d'appât ne soit utilisé.
+|-
+| Appât ([[Berry|Baie]] [[Nanab]] ) || Donne au Pokémon le statut "mange" entre 2 et 8 tours. Multiplie les chances de l'attraper par 1,5 pour le reste du combat, à moins qu'un autre type d'appât ne soit utilisé.
+|}
+
+Exemple d'utilisation des appâts : 
+* Vous rencontrez un Parasect sauvage dans le Parc Safari. Vous avez '''12,5%''' de chance de le capturer, et il a '''30%''' de chance de fuir.
+* Au tour du joueur, vous utilisez une [[Nanab|Baie Nanab]] en appât. Vous multipliez vos chance de l'attraper par 1,5 : 12,5 * 1,5 = '''18,75%'''. Ses chances de fuir restent à '''30%'''.
+* Le Parasect mange. La chance de l'attraper diminue de moitié : 18,75 / 2 = '''9,375%'''. Sa chance de fuir elle est divisée par 4 : 30 / 4 = '''7,5%'''.
+* Après quelques tours, le Parasect a fini de manger. Les bonus liés à l'état sont inversés, mais le bonus de la [[Nanab|Baie Nanab]] persiste : la chance de l'attraper est de '''18,75%''', et sa chance de fuir est revenue à '''30%'''.</text>
+    <contributor>
+      <username>PetroleVB</username>
+      <id>36</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>21808</parentid>
+    <sha1>c41fea3449498ec1f5162efc6aa86ecdf60b6fec</sha1>
+  </revision>
+  <revision>
+    <id>21808</id>
+    <timestamp>2022-08-05T14:08:00Z</timestamp>
+    <text bytes="4374" space="preserve">&lt;languages/&gt;
+{{Infobox battle item
+|name       = Parc Safari
+|image      = [[File:safarizone1.png]]
+|caption    = Le joueur dans le Parc Safari.
+|location   = Kanto
+}}
+
+
+Le '''Parc Safari''' est une région de  [[Kanto]] où le joueur peut dépenser 100 [[Quest Points|Points de Quêtes]] {{Questpoints}} pour tenter d'attraper des pokémons unique à la région. Certains de ces pokémon, à l'instar des jeux originaux, n'apparaissent que dans le Parc Safari.
+ 
+À l'entrée du Parc, le joueur reçoit 30 Safari balls. Lors d'un combat, il peut choisir entre attraper, lancer un caillou, lancer un appât ou fuir. Pour débloquer cette zone le joueur doit tout d'abord récupérer le [[Safari Ticket|Pass Safari]].
+Les Pokémons non-attrapés ont deux fois plus de chances d'apparaitre qu'à la normal.
+
+Le joueur peut sortir et entrer du Parc Safari à volonté sans devoir payer les 100 {{Questpoints}} à chaque fois. La seule raison de repayer les frais d'entrée est si le joueur n'a plus de Safari balls
+
+==Pokémon==
+{| class="wikitable sortable" style
+|-
+! Pokémon !! Taux de rencontre
+|-
+| [[File:Nidoran(F).png|40px]] Nidoran(F)|| 9,04%
+|-
+| [[File:Nidorina.png|40px]] Nidorina || 6,02% 
+|-
+| [[File:Nidoran(M).png|40px]] Nidoran(M) || 15,06%
+|-
+| [[File:Nidorino.png|40px]] Nidorino || 6,02%
+|-
+| [[File:Exeggcute.png|40px]] Noeunoeuf || 12,05%
+|-
+| [[File:Paras.png|40px]] Paras || 3,01%
+|-
+| [[File:Parasect.png|40px]] Parasect || 9,04%
+|-
+| [[File:Rhyhorn.png|40px]] Rhinocorne || 6,02%
+|-
+| [[File:Chansey.png|40px]] Leveinard || 2,41%
+|-
+| [[File:Scyther.png|40px]] Insécateur || 2,41%
+|-
+| [[File:Pinsir.png|40px]] Scarabrute || 2,41%
+|-
+| [[File:Kangaskhan.png|40px]] Kangourex || 9,04%
+|-
+| [[File:Tauros.png|40px]] Tauros || 6,02%
+|-
+| [[File:Cubone.png|40px]] Osselait || 6,02%
+|-
+| [[File:Marowak.png|40px]] Ossatueur || 3,01%
+|-
+| [[File:Tangela.png|40px]] Saquedeneu|| 2,41%
+|}
+
+==Actions==
+{| class="wikitable"
+! Action !! Effet
+|-
+| Ball || Essaie d'attraper le Pokémon avec une Safari Ball. Basé sur les chances de capture, cette action peut échouer, après quoi le Pokémon peut fuir (sur la base de ses chances de fuite), vous regarder avec attention, être furieux (c.à.d ne rien faire dans ces deux cas), ou continuer de manger l'appât. Si vous arrivez à court de Safari Ball, vous serez conduit à la sortie du Parc Safari, vous demandant de payer les frais d'entrée à nouveau pour y retourner.
+|-
+| Caillou || Jette un caillou vers le Pokémon, lui retirant le statut "mange" et le rendant furieux entre 2 et 7 tours. Lorsqu'il est furieux, un Pokémon a deux fois plus de chances de se faire attraper, et de s'enfuir. 
+|-
+| Fuir || Fuit le combat et retourne dans le Parc Safari sans pénalité. 
+|-
+| colspan=2 | Les trois types d'appâts donnent aux Pokémons le statut "mange" et retirent le statut "furieux". Lorsqu'il mange, un Pokémon a deux fois moins de chance de se faire attraper, et a quatre fois moins de chance de fuir. Au début du combat, les Pokémons démarrent avec un taux de fuite de 30%.
+|-
+| Appât (générique) || Donne au Pokémon le statut "mange" entre 2 et 7 tours, sans plus d'effets.
+|-
+| Appât ( [[Berry|Baie]] [[Razz|Framby]]) || Donne au Pokémon le statut "mange" entre 2 et 8 tours. Divise ses chances de fuir par 1,5 pour le reste du combat, à moins qu'un autre type d'appât ne soit utilisé.
+|-
+| Appât ([[Berry|Baie]] [[Nanab]] ) || Donne au Pokémon le statut "mange" entre 2 et 8 tours. Multiplie les chances de l'attraper par 1,5 pour le reste du combat, à moins qu'un autre type d'appât ne soit utilisé.
+|}
+
+Exemple d'utilisation des appâts : 
+* Vous rencontrez un Parasect sauvage dans le Parc Safari. Vous avez '''12,5%''' de chance de le capturer, et il a '''30%''' de chance de fuir.
+* Au tour du joueur, vous utilisez une [[Nanab|Baie Nanab]] en appât. Vous multipliez vos chance de l'attraper par 1,5 : 12,5 * 1,5 = '''18,75%'''. Ses chances de fuir restent à '''30%'''.
+* Le Parasect mange. La chance de l'attraper diminue de moitié : 18,75 / 2 = '''9,375%'''. Sa chance de fuir elle est divisée par 4 : 30 / 4 = '''7,5%'''.
+* Après quelques tours, le Parasect a fini de manger. Les bonus liés à l'état sont inversés, mais le bonus de la [[Nanab|Baie Nanab]] persiste : la chance de l'attraper est de '''18,75%''', et sa chance de fuir est revenue à '''30%'''.</text>
+    <contributor>
+      <username>PetroleVB</username>
+      <id>36</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>21807</parentid>
+    <sha1>fd6dbfb25d6a91b9b628709adcd897090e397ba7</sha1>
+  </revision>
+  <revision>
+    <id>21807</id>
+    <timestamp>2022-08-05T14:05:18Z</timestamp>
+    <text bytes="4374" space="preserve">&lt;languages/&gt;
+{{Infobox battle item
+|name       = Parc Safari
+|image      = [[File:safarizone1.png]]
+|caption    = Le joueur dans le Parc Safari.
+|location   = Kanto
+}}
+
+
+Le '''Parc Safari''' est une région de  [[Kanto]] où le joueur peut dépenser 100 [[Quest Points|Points de Quêtes]] {{Questpoints}} pour tenter d'attraper des pokémons unique à la région. Certains de ces pokémon, à l'instar des jeux originaux, n'apparaissent que dans le Parc Safari.
+ 
+À l'entrée du Parc, le joueur reçoit 30 Safari balls. Lors d'un combat, il peut choisir entre attraper, lancer un caillou, lancer un appât ou fuir. Pour débloquer cette zone le joueur doit tout d'abord récupérer le [[Safari Ticket|Pass Safari]].
+Les Pokémons non-attrapés ont deux fois plus de chances d'apparaitre qu'à la normal.
+
+Le joueur peut sortir et entrer du Parc Safari à volonté sans devoir payer les 100 {{Questpoints}} à chaque fois. La seule raison de repayer les frais d'entrée est si le joueur n'a plus de Safari balls
+
+==Pokémon==
+{| class="wikitable sortable" style
+|-
+! Pokémon !! Taux de rencontre
+|-
+| [[File:Nidoran(F).png|40px]] Nidoran(F)|| 9.04%
+|-
+| [[File:Nidorina.png|40px]] Nidorina || 6.02% 
+|-
+| [[File:Nidoran(M).png|40px]] Nidoran(M) || 15.06%
+|-
+| [[File:Nidorino.png|40px]] Nidorino || 6.02%
+|-
+| [[File:Exeggcute.png|40px]] Noeunoeuf || 12.05%
+|-
+| [[File:Paras.png|40px]] Paras || 3.01%
+|-
+| [[File:Parasect.png|40px]] Parasect || 9.04%
+|-
+| [[File:Rhyhorn.png|40px]] Rhinocorne || 6.02%
+|-
+| [[File:Chansey.png|40px]] Leveinard || 2.41%
+|-
+| [[File:Scyther.png|40px]] Insécateur || 2.41%
+|-
+| [[File:Pinsir.png|40px]] Scarabrute || 2.41%
+|-
+| [[File:Kangaskhan.png|40px]] Kangourex || 9.04%
+|-
+| [[File:Tauros.png|40px]] Tauros || 6.02%
+|-
+| [[File:Cubone.png|40px]] Osselait || 6.02%
+|-
+| [[File:Marowak.png|40px]] Ossatueur || 3.01%
+|-
+| [[File:Tangela.png|40px]] Saquedeneu|| 2.41%
+|}
+
+==Actions==
+{| class="wikitable"
+! Action !! Effet
+|-
+| Ball || Essaie d'attraper le Pokémon avec une Safari Ball. Basé sur les chances de capture, cette action peut échouer, après quoi le Pokémon peut fuir (sur la base de ses chances de fuite), vous regarder avec attention, être furieux (c.à.d ne rien faire dans ces deux cas), ou continuer de manger l'appât. Si vous arrivez à court de Safari Ball, vous serez conduit à la sortie du Parc Safari, vous demandant de payer les frais d'entrée à nouveau pour y retourner.
+|-
+| Caillou || Jette un caillou vers le Pokémon, lui retirant le statut "mange" et le rendant furieux entre 2 et 7 tours. Lorsqu'il est furieux, un Pokémon a deux fois plus de chances de se faire attraper, et de s'enfuir. 
+|-
+| Fuir || Fuit le combat et retourne dans le Parc Safari sans pénalité. 
+|-
+| colspan=2 | Les trois types d'appâts donnent aux Pokémons le statut "mange" et retirent le statut "furieux". Lorsqu'il mange, un Pokémon a deux fois moins de chance de se faire attraper, et a quatre fois moins de chance de fuir. Au début du combat, les Pokémons démarrent avec un taux de fuite de 30%.
+|-
+| Appât (générique) || Donne au Pokémon le statut "mange" entre 2 et 7 tours, sans plus d'effets.
+|-
+| Appât ( [[Berry|Baie]] [[Razz|Framby]]) || Donne au Pokémon le statut "mange" entre 2 et 8 tours. Divise ses chances de fuir par 1,5 pour le reste du combat, à moins qu'un autre type d'appât ne soit utilisé.
+|-
+| Appât ([[Berry|Baie]] [[Nanab]] ) || Donne au Pokémon le statut "mange" entre 2 et 8 tours. Multiplie les chances de l'attraper par 1,5 pour le reste du combat, à moins qu'un autre type d'appât ne soit utilisé.
+|}
+
+Exemple d'utilisation des appâts : 
+* Vous rencontrez un Parasect sauvage dans le Parc Safari. Vous avez '''12,5%''' de chance de le capturer, et il a '''30%''' de chance de fuir.
+* Au tour du joueur, vous utilisez une [[Nanab|Baie Nanab]] en appât. Vous multipliez vos chance de l'attraper par 1,5 : 12,5 * 1,5 = '''18,75%'''. Ses chances de fuir restent à '''30%'''.
+* Le Parasect mange. La chance de l'attraper diminue de moitié : 18,75 / 2 = '''9,375%'''. Sa chance de fuir elle est divisée par 4 : 30 / 4 = '''7,5%'''.
+* Après quelques tours, le Parasect a fini de manger. Les bonus liés à l'état sont inversés, mais le bonus de la [[Nanab|Baie Nanab]] persiste : la chance de l'attraper est de '''18,75%''', et sa chance de fuir set revenue à '''30%'''.</text>
+    <contributor>
+      <username>PetroleVB</username>
+      <id>36</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>21806</parentid>
+    <sha1>dd0154bce9f4c9e26c5560bfdf7395edb110177e</sha1>
+  </revision>
+  <revision>
+    <id>21806</id>
+    <timestamp>2022-08-05T14:01:12Z</timestamp>
+    <text bytes="4344" space="preserve">&lt;languages/&gt;
+{{Infobox battle item
+|name       = Parc Safari
+|image      = [[File:safarizone1.png]]
+|caption    = Le joueur dans le Parc Safari.
+|location   = Kanto
+}}
+
+
+Le '''Parc Safari''' est une région de  [[Kanto]] où le joueur peut dépenser 100 [[Quest Points|Points de Quêtes]] {{Questpoints}} pour tenter d'attraper des pokémons unique à la région. Certains de ces pokémon, à l'instar des jeux originaux, n'apparaissent que dans le Parc Safari.
+ 
+À l'entrée du Parc, le joueur reçoit 30 Safari balls. Lors d'un combat, il peut choisir entre attraper, lancer un caillou, lancer un appât ou fuir. Pour débloquer cette zone le joueur doit tout d'abord récupérer le [[Safari Ticket|Pass Safari]].
+Les Pokémons non-attrapés ont deux fois plus de chances d'apparaitre qu'à la normal.
+
+Le joueur peut sortir et entrer du Parc Safari à volonté sans devoir payer les 100 {{Questpoints}} à chaque fois. La seule raison de repayer les frais d'entrée est si le joueur n'a plus de Safari balls
+
+==Pokémon==
+{| class="wikitable sortable" style
+|-
+! Pokémon !! Taux de rencontre
+|-
+| [[File:Nidoran(F).png|40px]] Nidoran(F)|| 9.04%
+|-
+| [[File:Nidorina.png|40px]] Nidorina || 6.02% 
+|-
+| [[File:Nidoran(M).png|40px]] Nidoran(M) || 15.06%
+|-
+| [[File:Nidorino.png|40px]] Nidorino || 6.02%
+|-
+| [[File:Exeggcute.png|40px]] Noeunoeuf || 12.05%
+|-
+| [[File:Paras.png|40px]] Paras || 3.01%
+|-
+| [[File:Parasect.png|40px]] Parasect || 9.04%
+|-
+| [[File:Rhyhorn.png|40px]] Rhinocorne || 6.02%
+|-
+| [[File:Chansey.png|40px]] Leveinard || 2.41%
+|-
+| [[File:Scyther.png|40px]] Insécateur || 2.41%
+|-
+| [[File:Pinsir.png|40px]] Scarabrute || 2.41%
+|-
+| [[File:Kangaskhan.png|40px]] Kangourex || 9.04%
+|-
+| [[File:Tauros.png|40px]] Tauros || 6.02%
+|-
+| [[File:Cubone.png|40px]] Osselait || 6.02%
+|-
+| [[File:Marowak.png|40px]] Ossatueur || 3.01%
+|-
+| [[File:Tangela.png|40px]] Saquedeneu|| 2.41%
+|}
+
+==Actions==
+{| class="wikitable"
+! Action !! Effet
+|-
+| Ball || Essaie d'attraper le Pokémon avec une Safari Ball. Basé sur les chances de capture, cette action peut échouer, après quoi le Pokémon peut fuir (sur la base de ses chances de fuir),  regarder avec attention, être furieux (c.à.d ne rien faire), ou continuer de manger l'appât. Si vous arrivez à court de Safari Ball, vous serez conduit à la sortie du Parc Safari, vous demandant de payer les frais d'entrée à nouveau pour y retourner.
+|-
+| Caillou || Jette un caillou vers le Pokémon, lui retirant le statut "mange" et le rendant furieux entre 2 et 7 tours. Lors qu'il est furieux, un Pokémon a deux fois plus de chances de se faire attraper, et de s'enfuir. 
+|-
+| Fuir || Fuit le combat et retourne dans le Parc Safari sans pénalité. 
+|-
+| colspan=2 | Les trois types d'appât donne aux Pokémons le statut "mange" et retire le statut "furieux". Lorsqu'il mange, un Pokémon a deux fois moins de chance de se faire attraper, et a quatre fois moins de chance de fuir. Lors d'un combat, les Pokémons démarrent avec un taux de fuite de 30%.
+|-
+| Appât (générique) || Donne au Pokémon le statut "mange" entre 2 et 7 tours, sans plus d'effets.
+|-
+| Appât ( [[Berry|Baie]] [[Razz|Framby]]) || Donne au Pokémon le statut "mange" entre 2 et 8 tours. Divise ses chances de fuir par 1,5 pour le reste du combat, à moins qu'un autre type d'appât ne soit utilisé.
+|-
+| Appât ([[Berry|Baie]] [[Nanab]] ) || Donne au Pokémon le statut "mange" entre 2 et 8 tours. Multiplie les chances de l'attraper par 1,5 pour le reste du combat, à moins qu'un autre type d'appât ne soit utilisé.
+|}
+
+Exemple d'utilisation des appâts : 
+* Vous rencontrez un Parasect sauvage dans le Parc Safari. Vous avez '''12,5%''' de chance de le capturer, et il a '''30%''' de chance de fuir.
+* Au tour du joueur, vous utilisez une [[Nanab|Baie Nanab]] en appât. Vous multipliez vos chance de l'attraper par 1,5 : 12,5 * 1,5 = '''18,75%'''. Ses chances de fuir restent à '''30%'''.
+* Le Parasect mange. La chance de l'attraper diminue de moitié : 18,75 / 2 = '''9,375%'''. Sa chance de fuir elle est divisée par 4 : 30 / 4 = '''7,5%'''.
+* Après quelques tours, le Parasect a fini de manger. Les bonus liés à l'état sont inversés, mais le bonus de la [[Nanab|Baie Nanab]] persiste : la chance de l'attraper est de '''18,75%''', et sa chance de fuir set revenue à '''30%'''.</text>
+    <contributor>
+      <username>PetroleVB</username>
+      <id>36</id>
+    </contributor>
+    <comment>Created page with "==Actions== {| class="wikitable" ! Action !! Effet |- | Ball || Essaie d'attraper le Pokémon avec une Safari Ball. Basé sur les chances de capture, cette action peut échouer, après quoi le Pokémon peut fuir (sur la base de ses chances de fuir),  regarder avec attention, être furieux (c.à.d ne rien faire), ou continuer de manger l'appât. Si vous arrivez à court de Safari Ball, vous serez conduit à la sortie du Parc Safari, vous demandant de payer les frais d'ent..."</comment>
+    <model>wikitext</model>
+    <parentid>21805</parentid>
+    <sha1>7bdd3c29f52a7dfcf5711a1c441e489d05537ab4</sha1>
+  </revision>
+  <revision>
+    <id>21805</id>
+    <timestamp>2022-08-05T13:54:05Z</timestamp>
+    <text bytes="4140" space="preserve">&lt;languages/&gt;
+{{Infobox battle item
+|name       = Parc Safari
+|image      = [[File:safarizone1.png]]
+|caption    = Le joueur dans le Parc Safari.
+|location   = Kanto
+}}
+
+
+Le '''Parc Safari''' est une région de  [[Kanto]] où le joueur peut dépenser 100 [[Quest Points|Points de Quêtes]] {{Questpoints}} pour tenter d'attraper des pokémons unique à la région. Certains de ces pokémon, à l'instar des jeux originaux, n'apparaissent que dans le Parc Safari.
+ 
+À l'entrée du Parc, le joueur reçoit 30 Safari balls. Lors d'un combat, il peut choisir entre attraper, lancer un caillou, lancer un appât ou fuir. Pour débloquer cette zone le joueur doit tout d'abord récupérer le [[Safari Ticket|Pass Safari]].
+Les Pokémons non-attrapés ont deux fois plus de chances d'apparaitre qu'à la normal.
+
+Le joueur peut sortir et entrer du Parc Safari à volonté sans devoir payer les 100 {{Questpoints}} à chaque fois. La seule raison de repayer les frais d'entrée est si le joueur n'a plus de Safari balls
+
+==Pokémon==
+{| class="wikitable sortable" style
+|-
+! Pokémon !! Taux de rencontre
+|-
+| [[File:Nidoran(F).png|40px]] Nidoran(F)|| 9.04%
+|-
+| [[File:Nidorina.png|40px]] Nidorina || 6.02% 
+|-
+| [[File:Nidoran(M).png|40px]] Nidoran(M) || 15.06%
+|-
+| [[File:Nidorino.png|40px]] Nidorino || 6.02%
+|-
+| [[File:Exeggcute.png|40px]] Noeunoeuf || 12.05%
+|-
+| [[File:Paras.png|40px]] Paras || 3.01%
+|-
+| [[File:Parasect.png|40px]] Parasect || 9.04%
+|-
+| [[File:Rhyhorn.png|40px]] Rhinocorne || 6.02%
+|-
+| [[File:Chansey.png|40px]] Leveinard || 2.41%
+|-
+| [[File:Scyther.png|40px]] Insécateur || 2.41%
+|-
+| [[File:Pinsir.png|40px]] Scarabrute || 2.41%
+|-
+| [[File:Kangaskhan.png|40px]] Kangourex || 9.04%
+|-
+| [[File:Tauros.png|40px]] Tauros || 6.02%
+|-
+| [[File:Cubone.png|40px]] Osselait || 6.02%
+|-
+| [[File:Marowak.png|40px]] Ossatueur || 3.01%
+|-
+| [[File:Tangela.png|40px]] Saquedeneu|| 2.41%
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Actions==
+{| class="wikitable"
+! Action !! Effect
+|-
+| Ball || Attempt to catch the Pokémon with a Safari Ball. Based on catch chance, this action may fail, after which the Pokémon might flee (based on escape chance), watch carefully / be angry (i.e. do nothing), or resume eating bait. Upon running out of Safari Balls, the player will be forced out of the Safari Zone, requiring them to pay the entrance fee again to re-enter.
+|-
+| Rock || Toss a rock at the Pokémon, removing "eating" status and making it angry for 2 - 7 turns. When angry, a Pokémon's catch chance and escape chance are both doubled.
+|-
+| Run || Flee the encounter and return to the Safari Zone overworld without penalty.
+|-
+| colspan=2 | All three types of bait give the Pokémon "eating" status, and removes "angry" status. While eating, a Pokémon's catch chance is halved, and its escape chance is quartered. Pokémon begin encounters with an escape chance of 30%.
+|-
+| Bait (generic) || Gives the Pokémon "eating" status for 2 - 7 turns. No other effects.
+|-
+| Bait ([[Razz]] [[Berry]]) || Gives the Pokémon "eating" status for 2 - 8 turns. Divides escape chance by 1.5 for the rest of the encounter unless another type of bait is used.
+|-
+| Bait ([[Nanab]] [[Berry]]) || Gives the Pokémon "eating" status for 2 - 8 turns. Boosts catch chance by 1.5x for the rest of the encounter unless another type of bait is used.
+|}
+&lt;/div&gt;
+
+Exemple d'utilisation des appâts : 
+* Vous rencontrez un Parasect sauvage dans le Parc Safari. Vous avez '''12,5%''' de chance de le capturer, et il a '''30%''' de chance de fuir.
+* Au tour du joueur, vous utilisez une [[Nanab|Baie Nanab]] en appât. Vous multipliez vos chance de l'attraper par 1,5 : 12,5 * 1,5 = '''18,75%'''. Ses chances de fuir restent à '''30%'''.
+* Le Parasect mange. La chance de l'attraper diminue de moitié : 18,75 / 2 = '''9,375%'''. Sa chance de fuir elle est divisée par 4 : 30 / 4 = '''7,5%'''.
+* Après quelques tours, le Parasect a fini de manger. Les bonus liés à l'état sont inversés, mais le bonus de la [[Nanab|Baie Nanab]] persiste : la chance de l'attraper est de '''18,75%''', et sa chance de fuir set revenue à '''30%'''.</text>
+    <contributor>
+      <username>PetroleVB</username>
+      <id>36</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>21804</parentid>
+    <sha1>3baefab498d0757461b0d185f35b0023b54123f7</sha1>
+  </revision>
+</page>

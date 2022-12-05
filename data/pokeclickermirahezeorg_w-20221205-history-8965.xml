@@ -1,0 +1,85 @@
+<page>
+  <title>Stark Mountain</title>
+  <ns>0</ns>
+  <id>442</id>
+  <revision>
+    <id>5992</id>
+    <timestamp>2022-03-18T19:13:36Z</timestamp>
+    <text bytes="1992" space="preserve">{{Infobox dungeon
+|name    = Stark Mountain
+|image   = [[File:Stark Mountain.png|300px]]
+|caption = A map of Stark Mountain.
+|tokens  = 96,500
+|location = North of Route 227.
+}}
+'''Stark Mountain''' is a [[Dungeons|dungeon]] in [[Sinnoh]]. It initially has 64 tiles arranged in an 8x8 square, including 8 chest tiles, 19 non-boss encounter tiles, and 1 boss encounter tile.
+
+==Pokémon and Dungeon Stats==
+
+{| class="wikitable"
+|-
+! Random Encounter !! Base Health !! Boss !! Base Health
+|-
+| [[File:Golbat.png|40px]] Golbat || rowspan=10 | &lt;center&gt; 2,603,000 || rowspan=5|[[File:Skarmory.png|40px]] Skarmory || rowspan=5| &lt;center&gt; 10,000,000
+|-
+| [[File:Graveler.png|40px]] Graveler
+|-
+| [[File:Fearow.png|40px]] Fearow
+|-
+| [[File:Weezing.png|40px]] Weezing
+|-
+| [[File:Rhyhorn.png|40px]] Rhyhorn
+|-
+| [[File:Rhydon.png|40px]] Rhydon || rowspan=5|[[File:Heatran.png|40px]] Heatran || rowspan=5| &lt;center&gt; 11,000,000
+|-
+| [[File:Numel.png|40px]] Numel
+|-
+| [[File:Slugma.png|40px]] Slugma
+|-
+| [[File:Magcargo.png|40px]] Magcargo
+|-
+| [[File:Camerupt.png|40px]] Camerupt
+|}
+
+==Items==
+
+{| class="wikitable"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears !! Requirement
+|-
+| {{Bag2|Token Collector}} || 4 || 64.33% || 63.37% || 57.86% || rowspan=10|&lt;center&gt;N/A
+|-
+| {{Bag2|Rawst}} || 3.75 || 32.69% || 32.26% || 29.68% 
+|-
+| {{Bag2|Flame Plate}} || 2.5 || 1.11% || 1.21% || 1.98% 
+|-
+| {{Bag2|Iron Plate}} || 2.5 || 1.11% || 1.21% || 1.98% 
+|-
+| {{Bag4|Ultraball}} || 2 || 0.29% || 0.41% || 1.70% 
+|-
+| {{Bag2|Revive}} || 2 || 0.29% || 0.41% || 1.70% 
+|-
+| {{Bag2|Star Piece}} || 1.75 || 0.15% || 0.34% || 1.56% 
+|-
+| {{Bag2|Large Restore}} || 1.25 || 0.04% || 0.28% || 1.27% 
+|-
+| {{Bag2|Max Revive}} || 0 || 0.00% || 0.13% || 0.57% 
+|-
+| {{Bag2|Fire Stone}} || 0 || 0.00% || 0.13% || 0.57% 
+|-
+| {{Bag2|Skull Fossil}} || 0 || 0.00% || 0.13% || 0.57% || rowspan=2|&lt;center&gt;Clear 100 Times
+|-
+| {{Bag2|Armor Fossil}} || 0 || 0.00% || 0.13% || 0.57% 
+|}
+
+[[Category:Dungeons]]</text>
+    <contributor>
+      <username>SomeonealiveQN</username>
+      <id>5</id>
+    </contributor>
+    <comment>/* Items */</comment>
+    <model>wikitext</model>
+    <parentid>5991</parentid>
+    <sha1>b9557da111d967bae76e15e9dfa846f0ec5692ca</sha1>
+  </revision>
+</page>

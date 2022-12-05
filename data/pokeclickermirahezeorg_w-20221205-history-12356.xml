@@ -1,0 +1,69 @@
+<page>
+  <title>Coba</title>
+  <ns>0</ns>
+  <id>684</id>
+  <revision>
+    <id>7533</id>
+    <timestamp>2020-11-22T15:10:18Z</timestamp>
+    <text bytes="1838" space="preserve">{{Infobox Berry
+|name    = Coba
+|image   = [[File:Coba.png]]
+|caption = This Berry is said to be a new kind that is a cross of two Berries brought together by winds from far away.
+|growtime  = 5h 30m 0s
+|harvest = 29 berries
+|replant = 5%
+|points = 1,800
+|flavor = {{!}} 0 {{!}} 10 {{!}} 0 {{!}} 15 {{!}} 0
+}}
+'''Coba''' is a type of [[Berries|Berry]] that can be planted in [[Farm]]. It can be obtained by surrounding an empty plot with at least 10, but no more than 15 points of dry, at least 15, but no more than 20 points of bitter and 0 points of all other flavours. The [[Chesto]] and [[Aguav]] must be unlocked to unlock this berry.
+
+{| class="wikitable"
+|+ Harvest Stages durations
+! Seed !! Sprout !! Taller !! Bloom !! Berry
+|-
+| 0-9000s || 9000-12600s || 12600-16200s || 16200-19800s || 19800-39600s
+|-
+| [[File:AllTreeSeed.png|50px]] || [[File:AllTreeSprout.png|50px]] || [[File:CobaTreeTaller.png|50px]] || [[File:CobaTreeBloom.png|50px]] || [[File:CobaTreeBerry.png|50px]]
+|}
+
+=== Possible Planting Formations ===
+
+You can fill your [[farm]] in following way to obtain Coba berry.
+
+{| class="wikitable" style="text-align: center;"
+|+ Farm
+|-
+| style="width: 40px;" | [[Wiki]] || style="width: 40px;" | || style="width: 40px;" | || style="width: 40px;" | [[Wiki]] || style="width: 40px;" | 
+|-
+| || [[Aguav]] ||  ||  || [[Aguav]] 
+|- style="height: 26px;"
+| || || || || 
+|-
+| [[Wiki]] || || || [[Wiki]] || 
+|-
+| || [[Aguav]] ||  ||  || [[Aguav]] 
+|}
+
+{| class="wikitable" style="text-align: center;"
+|+ Farm
+|-
+| style="width: 40px;" | [[Chesto]] || style="width: 40px;" | || style="width: 40px;" | || style="width: 40px;" | [[Chesto]] || style="width: 40px;" | 
+|-
+| || [[Aguav]] ||  ||  || [[Aguav]] 
+|- style="height: 26px;"
+| || || || || 
+|-
+| [[Chesto]] || || || [[Chesto]] || 
+|-
+| || [[Aguav]] ||  ||  || [[Aguav]] 
+|}</text>
+    <contributor>
+      <username>Kirby2729</username>
+      <id>67</id>
+    </contributor>
+    <comment>Created page with "{{Infobox Berry |name    = Coba |image   = [[File:Coba.png]] |caption = This Berry is said to be a new kind that is a cross of two Berries brought together by winds from far a..."</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>d51832967fdf00f4301abfa206b64b793b41a17c</sha1>
+  </revision>
+</page>

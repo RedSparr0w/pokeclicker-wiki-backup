@@ -1,0 +1,57 @@
+<page>
+  <title>Digletts Cave</title>
+  <ns>0</ns>
+  <id>318</id>
+  <revision>
+    <id>4682</id>
+    <timestamp>2022-03-15T11:14:14Z</timestamp>
+    <text bytes="1329" space="preserve">{{Infobox dungeon
+|name    = Digletts Cave
+|image   = [[File:Digletts Cave.png]]
+|caption = An overhead map of Digletts Cave.
+|tokens  = 95
+|location = North of Viridian Forest, on Route 2.
+}}
+'''Digletts Cave''' is a [[Dungeons|dungeon]] in [[Kanto]]. It has 25 tiles arranged in a 5x5 square, including 5 chest tiles, 13 non-boss encounter tiles, and 1 boss encounter tile.
+
+==Random Encounters==
+
+{| class="wikitable"
+|-
+! Wild Encounter !! Base Health !! Trainer !! Pokémon !! Base Health
+|-
+| [[File:Diglett.png|40px]] Diglett || &lt;center&gt; 1,208 || &lt;center&gt; N/A || &lt;center&gt; N/A || &lt;center&gt; N/A
+|-
+! Boss !! Base Health !! Boss Trainer !! Pokémon !! Base Health
+|-
+|[[File:Dugtrio.png|40px]] Dugtrio || &lt;center&gt; 6,040 || &lt;center&gt; N/A || &lt;center&gt; N/A || &lt;center&gt; N/A
+|}
+
+==Items==
+
+{| class="wikitable"
+|-
+! Chest Item !! 0 Clears !! 100 Clears !! 500 Clears !! Requirement 
+|-
+| {{Bag3|X Click}} [[X Click|xClick]] || 50.00% || 49.80% || 49.04% || No Requirement
+|-
+| {{Bag3|Lucky Egg}} [[Lucky Egg]] || 50.00% || 49.80% || 49.04% || No Requirement
+|-
+| {{Bag2|Mystery Egg}} || 0.00% || 0.20% || 0.96% || Clear Digletts Cave 100 Times
+|-
+| {{Bag2|Max Revive}} || 0.00% || 0.10% || 0.48% || Clear Digletts Cave 100 Times
+|-
+| {{Bag2|Wiki}} || 0.00% || 0.10% || 0.48% || Clear Digletts Cave 100 Times
+|}
+
+[[Category:Dungeons]]</text>
+    <contributor>
+      <username>SomeonealiveQN</username>
+      <id>5</id>
+    </contributor>
+    <comment>/* Items */Digletts cave loot not sure it it was 50 clear req or 100 so i put 100</comment>
+    <model>wikitext</model>
+    <parentid>4681</parentid>
+    <sha1>651386b7477f79a586ac37a027314253f989bc04</sha1>
+  </revision>
+</page>

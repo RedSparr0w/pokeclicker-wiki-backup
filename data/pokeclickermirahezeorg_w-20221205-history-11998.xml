@@ -1,0 +1,71 @@
+<page>
+  <title>Rindo</title>
+  <ns>0</ns>
+  <id>683</id>
+  <revision>
+    <id>7513</id>
+    <timestamp>2020-12-12T18:22:18Z</timestamp>
+    <text bytes="1907" space="preserve">{{Infobox Berry
+|name    = Rindo
+|image   = [[File:Rindo.png]]
+|caption = This Berry has a disagreeable "green" flavor and scent typical of vegetables. It is rich in health-promoting fiber. It has a tendency to expand into nearby plots.
+|growtime  = 8h 0m 0s
+|harvest = 24 berries
+|replant = 5%
+|points = 1,400
+|flavor = {{!}} 10 {{!}} 0 {{!}} 0 {{!}} 15 {{!}} 0
+}}
+'''Rindo''' is a type of [[Berries|Berry]] that can be planted in [[Farm]]. It can be obtained by surrounding an empty plot with at least 10, but no more than 15 points of spicy, at least 15, but no more than 20 points of bitter and 0 points of all other flavours. The [[Cheri]] and [[Aguav]] must be unlocked to unlock this berry.
+
+{| class="wikitable"
+|+ Harvest Stages durations
+! Seed !! Sprout !! Taller !! Bloom !! Berry
+|-
+| 0-3600s || 3600-7200s || 7200-16200s || 16200-28800s || 28800-57600s
+|-
+| [[File:AllTreeSeed.png|50px]] || [[File:AllTreeSprout.png|50px]] || [[File:RindoTreeTaller.png|50px]] || [[File:RindoTreeBloom.png|50px]] || [[File:RindoTreeBerry.png|50px]]
+|}
+
+=== Possible Planting Formations ===
+
+You can fill your [[farm]] in following way to obtain Rindo berry.
+
+{| class="wikitable" style="text-align: center;"
+|+ Farm
+|-
+| style="width: 40px;" | [[Figy]] || style="width: 40px;" | || style="width: 40px;" | || style="width: 40px;" | [[Figy]] || style="width: 40px;" | 
+|-
+| || [[Aguav]] ||  ||  || [[Aguav]] 
+|- style="height: 26px;"
+| || || || || 
+|-
+| [[Figy]] || || || [[Figy]] || 
+|-
+| || [[Aguav]] ||  ||  || [[Aguav]] 
+|}
+
+{| class="wikitable" style="text-align: center;"
+|+ Farm
+|-
+| style="width: 40px;" | [[Cheri]] || style="width: 40px;" | || style="width: 40px;" | || style="width: 40px;" | [[Cheri]] || style="width: 40px;" | 
+|-
+| || [[Aguav]] ||  ||  || [[Aguav]] 
+|- style="height: 26px;"
+| || || || || 
+|-
+| [[Cheri]] || || || [[Cheri]] || 
+|-
+| || [[Aguav]] ||  ||  || [[Aguav]] 
+|}
+
+{{Berries}}</text>
+    <contributor>
+      <username>Claygame</username>
+      <id>22</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>7512</parentid>
+    <sha1>529dc3af0edd01c6c6cb43b7b58983eae4fb87d4</sha1>
+  </revision>
+</page>

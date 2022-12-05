@@ -1,0 +1,120 @@
+<page>
+  <title>Frost Cavern</title>
+  <ns>0</ns>
+  <id>2921</id>
+  <revision>
+    <id>12302</id>
+    <timestamp>2022-07-27T02:56:36Z</timestamp>
+    <text bytes="3991" space="preserve">{{Infobox dungeon
+|name    = Frost Cavern
+|image   = [[File:Frost Cavern.png|250px]]
+|caption = A map of Frost Cavern.
+|tokens  = 665,500
+|location = East of Route 15.
+}}
+'''Frost Cavern''' is a [[Dungeons|dungeon]] in [[Kalos]]. It initially has 100 tiles arranged in a 10x10 square, including 10 chest tiles, 23 non-boss encounter tiles, and 1 boss encounter tile. Wild Encounters have 8,537,490 HP.
+
+==Encounter  Tables==
+
+===Wild Encounters===
+
+{| class="wikitable"
+|-
+! Wild Pokémon !! colspan=2|Trainers
+|-
+! Encounter !! Trainer !! Pokémon Team
+|-
+| [[File:Haunter.png|40px]] Haunter ||  [[File:Hiker.png|40px]] Hiker Ross || [[File:Vibrava.png|40px]] Vibrava 
+|-
+| [[File:Jynx.png|40px]] Jynx || [[File:Sky_Trainer_(male).png|40px]] Sky Trainer Celso || [[File:Carnivine.png|40px]] Carnivine, [[File:Swanna.png|40px]] Swanna
+|-
+| [[File:Piloswine.png|40px]] Piloswine || [[File:Sky_Trainer_(female).png|40px]] Sky Trainer Era || [[File:Cryogonal.png|40px]] Cryogonal
+|-
+| [[File:Beartic.png|40px]] Beartic || [[File:Artist_(male).png|40px]] Artist Salvador || [[File:Smeargle.png|40px]] Smeargle
+|-
+| [[File:Cryogonal.png|40px]] Cryogonal || [[File:Ace_Trainer_(female).png|40px]] Ace Trainer Cordelia || [[File:Doublade.png|40px]] Doublade
+|-
+| [[File:Bergmite.png|40px]] Bergmite || [[File:Ace_Trainer_(male).png|40px]] Ace Trainer Neil || [[File:Raichu.png|40px]] Raichu, [[File:Golduck.png|40px]] Golduck, [[File:Marowak.png|40px]] Marowak
+|-
+| [[File:Smoochum.png|40px]] Smoochum || [[File:Hiker.png|40px]] Hiker Alain || [[File:Graveler.png|40px]] Graveler, [[File:Graveler.png|40px]] Graveler, [[File:Carbink.png|40px]] Carbink
+|-
+| [[File:Vanillite.png|40px]] Vanillite || [[File:Brains_&amp;_Brawn.png|40px]] Brains &amp; Brawn Eoin &amp; Wolf || [[File:Grumpig.png|40px]] Grumpig, [[File:Hariyama.png|40px]] Hariyama
+|-
+| [[File:Cubchoo.png|40px]] Cubchoo || [[File:Black_Belt.png|40px]] Black Belt Kenji || [[File:Gurdurr.png|40px]] Gurdurr
+|-
+| [[File:Poliwhirl.png|40px]] Poliwhirl || [[File:Hiker.png|40px]] Hiker Brent || [[File:Probopass.png|40px]] Probopass
+|-
+| [[File:Floatzel.png|40px]] Floatzel || [[File:Battle_Girl.png|40px]] Battle Girl Gabrielle || [[File:Medicham.png|40px]] Medicham
+|-
+| [[File:Basculin_(Red-Striped).png|40px]] Basculin (Red-Striped) || rowspan=2|[[File:Team_Flare_Grunt_(female).png|40px]] Team Flare Grunt || rowspan=2|[[File:Golbat.png|40px]] Golbat, [[File:Manectric.png|40px]] Manectric
+|-
+| [[File:Basculin_(Blue-Striped).png|40px]] Basculin (Blue-Striped)
+|}
+
+
+===Boss Encounters===
+
+{| class="wikitable"
+|-
+! Wild Pokémon !! Base Health !! Boss Trainer !! Pokémon Team !! Base Health
+|-
+| [[File:Abomasnow.png|40px]] Abomasnow || &lt;center&gt; 85,376,500 || [[File:Team_Flare_Mable.png|40px]] Team Flare Mable || [[File:Houndoom.png|40px]] Houndoom || &lt;center&gt; 87,365,830
+|-
+|}
+
+==Items==
+
+{| class="wikitable"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+|-
+| align="center" colspan=6| '''Common'''
+|-
+| {{Bag2|xAttack}} || N/A || 24.99% || 24.00% || 20.00%
+|-
+| {{Bag2|xClick}} || N/A || 24.99% || 24.00% || 20.00%
+|-
+| {{Bag2|Oran}} || N/A || 24.99% || 24.00% || 20.00%
+|-
+| align="center" colspan=6| '''Rare'''
+|-
+| {{Bag2|Blue Shard}} || N/A || 10.00% || 10.50% || 12.47%
+|-
+| {{Bag2|Yellow Shard}} || N/A || 10.00% || 10.50% || 12.47%
+|-
+| align="center" colspan=6| '''Epic'''
+|-
+| {{Bag2|Icicle Plate}} || N/A || 0.80% || 1.04% || 2.00%
+|-
+| {{Bag2|Meadow Plate}} || N/A || 0.80% || 1.04% || 2.00%
+|-
+| {{Bag2|Insect Plate}} || N/A || 0.80% || 1.04% || 2.00%
+|-
+| {{Bag2|Iron Plate}} || N/A || 0.80% || 1.04% || 2.00%
+|-
+| {{Bag2|Duskball}} || N/A || 0.80% || 1.04% || 2.00%
+|-
+| align="center" colspan=6| '''Legendary'''
+|-
+| {{Bag2|Medium Restore}} || 2 || 0.66% || 1.06% || 2.66%
+|-
+| {{Bag2|Large Restore}} || N/A || 0.33% || 0.53% || 1.33%
+|-
+| align="center" colspan=6| '''Mythic'''
+|-
+| {{Bag2|Heart Scale}} || N/A || 0.01% || 0.22% || 1.06%
+|}
+
+{{Kalos Dungeons}}
+
+[[Category:Dungeons|^Region #6 - Kalos^j]]</text>
+    <contributor>
+      <username>LatiosRider</username>
+      <id>35</id>
+    </contributor>
+    <comment>Add Category header</comment>
+    <model>wikitext</model>
+    <parentid>12301</parentid>
+    <sha1>2c1d4963f7a5765a5386fae37bfa096052d19434</sha1>
+  </revision>
+</page>

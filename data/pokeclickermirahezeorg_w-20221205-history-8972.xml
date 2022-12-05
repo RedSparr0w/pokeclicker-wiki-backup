@@ -1,0 +1,75 @@
+<page>
+  <title>Victory Road Sinnoh</title>
+  <ns>0</ns>
+  <id>437</id>
+  <revision>
+    <id>5883</id>
+    <timestamp>2022-03-18T17:47:42Z</timestamp>
+    <text bytes="1796" space="preserve">{{Infobox dungeon
+|name    = Victory Road Sinnoh
+|image   = [[File:Victory Road Sinnoh.png|300px]]
+|caption = A map of Victory Road Sinnoh.
+|tokens  = 86,500
+|location = North of Route 223.
+}}
+'''Victory Road Sinnoh''' is a [[Dungeons|dungeon]] in [[Sinnoh]]. It initially has 64 tiles arranged in an 8x8 square, including 8 chest tiles, 19 non-boss encounter tiles, and 1 boss encounter tile.
+
+==Pokémon and Dungeon Stats==
+
+{| class="wikitable"
+|-
+! Random Encounter !! Base Health !! Boss !! Base Health
+|-
+| [[File:Golbat.png|40px]] Golbat || rowspan=7 | &lt;center&gt; 1,503,000 || rowspan=2|[[File:Rhydon.png|40px]] Rhydon || rowspan=7| &lt;center&gt; 7,000,000
+|-
+| [[File:Graveler.png|40px]] Graveler
+|-
+| [[File:Onix.png|40px]] Onix || rowspan=2|[[File:Steelix.png|40px]] Steelix
+|-
+| [[File:Rhyhorn.png|40px]] Rhyhorn
+|-
+| [[File:Magneton.png|40px]] Magneton || rowspan=3|[[File:Gabite.png|40px]] Gabite
+|-
+| [[File:Azumarill.png|40px]] Azumarill
+|-
+| [[File:Floatzel.png|40px]] Floatzel
+|}
+
+==Items==
+
+{| class="wikitable"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears !! Requirement
+|-
+| {{Bag3|Lucky Incense}} [[Lucky Incense]] || 4 || 60.20% || 59.68% || 56.65% || rowspan= 7|&lt;center&gt;N/A
+|-
+| {{Bag2|Oran}} || 3.75 || 30.59% || 30.38% || 29.06% 
+|-
+| {{Bag2|Graveler}} || 3.25 || 7.90% || 7.93% || 7.91% 
+|-
+| {{Bag2|Spelon}} ||  2.5 || 1.04% || 1.14% || 1.94% 
+|-
+| {{Bag4|Ultraball}} || 2 || 0.24% || 0.38% || 1.66% 
+|-
+| {{Bag2|Razor Claw}} || 0 || 0.00% || 0.12% || 0.56% 
+|-
+| {{Bag2|Dusk Stone}} || 0 || 0.00% || 0.12% || 0.56% 
+|-
+| {{Bag2|Protein}} || 0 || 0.00% || 0.00% || 0.56% || Clear 350 Times
+|-
+| {{Bag2|Max Revive}} || 0 || 0.00% || 0.12% || 0.56% || rowspan=2|&lt;center&gt;N/A
+|-
+| {{Bag2|Heart Scale}} || 0 || 0.0% || 0.12% || 0.56% 
+|}
+
+[[Category:Dungeons]]</text>
+    <contributor>
+      <username>SomeonealiveQN</username>
+      <id>5</id>
+    </contributor>
+    <comment>/* Items */</comment>
+    <model>wikitext</model>
+    <parentid>5882</parentid>
+    <sha1>6f1a0487ba150b5152454f5a0796a96b49c3776c</sha1>
+  </revision>
+</page>

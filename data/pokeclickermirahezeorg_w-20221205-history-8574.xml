@@ -1,0 +1,133 @@
+<page>
+  <title>Payapa</title>
+  <ns>0</ns>
+  <id>627</id>
+  <revision>
+    <id>7190</id>
+    <timestamp>2022-03-28T09:11:00Z</timestamp>
+    <text bytes="4788" space="preserve">{{Infobox Berry
+|name    = #45 Payapa
+|image   = [[File:Payapa.png]]
+|caption = This Berry is said to sense human emotions for the way it swells roundly when a person approaches. The same behavior affects nearby plants, causing additional mutations.
+|growtime  = 9h 30m 0s
+|harvest = 30 berries
+|replant = 5%
+|mutation = 0.01%
+|points = 1,900
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 spicy 
+*0 dry
+*10 sweet
+*0 bitter
+*15 sour
+}}
+
+'''Payapa''' is a type of [[Berries|Berry]] that can be planted in [[Farm]]. It can be obtained by surrounding an empty plot with at least 1 [[Wiki]], at least 1 [[Bluk]], at least 1 [[Cornn]] and at least 1 [[Pamtre]].
+
+== Growth Tables ==
+=== Growth Stages ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+!!! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 1 hour 18 mins || 3 hours 18 mins || 6 hours 30 mins || 9 hours 30 mins - 19 hours
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt;[[File:PayapaTreeTaller.png|50px]] || &lt;center&gt;[[File:PayapaTreeBloom.png|50px]] || &lt;center&gt;[[File:PayapaTreeBerry.png|50px]]
+|-
+! Aura (mutation rate)
+| || &lt;center&gt; x1.1 || &lt;center&gt; x1.2 || &lt;center&gt; x1.3
+|}
+
+=== Ripening Time with Modifiers  ===
+{| class="wikitable" | style="text-align: center;"
+! Modifier !! Ripe-Wither Time !! Boost Mulch Needed to Ripen
+|-
+! None
+| 9 hours 30 mins -&lt;br&gt; 19 hours || ---
+|-
+! Mulch or Sprayduck
+| 6 hours 20 mins -&lt;br&gt; 12 hours 40 mins || 76 mulch
+|-
+! Mulch &amp; Sprayduck
+| 4 hours 13 mins 20 secs -&lt;br&gt; 8 hours 26 mins 40 secs || 51 mulch
+|}
+
+== Flow Chart ==
+[[File:Payapa_Flow_Chart.png|350px]]
+&lt;br&gt;
+
+== Mutation Strategy ==
+=== Possible Planting Formations ===
+
+You can fill your farm in the following way to obtain Payapa berries. Purple squares indicate where mutations can occur.
+
+{| class="wikitable" style="text-align: center;"
+|+ Farm
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Wiki.png|30px]]&lt;br&gt;[[Wiki]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Cornn.png|30px]]&lt;br&gt;[[Cornn]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Wiki.png|30px]]&lt;br&gt;[[Wiki]]
+|-
+| [[File:Bluk.png|30px]]&lt;br&gt;[[Bluk]] || style="background-color:#9C7D98;" | || [[File:Pamtre.png|30px]]&lt;br&gt;[[Pamtre]] || style="background-color:#9C7D98;" | || [[File:Bluk.png|30px]]&lt;br&gt;[[Bluk]]
+|- style="height: 50px;"
+| || style="background-color:#9C7D98;" | || || style="background-color:#9C7D98;" | || 
+|-
+| [[File:Cornn.png|30px]]&lt;br&gt;[[Cornn]]  || style="background-color:#9C7D98;" | || [[File:Wiki.png|30px]]&lt;br&gt;[[Wiki]] || style="background-color:#9C7D98;" | || [[File:Cornn.png|30px]]&lt;br&gt;[[Cornn]] 
+|-
+| [[File:Pamtre.png|30px]]&lt;br&gt;[[Pamtre]] || style="background-color:#9C7D98;" | || [[File:Bluk.png|30px]]&lt;br&gt;[[Bluk]] || style="background-color:#9C7D98;" | || [[File:Pamtre.png|30px]]&lt;br&gt;[[Pamtre]]
+|}
+
+=== Timing Table ===
+{| class="wikitable"| style="text-align: center;"
+|+ ''All planting times use the time-to-ripe remaining of the first planted berry for subsequent planting times''
+! Berry !! Planting Time with &lt;br&gt; No Modifier !! Planting Time with &lt;br&gt; Mulch or Sprayduck || Planting Time with &lt;br&gt;  Mulch &amp; Sprayduck
+|-
+| [[Pamtre]] || - || - || -
+|-
+| [[Cornn]] || 2 hours 30 mins until ripe || 1 hour 40 mins until ripe || 1 hour 6 mins 7 secs
+|-
+| [[Wiki]] || 6 mins until ripe || 4 mins until ripe || Not Practical
+|-
+| [[Bluk]] || 5 mins 30 secs until ripe || 3 mins 40 secs until ripe || Not Practical
+|}
+
+==Uses==
+===Mutations===
+
+Payapa berries can be used to mutate the following berries.
+
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Colbur.png|20px]] [[Colbur]] || [[File:Rabuta.png|20px]] [[Rabuta]] &lt;br&gt; [[File:Kasib.png|20px]] [[Kasib]]
+|-
+| [[File:Petaya.png|20px]] [[Petaya]] || [[File:Occa.png|20px]] [[Occa]] [[File:Passho.png|20px]] [[Passho]] &lt;br&gt; [[File:Wacan.png|20px]] [[Wacan]] [[File:Rindo.png|20px]] [[Rindo]] &lt;br&gt; [[File:Yache.png|20px]] [[Yache]] [[File:Chople.png|20px]] [[Chople]] &lt;br&gt; [[File:Kebia.png|20px]] [[Kebia]] [[File:Shuca.png|20px]] [[Shuca]] &lt;br&gt; [[File:Coba.png|20px]] [[Coba]] [[File:Tanga.png|20px]] [[Tanga]] &lt;br&gt; [[File:Charti.png|20px]] [[Charti]] [[File:Kasib.png|20px]] [[Kasib]] &lt;br&gt; [[File:Haban.png|20px]] [[Haban]] [[File:Colbur.png|20px]] [[Colbur]] &lt;br&gt; [[File:Babiri.png|20px]] [[Babiri]] [[File:Chilan.png|20px]] [[Chilan]] &lt;br&gt; [[File:Roseli.png|20px]] [[Roseli]]
+|-
+|}
+
+==Acquisition==
+===Dungeons===
+{{Loot/head‎|Berries}}
+{{LootItem|Solaceon Ruins|1|75 Clears}}
+{{LootItem|Lake Acuity|1|75 Clears}}
+{{LootItem|Fullmoon Island|1|75 Clears}}
+{{LootItem|Cave of Being|1|50 Clears}}
+{{LootItem|Pokémon Village|1|25 Clears}}
+|}
+|}
+
+&lt;br&gt;
+
+{{Berries}}
+
+[[Category:Farm]][[Category:Berries]]</text>
+    <contributor>
+      <username>SwitchRoot</username>
+      <id>24</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>7189</parentid>
+    <sha1>cd4f5c4fb9aec12c40fc9c81d0df7b62885c8c62</sha1>
+  </revision>
+</page>

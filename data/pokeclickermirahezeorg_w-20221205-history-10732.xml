@@ -1,0 +1,53 @@
+<page>
+  <title>Tin Tower</title>
+  <ns>0</ns>
+  <id>370</id>
+  <revision>
+    <id>5246</id>
+    <timestamp>2021-01-29T03:51:11Z</timestamp>
+    <text bytes="1041" space="preserve">{{Infobox dungeon
+|name    = Tin Tower
+|image   = [[File:Tin Tower.png|300px]]
+|caption = A map of Tin Tower.
+|tokens  = 4,500
+|location = Northeast of Ecruteak City.
+}}
+'''Tin Tower''' is a [[Dungeons|dungeon]] in [[Johto]]. It has 36 tiles arranged in a 6x6 square, including 6 chest tiles, 15 non-boss encounter tiles, and 1 boss encounter tile.
+
+==Pokémon &amp; Dungeon Stats==
+
+{| class="wikitable"
+|-
+! Random Encounter !! Base Health !! Boss !! Base Health
+|-
+| rowspan=2|[[File:Rattata.png|40px]] Rattata || rowspan=3|&lt;center&gt;88,500 || [[File:Raticate.png|40px]] Raticate || rowspan=2|&lt;center&gt;380,000
+|-
+| [[File:Haunter.png|40px]] Haunter
+|-
+| [[File:Gastly.png|40px]] Gastly || [[File:Ho-oh.png|40px]] &lt;b&gt;Ho-oh* &lt;br&gt; *(Must have captured Suicune, Raikou, and Entei) &lt;/b&gt; || &lt;center&gt;1,410,000
+|}
+
+==Items==
+
+{| class="wikitable"
+|-
+! Chest Item !! Chance to Find
+|-
+| {{Bag3|X Attack}} [[X Attack|xAttack]] || 33%
+|-
+| {{Bag3|X Click}} [[XClick|xClick]] || 33%
+|-
+| {{Bag3|Item Magnet}} [[Item Magnet]] || 33%
+|}
+
+[[Category:Dungeons]]</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment>hp fix</comment>
+    <model>wikitext</model>
+    <parentid>5245</parentid>
+    <sha1>4f7e0994bd3d0f623e0b79227c5644e35254a57c</sha1>
+  </revision>
+</page>

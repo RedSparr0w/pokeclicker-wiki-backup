@@ -1,0 +1,794 @@
+<page>
+  <title>Gems</title>
+  <ns>0</ns>
+  <id>146</id>
+  <revision>
+    <id>1906</id>
+    <timestamp>2020-12-15T16:48:54Z</timestamp>
+    <text bytes="8598" space="preserve">==Details==
+
+===Description===
+Shards are an item dropped when defeating any kind of Pokémon once the player has the [[Shard Case]] unlocked.  These typed shards can be invested into the Shards tab to increase type effectivity, and your damage output.
+
+===Upgrades===
+{| class="wikitable sortable collapsible"
+|-
+! To Purchase Level !! Shard Cost 
+|-
+| 1 || 500
+|-
+| 2 || 1000
+|-
+| 3 || 1500
+|-
+| 4 || 2000
+|-
+| 5 || 2500
+|-
+| 6 || 3000
+|-
+| 7 || 3500
+|-
+| 8 || 4000
+|-
+| 9 || 4500
+|-
+| 10 || 5000
+|-
+| Sum Total || 27,500
+|}
+
+==Methods==
+===Helpful tips===
+The shards you get from defeating a Pokémon depend on the type(s) that Pokémon has.
+Wild Pokémon on routes give 1 shard per type, dungeon encounters give 3, most gym/trainer Pokémon give 5, and dungeon bosses give 20.
+
+Note: Most gyms yield 5 shards per pokémon (excepting Goldenrod, Blackthorn, and Pokémon League Sinnoh (Aaron)), and the most efficient gyms yield the most shards per gym clear. (e.g. Violet City Gym is less efficient than the Petalburg City Gym because it takes twice as many clears of the Violet City Gym to obtain the same number of shards)
+
+===Shard Optimization===
+{| class="wikitable sortable"
+|-
+! rowspan=2 | Shard Type
+! colspan=2 | Routes
+! colspan=4 | Gyms
+|-
+! Route !! Chance
+! Most Efficient Gym (Trainer) !! Amount !! Other Efficient Gyms (Suboptimal) !! Amount
+|-
+|[[File:Normal_shard.png|15px]] Normal || Kanto 1 &lt;br&gt; Kanto 16 || 100% || [[Gyms#Hoenn Gyms|Petalburg Gym]]  || 20 || [[Gyms#Johto_Gyms|Violet Gym]] || 10
+|-
+|[[File:Fire_shard.png|15px]] Fire || Hoenn 112 || 50% || [[Gyms#Sinnoh Gyms|Pokemon League Sinnoh (Flint)]] || 25 || [[Gyms#Kanto Gyms|Cinnabar Gym]] &lt;br&gt; [[Gyms#Hoenn Gyms|Lavaridge Gym]] || 15&lt;br&gt;20
+|-
+|[[File:Water_shard.png|15px]] Water || Kanto 19 &amp; 20 &lt;br&gt;Johto 40 &amp; 41 &lt;br&gt;Hoenn 105-109 &lt;br&gt;Hoenn 122 &lt;br&gt;Hoenn 124-129 &lt;br&gt;Hoenn 131-134 &lt;br&gt;Sinnoh 219 &amp; 220 &lt;br&gt;Sinnoh 223 || 100% || [[Gyms#Hoenn_Gyms|Pokemon League Hoenn (Wallace)]] || 30 ||[[Gyms#Kanto_Gyms|Cerulean Gym]] &lt;br&gt; [[Gyms#Hoenn_Gyms|Sootopolis Gym]] &lt;br&gt; [[Gyms#Sinnoh_Gyms|Pastoria Gym]] || 10&lt;br&gt;25&lt;br&gt;15
+|-
+|[[File:Electric_shard.png|15px]] Electric || Sinnoh 202 || 25% || [[Gyms#Hoenn Gyms|Mauville Gym]] &lt;br&gt; [[Gyms#Sinnoh_Gyms|Sunyshore Gym]] || 20 || [[Gyms#Kanto_Gyms|Vermillion Gym]] || 5
+|-
+|[[File:Grass_shard.png|15px]] Grass || Kanto 15 || 57.1% || [[Gyms#Kanto Gyms|Celadon Gym]] &lt;br&gt; [[Gyms#Sinnoh_Gyms|Eterna Gym]] || 15 || --- || -
+|-
+|[[File:Ice_shard.png|15px]] Ice || Sinnoh 217 || 44.4% || [[Gyms#Hoenn_Gyms|Pokemon League Hoenn (Glacia)]] || 25 || [[Gyms#Sinnoh_Gyms|Snowpoint Gym]] || 20
+|-
+|[[File:Fighting_shard.png|15px]] Fighting || Sinnoh 217 || 33.3% || [[Gyms#Johto_Gyms|Indigo League Johto (Bruno)]] || 20 || [[Gyms#Johto_Gyms|Cianwood Gym]] &lt;br&gt; [[Gyms#Hoenn_Gyms|Dewford Gym]] &lt;br&gt; [[Gyms#Sinnoh_Gyms|Veilstone Gym]] || 10&lt;br&gt;15&lt;br&gt;15
+|-
+|[[File:Poison_shard.png|15px]] Poison || Kanto 15 || 85.7% || [[Gyms#Kanto_Gyms|Indigo League Kanto (Agatha)]] &lt;br&gt; [[Gyms#Johto_Gyms|Indigo League Johto (Koga)]] || 25 || [[Gyms#Kanto_Gyms|Fuschia Gym]] &lt;br&gt; [[Gyms#Johto Gyms|Ecruteak Gym]] || 20&lt;br&gt;15
+|-
+|[[File:Ground_shard.png|15px]] Ground || Hoenn 111 || 55.6% || [[Gyms#Kanto Gyms|Viridian Gym]] &lt;br&gt; [[Gyms#Sinnoh_Gyms|Pokemon League Sinnoh (Bertha)]] || 20 || [[Gyms#Kanto_Gyms|Pewter Gym]] || 10
+|-
+|[[File:Flying_shard.png|15px]] Flying || Hoenn 115 || 60% || [[Gyms#Sinnoh_Gyms|Indigo League Johto (Lance)]] || 30 || [[Gyms#Johto Gyms|Violet Gym]] &lt;br&gt; [[Gyms#Hoenn Gyms|Fortree Gym]] || 10&lt;br&gt;25
+|-
+|[[File:Psychic_shard.png|15px]] Psychic || Kanto 8 &lt;br&gt;Sinnoh 211 || 25% || [[Gyms#Johto Gyms|Indigo League Johto (Will)]] &lt;br&gt; [[Gyms#Sinnoh Gyms|Pokemon League Sinnoh (Lucian)]] || 25 || [[Gyms#Kanto_Gyms|Saffron Gym]] &lt;br&gt; [[Gyms#Hoenn Gyms|Mossdeep Gym]] || 15&lt;br&gt;20
+|-
+|[[File:Bug_shard.png|15px]] Bug  || Johto 30 || 50% || [[Gyms#Johto_Gyms|Azalea Gym]] || 15 || [[Gyms#Sinnoh_Gyms|Pokemon League Sinnoh (Aaron)]]&lt;br&gt;(only 4 shards per pokémon) || 20
+|-
+|[[File:Rock_shard.png|15px]] Rock || Sinnoh 214 || 23.5% || [[Gyms#Hoenn_Gyms|Rustboro Gym]] &lt;br&gt; [[Gyms#Sinnoh_Gyms|Oreburgh Gym]] || 15 || [[Gyms#Kanto_Gyms|Pewter Gym]] || 10
+|-
+|[[File:Ghost_shard.png|15px]] Ghost || Sinnoh 209 || 11.8% || [[Gyms#Hoenn_Gyms|Pokemon League Hoenn (Phoebe)]] || 25 || [[Gyms#Johto_Gyms|Ecruteak Gym]] &lt;br&gt; [[Gyms#Sinnoh_Gyms|Hearthome Gym]] || 20&lt;br&gt;15
+|-
+|[[File:Dragon_shard.png|15px]] Dragon || Johto 45 || 8.3% || [[Gyms#Hoenn_Gyms|Pokemon League Hoenn (Drake)]] || 25 || [[Gyms#Johto_Gyms|Blackthorn Gym]] || 20
+|-
+|[[File:Dark_shard.png|15px]] Dark || Hoenn 101 || 33.3% || [[Gyms#Hoenn_Gyms|Pokemon League Hoenn (Sidney)]] || 25 || --- || -
+|-
+|[[File:Steel_shard.png|15px]] Steel || Hoenn 113 || 33.3% || [[Gyms#Johto_Gyms|Olivine Gym]] &lt;br&gt; [[Gyms#Sinnoh_Gyms|Canalave Gym]] || 15 || --- || -
+|-
+|[[File:Fairy_shard.png|15px]] Fairy || Hoenn 112 || 50% || [[Gyms#Johto_Gyms|Goldenrod Gym]] &lt;br&gt; (only 2.5 per pokémon) || 5 || --- || -
+
+|}
+
+
+
+=== Total Gym Shards for each gym ===
+
+{| class="wikitable sortable collapsible collapsed"
+|-
+! colspan=8 | Region
+|-
+! colspan=2 | Kanto 
+! colspan=2 | Johto 
+! colspan=2 | Hoenn 
+! colspan=2 | Sinnoh
+|-
+! Gym !! Shards Given !! Gym !! Shards Given !! Gym !! Shards Given !! Gym !! Shards Given
+|-
+| Pewter || 10 ground &lt;br&gt; 10 rock || Violet || 10 flying &lt;br&gt; 10 normal || Rustboro || 15 rock &lt;br&gt; 15 ground || Oreburgh || 15 rock &lt;br&gt; 10 ground
+|-
+| Cerulean || 10 water &lt;br&gt; 5 psychic || Azalea || 15 bug &lt;br&gt; 5 poison &lt;br&gt; 5 flying || Dewford || 15 fighting &lt;br&gt; 5 psychic || Eterna || 15 grass &lt;br&gt; 5 poison
+|-
+| Vermilion || 5 electric || Goldenrod || 5 normal &lt;br&gt; 5 fairy || Mauville || 20 electric &lt;br&gt; 5 steel || Hearthome || 15 ghost &lt;br&gt; 5 poison
+|-
+| Celadon || 15 grass &lt;br&gt; 10 poison || Ecruteak || 15 poison &lt;br&gt; 15 ghost || Lavaridge || 20 fire &lt;br&gt; 10 ground || Veilstone || 15 fighting &lt;br&gt; 5 psychic &lt;br&gt; 5 steel
+|-
+| Fuchsia || 20 poison || Olivine || 15 steel &lt;br&gt; 10 electric &lt;br&gt; 5 ground || Petalburg || 20 normal || Pastoria || 15 water &lt;br&gt; 5 ground &lt;br&gt; 5 flying
+|-
+| Saffron || 15 psychic &lt;br&gt; 5 poison &lt;br&gt; 5 bug &lt;br&gt; 5 fairy || Cianwood || 10 fighting &lt;br&gt; 5 water || Fortree || 25 flying &lt;br&gt; 5 normal &lt;br&gt; 5 water &lt;br&gt; 5 grass &lt;br&gt; 5 dragon &lt;br&gt; 5 steel || Canalave || 15 steel &lt;br&gt; 5 electric &lt;br&gt; 5 ground &lt;br&gt; 5 rock
+|-
+| Cinnabar || 15 fire || Mahogany || 10 water &lt;br&gt; 10 ice &lt;br&gt; 5 ground || Mossdeep || 20 psychic &lt;br&gt; 10 rock &lt;br&gt; 5 ground &lt;br&gt; 5 flying || Snowpoint || 20 ice &lt;br&gt; 5 grass &lt;br&gt; 5 ground &lt;br&gt; 5 dark &lt;br&gt; 5 ghost
+|-
+| Viridian || 25 ground &lt;br&gt; 10 poison &lt;br&gt; 10 rock || Blackthorn || 20 dragon &lt;br&gt; 5 water || Sootopolis || 25 water &lt;br&gt; 5 ice &lt;br&gt; 5 ground &lt;br&gt; 5 dragon &lt;br&gt; 5 dark || Sunyshore || 20 electric
+|-
+| Lorelei || 20 water &lt;br&gt; 20 ice &lt;br&gt; 10 psychic || Will || 25 psychic &lt;br&gt; 10 flying &lt;br&gt; 5 water &lt;br&gt; 5 grass &lt;br&gt; 5 ice || Sidney || 25 dark &lt;br&gt; 10 grass &lt;br&gt; 5 water || Aaron || 20 bug &lt;br&gt; 10 flying &lt;br&gt; 5 fighting &lt;br&gt; 5 poison &lt;br&gt; 5 dark &lt;br&gt; 5 steel
+|-
+| Bruno || 10 ground &lt;br&gt; 10 rock &lt;br&gt; 15 fighting || Koga || 20 poison &lt;br&gt; 15 bug &lt;br&gt; 5 flying &lt;br&gt; 5 steel || Phoebe || 25 ghost &lt;br&gt; 5 dark || Bertha || 25 ground &lt;br&gt; 10 rock &lt;br&gt; 5 water &lt;br&gt; 5 flying
+|-
+| Agatha || 25 poison &lt;br&gt; 15 ghost &lt;br&gt; 5 flying || Bruno || 20 fighting &lt;br&gt; 5 ground &lt;br&gt; 5 rock || Glacia || 25 ice &lt;br&gt; 15 water || Flint || 25 fire &lt;br&gt; 5 fighting &lt;br&gt; 5 dark
+|-
+| Lance || 20 dragon &lt;br&gt; 10 flying &lt;br&gt; 5 water &lt;br&gt; 5 rock || Karen || 15 dark &lt;br&gt; 10 poison &lt;br&gt; 5 fire &lt;br&gt; 5 grass &lt;br&gt; 5 flying &lt;br&gt; 5 ghost || Drake || 25 Dragon &lt;br&gt; 10 flying &lt;br&gt; 5 water &lt;br&gt; 5 ground || Lucian || 25 psychic &lt;br&gt; 5 fighting &lt;br&gt; 5 steel &lt;br&gt; 5 fairy
+|-
+| Blue || If the player picked &lt;br&gt; Bulbasaur:
+&lt;ul&gt; &lt;li&gt; 15 flying
+&lt;li&gt; 10 psychic
+&lt;li&gt; 5 normal
+&lt;li&gt; 5 fire
+&lt;li&gt; 5 water
+&lt;li&gt; 5 grass
+&lt;li&gt; 5 ground
+&lt;li&gt; 5 rock &lt;/ul&gt;
+&lt;br&gt; If the player picked &lt;br&gt; Charmander:
+&lt;ul&gt; &lt;li&gt; 10 psychic
+&lt;li&gt; 5 normal
+&lt;li&gt; 5 fire
+&lt;li&gt; 5 water
+&lt;li&gt; 5 grass
+&lt;li&gt; 5 ground
+&lt;li&gt; 5 flying
+&lt;li&gt; 5 rock &lt;/ul&gt;
+&lt;br&gt; If the player picked &lt;br&gt; Squirtle or Pikachu:
+&lt;ul&gt; &lt;li&gt; 10 flying
+&lt;li&gt; 5 normal
+&lt;li&gt; 5 fire
+&lt;li&gt; 5 water
+&lt;li&gt; 5 grass
+&lt;li&gt; 5 poison
+&lt;li&gt; 5 ground
+&lt;li&gt; 5 psychic
+&lt;li&gt; 5 rock &lt;/ul&gt; &lt;/li&gt; 
+| Lance || 30 flying &lt;br&gt; 15 dragon &lt;br&gt; 5 fire &lt;br&gt; 5 water &lt;br&gt; 5 rock || Wallace || 30 water &lt;br&gt; 5 grass &lt;br&gt; 5 poison &lt;br&gt; 5 ground &lt;br&gt; 5 flying || Cynthia || 5 normal &lt;br&gt; 5 water &lt;br&gt; 5 grass &lt;br&gt; 5 fighting &lt;br&gt; 5 poison &lt;br&gt; 5 ground &lt;br&gt; 5 flying &lt;br&gt; 5 ghost &lt;br&gt; 5 dragon &lt;br&gt; 5 dark &lt;br&gt; 5 steel
+|-
+|}
+
+==Type effectiveness chart==
+[[Type and shard effectiveness]]</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment>/* Total Gym Shards for each gym */</comment>
+    <model>wikitext</model>
+    <parentid>1905</parentid>
+    <sha1>46697087175b47bc4521560c7539deb815eaf54e</sha1>
+  </revision>
+  <revision>
+    <id>1905</id>
+    <timestamp>2020-12-15T16:48:35Z</timestamp>
+    <text bytes="8600" space="preserve">==Details==
+
+===Description===
+Shards are an item dropped when defeating any kind of Pokémon once the player has the [[Shard Case]] unlocked.  These typed shards can be invested into the Shards tab to increase type effectivity, and your damage output.
+
+===Upgrades===
+{| class="wikitable sortable collapsible"
+|-
+! To Purchase Level !! Shard Cost 
+|-
+| 1 || 500
+|-
+| 2 || 1000
+|-
+| 3 || 1500
+|-
+| 4 || 2000
+|-
+| 5 || 2500
+|-
+| 6 || 3000
+|-
+| 7 || 3500
+|-
+| 8 || 4000
+|-
+| 9 || 4500
+|-
+| 10 || 5000
+|-
+| Sum Total || 27,500
+|}
+
+==Methods==
+===Helpful tips===
+The shards you get from defeating a Pokémon depend on the type(s) that Pokémon has.
+Wild Pokémon on routes give 1 shard per type, dungeon encounters give 3, most gym/trainer Pokémon give 5, and dungeon bosses give 20.
+
+Note: Most gyms yield 5 shards per pokémon (excepting Goldenrod, Blackthorn, and Pokémon League Sinnoh (Aaron)), and the most efficient gyms yield the most shards per gym clear. (e.g. Violet City Gym is less efficient than the Petalburg City Gym because it takes twice as many clears of the Violet City Gym to obtain the same number of shards)
+
+===Shard Optimization===
+{| class="wikitable sortable"
+|-
+! rowspan=2 | Shard Type
+! colspan=2 | Routes
+! colspan=4 | Gyms
+|-
+! Route !! Chance
+! Most Efficient Gym (Trainer) !! Amount !! Other Efficient Gyms (Suboptimal) !! Amount
+|-
+|[[File:Normal_shard.png|15px]] Normal || Kanto 1 &lt;br&gt; Kanto 16 || 100% || [[Gyms#Hoenn Gyms|Petalburg Gym]]  || 20 || [[Gyms#Johto_Gyms|Violet Gym]] || 10
+|-
+|[[File:Fire_shard.png|15px]] Fire || Hoenn 112 || 50% || [[Gyms#Sinnoh Gyms|Pokemon League Sinnoh (Flint)]] || 25 || [[Gyms#Kanto Gyms|Cinnabar Gym]] &lt;br&gt; [[Gyms#Hoenn Gyms|Lavaridge Gym]] || 15&lt;br&gt;20
+|-
+|[[File:Water_shard.png|15px]] Water || Kanto 19 &amp; 20 &lt;br&gt;Johto 40 &amp; 41 &lt;br&gt;Hoenn 105-109 &lt;br&gt;Hoenn 122 &lt;br&gt;Hoenn 124-129 &lt;br&gt;Hoenn 131-134 &lt;br&gt;Sinnoh 219 &amp; 220 &lt;br&gt;Sinnoh 223 || 100% || [[Gyms#Hoenn_Gyms|Pokemon League Hoenn (Wallace)]] || 30 ||[[Gyms#Kanto_Gyms|Cerulean Gym]] &lt;br&gt; [[Gyms#Hoenn_Gyms|Sootopolis Gym]] &lt;br&gt; [[Gyms#Sinnoh_Gyms|Pastoria Gym]] || 10&lt;br&gt;25&lt;br&gt;15
+|-
+|[[File:Electric_shard.png|15px]] Electric || Sinnoh 202 || 25% || [[Gyms#Hoenn Gyms|Mauville Gym]] &lt;br&gt; [[Gyms#Sinnoh_Gyms|Sunyshore Gym]] || 20 || [[Gyms#Kanto_Gyms|Vermillion Gym]] || 5
+|-
+|[[File:Grass_shard.png|15px]] Grass || Kanto 15 || 57.1% || [[Gyms#Kanto Gyms|Celadon Gym]] &lt;br&gt; [[Gyms#Sinnoh_Gyms|Eterna Gym]] || 15 || --- || -
+|-
+|[[File:Ice_shard.png|15px]] Ice || Sinnoh 217 || 44.4% || [[Gyms#Hoenn_Gyms|Pokemon League Hoenn (Glacia)]] || 25 || [[Gyms#Sinnoh_Gyms|Snowpoint Gym]] || 20
+|-
+|[[File:Fighting_shard.png|15px]] Fighting || Sinnoh 217 || 33.3% || [[Gyms#Johto_Gyms|Indigo League Johto (Bruno)]] || 20 || [[Gyms#Johto_Gyms|Cianwood Gym]] &lt;br&gt; [[Gyms#Hoenn_Gyms|Dewford Gym]] &lt;br&gt; [[Gyms#Sinnoh_Gyms|Veilstone Gym]] || 10&lt;br&gt;15&lt;br&gt;15
+|-
+|[[File:Poison_shard.png|15px]] Poison || Kanto 15 || 85.7% || [[Gyms#Kanto_Gyms|Indigo League Kanto (Agatha)]] &lt;br&gt; [[Gyms#Johto_Gyms|Indigo League Johto (Koga)]] || 25 || [[Gyms#Kanto_Gyms|Fuschia Gym]] &lt;br&gt; [[Gyms#Johto Gyms|Ecruteak Gym]] || 20&lt;br&gt;15
+|-
+|[[File:Ground_shard.png|15px]] Ground || Hoenn 111 || 55.6% || [[Gyms#Kanto Gyms|Viridian Gym]] &lt;br&gt; [[Gyms#Sinnoh_Gyms|Pokemon League Sinnoh (Bertha)]] || 20 || [[Gyms#Kanto_Gyms|Pewter Gym]] || 10
+|-
+|[[File:Flying_shard.png|15px]] Flying || Hoenn 115 || 60% || [[Gyms#Sinnoh_Gyms|Indigo League Johto (Lance)]] || 30 || [[Gyms#Johto Gyms|Violet Gym]] &lt;br&gt; [[Gyms#Hoenn Gyms|Fortree Gym]] || 10&lt;br&gt;25
+|-
+|[[File:Psychic_shard.png|15px]] Psychic || Kanto 8 &lt;br&gt;Sinnoh 211 || 25% || [[Gyms#Johto Gyms|Indigo League Johto (Will)]] &lt;br&gt; [[Gyms#Sinnoh Gyms|Pokemon League Sinnoh (Lucian)]] || 25 || [[Gyms#Kanto_Gyms|Saffron Gym]] &lt;br&gt; [[Gyms#Hoenn Gyms|Mossdeep Gym]] || 15&lt;br&gt;20
+|-
+|[[File:Bug_shard.png|15px]] Bug  || Johto 30 || 50% || [[Gyms#Johto_Gyms|Azalea Gym]] || 15 || [[Gyms#Sinnoh_Gyms|Pokemon League Sinnoh (Aaron)]]&lt;br&gt;(only 4 shards per pokémon) || 20
+|-
+|[[File:Rock_shard.png|15px]] Rock || Sinnoh 214 || 23.5% || [[Gyms#Hoenn_Gyms|Rustboro Gym]] &lt;br&gt; [[Gyms#Sinnoh_Gyms|Oreburgh Gym]] || 15 || [[Gyms#Kanto_Gyms|Pewter Gym]] || 10
+|-
+|[[File:Ghost_shard.png|15px]] Ghost || Sinnoh 209 || 11.8% || [[Gyms#Hoenn_Gyms|Pokemon League Hoenn (Phoebe)]] || 25 || [[Gyms#Johto_Gyms|Ecruteak Gym]] &lt;br&gt; [[Gyms#Sinnoh_Gyms|Hearthome Gym]] || 20&lt;br&gt;15
+|-
+|[[File:Dragon_shard.png|15px]] Dragon || Johto 45 || 8.3% || [[Gyms#Hoenn_Gyms|Pokemon League Hoenn (Drake)]] || 25 || [[Gyms#Johto_Gyms|Blackthorn Gym]] || 20
+|-
+|[[File:Dark_shard.png|15px]] Dark || Hoenn 101 || 33.3% || [[Gyms#Hoenn_Gyms|Pokemon League Hoenn (Sidney)]] || 25 || --- || -
+|-
+|[[File:Steel_shard.png|15px]] Steel || Hoenn 113 || 33.3% || [[Gyms#Johto_Gyms|Olivine Gym]] &lt;br&gt; [[Gyms#Sinnoh_Gyms|Canalave Gym]] || 15 || --- || -
+|-
+|[[File:Fairy_shard.png|15px]] Fairy || Hoenn 112 || 50% || [[Gyms#Johto_Gyms|Goldenrod Gym]] &lt;br&gt; (only 2.5 per pokémon) || 5 || --- || -
+
+|}
+
+
+
+==== Total Gym Shards for each gym ====
+
+{| class="wikitable sortable collapsible collapsed"
+|-
+! colspan=8 | Region
+|-
+! colspan=2 | Kanto 
+! colspan=2 | Johto 
+! colspan=2 | Hoenn 
+! colspan=2 | Sinnoh
+|-
+! Gym !! Shards Given !! Gym !! Shards Given !! Gym !! Shards Given !! Gym !! Shards Given
+|-
+| Pewter || 10 ground &lt;br&gt; 10 rock || Violet || 10 flying &lt;br&gt; 10 normal || Rustboro || 15 rock &lt;br&gt; 15 ground || Oreburgh || 15 rock &lt;br&gt; 10 ground
+|-
+| Cerulean || 10 water &lt;br&gt; 5 psychic || Azalea || 15 bug &lt;br&gt; 5 poison &lt;br&gt; 5 flying || Dewford || 15 fighting &lt;br&gt; 5 psychic || Eterna || 15 grass &lt;br&gt; 5 poison
+|-
+| Vermilion || 5 electric || Goldenrod || 5 normal &lt;br&gt; 5 fairy || Mauville || 20 electric &lt;br&gt; 5 steel || Hearthome || 15 ghost &lt;br&gt; 5 poison
+|-
+| Celadon || 15 grass &lt;br&gt; 10 poison || Ecruteak || 15 poison &lt;br&gt; 15 ghost || Lavaridge || 20 fire &lt;br&gt; 10 ground || Veilstone || 15 fighting &lt;br&gt; 5 psychic &lt;br&gt; 5 steel
+|-
+| Fuchsia || 20 poison || Olivine || 15 steel &lt;br&gt; 10 electric &lt;br&gt; 5 ground || Petalburg || 20 normal || Pastoria || 15 water &lt;br&gt; 5 ground &lt;br&gt; 5 flying
+|-
+| Saffron || 15 psychic &lt;br&gt; 5 poison &lt;br&gt; 5 bug &lt;br&gt; 5 fairy || Cianwood || 10 fighting &lt;br&gt; 5 water || Fortree || 25 flying &lt;br&gt; 5 normal &lt;br&gt; 5 water &lt;br&gt; 5 grass &lt;br&gt; 5 dragon &lt;br&gt; 5 steel || Canalave || 15 steel &lt;br&gt; 5 electric &lt;br&gt; 5 ground &lt;br&gt; 5 rock
+|-
+| Cinnabar || 15 fire || Mahogany || 10 water &lt;br&gt; 10 ice &lt;br&gt; 5 ground || Mossdeep || 20 psychic &lt;br&gt; 10 rock &lt;br&gt; 5 ground &lt;br&gt; 5 flying || Snowpoint || 20 ice &lt;br&gt; 5 grass &lt;br&gt; 5 ground &lt;br&gt; 5 dark &lt;br&gt; 5 ghost
+|-
+| Viridian || 25 ground &lt;br&gt; 10 poison &lt;br&gt; 10 rock || Blackthorn || 20 dragon &lt;br&gt; 5 water || Sootopolis || 25 water &lt;br&gt; 5 ice &lt;br&gt; 5 ground &lt;br&gt; 5 dragon &lt;br&gt; 5 dark || Sunyshore || 20 electric
+|-
+| Lorelei || 20 water &lt;br&gt; 20 ice &lt;br&gt; 10 psychic || Will || 25 psychic &lt;br&gt; 10 flying &lt;br&gt; 5 water &lt;br&gt; 5 grass &lt;br&gt; 5 ice || Sidney || 25 dark &lt;br&gt; 10 grass &lt;br&gt; 5 water || Aaron || 20 bug &lt;br&gt; 10 flying &lt;br&gt; 5 fighting &lt;br&gt; 5 poison &lt;br&gt; 5 dark &lt;br&gt; 5 steel
+|-
+| Bruno || 10 ground &lt;br&gt; 10 rock &lt;br&gt; 15 fighting || Koga || 20 poison &lt;br&gt; 15 bug &lt;br&gt; 5 flying &lt;br&gt; 5 steel || Phoebe || 25 ghost &lt;br&gt; 5 dark || Bertha || 25 ground &lt;br&gt; 10 rock &lt;br&gt; 5 water &lt;br&gt; 5 flying
+|-
+| Agatha || 25 poison &lt;br&gt; 15 ghost &lt;br&gt; 5 flying || Bruno || 20 fighting &lt;br&gt; 5 ground &lt;br&gt; 5 rock || Glacia || 25 ice &lt;br&gt; 15 water || Flint || 25 fire &lt;br&gt; 5 fighting &lt;br&gt; 5 dark
+|-
+| Lance || 20 dragon &lt;br&gt; 10 flying &lt;br&gt; 5 water &lt;br&gt; 5 rock || Karen || 15 dark &lt;br&gt; 10 poison &lt;br&gt; 5 fire &lt;br&gt; 5 grass &lt;br&gt; 5 flying &lt;br&gt; 5 ghost || Drake || 25 Dragon &lt;br&gt; 10 flying &lt;br&gt; 5 water &lt;br&gt; 5 ground || Lucian || 25 psychic &lt;br&gt; 5 fighting &lt;br&gt; 5 steel &lt;br&gt; 5 fairy
+|-
+| Blue || If the player picked &lt;br&gt; Bulbasaur:
+&lt;ul&gt; &lt;li&gt; 15 flying
+&lt;li&gt; 10 psychic
+&lt;li&gt; 5 normal
+&lt;li&gt; 5 fire
+&lt;li&gt; 5 water
+&lt;li&gt; 5 grass
+&lt;li&gt; 5 ground
+&lt;li&gt; 5 rock &lt;/ul&gt;
+&lt;br&gt; If the player picked &lt;br&gt; Charmander:
+&lt;ul&gt; &lt;li&gt; 10 psychic
+&lt;li&gt; 5 normal
+&lt;li&gt; 5 fire
+&lt;li&gt; 5 water
+&lt;li&gt; 5 grass
+&lt;li&gt; 5 ground
+&lt;li&gt; 5 flying
+&lt;li&gt; 5 rock &lt;/ul&gt;
+&lt;br&gt; If the player picked &lt;br&gt; Squirtle or Pikachu:
+&lt;ul&gt; &lt;li&gt; 10 flying
+&lt;li&gt; 5 normal
+&lt;li&gt; 5 fire
+&lt;li&gt; 5 water
+&lt;li&gt; 5 grass
+&lt;li&gt; 5 poison
+&lt;li&gt; 5 ground
+&lt;li&gt; 5 psychic
+&lt;li&gt; 5 rock &lt;/ul&gt; &lt;/li&gt; 
+| Lance || 30 flying &lt;br&gt; 15 dragon &lt;br&gt; 5 fire &lt;br&gt; 5 water &lt;br&gt; 5 rock || Wallace || 30 water &lt;br&gt; 5 grass &lt;br&gt; 5 poison &lt;br&gt; 5 ground &lt;br&gt; 5 flying || Cynthia || 5 normal &lt;br&gt; 5 water &lt;br&gt; 5 grass &lt;br&gt; 5 fighting &lt;br&gt; 5 poison &lt;br&gt; 5 ground &lt;br&gt; 5 flying &lt;br&gt; 5 ghost &lt;br&gt; 5 dragon &lt;br&gt; 5 dark &lt;br&gt; 5 steel
+|-
+|}
+
+==Type effectiveness chart==
+[[Type and shard effectiveness]]</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment>/* Shard Optimization */</comment>
+    <model>wikitext</model>
+    <parentid>1904</parentid>
+    <sha1>d3a120362a004364aae2207ae49fe3d840dc87a1</sha1>
+  </revision>
+  <revision>
+    <id>1904</id>
+    <timestamp>2020-12-15T16:48:08Z</timestamp>
+    <text bytes="8602" space="preserve">==Details==
+
+===Description===
+Shards are an item dropped when defeating any kind of Pokémon once the player has the [[Shard Case]] unlocked.  These typed shards can be invested into the Shards tab to increase type effectivity, and your damage output.
+
+===Upgrades===
+{| class="wikitable sortable collapsible"
+|-
+! To Purchase Level !! Shard Cost 
+|-
+| 1 || 500
+|-
+| 2 || 1000
+|-
+| 3 || 1500
+|-
+| 4 || 2000
+|-
+| 5 || 2500
+|-
+| 6 || 3000
+|-
+| 7 || 3500
+|-
+| 8 || 4000
+|-
+| 9 || 4500
+|-
+| 10 || 5000
+|-
+| Sum Total || 27,500
+|}
+
+==Methods==
+===Helpful tips===
+The shards you get from defeating a Pokémon depend on the type(s) that Pokémon has.
+Wild Pokémon on routes give 1 shard per type, dungeon encounters give 3, most gym/trainer Pokémon give 5, and dungeon bosses give 20.
+
+Note: Most gyms yield 5 shards per pokémon (excepting Goldenrod, Blackthorn, and Pokémon League Sinnoh (Aaron)), and the most efficient gyms yield the most shards per gym clear. (e.g. Violet City Gym is less efficient than the Petalburg City Gym because it takes twice as many clears of the Violet City Gym to obtain the same number of shards)
+
+===Shard Optimization===
+{| class="wikitable sortable"
+|-
+! rowspan=2 | Shard Type
+! colspan=2 | Routes
+! colspan=4 | Gyms
+|-
+! Route !! Chance
+! Most Efficient Gym (Trainer) !! Amount !! Other Efficient Gyms (Suboptimal) !! Amount
+|-
+|[[File:Normal_shard.png|15px]] Normal || Kanto 1 &lt;br&gt; Kanto 16 || 100% || [[Gyms#Hoenn Gyms|Petalburg Gym]]  || 20 || [[Gyms#Johto_Gyms|Violet Gym]] || 10
+|-
+|[[File:Fire_shard.png|15px]] Fire || Hoenn 112 || 50% || [[Gyms#Sinnoh Gyms|Pokemon League Sinnoh (Flint)]] || 25 || [[Gyms#Kanto Gyms|Cinnabar Gym]] &lt;br&gt; [[Gyms#Hoenn Gyms|Lavaridge Gym]] || 15&lt;br&gt;20
+|-
+|[[File:Water_shard.png|15px]] Water || Kanto 19 &amp; 20 &lt;br&gt;Johto 40 &amp; 41 &lt;br&gt;Hoenn 105-109 &lt;br&gt;Hoenn 122 &lt;br&gt;Hoenn 124-129 &lt;br&gt;Hoenn 131-134 &lt;br&gt;Sinnoh 219 &amp; 220 &lt;br&gt;Sinnoh 223 || 100% || [[Gyms#Hoenn_Gyms|Pokemon League Hoenn (Wallace)]] || 30 ||[[Gyms#Kanto_Gyms|Cerulean Gym]] &lt;br&gt; [[Gyms#Hoenn_Gyms|Sootopolis Gym]] &lt;br&gt; [[Gyms#Sinnoh_Gyms|Pastoria Gym]] || 10&lt;br&gt;25&lt;br&gt;15
+|-
+|[[File:Electric_shard.png|15px]] Electric || Sinnoh 202 || 25% || [[Gyms#Hoenn Gyms|Mauville Gym]] &lt;br&gt; [[Gyms#Sinnoh_Gyms|Sunyshore Gym]] || 20 || [[Gyms#Kanto_Gyms|Vermillion Gym]] || 5
+|-
+|[[File:Grass_shard.png|15px]] Grass || Kanto 15 || 57.1% || [[Gyms#Kanto Gyms|Celadon Gym]] &lt;br&gt; [[Gyms#Sinnoh_Gyms|Eterna Gym]] || 15 || --- || -
+|-
+|[[File:Ice_shard.png|15px]] Ice || Sinnoh 217 || 44.4% || [[Gyms#Hoenn_Gyms|Pokemon League Hoenn (Glacia)]] || 25 || [[Gyms#Sinnoh_Gyms|Snowpoint Gym]] || 20
+|-
+|[[File:Fighting_shard.png|15px]] Fighting || Sinnoh 217 || 33.3% || [[Gyms#Johto_Gyms|Indigo League Johto (Bruno)]] || 20 || [[Gyms#Johto_Gyms|Cianwood Gym]] &lt;br&gt; [[Gyms#Hoenn_Gyms|Dewford Gym]] &lt;br&gt; [[Gyms#Sinnoh_Gyms|Veilstone Gym]] || 10&lt;br&gt;15&lt;br&gt;15
+|-
+|[[File:Poison_shard.png|15px]] Poison || Kanto 15 || 85.7% || [[Gyms#Kanto_Gyms|Indigo League Kanto (Agatha)]] &lt;br&gt; [[Gyms#Johto_Gyms|Indigo League Johto (Koga)]] || 25 || [[Gyms#Kanto_Gyms|Fuschia Gym]] &lt;br&gt; [[Gyms#Johto Gyms|Ecruteak Gym]] || 20&lt;br&gt;15
+|-
+|[[File:Ground_shard.png|15px]] Ground || Hoenn 111 || 55.6% || [[Gyms#Kanto Gyms|Viridian Gym]] &lt;br&gt; [[Gyms#Sinnoh_Gyms|Pokemon League Sinnoh (Bertha)]] || 20 || [[Gyms#Kanto_Gyms|Pewter Gym]] || 10
+|-
+|[[File:Flying_shard.png|15px]] Flying || Hoenn 115 || 60% || [[Gyms#Sinnoh_Gyms|Indigo League Johto (Lance)]] || 30 || [[Gyms#Johto Gyms|Violet Gym]] &lt;br&gt; [[Gyms#Hoenn Gyms|Fortree Gym]] || 10&lt;br&gt;25
+|-
+|[[File:Psychic_shard.png|15px]] Psychic || Kanto 8 &lt;br&gt;Sinnoh 211 || 25% || [[Gyms#Johto Gyms|Indigo League Johto (Will)]] &lt;br&gt; [[Gyms#Sinnoh Gyms|Pokemon League Sinnoh (Lucian)]] || 25 || [[Gyms#Kanto_Gyms|Saffron Gym]] &lt;br&gt; [[Gyms#Hoenn Gyms|Mossdeep Gym]] || 15&lt;br&gt;20
+|-
+|[[File:Bug_shard.png|15px]] Bug  || Johto 30 || 50% || [[Gyms#Johto_Gyms|Azalea Gym]] || 15 || [[Gyms#Sinnoh_Gyms|Pokemon League Sinnoh (Aaron)]]&lt;br&gt;(only 4 shards per pokémon) || 20
+|-
+|[[File:Rock_shard.png|15px]] Rock || Sinnoh 214 || 23.5% || [[Gyms#Hoenn_Gyms|Rustboro Gym]] &lt;br&gt; [[Gyms#Sinnoh_Gyms|Oreburgh Gym]] || 15 || [[Gyms#Kanto_Gyms|Pewter Gym]] || 10
+|-
+|[[File:Ghost_shard.png|15px]] Ghost || Sinnoh 209 || 11.8% || [[Gyms#Hoenn_Gyms|Pokemon League Hoenn (Phoebe)]] || 25 || [[Gyms#Johto_Gyms|Ecruteak Gym]] &lt;br&gt; [[Gyms#Sinnoh_Gyms|Hearthome Gym]] || 20&lt;br&gt;15
+|-
+|[[File:Dragon_shard.png|15px]] Dragon || Johto 45 || 8.3% || [[Gyms#Hoenn_Gyms|Pokemon League Hoenn (Drake)]] || 25 || [[Gyms#Johto_Gyms|Blackthorn Gym]] || 20
+|-
+|[[File:Dark_shard.png|15px]] Dark || Hoenn 101 || 33.3% || [[Gyms#Hoenn_Gyms|Pokemon League Hoenn (Sidney)]] || 25 || --- || -
+|-
+|[[File:Steel_shard.png|15px]] Steel || Hoenn 113 || 33.3% || [[Gyms#Johto_Gyms|Olivine Gym]] &lt;br&gt; [[Gyms#Sinnoh_Gyms|Canalave Gym]] || 15 || --- || -
+|-
+|[[File:Fairy_shard.png|15px]] Fairy || Hoenn 112 || 50% || [[Gyms#Johto_Gyms|Goldenrod Gym]] &lt;br&gt; (only 2.5 per pokémon) || 5 || --- || -
+
+|}
+
+
+
+===== Total Gym Shards for each gym =====
+
+{| class="wikitable sortable collapsible collapsed"
+|-
+! colspan=8 | Region
+|-
+! colspan=2 | Kanto 
+! colspan=2 | Johto 
+! colspan=2 | Hoenn 
+! colspan=2 | Sinnoh
+|-
+! Gym !! Shards Given !! Gym !! Shards Given !! Gym !! Shards Given !! Gym !! Shards Given
+|-
+| Pewter || 10 ground &lt;br&gt; 10 rock || Violet || 10 flying &lt;br&gt; 10 normal || Rustboro || 15 rock &lt;br&gt; 15 ground || Oreburgh || 15 rock &lt;br&gt; 10 ground
+|-
+| Cerulean || 10 water &lt;br&gt; 5 psychic || Azalea || 15 bug &lt;br&gt; 5 poison &lt;br&gt; 5 flying || Dewford || 15 fighting &lt;br&gt; 5 psychic || Eterna || 15 grass &lt;br&gt; 5 poison
+|-
+| Vermilion || 5 electric || Goldenrod || 5 normal &lt;br&gt; 5 fairy || Mauville || 20 electric &lt;br&gt; 5 steel || Hearthome || 15 ghost &lt;br&gt; 5 poison
+|-
+| Celadon || 15 grass &lt;br&gt; 10 poison || Ecruteak || 15 poison &lt;br&gt; 15 ghost || Lavaridge || 20 fire &lt;br&gt; 10 ground || Veilstone || 15 fighting &lt;br&gt; 5 psychic &lt;br&gt; 5 steel
+|-
+| Fuchsia || 20 poison || Olivine || 15 steel &lt;br&gt; 10 electric &lt;br&gt; 5 ground || Petalburg || 20 normal || Pastoria || 15 water &lt;br&gt; 5 ground &lt;br&gt; 5 flying
+|-
+| Saffron || 15 psychic &lt;br&gt; 5 poison &lt;br&gt; 5 bug &lt;br&gt; 5 fairy || Cianwood || 10 fighting &lt;br&gt; 5 water || Fortree || 25 flying &lt;br&gt; 5 normal &lt;br&gt; 5 water &lt;br&gt; 5 grass &lt;br&gt; 5 dragon &lt;br&gt; 5 steel || Canalave || 15 steel &lt;br&gt; 5 electric &lt;br&gt; 5 ground &lt;br&gt; 5 rock
+|-
+| Cinnabar || 15 fire || Mahogany || 10 water &lt;br&gt; 10 ice &lt;br&gt; 5 ground || Mossdeep || 20 psychic &lt;br&gt; 10 rock &lt;br&gt; 5 ground &lt;br&gt; 5 flying || Snowpoint || 20 ice &lt;br&gt; 5 grass &lt;br&gt; 5 ground &lt;br&gt; 5 dark &lt;br&gt; 5 ghost
+|-
+| Viridian || 25 ground &lt;br&gt; 10 poison &lt;br&gt; 10 rock || Blackthorn || 20 dragon &lt;br&gt; 5 water || Sootopolis || 25 water &lt;br&gt; 5 ice &lt;br&gt; 5 ground &lt;br&gt; 5 dragon &lt;br&gt; 5 dark || Sunyshore || 20 electric
+|-
+| Lorelei || 20 water &lt;br&gt; 20 ice &lt;br&gt; 10 psychic || Will || 25 psychic &lt;br&gt; 10 flying &lt;br&gt; 5 water &lt;br&gt; 5 grass &lt;br&gt; 5 ice || Sidney || 25 dark &lt;br&gt; 10 grass &lt;br&gt; 5 water || Aaron || 20 bug &lt;br&gt; 10 flying &lt;br&gt; 5 fighting &lt;br&gt; 5 poison &lt;br&gt; 5 dark &lt;br&gt; 5 steel
+|-
+| Bruno || 10 ground &lt;br&gt; 10 rock &lt;br&gt; 15 fighting || Koga || 20 poison &lt;br&gt; 15 bug &lt;br&gt; 5 flying &lt;br&gt; 5 steel || Phoebe || 25 ghost &lt;br&gt; 5 dark || Bertha || 25 ground &lt;br&gt; 10 rock &lt;br&gt; 5 water &lt;br&gt; 5 flying
+|-
+| Agatha || 25 poison &lt;br&gt; 15 ghost &lt;br&gt; 5 flying || Bruno || 20 fighting &lt;br&gt; 5 ground &lt;br&gt; 5 rock || Glacia || 25 ice &lt;br&gt; 15 water || Flint || 25 fire &lt;br&gt; 5 fighting &lt;br&gt; 5 dark
+|-
+| Lance || 20 dragon &lt;br&gt; 10 flying &lt;br&gt; 5 water &lt;br&gt; 5 rock || Karen || 15 dark &lt;br&gt; 10 poison &lt;br&gt; 5 fire &lt;br&gt; 5 grass &lt;br&gt; 5 flying &lt;br&gt; 5 ghost || Drake || 25 Dragon &lt;br&gt; 10 flying &lt;br&gt; 5 water &lt;br&gt; 5 ground || Lucian || 25 psychic &lt;br&gt; 5 fighting &lt;br&gt; 5 steel &lt;br&gt; 5 fairy
+|-
+| Blue || If the player picked &lt;br&gt; Bulbasaur:
+&lt;ul&gt; &lt;li&gt; 15 flying
+&lt;li&gt; 10 psychic
+&lt;li&gt; 5 normal
+&lt;li&gt; 5 fire
+&lt;li&gt; 5 water
+&lt;li&gt; 5 grass
+&lt;li&gt; 5 ground
+&lt;li&gt; 5 rock &lt;/ul&gt;
+&lt;br&gt; If the player picked &lt;br&gt; Charmander:
+&lt;ul&gt; &lt;li&gt; 10 psychic
+&lt;li&gt; 5 normal
+&lt;li&gt; 5 fire
+&lt;li&gt; 5 water
+&lt;li&gt; 5 grass
+&lt;li&gt; 5 ground
+&lt;li&gt; 5 flying
+&lt;li&gt; 5 rock &lt;/ul&gt;
+&lt;br&gt; If the player picked &lt;br&gt; Squirtle or Pikachu:
+&lt;ul&gt; &lt;li&gt; 10 flying
+&lt;li&gt; 5 normal
+&lt;li&gt; 5 fire
+&lt;li&gt; 5 water
+&lt;li&gt; 5 grass
+&lt;li&gt; 5 poison
+&lt;li&gt; 5 ground
+&lt;li&gt; 5 psychic
+&lt;li&gt; 5 rock &lt;/ul&gt; &lt;/li&gt; 
+| Lance || 30 flying &lt;br&gt; 15 dragon &lt;br&gt; 5 fire &lt;br&gt; 5 water &lt;br&gt; 5 rock || Wallace || 30 water &lt;br&gt; 5 grass &lt;br&gt; 5 poison &lt;br&gt; 5 ground &lt;br&gt; 5 flying || Cynthia || 5 normal &lt;br&gt; 5 water &lt;br&gt; 5 grass &lt;br&gt; 5 fighting &lt;br&gt; 5 poison &lt;br&gt; 5 ground &lt;br&gt; 5 flying &lt;br&gt; 5 ghost &lt;br&gt; 5 dragon &lt;br&gt; 5 dark &lt;br&gt; 5 steel
+|-
+|}
+
+==Type effectiveness chart==
+[[Type and shard effectiveness]]</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment>Total shard table overhaul</comment>
+    <model>wikitext</model>
+    <parentid>1903</parentid>
+    <sha1>bafab80fab70c3b57de5bf79f82063ef8946c83b</sha1>
+  </revision>
+  <revision>
+    <id>1903</id>
+    <timestamp>2020-12-15T15:39:48Z</timestamp>
+    <text bytes="8796" space="preserve">==Details==
+
+===Description===
+Shards are an item dropped when defeating any kind of Pokémon once the player has the [[Shard Case]] unlocked.  These typed shards can be invested into the Shards tab to increase type effectivity, and your damage output.
+
+===Upgrades===
+{| class="wikitable sortable collapsible"
+|-
+! To Purchase Level !! Shard Cost 
+|-
+| 1 || 500
+|-
+| 2 || 1000
+|-
+| 3 || 1500
+|-
+| 4 || 2000
+|-
+| 5 || 2500
+|-
+| 6 || 3000
+|-
+| 7 || 3500
+|-
+| 8 || 4000
+|-
+| 9 || 4500
+|-
+| 10 || 5000
+|-
+| Sum Total || 27,500
+|}
+
+==Methods==
+===Helpful tips===
+The shards you get from defeating a Pokémon depend on the type(s) that Pokémon has.
+Wild Pokémon on routes give 1 shard per type, dungeon encounters give 3, most gym/trainer Pokémon give 5, and dungeon bosses give 20.
+
+Note: Most gyms yield 5 shards per pokémon (excepting Goldenrod, Blackthorn, and Pokémon League Sinnoh (Aaron)), and the most efficient gyms yield the most shards per gym clear. (e.g. Violet City Gym is less efficient than the Petalburg City Gym because it takes twice as many clears of the Violet City Gym to obtain the same number of shards)
+
+===Shard Optimization===
+{| class="wikitable sortable"
+|-
+! rowspan=2 | Shard Type
+! colspan=2 | Routes
+! colspan=4 | Gyms
+|-
+! Route !! Chance
+! Most Efficient Gym (Trainer) !! Amount !! Other Efficient Gyms (Suboptimal) !! Amount
+|-
+|[[File:Normal_shard.png|15px]] Normal || Kanto 1 &lt;br&gt; Kanto 16 || 100% || [[Gyms#Hoenn Gyms|Petalburg Gym]]  || 20 || [[Gyms#Johto_Gyms|Violet Gym]] || 10
+|-
+|[[File:Fire_shard.png|15px]] Fire || Hoenn 112 || 50% || [[Gyms#Sinnoh Gyms|Pokemon League Sinnoh (Flint)]] || 25 || [[Gyms#Kanto Gyms|Cinnabar Gym]] &lt;br&gt; [[Gyms#Hoenn Gyms|Lavaridge Gym]] || 15&lt;br&gt;20
+|-
+|[[File:Water_shard.png|15px]] Water || Kanto 19 &amp; 20 &lt;br&gt;Johto 40 &amp; 41 &lt;br&gt;Hoenn 105-109 &lt;br&gt;Hoenn 122 &lt;br&gt;Hoenn 124-129 &lt;br&gt;Hoenn 131-134 &lt;br&gt;Sinnoh 219 &amp; 220 &lt;br&gt;Sinnoh 223 || 100% || [[Gyms#Hoenn_Gyms|Pokemon League Hoenn (Wallace)]] || 30 ||[[Gyms#Kanto_Gyms|Cerulean Gym]] &lt;br&gt; [[Gyms#Hoenn_Gyms|Sootopolis Gym]] &lt;br&gt; [[Gyms#Sinnoh_Gyms|Pastoria Gym]] || 10&lt;br&gt;25&lt;br&gt;15
+|-
+|[[File:Electric_shard.png|15px]] Electric || Sinnoh 202 || 25% || [[Gyms#Hoenn Gyms|Mauville Gym]] &lt;br&gt; [[Gyms#Sinnoh_Gyms|Sunyshore Gym]] || 20 || [[Gyms#Kanto_Gyms|Vermillion Gym]] || 5
+|-
+|[[File:Grass_shard.png|15px]] Grass || Kanto 15 || 57.1% || [[Gyms#Kanto Gyms|Celadon Gym]] &lt;br&gt; [[Gyms#Sinnoh_Gyms|Eterna Gym]] || 15 || --- || -
+|-
+|[[File:Ice_shard.png|15px]] Ice || Sinnoh 217 || 44.4% || [[Gyms#Hoenn_Gyms|Pokemon League Hoenn (Glacia)]] || 25 || [[Gyms#Sinnoh_Gyms|Snowpoint Gym]] || 20
+|-
+|[[File:Fighting_shard.png|15px]] Fighting || Sinnoh 217 || 33.3% || [[Gyms#Johto_Gyms|Indigo League Johto (Bruno)]] || 20 || [[Gyms#Johto_Gyms|Cianwood Gym]] &lt;br&gt; [[Gyms#Hoenn_Gyms|Dewford Gym]] &lt;br&gt; [[Gyms#Sinnoh_Gyms|Veilstone Gym]] || 10&lt;br&gt;15&lt;br&gt;15
+|-
+|[[File:Poison_shard.png|15px]] Poison || Kanto 15 || 85.7% || [[Gyms#Kanto_Gyms|Indigo League Kanto (Agatha)]] &lt;br&gt; [[Gyms#Johto_Gyms|Indigo League Johto (Koga)]] || 25 || [[Gyms#Kanto_Gyms|Fuschia Gym]] &lt;br&gt; [[Gyms#Johto Gyms|Ecruteak Gym]] || 20&lt;br&gt;15
+|-
+|[[File:Ground_shard.png|15px]] Ground || Hoenn 111 || 55.6% || [[Gyms#Kanto Gyms|Viridian Gym]] &lt;br&gt; [[Gyms#Sinnoh_Gyms|Pokemon League Sinnoh (Bertha)]] || 20 || [[Gyms#Kanto_Gyms|Pewter Gym]] || 10
+|-
+|[[File:Flying_shard.png|15px]] Flying || Hoenn 115 || 60% || [[Gyms#Sinnoh_Gyms|Indigo League Johto (Lance)]] || 30 || [[Gyms#Johto Gyms|Violet Gym]] &lt;br&gt; [[Gyms#Hoenn Gyms|Fortree Gym]] || 10&lt;br&gt;25
+|-
+|[[File:Psychic_shard.png|15px]] Psychic || Kanto 8 &lt;br&gt;Sinnoh 211 || 25% || [[Gyms#Johto Gyms|Indigo League Johto (Will)]] &lt;br&gt; [[Gyms#Sinnoh Gyms|Pokemon League Sinnoh (Lucian)]] || 25 || [[Gyms#Kanto_Gyms|Saffron Gym]] &lt;br&gt; [[Gyms#Hoenn Gyms|Mossdeep Gym]] || 15&lt;br&gt;20
+|-
+|[[File:Bug_shard.png|15px]] Bug  || Johto 30 || 50% || [[Gyms#Johto_Gyms|Azalea Gym]] || 15 || [[Gyms#Sinnoh_Gyms|Pokemon League Sinnoh (Aaron)]]&lt;br&gt;(only 4 shards per pokémon) || 20
+|-
+|[[File:Rock_shard.png|15px]] Rock || Sinnoh 214 || 23.5% || [[Gyms#Hoenn_Gyms|Rustboro Gym]] &lt;br&gt; [[Gyms#Sinnoh_Gyms|Oreburgh Gym]] || 15 || [[Gyms#Kanto_Gyms|Pewter Gym]] || 10
+|-
+|[[File:Ghost_shard.png|15px]] Ghost || Sinnoh 209 || 11.8% || [[Gyms#Hoenn_Gyms|Pokemon League Hoenn (Phoebe)]] || 25 || [[Gyms#Johto_Gyms|Ecruteak Gym]] &lt;br&gt; [[Gyms#Sinnoh_Gyms|Hearthome Gym]] || 20&lt;br&gt;15
+|-
+|[[File:Dragon_shard.png|15px]] Dragon || Johto 45 || 8.3% || [[Gyms#Hoenn_Gyms|Pokemon League Hoenn (Drake)]] || 25 || [[Gyms#Johto_Gyms|Blackthorn Gym]] || 20
+|-
+|[[File:Dark_shard.png|15px]] Dark || Hoenn 101 || 33.3% || [[Gyms#Hoenn_Gyms|Pokemon League Hoenn (Sidney)]] || 25 || --- || -
+|-
+|[[File:Steel_shard.png|15px]] Steel || Hoenn 113 || 33.3% || [[Gyms#Johto_Gyms|Olivine Gym]] &lt;br&gt; [[Gyms#Sinnoh_Gyms|Canalave Gym]] || 15 || --- || -
+|-
+|[[File:Fairy_shard.png|15px]] Fairy || Hoenn 112 || 50% || [[Gyms#Johto_Gyms|Goldenrod Gym]] &lt;br&gt; (only 2.5 per pokémon) || 5 || --- || -
+
+|}
+
+
+
+=====[[Kanto]] Gyms=====
+
+{| class="wikitable sortable collapsible collapsed"
+|-
+! Gym !! Shards Given
+|-
+| Pewter || 10 ground &lt;br&gt; 10 rock
+|-
+| Cerulean || 10 water &lt;br&gt; 5 psychic
+|-
+| Vermilion || 5 electric
+|-
+| Celadon || 15 grass &lt;br&gt; 10 poison
+|-
+| Fuchsia || 20 poison
+|-
+| Saffron || 15 psychic &lt;br&gt; 5 poison &lt;br&gt; 5 bug &lt;br&gt; 5 fairy
+|-
+| Cinnabar || 15 fire
+|-
+| Viridian || 25 ground &lt;br&gt; 10 poison &lt;br&gt; 10 rock
+|-
+| Lorelei || 20 water &lt;br&gt; 20 ice &lt;br&gt; 10 psychic
+|-
+| Bruno || 10 ground &lt;br&gt; 10 rock &lt;br&gt; 15 fighting
+|-
+| Agatha || 25 poison &lt;br&gt; 15 ghost &lt;br&gt; 5 flying
+|-
+| Lance || 20 dragon &lt;br&gt; 10 flying &lt;br&gt; 5 water &lt;br&gt; 5 rock
+|-
+| Blue || If the player picked Bulbasaur:
+&lt;ul&gt; &lt;li&gt; 15 flying
+&lt;li&gt; 10 psychic
+&lt;li&gt; 5 normal
+&lt;li&gt; 5 fire
+&lt;li&gt; 5 water
+&lt;li&gt; 5 grass
+&lt;li&gt; 5 ground
+&lt;li&gt; 5 rock &lt;/ul&gt;
+&lt;br&gt; If the player picked Charmander:
+&lt;ul&gt; &lt;li&gt; 10 psychic
+&lt;li&gt; 5 normal
+&lt;li&gt; 5 fire
+&lt;li&gt; 5 water
+&lt;li&gt; 5 grass
+&lt;li&gt; 5 ground
+&lt;li&gt; 5 flying
+&lt;li&gt; 5 rock &lt;/ul&gt;
+&lt;br&gt; If the player picked Squirtle or Pikachu:
+&lt;ul&gt; &lt;li&gt; 10 flying
+&lt;li&gt; 5 normal
+&lt;li&gt; 5 fire
+&lt;li&gt; 5 water
+&lt;li&gt; 5 grass
+&lt;li&gt; 5 poison
+&lt;li&gt; 5 ground
+&lt;li&gt; 5 psychic
+&lt;li&gt; 5 rock &lt;/ul&gt;
+|-
+|}
+
+
+
+=====[[Johto]] Gyms=====
+
+{| class="wikitable sortable collapsible collapsed"
+|-
+! Gym !! Shards Given
+|-
+| Violet || 10 flying &lt;br&gt; 10 normal
+|-
+| Azalea || 15 bug &lt;br&gt; 5 poison &lt;br&gt; 5 flying
+|-
+| Goldenrod || 5 normal &lt;br&gt; 5 fairy
+|-
+| Ecruteak || 15 poison &lt;br&gt; 15 ghost
+|-
+| Olivine || 15 steel &lt;br&gt; 10 electric &lt;br&gt; 5 ground
+|-
+| Cianwood || 10 fighting &lt;br&gt; 5 water
+|-
+| Mahogany || 10 water &lt;br&gt; 10 ice &lt;br&gt; 5 ground
+|-
+| Blackthorn || 20 dragon &lt;br&gt; 5 water
+|-
+| Will || 25 psychic &lt;br&gt; 10 flying &lt;br&gt; 5 water &lt;br&gt; 5 grass &lt;br&gt; 5 ice
+|-
+| Koga || 20 poison &lt;br&gt; 15 bug &lt;br&gt; 5 flying &lt;br&gt; 5 steel
+|-
+| Bruno || 20 fighting &lt;br&gt; 5 ground &lt;br&gt; 5 rock
+|-
+| Karen || 15 dark &lt;br&gt; 10 poison &lt;br&gt; 5 fire &lt;br&gt; 5 grass &lt;br&gt; 5 flying &lt;br&gt; 5 ghost
+|-
+| Lance || 30 flying &lt;br&gt; 15 dragon &lt;br&gt; 5 fire &lt;br&gt; 5 water &lt;br&gt; 5 rock
+|-
+|}
+
+
+=====[[Hoenn]] Gyms=====
+
+{| class="wikitable sortable collapsible collapsed"
+|-
+! Gym !! Shards Given
+|-
+| Rustboro || 15 rock &lt;br&gt; 15 ground
+|-
+| Dewford || 15 fighting &lt;br&gt; 5 psychic
+|-
+| Mauville || 20 electric &lt;br&gt; 5 steel
+|-
+| Lavaridge || 20 fire &lt;br&gt; 10 ground
+|-
+| Petalburg || 20 normal
+|-
+| Fortree || 25 flying &lt;br&gt; 5 normal &lt;br&gt; 5 water &lt;br&gt; 5 grass &lt;br&gt; 5 dragon &lt;br&gt; 5 steel
+|-
+| Mossdeep || 20 psychic &lt;br&gt; 10 rock &lt;br&gt; 5 ground &lt;br&gt; 5 flying
+|-
+| Sootopolis || 25 water &lt;br&gt; 5 ice &lt;br&gt; 5 ground &lt;br&gt; 5 dragon &lt;br&gt; 5 dark
+|-
+| Sidney || 25 dark &lt;br&gt; 10 grass &lt;br&gt; 5 water
+|-
+| Phoebe || 25 ghost &lt;br&gt; 5 dark
+|-
+| Glacia || 25 ice &lt;br&gt; 15 water
+|-
+| Drake || 25 Dragon &lt;br&gt; 10 flying &lt;br&gt; 5 water &lt;br&gt; 5 ground
+|-
+| Wallace || 30 water &lt;br&gt; 5 grass &lt;br&gt; 5 poison &lt;br&gt; 5 ground &lt;br&gt; 5 flying
+|-
+|}
+
+=====[[Sinnoh]] Gyms=====
+
+{| class="wikitable sortable collapsible collapsed"
+|-
+! Gym !! Shards Given
+|-
+| Sunyshore || 20 electric
+|-
+| Pastoria || 15 water &lt;br&gt; 5 ground &lt;br&gt; 5 flying
+|-
+| Veilstone || 15 fighting &lt;br&gt; 5 psychic &lt;br&gt; 5 steel
+|-
+| Hearthome || 15 ghost &lt;br&gt; 5 poison
+|-
+| Snowpoint || 20 ice &lt;br&gt; 5 grass &lt;br&gt; 5 ground &lt;br&gt; 5 dark &lt;br&gt; 5 ghost
+|-
+| Eterna || 15 grass &lt;br&gt; 5 poison
+|-
+| Oreburgh || 15 rock &lt;br&gt; 10 ground
+|-
+| Canalave || 15 steel &lt;br&gt; 5 electric &lt;br&gt; 5 ground &lt;br&gt; 5 rock
+|-
+| Aaron || 20 bug &lt;br&gt; 10 flying &lt;br&gt; 5 fighting &lt;br&gt; 5 poison &lt;br&gt; 5 dark &lt;br&gt; 5 steel
+|-
+| Bertha || 25 ground &lt;br&gt; 10 rock &lt;br&gt; 5 water &lt;br&gt; 5 flying
+|-
+| Flint || 25 fire &lt;br&gt; 5 fighting &lt;br&gt; 5 dark
+|-
+| Lucian || 25 psychic &lt;br&gt; 5 fighting &lt;br&gt; 5 steel &lt;br&gt; 5 fairy
+|-
+| Cynthia || 5 normal &lt;br&gt; 5 water &lt;br&gt; 5 grass &lt;br&gt; 5 fighting &lt;br&gt; 5 poison &lt;br&gt; 5 ground &lt;br&gt; 5 flying &lt;br&gt; 5 ghost &lt;br&gt; 5 dragon &lt;br&gt; 5 dark &lt;br&gt; 5 steel
+|-
+|}
+
+==Type effectiveness chart==
+[[Type and shard effectiveness]]</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment>/* Shard Optimization */</comment>
+    <model>wikitext</model>
+    <parentid>1902</parentid>
+    <sha1>789b51f7a26ccebee3986cbfbcd10faf5c8f1641</sha1>
+  </revision>
+</page>

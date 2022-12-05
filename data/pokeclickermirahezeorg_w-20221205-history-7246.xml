@@ -1,0 +1,417 @@
+<page>
+  <title>Achievements</title>
+  <ns>0</ns>
+  <id>3272</id>
+  <revision>
+    <id>12749</id>
+    <timestamp>2022-07-22T03:12:14Z</timestamp>
+    <text bytes="12585" space="preserve">As you earn achievements, you gain up to 100% (per region) more [[Poké Dollar|Money]], [[Dungeon Tokens]] and Experience from all sources. Your [[Pokémon Statistics#Click Attack|Click Attack]] is also boosted by the achievement percentage. The '''Achievement Tracker''' is unlocked after catching 110 total Pokémon. There is an additional 100% Achievement Bonus obtainable from non-regional Achievements. Thus, the maximum Achievement bonus at any time is always as follows: &lt;br&gt;&lt;br&gt;
+
+&lt;math&gt;\text{Maximum Achievement Bonus} = \text{100%} \times \text{Region Number} + \text{100%} &lt;/math&gt;&lt;br&gt;&lt;br&gt;
+
+==Achievements==
+===Money===
+{| class="wikitable"
+! Name !! Description !! Bonus Percentage
+|-
+| My First Hundo || Obtain 100 Pokédollars || +0.23%
+|-
+| I Should Buy a PokéMart || Obtain 1,000 Pokédollars || +0.45%
+|-
+| A Small Fortune || Obtain 10,000 Pokédollars || +0.68%
+|-
+| Annual Wage || Obtain 100,000 Pokédollars || +0.90%
+|-
+| Pfft, I Don't Need a Bike Voucher || Obtain 1,000,000 Pokédollars || +1.13%
+|-
+| A billion Poképennies || Obtain 10,000,000 Pokédollars || +2.26%
+|}
+
+===Token===
+{| class="wikitable"
+! Name !! Description !! Bonus Percentage
+|-
+| Dungeon Time || Obtain 100 Dungeon Tokens || +0.23%
+|-
+| Token Collector || Obtain 1,000 Dungeon Tokens || +0.45%
+|-
+| Dungeon Grinder || Obtain 10,000 Dungeon Tokens || +0.68%
+|-
+| Dungeon Master || Obtain 100,000 Dungeon Tokens || +0.90%
+|-
+| Dungeon Master || Obtain 1,000,000 Dungeon Tokens || +1.13%
+|}
+
+===Attack===
+{| class="wikitable"
+! Name !! Description !! Bonus Percentage
+|-
+| Basic Trainer || Obtain 100 Attack || +0.23%
+|-
+| Improving || Obtain 1,000 Attack || +0.45%
+|-
+| An Unrelenting Force || Obtain 5,000 Attack || +0.68%
+|-
+| FUS DOH RAH || Obtain 10,000 Attack || +0.90%
+|-
+| Ok, I have enough attack already... || Obtain 25,000 Attack || +1.13%
+|-
+| Silver attack button! || Obtain 100,000 Attack || +1.35%
+|-
+| Pesky roamings, I need to oneshot routes for them... || Obtain 250,000 Attack || +1.58%
+|-
+| You pressed F12 by any chance? || Obtain 500,000 Attack || +1.80%
+|-
+| Left Left Right Right A B A B - Hey, 1 million! || Obtain 1,000,000 Attack || +1.80%
+|}
+
+===Diamond===
+{| class="wikitable"
+! Name !! Description !! Bonus Percentage
+|-
+| Bling || Obtain 100 Diamonds || +0.23%
+|-
+| Bling x10! || Obtain 1,000 Diamonds || +0.68%
+|-
+| If you like it, you should've put a ring on it. || Obtain 10,000 Diamonds || +1.13%
+|}
+
+===Underground Items Found===
+{| class="wikitable"
+! Name !! Description !! Bonus Percentage
+|-
+| Is my thumb green yet? || Dig up 1 items || +0.05%
+|-
+| My shovel is starting to crack || Dig up 10 items || +0.09%
+|-
+| Why can't I make a diamond shovel? || Dig up 100 items || +0.36%
+|-
+| This is definitely not Minecraft || Dig up 1,000 items || +0.45%
+|-
+| I wonder how much is down there... || Dig up 10,000 items || +1.80%
+|}
+
+===Underground Layers Mined===
+{| class="wikitable"
+! Name !! Description !! Bonus Percentage
+|-
+| The earth is like onions || Dig deeper 1 times || +0.05%
+|-
+| This takes foreverrrrrrr || Dig deeper 10 times || +0.14%
+|-
+| DigDug ain't got nothin on me || Dig deeper 100 times || +0.45%
+|-
+| Both my thumbs are green! This can't be healthy || Dig deeper 1,000 times || +1.35%
+|}
+
+===Max Level Oak Item===
+{| class="wikitable"
+! Name !! Description !! Bonus Percentage
+|-
+| Is that how I use this? || Level 1 Oak Items to the maximum level || +0.23%
+|-
+| I've got my hands full with all of these || Level 3 Oak Items to the maximum level || +0.45%
+|-
+| Professor Oak is the best! || Level 8 Oak Items to the maximum level || +0.63%
+|-
+| Prepared for anything! || Level 12 Oak Items to the maximum level || +0.81%
+|}
+
+===Captured===
+{| class="wikitable"
+! Name !! Description !! Bonus Percentage
+|-
+| First Team || Capture 100 Pokémon || +0.23%
+|-
+| Filling the PC || Capture 1,000 Pokémon || +0.45%
+|-
+| Pokémon Army || Capture 10,000 Pokémon || +0.68%
+|-
+| Pokémon Collector || Capture 100,000 Pokémon || +1.13%
+|-
+| You get a Pokémon, you get a Pokémon, everyone gets a Pokémon! || Capture 1,000,000 Pokémon || +2.26%
+|}
+
+===Defeated===
+{| class="wikitable"
+! Name !! Description !! Bonus Percentage
+|-
+| A Long Road Ahead || Defeat 100 Pokémon || +0.23%
+|-
+| Highway to Pallet Town || Defeat 1,000 Pokémon || +0.45%
+|-
+| Overleveled || Defeat 10,000 Pokémon || +0.68%
+|-
+| The Cake is a Lie, but the Grind is real || Defeat 100,000 Pokémon || +1.13%
+|-
+| Are there any left? || Defeat 1,000,000 Pokémon || +2.26%
+|}
+
+===Caught Pokémon===
+{| class="wikitable"
+! Name !! Description !! Bonus Percentage
+|-
+| Startin' Out || Capture your first Pokémon || +0.05%
+|-
+| Better Than Season 1 Ash || Capture 15 unique Pokémon || +0.23%
+|-
+| Wonderful! Do you like to collect things? || Capture 50 unique Pokémon || +0.45%
+|-
+| Surpassing Ash || Capture 100 unique Pokémon || +0.90%
+|}
+
+===Caught Unique Pokémon by Region===
+{| class="wikitable"
+! rowspan=2|Name !! rowspan=2|Requirement !! colspan=7|Regional Bonus Percentage
+|-
+! Kanto !! Johto !! Hoenn !! Sinnoh !! Unova !! Kalos !! Alola
+|-
+| Region Trainer || Capture 10% of the Regional Pokédex || +0.55% || +0.60% || +0.48% || +0.46% || +0.51% || +0.61% || +0.45%
+|-
+| Region Ace || Capture 50% of the Regional Pokédex || +1.09% || +1.19% || +0.95% || +0.93% || +1.01% || +1.21% || +0.90%
+|-
+| Region Master || Capture 100% of the Regional Pokédex || +1.64% || +1.79% || +1.43% || +1.39% || +1.52% || +1.82% || +1.35%
+|-
+|}
+
+===Caught Unique Shiny Pokémon by Region===
+{| class="wikitable"
+! rowspan=2|Name !! rowspan=2|Requirement !! colspan=7|Regional Bonus Percentage
+|-
+! Kanto !! Johto !! Hoenn !! Sinnoh !! Unova !! Kalos !! Alola
+|-
+| Region Shiny Trainer || Capture 10% unique shinies of the Regional Pokédex || +0.82% || +0.89% || +0.71% || +0.69% || +0.76% || +0.91% || +0.68%
+|-
+| Region Shiny Ace || Capture 50% unique shinies of the Regional Pokédex || +1.64% || +1.79% || +1.43% || +1.39% || +1.52% || +1.82% || +1.35%
+|-
+| Region Shiny Master || Capture 100% unique shinies of the Regional Pokédex || +2.46% || +2.68% || +2.14% || +2.08% || +2.27% || +2.73% || +2.03%
+|-
+|}
+
+===Shiny Pokémon===
+{| class="wikitable"
+! Name !! Description !! Bonus Percentage
+|-
+| I'd rather be shiny || Capture your first Shiny || +0.14%
+|-
+| These Pokémon must be sick || Capture 10 unique Shinies || +0.27%
+|-
+| Why Am I Doing This? || Capture 20 unique Shinies || +0.41%
+|-
+| Why Am I Still Doing This?! || Capture 30 unique Shinies || +0.54%
+|-
+| Okay fine, I can do a few more || Capture 40 unique Shinies || +0.68%
+|-
+| Where Did All The Shiny Pokémon Go? || Capture 50 unique Shinies || +1.35%
+|-
+| Nvm, found some more || Capture 75 unique Shinies || +2.03%
+|-
+| Just keep swimming just keep swimming -- oooo shiny! || Capture 100 unique Shinies || +2.71%
+|-
+| I don't know if I can handle the next batch of shinies. || Capture 151 unique Shinies || +6.77%
+|}
+
+===Hatch===
+{| class="wikitable"
+! Name !! Description !! Bonus Percentage
+|-
+| Pokémon Nursery || Hatch 1 eggs || +0.05%
+|-
+| A Lot of Running || Hatch 10 eggs || +0.18%
+|-
+| Marathon Runner || Hatch 100 eggs || +0.68%
+|-
+| Egg Factory || Hatch 1,000 eggs || +1.35%
+|-
+| Offical Easter Bunny || Hatch 10,000 eggs || +1.80%
+|}
+
+===Pokéball===
+{| class="wikitable"
+! Name !! Description !! Bonus Percentage
+|-
+| Why is my Voltorb Upside Down? || Obtain your first Pokéball || +0.05%
+|-
+| Starting a Collection || Obtain 10 Pokéball || +0.14%
+|-
+| Stocking Up || Obtain 100 Pokéball || +0.23%
+|-
+| Fully Stocked || Obtain 1,000 Pokéball || +0.45%
+|-
+| Maybe just a few more for the bunker || Obtain 10,000 Pokéball || +0.68%
+|-
+| Doomsday Bunker stocked with Pokéballs! || Obtain 100,000 Pokéball || +0.90%
+|-
+| ooooo A blue one! || Obtain your first Greatball || +0.14%
+|-
+| Greatball 2 || Obtain 10 Greatball || +0.23%
+|-
+| Greatball 3 || Obtain 100 Greatball || +0.45%
+|-
+| Greatball 4 || Obtain 1,000 Greatball || +0.68%
+|-
+| Greatball 5 || Obtain 10,000 Greatball || +0.90%
+|-
+| Greatball 6 || Obtain 100,000 Greatball || +1.35%
+|-
+| Ultraball 1 || Obtain your first Ultraball || +0.23%
+|-
+| Ultraball 2 || Obtain 10 Ultraball || +0.45%
+|-
+| Ultraball 3 || Obtain 100 Ultraball || +0.68%
+|-
+| Ultraball 4 || Obtain 1,000 Ultraball || +0.90%
+|-
+| Ultraball 5 || Obtain 10,000 Ultraball || +1.35%
+|-
+| Ultraball 5 || Obtain 100,000 Ultraball || +1.80%
+|-
+| Masterball 1 || Obtain your first Masterball || +0.90%
+|-
+| Masterball 2 || Obtain 10 Masterball || +1.35%
+|-
+| Masterball 3 || Obtain 100 Masterball || +1.80%
+|}
+
+===Click===
+{| class="wikitable"
+! Name !! Description !! Bonus Percentage
+|-
+| A Few Clicks In || Click 10 times || +0.09%
+|-
+| Clicking Pro || Click 100 times || +0.23%
+|-
+| Ultra Clicker || Click 1,000 times || +0.45%
+|-
+| Need a new mouse yet? || Click 10,000 times || +1.13%
+|}
+
+===Route Kill===
+{| class="wikitable"
+|-
+! rowspan=2|Name !! rowspan=2|Requirement !! colspan=7|Regional Bonus Percentage
+|-
+! Kanto !! Johto !! Hoenn !! Sinnoh !! Unova !! Kalos !! Alola
+|-
+| Route Traveler || 100 Kills || +0.27% || +0.30% || +0.24% || +0.23% || +0.25% || +0.30% || +0.23%
+|-
+| Route Explorer || 1,000 Kills || +0.55% || +0.60% || +0.48% || +0.46% || +0.51% || +0.61% || +0.45%
+|-
+| Route Conqueror || 10,000 Kills || +0.82% || +0.89% || +0.71% || +0.69% || +0.76% || +0.91% || +0.68%
+|}
+
+===Clear Gym===
+{| class="wikitable"
+|-
+! rowspan=2|Name !! rowspan=2|Requirement !! colspan=7|Regional Bonus Percentage
+|-
+! Kanto !! Johto !! Hoenn !! Sinnoh !! Unova !! Kalos !! Alola
+|-
+| Gym Regular || 10 Clears || +0.27% || +0.30% || +0.24% || +0.23% || +0.25% || +0.30% || +0.23%
+|-
+| Gym Ruler || 100 Clears || +0.55% || +0.60% || +0.48% || +0.46% || +0.51% || +0.61% || +0.45%
+|-
+| Gym Owner || 1,000 Clears || +0.82% || +0.89% || +0.71% || +0.69% || +0.76% || +0.91% || +0.68%
+|}
+
+===Clear Dungeon===
+{| class="wikitable"
+|-
+! rowspan=2|Name !! rowspan=2|Requirement !! colspan=7|Regional Bonus Percentage
+|-
+! Kanto !! Johto !! Hoenn !! Sinnoh !! Unova !! Kalos !! Alola
+|-
+| Dungeon Explorer || 10 Clears || +0.22% || +0.24% || +0.19% || +0.19% || +0.20% || +0.24% || +0.18%
+|-
+| Dungeon Expert || 100 Clears || +0.33% || +0.36% || +0.29% || +0.28% || +0.30% || +0.36% || +0.27%
+|-
+| Dungeon Hermit || 250 Clears || +0.44% || +0.48% || +0.38% || +0.37% || +0.40% || +0.48% || +0.36%
+|-
+| Dungeon Dweller || 500 Clears || +0.66% || +0.71% || +0.57% || +0.56% || +0.61% || +0.73% || +0.54%
+|}
+
+===Farming===
+{| class="wikitable"
+! Name !! Description !! Bonus Percentage
+|-
+| My new dirty hobby || Unlock 3 Plots in the Farm || +0.23%
+|-
+| Allotment gardener || Unlock 9 Plots in the Farm || +0.68%
+|-
+| Horticulture || Unlock 25 Plots in the Farm || +1.13%
+|-
+| Who planted these here? || Unlock 8 Berries || +0.45%
+|-
+| Farmer in training || Unlock 18 Berries || +0.90%
+|-
+| Farming apprentice || Unlock 36 Berries || +1.35%
+|-
+| Master Farmer || Unlock 67 Berries || +1.80%
+|}
+
+===Quest===
+{| class="wikitable"
+! Name !! Description !! Bonus Percentage
+|-
+| Can you do this for me? || Complete 1 quest || +0.23%
+|-
+| One more favor || Complete 10 quests || +0.68%
+|-
+| YES MAN! || Complete 100 quests || +1.13%
+|-
+| I just love green coins || Complete 1000 quests || +1.80%
+|}
+
+===Battle Frontier===
+{| class="wikitable"
+! Name !! Description !! Bonus Percentage
+|-
+| Fighting novice || Complete stage 100 in Battle Frontier || +0.23%
+|-
+| Competent fighter || Complete stage 250 in Battle Frontier || +0.68%
+|-
+| Unstoppable fighting machine || Complete stage 500 in Battle Frontier || +1.13%
+|-
+| Living Legend || Complete stage 1000 in Battle Frontier || +1.80%
+|-
+| Keep on fighting || Complete 500 total stages in Battle Frontier || +0.23%
+|-
+| Uphill battle || Complete 1000 total stages in Battle Frontier || +0.68%
+|-
+| Don't stop trying || Complete 2500 total stages in Battle Frontier || +1.13%
+|-
+| King of the hill || Complete 5000 total stages in Battle Frontier || +1.80%
+|}
+
+===Protein===
+{| class="wikitable"
+! Name !! Description !! Bonus Percentage
+|-
+| Let's try this out || Obtain 1 protein || +0.05%
+|-
+| Pre-workout supplements || Obtain 5 proteins || +0.09%
+|-
+| Well-stocked medicine cabinet || Obtain 10 proteins || +0.18%
+|-
+| I can't hold all these Proteins! || Obtain 50 proteins || +0.36%
+|-
+| Essential nutrients || Obtain 100 proteins || +0.45%
+|-
+| Putting the 'bulk' in bulk-buy || Obtain 500 proteins || +0.68%
+|-
+| Protein stockpile || Obtain 1000 proteins || +0.90%
+|-
+| Fish, eggs, nuts, and cheese || Obtain 5000 proteins || +1.58%
+|-
+| A literal mountain of muscle || Obtain 10000 proteins || +2.26%
+|}</text>
+    <contributor>
+      <username>ThePantMan</username>
+      <id>8</id>
+    </contributor>
+    <comment>/* Fixed Kanto %s */</comment>
+    <model>wikitext</model>
+    <parentid>12748</parentid>
+    <sha1>3282e16968af7a0a103c49b6f1159b22c45ea26c</sha1>
+  </revision>
+</page>

@@ -1,0 +1,101 @@
+<page>
+  <title>Maranga</title>
+  <ns>0</ns>
+  <id>584</id>
+  <revision>
+    <id>7000</id>
+    <timestamp>2022-07-29T07:39:50Z</timestamp>
+    <text bytes="3230" space="preserve">&lt;languages/&gt;
+&lt;translate&gt;
+{{Infobox Berry
+|name    = #59 Maranga
+|image   = [[File:Maranga.png]]
+|caption = This Berry resembles the Durin Berry, however its spikes are less pronounced. It is quite delicious when roasted.
+|growtime  = 11h 12m 0s
+|harvest = 1 berry
+|replant = 5%
+|mutation = 0.03%
+|points = 3100
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*10 spicy 
+*10 dry
+*35 sweet
+*30 bitter
+*10 sour
+}}
+
+'''Maranga''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by surrounding an empty plot with at least 1 [[Salac]] and at least 1 [[Petaya]].
+
+== Growth Tables ==
+=== Growth Stages ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 1 hour 24 mins || 2 hours 48 mins || 5 hours 36 mins || 11 hours 12 mins - 22 hours 24 mins
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:MarangaTreeTallerUpdated.png|50px]] || &lt;center&gt; [[File:MarangaTreeBloom.png|50px]] || &lt;center&gt; [[File:MarangaTreeBerry.png|50px]]
+|}
+
+=== Ripening Time with Modifiers  ===
+{| class="wikitable" | style="text-align: center;"
+! Modifier !! Ripe-Wither Time !! Boost Mulch Needed to Ripen
+|-
+! None
+| 11 hours 12 mins -&lt;br&gt; 22 hours 24 mins || ---
+|-
+! Mulch or Sprayduck
+| 7 hours 28 mins -&lt;br&gt; 14 hours 56 mins || 90 mulch
+|-
+! Mulch &amp; Sprayduck
+| 4 hours 58 mins 40 secs -&lt;br&gt; 8 hours 57 mins 20 secs || 60 mulch
+|}
+
+== Flow Chart ==
+[[File:Maranga_Flow_Chart1.png|850px]]
+&lt;br&gt;
+
+== Mutation Strategy ==
+=== Possible Planting Formations ===
+
+You can fill your farm in the following way to obtain Maranga berries. Purple squares indicate where mutations can occur.
+
+{| class="wikitable" style="text-align: center;"
+|+ Farm
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Salac.png|30px]] [[Salac]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Salac.png|30px]] [[Salac]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Petaya.png|30px]] [[Petaya]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Petaya.png|30px]] [[Petaya]] 
+|- style="height: 50px; background-color:#9C7D98;"
+| || || || || 
+|-
+| [[File:Salac.png|30px]] [[Salac]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Salac.png|30px]] [[Salac]] || style="background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Petaya.png|30px]] [[Petaya]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Petaya.png|30px]] [[Petaya]] 
+|}
+
+=== Timing Table ===
+{| class="wikitable"| style="text-align: center;"
+|+ ''All planting times use the time-to-ripe remaining of the first planted berry for subsequent planting times''
+! Berry !! Planting Time with &lt;br&gt; No Modifier !! Planting Time with &lt;br&gt; Mulch or Sprayduck || Planting Time with &lt;br&gt;  Mulch &amp; Sprayduck
+|-
+| [[Salac]] || - || - || -
+|-
+| [[Petaya]] || 24 hours until ripe || 16 hours until ripe || 10 hours 40 mins until ripe
+|}
+
+{{Berries}}
+
+[[Category:Farm]][[Category:Berries]]
+&lt;/translate&gt;</text>
+    <contributor>
+      <username>Cthulhu Follower</username>
+      <id>51</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>6999</parentid>
+    <sha1>e0c20cd14a7615f6ba3c0358282b597860a59c37</sha1>
+  </revision>
+</page>

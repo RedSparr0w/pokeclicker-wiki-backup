@@ -1,0 +1,55 @@
+<page>
+  <title>Kelpsy</title>
+  <ns>0</ns>
+  <id>573</id>
+  <revision>
+    <id>6913</id>
+    <timestamp>2020-11-21T23:14:18Z</timestamp>
+    <text bytes="1316" space="preserve">{{Infobox Berry
+|name    = Kelpsy
+|image   = [[File:Kelpsy.png]]
+|caption = This Berry can be eaten as is or boiled to obtain an extract that adds a dash of flavor to food.
+|growtime  = 1h 40m 0s
+|harvest = 21 berries
+|replant = 20%
+|points = 525
+|flavor = {{!}} 0 {{!}} 10 {{!}} 0 {{!}} 10 {{!}} 10
+}}
+'''Kelpsy''' is a type of [[Berries|Berry]] that can be planted in [[Farm]]. It can be obtained by surrounding an empty plot with at least 1 [[Chesto]] and at least 1 [[Persim]].
+
+{| class="wikitable"
+|+ Harvest Stages durations
+! Seed !! Sprout !! Taller !! Bloom !! Berry
+|-
+| 0-240s || 240-2000s || 2000-3400s || 3400-6000s || 6000-12000s
+|-
+| [[File:AllTreeSeed.png|50px]] || [[File:AllTreeSprout.png|50px]] || [[File:KelpsyTreeTaller.png|50px]] || [[File:KelpsyTreeBloom.png|50px]] || [[File:KelpsyTreeBerry.png|50px]]
+|}
+
+=== Possible Planting Formations ===
+
+You can fill your [[farm]] in following way to obtain Kelpsy berry.
+
+{| class="wikitable" style="text-align: center;"
+|+ Farm
+|-
+| style="width: 40px;" | [[Chesto]] || style="width: 40px;" | || style="width: 40px;" | || style="width: 40px;" | [[Chesto]] || style="width: 40px;" | 
+|-
+| || [[Persim]] ||  ||  || [[Persim]] 
+|- style="height: 26px;"
+| || || || || 
+|-
+| [[Chesto]] || || || [[Chesto]] || 
+|-
+| || [[Persim]] ||  ||  || [[Persim]] 
+|}</text>
+    <contributor>
+      <username>Kirby2729</username>
+      <id>67</id>
+    </contributor>
+    <comment>Created page with "{{Infobox Berry |name    = Kelpsy |image   = [[File:Kelpsy.png]] |caption = This Berry can be eaten as is or boiled to obtain an extract that adds a dash of flavor to food. |g..."</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>4e1986b0178e7edcd3d099bcbaa7d41dccf24249</sha1>
+  </revision>
+</page>

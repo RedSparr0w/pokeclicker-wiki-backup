@@ -1,0 +1,779 @@
+<page>
+  <title>Shuca/fr</title>
+  <ns>0</ns>
+  <id>9123</id>
+  <revision>
+    <id>24775</id>
+    <timestamp>2022-08-19T18:57:12Z</timestamp>
+    <text bytes="5199" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #43 Jouca
+|image   = [[File:Shuca.png]]
+|caption = Sa pulpe sucrée est légèrement relevée par une saveur vive et parfumée. La culture de cette baie amollit la terre autour d'elle, ce qui augmente les chances de replante.
+|growtime  = 11h 0m 0s
+|harvest = 28 baies
+|replant = 100%
+|mutation = 0.01%
+|points = 1,700
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*10 Épicée
+*0 Sèche
+*15 Sucrée
+*0 Amère
+*0 Acide
+}}
+
+'''Jouca''' est un type de [[Berries/fr|Baie]] qui peut être plantée à la [[Farm/fr|Ferme]]. Elle peut être obtenue en plantant une [[Watmel/fr|Stekpa]] tout en équipant le [[Spriklotad/fr|Nénurrosoir]]. Cette baie peut aussi être achetée au [[Berry Master|Maître des baies]] contre 10 000 {{farmpoints}} si vous jouez en [[Challenge Mode/fr|mode Challenge]] pas d'objets de Chen, et avez déjà débloqué la baie Stekpa.
+
+== Tables de Croissance ==
+=== Stades de croissance ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Pousse !! Arbuste !! Fleuri !! Mûr
+|-
+! Temps écoulé après plantation
+| 2 heures || 4 heures 30 mins || 9 heures || 11 heures - 22 heures
+|-
+! Animation
+| &lt;center&gt;  [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:ShucaTreeTaller.png|50px]] || &lt;center&gt; [[File:ShucaTreeBloom.png|50px]] || &lt;center&gt; [[File:ShucaTreeBerry.png|50px]]
+|-
+! Aura (chance de replante)
+| || &lt;center&gt; x1.01 || &lt;center&gt; x1.02 || &lt;center&gt; x1.03
+|}
+
+=== Temps de croissance avec modificateurs  ===
+{| class="wikitable" | style="text-align: center;"
+! Modificateur !! Temps maturité-flétrissement !! Nombre de Fertipousse requis
+|-
+! Aucun
+| 11 heures -&lt;br&gt; 22 heures || ---
+|-
+! Engrais ou Kwakarroisoir
+| 7 heures 20 mins -&lt;br&gt; 14 heures 40 mins || 88 engrais
+|-
+! Engrais et Kwakarroisoir
+| 4 heures 53 mins 20 secs -&lt;br&gt; 9 heures 46 mins 40 secs || 59 engrais
+|}
+
+== Organigramme ==
+[[File:Shuca_Flow_Chart.png|250px]]
+&lt;br&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Mutation Strategy ==
+=== Possible Planting Formations ===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+You can fill your farm in the following way to obtain Shuca berries. Purple squares indicate where mutations can occur.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Farm
+|- style="background-color:#9C7D98;"
+| style="width: 60px;" | [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]''' || style="width: 60px;" | [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]''' || style="width: 60px;" | [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]''' || style="width: 60px;" | [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]''' || style="width: 60px;" | [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]'''
+|- style="background-color:#9C7D98;"
+| [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]''' || [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]''' || [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]''' || [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]''' || [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]'''
+|- style="height: 26px; background-color:#9C7D98;"
+| [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]''' || [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]''' || [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]''' || [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]''' || [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]'''
+|- style="background-color:#9C7D98;"
+| [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]''' || [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]''' || [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]''' || [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]''' || [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]'''
+|- style="background-color:#9C7D98;"
+| [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]''' || [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]''' || [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]''' || [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]''' || [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]'''
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Uses==
+===Mutations===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Shuca berries can be used to mutate the following berries.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Babiri.png|20px]] [[Babiri]] || [[File:Charti.png|20px]] [[Charti]]
+|-
+| [[File:Ganlon.png|20px]] [[Ganlon]] || -
+|-
+| [[File:Petaya.png|20px]] [[Petaya]] || [[File:Occa.png|20px]] [[Occa]] [[File:Passho.png|20px]] [[Passho]] &lt;br&gt; [[File:Wacan.png|20px]] [[Wacan]] [[File:Rindo.png|20px]] [[Rindo]] &lt;br&gt; [[File:Yache.png|20px]] [[Yache]] [[File:Chople.png|20px]] [[Chople]] &lt;br&gt; [[File:Kebia.png|20px]] [[Kebia]] [[File:Coba.png|20px]] [[Coba]] &lt;br&gt; [[File:Payapa.png|20px]] [[Payapa]] [[File:Tanga.png|20px]] [[Tanga]] &lt;br&gt; [[File:Charti.png|20px]] [[Charti]] [[File:Kasib.png|20px]] [[Kasib]] &lt;br&gt; [[File:Haban.png|20px]] [[Haban]] [[File:Colbur.png|20px]] [[Colbur]] &lt;br&gt; [[File:Babiri.png|20px]] [[Babiri]] [[File:Chilan.png|20px]] [[Chilan]] &lt;br&gt; [[File:Roseli.png|20px]] [[Roseli]]
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>Incandescence</username>
+      <id>141</id>
+    </contributor>
+    <comment>Created page with "== Organigramme == [[File:Shuca_Flow_Chart.png|250px]] &lt;br&gt;"</comment>
+    <model>wikitext</model>
+    <parentid>24774</parentid>
+    <sha1>bada64a2c5e4cbf8c4110c2b73089162b5e22b21</sha1>
+  </revision>
+  <revision>
+    <id>24774</id>
+    <timestamp>2022-08-19T18:56:55Z</timestamp>
+    <text bytes="5253" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #43 Jouca
+|image   = [[File:Shuca.png]]
+|caption = Sa pulpe sucrée est légèrement relevée par une saveur vive et parfumée. La culture de cette baie amollit la terre autour d'elle, ce qui augmente les chances de replante.
+|growtime  = 11h 0m 0s
+|harvest = 28 baies
+|replant = 100%
+|mutation = 0.01%
+|points = 1,700
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*10 Épicée
+*0 Sèche
+*15 Sucrée
+*0 Amère
+*0 Acide
+}}
+
+'''Jouca''' est un type de [[Berries/fr|Baie]] qui peut être plantée à la [[Farm/fr|Ferme]]. Elle peut être obtenue en plantant une [[Watmel/fr|Stekpa]] tout en équipant le [[Spriklotad/fr|Nénurrosoir]]. Cette baie peut aussi être achetée au [[Berry Master|Maître des baies]] contre 10 000 {{farmpoints}} si vous jouez en [[Challenge Mode/fr|mode Challenge]] pas d'objets de Chen, et avez déjà débloqué la baie Stekpa.
+
+== Tables de Croissance ==
+=== Stades de croissance ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Pousse !! Arbuste !! Fleuri !! Mûr
+|-
+! Temps écoulé après plantation
+| 2 heures || 4 heures 30 mins || 9 heures || 11 heures - 22 heures
+|-
+! Animation
+| &lt;center&gt;  [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:ShucaTreeTaller.png|50px]] || &lt;center&gt; [[File:ShucaTreeBloom.png|50px]] || &lt;center&gt; [[File:ShucaTreeBerry.png|50px]]
+|-
+! Aura (chance de replante)
+| || &lt;center&gt; x1.01 || &lt;center&gt; x1.02 || &lt;center&gt; x1.03
+|}
+
+=== Temps de croissance avec modificateurs  ===
+{| class="wikitable" | style="text-align: center;"
+! Modificateur !! Temps maturité-flétrissement !! Nombre de Fertipousse requis
+|-
+! Aucun
+| 11 heures -&lt;br&gt; 22 heures || ---
+|-
+! Engrais ou Kwakarroisoir
+| 7 heures 20 mins -&lt;br&gt; 14 heures 40 mins || 88 engrais
+|-
+! Engrais et Kwakarroisoir
+| 4 heures 53 mins 20 secs -&lt;br&gt; 9 heures 46 mins 40 secs || 59 engrais
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Flow Chart ==
+[[File:Shuca_Flow_Chart.png|250px]]
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Mutation Strategy ==
+=== Possible Planting Formations ===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+You can fill your farm in the following way to obtain Shuca berries. Purple squares indicate where mutations can occur.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Farm
+|- style="background-color:#9C7D98;"
+| style="width: 60px;" | [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]''' || style="width: 60px;" | [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]''' || style="width: 60px;" | [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]''' || style="width: 60px;" | [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]''' || style="width: 60px;" | [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]'''
+|- style="background-color:#9C7D98;"
+| [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]''' || [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]''' || [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]''' || [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]''' || [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]'''
+|- style="height: 26px; background-color:#9C7D98;"
+| [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]''' || [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]''' || [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]''' || [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]''' || [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]'''
+|- style="background-color:#9C7D98;"
+| [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]''' || [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]''' || [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]''' || [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]''' || [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]'''
+|- style="background-color:#9C7D98;"
+| [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]''' || [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]''' || [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]''' || [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]''' || [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]'''
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Uses==
+===Mutations===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Shuca berries can be used to mutate the following berries.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Babiri.png|20px]] [[Babiri]] || [[File:Charti.png|20px]] [[Charti]]
+|-
+| [[File:Ganlon.png|20px]] [[Ganlon]] || -
+|-
+| [[File:Petaya.png|20px]] [[Petaya]] || [[File:Occa.png|20px]] [[Occa]] [[File:Passho.png|20px]] [[Passho]] &lt;br&gt; [[File:Wacan.png|20px]] [[Wacan]] [[File:Rindo.png|20px]] [[Rindo]] &lt;br&gt; [[File:Yache.png|20px]] [[Yache]] [[File:Chople.png|20px]] [[Chople]] &lt;br&gt; [[File:Kebia.png|20px]] [[Kebia]] [[File:Coba.png|20px]] [[Coba]] &lt;br&gt; [[File:Payapa.png|20px]] [[Payapa]] [[File:Tanga.png|20px]] [[Tanga]] &lt;br&gt; [[File:Charti.png|20px]] [[Charti]] [[File:Kasib.png|20px]] [[Kasib]] &lt;br&gt; [[File:Haban.png|20px]] [[Haban]] [[File:Colbur.png|20px]] [[Colbur]] &lt;br&gt; [[File:Babiri.png|20px]] [[Babiri]] [[File:Chilan.png|20px]] [[Chilan]] &lt;br&gt; [[File:Roseli.png|20px]] [[Roseli]]
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>Incandescence</username>
+      <id>141</id>
+    </contributor>
+    <comment>Created page with "=== Temps de croissance avec modificateurs  === {| class="wikitable" | style="text-align: center;" ! Modificateur !! Temps maturité-flétrissement !! Nombre de Fertipousse requis |- ! Aucun | 11 heures -&lt;br&gt; 22 heures || --- |- ! Engrais ou Kwakarroisoir | 7 heures 20 mins -&lt;br&gt; 14 heures 40 mins || 88 engrais |- ! Engrais et Kwakarroisoir | 4 heures 53 mins 20 secs -&lt;br&gt; 9 heures 46 mins 40 secs || 59 engrais |}"</comment>
+    <model>wikitext</model>
+    <parentid>24773</parentid>
+    <sha1>57bb4b222ec76309439e9d329ccd23942c23d79a</sha1>
+  </revision>
+  <revision>
+    <id>24773</id>
+    <timestamp>2022-08-19T18:55:30Z</timestamp>
+    <text bytes="5256" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #43 Jouca
+|image   = [[File:Shuca.png]]
+|caption = Sa pulpe sucrée est légèrement relevée par une saveur vive et parfumée. La culture de cette baie amollit la terre autour d'elle, ce qui augmente les chances de replante.
+|growtime  = 11h 0m 0s
+|harvest = 28 baies
+|replant = 100%
+|mutation = 0.01%
+|points = 1,700
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*10 Épicée
+*0 Sèche
+*15 Sucrée
+*0 Amère
+*0 Acide
+}}
+
+'''Jouca''' est un type de [[Berries/fr|Baie]] qui peut être plantée à la [[Farm/fr|Ferme]]. Elle peut être obtenue en plantant une [[Watmel/fr|Stekpa]] tout en équipant le [[Spriklotad/fr|Nénurrosoir]]. Cette baie peut aussi être achetée au [[Berry Master|Maître des baies]] contre 10 000 {{farmpoints}} si vous jouez en [[Challenge Mode/fr|mode Challenge]] pas d'objets de Chen, et avez déjà débloqué la baie Stekpa.
+
+== Tables de Croissance ==
+=== Stades de croissance ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Pousse !! Arbuste !! Fleuri !! Mûr
+|-
+! Temps écoulé après plantation
+| 2 heures || 4 heures 30 mins || 9 heures || 11 heures - 22 heures
+|-
+! Animation
+| &lt;center&gt;  [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:ShucaTreeTaller.png|50px]] || &lt;center&gt; [[File:ShucaTreeBloom.png|50px]] || &lt;center&gt; [[File:ShucaTreeBerry.png|50px]]
+|-
+! Aura (chance de replante)
+| || &lt;center&gt; x1.01 || &lt;center&gt; x1.02 || &lt;center&gt; x1.03
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+=== Ripening Time with Modifiers  ===
+{| class="wikitable" | style="text-align: center;"
+! Modifier !! Ripe-Wither Time !! Boost Mulch Needed to Ripen
+|-
+! None
+| 11 hours -&lt;br&gt; 22 hours || ---
+|-
+! Mulch or Sprayduck
+| 7 hours 20 mins -&lt;br&gt; 14 hours 40 mins || 88 mulch
+|-
+! Mulch &amp; Sprayduck
+| 4 hours 53 mins 20 secs -&lt;br&gt; 9 hours 46 mins 40 secs || 59 mulch
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Flow Chart ==
+[[File:Shuca_Flow_Chart.png|250px]]
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Mutation Strategy ==
+=== Possible Planting Formations ===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+You can fill your farm in the following way to obtain Shuca berries. Purple squares indicate where mutations can occur.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Farm
+|- style="background-color:#9C7D98;"
+| style="width: 60px;" | [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]''' || style="width: 60px;" | [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]''' || style="width: 60px;" | [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]''' || style="width: 60px;" | [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]''' || style="width: 60px;" | [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]'''
+|- style="background-color:#9C7D98;"
+| [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]''' || [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]''' || [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]''' || [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]''' || [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]'''
+|- style="height: 26px; background-color:#9C7D98;"
+| [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]''' || [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]''' || [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]''' || [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]''' || [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]'''
+|- style="background-color:#9C7D98;"
+| [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]''' || [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]''' || [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]''' || [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]''' || [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]'''
+|- style="background-color:#9C7D98;"
+| [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]''' || [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]''' || [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]''' || [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]''' || [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]'''
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Uses==
+===Mutations===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Shuca berries can be used to mutate the following berries.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Babiri.png|20px]] [[Babiri]] || [[File:Charti.png|20px]] [[Charti]]
+|-
+| [[File:Ganlon.png|20px]] [[Ganlon]] || -
+|-
+| [[File:Petaya.png|20px]] [[Petaya]] || [[File:Occa.png|20px]] [[Occa]] [[File:Passho.png|20px]] [[Passho]] &lt;br&gt; [[File:Wacan.png|20px]] [[Wacan]] [[File:Rindo.png|20px]] [[Rindo]] &lt;br&gt; [[File:Yache.png|20px]] [[Yache]] [[File:Chople.png|20px]] [[Chople]] &lt;br&gt; [[File:Kebia.png|20px]] [[Kebia]] [[File:Coba.png|20px]] [[Coba]] &lt;br&gt; [[File:Payapa.png|20px]] [[Payapa]] [[File:Tanga.png|20px]] [[Tanga]] &lt;br&gt; [[File:Charti.png|20px]] [[Charti]] [[File:Kasib.png|20px]] [[Kasib]] &lt;br&gt; [[File:Haban.png|20px]] [[Haban]] [[File:Colbur.png|20px]] [[Colbur]] &lt;br&gt; [[File:Babiri.png|20px]] [[Babiri]] [[File:Chilan.png|20px]] [[Chilan]] &lt;br&gt; [[File:Roseli.png|20px]] [[Roseli]]
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>Incandescence</username>
+      <id>141</id>
+    </contributor>
+    <comment>Created page with "== Tables de Croissance == === Stades de croissance === {| class="wikitable" | style = "image-rendering: pixelated" ! !! Pousse !! Arbuste !! Fleuri !! Mûr |- ! Temps écoulé après plantation | 2 heures || 4 heures 30 mins || 9 heures || 11 heures - 22 heures |- ! Animation | &lt;center&gt;  [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:ShucaTreeTaller.png|50px]] || &lt;center&gt; [[File:ShucaTreeBloom.png|50px]] || &lt;center&gt; [[File:ShucaTreeBerry.png|50px]] |- ! Aura (chance..."</comment>
+    <model>wikitext</model>
+    <parentid>24772</parentid>
+    <sha1>f075ee6f36a1174de00eb0cd7d34c2114f23ac19</sha1>
+  </revision>
+  <revision>
+    <id>24772</id>
+    <timestamp>2022-08-19T18:53:10Z</timestamp>
+    <text bytes="5281" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #43 Jouca
+|image   = [[File:Shuca.png]]
+|caption = Sa pulpe sucrée est légèrement relevée par une saveur vive et parfumée. La culture de cette baie amollit la terre autour d'elle, ce qui augmente les chances de replante.
+|growtime  = 11h 0m 0s
+|harvest = 28 baies
+|replant = 100%
+|mutation = 0.01%
+|points = 1,700
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*10 Épicée
+*0 Sèche
+*15 Sucrée
+*0 Amère
+*0 Acide
+}}
+
+'''Jouca''' est un type de [[Berries/fr|Baie]] qui peut être plantée à la [[Farm/fr|Ferme]]. Elle peut être obtenue en plantant une [[Watmel/fr|Stekpa]] tout en équipant le [[Spriklotad/fr|Nénurrosoir]]. Cette baie peut aussi être achetée au [[Berry Master|Maître des baies]] contre 10 000 {{farmpoints}} si vous jouez en [[Challenge Mode/fr|mode Challenge]] pas d'objets de Chen, et avez déjà débloqué la baie Stekpa.
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Growth Tables ==
+=== Growth Stages ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+!!! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 2 hours || 4 hours 30 mins || 9 hours || 11 hours - 22 hours
+|-
+! Animation
+| &lt;center&gt;  [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:ShucaTreeTaller.png|50px]] || &lt;center&gt; [[File:ShucaTreeBloom.png|50px]] || &lt;center&gt; [[File:ShucaTreeBerry.png|50px]]
+|-
+! Aura (replant chance)
+| || &lt;center&gt; x1.01 || &lt;center&gt; x1.02 || &lt;center&gt; x1.03
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+=== Ripening Time with Modifiers  ===
+{| class="wikitable" | style="text-align: center;"
+! Modifier !! Ripe-Wither Time !! Boost Mulch Needed to Ripen
+|-
+! None
+| 11 hours -&lt;br&gt; 22 hours || ---
+|-
+! Mulch or Sprayduck
+| 7 hours 20 mins -&lt;br&gt; 14 hours 40 mins || 88 mulch
+|-
+! Mulch &amp; Sprayduck
+| 4 hours 53 mins 20 secs -&lt;br&gt; 9 hours 46 mins 40 secs || 59 mulch
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Flow Chart ==
+[[File:Shuca_Flow_Chart.png|250px]]
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Mutation Strategy ==
+=== Possible Planting Formations ===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+You can fill your farm in the following way to obtain Shuca berries. Purple squares indicate where mutations can occur.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Farm
+|- style="background-color:#9C7D98;"
+| style="width: 60px;" | [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]''' || style="width: 60px;" | [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]''' || style="width: 60px;" | [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]''' || style="width: 60px;" | [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]''' || style="width: 60px;" | [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]'''
+|- style="background-color:#9C7D98;"
+| [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]''' || [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]''' || [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]''' || [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]''' || [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]'''
+|- style="height: 26px; background-color:#9C7D98;"
+| [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]''' || [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]''' || [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]''' || [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]''' || [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]'''
+|- style="background-color:#9C7D98;"
+| [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]''' || [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]''' || [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]''' || [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]''' || [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]'''
+|- style="background-color:#9C7D98;"
+| [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]''' || [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]''' || [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]''' || [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]''' || [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]'''
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Uses==
+===Mutations===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Shuca berries can be used to mutate the following berries.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Babiri.png|20px]] [[Babiri]] || [[File:Charti.png|20px]] [[Charti]]
+|-
+| [[File:Ganlon.png|20px]] [[Ganlon]] || -
+|-
+| [[File:Petaya.png|20px]] [[Petaya]] || [[File:Occa.png|20px]] [[Occa]] [[File:Passho.png|20px]] [[Passho]] &lt;br&gt; [[File:Wacan.png|20px]] [[Wacan]] [[File:Rindo.png|20px]] [[Rindo]] &lt;br&gt; [[File:Yache.png|20px]] [[Yache]] [[File:Chople.png|20px]] [[Chople]] &lt;br&gt; [[File:Kebia.png|20px]] [[Kebia]] [[File:Coba.png|20px]] [[Coba]] &lt;br&gt; [[File:Payapa.png|20px]] [[Payapa]] [[File:Tanga.png|20px]] [[Tanga]] &lt;br&gt; [[File:Charti.png|20px]] [[Charti]] [[File:Kasib.png|20px]] [[Kasib]] &lt;br&gt; [[File:Haban.png|20px]] [[Haban]] [[File:Colbur.png|20px]] [[Colbur]] &lt;br&gt; [[File:Babiri.png|20px]] [[Babiri]] [[File:Chilan.png|20px]] [[Chilan]] &lt;br&gt; [[File:Roseli.png|20px]] [[Roseli]]
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>Incandescence</username>
+      <id>141</id>
+    </contributor>
+    <comment>Created page with "'''Jouca''' est un type de [[Berries/fr|Baie]] qui peut être plantée à la [[Farm/fr|Ferme]]. Elle peut être obtenue en plantant une [[Watmel/fr|Stekpa]] tout en équipant le [[Spriklotad/fr|Nénurrosoir]]. Cette baie peut aussi être achetée au [[Berry Master|Maître des baies]] contre 10 000 {{farmpoints}} si vous jouez en [[Challenge Mode/fr|mode Challenge]] pas d'objets de Chen, et avez déjà débloqué la baie Stekpa."</comment>
+    <model>wikitext</model>
+    <parentid>24771</parentid>
+    <sha1>e72fd78569f4b7b9e629afd0dcfcab6fd4fba953</sha1>
+  </revision>
+  <revision>
+    <id>24771</id>
+    <timestamp>2022-08-19T18:50:03Z</timestamp>
+    <text bytes="5324" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #43 Jouca
+|image   = [[File:Shuca.png]]
+|caption = Sa pulpe sucrée est légèrement relevée par une saveur vive et parfumée. La culture de cette baie amollit la terre autour d'elle, ce qui augmente les chances de replante.
+|growtime  = 11h 0m 0s
+|harvest = 28 baies
+|replant = 100%
+|mutation = 0.01%
+|points = 1,700
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*10 Épicée
+*0 Sèche
+*15 Sucrée
+*0 Amère
+*0 Acide
+}}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+'''Shuca''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by planting [[Watmel]] and equipping the [[Sprinklotad]]. The Watmel will then have a chance to mutate into this berry.  This berry can be bought from the Johto [[Berry Master]] for 10,000 {{farmpoints}} if the player is running the "No Oak Item" [[Challenge Mode|challenge]], and has already unlocked the Watmel berry.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Growth Tables ==
+=== Growth Stages ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+!!! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 2 hours || 4 hours 30 mins || 9 hours || 11 hours - 22 hours
+|-
+! Animation
+| &lt;center&gt;  [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:ShucaTreeTaller.png|50px]] || &lt;center&gt; [[File:ShucaTreeBloom.png|50px]] || &lt;center&gt; [[File:ShucaTreeBerry.png|50px]]
+|-
+! Aura (replant chance)
+| || &lt;center&gt; x1.01 || &lt;center&gt; x1.02 || &lt;center&gt; x1.03
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+=== Ripening Time with Modifiers  ===
+{| class="wikitable" | style="text-align: center;"
+! Modifier !! Ripe-Wither Time !! Boost Mulch Needed to Ripen
+|-
+! None
+| 11 hours -&lt;br&gt; 22 hours || ---
+|-
+! Mulch or Sprayduck
+| 7 hours 20 mins -&lt;br&gt; 14 hours 40 mins || 88 mulch
+|-
+! Mulch &amp; Sprayduck
+| 4 hours 53 mins 20 secs -&lt;br&gt; 9 hours 46 mins 40 secs || 59 mulch
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Flow Chart ==
+[[File:Shuca_Flow_Chart.png|250px]]
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Mutation Strategy ==
+=== Possible Planting Formations ===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+You can fill your farm in the following way to obtain Shuca berries. Purple squares indicate where mutations can occur.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Farm
+|- style="background-color:#9C7D98;"
+| style="width: 60px;" | [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]''' || style="width: 60px;" | [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]''' || style="width: 60px;" | [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]''' || style="width: 60px;" | [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]''' || style="width: 60px;" | [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]'''
+|- style="background-color:#9C7D98;"
+| [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]''' || [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]''' || [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]''' || [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]''' || [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]'''
+|- style="height: 26px; background-color:#9C7D98;"
+| [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]''' || [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]''' || [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]''' || [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]''' || [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]'''
+|- style="background-color:#9C7D98;"
+| [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]''' || [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]''' || [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]''' || [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]''' || [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]'''
+|- style="background-color:#9C7D98;"
+| [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]''' || [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]''' || [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]''' || [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]''' || [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]'''
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Uses==
+===Mutations===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Shuca berries can be used to mutate the following berries.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Babiri.png|20px]] [[Babiri]] || [[File:Charti.png|20px]] [[Charti]]
+|-
+| [[File:Ganlon.png|20px]] [[Ganlon]] || -
+|-
+| [[File:Petaya.png|20px]] [[Petaya]] || [[File:Occa.png|20px]] [[Occa]] [[File:Passho.png|20px]] [[Passho]] &lt;br&gt; [[File:Wacan.png|20px]] [[Wacan]] [[File:Rindo.png|20px]] [[Rindo]] &lt;br&gt; [[File:Yache.png|20px]] [[Yache]] [[File:Chople.png|20px]] [[Chople]] &lt;br&gt; [[File:Kebia.png|20px]] [[Kebia]] [[File:Coba.png|20px]] [[Coba]] &lt;br&gt; [[File:Payapa.png|20px]] [[Payapa]] [[File:Tanga.png|20px]] [[Tanga]] &lt;br&gt; [[File:Charti.png|20px]] [[Charti]] [[File:Kasib.png|20px]] [[Kasib]] &lt;br&gt; [[File:Haban.png|20px]] [[Haban]] [[File:Colbur.png|20px]] [[Colbur]] &lt;br&gt; [[File:Babiri.png|20px]] [[Babiri]] [[File:Chilan.png|20px]] [[Chilan]] &lt;br&gt; [[File:Roseli.png|20px]] [[Roseli]]
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>Incandescence</username>
+      <id>141</id>
+    </contributor>
+    <comment>Created page with "{{Infobox Berry |name    = #43 Jouca |image   = [[File:Shuca.png]] |caption = Sa pulpe sucrée est légèrement relevée par une saveur vive et parfumée. La culture de cette baie amollit la terre autour d'elle, ce qui augmente les chances de replante. |growtime  = 11h 0m 0s |harvest = 28 baies |replant = 100% |mutation = 0.01% |points = 1,700 |flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt; *10 Épicée *0 Sèche *15 Sucrée *0 Amère *0 Acide }}"</comment>
+    <model>wikitext</model>
+    <parentid>24770</parentid>
+    <sha1>3a363e3103917bd5578b50bac237152a8edbc645</sha1>
+  </revision>
+  <revision>
+    <id>24770</id>
+    <timestamp>2022-08-19T18:42:50Z</timestamp>
+    <text bytes="5377" space="preserve">&lt;languages/&gt;
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Infobox Berry
+|name    = #43 Shuca
+|image   = [[File:Shuca.png]]
+|caption = The sweetness-laden pulp has just the hint of a hard-edged and fragrant bite to it. Growing these Berries will soften the ground around it, increasing the chances of replanting.
+|growtime  = 11h 0m 0s
+|harvest = 28 berries
+|replant = 100%
+|mutation = 0.01%
+|points = 1,700
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*10 spicy 
+*0 dry
+*15 sweet
+*0 bitter
+*0 sour
+}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+'''Shuca''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by planting [[Watmel]] and equipping the [[Sprinklotad]]. The Watmel will then have a chance to mutate into this berry.  This berry can be bought from the Johto [[Berry Master]] for 10,000 {{farmpoints}} if the player is running the "No Oak Item" [[Challenge Mode|challenge]], and has already unlocked the Watmel berry.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Growth Tables ==
+=== Growth Stages ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+!!! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 2 hours || 4 hours 30 mins || 9 hours || 11 hours - 22 hours
+|-
+! Animation
+| &lt;center&gt;  [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:ShucaTreeTaller.png|50px]] || &lt;center&gt; [[File:ShucaTreeBloom.png|50px]] || &lt;center&gt; [[File:ShucaTreeBerry.png|50px]]
+|-
+! Aura (replant chance)
+| || &lt;center&gt; x1.01 || &lt;center&gt; x1.02 || &lt;center&gt; x1.03
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+=== Ripening Time with Modifiers  ===
+{| class="wikitable" | style="text-align: center;"
+! Modifier !! Ripe-Wither Time !! Boost Mulch Needed to Ripen
+|-
+! None
+| 11 hours -&lt;br&gt; 22 hours || ---
+|-
+! Mulch or Sprayduck
+| 7 hours 20 mins -&lt;br&gt; 14 hours 40 mins || 88 mulch
+|-
+! Mulch &amp; Sprayduck
+| 4 hours 53 mins 20 secs -&lt;br&gt; 9 hours 46 mins 40 secs || 59 mulch
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Flow Chart ==
+[[File:Shuca_Flow_Chart.png|250px]]
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Mutation Strategy ==
+=== Possible Planting Formations ===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+You can fill your farm in the following way to obtain Shuca berries. Purple squares indicate where mutations can occur.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Farm
+|- style="background-color:#9C7D98;"
+| style="width: 60px;" | [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]''' || style="width: 60px;" | [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]''' || style="width: 60px;" | [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]''' || style="width: 60px;" | [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]''' || style="width: 60px;" | [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]'''
+|- style="background-color:#9C7D98;"
+| [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]''' || [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]''' || [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]''' || [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]''' || [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]'''
+|- style="height: 26px; background-color:#9C7D98;"
+| [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]''' || [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]''' || [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]''' || [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]''' || [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]'''
+|- style="background-color:#9C7D98;"
+| [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]''' || [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]''' || [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]''' || [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]''' || [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]'''
+|- style="background-color:#9C7D98;"
+| [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]''' || [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]''' || [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]''' || [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]''' || [[File:Watmel.png|30px]]&lt;br&gt;'''[[Watmel]]'''
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Uses==
+===Mutations===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Shuca berries can be used to mutate the following berries.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Babiri.png|20px]] [[Babiri]] || [[File:Charti.png|20px]] [[Charti]]
+|-
+| [[File:Ganlon.png|20px]] [[Ganlon]] || -
+|-
+| [[File:Petaya.png|20px]] [[Petaya]] || [[File:Occa.png|20px]] [[Occa]] [[File:Passho.png|20px]] [[Passho]] &lt;br&gt; [[File:Wacan.png|20px]] [[Wacan]] [[File:Rindo.png|20px]] [[Rindo]] &lt;br&gt; [[File:Yache.png|20px]] [[Yache]] [[File:Chople.png|20px]] [[Chople]] &lt;br&gt; [[File:Kebia.png|20px]] [[Kebia]] [[File:Coba.png|20px]] [[Coba]] &lt;br&gt; [[File:Payapa.png|20px]] [[Payapa]] [[File:Tanga.png|20px]] [[Tanga]] &lt;br&gt; [[File:Charti.png|20px]] [[Charti]] [[File:Kasib.png|20px]] [[Kasib]] &lt;br&gt; [[File:Haban.png|20px]] [[Haban]] [[File:Colbur.png|20px]] [[Colbur]] &lt;br&gt; [[File:Babiri.png|20px]] [[Babiri]] [[File:Chilan.png|20px]] [[Chilan]] &lt;br&gt; [[File:Roseli.png|20px]] [[Roseli]]
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>Incandescence</username>
+      <id>141</id>
+    </contributor>
+    <comment>Created page with "Jouca"</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>85ceeae12952bce740681c78901e5f55dd1f7bfe</sha1>
+  </revision>
+</page>

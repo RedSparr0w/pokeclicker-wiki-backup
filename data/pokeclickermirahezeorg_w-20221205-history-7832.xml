@@ -1,0 +1,77 @@
+<page>
+  <title>Duskball</title>
+  <ns>0</ns>
+  <id>3551</id>
+  <revision>
+    <id>13421</id>
+    <timestamp>2022-05-01T17:32:06Z</timestamp>
+    <text bytes="1706" space="preserve">{{Infobox Pokéball
+|name       = Duskball
+|image      = [[File:Duskball.png]]
+|caption    = In-Game image of the ''Duskball''.
+|price      = Variable
+|catchTime  = 1s
+|catchRate = Variable (Depending on Time and Location)
+*+15% during night (6PM - 6AM) and in [[Dungeons]]
+*+0% during day (6AM - 6PM) and in all other locations
+|location   = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*[[Duskball#Shops|Shops]]
+*[[Duskball#Dungeons|Dungeons]]
+}}
+
+==Description==
+
+The '''Duskball''' is a type of [[Pokéballs|Pokéball]]. It automatically tries to catch a wild Pokémon after defeating it if is the highest type of Pokéball active and there is a remaining supply in the Pokéball selector.
+
+==Details==
+
+A specialized Pokéball to capture Pokémon with, it provides an increased catch rate at night and in [[Dungeons]] and catches Pokémon in 1s.
+
+===Rates===
+
+{| class="wikitable"
+|+ Timerball
+|-
+! Location !! Catch Chance Modifier
+|-
+| Night (6PM - 6AM) and in [[Dungeons]] || +15%
+|-
+| Day (6AM - 6PM) and in all other locations || +0% (Equal to Pokéball)
+|-
+|}
+
+== Acquisition ==
+===Shops===
+{{ItemPrice/head‎|Pokéballs}}
+{{ItemPrice|[[Berry Master#Trades|Goldenrod City]]|20 - 40 Random [[File:Cheri.png|25px]] [[Berries#Gen 1 Berries|Gen 1 Berries]] &lt;br&gt; 5 - 15 Random [[File:Persim.png|25px]] [[Berries#Gen 2 Berries|Gen 2 Berries]]}}
+|}
+|}
+
+===Dungeons===
+{{Loot/head‎|Pokéballs}}
+{{LootItem|Aqua Hideout|2}}
+{{LootItem|Iron Island|1.75}}
+{{LootItem|Mistralton Cave|2}}
+{{LootItem|Twist Mountain|2}}
+{{LootItem|Pokéball Factory|2}}
+{{LootItem|Frost Cavern|2}}
+{{LootItem|Terminus Cave|2}}
+{{LootItem|Victory Road Kalos|2}}
+|}
+|}
+
+
+&lt;br&gt;{{Pokéballs}}&lt;br&gt;
+
+
+[[Category:Items]] [[Category:Pokéballs]]</text>
+    <contributor>
+      <username>LatiosRider</username>
+      <id>35</id>
+    </contributor>
+    <comment>/* Fixed Details */</comment>
+    <model>wikitext</model>
+    <parentid>13420</parentid>
+    <sha1>9fed4c53a2170590ea89f4c400236152eec2545f</sha1>
+  </revision>
+</page>

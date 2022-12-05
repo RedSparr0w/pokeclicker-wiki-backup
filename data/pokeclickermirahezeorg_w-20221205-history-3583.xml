@@ -1,0 +1,1754 @@
+<page>
+  <title>Battle Frontier/fr</title>
+  <ns>0</ns>
+  <id>6912</id>
+  <revision>
+    <id>20068</id>
+    <timestamp>2022-07-29T13:38:30Z</timestamp>
+    <text bytes="7758" space="preserve">&lt;languages/&gt;
+{{Infobox battle item
+|name       = Zone de Combat
+|image      = [[File:Battle_Frontier.png|500px]]
+|caption    = Zone de Combat
+|location   = Hoenn
+}}
+
+==Description==
+La '''Zone de Combat''' est un lieu d'[[Hoenn]] où vos Pokémons vont affronter indéfiniment des niveaux de 3 Pokémons générées aléatoirement, en une limite de temps de 30 secondes- si vous échouez, vous récupérerez des [[Pokémon Dollars|Pokédollars]] {{pdollar}} et des [[Battle Points|Jetons de bataille]] {{Battlepoints}}. Les [[Items|objets]] comme le [[XAttack]] sont permis ; malgré tout vous n'êtes pas autorisé à utiliser le clic souris dans la Zone de Combat.
+
+== Détails ==
+L'attaque est calculée à 100% du total combiné de l'ensemble de vos Pokémon - les debuff régionaux sont ignorés. Elle peut être encore augmentée avec des modificateurs que sont les [[Gems|gemmes]] et le [[XAttack]]. Les [[Battle Points|Jetons de bataille]] {{Battlepoints}} et [[Pokémon Dollars|Pokédollars]] {{pdollar}} sont versés après avoir échoué un stage.
+
+Vous pouvez utiliser vos [[Battle Points|Jetons de bataille]] {{Battlepoints}} au [[Battle Frontier#Battle Frontier Shop|Magasin de la Zone de Combat]].
+
+Plus vous arriverez à vaincre d'équipes et d'avoir un niveau élevé, plus vous gagnerez de [[Battle Points|Jetons de bataille]] {{Battlepoints}}. 
+
+Lors des nouvelles tentatives, tout niveau déjà atteint précédemment sera deux fois plus simple à refaire - la vitesse d'attaque étant doublée dans ces niveaux. 
+
+===Stratégie d'éclosion===
+
+Comme décrit précédemment, la vitesse d'attaque des Pokémons est doublée sur les niveaux déjà complété précédemment dans la Zone de Combat. En plus de ça, lorsque vous vous trouvez dans la Zone de Combat, le nombre de pas requis pour l'éclosion des oeufs est également réduit, en fonction du niveau auquel vous êtes, selon la formule suivante : &lt;br&gt;
+
+&lt;math&gt;\text{Pas d'Eclosion} = (\text{Niveau})^{\frac{1}{2}}&lt;/math&gt;&lt;br&gt;
+
+La combinaison de ces deux fonctionnalités en particulier mène à une façon extrêmement efficace d'augmenter l'attaque de vos pokemon au travers du mécanisme d'éclosion à la Zone de Combat qui rivalise (et souvent surpasse) beaucoup d'autres lieux.
+
+===Gemmes===
+Vaincre des Pokémon dans la Zone de Combat permet également de gagner des [[Gems|Gemmes]] en fonction du type de pokémon vaincu. Le nombre de [[Gems|Gemmes]] gagné par combat suit la formule suivante : &lt;br&gt;
+
+&lt;math&gt;\text{Joyaux} = ⌈\frac{\text{Niveau}}{80}⌉&lt;/math&gt;&lt;br&gt;
+
+==Gains==
+===Devises===
+
+'''Note''' : Les gains ne sont pas remportés dans la Zone de Combat lorsque vous quittez par vous même. Vous devez perdre un niveau pour récupérer l'ensemble de vos [[Pokémon Dollars|Pokédollars]] {{pdollar}} et vos [[Battle Points|Jetons de bataille]] {{Battlepoints}}.
+{| class="wikitable"
+|-
+! Devise gagnée !! Formula
+|-
+| {{pdollar}} Pokédollars || &lt;math&gt;\text{Niveau atteint}^{2}&lt;/math&gt;
+|-
+| {{Battlepoints}} Jetons de bataille&lt;sup&gt;1&lt;/sup&gt; || &lt;math&gt;\frac{\text{Niveau atteint}^{2}}{100}&lt;/math&gt;
+|}
+&lt;small&gt;&lt;sup&gt;1&lt;/sup&gt;Les [[Battle Points|Jetons de bataille]] {{Battlepoints}} sont arrondis au nombre entier le plus proche&lt;/small&gt;
+
+===Items &amp; Pokémon===
+''Note : Les points de vies des pokémon sont calculés puis arrondis à l'inférieur par la formule suivante : ''&lt;br&gt;
+&lt;math&gt;\text{PV ennemis} = \text{Arrondi}[\left ( \frac{100}{12} \times (\text{Niveau actuel} + 10)^{2.2}\right )^{1.15} \times (1 - 0.05)]&lt;/math&gt;
+
+'' Conseil : En moyenne  pour un niveau donné  vous aurez besoin d'avoir un niveau d'attaque 10x moins élevé que le nombre de point de vie des Pokemon (en prenant en compte tous les bonus de gemmes).''
+{| class="wikitable sortable"
+|-
+! Niveau !! Montant des gains !! Type de gain !! Point de Vie des Pokémon
+|-
+| 5 ||  25 || [[File:Ball_Pokeball.png|15px]][[Pokeball|Pokéball]] || 10 284
+|-
+| 10 || 100 || [[File:Ball_Pokeball.png|15px]] [[Pokeball|Pokéball]] || 21 294
+|-
+| 20 || 100 || [[File:Greatball.png|15px]] [[Greatball|Super ball]] || 59 399
+|-
+| 30 || 100 || [[File:Ultraball.png|15px]] [[Ultraball|Hyper ball]] || 122 992
+|-
+| 35 || 100 || [[File:Bag_X_Click_Sprite.png|15px]][[x Click]] || 165 688
+|-
+| 40 || 100 ||[[File:Bag_X_Attack_Sprite.png|15px]][[x Attack]] || 216 301
+|-
+| 50 || 100 ||[[File:SmallRestore.png|15px]] [[Small Restore|Potion]] || 343 074
+|-
+| rowspan=2|100 || rowspan=2|1 ||[[File:Deoxys_Shuffle.png|15px]]Deoxys || rowspan=2|1 589 969
+|-
+| [[Achievements#Battle Frontier|Succès Combattant débutant]]
+|-
+| 110 || 10 ||[[File:Water_Stone.png|15px]][[Water Stone|Pierre Eau]] || 1 981 498
+|-
+| 120 || 10 ||[[File:Leaf_Stone.png|15px]][[Leaf Stone|Pierre Plante]] || 2 426 285
+|-
+| 130 || 10 ||[[File:Thunder_Stone.png|15px]][[Thunder Stone|Pierre Foudre]] || 2 926 638
+|-
+| 140 || 10 ||[[File:Fire_Stone.png|15px]][[Fire Stone|Pierre Feu]] || 3 484 785
+|-
+| 150 || 200 ||[[File:MediumRestore.png|15px]] [[Medium Restore|Super potion]] || 4 102 879
+|-
+| 151 || 1 || [[File:DeoxysA_Shuffle.png|15px]]Deoxys (Attaque) || 4 168 066
+|-
+| 160 || 100 || [[File:Bag_Lucky_Egg_Sprite.png|15px]][[Lucky Egg]] || 4 783 006
+|-
+| 170 || 100 || [[File:Bag_Lucky_Incense_Sprite.png|15px]][[Lucky Incense]] || 5 527 192
+|-
+| 180 || 100 || [[File:Bag_Dowsing_Machine_Sprite.png|15px]][[Dowsing Machine]] || 6 337 409
+|-
+| 190 || 10 || [[File:Mystery_Egg.png|15px]][[Mystery Egg|Oeuf Mystère]] || 7 215 576
+|-
+| 200 || 100 || [[File:LargeRestore.png|15px]] [[Large Restore|Hyper potion]] || 8 163 567
+|-
+| 210 || 40 || [[File:Water_Stone.png|15px]] [[Water Stone|Pierre Eau]] || 9 183 210
+|-
+| 220 || 40 || [[File:Leaf_Stone.png|15px]] [[Leaf Stone|Pierre Plante]] || 10 276 295
+|-
+| 230 || 40 || [[File:Thunder_Stone.png|15px]] [[Thunder Stone|Pierre Foudre]] || 11 444 573
+|-
+| 240 || 40 || [[File:Moon_Stone.png|15px]] [[Moon Stone|Pierre Lune]] || 12 689 759
+|-
+| rowspan=2|250 || 6400 || [[File:Ultraball.png|15px]] [[Ultraball|Hyper ball]] || rowspan=2|14 013 536
+|-
+| 1 ||  [[Achievements#Battle Frontier|Succès Combattant Compétent]]
+|-
+| 251 || 1 || [[File:DeoxysD_Shuffle.png|15px]]Deoxys (Défense) || 14 150 300
+|-
+| 300 || 100 || [[File:LinkingCord.png|15px]][[Linking Cord|Câble Link]] || 21 868 060
+|-
+| 386 || 1 || [[File:DeoxysS_Shuffle.png|15px]]Deoxys (Vitesse) || 40 628 799
+|-
+| 500 || 1 || [[Achievements#Battle Frontier|Succès Machine de guerre]] || 77 057 997
+|-
+| 666 || 1 || [[File:Vivillon_(Pokéball).png|25px]]&lt;b&gt;Prismillon (Pokéball)*&lt;/b&gt; || 157 191 954
+|-
+| 1000 || 1 || [[Achievements#Battle Frontier|Succès Légende vivante]] || 434 108 458
+|-
+|}
+
+*&lt;b&gt;&lt;big&gt;Note : &lt;/big&gt;&lt;/b&gt; [[File:Vivillon_(Pokéball).png|25px]] Prismillon (Pokéball) ne peut être récupéré que dans le cadre de la quête [[Quests|The Great Vivillon Hunt!]]
+
+Il n'y a pas de récompenses supplémentaires après avoir atteint le niveau 1000 (valable jusqu'à la version 0.8.9). Toutefois, le record du plus haut niveau atteint est lui connu. Vous trouverez plus d'informations sur le [https://discord.gg/a6DFe4p Discord].
+
+==Magasin de la Zone de Combat==
+
+{| class="wikitable sortable"
+|-
+! Prix !! Objet
+|-
+|{{Battlepoints}} 1 || [[File:Ultraball.png|15px]][[Ultraball|Hyper ball]]
+|-
+|{{Battlepoints}} 500 || [[File:Masterball.png|15px]][[Masterball|Master ball]]
+|-
+|{{Battlepoints}} 10 || [[File:SmallRestore.png|15px]][[Small Restore|Potion]]
+|-
+|{{Battlepoints}} 20 || [[File:MediumRestore.png|15px]][[Medium Restore|Super Potion]]
+|-
+|{{Battlepoints}} 40 || [[File:LargeRestore.png|15px]][[Large Restore|Hyper Potion]]
+|-
+|{{Battlepoints}} 20 000 || [[File:Jamie.png|18px]][[Farm Hand|Fermier Jamie]]
+|-
+|{{Battlepoints}} 20 000 || [[File:HHNoel.png|15px]][[Hatchery Helper|Assistant de pension Noel]]
+|-
+|}</text>
+    <contributor>
+      <username>PetroleVB</username>
+      <id>36</id>
+    </contributor>
+    <comment>official linking cord translation</comment>
+    <model>wikitext</model>
+    <parentid>20067</parentid>
+    <sha1>ea80533c30eb81012a7151633a6fd739e2dbb97e</sha1>
+  </revision>
+  <revision>
+    <id>20067</id>
+    <timestamp>2022-07-29T13:37:09Z</timestamp>
+    <text bytes="7746" space="preserve">&lt;languages/&gt;
+{{Infobox battle item
+|name       = Zone de Combat
+|image      = [[File:Battle_Frontier.png|500px]]
+|caption    = Zone de Combat
+|location   = Hoenn
+}}
+
+==Description==
+La '''Zone de Combat''' est un lieu d'[[Hoenn]] où vos Pokémons vont affronter indéfiniment des niveaux de 3 Pokémons générées aléatoirement, en une limite de temps de 30 secondes- si vous échouez, vous récupérerez des [[Pokémon Dollars|Pokédollars]] {{pdollar}} et des [[Battle Points|Jetons de bataille]] {{Battlepoints}}. Les [[Items|objets]] comme le [[XAttack]] sont permis ; malgré tout vous n'êtes pas autorisé à utiliser le clic souris dans la Zone de Combat.
+
+== Détails ==
+L'attaque est calculée à 100% du total combiné de l'ensemble de vos Pokémon - les debuff régionaux sont ignorés. Elle peut être encore augmentée avec des modificateurs que sont les [[Gems|gemmes]] et le [[XAttack]]. Les [[Battle Points|Jetons de bataille]] {{Battlepoints}} et [[Pokémon Dollars|Pokédollars]] {{pdollar}} sont versés après avoir échoué un stage.
+
+Vous pouvez utiliser vos [[Battle Points|Jetons de bataille]] {{Battlepoints}} au [[Battle Frontier#Battle Frontier Shop|Magasin de la Zone de Combat]].
+
+Plus vous arriverez à vaincre d'équipes et d'avoir un niveau élevé, plus vous gagnerez de [[Battle Points|Jetons de bataille]] {{Battlepoints}}. 
+
+Lors des nouvelles tentatives, tout niveau déjà atteint précédemment sera deux fois plus simple à refaire - la vitesse d'attaque étant doublée dans ces niveaux. 
+
+===Stratégie d'éclosion===
+
+Comme décrit précédemment, la vitesse d'attaque des Pokémons est doublée sur les niveaux déjà complété précédemment dans la Zone de Combat. En plus de ça, lorsque vous vous trouvez dans la Zone de Combat, le nombre de pas requis pour l'éclosion des oeufs est également réduit, en fonction du niveau auquel vous êtes, selon la formule suivante : &lt;br&gt;
+
+&lt;math&gt;\text{Pas d'Eclosion} = (\text{Niveau})^{\frac{1}{2}}&lt;/math&gt;&lt;br&gt;
+
+La combinaison de ces deux fonctionnalités en particulier mène à une façon extrêmement efficace d'augmenter l'attaque de vos pokemon au travers du mécanisme d'éclosion à la Zone de Combat qui rivalise (et souvent surpasse) beaucoup d'autres lieux.
+
+===Gemmes===
+Vaincre des Pokémon dans la Zone de Combat permet également de gagner des [[Gems|Gemmes]] en fonction du type de pokémon vaincu. Le nombre de [[Gems|Gemmes]] gagné par combat suit la formule suivante : &lt;br&gt;
+
+&lt;math&gt;\text{Joyaux} = ⌈\frac{\text{Niveau}}{80}⌉&lt;/math&gt;&lt;br&gt;
+
+==Gains==
+===Devises===
+
+'''Note''' : Les gains ne sont pas remportés dans la Zone de Combat lorsque vous quittez par vous même. Vous devez perdre un niveau pour récupérer l'ensemble de vos [[Pokémon Dollars|Pokédollars]] {{pdollar}} et vos [[Battle Points|Jetons de bataille]] {{Battlepoints}}.
+{| class="wikitable"
+|-
+! Devise gagnée !! Formula
+|-
+| {{pdollar}} Pokédollars || &lt;math&gt;\text{Niveau atteint}^{2}&lt;/math&gt;
+|-
+| {{Battlepoints}} Jetons de bataille&lt;sup&gt;1&lt;/sup&gt; || &lt;math&gt;\frac{\text{Niveau atteint}^{2}}{100}&lt;/math&gt;
+|}
+&lt;small&gt;&lt;sup&gt;1&lt;/sup&gt;Les [[Battle Points|Jetons de bataille]] {{Battlepoints}} sont arrondis au nombre entier le plus proche&lt;/small&gt;
+
+===Items &amp; Pokémon===
+''Note : Les points de vies des pokémon sont calculés puis arrondis à l'inférieur par la formule suivante : ''&lt;br&gt;
+&lt;math&gt;\text{PV ennemis} = \text{Arrondi}[\left ( \frac{100}{12} \times (\text{Niveau actuel} + 10)^{2.2}\right )^{1.15} \times (1 - 0.05)]&lt;/math&gt;
+
+'' Conseil : En moyenne  pour un niveau donné  vous aurez besoin d'avoir un niveau d'attaque 10x moins élevé que le nombre de point de vie des Pokemon (en prenant en compte tous les bonus de gemmes).''
+{| class="wikitable sortable"
+|-
+! Niveau !! Montant des gains !! Type de gain !! Point de Vie des Pokémon
+|-
+| 5 ||  25 || [[File:Ball_Pokeball.png|15px]][[Pokeball|Pokéball]] || 10 284
+|-
+| 10 || 100 || [[File:Ball_Pokeball.png|15px]] [[Pokeball|Pokéball]] || 21 294
+|-
+| 20 || 100 || [[File:Greatball.png|15px]] [[Greatball|Super ball]] || 59 399
+|-
+| 30 || 100 || [[File:Ultraball.png|15px]] [[Ultraball|Hyper ball]] || 122 992
+|-
+| 35 || 100 || [[File:Bag_X_Click_Sprite.png|15px]][[x Click]] || 165 688
+|-
+| 40 || 100 ||[[File:Bag_X_Attack_Sprite.png|15px]][[x Attack]] || 216 301
+|-
+| 50 || 100 ||[[File:SmallRestore.png|15px]] [[Small Restore|Potion]] || 343 074
+|-
+| rowspan=2|100 || rowspan=2|1 ||[[File:Deoxys_Shuffle.png|15px]]Deoxys || rowspan=2|1 589 969
+|-
+| [[Achievements#Battle Frontier|Succès Combattant débutant]]
+|-
+| 110 || 10 ||[[File:Water_Stone.png|15px]][[Water Stone|Pierre Eau]] || 1 981 498
+|-
+| 120 || 10 ||[[File:Leaf_Stone.png|15px]][[Leaf Stone|Pierre Plante]] || 2 426 285
+|-
+| 130 || 10 ||[[File:Thunder_Stone.png|15px]][[Thunder Stone|Pierre Foudre]] || 2 926 638
+|-
+| 140 || 10 ||[[File:Fire_Stone.png|15px]][[Fire Stone|Pierre Feu]] || 3 484 785
+|-
+| 150 || 200 ||[[File:MediumRestore.png|15px]] [[Medium Restore|Super potion]] || 4 102 879
+|-
+| 151 || 1 || [[File:DeoxysA_Shuffle.png|15px]]Deoxys (Attaque) || 4 168 066
+|-
+| 160 || 100 || [[File:Bag_Lucky_Egg_Sprite.png|15px]][[Lucky Egg]] || 4 783 006
+|-
+| 170 || 100 || [[File:Bag_Lucky_Incense_Sprite.png|15px]][[Lucky Incense]] || 5 527 192
+|-
+| 180 || 100 || [[File:Bag_Dowsing_Machine_Sprite.png|15px]][[Dowsing Machine]] || 6 337 409
+|-
+| 190 || 10 || [[File:Mystery_Egg.png|15px]][[Mystery Egg|Oeuf Mystère]] || 7 215 576
+|-
+| 200 || 100 || [[File:LargeRestore.png|15px]] [[Large Restore|Hyper potion]] || 8 163 567
+|-
+| 210 || 40 || [[File:Water_Stone.png|15px]] [[Water Stone|Pierre Eau]] || 9 183 210
+|-
+| 220 || 40 || [[File:Leaf_Stone.png|15px]] [[Leaf Stone|Pierre Plante]] || 10 276 295
+|-
+| 230 || 40 || [[File:Thunder_Stone.png|15px]] [[Thunder Stone|Pierre Foudre]] || 11 444 573
+|-
+| 240 || 40 || [[File:Moon_Stone.png|15px]] [[Moon Stone|Pierre Lune]] || 12 689 759
+|-
+| rowspan=2|250 || 6400 || [[File:Ultraball.png|15px]] [[Ultraball|Hyper ball]] || rowspan=2|14 013 536
+|-
+| 1 ||  [[Achievements#Battle Frontier|Succès Combattant Compétent]]
+|-
+| 251 || 1 || [[File:DeoxysD_Shuffle.png|15px]]Deoxys (Défense) || 14 150 300
+|-
+| 300 || 100 || [[File:LinkingCord.png|15px]][[Linking Cord]] || 21 868 060
+|-
+| 386 || 1 || [[File:DeoxysS_Shuffle.png|15px]]Deoxys (Vitesse) || 40 628 799
+|-
+| 500 || 1 || [[Achievements#Battle Frontier|Succès Machine de guerre]] || 77 057 997
+|-
+| 666 || 1 || [[File:Vivillon_(Pokéball).png|25px]]&lt;b&gt;Prismillon (Pokéball)*&lt;/b&gt; || 157 191 954
+|-
+| 1000 || 1 || [[Achievements#Battle Frontier|Succès Légende vivante]] || 434 108 458
+|-
+|}
+
+*&lt;b&gt;&lt;big&gt;Note : &lt;/big&gt;&lt;/b&gt; [[File:Vivillon_(Pokéball).png|25px]] Prismillon (Pokéball) ne peut être récupéré que dans le cadre de la quête [[Quests|The Great Vivillon Hunt!]]
+
+Il n'y a pas de récompenses supplémentaires après avoir atteint le niveau 1000 (valable jusqu'à la version 0.8.9). Toutefois, le record du plus haut niveau atteint est lui connu. Vous trouverez plus d'informations sur le [https://discord.gg/a6DFe4p Discord].
+
+==Magasin de la Zone de Combat==
+
+{| class="wikitable sortable"
+|-
+! Prix !! Objet
+|-
+|{{Battlepoints}} 1 || [[File:Ultraball.png|15px]][[Ultraball|Hyper ball]]
+|-
+|{{Battlepoints}} 500 || [[File:Masterball.png|15px]][[Masterball|Master ball]]
+|-
+|{{Battlepoints}} 10 || [[File:SmallRestore.png|15px]][[Small Restore|Potion]]
+|-
+|{{Battlepoints}} 20 || [[File:MediumRestore.png|15px]][[Medium Restore|Super Potion]]
+|-
+|{{Battlepoints}} 40 || [[File:LargeRestore.png|15px]][[Large Restore|Hyper Potion]]
+|-
+|{{Battlepoints}} 20 000 || [[File:Jamie.png|18px]][[Farm Hand|Fermier Jamie]]
+|-
+|{{Battlepoints}} 20 000 || [[File:HHNoel.png|15px]][[Hatchery Helper|Assistant de pension Noel]]
+|-
+|}</text>
+    <contributor>
+      <username>PetroleVB</username>
+      <id>36</id>
+    </contributor>
+    <comment>Number localization and forgotten table header</comment>
+    <model>wikitext</model>
+    <parentid>20066</parentid>
+    <sha1>ebbbdf78247c6bd4283d5ce3d9df1384e4b761c0</sha1>
+  </revision>
+  <revision>
+    <id>20066</id>
+    <timestamp>2022-07-29T13:34:49Z</timestamp>
+    <text bytes="7747" space="preserve">&lt;languages/&gt;
+{{Infobox battle item
+|name       = Zone de Combat
+|image      = [[File:Battle_Frontier.png|500px]]
+|caption    = Zone de Combat
+|location   = Hoenn
+}}
+
+==Description==
+La '''Zone de Combat''' est un lieu d'[[Hoenn]] où vos Pokémons vont affronter indéfiniment des niveaux de 3 Pokémons générées aléatoirement, en une limite de temps de 30 secondes- si vous échouez, vous récupérerez des [[Pokémon Dollars|Pokédollars]] {{pdollar}} et des [[Battle Points|Jetons de bataille]] {{Battlepoints}}. Les [[Items|objets]] comme le [[XAttack]] sont permis ; malgré tout vous n'êtes pas autorisé à utiliser le clic souris dans la Zone de Combat.
+
+== Détails ==
+L'attaque est calculée à 100% du total combiné de l'ensemble de vos Pokémon - les debuff régionaux sont ignorés. Elle peut être encore augmentée avec des modificateurs que sont les [[Gems|gemmes]] et le [[XAttack]]. Les [[Battle Points|Jetons de bataille]] {{Battlepoints}} et [[Pokémon Dollars|Pokédollars]] {{pdollar}} sont versés après avoir échoué un stage.
+
+Vous pouvez utiliser vos [[Battle Points|Jetons de bataille]] {{Battlepoints}} au [[Battle Frontier#Battle Frontier Shop|Magasin de la Zone de Combat]].
+
+Plus vous arriverez à vaincre d'équipes et d'avoir un niveau élevé, plus vous gagnerez de [[Battle Points|Jetons de bataille]] {{Battlepoints}}. 
+
+Lors des nouvelles tentatives, tout niveau déjà atteint précédemment sera deux fois plus simple à refaire - la vitesse d'attaque étant doublée dans ces niveaux. 
+
+===Stratégie d'éclosion===
+
+Comme décrit précédemment, la vitesse d'attaque des Pokémons est doublée sur les niveaux déjà complété précédemment dans la Zone de Combat. En plus de ça, lorsque vous vous trouvez dans la Zone de Combat, le nombre de pas requis pour l'éclosion des oeufs est également réduit, en fonction du niveau auquel vous êtes, selon la formule suivante : &lt;br&gt;
+
+&lt;math&gt;\text{Pas d'Eclosion} = (\text{Niveau})^{\frac{1}{2}}&lt;/math&gt;&lt;br&gt;
+
+La combinaison de ces deux fonctionnalités en particulier mène à une façon extrêmement efficace d'augmenter l'attaque de vos pokemon au travers du mécanisme d'éclosion à la Zone de Combat qui rivalise (et souvent surpasse) beaucoup d'autres lieux.
+
+===Gemmes===
+Vaincre des Pokémon dans la Zone de Combat permet également de gagner des [[Gems|Gemmes]] en fonction du type de pokémon vaincu. Le nombre de [[Gems|Gemmes]] gagné par combat suit la formule suivante : &lt;br&gt;
+
+&lt;math&gt;\text{Joyaux} = ⌈\frac{\text{Niveau}}{80}⌉&lt;/math&gt;&lt;br&gt;
+
+==Gains==
+===Devises===
+
+'''Note''' : Les gains ne sont pas remportés dans la Zone de Combat lorsque vous quittez par vous même. Vous devez perdre un niveau pour récupérer l'ensemble de vos [[Pokémon Dollars|Pokédollars]] {{pdollar}} et vos [[Battle Points|Jetons de bataille]] {{Battlepoints}}.
+{| class="wikitable"
+|-
+! Devise gagnée !! Formula
+|-
+| {{pdollar}} Pokédollars || &lt;math&gt;\text{Niveau atteint}^{2}&lt;/math&gt;
+|-
+| {{Battlepoints}} Jetons de bataille&lt;sup&gt;1&lt;/sup&gt; || &lt;math&gt;\frac{\text{Niveau atteint}^{2}}{100}&lt;/math&gt;
+|}
+&lt;small&gt;&lt;sup&gt;1&lt;/sup&gt;Les [[Battle Points|Jetons de bataille]] {{Battlepoints}} sont arrondis au nombre entier le plus proche&lt;/small&gt;
+
+===Items &amp; Pokémon===
+''Note : Les points de vies des pokémon sont calculés puis arrondis à l'inférieur par la formule suivante : ''&lt;br&gt;
+&lt;math&gt;\text{PV ennemis} = \text{Arrondi}[\left ( \frac{100}{12} \times (\text{Niveau actuel} + 10)^{2.2}\right )^{1.15} \times (1 - 0.05)]&lt;/math&gt;
+
+'' Conseil : En moyenne  pour un niveau donné  vous aurez besoin d'avoir un niveau d'attaque 10x moins élevé que le nombre de point de vie des Pokemon (en prenant en compte tous les bonus de gemmes).''
+{| class="wikitable sortable"
+|-
+! Niveau !! Montant des gains !! Type de gain !! Point de Vie des Pokémon
+|-
+| 5 ||  25 || [[File:Ball_Pokeball.png|15px]][[Pokeball|Pokéball]] || 10 284
+|-
+| 10 || 100 || [[File:Ball_Pokeball.png|15px]] [[Pokeball|Pokéball]] || 21 294
+|-
+| 20 || 100 || [[File:Greatball.png|15px]] [[Greatball|Super ball]] || 59 399
+|-
+| 30 || 100 || [[File:Ultraball.png|15px]] [[Ultraball|Hyper ball]] || 122 992
+|-
+| 35 || 100 || [[File:Bag_X_Click_Sprite.png|15px]][[x Click]] || 165 688
+|-
+| 40 || 100 ||[[File:Bag_X_Attack_Sprite.png|15px]][[x Attack]] || 216 301
+|-
+| 50 || 100 ||[[File:SmallRestore.png|15px]] [[Small Restore|Potion]] || 343 074
+|-
+| rowspan=2|100 || rowspan=2|1 ||[[File:Deoxys_Shuffle.png|15px]]Deoxys || rowspan=2|1 589 969
+|-
+| [[Achievements#Battle Frontier|Succès Combattant débutant]]
+|-
+| 110 || 10 ||[[File:Water_Stone.png|15px]][[Water Stone|Pierre Eau]] || 1 981 498
+|-
+| 120 || 10 ||[[File:Leaf_Stone.png|15px]][[Leaf Stone|Pierre Plante]] || 2 426 285
+|-
+| 130 || 10 ||[[File:Thunder_Stone.png|15px]][[Thunder Stone|Pierre Foudre]] || 2 926 638
+|-
+| 140 || 10 ||[[File:Fire_Stone.png|15px]][[Fire Stone|Pierre Feu]] || 3 484 785
+|-
+| 150 || 200 ||[[File:MediumRestore.png|15px]] [[Medium Restore|Super potion]] || 4 102 879
+|-
+| 151 || 1 || [[File:DeoxysA_Shuffle.png|15px]]Deoxys (Attaque) || 4 168 066
+|-
+| 160 || 100 || [[File:Bag_Lucky_Egg_Sprite.png|15px]][[Lucky Egg]] || 4 783 006
+|-
+| 170 || 100 || [[File:Bag_Lucky_Incense_Sprite.png|15px]][[Lucky Incense]] || 5 527 192
+|-
+| 180 || 100 || [[File:Bag_Dowsing_Machine_Sprite.png|15px]][[Dowsing Machine]] || 6 337 409
+|-
+| 190 || 10 || [[File:Mystery_Egg.png|15px]][[Mystery Egg|Oeuf Mystère]] || 7 215 576
+|-
+| 200 || 100 || [[File:LargeRestore.png|15px]] [[Large Restore|Hyper potion]] || 8 163 567
+|-
+| 210 || 40 || [[File:Water_Stone.png|15px]] [[Water Stone|Pierre Eau]] || 9 183 210
+|-
+| 220 || 40 || [[File:Leaf_Stone.png|15px]] [[Leaf Stone|Pierre Plante]] || 10 276 295
+|-
+| 230 || 40 || [[File:Thunder_Stone.png|15px]] [[Thunder Stone|Pierre Foudre]] || 11 444 573
+|-
+| 240 || 40 || [[File:Moon_Stone.png|15px]] [[Moon Stone|Pierre Lune]] || 12 689 759
+|-
+| rowspan=2|250 || 6400 || [[File:Ultraball.png|15px]] [[Ultraball|Hyper ball]] || rowspan=2|14 013 536
+|-
+| 1 ||  [[Achievements#Battle Frontier|Succès Combattant Compétent]]
+|-
+| 251 || 1 || [[File:DeoxysD_Shuffle.png|15px]]Deoxys (Défense) || 14 150 300
+|-
+| 300 || 100 || [[File:LinkingCord.png|15px]][[Linking Cord]] || 21 868 060
+|-
+| 386 || 1 || [[File:DeoxysS_Shuffle.png|15px]]Deoxys (Vitesse) || 40 628 799
+|-
+| 500 || 1 || [[Achievements#Battle Frontier|Succès Machine de guerre]] || 77 057 997
+|-
+| 666 || 1 || [[File:Vivillon_(Pokéball).png|25px]]&lt;b&gt;Prismillon (Pokéball)*&lt;/b&gt; || 157 191 954
+|-
+| 1000 || 1 || [[Achievements#Battle Frontier|Succès Légende vivante]] || 434 108 458
+|-
+|}
+
+*&lt;b&gt;&lt;big&gt;Note : &lt;/big&gt;&lt;/b&gt; [[File:Vivillon_(Pokéball).png|25px]] Prismillon (Pokéball) ne peut être récupéré que dans le cadre de la quête [[Quests|The Great Vivillon Hunt!]]
+
+Il n'y a pas de récompenses supplémentaires après avoir atteint le niveau 1000 (valable jusqu'à la version 0.8.9). Toutefois, le record du plus haut niveau atteint est lui connu. Vous trouverez plus d'informations sur le [https://discord.gg/a6DFe4p Discord].
+
+==Magasin de la Zone de Combat==
+
+{| class="wikitable sortable"
+|-
+! Price !! Item 
+|-
+|{{Battlepoints}} 1 || [[File:Ultraball.png|15px]][[Ultraball|Hyper ball]]
+|-
+|{{Battlepoints}} 500 || [[File:Masterball.png|15px]][[Masterball|Master ball]]
+|-
+|{{Battlepoints}} 10 || [[File:SmallRestore.png|15px]][[Small Restore|Potion]]
+|-
+|{{Battlepoints}} 20 || [[File:MediumRestore.png|15px]][[Medium Restore|Super Potion]]
+|-
+|{{Battlepoints}} 40 || [[File:LargeRestore.png|15px]][[Large Restore|Hyper Potion]]
+|-
+|{{Battlepoints}} 20,000 || [[File:Jamie.png|18px]][[Farm Hand|Fermier Jamie]]
+|-
+|{{Battlepoints}} 20,000 || [[File:HHNoel.png|15px]][[Hatchery Helper|Assistant de pension Noel]]
+|-
+|}</text>
+    <contributor>
+      <username>PetroleVB</username>
+      <id>36</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>20065</parentid>
+    <sha1>4ae012d95e44b1ec7c09d73196ab94b9aaf32caa</sha1>
+  </revision>
+  <revision>
+    <id>20065</id>
+    <timestamp>2022-07-29T13:33:13Z</timestamp>
+    <text bytes="7696" space="preserve">&lt;languages/&gt;
+{{Infobox battle item
+|name       = Zone de Combat
+|image      = [[File:Battle_Frontier.png|500px]]
+|caption    = Zone de Combat
+|location   = Hoenn
+}}
+
+==Description==
+La '''Zone de Combat''' est un lieu d'[[Hoenn]] où vos Pokémons vont affronter indéfiniment des niveaux de 3 Pokémons générées aléatoirement, en une limite de temps de 30 secondes- si vous échouez, vous récupérerez des [[Pokémon Dollars|Pokédollars]] {{pdollar}} et des [[Battle Points|Jetons de bataille]] {{Battlepoints}}. Les [[Items|objets]] comme le [[XAttack]] sont permis ; malgré tout vous n'êtes pas autorisé à utiliser le clic souris dans la Zone de Combat.
+
+== Détails ==
+L'attaque est calculée à 100% du total combiné de l'ensemble de vos Pokémon - les debuff régionaux sont ignorés. Elle peut être encore augmentée avec des modificateurs que sont les [[Gems|gemmes]] et le [[XAttack]]. Les [[Battle Points|Jetons de bataille]] {{Battlepoints}} et [[Pokémon Dollars]]{{pdollar}} sont versés après avoir échoué un stage.
+
+Vous pouvez utiliser vos [[Battle Points|Jetons de bataille]] {{Battlepoints}} au [[Battle Frontier#Battle Frontier Shop|Magasin de la Zone de Combat]].
+
+Plus vous arriverez à vaincre d'équipes et d'avoir un niveau élevé, plus vous gagnerez de {{Battlepoints}}. 
+
+Lors des nouvelles tentatives, tout niveau déjà atteint précédemment sera deux fois plus simple à refaire - la vitesse d'attaque étant doublée dans ces niveaux. 
+
+===Stratégie d'éclosion===
+
+Comme décrit précédemment, la vitesse d'attaque des Pokémons est doublée sur les niveaux déjà complété précédemment dans la Zone de Combat. En plus de ça, lorsque vous vous trouvez dans la Zone de Combat, le nombre de pas requis pour l'éclosion des oeufs est également réduit, en fonction du niveau auquel vous êtes, selon la formule suivante : &lt;br&gt;
+
+&lt;math&gt;\text{Pas d'Eclosion} = (\text{Niveau})^{\frac{1}{2}}&lt;/math&gt;&lt;br&gt;
+
+La combinaison de ces deux fonctionnalités en particulier mène à une façon extrêmement efficace d'augmenter l'attaque de vos pokemon au travers du mécanisme d'éclosion à la Zone de Combat qui rivalise (et souvent surpasse) beaucoup d'autres lieux.
+
+===Gemmes===
+Vaincre des Pokémon dans la Zone de Combat permet également de gagner des [[Gems|Gemmes]] en fonction du type de pokémon vaincu. Le nombre de [[Gems|Gemmes]] gagné par combat suit la formule suivante : &lt;br&gt;
+
+&lt;math&gt;\text{Joyaux} = ⌈\frac{\text{Niveau}}{80}⌉&lt;/math&gt;&lt;br&gt;
+
+==Gains==
+===Devises===
+
+'''Note''' : Les gains ne sont pas remportés dans la Zone de Combat lorsque vous quittez par vous même. Vous devez perdre un niveau pour récupérer l'ensemble de vos [[Pokémon Dollars|Pokédollars]] {{pdollar}} et vos [[Battle Points|Jetons de bataille]] {{Battlepoints}}.
+{| class="wikitable"
+|-
+! Devise gagnée !! Formula
+|-
+| {{pdollar}} Pokédollars || &lt;math&gt;\text{Niveau atteint}^{2}&lt;/math&gt;
+|-
+| {{Battlepoints}} Jetons de bataille&lt;sup&gt;1&lt;/sup&gt; || &lt;math&gt;\frac{\text{Niveau atteint}^{2}}{100}&lt;/math&gt;
+|}
+&lt;small&gt;&lt;sup&gt;1&lt;/sup&gt;Les [[Battle Points|Jetons de bataille]] {{Battlepoints}} sont arrondis au nombre entier le plus proche&lt;/small&gt;
+
+===Items &amp; Pokémon===
+''Note : Les points de vies des pokémon sont calculés puis arrondis à l'inférieur par la formule suivante : ''&lt;br&gt;
+&lt;math&gt;\text{PV ennemis} = \text{Arrondi}[\left ( \frac{100}{12} \times (\text{Niveau actuel} + 10)^{2.2}\right )^{1.15} \times (1 - 0.05)]&lt;/math&gt;
+
+'' Conseil : En moyenne  pour un niveau donné  vous aurez besoin d'avoir un niveau d'attaque 10x moins élevé que le nombre de point de vie des Pokemon (en prenant en compte tous les bonus de gemmes).''
+{| class="wikitable sortable"
+|-
+! Niveau !! Montant des gains !! Type de gain !! Point de Vie des Pokémon
+|-
+| 5 ||  25 || [[File:Ball_Pokeball.png|15px]][[Pokeball|Pokéball]] || 10 284
+|-
+| 10 || 100 || [[File:Ball_Pokeball.png|15px]] [[Pokeball|Pokéball]] || 21 294
+|-
+| 20 || 100 || [[File:Greatball.png|15px]] [[Greatball|Super ball]] || 59 399
+|-
+| 30 || 100 || [[File:Ultraball.png|15px]] [[Ultraball|Hyper ball]] || 122 992
+|-
+| 35 || 100 || [[File:Bag_X_Click_Sprite.png|15px]][[x Click]] || 165 688
+|-
+| 40 || 100 ||[[File:Bag_X_Attack_Sprite.png|15px]][[x Attack]] || 216 301
+|-
+| 50 || 100 ||[[File:SmallRestore.png|15px]] [[Small Restore|Potion]] || 343 074
+|-
+| rowspan=2|100 || rowspan=2|1 ||[[File:Deoxys_Shuffle.png|15px]]Deoxys || rowspan=2|1 589 969
+|-
+| [[Achievements#Battle Frontier|Succès Combattant débutant]]
+|-
+| 110 || 10 ||[[File:Water_Stone.png|15px]][[Water Stone|Pierre Eau]] || 1 981 498
+|-
+| 120 || 10 ||[[File:Leaf_Stone.png|15px]][[Leaf Stone|Pierre Plante]] || 2 426 285
+|-
+| 130 || 10 ||[[File:Thunder_Stone.png|15px]][[Thunder Stone|Pierre Foudre]] || 2 926 638
+|-
+| 140 || 10 ||[[File:Fire_Stone.png|15px]][[Fire Stone|Pierre Feu]] || 3 484 785
+|-
+| 150 || 200 ||[[File:MediumRestore.png|15px]] [[Medium Restore|Super potion]] || 4 102 879
+|-
+| 151 || 1 || [[File:DeoxysA_Shuffle.png|15px]]Deoxys (Attaque) || 4 168 066
+|-
+| 160 || 100 || [[File:Bag_Lucky_Egg_Sprite.png|15px]][[Lucky Egg]] || 4 783 006
+|-
+| 170 || 100 || [[File:Bag_Lucky_Incense_Sprite.png|15px]][[Lucky Incense]] || 5 527 192
+|-
+| 180 || 100 || [[File:Bag_Dowsing_Machine_Sprite.png|15px]][[Dowsing Machine]] || 6 337 409
+|-
+| 190 || 10 || [[File:Mystery_Egg.png|15px]][[Mystery Egg|Oeuf Mystère]] || 7 215 576
+|-
+| 200 || 100 || [[File:LargeRestore.png|15px]] [[Large Restore|Hyper potion]] || 8 163 567
+|-
+| 210 || 40 || [[File:Water_Stone.png|15px]] [[Water Stone|Pierre Eau]] || 9 183 210
+|-
+| 220 || 40 || [[File:Leaf_Stone.png|15px]] [[Leaf Stone|Pierre Plante]] || 10 276 295
+|-
+| 230 || 40 || [[File:Thunder_Stone.png|15px]] [[Thunder Stone|Pierre Foudre]] || 11 444 573
+|-
+| 240 || 40 || [[File:Moon_Stone.png|15px]] [[Moon Stone|Pierre Lune]] || 12 689 759
+|-
+| rowspan=2|250 || 6400 || [[File:Ultraball.png|15px]] [[Ultraball|Hyper ball]] || rowspan=2|14 013 536
+|-
+| 1 ||  [[Achievements#Battle Frontier|Succès Combattant Compétent]]
+|-
+| 251 || 1 || [[File:DeoxysD_Shuffle.png|15px]]Deoxys (Défense) || 14 150 300
+|-
+| 300 || 100 || [[File:LinkingCord.png|15px]][[Linking Cord]] || 21 868 060
+|-
+| 386 || 1 || [[File:DeoxysS_Shuffle.png|15px]]Deoxys (Vitesse) || 40 628 799
+|-
+| 500 || 1 || [[Achievements#Battle Frontier|Succès Machine de guerre]] || 77 057 997
+|-
+| 666 || 1 || [[File:Vivillon_(Pokéball).png|25px]]&lt;b&gt;Prismillon (Pokéball)*&lt;/b&gt; || 157 191 954
+|-
+| 1000 || 1 || [[Achievements#Battle Frontier|Succès Légende vivante]] || 434 108 458
+|-
+|}
+
+*&lt;b&gt;&lt;big&gt;Note : &lt;/big&gt;&lt;/b&gt; [[File:Vivillon_(Pokéball).png|25px]] Prismillon (Pokéball) ne peut être récupéré que dans le cadre de la quête [[Quests|The Great Vivillon Hunt!]]
+
+Il n'y a pas de récompenses supplémentaires après avoir atteint le niveau 1000 (valable jusqu'à la version 0.8.9). Toutefois, le record du plus haut niveau atteint est lui connu. Vous trouverez plus d'informations sur le [https://discord.gg/a6DFe4p Discord].
+
+==Magasin de la Zone de Combat==
+
+{| class="wikitable sortable"
+|-
+! Price !! Item 
+|-
+|{{Battlepoints}} 1 || [[File:Ultraball.png|15px]][[Ultraball|Hyper ball]]
+|-
+|{{Battlepoints}} 500 || [[File:Masterball.png|15px]][[Masterball|Master ball]]
+|-
+|{{Battlepoints}} 10 || [[File:SmallRestore.png|15px]][[Small Restore|Potion]]
+|-
+|{{Battlepoints}} 20 || [[File:MediumRestore.png|15px]][[Medium Restore|Super Potion]]
+|-
+|{{Battlepoints}} 40 || [[File:LargeRestore.png|15px]][[Large Restore|Hyper Potion]]
+|-
+|{{Battlepoints}} 20,000 || [[File:Jamie.png|18px]][[Farm Hand|Fermier Jamie]]
+|-
+|{{Battlepoints}} 20,000 || [[File:HHNoel.png|15px]][[Hatchery Helper|Assistant de pension Noel]]
+|-
+|}</text>
+    <contributor>
+      <username>PetroleVB</username>
+      <id>36</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>20064</parentid>
+    <sha1>c10723c9eccddf4ba0272c42b9d704bd7ac5b0b1</sha1>
+  </revision>
+  <revision>
+    <id>20064</id>
+    <timestamp>2022-07-29T13:31:12Z</timestamp>
+    <text bytes="7622" space="preserve">&lt;languages/&gt;
+{{Infobox battle item
+|name       = Zone de Combat
+|image      = [[File:Battle_Frontier.png|500px]]
+|caption    = Zone de Combat
+|location   = Hoenn
+}}
+
+==Description==
+La '''Zone de Combat''' est un lieu d'[[Hoenn]] où vos Pokémons vont affronter indéfiniment des niveaux de 3 Pokémons générées aléatoirement, en une limite de temps de 30 secondes- si vous échouez, vous récupérerez des [[Pokémon Dollars|Pokédollars]] {{pdollar}} et des [[Battle Points|Jetons de bataille]] {{Battlepoints}}. Les [[Items|objets]] comme le [[XAttack]] sont permis ; malgré tout vous n'êtes pas autorisé à utiliser le clic souris dans la Zone de Combat.
+
+== Détails ==
+L'attaque est calculée à 100% du total combiné de l'ensemble de vos Pokémon - les debuff régionaux sont ignorés. Elle peut être encore augmentée avec des modificateurs que sont les [[Gems|gemmes]] et le [[XAttack]]. Les [[Battle Points|Jetons de bataille]] {{Battlepoints}} et [[Pokémon Dollars]]{{pdollar}} sont versés après avoir échoué un stage.
+
+Vous pouvez utiliser vos [[Battle Points|Jetons de bataille]] {{Battlepoints}} au [[Battle Frontier#Battle Frontier Shop|Magasin de la Zone de Combat]].
+
+Plus vous arriverez à vaincre d'équipes et d'avoir un niveau élevé, plus vous gagnerez de {{Battlepoints}}. 
+
+Lors des nouvelles tentatives, tout niveau déjà atteint précédemment sera deux fois plus simple à refaire - la vitesse d'attaque étant doublée dans ces niveaux. 
+
+===Stratégie d'éclosion===
+
+Comme décrit précédemment, la vitesse d'attaque des Pokémons est doublée sur les niveaux déjà complété précédemment dans la Zone de Combat. En plus de ça, lorsque vous vous trouvez dans la Zone de Combat, le nombre de pas requis pour l'éclosion des oeufs est également réduit, en fonction du niveau auquel vous êtes, selon la formule suivante : &lt;br&gt;
+
+&lt;math&gt;\text{Pas d'Eclosion} = (\text{Niveau})^{\frac{1}{2}}&lt;/math&gt;&lt;br&gt;
+
+La combinaison de ces deux fonctionnalités en particulier mène à une façon extrêmement efficace d'augmenter l'attaque de vos pokemon au travers du mécanisme d'éclosion à la Zone de Combat qui rivalise (et souvent surpasse) beaucoup d'autres lieux.
+
+===Gemmes===
+Vaincre des Pokémon dans la Zone de Combat permet également de gagner des [[Gems|Gemmes]] en fonction du type de pokémon vaincu. Le nombre de [[Gems|Gemmes]] gagné par combat suit la formule suivante : &lt;br&gt;
+
+&lt;math&gt;\text{Joyaux} = ⌈\frac{\text{Niveau}}{80}⌉&lt;/math&gt;&lt;br&gt;
+
+==Gains==
+===Devises===
+
+'''Note''' : Les gains ne sont pas remportés dans la Zone de Combat lorsque vous quittez par vous même. Vous devez perdre un niveau pour récupérer l'ensemble de vos [[Pokémon Dollars]] {{pdollar}} et vos [[Battle Points]] {{Battlepoints}}.
+{| class="wikitable"
+|-
+! Devise gagnée !! Formula
+|-
+| {{pdollar}} Pokédollars || &lt;math&gt;\text{Niveau atteint}^{2}&lt;/math&gt;
+|-
+| {{Battlepoints}} Battle Points&lt;sup&gt;1&lt;/sup&gt; || &lt;math&gt;\frac{\text{Niveau atteint}^{2}}{100}&lt;/math&gt;
+|}
+&lt;small&gt;&lt;sup&gt;1&lt;/sup&gt;Les {{Battlepoints}} sont arrondis au nombre entier le plus proche&lt;/small&gt;
+
+===Items &amp; Pokémon===
+''Note : Les points de vies des pokémon sont calculés puis arrondis à l'inférieur par la formule suivante : ''&lt;br&gt;
+&lt;math&gt;\text{PV ennemis} = \text{Arrondi}[\left ( \frac{100}{12} \times (\text{Niveau actuel} + 10)^{2.2}\right )^{1.15} \times (1 - 0.05)]&lt;/math&gt;
+
+'' Conseil : En moyenne  pour un niveau donné  vous aurez besoin d'avoir un niveau d'attaque 10x moins élevé que le nombre de point de vie des Pokemon (en prenant en compte tous les bonus de gemmes).''
+{| class="wikitable sortable"
+|-
+! Niveau !! Montant des gains !! Type de gain !! Point de Vie des Pokémon
+|-
+| 5 ||  25 || [[File:Ball_Pokeball.png|15px]][[Pokeball|Pokéball]] || 10 284
+|-
+| 10 || 100 || [[File:Ball_Pokeball.png|15px]] [[Pokeball|Pokéball]] || 21 294
+|-
+| 20 || 100 || [[File:Greatball.png|15px]] [[Greatball|Super ball]] || 59 399
+|-
+| 30 || 100 || [[File:Ultraball.png|15px]] [[Ultraball|Hyper ball]] || 122 992
+|-
+| 35 || 100 || [[File:Bag_X_Click_Sprite.png|15px]][[x Click]] || 165 688
+|-
+| 40 || 100 ||[[File:Bag_X_Attack_Sprite.png|15px]][[x Attack]] || 216 301
+|-
+| 50 || 100 ||[[File:SmallRestore.png|15px]] [[Small Restore|Potion]] || 343 074
+|-
+| rowspan=2|100 || rowspan=2|1 ||[[File:Deoxys_Shuffle.png|15px]]Deoxys || rowspan=2|1 589 969
+|-
+| [[Achievements#Battle Frontier|Succès Combattant débutant]]
+|-
+| 110 || 10 ||[[File:Water_Stone.png|15px]][[Water Stone|Pierre Eau]] || 1 981 498
+|-
+| 120 || 10 ||[[File:Leaf_Stone.png|15px]][[Leaf Stone|Pierre Plante]] || 2 426 285
+|-
+| 130 || 10 ||[[File:Thunder_Stone.png|15px]][[Thunder Stone|Pierre Foudre]] || 2 926 638
+|-
+| 140 || 10 ||[[File:Fire_Stone.png|15px]][[Fire Stone|Pierre Feu]] || 3 484 785
+|-
+| 150 || 200 ||[[File:MediumRestore.png|15px]] [[Medium Restore|Super potion]] || 4 102 879
+|-
+| 151 || 1 || [[File:DeoxysA_Shuffle.png|15px]]Deoxys (Attaque) || 4 168 066
+|-
+| 160 || 100 || [[File:Bag_Lucky_Egg_Sprite.png|15px]][[Lucky Egg]] || 4 783 006
+|-
+| 170 || 100 || [[File:Bag_Lucky_Incense_Sprite.png|15px]][[Lucky Incense]] || 5 527 192
+|-
+| 180 || 100 || [[File:Bag_Dowsing_Machine_Sprite.png|15px]][[Dowsing Machine]] || 6 337 409
+|-
+| 190 || 10 || [[File:Mystery_Egg.png|15px]][[Mystery Egg|Oeuf Mystère]] || 7 215 576
+|-
+| 200 || 100 || [[File:LargeRestore.png|15px]] [[Large Restore|Hyper potion]] || 8 163 567
+|-
+| 210 || 40 || [[File:Water_Stone.png|15px]] [[Water Stone|Pierre Eau]] || 9 183 210
+|-
+| 220 || 40 || [[File:Leaf_Stone.png|15px]] [[Leaf Stone|Pierre Plante]] || 10 276 295
+|-
+| 230 || 40 || [[File:Thunder_Stone.png|15px]] [[Thunder Stone|Pierre Foudre]] || 11 444 573
+|-
+| 240 || 40 || [[File:Moon_Stone.png|15px]] [[Moon Stone|Pierre Lune]] || 12 689 759
+|-
+| rowspan=2|250 || 6400 || [[File:Ultraball.png|15px]] [[Ultraball|Hyper ball]] || rowspan=2|14 013 536
+|-
+| 1 ||  [[Achievements#Battle Frontier|Succès Combattant Compétent]]
+|-
+| 251 || 1 || [[File:DeoxysD_Shuffle.png|15px]]Deoxys (Défense) || 14 150 300
+|-
+| 300 || 100 || [[File:LinkingCord.png|15px]][[Linking Cord]] || 21 868 060
+|-
+| 386 || 1 || [[File:DeoxysS_Shuffle.png|15px]]Deoxys (Vitesse) || 40 628 799
+|-
+| 500 || 1 || [[Achievements#Battle Frontier|Succès Machine de guerre]] || 77 057 997
+|-
+| 666 || 1 || [[File:Vivillon_(Pokéball).png|25px]]&lt;b&gt;Prismillon (Pokéball)*&lt;/b&gt; || 157 191 954
+|-
+| 1000 || 1 || [[Achievements#Battle Frontier|Succès Légende vivante]] || 434 108 458
+|-
+|}
+
+*&lt;b&gt;&lt;big&gt;Note : &lt;/big&gt;&lt;/b&gt; [[File:Vivillon_(Pokéball).png|25px]] Prismillon (Pokéball) ne peut être récupéré que dans le cadre de la quête [[Quests|The Great Vivillon Hunt!]]
+
+Il n'y a pas de récompenses supplémentaires après avoir atteint le niveau 1000 (valable jusqu'à la version 0.8.9). Toutefois, le record du plus haut niveau atteint est lui connu. Vous trouverez plus d'informations sur le [https://discord.gg/a6DFe4p Discord].
+
+==Magasin de la Zone de Combat==
+
+{| class="wikitable sortable"
+|-
+! Price !! Item 
+|-
+|{{Battlepoints}} 1 || [[File:Ultraball.png|15px]][[Ultraball|Hyper ball]]
+|-
+|{{Battlepoints}} 500 || [[File:Masterball.png|15px]][[Masterball|Master ball]]
+|-
+|{{Battlepoints}} 10 || [[File:SmallRestore.png|15px]][[Small Restore|Potion]]
+|-
+|{{Battlepoints}} 20 || [[File:MediumRestore.png|15px]][[Medium Restore|Super Potion]]
+|-
+|{{Battlepoints}} 40 || [[File:LargeRestore.png|15px]][[Large Restore|Hyper Potion]]
+|-
+|{{Battlepoints}} 20,000 || [[File:Jamie.png|18px]][[Farm Hand|Fermier Jamie]]
+|-
+|{{Battlepoints}} 20,000 || [[File:HHNoel.png|15px]][[Hatchery Helper|Assistant de pension Noel]]
+|-
+|}</text>
+    <contributor>
+      <username>PetroleVB</username>
+      <id>36</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>20063</parentid>
+    <sha1>d67f1ad3475656abbd1a897ca95216cd6d62dcdd</sha1>
+  </revision>
+  <revision>
+    <id>20063</id>
+    <timestamp>2022-07-29T13:29:59Z</timestamp>
+    <text bytes="7565" space="preserve">&lt;languages/&gt;
+{{Infobox battle item
+|name       = Zone de Combat
+|image      = [[File:Battle_Frontier.png|500px]]
+|caption    = Zone de Combat
+|location   = Hoenn
+}}
+
+==Description==
+La '''Zone de Combat''' est un lieu d'[[Hoenn]] où vos Pokémons vont affronter indéfiniment des niveaux de 3 Pokémons générées aléatoirement, en une limite de temps de 30 secondes- si vous échouez, vous récupérerez des [[Pokémon Dollars|Pokédollars]] {{pdollar}} et des [[Battle Points|Jetons de bataille]] {{Battlepoints}}. Les [[Items|objets]] comme le [[XAttack]] sont permis ; malgré tout vous n'êtes pas autorisé à utiliser le clic souris dans la Zone de Combat.
+
+== Détails ==
+L'attaque est calculée à 100% du total combiné de l'ensemble de vos Pokémon - les debuff régionaux sont ignorés. Elle peut être encore augmentée avec des modificateurs que sont les [[Gems|gemmes]] et le [[XAttack]]. Les [[Battle Points]]{{Battlepoints}} et [[Pokémon Dollars]]{{pdollar}} sont versés après avoir échoué un stage.
+
+Vous pouvez utiliser vos {{Battlepoints}} au [[Battle Frontier#Battle Frontier Shop|Magasin de la Zone de Combat]].
+
+Plus vous arriverez à vaincre d'équipes et d'avoir un niveau élevé, plus vous gagnerez de {{Battlepoints}}. 
+
+Lors des nouvelles tentatives, tout niveau déjà atteint précédemment sera deux fois plus simple à refaire - la vitesse d'attaque étant doublée dans ces niveaux. 
+
+===Stratégie d'éclosion===
+
+Comme décrit précédemment, la vitesse d'attaque des Pokémons est doublée sur les niveaux déjà complété précédemment dans la Zone de Combat. En plus de ça, lorsque vous vous trouvez dans la Zone de Combat, le nombre de pas requis pour l'éclosion des oeufs est également réduit, en fonction du niveau auquel vous êtes, selon la formule suivante : &lt;br&gt;
+
+&lt;math&gt;\text{Pas d'Eclosion} = (\text{Niveau})^{\frac{1}{2}}&lt;/math&gt;&lt;br&gt;
+
+La combinaison de ces deux fonctionnalités en particulier mène à une façon extrêmement efficace d'augmenter l'attaque de vos pokemon au travers du mécanisme d'éclosion à la Zone de Combat qui rivalise (et souvent surpasse) beaucoup d'autres lieux.
+
+===Gemmes===
+Vaincre des Pokémon dans la Zone de Combat permet également de gagner des [[Gems|Gemmes]] en fonction du type de pokémon vaincu. Le nombre de [[Gems|Gemmes]] gagné par combat suit la formule suivante : &lt;br&gt;
+
+&lt;math&gt;\text{Joyaux} = ⌈\frac{\text{Niveau}}{80}⌉&lt;/math&gt;&lt;br&gt;
+
+==Gains==
+===Devises===
+
+'''Note''' : Les gains ne sont pas remportés dans la Zone de Combat lorsque vous quittez par vous même. Vous devez perdre un niveau pour récupérer l'ensemble de vos [[Pokémon Dollars]] {{pdollar}} et vos [[Battle Points]] {{Battlepoints}}.
+{| class="wikitable"
+|-
+! Devise gagnée !! Formula
+|-
+| {{pdollar}} Pokédollars || &lt;math&gt;\text{Niveau atteint}^{2}&lt;/math&gt;
+|-
+| {{Battlepoints}} Battle Points&lt;sup&gt;1&lt;/sup&gt; || &lt;math&gt;\frac{\text{Niveau atteint}^{2}}{100}&lt;/math&gt;
+|}
+&lt;small&gt;&lt;sup&gt;1&lt;/sup&gt;Les {{Battlepoints}} sont arrondis au nombre entier le plus proche&lt;/small&gt;
+
+===Items &amp; Pokémon===
+''Note : Les points de vies des pokémon sont calculés puis arrondis à l'inférieur par la formule suivante : ''&lt;br&gt;
+&lt;math&gt;\text{PV ennemis} = \text{Arrondi}[\left ( \frac{100}{12} \times (\text{Niveau actuel} + 10)^{2.2}\right )^{1.15} \times (1 - 0.05)]&lt;/math&gt;
+
+'' Conseil : En moyenne  pour un niveau donné  vous aurez besoin d'avoir un niveau d'attaque 10x moins élevé que le nombre de point de vie des Pokemon (en prenant en compte tous les bonus de gemmes).''
+{| class="wikitable sortable"
+|-
+! Niveau !! Montant des gains !! Type de gain !! Point de Vie des Pokémon
+|-
+| 5 ||  25 || [[File:Ball_Pokeball.png|15px]][[Pokeball|Pokéball]] || 10 284
+|-
+| 10 || 100 || [[File:Ball_Pokeball.png|15px]] [[Pokeball|Pokéball]] || 21 294
+|-
+| 20 || 100 || [[File:Greatball.png|15px]] [[Greatball|Super ball]] || 59 399
+|-
+| 30 || 100 || [[File:Ultraball.png|15px]] [[Ultraball|Hyper ball]] || 122 992
+|-
+| 35 || 100 || [[File:Bag_X_Click_Sprite.png|15px]][[x Click]] || 165 688
+|-
+| 40 || 100 ||[[File:Bag_X_Attack_Sprite.png|15px]][[x Attack]] || 216 301
+|-
+| 50 || 100 ||[[File:SmallRestore.png|15px]] [[Small Restore|Potion]] || 343 074
+|-
+| rowspan=2|100 || rowspan=2|1 ||[[File:Deoxys_Shuffle.png|15px]]Deoxys || rowspan=2|1 589 969
+|-
+| [[Achievements#Battle Frontier|Succès Combattant débutant]]
+|-
+| 110 || 10 ||[[File:Water_Stone.png|15px]][[Water Stone|Pierre Eau]] || 1 981 498
+|-
+| 120 || 10 ||[[File:Leaf_Stone.png|15px]][[Leaf Stone|Pierre Plante]] || 2 426 285
+|-
+| 130 || 10 ||[[File:Thunder_Stone.png|15px]][[Thunder Stone|Pierre Foudre]] || 2 926 638
+|-
+| 140 || 10 ||[[File:Fire_Stone.png|15px]][[Fire Stone|Pierre Feu]] || 3 484 785
+|-
+| 150 || 200 ||[[File:MediumRestore.png|15px]] [[Medium Restore|Super potion]] || 4 102 879
+|-
+| 151 || 1 || [[File:DeoxysA_Shuffle.png|15px]]Deoxys (Attaque) || 4 168 066
+|-
+| 160 || 100 || [[File:Bag_Lucky_Egg_Sprite.png|15px]][[Lucky Egg]] || 4 783 006
+|-
+| 170 || 100 || [[File:Bag_Lucky_Incense_Sprite.png|15px]][[Lucky Incense]] || 5 527 192
+|-
+| 180 || 100 || [[File:Bag_Dowsing_Machine_Sprite.png|15px]][[Dowsing Machine]] || 6 337 409
+|-
+| 190 || 10 || [[File:Mystery_Egg.png|15px]][[Mystery Egg|Oeuf Mystère]] || 7 215 576
+|-
+| 200 || 100 || [[File:LargeRestore.png|15px]] [[Large Restore|Hyper potion]] || 8 163 567
+|-
+| 210 || 40 || [[File:Water_Stone.png|15px]] [[Water Stone|Pierre Eau]] || 9 183 210
+|-
+| 220 || 40 || [[File:Leaf_Stone.png|15px]] [[Leaf Stone|Pierre Plante]] || 10 276 295
+|-
+| 230 || 40 || [[File:Thunder_Stone.png|15px]] [[Thunder Stone|Pierre Foudre]] || 11 444 573
+|-
+| 240 || 40 || [[File:Moon_Stone.png|15px]] [[Moon Stone|Pierre Lune]] || 12 689 759
+|-
+| rowspan=2|250 || 6400 || [[File:Ultraball.png|15px]] [[Ultraball|Hyper ball]] || rowspan=2|14 013 536
+|-
+| 1 ||  [[Achievements#Battle Frontier|Succès Combattant Compétent]]
+|-
+| 251 || 1 || [[File:DeoxysD_Shuffle.png|15px]]Deoxys (Défense) || 14 150 300
+|-
+| 300 || 100 || [[File:LinkingCord.png|15px]][[Linking Cord]] || 21 868 060
+|-
+| 386 || 1 || [[File:DeoxysS_Shuffle.png|15px]]Deoxys (Vitesse) || 40 628 799
+|-
+| 500 || 1 || [[Achievements#Battle Frontier|Succès Machine de guerre]] || 77 057 997
+|-
+| 666 || 1 || [[File:Vivillon_(Pokéball).png|25px]]&lt;b&gt;Prismillon (Pokéball)*&lt;/b&gt; || 157 191 954
+|-
+| 1000 || 1 || [[Achievements#Battle Frontier|Succès Légende vivante]] || 434 108 458
+|-
+|}
+
+*&lt;b&gt;&lt;big&gt;Note : &lt;/big&gt;&lt;/b&gt; [[File:Vivillon_(Pokéball).png|25px]] Prismillon (Pokéball) ne peut être récupéré que dans le cadre de la quête [[Quests|The Great Vivillon Hunt!]]
+
+Il n'y a pas de récompenses supplémentaires après avoir atteint le niveau 1000 (valable jusqu'à la version 0.8.9). Toutefois, le record du plus haut niveau atteint est lui connu. Vous trouverez plus d'informations sur le [https://discord.gg/a6DFe4p Discord].
+
+==Magasin de la Zone de Combat==
+
+{| class="wikitable sortable"
+|-
+! Price !! Item 
+|-
+|{{Battlepoints}} 1 || [[File:Ultraball.png|15px]][[Ultraball|Hyper ball]]
+|-
+|{{Battlepoints}} 500 || [[File:Masterball.png|15px]][[Masterball|Master ball]]
+|-
+|{{Battlepoints}} 10 || [[File:SmallRestore.png|15px]][[Small Restore|Potion]]
+|-
+|{{Battlepoints}} 20 || [[File:MediumRestore.png|15px]][[Medium Restore|Super Potion]]
+|-
+|{{Battlepoints}} 40 || [[File:LargeRestore.png|15px]][[Large Restore|Hyper Potion]]
+|-
+|{{Battlepoints}} 20,000 || [[File:Jamie.png|18px]][[Farm Hand|Fermier Jamie]]
+|-
+|{{Battlepoints}} 20,000 || [[File:HHNoel.png|15px]][[Hatchery Helper|Assistant de pension Noel]]
+|-
+|}</text>
+    <contributor>
+      <username>PetroleVB</username>
+      <id>36</id>
+    </contributor>
+    <comment>made all achievement part a link, and localized the number value with space separator instead of comma</comment>
+    <model>wikitext</model>
+    <parentid>20062</parentid>
+    <sha1>19150bf5f63ab9ec71915482c831b116d1cb5f2c</sha1>
+  </revision>
+  <revision>
+    <id>20062</id>
+    <timestamp>2022-07-29T13:26:38Z</timestamp>
+    <text bytes="7565" space="preserve">&lt;languages/&gt;
+{{Infobox battle item
+|name       = Zone de Combat
+|image      = [[File:Battle_Frontier.png|500px]]
+|caption    = Zone de Combat
+|location   = Hoenn
+}}
+
+==Description==
+La '''Zone de Combat''' est un lieu d'[[Hoenn]] où vos Pokémons vont affronter indéfiniment des niveaux de 3 Pokémons générées aléatoirement, en une limite de temps de 30 secondes- si vous échouez, vous récupérerez des [[Pokémon Dollars|Pokédollars]] {{pdollar}} et des [[Battle Points|Jetons de bataille]] {{Battlepoints}}. Les [[Items|objets]] comme le [[XAttack]] sont permis ; malgré tout vous n'êtes pas autorisé à utiliser le clic souris dans la Zone de Combat.
+
+== Détails ==
+L'attaque est calculée à 100% du total combiné de l'ensemble de vos Pokémon - les debuff régionaux sont ignorés. Elle peut être encore augmentée avec des modificateurs que sont les [[Gems|gemmes]] et le [[XAttack]]. Les [[Battle Points]]{{Battlepoints}} et [[Pokémon Dollars]]{{pdollar}} sont versés après avoir échoué un stage.
+
+Vous pouvez utiliser vos {{Battlepoints}} au [[Battle Frontier#Battle Frontier Shop|Magasin de la Zone de Combat]].
+
+Plus vous arriverez à vaincre d'équipes et d'avoir un niveau élevé, plus vous gagnerez de {{Battlepoints}}. 
+
+Lors des nouvelles tentatives, tout niveau déjà atteint précédemment sera deux fois plus simple à refaire - la vitesse d'attaque étant doublée dans ces niveaux. 
+
+===Stratégie d'éclosion===
+
+Comme décrit précédemment, la vitesse d'attaque des Pokémons est doublée sur les niveaux déjà complété précédemment dans la Zone de Combat. En plus de ça, lorsque vous vous trouvez dans la Zone de Combat, le nombre de pas requis pour l'éclosion des oeufs est également réduit, en fonction du niveau auquel vous êtes, selon la formule suivante : &lt;br&gt;
+
+&lt;math&gt;\text{Pas d'Eclosion} = (\text{Niveau})^{\frac{1}{2}}&lt;/math&gt;&lt;br&gt;
+
+La combinaison de ces deux fonctionnalités en particulier mène à une façon extrêmement efficace d'augmenter l'attaque de vos pokemon au travers du mécanisme d'éclosion à la Zone de Combat qui rivalise (et souvent surpasse) beaucoup d'autres lieux.
+
+===Gemmes===
+Vaincre des Pokémon dans la Zone de Combat permet également de gagner des [[Gems|Gemmes]] en fonction du type de pokémon vaincu. Le nombre de [[Gems|Gemmes]] gagné par combat suit la formule suivante : &lt;br&gt;
+
+&lt;math&gt;\text{Joyaux} = ⌈\frac{\text{Niveau}}{80}⌉&lt;/math&gt;&lt;br&gt;
+
+==Gains==
+===Devises===
+
+'''Note''' : Les gains ne sont pas remportés dans la Zone de Combat lorsque vous quittez par vous même. Vous devez perdre un niveau pour récupérer l'ensemble de vos [[Pokémon Dollars]] {{pdollar}} et vos [[Battle Points]] {{Battlepoints}}.
+{| class="wikitable"
+|-
+! Devise gagnée !! Formula
+|-
+| {{pdollar}} Pokédollars || &lt;math&gt;\text{Niveau atteint}^{2}&lt;/math&gt;
+|-
+| {{Battlepoints}} Battle Points&lt;sup&gt;1&lt;/sup&gt; || &lt;math&gt;\frac{\text{Niveau atteint}^{2}}{100}&lt;/math&gt;
+|}
+&lt;small&gt;&lt;sup&gt;1&lt;/sup&gt;Les {{Battlepoints}} sont arrondis au nombre entier le plus proche&lt;/small&gt;
+
+===Items &amp; Pokémon===
+''Note : Les points de vies des pokémon sont calculés puis arrondis à l'inférieur par la formule suivante : ''&lt;br&gt;
+&lt;math&gt;\text{PV ennemis} = \text{Arrondi}[\left ( \frac{100}{12} \times (\text{Niveau actuel} + 10)^{2.2}\right )^{1.15} \times (1 - 0.05)]&lt;/math&gt;
+
+'' Conseil : En moyenne, pour un niveau donné, vous aurez besoin d'avoir un niveau d'attaque 10x moins élevé que le nombre de point de vie des Pokemon (en prenant en compte tous les bonus de gemmes).''
+{| class="wikitable sortable"
+|-
+! Niveau !! Montant des gains !! Type de gain !! Point de Vie des Pokémon
+|-
+| 5 ||  25 || [[File:Ball_Pokeball.png|15px]][[Pokeball|Pokéball]] || 10,284
+|-
+| 10 || 100 || [[File:Ball_Pokeball.png|15px]] [[Pokeball|Pokéball]] || 21,294
+|-
+| 20 || 100 || [[File:Greatball.png|15px]] [[Greatball|Super ball]] || 59,399
+|-
+| 30 || 100 || [[File:Ultraball.png|15px]] [[Ultraball|Hyper ball]] || 122,992
+|-
+| 35 || 100 || [[File:Bag_X_Click_Sprite.png|15px]][[x Click]] || 165,688
+|-
+| 40 || 100 ||[[File:Bag_X_Attack_Sprite.png|15px]][[x Attack]] || 216,301
+|-
+| 50 || 100 ||[[File:SmallRestore.png|15px]] [[Small Restore|Potion]] || 343,074
+|-
+| rowspan=2|100 || rowspan=2|1 ||[[File:Deoxys_Shuffle.png|15px]]Deoxys || rowspan=2|1,589,969
+|-
+| [[Achievements#Battle Frontier|Succès]] Combattant débutant
+|-
+| 110 || 10 ||[[File:Water_Stone.png|15px]][[Water Stone|Pierre Eau]] || 1,981,498
+|-
+| 120 || 10 ||[[File:Leaf_Stone.png|15px]][[Leaf Stone|Pierre Plante]] || 2,426,285
+|-
+| 130 || 10 ||[[File:Thunder_Stone.png|15px]][[Thunder Stone|Pierre Foudre]] || 2,926,638
+|-
+| 140 || 10 ||[[File:Fire_Stone.png|15px]][[Fire Stone|Pierre Feu]] || 3,484,785
+|-
+| 150 || 200 ||[[File:MediumRestore.png|15px]] [[Medium Restore|Super potion]] || 4,102,879
+|-
+| 151 || 1 || [[File:DeoxysA_Shuffle.png|15px]]Deoxys (Attaque) || 4,168,066
+|-
+| 160 || 100 || [[File:Bag_Lucky_Egg_Sprite.png|15px]][[Lucky Egg]] || 4,783,006
+|-
+| 170 || 100 || [[File:Bag_Lucky_Incense_Sprite.png|15px]][[Lucky Incense]] || 5,527,192
+|-
+| 180 || 100 || [[File:Bag_Dowsing_Machine_Sprite.png|15px]][[Dowsing Machine]] || 6,337,409
+|-
+| 190 || 10 || [[File:Mystery_Egg.png|15px]][[Mystery Egg|Oeuf Mystère]] || 7,215,576
+|-
+| 200 || 100 || [[File:LargeRestore.png|15px]] [[Large Restore|Hyper potion]] || 8,163,567
+|-
+| 210 || 40 || [[File:Water_Stone.png|15px]] [[Water Stone|Pierre Eau]] || 9,183,210
+|-
+| 220 || 40 || [[File:Leaf_Stone.png|15px]] [[Leaf Stone|Pierre Plante]] || 10,276,295
+|-
+| 230 || 40 || [[File:Thunder_Stone.png|15px]] [[Thunder Stone|Pierre Foudre]] || 11,444,573
+|-
+| 240 || 40 || [[File:Moon_Stone.png|15px]] [[Moon Stone|Pierre Lune]] || 12,689,759
+|-
+| rowspan=2|250 || 6400 || [[File:Ultraball.png|15px]] [[Ultraball|Hyper ball]] || rowspan=2|14,013,536
+|-
+| 1 ||  [[Achievements#Battle Frontier|Succès]] Combattant Compétent
+|-
+| 251 || 1 || [[File:DeoxysD_Shuffle.png|15px]]Deoxys (Défense) || 14,150,300
+|-
+| 300 || 100 || [[File:LinkingCord.png|15px]][[Linking Cord]] || 21,868,060
+|-
+| 386 || 1 || [[File:DeoxysS_Shuffle.png|15px]]Deoxys (Vitesse) || 40,628,799
+|-
+| 500 || 1 || [[Achievements#Battle Frontier|Succès]] Machine de guerre || 77,057,997
+|-
+| 666 || 1 || [[File:Vivillon_(Pokéball).png|25px]]&lt;b&gt;Prismillon (Pokéball)*&lt;/b&gt; || 157,191,954
+|-
+| 1000 || 1 || [[Achievements#Battle Frontier|Succès]] Légende vivante || 434,108,458
+|-
+|}
+
+*&lt;b&gt;&lt;big&gt;Note : &lt;/big&gt;&lt;/b&gt; [[File:Vivillon_(Pokéball).png|25px]] Prismillon (Pokéball) ne peut être récupéré que dans le cadre de la quête [[Quests|The Great Vivillon Hunt!]]
+
+Il n'y a pas de récompenses supplémentaires après avoir atteint le niveau 1000 (valable jusqu'à la version 0.8.9). Toutefois, le record du plus haut niveau atteint est lui connu. Vous trouverez plus d'informations sur le [https://discord.gg/a6DFe4p Discord].
+
+==Magasin de la Zone de Combat==
+
+{| class="wikitable sortable"
+|-
+! Price !! Item 
+|-
+|{{Battlepoints}} 1 || [[File:Ultraball.png|15px]][[Ultraball|Hyper ball]]
+|-
+|{{Battlepoints}} 500 || [[File:Masterball.png|15px]][[Masterball|Master ball]]
+|-
+|{{Battlepoints}} 10 || [[File:SmallRestore.png|15px]][[Small Restore|Potion]]
+|-
+|{{Battlepoints}} 20 || [[File:MediumRestore.png|15px]][[Medium Restore|Super Potion]]
+|-
+|{{Battlepoints}} 40 || [[File:LargeRestore.png|15px]][[Large Restore|Hyper Potion]]
+|-
+|{{Battlepoints}} 20,000 || [[File:Jamie.png|18px]][[Farm Hand|Fermier Jamie]]
+|-
+|{{Battlepoints}} 20,000 || [[File:HHNoel.png|15px]][[Hatchery Helper|Assistant de pension Noel]]
+|-
+|}</text>
+    <contributor>
+      <username>PetroleVB</username>
+      <id>36</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>20061</parentid>
+    <sha1>da2396a507e4a01b770f78f25e1a991bc2974ec5</sha1>
+  </revision>
+  <revision>
+    <id>20061</id>
+    <timestamp>2022-07-29T13:17:33Z</timestamp>
+    <text bytes="7533" space="preserve">&lt;languages/&gt;
+{{Infobox battle item
+|name       = Zone de Combat
+|image      = [[File:Battle_Frontier.png|500px]]
+|caption    = Zone de Combat
+|location   = Hoenn
+}}
+
+==Description==
+La '''Zone de Combat''' est un lieu d'[[Hoenn]] où vos Pokémons vont affronter indéfiniment des niveaux de 3 Pokémons générées aléatoirement, en une limite de temps de 30 secondes- si vous échouez, vous récupérerez des [[Pokémon Dollars]] {{pdollar}} et des [[Battle Points]] {{Battlepoints}}. Les [[Items|objets]] comme le [[XAttack]] sont permis ; malgré tout vous n'êtes pas autorisé à utiliser le clic souris dans la Zone de Combat.
+
+== Détails ==
+L'attaque est calculée à 100% du total combiné de l'ensemble de vos Pokémon - les debuff régionaux sont ignorés. Elle peut être encore augmentée avec des modificateurs que sont les [[Gems|gemmes]] et le [[XAttack]]. Les [[Battle Points]]{{Battlepoints}} et [[Pokémon Dollars]]{{pdollar}} sont versés après avoir échoué un stage.
+
+Vous pouvez utiliser vos {{Battlepoints}} au [[Battle Frontier#Battle Frontier Shop|Magasin de la Zone de Combat]].
+
+Plus vous arriverez à vaincre d'équipes et d'avoir un niveau élevé, plus vous gagnerez de {{Battlepoints}}. 
+
+Lors des nouvelles tentatives, tout niveau déjà atteint précédemment sera deux fois plus simple à refaire - la vitesse d'attaque étant doublée dans ces niveaux. 
+
+===Stratégie d'éclosion===
+
+Comme décrit précédemment, la vitesse d'attaque des Pokémons est doublée sur les niveaux déjà complété précédemment dans la Zone de Combat. En plus de ça, lorsque vous vous trouvez dans la Zone de Combat, le nombre de pas requis pour l'éclosion des oeufs est également réduit, en fonction du niveau auquel vous êtes, selon la formule suivante : &lt;br&gt;
+
+&lt;math&gt;\text{Pas d'Eclosion} = (\text{Niveau})^{\frac{1}{2}}&lt;/math&gt;&lt;br&gt;
+
+La combinaison de ces deux fonctionnalités en particulier mène à une façon extrêmement efficace d'augmenter l'attaque de vos pokemon au travers du mécanisme d'éclosion à la Zone de Combat qui rivalise (et souvent surpasse) beaucoup d'autres lieux.
+
+===Gemmes===
+Vaincre des Pokémon dans la Zone de Combat permet également de gagner des [[Gems|Gemmes]] en fonction du type de pokémon vaincu. Le nombre de [[Gems|Gemmes]] gagné par combat suit la formule suivante : &lt;br&gt;
+
+&lt;math&gt;\text{Joyaux} = ⌈\frac{\text{Niveau}}{80}⌉&lt;/math&gt;&lt;br&gt;
+
+==Gains==
+===Devises===
+
+'''Note''' : Les gains ne sont pas remportés dans la Zone de Combat lorsque vous quittez par vous même. Vous devez perdre un niveau pour récupérer l'ensemble de vos [[Pokémon Dollars]] {{pdollar}} et vos [[Battle Points]] {{Battlepoints}}.
+{| class="wikitable"
+|-
+! Devise gagnée !! Formula
+|-
+| {{pdollar}} Pokédollars || &lt;math&gt;\text{Niveau atteint}^{2}&lt;/math&gt;
+|-
+| {{Battlepoints}} Battle Points&lt;sup&gt;1&lt;/sup&gt; || &lt;math&gt;\frac{\text{Niveau atteint}^{2}}{100}&lt;/math&gt;
+|}
+&lt;small&gt;&lt;sup&gt;1&lt;/sup&gt;Les {{Battlepoints}} sont arrondis au nombre entier le plus proche&lt;/small&gt;
+
+===Items &amp; Pokémon===
+''Note : Les points de vies des pokémon sont calculés puis arrondis à l'inférieur par la formule suivante : ''&lt;br&gt;
+&lt;math&gt;\text{PV ennemis} = \text{Arrondi}[\left ( \frac{100}{12} \times (\text{Niveau actuel} + 10)^{2.2}\right )^{1.15} \times (1 - 0.05)]&lt;/math&gt;
+
+'' Conseil : En moyenne, pour un niveau donné, vous aurez besoin d'avoir un niveau d'attaque 10x moins élevé que le nombre de point de vie des Pokemon (en prenant en compte tous les bonus de gemmes).''
+{| class="wikitable sortable"
+|-
+! Niveau !! Montant des gains !! Type de gain !! Point de Vie des Pokémon
+|-
+| 5 ||  25 || [[File:Ball_Pokeball.png|15px]][[Pokeball|Pokéball]] || 10,284
+|-
+| 10 || 100 || [[File:Ball_Pokeball.png|15px]] [[Pokeball|Pokéball]] || 21,294
+|-
+| 20 || 100 || [[File:Greatball.png|15px]] [[Greatball|Super ball]] || 59,399
+|-
+| 30 || 100 || [[File:Ultraball.png|15px]] [[Ultraball|Hyper ball]] || 122,992
+|-
+| 35 || 100 || [[File:Bag_X_Click_Sprite.png|15px]][[x Click]] || 165,688
+|-
+| 40 || 100 ||[[File:Bag_X_Attack_Sprite.png|15px]][[x Attack]] || 216,301
+|-
+| 50 || 100 ||[[File:SmallRestore.png|15px]] [[Small Restore|Potion]] || 343,074
+|-
+| rowspan=2|100 || rowspan=2|1 ||[[File:Deoxys_Shuffle.png|15px]]Deoxys || rowspan=2|1,589,969
+|-
+| [[Achievements#Battle Frontier|Succès]] Combattant débutant
+|-
+| 110 || 10 ||[[File:Water_Stone.png|15px]][[Water Stone|Pierre Eau]] || 1,981,498
+|-
+| 120 || 10 ||[[File:Leaf_Stone.png|15px]][[Leaf Stone|Pierre Plante]] || 2,426,285
+|-
+| 130 || 10 ||[[File:Thunder_Stone.png|15px]][[Thunder Stone|Pierre Foudre]] || 2,926,638
+|-
+| 140 || 10 ||[[File:Fire_Stone.png|15px]][[Fire Stone|Pierre Feu]] || 3,484,785
+|-
+| 150 || 200 ||[[File:MediumRestore.png|15px]] [[Medium Restore|Super potion]] || 4,102,879
+|-
+| 151 || 1 || [[File:DeoxysA_Shuffle.png|15px]]Deoxys (Attaque) || 4,168,066
+|-
+| 160 || 100 || [[File:Bag_Lucky_Egg_Sprite.png|15px]][[Lucky Egg]] || 4,783,006
+|-
+| 170 || 100 || [[File:Bag_Lucky_Incense_Sprite.png|15px]][[Lucky Incense]] || 5,527,192
+|-
+| 180 || 100 || [[File:Bag_Dowsing_Machine_Sprite.png|15px]][[Dowsing Machine]] || 6,337,409
+|-
+| 190 || 10 || [[File:Mystery_Egg.png|15px]][[Mystery Egg|Oeuf Mystère]] || 7,215,576
+|-
+| 200 || 100 || [[File:LargeRestore.png|15px]] [[Large Restore|Hyper potion]] || 8,163,567
+|-
+| 210 || 40 || [[File:Water_Stone.png|15px]] [[Water Stone|Pierre Eau]] || 9,183,210
+|-
+| 220 || 40 || [[File:Leaf_Stone.png|15px]] [[Leaf Stone|Pierre Plante]] || 10,276,295
+|-
+| 230 || 40 || [[File:Thunder_Stone.png|15px]] [[Thunder Stone|Pierre Foudre]] || 11,444,573
+|-
+| 240 || 40 || [[File:Moon_Stone.png|15px]] [[Moon Stone|Pierre Lune]] || 12,689,759
+|-
+| rowspan=2|250 || 6400 || [[File:Ultraball.png|15px]] [[Ultraball|Hyper ball]] || rowspan=2|14,013,536
+|-
+| 1 ||  [[Achievements#Battle Frontier|Succès]] Combattant Compétent
+|-
+| 251 || 1 || [[File:DeoxysD_Shuffle.png|15px]]Deoxys (Défense) || 14,150,300
+|-
+| 300 || 100 || [[File:LinkingCord.png|15px]][[Linking Cord]] || 21,868,060
+|-
+| 386 || 1 || [[File:DeoxysS_Shuffle.png|15px]]Deoxys (Vitesse) || 40,628,799
+|-
+| 500 || 1 || [[Achievements#Battle Frontier|Succès]] Machine de guerre || 77,057,997
+|-
+| 666 || 1 || [[File:Vivillon_(Pokéball).png|25px]]&lt;b&gt;Prismillon (Pokéball)*&lt;/b&gt; || 157,191,954
+|-
+| 1000 || 1 || [[Achievements#Battle Frontier|Succès]] Légende vivante || 434,108,458
+|-
+|}
+
+*&lt;b&gt;&lt;big&gt;Note : &lt;/big&gt;&lt;/b&gt; [[File:Vivillon_(Pokéball).png|25px]] Prismillon (Pokéball) ne peut être récupéré que dans le cadre de la quête [[Quests|The Great Vivillon Hunt!]]
+
+Il n'y a pas de récompenses supplémentaires après avoir atteint le niveau 1000 (valable jusqu'à la version 0.8.9). Toutefois, le record du plus haut niveau atteint est lui connu. Vous trouverez plus d'informations sur le [https://discord.gg/a6DFe4p Discord].
+
+==Magasin de la Zone de Combat==
+
+{| class="wikitable sortable"
+|-
+! Price !! Item 
+|-
+|{{Battlepoints}} 1 || [[File:Ultraball.png|15px]][[Ultraball|Hyper ball]]
+|-
+|{{Battlepoints}} 500 || [[File:Masterball.png|15px]][[Masterball|Master ball]]
+|-
+|{{Battlepoints}} 10 || [[File:SmallRestore.png|15px]][[Small Restore|Potion]]
+|-
+|{{Battlepoints}} 20 || [[File:MediumRestore.png|15px]][[Medium Restore|Super Potion]]
+|-
+|{{Battlepoints}} 40 || [[File:LargeRestore.png|15px]][[Large Restore|Hyper Potion]]
+|-
+|{{Battlepoints}} 20,000 || [[File:Jamie.png|18px]][[Farm Hand|Fermier Jamie]]
+|-
+|{{Battlepoints}} 20,000 || [[File:HHNoel.png|15px]][[Hatchery Helper|Assistant de pension Noel]]
+|-
+|}</text>
+    <contributor>
+      <username>Razikd</username>
+      <id>33</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>20060</parentid>
+    <sha1>1cf16b16122e175f5bd05af6cf27e4af63263f94</sha1>
+  </revision>
+  <revision>
+    <id>20060</id>
+    <timestamp>2022-07-29T13:17:08Z</timestamp>
+    <text bytes="7504" space="preserve">&lt;languages/&gt;
+{{Infobox battle item
+|name       = Zone de Combat
+|image      = [[File:Battle_Frontier.png|500px]]
+|caption    = Zone de Combat
+|location   = Hoenn
+}}
+
+==Description==
+La '''Zone de Combat''' est un lieu d'[[Hoenn]] où vos Pokémons vont affronter indéfiniment des niveaux de 3 Pokémons générées aléatoirement, en une limite de temps de 30 secondes- si vous échouez, vous récupérerez des [[Pokémon Dollars]] {{pdollar}} et des [[Battle Points]] {{Battlepoints}}. Les [[Items|objets]] comme le [[XAttack]] sont permis ; malgré tout vous n'êtes pas autorisé à utiliser le clic souris dans la Zone de Combat.
+
+== Détails ==
+L'attaque est calculée à 100% du total combiné de l'ensemble de vos Pokémon - les debuff régionaux sont ignorés. Elle peut être encore augmentée avec des modificateurs que sont les [[Gems|gemmes]] et le [[XAttack]]. Les [[Battle Points]]{{Battlepoints}} et [[Pokémon Dollars]]{{pdollar}} sont versés après avoir échoué un stage.
+
+Vous pouvez utiliser vos {{Battlepoints}} au [[Battle Frontier#Battle Frontier Shop|Magasin de la Zone de Combat]].
+
+Plus vous arriverez à vaincre d'équipes et d'avoir un niveau élevé, plus vous gagnerez de {{Battlepoints}}. 
+
+Lors des nouvelles tentatives, tout niveau déjà atteint précédemment sera deux fois plus simple à refaire - la vitesse d'attaque étant doublée dans ces niveaux. 
+
+===Stratégie d'éclosion===
+
+Comme décrit précédemment, la vitesse d'attaque des Pokémons est doublée sur les niveaux déjà complété précédemment dans la Zone de Combat. En plus de ça, lorsque vous vous trouvez dans la Zone de Combat, le nombre de pas requis pour l'éclosion des oeufs est également réduit, en fonction du niveau auquel vous êtes, selon la formule suivante : &lt;br&gt;
+
+&lt;math&gt;\text{Pas d'Eclosion} = (\text{Niveau})^{\frac{1}{2}}&lt;/math&gt;&lt;br&gt;
+
+La combinaison de ces deux fonctionnalités en particulier mène à une façon extrêmement efficace d'augmenter l'attaque de vos pokemon au travers du mécanisme d'éclosion à la Zone de Combat qui rivalise (et souvent surpasse) beaucoup d'autres lieux.
+
+===Gemmes===
+Vaincre des Pokémon dans la Zone de Combat permet également de gagner des [[Gems|Gemmes]] en fonction du type de pokémon vaincu. Le nombre de [[Gems|Gemmes]] gagné par combat suit la formule suivante : &lt;br&gt;
+
+&lt;math&gt;\text{Joyaux} = ⌈\frac{\text{Niveau}}{80}⌉&lt;/math&gt;&lt;br&gt;
+
+==Gains==
+===Devises===
+
+'''Note''' : Les gains ne sont pas remportés dans la Zone de Combat lorsque vous quittez par vous même. Vous devez perdre un niveau pour récupérer l'ensemble de vos [[Pokémon Dollars]] {{pdollar}} et vos [[Battle Points]] {{Battlepoints}}.
+{| class="wikitable"
+|-
+! Devise gagnée !! Formula
+|-
+| {{pdollar}} Pokédollars || &lt;math&gt;\text{Niveau atteint}^{2}&lt;/math&gt;
+|-
+| {{Battlepoints}} Battle Points&lt;sup&gt;1&lt;/sup&gt; || &lt;math&gt;\frac{\text{Niveau atteint}^{2}}{100}&lt;/math&gt;
+|}
+&lt;small&gt;&lt;sup&gt;1&lt;/sup&gt;Les {{Battlepoints}} sont arrondis au nombre entier le plus proche&lt;/small&gt;
+
+===Items &amp; Pokémon===
+''Note : Les points de vies des pokémon sont calculés puis arrondis à l'inférieur par la formule suivante : ''&lt;br&gt;
+&lt;math&gt;\text{PV ennemis} = \text{Arrondi}[\left ( \frac{100}{12} \times (\text{Niveau actuel} + 10)^{2.2}\right )^{1.15} \times (1 - 0.05)]&lt;/math&gt;
+
+'' Conseil : En moyenne, pour un niveau donné, vous aurez besoin d'avoir un niveau d'attaque 10x moins élevé que le nombre de point de vie des Pokemon (en prenant en compte tous les bonus de gemmes).''
+{| class="wikitable sortable"
+|-
+! Niveau !! Montant des gains !! Type de gain !! Point de Vie des Pokémon
+|-
+| 5 ||  25 || [[File:Ball_Pokeball.png|15px]][[Pokeball|Pokéball]] || 10,284
+|-
+| 10 || 100 || [[File:Ball_Pokeball.png|15px]] [[Pokeball|Pokéball]] || 21,294
+|-
+| 20 || 100 || [[File:Greatball.png|15px]] [[Greatball|Super ball]] || 59,399
+|-
+| 30 || 100 || [[File:Ultraball.png|15px]] [[Ultraball|Hyper ball]] || 122,992
+|-
+| 35 || 100 || [[File:Bag_X_Click_Sprite.png|15px]][[x Click]] || 165,688
+|-
+| 40 || 100 ||[[File:Bag_X_Attack_Sprite.png|15px]][[x Attack]] || 216,301
+|-
+| 50 || 100 ||[[File:SmallRestore.png|15px]] [[Small Restore|Potion]] || 343,074
+|-
+| rowspan=2|100 || rowspan=2|1 ||[[File:Deoxys_Shuffle.png|15px]]Deoxys || rowspan=2|1,589,969
+|-
+| [[Achievements#Battle Frontier|Succès]] Combattant débutant
+|-
+| 110 || 10 ||[[File:Water_Stone.png|15px]][[Water Stone|Pierre Eau]] || 1,981,498
+|-
+| 120 || 10 ||[[File:Leaf_Stone.png|15px]][[Leaf Stone|Pierre Plante]] || 2,426,285
+|-
+| 130 || 10 ||[[File:Thunder_Stone.png|15px]][[Thunder Stone|Pierre Foudre]] || 2,926,638
+|-
+| 140 || 10 ||[[File:Fire_Stone.png|15px]][[Fire Stone|Pierre Feu]] || 3,484,785
+|-
+| 150 || 200 ||[[File:MediumRestore.png|15px]] [[Medium Restore|Super potion]] || 4,102,879
+|-
+| 151 || 1 || [[File:DeoxysA_Shuffle.png|15px]]Deoxys (Attaque) || 4,168,066
+|-
+| 160 || 100 || [[File:Bag_Lucky_Egg_Sprite.png|15px]][[Lucky Egg]] || 4,783,006
+|-
+| 170 || 100 || [[File:Bag_Lucky_Incense_Sprite.png|15px]][[Lucky Incense]] || 5,527,192
+|-
+| 180 || 100 || [[File:Bag_Dowsing_Machine_Sprite.png|15px]][[Dowsing Machine]] || 6,337,409
+|-
+| 190 || 10 || [[File:Mystery_Egg.png|15px]][[Mystery Egg|Oeuf Mystère]] || 7,215,576
+|-
+| 200 || 100 || [[File:LargeRestore.png|15px]] [[Large Restore|Hyper potion]] || 8,163,567
+|-
+| 210 || 40 || [[File:Water_Stone.png|15px]] [[Water Stone|Pierre Eau]] || 9,183,210
+|-
+| 220 || 40 || [[File:Leaf_Stone.png|15px]] [[Leaf Stone|Pierre Plante]] || 10,276,295
+|-
+| 230 || 40 || [[File:Thunder_Stone.png|15px]] [[Thunder Stone|Pierre Foudre]] || 11,444,573
+|-
+| 240 || 40 || [[File:Moon_Stone.png|15px]] [[Moon Stone|Pierre Lune]] || 12,689,759
+|-
+| rowspan=2|250 || 6400 || [[File:Ultraball.png|15px]] [[Ultraball|Hyper ball]] || rowspan=2|14,013,536
+|-
+| 1 ||  [[Achievements#Battle Frontier|Succès]] Combattant Compétent
+|-
+| 251 || 1 || [[File:DeoxysD_Shuffle.png|15px]]Deoxys (Défense) || 14,150,300
+|-
+| 300 || 100 || [[File:LinkingCord.png|15px]][[Linking Cord]] || 21,868,060
+|-
+| 386 || 1 || [[File:DeoxysS_Shuffle.png|15px]]Deoxys (Vitesse) || 40,628,799
+|-
+| 500 || 1 || [[Achievements#Battle Frontier|Succès]] Machine de guerre || 77,057,997
+|-
+| 666 || 1 || [[File:Vivillon_(Pokéball).png|25px]]&lt;b&gt;Prismillon (Pokéball)*&lt;/b&gt; || 157,191,954
+|-
+| 1000 || 1 || [[Achievements#Battle Frontier|Succès]] Légende vivante || 434,108,458
+|-
+|}
+
+*&lt;b&gt;&lt;big&gt;Note : &lt;/big&gt;&lt;/b&gt; [[File:Vivillon_(Pokéball).png|25px]] Prismillon (Pokéball) ne peut être récupéré que dans le cadre de la quête [[Quests|The Great Vivillon Hunt!]]
+
+Il n'y a pas de récompenses supplémentaires après avoir atteint le niveau 1000 (valable jusqu'à la version 0.8.9). Toutefois, le record du plus haut niveau atteint est lui connu. Vous trouverez plus d'informations sur le Discord.
+
+==Magasin de la Zone de Combat==
+
+{| class="wikitable sortable"
+|-
+! Price !! Item 
+|-
+|{{Battlepoints}} 1 || [[File:Ultraball.png|15px]][[Ultraball|Hyper ball]]
+|-
+|{{Battlepoints}} 500 || [[File:Masterball.png|15px]][[Masterball|Master ball]]
+|-
+|{{Battlepoints}} 10 || [[File:SmallRestore.png|15px]][[Small Restore|Potion]]
+|-
+|{{Battlepoints}} 20 || [[File:MediumRestore.png|15px]][[Medium Restore|Super Potion]]
+|-
+|{{Battlepoints}} 40 || [[File:LargeRestore.png|15px]][[Large Restore|Hyper Potion]]
+|-
+|{{Battlepoints}} 20,000 || [[File:Jamie.png|18px]][[Farm Hand|Fermier Jamie]]
+|-
+|{{Battlepoints}} 20,000 || [[File:HHNoel.png|15px]][[Hatchery Helper|Assistant de pension Noel]]
+|-
+|}</text>
+    <contributor>
+      <username>PetroleVB</username>
+      <id>36</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>20059</parentid>
+    <sha1>03493bed210ec3bcf9a05cf76f7fc8c64f6d1cc5</sha1>
+  </revision>
+  <revision>
+    <id>20059</id>
+    <timestamp>2022-07-29T13:17:02Z</timestamp>
+    <text bytes="7504" space="preserve">&lt;languages/&gt;
+{{Infobox battle item
+|name       = Zone de Combat
+|image      = [[File:Battle_Frontier.png|500px]]
+|caption    = Zone de Combat
+|location   = Hoenn
+}}
+
+==Description==
+La '''Zone de Combat''' est un lieu d'[[Hoenn]] où vos Pokémons vont affronter indéfiniment des niveaux de 3 Pokémons générées aléatoirement, en une limite de temps de 30 secondes- si vous échouez, vous récupérerez des [[Pokémon Dollars]] {{pdollar}} et des [[Battle Points]] {{Battlepoints}}. Les [[Items|objets]] comme le [[XAttack]] sont permis ; malgré tout vous n'êtes pas autorisé à utiliser le clic souris dans la Zone de Combat.
+
+== Détails ==
+L'attaque est calculée à 100% du total combiné de l'ensemble de vos Pokémon - les debuff régionaux sont ignorés. Elle peut être encore augmentée avec des modificateurs que sont les [[Gems|gemmes]] et le [[XAttack]]. Les [[Battle Points]]{{Battlepoints}} et [[Pokémon Dollars]]{{pdollar}} sont versés après avoir échoué un stage.
+
+Vous pouvez utiliser vos {{Battlepoints}} au [[Battle Frontier#Battle Frontier Shop|Magasin de la Zone de Combat]].
+
+Plus vous arriverez à vaincre d'équipes et d'avoir un niveau élevé, plus vous gagnerez de {{Battlepoints}}. 
+
+Lors des nouvelles tentatives, tout niveau déjà atteint précédemment sera deux fois plus simple à refaire - la vitesse d'attaque étant doublée dans ces niveaux. 
+
+===Stratégie d'éclosion===
+
+Comme décrit précédemment, la vitesse d'attaque des Pokémons est doublée sur les niveaux déjà complété précédemment dans la Zone de Combat. En plus de ça, lorsque vous vous trouvez dans la Zone de Combat, le nombre de pas requis pour l'éclosion des oeufs est également réduit, en fonction du niveau auquel vous êtes, selon la formule suivante : &lt;br&gt;
+
+&lt;math&gt;\text{Pas d'Eclosion} = (\text{Niveau})^{\frac{1}{2}}&lt;/math&gt;&lt;br&gt;
+
+La combinaison de ces deux fonctionnalités en particulier mène à une façon extrêmement efficace d'augmenter l'attaque de vos pokemon au travers du mécanisme d'éclosion à la Zone de Combat qui rivalise (et souvent surpasse) beaucoup d'autres lieux.
+
+===Gemmes===
+Vaincre des Pokémon dans la Tour de Combat permet également de gagner des [[Gems|Gemmes]] en fonction du type de pokémon vaincu. Le nombre de [[Gems|Gemmes]] gagné par combat suit la formule suivante : &lt;br&gt;
+
+&lt;math&gt;\text{Joyaux} = ⌈\frac{\text{Niveau}}{80}⌉&lt;/math&gt;&lt;br&gt;
+
+==Gains==
+===Devises===
+
+'''Note''' : Les gains ne sont pas remportés dans la Zone de Combat lorsque vous quittez par vous même. Vous devez perdre un niveau pour récupérer l'ensemble de vos [[Pokémon Dollars]] {{pdollar}} et vos [[Battle Points]] {{Battlepoints}}.
+{| class="wikitable"
+|-
+! Devise gagnée !! Formula
+|-
+| {{pdollar}} Pokédollars || &lt;math&gt;\text{Niveau atteint}^{2}&lt;/math&gt;
+|-
+| {{Battlepoints}} Battle Points&lt;sup&gt;1&lt;/sup&gt; || &lt;math&gt;\frac{\text{Niveau atteint}^{2}}{100}&lt;/math&gt;
+|}
+&lt;small&gt;&lt;sup&gt;1&lt;/sup&gt;Les {{Battlepoints}} sont arrondis au nombre entier le plus proche&lt;/small&gt;
+
+===Items &amp; Pokémon===
+''Note : Les points de vies des pokémon sont calculés puis arrondis à l'inférieur par la formule suivante : ''&lt;br&gt;
+&lt;math&gt;\text{PV ennemis} = \text{Arrondi}[\left ( \frac{100}{12} \times (\text{Niveau actuel} + 10)^{2.2}\right )^{1.15} \times (1 - 0.05)]&lt;/math&gt;
+
+'' Conseil : En moyenne, pour un niveau donné, vous aurez besoin d'avoir un niveau d'attaque 10x moins élevé que le nombre de point de vie des Pokemon (en prenant en compte tous les bonus de gemmes).''
+{| class="wikitable sortable"
+|-
+! Niveau !! Montant des gains !! Type de gain !! Point de Vie des Pokémon
+|-
+| 5 ||  25 || [[File:Ball_Pokeball.png|15px]][[Pokeball|Pokéball]] || 10,284
+|-
+| 10 || 100 || [[File:Ball_Pokeball.png|15px]] [[Pokeball|Pokéball]] || 21,294
+|-
+| 20 || 100 || [[File:Greatball.png|15px]] [[Greatball|Super ball]] || 59,399
+|-
+| 30 || 100 || [[File:Ultraball.png|15px]] [[Ultraball|Hyper ball]] || 122,992
+|-
+| 35 || 100 || [[File:Bag_X_Click_Sprite.png|15px]][[x Click]] || 165,688
+|-
+| 40 || 100 ||[[File:Bag_X_Attack_Sprite.png|15px]][[x Attack]] || 216,301
+|-
+| 50 || 100 ||[[File:SmallRestore.png|15px]] [[Small Restore|Potion]] || 343,074
+|-
+| rowspan=2|100 || rowspan=2|1 ||[[File:Deoxys_Shuffle.png|15px]]Deoxys || rowspan=2|1,589,969
+|-
+| [[Achievements#Battle Frontier|Succès]] Combattant débutant
+|-
+| 110 || 10 ||[[File:Water_Stone.png|15px]][[Water Stone|Pierre Eau]] || 1,981,498
+|-
+| 120 || 10 ||[[File:Leaf_Stone.png|15px]][[Leaf Stone|Pierre Plante]] || 2,426,285
+|-
+| 130 || 10 ||[[File:Thunder_Stone.png|15px]][[Thunder Stone|Pierre Foudre]] || 2,926,638
+|-
+| 140 || 10 ||[[File:Fire_Stone.png|15px]][[Fire Stone|Pierre Feu]] || 3,484,785
+|-
+| 150 || 200 ||[[File:MediumRestore.png|15px]] [[Medium Restore|Super potion]] || 4,102,879
+|-
+| 151 || 1 || [[File:DeoxysA_Shuffle.png|15px]]Deoxys (Attaque) || 4,168,066
+|-
+| 160 || 100 || [[File:Bag_Lucky_Egg_Sprite.png|15px]][[Lucky Egg]] || 4,783,006
+|-
+| 170 || 100 || [[File:Bag_Lucky_Incense_Sprite.png|15px]][[Lucky Incense]] || 5,527,192
+|-
+| 180 || 100 || [[File:Bag_Dowsing_Machine_Sprite.png|15px]][[Dowsing Machine]] || 6,337,409
+|-
+| 190 || 10 || [[File:Mystery_Egg.png|15px]][[Mystery Egg|Oeuf Mystère]] || 7,215,576
+|-
+| 200 || 100 || [[File:LargeRestore.png|15px]] [[Large Restore|Hyper potion]] || 8,163,567
+|-
+| 210 || 40 || [[File:Water_Stone.png|15px]] [[Water Stone|Pierre Eau]] || 9,183,210
+|-
+| 220 || 40 || [[File:Leaf_Stone.png|15px]] [[Leaf Stone|Pierre Plante]] || 10,276,295
+|-
+| 230 || 40 || [[File:Thunder_Stone.png|15px]] [[Thunder Stone|Pierre Foudre]] || 11,444,573
+|-
+| 240 || 40 || [[File:Moon_Stone.png|15px]] [[Moon Stone|Pierre Lune]] || 12,689,759
+|-
+| rowspan=2|250 || 6400 || [[File:Ultraball.png|15px]] [[Ultraball|Hyper ball]] || rowspan=2|14,013,536
+|-
+| 1 ||  [[Achievements#Battle Frontier|Succès]] Combattant Compétent
+|-
+| 251 || 1 || [[File:DeoxysD_Shuffle.png|15px]]Deoxys (Défense) || 14,150,300
+|-
+| 300 || 100 || [[File:LinkingCord.png|15px]][[Linking Cord]] || 21,868,060
+|-
+| 386 || 1 || [[File:DeoxysS_Shuffle.png|15px]]Deoxys (Vitesse) || 40,628,799
+|-
+| 500 || 1 || [[Achievements#Battle Frontier|Succès]] Machine de guerre || 77,057,997
+|-
+| 666 || 1 || [[File:Vivillon_(Pokéball).png|25px]]&lt;b&gt;Prismillon (Pokéball)*&lt;/b&gt; || 157,191,954
+|-
+| 1000 || 1 || [[Achievements#Battle Frontier|Succès]] Légende vivante || 434,108,458
+|-
+|}
+
+*&lt;b&gt;&lt;big&gt;Note : &lt;/big&gt;&lt;/b&gt; [[File:Vivillon_(Pokéball).png|25px]] Prismillon (Pokéball) ne peut être récupéré que dans le cadre de la quête [[Quests|The Great Vivillon Hunt!]]
+
+Il n'y a pas de récompenses supplémentaires après avoir atteint le niveau 1000 (valable jusqu'à la version 0.8.9). Toutefois, le record du plus haut niveau atteint est lui connu. Vous trouverez plus d'informations sur le Discord.
+
+==Magasin de la Zone de Combat==
+
+{| class="wikitable sortable"
+|-
+! Price !! Item 
+|-
+|{{Battlepoints}} 1 || [[File:Ultraball.png|15px]][[Ultraball|Hyper ball]]
+|-
+|{{Battlepoints}} 500 || [[File:Masterball.png|15px]][[Masterball|Master ball]]
+|-
+|{{Battlepoints}} 10 || [[File:SmallRestore.png|15px]][[Small Restore|Potion]]
+|-
+|{{Battlepoints}} 20 || [[File:MediumRestore.png|15px]][[Medium Restore|Super Potion]]
+|-
+|{{Battlepoints}} 40 || [[File:LargeRestore.png|15px]][[Large Restore|Hyper Potion]]
+|-
+|{{Battlepoints}} 20,000 || [[File:Jamie.png|18px]][[Farm Hand|Fermier Jamie]]
+|-
+|{{Battlepoints}} 20,000 || [[File:HHNoel.png|15px]][[Hatchery Helper|Assistant de pension Noel]]
+|-
+|}</text>
+    <contributor>
+      <username>PetroleVB</username>
+      <id>36</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>20058</parentid>
+    <sha1>6978996083be7e6accc8c1f9b151c2d1a05be348</sha1>
+  </revision>
+  <revision>
+    <id>20058</id>
+    <timestamp>2022-07-29T13:16:58Z</timestamp>
+    <text bytes="7505" space="preserve">&lt;languages/&gt;
+{{Infobox battle item
+|name       = Zone de Combat
+|image      = [[File:Battle_Frontier.png|500px]]
+|caption    = Zone de Combat
+|location   = Hoenn
+}}
+
+==Description==
+La '''Zone de Combat''' est un lieu d'[[Hoenn]] où vos Pokémons vont affronter indéfiniment des niveaux de 3 Pokémons générées aléatoirement, en une limite de temps de 30 secondes- si vous échouez, vous récupérerez des [[Pokémon Dollars]] {{pdollar}} et des [[Battle Points]] {{Battlepoints}}. Les [[Items|objets]] comme le [[XAttack]] sont permis ; malgré tout vous n'êtes pas autorisé à utiliser le clic souris dans la Zone de Combat.
+
+== Détails ==
+L'attaque est calculée à 100% du total combiné de l'ensemble de vos Pokémon - les debuff régionaux sont ignorés. Elle peut être encore augmentée avec des modificateurs que sont les [[Gems|gemmes]] et le [[XAttack]]. Les [[Battle Points]]{{Battlepoints}} et [[Pokémon Dollars]]{{pdollar}} sont versés après avoir échoué un stage.
+
+Vous pouvez utiliser vos {{Battlepoints}} au [[Battle Frontier#Battle Frontier Shop|Boutique de la Tour de Combat]].
+
+Plus vous arriverez à vaincre d'équipes et d'avoir un niveau élevé, plus vous gagnerez de {{Battlepoints}}. 
+
+Lors des nouvelles tentatives, tout niveau déjà atteint précédemment sera deux fois plus simple à refaire - la vitesse d'attaque étant doublée dans ces niveaux. 
+
+===Stratégie d'éclosion===
+
+Comme décrit précédemment, la vitesse d'attaque des Pokémons est doublée sur les niveaux déjà complété précédemment dans la Zone de Combat. En plus de ça, lorsque vous vous trouvez dans la Zone de Combat, le nombre de pas requis pour l'éclosion des oeufs est également réduit, en fonction du niveau auquel vous êtes, selon la formule suivante : &lt;br&gt;
+
+&lt;math&gt;\text{Pas d'Eclosion} = (\text{Niveau})^{\frac{1}{2}}&lt;/math&gt;&lt;br&gt;
+
+La combinaison de ces deux fonctionnalités en particulier mène à une façon extrêmement efficace d'augmenter l'attaque de vos pokemon au travers du mécanisme d'éclosion à la Zone de Combat qui rivalise (et souvent surpasse) beaucoup d'autres lieux.
+
+===Gemmes===
+Vaincre des Pokémon dans la Tour de Combat permet également de gagner des [[Gems|Gemmes]] en fonction du type de pokémon vaincu. Le nombre de [[Gems|Gemmes]] gagné par combat suit la formule suivante : &lt;br&gt;
+
+&lt;math&gt;\text{Joyaux} = ⌈\frac{\text{Niveau}}{80}⌉&lt;/math&gt;&lt;br&gt;
+
+==Gains==
+===Devises===
+
+'''Note''' : Les gains ne sont pas remportés dans la Zone de Combat lorsque vous quittez par vous même. Vous devez perdre un niveau pour récupérer l'ensemble de vos [[Pokémon Dollars]] {{pdollar}} et vos [[Battle Points]] {{Battlepoints}}.
+{| class="wikitable"
+|-
+! Devise gagnée !! Formula
+|-
+| {{pdollar}} Pokédollars || &lt;math&gt;\text{Niveau atteint}^{2}&lt;/math&gt;
+|-
+| {{Battlepoints}} Battle Points&lt;sup&gt;1&lt;/sup&gt; || &lt;math&gt;\frac{\text{Niveau atteint}^{2}}{100}&lt;/math&gt;
+|}
+&lt;small&gt;&lt;sup&gt;1&lt;/sup&gt;Les {{Battlepoints}} sont arrondis au nombre entier le plus proche&lt;/small&gt;
+
+===Items &amp; Pokémon===
+''Note : Les points de vies des pokémon sont calculés puis arrondis à l'inférieur par la formule suivante : ''&lt;br&gt;
+&lt;math&gt;\text{PV ennemis} = \text{Arrondi}[\left ( \frac{100}{12} \times (\text{Niveau actuel} + 10)^{2.2}\right )^{1.15} \times (1 - 0.05)]&lt;/math&gt;
+
+'' Conseil : En moyenne, pour un niveau donné, vous aurez besoin d'avoir un niveau d'attaque 10x moins élevé que le nombre de point de vie des Pokemon (en prenant en compte tous les bonus de gemmes).''
+{| class="wikitable sortable"
+|-
+! Niveau !! Montant des gains !! Type de gain !! Point de Vie des Pokémon
+|-
+| 5 ||  25 || [[File:Ball_Pokeball.png|15px]][[Pokeball|Pokéball]] || 10,284
+|-
+| 10 || 100 || [[File:Ball_Pokeball.png|15px]] [[Pokeball|Pokéball]] || 21,294
+|-
+| 20 || 100 || [[File:Greatball.png|15px]] [[Greatball|Super ball]] || 59,399
+|-
+| 30 || 100 || [[File:Ultraball.png|15px]] [[Ultraball|Hyper ball]] || 122,992
+|-
+| 35 || 100 || [[File:Bag_X_Click_Sprite.png|15px]][[x Click]] || 165,688
+|-
+| 40 || 100 ||[[File:Bag_X_Attack_Sprite.png|15px]][[x Attack]] || 216,301
+|-
+| 50 || 100 ||[[File:SmallRestore.png|15px]] [[Small Restore|Potion]] || 343,074
+|-
+| rowspan=2|100 || rowspan=2|1 ||[[File:Deoxys_Shuffle.png|15px]]Deoxys || rowspan=2|1,589,969
+|-
+| [[Achievements#Battle Frontier|Succès]] Combattant débutant
+|-
+| 110 || 10 ||[[File:Water_Stone.png|15px]][[Water Stone|Pierre Eau]] || 1,981,498
+|-
+| 120 || 10 ||[[File:Leaf_Stone.png|15px]][[Leaf Stone|Pierre Plante]] || 2,426,285
+|-
+| 130 || 10 ||[[File:Thunder_Stone.png|15px]][[Thunder Stone|Pierre Foudre]] || 2,926,638
+|-
+| 140 || 10 ||[[File:Fire_Stone.png|15px]][[Fire Stone|Pierre Feu]] || 3,484,785
+|-
+| 150 || 200 ||[[File:MediumRestore.png|15px]] [[Medium Restore|Super potion]] || 4,102,879
+|-
+| 151 || 1 || [[File:DeoxysA_Shuffle.png|15px]]Deoxys (Attaque) || 4,168,066
+|-
+| 160 || 100 || [[File:Bag_Lucky_Egg_Sprite.png|15px]][[Lucky Egg]] || 4,783,006
+|-
+| 170 || 100 || [[File:Bag_Lucky_Incense_Sprite.png|15px]][[Lucky Incense]] || 5,527,192
+|-
+| 180 || 100 || [[File:Bag_Dowsing_Machine_Sprite.png|15px]][[Dowsing Machine]] || 6,337,409
+|-
+| 190 || 10 || [[File:Mystery_Egg.png|15px]][[Mystery Egg|Oeuf Mystère]] || 7,215,576
+|-
+| 200 || 100 || [[File:LargeRestore.png|15px]] [[Large Restore|Hyper potion]] || 8,163,567
+|-
+| 210 || 40 || [[File:Water_Stone.png|15px]] [[Water Stone|Pierre Eau]] || 9,183,210
+|-
+| 220 || 40 || [[File:Leaf_Stone.png|15px]] [[Leaf Stone|Pierre Plante]] || 10,276,295
+|-
+| 230 || 40 || [[File:Thunder_Stone.png|15px]] [[Thunder Stone|Pierre Foudre]] || 11,444,573
+|-
+| 240 || 40 || [[File:Moon_Stone.png|15px]] [[Moon Stone|Pierre Lune]] || 12,689,759
+|-
+| rowspan=2|250 || 6400 || [[File:Ultraball.png|15px]] [[Ultraball|Hyper ball]] || rowspan=2|14,013,536
+|-
+| 1 ||  [[Achievements#Battle Frontier|Succès]] Combattant Compétent
+|-
+| 251 || 1 || [[File:DeoxysD_Shuffle.png|15px]]Deoxys (Défense) || 14,150,300
+|-
+| 300 || 100 || [[File:LinkingCord.png|15px]][[Linking Cord]] || 21,868,060
+|-
+| 386 || 1 || [[File:DeoxysS_Shuffle.png|15px]]Deoxys (Vitesse) || 40,628,799
+|-
+| 500 || 1 || [[Achievements#Battle Frontier|Succès]] Machine de guerre || 77,057,997
+|-
+| 666 || 1 || [[File:Vivillon_(Pokéball).png|25px]]&lt;b&gt;Prismillon (Pokéball)*&lt;/b&gt; || 157,191,954
+|-
+| 1000 || 1 || [[Achievements#Battle Frontier|Succès]] Légende vivante || 434,108,458
+|-
+|}
+
+*&lt;b&gt;&lt;big&gt;Note : &lt;/big&gt;&lt;/b&gt; [[File:Vivillon_(Pokéball).png|25px]] Prismillon (Pokéball) ne peut être récupéré que dans le cadre de la quête [[Quests|The Great Vivillon Hunt!]]
+
+Il n'y a pas de récompenses supplémentaires après avoir atteint le niveau 1000 (valable jusqu'à la version 0.8.9). Toutefois, le record du plus haut niveau atteint est lui connu. Vous trouverez plus d'informations sur le Discord.
+
+==Magasin de la Zone de Combat==
+
+{| class="wikitable sortable"
+|-
+! Price !! Item 
+|-
+|{{Battlepoints}} 1 || [[File:Ultraball.png|15px]][[Ultraball|Hyper ball]]
+|-
+|{{Battlepoints}} 500 || [[File:Masterball.png|15px]][[Masterball|Master ball]]
+|-
+|{{Battlepoints}} 10 || [[File:SmallRestore.png|15px]][[Small Restore|Potion]]
+|-
+|{{Battlepoints}} 20 || [[File:MediumRestore.png|15px]][[Medium Restore|Super Potion]]
+|-
+|{{Battlepoints}} 40 || [[File:LargeRestore.png|15px]][[Large Restore|Hyper Potion]]
+|-
+|{{Battlepoints}} 20,000 || [[File:Jamie.png|18px]][[Farm Hand|Fermier Jamie]]
+|-
+|{{Battlepoints}} 20,000 || [[File:HHNoel.png|15px]][[Hatchery Helper|Assistant de pension Noel]]
+|-
+|}</text>
+    <contributor>
+      <username>PetroleVB</username>
+      <id>36</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>20057</parentid>
+    <sha1>666113fc74f3b2299ef378e664328ae0103fa72f</sha1>
+  </revision>
+</page>

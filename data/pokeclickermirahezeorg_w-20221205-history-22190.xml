@@ -1,0 +1,39 @@
+<page>
+  <title>Template:Mbox templates (small)</title>
+  <ns>10</ns>
+  <id>966</id>
+  <revision>
+    <id>9378</id>
+    <timestamp>2019-02-15T16:20:44Z</timestamp>
+    <text bytes="828" space="preserve">&lt;includeonly&gt;{{Infobox
+| bodyclass = nowrap
+| bodystyle = width:auto;padding-bottom:0.6em;line-height:1.25em;
+| abovestyle = font-size:inherit;
+| above = Message box&lt;br/&gt;meta-templates
+| labelstyle = margin:0;padding:0 0.3em 0;text-align:center;font-weight:normal;
+| datastyle = margin:0;padding:0 0.5em 0 0;
+
+| label1 = ''template''  | data1 = ''context''
+| label2 = {{tl|Ambox}}  | data2 = article
+| label3 = {{tl|Cmbox}}  | data3 = category
+| label4 = {{tl|Imbox}}  | data4 = image
+| label5 = {{tl|Tmbox}}  | data5 = talk
+| label6 = {{tl|Fmbox}}  | data6 = footer / header
+| label7 = {{tl|Ombox}}  | data7 = other pages
+| label8 = {{tl|Mbox}}   | data8 = auto-detect
+| label9 = {{tl|Asbox}}  | data9 = article stub
+| label10 = {{tl|Dmbox}} | data10 = disambiguation
+
+}}&lt;/includeonly&gt;&lt;noinclude&gt;
+{{Documentation}}
+&lt;/noinclude&gt;</text>
+    <contributor>
+      <username>Cleanup Template&gt;Frietjes</username>
+      <id>0</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>0b3ecac37228509c27b7b87ac29255ffde9ae20b</sha1>
+  </revision>
+</page>

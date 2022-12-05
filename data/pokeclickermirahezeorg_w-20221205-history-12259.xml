@@ -1,0 +1,49 @@
+<page>
+  <title>Cell Battery</title>
+  <ns>0</ns>
+  <id>138</id>
+  <revision>
+    <id>1648</id>
+    <timestamp>2020-12-07T14:25:59Z</timestamp>
+    <text bytes="1046" space="preserve">{{Infobox Oak Item
+|name       = Cell Battery
+|image      = [[File:Bag_Cell_Battery_Sprite.png]]
+|caption    = Artwork of the ''Cell Battery''.
+|dex = 90
+|effect     = More Passive Mining Energy Regen
+}}
+
+The '''Cell Battery''' is a type of [[Oak Items|Oak Item]]. When equipped, it increases the amount [[Underground|Mining Energy]] passively gained. The Cell Battery is unlocked after catching 90 unique pokemon.
+
+== Details ==
+
+{| class="wikitable sortable"
+|-
+! Level !! Effect !! Upgrade Requirement !! Upgrade Cost
+|-
+|0 || x1.5 Energy Regen Amount || 25 Mined Items || 50,000 {{pdollar}}
+|-
+|1 || x1.6 Energy Regen Amount || 25 Mined Items || 100,000 {{pdollar}}
+|-
+|2 || x1.7 Energy Regen Amount || 75 Mined Items || 250,000 {{pdollar}}
+|-
+|3 || x1.8 Energy Regen Amount || 125 Mined Items || 500,000 {{pdollar}}
+|-
+|4 || x1.9 Energy Regen Amount || 250 Mined Items || 1,000,000 {{pdollar}}
+|-
+|5/Max || x2.0 Energy Regen Amount || N/A || N/A
+|-
+|}
+
+&lt;br&gt;{{Oak items}}&lt;br&gt;
+[[Category:Oak Items]] [[Category:Items]] [[Category:Underground]]</text>
+    <contributor>
+      <username>Adrian.Lew</username>
+      <id>29</id>
+    </contributor>
+    <comment>/* Details */ Money symbols</comment>
+    <model>wikitext</model>
+    <parentid>1647</parentid>
+    <sha1>883cd53de6c64968a5b430173b88b402e7e5948d</sha1>
+  </revision>
+</page>

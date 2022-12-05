@@ -1,0 +1,64 @@
+<page>
+  <title>Watmel</title>
+  <ns>0</ns>
+  <id>662</id>
+  <revision>
+    <id>7389</id>
+    <timestamp>2020-12-12T18:19:50Z</timestamp>
+    <text bytes="2422" space="preserve">{{Infobox Berry
+|name    = Watmel
+|image   = [[File:Watmel.png]]
+|caption = A bounty of nature that is exceedingly sweet. The Berry is huge, with some discovered that exceed 20 inches.
+|growtime  = 4h 36m 0s
+|harvest = 32 berries
+|replant = 10%
+|points = 1,000
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 spicy 
+*0 dry
+*30 sweet
+*10 bitter
+*0 sour
+}}
+'''Watmel''' is a type of [[Berries|Berry]] that can be planted in [[Farm]]. It can be obtained by surrounding a [[Magost]] with at least 130, but no more than 160 points of sweet and no more than 80 points of all other flavours. The [[Magost]] will then have a chance to mutate into this berry. 
+
+{| class="wikitable"
+|+ Harvest Stages durations
+! !! Seed !! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 0-2300s || 2300-3400s || 3400-9800s || 9800-16560s || 16560-33120s
+|-
+! Animation
+| [[File:AllTreeSeed.png|50px]] || [[File:AllTreeSprout.png|50px]] || [[File:WatmelTreeTaller.png|50px]] || [[File:WatmelTreeBloom.png|50px]] || [[File:WatmelTreeBerry.png|50px]]
+|}
+
+=== Possible Planting Formations ===
+
+You can fill your [[farm]] in following way to obtain Watmel berry.
+
+{| class="wikitable" style="text-align: center;"
+|+ Farm
+|-
+| style="width: 50px;" | [[File:Magost.png|30px]]&lt;br&gt;[[Magost]] || style="width: 50px;" | [[File:Magost.png|30px]]&lt;br&gt;[[Magost]] || style="width: 50px;" | [[File:Magost.png|30px]]&lt;br&gt;[[Magost]] || style="width: 50px;" | [[File:Magost.png|30px]]&lt;br&gt;[[Magost]] || style="width: 50px;" | [[File:Magost.png|30px]]&lt;br&gt;[[Magost]]
+|-
+| [[File:Magost.png|30px]]&lt;br&gt;[[Magost]] || [[File:Magost.png|30px]]&lt;br&gt;[[Magost]] || [[File:Magost.png|30px]]&lt;br&gt;[[Magost]] || [[File:Magost.png|30px]]&lt;br&gt;[[Magost]] || [[File:Magost.png|30px]]&lt;br&gt;[[Magost]]
+|- style="height: 26px;"
+| [[File:Magost.png|30px]]&lt;br&gt;[[Magost]] || [[File:Magost.png|30px]]&lt;br&gt;[[Magost]] || [[File:Magost.png|30px]]&lt;br&gt;[[Magost]] || [[File:Magost.png|30px]]&lt;br&gt;[[Magost]] || [[File:Magost.png|30px]]&lt;br&gt;[[Magost]]
+|-
+| [[File:Magost.png|30px]]&lt;br&gt;[[Magost]] || [[File:Magost.png|30px]]&lt;br&gt;[[Magost]] || [[File:Magost.png|30px]]&lt;br&gt;[[Magost]] || [[File:Magost.png|30px]]&lt;br&gt;[[Magost]] || [[File:Magost.png|30px]]&lt;br&gt;[[Magost]]
+|-
+| [[File:Magost.png|30px]]&lt;br&gt;[[Magost]] || [[File:Magost.png|30px]]&lt;br&gt;[[Magost]] || [[File:Magost.png|30px]]&lt;br&gt;[[Magost]] || [[File:Magost.png|30px]]&lt;br&gt;[[Magost]] || [[File:Magost.png|30px]]&lt;br&gt;[[Magost]]
+|}
+
+{{Berries}}</text>
+    <contributor>
+      <username>Claygame</username>
+      <id>22</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>7388</parentid>
+    <sha1>7ef465e79877e0a40d4a7896e4af5338427b01d5</sha1>
+  </revision>
+</page>

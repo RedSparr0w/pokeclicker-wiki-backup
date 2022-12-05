@@ -1,0 +1,64 @@
+<page>
+  <title>Maranga</title>
+  <ns>0</ns>
+  <id>584</id>
+  <revision>
+    <id>6989</id>
+    <timestamp>2020-12-24T22:42:52Z</timestamp>
+    <text bytes="1663" space="preserve">{{Infobox Berry
+|name    = #59 Maranga
+|image   = [[File:Maranga.png]]
+|caption = This Berry resembles the Durin Berry, however its spikes are less pronounced. It is quite delicious when roasted.
+|growtime  = 11h 12m 0s
+|harvest = 1 berry
+|replant = 5%
+|points = 3100
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*10 spicy 
+*10 dry
+*35 sweet
+*30 bitter
+*10 sour
+}}
+'''Maranga''' is a type of [[Berries|Berry]] that can be planted in [[Farm]]. It can be obtained by surrounding an empty plot with at least 1 [[Salac]] and at least 1 [[Petaya]].
+
+{| class="wikitable"
+|+ Growth Stages
+! !! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 1 hour 24 mins || 2 hours 48 mins || 5 hours 36 mins || 11 hours 12 mins - 22 hours 24 mins
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:MarangaTreeTaller.png|50px]] || &lt;center&gt; [[File:MarangaTreeBloom.png|50px]] || &lt;center&gt; [[File:MarangaTreeBerry.png|50px]]
+|}
+
+=== Possible Planting Formations ===
+
+You can fill your [[farm]] in following way to obtain Maranga berry.
+
+{| class="wikitable" style="text-align: center;"
+|+ Farm
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Salac.png|30px]] [[Salac]] || style="width: 40px;" | || style="width: 40px;" | || style="width: 40px;" | [[File:Salac.png|30px]] [[Salac]] || style="width: 40px;" | 
+|-
+| || [[File:Petaya.png|30px]] [[Petaya]] ||  ||  || [[File:Petaya.png|30px]] [[Petaya]] 
+|- style="height: 50px;"
+| || || || || 
+|-
+| [[File:Salac.png|30px]] [[Salac]] || || || [[File:Salac.png|30px]] [[Salac]] || 
+|-
+| || [[File:Petaya.png|30px]] [[Petaya]] ||  ||  || [[File:Petaya.png|30px]] [[Petaya]] 
+|}
+
+{{Berries}}</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>6988</parentid>
+    <sha1>7c88b02ab60dfc28a377e9437bd7e73ff176e859</sha1>
+  </revision>
+</page>

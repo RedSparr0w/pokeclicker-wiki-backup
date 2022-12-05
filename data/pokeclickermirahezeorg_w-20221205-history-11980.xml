@@ -1,0 +1,57 @@
+<page>
+  <title>Maranga</title>
+  <ns>0</ns>
+  <id>584</id>
+  <revision>
+    <id>6987</id>
+    <timestamp>2020-12-12T18:29:55Z</timestamp>
+    <text bytes="1356" space="preserve">{{Infobox Berry
+|name    = Maranga
+|image   = [[File:Maranga.png]]
+|caption = This Berry resembles the Durin Berry, however its spikes are less pronounced. It is quite delicious when roasted.
+|growtime  = 11h 12m 0s
+|harvest = 1 berry
+|replant = 5%
+|points = 3100
+|flavor = {{!}} 10 {{!}} 10 {{!}} 30 {{!}} 30 {{!}} 10
+}}
+'''Maranga''' is a type of [[Berries|Berry]] that can be planted in [[Farm]]. It can be obtained by surrounding an empty plot with at least 1 [[Salac]] and at least 1 [[Petaya]].
+
+{| class="wikitable"
+|+ Harvest Stages durations
+! Seed !! Sprout !! Taller !! Bloom !! Berry
+|-
+| 0-5040s || 5040-10080s || 10080-20160s || 20160-40320s || 40320-80640s
+|-
+| [[File:AllTreeSeed.png|50px]] || [[File:AllTreeSprout.png|50px]] || [[File:MarangaTreeTaller.png|50px]] || [[File:MarangaTreeBloom.png|50px]] || [[File:MarangaTreeBerry.png|50px]]
+|}
+
+=== Possible Planting Formations ===
+
+You can fill your [[farm]] in following way to obtain Maranga berry.
+
+{| class="wikitable" style="text-align: center;"
+|+ Farm
+|-
+| style="width: 40px;" | [[Salac]] || style="width: 40px;" | || style="width: 40px;" | || style="width: 40px;" | [[Salac]] || style="width: 40px;" | 
+|-
+| || [[Petaya]] ||  ||  || [[Petaya]] 
+|- style="height: 26px;"
+| || || || || 
+|-
+| [[Salac]] || || || [[Salac]] || 
+|-
+| || [[Petaya]] ||  ||  || [[Petaya]] 
+|}
+
+{{Berries}}</text>
+    <contributor>
+      <username>Claygame</username>
+      <id>22</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>6986</parentid>
+    <sha1>10074343ea00ebe0e4d60378a71171e2682b9f87</sha1>
+  </revision>
+</page>

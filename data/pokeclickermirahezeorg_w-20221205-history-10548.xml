@@ -1,0 +1,123 @@
+<page>
+  <title>Haban</title>
+  <ns>0</ns>
+  <id>628</id>
+  <revision>
+    <id>7211</id>
+    <timestamp>2021-02-24T20:59:54Z</timestamp>
+    <text bytes="5433" space="preserve">{{Infobox Berry
+|name    = #49 Haban
+|image   = [[File:Haban.png]]
+|caption = If a large enough volume of this Berry is boiled down, its bitterness fades away. It makes a good jam. This Berry requires a lot of energy to grow, stealing away nutrients from nearby plots.
+|growtime  = 1d 0h 0m 0s
+|harvest = 34 berries
+|replant = 0%
+|points = 4,000
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 spicy 
+*0 dry
+*10 sweet
+*20 bitter
+*0 sour
+}}
+
+'''Haban''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by surrounding an empty plot with at least 1 [[Occa]], at least 1 [[Rindo]], at least 1 [[Passho]] and at least 1 [[Wacan]].
+
+== Growth Tables ==
+=== Growth Stages ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 3 hours || 6 hours || 12 hours || 1 day - 2 days
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:HabanTreeTaller.png|50px]] || &lt;center&gt; [[File:HabanTreeBloom.png|50px]] || &lt;center&gt; [[File:HabanTreeBerry.png|50px]]
+|-
+! Aura (growth speed)
+| || &lt;center&gt; x0.8 || &lt;center&gt; x0.6 || &lt;center&gt; x0.5
+|}
+
+=== Ripening Time with Modifiers  ===
+{| class="wikitable" | style="text-align: center;"
+! Modifier !! Ripe-Wither Time !! Boost Mulch Needed to Ripen
+|-
+! None
+| 1 day -&lt;br&gt; 2 days || ---
+|-
+! Mulch or Sprayduck
+| 16 hours -&lt;br&gt; 1 day 8 hours || 192 mulch
+|-
+! Mulch &amp; Sprayduck
+| 10 hours 40 mins -&lt;br&gt; 21 hours 20 mins || 128 mulch
+|}
+
+== Flow Chart ==
+[[File:Haban_Flow_Chart2.png|750px]]
+
+== Mutation Strategy ==
+=== Possible Planting Formations ===
+
+You can fill your farm in the following way to obtain Haban berries. Purple squares indicate where mutations can occur.
+
+{| class="wikitable" style="text-align: center;"
+|+ Farm
+|-
+!colspan="5"| 10 mutation spots, Occa takeover possible
+|-
+| style="width: 40px;" | [[File:Occa.png|30px]]&lt;br&gt;[[Occa]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Passho.png|30px]] [[Passho]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Occa.png|30px]]&lt;br&gt;[[Occa]]
+|-
+| [[File:Wacan.png|30px]] [[Wacan]] || style="background-color:#9C7D98;" | || [[File:Rindo.png|30px]]&lt;br&gt;[[Rindo]] || style="background-color:#9C7D98;" | || [[File:Wacan.png|30px]] [[Wacan]]
+|- style="height: 50px;"
+| || style="background-color:#9C7D98;" | || || style="background-color:#9C7D98;" | || 
+|-
+| [[File:Passho.png|30px]] [[Passho]] || style="background-color:#9C7D98;" | || [[File:Occa.png|30px]]&lt;br&gt;[[Occa]] || style="background-color:#9C7D98;" | || [[File:Passho.png|30px]] [[Passho]] 
+|-
+| [[File:Rindo.png|30px]]&lt;br&gt;[[Rindo]] || style="background-color:#9C7D98;" | || [[File:Wacan.png|30px]] [[Wacan]] || style="background-color:#9C7D98;" | || [[File:Rindo.png|30px]]&lt;br&gt;[[Rindo]]
+|}
+
+{| class="wikitable" style="text-align: center;"
+|+ Farm
+|-
+!colspan="5"| No Occa takeover, only 8 mutation spots
+|-
+| style="width: 40px;" | || style="width: 40px;" | [[File:Rindo.png|30px]]&lt;br&gt;[[Rindo]] || style="width: 40px;" | [[File:Wacan.png|30px]] [[Wacan]] || style="width: 40px;" | [[File:Passho.png|30px]] [[Passho]] || style="width: 40px;" | 
+|-
+| [[File:Passho.png|30px]] [[Passho]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Rindo.png|30px]]&lt;br&gt;[[Rindo]]
+|- style="height: 26px;"
+| [[File:Wacan.png|30px]] [[Wacan]] || style="background-color:#9C7D98;" | || [[File:Occa.png|30px]]&lt;br&gt;[[Occa]] || style="background-color:#9C7D98;" | || [[File:Wacan.png|30px]] [[Wacan]]
+|-
+| [[File:Rindo.png|30px]]&lt;br&gt;[[Rindo]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Passho.png|30px]] [[Passho]]
+|- style="height: 26px;"
+|-
+| style="width: 40px;" | || style="width: 40px;" | [[File:Passho.png|30px]] [[Passho]] || style="width: 40px;" | [[File:Wacan.png|30px]] [[Wacan]] || style="width: 40px;" | [[File:Rindo.png|30px]]&lt;br&gt;[[Rindo]] || style="width: 40px;" | 
+|}
+
+=== Timing Table ===
+{| class="wikitable"| style="text-align: center;"
+|+ ''All planting times use the time-to-ripe remaining of the first planted berry for subsequent planting times''
+! Berry !! Planting Time with &lt;br&gt; No Modifier !! Planting Time with &lt;br&gt; Mulch or Sprayduck || Planting Time with &lt;br&gt;  Mulch &amp; Sprayduck
+|-
+| [[Rindo]] || - || - || -
+|-
+| [[Occa]] || 6 hours 6 mins until ripe || 4 hours 4 mins until ripe || 2 hours 42 mins 40 secs until ripe
+|-
+| [[Passho]] || 6 hours until ripe || 4 hours until ripe || 2 hours 40 mins until ripe
+|-
+| [[Wacan]] || 30 mins until ripe || 20 mins until ripe || 13 mins 20 secs until ripe
+|}
+
+=== Important Notes ===
+[[Wacan]] berries will speed up the growth rates of [[Rindo]], [[Passho]], and [[Occa]] berries planted adjacent to them. This timing table does not account for this deviation in growth timings. However, it is a relatively minor difference that does not significantly impact ripenings of all four berries at about the same time. Furthermore, the other three berries (Rindo, Passho, Occa) have long enough wither times to allow for this minor discrepancy to be unimportant. Finally, the most likely limiting factor in achieving the Haban mutation is the Wacan berries withering, and these can be replanted several more times prior to any other berry types withering.
+
+{{Berries}}</text>
+    <contributor>
+      <username>Lethalxred</username>
+      <id>46</id>
+    </contributor>
+    <comment>/* Possible Planting Formations */</comment>
+    <model>wikitext</model>
+    <parentid>7210</parentid>
+    <sha1>3125070a7e93370a113d5b5dc53662f7c0982c95</sha1>
+  </revision>
+</page>

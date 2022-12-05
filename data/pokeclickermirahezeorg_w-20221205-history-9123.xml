@@ -1,0 +1,69 @@
+<page>
+  <title>Dark Cave</title>
+  <ns>0</ns>
+  <id>379</id>
+  <revision>
+    <id>5334</id>
+    <timestamp>2022-03-15T21:06:31Z</timestamp>
+    <text bytes="1623" space="preserve">{{Infobox dungeon
+|name    = Dark Cave
+|image   = [[File:Dark Cave.png|300px]]
+|caption = A map of Dark Cave.
+|tokens  = 6,500
+|location = Between Route 45 and 46, south of Blackthorn City.
+}}
+'''Dark Cave''' is a [[Dungeons|dungeon]] in [[Johto]]. It initially has 36 tiles arranged in a 6x6 square, including 6 chest tiles, 15 non-boss encounter tiles, and 1 boss encounter tile.
+
+==Pokémon &amp; Dungeon Stats==
+
+{| class="wikitable"
+|-
+! Random Encounter !! Base Health !! Boss !! Base Health
+|-
+| [[File:Zubat.png|40px]] Zubat || rowspan=5| &lt;center&gt; 127,000 || rowspan=5|[[File:Dunsparce.png|40px]] Dunsparce || rowspan=5| &lt;center&gt; 460,000
+|-
+| [[File:Geodude.png|40px]] Geodude
+|-
+| [[File:Golbat.png|40px]] Golbat
+|-
+| [[File:Graveler.png|40px]] Graveler
+|-
+| [[File:Wobbuffet.png|40px]] Wobbuffet
+|}
+
+==Items==
+
+{| class="wikitable"
+|-
+! Chest Item !! 0 Clears !! 100 Clears !! 500 Clears !! Requirement
+|-
+| {{Bag4|Pokéball}} || 49.54% || 49.35% || 47.01% || No Requirement
+|-
+| {{Bag3|Item Magnet}} [[Item Magnet]] || 49.54% || 49.35% || 47.01% || No Requirement
+|-
+| {{Bag2|Dread Plate}} || 0.22% || 0.32% || 1.38% || No Requirement
+|-
+| {{Bag2|Small Restore}} || 0.06% || 0.24% || 1.15% || No Requirement
+|-
+| {{Bag2|Revive}} || 0.02% || 0.19% || 0.92% || No Requirement
+|-
+| {{Bag2|Star Piece}} || 0.02% || 0.19% || 0.92% || No Requirement
+|-
+| {{Bag2|Large Restore}} || 0.00% || 0.15% || 0.69% || Clear Dark Cave 100 Times
+|-
+| {{Bag2|Max Revive}} || 0.00% || 0.10% || 0.46% || Clear Dark Cave 100 Times
+|-
+| {{Bag2|Heart Scale}} || 0.00% || 0.10% || 0.46% || Clear Dark Cave 100 Times
+|}
+
+[[Category:Dungeons]]</text>
+    <contributor>
+      <username>SomeonealiveQN</username>
+      <id>5</id>
+    </contributor>
+    <comment>/* Items */Dark cave 11/16</comment>
+    <model>wikitext</model>
+    <parentid>5333</parentid>
+    <sha1>097c70569e41c4a296e849096439b55c2e71f8e0</sha1>
+  </revision>
+</page>

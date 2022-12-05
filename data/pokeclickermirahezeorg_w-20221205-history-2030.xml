@@ -1,0 +1,1663 @@
+<page>
+  <title>Figy/fr</title>
+  <ns>0</ns>
+  <id>8066</id>
+  <revision>
+    <id>22747</id>
+    <timestamp>2022-08-09T20:10:13Z</timestamp>
+    <text bytes="4517" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #15 Figuy
+|image   = [[File:Figy.png]]
+|caption = Cette Baie a une forme surprenante, car elle a l'air d'avoir été croquée. Elle regorge de substances épicées.
+|growtime  = 5m 50s
+|harvest = 14 baies
+|replant = 30%
+|mutation = 0.9%
+|points = 40
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*15 épicée
+*0 sèche
+*0 sucrée
+*0 amère
+*0 acide
+}}
+== Description ==
+'''Figuy''' est un type de [[Berry/fr|Baie]] qui peut être plantée dans la [[Farm/fr|Ferme]]. Elle s'obtient en entourant une parcelle vide avec au moins avec 25, mais pas plus de 80 points de saveur épicée et moins de 5 points pour toutes les autres saveurs. Les baies [[Cheri/fr|Ceriz]] doivent avoir été débloquées pour pouvoir débloquer la Figuy.
+
+== Tables de croissance ==
+=== Stades de croissance ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+!!! Pousse !! Arbuste !! Fleuri !! Mûr
+|-
+! Temps écoulé depuis plantation
+| 40 secs || 2 mins 40 secs || 3 mins 50 secs || 5 mins 50 secs - 11 mins 40 secs
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:FigyTreeTaller.png|50px]] || &lt;center&gt; [[File:FigyTreeBloom.png|50px]] || &lt;center&gt; [[File:FigyTreeBerry.png|50px]]
+|}
+
+===Temps de croissance avec modificateurs===
+{| class="wikitable collapsible" | style="text-align: center;"
+! Modificateur !! Temps Maturité-Flétrissement
+|-
+! Aucun
+| 5 mins 50 secs -&lt;br&gt; 11 mins 40 secs
+|-
+! Kwakarrosoir
+| 3 mins 53 secs -&lt;br&gt; 7 mins 47 secs
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Flow Chart ==
+[[File:Figy_Flow_Chart.png|100px]]
+&lt;br&gt;
+&lt;/div&gt;
+
+== Stratégie de mutation ==
+=== Formations de plantation possibles ===
+
+Vous pouvez remplir votre ferme de la manière suivante pour obtenir des baies Figuy. Les cases violettes indiquent où les mutations peuvent avoir lieu.
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation de base
+|- style="height: 50px;"
+| style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]]
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] || [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]]
+|}
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation de plantation optimisée
+|-
+| style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]]
+|-
+| [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] || [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] || style="background-color:#9C7D98;" | || [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] || [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] 
+|- style="height: 50px;"
+| style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] 
+|-
+| [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] || [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] ||  style="background-color:#9C7D98;" | || [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] || [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] 
+|}
+
+==Utilisations==
+===Mutations===
+
+Les baies Figuy peuvent être utilisées pour faire muter les baies suivantes.
+
+{| class="wikitable" | style="text-align: center;"
+|-
+! Utilisée pour !! Plantée avec
+|-
+| [[File:Hondew.png|20px]] [[Hondew/fr|Lonme]] || [[File:Wiki.png|20px]] [[Wiki/fr|Wiki]] &lt;br&gt; [[File:Aguav.png|20px]] [[Aguav/fr|Gowav]]
+|-
+| [[File:Grepa.png|20px]] [[Grepa/fr|Résin]] || [[File:Aguav.png|20px]] [[Aguav/fr|Gowav]]
+|-
+| [[File:Occa.png|20px]] [[Occa/fr|Chocco]] || [[File:Razz.png|20px]] [[Razz/fr|Framby]] &lt;br&gt; [[File:Tamato.png|20px]] [[Tamato/fr|Tamato]] &lt;br&gt; [[File:Spelon.png|20px]] [[Spelon/fr|Kiwan]]
+|-
+| [[File:Rindo.png|20px]] [[Rindo/fr|Ratam]] || [[File:Aguav.png|20px]] [[Aguav/fr|Gowav]]
+|-
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Acquisition==
+===Dungeons===
+{{Loot/head‎|Berries}}
+{{LootItem|Pokemon Mansion|Epic}}
+{{LootItem|Radio Tower|Epic}}
+{{LootItem|Magma Hideout|Common}}
+{{LootItem|Liberty Garden|Common}}
+|}
+|}
+&lt;/div&gt;
+
+&lt;br&gt;
+
+{{Berries}}
+
+[[Category:Farm]][[Category:Berries]]</text>
+    <contributor>
+      <username>LeChatMG</username>
+      <id>97</id>
+    </contributor>
+    <comment>Coquille de copié-collé</comment>
+    <model>wikitext</model>
+    <parentid>22746</parentid>
+    <sha1>44b8dff11f35408c4451ee71e9034319d84bf6c0</sha1>
+  </revision>
+  <revision>
+    <id>22746</id>
+    <timestamp>2022-08-09T20:05:22Z</timestamp>
+    <text bytes="4516" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #15 Figuy
+|image   = [[File:Figy.png]]
+|caption = Cette Baie a une forme surprenante, car elle a l'air d'avoir été croquée. Elle regorge de substances épicées.
+|growtime  = 5m 50s
+|harvest = 14 baies
+|replant = 30%
+|mutation = 0.9%
+|points = 40
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*15 épicée
+*0 sèche
+*0 sucrée
+*0 amère
+*0 acide
+}}
+== Description ==
+'''Kika''' est un type de [[Berry/fr|Baie]] qui peut être plantée dans la [[Farm/fr|Ferme]]. Elle s'obtient en entourant une parcelle vide avec au moins avec 25, mais pas plus de 80 points de saveur épicée et moins de 5 points pour toutes les autres saveurs. Les baies [[Cheri/fr|Ceriz]] doivent avoir été débloquées pour pouvoir débloquer la Figuy.
+
+== Tables de croissance ==
+=== Stades de croissance ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+!!! Pousse !! Arbuste !! Fleuri !! Mûr
+|-
+! Temps écoulé depuis plantation
+| 40 secs || 2 mins 40 secs || 3 mins 50 secs || 5 mins 50 secs - 11 mins 40 secs
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:FigyTreeTaller.png|50px]] || &lt;center&gt; [[File:FigyTreeBloom.png|50px]] || &lt;center&gt; [[File:FigyTreeBerry.png|50px]]
+|}
+
+===Temps de croissance avec modificateurs===
+{| class="wikitable collapsible" | style="text-align: center;"
+! Modificateur !! Temps Maturité-Flétrissement
+|-
+! Aucun
+| 5 mins 50 secs -&lt;br&gt; 11 mins 40 secs
+|-
+! Kwakarrosoir
+| 3 mins 53 secs -&lt;br&gt; 7 mins 47 secs
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Flow Chart ==
+[[File:Figy_Flow_Chart.png|100px]]
+&lt;br&gt;
+&lt;/div&gt;
+
+== Stratégie de mutation ==
+=== Formations de plantation possibles ===
+
+Vous pouvez remplir votre ferme de la manière suivante pour obtenir des baies Figuy. Les cases violettes indiquent où les mutations peuvent avoir lieu.
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation de base
+|- style="height: 50px;"
+| style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]]
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] || [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]]
+|}
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation de plantation optimisée
+|-
+| style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]]
+|-
+| [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] || [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] || style="background-color:#9C7D98;" | || [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] || [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] 
+|- style="height: 50px;"
+| style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] 
+|-
+| [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] || [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] ||  style="background-color:#9C7D98;" | || [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] || [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] 
+|}
+
+==Utilisations==
+===Mutations===
+
+Les baies Figuy peuvent être utilisées pour faire muter les baies suivantes.
+
+{| class="wikitable" | style="text-align: center;"
+|-
+! Utilisée pour !! Plantée avec
+|-
+| [[File:Hondew.png|20px]] [[Hondew/fr|Lonme]] || [[File:Wiki.png|20px]] [[Wiki/fr|Wiki]] &lt;br&gt; [[File:Aguav.png|20px]] [[Aguav/fr|Gowav]]
+|-
+| [[File:Grepa.png|20px]] [[Grepa/fr|Résin]] || [[File:Aguav.png|20px]] [[Aguav/fr|Gowav]]
+|-
+| [[File:Occa.png|20px]] [[Occa/fr|Chocco]] || [[File:Razz.png|20px]] [[Razz/fr|Framby]] &lt;br&gt; [[File:Tamato.png|20px]] [[Tamato/fr|Tamato]] &lt;br&gt; [[File:Spelon.png|20px]] [[Spelon/fr|Kiwan]]
+|-
+| [[File:Rindo.png|20px]] [[Rindo/fr|Ratam]] || [[File:Aguav.png|20px]] [[Aguav/fr|Gowav]]
+|-
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Acquisition==
+===Dungeons===
+{{Loot/head‎|Berries}}
+{{LootItem|Pokemon Mansion|Epic}}
+{{LootItem|Radio Tower|Epic}}
+{{LootItem|Magma Hideout|Common}}
+{{LootItem|Liberty Garden|Common}}
+|}
+|}
+&lt;/div&gt;
+
+&lt;br&gt;
+
+{{Berries}}
+
+[[Category:Farm]][[Category:Berries]]</text>
+    <contributor>
+      <username>LeChatMG</username>
+      <id>97</id>
+    </contributor>
+    <comment>Created page with "{| class="wikitable" | style="text-align: center;" |- ! Utilisée pour !! Plantée avec |- | [[File:Hondew.png|20px]] [[Hondew/fr|Lonme]] || [[File:Wiki.png|20px]] [[Wiki/fr|Wiki]] &lt;br&gt; [[File:Aguav.png|20px]] [[Aguav/fr|Gowav]] |- | [[File:Grepa.png|20px]] [[Grepa/fr|Résin]] || [[File:Aguav.png|20px]] [[Aguav/fr|Gowav]] |- | [[File:Occa.png|20px]] [[Occa/fr|Chocco]] || [[File:Razz.png|20px]] [[Razz/fr|Framby]] &lt;br&gt; [[File:Tamato.png|20px]] [[Tamato/fr|Tamato]] &lt;br&gt; F..."</comment>
+    <model>wikitext</model>
+    <parentid>22745</parentid>
+    <sha1>fd9da16429f8855b0dc2e9215d47afa4d3e59ec4</sha1>
+  </revision>
+  <revision>
+    <id>22745</id>
+    <timestamp>2022-08-09T20:03:10Z</timestamp>
+    <text bytes="4622" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #15 Figuy
+|image   = [[File:Figy.png]]
+|caption = Cette Baie a une forme surprenante, car elle a l'air d'avoir été croquée. Elle regorge de substances épicées.
+|growtime  = 5m 50s
+|harvest = 14 baies
+|replant = 30%
+|mutation = 0.9%
+|points = 40
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*15 épicée
+*0 sèche
+*0 sucrée
+*0 amère
+*0 acide
+}}
+== Description ==
+'''Kika''' est un type de [[Berry/fr|Baie]] qui peut être plantée dans la [[Farm/fr|Ferme]]. Elle s'obtient en entourant une parcelle vide avec au moins avec 25, mais pas plus de 80 points de saveur épicée et moins de 5 points pour toutes les autres saveurs. Les baies [[Cheri/fr|Ceriz]] doivent avoir été débloquées pour pouvoir débloquer la Figuy.
+
+== Tables de croissance ==
+=== Stades de croissance ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+!!! Pousse !! Arbuste !! Fleuri !! Mûr
+|-
+! Temps écoulé depuis plantation
+| 40 secs || 2 mins 40 secs || 3 mins 50 secs || 5 mins 50 secs - 11 mins 40 secs
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:FigyTreeTaller.png|50px]] || &lt;center&gt; [[File:FigyTreeBloom.png|50px]] || &lt;center&gt; [[File:FigyTreeBerry.png|50px]]
+|}
+
+===Temps de croissance avec modificateurs===
+{| class="wikitable collapsible" | style="text-align: center;"
+! Modificateur !! Temps Maturité-Flétrissement
+|-
+! Aucun
+| 5 mins 50 secs -&lt;br&gt; 11 mins 40 secs
+|-
+! Kwakarrosoir
+| 3 mins 53 secs -&lt;br&gt; 7 mins 47 secs
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Flow Chart ==
+[[File:Figy_Flow_Chart.png|100px]]
+&lt;br&gt;
+&lt;/div&gt;
+
+== Stratégie de mutation ==
+=== Formations de plantation possibles ===
+
+Vous pouvez remplir votre ferme de la manière suivante pour obtenir des baies Figuy. Les cases violettes indiquent où les mutations peuvent avoir lieu.
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation de base
+|- style="height: 50px;"
+| style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]]
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] || [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]]
+|}
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation de plantation optimisée
+|-
+| style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]]
+|-
+| [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] || [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] || style="background-color:#9C7D98;" | || [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] || [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] 
+|- style="height: 50px;"
+| style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] 
+|-
+| [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] || [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] ||  style="background-color:#9C7D98;" | || [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] || [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] 
+|}
+
+==Utilisations==
+===Mutations===
+
+Les baies Figuy peuvent être utilisées pour faire muter les baies suivantes.
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Hondew.png|20px]] [[Hondew]] || [[File:Wiki.png|20px]] [[Wiki]] &lt;br&gt; [[File:Aguav.png|20px]] [[Aguav]]
+|-
+| [[File:Grepa.png|20px]] [[Grepa]] || [[File:Aguav.png|20px]] [[Aguav]]
+|-
+| [[File:Occa.png|20px]] [[Occa]] || [[File:Razz.png|20px]] [[Razz]] &lt;br&gt; [[File:Tamato.png|20px]] [[Tamato]] &lt;br&gt; [[File:Spelon.png|20px]] [[Spelon]]
+|-
+| [[File:Rindo.png|20px]] [[Rindo]] || [[File:Aguav.png|20px]] [[Aguav]]
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Acquisition==
+===Dungeons===
+{{Loot/head‎|Berries}}
+{{LootItem|Pokemon Mansion|Epic}}
+{{LootItem|Radio Tower|Epic}}
+{{LootItem|Magma Hideout|Common}}
+{{LootItem|Liberty Garden|Common}}
+|}
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>LeChatMG</username>
+      <id>97</id>
+    </contributor>
+    <comment>Created page with "Les baies Figuy peuvent être utilisées pour faire muter les baies suivantes."</comment>
+    <model>wikitext</model>
+    <parentid>22744</parentid>
+    <sha1>82042840744fee6a88c70d9834fb101c9e2b14dd</sha1>
+  </revision>
+  <revision>
+    <id>22744</id>
+    <timestamp>2022-08-09T20:02:58Z</timestamp>
+    <text bytes="4657" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #15 Figuy
+|image   = [[File:Figy.png]]
+|caption = Cette Baie a une forme surprenante, car elle a l'air d'avoir été croquée. Elle regorge de substances épicées.
+|growtime  = 5m 50s
+|harvest = 14 baies
+|replant = 30%
+|mutation = 0.9%
+|points = 40
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*15 épicée
+*0 sèche
+*0 sucrée
+*0 amère
+*0 acide
+}}
+== Description ==
+'''Kika''' est un type de [[Berry/fr|Baie]] qui peut être plantée dans la [[Farm/fr|Ferme]]. Elle s'obtient en entourant une parcelle vide avec au moins avec 25, mais pas plus de 80 points de saveur épicée et moins de 5 points pour toutes les autres saveurs. Les baies [[Cheri/fr|Ceriz]] doivent avoir été débloquées pour pouvoir débloquer la Figuy.
+
+== Tables de croissance ==
+=== Stades de croissance ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+!!! Pousse !! Arbuste !! Fleuri !! Mûr
+|-
+! Temps écoulé depuis plantation
+| 40 secs || 2 mins 40 secs || 3 mins 50 secs || 5 mins 50 secs - 11 mins 40 secs
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:FigyTreeTaller.png|50px]] || &lt;center&gt; [[File:FigyTreeBloom.png|50px]] || &lt;center&gt; [[File:FigyTreeBerry.png|50px]]
+|}
+
+===Temps de croissance avec modificateurs===
+{| class="wikitable collapsible" | style="text-align: center;"
+! Modificateur !! Temps Maturité-Flétrissement
+|-
+! Aucun
+| 5 mins 50 secs -&lt;br&gt; 11 mins 40 secs
+|-
+! Kwakarrosoir
+| 3 mins 53 secs -&lt;br&gt; 7 mins 47 secs
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Flow Chart ==
+[[File:Figy_Flow_Chart.png|100px]]
+&lt;br&gt;
+&lt;/div&gt;
+
+== Stratégie de mutation ==
+=== Formations de plantation possibles ===
+
+Vous pouvez remplir votre ferme de la manière suivante pour obtenir des baies Figuy. Les cases violettes indiquent où les mutations peuvent avoir lieu.
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation de base
+|- style="height: 50px;"
+| style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]]
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] || [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]]
+|}
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation de plantation optimisée
+|-
+| style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]]
+|-
+| [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] || [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] || style="background-color:#9C7D98;" | || [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] || [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] 
+|- style="height: 50px;"
+| style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] 
+|-
+| [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] || [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] ||  style="background-color:#9C7D98;" | || [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] || [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] 
+|}
+
+==Utilisations==
+===Mutations===
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Figy berries can be used to mutate the following berries.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Hondew.png|20px]] [[Hondew]] || [[File:Wiki.png|20px]] [[Wiki]] &lt;br&gt; [[File:Aguav.png|20px]] [[Aguav]]
+|-
+| [[File:Grepa.png|20px]] [[Grepa]] || [[File:Aguav.png|20px]] [[Aguav]]
+|-
+| [[File:Occa.png|20px]] [[Occa]] || [[File:Razz.png|20px]] [[Razz]] &lt;br&gt; [[File:Tamato.png|20px]] [[Tamato]] &lt;br&gt; [[File:Spelon.png|20px]] [[Spelon]]
+|-
+| [[File:Rindo.png|20px]] [[Rindo]] || [[File:Aguav.png|20px]] [[Aguav]]
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Acquisition==
+===Dungeons===
+{{Loot/head‎|Berries}}
+{{LootItem|Pokemon Mansion|Epic}}
+{{LootItem|Radio Tower|Epic}}
+{{LootItem|Magma Hideout|Common}}
+{{LootItem|Liberty Garden|Common}}
+|}
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>LeChatMG</username>
+      <id>97</id>
+    </contributor>
+    <comment>Created page with "==Utilisations== ===Mutations==="</comment>
+    <model>wikitext</model>
+    <parentid>22743</parentid>
+    <sha1>43fd807c3a0f275f8f93e5e20da4908b1f38b6ba</sha1>
+  </revision>
+  <revision>
+    <id>22743</id>
+    <timestamp>2022-08-09T20:02:48Z</timestamp>
+    <text bytes="4705" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #15 Figuy
+|image   = [[File:Figy.png]]
+|caption = Cette Baie a une forme surprenante, car elle a l'air d'avoir été croquée. Elle regorge de substances épicées.
+|growtime  = 5m 50s
+|harvest = 14 baies
+|replant = 30%
+|mutation = 0.9%
+|points = 40
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*15 épicée
+*0 sèche
+*0 sucrée
+*0 amère
+*0 acide
+}}
+== Description ==
+'''Kika''' est un type de [[Berry/fr|Baie]] qui peut être plantée dans la [[Farm/fr|Ferme]]. Elle s'obtient en entourant une parcelle vide avec au moins avec 25, mais pas plus de 80 points de saveur épicée et moins de 5 points pour toutes les autres saveurs. Les baies [[Cheri/fr|Ceriz]] doivent avoir été débloquées pour pouvoir débloquer la Figuy.
+
+== Tables de croissance ==
+=== Stades de croissance ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+!!! Pousse !! Arbuste !! Fleuri !! Mûr
+|-
+! Temps écoulé depuis plantation
+| 40 secs || 2 mins 40 secs || 3 mins 50 secs || 5 mins 50 secs - 11 mins 40 secs
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:FigyTreeTaller.png|50px]] || &lt;center&gt; [[File:FigyTreeBloom.png|50px]] || &lt;center&gt; [[File:FigyTreeBerry.png|50px]]
+|}
+
+===Temps de croissance avec modificateurs===
+{| class="wikitable collapsible" | style="text-align: center;"
+! Modificateur !! Temps Maturité-Flétrissement
+|-
+! Aucun
+| 5 mins 50 secs -&lt;br&gt; 11 mins 40 secs
+|-
+! Kwakarrosoir
+| 3 mins 53 secs -&lt;br&gt; 7 mins 47 secs
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Flow Chart ==
+[[File:Figy_Flow_Chart.png|100px]]
+&lt;br&gt;
+&lt;/div&gt;
+
+== Stratégie de mutation ==
+=== Formations de plantation possibles ===
+
+Vous pouvez remplir votre ferme de la manière suivante pour obtenir des baies Figuy. Les cases violettes indiquent où les mutations peuvent avoir lieu.
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation de base
+|- style="height: 50px;"
+| style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]]
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] || [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]]
+|}
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation de plantation optimisée
+|-
+| style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]]
+|-
+| [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] || [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] || style="background-color:#9C7D98;" | || [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] || [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] 
+|- style="height: 50px;"
+| style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] 
+|-
+| [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] || [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] ||  style="background-color:#9C7D98;" | || [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] || [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] 
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Uses==
+===Mutations===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Figy berries can be used to mutate the following berries.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Hondew.png|20px]] [[Hondew]] || [[File:Wiki.png|20px]] [[Wiki]] &lt;br&gt; [[File:Aguav.png|20px]] [[Aguav]]
+|-
+| [[File:Grepa.png|20px]] [[Grepa]] || [[File:Aguav.png|20px]] [[Aguav]]
+|-
+| [[File:Occa.png|20px]] [[Occa]] || [[File:Razz.png|20px]] [[Razz]] &lt;br&gt; [[File:Tamato.png|20px]] [[Tamato]] &lt;br&gt; [[File:Spelon.png|20px]] [[Spelon]]
+|-
+| [[File:Rindo.png|20px]] [[Rindo]] || [[File:Aguav.png|20px]] [[Aguav]]
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Acquisition==
+===Dungeons===
+{{Loot/head‎|Berries}}
+{{LootItem|Pokemon Mansion|Epic}}
+{{LootItem|Radio Tower|Epic}}
+{{LootItem|Magma Hideout|Common}}
+{{LootItem|Liberty Garden|Common}}
+|}
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>LeChatMG</username>
+      <id>97</id>
+    </contributor>
+    <comment>Created page with "{| class="wikitable" style="text-align: center;" |+ Formation de plantation optimisée |- | style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] |- | [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] || [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]..."</comment>
+    <model>wikitext</model>
+    <parentid>22742</parentid>
+    <sha1>f664210569e4f49dbc5a9476d42f7470931bda3c</sha1>
+  </revision>
+  <revision>
+    <id>22742</id>
+    <timestamp>2022-08-09T20:02:07Z</timestamp>
+    <text bytes="4647" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #15 Figuy
+|image   = [[File:Figy.png]]
+|caption = Cette Baie a une forme surprenante, car elle a l'air d'avoir été croquée. Elle regorge de substances épicées.
+|growtime  = 5m 50s
+|harvest = 14 baies
+|replant = 30%
+|mutation = 0.9%
+|points = 40
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*15 épicée
+*0 sèche
+*0 sucrée
+*0 amère
+*0 acide
+}}
+== Description ==
+'''Kika''' est un type de [[Berry/fr|Baie]] qui peut être plantée dans la [[Farm/fr|Ferme]]. Elle s'obtient en entourant une parcelle vide avec au moins avec 25, mais pas plus de 80 points de saveur épicée et moins de 5 points pour toutes les autres saveurs. Les baies [[Cheri/fr|Ceriz]] doivent avoir été débloquées pour pouvoir débloquer la Figuy.
+
+== Tables de croissance ==
+=== Stades de croissance ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+!!! Pousse !! Arbuste !! Fleuri !! Mûr
+|-
+! Temps écoulé depuis plantation
+| 40 secs || 2 mins 40 secs || 3 mins 50 secs || 5 mins 50 secs - 11 mins 40 secs
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:FigyTreeTaller.png|50px]] || &lt;center&gt; [[File:FigyTreeBloom.png|50px]] || &lt;center&gt; [[File:FigyTreeBerry.png|50px]]
+|}
+
+===Temps de croissance avec modificateurs===
+{| class="wikitable collapsible" | style="text-align: center;"
+! Modificateur !! Temps Maturité-Flétrissement
+|-
+! Aucun
+| 5 mins 50 secs -&lt;br&gt; 11 mins 40 secs
+|-
+! Kwakarrosoir
+| 3 mins 53 secs -&lt;br&gt; 7 mins 47 secs
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Flow Chart ==
+[[File:Figy_Flow_Chart.png|100px]]
+&lt;br&gt;
+&lt;/div&gt;
+
+== Stratégie de mutation ==
+=== Formations de plantation possibles ===
+
+Vous pouvez remplir votre ferme de la manière suivante pour obtenir des baies Figuy. Les cases violettes indiquent où les mutations peuvent avoir lieu.
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation de base
+|- style="height: 50px;"
+| style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]]
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] || [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]]
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Optimized Planting Formation
+|-
+| style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri]]
+|-
+| [[File:Cheri.png|30px]] [[Cheri]] || [[File:Cheri.png|30px]] [[Cheri]] || style="background-color:#9C7D98;" | || [[File:Cheri.png|30px]] [[Cheri]] || [[File:Cheri.png|30px]] [[Cheri]] 
+|- style="height: 50px;"
+| style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Cheri.png|30px]] [[Cheri]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Cheri.png|30px]] [[Cheri]] 
+|-
+| [[File:Cheri.png|30px]] [[Cheri]] || [[File:Cheri.png|30px]] [[Cheri]] ||  style="background-color:#9C7D98;" | || [[File:Cheri.png|30px]] [[Cheri]] || [[File:Cheri.png|30px]] [[Cheri]] 
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Uses==
+===Mutations===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Figy berries can be used to mutate the following berries.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Hondew.png|20px]] [[Hondew]] || [[File:Wiki.png|20px]] [[Wiki]] &lt;br&gt; [[File:Aguav.png|20px]] [[Aguav]]
+|-
+| [[File:Grepa.png|20px]] [[Grepa]] || [[File:Aguav.png|20px]] [[Aguav]]
+|-
+| [[File:Occa.png|20px]] [[Occa]] || [[File:Razz.png|20px]] [[Razz]] &lt;br&gt; [[File:Tamato.png|20px]] [[Tamato]] &lt;br&gt; [[File:Spelon.png|20px]] [[Spelon]]
+|-
+| [[File:Rindo.png|20px]] [[Rindo]] || [[File:Aguav.png|20px]] [[Aguav]]
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Acquisition==
+===Dungeons===
+{{Loot/head‎|Berries}}
+{{LootItem|Pokemon Mansion|Epic}}
+{{LootItem|Radio Tower|Epic}}
+{{LootItem|Magma Hideout|Common}}
+{{LootItem|Liberty Garden|Common}}
+|}
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>LeChatMG</username>
+      <id>97</id>
+    </contributor>
+    <comment>Created page with "{| class="wikitable" style="text-align: center;" |+ Formation de base |- style="height: 50px;" | style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] |- style="height: 50px;" | style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] || [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] |}"</comment>
+    <model>wikitext</model>
+    <parentid>22741</parentid>
+    <sha1>686b3d3808503ca8c2a1b9f19ad8ed5f1fc7b054</sha1>
+  </revision>
+  <revision>
+    <id>22741</id>
+    <timestamp>2022-08-09T20:01:15Z</timestamp>
+    <text bytes="4673" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #15 Figuy
+|image   = [[File:Figy.png]]
+|caption = Cette Baie a une forme surprenante, car elle a l'air d'avoir été croquée. Elle regorge de substances épicées.
+|growtime  = 5m 50s
+|harvest = 14 baies
+|replant = 30%
+|mutation = 0.9%
+|points = 40
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*15 épicée
+*0 sèche
+*0 sucrée
+*0 amère
+*0 acide
+}}
+== Description ==
+'''Kika''' est un type de [[Berry/fr|Baie]] qui peut être plantée dans la [[Farm/fr|Ferme]]. Elle s'obtient en entourant une parcelle vide avec au moins avec 25, mais pas plus de 80 points de saveur épicée et moins de 5 points pour toutes les autres saveurs. Les baies [[Cheri/fr|Ceriz]] doivent avoir été débloquées pour pouvoir débloquer la Figuy.
+
+== Tables de croissance ==
+=== Stades de croissance ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+!!! Pousse !! Arbuste !! Fleuri !! Mûr
+|-
+! Temps écoulé depuis plantation
+| 40 secs || 2 mins 40 secs || 3 mins 50 secs || 5 mins 50 secs - 11 mins 40 secs
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:FigyTreeTaller.png|50px]] || &lt;center&gt; [[File:FigyTreeBloom.png|50px]] || &lt;center&gt; [[File:FigyTreeBerry.png|50px]]
+|}
+
+===Temps de croissance avec modificateurs===
+{| class="wikitable collapsible" | style="text-align: center;"
+! Modificateur !! Temps Maturité-Flétrissement
+|-
+! Aucun
+| 5 mins 50 secs -&lt;br&gt; 11 mins 40 secs
+|-
+! Kwakarrosoir
+| 3 mins 53 secs -&lt;br&gt; 7 mins 47 secs
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Flow Chart ==
+[[File:Figy_Flow_Chart.png|100px]]
+&lt;br&gt;
+&lt;/div&gt;
+
+== Stratégie de mutation ==
+=== Formations de plantation possibles ===
+
+Vous pouvez remplir votre ferme de la manière suivante pour obtenir des baies Figuy. Les cases violettes indiquent où les mutations peuvent avoir lieu.
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Base Formation
+|- style="height: 50px;"
+| style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri]]
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri]] || [[File:Cheri.png|30px]] [[Cheri]]
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Optimized Planting Formation
+|-
+| style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri]]
+|-
+| [[File:Cheri.png|30px]] [[Cheri]] || [[File:Cheri.png|30px]] [[Cheri]] || style="background-color:#9C7D98;" | || [[File:Cheri.png|30px]] [[Cheri]] || [[File:Cheri.png|30px]] [[Cheri]] 
+|- style="height: 50px;"
+| style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Cheri.png|30px]] [[Cheri]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Cheri.png|30px]] [[Cheri]] 
+|-
+| [[File:Cheri.png|30px]] [[Cheri]] || [[File:Cheri.png|30px]] [[Cheri]] ||  style="background-color:#9C7D98;" | || [[File:Cheri.png|30px]] [[Cheri]] || [[File:Cheri.png|30px]] [[Cheri]] 
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Uses==
+===Mutations===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Figy berries can be used to mutate the following berries.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Hondew.png|20px]] [[Hondew]] || [[File:Wiki.png|20px]] [[Wiki]] &lt;br&gt; [[File:Aguav.png|20px]] [[Aguav]]
+|-
+| [[File:Grepa.png|20px]] [[Grepa]] || [[File:Aguav.png|20px]] [[Aguav]]
+|-
+| [[File:Occa.png|20px]] [[Occa]] || [[File:Razz.png|20px]] [[Razz]] &lt;br&gt; [[File:Tamato.png|20px]] [[Tamato]] &lt;br&gt; [[File:Spelon.png|20px]] [[Spelon]]
+|-
+| [[File:Rindo.png|20px]] [[Rindo]] || [[File:Aguav.png|20px]] [[Aguav]]
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Acquisition==
+===Dungeons===
+{{Loot/head‎|Berries}}
+{{LootItem|Pokemon Mansion|Epic}}
+{{LootItem|Radio Tower|Epic}}
+{{LootItem|Magma Hideout|Common}}
+{{LootItem|Liberty Garden|Common}}
+|}
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>LeChatMG</username>
+      <id>97</id>
+    </contributor>
+    <comment>Created page with "Vous pouvez remplir votre ferme de la manière suivante pour obtenir des baies Figuy. Les cases violettes indiquent où les mutations peuvent avoir lieu."</comment>
+    <model>wikitext</model>
+    <parentid>22740</parentid>
+    <sha1>b17457bd28b8349cfe458c9b975caa54b0ceb1c1</sha1>
+  </revision>
+  <revision>
+    <id>22740</id>
+    <timestamp>2022-08-09T20:01:01Z</timestamp>
+    <text bytes="4694" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #15 Figuy
+|image   = [[File:Figy.png]]
+|caption = Cette Baie a une forme surprenante, car elle a l'air d'avoir été croquée. Elle regorge de substances épicées.
+|growtime  = 5m 50s
+|harvest = 14 baies
+|replant = 30%
+|mutation = 0.9%
+|points = 40
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*15 épicée
+*0 sèche
+*0 sucrée
+*0 amère
+*0 acide
+}}
+== Description ==
+'''Kika''' est un type de [[Berry/fr|Baie]] qui peut être plantée dans la [[Farm/fr|Ferme]]. Elle s'obtient en entourant une parcelle vide avec au moins avec 25, mais pas plus de 80 points de saveur épicée et moins de 5 points pour toutes les autres saveurs. Les baies [[Cheri/fr|Ceriz]] doivent avoir été débloquées pour pouvoir débloquer la Figuy.
+
+== Tables de croissance ==
+=== Stades de croissance ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+!!! Pousse !! Arbuste !! Fleuri !! Mûr
+|-
+! Temps écoulé depuis plantation
+| 40 secs || 2 mins 40 secs || 3 mins 50 secs || 5 mins 50 secs - 11 mins 40 secs
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:FigyTreeTaller.png|50px]] || &lt;center&gt; [[File:FigyTreeBloom.png|50px]] || &lt;center&gt; [[File:FigyTreeBerry.png|50px]]
+|}
+
+===Temps de croissance avec modificateurs===
+{| class="wikitable collapsible" | style="text-align: center;"
+! Modificateur !! Temps Maturité-Flétrissement
+|-
+! Aucun
+| 5 mins 50 secs -&lt;br&gt; 11 mins 40 secs
+|-
+! Kwakarrosoir
+| 3 mins 53 secs -&lt;br&gt; 7 mins 47 secs
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Flow Chart ==
+[[File:Figy_Flow_Chart.png|100px]]
+&lt;br&gt;
+&lt;/div&gt;
+
+== Stratégie de mutation ==
+=== Formations de plantation possibles ===
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+You can fill your farm in the following way to obtain Figy berries. Purple squares indicate where mutations can occur.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Base Formation
+|- style="height: 50px;"
+| style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri]]
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri]] || [[File:Cheri.png|30px]] [[Cheri]]
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Optimized Planting Formation
+|-
+| style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri]]
+|-
+| [[File:Cheri.png|30px]] [[Cheri]] || [[File:Cheri.png|30px]] [[Cheri]] || style="background-color:#9C7D98;" | || [[File:Cheri.png|30px]] [[Cheri]] || [[File:Cheri.png|30px]] [[Cheri]] 
+|- style="height: 50px;"
+| style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Cheri.png|30px]] [[Cheri]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Cheri.png|30px]] [[Cheri]] 
+|-
+| [[File:Cheri.png|30px]] [[Cheri]] || [[File:Cheri.png|30px]] [[Cheri]] ||  style="background-color:#9C7D98;" | || [[File:Cheri.png|30px]] [[Cheri]] || [[File:Cheri.png|30px]] [[Cheri]] 
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Uses==
+===Mutations===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Figy berries can be used to mutate the following berries.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Hondew.png|20px]] [[Hondew]] || [[File:Wiki.png|20px]] [[Wiki]] &lt;br&gt; [[File:Aguav.png|20px]] [[Aguav]]
+|-
+| [[File:Grepa.png|20px]] [[Grepa]] || [[File:Aguav.png|20px]] [[Aguav]]
+|-
+| [[File:Occa.png|20px]] [[Occa]] || [[File:Razz.png|20px]] [[Razz]] &lt;br&gt; [[File:Tamato.png|20px]] [[Tamato]] &lt;br&gt; [[File:Spelon.png|20px]] [[Spelon]]
+|-
+| [[File:Rindo.png|20px]] [[Rindo]] || [[File:Aguav.png|20px]] [[Aguav]]
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Acquisition==
+===Dungeons===
+{{Loot/head‎|Berries}}
+{{LootItem|Pokemon Mansion|Epic}}
+{{LootItem|Radio Tower|Epic}}
+{{LootItem|Magma Hideout|Common}}
+{{LootItem|Liberty Garden|Common}}
+|}
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>LeChatMG</username>
+      <id>97</id>
+    </contributor>
+    <comment>Created page with "== Stratégie de mutation == === Formations de plantation possibles ==="</comment>
+    <model>wikitext</model>
+    <parentid>22739</parentid>
+    <sha1>8627f66f6554fb24dbc243a91bcb7a991ddf23d5</sha1>
+  </revision>
+  <revision>
+    <id>22739</id>
+    <timestamp>2022-08-09T20:00:47Z</timestamp>
+    <text bytes="4739" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #15 Figuy
+|image   = [[File:Figy.png]]
+|caption = Cette Baie a une forme surprenante, car elle a l'air d'avoir été croquée. Elle regorge de substances épicées.
+|growtime  = 5m 50s
+|harvest = 14 baies
+|replant = 30%
+|mutation = 0.9%
+|points = 40
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*15 épicée
+*0 sèche
+*0 sucrée
+*0 amère
+*0 acide
+}}
+== Description ==
+'''Kika''' est un type de [[Berry/fr|Baie]] qui peut être plantée dans la [[Farm/fr|Ferme]]. Elle s'obtient en entourant une parcelle vide avec au moins avec 25, mais pas plus de 80 points de saveur épicée et moins de 5 points pour toutes les autres saveurs. Les baies [[Cheri/fr|Ceriz]] doivent avoir été débloquées pour pouvoir débloquer la Figuy.
+
+== Tables de croissance ==
+=== Stades de croissance ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+!!! Pousse !! Arbuste !! Fleuri !! Mûr
+|-
+! Temps écoulé depuis plantation
+| 40 secs || 2 mins 40 secs || 3 mins 50 secs || 5 mins 50 secs - 11 mins 40 secs
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:FigyTreeTaller.png|50px]] || &lt;center&gt; [[File:FigyTreeBloom.png|50px]] || &lt;center&gt; [[File:FigyTreeBerry.png|50px]]
+|}
+
+===Temps de croissance avec modificateurs===
+{| class="wikitable collapsible" | style="text-align: center;"
+! Modificateur !! Temps Maturité-Flétrissement
+|-
+! Aucun
+| 5 mins 50 secs -&lt;br&gt; 11 mins 40 secs
+|-
+! Kwakarrosoir
+| 3 mins 53 secs -&lt;br&gt; 7 mins 47 secs
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Flow Chart ==
+[[File:Figy_Flow_Chart.png|100px]]
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Mutation Strategy ==
+=== Possible Planting Formations ===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+You can fill your farm in the following way to obtain Figy berries. Purple squares indicate where mutations can occur.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Base Formation
+|- style="height: 50px;"
+| style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri]]
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri]] || [[File:Cheri.png|30px]] [[Cheri]]
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Optimized Planting Formation
+|-
+| style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri]]
+|-
+| [[File:Cheri.png|30px]] [[Cheri]] || [[File:Cheri.png|30px]] [[Cheri]] || style="background-color:#9C7D98;" | || [[File:Cheri.png|30px]] [[Cheri]] || [[File:Cheri.png|30px]] [[Cheri]] 
+|- style="height: 50px;"
+| style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Cheri.png|30px]] [[Cheri]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Cheri.png|30px]] [[Cheri]] 
+|-
+| [[File:Cheri.png|30px]] [[Cheri]] || [[File:Cheri.png|30px]] [[Cheri]] ||  style="background-color:#9C7D98;" | || [[File:Cheri.png|30px]] [[Cheri]] || [[File:Cheri.png|30px]] [[Cheri]] 
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Uses==
+===Mutations===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Figy berries can be used to mutate the following berries.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Hondew.png|20px]] [[Hondew]] || [[File:Wiki.png|20px]] [[Wiki]] &lt;br&gt; [[File:Aguav.png|20px]] [[Aguav]]
+|-
+| [[File:Grepa.png|20px]] [[Grepa]] || [[File:Aguav.png|20px]] [[Aguav]]
+|-
+| [[File:Occa.png|20px]] [[Occa]] || [[File:Razz.png|20px]] [[Razz]] &lt;br&gt; [[File:Tamato.png|20px]] [[Tamato]] &lt;br&gt; [[File:Spelon.png|20px]] [[Spelon]]
+|-
+| [[File:Rindo.png|20px]] [[Rindo]] || [[File:Aguav.png|20px]] [[Aguav]]
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Acquisition==
+===Dungeons===
+{{Loot/head‎|Berries}}
+{{LootItem|Pokemon Mansion|Epic}}
+{{LootItem|Radio Tower|Epic}}
+{{LootItem|Magma Hideout|Common}}
+{{LootItem|Liberty Garden|Common}}
+|}
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>LeChatMG</username>
+      <id>97</id>
+    </contributor>
+    <comment>Created page with "===Temps de croissance avec modificateurs=== {| class="wikitable collapsible" | style="text-align: center;" ! Modificateur !! Temps Maturité-Flétrissement |- ! Aucun | 5 mins 50 secs -&lt;br&gt; 11 mins 40 secs |- ! Kwakarrosoir | 3 mins 53 secs -&lt;br&gt; 7 mins 47 secs |}"</comment>
+    <model>wikitext</model>
+    <parentid>22738</parentid>
+    <sha1>b26d6914b291d3cbb520a032451a2536e3f8c55a</sha1>
+  </revision>
+  <revision>
+    <id>22738</id>
+    <timestamp>2022-08-09T20:00:34Z</timestamp>
+    <text bytes="4753" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #15 Figuy
+|image   = [[File:Figy.png]]
+|caption = Cette Baie a une forme surprenante, car elle a l'air d'avoir été croquée. Elle regorge de substances épicées.
+|growtime  = 5m 50s
+|harvest = 14 baies
+|replant = 30%
+|mutation = 0.9%
+|points = 40
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*15 épicée
+*0 sèche
+*0 sucrée
+*0 amère
+*0 acide
+}}
+== Description ==
+'''Kika''' est un type de [[Berry/fr|Baie]] qui peut être plantée dans la [[Farm/fr|Ferme]]. Elle s'obtient en entourant une parcelle vide avec au moins avec 25, mais pas plus de 80 points de saveur épicée et moins de 5 points pour toutes les autres saveurs. Les baies [[Cheri/fr|Ceriz]] doivent avoir été débloquées pour pouvoir débloquer la Figuy.
+
+== Tables de croissance ==
+=== Stades de croissance ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+!!! Pousse !! Arbuste !! Fleuri !! Mûr
+|-
+! Temps écoulé depuis plantation
+| 40 secs || 2 mins 40 secs || 3 mins 50 secs || 5 mins 50 secs - 11 mins 40 secs
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:FigyTreeTaller.png|50px]] || &lt;center&gt; [[File:FigyTreeBloom.png|50px]] || &lt;center&gt; [[File:FigyTreeBerry.png|50px]]
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+=== Ripening Time with Modifiers ===
+{| class="wikitable" | style="text-align: center;"
+! Modifier !! Ripe-Wither Time
+|-
+! None
+| 5 mins 50 secs -&lt;br&gt; 11 mins 40 secs
+|-
+! Sprayduck
+| 3 mins 53 secs -&lt;br&gt; 7 mins 47 secs
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Flow Chart ==
+[[File:Figy_Flow_Chart.png|100px]]
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Mutation Strategy ==
+=== Possible Planting Formations ===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+You can fill your farm in the following way to obtain Figy berries. Purple squares indicate where mutations can occur.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Base Formation
+|- style="height: 50px;"
+| style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri]]
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri]] || [[File:Cheri.png|30px]] [[Cheri]]
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Optimized Planting Formation
+|-
+| style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri]]
+|-
+| [[File:Cheri.png|30px]] [[Cheri]] || [[File:Cheri.png|30px]] [[Cheri]] || style="background-color:#9C7D98;" | || [[File:Cheri.png|30px]] [[Cheri]] || [[File:Cheri.png|30px]] [[Cheri]] 
+|- style="height: 50px;"
+| style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Cheri.png|30px]] [[Cheri]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Cheri.png|30px]] [[Cheri]] 
+|-
+| [[File:Cheri.png|30px]] [[Cheri]] || [[File:Cheri.png|30px]] [[Cheri]] ||  style="background-color:#9C7D98;" | || [[File:Cheri.png|30px]] [[Cheri]] || [[File:Cheri.png|30px]] [[Cheri]] 
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Uses==
+===Mutations===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Figy berries can be used to mutate the following berries.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Hondew.png|20px]] [[Hondew]] || [[File:Wiki.png|20px]] [[Wiki]] &lt;br&gt; [[File:Aguav.png|20px]] [[Aguav]]
+|-
+| [[File:Grepa.png|20px]] [[Grepa]] || [[File:Aguav.png|20px]] [[Aguav]]
+|-
+| [[File:Occa.png|20px]] [[Occa]] || [[File:Razz.png|20px]] [[Razz]] &lt;br&gt; [[File:Tamato.png|20px]] [[Tamato]] &lt;br&gt; [[File:Spelon.png|20px]] [[Spelon]]
+|-
+| [[File:Rindo.png|20px]] [[Rindo]] || [[File:Aguav.png|20px]] [[Aguav]]
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Acquisition==
+===Dungeons===
+{{Loot/head‎|Berries}}
+{{LootItem|Pokemon Mansion|Epic}}
+{{LootItem|Radio Tower|Epic}}
+{{LootItem|Magma Hideout|Common}}
+{{LootItem|Liberty Garden|Common}}
+|}
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>LeChatMG</username>
+      <id>97</id>
+    </contributor>
+    <comment>Created page with "== Tables de croissance == === Stades de croissance === {| class="wikitable" | style = "image-rendering: pixelated" !!! Pousse !! Arbuste !! Fleuri !! Mûr |- ! Temps écoulé depuis plantation | 40 secs || 2 mins 40 secs || 3 mins 50 secs || 5 mins 50 secs - 11 mins 40 secs |- ! Animation | &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:FigyTreeTaller.png|50px]] || &lt;center&gt; [[File:FigyTreeBloom.png|50px]] || &lt;center&gt; [[File:FigyTreeBerry.png|50px]] |}"</comment>
+    <model>wikitext</model>
+    <parentid>22737</parentid>
+    <sha1>2933c46989fe535e9aef772326ba171343c76a72</sha1>
+  </revision>
+  <revision>
+    <id>22737</id>
+    <timestamp>2022-08-09T20:00:20Z</timestamp>
+    <text bytes="4789" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #15 Figuy
+|image   = [[File:Figy.png]]
+|caption = Cette Baie a une forme surprenante, car elle a l'air d'avoir été croquée. Elle regorge de substances épicées.
+|growtime  = 5m 50s
+|harvest = 14 baies
+|replant = 30%
+|mutation = 0.9%
+|points = 40
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*15 épicée
+*0 sèche
+*0 sucrée
+*0 amère
+*0 acide
+}}
+== Description ==
+'''Kika''' est un type de [[Berry/fr|Baie]] qui peut être plantée dans la [[Farm/fr|Ferme]]. Elle s'obtient en entourant une parcelle vide avec au moins avec 25, mais pas plus de 80 points de saveur épicée et moins de 5 points pour toutes les autres saveurs. Les baies [[Cheri/fr|Ceriz]] doivent avoir été débloquées pour pouvoir débloquer la Figuy.
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Growth Tables ==
+=== Growth Stages ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 40 secs || 2 mins 40 secs || 3 mins 50 secs || 5 mins 50 secs - 11 mins 40 secs
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:FigyTreeTaller.png|50px]] || &lt;center&gt; [[File:FigyTreeBloom.png|50px]] || &lt;center&gt; [[File:FigyTreeBerry.png|50px]]
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+=== Ripening Time with Modifiers ===
+{| class="wikitable" | style="text-align: center;"
+! Modifier !! Ripe-Wither Time
+|-
+! None
+| 5 mins 50 secs -&lt;br&gt; 11 mins 40 secs
+|-
+! Sprayduck
+| 3 mins 53 secs -&lt;br&gt; 7 mins 47 secs
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Flow Chart ==
+[[File:Figy_Flow_Chart.png|100px]]
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Mutation Strategy ==
+=== Possible Planting Formations ===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+You can fill your farm in the following way to obtain Figy berries. Purple squares indicate where mutations can occur.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Base Formation
+|- style="height: 50px;"
+| style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri]]
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri]] || [[File:Cheri.png|30px]] [[Cheri]]
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Optimized Planting Formation
+|-
+| style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri]]
+|-
+| [[File:Cheri.png|30px]] [[Cheri]] || [[File:Cheri.png|30px]] [[Cheri]] || style="background-color:#9C7D98;" | || [[File:Cheri.png|30px]] [[Cheri]] || [[File:Cheri.png|30px]] [[Cheri]] 
+|- style="height: 50px;"
+| style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Cheri.png|30px]] [[Cheri]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Cheri.png|30px]] [[Cheri]] 
+|-
+| [[File:Cheri.png|30px]] [[Cheri]] || [[File:Cheri.png|30px]] [[Cheri]] ||  style="background-color:#9C7D98;" | || [[File:Cheri.png|30px]] [[Cheri]] || [[File:Cheri.png|30px]] [[Cheri]] 
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Uses==
+===Mutations===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Figy berries can be used to mutate the following berries.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Hondew.png|20px]] [[Hondew]] || [[File:Wiki.png|20px]] [[Wiki]] &lt;br&gt; [[File:Aguav.png|20px]] [[Aguav]]
+|-
+| [[File:Grepa.png|20px]] [[Grepa]] || [[File:Aguav.png|20px]] [[Aguav]]
+|-
+| [[File:Occa.png|20px]] [[Occa]] || [[File:Razz.png|20px]] [[Razz]] &lt;br&gt; [[File:Tamato.png|20px]] [[Tamato]] &lt;br&gt; [[File:Spelon.png|20px]] [[Spelon]]
+|-
+| [[File:Rindo.png|20px]] [[Rindo]] || [[File:Aguav.png|20px]] [[Aguav]]
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Acquisition==
+===Dungeons===
+{{Loot/head‎|Berries}}
+{{LootItem|Pokemon Mansion|Epic}}
+{{LootItem|Radio Tower|Epic}}
+{{LootItem|Magma Hideout|Common}}
+{{LootItem|Liberty Garden|Common}}
+|}
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>LeChatMG</username>
+      <id>97</id>
+    </contributor>
+    <comment>Created page with "{{Infobox Berry |name    = #15 Figuy |image   = [[File:Figy.png]] |caption = Cette Baie a une forme surprenante, car elle a l'air d'avoir été croquée. Elle regorge de substances épicées. |growtime  = 5m 50s |harvest = 14 baies |replant = 30% |mutation = 0.9% |points = 40 |flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt; *15 épicée *0 sèche *0 sucrée *0 amère *0 acide }} == Description == '''Kika''' est un type de [[Berry/fr|Baie]] qui peut être plantée dans la Farm..."</comment>
+    <model>wikitext</model>
+    <parentid>22736</parentid>
+    <sha1>8d54c37b21f2adb6d49e8242b9e78d5deeb4ef59</sha1>
+  </revision>
+  <revision>
+    <id>22736</id>
+    <timestamp>2022-08-09T19:56:30Z</timestamp>
+    <text bytes="4762" space="preserve">&lt;languages/&gt;
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Infobox Berry
+|name    = #15 Figy
+|image   = [[File:Figy.png]]
+|caption = This Berry is oddly shaped, appearing as if someone took a bite out of it. It is packed full of spicy substances.
+|growtime  = 5m 50s
+|harvest = 14 berries
+|replant = 30%
+|mutation = 0.9%
+|points = 40
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*15 spicy 
+*0 dry
+*0 sweet
+*0 bitter
+*0 sour
+}}
+== Description ==
+'''Figy''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by surrounding an empty plot with at least 25, but no more than 80 points of spicy and less than 5 points of all other flavours. [[Cheri]] berries must be unlocked to unlock this berry.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Growth Tables ==
+=== Growth Stages ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 40 secs || 2 mins 40 secs || 3 mins 50 secs || 5 mins 50 secs - 11 mins 40 secs
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:FigyTreeTaller.png|50px]] || &lt;center&gt; [[File:FigyTreeBloom.png|50px]] || &lt;center&gt; [[File:FigyTreeBerry.png|50px]]
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+=== Ripening Time with Modifiers ===
+{| class="wikitable" | style="text-align: center;"
+! Modifier !! Ripe-Wither Time
+|-
+! None
+| 5 mins 50 secs -&lt;br&gt; 11 mins 40 secs
+|-
+! Sprayduck
+| 3 mins 53 secs -&lt;br&gt; 7 mins 47 secs
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Flow Chart ==
+[[File:Figy_Flow_Chart.png|100px]]
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Mutation Strategy ==
+=== Possible Planting Formations ===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+You can fill your farm in the following way to obtain Figy berries. Purple squares indicate where mutations can occur.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Base Formation
+|- style="height: 50px;"
+| style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri]]
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri]] || [[File:Cheri.png|30px]] [[Cheri]]
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Optimized Planting Formation
+|-
+| style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri]]
+|-
+| [[File:Cheri.png|30px]] [[Cheri]] || [[File:Cheri.png|30px]] [[Cheri]] || style="background-color:#9C7D98;" | || [[File:Cheri.png|30px]] [[Cheri]] || [[File:Cheri.png|30px]] [[Cheri]] 
+|- style="height: 50px;"
+| style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Cheri.png|30px]] [[Cheri]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Cheri.png|30px]] [[Cheri]] 
+|-
+| [[File:Cheri.png|30px]] [[Cheri]] || [[File:Cheri.png|30px]] [[Cheri]] ||  style="background-color:#9C7D98;" | || [[File:Cheri.png|30px]] [[Cheri]] || [[File:Cheri.png|30px]] [[Cheri]] 
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Uses==
+===Mutations===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Figy berries can be used to mutate the following berries.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Hondew.png|20px]] [[Hondew]] || [[File:Wiki.png|20px]] [[Wiki]] &lt;br&gt; [[File:Aguav.png|20px]] [[Aguav]]
+|-
+| [[File:Grepa.png|20px]] [[Grepa]] || [[File:Aguav.png|20px]] [[Aguav]]
+|-
+| [[File:Occa.png|20px]] [[Occa]] || [[File:Razz.png|20px]] [[Razz]] &lt;br&gt; [[File:Tamato.png|20px]] [[Tamato]] &lt;br&gt; [[File:Spelon.png|20px]] [[Spelon]]
+|-
+| [[File:Rindo.png|20px]] [[Rindo]] || [[File:Aguav.png|20px]] [[Aguav]]
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Acquisition==
+===Dungeons===
+{{Loot/head‎|Berries}}
+{{LootItem|Pokemon Mansion|Epic}}
+{{LootItem|Radio Tower|Epic}}
+{{LootItem|Magma Hideout|Common}}
+{{LootItem|Liberty Garden|Common}}
+|}
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>LeChatMG</username>
+      <id>97</id>
+    </contributor>
+    <comment>Created page with "Figuy (Figy)"</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>4eff1a3355a52f0deb656ca60f84b864352d3aaa</sha1>
+  </revision>
+</page>

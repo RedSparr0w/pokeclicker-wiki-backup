@@ -1,0 +1,1020 @@
+<page>
+  <title>Wiki/fr</title>
+  <ns>0</ns>
+  <id>8081</id>
+  <revision>
+    <id>22780</id>
+    <timestamp>2022-08-09T20:12:23Z</timestamp>
+    <text bytes="4636" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #16 Wiki
+|image   = [[File:Wiki.png]]
+|caption = On dit que cette Baie est bosselée pour permettre aux Pokémon de l'attraper. Elle facilite ainsi sa dissémination.
+|growtime  = 6m 0s
+|harvest = 15 baies
+|replant = 30%
+|mutation = 0.8%
+|points = 45
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 épicée
+*15 sèche
+*0 sucrée
+*0 amère
+*0 acide
+}}
+
+'''Wiki''' est un type de [[Berry/fr|Baie]] qui peut être plantée dans la [[Farm/fr|Ferme]]. Elle s'obtient en entourant une parcelle vide avec au moins avec 25, mais pas plus de 80 points de saveur sèche et moins de 5 points pour toutes les autres saveurs. Les baies [[Chesto/fr|Maron]] doivent avoir été débloquées pour pouvoir débloquer la Wiki.
+
+== Tables de croissance ==
+=== Stades de croissance ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Pousse !! Arbuste !! Fleuri !! Mûr
+|-
+! Temps écoulé depuis plantation
+| 40 secs || 3 mins 30 secs || 3 mins 50 secs || 6 mins - 12 mins
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:WikiTreeTaller.png|50px]] || &lt;center&gt; [[File:WikiTreeBloom.png|50px]] || &lt;center&gt; [[File:WikiTreeBerry.png|50px]]
+|}
+
+===Temps de croissance avec modificateurs===
+{| class="wikitable collapsible" | style="text-align: center;"
+! Modificateur !! Temps Maturité-Flétrissement
+|-
+! Aucun
+| 6 mins -&lt;br&gt; 12 mins
+|-
+! Engrais/Kwakarrosoir
+| 4 mins -&lt;br&gt; 8 mins
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Flow Chart ==
+[[File:Wiki_Flow_Chart.png|100px]]
+&lt;br&gt;
+&lt;/div&gt;
+
+== Stratégie de mutation ==
+=== Formations de plantation possibles ===
+
+Vous pouvez remplir votre ferme de la manière suivante pour obtenir des baies Wiki. Les cases violettes indiquent où les mutations peuvent avoir lieu.
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Base Formation
+|- style="height: 50px;"
+| style="background-color:#9C7D98;" | || style="width: 40px;" | [[File:Chesto.png|30px]] [[Chesto]]
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Chesto.png|30px]] [[Chesto]] || [[File:Chesto.png|30px]] [[Chesto]]
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Optimized Planting Formation
+|-
+| style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Chesto.png|30px]] [[Chesto]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Chesto.png|30px]] [[Chesto]]
+|-
+| [[File:Chesto.png|30px]] [[Chesto]] || [[File:Chesto.png|30px]] [[Chesto]] || style="background-color:#9C7D98;" | || [[File:Chesto.png|30px]] [[Chesto]] || [[File:Chesto.png|30px]] [[Chesto]] 
+|- style="height: 50px;"
+| style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Chesto.png|30px]] [[Chesto]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Chesto.png|30px]] [[Chesto]] 
+|-
+| [[File:Chesto.png|30px]] [[Chesto]] || [[File:Chesto.png|30px]] [[Chesto]] || style="background-color:#9C7D98;" | || [[File:Chesto.png|30px]] [[Chesto]] || [[File:Chesto.png|30px]] [[Chesto]] 
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Uses==
+===Mutations===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Wiki berries can be used to mutate the following berries.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Hondew.png|20px]] [[Hondew]] || [[File:Figy.png|20px]] [[Figy]] &lt;br&gt; [[File:Aguav.png|20px]] [[Aguav]]
+|-
+| [[File:Cornn.png|20px]] [[Cornn]] || [[File:Leppa.png|20px]] [[Leppa]] &lt;br&gt; [[File:Bluk.png|20px]] [[Bluk]]
+|-
+| [[File:Coba.png|20px]] [[Coba]] || [[File:Aguav.png|20px]] [[Aguav]]
+|-
+| [[File:Payapa.png|20px]] [[Payapa]] || [[File:Bluk.png|20px]] [[Bluk]] &lt;br&gt; [[File:Cornn.png|20px]] [[Cornn]] &lt;br&gt; [[File:Pamtre.png|20px]] [[Pamtre]]
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Acquisition==
+===Dungeons===
+{{Loot/head‎|Berries}}
+{{LootItem|Digletts Cave|Mythic}}
+{{LootItem|Radio Tower|Epic}}
+{{LootItem|Pokémon Village|Common}}
+|}
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>LeChatMG</username>
+      <id>97</id>
+    </contributor>
+    <comment>Created page with "Vous pouvez remplir votre ferme de la manière suivante pour obtenir des baies Wiki. Les cases violettes indiquent où les mutations peuvent avoir lieu."</comment>
+    <model>wikitext</model>
+    <parentid>22779</parentid>
+    <sha1>39f063862d6e0c9259cf2393cb0683e9bf0967bc</sha1>
+  </revision>
+  <revision>
+    <id>22779</id>
+    <timestamp>2022-08-09T20:12:11Z</timestamp>
+    <text bytes="4658" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #16 Wiki
+|image   = [[File:Wiki.png]]
+|caption = On dit que cette Baie est bosselée pour permettre aux Pokémon de l'attraper. Elle facilite ainsi sa dissémination.
+|growtime  = 6m 0s
+|harvest = 15 baies
+|replant = 30%
+|mutation = 0.8%
+|points = 45
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 épicée
+*15 sèche
+*0 sucrée
+*0 amère
+*0 acide
+}}
+
+'''Wiki''' est un type de [[Berry/fr|Baie]] qui peut être plantée dans la [[Farm/fr|Ferme]]. Elle s'obtient en entourant une parcelle vide avec au moins avec 25, mais pas plus de 80 points de saveur sèche et moins de 5 points pour toutes les autres saveurs. Les baies [[Chesto/fr|Maron]] doivent avoir été débloquées pour pouvoir débloquer la Wiki.
+
+== Tables de croissance ==
+=== Stades de croissance ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Pousse !! Arbuste !! Fleuri !! Mûr
+|-
+! Temps écoulé depuis plantation
+| 40 secs || 3 mins 30 secs || 3 mins 50 secs || 6 mins - 12 mins
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:WikiTreeTaller.png|50px]] || &lt;center&gt; [[File:WikiTreeBloom.png|50px]] || &lt;center&gt; [[File:WikiTreeBerry.png|50px]]
+|}
+
+===Temps de croissance avec modificateurs===
+{| class="wikitable collapsible" | style="text-align: center;"
+! Modificateur !! Temps Maturité-Flétrissement
+|-
+! Aucun
+| 6 mins -&lt;br&gt; 12 mins
+|-
+! Engrais/Kwakarrosoir
+| 4 mins -&lt;br&gt; 8 mins
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Flow Chart ==
+[[File:Wiki_Flow_Chart.png|100px]]
+&lt;br&gt;
+&lt;/div&gt;
+
+== Stratégie de mutation ==
+=== Formations de plantation possibles ===
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+You can fill your farm in the following way to obtain Wiki berries. Purple squares indicate where mutations can occur.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Base Formation
+|- style="height: 50px;"
+| style="background-color:#9C7D98;" | || style="width: 40px;" | [[File:Chesto.png|30px]] [[Chesto]]
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Chesto.png|30px]] [[Chesto]] || [[File:Chesto.png|30px]] [[Chesto]]
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Optimized Planting Formation
+|-
+| style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Chesto.png|30px]] [[Chesto]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Chesto.png|30px]] [[Chesto]]
+|-
+| [[File:Chesto.png|30px]] [[Chesto]] || [[File:Chesto.png|30px]] [[Chesto]] || style="background-color:#9C7D98;" | || [[File:Chesto.png|30px]] [[Chesto]] || [[File:Chesto.png|30px]] [[Chesto]] 
+|- style="height: 50px;"
+| style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Chesto.png|30px]] [[Chesto]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Chesto.png|30px]] [[Chesto]] 
+|-
+| [[File:Chesto.png|30px]] [[Chesto]] || [[File:Chesto.png|30px]] [[Chesto]] || style="background-color:#9C7D98;" | || [[File:Chesto.png|30px]] [[Chesto]] || [[File:Chesto.png|30px]] [[Chesto]] 
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Uses==
+===Mutations===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Wiki berries can be used to mutate the following berries.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Hondew.png|20px]] [[Hondew]] || [[File:Figy.png|20px]] [[Figy]] &lt;br&gt; [[File:Aguav.png|20px]] [[Aguav]]
+|-
+| [[File:Cornn.png|20px]] [[Cornn]] || [[File:Leppa.png|20px]] [[Leppa]] &lt;br&gt; [[File:Bluk.png|20px]] [[Bluk]]
+|-
+| [[File:Coba.png|20px]] [[Coba]] || [[File:Aguav.png|20px]] [[Aguav]]
+|-
+| [[File:Payapa.png|20px]] [[Payapa]] || [[File:Bluk.png|20px]] [[Bluk]] &lt;br&gt; [[File:Cornn.png|20px]] [[Cornn]] &lt;br&gt; [[File:Pamtre.png|20px]] [[Pamtre]]
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Acquisition==
+===Dungeons===
+{{Loot/head‎|Berries}}
+{{LootItem|Digletts Cave|Mythic}}
+{{LootItem|Radio Tower|Epic}}
+{{LootItem|Pokémon Village|Common}}
+|}
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>LeChatMG</username>
+      <id>97</id>
+    </contributor>
+    <comment>Created page with "== Stratégie de mutation == === Formations de plantation possibles ==="</comment>
+    <model>wikitext</model>
+    <parentid>22778</parentid>
+    <sha1>49de32fe0fb10ab8d72ea7b6f737d16513e52ae2</sha1>
+  </revision>
+  <revision>
+    <id>22778</id>
+    <timestamp>2022-08-09T20:12:03Z</timestamp>
+    <text bytes="4703" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #16 Wiki
+|image   = [[File:Wiki.png]]
+|caption = On dit que cette Baie est bosselée pour permettre aux Pokémon de l'attraper. Elle facilite ainsi sa dissémination.
+|growtime  = 6m 0s
+|harvest = 15 baies
+|replant = 30%
+|mutation = 0.8%
+|points = 45
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 épicée
+*15 sèche
+*0 sucrée
+*0 amère
+*0 acide
+}}
+
+'''Wiki''' est un type de [[Berry/fr|Baie]] qui peut être plantée dans la [[Farm/fr|Ferme]]. Elle s'obtient en entourant une parcelle vide avec au moins avec 25, mais pas plus de 80 points de saveur sèche et moins de 5 points pour toutes les autres saveurs. Les baies [[Chesto/fr|Maron]] doivent avoir été débloquées pour pouvoir débloquer la Wiki.
+
+== Tables de croissance ==
+=== Stades de croissance ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Pousse !! Arbuste !! Fleuri !! Mûr
+|-
+! Temps écoulé depuis plantation
+| 40 secs || 3 mins 30 secs || 3 mins 50 secs || 6 mins - 12 mins
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:WikiTreeTaller.png|50px]] || &lt;center&gt; [[File:WikiTreeBloom.png|50px]] || &lt;center&gt; [[File:WikiTreeBerry.png|50px]]
+|}
+
+===Temps de croissance avec modificateurs===
+{| class="wikitable collapsible" | style="text-align: center;"
+! Modificateur !! Temps Maturité-Flétrissement
+|-
+! Aucun
+| 6 mins -&lt;br&gt; 12 mins
+|-
+! Engrais/Kwakarrosoir
+| 4 mins -&lt;br&gt; 8 mins
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Flow Chart ==
+[[File:Wiki_Flow_Chart.png|100px]]
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Mutation Strategy ==
+=== Possible Planting Formations ===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+You can fill your farm in the following way to obtain Wiki berries. Purple squares indicate where mutations can occur.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Base Formation
+|- style="height: 50px;"
+| style="background-color:#9C7D98;" | || style="width: 40px;" | [[File:Chesto.png|30px]] [[Chesto]]
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Chesto.png|30px]] [[Chesto]] || [[File:Chesto.png|30px]] [[Chesto]]
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Optimized Planting Formation
+|-
+| style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Chesto.png|30px]] [[Chesto]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Chesto.png|30px]] [[Chesto]]
+|-
+| [[File:Chesto.png|30px]] [[Chesto]] || [[File:Chesto.png|30px]] [[Chesto]] || style="background-color:#9C7D98;" | || [[File:Chesto.png|30px]] [[Chesto]] || [[File:Chesto.png|30px]] [[Chesto]] 
+|- style="height: 50px;"
+| style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Chesto.png|30px]] [[Chesto]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Chesto.png|30px]] [[Chesto]] 
+|-
+| [[File:Chesto.png|30px]] [[Chesto]] || [[File:Chesto.png|30px]] [[Chesto]] || style="background-color:#9C7D98;" | || [[File:Chesto.png|30px]] [[Chesto]] || [[File:Chesto.png|30px]] [[Chesto]] 
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Uses==
+===Mutations===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Wiki berries can be used to mutate the following berries.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Hondew.png|20px]] [[Hondew]] || [[File:Figy.png|20px]] [[Figy]] &lt;br&gt; [[File:Aguav.png|20px]] [[Aguav]]
+|-
+| [[File:Cornn.png|20px]] [[Cornn]] || [[File:Leppa.png|20px]] [[Leppa]] &lt;br&gt; [[File:Bluk.png|20px]] [[Bluk]]
+|-
+| [[File:Coba.png|20px]] [[Coba]] || [[File:Aguav.png|20px]] [[Aguav]]
+|-
+| [[File:Payapa.png|20px]] [[Payapa]] || [[File:Bluk.png|20px]] [[Bluk]] &lt;br&gt; [[File:Cornn.png|20px]] [[Cornn]] &lt;br&gt; [[File:Pamtre.png|20px]] [[Pamtre]]
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Acquisition==
+===Dungeons===
+{{Loot/head‎|Berries}}
+{{LootItem|Digletts Cave|Mythic}}
+{{LootItem|Radio Tower|Epic}}
+{{LootItem|Pokémon Village|Common}}
+|}
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>LeChatMG</username>
+      <id>97</id>
+    </contributor>
+    <comment>Created page with "===Temps de croissance avec modificateurs=== {| class="wikitable collapsible" | style="text-align: center;" ! Modificateur !! Temps Maturité-Flétrissement |- ! Aucun | 6 mins -&lt;br&gt; 12 mins |- ! Engrais/Kwakarrosoir | 4 mins -&lt;br&gt; 8 mins |}"</comment>
+    <model>wikitext</model>
+    <parentid>22777</parentid>
+    <sha1>6b99bf27295bccd58852970217d3aa8e162e0a61</sha1>
+  </revision>
+  <revision>
+    <id>22777</id>
+    <timestamp>2022-08-09T20:11:21Z</timestamp>
+    <text bytes="4716" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #16 Wiki
+|image   = [[File:Wiki.png]]
+|caption = On dit que cette Baie est bosselée pour permettre aux Pokémon de l'attraper. Elle facilite ainsi sa dissémination.
+|growtime  = 6m 0s
+|harvest = 15 baies
+|replant = 30%
+|mutation = 0.8%
+|points = 45
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 épicée
+*15 sèche
+*0 sucrée
+*0 amère
+*0 acide
+}}
+
+'''Wiki''' est un type de [[Berry/fr|Baie]] qui peut être plantée dans la [[Farm/fr|Ferme]]. Elle s'obtient en entourant une parcelle vide avec au moins avec 25, mais pas plus de 80 points de saveur sèche et moins de 5 points pour toutes les autres saveurs. Les baies [[Chesto/fr|Maron]] doivent avoir été débloquées pour pouvoir débloquer la Wiki.
+
+== Tables de croissance ==
+=== Stades de croissance ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Pousse !! Arbuste !! Fleuri !! Mûr
+|-
+! Temps écoulé depuis plantation
+| 40 secs || 3 mins 30 secs || 3 mins 50 secs || 6 mins - 12 mins
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:WikiTreeTaller.png|50px]] || &lt;center&gt; [[File:WikiTreeBloom.png|50px]] || &lt;center&gt; [[File:WikiTreeBerry.png|50px]]
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+=== Ripening Time with Modifiers  ===
+{| class="wikitable" | style="text-align: center;"
+! Modifier !! Ripe-Wither Time
+|-
+! None
+| 6 mins -&lt;br&gt; 12 mins
+|-
+! Mulch/Sprayduck
+| 4 mins -&lt;br&gt; 8 mins
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Flow Chart ==
+[[File:Wiki_Flow_Chart.png|100px]]
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Mutation Strategy ==
+=== Possible Planting Formations ===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+You can fill your farm in the following way to obtain Wiki berries. Purple squares indicate where mutations can occur.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Base Formation
+|- style="height: 50px;"
+| style="background-color:#9C7D98;" | || style="width: 40px;" | [[File:Chesto.png|30px]] [[Chesto]]
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Chesto.png|30px]] [[Chesto]] || [[File:Chesto.png|30px]] [[Chesto]]
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Optimized Planting Formation
+|-
+| style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Chesto.png|30px]] [[Chesto]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Chesto.png|30px]] [[Chesto]]
+|-
+| [[File:Chesto.png|30px]] [[Chesto]] || [[File:Chesto.png|30px]] [[Chesto]] || style="background-color:#9C7D98;" | || [[File:Chesto.png|30px]] [[Chesto]] || [[File:Chesto.png|30px]] [[Chesto]] 
+|- style="height: 50px;"
+| style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Chesto.png|30px]] [[Chesto]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Chesto.png|30px]] [[Chesto]] 
+|-
+| [[File:Chesto.png|30px]] [[Chesto]] || [[File:Chesto.png|30px]] [[Chesto]] || style="background-color:#9C7D98;" | || [[File:Chesto.png|30px]] [[Chesto]] || [[File:Chesto.png|30px]] [[Chesto]] 
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Uses==
+===Mutations===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Wiki berries can be used to mutate the following berries.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Hondew.png|20px]] [[Hondew]] || [[File:Figy.png|20px]] [[Figy]] &lt;br&gt; [[File:Aguav.png|20px]] [[Aguav]]
+|-
+| [[File:Cornn.png|20px]] [[Cornn]] || [[File:Leppa.png|20px]] [[Leppa]] &lt;br&gt; [[File:Bluk.png|20px]] [[Bluk]]
+|-
+| [[File:Coba.png|20px]] [[Coba]] || [[File:Aguav.png|20px]] [[Aguav]]
+|-
+| [[File:Payapa.png|20px]] [[Payapa]] || [[File:Bluk.png|20px]] [[Bluk]] &lt;br&gt; [[File:Cornn.png|20px]] [[Cornn]] &lt;br&gt; [[File:Pamtre.png|20px]] [[Pamtre]]
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Acquisition==
+===Dungeons===
+{{Loot/head‎|Berries}}
+{{LootItem|Digletts Cave|Mythic}}
+{{LootItem|Radio Tower|Epic}}
+{{LootItem|Pokémon Village|Common}}
+|}
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>LeChatMG</username>
+      <id>97</id>
+    </contributor>
+    <comment>Created page with "== Tables de croissance == === Stades de croissance === {| class="wikitable" | style = "image-rendering: pixelated" ! !! Pousse !! Arbuste !! Fleuri !! Mûr |- ! Temps écoulé depuis plantation | 40 secs || 3 mins 30 secs || 3 mins 50 secs || 6 mins - 12 mins |- ! Animation | &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:WikiTreeTaller.png|50px]] || &lt;center&gt; [[File:WikiTreeBloom.png|50px]] || &lt;center&gt; [[File:WikiTreeBerry.png|50px]] |}"</comment>
+    <model>wikitext</model>
+    <parentid>22776</parentid>
+    <sha1>94b26e4f23d3d01fbb0e18134a815aa33408122e</sha1>
+  </revision>
+  <revision>
+    <id>22776</id>
+    <timestamp>2022-08-09T20:10:57Z</timestamp>
+    <text bytes="4751" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #16 Wiki
+|image   = [[File:Wiki.png]]
+|caption = On dit que cette Baie est bosselée pour permettre aux Pokémon de l'attraper. Elle facilite ainsi sa dissémination.
+|growtime  = 6m 0s
+|harvest = 15 baies
+|replant = 30%
+|mutation = 0.8%
+|points = 45
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 épicée
+*15 sèche
+*0 sucrée
+*0 amère
+*0 acide
+}}
+
+'''Wiki''' est un type de [[Berry/fr|Baie]] qui peut être plantée dans la [[Farm/fr|Ferme]]. Elle s'obtient en entourant une parcelle vide avec au moins avec 25, mais pas plus de 80 points de saveur sèche et moins de 5 points pour toutes les autres saveurs. Les baies [[Chesto/fr|Maron]] doivent avoir été débloquées pour pouvoir débloquer la Wiki.
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Growth Tables ==
+=== Growth Stages ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 40 secs || 3 mins 30 secs || 3 mins 50 secs || 6 mins - 12 mins
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:WikiTreeTaller.png|50px]] || &lt;center&gt; [[File:WikiTreeBloom.png|50px]] || &lt;center&gt; [[File:WikiTreeBerry.png|50px]]
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+=== Ripening Time with Modifiers  ===
+{| class="wikitable" | style="text-align: center;"
+! Modifier !! Ripe-Wither Time
+|-
+! None
+| 6 mins -&lt;br&gt; 12 mins
+|-
+! Mulch/Sprayduck
+| 4 mins -&lt;br&gt; 8 mins
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Flow Chart ==
+[[File:Wiki_Flow_Chart.png|100px]]
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Mutation Strategy ==
+=== Possible Planting Formations ===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+You can fill your farm in the following way to obtain Wiki berries. Purple squares indicate where mutations can occur.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Base Formation
+|- style="height: 50px;"
+| style="background-color:#9C7D98;" | || style="width: 40px;" | [[File:Chesto.png|30px]] [[Chesto]]
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Chesto.png|30px]] [[Chesto]] || [[File:Chesto.png|30px]] [[Chesto]]
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Optimized Planting Formation
+|-
+| style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Chesto.png|30px]] [[Chesto]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Chesto.png|30px]] [[Chesto]]
+|-
+| [[File:Chesto.png|30px]] [[Chesto]] || [[File:Chesto.png|30px]] [[Chesto]] || style="background-color:#9C7D98;" | || [[File:Chesto.png|30px]] [[Chesto]] || [[File:Chesto.png|30px]] [[Chesto]] 
+|- style="height: 50px;"
+| style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Chesto.png|30px]] [[Chesto]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Chesto.png|30px]] [[Chesto]] 
+|-
+| [[File:Chesto.png|30px]] [[Chesto]] || [[File:Chesto.png|30px]] [[Chesto]] || style="background-color:#9C7D98;" | || [[File:Chesto.png|30px]] [[Chesto]] || [[File:Chesto.png|30px]] [[Chesto]] 
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Uses==
+===Mutations===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Wiki berries can be used to mutate the following berries.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Hondew.png|20px]] [[Hondew]] || [[File:Figy.png|20px]] [[Figy]] &lt;br&gt; [[File:Aguav.png|20px]] [[Aguav]]
+|-
+| [[File:Cornn.png|20px]] [[Cornn]] || [[File:Leppa.png|20px]] [[Leppa]] &lt;br&gt; [[File:Bluk.png|20px]] [[Bluk]]
+|-
+| [[File:Coba.png|20px]] [[Coba]] || [[File:Aguav.png|20px]] [[Aguav]]
+|-
+| [[File:Payapa.png|20px]] [[Payapa]] || [[File:Bluk.png|20px]] [[Bluk]] &lt;br&gt; [[File:Cornn.png|20px]] [[Cornn]] &lt;br&gt; [[File:Pamtre.png|20px]] [[Pamtre]]
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Acquisition==
+===Dungeons===
+{{Loot/head‎|Berries}}
+{{LootItem|Digletts Cave|Mythic}}
+{{LootItem|Radio Tower|Epic}}
+{{LootItem|Pokémon Village|Common}}
+|}
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>LeChatMG</username>
+      <id>97</id>
+    </contributor>
+    <comment>Created page with "'''Wiki''' est un type de [[Berry/fr|Baie]] qui peut être plantée dans la [[Farm/fr|Ferme]]. Elle s'obtient en entourant une parcelle vide avec au moins avec 25, mais pas plus de 80 points de saveur sèche et moins de 5 points pour toutes les autres saveurs. Les baies [[Chesto/fr|Maron]] doivent avoir été débloquées pour pouvoir débloquer la Wiki."</comment>
+    <model>wikitext</model>
+    <parentid>22775</parentid>
+    <sha1>0620f9e156d644cad8ccf9d5bfbc4539151935e2</sha1>
+  </revision>
+  <revision>
+    <id>22775</id>
+    <timestamp>2022-08-09T20:09:29Z</timestamp>
+    <text bytes="4729" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #16 Wiki
+|image   = [[File:Wiki.png]]
+|caption = On dit que cette Baie est bosselée pour permettre aux Pokémon de l'attraper. Elle facilite ainsi sa dissémination.
+|growtime  = 6m 0s
+|harvest = 15 baies
+|replant = 30%
+|mutation = 0.8%
+|points = 45
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 épicée
+*15 sèche
+*0 sucrée
+*0 amère
+*0 acide
+}}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+'''Wiki''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by surrounding an empty plot with at least 25, but no more than 80 points of dry and less than 5 points of all other flavours. The [[Chesto]] must be unlocked to unlock this berry.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Growth Tables ==
+=== Growth Stages ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 40 secs || 3 mins 30 secs || 3 mins 50 secs || 6 mins - 12 mins
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:WikiTreeTaller.png|50px]] || &lt;center&gt; [[File:WikiTreeBloom.png|50px]] || &lt;center&gt; [[File:WikiTreeBerry.png|50px]]
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+=== Ripening Time with Modifiers  ===
+{| class="wikitable" | style="text-align: center;"
+! Modifier !! Ripe-Wither Time
+|-
+! None
+| 6 mins -&lt;br&gt; 12 mins
+|-
+! Mulch/Sprayduck
+| 4 mins -&lt;br&gt; 8 mins
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Flow Chart ==
+[[File:Wiki_Flow_Chart.png|100px]]
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Mutation Strategy ==
+=== Possible Planting Formations ===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+You can fill your farm in the following way to obtain Wiki berries. Purple squares indicate where mutations can occur.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Base Formation
+|- style="height: 50px;"
+| style="background-color:#9C7D98;" | || style="width: 40px;" | [[File:Chesto.png|30px]] [[Chesto]]
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Chesto.png|30px]] [[Chesto]] || [[File:Chesto.png|30px]] [[Chesto]]
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Optimized Planting Formation
+|-
+| style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Chesto.png|30px]] [[Chesto]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Chesto.png|30px]] [[Chesto]]
+|-
+| [[File:Chesto.png|30px]] [[Chesto]] || [[File:Chesto.png|30px]] [[Chesto]] || style="background-color:#9C7D98;" | || [[File:Chesto.png|30px]] [[Chesto]] || [[File:Chesto.png|30px]] [[Chesto]] 
+|- style="height: 50px;"
+| style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Chesto.png|30px]] [[Chesto]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Chesto.png|30px]] [[Chesto]] 
+|-
+| [[File:Chesto.png|30px]] [[Chesto]] || [[File:Chesto.png|30px]] [[Chesto]] || style="background-color:#9C7D98;" | || [[File:Chesto.png|30px]] [[Chesto]] || [[File:Chesto.png|30px]] [[Chesto]] 
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Uses==
+===Mutations===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Wiki berries can be used to mutate the following berries.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Hondew.png|20px]] [[Hondew]] || [[File:Figy.png|20px]] [[Figy]] &lt;br&gt; [[File:Aguav.png|20px]] [[Aguav]]
+|-
+| [[File:Cornn.png|20px]] [[Cornn]] || [[File:Leppa.png|20px]] [[Leppa]] &lt;br&gt; [[File:Bluk.png|20px]] [[Bluk]]
+|-
+| [[File:Coba.png|20px]] [[Coba]] || [[File:Aguav.png|20px]] [[Aguav]]
+|-
+| [[File:Payapa.png|20px]] [[Payapa]] || [[File:Bluk.png|20px]] [[Bluk]] &lt;br&gt; [[File:Cornn.png|20px]] [[Cornn]] &lt;br&gt; [[File:Pamtre.png|20px]] [[Pamtre]]
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Acquisition==
+===Dungeons===
+{{Loot/head‎|Berries}}
+{{LootItem|Digletts Cave|Mythic}}
+{{LootItem|Radio Tower|Epic}}
+{{LootItem|Pokémon Village|Common}}
+|}
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>LeChatMG</username>
+      <id>97</id>
+    </contributor>
+    <comment>Created page with "{{Infobox Berry |name    = #16 Wiki |image   = [[File:Wiki.png]] |caption = On dit que cette Baie est bosselée pour permettre aux Pokémon de l'attraper. Elle facilite ainsi sa dissémination. |growtime  = 6m 0s |harvest = 15 baies |replant = 30% |mutation = 0.8% |points = 45 |flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt; *0 épicée *15 sèche *0 sucrée *0 amère *0 acide }}"</comment>
+    <model>wikitext</model>
+    <parentid>22774</parentid>
+    <sha1>702ab9a7c4339768f050c8bb75a88b59712d12fb</sha1>
+  </revision>
+  <revision>
+    <id>22774</id>
+    <timestamp>2022-08-09T20:08:42Z</timestamp>
+    <text bytes="4762" space="preserve">&lt;languages/&gt;
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Infobox Berry
+|name    = #16 Wiki
+|image   = [[File:Wiki.png]]
+|caption = It is said that this Berry grew lumps to help Pokémon grip it, allowing propagation farther afield.
+|growtime  = 6m 0s
+|harvest = 15 berries
+|replant = 30%
+|mutation = 0.8%
+|points = 45
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 spicy 
+*15 dry
+*0 sweet
+*0 bitter
+*0 sour
+}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+'''Wiki''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by surrounding an empty plot with at least 25, but no more than 80 points of dry and less than 5 points of all other flavours. The [[Chesto]] must be unlocked to unlock this berry.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Growth Tables ==
+=== Growth Stages ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 40 secs || 3 mins 30 secs || 3 mins 50 secs || 6 mins - 12 mins
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:WikiTreeTaller.png|50px]] || &lt;center&gt; [[File:WikiTreeBloom.png|50px]] || &lt;center&gt; [[File:WikiTreeBerry.png|50px]]
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+=== Ripening Time with Modifiers  ===
+{| class="wikitable" | style="text-align: center;"
+! Modifier !! Ripe-Wither Time
+|-
+! None
+| 6 mins -&lt;br&gt; 12 mins
+|-
+! Mulch/Sprayduck
+| 4 mins -&lt;br&gt; 8 mins
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Flow Chart ==
+[[File:Wiki_Flow_Chart.png|100px]]
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Mutation Strategy ==
+=== Possible Planting Formations ===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+You can fill your farm in the following way to obtain Wiki berries. Purple squares indicate where mutations can occur.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Base Formation
+|- style="height: 50px;"
+| style="background-color:#9C7D98;" | || style="width: 40px;" | [[File:Chesto.png|30px]] [[Chesto]]
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Chesto.png|30px]] [[Chesto]] || [[File:Chesto.png|30px]] [[Chesto]]
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Optimized Planting Formation
+|-
+| style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Chesto.png|30px]] [[Chesto]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Chesto.png|30px]] [[Chesto]]
+|-
+| [[File:Chesto.png|30px]] [[Chesto]] || [[File:Chesto.png|30px]] [[Chesto]] || style="background-color:#9C7D98;" | || [[File:Chesto.png|30px]] [[Chesto]] || [[File:Chesto.png|30px]] [[Chesto]] 
+|- style="height: 50px;"
+| style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Chesto.png|30px]] [[Chesto]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Chesto.png|30px]] [[Chesto]] 
+|-
+| [[File:Chesto.png|30px]] [[Chesto]] || [[File:Chesto.png|30px]] [[Chesto]] || style="background-color:#9C7D98;" | || [[File:Chesto.png|30px]] [[Chesto]] || [[File:Chesto.png|30px]] [[Chesto]] 
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Uses==
+===Mutations===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Wiki berries can be used to mutate the following berries.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Hondew.png|20px]] [[Hondew]] || [[File:Figy.png|20px]] [[Figy]] &lt;br&gt; [[File:Aguav.png|20px]] [[Aguav]]
+|-
+| [[File:Cornn.png|20px]] [[Cornn]] || [[File:Leppa.png|20px]] [[Leppa]] &lt;br&gt; [[File:Bluk.png|20px]] [[Bluk]]
+|-
+| [[File:Coba.png|20px]] [[Coba]] || [[File:Aguav.png|20px]] [[Aguav]]
+|-
+| [[File:Payapa.png|20px]] [[Payapa]] || [[File:Bluk.png|20px]] [[Bluk]] &lt;br&gt; [[File:Cornn.png|20px]] [[Cornn]] &lt;br&gt; [[File:Pamtre.png|20px]] [[Pamtre]]
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Acquisition==
+===Dungeons===
+{{Loot/head‎|Berries}}
+{{LootItem|Digletts Cave|Mythic}}
+{{LootItem|Radio Tower|Epic}}
+{{LootItem|Pokémon Village|Common}}
+|}
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>LeChatMG</username>
+      <id>97</id>
+    </contributor>
+    <comment>Created page with "Wiki"</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>c25f2673e4e6c11d62bfaa2cdb19d43cf45bf6bf</sha1>
+  </revision>
+</page>

@@ -1,0 +1,55 @@
+<page>
+  <title>Aguav</title>
+  <ns>0</ns>
+  <id>448</id>
+  <revision>
+    <id>6134</id>
+    <timestamp>2020-11-21T22:32:03Z</timestamp>
+    <text bytes="1401" space="preserve">{{Infobox Berry
+|name    = Aguav
+|image   = [[File:Aguav.png]]
+|caption = This Berry turns bitter toward the stem. The dainty flower it grows from doesn't absorb much sunlight.
+|growtime  = 5m 50s
+|harvest = 17 berries
+|replant = 30%
+|points = 55
+|flavor = {{!}} 0 {{!}} 0 {{!}} 0 {{!}} 15 {{!}} 0
+}}
+'''Aguav''' is a type of [[Berries|Berry]] that can be planted in [[Farm]]. It can be obtained by surrounding an empty plot with at least 25, but no more than 80 points of bitter and less than 5 points of all other flavours. The [[Rawst]] must be unlocked to unlock this berry.
+
+{| class="wikitable"
+|+ Harvest Stages durations
+! Seed !! Sprout !! Taller !! Bloom !! Berry
+|-
+| 0-40s || 40-170s || 170-220s || 220-350s || 350-700s
+|-
+| [[File:AllTreeSeed.png|50px]] || [[File:AllTreeSprout.png|50px]] || [[File:AguavTreeTaller.png|50px]] || [[File:AguavTreeBloom.png|50px]] || [[File:AguavTreeBerry.png|50px]]
+|}
+
+=== Possible Planting Formations ===
+
+You can fill your [[farm]] in following way to obtain Aguav berry.
+
+{| class="wikitable"
+|+ Farm
+|-
+| style="width: 40px;" | || style="width: 40px;" | [[Rawst]] || style="width: 40px;" | || style="width: 40px;" | || style="width: 40px;" | [[Rawst]]
+|-
+| [[Rawst]] || [[Rawst]] ||  || [[Rawst]] || [[Rawst]] 
+|- style="height: 26px;"
+| || || || || 
+|-
+| || [[Rawst]] ||  || || [[Rawst]] 
+|-
+| [[Rawst]] || [[Rawst]] ||  || [[Rawst]] || [[Rawst]] 
+|}</text>
+    <contributor>
+      <username>Kirby2729</username>
+      <id>67</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>6133</parentid>
+    <sha1>8c7c007c270b3cbc9f1fa1d0fa6ffb08bdc091f5</sha1>
+  </revision>
+</page>

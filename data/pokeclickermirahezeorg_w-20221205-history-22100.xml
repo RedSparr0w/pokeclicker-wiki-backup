@@ -1,0 +1,20 @@
+<page>
+  <title>Template:Block indent</title>
+  <ns>10</ns>
+  <id>956</id>
+  <revision>
+    <id>9359</id>
+    <timestamp>2020-12-14T04:05:49Z</timestamp>
+    <text bytes="445" space="preserve">&lt;div {{#if:{{{class|}}}|class="{{{class}}}"}} style="padding-left: {{{left|{{{em|3}}}}}}em; padding-right:{{{right|0}}}em; overflow: hidden; {{#if:{{{style|}}}|{{{style}}}}}"&gt;{{{1|{{{text|{{{content|{{{quote|&lt;noinclude&gt;{{lorem ipsum}}&lt;/noinclude&gt;&lt;includeonly&gt;{{error|Error: No content given to indent (or equals sign used in the actual argument to an unnamed parameter)}}&lt;/includeonly&gt;}}}}}}}}}}}}&lt;/div&gt;&lt;noinclude&gt;
+{{documentation}}
+&lt;/noinclude&gt;</text>
+    <contributor>
+      <username>Liczale</username>
+      <id>20</id>
+    </contributor>
+    <comment>1 revision imported: Here you go Cate &lt;3</comment>
+    <model>wikitext</model>
+    <parentid>9358</parentid>
+    <sha1>214937c094aa670f448a760572d05b413055b958</sha1>
+  </revision>
+</page>

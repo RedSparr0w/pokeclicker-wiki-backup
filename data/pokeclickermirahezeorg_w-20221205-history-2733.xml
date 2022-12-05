@@ -1,0 +1,94 @@
+<page>
+  <title>Diglett's Tunnel</title>
+  <ns>0</ns>
+  <id>4028</id>
+  <revision>
+    <id>14647</id>
+    <timestamp>2022-08-02T21:28:55Z</timestamp>
+    <text bytes="2426" space="preserve">{{Infobox dungeon
+|name    = Diglett's Tunnel
+|image   = [[File:Diglett's Tunnel.png|300px]]
+|caption = A map of Diglett's Tunnel.
+|tokens  = 930,000
+|location = Northeast of Route 6.
+}}
+
+'''Diglett's Tunnel''' is a [[Dungeons|dungeon]] in [[Alola]]. It initially has 121 tiles arranged in a 11x11 square, including 11 chest tiles, 41 non-boss encounter tiles, and 1 boss encounter tile. Wild Encounters have 13,215,839 HP.
+
+== Encounter Tables ==
+
+===Wild Encounters===
+
+{| class="wikitable"
+|-
+! Wild Pokémon !! colspan=2|Trainers
+|-
+! Encounter !! Trainer !! Pokémon Team
+|-
+| [[File:Zubat.png|40px]] Zubat || [[File:Worker.png|40px]] Worker Frank || [[File:Shieldon.png|40px]] Shieldon
+|-
+| rowspan=2| [[File:Alolan Diglett.png|40px]] Alolan Diglett || [[File:Worker.png|40px]] Worker Jeff || [[File:Alolan Diglett.png|40px]] Alolan Diglett, [[File:Alolan Diglett.png|40px]] Alolan Diglett
+|-
+| [[File:Worker.png|40px]] Worker Vaclav || [[File:Archen.png|40px]] Archen
+|-
+| rowspan=2| [[File:Nihilego.png|40px]] '''Nihilego*''' || [[File:Team Skull Grunt (female).png|40px]] Team Skull Grunt || [[File:Ekans.png|40px]] Ekans
+|-
+| [[File:Team Skull Grunt (male).png|40px]] Team Skull Grunt || [[File:Salandit.png|40px]] Salandit
+|}
+
+'''*Note:''' Must be unlocked by doing [[Quests#Ultra Beast Hunt|Ultra Beast Hunt]] Quest first.
+
+===Boss Encounters===
+{| class="wikitable"
+|-
+! Wild Pokémon !! Base Health !! Boss Trainer !! Pokémon Team !! Base Health
+|-
+| [[File:Larvitar.png|50px]] Larvitar || &lt;center&gt; 66,079,195 || colspan=3|&lt;center&gt;N/A
+|-
+|}
+
+==Items==
+
+{| class="wikitable"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+|-
+| align="center" colspan=6| '''Common'''
+|-
+| {{Bag2|xAttack}} || N/A || 37.48% || 36.00% || 30.00%
+|-
+| {{Bag2|Lucky Incense}} || N/A || 37.48% || 36.00% || 30.00%
+|-
+| align="center" colspan=6| '''Rare'''
+|-
+| {{Bag2|Red Shard}} || N/A || 10.00% || 10.50% || 12.47%
+|-
+| {{Bag2|Yellow Shard}} || N/A || 10.00% || 10.50% || 12.47%
+|-
+| align="center" colspan=6| '''Epic'''
+|-
+| {{Bag2|Earth Plate}} || N/A || 2.01% || 2.60% || 5.00%
+|-
+| {{Bag2|Duskball}} || N/A || 2.01% || 2.60% || 5.00%
+|-
+| align="center" colspan=6| '''Legendary'''
+|-
+| {{Bag2|Large Restore}} || N/A || 1.00% || 1.59% || 3.99%
+|-
+| align="center" colspan=6| '''Mythic'''
+|-
+| {{Bag2|Max Revive}} || N/A || 0.01% || 0.22% || 1.06%
+|}
+
+{{Alola Dungeons}}
+[[Category:Dungeons|^Region #7 - Alola^l]]</text>
+    <contributor>
+      <username>ThePantMan</username>
+      <id>8</id>
+    </contributor>
+    <comment>/* Wild Encounters - added UB */</comment>
+    <model>wikitext</model>
+    <parentid>14646</parentid>
+    <sha1>8a7180db935dffcfe7ac635c849482f7b53b462e</sha1>
+  </revision>
+</page>

@@ -1,0 +1,269 @@
+<page>
+  <title>Shiny Chance</title>
+  <ns>0</ns>
+  <id>140</id>
+  <revision>
+    <id>1674</id>
+    <timestamp>2021-01-28T16:27:02Z</timestamp>
+    <text bytes="12865" space="preserve">Shiny Pokémon can be obtained in a number of different ways, each with their own odds. As of version 0.7.1, the only ways to augment the chances of encountering shinies are to equip the [[Shiny Charm]] or have [[Starf]] Berries growing in the [[Farm]] (at full ripeness, each Starf plant gives a 1.015% boost).
+
+=Details=
+
+{| class="wikitable sortable"
+|-
+! Action !! Chance (no Shiny Charm) !! Chance (Lv 5 Shiny Charm) !! Chance (Lv 5 Shiny Charm and Full Starf Farm)
+|-
+| Route Encounter || 1 / 8192 || 1 / 4096 || 1 / 2823
+|-
+| Dungeon Encounter || 1 / 4096 || 1 / 2048 || 1 / 1412
+|-
+| Evolution stone/item use || rowspan = 3 | 1 / 2048 || rowspan = 3 | 1 / 1024 || rowspan = 3 | 1 / 706
+|-
+| Purchasing shop Pokémon
+|-
+| Safari Zone Encounter
+|-
+| Hatching an Egg || 1 / 1024 || 1 / 512 || 1 / 353
+|-
+|}
+
+=Farm Shiny Breeding Strategy=
+
+[[Pokemon Day Care|Breeding]] is the most effective way to obtain most Shiny [[Pokémon]]. The [[Farm]] can be used to increase both the Egg Steps gained by defeating a Pokémon (thus hatching eggs faster) and the Shiny Rate in general. Below is a table of Shiny Rates using various planting strategies along with explanations.
+
+'''Notes about this Table: '''
+''All calculations done here [https://docs.google.com/spreadsheets/d/1kyQIpahGezv8tYYeQDoZMHjw6cVyGr7FD4MlXgbPr68/edit?usp=sharing]''
+
+* There are several assumed and/or hypothetical constants used in the creation of these rates for simplicity. As they are constants, it is not important that they reflect in game conditions as they are used simply to assess which strategies are most efficient. Constants are listed below along with associated values and notes on why they were used. Rates are listed in units of Minutes/Shiny Encountered to normalize the effects of Starf and Chople Berries.
+
+# Egg Steps to Hatch = 800 - A standard egg that can be hatched
+# Base Shiny Rate = 1x - No [[Shiny Charm]] modifier applied
+# Defeated Pokémon/Second = 1 - Standard Idling Rate
+# Egg Step Yield/Defeat = 40 - No Route or Gym in Pokéclicker yields this many egg steps per Pokémon defeated, although levels of the Battle Factor &gt;= 1600 do.
+
+===Chople Rates===
+
+&lt;span style="color:green"&gt; Green &lt;/span style&gt; rates can be achieved through planting strategies found [[Pokemon Day Care#Chople + Empty Rows|Here]], [[Pokemon Day Care#Chople + Yache/Haban|Here]], and [[Pokemon Day Care#Chople + Petaya|Here]]. &lt;span style="color:orange"&gt; Orange &lt;/span style&gt; Rates can be achieved through planting strategies found [[Pokemon Day Care#Chople + Babiri + Petaya|Here]], &lt;span style="color:red"&gt; Red &lt;/span style&gt; rates can be achieved through planting strategies found [[Pokemon Day Care#Chople + Babiri|Here]], and &lt;span style="color:purple"&gt; Purple &lt;/span style&gt; rates have no consistent planting strategy yet.
+
+====Rate Table====
+{| class="wikitable sortable collapsible"
+! Chople Berries Planted !! Minutes/Shiny
+|-
+| &lt;span style="color:green"&gt; 0 || &lt;span style="color:green"&gt;170.67
+|-
+| &lt;span style="color:green"&gt;1 || &lt;span style="color:green"&gt;165.70
+|-
+| &lt;span style="color:green"&gt;2 || &lt;span style="color:green"&gt;160.87
+|-
+| &lt;span style="color:green"&gt;3 || &lt;span style="color:green"&gt;156.18
+|-
+| &lt;span style="color:green"&gt;4 || &lt;span style="color:green"&gt;151.64
+|-
+| &lt;span style="color:green"&gt;5 || &lt;span style="color:green"&gt;147.22
+|-
+| &lt;span style="color:green"&gt;6 || &lt;span style="color:green"&gt;142.93
+|-
+| &lt;span style="color:green"&gt;7 || &lt;span style="color:green"&gt;138.77
+|-
+| &lt;span style="color:green"&gt;8 || &lt;span style="color:green"&gt;134.73
+|-
+| &lt;span style="color:green"&gt;9 || &lt;span style="color:green"&gt;130.80
+|-
+| &lt;span style="color:green"&gt;10 || &lt;span style="color:green"&gt;126.99
+|-
+| &lt;span style="color:green"&gt;11 || &lt;span style="color:green"&gt;123.29
+|-
+| &lt;span style="color:green"&gt;12 || &lt;span style="color:green"&gt;119.70
+|-
+| &lt;span style="color:green"&gt;13 || &lt;span style="color:green"&gt;116.22
+|-
+| &lt;span style="color:green"&gt;14 || &lt;span style="color:green"&gt;112.83
+|-
+| &lt;span style="color:green"&gt;15 || &lt;span style="color:green"&gt;109.54
+|-
+| &lt;span style="color:orange"&gt;16 || &lt;span style="color:orange"&gt;106.35
+|-
+| &lt;span style="color:orange"&gt;17 || &lt;span style="color:orange"&gt;103.26
+|-
+| &lt;span style="color:purple"&gt;18 || &lt;span style="color:purple"&gt;100.25
+|-
+| &lt;span style="color:purple"&gt;19 || &lt;span style="color:purple"&gt;97.33
+|-
+| &lt;span style="color:purple"&gt;20 || &lt;span style="color:purple"&gt;94.49
+|-
+| &lt;span style="color:red"&gt;21 || &lt;span style="color:red"&gt;91.74
+|-
+| &lt;span style="color:purple"&gt;22 || &lt;span style="color:purple"&gt;89.07
+|-
+| &lt;span style="color:purple"&gt;23 || &lt;span style="color:purple"&gt;86.48
+|-
+| &lt;span style="color:purple"&gt;24 || &lt;span style="color:purple"&gt;83.96
+|-
+| &lt;span style="color:purple"&gt;25 || &lt;span style="color:purple"&gt;81.51
+|}	
+
+===Starf Rates===
+
+Planting Starf Berries increase the Shiny Rate, below is a Planting Table and similar Minutes/Shiny Table.
+
+====Planting Formation====
+{| class="wikitable" style="text-align: center;"
+|+ Farm - '''''Shiny Bonus: 1.45x'''''
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Starf.png|30px]]&lt;br&gt;[[Starf]] || style="width: 40px;" | [[File:Starf.png|30px]]&lt;br&gt;[[Starf]] || style="width: 40px;" | [[File:Starf.png|30px]]&lt;br&gt;[[Starf]] || style="width: 40px;" | [[File:Starf.png|30px]]&lt;br&gt;[[Starf]] || style="width: 40px;" | [[File:Starf.png|30px]]&lt;br&gt;[[Starf]]
+|- style="height: 50px;"
+| [[File:Starf.png|30px]]&lt;br&gt;[[Starf]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf]]
+|- style="height: 50px;"
+| [[File:Starf.png|30px]]&lt;br&gt;[[Starf]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf]]
+|- style="height: 50px;"
+| [[File:Starf.png|30px]]&lt;br&gt;[[Starf]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf]]
+|- style="height: 50px;"
+| [[File:Starf.png|30px]]&lt;br&gt;[[Starf]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf]]
+|}
+
+====Rate Table====
+{| class="wikitable sortable collapsible"
+! Starf Berries Planted !! Minutes/Shiny
+|-
+| &lt;span style="color:green"&gt; 0 || &lt;span style="color:green"&gt;170.67
+|-
+| &lt;span style="color:green"&gt;1 || &lt;span style="color:green"&gt;168.14
+|-
+| &lt;span style="color:green"&gt;2 || &lt;span style="color:green"&gt;165.66
+|-
+| &lt;span style="color:green"&gt;3 || &lt;span style="color:green"&gt;163.21
+|-
+| &lt;span style="color:green"&gt;4 || &lt;span style="color:green"&gt;160.80
+|-
+| &lt;span style="color:green"&gt;5 || &lt;span style="color:green"&gt;158.42
+|-
+| &lt;span style="color:green"&gt;6 || &lt;span style="color:green"&gt;156.08
+|-
+| &lt;span style="color:green"&gt;7 || &lt;span style="color:green"&gt;153.78
+|-
+| &lt;span style="color:green"&gt;8 || &lt;span style="color:green"&gt;151.50
+|-
+| &lt;span style="color:green"&gt;9 || &lt;span style="color:green"&gt;149.26
+|-
+| &lt;span style="color:green"&gt;10 || &lt;span style="color:green"&gt;147.06
+|-
+| &lt;span style="color:green"&gt;11 || &lt;span style="color:green"&gt;144.88
+|-
+| &lt;span style="color:green"&gt;12 || &lt;span style="color:green"&gt;142.74
+|-
+| &lt;span style="color:green"&gt;13 || &lt;span style="color:green"&gt;140.63
+|-
+| &lt;span style="color:green"&gt;14 || &lt;span style="color:green"&gt;138.56
+|-
+| &lt;span style="color:green"&gt;15 || &lt;span style="color:green"&gt;136.51
+|-
+| &lt;span style="color:green"&gt;16 || &lt;span style="color:green"&gt;134.49
+|-
+| &lt;span style="color:green"&gt;17 || &lt;span style="color:green"&gt;132.50
+|-
+| &lt;span style="color:green"&gt;18 || &lt;span style="color:green"&gt;130.54
+|-
+| &lt;span style="color:green"&gt;19 || &lt;span style="color:green"&gt;128.62
+|-
+| &lt;span style="color:green"&gt;20 || &lt;span style="color:green"&gt;126.71
+|-
+| &lt;span style="color:green"&gt;21 || &lt;span style="color:green"&gt;124.84
+|-
+| &lt;span style="color:green"&gt;22 || &lt;span style="color:green"&gt;123.00
+|-
+| &lt;span style="color:green"&gt;23 || &lt;span style="color:green"&gt;121.18
+|-
+| &lt;span style="color:green"&gt;24 || &lt;span style="color:green"&gt;119.39
+|-
+| &lt;span style="color:green"&gt;25 || &lt;span style="color:green"&gt;117.62
+|}	
+
+===Starf + Chople Rates===
+
+Planting Starf and Chople Berries together to increase the Shiny Rate and Egg Steps Gained at the same time can yield even more efficient rates of Minutes/Shiny. Below is a Planting Table of the most efficient setup, and a Minutes/Shiny Table of the other potential setups. &lt;span style="color:green"&gt; Green &lt;/span style&gt; rates can be achieved through planting strategies based on the one below, &lt;span style="color:purple"&gt; Purple &lt;/span style&gt; rates have no consistent planting strategy yet.
+
+====Planting Formation====
+{| class="wikitable" style="text-align: center;"
+|+ Farm - '''''Shiny Bonus: 1.45x'''''
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Chople.png|30px]]&lt;br&gt;[[Chople]] || style="width: 40px;" | [[File:Chople.png|30px]]&lt;br&gt;[[Chople]] || style="width: 40px;" | [[File:Chople.png|30px]]&lt;br&gt;[[Chople]] || style="width: 40px;" | [[File:Chople.png|30px]]&lt;br&gt;[[Chople]] || style="width: 40px;" | [[File:Chople.png|30px]]&lt;br&gt;[[Chople]]
+|- style="height: 50px;"
+| [[File:Starf.png|30px]]&lt;br&gt;[[Starf]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf]]
+|- style="height: 50px;"
+| [[File:Chople.png|30px]]&lt;br&gt;[[Chople]] || [[File:Chople.png|30px]]&lt;br&gt;[[Chople]] || [[File:Chople.png|30px]]&lt;br&gt;[[Chople]] || [[File:Chople.png|30px]]&lt;br&gt;[[Chople]] || [[File:Chople.png|30px]]&lt;br&gt;[[Chople]]
+|- style="height: 50px;"
+| [[File:Starf.png|30px]]&lt;br&gt;[[Starf]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf]]
+|- style="height: 50px;"
+| [[File:Chople.png|30px]]&lt;br&gt;[[Chople]] || [[File:Chople.png|30px]]&lt;br&gt;[[Chople]] || [[File:Chople.png|30px]]&lt;br&gt;[[Chople]] || [[File:Chople.png|30px]]&lt;br&gt;[[Chople]] || [[File:Chople.png|30px]]&lt;br&gt;[[Chople]]
+|}
+
+====Rate Table====
+{| class="wikitable sortable collapsible"
+! Chople Berries Planted !! Starf Berries Planted !! Minutes/Shiny
+|-
+| &lt;span style="color:green"&gt; 0 || &lt;span style="color:green"&gt; 0 || &lt;span style="color:green"&gt;170.67
+|-
+| &lt;span style="color:green"&gt;1 || &lt;span style="color:green"&gt; 24 || &lt;span style="color:green"&gt;115.91
+|-
+| &lt;span style="color:green"&gt;2 || &lt;span style="color:green"&gt; 23 || &lt;span style="color:green"&gt;114.22
+
+|-
+| &lt;span style="color:green"&gt;3 || &lt;span style="color:green"&gt; 22 || &lt;span style="color:green"&gt;112.56
+|-
+| &lt;span style="color:green"&gt;4 || &lt;span style="color:green"&gt; 21 || &lt;span style="color:green"&gt;110.92
+|-
+| &lt;span style="color:green"&gt;5 || &lt;span style="color:green"&gt; 20 || &lt;span style="color:green"&gt;109.31
+|-
+| &lt;span style="color:green"&gt;6 || &lt;span style="color:green"&gt; 19 || &lt;span style="color:green"&gt;107.71
+|-
+| &lt;span style="color:green"&gt;7 || &lt;span style="color:green"&gt; 18 || &lt;span style="color:green"&gt;106.14
+|-
+| &lt;span style="color:green"&gt;8 || &lt;span style="color:green"&gt; 17 || &lt;span style="color:green"&gt;104.60
+|-
+| &lt;span style="color:green"&gt;9 || &lt;span style="color:green"&gt; 16 || &lt;span style="color:green"&gt;103.08
+|-
+| &lt;span style="color:green"&gt;10 || &lt;span style="color:green"&gt; 15 || &lt;span style="color:green"&gt;101.57
+|-
+| &lt;span style="color:green"&gt;11 || &lt;span style="color:green"&gt; 14 || &lt;span style="color:green"&gt;100.10
+|-
+| &lt;span style="color:green"&gt;12 || &lt;span style="color:green"&gt; 13 || &lt;span style="color:green"&gt;98.64
+|-
+| &lt;span style="color:green"&gt;13 || &lt;span style="color:green"&gt; 12 || &lt;span style="color:green"&gt;97.20
+|-
+| &lt;span style="color:green"&gt;14 || &lt;span style="color:green"&gt; 11 || &lt;span style="color:green"&gt;95.79
+|-
+| &lt;span style="color:green"&gt;15 || &lt;span style="color:green"&gt; 10 || &lt;span style="color:green"&gt;94.39
+|-
+| &lt;span style="color:purple"&gt;16 || &lt;span style="color:purple"&gt; 9 || &lt;span style="color:purple"&gt;93.02
+|-
+| &lt;span style="color:purple"&gt;17 || &lt;span style="color:purple"&gt; 8 || &lt;span style="color:purple"&gt;91.66
+|-
+| &lt;span style="color:purple"&gt;18 || &lt;span style="color:purple"&gt; 7 || &lt;span style="color:purple"&gt;90.33
+|-
+| &lt;span style="color:purple"&gt;19 || &lt;span style="color:purple"&gt; 6 || &lt;span style="color:purple"&gt;89.01
+|-
+| &lt;span style="color:purple"&gt;20 || &lt;span style="color:purple"&gt; 5 || &lt;span style="color:purple"&gt;87.72
+|-
+| &lt;span style="color:purple"&gt;21 || &lt;span style="color:purple"&gt; 4 || &lt;span style="color:purple"&gt;86.44
+|-
+| &lt;span style="color:purple"&gt;22 || &lt;span style="color:purple"&gt; 3 || &lt;span style="color:purple"&gt;85.18
+|-
+| &lt;span style="color:purple"&gt;23 || &lt;span style="color:purple"&gt; 2 || &lt;span style="color:purple"&gt;83.94
+|-
+| &lt;span style="color:purple"&gt;24 || &lt;span style="color:purple"&gt; 1 || &lt;span style="color:purple"&gt;82.72
+|}
+
+=Trivia=
+Shinies as of version 0.3.0 increase click damage at a 150% rate compared to normal Pokémon.
+
+[[Category:Shinies]]</text>
+    <contributor>
+      <username>Liczale</username>
+      <id>20</id>
+    </contributor>
+    <comment>Protected "[[Shiny Chance]]": Protecting the whole wiki lets go ([Edit=Allow only autoconfirmed users] (indefinite) [Move=Allow only autoconfirmed users] (indefinite) [Delete=Allow only autoconfirmed users] (indefinite) [Protect=Allow only autoconfirmed users] (indefinite))</comment>
+    <model>wikitext</model>
+    <parentid>1673</parentid>
+    <sha1>565486d61d7d123f3b3a407f1f602a97139804cd</sha1>
+  </revision>
+</page>

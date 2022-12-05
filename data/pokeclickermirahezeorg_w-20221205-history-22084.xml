@@ -1,0 +1,19 @@
+<page>
+  <title>Template:Sandbox other</title>
+  <ns>10</ns>
+  <id>972</id>
+  <revision>
+    <id>9391</id>
+    <timestamp>2020-12-14T04:05:55Z</timestamp>
+    <text bytes="260" space="preserve">{{#if:{{#ifeq:{{#invoke:String|sublength|s={{SUBPAGENAME}}|i=0|len=7}}|sandbox|1}}{{#ifeq:{{SUBPAGENAME}}|doc|1}}{{#invoke:String|match|{{PAGENAME}}|/sandbox/styles.css$|plain=false|nomatch=}}|{{{1|}}}|{{{2|}}}}}&lt;!--
+--&gt;&lt;noinclude&gt;{{documentation}}&lt;/noinclude&gt;</text>
+    <contributor>
+      <username>Liczale</username>
+      <id>20</id>
+    </contributor>
+    <comment>1 revision imported: Here you go Cate &lt;3</comment>
+    <model>wikitext</model>
+    <parentid>9390</parentid>
+    <sha1>91e4ae891d6b791615152c1fbc971414961ba872</sha1>
+  </revision>
+</page>

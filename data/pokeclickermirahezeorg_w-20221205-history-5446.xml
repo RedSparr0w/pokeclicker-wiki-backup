@@ -1,0 +1,22 @@
+<page>
+  <title>Translations:Pokérus/7/en</title>
+  <ns>0</ns>
+  <id>4536</id>
+  <revision>
+    <id>15781</id>
+    <timestamp>2022-07-27T05:41:11Z</timestamp>
+    <text bytes="334" space="preserve">====EV Formulas====
+'''When a Pokémon has fewer than 50 EVs:''' &lt;br&gt;
+&lt;math&gt;\colorbox{White}{$ \text{EV Damage Multiplier} = 1 + (\text{EV} / 100)$}&lt;/math&gt; &lt;br&gt;&lt;br&gt;
+'''When a Pokémon has greater than 50 EVs:''' &lt;br&gt;
+&lt;math&gt;\colorbox{White}{$ \text{EV Damage Multiplier} = 1 + \text{Min}(1, ((\text{EV} - 30)^{0.075} - 0.75 ))$}&lt;/math&gt;</text>
+    <contributor>
+      <username>FuzzyBot</username>
+      <id>133</id>
+    </contributor>
+    <comment>Importing a new version from external source</comment>
+    <model>wikitext</model>
+    <parentid>15780</parentid>
+    <sha1>c84a3dac3972202baa8df176eac4fc920a7c6ef6</sha1>
+  </revision>
+</page>

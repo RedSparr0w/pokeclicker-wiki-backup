@@ -1,0 +1,112 @@
+<page>
+  <title>Pinap</title>
+  <ns>0</ns>
+  <id>534</id>
+  <revision>
+    <id>6680</id>
+    <timestamp>2021-03-30T21:52:19Z</timestamp>
+    <text bytes="3410" space="preserve">{{Infobox Berry
+|name    = #14 Pinap
+|image   = [[File:Pinap.png]]
+|caption = It is said that when the sour skin is peeled, this spicy Berry can be crushed to make medicine.
+|growtime  = 4m 0s
+|harvest = 13 berries
+|replant = 40%
+|points = 35
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*10 spicy 
+*0 dry
+*0 sweet
+*0 bitter
+*10 sour
+}}
+
+'''Pinap''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by surrounding an empty plot with at least 1 [[Sitrus]] and at least 1 [[Aspear]].
+
+== Growth Tables ==
+=== Growth Stages ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+!!! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 30 secs || 1 min || 3 mins || 4 mins - 8 mins
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:PinapTreeTaller.png|50px]] || &lt;center&gt;[[File:PinapTreeBloom.png|50px]] || &lt;center&gt; [[File:PinapTreeBerry.png|50px]]
+|}
+
+=== Ripening Time with Modifiers ===
+{| class="wikitable" | style="text-align: center;"
+! Modifier !! Ripe-Wither Time
+|-
+! None
+| 4 mins -&lt;br&gt; 8 mins
+|-
+! Sprayduck
+| 2 mins 40 secs -&lt;br&gt; 5 mins 20 secs
+|}
+
+== Flow Chart ==
+[[File:Pinap_Flow_Chart.png|200px]]
+&lt;br&gt;
+
+== Mutation Strategy ==
+=== Possible Planting Formations ===
+
+You can fill your farm in the following way to obtain Pinap berries.
+
+{| class="wikitable" style="text-align: center;"
+|+ Farm
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Sitrus.png|30px]] [[Sitrus]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Sitrus.png|30px]] [[Sitrus]] || style="width: 40px; background-color:#9C7D98;" |
+|-
+| style="background-color:#9C7D98;" | || [[File:Aspear.png|30px]] [[Aspear]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Aspear.png|30px]] [[Aspear]] 
+|- style="height: 50px;"
+| style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | 
+|-
+| [[File:Sitrus.png|30px]] [[Sitrus]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Sitrus.png|30px]] [[Sitrus]] || style="background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Aspear.png|30px]] [[Aspear]] ||  style="background-color:#9C7D98;" | ||  style="background-color:#9C7D98;" | || [[File:Aspear.png|30px]] [[Aspear]] 
+|}
+
+=== Timing Table ===
+{| class="wikitable" | style="text-align: center;"
+|+ ''All planting times use the time-to-ripe remaining of the first planted berry for subsequent planting times''
+! Berry !! Planting Time with &lt;br&gt; No Modifier !! Planting Time with &lt;br&gt; Mulch or Sprayduck || Planting Time with &lt;br&gt;  Mulch &amp; Sprayduck
+|-
+| [[Sitrus]] || - || - || -
+|-
+| [[Aspear]] || 2 mins until ripe || 1 min 20 secs || Not Practical
+|-
+|}
+
+==Uses==
+===Mutations===
+
+Pinap berries can be used to mutate the following berries.
+
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Qualot.png|20px]] [[Qualot]] || [[File:Mago.png|20px]] [[Mago]]
+|-
+| [[File:Nomel.png|20px]] [[Nomel]] || -
+|-
+| [[File:Wacan.png|20px]] [[Wacan]] || [[File:Iapapa.png|20px]] [[Iapapa]] &lt;br&gt; [[File:Qualot.png|20px]] [[Qualot]] &lt;br&gt; [[File:Grepa.png|20px]] [[Grepa]]
+|-
+|}
+
+&lt;br&gt;
+
+{{Berries}}</text>
+    <contributor>
+      <username>HannahTheFlabebe</username>
+      <id>47</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>6679</parentid>
+    <sha1>560b938c6200147e39bfd28db01817111fecd93b</sha1>
+  </revision>
+</page>

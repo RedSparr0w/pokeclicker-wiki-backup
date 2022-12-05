@@ -1,0 +1,53 @@
+<page>
+  <title>Translations:Pokérus/11/fr</title>
+  <ns>0</ns>
+  <id>7148</id>
+  <revision>
+    <id>20548</id>
+    <timestamp>2022-08-19T15:27:19Z</timestamp>
+    <text bytes="704" space="preserve">{| class="wikitable"
+! Stade || Description
+|-
+| Rien || Etat de base. Le Pokémon peut contracter le Pokérus. Le Pokémon ne peut gagner d'EVs.
+|-
+| [[File:Pokérus (infected).png|20px]] Infecté || Le Pokémon a contracté le Pokérus, mais doit encore éclore une fois après la contraction du virus. Le Pokémon ne peut pas gagner d'EV.
+|-
+| [[File:Pokérus (contagious).png|20px]] Contagieux || Le Pokémon a contracté le Pokérus, et est capable de le transmettre. Le Pokémon peut gagner des EV.
+|-
+| [[File:Pokérus (cured).png|20px]] Soigné|| Le Pokémon a contracté le Pokérus et peut le transmettre. Le Pokémon peut gagner des EV et devient Soigné s'il a accumulé au moins 50 EV.
+|-
+|}</text>
+    <contributor>
+      <username>Razikd</username>
+      <id>33</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>20547</parentid>
+    <sha1>e90641623e7a16db16d8bec8773ee0042c4f6133</sha1>
+  </revision>
+  <revision>
+    <id>20547</id>
+    <timestamp>2022-08-19T15:23:17Z</timestamp>
+    <text bytes="691" space="preserve">{| class="wikitable"
+! Étape|| Description
+|-
+| Rien || Etat de base. Le Pokémon peut contracter le Pokérus. Le Pokémon ne peut gagner d'EVs.
+|-
+| [[File:Pokérus (infected).png|20px]] Infecté || Le Pokémon a contracté le Pokérus, mais doit encore éclore une fois après la contraction du virus. Le Pokémon ne peut pas gagner d'EV.
+|-
+| [[File:Pokérus (contagious).png|20px]] Contagieux || Le Pokémon a contracté le Pokérus, et est capable de le transmettre. Le Pokémon peut gagner des EV.
+|-
+| [[File:Pokérus (cured).png|20px]] Soigné|| Le Pokémon a contracté le Pokérus, et peut le transmettre. Le Pokémon peut gagner des EV, et a aussi accumulé au moins 50 EV.
+|-
+|}</text>
+    <contributor>
+      <username>Razikd</username>
+      <id>33</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>20546</parentid>
+    <sha1>1794757c041f4cab7b46f13cc8c1ef438555edc9</sha1>
+  </revision>
+</page>

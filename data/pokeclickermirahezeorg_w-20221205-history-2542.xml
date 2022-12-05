@@ -1,0 +1,36 @@
+<page>
+  <title>Translations:Shiny Chance/3/fr</title>
+  <ns>0</ns>
+  <id>5510</id>
+  <revision>
+    <id>18302</id>
+    <timestamp>2022-08-05T21:49:47Z</timestamp>
+    <text bytes="754" space="preserve">{| class="wikitable sortable"
+|-
+! Lieux / Méthode !! Chance (sans Charme Chroma) !! Chance (Charme Chroma niveau 5) !! Chance (Charme Chroma niveau 5 and Ferme remplie baies Frista)
+|-
+| [[Regions|Rencontre de Route]] || 1 / 8192 || 1 / 4096 || 1 / 2823
+|-
+| [[Dungeons|Rencontre de Donjons]]|| 1 / 4096 || 1 / 2048 || 1 / 1412
+|-
+| [[Evolution Items|Objets d'évolution : Evolutions par montée de niveau]] || rowspan = 2 | 1 / 2048 || rowspan = 2 | 1 / 1024 || rowspan = 2 | 1 / 706
+|-
+| [[Safari Zone|Rencontre au Parc Safari]]
+|-
+| [[Pokemon Day Care|Éclore un œuf]] || rowspan = 3 | 1 / 1024 || rowspan = 3 | 1 / 512 || rowspan = 3 | 1 / 353
+|-
+| [[Berries#Wandering Pokémon|Pokémon Errants]]
+|-
+| [[Shops|Pokémon de boutique achetés]]
+|-
+|}</text>
+    <contributor>
+      <username>PetroleVB</username>
+      <id>36</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>18301</parentid>
+    <sha1>d2dc339c09047793ab2be097f6f8ca6101923244</sha1>
+  </revision>
+</page>

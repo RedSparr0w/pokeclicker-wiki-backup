@@ -1,0 +1,57 @@
+<page>
+  <title>Repeatball</title>
+  <ns>0</ns>
+  <id>3599</id>
+  <revision>
+    <id>13559</id>
+    <timestamp>2022-07-22T16:45:27Z</timestamp>
+    <text bytes="1150" space="preserve">{{Infobox Pokéball
+|name       = Repeatball
+|image      = [[File:Repeatball.png]]
+|caption    = In-Game image of the ''Repeatball''.
+|price      = Variable
+|catchTime  = 1s
+|catchRate = Variable (Increased catch rate with more Pokémon catches)
+|location   = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+}}
+
+==Description==
+
+The '''Repeatball''' is a type of [[Pokéballs|Pokéball]]. It automatically tries to catch a wild Pokémon after defeating it if is the highest type of Pokéball active and there is a remaining supply in the Pokéball selector.
+
+==Details==
+
+A specialized Pokéball to capture Pokémon with, it provides an increased catch rate the more a Pokémon is captured.  Catching a Pokémon with the Repeatball gains 5x more EV than normal.
+
+==Rates==
+
+{| class="wikitable"
+|+ Repeatball Catch Rates
+|-
+! Pokémon Captures !! Catch chance (+%)
+|-
+| 0 || 0 (Equal to Pokéball)
+|-
+| 159 || 5 (Equal to Greatball)
+|-
+| 224 || 10 (Equal to Ultraball)
+|-
+| 274 || 15
+|}
+
+[[File:Repeatball_Catch_Rate_Graph.png|X-axis: Pokémon Captures&lt;br&gt;Y-axis: Catch rate|200px]]
+
+==Acquisition==
+&lt;br&gt;{{Pokéballs}}&lt;br&gt;
+
+[[Category:Items]] [[Category:Pokéballs]]</text>
+    <contributor>
+      <username>Dragonkin550</username>
+      <id>27</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>13558</parentid>
+    <sha1>770359db03e16a8d992b1c3254e52754f352aa1b</sha1>
+  </revision>
+</page>

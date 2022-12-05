@@ -1,0 +1,83 @@
+<page>
+  <title>Lake Valor</title>
+  <ns>0</ns>
+  <id>434</id>
+  <revision>
+    <id>5828</id>
+    <timestamp>2022-04-18T23:44:52Z</timestamp>
+    <text bytes="2401" space="preserve">{{Infobox dungeon
+|name    = Lake Valor
+|image   = [[File:Lake Valor.png|300px]]
+|caption = A bird's-eye view of Lake Valor.
+|tokens  = 69,500
+|location = North of Route 213.
+}}
+'''Lake Valor''' is a [[Dungeons|dungeon]] in [[Sinnoh]]. It initially has 64 tiles arranged in an 8x8 square, including 8 chest tiles, 19 non-boss encounter tiles, and 1 boss encounter tile. Wild Encounters have 1,015,000 HP.
+
+== Encounter Tables ==
+
+===Wild Encounters===
+
+{| class="wikitable"
+|-
+! Wild Pokémon !! colspan=2|Trainers
+|-
+! Encounter !! Trainer !! Pokémon Team
+|-
+| [[File:Psyduck.png|40px]] Psyduck || rowspan=2|[[File:Galactic_Grunt_(female).png|40px]] Galactic Grunt || rowspan=2| [[File:Glameow.png|40px]] Glameow, [[File:Murkrow.png|40px]] Murkrow
+|-
+| [[File:Golduck.png|40px]] Golduck 
+|-
+| [[File:Goldeen.png|40px]] Goldeen || rowspan=2|[[File:Galactic_Grunt_(male).png|40px]] Galactic Grunt || rowspan=2|[[File:Golbat.png|40px]] Golbat
+|-
+| [[File:Magikarp.png|40px]] Magikarp 
+|-
+| [[File:Staravia.png|40px]] Staravia || rowspan=2|[[File:Galactic_Grunt_(male).png|40px]] Galactic Grunt || rowspan=2| [[File:Croagunk.png|40px]] Croagunk, [[File:Houndour.png|40px]] Houndour, [[File:Stunky.png|40px]] Stunky, [[File:Glameow.png|40px]] Glameow
+|-
+| [[File:Bibarel.png|40px]] Bibarel
+|}
+
+===Boss Encounters===
+
+{| class="wikitable"
+|-
+! Wild Pokémon !! Base Health !! Boss Trainer !! Pokémon Team !! Base Health
+|-
+| [[File:Azelf.png|40px]] '''Azelf*''' || &lt;center&gt;10,060,000  || [[File:Commander_(saturn).png|40px]] Commander Saturn || [[File:Golbat.png|40px]] Golbat, [[File:Bronzor.png|40px]] Bronzor, [[File:Toxicroak.png|40px]] Toxicroak || &lt;center&gt;1,533,334
+|}
+'''*Must have cleared Distortion World at least once to unlock Azelf.'''
+
+==Items==
+
+{| class="wikitable"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears !! Requirement
+|-
+| {{Bag2|Token Collector}} || 4 || 65.54% || 65.01% || 62.65% || rowspan=4|&lt;center&gt;N/A
+|-
+| {{Bag2|Sitrus}} || 3.75 || 33.30% || 33.10% || 32.14% 
+|-
+| {{Bag2|Mind Plate}} || 2.5 || 1.13% || 1.25% || 2.14% 
+|-
+| {{Bag2|Electric Egg}} || 1 || 0.02% || 0.26% || 1.21% 
+|-
+| {{Bag2|Kebia}} || 1 || 0.00% || 0.26% || 1.21% || &lt;center&gt;Clear 50 Times
+|-
+| {{Bag2|Chople}} || 1 || 0.00% || 0.00% || 1.21% || &lt;center&gt;Clear 150 Times
+|-
+| {{Bag2|Thunder Stone}} || 0 || 0.00% || 0.13% || 0.61% || &lt;center&gt;N/A
+|}
+
+{{Dungeons}}
+
+[[Category:Dungeons]]</text>
+    <contributor>
+      <username>Slk</username>
+      <id>6</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>5827</parentid>
+    <sha1>41d492d0d556f4629558c3d7d477cd7e406def5c</sha1>
+  </revision>
+</page>

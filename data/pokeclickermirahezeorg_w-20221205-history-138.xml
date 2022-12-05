@@ -1,0 +1,154 @@
+<page>
+  <title>Passho</title>
+  <ns>0</ns>
+  <id>625</id>
+  <revision>
+    <id>25154</id>
+    <timestamp>2022-12-03T19:48:37Z</timestamp>
+    <text bytes="5645" space="preserve">&lt;languages/&gt;
+&lt;translate&gt;
+&lt;!--T:1--&gt;
+{{Infobox Berry
+|name    = #38 Passho
+|image   = [[File:Passho.png]]
+|caption = This Berry's flesh is dotted with countless tiny bubbles of air that keep it afloat in water. This Berry promotes the fruiting of nearby Berry plants.
+|growtime  =6h 0m 0s
+|harvest = 22 berries
+|replant = 5%
+|mutation = 0.01%
+|points = 1,300
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 spicy 
+*15 dry
+*0 sweet
+*10 bitter
+*0 sour
+}}
+
+&lt;!--T:2--&gt;
+'''Passho''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by surrounding an empty plot with at least 1 [[Oran]], at least 1 [[Chesto]], at least 1 [[Kelpsy]] and at least 1 [[Coba]].
+
+&lt;!--T:3--&gt;
+When a Passho berry is not surrounded by at least one other berry, there is a chance it may mutate to a [[Yache]]. On obtaining your first Passho berry, plant a berry ([[Kasib]] is a good choice) around it to avoid it unintentionally mutating and then needing to reobtain it.
+
+== Growth Tables == &lt;!--T:4--&gt;
+=== Growth Stages ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+!!! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 8 mins 10 secs || 1 hour || 3 hours || 6 hours - 12 hours
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:PasshoTreeTaller.png|50px]] || &lt;center&gt; [[File:PasshoTreeBloom.png|50px]] || &lt;center&gt; [[File:PasshoTreeBerry.png|50px]]
+|-
+! Aura (harvest amount)
+| || &lt;center&gt; x1.1 || &lt;center&gt; x1.2 || &lt;center&gt; x1.3
+|}
+
+=== Ripening Time with Modifiers  === &lt;!--T:5--&gt;
+{| class="wikitable" | style="text-align: center;"
+! Modifier !! Ripe-Wither Time !! Boost Mulch Needed to Ripen
+|-
+! None
+| 6 hours -&lt;br&gt; 12 hours || ---
+|-
+! Mulch or Sprayduck
+| 4 hours -&lt;br&gt; 8 hours || 48 mulch
+|-
+! Mulch &amp; Sprayduck
+| 2 hours 40 mins -&lt;br&gt; 5 hours 20 mins || 32 mulch
+|}
+
+== Flow Chart == &lt;!--T:6--&gt;
+[[File:Passho_Flow_Chart_Updated.png|350px]]
+&lt;br&gt;
+
+== Mutation Strategy == &lt;!--T:7--&gt;
+=== Possible Planting Formations ===
+
+&lt;!--T:8--&gt;
+You can fill your farm in the following way to obtain Passho berries. Purple squares indicate where mutations can occur.
+
+&lt;!--T:9--&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Base Formation
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Oran.png|30px]]&lt;br&gt;[[Oran]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Kelpsy.png|30px]]&lt;br&gt;[[Kelpsy]]
+|-
+| [[File:Chesto.png|30px]]&lt;br&gt;[[Chesto]] || style="background-color:#9C7D98;" | || [[File:Coba.png|30px]]&lt;br&gt;[[Coba]]
+|}
+
+&lt;!--T:10--&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Optimized Planting Formation
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Oran.png|30px]]&lt;br&gt;[[Oran]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Kelpsy.png|30px]]&lt;br&gt;[[Kelpsy]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Oran.png|30px]]&lt;br&gt;[[Oran]]
+|-
+| [[File:Chesto.png|30px]]&lt;br&gt;[[Chesto]] || style="background-color:#9C7D98;" | || [[File:Coba.png|30px]]&lt;br&gt;[[Coba]] || style="background-color:#9C7D98;" | || [[File:Chesto.png|30px]]&lt;br&gt;[[Chesto]]
+|- style="height: 50px;"
+| || style="background-color:#9C7D98;" | || || style="background-color:#9C7D98;" | || 
+|-
+| [[File:Kelpsy.png|30px]]&lt;br&gt;[[Kelpsy]] || style="background-color:#9C7D98;" | || [[File:Oran.png|30px]]&lt;br&gt;[[Oran]] || style="background-color:#9C7D98;" | || [[File:Kelpsy.png|30px]]&lt;br&gt;[[Kelpsy]] 
+|-
+| [[File:Coba.png|30px]]&lt;br&gt;[[Coba]] || style="background-color:#9C7D98;" | || [[File:Chesto.png|30px]]&lt;br&gt;[[Chesto]] || style="background-color:#9C7D98;" | || [[File:Coba.png|30px]]&lt;br&gt;[[Coba]]
+|}
+
+=== Timing Table === &lt;!--T:11--&gt;
+{| class="wikitable"| style="text-align: center;"
+|+ ''All planting times use the time-to-ripe remaining of the first planted berry for subsequent planting times''
+! Berry !! Planting Time with &lt;br&gt; No Modifier !! Planting Time with &lt;br&gt; Mulch or Sprayduck || Planting Time with &lt;br&gt;  Mulch &amp; Sprayduck
+|-
+| [[Coba]] || - || - || -
+|-
+| [[Kelpsy]] || 1 hour 40 mins until ripe || 1 hour 6 mins 40  secs until ripe || 44 mins 27 secs until ripe
+|-
+| [[Oran]] || 5 mins until ripe || 3 mins 20 secs until ripe || Not Practical
+|-
+| [[Chesto]] || 40 secs until ripe || 27 secs until ripe || Not Practical
+|}
+
+==Uses== &lt;!--T:12--&gt;
+===Mutations===
+
+&lt;!--T:13--&gt;
+Passho berries can be used to mutate the following berries.
+
+&lt;!--T:14--&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Yache.png|20px]] [[Yache]] || -
+|-
+| [[File:Haban.png|20px]] [[Haban]] || [[File:Occa.png|20px]] [[Occa]] &lt;br&gt; [[File:Wacan.png|20px]] [[Wacan]] &lt;br&gt; [[File:Rindo.png|20px]] [[Rindo]]
+|-
+| [[File:Liechi.png|20px]] [[Liechi]] || -
+|-
+| [[File:Petaya.png|20px]] [[Petaya]] || [[File:Occa.png|20px]] [[Occa]] [[File:Wacan.png|20px]] [[Wacan]] &lt;br&gt; [[File:Rindo.png|20px]] [[Rindo]] [[File:Yache.png|20px]] [[Yache]] &lt;br&gt; [[File:Chople.png|20px]] [[Chople]] [[File:Kebia.png|20px]] [[Kebia]] &lt;br&gt; [[File:Shuca.png|20px]] [[Shuca]] [[File:Coba.png|20px]] [[Coba]] &lt;br&gt; [[File:Payapa.png|20px]] [[Payapa]] [[File:Tanga.png|20px]] [[Tanga]] &lt;br&gt; [[File:Charti.png|20px]] [[Charti]] [[File:Kasib.png|20px]] [[Kasib]] &lt;br&gt; [[File:Haban.png|20px]] [[Haban]] [[File:Colbur.png|20px]] [[Colbur]] &lt;br&gt; [[File:Babiri.png|20px]] [[Babiri]] [[File:Chilan.png|20px]] [[Chilan]] &lt;br&gt; [[File:Roseli.png|20px]] [[Roseli]]
+|-
+|}
+
+==Using Passho== &lt;!--T:15--&gt;
+Farm setups using Passho can be found here:
+* [[Farming Setups|Various useful Farming Setups]]
+
+&lt;!--T:16--&gt;
+&lt;br&gt;
+
+&lt;!--T:17--&gt;
+{{Berries}}
+
+&lt;!--T:18--&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/translate&gt;</text>
+    <contributor>
+      <username>DraKay</username>
+      <id>18</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>7151</parentid>
+    <sha1>71471f8f053199c71aca4e7162a22d3e7129ddbd</sha1>
+  </revision>
+</page>

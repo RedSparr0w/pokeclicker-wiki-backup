@@ -1,0 +1,60 @@
+<page>
+  <title>Translations:Template:Infobox Berry/1/fr</title>
+  <ns>0</ns>
+  <id>7415</id>
+  <revision>
+    <id>21080</id>
+    <timestamp>2022-07-30T11:28:00Z</timestamp>
+    <text bytes="1716" space="preserve">{|class="infobox bordered" style="float:right; width:264px; font-size:90%; text-align:left; border:2px solid #404040; padding:3px;" cellpadding="3"
+|- 
+!colspan="2" style="font-size:110%; text-align:center; background-color:#{{Berries color dark}}; color:#FFF;"|{{{name}}}
+|-
+{{#if:{{{image&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} colspan="2" style="text-align:center;background-color:#FFF;" {{!}}{{{image}}}&lt;br /&gt;{{#if:{{{caption|}}}|&lt;br /&gt;{{{caption}}}}}
+{{!}}-
+}}
+{{#if:{{{growtime&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#{{Berries color light}}; color:#000;" {{!}}'''Temps de croissance'''
+{{!}}{{{growtime}}}
+{{!}}-
+}}
+{{#if:{{{harvest&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#{{Berries color light}}; color:#000;" {{!}}'''Quantité récolté'''
+{{!}}{{{harvest}}}
+{{!}}-
+}}
+{{#if:{{{replant&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#{{Berries color light}}; color:#000;" {{!}}'''Taux de repousse'''
+{{!}}{{{replant}}}
+{{!}}-
+}}
+{{#if:{{{mutation&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#{{Berries color light}}; color:#000;" {{!}}'''Taux de mutation'''
+{{!}}{{{mutation}}}
+{{!}}-
+}}
+{{#if:{{{points&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#{{Berries color light}}; color:#000;" {{!}}'''Points de récolte gagné'''
+{{!}}{{{points}}} {{farmpoints}}
+{{!}}-
+}}
+{{#if:{{{flavor&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#{{Berries color light}}; color:#000;" {{!}}'''Saveurs'''
+{{!}}{{{flavor}}}
+{{!}}-
+}}
+{{#if:{{{helditem&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#{{Berries color light}}; color:#000;" {{!}}'''Lâchée par'''
+{{!}}{{{helditem}}}
+{{!}}-
+}}</text>
+    <contributor>
+      <username>PetroleVB</username>
+      <id>36</id>
+    </contributor>
+    <comment>1st draft at translating berry templates</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>6b4d4dbaa8b8346df41181899092625c7347a18c</sha1>
+  </revision>
+</page>

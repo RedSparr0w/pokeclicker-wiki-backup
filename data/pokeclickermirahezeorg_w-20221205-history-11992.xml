@@ -1,0 +1,57 @@
+<page>
+  <title>Payapa</title>
+  <ns>0</ns>
+  <id>627</id>
+  <revision>
+    <id>7176</id>
+    <timestamp>2020-12-12T18:24:34Z</timestamp>
+    <text bytes="1479" space="preserve">{{Infobox Berry
+|name    = Payapa
+|image   = [[File:Payapa.png]]
+|caption = This Berry is said to sense human emotions for the way it swells roundly when a person approaches. The same behavior affects nearby plants, causing additional mutations.
+|growtime  = 9h 30m 0s
+|harvest = 30 berries
+|replant = 5%
+|points = 1,900
+|flavor = {{!}} 0 {{!}} 0 {{!}} 10 {{!}} 0 {{!}} 15
+}}
+'''Payapa''' is a type of [[Berries|Berry]] that can be planted in [[Farm]]. It can be obtained by surrounding an empty plot with at least 1 [[Wiki]], at least 1 [[Bluk]], at least 1 [[Cornn]] and at least 1 [[Pamtre]].
+
+{| class="wikitable"
+|+ Harvest Stages durations
+! Seed !! Sprout !! Taller !! Bloom !! Berry
+|-
+| 0-4680s || 4680-11880s || 11880-23400s || 23400-34200s || 34200-68400s
+|-
+| [[File:AllTreeSeed.png|50px]] || [[File:AllTreeSprout.png|50px]] || [[File:PayapaTreeTaller.png|50px]] || [[File:PayapaTreeBloom.png|50px]] || [[File:PayapaTreeBerry.png|50px]]
+|}
+
+=== Possible Planting Formations ===
+
+You can fill your [[farm]] in following way to obtain Payapa berry.
+
+{| class="wikitable" style="text-align: center;"
+|+ Farm
+|-
+| style="width: 40px;" | [[Wiki]] || style="width: 40px;" | || style="width: 40px;" | [[Cornn]] || style="width: 40px;" | || style="width: 40px;" | [[Wiki]]
+|-
+| [[Bluk]] ||  || [[Pamtre]] ||  || [[Bluk]]
+|- style="height: 26px;"
+| || || || || 
+|-
+| [[Cornn]]  ||  || [[Wiki]] || || [[Cornn]] 
+|-
+| [[Pamtre]] ||  || [[Bluk]] ||  || [[Pamtre]]
+|}
+
+{{Berries}}</text>
+    <contributor>
+      <username>Claygame</username>
+      <id>22</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>7175</parentid>
+    <sha1>a789faa6b612ac99cf18ac76ea8a85472abdf26a</sha1>
+  </revision>
+</page>

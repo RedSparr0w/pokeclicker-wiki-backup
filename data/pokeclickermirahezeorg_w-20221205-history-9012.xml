@@ -1,0 +1,68 @@
+<page>
+  <title>Old Chateau</title>
+  <ns>0</ns>
+  <id>426</id>
+  <revision>
+    <id>5629</id>
+    <timestamp>2022-03-17T23:12:15Z</timestamp>
+    <text bytes="1694" space="preserve">{{Infobox dungeon
+|name    = Old Chateau
+|image   = [[File:Old Chateau.png|300px]]
+|caption = An outside view of the Old Chateau.
+|tokens  = 52,500
+|location = West of Route 205.
+}}
+The '''Old Chateau''' is a [[Dungeons|dungeon]] in [[Sinnoh]]. It initially has 64 tiles arranged in an 8x8 square, including 8 chest tiles, 19 non-boss encounter tiles, and 1 boss encounter tile.
+
+==Pokémon and Dungeon Stats==
+
+{| class="wikitable"
+|-
+! Random Encounter !! Base Health !! Boss !! Base Health
+|-
+| rowspan=2 |[[File:Gastly.png|40px]] Gastly || rowspan=6 | &lt;center&gt; 853,000 || [[File:Rotom.png|40px]] &lt;b&gt; Rotom* &lt;br&gt; *Catching Rotom unlocks its forms* || &lt;center&gt; 4,200,000
+|-
+| [[File:Rotom_(heat).png|30px]]Rotom (heat) || rowspan=5 | &lt;center&gt; 4,300,000
+|-
+| rowspan=2 |[[File:Haunter.png|40px]] Haunter || [[File:Rotom_(wash).png|30px]]Rotom (wash)
+|-
+| [[File:Rotom_(frost).png|30px]]Rotom (frost)
+|-
+| rowspan=2 |[[File:Gengar.png|40px]] Gengar || [[File:Rotom_(fan).png|30px]]Rotom (fan)
+|-
+| [[File:Rotom_(mow).png|30px]]Rotom (mow)
+|}
+
+==Items==
+
+{| class="wikitable"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears !! Requirement 
+|-
+| {{Bag3|X Click}} [[XClick|xClick]] || 4 || 47.53% || 47.19% || 45.74% || rowspan=5|&lt;center&gt;N/A
+|-
+| {{Bag3|Item Magnet} || 4} [[Item Magnet]] || 47.53% || 47.19% || 45.74% 
+|-
+| {{Bag2|Dread Plate}} || 2.75 || 1.61% || 1.69% || 1.98% 
+|-
+| {{Bag2|Spooky Plate}} || 2.75 || 1.61% || 1.69% || 1.98% 
+|-
+| {{Bag2|Zap Plate}} || 2.75 || 1.61% || 1.69% || 1.98% 
+|-
+| {{Bag2|Kasib}} || 2 || 0.00% || 0.30% || 1.34% || Clear 50 Times
+|-
+| {{Bag2|Odd Keystone}} || 1.75 || 0.11% || 0.26% || 1.23% ||&lt;center&gt;N/A
+|-
+|}
+
+[[Category:Dungeons]]</text>
+    <contributor>
+      <username>SomeonealiveQN</username>
+      <id>5</id>
+    </contributor>
+    <comment>/* Items */</comment>
+    <model>wikitext</model>
+    <parentid>5628</parentid>
+    <sha1>b928d8ab5a9d518514bc59b64e2c5fe8e94e9919</sha1>
+  </revision>
+</page>

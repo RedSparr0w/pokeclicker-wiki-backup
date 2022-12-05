@@ -1,0 +1,30 @@
+<page>
+  <title>Translations:Sprayduck/7/en</title>
+  <ns>0</ns>
+  <id>4485</id>
+  <revision>
+    <id>15723</id>
+    <timestamp>2022-07-22T16:18:02Z</timestamp>
+    <text bytes="625" space="preserve">&lt;!--  XP per Minute Calculation Logic:
+Use Minimum XP/Min from a level 0 Sprayduck, do not account for Boost Mulch. 
+Cheri berry growth time: 30 seconds
+Level 0 Sprayduck boost: x1.25 Growth Speed
+Sprayduck boosted Cheri berry growth time: 30 / 1.25 = 24 seconds
+60/24 = 2.5 harvests per minute
+Cheri Berry gives 1 point per harvest, so points per minute is 2.5*1 = 2.5.  
+Putting this into 1 equation:
+60 seconds / (30 seconds /1.25 sprayduck bonus) * berryXP
+= 60 / (24) * 1
+= 2.5
+{{ #expr: expression }} is the wiki performing the calculation itself
+round2 at the end of the expr rounds the calculation to 2 decimal places</text>
+    <contributor>
+      <username>FuzzyBot</username>
+      <id>133</id>
+    </contributor>
+    <comment>Importing a new version from external source</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>7d469142f1e649bff039070f108a09aba7554494</sha1>
+  </revision>
+</page>

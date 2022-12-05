@@ -1,0 +1,111 @@
+<page>
+  <title>Fiery Path</title>
+  <ns>0</ns>
+  <id>348</id>
+  <revision>
+    <id>5054</id>
+    <timestamp>2022-07-22T17:19:09Z</timestamp>
+    <text bytes="2299" space="preserve">{{Infobox dungeon
+|name    = Fiery Path
+|image   = [[File:Fiery Path.png|300px]]
+|caption = A map of Fiery Path.
+|tokens  = 17,000
+|location = North of Mauville City, east of Lavaridge Town.
+}}
+'''Fiery Path''' is a [[Dungeons|dungeon]] in [[Hoenn]]. It initially has 49 tiles arranged in a 7x7 square, including 7 chest tiles, 17 non-boss encounter tiles, and 1 boss encounter tile. Wild Encounters have 424,000 HP.
+
+== Encounter Tables ==
+
+===Wild Encounters===
+
+{| class="wikitable"
+|-
+! Wild Pokémon !! colspan=2|Trainers
+|-
+! Encounter !! Trainer !! Pokémon Team
+|-
+| [[File:Machop.png|40px]] Machop || colspan=2 rowspan=5|&lt;center&gt;N/A
+|-
+| [[File:Grimer.png|40px]] Grimer
+|-
+| [[File:Koffing.png|40px]] Koffing
+|-
+| [[File:Slugma.png|40px]] Slugma
+|-
+| [[File:Numel.png|40px]] Numel
+|-
+|}
+
+===Boss Encounters===
+{| class="wikitable"
+|-
+! Wild Pokémon !! Base Health !! Boss Trainer !! Pokémon Team !! Base Health
+|-
+| [[File:Torkoal.png|40px]] Torkoal || &lt;center&gt;1,200,000 || colspan=3|&lt;center&gt; N/A
+|-
+|}
+
+==Items==
+
+===No Debuff===
+
+{| class="wikitable"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+|-
+| align="center" colspan=6| '''Common'''
+|-
+| {{Bag2|xAttack}} || N/A || 39.06% || 38.06% || 33.73%
+|-
+| {{Bag2|Dowsing Machine}} || N/A || 39.06% || 38.06% || 33.73%
+|-
+| align="center" colspan=6| '''Rare'''
+|-
+| {{Bag2|Red Shard}} || N/A || 20.85% || 22.19% || 28.05%
+|-
+| align="center" colspan=6| '''Legendary'''
+|-
+| {{Bag2|Flame Plate}} || N/A || 0.52% || 0.84% || 2.24%
+|-
+| {{Bag2|Draco Plate}} || N/A || 0.52% || 0.84% || 2.24%
+|}
+
+===Debuff Drop Table===
+
+After Reaching Kalos, the drop chance for items in Hoenn will be debuffed for any loot with weight &lt; 2.
+
+{| class="wikitable collapsible collapsed"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+|-
+| align="center" colspan=6| '''Common'''
+|-
+| {{Bag2|xAttack}} || N/A || 37.84% || 37.84% || 37.84%
+|-
+| {{Bag2|Dowsing Machine}} || N/A || 37.84% || 37.84% || 37.84%
+|-
+| align="center" colspan=6| '''Rare'''
+|-
+| {{Bag2|Red Shard}} || N/A || 24.22% || 24.22% || 24.22%
+|-
+| align="center" colspan=6| '''Legendary'''
+|-
+| {{Bag2|Flame Plate}} || N/A || 0.05% || 0.05% || 0.05%
+|-
+| {{Bag2|Draco Plate}} || N/A || 0.05% || 0.05% || 0.05%
+|}
+
+
+{{Hoenn Dungeons}}
+
+[[Category:Dungeons]]</text>
+    <contributor>
+      <username>Dragonkin550</username>
+      <id>27</id>
+    </contributor>
+    <comment>/* Items */</comment>
+    <model>wikitext</model>
+    <parentid>5053</parentid>
+    <sha1>b3e35244a428221f40911995d8e93eb000a069ae</sha1>
+  </revision>
+</page>

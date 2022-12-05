@@ -1,0 +1,167 @@
+<page>
+  <title>Template:Infobox Pokéball/fr</title>
+  <ns>10</ns>
+  <id>7683</id>
+  <revision>
+    <id>21693</id>
+    <timestamp>2022-08-03T09:17:22Z</timestamp>
+    <text bytes="1260" space="preserve">{|class="infobox bordered" style="float:right; width:264px; font-size:90%; text-align:left; border:2px solid #94493a; padding:3px;" cellpadding="3"
+|- 
+!colspan="2" style="font-size:110%; text-align:center; background-color:#960018; color:#FFF;" | {{{name}}}
+|-
+{{#if:{{{image&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} colspan="2" style="text-align:center;" {{!}}{{{image}}}{{#if:{{{symbol|}}}|&lt;br /&gt;{{{symbol}}}}}{{#if:{{{caption|}}}|&lt;br /&gt;{{{caption}}}}}
+{{!}}-
+}}
+{{#if:{{{price&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#c41e3a; color:#000;" {{!}}'''Prix'''
+{{!}}{{{price}}}
+{{!}}-
+}}
+{{#if:{{{location&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#c41e3a; color:#000;" {{!}}'''Temps de capture'''
+{{!}}{{{catchTime}}}
+{{!}}-
+}}
+{{#if:{{{location&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#c41e3a; color:#000;" {{!}}'''Chance de capture'''
+{{!}}&amp;plus;{{{catchRate}}}
+{{!}}-
+}}
+{{#if:{{{location&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#c41e3a; color:#000;" {{!}}'''Lieux'''
+{{!}}{{{location}}}
+{{!}}-
+}}
+|}&lt;noinclude&gt;
+
+== Code ==
+&lt;pre&gt;{{Infobox character general
+|name       = 
+|image      = 
+|caption    = 
+|price      = 
+|catchRate  = 
+|catchTime  = 
+|location   = 
+}}&lt;/pre&gt;</text>
+    <contributor>
+      <username>PetroleVB</username>
+      <id>36</id>
+    </contributor>
+    <comment>Created page with "{|class="infobox bordered" style="float:right; width:264px; font-size:90%; text-align:left; border:2px solid #94493a; padding:3px;" cellpadding="3" |-  !colspan="2" style="font-size:110%; text-align:center; background-color:#960018; color:#FFF;" | {{{name}}} |- {{#if:{{{image&lt;includeonly&gt;|&lt;/includeonly&gt;}}} | {{!}} colspan="2" style="text-align:center;" {{!}}{{{image}}}{{#if:{{{symbol|}}}|&lt;br /&gt;{{{symbol}}}}}{{#if:{{{caption|}}}|&lt;br /&gt;{{{caption}}}}} {{!}}- }} {{#if:{{{pr..."</comment>
+    <model>wikitext</model>
+    <parentid>21692</parentid>
+    <sha1>d70b7b5c2f4c746e3cba65e4b0d777a1f5a5ddee</sha1>
+  </revision>
+  <revision>
+    <id>21692</id>
+    <timestamp>2022-08-03T09:15:15Z</timestamp>
+    <text bytes="1308" space="preserve">&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{|class="infobox bordered" style="float:right; width:264px; font-size:90%; text-align:left; border:2px solid #94493a; padding:3px;" cellpadding="3"
+|- 
+!colspan="2" style="font-size:110%; text-align:center; background-color:#960018; color:#FFF;" | {{{name}}}
+|-
+{{#if:{{{image&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} colspan="2" style="text-align:center;" {{!}}{{{image}}}{{#if:{{{symbol|}}}|&lt;br /&gt;{{{symbol}}}}}{{#if:{{{caption|}}}|&lt;br /&gt;{{{caption}}}}}
+{{!}}-
+}}
+{{#if:{{{price&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#c41e3a; color:#000;" {{!}}'''Price'''
+{{!}}{{{price}}}
+{{!}}-
+}}
+{{#if:{{{location&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#c41e3a; color:#000;" {{!}}'''Catch time'''
+{{!}}{{{catchTime}}}
+{{!}}-
+}}
+{{#if:{{{location&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#c41e3a; color:#000;" {{!}}'''Catch rate'''
+{{!}}&amp;plus;{{{catchRate}}}
+{{!}}-
+}}
+{{#if:{{{location&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#c41e3a; color:#000;" {{!}}'''Locations'''
+{{!}}{{{location}}}
+{{!}}-
+}}
+|}&lt;noinclude&gt;
+&lt;/div&gt;
+
+== Code ==
+&lt;pre&gt;{{Infobox character general
+|name       = 
+|image      = 
+|caption    = 
+|price      = 
+|catchRate  = 
+|catchTime  = 
+|location   = 
+}}&lt;/pre&gt;</text>
+    <contributor>
+      <username>PetroleVB</username>
+      <id>36</id>
+    </contributor>
+    <comment>The code is the same and is not translated, variables are the same</comment>
+    <model>wikitext</model>
+    <parentid>21691</parentid>
+    <sha1>e12bfa1256d544c0b3580e940700d04b170bc695</sha1>
+  </revision>
+  <revision>
+    <id>21691</id>
+    <timestamp>2022-08-03T09:13:42Z</timestamp>
+    <text bytes="1364" space="preserve">&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{|class="infobox bordered" style="float:right; width:264px; font-size:90%; text-align:left; border:2px solid #94493a; padding:3px;" cellpadding="3"
+|- 
+!colspan="2" style="font-size:110%; text-align:center; background-color:#960018; color:#FFF;" | {{{name}}}
+|-
+{{#if:{{{image&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} colspan="2" style="text-align:center;" {{!}}{{{image}}}{{#if:{{{symbol|}}}|&lt;br /&gt;{{{symbol}}}}}{{#if:{{{caption|}}}|&lt;br /&gt;{{{caption}}}}}
+{{!}}-
+}}
+{{#if:{{{price&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#c41e3a; color:#000;" {{!}}'''Price'''
+{{!}}{{{price}}}
+{{!}}-
+}}
+{{#if:{{{location&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#c41e3a; color:#000;" {{!}}'''Catch time'''
+{{!}}{{{catchTime}}}
+{{!}}-
+}}
+{{#if:{{{location&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#c41e3a; color:#000;" {{!}}'''Catch rate'''
+{{!}}&amp;plus;{{{catchRate}}}
+{{!}}-
+}}
+{{#if:{{{location&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#c41e3a; color:#000;" {{!}}'''Locations'''
+{{!}}{{{location}}}
+{{!}}-
+}}
+|}&lt;noinclude&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Code ==
+&lt;pre&gt;{{Infobox character general
+|name       = 
+|image      = 
+|caption    = 
+|price      = 
+|catchRate  = 
+|catchTime  = 
+|location   = 
+}}&lt;/pre&gt;
+&lt;/div&gt;</text>
+    <contributor>
+      <username>PetroleVB</username>
+      <id>36</id>
+    </contributor>
+    <comment>Created page with "Template:Infobox Pokéball"</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>9864e80f6091ce1c8aa1a08522c990e6362f03ce</sha1>
+  </revision>
+</page>

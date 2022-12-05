@@ -1,0 +1,995 @@
+<page>
+  <title>Razz/fr</title>
+  <ns>0</ns>
+  <id>7966</id>
+  <revision>
+    <id>22499</id>
+    <timestamp>2022-08-09T17:29:34Z</timestamp>
+    <text bytes="5219" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #10 Framby
+|image   = [[File:Razz.png]]
+|caption = Il subsiste un goût épicé dans les granules rouges qui entourent cette Baie. Leur centre a un goût sec.
+|growtime  = 4m 10s
+|harvest = 7 baies
+|replant = 40%
+|mutation = 1.9%
+|points = 15
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*10 épicée
+*10 sèche
+*0 sucrée
+*0 amère
+*0 acide
+}}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+'''Razz''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by surrounding an empty plot with at least 1 [[Cheri]] and at least 1 [[Leppa]].
+&lt;/div&gt;
+
+== Tables de croissance ==
+=== Stades de croissance ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+!!! Pousse !! Arbuste !! Fleuri !! Mûr
+|-
+! Temps écoulé depuis plantation
+| 1 min 40 secs || 2 mins 30 secs || 3 mins 20 secs || 4 mins 10 secs - 8 mins 20 secs
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:RazzTreeTaller.png|50px]] || &lt;center&gt;[[File:RazzTreeBloom.png|50px]] || &lt;center&gt; [[File:RazzTreeBerry.png|50px]]
+|}
+
+===Temps de croissance avec modificateurs===
+{| class="wikitable collapsible" | style="text-align: center;"
+! Modificateur !! Temps Maturité-Flétrissement
+|-
+! Aucun
+| 4 mins 10 secs -&lt;br&gt; 8 mins 20 secs
+|-
+! Kwakarrosoir
+| 2 mins 47 secs -&lt;br&gt; 5 mins 53 secs
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Flow Chart ==
+[[File:Razz_Flow_Chart.png|200px]]
+&lt;/div&gt;
+
+== Strategie de mutation ==
+=== Formations de plantation possibles ===
+
+Vous pouvez remplir votre ferme de la manière suivante pour obtenir des baies Framby. Les cases violettes indiquent où les mutations peuvent avoir lieu.
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Base Formation
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Leppa.png|30px]] [[Leppa]]
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Optimized Planting Formation
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Leppa.png|30px]] [[Leppa]] || style="background-color:#9C7D98;" | ||style="background-color:#9C7D98;" |  || [[File:Leppa.png|30px]] [[Leppa]] 
+|- style="height: 50px;"
+| style="background-color:#9C7D98;" | ||style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" |
+|-
+| [[File:Cheri.png|30px]] [[Cheri]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Cheri.png|30px]] [[Cheri]] || style="background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Leppa.png|30px]] [[Leppa]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Leppa.png|30px]] [[Leppa]] 
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+=== Timing Table ===
+{| class="wikitable" | style="text-align: center;"
+|+ ''All planting times use the time-to-ripe remaining of the first planted berry for subsequent planting times''
+! Berry !! Planting Time with &lt;br&gt; No Modifier !! Planting Time with &lt;br&gt; Mulch or Sprayduck || Planting Time with &lt;br&gt;  Mulch &amp; Sprayduck
+|-
+| [[Leppa]] || - || - || -
+|-
+| [[Cheri]] || 30 secs until ripe || 20 secs until ripe || Not Practical
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Uses==
+===Mutations===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Razz berries can be used to mutate the following berries.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Tamato.png|20px]] [[Tamato]] || [[File:Pomeg.png|20px]] [[Pomeg]]
+|-
+| [[File:Occa.png|20px]] [[Occa]] || [[File:Figy.png|20px]] [[Figy]] &lt;br&gt; [[File:Tamato.png|20px]] [[Tamato]] &lt;br&gt; [[File:Spelon.png|20px]] [[Spelon]]
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+===[[Safari Zone]] bait===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+As a type of bait, Razz berries give Pokémon in the Safari Zone "eating" status for 2 - 6 turns, and divides escape chance by 1.5 for the rest of the encounter unless another type of bait is used.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Acquisition==
+===Dungeons===
+{{Loot/head‎|Berries}}
+{{LootItem|Berry Forest|Epic}}
+{{LootItem|Radio Tower|Epic}}
+{{LootItem|New Mauville|Epic}}
+{{LootItem|Eterna Forest|Common}}
+{{LootItem|Wayward Cave|Common}}
+{{LootItem|Dragonspiral Tower|Common}}
+|}
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>LeChatMG</username>
+      <id>97</id>
+    </contributor>
+    <comment>Created page with "Vous pouvez remplir votre ferme de la manière suivante pour obtenir des baies Framby. Les cases violettes indiquent où les mutations peuvent avoir lieu."</comment>
+    <model>wikitext</model>
+    <parentid>22498</parentid>
+    <sha1>c044b5e78d5f4b1ee9580d089054e054123e3739</sha1>
+  </revision>
+  <revision>
+    <id>22498</id>
+    <timestamp>2022-08-09T17:28:27Z</timestamp>
+    <text bytes="5239" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #10 Framby
+|image   = [[File:Razz.png]]
+|caption = Il subsiste un goût épicé dans les granules rouges qui entourent cette Baie. Leur centre a un goût sec.
+|growtime  = 4m 10s
+|harvest = 7 baies
+|replant = 40%
+|mutation = 1.9%
+|points = 15
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*10 épicée
+*10 sèche
+*0 sucrée
+*0 amère
+*0 acide
+}}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+'''Razz''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by surrounding an empty plot with at least 1 [[Cheri]] and at least 1 [[Leppa]].
+&lt;/div&gt;
+
+== Tables de croissance ==
+=== Stades de croissance ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+!!! Pousse !! Arbuste !! Fleuri !! Mûr
+|-
+! Temps écoulé depuis plantation
+| 1 min 40 secs || 2 mins 30 secs || 3 mins 20 secs || 4 mins 10 secs - 8 mins 20 secs
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:RazzTreeTaller.png|50px]] || &lt;center&gt;[[File:RazzTreeBloom.png|50px]] || &lt;center&gt; [[File:RazzTreeBerry.png|50px]]
+|}
+
+===Temps de croissance avec modificateurs===
+{| class="wikitable collapsible" | style="text-align: center;"
+! Modificateur !! Temps Maturité-Flétrissement
+|-
+! Aucun
+| 4 mins 10 secs -&lt;br&gt; 8 mins 20 secs
+|-
+! Kwakarrosoir
+| 2 mins 47 secs -&lt;br&gt; 5 mins 53 secs
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Flow Chart ==
+[[File:Razz_Flow_Chart.png|200px]]
+&lt;/div&gt;
+
+== Strategie de mutation ==
+=== Formations de plantation possibles ===
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+You can fill your farm in the following way to obtain Razz berries. Purple squares indicate where mutations can occur.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Base Formation
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Leppa.png|30px]] [[Leppa]]
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Optimized Planting Formation
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Leppa.png|30px]] [[Leppa]] || style="background-color:#9C7D98;" | ||style="background-color:#9C7D98;" |  || [[File:Leppa.png|30px]] [[Leppa]] 
+|- style="height: 50px;"
+| style="background-color:#9C7D98;" | ||style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" |
+|-
+| [[File:Cheri.png|30px]] [[Cheri]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Cheri.png|30px]] [[Cheri]] || style="background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Leppa.png|30px]] [[Leppa]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Leppa.png|30px]] [[Leppa]] 
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+=== Timing Table ===
+{| class="wikitable" | style="text-align: center;"
+|+ ''All planting times use the time-to-ripe remaining of the first planted berry for subsequent planting times''
+! Berry !! Planting Time with &lt;br&gt; No Modifier !! Planting Time with &lt;br&gt; Mulch or Sprayduck || Planting Time with &lt;br&gt;  Mulch &amp; Sprayduck
+|-
+| [[Leppa]] || - || - || -
+|-
+| [[Cheri]] || 30 secs until ripe || 20 secs until ripe || Not Practical
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Uses==
+===Mutations===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Razz berries can be used to mutate the following berries.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Tamato.png|20px]] [[Tamato]] || [[File:Pomeg.png|20px]] [[Pomeg]]
+|-
+| [[File:Occa.png|20px]] [[Occa]] || [[File:Figy.png|20px]] [[Figy]] &lt;br&gt; [[File:Tamato.png|20px]] [[Tamato]] &lt;br&gt; [[File:Spelon.png|20px]] [[Spelon]]
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+===[[Safari Zone]] bait===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+As a type of bait, Razz berries give Pokémon in the Safari Zone "eating" status for 2 - 6 turns, and divides escape chance by 1.5 for the rest of the encounter unless another type of bait is used.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Acquisition==
+===Dungeons===
+{{Loot/head‎|Berries}}
+{{LootItem|Berry Forest|Epic}}
+{{LootItem|Radio Tower|Epic}}
+{{LootItem|New Mauville|Epic}}
+{{LootItem|Eterna Forest|Common}}
+{{LootItem|Wayward Cave|Common}}
+{{LootItem|Dragonspiral Tower|Common}}
+|}
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>LeChatMG</username>
+      <id>97</id>
+    </contributor>
+    <comment>Created page with "== Strategie de mutation == === Formations de plantation possibles ==="</comment>
+    <model>wikitext</model>
+    <parentid>22497</parentid>
+    <sha1>9c08a0f067625b61986bb4f37967b541a2e74e10</sha1>
+  </revision>
+  <revision>
+    <id>22497</id>
+    <timestamp>2022-08-09T17:27:38Z</timestamp>
+    <text bytes="5285" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #10 Framby
+|image   = [[File:Razz.png]]
+|caption = Il subsiste un goût épicé dans les granules rouges qui entourent cette Baie. Leur centre a un goût sec.
+|growtime  = 4m 10s
+|harvest = 7 baies
+|replant = 40%
+|mutation = 1.9%
+|points = 15
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*10 épicée
+*10 sèche
+*0 sucrée
+*0 amère
+*0 acide
+}}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+'''Razz''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by surrounding an empty plot with at least 1 [[Cheri]] and at least 1 [[Leppa]].
+&lt;/div&gt;
+
+== Tables de croissance ==
+=== Stades de croissance ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+!!! Pousse !! Arbuste !! Fleuri !! Mûr
+|-
+! Temps écoulé depuis plantation
+| 1 min 40 secs || 2 mins 30 secs || 3 mins 20 secs || 4 mins 10 secs - 8 mins 20 secs
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:RazzTreeTaller.png|50px]] || &lt;center&gt;[[File:RazzTreeBloom.png|50px]] || &lt;center&gt; [[File:RazzTreeBerry.png|50px]]
+|}
+
+===Temps de croissance avec modificateurs===
+{| class="wikitable collapsible" | style="text-align: center;"
+! Modificateur !! Temps Maturité-Flétrissement
+|-
+! Aucun
+| 4 mins 10 secs -&lt;br&gt; 8 mins 20 secs
+|-
+! Kwakarrosoir
+| 2 mins 47 secs -&lt;br&gt; 5 mins 53 secs
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Flow Chart ==
+[[File:Razz_Flow_Chart.png|200px]]
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Mutation Strategy ==
+=== Possible Planting Formations ===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+You can fill your farm in the following way to obtain Razz berries. Purple squares indicate where mutations can occur.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Base Formation
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Leppa.png|30px]] [[Leppa]]
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Optimized Planting Formation
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Leppa.png|30px]] [[Leppa]] || style="background-color:#9C7D98;" | ||style="background-color:#9C7D98;" |  || [[File:Leppa.png|30px]] [[Leppa]] 
+|- style="height: 50px;"
+| style="background-color:#9C7D98;" | ||style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" |
+|-
+| [[File:Cheri.png|30px]] [[Cheri]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Cheri.png|30px]] [[Cheri]] || style="background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Leppa.png|30px]] [[Leppa]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Leppa.png|30px]] [[Leppa]] 
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+=== Timing Table ===
+{| class="wikitable" | style="text-align: center;"
+|+ ''All planting times use the time-to-ripe remaining of the first planted berry for subsequent planting times''
+! Berry !! Planting Time with &lt;br&gt; No Modifier !! Planting Time with &lt;br&gt; Mulch or Sprayduck || Planting Time with &lt;br&gt;  Mulch &amp; Sprayduck
+|-
+| [[Leppa]] || - || - || -
+|-
+| [[Cheri]] || 30 secs until ripe || 20 secs until ripe || Not Practical
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Uses==
+===Mutations===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Razz berries can be used to mutate the following berries.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Tamato.png|20px]] [[Tamato]] || [[File:Pomeg.png|20px]] [[Pomeg]]
+|-
+| [[File:Occa.png|20px]] [[Occa]] || [[File:Figy.png|20px]] [[Figy]] &lt;br&gt; [[File:Tamato.png|20px]] [[Tamato]] &lt;br&gt; [[File:Spelon.png|20px]] [[Spelon]]
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+===[[Safari Zone]] bait===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+As a type of bait, Razz berries give Pokémon in the Safari Zone "eating" status for 2 - 6 turns, and divides escape chance by 1.5 for the rest of the encounter unless another type of bait is used.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Acquisition==
+===Dungeons===
+{{Loot/head‎|Berries}}
+{{LootItem|Berry Forest|Epic}}
+{{LootItem|Radio Tower|Epic}}
+{{LootItem|New Mauville|Epic}}
+{{LootItem|Eterna Forest|Common}}
+{{LootItem|Wayward Cave|Common}}
+{{LootItem|Dragonspiral Tower|Common}}
+|}
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>LeChatMG</username>
+      <id>97</id>
+    </contributor>
+    <comment>Created page with "===Temps de croissance avec modificateurs=== {| class="wikitable collapsible" | style="text-align: center;" ! Modificateur !! Temps Maturité-Flétrissement |- ! Aucun | 4 mins 10 secs -&lt;br&gt; 8 mins 20 secs |- ! Kwakarrosoir | 2 mins 47 secs -&lt;br&gt; 5 mins 53 secs |}"</comment>
+    <model>wikitext</model>
+    <parentid>22496</parentid>
+    <sha1>27a293f604ae6bc480722e32da91d465b583e480</sha1>
+  </revision>
+  <revision>
+    <id>22496</id>
+    <timestamp>2022-08-09T17:26:50Z</timestamp>
+    <text bytes="5297" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #10 Framby
+|image   = [[File:Razz.png]]
+|caption = Il subsiste un goût épicé dans les granules rouges qui entourent cette Baie. Leur centre a un goût sec.
+|growtime  = 4m 10s
+|harvest = 7 baies
+|replant = 40%
+|mutation = 1.9%
+|points = 15
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*10 épicée
+*10 sèche
+*0 sucrée
+*0 amère
+*0 acide
+}}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+'''Razz''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by surrounding an empty plot with at least 1 [[Cheri]] and at least 1 [[Leppa]].
+&lt;/div&gt;
+
+== Tables de croissance ==
+=== Stades de croissance ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+!!! Pousse !! Arbuste !! Fleuri !! Mûr
+|-
+! Temps écoulé depuis plantation
+| 1 min 40 secs || 2 mins 30 secs || 3 mins 20 secs || 4 mins 10 secs - 8 mins 20 secs
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:RazzTreeTaller.png|50px]] || &lt;center&gt;[[File:RazzTreeBloom.png|50px]] || &lt;center&gt; [[File:RazzTreeBerry.png|50px]]
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+===Ripening Time with Modifiers===
+{| class="wikitable" | style="text-align: center;"
+! Modifier !! Ripe-Wither Time
+|-
+! None
+| 4 mins 10 secs -&lt;br&gt; 8 mins 20 secs
+|-
+! Sprayduck
+| 2 mins 47 secs -&lt;br&gt; 5 mins 53 secs
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Flow Chart ==
+[[File:Razz_Flow_Chart.png|200px]]
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Mutation Strategy ==
+=== Possible Planting Formations ===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+You can fill your farm in the following way to obtain Razz berries. Purple squares indicate where mutations can occur.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Base Formation
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Leppa.png|30px]] [[Leppa]]
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Optimized Planting Formation
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Leppa.png|30px]] [[Leppa]] || style="background-color:#9C7D98;" | ||style="background-color:#9C7D98;" |  || [[File:Leppa.png|30px]] [[Leppa]] 
+|- style="height: 50px;"
+| style="background-color:#9C7D98;" | ||style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" |
+|-
+| [[File:Cheri.png|30px]] [[Cheri]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Cheri.png|30px]] [[Cheri]] || style="background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Leppa.png|30px]] [[Leppa]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Leppa.png|30px]] [[Leppa]] 
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+=== Timing Table ===
+{| class="wikitable" | style="text-align: center;"
+|+ ''All planting times use the time-to-ripe remaining of the first planted berry for subsequent planting times''
+! Berry !! Planting Time with &lt;br&gt; No Modifier !! Planting Time with &lt;br&gt; Mulch or Sprayduck || Planting Time with &lt;br&gt;  Mulch &amp; Sprayduck
+|-
+| [[Leppa]] || - || - || -
+|-
+| [[Cheri]] || 30 secs until ripe || 20 secs until ripe || Not Practical
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Uses==
+===Mutations===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Razz berries can be used to mutate the following berries.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Tamato.png|20px]] [[Tamato]] || [[File:Pomeg.png|20px]] [[Pomeg]]
+|-
+| [[File:Occa.png|20px]] [[Occa]] || [[File:Figy.png|20px]] [[Figy]] &lt;br&gt; [[File:Tamato.png|20px]] [[Tamato]] &lt;br&gt; [[File:Spelon.png|20px]] [[Spelon]]
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+===[[Safari Zone]] bait===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+As a type of bait, Razz berries give Pokémon in the Safari Zone "eating" status for 2 - 6 turns, and divides escape chance by 1.5 for the rest of the encounter unless another type of bait is used.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Acquisition==
+===Dungeons===
+{{Loot/head‎|Berries}}
+{{LootItem|Berry Forest|Epic}}
+{{LootItem|Radio Tower|Epic}}
+{{LootItem|New Mauville|Epic}}
+{{LootItem|Eterna Forest|Common}}
+{{LootItem|Wayward Cave|Common}}
+{{LootItem|Dragonspiral Tower|Common}}
+|}
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>LeChatMG</username>
+      <id>97</id>
+    </contributor>
+    <comment>Created page with "== Tables de croissance == === Stades de croissance === {| class="wikitable" | style = "image-rendering: pixelated" !!! Pousse !! Arbuste !! Fleuri !! Mûr |- ! Temps écoulé depuis plantation | 1 min 40 secs || 2 mins 30 secs || 3 mins 20 secs || 4 mins 10 secs - 8 mins 20 secs |- ! Animation | &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:RazzTreeTaller.png|50px]] || &lt;center&gt;[[File:RazzTreeBloom.png|50px]] || &lt;center&gt; [[File:RazzTreeBerry.png|50px]] |}"</comment>
+    <model>wikitext</model>
+    <parentid>22495</parentid>
+    <sha1>493905cf0c601d7e5f7aa34b6f715a600c9ad7b5</sha1>
+  </revision>
+  <revision>
+    <id>22495</id>
+    <timestamp>2022-08-09T17:24:48Z</timestamp>
+    <text bytes="5332" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #10 Framby
+|image   = [[File:Razz.png]]
+|caption = Il subsiste un goût épicé dans les granules rouges qui entourent cette Baie. Leur centre a un goût sec.
+|growtime  = 4m 10s
+|harvest = 7 baies
+|replant = 40%
+|mutation = 1.9%
+|points = 15
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*10 épicée
+*10 sèche
+*0 sucrée
+*0 amère
+*0 acide
+}}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+'''Razz''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by surrounding an empty plot with at least 1 [[Cheri]] and at least 1 [[Leppa]].
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Growth Tables ==
+=== Growth Stages ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+!!! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 1 min 40 secs || 2 mins 30 secs || 3 mins 20 secs || 4 mins 10 secs - 8 mins 20 secs
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:RazzTreeTaller.png|50px]] || &lt;center&gt;[[File:RazzTreeBloom.png|50px]] || &lt;center&gt; [[File:RazzTreeBerry.png|50px]]
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+===Ripening Time with Modifiers===
+{| class="wikitable" | style="text-align: center;"
+! Modifier !! Ripe-Wither Time
+|-
+! None
+| 4 mins 10 secs -&lt;br&gt; 8 mins 20 secs
+|-
+! Sprayduck
+| 2 mins 47 secs -&lt;br&gt; 5 mins 53 secs
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Flow Chart ==
+[[File:Razz_Flow_Chart.png|200px]]
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Mutation Strategy ==
+=== Possible Planting Formations ===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+You can fill your farm in the following way to obtain Razz berries. Purple squares indicate where mutations can occur.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Base Formation
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Leppa.png|30px]] [[Leppa]]
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Optimized Planting Formation
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Leppa.png|30px]] [[Leppa]] || style="background-color:#9C7D98;" | ||style="background-color:#9C7D98;" |  || [[File:Leppa.png|30px]] [[Leppa]] 
+|- style="height: 50px;"
+| style="background-color:#9C7D98;" | ||style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" |
+|-
+| [[File:Cheri.png|30px]] [[Cheri]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Cheri.png|30px]] [[Cheri]] || style="background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Leppa.png|30px]] [[Leppa]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Leppa.png|30px]] [[Leppa]] 
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+=== Timing Table ===
+{| class="wikitable" | style="text-align: center;"
+|+ ''All planting times use the time-to-ripe remaining of the first planted berry for subsequent planting times''
+! Berry !! Planting Time with &lt;br&gt; No Modifier !! Planting Time with &lt;br&gt; Mulch or Sprayduck || Planting Time with &lt;br&gt;  Mulch &amp; Sprayduck
+|-
+| [[Leppa]] || - || - || -
+|-
+| [[Cheri]] || 30 secs until ripe || 20 secs until ripe || Not Practical
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Uses==
+===Mutations===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Razz berries can be used to mutate the following berries.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Tamato.png|20px]] [[Tamato]] || [[File:Pomeg.png|20px]] [[Pomeg]]
+|-
+| [[File:Occa.png|20px]] [[Occa]] || [[File:Figy.png|20px]] [[Figy]] &lt;br&gt; [[File:Tamato.png|20px]] [[Tamato]] &lt;br&gt; [[File:Spelon.png|20px]] [[Spelon]]
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+===[[Safari Zone]] bait===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+As a type of bait, Razz berries give Pokémon in the Safari Zone "eating" status for 2 - 6 turns, and divides escape chance by 1.5 for the rest of the encounter unless another type of bait is used.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Acquisition==
+===Dungeons===
+{{Loot/head‎|Berries}}
+{{LootItem|Berry Forest|Epic}}
+{{LootItem|Radio Tower|Epic}}
+{{LootItem|New Mauville|Epic}}
+{{LootItem|Eterna Forest|Common}}
+{{LootItem|Wayward Cave|Common}}
+{{LootItem|Dragonspiral Tower|Common}}
+|}
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>LeChatMG</username>
+      <id>97</id>
+    </contributor>
+    <comment>Created page with "{{Infobox Berry |name    = #10 Framby |image   = [[File:Razz.png]] |caption = Il subsiste un goût épicé dans les granules rouges qui entourent cette Baie. Leur centre a un goût sec. |growtime  = 4m 10s |harvest = 7 baies |replant = 40% |mutation = 1.9% |points = 15 |flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt; *10 épicée *10 sèche *0 sucrée *0 amère *0 acide }}"</comment>
+    <model>wikitext</model>
+    <parentid>22494</parentid>
+    <sha1>72db95d3d81c38268cf186e110c962f0e1c6345b</sha1>
+  </revision>
+  <revision>
+    <id>22494</id>
+    <timestamp>2022-08-09T17:23:42Z</timestamp>
+    <text bytes="5382" space="preserve">&lt;languages/&gt;
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Infobox Berry
+|name    = #10 Razz
+|image   = [[File:Razz.png]]
+|caption = A small hint of spiciness lingers in the red granules surrounding this Berry. Their centers have a dry taste.
+|growtime  = 4m 10s
+|harvest = 7 berries
+|replant = 40%
+|mutation = 1.9%
+|points = 15
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*10 spicy 
+*10 dry
+*0 sweet
+*0 bitter
+*0 sour
+}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+'''Razz''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by surrounding an empty plot with at least 1 [[Cheri]] and at least 1 [[Leppa]].
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Growth Tables ==
+=== Growth Stages ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+!!! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 1 min 40 secs || 2 mins 30 secs || 3 mins 20 secs || 4 mins 10 secs - 8 mins 20 secs
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:RazzTreeTaller.png|50px]] || &lt;center&gt;[[File:RazzTreeBloom.png|50px]] || &lt;center&gt; [[File:RazzTreeBerry.png|50px]]
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+===Ripening Time with Modifiers===
+{| class="wikitable" | style="text-align: center;"
+! Modifier !! Ripe-Wither Time
+|-
+! None
+| 4 mins 10 secs -&lt;br&gt; 8 mins 20 secs
+|-
+! Sprayduck
+| 2 mins 47 secs -&lt;br&gt; 5 mins 53 secs
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Flow Chart ==
+[[File:Razz_Flow_Chart.png|200px]]
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Mutation Strategy ==
+=== Possible Planting Formations ===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+You can fill your farm in the following way to obtain Razz berries. Purple squares indicate where mutations can occur.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Base Formation
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Leppa.png|30px]] [[Leppa]]
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Optimized Planting Formation
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Leppa.png|30px]] [[Leppa]] || style="background-color:#9C7D98;" | ||style="background-color:#9C7D98;" |  || [[File:Leppa.png|30px]] [[Leppa]] 
+|- style="height: 50px;"
+| style="background-color:#9C7D98;" | ||style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" |
+|-
+| [[File:Cheri.png|30px]] [[Cheri]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Cheri.png|30px]] [[Cheri]] || style="background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Leppa.png|30px]] [[Leppa]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Leppa.png|30px]] [[Leppa]] 
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+=== Timing Table ===
+{| class="wikitable" | style="text-align: center;"
+|+ ''All planting times use the time-to-ripe remaining of the first planted berry for subsequent planting times''
+! Berry !! Planting Time with &lt;br&gt; No Modifier !! Planting Time with &lt;br&gt; Mulch or Sprayduck || Planting Time with &lt;br&gt;  Mulch &amp; Sprayduck
+|-
+| [[Leppa]] || - || - || -
+|-
+| [[Cheri]] || 30 secs until ripe || 20 secs until ripe || Not Practical
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Uses==
+===Mutations===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Razz berries can be used to mutate the following berries.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Tamato.png|20px]] [[Tamato]] || [[File:Pomeg.png|20px]] [[Pomeg]]
+|-
+| [[File:Occa.png|20px]] [[Occa]] || [[File:Figy.png|20px]] [[Figy]] &lt;br&gt; [[File:Tamato.png|20px]] [[Tamato]] &lt;br&gt; [[File:Spelon.png|20px]] [[Spelon]]
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+===[[Safari Zone]] bait===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+As a type of bait, Razz berries give Pokémon in the Safari Zone "eating" status for 2 - 6 turns, and divides escape chance by 1.5 for the rest of the encounter unless another type of bait is used.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Acquisition==
+===Dungeons===
+{{Loot/head‎|Berries}}
+{{LootItem|Berry Forest|Epic}}
+{{LootItem|Radio Tower|Epic}}
+{{LootItem|New Mauville|Epic}}
+{{LootItem|Eterna Forest|Common}}
+{{LootItem|Wayward Cave|Common}}
+{{LootItem|Dragonspiral Tower|Common}}
+|}
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>LeChatMG</username>
+      <id>97</id>
+    </contributor>
+    <comment>Created page with "Framby (Razz)"</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>f217bd7062d90253a4329273380de181a12a74a1</sha1>
+  </revision>
+</page>

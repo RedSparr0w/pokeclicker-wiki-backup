@@ -1,0 +1,876 @@
+<page>
+  <title>Protein</title>
+  <ns>0</ns>
+  <id>445</id>
+  <revision>
+    <id>6017</id>
+    <timestamp>2020-11-19T02:30:52Z</timestamp>
+    <text bytes="25926" space="preserve">[[Protein]] is a consumable item which can be purchased from shops of each region's League. It can be fed to a pokemon to increase the amount of attack that pokemon gains by 1 per protein per hatch. Each pokemon can consume a total of 5 proteins per unlocked region.
+
+=== How to Use ===
+Go to Start Menu &gt; Items &gt; Item Bag, select the protein and select a pokemon to use it on. Once used the effect stays permanently and does not get removed by any means.
+
+=== New Efficiency ===
+Below is a list of the most efficient pokemon to breed after they have been fed the max amount of proteins for that region unlock. Note that this does not take into account the reduced damage output for pokemon in non-native regions. 
+
+==== Kanto ====
+{| class="wikitable sortable" 
+! scope="col" | PokeDex || scope="col" | Pokémon || scope="col" | Attack Gain || scope="col" | Egg Steps || scope="col" | Breeding Efficiency 
+|- 
+| style="text-align:right" | 130 || Gyarados || style="text-align:right" | 42.00 || style="text-align:right" | 200 || style="text-align:right" | 8.40
+|-
+| style="text-align:right" | 36 || Clefable || style="text-align:right" | 37.50 || style="text-align:right" | 400 || style="text-align:right" | 3.75
+|-
+| style="text-align:right" | 40 || Wigglytuff || style="text-align:right" | 34.00 || style="text-align:right" | 400 || style="text-align:right" | 3.40
+|-
+| style="text-align:right" | 26 || Raichu || style="text-align:right" | 32.00 || style="text-align:right" | 400 || style="text-align:right" | 3.20
+|-
+| style="text-align:right" | 76 || Golem || style="text-align:right" | 36.25 || style="text-align:right" | 600 || style="text-align:right" | 2.42
+|-
+| style="text-align:right" | 103 || Exeggutor || style="text-align:right" | 47.00 || style="text-align:right" | 800 || style="text-align:right" | 2.35
+|-
+| style="text-align:right" | 59 || Arcanine || style="text-align:right" | 46.25 || style="text-align:right" | 800 || style="text-align:right" | 2.31
+|-
+| style="text-align:right" | 18 || Pidgeot || style="text-align:right" | 33.00 || style="text-align:right" | 600 || style="text-align:right" | 2.20
+|-
+| style="text-align:right" | 89 || Muk || style="text-align:right" | 40.75 || style="text-align:right" | 800 || style="text-align:right" | 2.04
+|-
+| style="text-align:right" | 42 || Golbat || style="text-align:right" | 30.50 || style="text-align:right" | 600 || style="text-align:right" | 2.03
+|-
+| style="text-align:right" | 6 || Charizard || style="text-align:right" | 40.50 || style="text-align:right" | 800 || style="text-align:right" | 2.03
+|-
+| style="text-align:right" | 35 || Clefairy || style="text-align:right" | 20.25 || style="text-align:right" | 400 || style="text-align:right" | 2.03
+|-
+| style="text-align:right" | 68 || Machamp || style="text-align:right" | 40.50 || style="text-align:right" | 800 || style="text-align:right" | 2.03
+|-
+| style="text-align:right" | 80 || Slowbro || style="text-align:right" | 40.50 || style="text-align:right" | 800 || style="text-align:right" | 2.03
+|-
+| style="text-align:right" | -15 || Charizard (clone) || style="text-align:right" | 40.50 || style="text-align:right" | 800 || style="text-align:right" | 2.03
+|-
+| style="text-align:right" | 3 || Venusaur || style="text-align:right" | 40.25 || style="text-align:right" | 800 || style="text-align:right" | 2.01
+|-
+| style="text-align:right" | -12 || Venusaur (clone) || style="text-align:right" | 40.25 || style="text-align:right" | 800 || style="text-align:right" | 2.01
+|-
+| style="text-align:right" | 9 || Blastoise || style="text-align:right" | 39.75 || style="text-align:right" | 800 || style="text-align:right" | 1.99
+|-
+| style="text-align:right" | -18 || Blastoise (clone) || style="text-align:right" | 39.75 || style="text-align:right" | 800 || style="text-align:right" | 1.99
+|-
+| style="text-align:right" | 71 || Victreebel || style="text-align:right" | 39.50 || style="text-align:right" | 800 || style="text-align:right" | 1.98
+|-
+| style="text-align:right" | 62 || Poliwrath || style="text-align:right" | 39.25 || style="text-align:right" | 800 || style="text-align:right" | 1.96
+|-
+| style="text-align:right" | 31 || Nidoqueen || style="text-align:right" | 39.00 || style="text-align:right" | 800 || style="text-align:right" | 1.95
+|-
+| style="text-align:right" | 45 || Vileplume || style="text-align:right" | 39.00 || style="text-align:right" | 800 || style="text-align:right" | 1.95
+|-
+| style="text-align:right" | 34 || Nidoking || style="text-align:right" | 38.75 || style="text-align:right" | 800 || style="text-align:right" | 1.94
+|-
+| style="text-align:right" | 55 || Golduck || style="text-align:right" | 37.50 || style="text-align:right" | 800 || style="text-align:right" | 1.88
+|-
+| style="text-align:right" | 22 || Fearow || style="text-align:right" | 28.00 || style="text-align:right" | 600 || style="text-align:right" | 1.87
+|-
+| style="text-align:right" | 110 || Weezing || style="text-align:right" | 35.25 || style="text-align:right" | 800 || style="text-align:right" | 1.76
+|-
+| style="text-align:right" | 112 || Rhydon || style="text-align:right" | 35.25 || style="text-align:right" | 800 || style="text-align:right" | 1.76
+|-
+| style="text-align:right" | 73 || Tentacruel || style="text-align:right" | 35.00 || style="text-align:right" | 800 || style="text-align:right" | 1.75
+|-
+| style="text-align:right" | 38 || Ninetales || style="text-align:right" | 34.50 || style="text-align:right" | 800 || style="text-align:right" | 1.73
+|-
+| style="text-align:right" | 78 || Rapidash || style="text-align:right" | 34.50 || style="text-align:right" | 800 || style="text-align:right" | 1.73
+|-
+| style="text-align:right" | 97 || Hypno || style="text-align:right" | 34.50 || style="text-align:right" | 800 || style="text-align:right" | 1.73
+|-
+| style="text-align:right" | 121 || Starmie || style="text-align:right" | 34.25 || style="text-align:right" | 800 || style="text-align:right" | 1.71
+|-
+| style="text-align:right" | 87 || Dewgong || style="text-align:right" | 34.00 || style="text-align:right" | 800 || style="text-align:right" | 1.70
+|-
+| style="text-align:right" | 94 || Gengar || style="text-align:right" | 32.75 || style="text-align:right" | 800 || style="text-align:right" | 1.64
+|-
+| style="text-align:right" | 119 || Seaking || style="text-align:right" | 32.50 || style="text-align:right" | 800 || style="text-align:right" | 1.63
+|-
+| style="text-align:right" | 91 || Cloyster || style="text-align:right" | 32.25 || style="text-align:right" | 800 || style="text-align:right" | 1.61
+|-
+| style="text-align:right" | 115 || Kangaskhan || style="text-align:right" | 32.25 || style="text-align:right" | 800 || style="text-align:right" | 1.61
+|-
+| style="text-align:right" | 12 || Butterfree || style="text-align:right" | 23.75 || style="text-align:right" | 600 || style="text-align:right" | 1.58
+|-
+| style="text-align:right" | 20 || Raticate || style="text-align:right" | 23.75 || style="text-align:right" | 600 || style="text-align:right" | 1.58
+|-
+|}
+
+
+==== Johto ====
+{| class="wikitable sortable" 
+! scope="col" | PokeDex || scope="col" | Pokémon || scope="col" | Attack Gain || scope="col" | Egg Steps || scope="col" | Breeding Efficiency 
+|- 
+| style="text-align:right" | 130 || Gyarados || style="text-align:right" | 47.00 || style="text-align:right" | 200 || style="text-align:right" | 9.40
+|-
+| style="text-align:right" | 36 || Clefable || style="text-align:right" | 42.50 || style="text-align:right" | 400 || style="text-align:right" | 4.25
+|-
+| style="text-align:right" | 40 || Wigglytuff || style="text-align:right" | 39.00 || style="text-align:right" | 400 || style="text-align:right" | 3.90
+|-
+| style="text-align:right" | 26 || Raichu || style="text-align:right" | 37.00 || style="text-align:right" | 400 || style="text-align:right" | 3.70
+|-
+| style="text-align:right" | 184 || Azumarill || style="text-align:right" | 33.00 || style="text-align:right" | 400 || style="text-align:right" | 3.30
+|-
+| style="text-align:right" | 176 || Togetic || style="text-align:right" | 28.75 || style="text-align:right" | 400 || style="text-align:right" | 2.88
+|-
+| style="text-align:right" | 169 || Crobat || style="text-align:right" | 42.00 || style="text-align:right" | 600 || style="text-align:right" | 2.80
+|-
+| style="text-align:right" | 76 || Golem || style="text-align:right" | 41.25 || style="text-align:right" | 600 || style="text-align:right" | 2.75
+|-
+| style="text-align:right" | 103 || Exeggutor || style="text-align:right" | 52.00 || style="text-align:right" | 800 || style="text-align:right" | 2.60
+|-
+| style="text-align:right" | 59 || Arcanine || style="text-align:right" | 51.25 || style="text-align:right" | 800 || style="text-align:right" | 2.56
+|-
+| style="text-align:right" | 18 || Pidgeot || style="text-align:right" | 38.00 || style="text-align:right" | 600 || style="text-align:right" | 2.53
+|-
+| style="text-align:right" | 35 || Clefairy || style="text-align:right" | 25.25 || style="text-align:right" | 400 || style="text-align:right" | 2.53
+|-
+| style="text-align:right" | 129 || Magikarp || style="text-align:right" | 12.50 || style="text-align:right" | 200 || style="text-align:right" | 2.50
+|-
+| style="text-align:right" | 164 || Noctowl || style="text-align:right" | 36.00 || style="text-align:right" | 600 || style="text-align:right" | 2.40
+|-
+| style="text-align:right" | 42 || Golbat || style="text-align:right" | 35.50 || style="text-align:right" | 600 || style="text-align:right" | 2.37
+|-
+| style="text-align:right" | 160 || Feraligatr || style="text-align:right" | 46.75 || style="text-align:right" | 800 || style="text-align:right" | 2.34
+|-
+| style="text-align:right" | 181 || Ampharos || style="text-align:right" | 46.75 || style="text-align:right" | 800 || style="text-align:right" | 2.34
+|-
+| style="text-align:right" | 230 || Kingdra || style="text-align:right" | 46.50 || style="text-align:right" | 800 || style="text-align:right" | 2.33
+|-
+| style="text-align:right" | 233 || Porygon2 || style="text-align:right" | 46.50 || style="text-align:right" | 800 || style="text-align:right" | 2.33
+|-
+| style="text-align:right" | 217 || Ursaring || style="text-align:right" | 46.25 || style="text-align:right" | 800 || style="text-align:right" | 2.31
+|-
+| style="text-align:right" | 89 || Muk || style="text-align:right" | 45.75 || style="text-align:right" | 800 || style="text-align:right" | 2.29
+|-
+| style="text-align:right" | 6 || Charizard || style="text-align:right" | 45.50 || style="text-align:right" | 800 || style="text-align:right" | 2.28
+|-
+| style="text-align:right" | 68 || Machamp || style="text-align:right" | 45.50 || style="text-align:right" | 800 || style="text-align:right" | 2.28
+|-
+| style="text-align:right" | 80 || Slowbro || style="text-align:right" | 45.50 || style="text-align:right" | 800 || style="text-align:right" | 2.28
+|-
+| style="text-align:right" | 157 || Typhlosion || style="text-align:right" | 45.50 || style="text-align:right" | 800 || style="text-align:right" | 2.28
+|-
+| style="text-align:right" | 199 || Slowking || style="text-align:right" | 45.50 || style="text-align:right" | 800 || style="text-align:right" | 2.28
+|-
+| style="text-align:right" | -15 || Charizard (clone) || style="text-align:right" | 45.50 || style="text-align:right" | 800 || style="text-align:right" | 2.28
+|-
+| style="text-align:right" | 3 || Venusaur || style="text-align:right" | 45.25 || style="text-align:right" | 800 || style="text-align:right" | 2.26
+|-
+| style="text-align:right" | -12 || Venusaur (clone) || style="text-align:right" | 45.25 || style="text-align:right" | 800 || style="text-align:right" | 2.26
+|-
+| style="text-align:right" | 224 || Octillery || style="text-align:right" | 45.00 || style="text-align:right" | 800 || style="text-align:right" | 2.25
+|-
+| style="text-align:right" | 9 || Blastoise || style="text-align:right" | 44.75 || style="text-align:right" | 800 || style="text-align:right" | 2.24
+|-
+| style="text-align:right" | -18 || Blastoise (clone) || style="text-align:right" | 44.75 || style="text-align:right" | 800 || style="text-align:right" | 2.24
+|-
+| style="text-align:right" | 71 || Victreebel || style="text-align:right" | 44.50 || style="text-align:right" | 800 || style="text-align:right" | 2.23
+|-
+| style="text-align:right" | 168 || Ariados || style="text-align:right" | 33.25 || style="text-align:right" | 600 || style="text-align:right" | 2.22
+|-
+| style="text-align:right" | 62 || Poliwrath || style="text-align:right" | 44.25 || style="text-align:right" | 800 || style="text-align:right" | 2.21
+|-
+| style="text-align:right" | 22 || Fearow || style="text-align:right" | 33.00 || style="text-align:right" | 600 || style="text-align:right" | 2.20
+|-
+| style="text-align:right" | 31 || Nidoqueen || style="text-align:right" | 44.00 || style="text-align:right" | 800 || style="text-align:right" | 2.20
+|-
+| style="text-align:right" | 45 || Vileplume || style="text-align:right" | 44.00 || style="text-align:right" | 800 || style="text-align:right" | 2.20
+|-
+| style="text-align:right" | 34 || Nidoking || style="text-align:right" | 43.75 || style="text-align:right" | 800 || style="text-align:right" | 2.19
+|-
+| style="text-align:right" | 154 || Meganium || style="text-align:right" | 43.75 || style="text-align:right" | 800 || style="text-align:right" | 2.19
+|-
+|}
+
+
+==== Hoenn ====
+{| class="wikitable sortable" 
+! scope="col" | PokeDex || scope="col" | Pokémon || scope="col" | Attack Gain || scope="col" | Egg Steps || scope="col" | Breeding Efficiency 
+|- 
+| style="text-align:right" | 130 || Gyarados || style="text-align:right" | 52.00 || style="text-align:right" | 200 || style="text-align:right" | 10.40
+|-
+| style="text-align:right" | 289 || Slaking || style="text-align:right" | 77.00 || style="text-align:right" | 600 || style="text-align:right" | 5.13
+|-
+| style="text-align:right" | 36 || Clefable || style="text-align:right" | 47.50 || style="text-align:right" | 400 || style="text-align:right" | 4.75
+|-
+| style="text-align:right" | 40 || Wigglytuff || style="text-align:right" | 44.00 || style="text-align:right" | 400 || style="text-align:right" | 4.40
+|-
+| style="text-align:right" | 26 || Raichu || style="text-align:right" | 42.00 || style="text-align:right" | 400 || style="text-align:right" | 4.20
+|-
+| style="text-align:right" | 184 || Azumarill || style="text-align:right" | 38.00 || style="text-align:right" | 400 || style="text-align:right" | 3.80
+|-
+| style="text-align:right" | 129 || Magikarp || style="text-align:right" | 17.50 || style="text-align:right" | 200 || style="text-align:right" | 3.50
+|-
+| style="text-align:right" | 176 || Togetic || style="text-align:right" | 33.75 || style="text-align:right" | 400 || style="text-align:right" | 3.38
+|-
+| style="text-align:right" | 275 || Shiftry || style="text-align:right" | 47.75 || style="text-align:right" | 600 || style="text-align:right" | 3.18
+|-
+| style="text-align:right" | 169 || Crobat || style="text-align:right" | 47.00 || style="text-align:right" | 600 || style="text-align:right" | 3.13
+|-
+| style="text-align:right" | 76 || Golem || style="text-align:right" | 46.25 || style="text-align:right" | 600 || style="text-align:right" | 3.08
+|-
+| style="text-align:right" | 342 || Crawdaunt || style="text-align:right" | 45.50 || style="text-align:right" | 600 || style="text-align:right" | 3.03
+|-
+| style="text-align:right" | 35 || Clefairy || style="text-align:right" | 30.25 || style="text-align:right" | 400 || style="text-align:right" | 3.03
+|-
+| style="text-align:right" | 272 || Ludicolo || style="text-align:right" | 45.00 || style="text-align:right" | 600 || style="text-align:right" | 3.00
+|-
+| style="text-align:right" | 18 || Pidgeot || style="text-align:right" | 43.00 || style="text-align:right" | 600 || style="text-align:right" | 2.87
+|-
+| style="text-align:right" | 103 || Exeggutor || style="text-align:right" | 57.00 || style="text-align:right" | 800 || style="text-align:right" | 2.85
+|-
+| style="text-align:right" | 59 || Arcanine || style="text-align:right" | 56.25 || style="text-align:right" | 800 || style="text-align:right" | 2.81
+|-
+| style="text-align:right" | 260 || Swampert || style="text-align:right" | 56.00 || style="text-align:right" | 800 || style="text-align:right" | 2.80
+|-
+| style="text-align:right" | 286 || Breloom || style="text-align:right" | 41.50 || style="text-align:right" | 600 || style="text-align:right" | 2.77
+|-
+| style="text-align:right" | 164 || Noctowl || style="text-align:right" | 41.00 || style="text-align:right" | 600 || style="text-align:right" | 2.73
+|-
+| style="text-align:right" | 257 || Blaziken || style="text-align:right" | 54.25 || style="text-align:right" | 800 || style="text-align:right" | 2.71
+|-
+| style="text-align:right" | 365 || Walrein || style="text-align:right" | 54.25 || style="text-align:right" | 800 || style="text-align:right" | 2.71
+|-
+| style="text-align:right" | 42 || Golbat || style="text-align:right" | 40.50 || style="text-align:right" | 600 || style="text-align:right" | 2.70
+|-
+| style="text-align:right" | 284 || Masquerain || style="text-align:right" | 40.50 || style="text-align:right" | 600 || style="text-align:right" | 2.70
+|-
+| style="text-align:right" | 160 || Feraligatr || style="text-align:right" | 51.75 || style="text-align:right" | 800 || style="text-align:right" | 2.59
+|-
+| style="text-align:right" | 181 || Ampharos || style="text-align:right" | 51.75 || style="text-align:right" | 800 || style="text-align:right" | 2.59
+|-
+| style="text-align:right" | 25 || Pikachu || style="text-align:right" | 25.75 || style="text-align:right" | 400 || style="text-align:right" | 2.58
+|-
+| style="text-align:right" | 39 || Jigglypuff || style="text-align:right" | 25.75 || style="text-align:right" | 400 || style="text-align:right" | 2.58
+|-
+| style="text-align:right" | 230 || Kingdra || style="text-align:right" | 51.50 || style="text-align:right" | 800 || style="text-align:right" | 2.58
+|-
+| style="text-align:right" | 233 || Porygon2 || style="text-align:right" | 51.50 || style="text-align:right" | 800 || style="text-align:right" | 2.58
+|-
+| style="text-align:right" | 288 || Vigoroth || style="text-align:right" | 38.50 || style="text-align:right" | 600 || style="text-align:right" | 2.57
+|-
+| style="text-align:right" | 217 || Ursaring || style="text-align:right" | 51.25 || style="text-align:right" | 800 || style="text-align:right" | 2.56
+|-
+| style="text-align:right" | 168 || Ariados || style="text-align:right" | 38.25 || style="text-align:right" | 600 || style="text-align:right" | 2.55
+|-
+| style="text-align:right" | 262 || Mightyena || style="text-align:right" | 38.25 || style="text-align:right" | 600 || style="text-align:right" | 2.55
+|-
+| style="text-align:right" | 89 || Muk || style="text-align:right" | 50.75 || style="text-align:right" | 800 || style="text-align:right" | 2.54
+|-
+| style="text-align:right" | 22 || Fearow || style="text-align:right" | 38.00 || style="text-align:right" | 600 || style="text-align:right" | 2.53
+|-
+| style="text-align:right" | 6 || Charizard || style="text-align:right" | 50.50 || style="text-align:right" | 800 || style="text-align:right" | 2.53
+|-
+| style="text-align:right" | 68 || Machamp || style="text-align:right" | 50.50 || style="text-align:right" | 800 || style="text-align:right" | 2.53
+|-
+| style="text-align:right" | 80 || Slowbro || style="text-align:right" | 50.50 || style="text-align:right" | 800 || style="text-align:right" | 2.53
+|-
+| style="text-align:right" | 157 || Typhlosion || style="text-align:right" | 50.50 || style="text-align:right" | 800 || style="text-align:right" | 2.53
+|-
+|}
+
+
+==== Sinnoh ====
+{| class="wikitable sortable" 
+! scope="col" | PokeDex || scope="col" | Pokémon || scope="col" | Attack Gain || scope="col" | Egg Steps || scope="col" | Breeding Efficiency 
+|- 
+| style="text-align:right" | 130 || Gyarados || style="text-align:right" | 57.00 || style="text-align:right" | 200 || style="text-align:right" | 11.40
+|-
+| style="text-align:right" | 485 || Heatran || style="text-align:right" | 67.75 || style="text-align:right" | 400 || style="text-align:right" | 6.78
+|-
+| style="text-align:right" | 490 || Manaphy || style="text-align:right" | 66.00 || style="text-align:right" | 400 || style="text-align:right" | 6.60
+|-
+| style="text-align:right" | 289 || Slaking || style="text-align:right" | 82.00 || style="text-align:right" | 600 || style="text-align:right" | 5.47
+|-
+| style="text-align:right" | 468 || Togekiss || style="text-align:right" | 53.50 || style="text-align:right" | 400 || style="text-align:right" | 5.35
+|-
+| style="text-align:right" | 36 || Clefable || style="text-align:right" | 52.50 || style="text-align:right" | 400 || style="text-align:right" | 5.25
+|-
+| style="text-align:right" | 40 || Wigglytuff || style="text-align:right" | 49.00 || style="text-align:right" | 400 || style="text-align:right" | 4.90
+|-
+| style="text-align:right" | 26 || Raichu || style="text-align:right" | 47.00 || style="text-align:right" | 400 || style="text-align:right" | 4.70
+|-
+| style="text-align:right" | 129 || Magikarp || style="text-align:right" | 22.50 || style="text-align:right" | 200 || style="text-align:right" | 4.50
+|-
+| style="text-align:right" | 184 || Azumarill || style="text-align:right" | 43.00 || style="text-align:right" | 400 || style="text-align:right" | 4.30
+|-
+| style="text-align:right" | 176 || Togetic || style="text-align:right" | 38.75 || style="text-align:right" | 400 || style="text-align:right" | 3.88
+|-
+| style="text-align:right" | 417 || Pachirisu || style="text-align:right" | 36.00 || style="text-align:right" | 400 || style="text-align:right" | 3.60
+|-
+| style="text-align:right" | 35 || Clefairy || style="text-align:right" | 35.25 || style="text-align:right" | 400 || style="text-align:right" | 3.53
+|-
+| style="text-align:right" | 275 || Shiftry || style="text-align:right" | 52.75 || style="text-align:right" | 600 || style="text-align:right" | 3.52
+|-
+| style="text-align:right" | 169 || Crobat || style="text-align:right" | 52.00 || style="text-align:right" | 600 || style="text-align:right" | 3.47
+|-
+| style="text-align:right" | 76 || Golem || style="text-align:right" | 51.25 || style="text-align:right" | 600 || style="text-align:right" | 3.42
+|-
+| style="text-align:right" | 342 || Crawdaunt || style="text-align:right" | 50.50 || style="text-align:right" | 600 || style="text-align:right" | 3.37
+|-
+| style="text-align:right" | 272 || Ludicolo || style="text-align:right" | 50.00 || style="text-align:right" | 600 || style="text-align:right" | 3.33
+|-
+| style="text-align:right" | 416 || Vespiquen || style="text-align:right" | 49.75 || style="text-align:right" | 600 || style="text-align:right" | 3.32
+|-
+| style="text-align:right" | 453 || Croagunk || style="text-align:right" | 32.75 || style="text-align:right" | 400 || style="text-align:right" | 3.28
+|-
+| style="text-align:right" | 18 || Pidgeot || style="text-align:right" | 48.00 || style="text-align:right" | 600 || style="text-align:right" | 3.20
+|-
+| style="text-align:right" | 398 || Staraptor || style="text-align:right" | 47.75 || style="text-align:right" | 600 || style="text-align:right" | 3.18
+|-
+| style="text-align:right" | 103 || Exeggutor || style="text-align:right" | 62.00 || style="text-align:right" | 800 || style="text-align:right" | 3.10
+|-
+| style="text-align:right" | 286 || Breloom || style="text-align:right" | 46.50 || style="text-align:right" | 600 || style="text-align:right" | 3.10
+|-
+| style="text-align:right" | 25 || Pikachu || style="text-align:right" | 30.75 || style="text-align:right" | 400 || style="text-align:right" | 3.08
+|-
+| style="text-align:right" | 39 || Jigglypuff || style="text-align:right" | 30.75 || style="text-align:right" | 400 || style="text-align:right" | 3.08
+|-
+| style="text-align:right" | 465 || Tangrowth || style="text-align:right" | 61.50 || style="text-align:right" | 800 || style="text-align:right" | 3.08
+|-
+| style="text-align:right" | 164 || Noctowl || style="text-align:right" | 46.00 || style="text-align:right" | 600 || style="text-align:right" | 3.07
+|-
+| style="text-align:right" | 59 || Arcanine || style="text-align:right" | 61.25 || style="text-align:right" | 800 || style="text-align:right" | 3.06
+|-
+| style="text-align:right" | 260 || Swampert || style="text-align:right" | 61.00 || style="text-align:right" | 800 || style="text-align:right" | 3.05
+|-
+| style="text-align:right" | 414 || Mothim || style="text-align:right" | 45.75 || style="text-align:right" | 600 || style="text-align:right" | 3.05
+|-
+| style="text-align:right" | 42 || Golbat || style="text-align:right" | 45.50 || style="text-align:right" | 600 || style="text-align:right" | 3.03
+|-
+| style="text-align:right" | 284 || Masquerain || style="text-align:right" | 45.50 || style="text-align:right" | 600 || style="text-align:right" | 3.03
+|-
+| style="text-align:right" | 257 || Blaziken || style="text-align:right" | 59.25 || style="text-align:right" | 800 || style="text-align:right" | 2.96
+|-
+| style="text-align:right" | 365 || Walrein || style="text-align:right" | 59.25 || style="text-align:right" | 800 || style="text-align:right" | 2.96
+|-
+| style="text-align:right" | 395 || Empoleon || style="text-align:right" | 58.75 || style="text-align:right" | 800 || style="text-align:right" | 2.94
+|-
+| style="text-align:right" | 389 || Torterra || style="text-align:right" | 58.50 || style="text-align:right" | 800 || style="text-align:right" | 2.93
+|-
+| style="text-align:right" | 473 || Mamoswine || style="text-align:right" | 58.50 || style="text-align:right" | 800 || style="text-align:right" | 2.93
+|-
+| style="text-align:right" | 405 || Luxray || style="text-align:right" | 58.25 || style="text-align:right" | 800 || style="text-align:right" | 2.91
+|-
+| style="text-align:right" | 464 || Rhyperior || style="text-align:right" | 58.25 || style="text-align:right" | 800 || style="text-align:right" | 2.91
+|-
+|}</text>
+    <contributor>
+      <username>Spectroscopy</username>
+      <id>84</id>
+    </contributor>
+    <comment>updated tables to 40 entries from 12</comment>
+    <model>wikitext</model>
+    <parentid>6016</parentid>
+    <sha1>a5cd2aad06268f82ba7a499c629b3f4a9d9193de</sha1>
+  </revision>
+  <revision>
+    <id>6016</id>
+    <timestamp>2020-11-19T00:06:08Z</timestamp>
+    <text bytes="8861" space="preserve">[[Protein]] is a consumable item which can be purchased from shops of each region's League. It can be fed to a pokemon to increase the amount of attack that pokemon gains by 1 per protein per hatch. Each pokemon can consume a total of 5 proteins per unlocked region.
+
+=== How to Use ===
+Go to Start Menu &gt; Items &gt; Item Bag, select the protein and select a pokemon to use it on. Once used the effect stays permanently and does not get removed by any means.
+
+=== New Efficiency ===
+Below is a list of the most efficient pokemon to breed after they have been fed the max amount of proteins for that region unlock. Note that this does not take into account the reduced damage output for pokemon in non-native regions. 
+
+==== Kanto ====
+{| class="wikitable sortable" 
+! scope="col" | PokeDex || scope="col" | Pokémon || scope="col" | Attack Gain || scope="col" | Egg Steps || scope="col" | Breeding Efficiency 
+|- 
+| style="text-align:right" | 130 || Gyarados || style="text-align:right" | 42.00 || style="text-align:right" | 200 || style="text-align:right" | 8.40 
+|-
+| style="text-align:right" | 36 || Clefable || style="text-align:right" | 37.50 || style="text-align:right" | 400 || style="text-align:right" | 3.75 
+|-
+| style="text-align:right" | 40 || Wigglytuff || style="text-align:right" | 34.00 || style="text-align:right" | 400 || style="text-align:right" | 3.40 
+|-
+| style="text-align:right" | 26 || Raichu || style="text-align:right" | 32.00 || style="text-align:right" | 400 || style="text-align:right" | 3.20 
+|-
+| style="text-align:right" | 76 || Golem || style="text-align:right" | 36.25 || style="text-align:right" | 600 || style="text-align:right" | 2.42 
+|-
+| style="text-align:right" | 103 || Exeggutor || style="text-align:right" | 47.00 || style="text-align:right" | 800 || style="text-align:right" | 2.35 
+|-
+| style="text-align:right" | 59 || Arcanine || style="text-align:right" | 46.25 || style="text-align:right" | 800 || style="text-align:right" | 2.31 
+|-
+| style="text-align:right" | 18 || Pidgeot || style="text-align:right" | 33.00 || style="text-align:right" | 600 || style="text-align:right" | 2.20 
+|-
+| style="text-align:right" | 89 || Muk || style="text-align:right" | 40.75 || style="text-align:right" | 800 || style="text-align:right" | 2.04 
+|-
+| style="text-align:right" | 42 || Golbat || style="text-align:right" | 30.50 || style="text-align:right" | 600 || style="text-align:right" | 2.03 
+|-
+| style="text-align:right" | 6 || Charizard || style="text-align:right" | 40.50 || style="text-align:right" | 800 || style="text-align:right" | 2.03 
+|-
+| style="text-align:right" | 35 || Clefairy || style="text-align:right" | 20.25 || style="text-align:right" | 400 || style="text-align:right" | 2.03 
+|-
+|}
+
+
+==== Johto ====
+{| class="wikitable sortable" 
+! scope="col" | PokeDex || scope="col" | Pokémon || scope="col" | Attack Gain || scope="col" | Egg Steps || scope="col" | Breeding Efficiency 
+|- 
+| style="text-align:right" | 130 || Gyarados || style="text-align:right" | 47.00 || style="text-align:right" | 200 || style="text-align:right" | 9.40 
+|-
+| style="text-align:right" | 36 || Clefable || style="text-align:right" | 42.50 || style="text-align:right" | 400 || style="text-align:right" | 4.25 
+|-
+| style="text-align:right" | 40 || Wigglytuff || style="text-align:right" | 39.00 || style="text-align:right" | 400 || style="text-align:right" | 3.90 
+|-
+| style="text-align:right" | 26 || Raichu || style="text-align:right" | 37.00 || style="text-align:right" | 400 || style="text-align:right" | 3.70 
+|-
+| style="text-align:right" | 184 || Azumarill || style="text-align:right" | 33.00 || style="text-align:right" | 400 || style="text-align:right" | 3.30 
+|-
+| style="text-align:right" | 176 || Togetic || style="text-align:right" | 28.75 || style="text-align:right" | 400 || style="text-align:right" | 2.88 
+|-
+| style="text-align:right" | 169 || Crobat || style="text-align:right" | 42.00 || style="text-align:right" | 600 || style="text-align:right" | 2.80 
+|-
+| style="text-align:right" | 76 || Golem || style="text-align:right" | 41.25 || style="text-align:right" | 600 || style="text-align:right" | 2.75 
+|-
+| style="text-align:right" | 103 || Exeggutor || style="text-align:right" | 52.00 || style="text-align:right" | 800 || style="text-align:right" | 2.60 
+|-
+| style="text-align:right" | 59 || Arcanine || style="text-align:right" | 51.25 || style="text-align:right" | 800 || style="text-align:right" | 2.56 
+|-
+| style="text-align:right" | 18 || Pidgeot || style="text-align:right" | 38.00 || style="text-align:right" | 600 || style="text-align:right" | 2.53 
+|-
+| style="text-align:right" | 35 || Clefairy || style="text-align:right" | 25.25 || style="text-align:right" | 400 || style="text-align:right" | 2.53 
+|-
+|}
+
+
+==== Hoenn ====
+{| class="wikitable sortable" 
+! scope="col" | PokeDex || scope="col" | Pokémon || scope="col" | Attack Gain || scope="col" | Egg Steps || scope="col" | Breeding Efficiency 
+|- 
+| style="text-align:right" | 130 || Gyarados || style="text-align:right" | 52.00 || style="text-align:right" | 200 || style="text-align:right" | 10.40 
+|-
+| style="text-align:right" | 289 || Slaking || style="text-align:right" | 77.00 || style="text-align:right" | 600 || style="text-align:right" | 5.13 
+|-
+| style="text-align:right" | 36 || Clefable || style="text-align:right" | 47.50 || style="text-align:right" | 400 || style="text-align:right" | 4.75 
+|-
+| style="text-align:right" | 40 || Wigglytuff || style="text-align:right" | 44.00 || style="text-align:right" | 400 || style="text-align:right" | 4.40 
+|-
+| style="text-align:right" | 26 || Raichu || style="text-align:right" | 42.00 || style="text-align:right" | 400 || style="text-align:right" | 4.20 
+|-
+| style="text-align:right" | 184 || Azumarill || style="text-align:right" | 38.00 || style="text-align:right" | 400 || style="text-align:right" | 3.80 
+|-
+| style="text-align:right" | 129 || Magikarp || style="text-align:right" | 17.50 || style="text-align:right" | 200 || style="text-align:right" | 3.50 
+|-
+| style="text-align:right" | 176 || Togetic || style="text-align:right" | 33.75 || style="text-align:right" | 400 || style="text-align:right" | 3.38 
+|-
+| style="text-align:right" | 275 || Shiftry || style="text-align:right" | 47.75 || style="text-align:right" | 600 || style="text-align:right" | 3.18 
+|-
+| style="text-align:right" | 169 || Crobat || style="text-align:right" | 47.00 || style="text-align:right" | 600 || style="text-align:right" | 3.13 
+|-
+| style="text-align:right" | 76 || Golem || style="text-align:right" | 46.25 || style="text-align:right" | 600 || style="text-align:right" | 3.08 
+|-
+| style="text-align:right" | 342 || Crawdaunt || style="text-align:right" | 45.50 || style="text-align:right" | 600 || style="text-align:right" | 3.03 
+|-
+|}
+
+
+==== Sinnoh ====
+{| class="wikitable sortable" 
+! scope="col" | PokeDex || scope="col" | Pokémon || scope="col" | Attack Gain || scope="col" | Egg Steps || scope="col" | Breeding Efficiency 
+|- 
+| style="text-align:right" | 130 || Gyarados || style="text-align:right" | 57.00 || style="text-align:right" | 200 || style="text-align:right" | 11.40 
+|-
+| style="text-align:right" | 485 || Heatran || style="text-align:right" | 67.75 || style="text-align:right" | 400 || style="text-align:right" | 6.78 
+|-
+| style="text-align:right" | 490 || Manaphy || style="text-align:right" | 66.00 || style="text-align:right" | 400 || style="text-align:right" | 6.60 
+|-
+| style="text-align:right" | 289 || Slaking || style="text-align:right" | 82.00 || style="text-align:right" | 600 || style="text-align:right" | 5.47 
+|-
+| style="text-align:right" | 468 || Togekiss || style="text-align:right" | 53.50 || style="text-align:right" | 400 || style="text-align:right" | 5.35 
+|-
+| style="text-align:right" | 36 || Clefable || style="text-align:right" | 52.50 || style="text-align:right" | 400 || style="text-align:right" | 5.25 
+|-
+| style="text-align:right" | 40 || Wigglytuff || style="text-align:right" | 49.00 || style="text-align:right" | 400 || style="text-align:right" | 4.90 
+|-
+| style="text-align:right" | 26 || Raichu || style="text-align:right" | 47.00 || style="text-align:right" | 400 || style="text-align:right" | 4.70 
+|-
+| style="text-align:right" | 129 || Magikarp || style="text-align:right" | 22.50 || style="text-align:right" | 200 || style="text-align:right" | 4.50 
+|-
+| style="text-align:right" | 184 || Azumarill || style="text-align:right" | 43.00 || style="text-align:right" | 400 || style="text-align:right" | 4.30 
+|-
+| style="text-align:right" | 176 || Togetic || style="text-align:right" | 38.75 || style="text-align:right" | 400 || style="text-align:right" | 3.88 
+|-
+| style="text-align:right" | 417 || Pachirisu || style="text-align:right" | 36.00 || style="text-align:right" | 400 || style="text-align:right" | 3.60 
+|-
+|}</text>
+    <contributor>
+      <username>Spectroscopy</username>
+      <id>84</id>
+    </contributor>
+    <comment>added disclaimer for tables</comment>
+    <model>wikitext</model>
+    <parentid>6015</parentid>
+    <sha1>f902a5ac43d9e3d0caf85e6294e09f2c22d4b2b2</sha1>
+  </revision>
+  <revision>
+    <id>6015</id>
+    <timestamp>2020-11-18T23:12:03Z</timestamp>
+    <text bytes="8757" space="preserve">[[Protein]] is a consumable item which can be purchased from shops of each region's League. It can be fed to a pokemon to increase the amount of attack that pokemon gains by 1 per protein per hatch. Each pokemon can consume a total of 5 proteins per unlocked region.
+
+=== How to Use ===
+Go to Start Menu &gt; Items &gt; Item Bag, select the protein and select a pokemon to use it on. Once used the effect stays permanently and does not get removed by any means.
+
+=== New Efficiency ===
+Below is a list of the most efficient pokemon to breed after they have been fed the max amount of proteins for that region unlock.
+
+==== Kanto ====
+{| class="wikitable sortable" 
+! scope="col" | PokeDex || scope="col" | Pokémon || scope="col" | Attack Gain || scope="col" | Egg Steps || scope="col" | Breeding Efficiency 
+|- 
+| style="text-align:right" | 130 || Gyarados || style="text-align:right" | 42.00 || style="text-align:right" | 200 || style="text-align:right" | 8.40 
+|-
+| style="text-align:right" | 36 || Clefable || style="text-align:right" | 37.50 || style="text-align:right" | 400 || style="text-align:right" | 3.75 
+|-
+| style="text-align:right" | 40 || Wigglytuff || style="text-align:right" | 34.00 || style="text-align:right" | 400 || style="text-align:right" | 3.40 
+|-
+| style="text-align:right" | 26 || Raichu || style="text-align:right" | 32.00 || style="text-align:right" | 400 || style="text-align:right" | 3.20 
+|-
+| style="text-align:right" | 76 || Golem || style="text-align:right" | 36.25 || style="text-align:right" | 600 || style="text-align:right" | 2.42 
+|-
+| style="text-align:right" | 103 || Exeggutor || style="text-align:right" | 47.00 || style="text-align:right" | 800 || style="text-align:right" | 2.35 
+|-
+| style="text-align:right" | 59 || Arcanine || style="text-align:right" | 46.25 || style="text-align:right" | 800 || style="text-align:right" | 2.31 
+|-
+| style="text-align:right" | 18 || Pidgeot || style="text-align:right" | 33.00 || style="text-align:right" | 600 || style="text-align:right" | 2.20 
+|-
+| style="text-align:right" | 89 || Muk || style="text-align:right" | 40.75 || style="text-align:right" | 800 || style="text-align:right" | 2.04 
+|-
+| style="text-align:right" | 42 || Golbat || style="text-align:right" | 30.50 || style="text-align:right" | 600 || style="text-align:right" | 2.03 
+|-
+| style="text-align:right" | 6 || Charizard || style="text-align:right" | 40.50 || style="text-align:right" | 800 || style="text-align:right" | 2.03 
+|-
+| style="text-align:right" | 35 || Clefairy || style="text-align:right" | 20.25 || style="text-align:right" | 400 || style="text-align:right" | 2.03 
+|-
+|}
+
+
+==== Johto ====
+{| class="wikitable sortable" 
+! scope="col" | PokeDex || scope="col" | Pokémon || scope="col" | Attack Gain || scope="col" | Egg Steps || scope="col" | Breeding Efficiency 
+|- 
+| style="text-align:right" | 130 || Gyarados || style="text-align:right" | 47.00 || style="text-align:right" | 200 || style="text-align:right" | 9.40 
+|-
+| style="text-align:right" | 36 || Clefable || style="text-align:right" | 42.50 || style="text-align:right" | 400 || style="text-align:right" | 4.25 
+|-
+| style="text-align:right" | 40 || Wigglytuff || style="text-align:right" | 39.00 || style="text-align:right" | 400 || style="text-align:right" | 3.90 
+|-
+| style="text-align:right" | 26 || Raichu || style="text-align:right" | 37.00 || style="text-align:right" | 400 || style="text-align:right" | 3.70 
+|-
+| style="text-align:right" | 184 || Azumarill || style="text-align:right" | 33.00 || style="text-align:right" | 400 || style="text-align:right" | 3.30 
+|-
+| style="text-align:right" | 176 || Togetic || style="text-align:right" | 28.75 || style="text-align:right" | 400 || style="text-align:right" | 2.88 
+|-
+| style="text-align:right" | 169 || Crobat || style="text-align:right" | 42.00 || style="text-align:right" | 600 || style="text-align:right" | 2.80 
+|-
+| style="text-align:right" | 76 || Golem || style="text-align:right" | 41.25 || style="text-align:right" | 600 || style="text-align:right" | 2.75 
+|-
+| style="text-align:right" | 103 || Exeggutor || style="text-align:right" | 52.00 || style="text-align:right" | 800 || style="text-align:right" | 2.60 
+|-
+| style="text-align:right" | 59 || Arcanine || style="text-align:right" | 51.25 || style="text-align:right" | 800 || style="text-align:right" | 2.56 
+|-
+| style="text-align:right" | 18 || Pidgeot || style="text-align:right" | 38.00 || style="text-align:right" | 600 || style="text-align:right" | 2.53 
+|-
+| style="text-align:right" | 35 || Clefairy || style="text-align:right" | 25.25 || style="text-align:right" | 400 || style="text-align:right" | 2.53 
+|-
+|}
+
+
+==== Hoenn ====
+{| class="wikitable sortable" 
+! scope="col" | PokeDex || scope="col" | Pokémon || scope="col" | Attack Gain || scope="col" | Egg Steps || scope="col" | Breeding Efficiency 
+|- 
+| style="text-align:right" | 130 || Gyarados || style="text-align:right" | 52.00 || style="text-align:right" | 200 || style="text-align:right" | 10.40 
+|-
+| style="text-align:right" | 289 || Slaking || style="text-align:right" | 77.00 || style="text-align:right" | 600 || style="text-align:right" | 5.13 
+|-
+| style="text-align:right" | 36 || Clefable || style="text-align:right" | 47.50 || style="text-align:right" | 400 || style="text-align:right" | 4.75 
+|-
+| style="text-align:right" | 40 || Wigglytuff || style="text-align:right" | 44.00 || style="text-align:right" | 400 || style="text-align:right" | 4.40 
+|-
+| style="text-align:right" | 26 || Raichu || style="text-align:right" | 42.00 || style="text-align:right" | 400 || style="text-align:right" | 4.20 
+|-
+| style="text-align:right" | 184 || Azumarill || style="text-align:right" | 38.00 || style="text-align:right" | 400 || style="text-align:right" | 3.80 
+|-
+| style="text-align:right" | 129 || Magikarp || style="text-align:right" | 17.50 || style="text-align:right" | 200 || style="text-align:right" | 3.50 
+|-
+| style="text-align:right" | 176 || Togetic || style="text-align:right" | 33.75 || style="text-align:right" | 400 || style="text-align:right" | 3.38 
+|-
+| style="text-align:right" | 275 || Shiftry || style="text-align:right" | 47.75 || style="text-align:right" | 600 || style="text-align:right" | 3.18 
+|-
+| style="text-align:right" | 169 || Crobat || style="text-align:right" | 47.00 || style="text-align:right" | 600 || style="text-align:right" | 3.13 
+|-
+| style="text-align:right" | 76 || Golem || style="text-align:right" | 46.25 || style="text-align:right" | 600 || style="text-align:right" | 3.08 
+|-
+| style="text-align:right" | 342 || Crawdaunt || style="text-align:right" | 45.50 || style="text-align:right" | 600 || style="text-align:right" | 3.03 
+|-
+|}
+
+
+==== Sinnoh ====
+{| class="wikitable sortable" 
+! scope="col" | PokeDex || scope="col" | Pokémon || scope="col" | Attack Gain || scope="col" | Egg Steps || scope="col" | Breeding Efficiency 
+|- 
+| style="text-align:right" | 130 || Gyarados || style="text-align:right" | 57.00 || style="text-align:right" | 200 || style="text-align:right" | 11.40 
+|-
+| style="text-align:right" | 485 || Heatran || style="text-align:right" | 67.75 || style="text-align:right" | 400 || style="text-align:right" | 6.78 
+|-
+| style="text-align:right" | 490 || Manaphy || style="text-align:right" | 66.00 || style="text-align:right" | 400 || style="text-align:right" | 6.60 
+|-
+| style="text-align:right" | 289 || Slaking || style="text-align:right" | 82.00 || style="text-align:right" | 600 || style="text-align:right" | 5.47 
+|-
+| style="text-align:right" | 468 || Togekiss || style="text-align:right" | 53.50 || style="text-align:right" | 400 || style="text-align:right" | 5.35 
+|-
+| style="text-align:right" | 36 || Clefable || style="text-align:right" | 52.50 || style="text-align:right" | 400 || style="text-align:right" | 5.25 
+|-
+| style="text-align:right" | 40 || Wigglytuff || style="text-align:right" | 49.00 || style="text-align:right" | 400 || style="text-align:right" | 4.90 
+|-
+| style="text-align:right" | 26 || Raichu || style="text-align:right" | 47.00 || style="text-align:right" | 400 || style="text-align:right" | 4.70 
+|-
+| style="text-align:right" | 129 || Magikarp || style="text-align:right" | 22.50 || style="text-align:right" | 200 || style="text-align:right" | 4.50 
+|-
+| style="text-align:right" | 184 || Azumarill || style="text-align:right" | 43.00 || style="text-align:right" | 400 || style="text-align:right" | 4.30 
+|-
+| style="text-align:right" | 176 || Togetic || style="text-align:right" | 38.75 || style="text-align:right" | 400 || style="text-align:right" | 3.88 
+|-
+| style="text-align:right" | 417 || Pachirisu || style="text-align:right" | 36.00 || style="text-align:right" | 400 || style="text-align:right" | 3.60 
+|-
+|}</text>
+    <contributor>
+      <username>Spectroscopy</username>
+      <id>84</id>
+    </contributor>
+    <comment>Added tables of most efficient pokemon to breed per region with max proteins</comment>
+    <model>wikitext</model>
+    <parentid>6014</parentid>
+    <sha1>f7828c559b2d40c8ecde36d90679f24564b7eda6</sha1>
+  </revision>
+  <revision>
+    <id>6014</id>
+    <timestamp>2020-11-18T21:54:52Z</timestamp>
+    <text bytes="791" space="preserve">[[Protein]] is a consumable item which can be purchased from shops of each region's League. It can be fed to a pokemon to increase the amount of attack that pokemon gains by 1 per protein per hatch. Each pokemon can consume a total of 5 proteins per unlocked region.
+
+=== How to Use ===
+Go to Start Menu &gt; Items &gt; Item Bag, select the protein and select a pokemon to use it on. Once used the effect stays permanently and does not get removed by any means.
+
+=== New Efficiency ===
+Below is a list of the most efficient pokemon to breed after they have been fed the max amount of proteins for that region unlock.
+
+==== Kanto ====
+(information not available)
+
+==== Johto ====
+(information not available)
+
+==== Hoenn ====
+(information not available)
+
+==== Sinnoh ====
+(information not available)</text>
+    <contributor>
+      <username>Spectroscopy</username>
+      <id>84</id>
+    </contributor>
+    <comment>Edited lead to update with protein nerf info</comment>
+    <model>wikitext</model>
+    <parentid>6013</parentid>
+    <sha1>88a4c12c66d302debf5508f3f09831f7291f8b86</sha1>
+  </revision>
+  <revision>
+    <id>6013</id>
+    <timestamp>2020-11-18T16:53:29Z</timestamp>
+    <text bytes="883" space="preserve">[[Protein]] is a consumable item that you can purchase from shops of each region's League. It can be fed to a pokemon to increase the amount of damage it gain on each successful egg hatching when you breed it. Your pokemon gain 1 damage for every Protein fed to it. Each pokemon can consume 10 Protien at a time with addition 10 more for each new region you unlock.
+
+
+=== How to Use ===
+Open hatchery and hover mouse on the pokemon that you want to use the protein on.
+Once used the effect stays permanently and does not get removed by any means.
+
+=== New Efficiency ===
+Below is a list of pokemon that are most efficient in breeding after they have been fed maxed proteins based on the region unlocked.
+
+==== Kanto ====
+(information not available)
+
+==== Johto ====
+(information not available)
+
+==== Hoenn ====
+(information not available)
+
+==== Sinnoh====
+(information not available)</text>
+    <contributor>
+      <username>Liczale</username>
+      <id>20</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>6012</parentid>
+    <sha1>c47a99abf09b607b016328bf721583a3aa28eb88</sha1>
+  </revision>
+  <revision>
+    <id>6012</id>
+    <timestamp>2020-11-16T15:43:40Z</timestamp>
+    <text bytes="914" space="preserve">[[Protein]] is a consumable item that you can purchase from shops of each region's League. It can be fed to a pokemon to increase the amount of damage it gain on each successful egg hatching when you breed it. Your pokemon gain 1 damage for every Protein fed to it. Each pokemon can consume 10 Protien at a time with addition 10 more for each new region you unlock.
+
+
+=== How to Use ===
+Open hatchery and hover mouse on the pokemon that you want to use the protein on.
+Once used the effect stays permanently and does not get removed by any means.
+
+=== New Efficiency ===
+Below is a list of pokemon that are most efficient in breeding after they have been fed maxed proteins based on the region unlocked.
+
+==== Kanto ====
+(information not available)
+
+==== Johto ====
+(information not available)
+
+==== Hoenn ====
+(information not available)
+
+==== Sinnoh====
+[[Media:Protein efficiency.png|Sinnoh's Efficiency Chart]]</text>
+    <contributor>
+      <username>Liczale</username>
+      <id>20</id>
+    </contributor>
+    <comment>/* Sinnoh */</comment>
+    <model>wikitext</model>
+    <parentid>6011</parentid>
+    <sha1>900de3f0c7e41d53b141322777f766ac450f7f81</sha1>
+  </revision>
+  <revision>
+    <id>6011</id>
+    <timestamp>2020-11-16T15:35:56Z</timestamp>
+    <text bytes="894" space="preserve">[[Protein]] is a consumable item that you can purchase from shops of each region's League. It can be fed to a pokemon to increase the amount of damage it gain on each successful egg hatching when you breed it. Your pokemon gain 1 damage for every Protein fed to it. Each pokemon can consume 10 Protien at a time with addition 10 more for each new region you unlock.
+
+
+=== How to Use ===
+Open hatchery and hover mouse on the pokemon that you want to use the protein on.
+Once used the effect stays permanently and does not get removed by any means.
+
+=== New Efficiency ===
+Below is a list of pokemon that are most efficient in breeding after they have been fed maxed proteins based on the region unlocked.
+
+==== Kanto ====
+(information not available)
+
+==== Johto ====
+(information not available)
+
+==== Hoenn ====
+(information not available)
+
+==== Sinnoh====
+[[File:Protein efficiency.png|250 px]]</text>
+    <contributor>
+      <username>Claygame</username>
+      <id>22</id>
+    </contributor>
+    <comment>/* New Efficiency */</comment>
+    <model>wikitext</model>
+    <parentid>6010</parentid>
+    <sha1>ade0aeeb1e26d3fccb8da23a736f858dee8e68c6</sha1>
+  </revision>
+  <revision>
+    <id>6010</id>
+    <timestamp>2020-11-16T15:22:37Z</timestamp>
+    <text bytes="625" space="preserve">[[Protein]] is a consumable item that you can purchase from shops of each region's League. It can be fed to a pokemon to increase the amount of damage it gain on each successful egg hatching when you breed it. Your pokemon gain 1 damage for every Protein fed to it. Each pokemon can consume 10 Protien at a time with addition 10 more for each new region you unlock.
+
+
+=== How to Use ===
+Open hatchery and hover mouse on the pokemon that you want to use the protein on.
+Once used the effect stays permanently and does not get removed by any means.
+
+=== New Efficiency ===
+==== Sinnoh====
+[[File:Protein efficiency.png|250 px]]</text>
+    <contributor>
+      <username>Liczale</username>
+      <id>20</id>
+    </contributor>
+    <comment>/* New Efficiency */</comment>
+    <model>wikitext</model>
+    <parentid>6009</parentid>
+    <sha1>6b283b907d6dcaeaf95047398aaf4cb5a23da2f9</sha1>
+  </revision>
+  <revision>
+    <id>6009</id>
+    <timestamp>2020-11-16T15:17:14Z</timestamp>
+    <text bytes="609" space="preserve">[[Protein]] is a consumable item that you can purchase from shops of each region's League. It can be fed to a pokemon to increase the amount of damage it gain on each successful egg hatching when you breed it. Your pokemon gain 1 damage for every Protein fed to it. Each pokemon can consume 10 Protien at a time with addition 10 more for each new region you unlock.
+
+
+=== How to Use ===
+Open hatchery and hover mouse on the pokemon that you want to use the protein on.
+Once used the effect stays permanently and does not get removed by any means.
+
+=== New Efficiency ===
+[[File:Protein efficiency.png|250 px]]</text>
+    <contributor>
+      <username>Liczale</username>
+      <id>20</id>
+    </contributor>
+    <comment>/* How to Use */</comment>
+    <model>wikitext</model>
+    <parentid>6008</parentid>
+    <sha1>e029bfc909c3fca71d8d4f43942641eff6336f18</sha1>
+  </revision>
+  <revision>
+    <id>6008</id>
+    <timestamp>2020-11-16T12:31:11Z</timestamp>
+    <text bytes="546" space="preserve">[[Protein]] is a consumable item that you can purchase from shops of each region's League. It can be fed to a pokemon to increase the amount of damage it gain on each successful egg hatching when you breed it. Your pokemon gain 1 damage for every Protein fed to it. Each pokemon can consume 10 Protien at a time with addition 10 more for each new region you unlock.
+
+
+=== How to Use ===
+Open hatchery and hover mouse on the pokemon that you want to use the protein on.
+Once used the effect stays permanently and does not get removed by any means.</text>
+    <contributor>
+      <username>Claygame</username>
+      <id>22</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>6007</parentid>
+    <sha1>ff5647589c07ed06ea4ba53eb7f2e0df7d463456</sha1>
+  </revision>
+  <revision>
+    <id>6007</id>
+    <timestamp>2020-11-16T12:14:19Z</timestamp>
+    <text bytes="468" space="preserve">[[Protein]] is a consumable item that you can purchase from shops of each region's League. It can be fed to a pokemon to increase the amount of damage it gain on each successful egg hatching when you breed it. Your pokemon gain 1 damage for every Protein fed to it. Each pokemon can consume 10 Protien at a time with addition 10 more for each new region you unlock.
+
+
+=== How to Use ===
+Open hatchery and hover mouse on the pokemon that you want to use the protein on.</text>
+    <contributor>
+      <username>Claygame</username>
+      <id>22</id>
+    </contributor>
+    <comment>added how to use section</comment>
+    <model>wikitext</model>
+    <parentid>6006</parentid>
+    <sha1>fab67005553730eaef8aa0611081506a309ba670</sha1>
+  </revision>
+  <revision>
+    <id>6006</id>
+    <timestamp>2020-11-16T11:02:08Z</timestamp>
+    <text bytes="365" space="preserve">[[Protein]] is a consumable item that you can purchase from shops of each region's League. It can be fed to a pokemon to increase the amount of damage it gain on each successful egg hatching when you breed it. Your pokemon gain 1 damage for every Protein fed to it. Each pokemon can consume 10 Protien at a time with addition 10 more for each new region you unlock.</text>
+    <contributor>
+      <username>Claygame</username>
+      <id>22</id>
+    </contributor>
+    <comment>Made a basic page with basic information in it.</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>667ba8dc19ba34cd0aa382efaf189204a98cd064</sha1>
+  </revision>
+</page>

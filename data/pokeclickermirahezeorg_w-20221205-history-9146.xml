@@ -1,0 +1,65 @@
+<page>
+  <title>Burned Tower</title>
+  <ns>0</ns>
+  <id>368</id>
+  <revision>
+    <id>5227</id>
+    <timestamp>2022-03-15T18:57:34Z</timestamp>
+    <text bytes="1636" space="preserve">{{Infobox dungeon
+|name    = Burned Tower
+|image   = [[File:Burned Tower.png]]
+|caption = An outside view of Burned Tower.
+|tokens  = 4,500
+|location = Northwest of Ecruteak City.
+}}
+'''Burned Tower''' is a [[dungeons|dungeon]] in [[Johto]]. It initially has 36 tiles arranged in a 6x6 square, including 6 chest tiles, 15 non-boss encounter tiles, and 1 boss encounter tile.
+
+==Pokémon and Dungeon Stats==
+
+{| class="wikitable"
+|-
+! Random Encounter !! Base Health !! Boss !! Base Health
+|-
+| [[File:Koffing.png|40px]] Koffing || rowspan=4 | &lt;center&gt; 88,500 || [[File:Weezing.png|40px]] Weezing || &lt;center&gt; 320,000
+|-
+| [[File:Zubat.png|40px]] Zubat || [[File:Golbat.png|40px]] Golbat || &lt;center&gt; 360,000
+|-
+| [[File:Rattata.png|40px]] Rattata || rowspan=2|[[File:Shuckle.png|40px]] Shuckle || rowspan=2| &lt;center&gt; 610,000
+|-
+| [[File:Raticate.png|40px]] Raticate
+|}
+
+==Items==
+
+{| class="wikitable"
+|-
+! Chest Item !! 0 Clears !! 100 Clears !! 500 Clears !! Requirement 
+|-
+| {{Bag3|Item Magnet}} [[Item Magnet]] || 65.98% || 65.30% || 61.71% || No Requirement
+|-
+| {{Bag3|X Attack}} [[X Attack|xAttack]] || 33.53% || 33.25% || 31.65% || No Requirement
+|-
+| {{Bag2|Flame Plate}} || 0.29% || 0.42% || 1.81% || No Requirement
+|-
+| {{Bag4|Ultraball}} || 0.15% || 0.35% || 1.66% || No Requirement
+|-
+| {{Bag2|Revive}} || 0.04% || 0.29% || 1.36% || No Requirement
+|-
+| {{Bag2|Electric Egg}} || 0.00% || 0.13% || 0.70% || Clear Burned Tower 100 Times
+|-
+| {{Bag2|Water Egg}} || 0.00% || 0.13% || 0.60% || Clear Burned Tower 100 Times
+|-
+| {{Bag2|Fire Egg}} || 0.00% || 0.13% || 0.60% || Clear Burned Tower 100 Times
+|}
+
+[[Category:Dungeons]]</text>
+    <contributor>
+      <username>SomeonealiveQN</username>
+      <id>5</id>
+    </contributor>
+    <comment>/* Items */Burned tower comple 6/16</comment>
+    <model>wikitext</model>
+    <parentid>5226</parentid>
+    <sha1>f10a4b3ec5ae05855c1155656606689c4fc139b9</sha1>
+  </revision>
+</page>

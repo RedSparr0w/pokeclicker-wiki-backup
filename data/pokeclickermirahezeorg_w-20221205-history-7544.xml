@@ -1,0 +1,101 @@
+<page>
+  <title>Slowpoke Well</title>
+  <ns>0</ns>
+  <id>364</id>
+  <revision>
+    <id>5190</id>
+    <timestamp>2022-06-27T05:41:49Z</timestamp>
+    <text bytes="2727" space="preserve">{{Infobox dungeon
+|name    = Slowpoke Well
+|image   = [[File:Slowpoke Well.png|thumb]]
+|caption = A map of Slowpoke Well.
+|tokens  = 3,500
+|location = In Azalea Town.
+}}
+'''Slowpoke Well''' is a [[Dungeons|dungeon]] in [[Johto]]. It initially has 36 tiles arranged in a 6x6 square, including 6 chest tiles, 15 non-boss encounter tiles, and 1 boss encounter tile. Wild Encounters have 67,900 HP.
+
+== Encounter Tables ==
+
+===Wild Encounters===
+
+{| class="wikitable"
+|-
+! Wild Pokémon !! colspan=2|Trainers
+|-
+! Encounter !! Trainer !! Pokémon Team
+|-
+| [[File:Zubat.png|40px]] Zubat || [[File:Team_Rocket_Grunt_(male).png|40px]] Team Rocket Grunt || [[File:Rattata.png|40px]] Rattata
+|-
+| rowspan=2|[[File:Slowpoke.png|40px]] Slowpoke || [[File:Team_Rocket_Grunt_(female).png|40px]] Team Rocket Grunt || [[File:Zubat.png|40px]] Zubat, [[File:Ekans.png|40px]] Ekans
+|-
+| [[File:Team_Rocket_Grunt_(male).png|40px]] Team Rocket Grunt || [[File:Rattata.png|40px]] Rattata, [[File:Zubat.png|40px]] Zubat
+|-
+|}
+
+===Boss Encounters===
+{| class="wikitable"
+|-
+! Boss !! Base Health !! Boss Trainer !! Pokémon !! Base Health
+|-
+| colspan=2|&lt;center&gt;N/A || [[File:Rocket_Executive_(proton).png|40px]] Rocket Executive Proton || [[File:Koffing.png|40px]] Koffing || &lt;center&gt;320,000
+|}
+
+==Items==
+
+===No Debuff===
+
+{| class="wikitable"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears !! Requirement
+|-
+| {{Bag2|Token Collector}} || 4 ||65.91% || 65.28% || 61.71% || rowspan=4|&lt;center&gt;N/A
+|-
+| {{Bag2|Dowsing Machine}} || 3.75 || 33.49% || 33.24% || 31.65% 
+|-
+| {{Bag2|Greatball}} || 2 || 0.29% || 0.42% || 1.81% 
+|-
+| {{Bag2|Splash Plate}} || 2 || 0.29% || 0.42% || 1.81% 
+|-
+| {{Bag2|Kings Rock}} || 1 || 0.00% || 0.26% || 1.21% || &lt;center&gt;100 Clears
+|-
+| {{Bag2|Water Egg}} || 0.5 || 0.0063% || 0.19% || 0.91% || rowspan=2|&lt;center&gt;N/A
+|-
+| {{Bag2|Medium Restore}} || 0.5 || 0.0063% || 0.19% || 0.91% 
+|}
+
+===Debuff Drop Table===
+
+After Reaching Unova, the drop chance for items in Johto will be debuffed for any loot with weight &lt; 2.
+
+{| class="wikitable collapsible collapsed"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears !! Requirement
+|-
+| {{Bag2|Token Collector}} || 4 || 65.92% || 65.69% || 63.55% || rowspan=4|&lt;center&gt;N/A
+|-
+| {{Bag2|Dowsing Machine}} || 3.75 || 33.49% || 33.44% || 32.60%
+|-
+| {{Bag2|Greatball}} || 2 || 0.29% || 0.42% || 1.86%
+|-
+| {{Bag2|Splash Plate}} || 2 || 0.29% || 0.42% || 1.86%
+|-
+| {{Bag2|Kings Rock}} || 1 || 0.00% || 0.013% || 0.062% || &lt;center&gt;100 Clears
+|-
+| {{Bag2|Water Egg}} || 0.5 || 0.000065% || 0.0065% || 0.031% || rowspan=2|&lt;center&gt;N/A
+|-
+| {{Bag2|Medium Restore}} || 0.5 || 0.000065% || 0.0065% || 0.031%
+|}
+
+{{Johto Dungeons}}
+
+[[Category:Dungeons]]</text>
+    <contributor>
+      <username>ThePantMan</username>
+      <id>8</id>
+    </contributor>
+    <comment>/* Items - magnet to dowsing machine */</comment>
+    <model>wikitext</model>
+    <parentid>5189</parentid>
+    <sha1>24a67531fbc03a71cad47b2d02036df4071aa0dc</sha1>
+  </revision>
+</page>

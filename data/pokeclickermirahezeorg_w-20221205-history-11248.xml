@@ -1,0 +1,112 @@
+<page>
+  <title>Coba</title>
+  <ns>0</ns>
+  <id>684</id>
+  <revision>
+    <id>7539</id>
+    <timestamp>2021-01-04T19:21:25Z</timestamp>
+    <text bytes="3345" space="preserve">{{Infobox Berry
+|name    = #44 Coba
+|image   = [[File:Coba.png]]
+|caption = This Berry is said to be a new kind that is a cross of two Berries brought together by winds from far away.
+|growtime  = 5h 30m 0s
+|harvest = 29 berries
+|replant = 5%
+|points = 1,800
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 spicy 
+*10 dry
+*0 sweet
+*15 bitter
+*0 sour
+}}
+== Description ==
+'''Coba''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by surrounding an empty plot with between 10 and 15 points of dry, between 15 and 20 points of bitter, and 0 points of all other flavors. The [[Chesto]] and [[Aguav]] must be unlocked to unlock this berry.
+
+== Growth Tables ==
+=== Growth Stages ===
+{| class="wikitable"
+! !! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 2 hours 30 mins || 3 hours 30 mins || 4 hours 30 mins || 5 hours 30 mins - 11 hours
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:CobaTreeTaller.png|50px]] || &lt;center&gt; [[File:CobaTreeBloom.png|50px]] || &lt;center&gt; [[File:CobaTreeBerry.png|50px]]
+|}
+
+=== Ripening Time with Modifiers  ===
+{| class="wikitable collapsible" | style="text-align: center;"
+! Modifier !! Ripe-Wither Time !! Boost Mulch Needed to Ripen
+|-
+! None
+| 5 hours 30 mins -&lt;br&gt; 11 hours || ---
+|-
+! Mulch/Sprayduck
+| 3 hours 40 mins -&lt;br&gt; 7 hours 20 mins || 44 mulch
+|-
+! Mulch*Sprayduck
+| 2 hours 26 mins 40 secs -&lt;br&gt; 4 hours 53 mins 20 secs || 30 mulch
+|}
+
+== Mutation Strategy ==
+=== Possible Planting Formations ===
+
+You can fill your [[farm]] in the following way to obtain the Coba berry.
+
+{| class="wikitable" style="text-align: center;"
+|+ Farm
+|-
+| style="width: 40px;" | [[File:Wiki.png|30px]]&lt;br&gt;[[Wiki]] || style="width: 40px;" | || style="width: 40px;" | || style="width: 40px;" | [[File:Wiki.png|30px]]&lt;br&gt;[[Wiki]] || style="width: 40px;" | 
+|-
+| || [[File:Aguav.png|30px]] [[Aguav]] ||  ||  || [[File:Aguav.png|30px]] [[Aguav]] 
+|- style="height: 50px;"
+| || || || || 
+|-
+| [[File:Wiki.png|30px]]&lt;br&gt;[[Wiki]] || || || [[File:Wiki.png|30px]]&lt;br&gt;[[Wiki]] || 
+|-
+| || [[File:Aguav.png|30px]] [[Aguav]] ||  ||  || [[File:Aguav.png|30px]] [[Aguav]] 
+|}
+
+{| class="wikitable" style="text-align: center;"
+|+ Farm
+|-
+| style="width: 40px;" | [[File:Chesto.png|30px]] [[Chesto]] || style="width: 40px;" | || style="width: 40px;" | || style="width: 40px;" | [[File:Chesto.png|30px]] [[Chesto]] || style="width: 40px;" | 
+|-
+| || [[File:Aguav.png|30px]] [[Aguav]] ||  ||  || [[File:Aguav.png|30px]] [[Aguav]] 
+|- style="height: 50px;"
+| || || || || 
+|-
+| [[File:Chesto.png|30px]] [[Chesto]] || || || [[File:Chesto.png|30px]] [[Chesto]] || 
+|-
+| || [[File:Aguav.png|30px]] [[Aguav]] ||  ||  || [[File:Aguav.png|30px]] [[Aguav]] 
+|}
+
+=== Timing Table ===
+{| class="collapsible wikitable"| style="text-align: center;"
+|+ ''All planting times use the time-to-ripe remaining of the first planted berry for subsequent planting times''
+! Berry !! Planting Time with &lt;br&gt; No Modifier !! Planting Time with &lt;br&gt; Mulch/Sprayduck || Planting Time with &lt;br&gt;  Mulch*Sprayduck
+|-
+| [[Aguav]] || - || - || -
+|-
+| [[Chesto]] || 40 secs until ripe || 27 secs until ripe || Not Practical
+|-
+| colspan=4| '''OR'''
+|-
+| [[Wiki]] || - || - || -
+|-
+| [[Aguav]] || 5 mins 50 secs until ripe || 3 mins 53 secs until ripe || Not Practical
+|-
+|}
+
+{{Berries}}</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment>Growth + Timing Table</comment>
+    <model>wikitext</model>
+    <parentid>7538</parentid>
+    <sha1>f8dd3ccd7ab8713ed541b32e78202edfcd6faa02</sha1>
+  </revision>
+</page>

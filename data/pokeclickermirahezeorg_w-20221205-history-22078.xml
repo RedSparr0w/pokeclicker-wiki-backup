@@ -1,0 +1,34 @@
+<page>
+  <title>Template:Template other</title>
+  <ns>10</ns>
+  <id>978</id>
+  <revision>
+    <id>9403</id>
+    <timestamp>2020-12-14T04:05:58Z</timestamp>
+    <text bytes="435" space="preserve">{{#switch:
+  &lt;!--If no or empty "demospace" parameter then detect namespace--&gt;
+  {{#if:{{{demospace|}}}
+  | {{lc: {{{demospace}}} }}    &lt;!--Use lower case "demospace"--&gt;
+  | {{#ifeq:{{NAMESPACE}}|{{ns:Template}}
+    | template
+    | other
+    }}
+  }}
+| template = {{{1|}}}
+| other
+| #default = {{{2|}}}
+}}&lt;!--End switch--&gt;&lt;noinclude&gt;
+
+{{documentation}}
+&lt;!-- Add categories and interwikis to the /doc subpage, not here! --&gt;
+&lt;/noinclude&gt;</text>
+    <contributor>
+      <username>Liczale</username>
+      <id>20</id>
+    </contributor>
+    <comment>1 revision imported: Here you go Cate &lt;3</comment>
+    <model>wikitext</model>
+    <parentid>9402</parentid>
+    <sha1>06fb13d264df967b5232141067eb7d2b67372d76</sha1>
+  </revision>
+</page>

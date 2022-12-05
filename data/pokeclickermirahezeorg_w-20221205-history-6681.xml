@@ -1,0 +1,22 @@
+<page>
+  <title>Translations:Pokérus/7/fr</title>
+  <ns>0</ns>
+  <id>4577</id>
+  <revision>
+    <id>16017</id>
+    <timestamp>2022-07-23T13:42:59Z</timestamp>
+    <text bytes="390" space="preserve">====Formules liées aux EVs====
+'''Lorsque l'Effort Value est inférieure à 50:''' &lt;br&gt;
+&lt;math&gt;\colorbox{White}{$ \text{Multiplicateur de dommages d'EV} = 1 + (\text{EV} / 100)$}&lt;/math&gt; &lt;br&gt;&lt;br&gt;
+'''Lorsque l'Effort Value est égale ou supérieure à 50:''' &lt;br&gt;
+&lt;math&gt;\colorbox{White}{$ \text{Multiplicateur de dommages d'EV} = 1 + \text{Min}(1, ((\text{EV} - 30)^{0.075} - 0.75 ))$}&lt;/math&gt;</text>
+    <contributor>
+      <username>Razikd</username>
+      <id>33</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>16016</parentid>
+    <sha1>cf340ef69f876d8dd2d71e495921e8ca8ed12ce5</sha1>
+  </revision>
+</page>

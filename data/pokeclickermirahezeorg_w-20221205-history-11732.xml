@@ -1,0 +1,62 @@
+<page>
+  <title>Ice Path</title>
+  <ns>0</ns>
+  <id>378</id>
+  <revision>
+    <id>5308</id>
+    <timestamp>2020-12-18T01:37:44Z</timestamp>
+    <text bytes="925" space="preserve">{{Infobox dungeon
+|name    = Ice Path
+|image   = [[File:Ice Path.png|300px]]
+|caption = A map of Ice Path.
+|tokens  = 6,000
+|location = Between Route 44 and 45, north of Blackthorn City.
+}}
+'''Ice Path''' is a [[Dungeons|dungeon]] in [[Johto]]. It has 36 tiles arranged in a 6x6 square, including 6 chest tiles, 15 non-boss encounter tiles, and 1 boss encounter tile.
+
+==Dungeon Stats==
+
+{| class="wikitable"
+|-
+! Pokémon !! Base Health
+|-
+| Random Encounter || 120,400
+|-
+| Delibird (Boss) || 380,000
+|}
+
+==Pokémon==
+
+{| class="wikitable"
+|-
+! Random Encounter !! Boss
+|-
+| [[File:Zubat.png|40px]] Zubat || rowspan=3|[[File:Delibird.png|40px]] Delibird
+|-
+| [[File:Jynx.png|40px]] Jynx
+|-
+| [[File:Swinub.png|40px]] Swinub
+|}
+
+==Items==
+
+{| class="wikitable"
+|-
+! Chest Item !! Chance to Find
+|-
+| {{Bag3|X Attack}} [[X Attack|xAttack]] || 50%
+|-
+| {{Bag3|Lucky Incense}} [[Lucky Incense]] || 50%
+|}
+
+[[Category:Dungeons]]</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment>Images + pokemon list reformat</comment>
+    <model>wikitext</model>
+    <parentid>5307</parentid>
+    <sha1>be217be6fe92cf43cbb13455470e99daa6e2b9b8</sha1>
+  </revision>
+</page>

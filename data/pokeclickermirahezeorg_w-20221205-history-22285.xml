@@ -1,0 +1,20 @@
+<page>
+  <title>Translations:Battle Frontier/12/en</title>
+  <ns>1198</ns>
+  <id>9330</id>
+  <revision>
+    <id>25256</id>
+    <timestamp>2022-12-04T00:32:07Z</timestamp>
+    <text bytes="259" space="preserve">===Items &amp; Pokémon===
+''Note: Enemy Health is calculated using the following formula rounded down:''&lt;br&gt;
+&lt;math&gt;\text{Enemy Health} = \text{Floor}[\left ( \frac{100}{12} \times (\text{Battle Frontier Stage} + 10)^{2.2}\right )^{1.15} \times (1 - 0.05)]&lt;/math&gt;</text>
+    <contributor>
+      <username>FuzzyBot</username>
+      <id>133</id>
+    </contributor>
+    <comment>Importing a new version from external source</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>ed6704bf370b00bbf6db9c5fdb28f8cb2b1f38af</sha1>
+  </revision>
+</page>

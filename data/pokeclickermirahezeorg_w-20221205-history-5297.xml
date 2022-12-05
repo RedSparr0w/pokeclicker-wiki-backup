@@ -1,0 +1,24 @@
+<page>
+  <title>Translations:Dungeons/4/es</title>
+  <ns>0</ns>
+  <id>5416</id>
+  <revision>
+    <id>18157</id>
+    <timestamp>2022-07-28T09:31:42Z</timestamp>
+    <text bytes="579" space="preserve">El número de cada tipo de casilla decrece con el tamaño de la mazmorra. Todas las mazmorras serán un cuadrado. Aquí hay un desglose de cada tipo de casilla basado en el tamaño:
+Para una mazmorra NxN hay:
+&lt;br&gt;&lt;math&gt;\colorbox{White}{$ \text{1 Casilla de Encuentro con un Jefe}$}&lt;/math&gt;
+&lt;br&gt;&lt;math&gt;\colorbox{White}{$ \text{N Casillas de Cofres}$}&lt;/math&gt;
+&lt;br&gt;&lt;math&gt;\colorbox{White}{$ \text{2*N+3 Casillas de Encuentros con No Jefes}$}&lt;/math&gt;
+&lt;br&gt;&lt;math&gt;\colorbox{White}{$ \text{(N+1)*(N-4) Casillas Vacías}$}&lt;/math&gt;
+&lt;br&gt;Nota: La casilla de entrada cuenta como una casilla vacía.</text>
+    <contributor>
+      <username>SrVariable</username>
+      <id>142</id>
+    </contributor>
+    <comment>Created page with "El número de cada tipo de casilla decrece con el tamaño de la mazmorra. Todas las mazmorras serán un cuadrado. Aquí hay un desglose de cada tipo de casilla basado en el tamaño: Para una mazmorra NxN hay: &lt;br&gt;&lt;math&gt;\colorbox{White}{$ \text{1 Casilla de Encuentro con un Jefe}$}&lt;/math&gt; &lt;br&gt;&lt;math&gt;\colorbox{White}{$ \text{N Casillas de Cofres}$}&lt;/math&gt; &lt;br&gt;&lt;math&gt;\colorbox{White}{$ \text{2*N+3 Casillas de Encuentros con No Jefes}$}&lt;/math&gt; &lt;br&gt;&lt;math&gt;\colorbox{White}{$ \tex..."</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>17efa50def47bfba898676ad88c68b9145926a05</sha1>
+  </revision>
+</page>

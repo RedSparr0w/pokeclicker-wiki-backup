@@ -1,0 +1,110 @@
+<page>
+  <title>Sky Pillar</title>
+  <ns>0</ns>
+  <id>401</id>
+  <revision>
+    <id>5503</id>
+    <timestamp>2022-06-27T16:20:41Z</timestamp>
+    <text bytes="2599" space="preserve">{{Infobox dungeon
+|name    = Sky Pillar
+|image   = [[File:Sky Pillar.png|300px]]
+|caption = An outside view of Sky Pillar.
+|tokens  = 34,000
+|location = Southwest of Sootopolis City, north of Route 131.
+}}
+'''Sky Pillar''' is a [[Dungeons|dungeon]] in [[Hoenn]]. It initially has 49 tiles arranged in a 7x7 square, including 7 chest tiles, 17 non-boss encounter tiles, and 1 boss encounter tile. Wild Encounters have 720,000 HP.
+
+== Encounter Tables ==
+
+===Wild Encounters===
+
+{| class="wikitable"
+|-
+! Wild Pokémon !! colspan=2|Trainers
+|-
+! Encounter !! Trainer !! Pokémon Team
+|-
+| [[File:Golbat.png|40px]] Golbat || colspan=2 rowspan=6|&lt;center&gt;N/A
+|-
+| [[File:Sableye.png|40px]] Sableye
+|-
+| [[File:Claydol.png|40px]] Claydol
+|-
+| [[File:Banette.png|40px]] Banette
+|-
+| [[File:Mawile.png|40px]] Mawile
+|-
+| [[File:Altaria.png|40px]] Altaria
+|-
+|}
+
+===Boss Encounters===
+{| class="wikitable"
+|-
+! Wild Pokémon !! Base Health !! Boss Trainer !! Pokémon Team !! Base Health
+|-
+| [[File:Dusclops.png|40px]] Dusclops || &lt;center&gt;3,200,000 || colspan=3 rowspan=2|&lt;center&gt; N/A
+|-
+| [[File:Rayquaza.png|40px]] Rayquaza || &lt;center&gt;5,824,002
+|-
+|}
+
+==Items==
+
+===No Debuff===
+
+{| class="wikitable"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears !! 1750 Clears !! Requirement
+|-
+| {{Bag2|XAttack}} || 4 ||77.36% || 76.66% || 70.54% || 70.08% ||rowspan=7|&lt;center&gt;N/A
+|-
+| {{Bag2|Greatball}} || 3.5 || 19.97% || 19.91% || 18.73% || 18.60%
+|-
+| {{Bag2|Ultraball}} || 2.5 || 1.33% || 1.47% || 2.42% || 2.40%
+|-
+| {{Bag2|Draco Plate}} || 2 || 0.35% || 0.49% || 2.07% || 2.06%
+|-
+| {{Bag2|Sky Plate}} || 2 || 0.35% || 0.49% || 2.07% || 2.06%
+|-
+| {{Bag2|Mind Plate}} || 2 || 0.35% || 0.49% || 2.07% || 2.06%
+|-
+| {{Bag2|Dragon Scale}} || 2 || 0.35% || 0.49% || 2.07% || 2.06%
+|}
+
+===Debuff Drop Table===
+
+After Reaching Kalos, the drop chance for items in Hoenn will be debuffed for any loot with weight &lt; 2.
+
+{| class="wikitable collapsible collapsed"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears !! 1750 Clears !! Requirement
+|-
+| {{Bag2|XAttack}} || 4 || 77.32% || 76.66% || 70.57% || 70.55% || rowspan=7|&lt;center&gt;N/A
+|-
+| {{Bag2|Greatball}} || 3.5 || 19.97% || 19.91% || 18.73% || 18.73%
+|-
+| {{Bag2|Ultraball}} || 2.5 || 1.33% || 1.47% || 2.42% || 2.41%
+|-
+| {{Bag2|Draco Plate}} || 2 || 0.35% || 0.49% || 2.07% || 2.07%
+|-
+| {{Bag2|Sky Plate}} || 2 || 0.35% || 0.49% || 2.07% || 2.07%
+|-
+| {{Bag2|Mind Plate}} || 2 || 0.35% || 0.49% || 2.07% || 2.07%
+|-
+| {{Bag2|Dragon Scale}} || 2 || 0.35% || 0.49% || 2.07% || 2.07%
+|}
+
+{{Hoenn Dungeons}}
+
+[[Category:Dungeons]]</text>
+    <contributor>
+      <username>SomeonealiveQN</username>
+      <id>5</id>
+    </contributor>
+    <comment>/* Items */</comment>
+    <model>wikitext</model>
+    <parentid>5502</parentid>
+    <sha1>1310664cbb80c6cda92a1d97d5d845052162c166</sha1>
+  </revision>
+</page>

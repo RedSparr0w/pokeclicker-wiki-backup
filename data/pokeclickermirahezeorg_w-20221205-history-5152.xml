@@ -1,0 +1,70 @@
+<page>
+  <title>Crimson Shard</title>
+  <ns>0</ns>
+  <id>4838</id>
+  <revision>
+    <id>16755</id>
+    <timestamp>2022-07-28T21:25:22Z</timestamp>
+    <text bytes="2153" space="preserve">{{Infobox Underground Item
+|name       = Crimson Shard
+|image      = [[File:Crimson_Shard_Updated.png|150px]]
+|caption    = In-Game image of the ''Crimson Shard''.
+|location   = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*[[Underground]]
+*[[Berry Master]]
+*[[Dungeons]]
+}}
+
+==Description==
+The '''Crimson Shard''' is a type of [[Underground|Underground Item]] first encountered in [[Sinnoh]].
+
+==Details==
+The Crimson Shard can be used, alongside [[Quest Points]] {{Questpoints}}, to purchase items at the [[Shard Trader|Shard Traders]].
+
+==Mine Layout==
+The Crimson Shard appears in the Underground as a 4x3 sized object: a 3x3 visible grid with an empty 1x3 row on the broken-edge side of the Shard image.&lt;br&gt;&lt;br&gt;
+[[File:CrimsonShardMine.png|100px]]
+
+==Trades==
+Crimson Shards can be used together with other [[Shards]] to purchase the following items:
+{| class="wikitable" style="text-align: center;"
+|-
+! rowspan=2|Item !! colspan=2|Cost
+|-
+! Shards !! Quest Points
+|-
+| [[File:Shiny_Stone.png|20px]] [[Shiny Stone]] || 50 [[File:Yellow_Shard_Updated.png|20px]] [[Yellow Shard|Yellow Shards]] &lt;br&gt; 75 [[File:Crimson_Shard_Updated.png|20px]] Crimson Shards || 625 {{Questpoints}}
+|-
+| [[File:Dusk_Stone.png|20px]] [[Dusk Stone]] || 50 [[File:Blue_Shard_Updated.png|20px]] [[Blue Shard|Blue Shards]] &lt;br&gt; 75 [[File:Crimson_Shard_Updated.png|20px]] Crimson Shards || 625 {{Questpoints}}
+|-
+| [[File:Dawn_Stone.png|20px]] [[Dawn Stone]] || 50 [[File:Green_Shard_Updated.png|20px]] [[Green Shard|Green Shards]] &lt;br&gt; 75 [[File:Crimson_Shard_Updated.png|20px]] Crimson Shards || 625 {{Questpoints}}
+|}
+
+For details as to where one can purchase these items, please check the [[Shard Trader]] page for more information.
+
+==Acquisition==
+Crimson Shards can be found in the [[Underground]], traded for with the [[Berry Master|Hoenn Berry Master]], and as Loot in [[Dungeons]].
+
+===Dungeons===
+{{Loot/head‎|Underground Items}}
+{{LootItem|Solaceon Ruins|Rare}}
+{{LootItem|Mt. Coronet North|Rare}}
+{{LootItem|Team Galactic HQ|Rare}}
+{{LootItem|Victory Road Sinnoh|Rare}}
+{{LootItem|Hall of Origin|Rare}}
+|}
+|}
+
+
+{{Underground Items}}
+[[Category:Items]] [[Category:Shards]]</text>
+    <contributor>
+      <username>Gryphonlady</username>
+      <id>139</id>
+    </contributor>
+    <comment>Clarified shard dimensions in underground due to actual image dimensions and code logic.</comment>
+    <model>wikitext</model>
+    <parentid>16754</parentid>
+    <sha1>d883377f664c06b41190608ea07809bdcefb32ca</sha1>
+  </revision>
+</page>

@@ -1,0 +1,166 @@
+<page>
+  <title>Lum</title>
+  <ns>0</ns>
+  <id>559</id>
+  <revision>
+    <id>6872</id>
+    <timestamp>2022-07-29T07:58:58Z</timestamp>
+    <text bytes="6565" space="preserve">&lt;languages/&gt;
+&lt;translate&gt;
+&lt;!--T:1--&gt;
+{{Infobox Berry
+|name    = #20 Lum
+|image   = [[File:Lum.png]]
+|caption = This Berry's gradual process of storing nutrients beneficial to Pokémon health causes it to mature slowly. This Berry multiplies the effect of Berry plants around it.
+|growtime  = 1h 0m 0s
+|harvest = 1 berry
+|replant = 0%
+|mutation = 0.1%
+|points = 1,000
+||flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*10 spicy 
+*10 dry
+*10 sweet
+*10 bitter
+*0 sour
+|helditem = [[File:Shaymin.png|30px]]Shaymin, [[File:Mew.png|30px]]Mew, [[File:Celebi.png|30px]]Celebi
+}}
+
+&lt;!--T:2--&gt;
+'''Lum''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by surrounding an empty plot with all 8 [[Berries#Gen 1 Berries|Gen 1 berries]] in the ripe stage.
+
+== Growth Tables == &lt;!--T:3--&gt;
+=== Growth Stages ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+|-
+! !! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 50 mins || 53 mins 20 secs || 56 mins 40 secs || 1 hour - 12 hours
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:LumTreeTaller.png|50px]] || &lt;center&gt; [[File:LumTreeBloom.png|50px]] || &lt;center&gt; [[File:LumTreeBerry.png|50px]]
+|-
+! rowspan=2|Aura (boost nearby auras)
+| rowspan=2|&lt;center&gt; N/A || &lt;center&gt; x1.01 || &lt;center&gt; x1.02 || &lt;center&gt;x1.03
+|-
+| colspan=3|'''Note: A Berry can only be affected by a single Lum boost at a time'''
+|}
+
+=== Ripening Time with Modifiers  === &lt;!--T:4--&gt;
+{| class="wikitable" | style="text-align: center;"
+! Modifier !! Ripe-Wither Time !! Boost Mulch Needed to Ripen
+|-
+! None
+| 1 hour -&lt;br&gt; 12 hours || ---
+|-
+! Mulch/Sprayduck
+| 40 mins -&lt;br&gt; 8 hours || 8 mulch
+|-
+! Mulch*Sprayduck
+| 26 mins 40 secs -&lt;br&gt; 5 hours 20 mins || 6 mulch
+|}
+
+== Flow Chart == &lt;!--T:5--&gt;
+[[File:Lum_Flow_Chart1.png|500px]]
+&lt;br&gt;
+
+== Mutation Strategy == &lt;!--T:6--&gt;
+=== Possible Planting Formations ===
+
+&lt;!--T:7--&gt;
+You can fill your farm in the following way to obtain Lum berries. Purple squares indicate where mutations can occur.
+
+&lt;!--T:8--&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Base Formation
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Sitrus.png|30px]]&lt;br&gt;[[Sitrus]] || style="width: 40px;" | [[File:Oran.png|30px]]&lt;br&gt;[[Oran]] || style="width: 40px;" | [[File:Aspear.png|30px]]&lt;br&gt;[[Aspear]]
+|-
+| [[File:Leppa.png|30px]]&lt;br&gt;[[Leppa]] || style="background-color:#9C7D98;" | || [[File:Pecha.png|30px]]&lt;br&gt;[[Pecha]]
+|- style="height: 50px;"
+| [[File:Rawst.png|30px]]&lt;br&gt;[[Rawst]] || [[File:Chesto.png|30px]]&lt;br&gt;[[Chesto]] || [[File:Cheri.png|30px]]&lt;br&gt;[[Cheri]]
+|}
+
+&lt;!--T:9--&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Optimized Planting Formation
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Sitrus.png|30px]]&lt;br&gt;[[Sitrus]] || style="width: 40px;" | [[File:Oran.png|30px]]&lt;br&gt;[[Oran]] || style="width: 40px;" | [[File:Aspear.png|30px]]&lt;br&gt;[[Aspear]] || style="width: 40px;" | [[File:Oran.png|30px]]&lt;br&gt;[[Oran]] || style="width: 40px;" | [[File:Sitrus.png|30px]]&lt;br&gt;[[Sitrus]]
+|-
+| [[File:Leppa.png|30px]]&lt;br&gt;[[Leppa]] || style="background-color:#9C7D98;" | || [[File:Pecha.png|30px]]&lt;br&gt;[[Pecha]] || style="background-color:#9C7D98;" | || [[File:Leppa.png|30px]]&lt;br&gt;[[Leppa]]
+|- style="height: 50px;"
+| [[File:Rawst.png|30px]]&lt;br&gt;[[Rawst]] || [[File:Chesto.png|30px]]&lt;br&gt;[[Chesto]] || [[File:Cheri.png|30px]]&lt;br&gt;[[Cheri]] || [[File:Chesto.png|30px]]&lt;br&gt;[[Chesto]] || [[File:Rawst.png|30px]]&lt;br&gt;[[Rawst]] 
+|-
+| [[File:Leppa.png|30px]]&lt;br&gt;[[Leppa]] || style="background-color:#9C7D98;" | || [[File:Pecha.png|30px]]&lt;br&gt;[[Pecha]] || style="background-color:#9C7D98;" | || [[File:Leppa.png|30px]]&lt;br&gt;[[Leppa]]
+|-
+| [[File:Sitrus.png|30px]]&lt;br&gt;[[Sitrus]] || [[File:Oran.png|30px]]&lt;br&gt;[[Oran]] || [[File:Aspear.png|30px]]&lt;br&gt;[[Aspear]] || [[File:Oran.png|30px]]&lt;br&gt;[[Oran]] || [[File:Sitrus.png|30px]]&lt;br&gt;[[Sitrus]]
+|}
+
+=== Important notes === &lt;!--T:10--&gt;
+
+&lt;!--T:11--&gt;
+The total growth time to achieve a field full of ripe Gen 1 berries is short at only ten minutes (without modifiers), but the Lum berry can be challenging to obtain. This is primarily due to the high mutation rates of unwanted berries that can mutate on the center space, as well as the short ripe-death time of Gen 1 berries. It is common to go through many full cycles of this growing process before a single Lum berry has been successfully mutated. As the growth time is so short, if you use the Sprayduck be sure to switch it to a different [[Oak Item]] as soon as the Cheri berry is ripe. Furthermore, while getting two cycles of Cheri berry ripeness is possible in one Sitrus cycle, it is often difficult to coordinate this timing with the other berries. When all 8 berries are ripe, be sure to apply a [[Farm Items|Surprise Mulch]] to the center plot and [[Farm Items|Shovel]] any unwanted berries as they appear. Diligently watching your plots during this process may dramatically reduce the number of Lum attempts necessary to achieve the mutation.
+
+=== Timing Table === &lt;!--T:12--&gt;
+{| class="collapsible wikitable" | style="text-align: center;"
+|+ ''All planting times use the time-to-ripe remaining of the first planted berry for subsequent planting times''
+! Berry !! Planting Time with &lt;br&gt; No Modifier !! Planting Time with &lt;br&gt; Mulch or Sprayduck || Planting Time with &lt;br&gt;  Mulch and Sprayduck
+|-
+| [[Sitrus]] || - || - || -
+|-
+| [[Oran]] || 5 mins until ripe || 3 mins 20 secs until ripe || rowspan=8|Not Practical
+|-
+| [[Leppa]] || 4 mins until ripe || 2 mins 40 secs until ripe
+|-
+| [[Aspear]] || 2 mins until ripe || 1 min 20 secs until ripe
+|-
+| [[Rawst]] || 1 min 20 secs until ripe || 53 secs until ripe
+|-
+| [[Pecha]] || 1 min until ripe || 40 secs until ripe
+|-
+| [[Chesto]] || 40 secs until ripe || 26 secs until ripe
+|-
+| [[Cheri]] || 30 secs until ripe || 20 secs until ripe
+|-
+|}
+
+==Acquisition== &lt;!--T:13--&gt;
+===Dungeons===
+{{Loot/head‎|Berries}}
+{{LootItem|Berry Forest|Mythic|400 Clears}}
+{{LootItem|Radio Tower|Mythic|250 Clears}}
+{{LootItem|Cave of Origin|Mythic|150 Clears}}
+{{LootItem|Moor of Icirrus|Mythic|200 Clears}}
+{{LootItem|Pinwheel Forest|Mythic|200 Clears}}
+{{LootItem|Thrifty Megamart|Mythic|100 Clears}}
+|}
+|}
+
+&lt;!--T:14--&gt;
+&lt;br&gt;
+
+==Using Lum== &lt;!--T:15--&gt;
+Farm setups using Lum can be found on these pages:
+* [[Pokémon_Day_Care|Maximizing Egg step gain for Breeding Pokemon faster]] 
+* [[Shiny Chance|Maximizing Shiny Chance to turn all Pokemon Shiny]]
+* [[Farming Setups|Various useful Farming Setups]]
+&lt;br&gt;
+
+
+&lt;!--T:16--&gt;
+{{Berries}}
+
+&lt;!--T:17--&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/translate&gt;</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment>Marked this version for translation</comment>
+    <model>wikitext</model>
+    <parentid>6871</parentid>
+    <sha1>9655bc7a0c9969c1b40fd5e99356fafadca62061</sha1>
+  </revision>
+</page>

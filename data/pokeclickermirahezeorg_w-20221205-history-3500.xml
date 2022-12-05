@@ -1,0 +1,36 @@
+<page>
+  <title>Translations:Template:Infobox Oak Item/1/es</title>
+  <ns>0</ns>
+  <id>4395</id>
+  <revision>
+    <id>15617</id>
+    <timestamp>2022-07-29T16:09:49Z</timestamp>
+    <text bytes="785" space="preserve">{|class="infobox bordered" style="float:right; width:264px; font-size:90%; text-align:left; border:2px solid #000; padding:3px;" cellpadding="3"
+|- 
+!colspan="2" style="font-size:110%; text-align:center; background-color:#3f9ad8; color:#000;" | {{{name}}}
+|-
+{{#if:{{{image&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} colspan="2" style="text-align:center;" {{!}}{{{image}}}{{#if:{{{symbol|}}}|&lt;br /&gt;{{{symbol}}}}}{{#if:{{{caption|}}}|&lt;br /&gt;{{{caption}}}}}
+{{!}}-
+}}
+{{#if:{{{effect&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#3f9ad8; color:#000;" {{!}}'''Efecto'''
+{{!}}{{{effect}}}
+{{!}}-
+}}
+{{#if:{{{dex&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#3f9ad8; color:#000;" {{!}}'''Pokémon distintos Requeridos'''
+{{!}}{{{dex}}}
+{{!}}-
+}}
+|}&lt;noinclude&gt;</text>
+    <contributor>
+      <username>Cthulhu Follower</username>
+      <id>51</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>15616</parentid>
+    <sha1>953ad4232b7952f15b299e7348bf8f5315281f16</sha1>
+  </revision>
+</page>

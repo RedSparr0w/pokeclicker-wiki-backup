@@ -1,0 +1,59 @@
+<page>
+  <title>Victory Road Sinnoh</title>
+  <ns>0</ns>
+  <id>437</id>
+  <revision>
+    <id>5882</id>
+    <timestamp>2022-03-03T23:19:48Z</timestamp>
+    <text bytes="1178" space="preserve">{{Infobox dungeon
+|name    = Victory Road Sinnoh
+|image   = [[File:Victory Road Sinnoh.png|300px]]
+|caption = A map of Victory Road Sinnoh.
+|tokens  = 86,500
+|location = North of Route 223.
+}}
+'''Victory Road Sinnoh''' is a [[Dungeons|dungeon]] in [[Sinnoh]]. It initially has 64 tiles arranged in an 8x8 square, including 8 chest tiles, 19 non-boss encounter tiles, and 1 boss encounter tile.
+
+==Pokémon and Dungeon Stats==
+
+{| class="wikitable"
+|-
+! Random Encounter !! Base Health !! Boss !! Base Health
+|-
+| [[File:Golbat.png|40px]] Golbat || rowspan=7 | &lt;center&gt; 1,503,000 || rowspan=2|[[File:Rhydon.png|40px]] Rhydon || rowspan=7| &lt;center&gt; 7,000,000
+|-
+| [[File:Graveler.png|40px]] Graveler
+|-
+| [[File:Onix.png|40px]] Onix || rowspan=2|[[File:Steelix.png|40px]] Steelix
+|-
+| [[File:Rhyhorn.png|40px]] Rhyhorn
+|-
+| [[File:Magneton.png|40px]] Magneton || rowspan=3|[[File:Gabite.png|40px]] Gabite
+|-
+| [[File:Azumarill.png|40px]] Azumarill
+|-
+| [[File:Floatzel.png|40px]] Floatzel
+|}
+
+==Items==
+
+{| class="wikitable"
+|-
+! Chest Item !! Chance to Find
+|-
+| {{Bag3|X Click}} [[XClick|xClick]] || 50%
+|-
+| {{Bag3|Item Magnet}} [[Item Magnet]] || 50%
+|}
+
+[[Category:Dungeons]]</text>
+    <contributor>
+      <username>Razrushil</username>
+      <id>31</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>5881</parentid>
+    <sha1>86d3b97a7019c229e0c1cbdda9ebcbb1487bc687</sha1>
+  </revision>
+</page>

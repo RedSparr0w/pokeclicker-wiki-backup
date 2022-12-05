@@ -1,0 +1,135 @@
+<page>
+  <title>Cornn</title>
+  <ns>0</ns>
+  <id>597</id>
+  <revision>
+    <id>7033</id>
+    <timestamp>2022-03-28T08:51:29Z</timestamp>
+    <text bytes="4107" space="preserve">{{Infobox Berry
+|name    = #27 Cornn
+|image   = [[File:Cornn.png]]
+|caption = Its dryness is quite strong. As a result, its true deliciousness can't be appreciated by just eating one or two.
+|growtime  = 2h 30m 0s
+|harvest = 26 berries
+|replant = 10%
+|mutation = 0.03%
+|points = 700
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 spicy 
+*20 dry
+*10 sweet
+*0 bitter
+*0 sour
+}}
+
+'''Cornn''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by surrounding an empty plot with at least 1 [[Leppa]], at least 1 [[Bluk]] and at least 1 [[Wiki]].
+
+== Growth Tables ==
+=== Growth Stages ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+!!! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 18 mins 20 secs || 1 hour 6 mins 40 secs || 2 hours 13 mins 20 secs || 2 hours 30 mins - 5 hours
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt;[[File:CornnTreeTaller.png|50px]] || &lt;center&gt;[[File:CornnTreeBloom.png|50px]] || &lt;center&gt; [[File:CornnTreeBerry.png|50px]]
+|}
+
+=== Ripening Time with Modifiers  ===
+{| class="wikitable" | style="text-align: center;"
+! Modifier !! Ripe-Wither Time !! Boost Mulch Needed to Ripen
+|-
+! None
+| 2 hours 30 mins -&lt;br&gt; 5 hours || ---
+|-
+! Mulch or Sprayduck
+| 1 hour 40 mins -&lt;br&gt; 3 hours 20 mins || 20 mulch
+|-
+! Mulch &amp; Sprayduck
+| 1 hour 6 mins 7 secs -&lt;br&gt; 2 hours 12 mins 13 secs || 16 mulch
+|}
+
+== Flow Chart ==
+[[File:Cornn_Flow_Chart1.png|350px]]
+&lt;br&gt;
+
+== Mutation Strategy ==
+=== Possible Planting Formations ===
+
+You can fill your farm in the following way to obtain Cornn berries. Purple squares indicate where mutations can occur.
+
+{| class="wikitable" style="text-align: center;"
+|+ Base Formation
+|- style="height: 50px;"
+| style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Leppa.png|30px]]&lt;br&gt;[[Leppa]]
+|-
+| [[File:Bluk.png|30px]]&lt;br&gt;[[Bluk]] || [[File:Wiki.png|30px]]&lt;br&gt;[[Wiki]]
+|}
+
+{| class="wikitable" style="text-align: center;"
+|+ Optimized Planting Formation
+|-style="height: 50px;"
+| style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Leppa.png|30px]]&lt;br&gt;[[Leppa]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Leppa.png|30px]]&lt;br&gt;[[Leppa]]
+|-
+| [[File:Bluk.png|30px]]&lt;br&gt;[[Bluk]] || [[File:Wiki.png|30px]]&lt;br&gt;[[Wiki]] || style="background-color:#9C7D98;" | || [[File:Bluk.png|30px]]&lt;br&gt;[[Bluk]] || [[File:Wiki.png|30px]]&lt;br&gt;[[Wiki]] 
+|- style="height: 50px; background-color:#9C7D98;"
+| || || || || 
+|-
+| style="background-color:#9C7D98;" | || [[File:Leppa.png|30px]]&lt;br&gt;[[Leppa]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Leppa.png|30px]]&lt;br&gt;[[Leppa]] 
+|-
+| [[File:Bluk.png|30px]]&lt;br&gt;[[Bluk]] || [[File:Wiki.png|30px]]&lt;br&gt;[[Wiki]] || style="background-color:#9C7D98;" | || [[File:Bluk.png|30px]]&lt;br&gt;[[Bluk]] || [[File:Wiki.png|30px]]&lt;br&gt;[[Wiki]] 
+|}
+
+=== Timing Table ===
+{| class="wikitable"| style="text-align: center;"
+|+ ''All planting times use the time-to-ripe remaining of the first planted berry for subsequent planting times''
+! Berry !! Planting Time with &lt;br&gt; No Modifier !! Planting Time with &lt;br&gt; Mulch or Sprayduck || Planting Time with &lt;br&gt;  Mulch &amp; Sprayduck
+|-
+| [[Wiki]] || - || - || -
+|-
+| [[Bluk]] || 5 mins 30 secs until ripe || 3 mins 40 secs until ripe || Not Practical
+|-
+| [[Leppa]] || 4 mins until ripe || 2 mins 40 secs until ripe || Not Practical
+|}
+
+==Uses==
+===Mutations===
+
+Cornn berries can be used to mutate the following berries.
+
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Pamtre.png|20px]] [[Pamtre]] || -
+|-
+| [[File:Payapa.png|20px]] [[Payapa]] || [[File:Bluk.png|20px]] [[Bluk]] &lt;br&gt; [[File:Wiki.png|20px]] [[Wiki]] &lt;br&gt; [[File:Pamtre.png|20px]] [[Pamtre]]
+|-
+| [[File:Charti.png|20px]] [[Charti]] || -
+|-
+|}
+
+==Acquisition==
+===Dungeons===
+{{Loot/head‎|Berries}}
+{{LootItem|Meteor Falls|3.5}}
+{{LootItem|Reversal Mountain|3}}
+|}
+|}
+
+&lt;br&gt;
+
+{{Berries}}
+
+[[Category:Farm]][[Category:Berries]]</text>
+    <contributor>
+      <username>SwitchRoot</username>
+      <id>24</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>7032</parentid>
+    <sha1>9a3acbbabe67a612a62d9b6649f7b74862dd0166</sha1>
+  </revision>
+</page>

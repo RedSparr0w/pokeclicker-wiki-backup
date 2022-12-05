@@ -1,0 +1,144 @@
+<page>
+  <title>Roseli</title>
+  <ns>0</ns>
+  <id>629</id>
+  <revision>
+    <id>7254</id>
+    <timestamp>2021-01-28T16:23:13Z</timestamp>
+    <text bytes="5589" space="preserve">{{Infobox Berry
+|name    = #53 Roseli
+|image   = [[File:Roseli.png]]
+|caption = This Berry is sweet with a hint of bitterness and has a lingering sweet scent. The scent of this Berry plant attracts wild Pokémon.
+|growtime  = 7h
+|harvest = 38 berries
+|replant = 5%
+|points = 2,500
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 spicy 
+*0 dry
+*25 sweet
+*10 bitter
+*0 sour
+}}
+
+'''Roseli''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by surrounding an empty plot with at least 1 [[Mago]], at least 1 [[Nanab]], at least 1 [[Magost]] and at least 1 [[Watmel]]. It emits an aura that increases the chance of encountering a wandering Pokémon.
+
+== Growth Tables ==
+=== Growth Stages ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 40 mins 10 secs || 1 hour 24 mins || 3 hours 30 mins || 7 hours - 14 hours
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:RoseliTreeTaller.png|50px]] || &lt;center&gt; [[File:RoseliTreeBloom.png|50px]] || &lt;center&gt;[[File:RoseliTreeBerry.png|50px]]
+|-
+! Aura (wandering chance)
+| || &lt;center&gt; x1.01 || &lt;center&gt; x1.02 || &lt;center&gt;x1.03
+|}
+
+=== Ripening Time with Modifiers  ===
+{| class="wikitable" | style="text-align: center;"
+! Modifier !! Ripe-Wither Time !! Boost Mulch Needed to Ripen
+|-
+! None
+| 7 hours -&lt;br&gt; 14 hours || ---
+|-
+! Mulch or Sprayduck
+| 4 hours 40 mins -&lt;br&gt; 9 hours 20 mins || 68 mulch
+|-
+! Mulch &amp; Sprayduck
+| 3 hours 7 mins -&lt;br&gt; 6 hours 14 mins || 47 mulch
+|}
+
+== Flow Chart ==
+{| class="wikitable mw-collapsible" style="text-align: center;"
+|+ '''Flow Chart to get this berry'''
+|-
+| || || || || || || Random Drop || || Random Drop || || || || || || || Random Drop
+|-
+| || || || || || || ↓ || || ↓ || || || || || || || ↓
+|-
+| || || || || || || [[File:Aspear.png|20px]] [[Aspear]] || + || [[File:Pecha.png|20px]] [[Pecha]] || || || Random Drop || || || || [[File:Pecha.png|20px]] [[Pecha]]
+|-
+| || || || || || || || || ↓ || || || ↓ || || || || ↓
+|-
+| || || || || || || Random Drop || || [[File:Nanab.png|20px]] [[Nanab]] || || + || [[File:Pecha.png|20px]] [[Pecha]] || style="width: 30px;" | || + || style="width: 30px;" | || [[File:Mago.png|20px]] [[Mago]]
+|-
+| || || || || || || ↓ || || ↓
+|-
+| || || || || || || [[File:Pecha.png|20px]] [[Pecha]] || || [[File:Magost.png|20px]] [[Magost]]
+|-
+| || || || || || || ↓ || || ↓
+|-
+| || || || || || || [[File:Mago.png|20px]] [[Mago]] || + || [[File:Watmel.png|20px]] [[Watmel]]
+|-
+| || || || || || + || || ↓ || || +
+|-
+| || || || || [[File:Nanab.png|20px]] [[Nanab]] || || → || [[File:Roseli.png|20px]] Roseli || ← || || [[File:Magost.png|20px]] [[Magost]]
+|-
+| || || || || ↑ || || || || || || ↑
+|-
+| [[File:Pecha.png|20px]] [[Pecha]] || style="width: 40px;" | || + || style="width: 40px;" | || [[File:Aspear.png|20px]] [[Aspear]] || || || || || || [[File:Nanab.png|20px]] [[Nanab]] || + || || [[File:Pecha.png|20px]] [[Pecha]] 
+|| || + || || || || [[File:Mago.png|20px]] [[Mago]]
+|-
+| ↑ || style="width: 40px;" | || || style="width: 40px;" | || ↑ || || || || || || ↑ || || || ↑ 
+|| || || || || || ↑
+|-
+| Random Drop || style="width: 40px;" | || || style="width: 40px;" | || Random Drop || || || [[File:Pecha.png|20px]] [[Pecha]] || + || || [[File:Aspear.png|20px]] [[Aspear]] || || || Random Drop 
+|| || || || || || [[File:Pecha.png|20px]] [[Pecha]]
+|-
+| || style="width: 40px;" | || || style="width: 40px;" | || || || || ↑ || || || ↑ || || ||
+|| || || || || || ↑
+|-
+| || style="width: 40px;" | || || style="width: 40px;" | || || || || Random Drop || || || Random Drop || || ||
+|| || || || || || Random Drop
+|-
+|}
+
+== Mutation Strategy ==
+=== Possible Planting Formations ===
+
+You can fill your farm in the following way to obtain Roseli berries. Purple squares indicate where mutations can occur.
+
+{| class="wikitable" style="text-align: center;"
+|+ Farm
+|-
+| style="width: 40px;" | [[File:Mago.png|30px]]&lt;br&gt;[[Mago]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Magost.png|30px]] [[Magost]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Mago.png|30px]]&lt;br&gt;[[Mago]]
+|-
+| [[File:Nanab.png|30px]] [[Nanab]] || style="background-color:#9C7D98;" | || [[File:Watmel.png|30px]] [[Watmel]] || style="background-color:#9C7D98;" | || [[File:Nanab.png|30px]] [[Nanab]]
+|- style="height: 55px;"
+| || style="background-color:#9C7D98;" | || || style="background-color:#9C7D98;" | || 
+|-
+| [[File:Magost.png|30px]] [[Magost]]  || style="background-color:#9C7D98;" | || [[File:Mago.png|30px]]&lt;br&gt;[[Mago]] || style="background-color:#9C7D98;" | || [[File:Magost.png|30px]] [[Magost]] 
+|-
+| [[File:Watmel.png|30px]] [[Watmel]] || style="background-color:#9C7D98;" | || [[File:Nanab.png|30px]] [[Nanab]] || style="background-color:#9C7D98;" | || [[File:Watmel.png|30px]] [[Watmel]]
+|}
+=== Timing Table ===
+{| class="wikitable"| style="text-align: center;"
+|+ ''All planting times use the time-to-ripe remaining of the first planted berry for subsequent planting times''
+! Berry !! Planting Time with &lt;br&gt; No Modifier !! Planting Time with &lt;br&gt; Mulch or Sprayduck || Planting Time with &lt;br&gt;  Mulch &amp; Sprayduck
+|-
+| [[Watmel]] || - || - || -
+|-
+| [[Magost]] || 4 hours until ripe || 2 hours 40 mins until ripe || 1 hour 47 mins until ripe
+|-
+| [[Mago]] || 6 mins 10 secs until ripe || 4 mins 7 secs until ripe || Not Practical
+|-
+| [[Nanab]] || 4 mins 10 secs until ripe || 2 mins 47 secs until ripe || Not Practical
+|-
+|}
+
+
+{{Berries}}</text>
+    <contributor>
+      <username>Liczale</username>
+      <id>20</id>
+    </contributor>
+    <comment>Protected "[[Roseli]]": Protecting the whole wiki lets go ([Edit=Allow only autoconfirmed users] (indefinite) [Move=Allow only autoconfirmed users] (indefinite) [Delete=Allow only autoconfirmed users] (indefinite) [Protect=Allow only autoconfirmed users] (indefinite))</comment>
+    <model>wikitext</model>
+    <parentid>7253</parentid>
+    <sha1>127e0fd0b8baede94752a10807ba866e9022b056</sha1>
+  </revision>
+</page>

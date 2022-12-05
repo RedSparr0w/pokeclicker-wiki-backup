@@ -1,0 +1,85 @@
+<page>
+  <title>Castelia Sewers</title>
+  <ns>0</ns>
+  <id>1738</id>
+  <revision>
+    <id>10369</id>
+    <timestamp>2022-04-16T17:55:28Z</timestamp>
+    <text bytes="2668" space="preserve">{{Infobox dungeon
+|name    = Castelia Sewers
+|image   = [[File:Castelia Sewers.png|300px]]
+|caption = A map of Castelia Sewers.
+|tokens  = 146,500
+|location = Castelia City
+}}
+'''Castelia Sewers''' is a [[Dungeons|dungeon]] in [[Unova]]. It initially has 81 tiles arranged in an 9x9 square, including 9 chest tiles, 21 non-boss encounter tiles, and 1 boss encounter tile.
+
+==Pokémon and Dungeon Stats==
+
+{| class="wikitable"
+|-
+! Wild Encounter !! Base Health !! Trainer !! Pokémon !! Base Health
+|-
+| [[File:Rattata.png|40px]] Rattata || rowspan=7| &lt;center&gt; 2,603,000 || [[File:Janitor.png|40px]] Janitor Felix || [[File:Lillipup.png|40px]] Lillipup, [[File:Trubbish.png|40px]] Trubbish || rowspan=7|&lt;center&gt; 146,500
+|-
+| [[File:Zubat.png|40px]] Zubat || [[File:Doctor.png|40px]] Doctor Heath || [[File:Sewaddle.png|40px]] Sewaddle
+|-
+| [[File:Grimer.png|40px]] Grimer || [[File:Worker.png|40px]] Worker Zack || [[File:Drilbur.png|40px]] Drilbur
+|-
+| rowspan=2|[[File:Muk.png|40px]] Muk || [[File:Worker.png|40px]] Worker Scott || [[File:Timburr.png|40px]] Timburr
+|-
+| [[File:Scientist_(female).png|40px]] Scientist Caroline || [[File:Grimer.png|40px]] Grimer
+|-
+| rowspan=2|[[File:Trubbish.png|40px]] Trubbish || [[File:Scientist_(male).png|40px]] Scientist Clarke || [[File:Magnemite.png|40px]] Magnemite
+|-
+| [[File:Janitor.png|40px]] Janitor Brady || [[File:Marill.png|40px]] Marill, [[File:Cinccino.png|40px]] Cinccino
+|-
+! Boss !! Base Health !! Boss Trainer !! Pokémon !! Base Health
+|-
+| rowspan=2|&lt;center&gt; N/A || rowspan=2|&lt;center&gt; N/A || [[File:Team_Plasma_Grunt_(male).png|40px]] Team Plasma Grunt || [[File:Sandile.png|40px]] Sandile || rowspan=2|&lt;center&gt;15,000,000
+|-
+| [[File:Team_Plasma_Grunt_(female).png|40px]] Team Plasma Grunt || [[File:Scraggy.png|40px]] Scraggy
+|}
+
+==Items==
+
+{| class="wikitable"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears !! Requirememt
+|-
+| {{Bag3|X Click}} [[X Click|xClick]] || 4 || 64.08% || 63.14% || 59.98% || rowspan=11|&lt;center&gt;N/A
+|-
+| {{Bag3|X Attack}} [[X Attack|xAttack]] || 3.75 || 32.56% || 32.14% || 29.23% 
+|-
+| {{Bag2|Toxic Plate}} || 2.5 || 1.10% || 1.21% || 1.95% 
+|-
+| {{Bag2|Mind Plate}} || 2.5 || 1.10% || 1.21% || 1.95% 
+|-
+| {{Bag2|Small Restore}} || 2 || 0.29% || 0.40% || 1.67% 
+|-
+| {{Bag4|Ultraball}} || 2 || 0.29% || 0.40% || 1.67% 
+|-
+| {{Bag2|Revive}} || 2 || 0.29% || 0.40% || 1.67% 
+|-
+| {{Bag2|Medium Restore}} || 1.75 || 0.15% || 0.34% || 1.56% 
+|-
+| {{Bag2|Rare Bone}} || 1.5 || 0.08% || 0.31% || 1.39% 
+|-
+| {{Bag2|Large Restore}} || 1.5 || 0.08% || 0.31% || 1.39% 
+|-
+| {{Bag2|Heart Scale}} || 0 || 0.00% || 0.13% || 0.56% 
+|}
+
+{{Dungeons}}
+
+[[Category:Dungeons]]</text>
+    <contributor>
+      <username>Slk</username>
+      <id>6</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>10368</parentid>
+    <sha1>231f75b32baf2ffd249f918aaa93356d85b0745a</sha1>
+  </revision>
+</page>

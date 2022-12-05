@@ -1,0 +1,27 @@
+<page>
+  <title>Translations:Battle Frontier/11/fr</title>
+  <ns>0</ns>
+  <id>6937</id>
+  <revision>
+    <id>20128</id>
+    <timestamp>2022-07-29T13:33:10Z</timestamp>
+    <text bytes="641" space="preserve">'''Note''' : Les gains ne sont pas remportés dans la Zone de Combat lorsque vous quittez par vous même. Vous devez perdre un niveau pour récupérer l'ensemble de vos [[Pokémon Dollars|Pokédollars]] {{pdollar}} et vos [[Battle Points|Jetons de bataille]] {{Battlepoints}}.
+{| class="wikitable"
+|-
+! Devise gagnée !! Formula
+|-
+| {{pdollar}} Pokédollars || &lt;math&gt;\text{Niveau atteint}^{2}&lt;/math&gt;
+|-
+| {{Battlepoints}} Jetons de bataille&lt;sup&gt;1&lt;/sup&gt; || &lt;math&gt;\frac{\text{Niveau atteint}^{2}}{100}&lt;/math&gt;
+|}
+&lt;small&gt;&lt;sup&gt;1&lt;/sup&gt;Les [[Battle Points|Jetons de bataille]] {{Battlepoints}} sont arrondis au nombre entier le plus proche&lt;/small&gt;</text>
+    <contributor>
+      <username>PetroleVB</username>
+      <id>36</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>20127</parentid>
+    <sha1>ce37e277b2460a694bcdf6ecd50c1c1a184f2ac6</sha1>
+  </revision>
+</page>

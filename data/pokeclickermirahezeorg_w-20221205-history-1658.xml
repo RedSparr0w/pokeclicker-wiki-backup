@@ -1,0 +1,79 @@
+<page>
+  <title>Repeatball</title>
+  <ns>0</ns>
+  <id>3599</id>
+  <revision>
+    <id>13567</id>
+    <timestamp>2022-08-11T05:02:04Z</timestamp>
+    <text bytes="1648" space="preserve">&lt;languages/&gt;
+&lt;translate&gt;
+
+&lt;!--T:1--&gt;
+{{Infobox Pokéball
+|name       = Repeatball
+|image      = [[File:Repeatball.png]]
+|caption    = In-Game image of the ''Repeatball''.
+|price      = Variable
+|catchTime  = 1.25s
+|catchRate = Variable (Increased catch rate with more Pokémon catches)
+|location   = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*[[Repeatball#Dungeons|Dungeons]]
+}}
+
+==Description== &lt;!--T:2--&gt;
+
+&lt;!--T:8--&gt;
+The '''Repeatball''' is a type of [[Pokéballs|Pokéball]]. It automatically tries to catch a wild Pokémon after defeating it if is the highest type of Pokéball active and there is a remaining supply in the Pokéball selector.
+
+==Details== &lt;!--T:3--&gt;
+
+&lt;!--T:9--&gt;
+A specialized Pokéball to capture Pokémon with, it provides an increased catch rate the more a Pokémon is captured. Additionally, catching a Pokémon with the Repeatball yields 5x more EVs.
+
+==Rates== &lt;!--T:4--&gt;
+
+&lt;!--T:10--&gt;
+{| class="wikitable"
+|+ Repeatball Catch Rates
+|-
+! Pokémon Captures !! Catch chance (+%)
+|-
+| 0 || 0 (Equal to Pokéball)
+|-
+| 159 || 5 (Equal to Greatball)
+|-
+| 224 || 10 (Equal to Ultraball)
+|-
+| 274 || 15
+|}
+
+&lt;!--T:11--&gt;
+[[File:Repeatball_Catch_Rate_Graph.png|X-axis: Pokémon Captures&lt;br&gt;Y-axis: Catch rate|200px]]
+
+==Acquisition== &lt;!--T:5--&gt;
+===Dungeons===
+{{Loot/head‎|Pokéballs}}
+{{LootItem|Victory Road Sinnoh|Legendary}}
+{{LootItem|Victory Road Unova|Epic}}
+{{LootItem|Kalos Power Plant|Legendary}}
+{{LootItem|Pokéball Factory|Epic}}
+{{LootItem|Pokémon Village|Epic}}
+{{LootItem|Ula'ula Meadow|Legendary}}
+{{LootItem|Vast Poni Canyon|Epic}}
+|}
+|}
+
+ &lt;!--T:6--&gt;
+{{Pokéballs}}
+[[Category:Items]] [[Category:Pokéballs]]
+&lt;/translate&gt;</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>13566</parentid>
+    <sha1>1c7345bd7603971be817828d79dc029b161baf66</sha1>
+  </revision>
+</page>

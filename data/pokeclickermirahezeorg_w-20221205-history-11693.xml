@@ -1,0 +1,55 @@
+<page>
+  <title>Burned Tower</title>
+  <ns>0</ns>
+  <id>368</id>
+  <revision>
+    <id>5223</id>
+    <timestamp>2020-12-18T17:29:05Z</timestamp>
+    <text bytes="1091" space="preserve">{{Infobox dungeon
+|name    = Burned Tower
+|image   = [[File:Burned Tower.png]]
+|caption = An outside view of Burned Tower.
+|tokens  = 4,500
+|location = Northwest of Ecruteak City.
+}}
+'''Burned Tower''' is a [[dungeons|dungeon]] in [[Johto]]. It has 36 tiles arranged in a 6x6 square, including 6 chest tiles, 15 non-boss encounter tiles, and 1 boss encounter tile.
+
+==Pokémon and Dungeon Stats==
+
+{| class="wikitable"
+|-
+! Random Encounter !! Base Health !! Boss !! Base Health
+|-
+| [[File:Koffing.png|40px]] Koffing || rowspan=4 | &lt;center&gt; 88,500 || [[File:Weezing.png|40px]] Weezing || rowspan=2| &lt;center&gt; 320,000
+|-
+| [[File:Zubat.png|40px]] Zubat || [[File:Golbat.png|40px]] Golbat
+|-
+| [[File:Rattata.png|40px]] Rattata || rowspan=2|[[File:Shuckle.png|40px]] Shuckle || rowspan=2| &lt;center&gt; 610,000
+|-
+| [[File:Raticate.png|40px]] Raticate
+|}
+
+==Items==
+
+{| class="wikitable"
+|-
+! Chest Item !! Chance to Find
+|-
+| {{Bag3|X Attack}} [[X Attack|xAttack]] || 33%
+|-
+| {{Bag3|X Click}} [[XClick|xClick]] || 33%
+|-
+| {{Bag3|Lucky Incense}} [[Lucky Incense]] || 33%
+|}
+
+[[Category:Dungeons]]</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment>Table consolidation</comment>
+    <model>wikitext</model>
+    <parentid>5222</parentid>
+    <sha1>02fb7427882cac2e117bb5472a45e77cbd4eccad</sha1>
+  </revision>
+</page>

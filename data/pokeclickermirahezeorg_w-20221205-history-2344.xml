@@ -1,0 +1,35 @@
+<page>
+  <title>Translations:Template:Infobox Berry/5/fr</title>
+  <ns>0</ns>
+  <id>7420</id>
+  <revision>
+    <id>21097</id>
+    <timestamp>2022-08-07T19:43:32Z</timestamp>
+    <text bytes="1408" space="preserve">'''Où&amp;nbsp;:'''
+*&lt;code&gt;name&lt;/code&gt; doit être rempli avec le numéro de Baie-dex de la baie (au format #00) et son nom.
+*&lt;code&gt;image&lt;/code&gt; doit être rempli avec l'image de la baie (attention&amp;nbsp;: les images sont nommées d'après les noms anglais)
+*&lt;code&gt;caption&lt;/code&gt; doit être rempli avec la description officielle de la baie.
+*&lt;code&gt;growtime&lt;/code&gt; doit être rempli avec le temps de croissance nécessaire pour que la baie atteigne sa *pleine* maturité (avec h/m/s selon les besoins).
+*&lt;code&gt;harvest&lt;/code&gt; doit être rempli avec le nombre de baies récoltées lorsque c'est fait manuellement.
+*&lt;code&gt;replant&lt;/code&gt; doit être rempli avec le taux de replantation de la baie.
+*&lt;code&gt;mutation&lt;/code&gt; doit être rempli avec le taux de mutation de la baie.
+*&lt;code&gt;points&lt;/code&gt; doit être rempli avec le nombre de Points de Récolte gagnés par baie (L'icône {{farmpoints}} est automatiquement ajoutée, ne le faite pas vous même).
+*&lt;code&gt;flavor&lt;/code&gt; doit être rempli avec les saveurs de la baie. Copiez ce code-ci, collez-le après le symbole égal et rajoutez les valeurs&amp;nbsp;:
+&lt;pre&gt;&lt;div style="clear:both;"&gt;&lt;/div&gt;
+* # Épicée
+* # Sèche
+* # Sucrée
+* # Amère
+* # Acide
+&lt;/pre&gt;
+*&lt;code&gt;helditem&lt;/code&gt; ne devrait être rempli que si la baie est un objet tenu pouvant être lâchée par des Pokémon sauvages. Il devrait être rempli avec les noms de tous les Pokémon pouvant lâcher la baie.</text>
+    <contributor>
+      <username>LeChatMG</username>
+      <id>97</id>
+    </contributor>
+    <comment>Corrections</comment>
+    <model>wikitext</model>
+    <parentid>21096</parentid>
+    <sha1>ef4f227d960a41902d416dfa8e36f0fee164d197</sha1>
+  </revision>
+</page>

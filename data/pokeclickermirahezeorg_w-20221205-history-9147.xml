@@ -1,0 +1,69 @@
+<page>
+  <title>Ilex Forest</title>
+  <ns>0</ns>
+  <id>366</id>
+  <revision>
+    <id>5204</id>
+    <timestamp>2022-03-15T18:44:37Z</timestamp>
+    <text bytes="1696" space="preserve">{{Infobox dungeon
+|name    = Ilex Forest
+|image   = [[File:Ilex Forest.png|300px]]
+|caption = A map of Ilex Forest.
+|tokens  = 4,000
+|location = On route 34.
+}}
+'''Ilex Forest''' is a [[Dungeons|dungeon]] in [[Johto]]. It initially has 36 tiles arranged in a 6x6 square, including 6 chest tiles, 15 non-boss encounter tiles, and 1 boss encounter tile.
+
+==Pokémon &amp; Dungeon Stats==
+
+{| class="wikitable"
+|-
+! Random Encounter !! Base Health !! Boss !! Base Health
+|-
+| [[File:Caterpie.png|40px]] Caterpie || rowspan=8|&lt;center&gt;82,200 || rowspan=2|[[File:Noctowl.png|40px]] Noctowl || rowspan=6|&lt;center&gt; 340,000
+|-
+| [[File:Metapod.png|40px]] Metapod
+|-
+| [[File:Weedle.png|40px]] Weedle || rowspan=2| [[File:Beedrill.png|40px]] Beedrill
+|-
+| [[File:Kakuna.png|40px]] Kakuna
+|-
+| [[File:Zubat.png|40px]] Zubat || rowspan=2| [[File:Butterfree.png|40px]] Butterfree
+|-
+| [[File:Oddish.png|40px]] Oddish
+|-
+| [[File:Paras.png|40px]] Paras || rowspan=2| [[File:Celebi.png|40px]] &lt;b&gt;Celebi* &lt;br&gt; *(Must be Johto Champion)&lt;/b&gt; || rowspan=2| &lt;center&gt; 800,000
+|-
+| [[File:Hoothoot.png|40px]] Hoothoot
+|}
+
+==Items==
+
+{| class="wikitable"
+|-
+! Chest Item !! 0 Clears !! 100 Clears !! 500 Clears !! Requirement 
+|-
+| {{Bag3|X Attack}} [[X Attack|xAttack]] || 66.00% || 65.49% || 52.56% || No Requirement
+|-
+| {{Bag3|Lucky Egg}} [[Lucky Egg]] || 33.53% || 33.34% || 32.09% || No Requirement
+|-
+| {{Bag2|Insect Plate}} || 0.29% || 0.42% || 1.84% || No Requirement
+|-
+| {{Bag2|Revive}} || 0.15% || 0.36% || 1.68% || No Requirement
+|-
+| {{Bag2|Medium Restore}} || 0.02% || 0.26% || 1.22% || No Requirement
+|-
+| {{Bag2|Zap Plate}} || 0.00% || 0.13% || 0.61% || Clear Ilex Forest 100 Times
+|}
+
+[[Category:Dungeons]]</text>
+    <contributor>
+      <username>SomeonealiveQN</username>
+      <id>5</id>
+    </contributor>
+    <comment>/* Items */Ilex loot complete 5/16</comment>
+    <model>wikitext</model>
+    <parentid>5203</parentid>
+    <sha1>fb2cfc33fa12a4018eb7fb3bb2800be530eae66b</sha1>
+  </revision>
+</page>

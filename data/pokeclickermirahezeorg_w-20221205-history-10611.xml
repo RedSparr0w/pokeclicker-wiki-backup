@@ -1,0 +1,137 @@
+<page>
+  <title>Pokéballs</title>
+  <ns>0</ns>
+  <id>780</id>
+  <revision>
+    <id>8031</id>
+    <timestamp>2021-02-04T04:22:37Z</timestamp>
+    <text bytes="5557" space="preserve">'''Pokéballs''' are items used to catch and store Pokémon.
+
+=Usage=
+
+The Pokéball selector allows players to select the type of ball they want to use to catch uncaught Pokémon, uncaught [[Shiny Chance|shiny]] Pokémon, already-caught Pokémon, and already-caught shinies. Alternatively, the trainer may decide not to catch Pokémon in these categories.
+
+When a Pokémon falling under one of these categories is defeated, the selected ball will be used to attempt to catch the Pokémon (as long as the player has one or more of that ball). After running out of the selected type of ball, a lower-tier ball will be used instead, if there are any.
+
+=Varieties=
+
+As of version 0.6.8, there are nine distinct types of Pokéball, each with their own bonuses and acquisition methods.
+
+{| class="wikitable sortable"
+! Ball !! Description !! Catch bonus (%) !! Catch time (s) !! Price || Locations
+|-
+| [[Pokéball]] || [[File:Ball_Pokeball.png|24px]] A standard Pokéball || 0 || 1.25 || 100 {{pdollar}} || Viridian City, Pewter City ([[Kanto]]), New Bark Town ([[Johto]]), Littleroot Town, LilyCove City ([[Hoenn]]), Twinleaf Town, Veilstone City ([[Sinnoh]]), Aspertia City, Opelucid City ([[Unova]]), [[Shops|Poké Mart]]
+|-
+| [[Greatball]] || [[File:Greatball.png|24px]] +5% chance to catch || 5 || 1 || 500 {{pdollar}} || Lavender Town (Kanto), Cherrygrove City, Ecruteak City (Johto), Slateport City, LilyCove City (Hoenn), Veilstone City (Sinnoh), Virbank City, Opelucid City (Unova), Poké Mart
+|-
+| [[Ultraball]] || [[File:Ultraball.png|24px]] +10% chance to catch || 10 || 0.75 || 2,000 {{pdollar}} || Fuchsia City (Kanto), Cianwood City (Johto), Fortree City, LilyCove City, Battle Frontier (Hoenn), Veilstone City, Pastoria City (Sinnoh), Mistralton City, Opelucid City (Unova), Poké Mart
+|-
+| [[Masterball]] || [[File:Masterball.png|24px]] +100% chance to catch || 100 || 0.5 || Variable || Indigo Plateau Kanto, Indigo Plateau Johto, Pokémon League Hoenn, Battle Frontier (Hoenn), Pokémon League Sinnoh, Hearthome City [[Berry Master]] (Sinnoh), Pokémon League Unova
+|-
+| [[Fastball]] || [[File:Fastball.png|24px]] Reduced catch time || 0 || 0.5 || rowspan = 5 | Variable ([[Berry|Berries]]) || rowspan = 5 | Goldenrod City Berry Master (Johto)
+|-
+| [[Quickball]] || [[File:Quickball.png|24px]] Increased catch rate on routes with less Pokémon defeated || 15% (0 route kills) to&lt;br&gt;0% (4012 route kills) || 1
+|-
+| [[Timerball]] || [[File:Timerball.png|24px]] Increased catch rate on routes with more Pokémon defeated || 0% (0 route kills) to&lt;br&gt;15% (9920 route kills) || 1
+|-
+| [[Duskball]] || [[File:Duskball.png|24px]] Increased catch rate at night time or in dungeons || 15% between 6pm to 6am or in dungeons,&lt;br&gt;0% otherwise || 1
+|-
+| [[Luxuryball]] || [[File:Luxuryball.png|24px]] A Luxury Pokéball || 0 || 1.25
+|}
+
+=Catch rate bonus variation=
+
+Catch rates for both Quickballs and Timerballs change as more Pokémon are defeated on specific routes. The Route Kills stat cannot be lowered.
+
+[[File:Quickball-catchrate-graph.png|thumb|X-axis: Route kills&lt;br&gt;Y-axis: Quickball catch rate]]
+
+[[File:Timerball-catchrate-graph.png|thumb|X-axis: Route kills&lt;br&gt;Y-axis: Timerball catch rate]]
+
+{| class="wikitable"
+|+ Quickball
+|-
+! Route kills !! Catch chance
+|-
+| 0 || 15
+|-
+| 153 || 10 (Equal to Ultraball)
+|-
+| 719 || 5 (Equal to Greatball)
+|-
+| 4012 || 0 (Equal to Pokéball)
+|}
+
+{| class="wikitable"
+|+ Timerball
+|-
+! Route kills !! Catch chance
+|-
+| 0 || 0 (Equal to Pokéball)
+|-
+| 4793 || 5 (Equal to Greatball)
+|-
+| 7789 || 10 (Equal to Ultraball)
+|-
+| 9920 || 15
+|}
+
+=Masterball price growth=
+
+Unlike most other shop items, Masterball prices do not drop after route encounters. Every purchase raises its price by 35%, capping off at 100 times the base price.
+
+{| class="wikitable"
+|-
+! Purchased !! Pokecoins {{pdollar}} !! Dungeon Tokens {{dungeontokens}} !! Quest Points {{Questpoints}} !! Battle Points {{Battlepoints}} !! Diamonds {{diamonds}} !! Farm Tokens {{farmpoints}}
+|-
+| Base Price || 10,000,000 || 75,000 || 3,000 || 500 || 50 || 3,000
+|-
+| After 1 || 13,500,000 || 101,250 || 4,050 || 675 || 67 || 4,050
+|-
+| After 2 || 18,225,000 || 136,687 || 5,467 || 911 || 91 || 5,467
+|-
+| After 3 || 24,603,750 || 184,528 || 7,381 || 1,230 || 123 || 7,381
+|-
+| After 4 || 33,215,063 || 249,112 || 9,964 || 1,660 || 166 || 9,964
+|-
+| After 5 || 44,840,334 || 336,302 || 13,452 || 2,242 || 224 || 13,452
+|-
+| After 6 || 60,534,451 || 454,008 || 18,160 || 3,026 || 302 || 18,160
+|-
+| After 7 || 81,721,509 || 612,911 || 24,516 || 4,086 || 408 || 24,516
+|-
+| After 8 || 110,324,037 || 827,430 || 33,097 || 5,516 || 551 || 33,097
+|-
+| After 9 || 148,937,450 || 1,117,030 || 44,681 || 7,446 || 744 || 44,681
+|-
+| After 10 || 201,065,558 || 1,507,991 || 60,319 || 10,053 || 1,005 || 60,319
+|-
+| After 11 || 271,438,504 || 2,035,788 || 81,431 || 13,571 || 1,357 || 81,431
+|-
+| After 12 || 366,441,980 || 2,748,314 || 109,932 || 18,322 || 1,832 || 109,932
+|-
+| After 13 || 494,696,673 || 3,710,225 || 148,409 || 24,734 || 2,473 || 148,409
+|-
+| After 14 || 667,840,509 || 5,008,803 || 200,352 || 33,392 || 3,339 || 200,352
+|-
+| After 15 || 901,584,688 || 6,761,885 || 270,475 || 45,079 || 4,507 || 270,475
+|-
+| After 16 || 1,000,000,000 || 7,500,000 || 300,000 || 50,000 || 5,000 || 300,000
+|-
+| After 17 || 1,000,000,000 || 7,500,000 || 300,000 || 50,000 || 5,000 || 300,000
+|}
+
+=Luxuryball=
+
+As of version 0.6.7, any bonus to the Luxuryball has not been implemented and it is functionally identical to the Pokéball.
+
+[[Category:Items]]</text>
+    <contributor>
+      <username>Adrian.Lew</username>
+      <id>29</id>
+    </contributor>
+    <comment>/* Varieties */ Missing shops and Unova shops added</comment>
+    <model>wikitext</model>
+    <parentid>8030</parentid>
+    <sha1>82773f52e9bef4c1d93f9e46cfb624b4a1637df5</sha1>
+  </revision>
+</page>

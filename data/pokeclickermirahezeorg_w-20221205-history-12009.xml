@@ -1,0 +1,57 @@
+<page>
+  <title>Magost</title>
+  <ns>0</ns>
+  <id>598</id>
+  <revision>
+    <id>7038</id>
+    <timestamp>2020-12-12T18:14:49Z</timestamp>
+    <text bytes="1379" space="preserve">{{Infobox Berry
+|name    = Magost
+|image   = [[File:Magost.png]]
+|caption = The grown-up flavor and dreamy sweetness of this Berry make it a favorite of Pokémon everywhere.
+|growtime  = 4h 0m 0s
+|harvest = 27 berries
+|replant = 10%
+|points = 750
+|flavor = {{!}} 0 {{!}} 0 {{!}} 20 {{!}} 10 {{!}} 0
+}}
+'''Magost''' is a type of [[Berries|Berry]] that can be planted in [[Farm]]. It can be obtained by surrounding an empty plot with at least 1 [[Pecha]], at least 1 [[Nanab]] and at least 1 [[Mago]].
+
+{| class="wikitable"
+|+ Harvest Stages durations
+! Seed !! Sprout !! Taller !! Bloom !! Berry
+|-
+| 0-2400s || 2400-6500s || 6500-10000s || 10000-14400s || 14400-28800s
+|-
+| [[File:AllTreeSeed.png|50px]] || [[File:AllTreeSprout.png|50px]] || [[File:MagostTreeTaller.png|50px]] || [[File:MagostTreeBloom.png|50px]] || [[File:MagostTreeBerry.png|50px]]
+|}
+
+=== Possible Planting Formations ===
+
+You can fill your [[farm]] in following way to obtain Magost berry.
+
+{| class="wikitable" style="text-align: center;"
+|+ Farm
+|-
+| style="width: 40px;" | || style="width: 40px;" | [[Pecha]] || style="width: 40px;" | || style="width: 40px;" | || style="width: 40px;" | [[Pecha]]
+|-
+| [[Nanab]] || [[Mago]] ||  || [[Nanab]] || [[Mago]] 
+|- style="height: 26px;"
+| || || || || 
+|-
+| || [[Pecha]] ||  || || [[Pecha]] 
+|-
+| [[Nanab]] || [[Mago]] ||  || [[Nanab]] || [[Mago]] 
+|}
+
+{{Berries}}</text>
+    <contributor>
+      <username>Claygame</username>
+      <id>22</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>7037</parentid>
+    <sha1>a2f67aa73a258281c67e89d001fecc6daa14abca</sha1>
+  </revision>
+</page>

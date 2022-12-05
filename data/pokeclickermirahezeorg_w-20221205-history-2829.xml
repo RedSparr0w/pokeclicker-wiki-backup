@@ -1,0 +1,309 @@
+<page>
+  <title>Mago/es</title>
+  <ns>0</ns>
+  <id>7588</id>
+  <revision>
+    <id>21528</id>
+    <timestamp>2022-08-02T18:45:42Z</timestamp>
+    <text bytes="4758" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #17 Ango (Mago)
+|image   = [[File:Mago.png]]
+|caption = Se va curvando conforme crece, tornándose más dulce y sabrosa.
+|growtime  = 6m 10s
+|harvest = 16 bayas
+|replant = 30%
+|mutation = 0.7%
+|points = 50
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 picante
+*0 seco
+*15 dulce
+*0 amargo
+*0 ácido
+}}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+'''Mago''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by surrounding an empty plot with at least 25, but no more than 80 points of sweet and less than 5 points of all other flavours. The [[Pecha]] must be unlocked to unlock this berry.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Growth Tables ==
+=== Growth Stages ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 40 secs || 3 mins || 4 mins || 6 mins 10 secs - 12 mins 20 secs
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:MagoTreeTaller.png|50px]] || &lt;center&gt; [[File:MagoTreeBloom.png|50px]] || &lt;center&gt; [[File:MagoTreeBerry.png|50px]]
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+=== Ripening Time with Modifiers  ===
+{| class="wikitable" | style="text-align: center;"
+! Modifier !! Ripe-Wither Time
+|-
+! None
+| 6 mins 10 secs -&lt;br&gt; 12 mins 20 secs
+|-
+! Mulch/Sprayduck
+| 4 mins 7 secs -&lt;br&gt; 8 mins 13 secs
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Flow Chart ==
+[[File:Mago_Flow_Chart.png|100px]]
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Mutation Strategy ==
+=== Possible Planting Formations ===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+You can fill your farm in the following way to obtain Mago berries. Purple squares indicate where mutations can occur.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Base Formation
+|- style="height: 50px;"
+| style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Pecha.png|30px]] [[Pecha]]
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Pecha.png|30px]] [[Pecha]] || [[File:Pecha.png|30px]] [[Pecha]]
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Optimized Planting Formation
+|- style="height: 50px;"
+| style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Pecha.png|30px]] [[Pecha]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Pecha.png|30px]] [[Pecha]]
+|-
+| [[File:Pecha.png|30px]] [[Pecha]] || [[File:Pecha.png|30px]] [[Pecha]] || style="background-color:#9C7D98;" | || [[File:Pecha.png|30px]] [[Pecha]] || [[File:Pecha.png|30px]] [[Pecha]] 
+|- style="height: 50px;"
+| style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Pecha.png|30px]] [[Pecha]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Pecha.png|30px]] [[Pecha]] 
+|-
+| [[File:Pecha.png|30px]] [[Pecha]] || [[File:Pecha.png|30px]] [[Pecha]] || style="background-color:#9C7D98;" | || [[File:Pecha.png|30px]] [[Pecha]] || [[File:Pecha.png|30px]] [[Pecha]] 
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Uses==
+===Mutations===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Mago berries can be used to mutate the following berries.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Pomeg.png|20px]] [[Pomeg]] || [[File:Iapapa.png|20px]] [[Iapapa]]
+|-
+| [[File:Qualot.png|20px]] [[Qualot]] || [[File:Pinap.png|20px]] [[Pinap]]
+|-
+| [[File:Magost.png|20px]] [[Magost]] || [[File:Pecha.png|20px]] [[Pecha]] &lt;br&gt; [[File:Nanab.png|20px]] [[Nanab]]
+|-
+| [[File:Roseli.png|20px]] [[Roseli]] || [[File:Nanab.png|20px]] [[Nanab]] &lt;br&gt; [[File:Magost.png|20px]] [[Magost]] &lt;br&gt; [[File:Watmel.png|20px]] [[Watmel]]
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Acquisition==
+===Dungeons===
+{{Loot/head‎|Berries}}
+{{LootItem|Radio Tower|Epic}}
+{{LootItem|Flower Paradise|Common}}
+{{LootItem|Relic Castle|Common}}
+{{LootItem|Abundant Shrine|Common}}
+{{LootItem|Lush Jungle|Common}}
+|}
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>Cthulhu Follower</username>
+      <id>51</id>
+    </contributor>
+    <comment>Created page with "{{Infobox Berry |name    = #17 Ango (Mago) |image   = [[File:Mago.png]] |caption = Se va curvando conforme crece, tornándose más dulce y sabrosa. |growtime  = 6m 10s |harvest = 16 bayas |replant = 30% |mutation = 0.7% |points = 50 |flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt; *0 picante *0 seco *15 dulce *0 amargo *0 ácido }}"</comment>
+    <model>wikitext</model>
+    <parentid>21527</parentid>
+    <sha1>6d1df274e2dfaf12d63aa7f7d6190c37be0d8a09</sha1>
+  </revision>
+  <revision>
+    <id>21527</id>
+    <timestamp>2022-08-02T18:41:43Z</timestamp>
+    <text bytes="4833" space="preserve">&lt;languages/&gt;
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Infobox Berry
+|name    = #17 Mago
+|image   = [[File:Mago.png]]
+|caption = This Berry progressively curves as it grows. The curvier the Berry, the sweeter and tastier.
+|growtime  = 6m 10s
+|harvest = 16 berries
+|replant = 30%
+|mutation = 0.7%
+|points = 50
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 spicy 
+*0 dry
+*15 sweet
+*0 bitter
+*0 sour
+}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+'''Mago''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by surrounding an empty plot with at least 25, but no more than 80 points of sweet and less than 5 points of all other flavours. The [[Pecha]] must be unlocked to unlock this berry.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Growth Tables ==
+=== Growth Stages ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 40 secs || 3 mins || 4 mins || 6 mins 10 secs - 12 mins 20 secs
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:MagoTreeTaller.png|50px]] || &lt;center&gt; [[File:MagoTreeBloom.png|50px]] || &lt;center&gt; [[File:MagoTreeBerry.png|50px]]
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+=== Ripening Time with Modifiers  ===
+{| class="wikitable" | style="text-align: center;"
+! Modifier !! Ripe-Wither Time
+|-
+! None
+| 6 mins 10 secs -&lt;br&gt; 12 mins 20 secs
+|-
+! Mulch/Sprayduck
+| 4 mins 7 secs -&lt;br&gt; 8 mins 13 secs
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Flow Chart ==
+[[File:Mago_Flow_Chart.png|100px]]
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Mutation Strategy ==
+=== Possible Planting Formations ===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+You can fill your farm in the following way to obtain Mago berries. Purple squares indicate where mutations can occur.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Base Formation
+|- style="height: 50px;"
+| style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Pecha.png|30px]] [[Pecha]]
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Pecha.png|30px]] [[Pecha]] || [[File:Pecha.png|30px]] [[Pecha]]
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Optimized Planting Formation
+|- style="height: 50px;"
+| style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Pecha.png|30px]] [[Pecha]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Pecha.png|30px]] [[Pecha]]
+|-
+| [[File:Pecha.png|30px]] [[Pecha]] || [[File:Pecha.png|30px]] [[Pecha]] || style="background-color:#9C7D98;" | || [[File:Pecha.png|30px]] [[Pecha]] || [[File:Pecha.png|30px]] [[Pecha]] 
+|- style="height: 50px;"
+| style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Pecha.png|30px]] [[Pecha]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Pecha.png|30px]] [[Pecha]] 
+|-
+| [[File:Pecha.png|30px]] [[Pecha]] || [[File:Pecha.png|30px]] [[Pecha]] || style="background-color:#9C7D98;" | || [[File:Pecha.png|30px]] [[Pecha]] || [[File:Pecha.png|30px]] [[Pecha]] 
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Uses==
+===Mutations===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Mago berries can be used to mutate the following berries.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Pomeg.png|20px]] [[Pomeg]] || [[File:Iapapa.png|20px]] [[Iapapa]]
+|-
+| [[File:Qualot.png|20px]] [[Qualot]] || [[File:Pinap.png|20px]] [[Pinap]]
+|-
+| [[File:Magost.png|20px]] [[Magost]] || [[File:Pecha.png|20px]] [[Pecha]] &lt;br&gt; [[File:Nanab.png|20px]] [[Nanab]]
+|-
+| [[File:Roseli.png|20px]] [[Roseli]] || [[File:Nanab.png|20px]] [[Nanab]] &lt;br&gt; [[File:Magost.png|20px]] [[Magost]] &lt;br&gt; [[File:Watmel.png|20px]] [[Watmel]]
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Acquisition==
+===Dungeons===
+{{Loot/head‎|Berries}}
+{{LootItem|Radio Tower|Epic}}
+{{LootItem|Flower Paradise|Common}}
+{{LootItem|Relic Castle|Common}}
+{{LootItem|Abundant Shrine|Common}}
+{{LootItem|Lush Jungle|Common}}
+|}
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>Cthulhu Follower</username>
+      <id>51</id>
+    </contributor>
+    <comment>Created page with "Ango (Mago)"</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>1a099e4539ead7f8b528a1615c40c20c00b7aae4</sha1>
+  </revision>
+</page>

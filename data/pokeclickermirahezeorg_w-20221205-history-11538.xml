@@ -1,0 +1,64 @@
+<page>
+  <title>Wepear</title>
+  <ns>0</ns>
+  <id>533</id>
+  <revision>
+    <id>6642</id>
+    <timestamp>2020-12-24T22:35:00Z</timestamp>
+    <text bytes="1607" space="preserve">{{Infobox Berry
+|name    = #13 Wepear
+|image   = [[File:Wepear.png]]
+|caption = The potent mix of bitter and sour in this Berry seems to promote digestion. The flower is white and beautiful.
+|growtime  = 6m 40s
+|harvest = 12 berries
+|replant = 40%
+|points = 30
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 spicy 
+*0 dry
+*0 sweet
+*10 bitter
+*10 sour
+}}
+'''Wepear''' is a type of [[Berries|Berry]] that can be planted in [[Farm]]. It can be obtained by surrounding an empty plot with at least 1 [[Rawst]] and at least 1 [[Oran]].
+
+{| class="wikitable"
+|+ Growth Stages
+! !! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 2 mins 30 secs || 5 mins 50 secs || 6 mins 15 secs || 6 mins 40 secs - 13 mins 20 secs
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:WepearTreeTaller.png|50px]] || &lt;center&gt; [[File:WepearTreeBloom.png|50px]] || &lt;center&gt; [[File:WepearTreeBerry.png|50px]]
+|}
+
+=== Possible Planting Formations ===
+
+You can fill your [[farm]] in following way to obtain Wepear berry.
+
+{| class="wikitable" style="text-align: center;"
+|+ Farm
+|-
+| style="width: 40px;" | [[File:Rawst.png|30px]] [[Rawst]] || style="width: 40px;" | || style="width: 40px;" | || style="width: 40px;" | [[File:Rawst.png|30px]] [[Rawst]] || style="width: 40px;" | 
+|-
+| || [[File:Oran.png|30px]] [[Oran]] ||  ||  || [[File:Oran.png|30px]]&lt;br&gt;[[Oran]]
+|- style="height: 50px;"
+| || || || || 
+|-
+| [[File:Rawst.png|30px]] [[Rawst]] || || || [[File:Rawst.png|30px]] [[Rawst]] || 
+|-
+| || [[File:Oran.png|30px]] [[Oran]] ||  ||  || [[File:Oran.png|30px]]&lt;br&gt;[[Oran]]
+|}
+
+{{Berries}}</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>6641</parentid>
+    <sha1>c15e43733d39682d32ccba9d30d4c6bfe15e9501</sha1>
+  </revision>
+</page>

@@ -1,0 +1,51 @@
+<page>
+  <title>Slowpoke Well</title>
+  <ns>0</ns>
+  <id>364</id>
+  <revision>
+    <id>5176</id>
+    <timestamp>2021-01-29T03:48:48Z</timestamp>
+    <text bytes="885" space="preserve">{{Infobox dungeon
+|name    = Slowpoke Well
+|image   = [[File:Slowpoke Well.png|300px]]
+|caption = A map of Slowpoke Well.
+|tokens  = 3,500
+|location = In Azalea Town.
+}}
+'''Slowpoke Well''' is a [[Dungeons|dungeon]] in [[Johto]]. It has 36 tiles arranged in a 6x6 square, including 6 chest tiles, 15 non-boss encounter tiles, and 1 boss encounter tile.
+
+==Pokémon &amp; Dungeon Stats==
+
+{| class="wikitable"
+|-
+! Random Encounter !! Base Health !! Boss !! Base Health
+|-
+| [[File:Zubat.png|40px]] Zubat || rowspan=2| &lt;center&gt;67,900 || rowspan=2|[[File:Slowbro.png|40px]] Slowbro || rowspan=2|&lt;center&gt; 320,000
+|-
+| [[File:Slowpoke.png|40px]] Slowpoke
+|}
+
+==Items==
+
+{| class="wikitable"
+|-
+! Chest Item !! Chance to Find
+|-
+| {{Bag3|X Attack}} [[X Attack|xAttack]] || 50%
+|-
+| {{Bag3|X Click}} [[XClick|xClick]] || 25%
+|-
+| {{Bag3|Lucky Egg}} [[Lucky Egg]] || 25%
+|}
+
+[[Category:Dungeons]]</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment>hp fix</comment>
+    <model>wikitext</model>
+    <parentid>5175</parentid>
+    <sha1>bdde9b5a19f9cc9884805361512df97d14b234a9</sha1>
+  </revision>
+</page>

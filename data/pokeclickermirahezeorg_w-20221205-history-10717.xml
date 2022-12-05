@@ -1,0 +1,100 @@
+<page>
+  <title>Hondew</title>
+  <ns>0</ns>
+  <id>682</id>
+  <revision>
+    <id>7504</id>
+    <timestamp>2021-01-30T18:55:33Z</timestamp>
+    <text bytes="3245" space="preserve">{{Infobox Berry
+|name    = #24 Hondew
+|image   = [[File:Hondew.png]]
+|caption = This somewhat-rare Berry projects an image of luxury, so it is favored as a gift item.
+|growtime  = 3h 0m 0s
+|harvest = 23 berries
+|replant = 20%
+|points = 2,000
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*10 spicy 
+*10 dry
+*0 sweet
+*10 bitter
+*0 sour
+}}
+
+'''Hondew''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by surrounding an empty plot with exactly 15 points of spicy, dry and bitter and 0 points of all other flavours. The [[Figy]], [[Wiki]] and [[Aguav]] must be unlocked to unlock this berry.
+
+== Growth Tables ==
+=== Growth Stages ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 16 mins 40 secs || 33 mins 20 secs || 1 hour 23 mins 20 secs || 3 hours - 6 hours
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:HondewTreeTaller.png|50px]] || &lt;center&gt; [[File:HondewTreeBloom.png|50px]] || &lt;center&gt;
+ [[File:HondewTreeBerry.png|50px]]
+|}
+
+=== Ripening Time with Modifiers  ===
+{| class="wikitable" | style="text-align: center;"
+! Modifier !! Ripe-Wither Time !! Boost Mulch Needed to Ripen
+|-
+! None
+| 3 hours -&lt;br&gt; 6 hours || ---
+|-
+! Mulch or Sprayduck
+| 2 hours -&lt;br&gt; 4 hours || 24 mulch
+|-
+! Mulch &amp; Sprayduck
+| 1 hour 20 mins -&lt;br&gt; 2 hours 40 mins || 16 mulch
+|}
+
+== Flow Chart ==
+[[File:Hondew_Flow_Chart.png|250px]]
+&lt;br&gt;
+
+== Mutation Strategy ==
+=== Possible Planting Formations ===
+
+You can fill your farm in the following way to obtain Hondew berries. Purple squares indicate where mutations can occur.
+
+{| class="wikitable" style="text-align: center;"
+|+ Farm
+|-
+| style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Figy.png|30px]]&lt;br&gt;[[Figy]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Figy.png|30px]]&lt;br&gt;[[Figy]]
+|-
+| [[File:Wiki.png|30px]]&lt;br&gt;[[Wiki]] || [[File:Aguav.png|30px]] [[Aguav]] || style="background-color:#9C7D98;" | || [[File:Wiki.png|30px]]&lt;br&gt;[[Wiki]] || [[File:Aguav.png|30px]] [[Aguav]] 
+|- style="height: 50px; background-color:#9C7D98;"
+| || || || || 
+|-
+| style="background-color:#9C7D98;" | || [[File:Figy.png|30px]]&lt;br&gt;[[Figy]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Figy.png|30px]]&lt;br&gt;[[Figy]] 
+|-
+| [[File:Wiki.png|30px]]&lt;br&gt;[[Wiki]] || [[File:Aguav.png|30px]] [[Aguav]] || style="background-color:#9C7D98;" | || [[File:Wiki.png|30px]]&lt;br&gt;[[Wiki]] || [[File:Aguav.png|30px]] [[Aguav]] 
+|}
+
+=== Timing Table ===
+{| class="wikitable"| style="text-align: center;"
+|+ ''All planting times use the time-to-ripe remaining of the first planted berry for subsequent planting times''
+! Berry !! Planting Time with &lt;br&gt; No Modifier !! Planting Time with &lt;br&gt; Mulch or Sprayduck || Planting Time with &lt;br&gt;  Mulch &amp; Sprayduck
+|-
+| [[Wiki]] || - || - || -
+|-
+| [[Figy]] || 5 mins 50 secs until ripe || 3 mins 47 secs until ripe || Not Practical
+|-
+| [[Aguav]] || 5 mins 50 secs until ripe || 3 mins 47 secs until ripe || Not Practical
+|}
+
+Note: Figy and Aguav have equivalent growth times.
+
+{{Berries}}</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment>Flow Chart</comment>
+    <model>wikitext</model>
+    <parentid>7503</parentid>
+    <sha1>168769c8ace7edea7089013fd40ace5b05000dba</sha1>
+  </revision>
+</page>

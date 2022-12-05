@@ -1,0 +1,36 @@
+<page>
+  <title>Translations:Template:Infobox Oak Item/1/es</title>
+  <ns>0</ns>
+  <id>4395</id>
+  <revision>
+    <id>15616</id>
+    <timestamp>2022-07-21T19:25:01Z</timestamp>
+    <text bytes="783" space="preserve">{|class="infobox bordered" style="float:right; width:264px; font-size:90%; text-align:left; border:2px solid #000; padding:3px;" cellpadding="3"
+|- 
+!colspan="2" style="font-size:110%; text-align:center; background-color:#3f9ad8; color:#000;" | {{{name}}}
+|-
+{{#if:{{{image&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} colspan="2" style="text-align:center;" {{!}}{{{image}}}{{#if:{{{symbol|}}}|&lt;br /&gt;{{{symbol}}}}}{{#if:{{{caption|}}}|&lt;br /&gt;{{{caption}}}}}
+{{!}}-
+}}
+{{#if:{{{effect&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#3f9ad8; color:#000;" {{!}}'''Efecto'''
+{{!}}{{{effect}}}
+{{!}}-
+}}
+{{#if:{{{dex&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#3f9ad8; color:#000;" {{!}}'''Pokémon Únicos Requeridos'''
+{{!}}{{{dex}}}
+{{!}}-
+}}
+|}&lt;noinclude&gt;</text>
+    <contributor>
+      <username>ThePantMan</username>
+      <id>8</id>
+    </contributor>
+    <comment>Created page with "{|class="infobox bordered" style="float:right; width:264px; font-size:90%; text-align:left; border:2px solid #000; padding:3px;" cellpadding="3" |-  !colspan="2" style="font-size:110%; text-align:center; background-color:#3f9ad8; color:#000;" | {{{name}}} |- {{#if:{{{image&lt;includeonly&gt;|&lt;/includeonly&gt;}}} | {{!}} colspan="2" style="text-align:center;" {{!}}{{{image}}}{{#if:{{{symbol|}}}|&lt;br /&gt;{{{symbol}}}}}{{#if:{{{caption|}}}|&lt;br /&gt;{{{caption}}}}} {{!}}- }} {{#if:{{{effec..."</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>40003d6c5983c8cb2e99b44082a3e4dac1eb0c2f</sha1>
+  </revision>
+</page>

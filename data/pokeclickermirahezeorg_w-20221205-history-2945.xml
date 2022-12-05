@@ -1,0 +1,461 @@
+<page>
+  <title>Bluk/es</title>
+  <ns>0</ns>
+  <id>7457</id>
+  <revision>
+    <id>21282</id>
+    <timestamp>2022-08-01T20:37:40Z</timestamp>
+    <text bytes="4812" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #11 Oram (Bluk)
+|image   = [[File:Bluk.png]]
+|caption = Aunque esta pequeña y delicada Baya es de color azul, al comerla la boca se vuelve negra.
+|growtime  = 5m 30s
+|harvest = 9 bayas
+|replant = 40%
+|mutation = 1.8%
+|points = 20
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 picante
+*10 seco
+*10 dulce
+*0 amargo
+*0 ácido
+}}
+
+'''Oram (Bluk)''' es un tipo de [[Berries|baya]] que puede ser plantada en la [[Farm|granja]]. Se puede obtener rodeando una parcela vacía con al menos 1 baya [[Chesto|Atania (Chesto)]] y al menos 1 baya [[Leppa|Zanama (Leppa)]].
+
+== Tablas de Crecimiento ==
+=== Estados de Crecimiento ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Brote !! Crecimiento !! Floración !! Madurez
+|-
+! Tiempo pasado desde que se planta
+| 3 mins 20 seg || 4 mins 10 seg || 5 mins || 5 mins 30 seg - 11 mins
+|-
+!Animación
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:BlukTreeTaller.png|50px]] || &lt;center&gt; [[File:BlukTreeBloom.png|50px]] || &lt;center&gt; [[File:BlukTreeBerry.png|50px]]
+|}
+
+=== Tiempos de Maduración con modificadores ===
+{| class="wikitable" | style="text-align: center;"
+! Modificador !! Tiempo hasta la madurez-marchitado
+|-
+! Ninguno
+| 5 min 30 seg -&lt;br&gt; 11 min
+|-
+! Psydugadera
+| 3 min 40 seg -&lt;br&gt; 7 min 20 seg
+|}
+
+== Diagrama de Flujo ==
+[[File:Bluk_Flow_Chart.png|200px]]
+&lt;br&gt;
+'''Leyenda:'''&lt;br&gt;
+· Random Drop: Obtenido aleatoriamente en ruta
+
+== Estrategia de mutación ==
+=== Posibles formaciones ===
+
+Puedes llenar tu granja del siguiente modo para obtener bayas Oram (Bluk). Los cuadrados morados indican dónde pueden ocurrir las mutaciones.
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Base Formation
+|-
+| style="width: 40px;" | [[File:Chesto.png|30px]] [[Chesto]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Leppa.png|30px]] [[Leppa]]
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Optimized Planting Formation
+|-
+| style="width: 40px;" | [[File:Chesto.png|30px]] [[Chesto]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Chesto.png|30px]] [[Chesto]] || style="width: 40px; background-color:#9C7D98;" |
+|-
+| style="background-color:#9C7D98;" | || [[File:Leppa.png|30px]] [[Leppa]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Leppa.png|30px]] [[Leppa]] 
+|- style="height: 50px;"
+| style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | 
+|-
+| [[File:Chesto.png|30px]] [[Chesto]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Chesto.png|30px]] [[Chesto]] || style="background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Leppa.png|30px]] [[Leppa]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Leppa.png|30px]] [[Leppa]] 
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+=== Timing Table ===
+{| class="wikitable"| style="text-align: center;"
+|+ ''All planting times use the time-to-ripe remaining of the first planted berry for subsequent planting times''
+! Berry !! Planting Time with &lt;br&gt; No Modifier !! Planting Time with &lt;br&gt; Mulch or Sprayduck || Planting Time with &lt;br&gt;  Mulch &amp; Sprayduck
+|-
+| [[Leppa]] || - || - || -
+|-
+| [[Chesto]] || 40 secs until ripe || 26 secs until ripe || Not Practical
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Uses==
+===Mutations===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Bluk berries can be used to mutate the following berries.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Cornn.png|20px]] [[Cornn]] || [[File:Leppa.png|20px]] [[Leppa]] &lt;br&gt; [[File:Wiki.png|20px]] [[Wiki]]
+|-
+| [[File:Payapa.png|20px]] [[Payapa]] || [[File:Wiki.png|20px]] [[Wiki]] &lt;br&gt; [[File:Cornn.png|20px]] [[Cornn]] &lt;br&gt; [[File:Pamtre.png|20px]] [[Pamtre]]
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Acquisition==
+===Dungeons===
+{{Loot/head‎|Berries}}
+{{LootItem|Berry Forest|Epic}}
+{{LootItem|Radio Tower|Epic}}
+{{LootItem|Seafloor Cavern|Epic}}
+{{LootItem|Eterna Forest|Common}}
+{{LootItem|Sea Spirit's Den|Common}}
+|}
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>Cthulhu Follower</username>
+      <id>51</id>
+    </contributor>
+    <comment>Created page with "Puedes llenar tu granja del siguiente modo para obtener bayas Oram (Bluk). Los cuadrados morados indican dónde pueden ocurrir las mutaciones."</comment>
+    <model>wikitext</model>
+    <parentid>21281</parentid>
+    <sha1>74fb6e6375ab846cd3b1126167ca65cbada7319f</sha1>
+  </revision>
+  <revision>
+    <id>21281</id>
+    <timestamp>2022-08-01T20:36:12Z</timestamp>
+    <text bytes="4844" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #11 Oram (Bluk)
+|image   = [[File:Bluk.png]]
+|caption = Aunque esta pequeña y delicada Baya es de color azul, al comerla la boca se vuelve negra.
+|growtime  = 5m 30s
+|harvest = 9 bayas
+|replant = 40%
+|mutation = 1.8%
+|points = 20
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 picante
+*10 seco
+*10 dulce
+*0 amargo
+*0 ácido
+}}
+
+'''Oram (Bluk)''' es un tipo de [[Berries|baya]] que puede ser plantada en la [[Farm|granja]]. Se puede obtener rodeando una parcela vacía con al menos 1 baya [[Chesto|Atania (Chesto)]] y al menos 1 baya [[Leppa|Zanama (Leppa)]].
+
+== Tablas de Crecimiento ==
+=== Estados de Crecimiento ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Brote !! Crecimiento !! Floración !! Madurez
+|-
+! Tiempo pasado desde que se planta
+| 3 mins 20 seg || 4 mins 10 seg || 5 mins || 5 mins 30 seg - 11 mins
+|-
+!Animación
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:BlukTreeTaller.png|50px]] || &lt;center&gt; [[File:BlukTreeBloom.png|50px]] || &lt;center&gt; [[File:BlukTreeBerry.png|50px]]
+|}
+
+=== Tiempos de Maduración con modificadores ===
+{| class="wikitable" | style="text-align: center;"
+! Modificador !! Tiempo hasta la madurez-marchitado
+|-
+! Ninguno
+| 5 min 30 seg -&lt;br&gt; 11 min
+|-
+! Psydugadera
+| 3 min 40 seg -&lt;br&gt; 7 min 20 seg
+|}
+
+== Diagrama de Flujo ==
+[[File:Bluk_Flow_Chart.png|200px]]
+&lt;br&gt;
+'''Leyenda:'''&lt;br&gt;
+· Random Drop: Obtenido aleatoriamente en ruta
+
+== Estrategia de mutación ==
+=== Posibles formaciones ===
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+You can fill your farm in the following way to obtain Bluk berries. Purple squares indicate where mutations can occur.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Base Formation
+|-
+| style="width: 40px;" | [[File:Chesto.png|30px]] [[Chesto]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Leppa.png|30px]] [[Leppa]]
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Optimized Planting Formation
+|-
+| style="width: 40px;" | [[File:Chesto.png|30px]] [[Chesto]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Chesto.png|30px]] [[Chesto]] || style="width: 40px; background-color:#9C7D98;" |
+|-
+| style="background-color:#9C7D98;" | || [[File:Leppa.png|30px]] [[Leppa]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Leppa.png|30px]] [[Leppa]] 
+|- style="height: 50px;"
+| style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | 
+|-
+| [[File:Chesto.png|30px]] [[Chesto]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Chesto.png|30px]] [[Chesto]] || style="background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Leppa.png|30px]] [[Leppa]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Leppa.png|30px]] [[Leppa]] 
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+=== Timing Table ===
+{| class="wikitable"| style="text-align: center;"
+|+ ''All planting times use the time-to-ripe remaining of the first planted berry for subsequent planting times''
+! Berry !! Planting Time with &lt;br&gt; No Modifier !! Planting Time with &lt;br&gt; Mulch or Sprayduck || Planting Time with &lt;br&gt;  Mulch &amp; Sprayduck
+|-
+| [[Leppa]] || - || - || -
+|-
+| [[Chesto]] || 40 secs until ripe || 26 secs until ripe || Not Practical
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Uses==
+===Mutations===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Bluk berries can be used to mutate the following berries.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Cornn.png|20px]] [[Cornn]] || [[File:Leppa.png|20px]] [[Leppa]] &lt;br&gt; [[File:Wiki.png|20px]] [[Wiki]]
+|-
+| [[File:Payapa.png|20px]] [[Payapa]] || [[File:Wiki.png|20px]] [[Wiki]] &lt;br&gt; [[File:Cornn.png|20px]] [[Cornn]] &lt;br&gt; [[File:Pamtre.png|20px]] [[Pamtre]]
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Acquisition==
+===Dungeons===
+{{Loot/head‎|Berries}}
+{{LootItem|Berry Forest|Epic}}
+{{LootItem|Radio Tower|Epic}}
+{{LootItem|Seafloor Cavern|Epic}}
+{{LootItem|Eterna Forest|Common}}
+{{LootItem|Sea Spirit's Den|Common}}
+|}
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>Cthulhu Follower</username>
+      <id>51</id>
+    </contributor>
+    <comment>Created page with "== Estrategia de mutación == === Posibles formaciones ==="</comment>
+    <model>wikitext</model>
+    <parentid>21280</parentid>
+    <sha1>590a144043293dcaf9ad724ca80e54f18e83a898</sha1>
+  </revision>
+  <revision>
+    <id>21280</id>
+    <timestamp>2022-08-01T20:34:47Z</timestamp>
+    <text bytes="4902" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #11 Oram (Bluk)
+|image   = [[File:Bluk.png]]
+|caption = Aunque esta pequeña y delicada Baya es de color azul, al comerla la boca se vuelve negra.
+|growtime  = 5m 30s
+|harvest = 9 bayas
+|replant = 40%
+|mutation = 1.8%
+|points = 20
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 picante
+*10 seco
+*10 dulce
+*0 amargo
+*0 ácido
+}}
+
+'''Oram (Bluk)''' es un tipo de [[Berries|baya]] que puede ser plantada en la [[Farm|granja]]. Se puede obtener rodeando una parcela vacía con al menos 1 baya [[Chesto|Atania (Chesto)]] y al menos 1 baya [[Leppa|Zanama (Leppa)]].
+
+== Tablas de Crecimiento ==
+=== Estados de Crecimiento ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Brote !! Crecimiento !! Floración !! Madurez
+|-
+! Tiempo pasado desde que se planta
+| 3 mins 20 seg || 4 mins 10 seg || 5 mins || 5 mins 30 seg - 11 mins
+|-
+!Animación
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:BlukTreeTaller.png|50px]] || &lt;center&gt; [[File:BlukTreeBloom.png|50px]] || &lt;center&gt; [[File:BlukTreeBerry.png|50px]]
+|}
+
+=== Tiempos de Maduración con modificadores ===
+{| class="wikitable" | style="text-align: center;"
+! Modificador !! Tiempo hasta la madurez-marchitado
+|-
+! Ninguno
+| 5 min 30 seg -&lt;br&gt; 11 min
+|-
+! Psydugadera
+| 3 min 40 seg -&lt;br&gt; 7 min 20 seg
+|}
+
+== Diagrama de Flujo ==
+[[File:Bluk_Flow_Chart.png|200px]]
+&lt;br&gt;
+'''Leyenda:'''&lt;br&gt;
+· Random Drop: Obtenido aleatoriamente en ruta
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Mutation Strategy ==
+=== Possible Planting Formations ===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+You can fill your farm in the following way to obtain Bluk berries. Purple squares indicate where mutations can occur.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Base Formation
+|-
+| style="width: 40px;" | [[File:Chesto.png|30px]] [[Chesto]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Leppa.png|30px]] [[Leppa]]
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Optimized Planting Formation
+|-
+| style="width: 40px;" | [[File:Chesto.png|30px]] [[Chesto]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Chesto.png|30px]] [[Chesto]] || style="width: 40px; background-color:#9C7D98;" |
+|-
+| style="background-color:#9C7D98;" | || [[File:Leppa.png|30px]] [[Leppa]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Leppa.png|30px]] [[Leppa]] 
+|- style="height: 50px;"
+| style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | 
+|-
+| [[File:Chesto.png|30px]] [[Chesto]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Chesto.png|30px]] [[Chesto]] || style="background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Leppa.png|30px]] [[Leppa]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Leppa.png|30px]] [[Leppa]] 
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+=== Timing Table ===
+{| class="wikitable"| style="text-align: center;"
+|+ ''All planting times use the time-to-ripe remaining of the first planted berry for subsequent planting times''
+! Berry !! Planting Time with &lt;br&gt; No Modifier !! Planting Time with &lt;br&gt; Mulch or Sprayduck || Planting Time with &lt;br&gt;  Mulch &amp; Sprayduck
+|-
+| [[Leppa]] || - || - || -
+|-
+| [[Chesto]] || 40 secs until ripe || 26 secs until ripe || Not Practical
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Uses==
+===Mutations===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Bluk berries can be used to mutate the following berries.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Cornn.png|20px]] [[Cornn]] || [[File:Leppa.png|20px]] [[Leppa]] &lt;br&gt; [[File:Wiki.png|20px]] [[Wiki]]
+|-
+| [[File:Payapa.png|20px]] [[Payapa]] || [[File:Wiki.png|20px]] [[Wiki]] &lt;br&gt; [[File:Cornn.png|20px]] [[Cornn]] &lt;br&gt; [[File:Pamtre.png|20px]] [[Pamtre]]
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Acquisition==
+===Dungeons===
+{{Loot/head‎|Berries}}
+{{LootItem|Berry Forest|Epic}}
+{{LootItem|Radio Tower|Epic}}
+{{LootItem|Seafloor Cavern|Epic}}
+{{LootItem|Eterna Forest|Common}}
+{{LootItem|Sea Spirit's Den|Common}}
+|}
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>Cthulhu Follower</username>
+      <id>51</id>
+    </contributor>
+    <comment>Created page with "== Diagrama de Flujo == [[File:Bluk_Flow_Chart.png|200px]] &lt;br&gt; '''Leyenda:'''&lt;br&gt; · Random Drop: Obtenido aleatoriamente en ruta"</comment>
+    <model>wikitext</model>
+    <parentid>21279</parentid>
+    <sha1>147ff37a0c059ce0868d3d880c2fe8254940580d</sha1>
+  </revision>
+</page>

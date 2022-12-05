@@ -1,0 +1,111 @@
+<page>
+  <title>Mago</title>
+  <ns>0</ns>
+  <id>553</id>
+  <revision>
+    <id>6771</id>
+    <timestamp>2021-05-30T16:52:08Z</timestamp>
+    <text bytes="3638" space="preserve">{{Infobox Berry
+|name    = #17 Mago
+|image   = [[File:Mago.png]]
+|caption = This Berry progressively curves as it grows. The curvier the Berry, the sweeter and tastier.
+|growtime  = 6m 10s
+|harvest = 16 berries
+|replant = 30%
+|points = 50
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 spicy 
+*0 dry
+*15 sweet
+*0 bitter
+*0 sour
+}}
+
+'''Mago''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by surrounding an empty plot with at least 25, but no more than 80 points of sweet and less than 5 points of all other flavours. The [[Pecha]] must be unlocked to unlock this berry.
+
+== Growth Tables ==
+=== Growth Stages ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 40 secs || 3 mins || 4 mins || 6 mins 10 secs - 12 mins 20 secs
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:MagoTreeTaller.png|50px]] || &lt;center&gt; [[File:MagoTreeBloom.png|50px]] || &lt;center&gt; [[File:MagoTreeBerry.png|50px]]
+|}
+
+=== Ripening Time with Modifiers  ===
+{| class="wikitable" | style="text-align: center;"
+! Modifier !! Ripe-Wither Time
+|-
+! None
+| 6 mins 10 secs -&lt;br&gt; 12 mins 20 secs
+|-
+! Mulch/Sprayduck
+| 4 mins 7 secs -&lt;br&gt; 8 mins 13 secs
+|}
+
+== Flow Chart ==
+[[File:Mago_Flow_Chart.png|100px]]
+&lt;br&gt;
+
+== Mutation Strategy ==
+=== Possible Planting Formations ===
+
+You can fill your farm in the following way to obtain Mago berries. Purple squares indicate where mutations can occur.
+
+{| class="wikitable" style="text-align: center;"
+|+ Base Formation
+|- style="height: 50px;"
+| style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Pecha.png|30px]] [[Pecha]]
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Pecha.png|30px]] [[Pecha]] || [[File:Pecha.png|30px]] [[Pecha]]
+|}
+
+{| class="wikitable" style="text-align: center;"
+|+ Optimized Planting Formation
+|- style="height: 50px;"
+| style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Pecha.png|30px]] [[Pecha]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Pecha.png|30px]] [[Pecha]]
+|-
+| [[File:Pecha.png|30px]] [[Pecha]] || [[File:Pecha.png|30px]] [[Pecha]] || style="background-color:#9C7D98;" | || [[File:Pecha.png|30px]] [[Pecha]] || [[File:Pecha.png|30px]] [[Pecha]] 
+|- style="height: 50px;"
+| style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Pecha.png|30px]] [[Pecha]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Pecha.png|30px]] [[Pecha]] 
+|-
+| [[File:Pecha.png|30px]] [[Pecha]] || [[File:Pecha.png|30px]] [[Pecha]] || style="background-color:#9C7D98;" | || [[File:Pecha.png|30px]] [[Pecha]] || [[File:Pecha.png|30px]] [[Pecha]] 
+|}
+
+==Uses==
+===Mutations===
+
+Mago berries can be used to mutate the following berries.
+
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Pomeg.png|20px]] [[Pomeg]] || [[File:Iapapa.png|20px]] [[Iapapa]]
+|-
+| [[File:Qualot.png|20px]] [[Qualot]] || [[File:Pinap.png|20px]] [[Pinap]]
+|-
+| [[File:Magost.png|20px]] [[Magost]] || [[File:Pecha.png|20px]] [[Pecha]] &lt;br&gt; [[File:Nanab.png|20px]] [[Nanab]]
+|-
+| [[File:Roseli.png|20px]] [[Roseli]] || [[File:Nanab.png|20px]] [[Nanab]] &lt;br&gt; [[File:Magost.png|20px]] [[Magost]] &lt;br&gt; [[File:Watmel.png|20px]] [[Watmel]]
+|-
+|}
+
+&lt;br&gt;
+
+{{Berries}}</text>
+    <contributor>
+      <username>Catie-cat</username>
+      <id>30</id>
+    </contributor>
+    <comment>/* Possible Planting Formations */ added base formation</comment>
+    <model>wikitext</model>
+    <parentid>6770</parentid>
+    <sha1>7107874c180f5c07c5419c38d2c27d05da1bc75a</sha1>
+  </revision>
+</page>

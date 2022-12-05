@@ -1,0 +1,57 @@
+<page>
+  <title>Pomeg</title>
+  <ns>0</ns>
+  <id>572</id>
+  <revision>
+    <id>6886</id>
+    <timestamp>2020-12-12T18:11:42Z</timestamp>
+    <text bytes="1305" space="preserve">{{Infobox Berry
+|name    = Pomeg
+|image   = [[File:Pomeg.png]]
+|caption = When this sweetly spicy Berry's thick skin is peeled, many pieces of the fruit spill out.
+|growtime  = 1h 30m 0s
+|harvest = 20 berries
+|replant = 20%
+|points = 500
+|flavor = {{!}} 10 {{!}} 0 {{!}} 10 {{!}} 10 {{!}} 0
+}}
+'''Pomeg''' is a type of [[Berries|Berry]] that can be planted in [[Farm]]. It can be obtained by surrounding an empty plot with at least 1 [[Iapapa]] and at least 1 [[Mago]].
+
+{| class="wikitable"
+|+ Harvest Stages durations
+! Seed !! Sprout !! Taller !! Bloom !! Berry
+|-
+| 0-200s || 200-1200s || 1200-4000s || 4000-5400s || 5400-10800s
+|-
+| [[File:AllTreeSeed.png|50px]] || [[File:AllTreeSprout.png|50px]] || [[File:PomegTreeTaller.png|50px]] || [[File:PomegTreeBloom.png|50px]] || [[File:PomegTreeBerry.png|50px]]
+|}
+
+=== Possible Planting Formations ===
+
+You can fill your [[farm]] in following way to obtain Pomeg berry.
+
+{| class="wikitable" style="text-align: center;"
+|+ Farm
+|-
+| style="width: 40px;" | [[Iapapa]] || style="width: 40px;" | || style="width: 40px;" | || style="width: 40px;" | [[Iapapa]] || style="width: 40px;" | 
+|-
+| || [[Mago]] ||  ||  || [[Mago]] 
+|- style="height: 26px;"
+| || || || || 
+|-
+| [[Iapapa]] || || || [[Iapapa]] || 
+|-
+| || [[Mago]] ||  ||  || [[Mago]] 
+|}
+
+{{Berries}}</text>
+    <contributor>
+      <username>Claygame</username>
+      <id>22</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>6885</parentid>
+    <sha1>42f03ea2536fce9f7e46e7bc6da83f1ee15034da</sha1>
+  </revision>
+</page>

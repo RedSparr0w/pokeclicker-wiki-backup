@@ -1,0 +1,229 @@
+<page>
+  <title>Power Plant</title>
+  <ns>0</ns>
+  <id>325</id>
+  <revision>
+    <id>4851</id>
+    <timestamp>2022-04-27T22:43:05Z</timestamp>
+    <text bytes="2801" space="preserve">{{Infobox dungeon
+|name    = Power Plant
+|image   = [[File:Power Plant.png|thumb]]
+|caption = An overhead map of the Power Plant.
+|tokens  = 1,000
+|location = North of Lavender Town.
+}}
+The '''Power Plant''' is a [[Dungeons|dungeon]] in [[Kanto]]. It has 25 tiles arranged in a 5x5 square, including 5 chest tiles, 13 non-boss encounter tiles, and 1 boss encounter tile. Wild Encounters have 13,507 HP.
+
+== Encounter Tables ==
+
+===Wild Encounters===
+
+{| class="wikitable"
+|-
+! Wild Pokémon !! colspan=2|Trainers
+|-
+! Encounter !! Trainer !! Pokémon Team
+|-
+| [[File:Pikachu.png|40px]] Pikachu || colspan=2 rowspan=8|&lt;center&gt; N/A
+|-
+| [[File:Raichu.png|40px]] Raichu
+|-
+| [[File:Magnemite.png|40px]] Magnemite
+|-
+| [[File:Magneton.png|40px]] Magneton
+|-
+| [[File:Grimer.png|40px]] Grimer
+|-
+| [[File:Muk.png|40px]] Muk
+|-
+| [[File:Voltorb.png|40px]] Voltorb
+|-
+| [[File:Electrode.png|40px]] Electrode
+|-
+|}
+
+===Boss Encounters===
+{| class="wikitable"
+|-
+! Wild Pokémon !! Base Health !! Boss Trainer !! Pokémon Team !! Base Health
+|-
+| [[File:Electabuzz.png|40px]] Electabuzz || &lt;center&gt; 67,535 || colspan=3 rowspan=2|&lt;center&gt; N/A
+|-
+| [[File:Zapdos.png|40px]] Zapdos || &lt;center&gt; 101,302
+|}
+
+==Items==
+
+===No Debuff===
+
+{| class="wikitable"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears !! Requirement 
+|-
+| {{Bag2|Lucky Incense}} || 4 || 65.94% || 65.48% || 62.91% || rowspan=3|&lt;center&gt;N/A
+|-
+| {{Bag2|Cheri}} || 3.5 || 17.03% || 17.00% || 16.70%
+|-
+| {{Pokemon|Electrode}} || 3.5 || 17.03% || 17.00% || 16.70%
+|-
+| {{Bag2|Electric Egg}} || 1 || 0.00% || 0.26% || 1.23% || &lt;center&gt;100 Clears
+|-
+| {{Bag2|Max Revive}} || 0 || 0.0026% || 0.13% || 0.62% || rowspan=2|&lt;center&gt;N/A
+|-
+| {{Bag2|Thunder Stone}} || 0 || 0.0026% || 0.13% || 0.62%
+|-
+| {{Bag2|Metal Coat}} || 0 || 0.00% || 0.00% || 0.62% || rowspan=2|&lt;center&gt;200 Clears
+|-
+| {{Bag2|Electirizer}} || 0 || 0.00% || 0.00% || 0.62%
+|}
+
+===Debuff Drop Table===
+
+After Reaching Sinnoh, the drop chance for items in Kanto will be debuffed for any loot with weight &lt; 2.
+
+{| class="wikitable collapsible collapsed"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears !! Requirement
+|-
+| {{Bag2|Lucky Incense}} || 4 || 65.94% || 65.80% || 65.20% || rowspan=3|&lt;center&gt;N/A
+|-
+| {{Bag2|Cheri}} || 3.5 || 17.03% || 17.09% || 17.31%
+|-
+| {{Pokemon|Electrode}} || 3.5 || 17.03% || 17.09% || 17.31%
+|-
+| {{Bag2|Electric Egg}} || 1 || 0.00% || 0.01% || 0.06% || &lt;center&gt;100 Clears
+|-
+| {{Bag2|Max Revive}} || 0 || 0.000065% || 0.01% || 0.03% || rowspan=2|&lt;center&gt;N/A
+|-
+| {{Bag2|Thunder Stone}} || 0 || 0.000065% || 0.01% || 0.03%
+|-
+| {{Bag2|Metal Coat}} || 0 || 0.00% || 0.00% || 0.03% || rowspan=2|&lt;center&gt;200 Clears
+|-
+| {{Bag2|Electirizer}} || 0 || 0.00% || 0.00% || 0.03%
+|}
+
+
+{{Kanto Dungeons}}
+
+[[Category:Dungeons]]</text>
+    <contributor>
+      <username>Razrushil</username>
+      <id>31</id>
+    </contributor>
+    <comment>/* Items */ Changing debuff formatting and making it collapsible</comment>
+    <model>wikitext</model>
+    <parentid>4850</parentid>
+    <sha1>76065c2a263d62f7dbdeed524dc2b82abcf71467</sha1>
+  </revision>
+  <revision>
+    <id>4850</id>
+    <timestamp>2022-04-27T21:49:08Z</timestamp>
+    <text bytes="2784" space="preserve">{{Infobox dungeon
+|name    = Power Plant
+|image   = [[File:Power Plant.png|thumb]]
+|caption = An overhead map of the Power Plant.
+|tokens  = 1,000
+|location = North of Lavender Town.
+}}
+The '''Power Plant''' is a [[Dungeons|dungeon]] in [[Kanto]]. It has 25 tiles arranged in a 5x5 square, including 5 chest tiles, 13 non-boss encounter tiles, and 1 boss encounter tile. Wild Encounters have 13,507 HP.
+
+== Encounter Tables ==
+
+===Wild Encounters===
+
+{| class="wikitable"
+|-
+! Wild Pokémon !! colspan=2|Trainers
+|-
+! Encounter !! Trainer !! Pokémon Team
+|-
+| [[File:Pikachu.png|40px]] Pikachu || colspan=2 rowspan=8|&lt;center&gt; N/A
+|-
+| [[File:Raichu.png|40px]] Raichu
+|-
+| [[File:Magnemite.png|40px]] Magnemite
+|-
+| [[File:Magneton.png|40px]] Magneton
+|-
+| [[File:Grimer.png|40px]] Grimer
+|-
+| [[File:Muk.png|40px]] Muk
+|-
+| [[File:Voltorb.png|40px]] Voltorb
+|-
+| [[File:Electrode.png|40px]] Electrode
+|-
+|}
+
+===Boss Encounters===
+{| class="wikitable"
+|-
+! Wild Pokémon !! Base Health !! Boss Trainer !! Pokémon Team !! Base Health
+|-
+| [[File:Electabuzz.png|40px]] Electabuzz || &lt;center&gt; 67,535 || colspan=3 rowspan=2|&lt;center&gt; N/A
+|-
+| [[File:Zapdos.png|40px]] Zapdos || &lt;center&gt; 101,302
+|}
+
+==Items==
+
+{| class="wikitable"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears !! Requirement 
+|-
+| {{Bag2|Lucky Incense}} || 4 || 65.94% || 65.48% || 62.91% || rowspan=3|&lt;center&gt;N/A
+|-
+| {{Bag2|Cheri}} || 3.5 || 17.03% || 17.00% || 16.70%
+|-
+| {{Pokemon|Electrode}} || 3.5 || 17.03% || 17.00% || 16.70%
+|-
+| {{Bag2|Electric Egg}} || 1 || 0.00% || 0.26% || 1.23% || &lt;center&gt;100 Clears
+|-
+| {{Bag2|Max Revive}} || 0 || 0.0026% || 0.13% || 0.62% || rowspan=2|&lt;center&gt;N/A
+|-
+| {{Bag2|Thunder Stone}} || 0 || 0.0026% || 0.13% || 0.62%
+|-
+| {{Bag2|Metal Coat}} || 0 || 0.00% || 0.00% || 0.62% || rowspan=2|&lt;center&gt;200 Clears
+|-
+| {{Bag2|Electirizer}} || 0 || 0.00% || 0.00% || 0.62%
+|}
+
+===Debuff Drop Table===
+
+After Reaching Sinnoh, the drop chance for items in Kanto will be debuffed for any loot with weight &lt; 2.
+
+{| class="wikitable"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears !! Requirement
+|-
+| {{Bag2|Lucky Incense}} || 4 || 65.944% || 65.802% || 65.196% || rowspan=3|&lt;center&gt;N/A
+|-
+| {{Bag2|Cheri}} || 3.5 || 17.028% || 17.086% || 17.306%
+|-
+| {{Pokemon|Electrode}} || 3.5 || 17.028% || 17.086% || 17.306%
+|-
+| {{Bag2|Electric Egg}} || 1 || 0.000% || 0.013% || 0.064% || &lt;center&gt;100 Clears
+|-
+| {{Bag2|Max Revive}} || 0 || 0.000065% || 0.006% || 0.032% || rowspan=2|&lt;center&gt;N/A
+|-
+| {{Bag2|Thunder Stone}} || 0 || 0.000065% || 0.006% || 0.032%
+|-
+| {{Bag2|Metal Coat}} || 0 || 0.000% || 0.000% || 0.032% || rowspan=2|&lt;center&gt;200 Clears
+|-
+| {{Bag2|Electirizer}} || 0 || 0.000% || 0.000% || 0.032%
+|}
+
+
+{{Kanto Dungeons}}
+
+[[Category:Dungeons]]</text>
+    <contributor>
+      <username>Razrushil</username>
+      <id>31</id>
+    </contributor>
+    <comment>/* Items */ Adding debuffed drop table</comment>
+    <model>wikitext</model>
+    <parentid>4849</parentid>
+    <sha1>36005667500ab9ed10a9e3ef7b3d2d0960773031</sha1>
+  </revision>
+</page>

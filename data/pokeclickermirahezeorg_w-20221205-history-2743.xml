@@ -1,0 +1,380 @@
+<page>
+  <title>Mago/es</title>
+  <ns>0</ns>
+  <id>7588</id>
+  <revision>
+    <id>21540</id>
+    <timestamp>2022-08-02T20:32:57Z</timestamp>
+    <text bytes="4535" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #17 Ango (Mago)
+|image   = [[File:Mago.png]]
+|caption = Se va curvando conforme crece, tornándose más dulce y sabrosa.
+|growtime  = 6m 10s
+|harvest = 16 bayas
+|replant = 30%
+|mutation = 0.7%
+|points = 50
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 picante
+*0 seco
+*15 dulce
+*0 amargo
+*0 ácido
+}}
+
+'''Ango (Mago)''' es un tipo de [[Berries|baya]] que puede ser plantada en la [[Farm|granja]]. Se puede obtener rodeando una parcela con al menos de 25 y no más de 80 puntos dulces y menos de 5 puntos de cualquier otro sabor. Se requiere haber desbloqueado la baya [[Pecha|Meloc (Pecha)]] para desbloquear esta baya.
+
+== Tablas de Crecimiento ==
+=== Estados de Crecimiento ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Brote !! Crecimiento !! Floración !! Madurez
+|-
+! Tiempo pasado desde que se planta
+| 40 seg || 3 min || 4 min || 6 min 10 seg - 12 min 20 seg
+|-
+! Animación
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:MagoTreeTaller.png|50px]] || &lt;center&gt; [[File:MagoTreeBloom.png|50px]] || &lt;center&gt; [[File:MagoTreeBerry.png|50px]]
+|}
+
+=== Tiempos de Maduración con modificadores===
+{| class="wikitable" | style="text-align: center;"
+! Modificador !! Tiempo hasta la madurez-marchitado
+|-
+! Ninguno
+| 6 min 10 seg -&lt;br&gt; 12 min 20 seg
+|-
+! Abono/Psydugadera
+| 4 min 7 seg -&lt;br&gt; 8 min 13 seg
+|}
+
+== Diagrama de Flujo ==
+[[File:Mago_Flow_Chart.png|100px]]
+&lt;br&gt;
+'''Leyenda:'''&lt;br&gt;
+· Random Drop: Obtenido aleatoriamente en ruta
+
+== Estrategia de mutación ==
+=== Posibles formaciones ===
+
+Puedes llenar tu granja del siguiente modo para obtener bayas Ango (Mago). Los cuadrados morados indican dónde pueden ocurrir las mutaciones.
+
+{| class="wikitable" style="text-align: center;"
+|+ Formación Base
+|- style="height: 50px;"
+| style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Pecha.png|30px]] [[Pecha|Meloc (Pecha)]]
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Pecha.png|30px]] [[Pecha|Meloc (Pecha)]] || [[File:Pecha.png|30px]] [[Pecha|Meloc (Pecha)]]
+|}
+
+{| class="wikitable" style="text-align: center;"
+|+ Formación Óptima
+|- style="height: 50px;"
+| style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Pecha.png|30px]] [[Pecha|Meloc (Pecha)]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Pecha.png|30px]] [[Pecha|Meloc (Pecha)]]
+|-
+| [[File:Pecha.png|30px]] [[Pecha|Meloc (Pecha)]] || [[File:Pecha.png|30px]] [[Pecha|Meloc (Pecha)]] || style="background-color:#9C7D98;" | || [[File:Pecha.png|30px]] [[Pecha|Meloc (Pecha)]] || [[File:Pecha.png|30px]] [[Pecha|Meloc (Pecha)]] 
+|- style="height: 50px;"
+| style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Pecha.png|30px]] [[Pecha|Meloc (Pecha)]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Pecha.png|30px]] [[Pecha|Meloc (Pecha)]] 
+|-
+| [[File:Pecha.png|30px]] [[Pecha|Meloc (Pecha)]] || [[File:Pecha.png|30px]] [[Pecha|Meloc (Pecha)]] || style="background-color:#9C7D98;" | || [[File:Pecha.png|30px]] [[Pecha|Meloc (Pecha)]] || [[File:Pecha.png|30px]] [[Pecha|Meloc (Pecha)]] 
+|}
+
+==Usos==
+===Mutaciones===
+
+Las bayas Ango (Mago) pueden usarse para mutar las siguientes bayas.
+
+{| class="wikitable" | style="text-align: center;"
+|-
+! Se usa para !! Junto a
+|-
+| [[File:Pomeg.png|20px]] [[Pomeg|Grana (Pomeg)]] || [[File:Iapapa.png|20px]] [[Iapapa|Pabaya (Iapapa)]]
+|-
+| [[File:Qualot.png|20px]] [[Qualot|Ispero (Qualot)]] || [[File:Pinap.png|20px]] [[Pinap|Pinia (Pinap)]]
+|-
+| [[File:Magost.png|20px]] [[Magost|Aostan (Magost)]] || [[File:Pecha.png|20px]] [[Pecha|Meloc (Pecha)]] &lt;br&gt; [[File:Nanab.png|20px]] [[Nanab|Latano (Nanab)]]
+|-
+| [[File:Roseli.png|20px]] [[Roseli|Hibis (Roseli)]] || [[File:Nanab.png|20px]] [[Nanab|Latano (Nanab)]] &lt;br&gt; [[File:Magost.png|20px]] [[Magost|Aostan (Magost)]] &lt;br&gt; [[File:Watmel.png|20px]] [[Watmel|Sambia (Watmel)]]
+|-
+|}
+
+==Adquisición==
+===Mazmorras===
+{{Loot/head‎|Berries}}
+{{LootItem|Radio Tower|Épico}}
+{{LootItem|Flower Paradise|Común}}
+{{LootItem|Relic Castle|Común}}
+{{LootItem|Abundant Shrine|Común}}
+{{LootItem|Lush Jungle|Común}}
+|}
+|}
+
+&lt;br&gt;
+
+{{Berries}}
+
+[[Category:Farm|Categoría:Granja]][[Category:Berries|Categoría:Bayas]]</text>
+    <contributor>
+      <username>Cthulhu Follower</username>
+      <id>51</id>
+    </contributor>
+    <comment>Created page with "==Adquisición== ===Mazmorras=== {{Loot/head‎|Berries}} {{LootItem|Radio Tower|Épico}} {{LootItem|Flower Paradise|Común}} {{LootItem|Relic Castle|Común}} {{LootItem|Abundant Shrine|Común}} {{LootItem|Lush Jungle|Común}} |} |}"</comment>
+    <model>wikitext</model>
+    <parentid>21539</parentid>
+    <sha1>74cbd1c015b957ca20b331aba3b55394cb2a76ab</sha1>
+  </revision>
+  <revision>
+    <id>21539</id>
+    <timestamp>2022-08-02T20:28:16Z</timestamp>
+    <text bytes="4587" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #17 Ango (Mago)
+|image   = [[File:Mago.png]]
+|caption = Se va curvando conforme crece, tornándose más dulce y sabrosa.
+|growtime  = 6m 10s
+|harvest = 16 bayas
+|replant = 30%
+|mutation = 0.7%
+|points = 50
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 picante
+*0 seco
+*15 dulce
+*0 amargo
+*0 ácido
+}}
+
+'''Ango (Mago)''' es un tipo de [[Berries|baya]] que puede ser plantada en la [[Farm|granja]]. Se puede obtener rodeando una parcela con al menos de 25 y no más de 80 puntos dulces y menos de 5 puntos de cualquier otro sabor. Se requiere haber desbloqueado la baya [[Pecha|Meloc (Pecha)]] para desbloquear esta baya.
+
+== Tablas de Crecimiento ==
+=== Estados de Crecimiento ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Brote !! Crecimiento !! Floración !! Madurez
+|-
+! Tiempo pasado desde que se planta
+| 40 seg || 3 min || 4 min || 6 min 10 seg - 12 min 20 seg
+|-
+! Animación
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:MagoTreeTaller.png|50px]] || &lt;center&gt; [[File:MagoTreeBloom.png|50px]] || &lt;center&gt; [[File:MagoTreeBerry.png|50px]]
+|}
+
+=== Tiempos de Maduración con modificadores===
+{| class="wikitable" | style="text-align: center;"
+! Modificador !! Tiempo hasta la madurez-marchitado
+|-
+! Ninguno
+| 6 min 10 seg -&lt;br&gt; 12 min 20 seg
+|-
+! Abono/Psydugadera
+| 4 min 7 seg -&lt;br&gt; 8 min 13 seg
+|}
+
+== Diagrama de Flujo ==
+[[File:Mago_Flow_Chart.png|100px]]
+&lt;br&gt;
+'''Leyenda:'''&lt;br&gt;
+· Random Drop: Obtenido aleatoriamente en ruta
+
+== Estrategia de mutación ==
+=== Posibles formaciones ===
+
+Puedes llenar tu granja del siguiente modo para obtener bayas Ango (Mago). Los cuadrados morados indican dónde pueden ocurrir las mutaciones.
+
+{| class="wikitable" style="text-align: center;"
+|+ Formación Base
+|- style="height: 50px;"
+| style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Pecha.png|30px]] [[Pecha|Meloc (Pecha)]]
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Pecha.png|30px]] [[Pecha|Meloc (Pecha)]] || [[File:Pecha.png|30px]] [[Pecha|Meloc (Pecha)]]
+|}
+
+{| class="wikitable" style="text-align: center;"
+|+ Formación Óptima
+|- style="height: 50px;"
+| style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Pecha.png|30px]] [[Pecha|Meloc (Pecha)]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Pecha.png|30px]] [[Pecha|Meloc (Pecha)]]
+|-
+| [[File:Pecha.png|30px]] [[Pecha|Meloc (Pecha)]] || [[File:Pecha.png|30px]] [[Pecha|Meloc (Pecha)]] || style="background-color:#9C7D98;" | || [[File:Pecha.png|30px]] [[Pecha|Meloc (Pecha)]] || [[File:Pecha.png|30px]] [[Pecha|Meloc (Pecha)]] 
+|- style="height: 50px;"
+| style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Pecha.png|30px]] [[Pecha|Meloc (Pecha)]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Pecha.png|30px]] [[Pecha|Meloc (Pecha)]] 
+|-
+| [[File:Pecha.png|30px]] [[Pecha|Meloc (Pecha)]] || [[File:Pecha.png|30px]] [[Pecha|Meloc (Pecha)]] || style="background-color:#9C7D98;" | || [[File:Pecha.png|30px]] [[Pecha|Meloc (Pecha)]] || [[File:Pecha.png|30px]] [[Pecha|Meloc (Pecha)]] 
+|}
+
+==Usos==
+===Mutaciones===
+
+Las bayas Ango (Mago) pueden usarse para mutar las siguientes bayas.
+
+{| class="wikitable" | style="text-align: center;"
+|-
+! Se usa para !! Junto a
+|-
+| [[File:Pomeg.png|20px]] [[Pomeg|Grana (Pomeg)]] || [[File:Iapapa.png|20px]] [[Iapapa|Pabaya (Iapapa)]]
+|-
+| [[File:Qualot.png|20px]] [[Qualot|Ispero (Qualot)]] || [[File:Pinap.png|20px]] [[Pinap|Pinia (Pinap)]]
+|-
+| [[File:Magost.png|20px]] [[Magost|Aostan (Magost)]] || [[File:Pecha.png|20px]] [[Pecha|Meloc (Pecha)]] &lt;br&gt; [[File:Nanab.png|20px]] [[Nanab|Latano (Nanab)]]
+|-
+| [[File:Roseli.png|20px]] [[Roseli|Hibis (Roseli)]] || [[File:Nanab.png|20px]] [[Nanab|Latano (Nanab)]] &lt;br&gt; [[File:Magost.png|20px]] [[Magost|Aostan (Magost)]] &lt;br&gt; [[File:Watmel.png|20px]] [[Watmel|Sambia (Watmel)]]
+|-
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Acquisition==
+===Dungeons===
+{{Loot/head‎|Berries}}
+{{LootItem|Radio Tower|Epic}}
+{{LootItem|Flower Paradise|Common}}
+{{LootItem|Relic Castle|Common}}
+{{LootItem|Abundant Shrine|Common}}
+{{LootItem|Lush Jungle|Common}}
+|}
+|}
+&lt;/div&gt;
+
+&lt;br&gt;
+
+{{Berries}}
+
+[[Category:Farm|Categoría:Granja]][[Category:Berries|Categoría:Bayas]]</text>
+    <contributor>
+      <username>Cthulhu Follower</username>
+      <id>51</id>
+    </contributor>
+    <comment>Created page with "Las bayas Ango (Mago) pueden usarse para mutar las siguientes bayas."</comment>
+    <model>wikitext</model>
+    <parentid>21538</parentid>
+    <sha1>a2ea3ae1ab868d6f56e235ced446aaab74077a71</sha1>
+  </revision>
+  <revision>
+    <id>21538</id>
+    <timestamp>2022-08-02T20:27:04Z</timestamp>
+    <text bytes="4632" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #17 Ango (Mago)
+|image   = [[File:Mago.png]]
+|caption = Se va curvando conforme crece, tornándose más dulce y sabrosa.
+|growtime  = 6m 10s
+|harvest = 16 bayas
+|replant = 30%
+|mutation = 0.7%
+|points = 50
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 picante
+*0 seco
+*15 dulce
+*0 amargo
+*0 ácido
+}}
+
+'''Ango (Mago)''' es un tipo de [[Berries|baya]] que puede ser plantada en la [[Farm|granja]]. Se puede obtener rodeando una parcela con al menos de 25 y no más de 80 puntos dulces y menos de 5 puntos de cualquier otro sabor. Se requiere haber desbloqueado la baya [[Pecha|Meloc (Pecha)]] para desbloquear esta baya.
+
+== Tablas de Crecimiento ==
+=== Estados de Crecimiento ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Brote !! Crecimiento !! Floración !! Madurez
+|-
+! Tiempo pasado desde que se planta
+| 40 seg || 3 min || 4 min || 6 min 10 seg - 12 min 20 seg
+|-
+! Animación
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:MagoTreeTaller.png|50px]] || &lt;center&gt; [[File:MagoTreeBloom.png|50px]] || &lt;center&gt; [[File:MagoTreeBerry.png|50px]]
+|}
+
+=== Tiempos de Maduración con modificadores===
+{| class="wikitable" | style="text-align: center;"
+! Modificador !! Tiempo hasta la madurez-marchitado
+|-
+! Ninguno
+| 6 min 10 seg -&lt;br&gt; 12 min 20 seg
+|-
+! Abono/Psydugadera
+| 4 min 7 seg -&lt;br&gt; 8 min 13 seg
+|}
+
+== Diagrama de Flujo ==
+[[File:Mago_Flow_Chart.png|100px]]
+&lt;br&gt;
+'''Leyenda:'''&lt;br&gt;
+· Random Drop: Obtenido aleatoriamente en ruta
+
+== Estrategia de mutación ==
+=== Posibles formaciones ===
+
+Puedes llenar tu granja del siguiente modo para obtener bayas Ango (Mago). Los cuadrados morados indican dónde pueden ocurrir las mutaciones.
+
+{| class="wikitable" style="text-align: center;"
+|+ Formación Base
+|- style="height: 50px;"
+| style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Pecha.png|30px]] [[Pecha|Meloc (Pecha)]]
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Pecha.png|30px]] [[Pecha|Meloc (Pecha)]] || [[File:Pecha.png|30px]] [[Pecha|Meloc (Pecha)]]
+|}
+
+{| class="wikitable" style="text-align: center;"
+|+ Formación Óptima
+|- style="height: 50px;"
+| style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Pecha.png|30px]] [[Pecha|Meloc (Pecha)]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Pecha.png|30px]] [[Pecha|Meloc (Pecha)]]
+|-
+| [[File:Pecha.png|30px]] [[Pecha|Meloc (Pecha)]] || [[File:Pecha.png|30px]] [[Pecha|Meloc (Pecha)]] || style="background-color:#9C7D98;" | || [[File:Pecha.png|30px]] [[Pecha|Meloc (Pecha)]] || [[File:Pecha.png|30px]] [[Pecha|Meloc (Pecha)]] 
+|- style="height: 50px;"
+| style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Pecha.png|30px]] [[Pecha|Meloc (Pecha)]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Pecha.png|30px]] [[Pecha|Meloc (Pecha)]] 
+|-
+| [[File:Pecha.png|30px]] [[Pecha|Meloc (Pecha)]] || [[File:Pecha.png|30px]] [[Pecha|Meloc (Pecha)]] || style="background-color:#9C7D98;" | || [[File:Pecha.png|30px]] [[Pecha|Meloc (Pecha)]] || [[File:Pecha.png|30px]] [[Pecha|Meloc (Pecha)]] 
+|}
+
+==Usos==
+===Mutaciones===
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Mago berries can be used to mutate the following berries.
+&lt;/div&gt;
+
+{| class="wikitable" | style="text-align: center;"
+|-
+! Se usa para !! Junto a
+|-
+| [[File:Pomeg.png|20px]] [[Pomeg|Grana (Pomeg)]] || [[File:Iapapa.png|20px]] [[Iapapa|Pabaya (Iapapa)]]
+|-
+| [[File:Qualot.png|20px]] [[Qualot|Ispero (Qualot)]] || [[File:Pinap.png|20px]] [[Pinap|Pinia (Pinap)]]
+|-
+| [[File:Magost.png|20px]] [[Magost|Aostan (Magost)]] || [[File:Pecha.png|20px]] [[Pecha|Meloc (Pecha)]] &lt;br&gt; [[File:Nanab.png|20px]] [[Nanab|Latano (Nanab)]]
+|-
+| [[File:Roseli.png|20px]] [[Roseli|Hibis (Roseli)]] || [[File:Nanab.png|20px]] [[Nanab|Latano (Nanab)]] &lt;br&gt; [[File:Magost.png|20px]] [[Magost|Aostan (Magost)]] &lt;br&gt; [[File:Watmel.png|20px]] [[Watmel|Sambia (Watmel)]]
+|-
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Acquisition==
+===Dungeons===
+{{Loot/head‎|Berries}}
+{{LootItem|Radio Tower|Epic}}
+{{LootItem|Flower Paradise|Common}}
+{{LootItem|Relic Castle|Common}}
+{{LootItem|Abundant Shrine|Common}}
+{{LootItem|Lush Jungle|Common}}
+|}
+|}
+&lt;/div&gt;
+
+&lt;br&gt;
+
+{{Berries}}
+
+[[Category:Farm|Categoría:Granja]][[Category:Berries|Categoría:Bayas]]</text>
+    <contributor>
+      <username>Cthulhu Follower</username>
+      <id>51</id>
+    </contributor>
+    <comment>Created page with "&lt;br&gt;"</comment>
+    <model>wikitext</model>
+    <parentid>21537</parentid>
+    <sha1>462ebde3e1e519e9ab4bd6a47292474d3f9d6c25</sha1>
+  </revision>
+</page>

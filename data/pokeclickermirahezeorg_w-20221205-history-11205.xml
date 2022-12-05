@@ -1,0 +1,81 @@
+<page>
+  <title>Pamtre</title>
+  <ns>0</ns>
+  <id>661</id>
+  <revision>
+    <id>7366</id>
+    <timestamp>2021-01-05T22:00:32Z</timestamp>
+    <text bytes="3187" space="preserve">{{Infobox Berry
+|name    = #32 Pamtre
+|image   = [[File:Pamtre.png]]
+|caption = This Berry drifted from a faraway sea. It is now cultivated in the Sinnoh region.
+|growtime  = 5h 0m 0s
+|harvest = 31 berries
+|replant = 10%
+|points = 950
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 spicy 
+*30 dry
+*10 sweet
+*0 bitter
+*0 sour
+}}
+
+'''Pamtre''' is a type of [[Berries|Berry]] that can be planted in [[Farm]]. It can be obtained by surrounding a [[Cornn]] with at least 130, but no more than 160 points of dry and no more than 80 points of all other flavours. The [[Cornn]] will then have a chance to mutate into this berry. 
+
+== Growth Tables ==
+=== Growth Stages ===
+{| class="wikitable"
+!!! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 50 mins || 2 hours 46 mins 40 secs || 4 hours 33 mins 20 secs || 5 hours - 10 hours
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:PamtreTreeTaller.png|50px]] || &lt;center&gt; [[File:PamtreTreeBloom.png|50px]] || &lt;center&gt; [[File:PamtreTreeBerry.png|50px]]
+|}
+
+=== Ripening Time with Modifiers  ===
+{| class="wikitable" | style="text-align: center;"
+! Modifier !! Ripe-Wither Time !! Boost Mulch Needed to Ripen
+|-
+! None
+| 5 hours -&lt;br&gt; 10 hours || ---
+|-
+! Mulch or Sprayduck
+| 3 hours 20 mins -&lt;br&gt; 6 hours 40 mins || 40 mulch
+|-
+! Mulch &amp; Sprayduck
+| 2 hours 13 mins 20 secs -&lt;br&gt; 4 hours 26 mins 40 secs || 27 mulch
+|}
+
+== Mutation Strategy ==
+=== Possible Planting Formations ===
+
+You can fill your farm in the following way to obtain Pamtre berries. Purple squares indicate where mutations can occur.
+
+{| class="wikitable" style="text-align: center;"
+|+ Farm
+|-
+| style="width: 50px;" | [[File:Cornn.png|30px]]&lt;br&gt;[[Cornn]] || style="width: 50px;" | [[File:Cornn.png|30px]]&lt;br&gt;[[Cornn]] || style="width: 50px;" | [[File:Cornn.png|30px]]&lt;br&gt;[[Cornn]] || style="width: 50px;" | [[File:Cornn.png|30px]]&lt;br&gt;[[Cornn]] || style="width: 50px;" | [[File:Cornn.png|30px]]&lt;br&gt;[[Cornn]]
+|-
+| [[File:Cornn.png|30px]]&lt;br&gt;[[Cornn]] || style="background-color:#9C7D98;" | [[File:Cornn.png|30px]]&lt;br&gt;'''[[Cornn]]''' || style="background-color:#9C7D98;" | [[File:Cornn.png|30px]]&lt;br&gt;'''[[Cornn]]''' || style="background-color:#9C7D98;" | [[File:Cornn.png|30px]]&lt;br&gt;'''[[Cornn]]''' || [[File:Cornn.png|30px]]&lt;br&gt;[[Cornn]]
+|- style="height: 26px;"
+| [[File:Cornn.png|30px]]&lt;br&gt;[[Cornn]] || style="background-color:#9C7D98;" | [[File:Cornn.png|30px]]&lt;br&gt;'''[[Cornn]]''' || style="background-color:#9C7D98;" | [[File:Cornn.png|30px]]&lt;br&gt;'''[[Cornn]]''' || style="background-color:#9C7D98;" | [[File:Cornn.png|30px]]&lt;br&gt;'''[[Cornn]]''' || [[File:Cornn.png|30px]]&lt;br&gt;[[Cornn]]
+|-
+| [[File:Cornn.png|30px]]&lt;br&gt;[[Cornn]] || style="background-color:#9C7D98;" | [[File:Cornn.png|30px]]&lt;br&gt;'''[[Cornn]]''' || style="background-color:#9C7D98;" | [[File:Cornn.png|30px]]&lt;br&gt;'''[[Cornn]]''' || style="background-color:#9C7D98;" | [[File:Cornn.png|30px]]&lt;br&gt;'''[[Cornn]]''' || [[File:Cornn.png|30px]]&lt;br&gt;[[Cornn]]
+|-
+| [[File:Cornn.png|30px]]&lt;br&gt;[[Cornn]] || [[File:Cornn.png|30px]]&lt;br&gt;[[Cornn]] || [[File:Cornn.png|30px]]&lt;br&gt;[[Cornn]] || [[File:Cornn.png|30px]]&lt;br&gt;[[Cornn]] || [[File:Cornn.png|30px]]&lt;br&gt;[[Cornn]]
+|}
+
+{{Berries}}</text>
+    <contributor>
+      <username>Catie-cat</username>
+      <id>30</id>
+    </contributor>
+    <comment>minor visual changes, added mutation plots to formation table</comment>
+    <model>wikitext</model>
+    <parentid>7365</parentid>
+    <sha1>1e8c9e884b9134a8501a823370ff8eaf3e0dd12e</sha1>
+  </revision>
+</page>

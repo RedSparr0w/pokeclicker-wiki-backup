@@ -1,0 +1,20 @@
+<page>
+  <title>Translations:Sprayduck/11/fr</title>
+  <ns>0</ns>
+  <id>4633</id>
+  <revision>
+    <id>16159</id>
+    <timestamp>2022-07-26T08:17:25Z</timestamp>
+    <text bytes="582" space="preserve">Note : Les valeurs pour la baie [[Wacan|Parma]] varient comme les baies Parma accélèrent la croissance des baies adjacentes. L'XP par minute est calculé ainsi pour une seule baie Parma : {{ #expr: 60/((30*60)/1.25)*1round2 }}.
+Cependant, si vous plantez une baie Parma adjacentes à 8 autres baies Parma, cette baie Parma centrale donnera {{ #expr: 60/((30*60)/(1.3^8*1.25))*1round2 }} XP par minute.
+Chaque Parma aura une valeur d'EXP par minute comprise entre ces deux valeurs (en prenant en compte un Kwakarrosoir équipé de niveau 0 et aucun engrais Fertibérance utilisé).</text>
+    <contributor>
+      <username>Razikd</username>
+      <id>33</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>16158</parentid>
+    <sha1>869e129f52f5cc4536cba14592f45baca584b674</sha1>
+  </revision>
+</page>

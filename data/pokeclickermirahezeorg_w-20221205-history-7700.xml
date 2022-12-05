@@ -1,0 +1,72 @@
+<page>
+  <title>Fullmoon Island</title>
+  <ns>0</ns>
+  <id>438</id>
+  <revision>
+    <id>5912</id>
+    <timestamp>2022-05-26T12:05:15Z</timestamp>
+    <text bytes="1373" space="preserve">{{Infobox dungeon
+|name    = Fullmoon Island
+|image   = [[File:Fullmoon Island.png|300px]]
+|caption = A bird's-eye view of Fullmoon Island.
+|tokens  = 96,500
+|location = The leftmost island off the northwestern coast of Sinnoh.
+}}
+'''Fullmoon Island''' is a [[Dungeons|dungeon]] in [[Sinnoh]]. It initially has 64 tiles arranged in an 8x8 square, including 8 chest tiles, 19 non-boss encounter tiles, and 1 boss encounter tile. Wild Encounters have 2,653,000 HP.
+
+== Encounter Tables ==
+
+===Wild Encounters===
+
+{| class="wikitable"
+|-
+! Wild Pokémon !! colspan=2|Trainers
+|-
+! Encounter !! Trainer !! Pokémon Team
+|-
+| [[File:Illumise.png|40px]] Illumise || rowspan=4 colspan=2 | &lt;center&gt; N/A
+|-
+| [[File:Minun.png|40px]] Minun
+|-
+| [[File:Hypno.png|40px]] Hypno
+|-
+| [[File:Luvdisc.png|40px]] Luvdisc
+|}
+
+===Boss Encounters===
+
+{| class="wikitable"
+|-
+! Wild Pokémon !! Base Health !! Boss Trainer !! Pokémon Team !! Base Health
+|-
+| [[File:Clefable.png|40px]] Clefable || &lt;center&gt;11,000,000  || colspan=3 | &lt;center&gt; N/A
+|}
+
+==Items==
+
+{| class="wikitable"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+|-
+|{{Bag2|xClick}}||4||65.56%||65.35%||64.23% 
+|-
+|{{Bag2|Nanab}}||3.75||33.31%||33.27%||32.94% 
+|-
+|{{Bag2|Mind Plate}}||2.5||1.13%||1.25%||2.20% 
+|-
+|{{Bag2|Dawn Stone}}||0||0.0026%||0.13%||0.63%
+|}
+
+{{Sinnoh Dungeons}}
+
+[[Category:Dungeons]]</text>
+    <contributor>
+      <username>Dragonkin550</username>
+      <id>27</id>
+    </contributor>
+    <comment>/* Items */ updating table</comment>
+    <model>wikitext</model>
+    <parentid>5911</parentid>
+    <sha1>ed10568278c78e115aadc91129d6e1ca09be2cb3</sha1>
+  </revision>
+</page>

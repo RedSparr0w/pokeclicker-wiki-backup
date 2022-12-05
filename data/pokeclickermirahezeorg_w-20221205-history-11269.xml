@@ -1,0 +1,93 @@
+<page>
+  <title>Magost</title>
+  <ns>0</ns>
+  <id>598</id>
+  <revision>
+    <id>7042</id>
+    <timestamp>2021-01-04T16:23:56Z</timestamp>
+    <text bytes="2737" space="preserve">{{Infobox Berry
+|name    = #28 Magost
+|image   = [[File:Magost.png]]
+|caption = The grown-up flavor and dreamy sweetness of this Berry make it a favorite of Pokémon everywhere.
+|growtime  = 4h 0m 0s
+|harvest = 27 berries
+|replant = 10%
+|points = 750
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 spicy 
+*0 dry
+*20 sweet
+*10 bitter
+*0 sour
+}}
+== Description ==
+'''Magost''' is a type of [[Berries|Berry]] that can be planted in [[Farm]]. It can be obtained by surrounding an empty plot with at least 1 [[Pecha]], at least 1 [[Nanab]] and at least 1 [[Mago]].
+
+== Growth Tables ==
+=== Growth Stages ===
+{| class="wikitable"
+! !! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 40 mins || 1 hour 48 mins 20 secs || 2 hours 46 mins 40 secs || 4 hours - 8 hours 
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:MagostTreeTaller.png|50px]] || &lt;center&gt; [[File:MagostTreeBloom.png|50px]] || &lt;center&gt; [[File:MagostTreeBerry.png|50px]]
+|}
+
+=== Ripening Time with Modifiers  ===
+{| class="wikitable collapsible" | style="text-align: center;"
+! Modifier !! Ripe-Wither Time !! Boost Mulch Needed to Ripen
+|-
+! None
+| 4 hours -&lt;br&gt; 8 hours || ---
+|-
+! Mulch/Sprayduck
+| 2 hours 40 mins -&lt;br&gt; 5 hours 20 mins || 32 mulch
+|-
+! Mulch*Sprayduck
+| 1 hour 46 mins 40 secs -&lt;br&gt; 2 hours 53 mins 20 secs || 22 mulch
+|}
+
+== Mutation Strategy ==
+=== Possible Planting Formations ===
+
+You can fill your [[farm]] in following way to obtain Magost berry.
+
+{| class="wikitable" style="text-align: center;"
+|+ Farm
+|- style="height: 50px;"
+| style="width: 40px;" | || style="width: 40px;" | [[File:Pecha.png|30px]] [[Pecha]] || style="width: 40px;" | || style="width: 40px;" | || style="width: 40px;" | [[File:Pecha.png|30px]] [[Pecha]]
+|-
+| [[File:Nanab.png|30px]] [[Nanab]] || [[File:Mago.png|30px]] [[Mago]] ||  || [[File:Nanab.png|30px]] [[Nanab]] || [[File:Mago.png|30px]]&lt;br&gt;[[Mago]] 
+|- style="height: 50px;"
+| || || || || 
+|-
+| || [[File:Pecha.png|30px]] [[Pecha]] ||  || || [[File:Pecha.png|30px]] [[Pecha]] 
+|-
+| [[File:Nanab.png|30px]] [[Nanab]] || [[File:Mago.png|30px]] [[Mago]] ||  || [[File:Nanab.png|30px]] [[Nanab]] || [[File:Mago.png|30px]]&lt;br&gt;[[Mago]] 
+|}
+
+=== Timing Table ===
+{| class="collapsible wikitable"| style="text-align: center;"
+|+ ''All planting times use the time-to-ripe remaining of the first planted berry for subsequent planting times''
+! Berry !! Planting Time with &lt;br&gt; No Modifier !! Planting Time with &lt;br&gt; Mulch/Sprayduck || Planting Time with &lt;br&gt;  Mulch*Sprayduck
+|-
+| [[Mago]] || - || - || -
+|-
+| [[Nanab]] || 4 mins 10 secs until ripe || 2 mins 47 secs until ripe || Not Practical
+|-
+| [[Pecha]] || 1 min until ripe || 40 secs until ripe || Not Practical
+|}
+
+{{Berries}}</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment>Growth + Timing Table</comment>
+    <model>wikitext</model>
+    <parentid>7041</parentid>
+    <sha1>92335748f9a15cafc3ce0d714888f9ebb0fbaa4f</sha1>
+  </revision>
+</page>

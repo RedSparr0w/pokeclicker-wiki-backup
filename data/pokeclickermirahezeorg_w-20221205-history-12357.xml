@@ -1,0 +1,69 @@
+<page>
+  <title>Rindo</title>
+  <ns>0</ns>
+  <id>683</id>
+  <revision>
+    <id>7512</id>
+    <timestamp>2020-11-22T14:52:41Z</timestamp>
+    <text bytes="1894" space="preserve">{{Infobox Berry
+|name    = Rindo
+|image   = [[File:Rindo.png]]
+|caption = This Berry has a disagreeable "green" flavor and scent typical of vegetables. It is rich in health-promoting fiber. It has a tendency to expand into nearby plots.
+|growtime  = 8h 0m 0s
+|harvest = 24 berries
+|replant = 5%
+|points = 1,400
+|flavor = {{!}} 10 {{!}} 0 {{!}} 0 {{!}} 15 {{!}} 0
+}}
+'''Rindo''' is a type of [[Berries|Berry]] that can be planted in [[Farm]]. It can be obtained by surrounding an empty plot with at least 10, but no more than 15 points of spicy, at least 15, but no more than 20 points of bitter and 0 points of all other flavours. The [[Cheri]] and [[Aguav]] must be unlocked to unlock this berry.
+
+{| class="wikitable"
+|+ Harvest Stages durations
+! Seed !! Sprout !! Taller !! Bloom !! Berry
+|-
+| 0-3600s || 3600-7200s || 7200-16200s || 16200-28800s || 28800-57600s
+|-
+| [[File:AllTreeSeed.png|50px]] || [[File:AllTreeSprout.png|50px]] || [[File:RindoTreeTaller.png|50px]] || [[File:RindoTreeBloom.png|50px]] || [[File:RindoTreeBerry.png|50px]]
+|}
+
+=== Possible Planting Formations ===
+
+You can fill your [[farm]] in following way to obtain Rindo berry.
+
+{| class="wikitable" style="text-align: center;"
+|+ Farm
+|-
+| style="width: 40px;" | [[Figy]] || style="width: 40px;" | || style="width: 40px;" | || style="width: 40px;" | [[Figy]] || style="width: 40px;" | 
+|-
+| || [[Aguav]] ||  ||  || [[Aguav]] 
+|- style="height: 26px;"
+| || || || || 
+|-
+| [[Figy]] || || || [[Figy]] || 
+|-
+| || [[Aguav]] ||  ||  || [[Aguav]] 
+|}
+
+{| class="wikitable" style="text-align: center;"
+|+ Farm
+|-
+| style="width: 40px;" | [[Cheri]] || style="width: 40px;" | || style="width: 40px;" | || style="width: 40px;" | [[Cheri]] || style="width: 40px;" | 
+|-
+| || [[Aguav]] ||  ||  || [[Aguav]] 
+|- style="height: 26px;"
+| || || || || 
+|-
+| [[Cheri]] || || || [[Cheri]] || 
+|-
+| || [[Aguav]] ||  ||  || [[Aguav]] 
+|}</text>
+    <contributor>
+      <username>Kirby2729</username>
+      <id>67</id>
+    </contributor>
+    <comment>Created page with "{{Infobox Berry |name    = Rindo |image   = [[File:Rindo.png]] |caption = This Berry has a disagreeable "green" flavor and scent typical of vegetables. It is rich in health-pr..."</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>6b27d0f318ffb6d85c1dc98636fb9be5045c5c71</sha1>
+  </revision>
+</page>

@@ -1,0 +1,81 @@
+<page>
+  <title>Victory Road Johto</title>
+  <ns>0</ns>
+  <id>3608</id>
+  <revision>
+    <id>13586</id>
+    <timestamp>2022-04-16T17:37:30Z</timestamp>
+    <text bytes="1729" space="preserve">{{Infobox dungeon
+|name    = Victory Road Johto
+|image   = [[File:Victory Road Johto.png|thumb]]
+|caption = A map of Victory Road Johto.
+|tokens  = 7,000
+|location = Route 26, south of Indigo Plateau Johto.
+}}
+'''Victory Road Johto''' is a [[Dungeons|dungeon]] in [[Johto]]. It initially has 36 tiles arranged in a 6x6 square, including 6 chest tiles, 15 non-boss encounter tiles, and 1 boss encounter tile. Wild Encounters have 128,500 HP.
+
+== Encounter Tables ==
+
+===Wild Encounters===
+
+{| class="wikitable"
+|-
+! Wild Pokémon !! colspan=2|Trainers
+|-
+! Encounter !! Trainer !! Pokémon Team
+|-
+| [[File:Golbat.png|40px]] Golbat || colspan=2 rowspan=4| &lt;center&gt; N/A
+|-
+| [[File:Graveler.png|40px]] Graveler 
+|-
+| [[File:Onix.png|40px]] Onix
+|-
+| [[File:Rhyhorn.png|40px]] Rhyhorn
+|}
+
+===Boss Encounters===
+{| class="wikitable"
+|-
+! Wild Pokémon !! Base Health !! Boss Trainer !! Pokémon Team !! Base Health
+|-
+| [[File:Sandslash.png|40px]] Sandslash || rowspan=2|&lt;center&gt; 500,000 || rowspan=2 colspan=3|&lt;center&gt;N/A
+|-
+| [[File:Rhydon.png|40px]] Rhydon
+|}
+
+==Items==
+
+{| class="wikitable"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears !! Requirement
+|-
+| {{Bag2|Item Magnet}} || 4 || 87.76% || 86.39% || 79.39% || rowspan=8|&lt;center&gt;N/A
+|-
+| {{Pokemon|Graveler}} || 3.25 || 11.52% || 11.48% || 11.09% 
+|-
+| {{Bag2|Earth Plate}} || 2 || 0.39% || 0.55% || 2.33% 
+|-
+| {{Bag2|Ultraball}} || 1.75 || 0.20% || 0.47% || 2.14% 
+|-
+| {{Bag2|Small Restore}} || 1.5 || 0.10% || 0.43% || 1.94% 
+|-
+| {{Bag2|Large Restore}} || 1 || 0.028% || 0.34% || 1.55% 
+|-
+| {{Bag2|Dragon Scale}} || 0 || 0.0035% || 0.17% || 0.78% 
+|-
+| {{Bag2|Max Revive}} || 0 || 0.0035% || 0.17% || 0.78% 
+|}
+
+{{Dungeons}}
+
+[[Category:Dungeons]]</text>
+    <contributor>
+      <username>Slk</username>
+      <id>6</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>13585</parentid>
+    <sha1>d230b6e71f1dea2e29ef7dd54d73e0e97f2ac6bd</sha1>
+  </revision>
+</page>

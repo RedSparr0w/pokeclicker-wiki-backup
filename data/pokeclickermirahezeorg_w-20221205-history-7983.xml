@@ -1,0 +1,112 @@
+<page>
+  <title>Tin Tower</title>
+  <ns>0</ns>
+  <id>370</id>
+  <revision>
+    <id>5257</id>
+    <timestamp>2022-04-28T06:31:39Z</timestamp>
+    <text bytes="2621" space="preserve">{{Infobox dungeon
+|name    = Tin Tower
+|image   = [[File:Tin Tower.png|thumb]]
+|caption = A map of Tin Tower.
+|tokens  = 4,500
+|location = Northeast of Ecruteak City.
+}}
+'''Tin Tower''' is a [[Dungeons|dungeon]] in [[Johto]]. It initially has 36 tiles arranged in a 6x6 square, including 6 chest tiles, 15 non-boss encounter tiles, and 1 boss encounter tile. Wild Encounters have 88,500 HP.
+
+== Encounter Tables ==
+
+===Wild Encounters===
+
+{| class="wikitable"
+|-
+! Wild Pokémon !! colspan=2|Trainers
+|-
+! Encounter !! Trainer !! Pokémon Team
+|-
+| [[File:Rattata.png|40px]] Rattata || colspan=2 rowspan=2|&lt;center&gt;N/A
+|-
+| [[File:Gastly.png|40px]] Gastly
+|-
+|}
+
+===Boss Encounters===
+{| class="wikitable"
+|-
+! Wild Pokémon !! Base Health !! Boss Trainer !! Pokémon Team !! Base Health
+|-
+| [[File:Raticate.png|40px]] Raticate || rowspan=2|&lt;center&gt;380,000 || colspan=3 rowspan=3|&lt;center&gt;N/A
+|-
+| [[File:Haunter.png|40px]] Haunter
+|-
+| [[File:Ho-Oh.png|40px]] '''Ho-Oh*''' || &lt;center&gt;1,410,000
+|}
+'''Note: Must have captured Suicune, Raikou, and Entei'''
+
+==Items==
+
+===No Debuff===
+
+{| class="wikitable"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears !! Requirement 
+|-
+| {{Bag2|XClick}} || 4 || 49.49% || 49.09% || 46.01% || rowspan=9|&lt;center&gt;N/A
+|-
+| {{Bag2|Token Collector}} || 4 || 49.49% || 49.09% || 46.01% 
+|-
+| {{Bag2|Ultraball}} || 2 || 0.22% || 0.31% || 1.35% 
+|-
+| {{Bag2|Spooky Plate}} || 2 || 0.22% || 0.31% || 1.35% 
+|-
+| {{Bag2|Flame Plate}} || 2 || 0.22% || 0.31% || 1.35% 
+|-
+| {{Bag2|Sky Plate}} || 2 || 0.22% || 0.31% || 1.35% 
+|-
+| {{Bag2|Medium Restore}} || 1.75 || 0.11% || 0.27% || 1.24 
+|-
+| {{Bag2|Fire Egg}} || 1 || 0.016% || 0.19% || 0.90% 
+|-
+| {{Bag2|Max Revive}} || 0 || 0.0020% || 0.10% || 0.45% 
+|}
+
+===Debuff Drop Table===
+
+After Reaching Unova, the drop chance for items in Johto will be debuffed for any loot with weight &lt; 2.
+
+{| class="wikitable collapsible collapsed"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears !! Requirement
+|-
+| {{Bag2|XClick}} || 4 || 49.56% || 49.35% || 47.16% || rowspan=9|&lt;center&gt;N/A
+|-
+| {{Bag2|Token Collector}} || 4 || 49.56% || 49.35% || 47.16%
+|-
+| {{Bag2|Ultraball}} || 2 || 0.22% || 0.32% || 1.38%
+|-
+| {{Bag2|Spooky Plate}} || 2 || 0.22% || 0.32% || 1.38%
+|-
+| {{Bag2|Flame Plate}} || 2 || 0.22% || 0.32% || 1.38%
+|-
+| {{Bag2|Sky Plate}} || 2 || 0.22% || 0.32% || 1.38%
+|-
+| {{Bag2|Medium Restore}} || 1.75 || 0.00017% || 0.017% || 0.081%
+|-
+| {{Bag2|Fire Egg}} || 1 || 0.000098% || 0.0097% || 0.046%
+|-
+| {{Bag2|Max Revive}} || 0 || 0.000049% || 0.0049% || 0.023%
+|}
+
+{{Johto Dungeons}}
+
+[[Category:Dungeons]]</text>
+    <contributor>
+      <username>Razrushil</username>
+      <id>31</id>
+    </contributor>
+    <comment>/* Items */ Adding debuffed drop table</comment>
+    <model>wikitext</model>
+    <parentid>5256</parentid>
+    <sha1>224146f82c96703c5fa447ba76aa9c6673ca26eb</sha1>
+  </revision>
+</page>

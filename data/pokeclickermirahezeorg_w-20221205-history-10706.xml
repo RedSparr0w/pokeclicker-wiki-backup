@@ -1,0 +1,85 @@
+<page>
+  <title>Belue</title>
+  <ns>0</ns>
+  <id>664</id>
+  <revision>
+    <id>7444</id>
+    <timestamp>2021-01-30T19:04:32Z</timestamp>
+    <text bytes="3337" space="preserve">{{Infobox Berry
+|name    = #35 Belue
+|image   = [[File:Belue.png]]
+|caption = This glossy and colorful Berry has a mouthwateringly delicious appearance. However, it is awfully sour.
+|growtime  = 5h 30m 0s
+|harvest = 20 berries
+|replant = 10%
+|points = 1,100
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*10 spicy 
+*0 dry
+*0 sweet
+*0 bitter
+*30 sour
+}}
+
+'''Belue''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by surrounding a [[Nomel]] with at least 130, but no more than 160 points of sour and no more than 80 points of all other flavours. The [[Nomel]] will then have a chance to mutate into this berry. 
+
+== Growth Tables ==
+=== Growth Stages ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 1 hour 23 mins 20 secs || 2 hours 43 mins 20 secs || 4 hours 1 min 40 secs || 5 hours 30 mins - 11 hours
+|-
+!Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:BelueTreeTaller.png|50px]] || &lt;center&gt; [[File:BelueTreeBloom.png|50px]] || &lt;center&gt; [[File:BelueTreeBerry.png|50px]]
+|}
+
+=== Ripening Time with Modifiers  ===
+{| class="wikitable" | style="text-align: center;"
+! Modifier !! Ripe-Wither Time !! Boost Mulch Needed to Ripen
+|-
+! None
+| 5 hours 30 mins -&lt;br&gt; 11 hours || ---
+|-
+! Mulch or Sprayduck
+| 3 hours 40 mins -&lt;br&gt; 7 hours 20 mins || 44 mulch
+|-
+! Mulch &amp; Sprayduck
+| 2 hours 26 mins 40 secs -&lt;br&gt; 5 hours 53 mins 20 secs || 30 mulch
+|}
+
+== Flow Chart ==
+[[File:Belue_Flow_Chart.png|250px]]
+&lt;br&gt;
+
+== Mutation Strategy ==
+=== Possible Planting Formations ===
+
+You can fill your farm in the following way to obtain Belue berries. Purple squares indicate where mutations can occur.
+
+{| class="wikitable" style="text-align: center;"
+|+ Farm
+|-
+| style="width: 50px;" | [[File:Nomel.png|30px]]&lt;br&gt;[[Nomel]] || style="width: 50px;" | [[File:Nomel.png|30px]]&lt;br&gt;[[Nomel]] || style="width: 50px;" | [[File:Nomel.png|30px]]&lt;br&gt;[[Nomel]] || style="width: 50px;" | [[File:Nomel.png|30px]]&lt;br&gt;[[Nomel]] || style="width: 50px;" | [[File:Nomel.png|30px]]&lt;br&gt;[[Nomel]]
+|-
+| [[File:Nomel.png|30px]]&lt;br&gt;[[Nomel]] || style="background-color:#9C7D98;" | [[File:Nomel.png|30px]]&lt;br&gt;'''[[Nomel]]''' || style="background-color:#9C7D98;" | [[File:Nomel.png|30px]]&lt;br&gt;'''[[Nomel]]''' || style="background-color:#9C7D98;" | [[File:Nomel.png|30px]]&lt;br&gt;'''[[Nomel]]''' || [[File:Nomel.png|30px]]&lt;br&gt;[[Nomel]]
+|- style="height: 26px;"
+| [[File:Nomel.png|30px]]&lt;br&gt;[[Nomel]] || style="background-color:#9C7D98;" | [[File:Nomel.png|30px]]&lt;br&gt;'''[[Nomel]]''' || style="background-color:#9C7D98;" | [[File:Nomel.png|30px]]&lt;br&gt;'''[[Nomel]]''' || style="background-color:#9C7D98;" | [[File:Nomel.png|30px]]&lt;br&gt;'''[[Nomel]]''' || [[File:Nomel.png|30px]]&lt;br&gt;[[Nomel]]
+|-
+| [[File:Nomel.png|30px]]&lt;br&gt;[[Nomel]] || style="background-color:#9C7D98;" | [[File:Nomel.png|30px]]&lt;br&gt;'''[[Nomel]]''' || style="background-color:#9C7D98;" | [[File:Nomel.png|30px]]&lt;br&gt;'''[[Nomel]]''' || style="background-color:#9C7D98;" | [[File:Nomel.png|30px]]&lt;br&gt;'''[[Nomel]]''' || [[File:Nomel.png|30px]]&lt;br&gt;[[Nomel]]
+|-
+| [[File:Nomel.png|30px]]&lt;br&gt;[[Nomel]] || [[File:Nomel.png|30px]]&lt;br&gt;[[Nomel]] || [[File:Nomel.png|30px]]&lt;br&gt;[[Nomel]] || [[File:Nomel.png|30px]]&lt;br&gt;[[Nomel]] || [[File:Nomel.png|30px]]&lt;br&gt;[[Nomel]]
+|}
+
+{{Berries}}</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment>Flow Chart</comment>
+    <model>wikitext</model>
+    <parentid>7443</parentid>
+    <sha1>a21095ff89160b5d7f8a752856121949cc0445da</sha1>
+  </revision>
+</page>

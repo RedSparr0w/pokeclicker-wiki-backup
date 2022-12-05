@@ -1,0 +1,91 @@
+<page>
+  <title>Rabuta</title>
+  <ns>0</ns>
+  <id>639</id>
+  <revision>
+    <id>7304</id>
+    <timestamp>2021-01-04T16:29:22Z</timestamp>
+    <text bytes="3251" space="preserve">{{Infobox Berry
+|name    = #29 Rabuta
+|image   = [[File:Rabuta.png]]
+|caption = Even though it is bitter, it should be eaten peel and all. The hair on the peel cleans the stomach from the inside.
+|growtime  = 3h 24m 0s
+|harvest = 28 berries
+|replant = 10%
+|points = 600
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 spicy 
+*0 dry
+*0 sweet
+*20 bitter
+*10 sour
+}}
+== Description ==
+'''Rabuta''' is a type of [[Berries|Berry]] that can be planted in [[Farm]]. It can be obtained by surrounding an [[Aspear]] with at least 1 [[Aguav]]. The [[Aspear]] will then have a chance to mutate into this berry.
+
+== Growth Tables ==
+=== Growth Stages ===
+{| class="wikitable"
+!!! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 7 mins 10 secs || 23 mins 20 secs || 1 hour 6 mins 40 secs || 2 hours 24 mins - 4 hours 48 mins
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt;[[File:RabutaTreeTaller.png|50px]] || &lt;center&gt;[[File:RabutaTreeBloom.png|50px]] || &lt;center&gt; [[File:RabutaTreeBerry.png|50px]]
+|}
+
+=== Ripening Time with Modifiers  ===
+{| class="wikitable collapsible" | style="text-align: center;"
+! Modifier !! Ripe-Wither Time !! Boost Mulch Needed to Ripen
+|-
+! None
+| 3 hours 24 mins -&lt;br&gt; 6 hours 48 mins || ---
+|-
+! Mulch/Sprayduck
+| 2 hours 16 mins -&lt;br&gt; 4 hours 32 mins || 28 mulch
+|-
+! Mulch*Sprayduck
+| 1 hour 30 mins 40 secs -&lt;br&gt; 3 hours 1 min 20 secs || 19 mulch
+|}
+
+== Mutation Strategy ==
+=== Possible Planting Formations ===
+
+You can fill your [[farm]] in following way to obtain Rabuta berry.
+
+{| class="wikitable" style="text-align: center;"
+|+ Farm
+|-
+| style="width: 50px;" | [[File:Aspear.png|30px]]&lt;br&gt;[[Aspear]] || style="width: 50px;" | [[File:Aspear.png|30px]]&lt;br&gt;[[Aspear]] || style="width: 50px;" | [[File:Aspear.png|30px]]&lt;br&gt;[[Aspear]] || style="width: 50px;" | [[File:Aspear.png|30px]]&lt;br&gt;[[Aspear]] || style="width: 50px;" | [[File:Aspear.png|30px]]&lt;br&gt;[[Aspear]]
+|-
+| [[File:Aspear.png|30px]]&lt;br&gt;[[Aspear]] || [[File:Aguav.png|30px]]&lt;br&gt;[[Aguav]] || [[File:Aspear.png|30px]]&lt;br&gt;[[Aspear]] || [[File:Aspear.png|30px]]&lt;br&gt;[[Aspear]] || [[File:Aguav.png|30px]]&lt;br&gt;[[Aguav]]
+|- style="height: 26px;"
+| [[File:Aspear.png|30px]]&lt;br&gt;[[Aspear]] || [[File:Aspear.png|30px]]&lt;br&gt;[[Aspear]] || [[File:Aspear.png|30px]]&lt;br&gt;[[Aspear]] || [[File:Aspear.png|30px]]&lt;br&gt;[[Aspear]] || [[File:Aspear.png|30px]]&lt;br&gt;[[Aspear]]
+|-
+| [[File:Aspear.png|30px]]&lt;br&gt;[[Aspear]] || [[File:Aspear.png|30px]]&lt;br&gt;[[Aspear]] || [[File:Aspear.png|30px]]&lt;br&gt;[[Aspear]] || [[File:Aspear.png|30px]]&lt;br&gt;[[Aspear]] || [[File:Aspear.png|30px]]&lt;br&gt;[[Aspear]]
+|-
+| [[File:Aspear.png|30px]]&lt;br&gt;[[Aspear]] || [[File:Aguav.png|30px]]&lt;br&gt;[[Aguav]] || [[File:Aspear.png|30px]]&lt;br&gt;[[Aspear]] || [[File:Aspear.png|30px]]&lt;br&gt;[[Aspear]] || [[File:Aguav.png|30px]]&lt;br&gt;[[Aguav]]
+|}
+
+=== Timing Table ===
+{| class="collapsible wikitable"| style="text-align: center;"
+|+ ''All planting times use the time-to-ripe remaining of the first planted berry for subsequent planting times''
+! Berry !! Planting Time with &lt;br&gt; No Modifier !! Planting Time with &lt;br&gt; Mulch/Sprayduck || Planting Time with &lt;br&gt;  Mulch*Sprayduck
+|-
+| [[Aguav]] || - || - || -
+|-
+| [[Aspear]] || 2 mins until ripe || 1 min 20 secs until ripe || Not Practical
+|}
+
+{{Berries}}</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment>Growth + Timing Table</comment>
+    <model>wikitext</model>
+    <parentid>7303</parentid>
+    <sha1>a4ee63c2ace842385e920835b8734289ffc1eeed</sha1>
+  </revision>
+</page>

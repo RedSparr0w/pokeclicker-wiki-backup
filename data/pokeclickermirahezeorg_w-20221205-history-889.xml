@@ -1,0 +1,31 @@
+<page>
+  <title>Translations:Farming Setups/3/fr</title>
+  <ns>0</ns>
+  <id>7449</id>
+  <revision>
+    <id>21252</id>
+    <timestamp>2022-08-15T19:31:33Z</timestamp>
+    <text bytes="284" space="preserve">''Note: Les auras reçues par les baies sont multiplicatives : si une baie reçoit 4 auras x1,3, alors l'effet sur cette baie sera de x(1,3^4) soit environ x2.86, si la baie reçoit 1 aura x1,2 et 2 auras x1,3, alors elle aura une aura de x(1,2 x 1,3^2) soit une aura d'environ x2,03.</text>
+    <contributor>
+      <username>LuK</username>
+      <id>96</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>21251</parentid>
+    <sha1>3b34a1d2f0a532bcc718dc42322cc4e01fcab1b1</sha1>
+  </revision>
+  <revision>
+    <id>21251</id>
+    <timestamp>2022-08-15T19:31:17Z</timestamp>
+    <text bytes="284" space="preserve">''Note: Les auras reçues par les baies sont multiplicatives : si une baie reçoit 4 auras x1,3, alors l'effet sur cette baie sera de x(1,3^4) soit environ x2.86, si la baie reçoit 1 aura x1,2 et 2 auras x1.3, alors elle aura une aura de x(1.2 x 1.3^2) soit une aura d'environ x2.03.</text>
+    <contributor>
+      <username>LuK</username>
+      <id>96</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>21250</parentid>
+    <sha1>18c1ace4eced2619662786d987e381e22ba30352</sha1>
+  </revision>
+</page>

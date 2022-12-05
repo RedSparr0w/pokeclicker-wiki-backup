@@ -1,0 +1,49 @@
+<page>
+  <title>Translations:Battle Frontier/11/fr</title>
+  <ns>0</ns>
+  <id>6937</id>
+  <revision>
+    <id>20127</id>
+    <timestamp>2022-07-29T13:16:49Z</timestamp>
+    <text bytes="567" space="preserve">'''Note''' : Les gains ne sont pas remportés dans la Zone de Combat lorsque vous quittez par vous même. Vous devez perdre un niveau pour récupérer l'ensemble de vos [[Pokémon Dollars]] {{pdollar}} et vos [[Battle Points]] {{Battlepoints}}.
+{| class="wikitable"
+|-
+! Devise gagnée !! Formula
+|-
+| {{pdollar}} Pokédollars || &lt;math&gt;\text{Niveau atteint}^{2}&lt;/math&gt;
+|-
+| {{Battlepoints}} Battle Points&lt;sup&gt;1&lt;/sup&gt; || &lt;math&gt;\frac{\text{Niveau atteint}^{2}}{100}&lt;/math&gt;
+|}
+&lt;small&gt;&lt;sup&gt;1&lt;/sup&gt;Les {{Battlepoints}} sont arrondis au nombre entier le plus proche&lt;/small&gt;</text>
+    <contributor>
+      <username>PetroleVB</username>
+      <id>36</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>20126</parentid>
+    <sha1>1d9091da4e4d6aff5787311d506565550aa4d5d4</sha1>
+  </revision>
+  <revision>
+    <id>20126</id>
+    <timestamp>2022-07-29T12:30:32Z</timestamp>
+    <text bytes="567" space="preserve">'''Note''' : Les gains ne sont pas remportés dans la Tour de Combat lorsque vous quittez par vous même. Vous devez perdre un niveau pour récupérer l'ensemble de vos [[Pokémon Dollars]] {{pdollar}} et vos [[Battle Points]] {{Battlepoints}}.
+{| class="wikitable"
+|-
+! Devise gagnée !! Formula
+|-
+| {{pdollar}} Pokédollars || &lt;math&gt;\text{Niveau atteint}^{2}&lt;/math&gt;
+|-
+| {{Battlepoints}} Battle Points&lt;sup&gt;1&lt;/sup&gt; || &lt;math&gt;\frac{\text{Niveau atteint}^{2}}{100}&lt;/math&gt;
+|}
+&lt;small&gt;&lt;sup&gt;1&lt;/sup&gt;Les {{Battlepoints}} sont arrondis au nombre entier le plus proche&lt;/small&gt;</text>
+    <contributor>
+      <username>PetroleVB</username>
+      <id>36</id>
+    </contributor>
+    <comment>Created page with "'''Note''' : Les gains ne sont pas remportés dans la Tour de Combat lorsque vous quittez par vous même. Vous devez perdre un niveau pour récupérer l'ensemble de vos [[Pokémon Dollars]] {{pdollar}} et vos [[Battle Points]] {{Battlepoints}}. {| class="wikitable" |- ! Devise gagnée !! Formula |- | {{pdollar}} Pokédollars || &lt;math&gt;\text{Niveau atteint}^{2}&lt;/math&gt; |- | {{Battlepoints}} Battle Points&lt;sup&gt;1&lt;/sup&gt; || &lt;math&gt;\frac{\text{Niveau atteint}^{2}}{100}&lt;/math&gt; |} &lt;..."</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>33b8a99cc8b1c9056b8dfa6f03390aeef53ecbd7</sha1>
+  </revision>
+</page>

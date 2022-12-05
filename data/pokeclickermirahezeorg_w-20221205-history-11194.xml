@@ -1,0 +1,84 @@
+<page>
+  <title>Yache</title>
+  <ns>0</ns>
+  <id>762</id>
+  <revision>
+    <id>7875</id>
+    <timestamp>2021-01-06T19:37:26Z</timestamp>
+    <text bytes="2229" space="preserve">{{Infobox Berry
+|name    = #40 Yache
+|image   = [[File:Yache.png]]
+|caption = This Berry has a refreshing flavor that strikes a good balance of dryness and sourness. It tastes better chilled. This Berry slows the growth of nearby Berries.
+|growtime  = 12h 0m 0s
+|harvest = 25 berries
+|replant = 5%
+|points = 1,500
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 spicy 
+*10 dry
+*0 sweet
+*0 bitter
+*15 sour
+}}
+== Description ==
+'''Yache''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by surrounding a [[Passho]] with all empty plots. The Passho will then have a chance to mutate into this berry.
+
+== Growth Tables ==
+=== Growth Stages ===
+{| class="wikitable"
+! !! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 1 hour || 4 hours || 8 hours || 12 hours - 1 day
+|-
+! Animation
+| [[File:AllTreeSprout.png|50px]] || [[File:YacheTreeTaller.png|50px]] || [[File:YacheTreeBloom.png|50px]] || [[File:YacheTreeBerry.png|50px]]
+|-
+! Aura (growth speed)
+| || &lt;center&gt; x0.9 || &lt;center&gt; x0.8 || &lt;center&gt; x0.7
+|}
+
+=== Ripening Time with Modifiers  ===
+{| class="wikitable" | style="text-align: center;"
+! Modifier !! Ripe-Wither Time !! Boost Mulch Needed to Ripen
+|-
+! None
+| 12 hours -&lt;br&gt; 1 day || ---
+|-
+! Mulch or Sprayduck
+| 8 hours -&lt;br&gt; 16 hours || 96 mulch
+|-
+! Mulch &amp; Sprayduck
+| 5 hours 20 mins -&lt;br&gt; 10 hours 40 mins || 64 mulch
+|}
+
+== Mutation Strategy ==
+=== Possible Planting Formations ===
+
+You can fill your farm in the following way to obtain Yache berries. Purple squares indicate where mutations can occur.
+
+{| class="wikitable" style="text-align: center;"
+|+ Farm
+|- style="height: 50px;"
+| style="width: 40px;" | || style="width: 40px;" | || style="width: 40px;" | || style="width: 40px;" | || style="width: 40px;" | 
+|-
+| || style="background-color:#9C7D98;" | [[File:Passho.png|30px]] '''[[Passho]]''' || || style="background-color:#9C7D98;" | [[File:Passho.png|30px]] '''[[Passho]]''' ||
+|- style="height: 50px;"
+| || || || || 
+|-
+| || style="background-color:#9C7D98;" | [[File:Passho.png|30px]] '''[[Passho]]''' || || style="background-color:#9C7D98;" | [[File:Passho.png|30px]] '''[[Passho]]''' ||
+|- style="height: 50px;"
+| || || || || 
+|}
+
+{{Berries}}</text>
+    <contributor>
+      <username>Catie-cat</username>
+      <id>30</id>
+    </contributor>
+    <comment>minor visual changes, added mutation plots to formation table</comment>
+    <model>wikitext</model>
+    <parentid>7874</parentid>
+    <sha1>e87038f15473cb0cd5cb515ac3ee35c2b2a23c27</sha1>
+  </revision>
+</page>

@@ -1,0 +1,122 @@
+<page>
+  <title>Old Chateau</title>
+  <ns>0</ns>
+  <id>426</id>
+  <revision>
+    <id>5641</id>
+    <timestamp>2022-07-27T02:22:26Z</timestamp>
+    <text bytes="2685" space="preserve">{{Infobox dungeon
+|name    = Old Chateau
+|image   = [[File:Old Chateau.png|300px]]
+|caption = An outside view of the Old Chateau.
+|tokens  = 52,500
+|location = West of Route 205.
+}}
+The '''Old Chateau''' is a [[Dungeons|dungeon]] in [[Sinnoh]]. It initially has 64 tiles arranged in an 8x8 square, including 8 chest tiles, 19 non-boss encounter tiles, and 1 boss encounter tile. Wild Encounters have 853,000 HP.
+
+== Encounter Tables ==
+
+===Wild Encounters===
+
+{| class="wikitable"
+|-
+! Wild Pokémon !! colspan=2|Trainers
+|-
+! Encounter !! Trainer !! Pokémon Team
+|-
+| [[File:Gastly.png|40px]] Gastly || colspan=2 rowspan=3|&lt;center&gt;N/A
+|-
+| [[File:Haunter.png|40px]] Haunter
+|-
+| [[File:Gengar.png|40px]] Gengar 
+|-
+|}
+
+===Boss Encounters===
+{| class="wikitable"
+|-
+! Wild Pokémon !! Base Health !! Boss Trainer !! Pokémon Team !! Base Health
+|-
+| [[File:Rotom.png|40px]] Rotom ||&lt;center&gt;4,200,000 || colspan=3|&lt;center&gt;N/A
+|-
+|}
+
+==Items==
+
+===No Debuff===
+
+{| class="wikitable"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+|-
+| align="center" colspan=6| '''Common'''
+|-
+| {{Bag2|xClick}} || N/A || 37.49% || 36.08% || 30.32%
+|-
+| {{Bag2|Dowsing Machine}} || N/A || 37.49% || 36.08% || 30.32%
+|-
+| align="center" colspan=6| '''Rare'''
+|-
+| {{Bag2|Red Shard}} || N/A || 10.01% || 10.52% || 12.61%
+|-
+| {{Bag2|Blue Shard}} || N/A || 10.01% || 10.52% || 12.61%
+|-
+| align="center" colspan=6| '''Epic'''
+|-
+| {{Bag2|Dread Plate}} || N/A || 1.34% || 1.74% || 3.37%
+|-
+| {{Bag2|Spooky Plate}} || N/A || 1.34% || 1.74% || 3.37%
+|-
+| {{Bag2|Zap Plate}} || N/A || 1.34% || 1.74% || 3.37%
+|-
+| align="center" colspan=6| '''Legendary'''
+|-
+| {{Bag2|Odd Keystone}} || N/A || 1.00% || 1.59% || 4.03%
+|}
+
+===Debuff Drop Table===
+
+After Reaching Alola, the drop chance for items in Hoenn will be debuffed for any loot with weight &lt; 2.
+
+{| class="wikitable collapsible collapsed"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+|-
+| align="center" colspan=6| '''Common'''
+|-
+| {{Bag2|xClick}} || N/A || 37.50% || 37.50% || 37.50%
+|-
+| {{Bag2|Dowsing Machine}} || N/A || 37.50% || 37.50% || 37.50%
+|-
+| align="center" colspan=6| '''Rare'''
+|-
+| {{Bag2|Red Shard}} || N/A || 12.00% || 12.00% || 12.00%
+|-
+| {{Bag2|Blue Shard}} || N/A || 12.00% || 12.00% || 12.00%
+|-
+| align="center" colspan=6| '''Epic'''
+|-
+| {{Bag2|Dread Plate}} || N/A || 0.30% || 0.30% || 0.30%
+|-
+| {{Bag2|Spooky Plate}} || N/A || 0.30% || 0.30% || 0.30%
+|-
+| {{Bag2|Zap Plate}} || N/A || 0.30% || 0.30% || 0.30%
+|-
+| align="center" colspan=6| '''Legendary'''
+|-
+| {{Bag2|Odd Keystone}} || N/A || 0.10% || 0.10% || 0.10%
+|}
+
+{{Sinnoh Dungeons}}
+
+[[Category:Dungeons|^Region #4 - Sinnoh^d]]</text>
+    <contributor>
+      <username>LatiosRider</username>
+      <id>35</id>
+    </contributor>
+    <comment>Add Category header</comment>
+    <model>wikitext</model>
+    <parentid>5640</parentid>
+    <sha1>9aea65c977175f01c9fbb7714a2f2fea8329b835</sha1>
+  </revision>
+</page>

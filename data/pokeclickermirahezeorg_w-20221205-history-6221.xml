@@ -1,0 +1,29 @@
+<page>
+  <title>Translations:Dungeons/2/en</title>
+  <ns>0</ns>
+  <id>4855</id>
+  <revision>
+    <id>16802</id>
+    <timestamp>2022-07-25T17:15:28Z</timestamp>
+    <text bytes="1932" space="preserve">==General Dungeon Information==
+=== How to clear ===
+Clearing Dungeons requires active play. To enter a dungeon, select it on the Town Map and either click "Start" or press the Spacebar on the keyboard. Dungeons can be navigated either by clicking on the dungeon tiles or by using the arrow keys or WASD keys. Only unexplored tiles adjacent to explored tiles can be accessed. Moving to unexplored tiles in dungeons can reveal one of 4 things:
+ 
+# '''Empty tiles''' - You can simply move onto next tile without having to do anything.
+# '''A Wild Pokémon''' - Just like routes, these are Pokémon you can defeat and catch. Some Pokémon can only be found in specific dungeons.
+# '''Dungeon boss''' - This Pokémon must be defeated to clear the dungeon. It has more HP than normal encounters in any dungeon. You can either click "Start Bossfight" or press the Spacebar to start the fight.
+# '''A chest''' - Many [[Items]] can be collected from chests by either clicking on them or by pressing the Spacebar. See [[Dungeons#Chests in Dungeons|Chest in Dungons]] for more details
+# '''A trainer''' - Trainers are found on tiles and have teams of Pokémon that must all be defeated to progress. Wild Pokémon are almost always ~4 times more likely to appear on an enemy tile than a trainer, but in some dungeons this weighting is different. Defeating trainers yields the following rewards:
+#* Dungeon Trainers reward 4% of the dungeon cost as [[Dungeon Tokens]] {{dungeontokens}} and 50% of the dungeon cost as [[Poké Dollar|Poké Dollars]] {{pdollar}} whenever they are defeated.
+#* Dungeon Trainer Bosses reward 10% of the dungeon cost as Dungeon Tokens {{dungeontokens}} and 100% of the dungeon cost as Poké Dollars {{pdollar}} whenever they are defeated.
+Note: Amulet coin and other items that grant increased amounts of {{pdollar}} do not affect the amount of money that you receive from Dungeon Trainers or Dungeon Trainer Bosses.</text>
+    <contributor>
+      <username>FuzzyBot</username>
+      <id>133</id>
+    </contributor>
+    <comment>Importing a new version from external source</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>7833fd846fad762bcaa9741b9ba48b6d05f5bfec</sha1>
+  </revision>
+</page>

@@ -1,0 +1,24 @@
+<page>
+  <title>Translations:Dungeons/4/en</title>
+  <ns>0</ns>
+  <id>4857</id>
+  <revision>
+    <id>16806</id>
+    <timestamp>2022-07-25T17:15:28Z</timestamp>
+    <text bytes="511" space="preserve">The number of each type of tile decreases with the size of the dungeon. All dungeons will be square. Here is the breakdown of each type of tile based on size:
+For an NxN dungeon there are:
+&lt;br&gt;&lt;math&gt;\colorbox{White}{$ \text{1 Boss Encounter Tile}$}&lt;/math&gt;
+&lt;br&gt;&lt;math&gt;\colorbox{White}{$ \text{N Chest Tiles}$}&lt;/math&gt;
+&lt;br&gt;&lt;math&gt;\colorbox{White}{$ \text{2*N+3 Non-Boss Encounter Tiles}$}&lt;/math&gt;
+&lt;br&gt;&lt;math&gt;\colorbox{White}{$ \text{(N+1)*(N-4) Empty Tiles}$}&lt;/math&gt;
+&lt;br&gt;Note: The entrance tile counts as an empty tile</text>
+    <contributor>
+      <username>FuzzyBot</username>
+      <id>133</id>
+    </contributor>
+    <comment>Importing a new version from external source</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>c1232150902b57ab7a03df692ab1ca6a44e27593</sha1>
+  </revision>
+</page>

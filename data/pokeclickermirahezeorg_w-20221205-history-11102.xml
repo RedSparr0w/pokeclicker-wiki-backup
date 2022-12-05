@@ -1,0 +1,84 @@
+<page>
+  <title>Chople</title>
+  <ns>0</ns>
+  <id>706</id>
+  <revision>
+    <id>7598</id>
+    <timestamp>2021-01-09T01:03:43Z</timestamp>
+    <text bytes="3251" space="preserve">{{Infobox Berry
+|name    = #41 Chople
+|image   = [[File:Chople.png]]
+|caption = This Berry contains a substance that generates heat. It can even heat up a chilly heart. Growing these Berries will promote Egg growth.
+|growtime  = 10h 0m 0s
+|harvest = 26 berries
+|replant = 5%
+|points = 1,600
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*15 spicy 
+*0 dry
+*0 sweet
+*10 bitter
+*0 sour
+}}
+
+'''Chople''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by planting [[Spelon]] and equipping the [[Blaze Cassette]]. The Spelon will then have a chance to mutate into this berry.
+
+== Growth Tables ==
+=== Growth Stages ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 1 hour 30 mins || 3 hours || 7 hours || 10 hours - 20 hours
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:ChopleTreeTaller.png|50px]] || &lt;center&gt; [[File:ChopleTreeBloom.png|50px]] || &lt;center&gt; [[File:ChopleTreeBerry.png|50px]]
+|-
+! Aura (egg growth)
+| || &lt;center&gt; x1.01 || &lt;center&gt; x1.02 || &lt;center&gt; x1.03
+|}
+
+=== Ripening Time with Modifiers  ===
+{| class="wikitable" | style="text-align: center;"
+! Modifier !! Ripe-Wither Time !! Boost Mulch Needed to Ripen
+|-
+! None
+| 10 hours -&lt;br&gt; 20 hours || ---
+|-
+! Mulch or Sprayduck
+| 6 hours 40 mins -&lt;br&gt; 13 hours 20 mins || 80 mulch
+|-
+! Mulch &amp; Sprayduck
+| 4 hours 26 mins 40 secs -&lt;br&gt; 8 hours 53 mins 20 secs || 54 mulch
+|}
+
+== Mutation Strategy ==
+=== Possible Planting Formations ===
+
+You can fill your farm in the following way to obtain Chople berries. Purple squares indicate where mutations can occur.
+
+{| class="wikitable" style="text-align: center;"
+|+ Farm
+|- style="background-color:#9C7D98;"
+| style="width: 60px;" | [[File:Spelon.png|30px]]&lt;br&gt;'''[[Spelon]]''' || style="width: 60px;" | [[File:Spelon.png|30px]]&lt;br&gt;'''[[Spelon]]''' || style="width: 60px;" | [[File:Spelon.png|30px]]&lt;br&gt;'''[[Spelon]]''' || style="width: 60px;" | [[File:Spelon.png|30px]]&lt;br&gt;'''[[Spelon]]''' || style="width: 60px;" | [[File:Spelon.png|30px]]&lt;br&gt;'''[[Spelon]]'''
+|-style="background-color:#9C7D98;"
+| [[File:Spelon.png|30px]]&lt;br&gt;'''[[Spelon]]''' || [[File:Spelon.png|30px]]&lt;br&gt;'''[[Spelon]]''' || [[File:Spelon.png|30px]]&lt;br&gt;'''[[Spelon]]''' || [[File:Spelon.png|30px]]&lt;br&gt;'''[[Spelon]]''' || [[File:Spelon.png|30px]]&lt;br&gt;'''[[Spelon]]'''
+|- style="height: 26px; background-color:#9C7D98;"
+| [[File:Spelon.png|30px]]&lt;br&gt;'''[[Spelon]]''' || [[File:Spelon.png|30px]]&lt;br&gt;'''[[Spelon]]''' || [[File:Spelon.png|30px]]&lt;br&gt;'''[[Spelon]]''' || [[File:Spelon.png|30px]]&lt;br&gt;'''[[Spelon]]''' || [[File:Spelon.png|30px]]&lt;br&gt;'''[[Spelon]]'''
+|-style="background-color:#9C7D98;"
+| [[File:Spelon.png|30px]]&lt;br&gt;'''[[Spelon]]''' || [[File:Spelon.png|30px]]&lt;br&gt;'''[[Spelon]]''' || [[File:Spelon.png|30px]]&lt;br&gt;'''[[Spelon]]''' || [[File:Spelon.png|30px]]&lt;br&gt;'''[[Spelon]]''' || [[File:Spelon.png|30px]]&lt;br&gt;'''[[Spelon]]'''
+|-style="background-color:#9C7D98;"
+| [[File:Spelon.png|30px]]&lt;br&gt;'''[[Spelon]]''' || [[File:Spelon.png|30px]]&lt;br&gt;'''[[Spelon]]''' || [[File:Spelon.png|30px]]&lt;br&gt;'''[[Spelon]]''' || [[File:Spelon.png|30px]]&lt;br&gt;'''[[Spelon]]''' || [[File:Spelon.png|30px]]&lt;br&gt;'''[[Spelon]]'''
+|}
+
+{{Berries}}</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment>/* Growth Stages */</comment>
+    <model>wikitext</model>
+    <parentid>7597</parentid>
+    <sha1>7d37d6717bddfb07cac3e3e7700a83f03e198fb0</sha1>
+  </revision>
+</page>

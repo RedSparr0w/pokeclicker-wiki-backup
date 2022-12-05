@@ -1,0 +1,104 @@
+<page>
+  <title>Quickball</title>
+  <ns>0</ns>
+  <id>3549</id>
+  <revision>
+    <id>13402</id>
+    <timestamp>2022-08-09T19:42:30Z</timestamp>
+    <text bytes="2207" space="preserve">&lt;languages/&gt;
+&lt;translate&gt;
+
+&lt;!--T:1--&gt;
+{{Infobox Pokéball
+|name       = Quickball
+|image      = [[File:Quickball.png]]
+|caption    = In-Game image of the ''Quickball''.
+|price      = Variable
+|catchTime  = 1s
+|catchRate = Variable (Decreases with more route kills)
+*+15% (0 route kills)
+*+0% (4012 route kills)
+|location   = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*[[Quickball#Shops|Shops]]
+*[[Quickball#Dungeons|Dungeons]]
+}}
+
+==Description== &lt;!--T:2--&gt;
+
+The '''Quickball''' is a type of [[Pokéballs|Pokéball]]. It automatically tries to catch a wild Pokémon after defeating it if is the highest type of Pokéball active and there is a remaining supply in the Pokéball selector.
+
+==Details== &lt;!--T:3--&gt;
+
+A specialized Pokéball to capture Pokémon with. It provides an increased catch rate on routes with fewer Pokémon defeated, and an increased catch rate in Dungeons with more time remaining. It catches Pokémon in 1s.
+
+==Rate== &lt;!--T:4--&gt;
+
+===Routes===
+
+{| class="wikitable"
+|+ Quickball Catch Rates
+|-
+! Route kills !! Catch chance (+%)
+|-
+| 0 || 15
+|-
+| 153 || 10 (Equal to Ultraball)
+|-
+| 719 || 5 (Equal to Greatball)
+|-
+| 4012 || 0 (Equal to Pokéball)
+|}
+
+[[File:Quickball-catchrate-graph.png|X-axis: Route kills&lt;br&gt;Y-axis: Catch rate|200px]]
+
+===Dungeons===
+
+{| class="wikitable"
+|+ Quickball Catch Rates
+|-
+! % Time Remaining in Dungeon !! Catch chance (+%)
+|-
+| 100 || 15
+|-
+| 70.71 || 10 (Equal to Ultraball)
+|-
+| 50 || 5 (Equal to Greatball)
+|-
+| 0 || 0 (Equal to Pokéball)
+|}
+
+[[File:Quickball_Dungeon_Catch_Rate_Graph.png|X-axis: % Time Remaining in Dungeon&lt;br&gt;Y-axis: Catch rate|200px]]
+
+== Acquisition == &lt;!--T:5--&gt;
+===Shops===
+{{ItemPrice/head‎|Pokéballs}}
+{{ItemPrice|[[Berry Master#Trades|Goldenrod City]]|20 - 40 Random [[File:Cheri.png|25px]] [[Berries#Gen 1 Berries|Gen 1 Berries]] &lt;br&gt; 5 - 15 Random [[File:Persim.png|25px]] [[Berries#Gen 2 Berries|Gen 2 Berries]]}}
+|}
+|}
+
+===Dungeons===
+{{Loot/head‎|Pokéballs}}
+{{LootItem|Victory Road Unova|Epic}}
+{{LootItem|Pokéball Factory|Epic}}
+{{LootItem|Wela Volcano Park|Epic}}
+{{LootItem|Hokulani Observatory|Legendary}}
+|}
+|}
+
+&lt;!--T:6--&gt;
+&lt;br&gt;{{Pokéballs}}&lt;br&gt;
+
+&lt;!--T:7--&gt;
+[[Category:Items]] [[Category:Pokéballs]]
+
+&lt;/translate&gt;</text>
+    <contributor>
+      <username>PetroleVB</username>
+      <id>36</id>
+    </contributor>
+    <comment>adding translate tags</comment>
+    <model>wikitext</model>
+    <parentid>13401</parentid>
+    <sha1>1a4996a6b3578fc30b3b3bfcf846ec4016d53d1f</sha1>
+  </revision>
+</page>

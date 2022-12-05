@@ -1,0 +1,487 @@
+<page>
+  <title>Type Effectiveness</title>
+  <ns>0</ns>
+  <id>179</id>
+  <revision>
+    <id>2902</id>
+    <timestamp>2021-08-05T20:17:32Z</timestamp>
+    <text bytes="5535" space="preserve">
+=Description=
+An attacking Pokémon's damage output against a defending Pokémon is calculated as follows. The attacking Pokémon is treated as having a single type (mono-type). The type that is used is the one that does the most damage against the defending Pokémon, including any shard modifications to the type-efficacy multiplier. The sum of all valid Party Pokémon (non-[[Pokemon Day Care|breeding]]) with modifiers ([[Weather]], [[XAttack]]) is the total Pokémon Attack. Below are some examples to articulate this calculation.
+
+==Examples==
+
+*Lanturn (attacking) vs Gyarados (defending) - Lanturn is dual electric-water typed and Gyarados is dual water-flying typed. Lanturn's electric type is 4x effective against Gyarados (2x for both water and electric) so this is the type that is used. Lanturn's attack against Gyarados is increased by a factor of 4 (4x) as per the type multiplier.
+
+*Venusaur (attacking) vs. Magcargo (defending) - Venusaur is dual grass-poison typed and Magcargo is dual fire-rock typed. Venusaur's grass type is 1x effective against Magcargo (normal-effective, 2x effective against rock while 0.5x effective against fire) while Venusaur's poison type is 0.5x effective (not very-effective). Thus, Venusaur's grass type is the type that is used. Venusaur's attack against Magcargo is neither increased nor decreased as per the type multiplier of 1 (1x).
+
+*Venusaur (attacking) with fully boosted not-very effective Poison Shard vs. Magcargo (defending) - Venusaur is dual grass-poison typed and Magcargo is dual fire-rock typed. Venusaur's grass type is 1x effective against Magcargo (normal-effective, 2x effective against rock while 0.5x effective against fire), while Venusaur's poison type is 1.5x effective (not very-effective) with the Shard multiplier. Thus, Venusaur's poison type is the type that is used. Venusaur's attack against Magcargo is increased by a factor of 1.5 (1.5x) as per the type multiplier.
+
+*Gengar (attacking) vs. Kangaskhan (defending) - Gengar is dual ghost-poison typed and Kangaskhan is mono normal typed. Gengar's ghost type is 0x effective (immune) against Kangaskhan while Gengar's poison type is 1x effective (normal-effective). Thus, Gengar's poison type is the type that is used. Gengar's attack against Kangaskhan is neither increased nor decreased as per the type multiplier of 1 (1x).
+
+*Kangaskhan (attacking) vs. Gengar (defending) - Kangaskhan is mono normal typed and Gengar is dual ghost-poison typed. Kangaskhan's normal type is 0x effective (immune) against Gengar's ghost type. As this is the only type of Kangaskhan, Kangaskhan's normal type is used. Thus, Kangaskhan's attack against Gengar is 0 as per the type multiplier of 0 (0x).
+
+=Type effectiveness table=
+
+Below is a table showing the effectiveness of each Pokémon type. It can be used to prioritize [[Shards|shard]] upgrades.
+
+{| class="wikitable"
+! Attacker ↴ Defender → !! Normal !! Fire !! Water !! Electric !! Grass !! Ice !! Fighting !! Poison !! Ground !! Flying !! Psychic !! Bug !! Rock !! Ghost !! Dragon !! Dark !! Steel !! Fairy
+|-
+| '''Normal''' ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || ½ || 0 ||  ||  || ½ || 
+|-
+| '''Fire''' ||  || ½ || ½ ||  || 2 || 2 ||  ||  ||  ||  ||  || 2 || ½ ||  || ½ ||  || 2 || 
+|-
+| '''Water''' ||  || 2 || ½ ||  || ½ ||  ||  ||  || 2 ||  ||  ||  || 2 ||  || ½ ||  ||  || 
+|-
+| '''Electric''' ||  ||  || 2 || ½ || ½ ||  ||  ||  || 0 || 2 ||  ||  ||  ||  || ½ ||  ||  || 
+|-
+| '''Grass''' ||  || ½ || 2 ||  || ½ ||  ||  || ½ || 2 || ½ ||  || ½ || 2 ||  || ½ ||  || ½ || 
+|-
+| '''Ice''' ||  || ½ || ½ ||  || 2 || ½ ||  ||  || 2 || 2 ||  ||  ||  ||  || 2 ||  || ½ || 
+|-
+| '''Fighting''' || 2 ||  ||  ||  ||  || 2 ||  || ½ ||  || ½ || ½ || ½ || 2 || 0 ||  || 2 || 2 || ½
+|-
+| '''Poison''' ||  ||  ||  ||  || 2 ||  ||  || ½ || ½ ||  ||  ||  || ½ || ½ ||  ||  || 0 || 2
+|-
+| '''Ground''' ||  || 2 ||  || 2 || ½ ||  ||  || 2 ||  || 0 ||  || ½ || 2 ||  ||  ||  || 2 || 
+|-
+| '''Flying''' ||  ||  ||  || ½ || 2 ||  || 2 ||  ||  ||  ||  || 2 || ½ ||  ||  ||  || ½ || 
+|-
+| '''Psychic''' ||  ||  ||  ||  ||  ||  || 2 || 2 ||  ||  || ½ ||  ||  ||  ||  || 0 || ½ || 
+|-
+| '''Bug''' ||  || ½ ||  ||  || 2 ||  || ½ || ½ ||  || ½ || 2 ||  ||  || ½ ||  || 2 || ½ || ½
+|-
+| '''Rock''' ||  || 2 ||  ||  ||  || 2 || ½ ||  || ½ || 2 ||  || 2 ||  ||  ||  ||  || ½ || 
+|-
+| '''Ghost''' || 0 ||  ||  ||  ||  ||  ||  ||  ||  ||  || 2 ||  ||  || 2 ||  || ½ ||  || 
+|-
+| '''Dragon''' ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 2 ||  || ½ || 0
+|-
+| '''Dark''' ||  ||  ||  ||  ||  ||  || ½ ||  ||  ||  || 2 ||  ||  || 2 ||  || ½ ||  || ½
+|-
+| '''Steel''' ||  || ½ || ½ || ½ ||  || 2 ||  ||  ||  ||  ||  ||  || 2 ||  ||  ||  || ½ || 2
+|-
+| '''Fairy''' ||  || ½ ||  ||  ||  ||  || 2 || ½ ||  ||  ||  ||  ||  ||  || 2 || 2 || ½ || 
+|}
+
+=Practicality=
+
+''See [[Shards]] for a list of optimal farming routes for each type of shard.''
+
+A breakdown of how much damage each type contributes to total damage, absent any shard boosts, can be seen by using the Damage Calculator screen in the Start Menu. Types that do the most damage generally should be upgraded with shards first.
+
+=Trivia=
+
+As of PokéClicker version 0.5.8 the following categories were removed from the shard case because they have no effect (they do not increase damage) when invested into.
+
+&lt;b&gt;Very Effective (last row)&lt;/b&gt;
+
+*Normal
+
+&lt;b&gt;Immune (first row)&lt;/b&gt;
+
+*Fire
+*Water
+*Grass
+*Ice
+*Flying
+*Bug
+*Rock
+*Dark
+*Steel
+*Fairy</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>2901</parentid>
+    <sha1>145b7f9b6e52f8c6aa23a377a1f83260e1d16bee</sha1>
+  </revision>
+  <revision>
+    <id>2901</id>
+    <timestamp>2021-08-05T20:12:23Z</timestamp>
+    <text bytes="4905" space="preserve">
+=Description=
+An attacking Pokémon's damage output against a defending Pokémon is calculated as follows. The attacking Pokémon is treated as having a single type (mono-type). The type that is used is the one that does the most damage against the defending Pokémon. The sum of all valid Party Pokémon (non-[[Pokemon Day Care|breeding]]) with modifiers ([[Weather]], [[XAttack]]) is the total Pokémon Attack. Below are some examples to articulate this calculation.
+
+==Examples==
+
+*Lanturn (attacking) vs Gyarados (defending) - Lanturn is dual electric-water typed and Gyarados is dual water-flying typed. Lanturn's electric type is 4x effective against Gyarados (2x for both water and electric) so this is the type that is used. Lanturn's attack against Gyarados is increased by a factor of 4 (4x) as per the type multiplier.
+
+*Venusaur (attacking) vs. Magcargo (defending) - Venusaur is dual grass-poison typed and Magcargo is dual fire-rock typed. Venusaur's grass type is 1x effective against Magcargo (normal-effective, 2x effective against rock while 0.5x effective against fire) while Venusaur's poison type is 0.5x effective (not very-effective). Thus, Venusaur's grass type is the type that is used. Venusaur's attack against Magcargo is neither increased nor decreased as per the type multiplier of 1 (1x).
+
+*Gengar (attacking) vs. Kangaskhan (defending) - Gengar is dual ghost-poison typed and Kangaskhan is mono normal typed. Gengar's ghost type is 0x effective (immune) against Kangaskhan while Gengar's poison type is 1x effective (normal-effective). Thus, Gengar's poison type is the type that is used. Gengar's attack against Kangaskhan is neither increased nor decreased as per the type multiplier of 1 (1x).
+
+*Kangaskhan (attacking) vs. Gengar (defending) - Kangaskhan is mono normal typed and Gengar is dual ghost-poison typed. Kangaskhan's normal type is 0x effective (immune) against Gengar's ghost type. As this is the only type of Kangaskhan, Kangaskhan's normal type is used. Thus, Kangaskhan's attack against Gengar is 0 as per the type multiplier of 0 (0x).
+
+=Type effectiveness table=
+
+Below is a table showing the effectiveness of each Pokémon type. It can be used to prioritize [[Shards|shard]] upgrades.
+
+{| class="wikitable"
+! Attacker ↴ Defender → !! Normal !! Fire !! Water !! Electric !! Grass !! Ice !! Fighting !! Poison !! Ground !! Flying !! Psychic !! Bug !! Rock !! Ghost !! Dragon !! Dark !! Steel !! Fairy
+|-
+| '''Normal''' ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || ½ || 0 ||  ||  || ½ || 
+|-
+| '''Fire''' ||  || ½ || ½ ||  || 2 || 2 ||  ||  ||  ||  ||  || 2 || ½ ||  || ½ ||  || 2 || 
+|-
+| '''Water''' ||  || 2 || ½ ||  || ½ ||  ||  ||  || 2 ||  ||  ||  || 2 ||  || ½ ||  ||  || 
+|-
+| '''Electric''' ||  ||  || 2 || ½ || ½ ||  ||  ||  || 0 || 2 ||  ||  ||  ||  || ½ ||  ||  || 
+|-
+| '''Grass''' ||  || ½ || 2 ||  || ½ ||  ||  || ½ || 2 || ½ ||  || ½ || 2 ||  || ½ ||  || ½ || 
+|-
+| '''Ice''' ||  || ½ || ½ ||  || 2 || ½ ||  ||  || 2 || 2 ||  ||  ||  ||  || 2 ||  || ½ || 
+|-
+| '''Fighting''' || 2 ||  ||  ||  ||  || 2 ||  || ½ ||  || ½ || ½ || ½ || 2 || 0 ||  || 2 || 2 || ½
+|-
+| '''Poison''' ||  ||  ||  ||  || 2 ||  ||  || ½ || ½ ||  ||  ||  || ½ || ½ ||  ||  || 0 || 2
+|-
+| '''Ground''' ||  || 2 ||  || 2 || ½ ||  ||  || 2 ||  || 0 ||  || ½ || 2 ||  ||  ||  || 2 || 
+|-
+| '''Flying''' ||  ||  ||  || ½ || 2 ||  || 2 ||  ||  ||  ||  || 2 || ½ ||  ||  ||  || ½ || 
+|-
+| '''Psychic''' ||  ||  ||  ||  ||  ||  || 2 || 2 ||  ||  || ½ ||  ||  ||  ||  || 0 || ½ || 
+|-
+| '''Bug''' ||  || ½ ||  ||  || 2 ||  || ½ || ½ ||  || ½ || 2 ||  ||  || ½ ||  || 2 || ½ || ½
+|-
+| '''Rock''' ||  || 2 ||  ||  ||  || 2 || ½ ||  || ½ || 2 ||  || 2 ||  ||  ||  ||  || ½ || 
+|-
+| '''Ghost''' || 0 ||  ||  ||  ||  ||  ||  ||  ||  ||  || 2 ||  ||  || 2 ||  || ½ ||  || 
+|-
+| '''Dragon''' ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 2 ||  || ½ || 0
+|-
+| '''Dark''' ||  ||  ||  ||  ||  ||  || ½ ||  ||  ||  || 2 ||  ||  || 2 ||  || ½ ||  || ½
+|-
+| '''Steel''' ||  || ½ || ½ || ½ ||  || 2 ||  ||  ||  ||  ||  ||  || 2 ||  ||  ||  || ½ || 2
+|-
+| '''Fairy''' ||  || ½ ||  ||  ||  ||  || 2 || ½ ||  ||  ||  ||  ||  ||  || 2 || 2 || ½ || 
+|}
+
+=Practicality=
+
+''See [[Shards]] for a list of optimal farming routes for each type of shard.''
+
+A breakdown of how much damage each type contributes to total damage, absent any shard boosts, can be seen by using the Damage Calculator screen in the Start Menu. Types that do the most damage generally should be upgraded with shards first.
+
+=Trivia=
+
+As of PokéClicker version 0.5.8 the following categories were removed from the shard case because they have no effect (they do not increase damage) when invested into.
+
+&lt;b&gt;Very Effective (last row)&lt;/b&gt;
+
+*Normal
+
+&lt;b&gt;Immune (first row)&lt;/b&gt;
+
+*Fire
+*Water
+*Grass
+*Ice
+*Flying
+*Bug
+*Rock
+*Dark
+*Steel
+*Fairy</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment>/* Examples */</comment>
+    <model>wikitext</model>
+    <parentid>2900</parentid>
+    <sha1>2064de04dfd63a940fa9825cf20ab2afa28e5f45</sha1>
+  </revision>
+  <revision>
+    <id>2900</id>
+    <timestamp>2021-08-05T20:07:11Z</timestamp>
+    <text bytes="4830" space="preserve">
+=Description=
+An attacking Pokémon's damage output against a defending Pokémon is calculated as follows. The attacking Pokémon is treated as having a single type (mono-type). The type that is used is the one that does the most damage against the defending Pokémon. The sum of all valid Party Pokémon (non-[[Pokemon Day Care|breeding]]) with modifiers ([[Weather]], [[XAttack]]) is the total Pokémon Attack. Below are some examples to articulate this calculation.
+
+==Examples==
+
+*Lanturn (attacking) vs Gyarados (defending) - Lanturn is dual electric-water typed and Gyarados is dual water-flying typed. Lanturn's electric type is 4x effective against Gyarados (2x for both water and electric) so this is the type that is used. Lanturn's attack against Gyarados is increased by a factor of 4 (4x) as per the type multiplier.
+
+*Venusaur (attacking) vs. Magcargo (defending) - Venusaur is dual grass-poison typed and Magcargo is dual fire-rock typed. Venusaur's grass type is 2x effective against Magcargo (super-effective) while Venusaur's poison type is 0.5x effective (not very-effective). Thus, Venusaur's grass type is the type that is used. Venusaur's attack against Magcargo is increased by a factor of 2 (2x) as per the type multiplier.
+
+*Gengar (attacking) vs. Kangaskhan (defending) - Gengar is dual ghost-poison typed and Kangaskhan is mono normal typed. Gengar's ghost type is 0x effective (immune) against Kangaskhan while Gengar's poison type is 1x effective (normal-effective). Thus, Gengar's poison type is the type that is used. Gengar's attack against Kangaskhan neither increased nor decreased as per the type multiplier of 1 (1x).
+
+*Kangaskhan (attacking) vs. Gengar (defending) - Kangaskhan is mono normal typed and Gengar is dual ghost-poison typed. Kangaskhan's normal type is 0x effective (immune) against Gengar's ghost type. As this is the only type of Kangaskhan, Kangaskhan's normal type is used. Thus, Kangaskhan's attack against Gengar is 0 as per the type multiplier of 0 (0x).
+
+=Type effectiveness table=
+
+Below is a table showing the effectiveness of each Pokémon type. It can be used to prioritize [[Shards|shard]] upgrades.
+
+{| class="wikitable"
+! Attacker ↴ Defender → !! Normal !! Fire !! Water !! Electric !! Grass !! Ice !! Fighting !! Poison !! Ground !! Flying !! Psychic !! Bug !! Rock !! Ghost !! Dragon !! Dark !! Steel !! Fairy
+|-
+| '''Normal''' ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || ½ || 0 ||  ||  || ½ || 
+|-
+| '''Fire''' ||  || ½ || ½ ||  || 2 || 2 ||  ||  ||  ||  ||  || 2 || ½ ||  || ½ ||  || 2 || 
+|-
+| '''Water''' ||  || 2 || ½ ||  || ½ ||  ||  ||  || 2 ||  ||  ||  || 2 ||  || ½ ||  ||  || 
+|-
+| '''Electric''' ||  ||  || 2 || ½ || ½ ||  ||  ||  || 0 || 2 ||  ||  ||  ||  || ½ ||  ||  || 
+|-
+| '''Grass''' ||  || ½ || 2 ||  || ½ ||  ||  || ½ || 2 || ½ ||  || ½ || 2 ||  || ½ ||  || ½ || 
+|-
+| '''Ice''' ||  || ½ || ½ ||  || 2 || ½ ||  ||  || 2 || 2 ||  ||  ||  ||  || 2 ||  || ½ || 
+|-
+| '''Fighting''' || 2 ||  ||  ||  ||  || 2 ||  || ½ ||  || ½ || ½ || ½ || 2 || 0 ||  || 2 || 2 || ½
+|-
+| '''Poison''' ||  ||  ||  ||  || 2 ||  ||  || ½ || ½ ||  ||  ||  || ½ || ½ ||  ||  || 0 || 2
+|-
+| '''Ground''' ||  || 2 ||  || 2 || ½ ||  ||  || 2 ||  || 0 ||  || ½ || 2 ||  ||  ||  || 2 || 
+|-
+| '''Flying''' ||  ||  ||  || ½ || 2 ||  || 2 ||  ||  ||  ||  || 2 || ½ ||  ||  ||  || ½ || 
+|-
+| '''Psychic''' ||  ||  ||  ||  ||  ||  || 2 || 2 ||  ||  || ½ ||  ||  ||  ||  || 0 || ½ || 
+|-
+| '''Bug''' ||  || ½ ||  ||  || 2 ||  || ½ || ½ ||  || ½ || 2 ||  ||  || ½ ||  || 2 || ½ || ½
+|-
+| '''Rock''' ||  || 2 ||  ||  ||  || 2 || ½ ||  || ½ || 2 ||  || 2 ||  ||  ||  ||  || ½ || 
+|-
+| '''Ghost''' || 0 ||  ||  ||  ||  ||  ||  ||  ||  ||  || 2 ||  ||  || 2 ||  || ½ ||  || 
+|-
+| '''Dragon''' ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 2 ||  || ½ || 0
+|-
+| '''Dark''' ||  ||  ||  ||  ||  ||  || ½ ||  ||  ||  || 2 ||  ||  || 2 ||  || ½ ||  || ½
+|-
+| '''Steel''' ||  || ½ || ½ || ½ ||  || 2 ||  ||  ||  ||  ||  ||  || 2 ||  ||  ||  || ½ || 2
+|-
+| '''Fairy''' ||  || ½ ||  ||  ||  ||  || 2 || ½ ||  ||  ||  ||  ||  ||  || 2 || 2 || ½ || 
+|}
+
+=Practicality=
+
+''See [[Shards]] for a list of optimal farming routes for each type of shard.''
+
+A breakdown of how much damage each type contributes to total damage, absent any shard boosts, can be seen by using the Damage Calculator screen in the Start Menu. Types that do the most damage generally should be upgraded with shards first.
+
+=Trivia=
+
+As of PokéClicker version 0.5.8 the following categories were removed from the shard case because they have no effect (they do not increase damage) when invested into.
+
+&lt;b&gt;Very Effective (last row)&lt;/b&gt;
+
+*Normal
+
+&lt;b&gt;Immune (first row)&lt;/b&gt;
+
+*Fire
+*Water
+*Grass
+*Ice
+*Flying
+*Bug
+*Rock
+*Dark
+*Steel
+*Fairy</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment>/* Examples */</comment>
+    <model>wikitext</model>
+    <parentid>2899</parentid>
+    <sha1>ce10850a048404cf02f7d6021dd5366fe80a3fa5</sha1>
+  </revision>
+  <revision>
+    <id>2899</id>
+    <timestamp>2021-08-05T20:05:47Z</timestamp>
+    <text bytes="4817" space="preserve">
+=Description=
+An attacking Pokémon's damage output against a defending Pokémon is calculated as follows. The attacking Pokémon is treated as having a single type (mono-type). The type that is used is the one that does the most damage against the defending Pokémon. The sum of all valid Party Pokémon (non-[[Pokemon Day Care|breeding]]) with modifiers ([[Weather]], [[XAttack]]) is the total Pokémon Attack. Below are some examples to articulate this calculation.
+
+==Examples==
+
+*Lanturn (attacking) vs Gyarados (defending) - Lanturn is dual electric-water typed and Gyarados is dual water-flying typed. Lanturn's electric type is 4x effective against Gyarados (2x for both water and electric) so this is the type that is used. Lanturn's attack against Gyarados is increased by a factor of 4 (4x) as per the type multiplier.
+
+*Venusaur (attacking) vs. Magcargo (defending) - Venusaur is dual grass-poison typed and Magcargo is dual fire-rock typed. Venusaur's grass type is 2x effective against Magcargo (super-effective) while Venusaur's poison type is 0.5x effective (not very-effective). Thus, Venusaur's grass type is the type that is used. Venusaur's attack against Magcargo is increased by a factor of 2 (2x) as per the type multiplier.
+
+*Gengar (attacking) vs. Kangaskhan (defending) - Gengar is dual ghost-poison typed and Kangaskhan is mono normal typed. Gengar's ghost type is 0x effective (immune) against Kangaskhan while Gengar's poison type is 1x effective (normal-effective). Thus, Gengar's poison type is the type that is used. Gengar's attack against Kangaskhan neither increased nor decreased as per the type multiplier of 1 (1x).
+
+*Kangaskhan (attacking) vs. Gengar (defending) - Kangaskhan is mono normal typed and Gengar is dual ghost-poison typed. Kangaskhan's normal type is 0x effective (immune) against Gengar. As this is the only type of Kangaskhan, Kangaskhan's normal type is used. Thus, Kangaskhan's attack against Gengar is 0 as per the type multiplier of 0 (0x).
+
+=Type effectiveness table=
+
+Below is a table showing the effectiveness of each Pokémon type. It can be used to prioritize [[Shards|shard]] upgrades.
+
+{| class="wikitable"
+! Attacker ↴ Defender → !! Normal !! Fire !! Water !! Electric !! Grass !! Ice !! Fighting !! Poison !! Ground !! Flying !! Psychic !! Bug !! Rock !! Ghost !! Dragon !! Dark !! Steel !! Fairy
+|-
+| '''Normal''' ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || ½ || 0 ||  ||  || ½ || 
+|-
+| '''Fire''' ||  || ½ || ½ ||  || 2 || 2 ||  ||  ||  ||  ||  || 2 || ½ ||  || ½ ||  || 2 || 
+|-
+| '''Water''' ||  || 2 || ½ ||  || ½ ||  ||  ||  || 2 ||  ||  ||  || 2 ||  || ½ ||  ||  || 
+|-
+| '''Electric''' ||  ||  || 2 || ½ || ½ ||  ||  ||  || 0 || 2 ||  ||  ||  ||  || ½ ||  ||  || 
+|-
+| '''Grass''' ||  || ½ || 2 ||  || ½ ||  ||  || ½ || 2 || ½ ||  || ½ || 2 ||  || ½ ||  || ½ || 
+|-
+| '''Ice''' ||  || ½ || ½ ||  || 2 || ½ ||  ||  || 2 || 2 ||  ||  ||  ||  || 2 ||  || ½ || 
+|-
+| '''Fighting''' || 2 ||  ||  ||  ||  || 2 ||  || ½ ||  || ½ || ½ || ½ || 2 || 0 ||  || 2 || 2 || ½
+|-
+| '''Poison''' ||  ||  ||  ||  || 2 ||  ||  || ½ || ½ ||  ||  ||  || ½ || ½ ||  ||  || 0 || 2
+|-
+| '''Ground''' ||  || 2 ||  || 2 || ½ ||  ||  || 2 ||  || 0 ||  || ½ || 2 ||  ||  ||  || 2 || 
+|-
+| '''Flying''' ||  ||  ||  || ½ || 2 ||  || 2 ||  ||  ||  ||  || 2 || ½ ||  ||  ||  || ½ || 
+|-
+| '''Psychic''' ||  ||  ||  ||  ||  ||  || 2 || 2 ||  ||  || ½ ||  ||  ||  ||  || 0 || ½ || 
+|-
+| '''Bug''' ||  || ½ ||  ||  || 2 ||  || ½ || ½ ||  || ½ || 2 ||  ||  || ½ ||  || 2 || ½ || ½
+|-
+| '''Rock''' ||  || 2 ||  ||  ||  || 2 || ½ ||  || ½ || 2 ||  || 2 ||  ||  ||  ||  || ½ || 
+|-
+| '''Ghost''' || 0 ||  ||  ||  ||  ||  ||  ||  ||  ||  || 2 ||  ||  || 2 ||  || ½ ||  || 
+|-
+| '''Dragon''' ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 2 ||  || ½ || 0
+|-
+| '''Dark''' ||  ||  ||  ||  ||  ||  || ½ ||  ||  ||  || 2 ||  ||  || 2 ||  || ½ ||  || ½
+|-
+| '''Steel''' ||  || ½ || ½ || ½ ||  || 2 ||  ||  ||  ||  ||  ||  || 2 ||  ||  ||  || ½ || 2
+|-
+| '''Fairy''' ||  || ½ ||  ||  ||  ||  || 2 || ½ ||  ||  ||  ||  ||  ||  || 2 || 2 || ½ || 
+|}
+
+=Practicality=
+
+''See [[Shards]] for a list of optimal farming routes for each type of shard.''
+
+A breakdown of how much damage each type contributes to total damage, absent any shard boosts, can be seen by using the Damage Calculator screen in the Start Menu. Types that do the most damage generally should be upgraded with shards first.
+
+=Trivia=
+
+As of PokéClicker version 0.5.8 the following categories were removed from the shard case because they have no effect (they do not increase damage) when invested into.
+
+&lt;b&gt;Very Effective (last row)&lt;/b&gt;
+
+*Normal
+
+&lt;b&gt;Immune (first row)&lt;/b&gt;
+
+*Fire
+*Water
+*Grass
+*Ice
+*Flying
+*Bug
+*Rock
+*Dark
+*Steel
+*Fairy</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment>/* Examples */</comment>
+    <model>wikitext</model>
+    <parentid>2898</parentid>
+    <sha1>110b6302f1e1a3e40a08c3c7a464e1a60d7ee1e4</sha1>
+  </revision>
+  <revision>
+    <id>2898</id>
+    <timestamp>2021-08-05T20:03:03Z</timestamp>
+    <text bytes="4721" space="preserve">
+=Description=
+An attacking Pokémon's damage output against a defending Pokémon is calculated as follows. The attacking Pokémon is treated as having a single type (mono-type). The type that is used is the one that does the most damage against the defending Pokémon. The sum of all valid Party Pokémon (non-[[Pokemon Day Care|breeding]]) with modifiers ([[Weather]], [[XAttack]]) is the total Pokémon Attack. Below are some examples to articulate this calculation.
+
+==Examples==
+
+*Lanturn vs Gyarados - Lanturn is dual electric-water typed and Gyarados is dual water-flying typed. Lanturn's electric type is 4x effective against Gyarados (2x for both water and electric) so this is the type that is used. Lanturn's attack against Gyarados is increased by a factor of 4 (4x) as per the type multiplier.
+
+*Venusaur vs. Magcargo - Venusaur is dual grass-poison typed and Magcargo is dual fire-rock typed. Venusaur's grass type is 2x effective against Magcargo (super-effective) while Venusaur's poison type is 0.5x effective (not very-effective). Thus, Venusaur's grass type is the type that is used. Venusaur's attack against Magcargo is increased by a factor of 2 (2x) as per the type multiplier.
+
+*Gengar vs. Kangaskhan - Gengar is dual ghost-poison typed and Kangaskhan is mono normal typed. Gengar's ghost type is 0x effective (immune) against Kangaskhan while Gengar's poison type is 1x effective (normal-effective). Thus, Gengar's poison type is the type that is used. Gengar's attack against Kangaskhan neither increased nor decreased as per the type multiplier of 1 (1x).
+
+*Kangaskhan vs. Gengar - Kangaskhan is mono normal typed and Gengar is dual ghost-poison typed. Kangaskhan's normal type is 0x effective (immune) against Gengar. As this is the only type of Kangaskhan, Kangaskhan's normal type is used. Thus, Kangaskhan's attack against Gengar is 0 as per the type multiplier of 0 (0x).
+
+=Type effectiveness table=
+
+Below is a table showing the effectiveness of each Pokémon type. It can be used to prioritize [[Shards|shard]] upgrades.
+
+{| class="wikitable"
+! Attacker ↴ Defender → !! Normal !! Fire !! Water !! Electric !! Grass !! Ice !! Fighting !! Poison !! Ground !! Flying !! Psychic !! Bug !! Rock !! Ghost !! Dragon !! Dark !! Steel !! Fairy
+|-
+| '''Normal''' ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || ½ || 0 ||  ||  || ½ || 
+|-
+| '''Fire''' ||  || ½ || ½ ||  || 2 || 2 ||  ||  ||  ||  ||  || 2 || ½ ||  || ½ ||  || 2 || 
+|-
+| '''Water''' ||  || 2 || ½ ||  || ½ ||  ||  ||  || 2 ||  ||  ||  || 2 ||  || ½ ||  ||  || 
+|-
+| '''Electric''' ||  ||  || 2 || ½ || ½ ||  ||  ||  || 0 || 2 ||  ||  ||  ||  || ½ ||  ||  || 
+|-
+| '''Grass''' ||  || ½ || 2 ||  || ½ ||  ||  || ½ || 2 || ½ ||  || ½ || 2 ||  || ½ ||  || ½ || 
+|-
+| '''Ice''' ||  || ½ || ½ ||  || 2 || ½ ||  ||  || 2 || 2 ||  ||  ||  ||  || 2 ||  || ½ || 
+|-
+| '''Fighting''' || 2 ||  ||  ||  ||  || 2 ||  || ½ ||  || ½ || ½ || ½ || 2 || 0 ||  || 2 || 2 || ½
+|-
+| '''Poison''' ||  ||  ||  ||  || 2 ||  ||  || ½ || ½ ||  ||  ||  || ½ || ½ ||  ||  || 0 || 2
+|-
+| '''Ground''' ||  || 2 ||  || 2 || ½ ||  ||  || 2 ||  || 0 ||  || ½ || 2 ||  ||  ||  || 2 || 
+|-
+| '''Flying''' ||  ||  ||  || ½ || 2 ||  || 2 ||  ||  ||  ||  || 2 || ½ ||  ||  ||  || ½ || 
+|-
+| '''Psychic''' ||  ||  ||  ||  ||  ||  || 2 || 2 ||  ||  || ½ ||  ||  ||  ||  || 0 || ½ || 
+|-
+| '''Bug''' ||  || ½ ||  ||  || 2 ||  || ½ || ½ ||  || ½ || 2 ||  ||  || ½ ||  || 2 || ½ || ½
+|-
+| '''Rock''' ||  || 2 ||  ||  ||  || 2 || ½ ||  || ½ || 2 ||  || 2 ||  ||  ||  ||  || ½ || 
+|-
+| '''Ghost''' || 0 ||  ||  ||  ||  ||  ||  ||  ||  ||  || 2 ||  ||  || 2 ||  || ½ ||  || 
+|-
+| '''Dragon''' ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 2 ||  || ½ || 0
+|-
+| '''Dark''' ||  ||  ||  ||  ||  ||  || ½ ||  ||  ||  || 2 ||  ||  || 2 ||  || ½ ||  || ½
+|-
+| '''Steel''' ||  || ½ || ½ || ½ ||  || 2 ||  ||  ||  ||  ||  ||  || 2 ||  ||  ||  || ½ || 2
+|-
+| '''Fairy''' ||  || ½ ||  ||  ||  ||  || 2 || ½ ||  ||  ||  ||  ||  ||  || 2 || 2 || ½ || 
+|}
+
+=Practicality=
+
+''See [[Shards]] for a list of optimal farming routes for each type of shard.''
+
+A breakdown of how much damage each type contributes to total damage, absent any shard boosts, can be seen by using the Damage Calculator screen in the Start Menu. Types that do the most damage generally should be upgraded with shards first.
+
+=Trivia=
+
+As of PokéClicker version 0.5.8 the following categories were removed from the shard case because they have no effect (they do not increase damage) when invested into.
+
+&lt;b&gt;Very Effective (last row)&lt;/b&gt;
+
+*Normal
+
+&lt;b&gt;Immune (first row)&lt;/b&gt;
+
+*Fire
+*Water
+*Grass
+*Ice
+*Flying
+*Bug
+*Rock
+*Dark
+*Steel
+*Fairy</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment>Added Type efficacy explanation</comment>
+    <model>wikitext</model>
+    <parentid>2897</parentid>
+    <sha1>5e9c9299131cbf5a9d60c5bf6dc298536861d920</sha1>
+  </revision>
+</page>

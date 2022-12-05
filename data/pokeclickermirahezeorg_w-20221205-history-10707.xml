@@ -1,0 +1,86 @@
+<page>
+  <title>Durin</title>
+  <ns>0</ns>
+  <id>663</id>
+  <revision>
+    <id>7417</id>
+    <timestamp>2021-01-30T19:03:53Z</timestamp>
+    <text bytes="3326" space="preserve">{{Infobox Berry
+|name    = #34 Durin
+|image   = [[File:Durin.png]]
+|caption = This Berry is tremendously bitter. Just one bite is enough to instantly stop hiccups.
+|growtime  = 6h 0m 0s
+|harvest = 33 berries
+|replant = 10%
+|points = 1,050
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 spicy 
+*0 dry
+*0 sweet
+*30 bitter
+*10 sour
+}}
+
+'''Durin''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by surrounding a [[Rabuta]] berry with at least 130, but no more than 160 points of bitter and no more than 80 points of all other flavours. The [[Rabuta]] berry will then have a chance to mutate into this berry. 
+
+
+== Growth Tables ==
+=== Growth Stages ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+!!! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 2 hours 46 mins 40 secs || 3 hours 53 mins 20 secs || 5 hours || 6 hours - 12 hours
+|-
+! Animation
+| &lt;center&gt;  [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:DurinTreeTaller.png|50px]] || &lt;center&gt; [[File:DurinTreeBloom.png|50px]] || &lt;center&gt; [[File:DurinTreeBerry.png|50px]]
+|}
+
+=== Ripening Time with Modifiers  ===
+{| class="wikitable" | style="text-align: center;"
+! Modifier !! Ripe-Wither Time !! Boost Mulch Needed to Ripen
+|-
+! None
+| 6 hours -&lt;br&gt; 12 hours || ---
+|-
+! Mulch or Sprayduck
+| 4 hours -&lt;br&gt; 8 hours || 48 mulch
+|-
+! Mulch &amp; Sprayduck
+| 2 hours 40 mins -&lt;br&gt; 5 hours 20 mins || 32 mulch
+|}
+
+== Flow Chart ==
+[[File:Durin_Flow_Chart1.png|250px]]
+&lt;br&gt;
+
+== Mutation Strategy ==
+=== Possible Planting Formations ===
+
+You can fill your farm in the following way to obtain Durin berries. Purple squares indicate where mutations can occur.
+
+{| class="wikitable" style="text-align: center;"
+|+ Farm
+|-
+| style="width: 50px;" | [[File:Rabuta.png|30px]]&lt;br&gt;[[Rabuta]] || style="width: 50px;" | [[File:Rabuta.png|30px]]&lt;br&gt;[[Rabuta]] || style="width: 50px;" | [[File:Rabuta.png|30px]]&lt;br&gt;[[Rabuta]] || style="width: 50px;" | [[File:Rabuta.png|30px]]&lt;br&gt;[[Rabuta]] || style="width: 50px;" | [[File:Rabuta.png|30px]]&lt;br&gt;[[Rabuta]]
+|-
+| [[File:Rabuta.png|30px]]&lt;br&gt;[[Rabuta]] || style="background-color:#9C7D98;" | [[File:Rabuta.png|30px]]&lt;br&gt;'''[[Rabuta]]''' || style="background-color:#9C7D98;" | [[File:Rabuta.png|30px]]&lt;br&gt;'''[[Rabuta]]''' || style="background-color:#9C7D98;" | [[File:Rabuta.png|30px]]&lt;br&gt;'''[[Rabuta]]''' || [[File:Rabuta.png|30px]]&lt;br&gt;[[Rabuta]]
+|- style="height: 26px;"
+| [[File:Rabuta.png|30px]]&lt;br&gt;[[Rabuta]] || style="background-color:#9C7D98;" | [[File:Rabuta.png|30px]]&lt;br&gt;'''[[Rabuta]]''' || style="background-color:#9C7D98;" | [[File:Rabuta.png|30px]]&lt;br&gt;'''[[Rabuta]]''' || style="background-color:#9C7D98;" | [[File:Rabuta.png|30px]]&lt;br&gt;'''[[Rabuta]]''' || [[File:Rabuta.png|30px]]&lt;br&gt;[[Rabuta]]
+|-
+| [[File:Rabuta.png|30px]]&lt;br&gt;[[Rabuta]] || style="background-color:#9C7D98;" | [[File:Rabuta.png|30px]]&lt;br&gt;'''[[Rabuta]]''' || style="background-color:#9C7D98;" | [[File:Rabuta.png|30px]]&lt;br&gt;'''[[Rabuta]]''' || style="background-color:#9C7D98;" | [[File:Rabuta.png|30px]]&lt;br&gt;'''[[Rabuta]]''' || [[File:Rabuta.png|30px]]&lt;br&gt;[[Rabuta]]
+|-
+| [[File:Rabuta.png|30px]]&lt;br&gt;[[Rabuta]] || [[File:Rabuta.png|30px]]&lt;br&gt;[[Rabuta]] || [[File:Rabuta.png|30px]]&lt;br&gt;[[Rabuta]] || [[File:Rabuta.png|30px]]&lt;br&gt;[[Rabuta]] || [[File:Rabuta.png|30px]]&lt;br&gt;[[Rabuta]]
+|}
+
+{{Berries}}</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment>Flow Chart</comment>
+    <model>wikitext</model>
+    <parentid>7416</parentid>
+    <sha1>e28eee3895a203a4fef768f4f75bc9ed3a5ce335</sha1>
+  </revision>
+</page>

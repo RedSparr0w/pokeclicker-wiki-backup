@@ -1,0 +1,55 @@
+<page>
+  <title>Wacan</title>
+  <ns>0</ns>
+  <id>626</id>
+  <revision>
+    <id>7153</id>
+    <timestamp>2020-12-09T16:56:46Z</timestamp>
+    <text bytes="1428" space="preserve">{{Infobox Berry
+|name    = Wacan
+|image   = [[File:Wacan.png]]
+|caption = Energy from lightning strikes is drawn into the plant, making the Berries grow big and rich. The same energy promotes the growth of nearby Berries.
+|growtime  = 30m 0s
+|harvest = 2 berries
+|replant = 5%
+|points = 250
+|flavor = {{!}} 0 {{!}} 0 {{!}} 15 {{!}} 0 {{!}} 10
+}}
+'''Wacan''' is a type of [[Berries|Berry]] that can be planted in [[Farm]]. It can be obtained by surrounding an empty plot with at least 1 [[Iapapa]], at least 1 [[Qualot]], at least 1 [[Pinap]] and at least 1 [[Grepa]].
+
+{| class="wikitable"
+|+ Harvest Stages durations
+! Seed !! Sprout !! Taller !! Bloom !! Berry
+|-
+| 0-10s || 10-180s || 180-900s || 900-1800s || 1800-3600s
+|-
+| [[File:AllTreeSeed.png|50px]] || [[File:AllTreeSprout.png|50px]] || [[File:WacanTreeTaller.png|50px]] || [[File:WacanTreeBloom.png|50px]] || [[File:WacanTreeBerry.png|50px]]
+|}
+
+=== Possible Planting Formations ===
+
+You can fill your [[farm]] in following way to obtain Wacan berry.
+
+{| class="wikitable" style="text-align: center;"
+|+ Farm
+|-
+| style="width: 40px;" | [[Iapapa]] || style="width: 40px;" | || style="width: 40px;" | [[Pinap]] || style="width: 40px;" | || style="width: 40px;" | [[Iapapa]]
+|-
+| [[Qualot]] ||  || [[Grepa]] ||  || [[Qualot]]
+|- style="height: 26px;"
+| || || || || 
+|-
+| [[Pinap]]  ||  || [[Iapapa]] || || [[Pinap]] 
+|-
+| [[Grepa]] ||  || [[Qualot]] ||  || [[Grepa]]
+|}</text>
+    <contributor>
+      <username>Kirby2729</username>
+      <id>67</id>
+    </contributor>
+    <comment>Apply new berry mutation conditions made in V0.6.8</comment>
+    <model>wikitext</model>
+    <parentid>7152</parentid>
+    <sha1>8da885aa515432231c503d0f144c2271f4436d98</sha1>
+  </revision>
+</page>

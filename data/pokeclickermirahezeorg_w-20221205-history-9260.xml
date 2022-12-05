@@ -1,0 +1,51 @@
+<page>
+  <title>Victory Road Johto</title>
+  <ns>0</ns>
+  <id>3608</id>
+  <revision>
+    <id>13578</id>
+    <timestamp>2022-03-03T20:23:03Z</timestamp>
+    <text bytes="974" space="preserve">{{Infobox dungeon
+|name    = Victory Road Johto
+|image   = [[File:Victory Road Johto.png|300px]]
+|caption = A map of Victory Road Johto.
+|tokens  = 7,000
+|location = Route 26, south of Indigo Plateau Johto.
+}}
+'''Victory Road Johto''' is a [[Dungeons|dungeon]] in [[Johto]]. It initially has 36 tiles arranged in a 6x6 square, including 6 chest tiles, 15 non-boss encounter tiles, and 1 boss encounter tile.
+
+==Pokémon &amp; Dungeon Stats==
+
+{| class="wikitable"
+|-
+! Random Encounter !! Base Health !! Boss !! Base Health
+|-
+| [[File:Golbat.png|40px]] Golbat || rowspan=5| &lt;center&gt; 128,500 || rowspan=2|[[File:Sandslash.png|40px]] Sandslash || rowspan=5| &lt;center&gt; 500,000
+|-
+| [[File:Graveler.png|40px]] Graveler 
+|-
+| [[File:Onix.png|40px]] Onix || rowspan=2|[[File:Rhydon.png|40px]] Rhydon
+|-
+| [[File:Rhyhorn.png|40px]] Rhyhorn
+|}
+
+==Items==
+
+{| class="wikitable"
+|-
+! Chest Item !! Chance to Find
+|-
+| {{Bag3|Item Magnet}} [[Item Magnet]] || 100%
+|}
+
+[[Category:Dungeons]]</text>
+    <contributor>
+      <username>Razrushil</username>
+      <id>31</id>
+    </contributor>
+    <comment>Create Victory Road Johto</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>6f4fecf835b2c6d7fe17eb7ba87677fc73ee97f8</sha1>
+  </revision>
+</page>

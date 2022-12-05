@@ -1,0 +1,21 @@
+<page>
+  <title>Template:Em</title>
+  <ns>10</ns>
+  <id>960</id>
+  <revision>
+    <id>9367</id>
+    <timestamp>2020-12-14T04:05:50Z</timestamp>
+    <text bytes="329" space="preserve">&lt;em {{#if:{{{role|}}}|role="{{{role}}}"}} {{#if:{{{class|}}}|class="{{{class}}}"}} {{#if:{{{id|}}}|id="{{{id}}}"}} {{#if:{{{style|}}}|style="{{{style}}}"}} {{#if:{{{title|}}}|title="{{{title}}}"}}&gt;{{{1}}}&lt;/em&gt;&lt;noinclude&gt;
+{{documentation}}
+&lt;!-- Add categories to the /doc subpage, interwikis to Wikidata, not here --&gt;
+&lt;/noinclude&gt;</text>
+    <contributor>
+      <username>Liczale</username>
+      <id>20</id>
+    </contributor>
+    <comment>1 revision imported: Here you go Cate &lt;3</comment>
+    <model>wikitext</model>
+    <parentid>9366</parentid>
+    <sha1>e2fac6fb507a0dd72c4e79d02403049c7d857c8d</sha1>
+  </revision>
+</page>

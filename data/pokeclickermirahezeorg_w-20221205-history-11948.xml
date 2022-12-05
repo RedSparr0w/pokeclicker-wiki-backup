@@ -1,0 +1,78 @@
+<page>
+  <title>Rindo</title>
+  <ns>0</ns>
+  <id>683</id>
+  <revision>
+    <id>7514</id>
+    <timestamp>2020-12-13T01:34:22Z</timestamp>
+    <text bytes="2384" space="preserve">{{Infobox Berry
+|name    = Rindo
+|image   = [[File:Rindo.png]]
+|caption = This Berry has a disagreeable "green" flavor and scent typical of vegetables. It is rich in health-promoting fiber. It has a tendency to expand into nearby plots.
+|growtime  = 8h 0m 0s
+|harvest = 24 berries
+|replant = 5%
+|points = 1,400
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*10 spicy 
+*0 dry
+*0 sweet
+*15 bitter
+*0 sour
+}}
+'''Rindo''' is a type of [[Berries|Berry]] that can be planted in [[Farm]]. It can be obtained by surrounding an empty plot with at least 10, but no more than 15 points of spicy, at least 15, but no more than 20 points of bitter and 0 points of all other flavours. The [[Cheri]] and [[Aguav]] must be unlocked to unlock this berry.
+
+{| class="wikitable"
+|+ Growth Stages
+!!! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 1 hour || 2 hours || 4 hours 30 mins || 8 hours - 16 hours
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:RindoTreeTaller.png|50px]] || &lt;center&gt;[[File:RindoTreeBloom.png|50px]] || &lt;center&gt; [[File:RindoTreeBerry.png|50px]]
+|}
+
+=== Possible Planting Formations ===
+
+You can fill your [[farm]] in following way to obtain Rindo berry.
+
+{| class="wikitable" style="text-align: center;"
+|+ Farm
+|- style="height: 50px;" 
+| style="width: 40px;" | [[File:Figy.png|30px]] [[Figy]] || style="width: 40px;" | || style="width: 40px;" | || style="width: 40px;" | [[File:Figy.png|30px]] [[Figy]] || style="width: 40px;" | 
+|-
+| || [[File:Aguav.png|30px]] [[Aguav]] ||  ||  || [[File:Aguav.png|30px]] [[Aguav]] 
+|- style="height: 50px;"
+| || || || || 
+|-
+| [[File:Figy.png|30px]] [[Figy]] || || || [[File:Figy.png|30px]] [[Figy]] || 
+|-
+| || [[File:Aguav.png|30px]] [[Aguav]] ||  ||  || [[File:Aguav.png|30px]] [[Aguav]] 
+|}
+
+{| class="wikitable" style="text-align: center;"
+|+ Farm
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri]] || style="width: 40px;" | || style="width: 40px;" | || style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri]] || style="width: 40px;" | 
+|-
+| || [[File:Aguav.png|30px]] [[Aguav]] ||  ||  || [[File:Aguav.png|30px]] [[Aguav]] 
+|- style="height: 50px;"
+| || || || || 
+|-
+| [[File:Cheri.png|30px]] [[Cheri]] || || || [[File:Cheri.png|30px]] [[Cheri]] || 
+|-
+| || [[File:Aguav.png|30px]] [[Aguav]] ||  ||  || [[File:Aguav.png|30px]] [[Aguav]] 
+|}
+
+{{Berries}}</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment>Rindo Fix</comment>
+    <model>wikitext</model>
+    <parentid>7513</parentid>
+    <sha1>31f574c431b57c3451f2e5bad80187aab1309055</sha1>
+  </revision>
+</page>

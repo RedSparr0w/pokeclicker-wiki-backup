@@ -1,0 +1,93 @@
+<page>
+  <title>Lost Hotel</title>
+  <ns>0</ns>
+  <id>2919</id>
+  <revision>
+    <id>12284</id>
+    <timestamp>2022-05-26T10:23:16Z</timestamp>
+    <text bytes="2603" space="preserve">{{Infobox dungeon
+|name    = Lost Hotel
+|image   = [[File:Lost Hotel.png|250px]]
+|caption = A map of Lost Hotel.
+|tokens  = 635,000
+|location = West of Route 15.
+}}
+'''Lost Hotel''' is a [[Dungeons|dungeon]] in [[Kalos]]. It initially has 100 tiles arranged in a 10x10 square, including 10 chest tiles, 23 non-boss encounter tiles, and 1 boss encounter tile. Wild Encounters have 8,375,300 HP.
+
+==Encounter  Tables==
+
+===Wild Encounters===
+
+{| class="wikitable"
+|-
+! Wild Pokémon !! colspan=2|Trainers
+|-
+! Encounter !! Trainer !! Pokémon Team
+|-
+| [[File:Magneton.png|40px]] Magneton ||  [[File:Punk_Guy.png|40px]] Punk Guy Sid || [[File:Scrafty.png|40px]] Scrafty, [[File:Sharpedo.png|40px]] Sharpedo, [[File:Pawniard.png|40px]] Pawniard 
+|-
+| [[File:Electrode.png|40px]] Electrode || [[File:Punk_Guy.png|40px]] Punk Guy Jacques || [[File:Skuntank.png|40px]] Skuntank, [[File:Crawdaunt.png|40px]] Crawdaunt
+|-
+| [[File:Litwick.png|40px]] Litwick || [[File:Punk_Guy.png|40px]] Punk Guy Slater || [[File:Dunsparce.png|40px]] Dunsparce
+|-
+| [[File:Pawniard.png|40px]] Pawniard || [[File:Punk_Girl.png|40px]] Punk Girl Jeanne || [[File:Seviper.png|40px]] Seviper, [[File:Arbok.png|40px]] Arbok
+|-
+| [[File:Klefki.png|40px]] Klefki || [[File:Punk_Girl.png|40px]] Punk Girl Cecile || [[File:Liepard.png|40px]] Liepard, [[File:Liepard.png|40px]] Liepard
+|}
+
+
+===Boss Encounters===
+
+{| class="wikitable"
+|-
+! Wild Pokémon !! Base Health !! Boss Trainer !! Pokémon Team !! Base Health
+|-
+| rowspan=2|[[File:Rotom.png|40px]] Rotom || rowspan=2|&lt;center&gt; 82,376,500 || rowspan=2|[[File:Punk_Couple.png|40px]] Punk Couple Zoya &amp; Asa || [[File:Garbodor.png|40px]] Garbodor || &lt;center&gt; 42,664,500
+|-
+| [[File:Pangoro.png|40px]] Pangoro || &lt;center&gt; 42,765,500
+|}
+
+==Items==
+
+{| class="wikitable"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears !! Requirememt
+|-
+|{{Bag2|xClick}}||4||43.30%||42.98%||41.47% ||rowspan=11|&lt;center&gt;N/A
+|-
+|{{Bag2|Lucky Incense}}||4||43.30%||42.98%||41.47% 
+|-
+|{{Pokemon|Trubbish}}||3.5||11.18%||11.16%||11.01% 
+|-
+|{{Bag2|Dread Plate}}||2.75||1.47%||1.54%||1.80% 
+|-
+|{{Pokemon|Garbodor}}||2.5||0.75%||0.82%||1.42% 
+|-
+|{{Pokemon|Rotom (heat)}}||0||0.0017%||0.086%||0.41% 
+|-
+|{{Pokemon|Rotom (wash)}}||0||0.0017%||0.086%||0.41% 
+|-
+|{{Pokemon|Rotom (fan)}}||0||0.0017%||0.086%||0.41% 
+|-
+|{{Pokemon|Rotom (frost)}}||0||0.0017%||0.086%||0.41% 
+|-
+|{{Pokemon|Rotom (mow)}}||0||0.0017%||0.086%||0.41% 
+|-
+|{{Bag2|Protector}}||0||0.0017%||0.086%||0.41% 
+|-
+|{{Bag2|Protein}}||0||0.0%||0.0%||0.41%|| &lt;center&gt;Clear 250 Times
+|}
+
+{{Kalos Dungeons}}
+
+[[Category:Dungeons]]</text>
+    <contributor>
+      <username>Dragonkin550</username>
+      <id>27</id>
+    </contributor>
+    <comment>/* Items */ updating table</comment>
+    <model>wikitext</model>
+    <parentid>12283</parentid>
+    <sha1>0beca0f4d7a8c4835436ffca80a2ca221fec34cf</sha1>
+  </revision>
+</page>

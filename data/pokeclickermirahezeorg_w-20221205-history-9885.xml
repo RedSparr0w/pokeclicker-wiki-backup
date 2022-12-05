@@ -1,0 +1,245 @@
+<page>
+  <title>Farm</title>
+  <ns>0</ns>
+  <id>191</id>
+  <revision>
+    <id>3225</id>
+    <timestamp>2021-08-31T06:32:17Z</timestamp>
+    <text bytes="5347" space="preserve">[[File:Pokeclicker_Farm_Interface.png|400px|thumb|The Farm interface, with multiple berries planted.]]
+
+The '''Farm''' is a location in [[Kanto]] where [[Berries]] can be planted. Harvesting them yields [[Farming Points]] {{Farmpoints}} and more of the same type of Berry. Occasionally, mutations can occur when [[berries]] are planted in certain configurations. The Farm is unlocked upon unlocking '''Route 14''' of [[Kanto]] and obtaining the [[Wailmer pail]].
+
+One of the quests that can appear involves harvesting a random amount of a certain type of Berry.
+
+=Usage=
+
+''For a breakdown of harvest yields, flavors, and mutation configurations for the various types of Berries, consult the [[Berries]] page.
+
+Before completing [[Kanto]], the Farm can be accessed by clicking on its location on the map between Routes 14 and Route 15, but upon reaching [[Johto]], it becomes available in the Shortcuts dropdown list.
+
+The eight base [[Berries]] are dropped by defeated Pokémon at random on routes. They can be planted by selecting the desired type in the left-hand column and clicking on plots in the field on the right. Alternatively, the "Plant All" button can be clicked to plant the selected Berry in every empty plot.
+
+Depending on the type of Berry planted, different lengths of time have to pass before they can be harvested. Individual plots can be clicked to be harvested, or the "Harvest All" button may be pressed to harvest every plot ready for harvesting.
+
+When Berry plants become ripe, they will die after a set period of time if not harvested. When this happens, only a fraction of the harvest is obtained, and there is a chance they will replant themselves, spawning a plant of the same berry in that plot. This chance can be augmented by using the [[Sprinklotad]] Oak Item.
+
+Special Berries can be obtained by planting other Berries in special configurations. The [[Berry Master|Kanto Berry Master]] in [[Towns &amp; Cities|Cerulean City]] gives hints as to these configurations. The chance for mutations to occur can be augmented by the [[Squirtbottle]] Oak Item.
+
+[[Farm Items|Mulch]] and  [[Farm Items|Berry Shovel]] can be bought in [[Towns &amp; Cities|Goldenrod City]] ([[Johto]]), [[Towns &amp; Cities|Mauville City]] ([[Hoenn]]), [[Towns &amp; Cities|Hearthome City]] ([[Sinnoh]]). [[Farm Items|Mulch]] can be applied to growing Berry plants to speed up growth, increase harvest yield, increase mutation chance, or all of the above with reduced effect. [[Farm Items|Berry Shovels]] can be used to free up occupied plots.
+
+=Upgrades=
+
+Extra plots can be unlocked by spending [[Farming Points]] and [[Berries]] to allow more [[Berries]] to grow simultaneously, up to a maximum of 25. The table below displays the cost to unlock each plot corresponding to the 5x5 grid of plots in the Farm.
+
+[https://docs.google.com/document/d/1TE5cAKSlA7TAliA001_mIiO1odZ6e4yUEMre0GBW1to/edit?usp=sharing Here is a Walkthrough] for unlocking all of the Farm Slots in order
+
+{| class="wikitable"
+|-
+| 220 [[Kelpsy]] [[File:Kelpsy.png|20px]]&lt;br \&gt;4840 {{Farmpoints}} || rowspan = 5 | || 170 [[Mago]] [[File:Mago.png|20px]] &lt;br \&gt;2890 {{Farmpoints}} || rowspan = 5 | || 90 [[Persim]] [[File:Persim.png|20px]]&lt;br \&gt;810 {{Farmpoints}} || rowspan = 5 | || 130 [[Wepear]] [[File:Wepear.png|20px]]&lt;br \&gt;1690 {{Farmpoints}} || rowspan = 5 | || 230 [[Qualot]] [[File:Qualot.png|20px]]&lt;br \&gt;5290 {{Farmpoints}}
+|-
+| 160 [[Wiki]] [[File:Wiki.png|20px]]&lt;br \&gt;2560 {{Farmpoints}} || 50 [[Aspear]] [[File:Aspear.png|20px]]&lt;br \&gt;250 {{Farmpoints}} || 10 [[Cheri]] [[File:Cheri.png|20px]]&lt;br \&gt;10 {{Farmpoints}} || 60 [[Leppa]] [[File:Leppa.png|20px]]&lt;br \&gt;360 {{Farmpoints}} || 180 [[Aguav]] [[File:Aguav.png|20px]]&lt;br \&gt;3240 {{Farmpoints}}
+|-
+| 120 [[Nanab]] [[File:Nanab.png|20px]]&lt;br \&gt;1440 {{Farmpoints}} || 40 [[Rawst]] [[File:Rawst.png|20px]]&lt;br \&gt;160 {{Farmpoints}} || Free Plot || 20 [[Chesto]] [[File:Chesto.png|20px]]&lt;br \&gt;40 {{Farmpoints}} || 100 [[Razz]] [[File:Razz.png|20px]]&lt;br \&gt;1000 {{Farmpoints}}
+|-
+| 210 [[Pomeg]] [[File:Pomeg.png|20px]]&lt;br \&gt;4410 {{Farmpoints}} || 80 [[Sitrus]] [[File:Sitrus.png|20px]]&lt;br \&gt;640 {{Farmpoints}} || 30 [[Pecha]] [[File:Pecha.png|20px]]&lt;br \&gt;90 {{Farmpoints}} || 70 [[Oran]] [[File:Oran.png|20px]]&lt;br \&gt;490 {{Farmpoints}} || 140 [[Pinap]] [[File:Pinap.png|20px]]&lt;br \&gt;1960 {{Farmpoints}}
+|-
+| 250 [[Grepa]] [[File:Grepa.png|20px]]&lt;br \&gt;6250 {{Farmpoints}} || 150 [[Figy]] [[File:Figy.png|20px]]&lt;br \&gt;2250 {{Farmpoints}} || 110 [[Bluk]] [[File:Bluk.png|20px]]&lt;br \&gt;1210 {{Farmpoints}} || 190 [[Iapapa]] [[File:Iapapa.png|20px]]&lt;br \&gt;3610 {{Farmpoints}} || 240 [[Hondew]] [[File:Hondew.png|20px]]&lt;br \&gt;5760 {{Farmpoints}}
+|}
+
+=Farm Hands=
+
+Farm Hands are unlockable and purchasable "Items" that allow the player to automate their farm. As of Version 0.8.7 this is a BETA feature and is likely to change in the future. Below are the currently implemented Farm Hands in the game.
+
+{| class="wikitable"
+|-
+! Name !! Cost
+|-
+| Alex || 8 Unlocked Berries
+|-
+| Logan || 16 Unlocked Berries
+|-
+| Joey || 24 Unlocked Berries
+|-
+| Charlie || 32 Unlocked Berries
+|-
+| Jessie || 56 Unlocked Berries
+|-
+| Bailey || 50,000 Farming Points {{farmpoints}}
+|-
+| Kerry || 100,000 Farming Points {{farmpoints}}
+|-
+| Riley || 200,000 Farming Points {{farmpoints}}
+|-
+| Jamie || 20,000 [[Battle Points]] [[File:Battlepoints.png|15px]]
+|-
+|}</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment>/* Farm Hands */</comment>
+    <model>wikitext</model>
+    <parentid>3224</parentid>
+    <sha1>afdb35814c83aae8fb90fae6da086a98da83c1d9</sha1>
+  </revision>
+  <revision>
+    <id>3224</id>
+    <timestamp>2021-08-31T06:29:45Z</timestamp>
+    <text bytes="5327" space="preserve">[[File:Pokeclicker_Farm_Interface.png|400px|thumb|The Farm interface, with multiple berries planted.]]
+
+The '''Farm''' is a location in [[Kanto]] where [[Berries]] can be planted. Harvesting them yields [[Farming Points]] {{Farmpoints}} and more of the same type of Berry. Occasionally, mutations can occur when [[berries]] are planted in certain configurations. The Farm is unlocked upon unlocking '''Route 14''' of [[Kanto]] and obtaining the [[Wailmer pail]].
+
+One of the quests that can appear involves harvesting a random amount of a certain type of Berry.
+
+=Usage=
+
+''For a breakdown of harvest yields, flavors, and mutation configurations for the various types of Berries, consult the [[Berries]] page.
+
+Before completing [[Kanto]], the Farm can be accessed by clicking on its location on the map between Routes 14 and Route 15, but upon reaching [[Johto]], it becomes available in the Shortcuts dropdown list.
+
+The eight base [[Berries]] are dropped by defeated Pokémon at random on routes. They can be planted by selecting the desired type in the left-hand column and clicking on plots in the field on the right. Alternatively, the "Plant All" button can be clicked to plant the selected Berry in every empty plot.
+
+Depending on the type of Berry planted, different lengths of time have to pass before they can be harvested. Individual plots can be clicked to be harvested, or the "Harvest All" button may be pressed to harvest every plot ready for harvesting.
+
+When Berry plants become ripe, they will die after a set period of time if not harvested. When this happens, only a fraction of the harvest is obtained, and there is a chance they will replant themselves, spawning a plant of the same berry in that plot. This chance can be augmented by using the [[Sprinklotad]] Oak Item.
+
+Special Berries can be obtained by planting other Berries in special configurations. The [[Berry Master|Kanto Berry Master]] in [[Towns &amp; Cities|Cerulean City]] gives hints as to these configurations. The chance for mutations to occur can be augmented by the [[Squirtbottle]] Oak Item.
+
+[[Farm Items|Mulch]] and  [[Farm Items|Berry Shovel]] can be bought in [[Towns &amp; Cities|Goldenrod City]] ([[Johto]]), [[Towns &amp; Cities|Mauville City]] ([[Hoenn]]), [[Towns &amp; Cities|Hearthome City]] ([[Sinnoh]]). [[Farm Items|Mulch]] can be applied to growing Berry plants to speed up growth, increase harvest yield, increase mutation chance, or all of the above with reduced effect. [[Farm Items|Berry Shovels]] can be used to free up occupied plots.
+
+=Upgrades=
+
+Extra plots can be unlocked by spending [[Farming Points]] and [[Berries]] to allow more [[Berries]] to grow simultaneously, up to a maximum of 25. The table below displays the cost to unlock each plot corresponding to the 5x5 grid of plots in the Farm.
+
+[https://docs.google.com/document/d/1TE5cAKSlA7TAliA001_mIiO1odZ6e4yUEMre0GBW1to/edit?usp=sharing Here is a Walkthrough] for unlocking all of the Farm Slots in order
+
+{| class="wikitable"
+|-
+| 220 [[Kelpsy]] [[File:Kelpsy.png|20px]]&lt;br \&gt;4840 {{Farmpoints}} || rowspan = 5 | || 170 [[Mago]] [[File:Mago.png|20px]] &lt;br \&gt;2890 {{Farmpoints}} || rowspan = 5 | || 90 [[Persim]] [[File:Persim.png|20px]]&lt;br \&gt;810 {{Farmpoints}} || rowspan = 5 | || 130 [[Wepear]] [[File:Wepear.png|20px]]&lt;br \&gt;1690 {{Farmpoints}} || rowspan = 5 | || 230 [[Qualot]] [[File:Qualot.png|20px]]&lt;br \&gt;5290 {{Farmpoints}}
+|-
+| 160 [[Wiki]] [[File:Wiki.png|20px]]&lt;br \&gt;2560 {{Farmpoints}} || 50 [[Aspear]] [[File:Aspear.png|20px]]&lt;br \&gt;250 {{Farmpoints}} || 10 [[Cheri]] [[File:Cheri.png|20px]]&lt;br \&gt;10 {{Farmpoints}} || 60 [[Leppa]] [[File:Leppa.png|20px]]&lt;br \&gt;360 {{Farmpoints}} || 180 [[Aguav]] [[File:Aguav.png|20px]]&lt;br \&gt;3240 {{Farmpoints}}
+|-
+| 120 [[Nanab]] [[File:Nanab.png|20px]]&lt;br \&gt;1440 {{Farmpoints}} || 40 [[Rawst]] [[File:Rawst.png|20px]]&lt;br \&gt;160 {{Farmpoints}} || Free Plot || 20 [[Chesto]] [[File:Chesto.png|20px]]&lt;br \&gt;40 {{Farmpoints}} || 100 [[Razz]] [[File:Razz.png|20px]]&lt;br \&gt;1000 {{Farmpoints}}
+|-
+| 210 [[Pomeg]] [[File:Pomeg.png|20px]]&lt;br \&gt;4410 {{Farmpoints}} || 80 [[Sitrus]] [[File:Sitrus.png|20px]]&lt;br \&gt;640 {{Farmpoints}} || 30 [[Pecha]] [[File:Pecha.png|20px]]&lt;br \&gt;90 {{Farmpoints}} || 70 [[Oran]] [[File:Oran.png|20px]]&lt;br \&gt;490 {{Farmpoints}} || 140 [[Pinap]] [[File:Pinap.png|20px]]&lt;br \&gt;1960 {{Farmpoints}}
+|-
+| 250 [[Grepa]] [[File:Grepa.png|20px]]&lt;br \&gt;6250 {{Farmpoints}} || 150 [[Figy]] [[File:Figy.png|20px]]&lt;br \&gt;2250 {{Farmpoints}} || 110 [[Bluk]] [[File:Bluk.png|20px]]&lt;br \&gt;1210 {{Farmpoints}} || 190 [[Iapapa]] [[File:Iapapa.png|20px]]&lt;br \&gt;3610 {{Farmpoints}} || 240 [[Hondew]] [[File:Hondew.png|20px]]&lt;br \&gt;5760 {{Farmpoints}}
+|}
+
+=Farm Hands=
+
+Farm Hands are unlockable and purchasable "Items" that allow the player to automate their farm. This is a BETA feature and is likely to change in the future. Below are the currently implemented Farm Hands in the game.
+
+{| class="wikitable"
+|-
+! Name !! Cost
+|-
+| Alex || 8 Unlocked Berries
+|-
+| Logan || 16 Unlocked Berries
+|-
+| Joey || 24 Unlocked Berries
+|-
+| Charlie || 32 Unlocked Berries
+|-
+| Jessie || 56 Unlocked Berries
+|-
+| Bailey || 50,000 Farming Points {{farmpoints}}
+|-
+| Kerry || 100,000 Farming Points {{farmpoints}}
+|-
+| Riley || 200,000 Farming Points {{farmpoints}}
+|-
+| Jamie || 20,000 [[Battle Points]] [[File:Battlepoints.png|15px]]
+|-
+|}</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment>/* Farm Hands */</comment>
+    <model>wikitext</model>
+    <parentid>3223</parentid>
+    <sha1>3b3cb88aec45eb9cf19b037e91afc3891343f747</sha1>
+  </revision>
+  <revision>
+    <id>3223</id>
+    <timestamp>2021-08-31T06:29:08Z</timestamp>
+    <text bytes="5327" space="preserve">[[File:Pokeclicker_Farm_Interface.png|400px|thumb|The Farm interface, with multiple berries planted.]]
+
+The '''Farm''' is a location in [[Kanto]] where [[Berries]] can be planted. Harvesting them yields [[Farming Points]] {{Farmpoints}} and more of the same type of Berry. Occasionally, mutations can occur when [[berries]] are planted in certain configurations. The Farm is unlocked upon unlocking '''Route 14''' of [[Kanto]] and obtaining the [[Wailmer pail]].
+
+One of the quests that can appear involves harvesting a random amount of a certain type of Berry.
+
+=Usage=
+
+''For a breakdown of harvest yields, flavors, and mutation configurations for the various types of Berries, consult the [[Berries]] page.
+
+Before completing [[Kanto]], the Farm can be accessed by clicking on its location on the map between Routes 14 and Route 15, but upon reaching [[Johto]], it becomes available in the Shortcuts dropdown list.
+
+The eight base [[Berries]] are dropped by defeated Pokémon at random on routes. They can be planted by selecting the desired type in the left-hand column and clicking on plots in the field on the right. Alternatively, the "Plant All" button can be clicked to plant the selected Berry in every empty plot.
+
+Depending on the type of Berry planted, different lengths of time have to pass before they can be harvested. Individual plots can be clicked to be harvested, or the "Harvest All" button may be pressed to harvest every plot ready for harvesting.
+
+When Berry plants become ripe, they will die after a set period of time if not harvested. When this happens, only a fraction of the harvest is obtained, and there is a chance they will replant themselves, spawning a plant of the same berry in that plot. This chance can be augmented by using the [[Sprinklotad]] Oak Item.
+
+Special Berries can be obtained by planting other Berries in special configurations. The [[Berry Master|Kanto Berry Master]] in [[Towns &amp; Cities|Cerulean City]] gives hints as to these configurations. The chance for mutations to occur can be augmented by the [[Squirtbottle]] Oak Item.
+
+[[Farm Items|Mulch]] and  [[Farm Items|Berry Shovel]] can be bought in [[Towns &amp; Cities|Goldenrod City]] ([[Johto]]), [[Towns &amp; Cities|Mauville City]] ([[Hoenn]]), [[Towns &amp; Cities|Hearthome City]] ([[Sinnoh]]). [[Farm Items|Mulch]] can be applied to growing Berry plants to speed up growth, increase harvest yield, increase mutation chance, or all of the above with reduced effect. [[Farm Items|Berry Shovels]] can be used to free up occupied plots.
+
+=Upgrades=
+
+Extra plots can be unlocked by spending [[Farming Points]] and [[Berries]] to allow more [[Berries]] to grow simultaneously, up to a maximum of 25. The table below displays the cost to unlock each plot corresponding to the 5x5 grid of plots in the Farm.
+
+[https://docs.google.com/document/d/1TE5cAKSlA7TAliA001_mIiO1odZ6e4yUEMre0GBW1to/edit?usp=sharing Here is a Walkthrough] for unlocking all of the Farm Slots in order
+
+{| class="wikitable"
+|-
+| 220 [[Kelpsy]] [[File:Kelpsy.png|20px]]&lt;br \&gt;4840 {{Farmpoints}} || rowspan = 5 | || 170 [[Mago]] [[File:Mago.png|20px]] &lt;br \&gt;2890 {{Farmpoints}} || rowspan = 5 | || 90 [[Persim]] [[File:Persim.png|20px]]&lt;br \&gt;810 {{Farmpoints}} || rowspan = 5 | || 130 [[Wepear]] [[File:Wepear.png|20px]]&lt;br \&gt;1690 {{Farmpoints}} || rowspan = 5 | || 230 [[Qualot]] [[File:Qualot.png|20px]]&lt;br \&gt;5290 {{Farmpoints}}
+|-
+| 160 [[Wiki]] [[File:Wiki.png|20px]]&lt;br \&gt;2560 {{Farmpoints}} || 50 [[Aspear]] [[File:Aspear.png|20px]]&lt;br \&gt;250 {{Farmpoints}} || 10 [[Cheri]] [[File:Cheri.png|20px]]&lt;br \&gt;10 {{Farmpoints}} || 60 [[Leppa]] [[File:Leppa.png|20px]]&lt;br \&gt;360 {{Farmpoints}} || 180 [[Aguav]] [[File:Aguav.png|20px]]&lt;br \&gt;3240 {{Farmpoints}}
+|-
+| 120 [[Nanab]] [[File:Nanab.png|20px]]&lt;br \&gt;1440 {{Farmpoints}} || 40 [[Rawst]] [[File:Rawst.png|20px]]&lt;br \&gt;160 {{Farmpoints}} || Free Plot || 20 [[Chesto]] [[File:Chesto.png|20px]]&lt;br \&gt;40 {{Farmpoints}} || 100 [[Razz]] [[File:Razz.png|20px]]&lt;br \&gt;1000 {{Farmpoints}}
+|-
+| 210 [[Pomeg]] [[File:Pomeg.png|20px]]&lt;br \&gt;4410 {{Farmpoints}} || 80 [[Sitrus]] [[File:Sitrus.png|20px]]&lt;br \&gt;640 {{Farmpoints}} || 30 [[Pecha]] [[File:Pecha.png|20px]]&lt;br \&gt;90 {{Farmpoints}} || 70 [[Oran]] [[File:Oran.png|20px]]&lt;br \&gt;490 {{Farmpoints}} || 140 [[Pinap]] [[File:Pinap.png|20px]]&lt;br \&gt;1960 {{Farmpoints}}
+|-
+| 250 [[Grepa]] [[File:Grepa.png|20px]]&lt;br \&gt;6250 {{Farmpoints}} || 150 [[Figy]] [[File:Figy.png|20px]]&lt;br \&gt;2250 {{Farmpoints}} || 110 [[Bluk]] [[File:Bluk.png|20px]]&lt;br \&gt;1210 {{Farmpoints}} || 190 [[Iapapa]] [[File:Iapapa.png|20px]]&lt;br \&gt;3610 {{Farmpoints}} || 240 [[Hondew]] [[File:Hondew.png|20px]]&lt;br \&gt;5760 {{Farmpoints}}
+|}
+
+=Farm Hands=
+
+Farm Hands are unlockable and purchasable "Items" that allow the player to automate their farm. This is a BETA feature and is likely to change in the future. Below are the currently implemented Farm Hands in the game.
+
+{| class="wikitable"
+|-
+| Name !! Cost
+|-
+| Alex || 8 Unlocked Berries
+|-
+| Logan || 16 Unlocked Berries
+|-
+| Joey || 24 Unlocked Berries
+|-
+| Charlie || 32 Unlocked Berries
+|-
+| Jessie || 56 Unlocked Berries
+|-
+| Bailey || 50,000 Farming Points {{farmpoints}}
+|-
+| Kerry || 100,000 Farming Points {{farmpoints}}
+|-
+| Riley || 200,000 Farming Points {{farmpoints}}
+|-
+| Jamie || 20,000 [[Battle Points]] [[File:Battlepoints.png|15px]]
+|-
+|}</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment>Farm Hands initial addition</comment>
+    <model>wikitext</model>
+    <parentid>3222</parentid>
+    <sha1>66fd0649ae7ab454350e03cf37599e583a856411</sha1>
+  </revision>
+</page>

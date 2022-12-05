@@ -1,0 +1,171 @@
+<page>
+  <title>Talk:Petaya</title>
+  <ns>1</ns>
+  <id>3459</id>
+  <revision>
+    <id>13236</id>
+    <timestamp>2021-11-12T19:35:45Z</timestamp>
+    <text bytes="1700" space="preserve">==== Odds of Getting Petaya ====
+
+Here's some math for calculating the odds of getting the Petaya before the first berry wilts.  Someone other than myself, check the math before we decide whether or not to add it to the page.
+
+Important Numbers:
+
+* Base chance of Petaya mutating (Base): 0.00001
+* Max Level Squirebottle Bonus (SB): 2.5
+* Surprise Mulch (SM): 1.5
+* Kebia Bonus (KB) = 1.6
+* Payapa Bonus (PB) = 1.3
+
+* Number of Plots with base bonus: 2
+* Number of Plots with KB: 2
+* Number of Plots with KB and PB: 3
+
+* Time before the first berry wilts (WT) {{ #expr: 30/(0.5*0.7)round2 }} minutes, or {{ #expr: 30/(0.5*0.7)*60round2 }}seconds
+
+Chance of NOT spawning Petaya (no Payapa or Kebia bonus squares) : ( ( ( 1 - ( Base * SB * SM ) ) ^2 ) ^WT ) = {{ #expr: ( ( ( 1 - ( 0.00001 * 2.5 * 1.5 ) ) ^2 ) ^5142) }}
+
+Chance of NOT spawning Petaya (Just Kebia) : ( ( ( 1 - ( Base * SB * SM * KB ) ) ^2 ) ^WT ) = {{ #expr: ( ( (1 - ( 0.00001 * 2.5 * 1.5 * 1.6 ) ) ^2 ) ^5142) }}
+
+Chance of NOT spawning Petaya (Payapa and Kebia bonus squares) : ( ( ( 1 - ( Base * SB * SM * KB * PB ) ) ^3 ) ^WT ) = {{ #expr: ( ( ( 1 - ( 0.00001 * 2.5 * 1.5 * 1.6 * 1.3 ) ) ^3 ) ^5142 ) }}
+
+Chance of NOT spawning Petaya on any of those 7 squares: {{ #expr: ( ( ( 1 - ( 0.00001 * 2.5 * 1.5 ) ) ^2 ) ^5142 ) * ( ( (1 - ( 0.00001 * 2.5 * 1.5 * 1.6 ) ) ^2 ) ^5142) * ( ( ( 1 - ( 0.00001 * 2.5 * 1.5 * 1.6 * 1.3 ) ) ^3 ) ^5142 ) }}
+
+Chance of spawning at least one Petaya on any of those 7 squares within 85.71 minutes:
+{{ #expr: 1 - ( ( ( 1 - ( 0.00001 * 2.5 * 1.5 ) ) ^2 ) ^5142 ) * ( ( (1 - ( 0.00001 * 2.5 * 1.5 * 1.6 ) ) ^2 ) ^5142) * ( ( ( 1 - ( 0.00001 * 2.5 * 1.5 * 1.6 * 1.3 ) ) ^3 ) ^5142 ) }}
+
+Or roughly 89%.</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment>Undo revision 9583 by [[Special:Contributions/Jk13|Jk13]] ([[User talk:Jk13|talk]])</comment>
+    <model>wikitext</model>
+    <parentid>13235</parentid>
+    <sha1>d0583ca3ff400819af10e110ed3f149679b8ac36</sha1>
+  </revision>
+  <revision>
+    <id>13235</id>
+    <timestamp>2021-11-12T19:31:32Z</timestamp>
+    <text bytes="1723" space="preserve">==== Odds of Getting Petaya ====
+
+Here's some math for calculating the odds of getting the Petaya before the first berry wilts.  Someone other than myself, check the math before we decide whether or not to add it to the page.
+
+Important Numbers:
+
+* Base chance of Petaya mutating (Base): 0.00001
+* Max Level Squirebottle Bonus (SB): 2.5 - Should be 1.5 (150%)
+* Surprise Mulch (SM): 1.5
+* Kebia Bonus (KB) = 1.6
+* Payapa Bonus (PB) = 1.3
+
+* Number of Plots with base bonus: 2
+* Number of Plots with KB: 2
+* Number of Plots with KB and PB: 3
+
+* Time before the first berry wilts (WT) {{ #expr: 30/(0.5*0.7)round2 }} minutes, or {{ #expr: 30/(0.5*0.7)*60round2 }}seconds
+
+Chance of NOT spawning Petaya (no Payapa or Kebia bonus squares) : ( ( ( 1 - ( Base * SB * SM ) ) ^2 ) ^WT ) = {{ #expr: ( ( ( 1 - ( 0.00001 * 2.5 * 1.5 ) ) ^2 ) ^5142) }}
+
+Chance of NOT spawning Petaya (Just Kebia) : ( ( ( 1 - ( Base * SB * SM * KB ) ) ^2 ) ^WT ) = {{ #expr: ( ( (1 - ( 0.00001 * 2.5 * 1.5 * 1.6 ) ) ^2 ) ^5142) }}
+
+Chance of NOT spawning Petaya (Payapa and Kebia bonus squares) : ( ( ( 1 - ( Base * SB * SM * KB * PB ) ) ^3 ) ^WT ) = {{ #expr: ( ( ( 1 - ( 0.00001 * 2.5 * 1.5 * 1.6 * 1.3 ) ) ^3 ) ^5142 ) }}
+
+Chance of NOT spawning Petaya on any of those 7 squares: {{ #expr: ( ( ( 1 - ( 0.00001 * 2.5 * 1.5 ) ) ^2 ) ^5142 ) * ( ( (1 - ( 0.00001 * 2.5 * 1.5 * 1.6 ) ) ^2 ) ^5142) * ( ( ( 1 - ( 0.00001 * 2.5 * 1.5 * 1.6 * 1.3 ) ) ^3 ) ^5142 ) }}
+
+Chance of spawning at least one Petaya on any of those 7 squares within 85.71 minutes:
+{{ #expr: 1 - ( ( ( 1 - ( 0.00001 * 2.5 * 1.5 ) ) ^2 ) ^5142 ) * ( ( (1 - ( 0.00001 * 2.5 * 1.5 * 1.6 ) ) ^2 ) ^5142) * ( ( ( 1 - ( 0.00001 * 2.5 * 1.5 * 1.6 * 1.3 ) ) ^3 ) ^5142 ) }}
+
+Or roughly 89%.</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment>/* Odds of Getting Petaya */</comment>
+    <model>wikitext</model>
+    <parentid>13234</parentid>
+    <sha1>0bf1eb08b29a9f00997e71d6768150a96ff8fdae</sha1>
+  </revision>
+  <revision>
+    <id>13234</id>
+    <timestamp>2021-11-12T03:32:26Z</timestamp>
+    <text bytes="1700" space="preserve">==== Odds of Getting Petaya ====
+
+Here's some math for calculating the odds of getting the Petaya before the first berry wilts.  Someone other than myself, check the math before we decide whether or not to add it to the page.
+
+Important Numbers:
+
+* Base chance of Petaya mutating (Base): 0.00001
+* Max Level Squirebottle Bonus (SB): 2.5
+* Surprise Mulch (SM): 1.5
+* Kebia Bonus (KB) = 1.6
+* Payapa Bonus (PB) = 1.3
+
+* Number of Plots with base bonus: 2
+* Number of Plots with KB: 2
+* Number of Plots with KB and PB: 3
+
+* Time before the first berry wilts (WT) {{ #expr: 30/(0.5*0.7)round2 }} minutes, or {{ #expr: 30/(0.5*0.7)*60round2 }}seconds
+
+Chance of NOT spawning Petaya (no Payapa or Kebia bonus squares) : ( ( ( 1 - ( Base * SB * SM ) ) ^2 ) ^WT ) = {{ #expr: ( ( ( 1 - ( 0.00001 * 2.5 * 1.5 ) ) ^2 ) ^5142) }}
+
+Chance of NOT spawning Petaya (Just Kebia) : ( ( ( 1 - ( Base * SB * SM * KB ) ) ^2 ) ^WT ) = {{ #expr: ( ( (1 - ( 0.00001 * 2.5 * 1.5 * 1.6 ) ) ^2 ) ^5142) }}
+
+Chance of NOT spawning Petaya (Payapa and Kebia bonus squares) : ( ( ( 1 - ( Base * SB * SM * KB * PB ) ) ^3 ) ^WT ) = {{ #expr: ( ( ( 1 - ( 0.00001 * 2.5 * 1.5 * 1.6 * 1.3 ) ) ^3 ) ^5142 ) }}
+
+Chance of NOT spawning Petaya on any of those 7 squares: {{ #expr: ( ( ( 1 - ( 0.00001 * 2.5 * 1.5 ) ) ^2 ) ^5142 ) * ( ( (1 - ( 0.00001 * 2.5 * 1.5 * 1.6 ) ) ^2 ) ^5142) * ( ( ( 1 - ( 0.00001 * 2.5 * 1.5 * 1.6 * 1.3 ) ) ^3 ) ^5142 ) }}
+
+Chance of spawning at least one Petaya on any of those 7 squares within 85.71 minutes:
+{{ #expr: 1 - ( ( ( 1 - ( 0.00001 * 2.5 * 1.5 ) ) ^2 ) ^5142 ) * ( ( (1 - ( 0.00001 * 2.5 * 1.5 * 1.6 ) ) ^2 ) ^5142) * ( ( ( 1 - ( 0.00001 * 2.5 * 1.5 * 1.6 * 1.3 ) ) ^3 ) ^5142 ) }}
+
+Or roughly 89%.</text>
+    <contributor>
+      <username>GarrikFel</username>
+      <id>23</id>
+    </contributor>
+    <comment>Typo, fixed the math</comment>
+    <model>wikitext</model>
+    <parentid>13233</parentid>
+    <sha1>d0583ca3ff400819af10e110ed3f149679b8ac36</sha1>
+  </revision>
+  <revision>
+    <id>13233</id>
+    <timestamp>2021-11-12T01:11:44Z</timestamp>
+    <text bytes="1629" space="preserve">==== Odds of Getting Petaya ====
+
+Here's some math for calculating the odds of getting the Petaya before the first berry wilts.  Someone other than myself, check the math before we decide whether or not to add it to the page.
+
+Important Numbers:
+
+* Base chance of Petaya mutating (Base): 0.00001
+* Max Level Squirebottle Bonus (SB): 2.5
+* Surprise Mulch (SM): 1.5
+* Kebia Bonus (KB) = 1.6
+* Payapa Bonus (PB) = 1.3
+
+* Number of Plots with base bonus: 2
+* Number of Plots with KB: 2
+* Number of Plots with KB and PB: 3
+
+* Time before the first berry wilts (WT) 85.75 minutes, or 5145 seconds
+
+Chance of NOT spawning Petaya (no Payapa or Kebia bonus squares) : ( ( ( 1 - ( Base * SB * SM ) ) ^2 ) ^WT ) = {{ #expr: ( ( ( 1 - ( 0.00001 * 2.5 * 1.5 ) ) ^2 ) ^5145 ) }}
+
+Chance of NOT spawning Petaya (Just Kebia) : ( ( ( 1 - ( Base * SB * SM * KB ) ) ^2 ) ^WT ) = {{ #expr: ( ( (1 - ( 0.00001 * 2.5 * 1.5 * 1.6 ) ) ^2 ) ^5145) }}
+
+Chance of NOT spawning Petaya (Payapa and Kebia bonus squares) : ( ( ( 1 - ( Base * SB * SM * KB * PB ) ) ^3 ) ^WT ) = {{ #expr: ( ( ( 1 - ( 0.00001 * 2.5 * 1.5 * 1.6 * 1.3 ) ) ^3 ) ^5145 ) }}
+
+Chance of NOT spawning Petaya on any of those 7 squares: {{ #expr: ( ( ( 1 - ( 0.00001 * 2.5 * 1.5 ) ) ^2 ) ^5145 ) * ( ( (1 - ( 0.00001 * 2.5 * 1.5 * 1.6 ) ) ^2 ) ^5145) * ( ( ( 1 - ( 0.00001 * 2.5 * 1.5 * 1.6 * 1.3 ) ) ^3 ) ^5145 ) }}
+
+Chance of spawning at least one Petaya on any of those 7 squares within 85.75 minutes:
+{{ #expr: 1 - ( ( ( 1 - ( 0.00001 * 2.5 * 1.5 ) ) ^2 ) ^5145 ) * ( ( (1 - ( 0.00001 * 2.5 * 1.5 * 1.6 ) ) ^2 ) ^5145) * ( ( ( 1 - ( 0.00001 * 2.5 * 1.5 * 1.6 * 1.3 ) ) ^3 ) ^5145 ) }}</text>
+    <contributor>
+      <username>GarrikFel</username>
+      <id>23</id>
+    </contributor>
+    <comment>Petaya Odds</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>21df1a4cca768318f089f17fd7ddae7d9115bbc1</sha1>
+  </revision>
+</page>

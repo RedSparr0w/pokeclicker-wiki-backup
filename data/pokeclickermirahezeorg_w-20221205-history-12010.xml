@@ -1,0 +1,57 @@
+<page>
+  <title>Cornn</title>
+  <ns>0</ns>
+  <id>597</id>
+  <revision>
+    <id>7015</id>
+    <timestamp>2020-12-12T18:14:21Z</timestamp>
+    <text bytes="1379" space="preserve">{{Infobox Berry
+|name    = Cornn
+|image   = [[File:Cornn.png]]
+|caption = Its dryness is quite strong. As a result, its true deliciousness can't be appreciated by just eating one or two.
+|growtime  = 2h 30m 0s
+|harvest = 26 berries
+|replant = 10%
+|points = 700
+|flavor = {{!}} 0 {{!}} 20 {{!}} 10 {{!}} 0 {{!}} 0
+}}
+'''Cornn''' is a type of [[Berries|Berry]] that can be planted in [[Farm]]. It can be obtained by surrounding an empty plot with at least 1 [[Leppa]], at least 1 [[Bluk]] and at least 1 [[Wiki]].
+
+{| class="wikitable"
+|+ Harvest Stages durations
+! Seed !! Sprout !! Taller !! Bloom !! Berry
+|-
+| 0-1100s || 1100-4000s || 4000-8000s || 8000-9000s || 9000-18000s
+|-
+| [[File:AllTreeSeed.png|50px]] || [[File:AllTreeSprout.png|50px]] || [[File:CornnTreeTaller.png|50px]] || [[File:CornnTreeBloom.png|50px]] || [[File:CornnTreeBerry.png|50px]]
+|}
+
+=== Possible Planting Formations ===
+
+You can fill your [[farm]] in following way to obtain Cornn berry.
+
+{| class="wikitable" style="text-align: center;"
+|+ Farm
+|-
+| style="width: 40px;" | || style="width: 40px;" | [[Leppa]] || style="width: 40px;" | || style="width: 40px;" | || style="width: 40px;" | [[Leppa]]
+|-
+| [[Bluk]] || [[Wiki]] ||  || [[Bluk]] || [[Wiki]] 
+|- style="height: 26px;"
+| || || || || 
+|-
+| || [[Leppa]] ||  || || [[Leppa]] 
+|-
+| [[Bluk]] || [[Wiki]] ||  || [[Bluk]] || [[Wiki]] 
+|}
+
+{{Berries}}</text>
+    <contributor>
+      <username>Claygame</username>
+      <id>22</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>7014</parentid>
+    <sha1>b96365d2f45711209e343d5b7a8fabc6a4fc0961</sha1>
+  </revision>
+</page>

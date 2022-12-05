@@ -1,0 +1,533 @@
+<page>
+  <title>Diamonds</title>
+  <ns>0</ns>
+  <id>214</id>
+  <revision>
+    <id>3691</id>
+    <timestamp>2022-06-08T08:11:33Z</timestamp>
+    <text bytes="7576" space="preserve">'''Diamonds''' are currency that can be obtained in the [[Underground]] by selling certain items. They have uses both in and out of the Underground.
+
+[[File:Diamond.svg|thumb|200px|A Diamond]]
+
+=Acquisition=
+To maximize Diamond gain, study the Daily Deals in the [[Underground]] and trade upwards to get items that are worth more. Heart Scales can be sold immediately since there is nothing more valuable (as of 0.5.7).
+
+===Selling [[Underground|Underground Items]]===
+{| class="wikitable sortable"
+|-
+! Item !! Value
+|-
+| [[File:Heart_Scale_Updated.png|16px|Heart Scale]] Heart Scale || style="text-align:right" | 10 {{Diamonds}}
+|-
+| [[File:Odd_Keystone_Updated.png|16px|Odd Keystone]] Odd Keystone || style="text-align:right" | 6 {{Diamonds}}
+|-
+| [[File:Star_Piece_Updated.png|16px|Star Piece]] Star Piece || style="text-align:right" | 5 {{Diamonds}}
+|-
+| [[File:Hard_Stone_Updated.png|16px|Hard Stone]] Hard Stone || style="text-align:right", rowspan = 2 | 4 {{Diamonds}}
+|-
+| [[File:Max_Revive_Updated.png|16px|Max Revive]] Max Revive
+|-
+| [[File:Oval_Stone_Updated.png|16px|Oval Stone]] Oval Stone || style="text-align:right", rowspan = 3 | 3 {{Diamonds}}
+|-
+| [[File:Everstone_Updated.png|16px|Everstone]] Everstone
+|-
+| [[File:Rare_Bone_Updated.png|16px|Rare Bone]] Rare Bone
+|-
+| [[File:Smooth_Rock_Updated.png|16px|Smooth Rock]] Smooth Rock || style="text-align:right", rowspan = 7 | 2 {{Diamonds}}
+|-
+| [[File:Damp_Rock_Updated.png|16px|Damp Rock]] Damp Rock
+|-
+| [[File:Iron_Ball_Updated.png|16px|Iron Ball]] Iron Ball
+|-
+| [[File:Light_Clay_Updated.png|16px|Light Clay]] Light Clay
+|-
+| [[File:Icy_Rock_Updated.png|16px|Icy Rock]] Icy Rock
+|-
+| [[File:Revive_Updated.png|16px|Revive]] Revive
+|-
+| [[File:Heat_Rock_Updated.png|16px|Heat Rock]] Heat Rock
+|}
+
+===Item Drops===
+Some wild Pokémon can be holding an underground item when captured. Due to this, it is possible to acquire underground items for selling from routes. 
+{| class="wikitable sortable collapsible"
+|-
+! Region !! Route !! Item Type(s) !! Rate ({{Diamonds}}/hr)
+|-
+| rowspan=4|[[Johto]] || Route 34 || [[File:Hard_Stone_Updated.png|16px|Hard Stone]] Hard Stone || 0.66
+|-
+| Route 40 || [[File:Hard_Stone_Updated.png|16px|Hard Stone]] Hard Stone || 1.51
+|-
+| Route 45 || [[File:Everstone_Updated.png|16px|Everstone]] Everstone || 1.54
+|-
+| Route 46 || [[File:Everstone_Updated.png|16px|Everstone]] Everstone || 1.31
+|-
+| rowspan=8|[[Hoenn]] || Route 101 || [[File:Revive_Updated.png|16px|Revive]] Revive || 1.74
+|-
+| Route 102 || [[File:Revive_Updated.png|16px|Revive]] Revive || 0.48
+|-
+| Route 103 || [[File:Revive_Updated.png|16px|Revive]] Revive || 0.57
+|-
+| Route 111 || [[File:Everstone_Updated.png|16px|Everstone]] Everstone || 0.88
+|-
+| Route 114 || [[File:Everstone_Updated.png|16px|Everstone]] Everstone || 0.66
+|-
+| Route 118 || [[File:Revive_Updated.png|16px|Revive]] Revive&lt;br&gt;[[File:Max_Revive_Updated.png|16px|Max Revive]] Max Revive || 1.76
+|-
+| Route 119 || [[File:Revive_Updated.png|16px|Revive]] Revive&lt;br&gt;[[File:Max_Revive_Updated.png|16px|Max Revive]] Max Revive || 1.59
+|-
+| Route 128 || [[File:Heart_Scale_Updated.png|16px|Heart Scale]] Heart Scale&lt;br&gt;[[File:Hard_Stone_Updated.png|16px|Hard Stone]] Hard Stone || 5.65
+|-
+| rowspan=10|[[Sinnoh]] || Route 206 || [[File:Everstone_Updated.png|16px|Everstone]] Everstone || 1.13
+|-
+| Route 207 || [[File:Everstone_Updated.png|16px|Everstone]] Everstone || 1.58
+|-
+| Route 210 || [[File:Everstone_Updated.png|16px|Everstone]] Everstone || 0.4
+|-
+| Route 211 || [[File:Hard_Stone_Updated.png|16px|Hard Stone]] Hard Stone || 1.05
+|-
+| Route 214 || [[File:Hard_Stone_Updated.png|16px|Hard Stone]] Hard Stone || 1.53
+|-
+| Route 216 || [[File:Hard_Stone_Updated.png|16px|Hard Stone]] Hard Stone || 1.75
+|-
+| Route 224 || [[File:Heart_Scale_Updated.png|16px|Heart Scale]] Heart Scale || 1.47
+|-
+| Route 225 || [[File:Hard_Stone_Updated.png|16px|Hard Stone]] Hard Stone || 0.75
+|-
+| Route 226 || [[File:Hard_Stone_Updated.png|16px|Hard Stone]] Hard Stone || 0.7
+|-
+| Route 227 || [[File:Hard_Stone_Updated.png|16px|Hard Stone]] Hard Stone || 0.7
+|-
+| rowspan=3|[[Unova]] || Desert Resort || [[File:Rare_Bone_Updated.png|16px|Rare Bone]] Rare Bone || 0.98
+|-
+| Route 18 || [[File:Rare_Bone_Updated.png|16px|Rare Bone]] Rare Bone || 1.13
+|-
+| Route 21 || [[File:Heart_Scale_Updated.png|16px|Heart Scale]] Heart Scale || 6.59
+|-
+| rowspan=4|[[Kalos]] || Route 2 || [[File:Revive_Updated.png|16px|Revive]] Revive || 0.75
+|-
+| Route 8 || [[File:Heart_Scale_Updated.png|16px|Heart Scale]] Heart Scale || 1.75
+|-
+| Azure Bay || [[File:Heart_Scale_Updated.png|16px|Heart Scale]] Heart Scale || 2.63
+|-
+| Route 18 || [[File:Hard_Stone_Updated.png|16px|Hard Stone]] Hard Stone || 2.64
+|-
+|}
+
+=Uses=
+
+=== Mining Upgrades ===
+{| class="wikitable"
+|-
+! Upgrade !! Effect/lvl !! Max Lvl || Cost !! Total Cost !! Max Effect !! Total at Max Lvl
+|-
+| Max Energy || +10 Energy|| 10 || 50*lvl || style="text-align: right;"| 2,750 {{Diamonds}} || +100 Max Energy || 150 Max Energy
+|-
+| Max Items || +1 Item|| 4 || 200*lvl || style="text-align: right;"| 2,000 {{Diamonds}} || +4 Max Items || 7 Max Items (8 with Larger Underground Upgrade)
+|-
+| Min Items || +1 Item|| 4 || 500+1500*lvl || style="text-align: right;"| 11,000 {{Diamonds}} || +4 Min Items || 5 Min Items
+|-
+| Energy Restored || +1 Energy|| 17 || 100*lvl || style="text-align: right;"| 15,300 {{Diamonds}} || +17 Energy Restored || 20 Energy Restored
+|-
+| Energy Regen Time || -1 second || 20 || 20*lvl || style="text-align: right;"| 4,200 {{Diamonds}} || -20 Seconds || 40 Seconds per Restore
+|-
+| Daily Deals || +1 Deal|| 2 || 150*lvl || style="text-align: right;"| 450 {{Diamonds}} || +2 Daily Deals || 5 Daily Deals
+|-
+| Bomb Efficiency || +2 || 5 || 50*lvl || style="text-align: right;"| 750 {{Diamonds}} || +10 Bomb Efficiency || 20 Bomb Efficiency
+|-
+| Survey Cost || -1 || 5 || 50*lvl || style="text-align: right;"| 750 {{Diamonds}} || -5 Survey Cost || Survey Cost 10
+|-
+| Survey Efficiency || +1 || 4 || 100*lvl || style="text-align: right;"| 1000 {{Diamonds}} || +4 Survey Efficiency || 5 Survey Efficiency
+|-
+| Larger Underground, +1 Max Item || +1 || 1 || 3,000 || style="text-align: right;"| 3,000 {{Diamonds}} || +1 Underground Size, +1 Max Items || +1 Underground Size, +1 Max Items
+|}
+
+===[[Masterball|Masterballs]]===
+{| class="wikitable"
+|-
+! Shops available !! Starting price !! Price Increment !! Max Price
+|-
+| [[Shops#Kanto: Locations &amp; Items|Indigo Plateau Kanto]] &lt;br /&gt;[[Shops#Johto: Locations &amp; Items|Indigo Plateau Johto]] &lt;br /&gt;[[Shops#Hoenn: Locations &amp; Items|Pokémon League Hoenn]] &lt;br /&gt;[[Shops#Sinnoh: Locations &amp; Items|Pokémon League Sinnoh]] &lt;br /&gt;[[Shops#Kalos: Locations &amp; Items|Pokémon League Kalos]] &lt;br /&gt;[[Shops#Alola: Locations &amp; Items|Pokémon League Alola]] || style="text-align:right" | 50 {{Diamonds}} || 135% previous price || style="text-align:right" | 5000 {{Diamonds}}
+|}
+
+===Shopmon===
+{| class="wikitable sortable"
+|-
+! Shop !! Token !! Pokémon !! Cost 
+|-
+| [[Shops#Friseur Furfrou|Friseur Furfrou (Kalos)]] || [[File:Furfrou_(Diamond)_Shuffle.png|30px]] || [[File:Furfrou_(Diamond).png|40px]]Furfrou (Diamond) || 15,000 {{Diamonds}}
+|}
+
+=Related Achievements=
+
+{| class="wikitable"
+|-
+! Name !! Requirement !! Income bonus
+|-
+| Bling || style="text-align:right" | Obtain 100 {{Diamonds}} || +0.32%
+|-
+| Bling x10! || style="text-align:right" | Obtain 1000 {{Diamonds}} || +0.97%
+|-
+| If you like it, you should've &lt;br /&gt;put a ring on it. || style="text-align:right" | Obtain 10,000 {{Diamonds}} || +1.61%
+|}
+
+[[Category:Currencies]]</text>
+    <contributor>
+      <username>SwitchRoot</username>
+      <id>24</id>
+    </contributor>
+    <comment>/* Shopmon */</comment>
+    <model>wikitext</model>
+    <parentid>3690</parentid>
+    <sha1>b7d978f87edefaf065cc5558d15283970282df21</sha1>
+  </revision>
+  <revision>
+    <id>3690</id>
+    <timestamp>2022-06-08T04:42:22Z</timestamp>
+    <text bytes="7556" space="preserve">'''Diamonds''' are currency that can be obtained in the [[Underground]] by selling certain items. They have uses both in and out of the Underground.
+
+[[File:Diamond.svg|thumb|200px|A Diamond]]
+
+=Acquisition=
+To maximize Diamond gain, study the Daily Deals in the [[Underground]] and trade upwards to get items that are worth more. Heart Scales can be sold immediately since there is nothing more valuable (as of 0.5.7).
+
+===Selling [[Underground|Underground Items]]===
+{| class="wikitable sortable"
+|-
+! Item !! Value
+|-
+| [[File:Heart_Scale_Updated.png|16px|Heart Scale]] Heart Scale || style="text-align:right" | 10 {{Diamonds}}
+|-
+| [[File:Odd_Keystone_Updated.png|16px|Odd Keystone]] Odd Keystone || style="text-align:right" | 6 {{Diamonds}}
+|-
+| [[File:Star_Piece_Updated.png|16px|Star Piece]] Star Piece || style="text-align:right" | 5 {{Diamonds}}
+|-
+| [[File:Hard_Stone_Updated.png|16px|Hard Stone]] Hard Stone || style="text-align:right", rowspan = 2 | 4 {{Diamonds}}
+|-
+| [[File:Max_Revive_Updated.png|16px|Max Revive]] Max Revive
+|-
+| [[File:Oval_Stone_Updated.png|16px|Oval Stone]] Oval Stone || style="text-align:right", rowspan = 3 | 3 {{Diamonds}}
+|-
+| [[File:Everstone_Updated.png|16px|Everstone]] Everstone
+|-
+| [[File:Rare_Bone_Updated.png|16px|Rare Bone]] Rare Bone
+|-
+| [[File:Smooth_Rock_Updated.png|16px|Smooth Rock]] Smooth Rock || style="text-align:right", rowspan = 7 | 2 {{Diamonds}}
+|-
+| [[File:Damp_Rock_Updated.png|16px|Damp Rock]] Damp Rock
+|-
+| [[File:Iron_Ball_Updated.png|16px|Iron Ball]] Iron Ball
+|-
+| [[File:Light_Clay_Updated.png|16px|Light Clay]] Light Clay
+|-
+| [[File:Icy_Rock_Updated.png|16px|Icy Rock]] Icy Rock
+|-
+| [[File:Revive_Updated.png|16px|Revive]] Revive
+|-
+| [[File:Heat_Rock_Updated.png|16px|Heat Rock]] Heat Rock
+|}
+
+===Item Drops===
+Some wild Pokémon can be holding an underground item when captured. Due to this, it is possible to acquire underground items for selling from routes. 
+{| class="wikitable sortable collapsible"
+|-
+! Region !! Route !! Item Type(s) !! Rate ({{Diamonds}}/hr)
+|-
+| rowspan=4|[[Johto]] || Route 34 || [[File:Hard_Stone_Updated.png|16px|Hard Stone]] Hard Stone || 0.66
+|-
+| Route 40 || [[File:Hard_Stone_Updated.png|16px|Hard Stone]] Hard Stone || 1.51
+|-
+| Route 45 || [[File:Everstone_Updated.png|16px|Everstone]] Everstone || 1.54
+|-
+| Route 46 || [[File:Everstone_Updated.png|16px|Everstone]] Everstone || 1.31
+|-
+| rowspan=8|[[Hoenn]] || Route 101 || [[File:Revive_Updated.png|16px|Revive]] Revive || 1.74
+|-
+| Route 102 || [[File:Revive_Updated.png|16px|Revive]] Revive || 0.48
+|-
+| Route 103 || [[File:Revive_Updated.png|16px|Revive]] Revive || 0.57
+|-
+| Route 111 || [[File:Everstone_Updated.png|16px|Everstone]] Everstone || 0.88
+|-
+| Route 114 || [[File:Everstone_Updated.png|16px|Everstone]] Everstone || 0.66
+|-
+| Route 118 || [[File:Revive_Updated.png|16px|Revive]] Revive&lt;br&gt;[[File:Max_Revive_Updated.png|16px|Max Revive]] Max Revive || 1.76
+|-
+| Route 119 || [[File:Revive_Updated.png|16px|Revive]] Revive&lt;br&gt;[[File:Max_Revive_Updated.png|16px|Max Revive]] Max Revive || 1.59
+|-
+| Route 128 || [[File:Heart_Scale_Updated.png|16px|Heart Scale]] Heart Scale&lt;br&gt;[[File:Hard_Stone_Updated.png|16px|Hard Stone]] Hard Stone || 5.65
+|-
+| rowspan=10|[[Sinnoh]] || Route 206 || [[File:Everstone_Updated.png|16px|Everstone]] Everstone || 1.13
+|-
+| Route 207 || [[File:Everstone_Updated.png|16px|Everstone]] Everstone || 1.58
+|-
+| Route 210 || [[File:Everstone_Updated.png|16px|Everstone]] Everstone || 0.4
+|-
+| Route 211 || [[File:Hard_Stone_Updated.png|16px|Hard Stone]] Hard Stone || 1.05
+|-
+| Route 214 || [[File:Hard_Stone_Updated.png|16px|Hard Stone]] Hard Stone || 1.53
+|-
+| Route 216 || [[File:Hard_Stone_Updated.png|16px|Hard Stone]] Hard Stone || 1.75
+|-
+| Route 224 || [[File:Heart_Scale_Updated.png|16px|Heart Scale]] Heart Scale || 1.47
+|-
+| Route 225 || [[File:Hard_Stone_Updated.png|16px|Hard Stone]] Hard Stone || 0.75
+|-
+| Route 226 || [[File:Hard_Stone_Updated.png|16px|Hard Stone]] Hard Stone || 0.7
+|-
+| Route 227 || [[File:Hard_Stone_Updated.png|16px|Hard Stone]] Hard Stone || 0.7
+|-
+| rowspan=3|[[Unova]] || Desert Resort || [[File:Rare_Bone_Updated.png|16px|Rare Bone]] Rare Bone || 0.98
+|-
+| Route 18 || [[File:Rare_Bone_Updated.png|16px|Rare Bone]] Rare Bone || 1.13
+|-
+| Route 21 || [[File:Heart_Scale_Updated.png|16px|Heart Scale]] Heart Scale || 6.59
+|-
+| rowspan=4|[[Kalos]] || Route 2 || [[File:Revive_Updated.png|16px|Revive]] Revive || 0.75
+|-
+| Route 8 || [[File:Heart_Scale_Updated.png|16px|Heart Scale]] Heart Scale || 1.75
+|-
+| Azure Bay || [[File:Heart_Scale_Updated.png|16px|Heart Scale]] Heart Scale || 2.63
+|-
+| Route 18 || [[File:Hard_Stone_Updated.png|16px|Hard Stone]] Hard Stone || 2.64
+|-
+|}
+
+=Uses=
+
+=== Mining Upgrades ===
+{| class="wikitable"
+|-
+! Upgrade !! Effect/lvl !! Max Lvl || Cost !! Total Cost !! Max Effect !! Total at Max Lvl
+|-
+| Max Energy || +10 Energy|| 10 || 50*lvl || style="text-align: right;"| 2,750 {{Diamonds}} || +100 Max Energy || 150 Max Energy
+|-
+| Max Items || +1 Item|| 4 || 200*lvl || style="text-align: right;"| 2,000 {{Diamonds}} || +4 Max Items || 7 Max Items (8 with Larger Underground Upgrade)
+|-
+| Min Items || +1 Item|| 4 || 500+1500*lvl || style="text-align: right;"| 11,000 {{Diamonds}} || +4 Min Items || 5 Min Items
+|-
+| Energy Restored || +1 Energy|| 17 || 100*lvl || style="text-align: right;"| 15,300 {{Diamonds}} || +17 Energy Restored || 20 Energy Restored
+|-
+| Energy Regen Time || -1 second || 20 || 20*lvl || style="text-align: right;"| 4,200 {{Diamonds}} || -20 Seconds || 40 Seconds per Restore
+|-
+| Daily Deals || +1 Deal|| 2 || 150*lvl || style="text-align: right;"| 450 {{Diamonds}} || +2 Daily Deals || 5 Daily Deals
+|-
+| Bomb Efficiency || +2 || 5 || 50*lvl || style="text-align: right;"| 750 {{Diamonds}} || +10 Bomb Efficiency || 20 Bomb Efficiency
+|-
+| Survey Cost || -1 || 5 || 50*lvl || style="text-align: right;"| 750 {{Diamonds}} || -5 Survey Cost || Survey Cost 10
+|-
+| Survey Efficiency || +1 || 4 || 100*lvl || style="text-align: right;"| 1000 {{Diamonds}} || +4 Survey Efficiency || 5 Survey Efficiency
+|-
+| Larger Underground, +1 Max Item || +1 || 1 || 3,000 || style="text-align: right;"| 3,000 {{Diamonds}} || +1 Underground Size, +1 Max Items || +1 Underground Size, +1 Max Items
+|}
+
+===[[Masterball|Masterballs]]===
+{| class="wikitable"
+|-
+! Shops available !! Starting price !! Price Increment !! Max Price
+|-
+| [[Shops#Kanto: Locations &amp; Items|Indigo Plateau Kanto]] &lt;br /&gt;[[Shops#Johto: Locations &amp; Items|Indigo Plateau Johto]] &lt;br /&gt;[[Shops#Hoenn: Locations &amp; Items|Pokémon League Hoenn]] &lt;br /&gt;[[Shops#Sinnoh: Locations &amp; Items|Pokémon League Sinnoh]] &lt;br /&gt;[[Shops#Kalos: Locations &amp; Items|Pokémon League Kalos]] &lt;br /&gt;[[Shops#Alola: Locations &amp; Items|Pokémon League Alola]] || style="text-align:right" | 50 {{Diamonds}} || 135% previous price || style="text-align:right" | 5000 {{Diamonds}}
+|}
+
+===Shopmon===
+{| class="wikitable sortable"
+|-
+! Item !! Price 
+|-
+| [[Shops#Friseur Furfrou|Friseur Furfrou (Kalos)]] || [[File:Furfrou_(Diamond)_Shuffle.png|30px]] || [[File:Furfrou_(Diamond).png|40px]]Furfrou (Diamond) || 15,000 {{Diamonds}}
+|}
+
+=Related Achievements=
+
+{| class="wikitable"
+|-
+! Name !! Requirement !! Income bonus
+|-
+| Bling || style="text-align:right" | Obtain 100 {{Diamonds}} || +0.32%
+|-
+| Bling x10! || style="text-align:right" | Obtain 1000 {{Diamonds}} || +0.97%
+|-
+| If you like it, you should've &lt;br /&gt;put a ring on it. || style="text-align:right" | Obtain 10,000 {{Diamonds}} || +1.61%
+|}
+
+[[Category:Currencies]]</text>
+    <contributor>
+      <username>SwitchRoot</username>
+      <id>24</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>3689</parentid>
+    <sha1>47e0e919af97b2a6c4c268b0ec43e6c1d5f81251</sha1>
+  </revision>
+  <revision>
+    <id>3689</id>
+    <timestamp>2022-06-06T08:45:50Z</timestamp>
+    <text bytes="7096" space="preserve">'''Diamonds''' are currency that can be obtained in the [[Underground]] by selling certain items. They have uses both in and out of the Underground.
+
+[[File:Diamond.svg|thumb|200px|A Diamond]]
+
+=Acquisition=
+
+To maximize Diamond gain, study the Daily Deals in the [[Underground]] and trade upwards to get items that are worth more. Heart Scales can be sold immediately since there is nothing more valuable (as of 0.5.7).
+
+{| class="wikitable sortable"
+|-
+! Item !! Value
+|-
+| [[File:Heart_Scale_Updated.png|16px|Heart Scale]] Heart Scale || style="text-align:right" | 10 {{Diamonds}}
+|-
+| [[File:Odd_Keystone_Updated.png|16px|Odd Keystone]] Odd Keystone || style="text-align:right" | 6 {{Diamonds}}
+|-
+| [[File:Star_Piece_Updated.png|16px|Star Piece]] Star Piece || style="text-align:right" | 5 {{Diamonds}}
+|-
+| [[File:Hard_Stone_Updated.png|16px|Hard Stone]] Hard Stone || style="text-align:right", rowspan = 2 | 4 {{Diamonds}}
+|-
+| [[File:Max_Revive_Updated.png|16px|Max Revive]] Max Revive
+|-
+| [[File:Oval_Stone_Updated.png|16px|Oval Stone]] Oval Stone || style="text-align:right", rowspan = 3 | 3 {{Diamonds}}
+|-
+| [[File:Everstone_Updated.png|16px|Everstone]] Everstone
+|-
+| [[File:Rare_Bone_Updated.png|16px|Rare Bone]] Rare Bone
+|-
+| [[File:Smooth_Rock_Updated.png|16px|Smooth Rock]] Smooth Rock || style="text-align:right", rowspan = 7 | 2 {{Diamonds}}
+|-
+| [[File:Damp_Rock_Updated.png|16px|Damp Rock]] Damp Rock
+|-
+| [[File:Iron_Ball_Updated.png|16px|Iron Ball]] Iron Ball
+|-
+| [[File:Light_Clay_Updated.png|16px|Light Clay]] Light Clay
+|-
+| [[File:Icy_Rock_Updated.png|16px|Icy Rock]] Icy Rock
+|-
+| [[File:Revive_Updated.png|16px|Revive]] Revive
+|-
+| [[File:Heat_Rock_Updated.png|16px|Heat Rock]] Heat Rock
+|}
+
+==Routes==
+
+{| class="wikitable sortable collapsible"
+|-
+! Region !! Route !! Item Type(s) !! Rate ({{Diamonds}}/hr)
+|-
+| rowspan=4|[[Johto]] || Route 34 || [[File:Hard_Stone_Updated.png|16px|Hard Stone]] Hard Stone || 0.66
+|-
+| Route 40 || [[File:Hard_Stone_Updated.png|16px|Hard Stone]] Hard Stone || 1.51
+|-
+| Route 45 || [[File:Everstone_Updated.png|16px|Everstone]] Everstone || 1.54
+|-
+| Route 46 || [[File:Everstone_Updated.png|16px|Everstone]] Everstone || 1.31
+|-
+| rowspan=8|[[Hoenn]] || Route 101 || [[File:Revive_Updated.png|16px|Revive]] Revive || 1.74
+|-
+| Route 102 || [[File:Revive_Updated.png|16px|Revive]] Revive || 0.48
+|-
+| Route 103 || [[File:Revive_Updated.png|16px|Revive]] Revive || 0.57
+|-
+| Route 111 || [[File:Everstone_Updated.png|16px|Everstone]] Everstone || 0.88
+|-
+| Route 114 || [[File:Everstone_Updated.png|16px|Everstone]] Everstone || 0.66
+|-
+| Route 118 || [[File:Revive_Updated.png|16px|Revive]] Revive&lt;br&gt;[[File:Max_Revive_Updated.png|16px|Max Revive]] Max Revive || 1.76
+|-
+| Route 119 || [[File:Revive_Updated.png|16px|Revive]] Revive&lt;br&gt;[[File:Max_Revive_Updated.png|16px|Max Revive]] Max Revive || 1.59
+|-
+| Route 128 || [[File:Heart_Scale_Updated.png|16px|Heart Scale]] Heart Scale&lt;br&gt;[[File:Hard_Stone_Updated.png|16px|Hard Stone]] Hard Stone || 5.65
+|-
+| rowspan=10|[[Sinnoh]] || Route 206 || [[File:Everstone_Updated.png|16px|Everstone]] Everstone || 1.13
+|-
+| Route 207 || [[File:Everstone_Updated.png|16px|Everstone]] Everstone || 1.58
+|-
+| Route 210 || [[File:Everstone_Updated.png|16px|Everstone]] Everstone || 0.4
+|-
+| Route 211 || [[File:Hard_Stone_Updated.png|16px|Hard Stone]] Hard Stone || 1.05
+|-
+| Route 214 || [[File:Hard_Stone_Updated.png|16px|Hard Stone]] Hard Stone || 1.53
+|-
+| Route 216 || [[File:Hard_Stone_Updated.png|16px|Hard Stone]] Hard Stone || 1.75
+|-
+| Route 224 || [[File:Heart_Scale_Updated.png|16px|Heart Scale]] Heart Scale || 1.47
+|-
+| Route 225 || [[File:Hard_Stone_Updated.png|16px|Hard Stone]] Hard Stone || 0.75
+|-
+| Route 226 || [[File:Hard_Stone_Updated.png|16px|Hard Stone]] Hard Stone || 0.7
+|-
+| Route 227 || [[File:Hard_Stone_Updated.png|16px|Hard Stone]] Hard Stone || 0.7
+|-
+| rowspan=3|[[Unova]] || Desert Resort || [[File:Rare_Bone_Updated.png|16px|Rare Bone]] Rare Bone || 0.98
+|-
+| Route 18 || [[File:Rare_Bone_Updated.png|16px|Rare Bone]] Rare Bone || 1.13
+|-
+| Route 21 || [[File:Heart_Scale_Updated.png|16px|Heart Scale]] Heart Scale || 6.59
+|-
+| rowspan=4|[[Kalos]] || Route 2 || [[File:Revive_Updated.png|16px|Revive]] Revive || 0.75
+|-
+| Route 8 || [[File:Heart_Scale_Updated.png|16px|Heart Scale]] Heart Scale || 1.75
+|-
+| Azure Bay || [[File:Heart_Scale_Updated.png|16px|Heart Scale]] Heart Scale || 2.63
+|-
+| Route 18 || [[File:Hard_Stone_Updated.png|16px|Hard Stone]] Hard Stone || 2.64
+|-
+|}
+
+=== Mining Upgrades ===
+{| class="wikitable"
+|-
+! Upgrade !! Effect/lvl !! Max Lvl || Cost !! Total Cost !! Max Effect !! Total at Max Lvl
+|-
+| Max Energy || +10 Energy|| 10 || 50*lvl || style="text-align: right;"| 2,750 {{Diamonds}} || +100 Max Energy || 150 Max Energy
+|-
+| Max Items || +1 Item|| 4 || 200*lvl || style="text-align: right;"| 2,000 {{Diamonds}} || +4 Max Items || 7 Max Items (8 with Larger Underground Upgrade)
+|-
+| Min Items || +1 Item|| 4 || 500+1500*lvl || style="text-align: right;"| 11,000 {{Diamonds}} || +4 Min Items || 5 Min Items
+|-
+| Energy Restored || +1 Energy|| 17 || 100*lvl || style="text-align: right;"| 15,300 {{Diamonds}} || +17 Energy Restored || 20 Energy Restored
+|-
+| Energy Regen Time || -1 second || 20 || 20*lvl || style="text-align: right;"| 4,200 {{Diamonds}} || -20 Seconds || 40 Seconds per Restore
+|-
+| Daily Deals || +1 Deal|| 2 || 150*lvl || style="text-align: right;"| 450 {{Diamonds}} || +2 Daily Deals || 5 Daily Deals
+|-
+| Bomb Efficiency || +2 || 5 || 50*lvl || style="text-align: right;"| 750 {{Diamonds}} || +10 Bomb Efficiency || 20 Bomb Efficiency
+|-
+| Survey Cost || -1 || 5 || 50*lvl || style="text-align: right;"| 750 {{Diamonds}} || -5 Survey Cost || Survey Cost 10
+|-
+| Survey Efficiency || +1 || 4 || 100*lvl || style="text-align: right;"| 1000 {{Diamonds}} || +4 Survey Efficiency || 5 Survey Efficiency
+|-
+| Larger Underground, +1 Max Item || +1 || 1 || 3,000 || style="text-align: right;"| 3,000 {{Diamonds}} || +1 Underground Size, +1 Max Items || +1 Underground Size, +1 Max Items
+|}
+
+===[[Masterball|Masterballs]]===
+
+{| class="wikitable"
+|-
+! Shops available !! Starting price !! Price Increment !! Max Price
+|-
+| [[Shops#Kanto: Locations &amp; Items|Indigo Plateau Kanto]] &lt;br /&gt;[[Shops#Johto: Locations &amp; Items|Indigo Plateau Johto]] &lt;br /&gt;[[Shops#Hoenn: Locations &amp; Items|Pokémon League Hoenn]] &lt;br /&gt;[[Shops#Sinnoh: Locations &amp; Items|Pokémon League Sinnoh]] &lt;br /&gt;[[Shops#Kalos: Locations &amp; Items|Pokémon League Kalos]] &lt;br /&gt;[[Shops#Alola: Locations &amp; Items|Pokémon League Alola]] || style="text-align:right" | 50 {{Diamonds}} || 135% previous price || style="text-align:right" | 5000 {{Diamonds}}
+|}
+
+=Related Achievements=
+
+{| class="wikitable"
+|-
+! Name !! Requirement !! Income bonus
+|-
+| Bling || style="text-align:right" | Obtain 100 {{Diamonds}} || +0.32%
+|-
+| Bling x10! || style="text-align:right" | Obtain 1000 {{Diamonds}} || +0.97%
+|-
+| If you like it, you should've &lt;br /&gt;put a ring on it. || style="text-align:right" | Obtain 10,000 {{Diamonds}} || +1.61%
+|}
+
+[[Category:Currencies]]</text>
+    <contributor>
+      <username>SwitchRoot</username>
+      <id>24</id>
+    </contributor>
+    <comment>/* Mining Upgrades */</comment>
+    <model>wikitext</model>
+    <parentid>3688</parentid>
+    <sha1>71ef4e8ed7e1e493a0b2cf514f181c4568156b59</sha1>
+  </revision>
+</page>

@@ -1,0 +1,1777 @@
+<page>
+  <title>Razz/fr</title>
+  <ns>0</ns>
+  <id>7966</id>
+  <revision>
+    <id>22511</id>
+    <timestamp>2022-08-09T17:41:49Z</timestamp>
+    <text bytes="4926" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #10 Framby
+|image   = [[File:Razz.png]]
+|caption = Il subsiste un goût épicé dans les granules rouges qui entourent cette Baie. Leur centre a un goût sec.
+|growtime  = 4m 10s
+|harvest = 7 baies
+|replant = 40%
+|mutation = 1.9%
+|points = 15
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*10 épicée
+*10 sèche
+*0 sucrée
+*0 amère
+*0 acide
+}}
+
+'''Framby''' est un type de [[Berry/fr|Baie]] qui peut être plantée dans la [[Farm/fr|Ferme]]. Elle s'obtient en entourant une parcelle vide avec au moins 1 [[Cherry/fr|Ceriz]] et au moins 1 [[Leppa/fr|Mepo]].
+
+== Tables de croissance ==
+=== Stades de croissance ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+!!! Pousse !! Arbuste !! Fleuri !! Mûr
+|-
+! Temps écoulé depuis plantation
+| 1 min 40 secs || 2 mins 30 secs || 3 mins 20 secs || 4 mins 10 secs - 8 mins 20 secs
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:RazzTreeTaller.png|50px]] || &lt;center&gt;[[File:RazzTreeBloom.png|50px]] || &lt;center&gt; [[File:RazzTreeBerry.png|50px]]
+|}
+
+===Temps de croissance avec modificateurs===
+{| class="wikitable collapsible" | style="text-align: center;"
+! Modificateur !! Temps Maturité-Flétrissement
+|-
+! Aucun
+| 4 mins 10 secs -&lt;br&gt; 8 mins 20 secs
+|-
+! Kwakarrosoir
+| 2 mins 47 secs -&lt;br&gt; 5 mins 53 secs
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Flow Chart ==
+[[File:Razz_Flow_Chart.png|200px]]
+&lt;/div&gt;
+
+== Strategie de mutation ==
+=== Formations de plantation possibles ===
+
+Vous pouvez remplir votre ferme de la manière suivante pour obtenir des baies Framby. Les cases violettes indiquent où les mutations peuvent avoir lieu.
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation de base
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Leppa.png|30px]] [[Leppa/fr|Mepo]]
+|}
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation de plantation optimisée
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Leppa.png|30px]] [[Leppa/fr|Mepo]] || style="background-color:#9C7D98;" | ||style="background-color:#9C7D98;" |  || [[File:Leppa.png|30px]] [[Leppa/fr|Mepo]] 
+|- style="height: 50px;"
+| style="background-color:#9C7D98;" | ||style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" |
+|-
+| [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] || style="background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Leppa.png|30px]] [[Leppa/fr|Mepo]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Leppa.png|30px]] [[Leppa/fr|Mepo]] 
+|}
+
+=== Tableau de chronométrage ===
+{| class="wikitable" | style="text-align: center;"
+|-
+|+ ''Tous les temps indiqués sont basés sur le temps restant avant que la première baie plantée n'arrive à maturité''
+! Baie !! Temps de plantation&lt;br&gt;sans modificateur!! Temps de plantation avec &lt;br&gt; Engrais ou Kwakarrosoir || Temps de plantation avec &lt;br&gt; Engrais et Kwakarrosoir
+|-
+| [[Leppa/fr|Mepo]] || - || - || -
+|-
+| [[Cheri/fr|Ceriz]] || 30 secs avant maturité || 20 secs avant maturité || Pas pratique
+|-
+|}
+
+==Utilisations==
+===Mutations===
+
+Les baies Framby peuvent être utilisées pour faire muter les baies suivantes.
+
+{| class="wikitable" | style="text-align: center;"
+|-
+! Utilisée pour !! Plantée avec
+|-
+| [[File:Tamato.png|20px]] [[Tamato/fr|Tamato]] || [[File:Pomeg.png|20px]] [[Pomeg/fr|Grena]]
+|-
+| [[File:Occa.png|20px]] [[Occa/fr|Chocco]] || [[File:Figy.png|20px]] [[Figy/fr|Figuy]] &lt;br&gt; [[File:Tamato.png|20px]] [[Tamato/fr|Tamato]] &lt;br&gt; [[File:Spelon.png|20px]] [[Spelon/fr|Kiwan]]
+|-
+|}
+
+===Appât de la [[Safari Zone/fr|Zone Safari]]===
+
+En tant qu'appât, les baies Framby donnent aux Pokémon de la Zone Safari le statut "en train de manger" pour 2 à 6 tours, et divise les chances de fuite par 1,5 pour le reste de la rencontre à moins qu'un autre type d'appât ne soit utilisé.
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Acquisition==
+===Dungeons===
+{{Loot/head‎|Berries}}
+{{LootItem|Berry Forest|Epic}}
+{{LootItem|Radio Tower|Epic}}
+{{LootItem|New Mauville|Epic}}
+{{LootItem|Eterna Forest|Common}}
+{{LootItem|Wayward Cave|Common}}
+{{LootItem|Dragonspiral Tower|Common}}
+|}
+|}
+&lt;/div&gt;
+
+&lt;br&gt;
+
+{{Berries}}
+
+[[Category:Farm]][[Category:Berries]]</text>
+    <contributor>
+      <username>LeChatMG</username>
+      <id>97</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>22510</parentid>
+    <sha1>8b2a0f5dc83ce291788935c1e9425c495ef6f7f8</sha1>
+  </revision>
+  <revision>
+    <id>22510</id>
+    <timestamp>2022-08-09T17:38:21Z</timestamp>
+    <text bytes="4935" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #10 Framby
+|image   = [[File:Razz.png]]
+|caption = Il subsiste un goût épicé dans les granules rouges qui entourent cette Baie. Leur centre a un goût sec.
+|growtime  = 4m 10s
+|harvest = 7 baies
+|replant = 40%
+|mutation = 1.9%
+|points = 15
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*10 épicée
+*10 sèche
+*0 sucrée
+*0 amère
+*0 acide
+}}
+
+'''Framby''' est un type de [[Berry/fr|Baie]] qui peut être plantée dans la [[Farm/fr|Ferme]]. Elle peut être obtenue en entourant une parcelle vide avec au moins 1 [[Cherry/fr|Ceriz]] et au moins 1 [[Leppa/fr|Mepo]].
+
+== Tables de croissance ==
+=== Stades de croissance ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+!!! Pousse !! Arbuste !! Fleuri !! Mûr
+|-
+! Temps écoulé depuis plantation
+| 1 min 40 secs || 2 mins 30 secs || 3 mins 20 secs || 4 mins 10 secs - 8 mins 20 secs
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:RazzTreeTaller.png|50px]] || &lt;center&gt;[[File:RazzTreeBloom.png|50px]] || &lt;center&gt; [[File:RazzTreeBerry.png|50px]]
+|}
+
+===Temps de croissance avec modificateurs===
+{| class="wikitable collapsible" | style="text-align: center;"
+! Modificateur !! Temps Maturité-Flétrissement
+|-
+! Aucun
+| 4 mins 10 secs -&lt;br&gt; 8 mins 20 secs
+|-
+! Kwakarrosoir
+| 2 mins 47 secs -&lt;br&gt; 5 mins 53 secs
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Flow Chart ==
+[[File:Razz_Flow_Chart.png|200px]]
+&lt;/div&gt;
+
+== Strategie de mutation ==
+=== Formations de plantation possibles ===
+
+Vous pouvez remplir votre ferme de la manière suivante pour obtenir des baies Framby. Les cases violettes indiquent où les mutations peuvent avoir lieu.
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation de base
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Leppa.png|30px]] [[Leppa/fr|Mepo]]
+|}
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation de plantation optimisée
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Leppa.png|30px]] [[Leppa/fr|Mepo]] || style="background-color:#9C7D98;" | ||style="background-color:#9C7D98;" |  || [[File:Leppa.png|30px]] [[Leppa/fr|Mepo]] 
+|- style="height: 50px;"
+| style="background-color:#9C7D98;" | ||style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" |
+|-
+| [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] || style="background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Leppa.png|30px]] [[Leppa/fr|Mepo]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Leppa.png|30px]] [[Leppa/fr|Mepo]] 
+|}
+
+=== Tableau de chronométrage ===
+{| class="wikitable" | style="text-align: center;"
+|-
+|+ ''Tous les temps indiqués sont basés sur le temps restant avant que la première baie plantée n'arrive à maturité''
+! Baie !! Temps de plantation&lt;br&gt;sans modificateur!! Temps de plantation avec &lt;br&gt; Engrais ou Kwakarrosoir || Temps de plantation avec &lt;br&gt; Engrais et Kwakarrosoir
+|-
+| [[Leppa/fr|Mepo]] || - || - || -
+|-
+| [[Cheri/fr|Ceriz]] || 30 secs avant maturité || 20 secs avant maturité || Pas pratique
+|-
+|}
+
+==Utilisations==
+===Mutations===
+
+Les baies Framby peuvent être utilisées pour faire muter les baies suivantes.
+
+{| class="wikitable" | style="text-align: center;"
+|-
+! Utilisée pour !! Plantée avec
+|-
+| [[File:Tamato.png|20px]] [[Tamato/fr|Tamato]] || [[File:Pomeg.png|20px]] [[Pomeg/fr|Grena]]
+|-
+| [[File:Occa.png|20px]] [[Occa/fr|Chocco]] || [[File:Figy.png|20px]] [[Figy/fr|Figuy]] &lt;br&gt; [[File:Tamato.png|20px]] [[Tamato/fr|Tamato]] &lt;br&gt; [[File:Spelon.png|20px]] [[Spelon/fr|Kiwan]]
+|-
+|}
+
+===Appât de la [[Safari Zone/fr|Zone Safari]]===
+
+En tant qu'appât, les baies Framby donnent aux Pokémon de la Zone Safari le statut "en train de manger" pour 2 à 6 tours, et divise les chances de fuite par 1,5 pour le reste de la rencontre à moins qu'un autre type d'appât ne soit utilisé.
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Acquisition==
+===Dungeons===
+{{Loot/head‎|Berries}}
+{{LootItem|Berry Forest|Epic}}
+{{LootItem|Radio Tower|Epic}}
+{{LootItem|New Mauville|Epic}}
+{{LootItem|Eterna Forest|Common}}
+{{LootItem|Wayward Cave|Common}}
+{{LootItem|Dragonspiral Tower|Common}}
+|}
+|}
+&lt;/div&gt;
+
+&lt;br&gt;
+
+{{Berries}}
+
+[[Category:Farm]][[Category:Berries]]</text>
+    <contributor>
+      <username>LeChatMG</username>
+      <id>97</id>
+    </contributor>
+    <comment>Created page with "'''Framby''' est un type de [[Berry/fr|Baie]] qui peut être plantée dans la [[Farm/fr|Ferme]]. Elle peut être obtenue en entourant une parcelle vide avec au moins 1 [[Cherry/fr|Ceriz]] et au moins 1 [[Leppa/fr|Mepo]]."</comment>
+    <model>wikitext</model>
+    <parentid>22509</parentid>
+    <sha1>8581a374dd1208341923493db9d1af3c60ee4426</sha1>
+  </revision>
+  <revision>
+    <id>22509</id>
+    <timestamp>2022-08-09T17:37:57Z</timestamp>
+    <text bytes="4949" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #10 Framby
+|image   = [[File:Razz.png]]
+|caption = Il subsiste un goût épicé dans les granules rouges qui entourent cette Baie. Leur centre a un goût sec.
+|growtime  = 4m 10s
+|harvest = 7 baies
+|replant = 40%
+|mutation = 1.9%
+|points = 15
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*10 épicée
+*10 sèche
+*0 sucrée
+*0 amère
+*0 acide
+}}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+'''Razz''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by surrounding an empty plot with at least 1 [[Cheri]] and at least 1 [[Leppa]].
+&lt;/div&gt;
+
+== Tables de croissance ==
+=== Stades de croissance ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+!!! Pousse !! Arbuste !! Fleuri !! Mûr
+|-
+! Temps écoulé depuis plantation
+| 1 min 40 secs || 2 mins 30 secs || 3 mins 20 secs || 4 mins 10 secs - 8 mins 20 secs
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:RazzTreeTaller.png|50px]] || &lt;center&gt;[[File:RazzTreeBloom.png|50px]] || &lt;center&gt; [[File:RazzTreeBerry.png|50px]]
+|}
+
+===Temps de croissance avec modificateurs===
+{| class="wikitable collapsible" | style="text-align: center;"
+! Modificateur !! Temps Maturité-Flétrissement
+|-
+! Aucun
+| 4 mins 10 secs -&lt;br&gt; 8 mins 20 secs
+|-
+! Kwakarrosoir
+| 2 mins 47 secs -&lt;br&gt; 5 mins 53 secs
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Flow Chart ==
+[[File:Razz_Flow_Chart.png|200px]]
+&lt;/div&gt;
+
+== Strategie de mutation ==
+=== Formations de plantation possibles ===
+
+Vous pouvez remplir votre ferme de la manière suivante pour obtenir des baies Framby. Les cases violettes indiquent où les mutations peuvent avoir lieu.
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation de base
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Leppa.png|30px]] [[Leppa/fr|Mepo]]
+|}
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation de plantation optimisée
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Leppa.png|30px]] [[Leppa/fr|Mepo]] || style="background-color:#9C7D98;" | ||style="background-color:#9C7D98;" |  || [[File:Leppa.png|30px]] [[Leppa/fr|Mepo]] 
+|- style="height: 50px;"
+| style="background-color:#9C7D98;" | ||style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" |
+|-
+| [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] || style="background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Leppa.png|30px]] [[Leppa/fr|Mepo]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Leppa.png|30px]] [[Leppa/fr|Mepo]] 
+|}
+
+=== Tableau de chronométrage ===
+{| class="wikitable" | style="text-align: center;"
+|-
+|+ ''Tous les temps indiqués sont basés sur le temps restant avant que la première baie plantée n'arrive à maturité''
+! Baie !! Temps de plantation&lt;br&gt;sans modificateur!! Temps de plantation avec &lt;br&gt; Engrais ou Kwakarrosoir || Temps de plantation avec &lt;br&gt; Engrais et Kwakarrosoir
+|-
+| [[Leppa/fr|Mepo]] || - || - || -
+|-
+| [[Cheri/fr|Ceriz]] || 30 secs avant maturité || 20 secs avant maturité || Pas pratique
+|-
+|}
+
+==Utilisations==
+===Mutations===
+
+Les baies Framby peuvent être utilisées pour faire muter les baies suivantes.
+
+{| class="wikitable" | style="text-align: center;"
+|-
+! Utilisée pour !! Plantée avec
+|-
+| [[File:Tamato.png|20px]] [[Tamato/fr|Tamato]] || [[File:Pomeg.png|20px]] [[Pomeg/fr|Grena]]
+|-
+| [[File:Occa.png|20px]] [[Occa/fr|Chocco]] || [[File:Figy.png|20px]] [[Figy/fr|Figuy]] &lt;br&gt; [[File:Tamato.png|20px]] [[Tamato/fr|Tamato]] &lt;br&gt; [[File:Spelon.png|20px]] [[Spelon/fr|Kiwan]]
+|-
+|}
+
+===Appât de la [[Safari Zone/fr|Zone Safari]]===
+
+En tant qu'appât, les baies Framby donnent aux Pokémon de la Zone Safari le statut "en train de manger" pour 2 à 6 tours, et divise les chances de fuite par 1,5 pour le reste de la rencontre à moins qu'un autre type d'appât ne soit utilisé.
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Acquisition==
+===Dungeons===
+{{Loot/head‎|Berries}}
+{{LootItem|Berry Forest|Epic}}
+{{LootItem|Radio Tower|Epic}}
+{{LootItem|New Mauville|Epic}}
+{{LootItem|Eterna Forest|Common}}
+{{LootItem|Wayward Cave|Common}}
+{{LootItem|Dragonspiral Tower|Common}}
+|}
+|}
+&lt;/div&gt;
+
+&lt;br&gt;
+
+{{Berries}}
+
+[[Category:Farm]][[Category:Berries]]</text>
+    <contributor>
+      <username>LeChatMG</username>
+      <id>97</id>
+    </contributor>
+    <comment>Created page with "&lt;br&gt;"</comment>
+    <model>wikitext</model>
+    <parentid>22508</parentid>
+    <sha1>cd575dfd872dbc7f84547f2f53cd7b634913d386</sha1>
+  </revision>
+  <revision>
+    <id>22508</id>
+    <timestamp>2022-08-09T17:37:53Z</timestamp>
+    <text bytes="5061" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #10 Framby
+|image   = [[File:Razz.png]]
+|caption = Il subsiste un goût épicé dans les granules rouges qui entourent cette Baie. Leur centre a un goût sec.
+|growtime  = 4m 10s
+|harvest = 7 baies
+|replant = 40%
+|mutation = 1.9%
+|points = 15
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*10 épicée
+*10 sèche
+*0 sucrée
+*0 amère
+*0 acide
+}}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+'''Razz''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by surrounding an empty plot with at least 1 [[Cheri]] and at least 1 [[Leppa]].
+&lt;/div&gt;
+
+== Tables de croissance ==
+=== Stades de croissance ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+!!! Pousse !! Arbuste !! Fleuri !! Mûr
+|-
+! Temps écoulé depuis plantation
+| 1 min 40 secs || 2 mins 30 secs || 3 mins 20 secs || 4 mins 10 secs - 8 mins 20 secs
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:RazzTreeTaller.png|50px]] || &lt;center&gt;[[File:RazzTreeBloom.png|50px]] || &lt;center&gt; [[File:RazzTreeBerry.png|50px]]
+|}
+
+===Temps de croissance avec modificateurs===
+{| class="wikitable collapsible" | style="text-align: center;"
+! Modificateur !! Temps Maturité-Flétrissement
+|-
+! Aucun
+| 4 mins 10 secs -&lt;br&gt; 8 mins 20 secs
+|-
+! Kwakarrosoir
+| 2 mins 47 secs -&lt;br&gt; 5 mins 53 secs
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Flow Chart ==
+[[File:Razz_Flow_Chart.png|200px]]
+&lt;/div&gt;
+
+== Strategie de mutation ==
+=== Formations de plantation possibles ===
+
+Vous pouvez remplir votre ferme de la manière suivante pour obtenir des baies Framby. Les cases violettes indiquent où les mutations peuvent avoir lieu.
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation de base
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Leppa.png|30px]] [[Leppa/fr|Mepo]]
+|}
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation de plantation optimisée
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Leppa.png|30px]] [[Leppa/fr|Mepo]] || style="background-color:#9C7D98;" | ||style="background-color:#9C7D98;" |  || [[File:Leppa.png|30px]] [[Leppa/fr|Mepo]] 
+|- style="height: 50px;"
+| style="background-color:#9C7D98;" | ||style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" |
+|-
+| [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] || style="background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Leppa.png|30px]] [[Leppa/fr|Mepo]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Leppa.png|30px]] [[Leppa/fr|Mepo]] 
+|}
+
+=== Tableau de chronométrage ===
+{| class="wikitable" | style="text-align: center;"
+|-
+|+ ''Tous les temps indiqués sont basés sur le temps restant avant que la première baie plantée n'arrive à maturité''
+! Baie !! Temps de plantation&lt;br&gt;sans modificateur!! Temps de plantation avec &lt;br&gt; Engrais ou Kwakarrosoir || Temps de plantation avec &lt;br&gt; Engrais et Kwakarrosoir
+|-
+| [[Leppa/fr|Mepo]] || - || - || -
+|-
+| [[Cheri/fr|Ceriz]] || 30 secs avant maturité || 20 secs avant maturité || Pas pratique
+|-
+|}
+
+==Utilisations==
+===Mutations===
+
+Les baies Framby peuvent être utilisées pour faire muter les baies suivantes.
+
+{| class="wikitable" | style="text-align: center;"
+|-
+! Utilisée pour !! Plantée avec
+|-
+| [[File:Tamato.png|20px]] [[Tamato/fr|Tamato]] || [[File:Pomeg.png|20px]] [[Pomeg/fr|Grena]]
+|-
+| [[File:Occa.png|20px]] [[Occa/fr|Chocco]] || [[File:Figy.png|20px]] [[Figy/fr|Figuy]] &lt;br&gt; [[File:Tamato.png|20px]] [[Tamato/fr|Tamato]] &lt;br&gt; [[File:Spelon.png|20px]] [[Spelon/fr|Kiwan]]
+|-
+|}
+
+===Appât de la [[Safari Zone/fr|Zone Safari]]===
+
+En tant qu'appât, les baies Framby donnent aux Pokémon de la Zone Safari le statut "en train de manger" pour 2 à 6 tours, et divise les chances de fuite par 1,5 pour le reste de la rencontre à moins qu'un autre type d'appât ne soit utilisé.
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Acquisition==
+===Dungeons===
+{{Loot/head‎|Berries}}
+{{LootItem|Berry Forest|Epic}}
+{{LootItem|Radio Tower|Epic}}
+{{LootItem|New Mauville|Epic}}
+{{LootItem|Eterna Forest|Common}}
+{{LootItem|Wayward Cave|Common}}
+{{LootItem|Dragonspiral Tower|Common}}
+|}
+|}
+&lt;/div&gt;
+
+&lt;br&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>LeChatMG</username>
+      <id>97</id>
+    </contributor>
+    <comment>Created page with "En tant qu'appât, les baies Framby donnent aux Pokémon de la Zone Safari le statut "en train de manger" pour 2 à 6 tours, et divise les chances de fuite par 1,5 pour le reste de la rencontre à moins qu'un autre type d'appât ne soit utilisé."</comment>
+    <model>wikitext</model>
+    <parentid>22507</parentid>
+    <sha1>1181e1c16bd04953c7c5427e8455d552f8ba0ddb</sha1>
+  </revision>
+  <revision>
+    <id>22507</id>
+    <timestamp>2022-08-09T17:35:58Z</timestamp>
+    <text bytes="5124" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #10 Framby
+|image   = [[File:Razz.png]]
+|caption = Il subsiste un goût épicé dans les granules rouges qui entourent cette Baie. Leur centre a un goût sec.
+|growtime  = 4m 10s
+|harvest = 7 baies
+|replant = 40%
+|mutation = 1.9%
+|points = 15
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*10 épicée
+*10 sèche
+*0 sucrée
+*0 amère
+*0 acide
+}}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+'''Razz''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by surrounding an empty plot with at least 1 [[Cheri]] and at least 1 [[Leppa]].
+&lt;/div&gt;
+
+== Tables de croissance ==
+=== Stades de croissance ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+!!! Pousse !! Arbuste !! Fleuri !! Mûr
+|-
+! Temps écoulé depuis plantation
+| 1 min 40 secs || 2 mins 30 secs || 3 mins 20 secs || 4 mins 10 secs - 8 mins 20 secs
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:RazzTreeTaller.png|50px]] || &lt;center&gt;[[File:RazzTreeBloom.png|50px]] || &lt;center&gt; [[File:RazzTreeBerry.png|50px]]
+|}
+
+===Temps de croissance avec modificateurs===
+{| class="wikitable collapsible" | style="text-align: center;"
+! Modificateur !! Temps Maturité-Flétrissement
+|-
+! Aucun
+| 4 mins 10 secs -&lt;br&gt; 8 mins 20 secs
+|-
+! Kwakarrosoir
+| 2 mins 47 secs -&lt;br&gt; 5 mins 53 secs
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Flow Chart ==
+[[File:Razz_Flow_Chart.png|200px]]
+&lt;/div&gt;
+
+== Strategie de mutation ==
+=== Formations de plantation possibles ===
+
+Vous pouvez remplir votre ferme de la manière suivante pour obtenir des baies Framby. Les cases violettes indiquent où les mutations peuvent avoir lieu.
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation de base
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Leppa.png|30px]] [[Leppa/fr|Mepo]]
+|}
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation de plantation optimisée
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Leppa.png|30px]] [[Leppa/fr|Mepo]] || style="background-color:#9C7D98;" | ||style="background-color:#9C7D98;" |  || [[File:Leppa.png|30px]] [[Leppa/fr|Mepo]] 
+|- style="height: 50px;"
+| style="background-color:#9C7D98;" | ||style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" |
+|-
+| [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] || style="background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Leppa.png|30px]] [[Leppa/fr|Mepo]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Leppa.png|30px]] [[Leppa/fr|Mepo]] 
+|}
+
+=== Tableau de chronométrage ===
+{| class="wikitable" | style="text-align: center;"
+|-
+|+ ''Tous les temps indiqués sont basés sur le temps restant avant que la première baie plantée n'arrive à maturité''
+! Baie !! Temps de plantation&lt;br&gt;sans modificateur!! Temps de plantation avec &lt;br&gt; Engrais ou Kwakarrosoir || Temps de plantation avec &lt;br&gt; Engrais et Kwakarrosoir
+|-
+| [[Leppa/fr|Mepo]] || - || - || -
+|-
+| [[Cheri/fr|Ceriz]] || 30 secs avant maturité || 20 secs avant maturité || Pas pratique
+|-
+|}
+
+==Utilisations==
+===Mutations===
+
+Les baies Framby peuvent être utilisées pour faire muter les baies suivantes.
+
+{| class="wikitable" | style="text-align: center;"
+|-
+! Utilisée pour !! Plantée avec
+|-
+| [[File:Tamato.png|20px]] [[Tamato/fr|Tamato]] || [[File:Pomeg.png|20px]] [[Pomeg/fr|Grena]]
+|-
+| [[File:Occa.png|20px]] [[Occa/fr|Chocco]] || [[File:Figy.png|20px]] [[Figy/fr|Figuy]] &lt;br&gt; [[File:Tamato.png|20px]] [[Tamato/fr|Tamato]] &lt;br&gt; [[File:Spelon.png|20px]] [[Spelon/fr|Kiwan]]
+|-
+|}
+
+===Appât de la [[Safari Zone/fr|Zone Safari]]===
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+As a type of bait, Razz berries give Pokémon in the Safari Zone "eating" status for 2 - 6 turns, and divides escape chance by 1.5 for the rest of the encounter unless another type of bait is used.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Acquisition==
+===Dungeons===
+{{Loot/head‎|Berries}}
+{{LootItem|Berry Forest|Epic}}
+{{LootItem|Radio Tower|Epic}}
+{{LootItem|New Mauville|Epic}}
+{{LootItem|Eterna Forest|Common}}
+{{LootItem|Wayward Cave|Common}}
+{{LootItem|Dragonspiral Tower|Common}}
+|}
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>LeChatMG</username>
+      <id>97</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>22506</parentid>
+    <sha1>49338cf2f38e7daaf8bab91c382fe43a94b36536</sha1>
+  </revision>
+  <revision>
+    <id>22506</id>
+    <timestamp>2022-08-09T17:35:21Z</timestamp>
+    <text bytes="5109" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #10 Framby
+|image   = [[File:Razz.png]]
+|caption = Il subsiste un goût épicé dans les granules rouges qui entourent cette Baie. Leur centre a un goût sec.
+|growtime  = 4m 10s
+|harvest = 7 baies
+|replant = 40%
+|mutation = 1.9%
+|points = 15
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*10 épicée
+*10 sèche
+*0 sucrée
+*0 amère
+*0 acide
+}}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+'''Razz''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by surrounding an empty plot with at least 1 [[Cheri]] and at least 1 [[Leppa]].
+&lt;/div&gt;
+
+== Tables de croissance ==
+=== Stades de croissance ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+!!! Pousse !! Arbuste !! Fleuri !! Mûr
+|-
+! Temps écoulé depuis plantation
+| 1 min 40 secs || 2 mins 30 secs || 3 mins 20 secs || 4 mins 10 secs - 8 mins 20 secs
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:RazzTreeTaller.png|50px]] || &lt;center&gt;[[File:RazzTreeBloom.png|50px]] || &lt;center&gt; [[File:RazzTreeBerry.png|50px]]
+|}
+
+===Temps de croissance avec modificateurs===
+{| class="wikitable collapsible" | style="text-align: center;"
+! Modificateur !! Temps Maturité-Flétrissement
+|-
+! Aucun
+| 4 mins 10 secs -&lt;br&gt; 8 mins 20 secs
+|-
+! Kwakarrosoir
+| 2 mins 47 secs -&lt;br&gt; 5 mins 53 secs
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Flow Chart ==
+[[File:Razz_Flow_Chart.png|200px]]
+&lt;/div&gt;
+
+== Strategie de mutation ==
+=== Formations de plantation possibles ===
+
+Vous pouvez remplir votre ferme de la manière suivante pour obtenir des baies Framby. Les cases violettes indiquent où les mutations peuvent avoir lieu.
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation de base
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Leppa.png|30px]] [[Leppa/fr|Mepo]]
+|}
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation de plantation optimisée
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Leppa.png|30px]] [[Leppa/fr|Mepo]] || style="background-color:#9C7D98;" | ||style="background-color:#9C7D98;" |  || [[File:Leppa.png|30px]] [[Leppa/fr|Mepo]] 
+|- style="height: 50px;"
+| style="background-color:#9C7D98;" | ||style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" |
+|-
+| [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] || style="background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Leppa.png|30px]] [[Leppa/fr|Mepo]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Leppa.png|30px]] [[Leppa/fr|Mepo]] 
+|}
+
+=== Tableau de chronométrage ===
+{| class="wikitable" | style="text-align: center;"
+|-
+|+ ''Tous les temps indiqués sont basés sur le temps restant avant que la première baie plantée n'arrive à maturité''
+! Baie !! Temps de plantation&lt;br&gt;sans modificateur!! Temps de plantation avec &lt;br&gt; Engrais ou Kwakarrosoir || Temps de plantation avec &lt;br&gt; Engrais et Kwakarrosoir
+|-
+| [[Leppa/fr|Mepo]] || - || - || -
+|-
+| [[Cheri/fr|Ceriz]] || 30 secs avant maturité || 20 secs avant maturité || Pas pratique
+|-
+|}
+
+==Utilisations==
+===Mutations===
+
+Les baies Framby peuvent être utilisées pour faire muter les baies suivantes.
+
+{| class="wikitable" | style="text-align: center;"
+|-
+! Utilisée pour !! Plantée avec
+|-
+| [[File:Tamato.png|20px]] [[Tamato/fr|Tamato]] || [[File:Pomeg.png|20px]] [[Pomeg/fr|Grena]]
+|-
+| [[File:Occa.png|20px]] [[Occa/fr|Chocco]] || [[File:Figy.png|20px]] [[Figy/fr|Figuy]] &lt;br&gt; [[File:Tamato.png|20px]] [[Tamato/fr|Tamato]] &lt;br&gt; [[File:Spelon.png|20px]] [[Spelon/fr|Kiwan]]
+|-
+|}
+
+===Appât de la [[Safari Zone]]===
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+As a type of bait, Razz berries give Pokémon in the Safari Zone "eating" status for 2 - 6 turns, and divides escape chance by 1.5 for the rest of the encounter unless another type of bait is used.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Acquisition==
+===Dungeons===
+{{Loot/head‎|Berries}}
+{{LootItem|Berry Forest|Epic}}
+{{LootItem|Radio Tower|Epic}}
+{{LootItem|New Mauville|Epic}}
+{{LootItem|Eterna Forest|Common}}
+{{LootItem|Wayward Cave|Common}}
+{{LootItem|Dragonspiral Tower|Common}}
+|}
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>LeChatMG</username>
+      <id>97</id>
+    </contributor>
+    <comment>Created page with "===Appât de la [[Safari Zone]]==="</comment>
+    <model>wikitext</model>
+    <parentid>22505</parentid>
+    <sha1>50bd258798585fcbe27398dfe0ac00c34a602c1d</sha1>
+  </revision>
+  <revision>
+    <id>22505</id>
+    <timestamp>2022-08-09T17:34:59Z</timestamp>
+    <text bytes="5157" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #10 Framby
+|image   = [[File:Razz.png]]
+|caption = Il subsiste un goût épicé dans les granules rouges qui entourent cette Baie. Leur centre a un goût sec.
+|growtime  = 4m 10s
+|harvest = 7 baies
+|replant = 40%
+|mutation = 1.9%
+|points = 15
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*10 épicée
+*10 sèche
+*0 sucrée
+*0 amère
+*0 acide
+}}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+'''Razz''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by surrounding an empty plot with at least 1 [[Cheri]] and at least 1 [[Leppa]].
+&lt;/div&gt;
+
+== Tables de croissance ==
+=== Stades de croissance ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+!!! Pousse !! Arbuste !! Fleuri !! Mûr
+|-
+! Temps écoulé depuis plantation
+| 1 min 40 secs || 2 mins 30 secs || 3 mins 20 secs || 4 mins 10 secs - 8 mins 20 secs
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:RazzTreeTaller.png|50px]] || &lt;center&gt;[[File:RazzTreeBloom.png|50px]] || &lt;center&gt; [[File:RazzTreeBerry.png|50px]]
+|}
+
+===Temps de croissance avec modificateurs===
+{| class="wikitable collapsible" | style="text-align: center;"
+! Modificateur !! Temps Maturité-Flétrissement
+|-
+! Aucun
+| 4 mins 10 secs -&lt;br&gt; 8 mins 20 secs
+|-
+! Kwakarrosoir
+| 2 mins 47 secs -&lt;br&gt; 5 mins 53 secs
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Flow Chart ==
+[[File:Razz_Flow_Chart.png|200px]]
+&lt;/div&gt;
+
+== Strategie de mutation ==
+=== Formations de plantation possibles ===
+
+Vous pouvez remplir votre ferme de la manière suivante pour obtenir des baies Framby. Les cases violettes indiquent où les mutations peuvent avoir lieu.
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation de base
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Leppa.png|30px]] [[Leppa/fr|Mepo]]
+|}
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation de plantation optimisée
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Leppa.png|30px]] [[Leppa/fr|Mepo]] || style="background-color:#9C7D98;" | ||style="background-color:#9C7D98;" |  || [[File:Leppa.png|30px]] [[Leppa/fr|Mepo]] 
+|- style="height: 50px;"
+| style="background-color:#9C7D98;" | ||style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" |
+|-
+| [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] || style="background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Leppa.png|30px]] [[Leppa/fr|Mepo]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Leppa.png|30px]] [[Leppa/fr|Mepo]] 
+|}
+
+=== Tableau de chronométrage ===
+{| class="wikitable" | style="text-align: center;"
+|-
+|+ ''Tous les temps indiqués sont basés sur le temps restant avant que la première baie plantée n'arrive à maturité''
+! Baie !! Temps de plantation&lt;br&gt;sans modificateur!! Temps de plantation avec &lt;br&gt; Engrais ou Kwakarrosoir || Temps de plantation avec &lt;br&gt; Engrais et Kwakarrosoir
+|-
+| [[Leppa/fr|Mepo]] || - || - || -
+|-
+| [[Cheri/fr|Ceriz]] || 30 secs avant maturité || 20 secs avant maturité || Pas pratique
+|-
+|}
+
+==Utilisations==
+===Mutations===
+
+Les baies Framby peuvent être utilisées pour faire muter les baies suivantes.
+
+{| class="wikitable" | style="text-align: center;"
+|-
+! Utilisée pour !! Plantée avec
+|-
+| [[File:Tamato.png|20px]] [[Tamato/fr|Tamato]] || [[File:Pomeg.png|20px]] [[Pomeg/fr|Grena]]
+|-
+| [[File:Occa.png|20px]] [[Occa/fr|Chocco]] || [[File:Figy.png|20px]] [[Figy/fr|Figuy]] &lt;br&gt; [[File:Tamato.png|20px]] [[Tamato/fr|Tamato]] &lt;br&gt; [[File:Spelon.png|20px]] [[Spelon/fr|Kiwan]]
+|-
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+===[[Safari Zone]] bait===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+As a type of bait, Razz berries give Pokémon in the Safari Zone "eating" status for 2 - 6 turns, and divides escape chance by 1.5 for the rest of the encounter unless another type of bait is used.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Acquisition==
+===Dungeons===
+{{Loot/head‎|Berries}}
+{{LootItem|Berry Forest|Epic}}
+{{LootItem|Radio Tower|Epic}}
+{{LootItem|New Mauville|Epic}}
+{{LootItem|Eterna Forest|Common}}
+{{LootItem|Wayward Cave|Common}}
+{{LootItem|Dragonspiral Tower|Common}}
+|}
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>LeChatMG</username>
+      <id>97</id>
+    </contributor>
+    <comment>Created page with "{| class="wikitable" | style="text-align: center;" |- ! Utilisée pour !! Plantée avec |- | [[File:Tamato.png|20px]] [[Tamato/fr|Tamato]] || [[File:Pomeg.png|20px]] [[Pomeg/fr|Grena]] |- | [[File:Occa.png|20px]] [[Occa/fr|Chocco]] || [[File:Figy.png|20px]] [[Figy/fr|Figuy]] &lt;br&gt; [[File:Tamato.png|20px]] [[Tamato/fr|Tamato]] &lt;br&gt; [[File:Spelon.png|20px]] [[Spelon/fr|Kiwan]] |- |}"</comment>
+    <model>wikitext</model>
+    <parentid>22504</parentid>
+    <sha1>2d636b4e05dd5eabb4b976834929e26d413f7c1c</sha1>
+  </revision>
+  <revision>
+    <id>22504</id>
+    <timestamp>2022-08-09T17:33:17Z</timestamp>
+    <text bytes="5140" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #10 Framby
+|image   = [[File:Razz.png]]
+|caption = Il subsiste un goût épicé dans les granules rouges qui entourent cette Baie. Leur centre a un goût sec.
+|growtime  = 4m 10s
+|harvest = 7 baies
+|replant = 40%
+|mutation = 1.9%
+|points = 15
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*10 épicée
+*10 sèche
+*0 sucrée
+*0 amère
+*0 acide
+}}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+'''Razz''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by surrounding an empty plot with at least 1 [[Cheri]] and at least 1 [[Leppa]].
+&lt;/div&gt;
+
+== Tables de croissance ==
+=== Stades de croissance ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+!!! Pousse !! Arbuste !! Fleuri !! Mûr
+|-
+! Temps écoulé depuis plantation
+| 1 min 40 secs || 2 mins 30 secs || 3 mins 20 secs || 4 mins 10 secs - 8 mins 20 secs
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:RazzTreeTaller.png|50px]] || &lt;center&gt;[[File:RazzTreeBloom.png|50px]] || &lt;center&gt; [[File:RazzTreeBerry.png|50px]]
+|}
+
+===Temps de croissance avec modificateurs===
+{| class="wikitable collapsible" | style="text-align: center;"
+! Modificateur !! Temps Maturité-Flétrissement
+|-
+! Aucun
+| 4 mins 10 secs -&lt;br&gt; 8 mins 20 secs
+|-
+! Kwakarrosoir
+| 2 mins 47 secs -&lt;br&gt; 5 mins 53 secs
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Flow Chart ==
+[[File:Razz_Flow_Chart.png|200px]]
+&lt;/div&gt;
+
+== Strategie de mutation ==
+=== Formations de plantation possibles ===
+
+Vous pouvez remplir votre ferme de la manière suivante pour obtenir des baies Framby. Les cases violettes indiquent où les mutations peuvent avoir lieu.
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation de base
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Leppa.png|30px]] [[Leppa/fr|Mepo]]
+|}
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation de plantation optimisée
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Leppa.png|30px]] [[Leppa/fr|Mepo]] || style="background-color:#9C7D98;" | ||style="background-color:#9C7D98;" |  || [[File:Leppa.png|30px]] [[Leppa/fr|Mepo]] 
+|- style="height: 50px;"
+| style="background-color:#9C7D98;" | ||style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" |
+|-
+| [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] || style="background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Leppa.png|30px]] [[Leppa/fr|Mepo]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Leppa.png|30px]] [[Leppa/fr|Mepo]] 
+|}
+
+=== Tableau de chronométrage ===
+{| class="wikitable" | style="text-align: center;"
+|-
+|+ ''Tous les temps indiqués sont basés sur le temps restant avant que la première baie plantée n'arrive à maturité''
+! Baie !! Temps de plantation&lt;br&gt;sans modificateur!! Temps de plantation avec &lt;br&gt; Engrais ou Kwakarrosoir || Temps de plantation avec &lt;br&gt; Engrais et Kwakarrosoir
+|-
+| [[Leppa/fr|Mepo]] || - || - || -
+|-
+| [[Cheri/fr|Ceriz]] || 30 secs avant maturité || 20 secs avant maturité || Pas pratique
+|-
+|}
+
+==Utilisations==
+===Mutations===
+
+Les baies Framby peuvent être utilisées pour faire muter les baies suivantes.
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Tamato.png|20px]] [[Tamato]] || [[File:Pomeg.png|20px]] [[Pomeg]]
+|-
+| [[File:Occa.png|20px]] [[Occa]] || [[File:Figy.png|20px]] [[Figy]] &lt;br&gt; [[File:Tamato.png|20px]] [[Tamato]] &lt;br&gt; [[File:Spelon.png|20px]] [[Spelon]]
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+===[[Safari Zone]] bait===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+As a type of bait, Razz berries give Pokémon in the Safari Zone "eating" status for 2 - 6 turns, and divides escape chance by 1.5 for the rest of the encounter unless another type of bait is used.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Acquisition==
+===Dungeons===
+{{Loot/head‎|Berries}}
+{{LootItem|Berry Forest|Epic}}
+{{LootItem|Radio Tower|Epic}}
+{{LootItem|New Mauville|Epic}}
+{{LootItem|Eterna Forest|Common}}
+{{LootItem|Wayward Cave|Common}}
+{{LootItem|Dragonspiral Tower|Common}}
+|}
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>LeChatMG</username>
+      <id>97</id>
+    </contributor>
+    <comment>Created page with "Les baies Framby peuvent être utilisées pour faire muter les baies suivantes."</comment>
+    <model>wikitext</model>
+    <parentid>22503</parentid>
+    <sha1>228880375e1e75ce2c01bd67bf359a981459295f</sha1>
+  </revision>
+  <revision>
+    <id>22503</id>
+    <timestamp>2022-08-09T17:33:06Z</timestamp>
+    <text bytes="5174" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #10 Framby
+|image   = [[File:Razz.png]]
+|caption = Il subsiste un goût épicé dans les granules rouges qui entourent cette Baie. Leur centre a un goût sec.
+|growtime  = 4m 10s
+|harvest = 7 baies
+|replant = 40%
+|mutation = 1.9%
+|points = 15
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*10 épicée
+*10 sèche
+*0 sucrée
+*0 amère
+*0 acide
+}}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+'''Razz''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by surrounding an empty plot with at least 1 [[Cheri]] and at least 1 [[Leppa]].
+&lt;/div&gt;
+
+== Tables de croissance ==
+=== Stades de croissance ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+!!! Pousse !! Arbuste !! Fleuri !! Mûr
+|-
+! Temps écoulé depuis plantation
+| 1 min 40 secs || 2 mins 30 secs || 3 mins 20 secs || 4 mins 10 secs - 8 mins 20 secs
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:RazzTreeTaller.png|50px]] || &lt;center&gt;[[File:RazzTreeBloom.png|50px]] || &lt;center&gt; [[File:RazzTreeBerry.png|50px]]
+|}
+
+===Temps de croissance avec modificateurs===
+{| class="wikitable collapsible" | style="text-align: center;"
+! Modificateur !! Temps Maturité-Flétrissement
+|-
+! Aucun
+| 4 mins 10 secs -&lt;br&gt; 8 mins 20 secs
+|-
+! Kwakarrosoir
+| 2 mins 47 secs -&lt;br&gt; 5 mins 53 secs
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Flow Chart ==
+[[File:Razz_Flow_Chart.png|200px]]
+&lt;/div&gt;
+
+== Strategie de mutation ==
+=== Formations de plantation possibles ===
+
+Vous pouvez remplir votre ferme de la manière suivante pour obtenir des baies Framby. Les cases violettes indiquent où les mutations peuvent avoir lieu.
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation de base
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Leppa.png|30px]] [[Leppa/fr|Mepo]]
+|}
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation de plantation optimisée
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Leppa.png|30px]] [[Leppa/fr|Mepo]] || style="background-color:#9C7D98;" | ||style="background-color:#9C7D98;" |  || [[File:Leppa.png|30px]] [[Leppa/fr|Mepo]] 
+|- style="height: 50px;"
+| style="background-color:#9C7D98;" | ||style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" |
+|-
+| [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] || style="background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Leppa.png|30px]] [[Leppa/fr|Mepo]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Leppa.png|30px]] [[Leppa/fr|Mepo]] 
+|}
+
+=== Tableau de chronométrage ===
+{| class="wikitable" | style="text-align: center;"
+|-
+|+ ''Tous les temps indiqués sont basés sur le temps restant avant que la première baie plantée n'arrive à maturité''
+! Baie !! Temps de plantation&lt;br&gt;sans modificateur!! Temps de plantation avec &lt;br&gt; Engrais ou Kwakarrosoir || Temps de plantation avec &lt;br&gt; Engrais et Kwakarrosoir
+|-
+| [[Leppa/fr|Mepo]] || - || - || -
+|-
+| [[Cheri/fr|Ceriz]] || 30 secs avant maturité || 20 secs avant maturité || Pas pratique
+|-
+|}
+
+==Utilisations==
+===Mutations===
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Razz berries can be used to mutate the following berries.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Tamato.png|20px]] [[Tamato]] || [[File:Pomeg.png|20px]] [[Pomeg]]
+|-
+| [[File:Occa.png|20px]] [[Occa]] || [[File:Figy.png|20px]] [[Figy]] &lt;br&gt; [[File:Tamato.png|20px]] [[Tamato]] &lt;br&gt; [[File:Spelon.png|20px]] [[Spelon]]
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+===[[Safari Zone]] bait===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+As a type of bait, Razz berries give Pokémon in the Safari Zone "eating" status for 2 - 6 turns, and divides escape chance by 1.5 for the rest of the encounter unless another type of bait is used.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Acquisition==
+===Dungeons===
+{{Loot/head‎|Berries}}
+{{LootItem|Berry Forest|Epic}}
+{{LootItem|Radio Tower|Epic}}
+{{LootItem|New Mauville|Epic}}
+{{LootItem|Eterna Forest|Common}}
+{{LootItem|Wayward Cave|Common}}
+{{LootItem|Dragonspiral Tower|Common}}
+|}
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>LeChatMG</username>
+      <id>97</id>
+    </contributor>
+    <comment>Created page with "==Utilisations== ===Mutations==="</comment>
+    <model>wikitext</model>
+    <parentid>22502</parentid>
+    <sha1>20040a8e93895c404c4975cb05c10f53ec34761a</sha1>
+  </revision>
+  <revision>
+    <id>22502</id>
+    <timestamp>2022-08-09T17:32:53Z</timestamp>
+    <text bytes="5222" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #10 Framby
+|image   = [[File:Razz.png]]
+|caption = Il subsiste un goût épicé dans les granules rouges qui entourent cette Baie. Leur centre a un goût sec.
+|growtime  = 4m 10s
+|harvest = 7 baies
+|replant = 40%
+|mutation = 1.9%
+|points = 15
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*10 épicée
+*10 sèche
+*0 sucrée
+*0 amère
+*0 acide
+}}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+'''Razz''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by surrounding an empty plot with at least 1 [[Cheri]] and at least 1 [[Leppa]].
+&lt;/div&gt;
+
+== Tables de croissance ==
+=== Stades de croissance ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+!!! Pousse !! Arbuste !! Fleuri !! Mûr
+|-
+! Temps écoulé depuis plantation
+| 1 min 40 secs || 2 mins 30 secs || 3 mins 20 secs || 4 mins 10 secs - 8 mins 20 secs
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:RazzTreeTaller.png|50px]] || &lt;center&gt;[[File:RazzTreeBloom.png|50px]] || &lt;center&gt; [[File:RazzTreeBerry.png|50px]]
+|}
+
+===Temps de croissance avec modificateurs===
+{| class="wikitable collapsible" | style="text-align: center;"
+! Modificateur !! Temps Maturité-Flétrissement
+|-
+! Aucun
+| 4 mins 10 secs -&lt;br&gt; 8 mins 20 secs
+|-
+! Kwakarrosoir
+| 2 mins 47 secs -&lt;br&gt; 5 mins 53 secs
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Flow Chart ==
+[[File:Razz_Flow_Chart.png|200px]]
+&lt;/div&gt;
+
+== Strategie de mutation ==
+=== Formations de plantation possibles ===
+
+Vous pouvez remplir votre ferme de la manière suivante pour obtenir des baies Framby. Les cases violettes indiquent où les mutations peuvent avoir lieu.
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation de base
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Leppa.png|30px]] [[Leppa/fr|Mepo]]
+|}
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation de plantation optimisée
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Leppa.png|30px]] [[Leppa/fr|Mepo]] || style="background-color:#9C7D98;" | ||style="background-color:#9C7D98;" |  || [[File:Leppa.png|30px]] [[Leppa/fr|Mepo]] 
+|- style="height: 50px;"
+| style="background-color:#9C7D98;" | ||style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" |
+|-
+| [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] || style="background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Leppa.png|30px]] [[Leppa/fr|Mepo]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Leppa.png|30px]] [[Leppa/fr|Mepo]] 
+|}
+
+=== Tableau de chronométrage ===
+{| class="wikitable" | style="text-align: center;"
+|-
+|+ ''Tous les temps indiqués sont basés sur le temps restant avant que la première baie plantée n'arrive à maturité''
+! Baie !! Temps de plantation&lt;br&gt;sans modificateur!! Temps de plantation avec &lt;br&gt; Engrais ou Kwakarrosoir || Temps de plantation avec &lt;br&gt; Engrais et Kwakarrosoir
+|-
+| [[Leppa/fr|Mepo]] || - || - || -
+|-
+| [[Cheri/fr|Ceriz]] || 30 secs avant maturité || 20 secs avant maturité || Pas pratique
+|-
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Uses==
+===Mutations===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Razz berries can be used to mutate the following berries.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Tamato.png|20px]] [[Tamato]] || [[File:Pomeg.png|20px]] [[Pomeg]]
+|-
+| [[File:Occa.png|20px]] [[Occa]] || [[File:Figy.png|20px]] [[Figy]] &lt;br&gt; [[File:Tamato.png|20px]] [[Tamato]] &lt;br&gt; [[File:Spelon.png|20px]] [[Spelon]]
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+===[[Safari Zone]] bait===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+As a type of bait, Razz berries give Pokémon in the Safari Zone "eating" status for 2 - 6 turns, and divides escape chance by 1.5 for the rest of the encounter unless another type of bait is used.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Acquisition==
+===Dungeons===
+{{Loot/head‎|Berries}}
+{{LootItem|Berry Forest|Epic}}
+{{LootItem|Radio Tower|Epic}}
+{{LootItem|New Mauville|Epic}}
+{{LootItem|Eterna Forest|Common}}
+{{LootItem|Wayward Cave|Common}}
+{{LootItem|Dragonspiral Tower|Common}}
+|}
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>LeChatMG</username>
+      <id>97</id>
+    </contributor>
+    <comment>Created page with "=== Tableau de chronométrage === {| class="wikitable" | style="text-align: center;" |- |+ ''Tous les temps indiqués sont basés sur le temps restant avant que la première baie plantée n'arrive à maturité'' ! Baie !! Temps de plantation&lt;br&gt;sans modificateur!! Temps de plantation avec &lt;br&gt; Engrais ou Kwakarrosoir || Temps de plantation avec &lt;br&gt; Engrais et Kwakarrosoir |- | [[Leppa/fr|Mepo]] || - || - || - |- | [[Cheri/fr|Ceriz]] || 30 secs avant maturité || 20 secs..."</comment>
+    <model>wikitext</model>
+    <parentid>22501</parentid>
+    <sha1>ddc274ef168afb08961572b826cfd66c71f88626</sha1>
+  </revision>
+  <revision>
+    <id>22501</id>
+    <timestamp>2022-08-09T17:31:45Z</timestamp>
+    <text bytes="5201" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #10 Framby
+|image   = [[File:Razz.png]]
+|caption = Il subsiste un goût épicé dans les granules rouges qui entourent cette Baie. Leur centre a un goût sec.
+|growtime  = 4m 10s
+|harvest = 7 baies
+|replant = 40%
+|mutation = 1.9%
+|points = 15
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*10 épicée
+*10 sèche
+*0 sucrée
+*0 amère
+*0 acide
+}}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+'''Razz''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by surrounding an empty plot with at least 1 [[Cheri]] and at least 1 [[Leppa]].
+&lt;/div&gt;
+
+== Tables de croissance ==
+=== Stades de croissance ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+!!! Pousse !! Arbuste !! Fleuri !! Mûr
+|-
+! Temps écoulé depuis plantation
+| 1 min 40 secs || 2 mins 30 secs || 3 mins 20 secs || 4 mins 10 secs - 8 mins 20 secs
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:RazzTreeTaller.png|50px]] || &lt;center&gt;[[File:RazzTreeBloom.png|50px]] || &lt;center&gt; [[File:RazzTreeBerry.png|50px]]
+|}
+
+===Temps de croissance avec modificateurs===
+{| class="wikitable collapsible" | style="text-align: center;"
+! Modificateur !! Temps Maturité-Flétrissement
+|-
+! Aucun
+| 4 mins 10 secs -&lt;br&gt; 8 mins 20 secs
+|-
+! Kwakarrosoir
+| 2 mins 47 secs -&lt;br&gt; 5 mins 53 secs
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Flow Chart ==
+[[File:Razz_Flow_Chart.png|200px]]
+&lt;/div&gt;
+
+== Strategie de mutation ==
+=== Formations de plantation possibles ===
+
+Vous pouvez remplir votre ferme de la manière suivante pour obtenir des baies Framby. Les cases violettes indiquent où les mutations peuvent avoir lieu.
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation de base
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Leppa.png|30px]] [[Leppa/fr|Mepo]]
+|}
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation de plantation optimisée
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Leppa.png|30px]] [[Leppa/fr|Mepo]] || style="background-color:#9C7D98;" | ||style="background-color:#9C7D98;" |  || [[File:Leppa.png|30px]] [[Leppa/fr|Mepo]] 
+|- style="height: 50px;"
+| style="background-color:#9C7D98;" | ||style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" |
+|-
+| [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] || style="background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Leppa.png|30px]] [[Leppa/fr|Mepo]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Leppa.png|30px]] [[Leppa/fr|Mepo]] 
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+=== Timing Table ===
+{| class="wikitable" | style="text-align: center;"
+|+ ''All planting times use the time-to-ripe remaining of the first planted berry for subsequent planting times''
+! Berry !! Planting Time with &lt;br&gt; No Modifier !! Planting Time with &lt;br&gt; Mulch or Sprayduck || Planting Time with &lt;br&gt;  Mulch &amp; Sprayduck
+|-
+| [[Leppa]] || - || - || -
+|-
+| [[Cheri]] || 30 secs until ripe || 20 secs until ripe || Not Practical
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Uses==
+===Mutations===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Razz berries can be used to mutate the following berries.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Tamato.png|20px]] [[Tamato]] || [[File:Pomeg.png|20px]] [[Pomeg]]
+|-
+| [[File:Occa.png|20px]] [[Occa]] || [[File:Figy.png|20px]] [[Figy]] &lt;br&gt; [[File:Tamato.png|20px]] [[Tamato]] &lt;br&gt; [[File:Spelon.png|20px]] [[Spelon]]
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+===[[Safari Zone]] bait===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+As a type of bait, Razz berries give Pokémon in the Safari Zone "eating" status for 2 - 6 turns, and divides escape chance by 1.5 for the rest of the encounter unless another type of bait is used.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Acquisition==
+===Dungeons===
+{{Loot/head‎|Berries}}
+{{LootItem|Berry Forest|Epic}}
+{{LootItem|Radio Tower|Epic}}
+{{LootItem|New Mauville|Epic}}
+{{LootItem|Eterna Forest|Common}}
+{{LootItem|Wayward Cave|Common}}
+{{LootItem|Dragonspiral Tower|Common}}
+|}
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>LeChatMG</username>
+      <id>97</id>
+    </contributor>
+    <comment>Created page with "{| class="wikitable" style="text-align: center;" |+ Formation de plantation optimisée |- style="height: 50px;" | style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] || style="width: 40px; background-color:#9C7D98;" |  |- | style="background-color:#9C7D98;" | || [[File:Leppa.png|30px]] [..."</comment>
+    <model>wikitext</model>
+    <parentid>22500</parentid>
+    <sha1>92e23a52c3097652b7dd1d57bb5a10153a12dde1</sha1>
+  </revision>
+  <revision>
+    <id>22500</id>
+    <timestamp>2022-08-09T17:30:19Z</timestamp>
+    <text bytes="5183" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #10 Framby
+|image   = [[File:Razz.png]]
+|caption = Il subsiste un goût épicé dans les granules rouges qui entourent cette Baie. Leur centre a un goût sec.
+|growtime  = 4m 10s
+|harvest = 7 baies
+|replant = 40%
+|mutation = 1.9%
+|points = 15
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*10 épicée
+*10 sèche
+*0 sucrée
+*0 amère
+*0 acide
+}}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+'''Razz''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by surrounding an empty plot with at least 1 [[Cheri]] and at least 1 [[Leppa]].
+&lt;/div&gt;
+
+== Tables de croissance ==
+=== Stades de croissance ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+!!! Pousse !! Arbuste !! Fleuri !! Mûr
+|-
+! Temps écoulé depuis plantation
+| 1 min 40 secs || 2 mins 30 secs || 3 mins 20 secs || 4 mins 10 secs - 8 mins 20 secs
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:RazzTreeTaller.png|50px]] || &lt;center&gt;[[File:RazzTreeBloom.png|50px]] || &lt;center&gt; [[File:RazzTreeBerry.png|50px]]
+|}
+
+===Temps de croissance avec modificateurs===
+{| class="wikitable collapsible" | style="text-align: center;"
+! Modificateur !! Temps Maturité-Flétrissement
+|-
+! Aucun
+| 4 mins 10 secs -&lt;br&gt; 8 mins 20 secs
+|-
+! Kwakarrosoir
+| 2 mins 47 secs -&lt;br&gt; 5 mins 53 secs
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Flow Chart ==
+[[File:Razz_Flow_Chart.png|200px]]
+&lt;/div&gt;
+
+== Strategie de mutation ==
+=== Formations de plantation possibles ===
+
+Vous pouvez remplir votre ferme de la manière suivante pour obtenir des baies Framby. Les cases violettes indiquent où les mutations peuvent avoir lieu.
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation de base
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Leppa.png|30px]] [[Leppa/fr|Mepo]]
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Optimized Planting Formation
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Leppa.png|30px]] [[Leppa]] || style="background-color:#9C7D98;" | ||style="background-color:#9C7D98;" |  || [[File:Leppa.png|30px]] [[Leppa]] 
+|- style="height: 50px;"
+| style="background-color:#9C7D98;" | ||style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" |
+|-
+| [[File:Cheri.png|30px]] [[Cheri]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Cheri.png|30px]] [[Cheri]] || style="background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Leppa.png|30px]] [[Leppa]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Leppa.png|30px]] [[Leppa]] 
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+=== Timing Table ===
+{| class="wikitable" | style="text-align: center;"
+|+ ''All planting times use the time-to-ripe remaining of the first planted berry for subsequent planting times''
+! Berry !! Planting Time with &lt;br&gt; No Modifier !! Planting Time with &lt;br&gt; Mulch or Sprayduck || Planting Time with &lt;br&gt;  Mulch &amp; Sprayduck
+|-
+| [[Leppa]] || - || - || -
+|-
+| [[Cheri]] || 30 secs until ripe || 20 secs until ripe || Not Practical
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Uses==
+===Mutations===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Razz berries can be used to mutate the following berries.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Tamato.png|20px]] [[Tamato]] || [[File:Pomeg.png|20px]] [[Pomeg]]
+|-
+| [[File:Occa.png|20px]] [[Occa]] || [[File:Figy.png|20px]] [[Figy]] &lt;br&gt; [[File:Tamato.png|20px]] [[Tamato]] &lt;br&gt; [[File:Spelon.png|20px]] [[Spelon]]
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+===[[Safari Zone]] bait===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+As a type of bait, Razz berries give Pokémon in the Safari Zone "eating" status for 2 - 6 turns, and divides escape chance by 1.5 for the rest of the encounter unless another type of bait is used.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Acquisition==
+===Dungeons===
+{{Loot/head‎|Berries}}
+{{LootItem|Berry Forest|Epic}}
+{{LootItem|Radio Tower|Epic}}
+{{LootItem|New Mauville|Epic}}
+{{LootItem|Eterna Forest|Common}}
+{{LootItem|Wayward Cave|Common}}
+{{LootItem|Dragonspiral Tower|Common}}
+|}
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>LeChatMG</username>
+      <id>97</id>
+    </contributor>
+    <comment>Created page with "{| class="wikitable" style="text-align: center;" |+ Formation de base |- style="height: 50px;" | style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri/fr|Ceriz]] || style="width: 40px; background-color:#9C7D98;" |  |- | style="background-color:#9C7D98;" | || [[File:Leppa.png|30px]] [[Leppa/fr|Mepo]] |}"</comment>
+    <model>wikitext</model>
+    <parentid>22499</parentid>
+    <sha1>fd5c504b39169e15d28b86e9e3a8b57e26b56b17</sha1>
+  </revision>
+</page>

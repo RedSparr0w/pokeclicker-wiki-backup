@@ -1,0 +1,98 @@
+<page>
+  <title>Payapa</title>
+  <ns>0</ns>
+  <id>627</id>
+  <revision>
+    <id>7184</id>
+    <timestamp>2021-01-28T16:14:19Z</timestamp>
+    <text bytes="3446" space="preserve">{{Infobox Berry
+|name    = #45 Payapa
+|image   = [[File:Payapa.png]]
+|caption = This Berry is said to sense human emotions for the way it swells roundly when a person approaches. The same behavior affects nearby plants, causing additional mutations.
+|growtime  = 9h 30m 0s
+|harvest = 30 berries
+|replant = 5%
+|points = 1,900
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 spicy 
+*0 dry
+*10 sweet
+*0 bitter
+*15 sour
+}}
+
+'''Payapa''' is a type of [[Berries|Berry]] that can be planted in [[Farm]]. It can be obtained by surrounding an empty plot with at least 1 [[Wiki]], at least 1 [[Bluk]], at least 1 [[Cornn]] and at least 1 [[Pamtre]].
+
+== Growth Tables ==
+=== Growth Stages ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+!!! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 1 hour 18 mins || 3 hours 18 mins || 6 hours 30 mins || 9 hours 30 mins - 19 hours
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt;[[File:PayapaTreeTaller.png|50px]] || &lt;center&gt;[[File:PayapaTreeBloom.png|50px]] || &lt;center&gt;[[File:PayapaTreeBerry.png|50px]]
+|-
+! Aura (mutation rate)
+| || &lt;center&gt; x1.1 || &lt;center&gt; x1.2 || &lt;center&gt; x1.3
+|}
+
+=== Ripening Time with Modifiers  ===
+{| class="wikitable" | style="text-align: center;"
+! Modifier !! Ripe-Wither Time !! Boost Mulch Needed to Ripen
+|-
+! None
+| 9 hours 30 mins -&lt;br&gt; 19 hours || ---
+|-
+! Mulch or Sprayduck
+| 6 hours 20 mins -&lt;br&gt; 12 hours 40 mins || 76 mulch
+|-
+! Mulch &amp; Sprayduck
+| 4 hours 13 mins 20 secs -&lt;br&gt; 8 hours 26 mins 40 secs || 51 mulch
+|}
+
+== Mutation Strategy ==
+=== Possible Planting Formations ===
+
+You can fill your farm in the following way to obtain Payapa berries. Purple squares indicate where mutations can occur.
+
+{| class="wikitable" style="text-align: center;"
+|+ Farm
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Wiki.png|30px]]&lt;br&gt;[[Wiki]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Cornn.png|30px]]&lt;br&gt;[[Cornn]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Wiki.png|30px]]&lt;br&gt;[[Wiki]]
+|-
+| [[File:Bluk.png|30px]]&lt;br&gt;[[Bluk]] || style="background-color:#9C7D98;" | || [[File:Pamtre.png|30px]]&lt;br&gt;[[Pamtre]] || style="background-color:#9C7D98;" | || [[File:Bluk.png|30px]]&lt;br&gt;[[Bluk]]
+|- style="height: 50px;"
+| || style="background-color:#9C7D98;" | || || style="background-color:#9C7D98;" | || 
+|-
+| [[File:Cornn.png|30px]]&lt;br&gt;[[Cornn]]  || style="background-color:#9C7D98;" | || [[File:Wiki.png|30px]]&lt;br&gt;[[Wiki]] || style="background-color:#9C7D98;" | || [[File:Cornn.png|30px]]&lt;br&gt;[[Cornn]] 
+|-
+| [[File:Pamtre.png|30px]]&lt;br&gt;[[Pamtre]] || style="background-color:#9C7D98;" | || [[File:Bluk.png|30px]]&lt;br&gt;[[Bluk]] || style="background-color:#9C7D98;" | || [[File:Pamtre.png|30px]]&lt;br&gt;[[Pamtre]]
+|}
+
+=== Timing Table ===
+{| class="wikitable"| style="text-align: center;"
+|+ ''All planting times use the time-to-ripe remaining of the first planted berry for subsequent planting times''
+! Berry !! Planting Time with &lt;br&gt; No Modifier !! Planting Time with &lt;br&gt; Mulch or Sprayduck || Planting Time with &lt;br&gt;  Mulch &amp; Sprayduck
+|-
+| [[Pamtre]] || - || - || -
+|-
+| [[Cornn]] || 2 hours 30 mins until ripe || 1 hour 40 mins until ripe || 1 hour 6 mins 7 secs
+|-
+| [[Wiki]] || 6 mins until ripe || 4 mins until ripe || Not Practical
+|-
+| [[Bluk]] || 5 mins 30 secs until ripe || 3 mins 40 secs until ripe || Not Practical
+|}
+
+{{Berries}}</text>
+    <contributor>
+      <username>Liczale</username>
+      <id>20</id>
+    </contributor>
+    <comment>Protected "[[Payapa]]": Protecting the whole wiki lets go ([Edit=Allow only autoconfirmed users] (indefinite) [Move=Allow only autoconfirmed users] (indefinite) [Delete=Allow only autoconfirmed users] (indefinite) [Protect=Allow only autoconfirmed users] (indefinite))</comment>
+    <model>wikitext</model>
+    <parentid>7183</parentid>
+    <sha1>8a95d767d4bcc8abaaa86de7e234351023f68934</sha1>
+  </revision>
+</page>

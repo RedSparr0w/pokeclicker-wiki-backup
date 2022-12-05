@@ -1,0 +1,67 @@
+<page>
+  <title>Power Plant</title>
+  <ns>0</ns>
+  <id>325</id>
+  <revision>
+    <id>4835</id>
+    <timestamp>2021-05-03T07:17:41Z</timestamp>
+    <text bytes="1375" space="preserve">{{Infobox dungeon
+|name    = Power Plant
+|image   = [[File:Power Plant.png]]
+|caption = An overhead map of the Power Plant.
+|tokens  = 1,000
+|location = North of Lavender Town.
+}}
+The '''Power Plant''' is a [[Dungeons|dungeon]] in [[Kanto]]. It has 25 tiles arranged in a 5x5 square, including 5 chest tiles, 13 non-boss encounter tiles, and 1 boss encounter tile.
+
+==Random Encounters==
+
+{| class="wikitable"
+|-
+! Wild Encounter !! Base Health !! Trainer !! Pokémon !! Base Health
+|-
+| [[File:Pikachu.png|40px]] Pikachu || rowspan=7| &lt;center&gt; 13,507 || rowspan=7|&lt;center&gt; N/A || rowspan=7|&lt;center&gt; N/A || rowspan=7|&lt;center&gt; N/A
+|-
+| [[File:Raichu.png|40px]] Raichu
+|-
+| [[File:Magnemite.png|40px]] Magnemite
+|-
+| [[File:Magneton.png|40px]] Magneton
+|-
+| [[File:Grimer.png|40px]] Grimer
+|-
+| [[File:Muk.png|40px]] Muk
+|-
+| [[File:Electrode.png|40px]] Electrode
+|-
+! Boss !! Base Health !! Boss Trainer !! Pokémon !! Base Health
+|-
+| [[File:Electabuzz.png|40px]] Electabuzz || &lt;center&gt; 67,535 || rowspan=2|&lt;center&gt; N/A || rowspan=2|&lt;center&gt; N/A || rowspan=2|&lt;center&gt; N/A
+|-
+| [[File:Zapdos.png|40px]] Zapdos || &lt;center&gt; 101,302
+|}
+
+==Items==
+
+{| class="wikitable"
+|-
+! Chest Item !! Chance to Find
+|-
+| {{Bag3|X Attack}} [[X Attack|xAttack]] || 50%
+|-
+| {{Bag3|X Click}} [[XClick|xClick]] || 33%
+|-
+| {{Bag3|Lucky Incense}} [[Lucky Incense]] || 17%
+|}
+
+[[Category:Dungeons]]</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment>Trainer format</comment>
+    <model>wikitext</model>
+    <parentid>4834</parentid>
+    <sha1>fed326befc868d47a801e0f7a873082a71d9f41a</sha1>
+  </revision>
+</page>

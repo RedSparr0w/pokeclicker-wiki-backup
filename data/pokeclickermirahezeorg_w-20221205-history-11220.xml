@@ -1,0 +1,95 @@
+<page>
+  <title>Mago</title>
+  <ns>0</ns>
+  <id>553</id>
+  <revision>
+    <id>6765</id>
+    <timestamp>2021-01-05T16:07:40Z</timestamp>
+    <text bytes="2315" space="preserve">{{Infobox Berry
+|name    = #17 Mago
+|image   = [[File:Mago.png]]
+|caption = This Berry progressively curves as it grows. The curvier the Berry, the sweeter and tastier.
+|growtime  = 6m 10s
+|harvest = 16 berries
+|replant = 30%
+|points = 50
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 spicy 
+*0 dry
+*15 sweet
+*0 bitter
+*0 sour
+}}
+
+'''Mago''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by surrounding an empty plot with at least 25, but no more than 80 points of sweet and less than 5 points of all other flavours. The [[Pecha]] must be unlocked to unlock this berry.
+
+== Growth Tables ==
+=== Growth Stages ===
+{| class="wikitable"
+! !! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 40 secs || 3 mins || 4 mins || 6 mins 10 secs - 12 mins 20 secs
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:MagoTreeTaller.png|50px]] || &lt;center&gt; [[File:MagoTreeBloom.png|50px]] || &lt;center&gt; [[File:MagoTreeBerry.png|50px]]
+|}
+
+=== Ripening Time with Modifiers  ===
+{| class="wikitable" | style="text-align: center;"
+! Modifier !! Ripe-Wither Time
+|-
+! None
+| 6 mins 10 secs -&lt;br&gt; 12 mins 20 secs
+|-
+! Mulch/Sprayduck
+| 4 mins 7 secs -&lt;br&gt; 8 mins 13 secs
+|}
+
+== Flow Chart ==
+&lt;br&gt;
+{| style="text-align: center;"
+|+ '''Flow Chart to get this berry'''
+|-
+| Random&lt;br&gt;Drop
+|-
+| ↓
+|-
+| [[File:Pecha.png|20px]] [[Pecha]]
+|-
+| ↓ 
+|-
+| [[File:Mago.png|20px]] [[Mago]]
+|}
+&lt;br&gt;
+
+== Mutation Strategy ==
+=== Possible Planting Formations ===
+
+You can fill your farm in the following way to obtain Mago berries.
+
+{| class="wikitable" style="text-align: center;"
+|+ Farm
+|- style="height: 50px;"
+| style="width: 40px;" | || style="width: 40px;" | [[File:Pecha.png|30px]] [[Pecha]] || style="width: 40px;" | || style="width: 40px;" | || style="width: 40px;" | [[File:Pecha.png|30px]] [[Pecha]]
+|-
+| [[File:Pecha.png|30px]] [[Pecha]] || [[File:Pecha.png|30px]] [[Pecha]] ||  || [[File:Pecha.png|30px]] [[Pecha]] || [[File:Pecha.png|30px]] [[Pecha]] 
+|- style="height: 50px;"
+| || || || || 
+|-
+| || [[File:Pecha.png|30px]] [[Pecha]] ||  || || [[File:Pecha.png|30px]] [[Pecha]] 
+|-
+| [[File:Pecha.png|30px]] [[Pecha]] || [[File:Pecha.png|30px]] [[Pecha]] ||  || [[File:Pecha.png|30px]] [[Pecha]] || [[File:Pecha.png|30px]] [[Pecha]] 
+|}
+
+{{Berries}}</text>
+    <contributor>
+      <username>Catie-cat</username>
+      <id>30</id>
+    </contributor>
+    <comment>minor visual changes</comment>
+    <model>wikitext</model>
+    <parentid>6764</parentid>
+    <sha1>48c6923d2129412845121fceb4635c8dfefe0803</sha1>
+  </revision>
+</page>

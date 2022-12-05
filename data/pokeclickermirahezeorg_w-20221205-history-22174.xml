@@ -1,0 +1,230 @@
+<page>
+  <title>Template:Infobox Pokémon</title>
+  <ns>10</ns>
+  <id>4</id>
+  <revision>
+    <id>151</id>
+    <timestamp>2020-09-03T13:42:59Z</timestamp>
+    <text bytes="2344" space="preserve">{|class="infobox bordered" style="float:right; width:264px; font-size:90%; text-align:left;" cellpadding="3"
+|- 
+!colspan="2" style="font-size:110%; text-align:center; background-color:Red; color:#000;"|{{{name}}}
+|-
+{{#if:{{{image&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} colspan="2" style="text-align:center;background-color:#FFF;" {{!}}{{{image}}}&lt;br /&gt;{{#if:{{{caption|}}}|&lt;br /&gt;{{{caption}}}}}
+{{!}}-
+}}
+{{#if:{{{number&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#FF9F7F; color:#000;" {{!}}'''National&amp;nbsp;Pokédex&amp;nbsp;{{Mousetext|№|Number}}'''
+{{!}}#{{{number}}}
+{{!}}-
+}}
+{{#if:{{{species&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#FF9F7F; color:#000;" {{!}}'''Species'''
+{{!}}{{{species}}} Pokémon
+{{!}}-
+}}
+{{#if:{{{type&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#FF9F7F; color:#000;" {{!}}'''Type'''
+{{!}}{{{type}}}
+{{!}}-
+}}
+{{#if:{{{move&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#FF9F7F; color:#000;" {{!}}'''Move'''
+{{!}}{{{move}}}
+{{!}}-
+}}
+{{#if:{{{rarity&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#FF9F7F; color:#000;" {{!}}'''Rarity'''
+{{!}}{{{rarity}}}
+{{!}}-
+}}
+
+|}&lt;noinclude&gt;
+
+== Code ==
+&lt;pre&gt;{{Infobox Pokémon
+|name    =
+|image   =
+|caption =
+|number  =
+|species =
+|type    =
+|move    =
+|rarity  =
+}}&lt;/pre&gt;
+
+== Usage ==
+To use this template, place the code above at the top of an article and fill in the respective blanks.
+
+'''Where:'''
+*&lt;code&gt;name&lt;/code&gt; should be filled with the name of the Pokémon.
+*&lt;code&gt;image&lt;/code&gt; should be filled with a full view of the Pokémon.
+*&lt;code&gt;caption&lt;/code&gt; should be filled with a description of the &lt;code&gt;image&lt;/code&gt; spot.
+*&lt;code&gt;number&lt;/code&gt; should be filled with the National Pokédex number, i.e. Charizard is #006 (NOTE: The symbol "#" must not be added as it is already included in the template format).
+*&lt;code&gt;species&lt;/code&gt;species}}} should be filled with the species as listed in the Pokédex; i.e. Pikachu is the "Electric Mouse Pokémon" (NOTE: The word "Pokémon" must not be added as it is already included in the template format).
+*&lt;code&gt;type&lt;/code&gt; should be filled with type the Pokémon is classified. If there are two types, it should be put like this: "Type1/Type2".
+
+
+
+[[Category:Templates|Pokémon]]
+[[Category:Infobox templates|Pokémon]]&lt;/noinclude&gt;</text>
+    <contributor>
+      <username>ElvisDitto</username>
+      <id>19</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>150</parentid>
+    <sha1>570a7a1a8c29ea999b5c5c6fcc3dbd14b2d5c677</sha1>
+  </revision>
+  <revision>
+    <id>150</id>
+    <timestamp>2020-09-03T13:42:15Z</timestamp>
+    <text bytes="2363" space="preserve">{|class="infobox bordered" style="float:right; width:264px; font-size:90%; text-align:left;" cellpadding="3"
+|- 
+!colspan="2" style="font-size:110%; text-align:center; background-color:Red; color:#000;"|{{{name}}}
+|-
+{{#if:{{{image&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} colspan="2" style="text-align:center;background-color:#FFF;" {{!}}{{{image}}}&lt;br /&gt;{{Symbol|Pokémon}}{{#if:{{{caption|}}}|&lt;br /&gt;{{{caption}}}}}
+{{!}}-
+}}
+{{#if:{{{number&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#FF9F7F; color:#000;" {{!}}'''National&amp;nbsp;Pokédex&amp;nbsp;{{Mousetext|№|Number}}'''
+{{!}}#{{{number}}}
+{{!}}-
+}}
+{{#if:{{{species&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#FF9F7F; color:#000;" {{!}}'''Species'''
+{{!}}{{{species}}} Pokémon
+{{!}}-
+}}
+{{#if:{{{type&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#FF9F7F; color:#000;" {{!}}'''Type'''
+{{!}}{{{type}}}
+{{!}}-
+}}
+{{#if:{{{move&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#FF9F7F; color:#000;" {{!}}'''Move'''
+{{!}}{{{move}}}
+{{!}}-
+}}
+{{#if:{{{rarity&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#FF9F7F; color:#000;" {{!}}'''Rarity'''
+{{!}}{{{rarity}}}
+{{!}}-
+}}
+
+|}&lt;noinclude&gt;
+
+== Code ==
+&lt;pre&gt;{{Infobox Pokémon
+|name    =
+|image   =
+|caption =
+|number  =
+|species =
+|type    =
+|move    =
+|rarity  =
+}}&lt;/pre&gt;
+
+== Usage ==
+To use this template, place the code above at the top of an article and fill in the respective blanks.
+
+'''Where:'''
+*&lt;code&gt;name&lt;/code&gt; should be filled with the name of the Pokémon.
+*&lt;code&gt;image&lt;/code&gt; should be filled with a full view of the Pokémon.
+*&lt;code&gt;caption&lt;/code&gt; should be filled with a description of the &lt;code&gt;image&lt;/code&gt; spot.
+*&lt;code&gt;number&lt;/code&gt; should be filled with the National Pokédex number, i.e. Charizard is #006 (NOTE: The symbol "#" must not be added as it is already included in the template format).
+*&lt;code&gt;species&lt;/code&gt;species}}} should be filled with the species as listed in the Pokédex; i.e. Pikachu is the "Electric Mouse Pokémon" (NOTE: The word "Pokémon" must not be added as it is already included in the template format).
+*&lt;code&gt;type&lt;/code&gt; should be filled with type the Pokémon is classified. If there are two types, it should be put like this: "Type1/Type2".
+
+
+
+[[Category:Templates|Pokémon]]
+[[Category:Infobox templates|Pokémon]]&lt;/noinclude&gt;</text>
+    <contributor>
+      <username>ElvisDitto</username>
+      <id>19</id>
+    </contributor>
+    <comment>/* Usage */</comment>
+    <model>wikitext</model>
+    <parentid>149</parentid>
+    <sha1>aeb1d925dfb114b10a6f8e3a04930f5bb6c724de</sha1>
+  </revision>
+  <revision>
+    <id>149</id>
+    <timestamp>2020-09-03T13:38:36Z</timestamp>
+    <text bytes="2654" space="preserve">{|class="infobox bordered" style="float:right; width:264px; font-size:90%; text-align:left;" cellpadding="3"
+|- 
+!colspan="2" style="font-size:110%; text-align:center; background-color:Red; color:#000;"|{{{name}}}
+|-
+{{#if:{{{image&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} colspan="2" style="text-align:center;background-color:#FFF;" {{!}}{{{image}}}&lt;br /&gt;{{Symbol|Pokémon}}{{#if:{{{caption|}}}|&lt;br /&gt;{{{caption}}}}}
+{{!}}-
+}}
+{{#if:{{{number&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#FF9F7F; color:#000;" {{!}}'''National&amp;nbsp;Pokédex&amp;nbsp;{{Mousetext|№|Number}}'''
+{{!}}#{{{number}}}
+{{!}}-
+}}
+{{#if:{{{species&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#FF9F7F; color:#000;" {{!}}'''Species'''
+{{!}}{{{species}}} Pokémon
+{{!}}-
+}}
+{{#if:{{{type&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#FF9F7F; color:#000;" {{!}}'''Type'''
+{{!}}{{{type}}}
+{{!}}-
+}}
+{{#if:{{{move&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#FF9F7F; color:#000;" {{!}}'''Move'''
+{{!}}{{{move}}}
+{{!}}-
+}}
+{{#if:{{{rarity&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#FF9F7F; color:#000;" {{!}}'''Rarity'''
+{{!}}{{{rarity}}}
+{{!}}-
+}}
+
+|}&lt;noinclude&gt;
+
+== Code ==
+&lt;pre&gt;{{Infobox Pokémon
+|name    =
+|image   =
+|caption =
+|number  =
+|species =
+|type    =
+|move    =
+|rarity  =
+}}&lt;/pre&gt;
+
+== Usage ==
+To use this template, place the code above at the top of an article and fill in the respective blanks.
+
+'''Where:'''
+*&lt;code&gt;name&lt;/code&gt; should be filled with the name of the Pokémon.
+*&lt;code&gt;image&lt;/code&gt; should be filled with a full view of the Pokémon.
+*&lt;code&gt;caption&lt;/code&gt; should be filled with a description of the &lt;code&gt;image&lt;/code&gt; spot.
+*&lt;code&gt;number&lt;/code&gt; should be filled with the National Pokédex number, i.e. Charizard is #006 (NOTE: The symbol "#" must not be added as it is already included in the template format).
+*&lt;code&gt;species&lt;/code&gt;species}}} should be filled with the species as listed in the Pokédex; i.e. Pikachu is the "Electric Mouse Pokémon" (NOTE: The word "Pokémon" must not be added as it is already included in the template format).
+*&lt;code&gt;type&lt;/code&gt; should be filled with type the Pokémon is classified. If there are two types, it should be put like this: "Type1/Type2".
+*&lt;code&gt;move&gt;&lt;/code&gt; should be filled with the the name of move the Pokémon uses when released on the battlefield.
+*&lt;code&gt;rarity&lt;/code&gt; should be replaced with the rarity the Pokémon has to come out from a Pokémon. The classifications are: very common, common, uncommon, rare and very rare.
+
+[[Category:Templates|Pokémon]]
+[[Category:Infobox templates|Pokémon]]&lt;/noinclude&gt;</text>
+    <contributor>
+      <username>ElvisDitto</username>
+      <id>19</id>
+    </contributor>
+    <comment>Created page with "{|class="infobox bordered" style="float:right; width:264px; font-size:90%; text-align:left;" cellpadding="3" |-  !colspan="2" style="font-size:110%; text-align:center; backgro..."</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>7988a76489bcc8bf511b35abe975e2551f92041a</sha1>
+  </revision>
+</page>

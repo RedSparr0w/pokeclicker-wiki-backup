@@ -1,0 +1,65 @@
+<page>
+  <title>Tin Tower</title>
+  <ns>0</ns>
+  <id>370</id>
+  <revision>
+    <id>5250</id>
+    <timestamp>2022-03-16T19:02:27Z</timestamp>
+    <text bytes="1550" space="preserve">{{Infobox dungeon
+|name    = Tin Tower
+|image   = [[File:Tin Tower.png|300px]]
+|caption = A map of Tin Tower.
+|tokens  = 4,500
+|location = Northeast of Ecruteak City.
+}}
+'''Tin Tower''' is a [[Dungeons|dungeon]] in [[Johto]]. It initially has 36 tiles arranged in a 6x6 square, including 6 chest tiles, 15 non-boss encounter tiles, and 1 boss encounter tile.
+
+==Pokémon &amp; Dungeon Stats==
+
+{| class="wikitable"
+|-
+! Random Encounter !! Base Health !! Boss !! Base Health
+|-
+| rowspan=2|[[File:Rattata.png|40px]] Rattata || rowspan=3|&lt;center&gt;88,500 || [[File:Raticate.png|40px]] Raticate || rowspan=2|&lt;center&gt;380,000
+|-
+| [[File:Haunter.png|40px]] Haunter
+|-
+| [[File:Gastly.png|40px]] Gastly || [[File:Ho-Oh.png|40px]] &lt;b&gt;Ho-Oh* &lt;br&gt; *(Must have captured Suicune, Raikou, and Entei) &lt;/b&gt; || &lt;center&gt;1,410,000
+|}
+
+==Items==
+
+{| class="wikitable"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears !! Requirement 
+|-
+| {{Bag3|X Click}} [[X Click|xClick]] || 4 || 49.49% || 49.09% || 46.01% || rowspan=9|&lt;center&gt;N/A
+|-
+| {{Bag3|Token Collector}} [[Token Collector]] || 4 || 49.49% || 49.09% || 46.01% 
+|-
+| {{Bag4|Ultraball}} || 2 || 0.22% || 0.31% || 1.35% 
+|-
+| {{Bag2|Spooky Plate}} || 2 || 0.22% || 0.31% || 1.35% 
+|-
+| {{Bag2|Flame Plate}} || 2 || 0.22% || 0.31% || 1.35% 
+|-
+| {{Bag2|Sky Plate}} || 2 || 0.22% || 0.31% || 1.35% 
+|-
+| {{Bag2|Medium Restore}} || 1.75 || 0.11% || 0.27% || 1.24 
+|-
+| {{Bag2|Fire Egg}} || 1 || 0.02% || 0.19% || 0.90% 
+|-
+| {{Bag2|Max Revive}} || 0 || 0.00% || 0.10% || 0.45% 
+|}
+
+[[Category:Dungeons]]</text>
+    <contributor>
+      <username>SomeonealiveQN</username>
+      <id>5</id>
+    </contributor>
+    <comment>/* Items */Added weight and new pattern</comment>
+    <model>wikitext</model>
+    <parentid>5249</parentid>
+    <sha1>804a468212fdde4ac68578e16b952627fec3a864</sha1>
+  </revision>
+</page>

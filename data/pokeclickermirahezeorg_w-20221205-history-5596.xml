@@ -1,0 +1,158 @@
+<page>
+  <title>Pokemon Tower</title>
+  <ns>0</ns>
+  <id>323</id>
+  <revision>
+    <id>4818</id>
+    <timestamp>2022-07-27T01:50:41Z</timestamp>
+    <text bytes="4606" space="preserve">{{Infobox dungeon
+|name    = Pokémon Tower
+|image   = [[File:Pokemon Tower.png|thumb]]
+|caption = An overhead map of the Pokémon Tower.
+|tokens  = 750
+|location = West of Lavender Town
+}}
+The '''Pokémon Tower''' is a [[Dungeons|dungeon]] in [[Kanto]]. It has 25 tiles arranged in a 5x5 square, including 5 chest tiles, 13 non-boss encounter tiles, and 1 boss encounter tile. Wild Encounters have 7,523 HP.
+
+== Encounter Tables ==
+
+===Wild Encounters===
+
+{| class="wikitable"
+|-
+! Wild Pokémon !! colspan=2|Trainers
+|-
+! Encounter !! Trainer !! Pokémon Team
+|-
+| rowspan=5|[[File:Gastly.png|40px]] Gastly || [[File:Channeler.png|40px]] Channeler Hope || [[File:Gastly.png|40px]] Gastly
+|-
+| [[File:Channeler.png|40px]] Channeler Patricia || [[File:Gastly.png|40px]] Gastly
+|-
+| [[File:Channeler.png|40px]] Channeler Carly || [[File:Gastly.png|40px]] Gastly
+|-
+| [[File:Channeler.png|40px]] Channeler Laurel || [[File:Gastly.png|40px]] Gastly, [[File:Gastly.png|40px]] Gastly
+|-
+| [[File:Channeler.png|40px]] Channeler Jody || [[File:Gastly.png|40px]] Gastly
+|-
+| rowspan=5|[[File:Haunter.png|40px]] Haunter || [[File:Channeler.png|40px]] Channeler Paula || [[File:Gastly.png|40px]] Gastly
+|-
+| [[File:Channeler.png|40px]] Channeler Ruth || [[File:Gastly.png|40px]] Gastly
+|-
+| [[File:Channeler.png|40px]] Channeler Tammy || [[File:Haunter.png|40px]] Haunter
+|-
+| [[File:Channeler.png|40px]] Channeler Karina || [[File:Gastly.png|40px]] Gastly
+|-
+| [[File:Channeler.png|40px]] Channeler Janae || [[File:Gastly.png|40px]] Gastly
+|-
+| rowspan=6|[[File:Cubone.png|40px]] Cubone || [[File:Channeler.png|40px]] Channeler Angelica || [[File:Gastly.png|40px]] Gastly, [[File:Gastly.png|40px]] Gastly, [[File:Gastly.png|40px]] Gastly
+|-
+| [[File:Channeler.png|40px]] Channeler Jennifer || [[File:Gastly.png|40px]] Gastly
+|-
+| [[File:Channeler.png|40px]] Channeler Emilia || [[File:Gastly.png|40px]] Gastly
+|-
+| [[File:Team_Rocket_Grunt_(male).png|40px]] Team Rocket Grunt || [[File:Zubat.png|40px]] Zubat, [[File:Zubat.png|40px]] Zubat, [[File:Golbat.png|40px]] Golbat
+|-
+| [[File:Team_Rocket_Grunt_(male).png|40px]] Team Rocket Grunt || [[File:Koffing.png|40px]] Koffing, [[File:Drowzee.png|40px]] Drowzee
+|-
+| [[File:Team_Rocket_Grunt_(male).png|40px]] Team Rocket Grunt || [[File:Zubat.png|40px]] Zubat, [[File:Rattata.png|40px]] Rattata, [[File:Raticate.png|40px]] Raticate,&lt;br&gt; [[File:Zubat.png|40px]] Zubat
+|-
+|}
+
+===Boss Encounters===
+
+{| class="wikitable"
+|-
+! Wild Pokémon !! Base Health !! Boss Trainer !! Pokémon Team !! Base Health
+|-
+| [[File:Marowak.png|40px]] Marowak || &lt;center&gt; 37,615 || colspan=3|&lt;center&gt; N/A
+|-
+|}
+
+==Items==
+
+===No Debuff===
+
+{| class="wikitable"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+|-
+| align="center" colspan=5| '''Common'''
+|-
+| {{Bag2|xAttack}} || 2 || 52.07% || 50.63% || 44.44%
+|-
+| {{Bag2|Chesto}} || N/A || 26.03% || 25.32% || 22.22%
+|-
+| align="center" colspan=5| '''Rare'''
+|-
+| {{Bag2|Green Shard}} || N/A || 20.85% || 22.14% || 27.72%
+|-
+| align="center" colspan=5| '''Legendary'''
+|-
+| {{Bag2|Greatball}} || N/A || 0.26% || 0.42% || 1.11%
+|-
+| {{Bag2|Medium Restore}} || N/A || 0.26% || 0.42% || 1.11%
+|-
+| {{Bag2|Star Piece}} || N/A || 0.26% || 0.42% || 1.11%
+|-
+| {{Bag2|Revive}} || N/A || 0.26% || 0.42% || 1.11%
+|-
+| align="center" colspan=5| '''Mythic'''
+|-
+| {{Bag2|Rare Bone}} || N/A || &lt;0.01% || 0.08% || 0.39%
+|-
+| {{Bag2|Ultraball}} || N/A || &lt;0.01% || 0.08% || 0.39%
+|-
+| {{Bag2|Large Restore}} || N/A || &lt;0.01% || 0.08% || 0.39%
+|}
+
+===Debuff Drop Table===
+
+After Reaching Sinnoh, the drop chance for items in Kanto will be debuffed for any loot with weight &lt; 2.
+
+{| class="wikitable collapsible collapsed"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+|-
+| align="center" colspan=5| '''Common'''
+|-
+| {{Bag2|xAttack}} || 2 || 50.45% || 50.45% || 50.45%
+|-
+| {{Bag2|Chesto}} || N/A || 25.23% || 25.23% || 25.23%
+|-
+| align="center" colspan=5| '''Rare'''
+|-
+| {{Bag2|Green Shard}} || N/A || 24.22% || 24.22% || 24.22%
+|-
+| align="center" colspan=5| '''Legendary'''
+|-
+| {{Bag2|Greatball}} || N/A || 0.03% || 0.03% || 0.03%
+|-
+| {{Bag2|Medium Restore}} || N/A || 0.03% || 0.03% || 0.03%
+|-
+| {{Bag2|Star Piece}} || N/A || 0.03% || 0.03% || 0.03%
+|-
+| {{Bag2|Revive}} || N/A || 0.03% || 0.03% || 0.03%
+|-
+| align="center" colspan=5| '''Mythic'''
+|-
+| {{Bag2|Rare Bone}} || N/A || &lt;0.01% || &lt;0.01% || &lt;0.01%
+|-
+| {{Bag2|Ultraball}} || N/A || &lt;0.01% || &lt;0.01% || &lt;0.01%
+|-
+| {{Bag2|Large Restore}} || N/A || &lt;0.01% || &lt;0.01% || &lt;0.01%
+|}
+
+
+{{Kanto Dungeons}}
+
+[[Category:Dungeons|^Region #1 - Kanto^f]]</text>
+    <contributor>
+      <username>LatiosRider</username>
+      <id>35</id>
+    </contributor>
+    <comment>Add Category header</comment>
+    <model>wikitext</model>
+    <parentid>4817</parentid>
+    <sha1>4f914081f6515f396c02c076d510870583acbea9</sha1>
+  </revision>
+</page>

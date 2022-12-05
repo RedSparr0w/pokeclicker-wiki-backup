@@ -1,0 +1,136 @@
+<page>
+  <title>Meteor Falls</title>
+  <ns>0</ns>
+  <id>351</id>
+  <revision>
+    <id>5121</id>
+    <timestamp>2022-07-30T04:52:35Z</timestamp>
+    <text bytes="3336" space="preserve">{{Infobox dungeon
+|name    = Meteor Falls
+|image   = [[File:Meteor Falls.png|300px]]
+|caption = A map of Meteor Falls.
+|tokens  = 18,000
+|location = North of Route 115.
+}}
+'''Meteor Falls''' is a [[Dungeons|dungeon]] in [[Hoenn]]. It initially has 49 tiles arranged in a 7x7 square, including 7 chest tiles, 17 non-boss encounter tiles, and 1 boss encounter tile. Wild Encounters have 443,000 HP.
+
+== Encounter Tables ==
+
+===Wild Encounters===
+
+{| class="wikitable"
+|-
+! Wild Pokémon !! colspan=2|Trainers
+|-
+! Encounter !! Trainer !! Pokémon Team
+|-
+| [[File:Zubat.png|40px]] Zubat || rowspan=5|[[File:Old_Couple.png|40px]] Old Couple John and Jay || rowspan=5|[[File:Medicham.png|40px]] Medicham, [[File:Hariyama.png|40px]] Hariyama
+|-
+| [[File:Golbat.png|40px]] Golbat
+|-
+| [[File:Goldeen.png|40px]] Goldeen
+|-
+| [[File:Magikarp.png|40px]] Magikarp
+|-
+| [[File:Barboach.png|40px]] Barboach
+|-
+|}
+
+===Boss Encounters===
+{| class="wikitable"
+|-
+! Wild Pokémon !! Base Health !! Boss Trainer !! Pokémon Team !! Base Health
+|-
+| [[File:Solrock.png|40px]] Solrock || &lt;center&gt; rowspan=2|1,240,000 || rowspan=2|[[File:Dragon_Tamer.png|40px]] Dragon Tamer Nicolas || rowspan=2|[[File:Altaria.png|40px]] Altaria, [[File:Altaria.png|40px]] Altaria || rowspan=2|&lt;center&gt; 640,000
+|-
+| [[File:Lunatone.png|40px]] Lunatone
+|}
+
+
+==Items==
+
+===No Debuff===
+
+{| class="wikitable"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+|-
+| align="center" colspan=6| '''Common'''
+|-
+| {{Bag2|Lucky Incense}} || 6 || 41.30% || 39.91% || 34.09%
+|-
+| {{Bag2|Pokéball}} || 4 || 27.54% || 26.60% || 22.72%
+|-
+| {{Bag2|Greatball}} || N/A || 6.88% || 6.65% || 5.68%
+|-
+| align="center" colspan=6| '''Rare'''
+|-
+| {{Bag2|Blue Shard}} || N/A || 10.11% || 10.66% || 12.99%
+|-
+| {{Bag2|Green Shard}} || N/A || 10.11% || 10.66% || 12.99%
+|-
+| align="center" colspan=6| '''Epic'''
+|-
+| {{Bag2|Stone Plate}} || N/A || 1.01% || 1.32% || 2.60%
+|-
+| {{Bag2|Iron Plate}} || N/A || 1.01% || 1.32% || 2.60%
+|-
+| {{Bag2|Sky Plate}} || N/A || 1.01% || 1.32% || 2.60%
+|-
+| {{Bag2|Draco Plate}} || N/A || 1.01% || 1.32% || 2.60%
+|-
+| align="center" colspan=6| '''Mythic'''
+|-
+| {{Bag2|Star Piece}} || N/A || 0.01% || 0.22% || 1.10%
+|}
+
+===Debuff Drop Table===
+
+After Reaching Kalos, the drop chance for items in Hoenn will be debuffed for any loot with a Tier rarer than Rare (ie: Epic, Legendary, Mythic).
+
+{| class="wikitable collapsible collapsed"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+|-
+| align="center" colspan=6| '''Common'''
+|-
+| {{Bag2|Lucky Incense}} || 6 || 40.95% || 40.95% || 40.95%
+|-
+| {{Bag2|Pokéball}} || 4 || 27.30% || 27.30% || 27.30%
+|-
+| {{Bag2|Greatball}} || N/A || 6.82% || 6.82% || 6.82%
+|-
+| align="center" colspan=6| '''Rare'''
+|-
+| {{Bag2|Blue Shard}} || N/A || 12.01% || 12.01% || 12.01%
+|-
+| {{Bag2|Green Shard}} || N/A || 12.01% || 12.01% || 12.01%
+|-
+| align="center" colspan=6| '''Epic'''
+|-
+| {{Bag2|Stone Plate}} || N/A || 0.23% || 0.23% || 0.23%
+|-
+| {{Bag2|Iron Plate}} || N/A || 0.23% || 0.23% || 0.23%
+|-
+| {{Bag2|Sky Plate}} || N/A || 0.23% || 0.23% || 0.23%
+|-
+| {{Bag2|Draco Plate}} || N/A || 0.23% || 0.23% || 0.23%
+|-
+| align="center" colspan=6| '''Mythic'''
+|-
+| {{Bag2|Star Piece}} || N/A || &lt;0.01% || &lt;0.01% || &lt;0.01%
+|}
+
+{{Hoenn Dungeons}}
+
+[[Category:Dungeons|^Region #3 - Hoenn^e]]</text>
+    <contributor>
+      <username>ThePantMan</username>
+      <id>8</id>
+    </contributor>
+    <comment>/* Debuff Drop Table */</comment>
+    <model>wikitext</model>
+    <parentid>5120</parentid>
+    <sha1>c7b596122af97072f5f62be15282952f17dda1f6</sha1>
+  </revision>
+</page>

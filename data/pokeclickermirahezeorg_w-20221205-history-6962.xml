@@ -1,0 +1,141 @@
+<page>
+  <title>Pokérus/fr</title>
+  <ns>0</ns>
+  <id>4542</id>
+  <revision>
+    <id>15797</id>
+    <timestamp>2022-07-22T17:58:10Z</timestamp>
+    <text bytes="3417" space="preserve">&lt;languages/&gt;
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[File:Charmander_infected.png|thumb|200px|A Shiny Charmander in the Hatchery, infected by Pokérus [[File:Pokerus.png|20px]]]]
+&lt;/div&gt;
+
+==Description==
+Le Pokérus est une forme de vie microscopique pouvant s'attacher aux Pokémon, par lequel votre Pokémon de départ de Kanto sera infecté à Sinnoh. Il s'agit d'une méchanique bénéfique qu'un Pokémon peut obtenir. Votre Pokémon de départ de Kanto se trouvera infecté après avoir passé le "Monde Distorsion" pour la première fois. À partir du moment où un Pokémon est infecté par le Pokérus, il pourra gagner des Effort Values (EVs), qui augmenteront l'attaque de ce Pokémon.
+
+==Propager le Pokérus==
+Propager le Pokérus peut seulement se dérouler dans la [[Pokémon Day Care| Pension]] . Actuellement, seul un Pokémon infecté par le Pokérus, et étant contagieux, est capable de le propager, et uniquement faire éclore le Pokémon manuellement permettra de propager le propager à d'autres Pokémon avec au moins un type en commun se faisant éclore au même moment. En bref, mettez votre Pokémon infecté ainsi qu'un à trois avec au moins un type en commun vous souhaitez infecter à la pension, et aussi longtemps que votre Pokémon infecté n'a pas fini d'éclore, tous les autres Pokémon actuellement entre de se faire éclore (manuellement, sans helpers) seront infectés avec le Pokérus.
+
+==Effort Values (EVs)==
+Les EVs sont des statistiques de multiplication des dégats individuels de chaque Pokémon, ils ne peuvent actuellement être vus que sur la page Pokédex du Pokémon. Les EVs d'un Pokémon ne peuvent actuellement qu'être augmentés en recapturant ce Pokémon après qu'il ait attrapé Pokérus. Gagnaer des EVs peut se faire en capturant  un pokemon sur une [[Route Statistics|Route]], dans un [[Dungeon|Donjon]], par [[Evolution Items|Évolution due à un objet]]. Les [[Breeding|éclosions]] et [[Wandering Pokémon|Pokémon voyageurs]] ne comptent pas pour gagner des EVs.
+
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+====EVs Gain====
+Different methods of catching a Pokémon will give different amounts of EVs.  If the [[Challenge Mode|Slow EVs Challenge Mode]] is activated, you gain 10x less EVs.  &lt;br&gt;''Note: Shiny caught Pokémon gain 5x more EVs than listed below.''
+{| class="wikitable"
+! EVs gained || Slow EV Challenge || Catching Method
+|-
+| 0.1 || 0.01 || Route Pokémon
+|-
+| 0.2 || 0.02 || Dungeon Pokémon
+|-
+| 1 || 0.1 || Evolution Item
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+====EV Damage Multipler====
+EVs benefit the Player by increasing the amount of damage that a Pokémon does.  EVs multiply damage done by up to 2x.  If your EV is below 50, you gain 1% extra damage per EV.  I.E. with 5 Effort Value, you have a 1.05x damage multiplier for that Pokémon.
+{| class="wikitable"
+! Effort Value || Pokémon Damage Multiplier
+|-
+| 50 || 1.5x
+|-
+| 85 || 1.6x
+|-
+| 172 || 1.7x
+|-
+| 375 || 1.8x
+|-
+| 824 || 1.9x
+|-
+| 1770 || 2x
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+====EV Formulas====
+'''When Effort Value below 50:''' &lt;br&gt;
+&lt;math&gt;\colorbox{White}{$ \text{EV Damage Multiplier} = 1 + (\text{EV} / 100)$}&lt;/math&gt; &lt;br&gt;&lt;br&gt;
+'''When Effort Value 50 or greater:''' &lt;br&gt;
+&lt;math&gt;\colorbox{White}{$ \text{EV Damage Multiplier} = 1 + \text{Min}(1, ((\text{EV} - 30)^{0.075} - 0.75 ))$}&lt;/math&gt;
+&lt;/div&gt;</text>
+    <contributor>
+      <username>Themscosmos</username>
+      <id>132</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>15796</parentid>
+    <sha1>ac64a93106fe535a8998f4ccc440a6079368ea79</sha1>
+  </revision>
+  <revision>
+    <id>15796</id>
+    <timestamp>2022-07-22T17:57:16Z</timestamp>
+    <text bytes="3431" space="preserve">&lt;languages/&gt;
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[File:Charmander_infected.png|thumb|200px|A Shiny Charmander in the Hatchery, infected by Pokérus [[File:Pokerus.png|20px]]]]
+&lt;/div&gt;
+
+==Description==
+Le Pokérus est une forme de vie microscopique pouvant s'attacher aux Pokémon, par lequel votre Pokémon de départ de Kanto sera infecté à Sinnoh. Il s'agit d'une méchanique bénéfique qu'un Pokémon peut obtenir. Votre Pokémon de départ de Kanto se trouvera infecté après avoir passé le "Monde Distorsion" pour la première fois. À partir du moment où un Pokémon est infecté par le Pokérus, il pourra gagner des Effort Values (EVs), qui augmenteront l'attaque de ce Pokémon.
+
+==Propager le Pokérus==
+Propager le Pokérus peut seulement se dérouler dans le [[Pokémon Day Care]] /la pension. Actuellement, seul un Pokémon infecté par le Pokérus, et étant contagieux, est capable de le propager, et uniquement faire éclore le Pokémon manuellement permettra de propager le propager à d'autres Pokémon avec au moins un type en commun se faisant éclore au même moment. En bref, mettez votre Pokémon infecté ainsi qu'un à trois avec au moins un type en commun vous souhaitez infecter à la pension/au day care, et aussi longtemps que votre Pokémon infecté n'a pas fini d'éclore, tous les autres Pokémon actuellement entre de se faire éclore (manuellement, sans helpers) seront infectés avec le Pokérus.
+
+==Effort Values (EVs)==
+Les EVs sont des statistiques de multiplication des dégats individuels de chaque Pokémon, ils ne peuvent actuellement être vus que sur la page Pokédex du Pokémon. Les EVs d'un Pokémon ne peuvent actuellement qu'être augmentés en recapturant ce Pokémon après qu'il ait attrapé Pokérus. Gagnaer des EVs peut se faire en capturant  un pokemon sur une [[Route Statistics|Route]], dans un [[Dungeon|Donjon]], par [[Evolution Items|Évolution due à un objet]]. Les [[Breeding|éclosions]] et [[Wandering Pokémon|Pokémon voyageurs]] ne comptent pas pour gagner des EVs.
+
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+====EVs Gain====
+Different methods of catching a Pokémon will give different amounts of EVs.  If the [[Challenge Mode|Slow EVs Challenge Mode]] is activated, you gain 10x less EVs.  &lt;br&gt;''Note: Shiny caught Pokémon gain 5x more EVs than listed below.''
+{| class="wikitable"
+! EVs gained || Slow EV Challenge || Catching Method
+|-
+| 0.1 || 0.01 || Route Pokémon
+|-
+| 0.2 || 0.02 || Dungeon Pokémon
+|-
+| 1 || 0.1 || Evolution Item
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+====EV Damage Multipler====
+EVs benefit the Player by increasing the amount of damage that a Pokémon does.  EVs multiply damage done by up to 2x.  If your EV is below 50, you gain 1% extra damage per EV.  I.E. with 5 Effort Value, you have a 1.05x damage multiplier for that Pokémon.
+{| class="wikitable"
+! Effort Value || Pokémon Damage Multiplier
+|-
+| 50 || 1.5x
+|-
+| 85 || 1.6x
+|-
+| 172 || 1.7x
+|-
+| 375 || 1.8x
+|-
+| 824 || 1.9x
+|-
+| 1770 || 2x
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+====EV Formulas====
+'''When Effort Value below 50:''' &lt;br&gt;
+&lt;math&gt;\colorbox{White}{$ \text{EV Damage Multiplier} = 1 + (\text{EV} / 100)$}&lt;/math&gt; &lt;br&gt;&lt;br&gt;
+'''When Effort Value 50 or greater:''' &lt;br&gt;
+&lt;math&gt;\colorbox{White}{$ \text{EV Damage Multiplier} = 1 + \text{Min}(1, ((\text{EV} - 30)^{0.075} - 0.75 ))$}&lt;/math&gt;
+&lt;/div&gt;</text>
+    <contributor>
+      <username>Themscosmos</username>
+      <id>132</id>
+    </contributor>
+    <comment>Created page with "==Effort Values (EVs)== Les EVs sont des statistiques de multiplication des dégats individuels de chaque Pokémon, ils ne peuvent actuellement être vus que sur la page Pokédex du Pokémon. Les EVs d'un Pokémon ne peuvent actuellement qu'être augmentés en recapturant ce Pokémon après qu'il ait attrapé Pokérus. Gagnaer des EVs peut se faire en capturant  un pokemon sur une [[Route Statistics|Route]], dans un [[Dungeon|Donjon]], par Evolution Items|Évolution du..."</comment>
+    <model>wikitext</model>
+    <parentid>15795</parentid>
+    <sha1>ee0373a8eb51fcc124098d1f7aa99fc726b50d60</sha1>
+  </revision>
+</page>

@@ -1,0 +1,77 @@
+<page>
+  <title>Connecting Cave</title>
+  <ns>0</ns>
+  <id>2901</id>
+  <revision>
+    <id>12167</id>
+    <timestamp>2022-04-16T23:42:52Z</timestamp>
+    <text bytes="1862" space="preserve">{{Infobox dungeon
+|name    = Connecting Cave
+|image   = [[File:Connecting Cave.png|250px]]
+|caption = A map of Connecting Cave.
+|tokens  = 475,000
+|location = Between Routes 7 and 8, next to Cyllage City.
+}}
+'''Connecting Cave''' is a [[Dungeons|dungeon]] in [[Kalos]]. It initially has 100 tiles arranged in a 10x10 square, including 10 chest tiles, 23 non-boss encounter tiles, and 1 boss encounter tile.
+
+== Random Encounters ==
+
+{| class="wikitable"
+|-
+! Wild Encounter !! Base Health !! Trainer !! Pokémon !! Base Health
+|-
+| [[File:Zubat.png|40px]] Zubat || rowspan=3| &lt;center&gt; 6,503,370 || rowspan=3|&lt;center&gt;N/A || rowspan=3|&lt;center&gt;N/A || rowspan=3|&lt;center&gt;N/A
+|-
+| [[File:Whismur.png|40px]] Whismur
+|-
+| [[File:Meditite.png|40px]] Meditite
+|-
+! Boss !! Base Health !! Boss Trainer !! Pokémon !! Base Health
+|-
+| rowspan=4|[[File:Axew.png|40px]] Axew || rowspan=4|&lt;center&gt; 51,738,600 ||rowspan=4|[[File:Pokémon_Breeder_(female).png|40px]] Pokémon Breeder Mercy || [[File:Ducklett.png|40px]] Ducklett || &lt;center&gt; 13,374,965
+|-
+| [[File:Pikachu.png|40px]] Pikachu || &lt;center&gt; 14,465,837
+|-
+| [[File:Litleo.png|40px]] Litleo || &lt;center&gt; 17,438,602
+|-
+| [[File:Oddish.png|40px]] Oddish || &lt;center&gt; 19,365,784
+|}
+
+==Items==
+
+{| class="wikitable"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears !! Requirememt
+|-
+|{{Bag2|Item Magnet}}||4||60.55%||59.88%||56.40%||rowspan=7|&lt;center&gt;N/A
+|-
+|{{Bag2|Pokéball}}||3.75||30.77%||30.49%||28.93%
+|-
+|{{Bag2|Wepear}}||3||4.04%||4.10%||4.27%
+|-
+|{{Bag2|Toxic Plate}}||2.75||2.05%||2.14%||2.44%
+|-
+|{{Bag2|Sky Plate}}||2.75||2.05%||2.14%||2.44%
+|-
+|{{Bag2|Hard Stone}}||2||0.27%||0.38%||1.65%
+|-
+|{{Bag2|Damp Rock}}||2||0.27%||0.38%||1.65%
+|-
+|{{Bag2|Kebia}}||1||0.00%||0.24%||1.10%|| Clear 25 Times
+|-
+|{{Bag2|Coba}}||1||0.00%||0.24%||1.10%%|| Clear 50 Times
+|}
+
+{{Dungeons}}
+
+[[Category:Dungeons]]</text>
+    <contributor>
+      <username>SomeonealiveQN</username>
+      <id>5</id>
+    </contributor>
+    <comment>/* Items */</comment>
+    <model>wikitext</model>
+    <parentid>12166</parentid>
+    <sha1>388a11940e36cd0d011264296859021ae0aad215</sha1>
+  </revision>
+</page>

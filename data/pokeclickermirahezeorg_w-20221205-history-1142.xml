@@ -1,0 +1,2612 @@
+<page>
+  <title>Grepa/fr</title>
+  <ns>0</ns>
+  <id>8656</id>
+  <revision>
+    <id>23884</id>
+    <timestamp>2022-08-13T14:34:59Z</timestamp>
+    <text bytes="4115" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #25 Résin
+|image   = [[File:Grepa.png]]
+|caption = Une bouchée de cette Baie très tendre emplit la bouche d'une saveur sucrée et acide.
+|growtime  = 2h 0m 0s
+|harvest = 24 baies
+|replant = 20%
+|mutation = 0,05%
+|points = 600
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 épicée 
+*10 sèche
+*10 sucrée
+*0 amère
+*10 acide
+}}
+
+'''Résin''' est un type de [[Berries/fr|Baie]] qui peut être plantée dans la [[Farm/fr|Ferme]]. Elle s'obtient en entourant une parcelle vide avec au moins 1 [[Aguav/fr|Gowav]] et au moins 1 [[Figy/fr|Figuy]].
+
+== Tables de croissance ==
+=== Stades de croissance ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Pousse !! Arbuste !! Fleuri !! Baie
+|-
+! Temps écoulé depuis plantation
+| 5 mins || 56 mins 40 secs || 1 heure 33 mins 20 secs || 2 heures - 4 heure
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:GrepaTreeTaller.png|50px]] || &lt;center&gt; [[File:GrepaTreeBloom.png|50px]] || &lt;center&gt; [[File:GrepaTreeBerry.png|50px]]
+|}
+
+=== Temps de croissance avec modificateurs  ===
+{| class="wikitable" | style="text-align: center;"
+! Modificateur !! Temps maturité-flétrissement !! Nombre de Fertipousse requis
+|-
+! Aucun
+| 2 heures -&lt;br&gt; 4 heures || ---
+|-
+! Engrais ou Kwakarroisoir
+| 1 heure 20 mins -&lt;br&gt; 2 heures 40 mins || 16 engrais
+|-
+! Engrais et Kwakarroisoir
+| 53 mins 20 secs -&lt;br&gt; 1 heure 46 mins 40 secs || 11 engrais
+|}
+
+== Organigramme ==
+[[File:Résin_-_Graph_découverte.png|250px]]
+&lt;br&gt;
+
+== Stratégie de mutation ==
+=== Formations possibles ===
+
+Vous pouvez remplir votre ferme de la manière suivante pour obtenir des baies Lonme. Les cases violettes indiquent où les mutations peuvent avoir lieu.
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation&amp;nbsp;de&amp;nbsp;base
+|-
+| style="width: 45px;" | [[File:Aguav.png|30px]] [[Aguav/fr|Gowave]] || style="width: 45px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Figy.png|30px]]&lt;br&gt;[[Figy/fr|Figuy]]
+|}
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation optimisée
+|-
+| style="width: 40px;" | [[File:Aguav.png|30px]] [[Aguav/fr|Gowav]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 45px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Aguav.png|30px]] [[Aguav/fr|Gowav]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Figy.png|30px]]&lt;br&gt;[[Figy/fr|Figuy]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Figy.png|30px]]&lt;br&gt;[[Figy/fr|Figuy]] 
+|- style="height: 60px; background-color:#9C7D98;"
+| || || || || 
+|-
+| [[File:Aguav.png|30px]] [[Aguav/fr|Gowav]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Aguav.png|30px]] [[Aguav/fr|Gowav]] || style="background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Figy.png|30px]]&lt;br&gt;[[Figy/fr|Figuy]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Figy.png|30px]]&lt;br&gt;[[Figy/fr|Figuy]] 
+|}
+
+=== Tableau de chronométrage ===
+{| class="wikitable"| style="text-align: center;"
+|+ ''Tous les temps indiqués sont basés sur le temps restant avant que la première baie plantée n'arrive à maturité''
+! ! Baie !! Temps de plantation &lt;br&gt; sans modificateur !! Temps de plantation avec &lt;br&gt; Engrais ou Kwakarrosoir || Temps de plantation avec &lt;br&gt; Engrais et Kwakarrosoir
+|-
+| [[Aguav/fr|Gowav]] || - || - || -
+|-
+| [[Figy/fr|Figuy]] || - || - || -
+|}
+
+Note : Les baies Figuy et Gowav ont des temps de pousse équivalents.
+
+==Utilisations==
+===Mutations===
+
+Les baies Résin peuvent être utilisées pour faire muter les baies suivantes :
+
+{| class="wikitable" | style="text-align: center;"
+|-
+! Utilisée pour !! Plantée avec
+|-
+| [[File:Wacan.png|20px]] [[Wacan/fr|Parma]] || [[File:Pinap.png|20px]] [[Pinap/fr|Nanana]] &lt;br&gt; [[File:Iapapa.png|20px]] [[Iapapa/fr|Papaya]] &lt;br&gt; [[File:Qualot.png|20px]] [[Qualot/fr|Qualot]]
+|-
+|}
+
+&lt;br&gt;
+
+{{Berries}}
+
+[[Category:Farm]][[Category:Berries]]</text>
+    <contributor>
+      <username>LuK</username>
+      <id>96</id>
+    </contributor>
+    <comment>Created page with "{{Berries}}"</comment>
+    <model>wikitext</model>
+    <parentid>23883</parentid>
+    <sha1>2cc32aa07f7badc706c14ad5a27f59cc4ef9b984</sha1>
+  </revision>
+  <revision>
+    <id>23883</id>
+    <timestamp>2022-08-13T14:34:54Z</timestamp>
+    <text bytes="4227" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #25 Résin
+|image   = [[File:Grepa.png]]
+|caption = Une bouchée de cette Baie très tendre emplit la bouche d'une saveur sucrée et acide.
+|growtime  = 2h 0m 0s
+|harvest = 24 baies
+|replant = 20%
+|mutation = 0,05%
+|points = 600
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 épicée 
+*10 sèche
+*10 sucrée
+*0 amère
+*10 acide
+}}
+
+'''Résin''' est un type de [[Berries/fr|Baie]] qui peut être plantée dans la [[Farm/fr|Ferme]]. Elle s'obtient en entourant une parcelle vide avec au moins 1 [[Aguav/fr|Gowav]] et au moins 1 [[Figy/fr|Figuy]].
+
+== Tables de croissance ==
+=== Stades de croissance ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Pousse !! Arbuste !! Fleuri !! Baie
+|-
+! Temps écoulé depuis plantation
+| 5 mins || 56 mins 40 secs || 1 heure 33 mins 20 secs || 2 heures - 4 heure
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:GrepaTreeTaller.png|50px]] || &lt;center&gt; [[File:GrepaTreeBloom.png|50px]] || &lt;center&gt; [[File:GrepaTreeBerry.png|50px]]
+|}
+
+=== Temps de croissance avec modificateurs  ===
+{| class="wikitable" | style="text-align: center;"
+! Modificateur !! Temps maturité-flétrissement !! Nombre de Fertipousse requis
+|-
+! Aucun
+| 2 heures -&lt;br&gt; 4 heures || ---
+|-
+! Engrais ou Kwakarroisoir
+| 1 heure 20 mins -&lt;br&gt; 2 heures 40 mins || 16 engrais
+|-
+! Engrais et Kwakarroisoir
+| 53 mins 20 secs -&lt;br&gt; 1 heure 46 mins 40 secs || 11 engrais
+|}
+
+== Organigramme ==
+[[File:Résin_-_Graph_découverte.png|250px]]
+&lt;br&gt;
+
+== Stratégie de mutation ==
+=== Formations possibles ===
+
+Vous pouvez remplir votre ferme de la manière suivante pour obtenir des baies Lonme. Les cases violettes indiquent où les mutations peuvent avoir lieu.
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation&amp;nbsp;de&amp;nbsp;base
+|-
+| style="width: 45px;" | [[File:Aguav.png|30px]] [[Aguav/fr|Gowave]] || style="width: 45px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Figy.png|30px]]&lt;br&gt;[[Figy/fr|Figuy]]
+|}
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation optimisée
+|-
+| style="width: 40px;" | [[File:Aguav.png|30px]] [[Aguav/fr|Gowav]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 45px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Aguav.png|30px]] [[Aguav/fr|Gowav]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Figy.png|30px]]&lt;br&gt;[[Figy/fr|Figuy]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Figy.png|30px]]&lt;br&gt;[[Figy/fr|Figuy]] 
+|- style="height: 60px; background-color:#9C7D98;"
+| || || || || 
+|-
+| [[File:Aguav.png|30px]] [[Aguav/fr|Gowav]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Aguav.png|30px]] [[Aguav/fr|Gowav]] || style="background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Figy.png|30px]]&lt;br&gt;[[Figy/fr|Figuy]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Figy.png|30px]]&lt;br&gt;[[Figy/fr|Figuy]] 
+|}
+
+=== Tableau de chronométrage ===
+{| class="wikitable"| style="text-align: center;"
+|+ ''Tous les temps indiqués sont basés sur le temps restant avant que la première baie plantée n'arrive à maturité''
+! ! Baie !! Temps de plantation &lt;br&gt; sans modificateur !! Temps de plantation avec &lt;br&gt; Engrais ou Kwakarrosoir || Temps de plantation avec &lt;br&gt; Engrais et Kwakarrosoir
+|-
+| [[Aguav/fr|Gowav]] || - || - || -
+|-
+| [[Figy/fr|Figuy]] || - || - || -
+|}
+
+Note : Les baies Figuy et Gowav ont des temps de pousse équivalents.
+
+==Utilisations==
+===Mutations===
+
+Les baies Résin peuvent être utilisées pour faire muter les baies suivantes :
+
+{| class="wikitable" | style="text-align: center;"
+|-
+! Utilisée pour !! Plantée avec
+|-
+| [[File:Wacan.png|20px]] [[Wacan/fr|Parma]] || [[File:Pinap.png|20px]] [[Pinap/fr|Nanana]] &lt;br&gt; [[File:Iapapa.png|20px]] [[Iapapa/fr|Papaya]] &lt;br&gt; [[File:Qualot.png|20px]] [[Qualot/fr|Qualot]]
+|-
+|}
+
+&lt;br&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>LuK</username>
+      <id>96</id>
+    </contributor>
+    <comment>Created page with "{| class="wikitable" | style="text-align: center;" |- ! Utilisée pour !! Plantée avec |- | [[File:Wacan.png|20px]] [[Wacan/fr|Parma]] || [[File:Pinap.png|20px]] [[Pinap/fr|Nanana]] &lt;br&gt; [[File:Iapapa.png|20px]] [[Iapapa/fr|Papaya]] &lt;br&gt; [[File:Qualot.png|20px]] [[Qualot/fr|Qualot]] |- |}"</comment>
+    <model>wikitext</model>
+    <parentid>23882</parentid>
+    <sha1>a0e4ebc699bb4a05fd48d38349eca6ee2749341c</sha1>
+  </revision>
+  <revision>
+    <id>23882</id>
+    <timestamp>2022-08-13T14:33:40Z</timestamp>
+    <text bytes="4284" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #25 Résin
+|image   = [[File:Grepa.png]]
+|caption = Une bouchée de cette Baie très tendre emplit la bouche d'une saveur sucrée et acide.
+|growtime  = 2h 0m 0s
+|harvest = 24 baies
+|replant = 20%
+|mutation = 0,05%
+|points = 600
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 épicée 
+*10 sèche
+*10 sucrée
+*0 amère
+*10 acide
+}}
+
+'''Résin''' est un type de [[Berries/fr|Baie]] qui peut être plantée dans la [[Farm/fr|Ferme]]. Elle s'obtient en entourant une parcelle vide avec au moins 1 [[Aguav/fr|Gowav]] et au moins 1 [[Figy/fr|Figuy]].
+
+== Tables de croissance ==
+=== Stades de croissance ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Pousse !! Arbuste !! Fleuri !! Baie
+|-
+! Temps écoulé depuis plantation
+| 5 mins || 56 mins 40 secs || 1 heure 33 mins 20 secs || 2 heures - 4 heure
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:GrepaTreeTaller.png|50px]] || &lt;center&gt; [[File:GrepaTreeBloom.png|50px]] || &lt;center&gt; [[File:GrepaTreeBerry.png|50px]]
+|}
+
+=== Temps de croissance avec modificateurs  ===
+{| class="wikitable" | style="text-align: center;"
+! Modificateur !! Temps maturité-flétrissement !! Nombre de Fertipousse requis
+|-
+! Aucun
+| 2 heures -&lt;br&gt; 4 heures || ---
+|-
+! Engrais ou Kwakarroisoir
+| 1 heure 20 mins -&lt;br&gt; 2 heures 40 mins || 16 engrais
+|-
+! Engrais et Kwakarroisoir
+| 53 mins 20 secs -&lt;br&gt; 1 heure 46 mins 40 secs || 11 engrais
+|}
+
+== Organigramme ==
+[[File:Résin_-_Graph_découverte.png|250px]]
+&lt;br&gt;
+
+== Stratégie de mutation ==
+=== Formations possibles ===
+
+Vous pouvez remplir votre ferme de la manière suivante pour obtenir des baies Lonme. Les cases violettes indiquent où les mutations peuvent avoir lieu.
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation&amp;nbsp;de&amp;nbsp;base
+|-
+| style="width: 45px;" | [[File:Aguav.png|30px]] [[Aguav/fr|Gowave]] || style="width: 45px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Figy.png|30px]]&lt;br&gt;[[Figy/fr|Figuy]]
+|}
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation optimisée
+|-
+| style="width: 40px;" | [[File:Aguav.png|30px]] [[Aguav/fr|Gowav]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 45px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Aguav.png|30px]] [[Aguav/fr|Gowav]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Figy.png|30px]]&lt;br&gt;[[Figy/fr|Figuy]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Figy.png|30px]]&lt;br&gt;[[Figy/fr|Figuy]] 
+|- style="height: 60px; background-color:#9C7D98;"
+| || || || || 
+|-
+| [[File:Aguav.png|30px]] [[Aguav/fr|Gowav]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Aguav.png|30px]] [[Aguav/fr|Gowav]] || style="background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Figy.png|30px]]&lt;br&gt;[[Figy/fr|Figuy]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Figy.png|30px]]&lt;br&gt;[[Figy/fr|Figuy]] 
+|}
+
+=== Tableau de chronométrage ===
+{| class="wikitable"| style="text-align: center;"
+|+ ''Tous les temps indiqués sont basés sur le temps restant avant que la première baie plantée n'arrive à maturité''
+! ! Baie !! Temps de plantation &lt;br&gt; sans modificateur !! Temps de plantation avec &lt;br&gt; Engrais ou Kwakarrosoir || Temps de plantation avec &lt;br&gt; Engrais et Kwakarrosoir
+|-
+| [[Aguav/fr|Gowav]] || - || - || -
+|-
+| [[Figy/fr|Figuy]] || - || - || -
+|}
+
+Note : Les baies Figuy et Gowav ont des temps de pousse équivalents.
+
+==Utilisations==
+===Mutations===
+
+Les baies Résin peuvent être utilisées pour faire muter les baies suivantes :
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Wacan.png|20px]] [[Wacan]] || [[File:Pinap.png|20px]] [[Pinap]] &lt;br&gt; [[File:Iapapa.png|20px]] [[Iapapa]] &lt;br&gt; [[File:Qualot.png|20px]] [[Qualot]]
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>LuK</username>
+      <id>96</id>
+    </contributor>
+    <comment>Created page with "Les baies Résin peuvent être utilisées pour faire muter les baies suivantes :"</comment>
+    <model>wikitext</model>
+    <parentid>23881</parentid>
+    <sha1>43a98197dd15932d980e65fdcf83e49b75aa45a5</sha1>
+  </revision>
+  <revision>
+    <id>23881</id>
+    <timestamp>2022-08-13T14:33:24Z</timestamp>
+    <text bytes="4318" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #25 Résin
+|image   = [[File:Grepa.png]]
+|caption = Une bouchée de cette Baie très tendre emplit la bouche d'une saveur sucrée et acide.
+|growtime  = 2h 0m 0s
+|harvest = 24 baies
+|replant = 20%
+|mutation = 0,05%
+|points = 600
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 épicée 
+*10 sèche
+*10 sucrée
+*0 amère
+*10 acide
+}}
+
+'''Résin''' est un type de [[Berries/fr|Baie]] qui peut être plantée dans la [[Farm/fr|Ferme]]. Elle s'obtient en entourant une parcelle vide avec au moins 1 [[Aguav/fr|Gowav]] et au moins 1 [[Figy/fr|Figuy]].
+
+== Tables de croissance ==
+=== Stades de croissance ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Pousse !! Arbuste !! Fleuri !! Baie
+|-
+! Temps écoulé depuis plantation
+| 5 mins || 56 mins 40 secs || 1 heure 33 mins 20 secs || 2 heures - 4 heure
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:GrepaTreeTaller.png|50px]] || &lt;center&gt; [[File:GrepaTreeBloom.png|50px]] || &lt;center&gt; [[File:GrepaTreeBerry.png|50px]]
+|}
+
+=== Temps de croissance avec modificateurs  ===
+{| class="wikitable" | style="text-align: center;"
+! Modificateur !! Temps maturité-flétrissement !! Nombre de Fertipousse requis
+|-
+! Aucun
+| 2 heures -&lt;br&gt; 4 heures || ---
+|-
+! Engrais ou Kwakarroisoir
+| 1 heure 20 mins -&lt;br&gt; 2 heures 40 mins || 16 engrais
+|-
+! Engrais et Kwakarroisoir
+| 53 mins 20 secs -&lt;br&gt; 1 heure 46 mins 40 secs || 11 engrais
+|}
+
+== Organigramme ==
+[[File:Résin_-_Graph_découverte.png|250px]]
+&lt;br&gt;
+
+== Stratégie de mutation ==
+=== Formations possibles ===
+
+Vous pouvez remplir votre ferme de la manière suivante pour obtenir des baies Lonme. Les cases violettes indiquent où les mutations peuvent avoir lieu.
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation&amp;nbsp;de&amp;nbsp;base
+|-
+| style="width: 45px;" | [[File:Aguav.png|30px]] [[Aguav/fr|Gowave]] || style="width: 45px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Figy.png|30px]]&lt;br&gt;[[Figy/fr|Figuy]]
+|}
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation optimisée
+|-
+| style="width: 40px;" | [[File:Aguav.png|30px]] [[Aguav/fr|Gowav]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 45px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Aguav.png|30px]] [[Aguav/fr|Gowav]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Figy.png|30px]]&lt;br&gt;[[Figy/fr|Figuy]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Figy.png|30px]]&lt;br&gt;[[Figy/fr|Figuy]] 
+|- style="height: 60px; background-color:#9C7D98;"
+| || || || || 
+|-
+| [[File:Aguav.png|30px]] [[Aguav/fr|Gowav]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Aguav.png|30px]] [[Aguav/fr|Gowav]] || style="background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Figy.png|30px]]&lt;br&gt;[[Figy/fr|Figuy]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Figy.png|30px]]&lt;br&gt;[[Figy/fr|Figuy]] 
+|}
+
+=== Tableau de chronométrage ===
+{| class="wikitable"| style="text-align: center;"
+|+ ''Tous les temps indiqués sont basés sur le temps restant avant que la première baie plantée n'arrive à maturité''
+! ! Baie !! Temps de plantation &lt;br&gt; sans modificateur !! Temps de plantation avec &lt;br&gt; Engrais ou Kwakarrosoir || Temps de plantation avec &lt;br&gt; Engrais et Kwakarrosoir
+|-
+| [[Aguav/fr|Gowav]] || - || - || -
+|-
+| [[Figy/fr|Figuy]] || - || - || -
+|}
+
+Note : Les baies Figuy et Gowav ont des temps de pousse équivalents.
+
+==Utilisations==
+===Mutations===
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Grepa berries can be used to mutate the following berries.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Wacan.png|20px]] [[Wacan]] || [[File:Pinap.png|20px]] [[Pinap]] &lt;br&gt; [[File:Iapapa.png|20px]] [[Iapapa]] &lt;br&gt; [[File:Qualot.png|20px]] [[Qualot]]
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>LuK</username>
+      <id>96</id>
+    </contributor>
+    <comment>Created page with "==Utilisations== ===Mutations==="</comment>
+    <model>wikitext</model>
+    <parentid>23880</parentid>
+    <sha1>d3ac10912cd9438b9ef28f465b9671b90e42fd83</sha1>
+  </revision>
+  <revision>
+    <id>23880</id>
+    <timestamp>2022-08-13T14:32:19Z</timestamp>
+    <text bytes="4366" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #25 Résin
+|image   = [[File:Grepa.png]]
+|caption = Une bouchée de cette Baie très tendre emplit la bouche d'une saveur sucrée et acide.
+|growtime  = 2h 0m 0s
+|harvest = 24 baies
+|replant = 20%
+|mutation = 0,05%
+|points = 600
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 épicée 
+*10 sèche
+*10 sucrée
+*0 amère
+*10 acide
+}}
+
+'''Résin''' est un type de [[Berries/fr|Baie]] qui peut être plantée dans la [[Farm/fr|Ferme]]. Elle s'obtient en entourant une parcelle vide avec au moins 1 [[Aguav/fr|Gowav]] et au moins 1 [[Figy/fr|Figuy]].
+
+== Tables de croissance ==
+=== Stades de croissance ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Pousse !! Arbuste !! Fleuri !! Baie
+|-
+! Temps écoulé depuis plantation
+| 5 mins || 56 mins 40 secs || 1 heure 33 mins 20 secs || 2 heures - 4 heure
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:GrepaTreeTaller.png|50px]] || &lt;center&gt; [[File:GrepaTreeBloom.png|50px]] || &lt;center&gt; [[File:GrepaTreeBerry.png|50px]]
+|}
+
+=== Temps de croissance avec modificateurs  ===
+{| class="wikitable" | style="text-align: center;"
+! Modificateur !! Temps maturité-flétrissement !! Nombre de Fertipousse requis
+|-
+! Aucun
+| 2 heures -&lt;br&gt; 4 heures || ---
+|-
+! Engrais ou Kwakarroisoir
+| 1 heure 20 mins -&lt;br&gt; 2 heures 40 mins || 16 engrais
+|-
+! Engrais et Kwakarroisoir
+| 53 mins 20 secs -&lt;br&gt; 1 heure 46 mins 40 secs || 11 engrais
+|}
+
+== Organigramme ==
+[[File:Résin_-_Graph_découverte.png|250px]]
+&lt;br&gt;
+
+== Stratégie de mutation ==
+=== Formations possibles ===
+
+Vous pouvez remplir votre ferme de la manière suivante pour obtenir des baies Lonme. Les cases violettes indiquent où les mutations peuvent avoir lieu.
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation&amp;nbsp;de&amp;nbsp;base
+|-
+| style="width: 45px;" | [[File:Aguav.png|30px]] [[Aguav/fr|Gowave]] || style="width: 45px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Figy.png|30px]]&lt;br&gt;[[Figy/fr|Figuy]]
+|}
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation optimisée
+|-
+| style="width: 40px;" | [[File:Aguav.png|30px]] [[Aguav/fr|Gowav]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 45px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Aguav.png|30px]] [[Aguav/fr|Gowav]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Figy.png|30px]]&lt;br&gt;[[Figy/fr|Figuy]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Figy.png|30px]]&lt;br&gt;[[Figy/fr|Figuy]] 
+|- style="height: 60px; background-color:#9C7D98;"
+| || || || || 
+|-
+| [[File:Aguav.png|30px]] [[Aguav/fr|Gowav]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Aguav.png|30px]] [[Aguav/fr|Gowav]] || style="background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Figy.png|30px]]&lt;br&gt;[[Figy/fr|Figuy]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Figy.png|30px]]&lt;br&gt;[[Figy/fr|Figuy]] 
+|}
+
+=== Tableau de chronométrage ===
+{| class="wikitable"| style="text-align: center;"
+|+ ''Tous les temps indiqués sont basés sur le temps restant avant que la première baie plantée n'arrive à maturité''
+! ! Baie !! Temps de plantation &lt;br&gt; sans modificateur !! Temps de plantation avec &lt;br&gt; Engrais ou Kwakarrosoir || Temps de plantation avec &lt;br&gt; Engrais et Kwakarrosoir
+|-
+| [[Aguav/fr|Gowav]] || - || - || -
+|-
+| [[Figy/fr|Figuy]] || - || - || -
+|}
+
+Note : Les baies Figuy et Gowav ont des temps de pousse équivalents.
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Uses==
+===Mutations===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Grepa berries can be used to mutate the following berries.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Wacan.png|20px]] [[Wacan]] || [[File:Pinap.png|20px]] [[Pinap]] &lt;br&gt; [[File:Iapapa.png|20px]] [[Iapapa]] &lt;br&gt; [[File:Qualot.png|20px]] [[Qualot]]
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>LuK</username>
+      <id>96</id>
+    </contributor>
+    <comment>Created page with "Note : Les baies Figuy et Gowav ont des temps de pousse équivalents."</comment>
+    <model>wikitext</model>
+    <parentid>23879</parentid>
+    <sha1>ffe39ba08a7db91740016d6de7118dae062140ef</sha1>
+  </revision>
+  <revision>
+    <id>23879</id>
+    <timestamp>2022-08-13T14:31:59Z</timestamp>
+    <text bytes="4411" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #25 Résin
+|image   = [[File:Grepa.png]]
+|caption = Une bouchée de cette Baie très tendre emplit la bouche d'une saveur sucrée et acide.
+|growtime  = 2h 0m 0s
+|harvest = 24 baies
+|replant = 20%
+|mutation = 0,05%
+|points = 600
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 épicée 
+*10 sèche
+*10 sucrée
+*0 amère
+*10 acide
+}}
+
+'''Résin''' est un type de [[Berries/fr|Baie]] qui peut être plantée dans la [[Farm/fr|Ferme]]. Elle s'obtient en entourant une parcelle vide avec au moins 1 [[Aguav/fr|Gowav]] et au moins 1 [[Figy/fr|Figuy]].
+
+== Tables de croissance ==
+=== Stades de croissance ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Pousse !! Arbuste !! Fleuri !! Baie
+|-
+! Temps écoulé depuis plantation
+| 5 mins || 56 mins 40 secs || 1 heure 33 mins 20 secs || 2 heures - 4 heure
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:GrepaTreeTaller.png|50px]] || &lt;center&gt; [[File:GrepaTreeBloom.png|50px]] || &lt;center&gt; [[File:GrepaTreeBerry.png|50px]]
+|}
+
+=== Temps de croissance avec modificateurs  ===
+{| class="wikitable" | style="text-align: center;"
+! Modificateur !! Temps maturité-flétrissement !! Nombre de Fertipousse requis
+|-
+! Aucun
+| 2 heures -&lt;br&gt; 4 heures || ---
+|-
+! Engrais ou Kwakarroisoir
+| 1 heure 20 mins -&lt;br&gt; 2 heures 40 mins || 16 engrais
+|-
+! Engrais et Kwakarroisoir
+| 53 mins 20 secs -&lt;br&gt; 1 heure 46 mins 40 secs || 11 engrais
+|}
+
+== Organigramme ==
+[[File:Résin_-_Graph_découverte.png|250px]]
+&lt;br&gt;
+
+== Stratégie de mutation ==
+=== Formations possibles ===
+
+Vous pouvez remplir votre ferme de la manière suivante pour obtenir des baies Lonme. Les cases violettes indiquent où les mutations peuvent avoir lieu.
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation&amp;nbsp;de&amp;nbsp;base
+|-
+| style="width: 45px;" | [[File:Aguav.png|30px]] [[Aguav/fr|Gowave]] || style="width: 45px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Figy.png|30px]]&lt;br&gt;[[Figy/fr|Figuy]]
+|}
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation optimisée
+|-
+| style="width: 40px;" | [[File:Aguav.png|30px]] [[Aguav/fr|Gowav]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 45px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Aguav.png|30px]] [[Aguav/fr|Gowav]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Figy.png|30px]]&lt;br&gt;[[Figy/fr|Figuy]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Figy.png|30px]]&lt;br&gt;[[Figy/fr|Figuy]] 
+|- style="height: 60px; background-color:#9C7D98;"
+| || || || || 
+|-
+| [[File:Aguav.png|30px]] [[Aguav/fr|Gowav]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Aguav.png|30px]] [[Aguav/fr|Gowav]] || style="background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Figy.png|30px]]&lt;br&gt;[[Figy/fr|Figuy]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Figy.png|30px]]&lt;br&gt;[[Figy/fr|Figuy]] 
+|}
+
+=== Tableau de chronométrage ===
+{| class="wikitable"| style="text-align: center;"
+|+ ''Tous les temps indiqués sont basés sur le temps restant avant que la première baie plantée n'arrive à maturité''
+! ! Baie !! Temps de plantation &lt;br&gt; sans modificateur !! Temps de plantation avec &lt;br&gt; Engrais ou Kwakarrosoir || Temps de plantation avec &lt;br&gt; Engrais et Kwakarrosoir
+|-
+| [[Aguav/fr|Gowav]] || - || - || -
+|-
+| [[Figy/fr|Figuy]] || - || - || -
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Note: Figy and Aguav berries have equivalent growth times.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Uses==
+===Mutations===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Grepa berries can be used to mutate the following berries.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Wacan.png|20px]] [[Wacan]] || [[File:Pinap.png|20px]] [[Pinap]] &lt;br&gt; [[File:Iapapa.png|20px]] [[Iapapa]] &lt;br&gt; [[File:Qualot.png|20px]] [[Qualot]]
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>LuK</username>
+      <id>96</id>
+    </contributor>
+    <comment>Created page with "=== Tableau de chronométrage === {| class="wikitable"| style="text-align: center;" |+ ''Tous les temps indiqués sont basés sur le temps restant avant que la première baie plantée n'arrive à maturité'' ! ! Baie !! Temps de plantation &lt;br&gt; sans modificateur !! Temps de plantation avec &lt;br&gt; Engrais ou Kwakarrosoir || Temps de plantation avec &lt;br&gt; Engrais et Kwakarrosoir |- | [[Aguav/fr|Gowav]] || - || - || - |- | [[Figy/fr|Figuy]] || - || - || - |}"</comment>
+    <model>wikitext</model>
+    <parentid>23878</parentid>
+    <sha1>df41c5cbc571c8c27b3fb8ffc9795053e2f93611</sha1>
+  </revision>
+  <revision>
+    <id>23878</id>
+    <timestamp>2022-08-13T14:30:54Z</timestamp>
+    <text bytes="4396" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #25 Résin
+|image   = [[File:Grepa.png]]
+|caption = Une bouchée de cette Baie très tendre emplit la bouche d'une saveur sucrée et acide.
+|growtime  = 2h 0m 0s
+|harvest = 24 baies
+|replant = 20%
+|mutation = 0,05%
+|points = 600
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 épicée 
+*10 sèche
+*10 sucrée
+*0 amère
+*10 acide
+}}
+
+'''Résin''' est un type de [[Berries/fr|Baie]] qui peut être plantée dans la [[Farm/fr|Ferme]]. Elle s'obtient en entourant une parcelle vide avec au moins 1 [[Aguav/fr|Gowav]] et au moins 1 [[Figy/fr|Figuy]].
+
+== Tables de croissance ==
+=== Stades de croissance ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Pousse !! Arbuste !! Fleuri !! Baie
+|-
+! Temps écoulé depuis plantation
+| 5 mins || 56 mins 40 secs || 1 heure 33 mins 20 secs || 2 heures - 4 heure
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:GrepaTreeTaller.png|50px]] || &lt;center&gt; [[File:GrepaTreeBloom.png|50px]] || &lt;center&gt; [[File:GrepaTreeBerry.png|50px]]
+|}
+
+=== Temps de croissance avec modificateurs  ===
+{| class="wikitable" | style="text-align: center;"
+! Modificateur !! Temps maturité-flétrissement !! Nombre de Fertipousse requis
+|-
+! Aucun
+| 2 heures -&lt;br&gt; 4 heures || ---
+|-
+! Engrais ou Kwakarroisoir
+| 1 heure 20 mins -&lt;br&gt; 2 heures 40 mins || 16 engrais
+|-
+! Engrais et Kwakarroisoir
+| 53 mins 20 secs -&lt;br&gt; 1 heure 46 mins 40 secs || 11 engrais
+|}
+
+== Organigramme ==
+[[File:Résin_-_Graph_découverte.png|250px]]
+&lt;br&gt;
+
+== Stratégie de mutation ==
+=== Formations possibles ===
+
+Vous pouvez remplir votre ferme de la manière suivante pour obtenir des baies Lonme. Les cases violettes indiquent où les mutations peuvent avoir lieu.
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation&amp;nbsp;de&amp;nbsp;base
+|-
+| style="width: 45px;" | [[File:Aguav.png|30px]] [[Aguav/fr|Gowave]] || style="width: 45px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Figy.png|30px]]&lt;br&gt;[[Figy/fr|Figuy]]
+|}
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation optimisée
+|-
+| style="width: 40px;" | [[File:Aguav.png|30px]] [[Aguav/fr|Gowav]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 45px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Aguav.png|30px]] [[Aguav/fr|Gowav]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Figy.png|30px]]&lt;br&gt;[[Figy/fr|Figuy]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Figy.png|30px]]&lt;br&gt;[[Figy/fr|Figuy]] 
+|- style="height: 60px; background-color:#9C7D98;"
+| || || || || 
+|-
+| [[File:Aguav.png|30px]] [[Aguav/fr|Gowav]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Aguav.png|30px]] [[Aguav/fr|Gowav]] || style="background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Figy.png|30px]]&lt;br&gt;[[Figy/fr|Figuy]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Figy.png|30px]]&lt;br&gt;[[Figy/fr|Figuy]] 
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+=== Timing Table ===
+{| class="wikitable"| style="text-align: center;"
+|+ ''All planting times use the time-to-ripe remaining of the first planted berry for subsequent planting times''
+! Berry !! Planting Time with &lt;br&gt; No Modifier !! Planting Time with &lt;br&gt; Mulch or Sprayduck || Planting Time with &lt;br&gt;  Mulch &amp; Sprayduck
+|-
+| [[Aguav]] || - || - || -
+|-
+| [[Figy]] || - || - || -
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Note: Figy and Aguav berries have equivalent growth times.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Uses==
+===Mutations===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Grepa berries can be used to mutate the following berries.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Wacan.png|20px]] [[Wacan]] || [[File:Pinap.png|20px]] [[Pinap]] &lt;br&gt; [[File:Iapapa.png|20px]] [[Iapapa]] &lt;br&gt; [[File:Qualot.png|20px]] [[Qualot]]
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>LuK</username>
+      <id>96</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>23877</parentid>
+    <sha1>e2d8aea14e89526e21ddc95fa3637565f02b65dd</sha1>
+  </revision>
+  <revision>
+    <id>23877</id>
+    <timestamp>2022-08-13T14:29:07Z</timestamp>
+    <text bytes="4404" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #25 Résin
+|image   = [[File:Grepa.png]]
+|caption = Une bouchée de cette Baie très tendre emplit la bouche d'une saveur sucrée et acide.
+|growtime  = 2h 0m 0s
+|harvest = 24 baies
+|replant = 20%
+|mutation = 0,05%
+|points = 600
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 épicée 
+*10 sèche
+*10 sucrée
+*0 amère
+*10 acide
+}}
+
+'''Résin''' est un type de [[Berries/fr|Baie]] qui peut être plantée dans la [[Farm/fr|Ferme]]. Elle s'obtient en entourant une parcelle vide avec au moins 1 [[Aguav/fr|Gowav]] et au moins 1 [[Figy/fr|Figuy]].
+
+== Tables de croissance ==
+=== Stades de croissance ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Pousse !! Arbuste !! Fleuri !! Baie
+|-
+! Temps écoulé depuis plantation
+| 5 mins || 56 mins 40 secs || 1 heure 33 mins 20 secs || 2 heures - 4 heure
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:GrepaTreeTaller.png|50px]] || &lt;center&gt; [[File:GrepaTreeBloom.png|50px]] || &lt;center&gt; [[File:GrepaTreeBerry.png|50px]]
+|}
+
+=== Temps de croissance avec modificateurs  ===
+{| class="wikitable" | style="text-align: center;"
+! Modificateur !! Temps maturité-flétrissement !! Nombre de Fertipousse requis
+|-
+! Aucun
+| 2 heures -&lt;br&gt; 4 heures || ---
+|-
+! Engrais ou Kwakarroisoir
+| 1 heure 20 mins -&lt;br&gt; 2 heures 40 mins || 16 engrais
+|-
+! Engrais et Kwakarroisoir
+| 53 mins 20 secs -&lt;br&gt; 1 heure 46 mins 40 secs || 11 engrais
+|}
+
+== Organigramme ==
+[[File:Résin_-_Graph_découverte.png|250px]]
+&lt;br&gt;
+
+== Stratégie de mutation ==
+=== Formations possibles ===
+
+Vous pouvez remplir votre ferme de la manière suivante pour obtenir des baies Lonme. Les cases violettes indiquent où les mutations peuvent avoir lieu.
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation&amp;nbsp;de&amp;nbsp;base
+|-
+| style="width: 45px;" | [[File:Aguav.png|30px]] [[Aguav/fr|Gowave]] || style="width: 45px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Figy.png|30px]]&lt;br&gt;[[Figy/fr|Figuy]]
+|}
+
+{| class="wikitable" style="text-align: center;"
+|+ Optimized Planting Formation
+|-
+| style="width: 40px;" | [[File:Aguav.png|30px]] [[Aguav/fr|Gowav]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 45px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Aguav.png|30px]] [[Aguav/fr|Gowav]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Figy.png|30px]]&lt;br&gt;[[Figy/fr|Figuy]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Figy.png|30px]]&lt;br&gt;[[Figy/fr|Figuy]] 
+|- style="height: 60px; background-color:#9C7D98;"
+| || || || || 
+|-
+| [[File:Aguav.png|30px]] [[Aguav/fr|Gowav]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Aguav.png|30px]] [[Aguav/fr|Gowav]] || style="background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Figy.png|30px]]&lt;br&gt;[[Figy/fr|Figuy]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Figy.png|30px]]&lt;br&gt;[[Figy/fr|Figuy]] 
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+=== Timing Table ===
+{| class="wikitable"| style="text-align: center;"
+|+ ''All planting times use the time-to-ripe remaining of the first planted berry for subsequent planting times''
+! Berry !! Planting Time with &lt;br&gt; No Modifier !! Planting Time with &lt;br&gt; Mulch or Sprayduck || Planting Time with &lt;br&gt;  Mulch &amp; Sprayduck
+|-
+| [[Aguav]] || - || - || -
+|-
+| [[Figy]] || - || - || -
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Note: Figy and Aguav berries have equivalent growth times.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Uses==
+===Mutations===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Grepa berries can be used to mutate the following berries.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Wacan.png|20px]] [[Wacan]] || [[File:Pinap.png|20px]] [[Pinap]] &lt;br&gt; [[File:Iapapa.png|20px]] [[Iapapa]] &lt;br&gt; [[File:Qualot.png|20px]] [[Qualot]]
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>LuK</username>
+      <id>96</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>23876</parentid>
+    <sha1>012db90bd18136a661b793407c770580401a5b52</sha1>
+  </revision>
+  <revision>
+    <id>23876</id>
+    <timestamp>2022-08-13T14:28:25Z</timestamp>
+    <text bytes="4368" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #25 Résin
+|image   = [[File:Grepa.png]]
+|caption = Une bouchée de cette Baie très tendre emplit la bouche d'une saveur sucrée et acide.
+|growtime  = 2h 0m 0s
+|harvest = 24 baies
+|replant = 20%
+|mutation = 0,05%
+|points = 600
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 épicée 
+*10 sèche
+*10 sucrée
+*0 amère
+*10 acide
+}}
+
+'''Résin''' est un type de [[Berries/fr|Baie]] qui peut être plantée dans la [[Farm/fr|Ferme]]. Elle s'obtient en entourant une parcelle vide avec au moins 1 [[Aguav/fr|Gowav]] et au moins 1 [[Figy/fr|Figuy]].
+
+== Tables de croissance ==
+=== Stades de croissance ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Pousse !! Arbuste !! Fleuri !! Baie
+|-
+! Temps écoulé depuis plantation
+| 5 mins || 56 mins 40 secs || 1 heure 33 mins 20 secs || 2 heures - 4 heure
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:GrepaTreeTaller.png|50px]] || &lt;center&gt; [[File:GrepaTreeBloom.png|50px]] || &lt;center&gt; [[File:GrepaTreeBerry.png|50px]]
+|}
+
+=== Temps de croissance avec modificateurs  ===
+{| class="wikitable" | style="text-align: center;"
+! Modificateur !! Temps maturité-flétrissement !! Nombre de Fertipousse requis
+|-
+! Aucun
+| 2 heures -&lt;br&gt; 4 heures || ---
+|-
+! Engrais ou Kwakarroisoir
+| 1 heure 20 mins -&lt;br&gt; 2 heures 40 mins || 16 engrais
+|-
+! Engrais et Kwakarroisoir
+| 53 mins 20 secs -&lt;br&gt; 1 heure 46 mins 40 secs || 11 engrais
+|}
+
+== Organigramme ==
+[[File:Résin_-_Graph_découverte.png|250px]]
+&lt;br&gt;
+
+== Stratégie de mutation ==
+=== Formations possibles ===
+
+Vous pouvez remplir votre ferme de la manière suivante pour obtenir des baies Lonme. Les cases violettes indiquent où les mutations peuvent avoir lieu.
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation&amp;nbsp;de&amp;nbsp;base
+|-
+| style="width: 45px;" | [[File:Aguav.png|30px]] [[Aguav/fr|Gowave]] || style="width: 45px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Figy.png|30px]]&lt;br&gt;[[Figy/fr|Figuy]]
+|}
+
+{| class="wikitable" style="text-align: center;"
+|+ Optimized Planting Formation
+|-
+| style="width: 40px;" | [[File:Aguav.png|30px]] [[Aguav/fr|Gowav]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 45px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Aguav.png|30px]] [[Aguav/fr|Gowav]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Figy.png|30px]]&lt;br&gt;[[Figy]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Figy.png|30px]]&lt;br&gt;[[Figy]] 
+|- style="height: 60px; background-color:#9C7D98;"
+| || || || || 
+|-
+| [[File:Aguav.png|30px]] [[Aguav/fr|Gowav]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Aguav.png|30px]] [[Aguav/fr|Gowav]] || style="background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Figy.png|30px]]&lt;br&gt;[[Figy]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Figy.png|30px]]&lt;br&gt;[[Figy]] 
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+=== Timing Table ===
+{| class="wikitable"| style="text-align: center;"
+|+ ''All planting times use the time-to-ripe remaining of the first planted berry for subsequent planting times''
+! Berry !! Planting Time with &lt;br&gt; No Modifier !! Planting Time with &lt;br&gt; Mulch or Sprayduck || Planting Time with &lt;br&gt;  Mulch &amp; Sprayduck
+|-
+| [[Aguav]] || - || - || -
+|-
+| [[Figy]] || - || - || -
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Note: Figy and Aguav berries have equivalent growth times.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Uses==
+===Mutations===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Grepa berries can be used to mutate the following berries.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Wacan.png|20px]] [[Wacan]] || [[File:Pinap.png|20px]] [[Pinap]] &lt;br&gt; [[File:Iapapa.png|20px]] [[Iapapa]] &lt;br&gt; [[File:Qualot.png|20px]] [[Qualot]]
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>LuK</username>
+      <id>96</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>23875</parentid>
+    <sha1>dbbdf8b5d69b0ec5b8e7f6f3668f79db87437866</sha1>
+  </revision>
+  <revision>
+    <id>23875</id>
+    <timestamp>2022-08-13T14:27:53Z</timestamp>
+    <text bytes="4372" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #25 Résin
+|image   = [[File:Grepa.png]]
+|caption = Une bouchée de cette Baie très tendre emplit la bouche d'une saveur sucrée et acide.
+|growtime  = 2h 0m 0s
+|harvest = 24 baies
+|replant = 20%
+|mutation = 0,05%
+|points = 600
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 épicée 
+*10 sèche
+*10 sucrée
+*0 amère
+*10 acide
+}}
+
+'''Résin''' est un type de [[Berries/fr|Baie]] qui peut être plantée dans la [[Farm/fr|Ferme]]. Elle s'obtient en entourant une parcelle vide avec au moins 1 [[Aguav/fr|Gowav]] et au moins 1 [[Figy/fr|Figuy]].
+
+== Tables de croissance ==
+=== Stades de croissance ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Pousse !! Arbuste !! Fleuri !! Baie
+|-
+! Temps écoulé depuis plantation
+| 5 mins || 56 mins 40 secs || 1 heure 33 mins 20 secs || 2 heures - 4 heure
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:GrepaTreeTaller.png|50px]] || &lt;center&gt; [[File:GrepaTreeBloom.png|50px]] || &lt;center&gt; [[File:GrepaTreeBerry.png|50px]]
+|}
+
+=== Temps de croissance avec modificateurs  ===
+{| class="wikitable" | style="text-align: center;"
+! Modificateur !! Temps maturité-flétrissement !! Nombre de Fertipousse requis
+|-
+! Aucun
+| 2 heures -&lt;br&gt; 4 heures || ---
+|-
+! Engrais ou Kwakarroisoir
+| 1 heure 20 mins -&lt;br&gt; 2 heures 40 mins || 16 engrais
+|-
+! Engrais et Kwakarroisoir
+| 53 mins 20 secs -&lt;br&gt; 1 heure 46 mins 40 secs || 11 engrais
+|}
+
+== Organigramme ==
+[[File:Résin_-_Graph_découverte.png|250px]]
+&lt;br&gt;
+
+== Stratégie de mutation ==
+=== Formations possibles ===
+
+Vous pouvez remplir votre ferme de la manière suivante pour obtenir des baies Lonme. Les cases violettes indiquent où les mutations peuvent avoir lieu.
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation&amp;nbsp;de&amp;nbsp;base
+|-
+| style="width: 45px;" | [[File:Aguav.png|30px]] [[Aguav/fr|Gowave]] || style="width: 45px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Figy.png|30px]]&lt;br&gt;[[Figy/fr|Figuy]]
+|}
+
+{| class="wikitable" style="text-align: center;"
+|+ Optimized Planting Formation
+|-
+| style="width: 40px;" | [[File:Aguav.png|30px]] [[Aguav/fr|Gowave]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 45px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Aguav.png|30px]] [[Aguav/fr|Gowave]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Figy.png|30px]]&lt;br&gt;[[Figy]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Figy.png|30px]]&lt;br&gt;[[Figy]] 
+|- style="height: 60px; background-color:#9C7D98;"
+| || || || || 
+|-
+| [[File:Aguav.png|30px]] [[Aguav/fr|Gowave]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Aguav.png|30px]] [[Aguav/fr|Gowave]] || style="background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Figy.png|30px]]&lt;br&gt;[[Figy]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Figy.png|30px]]&lt;br&gt;[[Figy]] 
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+=== Timing Table ===
+{| class="wikitable"| style="text-align: center;"
+|+ ''All planting times use the time-to-ripe remaining of the first planted berry for subsequent planting times''
+! Berry !! Planting Time with &lt;br&gt; No Modifier !! Planting Time with &lt;br&gt; Mulch or Sprayduck || Planting Time with &lt;br&gt;  Mulch &amp; Sprayduck
+|-
+| [[Aguav]] || - || - || -
+|-
+| [[Figy]] || - || - || -
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Note: Figy and Aguav berries have equivalent growth times.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Uses==
+===Mutations===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Grepa berries can be used to mutate the following berries.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Wacan.png|20px]] [[Wacan]] || [[File:Pinap.png|20px]] [[Pinap]] &lt;br&gt; [[File:Iapapa.png|20px]] [[Iapapa]] &lt;br&gt; [[File:Qualot.png|20px]] [[Qualot]]
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>LuK</username>
+      <id>96</id>
+    </contributor>
+    <comment>Created page with "{| class="wikitable" style="text-align: center;" |+ Optimized Planting Formation |- | style="width: 40px;" | [[File:Aguav.png|30px]] [[Aguav/fr|Gowave]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 45px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Aguav.png|30px]] [[Aguav/fr|Gowave]] || style="width: 40px; background-color:#9C7D98;" |  |- | style="background-color:#9C7D98;" | || [[File:Figy.png|30px]]&lt;br&gt;[[Figy]] || style="backgr..."</comment>
+    <model>wikitext</model>
+    <parentid>23874</parentid>
+    <sha1>c96c080bc153394f528975698315eaf229269f78</sha1>
+  </revision>
+  <revision>
+    <id>23874</id>
+    <timestamp>2022-08-13T14:27:25Z</timestamp>
+    <text bytes="4388" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #25 Résin
+|image   = [[File:Grepa.png]]
+|caption = Une bouchée de cette Baie très tendre emplit la bouche d'une saveur sucrée et acide.
+|growtime  = 2h 0m 0s
+|harvest = 24 baies
+|replant = 20%
+|mutation = 0,05%
+|points = 600
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 épicée 
+*10 sèche
+*10 sucrée
+*0 amère
+*10 acide
+}}
+
+'''Résin''' est un type de [[Berries/fr|Baie]] qui peut être plantée dans la [[Farm/fr|Ferme]]. Elle s'obtient en entourant une parcelle vide avec au moins 1 [[Aguav/fr|Gowav]] et au moins 1 [[Figy/fr|Figuy]].
+
+== Tables de croissance ==
+=== Stades de croissance ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Pousse !! Arbuste !! Fleuri !! Baie
+|-
+! Temps écoulé depuis plantation
+| 5 mins || 56 mins 40 secs || 1 heure 33 mins 20 secs || 2 heures - 4 heure
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:GrepaTreeTaller.png|50px]] || &lt;center&gt; [[File:GrepaTreeBloom.png|50px]] || &lt;center&gt; [[File:GrepaTreeBerry.png|50px]]
+|}
+
+=== Temps de croissance avec modificateurs  ===
+{| class="wikitable" | style="text-align: center;"
+! Modificateur !! Temps maturité-flétrissement !! Nombre de Fertipousse requis
+|-
+! Aucun
+| 2 heures -&lt;br&gt; 4 heures || ---
+|-
+! Engrais ou Kwakarroisoir
+| 1 heure 20 mins -&lt;br&gt; 2 heures 40 mins || 16 engrais
+|-
+! Engrais et Kwakarroisoir
+| 53 mins 20 secs -&lt;br&gt; 1 heure 46 mins 40 secs || 11 engrais
+|}
+
+== Organigramme ==
+[[File:Résin_-_Graph_découverte.png|250px]]
+&lt;br&gt;
+
+== Stratégie de mutation ==
+=== Formations possibles ===
+
+Vous pouvez remplir votre ferme de la manière suivante pour obtenir des baies Lonme. Les cases violettes indiquent où les mutations peuvent avoir lieu.
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation&amp;nbsp;de&amp;nbsp;base
+|-
+| style="width: 45px;" | [[File:Aguav.png|30px]] [[Aguav/fr|Gowave]] || style="width: 45px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Figy.png|30px]]&lt;br&gt;[[Figy/fr|Figuy]]
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Optimized Planting Formation
+|-
+| style="width: 40px;" | [[File:Aguav.png|30px]] [[Aguav]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 45px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Aguav.png|30px]] [[Aguav]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Figy.png|30px]]&lt;br&gt;[[Figy]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Figy.png|30px]]&lt;br&gt;[[Figy]] 
+|- style="height: 60px; background-color:#9C7D98;"
+| || || || || 
+|-
+| [[File:Aguav.png|30px]] [[Aguav]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Aguav.png|30px]] [[Aguav]] || style="background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Figy.png|30px]]&lt;br&gt;[[Figy]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Figy.png|30px]]&lt;br&gt;[[Figy]] 
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+=== Timing Table ===
+{| class="wikitable"| style="text-align: center;"
+|+ ''All planting times use the time-to-ripe remaining of the first planted berry for subsequent planting times''
+! Berry !! Planting Time with &lt;br&gt; No Modifier !! Planting Time with &lt;br&gt; Mulch or Sprayduck || Planting Time with &lt;br&gt;  Mulch &amp; Sprayduck
+|-
+| [[Aguav]] || - || - || -
+|-
+| [[Figy]] || - || - || -
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Note: Figy and Aguav berries have equivalent growth times.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Uses==
+===Mutations===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Grepa berries can be used to mutate the following berries.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Wacan.png|20px]] [[Wacan]] || [[File:Pinap.png|20px]] [[Pinap]] &lt;br&gt; [[File:Iapapa.png|20px]] [[Iapapa]] &lt;br&gt; [[File:Qualot.png|20px]] [[Qualot]]
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>LuK</username>
+      <id>96</id>
+    </contributor>
+    <comment>Created page with "{| class="wikitable" style="text-align: center;" |+ Formation&amp;nbsp;de&amp;nbsp;base |- | style="width: 45px;" | [[File:Aguav.png|30px]] [[Aguav/fr|Gowave]] || style="width: 45px; background-color:#9C7D98;" |  |- | style="background-color:#9C7D98;" | || [[File:Figy.png|30px]]&lt;br&gt;[[Figy/fr|Figuy]] |}"</comment>
+    <model>wikitext</model>
+    <parentid>23873</parentid>
+    <sha1>d3b1e1424c5af3e5e252ffff6061e0c94c40cf11</sha1>
+  </revision>
+  <revision>
+    <id>23873</id>
+    <timestamp>2022-08-13T14:26:34Z</timestamp>
+    <text bytes="4412" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #25 Résin
+|image   = [[File:Grepa.png]]
+|caption = Une bouchée de cette Baie très tendre emplit la bouche d'une saveur sucrée et acide.
+|growtime  = 2h 0m 0s
+|harvest = 24 baies
+|replant = 20%
+|mutation = 0,05%
+|points = 600
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 épicée 
+*10 sèche
+*10 sucrée
+*0 amère
+*10 acide
+}}
+
+'''Résin''' est un type de [[Berries/fr|Baie]] qui peut être plantée dans la [[Farm/fr|Ferme]]. Elle s'obtient en entourant une parcelle vide avec au moins 1 [[Aguav/fr|Gowav]] et au moins 1 [[Figy/fr|Figuy]].
+
+== Tables de croissance ==
+=== Stades de croissance ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Pousse !! Arbuste !! Fleuri !! Baie
+|-
+! Temps écoulé depuis plantation
+| 5 mins || 56 mins 40 secs || 1 heure 33 mins 20 secs || 2 heures - 4 heure
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:GrepaTreeTaller.png|50px]] || &lt;center&gt; [[File:GrepaTreeBloom.png|50px]] || &lt;center&gt; [[File:GrepaTreeBerry.png|50px]]
+|}
+
+=== Temps de croissance avec modificateurs  ===
+{| class="wikitable" | style="text-align: center;"
+! Modificateur !! Temps maturité-flétrissement !! Nombre de Fertipousse requis
+|-
+! Aucun
+| 2 heures -&lt;br&gt; 4 heures || ---
+|-
+! Engrais ou Kwakarroisoir
+| 1 heure 20 mins -&lt;br&gt; 2 heures 40 mins || 16 engrais
+|-
+! Engrais et Kwakarroisoir
+| 53 mins 20 secs -&lt;br&gt; 1 heure 46 mins 40 secs || 11 engrais
+|}
+
+== Organigramme ==
+[[File:Résin_-_Graph_découverte.png|250px]]
+&lt;br&gt;
+
+== Stratégie de mutation ==
+=== Formations possibles ===
+
+Vous pouvez remplir votre ferme de la manière suivante pour obtenir des baies Lonme. Les cases violettes indiquent où les mutations peuvent avoir lieu.
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Base Formation
+|-
+| style="width: 45px;" | [[File:Aguav.png|30px]] [[Aguav]] || style="width: 45px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Figy.png|30px]]&lt;br&gt;[[Figy]]
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Optimized Planting Formation
+|-
+| style="width: 40px;" | [[File:Aguav.png|30px]] [[Aguav]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 45px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Aguav.png|30px]] [[Aguav]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Figy.png|30px]]&lt;br&gt;[[Figy]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Figy.png|30px]]&lt;br&gt;[[Figy]] 
+|- style="height: 60px; background-color:#9C7D98;"
+| || || || || 
+|-
+| [[File:Aguav.png|30px]] [[Aguav]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Aguav.png|30px]] [[Aguav]] || style="background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Figy.png|30px]]&lt;br&gt;[[Figy]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Figy.png|30px]]&lt;br&gt;[[Figy]] 
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+=== Timing Table ===
+{| class="wikitable"| style="text-align: center;"
+|+ ''All planting times use the time-to-ripe remaining of the first planted berry for subsequent planting times''
+! Berry !! Planting Time with &lt;br&gt; No Modifier !! Planting Time with &lt;br&gt; Mulch or Sprayduck || Planting Time with &lt;br&gt;  Mulch &amp; Sprayduck
+|-
+| [[Aguav]] || - || - || -
+|-
+| [[Figy]] || - || - || -
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Note: Figy and Aguav berries have equivalent growth times.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Uses==
+===Mutations===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Grepa berries can be used to mutate the following berries.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Wacan.png|20px]] [[Wacan]] || [[File:Pinap.png|20px]] [[Pinap]] &lt;br&gt; [[File:Iapapa.png|20px]] [[Iapapa]] &lt;br&gt; [[File:Qualot.png|20px]] [[Qualot]]
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>LuK</username>
+      <id>96</id>
+    </contributor>
+    <comment>Created page with "Vous pouvez remplir votre ferme de la manière suivante pour obtenir des baies Lonme. Les cases violettes indiquent où les mutations peuvent avoir lieu."</comment>
+    <model>wikitext</model>
+    <parentid>23872</parentid>
+    <sha1>74b8412707f3f911668e9d060a945e4f27adbca7</sha1>
+  </revision>
+  <revision>
+    <id>23872</id>
+    <timestamp>2022-08-13T14:26:14Z</timestamp>
+    <text bytes="4434" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #25 Résin
+|image   = [[File:Grepa.png]]
+|caption = Une bouchée de cette Baie très tendre emplit la bouche d'une saveur sucrée et acide.
+|growtime  = 2h 0m 0s
+|harvest = 24 baies
+|replant = 20%
+|mutation = 0,05%
+|points = 600
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 épicée 
+*10 sèche
+*10 sucrée
+*0 amère
+*10 acide
+}}
+
+'''Résin''' est un type de [[Berries/fr|Baie]] qui peut être plantée dans la [[Farm/fr|Ferme]]. Elle s'obtient en entourant une parcelle vide avec au moins 1 [[Aguav/fr|Gowav]] et au moins 1 [[Figy/fr|Figuy]].
+
+== Tables de croissance ==
+=== Stades de croissance ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Pousse !! Arbuste !! Fleuri !! Baie
+|-
+! Temps écoulé depuis plantation
+| 5 mins || 56 mins 40 secs || 1 heure 33 mins 20 secs || 2 heures - 4 heure
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:GrepaTreeTaller.png|50px]] || &lt;center&gt; [[File:GrepaTreeBloom.png|50px]] || &lt;center&gt; [[File:GrepaTreeBerry.png|50px]]
+|}
+
+=== Temps de croissance avec modificateurs  ===
+{| class="wikitable" | style="text-align: center;"
+! Modificateur !! Temps maturité-flétrissement !! Nombre de Fertipousse requis
+|-
+! Aucun
+| 2 heures -&lt;br&gt; 4 heures || ---
+|-
+! Engrais ou Kwakarroisoir
+| 1 heure 20 mins -&lt;br&gt; 2 heures 40 mins || 16 engrais
+|-
+! Engrais et Kwakarroisoir
+| 53 mins 20 secs -&lt;br&gt; 1 heure 46 mins 40 secs || 11 engrais
+|}
+
+== Organigramme ==
+[[File:Résin_-_Graph_découverte.png|250px]]
+&lt;br&gt;
+
+== Stratégie de mutation ==
+=== Formations possibles ===
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+You can fill your farm in the following way to obtain Grepa berries. Purple squares indicate where mutations can occur.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Base Formation
+|-
+| style="width: 45px;" | [[File:Aguav.png|30px]] [[Aguav]] || style="width: 45px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Figy.png|30px]]&lt;br&gt;[[Figy]]
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Optimized Planting Formation
+|-
+| style="width: 40px;" | [[File:Aguav.png|30px]] [[Aguav]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 45px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Aguav.png|30px]] [[Aguav]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Figy.png|30px]]&lt;br&gt;[[Figy]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Figy.png|30px]]&lt;br&gt;[[Figy]] 
+|- style="height: 60px; background-color:#9C7D98;"
+| || || || || 
+|-
+| [[File:Aguav.png|30px]] [[Aguav]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Aguav.png|30px]] [[Aguav]] || style="background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Figy.png|30px]]&lt;br&gt;[[Figy]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Figy.png|30px]]&lt;br&gt;[[Figy]] 
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+=== Timing Table ===
+{| class="wikitable"| style="text-align: center;"
+|+ ''All planting times use the time-to-ripe remaining of the first planted berry for subsequent planting times''
+! Berry !! Planting Time with &lt;br&gt; No Modifier !! Planting Time with &lt;br&gt; Mulch or Sprayduck || Planting Time with &lt;br&gt;  Mulch &amp; Sprayduck
+|-
+| [[Aguav]] || - || - || -
+|-
+| [[Figy]] || - || - || -
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Note: Figy and Aguav berries have equivalent growth times.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Uses==
+===Mutations===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Grepa berries can be used to mutate the following berries.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Wacan.png|20px]] [[Wacan]] || [[File:Pinap.png|20px]] [[Pinap]] &lt;br&gt; [[File:Iapapa.png|20px]] [[Iapapa]] &lt;br&gt; [[File:Qualot.png|20px]] [[Qualot]]
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>LuK</username>
+      <id>96</id>
+    </contributor>
+    <comment>Created page with "== Stratégie de mutation == === Formations possibles ==="</comment>
+    <model>wikitext</model>
+    <parentid>23871</parentid>
+    <sha1>53ad1a3c8fd03f7c46ac970c41fce1dc691abf69</sha1>
+  </revision>
+  <revision>
+    <id>23871</id>
+    <timestamp>2022-08-13T14:26:00Z</timestamp>
+    <text bytes="4493" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #25 Résin
+|image   = [[File:Grepa.png]]
+|caption = Une bouchée de cette Baie très tendre emplit la bouche d'une saveur sucrée et acide.
+|growtime  = 2h 0m 0s
+|harvest = 24 baies
+|replant = 20%
+|mutation = 0,05%
+|points = 600
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 épicée 
+*10 sèche
+*10 sucrée
+*0 amère
+*10 acide
+}}
+
+'''Résin''' est un type de [[Berries/fr|Baie]] qui peut être plantée dans la [[Farm/fr|Ferme]]. Elle s'obtient en entourant une parcelle vide avec au moins 1 [[Aguav/fr|Gowav]] et au moins 1 [[Figy/fr|Figuy]].
+
+== Tables de croissance ==
+=== Stades de croissance ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Pousse !! Arbuste !! Fleuri !! Baie
+|-
+! Temps écoulé depuis plantation
+| 5 mins || 56 mins 40 secs || 1 heure 33 mins 20 secs || 2 heures - 4 heure
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:GrepaTreeTaller.png|50px]] || &lt;center&gt; [[File:GrepaTreeBloom.png|50px]] || &lt;center&gt; [[File:GrepaTreeBerry.png|50px]]
+|}
+
+=== Temps de croissance avec modificateurs  ===
+{| class="wikitable" | style="text-align: center;"
+! Modificateur !! Temps maturité-flétrissement !! Nombre de Fertipousse requis
+|-
+! Aucun
+| 2 heures -&lt;br&gt; 4 heures || ---
+|-
+! Engrais ou Kwakarroisoir
+| 1 heure 20 mins -&lt;br&gt; 2 heures 40 mins || 16 engrais
+|-
+! Engrais et Kwakarroisoir
+| 53 mins 20 secs -&lt;br&gt; 1 heure 46 mins 40 secs || 11 engrais
+|}
+
+== Organigramme ==
+[[File:Résin_-_Graph_découverte.png|250px]]
+&lt;br&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Mutation Strategy ==
+=== Possible Planting Formations ===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+You can fill your farm in the following way to obtain Grepa berries. Purple squares indicate where mutations can occur.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Base Formation
+|-
+| style="width: 45px;" | [[File:Aguav.png|30px]] [[Aguav]] || style="width: 45px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Figy.png|30px]]&lt;br&gt;[[Figy]]
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Optimized Planting Formation
+|-
+| style="width: 40px;" | [[File:Aguav.png|30px]] [[Aguav]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 45px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Aguav.png|30px]] [[Aguav]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Figy.png|30px]]&lt;br&gt;[[Figy]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Figy.png|30px]]&lt;br&gt;[[Figy]] 
+|- style="height: 60px; background-color:#9C7D98;"
+| || || || || 
+|-
+| [[File:Aguav.png|30px]] [[Aguav]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Aguav.png|30px]] [[Aguav]] || style="background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Figy.png|30px]]&lt;br&gt;[[Figy]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Figy.png|30px]]&lt;br&gt;[[Figy]] 
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+=== Timing Table ===
+{| class="wikitable"| style="text-align: center;"
+|+ ''All planting times use the time-to-ripe remaining of the first planted berry for subsequent planting times''
+! Berry !! Planting Time with &lt;br&gt; No Modifier !! Planting Time with &lt;br&gt; Mulch or Sprayduck || Planting Time with &lt;br&gt;  Mulch &amp; Sprayduck
+|-
+| [[Aguav]] || - || - || -
+|-
+| [[Figy]] || - || - || -
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Note: Figy and Aguav berries have equivalent growth times.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Uses==
+===Mutations===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Grepa berries can be used to mutate the following berries.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Wacan.png|20px]] [[Wacan]] || [[File:Pinap.png|20px]] [[Pinap]] &lt;br&gt; [[File:Iapapa.png|20px]] [[Iapapa]] &lt;br&gt; [[File:Qualot.png|20px]] [[Qualot]]
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>LuK</username>
+      <id>96</id>
+    </contributor>
+    <comment>Created page with "== Organigramme == [[File:Résin_-_Graph_découverte.png|250px]] &lt;br&gt;"</comment>
+    <model>wikitext</model>
+    <parentid>23870</parentid>
+    <sha1>d931562798b2fc8bddfc51c4e0f3982c1c0b5df7</sha1>
+  </revision>
+  <revision>
+    <id>23870</id>
+    <timestamp>2022-08-13T14:24:57Z</timestamp>
+    <text bytes="4537" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #25 Résin
+|image   = [[File:Grepa.png]]
+|caption = Une bouchée de cette Baie très tendre emplit la bouche d'une saveur sucrée et acide.
+|growtime  = 2h 0m 0s
+|harvest = 24 baies
+|replant = 20%
+|mutation = 0,05%
+|points = 600
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 épicée 
+*10 sèche
+*10 sucrée
+*0 amère
+*10 acide
+}}
+
+'''Résin''' est un type de [[Berries/fr|Baie]] qui peut être plantée dans la [[Farm/fr|Ferme]]. Elle s'obtient en entourant une parcelle vide avec au moins 1 [[Aguav/fr|Gowav]] et au moins 1 [[Figy/fr|Figuy]].
+
+== Tables de croissance ==
+=== Stades de croissance ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Pousse !! Arbuste !! Fleuri !! Baie
+|-
+! Temps écoulé depuis plantation
+| 5 mins || 56 mins 40 secs || 1 heure 33 mins 20 secs || 2 heures - 4 heure
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:GrepaTreeTaller.png|50px]] || &lt;center&gt; [[File:GrepaTreeBloom.png|50px]] || &lt;center&gt; [[File:GrepaTreeBerry.png|50px]]
+|}
+
+=== Temps de croissance avec modificateurs  ===
+{| class="wikitable" | style="text-align: center;"
+! Modificateur !! Temps maturité-flétrissement !! Nombre de Fertipousse requis
+|-
+! Aucun
+| 2 heures -&lt;br&gt; 4 heures || ---
+|-
+! Engrais ou Kwakarroisoir
+| 1 heure 20 mins -&lt;br&gt; 2 heures 40 mins || 16 engrais
+|-
+! Engrais et Kwakarroisoir
+| 53 mins 20 secs -&lt;br&gt; 1 heure 46 mins 40 secs || 11 engrais
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Flow Chart ==
+[[File:Grepa_Flow_Chart.png|250px]]
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Mutation Strategy ==
+=== Possible Planting Formations ===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+You can fill your farm in the following way to obtain Grepa berries. Purple squares indicate where mutations can occur.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Base Formation
+|-
+| style="width: 45px;" | [[File:Aguav.png|30px]] [[Aguav]] || style="width: 45px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Figy.png|30px]]&lt;br&gt;[[Figy]]
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Optimized Planting Formation
+|-
+| style="width: 40px;" | [[File:Aguav.png|30px]] [[Aguav]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 45px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Aguav.png|30px]] [[Aguav]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Figy.png|30px]]&lt;br&gt;[[Figy]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Figy.png|30px]]&lt;br&gt;[[Figy]] 
+|- style="height: 60px; background-color:#9C7D98;"
+| || || || || 
+|-
+| [[File:Aguav.png|30px]] [[Aguav]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Aguav.png|30px]] [[Aguav]] || style="background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Figy.png|30px]]&lt;br&gt;[[Figy]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Figy.png|30px]]&lt;br&gt;[[Figy]] 
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+=== Timing Table ===
+{| class="wikitable"| style="text-align: center;"
+|+ ''All planting times use the time-to-ripe remaining of the first planted berry for subsequent planting times''
+! Berry !! Planting Time with &lt;br&gt; No Modifier !! Planting Time with &lt;br&gt; Mulch or Sprayduck || Planting Time with &lt;br&gt;  Mulch &amp; Sprayduck
+|-
+| [[Aguav]] || - || - || -
+|-
+| [[Figy]] || - || - || -
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Note: Figy and Aguav berries have equivalent growth times.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Uses==
+===Mutations===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Grepa berries can be used to mutate the following berries.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Wacan.png|20px]] [[Wacan]] || [[File:Pinap.png|20px]] [[Pinap]] &lt;br&gt; [[File:Iapapa.png|20px]] [[Iapapa]] &lt;br&gt; [[File:Qualot.png|20px]] [[Qualot]]
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>LuK</username>
+      <id>96</id>
+    </contributor>
+    <comment>Created page with "=== Temps de croissance avec modificateurs  === {| class="wikitable" | style="text-align: center;" ! Modificateur !! Temps maturité-flétrissement !! Nombre de Fertipousse requis |- ! Aucun | 2 heures -&lt;br&gt; 4 heures || --- |- ! Engrais ou Kwakarroisoir | 1 heure 20 mins -&lt;br&gt; 2 heures 40 mins || 16 engrais |- ! Engrais et Kwakarroisoir | 53 mins 20 secs -&lt;br&gt; 1 heure 46 mins 40 secs || 11 engrais |}"</comment>
+    <model>wikitext</model>
+    <parentid>23869</parentid>
+    <sha1>460c268ecc26f44786e8bfb1b8613412b4ea76e8</sha1>
+  </revision>
+  <revision>
+    <id>23869</id>
+    <timestamp>2022-08-13T14:22:56Z</timestamp>
+    <text bytes="4543" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #25 Résin
+|image   = [[File:Grepa.png]]
+|caption = Une bouchée de cette Baie très tendre emplit la bouche d'une saveur sucrée et acide.
+|growtime  = 2h 0m 0s
+|harvest = 24 baies
+|replant = 20%
+|mutation = 0,05%
+|points = 600
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 épicée 
+*10 sèche
+*10 sucrée
+*0 amère
+*10 acide
+}}
+
+'''Résin''' est un type de [[Berries/fr|Baie]] qui peut être plantée dans la [[Farm/fr|Ferme]]. Elle s'obtient en entourant une parcelle vide avec au moins 1 [[Aguav/fr|Gowav]] et au moins 1 [[Figy/fr|Figuy]].
+
+== Tables de croissance ==
+=== Stades de croissance ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Pousse !! Arbuste !! Fleuri !! Baie
+|-
+! Temps écoulé depuis plantation
+| 5 mins || 56 mins 40 secs || 1 heure 33 mins 20 secs || 2 heures - 4 heure
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:GrepaTreeTaller.png|50px]] || &lt;center&gt; [[File:GrepaTreeBloom.png|50px]] || &lt;center&gt; [[File:GrepaTreeBerry.png|50px]]
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+=== Ripening Time with Modifiers  ===
+{| class="wikitable" | style="text-align: center;"
+! Modifier !! Ripe-Wither Time !! Boost Mulch Needed to Ripen
+|-
+! None
+| 2 hours -&lt;br&gt; 4 hours || ---
+|-
+! Mulch or Sprayduck
+| 1 hour 20 mins -&lt;br&gt; 2 hours 40 mins || 16 mulch
+|-
+! Mulch and Sprayduck
+| 53 mins 20 secs -&lt;br&gt; 1 hour 46 mins 40 secs || 11 mulch
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Flow Chart ==
+[[File:Grepa_Flow_Chart.png|250px]]
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Mutation Strategy ==
+=== Possible Planting Formations ===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+You can fill your farm in the following way to obtain Grepa berries. Purple squares indicate where mutations can occur.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Base Formation
+|-
+| style="width: 45px;" | [[File:Aguav.png|30px]] [[Aguav]] || style="width: 45px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Figy.png|30px]]&lt;br&gt;[[Figy]]
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Optimized Planting Formation
+|-
+| style="width: 40px;" | [[File:Aguav.png|30px]] [[Aguav]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 45px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Aguav.png|30px]] [[Aguav]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Figy.png|30px]]&lt;br&gt;[[Figy]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Figy.png|30px]]&lt;br&gt;[[Figy]] 
+|- style="height: 60px; background-color:#9C7D98;"
+| || || || || 
+|-
+| [[File:Aguav.png|30px]] [[Aguav]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Aguav.png|30px]] [[Aguav]] || style="background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Figy.png|30px]]&lt;br&gt;[[Figy]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Figy.png|30px]]&lt;br&gt;[[Figy]] 
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+=== Timing Table ===
+{| class="wikitable"| style="text-align: center;"
+|+ ''All planting times use the time-to-ripe remaining of the first planted berry for subsequent planting times''
+! Berry !! Planting Time with &lt;br&gt; No Modifier !! Planting Time with &lt;br&gt; Mulch or Sprayduck || Planting Time with &lt;br&gt;  Mulch &amp; Sprayduck
+|-
+| [[Aguav]] || - || - || -
+|-
+| [[Figy]] || - || - || -
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Note: Figy and Aguav berries have equivalent growth times.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Uses==
+===Mutations===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Grepa berries can be used to mutate the following berries.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Wacan.png|20px]] [[Wacan]] || [[File:Pinap.png|20px]] [[Pinap]] &lt;br&gt; [[File:Iapapa.png|20px]] [[Iapapa]] &lt;br&gt; [[File:Qualot.png|20px]] [[Qualot]]
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>LuK</username>
+      <id>96</id>
+    </contributor>
+    <comment>Created page with "== Tables de croissance == === Stades de croissance === {| class="wikitable" | style = "image-rendering: pixelated" ! !! Pousse !! Arbuste !! Fleuri !! Baie |- ! Temps écoulé depuis plantation | 5 mins || 56 mins 40 secs || 1 heure 33 mins 20 secs || 2 heures - 4 heure |- ! Animation | &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:GrepaTreeTaller.png|50px]] || &lt;center&gt; [[File:GrepaTreeBloom.png|50px]] || &lt;center&gt; [[File:GrepaTreeBerry.png|50px]] |}"</comment>
+    <model>wikitext</model>
+    <parentid>23868</parentid>
+    <sha1>11f678e33de35c1b019853548725035abbb9c5da</sha1>
+  </revision>
+  <revision>
+    <id>23868</id>
+    <timestamp>2022-08-13T14:22:03Z</timestamp>
+    <text bytes="4576" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #25 Résin
+|image   = [[File:Grepa.png]]
+|caption = Une bouchée de cette Baie très tendre emplit la bouche d'une saveur sucrée et acide.
+|growtime  = 2h 0m 0s
+|harvest = 24 baies
+|replant = 20%
+|mutation = 0,05%
+|points = 600
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 épicée 
+*10 sèche
+*10 sucrée
+*0 amère
+*10 acide
+}}
+
+'''Résin''' est un type de [[Berries/fr|Baie]] qui peut être plantée dans la [[Farm/fr|Ferme]]. Elle s'obtient en entourant une parcelle vide avec au moins 1 [[Aguav/fr|Gowav]] et au moins 1 [[Figy/fr|Figuy]].
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Growth Tables ==
+=== Growth Stages ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 5 mins || 56 mins 40 secs || 1 hour 33 mins 20 secs || 2 hours - 4 hours
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:GrepaTreeTaller.png|50px]] || &lt;center&gt; [[File:GrepaTreeBloom.png|50px]] || &lt;center&gt; [[File:GrepaTreeBerry.png|50px]]
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+=== Ripening Time with Modifiers  ===
+{| class="wikitable" | style="text-align: center;"
+! Modifier !! Ripe-Wither Time !! Boost Mulch Needed to Ripen
+|-
+! None
+| 2 hours -&lt;br&gt; 4 hours || ---
+|-
+! Mulch or Sprayduck
+| 1 hour 20 mins -&lt;br&gt; 2 hours 40 mins || 16 mulch
+|-
+! Mulch and Sprayduck
+| 53 mins 20 secs -&lt;br&gt; 1 hour 46 mins 40 secs || 11 mulch
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Flow Chart ==
+[[File:Grepa_Flow_Chart.png|250px]]
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Mutation Strategy ==
+=== Possible Planting Formations ===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+You can fill your farm in the following way to obtain Grepa berries. Purple squares indicate where mutations can occur.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Base Formation
+|-
+| style="width: 45px;" | [[File:Aguav.png|30px]] [[Aguav]] || style="width: 45px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Figy.png|30px]]&lt;br&gt;[[Figy]]
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Optimized Planting Formation
+|-
+| style="width: 40px;" | [[File:Aguav.png|30px]] [[Aguav]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 45px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Aguav.png|30px]] [[Aguav]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Figy.png|30px]]&lt;br&gt;[[Figy]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Figy.png|30px]]&lt;br&gt;[[Figy]] 
+|- style="height: 60px; background-color:#9C7D98;"
+| || || || || 
+|-
+| [[File:Aguav.png|30px]] [[Aguav]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Aguav.png|30px]] [[Aguav]] || style="background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Figy.png|30px]]&lt;br&gt;[[Figy]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Figy.png|30px]]&lt;br&gt;[[Figy]] 
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+=== Timing Table ===
+{| class="wikitable"| style="text-align: center;"
+|+ ''All planting times use the time-to-ripe remaining of the first planted berry for subsequent planting times''
+! Berry !! Planting Time with &lt;br&gt; No Modifier !! Planting Time with &lt;br&gt; Mulch or Sprayduck || Planting Time with &lt;br&gt;  Mulch &amp; Sprayduck
+|-
+| [[Aguav]] || - || - || -
+|-
+| [[Figy]] || - || - || -
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Note: Figy and Aguav berries have equivalent growth times.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Uses==
+===Mutations===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Grepa berries can be used to mutate the following berries.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Wacan.png|20px]] [[Wacan]] || [[File:Pinap.png|20px]] [[Pinap]] &lt;br&gt; [[File:Iapapa.png|20px]] [[Iapapa]] &lt;br&gt; [[File:Qualot.png|20px]] [[Qualot]]
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>LuK</username>
+      <id>96</id>
+    </contributor>
+    <comment>Created page with "'''Résin''' est un type de [[Berries/fr|Baie]] qui peut être plantée dans la [[Farm/fr|Ferme]]. Elle s'obtient en entourant une parcelle vide avec au moins 1 [[Aguav/fr|Gowav]] et au moins 1 [[Figy/fr|Figuy]]."</comment>
+    <model>wikitext</model>
+    <parentid>23867</parentid>
+    <sha1>eb1f257c8c24dfac22bdb5b7da0218829d80f312</sha1>
+  </revision>
+  <revision>
+    <id>23867</id>
+    <timestamp>2022-08-13T14:20:03Z</timestamp>
+    <text bytes="4598" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #25 Résin
+|image   = [[File:Grepa.png]]
+|caption = Une bouchée de cette Baie très tendre emplit la bouche d'une saveur sucrée et acide.
+|growtime  = 2h 0m 0s
+|harvest = 24 baies
+|replant = 20%
+|mutation = 0,05%
+|points = 600
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 épicée 
+*10 sèche
+*10 sucrée
+*0 amère
+*10 acide
+}}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+'''Grepa''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by surrounding an empty plot with at least 1 [[Aguav]] and at least 1 [[Figy]].
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Growth Tables ==
+=== Growth Stages ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 5 mins || 56 mins 40 secs || 1 hour 33 mins 20 secs || 2 hours - 4 hours
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:GrepaTreeTaller.png|50px]] || &lt;center&gt; [[File:GrepaTreeBloom.png|50px]] || &lt;center&gt; [[File:GrepaTreeBerry.png|50px]]
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+=== Ripening Time with Modifiers  ===
+{| class="wikitable" | style="text-align: center;"
+! Modifier !! Ripe-Wither Time !! Boost Mulch Needed to Ripen
+|-
+! None
+| 2 hours -&lt;br&gt; 4 hours || ---
+|-
+! Mulch or Sprayduck
+| 1 hour 20 mins -&lt;br&gt; 2 hours 40 mins || 16 mulch
+|-
+! Mulch and Sprayduck
+| 53 mins 20 secs -&lt;br&gt; 1 hour 46 mins 40 secs || 11 mulch
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Flow Chart ==
+[[File:Grepa_Flow_Chart.png|250px]]
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Mutation Strategy ==
+=== Possible Planting Formations ===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+You can fill your farm in the following way to obtain Grepa berries. Purple squares indicate where mutations can occur.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Base Formation
+|-
+| style="width: 45px;" | [[File:Aguav.png|30px]] [[Aguav]] || style="width: 45px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Figy.png|30px]]&lt;br&gt;[[Figy]]
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Optimized Planting Formation
+|-
+| style="width: 40px;" | [[File:Aguav.png|30px]] [[Aguav]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 45px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Aguav.png|30px]] [[Aguav]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Figy.png|30px]]&lt;br&gt;[[Figy]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Figy.png|30px]]&lt;br&gt;[[Figy]] 
+|- style="height: 60px; background-color:#9C7D98;"
+| || || || || 
+|-
+| [[File:Aguav.png|30px]] [[Aguav]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Aguav.png|30px]] [[Aguav]] || style="background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Figy.png|30px]]&lt;br&gt;[[Figy]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Figy.png|30px]]&lt;br&gt;[[Figy]] 
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+=== Timing Table ===
+{| class="wikitable"| style="text-align: center;"
+|+ ''All planting times use the time-to-ripe remaining of the first planted berry for subsequent planting times''
+! Berry !! Planting Time with &lt;br&gt; No Modifier !! Planting Time with &lt;br&gt; Mulch or Sprayduck || Planting Time with &lt;br&gt;  Mulch &amp; Sprayduck
+|-
+| [[Aguav]] || - || - || -
+|-
+| [[Figy]] || - || - || -
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Note: Figy and Aguav berries have equivalent growth times.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Uses==
+===Mutations===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Grepa berries can be used to mutate the following berries.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Wacan.png|20px]] [[Wacan]] || [[File:Pinap.png|20px]] [[Pinap]] &lt;br&gt; [[File:Iapapa.png|20px]] [[Iapapa]] &lt;br&gt; [[File:Qualot.png|20px]] [[Qualot]]
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>LuK</username>
+      <id>96</id>
+    </contributor>
+    <comment>Created page with "{{Infobox Berry |name    = #25 Résin |image   = [[File:Grepa.png]] |caption = Une bouchée de cette Baie très tendre emplit la bouche d'une saveur sucrée et acide. |growtime  = 2h 0m 0s |harvest = 24 baies |replant = 20% |mutation = 0,05% |points = 600 |flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt; *0 épicée  *10 sèche *10 sucrée *0 amère *10 acide }}"</comment>
+    <model>wikitext</model>
+    <parentid>23866</parentid>
+    <sha1>3caeac43643248a58254732189d909ea0f69817a</sha1>
+  </revision>
+  <revision>
+    <id>23866</id>
+    <timestamp>2022-08-13T14:19:07Z</timestamp>
+    <text bytes="4642" space="preserve">&lt;languages/&gt;
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Infobox Berry
+|name    = #25 Grepa
+|image   = [[File:Grepa.png]]
+|caption = One bite of this very tender Berry fills the mouth with its sweet and tangy flavor.
+|growtime  = 2h 0m 0s
+|harvest = 24 berries
+|replant = 20%
+|mutation = 0.05%
+|points = 600
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 spicy 
+*10 dry
+*10 sweet
+*0 bitter
+*10 sour
+}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+'''Grepa''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by surrounding an empty plot with at least 1 [[Aguav]] and at least 1 [[Figy]].
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Growth Tables ==
+=== Growth Stages ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 5 mins || 56 mins 40 secs || 1 hour 33 mins 20 secs || 2 hours - 4 hours
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:GrepaTreeTaller.png|50px]] || &lt;center&gt; [[File:GrepaTreeBloom.png|50px]] || &lt;center&gt; [[File:GrepaTreeBerry.png|50px]]
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+=== Ripening Time with Modifiers  ===
+{| class="wikitable" | style="text-align: center;"
+! Modifier !! Ripe-Wither Time !! Boost Mulch Needed to Ripen
+|-
+! None
+| 2 hours -&lt;br&gt; 4 hours || ---
+|-
+! Mulch or Sprayduck
+| 1 hour 20 mins -&lt;br&gt; 2 hours 40 mins || 16 mulch
+|-
+! Mulch and Sprayduck
+| 53 mins 20 secs -&lt;br&gt; 1 hour 46 mins 40 secs || 11 mulch
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Flow Chart ==
+[[File:Grepa_Flow_Chart.png|250px]]
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Mutation Strategy ==
+=== Possible Planting Formations ===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+You can fill your farm in the following way to obtain Grepa berries. Purple squares indicate where mutations can occur.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Base Formation
+|-
+| style="width: 45px;" | [[File:Aguav.png|30px]] [[Aguav]] || style="width: 45px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Figy.png|30px]]&lt;br&gt;[[Figy]]
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Optimized Planting Formation
+|-
+| style="width: 40px;" | [[File:Aguav.png|30px]] [[Aguav]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 45px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Aguav.png|30px]] [[Aguav]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Figy.png|30px]]&lt;br&gt;[[Figy]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Figy.png|30px]]&lt;br&gt;[[Figy]] 
+|- style="height: 60px; background-color:#9C7D98;"
+| || || || || 
+|-
+| [[File:Aguav.png|30px]] [[Aguav]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Aguav.png|30px]] [[Aguav]] || style="background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Figy.png|30px]]&lt;br&gt;[[Figy]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Figy.png|30px]]&lt;br&gt;[[Figy]] 
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+=== Timing Table ===
+{| class="wikitable"| style="text-align: center;"
+|+ ''All planting times use the time-to-ripe remaining of the first planted berry for subsequent planting times''
+! Berry !! Planting Time with &lt;br&gt; No Modifier !! Planting Time with &lt;br&gt; Mulch or Sprayduck || Planting Time with &lt;br&gt;  Mulch &amp; Sprayduck
+|-
+| [[Aguav]] || - || - || -
+|-
+| [[Figy]] || - || - || -
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Note: Figy and Aguav berries have equivalent growth times.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Uses==
+===Mutations===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Grepa berries can be used to mutate the following berries.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Wacan.png|20px]] [[Wacan]] || [[File:Pinap.png|20px]] [[Pinap]] &lt;br&gt; [[File:Iapapa.png|20px]] [[Iapapa]] &lt;br&gt; [[File:Qualot.png|20px]] [[Qualot]]
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>LuK</username>
+      <id>96</id>
+    </contributor>
+    <comment>Created page with "Résin"</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>18e0ede69fffd3980623c34835c30a670ba708cc</sha1>
+  </revision>
+</page>

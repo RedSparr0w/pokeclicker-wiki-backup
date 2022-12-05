@@ -1,0 +1,80 @@
+<page>
+  <title>Ilex Forest</title>
+  <ns>0</ns>
+  <id>366</id>
+  <revision>
+    <id>5198</id>
+    <timestamp>2020-12-18T01:36:33Z</timestamp>
+    <text bytes="1396" space="preserve">{{Infobox dungeon
+|name    = Ilex Forest
+|image   = [[File:Ilex Forest.png|300px]]
+|caption = A map of Ilex Forest.
+|tokens  = 4,000
+|location = On route 34.
+}}
+'''Ilex Forest''' is a [[Dungeons|dungeon]] in [[Johto]]. It has 36 tiles arranged in a 6x6 square, including 6 chest tiles, 15 non-boss encounter tiles, and 1 boss encounter tile.
+
+==Dungeon Stats==
+
+{| class="wikitable"
+|-
+! Pokémon !! Base Health
+|-
+| Random Encounter || 82,200
+|-
+| Noctowl (Boss) || 300,000
+|-
+| Beedrill (Boss) || 300,000
+|-
+| Butterfree (Boss) || 300,000
+|-
+| Celebi (Boss) || 600,000
+|}
+
+==Pokémon==
+
+{| class="wikitable"
+|-
+! Random Encounter !! Boss
+|-
+| [[File:Caterpie.png|40px]] Caterpie || rowspan=8|[[File:Noctowl.png|40px]] Noctowl &lt;br&gt; [[File:Beedrill.png|40px]] Beedrill &lt;br&gt; [[File:Butterfree.png|40px]] Butterfree &lt;br&gt; [[File:Celebi.png|40px]] Celebi &lt;b&gt; (Must be Johto Champion) &lt;/b&gt;
+|-
+| [[File:Metapod.png|40px]] Metapod
+|-
+| [[File:Weedle.png|40px]] Weedle
+|-
+| [[File:Kakuna.png|40px]] Kakuna
+|-
+| [[File:Zubat.png|40px]] Zubat
+|-
+| [[File:Oddish.png|40px]] Oddish
+|-
+| [[File:Paras.png|40px]] Paras
+|-
+| [[File:Hoothoot.png|40px]] Hoothoot
+|}
+
+==Items==
+
+{| class="wikitable"
+|-
+! Chest Item !! Chance to Find
+|-
+| {{Bag3|X Attack}} [[X Attack|xAttack]] || 25%
+|-
+| {{Bag3|X Click}} [[XClick|xClick]] || 50%
+|-
+| {{Bag3|Token Collector}} [[Token Collector]] || 25%
+|}
+
+[[Category:Dungeons]]</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment>Images + pokemon list reformat</comment>
+    <model>wikitext</model>
+    <parentid>5197</parentid>
+    <sha1>bffd938bb1daa60a600dbd8dfdafa37c02d39e79</sha1>
+  </revision>
+</page>

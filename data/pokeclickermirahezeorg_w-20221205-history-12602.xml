@@ -1,0 +1,35 @@
+<page>
+  <title>Battle Points</title>
+  <ns>0</ns>
+  <id>201</id>
+  <revision>
+    <id>3476</id>
+    <timestamp>2020-10-09T13:59:08Z</timestamp>
+    <text bytes="493" space="preserve">[[File:Battlepoints.png|thumb|200px|A Battle Point]]
+
+==Description==
+The currency earned from the [[Battle Frontier]].
+
+==Multipliers==
+
+There is a hidden multiplier called the Battle Multiplier that is determined by The last stage you've beaten divided by 100, but is at least 1. --&gt; (StageBeaten / 100, 1) = battleMultiplier
+
+===Rates===
+{| class="wikitable"
+|-
+! Awarded !! Rate
+|-
+| [[Battle Points]] || stageBeaten * battleMultiplier
+|-
+| Money || stageBeaten * 100 * battleMultiplier
+|}</text>
+    <contributor>
+      <username>Liczale</username>
+      <id>20</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>3475</parentid>
+    <sha1>54569a3b66b7e9b78d7af1688c3b0bbf23d2d3f0</sha1>
+  </revision>
+</page>

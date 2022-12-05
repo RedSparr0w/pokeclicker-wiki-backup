@@ -1,0 +1,103 @@
+<page>
+  <title>Chesto</title>
+  <ns>0</ns>
+  <id>462</id>
+  <revision>
+    <id>6290</id>
+    <timestamp>2022-07-29T07:18:39Z</timestamp>
+    <text bytes="2487" space="preserve">&lt;languages/&gt;
+&lt;translate&gt;
+{{Infobox Berry
+|name    = #02 Chesto
+|image   = [[File:Chesto.png]]
+|caption = This Berry's thick skin and fruit are very tough and dry tasting. However, every bit of it can be eaten.
+|growtime  = 40s
+|harvest = 3 berries
+|replant = 50%
+|points = 6
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 spicy 
+*10 dry
+*0 sweet
+*0 bitter
+*0 sour
+}}
+
+'''Chesto''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]] to obtain [[Farming Points|Farm Points]]. It can be obtained as a random drop by defeating wild Pokémon on routes.
+
+{| class="wikitable" | style = "image-rendering: pixelated"
+|+ Growth Stages
+!!! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 5 secs || 15 secs || 25 secs || 40 secs - 1 min 20 secs
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] ||&lt;center&gt; [[File:ChestoTreeTaller.png|50px]] ||&lt;center&gt; [[File:ChestoTreeBloom.png|50px]] || &lt;center&gt;[[File:ChestoTreeBerry.png|50px]]
+|}
+
+{| class="wikitable collapsible" | style="text-align: center;"
+|+ Ripening Time with Modifiers
+! Modifier !! Ripe-Wither Time
+|-
+! None
+| 40 secs -&lt;br&gt; 1 min 20 secs
+|-
+! Sprayduck
+| 27 secs -&lt;br&gt; 53 secs
+|}
+
+== Flow Chart ==
+[[File:Chesto_Flow_Chart.png|100px]]
+
+==Uses==
+===Mutations===
+
+Chesto berries can be used to mutate the following berries.
+
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Bluk.png|20px]] [[Bluk]] || [[File:Leppa.png|20px]] [[Leppa]]
+|-
+| [[File:Wiki.png|20px]] [[Wiki]] || -
+|-
+| [[File:Lum.png|20px]] [[Lum]] || [[File:Cheri.png|20px]] [[Cheri]] &lt;br&gt; [[File:Pecha.png|20px]] [[Pecha]] &lt;br&gt; [[File:Rawst.png|20px]] [[Rawst]] &lt;br&gt; [[File:Aspear.png|20px]] [[Aspear]] &lt;br&gt; [[File:Leppa.png|20px]] [[Leppa]] &lt;br&gt; [[File:Oran.png|20px]] [[Oran]] &lt;br&gt; [[File:Sitrus.png|20px]] [[Sitrus]]
+|-
+| [[File:Kelpsy.png|20px]] [[Kelpsy]] || [[File:Persim.png|20px]] [[Persim]]
+|-
+| [[File:Passho.png|20px]] [[Passho]] || [[File:Oran.png|20px]] [[Oran]] &lt;br&gt; [[File:Kelpsy.png|20px]] [[Kelpsy]] &lt;br&gt; [[File:Coba.png|20px]] [[Coba]]
+|-
+| [[File:Coba.png|20px]] [[Coba]] || [[File:Aguav.png|20px]] [[Aguav]]
+|-
+|}
+
+==Acquisition==
+===Dungeons===
+{{Loot/head‎|Berries}}
+{{LootItem|Pokemon Tower|Common}}
+{{LootItem|Berry Forest|Common}}
+{{LootItem|Pinwheel Forest|Common}}
+{{LootItem|Pokémon Village|Common}}
+{{LootItem|Aether Foundation|Common}}
+{{LootItem|Lake of the Sunne and Moone|Common}}
+|}
+|}
+
+&lt;br&gt;
+
+{{Berries}}
+
+[[Category:Farm]][[Category:Berries]]
+&lt;/translate&gt;</text>
+    <contributor>
+      <username>Cthulhu Follower</username>
+      <id>51</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>6289</parentid>
+    <sha1>c33efa6c5584e3637cd91c0768c9b582883064e0</sha1>
+  </revision>
+</page>

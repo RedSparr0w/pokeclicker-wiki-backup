@@ -1,0 +1,112 @@
+<page>
+  <title>Shoal Cave</title>
+  <ns>0</ns>
+  <id>398</id>
+  <revision>
+    <id>5435</id>
+    <timestamp>2022-04-30T18:00:44Z</timestamp>
+    <text bytes="2483" space="preserve">{{Infobox dungeon
+|name    = Shoal Cave
+|image   = [[File:Shoal Cave.png|300px]]
+|caption = A map of Shoal Cave.
+|tokens  = 30,000
+|location = On Route 125, north of Mossdeep City.
+}}
+'''Shoal Cave''' is a [[Dungeons|dungeon]] in [[Hoenn]]. It initially has 49 tiles arranged in a 7x7 square, including 7 chest tiles, 17 non-boss encounter tiles, and 1 boss encounter tile. Wild Encounters have 490,000 HP.
+
+== Encounter Tables ==
+
+===Wild Encounters===
+
+{| class="wikitable"
+|-
+! Wild Pokémon !! colspan=2|Trainers
+|-
+! Encounter !! Trainer !! Pokémon Team
+|-
+| [[File:Zubat.png|40px]] Zubat || colspan=2 rowspan=6|&lt;center&gt;N/A
+|-
+| [[File:Golbat.png|40px]] Golbat
+|-
+| [[File:Spheal.png|40px]] Spheal
+|-
+| [[File:Tentacool.png|40px]] Tentacool
+|-
+| [[File:Magikarp.png|40px]] Magikarp
+|-
+| [[File:Wailmer.png|40px]] Wailmer
+|-
+|}
+
+===Boss Encounters===
+{| class="wikitable"
+|-
+! Wild Pokémon !! Base Health !! Boss Trainer !! Pokémon Team !! Base Health
+|-
+| [[File:Snorunt.png|40px]] Snorunt || &lt;center&gt;1,900,000 || colspan=3|&lt;center&gt; N/A
+|-
+|}
+
+==Items==
+
+===No Debuff===
+
+{| class="wikitable"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears !! Requirement 
+|-
+| {{Bag2|XClick}} || 4 || 65.53% || 64.99% || 60.61% || rowspan=8|&lt;center&gt;N/A
+|-
+| {{Bag2|Lucky Incense}} || 3.75 || 33.30% || 33.09% || 31.09% 
+|-
+| {{Bag2|Revive}} || 2 || 0.29% || 0.42% || 1.78% 
+|-
+| {{Bag2|Star Piece}} || 2 || 0.29% || 0.42% || 1.78% 
+|-
+| {{Bag2|Water Egg}} || 2 || 0.29% || 0.42% || 1.78% 
+|-
+| {{Bag2|Icicle Plate}} || 2 || 0.29% || 0.42% || 1.78% 
+|-
+| {{Bag2|Max Revive}} || 0 || 0.0026% || 0.13% || 0.59% 
+|-
+| {{Bag2|Heart Scale}} || 0 || 0.0026% || 0.13% || 0.59% 
+|}
+
+===Debuff Drop Table===
+
+After Reaching Kalos, the drop chance for items in Hoenn will be debuffed for any loot with weight &lt; 2.
+
+{| class="wikitable collapsible collapsed"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears !! Requirement
+|-
+| {{Bag2|XClick}} || 4 || 65.53% || 65.15% || 61.30% || rowspan=8|&lt;center&gt;N/A
+|-
+| {{Bag2|Lucky Incense}} || 3.75 || 33.30% || 33.17% || 31.44%
+|-
+| {{Bag2|Revive}} || 2 || 0.29% || 0.42% || 1.80%
+|-
+| {{Bag2|Star Piece}} || 2 || 0.29% || 0.42% || 1.80%
+|-
+| {{Bag2|Water Egg}} || 2 || 0.29% || 0.42% || 1.80%
+|-
+| {{Bag2|Icicle Plate}} || 2 || 0.29% || 0.42% || 1.80%
+|-
+| {{Bag2|Max Revive}} || 0 || 0.000065% || 0.0064% || 0.03%
+|-
+| {{Bag2|Heart Scale}} || 0 || 0.000065% || 0.0064% || 0.03%
+|}
+
+{{Hoenn Dungeons}}
+
+[[Category:Dungeons]]</text>
+    <contributor>
+      <username>Razrushil</username>
+      <id>31</id>
+    </contributor>
+    <comment>/* Items */ Adding debuffed drop table</comment>
+    <model>wikitext</model>
+    <parentid>5434</parentid>
+    <sha1>1067455f12444bd6eb3a7c6114d6b7703793fe03</sha1>
+  </revision>
+</page>

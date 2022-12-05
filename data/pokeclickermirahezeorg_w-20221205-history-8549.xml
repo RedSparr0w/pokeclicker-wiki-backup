@@ -1,0 +1,224 @@
+<page>
+  <title>Petaya</title>
+  <ns>0</ns>
+  <id>793</id>
+  <revision>
+    <id>8116</id>
+    <timestamp>2022-03-30T18:15:58Z</timestamp>
+    <text bytes="10799" space="preserve">{{Infobox Berry
+|name    = #63 Petaya
+|image   = [[File:Petaya.png]]
+|caption = This Berry is surrounded by mystery. It is rumored to be imbued with the power of all living things.&lt;br&gt;This power keeps other Berries alive for longer.
+|growtime  = 1d
+|harvest = 0.5 berries
+|replant = 0%
+|mutation = 0.001%
+|points = 15,000
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*30 spicy 
+*0 dry
+*0 sweet
+*30 bitter
+*10 sour
+}}
+
+'''Petaya''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by having at least one empty plot and at least 1 of every [[Berries#Gen 4 Berries|Gen 4 berry]] on the field.
+
+=== Growth Stages ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 3 hours || 6 hours || 12 hours || 1 day - 5 days
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:PetayaTreeTaller.png|50px]] || &lt;center&gt; [[File:PetayaTreeBloom.png|50px]] || &lt;center&gt; [[File:PetayaTreeBerry.png|50px]]
+|-
+! Aura (Wither Prevention)
+| colspan=3| &lt;center&gt; None || &lt;center&gt; Prevents ripe berries from withering
+|}
+
+==== Ripening Time with Modifiers  ====
+{| class="wikitable" | style="text-align: center;"
+! Modifier !! Ripe-Wither Time !! Boost Mulch Needed to Ripen
+|-
+! None
+| 1 day -&lt;br&gt; 5 days || &lt;center&gt; ---
+|-
+! Mulch or Sprayduck
+| 16 hours -&lt;br&gt; 80 hours || &lt;center&gt; 192 mulch
+|-
+! Mulch &amp; Sprayduck
+| 10 hours 40 mins -&lt;br&gt; 53 hours 20 mins || &lt;center&gt; 128 mulch
+|}
+
+== Flow Chart ==
+[[File:Petaya_Flow_Chart.png|850px]]
+&lt;br&gt;
+
+=== Mutation Strategy ===
+==== Possible Planting Formations ====
+
+You can fill your farm in the following way to obtain Petaya berries. Note that the [[Occa]], [[Kebia]] and [[Colbur]] can overtake other plants, so they are placed around a [[Babiri]] to prevent this. [[Kebia]] and [[Payapa]] increase mutation chance and are placed to affect the highest amount of mutation plots. [[Babiri]] decreases mutation chance and [[Rindo]] expands to open plots, so they are not placed near mutation plots. [[Wacan]], [[Yache]] and [[Haban]] all affect growth times and are placed in the corner with shorter growth time berries to limit their impact and make the timings easier. Using [[Farm_Items|Surprise Mulch]], a fully leveled up [[Squirtbottle]], and following this layout, you have roughly an 89.6% chance (59.57% chance without [[Squirtbottle]]) of acquiring a Petaya before the first berry needs to be replanted.  Purple squares indicate where mutations can occur.
+
+{| class="wikitable" style="text-align: center;"
+|+ Farm
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Payapa.png|30px]]&lt;br&gt;[[Payapa]] || style="width: 40px;" | [[File:Tanga.png|30px]]&lt;br&gt;[[Tanga]] || style="width: 40px;" | [[File:Haban.png|30px]]&lt;br&gt;[[Haban]]
+|- style="height: 50px;"
+| [[File:Chilan.png|30px]]&lt;br&gt;[[Chilan]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Wacan.png|30px]]&lt;br&gt;[[Wacan]] 
+|- style="height: 30px;"
+| [[File:Chople.png|30px]]&lt;br&gt;[[Chople]] || [[File:Coba.png|30px]]&lt;br&gt;[[Coba]] || [[File:Kebia.png|30px]]&lt;br&gt;[[Kebia]] || style="background-color:#9C7D98;" | || [[File:Yache.png|30px]]&lt;br&gt;[[Yache]] 
+|-
+| [[File:Colbur.png|30px]]&lt;br&gt;[[Colbur]] || [[File:Babiri.png|30px]]&lt;br&gt;[[Babiri]] || [[File:Charti.png|30px]]&lt;br&gt;[[Charti]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" |
+|-
+| [[File:Occa.png|30px]]&lt;br&gt;[[Occa]] || [[File:Rindo.png|30px]]&lt;br&gt;[[Rindo]] || [[File:Passho.png|30px]]&lt;br&gt;[[Passho]] || [[File:Shuca.png|30px]]&lt;br&gt;[[Shuca]] || [[File:Kasib.png|30px]]&lt;br&gt;[[Kasib]]
+|}
+
+{| class="wikitable floatright" style="text-align: center;"
+|+ External Timer Timings
+! Berry !! Time !! Mulch Amount
+|-
+| [[Haban]] || --- || 128
+|-
+| [[Babiri]] || --- || 52
+|-
+| [[Yache]] || 2 hrs 40 mins || --- 
+|-
+| [[Shuca]] || 3 hrs 14 mins 10 secs || ---
+|-
+| [[Charti]] || 3 hrs 34 mins 10 secs|| ---
+|-
+| [[Chople]] || 3 hrs 54 mins 10 secs || ---
+|-
+| [[Payapa]] || 4 hrs 14 mins 10 secs || ---
+|-
+| [[Rindo]] || 5 hrs 14 mins 10 secs || ---
+|-
+| [[Colbur]] || 5 hrs 34 mins 10 secs || ---
+|-
+| [[Roseli]] || 5 hrs 54 mins 10 secs || ---
+|-
+| [[Occa]] || 6 hrs 30 mins 10 secs || ---
+|-
+| [[Passho]] || 6 hrs 34 mins 10 secs || ---
+|-
+| [[Coba]] || 6 hrs 54 mins 10 secs || ---
+|-
+| [[Chilan]] || 9 hrs 14 mins 10 secs || ---
+|-
+| [[Tanga]] || 9 hrs 33 mins 20 secs || ---
+|-
+| [[Wacan]] || 9 hrs 52 mins 30 secs || ---
+|-
+| [[Kebia]] || 10 hrs 27 mins 30 secs || ---
+|-
+| [[Kasib]] || 10 hrs 30 mins 50 secs || ---
+|}
+
+==== Important notes ====
+
+Before you start this process, you need to be prepared to spend around 11 hours or more close to your device with Pokéclicker or at least be able to pause your timers to take breaks. 
+
+* Using the timings listed in the table to the right will cause all berries to ripen within 10 minutes of each other. Each time stamp indicates when you should plant the berry listed together with it.
+
+* The timings assume an equipped max level [[Sprayduck]] and the detailed amount of boost mulch on the specified plots. All boost mulch should be applied immediately on planting. In total, you need 180 boost mulch to complete the entire process; however, it is highly recommended to have at least 250 boost mulch in your inventory in case of something going wrong. Note that even though the [[Babiri]] will ripen about the same time as the [[Haban]] with only 35 boost mulch, this is a very tight window. More is added to guarantee that it completes first to avoid the chance of other berries being taken over by [[Occa]], [[Colbur]], or [[Kebia]].
+
+* The free website [https://www.timeanddate.com/timer/ timeanddate.com] is an excellent resource for setting many simultaneous timers. Timing starts at planting of the first berry. At the exact same time as you plant [[Haban]] and [[Babiri]], start all your timers.
+
+* Note that there are few breaks longer than one hour; Farm timers do not run while the game is not open so you can take breaks throughout this process.
+
+===== Critical information for when all berries have ripened =====
+
+After all 18 berries are ripe, the requirements for Petaya to spawn have been fully met. At this point, immediately switch out your [[Sprayduck]] for another [[Oak Item]]. It is highly recommended that you make a save here so you don't have to go through the whole setup again in case nothing mutates. Petaya can spawn on any of the seven open plots in your farm. The seven empty plots should all be permanently applied with surprise mulch. Note that even though the [[Kebia]] has the ability to overtake other berries, it can only do so at the taller or later stages, so you will be able to let the mutation keep going if you want to mutate multiple petayas before the [[Wacan]] withers. Specifically, you have 6 hours from time of mutation to remove the [[Kebia]] before it threatens to take over your newly mutated petaya unless it mutates on one of the two edge plots.
+
+===== What to do if Petaya doesn't spawn before other berries start dying =====
+
+The berry that will die first is [[Wacan]] — it will die around 1 hours 25 mins after it ripens. This ''should'' be enough for you to get a Petaya to spawn. If the [[Wacan]] dies before mutation, you will have to replant [[Chilan]], [[Tanga]], and [[Wacan]] using boost mulch. If you start within 20 minutes of [[Wacan]] dying, you ''should'' be able to get one more full [[Wacan]] cycle before the [[Coba]] dies and you have to start over. The ability to do this increases overall chance of mutation to 98.9% or 83.65% without [[Squirtbottle]].
+
+==== Timing Table ====
+{| class="collapsible wikitable"| style="text-align: center;"
+|+ ''All planting times use the time-to-ripe remaining of the first planted berry for subsequent planting times''
+! Berry !! Planting Time with &lt;br&gt; No Modifier !! Planting Time with &lt;br&gt; Mulch or Sprayduck || Planting Time with &lt;br&gt;  Mulch &amp; Sprayduck
+|-
+| [[Haban]] || - || - || -
+|-
+| [[Babiri]] || - || - || -
+|-
+| [[Yache]] || 12 hours until ripe || 8 hours until ripe || 5 hours 20 mins until ripe
+|-
+| [[Shuca]] || 11 hours until ripe || 7 hours 20 mins until ripe || 4 hours 53 mins 20 secs until ripe
+|-
+| [[Charti]] || 10 hours 30 mins until ripe || 7 hours until ripe || 4 hours 40 mins until ripe
+|-
+| [[Chople]] || 10 hours until ripe || 6 hours 40 mins until ripe || 4 hours 26 mins 40 secs until ripe
+|-
+| [[Payapa]] || 9 hours 30 min until ripe || 6 hours 20 mins until ripe || 4 hours 13 mins 20 secs until ripe
+|-
+| [[Rindo]] || 8 hours until ripe || 5 hours 20 mins until ripe || 3 hours 30 mins 20 secs until ripe
+|-
+| [[Colbur]] || 7 hours 30 min until ripe || 5 hours until ripe || 3 hours 20 mins until ripe
+|-
+| [[Roseli]] || 7 hours until ripe || 4 hours 40 mins until ripe || 3 hours 6 mins 40 secs until ripe
+|-
+| [[Occa]] || 6 hours 6 mins until ripe || 4 hours 4 mins until ripe || 2 hours 42 mins 40 secs until ripe
+|-
+| [[Passho]] || 6 hours until ripe || 4 hours until ripe || 2 hours 40 mins until ripe
+|-
+| [[Coba]] || 5 hours 30 mins until ripe || 3 hours 40 mins until ripe || 2 hours 26 mins 40 secs until ripe
+|-
+| [[Chilan]] || 2 hours until ripe || 1 hour 20 mins until ripe || 53 mins 20 secs until ripe
+|-
+| [[Tanga]] || 1 hour 40 mins until ripe || 1 hour 6 mins 40 secs until ripe || 44 mins 27 secs until ripe
+|-
+| [[Wacan]] || 1 hour 3 mins until ripe || 42 mins until ripe || 28 mins until ripe
+|-
+| [[Kebia]] || 10 mins until ripe || 6 mins 40 secs until ripe || 4 mins 27 secs
+|-
+| [[Kasib]] || 5 mins until ripe || 3 mins 20 secs until ripe || 2 mins 13 secs
+|-
+|}
+
+If [[Wacan]] dies, harvest and replant [[Chilan]], [[Tanga]], and [[Wacan]] following this table to get the setup again. Note that you will want to make sure [[Coba]] and [[Shuca]] have at least about 3 hours 45 mins left on their timers for another full [[Wacan]] cycle. 
+
+{| class="collapsible wikitable"| style="text-align: center;"
+|+ ''All planting times use the time-to-ripe remaining of the first planted berry for subsequent planting times''
+! Berry !!  Planting Time with &lt;br&gt; Mulch || Planting Time with &lt;br&gt;  Mulch &amp; Sprayduck
+|-
+| [[Chilan]] ||  - || -
+|-
+| [[Tanga]] ||  1 hour 13 mins 09 secs until ripe || 48 mins 46 secs until ripe
+|-
+| [[Wacan]] ||  57 mins 8 secs until ripe || 38 mins 5 secs until ripe
+|-
+|}
+
+==Uses==
+
+===Mutations===
+
+Petaya berries can be used to mutate the following berries.
+
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Maranga.png|20px]] [[Maranga]] || [[File:Salac.png|20px]] [[Salac]]
+|-
+|}
+
+&lt;br&gt;
+
+{{Berries}}
+
+[[Category:Farm]][[Category:Berries]]</text>
+    <contributor>
+      <username>Razrushil</username>
+      <id>31</id>
+    </contributor>
+    <comment>New petaya setup and timing tables. Smaller timing table for chilan, tanga, wacan if first wacan dies</comment>
+    <model>wikitext</model>
+    <parentid>8115</parentid>
+    <sha1>290c2416cd48a1bc766b3270f7e2c2bc64953082</sha1>
+  </revision>
+</page>

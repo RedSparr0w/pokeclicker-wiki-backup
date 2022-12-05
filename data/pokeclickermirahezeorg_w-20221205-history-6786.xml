@@ -1,0 +1,30 @@
+<page>
+  <title>Translations:Sprayduck/7/fr</title>
+  <ns>0</ns>
+  <id>4627</id>
+  <revision>
+    <id>16150</id>
+    <timestamp>2022-07-22T20:02:29Z</timestamp>
+    <text bytes="768" space="preserve">&lt;!--  Logique de calcul de l'expérience de récolte par minute (XP/min):
+Utiliser l'XP/Min minimum avec un Kwakarrosoir de niveau 0, ne pas prendre en compte l'utilisation de Fertibérance. 
+Durée de croissance de la Baie Ceriz : 30 secondes
+Bonus du Kwakarrosoir niveau 0 : Vitesse de croissance X 1,25
+Duré de croissance de la Baie Ceriz améliorée par le Kwakarrosoir : 30 / 1,25 = 24 secondes
+60/24 = 2,5 récoltes par minute
+Une baie Ceriz donne 1 point d'expérience par récolte, so XP/min vaut 2,5*1 = 2,5.  
+Cela donne comme formule :
+60 secondes / (30 secondes / 1,25 bonus du Kwakarrosoir ) * XP
+= 60 / (24) * 1
+= 2,5
+{{ #expr: expression }} provient du wiki executant le calcul lui même
+round2 à la fin de expr arrondi le résultat à deux décimales</text>
+    <contributor>
+      <username>Razikd</username>
+      <id>33</id>
+    </contributor>
+    <comment>Created page with "&lt;!--  Logique de calcul de l'expérience de récolte par minute (XP/min): Utiliser l'XP/Min minimum avec un Kwakarrosoir de niveau 0, ne pas prendre en compte l'utilisation de Fertibérance.  Durée de croissance de la Baie Ceriz : 30 secondes Bonus du Kwakarrosoir niveau 0 : Vitesse de croissance X 1,25 Duré de croissance de la Baie Ceriz améliorée par le Kwakarrosoir : 30 / 1,25 = 24 secondes 60/24 = 2,5 récoltes par minute Une baie Ceriz donne 1 point d'expérienc..."</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>9fa716b8a6f441f3f10f79760435d55bf943666e</sha1>
+  </revision>
+</page>

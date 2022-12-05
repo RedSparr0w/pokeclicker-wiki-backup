@@ -1,0 +1,85 @@
+<page>
+  <title>Micle</title>
+  <ns>0</ns>
+  <id>727</id>
+  <revision>
+    <id>7709</id>
+    <timestamp>2021-06-10T17:31:55Z</timestamp>
+    <text bytes="2925" space="preserve">{{Infobox Berry
+|name    = #54 Micle
+|image   = [[File:Micle.png]]
+|caption = This Berry has a very dry flavor. It has the effect of making other food eaten at the same time taste sweet.
+|growtime  = 8h 48m 0s
+|harvest = 1 berry
+|replant = 5%
+|points = 2,600
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 spicy 
+*40 dry
+*10 sweet
+*0 bitter
+*0 sour
+}}
+
+'''Micle''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by having at least one empty plot and at least 600 points of dry on the field. The [[Pamtre]] must be unlocked to unlock this berry.
+
+== Growth Tables ==
+=== Growth Stages ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 1 hour 6 mins || 2 hours 12 mins || 4 hours 24 mins || 8 hours 48 mins - 17 hours 36 mins
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:MicleTreeTaller.png|50px]] || &lt;center&gt; [[File:MicleTreeBloom.png|50px]] || &lt;center&gt; [[File:MicleTreeBerry.png|50px]]
+|}
+
+=== Ripening Time with Modifiers  ===
+{| class="wikitable" | style="text-align: center;"
+! Modifier !! Ripe-Wither Time !! Boost Mulch Needed to Ripen
+|-
+! None
+| 8 hours 48 mins -&lt;br&gt; 17 hours 36 mins || ---
+|-
+! Mulch or Sprayduck
+| 5 hours 52 mins -&lt;br&gt; 11 hours 44 mins || 71 mulch
+|-
+! Mulch &amp; Sprayduck
+| 3 hours 54 mins 40 secs -&lt;br&gt; 7 hours 50 mins 20 secs || 50 mulch
+|}
+
+== Flow Chart ==
+[[File:Micle_Flow_Chart.png|350px]]
+&lt;br&gt;
+
+== Mutation Strategy ==
+=== Possible Planting Formations ===
+
+You can fill your farm in the following way to obtain Micle berries. Purple squares indicate where mutations can occur.
+
+{| class="wikitable" style="text-align: center;"
+|+ Farm
+|-
+| style="width: 50px;" | [[File:Pamtre.png|30px]]&lt;br&gt;[[Pamtre]] || style="width: 50px;" | [[File:Pamtre.png|30px]]&lt;br&gt;[[Pamtre]] || style="width: 50px;" | [[File:Pamtre.png|30px]]&lt;br&gt;[[Pamtre]] || style="width: 50px;" | [[File:Pamtre.png|30px]]&lt;br&gt;[[Pamtre]] || style="width: 50px;" | [[File:Pamtre.png|30px]]&lt;br&gt;[[Pamtre]]
+|-
+| [[File:Pamtre.png|30px]]&lt;br&gt;[[Pamtre]] || style="background-color:#9C7D98;" | || [[File:Pamtre.png|30px]]&lt;br&gt;[[Pamtre]] || style="background-color:#9C7D98;" | || [[File:Pamtre.png|30px]]&lt;br&gt;[[Pamtre]]
+|- style="height: 26px;"
+| [[File:Pamtre.png|30px]]&lt;br&gt;[[Pamtre]] || [[File:Pamtre.png|30px]]&lt;br&gt;[[Pamtre]] || style="background-color:#9C7D98;" | || [[File:Pamtre.png|30px]]&lt;br&gt;[[Pamtre]] || [[File:Pamtre.png|30px]]&lt;br&gt;[[Pamtre]]
+|-
+| [[File:Pamtre.png|30px]]&lt;br&gt;[[Pamtre]] || style="background-color:#9C7D98;" | || [[File:Pamtre.png|30px]]&lt;br&gt;[[Pamtre]] || style="background-color:#9C7D98;" | || [[File:Pamtre.png|30px]]&lt;br&gt;[[Pamtre]]
+|-
+| [[File:Pamtre.png|30px]]&lt;br&gt;[[Pamtre]] || [[File:Pamtre.png|30px]]&lt;br&gt;[[Pamtre]] || [[File:Pamtre.png|30px]]&lt;br&gt;[[Pamtre]] || [[File:Pamtre.png|30px]]&lt;br&gt;[[Pamtre]] || [[File:Pamtre.png|30px]]&lt;br&gt;[[Pamtre]]
+|}
+
+{{Berries}}</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment>/* Possible Planting Formations */</comment>
+    <model>wikitext</model>
+    <parentid>7708</parentid>
+    <sha1>96592d640f259f9dbeada16dd1c618d139ddf5b4</sha1>
+  </revision>
+</page>

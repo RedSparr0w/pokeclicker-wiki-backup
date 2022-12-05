@@ -1,0 +1,1155 @@
+<page>
+  <title>Egg/es</title>
+  <ns>0</ns>
+  <id>7339</id>
+  <revision>
+    <id>20879</id>
+    <timestamp>2022-07-29T22:56:40Z</timestamp>
+    <text bytes="12481" space="preserve">&lt;languages/&gt;
+Los '''Huevos''' son objetos que contienen Pokémon. Los Huevos pueden ser obtenidos de varias maneras: comprándolos en [[Shops|Tiendas]], [[Pokémon Day Care|criando]] Pokémon nivel 100 y comprándolos en los [[Shard Trader|Intercambiadores de Partes]]. Incubar un huevo incrementará el ataque del Pokémon criado un 25% de su ataque base. Dónde compres/obtengas el huevo no afecta al Pokémon Incubado de ese huevo.
+
+== [[Shops|Tienda]] Grupo de Huevos ==
+
+En las tablas siguientes, los nombres '''En Negrita''' indica el Pokémon que puede ser obtenido en sus respectivas regiones ya sea en la tienda de incubación o a través de [[Berries#Wandering_Pokémon|Pokémon Itinerantes]] en la [[Farm|Granja]]. Los nombres '''''En Negrita y En Itálica''''' indican que el Pokémon solo puede ser obtenido en su respectiva región en tiendas de incubación de huevos. Los nombres '''''&lt;u&gt;En Negrita, En Itálica, y subrayados&lt;/u&gt;''''' indican que el Pokémon no puede ser obtenido fuera de la tienda de huevos (por ejemplo no se puede encontrar salvaje en una región posterior incluso con el desafío Necesario Completar la Pokédex desactivado) desde la v0.8.15
+
+La división del Grupo de Huevos funciona así:
+* 50% de probabilidad de conseguir un Pokémon de la región más lejana que hayas alcanzado (las probabilidades se divien de manera equitativa por cada posible Pokémon de la región más lejana alcanzada)
+* 50% restante divido entre todo el grupo de huevos Pokémon de regiones anteriores. Ver la sección de abajo [[Egg/es#Info_de_Ayuda|Info de Ayuda]] para más detalles.
+
+=== '''&lt;big&gt;[[Kanto]]&lt;/big&gt;''' ===
+{| class="wikitable"
+|-
+! [[Fire Egg|Fuego]] !! [[Grass Egg|Planta]] !!  [[Water Egg|Agua]] !! [[Electric Egg|Eléctrico]] !! [[Fighting Egg|Lucha]] !! [[Dragon Egg|Dragón]]
+|-
+| [[File:Charmander_Egg_Pattern.png|30px]] /[[File:Charmander.png|50px]] '''Charmander''' || [[File:Bulbasaur_Egg_Pattern.png|30px]] /[[File:Bulbasaur.png|50px]] '''Bulbasaur''' || [[File:Squirtle_Egg_Pattern.png|30px]] /[[File:Squirtle.png|50px]] '''Squirtle''' || [[File:Magnemite_Egg_Pattern.png|30px]] /[[File:Magnemite.png|50px]] Magnemite || [[File:Hitmonchan_Egg_Pattern.png|30px]] /[[File:Hitmonchan.png|50px]] '''''Hitmonchan''''' || [[File:Dratini_Egg_Pattern.png|30px]] /[[File:Dratini.png|50px]] '''''Dratini'''''
+|-
+| [[File:Ponyta_Egg_Pattern.png|30px]] /[[File:Ponyta.png|50px]] Ponyta || [[File:Oddish_Egg_Pattern.png|30px]] /[[File:Oddish.png|50px]] Oddish || [[File:Lapras_Egg_Pattern.png|30px]] /[[File:Lapras.png|50px]] '''''Lapras''''' || [[File:Pikachu_Egg_Pattern.png|30px]] /[[File:Pikachu.png|50px]] Pikachu || [[File:Hitmonlee_Egg_Pattern.png|30px]] /[[File:Hitmonlee.png|50px]] '''''Hitmonlee''''' || [[File:Dragonair_Egg_Pattern.png|30px]] /[[File:Dragonair.png|50px]] Dragonair
+|-
+| [[File:Growlithe_Egg_Pattern.png|30px]] /[[File:Growlithe.png|50px]] Growlithe || [[File:Bellsprout_Egg_Pattern.png|30px]] /[[File:Bellsprout.png|50px]] Bellsprout || [[File:Staryu_Egg_Pattern.png|30px]] /[[File:Staryu.png|50px]] Staryu || [[File:Voltorb_Egg_Pattern.png|30px]] /[[File:Voltorb.png|50px]] Voltorb || [[File:Machop_Egg_Pattern.png|30px]] /[[File:Machop.png|50px]] Machop || [[File:Dragonite_Egg_Pattern.png|30px]] /[[File:Dragonite.png|50px]] Dragonite
+|-
+| [[File:Vulpix_Egg_Pattern.png|30px]] /[[File:Vulpix.png|50px]] Vulpix || [[File:Tangela_Egg_Pattern.png|30px]] /[[File:Tangela.png|50px]] Tangela || [[File:Psyduck_Egg_Pattern.png|30px]] /[[File:Psyduck.png|50px]] Psyduck || [[File:Electabuzz_Egg_Pattern.png|30px]] /[[File:Electabuzz.png|50px]] Electabuzz || [[File:Mankey_Egg_Pattern.png|30px]] /[[File:Mankey.png|50px]] Mankey || &lt;center&gt; ---
+|}
+
+=== '''&lt;big&gt;[[Johto]]&lt;/big&gt;''' ===
+{| class="wikitable sortable"
+|-
+! [[Fire Egg|Fuego]] !! [[Grass Egg|Planta]] !! [[Water Egg|Agua]] !! [[Electric Egg|Eléctrico]] !! [[Fighting Egg|Lucha]] !! [[Dragon Egg|Dragón]]
+|-
+| [[File:Cyndaquil_Egg_Pattern.png|30px]] /[[File:Cyndaquil.png|50px]] '''Cyndaquil''' || [[File:Chikorita_Egg_Pattern.png|30px]] /[[File:Chikorita.png|50px]] '''Chikorita''' || [[File:Totodile_Egg_Pattern.png|30px]] /[[File:Totodile.png|50px]] '''Totodile''' || [[File:Chinchou_Egg_Pattern.png|30px]] /[[File:Chinchou.png|50px]] Chinchou || [[File:Tyrogue_Egg_Pattern.png|30px]] /[[File:Tyrogue.png|50px]] Tyrogue || &lt;center&gt; ---
+|-
+| [[File:Houndour_Egg_Pattern.png|30px]] /[[File:Houndour.png|50px]] '''''Houndour''''' || [[File:Sunkern_Egg_Pattern.png|30px]] /[[File:Sunkern.png|50px]] '''''Sunkern''''' || [[File:Wooper_Egg_Pattern.png|30px]] /[[File:Wooper.png|50px]] Wooper || [[File:Mareep_Egg_Pattern.png|30px]] /[[File:Mareep.png|50px]] Mareep || &lt;center&gt; --- || &lt;center&gt; ---
+|-
+| [[File:Slugma_Egg_Pattern.png|30px]] /[[File:Slugma.png|50px]] '''''Slugma''''' || [[File:Hoppip_Egg_Pattern.png|30px]] /[[File:Hoppip.png|50px]] Hoppip || [[File:Marill_Egg_Pattern.png|30px]] /[[File:Marill.png|50px]] Marill || [[File:Elekid_Egg_Pattern.png|30px]] /[[File:Elekid.png|50px]] Elekid || &lt;center&gt; --- || &lt;center&gt; ---
+|-
+| [[File:Magby_Egg_Pattern.png|30px]] /[[File:Magby.png|50px]] Magby || &lt;center&gt; --- || [[File:Qwilfish_Egg_Pattern.png|30px]] /[[File:Qwilfish.png|50px]] Qwilfish || &lt;center&gt; --- || &lt;center&gt; --- || &lt;center&gt; ---
+|}
+
+=== '''&lt;big&gt;[[Hoenn]]&lt;/big&gt;''' ===
+{| class="wikitable sortable"
+|-
+! [[Fire Egg|Fuego]] !! [[Grass Egg|Planta]] !!  [[Water Egg|Agua]] !! [[Electric Egg|Eléctrico]] !! [[Fighting Egg|Lucha]] !! [[Dragon Egg|Dragón]]
+|-
+| [[File:Torchic_Egg_Pattern.png|30px]] /[[File:Torchic.png|50px]] '''Torchic''' || [[File:Treecko_Egg_Pattern.png|30px]] /[[File:Treecko.png|50px]] '''Treecko''' || [[File:Mudkip_Egg_Pattern.png|30px]] /[[File:Mudkip.png|50px]] '''Mudkip''' || [[File:Electrike_Egg_Pattern.png|30px]] /[[File:Electrike.png|50px]] '''''Electrike''''' || [[File:Makuhita_Egg_Pattern.png|30px]] /[[File:Makuhita.png|50px]] Makuhita || [[File:Bagon_Egg_Pattern.png|30px]] /[[File:Bagon.png|50px]] '''Bagon'''
+|-
+| [[File:Numel_Egg_Pattern.png|30px]] /[[File:Numel.png|50px]] Numel || [[File:Roselia_Egg_Pattern.png|30px]] /[[File:Roselia.png|50px]] '''''Roselia''''' || [[File:Feebas_Egg_Pattern.png|30px]] /[[File:Feebas.png|50px]] '''''Feebas''''' || [[File:Plusle_Egg_Pattern.png|30px]] /[[File:Plusle.png|50px]] Plusle || [[File:Meditite_Egg_Pattern.png|30px]] /[[File:Meditite.png|50px]] Meditite || [[File:Shelgon_Egg_Pattern.png|30px]] /[[File:Shelgon.png|50px]] Shelgon
+|-
+|  &lt;center&gt; --- || [[File:Tropius_Egg_Pattern.png|30px]] /[[File:Tropius.png|50px]] Tropius || [[File:Clamperl_Egg_Pattern.png|30px]] /[[File:Clamperl.png|50px]] Clamperl || [[File:Minun_Egg_Pattern.png|30px]] /[[File:Minun.png|50px]] Minun || &lt;center&gt; --- || [[File:Salamence_Egg_Pattern.png|30px]] /[[File:Salamence.png|50px]] Salamence
+|}
+
+=== '''&lt;big&gt;[[Sinnoh]]&lt;/big&gt;''' ===
+{| class="wikitable sortable"
+|-
+! [[Fire Egg|Fuego]] !! [[Grass Egg|Planta]] !!  [[Water Egg|Agua]] !! [[Electric Egg|Eléctrico]] !! [[Fighting Egg|Lucha]] !! [[Dragon Egg|Dragón]]
+|-
+| [[File:Chimchar_Egg_Pattern.png|30px]] /[[File:Chimchar.png|50px]] '''Chimchar''' || [[File:Turtwig_Egg_Pattern.png|30px]] /[[File:Turtwig.png|50px]] '''Turtwig''' || [[File:Piplup_Egg_Pattern.png|30px]] /[[File:Piplup.png|50px]] '''Piplup''' || [[File:Pachirisu_Egg_Pattern.png|30px]] /[[File:Pachirisu.png|50px]] '''''Pachirisu''''' || [[File:Riolu_Egg_Pattern.png|30px]] /[[File:Riolu.png|50px]] '''Riolu''' || [[File:Gible_Egg_Pattern.png|30px]] /[[File:Gible.png|50px]] '''''Gible'''''
+|-
+| &lt;center&gt; --- || [[File:Carnivine_Egg_Pattern.png|30px]] /[[File:Carnivine.png|50px]] '''''Carnivine''''' || [[File:Finneon_Egg_Pattern.png|30px]] /[[File:Finneon.png|50px]] Finneon || [[File:Shinx_Egg_Pattern.png|30px]] /[[File:Shinx.png|50px]] Shinx || &lt;center&gt; --- || [[File:Gabite_Egg_Pattern.png|30px]] /[[File:Gabite.png|50px]] Gabite
+|-
+| &lt;center&gt; --- || [[File:Budew_Egg_Pattern.png|30px]] /[[File:Budew.png|50px]] Budew || [[File:Buizel_Egg_Pattern.png|30px]] /[[File:Buizel.png|50px]] Buizel || &lt;center&gt; ---  || &lt;center&gt; ---  || [[File:Garchomp_Egg_Pattern.png|30px]] /[[File:Garchomp.png|50px]] Garchomp
+|}
+
+=== '''&lt;big&gt;[[Unova|Teselia]]&lt;/big&gt;''' ===
+{| class="wikitable sortable"
+|-
+! [[Fire Egg|Fuego]] !! [[Grass Egg|Planta]] !!  [[Water Egg|Agua]] !! [[Electric Egg|Eléctrico]] !! [[Fighting Egg|Lucha]] !! [[Dragon Egg|Dragón]]
+|-
+| [[File:Tepig_Egg_Pattern.png|30px]] /[[File:Tepig.png|50px]] '''Tepig''' || [[File:Snivy_Egg_Pattern.png|30px]] /[[File:Snivy.png|50px]] '''Snivy''' || [[File:Oshawott_Egg_Pattern.png|30px]] /[[File:Oshawott.png|50px]] '''Oshawott''' || [[File:Blitzle_Egg_Pattern.png|30px]] /[[File:Blitzle.png|50px]] '''''&lt;u&gt;Blitzle&lt;/u&gt;''''' || [[File:Throh_Egg_Pattern.png|30px]] /[[File:Throh.png|50px]] '''''Throh''''' || [[File:Deino_Egg_Pattern.png|30px]] /[[File:Deino.png|50px]] '''''&lt;u&gt;Deino&lt;/u&gt;'''''
+|-
+| [[File:Pansear_Egg_Pattern.png|30px]] /[[File:Pansear.png|50px]] '''''Pansear''''' || [[File:Pansage_Egg_Pattern.png|30px]] /[[File:Pansage.png|50px]] '''''Pansage''''' || [[File:Panpour_Egg_Pattern.png|30px]] /[[File:Panpour.png|50px]] '''''Panpour''''' || &lt;center&gt; --- || [[File:Sawk_Egg_Pattern.png|30px]] /[[File:Sawk.png|50px]] '''''Sawk''''' || [[File:Zweilous_Egg_Pattern.png|30px]] /[[File:Zweilous.png|50px]] Zweilous
+|-
+| &lt;center&gt; --- || &lt;center&gt; --- || &lt;center&gt; --- || &lt;center&gt; --- || &lt;center&gt; --- || [[File:Hydreigon_Egg_Pattern.png|30px]] /[[File:Hydreigon.png|50px]] Hydreigon
+|}
+
+=== '''&lt;big&gt;[[Kalos]]&lt;/big&gt;''' ===
+{| class="wikitable sortable"
+|-
+! [[Fire Egg|Fuego]] !! [[Grass Egg|Planta]] !!  [[Water Egg|Agua]] !! [[Electric Egg|Eléctrico]] !! [[Fighting Egg|Lucha]] !! [[Dragon Egg|Dragón]]
+|-
+| [[File:Fennekin_Egg_Pattern.png|30px]] /[[File:Fennekin.png|50px]] '''Fennekin''' || [[File:Chespin_Egg_Pattern.png|30px]] /[[File:Chespin.png|50px]] '''Chespin''' || [[File:Froakie_Egg_Pattern.png|30px]] /[[File:Froakie.png|50px]] '''Froakie''' || &lt;center&gt; --- || &lt;center&gt; --- || [[File:Goomy_Egg_Pattern.png|30px]] /[[File:Goomy.png|50px]] Goomy
+|}
+
+=== '''&lt;big&gt;[[Alola]]&lt;/big&gt;''' ===
+
+{| class="wikitable sortable"
+|-
+! [[Fire Egg|Fuego]] !! [[Grass Egg|Planta]] !!  [[Water Egg|Agua]] !! [[Electric Egg|Eléctrico]] !! [[Fighting Egg|Lucha]] !! [[Dragon Egg|Dragón]]
+|-
+| [[File:Litten_Egg_Pattern.png|30px]] /[[File:Litten.png|50px]] '''Litten''' || [[File:Rowlet_Egg_Pattern.png|30px]] /[[File:Rowlet.png|50px]] '''Rowlet''' || [[File:Popplio_Egg_Pattern.png|30px]] /[[File:Popplio.png|50px]] '''Popplio''' || &lt;center&gt; --- || [[File:Crabrawler_Egg_Pattern.png|30px]] /[[File:Crabrawler.png|50px]] '''''&lt;u&gt;Crabrawler&lt;/u&gt;''''' || [[File:Turtonator_Egg_Pattern.png|30px]] /[[File:Turtonator.png|50px]] '''''&lt;u&gt;Turtonator&lt;/u&gt;'''''
+|-
+| &lt;center&gt; --- || [[File:Morelull_Egg_Pattern.png|30px]] /[[File:Morelull.png|50px]] '''''&lt;u&gt;Morelull&lt;/u&gt;''''' || [[File:Wimpod_Egg_Pattern.png|30px]] /[[File:Wimpod.png|50px]] '''''&lt;u&gt;Wimpod&lt;/u&gt;''''' || &lt;center&gt; --- || &lt;center&gt; --- || [[File:Drampa_Egg_Pattern.png|30px]] /[[File:Drampa.png|50px]] '''''&lt;u&gt;Drampa&lt;/u&gt;'''''
+|-
+| &lt;center&gt; --- || &lt;center&gt; --- || &lt;center&gt; --- || &lt;center&gt; --- || &lt;center&gt; --- || [[File:Jangmo-o_Egg_Pattern.png|30px]] /[[File:Jangmo-o.png|50px]] Jangmo-o
+|-
+| &lt;center&gt; --- || &lt;center&gt; --- || &lt;center&gt; --- || &lt;center&gt; --- || &lt;center&gt; --- || [[File:Hakamo-o_Egg_Pattern.png|30px]] /[[File:Hakamo-o.png|50px]] Hakamo-o
+|-
+| &lt;center&gt; --- || &lt;center&gt; --- || &lt;center&gt; --- || &lt;center&gt; --- || &lt;center&gt; --- || [[File:Kommo-o_Egg_Pattern.png|30px]] /[[File:Kommo-o.png|50px]] Kommo-o
+|}
+
+==Info de Ayuda==
+Cuando entras a la siguiente área los ratios de Pokémon cambian. Asumiento que acabas de entrar a [[Sinnoh]] el [[Water Egg|Huevo Agua]] de la tabla cambia de
+
+===En [[Hoenn]]===
+
+(Squirtle, Lapras, Staryu, Psyduck)
+
+(Totodile, Wooper, Marill, Qwilfish)
+
+(Mudkip, Feebas, Clamperl)
+
+(Mudkip, Feebas, Clamperl)
+
+===En [[Sinnoh]]===
+
+(Squirtle, Lapras, Staryu, Psyduck)
+
+(Totodile, Wooper, Marill, Qwilfish)
+
+(Mudkip, Feebas, Clamperl)
+
+(Mudkip, Feebas, Clamperl)
+
+(Piplup, Finneon, Buizel)
+
+(Piplup, Finneon, Buizel)
+
+(Piplup, Finneon, Buizel)
+
+(Piplup, Finneon, Buizel)
+
+
+Esto hace que la probabilidad de conseguir un Pokémon de la nueva región a la que has entrado sea un 50% y bajando la combinación total de todas las áreas previas un 50%. El Huevo Misterioso sacará aleatoriamente de todos los grupos de huevo, haciéndolo más útil cuando aún no has obtenido ningún Pokémon de esa región.
+
+
+{{Eggs}}&lt;br&gt;
+
+[[Category:Eggs]]</text>
+    <contributor>
+      <username>SrVariable</username>
+      <id>142</id>
+    </contributor>
+    <comment>Created page with "(Totodile, Wooper, Marill, Qwilfish)"</comment>
+    <model>wikitext</model>
+    <parentid>20878</parentid>
+    <sha1>2bdadc4b40879a9ab67fece1fe9f79f121cc695c</sha1>
+  </revision>
+  <revision>
+    <id>20878</id>
+    <timestamp>2022-07-29T22:51:03Z</timestamp>
+    <text bytes="12873" space="preserve">&lt;languages/&gt;
+Los '''Huevos''' son objetos que contienen Pokémon. Los Huevos pueden ser obtenidos de varias maneras: comprándolos en [[Shops|Tiendas]], [[Pokémon Day Care|criando]] Pokémon nivel 100 y comprándolos en los [[Shard Trader|Intercambiadores de Partes]]. Incubar un huevo incrementará el ataque del Pokémon criado un 25% de su ataque base. Dónde compres/obtengas el huevo no afecta al Pokémon Incubado de ese huevo.
+
+== [[Shops|Tienda]] Grupo de Huevos ==
+
+En las tablas siguientes, los nombres '''En Negrita''' indica el Pokémon que puede ser obtenido en sus respectivas regiones ya sea en la tienda de incubación o a través de [[Berries#Wandering_Pokémon|Pokémon Itinerantes]] en la [[Farm|Granja]]. Los nombres '''''En Negrita y En Itálica''''' indican que el Pokémon solo puede ser obtenido en su respectiva región en tiendas de incubación de huevos. Los nombres '''''&lt;u&gt;En Negrita, En Itálica, y subrayados&lt;/u&gt;''''' indican que el Pokémon no puede ser obtenido fuera de la tienda de huevos (por ejemplo no se puede encontrar salvaje en una región posterior incluso con el desafío Necesario Completar la Pokédex desactivado) desde la v0.8.15
+
+La división del Grupo de Huevos funciona así:
+* 50% de probabilidad de conseguir un Pokémon de la región más lejana que hayas alcanzado (las probabilidades se divien de manera equitativa por cada posible Pokémon de la región más lejana alcanzada)
+* 50% restante divido entre todo el grupo de huevos Pokémon de regiones anteriores. Ver la sección de abajo [[Egg/es#Info_de_Ayuda|Info de Ayuda]] para más detalles.
+
+=== '''&lt;big&gt;[[Kanto]]&lt;/big&gt;''' ===
+{| class="wikitable"
+|-
+! [[Fire Egg|Fuego]] !! [[Grass Egg|Planta]] !!  [[Water Egg|Agua]] !! [[Electric Egg|Eléctrico]] !! [[Fighting Egg|Lucha]] !! [[Dragon Egg|Dragón]]
+|-
+| [[File:Charmander_Egg_Pattern.png|30px]] /[[File:Charmander.png|50px]] '''Charmander''' || [[File:Bulbasaur_Egg_Pattern.png|30px]] /[[File:Bulbasaur.png|50px]] '''Bulbasaur''' || [[File:Squirtle_Egg_Pattern.png|30px]] /[[File:Squirtle.png|50px]] '''Squirtle''' || [[File:Magnemite_Egg_Pattern.png|30px]] /[[File:Magnemite.png|50px]] Magnemite || [[File:Hitmonchan_Egg_Pattern.png|30px]] /[[File:Hitmonchan.png|50px]] '''''Hitmonchan''''' || [[File:Dratini_Egg_Pattern.png|30px]] /[[File:Dratini.png|50px]] '''''Dratini'''''
+|-
+| [[File:Ponyta_Egg_Pattern.png|30px]] /[[File:Ponyta.png|50px]] Ponyta || [[File:Oddish_Egg_Pattern.png|30px]] /[[File:Oddish.png|50px]] Oddish || [[File:Lapras_Egg_Pattern.png|30px]] /[[File:Lapras.png|50px]] '''''Lapras''''' || [[File:Pikachu_Egg_Pattern.png|30px]] /[[File:Pikachu.png|50px]] Pikachu || [[File:Hitmonlee_Egg_Pattern.png|30px]] /[[File:Hitmonlee.png|50px]] '''''Hitmonlee''''' || [[File:Dragonair_Egg_Pattern.png|30px]] /[[File:Dragonair.png|50px]] Dragonair
+|-
+| [[File:Growlithe_Egg_Pattern.png|30px]] /[[File:Growlithe.png|50px]] Growlithe || [[File:Bellsprout_Egg_Pattern.png|30px]] /[[File:Bellsprout.png|50px]] Bellsprout || [[File:Staryu_Egg_Pattern.png|30px]] /[[File:Staryu.png|50px]] Staryu || [[File:Voltorb_Egg_Pattern.png|30px]] /[[File:Voltorb.png|50px]] Voltorb || [[File:Machop_Egg_Pattern.png|30px]] /[[File:Machop.png|50px]] Machop || [[File:Dragonite_Egg_Pattern.png|30px]] /[[File:Dragonite.png|50px]] Dragonite
+|-
+| [[File:Vulpix_Egg_Pattern.png|30px]] /[[File:Vulpix.png|50px]] Vulpix || [[File:Tangela_Egg_Pattern.png|30px]] /[[File:Tangela.png|50px]] Tangela || [[File:Psyduck_Egg_Pattern.png|30px]] /[[File:Psyduck.png|50px]] Psyduck || [[File:Electabuzz_Egg_Pattern.png|30px]] /[[File:Electabuzz.png|50px]] Electabuzz || [[File:Mankey_Egg_Pattern.png|30px]] /[[File:Mankey.png|50px]] Mankey || &lt;center&gt; ---
+|}
+
+=== '''&lt;big&gt;[[Johto]]&lt;/big&gt;''' ===
+{| class="wikitable sortable"
+|-
+! [[Fire Egg|Fuego]] !! [[Grass Egg|Planta]] !! [[Water Egg|Agua]] !! [[Electric Egg|Eléctrico]] !! [[Fighting Egg|Lucha]] !! [[Dragon Egg|Dragón]]
+|-
+| [[File:Cyndaquil_Egg_Pattern.png|30px]] /[[File:Cyndaquil.png|50px]] '''Cyndaquil''' || [[File:Chikorita_Egg_Pattern.png|30px]] /[[File:Chikorita.png|50px]] '''Chikorita''' || [[File:Totodile_Egg_Pattern.png|30px]] /[[File:Totodile.png|50px]] '''Totodile''' || [[File:Chinchou_Egg_Pattern.png|30px]] /[[File:Chinchou.png|50px]] Chinchou || [[File:Tyrogue_Egg_Pattern.png|30px]] /[[File:Tyrogue.png|50px]] Tyrogue || &lt;center&gt; ---
+|-
+| [[File:Houndour_Egg_Pattern.png|30px]] /[[File:Houndour.png|50px]] '''''Houndour''''' || [[File:Sunkern_Egg_Pattern.png|30px]] /[[File:Sunkern.png|50px]] '''''Sunkern''''' || [[File:Wooper_Egg_Pattern.png|30px]] /[[File:Wooper.png|50px]] Wooper || [[File:Mareep_Egg_Pattern.png|30px]] /[[File:Mareep.png|50px]] Mareep || &lt;center&gt; --- || &lt;center&gt; ---
+|-
+| [[File:Slugma_Egg_Pattern.png|30px]] /[[File:Slugma.png|50px]] '''''Slugma''''' || [[File:Hoppip_Egg_Pattern.png|30px]] /[[File:Hoppip.png|50px]] Hoppip || [[File:Marill_Egg_Pattern.png|30px]] /[[File:Marill.png|50px]] Marill || [[File:Elekid_Egg_Pattern.png|30px]] /[[File:Elekid.png|50px]] Elekid || &lt;center&gt; --- || &lt;center&gt; ---
+|-
+| [[File:Magby_Egg_Pattern.png|30px]] /[[File:Magby.png|50px]] Magby || &lt;center&gt; --- || [[File:Qwilfish_Egg_Pattern.png|30px]] /[[File:Qwilfish.png|50px]] Qwilfish || &lt;center&gt; --- || &lt;center&gt; --- || &lt;center&gt; ---
+|}
+
+=== '''&lt;big&gt;[[Hoenn]]&lt;/big&gt;''' ===
+{| class="wikitable sortable"
+|-
+! [[Fire Egg|Fuego]] !! [[Grass Egg|Planta]] !!  [[Water Egg|Agua]] !! [[Electric Egg|Eléctrico]] !! [[Fighting Egg|Lucha]] !! [[Dragon Egg|Dragón]]
+|-
+| [[File:Torchic_Egg_Pattern.png|30px]] /[[File:Torchic.png|50px]] '''Torchic''' || [[File:Treecko_Egg_Pattern.png|30px]] /[[File:Treecko.png|50px]] '''Treecko''' || [[File:Mudkip_Egg_Pattern.png|30px]] /[[File:Mudkip.png|50px]] '''Mudkip''' || [[File:Electrike_Egg_Pattern.png|30px]] /[[File:Electrike.png|50px]] '''''Electrike''''' || [[File:Makuhita_Egg_Pattern.png|30px]] /[[File:Makuhita.png|50px]] Makuhita || [[File:Bagon_Egg_Pattern.png|30px]] /[[File:Bagon.png|50px]] '''Bagon'''
+|-
+| [[File:Numel_Egg_Pattern.png|30px]] /[[File:Numel.png|50px]] Numel || [[File:Roselia_Egg_Pattern.png|30px]] /[[File:Roselia.png|50px]] '''''Roselia''''' || [[File:Feebas_Egg_Pattern.png|30px]] /[[File:Feebas.png|50px]] '''''Feebas''''' || [[File:Plusle_Egg_Pattern.png|30px]] /[[File:Plusle.png|50px]] Plusle || [[File:Meditite_Egg_Pattern.png|30px]] /[[File:Meditite.png|50px]] Meditite || [[File:Shelgon_Egg_Pattern.png|30px]] /[[File:Shelgon.png|50px]] Shelgon
+|-
+|  &lt;center&gt; --- || [[File:Tropius_Egg_Pattern.png|30px]] /[[File:Tropius.png|50px]] Tropius || [[File:Clamperl_Egg_Pattern.png|30px]] /[[File:Clamperl.png|50px]] Clamperl || [[File:Minun_Egg_Pattern.png|30px]] /[[File:Minun.png|50px]] Minun || &lt;center&gt; --- || [[File:Salamence_Egg_Pattern.png|30px]] /[[File:Salamence.png|50px]] Salamence
+|}
+
+=== '''&lt;big&gt;[[Sinnoh]]&lt;/big&gt;''' ===
+{| class="wikitable sortable"
+|-
+! [[Fire Egg|Fuego]] !! [[Grass Egg|Planta]] !!  [[Water Egg|Agua]] !! [[Electric Egg|Eléctrico]] !! [[Fighting Egg|Lucha]] !! [[Dragon Egg|Dragón]]
+|-
+| [[File:Chimchar_Egg_Pattern.png|30px]] /[[File:Chimchar.png|50px]] '''Chimchar''' || [[File:Turtwig_Egg_Pattern.png|30px]] /[[File:Turtwig.png|50px]] '''Turtwig''' || [[File:Piplup_Egg_Pattern.png|30px]] /[[File:Piplup.png|50px]] '''Piplup''' || [[File:Pachirisu_Egg_Pattern.png|30px]] /[[File:Pachirisu.png|50px]] '''''Pachirisu''''' || [[File:Riolu_Egg_Pattern.png|30px]] /[[File:Riolu.png|50px]] '''Riolu''' || [[File:Gible_Egg_Pattern.png|30px]] /[[File:Gible.png|50px]] '''''Gible'''''
+|-
+| &lt;center&gt; --- || [[File:Carnivine_Egg_Pattern.png|30px]] /[[File:Carnivine.png|50px]] '''''Carnivine''''' || [[File:Finneon_Egg_Pattern.png|30px]] /[[File:Finneon.png|50px]] Finneon || [[File:Shinx_Egg_Pattern.png|30px]] /[[File:Shinx.png|50px]] Shinx || &lt;center&gt; --- || [[File:Gabite_Egg_Pattern.png|30px]] /[[File:Gabite.png|50px]] Gabite
+|-
+| &lt;center&gt; --- || [[File:Budew_Egg_Pattern.png|30px]] /[[File:Budew.png|50px]] Budew || [[File:Buizel_Egg_Pattern.png|30px]] /[[File:Buizel.png|50px]] Buizel || &lt;center&gt; ---  || &lt;center&gt; ---  || [[File:Garchomp_Egg_Pattern.png|30px]] /[[File:Garchomp.png|50px]] Garchomp
+|}
+
+=== '''&lt;big&gt;[[Unova|Teselia]]&lt;/big&gt;''' ===
+{| class="wikitable sortable"
+|-
+! [[Fire Egg|Fuego]] !! [[Grass Egg|Planta]] !!  [[Water Egg|Agua]] !! [[Electric Egg|Eléctrico]] !! [[Fighting Egg|Lucha]] !! [[Dragon Egg|Dragón]]
+|-
+| [[File:Tepig_Egg_Pattern.png|30px]] /[[File:Tepig.png|50px]] '''Tepig''' || [[File:Snivy_Egg_Pattern.png|30px]] /[[File:Snivy.png|50px]] '''Snivy''' || [[File:Oshawott_Egg_Pattern.png|30px]] /[[File:Oshawott.png|50px]] '''Oshawott''' || [[File:Blitzle_Egg_Pattern.png|30px]] /[[File:Blitzle.png|50px]] '''''&lt;u&gt;Blitzle&lt;/u&gt;''''' || [[File:Throh_Egg_Pattern.png|30px]] /[[File:Throh.png|50px]] '''''Throh''''' || [[File:Deino_Egg_Pattern.png|30px]] /[[File:Deino.png|50px]] '''''&lt;u&gt;Deino&lt;/u&gt;'''''
+|-
+| [[File:Pansear_Egg_Pattern.png|30px]] /[[File:Pansear.png|50px]] '''''Pansear''''' || [[File:Pansage_Egg_Pattern.png|30px]] /[[File:Pansage.png|50px]] '''''Pansage''''' || [[File:Panpour_Egg_Pattern.png|30px]] /[[File:Panpour.png|50px]] '''''Panpour''''' || &lt;center&gt; --- || [[File:Sawk_Egg_Pattern.png|30px]] /[[File:Sawk.png|50px]] '''''Sawk''''' || [[File:Zweilous_Egg_Pattern.png|30px]] /[[File:Zweilous.png|50px]] Zweilous
+|-
+| &lt;center&gt; --- || &lt;center&gt; --- || &lt;center&gt; --- || &lt;center&gt; --- || &lt;center&gt; --- || [[File:Hydreigon_Egg_Pattern.png|30px]] /[[File:Hydreigon.png|50px]] Hydreigon
+|}
+
+=== '''&lt;big&gt;[[Kalos]]&lt;/big&gt;''' ===
+{| class="wikitable sortable"
+|-
+! [[Fire Egg|Fuego]] !! [[Grass Egg|Planta]] !!  [[Water Egg|Agua]] !! [[Electric Egg|Eléctrico]] !! [[Fighting Egg|Lucha]] !! [[Dragon Egg|Dragón]]
+|-
+| [[File:Fennekin_Egg_Pattern.png|30px]] /[[File:Fennekin.png|50px]] '''Fennekin''' || [[File:Chespin_Egg_Pattern.png|30px]] /[[File:Chespin.png|50px]] '''Chespin''' || [[File:Froakie_Egg_Pattern.png|30px]] /[[File:Froakie.png|50px]] '''Froakie''' || &lt;center&gt; --- || &lt;center&gt; --- || [[File:Goomy_Egg_Pattern.png|30px]] /[[File:Goomy.png|50px]] Goomy
+|}
+
+=== '''&lt;big&gt;[[Alola]]&lt;/big&gt;''' ===
+
+{| class="wikitable sortable"
+|-
+! [[Fire Egg|Fuego]] !! [[Grass Egg|Planta]] !!  [[Water Egg|Agua]] !! [[Electric Egg|Eléctrico]] !! [[Fighting Egg|Lucha]] !! [[Dragon Egg|Dragón]]
+|-
+| [[File:Litten_Egg_Pattern.png|30px]] /[[File:Litten.png|50px]] '''Litten''' || [[File:Rowlet_Egg_Pattern.png|30px]] /[[File:Rowlet.png|50px]] '''Rowlet''' || [[File:Popplio_Egg_Pattern.png|30px]] /[[File:Popplio.png|50px]] '''Popplio''' || &lt;center&gt; --- || [[File:Crabrawler_Egg_Pattern.png|30px]] /[[File:Crabrawler.png|50px]] '''''&lt;u&gt;Crabrawler&lt;/u&gt;''''' || [[File:Turtonator_Egg_Pattern.png|30px]] /[[File:Turtonator.png|50px]] '''''&lt;u&gt;Turtonator&lt;/u&gt;'''''
+|-
+| &lt;center&gt; --- || [[File:Morelull_Egg_Pattern.png|30px]] /[[File:Morelull.png|50px]] '''''&lt;u&gt;Morelull&lt;/u&gt;''''' || [[File:Wimpod_Egg_Pattern.png|30px]] /[[File:Wimpod.png|50px]] '''''&lt;u&gt;Wimpod&lt;/u&gt;''''' || &lt;center&gt; --- || &lt;center&gt; --- || [[File:Drampa_Egg_Pattern.png|30px]] /[[File:Drampa.png|50px]] '''''&lt;u&gt;Drampa&lt;/u&gt;'''''
+|-
+| &lt;center&gt; --- || &lt;center&gt; --- || &lt;center&gt; --- || &lt;center&gt; --- || &lt;center&gt; --- || [[File:Jangmo-o_Egg_Pattern.png|30px]] /[[File:Jangmo-o.png|50px]] Jangmo-o
+|-
+| &lt;center&gt; --- || &lt;center&gt; --- || &lt;center&gt; --- || &lt;center&gt; --- || &lt;center&gt; --- || [[File:Hakamo-o_Egg_Pattern.png|30px]] /[[File:Hakamo-o.png|50px]] Hakamo-o
+|-
+| &lt;center&gt; --- || &lt;center&gt; --- || &lt;center&gt; --- || &lt;center&gt; --- || &lt;center&gt; --- || [[File:Kommo-o_Egg_Pattern.png|30px]] /[[File:Kommo-o.png|50px]] Kommo-o
+|}
+
+==Info de Ayuda==
+Cuando entras a la siguiente área los ratios de Pokémon cambian. Asumiento que acabas de entrar a [[Sinnoh]] el [[Water Egg|Huevo Agua]] de la tabla cambia de
+
+===En [[Hoenn]]===
+
+(Squirtle, Lapras, Staryu, Psyduck)
+
+(Totodile, Wooper, Marill, Qwilfish)
+
+(Mudkip, Feebas, Clamperl)
+
+(Mudkip, Feebas, Clamperl)
+
+===En [[Sinnoh]]===
+
+(Squirtle, Lapras, Staryu, Psyduck)
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+(Totodile, Wooper, Marill, Qwilfish)
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+(Mudkip, Feebas, Clamperl)
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+(Mudkip, Feebas, Clamperl)
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+(Piplup, Finneon, Buizel)
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+(Piplup, Finneon, Buizel)
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+(Piplup, Finneon, Buizel)
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+(Piplup, Finneon, Buizel)
+&lt;/div&gt;
+
+
+Esto hace que la probabilidad de conseguir un Pokémon de la nueva región a la que has entrado sea un 50% y bajando la combinación total de todas las áreas previas un 50%. El Huevo Misterioso sacará aleatoriamente de todos los grupos de huevo, haciéndolo más útil cuando aún no has obtenido ningún Pokémon de esa región.
+
+
+{{Eggs}}&lt;br&gt;
+
+[[Category:Eggs]]</text>
+    <contributor>
+      <username>SrVariable</username>
+      <id>142</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>20877</parentid>
+    <sha1>1769a0bb600fb9f66f20c724433536f85331d9de</sha1>
+  </revision>
+  <revision>
+    <id>20877</id>
+    <timestamp>2022-07-29T22:48:49Z</timestamp>
+    <text bytes="12869" space="preserve">&lt;languages/&gt;
+Los '''Huevos''' son objetos que contienen Pokémon. Los Huevos pueden ser obtenidos de varias maneras: comprándolos en [[Shops|Tiendas]], [[Pokémon Day Care|criando]] Pokémon nivel 100 y comprándolos en los [[Shard Trader|Intercambiadores de Partes]]. Incubar un huevo incrementará el ataque del Pokémon criado un 25% de su ataque base. Dónde compres/obtengas el huevo no afecta al Pokémon Incubado de ese huevo.
+
+== [[Shops|Tienda]] Grupo de Huevos ==
+
+En las tablas siguientes, los nombres '''En Negrita''' indica el Pokémon que puede ser obtenido en sus respectivas regiones ya sea en la tienda de incubación o a través de [[Berries#Wandering_Pokémon|Pokémon Itinerantes]] en la [[Farm|Granja]]. Los nombres '''''En Negrita y En Itálica''''' indican que el Pokémon solo puede ser obtenido en su respectiva región en tiendas de incubación de huevos. Los nombres '''''&lt;u&gt;En Negrita, En Itálica, y subrayados&lt;/u&gt;''''' indican que el Pokémon no puede ser obtenido fuera de la tienda de huevos (por ejemplo no se puede encontrar salvaje en una región posterior incluso con el desafío Necesario Completar la Pokédex desactivado) desde la v0.8.15
+
+La división del Grupo de Huevos funciona así:
+* 50% de probabilidad de conseguir un Pokémon de la región más lejana que hayas alcanzado (las probabilidades se divien de manera equitativa por cada posible Pokémon de la región más lejana alcanzada)
+* 50% restante divido entre todo el grupo de huevos Pokémon de regiones anteriores. Ver la sección de abajo [[Egg#Helpful_Info|Info de Ayuda]] para más detalles.
+
+=== '''&lt;big&gt;[[Kanto]]&lt;/big&gt;''' ===
+{| class="wikitable"
+|-
+! [[Fire Egg|Fuego]] !! [[Grass Egg|Planta]] !!  [[Water Egg|Agua]] !! [[Electric Egg|Eléctrico]] !! [[Fighting Egg|Lucha]] !! [[Dragon Egg|Dragón]]
+|-
+| [[File:Charmander_Egg_Pattern.png|30px]] /[[File:Charmander.png|50px]] '''Charmander''' || [[File:Bulbasaur_Egg_Pattern.png|30px]] /[[File:Bulbasaur.png|50px]] '''Bulbasaur''' || [[File:Squirtle_Egg_Pattern.png|30px]] /[[File:Squirtle.png|50px]] '''Squirtle''' || [[File:Magnemite_Egg_Pattern.png|30px]] /[[File:Magnemite.png|50px]] Magnemite || [[File:Hitmonchan_Egg_Pattern.png|30px]] /[[File:Hitmonchan.png|50px]] '''''Hitmonchan''''' || [[File:Dratini_Egg_Pattern.png|30px]] /[[File:Dratini.png|50px]] '''''Dratini'''''
+|-
+| [[File:Ponyta_Egg_Pattern.png|30px]] /[[File:Ponyta.png|50px]] Ponyta || [[File:Oddish_Egg_Pattern.png|30px]] /[[File:Oddish.png|50px]] Oddish || [[File:Lapras_Egg_Pattern.png|30px]] /[[File:Lapras.png|50px]] '''''Lapras''''' || [[File:Pikachu_Egg_Pattern.png|30px]] /[[File:Pikachu.png|50px]] Pikachu || [[File:Hitmonlee_Egg_Pattern.png|30px]] /[[File:Hitmonlee.png|50px]] '''''Hitmonlee''''' || [[File:Dragonair_Egg_Pattern.png|30px]] /[[File:Dragonair.png|50px]] Dragonair
+|-
+| [[File:Growlithe_Egg_Pattern.png|30px]] /[[File:Growlithe.png|50px]] Growlithe || [[File:Bellsprout_Egg_Pattern.png|30px]] /[[File:Bellsprout.png|50px]] Bellsprout || [[File:Staryu_Egg_Pattern.png|30px]] /[[File:Staryu.png|50px]] Staryu || [[File:Voltorb_Egg_Pattern.png|30px]] /[[File:Voltorb.png|50px]] Voltorb || [[File:Machop_Egg_Pattern.png|30px]] /[[File:Machop.png|50px]] Machop || [[File:Dragonite_Egg_Pattern.png|30px]] /[[File:Dragonite.png|50px]] Dragonite
+|-
+| [[File:Vulpix_Egg_Pattern.png|30px]] /[[File:Vulpix.png|50px]] Vulpix || [[File:Tangela_Egg_Pattern.png|30px]] /[[File:Tangela.png|50px]] Tangela || [[File:Psyduck_Egg_Pattern.png|30px]] /[[File:Psyduck.png|50px]] Psyduck || [[File:Electabuzz_Egg_Pattern.png|30px]] /[[File:Electabuzz.png|50px]] Electabuzz || [[File:Mankey_Egg_Pattern.png|30px]] /[[File:Mankey.png|50px]] Mankey || &lt;center&gt; ---
+|}
+
+=== '''&lt;big&gt;[[Johto]]&lt;/big&gt;''' ===
+{| class="wikitable sortable"
+|-
+! [[Fire Egg|Fuego]] !! [[Grass Egg|Planta]] !! [[Water Egg|Agua]] !! [[Electric Egg|Eléctrico]] !! [[Fighting Egg|Lucha]] !! [[Dragon Egg|Dragón]]
+|-
+| [[File:Cyndaquil_Egg_Pattern.png|30px]] /[[File:Cyndaquil.png|50px]] '''Cyndaquil''' || [[File:Chikorita_Egg_Pattern.png|30px]] /[[File:Chikorita.png|50px]] '''Chikorita''' || [[File:Totodile_Egg_Pattern.png|30px]] /[[File:Totodile.png|50px]] '''Totodile''' || [[File:Chinchou_Egg_Pattern.png|30px]] /[[File:Chinchou.png|50px]] Chinchou || [[File:Tyrogue_Egg_Pattern.png|30px]] /[[File:Tyrogue.png|50px]] Tyrogue || &lt;center&gt; ---
+|-
+| [[File:Houndour_Egg_Pattern.png|30px]] /[[File:Houndour.png|50px]] '''''Houndour''''' || [[File:Sunkern_Egg_Pattern.png|30px]] /[[File:Sunkern.png|50px]] '''''Sunkern''''' || [[File:Wooper_Egg_Pattern.png|30px]] /[[File:Wooper.png|50px]] Wooper || [[File:Mareep_Egg_Pattern.png|30px]] /[[File:Mareep.png|50px]] Mareep || &lt;center&gt; --- || &lt;center&gt; ---
+|-
+| [[File:Slugma_Egg_Pattern.png|30px]] /[[File:Slugma.png|50px]] '''''Slugma''''' || [[File:Hoppip_Egg_Pattern.png|30px]] /[[File:Hoppip.png|50px]] Hoppip || [[File:Marill_Egg_Pattern.png|30px]] /[[File:Marill.png|50px]] Marill || [[File:Elekid_Egg_Pattern.png|30px]] /[[File:Elekid.png|50px]] Elekid || &lt;center&gt; --- || &lt;center&gt; ---
+|-
+| [[File:Magby_Egg_Pattern.png|30px]] /[[File:Magby.png|50px]] Magby || &lt;center&gt; --- || [[File:Qwilfish_Egg_Pattern.png|30px]] /[[File:Qwilfish.png|50px]] Qwilfish || &lt;center&gt; --- || &lt;center&gt; --- || &lt;center&gt; ---
+|}
+
+=== '''&lt;big&gt;[[Hoenn]]&lt;/big&gt;''' ===
+{| class="wikitable sortable"
+|-
+! [[Fire Egg|Fuego]] !! [[Grass Egg|Planta]] !!  [[Water Egg|Agua]] !! [[Electric Egg|Eléctrico]] !! [[Fighting Egg|Lucha]] !! [[Dragon Egg|Dragón]]
+|-
+| [[File:Torchic_Egg_Pattern.png|30px]] /[[File:Torchic.png|50px]] '''Torchic''' || [[File:Treecko_Egg_Pattern.png|30px]] /[[File:Treecko.png|50px]] '''Treecko''' || [[File:Mudkip_Egg_Pattern.png|30px]] /[[File:Mudkip.png|50px]] '''Mudkip''' || [[File:Electrike_Egg_Pattern.png|30px]] /[[File:Electrike.png|50px]] '''''Electrike''''' || [[File:Makuhita_Egg_Pattern.png|30px]] /[[File:Makuhita.png|50px]] Makuhita || [[File:Bagon_Egg_Pattern.png|30px]] /[[File:Bagon.png|50px]] '''Bagon'''
+|-
+| [[File:Numel_Egg_Pattern.png|30px]] /[[File:Numel.png|50px]] Numel || [[File:Roselia_Egg_Pattern.png|30px]] /[[File:Roselia.png|50px]] '''''Roselia''''' || [[File:Feebas_Egg_Pattern.png|30px]] /[[File:Feebas.png|50px]] '''''Feebas''''' || [[File:Plusle_Egg_Pattern.png|30px]] /[[File:Plusle.png|50px]] Plusle || [[File:Meditite_Egg_Pattern.png|30px]] /[[File:Meditite.png|50px]] Meditite || [[File:Shelgon_Egg_Pattern.png|30px]] /[[File:Shelgon.png|50px]] Shelgon
+|-
+|  &lt;center&gt; --- || [[File:Tropius_Egg_Pattern.png|30px]] /[[File:Tropius.png|50px]] Tropius || [[File:Clamperl_Egg_Pattern.png|30px]] /[[File:Clamperl.png|50px]] Clamperl || [[File:Minun_Egg_Pattern.png|30px]] /[[File:Minun.png|50px]] Minun || &lt;center&gt; --- || [[File:Salamence_Egg_Pattern.png|30px]] /[[File:Salamence.png|50px]] Salamence
+|}
+
+=== '''&lt;big&gt;[[Sinnoh]]&lt;/big&gt;''' ===
+{| class="wikitable sortable"
+|-
+! [[Fire Egg|Fuego]] !! [[Grass Egg|Planta]] !!  [[Water Egg|Agua]] !! [[Electric Egg|Eléctrico]] !! [[Fighting Egg|Lucha]] !! [[Dragon Egg|Dragón]]
+|-
+| [[File:Chimchar_Egg_Pattern.png|30px]] /[[File:Chimchar.png|50px]] '''Chimchar''' || [[File:Turtwig_Egg_Pattern.png|30px]] /[[File:Turtwig.png|50px]] '''Turtwig''' || [[File:Piplup_Egg_Pattern.png|30px]] /[[File:Piplup.png|50px]] '''Piplup''' || [[File:Pachirisu_Egg_Pattern.png|30px]] /[[File:Pachirisu.png|50px]] '''''Pachirisu''''' || [[File:Riolu_Egg_Pattern.png|30px]] /[[File:Riolu.png|50px]] '''Riolu''' || [[File:Gible_Egg_Pattern.png|30px]] /[[File:Gible.png|50px]] '''''Gible'''''
+|-
+| &lt;center&gt; --- || [[File:Carnivine_Egg_Pattern.png|30px]] /[[File:Carnivine.png|50px]] '''''Carnivine''''' || [[File:Finneon_Egg_Pattern.png|30px]] /[[File:Finneon.png|50px]] Finneon || [[File:Shinx_Egg_Pattern.png|30px]] /[[File:Shinx.png|50px]] Shinx || &lt;center&gt; --- || [[File:Gabite_Egg_Pattern.png|30px]] /[[File:Gabite.png|50px]] Gabite
+|-
+| &lt;center&gt; --- || [[File:Budew_Egg_Pattern.png|30px]] /[[File:Budew.png|50px]] Budew || [[File:Buizel_Egg_Pattern.png|30px]] /[[File:Buizel.png|50px]] Buizel || &lt;center&gt; ---  || &lt;center&gt; ---  || [[File:Garchomp_Egg_Pattern.png|30px]] /[[File:Garchomp.png|50px]] Garchomp
+|}
+
+=== '''&lt;big&gt;[[Unova|Teselia]]&lt;/big&gt;''' ===
+{| class="wikitable sortable"
+|-
+! [[Fire Egg|Fuego]] !! [[Grass Egg|Planta]] !!  [[Water Egg|Agua]] !! [[Electric Egg|Eléctrico]] !! [[Fighting Egg|Lucha]] !! [[Dragon Egg|Dragón]]
+|-
+| [[File:Tepig_Egg_Pattern.png|30px]] /[[File:Tepig.png|50px]] '''Tepig''' || [[File:Snivy_Egg_Pattern.png|30px]] /[[File:Snivy.png|50px]] '''Snivy''' || [[File:Oshawott_Egg_Pattern.png|30px]] /[[File:Oshawott.png|50px]] '''Oshawott''' || [[File:Blitzle_Egg_Pattern.png|30px]] /[[File:Blitzle.png|50px]] '''''&lt;u&gt;Blitzle&lt;/u&gt;''''' || [[File:Throh_Egg_Pattern.png|30px]] /[[File:Throh.png|50px]] '''''Throh''''' || [[File:Deino_Egg_Pattern.png|30px]] /[[File:Deino.png|50px]] '''''&lt;u&gt;Deino&lt;/u&gt;'''''
+|-
+| [[File:Pansear_Egg_Pattern.png|30px]] /[[File:Pansear.png|50px]] '''''Pansear''''' || [[File:Pansage_Egg_Pattern.png|30px]] /[[File:Pansage.png|50px]] '''''Pansage''''' || [[File:Panpour_Egg_Pattern.png|30px]] /[[File:Panpour.png|50px]] '''''Panpour''''' || &lt;center&gt; --- || [[File:Sawk_Egg_Pattern.png|30px]] /[[File:Sawk.png|50px]] '''''Sawk''''' || [[File:Zweilous_Egg_Pattern.png|30px]] /[[File:Zweilous.png|50px]] Zweilous
+|-
+| &lt;center&gt; --- || &lt;center&gt; --- || &lt;center&gt; --- || &lt;center&gt; --- || &lt;center&gt; --- || [[File:Hydreigon_Egg_Pattern.png|30px]] /[[File:Hydreigon.png|50px]] Hydreigon
+|}
+
+=== '''&lt;big&gt;[[Kalos]]&lt;/big&gt;''' ===
+{| class="wikitable sortable"
+|-
+! [[Fire Egg|Fuego]] !! [[Grass Egg|Planta]] !!  [[Water Egg|Agua]] !! [[Electric Egg|Eléctrico]] !! [[Fighting Egg|Lucha]] !! [[Dragon Egg|Dragón]]
+|-
+| [[File:Fennekin_Egg_Pattern.png|30px]] /[[File:Fennekin.png|50px]] '''Fennekin''' || [[File:Chespin_Egg_Pattern.png|30px]] /[[File:Chespin.png|50px]] '''Chespin''' || [[File:Froakie_Egg_Pattern.png|30px]] /[[File:Froakie.png|50px]] '''Froakie''' || &lt;center&gt; --- || &lt;center&gt; --- || [[File:Goomy_Egg_Pattern.png|30px]] /[[File:Goomy.png|50px]] Goomy
+|}
+
+=== '''&lt;big&gt;[[Alola]]&lt;/big&gt;''' ===
+
+{| class="wikitable sortable"
+|-
+! [[Fire Egg|Fuego]] !! [[Grass Egg|Planta]] !!  [[Water Egg|Agua]] !! [[Electric Egg|Eléctrico]] !! [[Fighting Egg|Lucha]] !! [[Dragon Egg|Dragón]]
+|-
+| [[File:Litten_Egg_Pattern.png|30px]] /[[File:Litten.png|50px]] '''Litten''' || [[File:Rowlet_Egg_Pattern.png|30px]] /[[File:Rowlet.png|50px]] '''Rowlet''' || [[File:Popplio_Egg_Pattern.png|30px]] /[[File:Popplio.png|50px]] '''Popplio''' || &lt;center&gt; --- || [[File:Crabrawler_Egg_Pattern.png|30px]] /[[File:Crabrawler.png|50px]] '''''&lt;u&gt;Crabrawler&lt;/u&gt;''''' || [[File:Turtonator_Egg_Pattern.png|30px]] /[[File:Turtonator.png|50px]] '''''&lt;u&gt;Turtonator&lt;/u&gt;'''''
+|-
+| &lt;center&gt; --- || [[File:Morelull_Egg_Pattern.png|30px]] /[[File:Morelull.png|50px]] '''''&lt;u&gt;Morelull&lt;/u&gt;''''' || [[File:Wimpod_Egg_Pattern.png|30px]] /[[File:Wimpod.png|50px]] '''''&lt;u&gt;Wimpod&lt;/u&gt;''''' || &lt;center&gt; --- || &lt;center&gt; --- || [[File:Drampa_Egg_Pattern.png|30px]] /[[File:Drampa.png|50px]] '''''&lt;u&gt;Drampa&lt;/u&gt;'''''
+|-
+| &lt;center&gt; --- || &lt;center&gt; --- || &lt;center&gt; --- || &lt;center&gt; --- || &lt;center&gt; --- || [[File:Jangmo-o_Egg_Pattern.png|30px]] /[[File:Jangmo-o.png|50px]] Jangmo-o
+|-
+| &lt;center&gt; --- || &lt;center&gt; --- || &lt;center&gt; --- || &lt;center&gt; --- || &lt;center&gt; --- || [[File:Hakamo-o_Egg_Pattern.png|30px]] /[[File:Hakamo-o.png|50px]] Hakamo-o
+|-
+| &lt;center&gt; --- || &lt;center&gt; --- || &lt;center&gt; --- || &lt;center&gt; --- || &lt;center&gt; --- || [[File:Kommo-o_Egg_Pattern.png|30px]] /[[File:Kommo-o.png|50px]] Kommo-o
+|}
+
+==Info de Ayuda==
+Cuando entras a la siguiente área los ratios de Pokémon cambian. Asumiento que acabas de entrar a [[Sinnoh]] el [[Water Egg|Huevo Agua]] de la tabla cambia de
+
+===En [[Hoenn]]===
+
+(Squirtle, Lapras, Staryu, Psyduck)
+
+(Totodile, Wooper, Marill, Qwilfish)
+
+(Mudkip, Feebas, Clamperl)
+
+(Mudkip, Feebas, Clamperl)
+
+===En [[Sinnoh]]===
+
+(Squirtle, Lapras, Staryu, Psyduck)
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+(Totodile, Wooper, Marill, Qwilfish)
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+(Mudkip, Feebas, Clamperl)
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+(Mudkip, Feebas, Clamperl)
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+(Piplup, Finneon, Buizel)
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+(Piplup, Finneon, Buizel)
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+(Piplup, Finneon, Buizel)
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+(Piplup, Finneon, Buizel)
+&lt;/div&gt;
+
+
+Esto hace que la probabilidad de conseguir un Pokémon de la nueva región a la que has entrado sea un 50% y bajando la combinación total de todas las áreas previas un 50%. El Huevo Misterioso sacará aleatoriamente de todos los grupos de huevo, haciéndolo más útil cuando aún no has obtenido ningún Pokémon de esa región.
+
+
+{{Eggs}}&lt;br&gt;
+
+[[Category:Eggs]]</text>
+    <contributor>
+      <username>SrVariable</username>
+      <id>142</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>20876</parentid>
+    <sha1>871378cf6259450f7989d40a2069ee017c947121</sha1>
+  </revision>
+  <revision>
+    <id>20876</id>
+    <timestamp>2022-07-29T22:47:51Z</timestamp>
+    <text bytes="12876" space="preserve">&lt;languages/&gt;
+Los '''Huevos''' son objetos que contienen Pokémon. Los Huevos pueden ser obtenidos de varias maneras: comprándolos en [[Shops|Tiendas]], [[Pokémon Day Care|criando]] Pokémon nivel 100 y comprándolos en los [[Shard Trader|Intercambiadores de Partes]]. Incubar un huevo incrementará el ataque del Pokémon criado un 25% de su ataque base. Dónde compres/obtengas el huevo no afecta al Pokémon Incubado de ese huevo.
+
+== [[Shops|Tienda]] Grupo de Huevos ==
+
+En las tablas siguientes, los nombres '''En Negrita''' indica el Pokémon que puede ser obtenido en sus respectivas regiones ya sea en la tienda de incubación o a través de [[Berries#Wandering_Pokémon|Pokémon Itinerantes]] en la [[Farm|Granja]]. Los nombres '''''En Negrita y En Itálica''''' indican que el Pokémon solo puede ser obtenido en su respectiva región en tiendas de incubación de huevos. Los nombres '''''&lt;u&gt;En Negrita, En Itálica, y subrayados&lt;/u&gt;''''' indican que el Pokémon no puede ser obtenido fuera de la tienda de huevos (por ejemplo no se puede encontrar salvaje en una región posterior incluso con el desafío Necesario Completar la Pokédex desactivado) desde la v0.8.15
+
+La división del Grupo de Huevos funciona así:
+* 50% de probabilidad de conseguir un Pokémon de la región más lejana que hayas alcanzado (las probabilidades se divien de manera equitativa por cada posible Pokémon de la región más lejana alcanzada)
+* 50% restante divido entre todo el grupo de huevos Pokémon de regiones anteriores. Ver la sección de abajo [[Egg#Helpful_Info|Info de Ayuda]] para más detalles.
+
+=== '''&lt;big&gt;[[Kanto]]&lt;/big&gt;''' ===
+{| class="wikitable"
+|-
+! [[Fire Egg|Fuego]] !! [[Grass Egg|Planta]] !!  [[Water Egg|Agua]] !! [[Electric Egg|Eléctrico]] !! [[Fighting Egg|Lucha]] !! [[Dragon Egg|Dragón]]
+|-
+| [[File:Charmander_Egg_Pattern.png|30px]] /[[File:Charmander.png|50px]] '''Charmander''' || [[File:Bulbasaur_Egg_Pattern.png|30px]] /[[File:Bulbasaur.png|50px]] '''Bulbasaur''' || [[File:Squirtle_Egg_Pattern.png|30px]] /[[File:Squirtle.png|50px]] '''Squirtle''' || [[File:Magnemite_Egg_Pattern.png|30px]] /[[File:Magnemite.png|50px]] Magnemite || [[File:Hitmonchan_Egg_Pattern.png|30px]] /[[File:Hitmonchan.png|50px]] '''''Hitmonchan''''' || [[File:Dratini_Egg_Pattern.png|30px]] /[[File:Dratini.png|50px]] '''''Dratini'''''
+|-
+| [[File:Ponyta_Egg_Pattern.png|30px]] /[[File:Ponyta.png|50px]] Ponyta || [[File:Oddish_Egg_Pattern.png|30px]] /[[File:Oddish.png|50px]] Oddish || [[File:Lapras_Egg_Pattern.png|30px]] /[[File:Lapras.png|50px]] '''''Lapras''''' || [[File:Pikachu_Egg_Pattern.png|30px]] /[[File:Pikachu.png|50px]] Pikachu || [[File:Hitmonlee_Egg_Pattern.png|30px]] /[[File:Hitmonlee.png|50px]] '''''Hitmonlee''''' || [[File:Dragonair_Egg_Pattern.png|30px]] /[[File:Dragonair.png|50px]] Dragonair
+|-
+| [[File:Growlithe_Egg_Pattern.png|30px]] /[[File:Growlithe.png|50px]] Growlithe || [[File:Bellsprout_Egg_Pattern.png|30px]] /[[File:Bellsprout.png|50px]] Bellsprout || [[File:Staryu_Egg_Pattern.png|30px]] /[[File:Staryu.png|50px]] Staryu || [[File:Voltorb_Egg_Pattern.png|30px]] /[[File:Voltorb.png|50px]] Voltorb || [[File:Machop_Egg_Pattern.png|30px]] /[[File:Machop.png|50px]] Machop || [[File:Dragonite_Egg_Pattern.png|30px]] /[[File:Dragonite.png|50px]] Dragonite
+|-
+| [[File:Vulpix_Egg_Pattern.png|30px]] /[[File:Vulpix.png|50px]] Vulpix || [[File:Tangela_Egg_Pattern.png|30px]] /[[File:Tangela.png|50px]] Tangela || [[File:Psyduck_Egg_Pattern.png|30px]] /[[File:Psyduck.png|50px]] Psyduck || [[File:Electabuzz_Egg_Pattern.png|30px]] /[[File:Electabuzz.png|50px]] Electabuzz || [[File:Mankey_Egg_Pattern.png|30px]] /[[File:Mankey.png|50px]] Mankey || &lt;center&gt; ---
+|}
+
+=== '''&lt;big&gt;[[Johto]]&lt;/big&gt;''' ===
+{| class="wikitable sortable"
+|-
+! [[Fire Egg|Fuego]] !! [[Grass Egg|Planta]] !! [[Water Egg|Agua]] !! [[Electric Egg|Eléctrico]] !! [[Fighting Egg|Lucha]] !! [[Dragon Egg|Dragón]]
+|-
+| [[File:Cyndaquil_Egg_Pattern.png|30px]] /[[File:Cyndaquil.png|50px]] '''Cyndaquil''' || [[File:Chikorita_Egg_Pattern.png|30px]] /[[File:Chikorita.png|50px]] '''Chikorita''' || [[File:Totodile_Egg_Pattern.png|30px]] /[[File:Totodile.png|50px]] '''Totodile''' || [[File:Chinchou_Egg_Pattern.png|30px]] /[[File:Chinchou.png|50px]] Chinchou || [[File:Tyrogue_Egg_Pattern.png|30px]] /[[File:Tyrogue.png|50px]] Tyrogue || &lt;center&gt; ---
+|-
+| [[File:Houndour_Egg_Pattern.png|30px]] /[[File:Houndour.png|50px]] '''''Houndour''''' || [[File:Sunkern_Egg_Pattern.png|30px]] /[[File:Sunkern.png|50px]] '''''Sunkern''''' || [[File:Wooper_Egg_Pattern.png|30px]] /[[File:Wooper.png|50px]] Wooper || [[File:Mareep_Egg_Pattern.png|30px]] /[[File:Mareep.png|50px]] Mareep || &lt;center&gt; --- || &lt;center&gt; ---
+|-
+| [[File:Slugma_Egg_Pattern.png|30px]] /[[File:Slugma.png|50px]] '''''Slugma''''' || [[File:Hoppip_Egg_Pattern.png|30px]] /[[File:Hoppip.png|50px]] Hoppip || [[File:Marill_Egg_Pattern.png|30px]] /[[File:Marill.png|50px]] Marill || [[File:Elekid_Egg_Pattern.png|30px]] /[[File:Elekid.png|50px]] Elekid || &lt;center&gt; --- || &lt;center&gt; ---
+|-
+| [[File:Magby_Egg_Pattern.png|30px]] /[[File:Magby.png|50px]] Magby || &lt;center&gt; --- || [[File:Qwilfish_Egg_Pattern.png|30px]] /[[File:Qwilfish.png|50px]] Qwilfish || &lt;center&gt; --- || &lt;center&gt; --- || &lt;center&gt; ---
+|}
+
+=== '''&lt;big&gt;[[Hoenn]]&lt;/big&gt;''' ===
+{| class="wikitable sortable"
+|-
+! [[Fire Egg|Fuego]] !! [[Grass Egg|Planta]] !!  [[Water Egg|Agua]] !! [[Electric Egg|Eléctrico]] !! [[Fighting Egg|Lucha]] !! [[Dragon Egg|Dragón]]
+|-
+| [[File:Torchic_Egg_Pattern.png|30px]] /[[File:Torchic.png|50px]] '''Torchic''' || [[File:Treecko_Egg_Pattern.png|30px]] /[[File:Treecko.png|50px]] '''Treecko''' || [[File:Mudkip_Egg_Pattern.png|30px]] /[[File:Mudkip.png|50px]] '''Mudkip''' || [[File:Electrike_Egg_Pattern.png|30px]] /[[File:Electrike.png|50px]] '''''Electrike''''' || [[File:Makuhita_Egg_Pattern.png|30px]] /[[File:Makuhita.png|50px]] Makuhita || [[File:Bagon_Egg_Pattern.png|30px]] /[[File:Bagon.png|50px]] '''Bagon'''
+|-
+| [[File:Numel_Egg_Pattern.png|30px]] /[[File:Numel.png|50px]] Numel || [[File:Roselia_Egg_Pattern.png|30px]] /[[File:Roselia.png|50px]] '''''Roselia''''' || [[File:Feebas_Egg_Pattern.png|30px]] /[[File:Feebas.png|50px]] '''''Feebas''''' || [[File:Plusle_Egg_Pattern.png|30px]] /[[File:Plusle.png|50px]] Plusle || [[File:Meditite_Egg_Pattern.png|30px]] /[[File:Meditite.png|50px]] Meditite || [[File:Shelgon_Egg_Pattern.png|30px]] /[[File:Shelgon.png|50px]] Shelgon
+|-
+|  &lt;center&gt; --- || [[File:Tropius_Egg_Pattern.png|30px]] /[[File:Tropius.png|50px]] Tropius || [[File:Clamperl_Egg_Pattern.png|30px]] /[[File:Clamperl.png|50px]] Clamperl || [[File:Minun_Egg_Pattern.png|30px]] /[[File:Minun.png|50px]] Minun || &lt;center&gt; --- || [[File:Salamence_Egg_Pattern.png|30px]] /[[File:Salamence.png|50px]] Salamence
+|}
+
+=== '''&lt;big&gt;[[Sinnoh]]&lt;/big&gt;''' ===
+{| class="wikitable sortable"
+|-
+! [[Fire Egg|Fuego]] !! [[Grass Egg|Planta]] !!  [[Water Egg|Agua]] !! [[Electric Egg|Eléctrico]] !! [[Fighting Egg|Lucha]] !! [[Dragon Egg|Dragón]]
+|-
+| [[File:Chimchar_Egg_Pattern.png|30px]] /[[File:Chimchar.png|50px]] '''Chimchar''' || [[File:Turtwig_Egg_Pattern.png|30px]] /[[File:Turtwig.png|50px]] '''Turtwig''' || [[File:Piplup_Egg_Pattern.png|30px]] /[[File:Piplup.png|50px]] '''Piplup''' || [[File:Pachirisu_Egg_Pattern.png|30px]] /[[File:Pachirisu.png|50px]] '''''Pachirisu''''' || [[File:Riolu_Egg_Pattern.png|30px]] /[[File:Riolu.png|50px]] '''Riolu''' || [[File:Gible_Egg_Pattern.png|30px]] /[[File:Gible.png|50px]] '''''Gible'''''
+|-
+| &lt;center&gt; --- || [[File:Carnivine_Egg_Pattern.png|30px]] /[[File:Carnivine.png|50px]] '''''Carnivine''''' || [[File:Finneon_Egg_Pattern.png|30px]] /[[File:Finneon.png|50px]] Finneon || [[File:Shinx_Egg_Pattern.png|30px]] /[[File:Shinx.png|50px]] Shinx || &lt;center&gt; --- || [[File:Gabite_Egg_Pattern.png|30px]] /[[File:Gabite.png|50px]] Gabite
+|-
+| &lt;center&gt; --- || [[File:Budew_Egg_Pattern.png|30px]] /[[File:Budew.png|50px]] Budew || [[File:Buizel_Egg_Pattern.png|30px]] /[[File:Buizel.png|50px]] Buizel || &lt;center&gt; ---  || &lt;center&gt; ---  || [[File:Garchomp_Egg_Pattern.png|30px]] /[[File:Garchomp.png|50px]] Garchomp
+|}
+
+=== '''&lt;big&gt;[[Unova|Teselia]]&lt;/big&gt;''' ===
+{| class="wikitable sortable"
+|-
+! [[Fire Egg|Fuego]] !! [[Grass Egg|Planta]] !!  [[Water Egg|Agua]] !! [[Electric Egg|Eléctrico]] !! [[Fighting Egg|Lucha]] !! [[Dragon Egg|Dragón]]
+|-
+| [[File:Tepig_Egg_Pattern.png|30px]] /[[File:Tepig.png|50px]] '''Tepig''' || [[File:Snivy_Egg_Pattern.png|30px]] /[[File:Snivy.png|50px]] '''Snivy''' || [[File:Oshawott_Egg_Pattern.png|30px]] /[[File:Oshawott.png|50px]] '''Oshawott''' || [[File:Blitzle_Egg_Pattern.png|30px]] /[[File:Blitzle.png|50px]] '''''&lt;u&gt;Blitzle&lt;/u&gt;''''' || [[File:Throh_Egg_Pattern.png|30px]] /[[File:Throh.png|50px]] '''''Throh''''' || [[File:Deino_Egg_Pattern.png|30px]] /[[File:Deino.png|50px]] '''''&lt;u&gt;Deino&lt;/u&gt;'''''
+|-
+| [[File:Pansear_Egg_Pattern.png|30px]] /[[File:Pansear.png|50px]] '''''Pansear''''' || [[File:Pansage_Egg_Pattern.png|30px]] /[[File:Pansage.png|50px]] '''''Pansage''''' || [[File:Panpour_Egg_Pattern.png|30px]] /[[File:Panpour.png|50px]] '''''Panpour''''' || &lt;center&gt; --- || [[File:Sawk_Egg_Pattern.png|30px]] /[[File:Sawk.png|50px]] '''''Sawk''''' || [[File:Zweilous_Egg_Pattern.png|30px]] /[[File:Zweilous.png|50px]] Zweilous
+|-
+| &lt;center&gt; --- || &lt;center&gt; --- || &lt;center&gt; --- || &lt;center&gt; --- || &lt;center&gt; --- || [[File:Hydreigon_Egg_Pattern.png|30px]] /[[File:Hydreigon.png|50px]] Hydreigon
+|}
+
+=== '''&lt;big&gt;[[Kalos]]&lt;/big&gt;''' ===
+{| class="wikitable sortable"
+|-
+! [[Fire Egg|Fuego]] !! [[Grass Egg|Planta]] !!  [[Water Egg|Agua]] !! [[Electric Egg|Eléctrico]] !! [[Fighting Egg|Lucha]] !! [[Dragon Egg|Dragón]]
+|-
+| [[File:Fennekin_Egg_Pattern.png|30px]] /[[File:Fennekin.png|50px]] '''Fennekin''' || [[File:Chespin_Egg_Pattern.png|30px]] /[[File:Chespin.png|50px]] '''Chespin''' || [[File:Froakie_Egg_Pattern.png|30px]] /[[File:Froakie.png|50px]] '''Froakie''' || &lt;center&gt; --- || &lt;center&gt; --- || [[File:Goomy_Egg_Pattern.png|30px]] /[[File:Goomy.png|50px]] Goomy
+|}
+
+=== '''&lt;big&gt;[[Alola]]&lt;/big&gt;''' ===
+
+{| class="wikitable sortable"
+|-
+! [[Fire Egg|Fuego]] !! [[Grass Egg|Planta]] !!  [[Water Egg|Agua]] !! [[Electric Egg|Eléctrico]] !! [[Fighting Egg|Lucha]] !! [[Dragon Egg|Dragón]]
+|-
+| [[File:Litten_Egg_Pattern.png|30px]] /[[File:Litten.png|50px]] '''Litten''' || [[File:Rowlet_Egg_Pattern.png|30px]] /[[File:Rowlet.png|50px]] '''Rowlet''' || [[File:Popplio_Egg_Pattern.png|30px]] /[[File:Popplio.png|50px]] '''Popplio''' || &lt;center&gt; --- || [[File:Crabrawler_Egg_Pattern.png|30px]] /[[File:Crabrawler.png|50px]] '''''&lt;u&gt;Crabrawler&lt;/u&gt;''''' || [[File:Turtonator_Egg_Pattern.png|30px]] /[[File:Turtonator.png|50px]] '''''&lt;u&gt;Turtonator&lt;/u&gt;'''''
+|-
+| &lt;center&gt; --- || [[File:Morelull_Egg_Pattern.png|30px]] /[[File:Morelull.png|50px]] '''''&lt;u&gt;Morelull&lt;/u&gt;''''' || [[File:Wimpod_Egg_Pattern.png|30px]] /[[File:Wimpod.png|50px]] '''''&lt;u&gt;Wimpod&lt;/u&gt;''''' || &lt;center&gt; --- || &lt;center&gt; --- || [[File:Drampa_Egg_Pattern.png|30px]] /[[File:Drampa.png|50px]] '''''&lt;u&gt;Drampa&lt;/u&gt;'''''
+|-
+| &lt;center&gt; --- || &lt;center&gt; --- || &lt;center&gt; --- || &lt;center&gt; --- || &lt;center&gt; --- || [[File:Jangmo-o_Egg_Pattern.png|30px]] /[[File:Jangmo-o.png|50px]] Jangmo-o
+|-
+| &lt;center&gt; --- || &lt;center&gt; --- || &lt;center&gt; --- || &lt;center&gt; --- || &lt;center&gt; --- || [[File:Hakamo-o_Egg_Pattern.png|30px]] /[[File:Hakamo-o.png|50px]] Hakamo-o
+|-
+| &lt;center&gt; --- || &lt;center&gt; --- || &lt;center&gt; --- || &lt;center&gt; --- || &lt;center&gt; --- || [[File:Kommo-o_Egg_Pattern.png|30px]] /[[File:Kommo-o.png|50px]] Kommo-o
+|}
+
+==Info de Ayuda==
+Cuando entras a la siguiente área los ratios de Pokémon cambian. Asumiento que acabas de entrar a [[Sinnoh]] el [[Water Egg|Huevo Agua]] de la tabla cambia de
+
+===En [[Hoenn]]===
+
+(Squirtle, Lapras, Staryu, Psyduck)
+
+(Totodile, Wooper, Marill, Qwilfish)
+
+(Mudkip, Feebas, Clamperl)
+
+(Mudkip, Feebas, Clamperl)
+
+===En [[Sinnoh]]===
+
+(Squirtle, Lapras, Staryu, Psyduck)
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+(Totodile, Wooper, Marill, Qwilfish)
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+(Mudkip, Feebas, Clamperl)
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+(Mudkip, Feebas, Clamperl)
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+(Piplup, Finneon, Buizel)
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+(Piplup, Finneon, Buizel)
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+(Piplup, Finneon, Buizel)
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+(Piplup, Finneon, Buizel)
+&lt;/div&gt;
+
+
+Esto hace que la probabilidad de conseguir un Pokémon de la nueva región a la que has entrado sea un 50% y bajando la combinación total de todas las áreas previas un 50%. El Huevo Misterioso sacará aleatoriamente de todos los grupos de huevo, haciéndolo más útil cuando aún no has obtenido ningún Pokémon de esa región.
+
+
+{{Eggs|Huevos}}&lt;br&gt;
+
+[[Category:Eggs]]</text>
+    <contributor>
+      <username>SrVariable</username>
+      <id>142</id>
+    </contributor>
+    <comment>Created page with "{{Eggs|Huevos}}&lt;br&gt;"</comment>
+    <model>wikitext</model>
+    <parentid>20875</parentid>
+    <sha1>4ea1843b0ef5d16b67c1cb229c4834293beb74d1</sha1>
+  </revision>
+  <revision>
+    <id>20875</id>
+    <timestamp>2022-07-29T22:47:37Z</timestamp>
+    <text bytes="12981" space="preserve">&lt;languages/&gt;
+Los '''Huevos''' son objetos que contienen Pokémon. Los Huevos pueden ser obtenidos de varias maneras: comprándolos en [[Shops|Tiendas]], [[Pokémon Day Care|criando]] Pokémon nivel 100 y comprándolos en los [[Shard Trader|Intercambiadores de Partes]]. Incubar un huevo incrementará el ataque del Pokémon criado un 25% de su ataque base. Dónde compres/obtengas el huevo no afecta al Pokémon Incubado de ese huevo.
+
+== [[Shops|Tienda]] Grupo de Huevos ==
+
+En las tablas siguientes, los nombres '''En Negrita''' indica el Pokémon que puede ser obtenido en sus respectivas regiones ya sea en la tienda de incubación o a través de [[Berries#Wandering_Pokémon|Pokémon Itinerantes]] en la [[Farm|Granja]]. Los nombres '''''En Negrita y En Itálica''''' indican que el Pokémon solo puede ser obtenido en su respectiva región en tiendas de incubación de huevos. Los nombres '''''&lt;u&gt;En Negrita, En Itálica, y subrayados&lt;/u&gt;''''' indican que el Pokémon no puede ser obtenido fuera de la tienda de huevos (por ejemplo no se puede encontrar salvaje en una región posterior incluso con el desafío Necesario Completar la Pokédex desactivado) desde la v0.8.15
+
+La división del Grupo de Huevos funciona así:
+* 50% de probabilidad de conseguir un Pokémon de la región más lejana que hayas alcanzado (las probabilidades se divien de manera equitativa por cada posible Pokémon de la región más lejana alcanzada)
+* 50% restante divido entre todo el grupo de huevos Pokémon de regiones anteriores. Ver la sección de abajo [[Egg#Helpful_Info|Info de Ayuda]] para más detalles.
+
+=== '''&lt;big&gt;[[Kanto]]&lt;/big&gt;''' ===
+{| class="wikitable"
+|-
+! [[Fire Egg|Fuego]] !! [[Grass Egg|Planta]] !!  [[Water Egg|Agua]] !! [[Electric Egg|Eléctrico]] !! [[Fighting Egg|Lucha]] !! [[Dragon Egg|Dragón]]
+|-
+| [[File:Charmander_Egg_Pattern.png|30px]] /[[File:Charmander.png|50px]] '''Charmander''' || [[File:Bulbasaur_Egg_Pattern.png|30px]] /[[File:Bulbasaur.png|50px]] '''Bulbasaur''' || [[File:Squirtle_Egg_Pattern.png|30px]] /[[File:Squirtle.png|50px]] '''Squirtle''' || [[File:Magnemite_Egg_Pattern.png|30px]] /[[File:Magnemite.png|50px]] Magnemite || [[File:Hitmonchan_Egg_Pattern.png|30px]] /[[File:Hitmonchan.png|50px]] '''''Hitmonchan''''' || [[File:Dratini_Egg_Pattern.png|30px]] /[[File:Dratini.png|50px]] '''''Dratini'''''
+|-
+| [[File:Ponyta_Egg_Pattern.png|30px]] /[[File:Ponyta.png|50px]] Ponyta || [[File:Oddish_Egg_Pattern.png|30px]] /[[File:Oddish.png|50px]] Oddish || [[File:Lapras_Egg_Pattern.png|30px]] /[[File:Lapras.png|50px]] '''''Lapras''''' || [[File:Pikachu_Egg_Pattern.png|30px]] /[[File:Pikachu.png|50px]] Pikachu || [[File:Hitmonlee_Egg_Pattern.png|30px]] /[[File:Hitmonlee.png|50px]] '''''Hitmonlee''''' || [[File:Dragonair_Egg_Pattern.png|30px]] /[[File:Dragonair.png|50px]] Dragonair
+|-
+| [[File:Growlithe_Egg_Pattern.png|30px]] /[[File:Growlithe.png|50px]] Growlithe || [[File:Bellsprout_Egg_Pattern.png|30px]] /[[File:Bellsprout.png|50px]] Bellsprout || [[File:Staryu_Egg_Pattern.png|30px]] /[[File:Staryu.png|50px]] Staryu || [[File:Voltorb_Egg_Pattern.png|30px]] /[[File:Voltorb.png|50px]] Voltorb || [[File:Machop_Egg_Pattern.png|30px]] /[[File:Machop.png|50px]] Machop || [[File:Dragonite_Egg_Pattern.png|30px]] /[[File:Dragonite.png|50px]] Dragonite
+|-
+| [[File:Vulpix_Egg_Pattern.png|30px]] /[[File:Vulpix.png|50px]] Vulpix || [[File:Tangela_Egg_Pattern.png|30px]] /[[File:Tangela.png|50px]] Tangela || [[File:Psyduck_Egg_Pattern.png|30px]] /[[File:Psyduck.png|50px]] Psyduck || [[File:Electabuzz_Egg_Pattern.png|30px]] /[[File:Electabuzz.png|50px]] Electabuzz || [[File:Mankey_Egg_Pattern.png|30px]] /[[File:Mankey.png|50px]] Mankey || &lt;center&gt; ---
+|}
+
+=== '''&lt;big&gt;[[Johto]]&lt;/big&gt;''' ===
+{| class="wikitable sortable"
+|-
+! [[Fire Egg|Fuego]] !! [[Grass Egg|Planta]] !! [[Water Egg|Agua]] !! [[Electric Egg|Eléctrico]] !! [[Fighting Egg|Lucha]] !! [[Dragon Egg|Dragón]]
+|-
+| [[File:Cyndaquil_Egg_Pattern.png|30px]] /[[File:Cyndaquil.png|50px]] '''Cyndaquil''' || [[File:Chikorita_Egg_Pattern.png|30px]] /[[File:Chikorita.png|50px]] '''Chikorita''' || [[File:Totodile_Egg_Pattern.png|30px]] /[[File:Totodile.png|50px]] '''Totodile''' || [[File:Chinchou_Egg_Pattern.png|30px]] /[[File:Chinchou.png|50px]] Chinchou || [[File:Tyrogue_Egg_Pattern.png|30px]] /[[File:Tyrogue.png|50px]] Tyrogue || &lt;center&gt; ---
+|-
+| [[File:Houndour_Egg_Pattern.png|30px]] /[[File:Houndour.png|50px]] '''''Houndour''''' || [[File:Sunkern_Egg_Pattern.png|30px]] /[[File:Sunkern.png|50px]] '''''Sunkern''''' || [[File:Wooper_Egg_Pattern.png|30px]] /[[File:Wooper.png|50px]] Wooper || [[File:Mareep_Egg_Pattern.png|30px]] /[[File:Mareep.png|50px]] Mareep || &lt;center&gt; --- || &lt;center&gt; ---
+|-
+| [[File:Slugma_Egg_Pattern.png|30px]] /[[File:Slugma.png|50px]] '''''Slugma''''' || [[File:Hoppip_Egg_Pattern.png|30px]] /[[File:Hoppip.png|50px]] Hoppip || [[File:Marill_Egg_Pattern.png|30px]] /[[File:Marill.png|50px]] Marill || [[File:Elekid_Egg_Pattern.png|30px]] /[[File:Elekid.png|50px]] Elekid || &lt;center&gt; --- || &lt;center&gt; ---
+|-
+| [[File:Magby_Egg_Pattern.png|30px]] /[[File:Magby.png|50px]] Magby || &lt;center&gt; --- || [[File:Qwilfish_Egg_Pattern.png|30px]] /[[File:Qwilfish.png|50px]] Qwilfish || &lt;center&gt; --- || &lt;center&gt; --- || &lt;center&gt; ---
+|}
+
+=== '''&lt;big&gt;[[Hoenn]]&lt;/big&gt;''' ===
+{| class="wikitable sortable"
+|-
+! [[Fire Egg|Fuego]] !! [[Grass Egg|Planta]] !!  [[Water Egg|Agua]] !! [[Electric Egg|Eléctrico]] !! [[Fighting Egg|Lucha]] !! [[Dragon Egg|Dragón]]
+|-
+| [[File:Torchic_Egg_Pattern.png|30px]] /[[File:Torchic.png|50px]] '''Torchic''' || [[File:Treecko_Egg_Pattern.png|30px]] /[[File:Treecko.png|50px]] '''Treecko''' || [[File:Mudkip_Egg_Pattern.png|30px]] /[[File:Mudkip.png|50px]] '''Mudkip''' || [[File:Electrike_Egg_Pattern.png|30px]] /[[File:Electrike.png|50px]] '''''Electrike''''' || [[File:Makuhita_Egg_Pattern.png|30px]] /[[File:Makuhita.png|50px]] Makuhita || [[File:Bagon_Egg_Pattern.png|30px]] /[[File:Bagon.png|50px]] '''Bagon'''
+|-
+| [[File:Numel_Egg_Pattern.png|30px]] /[[File:Numel.png|50px]] Numel || [[File:Roselia_Egg_Pattern.png|30px]] /[[File:Roselia.png|50px]] '''''Roselia''''' || [[File:Feebas_Egg_Pattern.png|30px]] /[[File:Feebas.png|50px]] '''''Feebas''''' || [[File:Plusle_Egg_Pattern.png|30px]] /[[File:Plusle.png|50px]] Plusle || [[File:Meditite_Egg_Pattern.png|30px]] /[[File:Meditite.png|50px]] Meditite || [[File:Shelgon_Egg_Pattern.png|30px]] /[[File:Shelgon.png|50px]] Shelgon
+|-
+|  &lt;center&gt; --- || [[File:Tropius_Egg_Pattern.png|30px]] /[[File:Tropius.png|50px]] Tropius || [[File:Clamperl_Egg_Pattern.png|30px]] /[[File:Clamperl.png|50px]] Clamperl || [[File:Minun_Egg_Pattern.png|30px]] /[[File:Minun.png|50px]] Minun || &lt;center&gt; --- || [[File:Salamence_Egg_Pattern.png|30px]] /[[File:Salamence.png|50px]] Salamence
+|}
+
+=== '''&lt;big&gt;[[Sinnoh]]&lt;/big&gt;''' ===
+{| class="wikitable sortable"
+|-
+! [[Fire Egg|Fuego]] !! [[Grass Egg|Planta]] !!  [[Water Egg|Agua]] !! [[Electric Egg|Eléctrico]] !! [[Fighting Egg|Lucha]] !! [[Dragon Egg|Dragón]]
+|-
+| [[File:Chimchar_Egg_Pattern.png|30px]] /[[File:Chimchar.png|50px]] '''Chimchar''' || [[File:Turtwig_Egg_Pattern.png|30px]] /[[File:Turtwig.png|50px]] '''Turtwig''' || [[File:Piplup_Egg_Pattern.png|30px]] /[[File:Piplup.png|50px]] '''Piplup''' || [[File:Pachirisu_Egg_Pattern.png|30px]] /[[File:Pachirisu.png|50px]] '''''Pachirisu''''' || [[File:Riolu_Egg_Pattern.png|30px]] /[[File:Riolu.png|50px]] '''Riolu''' || [[File:Gible_Egg_Pattern.png|30px]] /[[File:Gible.png|50px]] '''''Gible'''''
+|-
+| &lt;center&gt; --- || [[File:Carnivine_Egg_Pattern.png|30px]] /[[File:Carnivine.png|50px]] '''''Carnivine''''' || [[File:Finneon_Egg_Pattern.png|30px]] /[[File:Finneon.png|50px]] Finneon || [[File:Shinx_Egg_Pattern.png|30px]] /[[File:Shinx.png|50px]] Shinx || &lt;center&gt; --- || [[File:Gabite_Egg_Pattern.png|30px]] /[[File:Gabite.png|50px]] Gabite
+|-
+| &lt;center&gt; --- || [[File:Budew_Egg_Pattern.png|30px]] /[[File:Budew.png|50px]] Budew || [[File:Buizel_Egg_Pattern.png|30px]] /[[File:Buizel.png|50px]] Buizel || &lt;center&gt; ---  || &lt;center&gt; ---  || [[File:Garchomp_Egg_Pattern.png|30px]] /[[File:Garchomp.png|50px]] Garchomp
+|}
+
+=== '''&lt;big&gt;[[Unova|Teselia]]&lt;/big&gt;''' ===
+{| class="wikitable sortable"
+|-
+! [[Fire Egg|Fuego]] !! [[Grass Egg|Planta]] !!  [[Water Egg|Agua]] !! [[Electric Egg|Eléctrico]] !! [[Fighting Egg|Lucha]] !! [[Dragon Egg|Dragón]]
+|-
+| [[File:Tepig_Egg_Pattern.png|30px]] /[[File:Tepig.png|50px]] '''Tepig''' || [[File:Snivy_Egg_Pattern.png|30px]] /[[File:Snivy.png|50px]] '''Snivy''' || [[File:Oshawott_Egg_Pattern.png|30px]] /[[File:Oshawott.png|50px]] '''Oshawott''' || [[File:Blitzle_Egg_Pattern.png|30px]] /[[File:Blitzle.png|50px]] '''''&lt;u&gt;Blitzle&lt;/u&gt;''''' || [[File:Throh_Egg_Pattern.png|30px]] /[[File:Throh.png|50px]] '''''Throh''''' || [[File:Deino_Egg_Pattern.png|30px]] /[[File:Deino.png|50px]] '''''&lt;u&gt;Deino&lt;/u&gt;'''''
+|-
+| [[File:Pansear_Egg_Pattern.png|30px]] /[[File:Pansear.png|50px]] '''''Pansear''''' || [[File:Pansage_Egg_Pattern.png|30px]] /[[File:Pansage.png|50px]] '''''Pansage''''' || [[File:Panpour_Egg_Pattern.png|30px]] /[[File:Panpour.png|50px]] '''''Panpour''''' || &lt;center&gt; --- || [[File:Sawk_Egg_Pattern.png|30px]] /[[File:Sawk.png|50px]] '''''Sawk''''' || [[File:Zweilous_Egg_Pattern.png|30px]] /[[File:Zweilous.png|50px]] Zweilous
+|-
+| &lt;center&gt; --- || &lt;center&gt; --- || &lt;center&gt; --- || &lt;center&gt; --- || &lt;center&gt; --- || [[File:Hydreigon_Egg_Pattern.png|30px]] /[[File:Hydreigon.png|50px]] Hydreigon
+|}
+
+=== '''&lt;big&gt;[[Kalos]]&lt;/big&gt;''' ===
+{| class="wikitable sortable"
+|-
+! [[Fire Egg|Fuego]] !! [[Grass Egg|Planta]] !!  [[Water Egg|Agua]] !! [[Electric Egg|Eléctrico]] !! [[Fighting Egg|Lucha]] !! [[Dragon Egg|Dragón]]
+|-
+| [[File:Fennekin_Egg_Pattern.png|30px]] /[[File:Fennekin.png|50px]] '''Fennekin''' || [[File:Chespin_Egg_Pattern.png|30px]] /[[File:Chespin.png|50px]] '''Chespin''' || [[File:Froakie_Egg_Pattern.png|30px]] /[[File:Froakie.png|50px]] '''Froakie''' || &lt;center&gt; --- || &lt;center&gt; --- || [[File:Goomy_Egg_Pattern.png|30px]] /[[File:Goomy.png|50px]] Goomy
+|}
+
+=== '''&lt;big&gt;[[Alola]]&lt;/big&gt;''' ===
+
+{| class="wikitable sortable"
+|-
+! [[Fire Egg|Fuego]] !! [[Grass Egg|Planta]] !!  [[Water Egg|Agua]] !! [[Electric Egg|Eléctrico]] !! [[Fighting Egg|Lucha]] !! [[Dragon Egg|Dragón]]
+|-
+| [[File:Litten_Egg_Pattern.png|30px]] /[[File:Litten.png|50px]] '''Litten''' || [[File:Rowlet_Egg_Pattern.png|30px]] /[[File:Rowlet.png|50px]] '''Rowlet''' || [[File:Popplio_Egg_Pattern.png|30px]] /[[File:Popplio.png|50px]] '''Popplio''' || &lt;center&gt; --- || [[File:Crabrawler_Egg_Pattern.png|30px]] /[[File:Crabrawler.png|50px]] '''''&lt;u&gt;Crabrawler&lt;/u&gt;''''' || [[File:Turtonator_Egg_Pattern.png|30px]] /[[File:Turtonator.png|50px]] '''''&lt;u&gt;Turtonator&lt;/u&gt;'''''
+|-
+| &lt;center&gt; --- || [[File:Morelull_Egg_Pattern.png|30px]] /[[File:Morelull.png|50px]] '''''&lt;u&gt;Morelull&lt;/u&gt;''''' || [[File:Wimpod_Egg_Pattern.png|30px]] /[[File:Wimpod.png|50px]] '''''&lt;u&gt;Wimpod&lt;/u&gt;''''' || &lt;center&gt; --- || &lt;center&gt; --- || [[File:Drampa_Egg_Pattern.png|30px]] /[[File:Drampa.png|50px]] '''''&lt;u&gt;Drampa&lt;/u&gt;'''''
+|-
+| &lt;center&gt; --- || &lt;center&gt; --- || &lt;center&gt; --- || &lt;center&gt; --- || &lt;center&gt; --- || [[File:Jangmo-o_Egg_Pattern.png|30px]] /[[File:Jangmo-o.png|50px]] Jangmo-o
+|-
+| &lt;center&gt; --- || &lt;center&gt; --- || &lt;center&gt; --- || &lt;center&gt; --- || &lt;center&gt; --- || [[File:Hakamo-o_Egg_Pattern.png|30px]] /[[File:Hakamo-o.png|50px]] Hakamo-o
+|-
+| &lt;center&gt; --- || &lt;center&gt; --- || &lt;center&gt; --- || &lt;center&gt; --- || &lt;center&gt; --- || [[File:Kommo-o_Egg_Pattern.png|30px]] /[[File:Kommo-o.png|50px]] Kommo-o
+|}
+
+==Info de Ayuda==
+Cuando entras a la siguiente área los ratios de Pokémon cambian. Asumiento que acabas de entrar a [[Sinnoh]] el [[Water Egg|Huevo Agua]] de la tabla cambia de
+
+===En [[Hoenn]]===
+
+(Squirtle, Lapras, Staryu, Psyduck)
+
+(Totodile, Wooper, Marill, Qwilfish)
+
+(Mudkip, Feebas, Clamperl)
+
+(Mudkip, Feebas, Clamperl)
+
+===En [[Sinnoh]]===
+
+(Squirtle, Lapras, Staryu, Psyduck)
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+(Totodile, Wooper, Marill, Qwilfish)
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+(Mudkip, Feebas, Clamperl)
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+(Mudkip, Feebas, Clamperl)
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+(Piplup, Finneon, Buizel)
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+(Piplup, Finneon, Buizel)
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+(Piplup, Finneon, Buizel)
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+(Piplup, Finneon, Buizel)
+&lt;/div&gt;
+
+
+Esto hace que la probabilidad de conseguir un Pokémon de la nueva región a la que has entrado sea un 50% y bajando la combinación total de todas las áreas previas un 50%. El Huevo Misterioso sacará aleatoriamente de todos los grupos de huevo, haciéndolo más útil cuando aún no has obtenido ningún Pokémon de esa región.
+
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Eggs}}&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Eggs]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>SrVariable</username>
+      <id>142</id>
+    </contributor>
+    <comment>Created page with "Esto hace que la probabilidad de conseguir un Pokémon de la nueva región a la que has entrado sea un 50% y bajando la combinación total de todas las áreas previas un 50%. El Huevo Misterioso sacará aleatoriamente de todos los grupos de huevo, haciéndolo más útil cuando aún no has obtenido ningún Pokémon de esa región."</comment>
+    <model>wikitext</model>
+    <parentid>20874</parentid>
+    <sha1>508e3f19672768199f151e23ffbbddf2d7aff87f</sha1>
+  </revision>
+  <revision>
+    <id>20874</id>
+    <timestamp>2022-07-29T22:46:23Z</timestamp>
+    <text bytes="13007" space="preserve">&lt;languages/&gt;
+Los '''Huevos''' son objetos que contienen Pokémon. Los Huevos pueden ser obtenidos de varias maneras: comprándolos en [[Shops|Tiendas]], [[Pokémon Day Care|criando]] Pokémon nivel 100 y comprándolos en los [[Shard Trader|Intercambiadores de Partes]]. Incubar un huevo incrementará el ataque del Pokémon criado un 25% de su ataque base. Dónde compres/obtengas el huevo no afecta al Pokémon Incubado de ese huevo.
+
+== [[Shops|Tienda]] Grupo de Huevos ==
+
+En las tablas siguientes, los nombres '''En Negrita''' indica el Pokémon que puede ser obtenido en sus respectivas regiones ya sea en la tienda de incubación o a través de [[Berries#Wandering_Pokémon|Pokémon Itinerantes]] en la [[Farm|Granja]]. Los nombres '''''En Negrita y En Itálica''''' indican que el Pokémon solo puede ser obtenido en su respectiva región en tiendas de incubación de huevos. Los nombres '''''&lt;u&gt;En Negrita, En Itálica, y subrayados&lt;/u&gt;''''' indican que el Pokémon no puede ser obtenido fuera de la tienda de huevos (por ejemplo no se puede encontrar salvaje en una región posterior incluso con el desafío Necesario Completar la Pokédex desactivado) desde la v0.8.15
+
+La división del Grupo de Huevos funciona así:
+* 50% de probabilidad de conseguir un Pokémon de la región más lejana que hayas alcanzado (las probabilidades se divien de manera equitativa por cada posible Pokémon de la región más lejana alcanzada)
+* 50% restante divido entre todo el grupo de huevos Pokémon de regiones anteriores. Ver la sección de abajo [[Egg#Helpful_Info|Info de Ayuda]] para más detalles.
+
+=== '''&lt;big&gt;[[Kanto]]&lt;/big&gt;''' ===
+{| class="wikitable"
+|-
+! [[Fire Egg|Fuego]] !! [[Grass Egg|Planta]] !!  [[Water Egg|Agua]] !! [[Electric Egg|Eléctrico]] !! [[Fighting Egg|Lucha]] !! [[Dragon Egg|Dragón]]
+|-
+| [[File:Charmander_Egg_Pattern.png|30px]] /[[File:Charmander.png|50px]] '''Charmander''' || [[File:Bulbasaur_Egg_Pattern.png|30px]] /[[File:Bulbasaur.png|50px]] '''Bulbasaur''' || [[File:Squirtle_Egg_Pattern.png|30px]] /[[File:Squirtle.png|50px]] '''Squirtle''' || [[File:Magnemite_Egg_Pattern.png|30px]] /[[File:Magnemite.png|50px]] Magnemite || [[File:Hitmonchan_Egg_Pattern.png|30px]] /[[File:Hitmonchan.png|50px]] '''''Hitmonchan''''' || [[File:Dratini_Egg_Pattern.png|30px]] /[[File:Dratini.png|50px]] '''''Dratini'''''
+|-
+| [[File:Ponyta_Egg_Pattern.png|30px]] /[[File:Ponyta.png|50px]] Ponyta || [[File:Oddish_Egg_Pattern.png|30px]] /[[File:Oddish.png|50px]] Oddish || [[File:Lapras_Egg_Pattern.png|30px]] /[[File:Lapras.png|50px]] '''''Lapras''''' || [[File:Pikachu_Egg_Pattern.png|30px]] /[[File:Pikachu.png|50px]] Pikachu || [[File:Hitmonlee_Egg_Pattern.png|30px]] /[[File:Hitmonlee.png|50px]] '''''Hitmonlee''''' || [[File:Dragonair_Egg_Pattern.png|30px]] /[[File:Dragonair.png|50px]] Dragonair
+|-
+| [[File:Growlithe_Egg_Pattern.png|30px]] /[[File:Growlithe.png|50px]] Growlithe || [[File:Bellsprout_Egg_Pattern.png|30px]] /[[File:Bellsprout.png|50px]] Bellsprout || [[File:Staryu_Egg_Pattern.png|30px]] /[[File:Staryu.png|50px]] Staryu || [[File:Voltorb_Egg_Pattern.png|30px]] /[[File:Voltorb.png|50px]] Voltorb || [[File:Machop_Egg_Pattern.png|30px]] /[[File:Machop.png|50px]] Machop || [[File:Dragonite_Egg_Pattern.png|30px]] /[[File:Dragonite.png|50px]] Dragonite
+|-
+| [[File:Vulpix_Egg_Pattern.png|30px]] /[[File:Vulpix.png|50px]] Vulpix || [[File:Tangela_Egg_Pattern.png|30px]] /[[File:Tangela.png|50px]] Tangela || [[File:Psyduck_Egg_Pattern.png|30px]] /[[File:Psyduck.png|50px]] Psyduck || [[File:Electabuzz_Egg_Pattern.png|30px]] /[[File:Electabuzz.png|50px]] Electabuzz || [[File:Mankey_Egg_Pattern.png|30px]] /[[File:Mankey.png|50px]] Mankey || &lt;center&gt; ---
+|}
+
+=== '''&lt;big&gt;[[Johto]]&lt;/big&gt;''' ===
+{| class="wikitable sortable"
+|-
+! [[Fire Egg|Fuego]] !! [[Grass Egg|Planta]] !! [[Water Egg|Agua]] !! [[Electric Egg|Eléctrico]] !! [[Fighting Egg|Lucha]] !! [[Dragon Egg|Dragón]]
+|-
+| [[File:Cyndaquil_Egg_Pattern.png|30px]] /[[File:Cyndaquil.png|50px]] '''Cyndaquil''' || [[File:Chikorita_Egg_Pattern.png|30px]] /[[File:Chikorita.png|50px]] '''Chikorita''' || [[File:Totodile_Egg_Pattern.png|30px]] /[[File:Totodile.png|50px]] '''Totodile''' || [[File:Chinchou_Egg_Pattern.png|30px]] /[[File:Chinchou.png|50px]] Chinchou || [[File:Tyrogue_Egg_Pattern.png|30px]] /[[File:Tyrogue.png|50px]] Tyrogue || &lt;center&gt; ---
+|-
+| [[File:Houndour_Egg_Pattern.png|30px]] /[[File:Houndour.png|50px]] '''''Houndour''''' || [[File:Sunkern_Egg_Pattern.png|30px]] /[[File:Sunkern.png|50px]] '''''Sunkern''''' || [[File:Wooper_Egg_Pattern.png|30px]] /[[File:Wooper.png|50px]] Wooper || [[File:Mareep_Egg_Pattern.png|30px]] /[[File:Mareep.png|50px]] Mareep || &lt;center&gt; --- || &lt;center&gt; ---
+|-
+| [[File:Slugma_Egg_Pattern.png|30px]] /[[File:Slugma.png|50px]] '''''Slugma''''' || [[File:Hoppip_Egg_Pattern.png|30px]] /[[File:Hoppip.png|50px]] Hoppip || [[File:Marill_Egg_Pattern.png|30px]] /[[File:Marill.png|50px]] Marill || [[File:Elekid_Egg_Pattern.png|30px]] /[[File:Elekid.png|50px]] Elekid || &lt;center&gt; --- || &lt;center&gt; ---
+|-
+| [[File:Magby_Egg_Pattern.png|30px]] /[[File:Magby.png|50px]] Magby || &lt;center&gt; --- || [[File:Qwilfish_Egg_Pattern.png|30px]] /[[File:Qwilfish.png|50px]] Qwilfish || &lt;center&gt; --- || &lt;center&gt; --- || &lt;center&gt; ---
+|}
+
+=== '''&lt;big&gt;[[Hoenn]]&lt;/big&gt;''' ===
+{| class="wikitable sortable"
+|-
+! [[Fire Egg|Fuego]] !! [[Grass Egg|Planta]] !!  [[Water Egg|Agua]] !! [[Electric Egg|Eléctrico]] !! [[Fighting Egg|Lucha]] !! [[Dragon Egg|Dragón]]
+|-
+| [[File:Torchic_Egg_Pattern.png|30px]] /[[File:Torchic.png|50px]] '''Torchic''' || [[File:Treecko_Egg_Pattern.png|30px]] /[[File:Treecko.png|50px]] '''Treecko''' || [[File:Mudkip_Egg_Pattern.png|30px]] /[[File:Mudkip.png|50px]] '''Mudkip''' || [[File:Electrike_Egg_Pattern.png|30px]] /[[File:Electrike.png|50px]] '''''Electrike''''' || [[File:Makuhita_Egg_Pattern.png|30px]] /[[File:Makuhita.png|50px]] Makuhita || [[File:Bagon_Egg_Pattern.png|30px]] /[[File:Bagon.png|50px]] '''Bagon'''
+|-
+| [[File:Numel_Egg_Pattern.png|30px]] /[[File:Numel.png|50px]] Numel || [[File:Roselia_Egg_Pattern.png|30px]] /[[File:Roselia.png|50px]] '''''Roselia''''' || [[File:Feebas_Egg_Pattern.png|30px]] /[[File:Feebas.png|50px]] '''''Feebas''''' || [[File:Plusle_Egg_Pattern.png|30px]] /[[File:Plusle.png|50px]] Plusle || [[File:Meditite_Egg_Pattern.png|30px]] /[[File:Meditite.png|50px]] Meditite || [[File:Shelgon_Egg_Pattern.png|30px]] /[[File:Shelgon.png|50px]] Shelgon
+|-
+|  &lt;center&gt; --- || [[File:Tropius_Egg_Pattern.png|30px]] /[[File:Tropius.png|50px]] Tropius || [[File:Clamperl_Egg_Pattern.png|30px]] /[[File:Clamperl.png|50px]] Clamperl || [[File:Minun_Egg_Pattern.png|30px]] /[[File:Minun.png|50px]] Minun || &lt;center&gt; --- || [[File:Salamence_Egg_Pattern.png|30px]] /[[File:Salamence.png|50px]] Salamence
+|}
+
+=== '''&lt;big&gt;[[Sinnoh]]&lt;/big&gt;''' ===
+{| class="wikitable sortable"
+|-
+! [[Fire Egg|Fuego]] !! [[Grass Egg|Planta]] !!  [[Water Egg|Agua]] !! [[Electric Egg|Eléctrico]] !! [[Fighting Egg|Lucha]] !! [[Dragon Egg|Dragón]]
+|-
+| [[File:Chimchar_Egg_Pattern.png|30px]] /[[File:Chimchar.png|50px]] '''Chimchar''' || [[File:Turtwig_Egg_Pattern.png|30px]] /[[File:Turtwig.png|50px]] '''Turtwig''' || [[File:Piplup_Egg_Pattern.png|30px]] /[[File:Piplup.png|50px]] '''Piplup''' || [[File:Pachirisu_Egg_Pattern.png|30px]] /[[File:Pachirisu.png|50px]] '''''Pachirisu''''' || [[File:Riolu_Egg_Pattern.png|30px]] /[[File:Riolu.png|50px]] '''Riolu''' || [[File:Gible_Egg_Pattern.png|30px]] /[[File:Gible.png|50px]] '''''Gible'''''
+|-
+| &lt;center&gt; --- || [[File:Carnivine_Egg_Pattern.png|30px]] /[[File:Carnivine.png|50px]] '''''Carnivine''''' || [[File:Finneon_Egg_Pattern.png|30px]] /[[File:Finneon.png|50px]] Finneon || [[File:Shinx_Egg_Pattern.png|30px]] /[[File:Shinx.png|50px]] Shinx || &lt;center&gt; --- || [[File:Gabite_Egg_Pattern.png|30px]] /[[File:Gabite.png|50px]] Gabite
+|-
+| &lt;center&gt; --- || [[File:Budew_Egg_Pattern.png|30px]] /[[File:Budew.png|50px]] Budew || [[File:Buizel_Egg_Pattern.png|30px]] /[[File:Buizel.png|50px]] Buizel || &lt;center&gt; ---  || &lt;center&gt; ---  || [[File:Garchomp_Egg_Pattern.png|30px]] /[[File:Garchomp.png|50px]] Garchomp
+|}
+
+=== '''&lt;big&gt;[[Unova|Teselia]]&lt;/big&gt;''' ===
+{| class="wikitable sortable"
+|-
+! [[Fire Egg|Fuego]] !! [[Grass Egg|Planta]] !!  [[Water Egg|Agua]] !! [[Electric Egg|Eléctrico]] !! [[Fighting Egg|Lucha]] !! [[Dragon Egg|Dragón]]
+|-
+| [[File:Tepig_Egg_Pattern.png|30px]] /[[File:Tepig.png|50px]] '''Tepig''' || [[File:Snivy_Egg_Pattern.png|30px]] /[[File:Snivy.png|50px]] '''Snivy''' || [[File:Oshawott_Egg_Pattern.png|30px]] /[[File:Oshawott.png|50px]] '''Oshawott''' || [[File:Blitzle_Egg_Pattern.png|30px]] /[[File:Blitzle.png|50px]] '''''&lt;u&gt;Blitzle&lt;/u&gt;''''' || [[File:Throh_Egg_Pattern.png|30px]] /[[File:Throh.png|50px]] '''''Throh''''' || [[File:Deino_Egg_Pattern.png|30px]] /[[File:Deino.png|50px]] '''''&lt;u&gt;Deino&lt;/u&gt;'''''
+|-
+| [[File:Pansear_Egg_Pattern.png|30px]] /[[File:Pansear.png|50px]] '''''Pansear''''' || [[File:Pansage_Egg_Pattern.png|30px]] /[[File:Pansage.png|50px]] '''''Pansage''''' || [[File:Panpour_Egg_Pattern.png|30px]] /[[File:Panpour.png|50px]] '''''Panpour''''' || &lt;center&gt; --- || [[File:Sawk_Egg_Pattern.png|30px]] /[[File:Sawk.png|50px]] '''''Sawk''''' || [[File:Zweilous_Egg_Pattern.png|30px]] /[[File:Zweilous.png|50px]] Zweilous
+|-
+| &lt;center&gt; --- || &lt;center&gt; --- || &lt;center&gt; --- || &lt;center&gt; --- || &lt;center&gt; --- || [[File:Hydreigon_Egg_Pattern.png|30px]] /[[File:Hydreigon.png|50px]] Hydreigon
+|}
+
+=== '''&lt;big&gt;[[Kalos]]&lt;/big&gt;''' ===
+{| class="wikitable sortable"
+|-
+! [[Fire Egg|Fuego]] !! [[Grass Egg|Planta]] !!  [[Water Egg|Agua]] !! [[Electric Egg|Eléctrico]] !! [[Fighting Egg|Lucha]] !! [[Dragon Egg|Dragón]]
+|-
+| [[File:Fennekin_Egg_Pattern.png|30px]] /[[File:Fennekin.png|50px]] '''Fennekin''' || [[File:Chespin_Egg_Pattern.png|30px]] /[[File:Chespin.png|50px]] '''Chespin''' || [[File:Froakie_Egg_Pattern.png|30px]] /[[File:Froakie.png|50px]] '''Froakie''' || &lt;center&gt; --- || &lt;center&gt; --- || [[File:Goomy_Egg_Pattern.png|30px]] /[[File:Goomy.png|50px]] Goomy
+|}
+
+=== '''&lt;big&gt;[[Alola]]&lt;/big&gt;''' ===
+
+{| class="wikitable sortable"
+|-
+! [[Fire Egg|Fuego]] !! [[Grass Egg|Planta]] !!  [[Water Egg|Agua]] !! [[Electric Egg|Eléctrico]] !! [[Fighting Egg|Lucha]] !! [[Dragon Egg|Dragón]]
+|-
+| [[File:Litten_Egg_Pattern.png|30px]] /[[File:Litten.png|50px]] '''Litten''' || [[File:Rowlet_Egg_Pattern.png|30px]] /[[File:Rowlet.png|50px]] '''Rowlet''' || [[File:Popplio_Egg_Pattern.png|30px]] /[[File:Popplio.png|50px]] '''Popplio''' || &lt;center&gt; --- || [[File:Crabrawler_Egg_Pattern.png|30px]] /[[File:Crabrawler.png|50px]] '''''&lt;u&gt;Crabrawler&lt;/u&gt;''''' || [[File:Turtonator_Egg_Pattern.png|30px]] /[[File:Turtonator.png|50px]] '''''&lt;u&gt;Turtonator&lt;/u&gt;'''''
+|-
+| &lt;center&gt; --- || [[File:Morelull_Egg_Pattern.png|30px]] /[[File:Morelull.png|50px]] '''''&lt;u&gt;Morelull&lt;/u&gt;''''' || [[File:Wimpod_Egg_Pattern.png|30px]] /[[File:Wimpod.png|50px]] '''''&lt;u&gt;Wimpod&lt;/u&gt;''''' || &lt;center&gt; --- || &lt;center&gt; --- || [[File:Drampa_Egg_Pattern.png|30px]] /[[File:Drampa.png|50px]] '''''&lt;u&gt;Drampa&lt;/u&gt;'''''
+|-
+| &lt;center&gt; --- || &lt;center&gt; --- || &lt;center&gt; --- || &lt;center&gt; --- || &lt;center&gt; --- || [[File:Jangmo-o_Egg_Pattern.png|30px]] /[[File:Jangmo-o.png|50px]] Jangmo-o
+|-
+| &lt;center&gt; --- || &lt;center&gt; --- || &lt;center&gt; --- || &lt;center&gt; --- || &lt;center&gt; --- || [[File:Hakamo-o_Egg_Pattern.png|30px]] /[[File:Hakamo-o.png|50px]] Hakamo-o
+|-
+| &lt;center&gt; --- || &lt;center&gt; --- || &lt;center&gt; --- || &lt;center&gt; --- || &lt;center&gt; --- || [[File:Kommo-o_Egg_Pattern.png|30px]] /[[File:Kommo-o.png|50px]] Kommo-o
+|}
+
+==Info de Ayuda==
+Cuando entras a la siguiente área los ratios de Pokémon cambian. Asumiento que acabas de entrar a [[Sinnoh]] el [[Water Egg|Huevo Agua]] de la tabla cambia de
+
+===En [[Hoenn]]===
+
+(Squirtle, Lapras, Staryu, Psyduck)
+
+(Totodile, Wooper, Marill, Qwilfish)
+
+(Mudkip, Feebas, Clamperl)
+
+(Mudkip, Feebas, Clamperl)
+
+===En [[Sinnoh]]===
+
+(Squirtle, Lapras, Staryu, Psyduck)
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+(Totodile, Wooper, Marill, Qwilfish)
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+(Mudkip, Feebas, Clamperl)
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+(Mudkip, Feebas, Clamperl)
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+(Piplup, Finneon, Buizel)
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+(Piplup, Finneon, Buizel)
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+(Piplup, Finneon, Buizel)
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+(Piplup, Finneon, Buizel)
+&lt;/div&gt;
+
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+This makes the chance of getting a Pokémon from the new region you entered 50% and dropping the total combination of all previous areas percent's down to 50%. The Mystery Egg will pull randomly from all egg pools, making it most useful when you have not obtained any egg Pokémon for that region yet.
+&lt;/div&gt;
+
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Eggs}}&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Eggs]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>SrVariable</username>
+      <id>142</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>20873</parentid>
+    <sha1>0d6ef8fddaeacaf5013d36482583c11954eb0030</sha1>
+  </revision>
+  <revision>
+    <id>20873</id>
+    <timestamp>2022-07-29T22:43:46Z</timestamp>
+    <text bytes="13010" space="preserve">&lt;languages/&gt;
+Los '''Huevos''' son objetos que contienen Pokémon. Los Huevos pueden ser obtenidos de varias maneras: comprándolos en [[Shops|Tiendas]], [[Pokémon Day Care|criando]] Pokémon nivel 100 y comprándolos en los [[Shard Trader|Intercambiadores de Partes]]. Incubar un huevo incrementará el ataque del Pokémon criado un 25% de su ataque base. Dónde compres/obtengas el huevo no afecta al Pokémon Incubado de ese huevo.
+
+== [[Shops|Tienda]] Grupo de Huevos ==
+
+En las tablas siguientes, los nombres '''En Negrita''' indica el Pokémon que puede ser obtenido en sus respectivas regiones ya sea en la tienda de incubación o a través de [[Berries#Wandering_Pokémon|Pokémon Itinerantes]] en la [[Farm|Granja]]. Los nombres '''''En Negrita y En Itálica''''' indican que el Pokémon solo puede ser obtenido en su respectiva región en tiendas de incubación de huevos. Los nombres '''''&lt;u&gt;En Negrita, En Itálica, y subrayados&lt;/u&gt;''''' indican que el Pokémon no puede ser obtenido fuera de la tienda de huevos (por ejemplo no se puede encontrar salvaje en una región posterior incluso con el desafío Necesario Completar la Pokédex desactivado) desde la v0.8.15
+
+La división del Grupo de Huevos funciona así:
+* 50% de probabilidad de conseguir un Pokémon de la región más lejana que hayas alcanzado (las probabilidades se divien de manera equitativa por cada posible Pokémon de la región más lejana alcanzada)
+* 50% restante divido entre todo el grupo de huevos Pokémon de regiones anteriores. Ver la sección de abajo [[Egg#Helpful_Info|Info de Ayuda]] para más detalles.
+
+=== '''&lt;big&gt;[[Kanto]]&lt;/big&gt;''' ===
+{| class="wikitable"
+|-
+! [[Fire Egg|Fuego]] !! [[Grass Egg|Planta]] !!  [[Water Egg|Agua]] !! [[Electric Egg|Eléctrico]] !! [[Fighting Egg|Lucha]] !! [[Dragon Egg|Dragón]]
+|-
+| [[File:Charmander_Egg_Pattern.png|30px]] /[[File:Charmander.png|50px]] '''Charmander''' || [[File:Bulbasaur_Egg_Pattern.png|30px]] /[[File:Bulbasaur.png|50px]] '''Bulbasaur''' || [[File:Squirtle_Egg_Pattern.png|30px]] /[[File:Squirtle.png|50px]] '''Squirtle''' || [[File:Magnemite_Egg_Pattern.png|30px]] /[[File:Magnemite.png|50px]] Magnemite || [[File:Hitmonchan_Egg_Pattern.png|30px]] /[[File:Hitmonchan.png|50px]] '''''Hitmonchan''''' || [[File:Dratini_Egg_Pattern.png|30px]] /[[File:Dratini.png|50px]] '''''Dratini'''''
+|-
+| [[File:Ponyta_Egg_Pattern.png|30px]] /[[File:Ponyta.png|50px]] Ponyta || [[File:Oddish_Egg_Pattern.png|30px]] /[[File:Oddish.png|50px]] Oddish || [[File:Lapras_Egg_Pattern.png|30px]] /[[File:Lapras.png|50px]] '''''Lapras''''' || [[File:Pikachu_Egg_Pattern.png|30px]] /[[File:Pikachu.png|50px]] Pikachu || [[File:Hitmonlee_Egg_Pattern.png|30px]] /[[File:Hitmonlee.png|50px]] '''''Hitmonlee''''' || [[File:Dragonair_Egg_Pattern.png|30px]] /[[File:Dragonair.png|50px]] Dragonair
+|-
+| [[File:Growlithe_Egg_Pattern.png|30px]] /[[File:Growlithe.png|50px]] Growlithe || [[File:Bellsprout_Egg_Pattern.png|30px]] /[[File:Bellsprout.png|50px]] Bellsprout || [[File:Staryu_Egg_Pattern.png|30px]] /[[File:Staryu.png|50px]] Staryu || [[File:Voltorb_Egg_Pattern.png|30px]] /[[File:Voltorb.png|50px]] Voltorb || [[File:Machop_Egg_Pattern.png|30px]] /[[File:Machop.png|50px]] Machop || [[File:Dragonite_Egg_Pattern.png|30px]] /[[File:Dragonite.png|50px]] Dragonite
+|-
+| [[File:Vulpix_Egg_Pattern.png|30px]] /[[File:Vulpix.png|50px]] Vulpix || [[File:Tangela_Egg_Pattern.png|30px]] /[[File:Tangela.png|50px]] Tangela || [[File:Psyduck_Egg_Pattern.png|30px]] /[[File:Psyduck.png|50px]] Psyduck || [[File:Electabuzz_Egg_Pattern.png|30px]] /[[File:Electabuzz.png|50px]] Electabuzz || [[File:Mankey_Egg_Pattern.png|30px]] /[[File:Mankey.png|50px]] Mankey || &lt;center&gt; ---
+|}
+
+=== '''&lt;big&gt;[[Johto]]&lt;/big&gt;''' ===
+{| class="wikitable sortable"
+|-
+! [[Fire Egg|Fuego]] !! [[Grass Egg|Planta]] !! [[Water Egg|Agua]] !! [[Electric Egg|Eléctrico]] !! [[Fighting Egg|Lucha]] !! [[Dragon Egg|Dragón]]
+|-
+| [[File:Cyndaquil_Egg_Pattern.png|30px]] /[[File:Cyndaquil.png|50px]] '''Cyndaquil''' || [[File:Chikorita_Egg_Pattern.png|30px]] /[[File:Chikorita.png|50px]] '''Chikorita''' || [[File:Totodile_Egg_Pattern.png|30px]] /[[File:Totodile.png|50px]] '''Totodile''' || [[File:Chinchou_Egg_Pattern.png|30px]] /[[File:Chinchou.png|50px]] Chinchou || [[File:Tyrogue_Egg_Pattern.png|30px]] /[[File:Tyrogue.png|50px]] Tyrogue || &lt;center&gt; ---
+|-
+| [[File:Houndour_Egg_Pattern.png|30px]] /[[File:Houndour.png|50px]] '''''Houndour''''' || [[File:Sunkern_Egg_Pattern.png|30px]] /[[File:Sunkern.png|50px]] '''''Sunkern''''' || [[File:Wooper_Egg_Pattern.png|30px]] /[[File:Wooper.png|50px]] Wooper || [[File:Mareep_Egg_Pattern.png|30px]] /[[File:Mareep.png|50px]] Mareep || &lt;center&gt; --- || &lt;center&gt; ---
+|-
+| [[File:Slugma_Egg_Pattern.png|30px]] /[[File:Slugma.png|50px]] '''''Slugma''''' || [[File:Hoppip_Egg_Pattern.png|30px]] /[[File:Hoppip.png|50px]] Hoppip || [[File:Marill_Egg_Pattern.png|30px]] /[[File:Marill.png|50px]] Marill || [[File:Elekid_Egg_Pattern.png|30px]] /[[File:Elekid.png|50px]] Elekid || &lt;center&gt; --- || &lt;center&gt; ---
+|-
+| [[File:Magby_Egg_Pattern.png|30px]] /[[File:Magby.png|50px]] Magby || &lt;center&gt; --- || [[File:Qwilfish_Egg_Pattern.png|30px]] /[[File:Qwilfish.png|50px]] Qwilfish || &lt;center&gt; --- || &lt;center&gt; --- || &lt;center&gt; ---
+|}
+
+=== '''&lt;big&gt;[[Hoenn]]&lt;/big&gt;''' ===
+{| class="wikitable sortable"
+|-
+! [[Fire Egg|Fuego]] !! [[Grass Egg|Planta]] !!  [[Water Egg|Agua]] !! [[Electric Egg|Eléctrico]] !! [[Fighting Egg|Lucha]] !! [[Dragon Egg|Dragón]]
+|-
+| [[File:Torchic_Egg_Pattern.png|30px]] /[[File:Torchic.png|50px]] '''Torchic''' || [[File:Treecko_Egg_Pattern.png|30px]] /[[File:Treecko.png|50px]] '''Treecko''' || [[File:Mudkip_Egg_Pattern.png|30px]] /[[File:Mudkip.png|50px]] '''Mudkip''' || [[File:Electrike_Egg_Pattern.png|30px]] /[[File:Electrike.png|50px]] '''''Electrike''''' || [[File:Makuhita_Egg_Pattern.png|30px]] /[[File:Makuhita.png|50px]] Makuhita || [[File:Bagon_Egg_Pattern.png|30px]] /[[File:Bagon.png|50px]] '''Bagon'''
+|-
+| [[File:Numel_Egg_Pattern.png|30px]] /[[File:Numel.png|50px]] Numel || [[File:Roselia_Egg_Pattern.png|30px]] /[[File:Roselia.png|50px]] '''''Roselia''''' || [[File:Feebas_Egg_Pattern.png|30px]] /[[File:Feebas.png|50px]] '''''Feebas''''' || [[File:Plusle_Egg_Pattern.png|30px]] /[[File:Plusle.png|50px]] Plusle || [[File:Meditite_Egg_Pattern.png|30px]] /[[File:Meditite.png|50px]] Meditite || [[File:Shelgon_Egg_Pattern.png|30px]] /[[File:Shelgon.png|50px]] Shelgon
+|-
+|  &lt;center&gt; --- || [[File:Tropius_Egg_Pattern.png|30px]] /[[File:Tropius.png|50px]] Tropius || [[File:Clamperl_Egg_Pattern.png|30px]] /[[File:Clamperl.png|50px]] Clamperl || [[File:Minun_Egg_Pattern.png|30px]] /[[File:Minun.png|50px]] Minun || &lt;center&gt; --- || [[File:Salamence_Egg_Pattern.png|30px]] /[[File:Salamence.png|50px]] Salamence
+|}
+
+=== '''&lt;big&gt;[[Sinnoh]]&lt;/big&gt;''' ===
+{| class="wikitable sortable"
+|-
+! [[Fire Egg|Fuego]] !! [[Grass Egg|Planta]] !!  [[Water Egg|Agua]] !! [[Electric Egg|Eléctrico]] !! [[Fighting Egg|Lucha]] !! [[Dragon Egg|Dragón]]
+|-
+| [[File:Chimchar_Egg_Pattern.png|30px]] /[[File:Chimchar.png|50px]] '''Chimchar''' || [[File:Turtwig_Egg_Pattern.png|30px]] /[[File:Turtwig.png|50px]] '''Turtwig''' || [[File:Piplup_Egg_Pattern.png|30px]] /[[File:Piplup.png|50px]] '''Piplup''' || [[File:Pachirisu_Egg_Pattern.png|30px]] /[[File:Pachirisu.png|50px]] '''''Pachirisu''''' || [[File:Riolu_Egg_Pattern.png|30px]] /[[File:Riolu.png|50px]] '''Riolu''' || [[File:Gible_Egg_Pattern.png|30px]] /[[File:Gible.png|50px]] '''''Gible'''''
+|-
+| &lt;center&gt; --- || [[File:Carnivine_Egg_Pattern.png|30px]] /[[File:Carnivine.png|50px]] '''''Carnivine''''' || [[File:Finneon_Egg_Pattern.png|30px]] /[[File:Finneon.png|50px]] Finneon || [[File:Shinx_Egg_Pattern.png|30px]] /[[File:Shinx.png|50px]] Shinx || &lt;center&gt; --- || [[File:Gabite_Egg_Pattern.png|30px]] /[[File:Gabite.png|50px]] Gabite
+|-
+| &lt;center&gt; --- || [[File:Budew_Egg_Pattern.png|30px]] /[[File:Budew.png|50px]] Budew || [[File:Buizel_Egg_Pattern.png|30px]] /[[File:Buizel.png|50px]] Buizel || &lt;center&gt; ---  || &lt;center&gt; ---  || [[File:Garchomp_Egg_Pattern.png|30px]] /[[File:Garchomp.png|50px]] Garchomp
+|}
+
+=== '''&lt;big&gt;[[Unova|Teselia]]&lt;/big&gt;''' ===
+{| class="wikitable sortable"
+|-
+! [[Fire Egg|Fuego]] !! [[Grass Egg|Planta]] !!  [[Water Egg|Agua]] !! [[Electric Egg|Eléctrico]] !! [[Fighting Egg|Lucha]] !! [[Dragon Egg|Dragón]]
+|-
+| [[File:Tepig_Egg_Pattern.png|30px]] /[[File:Tepig.png|50px]] '''Tepig''' || [[File:Snivy_Egg_Pattern.png|30px]] /[[File:Snivy.png|50px]] '''Snivy''' || [[File:Oshawott_Egg_Pattern.png|30px]] /[[File:Oshawott.png|50px]] '''Oshawott''' || [[File:Blitzle_Egg_Pattern.png|30px]] /[[File:Blitzle.png|50px]] '''''&lt;u&gt;Blitzle&lt;/u&gt;''''' || [[File:Throh_Egg_Pattern.png|30px]] /[[File:Throh.png|50px]] '''''Throh''''' || [[File:Deino_Egg_Pattern.png|30px]] /[[File:Deino.png|50px]] '''''&lt;u&gt;Deino&lt;/u&gt;'''''
+|-
+| [[File:Pansear_Egg_Pattern.png|30px]] /[[File:Pansear.png|50px]] '''''Pansear''''' || [[File:Pansage_Egg_Pattern.png|30px]] /[[File:Pansage.png|50px]] '''''Pansage''''' || [[File:Panpour_Egg_Pattern.png|30px]] /[[File:Panpour.png|50px]] '''''Panpour''''' || &lt;center&gt; --- || [[File:Sawk_Egg_Pattern.png|30px]] /[[File:Sawk.png|50px]] '''''Sawk''''' || [[File:Zweilous_Egg_Pattern.png|30px]] /[[File:Zweilous.png|50px]] Zweilous
+|-
+| &lt;center&gt; --- || &lt;center&gt; --- || &lt;center&gt; --- || &lt;center&gt; --- || &lt;center&gt; --- || [[File:Hydreigon_Egg_Pattern.png|30px]] /[[File:Hydreigon.png|50px]] Hydreigon
+|}
+
+=== '''&lt;big&gt;[[Kalos]]&lt;/big&gt;''' ===
+{| class="wikitable sortable"
+|-
+! [[Fire Egg|Fuego]] !! [[Grass Egg|Planta]] !!  [[Water Egg|Agua]] !! [[Electric Egg|Eléctrico]] !! [[Fighting Egg|Lucha]] !! [[Dragon Egg|Dragón]]
+|-
+| [[File:Fennekin_Egg_Pattern.png|30px]] /[[File:Fennekin.png|50px]] '''Fennekin''' || [[File:Chespin_Egg_Pattern.png|30px]] /[[File:Chespin.png|50px]] '''Chespin''' || [[File:Froakie_Egg_Pattern.png|30px]] /[[File:Froakie.png|50px]] '''Froakie''' || &lt;center&gt; --- || &lt;center&gt; --- || [[File:Goomy_Egg_Pattern.png|30px]] /[[File:Goomy.png|50px]] Goomy
+|}
+
+=== '''&lt;big&gt;[[Alola]]&lt;/big&gt;''' ===
+
+{| class="wikitable sortable"
+|-
+! [[Fire Egg|Fuego]] !! [[Grass Egg|Planta]] !!  [[Water Egg|Agua]] !! [[Electric Egg|Eléctrico]] !! [[Fighting Egg|Lucha]] !! [[Dragon Egg|Dragón]]
+|-
+| [[File:Litten_Egg_Pattern.png|30px]] /[[File:Litten.png|50px]] '''Litten''' || [[File:Rowlet_Egg_Pattern.png|30px]] /[[File:Rowlet.png|50px]] '''Rowlet''' || [[File:Popplio_Egg_Pattern.png|30px]] /[[File:Popplio.png|50px]] '''Popplio''' || &lt;center&gt; --- || [[File:Crabrawler_Egg_Pattern.png|30px]] /[[File:Crabrawler.png|50px]] '''''&lt;u&gt;Crabrawler&lt;/u&gt;''''' || [[File:Turtonator_Egg_Pattern.png|30px]] /[[File:Turtonator.png|50px]] '''''&lt;u&gt;Turtonator&lt;/u&gt;'''''
+|-
+| &lt;center&gt; --- || [[File:Morelull_Egg_Pattern.png|30px]] /[[File:Morelull.png|50px]] '''''&lt;u&gt;Morelull&lt;/u&gt;''''' || [[File:Wimpod_Egg_Pattern.png|30px]] /[[File:Wimpod.png|50px]] '''''&lt;u&gt;Wimpod&lt;/u&gt;''''' || &lt;center&gt; --- || &lt;center&gt; --- || [[File:Drampa_Egg_Pattern.png|30px]] /[[File:Drampa.png|50px]] '''''&lt;u&gt;Drampa&lt;/u&gt;'''''
+|-
+| &lt;center&gt; --- || &lt;center&gt; --- || &lt;center&gt; --- || &lt;center&gt; --- || &lt;center&gt; --- || [[File:Jangmo-o_Egg_Pattern.png|30px]] /[[File:Jangmo-o.png|50px]] Jangmo-o
+|-
+| &lt;center&gt; --- || &lt;center&gt; --- || &lt;center&gt; --- || &lt;center&gt; --- || &lt;center&gt; --- || [[File:Hakamo-o_Egg_Pattern.png|30px]] /[[File:Hakamo-o.png|50px]] Hakamo-o
+|-
+| &lt;center&gt; --- || &lt;center&gt; --- || &lt;center&gt; --- || &lt;center&gt; --- || &lt;center&gt; --- || [[File:Kommo-o_Egg_Pattern.png|30px]] /[[File:Kommo-o.png|50px]] Kommo-o
+|}
+
+==Info de Ayuda==
+Cuando entras a la siguiente área los ratios de Pokémon cambian. Asumiento que acabas de entrar a [[Sinnoh]] el [[Water Egg|Huevo de Agua]] de la tabla cambia de
+
+===En [[Hoenn]]===
+
+(Squirtle, Lapras, Staryu, Psyduck)
+
+(Totodile, Wooper, Marill, Qwilfish)
+
+(Mudkip, Feebas, Clamperl)
+
+(Mudkip, Feebas, Clamperl)
+
+===En [[Sinnoh]]===
+
+(Squirtle, Lapras, Staryu, Psyduck)
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+(Totodile, Wooper, Marill, Qwilfish)
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+(Mudkip, Feebas, Clamperl)
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+(Mudkip, Feebas, Clamperl)
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+(Piplup, Finneon, Buizel)
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+(Piplup, Finneon, Buizel)
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+(Piplup, Finneon, Buizel)
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+(Piplup, Finneon, Buizel)
+&lt;/div&gt;
+
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+This makes the chance of getting a Pokémon from the new region you entered 50% and dropping the total combination of all previous areas percent's down to 50%. The Mystery Egg will pull randomly from all egg pools, making it most useful when you have not obtained any egg Pokémon for that region yet.
+&lt;/div&gt;
+
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Eggs}}&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Eggs]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>SrVariable</username>
+      <id>142</id>
+    </contributor>
+    <comment>Created page with "==Info de Ayuda== Cuando entras a la siguiente área los ratios de Pokémon cambian. Asumiento que acabas de entrar a [[Sinnoh]] el [[Water Egg|Huevo de Agua]] de la tabla cambia de"</comment>
+    <model>wikitext</model>
+    <parentid>20872</parentid>
+    <sha1>51510bb0c65289e4e7503017b7d0c0588311b8fc</sha1>
+  </revision>
+</page>

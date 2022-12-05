@@ -1,0 +1,135 @@
+<page>
+  <title>Magma Hideout</title>
+  <ns>0</ns>
+  <id>3241</id>
+  <revision>
+    <id>12687</id>
+    <timestamp>2022-07-30T04:54:00Z</timestamp>
+    <text bytes="3947" space="preserve">{{Infobox dungeon
+|name    = Magma Hideout
+|image   = [[File:Magma Hideout.png|300px]]
+|caption = A map of Magma Hideout.
+|tokens  = 29,000
+|location = West of Route 112
+}}
+'''Magma Hideout''' is a [[Dungeons|dungeon]] in [[Hoenn]]. It initially has 49 tiles arranged in a 7x7 square, including 7 chest tiles, 17 non-boss encounter tiles, and 1 boss encounter tile. Wild Encounters have 490,000 HP.
+
+== Encounter Tables ==
+
+===Wild Encounters===
+
+{| class="wikitable"
+|-
+! Wild Pokémon !! colspan=2|Trainers
+|-
+! Encounter !! Trainer !! Pokémon Team
+|-
+| rowspan=4|[[File:Geodude.png|40px]] Geodude || [[File:Team_Magma_Grunt_(male).png|40px]] Team Magma Grunt || [[File:Poochyena.png|40px]] Poochyena
+|-
+| [[File:Team_Magma_Grunt_(male).png|40px]] Team Magma Grunt || [[File:Numel.png|40px]] Numel
+|-
+| [[File:Team_Magma_Grunt_(female).png|40px]] Team Magma Grunt || [[File:Mightyena.png|40px]] Mightyena
+|-
+| [[File:Team_Magma_Grunt_(male).png|40px]] Team Magma Grunt || [[File:Baltoy.png|40px]] Baltoy,[[File:Numel.png|40px]] Numel
+|-
+| rowspan=4|[[File:Graveler.png|40px]] Graveler || [[File:Team_Magma_Grunt_(male).png|40px]] Team Magma Grunt || [[File:Zubat.png|40px]] Zubat
+|-
+| [[File:Team_Magma_Grunt_(female).png|40px]] Team Magma Grunt || [[File:Numel.png|40px]] Numel
+|-
+| [[File:Team_Magma_Grunt_(male).png|40px]] Team Magma Grunt || [[File:Mightyena.png|40px]] Mightyena
+|-
+| [[File:Team_Magma_Grunt_(female).png|40px]] Team Magma Grunt || [[File:Baltoy.png|40px]] Baltoy
+|-
+| rowspan=5|[[File:Torkoal.png|40px]] Torkoal || [[File:Team_Magma_Grunt_(male).png|40px]] Team Magma Grunt || [[File:Baltoy.png|40px]] Baltoy
+|-
+| rowspan=4|[[File:Magma_Admin.png|40px]] Magma Admin Tabitha || [[File:Numel.png|40px]] Numel, [[File:Mightyena.png|40px]] Mightyena, [[File:Zubat.png|40px]] Zubat, [[File:Camerupt.png|40px]] Camerupt
+|-
+|}
+
+===Boss Encounters===
+{| class="wikitable"
+|-
+! Wild Pokémon !! Base Health !! Boss Trainer !! Pokémon Team !! Base Health
+|-
+| rowspan=3|&lt;center&gt; N/A || rowspan=3|&lt;center&gt; N/A || rowspan=3|[[File:Magma_Leader.png|40px]] Magma Leader Maxie || [[File:Mightyena.png|40px]] Mightyena || &lt;center&gt; 630,000
+|-
+| [[File:Crobat.png|40px]] Crobat || &lt;center&gt; 640,000
+|-
+| [[File:Camerupt.png|40px]] Camerupt || &lt;center&gt; 650,000
+|}
+
+==Items==
+
+===No Debuff===
+
+{| class="wikitable"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+|-
+| align="center" colspan=6| '''Common'''
+|-
+| {{Bag2|xAttack}} || N/A || 19.53% || 19.03% || 16.87%
+|-
+| {{Bag2|Figy}} || 2 || 39.06% || 38.06% || 33.73%
+|-
+| {{Bag2|Pinap}} || N/A || 19.53% || 19.03% || 16.87%
+|-
+| align="center" colspan=6| '''Rare'''
+|-
+| {{Bag2|Red Shard}} || N/A || 10.42% || 11.10% || 14.03%
+|-
+| {{Bag2|Yellow Shard}} || N/A || 10.42% || 11.10% || 14.03%
+|-
+| align="center" colspan=6| '''Legendary'''
+|-
+| {{Bag2|Flame Plate}} || N/A || 0.35% || 0.56% || 1.50%
+|-
+| {{Bag2|Dread Plate}} || N/A || 0.35% || 0.56% || 1.50%
+|-
+| {{Bag2|Nestball}} || N/A || 0.35% || 0.56% || 1.50%
+|}
+
+===Debuff Drop Table===
+
+After Reaching Kalos, the drop chance for items in Hoenn will be debuffed for any loot with a Tier rarer than Rare (ie: Epic, Legendary, Mythic).
+
+{| class="wikitable collapsible collapsed"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+|-
+| align="center" colspan=6| '''Common'''
+|-
+| {{Bag2|xAttack}} || N/A || 18.92% || 18.92% || 18.92%
+|-
+| {{Bag2|Figy}} || 2 || 37.84% || 37.84% || 37.84%
+|-
+| {{Bag2|Pinap}} || N/A || 18.92% || 18.92% || 18.92%
+|-
+| align="center" colspan=6| '''Rare'''
+|-
+| {{Bag2|Red Shard}} || N/A || 12.11% || 12.11% || 12.11%
+|-
+| {{Bag2|Yellow Shard}} || N/A || 12.11% || 12.11% || 12.11%
+|-
+| align="center" colspan=6| '''Legendary'''
+|-
+| {{Bag2|Flame Plate}} || N/A || 0.03% || 0.03% || 0.03%
+|-
+| {{Bag2|Dread Plate}} || N/A || 0.03% || 0.03% || 0.03%
+|-
+| {{Bag2|Nestball}} || N/A || 0.03% || 0.03% || 0.03%
+|}
+
+{{Hoenn Dungeons}}
+
+[[Category:Dungeons|^Region #3 - Hoenn^k]]</text>
+    <contributor>
+      <username>ThePantMan</username>
+      <id>8</id>
+    </contributor>
+    <comment>/* Debuff Drop Table */</comment>
+    <model>wikitext</model>
+    <parentid>12686</parentid>
+    <sha1>a9b938a77641be13422f8e600ad5b54d1bc2faee</sha1>
+  </revision>
+</page>

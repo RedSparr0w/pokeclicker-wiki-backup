@@ -1,0 +1,65 @@
+<page>
+  <title>Yache</title>
+  <ns>0</ns>
+  <id>762</id>
+  <revision>
+    <id>7871</id>
+    <timestamp>2020-12-08T02:55:07Z</timestamp>
+    <text bytes="1594" space="preserve">{{Infobox Berry
+|name    = #40 Yache
+|image   = [[File:Yache.png]]
+|caption = This Berry has a refreshing flavor that strikes a good balance of dryness and sourness. It tastes better chilled. This Berry slows the growth of nearby Berries.
+|growtime  = 12h 0m 0s
+|harvest = 25 berries
+|replant = 5%
+|points = 1,500
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 spicy 
+*10 dry
+*0 sweet
+*0 bitter
+*15 sour
+}}
+'''Yache''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by surrounding a [[Passho]] with 8 empty plots. The [[Passho]] will then have a chance to mutate into this berry.
+
+{| class="wikitable"
+|+ Growth Stages
+! !! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 1 hour || 4 hours || 8 hours || 12 hours
+|-
+! Animation
+| [[File:AllTreeSprout.png|50px]] || [[File:YacheTreeTaller.png|50px]] || [[File:YacheTreeBloom.png|50px]] || [[File:YacheTreeBerry.png|50px]]
+|-
+! Aura (growth speed)
+| || &lt;center&gt; x0.9 || &lt;center&gt; x0.8 || &lt;center&gt; x0.7
+|}
+
+=== Possible Planting Formations ===
+
+You can fill your [[farm]] in following way to obtain the Yache berry.
+
+{| class="wikitable" style="text-align: center;"
+|+ Farm
+|- style="height: 50px;"
+| style="width: 40px;" | || style="width: 40px;" | || style="width: 40px;" | || style="width: 40px;" | || style="width: 40px;" | 
+|-
+| || [[File:Passho.png|30px]] [[Passho]] || || [[File:Passho.png|30px]] [[Passho]] ||
+|- style="height: 50px;"
+| || || || || 
+|-
+| || [[File:Passho.png|30px]] [[Passho]] || || [[File:Passho.png|30px]] [[Passho]] ||
+|- style="height: 50px;"
+| || || || || 
+|}</text>
+    <contributor>
+      <username>Adrian.Lew</username>
+      <id>29</id>
+    </contributor>
+    <comment>Growth table matches Roseli</comment>
+    <model>wikitext</model>
+    <parentid>7870</parentid>
+    <sha1>f0a0023ea44b7b239400f182240b88d75e3f4f77</sha1>
+  </revision>
+</page>

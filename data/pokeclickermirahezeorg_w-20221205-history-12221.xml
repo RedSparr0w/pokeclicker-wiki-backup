@@ -1,0 +1,62 @@
+<page>
+  <title>Mt Mortar</title>
+  <ns>0</ns>
+  <id>374</id>
+  <revision>
+    <id>5284</id>
+    <timestamp>2020-12-08T19:45:35Z</timestamp>
+    <text bytes="829" space="preserve">{{Infobox dungeon
+|name    = Mt Mortar
+|image   = [[File:Mt Mortar.png|300px]]
+|caption = A map of Mt Mortar.
+|tokens  = 5,500
+|location = On route 42, east of Ecruteak City.
+}}
+'''Mt Mortar''' is a dungeon in [[Johto]]. It has 36 tiles arranged in an 6x6 square, including 6 chest tiles, 15 non-boss encounter tiles, and 1 boss encounter tile.
+
+==Dungeon Stats==
+
+{| class="wikitable"
+|-
+! Pokémon !! Base Health
+|-
+| Random Encounter || 104,100
+|-
+| Tyrogue (Boss) || 360,000
+|}
+
+==Pokémon==
+
+* Rattata
+* Zubat
+* Geodude
+* Marill
+* Raticate
+* Golbat
+* Graveler
+* Tyrogue (boss)
+
+==Items==
+
+{| class="wikitable"
+|-
+! Chest Item !! Chance to Find
+|-
+| {{Bag3|X Attack}} [[X Attack|xAttack]] || 33%
+|-
+| {{Bag3|X Click}} [[XClick|xClick]] || 33%
+|-
+| {{Bag3|Token Collector}} [[Token Collector]] || 33%
+|}
+
+[[Category:Dungeons]]</text>
+    <contributor>
+      <username>Catie-cat</username>
+      <id>30</id>
+    </contributor>
+    <comment>update to match standard</comment>
+    <model>wikitext</model>
+    <parentid>5283</parentid>
+    <sha1>f0060f37ee58db99eef5aa512343e9cbefcc8309</sha1>
+  </revision>
+</page>

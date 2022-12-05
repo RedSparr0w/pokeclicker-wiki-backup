@@ -1,0 +1,45 @@
+<page>
+  <title>Template:ItemPrice/head</title>
+  <ns>10</ns>
+  <id>9</id>
+  <revision>
+    <id>263</id>
+    <timestamp>2021-01-03T20:57:44Z</timestamp>
+    <text bytes="401" space="preserve">{| style="background:#{{{{{1|unknown}}} color light}}; border:5px solid #{{{{{1|unknown}}} color}}" class=roundy
+|-
+|
+{| border=1 style="background:#FFF; border:1px solid #{{{{{1|unknown}}} color light}}; border-collapse:collapse"
+|-
+! style="padding-left: 3px; padding-right: 3px" | Location
+! style="padding-left: 3px; padding-right: 3px" | Cost&lt;noinclude&gt;
+|}[[Category:Table templates]]&lt;/noinclude&gt;</text>
+    <contributor>
+      <username>Catie-cat</username>
+      <id>30</id>
+    </contributor>
+    <comment>jk lol (revert)</comment>
+    <model>wikitext</model>
+    <parentid>262</parentid>
+    <sha1>120e96501e85d3f7a0ebac9b87f6bada8ca510a9</sha1>
+  </revision>
+  <revision>
+    <id>262</id>
+    <timestamp>2021-01-03T20:56:56Z</timestamp>
+    <text bytes="420" space="preserve">{| style="background:#{{{{{1|unknown}}} color light}}; border:5px solid #{{{{{1|unknown}}} color}}" class=roundy
+|-
+|
+{| border=1 style="background:#FFF; border:1px solid #{{{{{1|unknown}}} color light}}; border-collapse:collapse"
+|-
+! style="padding-left: 3px; padding-right: 3px" | Location
+! style="padding-left: 3px; padding-right: 3px; text-align:right;" | Cost&lt;noinclude&gt;
+|}[[Category:Table templates]]&lt;/noinclude&gt;</text>
+    <contributor>
+      <username>Catie-cat</username>
+      <id>30</id>
+    </contributor>
+    <comment>trying to get text to right-align again</comment>
+    <model>wikitext</model>
+    <parentid>261</parentid>
+    <sha1>6ed324b735964754dc01e414ae9b7ca60a48e001</sha1>
+  </revision>
+</page>

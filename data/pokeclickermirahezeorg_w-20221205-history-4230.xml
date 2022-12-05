@@ -1,0 +1,132 @@
+<page>
+  <title>Babiri</title>
+  <ns>0</ns>
+  <id>764</id>
+  <revision>
+    <id>7935</id>
+    <timestamp>2022-07-29T08:02:13Z</timestamp>
+    <text bytes="4770" space="preserve">&lt;languages/&gt;
+&lt;translate&gt;
+&lt;!--T:1--&gt;
+{{Infobox Berry
+|name    = #51 Babiri
+|image   = [[File:Babiri.png]]
+|caption = This Berry is very tough with a strong flavor. It was used to make medicine by people in the past. This Berry plant is very hardy and resistant, causing less mutations around it. 
+|growtime  = 18h 0m 0s
+|harvest = 36 berries
+|replant = 50%
+|mutation = 0.01%
+|points = 2,400
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*25 spicy 
+*10 dry
+*0 sweet
+*0 bitter
+*0 sour
+}}
+
+&lt;!--T:2--&gt;
+'''Babiri''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by surrounding an empty plot with 4 [[Shuca]] and 4 [[Charti]] berries. The Babiri cannot be taken over through the parasite aura at any stage of its growth.
+
+== Growth Tables == &lt;!--T:3--&gt;
+=== Growth Stages ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+!!! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 2 hours - 4 hours 30 min || 4 hours 30 min - 9 hours || 9 hours - 18 hours || 18 hours - 1 day 12 hours
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:BabiriTreeTaller.png|50px]] || &lt;center&gt; [[File:BabiriTreeBloom.png|50px]] || &lt;center&gt; [[File:BabiriTreeBerry.png|50px]]
+|-
+! Aura (Mutation Chance)
+| || &lt;center&gt; x0.5 || &lt;center&gt; x0.25 || &lt;center&gt; x0
+|}
+
+=== Ripening Time with Modifiers  === &lt;!--T:4--&gt;
+{| class="wikitable" | style="text-align: center;"
+! Modifier !! Ripe-Wither Time !! Boost Mulch Needed to Ripen
+|-
+! None
+| 18 hours -&lt;br&gt; 1 day 12 hours || ---
+|-
+! Mulch or Sprayduck
+| 12 hours -&lt;br&gt; 1 day || 144 mulch
+|-
+! Mulch &amp; Sprayduck
+| 8 hours -&lt;br&gt; 16 hours || 96 mulch
+|}
+
+== Flow Chart == &lt;!--T:5--&gt;
+[[File:Babiri_Flow_Chart1.png|500px]]
+&lt;br&gt;
+
+== Mutation Strategy == &lt;!--T:6--&gt;
+=== Possible Planting Formations ===
+
+&lt;!--T:7--&gt;
+You can fill your farm in the following way to obtain Babiri berries. Purple squares indicate where mutations can occur.
+
+&lt;!--T:8--&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Farm
+|-
+| style="width: 50px;" | [[File:Shuca.png|30px]]&lt;br&gt;[[Shuca]] || style="width: 50px;" | [[File:Shuca.png|30px]]&lt;br&gt;[[Shuca]] || style="width: 50px;" | [[File:Shuca.png|30px]]&lt;br&gt;[[Shuca]] || style="width: 50px;" | [[File:Shuca.png|30px]]&lt;br&gt;[[Shuca]] || style="width: 50px;" | [[File:Shuca.png|30px]]&lt;br&gt;[[Shuca]]
+|-
+| [[File:Charti.png|30px]]&lt;br&gt;[[Charti]] || style="background-color:#9C7D98;" | || [[File:Shuca.png|30px]]&lt;br&gt;[[Shuca]] || style="background-color:#9C7D98;" | || [[File:Charti.png|30px]]&lt;br&gt;[[Charti]]
+|- style="height: 26px;"
+| [[File:Charti.png|30px]]&lt;br&gt;[[Charti]] || [[File:Charti.png|30px]]&lt;br&gt;[[Charti]] || [[File:Charti.png|30px]]&lt;br&gt;[[Charti]] || [[File:Charti.png|30px]]&lt;br&gt;[[Charti]] || [[File:Charti.png|30px]]&lt;br&gt;[[Charti]] 
+|-
+| [[File:Charti.png|30px]]&lt;br&gt;[[Charti]] || style="background-color:#9C7D98;" | || [[File:Shuca.png|30px]]&lt;br&gt;[[Shuca]] || style="background-color:#9C7D98;" | || [[File:Charti.png|30px]]&lt;br&gt;[[Charti]]
+|-
+| [[File:Shuca.png|30px]]&lt;br&gt;[[Shuca]] || [[File:Shuca.png|30px]]&lt;br&gt;[[Shuca]] || [[File:Shuca.png|30px]]&lt;br&gt;[[Shuca]] || [[File:Shuca.png|30px]]&lt;br&gt;[[Shuca]] || [[File:Shuca.png|30px]]&lt;br&gt;[[Shuca]] 
+|}
+
+=== Timing Table === &lt;!--T:9--&gt;
+{| class="wikitable"| style="text-align: center;"
+|+ ''All planting times use the time-to-ripe remaining of the first planted berry for subsequent planting times''
+! Berry !! Planting Time with &lt;br&gt; No Modifier !! Planting Time with &lt;br&gt; Mulch or Sprayduck || Planting Time with &lt;br&gt;  Mulch &amp; Sprayduck
+|-
+| [[Shuca]] || - || - || -
+|-
+| [[Charti]] || 10 hours 30 mins until ripe || 7 hours until ripe || 4 hours 40 mins until ripe
+|}
+
+==Uses== &lt;!--T:10--&gt;
+===Mutations===
+
+&lt;!--T:11--&gt;
+Babiri berries can be used to mutate the following berries.
+
+&lt;!--T:12--&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Petaya.png|20px]] [[Petaya]] || [[File:Occa.png|20px]] [[Occa]] [[File:Passho.png|20px]] [[Passho]] &lt;br&gt; [[File:Wacan.png|20px]] [[Wacan]] [[File:Rindo.png|20px]] [[Rindo]] &lt;br&gt; [[File:Yache.png|20px]] [[Yache]] [[File:Chople.png|20px]] [[Chople]] &lt;br&gt; [[File:Kebia.png|20px]] [[Kebia]] [[File:Shuca.png|20px]] [[Shuca]] &lt;br&gt; [[File:Coba.png|20px]] [[Coba]] [[File:Payapa.png|20px]] [[Payapa]] &lt;br&gt; [[File:Tanga.png|20px]] [[Tanga]] [[File:Charti.png|20px]] [[Charti]] &lt;br&gt; [[File:Kasib.png|20px]] [[Kasib]] [[File:Haban.png|20px]] [[Haban]] &lt;br&gt; [[File:Colbur.png|20px]] [[Colbur]] [[File:Chilan.png|20px]] [[Chilan]] &lt;br&gt; [[File:Roseli.png|20px]] [[Roseli]]
+|-
+|}
+
+==Using Babiri== &lt;!--T:13--&gt;
+Farm setups using Babiri can be found here:
+* [[Pokémon_Day_Care|Maximizing Egg step gain for Breeding Pokemon faster]] 
+
+&lt;!--T:14--&gt;
+&lt;br&gt;
+
+&lt;!--T:15--&gt;
+{{Berries}}
+
+&lt;!--T:16--&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/translate&gt;</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment>Marked this version for translation</comment>
+    <model>wikitext</model>
+    <parentid>7934</parentid>
+    <sha1>49e1533ab6c83d074cfb4d38985ab7e9156804e2</sha1>
+  </revision>
+</page>

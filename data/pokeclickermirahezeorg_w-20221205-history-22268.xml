@@ -1,0 +1,19 @@
+<page>
+  <title>Translations:Battle Frontier/14/fr</title>
+  <ns>1198</ns>
+  <id>9349</id>
+  <revision>
+    <id>25283</id>
+    <timestamp>2022-12-04T00:33:37Z</timestamp>
+    <text bytes="264" space="preserve">''Note : Les points de vies des pokémon sont calculés puis arrondis à l'inférieur par la formule suivante : ''&lt;br&gt;
+&lt;math&gt;\text{PV ennemis} = \text{Arrondi}[\left ( \frac{100}{12} \times (\text{Niveau actuel} + 10)^{2,2}\right )^{1,15} \times (1 - 0,05)]&lt;/math&gt;</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment>Imported translation using [[Special:PageMigration|page migration]]</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>6c7242a609ebc1150a9e0240c0094de6dfb9c69c</sha1>
+  </revision>
+</page>

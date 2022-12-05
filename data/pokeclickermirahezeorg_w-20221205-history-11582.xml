@@ -1,0 +1,38 @@
+<page>
+  <title>Farm Items</title>
+  <ns>0</ns>
+  <id>799</id>
+  <revision>
+    <id>8446</id>
+    <timestamp>2020-12-21T17:40:07Z</timestamp>
+    <text bytes="1259" space="preserve">[[File:FarmItemsScreenshots.png|thumb|400px|Left: [[Berry Master]] shop&lt;br&gt;Right: Farm items menu in [[Farm]]]]
+
+'''Farm items''' are various items usable on the [[Farm]] to help with growing, harvesting, and mutating [[berries]]. These can be bought from the [[Berry Master|Berry Masters]] of any [[region]] from [[Johto]] onwards using [[Farming Points|Farm points]] {{farmpoints}}.
+
+=Details=
+
+{| class="wikitable"
+|+ Farm Items
+|-
+! Name !! Price !! Description
+|-
+| [[File:Boost_Mulch.png|20px]] Boost Mulch || &lt;center&gt; 50 {{farmpoints}} || Increases berry growth rate by 50% when applied to an occupied plot
+|-
+| [[File:Rich_Mulch.png|20px]] Rich Mulch || 100 {{farmpoints}} || Doubles the amount of berries gained from harvesting a ripe plant in the plot it is applied to
+|-
+| [[File:Surprise_Mulch.png|20px]] Surprise Mulch || 150  {{farmpoints}} || Increases the chance of berry mutations by 50% in the plot it is applied to &lt;br&gt;(can be empty or occupied)
+|-
+| [[File:Amaze_Mulch.png|20px]] Amaze Mulch || 200 {{farmpoints}} || Increases all berry effects on a plot: growth and mutation rate boosted by 25%, &lt;br&gt;harvest boosted by 50%
+|-
+| [[File:Berry_Shovel.png|20px]] Shovel || 300 {{farmpoints}} || Clears an occupied plot instantly (no yield)
+|}</text>
+    <contributor>
+      <username>Claygame</username>
+      <id>22</id>
+    </contributor>
+    <comment>/* Details */</comment>
+    <model>wikitext</model>
+    <parentid>8445</parentid>
+    <sha1>d979ea684ea4e89510bd4d1fae2a500b2b7f157e</sha1>
+  </revision>
+</page>

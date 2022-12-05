@@ -1,0 +1,229 @@
+<page>
+  <title>Underground</title>
+  <ns>0</ns>
+  <id>213</id>
+  <revision>
+    <id>25184</id>
+    <timestamp>2022-12-03T20:07:26Z</timestamp>
+    <text bytes="15434" space="preserve">{{Infobox Underground Item
+|name       = Underground
+|image      = [[File:Underground1.png|thumb]]
+|caption    = The Underground
+|location   = Kanto - Route 11, near [[Digletts Cave]]
+}}
+
+==Description==
+The [[Underground]] is unlocked when you purchase the [[Explorer Kit]] located in [[Shops#Kanto: Locations &amp; Items|Cinnabar Island Shop]].  It also has its own currency called [[Diamonds]] {{Diamonds}} that can be used to purchase upgrades for the Underground or [[Masterball]] at the [[Shops|Pokémon League]]. For more information about the Underground, open it by clicking on it after you purchased the [[Explorer Kit]] and click on the '''Help''' tab.
+
+===Actions===
+
+# Hammer - Remove up to 1 layer from each tile on a 3x3 square
+# Chisel - Remove up to 2 layers from a single tile
+# Bomb - Remove up to 2 layers from 10 random tiles (can be upgraded to cover more tiles)
+# Survey - Tells you how many of each item type is in current level or total value of diamond items (See Items section below) and fully damages a tile (can be upgraded to damage more tiles)
+# Skip - Skip current level and move onto the next. You will not receive any rewards for items not fully uncovered. You can recover skips by completing layers.
+
+==Upgrades==
+
+=== Upgrade Explanations ===
+
+# Max Energy - Increases the maximum energy of the player
+# Max Items - Increases the maximum amount of items that can spawn on a layer
+# Min Items - Increases the minimum amount of items that can spawn on a layer
+# Energy Restored - Increases the amount of energy regained by the player on each energy regeneration
+# Energy Regeneration Time - Decreases the amount of time between each energy regeneration
+# Daily Deals - Increases the amount of daily deals offered
+# Bomb Efficiency - Increases the number of tiles destroyed with each bomb
+# Survey Cost - Decreases the cost of the Survey ability 
+# Survey Efficiency - Increases the amount of tiles mined by Survey ability
+# Larger Underground, +1 Max Item - Increases the Underground by two columns and two rows (1 on each side of the rectangle), Also increases the maximum amount of items that can spawn on a layer by one
+
+=== Upgrade Table ===
+{| class="wikitable"
+|-
+! Upgrade !! Effect/lvl !! Max Lvl || Cost !! Total Cost !! Max Effect !! Total at Max Lvl
+|-
+| Max Energy || +10 Energy|| 10 || 50*lvl || style="text-align: right;"| 2,750 {{Diamonds}} || +100 Max Energy || 150 Max Energy
+|-
+| Max Items || +1 Item|| 4 || 200*lvl || style="text-align: right;"| 2,000 {{Diamonds}} || +4 Max Items || 7 Max Items (8 with Larger Underground Upgrade)
+|-
+| Min Items || +1 Item|| 4 || 500+1500*lvl || style="text-align: right;"| 11,000 {{Diamonds}} || +4 Min Items || 5 Min Items
+|-
+| Energy Restored || +1 Energy|| 17 || 100*lvl || style="text-align: right;"| 15,300 {{Diamonds}} || +17 Energy Restored || 20 Energy Restored
+|-
+| Energy Regen Time || -1 second || 20 || 20*lvl || style="text-align: right;"| 4,200 {{Diamonds}} || -20 Seconds || 40 Seconds per Restore
+|-
+| Daily Deals || +1 Deal|| 2 || 150*lvl || style="text-align: right;"| 450 {{Diamonds}} || +2 Daily Deals || 5 Daily Deals
+|-
+| Bomb Efficiency || +2 || 5 || 50*lvl || style="text-align: right;"| 750 {{Diamonds}} || +10 Bomb Efficiency || 20 Bomb Efficiency
+|-
+| Survey Cost || -1 || 5 || 50*lvl || style="text-align: right;"| 750 {{Diamonds}} || -1 Survey Cost || Survey Cost 10
+|-
+| Survey Efficiency || +1 || 4 || 100*lvl || style="text-align: right;"| 1,000 {{Diamonds}} || +1 Survey Efficiency || 5 Survey Efficiency
+|-
+| Larger Underground, +1 Max Item || +1 || 1 || 3,000 || style="text-align: right;"| 3,000 {{Diamonds}} || +1 Underground Size, +1 Max Items || +1 Underground Size, +1 Max Items
+|}
+'''*Note:''' In total, 41,200 {{Diamonds}} are necessary to fully upgrade the Underground.
+
+==Items==
+# '''Note:''' Some Items can be dropped by Wild Pokémon as "Held Item Drops" in addition to being found in the Underground.  
+# '''Note:''' All '''Underground Items''' can be found in any orientation of the four cardinal directions (NESW).
+
+{| class="wikitable sortable" style="text-align: center;"
+|-
+! Item Type !! Item !! Mine Layout !! Reward !! colspan=2|Held Item Drop
+|-
+| [[File:OldAmber.png|15px]] [[Fossils]]  || [[File:HelixFossil.png|15px]][[File:DomeFossil.png|15px]][[File:OldAmber.png|15px]][[File:ClawFossil.png|15px]][[File:RootFossil.png|15px]]&lt;br&gt;[[File:ArmorFossil.png|15px]][[File:SkullFossil.png|15px]][[File:Plume_Fossil.png|15px]][[File:Cover_Fossil.png|15px]][[File:Jaw_Fossil.png|15px]]&lt;br&gt;[[File:Sail_Fossil.png|15px]][[File:Bird_Fossil.png|15px]][[File:Fish_Fossil.png|15px]][[File:Drake_Fossil.png|15px]]]][[File:Dino_Fossil.png|15px]] || See [[Fossils]] Page || [[File:Omanyte.png|40px]][[File:Kabuto.png|40px]][[File:Aerodactyl.png|40px]][[File:Lileep.png|40px]][[File:Anorith.png|40px]]&lt;br&gt;[[File:Cranidos.png|40px]][[File:Shieldon.png|40px]][[File:Archen.png|40px]][[File:Tirtouga.png|40px]][[File:Tyrunt.png|40px]]&lt;br&gt;[[File:Amaura.png|40px]][[File:Dracozolt.png|40px]][[File:Arctozolt.png|40px]][[File:Dracovish.png|40px]][[File:Arctovish.png|40px]] || colspan=2|N/A
+|-
+| rowspan=11|[[File:Moon_Stone.png|15px]] [[Evolution Items]] || [[File:Fire_Stone.png|15px]] [[Fire Stone]] || align="center" | [[File:FireStoneMine 0-7-3.png|75px]] || [[File:Ninetales.png|40px]][[File:Arcanine.png|40px]][[File:Flareon.png|40px]][[File:Simisear.png|40px]] || colspan=2 rowspan=4|N/A
+|-
+| [[File:Water_Stone.png|15px]] [[Water Stone]] || align="center" | [[File:WaterStoneMine 0-7-3.png|75px]] ||[[File:Poliwrath.png|40px]][[File:Cloyster.png|40px]][[File:Starmie.png|40px]][[File:Vaporeon.png|40px]][[File:Ludicolo.png|40px]][[File:Simipour.png|40px]]
+|-
+| [[File:Thunder_Stone.png|15px]] [[Thunder Stone]] || align="center" | [[File:ThunderStoneMine 0-7-3.png|75px]] || [[File:Raichu.png|40px]][[File:Jolteon.png|40px]][[File:Eelektross.png|40px]][[File:Alolan Raichu.png|40px]][[File:Magnezone.png|40px]][[File:Vikavolt.png|40px]]
+|-
+| [[File:Leaf_Stone.png|15px]] [[Leaf Stone]] || align="center" | [[File:LeafStoneMine 0-7-3.png|75px]] || [[File:Vileplume.png|40px]][[File:Victreebel.png|40px]][[File:Exeggutor.png|40px]][[File:Shiftry.png|40px]][[File:Simisage.png|40px]][[File:Alolan Exeggutor.png|40px]][[File:Eevee.png|40px]]
+|-
+| rowspan=2|[[File:Moon_Stone.png|15px]] [[Moon Stone]] || rowspan=2|[[File:MoonStoneMine 0-7-3.png|75px]] || rowspan=2|[[File:Nidoking.png|40px]][[File:Nidoqueen.png|40px]][[File:Clefable.png|40px]][[File:Wigglytuff.png|40px]][[File:Delcatty.png|40px]][[File:Musharna.png|40px]] || [[File:Cleffa.png|40px]]Cleffa || [[File:Clefairy.png|40px]]Clefairy
+|-
+| [[File:Clefable.png|40px]]Clefable || [[File:Lunatone.png|40px]]Lunatone
+|-
+| [[File:Sun_Stone.png|15px]] [[Sun Stone]] || align="center" | [[File:SunStoneMine 0-7-3.png|75px]] || [[File:Bellossom.png|40px]][[File:Sunflora.png|40px]][[File:Whimsicott.png|40px]][[File:Lilligant.png|40px]][[File:Heliolisk.png|40px]] || colspan=2| [[File:Solrock.png|40px]]Solrock
+|-
+| [[File:Dawn_Stone.png|15px]] [[Dawn Stone]] || align="center" |[[File:DawnStoneMine.png|75px]] || [[File:Gallade.png|40px]] [[File:Froslass.png|40px]] || colspan=2 rowspan=4|N/A
+|-
+| [[File:Dusk_Stone.png|15px]] [[Dusk Stone]] || align="center" |[[File:DuskStoneMine.png|75px]] || [[File:Honchkrow.png|40px]] [[File:Mismagius.png|40px]][[File:Chandelure.png|40px]][[File:Aegislash.png|40px]]
+|-
+| [[File:Shiny_Stone.png|15px]] [[Shiny Stone]] || align="center" |[[File:ShinyStoneMine.png|75px]] || [[File:Togekiss.png|40px]][[File:Spooky Togekiss.png|40px]][[File:Roserade.png|40px]][[File:Cinccino.png|40px]][[File:Florges (Red).png|40px]][[File:Florges (Orange).png|40px]][[File:Florges (White).png|40px]][[File:Florges (Blue).png|40px]][[File:Florges (Yellow).png|40px]]
+|-
+| [[File:Ice_Stone.png|15px]] [[Ice Stone]] || align="center" |[[File:IceStoneMine.png|75px]] || [[File:Alolan Ninetales.png|40px]] [[File:Alolan Sandslash.png|40px]] [[File:Crystal Steelix.png|40px]] [[File:Galarian Darmanitan.png|40px]]
+|-
+| rowspan=17|[[File:Mine_Flame_Plate.png|15px]] [[Gem Plates]] || [[File:Flame_Plate_Updated.png|15px]] [[Flame Plate]] || rowspan = 17, align="center" | [[File:ShardPlateMine.png|75px]]&lt;br&gt;Each [[Gem Plates|Gem Plate]] is 4x3 || [[File:Fire_Gem.png|15px]] 100 Fire [[Gems]] || colspan=2 rowspan=17| &lt;center&gt; N/A 
+|-
+| [[File:Splash_Plate_Updated.png|15px]] [[Splash Plate]] || [[File:Water_Gem.png|15px]] 100 Water [[Gems]]
+|-
+| [[File:Zap_Plate_Updated.png|15px]] [[Zap Plate]] || [[File:Electric_Gem.png|15px]] 100 Electric [[Gems]]
+|-
+| [[File:Meadow_Plate_Updated.png|15px]] [[Meadow Plate]] || [[File:Grass_Gem.png|15px]] 100 Grass [[Gems]]
+|-
+| [[File:Icicle_Plate_Updated.png|15px]] [[Icicle Plate]] || [[File:Ice_Gem.png|15px]] 100 Ice [[Gems]]
+|-
+| [[File:Fist_Plate_Updated.png|15px]] [[Fist Plate]] || [[File:Fighting_Gem.png|15px]] 100 Fighting [[Gems]]
+|-
+| [[File:Toxic_Plate_Updated.png|15px]] [[Toxic Plate]] || [[File:Poison_Gem.png|15px]] 100 Poison [[Gems]]
+|-
+| [[File:Earth_Plate_Updated.png|15px]] [[Earth Plate]] || [[File:Ground_Gem.png|15px]] 100 Ground [[Gems]]
+|-
+| [[File:Sky_Plate_Updated.png|15px]] [[Sky Plate]] || [[File:Flying_Gem.png|15px]] 100 Flying [[Gems]]
+|-
+| [[File:Mind_Plate_Updated.png|15px]] [[Mind Plate]] || [[File:Psychic_Gem.png|15px]] 100 Psychic [[Gems]]
+|-
+| [[File:Insect_Plate_Updated.png|15px]] [[Insect Plate]] || [[File:Bug_Gem.png|15px]] 100 Bug [[Gems]]
+|-
+| [[File:Stone_Plate_Updated.png|15px]] [[Stone Plate]] || [[File:Rock_Gem.png|15px]] 100 Rock [[Gems]]
+|-
+| [[File:Spooky_Plate_Updated.png|15px]] [[Spooky Plate]] || [[File:Ghost_Gem.png|15px]] 100 Ghost [[Gems]]
+|-
+| [[File:Draco_Plate_Updated.png|15px]] [[Draco Plate]] || [[File:Dragon_Gem.png|15px]] 100 Dragon [[Gems]]
+|-
+| [[File:Dread_Plate_Updated.png|15px]] [[Dread Plate]] || [[File:Dark_Gem.png|15px]] 100 Dark [[Gems]]
+|-
+| [[File:Iron_Plate_Updated.png|15px]] [[Iron Plate]] || [[File:Steel_Gem.png|15px]] 100 Steel [[Gems]]
+|-
+| [[File:Pixie_Plate_Updated.png|15px]] [[Pixie Plate]] || [[File:Fairy_Gem.png|15px]] 100 Fairy [[Gems]]
+|-
+| rowspan=15|[[File:Red_Shard.png|15px]][[Shards]] ||[[File:Red_Shard_Updated.png|15px]] [[Red Shard]] || align="center"|[[File:RedShardMine.png|75px]] || Rowspan=13|&lt;center&gt;N/A || colspan=2 rowspan=13|&lt;center&gt;N/A
+|-
+| [[File:Yellow_Shard_Updated.png|15px]] [[Yellow Shard]] || align="center"|[[File:YellowShardMine.png|75px]]
+|-
+| [[File:Green_Shard_Updated.png|15px]] [[Green Shard]] || align="center"|[[File:GreenShardMine.png|75px]] 
+|-
+| [[File:Blue_Shard_Updated.png|15px]] [[Blue Shard]] || align="center"|[[File:BlueShardMine.png|75px]] 
+|-
+| [[File:Grey_Shard_Updated.png|15px]] [[Grey Shard]] || align="center"|[[File:GreyShardMine.png|75px]] 
+|-
+| [[File:Purple_Shard_Updated.png|15px]] [[Purple Shard]] || align="center"|[[File:PurpleShardMine.png|75px]] 
+|-
+| [[File:Ochre_Shard_Updated.png|15px]] [[Ochre Shard]] || align="center"|[[File:OchreShardMine.png|75px]] 
+|-
+| [[File:Black_Shard_Updated.png|15px]] [[Black Shard]] || align="center"|[[File:BlackShardMine.png|75px]] 
+|-
+| [[File:Crimson_Shard_Updated.png|15px]] [[Crimson Shard]] || align="center"|[[File:CrimsonShardMine.png|75px]] 
+|-
+| [[File:Lime_Shard_Updated.png|15px]] [[Lime Shard]] || align="center"|[[File:LimeShardMine.png|75px]] 
+|-
+| [[File:White_Shard_Updated.png|15px]] [[White Shard]] || align="center"|[[File:WhiteShardMine.png|75px]] 
+|-
+| [[File:Pink_Shard_Updated.png|15px]] [[Pink Shard]] || align="center"|[[File:PinkShardMine.png|75px]] 
+|-
+| [[File:Cyan_Shard_Updated.png|15px]] [[Cyan Shard]] || align="center"|[[File:CyanShardMine.png|75px]] 
+|-
+| [[File:Rose_Shard_Updated.png|15px]] [[Rose Shard]] || align="center"|[[File:CyanShardMine.png|75px]] 
+|-
+| [[File:Brown_Shard_Updated.png|15px]] [[Brown Shard]] || align="center"|[[File:CyanShardMine.png|75px]] 
+|-
+| rowspan=22|{{Diamonds}} [[Diamonds|Diamond Items]] || [[File:Max_Revive_Updated.png|15px]] [[Max Revive]] || align="center" | [[File:MaxReviveMine.png|75px]] || 4 Diamonds {{Diamonds}} || colspan=2|[[File:Linoone.png|40px]]Linoone
+|-
+| rowspan=2|[[File:Rare_Bone_Updated.png|15px]] [[Rare Bone]] || rowspan=2|[[File:RareBoneMine.png|75px]] || rowspan=2|3 Diamonds {{Diamonds}} ||[[File:Cubone.png|40px]]Cubone || [[File:Marowak.png|40px]]Marowak
+|-
+| [[File:Dwebble.png|40px]]Dwebble || [[File:Crustle.png|40px]]Crustle
+|-
+| [[File:Icy_Rock_Updated.png|15px]] [[Icy Rock]] || align="center" | [[File:IcyRockMine 0-7-3.png|75px]] || 2 Diamonds {{Diamonds}} || colspan=2|N/A
+|-
+| rowspan=2|[[File:Everstone_Updated.png|15px]] [[Everstone]] || rowspan=2|[[File:EverstoneMine 0-7-3.png|75px]] || rowspan=2|3 Diamonds {{Diamonds}} || [[File:Geodude.png|40px]]Geodude || [[File:Roggenrola.png|40px]]Roggenrola
+|-
+| [[File:Boldore.png|40px]]Boldore || [[File:Gigalith.png|40px]]Gigalith
+|-
+| [[File:Revive_Updated.png|15px]] [[Revive]] || align="center" | [[File:ReviveMine.png|75px]] || 2 Diamonds {{Diamonds}} ||colspan=2|[[File:Zigzagoon.png|40px]]Zigzagoon
+|-
+| [[File:Heart_Scale_Updated.png|15px]] [[Heart Scale]] || align="center" | [[File:HeartScaleMine.png|75px]] || 10 Diamonds {{Diamonds}} ||colspan=2|[[File:Luvdisc.png|40px]]Luvdisc
+|-
+| [[File:Heat_Rock_Updated.png|15px]] [[Heat Rock]] || align="center" | [[File:HeatRockMine 0-7-3.png|75px]] || 2 Diamonds {{Diamonds}} || colspan=2|N/A
+|-
+| [[File:Star_Piece_Updated.png|15px]] [[Star Piece]] || align="center" | [[File:StarPieceMine.png|75px]] || 5 Diamonds {{Diamonds}} ||[[File:Jirachi.png|40px]]Jirachi || [[File:Meloetta (aria).png|40px]]Meloetta
+|-
+| [[File:Light_Clay_Updated.png|15px]] [[Light Clay]] || align="center" | [[File:LightClayMine.png|75px]] || 2 Diamonds {{Diamonds}} || N/A
+|-
+| rowspan=5|[[File:Hard_Stone_Updated.png|15px]] [[Hard Stone]] || rowspan=5|[[File:HardStoneMine.png|75px]] || rowspan=5|4 Diamonds {{Diamonds}} || [[File:Graveler.png|40px]]Graveler || [[File:Golem.png|40px]]Golem
+|-
+| [[File:Onix.png|40px]]Onix || [[File:Corsola.png|40px]]Corsola
+|-
+| [[File:Nosepass.png|40px]]Nosepass || [[File:Probopass.png|40px]]Probopass
+|-
+| [[File:Aron.png|40px]]Aron || [[File:Lairon.png|40px]]Lairon
+|-
+| colspan=2|[[File:Aggron.png|40px]]Aggron
+|-
+| [[File:Odd_Keystone_Updated.png|15px]] [[Odd Keystone]] || align="center" | [[File:OddKeystoneMine.png|75px]] || 6 Diamonds {{Diamonds}} || colspan=2 rowspan=3|N/A
+|-
+| [[File:Damp_Rock_Updated.png|15px]] [[Damp Rock]] || align="center" | [[File:DampRockMine.png|75px]] || 2 Diamonds {{Diamonds}}
+|-
+| [[File:Smooth_Rock_Updated.png|15px]] [[Smooth Rock]] || align="center" | [[File:SmoothRockMine 0-7-3.png|75px]] || 2 Diamonds {{Diamonds}}
+|-
+| [[File:Iron_Ball_Updated.png|15px]] [[Iron Ball]] || align="center" | [[File:IronBallMine.png|75px]] || 2 Diamonds {{Diamonds}} ||colspan=2|[[File:Mawile.png|40px]]Mawile
+|-
+| rowspan=2|[[File:Oval_Stone_Updated.png|15px]] [[Oval Stone]] || rowspan=2|[[File:OvalStoneMine.png|75px]] || rowspan=2|3 Diamonds {{Diamonds}} || [[File:Chansey.png|40px]]Chansey || [[File:Happiny.png|40px]]Happiny
+|-
+| colspan=2|[[File:Blissey.png|40px]]Blissey
+|}
+
+==Efficiency==
+
+To find Underground items most efficiently, follow the format below, mining odd rows first:
+
+&lt;pre&gt;
+Odd rows:  1 X 1 X 1 X 1 X 1 X 1 X 1 X 1 X 1 X 1 X 1 X 1 X 1
+Even rows: X 2 X 2 X 2 X 2 X 2 X 2 X 2 X 2 X 2 X 2 X 2 X 2 X
+&lt;/pre&gt;
+
+{{Underground Items}}
+[[Category:Fossils]] [[Category:Gems]] [[Category:Shards]] [[Category:Underground Items]]</text>
+    <contributor>
+      <username>SomeonealiveQN</username>
+      <id>5</id>
+    </contributor>
+    <comment>/* Items */</comment>
+    <model>wikitext</model>
+    <parentid>25135</parentid>
+    <sha1>eaf46c1a757119405b1036abc940dd7b0be91575</sha1>
+  </revision>
+</page>

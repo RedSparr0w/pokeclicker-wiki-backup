@@ -1,0 +1,1341 @@
+<page>
+  <title>Tamato/fr</title>
+  <ns>0</ns>
+  <id>8676</id>
+  <revision>
+    <id>23924</id>
+    <timestamp>2022-08-13T14:58:44Z</timestamp>
+    <text bytes="5303" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #26 Tamato
+|image   = [[File:Tamato.png]]
+|caption = Cette grosse Baie est extrêmement épicée. Mangée en hiver, elle réchauffe le corps de l'intérieur.
+|growtime  = 2h 24m 0s
+|harvest = 25 baies
+|replant = 20%
+|mutation = 0,05%
+|points = 625
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*20 épicée 
+*10 sèche
+*0 sucrée
+*0 amère
+*0 acide
+}}
+
+'''Tamato''' est un type de [[Berries/fr|Baie]] qui peut être plantée dans la [[Farm/fr|Ferme]]. Elle s'obtient en entourant une [[Razz/fr|Framby]] avec au moins 1 [[Pomeg/fr|Grena]]. La [[Razz/fr|Framby]] aura alors des chances de muter en Tamato.
+
+== Tables de croissance ==
+=== Stades de croissance ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Pousse !! Arbuste !! Fleuri !! Baie
+|-
+! Temps écoulé depuis plantation
+| 7 mins 10 secs || 23 mins 10 secs || 1 heure 6 mins 40 secs || 2 heures 24 mins - 4 heures 48 mins
+|-
+! Animation
+|  &lt;center&gt;  [[File:AllTreeSprout.png|50px]] ||  &lt;center&gt; [[File:TamatoTreeTaller.png|50px]] ||  &lt;center&gt; [[File:TamatoTreeBloom.png|50px]] ||  &lt;center&gt; [[File:TamatoTreeBerry.png|50px]]
+|}
+
+=== Temps de croissance avec modificateurs  ===
+{| class="wikitable" | style="text-align: center;"
+! Modificateur !! Temps maturité-flétrissement !! Nombre de Fertipousse requis
+|-
+! Aucun
+| 2 heures 24 mins -&lt;br&gt; 4 heures 48 mins || ---
+|-
+! Engrais ou Kwakarroisoir
+| 1 heure 36 mins -&lt;br&gt; 3 heures 12 mins || 20 engrais
+|-
+! Engrais et Kwakarroisoir
+| 1 heure 4 mins -&lt;br&gt; 2 heures 8 mins || 13 engrais
+|}
+
+== Organigramme ==
+[[File:Tamato_-_Graph_découverte.png|350px]]
+&lt;br&gt;
+
+== Stratégie de mutation ==
+=== Formations possibles ===
+
+Vous pouvez remplir votre ferme de la manière suivante pour obtenir des baies Tamato. Les cases violettes indiquent où les mutations peuvent avoir lieu.
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation&amp;nbsp;de&amp;nbsp;base
+|-
+| style="width: 60px; background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]''' || style="width: 60px; background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]'''
+|-
+| style="background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]''' || [[File:Pomeg.png|30px]]&lt;br&gt;[[Pomeg/fr|Grena]]
+|}
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation optimisée
+|-
+| style="width: 60px; background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]''' || style="width: 60px; background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]''' || style="width: 60px; background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]''' || style="width: 60px; background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]''' || style="width: 60px; background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]'''
+|-
+| style="background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]''' || [[File:Pomeg.png|30px]]&lt;br&gt;[[Pomeg/fr|Grena]] || style="background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]''' || style="background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]''' || [[File:Pomeg.png|30px]]&lt;br&gt;[[Pomeg/fr|Grena]]
+|- style="height: 26px; background-color:#9C7D98;"
+| [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]''' || [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]''' || [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]''' || [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]''' || [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]'''
+|- style="background-color:#9C7D98;"
+| [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]''' || [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]''' || [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]''' || [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]''' || [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]'''
+|-
+| style="background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]''' || [[File:Pomeg.png|30px]]&lt;br&gt;[[Pomeg/fr|Grena]] || style="background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]''' || style="background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]''' || [[File:Pomeg.png|30px]]&lt;br&gt;[[Pomeg/fr|Grena]]
+|}
+
+=== Tableau de chronométrage ===
+{| class="wikitable"| style="text-align: center;"
+|+ ''Tous les temps indiqués sont basés sur le temps restant avant que la première baie plantée n'arrive à maturité''
+! ! Baie !! Temps de plantation &lt;br&gt; sans modificateur !! Temps de plantation avec &lt;br&gt; Engrais ou Kwakarrosoir || Temps de plantation avec &lt;br&gt; Engrais et Kwakarrosoir
+|-
+| [[Pomeg/fr|Grena]] || - || - || -
+|-
+| [[Razz/fr|Framby]] || 4 mins 10 secs à maturité || 2 mins 47 secs à maturité || Non optimal
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Uses==
+===Mutations===
+&lt;/div&gt;
+
+Les baies Tamato peuvent être utilisées pour faire muter les baies suivantes :
+
+{| class="wikitable" | style="text-align: center;"
+|-
+! Utilisée pour !! Plantée avec
+|-
+| [[File:Spelon.png|20px]] [[Spelon/fr|Kiwan]] || -
+|-
+| [[File:Occa.png|20px]] [[Occa/fr|Chocco]] || [[File:Razz.png|20px]] [[Razz/fr|Framby]] &lt;br&gt; [[File:Figy.png|20px]] [[Figy/fr|Figuy]] &lt;br&gt; [[File:Spelon.png|20px]] [[Spelon/fr|Kiwan]]
+|-
+|}
+
+&lt;br&gt;
+
+{{Berries}}
+
+[[Category:Farm]][[Category:Berries]]</text>
+    <contributor>
+      <username>LuK</username>
+      <id>96</id>
+    </contributor>
+    <comment>Created page with "&lt;br&gt;"</comment>
+    <model>wikitext</model>
+    <parentid>23923</parentid>
+    <sha1>d7a3cfacf6b9490646e7ca5b2d4cdf666ff3761c</sha1>
+  </revision>
+  <revision>
+    <id>23923</id>
+    <timestamp>2022-08-13T14:58:37Z</timestamp>
+    <text bytes="5471" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #26 Tamato
+|image   = [[File:Tamato.png]]
+|caption = Cette grosse Baie est extrêmement épicée. Mangée en hiver, elle réchauffe le corps de l'intérieur.
+|growtime  = 2h 24m 0s
+|harvest = 25 baies
+|replant = 20%
+|mutation = 0,05%
+|points = 625
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*20 épicée 
+*10 sèche
+*0 sucrée
+*0 amère
+*0 acide
+}}
+
+'''Tamato''' est un type de [[Berries/fr|Baie]] qui peut être plantée dans la [[Farm/fr|Ferme]]. Elle s'obtient en entourant une [[Razz/fr|Framby]] avec au moins 1 [[Pomeg/fr|Grena]]. La [[Razz/fr|Framby]] aura alors des chances de muter en Tamato.
+
+== Tables de croissance ==
+=== Stades de croissance ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Pousse !! Arbuste !! Fleuri !! Baie
+|-
+! Temps écoulé depuis plantation
+| 7 mins 10 secs || 23 mins 10 secs || 1 heure 6 mins 40 secs || 2 heures 24 mins - 4 heures 48 mins
+|-
+! Animation
+|  &lt;center&gt;  [[File:AllTreeSprout.png|50px]] ||  &lt;center&gt; [[File:TamatoTreeTaller.png|50px]] ||  &lt;center&gt; [[File:TamatoTreeBloom.png|50px]] ||  &lt;center&gt; [[File:TamatoTreeBerry.png|50px]]
+|}
+
+=== Temps de croissance avec modificateurs  ===
+{| class="wikitable" | style="text-align: center;"
+! Modificateur !! Temps maturité-flétrissement !! Nombre de Fertipousse requis
+|-
+! Aucun
+| 2 heures 24 mins -&lt;br&gt; 4 heures 48 mins || ---
+|-
+! Engrais ou Kwakarroisoir
+| 1 heure 36 mins -&lt;br&gt; 3 heures 12 mins || 20 engrais
+|-
+! Engrais et Kwakarroisoir
+| 1 heure 4 mins -&lt;br&gt; 2 heures 8 mins || 13 engrais
+|}
+
+== Organigramme ==
+[[File:Tamato_-_Graph_découverte.png|350px]]
+&lt;br&gt;
+
+== Stratégie de mutation ==
+=== Formations possibles ===
+
+Vous pouvez remplir votre ferme de la manière suivante pour obtenir des baies Tamato. Les cases violettes indiquent où les mutations peuvent avoir lieu.
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation&amp;nbsp;de&amp;nbsp;base
+|-
+| style="width: 60px; background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]''' || style="width: 60px; background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]'''
+|-
+| style="background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]''' || [[File:Pomeg.png|30px]]&lt;br&gt;[[Pomeg/fr|Grena]]
+|}
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation optimisée
+|-
+| style="width: 60px; background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]''' || style="width: 60px; background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]''' || style="width: 60px; background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]''' || style="width: 60px; background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]''' || style="width: 60px; background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]'''
+|-
+| style="background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]''' || [[File:Pomeg.png|30px]]&lt;br&gt;[[Pomeg/fr|Grena]] || style="background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]''' || style="background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]''' || [[File:Pomeg.png|30px]]&lt;br&gt;[[Pomeg/fr|Grena]]
+|- style="height: 26px; background-color:#9C7D98;"
+| [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]''' || [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]''' || [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]''' || [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]''' || [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]'''
+|- style="background-color:#9C7D98;"
+| [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]''' || [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]''' || [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]''' || [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]''' || [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]'''
+|-
+| style="background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]''' || [[File:Pomeg.png|30px]]&lt;br&gt;[[Pomeg/fr|Grena]] || style="background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]''' || style="background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]''' || [[File:Pomeg.png|30px]]&lt;br&gt;[[Pomeg/fr|Grena]]
+|}
+
+=== Tableau de chronométrage ===
+{| class="wikitable"| style="text-align: center;"
+|+ ''Tous les temps indiqués sont basés sur le temps restant avant que la première baie plantée n'arrive à maturité''
+! ! Baie !! Temps de plantation &lt;br&gt; sans modificateur !! Temps de plantation avec &lt;br&gt; Engrais ou Kwakarrosoir || Temps de plantation avec &lt;br&gt; Engrais et Kwakarrosoir
+|-
+| [[Pomeg/fr|Grena]] || - || - || -
+|-
+| [[Razz/fr|Framby]] || 4 mins 10 secs à maturité || 2 mins 47 secs à maturité || Non optimal
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Uses==
+===Mutations===
+&lt;/div&gt;
+
+Les baies Tamato peuvent être utilisées pour faire muter les baies suivantes :
+
+{| class="wikitable" | style="text-align: center;"
+|-
+! Utilisée pour !! Plantée avec
+|-
+| [[File:Spelon.png|20px]] [[Spelon/fr|Kiwan]] || -
+|-
+| [[File:Occa.png|20px]] [[Occa/fr|Chocco]] || [[File:Razz.png|20px]] [[Razz/fr|Framby]] &lt;br&gt; [[File:Figy.png|20px]] [[Figy/fr|Figuy]] &lt;br&gt; [[File:Spelon.png|20px]] [[Spelon/fr|Kiwan]]
+|-
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>LuK</username>
+      <id>96</id>
+    </contributor>
+    <comment>Created page with "{| class="wikitable" | style="text-align: center;" |- ! Utilisée pour !! Plantée avec |- | [[File:Spelon.png|20px]] [[Spelon/fr|Kiwan]] || - |- | [[File:Occa.png|20px]] [[Occa/fr|Chocco]] || [[File:Razz.png|20px]] [[Razz/fr|Framby]] &lt;br&gt; [[File:Figy.png|20px]] [[Figy/fr|Figuy]] &lt;br&gt; [[File:Spelon.png|20px]] [[Spelon/fr|Kiwan]] |- |}"</comment>
+    <model>wikitext</model>
+    <parentid>23922</parentid>
+    <sha1>af2ee63e9350488902ffa0f0d1efdac1a5cde5f4</sha1>
+  </revision>
+  <revision>
+    <id>23922</id>
+    <timestamp>2022-08-13T14:57:28Z</timestamp>
+    <text bytes="5464" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #26 Tamato
+|image   = [[File:Tamato.png]]
+|caption = Cette grosse Baie est extrêmement épicée. Mangée en hiver, elle réchauffe le corps de l'intérieur.
+|growtime  = 2h 24m 0s
+|harvest = 25 baies
+|replant = 20%
+|mutation = 0,05%
+|points = 625
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*20 épicée 
+*10 sèche
+*0 sucrée
+*0 amère
+*0 acide
+}}
+
+'''Tamato''' est un type de [[Berries/fr|Baie]] qui peut être plantée dans la [[Farm/fr|Ferme]]. Elle s'obtient en entourant une [[Razz/fr|Framby]] avec au moins 1 [[Pomeg/fr|Grena]]. La [[Razz/fr|Framby]] aura alors des chances de muter en Tamato.
+
+== Tables de croissance ==
+=== Stades de croissance ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Pousse !! Arbuste !! Fleuri !! Baie
+|-
+! Temps écoulé depuis plantation
+| 7 mins 10 secs || 23 mins 10 secs || 1 heure 6 mins 40 secs || 2 heures 24 mins - 4 heures 48 mins
+|-
+! Animation
+|  &lt;center&gt;  [[File:AllTreeSprout.png|50px]] ||  &lt;center&gt; [[File:TamatoTreeTaller.png|50px]] ||  &lt;center&gt; [[File:TamatoTreeBloom.png|50px]] ||  &lt;center&gt; [[File:TamatoTreeBerry.png|50px]]
+|}
+
+=== Temps de croissance avec modificateurs  ===
+{| class="wikitable" | style="text-align: center;"
+! Modificateur !! Temps maturité-flétrissement !! Nombre de Fertipousse requis
+|-
+! Aucun
+| 2 heures 24 mins -&lt;br&gt; 4 heures 48 mins || ---
+|-
+! Engrais ou Kwakarroisoir
+| 1 heure 36 mins -&lt;br&gt; 3 heures 12 mins || 20 engrais
+|-
+! Engrais et Kwakarroisoir
+| 1 heure 4 mins -&lt;br&gt; 2 heures 8 mins || 13 engrais
+|}
+
+== Organigramme ==
+[[File:Tamato_-_Graph_découverte.png|350px]]
+&lt;br&gt;
+
+== Stratégie de mutation ==
+=== Formations possibles ===
+
+Vous pouvez remplir votre ferme de la manière suivante pour obtenir des baies Tamato. Les cases violettes indiquent où les mutations peuvent avoir lieu.
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation&amp;nbsp;de&amp;nbsp;base
+|-
+| style="width: 60px; background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]''' || style="width: 60px; background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]'''
+|-
+| style="background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]''' || [[File:Pomeg.png|30px]]&lt;br&gt;[[Pomeg/fr|Grena]]
+|}
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation optimisée
+|-
+| style="width: 60px; background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]''' || style="width: 60px; background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]''' || style="width: 60px; background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]''' || style="width: 60px; background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]''' || style="width: 60px; background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]'''
+|-
+| style="background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]''' || [[File:Pomeg.png|30px]]&lt;br&gt;[[Pomeg/fr|Grena]] || style="background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]''' || style="background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]''' || [[File:Pomeg.png|30px]]&lt;br&gt;[[Pomeg/fr|Grena]]
+|- style="height: 26px; background-color:#9C7D98;"
+| [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]''' || [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]''' || [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]''' || [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]''' || [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]'''
+|- style="background-color:#9C7D98;"
+| [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]''' || [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]''' || [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]''' || [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]''' || [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]'''
+|-
+| style="background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]''' || [[File:Pomeg.png|30px]]&lt;br&gt;[[Pomeg/fr|Grena]] || style="background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]''' || style="background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]''' || [[File:Pomeg.png|30px]]&lt;br&gt;[[Pomeg/fr|Grena]]
+|}
+
+=== Tableau de chronométrage ===
+{| class="wikitable"| style="text-align: center;"
+|+ ''Tous les temps indiqués sont basés sur le temps restant avant que la première baie plantée n'arrive à maturité''
+! ! Baie !! Temps de plantation &lt;br&gt; sans modificateur !! Temps de plantation avec &lt;br&gt; Engrais ou Kwakarrosoir || Temps de plantation avec &lt;br&gt; Engrais et Kwakarrosoir
+|-
+| [[Pomeg/fr|Grena]] || - || - || -
+|-
+| [[Razz/fr|Framby]] || 4 mins 10 secs à maturité || 2 mins 47 secs à maturité || Non optimal
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Uses==
+===Mutations===
+&lt;/div&gt;
+
+Les baies Tamato peuvent être utilisées pour faire muter les baies suivantes :
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Spelon.png|20px]] [[Spelon]] || -
+|-
+| [[File:Occa.png|20px]] [[Occa]] || [[File:Razz.png|20px]] [[Razz]] &lt;br&gt; [[File:Figy.png|20px]] [[Figy]] &lt;br&gt; [[File:Spelon.png|20px]] [[Spelon]]
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>LuK</username>
+      <id>96</id>
+    </contributor>
+    <comment>Created page with "Les baies Tamato peuvent être utilisées pour faire muter les baies suivantes :"</comment>
+    <model>wikitext</model>
+    <parentid>23921</parentid>
+    <sha1>dd859efa47fa0cb88b3e53dbd2f961dfe32db4d3</sha1>
+  </revision>
+  <revision>
+    <id>23921</id>
+    <timestamp>2022-08-13T14:57:09Z</timestamp>
+    <text bytes="5499" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #26 Tamato
+|image   = [[File:Tamato.png]]
+|caption = Cette grosse Baie est extrêmement épicée. Mangée en hiver, elle réchauffe le corps de l'intérieur.
+|growtime  = 2h 24m 0s
+|harvest = 25 baies
+|replant = 20%
+|mutation = 0,05%
+|points = 625
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*20 épicée 
+*10 sèche
+*0 sucrée
+*0 amère
+*0 acide
+}}
+
+'''Tamato''' est un type de [[Berries/fr|Baie]] qui peut être plantée dans la [[Farm/fr|Ferme]]. Elle s'obtient en entourant une [[Razz/fr|Framby]] avec au moins 1 [[Pomeg/fr|Grena]]. La [[Razz/fr|Framby]] aura alors des chances de muter en Tamato.
+
+== Tables de croissance ==
+=== Stades de croissance ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Pousse !! Arbuste !! Fleuri !! Baie
+|-
+! Temps écoulé depuis plantation
+| 7 mins 10 secs || 23 mins 10 secs || 1 heure 6 mins 40 secs || 2 heures 24 mins - 4 heures 48 mins
+|-
+! Animation
+|  &lt;center&gt;  [[File:AllTreeSprout.png|50px]] ||  &lt;center&gt; [[File:TamatoTreeTaller.png|50px]] ||  &lt;center&gt; [[File:TamatoTreeBloom.png|50px]] ||  &lt;center&gt; [[File:TamatoTreeBerry.png|50px]]
+|}
+
+=== Temps de croissance avec modificateurs  ===
+{| class="wikitable" | style="text-align: center;"
+! Modificateur !! Temps maturité-flétrissement !! Nombre de Fertipousse requis
+|-
+! Aucun
+| 2 heures 24 mins -&lt;br&gt; 4 heures 48 mins || ---
+|-
+! Engrais ou Kwakarroisoir
+| 1 heure 36 mins -&lt;br&gt; 3 heures 12 mins || 20 engrais
+|-
+! Engrais et Kwakarroisoir
+| 1 heure 4 mins -&lt;br&gt; 2 heures 8 mins || 13 engrais
+|}
+
+== Organigramme ==
+[[File:Tamato_-_Graph_découverte.png|350px]]
+&lt;br&gt;
+
+== Stratégie de mutation ==
+=== Formations possibles ===
+
+Vous pouvez remplir votre ferme de la manière suivante pour obtenir des baies Tamato. Les cases violettes indiquent où les mutations peuvent avoir lieu.
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation&amp;nbsp;de&amp;nbsp;base
+|-
+| style="width: 60px; background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]''' || style="width: 60px; background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]'''
+|-
+| style="background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]''' || [[File:Pomeg.png|30px]]&lt;br&gt;[[Pomeg/fr|Grena]]
+|}
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation optimisée
+|-
+| style="width: 60px; background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]''' || style="width: 60px; background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]''' || style="width: 60px; background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]''' || style="width: 60px; background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]''' || style="width: 60px; background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]'''
+|-
+| style="background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]''' || [[File:Pomeg.png|30px]]&lt;br&gt;[[Pomeg/fr|Grena]] || style="background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]''' || style="background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]''' || [[File:Pomeg.png|30px]]&lt;br&gt;[[Pomeg/fr|Grena]]
+|- style="height: 26px; background-color:#9C7D98;"
+| [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]''' || [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]''' || [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]''' || [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]''' || [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]'''
+|- style="background-color:#9C7D98;"
+| [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]''' || [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]''' || [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]''' || [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]''' || [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]'''
+|-
+| style="background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]''' || [[File:Pomeg.png|30px]]&lt;br&gt;[[Pomeg/fr|Grena]] || style="background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]''' || style="background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]''' || [[File:Pomeg.png|30px]]&lt;br&gt;[[Pomeg/fr|Grena]]
+|}
+
+=== Tableau de chronométrage ===
+{| class="wikitable"| style="text-align: center;"
+|+ ''Tous les temps indiqués sont basés sur le temps restant avant que la première baie plantée n'arrive à maturité''
+! ! Baie !! Temps de plantation &lt;br&gt; sans modificateur !! Temps de plantation avec &lt;br&gt; Engrais ou Kwakarrosoir || Temps de plantation avec &lt;br&gt; Engrais et Kwakarrosoir
+|-
+| [[Pomeg/fr|Grena]] || - || - || -
+|-
+| [[Razz/fr|Framby]] || 4 mins 10 secs à maturité || 2 mins 47 secs à maturité || Non optimal
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Uses==
+===Mutations===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Tamato berries can be used to mutate the following berries.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Spelon.png|20px]] [[Spelon]] || -
+|-
+| [[File:Occa.png|20px]] [[Occa]] || [[File:Razz.png|20px]] [[Razz]] &lt;br&gt; [[File:Figy.png|20px]] [[Figy]] &lt;br&gt; [[File:Spelon.png|20px]] [[Spelon]]
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>LuK</username>
+      <id>96</id>
+    </contributor>
+    <comment>Created page with "=== Tableau de chronométrage === {| class="wikitable"| style="text-align: center;" |+ ''Tous les temps indiqués sont basés sur le temps restant avant que la première baie plantée n'arrive à maturité'' ! ! Baie !! Temps de plantation &lt;br&gt; sans modificateur !! Temps de plantation avec &lt;br&gt; Engrais ou Kwakarrosoir || Temps de plantation avec &lt;br&gt; Engrais et Kwakarrosoir |- | [[Pomeg/fr|Grena]] || - || - || - |- | [[Razz/fr|Framby]] || 4 mins 10 secs à maturité || 2..."</comment>
+    <model>wikitext</model>
+    <parentid>23920</parentid>
+    <sha1>a3401dd4c173f63c1ea9d3d6cf773e689a034b8e</sha1>
+  </revision>
+  <revision>
+    <id>23920</id>
+    <timestamp>2022-08-13T14:56:15Z</timestamp>
+    <text bytes="5481" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #26 Tamato
+|image   = [[File:Tamato.png]]
+|caption = Cette grosse Baie est extrêmement épicée. Mangée en hiver, elle réchauffe le corps de l'intérieur.
+|growtime  = 2h 24m 0s
+|harvest = 25 baies
+|replant = 20%
+|mutation = 0,05%
+|points = 625
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*20 épicée 
+*10 sèche
+*0 sucrée
+*0 amère
+*0 acide
+}}
+
+'''Tamato''' est un type de [[Berries/fr|Baie]] qui peut être plantée dans la [[Farm/fr|Ferme]]. Elle s'obtient en entourant une [[Razz/fr|Framby]] avec au moins 1 [[Pomeg/fr|Grena]]. La [[Razz/fr|Framby]] aura alors des chances de muter en Tamato.
+
+== Tables de croissance ==
+=== Stades de croissance ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Pousse !! Arbuste !! Fleuri !! Baie
+|-
+! Temps écoulé depuis plantation
+| 7 mins 10 secs || 23 mins 10 secs || 1 heure 6 mins 40 secs || 2 heures 24 mins - 4 heures 48 mins
+|-
+! Animation
+|  &lt;center&gt;  [[File:AllTreeSprout.png|50px]] ||  &lt;center&gt; [[File:TamatoTreeTaller.png|50px]] ||  &lt;center&gt; [[File:TamatoTreeBloom.png|50px]] ||  &lt;center&gt; [[File:TamatoTreeBerry.png|50px]]
+|}
+
+=== Temps de croissance avec modificateurs  ===
+{| class="wikitable" | style="text-align: center;"
+! Modificateur !! Temps maturité-flétrissement !! Nombre de Fertipousse requis
+|-
+! Aucun
+| 2 heures 24 mins -&lt;br&gt; 4 heures 48 mins || ---
+|-
+! Engrais ou Kwakarroisoir
+| 1 heure 36 mins -&lt;br&gt; 3 heures 12 mins || 20 engrais
+|-
+! Engrais et Kwakarroisoir
+| 1 heure 4 mins -&lt;br&gt; 2 heures 8 mins || 13 engrais
+|}
+
+== Organigramme ==
+[[File:Tamato_-_Graph_découverte.png|350px]]
+&lt;br&gt;
+
+== Stratégie de mutation ==
+=== Formations possibles ===
+
+Vous pouvez remplir votre ferme de la manière suivante pour obtenir des baies Tamato. Les cases violettes indiquent où les mutations peuvent avoir lieu.
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation&amp;nbsp;de&amp;nbsp;base
+|-
+| style="width: 60px; background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]''' || style="width: 60px; background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]'''
+|-
+| style="background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]''' || [[File:Pomeg.png|30px]]&lt;br&gt;[[Pomeg/fr|Grena]]
+|}
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation optimisée
+|-
+| style="width: 60px; background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]''' || style="width: 60px; background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]''' || style="width: 60px; background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]''' || style="width: 60px; background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]''' || style="width: 60px; background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]'''
+|-
+| style="background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]''' || [[File:Pomeg.png|30px]]&lt;br&gt;[[Pomeg/fr|Grena]] || style="background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]''' || style="background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]''' || [[File:Pomeg.png|30px]]&lt;br&gt;[[Pomeg/fr|Grena]]
+|- style="height: 26px; background-color:#9C7D98;"
+| [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]''' || [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]''' || [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]''' || [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]''' || [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]'''
+|- style="background-color:#9C7D98;"
+| [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]''' || [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]''' || [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]''' || [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]''' || [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]'''
+|-
+| style="background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]''' || [[File:Pomeg.png|30px]]&lt;br&gt;[[Pomeg/fr|Grena]] || style="background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]''' || style="background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]''' || [[File:Pomeg.png|30px]]&lt;br&gt;[[Pomeg/fr|Grena]]
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+=== Timing Table ===
+{| class="wikitable"| style="text-align: center;"
+|+ ''All planting times use the time-to-ripe remaining of the first planted berry for subsequent planting times''
+! Berry !! Planting Time with &lt;br&gt; No Modifier !! Planting Time with &lt;br&gt; Mulch or Sprayduck || Planting Time with &lt;br&gt;  Mulch &amp; Sprayduck
+|-
+| [[Pomeg]] || - || - || -
+|-
+| [[Razz]] || 4 mins 10 secs until ripe || 2 mins 47 secs until ripe || Not Practical
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Uses==
+===Mutations===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Tamato berries can be used to mutate the following berries.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Spelon.png|20px]] [[Spelon]] || -
+|-
+| [[File:Occa.png|20px]] [[Occa]] || [[File:Razz.png|20px]] [[Razz]] &lt;br&gt; [[File:Figy.png|20px]] [[Figy]] &lt;br&gt; [[File:Spelon.png|20px]] [[Spelon]]
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>LuK</username>
+      <id>96</id>
+    </contributor>
+    <comment>Created page with "{| class="wikitable" style="text-align: center;" |+ Formation optimisée |- | style="width: 60px; background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]''' || style="width: 60px; background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]''' || style="width: 60px; background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]''' || style="width: 60px; background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]''..."</comment>
+    <model>wikitext</model>
+    <parentid>23919</parentid>
+    <sha1>3a8bf32f4c943e32221b2b25eb4a7087e7cc24ad</sha1>
+  </revision>
+  <revision>
+    <id>23919</id>
+    <timestamp>2022-08-13T14:54:28Z</timestamp>
+    <text bytes="5309" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #26 Tamato
+|image   = [[File:Tamato.png]]
+|caption = Cette grosse Baie est extrêmement épicée. Mangée en hiver, elle réchauffe le corps de l'intérieur.
+|growtime  = 2h 24m 0s
+|harvest = 25 baies
+|replant = 20%
+|mutation = 0,05%
+|points = 625
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*20 épicée 
+*10 sèche
+*0 sucrée
+*0 amère
+*0 acide
+}}
+
+'''Tamato''' est un type de [[Berries/fr|Baie]] qui peut être plantée dans la [[Farm/fr|Ferme]]. Elle s'obtient en entourant une [[Razz/fr|Framby]] avec au moins 1 [[Pomeg/fr|Grena]]. La [[Razz/fr|Framby]] aura alors des chances de muter en Tamato.
+
+== Tables de croissance ==
+=== Stades de croissance ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Pousse !! Arbuste !! Fleuri !! Baie
+|-
+! Temps écoulé depuis plantation
+| 7 mins 10 secs || 23 mins 10 secs || 1 heure 6 mins 40 secs || 2 heures 24 mins - 4 heures 48 mins
+|-
+! Animation
+|  &lt;center&gt;  [[File:AllTreeSprout.png|50px]] ||  &lt;center&gt; [[File:TamatoTreeTaller.png|50px]] ||  &lt;center&gt; [[File:TamatoTreeBloom.png|50px]] ||  &lt;center&gt; [[File:TamatoTreeBerry.png|50px]]
+|}
+
+=== Temps de croissance avec modificateurs  ===
+{| class="wikitable" | style="text-align: center;"
+! Modificateur !! Temps maturité-flétrissement !! Nombre de Fertipousse requis
+|-
+! Aucun
+| 2 heures 24 mins -&lt;br&gt; 4 heures 48 mins || ---
+|-
+! Engrais ou Kwakarroisoir
+| 1 heure 36 mins -&lt;br&gt; 3 heures 12 mins || 20 engrais
+|-
+! Engrais et Kwakarroisoir
+| 1 heure 4 mins -&lt;br&gt; 2 heures 8 mins || 13 engrais
+|}
+
+== Organigramme ==
+[[File:Tamato_-_Graph_découverte.png|350px]]
+&lt;br&gt;
+
+== Stratégie de mutation ==
+=== Formations possibles ===
+
+Vous pouvez remplir votre ferme de la manière suivante pour obtenir des baies Tamato. Les cases violettes indiquent où les mutations peuvent avoir lieu.
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation&amp;nbsp;de&amp;nbsp;base
+|-
+| style="width: 60px; background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]''' || style="width: 60px; background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]'''
+|-
+| style="background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]''' || [[File:Pomeg.png|30px]]&lt;br&gt;[[Pomeg/fr|Grena]]
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Optimized Planting Formation
+|-
+| style="width: 60px; background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]''' || style="width: 60px; background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]''' || style="width: 60px; background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]''' || style="width: 60px; background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]''' || style="width: 60px; background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]'''
+|-
+| style="background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]''' || [[File:Pomeg.png|30px]]&lt;br&gt;[[Pomeg]] || style="background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]''' || style="background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]''' || [[File:Pomeg.png|30px]]&lt;br&gt;[[Pomeg]]
+|- style="height: 26px; background-color:#9C7D98;"
+| [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]''' || [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]''' || [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]''' || [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]''' || [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]'''
+|- style="background-color:#9C7D98;"
+| [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]''' || [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]''' || [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]''' || [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]''' || [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]'''
+|-
+| style="background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]''' || [[File:Pomeg.png|30px]]&lt;br&gt;[[Pomeg]] || style="background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]''' || style="background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]''' || [[File:Pomeg.png|30px]]&lt;br&gt;[[Pomeg]]
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+=== Timing Table ===
+{| class="wikitable"| style="text-align: center;"
+|+ ''All planting times use the time-to-ripe remaining of the first planted berry for subsequent planting times''
+! Berry !! Planting Time with &lt;br&gt; No Modifier !! Planting Time with &lt;br&gt; Mulch or Sprayduck || Planting Time with &lt;br&gt;  Mulch &amp; Sprayduck
+|-
+| [[Pomeg]] || - || - || -
+|-
+| [[Razz]] || 4 mins 10 secs until ripe || 2 mins 47 secs until ripe || Not Practical
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Uses==
+===Mutations===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Tamato berries can be used to mutate the following berries.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Spelon.png|20px]] [[Spelon]] || -
+|-
+| [[File:Occa.png|20px]] [[Occa]] || [[File:Razz.png|20px]] [[Razz]] &lt;br&gt; [[File:Figy.png|20px]] [[Figy]] &lt;br&gt; [[File:Spelon.png|20px]] [[Spelon]]
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>LuK</username>
+      <id>96</id>
+    </contributor>
+    <comment>Created page with "{| class="wikitable" style="text-align: center;" |+ Formation&amp;nbsp;de&amp;nbsp;base |- | style="width: 60px; background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]''' || style="width: 60px; background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]''' |- | style="background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz/fr|Framby]]''' || [[File:Pomeg.png|30px]]&lt;br&gt;[[Pomeg/fr|Grena]] |}"</comment>
+    <model>wikitext</model>
+    <parentid>23918</parentid>
+    <sha1>9322a9404506f9771aa274e7aa1366f09729029f</sha1>
+  </revision>
+  <revision>
+    <id>23918</id>
+    <timestamp>2022-08-13T14:53:39Z</timestamp>
+    <text bytes="5313" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #26 Tamato
+|image   = [[File:Tamato.png]]
+|caption = Cette grosse Baie est extrêmement épicée. Mangée en hiver, elle réchauffe le corps de l'intérieur.
+|growtime  = 2h 24m 0s
+|harvest = 25 baies
+|replant = 20%
+|mutation = 0,05%
+|points = 625
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*20 épicée 
+*10 sèche
+*0 sucrée
+*0 amère
+*0 acide
+}}
+
+'''Tamato''' est un type de [[Berries/fr|Baie]] qui peut être plantée dans la [[Farm/fr|Ferme]]. Elle s'obtient en entourant une [[Razz/fr|Framby]] avec au moins 1 [[Pomeg/fr|Grena]]. La [[Razz/fr|Framby]] aura alors des chances de muter en Tamato.
+
+== Tables de croissance ==
+=== Stades de croissance ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Pousse !! Arbuste !! Fleuri !! Baie
+|-
+! Temps écoulé depuis plantation
+| 7 mins 10 secs || 23 mins 10 secs || 1 heure 6 mins 40 secs || 2 heures 24 mins - 4 heures 48 mins
+|-
+! Animation
+|  &lt;center&gt;  [[File:AllTreeSprout.png|50px]] ||  &lt;center&gt; [[File:TamatoTreeTaller.png|50px]] ||  &lt;center&gt; [[File:TamatoTreeBloom.png|50px]] ||  &lt;center&gt; [[File:TamatoTreeBerry.png|50px]]
+|}
+
+=== Temps de croissance avec modificateurs  ===
+{| class="wikitable" | style="text-align: center;"
+! Modificateur !! Temps maturité-flétrissement !! Nombre de Fertipousse requis
+|-
+! Aucun
+| 2 heures 24 mins -&lt;br&gt; 4 heures 48 mins || ---
+|-
+! Engrais ou Kwakarroisoir
+| 1 heure 36 mins -&lt;br&gt; 3 heures 12 mins || 20 engrais
+|-
+! Engrais et Kwakarroisoir
+| 1 heure 4 mins -&lt;br&gt; 2 heures 8 mins || 13 engrais
+|}
+
+== Organigramme ==
+[[File:Tamato_-_Graph_découverte.png|350px]]
+&lt;br&gt;
+
+== Stratégie de mutation ==
+=== Formations possibles ===
+
+Vous pouvez remplir votre ferme de la manière suivante pour obtenir des baies Tamato. Les cases violettes indiquent où les mutations peuvent avoir lieu.
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Base Formation
+|-
+| style="width: 60px; background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]''' || style="width: 60px; background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]'''
+|-
+| style="background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]''' || [[File:Pomeg.png|30px]]&lt;br&gt;[[Pomeg]]
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Optimized Planting Formation
+|-
+| style="width: 60px; background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]''' || style="width: 60px; background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]''' || style="width: 60px; background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]''' || style="width: 60px; background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]''' || style="width: 60px; background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]'''
+|-
+| style="background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]''' || [[File:Pomeg.png|30px]]&lt;br&gt;[[Pomeg]] || style="background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]''' || style="background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]''' || [[File:Pomeg.png|30px]]&lt;br&gt;[[Pomeg]]
+|- style="height: 26px; background-color:#9C7D98;"
+| [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]''' || [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]''' || [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]''' || [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]''' || [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]'''
+|- style="background-color:#9C7D98;"
+| [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]''' || [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]''' || [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]''' || [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]''' || [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]'''
+|-
+| style="background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]''' || [[File:Pomeg.png|30px]]&lt;br&gt;[[Pomeg]] || style="background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]''' || style="background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]''' || [[File:Pomeg.png|30px]]&lt;br&gt;[[Pomeg]]
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+=== Timing Table ===
+{| class="wikitable"| style="text-align: center;"
+|+ ''All planting times use the time-to-ripe remaining of the first planted berry for subsequent planting times''
+! Berry !! Planting Time with &lt;br&gt; No Modifier !! Planting Time with &lt;br&gt; Mulch or Sprayduck || Planting Time with &lt;br&gt;  Mulch &amp; Sprayduck
+|-
+| [[Pomeg]] || - || - || -
+|-
+| [[Razz]] || 4 mins 10 secs until ripe || 2 mins 47 secs until ripe || Not Practical
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Uses==
+===Mutations===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Tamato berries can be used to mutate the following berries.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Spelon.png|20px]] [[Spelon]] || -
+|-
+| [[File:Occa.png|20px]] [[Occa]] || [[File:Razz.png|20px]] [[Razz]] &lt;br&gt; [[File:Figy.png|20px]] [[Figy]] &lt;br&gt; [[File:Spelon.png|20px]] [[Spelon]]
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>LuK</username>
+      <id>96</id>
+    </contributor>
+    <comment>Created page with "Vous pouvez remplir votre ferme de la manière suivante pour obtenir des baies Tamato. Les cases violettes indiquent où les mutations peuvent avoir lieu."</comment>
+    <model>wikitext</model>
+    <parentid>23917</parentid>
+    <sha1>0437ecf97d05d577c7c83abfa80f56682aa7ef8b</sha1>
+  </revision>
+  <revision>
+    <id>23917</id>
+    <timestamp>2022-08-13T14:53:23Z</timestamp>
+    <text bytes="5335" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #26 Tamato
+|image   = [[File:Tamato.png]]
+|caption = Cette grosse Baie est extrêmement épicée. Mangée en hiver, elle réchauffe le corps de l'intérieur.
+|growtime  = 2h 24m 0s
+|harvest = 25 baies
+|replant = 20%
+|mutation = 0,05%
+|points = 625
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*20 épicée 
+*10 sèche
+*0 sucrée
+*0 amère
+*0 acide
+}}
+
+'''Tamato''' est un type de [[Berries/fr|Baie]] qui peut être plantée dans la [[Farm/fr|Ferme]]. Elle s'obtient en entourant une [[Razz/fr|Framby]] avec au moins 1 [[Pomeg/fr|Grena]]. La [[Razz/fr|Framby]] aura alors des chances de muter en Tamato.
+
+== Tables de croissance ==
+=== Stades de croissance ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Pousse !! Arbuste !! Fleuri !! Baie
+|-
+! Temps écoulé depuis plantation
+| 7 mins 10 secs || 23 mins 10 secs || 1 heure 6 mins 40 secs || 2 heures 24 mins - 4 heures 48 mins
+|-
+! Animation
+|  &lt;center&gt;  [[File:AllTreeSprout.png|50px]] ||  &lt;center&gt; [[File:TamatoTreeTaller.png|50px]] ||  &lt;center&gt; [[File:TamatoTreeBloom.png|50px]] ||  &lt;center&gt; [[File:TamatoTreeBerry.png|50px]]
+|}
+
+=== Temps de croissance avec modificateurs  ===
+{| class="wikitable" | style="text-align: center;"
+! Modificateur !! Temps maturité-flétrissement !! Nombre de Fertipousse requis
+|-
+! Aucun
+| 2 heures 24 mins -&lt;br&gt; 4 heures 48 mins || ---
+|-
+! Engrais ou Kwakarroisoir
+| 1 heure 36 mins -&lt;br&gt; 3 heures 12 mins || 20 engrais
+|-
+! Engrais et Kwakarroisoir
+| 1 heure 4 mins -&lt;br&gt; 2 heures 8 mins || 13 engrais
+|}
+
+== Organigramme ==
+[[File:Tamato_-_Graph_découverte.png|350px]]
+&lt;br&gt;
+
+== Stratégie de mutation ==
+=== Formations possibles ===
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+You can fill your farm in the following way to obtain Tamato berries. Purple squares indicate where mutations can occur.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Base Formation
+|-
+| style="width: 60px; background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]''' || style="width: 60px; background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]'''
+|-
+| style="background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]''' || [[File:Pomeg.png|30px]]&lt;br&gt;[[Pomeg]]
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Optimized Planting Formation
+|-
+| style="width: 60px; background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]''' || style="width: 60px; background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]''' || style="width: 60px; background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]''' || style="width: 60px; background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]''' || style="width: 60px; background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]'''
+|-
+| style="background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]''' || [[File:Pomeg.png|30px]]&lt;br&gt;[[Pomeg]] || style="background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]''' || style="background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]''' || [[File:Pomeg.png|30px]]&lt;br&gt;[[Pomeg]]
+|- style="height: 26px; background-color:#9C7D98;"
+| [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]''' || [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]''' || [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]''' || [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]''' || [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]'''
+|- style="background-color:#9C7D98;"
+| [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]''' || [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]''' || [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]''' || [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]''' || [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]'''
+|-
+| style="background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]''' || [[File:Pomeg.png|30px]]&lt;br&gt;[[Pomeg]] || style="background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]''' || style="background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]''' || [[File:Pomeg.png|30px]]&lt;br&gt;[[Pomeg]]
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+=== Timing Table ===
+{| class="wikitable"| style="text-align: center;"
+|+ ''All planting times use the time-to-ripe remaining of the first planted berry for subsequent planting times''
+! Berry !! Planting Time with &lt;br&gt; No Modifier !! Planting Time with &lt;br&gt; Mulch or Sprayduck || Planting Time with &lt;br&gt;  Mulch &amp; Sprayduck
+|-
+| [[Pomeg]] || - || - || -
+|-
+| [[Razz]] || 4 mins 10 secs until ripe || 2 mins 47 secs until ripe || Not Practical
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Uses==
+===Mutations===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Tamato berries can be used to mutate the following berries.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Spelon.png|20px]] [[Spelon]] || -
+|-
+| [[File:Occa.png|20px]] [[Occa]] || [[File:Razz.png|20px]] [[Razz]] &lt;br&gt; [[File:Figy.png|20px]] [[Figy]] &lt;br&gt; [[File:Spelon.png|20px]] [[Spelon]]
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>LuK</username>
+      <id>96</id>
+    </contributor>
+    <comment>Created page with "== Stratégie de mutation == === Formations possibles ==="</comment>
+    <model>wikitext</model>
+    <parentid>23916</parentid>
+    <sha1>905a366cb2e383cca873bea4f3cd1666e2e6ede0</sha1>
+  </revision>
+  <revision>
+    <id>23916</id>
+    <timestamp>2022-08-13T14:53:14Z</timestamp>
+    <text bytes="5394" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #26 Tamato
+|image   = [[File:Tamato.png]]
+|caption = Cette grosse Baie est extrêmement épicée. Mangée en hiver, elle réchauffe le corps de l'intérieur.
+|growtime  = 2h 24m 0s
+|harvest = 25 baies
+|replant = 20%
+|mutation = 0,05%
+|points = 625
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*20 épicée 
+*10 sèche
+*0 sucrée
+*0 amère
+*0 acide
+}}
+
+'''Tamato''' est un type de [[Berries/fr|Baie]] qui peut être plantée dans la [[Farm/fr|Ferme]]. Elle s'obtient en entourant une [[Razz/fr|Framby]] avec au moins 1 [[Pomeg/fr|Grena]]. La [[Razz/fr|Framby]] aura alors des chances de muter en Tamato.
+
+== Tables de croissance ==
+=== Stades de croissance ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Pousse !! Arbuste !! Fleuri !! Baie
+|-
+! Temps écoulé depuis plantation
+| 7 mins 10 secs || 23 mins 10 secs || 1 heure 6 mins 40 secs || 2 heures 24 mins - 4 heures 48 mins
+|-
+! Animation
+|  &lt;center&gt;  [[File:AllTreeSprout.png|50px]] ||  &lt;center&gt; [[File:TamatoTreeTaller.png|50px]] ||  &lt;center&gt; [[File:TamatoTreeBloom.png|50px]] ||  &lt;center&gt; [[File:TamatoTreeBerry.png|50px]]
+|}
+
+=== Temps de croissance avec modificateurs  ===
+{| class="wikitable" | style="text-align: center;"
+! Modificateur !! Temps maturité-flétrissement !! Nombre de Fertipousse requis
+|-
+! Aucun
+| 2 heures 24 mins -&lt;br&gt; 4 heures 48 mins || ---
+|-
+! Engrais ou Kwakarroisoir
+| 1 heure 36 mins -&lt;br&gt; 3 heures 12 mins || 20 engrais
+|-
+! Engrais et Kwakarroisoir
+| 1 heure 4 mins -&lt;br&gt; 2 heures 8 mins || 13 engrais
+|}
+
+== Organigramme ==
+[[File:Tamato_-_Graph_découverte.png|350px]]
+&lt;br&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Mutation Strategy ==
+=== Possible Planting Formations ===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+You can fill your farm in the following way to obtain Tamato berries. Purple squares indicate where mutations can occur.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Base Formation
+|-
+| style="width: 60px; background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]''' || style="width: 60px; background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]'''
+|-
+| style="background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]''' || [[File:Pomeg.png|30px]]&lt;br&gt;[[Pomeg]]
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Optimized Planting Formation
+|-
+| style="width: 60px; background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]''' || style="width: 60px; background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]''' || style="width: 60px; background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]''' || style="width: 60px; background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]''' || style="width: 60px; background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]'''
+|-
+| style="background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]''' || [[File:Pomeg.png|30px]]&lt;br&gt;[[Pomeg]] || style="background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]''' || style="background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]''' || [[File:Pomeg.png|30px]]&lt;br&gt;[[Pomeg]]
+|- style="height: 26px; background-color:#9C7D98;"
+| [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]''' || [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]''' || [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]''' || [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]''' || [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]'''
+|- style="background-color:#9C7D98;"
+| [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]''' || [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]''' || [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]''' || [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]''' || [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]'''
+|-
+| style="background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]''' || [[File:Pomeg.png|30px]]&lt;br&gt;[[Pomeg]] || style="background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]''' || style="background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]''' || [[File:Pomeg.png|30px]]&lt;br&gt;[[Pomeg]]
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+=== Timing Table ===
+{| class="wikitable"| style="text-align: center;"
+|+ ''All planting times use the time-to-ripe remaining of the first planted berry for subsequent planting times''
+! Berry !! Planting Time with &lt;br&gt; No Modifier !! Planting Time with &lt;br&gt; Mulch or Sprayduck || Planting Time with &lt;br&gt;  Mulch &amp; Sprayduck
+|-
+| [[Pomeg]] || - || - || -
+|-
+| [[Razz]] || 4 mins 10 secs until ripe || 2 mins 47 secs until ripe || Not Practical
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Uses==
+===Mutations===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Tamato berries can be used to mutate the following berries.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Spelon.png|20px]] [[Spelon]] || -
+|-
+| [[File:Occa.png|20px]] [[Occa]] || [[File:Razz.png|20px]] [[Razz]] &lt;br&gt; [[File:Figy.png|20px]] [[Figy]] &lt;br&gt; [[File:Spelon.png|20px]] [[Spelon]]
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>LuK</username>
+      <id>96</id>
+    </contributor>
+    <comment>Created page with "== Organigramme == [[File:Tamato_-_Graph_découverte.png|350px]] &lt;br&gt;"</comment>
+    <model>wikitext</model>
+    <parentid>23915</parentid>
+    <sha1>8c30d31136e4ad2d0f14424252bd0243137b81ba</sha1>
+  </revision>
+  <revision>
+    <id>23915</id>
+    <timestamp>2022-08-13T14:51:58Z</timestamp>
+    <text bytes="5440" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #26 Tamato
+|image   = [[File:Tamato.png]]
+|caption = Cette grosse Baie est extrêmement épicée. Mangée en hiver, elle réchauffe le corps de l'intérieur.
+|growtime  = 2h 24m 0s
+|harvest = 25 baies
+|replant = 20%
+|mutation = 0,05%
+|points = 625
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*20 épicée 
+*10 sèche
+*0 sucrée
+*0 amère
+*0 acide
+}}
+
+'''Tamato''' est un type de [[Berries/fr|Baie]] qui peut être plantée dans la [[Farm/fr|Ferme]]. Elle s'obtient en entourant une [[Razz/fr|Framby]] avec au moins 1 [[Pomeg/fr|Grena]]. La [[Razz/fr|Framby]] aura alors des chances de muter en Tamato.
+
+== Tables de croissance ==
+=== Stades de croissance ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Pousse !! Arbuste !! Fleuri !! Baie
+|-
+! Temps écoulé depuis plantation
+| 7 mins 10 secs || 23 mins 10 secs || 1 heure 6 mins 40 secs || 2 heures 24 mins - 4 heures 48 mins
+|-
+! Animation
+|  &lt;center&gt;  [[File:AllTreeSprout.png|50px]] ||  &lt;center&gt; [[File:TamatoTreeTaller.png|50px]] ||  &lt;center&gt; [[File:TamatoTreeBloom.png|50px]] ||  &lt;center&gt; [[File:TamatoTreeBerry.png|50px]]
+|}
+
+=== Temps de croissance avec modificateurs  ===
+{| class="wikitable" | style="text-align: center;"
+! Modificateur !! Temps maturité-flétrissement !! Nombre de Fertipousse requis
+|-
+! Aucun
+| 2 heures 24 mins -&lt;br&gt; 4 heures 48 mins || ---
+|-
+! Engrais ou Kwakarroisoir
+| 1 heure 36 mins -&lt;br&gt; 3 heures 12 mins || 20 engrais
+|-
+! Engrais et Kwakarroisoir
+| 1 heure 4 mins -&lt;br&gt; 2 heures 8 mins || 13 engrais
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Flow Chart ==
+[[File:Tamato_Flow_Chart1.png|350px]]
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Mutation Strategy ==
+=== Possible Planting Formations ===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+You can fill your farm in the following way to obtain Tamato berries. Purple squares indicate where mutations can occur.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Base Formation
+|-
+| style="width: 60px; background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]''' || style="width: 60px; background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]'''
+|-
+| style="background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]''' || [[File:Pomeg.png|30px]]&lt;br&gt;[[Pomeg]]
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Optimized Planting Formation
+|-
+| style="width: 60px; background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]''' || style="width: 60px; background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]''' || style="width: 60px; background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]''' || style="width: 60px; background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]''' || style="width: 60px; background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]'''
+|-
+| style="background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]''' || [[File:Pomeg.png|30px]]&lt;br&gt;[[Pomeg]] || style="background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]''' || style="background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]''' || [[File:Pomeg.png|30px]]&lt;br&gt;[[Pomeg]]
+|- style="height: 26px; background-color:#9C7D98;"
+| [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]''' || [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]''' || [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]''' || [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]''' || [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]'''
+|- style="background-color:#9C7D98;"
+| [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]''' || [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]''' || [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]''' || [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]''' || [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]'''
+|-
+| style="background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]''' || [[File:Pomeg.png|30px]]&lt;br&gt;[[Pomeg]] || style="background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]''' || style="background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]''' || [[File:Pomeg.png|30px]]&lt;br&gt;[[Pomeg]]
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+=== Timing Table ===
+{| class="wikitable"| style="text-align: center;"
+|+ ''All planting times use the time-to-ripe remaining of the first planted berry for subsequent planting times''
+! Berry !! Planting Time with &lt;br&gt; No Modifier !! Planting Time with &lt;br&gt; Mulch or Sprayduck || Planting Time with &lt;br&gt;  Mulch &amp; Sprayduck
+|-
+| [[Pomeg]] || - || - || -
+|-
+| [[Razz]] || 4 mins 10 secs until ripe || 2 mins 47 secs until ripe || Not Practical
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Uses==
+===Mutations===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Tamato berries can be used to mutate the following berries.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Spelon.png|20px]] [[Spelon]] || -
+|-
+| [[File:Occa.png|20px]] [[Occa]] || [[File:Razz.png|20px]] [[Razz]] &lt;br&gt; [[File:Figy.png|20px]] [[Figy]] &lt;br&gt; [[File:Spelon.png|20px]] [[Spelon]]
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>LuK</username>
+      <id>96</id>
+    </contributor>
+    <comment>Created page with "=== Temps de croissance avec modificateurs  === {| class="wikitable" | style="text-align: center;" ! Modificateur !! Temps maturité-flétrissement !! Nombre de Fertipousse requis |- ! Aucun | 2 heures 24 mins -&lt;br&gt; 4 heures 48 mins || --- |- ! Engrais ou Kwakarroisoir | 1 heure 36 mins -&lt;br&gt; 3 heures 12 mins || 20 engrais |- ! Engrais et Kwakarroisoir | 1 heure 4 mins -&lt;br&gt; 2 heures 8 mins || 13 engrais |}"</comment>
+    <model>wikitext</model>
+    <parentid>23914</parentid>
+    <sha1>2d1c0032086112c025e3b419fd89e3a0bb094cfb</sha1>
+  </revision>
+</page>

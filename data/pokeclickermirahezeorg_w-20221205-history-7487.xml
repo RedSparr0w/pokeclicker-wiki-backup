@@ -1,0 +1,110 @@
+<page>
+  <title>Cave of Origin</title>
+  <ns>0</ns>
+  <id>399</id>
+  <revision>
+    <id>5456</id>
+    <timestamp>2022-06-27T16:20:03Z</timestamp>
+    <text bytes="2719" space="preserve">{{Infobox dungeon
+|name    = Cave of Origin
+|image   = [[File:Cave of Origin.png|300px]]
+|caption = A map of Cave of Origin.
+|tokens  = 34,000
+|location = On the West of Route 126, Northwest of Sootopolis City.
+}}
+'''Cave of Origin''' is a [[Dungeons|dungeon]] in [[Hoenn]]. It initially has 49 tiles arranged in a 7x7 square, including 7 chest tiles, 17 non-boss encounter tiles, and 1 boss encounter tile. Wild Encounters have 590,000 HP.
+
+== Encounter Tables ==
+
+===Wild Encounters===
+
+{| class="wikitable"
+|-
+! Wild Pokémon !! colspan=2|Trainers
+|-
+! Encounter !! Trainer !! Pokémon Team
+|-
+| [[File:Zubat.png|40px]] Zubat || colspan=2 rowspan=4|&lt;center&gt; N/A
+|-
+| [[File:Golbat.png|40px]] Golbat
+|-
+| [[File:Sableye.png|40px]] Sableye
+|-
+| [[File:Mawile.png|40px]] Mawile
+|-
+|}
+
+===Boss Encounters===
+{| class="wikitable"
+|-
+! Wild Pokémon !! Base Health !! Boss Trainer !! Pokémon Team !! Base Health
+|-
+| [[File:Exploud.png|40px]] Exploud || &lt;center&gt;2,000,000 || colspan=3 rowspan=3|&lt;center&gt; N/A
+|-
+| [[File:Kyogre.png|40px]] '''Kyogre*''' || rowspan=2|&lt;center&gt;4,700,000
+|-
+| [[File:Groudon.png|40px]] '''Groudon*'''
+|-
+|}
+
+'''*Must be Hoenn Champion to unlock Kyogre and Groudon'''
+
+==Items==
+
+===No Debuff===
+
+{| class="wikitable"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears !! 1500 Clears !! Requirement
+|-
+| {{Bag2|XAttack}} || 3.75 || 65.54% || 64.83% || 59.59% || 58.26% || rowspan=5|&lt;center&gt;N/A
+|-
+| {{Bag2|Pomeg}} || 3.25 || 16.92% || 16.93% || 16.23% || 15.87%
+|-
+| {{Bag2|Grepa}} || 3.25 || 16.92% || 16.93% || 16.23% || 15.87%
+|-
+| {{Bag2|Revive}} || 2 || 0.58% || 0.82% || 3.41% || 3.33%
+|-
+| {{Bag2|Mystery Egg}} || 1 || 0.04% || 0.50% || 2.27% || 2.22%
+|-
+| {{Bag2|Protein}} || 0 || 0.00% || 0.00% || 1.14% || 1.11% || &lt;center&gt; 400 Clears
+|-
+| {{Bag2|Lum}} || 0 || 0.00% || 0.00% || 1.14% || 1.11% || &lt;center&gt; 150 Clears
+|}
+
+===Debuff Drop Table===
+
+After Reaching Kalos, the drop chance for items in Hoenn will be debuffed for any loot with weight &lt; 2.
+
+{| class="wikitable collapsible collapsed"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears !! 1500 Clears !! Requirement
+|-
+| {{Bag2|XAttack}} || 3.75 || 65.56% || 65.14% || 62.28% || 62.20% || rowspan=5|&lt;center&gt;N/A
+|-
+| {{Bag2|Pomeg}} || 3.25 || 16.93% || 17.01% || 16.96% || 16.94%
+|-
+| {{Bag2|Grepa}} || 3.25 || 16.93% || 17.01% || 16.96% || 16.94%
+|-
+| {{Bag2|Revive}} || 2 || 0.58% || 0.82% || 3.56% || 3.56%
+|-
+| {{Bag2|Mystery Egg}} || 1 || 0.00025% || 0.025% || 0.12% || 0.12%
+|-
+| {{Bag2|Protein}} || 0 || 0.00% || 0.00% || 0.059% || 0.059% || &lt;center&gt;400 Clears
+|-
+| {{Bag2|Lum}} || 0 || 0.00% || 0.00% || 0.059% || 0.059% || &lt;center&gt;150 Clears
+|}
+
+{{Hoenn Dungeons}}
+
+[[Category:Dungeons]]</text>
+    <contributor>
+      <username>SomeonealiveQN</username>
+      <id>5</id>
+    </contributor>
+    <comment>/* Items */</comment>
+    <model>wikitext</model>
+    <parentid>5455</parentid>
+    <sha1>30b22952c8da83034f3ba5a028f845aab73c7bc0</sha1>
+  </revision>
+</page>

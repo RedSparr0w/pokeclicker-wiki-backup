@@ -1,0 +1,659 @@
+<page>
+  <title>Pomeg</title>
+  <ns>0</ns>
+  <id>572</id>
+  <revision>
+    <id>6895</id>
+    <timestamp>2021-01-01T23:01:03Z</timestamp>
+    <text bytes="3010" space="preserve">{{Infobox Berry
+|name    = #21 Pomeg
+|image   = [[File:Pomeg.png]]
+|caption = When this sweetly spicy Berry's thick skin is peeled, many pieces of the fruit spill out.
+|growtime  = 1h 30m 0s
+|harvest = 20 berries
+|replant = 20%
+|points = 500
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*10 spicy 
+*0 dry
+*10 sweet
+*10 bitter
+*0 sour
+}}
+=== Description ===
+'''Pomeg''' is a type of [[Berries|Berry]] that can be planted in [[Farm]]. It can be obtained by surrounding an empty plot with at least 1 [[Iapapa]] and at least 1 [[Mago]].
+
+=== Growth Tables ===
+==== Growth Stages ====
+{| class="wikitable"
+|+ Growth Stages
+!!! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 3 mins 20 secs || 20 mins || 1 hour 6 mins 40 secs || 1 hour 30 mins - 3 hours
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:PomegTreeTaller.png|50px]] || &lt;center&gt;[[File:PomegTreeBloom.png|50px]] || &lt;center&gt; [[File:PomegTreeBerry.png|50px]]
+|}
+
+==== Ripening Time with Modifiers  ====
+{| class="wikitable collapsible" | style="text-align: center;"
+! !! Ripe-Wither !! Boost Mulch Needed to Ripen
+|-
+! Time to Ripen &lt;br&gt; (No Modifiers)
+| 1 hour 6 mins 40 secs -&lt;br&gt; 2 hours 13 mins 20 secs || ---
+|-
+! Time to Ripen &lt;br&gt; (Mulch/Sprayduck)
+| 44 mins 26 secs -&lt;br&gt; 1 hour 28 mins 52 secs || 9 mulch
+|-
+! Time to Ripen &lt;br&gt; (Mulch*Sprayduck)
+| 29 mins 38 secs -&lt;br&gt; 59 mins 16 secs || 6 mulch
+|}
+
+=== Flow Chart ===
+&lt;br&gt;
+{| style="text-align: center;"
+|+ '''Flow Chart to get this berry'''
+|-
+| Random&lt;br&gt;Drop ||  || Random&lt;br&gt;Drop 
+|-
+| ↓ || || ↓ 
+|-
+|  [[File:Pecha.png|20px]] [[Pecha]] || || [[File:Aspear.png|20px]] [[Aspear]]
+|-
+| ↓ || || ↓
+|-
+|  [[File:Iapapa.png|20px]] [[Iapapa]] || + || [[File:Mago.png|20px]] [[Mago]]
+|-
+| || ↓ ||
+|-
+|  || [[File:Pomeg.png|20px]] [[Pomeg]] 
+|}
+&lt;br&gt;
+
+=== Mutation Strategy ===
+==== Possible Planting Formations ====
+
+You can fill your [[farm]] in following way to obtain Pomeg berry.
+
+{| class="wikitable" style="text-align: center;"
+|+ Farm
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Iapapa.png|30px]] [[Iapapa]] || style="width: 40px;" | || style="width: 40px;" | || style="width: 40px;" | [[File:Iapapa.png|30px]] [[Iapapa]] || style="width: 40px;" | 
+|-
+| || [[File:Mago.png|30px]] [[Mago]] ||  ||  || [[File:Mago.png|30px]] [[Mago]] 
+|- style="height: 50px;"
+| || || || || 
+|-
+| [[File:Iapapa.png|30px]] [[Iapapa]] || || || [[File:Iapapa.png|30px]] [[Iapapa]] || 
+|-
+| || [[File:Mago.png|30px]] [[Mago]] ||  ||  || [[File:Mago.png|30px]] [[Mago]] 
+|}
+
+==== Timing Table ====
+{| class="collapsible wikitable"| style="text-align: center;"
+|+ ''All planting times use the time-to-ripe remaining of the first planted berry for subsequent planting times''
+! Berry !! Planting Time with &lt;br&gt; No Modifier !! Planting Time with &lt;br&gt; Mulch/Sprayduck || Planting Time with &lt;br&gt;  Mulch*Sprayduck
+|-
+| [[Iapapa]] || - || - || -
+|-
+| [[Mago]] || 6 mins 10 secs until ripe || 3 mins 26 secs until ripe || Not Practical
+|-
+|}
+
+{{Berries}}</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment>/* Ripening Time with Modifiers */</comment>
+    <model>wikitext</model>
+    <parentid>6894</parentid>
+    <sha1>d29b354ff72e69663dc2aa5273e0d48af872d305</sha1>
+  </revision>
+  <revision>
+    <id>6894</id>
+    <timestamp>2021-01-01T23:00:00Z</timestamp>
+    <text bytes="3007" space="preserve">{{Infobox Berry
+|name    = #21 Pomeg
+|image   = [[File:Pomeg.png]]
+|caption = When this sweetly spicy Berry's thick skin is peeled, many pieces of the fruit spill out.
+|growtime  = 1h 30m 0s
+|harvest = 20 berries
+|replant = 20%
+|points = 500
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*10 spicy 
+*0 dry
+*10 sweet
+*10 bitter
+*0 sour
+}}
+=== Description ===
+'''Pomeg''' is a type of [[Berries|Berry]] that can be planted in [[Farm]]. It can be obtained by surrounding an empty plot with at least 1 [[Iapapa]] and at least 1 [[Mago]].
+
+=== Growth Tables ===
+==== Growth Stages ====
+{| class="wikitable"
+|+ Growth Stages
+!!! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 3 mins 20 secs || 20 mins || 1 hour 6 mins 40 secs || 1 hour 30 mins - 3 hours
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:PomegTreeTaller.png|50px]] || &lt;center&gt;[[File:PomegTreeBloom.png|50px]] || &lt;center&gt; [[File:PomegTreeBerry.png|50px]]
+|}
+
+==== Ripening Time with Modifiers  ====
+{| class="wikitable collapsible"
+! !! Ripe-Wither !! Boost Mulch Needed to Ripen
+|-
+! Time to Ripen &lt;br&gt; (No Modifiers)
+| 1 hour 6 mins 40 secs -&lt;br&gt; 2 hours 13 mins 20 secs || &lt;center&gt; ---
+|-
+! Time to Ripen &lt;br&gt; (Mulch/Sprayduck)
+| 44 mins 26 secs -&lt;br&gt; 1 hour 28 mins 52 secs || &lt;center&gt; 9 mulch
+|-
+! Time to Ripen &lt;br&gt; (Mulch*Sprayduck)
+| 29 mins 38 secs -&lt;br&gt; 59 mins 16 secs || &lt;center&gt; 6 mulch
+|}
+
+=== Flow Chart ===
+&lt;br&gt;
+{| style="text-align: center;"
+|+ '''Flow Chart to get this berry'''
+|-
+| Random&lt;br&gt;Drop ||  || Random&lt;br&gt;Drop 
+|-
+| ↓ || || ↓ 
+|-
+|  [[File:Pecha.png|20px]] [[Pecha]] || || [[File:Aspear.png|20px]] [[Aspear]]
+|-
+| ↓ || || ↓
+|-
+|  [[File:Iapapa.png|20px]] [[Iapapa]] || + || [[File:Mago.png|20px]] [[Mago]]
+|-
+| || ↓ ||
+|-
+|  || [[File:Pomeg.png|20px]] [[Pomeg]] 
+|}
+&lt;br&gt;
+
+=== Mutation Strategy ===
+==== Possible Planting Formations ====
+
+You can fill your [[farm]] in following way to obtain Pomeg berry.
+
+{| class="wikitable" style="text-align: center;"
+|+ Farm
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Iapapa.png|30px]] [[Iapapa]] || style="width: 40px;" | || style="width: 40px;" | || style="width: 40px;" | [[File:Iapapa.png|30px]] [[Iapapa]] || style="width: 40px;" | 
+|-
+| || [[File:Mago.png|30px]] [[Mago]] ||  ||  || [[File:Mago.png|30px]] [[Mago]] 
+|- style="height: 50px;"
+| || || || || 
+|-
+| [[File:Iapapa.png|30px]] [[Iapapa]] || || || [[File:Iapapa.png|30px]] [[Iapapa]] || 
+|-
+| || [[File:Mago.png|30px]] [[Mago]] ||  ||  || [[File:Mago.png|30px]] [[Mago]] 
+|}
+
+==== Timing Table ====
+{| class="collapsible wikitable"| style="text-align: center;"
+|+ ''All planting times use the time-to-ripe remaining of the first planted berry for subsequent planting times''
+! Berry !! Planting Time with &lt;br&gt; No Modifier !! Planting Time with &lt;br&gt; Mulch/Sprayduck || Planting Time with &lt;br&gt;  Mulch*Sprayduck
+|-
+| [[Iapapa]] || - || - || -
+|-
+| [[Mago]] || 6 mins 10 secs until ripe || 3 mins 26 secs until ripe || Not Practical
+|-
+|}
+
+{{Berries}}</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment>/* Timing Table */</comment>
+    <model>wikitext</model>
+    <parentid>6893</parentid>
+    <sha1>8aed6923ea079e68c12d3f8d89915fa570fd838a</sha1>
+  </revision>
+  <revision>
+    <id>6893</id>
+    <timestamp>2021-01-01T22:59:47Z</timestamp>
+    <text bytes="2996" space="preserve">{{Infobox Berry
+|name    = #21 Pomeg
+|image   = [[File:Pomeg.png]]
+|caption = When this sweetly spicy Berry's thick skin is peeled, many pieces of the fruit spill out.
+|growtime  = 1h 30m 0s
+|harvest = 20 berries
+|replant = 20%
+|points = 500
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*10 spicy 
+*0 dry
+*10 sweet
+*10 bitter
+*0 sour
+}}
+=== Description ===
+'''Pomeg''' is a type of [[Berries|Berry]] that can be planted in [[Farm]]. It can be obtained by surrounding an empty plot with at least 1 [[Iapapa]] and at least 1 [[Mago]].
+
+=== Growth Tables ===
+==== Growth Stages ====
+{| class="wikitable"
+|+ Growth Stages
+!!! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 3 mins 20 secs || 20 mins || 1 hour 6 mins 40 secs || 1 hour 30 mins - 3 hours
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:PomegTreeTaller.png|50px]] || &lt;center&gt;[[File:PomegTreeBloom.png|50px]] || &lt;center&gt; [[File:PomegTreeBerry.png|50px]]
+|}
+
+==== Ripening Time with Modifiers  ====
+{| class="wikitable collapsible"
+! !! Ripe-Wither !! Boost Mulch Needed to Ripen
+|-
+! Time to Ripen &lt;br&gt; (No Modifiers)
+| 1 hour 6 mins 40 secs -&lt;br&gt; 2 hours 13 mins 20 secs || &lt;center&gt; ---
+|-
+! Time to Ripen &lt;br&gt; (Mulch/Sprayduck)
+| 44 mins 26 secs -&lt;br&gt; 1 hour 28 mins 52 secs || &lt;center&gt; 9 mulch
+|-
+! Time to Ripen &lt;br&gt; (Mulch*Sprayduck)
+| 29 mins 38 secs -&lt;br&gt; 59 mins 16 secs || &lt;center&gt; 6 mulch
+|}
+
+=== Flow Chart ===
+&lt;br&gt;
+{| style="text-align: center;"
+|+ '''Flow Chart to get this berry'''
+|-
+| Random&lt;br&gt;Drop ||  || Random&lt;br&gt;Drop 
+|-
+| ↓ || || ↓ 
+|-
+|  [[File:Pecha.png|20px]] [[Pecha]] || || [[File:Aspear.png|20px]] [[Aspear]]
+|-
+| ↓ || || ↓
+|-
+|  [[File:Iapapa.png|20px]] [[Iapapa]] || + || [[File:Mago.png|20px]] [[Mago]]
+|-
+| || ↓ ||
+|-
+|  || [[File:Pomeg.png|20px]] [[Pomeg]] 
+|}
+&lt;br&gt;
+
+=== Mutation Strategy ===
+==== Possible Planting Formations ====
+
+You can fill your [[farm]] in following way to obtain Pomeg berry.
+
+{| class="wikitable" style="text-align: center;"
+|+ Farm
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Iapapa.png|30px]] [[Iapapa]] || style="width: 40px;" | || style="width: 40px;" | || style="width: 40px;" | [[File:Iapapa.png|30px]] [[Iapapa]] || style="width: 40px;" | 
+|-
+| || [[File:Mago.png|30px]] [[Mago]] ||  ||  || [[File:Mago.png|30px]] [[Mago]] 
+|- style="height: 50px;"
+| || || || || 
+|-
+| [[File:Iapapa.png|30px]] [[Iapapa]] || || || [[File:Iapapa.png|30px]] [[Iapapa]] || 
+|-
+| || [[File:Mago.png|30px]] [[Mago]] ||  ||  || [[File:Mago.png|30px]] [[Mago]] 
+|}
+
+==== Timing Table ====
+{| class="collapsible wikitable"| style="text-align: center;"
+|+ ''All planting times use the time-to-ripe remaining of the first planted berry for subsequent planting times''
+! Berry !! Planting Time with &lt;br&gt; No Modifier !! Planting Time with &lt;br&gt; Mulch/Sprayduck || Planting Time with &lt;br&gt;  Mulch*Sprayduck
+|-
+| [[Iapapa]] || - || - || -
+|-
+| [[Mago]] || 6 mins 10 secs until ripe || 3 mins 26 secs || Not Practical
+|-
+|}
+
+{{Berries}}</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment>/* Timing Table */</comment>
+    <model>wikitext</model>
+    <parentid>6892</parentid>
+    <sha1>6407c47c92cfc6865e066d56486e59c0a11097c1</sha1>
+  </revision>
+  <revision>
+    <id>6892</id>
+    <timestamp>2021-01-01T22:50:46Z</timestamp>
+    <text bytes="3011" space="preserve">{{Infobox Berry
+|name    = #21 Pomeg
+|image   = [[File:Pomeg.png]]
+|caption = When this sweetly spicy Berry's thick skin is peeled, many pieces of the fruit spill out.
+|growtime  = 1h 30m 0s
+|harvest = 20 berries
+|replant = 20%
+|points = 500
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*10 spicy 
+*0 dry
+*10 sweet
+*10 bitter
+*0 sour
+}}
+=== Description ===
+'''Pomeg''' is a type of [[Berries|Berry]] that can be planted in [[Farm]]. It can be obtained by surrounding an empty plot with at least 1 [[Iapapa]] and at least 1 [[Mago]].
+
+=== Growth Tables ===
+==== Growth Stages ====
+{| class="wikitable"
+|+ Growth Stages
+!!! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 3 mins 20 secs || 20 mins || 1 hour 6 mins 40 secs || 1 hour 30 mins - 3 hours
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:PomegTreeTaller.png|50px]] || &lt;center&gt;[[File:PomegTreeBloom.png|50px]] || &lt;center&gt; [[File:PomegTreeBerry.png|50px]]
+|}
+
+==== Ripening Time with Modifiers  ====
+{| class="wikitable collapsible"
+! !! Ripe-Wither !! Boost Mulch Needed to Ripen
+|-
+! Time to Ripen &lt;br&gt; (No Modifiers)
+| 1 hour 6 mins 40 secs -&lt;br&gt; 2 hours 13 mins 20 secs || &lt;center&gt; ---
+|-
+! Time to Ripen &lt;br&gt; (Mulch/Sprayduck)
+| 44 mins 26 secs -&lt;br&gt; 1 hour 28 mins 52 secs || &lt;center&gt; 9 mulch
+|-
+! Time to Ripen &lt;br&gt; (Mulch*Sprayduck)
+| 29 mins 38 secs -&lt;br&gt; 59 mins 16 secs || &lt;center&gt; 6 mulch
+|}
+
+=== Flow Chart ===
+&lt;br&gt;
+{| style="text-align: center;"
+|+ '''Flow Chart to get this berry'''
+|-
+| Random&lt;br&gt;Drop ||  || Random&lt;br&gt;Drop 
+|-
+| ↓ || || ↓ 
+|-
+|  [[File:Pecha.png|20px]] [[Pecha]] || || [[File:Aspear.png|20px]] [[Aspear]]
+|-
+| ↓ || || ↓
+|-
+|  [[File:Iapapa.png|20px]] [[Iapapa]] || + || [[File:Mago.png|20px]] [[Mago]]
+|-
+| || ↓ ||
+|-
+|  || [[File:Pomeg.png|20px]] [[Pomeg]] 
+|}
+&lt;br&gt;
+
+=== Mutation Strategy ===
+==== Possible Planting Formations ====
+
+You can fill your [[farm]] in following way to obtain Pomeg berry.
+
+{| class="wikitable" style="text-align: center;"
+|+ Farm
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Iapapa.png|30px]] [[Iapapa]] || style="width: 40px;" | || style="width: 40px;" | || style="width: 40px;" | [[File:Iapapa.png|30px]] [[Iapapa]] || style="width: 40px;" | 
+|-
+| || [[File:Mago.png|30px]] [[Mago]] ||  ||  || [[File:Mago.png|30px]] [[Mago]] 
+|- style="height: 50px;"
+| || || || || 
+|-
+| [[File:Iapapa.png|30px]] [[Iapapa]] || || || [[File:Iapapa.png|30px]] [[Iapapa]] || 
+|-
+| || [[File:Mago.png|30px]] [[Mago]] ||  ||  || [[File:Mago.png|30px]] [[Mago]] 
+|}
+
+==== Timing Table ====
+{| class="collapsible wikitable"
+|+ ''All planting times use the time-to-ripe remaining of the first planted berry for subsequent planting times''
+! Berry !! Planting Time with &lt;br&gt; No Modifier !! Planting Time with &lt;br&gt; Mulch/Sprayduck || Planting Time with &lt;br&gt;  Mulch*Sprayduck
+|-
+| [[Iapapa]] || &lt;center&gt; - || &lt;center&gt; - || &lt;center&gt; -
+|-
+| [[Mago]] || 6 mins 10 secs until ripe || &lt;center&gt; Not Practical || &lt;center&gt; Not Practical
+|-
+|}
+
+{{Berries}}</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment>/* Timing Table */</comment>
+    <model>wikitext</model>
+    <parentid>6891</parentid>
+    <sha1>59b30c209d8468c55c10d2ebcae79df81e585918</sha1>
+  </revision>
+  <revision>
+    <id>6891</id>
+    <timestamp>2021-01-01T22:49:03Z</timestamp>
+    <text bytes="3011" space="preserve">{{Infobox Berry
+|name    = #21 Pomeg
+|image   = [[File:Pomeg.png]]
+|caption = When this sweetly spicy Berry's thick skin is peeled, many pieces of the fruit spill out.
+|growtime  = 1h 30m 0s
+|harvest = 20 berries
+|replant = 20%
+|points = 500
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*10 spicy 
+*0 dry
+*10 sweet
+*10 bitter
+*0 sour
+}}
+=== Description ===
+'''Pomeg''' is a type of [[Berries|Berry]] that can be planted in [[Farm]]. It can be obtained by surrounding an empty plot with at least 1 [[Iapapa]] and at least 1 [[Mago]].
+
+=== Growth Tables ===
+==== Growth Stages ====
+{| class="wikitable"
+|+ Growth Stages
+!!! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 3 mins 20 secs || 20 mins || 1 hour 6 mins 40 secs || 1 hour 30 mins - 3 hours
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:PomegTreeTaller.png|50px]] || &lt;center&gt;[[File:PomegTreeBloom.png|50px]] || &lt;center&gt; [[File:PomegTreeBerry.png|50px]]
+|}
+
+==== Ripening Time with Modifiers  ====
+{| class="wikitable collapsible"
+! !! Ripe-Wither !! Boost Mulch Needed to Ripen
+|-
+! Time to Ripen &lt;br&gt; (No Modifiers)
+| 1 hour 6 mins 40 secs -&lt;br&gt; 2 hours 13 mins 20 secs || &lt;center&gt; ---
+|-
+! Time to Ripen &lt;br&gt; (Mulch/Sprayduck)
+| 44 mins 26 secs -&lt;br&gt; 1 hour 28 mins 52 secs || &lt;center&gt; 9 mulch
+|-
+! Time to Ripen &lt;br&gt; (Mulch*Sprayduck)
+| 29 mins 38 secs -&lt;br&gt; 59 mins 16 secs || &lt;center&gt; 6 mulch
+|}
+
+=== Flow Chart ===
+&lt;br&gt;
+{| style="text-align: center;"
+|+ '''Flow Chart to get this berry'''
+|-
+| Random&lt;br&gt;Drop ||  || Random&lt;br&gt;Drop 
+|-
+| ↓ || || ↓ 
+|-
+|  [[File:Pecha.png|20px]] [[Pecha]] || || [[File:Aspear.png|20px]] [[Aspear]]
+|-
+| ↓ || || ↓
+|-
+|  [[File:Iapapa.png|20px]] [[Iapapa]] || + || [[File:Mago.png|20px]] [[Mago]]
+|-
+| || ↓ ||
+|-
+|  || [[File:Pomeg.png|20px]] [[Pomeg]] 
+|}
+&lt;br&gt;
+
+=== Mutation Strategy ===
+==== Possible Planting Formations ====
+
+You can fill your [[farm]] in following way to obtain Pomeg berry.
+
+{| class="wikitable" style="text-align: center;"
+|+ Farm
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Iapapa.png|30px]] [[Iapapa]] || style="width: 40px;" | || style="width: 40px;" | || style="width: 40px;" | [[File:Iapapa.png|30px]] [[Iapapa]] || style="width: 40px;" | 
+|-
+| || [[File:Mago.png|30px]] [[Mago]] ||  ||  || [[File:Mago.png|30px]] [[Mago]] 
+|- style="height: 50px;"
+| || || || || 
+|-
+| [[File:Iapapa.png|30px]] [[Iapapa]] || || || [[File:Iapapa.png|30px]] [[Iapapa]] || 
+|-
+| || [[File:Mago.png|30px]] [[Mago]] ||  ||  || [[File:Mago.png|30px]] [[Mago]] 
+|}
+
+==== Timing Table ====
+{| class="collapsible wikitable"
+|+ ''All planting times use the time-to-ripe remaining of the first planted berry for subsequent planting times''
+! Berry !! Planting Time with &lt;br&gt; No Modifier !! Planting Time with &lt;br&gt; Mulch/Sprayduck || Planting Time with &lt;br&gt;  Mulch*Sprayduck
+|-
+| [[Mago]] || &lt;center&gt; - || &lt;center&gt; - || &lt;center&gt; -
+|-
+| [[Iapapa]] || 6 mins 10 secs until ripe || &lt;center&gt; Not Practical || &lt;center&gt; Not Practical
+|-
+|}
+
+{{Berries}}</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment>/* Flow Chart */</comment>
+    <model>wikitext</model>
+    <parentid>6890</parentid>
+    <sha1>d582050decaf791e9c79c0be31aa6f7917e867f0</sha1>
+  </revision>
+  <revision>
+    <id>6890</id>
+    <timestamp>2021-01-01T22:48:47Z</timestamp>
+    <text bytes="3013" space="preserve">{{Infobox Berry
+|name    = #21 Pomeg
+|image   = [[File:Pomeg.png]]
+|caption = When this sweetly spicy Berry's thick skin is peeled, many pieces of the fruit spill out.
+|growtime  = 1h 30m 0s
+|harvest = 20 berries
+|replant = 20%
+|points = 500
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*10 spicy 
+*0 dry
+*10 sweet
+*10 bitter
+*0 sour
+}}
+=== Description ===
+'''Pomeg''' is a type of [[Berries|Berry]] that can be planted in [[Farm]]. It can be obtained by surrounding an empty plot with at least 1 [[Iapapa]] and at least 1 [[Mago]].
+
+=== Growth Tables ===
+==== Growth Stages ====
+{| class="wikitable"
+|+ Growth Stages
+!!! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 3 mins 20 secs || 20 mins || 1 hour 6 mins 40 secs || 1 hour 30 mins - 3 hours
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:PomegTreeTaller.png|50px]] || &lt;center&gt;[[File:PomegTreeBloom.png|50px]] || &lt;center&gt; [[File:PomegTreeBerry.png|50px]]
+|}
+
+==== Ripening Time with Modifiers  ====
+{| class="wikitable collapsible"
+! !! Ripe-Wither !! Boost Mulch Needed to Ripen
+|-
+! Time to Ripen &lt;br&gt; (No Modifiers)
+| 1 hour 6 mins 40 secs -&lt;br&gt; 2 hours 13 mins 20 secs || &lt;center&gt; ---
+|-
+! Time to Ripen &lt;br&gt; (Mulch/Sprayduck)
+| 44 mins 26 secs -&lt;br&gt; 1 hour 28 mins 52 secs || &lt;center&gt; 9 mulch
+|-
+! Time to Ripen &lt;br&gt; (Mulch*Sprayduck)
+| 29 mins 38 secs -&lt;br&gt; 59 mins 16 secs || &lt;center&gt; 6 mulch
+|}
+
+=== Flow Chart ===
+&lt;br&gt;
+{| style="text-align: center;"
+|+ '''Flow Chart to get this berry'''
+|-
+| Random&lt;br&gt;Drop ||  || Random&lt;br&gt;Drop 
+|-
+| ↓ || || ↓ 
+|-
+|  [[File:Pecha.png|20px]] [[Pecha]] || + || [[File:Aspear.png|20px]] [[Aspear]]
+|-
+| ↓ || || ↓
+|-
+|  [[File:Iapapa.png|20px]] [[Iapapa]] || + || [[File:Mago.png|20px]] [[Mago]]
+|-
+| || ↓ ||
+|-
+|  || [[File:Pomeg.png|20px]] [[Pomeg]] 
+|}
+&lt;br&gt;
+
+=== Mutation Strategy ===
+==== Possible Planting Formations ====
+
+You can fill your [[farm]] in following way to obtain Pomeg berry.
+
+{| class="wikitable" style="text-align: center;"
+|+ Farm
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Iapapa.png|30px]] [[Iapapa]] || style="width: 40px;" | || style="width: 40px;" | || style="width: 40px;" | [[File:Iapapa.png|30px]] [[Iapapa]] || style="width: 40px;" | 
+|-
+| || [[File:Mago.png|30px]] [[Mago]] ||  ||  || [[File:Mago.png|30px]] [[Mago]] 
+|- style="height: 50px;"
+| || || || || 
+|-
+| [[File:Iapapa.png|30px]] [[Iapapa]] || || || [[File:Iapapa.png|30px]] [[Iapapa]] || 
+|-
+| || [[File:Mago.png|30px]] [[Mago]] ||  ||  || [[File:Mago.png|30px]] [[Mago]] 
+|}
+
+==== Timing Table ====
+{| class="collapsible wikitable"
+|+ ''All planting times use the time-to-ripe remaining of the first planted berry for subsequent planting times''
+! Berry !! Planting Time with &lt;br&gt; No Modifier !! Planting Time with &lt;br&gt; Mulch/Sprayduck || Planting Time with &lt;br&gt;  Mulch*Sprayduck
+|-
+| [[Mago]] || &lt;center&gt; - || &lt;center&gt; - || &lt;center&gt; -
+|-
+| [[Iapapa]] || 6 mins 10 secs until ripe || &lt;center&gt; Not Practical || &lt;center&gt; Not Practical
+|-
+|}
+
+{{Berries}}</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment>Flow Chart + Timing Table + Growth Table</comment>
+    <model>wikitext</model>
+    <parentid>6889</parentid>
+    <sha1>a40f65734dd5dd82bf6af76c6d36bd00440391df</sha1>
+  </revision>
+</page>

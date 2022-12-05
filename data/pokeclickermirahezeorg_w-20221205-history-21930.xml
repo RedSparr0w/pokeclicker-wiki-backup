@@ -1,0 +1,31 @@
+<page>
+  <title>Template:Bag2</title>
+  <ns>10</ns>
+  <id>12</id>
+  <revision>
+    <id>304</id>
+    <timestamp>2022-08-08T11:20:28Z</timestamp>
+    <text bytes="124" space="preserve">[[File:{{{1}}}.png|24px|{{{1}}}|link={{{1}}}]] [[{{{1}}}|{{{2|{{{1}}}}}}]]&lt;noinclude&gt;[[Category:Link templates]]&lt;/noinclude&gt;</text>
+    <contributor>
+      <username>PetroleVB</username>
+      <id>36</id>
+    </contributor>
+    <comment>re-introducing a second argument for translation, same model as Bag4</comment>
+    <model>wikitext</model>
+    <parentid>303</parentid>
+    <sha1>9ddf3383b43d44268489985d7601a3d15ff1ae32</sha1>
+  </revision>
+  <revision>
+    <id>303</id>
+    <timestamp>2022-08-08T11:17:18Z</timestamp>
+    <text bytes="116" space="preserve">[[File:{{{1}}}.png|24px|{{{1}}}|link={{{1}}}]] [[{{{1}}}|{{{1}}}]]&lt;noinclude&gt;[[Category:Link templates]]&lt;/noinclude&gt;</text>
+    <contributor>
+      <username>PetroleVB</username>
+      <id>36</id>
+    </contributor>
+    <comment>Removing unused (?) second argument</comment>
+    <model>wikitext</model>
+    <parentid>302</parentid>
+    <sha1>bc585c318c17f001944a6547c39e0949baf53c97</sha1>
+  </revision>
+</page>

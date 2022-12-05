@@ -1,0 +1,1663 @@
+<page>
+  <title>Aguav/fr</title>
+  <ns>0</ns>
+  <id>8113</id>
+  <revision>
+    <id>22873</id>
+    <timestamp>2022-08-09T20:34:00Z</timestamp>
+    <text bytes="4587" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #18 Gowav
+|image   = [[File:Aguav.png]]
+|caption = Cette Baie est amère vers la tige. Sa fleur délicate absorbe très peu de lumière.
+|growtime  = 5m 50s
+|harvest = 17 baies
+|replant = 30%
+|mutation = 0.6%
+|points = 55
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 épicée
+*0 sèche
+*0 sucrée
+*15 amère
+*0 acide
+}}
+
+'''Gowav''' est un type de [[Berries/fr|Baie]] qui peut être plantée dans la [[Farm/fr|Ferme]]. Elle s'obtient en entourant une parcelle vide avec au moins avec 25, mais pas plus de 80 points de saveur amère et moins de 5 points pour toutes les autres saveurs. La baie [[Rawst/fr|Fraive]] doit avoir été débloquée pour pouvoir débloquer la Gowav.
+
+== Tables de croissance ==
+=== Stades de croissance ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+!!! Pousse !! Arbuste !! Fleuri !! Mûr
+|-
+! Temps écoulé depuis plantation
+| 40 secs || 2 mins 50 secs || 3 mins 40 secs || 5 mins 50 secs - 11 mins 40 secs
+|-
+! Animation
+|  &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:AguavTreeTaller.png|50px]] || &lt;center&gt; [[File:AguavTreeBloom.png|50px]] || &lt;center&gt; [[File:AguavTreeBerry.png|50px]]
+|}
+
+===Temps de croissance avec modificateurs===
+{| class="wikitable collapsible" | style="text-align: center;"
+! Modificateur !! Temps Maturité-Flétrissement
+|-
+! Aucun
+| 5 mins 50 secs -&lt;br&gt; 11 mins 40 secs
+|-
+! Kwakarrosoir
+| 3 mins 53 secs -&lt;br&gt; 7 mins 47 secs
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Flow Chart ==
+[[File:Aguav_Flow_Chart.png|100px]]
+&lt;br&gt;
+&lt;/div&gt;
+
+== Stratégie de mutation ==
+=== Formations de plantation possibles ===
+
+Vous pouvez remplir votre ferme de la manière suivante pour obtenir des baies Gowav. Les cases violettes indiquent où les mutations peuvent avoir lieu.
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation de base
+|- style="height: 50px;"
+| style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Rawst.png|30px]] [[Rawst/fr|Fraive]]
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Rawst.png|30px]] [[Rawst/fr|Fraive]] || [[File:Rawst.png|30px]] [[Rawst/fr|Fraive]]
+|}
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation de plantation optimisée
+|-
+| style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Rawst.png|30px]] [[Rawst/fr|Fraive]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Rawst.png|30px]] [[Rawst/fr|Fraive]]
+|-
+| [[File:Rawst.png|30px]] [[Rawst/fr|Fraive]] || [[File:Rawst.png|30px]] [[Rawst/fr|Fraive]] || style="background-color:#9C7D98;" | || [[File:Rawst.png|30px]] [[Rawst/fr|Fraive]] || [[File:Rawst.png|30px]] [[Rawst/fr|Fraive]] 
+|- style="height: 50px;"
+| style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" |
+|-
+| style="background-color:#9C7D98;" | || [[File:Rawst.png|30px]] [[Rawst/fr|Fraive]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Rawst.png|30px]] [[Rawst/fr|Fraive]] 
+|-
+| [[File:Rawst.png|30px]] [[Rawst/fr|Fraive]] || [[File:Rawst.png|30px]] [[Rawst/fr|Fraive]] || style="background-color:#9C7D98;" | || [[File:Rawst.png|30px]] [[Rawst/fr|Fraive]] || [[File:Rawst.png|30px]] [[Rawst/fr|Fraive]] 
+|}
+
+==Utilisations==
+===Mutations===
+
+Les baies Gowav peuvent être utilisées pour faire muter les baies suivantes.
+
+{| class="wikitable" | style="text-align: center;"
+|-
+! Utilisée pour !! Plantée avec
+|-
+| [[File:Hondew.png|20px]] [[Hondew/fr|Lonme]] || [[File:Figy.png|20px]] [[Figy/fr|Figuy]] &lt;br&gt; [[File:Wiki.png|20px]] [[Wiki/fr|Wiki]]
+|-
+| [[File:Grepa.png|20px]] [[Grepa/fr|Résin]] || [[File:Figy.png|20px]] [[Figy/fr|Figuy]]
+|-
+| [[File:Rabuta.png|20px]] [[Rabuta/fr|Rabuta]] || [[File:Aspear.png|20px]] [[Aspear/fr|Willia]]
+|-
+| [[File:Rindo.png|20px]] [[Rindo/fr|Ratam]] || [[File:Cheri.png|20px]] [[Cheri/fr|Ceriz]] &lt;br&gt; OU &lt;br&gt; [[File:Figy.png|20px]] [[Figy/fr|Figuy]]
+|-
+| [[File:Coba.png|20px]] [[Coba]] || [[File:Chesto.png|20px]] [[Chesto/fr|Maron]] &lt;br&gt; OU &lt;br&gt; [[File:Wiki.png|20px]] [[Wiki/fr|Wiki]]
+|-
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Acquisition==
+===Dungeons===
+{{Loot/head‎|Berries}}
+{{LootItem|Radio Tower|Epic}}
+{{LootItem|Flower Paradise|Common}}
+{{LootItem|Chargestone Cave|Common}}
+{{LootItem|Pokémon Village|Common}}
+|}
+|}
+&lt;/div&gt;
+
+&lt;br&gt;
+
+{{Berries}}
+
+[[Category:Farm]][[Category:Berries]]</text>
+    <contributor>
+      <username>LeChatMG</username>
+      <id>97</id>
+    </contributor>
+    <comment>Coquille</comment>
+    <model>wikitext</model>
+    <parentid>22872</parentid>
+    <sha1>c5e633066053057e19fc404a8ea4d237af3d8448</sha1>
+  </revision>
+  <revision>
+    <id>22872</id>
+    <timestamp>2022-08-09T20:32:44Z</timestamp>
+    <text bytes="4585" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #18 Gowav
+|image   = [[File:Aguav.png]]
+|caption = Cette Baie est amère vers la tige. Sa fleur délicate absorbe très peu de lumière.
+|growtime  = 5m 50s
+|harvest = 17 baies
+|replant = 30%
+|mutation = 0.6%
+|points = 55
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 épicée
+*0 sèche
+*0 sucrée
+*15 amère
+*0 acide
+}}
+
+'''Gowav''' est un type de [[Berry/fr|Baie]] qui peut être plantée dans la [[Farm/fr|Ferme]]. Elle s'obtient en entourant une parcelle vide avec au moins avec 25, mais pas plus de 80 points de saveur amère et moins de 5 points pour toutes les autres saveurs. La baie [[Rawst/fr|Fraive]] doit avoir été débloquée pour pouvoir débloquer la Gowav.
+
+== Tables de croissance ==
+=== Stades de croissance ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+!!! Pousse !! Arbuste !! Fleuri !! Mûr
+|-
+! Temps écoulé depuis plantation
+| 40 secs || 2 mins 50 secs || 3 mins 40 secs || 5 mins 50 secs - 11 mins 40 secs
+|-
+! Animation
+|  &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:AguavTreeTaller.png|50px]] || &lt;center&gt; [[File:AguavTreeBloom.png|50px]] || &lt;center&gt; [[File:AguavTreeBerry.png|50px]]
+|}
+
+===Temps de croissance avec modificateurs===
+{| class="wikitable collapsible" | style="text-align: center;"
+! Modificateur !! Temps Maturité-Flétrissement
+|-
+! Aucun
+| 5 mins 50 secs -&lt;br&gt; 11 mins 40 secs
+|-
+! Kwakarrosoir
+| 3 mins 53 secs -&lt;br&gt; 7 mins 47 secs
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Flow Chart ==
+[[File:Aguav_Flow_Chart.png|100px]]
+&lt;br&gt;
+&lt;/div&gt;
+
+== Stratégie de mutation ==
+=== Formations de plantation possibles ===
+
+Vous pouvez remplir votre ferme de la manière suivante pour obtenir des baies Gowav. Les cases violettes indiquent où les mutations peuvent avoir lieu.
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation de base
+|- style="height: 50px;"
+| style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Rawst.png|30px]] [[Rawst/fr|Fraive]]
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Rawst.png|30px]] [[Rawst/fr|Fraive]] || [[File:Rawst.png|30px]] [[Rawst/fr|Fraive]]
+|}
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation de plantation optimisée
+|-
+| style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Rawst.png|30px]] [[Rawst/fr|Fraive]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Rawst.png|30px]] [[Rawst/fr|Fraive]]
+|-
+| [[File:Rawst.png|30px]] [[Rawst/fr|Fraive]] || [[File:Rawst.png|30px]] [[Rawst/fr|Fraive]] || style="background-color:#9C7D98;" | || [[File:Rawst.png|30px]] [[Rawst/fr|Fraive]] || [[File:Rawst.png|30px]] [[Rawst/fr|Fraive]] 
+|- style="height: 50px;"
+| style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" |
+|-
+| style="background-color:#9C7D98;" | || [[File:Rawst.png|30px]] [[Rawst/fr|Fraive]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Rawst.png|30px]] [[Rawst/fr|Fraive]] 
+|-
+| [[File:Rawst.png|30px]] [[Rawst/fr|Fraive]] || [[File:Rawst.png|30px]] [[Rawst/fr|Fraive]] || style="background-color:#9C7D98;" | || [[File:Rawst.png|30px]] [[Rawst/fr|Fraive]] || [[File:Rawst.png|30px]] [[Rawst/fr|Fraive]] 
+|}
+
+==Utilisations==
+===Mutations===
+
+Les baies Gowav peuvent être utilisées pour faire muter les baies suivantes.
+
+{| class="wikitable" | style="text-align: center;"
+|-
+! Utilisée pour !! Plantée avec
+|-
+| [[File:Hondew.png|20px]] [[Hondew/fr|Lonme]] || [[File:Figy.png|20px]] [[Figy/fr|Figuy]] &lt;br&gt; [[File:Wiki.png|20px]] [[Wiki/fr|Wiki]]
+|-
+| [[File:Grepa.png|20px]] [[Grepa/fr|Résin]] || [[File:Figy.png|20px]] [[Figy/fr|Figuy]]
+|-
+| [[File:Rabuta.png|20px]] [[Rabuta/fr|Rabuta]] || [[File:Aspear.png|20px]] [[Aspear/fr|Willia]]
+|-
+| [[File:Rindo.png|20px]] [[Rindo/fr|Ratam]] || [[File:Cheri.png|20px]] [[Cheri/fr|Ceriz]] &lt;br&gt; OU &lt;br&gt; [[File:Figy.png|20px]] [[Figy/fr|Figuy]]
+|-
+| [[File:Coba.png|20px]] [[Coba]] || [[File:Chesto.png|20px]] [[Chesto/fr|Maron]] &lt;br&gt; OU &lt;br&gt; [[File:Wiki.png|20px]] [[Wiki/fr|Wiki]]
+|-
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Acquisition==
+===Dungeons===
+{{Loot/head‎|Berries}}
+{{LootItem|Radio Tower|Epic}}
+{{LootItem|Flower Paradise|Common}}
+{{LootItem|Chargestone Cave|Common}}
+{{LootItem|Pokémon Village|Common}}
+|}
+|}
+&lt;/div&gt;
+
+&lt;br&gt;
+
+{{Berries}}
+
+[[Category:Farm]][[Category:Berries]]</text>
+    <contributor>
+      <username>LeChatMG</username>
+      <id>97</id>
+    </contributor>
+    <comment>Created page with "&lt;br&gt;"</comment>
+    <model>wikitext</model>
+    <parentid>22871</parentid>
+    <sha1>3b5d9e97c17499ea4d33ad4a204c58bd20e41115</sha1>
+  </revision>
+  <revision>
+    <id>22871</id>
+    <timestamp>2022-08-09T20:32:40Z</timestamp>
+    <text bytes="4641" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #18 Gowav
+|image   = [[File:Aguav.png]]
+|caption = Cette Baie est amère vers la tige. Sa fleur délicate absorbe très peu de lumière.
+|growtime  = 5m 50s
+|harvest = 17 baies
+|replant = 30%
+|mutation = 0.6%
+|points = 55
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 épicée
+*0 sèche
+*0 sucrée
+*15 amère
+*0 acide
+}}
+
+'''Gowav''' est un type de [[Berry/fr|Baie]] qui peut être plantée dans la [[Farm/fr|Ferme]]. Elle s'obtient en entourant une parcelle vide avec au moins avec 25, mais pas plus de 80 points de saveur amère et moins de 5 points pour toutes les autres saveurs. La baie [[Rawst/fr|Fraive]] doit avoir été débloquée pour pouvoir débloquer la Gowav.
+
+== Tables de croissance ==
+=== Stades de croissance ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+!!! Pousse !! Arbuste !! Fleuri !! Mûr
+|-
+! Temps écoulé depuis plantation
+| 40 secs || 2 mins 50 secs || 3 mins 40 secs || 5 mins 50 secs - 11 mins 40 secs
+|-
+! Animation
+|  &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:AguavTreeTaller.png|50px]] || &lt;center&gt; [[File:AguavTreeBloom.png|50px]] || &lt;center&gt; [[File:AguavTreeBerry.png|50px]]
+|}
+
+===Temps de croissance avec modificateurs===
+{| class="wikitable collapsible" | style="text-align: center;"
+! Modificateur !! Temps Maturité-Flétrissement
+|-
+! Aucun
+| 5 mins 50 secs -&lt;br&gt; 11 mins 40 secs
+|-
+! Kwakarrosoir
+| 3 mins 53 secs -&lt;br&gt; 7 mins 47 secs
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Flow Chart ==
+[[File:Aguav_Flow_Chart.png|100px]]
+&lt;br&gt;
+&lt;/div&gt;
+
+== Stratégie de mutation ==
+=== Formations de plantation possibles ===
+
+Vous pouvez remplir votre ferme de la manière suivante pour obtenir des baies Gowav. Les cases violettes indiquent où les mutations peuvent avoir lieu.
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation de base
+|- style="height: 50px;"
+| style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Rawst.png|30px]] [[Rawst/fr|Fraive]]
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Rawst.png|30px]] [[Rawst/fr|Fraive]] || [[File:Rawst.png|30px]] [[Rawst/fr|Fraive]]
+|}
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation de plantation optimisée
+|-
+| style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Rawst.png|30px]] [[Rawst/fr|Fraive]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Rawst.png|30px]] [[Rawst/fr|Fraive]]
+|-
+| [[File:Rawst.png|30px]] [[Rawst/fr|Fraive]] || [[File:Rawst.png|30px]] [[Rawst/fr|Fraive]] || style="background-color:#9C7D98;" | || [[File:Rawst.png|30px]] [[Rawst/fr|Fraive]] || [[File:Rawst.png|30px]] [[Rawst/fr|Fraive]] 
+|- style="height: 50px;"
+| style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" |
+|-
+| style="background-color:#9C7D98;" | || [[File:Rawst.png|30px]] [[Rawst/fr|Fraive]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Rawst.png|30px]] [[Rawst/fr|Fraive]] 
+|-
+| [[File:Rawst.png|30px]] [[Rawst/fr|Fraive]] || [[File:Rawst.png|30px]] [[Rawst/fr|Fraive]] || style="background-color:#9C7D98;" | || [[File:Rawst.png|30px]] [[Rawst/fr|Fraive]] || [[File:Rawst.png|30px]] [[Rawst/fr|Fraive]] 
+|}
+
+==Utilisations==
+===Mutations===
+
+Les baies Gowav peuvent être utilisées pour faire muter les baies suivantes.
+
+{| class="wikitable" | style="text-align: center;"
+|-
+! Utilisée pour !! Plantée avec
+|-
+| [[File:Hondew.png|20px]] [[Hondew/fr|Lonme]] || [[File:Figy.png|20px]] [[Figy/fr|Figuy]] &lt;br&gt; [[File:Wiki.png|20px]] [[Wiki/fr|Wiki]]
+|-
+| [[File:Grepa.png|20px]] [[Grepa/fr|Résin]] || [[File:Figy.png|20px]] [[Figy/fr|Figuy]]
+|-
+| [[File:Rabuta.png|20px]] [[Rabuta/fr|Rabuta]] || [[File:Aspear.png|20px]] [[Aspear/fr|Willia]]
+|-
+| [[File:Rindo.png|20px]] [[Rindo/fr|Ratam]] || [[File:Cheri.png|20px]] [[Cheri/fr|Ceriz]] &lt;br&gt; OU &lt;br&gt; [[File:Figy.png|20px]] [[Figy/fr|Figuy]]
+|-
+| [[File:Coba.png|20px]] [[Coba]] || [[File:Chesto.png|20px]] [[Chesto/fr|Maron]] &lt;br&gt; OU &lt;br&gt; [[File:Wiki.png|20px]] [[Wiki/fr|Wiki]]
+|-
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Acquisition==
+===Dungeons===
+{{Loot/head‎|Berries}}
+{{LootItem|Radio Tower|Epic}}
+{{LootItem|Flower Paradise|Common}}
+{{LootItem|Chargestone Cave|Common}}
+{{LootItem|Pokémon Village|Common}}
+|}
+|}
+&lt;/div&gt;
+
+&lt;br&gt;
+
+{{Berries}}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>LeChatMG</username>
+      <id>97</id>
+    </contributor>
+    <comment>Created page with "{| class="wikitable" | style="text-align: center;" |- ! Utilisée pour !! Plantée avec |- | [[File:Hondew.png|20px]] [[Hondew/fr|Lonme]] || [[File:Figy.png|20px]] [[Figy/fr|Figuy]] &lt;br&gt; [[File:Wiki.png|20px]] [[Wiki/fr|Wiki]] |- | [[File:Grepa.png|20px]] [[Grepa/fr|Résin]] || [[File:Figy.png|20px]] [[Figy/fr|Figuy]] |- | [[File:Rabuta.png|20px]] [[Rabuta/fr|Rabuta]] || [[File:Aspear.png|20px]] [[Aspear/fr|Willia]] |- | [[File:Rindo.png|20px]] [[Rindo/fr|Ratam]] || Fi..."</comment>
+    <model>wikitext</model>
+    <parentid>22870</parentid>
+    <sha1>8b71bf2b05ee1cec3591351db5b27814fd4d9b09</sha1>
+  </revision>
+  <revision>
+    <id>22870</id>
+    <timestamp>2022-08-09T20:30:34Z</timestamp>
+    <text bytes="4684" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #18 Gowav
+|image   = [[File:Aguav.png]]
+|caption = Cette Baie est amère vers la tige. Sa fleur délicate absorbe très peu de lumière.
+|growtime  = 5m 50s
+|harvest = 17 baies
+|replant = 30%
+|mutation = 0.6%
+|points = 55
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 épicée
+*0 sèche
+*0 sucrée
+*15 amère
+*0 acide
+}}
+
+'''Gowav''' est un type de [[Berry/fr|Baie]] qui peut être plantée dans la [[Farm/fr|Ferme]]. Elle s'obtient en entourant une parcelle vide avec au moins avec 25, mais pas plus de 80 points de saveur amère et moins de 5 points pour toutes les autres saveurs. La baie [[Rawst/fr|Fraive]] doit avoir été débloquée pour pouvoir débloquer la Gowav.
+
+== Tables de croissance ==
+=== Stades de croissance ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+!!! Pousse !! Arbuste !! Fleuri !! Mûr
+|-
+! Temps écoulé depuis plantation
+| 40 secs || 2 mins 50 secs || 3 mins 40 secs || 5 mins 50 secs - 11 mins 40 secs
+|-
+! Animation
+|  &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:AguavTreeTaller.png|50px]] || &lt;center&gt; [[File:AguavTreeBloom.png|50px]] || &lt;center&gt; [[File:AguavTreeBerry.png|50px]]
+|}
+
+===Temps de croissance avec modificateurs===
+{| class="wikitable collapsible" | style="text-align: center;"
+! Modificateur !! Temps Maturité-Flétrissement
+|-
+! Aucun
+| 5 mins 50 secs -&lt;br&gt; 11 mins 40 secs
+|-
+! Kwakarrosoir
+| 3 mins 53 secs -&lt;br&gt; 7 mins 47 secs
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Flow Chart ==
+[[File:Aguav_Flow_Chart.png|100px]]
+&lt;br&gt;
+&lt;/div&gt;
+
+== Stratégie de mutation ==
+=== Formations de plantation possibles ===
+
+Vous pouvez remplir votre ferme de la manière suivante pour obtenir des baies Gowav. Les cases violettes indiquent où les mutations peuvent avoir lieu.
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation de base
+|- style="height: 50px;"
+| style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Rawst.png|30px]] [[Rawst/fr|Fraive]]
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Rawst.png|30px]] [[Rawst/fr|Fraive]] || [[File:Rawst.png|30px]] [[Rawst/fr|Fraive]]
+|}
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation de plantation optimisée
+|-
+| style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Rawst.png|30px]] [[Rawst/fr|Fraive]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Rawst.png|30px]] [[Rawst/fr|Fraive]]
+|-
+| [[File:Rawst.png|30px]] [[Rawst/fr|Fraive]] || [[File:Rawst.png|30px]] [[Rawst/fr|Fraive]] || style="background-color:#9C7D98;" | || [[File:Rawst.png|30px]] [[Rawst/fr|Fraive]] || [[File:Rawst.png|30px]] [[Rawst/fr|Fraive]] 
+|- style="height: 50px;"
+| style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" |
+|-
+| style="background-color:#9C7D98;" | || [[File:Rawst.png|30px]] [[Rawst/fr|Fraive]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Rawst.png|30px]] [[Rawst/fr|Fraive]] 
+|-
+| [[File:Rawst.png|30px]] [[Rawst/fr|Fraive]] || [[File:Rawst.png|30px]] [[Rawst/fr|Fraive]] || style="background-color:#9C7D98;" | || [[File:Rawst.png|30px]] [[Rawst/fr|Fraive]] || [[File:Rawst.png|30px]] [[Rawst/fr|Fraive]] 
+|}
+
+==Utilisations==
+===Mutations===
+
+Les baies Gowav peuvent être utilisées pour faire muter les baies suivantes.
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Hondew.png|20px]] [[Hondew]] || [[File:Figy.png|20px]] [[Figy]] &lt;br&gt; [[File:Wiki.png|20px]] [[Wiki]]
+|-
+| [[File:Grepa.png|20px]] [[Grepa]] || [[File:Figy.png|20px]] [[Figy]]
+|-
+| [[File:Rabuta.png|20px]] [[Rabuta]] || [[File:Aspear.png|20px]] [[Aspear]]
+|-
+| [[File:Rindo.png|20px]] [[Rindo]] || [[File:Cheri.png|20px]] [[Cheri]] &lt;br&gt; OR &lt;br&gt; [[File:Figy.png|20px]] [[Figy]]
+|-
+| [[File:Coba.png|20px]] [[Coba]] || [[File:Chesto.png|20px]] [[Chesto]] &lt;br&gt; OR &lt;br&gt; [[File:Wiki.png|20px]] [[Wiki]]
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Acquisition==
+===Dungeons===
+{{Loot/head‎|Berries}}
+{{LootItem|Radio Tower|Epic}}
+{{LootItem|Flower Paradise|Common}}
+{{LootItem|Chargestone Cave|Common}}
+{{LootItem|Pokémon Village|Common}}
+|}
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>LeChatMG</username>
+      <id>97</id>
+    </contributor>
+    <comment>Created page with "Les baies Gowav peuvent être utilisées pour faire muter les baies suivantes."</comment>
+    <model>wikitext</model>
+    <parentid>22869</parentid>
+    <sha1>cdcc05918a1e5287b8651fc5765184546f749911</sha1>
+  </revision>
+  <revision>
+    <id>22869</id>
+    <timestamp>2022-08-09T20:30:22Z</timestamp>
+    <text bytes="4720" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #18 Gowav
+|image   = [[File:Aguav.png]]
+|caption = Cette Baie est amère vers la tige. Sa fleur délicate absorbe très peu de lumière.
+|growtime  = 5m 50s
+|harvest = 17 baies
+|replant = 30%
+|mutation = 0.6%
+|points = 55
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 épicée
+*0 sèche
+*0 sucrée
+*15 amère
+*0 acide
+}}
+
+'''Gowav''' est un type de [[Berry/fr|Baie]] qui peut être plantée dans la [[Farm/fr|Ferme]]. Elle s'obtient en entourant une parcelle vide avec au moins avec 25, mais pas plus de 80 points de saveur amère et moins de 5 points pour toutes les autres saveurs. La baie [[Rawst/fr|Fraive]] doit avoir été débloquée pour pouvoir débloquer la Gowav.
+
+== Tables de croissance ==
+=== Stades de croissance ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+!!! Pousse !! Arbuste !! Fleuri !! Mûr
+|-
+! Temps écoulé depuis plantation
+| 40 secs || 2 mins 50 secs || 3 mins 40 secs || 5 mins 50 secs - 11 mins 40 secs
+|-
+! Animation
+|  &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:AguavTreeTaller.png|50px]] || &lt;center&gt; [[File:AguavTreeBloom.png|50px]] || &lt;center&gt; [[File:AguavTreeBerry.png|50px]]
+|}
+
+===Temps de croissance avec modificateurs===
+{| class="wikitable collapsible" | style="text-align: center;"
+! Modificateur !! Temps Maturité-Flétrissement
+|-
+! Aucun
+| 5 mins 50 secs -&lt;br&gt; 11 mins 40 secs
+|-
+! Kwakarrosoir
+| 3 mins 53 secs -&lt;br&gt; 7 mins 47 secs
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Flow Chart ==
+[[File:Aguav_Flow_Chart.png|100px]]
+&lt;br&gt;
+&lt;/div&gt;
+
+== Stratégie de mutation ==
+=== Formations de plantation possibles ===
+
+Vous pouvez remplir votre ferme de la manière suivante pour obtenir des baies Gowav. Les cases violettes indiquent où les mutations peuvent avoir lieu.
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation de base
+|- style="height: 50px;"
+| style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Rawst.png|30px]] [[Rawst/fr|Fraive]]
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Rawst.png|30px]] [[Rawst/fr|Fraive]] || [[File:Rawst.png|30px]] [[Rawst/fr|Fraive]]
+|}
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation de plantation optimisée
+|-
+| style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Rawst.png|30px]] [[Rawst/fr|Fraive]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Rawst.png|30px]] [[Rawst/fr|Fraive]]
+|-
+| [[File:Rawst.png|30px]] [[Rawst/fr|Fraive]] || [[File:Rawst.png|30px]] [[Rawst/fr|Fraive]] || style="background-color:#9C7D98;" | || [[File:Rawst.png|30px]] [[Rawst/fr|Fraive]] || [[File:Rawst.png|30px]] [[Rawst/fr|Fraive]] 
+|- style="height: 50px;"
+| style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" |
+|-
+| style="background-color:#9C7D98;" | || [[File:Rawst.png|30px]] [[Rawst/fr|Fraive]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Rawst.png|30px]] [[Rawst/fr|Fraive]] 
+|-
+| [[File:Rawst.png|30px]] [[Rawst/fr|Fraive]] || [[File:Rawst.png|30px]] [[Rawst/fr|Fraive]] || style="background-color:#9C7D98;" | || [[File:Rawst.png|30px]] [[Rawst/fr|Fraive]] || [[File:Rawst.png|30px]] [[Rawst/fr|Fraive]] 
+|}
+
+==Utilisations==
+===Mutations===
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Aguav berries can be used to mutate the following berries.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Hondew.png|20px]] [[Hondew]] || [[File:Figy.png|20px]] [[Figy]] &lt;br&gt; [[File:Wiki.png|20px]] [[Wiki]]
+|-
+| [[File:Grepa.png|20px]] [[Grepa]] || [[File:Figy.png|20px]] [[Figy]]
+|-
+| [[File:Rabuta.png|20px]] [[Rabuta]] || [[File:Aspear.png|20px]] [[Aspear]]
+|-
+| [[File:Rindo.png|20px]] [[Rindo]] || [[File:Cheri.png|20px]] [[Cheri]] &lt;br&gt; OR &lt;br&gt; [[File:Figy.png|20px]] [[Figy]]
+|-
+| [[File:Coba.png|20px]] [[Coba]] || [[File:Chesto.png|20px]] [[Chesto]] &lt;br&gt; OR &lt;br&gt; [[File:Wiki.png|20px]] [[Wiki]]
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Acquisition==
+===Dungeons===
+{{Loot/head‎|Berries}}
+{{LootItem|Radio Tower|Epic}}
+{{LootItem|Flower Paradise|Common}}
+{{LootItem|Chargestone Cave|Common}}
+{{LootItem|Pokémon Village|Common}}
+|}
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>LeChatMG</username>
+      <id>97</id>
+    </contributor>
+    <comment>Created page with "==Utilisations== ===Mutations==="</comment>
+    <model>wikitext</model>
+    <parentid>22868</parentid>
+    <sha1>95776284aae276b1e26583585a638161c8f3bbd0</sha1>
+  </revision>
+  <revision>
+    <id>22868</id>
+    <timestamp>2022-08-09T20:30:17Z</timestamp>
+    <text bytes="4768" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #18 Gowav
+|image   = [[File:Aguav.png]]
+|caption = Cette Baie est amère vers la tige. Sa fleur délicate absorbe très peu de lumière.
+|growtime  = 5m 50s
+|harvest = 17 baies
+|replant = 30%
+|mutation = 0.6%
+|points = 55
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 épicée
+*0 sèche
+*0 sucrée
+*15 amère
+*0 acide
+}}
+
+'''Gowav''' est un type de [[Berry/fr|Baie]] qui peut être plantée dans la [[Farm/fr|Ferme]]. Elle s'obtient en entourant une parcelle vide avec au moins avec 25, mais pas plus de 80 points de saveur amère et moins de 5 points pour toutes les autres saveurs. La baie [[Rawst/fr|Fraive]] doit avoir été débloquée pour pouvoir débloquer la Gowav.
+
+== Tables de croissance ==
+=== Stades de croissance ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+!!! Pousse !! Arbuste !! Fleuri !! Mûr
+|-
+! Temps écoulé depuis plantation
+| 40 secs || 2 mins 50 secs || 3 mins 40 secs || 5 mins 50 secs - 11 mins 40 secs
+|-
+! Animation
+|  &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:AguavTreeTaller.png|50px]] || &lt;center&gt; [[File:AguavTreeBloom.png|50px]] || &lt;center&gt; [[File:AguavTreeBerry.png|50px]]
+|}
+
+===Temps de croissance avec modificateurs===
+{| class="wikitable collapsible" | style="text-align: center;"
+! Modificateur !! Temps Maturité-Flétrissement
+|-
+! Aucun
+| 5 mins 50 secs -&lt;br&gt; 11 mins 40 secs
+|-
+! Kwakarrosoir
+| 3 mins 53 secs -&lt;br&gt; 7 mins 47 secs
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Flow Chart ==
+[[File:Aguav_Flow_Chart.png|100px]]
+&lt;br&gt;
+&lt;/div&gt;
+
+== Stratégie de mutation ==
+=== Formations de plantation possibles ===
+
+Vous pouvez remplir votre ferme de la manière suivante pour obtenir des baies Gowav. Les cases violettes indiquent où les mutations peuvent avoir lieu.
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation de base
+|- style="height: 50px;"
+| style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Rawst.png|30px]] [[Rawst/fr|Fraive]]
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Rawst.png|30px]] [[Rawst/fr|Fraive]] || [[File:Rawst.png|30px]] [[Rawst/fr|Fraive]]
+|}
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation de plantation optimisée
+|-
+| style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Rawst.png|30px]] [[Rawst/fr|Fraive]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Rawst.png|30px]] [[Rawst/fr|Fraive]]
+|-
+| [[File:Rawst.png|30px]] [[Rawst/fr|Fraive]] || [[File:Rawst.png|30px]] [[Rawst/fr|Fraive]] || style="background-color:#9C7D98;" | || [[File:Rawst.png|30px]] [[Rawst/fr|Fraive]] || [[File:Rawst.png|30px]] [[Rawst/fr|Fraive]] 
+|- style="height: 50px;"
+| style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" |
+|-
+| style="background-color:#9C7D98;" | || [[File:Rawst.png|30px]] [[Rawst/fr|Fraive]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Rawst.png|30px]] [[Rawst/fr|Fraive]] 
+|-
+| [[File:Rawst.png|30px]] [[Rawst/fr|Fraive]] || [[File:Rawst.png|30px]] [[Rawst/fr|Fraive]] || style="background-color:#9C7D98;" | || [[File:Rawst.png|30px]] [[Rawst/fr|Fraive]] || [[File:Rawst.png|30px]] [[Rawst/fr|Fraive]] 
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Uses==
+===Mutations===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Aguav berries can be used to mutate the following berries.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Hondew.png|20px]] [[Hondew]] || [[File:Figy.png|20px]] [[Figy]] &lt;br&gt; [[File:Wiki.png|20px]] [[Wiki]]
+|-
+| [[File:Grepa.png|20px]] [[Grepa]] || [[File:Figy.png|20px]] [[Figy]]
+|-
+| [[File:Rabuta.png|20px]] [[Rabuta]] || [[File:Aspear.png|20px]] [[Aspear]]
+|-
+| [[File:Rindo.png|20px]] [[Rindo]] || [[File:Cheri.png|20px]] [[Cheri]] &lt;br&gt; OR &lt;br&gt; [[File:Figy.png|20px]] [[Figy]]
+|-
+| [[File:Coba.png|20px]] [[Coba]] || [[File:Chesto.png|20px]] [[Chesto]] &lt;br&gt; OR &lt;br&gt; [[File:Wiki.png|20px]] [[Wiki]]
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Acquisition==
+===Dungeons===
+{{Loot/head‎|Berries}}
+{{LootItem|Radio Tower|Epic}}
+{{LootItem|Flower Paradise|Common}}
+{{LootItem|Chargestone Cave|Common}}
+{{LootItem|Pokémon Village|Common}}
+|}
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>LeChatMG</username>
+      <id>97</id>
+    </contributor>
+    <comment>Created page with "{| class="wikitable" style="text-align: center;" |+ Formation de plantation optimisée |- | style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Rawst.png|30px]] [[Rawst/fr|Fraive]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Rawst.png|30px]] [[Rawst/fr|Fraive]] |- | [[File:Rawst.png|30px]] [[Rawst/fr|Fraive]] || [[File:Rawst.png|30px]] Rawst/fr|Fra..."</comment>
+    <model>wikitext</model>
+    <parentid>22867</parentid>
+    <sha1>2c584dc9d297b309214ded9226fd4e07a4361e74</sha1>
+  </revision>
+  <revision>
+    <id>22867</id>
+    <timestamp>2022-08-09T20:29:31Z</timestamp>
+    <text bytes="4698" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #18 Gowav
+|image   = [[File:Aguav.png]]
+|caption = Cette Baie est amère vers la tige. Sa fleur délicate absorbe très peu de lumière.
+|growtime  = 5m 50s
+|harvest = 17 baies
+|replant = 30%
+|mutation = 0.6%
+|points = 55
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 épicée
+*0 sèche
+*0 sucrée
+*15 amère
+*0 acide
+}}
+
+'''Gowav''' est un type de [[Berry/fr|Baie]] qui peut être plantée dans la [[Farm/fr|Ferme]]. Elle s'obtient en entourant une parcelle vide avec au moins avec 25, mais pas plus de 80 points de saveur amère et moins de 5 points pour toutes les autres saveurs. La baie [[Rawst/fr|Fraive]] doit avoir été débloquée pour pouvoir débloquer la Gowav.
+
+== Tables de croissance ==
+=== Stades de croissance ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+!!! Pousse !! Arbuste !! Fleuri !! Mûr
+|-
+! Temps écoulé depuis plantation
+| 40 secs || 2 mins 50 secs || 3 mins 40 secs || 5 mins 50 secs - 11 mins 40 secs
+|-
+! Animation
+|  &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:AguavTreeTaller.png|50px]] || &lt;center&gt; [[File:AguavTreeBloom.png|50px]] || &lt;center&gt; [[File:AguavTreeBerry.png|50px]]
+|}
+
+===Temps de croissance avec modificateurs===
+{| class="wikitable collapsible" | style="text-align: center;"
+! Modificateur !! Temps Maturité-Flétrissement
+|-
+! Aucun
+| 5 mins 50 secs -&lt;br&gt; 11 mins 40 secs
+|-
+! Kwakarrosoir
+| 3 mins 53 secs -&lt;br&gt; 7 mins 47 secs
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Flow Chart ==
+[[File:Aguav_Flow_Chart.png|100px]]
+&lt;br&gt;
+&lt;/div&gt;
+
+== Stratégie de mutation ==
+=== Formations de plantation possibles ===
+
+Vous pouvez remplir votre ferme de la manière suivante pour obtenir des baies Gowav. Les cases violettes indiquent où les mutations peuvent avoir lieu.
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation de base
+|- style="height: 50px;"
+| style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Rawst.png|30px]] [[Rawst/fr|Fraive]]
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Rawst.png|30px]] [[Rawst/fr|Fraive]] || [[File:Rawst.png|30px]] [[Rawst/fr|Fraive]]
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Optimized Planting Formation
+|-
+| style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Rawst.png|30px]] [[Rawst]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Rawst.png|30px]] [[Rawst]]
+|-
+| [[File:Rawst.png|30px]] [[Rawst]] || [[File:Rawst.png|30px]] [[Rawst]] || style="background-color:#9C7D98;" | || [[File:Rawst.png|30px]] [[Rawst]] || [[File:Rawst.png|30px]] [[Rawst]] 
+|- style="height: 50px;"
+| style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" |
+|-
+| style="background-color:#9C7D98;" | || [[File:Rawst.png|30px]] [[Rawst]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Rawst.png|30px]] [[Rawst]] 
+|-
+| [[File:Rawst.png|30px]] [[Rawst]] || [[File:Rawst.png|30px]] [[Rawst]] || style="background-color:#9C7D98;" | || [[File:Rawst.png|30px]] [[Rawst]] || [[File:Rawst.png|30px]] [[Rawst]] 
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Uses==
+===Mutations===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Aguav berries can be used to mutate the following berries.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Hondew.png|20px]] [[Hondew]] || [[File:Figy.png|20px]] [[Figy]] &lt;br&gt; [[File:Wiki.png|20px]] [[Wiki]]
+|-
+| [[File:Grepa.png|20px]] [[Grepa]] || [[File:Figy.png|20px]] [[Figy]]
+|-
+| [[File:Rabuta.png|20px]] [[Rabuta]] || [[File:Aspear.png|20px]] [[Aspear]]
+|-
+| [[File:Rindo.png|20px]] [[Rindo]] || [[File:Cheri.png|20px]] [[Cheri]] &lt;br&gt; OR &lt;br&gt; [[File:Figy.png|20px]] [[Figy]]
+|-
+| [[File:Coba.png|20px]] [[Coba]] || [[File:Chesto.png|20px]] [[Chesto]] &lt;br&gt; OR &lt;br&gt; [[File:Wiki.png|20px]] [[Wiki]]
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Acquisition==
+===Dungeons===
+{{Loot/head‎|Berries}}
+{{LootItem|Radio Tower|Epic}}
+{{LootItem|Flower Paradise|Common}}
+{{LootItem|Chargestone Cave|Common}}
+{{LootItem|Pokémon Village|Common}}
+|}
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>LeChatMG</username>
+      <id>97</id>
+    </contributor>
+    <comment>Created page with "{| class="wikitable" style="text-align: center;" |+ Formation de base |- style="height: 50px;" | style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Rawst.png|30px]] [[Rawst/fr|Fraive]] |- style="height: 50px;" | style="width: 40px;" | [[File:Rawst.png|30px]] [[Rawst/fr|Fraive]] || [[File:Rawst.png|30px]] [[Rawst/fr|Fraive]] |}"</comment>
+    <model>wikitext</model>
+    <parentid>22866</parentid>
+    <sha1>181f7cabccc81292666d5cb54ff226244817d7ce</sha1>
+  </revision>
+  <revision>
+    <id>22866</id>
+    <timestamp>2022-08-09T20:29:07Z</timestamp>
+    <text bytes="4721" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #18 Gowav
+|image   = [[File:Aguav.png]]
+|caption = Cette Baie est amère vers la tige. Sa fleur délicate absorbe très peu de lumière.
+|growtime  = 5m 50s
+|harvest = 17 baies
+|replant = 30%
+|mutation = 0.6%
+|points = 55
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 épicée
+*0 sèche
+*0 sucrée
+*15 amère
+*0 acide
+}}
+
+'''Gowav''' est un type de [[Berry/fr|Baie]] qui peut être plantée dans la [[Farm/fr|Ferme]]. Elle s'obtient en entourant une parcelle vide avec au moins avec 25, mais pas plus de 80 points de saveur amère et moins de 5 points pour toutes les autres saveurs. La baie [[Rawst/fr|Fraive]] doit avoir été débloquée pour pouvoir débloquer la Gowav.
+
+== Tables de croissance ==
+=== Stades de croissance ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+!!! Pousse !! Arbuste !! Fleuri !! Mûr
+|-
+! Temps écoulé depuis plantation
+| 40 secs || 2 mins 50 secs || 3 mins 40 secs || 5 mins 50 secs - 11 mins 40 secs
+|-
+! Animation
+|  &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:AguavTreeTaller.png|50px]] || &lt;center&gt; [[File:AguavTreeBloom.png|50px]] || &lt;center&gt; [[File:AguavTreeBerry.png|50px]]
+|}
+
+===Temps de croissance avec modificateurs===
+{| class="wikitable collapsible" | style="text-align: center;"
+! Modificateur !! Temps Maturité-Flétrissement
+|-
+! Aucun
+| 5 mins 50 secs -&lt;br&gt; 11 mins 40 secs
+|-
+! Kwakarrosoir
+| 3 mins 53 secs -&lt;br&gt; 7 mins 47 secs
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Flow Chart ==
+[[File:Aguav_Flow_Chart.png|100px]]
+&lt;br&gt;
+&lt;/div&gt;
+
+== Stratégie de mutation ==
+=== Formations de plantation possibles ===
+
+Vous pouvez remplir votre ferme de la manière suivante pour obtenir des baies Gowav. Les cases violettes indiquent où les mutations peuvent avoir lieu.
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Base Formation
+|- style="height: 50px;"
+| style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Rawst.png|30px]] [[Rawst]]
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Rawst.png|30px]] [[Rawst]] || [[File:Rawst.png|30px]] [[Rawst]]
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Optimized Planting Formation
+|-
+| style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Rawst.png|30px]] [[Rawst]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Rawst.png|30px]] [[Rawst]]
+|-
+| [[File:Rawst.png|30px]] [[Rawst]] || [[File:Rawst.png|30px]] [[Rawst]] || style="background-color:#9C7D98;" | || [[File:Rawst.png|30px]] [[Rawst]] || [[File:Rawst.png|30px]] [[Rawst]] 
+|- style="height: 50px;"
+| style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" |
+|-
+| style="background-color:#9C7D98;" | || [[File:Rawst.png|30px]] [[Rawst]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Rawst.png|30px]] [[Rawst]] 
+|-
+| [[File:Rawst.png|30px]] [[Rawst]] || [[File:Rawst.png|30px]] [[Rawst]] || style="background-color:#9C7D98;" | || [[File:Rawst.png|30px]] [[Rawst]] || [[File:Rawst.png|30px]] [[Rawst]] 
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Uses==
+===Mutations===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Aguav berries can be used to mutate the following berries.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Hondew.png|20px]] [[Hondew]] || [[File:Figy.png|20px]] [[Figy]] &lt;br&gt; [[File:Wiki.png|20px]] [[Wiki]]
+|-
+| [[File:Grepa.png|20px]] [[Grepa]] || [[File:Figy.png|20px]] [[Figy]]
+|-
+| [[File:Rabuta.png|20px]] [[Rabuta]] || [[File:Aspear.png|20px]] [[Aspear]]
+|-
+| [[File:Rindo.png|20px]] [[Rindo]] || [[File:Cheri.png|20px]] [[Cheri]] &lt;br&gt; OR &lt;br&gt; [[File:Figy.png|20px]] [[Figy]]
+|-
+| [[File:Coba.png|20px]] [[Coba]] || [[File:Chesto.png|20px]] [[Chesto]] &lt;br&gt; OR &lt;br&gt; [[File:Wiki.png|20px]] [[Wiki]]
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Acquisition==
+===Dungeons===
+{{Loot/head‎|Berries}}
+{{LootItem|Radio Tower|Epic}}
+{{LootItem|Flower Paradise|Common}}
+{{LootItem|Chargestone Cave|Common}}
+{{LootItem|Pokémon Village|Common}}
+|}
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>LeChatMG</username>
+      <id>97</id>
+    </contributor>
+    <comment>Created page with "Vous pouvez remplir votre ferme de la manière suivante pour obtenir des baies Gowav. Les cases violettes indiquent où les mutations peuvent avoir lieu."</comment>
+    <model>wikitext</model>
+    <parentid>22865</parentid>
+    <sha1>3baf12055b8d3701f923fcab4aaa8c86408a5506</sha1>
+  </revision>
+  <revision>
+    <id>22865</id>
+    <timestamp>2022-08-09T20:28:55Z</timestamp>
+    <text bytes="4743" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #18 Gowav
+|image   = [[File:Aguav.png]]
+|caption = Cette Baie est amère vers la tige. Sa fleur délicate absorbe très peu de lumière.
+|growtime  = 5m 50s
+|harvest = 17 baies
+|replant = 30%
+|mutation = 0.6%
+|points = 55
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 épicée
+*0 sèche
+*0 sucrée
+*15 amère
+*0 acide
+}}
+
+'''Gowav''' est un type de [[Berry/fr|Baie]] qui peut être plantée dans la [[Farm/fr|Ferme]]. Elle s'obtient en entourant une parcelle vide avec au moins avec 25, mais pas plus de 80 points de saveur amère et moins de 5 points pour toutes les autres saveurs. La baie [[Rawst/fr|Fraive]] doit avoir été débloquée pour pouvoir débloquer la Gowav.
+
+== Tables de croissance ==
+=== Stades de croissance ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+!!! Pousse !! Arbuste !! Fleuri !! Mûr
+|-
+! Temps écoulé depuis plantation
+| 40 secs || 2 mins 50 secs || 3 mins 40 secs || 5 mins 50 secs - 11 mins 40 secs
+|-
+! Animation
+|  &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:AguavTreeTaller.png|50px]] || &lt;center&gt; [[File:AguavTreeBloom.png|50px]] || &lt;center&gt; [[File:AguavTreeBerry.png|50px]]
+|}
+
+===Temps de croissance avec modificateurs===
+{| class="wikitable collapsible" | style="text-align: center;"
+! Modificateur !! Temps Maturité-Flétrissement
+|-
+! Aucun
+| 5 mins 50 secs -&lt;br&gt; 11 mins 40 secs
+|-
+! Kwakarrosoir
+| 3 mins 53 secs -&lt;br&gt; 7 mins 47 secs
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Flow Chart ==
+[[File:Aguav_Flow_Chart.png|100px]]
+&lt;br&gt;
+&lt;/div&gt;
+
+== Stratégie de mutation ==
+=== Formations de plantation possibles ===
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+You can fill your farm in the following way to obtain Aguav berries. Purple squares indicate where mutations can occur.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Base Formation
+|- style="height: 50px;"
+| style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Rawst.png|30px]] [[Rawst]]
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Rawst.png|30px]] [[Rawst]] || [[File:Rawst.png|30px]] [[Rawst]]
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Optimized Planting Formation
+|-
+| style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Rawst.png|30px]] [[Rawst]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Rawst.png|30px]] [[Rawst]]
+|-
+| [[File:Rawst.png|30px]] [[Rawst]] || [[File:Rawst.png|30px]] [[Rawst]] || style="background-color:#9C7D98;" | || [[File:Rawst.png|30px]] [[Rawst]] || [[File:Rawst.png|30px]] [[Rawst]] 
+|- style="height: 50px;"
+| style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" |
+|-
+| style="background-color:#9C7D98;" | || [[File:Rawst.png|30px]] [[Rawst]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Rawst.png|30px]] [[Rawst]] 
+|-
+| [[File:Rawst.png|30px]] [[Rawst]] || [[File:Rawst.png|30px]] [[Rawst]] || style="background-color:#9C7D98;" | || [[File:Rawst.png|30px]] [[Rawst]] || [[File:Rawst.png|30px]] [[Rawst]] 
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Uses==
+===Mutations===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Aguav berries can be used to mutate the following berries.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Hondew.png|20px]] [[Hondew]] || [[File:Figy.png|20px]] [[Figy]] &lt;br&gt; [[File:Wiki.png|20px]] [[Wiki]]
+|-
+| [[File:Grepa.png|20px]] [[Grepa]] || [[File:Figy.png|20px]] [[Figy]]
+|-
+| [[File:Rabuta.png|20px]] [[Rabuta]] || [[File:Aspear.png|20px]] [[Aspear]]
+|-
+| [[File:Rindo.png|20px]] [[Rindo]] || [[File:Cheri.png|20px]] [[Cheri]] &lt;br&gt; OR &lt;br&gt; [[File:Figy.png|20px]] [[Figy]]
+|-
+| [[File:Coba.png|20px]] [[Coba]] || [[File:Chesto.png|20px]] [[Chesto]] &lt;br&gt; OR &lt;br&gt; [[File:Wiki.png|20px]] [[Wiki]]
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Acquisition==
+===Dungeons===
+{{Loot/head‎|Berries}}
+{{LootItem|Radio Tower|Epic}}
+{{LootItem|Flower Paradise|Common}}
+{{LootItem|Chargestone Cave|Common}}
+{{LootItem|Pokémon Village|Common}}
+|}
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>LeChatMG</username>
+      <id>97</id>
+    </contributor>
+    <comment>Created page with "== Stratégie de mutation == === Formations de plantation possibles ==="</comment>
+    <model>wikitext</model>
+    <parentid>22864</parentid>
+    <sha1>88ee03e223c072ec03df6faedae27c811c68ea15</sha1>
+  </revision>
+  <revision>
+    <id>22864</id>
+    <timestamp>2022-08-09T20:28:47Z</timestamp>
+    <text bytes="4788" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #18 Gowav
+|image   = [[File:Aguav.png]]
+|caption = Cette Baie est amère vers la tige. Sa fleur délicate absorbe très peu de lumière.
+|growtime  = 5m 50s
+|harvest = 17 baies
+|replant = 30%
+|mutation = 0.6%
+|points = 55
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 épicée
+*0 sèche
+*0 sucrée
+*15 amère
+*0 acide
+}}
+
+'''Gowav''' est un type de [[Berry/fr|Baie]] qui peut être plantée dans la [[Farm/fr|Ferme]]. Elle s'obtient en entourant une parcelle vide avec au moins avec 25, mais pas plus de 80 points de saveur amère et moins de 5 points pour toutes les autres saveurs. La baie [[Rawst/fr|Fraive]] doit avoir été débloquée pour pouvoir débloquer la Gowav.
+
+== Tables de croissance ==
+=== Stades de croissance ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+!!! Pousse !! Arbuste !! Fleuri !! Mûr
+|-
+! Temps écoulé depuis plantation
+| 40 secs || 2 mins 50 secs || 3 mins 40 secs || 5 mins 50 secs - 11 mins 40 secs
+|-
+! Animation
+|  &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:AguavTreeTaller.png|50px]] || &lt;center&gt; [[File:AguavTreeBloom.png|50px]] || &lt;center&gt; [[File:AguavTreeBerry.png|50px]]
+|}
+
+===Temps de croissance avec modificateurs===
+{| class="wikitable collapsible" | style="text-align: center;"
+! Modificateur !! Temps Maturité-Flétrissement
+|-
+! Aucun
+| 5 mins 50 secs -&lt;br&gt; 11 mins 40 secs
+|-
+! Kwakarrosoir
+| 3 mins 53 secs -&lt;br&gt; 7 mins 47 secs
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Flow Chart ==
+[[File:Aguav_Flow_Chart.png|100px]]
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Mutation Strategy ==
+=== Possible Planting Formations ===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+You can fill your farm in the following way to obtain Aguav berries. Purple squares indicate where mutations can occur.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Base Formation
+|- style="height: 50px;"
+| style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Rawst.png|30px]] [[Rawst]]
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Rawst.png|30px]] [[Rawst]] || [[File:Rawst.png|30px]] [[Rawst]]
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Optimized Planting Formation
+|-
+| style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Rawst.png|30px]] [[Rawst]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Rawst.png|30px]] [[Rawst]]
+|-
+| [[File:Rawst.png|30px]] [[Rawst]] || [[File:Rawst.png|30px]] [[Rawst]] || style="background-color:#9C7D98;" | || [[File:Rawst.png|30px]] [[Rawst]] || [[File:Rawst.png|30px]] [[Rawst]] 
+|- style="height: 50px;"
+| style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" |
+|-
+| style="background-color:#9C7D98;" | || [[File:Rawst.png|30px]] [[Rawst]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Rawst.png|30px]] [[Rawst]] 
+|-
+| [[File:Rawst.png|30px]] [[Rawst]] || [[File:Rawst.png|30px]] [[Rawst]] || style="background-color:#9C7D98;" | || [[File:Rawst.png|30px]] [[Rawst]] || [[File:Rawst.png|30px]] [[Rawst]] 
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Uses==
+===Mutations===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Aguav berries can be used to mutate the following berries.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Hondew.png|20px]] [[Hondew]] || [[File:Figy.png|20px]] [[Figy]] &lt;br&gt; [[File:Wiki.png|20px]] [[Wiki]]
+|-
+| [[File:Grepa.png|20px]] [[Grepa]] || [[File:Figy.png|20px]] [[Figy]]
+|-
+| [[File:Rabuta.png|20px]] [[Rabuta]] || [[File:Aspear.png|20px]] [[Aspear]]
+|-
+| [[File:Rindo.png|20px]] [[Rindo]] || [[File:Cheri.png|20px]] [[Cheri]] &lt;br&gt; OR &lt;br&gt; [[File:Figy.png|20px]] [[Figy]]
+|-
+| [[File:Coba.png|20px]] [[Coba]] || [[File:Chesto.png|20px]] [[Chesto]] &lt;br&gt; OR &lt;br&gt; [[File:Wiki.png|20px]] [[Wiki]]
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Acquisition==
+===Dungeons===
+{{Loot/head‎|Berries}}
+{{LootItem|Radio Tower|Epic}}
+{{LootItem|Flower Paradise|Common}}
+{{LootItem|Chargestone Cave|Common}}
+{{LootItem|Pokémon Village|Common}}
+|}
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>LeChatMG</username>
+      <id>97</id>
+    </contributor>
+    <comment>Created page with "===Temps de croissance avec modificateurs=== {| class="wikitable collapsible" | style="text-align: center;" ! Modificateur !! Temps Maturité-Flétrissement |- ! Aucun | 5 mins 50 secs -&lt;br&gt; 11 mins 40 secs |- ! Kwakarrosoir | 3 mins 53 secs -&lt;br&gt; 7 mins 47 secs |}"</comment>
+    <model>wikitext</model>
+    <parentid>22863</parentid>
+    <sha1>bc55e8a4d08a3c01d02a247f686a305f06a02cce</sha1>
+  </revision>
+  <revision>
+    <id>22863</id>
+    <timestamp>2022-08-09T20:28:29Z</timestamp>
+    <text bytes="4802" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #18 Gowav
+|image   = [[File:Aguav.png]]
+|caption = Cette Baie est amère vers la tige. Sa fleur délicate absorbe très peu de lumière.
+|growtime  = 5m 50s
+|harvest = 17 baies
+|replant = 30%
+|mutation = 0.6%
+|points = 55
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 épicée
+*0 sèche
+*0 sucrée
+*15 amère
+*0 acide
+}}
+
+'''Gowav''' est un type de [[Berry/fr|Baie]] qui peut être plantée dans la [[Farm/fr|Ferme]]. Elle s'obtient en entourant une parcelle vide avec au moins avec 25, mais pas plus de 80 points de saveur amère et moins de 5 points pour toutes les autres saveurs. La baie [[Rawst/fr|Fraive]] doit avoir été débloquée pour pouvoir débloquer la Gowav.
+
+== Tables de croissance ==
+=== Stades de croissance ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+!!! Pousse !! Arbuste !! Fleuri !! Mûr
+|-
+! Temps écoulé depuis plantation
+| 40 secs || 2 mins 50 secs || 3 mins 40 secs || 5 mins 50 secs - 11 mins 40 secs
+|-
+! Animation
+|  &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:AguavTreeTaller.png|50px]] || &lt;center&gt; [[File:AguavTreeBloom.png|50px]] || &lt;center&gt; [[File:AguavTreeBerry.png|50px]]
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+=== Ripening Time with Modifiers ===
+{| class="wikitable" | style="text-align: center;"
+! Modifier !! Ripe-Wither Time
+|-
+! None
+| 5 mins 50 secs -&lt;br&gt; 11 mins 40 secs
+|-
+! Sprayduck
+| 3 mins 53 secs -&lt;br&gt; 7 mins 47 secs
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Flow Chart ==
+[[File:Aguav_Flow_Chart.png|100px]]
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Mutation Strategy ==
+=== Possible Planting Formations ===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+You can fill your farm in the following way to obtain Aguav berries. Purple squares indicate where mutations can occur.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Base Formation
+|- style="height: 50px;"
+| style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Rawst.png|30px]] [[Rawst]]
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Rawst.png|30px]] [[Rawst]] || [[File:Rawst.png|30px]] [[Rawst]]
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Optimized Planting Formation
+|-
+| style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Rawst.png|30px]] [[Rawst]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Rawst.png|30px]] [[Rawst]]
+|-
+| [[File:Rawst.png|30px]] [[Rawst]] || [[File:Rawst.png|30px]] [[Rawst]] || style="background-color:#9C7D98;" | || [[File:Rawst.png|30px]] [[Rawst]] || [[File:Rawst.png|30px]] [[Rawst]] 
+|- style="height: 50px;"
+| style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" |
+|-
+| style="background-color:#9C7D98;" | || [[File:Rawst.png|30px]] [[Rawst]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Rawst.png|30px]] [[Rawst]] 
+|-
+| [[File:Rawst.png|30px]] [[Rawst]] || [[File:Rawst.png|30px]] [[Rawst]] || style="background-color:#9C7D98;" | || [[File:Rawst.png|30px]] [[Rawst]] || [[File:Rawst.png|30px]] [[Rawst]] 
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Uses==
+===Mutations===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Aguav berries can be used to mutate the following berries.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Hondew.png|20px]] [[Hondew]] || [[File:Figy.png|20px]] [[Figy]] &lt;br&gt; [[File:Wiki.png|20px]] [[Wiki]]
+|-
+| [[File:Grepa.png|20px]] [[Grepa]] || [[File:Figy.png|20px]] [[Figy]]
+|-
+| [[File:Rabuta.png|20px]] [[Rabuta]] || [[File:Aspear.png|20px]] [[Aspear]]
+|-
+| [[File:Rindo.png|20px]] [[Rindo]] || [[File:Cheri.png|20px]] [[Cheri]] &lt;br&gt; OR &lt;br&gt; [[File:Figy.png|20px]] [[Figy]]
+|-
+| [[File:Coba.png|20px]] [[Coba]] || [[File:Chesto.png|20px]] [[Chesto]] &lt;br&gt; OR &lt;br&gt; [[File:Wiki.png|20px]] [[Wiki]]
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Acquisition==
+===Dungeons===
+{{Loot/head‎|Berries}}
+{{LootItem|Radio Tower|Epic}}
+{{LootItem|Flower Paradise|Common}}
+{{LootItem|Chargestone Cave|Common}}
+{{LootItem|Pokémon Village|Common}}
+|}
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>LeChatMG</username>
+      <id>97</id>
+    </contributor>
+    <comment>Created page with "== Tables de croissance == === Stades de croissance === {| class="wikitable" | style = "image-rendering: pixelated" !!! Pousse !! Arbuste !! Fleuri !! Mûr |- ! Temps écoulé depuis plantation | 40 secs || 2 mins 50 secs || 3 mins 40 secs || 5 mins 50 secs - 11 mins 40 secs |- ! Animation |  &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:AguavTreeTaller.png|50px]] || &lt;center&gt; [[File:AguavTreeBloom.png|50px]] || &lt;center&gt; [[File:AguavTreeBerry.png|50px]] |}"</comment>
+    <model>wikitext</model>
+    <parentid>22862</parentid>
+    <sha1>a20dcb183975a3052f04adff81805f0c12ee4243</sha1>
+  </revision>
+  <revision>
+    <id>22862</id>
+    <timestamp>2022-08-09T20:28:09Z</timestamp>
+    <text bytes="4838" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #18 Gowav
+|image   = [[File:Aguav.png]]
+|caption = Cette Baie est amère vers la tige. Sa fleur délicate absorbe très peu de lumière.
+|growtime  = 5m 50s
+|harvest = 17 baies
+|replant = 30%
+|mutation = 0.6%
+|points = 55
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 épicée
+*0 sèche
+*0 sucrée
+*15 amère
+*0 acide
+}}
+
+'''Gowav''' est un type de [[Berry/fr|Baie]] qui peut être plantée dans la [[Farm/fr|Ferme]]. Elle s'obtient en entourant une parcelle vide avec au moins avec 25, mais pas plus de 80 points de saveur amère et moins de 5 points pour toutes les autres saveurs. La baie [[Rawst/fr|Fraive]] doit avoir été débloquée pour pouvoir débloquer la Gowav.
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Growth Tables ==
+=== Growth Stages ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 40 secs || 2 mins 50 secs || 3 mins 40 secs || 5 mins 50 secs - 11 mins 40 secs
+|-
+! Animation
+|  &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:AguavTreeTaller.png|50px]] || &lt;center&gt; [[File:AguavTreeBloom.png|50px]] || &lt;center&gt; [[File:AguavTreeBerry.png|50px]]
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+=== Ripening Time with Modifiers ===
+{| class="wikitable" | style="text-align: center;"
+! Modifier !! Ripe-Wither Time
+|-
+! None
+| 5 mins 50 secs -&lt;br&gt; 11 mins 40 secs
+|-
+! Sprayduck
+| 3 mins 53 secs -&lt;br&gt; 7 mins 47 secs
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Flow Chart ==
+[[File:Aguav_Flow_Chart.png|100px]]
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Mutation Strategy ==
+=== Possible Planting Formations ===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+You can fill your farm in the following way to obtain Aguav berries. Purple squares indicate where mutations can occur.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Base Formation
+|- style="height: 50px;"
+| style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Rawst.png|30px]] [[Rawst]]
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Rawst.png|30px]] [[Rawst]] || [[File:Rawst.png|30px]] [[Rawst]]
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Optimized Planting Formation
+|-
+| style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Rawst.png|30px]] [[Rawst]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Rawst.png|30px]] [[Rawst]]
+|-
+| [[File:Rawst.png|30px]] [[Rawst]] || [[File:Rawst.png|30px]] [[Rawst]] || style="background-color:#9C7D98;" | || [[File:Rawst.png|30px]] [[Rawst]] || [[File:Rawst.png|30px]] [[Rawst]] 
+|- style="height: 50px;"
+| style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" |
+|-
+| style="background-color:#9C7D98;" | || [[File:Rawst.png|30px]] [[Rawst]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Rawst.png|30px]] [[Rawst]] 
+|-
+| [[File:Rawst.png|30px]] [[Rawst]] || [[File:Rawst.png|30px]] [[Rawst]] || style="background-color:#9C7D98;" | || [[File:Rawst.png|30px]] [[Rawst]] || [[File:Rawst.png|30px]] [[Rawst]] 
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Uses==
+===Mutations===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Aguav berries can be used to mutate the following berries.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Hondew.png|20px]] [[Hondew]] || [[File:Figy.png|20px]] [[Figy]] &lt;br&gt; [[File:Wiki.png|20px]] [[Wiki]]
+|-
+| [[File:Grepa.png|20px]] [[Grepa]] || [[File:Figy.png|20px]] [[Figy]]
+|-
+| [[File:Rabuta.png|20px]] [[Rabuta]] || [[File:Aspear.png|20px]] [[Aspear]]
+|-
+| [[File:Rindo.png|20px]] [[Rindo]] || [[File:Cheri.png|20px]] [[Cheri]] &lt;br&gt; OR &lt;br&gt; [[File:Figy.png|20px]] [[Figy]]
+|-
+| [[File:Coba.png|20px]] [[Coba]] || [[File:Chesto.png|20px]] [[Chesto]] &lt;br&gt; OR &lt;br&gt; [[File:Wiki.png|20px]] [[Wiki]]
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Acquisition==
+===Dungeons===
+{{Loot/head‎|Berries}}
+{{LootItem|Radio Tower|Epic}}
+{{LootItem|Flower Paradise|Common}}
+{{LootItem|Chargestone Cave|Common}}
+{{LootItem|Pokémon Village|Common}}
+|}
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>LeChatMG</username>
+      <id>97</id>
+    </contributor>
+    <comment>Voquille</comment>
+    <model>wikitext</model>
+    <parentid>22861</parentid>
+    <sha1>8cfa4c91178cf8acfe52114990ac62e3a47d1a20</sha1>
+  </revision>
+</page>

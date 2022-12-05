@@ -1,0 +1,75 @@
+<page>
+  <title>Petalburg Woods</title>
+  <ns>0</ns>
+  <id>352</id>
+  <revision>
+    <id>5134</id>
+    <timestamp>2022-03-16T09:49:34Z</timestamp>
+    <text bytes="2228" space="preserve">{{Infobox dungeon
+|name    = Petalburg Woods
+|image   = [[File:Petalburg Woods.png|300px]]
+|caption = A map of Petalburg Woods.
+|tokens  = 12,000
+|location = South of Rustboro City.
+}}
+'''Petalburg Woods''' is a [[Dungeons|dungeon]] in [[Hoenn]]. It initially has 49 tiles arranged in a 7x7 square, including 7 chest tiles, 17 non-boss encounter tiles, and 1 boss encounter tile.
+
+==Pokémon and Dungeon Stats==
+
+{| class="wikitable"
+|-
+! Wild Encounter !! Base Health !! Trainer !! Pokémon !! Base Health
+|-
+| [[File:Poochyena.png|40px]] Poochyena || rowspan=6| &lt;center&gt; 380,000 || rowspan=4|[[File:Bug_Catcher.png|40px]] Bug Catcher Lyle || rowspan=4|[[File:Wurmple.png|40px]] Wurmple, [[File:Wurmple.png|40px]] Wurmple, [[File:Wurmple.png|40px]] Wurmple, [[File:Wurmple.png|40px]] Wurmple || rowspan=6| &lt;center&gt; 12,000
+|-
+| [[File:Wurmple.png|40px]] Wurmple
+|-
+| [[File:Silcoon.png|40px]] Silcoon
+|-
+| [[File:Cascoon.png|40px]] Cascoon
+|-
+| [[File:Taillow.png|40px]] Taillow || rowspan=2|[[File:Bug_Catcher.png|40px]] Bug Catcher James || rowspan=2|[[File:Nincada.png|40px]] Nincada, [[File:Nincada.png|40px]] Nincada
+|-
+| [[File:Shroomish.png|40px]] Shroomish
+|-
+! Boss !! Base Health !! Boss Trainer !! Pokémon !! Base Health
+|-
+| [[File:Slakoth.png|40px]] '''Slakoth*''' || &lt;center&gt; 860,000 || [[File:Team_Aqua_Grunt_(male).png|40px]] Team Aqua Grunt || [[File:Poochyena.png|40px]] Poochyena || &lt;center&gt; 860,000
+|}
+
+'''*Must have cleared Petalburg Woods at least once to unlock Slakoth'''
+
+==Items==
+
+{| class="wikitable"
+|-
+! Chest Item !! 0 Clears !! 100 Clears !! 500 Clears !! Requirement
+|-
+| {{Bag4|Pokéball}} || 46.24% || 45.65% ||  41.50% || No Requirement
+|-
+| {{Bag3|Token Collector}} [[Token Collector]] || 46.24% || 45.65% ||  41.50% || No Requirement
+|-
+| {{Bag4|Greatball}} || 6.07% || 6.14% ||  8.13% || No Requirement
+|-
+| {{Bag2|Meadow Plate}} || 0.41% || 0.57% ||  2.37% || No Requirement
+|-
+| {{Bag2|Insect Plate}} || 0.41% || 0.57% ||  2.37% || No Requirement
+|-
+| {{Bag2|Iron Plate}} || 0.41% || 0.57% ||  2.37% || No Requirement
+|-
+| {{Bag2|Small Restore}} || 0.21% || 0.49% ||  2.18% || No Requirement
+|-
+| {{Bag2|Grass Egg}} || 0.03% || 0.35% || 1.58% || No Requirement
+|}
+
+[[Category:Dungeons]]</text>
+    <contributor>
+      <username>SomeonealiveQN</username>
+      <id>5</id>
+    </contributor>
+    <comment>/* Items */Petarlburg woods loot</comment>
+    <model>wikitext</model>
+    <parentid>5133</parentid>
+    <sha1>23e814ba47e0b85faa42d1cb6bbcfe2ff7b1694c</sha1>
+  </revision>
+</page>

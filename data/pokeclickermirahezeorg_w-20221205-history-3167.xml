@@ -1,0 +1,151 @@
+<page>
+  <title>Mt Mortar</title>
+  <ns>0</ns>
+  <id>374</id>
+  <revision>
+    <id>5301</id>
+    <timestamp>2022-07-30T04:49:53Z</timestamp>
+    <text bytes="4032" space="preserve">{{Infobox dungeon
+|name    = Mt Mortar
+|image   = [[File:Mt Mortar.png|thumb]]
+|caption = A map of Mt Mortar.
+|tokens  = 5,500
+|location = On route 42, east of Ecruteak City.
+}}
+'''Mt Mortar''' is a [[Dungeons|dungeon]] in [[Johto]]. It initially has 36 tiles arranged in a 6x6 square, including 6 chest tiles, 15 non-boss encounter tiles, and 1 boss encounter tile. Wild Encounters have 104,100 HP. The first time you clear this dungeon you will be awarded with a [[Fighting Egg|Fighting egg]].
+
+== Encounter Tables ==
+
+===Wild Encounters===
+
+{| class="wikitable"
+|-
+! Wild Pokémon !! colspan=2|Trainers
+|-
+! Encounter !! Trainer !! Pokémon Team
+|-
+| [[File:Rattata.png|40px]] Rattata || rowspan=2|[[File:PokéManiac.png|40px]] PokéManiac Miller || rowspan=2|[[File:Nidoking.png|40px]] Nidoking, [[File:Nidoqueen.png|40px]] Nidoqueen
+|-
+| [[File:Zubat.png|40px]] Zubat 
+|-
+| [[File:Geodude.png|40px]] Geodude || rowspan=2|[[File:Super_Nerd.png|40px]] Super Nerd Markus || rowspan=2|[[File:Slowpoke.png|40px]] Slowpoke
+|-
+| [[File:Marill.png|40px]] Marill 
+|-
+| [[File:Raticate.png|40px]] Raticate || rowspan=3|[[File:Super_Nerd.png|40px]] Super Nerd Hugh || rowspan=3|[[File:Seadra.png|40px]] Seadra
+|-
+| [[File:Golbat.png|40px]] Golbat 
+|-
+| [[File:Graveler.png|40px]] Graveler
+|-
+|}
+
+===Boss Encounters===
+{| class="wikitable"
+|-
+! Wild Pokémon !! Base Health !! Boss Trainer !! Pokémon Team !! Base Health
+|-
+| [[File:Tyrogue.png|40px]] '''Tyrogue*''' || &lt;center&gt;420,000 || rowspan=3|[[File:Black_Belt.png|40px]] Black Belt Kiyo || [[File:Hitmonlee.png|40px]] Hitmonlee, [[File:Hitmonchan.png|40px]] Hitmonchan || &lt;center&gt;210,000
+|}
+
+'''*Note: Must have cleared Mt Mortar once'''
+
+==Items==
+
+===No Debuff===
+
+{| class="wikitable"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+|-
+| align="center" colspan=6| '''Common'''
+|-
+| {{Bag2|xAttack}} || 6 || 64.26% || 61.71% || 51.43%
+|-
+| {{Pokemon|Graveler}} || N/A || 10.71% || 10.29% || 8.57%
+|-
+| align="center" colspan=6| '''Rare'''
+|-
+| {{Bag2|Green Shard}} || N/A || 10.00% || 10.50% || 12.47%
+|-
+| {{Bag2|Grey Shard}} || N/A || 10.00% || 10.50% || 12.47%
+|-
+| align="center" colspan=6| '''Epic'''
+|-
+| {{Bag2|Iron Plate}} || N/A || 1.00% || 1.30% || 2.50%
+|-
+| {{Bag2|Stone Plate}} || N/A || 1.00% || 1.30% || 2.50%
+|-
+| {{Bag2|Earth Plate}} || N/A || 1.00% || 1.30% || 2.50%
+|-
+| {{Bag2|Draco Plate}} || N/A || 1.00% || 1.30% || 2.50%
+|-
+| align="center" colspan=6| '''Legendary'''
+|-
+| {{Bag2|Ultraball}} || N/A || 0.33% || 0.53% || 1.33%
+|-
+| {{Bag2|Large Restore}} || N/A || 0.33% || 0.53% || 1.33%
+|-
+| {{Bag2|Revive}} || N/A || 0.33% || 0.53% || 1.33%
+|-
+| align="center" colspan=6| '''Mythic'''
+|-
+| {{Bag2|Max Revive}} || N/A || 0.01% || 0.22% || 1.06%
+|}
+
+===Debuff Drop Table===
+
+After Reaching Unova, the drop chance for items in Johto will be debuffed for any loot with a Tier rarer than Rare (ie: Epic, Legendary, Mythic).
+
+{| class="wikitable collapsible collapsed"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+|-
+| align="center" colspan=6| '''Common'''
+|-
+| {{Bag2|xAttack}} || 6 || 64.29% || 64.29% || 64.29%
+|-
+| {{Pokemon|Graveler}} || N/A || 10.71% || 10.71% || 10.71%
+|-
+| align="center" colspan=6| '''Rare'''
+|-
+| {{Bag2|Green Shard}} || N/A || 12.00% || 12.00% || 12.00%
+|-
+| {{Bag2|Grey Shard}} || N/A || 12.00% || 12.00% || 12.00%
+|-
+| align="center" colspan=6| '''Epic'''
+|-
+| {{Bag2|Iron Plate}} || N/A || 0.22% || 0.22% || 0.22%
+|-
+| {{Bag2|Stone Plate}} || N/A || 0.22% || 0.22% || 0.22%
+|-
+| {{Bag2|Earth Plate}} || N/A || 0.22% || 0.22% || 0.22%
+|-
+| {{Bag2|Draco Plate}} || N/A || 0.22% || 0.22% || 0.22%
+|-
+| align="center" colspan=6| '''Legendary'''
+|-
+| {{Bag2|Ultraball}} || N/A || 0.03% || 0.03% || 0.03%
+|-
+| {{Bag2|Large Restore}} || N/A || 0.03% || 0.03% || 0.03%
+|-
+| {{Bag2|Revive}} || N/A || 0.03% || 0.03% || 0.03%
+|-
+| align="center" colspan=6| '''Mythic'''
+|-
+| {{Bag2|Max Revive}} || N/A || &lt;0.01% || &lt;0.01% || &lt;0.01%
+|}
+
+{{Johto Dungeons}}
+
+[[Category:Dungeons|^Region #2 - Johto^i]]</text>
+    <contributor>
+      <username>ThePantMan</username>
+      <id>8</id>
+    </contributor>
+    <comment>/* Debuff Drop Table */</comment>
+    <model>wikitext</model>
+    <parentid>5300</parentid>
+    <sha1>c981764a4e79a9ad738cdd123441901a642baf94</sha1>
+  </revision>
+</page>

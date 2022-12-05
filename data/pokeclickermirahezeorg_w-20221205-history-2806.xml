@@ -1,0 +1,747 @@
+<page>
+  <title>Aguav/es</title>
+  <ns>0</ns>
+  <id>7590</id>
+  <revision>
+    <id>21547</id>
+    <timestamp>2022-08-02T19:11:49Z</timestamp>
+    <text bytes="4771" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #18 Guaya (Aguav)
+|image   = [[File:Aguav.png]]
+|caption = La parte cercana al tallo es un poco amarga. Su delicada flor no necesita mucha luz.
+|growtime  = 5m 50s
+|harvest = 17 bayas
+|replant = 30%
+|mutation = 0.6%
+|points = 55
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 picante
+*0 seco
+*0 dulce
+*15 amargo
+*0 ácido
+}}
+
+'''Guaya (Aguav)''' es un tipo de [[Berries|baya]] que puede ser plantada en la [[Farm|granja]]. Se puede obtener rodeando una parcela con al menos de 25 y no más de 80 puntos amargos y menos de 5 puntos de cualquier otro sabor. Se requiere haber desbloqueado la baya [[Rawst|Safre (Rawst)]] para desbloquear esta baya.
+
+== Tablas de Crecimiento ==
+=== Estados de Crecimiento ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Brote !! Crecimiento !! Floración !! Madurez
+|-
+! Tiempo pasado desde que se planta
+| 40 seg || 2 min 50 seg || 3 min 40 seg || 5 min 50 seg - 11 min 40 seg
+|-
+! Animación
+|  &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:AguavTreeTaller.png|50px]] || &lt;center&gt; [[File:AguavTreeBloom.png|50px]] || &lt;center&gt; [[File:AguavTreeBerry.png|50px]]
+|}
+
+=== Tiempos de Maduración con modificadores===
+{| class="wikitable" | style="text-align: center;"
+! Modificador !! Tiempo hasta la madurez-marchitado
+|-
+! Ninguno
+| 5 min 50 seg -&lt;br&gt; 11 min 40 seg
+|-
+! Psydugadera
+| 3 min 53 seg -&lt;br&gt; 7 min 47 seg
+|}
+
+== Diagrama de Flujo ==
+[[File:Aguav_Flow_Chart.png|100px]]
+&lt;br&gt;
+'''Leyenda:'''&lt;br&gt;
+· Random Drop: Obtenido aleatoriamente en ruta
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Mutation Strategy ==
+=== Possible Planting Formations ===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+You can fill your farm in the following way to obtain Aguav berries. Purple squares indicate where mutations can occur.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Base Formation
+|- style="height: 50px;"
+| style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Rawst.png|30px]] [[Rawst]]
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Rawst.png|30px]] [[Rawst]] || [[File:Rawst.png|30px]] [[Rawst]]
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Optimized Planting Formation
+|-
+| style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Rawst.png|30px]] [[Rawst]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Rawst.png|30px]] [[Rawst]]
+|-
+| [[File:Rawst.png|30px]] [[Rawst]] || [[File:Rawst.png|30px]] [[Rawst]] || style="background-color:#9C7D98;" | || [[File:Rawst.png|30px]] [[Rawst]] || [[File:Rawst.png|30px]] [[Rawst]] 
+|- style="height: 50px;"
+| style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" |
+|-
+| style="background-color:#9C7D98;" | || [[File:Rawst.png|30px]] [[Rawst]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Rawst.png|30px]] [[Rawst]] 
+|-
+| [[File:Rawst.png|30px]] [[Rawst]] || [[File:Rawst.png|30px]] [[Rawst]] || style="background-color:#9C7D98;" | || [[File:Rawst.png|30px]] [[Rawst]] || [[File:Rawst.png|30px]] [[Rawst]] 
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Uses==
+===Mutations===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Aguav berries can be used to mutate the following berries.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Hondew.png|20px]] [[Hondew]] || [[File:Figy.png|20px]] [[Figy]] &lt;br&gt; [[File:Wiki.png|20px]] [[Wiki]]
+|-
+| [[File:Grepa.png|20px]] [[Grepa]] || [[File:Figy.png|20px]] [[Figy]]
+|-
+| [[File:Rabuta.png|20px]] [[Rabuta]] || [[File:Aspear.png|20px]] [[Aspear]]
+|-
+| [[File:Rindo.png|20px]] [[Rindo]] || [[File:Cheri.png|20px]] [[Cheri]] &lt;br&gt; OR &lt;br&gt; [[File:Figy.png|20px]] [[Figy]]
+|-
+| [[File:Coba.png|20px]] [[Coba]] || [[File:Chesto.png|20px]] [[Chesto]] &lt;br&gt; OR &lt;br&gt; [[File:Wiki.png|20px]] [[Wiki]]
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Acquisition==
+===Dungeons===
+{{Loot/head‎|Berries}}
+{{LootItem|Radio Tower|Epic}}
+{{LootItem|Flower Paradise|Common}}
+{{LootItem|Chargestone Cave|Common}}
+{{LootItem|Pokémon Village|Common}}
+|}
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>Cthulhu Follower</username>
+      <id>51</id>
+    </contributor>
+    <comment>Created page with "== Diagrama de Flujo == [[File:Aguav_Flow_Chart.png|100px]] &lt;br&gt; '''Leyenda:'''&lt;br&gt; · Random Drop: Obtenido aleatoriamente en ruta"</comment>
+    <model>wikitext</model>
+    <parentid>21546</parentid>
+    <sha1>205caccb4139078bc1f0b37221e2017de6aa632f</sha1>
+  </revision>
+  <revision>
+    <id>21546</id>
+    <timestamp>2022-08-02T19:10:09Z</timestamp>
+    <text bytes="4753" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #18 Guaya (Aguav)
+|image   = [[File:Aguav.png]]
+|caption = La parte cercana al tallo es un poco amarga. Su delicada flor no necesita mucha luz.
+|growtime  = 5m 50s
+|harvest = 17 bayas
+|replant = 30%
+|mutation = 0.6%
+|points = 55
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 picante
+*0 seco
+*0 dulce
+*15 amargo
+*0 ácido
+}}
+
+'''Guaya (Aguav)''' es un tipo de [[Berries|baya]] que puede ser plantada en la [[Farm|granja]]. Se puede obtener rodeando una parcela con al menos de 25 y no más de 80 puntos amargos y menos de 5 puntos de cualquier otro sabor. Se requiere haber desbloqueado la baya [[Rawst|Safre (Rawst)]] para desbloquear esta baya.
+
+== Tablas de Crecimiento ==
+=== Estados de Crecimiento ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Brote !! Crecimiento !! Floración !! Madurez
+|-
+! Tiempo pasado desde que se planta
+| 40 seg || 2 min 50 seg || 3 min 40 seg || 5 min 50 seg - 11 min 40 seg
+|-
+! Animación
+|  &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:AguavTreeTaller.png|50px]] || &lt;center&gt; [[File:AguavTreeBloom.png|50px]] || &lt;center&gt; [[File:AguavTreeBerry.png|50px]]
+|}
+
+=== Tiempos de Maduración con modificadores===
+{| class="wikitable" | style="text-align: center;"
+! Modificador !! Tiempo hasta la madurez-marchitado
+|-
+! Ninguno
+| 5 min 50 seg -&lt;br&gt; 11 min 40 seg
+|-
+! Psydugadera
+| 3 min 53 seg -&lt;br&gt; 7 min 47 seg
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Flow Chart ==
+[[File:Aguav_Flow_Chart.png|100px]]
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Mutation Strategy ==
+=== Possible Planting Formations ===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+You can fill your farm in the following way to obtain Aguav berries. Purple squares indicate where mutations can occur.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Base Formation
+|- style="height: 50px;"
+| style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Rawst.png|30px]] [[Rawst]]
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Rawst.png|30px]] [[Rawst]] || [[File:Rawst.png|30px]] [[Rawst]]
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Optimized Planting Formation
+|-
+| style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Rawst.png|30px]] [[Rawst]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Rawst.png|30px]] [[Rawst]]
+|-
+| [[File:Rawst.png|30px]] [[Rawst]] || [[File:Rawst.png|30px]] [[Rawst]] || style="background-color:#9C7D98;" | || [[File:Rawst.png|30px]] [[Rawst]] || [[File:Rawst.png|30px]] [[Rawst]] 
+|- style="height: 50px;"
+| style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" |
+|-
+| style="background-color:#9C7D98;" | || [[File:Rawst.png|30px]] [[Rawst]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Rawst.png|30px]] [[Rawst]] 
+|-
+| [[File:Rawst.png|30px]] [[Rawst]] || [[File:Rawst.png|30px]] [[Rawst]] || style="background-color:#9C7D98;" | || [[File:Rawst.png|30px]] [[Rawst]] || [[File:Rawst.png|30px]] [[Rawst]] 
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Uses==
+===Mutations===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Aguav berries can be used to mutate the following berries.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Hondew.png|20px]] [[Hondew]] || [[File:Figy.png|20px]] [[Figy]] &lt;br&gt; [[File:Wiki.png|20px]] [[Wiki]]
+|-
+| [[File:Grepa.png|20px]] [[Grepa]] || [[File:Figy.png|20px]] [[Figy]]
+|-
+| [[File:Rabuta.png|20px]] [[Rabuta]] || [[File:Aspear.png|20px]] [[Aspear]]
+|-
+| [[File:Rindo.png|20px]] [[Rindo]] || [[File:Cheri.png|20px]] [[Cheri]] &lt;br&gt; OR &lt;br&gt; [[File:Figy.png|20px]] [[Figy]]
+|-
+| [[File:Coba.png|20px]] [[Coba]] || [[File:Chesto.png|20px]] [[Chesto]] &lt;br&gt; OR &lt;br&gt; [[File:Wiki.png|20px]] [[Wiki]]
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Acquisition==
+===Dungeons===
+{{Loot/head‎|Berries}}
+{{LootItem|Radio Tower|Epic}}
+{{LootItem|Flower Paradise|Common}}
+{{LootItem|Chargestone Cave|Common}}
+{{LootItem|Pokémon Village|Common}}
+|}
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>Cthulhu Follower</username>
+      <id>51</id>
+    </contributor>
+    <comment>Created page with "=== Tiempos de Maduración con modificadores=== {| class="wikitable" | style="text-align: center;" ! Modificador !! Tiempo hasta la madurez-marchitado |- ! Ninguno | 5 min 50 seg -&lt;br&gt; 11 min 40 seg |- ! Psydugadera | 3 min 53 seg -&lt;br&gt; 7 min 47 seg |}"</comment>
+    <model>wikitext</model>
+    <parentid>21545</parentid>
+    <sha1>863187335aaeb92c7321b6689f86293507fab7c8</sha1>
+  </revision>
+  <revision>
+    <id>21545</id>
+    <timestamp>2022-08-02T19:10:04Z</timestamp>
+    <text bytes="4780" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #18 Guaya (Aguav)
+|image   = [[File:Aguav.png]]
+|caption = La parte cercana al tallo es un poco amarga. Su delicada flor no necesita mucha luz.
+|growtime  = 5m 50s
+|harvest = 17 bayas
+|replant = 30%
+|mutation = 0.6%
+|points = 55
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 picante
+*0 seco
+*0 dulce
+*15 amargo
+*0 ácido
+}}
+
+'''Guaya (Aguav)''' es un tipo de [[Berries|baya]] que puede ser plantada en la [[Farm|granja]]. Se puede obtener rodeando una parcela con al menos de 25 y no más de 80 puntos amargos y menos de 5 puntos de cualquier otro sabor. Se requiere haber desbloqueado la baya [[Rawst|Safre (Rawst)]] para desbloquear esta baya.
+
+== Tablas de Crecimiento ==
+=== Estados de Crecimiento ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Brote !! Crecimiento !! Floración !! Madurez
+|-
+! Tiempo pasado desde que se planta
+| 40 seg || 2 min 50 seg || 3 min 40 seg || 5 min 50 seg - 11 min 40 seg
+|-
+! Animación
+|  &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:AguavTreeTaller.png|50px]] || &lt;center&gt; [[File:AguavTreeBloom.png|50px]] || &lt;center&gt; [[File:AguavTreeBerry.png|50px]]
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+=== Ripening Time with Modifiers ===
+{| class="wikitable" | style="text-align: center;"
+! Modifier !! Ripe-Wither Time
+|-
+! None
+| 5 mins 50 secs -&lt;br&gt; 11 mins 40 secs
+|-
+! Sprayduck
+| 3 mins 53 secs -&lt;br&gt; 7 mins 47 secs
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Flow Chart ==
+[[File:Aguav_Flow_Chart.png|100px]]
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Mutation Strategy ==
+=== Possible Planting Formations ===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+You can fill your farm in the following way to obtain Aguav berries. Purple squares indicate where mutations can occur.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Base Formation
+|- style="height: 50px;"
+| style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Rawst.png|30px]] [[Rawst]]
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Rawst.png|30px]] [[Rawst]] || [[File:Rawst.png|30px]] [[Rawst]]
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Optimized Planting Formation
+|-
+| style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Rawst.png|30px]] [[Rawst]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Rawst.png|30px]] [[Rawst]]
+|-
+| [[File:Rawst.png|30px]] [[Rawst]] || [[File:Rawst.png|30px]] [[Rawst]] || style="background-color:#9C7D98;" | || [[File:Rawst.png|30px]] [[Rawst]] || [[File:Rawst.png|30px]] [[Rawst]] 
+|- style="height: 50px;"
+| style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" |
+|-
+| style="background-color:#9C7D98;" | || [[File:Rawst.png|30px]] [[Rawst]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Rawst.png|30px]] [[Rawst]] 
+|-
+| [[File:Rawst.png|30px]] [[Rawst]] || [[File:Rawst.png|30px]] [[Rawst]] || style="background-color:#9C7D98;" | || [[File:Rawst.png|30px]] [[Rawst]] || [[File:Rawst.png|30px]] [[Rawst]] 
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Uses==
+===Mutations===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Aguav berries can be used to mutate the following berries.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Hondew.png|20px]] [[Hondew]] || [[File:Figy.png|20px]] [[Figy]] &lt;br&gt; [[File:Wiki.png|20px]] [[Wiki]]
+|-
+| [[File:Grepa.png|20px]] [[Grepa]] || [[File:Figy.png|20px]] [[Figy]]
+|-
+| [[File:Rabuta.png|20px]] [[Rabuta]] || [[File:Aspear.png|20px]] [[Aspear]]
+|-
+| [[File:Rindo.png|20px]] [[Rindo]] || [[File:Cheri.png|20px]] [[Cheri]] &lt;br&gt; OR &lt;br&gt; [[File:Figy.png|20px]] [[Figy]]
+|-
+| [[File:Coba.png|20px]] [[Coba]] || [[File:Chesto.png|20px]] [[Chesto]] &lt;br&gt; OR &lt;br&gt; [[File:Wiki.png|20px]] [[Wiki]]
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Acquisition==
+===Dungeons===
+{{Loot/head‎|Berries}}
+{{LootItem|Radio Tower|Epic}}
+{{LootItem|Flower Paradise|Common}}
+{{LootItem|Chargestone Cave|Common}}
+{{LootItem|Pokémon Village|Common}}
+|}
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>Cthulhu Follower</username>
+      <id>51</id>
+    </contributor>
+    <comment>Created page with "== Tablas de Crecimiento == === Estados de Crecimiento === {| class="wikitable" | style = "image-rendering: pixelated" ! !! Brote !! Crecimiento !! Floración !! Madurez |- ! Tiempo pasado desde que se planta | 40 seg || 2 min 50 seg || 3 min 40 seg || 5 min 50 seg - 11 min 40 seg |- ! Animación |  &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:AguavTreeTaller.png|50px]] || &lt;center&gt; [[File:AguavTreeBloom.png|50px]] || &lt;center&gt; File:AguavTreeBerry.png|50px..."</comment>
+    <model>wikitext</model>
+    <parentid>21544</parentid>
+    <sha1>f8afa75277404dd674f662cc9f9c0edad9283152</sha1>
+  </revision>
+  <revision>
+    <id>21544</id>
+    <timestamp>2022-08-02T18:55:09Z</timestamp>
+    <text bytes="4809" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #18 Guaya (Aguav)
+|image   = [[File:Aguav.png]]
+|caption = La parte cercana al tallo es un poco amarga. Su delicada flor no necesita mucha luz.
+|growtime  = 5m 50s
+|harvest = 17 bayas
+|replant = 30%
+|mutation = 0.6%
+|points = 55
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 picante
+*0 seco
+*0 dulce
+*15 amargo
+*0 ácido
+}}
+
+'''Guaya (Aguav)''' es un tipo de [[Berries|baya]] que puede ser plantada en la [[Farm|granja]]. Se puede obtener rodeando una parcela con al menos de 25 y no más de 80 puntos amargos y menos de 5 puntos de cualquier otro sabor. Se requiere haber desbloqueado la baya [[Rawst|Safre (Rawst)]] para desbloquear esta baya.
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Growth Tables ==
+=== Growth Stages ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 40 secs || 2 mins 50 secs || 3 mins 40 secs || 5 mins 50 secs - 11 mins 40 secs
+|-
+! Animation
+|  &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:AguavTreeTaller.png|50px]] || &lt;center&gt; [[File:AguavTreeBloom.png|50px]] || &lt;center&gt; [[File:AguavTreeBerry.png|50px]]
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+=== Ripening Time with Modifiers ===
+{| class="wikitable" | style="text-align: center;"
+! Modifier !! Ripe-Wither Time
+|-
+! None
+| 5 mins 50 secs -&lt;br&gt; 11 mins 40 secs
+|-
+! Sprayduck
+| 3 mins 53 secs -&lt;br&gt; 7 mins 47 secs
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Flow Chart ==
+[[File:Aguav_Flow_Chart.png|100px]]
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Mutation Strategy ==
+=== Possible Planting Formations ===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+You can fill your farm in the following way to obtain Aguav berries. Purple squares indicate where mutations can occur.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Base Formation
+|- style="height: 50px;"
+| style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Rawst.png|30px]] [[Rawst]]
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Rawst.png|30px]] [[Rawst]] || [[File:Rawst.png|30px]] [[Rawst]]
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Optimized Planting Formation
+|-
+| style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Rawst.png|30px]] [[Rawst]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Rawst.png|30px]] [[Rawst]]
+|-
+| [[File:Rawst.png|30px]] [[Rawst]] || [[File:Rawst.png|30px]] [[Rawst]] || style="background-color:#9C7D98;" | || [[File:Rawst.png|30px]] [[Rawst]] || [[File:Rawst.png|30px]] [[Rawst]] 
+|- style="height: 50px;"
+| style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" |
+|-
+| style="background-color:#9C7D98;" | || [[File:Rawst.png|30px]] [[Rawst]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Rawst.png|30px]] [[Rawst]] 
+|-
+| [[File:Rawst.png|30px]] [[Rawst]] || [[File:Rawst.png|30px]] [[Rawst]] || style="background-color:#9C7D98;" | || [[File:Rawst.png|30px]] [[Rawst]] || [[File:Rawst.png|30px]] [[Rawst]] 
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Uses==
+===Mutations===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Aguav berries can be used to mutate the following berries.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Hondew.png|20px]] [[Hondew]] || [[File:Figy.png|20px]] [[Figy]] &lt;br&gt; [[File:Wiki.png|20px]] [[Wiki]]
+|-
+| [[File:Grepa.png|20px]] [[Grepa]] || [[File:Figy.png|20px]] [[Figy]]
+|-
+| [[File:Rabuta.png|20px]] [[Rabuta]] || [[File:Aspear.png|20px]] [[Aspear]]
+|-
+| [[File:Rindo.png|20px]] [[Rindo]] || [[File:Cheri.png|20px]] [[Cheri]] &lt;br&gt; OR &lt;br&gt; [[File:Figy.png|20px]] [[Figy]]
+|-
+| [[File:Coba.png|20px]] [[Coba]] || [[File:Chesto.png|20px]] [[Chesto]] &lt;br&gt; OR &lt;br&gt; [[File:Wiki.png|20px]] [[Wiki]]
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Acquisition==
+===Dungeons===
+{{Loot/head‎|Berries}}
+{{LootItem|Radio Tower|Epic}}
+{{LootItem|Flower Paradise|Common}}
+{{LootItem|Chargestone Cave|Common}}
+{{LootItem|Pokémon Village|Common}}
+|}
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>Cthulhu Follower</username>
+      <id>51</id>
+    </contributor>
+    <comment>Created page with "'''Guaya (Aguav)''' es un tipo de [[Berries|baya]] que puede ser plantada en la [[Farm|granja]]. Se puede obtener rodeando una parcela con al menos de 25 y no más de 80 puntos amargos y menos de 5 puntos de cualquier otro sabor. Se requiere haber desbloqueado la baya [[Rawst|Safre (Rawst)]] para desbloquear esta baya."</comment>
+    <model>wikitext</model>
+    <parentid>21543</parentid>
+    <sha1>a9d591d1f8265b446b830877b513ca1691164565</sha1>
+  </revision>
+  <revision>
+    <id>21543</id>
+    <timestamp>2022-08-02T18:46:05Z</timestamp>
+    <text bytes="4832" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #18 Guaya (Aguav)
+|image   = [[File:Aguav.png]]
+|caption = La parte cercana al tallo es un poco amarga. Su delicada flor no necesita mucha luz.
+|growtime  = 5m 50s
+|harvest = 17 bayas
+|replant = 30%
+|mutation = 0.6%
+|points = 55
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 picante
+*0 seco
+*0 dulce
+*15 amargo
+*0 ácido
+}}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+'''Aguav''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by surrounding an empty plot with at least 25, but no more than 80 points of bitter and less than 5 points of all other flavours. The [[Rawst]] berry must be unlocked to obtain this berry.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Growth Tables ==
+=== Growth Stages ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 40 secs || 2 mins 50 secs || 3 mins 40 secs || 5 mins 50 secs - 11 mins 40 secs
+|-
+! Animation
+|  &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:AguavTreeTaller.png|50px]] || &lt;center&gt; [[File:AguavTreeBloom.png|50px]] || &lt;center&gt; [[File:AguavTreeBerry.png|50px]]
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+=== Ripening Time with Modifiers ===
+{| class="wikitable" | style="text-align: center;"
+! Modifier !! Ripe-Wither Time
+|-
+! None
+| 5 mins 50 secs -&lt;br&gt; 11 mins 40 secs
+|-
+! Sprayduck
+| 3 mins 53 secs -&lt;br&gt; 7 mins 47 secs
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Flow Chart ==
+[[File:Aguav_Flow_Chart.png|100px]]
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Mutation Strategy ==
+=== Possible Planting Formations ===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+You can fill your farm in the following way to obtain Aguav berries. Purple squares indicate where mutations can occur.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Base Formation
+|- style="height: 50px;"
+| style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Rawst.png|30px]] [[Rawst]]
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Rawst.png|30px]] [[Rawst]] || [[File:Rawst.png|30px]] [[Rawst]]
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Optimized Planting Formation
+|-
+| style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Rawst.png|30px]] [[Rawst]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Rawst.png|30px]] [[Rawst]]
+|-
+| [[File:Rawst.png|30px]] [[Rawst]] || [[File:Rawst.png|30px]] [[Rawst]] || style="background-color:#9C7D98;" | || [[File:Rawst.png|30px]] [[Rawst]] || [[File:Rawst.png|30px]] [[Rawst]] 
+|- style="height: 50px;"
+| style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" |
+|-
+| style="background-color:#9C7D98;" | || [[File:Rawst.png|30px]] [[Rawst]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Rawst.png|30px]] [[Rawst]] 
+|-
+| [[File:Rawst.png|30px]] [[Rawst]] || [[File:Rawst.png|30px]] [[Rawst]] || style="background-color:#9C7D98;" | || [[File:Rawst.png|30px]] [[Rawst]] || [[File:Rawst.png|30px]] [[Rawst]] 
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Uses==
+===Mutations===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Aguav berries can be used to mutate the following berries.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Hondew.png|20px]] [[Hondew]] || [[File:Figy.png|20px]] [[Figy]] &lt;br&gt; [[File:Wiki.png|20px]] [[Wiki]]
+|-
+| [[File:Grepa.png|20px]] [[Grepa]] || [[File:Figy.png|20px]] [[Figy]]
+|-
+| [[File:Rabuta.png|20px]] [[Rabuta]] || [[File:Aspear.png|20px]] [[Aspear]]
+|-
+| [[File:Rindo.png|20px]] [[Rindo]] || [[File:Cheri.png|20px]] [[Cheri]] &lt;br&gt; OR &lt;br&gt; [[File:Figy.png|20px]] [[Figy]]
+|-
+| [[File:Coba.png|20px]] [[Coba]] || [[File:Chesto.png|20px]] [[Chesto]] &lt;br&gt; OR &lt;br&gt; [[File:Wiki.png|20px]] [[Wiki]]
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Acquisition==
+===Dungeons===
+{{Loot/head‎|Berries}}
+{{LootItem|Radio Tower|Epic}}
+{{LootItem|Flower Paradise|Common}}
+{{LootItem|Chargestone Cave|Common}}
+{{LootItem|Pokémon Village|Common}}
+|}
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>Cthulhu Follower</username>
+      <id>51</id>
+    </contributor>
+    <comment>Created page with "{{Infobox Berry |name    = #18 Guaya (Aguav) |image   = [[File:Aguav.png]] |caption = La parte cercana al tallo es un poco amarga. Su delicada flor no necesita mucha luz. |growtime  = 5m 50s |harvest = 17 bayas |replant = 30% |mutation = 0.6% |points = 55 |flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt; *0 picante *0 seco *0 dulce *15 amargo *0 ácido }}"</comment>
+    <model>wikitext</model>
+    <parentid>21542</parentid>
+    <sha1>b20e5df0288b96f959850621615e4033dbc9c17a</sha1>
+  </revision>
+</page>

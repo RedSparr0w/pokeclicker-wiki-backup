@@ -1,0 +1,116 @@
+<page>
+  <title>Burned Tower</title>
+  <ns>0</ns>
+  <id>368</id>
+  <revision>
+    <id>5235</id>
+    <timestamp>2022-07-27T02:00:53Z</timestamp>
+    <text bytes="2505" space="preserve">{{Infobox dungeon
+|name    = Burned Tower
+|image   = [[File:Burned Tower.png|thumb]]
+|caption = An outside view of Burned Tower.
+|tokens  = 4,500
+|location = Northwest of Ecruteak City.
+}}
+'''Burned Tower''' is a [[dungeons|dungeon]] in [[Johto]]. It initially has 36 tiles arranged in a 6x6 square, including 6 chest tiles, 15 non-boss encounter tiles, and 1 boss encounter tile. Wild Encounters have 88,500 HP.
+
+== Encounter Tables ==
+
+===Wild Encounters===
+
+{| class="wikitable"
+|-
+! Wild Pokémon !! colspan=2|Trainers
+|-
+! Encounter !! Trainer !! Pokémon Team
+|-
+| [[File:Rattata.png|40px]] Rattata || colspan=2 rowspan=4|&lt;center&gt;N/A
+|-
+| [[File:Raticate.png|40px]] Raticate
+|-
+| [[File:Zubat.png|40px]] Zubat
+|-
+| [[File:Koffing.png|40px]] Koffing
+|}
+
+===Boss Encounters===
+{| class="wikitable"
+|-
+! Wild Pokémon !! Base Health !! Boss Trainer !! Pokémon Team !! Base Health
+|-
+| [[File:Golbat.png|40px]] Golbat || &lt;center&gt;360,000 || colspan=3 rowspan=3|&lt;center&gt;N/A
+|-
+| [[File:Weezing.png|40px]] Weezing || &lt;center&gt;320,000
+|-
+| [[File:Shuckle.png|40px]] Shuckle || &lt;center&gt;610,000
+|-
+|}
+
+==Items==
+
+===No Debuff===
+
+{| class="wikitable"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+|-
+| align="center" colspan=6| '''Common'''
+|-
+| {{Bag2|Dowsing Machine}} || 2 || 52.08% || 50.75% || 44.97%
+|-
+| {{Bag2|xAttack}} || N/A || 26.04% || 25.38% || 22.49%
+|-
+| align="center" colspan=6| '''Rare'''
+|-
+| {{Bag2|Red Shard}} || N/A || 20.85% || 22.19% || 28.05%
+|-
+| align="center" colspan=6| '''Legendary'''
+|-
+| {{Bag2|Revive}} || N/A || 0.35% || 0.56% || 1.50%
+|-
+| {{Bag2|Flame Plate}} || N/A || 0.35% || 0.56% || 1.50%
+|-
+| {{Bag2|Ultraball}} || N/A || 0.35% || 0.56% || 1.50%
+|}
+
+===Debuff Drop Table===
+
+After Reaching Unova, the drop chance for items in Johto will be debuffed for any loot with weight &lt; 2.
+
+{| class="wikitable collapsible collapsed"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+|-
+| align="center" colspan=6| '''Common'''
+|-
+| {{Bag2|Dowsing Machine}} || 2 || 50.45% || 50.45% || 50.45%
+|-
+| {{Bag2|xAttack}} || N/A || 25.23% || 25.23% || 25.23%
+|-
+| align="center" colspan=6| '''Rare'''
+|-
+| {{Bag2|Red Shard}} || N/A || 24.22% || 24.22% || 24.22%
+|-
+| align="center" colspan=6| '''Legendary'''
+|-
+| {{Bag2|Revive}} || N/A || 0.03% || 0.03% || 0.03%
+|-
+| {{Bag2|Flame Plate}} || N/A || 0.03% || 0.03% || 0.03%
+|-
+| {{Bag2|Ultraball}} || N/A || 0.03% || 0.03% || 0.03%
+|}
+
+
+{{Johto Dungeons}}
+
+[[Category:Dungeons|^Region #2 - Johto^f]]</text>
+    <contributor>
+      <username>LatiosRider</username>
+      <id>35</id>
+    </contributor>
+    <comment>Add Category header</comment>
+    <model>wikitext</model>
+    <parentid>5234</parentid>
+    <sha1>d43e82fff98bcc055f85b98fe4ecf19b0d007d79</sha1>
+  </revision>
+</page>

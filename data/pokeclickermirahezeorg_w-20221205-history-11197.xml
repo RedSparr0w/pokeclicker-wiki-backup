@@ -1,0 +1,84 @@
+<page>
+  <title>Kasib</title>
+  <ns>0</ns>
+  <id>770</id>
+  <revision>
+    <id>7975</id>
+    <timestamp>2021-01-06T02:45:13Z</timestamp>
+    <text bytes="2771" space="preserve">{{Infobox Berry
+|name    = #48 Kasib
+|image   = [[File:Kasib.png]]
+|caption = Considered to have a special power from the olden days, this Berry is sometimes dried and used as a good-luck charm. Nearby Pokémon are wary of this Berry plant.
+|growtime  = 5m 0s
+|harvest = 1 berry
+|replant = 100%
+|points = 25
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 spicy 
+*10 dry
+*20 sweet
+*0 bitter
+*0 sour
+}}
+== Description ==
+'''Kasib''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by letting any berry wither after unlocking [[Occa]] or any later berry.
+
+== Growth Tables ==
+=== Growth Stages ===
+{| class="wikitable"
+! !! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 30 secs || 1 min || 2 mins || 5 mins - 1 day
+|-
+! Animation
+| [[File:AllTreeSprout.png|50px]] || [[File:KasibTreeTaller.png|50px]] || [[File:KasibTreeBloom.png|50px]] || [[File:KasibTreeBerry.png|50px]]
+|-
+! Special Effect
+| &lt;center&gt; colspan=3| &lt;center&gt; None || &lt;center&gt; Wither Rate x5 &lt;br&gt; for all berries on farm
+|}
+
+=== Ripening Time with Modifiers  ===
+{| class="wikitable collapsible" | style="text-align: center;"
+! Modifier !! Ripe-Wither Time !! Boost Mulch Needed to Ripen
+|-
+! None
+| 5 mins -&lt;br&gt; 23 hours 55 mins || ---
+|-
+! Mulch/Sprayduck
+| 3 mins 20 secs -&lt;br&gt; 15 hours 56 mins 40 secs || 1 mulch
+|-
+! Mulch*Sprayduck
+| 2 mins 13 secs -&lt;br&gt; 10 hours 37 mins 47 secs || 1 mulch
+|}
+
+== Mutation Strategy ==
+=== Possible Planting Formations ===
+
+You can fill your [[farm]] in following way to obtain Kasib berry.
+
+{| class="wikitable" style="text-align: center;"
+|+ Farm
+|-
+| style="width: 50px;" | [[File:Cheri.png|30px]]&lt;br&gt;[[Cheri]] || style="width: 50px;" | [[File:Cheri.png|30px]]&lt;br&gt;[[Cheri]] || style="width: 50px;" | [[File:Cheri.png|30px]]&lt;br&gt;[[Cheri]] || style="width: 50px;" | [[File:Cheri.png|30px]]&lt;br&gt;[[Cheri]] || style="width: 50px;" | [[File:Cheri.png|30px]]&lt;br&gt;[[Cheri]]
+|-
+| [[File:Cheri.png|30px]]&lt;br&gt;[[Cheri]] || [[File:Cheri.png|30px]]&lt;br&gt;[[Cheri]] || [[File:Cheri.png|30px]]&lt;br&gt;[[Cheri]] || [[File:Cheri.png|30px]]&lt;br&gt;[[Cheri]] || [[File:Cheri.png|30px]]&lt;br&gt;[[Cheri]]
+|- style="height: 26px;"
+| [[File:Cheri.png|30px]]&lt;br&gt;[[Cheri]] || [[File:Cheri.png|30px]]&lt;br&gt;[[Cheri]] || [[File:Cheri.png|30px]]&lt;br&gt;[[Cheri]] || [[File:Cheri.png|30px]]&lt;br&gt;[[Cheri]] || [[File:Cheri.png|30px]]&lt;br&gt;[[Cheri]]
+|-
+| [[File:Cheri.png|30px]]&lt;br&gt;[[Cheri]] || [[File:Cheri.png|30px]]&lt;br&gt;[[Cheri]] || [[File:Cheri.png|30px]]&lt;br&gt;[[Cheri]] || [[File:Cheri.png|30px]]&lt;br&gt;[[Cheri]] || [[File:Cheri.png|30px]]&lt;br&gt;[[Cheri]]
+|-
+| [[File:Cheri.png|30px]]&lt;br&gt;[[Cheri]] || [[File:Cheri.png|30px]]&lt;br&gt;[[Cheri]] || [[File:Cheri.png|30px]]&lt;br&gt;[[Cheri]] || [[File:Cheri.png|30px]]&lt;br&gt;[[Cheri]] || [[File:Cheri.png|30px]]&lt;br&gt;[[Cheri]]
+|}
+
+{{Berries}}</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment>/* Growth Stages */</comment>
+    <model>wikitext</model>
+    <parentid>7974</parentid>
+    <sha1>f0b0f971a3d03519ce8954a21ccb5cd2b7eca93e</sha1>
+  </revision>
+</page>

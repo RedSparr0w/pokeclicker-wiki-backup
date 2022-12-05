@@ -1,0 +1,115 @@
+<page>
+  <title>Seafoam Islands</title>
+  <ns>0</ns>
+  <id>327</id>
+  <revision>
+    <id>4913</id>
+    <timestamp>2022-04-28T05:33:41Z</timestamp>
+    <text bytes="2619" space="preserve">{{Infobox dungeon
+|name    = Seafoam Islands
+|image   = [[File:Seafoam Islands.png|thumb]]
+|caption = An overhead map of the Seafoam Islands.
+|tokens  = 1,250
+|location = West of Cinnabar Island, on route 19.
+}}
+The '''Seafoam Islands''' is a [[Dungeons|dungeon]] in [[Kanto]]. It has 25 tiles arranged in a 5x5 square, including 5 chest tiles, 13 non-boss encounter tiles, and 1 boss encounter tile. Wild Encounters have 17,226 HP.
+
+== Encounter Tables ==
+
+===Wild Encounters===
+
+{| class="wikitable"
+|-
+! Wild Pokémon !! colspan=2|Trainers
+|-
+! Encounter !! Trainer !! Pokémon Team
+|-
+| [[File:Zubat.png|40px]] Zubat || colspan=2 rowspan=11|&lt;center&gt; N/A
+|-
+| [[File:Golbat.png|40px]] Golbat
+|-
+| [[File:Goldeen.png|40px]] Goldeen
+|-
+| [[File:Poliwag.png|40px]] Poliwag
+|-
+| [[File:Magikarp.png|40px]] Magikarp
+|-
+| [[File:Slowpoke.png|40px]] Slowpoke
+|-
+| [[File:Slowbro.png|40px]] Slowbro
+|-
+| [[File:Tentacool.png|40px]] Tentacool
+|-
+| [[File:Krabby.png|40px]] Krabby
+|-
+| [[File:Kingler.png|40px]] Kingler
+|-
+| [[File:Staryu.png|40px]] Staryu
+|-
+|}
+
+===Boss Encounters===
+{| class="wikitable"
+|-
+! Wild Pokémon !! Base Health !! Boss Trainer !! Pokémon Team !! Base Health
+|-
+| [[File: Seel.png|40px]] Seel || &lt;center&gt; 86,130 || colspan=3 rowspan=2|&lt;center&gt; N/A
+|-
+| [[File: Articuno.png|40px]] Articuno || &lt;center&gt; 129,195
+|}
+
+==Items==
+
+===No Debuff===
+
+{| class="wikitable"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears !! Requirement 
+|-
+| {{Bag2|XAttack}} || 4 || 79.31% || 78.43% || 74.56% || rowspan=3|&lt;center&gt;N/A
+|-
+| {{Bag2|Aspear}} || 3.5 || 20.48% || 20.37% || 19.79%
+|-
+| {{Bag2|Revive}} || 1.75 || 0.18% || 0.43% || 2.01%
+|-
+| {{Bag2|Water Egg}} || 1 || 0.00% || 0.31% || 1.46% || &lt;center&gt;100 Clears
+|-
+| {{Bag2|Ultraball}} || 1 || 0.025% || 0.31% || 1.46% ||rowspan=2|&lt;center&gt;N/A
+|-
+| {{Bag2|Water Stone}} || 0 || 0.0031% || 0.16% || 0.73% 
+|}
+
+===Debuff Drop Table===
+
+After Reaching Sinnoh, the drop chance for items in Kanto will be debuffed for any loot with weight &lt; 2.
+
+{| class="wikitable collapsible collapsed"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears !! Requirement
+|-
+| {{Bag2|XAttack}} || 4 || 79.48% || 79.33% || 78.76% || rowspan=3|&lt;center&gt;N/A
+|-
+| {{Bag2|Aspear}} || 3.5 || 20.52% || 20.60% || 20.91%
+|-
+| {{Bag2|Revive}} || 1.75 || 0.00027% || 0.027% || 0.13%
+|-
+| {{Bag2|Water Egg}} || 1 || 0.00% || 0.016% || 0.077% || &lt;center&gt;100 Clears
+|-
+| {{Bag2|Ultraball}} || 1 || 0.00016% || 0.016% || 0.077% || rowspan=2|&lt;center&gt;N/A
+|-
+| {{Bag2|Water Stone}} || 0 || 0.000078% || 0.0078% || 0.039%
+|}
+
+{{Kanto Dungeons}}
+
+[[Category:Dungeons]]</text>
+    <contributor>
+      <username>Razrushil</username>
+      <id>31</id>
+    </contributor>
+    <comment>/* Items */ Adding debuffed drop table</comment>
+    <model>wikitext</model>
+    <parentid>4912</parentid>
+    <sha1>6b92c8ee20bced3e94093f3cf085fc2e52d743a9</sha1>
+  </revision>
+</page>

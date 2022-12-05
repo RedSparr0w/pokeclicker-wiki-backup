@@ -1,0 +1,81 @@
+<page>
+  <title>Watmel</title>
+  <ns>0</ns>
+  <id>662</id>
+  <revision>
+    <id>7393</id>
+    <timestamp>2021-01-04T16:39:34Z</timestamp>
+    <text bytes="2892" space="preserve">{{Infobox Berry
+|name    = #33 Watmel
+|image   = [[File:Watmel.png]]
+|caption = A bounty of nature that is exceedingly sweet. The Berry is huge, with some discovered that exceed 20 inches.
+|growtime  = 4h 36m 0s
+|harvest = 32 berries
+|replant = 10%
+|points = 1,000
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 spicy 
+*0 dry
+*30 sweet
+*10 bitter
+*0 sour
+}}
+== Description ==
+'''Watmel''' is a type of [[Berries|Berry]] that can be planted in [[Farm]]. It can be obtained by surrounding a [[Magost]] with at least 130, but no more than 160 points of sweet and no more than 80 points of all other flavours. The [[Magost]] will then have a chance to mutate into this berry. 
+
+== Growth Tables ==
+=== Growth Stages ===
+{| class="wikitable"
+! !! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 38 mins 20 secs || 56 mins 40 secs || 2 hours 43 mins 20 secs || 4 hours 36 mins - 9 hours 12 mins 
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:WatmelTreeTaller.png|50px]] || &lt;center&gt; [[File:WatmelTreeBloom.png|50px]] || &lt;center&gt; [[File:WatmelTreeBerry.png|50px]]
+|}
+
+=== Ripening Time with Modifiers  ===
+{| class="wikitable collapsible" | style="text-align: center;"
+! Modifier !! Ripe-Wither Time !! Boost Mulch Needed to Ripen
+|-
+! None
+| 4 hours 36 mins -&lt;br&gt; 9 hours 12 mins || ---
+|-
+! Mulch/Sprayduck
+| 3 hours 4 mins -&lt;br&gt; 6 hours 8 mins || 37 mulch
+|-
+! Mulch*Sprayduck
+| 2 hours 2 mins 40 secs -&lt;br&gt; 4 hours 5 mins 20 secs || 25 mulch
+|}
+
+== Mutation Strategy ==
+=== Possible Planting Formations ===
+
+You can fill your [[farm]] in following way to obtain Watmel berry.
+
+{| class="wikitable" style="text-align: center;"
+|+ Farm
+|-
+| style="width: 50px;" | [[File:Magost.png|30px]]&lt;br&gt;[[Magost]] || style="width: 50px;" | [[File:Magost.png|30px]]&lt;br&gt;[[Magost]] || style="width: 50px;" | [[File:Magost.png|30px]]&lt;br&gt;[[Magost]] || style="width: 50px;" | [[File:Magost.png|30px]]&lt;br&gt;[[Magost]] || style="width: 50px;" | [[File:Magost.png|30px]]&lt;br&gt;[[Magost]]
+|-
+| [[File:Magost.png|30px]]&lt;br&gt;[[Magost]] || [[File:Magost.png|30px]]&lt;br&gt;[[Magost]] || [[File:Magost.png|30px]]&lt;br&gt;[[Magost]] || [[File:Magost.png|30px]]&lt;br&gt;[[Magost]] || [[File:Magost.png|30px]]&lt;br&gt;[[Magost]]
+|- style="height: 26px;"
+| [[File:Magost.png|30px]]&lt;br&gt;[[Magost]] || [[File:Magost.png|30px]]&lt;br&gt;[[Magost]] || [[File:Magost.png|30px]]&lt;br&gt;[[Magost]] || [[File:Magost.png|30px]]&lt;br&gt;[[Magost]] || [[File:Magost.png|30px]]&lt;br&gt;[[Magost]]
+|-
+| [[File:Magost.png|30px]]&lt;br&gt;[[Magost]] || [[File:Magost.png|30px]]&lt;br&gt;[[Magost]] || [[File:Magost.png|30px]]&lt;br&gt;[[Magost]] || [[File:Magost.png|30px]]&lt;br&gt;[[Magost]] || [[File:Magost.png|30px]]&lt;br&gt;[[Magost]]
+|-
+| [[File:Magost.png|30px]]&lt;br&gt;[[Magost]] || [[File:Magost.png|30px]]&lt;br&gt;[[Magost]] || [[File:Magost.png|30px]]&lt;br&gt;[[Magost]] || [[File:Magost.png|30px]]&lt;br&gt;[[Magost]] || [[File:Magost.png|30px]]&lt;br&gt;[[Magost]]
+|}
+
+{{Berries}}</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment>Growth Table</comment>
+    <model>wikitext</model>
+    <parentid>7392</parentid>
+    <sha1>9dcd9fb9215d57890c9474462a1aca71cafc4a2d</sha1>
+  </revision>
+</page>

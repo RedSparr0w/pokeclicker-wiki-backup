@@ -1,0 +1,57 @@
+<page>
+  <title>Template:Infobox dungeon</title>
+  <ns>10</ns>
+  <id>309</id>
+  <revision>
+    <id>4425</id>
+    <timestamp>2022-03-23T21:26:06Z</timestamp>
+    <text bytes="1598" space="preserve">{|class="infobox bordered" style="float:right; width:264px; font-size:90%; text-align:left; border:2px solid #404040; padding:3px;" cellpadding="3"
+|- 
+!colspan="2" style="font-size:110%; text-align:center; background-color:#{{Dungeons color dark}}; color:#FFF;"|{{{name}}}
+|-
+{{#if:{{{image&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} colspan="2" style="text-align:center;background-color:#FFF;" {{!}}{{{image}}}&lt;br /&gt;{{#if:{{{caption|}}}|&lt;br /&gt;{{{caption}}}}}
+{{!}}-
+}}
+{{#if:{{{tokens&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#{{Dungeons color light}}; color:#000;" {{!}}'''Tokens needed'''
+{{!}}{{{tokens}}} {{Dungeontokens}}
+{{!}}-
+}}
+{{#if:{{{location&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#{{Dungeons color light}}; color:#000;" {{!}}'''Location'''
+{{!}}{{{location}}}
+{{!}}-
+}}
+
+
+|}&lt;noinclude&gt;
+
+== Code ==
+&lt;pre&gt;{{Infobox Dungeon
+|name    =
+|image   =
+|caption =
+|tokens  =
+|location =
+}}&lt;/pre&gt;
+
+== Usage ==
+To use this template, place the code above at the top of an article and fill in the respective blanks.
+
+'''Where:'''
+*&lt;code&gt;name&lt;/code&gt; should be filled with the name of the dungeon.
+*&lt;code&gt;image&lt;/code&gt; should be filled with the background image of the dungeon (from the screen before you start the dungeon).
+*&lt;code&gt;caption&lt;/code&gt; should be filled with a description of the &lt;code&gt;image&lt;/code&gt; spot.
+*&lt;code&gt;tokens&lt;/code&gt; should be filled with the number of dungeon tokens needed to enter the dungeon.
+*&lt;code&gt;location&lt;/code&gt; should be filled with the general location of the dungeon; i.e., Viridian Forest is north of Viridian City on Route 2.</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>4424</parentid>
+    <sha1>3788d8c9747d6236444ac5e2c2e88dd84b32451f</sha1>
+  </revision>
+</page>

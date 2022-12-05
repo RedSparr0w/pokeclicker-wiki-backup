@@ -1,0 +1,31 @@
+<page>
+  <title>Translations:Shuca/3/en</title>
+  <ns>0</ns>
+  <id>6238</id>
+  <revision>
+    <id>19055</id>
+    <timestamp>2022-07-29T08:02:03Z</timestamp>
+    <text bytes="516" space="preserve">== Growth Tables ==
+=== Growth Stages ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+!!! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 2 hours || 4 hours 30 mins || 9 hours || 11 hours - 22 hours
+|-
+! Animation
+| &lt;center&gt;  [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:ShucaTreeTaller.png|50px]] || &lt;center&gt; [[File:ShucaTreeBloom.png|50px]] || &lt;center&gt; [[File:ShucaTreeBerry.png|50px]]
+|-
+! Aura (replant chance)
+| || &lt;center&gt; x1.01 || &lt;center&gt; x1.02 || &lt;center&gt; x1.03
+|}</text>
+    <contributor>
+      <username>FuzzyBot</username>
+      <id>133</id>
+    </contributor>
+    <comment>Importing a new version from external source</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>a505d19cbb79507fddb5cc61d2bff50f05c7435a</sha1>
+  </revision>
+</page>

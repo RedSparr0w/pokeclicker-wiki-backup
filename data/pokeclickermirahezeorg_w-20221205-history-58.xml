@@ -1,0 +1,2127 @@
+<page>
+  <title>Questlines</title>
+  <ns>0</ns>
+  <id>10103</id>
+  <revision>
+    <id>29950</id>
+    <timestamp>2022-12-04T18:56:45Z</timestamp>
+    <text bytes="54302" space="preserve">&lt;languages/&gt;
+&lt;translate&gt;
+&lt;!--T:1--&gt;
+Questlines are special kinds of Quests where the player follows a series of steps to unlock progress in the current [[Region]], unlock certain mechanics or receive different rewards like Items and Pokémon. Some are activated at certain points of the game while others require the player to check a Bulletin Board. For the list of randomly generated Quests, please check the corresponding [[Quests]] page instead.
+
+&lt;!--T:2--&gt;
+=Main Quests=
+These quests are activated automatically at certain points of the game. They usually unlock progress to certain areas of the game or give access to certain mechanics like the [[Underground]].
+
+&lt;!--T:3--&gt;
+==Tutorial==
+{| class="wikitable"
+|-
+! Type !! Requirement !! Reward
+|-
+| Defeat Pokémon || Defeat Your Starter || 10 {{Questpoints}}
+|-
+| Capture Pokémon || Capture 1 Pokémon || 20 {{Questpoints}}
+|-
+| Defeat Pokémon || Defeat 10 Pokémon on Route 2 || 20 {{Questpoints}}
+|-
+| Talk to NPC || Talk to Mom in [[Towns &amp; Cities#Kanto|Pallet Town]] || N/A
+|-
+| Purchase [[Items|Item]] || Buy 10 [[Pokéballs|Pokéballs]] [[File:Ball_Pokeball.png|15px]] || 50 {{Questpoints}}
+|-
+| Talk to NPC || Talk to Old Man in [[Towns &amp; Cities#Kanto|Viridian City]] || N/A
+|-
+| Capture Pokémon || Capture 5 Pidgey[[File:Pidgey.png|30px]] || 30 {{Questpoints}}
+|-
+| Purchase Item || Buy the [[Dungeon Ticket]][[File:Dungeonticket.png|15px]] || Access to [[Dungeons]]
+|-
+| Clear Dungeon || Clear [[Viridian Forest]] || 50 {{Questpoints}}
+|-
+| Defeat [[Gyms#Kanto|Gym]] || Beat Brock [[File:Brock.png|10px]] || 50 {{Questpoints}}
+|-
+|}
+
+&lt;!--T:4--&gt;
+==Team Rocket==
+{| class="wikitable"
+|+ Team Rocket
+! Type !! Requirement !! Reward
+|-
+| Prerequisite || Defeat the [[Gyms#Kanto|Cerulean City Gym]] || N/A
+|-
+| Defeat [[Dungeons|Dungeon]] || Defeat the [[Rocket Game Corner]] Dungeon in [[Towns &amp; Cities#Kanto|Celadon City]] || N/A
+|-
+| Defeat Dungeon || Defeat the [[Silph Co]] Dungeon in [[Towns &amp; Cities#Kanto|Saffron City]] || N/A
+|-
+| Defeat Gym || Defeat Giovanni in the [[Gyms#Kanto|Viridian City Gym]] || 1 [[Masterball]] [[File:Masterball.png|25px]]
+|-
+|}
+
+&lt;!--T:5--&gt;
+==Mining Expedition==
+{| class="wikitable"
+|+ Mining Expedition
+! Type !! Requirement !! Reward
+|-
+| Prerequisite || Defeat the [[Gyms#Kanto|Fuchsia City Gym]] || None
+|-
+| Purchase Item || Buy the [[Explorer Kit]] [[File:ExplorerKit_HighRes.png|15px]] || None
+|-
+| Mine Layer || Mine 5 layers || [[Fossils|Old Amber]] [[File:OldAmber.png|15px]]
+|}
+
+&lt;!--T:6--&gt;
+==Bill's Errand==
+{| class="wikitable"
+|+ Bill's Errand
+! Type !! Requirement !! Reward
+|-
+| Prerequisite || Defeat the [[Gyms#Kanto|Cinnabar Island Gym]] || N/A
+|-
+| Talk to NPC || Talk to Celio in [[Towns &amp; Cities#Kanto|One Island]] || N/A
+|-
+| Talk to NPC || Talk to Game Corner Owner in [[Towns &amp; Cities#Kanto|Two Island]] || N/A
+|-
+| Defeat [[Temporary Battles#Kanto|Temporary Battles]] || Defeat [[Temporary Battles#Kanto|Biker Goon 1]][[File:Biker_Goon.png|30px]], [[Temporary Battles#Kanto|Biker Goon 2]][[File:Biker_Goon.png|30px]] and [[Temporary Battles#Kanto|Biker Goon 3]][[File:Biker_Goon.png|30px]] || N/A
+|-
+| Defeat [[Temporary Battles#Kanto|Temporary Battles]] || Defeat [[Temporary Battles#Kanto|Cue Ball Paxton]][[File:Cue_Ball_Paxton.png|30px]] || N/A
+|- 
+| Clear Dungeon || Clear [[Berry Forest]]. || N/A
+|-
+| Talk to NPC || Talk to Game Corner Owner in [[Towns &amp; Cities#Kanto|Two Island]] || N/A
+|-
+| Talk to NPC || Talk to Celio in [[Towns &amp; Cities#Kanto|One Island]] || 1,000 {{Questpoints}}
+|}
+
+&lt;!--T:7--&gt;
+==Persons of Interest==
+{| class="wikitable"
+|+ Persons of Interest
+! Type !! Requirement !! Reward
+|-
+| Prerequisite || Defeat the [[Gyms#Kanto|Viridian City Gym]] || N/A
+|-
+| Talk to NPC || Talk to Breeder in [[Towns &amp; Cities#Kanto|Saffron City]] || 250 {{Questpoints}}
+|-
+| Talk to NPC || Talk to Gem Scientist in [[Towns &amp; Cities#Kanto|Pewter City]] || 250 {{Questpoints}}
+|}
+
+&lt;!--T:8--&gt;
+==Team Rocket Again==
+{| class="wikitable"
+|+ Team Rocket Again
+! Type !! Requirement !! Reward
+|-
+| Prerequisite || Defeat the [[Gyms#Johto|Ecruteak City Gym]] || N/A
+|-
+| Defeat [[Dungeons|Dungeon]] || Defeat the [[Team Rockets Hideout]] Dungeon in [[Towns &amp; Cities#Johto|Mahogany Town]] || N/A
+|-
+| Defeat Dungeon || Defeat the [[Radio Tower]] Dungeon in [[Towns &amp; Cities#Johto|Goldenrod City]] || 1 [[Masterball]] [[File:Masterball.png|25px]]
+|-
+|}
+
+&lt;!--T:9--&gt;
+==Land vs Water==
+{| class="wikitable"
+|+ Land vs Water
+! Type !! Requirement !! Reward
+|-
+| Prerequisite || Defeat the [[Gyms#Hoenn|Mauville City Gym]] || N/A
+|-
+| Defeat [[Dungeons|Dungeon]] || Defeat the [[Mt. Chimney Crater]] Dungeon || N/A
+|-
+| Defeat [[Dungeons|Dungeon]] || Defeat the [[Weather Institute]] Dungeon || N/A
+|-
+| Defeat [[Dungeons|Dungeon]] || Defeat the [[Magma Hideout]] Dungeon || N/A
+|-
+| Defeat [[Dungeons|Dungeon]] || Defeat the [[Aqua Hideout]] Dungeon || N/A
+|-
+| Defeat [[Dungeons|Dungeon]] || Defeat the [[Seafloor Cavern]] Dungeon || 1 [[Masterball]] [[File:Masterball.png|25px]]
+|-
+|}
+
+&lt;!--T:10--&gt;
+==Mystery of Deoxys==
+{| class="wikitable"
+|+ Mystery of Deoxys
+! Type !! Requirement !! Reward
+|-
+| Prerequisite || Defeat the [[Gyms#Hoenn|Hoenn Champion]] || N/A
+|-
+| Defeat Pokémon || Defeat 50 Pokémon on Route 129 || N/A
+|-
+| Defeat Pokémon || Defeat 500 Psychic-type Pokémon || 500 Psychic [[Gems]] [[File:Psychic_Gem.png|20px]]
+|-
+| Capture Pokémon || Catch 200 Psychic-type Pokémon || 20 Mind [[Plate|Plates]] [[File:Mine_Mind_Plate.png|15px]]
+|-
+| Battle Frontier || Beat Stage 100 of the [[Hoenn]] [[Battle Frontier]] || N/A (Deoxys [[File:Deoxys.png|25px]] auto-awarded by the Battle Frontier)
+|}
+
+&lt;!--T:11--&gt;
+==A New World==
+{| class="wikitable"
+|+ A New World
+! Type !! Requirement !! Reward
+|- 
+| Prerequisite || Defeat the [[Gyms#Sinnoh|Oreburgh City Gym]] || N/A
+|-
+| Clear [[Dungeons|Dungeon]] || Clear [[Valley Windworks]] || N/A
+|-
+| Clear [[Dungeons|Dungeon]] || Clear [[Team Galactic Eterna Building]] || N/A
+|-
+| Defeat [[Gyms|Gym]] || Defeat the [[Gyms#Sinnoh|Pastoria City Gym]] || N/A
+|- 
+| Defeat [[Temporary Battles|Temporary Battle]] || Defeat [[Temporary Battles#Sinnoh|Galactic Boss Cyrus]][[File:Galactic_Boss_(cyrus).png|25px]] || N/A
+|-
+| Defeat [[Gyms|Gym]] || Defeat the [[Gyms#Sinnoh|Canalave City Gym]] || N/A
+|-
+| Clear [[Dungeons|Dungeon]] || Clear [[Lake Valor]] || N/A
+|-
+| Clear [[Dungeons|Dungeon]] || Clear [[Lake Verity]] || N/A
+|-
+| Clear [[Dungeons|Dungeon]] || Clear [[Lake Acuity]] || N/A
+|-
+| Clear [[Dungeons|Dungeon]] || Clear [[Team Galactic HQ]] || N/A
+|-
+| Clear [[Dungeons|Dungeon]] || Clear [[Spear Pillar]] || N/A
+|-
+| Clear [[Dungeons|Dungeon]] || Clear [[Distortion World]] || 1 [[Masterball]] [[File:Masterball.png|25px]] and unlocks [[Pokérus]]
+|-
+|}
+
+&lt;!--T:12--&gt;
+==Quest for the DNA Splicers==
+{| class="wikitable"
+|+ Quest for the DNA Splicers
+! Type !! Requirement !! Reward
+|- 
+| Prerequisite || Defeat the [[Gyms#Unova|Virbank City Gym]] || N/A
+|-
+| Defeat Temporary Battle || Defeat the [[Temporary Battles#Unova|Team Plasma Grunt 1]] [[File:Team Plasma Grunt (male).png|30px]] in [[Towns &amp; Cities#Unova|Virbank City]] || N/A
+|-
+| Clear [[Dungeons|Dungeon]] || Clear [[Castelia Sewers]] || N/A
+|-
+| Talk to NPC || Talk to the Team Plasma Grunt located in A Perfectly Ordinary Frigate || N/A
+|-
+| Defeat Gym || Defeat the [[Gyms#Unova|Nimbasa City Gym]] || N/A
+|-
+| Defeat Temporary Battles || Defeat the [[Temporary Battles#Unova|Team Plasma Grunt 2]] [[File:Team Plasma Grunt (male).png|30px]] and [[Temporary Battles#Unova|Team Plasma Grunt 3]] [[File:Team Plasma Grunt (female).png|30px]] in [[Towns &amp; Cities#Unova|Nimbasa City]] || N/A
+|-
+| Talk to NPC || Talk to the Team Plasma Grunt located in A Perfectly Ordinary Frigate || N/A
+|-
+| Defeat Temporary Battles || Defeat the [[Temporary Battles#Unova|Team Plasma Grunt 4]] [[File:Team Plasma Grunt (male).png|30px]], [[Temporary Battles#Unova|Team Plasma Grunt 5]] [[File:Team Plasma Grunt (male).png|30px]], [[Temporary Battles#Unova|Team Plasma Grunts 1]] [[File:Team Plasma Grunts (male).png|30px]] and [[Temporary Battles#Unova|Team Plasma Grunts 2]] [[File:Team Plasma Grunts (male).png|30px]] located in A Perfectly Ordinary Frigate || N/A
+|-
+| Talk to NPC || Talk to Zinzolin in A Perfectly Ordinary Frigate || N/A
+|-
+| Clear Route || Clear [[Unova#Routes|Route 13]] || N/A
+|-
+| Defeat Temporary Battle || Defeat the [[Temporary Battles#Unova|Team Plasma Grunt 6]] [[File:Team Plasma Grunt (male).png|30px]] in [[Towns &amp; Cities#Unova|Lacunosa Town]] || N/A
+|-
+| Defeat Temporary Battle || Defeat [[Temporary Battles#Unova|Zinzolin 1]] [[File:Team Plasma (zinzolin).png|30px]] in [[Towns &amp; Cities#Unova|Lacunosa Town]] || N/A
+|-
+| Defeat Gym || Defeat the [[Gyms#Unova|Opelucid City Gym]] || N/A
+|-
+| Defeat Temporary Battles || Defeat the [[Temporary Battles#Unova|Team Plasma Grunt 7]] [[File:Team Plasma Grunt (male).png|30px]], [[Temporary Battles#Unova|Team Plasma Grunt 8]] [[File:Team Plasma Grunt (female).png|30px]] and  [[Temporary Battles#Unova|Team Plasma Grunt 9]] [[File:Team Plasma Grunt (male).png|30px]] in Team Plasma Assault || N/A
+|-
+| Defeat Temporary Battle || Defeat [[Temporary Battles#Unova|Zinzolin 2]] [[File:Team Plasma (zinzolin).png|30px]] in Team Plasma Assault || N/A
+|-
+| Defeat Temporary Battle || Defeat the [[Temporary Battles#Unova|Plasma Shadow 1]] [[File:Team Plasma (shadow).png|30px]] in Team Plasma Assault || N/A
+|-
+| Clear Dungeon || Clear [[Plasma Frigate]] || N/A
+|-
+| Clear Dungeon || Clear [[Giant Chasm]] || N/A
+|-
+| Talk to NPC || Talk to Colress in [[Giant Chasm]] || N/A
+|-
+| Defeat Temporary Battle || Defeat [[Temporary Battles#Unova|Colress]] [[File:Team Plasma (colress).png|30px]] in [[Giant Chasm]] || N/A
+|-
+| Defeat Temporary Battles || Defeat the [[Temporary Battles#Unova|Plasma Shadow 2]] [[File:Team Plasma (shadow).png|30px]], [[Temporary Battles#Unova|Plasma Shadow 3]] [[File:Team Plasma (shadow).png|30px]] and [[Temporary Battles#Unova|Plasma Shadow 4]] [[File:Team Plasma (shadow).png|30px]] in [[Giant Chasm]] || N/A
+|-
+| Talk to NPC || Talk to the Shadow Triad in [[Giant Chasm]] || N/A
+|-
+| Defeat Temporary Battle || Defeat [[Temporary Battles#Unova|Ghetsis 1]] [[File:Team Plasma (ghetsis).png|30px]] in [[Giant Chasm]] || N/A
+|-
+| Defeat Temporary Battle || Defeat [[Temporary Battles#Unova|Ghetsis 2]] [[File:Team Plasma (ghetsis).png|30px]] in [[Giant Chasm]] || 1 [[Masterball]] [[File:Masterball.png|25px]] and [[DNA Splicers]] [[File:DNASplicers HighRes.png|25px]]
+|}
+
+&lt;!--T:13--&gt;
+==Eater of Light==
+{| class="wikitable"
+|+ Eater of Light
+! Type !! Requirement !! Reward
+|- 
+| Prerequisite || Defeat the [[Gyms#Alola|Konikoni City Gym]] || N/A
+|-
+| Defeat [[Gyms|Gym]] || Defeat the [[Gyms#Alola|Aether Paradise Gym]] || N/A
+|-
+| Clear [[Dungeons|Dungeon]] || Clear [[Malie Garden]] || N/A
+|- 
+| Clear [[Dungeons|Dungeon]] || Clear [[Po Town]] || N/A
+|-
+| Clear [[Dungeons|Dungeon]] || Clear [[Aether Foundation]] || N/A
+|-
+| Defeat [[Gyms|Gym]] || Defeat [[Gyms#Alola|Altar of the Sunne and Moone Gym]] || 1 [[Masterball]] [[File:Masterball.png|25px]]
+|-
+|}
+
+&lt;!--T:14--&gt;
+==Mina's Trial==
+{| class="wikitable"
+|+ Mina's Trial
+! Type !! Requirement !! Reward
+|- 
+| Defeat [[Temporary Battles|Temporary Battle]] || Defeat the [[Gyms#Alola|Altar of the Sunne and Moone Gym]] || N/A
+|-
+| Defeat [[Temporary Battles|Temporary Battle]] || Defeat the [[Temporary Battles|Captain Mina]] in Seafolk Village || N/A
+|-
+| Defeat [[Temporary Battles|Temporary Battle]] || Defeat the [[Temporary Battles|Captain Ilima]] in [[Hau'oli Cemetery]] || N/A
+|-
+| Defeat [[Temporary Battles|Temporary Battle]] || Defeat the [[Temporary Battles|Captain Mallow]] in [[Lush Jungle]] || N/A
+|-
+| Defeat [[Temporary Battles|Temporary Battle]] || Defeat the [[Temporary Battles|Captain Lana]] in [[Lush Jungle]] || N/A
+|-
+| Defeat [[Temporary Battles|Temporary Battle]] || Defeat the [[Temporary Battles|Captain Kiawe]] in [[Wela Volcano Park]] || N/A
+|-
+| Defeat [[Temporary Battles|Temporary Battle]] || Defeat the [[Temporary Battles|Captain Sophocles]] in [[Hokulani Observatory]] || N/A
+|-
+| Defeat [[Temporary Battles|Temporary Battle]] || Defeat the [[Temporary Battles|Kahuna Nanu]] in Tapu Village || N/A
+|-
+| Clear [[Dungeons|Dungeon]] || Clear [[Mina's Houseboat]] Dungeon || N/A
+|-
+|}
+
+==The Darkest Day==
+{| class="wikitable"
+|+ The Darkest Day
+! Type !! Requirement !! Reward
+|-
+| Talk to NPC || Check the Ancient Mural in [[Towns &amp; Cities#Galar|Stow-on-Side]] || N/A
+|-
+| Defeat Temporary Battle || Defeat [[Temporary Battles#Galar|Bede 3]] [[File:Bede.png|25px]] near [[Towns &amp; Cities#Galar|Stow-on-Side]] || N/A
+|-
+| Talk to NPC || Check the Ancient Mural Ruins and talk to Sonia in [[Towns &amp; Cities#Galar|Stow-on-Side]] || N/A
+|-
+| Defeat Temporary Battle || Defeat [[Temporary Battles#Galar|Hop 6]] [[File:Hop.png|25px]] near [[Towns &amp; Cities#Galar|Hammerlocke]] || N/A
+|-
+| Defeat Temporary Battle || Defeat [[Temporary Battles#Galar|Hop 7]] [[File:Hop.png|25px]] near [[Towns &amp; Cities#Galar|Circhester]] || N/A
+|-
+| Talk to NPC || Check Hero's Bath, talk to Hop and Sonia in [[Towns &amp; Cities#Galar|Circhester]] || N/A
+|-
+| Defeat Gym || Defeat [[Gyms#Galar|Hammerlocke]]'s Gym || N/A
+|-
+| Defeat Gym || Defeat [[Gyms#Wyndon Stadium|Elite Marnie]] || N/A
+|-
+| Defeat Gym || Defeat [[Gyms#Wyndon Stadium|Elite Bede]] || N/A
+|-
+| Defeat Gym || Defeat [[Gyms#Wyndon Stadium|Elite Hop]] || N/A
+|-
+| Clear Dungeon || Clear [[Rose Tower]] || N/A
+|-
+| Talk to NPC || Listen to the Broadcast of Chairman Rose in [[Towns &amp; Cities#Galar|Wyndon Stadium]] || N/A
+|-
+| Talk to NPC || Talk to Hop in [[Towns &amp; Cities#Galar|Wyndon Stadium]] || N/A
+|-
+| Clear Dungeon || Clear [[Slumbering Weald Shrine]] || N/A
+|-
+| Talk to NPC || Talk to Hop in [[Slumbering Weald Shrine]] || N/A
+|-
+| Clear Dungeon || Clear [[Energy Plant]] || N/A
+|-
+| Talk to NPC || Talk to Chairman Rose in [[Energy Plant]] || N/A
+|-
+| Defeat Temporary Battle || Defeat [[Temporary Battles#Galar|Eternatus]] [[File:Eternatus.png|25px]] || N/A
+|-
+| Defeat Temporary Battle || Defeat [[Temporary Battles#Galar|The Darkest Day]] [[File:Eternamax Eternatus.png|25px]] || Eternatus [[File:Eternatus.png|25px]] and 1 [[Masterball]] [[File:Masterball.png|25px]] 
+|-
+| Talk to NPC || Talk to Leon in [[Towns &amp; Cities#Galar|Wyndon Stadium]] || N/A
+|-
+| Defeat Gym || Defeat [[Gyms#Wyndon Stadium|Champion Leon]] || N/A
+|}
+
+&lt;!--T:15--&gt;
+==Togepi Egg Hunt==
+This quest is a part of the [[Events|Easter]] event available from April 8 - 29.
+
+&lt;!--T:16--&gt;
+{| class="wikitable"
+|+ Togepi Egg Hunt
+! Type !! Requirement !! Prerequisite !! Reward
+|-
+| Defeat Dungeon Boss || Beat Surprise Togepi [[File:Egg_Hunter.png|30px]] in [[Viridian Forest]] || Defeat [[Gyms#Indigo Plateau|Champion Blue]] [[File:Blue.png|15px]] || Adds Surprise Togepi [[File:Surprise_Togepi.png|50px]] to [[Ilex Forest]]
+|-
+| Defeat Dungeon Boss || Beat Surprise Togepi [[File:Egg_Hunter.png|30px]] in [[Ilex Forest]] || Defeat [[Gyms#Johto Indigo Plateau|Champion Lance]] [[File:Lance2.png|25px]] || Adds Surprise Togepi [[File:Surprise_Togepi.png|50px]] to [[Petalburg Woods]]
+|-
+| Defeat Dungeon Boss || Beat Surprise Togepi [[File:Egg_Hunter.png|30px]] in [[Petalburg Woods]] || Defeat [[Gyms#Pokémon League Hoenn|Champion Wallace]] [[File:Wallace.png|35px]] || Surprise Togepi [[File:Surprise_Togepi.png|50px]] (Auto-awarded)
+|}
+
+&lt;!--T:17--&gt;
+=Bulletin Board Quests=
+Some quests require the player to accept them at the Bulletin Boards. They are located in the starting [[Towns &amp; Cities|Towns]] of each respective [[Region]]. Note that to accept any of these quests, the prerequisites need to be met first.
+
+&lt;!--T:18--&gt;
+==Unfinished Business==
+'''Note:''' After fulfilling the prerequisites, this quest can be accepted in the Bulletin Board in [[Towns &amp; Cities#Kanto|Pallet Town]].
+{| class="wikitable"
+|+ Unfinished Business
+! Type !! Requirement !! Reward
+|-
+| Prerequisite || Complete [[Questlines#Bill's Errand|Bill's Errand]] Quest || N/A
+|-
+| Talk to NPC || Talk to Professor Oak in [[Towns &amp; Cities#Kanto|Pallet Town]] || N/A
+|-
+| Talk to NPC || Talk to Professor Ivy in [[Towns &amp; Cities#Kanto|Professor Ivy's Lab]] || N/A 
+|-
+| Talk to NPC || Talk to Professor Oak in [[Towns &amp; Cities#Kanto|Pallet Town]] || N/A
+|-
+| Talk to NPC || Talk to Kurt in [[Towns &amp; Cities#Johto|Azalea Town]] || N/A
+|-
+| Talk to NPC || Talk to Kurt in [[Towns &amp; Cities#Johto|Azalea Town]] after becoming the Johto Champion || N/A
+|-
+| Talk to NPC || Talk to Professor Oak in [[Towns &amp; Cities#Johto|Azalea Town]] || N/A
+|-
+| Talk to NPC || Investigate the shrine in [[Ilex Forest]] Dungeon || N/A
+|-
+| Defeat [[Temporary Battles|Temporary Battle]] || Defeat [[Temporary Battles#Johto|Strange Pichu]] [[File:Spiky-eared Pichu.png|30px]] in [[Ilex Forest]] Dungeon || Spiky-eared Pichu [[File:Spiky-eared Pichu.png|30px]]
+|-
+| Talk to NPC || Talk to Professor Oak in [[Towns &amp; Cities#Johto|Azalea Town]] || N/A
+|-
+| Talk to NPC || Investigate the time distortion in [[Tohjo Falls]] Dungeon || N/A
+|-
+| Defeat [[Temporary Battles|Temporary Battle]] || Defeat [[Temporary Battles#Johto|Rocket Boss Giovanni]] [[File:Rocket Boss Giovanni.png|30px]] in [[Tohjo Falls]] Dungeon || N/A
+|-
+| Talk to NPC || Talk to Professor Oak in [[Towns &amp; Cities#Johto|Azalea Town]] || N/A
+|-
+| Talk to NPC || Investigate the shrine in [[Ilex Forest]] Dungeon || Celebi [[File:Celebi.png|30px]] gets added to [[Ilex Forest]]
+|-
+| Capture Pokémon || Catch Celebi [[File:Celebi.png|30px]] || N/A
+|-
+| Talk to NPC || Talk to Professor Oak in [[Towns &amp; Cities#Johto|Azalea Town]] || N/A
+|}
+
+&lt;!--T:24--&gt;
+==The Legendary Beasts==
+'''Note:''' After fulfilling the prerequisites, this quest can be accepted in the Bulletin Board in [[Towns &amp; Cities#Johto|New Bark Town]].
+{| class="wikitable"
+|+ The Legendary Beasts
+! Type !! Requirement !! Reward
+|-
+| Prerequisite || Defeat [[Gyms#Johto|Ecruteak City's Gym]] || N/A
+|-
+| Talk to NPC || Talk to Eusine in [[Towns &amp; Cities#Johto|Ecruteak City]] || Unlocks [[Burned Tower]]
+|-
+| Clear Dungeon || Clear [[Burned Tower]] || N/A
+|-
+| Talk to NPC || Talk to Pokéfan Derek in [[Towns &amp; Cities#Johto|Ecruteak City]] || Raikou [[File:Raikou.png|30px]] and Entei [[File:Entei.png|30px]] start [[Roaming Pokémon|Roaming]] Johto
+|-
+| Capture Pokémon || Catch Raikou [[File:Raikou.png|30px]], Entei [[File:Entei.png|30px]] and Suicune [[File:Suicune.png|30px]] || Unlocks Ho-Oh [[File:Ho-Oh.png|30px]] in [[Burned Tower]]
+|}
+
+&lt;!--T:25--&gt;
+==Eusine's Chase==
+'''Note:''' After fulfilling the prerequisites, this quest can be accepted in the Bulletin Board in [[Towns &amp; Cities#Johto|New Bark Town]].
+{| class="wikitable"
+|+ Eusine's Chase
+! Type !! Requirement !! Reward
+|-
+| Prerequisite || Be in "Capture Pokémon" step of [[Questlines#The Legendary Beasts|The Legendary Beasts]] Questline || N/A
+|-
+| Defeat Temporary Battle || Find and defeat [[Temporary Battles#Johto|Suicune 1]] [[File:Suicune.png|30px]] near [[Towns &amp; Cities#Johto|Cianwood City]] || N/A
+|-
+| Talk to NPC || Talk to Eusine in [[Towns &amp; Cities#Johto|Cianwood City]] || N/A
+|-
+| Defeat Temporary Battle || Defeat [[Temporary Battles#Johto|Eusine]] near [[Towns &amp; Cities#Johto|Cianwood City]] || N/A
+|-
+| Defeat Temporary Battle || Find and defeat [[Temporary Battles#Johto|Suicune 2]] [[File:Suicune.png|30px]] in [[Johto#Routes|Route 42]] || N/A
+|-
+| Talk to NPC || Talk to Eusine in [[Towns &amp; Cities#Johto|Mahogany Town]] || N/A
+|-
+| Defeat Temporary Battle || Find and defeat [[Temporary Battles#Johto|Suicune 3]] [[File:Suicune.png|30px]] near [[Towns &amp; Cities#Kanto|Vermilion City]] after becoming the [[Johto]] Champion || N/A
+|-
+| Talk to NPC || Talk to Eusine in [[Towns &amp; Cities#Kanto|Vermilion City]] || N/A
+|-
+| Defeat Temporary Battle || Find and defeat [[Temporary Battles#Johto|Suicune 4]] [[File:Suicune.png|30px]] between [[Kanto#Routes|Route 14 and 15]] || N/A
+|-
+| Talk to NPC || Talk to Eusine in [[Towns &amp; Cities#Kanto|Fuchsia City]] || N/A
+|-
+| Defeat Temporary Battle || Find and defeat [[Temporary Battles#Johto|Suicune 5]] [[File:Suicune.png|30px]] in [[Kanto#Routes|Route 25]] || N/A
+|-
+| Talk to NPC || Talk to Eusine in [[Towns &amp; Cities#Kanto|Cerulean City]] || N/A
+|-
+| Capture Pokémon || Defeat [[Temporary Battles#Johto|Suicune 6]] [[File:Suicune.png|30px]] and capture it || N/A
+|}
+
+==Whirl Guardian==
+'''Note:''' After fulfilling the prerequisites, this quest can be accepted in the Bulletin Board in [[Towns &amp; Cities#Johto|New Bark Town]].
+{| class="wikitable"
+|+ Whirl Guardian
+! Type !! Requirement !! Reward
+|-
+| Prerequisite || Complete [[Questlines#Team Rocket Again|Team Rocket Again]] Questline || N/A
+|-
+| Talk to NPC || Talk to Kimono Girl Zuki in [[Towns &amp; Cities#Johto|Violet City]] || N/A
+|-
+| Hatch Eggs || Hatch 25 Eggs || N/A
+|-
+| Talk to NPC || Talk to Kimono Girl Naoko in [[Ilex Forest]] || N/A
+|-
+| Clear Dungeon || Clear [[Ilex Forest]] || N/A
+|-
+| Talk to NPC || Talk to Kimono Girl Miki in [[Towns &amp; Cities#Johto|Ecruteak City]] || 50 [[Ultraball|Ultraballs]] [[File:Ultraball.png|25px]]
+|-
+| Talk to NPC || Talk to Kimono Girl Sayo in [[Ice Path]] || N/A
+|-
+| Clear Dungeon || Clear [[Ice Path]] || N/A
+|-
+| Talk to NPC || Talk to Kimono Girl Kuni in [[Towns &amp; Cities#Johto|Goldenrod City]] || N/A
+|-
+| Clear Dungeon || Clear [[Radio Tower]] || N/A
+|-
+| Talk to NPC || Talk to Kimono Girls in [[Whirl Islands]] || Adds Lugia [[File:Lugia.png|25px]] to [[Whirl Islands]]
+|-
+| Catch Pokémon || Catch Lugia [[File:Lugia.png|25px]] || N/A
+|}
+
+==Rainbow Guardian==
+'''Note:''' After fulfilling the prerequisites, this quest can be accepted in the Bulletin Board in [[Towns &amp; Cities#Johto|New Bark Town]].
+{| class="wikitable"
+|+ Whirl Guardian
+! Type !! Requirement !! Reward
+|-
+| Prerequisite || Be in Catch Pokémon step of [[Questlines#Whirl Guardian|Whirl Guardian]] Questline &lt;br&gt; and capture Raikou [[File:Raikou.png|25px]], Entei [[File:Entei.png|25px]] and [[File:Suicune.png|25px]] || N/A
+|-
+| Talk to NPC || Talk to Kimono Girls in [[Towns &amp; Cities#Johto|Ecruteak City]] || N/A
+|-
+| Defeat Temporary Battle || Defeat [[Temporary Battles#Johto|Kimono Girls]] [[File:Kimono Girl.png|25px]] in [[Towns &amp; Cities#Johto|Ecruteak City]] || Adds Ho-oh [[File:Ho-oh.png|25px]] to [[Tin Tower]]
+|-
+| Catch Pokémon || Catch Ho-oh [[File:Ho-oh.png|25px]] || N/A
+|}
+
+&lt;!--T:19--&gt;
+==Celio's Errand==
+'''Note:''' After fulfilling the prerequisites, this quest can be accepted in the Bulletin Board in [[Towns &amp; Cities#Hoenn|Littleroot Town]].
+{| class="wikitable"
+|+ Celio's Errand
+! Type !! Requirement !! Reward
+|-
+| Prerequisite || Become the [[Hoenn]] Champion || N/A
+|-
+| Talk to NPC || Talk to Celio in [[Towns &amp; Cities#Kanto|One Island]] || N/A
+|-
+| Talk to NPC || Talk to the Rocket Grunts at [[Mt. Ember Summit|Mt. Ember]] || N/A
+|-
+| Defeat Temporary Battles || Defeat [[Temporary Battles#Hoenn|Sevii Rocket Grunt 1]] [[File:Team Rocket Grunt (female).png|30px]] and [[Temporary Battles#Hoenn|Sevii Rocket Grunt 2]] [[File:Team Rocket Grunt (male).png|30px]] at Mt. Ember || N/A
+|-
+| Clear Dungeon || Clear [[Ruby Path]] || N/A
+|-
+| Talk to NPC || Take the Ruby in [[Ruby Path]] || N/A
+|-
+| Talk to NPC || Talk to Celio in [[Towns &amp; Cities#Kanto|One Island]] || Unlocks access to Kanto's subregion [[Kanto#Routes|Sevii 4567]]
+|-
+| Clear Dungeon || Clear [[Icefall Cave]] || N/A
+|-
+| Talk to NPC || Talk to Lorelei in [[Icefall Cave]] || N/A
+|-
+| Talk to NPC || Talk to Gideon in [[Towns &amp; Cities#Kanto|Dotted Hole]] || N/A
+|-
+| Defeat Temporary Battles || Defeat [[Temporary Battles#Hoenn|Sevii Rocket Grunt 3]] [[File:Team Rocket Grunt (female).png|30px]], [[Temporary Battles#Hoenn|Sevii Rocket Grunt 4]] [[File:Team Rocket Grunt (male).png|30px]] and  [[Temporary Battles#Hoenn|Sevii Rocket Grunt 5]] [[File:Team Rocket Grunt (male).png|30px]] in [[Towns &amp; Cities#Kanto|Rocket Warehouse]] || N/A
+|-
+| Defeat Temporary Battle || Defeat [[Temporary Battles#Hoenn|Team Rocket Executive Ariana]] [[File:Team Rocket Executive Ariana.png|30px]] in [[Towns &amp; Cities#Kanto|Rocket Warehouse]] || N/A
+|-
+| Defeat Temporary Battle || Defeat [[Temporary Battles#Hoenn|Team Rocket Executive Archer]] [[File:Team Rocket Executive Archer.png|30px]] in [[Towns &amp; Cities#Kanto|Rocket Warehouse]] || N/A
+|-
+| Defeat Temporary Battle || Defeat [[Temporary Battles#Hoenn|Scientist Gideon]] [[File:Scientist Gideon.png|30px]] in [[Towns &amp; Cities#Kanto|Rocket Warehouse]] || N/A
+|-
+| Talk to NPC || Talk to Celio in [[Towns &amp; Cities#Kanto|One Island]] || N/A
+|}
+
+
+&lt;!--T:26--&gt;
+==Team Rocket's Pinkan Theme Park==
+'''Note:''' After fulfilling the prerequisites, this quest can be accepted in the Bulletin Board in [[Towns &amp; Cities#Kanto|Pummelo Island]].
+{| class="wikitable"
+|+ Team Rocket's Pinkan Theme Park
+! Type !! Requirement !! Reward
+|-
+| Prerequisite || Become the [[Gyms#Orange League|Orange League]] Champion || N/A
+|-
+| Talk to NPC || Talk to Team Rocket in [[Towns &amp; Cities#Kanto|Pinkan Pokémon Reserve]] || Unlocks [[Pinkan]] [[File:Pinkan.png|30px]] Berry mutation
+|-
+| Harvest Berries || Harvest 1 [[Pinkan]] [[File:Pinkan.png|30px]] Berry || N/A
+|-
+| Defeat Pokémon || Defeat 500 Pokémon in [[Kanto#Routes|Pinkan Plains]] and [[Kanto#Routes|Pinkan Forest]] || 20 [[Pinkan]] [[File:Pinkan.png|30px]]
+|-
+| Gather Gems and Items || Gather 1000 [[Gems|Fairy Gems]] [[File:Fairy Gem.png|30px]] and obtain 10 [[Pixie Plate|Pixie Plates]] [[File:Pixie Plate.png|30px]] || N/A
+|-
+| Defeat Temporary Battle || Defeat [[Temporary Battles#Hoenn|Pinkan Jesse and James]] [[File:Pinkan Jesse and James.png|30px]] in [[Towns &amp; Cities#Kanto|Pinkan Pokémon Reserve]] || N/A
+|-
+| Defeat Temporary Battle || Defeat [[Temporary Battles#Hoenn|Pinkan Officer Jenny]] [[File:Pinkan Officer Jenny.png|30px]] in [[Towns &amp; Cities#Kanto|Pinkan Pokémon Reserve]] || Unlocks [[Shops#Officer Jenny's Pinkan Trade Shop|Officer Jenny's Pinkan Trade Shop]]
+|}
+
+==The Three Golems==
+'''Note:''' After fulfilling the prerequisites, this quest can be accepted in the Bulletin Board in [[Towns &amp; Cities#Hoenn|Littleroot Town]].
+{| class="wikitable"
+|+ The Three Golems
+! Type !! Requirement !! Reward
+|-
+| Prerequisite || Beat [[Gyms#Hoenn|Mossdeep City]]'s Gym || N/A
+|-
+| Clear Dungeon || Clear [[Sealed Chamber]] || N/A
+|-
+| Talk to NPC || Investigate the Strange Markings in [[Sealed Chamber]] || N/A
+|-
+| Talk to NPC || Go ⠇⠑⠋⠞ || N/A
+|-
+| Talk to NPC || Go ⠇⠑⠋⠞ || N/A
+|-
+| Talk to NPC || Go ⠎⠞⠗⠁⠊⠛⠓⠞ || N/A
+|-
+| Talk to NPC || Go ⠎⠞⠗⠁⠊⠛⠓⠞ || N/A
+|-
+| Talk to NPC || Go ⠗⠊⠛⠓⠞ || N/A
+|-
+| Talk to NPC || Investigate the Hidden Message in [[Sealed Chamber]] || N/A
+|-
+| Defeat Pokémon || Defeat 100 Pokémon in ⠙⠑⠎⠑⠗⠞, ⠊⠎⠇⠁⠝⠙ and ⠁⠝⠉⠊⠑⠝⠞ || Unlocks Regirock [[File:Regirock.png|25px]], Regice [[File:Regice.png|25px]] and Registeel [[File:Registeel.png|25px]] in [[Sealed Chamber]]
+|-
+| Catch Pokémon || Capture Regirock [[File:Regirock.png|25px]], Regice [[File:Regice.png|25px]] and Registeel [[File:Registeel.png|25px]] || N/A
+|}
+
+&lt;!--T:20--&gt;
+==Detective Pikachu==
+'''Note:''' After fulfilling the prerequisites, this quest can be accepted in the Bulletin Board in [[Towns &amp; Cities#Kalos|Vaniville Town]].
+{| class="wikitable"
+|+ Detective Pikachu
+! Type !! Requirement !! Reward
+|-
+| Prerequisite || Capture [[Wandering Pokemon|Detective Pikachu]] [[File:Detective Pikachu.png|30px]] and defeat [[Gyms#Kalos|Santalune City Gym]] || N/A
+|-
+| Talk to NPC || Search for clues in [[Towns &amp; Cities#Johto|Goldenrod City]] || N/A
+|-
+| Defeat Temporary Battle || Defeat [[Temporary Battles#Kalos|Aipom Alley]] [[File:Aipom Alley.png|30px]] in [[Towns &amp; Cities#Johto|Goldenrod City]] || N/A
+|-
+| Clear Dungeon || Clear [[Radio Tower]] || N/A
+|-
+| Talk to NPC || Meet with the Informant in [[Towns &amp; Cities#Kanto|Saffron City]] || N/A
+|-
+| Defeat Temporary Battle || Defeat [[Temporary Battles#Kalos|Mime Interview]] [[File:Mr. Mime.png|30px]] in [[Towns &amp; Cities#Kanto|Saffron City]] || N/A
+|-
+| Talk to NPC || Talk to the Informant in [[Towns &amp; Cities#Kanto|Saffron City]] || N/A
+|-
+| Defeat Temporary Battle || Infiltrate the [[Temporary Battles#Kalos|Underground Fighting Ring]] [[File:Veteran (male).png|30px]] in [[Towns &amp; Cities#Hoenn|Pacifidlog Town]] || N/A
+|-
+| Talk to NPC || Talk to Howard Clifford in [[Towns &amp; Cities#Johto|Goldenrod City]] || N/A
+|-
+| Talk to NPC || Talk to Lucy Stevens in [[Towns &amp; Cities#Sinnoh|Hearthome City]] || N/A
+|-
+| Clear Dungeon || Clear [[P2 Laboratory]] || N/A
+|-
+| Defeat Temporary Battle || Fight the [[Temporary Battles#Kalos|Lab Ambush]] [[File:Lab Ambush.png|30px]] in [[Towns &amp; Cities#Unova|Nuvema Town]] || N/A
+|-
+| Talk to NPC || Talk to Mewtwo in [[Towns &amp; Cities#Kanto|Cerulean City]] || N/A
+|-
+| Talk to NPC || Talk to Howard Clifford in [[Towns &amp; Cities#Johto|Goldenrod City]] || N/A
+|-
+| Defeat Temporary Battle || Defeat the [[Temporary Battles#Kalos|Imposter]] [[File:Imposter.png|30px]] in [[Towns &amp; Cities#Johto|Goldenrod City]] || N/A
+|-
+| Talk to NPC || Talk to Howard Clifford in [[Towns &amp; Cities#Johto|Goldenrod City]] || N/A
+|-
+| Defeat Temporary Battle || Defeat [[Temporary Battles#Kalos|Possessed Mewtwo]] [[File:Mewtwo.png|30px]] in [[Towns &amp; Cities#Johto|Goldenrod City]] || N/A
+|-
+| Talk to NPC || Talk to Mewtwo in [[Towns &amp; Cities#Kanto|Cerulean City]] || N/A
+|-
+| Talk to NPC || Talk to Detective Raichu in [[Towns &amp; Cities#Kanto|Cerulean City]] || Detective Raichu [[File:Detective Raichu.png|30px]]
+|}
+
+&lt;!--T:21--&gt;
+==The Great Vivillon Hunt!==
+'''Note:''' After fulfilling the prerequisites, this quest can be accepted in the Bulletin Board in [[Towns &amp; Cities#Kalos|Vaniville Town]].
+{| class="wikitable"
+|+ The Great Vivillon Hunt!
+! Type !! Requirement !! Reward
+|-
+| Prerequisite || Defeat the [[Gyms#Kalos|Snowbelle City Gym]] || None
+|-
+| Capture Pokémon || Catch 100 Water-type Pokémon || Adds Vivillon (Marine) [[File:Vivillon_(Marine).png|25px]] to [[Lake Verity]], [[Lake Valor]], and [[Lake Acuity]] in [[Sinnoh]]
+|-
+| Capture Pokémon || Catch Vivillon (Marine) [[File:Vivillon_(Marine).png|25px]] || None
+|-
+| Capture Pokémon || Catch 100 Psychic-type Pokémon || Adds Vivillon (Modern) [[File:Vivillon_(Modern).png|25px]] to [[Cerulean Cave]] in [[Kanto]]
+|-
+| Capture Pokémon || Catch Vivillon (Modern) [[File:Vivillon_(Modern).png|25px]] || None
+|-
+| Capture Pokémon || Catch 100 Poison-type Pokémon || Adds Vivillon (Jungle) [[File:Vivillon_(Jungle).png|25px]] to [[Moor of Icirrus]] in [[Unova]]
+|-
+| Capture Pokémon || Catch Vivillon (Jungle) [[File:Vivillon_(Jungle).png|25px]] || None
+|-
+| Capture Pokémon || Catch 100 Dark-type Pokémon || Adds Vivillon (Monsoon) [[File:Vivillon_(Monsoon).png|25px]] to [[Dark Cave]] in [[Johto]]
+|-
+| Capture Pokémon || Catch Vivillon (Monsoon) [[File:Vivillon_(Monsoon).png|25px]] || None
+|-
+| Capture Pokémon || Catch 100 Steel-type Pokémon || Adds Vivillon (Tundra) [[File:Vivillon_(Tundra).png|25px]] to [[Pokéball Factory]] in [[Kalos]]
+|-
+| Capture Pokémon || Catch Vivillon (Tundra) [[File:Vivillon_(Tundra).png|25px]] || None
+|-
+| Capture Pokémon || Catch 100 Fire-type Pokémon || Adds Vivillon (Sun) [[File:Vivillon_(Sun).png|25px]] to [[Mt. Chimney]] in Hoenn
+|-
+| Capture Pokémon || Catch Vivillon (Sun) [[File:Vivillon_(Sun).png|25px]] || None
+|-
+| Capture Pokémon || Catch 100 Fighting-type Pokémon || Adds Vivillon (Archipelago) [[File:Vivillon_(Archipelago).png|25px]] to [[Sprout Tower]] in Johto
+|-
+| Capture Pokémon || Catch Vivillon (Archipelago) [[File:Vivillon_(Archipelago).png|25px]] || None
+|-
+| Capture Pokémon || Catch 100 Ghost-type Pokémon || Adds Vivillon (Elegant) [[File:Vivillon_(Elegant).png|25px]] to [[Lost Hotel]] in Kalos
+|-
+| Capture Pokémon || Catch Vivillon (Elegant) [[File:Vivillon_(Elegant).png|25px]] || None
+|-
+| Capture Pokémon || Catch 100 Fairy-type Pokémon || Adds Vivillon (Ocean) [[File:Vivillon_(Ocean).png|25px]] to [[Dreamyard]] in Unova
+|-
+| Capture Pokémon || Catch Vivillon (Ocean) [[File:Vivillon_(Ocean).png|25px]] || None
+|-
+| Capture Pokémon || Catch 100 Electric-type Pokémon || Adds Vivillon (Continental) [[File:Vivillon_(Continental).png|25px]] to [[New Mauville]] in Hoenn
+|-
+| Capture Pokémon || Catch Vivillon (Continental) [[File:Vivillon_(Continental).png|25px]] || None
+|-
+| Capture Pokémon || Catch 100 Bug-type Pokémon || Adds Vivillon (River) [[File:Vivillon_(River).png|25px]] to [[Eterna Forest]] in Sinnoh
+|-
+| Capture Pokémon || Catch Vivillon (River) [[File:Vivillon_(River).png|25px]] || None
+|-
+| Capture Pokémon || Catch 100 Flying-type Pokémon || Adds Vivillon (Polar) [[File:Vivillon_(Polar).png|25px]] to [[Sky Pillar]] in Hoenn
+|-
+| Capture Pokémon || Catch Vivillon (Polar) [[File:Vivillon_(Polar).png|25px]] || None
+|-
+| Capture Pokémon || Catch 100 Ground-type Pokémon || Adds Vivillon (Sandstorm) [[File:Vivillon_(Sandstorm).png|25px]] to [[Relic Castle]] in Unova
+|-
+| Capture Pokémon || Catch Vivillon (Sandstorm) [[File:Vivillon_(Sandstorm).png|25px]] || None
+|-
+| Capture Pokémon || Catch 100 Grass-type Pokémon || Adds Vivillon (Garden) [[File:Vivillon_(Garden).png|25px]] to [[Flower Paradise]] in Sinnoh
+|-
+| Capture Pokémon || Catch Vivillon (Garden) [[File:Vivillon_(Garden).png|25px]] || None
+|-
+| Capture Pokémon || Catch 100 Rock-type Pokémon || Adds Vivillon (High-Plains) [[File:Vivillon_(High Plains).png|25px]] to [[Mt. Moon]] in Kanto
+|-
+| Capture Pokémon || Catch Vivillon (High Plains) [[File:Vivillon_(High Plains).png|25px]] || None
+|-
+| Capture Pokémon || Catch 100 Dragon-type Pokémon || Adds Vivillon (Savanna) [[File:Vivillon_(Savanna).png|25px]] to [[Dragonspiral Tower]] in Unova
+|-
+| Capture Pokémon || Catch Vivillon (Savanna) [[File:Vivillon_(Savanna).png|25px]] || None
+|-
+| Capture Pokémon || Catch 100 Ice-type Pokémon || Adds Vivillon (Icy Snow) [[File:Vivillon_(Icy Snow).png|25px]] to [[Frost Cavern]] in Kalos
+|-
+| Capture Pokémon || Catch Vivillon (Icy Snow) [[File:Vivillon_(Icy Snow).png|25px]] || None
+|-
+| Capture Pokémon || Catch 200 Normal-type Pokémon || Adds Vivillon (Pokéball) [[File:Vivillon_(Pokéball).png|25px]] to the Hoenn Battle Frontier
+|-
+| Battle Frontier || Beat Stage 666 || None (Vivillon (Pokéball) [[File:Vivillon_(Pokéball).png|25px]] auto-awarded by the Battle Frontier)
+|}
+
+&lt;!--T:22--&gt;
+==The New Kid==
+'''Note:''' After fulfilling the prerequisites, this quest can be accepted in the Bulletin Board in [[Towns &amp; Cities#Kalos|Vaniville Town]].
+{| class="wikitable"
+|+ The New Kid
+! Type !! Requirement !! Reward
+|- 
+| Prerequisite || Defeat [[Gyms#Pokemon_League_Kalos|Champion Diantha]][[File:Diantha.png|25px]] || N/A
+|-
+| Defeat [[Temporary Battles|Temporary Battle]] || Defeat [[Temporary Battles#Kalos|Ash Ketchum Kanto]][[File:Ash_Ketchum.png|25px]] || N/A
+|-
+| Defeat [[Temporary Battles|Temporary Battle]] || Defeat [[Temporary Battles#Kalos|Ash Ketchum Johto]][[File:Ash_Ketchum.png|25px]] || N/A
+|-
+| Defeat [[Temporary Battles|Temporary Battle]] || Defeat [[Temporary Battles#Kalos|Ash Ketchum Hoenn]][[File:Ash_Ketchum.png|25px]] || N/A
+|-
+| Defeat [[Temporary Battles|Temporary Battle]] || Defeat [[Temporary Battles#Kalos|Ash Ketchum Sinnoh]][[File:Ash_Ketchum.png|25px]] || N/A
+|-
+| Defeat [[Temporary Battles|Temporary Battle]] || Defeat [[Temporary Battles#Kalos|Ash Ketchum Unova]][[File:Ash_Ketchum.png|25px]] || N/A
+|-
+| Defeat [[Temporary Battles|Temporary Battle]] || Defeat [[Temporary Battles#Kalos|Ash Ketchum Kalos]][[File:Ash_Ketchum.png|25px]] || Ash Greninja[[File:Ash_Greninja.png|30px]]
+|}
+
+
+&lt;!--T:27--&gt;
+==Princess Diancie==
+'''Note:''' After fulfilling the prerequisites, this quest can be accepted in the Bulletin Board in [[Towns &amp; Cities#Kalos|Vaniville Town]].
+{| class="wikitable"
+|+ Princess Diancie
+! Type !! Requirement !! Reward
+|- 
+| Prerequisite || Capture Doublade [[File:Doublade.png|30px]] and beat all the [[Gyms#Pokémon League Kalos|Kalos E4]] members (Malva, Siebold, Wikstrom and Drasna) || N/A
+|-
+| Capture Pokémon || Capture 100 Fairy type Pokémon || N/A
+|-
+| Defeat Temporary Battle || Defeat [[Temporary Battles#Kalos|Riot]] [[File:Riot.png|30px]] in [[Towns &amp; Cities#Kalos|Shalour City]] || N/A
+|-
+| Defeat Temporary Battle || Defeat [[Temporary Battles#Kalos|Merilyn]] [[File:Merilyn.png|30px]] in [[Towns &amp; Cities#Kalos|Lumiose City]] || N/A
+|-
+| Dig Layers || Dig 5 layers in the [[Underground]] || N/A
+|-
+| Defeat Temporary Battle || Defeat [[Temporary Battles#Kalos|Millis and Argus Steel]] [[File:Millis and Argus Steel.png|30px]] in [[Towns &amp; Cities#Kalos|Shalour City]] || N/A
+|-
+| Talk to NPC || Examine your Doublade in [[Towns &amp; Cities#Kalos|Shalour City]] || Aegislash (Blade) [[File:Aegislash (Blade).png|30px]]
+|-
+| Gather Gems || Gather 1000 [[Gems|Fairy Gems]] [[File:Fairy Gem.png|30px]] || N/A
+|-
+| Talk to NPC || Talk to Princess Diancie in [[Towns &amp; Cities#Kalos|Shalour City]] || Diancie [[File:Diancie.png|30px]] gets added to [[Reflection Cave]]
+|-
+| Capture Pokémon || Capture Diancie [[File:Diancie.png|30px]] || N/A
+|}
+
+&lt;!--T:23--&gt;
+==Ultra Beast Hunt==
+'''Note:''' After fulfilling the prerequisites, this quest can be accepted in the Bulletin Board in [[Towns &amp; Cities#Alola|Professor Kukui's Lab]].
+{| class="wikitable"
+|+ Ultra Beast Hunt
+! Type !! Requirement !! Reward
+|- 
+| Prerequisite || Defeat the [[Gyms#Pokemon League Alola|Champion Hau]][[File:Hau.png|25px]] || N/A
+|-
+| Talk to NPC || Talk to Looker in [[Towns &amp; Cities#Alola|Roadside Motel]] || N/A
+|-
+| Defeat [[Temporary Battles|Temporary Battle]] || Defeat [[Temporary Battles#Alola|Anabel]][[File:Anabel.png|25px]] || 5 [[Beastball|Beastballs]][[File:Beastball.png|25px]]
+|-
+| Talk to NPC || Talk to Anabel in [[Towns &amp; Cities#Alola|Roadside Motel]] || N/A
+|-
+| Talk to NPC || Talk to Looker in [[Towns &amp; Cities#Alola|Roadside Motel]] || Adds Nihilego [[File:Nihilego.png|25px]] to [[Wela Volcano Park]] and [[Diglett's Tunnel]]
+|-
+| Capture Pokémon || Capture 1 Nihilego [[File:Nihilego.png|25px]] || N/A
+|-
+| Talk to NPC || Talk to Anabel in [[Towns &amp; Cities#Alola|Roadside Motel]] || Adds Buzzwole [[File:Buzzwole.png|25px]] to [[Melemele Meadow]] &lt;br&gt; and Pheromosa [[File:Pheromosa.png|25px]] to [[Verdant Cavern]]
+|-
+| Capture Pokémon || Capture 2 Buzzwole [[File:Buzzwole.png|25px]] and 4 Pheromosa [[File:Pheromosa.png|25px]] || N/A
+|-
+| Talk to NPC || Talk to Anabel in [[Towns &amp; Cities#Alola|Roadside Motel]] || N/A
+|-
+| Defeat [[Temporary Battles|Temporary Battle]] || Defeat [[Temporary Battles#Alola|Captain Mina]][[File:Mina.png|25px]] || N/A
+|-
+| Talk to NPC || Talk to Captain Mina in [[Towns &amp; Cities#Alola|Roadside Motel]] || Adds Xurkitree [[File:Xurkitree.png|25px]] to [[Lush Jungle]] and [[Memorial Hill]]
+|-
+| Capture Pokémon || Capture 2 Xurkitree [[File:Xurkitree.png|25px]] || N/A
+|-
+| Talk to NPC || Talk to Kahuna Nanu in [[Towns &amp; Cities#Alola|Roadside Motel]] || Adds Kartana [[File:Kartana.png|25px]] to [[Alola#Routes|Route 17]] and Celesteela [[File:Celesteela.png|25px]] to [[Alola#Routes|Haina Desert]] and both to [[Malie Garden]]
+|-
+| Capture Pokémon || Capture 4 Kartana [[File:Kartana.png|25px]] and 2 Celesteela [[File:Celesteela.png|25px]] || N/A
+|-
+| Talk to NPC || Talk to Kahuna Nanu in [[Towns &amp; Cities#Alola|Roadside Motel]] || N/A
+|-
+| Defeat [[Temporary Battles|Temporary Battle]] || Defeat [[Temporary Battles#Alola|Kahuna Nanu]][[File:Nanu.png|25px]] || N/A
+|-
+| Talk to NPC || Talk to Anabel in [[Towns &amp; Cities#Alola|Roadside Motel]] || Adds Blacephalon [[File:Blacephalon.png|25px]] and Stakataka [[File:Stakataka.png|25px]] to [[Alola#Routes|Poni Grove]]
+|-
+| Capture Pokémon || Capture 5 Blacephalon [[File:Blacephalon.png|25px]] and 5 Stakataka [[File:Stakataka.png|25px]] || N/A
+|-
+| Talk to NPC || Talk to Anabel in [[Towns &amp; Cities#Alola|Roadside Motel]] || Unlocks [[Resolution Cave]]
+|-
+| Capture Pokémon || Capture Guzzlord [[File:Guzzlord.png|25px]] || 50 [[Beastball|Beastballs]] [[File:Beastball.png|25px]]
+|}
+
+==Sword and Shield==
+'''Note:''' After fulfilling the prerequisites, this quest can be accepted in the Bulletin Board in [[Towns &amp; Cities#Galar|Postwick]].
+{| class="wikitable"
+|+ Sword and Shield
+! Type !! Requirement !! Reward
+|- 
+| Prerequisite || Defeat [[Gyms#Wyndon Stadium|Champion Leon]] || N/A
+|-
+| Talk to NPC || Talk to Hop in [[Slumbering Weald Shrine]] || N/A
+|-
+| Defeat Temporary Battle || Defeat [[Temporary Battles#Galar|Hop 8]] [[File:Hop.png|25px]] in [[Slumbering Weald Shrine]] || N/A
+|-
+| Talk to NPC || Talk to Sordward &amp; Shielbert in [[Slumbering Weald Shrine]] || N/A
+|-
+| Defeat Temporary Battles || Defeat [[Temporary Battles#Galar|Sordward 1]] [[File:Sordward.png|25px]] and [[Temporary Battles#Galar|Shielbert 1]] [[File:Shielbert.png|25px]] in [[Slumbering Weald Shrine]] || N/A
+|-
+| Defeat Temporary Battle || Defeat [[Temporary Battles#Galar|Rampaging Tsareena]] [[File:Tsareena.png|25px]] in [[Towns &amp; Cities#Galar|Turffield]] || N/A
+|-
+| Defeat Temporary Battle || Defeat [[Temporary Battles#Galar|Rampaging Gyarados]] [[File:Gyarados.png|25px]] in [[Towns &amp; Cities#Galar|Hulbury]] || N/A
+|-
+| Defeat Temporary Battle || Defeat [[Temporary Battles#Galar|Rampaging Torkoal]] [[File:Torkoal.png|25px]] in [[Towns &amp; Cities#Galar|Motostoke]] || N/A
+|-
+| Talk to NPC || Talk to Sordward &amp; Shielbert in [[Towns &amp; Cities#Galar|Wedgehurst]] || N/A
+|-
+| Defeat Temporary Battle || Defeat [[Temporary Battles#Galar|Sordward &amp; Shielbert]] [[File:Sordward &amp; Shielbert.png|25px]] in [[Towns &amp; Cities#Galar|Wedgehurst]] || N/A
+|-
+| Defeat Temporary Battles || Defeat [[Temporary Battles#Galar|Rampaging Conkeldurr]] [[File:Conkeldurr.png|25px]] and [[Temporary Battles#Galar|Rampaging Dusknoir]] [[File:Dusknoir.png|25px]] in [[Towns &amp; Cities#Galar|Stow-on-Side]] || N/A
+|-
+| Defeat Temporary Battle || Defeat [[Temporary Battles#Galar|Gym Leader Bede]] [[File:Gym Leader Bede.png|25px]] in [[Towns &amp; Cities#Galar|Ballonlea]] || N/A 
+|-
+| Defeat Temporary Battles || Defeat [[Temporary Battles#Galar|Rampaging Gigalith]] [[File:Gigalith.png|25px]] and [[Temporary Battles#Galar|Rampaging Froslass]] [[File:Froslass.png|25px]] in [[Towns &amp; Cities#Galar|Circhester]] || N/A
+|-
+| Defeat Temporary Battles || Defeat [[Temporary Battles#Galar|Gym Leader Marnie]] [[File:Gym Leader Marnie.png|25px]] in [[Towns &amp; Cities#Galar|Spikemuth]] || N/A 
+|-
+| Defeat Temporary Battles || Defeat [[Temporary Battles#Galar|Rampaging Haxorus]] [[File:Haxorus.png|25px]] in [[Towns &amp; Cities#Galar|Hammerlocke]] || N/A
+|-
+| Talk to NPC || Talk to Sordward &amp; Shielbert in [[Energy Plant]] || N/A
+|-
+| Defeat Temporary Battles || Defeat [[Temporary Battles#Galar|Sordward 2]] [[File:Sordward.png|25px]] and [[Temporary Battles#Galar|Shielbert 2]] [[File:Shielbert.png|25px]] in [[Energy Plant]] || N/A
+|-
+| Talk to NPC || Talk to Sordward &amp; Shielbert in [[Energy Plant]] || N/A
+|-
+| Defeat Temporary Battles || Defeat [[Temporary Battles#Galar|Rampaging Zacian]] [[File:Zacian (Crowned Sword).png|25px]] and [[Temporary Battles#Galar|Rampaging Zamazenta]] [[File:Zamazenta (Crowned Shield).png|25px]] in [[Energy Plant]] || N/A
+|-
+| Talk to NPC || Talk to Piers in [[Energy Plant]] || Adds Zacian (Battle Hero) [[File:Zacian (Battle Hero).png|25px]] and Zamazenta (Battle Hero) [[File:Zamazenta (Battle Hero).png|25px]] to [[Energy Plant]]
+|-
+| Catch Pokémon || Catch Zacian (Battle Hero) [[File:Zacian (Battle Hero).png|25px]] and Zamazenta (Battle Hero) [[File:Zamazenta (Battle Hero).png|25px]] || N/A
+|}
+
+==The Dojo's Armor==
+'''Note:''' After fulfilling the prerequisites, this quest can be accepted in the Bulletin Board in [[Towns &amp; Cities#Galar|Master Dojo]].
+{| class="wikitable"
+|+ The Dojo's Armor
+! Type !! Requirement !! Reward
+|- 
+| Prerequisite || Defeat [[Gyms#Wyndon Stadium|Champion Leon]] || N/A
+|-
+| Talk to NPC || Talk to Mustard in [[Towns &amp; Cities#Galar|Master Dojo]] || N/A
+|-
+| Defeat Temporary Battle || Defeat [[Temporary Battles#Galar|Dojo Master Mustard]] [[File:Dojo Master.png|25px]] in [[Towns &amp; Cities#Galar|Master Dojo]] || N/A
+|-
+| Talk to NPC || Talk to Mustard in [[Towns &amp; Cities#Galar|Master Dojo]] || N/A
+|-
+| Catch Pokémon || Catch 6 Galarian Slowpoke [[File:Galarian Slowpoke.png|25px]] || N/A
+|-
+| Talk to NPC || Talk to Mustard in [[Towns &amp; Cities#Galar|Master Dojo]] || N/A
+|-
+| Talk to NPC || Talk to Mustard in [[Towns &amp; Cities#Galar|Master Dojo]] || N/A
+|-
+| Talk to NPC || Talk to Klara and Avery in [[Warm-Up Tunnel]] || N/A
+|-
+| Defeat Temporary Battles || Defeat [[Temporary Battles#Galar|Klara 2]] [[File:Klara.png|25px]] and [[Temporary Battles#Galar|Avery 2]] [[File:Avery.png|25px]] in [[Warm-Up Tunnel]] || N/A
+|-
+| Talk to NPC || Talk to Mustard in [[Towns &amp; Cities#Galar|Master Dojo]] || N/A
+|-
+| Talk to NPC || Talk to Klara and Avery in [[Towns &amp; Cities#Galar|Master Dojo]] || N/A
+|-
+| Defeat Temporary Battles || Defeat [[Temporary Battles#Galar|Klara 3]] [[File:Klara.png|25px]] and [[Temporary Battles#Galar|Avery 3]] [[File:Avery.png|25px]] near [[Towns &amp; Cities#Galar|Master Dojo]] || N/A
+|-
+| Talk to NPC || Talk to Mustard in [[Towns &amp; Cities#Galar|Master Dojo]] || N/A
+|-
+| Catch Pokémon || Defeat [[Temporary Battles#Galar|Kubfu]] [[File:Kubfu.png|25px]] and catch it || N/A
+|-
+| Talk to NPC || Talk to Mustard in [[Towns &amp; Cities#Galar|Master Dojo]] || N/A
+|-
+| Defeat Pokémon || Defeat 500 Dark-type [[File:Dark-Type icon.png|25px]] and 500 Water-type [[File:Water-Type icon.png|25px]] Pokémon || N/A
+|-
+| Talk to NPC || Talk to Mustard in [[Towns &amp; Cities#Galar|Master Dojo]] || N/A
+|-
+| Catch Pokémon || Catch 250 Dark-type [[File:Dark-Type icon.png|25px]] and 250 Water-type [[File:Water-Type icon.png|25px]] Pokémon || N/A
+|-
+| Talk to NPC || Talk to Mustard in [[Towns &amp; Cities#Galar|Master Dojo]] || Unlocks [[Tower of Darkness]] and [[Tower of Waters]]
+|-
+| Clear Dungeons || Clear [[Tower of Darkness]] and [[Tower of Waters]] || Urshifu (Single Strike) [[File:Urshifu (Single Strike).png|25px]] after clearing [[Tower of Darkness]] &lt;br&gt; Urshifu (Rapid Strike) [[File:Urshifu (Rapid Strike).png|25px]] after clearing [[Tower of Waters]]
+|-
+| Talk to NPC || Talk to Mustard in [[Tower of Darkness]] or [[Tower of Waters]] || N/A
+|}
+
+==Secrets of the Jungle==
+'''Note:''' After fulfilling the prerequisites, this quest can be accepted in the Bulletin Board in [[Towns &amp; Cities#Galar|Master Dojo]].
+{| class="wikitable"
+|+ Secrets of the Jungle
+! Type !! Requirement !! Reward
+|- 
+| Prerequisite || Defeat [[Temporary Battles#Alola|Ash Ketchum Alola]] || N/A
+|-
+| Talk to NPC || Talk to Ash Ketchum in [[Towns &amp; Cities#Galar|Master Dojo]] || N/A
+|-
+| Talk to NPC || Talk to Koko in [[Glimwood Tangle]] || Zarude [[File:Zarude.png|25px]] starts roaming in Isle of Armor
+|-
+| Catch Pokémon || Catch Zarude [[File:Zarude.png|25px]] || N/A
+|-
+| Talk to NPC || Talk to Koko in [[Glimwood Tangle]] || N/A
+|-
+| Defeat Temporary Battle || Defeat [[Temporary Battles#Galar|Zarude Tribe 1]] [[File:Zarude Tribe.png|25px]] in [[Glimwood Tangle]] || N/A
+|-
+| Talk to NPC || Talk to Koko in [[Glimwood Tangle]] || N/A
+|-
+| Defeat Temporary Battles || Defeat [[Temporary Battles#Galar|Zarude Tribe 2]] [[File:Zarude Tribe.png|25px]] and [[Temporary Battles#Galar|Zarude Tribe 3]] [[File:Zarude Tribe.png|25px]] in [[Glimwood Tangle]] || N/A
+|-
+| Talk to NPC || Talk to Koko in [[Glimwood Tangle]] || N/A
+|-
+| Talk to NPC || Talk to Ash Ketchum in [[Towns &amp; Cities#Galar|Master Dojo]] || N/A
+|-
+| Defeat Temporary Battle || Defeat [[Temporary Battles#Galar|Ash Ketchum Galar]] [[File:Ash Ketchum.png|25px]] near [[Towns &amp; Cities#Galar|Master Dojo]] || N/A
+|-
+| Talk to NPC || Talk to Koko in [[Glimwood Tangle]] || N/A
+|-
+| Defeat Temporary Battle || Defeat [[Temporary Battles#Galar|Zarude (Dada)]] [[File:Zarude (Dada).png|25px]] in [[Glimwood Tangle]] || N/A
+|-
+| Talk to NPC || Talk to Ash Ketchum in [[Glimwood Tangle]] || N/A
+|-
+| Catch Pokémon || Defeat [[Temporary Battles#Galar|Flowering Celebi]] [[File:Flowering Celebi.png|25px]] and catch it || N/A
+|-
+| Talk to NPC || Talk to Koko in [[Glimwood Tangle]] || Unlocks Zarude Village shop
+|}
+
+==The Crown of Galar==
+'''Note:''' After fulfilling the prerequisites, this quest can be accepted in the Bulletin Board in [[Towns &amp; Cities#Galar|Freezington]].
+{| class="wikitable"
+|+ The Crown of Galar
+! Type !! Requirement !! Reward
+|- 
+| Prerequisite || Defeat [[Gyms#Wyndon Stadium|Champion Leon]] || N/A
+|-
+| Talk to NPC || Talk to Peony in [[Towns &amp; Cities#Galar|Freezington]] || N/A
+|-
+| Defeat Temporary Battle || Defeat [[Temporary Battles#Galar|Calyrex]] [[File:Calyrex.png|25px]] in [[Towns &amp; Cities#Galar|Freezington]] || N/A
+|-
+| Talk to NPC || Talk to Calyrex in [[Towns &amp; Cities#Galar|Freezington]] || N/A
+|-
+| Defeat Pokémon || Defeat 50 Pokémon in [[Galar#Routes|Old Cemetery]] and [[Galar#Routes|Snowslide Slope]] || N/A
+|-
+| Talk to NPC || Talk to Calyrex in [[Towns &amp; Cities#Galar|Freezington]] || N/A
+|-
+| Defeat Temporary Battles || Defeat [[Temporary Battles#Galar|Spectrier]] [[File:Spectrier.png|25px]] and [[Temporary Battles#Galar|Glastrier]] [[File:Glastrier.png|25px]] in [[Towns &amp; Cities#Galar|Freezington]] || N/A
+|-
+| Talk to NPC || Talk to Calyrex in [[Towns &amp; Cities#Galar|Freezington]] || Spectrier [[File:Spectrier.png|25px]] and Glastrier [[File:Glastrier.png|25px]] start roaming in Crown Tundra
+|-
+| Catch Pokémon || Catch Spectrier [[File:Spectrier.png|25px]] and Glastrier [[File:Glastrier.png|25px]] || N/A
+|-
+| Talk to NPC || Talk to Calyrex in [[Crown Shrine]] || Adds Calyrex [[File:Calyrex.png|25px]] to [[Crown Shrine]]
+|-
+| Catch Pokémon || Catch Calyrex [[File:Calyrex.png|25px]] || N/A
+|-
+| Talk to NPC || Talk to Peony in [[Towns &amp; Cities#Galar|Freezington]] || N/A
+|}
+
+==The Birds of the Dyna Tree==
+'''Note:''' After fulfilling the prerequisites, this quest can be accepted in the Bulletin Board in [[Towns &amp; Cities#Galar|Freezington]].
+{| class="wikitable"
+|+ The Birds of the Dyna Tree
+! Type !! Requirement !! Reward
+|- 
+| Prerequisite || Defeat [[Gyms#Wyndon Stadium|Champion Leon]] || N/A
+|-
+| Talk to NPC || Talk to Peony in [[Towns &amp; Cities#Galar|Freezington]] || N/A
+|-
+| Clear Dungeon || Clear [[Dyna Tree Hill]] || N/A
+|-
+| Defeat Temporary Battle || Defeat [[Temporary Battles#Galar|Dyna Tree Birds]] [[File:Dyna Tree Birds.png|25px]] || N/A
+|-
+| Talk to NPC || Talk to Peony in [[Towns &amp; Cities#Galar|Freezington]] || N/A
+|-
+| rowspan=3| Defeat Temporary Battles || Defeat [[Temporary Battles#Galar|Galarian Articuno 1]] [[File:Galarian Articuno.png|25px]] near [[Roaring-Sea Caves]], [[Temporary Battles#Galar|Galarian Articuno 2]] [[File:Galarian Articuno.png|25px]] in [[Galar#Routes|Frigid Sea]] and [[Temporary Battles#Galar|Galarian Articuno 3]] [[File:Galarian Articuno.png|25px]] near [[Crown Shrine]] || rowspan=3| N/A
+|-
+| Defeat [[Temporary Battles#Galar|Galarian Zapdos 1]] [[File:Galarian Zapdos.png|25px]] in [[Galar#Routes|East Lake Axwell]], [[Temporary Battles#Galar|Galarian Zapdos 2]] [[File:Galarian Zapdos.png|25px]] in [[Galar#Routes|Giant's Mirror]] and [[Temporary Battles#Galar|Galarian Zapdos 3]] [[File:Galarian Zapdos.png|25px]] in [[Galar#Routes|Giant's Seat]]
+|-
+| Defeat [[Temporary Battles#Galar|Galarian Moltres 1]] [[File:Galarian Moltres.png|25px]] in [[Galar#Routes|Loop Lagoon]], [[Temporary Battles#Galar|Galarian Moltres 2]] [[File:Galarian Moltres.png|25px]] in [[Galar#Routes|Workout Sea]] and [[Temporary Battles#Galar|Galarian Moltres 3]] [[File:Galarian Moltres.png|25px]] in [[Galar#Routes|Soothing Wetlands]]
+|-
+| Talk to NPC || Talk to Peony in [[Towns &amp; Cities#Galar|Freezington]] || Galarian Articuno [[File:Galarian Articuno.png|25px]], Galarian Zapdos [[File:Galarian Zapdos.png|25px]] and Galarian Moltres [[File:Galarian Moltres.png|25px]] start roaming Crown Tundra, Southern Galar and Isle of Armor respectively
+|-
+| Catch Pokémon || Catch Galarian Articuno [[File:Galarian Articuno.png|25px]], Galarian Zapdos [[File:Galarian Zapdos.png|25px]] and Galarian Moltres [[File:Galarian Moltres.png|25px]] || N/A
+|-
+| Talk to NPC || Talk to Peony in [[Towns &amp; Cities#Galar|Freezington]] || N/A
+|}
+
+==The Ancient Golems==
+'''Note:''' After fulfilling the prerequisites, this quest can be accepted in the Bulletin Board in [[Towns &amp; Cities#Galar|Freezington]].
+{| class="wikitable"
+|+ The Ancient Golems
+! Type !! Requirement !! Reward
+|- 
+| Prerequisite || Defeat [[Gyms#Wyndon Stadium|Champion Leon]] || N/A
+|-
+| Talk to NPC || Talk to Peony in [[Towns &amp; Cities#Galar|Freezington]] || N/A
+|-
+| Defeat Pokémon || Defeat 100 Pokémon in [[Galar#Routes|Three-Point Pass]] || N/A
+|-
+| Talk to NPC || Talk to Peony in [[Towns &amp; Cities#Galar|Freezington]] || N/A
+|-
+| Clear Dungeons || Clear [[Rock Peak Ruins]], [[Iceberg Ruins]] and [[Iron Ruins]] 10 times each || N/A
+|-
+| Talk to NPC || Talk to Peony in [[Towns &amp; Cities#Galar|Freezington]] || Adds Regirock [[File:Regirock.png|25px]], Regice [[File:Regice.png|25px]] and Registeel [[File:Registeel.png|25px]] to [[Rock Peak Ruins]], [[Iceberg Ruins]] and [[Iron Ruins]] respectively
+|-
+| Catch Pokémon || Regirock [[File:Regirock.png|25px]], Regice [[File:Regice.png|25px]] and Registeel [[File:Registeel.png|25px]] || N/A
+|-
+| Talk to NPC || Talk to Peony in [[Towns &amp; Cities#Galar|Freezington]] || N/A
+|-
+| Catch Pokémon || Defeat [[Temporary Battles#Galar|Regigigas]] [[File:Regigigas.png|25px]] in [[Galar#Routes|Giants Bed]] and catch it || N/A
+|-
+| Talk to NPC || Talk to Peony in [[Towns &amp; Cities#Galar|Freezington]] || Unlocks [[Split-Decision Ruins]]
+|-
+| Catch Pokémon || Catch Regieleki [[File:Regieleki.png|25px]] and Regidrago [[File:Regidrago.png|25px]] || N/A
+|-
+| Talk to NPC || Talk to Peony in [[Towns &amp; Cities#Galar|Freezington]] || N/A
+|}
+
+==A Mystery Gift==
+'''Note:''' After fulfilling the prerequisites, this quest can be accepted in the Bulletin Board in [[Towns &amp; Cities#Galar|Postwick]].
+{| class="wikitable"
+|+ A Mystery Gift
+! Type !! Requirement !! Reward
+|- 
+| Prerequisite || Complete all Regional [[Achievements#Caught Unique Shiny Pokémon by Region|Shiny Achievements]] from Kanto to Galar || N/A
+|-
+| Talk to NPC || Check Mystery Gift in [[Towns &amp; Cities#Galar|Postwick]] || Magearna (Original Color) [[File:Magearna (Original Color).png|25px]]
+|}
+
+&lt;/translate&gt;</text>
+    <contributor>
+      <username>ThePantMan</username>
+      <id>8</id>
+    </contributor>
+    <comment>/* Bulletin Board link */</comment>
+    <model>wikitext</model>
+    <parentid>29942</parentid>
+    <sha1>27fc7efc05405feafe3b6e5091ba00b1dbd7dd65</sha1>
+  </revision>
+  <revision>
+    <id>29942</id>
+    <timestamp>2022-12-04T18:45:56Z</timestamp>
+    <text bytes="54339" space="preserve">&lt;languages/&gt;
+&lt;translate&gt;
+&lt;!--T:1--&gt;
+Questlines are special kinds of Quests where the player follows a series of steps to unlock progress in the current [[Region]], unlock certain mechanics or receive different rewards like Items and Pokémon. Some are activated at certain points of the game while others require the player to check a [[Questlines#Bulletin Board Quests|Bulletin Board]]. For the list of randomly generated Quests, please check the corresponding [[Quests]] page instead.
+
+&lt;!--T:2--&gt;
+=Main Quests=
+These quests are activated automatically at certain points of the game. They usually unlock progress to certain areas of the game or give access to certain mechanics like the [[Underground]].
+
+&lt;!--T:3--&gt;
+==Tutorial==
+{| class="wikitable"
+|-
+! Type !! Requirement !! Reward
+|-
+| Defeat Pokémon || Defeat Your Starter || 10 {{Questpoints}}
+|-
+| Capture Pokémon || Capture 1 Pokémon || 20 {{Questpoints}}
+|-
+| Defeat Pokémon || Defeat 10 Pokémon on Route 2 || 20 {{Questpoints}}
+|-
+| Talk to NPC || Talk to Mom in [[Towns &amp; Cities#Kanto|Pallet Town]] || N/A
+|-
+| Purchase [[Items|Item]] || Buy 10 [[Pokéballs|Pokéballs]] [[File:Ball_Pokeball.png|15px]] || 50 {{Questpoints}}
+|-
+| Talk to NPC || Talk to Old Man in [[Towns &amp; Cities#Kanto|Viridian City]] || N/A
+|-
+| Capture Pokémon || Capture 5 Pidgey[[File:Pidgey.png|30px]] || 30 {{Questpoints}}
+|-
+| Purchase Item || Buy the [[Dungeon Ticket]][[File:Dungeonticket.png|15px]] || Access to [[Dungeons]]
+|-
+| Clear Dungeon || Clear [[Viridian Forest]] || 50 {{Questpoints}}
+|-
+| Defeat [[Gyms#Kanto|Gym]] || Beat Brock [[File:Brock.png|10px]] || 50 {{Questpoints}}
+|-
+|}
+
+&lt;!--T:4--&gt;
+==Team Rocket==
+{| class="wikitable"
+|+ Team Rocket
+! Type !! Requirement !! Reward
+|-
+| Prerequisite || Defeat the [[Gyms#Kanto|Cerulean City Gym]] || N/A
+|-
+| Defeat [[Dungeons|Dungeon]] || Defeat the [[Rocket Game Corner]] Dungeon in [[Towns &amp; Cities#Kanto|Celadon City]] || N/A
+|-
+| Defeat Dungeon || Defeat the [[Silph Co]] Dungeon in [[Towns &amp; Cities#Kanto|Saffron City]] || N/A
+|-
+| Defeat Gym || Defeat Giovanni in the [[Gyms#Kanto|Viridian City Gym]] || 1 [[Masterball]] [[File:Masterball.png|25px]]
+|-
+|}
+
+&lt;!--T:5--&gt;
+==Mining Expedition==
+{| class="wikitable"
+|+ Mining Expedition
+! Type !! Requirement !! Reward
+|-
+| Prerequisite || Defeat the [[Gyms#Kanto|Fuchsia City Gym]] || None
+|-
+| Purchase Item || Buy the [[Explorer Kit]] [[File:ExplorerKit_HighRes.png|15px]] || None
+|-
+| Mine Layer || Mine 5 layers || [[Fossils|Old Amber]] [[File:OldAmber.png|15px]]
+|}
+
+&lt;!--T:6--&gt;
+==Bill's Errand==
+{| class="wikitable"
+|+ Bill's Errand
+! Type !! Requirement !! Reward
+|-
+| Prerequisite || Defeat the [[Gyms#Kanto|Cinnabar Island Gym]] || N/A
+|-
+| Talk to NPC || Talk to Celio in [[Towns &amp; Cities#Kanto|One Island]] || N/A
+|-
+| Talk to NPC || Talk to Game Corner Owner in [[Towns &amp; Cities#Kanto|Two Island]] || N/A
+|-
+| Defeat [[Temporary Battles#Kanto|Temporary Battles]] || Defeat [[Temporary Battles#Kanto|Biker Goon 1]][[File:Biker_Goon.png|30px]], [[Temporary Battles#Kanto|Biker Goon 2]][[File:Biker_Goon.png|30px]] and [[Temporary Battles#Kanto|Biker Goon 3]][[File:Biker_Goon.png|30px]] || N/A
+|-
+| Defeat [[Temporary Battles#Kanto|Temporary Battles]] || Defeat [[Temporary Battles#Kanto|Cue Ball Paxton]][[File:Cue_Ball_Paxton.png|30px]] || N/A
+|- 
+| Clear Dungeon || Clear [[Berry Forest]]. || N/A
+|-
+| Talk to NPC || Talk to Game Corner Owner in [[Towns &amp; Cities#Kanto|Two Island]] || N/A
+|-
+| Talk to NPC || Talk to Celio in [[Towns &amp; Cities#Kanto|One Island]] || 1,000 {{Questpoints}}
+|}
+
+&lt;!--T:7--&gt;
+==Persons of Interest==
+{| class="wikitable"
+|+ Persons of Interest
+! Type !! Requirement !! Reward
+|-
+| Prerequisite || Defeat the [[Gyms#Kanto|Viridian City Gym]] || N/A
+|-
+| Talk to NPC || Talk to Breeder in [[Towns &amp; Cities#Kanto|Saffron City]] || 250 {{Questpoints}}
+|-
+| Talk to NPC || Talk to Gem Scientist in [[Towns &amp; Cities#Kanto|Pewter City]] || 250 {{Questpoints}}
+|}
+
+&lt;!--T:8--&gt;
+==Team Rocket Again==
+{| class="wikitable"
+|+ Team Rocket Again
+! Type !! Requirement !! Reward
+|-
+| Prerequisite || Defeat the [[Gyms#Johto|Ecruteak City Gym]] || N/A
+|-
+| Defeat [[Dungeons|Dungeon]] || Defeat the [[Team Rockets Hideout]] Dungeon in [[Towns &amp; Cities#Johto|Mahogany Town]] || N/A
+|-
+| Defeat Dungeon || Defeat the [[Radio Tower]] Dungeon in [[Towns &amp; Cities#Johto|Goldenrod City]] || 1 [[Masterball]] [[File:Masterball.png|25px]]
+|-
+|}
+
+&lt;!--T:9--&gt;
+==Land vs Water==
+{| class="wikitable"
+|+ Land vs Water
+! Type !! Requirement !! Reward
+|-
+| Prerequisite || Defeat the [[Gyms#Hoenn|Mauville City Gym]] || N/A
+|-
+| Defeat [[Dungeons|Dungeon]] || Defeat the [[Mt. Chimney Crater]] Dungeon || N/A
+|-
+| Defeat [[Dungeons|Dungeon]] || Defeat the [[Weather Institute]] Dungeon || N/A
+|-
+| Defeat [[Dungeons|Dungeon]] || Defeat the [[Magma Hideout]] Dungeon || N/A
+|-
+| Defeat [[Dungeons|Dungeon]] || Defeat the [[Aqua Hideout]] Dungeon || N/A
+|-
+| Defeat [[Dungeons|Dungeon]] || Defeat the [[Seafloor Cavern]] Dungeon || 1 [[Masterball]] [[File:Masterball.png|25px]]
+|-
+|}
+
+&lt;!--T:10--&gt;
+==Mystery of Deoxys==
+{| class="wikitable"
+|+ Mystery of Deoxys
+! Type !! Requirement !! Reward
+|-
+| Prerequisite || Defeat the [[Gyms#Hoenn|Hoenn Champion]] || N/A
+|-
+| Defeat Pokémon || Defeat 50 Pokémon on Route 129 || N/A
+|-
+| Defeat Pokémon || Defeat 500 Psychic-type Pokémon || 500 Psychic [[Gems]] [[File:Psychic_Gem.png|20px]]
+|-
+| Capture Pokémon || Catch 200 Psychic-type Pokémon || 20 Mind [[Plate|Plates]] [[File:Mine_Mind_Plate.png|15px]]
+|-
+| Battle Frontier || Beat Stage 100 of the [[Hoenn]] [[Battle Frontier]] || N/A (Deoxys [[File:Deoxys.png|25px]] auto-awarded by the Battle Frontier)
+|}
+
+&lt;!--T:11--&gt;
+==A New World==
+{| class="wikitable"
+|+ A New World
+! Type !! Requirement !! Reward
+|- 
+| Prerequisite || Defeat the [[Gyms#Sinnoh|Oreburgh City Gym]] || N/A
+|-
+| Clear [[Dungeons|Dungeon]] || Clear [[Valley Windworks]] || N/A
+|-
+| Clear [[Dungeons|Dungeon]] || Clear [[Team Galactic Eterna Building]] || N/A
+|-
+| Defeat [[Gyms|Gym]] || Defeat the [[Gyms#Sinnoh|Pastoria City Gym]] || N/A
+|- 
+| Defeat [[Temporary Battles|Temporary Battle]] || Defeat [[Temporary Battles#Sinnoh|Galactic Boss Cyrus]][[File:Galactic_Boss_(cyrus).png|25px]] || N/A
+|-
+| Defeat [[Gyms|Gym]] || Defeat the [[Gyms#Sinnoh|Canalave City Gym]] || N/A
+|-
+| Clear [[Dungeons|Dungeon]] || Clear [[Lake Valor]] || N/A
+|-
+| Clear [[Dungeons|Dungeon]] || Clear [[Lake Verity]] || N/A
+|-
+| Clear [[Dungeons|Dungeon]] || Clear [[Lake Acuity]] || N/A
+|-
+| Clear [[Dungeons|Dungeon]] || Clear [[Team Galactic HQ]] || N/A
+|-
+| Clear [[Dungeons|Dungeon]] || Clear [[Spear Pillar]] || N/A
+|-
+| Clear [[Dungeons|Dungeon]] || Clear [[Distortion World]] || 1 [[Masterball]] [[File:Masterball.png|25px]] and unlocks [[Pokérus]]
+|-
+|}
+
+&lt;!--T:12--&gt;
+==Quest for the DNA Splicers==
+{| class="wikitable"
+|+ Quest for the DNA Splicers
+! Type !! Requirement !! Reward
+|- 
+| Prerequisite || Defeat the [[Gyms#Unova|Virbank City Gym]] || N/A
+|-
+| Defeat Temporary Battle || Defeat the [[Temporary Battles#Unova|Team Plasma Grunt 1]] [[File:Team Plasma Grunt (male).png|30px]] in [[Towns &amp; Cities#Unova|Virbank City]] || N/A
+|-
+| Clear [[Dungeons|Dungeon]] || Clear [[Castelia Sewers]] || N/A
+|-
+| Talk to NPC || Talk to the Team Plasma Grunt located in A Perfectly Ordinary Frigate || N/A
+|-
+| Defeat Gym || Defeat the [[Gyms#Unova|Nimbasa City Gym]] || N/A
+|-
+| Defeat Temporary Battles || Defeat the [[Temporary Battles#Unova|Team Plasma Grunt 2]] [[File:Team Plasma Grunt (male).png|30px]] and [[Temporary Battles#Unova|Team Plasma Grunt 3]] [[File:Team Plasma Grunt (female).png|30px]] in [[Towns &amp; Cities#Unova|Nimbasa City]] || N/A
+|-
+| Talk to NPC || Talk to the Team Plasma Grunt located in A Perfectly Ordinary Frigate || N/A
+|-
+| Defeat Temporary Battles || Defeat the [[Temporary Battles#Unova|Team Plasma Grunt 4]] [[File:Team Plasma Grunt (male).png|30px]], [[Temporary Battles#Unova|Team Plasma Grunt 5]] [[File:Team Plasma Grunt (male).png|30px]], [[Temporary Battles#Unova|Team Plasma Grunts 1]] [[File:Team Plasma Grunts (male).png|30px]] and [[Temporary Battles#Unova|Team Plasma Grunts 2]] [[File:Team Plasma Grunts (male).png|30px]] located in A Perfectly Ordinary Frigate || N/A
+|-
+| Talk to NPC || Talk to Zinzolin in A Perfectly Ordinary Frigate || N/A
+|-
+| Clear Route || Clear [[Unova#Routes|Route 13]] || N/A
+|-
+| Defeat Temporary Battle || Defeat the [[Temporary Battles#Unova|Team Plasma Grunt 6]] [[File:Team Plasma Grunt (male).png|30px]] in [[Towns &amp; Cities#Unova|Lacunosa Town]] || N/A
+|-
+| Defeat Temporary Battle || Defeat [[Temporary Battles#Unova|Zinzolin 1]] [[File:Team Plasma (zinzolin).png|30px]] in [[Towns &amp; Cities#Unova|Lacunosa Town]] || N/A
+|-
+| Defeat Gym || Defeat the [[Gyms#Unova|Opelucid City Gym]] || N/A
+|-
+| Defeat Temporary Battles || Defeat the [[Temporary Battles#Unova|Team Plasma Grunt 7]] [[File:Team Plasma Grunt (male).png|30px]], [[Temporary Battles#Unova|Team Plasma Grunt 8]] [[File:Team Plasma Grunt (female).png|30px]] and  [[Temporary Battles#Unova|Team Plasma Grunt 9]] [[File:Team Plasma Grunt (male).png|30px]] in Team Plasma Assault || N/A
+|-
+| Defeat Temporary Battle || Defeat [[Temporary Battles#Unova|Zinzolin 2]] [[File:Team Plasma (zinzolin).png|30px]] in Team Plasma Assault || N/A
+|-
+| Defeat Temporary Battle || Defeat the [[Temporary Battles#Unova|Plasma Shadow 1]] [[File:Team Plasma (shadow).png|30px]] in Team Plasma Assault || N/A
+|-
+| Clear Dungeon || Clear [[Plasma Frigate]] || N/A
+|-
+| Clear Dungeon || Clear [[Giant Chasm]] || N/A
+|-
+| Talk to NPC || Talk to Colress in [[Giant Chasm]] || N/A
+|-
+| Defeat Temporary Battle || Defeat [[Temporary Battles#Unova|Colress]] [[File:Team Plasma (colress).png|30px]] in [[Giant Chasm]] || N/A
+|-
+| Defeat Temporary Battles || Defeat the [[Temporary Battles#Unova|Plasma Shadow 2]] [[File:Team Plasma (shadow).png|30px]], [[Temporary Battles#Unova|Plasma Shadow 3]] [[File:Team Plasma (shadow).png|30px]] and [[Temporary Battles#Unova|Plasma Shadow 4]] [[File:Team Plasma (shadow).png|30px]] in [[Giant Chasm]] || N/A
+|-
+| Talk to NPC || Talk to the Shadow Triad in [[Giant Chasm]] || N/A
+|-
+| Defeat Temporary Battle || Defeat [[Temporary Battles#Unova|Ghetsis 1]] [[File:Team Plasma (ghetsis).png|30px]] in [[Giant Chasm]] || N/A
+|-
+| Defeat Temporary Battle || Defeat [[Temporary Battles#Unova|Ghetsis 2]] [[File:Team Plasma (ghetsis).png|30px]] in [[Giant Chasm]] || 1 [[Masterball]] [[File:Masterball.png|25px]] and [[DNA Splicers]] [[File:DNASplicers HighRes.png|25px]]
+|}
+
+&lt;!--T:13--&gt;
+==Eater of Light==
+{| class="wikitable"
+|+ Eater of Light
+! Type !! Requirement !! Reward
+|- 
+| Prerequisite || Defeat the [[Gyms#Alola|Konikoni City Gym]] || N/A
+|-
+| Defeat [[Gyms|Gym]] || Defeat the [[Gyms#Alola|Aether Paradise Gym]] || N/A
+|-
+| Clear [[Dungeons|Dungeon]] || Clear [[Malie Garden]] || N/A
+|- 
+| Clear [[Dungeons|Dungeon]] || Clear [[Po Town]] || N/A
+|-
+| Clear [[Dungeons|Dungeon]] || Clear [[Aether Foundation]] || N/A
+|-
+| Defeat [[Gyms|Gym]] || Defeat [[Gyms#Alola|Altar of the Sunne and Moone Gym]] || 1 [[Masterball]] [[File:Masterball.png|25px]]
+|-
+|}
+
+&lt;!--T:14--&gt;
+==Mina's Trial==
+{| class="wikitable"
+|+ Mina's Trial
+! Type !! Requirement !! Reward
+|- 
+| Defeat [[Temporary Battles|Temporary Battle]] || Defeat the [[Gyms#Alola|Altar of the Sunne and Moone Gym]] || N/A
+|-
+| Defeat [[Temporary Battles|Temporary Battle]] || Defeat the [[Temporary Battles|Captain Mina]] in Seafolk Village || N/A
+|-
+| Defeat [[Temporary Battles|Temporary Battle]] || Defeat the [[Temporary Battles|Captain Ilima]] in [[Hau'oli Cemetery]] || N/A
+|-
+| Defeat [[Temporary Battles|Temporary Battle]] || Defeat the [[Temporary Battles|Captain Mallow]] in [[Lush Jungle]] || N/A
+|-
+| Defeat [[Temporary Battles|Temporary Battle]] || Defeat the [[Temporary Battles|Captain Lana]] in [[Lush Jungle]] || N/A
+|-
+| Defeat [[Temporary Battles|Temporary Battle]] || Defeat the [[Temporary Battles|Captain Kiawe]] in [[Wela Volcano Park]] || N/A
+|-
+| Defeat [[Temporary Battles|Temporary Battle]] || Defeat the [[Temporary Battles|Captain Sophocles]] in [[Hokulani Observatory]] || N/A
+|-
+| Defeat [[Temporary Battles|Temporary Battle]] || Defeat the [[Temporary Battles|Kahuna Nanu]] in Tapu Village || N/A
+|-
+| Clear [[Dungeons|Dungeon]] || Clear [[Mina's Houseboat]] Dungeon || N/A
+|-
+|}
+
+==The Darkest Day==
+{| class="wikitable"
+|+ The Darkest Day
+! Type !! Requirement !! Reward
+|-
+| Talk to NPC || Check the Ancient Mural in [[Towns &amp; Cities#Galar|Stow-on-Side]] || N/A
+|-
+| Defeat Temporary Battle || Defeat [[Temporary Battles#Galar|Bede 3]] [[File:Bede.png|25px]] near [[Towns &amp; Cities#Galar|Stow-on-Side]] || N/A
+|-
+| Talk to NPC || Check the Ancient Mural Ruins and talk to Sonia in [[Towns &amp; Cities#Galar|Stow-on-Side]] || N/A
+|-
+| Defeat Temporary Battle || Defeat [[Temporary Battles#Galar|Hop 6]] [[File:Hop.png|25px]] near [[Towns &amp; Cities#Galar|Hammerlocke]] || N/A
+|-
+| Defeat Temporary Battle || Defeat [[Temporary Battles#Galar|Hop 7]] [[File:Hop.png|25px]] near [[Towns &amp; Cities#Galar|Circhester]] || N/A
+|-
+| Talk to NPC || Check Hero's Bath, talk to Hop and Sonia in [[Towns &amp; Cities#Galar|Circhester]] || N/A
+|-
+| Defeat Gym || Defeat [[Gyms#Galar|Hammerlocke]]'s Gym || N/A
+|-
+| Defeat Gym || Defeat [[Gyms#Wyndon Stadium|Elite Marnie]] || N/A
+|-
+| Defeat Gym || Defeat [[Gyms#Wyndon Stadium|Elite Bede]] || N/A
+|-
+| Defeat Gym || Defeat [[Gyms#Wyndon Stadium|Elite Hop]] || N/A
+|-
+| Clear Dungeon || Clear [[Rose Tower]] || N/A
+|-
+| Talk to NPC || Listen to the Broadcast of Chairman Rose in [[Towns &amp; Cities#Galar|Wyndon Stadium]] || N/A
+|-
+| Talk to NPC || Talk to Hop in [[Towns &amp; Cities#Galar|Wyndon Stadium]] || N/A
+|-
+| Clear Dungeon || Clear [[Slumbering Weald Shrine]] || N/A
+|-
+| Talk to NPC || Talk to Hop in [[Slumbering Weald Shrine]] || N/A
+|-
+| Clear Dungeon || Clear [[Energy Plant]] || N/A
+|-
+| Talk to NPC || Talk to Chairman Rose in [[Energy Plant]] || N/A
+|-
+| Defeat Temporary Battle || Defeat [[Temporary Battles#Galar|Eternatus]] [[File:Eternatus.png|25px]] || N/A
+|-
+| Defeat Temporary Battle || Defeat [[Temporary Battles#Galar|The Darkest Day]] [[File:Eternamax Eternatus.png|25px]] || Eternatus [[File:Eternatus.png|25px]] and 1 [[Masterball]] [[File:Masterball.png|25px]] 
+|-
+| Talk to NPC || Talk to Leon in [[Towns &amp; Cities#Galar|Wyndon Stadium]] || N/A
+|-
+| Defeat Gym || Defeat [[Gyms#Wyndon Stadium|Champion Leon]] || N/A
+|}
+
+&lt;!--T:15--&gt;
+==Togepi Egg Hunt==
+This quest is a part of the [[Events|Easter]] event available from April 8 - 29.
+
+&lt;!--T:16--&gt;
+{| class="wikitable"
+|+ Togepi Egg Hunt
+! Type !! Requirement !! Prerequisite !! Reward
+|-
+| Defeat Dungeon Boss || Beat Surprise Togepi [[File:Egg_Hunter.png|30px]] in [[Viridian Forest]] || Defeat [[Gyms#Indigo Plateau|Champion Blue]] [[File:Blue.png|15px]] || Adds Surprise Togepi [[File:Surprise_Togepi.png|50px]] to [[Ilex Forest]]
+|-
+| Defeat Dungeon Boss || Beat Surprise Togepi [[File:Egg_Hunter.png|30px]] in [[Ilex Forest]] || Defeat [[Gyms#Johto Indigo Plateau|Champion Lance]] [[File:Lance2.png|25px]] || Adds Surprise Togepi [[File:Surprise_Togepi.png|50px]] to [[Petalburg Woods]]
+|-
+| Defeat Dungeon Boss || Beat Surprise Togepi [[File:Egg_Hunter.png|30px]] in [[Petalburg Woods]] || Defeat [[Gyms#Pokémon League Hoenn|Champion Wallace]] [[File:Wallace.png|35px]] || Surprise Togepi [[File:Surprise_Togepi.png|50px]] (Auto-awarded)
+|}
+
+&lt;!--T:17--&gt;
+=Bulletin Board Quests=
+Some quests require the player to accept them at the Bulletin Boards. They are located in the starting [[Towns &amp; Cities|Towns]] of each respective [[Region]]. Note that to accept any of these quests, the prerequisites need to be met first.
+
+&lt;!--T:18--&gt;
+==Unfinished Business==
+'''Note:''' After fulfilling the prerequisites, this quest can be accepted in the Bulletin Board in [[Towns &amp; Cities#Kanto|Pallet Town]].
+{| class="wikitable"
+|+ Unfinished Business
+! Type !! Requirement !! Reward
+|-
+| Prerequisite || Complete [[Questlines#Bill's Errand|Bill's Errand]] Quest || N/A
+|-
+| Talk to NPC || Talk to Professor Oak in [[Towns &amp; Cities#Kanto|Pallet Town]] || N/A
+|-
+| Talk to NPC || Talk to Professor Ivy in [[Towns &amp; Cities#Kanto|Professor Ivy's Lab]] || N/A 
+|-
+| Talk to NPC || Talk to Professor Oak in [[Towns &amp; Cities#Kanto|Pallet Town]] || N/A
+|-
+| Talk to NPC || Talk to Kurt in [[Towns &amp; Cities#Johto|Azalea Town]] || N/A
+|-
+| Talk to NPC || Talk to Kurt in [[Towns &amp; Cities#Johto|Azalea Town]] after becoming the Johto Champion || N/A
+|-
+| Talk to NPC || Talk to Professor Oak in [[Towns &amp; Cities#Johto|Azalea Town]] || N/A
+|-
+| Talk to NPC || Investigate the shrine in [[Ilex Forest]] Dungeon || N/A
+|-
+| Defeat [[Temporary Battles|Temporary Battle]] || Defeat [[Temporary Battles#Johto|Strange Pichu]] [[File:Spiky-eared Pichu.png|30px]] in [[Ilex Forest]] Dungeon || Spiky-eared Pichu [[File:Spiky-eared Pichu.png|30px]]
+|-
+| Talk to NPC || Talk to Professor Oak in [[Towns &amp; Cities#Johto|Azalea Town]] || N/A
+|-
+| Talk to NPC || Investigate the time distortion in [[Tohjo Falls]] Dungeon || N/A
+|-
+| Defeat [[Temporary Battles|Temporary Battle]] || Defeat [[Temporary Battles#Johto|Rocket Boss Giovanni]] [[File:Rocket Boss Giovanni.png|30px]] in [[Tohjo Falls]] Dungeon || N/A
+|-
+| Talk to NPC || Talk to Professor Oak in [[Towns &amp; Cities#Johto|Azalea Town]] || N/A
+|-
+| Talk to NPC || Investigate the shrine in [[Ilex Forest]] Dungeon || Celebi [[File:Celebi.png|30px]] gets added to [[Ilex Forest]]
+|-
+| Capture Pokémon || Catch Celebi [[File:Celebi.png|30px]] || N/A
+|-
+| Talk to NPC || Talk to Professor Oak in [[Towns &amp; Cities#Johto|Azalea Town]] || N/A
+|}
+
+&lt;!--T:24--&gt;
+==The Legendary Beasts==
+'''Note:''' After fulfilling the prerequisites, this quest can be accepted in the Bulletin Board in [[Towns &amp; Cities#Johto|New Bark Town]].
+{| class="wikitable"
+|+ The Legendary Beasts
+! Type !! Requirement !! Reward
+|-
+| Prerequisite || Defeat [[Gyms#Johto|Ecruteak City's Gym]] || N/A
+|-
+| Talk to NPC || Talk to Eusine in [[Towns &amp; Cities#Johto|Ecruteak City]] || Unlocks [[Burned Tower]]
+|-
+| Clear Dungeon || Clear [[Burned Tower]] || N/A
+|-
+| Talk to NPC || Talk to Pokéfan Derek in [[Towns &amp; Cities#Johto|Ecruteak City]] || Raikou [[File:Raikou.png|30px]] and Entei [[File:Entei.png|30px]] start [[Roaming Pokémon|Roaming]] Johto
+|-
+| Capture Pokémon || Catch Raikou [[File:Raikou.png|30px]], Entei [[File:Entei.png|30px]] and Suicune [[File:Suicune.png|30px]] || Unlocks Ho-Oh [[File:Ho-Oh.png|30px]] in [[Burned Tower]]
+|}
+
+&lt;!--T:25--&gt;
+==Eusine's Chase==
+'''Note:''' After fulfilling the prerequisites, this quest can be accepted in the Bulletin Board in [[Towns &amp; Cities#Johto|New Bark Town]].
+{| class="wikitable"
+|+ Eusine's Chase
+! Type !! Requirement !! Reward
+|-
+| Prerequisite || Be in "Capture Pokémon" step of [[Questlines#The Legendary Beasts|The Legendary Beasts]] Questline || N/A
+|-
+| Defeat Temporary Battle || Find and defeat [[Temporary Battles#Johto|Suicune 1]] [[File:Suicune.png|30px]] near [[Towns &amp; Cities#Johto|Cianwood City]] || N/A
+|-
+| Talk to NPC || Talk to Eusine in [[Towns &amp; Cities#Johto|Cianwood City]] || N/A
+|-
+| Defeat Temporary Battle || Defeat [[Temporary Battles#Johto|Eusine]] near [[Towns &amp; Cities#Johto|Cianwood City]] || N/A
+|-
+| Defeat Temporary Battle || Find and defeat [[Temporary Battles#Johto|Suicune 2]] [[File:Suicune.png|30px]] in [[Johto#Routes|Route 42]] || N/A
+|-
+| Talk to NPC || Talk to Eusine in [[Towns &amp; Cities#Johto|Mahogany Town]] || N/A
+|-
+| Defeat Temporary Battle || Find and defeat [[Temporary Battles#Johto|Suicune 3]] [[File:Suicune.png|30px]] near [[Towns &amp; Cities#Kanto|Vermilion City]] after becoming the [[Johto]] Champion || N/A
+|-
+| Talk to NPC || Talk to Eusine in [[Towns &amp; Cities#Kanto|Vermilion City]] || N/A
+|-
+| Defeat Temporary Battle || Find and defeat [[Temporary Battles#Johto|Suicune 4]] [[File:Suicune.png|30px]] between [[Kanto#Routes|Route 14 and 15]] || N/A
+|-
+| Talk to NPC || Talk to Eusine in [[Towns &amp; Cities#Kanto|Fuchsia City]] || N/A
+|-
+| Defeat Temporary Battle || Find and defeat [[Temporary Battles#Johto|Suicune 5]] [[File:Suicune.png|30px]] in [[Kanto#Routes|Route 25]] || N/A
+|-
+| Talk to NPC || Talk to Eusine in [[Towns &amp; Cities#Kanto|Cerulean City]] || N/A
+|-
+| Capture Pokémon || Defeat [[Temporary Battles#Johto|Suicune 6]] [[File:Suicune.png|30px]] and capture it || N/A
+|}
+
+==Whirl Guardian==
+'''Note:''' After fulfilling the prerequisites, this quest can be accepted in the Bulletin Board in [[Towns &amp; Cities#Johto|New Bark Town]].
+{| class="wikitable"
+|+ Whirl Guardian
+! Type !! Requirement !! Reward
+|-
+| Prerequisite || Complete [[Questlines#Team Rocket Again|Team Rocket Again]] Questline || N/A
+|-
+| Talk to NPC || Talk to Kimono Girl Zuki in [[Towns &amp; Cities#Johto|Violet City]] || N/A
+|-
+| Hatch Eggs || Hatch 25 Eggs || N/A
+|-
+| Talk to NPC || Talk to Kimono Girl Naoko in [[Ilex Forest]] || N/A
+|-
+| Clear Dungeon || Clear [[Ilex Forest]] || N/A
+|-
+| Talk to NPC || Talk to Kimono Girl Miki in [[Towns &amp; Cities#Johto|Ecruteak City]] || 50 [[Ultraball|Ultraballs]] [[File:Ultraball.png|25px]]
+|-
+| Talk to NPC || Talk to Kimono Girl Sayo in [[Ice Path]] || N/A
+|-
+| Clear Dungeon || Clear [[Ice Path]] || N/A
+|-
+| Talk to NPC || Talk to Kimono Girl Kuni in [[Towns &amp; Cities#Johto|Goldenrod City]] || N/A
+|-
+| Clear Dungeon || Clear [[Radio Tower]] || N/A
+|-
+| Talk to NPC || Talk to Kimono Girls in [[Whirl Islands]] || Adds Lugia [[File:Lugia.png|25px]] to [[Whirl Islands]]
+|-
+| Catch Pokémon || Catch Lugia [[File:Lugia.png|25px]] || N/A
+|}
+
+==Rainbow Guardian==
+'''Note:''' After fulfilling the prerequisites, this quest can be accepted in the Bulletin Board in [[Towns &amp; Cities#Johto|New Bark Town]].
+{| class="wikitable"
+|+ Whirl Guardian
+! Type !! Requirement !! Reward
+|-
+| Prerequisite || Be in Catch Pokémon step of [[Questlines#Whirl Guardian|Whirl Guardian]] Questline &lt;br&gt; and capture Raikou [[File:Raikou.png|25px]], Entei [[File:Entei.png|25px]] and [[File:Suicune.png|25px]] || N/A
+|-
+| Talk to NPC || Talk to Kimono Girls in [[Towns &amp; Cities#Johto|Ecruteak City]] || N/A
+|-
+| Defeat Temporary Battle || Defeat [[Temporary Battles#Johto|Kimono Girls]] [[File:Kimono Girl.png|25px]] in [[Towns &amp; Cities#Johto|Ecruteak City]] || Adds Ho-oh [[File:Ho-oh.png|25px]] to [[Tin Tower]]
+|-
+| Catch Pokémon || Catch Ho-oh [[File:Ho-oh.png|25px]] || N/A
+|}
+
+&lt;!--T:19--&gt;
+==Celio's Errand==
+'''Note:''' After fulfilling the prerequisites, this quest can be accepted in the Bulletin Board in [[Towns &amp; Cities#Hoenn|Littleroot Town]].
+{| class="wikitable"
+|+ Celio's Errand
+! Type !! Requirement !! Reward
+|-
+| Prerequisite || Become the [[Hoenn]] Champion || N/A
+|-
+| Talk to NPC || Talk to Celio in [[Towns &amp; Cities#Kanto|One Island]] || N/A
+|-
+| Talk to NPC || Talk to the Rocket Grunts at [[Mt. Ember Summit|Mt. Ember]] || N/A
+|-
+| Defeat Temporary Battles || Defeat [[Temporary Battles#Hoenn|Sevii Rocket Grunt 1]] [[File:Team Rocket Grunt (female).png|30px]] and [[Temporary Battles#Hoenn|Sevii Rocket Grunt 2]] [[File:Team Rocket Grunt (male).png|30px]] at Mt. Ember || N/A
+|-
+| Clear Dungeon || Clear [[Ruby Path]] || N/A
+|-
+| Talk to NPC || Take the Ruby in [[Ruby Path]] || N/A
+|-
+| Talk to NPC || Talk to Celio in [[Towns &amp; Cities#Kanto|One Island]] || Unlocks access to Kanto's subregion [[Kanto#Routes|Sevii 4567]]
+|-
+| Clear Dungeon || Clear [[Icefall Cave]] || N/A
+|-
+| Talk to NPC || Talk to Lorelei in [[Icefall Cave]] || N/A
+|-
+| Talk to NPC || Talk to Gideon in [[Towns &amp; Cities#Kanto|Dotted Hole]] || N/A
+|-
+| Defeat Temporary Battles || Defeat [[Temporary Battles#Hoenn|Sevii Rocket Grunt 3]] [[File:Team Rocket Grunt (female).png|30px]], [[Temporary Battles#Hoenn|Sevii Rocket Grunt 4]] [[File:Team Rocket Grunt (male).png|30px]] and  [[Temporary Battles#Hoenn|Sevii Rocket Grunt 5]] [[File:Team Rocket Grunt (male).png|30px]] in [[Towns &amp; Cities#Kanto|Rocket Warehouse]] || N/A
+|-
+| Defeat Temporary Battle || Defeat [[Temporary Battles#Hoenn|Team Rocket Executive Ariana]] [[File:Team Rocket Executive Ariana.png|30px]] in [[Towns &amp; Cities#Kanto|Rocket Warehouse]] || N/A
+|-
+| Defeat Temporary Battle || Defeat [[Temporary Battles#Hoenn|Team Rocket Executive Archer]] [[File:Team Rocket Executive Archer.png|30px]] in [[Towns &amp; Cities#Kanto|Rocket Warehouse]] || N/A
+|-
+| Defeat Temporary Battle || Defeat [[Temporary Battles#Hoenn|Scientist Gideon]] [[File:Scientist Gideon.png|30px]] in [[Towns &amp; Cities#Kanto|Rocket Warehouse]] || N/A
+|-
+| Talk to NPC || Talk to Celio in [[Towns &amp; Cities#Kanto|One Island]] || N/A
+|}
+
+
+&lt;!--T:26--&gt;
+==Team Rocket's Pinkan Theme Park==
+'''Note:''' After fulfilling the prerequisites, this quest can be accepted in the Bulletin Board in [[Towns &amp; Cities#Kanto|Pummelo Island]].
+{| class="wikitable"
+|+ Team Rocket's Pinkan Theme Park
+! Type !! Requirement !! Reward
+|-
+| Prerequisite || Become the [[Gyms#Orange League|Orange League]] Champion || N/A
+|-
+| Talk to NPC || Talk to Team Rocket in [[Towns &amp; Cities#Kanto|Pinkan Pokémon Reserve]] || Unlocks [[Pinkan]] [[File:Pinkan.png|30px]] Berry mutation
+|-
+| Harvest Berries || Harvest 1 [[Pinkan]] [[File:Pinkan.png|30px]] Berry || N/A
+|-
+| Defeat Pokémon || Defeat 500 Pokémon in [[Kanto#Routes|Pinkan Plains]] and [[Kanto#Routes|Pinkan Forest]] || 20 [[Pinkan]] [[File:Pinkan.png|30px]]
+|-
+| Gather Gems and Items || Gather 1000 [[Gems|Fairy Gems]] [[File:Fairy Gem.png|30px]] and obtain 10 [[Pixie Plate|Pixie Plates]] [[File:Pixie Plate.png|30px]] || N/A
+|-
+| Defeat Temporary Battle || Defeat [[Temporary Battles#Hoenn|Pinkan Jesse and James]] [[File:Pinkan Jesse and James.png|30px]] in [[Towns &amp; Cities#Kanto|Pinkan Pokémon Reserve]] || N/A
+|-
+| Defeat Temporary Battle || Defeat [[Temporary Battles#Hoenn|Pinkan Officer Jenny]] [[File:Pinkan Officer Jenny.png|30px]] in [[Towns &amp; Cities#Kanto|Pinkan Pokémon Reserve]] || Unlocks [[Shops#Officer Jenny's Pinkan Trade Shop|Officer Jenny's Pinkan Trade Shop]]
+|}
+
+==The Three Golems==
+'''Note:''' After fulfilling the prerequisites, this quest can be accepted in the Bulletin Board in [[Towns &amp; Cities#Hoenn|Littleroot Town]].
+{| class="wikitable"
+|+ The Three Golems
+! Type !! Requirement !! Reward
+|-
+| Prerequisite || Beat [[Gyms#Hoenn|Mossdeep City]]'s Gym || N/A
+|-
+| Clear Dungeon || Clear [[Sealed Chamber]] || N/A
+|-
+| Talk to NPC || Investigate the Strange Markings in [[Sealed Chamber]] || N/A
+|-
+| Talk to NPC || Go ⠇⠑⠋⠞ || N/A
+|-
+| Talk to NPC || Go ⠇⠑⠋⠞ || N/A
+|-
+| Talk to NPC || Go ⠎⠞⠗⠁⠊⠛⠓⠞ || N/A
+|-
+| Talk to NPC || Go ⠎⠞⠗⠁⠊⠛⠓⠞ || N/A
+|-
+| Talk to NPC || Go ⠗⠊⠛⠓⠞ || N/A
+|-
+| Talk to NPC || Investigate the Hidden Message in [[Sealed Chamber]] || N/A
+|-
+| Defeat Pokémon || Defeat 100 Pokémon in ⠙⠑⠎⠑⠗⠞, ⠊⠎⠇⠁⠝⠙ and ⠁⠝⠉⠊⠑⠝⠞ || Unlocks Regirock [[File:Regirock.png|25px]], Regice [[File:Regice.png|25px]] and Registeel [[File:Registeel.png|25px]] in [[Sealed Chamber]]
+|-
+| Catch Pokémon || Capture Regirock [[File:Regirock.png|25px]], Regice [[File:Regice.png|25px]] and Registeel [[File:Registeel.png|25px]] || N/A
+|}
+
+&lt;!--T:20--&gt;
+==Detective Pikachu==
+'''Note:''' After fulfilling the prerequisites, this quest can be accepted in the Bulletin Board in [[Towns &amp; Cities#Kalos|Vaniville Town]].
+{| class="wikitable"
+|+ Detective Pikachu
+! Type !! Requirement !! Reward
+|-
+| Prerequisite || Capture [[Wandering Pokemon|Detective Pikachu]] [[File:Detective Pikachu.png|30px]] and defeat [[Gyms#Kalos|Santalune City Gym]] || N/A
+|-
+| Talk to NPC || Search for clues in [[Towns &amp; Cities#Johto|Goldenrod City]] || N/A
+|-
+| Defeat Temporary Battle || Defeat [[Temporary Battles#Kalos|Aipom Alley]] [[File:Aipom Alley.png|30px]] in [[Towns &amp; Cities#Johto|Goldenrod City]] || N/A
+|-
+| Clear Dungeon || Clear [[Radio Tower]] || N/A
+|-
+| Talk to NPC || Meet with the Informant in [[Towns &amp; Cities#Kanto|Saffron City]] || N/A
+|-
+| Defeat Temporary Battle || Defeat [[Temporary Battles#Kalos|Mime Interview]] [[File:Mr. Mime.png|30px]] in [[Towns &amp; Cities#Kanto|Saffron City]] || N/A
+|-
+| Talk to NPC || Talk to the Informant in [[Towns &amp; Cities#Kanto|Saffron City]] || N/A
+|-
+| Defeat Temporary Battle || Infiltrate the [[Temporary Battles#Kalos|Underground Fighting Ring]] [[File:Veteran (male).png|30px]] in [[Towns &amp; Cities#Hoenn|Pacifidlog Town]] || N/A
+|-
+| Talk to NPC || Talk to Howard Clifford in [[Towns &amp; Cities#Johto|Goldenrod City]] || N/A
+|-
+| Talk to NPC || Talk to Lucy Stevens in [[Towns &amp; Cities#Sinnoh|Hearthome City]] || N/A
+|-
+| Clear Dungeon || Clear [[P2 Laboratory]] || N/A
+|-
+| Defeat Temporary Battle || Fight the [[Temporary Battles#Kalos|Lab Ambush]] [[File:Lab Ambush.png|30px]] in [[Towns &amp; Cities#Unova|Nuvema Town]] || N/A
+|-
+| Talk to NPC || Talk to Mewtwo in [[Towns &amp; Cities#Kanto|Cerulean City]] || N/A
+|-
+| Talk to NPC || Talk to Howard Clifford in [[Towns &amp; Cities#Johto|Goldenrod City]] || N/A
+|-
+| Defeat Temporary Battle || Defeat the [[Temporary Battles#Kalos|Imposter]] [[File:Imposter.png|30px]] in [[Towns &amp; Cities#Johto|Goldenrod City]] || N/A
+|-
+| Talk to NPC || Talk to Howard Clifford in [[Towns &amp; Cities#Johto|Goldenrod City]] || N/A
+|-
+| Defeat Temporary Battle || Defeat [[Temporary Battles#Kalos|Possessed Mewtwo]] [[File:Mewtwo.png|30px]] in [[Towns &amp; Cities#Johto|Goldenrod City]] || N/A
+|-
+| Talk to NPC || Talk to Mewtwo in [[Towns &amp; Cities#Kanto|Cerulean City]] || N/A
+|-
+| Talk to NPC || Talk to Detective Raichu in [[Towns &amp; Cities#Kanto|Cerulean City]] || Detective Raichu [[File:Detective Raichu.png|30px]]
+|}
+
+&lt;!--T:21--&gt;
+==The Great Vivillon Hunt!==
+'''Note:''' After fulfilling the prerequisites, this quest can be accepted in the Bulletin Board in [[Towns &amp; Cities#Kalos|Vaniville Town]].
+{| class="wikitable"
+|+ The Great Vivillon Hunt!
+! Type !! Requirement !! Reward
+|-
+| Prerequisite || Defeat the [[Gyms#Kalos|Snowbelle City Gym]] || None
+|-
+| Capture Pokémon || Catch 100 Water-type Pokémon || Adds Vivillon (Marine) [[File:Vivillon_(Marine).png|25px]] to [[Lake Verity]], [[Lake Valor]], and [[Lake Acuity]] in [[Sinnoh]]
+|-
+| Capture Pokémon || Catch Vivillon (Marine) [[File:Vivillon_(Marine).png|25px]] || None
+|-
+| Capture Pokémon || Catch 100 Psychic-type Pokémon || Adds Vivillon (Modern) [[File:Vivillon_(Modern).png|25px]] to [[Cerulean Cave]] in [[Kanto]]
+|-
+| Capture Pokémon || Catch Vivillon (Modern) [[File:Vivillon_(Modern).png|25px]] || None
+|-
+| Capture Pokémon || Catch 100 Poison-type Pokémon || Adds Vivillon (Jungle) [[File:Vivillon_(Jungle).png|25px]] to [[Moor of Icirrus]] in [[Unova]]
+|-
+| Capture Pokémon || Catch Vivillon (Jungle) [[File:Vivillon_(Jungle).png|25px]] || None
+|-
+| Capture Pokémon || Catch 100 Dark-type Pokémon || Adds Vivillon (Monsoon) [[File:Vivillon_(Monsoon).png|25px]] to [[Dark Cave]] in [[Johto]]
+|-
+| Capture Pokémon || Catch Vivillon (Monsoon) [[File:Vivillon_(Monsoon).png|25px]] || None
+|-
+| Capture Pokémon || Catch 100 Steel-type Pokémon || Adds Vivillon (Tundra) [[File:Vivillon_(Tundra).png|25px]] to [[Pokéball Factory]] in [[Kalos]]
+|-
+| Capture Pokémon || Catch Vivillon (Tundra) [[File:Vivillon_(Tundra).png|25px]] || None
+|-
+| Capture Pokémon || Catch 100 Fire-type Pokémon || Adds Vivillon (Sun) [[File:Vivillon_(Sun).png|25px]] to [[Mt. Chimney]] in Hoenn
+|-
+| Capture Pokémon || Catch Vivillon (Sun) [[File:Vivillon_(Sun).png|25px]] || None
+|-
+| Capture Pokémon || Catch 100 Fighting-type Pokémon || Adds Vivillon (Archipelago) [[File:Vivillon_(Archipelago).png|25px]] to [[Sprout Tower]] in Johto
+|-
+| Capture Pokémon || Catch Vivillon (Archipelago) [[File:Vivillon_(Archipelago).png|25px]] || None
+|-
+| Capture Pokémon || Catch 100 Ghost-type Pokémon || Adds Vivillon (Elegant) [[File:Vivillon_(Elegant).png|25px]] to [[Lost Hotel]] in Kalos
+|-
+| Capture Pokémon || Catch Vivillon (Elegant) [[File:Vivillon_(Elegant).png|25px]] || None
+|-
+| Capture Pokémon || Catch 100 Fairy-type Pokémon || Adds Vivillon (Ocean) [[File:Vivillon_(Ocean).png|25px]] to [[Dreamyard]] in Unova
+|-
+| Capture Pokémon || Catch Vivillon (Ocean) [[File:Vivillon_(Ocean).png|25px]] || None
+|-
+| Capture Pokémon || Catch 100 Electric-type Pokémon || Adds Vivillon (Continental) [[File:Vivillon_(Continental).png|25px]] to [[New Mauville]] in Hoenn
+|-
+| Capture Pokémon || Catch Vivillon (Continental) [[File:Vivillon_(Continental).png|25px]] || None
+|-
+| Capture Pokémon || Catch 100 Bug-type Pokémon || Adds Vivillon (River) [[File:Vivillon_(River).png|25px]] to [[Eterna Forest]] in Sinnoh
+|-
+| Capture Pokémon || Catch Vivillon (River) [[File:Vivillon_(River).png|25px]] || None
+|-
+| Capture Pokémon || Catch 100 Flying-type Pokémon || Adds Vivillon (Polar) [[File:Vivillon_(Polar).png|25px]] to [[Sky Pillar]] in Hoenn
+|-
+| Capture Pokémon || Catch Vivillon (Polar) [[File:Vivillon_(Polar).png|25px]] || None
+|-
+| Capture Pokémon || Catch 100 Ground-type Pokémon || Adds Vivillon (Sandstorm) [[File:Vivillon_(Sandstorm).png|25px]] to [[Relic Castle]] in Unova
+|-
+| Capture Pokémon || Catch Vivillon (Sandstorm) [[File:Vivillon_(Sandstorm).png|25px]] || None
+|-
+| Capture Pokémon || Catch 100 Grass-type Pokémon || Adds Vivillon (Garden) [[File:Vivillon_(Garden).png|25px]] to [[Flower Paradise]] in Sinnoh
+|-
+| Capture Pokémon || Catch Vivillon (Garden) [[File:Vivillon_(Garden).png|25px]] || None
+|-
+| Capture Pokémon || Catch 100 Rock-type Pokémon || Adds Vivillon (High-Plains) [[File:Vivillon_(High Plains).png|25px]] to [[Mt. Moon]] in Kanto
+|-
+| Capture Pokémon || Catch Vivillon (High Plains) [[File:Vivillon_(High Plains).png|25px]] || None
+|-
+| Capture Pokémon || Catch 100 Dragon-type Pokémon || Adds Vivillon (Savanna) [[File:Vivillon_(Savanna).png|25px]] to [[Dragonspiral Tower]] in Unova
+|-
+| Capture Pokémon || Catch Vivillon (Savanna) [[File:Vivillon_(Savanna).png|25px]] || None
+|-
+| Capture Pokémon || Catch 100 Ice-type Pokémon || Adds Vivillon (Icy Snow) [[File:Vivillon_(Icy Snow).png|25px]] to [[Frost Cavern]] in Kalos
+|-
+| Capture Pokémon || Catch Vivillon (Icy Snow) [[File:Vivillon_(Icy Snow).png|25px]] || None
+|-
+| Capture Pokémon || Catch 200 Normal-type Pokémon || Adds Vivillon (Pokéball) [[File:Vivillon_(Pokéball).png|25px]] to the Hoenn Battle Frontier
+|-
+| Battle Frontier || Beat Stage 666 || None (Vivillon (Pokéball) [[File:Vivillon_(Pokéball).png|25px]] auto-awarded by the Battle Frontier)
+|}
+
+&lt;!--T:22--&gt;
+==The New Kid==
+'''Note:''' After fulfilling the prerequisites, this quest can be accepted in the Bulletin Board in [[Towns &amp; Cities#Kalos|Vaniville Town]].
+{| class="wikitable"
+|+ The New Kid
+! Type !! Requirement !! Reward
+|- 
+| Prerequisite || Defeat [[Gyms#Pokemon_League_Kalos|Champion Diantha]][[File:Diantha.png|25px]] || N/A
+|-
+| Defeat [[Temporary Battles|Temporary Battle]] || Defeat [[Temporary Battles#Kalos|Ash Ketchum Kanto]][[File:Ash_Ketchum.png|25px]] || N/A
+|-
+| Defeat [[Temporary Battles|Temporary Battle]] || Defeat [[Temporary Battles#Kalos|Ash Ketchum Johto]][[File:Ash_Ketchum.png|25px]] || N/A
+|-
+| Defeat [[Temporary Battles|Temporary Battle]] || Defeat [[Temporary Battles#Kalos|Ash Ketchum Hoenn]][[File:Ash_Ketchum.png|25px]] || N/A
+|-
+| Defeat [[Temporary Battles|Temporary Battle]] || Defeat [[Temporary Battles#Kalos|Ash Ketchum Sinnoh]][[File:Ash_Ketchum.png|25px]] || N/A
+|-
+| Defeat [[Temporary Battles|Temporary Battle]] || Defeat [[Temporary Battles#Kalos|Ash Ketchum Unova]][[File:Ash_Ketchum.png|25px]] || N/A
+|-
+| Defeat [[Temporary Battles|Temporary Battle]] || Defeat [[Temporary Battles#Kalos|Ash Ketchum Kalos]][[File:Ash_Ketchum.png|25px]] || Ash Greninja[[File:Ash_Greninja.png|30px]]
+|}
+
+
+&lt;!--T:27--&gt;
+==Princess Diancie==
+'''Note:''' After fulfilling the prerequisites, this quest can be accepted in the Bulletin Board in [[Towns &amp; Cities#Kalos|Vaniville Town]].
+{| class="wikitable"
+|+ Princess Diancie
+! Type !! Requirement !! Reward
+|- 
+| Prerequisite || Capture Doublade [[File:Doublade.png|30px]] and beat all the [[Gyms#Pokémon League Kalos|Kalos E4]] members (Malva, Siebold, Wikstrom and Drasna) || N/A
+|-
+| Capture Pokémon || Capture 100 Fairy type Pokémon || N/A
+|-
+| Defeat Temporary Battle || Defeat [[Temporary Battles#Kalos|Riot]] [[File:Riot.png|30px]] in [[Towns &amp; Cities#Kalos|Shalour City]] || N/A
+|-
+| Defeat Temporary Battle || Defeat [[Temporary Battles#Kalos|Merilyn]] [[File:Merilyn.png|30px]] in [[Towns &amp; Cities#Kalos|Lumiose City]] || N/A
+|-
+| Dig Layers || Dig 5 layers in the [[Underground]] || N/A
+|-
+| Defeat Temporary Battle || Defeat [[Temporary Battles#Kalos|Millis and Argus Steel]] [[File:Millis and Argus Steel.png|30px]] in [[Towns &amp; Cities#Kalos|Shalour City]] || N/A
+|-
+| Talk to NPC || Examine your Doublade in [[Towns &amp; Cities#Kalos|Shalour City]] || Aegislash (Blade) [[File:Aegislash (Blade).png|30px]]
+|-
+| Gather Gems || Gather 1000 [[Gems|Fairy Gems]] [[File:Fairy Gem.png|30px]] || N/A
+|-
+| Talk to NPC || Talk to Princess Diancie in [[Towns &amp; Cities#Kalos|Shalour City]] || Diancie [[File:Diancie.png|30px]] gets added to [[Reflection Cave]]
+|-
+| Capture Pokémon || Capture Diancie [[File:Diancie.png|30px]] || N/A
+|}
+
+&lt;!--T:23--&gt;
+==Ultra Beast Hunt==
+'''Note:''' After fulfilling the prerequisites, this quest can be accepted in the Bulletin Board in [[Towns &amp; Cities#Alola|Professor Kukui's Lab]].
+{| class="wikitable"
+|+ Ultra Beast Hunt
+! Type !! Requirement !! Reward
+|- 
+| Prerequisite || Defeat the [[Gyms#Pokemon League Alola|Champion Hau]][[File:Hau.png|25px]] || N/A
+|-
+| Talk to NPC || Talk to Looker in [[Towns &amp; Cities#Alola|Roadside Motel]] || N/A
+|-
+| Defeat [[Temporary Battles|Temporary Battle]] || Defeat [[Temporary Battles#Alola|Anabel]][[File:Anabel.png|25px]] || 5 [[Beastball|Beastballs]][[File:Beastball.png|25px]]
+|-
+| Talk to NPC || Talk to Anabel in [[Towns &amp; Cities#Alola|Roadside Motel]] || N/A
+|-
+| Talk to NPC || Talk to Looker in [[Towns &amp; Cities#Alola|Roadside Motel]] || Adds Nihilego [[File:Nihilego.png|25px]] to [[Wela Volcano Park]] and [[Diglett's Tunnel]]
+|-
+| Capture Pokémon || Capture 1 Nihilego [[File:Nihilego.png|25px]] || N/A
+|-
+| Talk to NPC || Talk to Anabel in [[Towns &amp; Cities#Alola|Roadside Motel]] || Adds Buzzwole [[File:Buzzwole.png|25px]] to [[Melemele Meadow]] &lt;br&gt; and Pheromosa [[File:Pheromosa.png|25px]] to [[Verdant Cavern]]
+|-
+| Capture Pokémon || Capture 2 Buzzwole [[File:Buzzwole.png|25px]] and 4 Pheromosa [[File:Pheromosa.png|25px]] || N/A
+|-
+| Talk to NPC || Talk to Anabel in [[Towns &amp; Cities#Alola|Roadside Motel]] || N/A
+|-
+| Defeat [[Temporary Battles|Temporary Battle]] || Defeat [[Temporary Battles#Alola|Captain Mina]][[File:Mina.png|25px]] || N/A
+|-
+| Talk to NPC || Talk to Captain Mina in [[Towns &amp; Cities#Alola|Roadside Motel]] || Adds Xurkitree [[File:Xurkitree.png|25px]] to [[Lush Jungle]] and [[Memorial Hill]]
+|-
+| Capture Pokémon || Capture 2 Xurkitree [[File:Xurkitree.png|25px]] || N/A
+|-
+| Talk to NPC || Talk to Kahuna Nanu in [[Towns &amp; Cities#Alola|Roadside Motel]] || Adds Kartana [[File:Kartana.png|25px]] to [[Alola#Routes|Route 17]] and Celesteela [[File:Celesteela.png|25px]] to [[Alola#Routes|Haina Desert]] and both to [[Malie Garden]]
+|-
+| Capture Pokémon || Capture 4 Kartana [[File:Kartana.png|25px]] and 2 Celesteela [[File:Celesteela.png|25px]] || N/A
+|-
+| Talk to NPC || Talk to Kahuna Nanu in [[Towns &amp; Cities#Alola|Roadside Motel]] || N/A
+|-
+| Defeat [[Temporary Battles|Temporary Battle]] || Defeat [[Temporary Battles#Alola|Kahuna Nanu]][[File:Nanu.png|25px]] || N/A
+|-
+| Talk to NPC || Talk to Anabel in [[Towns &amp; Cities#Alola|Roadside Motel]] || Adds Blacephalon [[File:Blacephalon.png|25px]] and Stakataka [[File:Stakataka.png|25px]] to [[Alola#Routes|Poni Grove]]
+|-
+| Capture Pokémon || Capture 5 Blacephalon [[File:Blacephalon.png|25px]] and 5 Stakataka [[File:Stakataka.png|25px]] || N/A
+|-
+| Talk to NPC || Talk to Anabel in [[Towns &amp; Cities#Alola|Roadside Motel]] || Unlocks [[Resolution Cave]]
+|-
+| Capture Pokémon || Capture Guzzlord [[File:Guzzlord.png|25px]] || 50 [[Beastball|Beastballs]] [[File:Beastball.png|25px]]
+|}
+
+==Sword and Shield==
+'''Note:''' After fulfilling the prerequisites, this quest can be accepted in the Bulletin Board in [[Towns &amp; Cities#Galar|Postwick]].
+{| class="wikitable"
+|+ Sword and Shield
+! Type !! Requirement !! Reward
+|- 
+| Prerequisite || Defeat [[Gyms#Wyndon Stadium|Champion Leon]] || N/A
+|-
+| Talk to NPC || Talk to Hop in [[Slumbering Weald Shrine]] || N/A
+|-
+| Defeat Temporary Battle || Defeat [[Temporary Battles#Galar|Hop 8]] [[File:Hop.png|25px]] in [[Slumbering Weald Shrine]] || N/A
+|-
+| Talk to NPC || Talk to Sordward &amp; Shielbert in [[Slumbering Weald Shrine]] || N/A
+|-
+| Defeat Temporary Battles || Defeat [[Temporary Battles#Galar|Sordward 1]] [[File:Sordward.png|25px]] and [[Temporary Battles#Galar|Shielbert 1]] [[File:Shielbert.png|25px]] in [[Slumbering Weald Shrine]] || N/A
+|-
+| Defeat Temporary Battle || Defeat [[Temporary Battles#Galar|Rampaging Tsareena]] [[File:Tsareena.png|25px]] in [[Towns &amp; Cities#Galar|Turffield]] || N/A
+|-
+| Defeat Temporary Battle || Defeat [[Temporary Battles#Galar|Rampaging Gyarados]] [[File:Gyarados.png|25px]] in [[Towns &amp; Cities#Galar|Hulbury]] || N/A
+|-
+| Defeat Temporary Battle || Defeat [[Temporary Battles#Galar|Rampaging Torkoal]] [[File:Torkoal.png|25px]] in [[Towns &amp; Cities#Galar|Motostoke]] || N/A
+|-
+| Talk to NPC || Talk to Sordward &amp; Shielbert in [[Towns &amp; Cities#Galar|Wedgehurst]] || N/A
+|-
+| Defeat Temporary Battle || Defeat [[Temporary Battles#Galar|Sordward &amp; Shielbert]] [[File:Sordward &amp; Shielbert.png|25px]] in [[Towns &amp; Cities#Galar|Wedgehurst]] || N/A
+|-
+| Defeat Temporary Battles || Defeat [[Temporary Battles#Galar|Rampaging Conkeldurr]] [[File:Conkeldurr.png|25px]] and [[Temporary Battles#Galar|Rampaging Dusknoir]] [[File:Dusknoir.png|25px]] in [[Towns &amp; Cities#Galar|Stow-on-Side]] || N/A
+|-
+| Defeat Temporary Battle || Defeat [[Temporary Battles#Galar|Gym Leader Bede]] [[File:Gym Leader Bede.png|25px]] in [[Towns &amp; Cities#Galar|Ballonlea]] || N/A 
+|-
+| Defeat Temporary Battles || Defeat [[Temporary Battles#Galar|Rampaging Gigalith]] [[File:Gigalith.png|25px]] and [[Temporary Battles#Galar|Rampaging Froslass]] [[File:Froslass.png|25px]] in [[Towns &amp; Cities#Galar|Circhester]] || N/A
+|-
+| Defeat Temporary Battles || Defeat [[Temporary Battles#Galar|Gym Leader Marnie]] [[File:Gym Leader Marnie.png|25px]] in [[Towns &amp; Cities#Galar|Spikemuth]] || N/A 
+|-
+| Defeat Temporary Battles || Defeat [[Temporary Battles#Galar|Rampaging Haxorus]] [[File:Haxorus.png|25px]] in [[Towns &amp; Cities#Galar|Hammerlocke]] || N/A
+|-
+| Talk to NPC || Talk to Sordward &amp; Shielbert in [[Energy Plant]] || N/A
+|-
+| Defeat Temporary Battles || Defeat [[Temporary Battles#Galar|Sordward 2]] [[File:Sordward.png|25px]] and [[Temporary Battles#Galar|Shielbert 2]] [[File:Shielbert.png|25px]] in [[Energy Plant]] || N/A
+|-
+| Talk to NPC || Talk to Sordward &amp; Shielbert in [[Energy Plant]] || N/A
+|-
+| Defeat Temporary Battles || Defeat [[Temporary Battles#Galar|Rampaging Zacian]] [[File:Zacian (Crowned Sword).png|25px]] and [[Temporary Battles#Galar|Rampaging Zamazenta]] [[File:Zamazenta (Crowned Shield).png|25px]] in [[Energy Plant]] || N/A
+|-
+| Talk to NPC || Talk to Piers in [[Energy Plant]] || Adds Zacian (Battle Hero) [[File:Zacian (Battle Hero).png|25px]] and Zamazenta (Battle Hero) [[File:Zamazenta (Battle Hero).png|25px]] to [[Energy Plant]]
+|-
+| Catch Pokémon || Catch Zacian (Battle Hero) [[File:Zacian (Battle Hero).png|25px]] and Zamazenta (Battle Hero) [[File:Zamazenta (Battle Hero).png|25px]] || N/A
+|}
+
+==The Dojo's Armor==
+'''Note:''' After fulfilling the prerequisites, this quest can be accepted in the Bulletin Board in [[Towns &amp; Cities#Galar|Master Dojo]].
+{| class="wikitable"
+|+ The Dojo's Armor
+! Type !! Requirement !! Reward
+|- 
+| Prerequisite || Defeat [[Gyms#Wyndon Stadium|Champion Leon]] || N/A
+|-
+| Talk to NPC || Talk to Mustard in [[Towns &amp; Cities#Galar|Master Dojo]] || N/A
+|-
+| Defeat Temporary Battle || Defeat [[Temporary Battles#Galar|Dojo Master Mustard]] [[File:Dojo Master.png|25px]] in [[Towns &amp; Cities#Galar|Master Dojo]] || N/A
+|-
+| Talk to NPC || Talk to Mustard in [[Towns &amp; Cities#Galar|Master Dojo]] || N/A
+|-
+| Catch Pokémon || Catch 6 Galarian Slowpoke [[File:Galarian Slowpoke.png|25px]] || N/A
+|-
+| Talk to NPC || Talk to Mustard in [[Towns &amp; Cities#Galar|Master Dojo]] || N/A
+|-
+| Talk to NPC || Talk to Mustard in [[Towns &amp; Cities#Galar|Master Dojo]] || N/A
+|-
+| Talk to NPC || Talk to Klara and Avery in [[Warm-Up Tunnel]] || N/A
+|-
+| Defeat Temporary Battles || Defeat [[Temporary Battles#Galar|Klara 2]] [[File:Klara.png|25px]] and [[Temporary Battles#Galar|Avery 2]] [[File:Avery.png|25px]] in [[Warm-Up Tunnel]] || N/A
+|-
+| Talk to NPC || Talk to Mustard in [[Towns &amp; Cities#Galar|Master Dojo]] || N/A
+|-
+| Talk to NPC || Talk to Klara and Avery in [[Towns &amp; Cities#Galar|Master Dojo]] || N/A
+|-
+| Defeat Temporary Battles || Defeat [[Temporary Battles#Galar|Klara 3]] [[File:Klara.png|25px]] and [[Temporary Battles#Galar|Avery 3]] [[File:Avery.png|25px]] near [[Towns &amp; Cities#Galar|Master Dojo]] || N/A
+|-
+| Talk to NPC || Talk to Mustard in [[Towns &amp; Cities#Galar|Master Dojo]] || N/A
+|-
+| Catch Pokémon || Defeat [[Temporary Battles#Galar|Kubfu]] [[File:Kubfu.png|25px]] and catch it || N/A
+|-
+| Talk to NPC || Talk to Mustard in [[Towns &amp; Cities#Galar|Master Dojo]] || N/A
+|-
+| Defeat Pokémon || Defeat 500 Dark-type [[File:Dark-Type icon.png|25px]] and 500 Water-type [[File:Water-Type icon.png|25px]] Pokémon || N/A
+|-
+| Talk to NPC || Talk to Mustard in [[Towns &amp; Cities#Galar|Master Dojo]] || N/A
+|-
+| Catch Pokémon || Catch 250 Dark-type [[File:Dark-Type icon.png|25px]] and 250 Water-type [[File:Water-Type icon.png|25px]] Pokémon || N/A
+|-
+| Talk to NPC || Talk to Mustard in [[Towns &amp; Cities#Galar|Master Dojo]] || Unlocks [[Tower of Darkness]] and [[Tower of Waters]]
+|-
+| Clear Dungeons || Clear [[Tower of Darkness]] and [[Tower of Waters]] || Urshifu (Single Strike) [[File:Urshifu (Single Strike).png|25px]] after clearing [[Tower of Darkness]] &lt;br&gt; Urshifu (Rapid Strike) [[File:Urshifu (Rapid Strike).png|25px]] after clearing [[Tower of Waters]]
+|-
+| Talk to NPC || Talk to Mustard in [[Tower of Darkness]] or [[Tower of Waters]] || N/A
+|}
+
+==Secrets of the Jungle==
+'''Note:''' After fulfilling the prerequisites, this quest can be accepted in the Bulletin Board in [[Towns &amp; Cities#Galar|Master Dojo]].
+{| class="wikitable"
+|+ Secrets of the Jungle
+! Type !! Requirement !! Reward
+|- 
+| Prerequisite || Defeat [[Temporary Battles#Alola|Ash Ketchum Alola]] || N/A
+|-
+| Talk to NPC || Talk to Ash Ketchum in [[Towns &amp; Cities#Galar|Master Dojo]] || N/A
+|-
+| Talk to NPC || Talk to Koko in [[Glimwood Tangle]] || Zarude [[File:Zarude.png|25px]] starts roaming in Isle of Armor
+|-
+| Catch Pokémon || Catch Zarude [[File:Zarude.png|25px]] || N/A
+|-
+| Talk to NPC || Talk to Koko in [[Glimwood Tangle]] || N/A
+|-
+| Defeat Temporary Battle || Defeat [[Temporary Battles#Galar|Zarude Tribe 1]] [[File:Zarude Tribe.png|25px]] in [[Glimwood Tangle]] || N/A
+|-
+| Talk to NPC || Talk to Koko in [[Glimwood Tangle]] || N/A
+|-
+| Defeat Temporary Battles || Defeat [[Temporary Battles#Galar|Zarude Tribe 2]] [[File:Zarude Tribe.png|25px]] and [[Temporary Battles#Galar|Zarude Tribe 3]] [[File:Zarude Tribe.png|25px]] in [[Glimwood Tangle]] || N/A
+|-
+| Talk to NPC || Talk to Koko in [[Glimwood Tangle]] || N/A
+|-
+| Talk to NPC || Talk to Ash Ketchum in [[Towns &amp; Cities#Galar|Master Dojo]] || N/A
+|-
+| Defeat Temporary Battle || Defeat [[Temporary Battles#Galar|Ash Ketchum Galar]] [[File:Ash Ketchum.png|25px]] near [[Towns &amp; Cities#Galar|Master Dojo]] || N/A
+|-
+| Talk to NPC || Talk to Koko in [[Glimwood Tangle]] || N/A
+|-
+| Defeat Temporary Battle || Defeat [[Temporary Battles#Galar|Zarude (Dada)]] [[File:Zarude (Dada).png|25px]] in [[Glimwood Tangle]] || N/A
+|-
+| Talk to NPC || Talk to Ash Ketchum in [[Glimwood Tangle]] || N/A
+|-
+| Catch Pokémon || Defeat [[Temporary Battles#Galar|Flowering Celebi]] [[File:Flowering Celebi.png|25px]] and catch it || N/A
+|-
+| Talk to NPC || Talk to Koko in [[Glimwood Tangle]] || Unlocks Zarude Village shop
+|}
+
+==The Crown of Galar==
+'''Note:''' After fulfilling the prerequisites, this quest can be accepted in the Bulletin Board in [[Towns &amp; Cities#Galar|Freezington]].
+{| class="wikitable"
+|+ The Crown of Galar
+! Type !! Requirement !! Reward
+|- 
+| Prerequisite || Defeat [[Gyms#Wyndon Stadium|Champion Leon]] || N/A
+|-
+| Talk to NPC || Talk to Peony in [[Towns &amp; Cities#Galar|Freezington]] || N/A
+|-
+| Defeat Temporary Battle || Defeat [[Temporary Battles#Galar|Calyrex]] [[File:Calyrex.png|25px]] in [[Towns &amp; Cities#Galar|Freezington]] || N/A
+|-
+| Talk to NPC || Talk to Calyrex in [[Towns &amp; Cities#Galar|Freezington]] || N/A
+|-
+| Defeat Pokémon || Defeat 50 Pokémon in [[Galar#Routes|Old Cemetery]] and [[Galar#Routes|Snowslide Slope]] || N/A
+|-
+| Talk to NPC || Talk to Calyrex in [[Towns &amp; Cities#Galar|Freezington]] || N/A
+|-
+| Defeat Temporary Battles || Defeat [[Temporary Battles#Galar|Spectrier]] [[File:Spectrier.png|25px]] and [[Temporary Battles#Galar|Glastrier]] [[File:Glastrier.png|25px]] in [[Towns &amp; Cities#Galar|Freezington]] || N/A
+|-
+| Talk to NPC || Talk to Calyrex in [[Towns &amp; Cities#Galar|Freezington]] || Spectrier [[File:Spectrier.png|25px]] and Glastrier [[File:Glastrier.png|25px]] start roaming in Crown Tundra
+|-
+| Catch Pokémon || Catch Spectrier [[File:Spectrier.png|25px]] and Glastrier [[File:Glastrier.png|25px]] || N/A
+|-
+| Talk to NPC || Talk to Calyrex in [[Crown Shrine]] || Adds Calyrex [[File:Calyrex.png|25px]] to [[Crown Shrine]]
+|-
+| Catch Pokémon || Catch Calyrex [[File:Calyrex.png|25px]] || N/A
+|-
+| Talk to NPC || Talk to Peony in [[Towns &amp; Cities#Galar|Freezington]] || N/A
+|}
+
+==The Birds of the Dyna Tree==
+'''Note:''' After fulfilling the prerequisites, this quest can be accepted in the Bulletin Board in [[Towns &amp; Cities#Galar|Freezington]].
+{| class="wikitable"
+|+ The Birds of the Dyna Tree
+! Type !! Requirement !! Reward
+|- 
+| Prerequisite || Defeat [[Gyms#Wyndon Stadium|Champion Leon]] || N/A
+|-
+| Talk to NPC || Talk to Peony in [[Towns &amp; Cities#Galar|Freezington]] || N/A
+|-
+| Clear Dungeon || Clear [[Dyna Tree Hill]] || N/A
+|-
+| Defeat Temporary Battle || Defeat [[Temporary Battles#Galar|Dyna Tree Birds]] [[File:Dyna Tree Birds.png|25px]] || N/A
+|-
+| Talk to NPC || Talk to Peony in [[Towns &amp; Cities#Galar|Freezington]] || N/A
+|-
+| rowspan=3| Defeat Temporary Battles || Defeat [[Temporary Battles#Galar|Galarian Articuno 1]] [[File:Galarian Articuno.png|25px]] near [[Roaring-Sea Caves]], [[Temporary Battles#Galar|Galarian Articuno 2]] [[File:Galarian Articuno.png|25px]] in [[Galar#Routes|Frigid Sea]] and [[Temporary Battles#Galar|Galarian Articuno 3]] [[File:Galarian Articuno.png|25px]] near [[Crown Shrine]] || rowspan=3| N/A
+|-
+| Defeat [[Temporary Battles#Galar|Galarian Zapdos 1]] [[File:Galarian Zapdos.png|25px]] in [[Galar#Routes|East Lake Axwell]], [[Temporary Battles#Galar|Galarian Zapdos 2]] [[File:Galarian Zapdos.png|25px]] in [[Galar#Routes|Giant's Mirror]] and [[Temporary Battles#Galar|Galarian Zapdos 3]] [[File:Galarian Zapdos.png|25px]] in [[Galar#Routes|Giant's Seat]]
+|-
+| Defeat [[Temporary Battles#Galar|Galarian Moltres 1]] [[File:Galarian Moltres.png|25px]] in [[Galar#Routes|Loop Lagoon]], [[Temporary Battles#Galar|Galarian Moltres 2]] [[File:Galarian Moltres.png|25px]] in [[Galar#Routes|Workout Sea]] and [[Temporary Battles#Galar|Galarian Moltres 3]] [[File:Galarian Moltres.png|25px]] in [[Galar#Routes|Soothing Wetlands]]
+|-
+| Talk to NPC || Talk to Peony in [[Towns &amp; Cities#Galar|Freezington]] || Galarian Articuno [[File:Galarian Articuno.png|25px]], Galarian Zapdos [[File:Galarian Zapdos.png|25px]] and Galarian Moltres [[File:Galarian Moltres.png|25px]] start roaming Crown Tundra, Southern Galar and Isle of Armor respectively
+|-
+| Catch Pokémon || Catch Galarian Articuno [[File:Galarian Articuno.png|25px]], Galarian Zapdos [[File:Galarian Zapdos.png|25px]] and Galarian Moltres [[File:Galarian Moltres.png|25px]] || N/A
+|-
+| Talk to NPC || Talk to Peony in [[Towns &amp; Cities#Galar|Freezington]] || N/A
+|}
+
+==The Ancient Golems==
+'''Note:''' After fulfilling the prerequisites, this quest can be accepted in the Bulletin Board in [[Towns &amp; Cities#Galar|Freezington]].
+{| class="wikitable"
+|+ The Ancient Golems
+! Type !! Requirement !! Reward
+|- 
+| Prerequisite || Defeat [[Gyms#Wyndon Stadium|Champion Leon]] || N/A
+|-
+| Talk to NPC || Talk to Peony in [[Towns &amp; Cities#Galar|Freezington]] || N/A
+|-
+| Defeat Pokémon || Defeat 100 Pokémon in [[Galar#Routes|Three-Point Pass]] || N/A
+|-
+| Talk to NPC || Talk to Peony in [[Towns &amp; Cities#Galar|Freezington]] || N/A
+|-
+| Clear Dungeons || Clear [[Rock Peak Ruins]], [[Iceberg Ruins]] and [[Iron Ruins]] 10 times each || N/A
+|-
+| Talk to NPC || Talk to Peony in [[Towns &amp; Cities#Galar|Freezington]] || Adds Regirock [[File:Regirock.png|25px]], Regice [[File:Regice.png|25px]] and Registeel [[File:Registeel.png|25px]] to [[Rock Peak Ruins]], [[Iceberg Ruins]] and [[Iron Ruins]] respectively
+|-
+| Catch Pokémon || Regirock [[File:Regirock.png|25px]], Regice [[File:Regice.png|25px]] and Registeel [[File:Registeel.png|25px]] || N/A
+|-
+| Talk to NPC || Talk to Peony in [[Towns &amp; Cities#Galar|Freezington]] || N/A
+|-
+| Catch Pokémon || Defeat [[Temporary Battles#Galar|Regigigas]] [[File:Regigigas.png|25px]] in [[Galar#Routes|Giants Bed]] and catch it || N/A
+|-
+| Talk to NPC || Talk to Peony in [[Towns &amp; Cities#Galar|Freezington]] || Unlocks [[Split-Decision Ruins]]
+|-
+| Catch Pokémon || Catch Regieleki [[File:Regieleki.png|25px]] and Regidrago [[File:Regidrago.png|25px]] || N/A
+|-
+| Talk to NPC || Talk to Peony in [[Towns &amp; Cities#Galar|Freezington]] || N/A
+|}
+
+==A Mystery Gift==
+'''Note:''' After fulfilling the prerequisites, this quest can be accepted in the Bulletin Board in [[Towns &amp; Cities#Galar|Postwick]].
+{| class="wikitable"
+|+ A Mystery Gift
+! Type !! Requirement !! Reward
+|- 
+| Prerequisite || Complete all Regional [[Achievements#Caught Unique Shiny Pokémon by Region|Shiny Achievements]] from Kanto to Galar || N/A
+|-
+| Talk to NPC || Check Mystery Gift in [[Towns &amp; Cities#Galar|Postwick]] || Magearna (Original Color) [[File:Magearna (Original Color).png|25px]]
+|}
+
+&lt;/translate&gt;</text>
+    <contributor>
+      <username>ThePantMan</username>
+      <id>8</id>
+    </contributor>
+    <comment>Created page with "&lt;languages/&gt; &lt;translate&gt; &lt;!--T:1--&gt; Questlines are special kinds of Quests where the player follows a series of steps to unlock progress in the current [[Region]], unlock certain mechanics or receive different rewards like Items and Pokémon. Some are activated at certain points of the game while others require the player to check a [[Questlines#Bulletin Board Quests|Bulletin Board]]. For the list of randomly generated Quests, please check the corresponding [[Quests]] pa..."</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>ef61a7160adb377a1e53a7db312ec97fa8dd7f37</sha1>
+  </revision>
+</page>

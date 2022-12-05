@@ -1,0 +1,43 @@
+<page>
+  <title>Translations:Weather/4/es</title>
+  <ns>0</ns>
+  <id>5364</id>
+  <revision>
+    <id>17991</id>
+    <timestamp>2022-07-27T21:05:08Z</timestamp>
+    <text bytes="1401" space="preserve">{| class="wikitable"
+|-
+! Tiempo Atmosférico !! Descripción !! Tipos que modifica !! Peso en GNA !! Región
+|-
+| [[File:Clear.png|30px]] Despejado || El clima está despejado y agradable. || None || 30 || rowspan = 5 | All
+|-
+| [[File:Overcast.png|30px]] Nublado || Las nubes llenan los cielos || Normal x1.1 || 15
+|-
+| [[File:Rain.png|30px]] Lluvia || Llueve y hay humedad. || Agua x1.1 Bicho x1.05 || 10
+|-
+| [[File:Thunderstorm.png|30px]] Tormenta || Hay fuerte lluvia con rayos. || Agua x1.1, Electricidad x1.1 Fuego x0.9 || 5
+|-
+| [[File:Sunny.png|30px]] Sol || La luz del sol es muy fuerte. || Fuego x1.2, Hierba x1.1, Agua x0.9 || 10
+|-
+| [[File:Snow.png|30px]] Nieve || Hace frío y nieva. || Hielo x1.05 || 5 || rowspan = 3 | En adelante a Johto
+|-
+| [[File:Hail.png|30px]] Granizo || Hace frío y graniza. || Hielo x1.1 || 3
+|-
+| [[File:Blizzard.png|30px]] Ventisca || Sopla una ventisca aullante. || Hielo x1.2, Fuego x0.9, Hierba x0.9 || 2
+|-
+| [[File:Sandstorm.png|30px]] Tormenta de Arena || Una tormenta de arena golpea con fuerza. || Roca x1.1, Tierra x1.1, Acero x1.1 || 10 || En adelante a Hoenn
+|-
+| [[File:Fog.png|30px]] Niebla || La niebla es densa... || Fantasma x1.2 Siniéstro x1.1 Electricidad x0.9 || 10 || En adelante a Shinnoh
+|-
+| [[File:Windy.png|30px]] Ventoso || Un viento misterioso sopla hacia adelante. || Volador x1.2, Dragon x1.1 || 1 || En adelante a Teselia
+|}</text>
+    <contributor>
+      <username>Cthulhu Follower</username>
+      <id>51</id>
+    </contributor>
+    <comment>Created page with "{| class="wikitable" |- ! Tiempo Atmosférico !! Descripción !! Tipos que modifica !! Peso en GNA !! Región |- | [[File:Clear.png|30px]] Despejado || El clima está despejado y agradable. || None || 30 || rowspan = 5 | All |- | [[File:Overcast.png|30px]] Nublado || Las nubes llenan los cielos || Normal x1.1 || 15 |- | [[File:Rain.png|30px]] Lluvia || Llueve y hay humedad. || Agua x1.1 Bicho x1.05 || 10 |- | [[File:Thunderstorm.png|30px]] Tormenta || Hay fuerte lluvia c..."</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>84ea09d5d1207f7cf6d859db9ae215941eab5447</sha1>
+  </revision>
+</page>

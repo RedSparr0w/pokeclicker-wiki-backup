@@ -1,0 +1,55 @@
+<page>
+  <title>Mt. Pyre</title>
+  <ns>0</ns>
+  <id>397</id>
+  <revision>
+    <id>5404</id>
+    <timestamp>2021-01-31T06:51:05Z</timestamp>
+    <text bytes="1058" space="preserve">{{Infobox dungeon
+|name    = Mt. Pyre
+|image   = [[File:Mt. Pyre.png|250px]]
+|caption = A map of Mt. Pyre.
+|tokens  = 28,000
+|location = East of Route 122.
+}}
+'''Mt. Pyre''' is a [[Dungeons|dungeon]] in [[Hoenn]]. It has 49 tiles arranged in a 7x7 square, including 7 chest tiles, 17 non-boss encounter tiles, and 1 boss encounter tile.
+
+==Pokémon and Dungeon Stats==
+
+{| class="wikitable"
+|-
+! Random Encounter !! Base Health !! Boss !! Base Health
+|-
+| [[File:Shuppet.png|40px]] Shuppet || rowspan=5 | &lt;center&gt; 480,000 || [[File:Shuppet.png|40px]] Shuppet || rowspan=2| &lt;center&gt; 1,880,000
+|-
+| [[File:Vulpix.png|40px]] Vulpix || [[File:Chimecho.png|40px]] Chimecho
+|-
+| [[File:Duskull.png|40px]] Duskull || rowspan=3|[[File:Duskull.png|40px]] Duskull || rowspan=3|&lt;center&gt; 1,890,000
+|-
+| [[File:Wingull.png|40px]] Wingull
+|-
+| [[File:Meditite.png|40px]] Meditite 
+|}
+
+==Items==
+
+{| class="wikitable"
+|-
+! Chest Item !! Chance to Find
+|-
+| {{Bag3|X Attack}} [[X Attack|xAttack]] || 50%
+|-
+| {{Bag3|Lucky Egg}} [[Lucky Egg]] || 50%
+|}
+
+[[Category:Dungeons]]</text>
+    <contributor>
+      <username>Adrian.Lew</username>
+      <id>29</id>
+    </contributor>
+    <comment>/* Pokémon and Dungeon Stats */ Health values updated</comment>
+    <model>wikitext</model>
+    <parentid>5403</parentid>
+    <sha1>fce7ecb25b2b7581167e7de8ec7591effea35f9f</sha1>
+  </revision>
+</page>

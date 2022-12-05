@@ -1,0 +1,236 @@
+<page>
+  <title>Tamato</title>
+  <ns>0</ns>
+  <id>638</id>
+  <revision>
+    <id>7284</id>
+    <timestamp>2021-01-04T16:09:21Z</timestamp>
+    <text bytes="3140" space="preserve">{{Infobox Berry
+|name    = #26 Tamato
+|image   = [[File:Tamato.png]]
+|caption = This Berry is large and spicy. When eaten during the cold season, it warms the body from inside.
+|growtime  = 2h 24m 0s
+|harvest = 25 berries
+|replant = 20%
+|points = 625
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*20 spicy 
+*10 dry
+*0 sweet
+*0 bitter
+*0 sour
+}}
+== Description ==
+'''Tamato''' is a type of [[Berries|Berry]] that can be planted in [[Farm]]. It can be obtained by surrounding a [[Razz]] with at least 1 [[Pomeg]]. The [[Razz]] will then have a chance to mutate into this berry.
+
+== Growth Tables ==
+=== Growth Stages ===
+{| class="wikitable"
+!!! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 7 mins 10 secs || 23 mins 10 secs || 1 hour 6 mins 40 secs || 2 hours 24 mins - 4 hours 48 mins
+|-
+! Animation
+|  &lt;center&gt;  [[File:AllTreeSprout.png|50px]] ||  &lt;center&gt; [[File:TamatoTreeTaller.png|50px]] ||  &lt;center&gt; [[File:TamatoTreeBloom.png|50px]] ||  &lt;center&gt; [[File:TamatoTreeBerry.png|50px]]
+|}
+
+=== Ripening Time with Modifiers  ===
+{| class="wikitable collapsible" | style="text-align: center;"
+! Modifier !! Ripe-Wither Time !! Boost Mulch Needed to Ripen
+|-
+! None
+| 2 hours 24 mins -&lt;br&gt; 4 hours 48 mins || ---
+|-
+! Mulch/Sprayduck
+| 1 hour 36 mins -&lt;br&gt; 3 hours 12 mins || 20 mulch
+|-
+! Mulch*Sprayduck
+| 1 hour 4 mins -&lt;br&gt; 2 hours 8 mins || 13 mulch
+|}
+
+== Mutation Strategy ==
+=== Possible Planting Formations ===
+
+You can fill your [[farm]] in following way to obtain Tamato berry.
+
+{| class="wikitable" style="text-align: center;"
+|+ Farm
+|-
+| style="width: 60px;" | [[File:Razz.png|30px]]&lt;br&gt;[[Razz]] || style="width: 60px;" | [[File:Razz.png|30px]]&lt;br&gt;[[Razz]] || style="width: 60px;" | [[File:Razz.png|30px]]&lt;br&gt;[[Razz]] || style="width: 60px;" | [[File:Razz.png|30px]]&lt;br&gt;[[Razz]] || style="width: 60px;" | [[File:Razz.png|30px]]&lt;br&gt;[[Razz]]
+|-
+| [[File:Razz.png|30px]]&lt;br&gt;[[Razz]] || [[File:Pomeg.png|30px]]&lt;br&gt;[[Pomeg]] || [[File:Razz.png|30px]]&lt;br&gt;[[Razz]] || [[File:Razz.png|30px]]&lt;br&gt;[[Razz]] || [[File:Pomeg.png|30px]]&lt;br&gt;[[Pomeg]]
+|- style="height: 26px;"
+| [[File:Razz.png|30px]]&lt;br&gt;[[Razz]] || [[File:Razz.png|30px]]&lt;br&gt;[[Razz]] || [[File:Razz.png|30px]]&lt;br&gt;[[Razz]] || [[File:Razz.png|30px]]&lt;br&gt;[[Razz]] || [[File:Razz.png|30px]]&lt;br&gt;[[Razz]]
+|-
+| [[File:Razz.png|30px]]&lt;br&gt;[[Razz]] || [[File:Razz.png|30px]]&lt;br&gt;[[Razz]] || [[File:Razz.png|30px]]&lt;br&gt;[[Razz]] || [[File:Razz.png|30px]]&lt;br&gt;[[Razz]] || [[File:Razz.png|30px]]&lt;br&gt;[[Razz]]
+|-
+| [[File:Razz.png|30px]]&lt;br&gt;[[Razz]] || [[File:Pomeg.png|30px]]&lt;br&gt;[[Pomeg]] || [[File:Razz.png|30px]]&lt;br&gt;[[Razz]] || [[File:Razz.png|30px]]&lt;br&gt;[[Razz]] || [[File:Pomeg.png|30px]]&lt;br&gt;[[Pomeg]]
+|}
+
+=== Timing Table ===
+{| class="collapsible wikitable"| style="text-align: center;"
+|+ ''All planting times use the time-to-ripe remaining of the first planted berry for subsequent planting times''
+! Berry !! Planting Time with &lt;br&gt; No Modifier !! Planting Time with &lt;br&gt; Mulch/Sprayduck || Planting Time with &lt;br&gt;  Mulch*Sprayduck
+|-
+| [[Pomeg]] || - || - || -
+|-
+| [[Razz]] || 4 mins 10 secs until ripe || 2 mins 47 secs until ripe || Not Practical
+|}
+
+{{Berries}}</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment>Undo revision 5067 by [[Special:Contributions/Jk13|Jk13]] ([[User talk:Jk13|talk]])</comment>
+    <model>wikitext</model>
+    <parentid>7283</parentid>
+    <sha1>06f9a0d88dd6874f60402c3c2dee9fd6b5c8a452</sha1>
+  </revision>
+  <revision>
+    <id>7283</id>
+    <timestamp>2021-01-04T16:08:55Z</timestamp>
+    <text bytes="2253" space="preserve">{{Infobox Berry
+|name    = #26 Tamato
+|image   = [[File:Tamato.png]]
+|caption = This Berry is large and spicy. When eaten during the cold season, it warms the body from inside.
+|growtime  = 2h 24m 0s
+|harvest = 25 berries
+|replant = 20%
+|points = 625
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*20 spicy 
+*10 dry
+*0 sweet
+*0 bitter
+*0 sour
+}}
+'''Tamato''' is a type of [[Berries|Berry]] that can be planted in [[Farm]]. It can be obtained by surrounding a [[Razz]] with at least 1 [[Pomeg]]. The [[Razz]] will then have a chance to mutate into this berry.
+
+{| class="wikitable"
+|+ Growth Stages
+!!! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 7 mins 10 secs || 23 mins 10 secs || 1 hour 6 mins 40 secs || 2 hours 24 mins - 4 hours 48 mins
+|-
+! Animation
+|  &lt;center&gt;  [[File:AllTreeSprout.png|50px]] ||  &lt;center&gt; [[File:TamatoTreeTaller.png|50px]] ||  &lt;center&gt; [[File:TamatoTreeBloom.png|50px]] ||  &lt;center&gt; [[File:TamatoTreeBerry.png|50px]]
+|}
+
+=== Possible Planting Formations ===
+
+You can fill your [[farm]] in following way to obtain Tamato berry.
+
+{| class="wikitable" style="text-align: center;"
+|+ Farm
+|-
+| style="width: 60px;" | [[File:Razz.png|30px]]&lt;br&gt;[[Razz]] || style="width: 60px;" | [[File:Razz.png|30px]]&lt;br&gt;[[Razz]] || style="width: 60px;" | [[File:Razz.png|30px]]&lt;br&gt;[[Razz]] || style="width: 60px;" | [[File:Razz.png|30px]]&lt;br&gt;[[Razz]] || style="width: 60px;" | [[File:Razz.png|30px]]&lt;br&gt;[[Razz]]
+|-
+| [[File:Razz.png|30px]]&lt;br&gt;[[Razz]] || [[File:Pomeg.png|30px]]&lt;br&gt;[[Pomeg]] || [[File:Razz.png|30px]]&lt;br&gt;[[Razz]] || [[File:Razz.png|30px]]&lt;br&gt;[[Razz]] || [[File:Pomeg.png|30px]]&lt;br&gt;[[Pomeg]]
+|- style="height: 26px;"
+| [[File:Razz.png|30px]]&lt;br&gt;[[Razz]] || [[File:Razz.png|30px]]&lt;br&gt;[[Razz]] || [[File:Razz.png|30px]]&lt;br&gt;[[Razz]] || [[File:Razz.png|30px]]&lt;br&gt;[[Razz]] || [[File:Razz.png|30px]]&lt;br&gt;[[Razz]]
+|-
+| [[File:Razz.png|30px]]&lt;br&gt;[[Razz]] || [[File:Razz.png|30px]]&lt;br&gt;[[Razz]] || [[File:Razz.png|30px]]&lt;br&gt;[[Razz]] || [[File:Razz.png|30px]]&lt;br&gt;[[Razz]] || [[File:Razz.png|30px]]&lt;br&gt;[[Razz]]
+|-
+| [[File:Razz.png|30px]]&lt;br&gt;[[Razz]] || [[File:Pomeg.png|30px]]&lt;br&gt;[[Pomeg]] || [[File:Razz.png|30px]]&lt;br&gt;[[Razz]] || [[File:Razz.png|30px]]&lt;br&gt;[[Razz]] || [[File:Pomeg.png|30px]]&lt;br&gt;[[Pomeg]]
+|}
+
+{{Berries}}</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment>Growth + Timing Table</comment>
+    <model>wikitext</model>
+    <parentid>7282</parentid>
+    <sha1>fca6671e1965fd6416007f02d6593b4b43586247</sha1>
+  </revision>
+  <revision>
+    <id>7282</id>
+    <timestamp>2021-01-04T16:08:13Z</timestamp>
+    <text bytes="3140" space="preserve">{{Infobox Berry
+|name    = #26 Tamato
+|image   = [[File:Tamato.png]]
+|caption = This Berry is large and spicy. When eaten during the cold season, it warms the body from inside.
+|growtime  = 2h 24m 0s
+|harvest = 25 berries
+|replant = 20%
+|points = 625
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*20 spicy 
+*10 dry
+*0 sweet
+*0 bitter
+*0 sour
+}}
+== Description ==
+'''Tamato''' is a type of [[Berries|Berry]] that can be planted in [[Farm]]. It can be obtained by surrounding a [[Razz]] with at least 1 [[Pomeg]]. The [[Razz]] will then have a chance to mutate into this berry.
+
+== Growth Tables ==
+=== Growth Stages ===
+{| class="wikitable"
+!!! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 7 mins 10 secs || 23 mins 10 secs || 1 hour 6 mins 40 secs || 2 hours 24 mins - 4 hours 48 mins
+|-
+! Animation
+|  &lt;center&gt;  [[File:AllTreeSprout.png|50px]] ||  &lt;center&gt; [[File:TamatoTreeTaller.png|50px]] ||  &lt;center&gt; [[File:TamatoTreeBloom.png|50px]] ||  &lt;center&gt; [[File:TamatoTreeBerry.png|50px]]
+|}
+
+=== Ripening Time with Modifiers  ===
+{| class="wikitable collapsible" | style="text-align: center;"
+! Modifier !! Ripe-Wither Time !! Boost Mulch Needed to Ripen
+|-
+! None
+| 2 hours 24 mins -&lt;br&gt; 4 hours 48 mins || ---
+|-
+! Mulch/Sprayduck
+| 1 hour 36 mins -&lt;br&gt; 3 hours 12 mins || 20 mulch
+|-
+! Mulch*Sprayduck
+| 1 hour 4 mins -&lt;br&gt; 2 hours 8 mins || 13 mulch
+|}
+
+== Mutation Strategy ==
+=== Possible Planting Formations ===
+
+You can fill your [[farm]] in following way to obtain Tamato berry.
+
+{| class="wikitable" style="text-align: center;"
+|+ Farm
+|-
+| style="width: 60px;" | [[File:Razz.png|30px]]&lt;br&gt;[[Razz]] || style="width: 60px;" | [[File:Razz.png|30px]]&lt;br&gt;[[Razz]] || style="width: 60px;" | [[File:Razz.png|30px]]&lt;br&gt;[[Razz]] || style="width: 60px;" | [[File:Razz.png|30px]]&lt;br&gt;[[Razz]] || style="width: 60px;" | [[File:Razz.png|30px]]&lt;br&gt;[[Razz]]
+|-
+| [[File:Razz.png|30px]]&lt;br&gt;[[Razz]] || [[File:Pomeg.png|30px]]&lt;br&gt;[[Pomeg]] || [[File:Razz.png|30px]]&lt;br&gt;[[Razz]] || [[File:Razz.png|30px]]&lt;br&gt;[[Razz]] || [[File:Pomeg.png|30px]]&lt;br&gt;[[Pomeg]]
+|- style="height: 26px;"
+| [[File:Razz.png|30px]]&lt;br&gt;[[Razz]] || [[File:Razz.png|30px]]&lt;br&gt;[[Razz]] || [[File:Razz.png|30px]]&lt;br&gt;[[Razz]] || [[File:Razz.png|30px]]&lt;br&gt;[[Razz]] || [[File:Razz.png|30px]]&lt;br&gt;[[Razz]]
+|-
+| [[File:Razz.png|30px]]&lt;br&gt;[[Razz]] || [[File:Razz.png|30px]]&lt;br&gt;[[Razz]] || [[File:Razz.png|30px]]&lt;br&gt;[[Razz]] || [[File:Razz.png|30px]]&lt;br&gt;[[Razz]] || [[File:Razz.png|30px]]&lt;br&gt;[[Razz]]
+|-
+| [[File:Razz.png|30px]]&lt;br&gt;[[Razz]] || [[File:Pomeg.png|30px]]&lt;br&gt;[[Pomeg]] || [[File:Razz.png|30px]]&lt;br&gt;[[Razz]] || [[File:Razz.png|30px]]&lt;br&gt;[[Razz]] || [[File:Pomeg.png|30px]]&lt;br&gt;[[Pomeg]]
+|}
+
+=== Timing Table ===
+{| class="collapsible wikitable"| style="text-align: center;"
+|+ ''All planting times use the time-to-ripe remaining of the first planted berry for subsequent planting times''
+! Berry !! Planting Time with &lt;br&gt; No Modifier !! Planting Time with &lt;br&gt; Mulch/Sprayduck || Planting Time with &lt;br&gt;  Mulch*Sprayduck
+|-
+| [[Pomeg]] || - || - || -
+|-
+| [[Razz]] || 4 mins 10 secs until ripe || 2 mins 47 secs until ripe || Not Practical
+|}
+
+{{Berries}}</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>7281</parentid>
+    <sha1>06f9a0d88dd6874f60402c3c2dee9fd6b5c8a452</sha1>
+  </revision>
+</page>

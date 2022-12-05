@@ -1,0 +1,45 @@
+<page>
+  <title>Template:Infobox Oak Item/fr</title>
+  <ns>10</ns>
+  <id>4328</id>
+  <revision>
+    <id>15416</id>
+    <timestamp>2022-07-22T12:37:22Z</timestamp>
+    <text bytes="907" space="preserve">{|class="infobox bordered" style="float:right; width:264px; font-size:90%; text-align:left; border:2px solid #000; padding:3px;" cellpadding="3"
+|- 
+!colspan="2" style="font-size:110%; text-align:center; background-color:#3f9ad8; color:#000;" | {{{name}}}
+|-
+{{#if:{{{image&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} colspan="2" style="text-align:center;" {{!}}{{{image}}}{{#if:{{{symbol|}}}|&lt;br /&gt;{{{symbol}}}}}{{#if:{{{caption|}}}|&lt;br /&gt;{{{caption}}}}}
+{{!}}-
+}}
+{{#if:{{{effect&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#3f9ad8; color:#000;" {{!}}'''Effet'''
+{{!}}{{{effect}}}
+{{!}}-
+}}
+{{#if:{{{dex&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#3f9ad8; color:#000;" {{!}}'''Pokémons Uniques Requis'''
+{{!}}{{{dex}}}
+{{!}}-
+}}
+|}&lt;noinclude&gt;
+
+== Code ==
+&lt;pre&gt;{{Infobox character general
+|nom       = 
+|image      = 
+|légende    = 
+|dex        = 
+|effet     = 
+}}&lt;/pre&gt;</text>
+    <contributor>
+      <username>LuK</username>
+      <id>96</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>15415</parentid>
+    <sha1>591636e887951c2a658d54137373e8ad451dd9e3</sha1>
+  </revision>
+</page>

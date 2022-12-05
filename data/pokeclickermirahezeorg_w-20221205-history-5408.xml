@@ -1,0 +1,2048 @@
+<page>
+  <title>Pokérus/es</title>
+  <ns>0</ns>
+  <id>4714</id>
+  <revision>
+    <id>16404</id>
+    <timestamp>2022-07-27T19:17:29Z</timestamp>
+    <text bytes="6754" space="preserve">&lt;languages/&gt;
+[[File:Charmander_infected.png|thumb|200px|Un Charmander Variocolor en la Guardería, infectado por el Pokérus [[File:Pokerus.png|20px]]]]
+
+==Descripción==
+El '''Pokérus''' es una forma de vida microscópica que puede unirse a los Pokémon. El Pokémon inicial de Kanto de cada jugador será automáticamente infectado con el Pokérus una vez completada la [[Dungeons|Mazmorra]] [[Distortion World|Mundo Distorsión]] en [[Sinnoh]] por primera vez. El Pokérus es un virus beneficioso para cualquier Pokémon que se infecte con él. Una vez que un Pokémon se infecta con el Pokérus puede ganar Puntos de Esfuerzo (PE), los cuales multiplican el ataque de ese Pokémon en base a la [[Pokérus#EV Damage Multiplier|cantidad de PE que haya ganado]].
+
+==Contagiando el Pokérus==
+Sólo se puede contagiar el Pokérus a través de la [[Pokémon Day Care|Guardería Pokémon]]. Únicamente un pokémon que cumpla con todas las condiciones enumeradas a continuación puede contagiar el virus:&lt;br&gt;
+&lt;u&gt;'''''Requisitos para Contagiar el virus'''''&lt;/u&gt;
+#Infectado con Pokérus
+#''Contagioso'' (Comprueba los [[Pokérus#Pokérus States|Estados del Pokérus]])
+#Que el huevo no esté listo para eclosionar
+#Que se esté incubando manualmente (Es decir, no se use un Cuidador Pokémon)
+
+Sólo los Pokémon que cumplen con las siguientes condiciones pueden contraer el virus: &lt;br&gt;
+&lt;u&gt;'''''Requisitos para Contraer el Virus'''''&lt;/u&gt;
+#Que el huevo no esté listo para Eclosionar
+#Que comparta tipo Pokémon con un Pokémon que cumpla con los "Requisitos para Contagiar el Virus"
+
+Si todas estas condiciones se dan a la vez, un Pokémon sano se infectará automáticamente con el Pokérus después de ganar un determinado número de Pasos. Los Pokémon en la Lista de Espera de la Guardería no pueden contraer el Pokérus.
+
+==Estados Pokérus==
+El Pokérus pasa por 4 fases tal y como se describe a continuación.
+
+{| class="wikitable"
+! Estado || Descripción
+|-
+| Ninguno || Estado base. El pokémon puede contraer Pokérus. No puede ganar PE.
+|-
+| [[File:Pokérus (infected).png|20px]] Infectado|| El Pokémon ha contraído Pokérus pero necesita ser incubado una vez más después de haber contraído el virus. No puede ganar PE.
+|-
+| [[File:Pokérus (contagious).png|20px]] Contagioso || El Pokémon ha contraído el Pokérus y puede contagiar el virus. Puede ganar PE.
+|-
+| [[File:Pokérus (cured).png|20px]] Curado || El Pokémon ha contraído el Pokérus y puede contagiarlo. Puede ganar PE, y además, ha acumulado 50 PE o más.
+|-
+|}
+
+==Puntos de Esfuerzo (PE)==
+Los PE son un atributo que multiplica el daño de cada Pokémon y que normalmente sólo se puede ver en la página de la Pokédex de cada Pokémon y usando la configuración ''Mostrar Valor'' en la Guardaría. Los PE de un Pokémon sólo pueden ser aumentados atrapando de nuevo ese Pokémon una vez que ha sido infectado con el Pokérus. Se pueden obtener PE capturando Pokémon en [[Route Statistics|Rutas]], en [[Dungeon|Mazmorras]], capturarlo como [[Wandering Pokemon|Pokémon Itinerante]] o a través de los [[Evolution Items|Objetos de Evolución]]. [[Breeding|Incubar]] Pokémon no otorga PE. Además, la obtención de PE se ve afectada por la [[Rowap|Baya Magua (Rowap)]]. Se pueden visitar [[Farming Setups#Maximizing EV Gain|Formaciones de Granja]] para conocer las configuraciones más óptimas de cara la obtención de PE.
+
+====Obtención de PE====
+Hay diferentes métodos para atrapar Pokémon que te otorgarán distintas cantidades de PE. Si el [[Challenge Mode|Reto de Crecimiento Lento de PE]] está activo, se ganará 10 veces menos PE (Se obtiene la misma cantidad de PE, pero se requiere obtener 10 veces más PE para ganar los mismos bonus. En algunos casos, la obtención de PE se modifica por un factor externo tal y como se indica en las tablas expresadas a continuación).
+
+====Obtención de PE====
+{| class="wikitable"
+|+ Obtención de PE
+! PE Ganados || Reto Crecimiento lento PE || Método de Captura
+|-
+| 0.1 || 0.01 || Pokémon en Ruta
+|-
+| 1 || 0.1 || [[Evolution Items|Objeto de Evolución]]
+|-
+| 1 || 0.1 || [[Shops|Pokémon comprado en Tienda]]
+|-
+| 1 || 0.1 || [[Safari Zone|Pokémon de Zona Safari]]
+|-
+| 0.5 || 0.05 || [[Wandering Pokemon|Pokémon Itinerante]]
+|}
+
+====Modificadores de PE====
+{| class="wikitable"
+|+ Modificadores a la obtención de PE
+! Modificador de PE || Método
+|-
+| 3x || Los Pokémon atrapados en [[Dungeons|Mazmorras]]
+|-
+| 10x || Los Pokémon atrapados como jefe de [[Dungeons|Mazmorras]]
+|-
+| 5x || Los Pokémon capturados [[Shiny Chance|Variocolor]]. 
+|-
+| 5x || Los Pokémon atrapados con una [[Repeatball|Acopioball]]
+|-
+| 50x || Los Pokémon encontrados como [[Roaming Pokemon|Errantes]] y capturados
+|-
+| Variable || [[Rowap|El Aura de Baya Magua (Rowap)]] 
+|}
+
+====Ejemplos====
+Ejemplo 1: Atrapar a un '''Pkémon variocolor en una Mazmorra''' con una [[Repeatball|Acopioball]] otorga: &lt;math&gt;3 * 5 = 15 PEs&lt;/math&gt;&lt;br&gt;&lt;br&gt;
+Ejemplo 2: Atrapar a un '''Pokémon variocolor Errante''' otorga: &lt;math&gt;5 * 50 = 250 PEs&lt;/math&gt;&lt;br&gt;&lt;br&gt;
+Ejemplo 3: Atrapar a un'''Pokémon variocolor Errante''' con una [[Repeatball|Acopioball]] otorga: &lt;math&gt;5 * 5 * 50 = 1250 PEs&lt;/math&gt;
+
+===Multiplicador de Daño por PE===
+Los PE aumentan la cantidad de daño que hace un Pokémon. Los PE pueden multiplicar el daño que hace un Pokémon hasta x2. Si un Pokémon tiene menos de 50 PE, el múltiplo de daño será 0.01 por cada EV que tenga. Es decir, hasta los 50 PE, el ataque de un Pokémon aumenta en un 1% por cada PE que tenga.
+&lt;br&gt;&lt;br&gt;
+Los Pokémon que han contraído el Pokérus y han sido incubados pasan a ser contagiosos mientras que sus PE sean inferiores a 50. Una vez que contraen 50 puntos o más pasan a estar curados. Para más información se puede visitar los [[Pokérus#Pokérus States|Estados Pokérus]].
+&lt;br&gt;&lt;br&gt;
+A partir de los 50 PE, los Pokémon seguirán ganando PE del mismo modo, pero el incremento de ataque será menor con cada PE ganado. Una vez que un Pokémon ha alcanzado un aumento de daño x2 en base a sus PE, puede seguir ganando PE pero no seguirá aumentando su ataque por este método. 
+
+{| class="wikitable"
+|+Bonus de Ataque por PS en determinados puntos
+! Puntos de Esfuerzo || Multiplicador de daño del Pokémon
+|-
+| 50 || x1.5
+|-
+| 85 || x1.6x
+|-
+| 172 || x1.7
+|-
+| 375 || x1.8
+|-
+| 824 || x1.9
+|-
+| 1770 || x2
+|}
+
+====Fórmulas de PE====
+'''Cuando los Puntos de Esfuerzo están por debajo de 50:''' &lt;br&gt;
+&lt;math&gt;\colorbox{White}{$ \text{Multiplicador de daño por PE} = 1 + (\text{PE} / 100)$}&lt;/math&gt; &lt;br&gt;&lt;br&gt;
+'''Cuando los Puntos de Esfuerzo son 50 o más:''' &lt;br&gt;
+&lt;math&gt;\colorbox{White}{$ \text{Multiplicador de daño por PE} = 1 + \text{Min}(1, ((\text{PE} - 30)^{0.075} - 0.75 ))$}&lt;/math&gt;</text>
+    <contributor>
+      <username>Cthulhu Follower</username>
+      <id>51</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>16403</parentid>
+    <sha1>1458b14dbfe6d27b343094d855b7bc1aff2494ae</sha1>
+  </revision>
+  <revision>
+    <id>16403</id>
+    <timestamp>2022-07-27T19:12:18Z</timestamp>
+    <text bytes="6747" space="preserve">&lt;languages/&gt;
+[[File:Charmander_infected.png|thumb|200px|Un Charmander Variocolor en la Guardería, infectado por el Pokérus [[File:Pokerus.png|20px]]]]
+
+==Descripción==
+El '''Pokérus''' es una forma de vida microscópica que puede unirse a los Pokémon. El Pokémon inicial de Kanto de cada jugador será automáticamente infectado con el Pokérus una vez completada la [[Dungeons|Mazmorra]] [[Distortion World|Mundo Distorsión]] en [[Sinnoh]] por primera vez. El Pokérus es un virus beneficioso para cualquier Pokémon que se infecte con él. Una vez que un Pokémon se infecta con el Pokérus puede ganar Puntos de Esfuerzo (PE), los cuales multiplican el ataque de ese Pokémon en base a la [[Pokérus#EV Damage Multiplier|cantidad de PE que haya ganado]].
+
+==Contagiando el Pokérus==
+Sólo se puede contagiar el Pokérus a través de la [[Pokémon Day Care|Guardería Pokémon]]. Únicamente un pokémon que cumpla con todas las condiciones enumeradas a continuación puede contagiar el virus:&lt;br&gt;
+&lt;u&gt;'''''Requisitos para Contagiar el virus'''''&lt;/u&gt;
+#Infectado con Pokérus
+#''Contagioso'' (Comprueba los [[Pokérus#Pokérus States|Estados del Pokérus]])
+#Que el huevo no esté listo para eclosionar
+#Que se esté incubando manualmente (Es decir, no se use un Cuidador Pokémon)
+
+Sólo los Pokémon que cumplen con las siguientes condiciones pueden contraer el virus: &lt;br&gt;
+&lt;u&gt;'''''Requisitos para Contraer el Virus'''''&lt;/u&gt;
+#Que el huevo no esté listo para Eclosionar
+#Que comparta tipo Pokémon con un Pokémon que cumpla con los "Requisitos para Contagiar el Virus"
+
+Si todas estas condiciones se dan a la vez, un Pokémon sano se infectará automáticamente con el Pokérus después de ganar un determinado número de Pasos. Los Pokémon en la Lista de Espera de la Guardería no pueden contraer el Pokérus.
+
+==Estados Pokérus==
+El Pokérus pasa por 4 fases tal y como se describe a continuación.
+
+{| class="wikitable"
+! Estado || Descripción
+|-
+| Ninguno || Estado base. El pokémon puede contraer Pokérus. No puede ganar PE.
+|-
+| [[File:Pokérus (infected).png|20px]] Infectado|| El Pokémon ha contraído Pokérus pero necesita ser incubado una vez más después de haber contraído el virus. No puede ganar PE.
+|-
+| [[File:Pokérus (contagious).png|20px]] Contagioso || El Pokémon ha contraído el Pokérus y puede contagiar el virus. Puede ganar PE.
+|-
+| [[File:Pokérus (cured).png|20px]] Curado || El Pokémon ha contraído el Pokérus y puede contagiarlo. Puede ganar PE, y además, ha acumulado 50 PE o más.
+|-
+|}
+
+==Puntos de Esfuerzo (PE)==
+Los PE son un atributo que multiplica el daño de cada Pokémon y que normalmente sólo se puede ver en la página de la Pokédex de cada Pokémon y usando la configuración ''Mostrar Valor'' en la Guardaría. Los PE de un Pokémon sólo pueden ser aumentados atrapando de nuevo ese Pokémon una vez que ha sido infectado con el Pokérus. Se pueden obtener PE capturando Pokémon en [[Route Statistics|Rutas]], en [[Dungeon|Mazmorras]], capturarlo como [[Wandering Pokemon|Pokémon Itinerante]] o a través de los [[Evolution Items|Objetos de Evolución]]. [[Breeding|Incubar]] Pokémon no otorga PE. Además, la obtención de PE se ve afectada por la [[Rowap|Baya Magua (Rowap)]]. Se pueden visitar [[Farming Setups#Maximizing EV Gain|Formaciones de Granja]] para conocer las configuraciones más óptimas de cara la obtención de PE.
+
+====Obtención de PE====
+Hay diferentes métodos para atrapar Pokémon que te otorgarán distintas cantidades de PE. Si el [[Challenge Mode|Reto de Crecimiento Lento de PE]] está activo, se ganará 10 veces menos PE (Se obtiene la misma cantidad de PE, pero se requiere obtener 10 veces más PE para ganar los mismos bonus. En algunos casos, la obtención de PE se modifica por un factor externo tal y como se indica en las tablas expresadas a continuación).
+
+====Obtención de PE====
+{| class="wikitable"
+|+ EV Yields
+! PE Ganados || Reto Crecimiento lento PE || Método de Captura
+|-
+| 0.1 || 0.01 || Pokémon en Ruta
+|-
+| 1 || 0.1 || [[Evolution Items|Objeto de Evolución]]
+|-
+| 1 || 0.1 || [[Shops|Pokémon comprado en Tienda]]
+|-
+| 1 || 0.1 || [[Safari Zone|Pokémon de Zona Safari]]
+|-
+| 0.5 || 0.05 || [[Wandering Pokemon|Pokémon Itinerante]]
+|}
+
+====Modificadores de PE====
+{| class="wikitable"
+|+ Modificadores a la obtención de PE
+! Modificador de PE || Método
+|-
+| 3x || Los Pokémon atrapados en [[Dungeons|Mazmorras]]
+|-
+| 10x || Los Pokémon atrapados como jefe de [[Dungeons|Mazmorras]]
+|-
+| 5x || Los Pokémon capturados [[Shiny Chance|Variocolor]]. 
+|-
+| 5x || Los Pokémon atrapados con una [[Repeatball|Acopioball]]
+|-
+| 50x || Los Pokémon encontrados como [[Roaming Pokemon|Errantes]] y capturados
+|-
+| Variable || [[Rowap|El Aura de Baya Magua (Rowap)]] 
+|}
+
+====Ejemplos====
+Ejemplo 1: Atrapar a un '''Pkémon variocolor en una Mazmorra''' con una [[Repeatball|Acopioball]] otorga: &lt;math&gt;3 * 5 = 15 PEs&lt;/math&gt;&lt;br&gt;&lt;br&gt;
+Ejemplo 2: Atrapar a un '''Pokémon variocolor Errante''' otorga: &lt;math&gt;5 * 50 = 250 PEs&lt;/math&gt;&lt;br&gt;&lt;br&gt;
+Ejemplo 3: Atrapar a un'''Pokémon variocolor Errante''' con una [[Repeatball|Acopioball]] otorga: &lt;math&gt;5 * 5 * 50 = 1250 PEs&lt;/math&gt;
+
+===Multiplicador de Daño por PE===
+Los PE aumentan la cantidad de daño que hace un Pokémon. Los PE pueden multiplicar el daño que hace un Pokémon hasta x2. Si un Pokémon tiene menos de 50 PE, el múltiplo de daño será 0.01 por cada EV que tenga. Es decir, hasta los 50 PE, el ataque de un Pokémon aumenta en un 1% por cada PE que tenga.
+&lt;br&gt;&lt;br&gt;
+Los Pokémon que han contraído el Pokérus y han sido incubados pasan a ser contagiosos mientras que sus PE sean inferiores a 50. Una vez que contraen 50 puntos o más pasan a estar curados. Para más información se puede visitar los [[Pokérus#Pokérus States|Estados Pokérus]].
+&lt;br&gt;&lt;br&gt;
+A partir de los 50 PE, los Pokémon seguirán ganando PE del mismo modo, pero el incremento de ataque será menor con cada PE ganado. Una vez que un Pokémon ha alcanzado un aumento de daño x2 en base a sus PE, puede seguir ganando PE pero no seguirá aumentando su ataque por este método. 
+
+{| class="wikitable"
+|+Bonus de Ataque por PS en determinados puntos
+! Puntos de Esfuerzo || Multiplicador de daño del Pokémon
+|-
+| 50 || x1.5
+|-
+| 85 || x1.6x
+|-
+| 172 || x1.7
+|-
+| 375 || x1.8
+|-
+| 824 || x1.9
+|-
+| 1770 || x2
+|}
+
+====Fórmulas de PE====
+'''Cuando los Puntos de Esfuerzo están por debajo de 50:''' &lt;br&gt;
+&lt;math&gt;\colorbox{White}{$ \text{Multiplicador de daño por PE} = 1 + (\text{PE} / 100)$}&lt;/math&gt; &lt;br&gt;&lt;br&gt;
+'''Cuando los Puntos de Esfuerzo son 50 o más:''' &lt;br&gt;
+&lt;math&gt;\colorbox{White}{$ \text{Multiplicador de daño por PE} = 1 + \text{Min}(1, ((\text{PE} - 30)^{0.075} - 0.75 ))$}&lt;/math&gt;</text>
+    <contributor>
+      <username>Cthulhu Follower</username>
+      <id>51</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>16402</parentid>
+    <sha1>d5b87e87ead200961236c62c26245412df764766</sha1>
+  </revision>
+  <revision>
+    <id>16402</id>
+    <timestamp>2022-07-27T19:09:24Z</timestamp>
+    <text bytes="6686" space="preserve">&lt;languages/&gt;
+[[File:Charmander_infected.png|thumb|200px|Un Charmander Variocolor en la Guardería, infectado por el Pokérus [[File:Pokerus.png|20px]]]]
+
+&lt;div class="mw-translate-fuzzy"&gt;
+==Descripción==
+El Pokérus es una forma de vida microscópica que puede infectar los Pokémon y que afectará a tu Pokémon inicial de Kanto durante la región de Sinnoh. Este virus consiste en una mecánica beneficiosa que pueden obtener los Pokémon. Tu Pokémon inicial de Kanto se infectará con el Pokérus después de completar el Mundo Distorsión por primera vez. Una vez que un Pokémon se infecta con el Pokérus, puede ganar Puntos de Esfuerzo (PE), los cuales aumentan el ataque de ese Pokémon.
+&lt;/div&gt;
+
+==Contagiando el Pokérus==
+Sólo se puede contagiar el Pokérus a través de la [[Pokémon Day Care|Guardería Pokémon]]. Únicamente un pokémon que cumpla con todas las condiciones enumeradas a continuación puede contagiar el virus:&lt;br&gt;
+&lt;u&gt;'''''Requisitos para Contagiar el virus'''''&lt;/u&gt;
+#Infectado con Pokérus
+#''Contagioso'' (Comprueba los [[Pokérus#Pokérus States|Estados del Pokérus]])
+#Que el huevo no esté listo para eclosionar
+#Que se esté incubando manualmente (Es decir, no se use un Cuidador Pokémon)
+
+Sólo los Pokémon que cumplen con las siguientes condiciones pueden contraer el virus: &lt;br&gt;
+&lt;u&gt;'''''Requisitos para Contraer el Virus'''''&lt;/u&gt;
+#Que el huevo no esté listo para Eclosionar
+#Que comparta tipo Pokémon con un Pokémon que cumpla con los "Requisitos para Contagiar el Virus"
+
+Si todas estas condiciones se dan a la vez, un Pokémon sano se infectará automáticamente con el Pokérus después de ganar un determinado número de Pasos. Los Pokémon en la Lista de Espera de la Guardería no pueden contraer el Pokérus.
+
+==Estados Pokérus==
+El Pokérus pasa por 4 fases tal y como se describe a continuación.
+
+{| class="wikitable"
+! Estado || Descripción
+|-
+| Ninguno || Estado base. El pokémon puede contraer Pokérus. No puede ganar PE.
+|-
+| [[File:Pokérus (infected).png|20px]] Infectado|| El Pokémon ha contraído Pokérus pero necesita ser incubado una vez más después de haber contraído el virus. No puede ganar PE.
+|-
+| [[File:Pokérus (contagious).png|20px]] Contagioso || El Pokémon ha contraído el Pokérus y puede contagiar el virus. Puede ganar PE.
+|-
+| [[File:Pokérus (cured).png|20px]] Curado || El Pokémon ha contraído el Pokérus y puede contagiarlo. Puede ganar PE, y además, ha acumulado 50 PE o más.
+|-
+|}
+
+==Puntos de Esfuerzo (PE)==
+Los PE son un atributo que multiplica el daño de cada Pokémon y que normalmente sólo se puede ver en la página de la Pokédex de cada Pokémon y usando la configuración ''Mostrar Valor'' en la Guardaría. Los PE de un Pokémon sólo pueden ser aumentados atrapando de nuevo ese Pokémon una vez que ha sido infectado con el Pokérus. Se pueden obtener PE capturando Pokémon en [[Route Statistics|Rutas]], en [[Dungeon|Mazmorras]], capturarlo como [[Wandering Pokemon|Pokémon Itinerante]] o a través de los [[Evolution Items|Objetos de Evolución]]. [[Breeding|Incubar]] Pokémon no otorga PE. Además, la obtención de PE se ve afectada por la [[Rowap|Baya Magua (Rowap)]]. Se pueden visitar [[Farming Setups#Maximizing EV Gain|Formaciones de Granja]] para conocer las configuraciones más óptimas de cara la obtención de PE.
+
+====Obtención de PE====
+Hay diferentes métodos para atrapar Pokémon que te otorgarán distintas cantidades de PE. Si el [[Challenge Mode|Reto de Crecimiento Lento de PE]] está activo, se ganará 10 veces menos PE (Se obtiene la misma cantidad de PE, pero se requiere obtener 10 veces más PE para ganar los mismos bonus. En algunos casos, la obtención de PE se modifica por un factor externo tal y como se indica en las tablas expresadas a continuación).
+
+====Obtención de PE====
+{| class="wikitable"
+|+ EV Yields
+! PE Ganados || Reto Crecimiento lento PE || Método de Captura
+|-
+| 0.1 || 0.01 || Pokémon en Ruta
+|-
+| 1 || 0.1 || [[Evolution Items|Objeto de Evolución]]
+|-
+| 1 || 0.1 || [[Shops|Pokémon comprado en Tienda]]
+|-
+| 1 || 0.1 || [[Safari Zone|Pokémon de Zona Safari]]
+|-
+| 0.5 || 0.05 || [[Wandering Pokemon|Pokémon Itinerante]]
+|}
+
+====Modificadores de PE====
+{| class="wikitable"
+|+ Modificadores a la obtención de PE
+! Modificador de PE || Método
+|-
+| 3x || Los Pokémon atrapados en [[Dungeons|Mazmorras]]
+|-
+| 10x || Los Pokémon atrapados como jefe de [[Dungeons|Mazmorras]]
+|-
+| 5x || Los Pokémon capturados [[Shiny Chance|Variocolor]]. 
+|-
+| 5x || Los Pokémon atrapados con una [[Repeatball|Acopioball]]
+|-
+| 50x || Los Pokémon encontrados como [[Roaming Pokemon|Errantes]] y capturados
+|-
+| Variable || [[Rowap|El Aura de Baya Magua (Rowap)]] 
+|}
+
+====Ejemplos====
+Ejemplo 1: Atrapar a un '''Pkémon variocolor en una Mazmorra''' con una [[Repeatball|Acopioball]] otorga: &lt;math&gt;3 * 5 = 15 PEs&lt;/math&gt;&lt;br&gt;&lt;br&gt;
+Ejemplo 2: Atrapar a un '''Pokémon variocolor Errante''' otorga: &lt;math&gt;5 * 50 = 250 PEs&lt;/math&gt;&lt;br&gt;&lt;br&gt;
+Ejemplo 3: Atrapar a un'''Pokémon variocolor Errante''' con una [[Repeatball|Acopioball]] otorga: &lt;math&gt;5 * 5 * 50 = 1250 PEs&lt;/math&gt;
+
+===Multiplicador de Daño por PE===
+Los PE aumentan la cantidad de daño que hace un Pokémon. Los PE pueden multiplicar el daño que hace un Pokémon hasta x2. Si un Pokémon tiene menos de 50 PE, el múltiplo de daño será 0.01 por cada EV que tenga. Es decir, hasta los 50 PE, el ataque de un Pokémon aumenta en un 1% por cada PE que tenga.
+&lt;br&gt;&lt;br&gt;
+Los Pokémon que han contraído el Pokérus y han sido incubados pasan a ser contagiosos mientras que sus PE sean inferiores a 50. Una vez que contraen 50 puntos o más pasan a estar curados. Para más información se puede visitar los [[Pokérus#Pokérus States|Estados Pokérus]].
+&lt;br&gt;&lt;br&gt;
+A partir de los 50 PE, los Pokémon seguirán ganando PE del mismo modo, pero el incremento de ataque será menor con cada PE ganado. Una vez que un Pokémon ha alcanzado un aumento de daño x2 en base a sus PE, puede seguir ganando PE pero no seguirá aumentando su ataque por este método. 
+
+{| class="wikitable"
+|+Bonus de Ataque por PS en determinados puntos
+! Puntos de Esfuerzo || Multiplicador de daño del Pokémon
+|-
+| 50 || x1.5
+|-
+| 85 || x1.6x
+|-
+| 172 || x1.7
+|-
+| 375 || x1.8
+|-
+| 824 || x1.9
+|-
+| 1770 || x2
+|}
+
+====Fórmulas de PE====
+'''Cuando los Puntos de Esfuerzo están por debajo de 50:''' &lt;br&gt;
+&lt;math&gt;\colorbox{White}{$ \text{Multiplicador de daño por PE} = 1 + (\text{PE} / 100)$}&lt;/math&gt; &lt;br&gt;&lt;br&gt;
+'''Cuando los Puntos de Esfuerzo son 50 o más:''' &lt;br&gt;
+&lt;math&gt;\colorbox{White}{$ \text{Multiplicador de daño por PE} = 1 + \text{Min}(1, ((\text{PE} - 30)^{0.075} - 0.75 ))$}&lt;/math&gt;</text>
+    <contributor>
+      <username>Cthulhu Follower</username>
+      <id>51</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>16401</parentid>
+    <sha1>e9545d9624ccc6cd5bb4471e2531d24cee912f6d</sha1>
+  </revision>
+  <revision>
+    <id>16401</id>
+    <timestamp>2022-07-27T19:07:00Z</timestamp>
+    <text bytes="6986" space="preserve">&lt;languages/&gt;
+[[File:Charmander_infected.png|thumb|200px|Un Charmander Variocolor en la Guardería, infectado por el Pokérus [[File:Pokerus.png|20px]]]]
+
+&lt;div class="mw-translate-fuzzy"&gt;
+==Descripción==
+El Pokérus es una forma de vida microscópica que puede infectar los Pokémon y que afectará a tu Pokémon inicial de Kanto durante la región de Sinnoh. Este virus consiste en una mecánica beneficiosa que pueden obtener los Pokémon. Tu Pokémon inicial de Kanto se infectará con el Pokérus después de completar el Mundo Distorsión por primera vez. Una vez que un Pokémon se infecta con el Pokérus, puede ganar Puntos de Esfuerzo (PE), los cuales aumentan el ataque de ese Pokémon.
+&lt;/div&gt;
+
+&lt;div class="mw-translate-fuzzy"&gt;
+==Contagiando el Pokérus==
+Sólo se puede contagiar el Pokérus a través de la [[Pokémon Day Care|Guardería Pokémon]].  Normalmente sólo Pokémon infectados con el Pokérus y que tengan la capacidad de transmitirlo pueden contagiarlo. Para ello, se debe incubar manualmente dicho Pokémon con otro Pokémon que comparta al menos un tipo con el primero. Una vez que han alcanzado el 100%, se debe manualmente eclosionar ambos huevos al mismo tiempo. En otras palabras: debes colocar tu Pokémon infectado junto con otros tres Pokémon con al menos un tipo en común con el primero en la Guardería, y mientras que el primer Pokémon no esté listo para eclosionar los demás Pokémon eclosionados (Manualmente, no cuentan los cuidadores Pokémon) se infectarán con el Pokérus.
+&lt;/div&gt;
+
+Sólo los Pokémon que cumplen con las siguientes condiciones pueden contraer el virus: &lt;br&gt;
+&lt;u&gt;'''''Requisitos para Contraer el Virus'''''&lt;/u&gt;
+#Que el huevo no esté listo para Eclosionar
+#Que comparta tipo Pokémon con un Pokémon que cumpla con los "Requisitos para Contagiar el Virus"
+
+Si todas estas condiciones se dan a la vez, un Pokémon sano se infectará automáticamente con el Pokérus después de ganar un determinado número de Pasos. Los Pokémon en la Lista de Espera de la Guardería no pueden contraer el Pokérus.
+
+==Estados Pokérus==
+El Pokérus pasa por 4 fases tal y como se describe a continuación.
+
+{| class="wikitable"
+! Estado || Descripción
+|-
+| Ninguno || Estado base. El pokémon puede contraer Pokérus. No puede ganar PE.
+|-
+| [[File:Pokérus (infected).png|20px]] Infectado|| El Pokémon ha contraído Pokérus pero necesita ser incubado una vez más después de haber contraído el virus. No puede ganar PE.
+|-
+| [[File:Pokérus (contagious).png|20px]] Contagioso || El Pokémon ha contraído el Pokérus y puede contagiar el virus. Puede ganar PE.
+|-
+| [[File:Pokérus (cured).png|20px]] Curado || El Pokémon ha contraído el Pokérus y puede contagiarlo. Puede ganar PE, y además, ha acumulado 50 PE o más.
+|-
+|}
+
+==Puntos de Esfuerzo (PE)==
+Los PE son un atributo que multiplica el daño de cada Pokémon y que normalmente sólo se puede ver en la página de la Pokédex de cada Pokémon y usando la configuración ''Mostrar Valor'' en la Guardaría. Los PE de un Pokémon sólo pueden ser aumentados atrapando de nuevo ese Pokémon una vez que ha sido infectado con el Pokérus. Se pueden obtener PE capturando Pokémon en [[Route Statistics|Rutas]], en [[Dungeon|Mazmorras]], capturarlo como [[Wandering Pokemon|Pokémon Itinerante]] o a través de los [[Evolution Items|Objetos de Evolución]]. [[Breeding|Incubar]] Pokémon no otorga PE. Además, la obtención de PE se ve afectada por la [[Rowap|Baya Magua (Rowap)]]. Se pueden visitar [[Farming Setups#Maximizing EV Gain|Formaciones de Granja]] para conocer las configuraciones más óptimas de cara la obtención de PE.
+
+====Obtención de PE====
+Hay diferentes métodos para atrapar Pokémon que te otorgarán distintas cantidades de PE. Si el [[Challenge Mode|Reto de Crecimiento Lento de PE]] está activo, se ganará 10 veces menos PE (Se obtiene la misma cantidad de PE, pero se requiere obtener 10 veces más PE para ganar los mismos bonus. En algunos casos, la obtención de PE se modifica por un factor externo tal y como se indica en las tablas expresadas a continuación).
+
+====Obtención de PE====
+{| class="wikitable"
+|+ EV Yields
+! PE Ganados || Reto Crecimiento lento PE || Método de Captura
+|-
+| 0.1 || 0.01 || Pokémon en Ruta
+|-
+| 1 || 0.1 || [[Evolution Items|Objeto de Evolución]]
+|-
+| 1 || 0.1 || [[Shops|Pokémon comprado en Tienda]]
+|-
+| 1 || 0.1 || [[Safari Zone|Pokémon de Zona Safari]]
+|-
+| 0.5 || 0.05 || [[Wandering Pokemon|Pokémon Itinerante]]
+|}
+
+====Modificadores de PE====
+{| class="wikitable"
+|+ Modificadores a la obtención de PE
+! Modificador de PE || Método
+|-
+| 3x || Los Pokémon atrapados en [[Dungeons|Mazmorras]]
+|-
+| 10x || Los Pokémon atrapados como jefe de [[Dungeons|Mazmorras]]
+|-
+| 5x || Los Pokémon capturados [[Shiny Chance|Variocolor]]. 
+|-
+| 5x || Los Pokémon atrapados con una [[Repeatball|Acopioball]]
+|-
+| 50x || Los Pokémon encontrados como [[Roaming Pokemon|Errantes]] y capturados
+|-
+| Variable || [[Rowap|El Aura de Baya Magua (Rowap)]] 
+|}
+
+====Ejemplos====
+Ejemplo 1: Atrapar a un '''Pkémon variocolor en una Mazmorra''' con una [[Repeatball|Acopioball]] otorga: &lt;math&gt;3 * 5 = 15 PEs&lt;/math&gt;&lt;br&gt;&lt;br&gt;
+Ejemplo 2: Atrapar a un '''Pokémon variocolor Errante''' otorga: &lt;math&gt;5 * 50 = 250 PEs&lt;/math&gt;&lt;br&gt;&lt;br&gt;
+Ejemplo 3: Atrapar a un'''Pokémon variocolor Errante''' con una [[Repeatball|Acopioball]] otorga: &lt;math&gt;5 * 5 * 50 = 1250 PEs&lt;/math&gt;
+
+===Multiplicador de Daño por PE===
+Los PE aumentan la cantidad de daño que hace un Pokémon. Los PE pueden multiplicar el daño que hace un Pokémon hasta x2. Si un Pokémon tiene menos de 50 PE, el múltiplo de daño será 0.01 por cada EV que tenga. Es decir, hasta los 50 PE, el ataque de un Pokémon aumenta en un 1% por cada PE que tenga.
+&lt;br&gt;&lt;br&gt;
+Los Pokémon que han contraído el Pokérus y han sido incubados pasan a ser contagiosos mientras que sus PE sean inferiores a 50. Una vez que contraen 50 puntos o más pasan a estar curados. Para más información se puede visitar los [[Pokérus#Pokérus States|Estados Pokérus]].
+&lt;br&gt;&lt;br&gt;
+A partir de los 50 PE, los Pokémon seguirán ganando PE del mismo modo, pero el incremento de ataque será menor con cada PE ganado. Una vez que un Pokémon ha alcanzado un aumento de daño x2 en base a sus PE, puede seguir ganando PE pero no seguirá aumentando su ataque por este método. 
+
+{| class="wikitable"
+|+Bonus de Ataque por PS en determinados puntos
+! Puntos de Esfuerzo || Multiplicador de daño del Pokémon
+|-
+| 50 || x1.5
+|-
+| 85 || x1.6x
+|-
+| 172 || x1.7
+|-
+| 375 || x1.8
+|-
+| 824 || x1.9
+|-
+| 1770 || x2
+|}
+
+====Fórmulas de PE====
+'''Cuando los Puntos de Esfuerzo están por debajo de 50:''' &lt;br&gt;
+&lt;math&gt;\colorbox{White}{$ \text{Multiplicador de daño por PE} = 1 + (\text{PE} / 100)$}&lt;/math&gt; &lt;br&gt;&lt;br&gt;
+'''Cuando los Puntos de Esfuerzo son 50 o más:''' &lt;br&gt;
+&lt;math&gt;\colorbox{White}{$ \text{Multiplicador de daño por PE} = 1 + \text{Min}(1, ((\text{PE} - 30)^{0.075} - 0.75 ))$}&lt;/math&gt;</text>
+    <contributor>
+      <username>Cthulhu Follower</username>
+      <id>51</id>
+    </contributor>
+    <comment>Created page with "Sólo los Pokémon que cumplen con las siguientes condiciones pueden contraer el virus: &lt;br&gt; &lt;u&gt;'''''Requisitos para Contraer el Virus'''''&lt;/u&gt; #Que el huevo no esté listo para Eclosionar #Que comparta tipo Pokémon con un Pokémon que cumpla con los "Requisitos para Contagiar el Virus""</comment>
+    <model>wikitext</model>
+    <parentid>16400</parentid>
+    <sha1>3b742519a38fbca0d778ef9fafadd087ca13641c</sha1>
+  </revision>
+  <revision>
+    <id>16400</id>
+    <timestamp>2022-07-27T19:05:17Z</timestamp>
+    <text bytes="6987" space="preserve">&lt;languages/&gt;
+[[File:Charmander_infected.png|thumb|200px|Un Charmander Variocolor en la Guardería, infectado por el Pokérus [[File:Pokerus.png|20px]]]]
+
+&lt;div class="mw-translate-fuzzy"&gt;
+==Descripción==
+El Pokérus es una forma de vida microscópica que puede infectar los Pokémon y que afectará a tu Pokémon inicial de Kanto durante la región de Sinnoh. Este virus consiste en una mecánica beneficiosa que pueden obtener los Pokémon. Tu Pokémon inicial de Kanto se infectará con el Pokérus después de completar el Mundo Distorsión por primera vez. Una vez que un Pokémon se infecta con el Pokérus, puede ganar Puntos de Esfuerzo (PE), los cuales aumentan el ataque de ese Pokémon.
+&lt;/div&gt;
+
+&lt;div class="mw-translate-fuzzy"&gt;
+==Contagiando el Pokérus==
+Sólo se puede contagiar el Pokérus a través de la [[Pokémon Day Care|Guardería Pokémon]].  Normalmente sólo Pokémon infectados con el Pokérus y que tengan la capacidad de transmitirlo pueden contagiarlo. Para ello, se debe incubar manualmente dicho Pokémon con otro Pokémon que comparta al menos un tipo con el primero. Una vez que han alcanzado el 100%, se debe manualmente eclosionar ambos huevos al mismo tiempo. En otras palabras: debes colocar tu Pokémon infectado junto con otros tres Pokémon con al menos un tipo en común con el primero en la Guardería, y mientras que el primer Pokémon no esté listo para eclosionar los demás Pokémon eclosionados (Manualmente, no cuentan los cuidadores Pokémon) se infectarán con el Pokérus.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Only Pokémon that fulfill the below conditions are capable of contracting the virus: &lt;br&gt;
+&lt;u&gt;'''''Contraction Requirements'''''&lt;/u&gt;
+#Not ready to hatch
+#Share at least one type with a Pokémon that fulfills the "Spreader Requisites"
+&lt;/div&gt;
+
+Si todas estas condiciones se dan a la vez, un Pokémon sano se infectará automáticamente con el Pokérus después de ganar un determinado número de Pasos. Los Pokémon en la Lista de Espera de la Guardería no pueden contraer el Pokérus.
+
+==Estados Pokérus==
+El Pokérus pasa por 4 fases tal y como se describe a continuación.
+
+{| class="wikitable"
+! Estado || Descripción
+|-
+| Ninguno || Estado base. El pokémon puede contraer Pokérus. No puede ganar PE.
+|-
+| [[File:Pokérus (infected).png|20px]] Infectado|| El Pokémon ha contraído Pokérus pero necesita ser incubado una vez más después de haber contraído el virus. No puede ganar PE.
+|-
+| [[File:Pokérus (contagious).png|20px]] Contagioso || El Pokémon ha contraído el Pokérus y puede contagiar el virus. Puede ganar PE.
+|-
+| [[File:Pokérus (cured).png|20px]] Curado || El Pokémon ha contraído el Pokérus y puede contagiarlo. Puede ganar PE, y además, ha acumulado 50 PE o más.
+|-
+|}
+
+==Puntos de Esfuerzo (PE)==
+Los PE son un atributo que multiplica el daño de cada Pokémon y que normalmente sólo se puede ver en la página de la Pokédex de cada Pokémon y usando la configuración ''Mostrar Valor'' en la Guardaría. Los PE de un Pokémon sólo pueden ser aumentados atrapando de nuevo ese Pokémon una vez que ha sido infectado con el Pokérus. Se pueden obtener PE capturando Pokémon en [[Route Statistics|Rutas]], en [[Dungeon|Mazmorras]], capturarlo como [[Wandering Pokemon|Pokémon Itinerante]] o a través de los [[Evolution Items|Objetos de Evolución]]. [[Breeding|Incubar]] Pokémon no otorga PE. Además, la obtención de PE se ve afectada por la [[Rowap|Baya Magua (Rowap)]]. Se pueden visitar [[Farming Setups#Maximizing EV Gain|Formaciones de Granja]] para conocer las configuraciones más óptimas de cara la obtención de PE.
+
+====Obtención de PE====
+Hay diferentes métodos para atrapar Pokémon que te otorgarán distintas cantidades de PE. Si el [[Challenge Mode|Reto de Crecimiento Lento de PE]] está activo, se ganará 10 veces menos PE (Se obtiene la misma cantidad de PE, pero se requiere obtener 10 veces más PE para ganar los mismos bonus. En algunos casos, la obtención de PE se modifica por un factor externo tal y como se indica en las tablas expresadas a continuación).
+
+====Obtención de PE====
+{| class="wikitable"
+|+ EV Yields
+! PE Ganados || Reto Crecimiento lento PE || Método de Captura
+|-
+| 0.1 || 0.01 || Pokémon en Ruta
+|-
+| 1 || 0.1 || [[Evolution Items|Objeto de Evolución]]
+|-
+| 1 || 0.1 || [[Shops|Pokémon comprado en Tienda]]
+|-
+| 1 || 0.1 || [[Safari Zone|Pokémon de Zona Safari]]
+|-
+| 0.5 || 0.05 || [[Wandering Pokemon|Pokémon Itinerante]]
+|}
+
+====Modificadores de PE====
+{| class="wikitable"
+|+ Modificadores a la obtención de PE
+! Modificador de PE || Método
+|-
+| 3x || Los Pokémon atrapados en [[Dungeons|Mazmorras]]
+|-
+| 10x || Los Pokémon atrapados como jefe de [[Dungeons|Mazmorras]]
+|-
+| 5x || Los Pokémon capturados [[Shiny Chance|Variocolor]]. 
+|-
+| 5x || Los Pokémon atrapados con una [[Repeatball|Acopioball]]
+|-
+| 50x || Los Pokémon encontrados como [[Roaming Pokemon|Errantes]] y capturados
+|-
+| Variable || [[Rowap|El Aura de Baya Magua (Rowap)]] 
+|}
+
+====Ejemplos====
+Ejemplo 1: Atrapar a un '''Pkémon variocolor en una Mazmorra''' con una [[Repeatball|Acopioball]] otorga: &lt;math&gt;3 * 5 = 15 PEs&lt;/math&gt;&lt;br&gt;&lt;br&gt;
+Ejemplo 2: Atrapar a un '''Pokémon variocolor Errante''' otorga: &lt;math&gt;5 * 50 = 250 PEs&lt;/math&gt;&lt;br&gt;&lt;br&gt;
+Ejemplo 3: Atrapar a un'''Pokémon variocolor Errante''' con una [[Repeatball|Acopioball]] otorga: &lt;math&gt;5 * 5 * 50 = 1250 PEs&lt;/math&gt;
+
+===Multiplicador de Daño por PE===
+Los PE aumentan la cantidad de daño que hace un Pokémon. Los PE pueden multiplicar el daño que hace un Pokémon hasta x2. Si un Pokémon tiene menos de 50 PE, el múltiplo de daño será 0.01 por cada EV que tenga. Es decir, hasta los 50 PE, el ataque de un Pokémon aumenta en un 1% por cada PE que tenga.
+&lt;br&gt;&lt;br&gt;
+Los Pokémon que han contraído el Pokérus y han sido incubados pasan a ser contagiosos mientras que sus PE sean inferiores a 50. Una vez que contraen 50 puntos o más pasan a estar curados. Para más información se puede visitar los [[Pokérus#Pokérus States|Estados Pokérus]].
+&lt;br&gt;&lt;br&gt;
+A partir de los 50 PE, los Pokémon seguirán ganando PE del mismo modo, pero el incremento de ataque será menor con cada PE ganado. Una vez que un Pokémon ha alcanzado un aumento de daño x2 en base a sus PE, puede seguir ganando PE pero no seguirá aumentando su ataque por este método. 
+
+{| class="wikitable"
+|+Bonus de Ataque por PS en determinados puntos
+! Puntos de Esfuerzo || Multiplicador de daño del Pokémon
+|-
+| 50 || x1.5
+|-
+| 85 || x1.6x
+|-
+| 172 || x1.7
+|-
+| 375 || x1.8
+|-
+| 824 || x1.9
+|-
+| 1770 || x2
+|}
+
+====Fórmulas de PE====
+'''Cuando los Puntos de Esfuerzo están por debajo de 50:''' &lt;br&gt;
+&lt;math&gt;\colorbox{White}{$ \text{Multiplicador de daño por PE} = 1 + (\text{PE} / 100)$}&lt;/math&gt; &lt;br&gt;&lt;br&gt;
+'''Cuando los Puntos de Esfuerzo son 50 o más:''' &lt;br&gt;
+&lt;math&gt;\colorbox{White}{$ \text{Multiplicador de daño por PE} = 1 + \text{Min}(1, ((\text{PE} - 30)^{0.075} - 0.75 ))$}&lt;/math&gt;</text>
+    <contributor>
+      <username>Cthulhu Follower</username>
+      <id>51</id>
+    </contributor>
+    <comment>Created page with "Si todas estas condiciones se dan a la vez, un Pokémon sano se infectará automáticamente con el Pokérus después de ganar un determinado número de Pasos. Los Pokémon en la Lista de Espera de la Guardería no pueden contraer el Pokérus."</comment>
+    <model>wikitext</model>
+    <parentid>16399</parentid>
+    <sha1>9635973f94335b7631971d3e9b719bfc8797a22b</sha1>
+  </revision>
+  <revision>
+    <id>16399</id>
+    <timestamp>2022-07-27T19:04:24Z</timestamp>
+    <text bytes="6991" space="preserve">&lt;languages/&gt;
+[[File:Charmander_infected.png|thumb|200px|Un Charmander Variocolor en la Guardería, infectado por el Pokérus [[File:Pokerus.png|20px]]]]
+
+&lt;div class="mw-translate-fuzzy"&gt;
+==Descripción==
+El Pokérus es una forma de vida microscópica que puede infectar los Pokémon y que afectará a tu Pokémon inicial de Kanto durante la región de Sinnoh. Este virus consiste en una mecánica beneficiosa que pueden obtener los Pokémon. Tu Pokémon inicial de Kanto se infectará con el Pokérus después de completar el Mundo Distorsión por primera vez. Una vez que un Pokémon se infecta con el Pokérus, puede ganar Puntos de Esfuerzo (PE), los cuales aumentan el ataque de ese Pokémon.
+&lt;/div&gt;
+
+&lt;div class="mw-translate-fuzzy"&gt;
+==Contagiando el Pokérus==
+Sólo se puede contagiar el Pokérus a través de la [[Pokémon Day Care|Guardería Pokémon]].  Normalmente sólo Pokémon infectados con el Pokérus y que tengan la capacidad de transmitirlo pueden contagiarlo. Para ello, se debe incubar manualmente dicho Pokémon con otro Pokémon que comparta al menos un tipo con el primero. Una vez que han alcanzado el 100%, se debe manualmente eclosionar ambos huevos al mismo tiempo. En otras palabras: debes colocar tu Pokémon infectado junto con otros tres Pokémon con al menos un tipo en común con el primero en la Guardería, y mientras que el primer Pokémon no esté listo para eclosionar los demás Pokémon eclosionados (Manualmente, no cuentan los cuidadores Pokémon) se infectarán con el Pokérus.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Only Pokémon that fulfill the below conditions are capable of contracting the virus: &lt;br&gt;
+&lt;u&gt;'''''Contraction Requirements'''''&lt;/u&gt;
+#Not ready to hatch
+#Share at least one type with a Pokémon that fulfills the "Spreader Requisites"
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+If all of the above conditions are met, an uninfected Pokémon will automatically catch Pokérus upon gaining any number of egg steps. Pokémon in the Hatchery Queue will not catch Pokérus.
+&lt;/div&gt;
+
+==Estados Pokérus==
+El Pokérus pasa por 4 fases tal y como se describe a continuación.
+
+{| class="wikitable"
+! Estado || Descripción
+|-
+| Ninguno || Estado base. El pokémon puede contraer Pokérus. No puede ganar PE.
+|-
+| [[File:Pokérus (infected).png|20px]] Infectado|| El Pokémon ha contraído Pokérus pero necesita ser incubado una vez más después de haber contraído el virus. No puede ganar PE.
+|-
+| [[File:Pokérus (contagious).png|20px]] Contagioso || El Pokémon ha contraído el Pokérus y puede contagiar el virus. Puede ganar PE.
+|-
+| [[File:Pokérus (cured).png|20px]] Curado || El Pokémon ha contraído el Pokérus y puede contagiarlo. Puede ganar PE, y además, ha acumulado 50 PE o más.
+|-
+|}
+
+==Puntos de Esfuerzo (PE)==
+Los PE son un atributo que multiplica el daño de cada Pokémon y que normalmente sólo se puede ver en la página de la Pokédex de cada Pokémon y usando la configuración ''Mostrar Valor'' en la Guardaría. Los PE de un Pokémon sólo pueden ser aumentados atrapando de nuevo ese Pokémon una vez que ha sido infectado con el Pokérus. Se pueden obtener PE capturando Pokémon en [[Route Statistics|Rutas]], en [[Dungeon|Mazmorras]], capturarlo como [[Wandering Pokemon|Pokémon Itinerante]] o a través de los [[Evolution Items|Objetos de Evolución]]. [[Breeding|Incubar]] Pokémon no otorga PE. Además, la obtención de PE se ve afectada por la [[Rowap|Baya Magua (Rowap)]]. Se pueden visitar [[Farming Setups#Maximizing EV Gain|Formaciones de Granja]] para conocer las configuraciones más óptimas de cara la obtención de PE.
+
+====Obtención de PE====
+Hay diferentes métodos para atrapar Pokémon que te otorgarán distintas cantidades de PE. Si el [[Challenge Mode|Reto de Crecimiento Lento de PE]] está activo, se ganará 10 veces menos PE (Se obtiene la misma cantidad de PE, pero se requiere obtener 10 veces más PE para ganar los mismos bonus. En algunos casos, la obtención de PE se modifica por un factor externo tal y como se indica en las tablas expresadas a continuación).
+
+====Obtención de PE====
+{| class="wikitable"
+|+ EV Yields
+! PE Ganados || Reto Crecimiento lento PE || Método de Captura
+|-
+| 0.1 || 0.01 || Pokémon en Ruta
+|-
+| 1 || 0.1 || [[Evolution Items|Objeto de Evolución]]
+|-
+| 1 || 0.1 || [[Shops|Pokémon comprado en Tienda]]
+|-
+| 1 || 0.1 || [[Safari Zone|Pokémon de Zona Safari]]
+|-
+| 0.5 || 0.05 || [[Wandering Pokemon|Pokémon Itinerante]]
+|}
+
+====Modificadores de PE====
+{| class="wikitable"
+|+ Modificadores a la obtención de PE
+! Modificador de PE || Método
+|-
+| 3x || Los Pokémon atrapados en [[Dungeons|Mazmorras]]
+|-
+| 10x || Los Pokémon atrapados como jefe de [[Dungeons|Mazmorras]]
+|-
+| 5x || Los Pokémon capturados [[Shiny Chance|Variocolor]]. 
+|-
+| 5x || Los Pokémon atrapados con una [[Repeatball|Acopioball]]
+|-
+| 50x || Los Pokémon encontrados como [[Roaming Pokemon|Errantes]] y capturados
+|-
+| Variable || [[Rowap|El Aura de Baya Magua (Rowap)]] 
+|}
+
+====Ejemplos====
+Ejemplo 1: Atrapar a un '''Pkémon variocolor en una Mazmorra''' con una [[Repeatball|Acopioball]] otorga: &lt;math&gt;3 * 5 = 15 PEs&lt;/math&gt;&lt;br&gt;&lt;br&gt;
+Ejemplo 2: Atrapar a un '''Pokémon variocolor Errante''' otorga: &lt;math&gt;5 * 50 = 250 PEs&lt;/math&gt;&lt;br&gt;&lt;br&gt;
+Ejemplo 3: Atrapar a un'''Pokémon variocolor Errante''' con una [[Repeatball|Acopioball]] otorga: &lt;math&gt;5 * 5 * 50 = 1250 PEs&lt;/math&gt;
+
+===Multiplicador de Daño por PE===
+Los PE aumentan la cantidad de daño que hace un Pokémon. Los PE pueden multiplicar el daño que hace un Pokémon hasta x2. Si un Pokémon tiene menos de 50 PE, el múltiplo de daño será 0.01 por cada EV que tenga. Es decir, hasta los 50 PE, el ataque de un Pokémon aumenta en un 1% por cada PE que tenga.
+&lt;br&gt;&lt;br&gt;
+Los Pokémon que han contraído el Pokérus y han sido incubados pasan a ser contagiosos mientras que sus PE sean inferiores a 50. Una vez que contraen 50 puntos o más pasan a estar curados. Para más información se puede visitar los [[Pokérus#Pokérus States|Estados Pokérus]].
+&lt;br&gt;&lt;br&gt;
+A partir de los 50 PE, los Pokémon seguirán ganando PE del mismo modo, pero el incremento de ataque será menor con cada PE ganado. Una vez que un Pokémon ha alcanzado un aumento de daño x2 en base a sus PE, puede seguir ganando PE pero no seguirá aumentando su ataque por este método. 
+
+{| class="wikitable"
+|+Bonus de Ataque por PS en determinados puntos
+! Puntos de Esfuerzo || Multiplicador de daño del Pokémon
+|-
+| 50 || x1.5
+|-
+| 85 || x1.6x
+|-
+| 172 || x1.7
+|-
+| 375 || x1.8
+|-
+| 824 || x1.9
+|-
+| 1770 || x2
+|}
+
+====Fórmulas de PE====
+'''Cuando los Puntos de Esfuerzo están por debajo de 50:''' &lt;br&gt;
+&lt;math&gt;\colorbox{White}{$ \text{Multiplicador de daño por PE} = 1 + (\text{PE} / 100)$}&lt;/math&gt; &lt;br&gt;&lt;br&gt;
+'''Cuando los Puntos de Esfuerzo son 50 o más:''' &lt;br&gt;
+&lt;math&gt;\colorbox{White}{$ \text{Multiplicador de daño por PE} = 1 + \text{Min}(1, ((\text{PE} - 30)^{0.075} - 0.75 ))$}&lt;/math&gt;</text>
+    <contributor>
+      <username>Cthulhu Follower</username>
+      <id>51</id>
+    </contributor>
+    <comment>Created page with "==Estados Pokérus== El Pokérus pasa por 4 fases tal y como se describe a continuación."</comment>
+    <model>wikitext</model>
+    <parentid>16398</parentid>
+    <sha1>e889f97cfe82443595a09cab11146b973b6cdfe7</sha1>
+  </revision>
+  <revision>
+    <id>16398</id>
+    <timestamp>2022-07-27T19:04:01Z</timestamp>
+    <text bytes="7028" space="preserve">&lt;languages/&gt;
+[[File:Charmander_infected.png|thumb|200px|Un Charmander Variocolor en la Guardería, infectado por el Pokérus [[File:Pokerus.png|20px]]]]
+
+&lt;div class="mw-translate-fuzzy"&gt;
+==Descripción==
+El Pokérus es una forma de vida microscópica que puede infectar los Pokémon y que afectará a tu Pokémon inicial de Kanto durante la región de Sinnoh. Este virus consiste en una mecánica beneficiosa que pueden obtener los Pokémon. Tu Pokémon inicial de Kanto se infectará con el Pokérus después de completar el Mundo Distorsión por primera vez. Una vez que un Pokémon se infecta con el Pokérus, puede ganar Puntos de Esfuerzo (PE), los cuales aumentan el ataque de ese Pokémon.
+&lt;/div&gt;
+
+&lt;div class="mw-translate-fuzzy"&gt;
+==Contagiando el Pokérus==
+Sólo se puede contagiar el Pokérus a través de la [[Pokémon Day Care|Guardería Pokémon]].  Normalmente sólo Pokémon infectados con el Pokérus y que tengan la capacidad de transmitirlo pueden contagiarlo. Para ello, se debe incubar manualmente dicho Pokémon con otro Pokémon que comparta al menos un tipo con el primero. Una vez que han alcanzado el 100%, se debe manualmente eclosionar ambos huevos al mismo tiempo. En otras palabras: debes colocar tu Pokémon infectado junto con otros tres Pokémon con al menos un tipo en común con el primero en la Guardería, y mientras que el primer Pokémon no esté listo para eclosionar los demás Pokémon eclosionados (Manualmente, no cuentan los cuidadores Pokémon) se infectarán con el Pokérus.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Only Pokémon that fulfill the below conditions are capable of contracting the virus: &lt;br&gt;
+&lt;u&gt;'''''Contraction Requirements'''''&lt;/u&gt;
+#Not ready to hatch
+#Share at least one type with a Pokémon that fulfills the "Spreader Requisites"
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+If all of the above conditions are met, an uninfected Pokémon will automatically catch Pokérus upon gaining any number of egg steps. Pokémon in the Hatchery Queue will not catch Pokérus.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Pokérus States==
+There are 4 states of Pokérus as described below.
+&lt;/div&gt;
+
+{| class="wikitable"
+! Estado || Descripción
+|-
+| Ninguno || Estado base. El pokémon puede contraer Pokérus. No puede ganar PE.
+|-
+| [[File:Pokérus (infected).png|20px]] Infectado|| El Pokémon ha contraído Pokérus pero necesita ser incubado una vez más después de haber contraído el virus. No puede ganar PE.
+|-
+| [[File:Pokérus (contagious).png|20px]] Contagioso || El Pokémon ha contraído el Pokérus y puede contagiar el virus. Puede ganar PE.
+|-
+| [[File:Pokérus (cured).png|20px]] Curado || El Pokémon ha contraído el Pokérus y puede contagiarlo. Puede ganar PE, y además, ha acumulado 50 PE o más.
+|-
+|}
+
+==Puntos de Esfuerzo (PE)==
+Los PE son un atributo que multiplica el daño de cada Pokémon y que normalmente sólo se puede ver en la página de la Pokédex de cada Pokémon y usando la configuración ''Mostrar Valor'' en la Guardaría. Los PE de un Pokémon sólo pueden ser aumentados atrapando de nuevo ese Pokémon una vez que ha sido infectado con el Pokérus. Se pueden obtener PE capturando Pokémon en [[Route Statistics|Rutas]], en [[Dungeon|Mazmorras]], capturarlo como [[Wandering Pokemon|Pokémon Itinerante]] o a través de los [[Evolution Items|Objetos de Evolución]]. [[Breeding|Incubar]] Pokémon no otorga PE. Además, la obtención de PE se ve afectada por la [[Rowap|Baya Magua (Rowap)]]. Se pueden visitar [[Farming Setups#Maximizing EV Gain|Formaciones de Granja]] para conocer las configuraciones más óptimas de cara la obtención de PE.
+
+====Obtención de PE====
+Hay diferentes métodos para atrapar Pokémon que te otorgarán distintas cantidades de PE. Si el [[Challenge Mode|Reto de Crecimiento Lento de PE]] está activo, se ganará 10 veces menos PE (Se obtiene la misma cantidad de PE, pero se requiere obtener 10 veces más PE para ganar los mismos bonus. En algunos casos, la obtención de PE se modifica por un factor externo tal y como se indica en las tablas expresadas a continuación).
+
+====Obtención de PE====
+{| class="wikitable"
+|+ EV Yields
+! PE Ganados || Reto Crecimiento lento PE || Método de Captura
+|-
+| 0.1 || 0.01 || Pokémon en Ruta
+|-
+| 1 || 0.1 || [[Evolution Items|Objeto de Evolución]]
+|-
+| 1 || 0.1 || [[Shops|Pokémon comprado en Tienda]]
+|-
+| 1 || 0.1 || [[Safari Zone|Pokémon de Zona Safari]]
+|-
+| 0.5 || 0.05 || [[Wandering Pokemon|Pokémon Itinerante]]
+|}
+
+====Modificadores de PE====
+{| class="wikitable"
+|+ Modificadores a la obtención de PE
+! Modificador de PE || Método
+|-
+| 3x || Los Pokémon atrapados en [[Dungeons|Mazmorras]]
+|-
+| 10x || Los Pokémon atrapados como jefe de [[Dungeons|Mazmorras]]
+|-
+| 5x || Los Pokémon capturados [[Shiny Chance|Variocolor]]. 
+|-
+| 5x || Los Pokémon atrapados con una [[Repeatball|Acopioball]]
+|-
+| 50x || Los Pokémon encontrados como [[Roaming Pokemon|Errantes]] y capturados
+|-
+| Variable || [[Rowap|El Aura de Baya Magua (Rowap)]] 
+|}
+
+====Ejemplos====
+Ejemplo 1: Atrapar a un '''Pkémon variocolor en una Mazmorra''' con una [[Repeatball|Acopioball]] otorga: &lt;math&gt;3 * 5 = 15 PEs&lt;/math&gt;&lt;br&gt;&lt;br&gt;
+Ejemplo 2: Atrapar a un '''Pokémon variocolor Errante''' otorga: &lt;math&gt;5 * 50 = 250 PEs&lt;/math&gt;&lt;br&gt;&lt;br&gt;
+Ejemplo 3: Atrapar a un'''Pokémon variocolor Errante''' con una [[Repeatball|Acopioball]] otorga: &lt;math&gt;5 * 5 * 50 = 1250 PEs&lt;/math&gt;
+
+===Multiplicador de Daño por PE===
+Los PE aumentan la cantidad de daño que hace un Pokémon. Los PE pueden multiplicar el daño que hace un Pokémon hasta x2. Si un Pokémon tiene menos de 50 PE, el múltiplo de daño será 0.01 por cada EV que tenga. Es decir, hasta los 50 PE, el ataque de un Pokémon aumenta en un 1% por cada PE que tenga.
+&lt;br&gt;&lt;br&gt;
+Los Pokémon que han contraído el Pokérus y han sido incubados pasan a ser contagiosos mientras que sus PE sean inferiores a 50. Una vez que contraen 50 puntos o más pasan a estar curados. Para más información se puede visitar los [[Pokérus#Pokérus States|Estados Pokérus]].
+&lt;br&gt;&lt;br&gt;
+A partir de los 50 PE, los Pokémon seguirán ganando PE del mismo modo, pero el incremento de ataque será menor con cada PE ganado. Una vez que un Pokémon ha alcanzado un aumento de daño x2 en base a sus PE, puede seguir ganando PE pero no seguirá aumentando su ataque por este método. 
+
+{| class="wikitable"
+|+Bonus de Ataque por PS en determinados puntos
+! Puntos de Esfuerzo || Multiplicador de daño del Pokémon
+|-
+| 50 || x1.5
+|-
+| 85 || x1.6x
+|-
+| 172 || x1.7
+|-
+| 375 || x1.8
+|-
+| 824 || x1.9
+|-
+| 1770 || x2
+|}
+
+====Fórmulas de PE====
+'''Cuando los Puntos de Esfuerzo están por debajo de 50:''' &lt;br&gt;
+&lt;math&gt;\colorbox{White}{$ \text{Multiplicador de daño por PE} = 1 + (\text{PE} / 100)$}&lt;/math&gt; &lt;br&gt;&lt;br&gt;
+'''Cuando los Puntos de Esfuerzo son 50 o más:''' &lt;br&gt;
+&lt;math&gt;\colorbox{White}{$ \text{Multiplicador de daño por PE} = 1 + \text{Min}(1, ((\text{PE} - 30)^{0.075} - 0.75 ))$}&lt;/math&gt;</text>
+    <contributor>
+      <username>Cthulhu Follower</username>
+      <id>51</id>
+    </contributor>
+    <comment>Created page with "{| class="wikitable" ! Estado || Descripción |- | Ninguno || Estado base. El pokémon puede contraer Pokérus. No puede ganar PE. |- | [[File:Pokérus (infected).png|20px]] Infectado|| El Pokémon ha contraído Pokérus pero necesita ser incubado una vez más después de haber contraído el virus. No puede ganar PE. |- | [[File:Pokérus (contagious).png|20px]] Contagioso || El Pokémon ha contraído el Pokérus y puede contagiar el virus. Puede ganar PE. |- | File:Pok..."</comment>
+    <model>wikitext</model>
+    <parentid>16397</parentid>
+    <sha1>ab44e09ddf39c656efb74a5e47c6edcc6314ad89</sha1>
+  </revision>
+  <revision>
+    <id>16397</id>
+    <timestamp>2022-07-27T19:00:56Z</timestamp>
+    <text bytes="7099" space="preserve">&lt;languages/&gt;
+[[File:Charmander_infected.png|thumb|200px|Un Charmander Variocolor en la Guardería, infectado por el Pokérus [[File:Pokerus.png|20px]]]]
+
+&lt;div class="mw-translate-fuzzy"&gt;
+==Descripción==
+El Pokérus es una forma de vida microscópica que puede infectar los Pokémon y que afectará a tu Pokémon inicial de Kanto durante la región de Sinnoh. Este virus consiste en una mecánica beneficiosa que pueden obtener los Pokémon. Tu Pokémon inicial de Kanto se infectará con el Pokérus después de completar el Mundo Distorsión por primera vez. Una vez que un Pokémon se infecta con el Pokérus, puede ganar Puntos de Esfuerzo (PE), los cuales aumentan el ataque de ese Pokémon.
+&lt;/div&gt;
+
+&lt;div class="mw-translate-fuzzy"&gt;
+==Contagiando el Pokérus==
+Sólo se puede contagiar el Pokérus a través de la [[Pokémon Day Care|Guardería Pokémon]].  Normalmente sólo Pokémon infectados con el Pokérus y que tengan la capacidad de transmitirlo pueden contagiarlo. Para ello, se debe incubar manualmente dicho Pokémon con otro Pokémon que comparta al menos un tipo con el primero. Una vez que han alcanzado el 100%, se debe manualmente eclosionar ambos huevos al mismo tiempo. En otras palabras: debes colocar tu Pokémon infectado junto con otros tres Pokémon con al menos un tipo en común con el primero en la Guardería, y mientras que el primer Pokémon no esté listo para eclosionar los demás Pokémon eclosionados (Manualmente, no cuentan los cuidadores Pokémon) se infectarán con el Pokérus.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Only Pokémon that fulfill the below conditions are capable of contracting the virus: &lt;br&gt;
+&lt;u&gt;'''''Contraction Requirements'''''&lt;/u&gt;
+#Not ready to hatch
+#Share at least one type with a Pokémon that fulfills the "Spreader Requisites"
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+If all of the above conditions are met, an uninfected Pokémon will automatically catch Pokérus upon gaining any number of egg steps. Pokémon in the Hatchery Queue will not catch Pokérus.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Pokérus States==
+There are 4 states of Pokérus as described below.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable"
+! State || Description
+|-
+| None || Base State. Pokémon can contract Pokérus. Pokémon cannot gain EVs.
+|-
+| [[File:Pokérus (infected).png|20px]] Infected || Pokémon has contracted Pokérus, but has yet to hatch once after contracting the virus. Pokémon cannot gain EVs.
+|-
+| [[File:Pokérus (contagious).png|20px]] Contagious || Pokémon has contracted Pokérus, and is capable of spreading the virus. Pokémon can gain EVs.
+|-
+| [[File:Pokérus (cured).png|20px]] Cured || Pokémon has contracted Pokérus, and is capable of spreading the virus. Pokémon can gain EVs, and has also accumulated 50 or more EVs.
+|-
+|}
+&lt;/div&gt;
+
+==Puntos de Esfuerzo (PE)==
+Los PE son un atributo que multiplica el daño de cada Pokémon y que normalmente sólo se puede ver en la página de la Pokédex de cada Pokémon y usando la configuración ''Mostrar Valor'' en la Guardaría. Los PE de un Pokémon sólo pueden ser aumentados atrapando de nuevo ese Pokémon una vez que ha sido infectado con el Pokérus. Se pueden obtener PE capturando Pokémon en [[Route Statistics|Rutas]], en [[Dungeon|Mazmorras]], capturarlo como [[Wandering Pokemon|Pokémon Itinerante]] o a través de los [[Evolution Items|Objetos de Evolución]]. [[Breeding|Incubar]] Pokémon no otorga PE. Además, la obtención de PE se ve afectada por la [[Rowap|Baya Magua (Rowap)]]. Se pueden visitar [[Farming Setups#Maximizing EV Gain|Formaciones de Granja]] para conocer las configuraciones más óptimas de cara la obtención de PE.
+
+====Obtención de PE====
+Hay diferentes métodos para atrapar Pokémon que te otorgarán distintas cantidades de PE. Si el [[Challenge Mode|Reto de Crecimiento Lento de PE]] está activo, se ganará 10 veces menos PE (Se obtiene la misma cantidad de PE, pero se requiere obtener 10 veces más PE para ganar los mismos bonus. En algunos casos, la obtención de PE se modifica por un factor externo tal y como se indica en las tablas expresadas a continuación).
+
+====Obtención de PE====
+{| class="wikitable"
+|+ EV Yields
+! PE Ganados || Reto Crecimiento lento PE || Método de Captura
+|-
+| 0.1 || 0.01 || Pokémon en Ruta
+|-
+| 1 || 0.1 || [[Evolution Items|Objeto de Evolución]]
+|-
+| 1 || 0.1 || [[Shops|Pokémon comprado en Tienda]]
+|-
+| 1 || 0.1 || [[Safari Zone|Pokémon de Zona Safari]]
+|-
+| 0.5 || 0.05 || [[Wandering Pokemon|Pokémon Itinerante]]
+|}
+
+====Modificadores de PE====
+{| class="wikitable"
+|+ Modificadores a la obtención de PE
+! Modificador de PE || Método
+|-
+| 3x || Los Pokémon atrapados en [[Dungeons|Mazmorras]]
+|-
+| 10x || Los Pokémon atrapados como jefe de [[Dungeons|Mazmorras]]
+|-
+| 5x || Los Pokémon capturados [[Shiny Chance|Variocolor]]. 
+|-
+| 5x || Los Pokémon atrapados con una [[Repeatball|Acopioball]]
+|-
+| 50x || Los Pokémon encontrados como [[Roaming Pokemon|Errantes]] y capturados
+|-
+| Variable || [[Rowap|El Aura de Baya Magua (Rowap)]] 
+|}
+
+====Ejemplos====
+Ejemplo 1: Atrapar a un '''Pkémon variocolor en una Mazmorra''' con una [[Repeatball|Acopioball]] otorga: &lt;math&gt;3 * 5 = 15 PEs&lt;/math&gt;&lt;br&gt;&lt;br&gt;
+Ejemplo 2: Atrapar a un '''Pokémon variocolor Errante''' otorga: &lt;math&gt;5 * 50 = 250 PEs&lt;/math&gt;&lt;br&gt;&lt;br&gt;
+Ejemplo 3: Atrapar a un'''Pokémon variocolor Errante''' con una [[Repeatball|Acopioball]] otorga: &lt;math&gt;5 * 5 * 50 = 1250 PEs&lt;/math&gt;
+
+===Multiplicador de Daño por PE===
+Los PE aumentan la cantidad de daño que hace un Pokémon. Los PE pueden multiplicar el daño que hace un Pokémon hasta x2. Si un Pokémon tiene menos de 50 PE, el múltiplo de daño será 0.01 por cada EV que tenga. Es decir, hasta los 50 PE, el ataque de un Pokémon aumenta en un 1% por cada PE que tenga.
+&lt;br&gt;&lt;br&gt;
+Los Pokémon que han contraído el Pokérus y han sido incubados pasan a ser contagiosos mientras que sus PE sean inferiores a 50. Una vez que contraen 50 puntos o más pasan a estar curados. Para más información se puede visitar los [[Pokérus#Pokérus States|Estados Pokérus]].
+&lt;br&gt;&lt;br&gt;
+A partir de los 50 PE, los Pokémon seguirán ganando PE del mismo modo, pero el incremento de ataque será menor con cada PE ganado. Una vez que un Pokémon ha alcanzado un aumento de daño x2 en base a sus PE, puede seguir ganando PE pero no seguirá aumentando su ataque por este método. 
+
+{| class="wikitable"
+|+Bonus de Ataque por PS en determinados puntos
+! Puntos de Esfuerzo || Multiplicador de daño del Pokémon
+|-
+| 50 || x1.5
+|-
+| 85 || x1.6x
+|-
+| 172 || x1.7
+|-
+| 375 || x1.8
+|-
+| 824 || x1.9
+|-
+| 1770 || x2
+|}
+
+====Fórmulas de PE====
+'''Cuando los Puntos de Esfuerzo están por debajo de 50:''' &lt;br&gt;
+&lt;math&gt;\colorbox{White}{$ \text{Multiplicador de daño por PE} = 1 + (\text{PE} / 100)$}&lt;/math&gt; &lt;br&gt;&lt;br&gt;
+'''Cuando los Puntos de Esfuerzo son 50 o más:''' &lt;br&gt;
+&lt;math&gt;\colorbox{White}{$ \text{Multiplicador de daño por PE} = 1 + \text{Min}(1, ((\text{PE} - 30)^{0.075} - 0.75 ))$}&lt;/math&gt;</text>
+    <contributor>
+      <username>Cthulhu Follower</username>
+      <id>51</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>16396</parentid>
+    <sha1>4abe272eaa0f443f25df508c1a7853ec916ddd9c</sha1>
+  </revision>
+  <revision>
+    <id>16396</id>
+    <timestamp>2022-07-27T18:56:12Z</timestamp>
+    <text bytes="6796" space="preserve">&lt;languages/&gt;
+[[File:Charmander_infected.png|thumb|200px|Un Charmander Variocolor en la Guardería, infectado por el Pokérus [[File:Pokerus.png|20px]]]]
+
+&lt;div class="mw-translate-fuzzy"&gt;
+==Descripción==
+El Pokérus es una forma de vida microscópica que puede infectar los Pokémon y que afectará a tu Pokémon inicial de Kanto durante la región de Sinnoh. Este virus consiste en una mecánica beneficiosa que pueden obtener los Pokémon. Tu Pokémon inicial de Kanto se infectará con el Pokérus después de completar el Mundo Distorsión por primera vez. Una vez que un Pokémon se infecta con el Pokérus, puede ganar Puntos de Esfuerzo (PE), los cuales aumentan el ataque de ese Pokémon.
+&lt;/div&gt;
+
+&lt;div class="mw-translate-fuzzy"&gt;
+==Contagiando el Pokérus==
+Sólo se puede contagiar el Pokérus a través de la [[Pokémon Day Care|Guardería Pokémon]].  Normalmente sólo Pokémon infectados con el Pokérus y que tengan la capacidad de transmitirlo pueden contagiarlo. Para ello, se debe incubar manualmente dicho Pokémon con otro Pokémon que comparta al menos un tipo con el primero. Una vez que han alcanzado el 100%, se debe manualmente eclosionar ambos huevos al mismo tiempo. En otras palabras: debes colocar tu Pokémon infectado junto con otros tres Pokémon con al menos un tipo en común con el primero en la Guardería, y mientras que el primer Pokémon no esté listo para eclosionar los demás Pokémon eclosionados (Manualmente, no cuentan los cuidadores Pokémon) se infectarán con el Pokérus.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Only Pokémon that fulfill the below conditions are capable of contracting the virus: &lt;br&gt;
+&lt;u&gt;'''''Contraction Requirements'''''&lt;/u&gt;
+#Not ready to hatch
+#Share at least one type with a Pokémon that fulfills the "Spreader Requisites"
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+If all of the above conditions are met, an uninfected Pokémon will automatically catch Pokérus upon gaining any number of egg steps. Pokémon in the Hatchery Queue will not catch Pokérus.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Pokérus States==
+There are 4 states of Pokérus as described below.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable"
+! State || Description
+|-
+| None || Base State. Pokémon can contract Pokérus. Pokémon cannot gain EVs.
+|-
+| [[File:Pokérus (infected).png|20px]] Infected || Pokémon has contracted Pokérus, but has yet to hatch once after contracting the virus. Pokémon cannot gain EVs.
+|-
+| [[File:Pokérus (contagious).png|20px]] Contagious || Pokémon has contracted Pokérus, and is capable of spreading the virus. Pokémon can gain EVs.
+|-
+| [[File:Pokérus (cured).png|20px]] Cured || Pokémon has contracted Pokérus, and is capable of spreading the virus. Pokémon can gain EVs, and has also accumulated 50 or more EVs.
+|-
+|}
+&lt;/div&gt;
+
+&lt;div class="mw-translate-fuzzy"&gt;
+==Puntos de Esfuerzo (PE)==
+Los PE son un atributo que multiplica el daño de cada Pokémon y que normalmente sólo se puede ver en la página de la Pokédex de cada Pokémon. Los PE de un Pokémon sólo pueden ser aumentados actualmente atrapando de nuevo ese Pokémon una vez que ha sido infectado con el Pokérus. Se pueden obtener PE capturando Pokémon en [[Route Statistics|Rutas]], en [[Dungeon|Mazmorras]], o a través de los [[Evolution Items|Objetos de Evolución]]. [[Breeding|Incubar]] Pokémon no otorga PE.
+&lt;/div&gt;
+
+====Obtención de PE====
+Hay diferentes métodos para atrapar Pokémon que te otorgarán distintas cantidades de PE. Si el [[Challenge Mode|Reto de Crecimiento Lento de PE]] está activo, se ganará 10 veces menos PE (Se obtiene la misma cantidad de PE, pero se requiere obtener 10 veces más PE para ganar los mismos bonus. En algunos casos, la obtención de PE se modifica por un factor externo tal y como se indica en las tablas expresadas a continuación).
+
+====Obtención de PE====
+{| class="wikitable"
+|+ EV Yields
+! PE Ganados || Reto Crecimiento lento PE || Método de Captura
+|-
+| 0.1 || 0.01 || Pokémon en Ruta
+|-
+| 1 || 0.1 || [[Evolution Items|Objeto de Evolución]]
+|-
+| 1 || 0.1 || [[Shops|Pokémon comprado en Tienda]]
+|-
+| 1 || 0.1 || [[Safari Zone|Pokémon de Zona Safari]]
+|-
+| 0.5 || 0.05 || [[Wandering Pokemon|Pokémon Itinerante]]
+|}
+
+====Modificadores de PE====
+{| class="wikitable"
+|+ Modificadores a la obtención de PE
+! Modificador de PE || Método
+|-
+| 3x || Los Pokémon atrapados en [[Dungeons|Mazmorras]]
+|-
+| 10x || Los Pokémon atrapados como jefe de [[Dungeons|Mazmorras]]
+|-
+| 5x || Los Pokémon capturados [[Shiny Chance|Variocolor]]. 
+|-
+| 5x || Los Pokémon atrapados con una [[Repeatball|Acopioball]]
+|-
+| 50x || Los Pokémon encontrados como [[Roaming Pokemon|Errantes]] y capturados
+|-
+| Variable || [[Rowap|El Aura de Baya Magua (Rowap)]] 
+|}
+
+====Ejemplos====
+Ejemplo 1: Atrapar a un '''Pkémon variocolor en una Mazmorra''' con una [[Repeatball|Acopioball]] otorga: &lt;math&gt;3 * 5 = 15 PEs&lt;/math&gt;&lt;br&gt;&lt;br&gt;
+Ejemplo 2: Atrapar a un '''Pokémon variocolor Errante''' otorga: &lt;math&gt;5 * 50 = 250 PEs&lt;/math&gt;&lt;br&gt;&lt;br&gt;
+Ejemplo 3: Atrapar a un'''Pokémon variocolor Errante''' con una [[Repeatball|Acopioball]] otorga: &lt;math&gt;5 * 5 * 50 = 1250 PEs&lt;/math&gt;
+
+===Multiplicador de Daño por PE===
+Los PE aumentan la cantidad de daño que hace un Pokémon. Los PE pueden multiplicar el daño que hace un Pokémon hasta x2. Si un Pokémon tiene menos de 50 PE, el múltiplo de daño será 0.01 por cada EV que tenga. Es decir, hasta los 50 PE, el ataque de un Pokémon aumenta en un 1% por cada PE que tenga.
+&lt;br&gt;&lt;br&gt;
+Los Pokémon que han contraído el Pokérus y han sido incubados pasan a ser contagiosos mientras que sus PE sean inferiores a 50. Una vez que contraen 50 puntos o más pasan a estar curados. Para más información se puede visitar los [[Pokérus#Pokérus States|Estados Pokérus]].
+&lt;br&gt;&lt;br&gt;
+A partir de los 50 PE, los Pokémon seguirán ganando PE del mismo modo, pero el incremento de ataque será menor con cada PE ganado. Una vez que un Pokémon ha alcanzado un aumento de daño x2 en base a sus PE, puede seguir ganando PE pero no seguirá aumentando su ataque por este método. 
+
+{| class="wikitable"
+|+Bonus de Ataque por PS en determinados puntos
+! Puntos de Esfuerzo || Multiplicador de daño del Pokémon
+|-
+| 50 || x1.5
+|-
+| 85 || x1.6x
+|-
+| 172 || x1.7
+|-
+| 375 || x1.8
+|-
+| 824 || x1.9
+|-
+| 1770 || x2
+|}
+
+====Fórmulas de PE====
+'''Cuando los Puntos de Esfuerzo están por debajo de 50:''' &lt;br&gt;
+&lt;math&gt;\colorbox{White}{$ \text{Multiplicador de daño por PE} = 1 + (\text{PE} / 100)$}&lt;/math&gt; &lt;br&gt;&lt;br&gt;
+'''Cuando los Puntos de Esfuerzo son 50 o más:''' &lt;br&gt;
+&lt;math&gt;\colorbox{White}{$ \text{Multiplicador de daño por PE} = 1 + \text{Min}(1, ((\text{PE} - 30)^{0.075} - 0.75 ))$}&lt;/math&gt;</text>
+    <contributor>
+      <username>Cthulhu Follower</username>
+      <id>51</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>16395</parentid>
+    <sha1>61dc32f6252191f4a00ab97490c56de1692d2a71</sha1>
+  </revision>
+  <revision>
+    <id>16395</id>
+    <timestamp>2022-07-27T18:54:34Z</timestamp>
+    <text bytes="6917" space="preserve">&lt;languages/&gt;
+[[File:Charmander_infected.png|thumb|200px|Un Charmander Variocolor en la Guardería, infectado por el Pokérus [[File:Pokerus.png|20px]]]]
+
+&lt;div class="mw-translate-fuzzy"&gt;
+==Descripción==
+El Pokérus es una forma de vida microscópica que puede infectar los Pokémon y que afectará a tu Pokémon inicial de Kanto durante la región de Sinnoh. Este virus consiste en una mecánica beneficiosa que pueden obtener los Pokémon. Tu Pokémon inicial de Kanto se infectará con el Pokérus después de completar el Mundo Distorsión por primera vez. Una vez que un Pokémon se infecta con el Pokérus, puede ganar Puntos de Esfuerzo (PE), los cuales aumentan el ataque de ese Pokémon.
+&lt;/div&gt;
+
+&lt;div class="mw-translate-fuzzy"&gt;
+==Contagiando el Pokérus==
+Sólo se puede contagiar el Pokérus a través de la [[Pokémon Day Care|Guardería Pokémon]].  Normalmente sólo Pokémon infectados con el Pokérus y que tengan la capacidad de transmitirlo pueden contagiarlo. Para ello, se debe incubar manualmente dicho Pokémon con otro Pokémon que comparta al menos un tipo con el primero. Una vez que han alcanzado el 100%, se debe manualmente eclosionar ambos huevos al mismo tiempo. En otras palabras: debes colocar tu Pokémon infectado junto con otros tres Pokémon con al menos un tipo en común con el primero en la Guardería, y mientras que el primer Pokémon no esté listo para eclosionar los demás Pokémon eclosionados (Manualmente, no cuentan los cuidadores Pokémon) se infectarán con el Pokérus.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Only Pokémon that fulfill the below conditions are capable of contracting the virus: &lt;br&gt;
+&lt;u&gt;'''''Contraction Requirements'''''&lt;/u&gt;
+#Not ready to hatch
+#Share at least one type with a Pokémon that fulfills the "Spreader Requisites"
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+If all of the above conditions are met, an uninfected Pokémon will automatically catch Pokérus upon gaining any number of egg steps. Pokémon in the Hatchery Queue will not catch Pokérus.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Pokérus States==
+There are 4 states of Pokérus as described below.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable"
+! State || Description
+|-
+| None || Base State. Pokémon can contract Pokérus. Pokémon cannot gain EVs.
+|-
+| [[File:Pokérus (infected).png|20px]] Infected || Pokémon has contracted Pokérus, but has yet to hatch once after contracting the virus. Pokémon cannot gain EVs.
+|-
+| [[File:Pokérus (contagious).png|20px]] Contagious || Pokémon has contracted Pokérus, and is capable of spreading the virus. Pokémon can gain EVs.
+|-
+| [[File:Pokérus (cured).png|20px]] Cured || Pokémon has contracted Pokérus, and is capable of spreading the virus. Pokémon can gain EVs, and has also accumulated 50 or more EVs.
+|-
+|}
+&lt;/div&gt;
+
+&lt;div class="mw-translate-fuzzy"&gt;
+==Puntos de Esfuerzo (PE)==
+Los PE son un atributo que multiplica el daño de cada Pokémon y que normalmente sólo se puede ver en la página de la Pokédex de cada Pokémon. Los PE de un Pokémon sólo pueden ser aumentados actualmente atrapando de nuevo ese Pokémon una vez que ha sido infectado con el Pokérus. Se pueden obtener PE capturando Pokémon en [[Route Statistics|Rutas]], en [[Dungeon|Mazmorras]], o a través de los [[Evolution Items|Objetos de Evolución]]. [[Breeding|Incubar]] Pokémon no otorga PE.
+&lt;/div&gt;
+
+&lt;div class="mw-translate-fuzzy"&gt;
+====Obtención de PE====
+Hay diferentes métodos para atrapar Pokémon que te otorgarán distintas cantidades de PE. Si el [[Challenge Mode|Reto de Crecimiento Lento de PE]] está activo, ganarás 10 veces menos PE.  &lt;br&gt;''Nota: Los Pokémon Variocolor atrapados reciben 5 veces más la cantidad de PE listada a continuación.''
+{| class="wikitable"
+! PE ganados || Reto de Crecimiento Lento de PE || Método de Captura
+|-
+| 0.1 || 0.01 || Pokémon en Ruta
+|-
+| 0.2 || 0.02 || Pokémon en Mazmorra
+|-
+| 1 || 0.1 || Evolucionado con Objeto
+|}
+&lt;/div&gt;
+
+====Obtención de PE====
+{| class="wikitable"
+|+ EV Yields
+! PE Ganados || Reto Crecimiento lento PE || Método de Captura
+|-
+| 0.1 || 0.01 || Pokémon en Ruta
+|-
+| 1 || 0.1 || [[Evolution Items|Objeto de Evolución]]
+|-
+| 1 || 0.1 || [[Shops|Pokémon comprado en Tienda]]
+|-
+| 1 || 0.1 || [[Safari Zone|Pokémon de Zona Safari]]
+|-
+| 0.5 || 0.05 || [[Wandering Pokemon|Pokémon Itinerante]]
+|}
+
+====Modificadores de PE====
+{| class="wikitable"
+|+ Modificadores a la obtención de PE
+! Modificador de PE || Método
+|-
+| 3x || Los Pokémon atrapados en [[Dungeons|Mazmorras]]
+|-
+| 10x || Los Pokémon atrapados como jefe de [[Dungeons|Mazmorras]]
+|-
+| 5x || Los Pokémon capturados [[Shiny Chance|Variocolor]]. 
+|-
+| 5x || Los Pokémon atrapados con una [[Repeatball|Acopioball]]
+|-
+| 50x || Los Pokémon encontrados como [[Roaming Pokemon|Errantes]] y capturados
+|-
+| Variable || [[Rowap|El Aura de Baya Magua (Rowap)]] 
+|}
+
+====Ejemplos====
+Ejemplo 1: Atrapar a un '''Pkémon variocolor en una Mazmorra''' con una [[Repeatball|Acopioball]] otorga: &lt;math&gt;3 * 5 = 15 PEs&lt;/math&gt;&lt;br&gt;&lt;br&gt;
+Ejemplo 2: Atrapar a un '''Pokémon variocolor Errante''' otorga: &lt;math&gt;5 * 50 = 250 PEs&lt;/math&gt;&lt;br&gt;&lt;br&gt;
+Ejemplo 3: Atrapar a un'''Pokémon variocolor Errante''' con una [[Repeatball|Acopioball]] otorga: &lt;math&gt;5 * 5 * 50 = 1250 PEs&lt;/math&gt;
+
+===Multiplicador de Daño por PE===
+Los PE aumentan la cantidad de daño que hace un Pokémon. Los PE pueden multiplicar el daño que hace un Pokémon hasta x2. Si un Pokémon tiene menos de 50 PE, el múltiplo de daño será 0.01 por cada EV que tenga. Es decir, hasta los 50 PE, el ataque de un Pokémon aumenta en un 1% por cada PE que tenga.
+&lt;br&gt;&lt;br&gt;
+Los Pokémon que han contraído el Pokérus y han sido incubados pasan a ser contagiosos mientras que sus PE sean inferiores a 50. Una vez que contraen 50 puntos o más pasan a estar curados. Para más información se puede visitar los [[Pokérus#Pokérus States|Estados Pokérus]].
+&lt;br&gt;&lt;br&gt;
+A partir de los 50 PE, los Pokémon seguirán ganando PE del mismo modo, pero el incremento de ataque será menor con cada PE ganado. Una vez que un Pokémon ha alcanzado un aumento de daño x2 en base a sus PE, puede seguir ganando PE pero no seguirá aumentando su ataque por este método. 
+
+{| class="wikitable"
+|+Bonus de Ataque por PS en determinados puntos
+! Puntos de Esfuerzo || Multiplicador de daño del Pokémon
+|-
+| 50 || x1.5
+|-
+| 85 || x1.6x
+|-
+| 172 || x1.7
+|-
+| 375 || x1.8
+|-
+| 824 || x1.9
+|-
+| 1770 || x2
+|}
+
+====Fórmulas de PE====
+'''Cuando los Puntos de Esfuerzo están por debajo de 50:''' &lt;br&gt;
+&lt;math&gt;\colorbox{White}{$ \text{Multiplicador de daño por PE} = 1 + (\text{PE} / 100)$}&lt;/math&gt; &lt;br&gt;&lt;br&gt;
+'''Cuando los Puntos de Esfuerzo son 50 o más:''' &lt;br&gt;
+&lt;math&gt;\colorbox{White}{$ \text{Multiplicador de daño por PE} = 1 + \text{Min}(1, ((\text{PE} - 30)^{0.075} - 0.75 ))$}&lt;/math&gt;</text>
+    <contributor>
+      <username>Cthulhu Follower</username>
+      <id>51</id>
+    </contributor>
+    <comment>Created page with "====Obtención de PE==== {| class="wikitable" |+ EV Yields ! PE Ganados || Reto Crecimiento lento PE || Método de Captura |- | 0.1 || 0.01 || Pokémon en Ruta |- | 1 || 0.1 || [[Evolution Items|Objeto de Evolución]] |- | 1 || 0.1 || [[Shops|Pokémon comprado en Tienda]] |- | 1 || 0.1 || [[Safari Zone|Pokémon de Zona Safari]] |- | 0.5 || 0.05 || [[Wandering Pokemon|Pokémon Itinerante]] |}"</comment>
+    <model>wikitext</model>
+    <parentid>16394</parentid>
+    <sha1>fc179ec3f94032520826bdaaa35145e9f55acbc0</sha1>
+  </revision>
+  <revision>
+    <id>16394</id>
+    <timestamp>2022-07-27T18:53:17Z</timestamp>
+    <text bytes="6917" space="preserve">&lt;languages/&gt;
+[[File:Charmander_infected.png|thumb|200px|Un Charmander Variocolor en la Guardería, infectado por el Pokérus [[File:Pokerus.png|20px]]]]
+
+&lt;div class="mw-translate-fuzzy"&gt;
+==Descripción==
+El Pokérus es una forma de vida microscópica que puede infectar los Pokémon y que afectará a tu Pokémon inicial de Kanto durante la región de Sinnoh. Este virus consiste en una mecánica beneficiosa que pueden obtener los Pokémon. Tu Pokémon inicial de Kanto se infectará con el Pokérus después de completar el Mundo Distorsión por primera vez. Una vez que un Pokémon se infecta con el Pokérus, puede ganar Puntos de Esfuerzo (PE), los cuales aumentan el ataque de ese Pokémon.
+&lt;/div&gt;
+
+&lt;div class="mw-translate-fuzzy"&gt;
+==Contagiando el Pokérus==
+Sólo se puede contagiar el Pokérus a través de la [[Pokémon Day Care|Guardería Pokémon]].  Normalmente sólo Pokémon infectados con el Pokérus y que tengan la capacidad de transmitirlo pueden contagiarlo. Para ello, se debe incubar manualmente dicho Pokémon con otro Pokémon que comparta al menos un tipo con el primero. Una vez que han alcanzado el 100%, se debe manualmente eclosionar ambos huevos al mismo tiempo. En otras palabras: debes colocar tu Pokémon infectado junto con otros tres Pokémon con al menos un tipo en común con el primero en la Guardería, y mientras que el primer Pokémon no esté listo para eclosionar los demás Pokémon eclosionados (Manualmente, no cuentan los cuidadores Pokémon) se infectarán con el Pokérus.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Only Pokémon that fulfill the below conditions are capable of contracting the virus: &lt;br&gt;
+&lt;u&gt;'''''Contraction Requirements'''''&lt;/u&gt;
+#Not ready to hatch
+#Share at least one type with a Pokémon that fulfills the "Spreader Requisites"
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+If all of the above conditions are met, an uninfected Pokémon will automatically catch Pokérus upon gaining any number of egg steps. Pokémon in the Hatchery Queue will not catch Pokérus.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Pokérus States==
+There are 4 states of Pokérus as described below.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable"
+! State || Description
+|-
+| None || Base State. Pokémon can contract Pokérus. Pokémon cannot gain EVs.
+|-
+| [[File:Pokérus (infected).png|20px]] Infected || Pokémon has contracted Pokérus, but has yet to hatch once after contracting the virus. Pokémon cannot gain EVs.
+|-
+| [[File:Pokérus (contagious).png|20px]] Contagious || Pokémon has contracted Pokérus, and is capable of spreading the virus. Pokémon can gain EVs.
+|-
+| [[File:Pokérus (cured).png|20px]] Cured || Pokémon has contracted Pokérus, and is capable of spreading the virus. Pokémon can gain EVs, and has also accumulated 50 or more EVs.
+|-
+|}
+&lt;/div&gt;
+
+&lt;div class="mw-translate-fuzzy"&gt;
+==Puntos de Esfuerzo (PE)==
+Los PE son un atributo que multiplica el daño de cada Pokémon y que normalmente sólo se puede ver en la página de la Pokédex de cada Pokémon. Los PE de un Pokémon sólo pueden ser aumentados actualmente atrapando de nuevo ese Pokémon una vez que ha sido infectado con el Pokérus. Se pueden obtener PE capturando Pokémon en [[Route Statistics|Rutas]], en [[Dungeon|Mazmorras]], o a través de los [[Evolution Items|Objetos de Evolución]]. [[Breeding|Incubar]] Pokémon no otorga PE.
+&lt;/div&gt;
+
+&lt;div class="mw-translate-fuzzy"&gt;
+====Obtención de PE====
+Hay diferentes métodos para atrapar Pokémon que te otorgarán distintas cantidades de PE. Si el [[Challenge Mode|Reto de Crecimiento Lento de PE]] está activo, ganarás 10 veces menos PE.  &lt;br&gt;''Nota: Los Pokémon Variocolor atrapados reciben 5 veces más la cantidad de PE listada a continuación.''
+{| class="wikitable"
+! PE ganados || Reto de Crecimiento Lento de PE || Método de Captura
+|-
+| 0.1 || 0.01 || Pokémon en Ruta
+|-
+| 0.2 || 0.02 || Pokémon en Mazmorra
+|-
+| 1 || 0.1 || Evolucionado con Objeto
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+====EV Yields====
+{| class="wikitable"
+|+ EV Yields
+! EVs gained || Slow EV Challenge || Catching Method
+|-
+| 0.1 || 0.01 || Route Pokémon
+|-
+| 1 || 0.1 || [[Evolution Items|Evolution Item]]
+|-
+| 1 || 0.1 || [[Shops|Shop bought Pokémon]]
+|-
+| 1 || 0.1 || [[Safari Zone|Safari Zone Pokémon]]
+|-
+| 0.5 || 0.05 || [[Wandering Pokemon]]
+|}
+&lt;/div&gt;
+
+====Modificadores de PE====
+{| class="wikitable"
+|+ Modificadores a la obtención de PE
+! Modificador de PE || Método
+|-
+| 3x || Los Pokémon atrapados en [[Dungeons|Mazmorras]]
+|-
+| 10x || Los Pokémon atrapados como jefe de [[Dungeons|Mazmorras]]
+|-
+| 5x || Los Pokémon capturados [[Shiny Chance|Variocolor]]. 
+|-
+| 5x || Los Pokémon atrapados con una [[Repeatball|Acopioball]]
+|-
+| 50x || Los Pokémon encontrados como [[Roaming Pokemon|Errantes]] y capturados
+|-
+| Variable || [[Rowap|El Aura de Baya Magua (Rowap)]] 
+|}
+
+====Ejemplos====
+Ejemplo 1: Atrapar a un '''Pkémon variocolor en una Mazmorra''' con una [[Repeatball|Acopioball]] otorga: &lt;math&gt;3 * 5 = 15 PEs&lt;/math&gt;&lt;br&gt;&lt;br&gt;
+Ejemplo 2: Atrapar a un '''Pokémon variocolor Errante''' otorga: &lt;math&gt;5 * 50 = 250 PEs&lt;/math&gt;&lt;br&gt;&lt;br&gt;
+Ejemplo 3: Atrapar a un'''Pokémon variocolor Errante''' con una [[Repeatball|Acopioball]] otorga: &lt;math&gt;5 * 5 * 50 = 1250 PEs&lt;/math&gt;
+
+===Multiplicador de Daño por PE===
+Los PE aumentan la cantidad de daño que hace un Pokémon. Los PE pueden multiplicar el daño que hace un Pokémon hasta x2. Si un Pokémon tiene menos de 50 PE, el múltiplo de daño será 0.01 por cada EV que tenga. Es decir, hasta los 50 PE, el ataque de un Pokémon aumenta en un 1% por cada PE que tenga.
+&lt;br&gt;&lt;br&gt;
+Los Pokémon que han contraído el Pokérus y han sido incubados pasan a ser contagiosos mientras que sus PE sean inferiores a 50. Una vez que contraen 50 puntos o más pasan a estar curados. Para más información se puede visitar los [[Pokérus#Pokérus States|Estados Pokérus]].
+&lt;br&gt;&lt;br&gt;
+A partir de los 50 PE, los Pokémon seguirán ganando PE del mismo modo, pero el incremento de ataque será menor con cada PE ganado. Una vez que un Pokémon ha alcanzado un aumento de daño x2 en base a sus PE, puede seguir ganando PE pero no seguirá aumentando su ataque por este método. 
+
+{| class="wikitable"
+|+Bonus de Ataque por PS en determinados puntos
+! Puntos de Esfuerzo || Multiplicador de daño del Pokémon
+|-
+| 50 || x1.5
+|-
+| 85 || x1.6x
+|-
+| 172 || x1.7
+|-
+| 375 || x1.8
+|-
+| 824 || x1.9
+|-
+| 1770 || x2
+|}
+
+====Fórmulas de PE====
+'''Cuando los Puntos de Esfuerzo están por debajo de 50:''' &lt;br&gt;
+&lt;math&gt;\colorbox{White}{$ \text{Multiplicador de daño por PE} = 1 + (\text{PE} / 100)$}&lt;/math&gt; &lt;br&gt;&lt;br&gt;
+'''Cuando los Puntos de Esfuerzo son 50 o más:''' &lt;br&gt;
+&lt;math&gt;\colorbox{White}{$ \text{Multiplicador de daño por PE} = 1 + \text{Min}(1, ((\text{PE} - 30)^{0.075} - 0.75 ))$}&lt;/math&gt;</text>
+    <contributor>
+      <username>Cthulhu Follower</username>
+      <id>51</id>
+    </contributor>
+    <comment>Created page with "====Modificadores de PE==== {| class="wikitable" |+ Modificadores a la obtención de PE ! Modificador de PE || Método |- | 3x || Los Pokémon atrapados en [[Dungeons|Mazmorras]] |- | 10x || Los Pokémon atrapados como jefe de [[Dungeons|Mazmorras]] |- | 5x || Los Pokémon capturados [[Shiny Chance|Variocolor]].  |- | 5x || Los Pokémon atrapados con una [[Repeatball|Acopioball]] |- | 50x || Los Pokémon encontrados como [[Roaming Pokemon|Errantes]] y capturados |- | Var..."</comment>
+    <model>wikitext</model>
+    <parentid>16393</parentid>
+    <sha1>f152066f43a96b7d7a23f7f533dadeb61bbf7d88</sha1>
+  </revision>
+  <revision>
+    <id>16393</id>
+    <timestamp>2022-07-27T18:49:10Z</timestamp>
+    <text bytes="6939" space="preserve">&lt;languages/&gt;
+[[File:Charmander_infected.png|thumb|200px|Un Charmander Variocolor en la Guardería, infectado por el Pokérus [[File:Pokerus.png|20px]]]]
+
+&lt;div class="mw-translate-fuzzy"&gt;
+==Descripción==
+El Pokérus es una forma de vida microscópica que puede infectar los Pokémon y que afectará a tu Pokémon inicial de Kanto durante la región de Sinnoh. Este virus consiste en una mecánica beneficiosa que pueden obtener los Pokémon. Tu Pokémon inicial de Kanto se infectará con el Pokérus después de completar el Mundo Distorsión por primera vez. Una vez que un Pokémon se infecta con el Pokérus, puede ganar Puntos de Esfuerzo (PE), los cuales aumentan el ataque de ese Pokémon.
+&lt;/div&gt;
+
+&lt;div class="mw-translate-fuzzy"&gt;
+==Contagiando el Pokérus==
+Sólo se puede contagiar el Pokérus a través de la [[Pokémon Day Care|Guardería Pokémon]].  Normalmente sólo Pokémon infectados con el Pokérus y que tengan la capacidad de transmitirlo pueden contagiarlo. Para ello, se debe incubar manualmente dicho Pokémon con otro Pokémon que comparta al menos un tipo con el primero. Una vez que han alcanzado el 100%, se debe manualmente eclosionar ambos huevos al mismo tiempo. En otras palabras: debes colocar tu Pokémon infectado junto con otros tres Pokémon con al menos un tipo en común con el primero en la Guardería, y mientras que el primer Pokémon no esté listo para eclosionar los demás Pokémon eclosionados (Manualmente, no cuentan los cuidadores Pokémon) se infectarán con el Pokérus.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Only Pokémon that fulfill the below conditions are capable of contracting the virus: &lt;br&gt;
+&lt;u&gt;'''''Contraction Requirements'''''&lt;/u&gt;
+#Not ready to hatch
+#Share at least one type with a Pokémon that fulfills the "Spreader Requisites"
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+If all of the above conditions are met, an uninfected Pokémon will automatically catch Pokérus upon gaining any number of egg steps. Pokémon in the Hatchery Queue will not catch Pokérus.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Pokérus States==
+There are 4 states of Pokérus as described below.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable"
+! State || Description
+|-
+| None || Base State. Pokémon can contract Pokérus. Pokémon cannot gain EVs.
+|-
+| [[File:Pokérus (infected).png|20px]] Infected || Pokémon has contracted Pokérus, but has yet to hatch once after contracting the virus. Pokémon cannot gain EVs.
+|-
+| [[File:Pokérus (contagious).png|20px]] Contagious || Pokémon has contracted Pokérus, and is capable of spreading the virus. Pokémon can gain EVs.
+|-
+| [[File:Pokérus (cured).png|20px]] Cured || Pokémon has contracted Pokérus, and is capable of spreading the virus. Pokémon can gain EVs, and has also accumulated 50 or more EVs.
+|-
+|}
+&lt;/div&gt;
+
+&lt;div class="mw-translate-fuzzy"&gt;
+==Puntos de Esfuerzo (PE)==
+Los PE son un atributo que multiplica el daño de cada Pokémon y que normalmente sólo se puede ver en la página de la Pokédex de cada Pokémon. Los PE de un Pokémon sólo pueden ser aumentados actualmente atrapando de nuevo ese Pokémon una vez que ha sido infectado con el Pokérus. Se pueden obtener PE capturando Pokémon en [[Route Statistics|Rutas]], en [[Dungeon|Mazmorras]], o a través de los [[Evolution Items|Objetos de Evolución]]. [[Breeding|Incubar]] Pokémon no otorga PE.
+&lt;/div&gt;
+
+&lt;div class="mw-translate-fuzzy"&gt;
+====Obtención de PE====
+Hay diferentes métodos para atrapar Pokémon que te otorgarán distintas cantidades de PE. Si el [[Challenge Mode|Reto de Crecimiento Lento de PE]] está activo, ganarás 10 veces menos PE.  &lt;br&gt;''Nota: Los Pokémon Variocolor atrapados reciben 5 veces más la cantidad de PE listada a continuación.''
+{| class="wikitable"
+! PE ganados || Reto de Crecimiento Lento de PE || Método de Captura
+|-
+| 0.1 || 0.01 || Pokémon en Ruta
+|-
+| 0.2 || 0.02 || Pokémon en Mazmorra
+|-
+| 1 || 0.1 || Evolucionado con Objeto
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+====EV Yields====
+{| class="wikitable"
+|+ EV Yields
+! EVs gained || Slow EV Challenge || Catching Method
+|-
+| 0.1 || 0.01 || Route Pokémon
+|-
+| 1 || 0.1 || [[Evolution Items|Evolution Item]]
+|-
+| 1 || 0.1 || [[Shops|Shop bought Pokémon]]
+|-
+| 1 || 0.1 || [[Safari Zone|Safari Zone Pokémon]]
+|-
+| 0.5 || 0.05 || [[Wandering Pokemon]]
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+====EV Modifiers====
+{| class="wikitable"
+|+ EV Yield Modifiers
+! EV Modifier || Method
+|-
+| 3x || Pokémon is encountered and captured as a [[Dungeons|Dungeon Pokémon]]
+|-
+| 10x || Pokémon is encountered and captured as a [[Dungeons|Dungeon Boss Pokémon]]
+|-
+| 5x || Obtained Pokémon is [[Shiny Chance|Shiny]]. 
+|-
+| 5x || Pokémon is obtained using a [[Repeatball]]
+|-
+| 50x || Pokémon is encountered and captured as a [[Roaming Pokemon]]
+|-
+| Variable || [[Rowap|Rowap Berry Aura]] 
+|}
+&lt;/div&gt;
+
+====Ejemplos====
+Ejemplo 1: Atrapar a un '''Pkémon variocolor en una Mazmorra''' con una [[Repeatball|Acopioball]] otorga: &lt;math&gt;3 * 5 = 15 PEs&lt;/math&gt;&lt;br&gt;&lt;br&gt;
+Ejemplo 2: Atrapar a un '''Pokémon variocolor Errante''' otorga: &lt;math&gt;5 * 50 = 250 PEs&lt;/math&gt;&lt;br&gt;&lt;br&gt;
+Ejemplo 3: Atrapar a un'''Pokémon variocolor Errante''' con una [[Repeatball|Acopioball]] otorga: &lt;math&gt;5 * 5 * 50 = 1250 PEs&lt;/math&gt;
+
+===Multiplicador de Daño por PE===
+Los PE aumentan la cantidad de daño que hace un Pokémon. Los PE pueden multiplicar el daño que hace un Pokémon hasta x2. Si un Pokémon tiene menos de 50 PE, el múltiplo de daño será 0.01 por cada EV que tenga. Es decir, hasta los 50 PE, el ataque de un Pokémon aumenta en un 1% por cada PE que tenga.
+&lt;br&gt;&lt;br&gt;
+Los Pokémon que han contraído el Pokérus y han sido incubados pasan a ser contagiosos mientras que sus PE sean inferiores a 50. Una vez que contraen 50 puntos o más pasan a estar curados. Para más información se puede visitar los [[Pokérus#Pokérus States|Estados Pokérus]].
+&lt;br&gt;&lt;br&gt;
+A partir de los 50 PE, los Pokémon seguirán ganando PE del mismo modo, pero el incremento de ataque será menor con cada PE ganado. Una vez que un Pokémon ha alcanzado un aumento de daño x2 en base a sus PE, puede seguir ganando PE pero no seguirá aumentando su ataque por este método. 
+
+{| class="wikitable"
+|+Bonus de Ataque por PS en determinados puntos
+! Puntos de Esfuerzo || Multiplicador de daño del Pokémon
+|-
+| 50 || x1.5
+|-
+| 85 || x1.6x
+|-
+| 172 || x1.7
+|-
+| 375 || x1.8
+|-
+| 824 || x1.9
+|-
+| 1770 || x2
+|}
+
+====Fórmulas de PE====
+'''Cuando los Puntos de Esfuerzo están por debajo de 50:''' &lt;br&gt;
+&lt;math&gt;\colorbox{White}{$ \text{Multiplicador de daño por PE} = 1 + (\text{PE} / 100)$}&lt;/math&gt; &lt;br&gt;&lt;br&gt;
+'''Cuando los Puntos de Esfuerzo son 50 o más:''' &lt;br&gt;
+&lt;math&gt;\colorbox{White}{$ \text{Multiplicador de daño por PE} = 1 + \text{Min}(1, ((\text{PE} - 30)^{0.075} - 0.75 ))$}&lt;/math&gt;</text>
+    <contributor>
+      <username>Cthulhu Follower</username>
+      <id>51</id>
+    </contributor>
+    <comment>Created page with "====Ejemplos==== Ejemplo 1: Atrapar a un '''Pkémon variocolor en una Mazmorra''' con una [[Repeatball|Acopioball]] otorga: &lt;math&gt;3 * 5 = 15 PEs&lt;/math&gt;&lt;br&gt;&lt;br&gt; Ejemplo 2: Atrapar a un '''Pokémon variocolor Errante''' otorga: &lt;math&gt;5 * 50 = 250 PEs&lt;/math&gt;&lt;br&gt;&lt;br&gt; Ejemplo 3: Atrapar a un'''Pokémon variocolor Errante''' con una [[Repeatball|Acopioball]] otorga: &lt;math&gt;5 * 5 * 50 = 1250 PEs&lt;/math&gt;"</comment>
+    <model>wikitext</model>
+    <parentid>16392</parentid>
+    <sha1>3faacc759eac8da24218fbb7a68765e41c87837e</sha1>
+  </revision>
+  <revision>
+    <id>16392</id>
+    <timestamp>2022-07-27T18:45:52Z</timestamp>
+    <text bytes="6944" space="preserve">&lt;languages/&gt;
+[[File:Charmander_infected.png|thumb|200px|Un Charmander Variocolor en la Guardería, infectado por el Pokérus [[File:Pokerus.png|20px]]]]
+
+&lt;div class="mw-translate-fuzzy"&gt;
+==Descripción==
+El Pokérus es una forma de vida microscópica que puede infectar los Pokémon y que afectará a tu Pokémon inicial de Kanto durante la región de Sinnoh. Este virus consiste en una mecánica beneficiosa que pueden obtener los Pokémon. Tu Pokémon inicial de Kanto se infectará con el Pokérus después de completar el Mundo Distorsión por primera vez. Una vez que un Pokémon se infecta con el Pokérus, puede ganar Puntos de Esfuerzo (PE), los cuales aumentan el ataque de ese Pokémon.
+&lt;/div&gt;
+
+&lt;div class="mw-translate-fuzzy"&gt;
+==Contagiando el Pokérus==
+Sólo se puede contagiar el Pokérus a través de la [[Pokémon Day Care|Guardería Pokémon]].  Normalmente sólo Pokémon infectados con el Pokérus y que tengan la capacidad de transmitirlo pueden contagiarlo. Para ello, se debe incubar manualmente dicho Pokémon con otro Pokémon que comparta al menos un tipo con el primero. Una vez que han alcanzado el 100%, se debe manualmente eclosionar ambos huevos al mismo tiempo. En otras palabras: debes colocar tu Pokémon infectado junto con otros tres Pokémon con al menos un tipo en común con el primero en la Guardería, y mientras que el primer Pokémon no esté listo para eclosionar los demás Pokémon eclosionados (Manualmente, no cuentan los cuidadores Pokémon) se infectarán con el Pokérus.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Only Pokémon that fulfill the below conditions are capable of contracting the virus: &lt;br&gt;
+&lt;u&gt;'''''Contraction Requirements'''''&lt;/u&gt;
+#Not ready to hatch
+#Share at least one type with a Pokémon that fulfills the "Spreader Requisites"
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+If all of the above conditions are met, an uninfected Pokémon will automatically catch Pokérus upon gaining any number of egg steps. Pokémon in the Hatchery Queue will not catch Pokérus.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Pokérus States==
+There are 4 states of Pokérus as described below.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable"
+! State || Description
+|-
+| None || Base State. Pokémon can contract Pokérus. Pokémon cannot gain EVs.
+|-
+| [[File:Pokérus (infected).png|20px]] Infected || Pokémon has contracted Pokérus, but has yet to hatch once after contracting the virus. Pokémon cannot gain EVs.
+|-
+| [[File:Pokérus (contagious).png|20px]] Contagious || Pokémon has contracted Pokérus, and is capable of spreading the virus. Pokémon can gain EVs.
+|-
+| [[File:Pokérus (cured).png|20px]] Cured || Pokémon has contracted Pokérus, and is capable of spreading the virus. Pokémon can gain EVs, and has also accumulated 50 or more EVs.
+|-
+|}
+&lt;/div&gt;
+
+&lt;div class="mw-translate-fuzzy"&gt;
+==Puntos de Esfuerzo (PE)==
+Los PE son un atributo que multiplica el daño de cada Pokémon y que normalmente sólo se puede ver en la página de la Pokédex de cada Pokémon. Los PE de un Pokémon sólo pueden ser aumentados actualmente atrapando de nuevo ese Pokémon una vez que ha sido infectado con el Pokérus. Se pueden obtener PE capturando Pokémon en [[Route Statistics|Rutas]], en [[Dungeon|Mazmorras]], o a través de los [[Evolution Items|Objetos de Evolución]]. [[Breeding|Incubar]] Pokémon no otorga PE.
+&lt;/div&gt;
+
+&lt;div class="mw-translate-fuzzy"&gt;
+====Obtención de PE====
+Hay diferentes métodos para atrapar Pokémon que te otorgarán distintas cantidades de PE. Si el [[Challenge Mode|Reto de Crecimiento Lento de PE]] está activo, ganarás 10 veces menos PE.  &lt;br&gt;''Nota: Los Pokémon Variocolor atrapados reciben 5 veces más la cantidad de PE listada a continuación.''
+{| class="wikitable"
+! PE ganados || Reto de Crecimiento Lento de PE || Método de Captura
+|-
+| 0.1 || 0.01 || Pokémon en Ruta
+|-
+| 0.2 || 0.02 || Pokémon en Mazmorra
+|-
+| 1 || 0.1 || Evolucionado con Objeto
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+====EV Yields====
+{| class="wikitable"
+|+ EV Yields
+! EVs gained || Slow EV Challenge || Catching Method
+|-
+| 0.1 || 0.01 || Route Pokémon
+|-
+| 1 || 0.1 || [[Evolution Items|Evolution Item]]
+|-
+| 1 || 0.1 || [[Shops|Shop bought Pokémon]]
+|-
+| 1 || 0.1 || [[Safari Zone|Safari Zone Pokémon]]
+|-
+| 0.5 || 0.05 || [[Wandering Pokemon]]
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+====EV Modifiers====
+{| class="wikitable"
+|+ EV Yield Modifiers
+! EV Modifier || Method
+|-
+| 3x || Pokémon is encountered and captured as a [[Dungeons|Dungeon Pokémon]]
+|-
+| 10x || Pokémon is encountered and captured as a [[Dungeons|Dungeon Boss Pokémon]]
+|-
+| 5x || Obtained Pokémon is [[Shiny Chance|Shiny]]. 
+|-
+| 5x || Pokémon is obtained using a [[Repeatball]]
+|-
+| 50x || Pokémon is encountered and captured as a [[Roaming Pokemon]]
+|-
+| Variable || [[Rowap|Rowap Berry Aura]] 
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+====Examples====
+Example 1: Catching a '''Shiny Dungeon Pokémon''' with a [[Repeatball]] yields: &lt;math&gt;3 * 5 = 15 EVs&lt;/math&gt;&lt;br&gt;&lt;br&gt;
+Example 2: Catching a '''Shiny Roaming Pokémon''' yields: &lt;math&gt;5 * 50 = 250 EVs&lt;/math&gt;&lt;br&gt;&lt;br&gt;
+Example 3: Catching a '''Shiny Roaming Pokémon''' with a [[Repeatball]] yields: &lt;math&gt;5 * 5 * 50 = 1250 EVs&lt;/math&gt;
+&lt;/div&gt;
+
+===Multiplicador de Daño por PE===
+Los PE aumentan la cantidad de daño que hace un Pokémon. Los PE pueden multiplicar el daño que hace un Pokémon hasta x2. Si un Pokémon tiene menos de 50 PE, el múltiplo de daño será 0.01 por cada EV que tenga. Es decir, hasta los 50 PE, el ataque de un Pokémon aumenta en un 1% por cada PE que tenga.
+&lt;br&gt;&lt;br&gt;
+Los Pokémon que han contraído el Pokérus y han sido incubados pasan a ser contagiosos mientras que sus PE sean inferiores a 50. Una vez que contraen 50 puntos o más pasan a estar curados. Para más información se puede visitar los [[Pokérus#Pokérus States|Estados Pokérus]].
+&lt;br&gt;&lt;br&gt;
+A partir de los 50 PE, los Pokémon seguirán ganando PE del mismo modo, pero el incremento de ataque será menor con cada PE ganado. Una vez que un Pokémon ha alcanzado un aumento de daño x2 en base a sus PE, puede seguir ganando PE pero no seguirá aumentando su ataque por este método. 
+
+{| class="wikitable"
+|+Bonus de Ataque por PS en determinados puntos
+! Puntos de Esfuerzo || Multiplicador de daño del Pokémon
+|-
+| 50 || x1.5
+|-
+| 85 || x1.6x
+|-
+| 172 || x1.7
+|-
+| 375 || x1.8
+|-
+| 824 || x1.9
+|-
+| 1770 || x2
+|}
+
+====Fórmulas de PE====
+'''Cuando los Puntos de Esfuerzo están por debajo de 50:''' &lt;br&gt;
+&lt;math&gt;\colorbox{White}{$ \text{Multiplicador de daño por PE} = 1 + (\text{PE} / 100)$}&lt;/math&gt; &lt;br&gt;&lt;br&gt;
+'''Cuando los Puntos de Esfuerzo son 50 o más:''' &lt;br&gt;
+&lt;math&gt;\colorbox{White}{$ \text{Multiplicador de daño por PE} = 1 + \text{Min}(1, ((\text{PE} - 30)^{0.075} - 0.75 ))$}&lt;/math&gt;</text>
+    <contributor>
+      <username>Cthulhu Follower</username>
+      <id>51</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>16391</parentid>
+    <sha1>a3291bb50cd7310801db9548f72143740a5d9921</sha1>
+  </revision>
+  <revision>
+    <id>16391</id>
+    <timestamp>2022-07-27T18:21:48Z</timestamp>
+    <text bytes="6577" space="preserve">&lt;languages/&gt;
+[[File:Charmander_infected.png|thumb|200px|Un Charmander Variocolor en la Guardería, infectado por el Pokérus [[File:Pokerus.png|20px]]]]
+
+&lt;div class="mw-translate-fuzzy"&gt;
+==Descripción==
+El Pokérus es una forma de vida microscópica que puede infectar los Pokémon y que afectará a tu Pokémon inicial de Kanto durante la región de Sinnoh. Este virus consiste en una mecánica beneficiosa que pueden obtener los Pokémon. Tu Pokémon inicial de Kanto se infectará con el Pokérus después de completar el Mundo Distorsión por primera vez. Una vez que un Pokémon se infecta con el Pokérus, puede ganar Puntos de Esfuerzo (PE), los cuales aumentan el ataque de ese Pokémon.
+&lt;/div&gt;
+
+&lt;div class="mw-translate-fuzzy"&gt;
+==Contagiando el Pokérus==
+Sólo se puede contagiar el Pokérus a través de la [[Pokémon Day Care|Guardería Pokémon]].  Normalmente sólo Pokémon infectados con el Pokérus y que tengan la capacidad de transmitirlo pueden contagiarlo. Para ello, se debe incubar manualmente dicho Pokémon con otro Pokémon que comparta al menos un tipo con el primero. Una vez que han alcanzado el 100%, se debe manualmente eclosionar ambos huevos al mismo tiempo. En otras palabras: debes colocar tu Pokémon infectado junto con otros tres Pokémon con al menos un tipo en común con el primero en la Guardería, y mientras que el primer Pokémon no esté listo para eclosionar los demás Pokémon eclosionados (Manualmente, no cuentan los cuidadores Pokémon) se infectarán con el Pokérus.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Only Pokémon that fulfill the below conditions are capable of contracting the virus: &lt;br&gt;
+&lt;u&gt;'''''Contraction Requirements'''''&lt;/u&gt;
+#Not ready to hatch
+#Share at least one type with a Pokémon that fulfills the "Spreader Requisites"
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+If all of the above conditions are met, an uninfected Pokémon will automatically catch Pokérus upon gaining any number of egg steps. Pokémon in the Hatchery Queue will not catch Pokérus.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Pokérus States==
+There are 4 states of Pokérus as described below.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable"
+! State || Description
+|-
+| None || Base State. Pokémon can contract Pokérus. Pokémon cannot gain EVs.
+|-
+| [[File:Pokérus (infected).png|20px]] Infected || Pokémon has contracted Pokérus, but has yet to hatch once after contracting the virus. Pokémon cannot gain EVs.
+|-
+| [[File:Pokérus (contagious).png|20px]] Contagious || Pokémon has contracted Pokérus, and is capable of spreading the virus. Pokémon can gain EVs.
+|-
+| [[File:Pokérus (cured).png|20px]] Cured || Pokémon has contracted Pokérus, and is capable of spreading the virus. Pokémon can gain EVs, and has also accumulated 50 or more EVs.
+|-
+|}
+&lt;/div&gt;
+
+&lt;div class="mw-translate-fuzzy"&gt;
+==Puntos de Esfuerzo (PE)==
+Los PE son un atributo que multiplica el daño de cada Pokémon y que normalmente sólo se puede ver en la página de la Pokédex de cada Pokémon. Los PE de un Pokémon sólo pueden ser aumentados actualmente atrapando de nuevo ese Pokémon una vez que ha sido infectado con el Pokérus. Se pueden obtener PE capturando Pokémon en [[Route Statistics|Rutas]], en [[Dungeon|Mazmorras]], o a través de los [[Evolution Items|Objetos de Evolución]]. [[Breeding|Incubar]] Pokémon no otorga PE.
+&lt;/div&gt;
+
+&lt;div class="mw-translate-fuzzy"&gt;
+====Obtención de PE====
+Hay diferentes métodos para atrapar Pokémon que te otorgarán distintas cantidades de PE. Si el [[Challenge Mode|Reto de Crecimiento Lento de PE]] está activo, ganarás 10 veces menos PE.  &lt;br&gt;''Nota: Los Pokémon Variocolor atrapados reciben 5 veces más la cantidad de PE listada a continuación.''
+{| class="wikitable"
+! PE ganados || Reto de Crecimiento Lento de PE || Método de Captura
+|-
+| 0.1 || 0.01 || Pokémon en Ruta
+|-
+| 0.2 || 0.02 || Pokémon en Mazmorra
+|-
+| 1 || 0.1 || Evolucionado con Objeto
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+====EV Yields====
+{| class="wikitable"
+|+ EV Yields
+! EVs gained || Slow EV Challenge || Catching Method
+|-
+| 0.1 || 0.01 || Route Pokémon
+|-
+| 1 || 0.1 || [[Evolution Items|Evolution Item]]
+|-
+| 1 || 0.1 || [[Shops|Shop bought Pokémon]]
+|-
+| 1 || 0.1 || [[Safari Zone|Safari Zone Pokémon]]
+|-
+| 0.5 || 0.05 || [[Wandering Pokemon]]
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+====EV Modifiers====
+{| class="wikitable"
+|+ EV Yield Modifiers
+! EV Modifier || Method
+|-
+| 3x || Pokémon is encountered and captured as a [[Dungeons|Dungeon Pokémon]]
+|-
+| 10x || Pokémon is encountered and captured as a [[Dungeons|Dungeon Boss Pokémon]]
+|-
+| 5x || Obtained Pokémon is [[Shiny Chance|Shiny]]. 
+|-
+| 5x || Pokémon is obtained using a [[Repeatball]]
+|-
+| 50x || Pokémon is encountered and captured as a [[Roaming Pokemon]]
+|-
+| Variable || [[Rowap|Rowap Berry Aura]] 
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+====Examples====
+Example 1: Catching a '''Shiny Dungeon Pokémon''' with a [[Repeatball]] yields: &lt;math&gt;3 * 5 = 15 EVs&lt;/math&gt;&lt;br&gt;&lt;br&gt;
+Example 2: Catching a '''Shiny Roaming Pokémon''' yields: &lt;math&gt;5 * 50 = 250 EVs&lt;/math&gt;&lt;br&gt;&lt;br&gt;
+Example 3: Catching a '''Shiny Roaming Pokémon''' with a [[Repeatball]] yields: &lt;math&gt;5 * 5 * 50 = 1250 EVs&lt;/math&gt;
+&lt;/div&gt;
+
+&lt;div class="mw-translate-fuzzy"&gt;
+====Multiplicador de daño por PE====
+Los PE mejoran al jugador incrementando la cantidad de daño que hace un Pokémon. Los PE pueden multiplicar el daño de un pokemon hasta x2. Si sus PE están por debajo de 50, el Pokémon gana 1% de daño extra por cada PE (Ejemplo: Con 5 Puntos de Esfuerzo tienes un multiplicador de x1,05 para ese Pokémon)
+{| class="wikitable"
+! Puntos de Esfuerzo || Multiplicador de daño del Pokémon
+|-
+| 50 || 1.5x
+|-
+| 85 || 1.6x
+|-
+| 172 || 1.7x
+|-
+| 375 || 1.8x
+|-
+| 824 || 1.9x
+|-
+| 1770 || 2x
+|}
+&lt;/div&gt; 
+
+{| class="wikitable"
+|+Bonus de Ataque por PS en determinados puntos
+! Puntos de Esfuerzo || Multiplicador de daño del Pokémon
+|-
+| 50 || x1.5
+|-
+| 85 || x1.6x
+|-
+| 172 || x1.7
+|-
+| 375 || x1.8
+|-
+| 824 || x1.9
+|-
+| 1770 || x2
+|}
+
+====Fórmulas de PE====
+'''Cuando los Puntos de Esfuerzo están por debajo de 50:''' &lt;br&gt;
+&lt;math&gt;\colorbox{White}{$ \text{Multiplicador de daño por PE} = 1 + (\text{PE} / 100)$}&lt;/math&gt; &lt;br&gt;&lt;br&gt;
+'''Cuando los Puntos de Esfuerzo son 50 o más:''' &lt;br&gt;
+&lt;math&gt;\colorbox{White}{$ \text{Multiplicador de daño por PE} = 1 + \text{Min}(1, ((\text{PE} - 30)^{0.075} - 0.75 ))$}&lt;/math&gt;</text>
+    <contributor>
+      <username>Cthulhu Follower</username>
+      <id>51</id>
+    </contributor>
+    <comment>Created page with "{| class="wikitable" |+Bonus de Ataque por PS en determinados puntos ! Puntos de Esfuerzo || Multiplicador de daño del Pokémon |- | 50 || x1.5 |- | 85 || x1.6x |- | 172 || x1.7 |- | 375 || x1.8 |- | 824 || x1.9 |- | 1770 || x2 |}"</comment>
+    <model>wikitext</model>
+    <parentid>16390</parentid>
+    <sha1>99c647bd7ba17400ba76b1cfb3e15bc90439262a</sha1>
+  </revision>
+  <revision>
+    <id>16390</id>
+    <timestamp>2022-07-27T18:14:01Z</timestamp>
+    <text bytes="6609" space="preserve">&lt;languages/&gt;
+[[File:Charmander_infected.png|thumb|200px|Un Charmander Variocolor en la Guardería, infectado por el Pokérus [[File:Pokerus.png|20px]]]]
+
+&lt;div class="mw-translate-fuzzy"&gt;
+==Descripción==
+El Pokérus es una forma de vida microscópica que puede infectar los Pokémon y que afectará a tu Pokémon inicial de Kanto durante la región de Sinnoh. Este virus consiste en una mecánica beneficiosa que pueden obtener los Pokémon. Tu Pokémon inicial de Kanto se infectará con el Pokérus después de completar el Mundo Distorsión por primera vez. Una vez que un Pokémon se infecta con el Pokérus, puede ganar Puntos de Esfuerzo (PE), los cuales aumentan el ataque de ese Pokémon.
+&lt;/div&gt;
+
+&lt;div class="mw-translate-fuzzy"&gt;
+==Contagiando el Pokérus==
+Sólo se puede contagiar el Pokérus a través de la [[Pokémon Day Care|Guardería Pokémon]].  Normalmente sólo Pokémon infectados con el Pokérus y que tengan la capacidad de transmitirlo pueden contagiarlo. Para ello, se debe incubar manualmente dicho Pokémon con otro Pokémon que comparta al menos un tipo con el primero. Una vez que han alcanzado el 100%, se debe manualmente eclosionar ambos huevos al mismo tiempo. En otras palabras: debes colocar tu Pokémon infectado junto con otros tres Pokémon con al menos un tipo en común con el primero en la Guardería, y mientras que el primer Pokémon no esté listo para eclosionar los demás Pokémon eclosionados (Manualmente, no cuentan los cuidadores Pokémon) se infectarán con el Pokérus.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Only Pokémon that fulfill the below conditions are capable of contracting the virus: &lt;br&gt;
+&lt;u&gt;'''''Contraction Requirements'''''&lt;/u&gt;
+#Not ready to hatch
+#Share at least one type with a Pokémon that fulfills the "Spreader Requisites"
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+If all of the above conditions are met, an uninfected Pokémon will automatically catch Pokérus upon gaining any number of egg steps. Pokémon in the Hatchery Queue will not catch Pokérus.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Pokérus States==
+There are 4 states of Pokérus as described below.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable"
+! State || Description
+|-
+| None || Base State. Pokémon can contract Pokérus. Pokémon cannot gain EVs.
+|-
+| [[File:Pokérus (infected).png|20px]] Infected || Pokémon has contracted Pokérus, but has yet to hatch once after contracting the virus. Pokémon cannot gain EVs.
+|-
+| [[File:Pokérus (contagious).png|20px]] Contagious || Pokémon has contracted Pokérus, and is capable of spreading the virus. Pokémon can gain EVs.
+|-
+| [[File:Pokérus (cured).png|20px]] Cured || Pokémon has contracted Pokérus, and is capable of spreading the virus. Pokémon can gain EVs, and has also accumulated 50 or more EVs.
+|-
+|}
+&lt;/div&gt;
+
+&lt;div class="mw-translate-fuzzy"&gt;
+==Puntos de Esfuerzo (PE)==
+Los PE son un atributo que multiplica el daño de cada Pokémon y que normalmente sólo se puede ver en la página de la Pokédex de cada Pokémon. Los PE de un Pokémon sólo pueden ser aumentados actualmente atrapando de nuevo ese Pokémon una vez que ha sido infectado con el Pokérus. Se pueden obtener PE capturando Pokémon en [[Route Statistics|Rutas]], en [[Dungeon|Mazmorras]], o a través de los [[Evolution Items|Objetos de Evolución]]. [[Breeding|Incubar]] Pokémon no otorga PE.
+&lt;/div&gt;
+
+&lt;div class="mw-translate-fuzzy"&gt;
+====Obtención de PE====
+Hay diferentes métodos para atrapar Pokémon que te otorgarán distintas cantidades de PE. Si el [[Challenge Mode|Reto de Crecimiento Lento de PE]] está activo, ganarás 10 veces menos PE.  &lt;br&gt;''Nota: Los Pokémon Variocolor atrapados reciben 5 veces más la cantidad de PE listada a continuación.''
+{| class="wikitable"
+! PE ganados || Reto de Crecimiento Lento de PE || Método de Captura
+|-
+| 0.1 || 0.01 || Pokémon en Ruta
+|-
+| 0.2 || 0.02 || Pokémon en Mazmorra
+|-
+| 1 || 0.1 || Evolucionado con Objeto
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+====EV Yields====
+{| class="wikitable"
+|+ EV Yields
+! EVs gained || Slow EV Challenge || Catching Method
+|-
+| 0.1 || 0.01 || Route Pokémon
+|-
+| 1 || 0.1 || [[Evolution Items|Evolution Item]]
+|-
+| 1 || 0.1 || [[Shops|Shop bought Pokémon]]
+|-
+| 1 || 0.1 || [[Safari Zone|Safari Zone Pokémon]]
+|-
+| 0.5 || 0.05 || [[Wandering Pokemon]]
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+====EV Modifiers====
+{| class="wikitable"
+|+ EV Yield Modifiers
+! EV Modifier || Method
+|-
+| 3x || Pokémon is encountered and captured as a [[Dungeons|Dungeon Pokémon]]
+|-
+| 10x || Pokémon is encountered and captured as a [[Dungeons|Dungeon Boss Pokémon]]
+|-
+| 5x || Obtained Pokémon is [[Shiny Chance|Shiny]]. 
+|-
+| 5x || Pokémon is obtained using a [[Repeatball]]
+|-
+| 50x || Pokémon is encountered and captured as a [[Roaming Pokemon]]
+|-
+| Variable || [[Rowap|Rowap Berry Aura]] 
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+====Examples====
+Example 1: Catching a '''Shiny Dungeon Pokémon''' with a [[Repeatball]] yields: &lt;math&gt;3 * 5 = 15 EVs&lt;/math&gt;&lt;br&gt;&lt;br&gt;
+Example 2: Catching a '''Shiny Roaming Pokémon''' yields: &lt;math&gt;5 * 50 = 250 EVs&lt;/math&gt;&lt;br&gt;&lt;br&gt;
+Example 3: Catching a '''Shiny Roaming Pokémon''' with a [[Repeatball]] yields: &lt;math&gt;5 * 5 * 50 = 1250 EVs&lt;/math&gt;
+&lt;/div&gt;
+
+&lt;div class="mw-translate-fuzzy"&gt;
+====Multiplicador de daño por PE====
+Los PE mejoran al jugador incrementando la cantidad de daño que hace un Pokémon. Los PE pueden multiplicar el daño de un pokemon hasta x2. Si sus PE están por debajo de 50, el Pokémon gana 1% de daño extra por cada PE (Ejemplo: Con 5 Puntos de Esfuerzo tienes un multiplicador de x1,05 para ese Pokémon)
+{| class="wikitable"
+! Puntos de Esfuerzo || Multiplicador de daño del Pokémon
+|-
+| 50 || 1.5x
+|-
+| 85 || 1.6x
+|-
+| 172 || 1.7x
+|-
+| 375 || 1.8x
+|-
+| 824 || 1.9x
+|-
+| 1770 || 2x
+|}
+&lt;/div&gt; 
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable"
+|+EV Attack Bonus at certain benchmarks
+! Effort Value || Pokémon Damage Multiplier
+|-
+| 50 || 1.5x
+|-
+| 85 || 1.6x
+|-
+| 172 || 1.7x
+|-
+| 375 || 1.8x
+|-
+| 824 || 1.9x
+|-
+| 1770 || 2x
+|}
+&lt;/div&gt;
+
+====Fórmulas de PE====
+'''Cuando los Puntos de Esfuerzo están por debajo de 50:''' &lt;br&gt;
+&lt;math&gt;\colorbox{White}{$ \text{Multiplicador de daño por PE} = 1 + (\text{PE} / 100)$}&lt;/math&gt; &lt;br&gt;&lt;br&gt;
+'''Cuando los Puntos de Esfuerzo son 50 o más:''' &lt;br&gt;
+&lt;math&gt;\colorbox{White}{$ \text{Multiplicador de daño por PE} = 1 + \text{Min}(1, ((\text{PE} - 30)^{0.075} - 0.75 ))$}&lt;/math&gt;</text>
+    <contributor>
+      <username>Cthulhu Follower</username>
+      <id>51</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>16389</parentid>
+    <sha1>71122cb43202403428296f1d233ada2019495b29</sha1>
+  </revision>
+</page>

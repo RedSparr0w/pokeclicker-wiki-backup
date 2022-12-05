@@ -1,0 +1,78 @@
+<page>
+  <title>Qualot</title>
+  <ns>0</ns>
+  <id>681</id>
+  <revision>
+    <id>7473</id>
+    <timestamp>2020-12-13T02:22:15Z</timestamp>
+    <text bytes="2509" space="preserve">{{Infobox Berry
+|name    = Qualot
+|image   = [[File:Qualot.png]]
+|caption = Even in places of constant rain and high humidity, this Berry's plant grows healthy and strong.
+|growtime  = 1h 20m 0s
+|harvest = 22 berries
+|replant = 20%
+|points = 550
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*10 spicy 
+*0 dry
+*10 sweet
+*0 bitter
+*10 sour
+}}
+'''Qualot''' is a type of [[Berries|Berry]] that can be planted in [[Farm]]. It can be obtained by surrounding an empty plot with at least 10, but no more than 15 points of spicy, sweet and sour and 0 points of all other flavours. The [[Cheri]], [[Pecha]] and [[Aspear]] must be unlocked to unlock this berry.
+
+{| class="wikitable"
+|+ Growth Stages
+! !! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 3 mins 50 secs || 16 mins 40 secs || 41 mins 40 secs || 1 hour 20 mins - 2 hours 40 mins
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:QualotTreeTaller.png|50px]] || &lt;center&gt;[[File:QualotTreeBloom.png|50px]] || &lt;center&gt; [[File:QualotTreeBerry.png|50px]]
+|}
+
+=== Possible Planting Formations ===
+
+You can fill your [[farm]] in following way to obtain Qualot berry.
+
+{| class="wikitable" style="text-align: center;"
+|+ Farm
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Pinap.png|30px]] [[Pinap]] || style="width: 40px;" | || style="width: 40px;" | || style="width: 40px;" | [[File:Pinap.png|30px]] [[Pinap]] || style="width: 40px;" | 
+|-
+| || [[File:Mago.png|30px]] [[Mago]] ||  ||  || [[File:Mago.png|30px]] [[Mago]] 
+|- style="height: 50px;"
+| || || || || 
+|-
+| [[File:Pinap.png|30px]] [[Pinap]] || || || [[File:Pinap.png|30px]] [[Pinap]] || 
+|-
+| || [[File:Mago.png|30px]] [[Mago]] ||  ||  || [[File:Mago.png|30px]] [[Mago]] 
+|}
+
+{| class="wikitable" style="text-align: center;"
+|+ Farm
+|-
+| style="width: 40px;" | || style="width: 40px;" | [[File:Cheri.png|30px]]&lt;br&gt;[[Cheri]] || style="width: 40px;" | || style="width: 40px;" | || style="width: 40px;" | [[File:Cheri.png|30px]]&lt;br&gt;[[Cheri]]
+|-style="height: 50px;"
+| [[File:Pecha.png|30px]]&lt;br&gt;[[Pecha]] || [[File:Aspear.png|30px]]&lt;br&gt;[[Aspear]] ||  || [[File:Pecha.png|30px]]&lt;br&gt;[[Pecha]] || [[File:Aspear.png|30px]]&lt;br&gt;[[Aspear]] 
+|- style="height: 50px;"
+| || || || || 
+|-
+| || [[File:Cheri.png|30px]]&lt;br&gt;[[Cheri]] ||  || || [[File:Cheri.png|30px]]&lt;br&gt;[[Cheri]] 
+|-
+| [[File:Pecha.png|30px]]&lt;br&gt;[[Pecha]] || [[File:Aspear.png|30px]]&lt;br&gt;[[Aspear]] ||  || [[File:Pecha.png|30px]]&lt;br&gt;[[Pecha]] || [[File:Aspear.png|30px]]&lt;br&gt;[[Aspear]] 
+|}
+
+{{Berries}}</text>
+    <contributor>
+      <username>Adrian.Lew</username>
+      <id>29</id>
+    </contributor>
+    <comment>/* Possible Planting Formations */ Formatting</comment>
+    <model>wikitext</model>
+    <parentid>7472</parentid>
+    <sha1>dbaeb9513421d28ec6259af7fa03f0efeaf4536a</sha1>
+  </revision>
+</page>

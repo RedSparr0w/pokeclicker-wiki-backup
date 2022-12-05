@@ -1,0 +1,871 @@
+<page>
+  <title>Template:Infobox Berry/fr</title>
+  <ns>10</ns>
+  <id>7416</id>
+  <revision>
+    <id>21091</id>
+    <timestamp>2022-08-07T19:44:06Z</timestamp>
+    <text bytes="3431" space="preserve">{|class="infobox bordered" style="float:right; width:264px; font-size:90%; text-align:left; border:2px solid #404040; padding:3px;" cellpadding="3"
+|- 
+!colspan="2" style="font-size:110%; text-align:center; background-color:#{{Berries color dark}}; color:#FFF;"|{{{name}}}
+|-
+{{#if:{{{image&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} colspan="2" style="text-align:center;background-color:#FFF;" {{!}}{{{image}}}&lt;br /&gt;{{#if:{{{caption|}}}|&lt;br /&gt;{{{caption}}}}}
+{{!}}-
+}}
+{{#if:{{{growtime&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#{{Berries color light}}; color:#000;" {{!}}'''Temps de pousse'''
+{{!}}{{{growtime}}}
+{{!}}-
+}}
+{{#if:{{{harvest&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#{{Berries color light}}; color:#000;" {{!}}'''Quantité récoltée'''
+{{!}}{{{harvest}}}
+{{!}}-
+}}
+{{#if:{{{replant&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#{{Berries color light}}; color:#000;" {{!}}'''Taux de repousse'''
+{{!}}{{{replant}}}
+{{!}}-
+}}
+{{#if:{{{mutation&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#{{Berries color light}}; color:#000;" {{!}}'''Taux de mutation'''
+{{!}}{{{mutation}}}
+{{!}}-
+}}
+{{#if:{{{points&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#{{Berries color light}}; color:#000;" {{!}}'''Points de récolte gagnés'''
+{{!}}{{{points}}} {{farmpoints}}
+{{!}}-
+}}
+{{#if:{{{flavor&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#{{Berries color light}}; color:#000;" {{!}}'''Saveurs'''
+{{!}}{{{flavor}}}
+{{!}}-
+}}
+{{#if:{{{helditem&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#{{Berries color light}}; color:#000;" {{!}}'''Lâchée par'''
+{{!}}{{{helditem}}}
+{{!}}-
+}}
+
+
+|}&lt;noinclude&gt;
+
+== Code ==
+&lt;pre&gt;{{Infobox Berry
+|name    =
+|image   =
+|caption =
+|growtime  =
+|harvest =
+|replant =
+|mutation =
+|points =
+|flavor =
+|helditem =
+}}&lt;/pre&gt;
+
+== Utilisation ==
+Pour utiliser ce modèle, copiez le code ci-dessus en haut d'un article, et remplissez les valeurs respectives&amp;nbsp;:
+
+'''Où&amp;nbsp;:'''
+*&lt;code&gt;name&lt;/code&gt; doit être rempli avec le numéro de Baie-dex de la baie (au format #00) et son nom.
+*&lt;code&gt;image&lt;/code&gt; doit être rempli avec l'image de la baie (attention&amp;nbsp;: les images sont nommées d'après les noms anglais)
+*&lt;code&gt;caption&lt;/code&gt; doit être rempli avec la description officielle de la baie.
+*&lt;code&gt;growtime&lt;/code&gt; doit être rempli avec le temps de croissance nécessaire pour que la baie atteigne sa *pleine* maturité (avec h/m/s selon les besoins).
+*&lt;code&gt;harvest&lt;/code&gt; doit être rempli avec le nombre de baies récoltées lorsque c'est fait manuellement.
+*&lt;code&gt;replant&lt;/code&gt; doit être rempli avec le taux de replantation de la baie.
+*&lt;code&gt;mutation&lt;/code&gt; doit être rempli avec le taux de mutation de la baie.
+*&lt;code&gt;points&lt;/code&gt; doit être rempli avec le nombre de Points de Récolte gagnés par baie (L'icône {{farmpoints}} est automatiquement ajoutée, ne le faite pas vous même).
+*&lt;code&gt;flavor&lt;/code&gt; doit être rempli avec les saveurs de la baie. Copiez ce code-ci, collez-le après le symbole égal et rajoutez les valeurs&amp;nbsp;:
+&lt;pre&gt;&lt;div style="clear:both;"&gt;&lt;/div&gt;
+* # Épicée
+* # Sèche
+* # Sucrée
+* # Amère
+* # Acide
+&lt;/pre&gt;
+*&lt;code&gt;helditem&lt;/code&gt; ne devrait être rempli que si la baie est un objet tenu pouvant être lâchée par des Pokémon sauvages. Il devrait être rempli avec les noms de tous les Pokémon pouvant lâcher la baie.</text>
+    <contributor>
+      <username>LeChatMG</username>
+      <id>97</id>
+    </contributor>
+    <comment>Corrections</comment>
+    <model>wikitext</model>
+    <parentid>21090</parentid>
+    <sha1>928c29a8859c5451da3721597cdb63e24bcf7bdf</sha1>
+  </revision>
+  <revision>
+    <id>21090</id>
+    <timestamp>2022-08-07T19:43:42Z</timestamp>
+    <text bytes="3427" space="preserve">{|class="infobox bordered" style="float:right; width:264px; font-size:90%; text-align:left; border:2px solid #404040; padding:3px;" cellpadding="3"
+|- 
+!colspan="2" style="font-size:110%; text-align:center; background-color:#{{Berries color dark}}; color:#FFF;"|{{{name}}}
+|-
+{{#if:{{{image&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} colspan="2" style="text-align:center;background-color:#FFF;" {{!}}{{{image}}}&lt;br /&gt;{{#if:{{{caption|}}}|&lt;br /&gt;{{{caption}}}}}
+{{!}}-
+}}
+{{#if:{{{growtime&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#{{Berries color light}}; color:#000;" {{!}}'''Temps de pousse'''
+{{!}}{{{growtime}}}
+{{!}}-
+}}
+{{#if:{{{harvest&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#{{Berries color light}}; color:#000;" {{!}}'''Quantité récoltée'''
+{{!}}{{{harvest}}}
+{{!}}-
+}}
+{{#if:{{{replant&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#{{Berries color light}}; color:#000;" {{!}}'''Taux de repousse'''
+{{!}}{{{replant}}}
+{{!}}-
+}}
+{{#if:{{{mutation&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#{{Berries color light}}; color:#000;" {{!}}'''Taux de mutation'''
+{{!}}{{{mutation}}}
+{{!}}-
+}}
+{{#if:{{{points&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#{{Berries color light}}; color:#000;" {{!}}'''Points de récolte gagnés'''
+{{!}}{{{points}}} {{farmpoints}}
+{{!}}-
+}}
+{{#if:{{{flavor&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#{{Berries color light}}; color:#000;" {{!}}'''Saveurs'''
+{{!}}{{{flavor}}}
+{{!}}-
+}}
+{{#if:{{{helditem&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#{{Berries color light}}; color:#000;" {{!}}'''Lâchée par'''
+{{!}}{{{helditem}}}
+{{!}}-
+}}
+
+
+|}&lt;noinclude&gt;
+
+== Code ==
+&lt;pre&gt;{{Infobox Berry
+|name    =
+|image   =
+|caption =
+|growtime  =
+|harvest =
+|replant =
+|mutation =
+|points =
+|flavor =
+|helditem =
+}}&lt;/pre&gt;
+
+== Utilisation ==
+Pour utiliser ce template, copiez le code ci-dessus en haut d'un article, et remplissez les valeurs respectives :
+
+'''Où&amp;nbsp;:'''
+*&lt;code&gt;name&lt;/code&gt; doit être rempli avec le numéro de Baie-dex de la baie (au format #00) et son nom.
+*&lt;code&gt;image&lt;/code&gt; doit être rempli avec l'image de la baie (attention&amp;nbsp;: les images sont nommées d'après les noms anglais)
+*&lt;code&gt;caption&lt;/code&gt; doit être rempli avec la description officielle de la baie.
+*&lt;code&gt;growtime&lt;/code&gt; doit être rempli avec le temps de croissance nécessaire pour que la baie atteigne sa *pleine* maturité (avec h/m/s selon les besoins).
+*&lt;code&gt;harvest&lt;/code&gt; doit être rempli avec le nombre de baies récoltées lorsque c'est fait manuellement.
+*&lt;code&gt;replant&lt;/code&gt; doit être rempli avec le taux de replantation de la baie.
+*&lt;code&gt;mutation&lt;/code&gt; doit être rempli avec le taux de mutation de la baie.
+*&lt;code&gt;points&lt;/code&gt; doit être rempli avec le nombre de Points de Récolte gagnés par baie (L'icône {{farmpoints}} est automatiquement ajoutée, ne le faite pas vous même).
+*&lt;code&gt;flavor&lt;/code&gt; doit être rempli avec les saveurs de la baie. Copiez ce code-ci, collez-le après le symbole égal et rajoutez les valeurs&amp;nbsp;:
+&lt;pre&gt;&lt;div style="clear:both;"&gt;&lt;/div&gt;
+* # Épicée
+* # Sèche
+* # Sucrée
+* # Amère
+* # Acide
+&lt;/pre&gt;
+*&lt;code&gt;helditem&lt;/code&gt; ne devrait être rempli que si la baie est un objet tenu pouvant être lâchée par des Pokémon sauvages. Il devrait être rempli avec les noms de tous les Pokémon pouvant lâcher la baie.</text>
+    <contributor>
+      <username>LeChatMG</username>
+      <id>97</id>
+    </contributor>
+    <comment>Corrections</comment>
+    <model>wikitext</model>
+    <parentid>21089</parentid>
+    <sha1>4ca9ce343cece05f13629b419195091dcfe8d5ba</sha1>
+  </revision>
+  <revision>
+    <id>21089</id>
+    <timestamp>2022-08-06T21:09:55Z</timestamp>
+    <text bytes="3247" space="preserve">{|class="infobox bordered" style="float:right; width:264px; font-size:90%; text-align:left; border:2px solid #404040; padding:3px;" cellpadding="3"
+|- 
+!colspan="2" style="font-size:110%; text-align:center; background-color:#{{Berries color dark}}; color:#FFF;"|{{{name}}}
+|-
+{{#if:{{{image&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} colspan="2" style="text-align:center;background-color:#FFF;" {{!}}{{{image}}}&lt;br /&gt;{{#if:{{{caption|}}}|&lt;br /&gt;{{{caption}}}}}
+{{!}}-
+}}
+{{#if:{{{growtime&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#{{Berries color light}}; color:#000;" {{!}}'''Temps de pousse'''
+{{!}}{{{growtime}}}
+{{!}}-
+}}
+{{#if:{{{harvest&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#{{Berries color light}}; color:#000;" {{!}}'''Quantité récoltée'''
+{{!}}{{{harvest}}}
+{{!}}-
+}}
+{{#if:{{{replant&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#{{Berries color light}}; color:#000;" {{!}}'''Taux de repousse'''
+{{!}}{{{replant}}}
+{{!}}-
+}}
+{{#if:{{{mutation&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#{{Berries color light}}; color:#000;" {{!}}'''Taux de mutation'''
+{{!}}{{{mutation}}}
+{{!}}-
+}}
+{{#if:{{{points&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#{{Berries color light}}; color:#000;" {{!}}'''Points de récolte gagnés'''
+{{!}}{{{points}}} {{farmpoints}}
+{{!}}-
+}}
+{{#if:{{{flavor&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#{{Berries color light}}; color:#000;" {{!}}'''Saveurs'''
+{{!}}{{{flavor}}}
+{{!}}-
+}}
+{{#if:{{{helditem&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#{{Berries color light}}; color:#000;" {{!}}'''Lâchée par'''
+{{!}}{{{helditem}}}
+{{!}}-
+}}
+
+
+|}&lt;noinclude&gt;
+
+== Code ==
+&lt;pre&gt;{{Infobox Berry
+|name    =
+|image   =
+|caption =
+|growtime  =
+|harvest =
+|replant =
+|mutation =
+|points =
+|flavor =
+|helditem =
+}}&lt;/pre&gt;
+
+== Utilisation ==
+Pour utiliser ce template, copiez le code ci-dessus en haut d'un article, et remplissez les valeurs respectives :
+
+'''Où :'''
+*&lt;code&gt;name&lt;/code&gt; doit être rempli avec le numéro du Baie-dex de la baie (format #00) et son nom.
+*&lt;code&gt;image&lt;/code&gt; doit être rempli avec l'image de la baie (attention, les images sont nommées d'après les noms anglais)
+*&lt;code&gt;caption&lt;/code&gt; doit être rempli avec la description officielle de la baie.
+*&lt;code&gt;growtime&lt;/code&gt; doit être rempli avec le temps de croissance nécessaire hors tout modificateurs (h/m/s au besoin).
+*&lt;code&gt;harvest&lt;/code&gt; doit être rempli avec le nombre de baie récolté lorsque fait manuellement.
+*&lt;code&gt;replant&lt;/code&gt; doit être rempli avec le taux de replantation de la baie.
+*&lt;code&gt;mutation&lt;/code&gt; doit être rempli avec le taux de mutation de la baie.
+*&lt;code&gt;points&lt;/code&gt; doit être rempli avec le nom de Point de Récolte gagné par baie. L'icone {{farmpoints}} est automatiquement ajoutée, ne le faite pas vous même.
+*&lt;code&gt;flavor&lt;/code&gt; doit être rempli avec les saveurs de la baie. Copiez/collez ce code-ci et complétez le :
+&lt;pre&gt;&lt;div style="clear:both;"&gt;&lt;/div&gt;
+* # Épicée
+* # Sèche
+* # Sucrée
+* # Amer
+* # Acode
+&lt;/pre&gt;
+*&lt;code&gt;helditem&lt;/code&gt; peut être rempli par des noms de pokémon sauvage seulement si la baie peut être tenue et lâchée par ces pokémons.</text>
+    <contributor>
+      <username>LuK</username>
+      <id>96</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>21088</parentid>
+    <sha1>5c9ac446a70da762cfbbc86b7115be5da93942c9</sha1>
+  </revision>
+  <revision>
+    <id>21088</id>
+    <timestamp>2022-08-05T12:50:03Z</timestamp>
+    <text bytes="3245" space="preserve">{|class="infobox bordered" style="float:right; width:264px; font-size:90%; text-align:left; border:2px solid #404040; padding:3px;" cellpadding="3"
+|- 
+!colspan="2" style="font-size:110%; text-align:center; background-color:#{{Berries color dark}}; color:#FFF;"|{{{name}}}
+|-
+{{#if:{{{image&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} colspan="2" style="text-align:center;background-color:#FFF;" {{!}}{{{image}}}&lt;br /&gt;{{#if:{{{caption|}}}|&lt;br /&gt;{{{caption}}}}}
+{{!}}-
+}}
+{{#if:{{{growtime&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#{{Berries color light}}; color:#000;" {{!}}'''Temps de pousse'''
+{{!}}{{{growtime}}}
+{{!}}-
+}}
+{{#if:{{{harvest&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#{{Berries color light}}; color:#000;" {{!}}'''Quantité récolté'''
+{{!}}{{{harvest}}}
+{{!}}-
+}}
+{{#if:{{{replant&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#{{Berries color light}}; color:#000;" {{!}}'''Taux de repousse'''
+{{!}}{{{replant}}}
+{{!}}-
+}}
+{{#if:{{{mutation&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#{{Berries color light}}; color:#000;" {{!}}'''Taux de mutation'''
+{{!}}{{{mutation}}}
+{{!}}-
+}}
+{{#if:{{{points&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#{{Berries color light}}; color:#000;" {{!}}'''Points de récolte gagné'''
+{{!}}{{{points}}} {{farmpoints}}
+{{!}}-
+}}
+{{#if:{{{flavor&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#{{Berries color light}}; color:#000;" {{!}}'''Saveurs'''
+{{!}}{{{flavor}}}
+{{!}}-
+}}
+{{#if:{{{helditem&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#{{Berries color light}}; color:#000;" {{!}}'''Lâchée par'''
+{{!}}{{{helditem}}}
+{{!}}-
+}}
+
+
+|}&lt;noinclude&gt;
+
+== Code ==
+&lt;pre&gt;{{Infobox Berry
+|name    =
+|image   =
+|caption =
+|growtime  =
+|harvest =
+|replant =
+|mutation =
+|points =
+|flavor =
+|helditem =
+}}&lt;/pre&gt;
+
+== Utilisation ==
+Pour utiliser ce template, copiez le code ci-dessus en haut d'un article, et remplissez les valeurs respectives :
+
+'''Où :'''
+*&lt;code&gt;name&lt;/code&gt; doit être rempli avec le numéro du Baie-dex de la baie (format #00) et son nom.
+*&lt;code&gt;image&lt;/code&gt; doit être rempli avec l'image de la baie (attention, les images sont nommées d'après les noms anglais)
+*&lt;code&gt;caption&lt;/code&gt; doit être rempli avec la description officielle de la baie.
+*&lt;code&gt;growtime&lt;/code&gt; doit être rempli avec le temps de croissance nécessaire hors tout modificateurs (h/m/s au besoin).
+*&lt;code&gt;harvest&lt;/code&gt; doit être rempli avec le nombre de baie récolté lorsque fait manuellement.
+*&lt;code&gt;replant&lt;/code&gt; doit être rempli avec le taux de replantation de la baie.
+*&lt;code&gt;mutation&lt;/code&gt; doit être rempli avec le taux de mutation de la baie.
+*&lt;code&gt;points&lt;/code&gt; doit être rempli avec le nom de Point de Récolte gagné par baie. L'icone {{farmpoints}} est automatiquement ajoutée, ne le faite pas vous même.
+*&lt;code&gt;flavor&lt;/code&gt; doit être rempli avec les saveurs de la baie. Copiez/collez ce code-ci et complétez le :
+&lt;pre&gt;&lt;div style="clear:both;"&gt;&lt;/div&gt;
+* # Épicée
+* # Sèche
+* # Sucrée
+* # Amer
+* # Acode
+&lt;/pre&gt;
+*&lt;code&gt;helditem&lt;/code&gt; peut être rempli par des noms de pokémon sauvage seulement si la baie peut être tenue et lâchée par ces pokémons.</text>
+    <contributor>
+      <username>PetroleVB</username>
+      <id>36</id>
+    </contributor>
+    <comment>changing "croissance" by "pousse"</comment>
+    <model>wikitext</model>
+    <parentid>21087</parentid>
+    <sha1>601e8a8cb3e3f9334ad464ab7daeb040eff44224</sha1>
+  </revision>
+  <revision>
+    <id>21087</id>
+    <timestamp>2022-07-30T11:38:56Z</timestamp>
+    <text bytes="3249" space="preserve">{|class="infobox bordered" style="float:right; width:264px; font-size:90%; text-align:left; border:2px solid #404040; padding:3px;" cellpadding="3"
+|- 
+!colspan="2" style="font-size:110%; text-align:center; background-color:#{{Berries color dark}}; color:#FFF;"|{{{name}}}
+|-
+{{#if:{{{image&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} colspan="2" style="text-align:center;background-color:#FFF;" {{!}}{{{image}}}&lt;br /&gt;{{#if:{{{caption|}}}|&lt;br /&gt;{{{caption}}}}}
+{{!}}-
+}}
+{{#if:{{{growtime&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#{{Berries color light}}; color:#000;" {{!}}'''Temps de croissance'''
+{{!}}{{{growtime}}}
+{{!}}-
+}}
+{{#if:{{{harvest&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#{{Berries color light}}; color:#000;" {{!}}'''Quantité récolté'''
+{{!}}{{{harvest}}}
+{{!}}-
+}}
+{{#if:{{{replant&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#{{Berries color light}}; color:#000;" {{!}}'''Taux de repousse'''
+{{!}}{{{replant}}}
+{{!}}-
+}}
+{{#if:{{{mutation&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#{{Berries color light}}; color:#000;" {{!}}'''Taux de mutation'''
+{{!}}{{{mutation}}}
+{{!}}-
+}}
+{{#if:{{{points&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#{{Berries color light}}; color:#000;" {{!}}'''Points de récolte gagné'''
+{{!}}{{{points}}} {{farmpoints}}
+{{!}}-
+}}
+{{#if:{{{flavor&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#{{Berries color light}}; color:#000;" {{!}}'''Saveurs'''
+{{!}}{{{flavor}}}
+{{!}}-
+}}
+{{#if:{{{helditem&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#{{Berries color light}}; color:#000;" {{!}}'''Lâchée par'''
+{{!}}{{{helditem}}}
+{{!}}-
+}}
+
+
+|}&lt;noinclude&gt;
+
+== Code ==
+&lt;pre&gt;{{Infobox Berry
+|name    =
+|image   =
+|caption =
+|growtime  =
+|harvest =
+|replant =
+|mutation =
+|points =
+|flavor =
+|helditem =
+}}&lt;/pre&gt;
+
+== Utilisation ==
+Pour utiliser ce template, copiez le code ci-dessus en haut d'un article, et remplissez les valeurs respectives :
+
+'''Où :'''
+*&lt;code&gt;name&lt;/code&gt; doit être rempli avec le numéro du Baie-dex de la baie (format #00) et son nom.
+*&lt;code&gt;image&lt;/code&gt; doit être rempli avec l'image de la baie (attention, les images sont nommées d'après les noms anglais)
+*&lt;code&gt;caption&lt;/code&gt; doit être rempli avec la description officielle de la baie.
+*&lt;code&gt;growtime&lt;/code&gt; doit être rempli avec le temps de croissance nécessaire hors tout modificateurs (h/m/s au besoin).
+*&lt;code&gt;harvest&lt;/code&gt; doit être rempli avec le nombre de baie récolté lorsque fait manuellement.
+*&lt;code&gt;replant&lt;/code&gt; doit être rempli avec le taux de replantation de la baie.
+*&lt;code&gt;mutation&lt;/code&gt; doit être rempli avec le taux de mutation de la baie.
+*&lt;code&gt;points&lt;/code&gt; doit être rempli avec le nom de Point de Récolte gagné par baie. L'icone {{farmpoints}} est automatiquement ajoutée, ne le faite pas vous même.
+*&lt;code&gt;flavor&lt;/code&gt; doit être rempli avec les saveurs de la baie. Copiez/collez ce code-ci et complétez le :
+&lt;pre&gt;&lt;div style="clear:both;"&gt;&lt;/div&gt;
+* # Épicée
+* # Sèche
+* # Sucrée
+* # Amer
+* # Acode
+&lt;/pre&gt;
+*&lt;code&gt;helditem&lt;/code&gt; peut être rempli par des noms de pokémon sauvage seulement si la baie peut être tenue et lâchée par ces pokémons.</text>
+    <contributor>
+      <username>PetroleVB</username>
+      <id>36</id>
+    </contributor>
+    <comment>Created page with "'''Où :''' *&lt;code&gt;name&lt;/code&gt; doit être rempli avec le numéro du Baie-dex de la baie (format #00) et son nom. *&lt;code&gt;image&lt;/code&gt; doit être rempli avec l'image de la baie (attention, les images sont nommées d'après les noms anglais) *&lt;code&gt;caption&lt;/code&gt; doit être rempli avec la description officielle de la baie. *&lt;code&gt;growtime&lt;/code&gt; doit être rempli avec le temps de croissance nécessaire hors tout modificateurs (h/m/s au besoin). *&lt;code&gt;harvest&lt;/code&gt; doit ê..."</comment>
+    <model>wikitext</model>
+    <parentid>21086</parentid>
+    <sha1>87ff58aee6f0ee362bb1efd3468af150e4997b49</sha1>
+  </revision>
+  <revision>
+    <id>21086</id>
+    <timestamp>2022-07-30T11:31:07Z</timestamp>
+    <text bytes="3314" space="preserve">{|class="infobox bordered" style="float:right; width:264px; font-size:90%; text-align:left; border:2px solid #404040; padding:3px;" cellpadding="3"
+|- 
+!colspan="2" style="font-size:110%; text-align:center; background-color:#{{Berries color dark}}; color:#FFF;"|{{{name}}}
+|-
+{{#if:{{{image&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} colspan="2" style="text-align:center;background-color:#FFF;" {{!}}{{{image}}}&lt;br /&gt;{{#if:{{{caption|}}}|&lt;br /&gt;{{{caption}}}}}
+{{!}}-
+}}
+{{#if:{{{growtime&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#{{Berries color light}}; color:#000;" {{!}}'''Temps de croissance'''
+{{!}}{{{growtime}}}
+{{!}}-
+}}
+{{#if:{{{harvest&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#{{Berries color light}}; color:#000;" {{!}}'''Quantité récolté'''
+{{!}}{{{harvest}}}
+{{!}}-
+}}
+{{#if:{{{replant&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#{{Berries color light}}; color:#000;" {{!}}'''Taux de repousse'''
+{{!}}{{{replant}}}
+{{!}}-
+}}
+{{#if:{{{mutation&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#{{Berries color light}}; color:#000;" {{!}}'''Taux de mutation'''
+{{!}}{{{mutation}}}
+{{!}}-
+}}
+{{#if:{{{points&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#{{Berries color light}}; color:#000;" {{!}}'''Points de récolte gagné'''
+{{!}}{{{points}}} {{farmpoints}}
+{{!}}-
+}}
+{{#if:{{{flavor&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#{{Berries color light}}; color:#000;" {{!}}'''Saveurs'''
+{{!}}{{{flavor}}}
+{{!}}-
+}}
+{{#if:{{{helditem&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#{{Berries color light}}; color:#000;" {{!}}'''Lâchée par'''
+{{!}}{{{helditem}}}
+{{!}}-
+}}
+
+
+|}&lt;noinclude&gt;
+
+== Code ==
+&lt;pre&gt;{{Infobox Berry
+|name    =
+|image   =
+|caption =
+|growtime  =
+|harvest =
+|replant =
+|mutation =
+|points =
+|flavor =
+|helditem =
+}}&lt;/pre&gt;
+
+== Utilisation ==
+Pour utiliser ce template, copiez le code ci-dessus en haut d'un article, et remplissez les valeurs respectives :
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+'''Where:'''
+*&lt;code&gt;name&lt;/code&gt; should be filled with the number of the berry in the dex (formatted #00) and the name of the berry.
+*&lt;code&gt;image&lt;/code&gt; should be filled with the berry's image.
+*&lt;code&gt;caption&lt;/code&gt; should be filled with the description of the berry from the in-game berrydex (or github).
+*&lt;code&gt;growtime&lt;/code&gt; should be filled with the time it takes for the berry to *fully* grow (with h/m/s as needed).
+*&lt;code&gt;harvest&lt;/code&gt; should be filled with the number of berries collected when manually harvesting the plant.
+*&lt;code&gt;replant&lt;/code&gt; should be filled with the replant rate of the berry.
+*&lt;code&gt;mutation&lt;/code&gt; should be filled with the mutation rate of the berry.
+*&lt;code&gt;points&lt;/code&gt; should be filled with the number of Farm Points gained on harvest ({{farmpoints}} is automatically added, don't add it yourself).
+*&lt;code&gt;flavor&lt;/code&gt; should be filled with the flavors of the berry. Copy and paste this code after the equals sign and fill in the numbers:
+&lt;pre&gt;&lt;div style="clear:both;"&gt;&lt;/div&gt;
+* # spicy
+* # dry
+* # sweet
+* # bitter
+* # sour
+&lt;/pre&gt;
+*&lt;code&gt;helditem&lt;/code&gt; should only be included if the berry is dropped by a wild Pokémon. It should be filled with the names of each Pokémon that can drop the berry.
+&lt;/div&gt;</text>
+    <contributor>
+      <username>PetroleVB</username>
+      <id>36</id>
+    </contributor>
+    <comment>Created page with "== Utilisation == Pour utiliser ce template, copiez le code ci-dessus en haut d'un article, et remplissez les valeurs respectives :"</comment>
+    <model>wikitext</model>
+    <parentid>21085</parentid>
+    <sha1>ea498cd1f80e118728929f339f72a0b6c38c8d8f</sha1>
+  </revision>
+  <revision>
+    <id>21085</id>
+    <timestamp>2022-07-30T11:30:27Z</timestamp>
+    <text bytes="3353" space="preserve">{|class="infobox bordered" style="float:right; width:264px; font-size:90%; text-align:left; border:2px solid #404040; padding:3px;" cellpadding="3"
+|- 
+!colspan="2" style="font-size:110%; text-align:center; background-color:#{{Berries color dark}}; color:#FFF;"|{{{name}}}
+|-
+{{#if:{{{image&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} colspan="2" style="text-align:center;background-color:#FFF;" {{!}}{{{image}}}&lt;br /&gt;{{#if:{{{caption|}}}|&lt;br /&gt;{{{caption}}}}}
+{{!}}-
+}}
+{{#if:{{{growtime&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#{{Berries color light}}; color:#000;" {{!}}'''Temps de croissance'''
+{{!}}{{{growtime}}}
+{{!}}-
+}}
+{{#if:{{{harvest&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#{{Berries color light}}; color:#000;" {{!}}'''Quantité récolté'''
+{{!}}{{{harvest}}}
+{{!}}-
+}}
+{{#if:{{{replant&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#{{Berries color light}}; color:#000;" {{!}}'''Taux de repousse'''
+{{!}}{{{replant}}}
+{{!}}-
+}}
+{{#if:{{{mutation&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#{{Berries color light}}; color:#000;" {{!}}'''Taux de mutation'''
+{{!}}{{{mutation}}}
+{{!}}-
+}}
+{{#if:{{{points&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#{{Berries color light}}; color:#000;" {{!}}'''Points de récolte gagné'''
+{{!}}{{{points}}} {{farmpoints}}
+{{!}}-
+}}
+{{#if:{{{flavor&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#{{Berries color light}}; color:#000;" {{!}}'''Saveurs'''
+{{!}}{{{flavor}}}
+{{!}}-
+}}
+{{#if:{{{helditem&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#{{Berries color light}}; color:#000;" {{!}}'''Lâchée par'''
+{{!}}{{{helditem}}}
+{{!}}-
+}}
+
+
+|}&lt;noinclude&gt;
+
+== Code ==
+&lt;pre&gt;{{Infobox Berry
+|name    =
+|image   =
+|caption =
+|growtime  =
+|harvest =
+|replant =
+|mutation =
+|points =
+|flavor =
+|helditem =
+}}&lt;/pre&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Usage ==
+To use this template, place the code above at the top of an article and fill in the respective blanks.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+'''Where:'''
+*&lt;code&gt;name&lt;/code&gt; should be filled with the number of the berry in the dex (formatted #00) and the name of the berry.
+*&lt;code&gt;image&lt;/code&gt; should be filled with the berry's image.
+*&lt;code&gt;caption&lt;/code&gt; should be filled with the description of the berry from the in-game berrydex (or github).
+*&lt;code&gt;growtime&lt;/code&gt; should be filled with the time it takes for the berry to *fully* grow (with h/m/s as needed).
+*&lt;code&gt;harvest&lt;/code&gt; should be filled with the number of berries collected when manually harvesting the plant.
+*&lt;code&gt;replant&lt;/code&gt; should be filled with the replant rate of the berry.
+*&lt;code&gt;mutation&lt;/code&gt; should be filled with the mutation rate of the berry.
+*&lt;code&gt;points&lt;/code&gt; should be filled with the number of Farm Points gained on harvest ({{farmpoints}} is automatically added, don't add it yourself).
+*&lt;code&gt;flavor&lt;/code&gt; should be filled with the flavors of the berry. Copy and paste this code after the equals sign and fill in the numbers:
+&lt;pre&gt;&lt;div style="clear:both;"&gt;&lt;/div&gt;
+* # spicy
+* # dry
+* # sweet
+* # bitter
+* # sour
+&lt;/pre&gt;
+*&lt;code&gt;helditem&lt;/code&gt; should only be included if the berry is dropped by a wild Pokémon. It should be filled with the names of each Pokémon that can drop the berry.
+&lt;/div&gt;</text>
+    <contributor>
+      <username>PetroleVB</username>
+      <id>36</id>
+    </contributor>
+    <comment>No change in the base code</comment>
+    <model>wikitext</model>
+    <parentid>21084</parentid>
+    <sha1>47085485a462aeac0f38b41cbadca0a074e6f282</sha1>
+  </revision>
+  <revision>
+    <id>21084</id>
+    <timestamp>2022-07-30T11:29:44Z</timestamp>
+    <text bytes="3409" space="preserve">{|class="infobox bordered" style="float:right; width:264px; font-size:90%; text-align:left; border:2px solid #404040; padding:3px;" cellpadding="3"
+|- 
+!colspan="2" style="font-size:110%; text-align:center; background-color:#{{Berries color dark}}; color:#FFF;"|{{{name}}}
+|-
+{{#if:{{{image&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} colspan="2" style="text-align:center;background-color:#FFF;" {{!}}{{{image}}}&lt;br /&gt;{{#if:{{{caption|}}}|&lt;br /&gt;{{{caption}}}}}
+{{!}}-
+}}
+{{#if:{{{growtime&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#{{Berries color light}}; color:#000;" {{!}}'''Temps de croissance'''
+{{!}}{{{growtime}}}
+{{!}}-
+}}
+{{#if:{{{harvest&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#{{Berries color light}}; color:#000;" {{!}}'''Quantité récolté'''
+{{!}}{{{harvest}}}
+{{!}}-
+}}
+{{#if:{{{replant&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#{{Berries color light}}; color:#000;" {{!}}'''Taux de repousse'''
+{{!}}{{{replant}}}
+{{!}}-
+}}
+{{#if:{{{mutation&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#{{Berries color light}}; color:#000;" {{!}}'''Taux de mutation'''
+{{!}}{{{mutation}}}
+{{!}}-
+}}
+{{#if:{{{points&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#{{Berries color light}}; color:#000;" {{!}}'''Points de récolte gagné'''
+{{!}}{{{points}}} {{farmpoints}}
+{{!}}-
+}}
+{{#if:{{{flavor&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#{{Berries color light}}; color:#000;" {{!}}'''Saveurs'''
+{{!}}{{{flavor}}}
+{{!}}-
+}}
+{{#if:{{{helditem&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#{{Berries color light}}; color:#000;" {{!}}'''Lâchée par'''
+{{!}}{{{helditem}}}
+{{!}}-
+}}
+
+
+|}&lt;noinclude&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Code ==
+&lt;pre&gt;{{Infobox Berry
+|name    =
+|image   =
+|caption =
+|growtime  =
+|harvest =
+|replant =
+|mutation =
+|points =
+|flavor =
+|helditem =
+}}&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Usage ==
+To use this template, place the code above at the top of an article and fill in the respective blanks.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+'''Where:'''
+*&lt;code&gt;name&lt;/code&gt; should be filled with the number of the berry in the dex (formatted #00) and the name of the berry.
+*&lt;code&gt;image&lt;/code&gt; should be filled with the berry's image.
+*&lt;code&gt;caption&lt;/code&gt; should be filled with the description of the berry from the in-game berrydex (or github).
+*&lt;code&gt;growtime&lt;/code&gt; should be filled with the time it takes for the berry to *fully* grow (with h/m/s as needed).
+*&lt;code&gt;harvest&lt;/code&gt; should be filled with the number of berries collected when manually harvesting the plant.
+*&lt;code&gt;replant&lt;/code&gt; should be filled with the replant rate of the berry.
+*&lt;code&gt;mutation&lt;/code&gt; should be filled with the mutation rate of the berry.
+*&lt;code&gt;points&lt;/code&gt; should be filled with the number of Farm Points gained on harvest ({{farmpoints}} is automatically added, don't add it yourself).
+*&lt;code&gt;flavor&lt;/code&gt; should be filled with the flavors of the berry. Copy and paste this code after the equals sign and fill in the numbers:
+&lt;pre&gt;&lt;div style="clear:both;"&gt;&lt;/div&gt;
+* # spicy
+* # dry
+* # sweet
+* # bitter
+* # sour
+&lt;/pre&gt;
+*&lt;code&gt;helditem&lt;/code&gt; should only be included if the berry is dropped by a wild Pokémon. It should be filled with the names of each Pokémon that can drop the berry.
+&lt;/div&gt;</text>
+    <contributor>
+      <username>PetroleVB</username>
+      <id>36</id>
+    </contributor>
+    <comment>Created page with "|}&lt;noinclude&gt;"</comment>
+    <model>wikitext</model>
+    <parentid>21083</parentid>
+    <sha1>5e870e6c0a64ca68c489e5a56775fea5b52d8128</sha1>
+  </revision>
+  <revision>
+    <id>21083</id>
+    <timestamp>2022-07-30T11:28:05Z</timestamp>
+    <text bytes="3465" space="preserve">{|class="infobox bordered" style="float:right; width:264px; font-size:90%; text-align:left; border:2px solid #404040; padding:3px;" cellpadding="3"
+|- 
+!colspan="2" style="font-size:110%; text-align:center; background-color:#{{Berries color dark}}; color:#FFF;"|{{{name}}}
+|-
+{{#if:{{{image&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} colspan="2" style="text-align:center;background-color:#FFF;" {{!}}{{{image}}}&lt;br /&gt;{{#if:{{{caption|}}}|&lt;br /&gt;{{{caption}}}}}
+{{!}}-
+}}
+{{#if:{{{growtime&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#{{Berries color light}}; color:#000;" {{!}}'''Temps de croissance'''
+{{!}}{{{growtime}}}
+{{!}}-
+}}
+{{#if:{{{harvest&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#{{Berries color light}}; color:#000;" {{!}}'''Quantité récolté'''
+{{!}}{{{harvest}}}
+{{!}}-
+}}
+{{#if:{{{replant&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#{{Berries color light}}; color:#000;" {{!}}'''Taux de repousse'''
+{{!}}{{{replant}}}
+{{!}}-
+}}
+{{#if:{{{mutation&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#{{Berries color light}}; color:#000;" {{!}}'''Taux de mutation'''
+{{!}}{{{mutation}}}
+{{!}}-
+}}
+{{#if:{{{points&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#{{Berries color light}}; color:#000;" {{!}}'''Points de récolte gagné'''
+{{!}}{{{points}}} {{farmpoints}}
+{{!}}-
+}}
+{{#if:{{{flavor&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#{{Berries color light}}; color:#000;" {{!}}'''Saveurs'''
+{{!}}{{{flavor}}}
+{{!}}-
+}}
+{{#if:{{{helditem&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#{{Berries color light}}; color:#000;" {{!}}'''Lâchée par'''
+{{!}}{{{helditem}}}
+{{!}}-
+}}
+
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+|}&lt;noinclude&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Code ==
+&lt;pre&gt;{{Infobox Berry
+|name    =
+|image   =
+|caption =
+|growtime  =
+|harvest =
+|replant =
+|mutation =
+|points =
+|flavor =
+|helditem =
+}}&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Usage ==
+To use this template, place the code above at the top of an article and fill in the respective blanks.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+'''Where:'''
+*&lt;code&gt;name&lt;/code&gt; should be filled with the number of the berry in the dex (formatted #00) and the name of the berry.
+*&lt;code&gt;image&lt;/code&gt; should be filled with the berry's image.
+*&lt;code&gt;caption&lt;/code&gt; should be filled with the description of the berry from the in-game berrydex (or github).
+*&lt;code&gt;growtime&lt;/code&gt; should be filled with the time it takes for the berry to *fully* grow (with h/m/s as needed).
+*&lt;code&gt;harvest&lt;/code&gt; should be filled with the number of berries collected when manually harvesting the plant.
+*&lt;code&gt;replant&lt;/code&gt; should be filled with the replant rate of the berry.
+*&lt;code&gt;mutation&lt;/code&gt; should be filled with the mutation rate of the berry.
+*&lt;code&gt;points&lt;/code&gt; should be filled with the number of Farm Points gained on harvest ({{farmpoints}} is automatically added, don't add it yourself).
+*&lt;code&gt;flavor&lt;/code&gt; should be filled with the flavors of the berry. Copy and paste this code after the equals sign and fill in the numbers:
+&lt;pre&gt;&lt;div style="clear:both;"&gt;&lt;/div&gt;
+* # spicy
+* # dry
+* # sweet
+* # bitter
+* # sour
+&lt;/pre&gt;
+*&lt;code&gt;helditem&lt;/code&gt; should only be included if the berry is dropped by a wild Pokémon. It should be filled with the names of each Pokémon that can drop the berry.
+&lt;/div&gt;</text>
+    <contributor>
+      <username>PetroleVB</username>
+      <id>36</id>
+    </contributor>
+    <comment>1st draft at translating berry templates</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>1d61cd75b3294a82c0598114a8e856d68d3d73be</sha1>
+  </revision>
+</page>

@@ -1,0 +1,2807 @@
+<page>
+  <title>Petaya/fr</title>
+  <ns>0</ns>
+  <id>8602</id>
+  <revision>
+    <id>23792</id>
+    <timestamp>2022-08-16T16:04:55Z</timestamp>
+    <text bytes="16149" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #63 Pitaye
+|image   = [[File:Petaya.png]]
+|caption = Une Baie mystérieuse, censée contenir le pouvoir de la vie.&lt;br&gt;Ce pouvoir maintient les autres Baies en vie plus longtemps.
+|growtime  = 1j
+|harvest = 0,5 baies
+|replant = 0%
+|mutation = 0,001%
+|points = 15&amp;nbsp;000
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*30 épicée
+*0 sèche
+*0 sucrée
+*30 amère
+*10 acide
+}}
+
+'''Pitaye''' est un type de [[Berries/fr|Baie]] qui peut être plantée à la [[Farm/fr|Ferme]]. Elle s'obtient en ayant au moins une parcelle vide et au moins 1 plant de chacune des [[Berries#Baies de Gen 4|Baies de quatrième génération]] dans le champ.
+
+=== Stades de croissance ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+|-
+! !! Pousse !! Arbuste !! Fleuri !! Mûr
+|-
+! Temps écoulé depuis plantation
+| 3 hours || 6 hours || 12 hours || 1 day - 5 days
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:PetayaTreeTaller.png|50px]] || &lt;center&gt; [[File:PetayaTreeBloom.png|50px]] || &lt;center&gt; [[File:PetayaTreeBerry.png|50px]]
+|-
+! Aura (empêche le flétrissement)
+| colspan=3| &lt;center&gt; None || &lt;center&gt; Empêche les baies mûre des flétrir
+|}
+
+===Temps de croissance avec modificateurs===
+{| class="wikitable collapsible" | style="text-align: center;"
+! Modificateur !! Temps maturité-flétrissement !! Fertibérance nécessaire pour mûrir
+|-
+! Aucun
+| 1 jour -&lt;br&gt; 5 jours || &lt;center&gt; ---
+|-
+! Engrais ou Kwakarrosoir
+| 16 heures -&lt;br&gt; 80 heures || &lt;center&gt; 192 engrais
+|-
+! Engrais et Kwakarrosoir
+| 10 heures 40 mins -&lt;br&gt; 53 heures 20 mins || &lt;center&gt; 128 engrais
+|}
+
+== Organigramme ==
+[[File:Petaya_Flow_Chart.png|850px]]
+&lt;br&gt;
+
+== Stratégie de mutation ==
+=== Formations possibles ===
+
+Vous pouvez remplir votre ferme de la manière suivante pour obtenir des baies Pitaye. Notez que la [[Occa/fr|Chocco]], la [[Kebia/fr|Kébia]] et la [[Colbur/fr|Lampou]] peuvent remplacer d'autres plants, elles sont donc placées autour d'une [[Babiri/fr|Babiri]] pour éviter ça. La [[Kebia/fr|Kébia]] et la [[Payapa/fr|Yapap]] augmentent les chances de mutation et sont placées de sorte à affecter le plus de parcelles pouvant muter possibles. La [[Babiri/fr|Babiri]] réduit les chances de mutation et la [[Rindo/fr|Ratam]] s'étend sur les parcelles vides, elles ne sont donc pas placées à côté de parcelles pouvant muter. La [[Wacan/fr|Parma]], la [[Yache/fr|Nanone]] et la [[Haban/fr|Fraigo]] affectent toutes les temps de croissance et sont donc placées dans l'angle avec des baies dont les temps de croissance sont court afin de limiter leur impact et de rendre les timings plus simples. En utilisant du [[Farm_Items/fr|Fertistantané]], un [[Squirtbottle/fr|Carapuce à O]] au niveau max et en suivant la formation suivante, vous avez environ 90,2% de chances (60,5% sans le [[Squirtbottle/fr|Carapuce à O]]) d'obtenir une Pitaye avant que la première baie n'ait besoin d'être replantée. Les cases violettes indiquent où les mutations peuvent avoir lieu.
+
+{| class="wikitable" style="text-align: center;"
+|+ Ferme
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Kasib.png|30px]]&lt;br&gt;[[Kasib/fr|Sédra]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Payapa.png|30px]]&lt;br&gt;[[Payapa/fr|Yapap]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Yache.png|30px]]&lt;br&gt;[[Yache/fr|Nanone]]
+|- style="height: 50px;"
+| [[File:Shuca.png|30px]]&lt;br&gt;[[Shuca/fr|Jouca]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Wacan.png|30px]]&lt;br&gt;[[Wacan/fr|Parma]] 
+|- style="height: 30px;"
+| [[File:Chople.png|30px]]&lt;br&gt;[[Chople/fr|Pomroz]] || [[File:Coba.png|30px]]&lt;br&gt;[[Coba/fr|Cobaba]] || [[File:Kebia.png|30px]]&lt;br&gt;[[Kebia/fr|Kébia]] || style="background-color:#9C7D98;" | || [[File:Haban.png|30px]]&lt;br&gt;[[Haban/fr|Fraigo]] 
+|-
+| [[File:Colbur.png|30px]]&lt;br&gt;[[Colbur/fr|Lampou]] || [[File:Babiri.png|30px]]&lt;br&gt;[[Babiri/fr|Babiri]] || [[File:Charti.png|30px]]&lt;br&gt;[[Charti/fr|Charti]] || style="background-color:#9C7D98;" | || [[File:Tanga.png|30px]]&lt;br&gt;[[Tanga/fr|Panga]]
+|-
+| [[File:Occa.png|30px]]&lt;br&gt;[[Occa/fr|Chocco]] || [[File:Rindo.png|30px]]&lt;br&gt;[[Rindo/fr|Ratam]] || [[File:Passho.png|30px]]&lt;br&gt;[[Passho/fr|Pocpoc]] || [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli/fr|Selro]] || [[File:Chilan.png|30px]]&lt;br&gt;[[Chilan/fr|Zalis]]
+|}
+
+{| class="wikitable floatright" style="text-align: center;"
+|+ Minutage externe
+! Baie !! Temps !! Quantité d'engrais
+|-
+| [[Haban/fr|Fraigo]] || --- || 128
+|-
+| [[Babiri/fr|Babiri]] || --- || 52
+|-
+| [[Yache/fr|Nanone]] || 2 h 40 mins || --- 
+|-
+| [[Shuca/fr|Jouca]] || 3 h 14 mins 10 secs || ---
+|-
+| [[Charti/fr|Charti]] || 3 h 34 mins 10 secs|| ---
+|-
+| [[Chople/fr|Pomroz]] || 3 h 54 mins 10 secs || ---
+|-
+| [[Payapa/fr|Yapap]] || 4 h 14 mins 10 secs || ---
+|-
+| [[Rindo/fr|Ratam]] || 5 h 14 mins 10 secs || ---
+|-
+| [[Colbur/fr|Lampou]] || 5 h 34 mins 10 secs || ---
+|-
+| [[Roseli/fr|Selro]] || 5 h 54 mins 10 secs || ---
+|-
+| [[Occa/fr|Chocco]] || 6 h 30 mins 10 secs || ---
+|-
+| [[Passho/fr|Pocpoc]] || 6 h 34 mins 10 secs || ---
+|-
+| [[Coba/fr|Cobaba]] || 6 h 54 mins 10 secs || ---
+|-
+| [[Chilan/fr|Zalis]] || 9 h 14 mins 10 secs || ---
+|-
+| [[Tanga/fr|Panga]] || 9 h 27 mins 30 secs || ---
+|-
+| [[Wacan/fr|Parma]] || 9 h 52 mins 30 secs || ---
+|-
+| [[Kebia/fr|Kébia]] || 10 h 27 mins 30 secs || ---
+|-
+| [[Kasib/fr|Sédra]] || 10 h 30 mins 50 secs || ---
+|}
+
+==== Notes importantes ====
+
+Avant de démarrer ce processus, vous devez être prêt à passer près de 11 heures voire plus à côté de votre machine avec PokéClicker, ou au moins de pouvoir mettre vos chronomètres en pause pour faire des pauses. 
+
+* En suivant les temps listés dans le tableau à droite, toutes les baies mûriront à dix minutes d'intervalle les unes des autres. Chaque temps indique quand la baie correspondante doit être plantée.
+
+* Les minutages supposent que vous avez un [[Sprayduck/fr|Kwakarrosoir]] au niveau max ainsi que les quantités de Fertibérance indiquées sur les parcelles en question. Toutes les doses de Fertibérance devraient être appliquées au moment du plantage. Au total, vous aurez besoin de 180 doses de Fertibérance pour terminer l'ensemble du processus ; mais il est fortement recommandé d'avoir au moins 250 doses de Fertibérance en réserve au cas où les choses tourneraient mal. Notez que bien que la [[Babiri/fr|Babiri]] mûrira à peu près en même temps que la [[Haban/fr|Fraigo]] avec seulement 35 doses de Fertibérance, cela reste une fenêtre très serrée. Davantage de doses sont ajoutées pour s'assurer qu'elle mûrisse en premier afin d'éviter le risque que d'autres baies soient remplacées par des [[Occa/fr|Chocco]], des [[Colbur/fr|Lampou]], ou des [[Kebia/fr|Kébia]].
+
+* Le site gratuit [https://www.timeanddate.com/timer/ timeanddate.com] est une excellente ressource pour régler plusieurs chronomètres simultanément. Le minutage commence au moment du plantage de la première baie. Déclenchez tous vos chronomètres au moment exact où vous plantez la [[Haban/fr|Fraigo]] et la [[Babiri/fr|Babiri]].
+
+* Notez qu'il y a peu de périodes creuses de plus d'une heure ; les chronomètres de la Ferme ne tournent pas tant que le jeu n'est pas ouvert, vous pouvez donc faire des pauses au cours de ce processus.
+
+* Il est est très important que la [[Babiri/fr|Babiri]] finisse de mûrir avant la [[Occa/fr|Chocco]], la [[Colbur/fr|Lampou]] et la [[Kebia/fr|Kébia]]. De fait, elle est plantée de manière à mûrir très tôt puisqu'elle a aussi une durée de vie très longue. En suivant les tableaux ci-dessous, basez vos temps de plantage sur le temps restant à [[Haban/fr|Fraigo]] pour mûrir. N'utilisez pas d'autre baie pour vos minutages.
+
+===== Information critique pour quand les baies sont toutes mûres =====
+
+Lorsque les 18 baies sont mûres, les conditions requises pour l'apparition de Pitaye sont toutes remplies. À ce moment, remplacez immédiatement votre [[Sprayduck/fr|Kwakarrosoir]] par le [[Squirtbottle/fr|Carapuce à O]] si possible, où par un autre [[Oak Items/fr|Objet de Chen]] sinon. Il est fortement recommendé de faire une sauvgarde à ce moment afind de ne pas avoir à recommencer tout le processus du début au cas où aucune mutation ne se produit. Les Pitaye peuvent apparaître sur n'importe lesquelles des sept parcelles vide de votre ferme. Les sept parcelles vides devraient être continuellement recouverte de Fertistantané. Notez que bien que la [[Kebia/fr|Kébia]] a la possibilité de remplacer d'autres baies, elle ne peut le faire que sur des plants au stade arbuste ou plus, vous pourrez donc laisser les mutations continuer si vous souhaitez muter plusieurs Petaya avant que la [[Wacan/fr|Parma]] ne flétrisse. Plus précisément, vous avez 6 heures à partir du moment de la mutation pour enlever la [[Kebia/fr|Kébia]] avant qu'elle ne menace votre Petaya fraîchement mutée, sauf si elle a muté sur une des deux parcelles du bord.
+
+===== Petaya avec Fertigel (mode facile) =====
+Faire muter une Pitaye avec du Fertigel rend la chose incroyablement facile. Tout ce que vous avez à faire, c'est de planter toutes les baies en même temps, tel qu'indiqué sur la formation de mutation, et de simplemnt appliquer la bonne quantité de Fertigel sur les graines de baie, de telle manière que lorsque l'effet du Fertigel s'estompera, la baie poussera comme si vous veniez tout juste de la planter comme indiqué sur le tableau de minutage. Le tableau ci-dessous indique la quantité de Fertigel nécessaire pour que les minutages soient corrects. La Sédra et la Kébia ont un temps de croissance si court (5 et 10 minutes sans Kwakarrosoir) qu'il est probablement plus simple de ne les planter que lorsque les autres baies sont quasi mûres, d'où la mention optionnel.
+{| class="collapsible wikitable collapsed"| style="text-align: center;"
+! Baie !! Fertigel nécessaire
+|+ ''Note&amp;nbsp;: Cette table suppose que vous avez appliqué 128 doses de Fertibérance sur la Fraigo et 52 doses sur la Babiri, le tout sans équiper le Kwakarrosoir''
+|-
+| [[Haban/fr|Fraigo]] || 0
+|-
+| [[Babiri/fr|Babiri]] || 0
+|-
+| [[Yache/fr|Nanone]] || 32
+|-
+| [[Shuca/fr|Jouca]] || 39
+|-
+| [[Charti/fr|Charti]] || 43
+|-
+| [[Chople/fr|Pomroz]] || 47
+|-
+| [[Payapa/fr|Yapap]] || 51
+|-
+| [[Rindo/fr|Ratam]] || 63
+|-
+| [[Colbur/fr|Lampou]] || 67
+|-
+| [[Roseli/fr|Selro]] || 71
+|-
+| [[Occa/fr|Chocco]] || 78
+|-
+| [[Passho/fr|Pocpoc]] || 79
+|-
+| [[Coba/fr|Cobaba]] || 83
+|-
+| [[Chilan/fr|Zalis]] || 111
+|-
+| [[Tanga/fr|Panga]] || 113
+|-
+| [[Wacan/fr|Parma]] || 119
+|-
+| [[Kebia/fr|Kébia]] || 125 (optionnel)
+|-
+| [[Kasib/fr|Sédra]] || 126 (optionnel)
+|}
+
+===== Que faire si aucune Pitaye n'est apparue alors ques les autres baies commencent à flétrir =====
+
+La première baie à flétrir sera la [[Wacan/fr|Parma]] — elle flétrit environ 1 heure et 25 mins après avoir atteint sa maturité. Cela ''devrait'' être suffisant pour qu'une Pitaye puisse apparaître. Si la [[Wacan/fr|Parma]] flétrit avant mutation, vous devrez replanter la [[Chilan/fr|Zalis]], la [[Tanga/fr|Panga]] et la [[Wacan/fr|Parma]]. Si vous commencez 38 minutes avant le flétrissement de la [[Wacan/fr|Parma]] (1 heure 15 minutes avec Fertibérance), vous ''devriez'' avoir un autre cycle complet de [[Wacan/fr|Parma]] avant que la [[Coba/fr|Cobaba]] ne flétrisse et que vous n'ayez à tout reprendre depuis le début. La possibilité de faire ainsi augmente les chances globales de mutation à 99%, ou 84,4% sans [[Squirtbottle/fr|Carapuce à O]].
+
+==== Tableau de minutage ====
+{| class="collapsible wikitable"| style="text-align: center;"
+|+ ''Tous les temps indiqués sont basés sur le temps restant avant que la première baie plantée n'arrive à maturité''
+! Baie !! Temps de plantation&lt;br&gt;sans modificateur!! Temps de plantation avec &lt;br&gt; Engrais ou Kwakarrosoir || Temps de plantation avec &lt;br&gt; Engrais et Kwakarrosoir
+|-
+| [[Haban/fr|Fraigo]] || - || - || -
+|-
+| [[Babiri/fr|Babiri]] || 20 heures avant maturité || 14 heures avant maturité || 10 heures avant maturité
+|-
+| [[Yache/fr|Nanone]] || 12 heures avant maturité || 8 heures avant maturité || 5 heures 20 mins avant maturité
+|-
+| [[Shuca/fr|Jouca]] || 10 heures 52 mins avant maturité || 7 heures 15 mins avant maturité || 4 heures 50 mins avant maturité
+|-
+| [[Charti/fr|Charti]] || 10 heures 22 mins avant maturité || 6 heures 55 mins avant maturité || 4 heures 37 mins avant maturité
+|-
+| [[Chople/fr|Pomroz]] || 9 heures 52 mins avant maturité || 6 heures 35 mins avant maturité || 4 heures 23 mins avant maturité
+|-
+| [[Payapa/fr|Yapap]] || 9 heures 22 mins avant maturité || 6 heures 15 mins avant maturité || 4 heures 10 mins avant maturité
+|-
+| [[Rindo/fr|Ratam]] || 7 heures 52 mins avant maturité || 5 heures 15 mins avant maturité || 3 heures 27 mins avant maturité
+|-
+| [[Colbur/fr|Lampou]] || 7 heures 22 mins avant maturité || 4 heures 55 mins avant maturité || 3 heures 17 mins avant maturité
+|-
+| [[Roseli/fr|Selro]] || 6 heures 52 mins avant maturité || 4 heures 35 mins avant maturité || 3 heures 3 mins avant maturité
+|-
+| [[Occa/fr|Chocco]] || 5 heures 58 mins avant maturité || 3 heures 59 mins avant maturité || 2 heures 39 mins avant maturité
+|-
+| [[Passho/fr|Pocpoc]] || 5 heures 52 mins avant maturité || 3 heures 55 mins avant maturité || 2 heures 37 mins avant maturité
+|-
+| [[Coba/fr|Cobaba]] || 5 heures 22 mins avant maturité || 3 heures 35 mins avant maturité || 2 heures 23 mins avant maturité
+|-
+| [[Chilan/fr|Zalis]] || 1 heure 52 mins avant maturité || 1 heure 15 mins avant maturité || 50 mins avant maturité
+|-
+| [[Tanga/fr|Panga]] || 1 heure 32 mins avant maturité || 1 heure 1 min avant maturité || 41 mins avant maturité
+|-
+| [[Wacan/fr|Parma]] || 53 mins avant maturité || 35 mins 30 secs avant maturité || 23 mins 30 secs avant maturité
+|-
+| [[Kebia/fr|Kébia]] || 10 mins avant maturité || 6 mins 40 secs avant maturité || 4 mins 27 secs
+|-
+| [[Kasib/fr|Sédra]] || 5 mins avant maturité || 3 mins 20 secs avant maturité || 2 mins 13 secs
+|-
+|}
+
+Si la [[Wacan/fr|Parma]] flétrit, récoltez et replantez la [[Chilan/fr|Zalis]], la [[Tanga/fr|Panga]] et la [[Wacan/fr|Parma]] en suivant ce tableau pour relancer la formation. Notez que vous devrez vous assurer qu'il reste au moins 2 heures et 46 minutes (3 heures 26 minutes sans Fertibérance) au chrono de la [[Coba/fr|Cobaba]] et de la [[Shuca/fr|Jouca]] pour avoir une autre cycle complet de [[Wacan/fr|Parma]]. Vous pourriez aussi replanter la [[Kasib/fr|Sédra]] pour éviter que la [[Shuca/fr|Jouca]] ne flétrisse avant la [[Coba/fr|Cobaba]], mais ce n'est pas très important à ce moment-là.
+
+{| class="wikitable" | style="text-align: center;"
+|+ ''Tous les temps indiqués sont basés sur le temps restant avant que la première baie plantée n'arrive à maturité''
+! Baie !! Temps de plantation&lt;br&gt;sans modificateur!! Temps de plantation avec &lt;br&gt; Engrais ou Kwakarrosoir || Temps de plantation avec &lt;br&gt; Engrais et Kwakarrosoir
+|-
+| [[Chilan/fr|Zalis]] || - || - || -
+|-
+| [[Tanga/fr|Panga]] || - || - || -
+|-
+| [[Wacan/fr|Parma]] || 1 heure 25 mins 42 secs avant maturité ||  57 mins 8 secs until ripe || 38 mins 5 secs avant maturité
+|-
+|}
+
+==Utilisation==
+
+===Mutations===
+
+Les baies Pitaye peuvent être utilisées pour faire muter les baies suivantes.
+
+{| class="wikitable" | style="text-align: center;"
+|-
+! Utilisée pour !! Plantée avec
+|-
+| [[File:Maranga.png|20px]] [[Maranga/fr|Rangma]] || [[File:Salac.png|20px]] [[Salac/fr|Sailak]]
+|-
+|}
+
+&lt;br&gt;
+==Utiliser la Pitaye==
+Des agencements de Ferme utilisant la Pitaye peuvent être consultés sur ces pages&amp;nbsp;:
+* [[Pokémon_Day_Care/fr|Maximiser le gain de pas pour une reproduction plus rapide des Pokémon]] 
+* [[Shiny Chance/fr|Maximiser les chances de Pokémon chromatiques pour rendre chromatique tous les Pokémon]]
+* [[Farming Setups/fr|Divers agencements de Ferme utiles]]
+&lt;br&gt;
+
+{{Berries}}
+
+[[Category:Farm]][[Category:Berries]]</text>
+    <contributor>
+      <username>LeChatMG</username>
+      <id>97</id>
+    </contributor>
+    <comment>Created page with "{{Berries}}"</comment>
+    <model>wikitext</model>
+    <parentid>23791</parentid>
+    <sha1>f97f1d92e7125c8142d36528731cc2aac448aa85</sha1>
+  </revision>
+  <revision>
+    <id>23791</id>
+    <timestamp>2022-08-16T16:04:53Z</timestamp>
+    <text bytes="16205" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #63 Pitaye
+|image   = [[File:Petaya.png]]
+|caption = Une Baie mystérieuse, censée contenir le pouvoir de la vie.&lt;br&gt;Ce pouvoir maintient les autres Baies en vie plus longtemps.
+|growtime  = 1j
+|harvest = 0,5 baies
+|replant = 0%
+|mutation = 0,001%
+|points = 15&amp;nbsp;000
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*30 épicée
+*0 sèche
+*0 sucrée
+*30 amère
+*10 acide
+}}
+
+'''Pitaye''' est un type de [[Berries/fr|Baie]] qui peut être plantée à la [[Farm/fr|Ferme]]. Elle s'obtient en ayant au moins une parcelle vide et au moins 1 plant de chacune des [[Berries#Baies de Gen 4|Baies de quatrième génération]] dans le champ.
+
+=== Stades de croissance ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+|-
+! !! Pousse !! Arbuste !! Fleuri !! Mûr
+|-
+! Temps écoulé depuis plantation
+| 3 hours || 6 hours || 12 hours || 1 day - 5 days
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:PetayaTreeTaller.png|50px]] || &lt;center&gt; [[File:PetayaTreeBloom.png|50px]] || &lt;center&gt; [[File:PetayaTreeBerry.png|50px]]
+|-
+! Aura (empêche le flétrissement)
+| colspan=3| &lt;center&gt; None || &lt;center&gt; Empêche les baies mûre des flétrir
+|}
+
+===Temps de croissance avec modificateurs===
+{| class="wikitable collapsible" | style="text-align: center;"
+! Modificateur !! Temps maturité-flétrissement !! Fertibérance nécessaire pour mûrir
+|-
+! Aucun
+| 1 jour -&lt;br&gt; 5 jours || &lt;center&gt; ---
+|-
+! Engrais ou Kwakarrosoir
+| 16 heures -&lt;br&gt; 80 heures || &lt;center&gt; 192 engrais
+|-
+! Engrais et Kwakarrosoir
+| 10 heures 40 mins -&lt;br&gt; 53 heures 20 mins || &lt;center&gt; 128 engrais
+|}
+
+== Organigramme ==
+[[File:Petaya_Flow_Chart.png|850px]]
+&lt;br&gt;
+
+== Stratégie de mutation ==
+=== Formations possibles ===
+
+Vous pouvez remplir votre ferme de la manière suivante pour obtenir des baies Pitaye. Notez que la [[Occa/fr|Chocco]], la [[Kebia/fr|Kébia]] et la [[Colbur/fr|Lampou]] peuvent remplacer d'autres plants, elles sont donc placées autour d'une [[Babiri/fr|Babiri]] pour éviter ça. La [[Kebia/fr|Kébia]] et la [[Payapa/fr|Yapap]] augmentent les chances de mutation et sont placées de sorte à affecter le plus de parcelles pouvant muter possibles. La [[Babiri/fr|Babiri]] réduit les chances de mutation et la [[Rindo/fr|Ratam]] s'étend sur les parcelles vides, elles ne sont donc pas placées à côté de parcelles pouvant muter. La [[Wacan/fr|Parma]], la [[Yache/fr|Nanone]] et la [[Haban/fr|Fraigo]] affectent toutes les temps de croissance et sont donc placées dans l'angle avec des baies dont les temps de croissance sont court afin de limiter leur impact et de rendre les timings plus simples. En utilisant du [[Farm_Items/fr|Fertistantané]], un [[Squirtbottle/fr|Carapuce à O]] au niveau max et en suivant la formation suivante, vous avez environ 90,2% de chances (60,5% sans le [[Squirtbottle/fr|Carapuce à O]]) d'obtenir une Pitaye avant que la première baie n'ait besoin d'être replantée. Les cases violettes indiquent où les mutations peuvent avoir lieu.
+
+{| class="wikitable" style="text-align: center;"
+|+ Ferme
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Kasib.png|30px]]&lt;br&gt;[[Kasib/fr|Sédra]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Payapa.png|30px]]&lt;br&gt;[[Payapa/fr|Yapap]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Yache.png|30px]]&lt;br&gt;[[Yache/fr|Nanone]]
+|- style="height: 50px;"
+| [[File:Shuca.png|30px]]&lt;br&gt;[[Shuca/fr|Jouca]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Wacan.png|30px]]&lt;br&gt;[[Wacan/fr|Parma]] 
+|- style="height: 30px;"
+| [[File:Chople.png|30px]]&lt;br&gt;[[Chople/fr|Pomroz]] || [[File:Coba.png|30px]]&lt;br&gt;[[Coba/fr|Cobaba]] || [[File:Kebia.png|30px]]&lt;br&gt;[[Kebia/fr|Kébia]] || style="background-color:#9C7D98;" | || [[File:Haban.png|30px]]&lt;br&gt;[[Haban/fr|Fraigo]] 
+|-
+| [[File:Colbur.png|30px]]&lt;br&gt;[[Colbur/fr|Lampou]] || [[File:Babiri.png|30px]]&lt;br&gt;[[Babiri/fr|Babiri]] || [[File:Charti.png|30px]]&lt;br&gt;[[Charti/fr|Charti]] || style="background-color:#9C7D98;" | || [[File:Tanga.png|30px]]&lt;br&gt;[[Tanga/fr|Panga]]
+|-
+| [[File:Occa.png|30px]]&lt;br&gt;[[Occa/fr|Chocco]] || [[File:Rindo.png|30px]]&lt;br&gt;[[Rindo/fr|Ratam]] || [[File:Passho.png|30px]]&lt;br&gt;[[Passho/fr|Pocpoc]] || [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli/fr|Selro]] || [[File:Chilan.png|30px]]&lt;br&gt;[[Chilan/fr|Zalis]]
+|}
+
+{| class="wikitable floatright" style="text-align: center;"
+|+ Minutage externe
+! Baie !! Temps !! Quantité d'engrais
+|-
+| [[Haban/fr|Fraigo]] || --- || 128
+|-
+| [[Babiri/fr|Babiri]] || --- || 52
+|-
+| [[Yache/fr|Nanone]] || 2 h 40 mins || --- 
+|-
+| [[Shuca/fr|Jouca]] || 3 h 14 mins 10 secs || ---
+|-
+| [[Charti/fr|Charti]] || 3 h 34 mins 10 secs|| ---
+|-
+| [[Chople/fr|Pomroz]] || 3 h 54 mins 10 secs || ---
+|-
+| [[Payapa/fr|Yapap]] || 4 h 14 mins 10 secs || ---
+|-
+| [[Rindo/fr|Ratam]] || 5 h 14 mins 10 secs || ---
+|-
+| [[Colbur/fr|Lampou]] || 5 h 34 mins 10 secs || ---
+|-
+| [[Roseli/fr|Selro]] || 5 h 54 mins 10 secs || ---
+|-
+| [[Occa/fr|Chocco]] || 6 h 30 mins 10 secs || ---
+|-
+| [[Passho/fr|Pocpoc]] || 6 h 34 mins 10 secs || ---
+|-
+| [[Coba/fr|Cobaba]] || 6 h 54 mins 10 secs || ---
+|-
+| [[Chilan/fr|Zalis]] || 9 h 14 mins 10 secs || ---
+|-
+| [[Tanga/fr|Panga]] || 9 h 27 mins 30 secs || ---
+|-
+| [[Wacan/fr|Parma]] || 9 h 52 mins 30 secs || ---
+|-
+| [[Kebia/fr|Kébia]] || 10 h 27 mins 30 secs || ---
+|-
+| [[Kasib/fr|Sédra]] || 10 h 30 mins 50 secs || ---
+|}
+
+==== Notes importantes ====
+
+Avant de démarrer ce processus, vous devez être prêt à passer près de 11 heures voire plus à côté de votre machine avec PokéClicker, ou au moins de pouvoir mettre vos chronomètres en pause pour faire des pauses. 
+
+* En suivant les temps listés dans le tableau à droite, toutes les baies mûriront à dix minutes d'intervalle les unes des autres. Chaque temps indique quand la baie correspondante doit être plantée.
+
+* Les minutages supposent que vous avez un [[Sprayduck/fr|Kwakarrosoir]] au niveau max ainsi que les quantités de Fertibérance indiquées sur les parcelles en question. Toutes les doses de Fertibérance devraient être appliquées au moment du plantage. Au total, vous aurez besoin de 180 doses de Fertibérance pour terminer l'ensemble du processus ; mais il est fortement recommandé d'avoir au moins 250 doses de Fertibérance en réserve au cas où les choses tourneraient mal. Notez que bien que la [[Babiri/fr|Babiri]] mûrira à peu près en même temps que la [[Haban/fr|Fraigo]] avec seulement 35 doses de Fertibérance, cela reste une fenêtre très serrée. Davantage de doses sont ajoutées pour s'assurer qu'elle mûrisse en premier afin d'éviter le risque que d'autres baies soient remplacées par des [[Occa/fr|Chocco]], des [[Colbur/fr|Lampou]], ou des [[Kebia/fr|Kébia]].
+
+* Le site gratuit [https://www.timeanddate.com/timer/ timeanddate.com] est une excellente ressource pour régler plusieurs chronomètres simultanément. Le minutage commence au moment du plantage de la première baie. Déclenchez tous vos chronomètres au moment exact où vous plantez la [[Haban/fr|Fraigo]] et la [[Babiri/fr|Babiri]].
+
+* Notez qu'il y a peu de périodes creuses de plus d'une heure ; les chronomètres de la Ferme ne tournent pas tant que le jeu n'est pas ouvert, vous pouvez donc faire des pauses au cours de ce processus.
+
+* Il est est très important que la [[Babiri/fr|Babiri]] finisse de mûrir avant la [[Occa/fr|Chocco]], la [[Colbur/fr|Lampou]] et la [[Kebia/fr|Kébia]]. De fait, elle est plantée de manière à mûrir très tôt puisqu'elle a aussi une durée de vie très longue. En suivant les tableaux ci-dessous, basez vos temps de plantage sur le temps restant à [[Haban/fr|Fraigo]] pour mûrir. N'utilisez pas d'autre baie pour vos minutages.
+
+===== Information critique pour quand les baies sont toutes mûres =====
+
+Lorsque les 18 baies sont mûres, les conditions requises pour l'apparition de Pitaye sont toutes remplies. À ce moment, remplacez immédiatement votre [[Sprayduck/fr|Kwakarrosoir]] par le [[Squirtbottle/fr|Carapuce à O]] si possible, où par un autre [[Oak Items/fr|Objet de Chen]] sinon. Il est fortement recommendé de faire une sauvgarde à ce moment afind de ne pas avoir à recommencer tout le processus du début au cas où aucune mutation ne se produit. Les Pitaye peuvent apparaître sur n'importe lesquelles des sept parcelles vide de votre ferme. Les sept parcelles vides devraient être continuellement recouverte de Fertistantané. Notez que bien que la [[Kebia/fr|Kébia]] a la possibilité de remplacer d'autres baies, elle ne peut le faire que sur des plants au stade arbuste ou plus, vous pourrez donc laisser les mutations continuer si vous souhaitez muter plusieurs Petaya avant que la [[Wacan/fr|Parma]] ne flétrisse. Plus précisément, vous avez 6 heures à partir du moment de la mutation pour enlever la [[Kebia/fr|Kébia]] avant qu'elle ne menace votre Petaya fraîchement mutée, sauf si elle a muté sur une des deux parcelles du bord.
+
+===== Petaya avec Fertigel (mode facile) =====
+Faire muter une Pitaye avec du Fertigel rend la chose incroyablement facile. Tout ce que vous avez à faire, c'est de planter toutes les baies en même temps, tel qu'indiqué sur la formation de mutation, et de simplemnt appliquer la bonne quantité de Fertigel sur les graines de baie, de telle manière que lorsque l'effet du Fertigel s'estompera, la baie poussera comme si vous veniez tout juste de la planter comme indiqué sur le tableau de minutage. Le tableau ci-dessous indique la quantité de Fertigel nécessaire pour que les minutages soient corrects. La Sédra et la Kébia ont un temps de croissance si court (5 et 10 minutes sans Kwakarrosoir) qu'il est probablement plus simple de ne les planter que lorsque les autres baies sont quasi mûres, d'où la mention optionnel.
+{| class="collapsible wikitable collapsed"| style="text-align: center;"
+! Baie !! Fertigel nécessaire
+|+ ''Note&amp;nbsp;: Cette table suppose que vous avez appliqué 128 doses de Fertibérance sur la Fraigo et 52 doses sur la Babiri, le tout sans équiper le Kwakarrosoir''
+|-
+| [[Haban/fr|Fraigo]] || 0
+|-
+| [[Babiri/fr|Babiri]] || 0
+|-
+| [[Yache/fr|Nanone]] || 32
+|-
+| [[Shuca/fr|Jouca]] || 39
+|-
+| [[Charti/fr|Charti]] || 43
+|-
+| [[Chople/fr|Pomroz]] || 47
+|-
+| [[Payapa/fr|Yapap]] || 51
+|-
+| [[Rindo/fr|Ratam]] || 63
+|-
+| [[Colbur/fr|Lampou]] || 67
+|-
+| [[Roseli/fr|Selro]] || 71
+|-
+| [[Occa/fr|Chocco]] || 78
+|-
+| [[Passho/fr|Pocpoc]] || 79
+|-
+| [[Coba/fr|Cobaba]] || 83
+|-
+| [[Chilan/fr|Zalis]] || 111
+|-
+| [[Tanga/fr|Panga]] || 113
+|-
+| [[Wacan/fr|Parma]] || 119
+|-
+| [[Kebia/fr|Kébia]] || 125 (optionnel)
+|-
+| [[Kasib/fr|Sédra]] || 126 (optionnel)
+|}
+
+===== Que faire si aucune Pitaye n'est apparue alors ques les autres baies commencent à flétrir =====
+
+La première baie à flétrir sera la [[Wacan/fr|Parma]] — elle flétrit environ 1 heure et 25 mins après avoir atteint sa maturité. Cela ''devrait'' être suffisant pour qu'une Pitaye puisse apparaître. Si la [[Wacan/fr|Parma]] flétrit avant mutation, vous devrez replanter la [[Chilan/fr|Zalis]], la [[Tanga/fr|Panga]] et la [[Wacan/fr|Parma]]. Si vous commencez 38 minutes avant le flétrissement de la [[Wacan/fr|Parma]] (1 heure 15 minutes avec Fertibérance), vous ''devriez'' avoir un autre cycle complet de [[Wacan/fr|Parma]] avant que la [[Coba/fr|Cobaba]] ne flétrisse et que vous n'ayez à tout reprendre depuis le début. La possibilité de faire ainsi augmente les chances globales de mutation à 99%, ou 84,4% sans [[Squirtbottle/fr|Carapuce à O]].
+
+==== Tableau de minutage ====
+{| class="collapsible wikitable"| style="text-align: center;"
+|+ ''Tous les temps indiqués sont basés sur le temps restant avant que la première baie plantée n'arrive à maturité''
+! Baie !! Temps de plantation&lt;br&gt;sans modificateur!! Temps de plantation avec &lt;br&gt; Engrais ou Kwakarrosoir || Temps de plantation avec &lt;br&gt; Engrais et Kwakarrosoir
+|-
+| [[Haban/fr|Fraigo]] || - || - || -
+|-
+| [[Babiri/fr|Babiri]] || 20 heures avant maturité || 14 heures avant maturité || 10 heures avant maturité
+|-
+| [[Yache/fr|Nanone]] || 12 heures avant maturité || 8 heures avant maturité || 5 heures 20 mins avant maturité
+|-
+| [[Shuca/fr|Jouca]] || 10 heures 52 mins avant maturité || 7 heures 15 mins avant maturité || 4 heures 50 mins avant maturité
+|-
+| [[Charti/fr|Charti]] || 10 heures 22 mins avant maturité || 6 heures 55 mins avant maturité || 4 heures 37 mins avant maturité
+|-
+| [[Chople/fr|Pomroz]] || 9 heures 52 mins avant maturité || 6 heures 35 mins avant maturité || 4 heures 23 mins avant maturité
+|-
+| [[Payapa/fr|Yapap]] || 9 heures 22 mins avant maturité || 6 heures 15 mins avant maturité || 4 heures 10 mins avant maturité
+|-
+| [[Rindo/fr|Ratam]] || 7 heures 52 mins avant maturité || 5 heures 15 mins avant maturité || 3 heures 27 mins avant maturité
+|-
+| [[Colbur/fr|Lampou]] || 7 heures 22 mins avant maturité || 4 heures 55 mins avant maturité || 3 heures 17 mins avant maturité
+|-
+| [[Roseli/fr|Selro]] || 6 heures 52 mins avant maturité || 4 heures 35 mins avant maturité || 3 heures 3 mins avant maturité
+|-
+| [[Occa/fr|Chocco]] || 5 heures 58 mins avant maturité || 3 heures 59 mins avant maturité || 2 heures 39 mins avant maturité
+|-
+| [[Passho/fr|Pocpoc]] || 5 heures 52 mins avant maturité || 3 heures 55 mins avant maturité || 2 heures 37 mins avant maturité
+|-
+| [[Coba/fr|Cobaba]] || 5 heures 22 mins avant maturité || 3 heures 35 mins avant maturité || 2 heures 23 mins avant maturité
+|-
+| [[Chilan/fr|Zalis]] || 1 heure 52 mins avant maturité || 1 heure 15 mins avant maturité || 50 mins avant maturité
+|-
+| [[Tanga/fr|Panga]] || 1 heure 32 mins avant maturité || 1 heure 1 min avant maturité || 41 mins avant maturité
+|-
+| [[Wacan/fr|Parma]] || 53 mins avant maturité || 35 mins 30 secs avant maturité || 23 mins 30 secs avant maturité
+|-
+| [[Kebia/fr|Kébia]] || 10 mins avant maturité || 6 mins 40 secs avant maturité || 4 mins 27 secs
+|-
+| [[Kasib/fr|Sédra]] || 5 mins avant maturité || 3 mins 20 secs avant maturité || 2 mins 13 secs
+|-
+|}
+
+Si la [[Wacan/fr|Parma]] flétrit, récoltez et replantez la [[Chilan/fr|Zalis]], la [[Tanga/fr|Panga]] et la [[Wacan/fr|Parma]] en suivant ce tableau pour relancer la formation. Notez que vous devrez vous assurer qu'il reste au moins 2 heures et 46 minutes (3 heures 26 minutes sans Fertibérance) au chrono de la [[Coba/fr|Cobaba]] et de la [[Shuca/fr|Jouca]] pour avoir une autre cycle complet de [[Wacan/fr|Parma]]. Vous pourriez aussi replanter la [[Kasib/fr|Sédra]] pour éviter que la [[Shuca/fr|Jouca]] ne flétrisse avant la [[Coba/fr|Cobaba]], mais ce n'est pas très important à ce moment-là.
+
+{| class="wikitable" | style="text-align: center;"
+|+ ''Tous les temps indiqués sont basés sur le temps restant avant que la première baie plantée n'arrive à maturité''
+! Baie !! Temps de plantation&lt;br&gt;sans modificateur!! Temps de plantation avec &lt;br&gt; Engrais ou Kwakarrosoir || Temps de plantation avec &lt;br&gt; Engrais et Kwakarrosoir
+|-
+| [[Chilan/fr|Zalis]] || - || - || -
+|-
+| [[Tanga/fr|Panga]] || - || - || -
+|-
+| [[Wacan/fr|Parma]] || 1 heure 25 mins 42 secs avant maturité ||  57 mins 8 secs until ripe || 38 mins 5 secs avant maturité
+|-
+|}
+
+==Utilisation==
+
+===Mutations===
+
+Les baies Pitaye peuvent être utilisées pour faire muter les baies suivantes.
+
+{| class="wikitable" | style="text-align: center;"
+|-
+! Utilisée pour !! Plantée avec
+|-
+| [[File:Maranga.png|20px]] [[Maranga/fr|Rangma]] || [[File:Salac.png|20px]] [[Salac/fr|Sailak]]
+|-
+|}
+
+&lt;br&gt;
+==Utiliser la Pitaye==
+Des agencements de Ferme utilisant la Pitaye peuvent être consultés sur ces pages&amp;nbsp;:
+* [[Pokémon_Day_Care/fr|Maximiser le gain de pas pour une reproduction plus rapide des Pokémon]] 
+* [[Shiny Chance/fr|Maximiser les chances de Pokémon chromatiques pour rendre chromatique tous les Pokémon]]
+* [[Farming Setups/fr|Divers agencements de Ferme utiles]]
+&lt;br&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+[[Category:Farm]][[Category:Berries]]</text>
+    <contributor>
+      <username>LeChatMG</username>
+      <id>97</id>
+    </contributor>
+    <comment>Created page with "&lt;br&gt; ==Utiliser la Pitaye== Des agencements de Ferme utilisant la Pitaye peuvent être consultés sur ces pages&amp;nbsp;: * [[Pokémon_Day_Care/fr|Maximiser le gain de pas pour une reproduction plus rapide des Pokémon]]  * [[Shiny Chance/fr|Maximiser les chances de Pokémon chromatiques pour rendre chromatique tous les Pokémon]] * [[Farming Setups/fr|Divers agencements de Ferme utiles]] &lt;br&gt;"</comment>
+    <model>wikitext</model>
+    <parentid>23790</parentid>
+    <sha1>ce1429af7fc3857cfc53115faf1b9cb3e779127a</sha1>
+  </revision>
+  <revision>
+    <id>23790</id>
+    <timestamp>2022-08-16T16:03:48Z</timestamp>
+    <text bytes="16136" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #63 Pitaye
+|image   = [[File:Petaya.png]]
+|caption = Une Baie mystérieuse, censée contenir le pouvoir de la vie.&lt;br&gt;Ce pouvoir maintient les autres Baies en vie plus longtemps.
+|growtime  = 1j
+|harvest = 0,5 baies
+|replant = 0%
+|mutation = 0,001%
+|points = 15&amp;nbsp;000
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*30 épicée
+*0 sèche
+*0 sucrée
+*30 amère
+*10 acide
+}}
+
+'''Pitaye''' est un type de [[Berries/fr|Baie]] qui peut être plantée à la [[Farm/fr|Ferme]]. Elle s'obtient en ayant au moins une parcelle vide et au moins 1 plant de chacune des [[Berries#Baies de Gen 4|Baies de quatrième génération]] dans le champ.
+
+=== Stades de croissance ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+|-
+! !! Pousse !! Arbuste !! Fleuri !! Mûr
+|-
+! Temps écoulé depuis plantation
+| 3 hours || 6 hours || 12 hours || 1 day - 5 days
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:PetayaTreeTaller.png|50px]] || &lt;center&gt; [[File:PetayaTreeBloom.png|50px]] || &lt;center&gt; [[File:PetayaTreeBerry.png|50px]]
+|-
+! Aura (empêche le flétrissement)
+| colspan=3| &lt;center&gt; None || &lt;center&gt; Empêche les baies mûre des flétrir
+|}
+
+===Temps de croissance avec modificateurs===
+{| class="wikitable collapsible" | style="text-align: center;"
+! Modificateur !! Temps maturité-flétrissement !! Fertibérance nécessaire pour mûrir
+|-
+! Aucun
+| 1 jour -&lt;br&gt; 5 jours || &lt;center&gt; ---
+|-
+! Engrais ou Kwakarrosoir
+| 16 heures -&lt;br&gt; 80 heures || &lt;center&gt; 192 engrais
+|-
+! Engrais et Kwakarrosoir
+| 10 heures 40 mins -&lt;br&gt; 53 heures 20 mins || &lt;center&gt; 128 engrais
+|}
+
+== Organigramme ==
+[[File:Petaya_Flow_Chart.png|850px]]
+&lt;br&gt;
+
+== Stratégie de mutation ==
+=== Formations possibles ===
+
+Vous pouvez remplir votre ferme de la manière suivante pour obtenir des baies Pitaye. Notez que la [[Occa/fr|Chocco]], la [[Kebia/fr|Kébia]] et la [[Colbur/fr|Lampou]] peuvent remplacer d'autres plants, elles sont donc placées autour d'une [[Babiri/fr|Babiri]] pour éviter ça. La [[Kebia/fr|Kébia]] et la [[Payapa/fr|Yapap]] augmentent les chances de mutation et sont placées de sorte à affecter le plus de parcelles pouvant muter possibles. La [[Babiri/fr|Babiri]] réduit les chances de mutation et la [[Rindo/fr|Ratam]] s'étend sur les parcelles vides, elles ne sont donc pas placées à côté de parcelles pouvant muter. La [[Wacan/fr|Parma]], la [[Yache/fr|Nanone]] et la [[Haban/fr|Fraigo]] affectent toutes les temps de croissance et sont donc placées dans l'angle avec des baies dont les temps de croissance sont court afin de limiter leur impact et de rendre les timings plus simples. En utilisant du [[Farm_Items/fr|Fertistantané]], un [[Squirtbottle/fr|Carapuce à O]] au niveau max et en suivant la formation suivante, vous avez environ 90,2% de chances (60,5% sans le [[Squirtbottle/fr|Carapuce à O]]) d'obtenir une Pitaye avant que la première baie n'ait besoin d'être replantée. Les cases violettes indiquent où les mutations peuvent avoir lieu.
+
+{| class="wikitable" style="text-align: center;"
+|+ Ferme
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Kasib.png|30px]]&lt;br&gt;[[Kasib/fr|Sédra]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Payapa.png|30px]]&lt;br&gt;[[Payapa/fr|Yapap]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Yache.png|30px]]&lt;br&gt;[[Yache/fr|Nanone]]
+|- style="height: 50px;"
+| [[File:Shuca.png|30px]]&lt;br&gt;[[Shuca/fr|Jouca]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Wacan.png|30px]]&lt;br&gt;[[Wacan/fr|Parma]] 
+|- style="height: 30px;"
+| [[File:Chople.png|30px]]&lt;br&gt;[[Chople/fr|Pomroz]] || [[File:Coba.png|30px]]&lt;br&gt;[[Coba/fr|Cobaba]] || [[File:Kebia.png|30px]]&lt;br&gt;[[Kebia/fr|Kébia]] || style="background-color:#9C7D98;" | || [[File:Haban.png|30px]]&lt;br&gt;[[Haban/fr|Fraigo]] 
+|-
+| [[File:Colbur.png|30px]]&lt;br&gt;[[Colbur/fr|Lampou]] || [[File:Babiri.png|30px]]&lt;br&gt;[[Babiri/fr|Babiri]] || [[File:Charti.png|30px]]&lt;br&gt;[[Charti/fr|Charti]] || style="background-color:#9C7D98;" | || [[File:Tanga.png|30px]]&lt;br&gt;[[Tanga/fr|Panga]]
+|-
+| [[File:Occa.png|30px]]&lt;br&gt;[[Occa/fr|Chocco]] || [[File:Rindo.png|30px]]&lt;br&gt;[[Rindo/fr|Ratam]] || [[File:Passho.png|30px]]&lt;br&gt;[[Passho/fr|Pocpoc]] || [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli/fr|Selro]] || [[File:Chilan.png|30px]]&lt;br&gt;[[Chilan/fr|Zalis]]
+|}
+
+{| class="wikitable floatright" style="text-align: center;"
+|+ Minutage externe
+! Baie !! Temps !! Quantité d'engrais
+|-
+| [[Haban/fr|Fraigo]] || --- || 128
+|-
+| [[Babiri/fr|Babiri]] || --- || 52
+|-
+| [[Yache/fr|Nanone]] || 2 h 40 mins || --- 
+|-
+| [[Shuca/fr|Jouca]] || 3 h 14 mins 10 secs || ---
+|-
+| [[Charti/fr|Charti]] || 3 h 34 mins 10 secs|| ---
+|-
+| [[Chople/fr|Pomroz]] || 3 h 54 mins 10 secs || ---
+|-
+| [[Payapa/fr|Yapap]] || 4 h 14 mins 10 secs || ---
+|-
+| [[Rindo/fr|Ratam]] || 5 h 14 mins 10 secs || ---
+|-
+| [[Colbur/fr|Lampou]] || 5 h 34 mins 10 secs || ---
+|-
+| [[Roseli/fr|Selro]] || 5 h 54 mins 10 secs || ---
+|-
+| [[Occa/fr|Chocco]] || 6 h 30 mins 10 secs || ---
+|-
+| [[Passho/fr|Pocpoc]] || 6 h 34 mins 10 secs || ---
+|-
+| [[Coba/fr|Cobaba]] || 6 h 54 mins 10 secs || ---
+|-
+| [[Chilan/fr|Zalis]] || 9 h 14 mins 10 secs || ---
+|-
+| [[Tanga/fr|Panga]] || 9 h 27 mins 30 secs || ---
+|-
+| [[Wacan/fr|Parma]] || 9 h 52 mins 30 secs || ---
+|-
+| [[Kebia/fr|Kébia]] || 10 h 27 mins 30 secs || ---
+|-
+| [[Kasib/fr|Sédra]] || 10 h 30 mins 50 secs || ---
+|}
+
+==== Notes importantes ====
+
+Avant de démarrer ce processus, vous devez être prêt à passer près de 11 heures voire plus à côté de votre machine avec PokéClicker, ou au moins de pouvoir mettre vos chronomètres en pause pour faire des pauses. 
+
+* En suivant les temps listés dans le tableau à droite, toutes les baies mûriront à dix minutes d'intervalle les unes des autres. Chaque temps indique quand la baie correspondante doit être plantée.
+
+* Les minutages supposent que vous avez un [[Sprayduck/fr|Kwakarrosoir]] au niveau max ainsi que les quantités de Fertibérance indiquées sur les parcelles en question. Toutes les doses de Fertibérance devraient être appliquées au moment du plantage. Au total, vous aurez besoin de 180 doses de Fertibérance pour terminer l'ensemble du processus ; mais il est fortement recommandé d'avoir au moins 250 doses de Fertibérance en réserve au cas où les choses tourneraient mal. Notez que bien que la [[Babiri/fr|Babiri]] mûrira à peu près en même temps que la [[Haban/fr|Fraigo]] avec seulement 35 doses de Fertibérance, cela reste une fenêtre très serrée. Davantage de doses sont ajoutées pour s'assurer qu'elle mûrisse en premier afin d'éviter le risque que d'autres baies soient remplacées par des [[Occa/fr|Chocco]], des [[Colbur/fr|Lampou]], ou des [[Kebia/fr|Kébia]].
+
+* Le site gratuit [https://www.timeanddate.com/timer/ timeanddate.com] est une excellente ressource pour régler plusieurs chronomètres simultanément. Le minutage commence au moment du plantage de la première baie. Déclenchez tous vos chronomètres au moment exact où vous plantez la [[Haban/fr|Fraigo]] et la [[Babiri/fr|Babiri]].
+
+* Notez qu'il y a peu de périodes creuses de plus d'une heure ; les chronomètres de la Ferme ne tournent pas tant que le jeu n'est pas ouvert, vous pouvez donc faire des pauses au cours de ce processus.
+
+* Il est est très important que la [[Babiri/fr|Babiri]] finisse de mûrir avant la [[Occa/fr|Chocco]], la [[Colbur/fr|Lampou]] et la [[Kebia/fr|Kébia]]. De fait, elle est plantée de manière à mûrir très tôt puisqu'elle a aussi une durée de vie très longue. En suivant les tableaux ci-dessous, basez vos temps de plantage sur le temps restant à [[Haban/fr|Fraigo]] pour mûrir. N'utilisez pas d'autre baie pour vos minutages.
+
+===== Information critique pour quand les baies sont toutes mûres =====
+
+Lorsque les 18 baies sont mûres, les conditions requises pour l'apparition de Pitaye sont toutes remplies. À ce moment, remplacez immédiatement votre [[Sprayduck/fr|Kwakarrosoir]] par le [[Squirtbottle/fr|Carapuce à O]] si possible, où par un autre [[Oak Items/fr|Objet de Chen]] sinon. Il est fortement recommendé de faire une sauvgarde à ce moment afind de ne pas avoir à recommencer tout le processus du début au cas où aucune mutation ne se produit. Les Pitaye peuvent apparaître sur n'importe lesquelles des sept parcelles vide de votre ferme. Les sept parcelles vides devraient être continuellement recouverte de Fertistantané. Notez que bien que la [[Kebia/fr|Kébia]] a la possibilité de remplacer d'autres baies, elle ne peut le faire que sur des plants au stade arbuste ou plus, vous pourrez donc laisser les mutations continuer si vous souhaitez muter plusieurs Petaya avant que la [[Wacan/fr|Parma]] ne flétrisse. Plus précisément, vous avez 6 heures à partir du moment de la mutation pour enlever la [[Kebia/fr|Kébia]] avant qu'elle ne menace votre Petaya fraîchement mutée, sauf si elle a muté sur une des deux parcelles du bord.
+
+===== Petaya avec Fertigel (mode facile) =====
+Faire muter une Pitaye avec du Fertigel rend la chose incroyablement facile. Tout ce que vous avez à faire, c'est de planter toutes les baies en même temps, tel qu'indiqué sur la formation de mutation, et de simplemnt appliquer la bonne quantité de Fertigel sur les graines de baie, de telle manière que lorsque l'effet du Fertigel s'estompera, la baie poussera comme si vous veniez tout juste de la planter comme indiqué sur le tableau de minutage. Le tableau ci-dessous indique la quantité de Fertigel nécessaire pour que les minutages soient corrects. La Sédra et la Kébia ont un temps de croissance si court (5 et 10 minutes sans Kwakarrosoir) qu'il est probablement plus simple de ne les planter que lorsque les autres baies sont quasi mûres, d'où la mention optionnel.
+{| class="collapsible wikitable collapsed"| style="text-align: center;"
+! Baie !! Fertigel nécessaire
+|+ ''Note&amp;nbsp;: Cette table suppose que vous avez appliqué 128 doses de Fertibérance sur la Fraigo et 52 doses sur la Babiri, le tout sans équiper le Kwakarrosoir''
+|-
+| [[Haban/fr|Fraigo]] || 0
+|-
+| [[Babiri/fr|Babiri]] || 0
+|-
+| [[Yache/fr|Nanone]] || 32
+|-
+| [[Shuca/fr|Jouca]] || 39
+|-
+| [[Charti/fr|Charti]] || 43
+|-
+| [[Chople/fr|Pomroz]] || 47
+|-
+| [[Payapa/fr|Yapap]] || 51
+|-
+| [[Rindo/fr|Ratam]] || 63
+|-
+| [[Colbur/fr|Lampou]] || 67
+|-
+| [[Roseli/fr|Selro]] || 71
+|-
+| [[Occa/fr|Chocco]] || 78
+|-
+| [[Passho/fr|Pocpoc]] || 79
+|-
+| [[Coba/fr|Cobaba]] || 83
+|-
+| [[Chilan/fr|Zalis]] || 111
+|-
+| [[Tanga/fr|Panga]] || 113
+|-
+| [[Wacan/fr|Parma]] || 119
+|-
+| [[Kebia/fr|Kébia]] || 125 (optionnel)
+|-
+| [[Kasib/fr|Sédra]] || 126 (optionnel)
+|}
+
+===== Que faire si aucune Pitaye n'est apparue alors ques les autres baies commencent à flétrir =====
+
+La première baie à flétrir sera la [[Wacan/fr|Parma]] — elle flétrit environ 1 heure et 25 mins après avoir atteint sa maturité. Cela ''devrait'' être suffisant pour qu'une Pitaye puisse apparaître. Si la [[Wacan/fr|Parma]] flétrit avant mutation, vous devrez replanter la [[Chilan/fr|Zalis]], la [[Tanga/fr|Panga]] et la [[Wacan/fr|Parma]]. Si vous commencez 38 minutes avant le flétrissement de la [[Wacan/fr|Parma]] (1 heure 15 minutes avec Fertibérance), vous ''devriez'' avoir un autre cycle complet de [[Wacan/fr|Parma]] avant que la [[Coba/fr|Cobaba]] ne flétrisse et que vous n'ayez à tout reprendre depuis le début. La possibilité de faire ainsi augmente les chances globales de mutation à 99%, ou 84,4% sans [[Squirtbottle/fr|Carapuce à O]].
+
+==== Tableau de minutage ====
+{| class="collapsible wikitable"| style="text-align: center;"
+|+ ''Tous les temps indiqués sont basés sur le temps restant avant que la première baie plantée n'arrive à maturité''
+! Baie !! Temps de plantation&lt;br&gt;sans modificateur!! Temps de plantation avec &lt;br&gt; Engrais ou Kwakarrosoir || Temps de plantation avec &lt;br&gt; Engrais et Kwakarrosoir
+|-
+| [[Haban/fr|Fraigo]] || - || - || -
+|-
+| [[Babiri/fr|Babiri]] || 20 heures avant maturité || 14 heures avant maturité || 10 heures avant maturité
+|-
+| [[Yache/fr|Nanone]] || 12 heures avant maturité || 8 heures avant maturité || 5 heures 20 mins avant maturité
+|-
+| [[Shuca/fr|Jouca]] || 10 heures 52 mins avant maturité || 7 heures 15 mins avant maturité || 4 heures 50 mins avant maturité
+|-
+| [[Charti/fr|Charti]] || 10 heures 22 mins avant maturité || 6 heures 55 mins avant maturité || 4 heures 37 mins avant maturité
+|-
+| [[Chople/fr|Pomroz]] || 9 heures 52 mins avant maturité || 6 heures 35 mins avant maturité || 4 heures 23 mins avant maturité
+|-
+| [[Payapa/fr|Yapap]] || 9 heures 22 mins avant maturité || 6 heures 15 mins avant maturité || 4 heures 10 mins avant maturité
+|-
+| [[Rindo/fr|Ratam]] || 7 heures 52 mins avant maturité || 5 heures 15 mins avant maturité || 3 heures 27 mins avant maturité
+|-
+| [[Colbur/fr|Lampou]] || 7 heures 22 mins avant maturité || 4 heures 55 mins avant maturité || 3 heures 17 mins avant maturité
+|-
+| [[Roseli/fr|Selro]] || 6 heures 52 mins avant maturité || 4 heures 35 mins avant maturité || 3 heures 3 mins avant maturité
+|-
+| [[Occa/fr|Chocco]] || 5 heures 58 mins avant maturité || 3 heures 59 mins avant maturité || 2 heures 39 mins avant maturité
+|-
+| [[Passho/fr|Pocpoc]] || 5 heures 52 mins avant maturité || 3 heures 55 mins avant maturité || 2 heures 37 mins avant maturité
+|-
+| [[Coba/fr|Cobaba]] || 5 heures 22 mins avant maturité || 3 heures 35 mins avant maturité || 2 heures 23 mins avant maturité
+|-
+| [[Chilan/fr|Zalis]] || 1 heure 52 mins avant maturité || 1 heure 15 mins avant maturité || 50 mins avant maturité
+|-
+| [[Tanga/fr|Panga]] || 1 heure 32 mins avant maturité || 1 heure 1 min avant maturité || 41 mins avant maturité
+|-
+| [[Wacan/fr|Parma]] || 53 mins avant maturité || 35 mins 30 secs avant maturité || 23 mins 30 secs avant maturité
+|-
+| [[Kebia/fr|Kébia]] || 10 mins avant maturité || 6 mins 40 secs avant maturité || 4 mins 27 secs
+|-
+| [[Kasib/fr|Sédra]] || 5 mins avant maturité || 3 mins 20 secs avant maturité || 2 mins 13 secs
+|-
+|}
+
+Si la [[Wacan/fr|Parma]] flétrit, récoltez et replantez la [[Chilan/fr|Zalis]], la [[Tanga/fr|Panga]] et la [[Wacan/fr|Parma]] en suivant ce tableau pour relancer la formation. Notez que vous devrez vous assurer qu'il reste au moins 2 heures et 46 minutes (3 heures 26 minutes sans Fertibérance) au chrono de la [[Coba/fr|Cobaba]] et de la [[Shuca/fr|Jouca]] pour avoir une autre cycle complet de [[Wacan/fr|Parma]]. Vous pourriez aussi replanter la [[Kasib/fr|Sédra]] pour éviter que la [[Shuca/fr|Jouca]] ne flétrisse avant la [[Coba/fr|Cobaba]], mais ce n'est pas très important à ce moment-là.
+
+{| class="wikitable" | style="text-align: center;"
+|+ ''Tous les temps indiqués sont basés sur le temps restant avant que la première baie plantée n'arrive à maturité''
+! Baie !! Temps de plantation&lt;br&gt;sans modificateur!! Temps de plantation avec &lt;br&gt; Engrais ou Kwakarrosoir || Temps de plantation avec &lt;br&gt; Engrais et Kwakarrosoir
+|-
+| [[Chilan/fr|Zalis]] || - || - || -
+|-
+| [[Tanga/fr|Panga]] || - || - || -
+|-
+| [[Wacan/fr|Parma]] || 1 heure 25 mins 42 secs avant maturité ||  57 mins 8 secs until ripe || 38 mins 5 secs avant maturité
+|-
+|}
+
+==Utilisation==
+
+===Mutations===
+
+Les baies Pitaye peuvent être utilisées pour faire muter les baies suivantes.
+
+{| class="wikitable" | style="text-align: center;"
+|-
+! Utilisée pour !! Plantée avec
+|-
+| [[File:Maranga.png|20px]] [[Maranga/fr|Rangma]] || [[File:Salac.png|20px]] [[Salac/fr|Sailak]]
+|-
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+==Using Petaya==
+Farm setups using Petaya can be found here:
+* [[Pokémon_Day_Care|Maximizing Egg step gain for Breeding Pokemon faster]] 
+* [[Shiny Chance|Maximizing Shiny Chance to turn all Pokemon Shiny]]
+* [[Farming Setups|Various useful Farming Setups]]
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+[[Category:Farm]][[Category:Berries]]</text>
+    <contributor>
+      <username>LeChatMG</username>
+      <id>97</id>
+    </contributor>
+    <comment>Created page with "{| class="wikitable" | style="text-align: center;" |- ! Utilisée pour !! Plantée avec |- | [[File:Maranga.png|20px]] [[Maranga/fr|Rangma]] || [[File:Salac.png|20px]] [[Salac/fr|Sailak]] |- |}"</comment>
+    <model>wikitext</model>
+    <parentid>23789</parentid>
+    <sha1>ad8adbf92d743f106ad36c334a20981213f3454a</sha1>
+  </revision>
+  <revision>
+    <id>23789</id>
+    <timestamp>2022-08-16T16:02:35Z</timestamp>
+    <text bytes="16156" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #63 Pitaye
+|image   = [[File:Petaya.png]]
+|caption = Une Baie mystérieuse, censée contenir le pouvoir de la vie.&lt;br&gt;Ce pouvoir maintient les autres Baies en vie plus longtemps.
+|growtime  = 1j
+|harvest = 0,5 baies
+|replant = 0%
+|mutation = 0,001%
+|points = 15&amp;nbsp;000
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*30 épicée
+*0 sèche
+*0 sucrée
+*30 amère
+*10 acide
+}}
+
+'''Pitaye''' est un type de [[Berries/fr|Baie]] qui peut être plantée à la [[Farm/fr|Ferme]]. Elle s'obtient en ayant au moins une parcelle vide et au moins 1 plant de chacune des [[Berries#Baies de Gen 4|Baies de quatrième génération]] dans le champ.
+
+=== Stades de croissance ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+|-
+! !! Pousse !! Arbuste !! Fleuri !! Mûr
+|-
+! Temps écoulé depuis plantation
+| 3 hours || 6 hours || 12 hours || 1 day - 5 days
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:PetayaTreeTaller.png|50px]] || &lt;center&gt; [[File:PetayaTreeBloom.png|50px]] || &lt;center&gt; [[File:PetayaTreeBerry.png|50px]]
+|-
+! Aura (empêche le flétrissement)
+| colspan=3| &lt;center&gt; None || &lt;center&gt; Empêche les baies mûre des flétrir
+|}
+
+===Temps de croissance avec modificateurs===
+{| class="wikitable collapsible" | style="text-align: center;"
+! Modificateur !! Temps maturité-flétrissement !! Fertibérance nécessaire pour mûrir
+|-
+! Aucun
+| 1 jour -&lt;br&gt; 5 jours || &lt;center&gt; ---
+|-
+! Engrais ou Kwakarrosoir
+| 16 heures -&lt;br&gt; 80 heures || &lt;center&gt; 192 engrais
+|-
+! Engrais et Kwakarrosoir
+| 10 heures 40 mins -&lt;br&gt; 53 heures 20 mins || &lt;center&gt; 128 engrais
+|}
+
+== Organigramme ==
+[[File:Petaya_Flow_Chart.png|850px]]
+&lt;br&gt;
+
+== Stratégie de mutation ==
+=== Formations possibles ===
+
+Vous pouvez remplir votre ferme de la manière suivante pour obtenir des baies Pitaye. Notez que la [[Occa/fr|Chocco]], la [[Kebia/fr|Kébia]] et la [[Colbur/fr|Lampou]] peuvent remplacer d'autres plants, elles sont donc placées autour d'une [[Babiri/fr|Babiri]] pour éviter ça. La [[Kebia/fr|Kébia]] et la [[Payapa/fr|Yapap]] augmentent les chances de mutation et sont placées de sorte à affecter le plus de parcelles pouvant muter possibles. La [[Babiri/fr|Babiri]] réduit les chances de mutation et la [[Rindo/fr|Ratam]] s'étend sur les parcelles vides, elles ne sont donc pas placées à côté de parcelles pouvant muter. La [[Wacan/fr|Parma]], la [[Yache/fr|Nanone]] et la [[Haban/fr|Fraigo]] affectent toutes les temps de croissance et sont donc placées dans l'angle avec des baies dont les temps de croissance sont court afin de limiter leur impact et de rendre les timings plus simples. En utilisant du [[Farm_Items/fr|Fertistantané]], un [[Squirtbottle/fr|Carapuce à O]] au niveau max et en suivant la formation suivante, vous avez environ 90,2% de chances (60,5% sans le [[Squirtbottle/fr|Carapuce à O]]) d'obtenir une Pitaye avant que la première baie n'ait besoin d'être replantée. Les cases violettes indiquent où les mutations peuvent avoir lieu.
+
+{| class="wikitable" style="text-align: center;"
+|+ Ferme
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Kasib.png|30px]]&lt;br&gt;[[Kasib/fr|Sédra]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Payapa.png|30px]]&lt;br&gt;[[Payapa/fr|Yapap]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Yache.png|30px]]&lt;br&gt;[[Yache/fr|Nanone]]
+|- style="height: 50px;"
+| [[File:Shuca.png|30px]]&lt;br&gt;[[Shuca/fr|Jouca]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Wacan.png|30px]]&lt;br&gt;[[Wacan/fr|Parma]] 
+|- style="height: 30px;"
+| [[File:Chople.png|30px]]&lt;br&gt;[[Chople/fr|Pomroz]] || [[File:Coba.png|30px]]&lt;br&gt;[[Coba/fr|Cobaba]] || [[File:Kebia.png|30px]]&lt;br&gt;[[Kebia/fr|Kébia]] || style="background-color:#9C7D98;" | || [[File:Haban.png|30px]]&lt;br&gt;[[Haban/fr|Fraigo]] 
+|-
+| [[File:Colbur.png|30px]]&lt;br&gt;[[Colbur/fr|Lampou]] || [[File:Babiri.png|30px]]&lt;br&gt;[[Babiri/fr|Babiri]] || [[File:Charti.png|30px]]&lt;br&gt;[[Charti/fr|Charti]] || style="background-color:#9C7D98;" | || [[File:Tanga.png|30px]]&lt;br&gt;[[Tanga/fr|Panga]]
+|-
+| [[File:Occa.png|30px]]&lt;br&gt;[[Occa/fr|Chocco]] || [[File:Rindo.png|30px]]&lt;br&gt;[[Rindo/fr|Ratam]] || [[File:Passho.png|30px]]&lt;br&gt;[[Passho/fr|Pocpoc]] || [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli/fr|Selro]] || [[File:Chilan.png|30px]]&lt;br&gt;[[Chilan/fr|Zalis]]
+|}
+
+{| class="wikitable floatright" style="text-align: center;"
+|+ Minutage externe
+! Baie !! Temps !! Quantité d'engrais
+|-
+| [[Haban/fr|Fraigo]] || --- || 128
+|-
+| [[Babiri/fr|Babiri]] || --- || 52
+|-
+| [[Yache/fr|Nanone]] || 2 h 40 mins || --- 
+|-
+| [[Shuca/fr|Jouca]] || 3 h 14 mins 10 secs || ---
+|-
+| [[Charti/fr|Charti]] || 3 h 34 mins 10 secs|| ---
+|-
+| [[Chople/fr|Pomroz]] || 3 h 54 mins 10 secs || ---
+|-
+| [[Payapa/fr|Yapap]] || 4 h 14 mins 10 secs || ---
+|-
+| [[Rindo/fr|Ratam]] || 5 h 14 mins 10 secs || ---
+|-
+| [[Colbur/fr|Lampou]] || 5 h 34 mins 10 secs || ---
+|-
+| [[Roseli/fr|Selro]] || 5 h 54 mins 10 secs || ---
+|-
+| [[Occa/fr|Chocco]] || 6 h 30 mins 10 secs || ---
+|-
+| [[Passho/fr|Pocpoc]] || 6 h 34 mins 10 secs || ---
+|-
+| [[Coba/fr|Cobaba]] || 6 h 54 mins 10 secs || ---
+|-
+| [[Chilan/fr|Zalis]] || 9 h 14 mins 10 secs || ---
+|-
+| [[Tanga/fr|Panga]] || 9 h 27 mins 30 secs || ---
+|-
+| [[Wacan/fr|Parma]] || 9 h 52 mins 30 secs || ---
+|-
+| [[Kebia/fr|Kébia]] || 10 h 27 mins 30 secs || ---
+|-
+| [[Kasib/fr|Sédra]] || 10 h 30 mins 50 secs || ---
+|}
+
+==== Notes importantes ====
+
+Avant de démarrer ce processus, vous devez être prêt à passer près de 11 heures voire plus à côté de votre machine avec PokéClicker, ou au moins de pouvoir mettre vos chronomètres en pause pour faire des pauses. 
+
+* En suivant les temps listés dans le tableau à droite, toutes les baies mûriront à dix minutes d'intervalle les unes des autres. Chaque temps indique quand la baie correspondante doit être plantée.
+
+* Les minutages supposent que vous avez un [[Sprayduck/fr|Kwakarrosoir]] au niveau max ainsi que les quantités de Fertibérance indiquées sur les parcelles en question. Toutes les doses de Fertibérance devraient être appliquées au moment du plantage. Au total, vous aurez besoin de 180 doses de Fertibérance pour terminer l'ensemble du processus ; mais il est fortement recommandé d'avoir au moins 250 doses de Fertibérance en réserve au cas où les choses tourneraient mal. Notez que bien que la [[Babiri/fr|Babiri]] mûrira à peu près en même temps que la [[Haban/fr|Fraigo]] avec seulement 35 doses de Fertibérance, cela reste une fenêtre très serrée. Davantage de doses sont ajoutées pour s'assurer qu'elle mûrisse en premier afin d'éviter le risque que d'autres baies soient remplacées par des [[Occa/fr|Chocco]], des [[Colbur/fr|Lampou]], ou des [[Kebia/fr|Kébia]].
+
+* Le site gratuit [https://www.timeanddate.com/timer/ timeanddate.com] est une excellente ressource pour régler plusieurs chronomètres simultanément. Le minutage commence au moment du plantage de la première baie. Déclenchez tous vos chronomètres au moment exact où vous plantez la [[Haban/fr|Fraigo]] et la [[Babiri/fr|Babiri]].
+
+* Notez qu'il y a peu de périodes creuses de plus d'une heure ; les chronomètres de la Ferme ne tournent pas tant que le jeu n'est pas ouvert, vous pouvez donc faire des pauses au cours de ce processus.
+
+* Il est est très important que la [[Babiri/fr|Babiri]] finisse de mûrir avant la [[Occa/fr|Chocco]], la [[Colbur/fr|Lampou]] et la [[Kebia/fr|Kébia]]. De fait, elle est plantée de manière à mûrir très tôt puisqu'elle a aussi une durée de vie très longue. En suivant les tableaux ci-dessous, basez vos temps de plantage sur le temps restant à [[Haban/fr|Fraigo]] pour mûrir. N'utilisez pas d'autre baie pour vos minutages.
+
+===== Information critique pour quand les baies sont toutes mûres =====
+
+Lorsque les 18 baies sont mûres, les conditions requises pour l'apparition de Pitaye sont toutes remplies. À ce moment, remplacez immédiatement votre [[Sprayduck/fr|Kwakarrosoir]] par le [[Squirtbottle/fr|Carapuce à O]] si possible, où par un autre [[Oak Items/fr|Objet de Chen]] sinon. Il est fortement recommendé de faire une sauvgarde à ce moment afind de ne pas avoir à recommencer tout le processus du début au cas où aucune mutation ne se produit. Les Pitaye peuvent apparaître sur n'importe lesquelles des sept parcelles vide de votre ferme. Les sept parcelles vides devraient être continuellement recouverte de Fertistantané. Notez que bien que la [[Kebia/fr|Kébia]] a la possibilité de remplacer d'autres baies, elle ne peut le faire que sur des plants au stade arbuste ou plus, vous pourrez donc laisser les mutations continuer si vous souhaitez muter plusieurs Petaya avant que la [[Wacan/fr|Parma]] ne flétrisse. Plus précisément, vous avez 6 heures à partir du moment de la mutation pour enlever la [[Kebia/fr|Kébia]] avant qu'elle ne menace votre Petaya fraîchement mutée, sauf si elle a muté sur une des deux parcelles du bord.
+
+===== Petaya avec Fertigel (mode facile) =====
+Faire muter une Pitaye avec du Fertigel rend la chose incroyablement facile. Tout ce que vous avez à faire, c'est de planter toutes les baies en même temps, tel qu'indiqué sur la formation de mutation, et de simplemnt appliquer la bonne quantité de Fertigel sur les graines de baie, de telle manière que lorsque l'effet du Fertigel s'estompera, la baie poussera comme si vous veniez tout juste de la planter comme indiqué sur le tableau de minutage. Le tableau ci-dessous indique la quantité de Fertigel nécessaire pour que les minutages soient corrects. La Sédra et la Kébia ont un temps de croissance si court (5 et 10 minutes sans Kwakarrosoir) qu'il est probablement plus simple de ne les planter que lorsque les autres baies sont quasi mûres, d'où la mention optionnel.
+{| class="collapsible wikitable collapsed"| style="text-align: center;"
+! Baie !! Fertigel nécessaire
+|+ ''Note&amp;nbsp;: Cette table suppose que vous avez appliqué 128 doses de Fertibérance sur la Fraigo et 52 doses sur la Babiri, le tout sans équiper le Kwakarrosoir''
+|-
+| [[Haban/fr|Fraigo]] || 0
+|-
+| [[Babiri/fr|Babiri]] || 0
+|-
+| [[Yache/fr|Nanone]] || 32
+|-
+| [[Shuca/fr|Jouca]] || 39
+|-
+| [[Charti/fr|Charti]] || 43
+|-
+| [[Chople/fr|Pomroz]] || 47
+|-
+| [[Payapa/fr|Yapap]] || 51
+|-
+| [[Rindo/fr|Ratam]] || 63
+|-
+| [[Colbur/fr|Lampou]] || 67
+|-
+| [[Roseli/fr|Selro]] || 71
+|-
+| [[Occa/fr|Chocco]] || 78
+|-
+| [[Passho/fr|Pocpoc]] || 79
+|-
+| [[Coba/fr|Cobaba]] || 83
+|-
+| [[Chilan/fr|Zalis]] || 111
+|-
+| [[Tanga/fr|Panga]] || 113
+|-
+| [[Wacan/fr|Parma]] || 119
+|-
+| [[Kebia/fr|Kébia]] || 125 (optionnel)
+|-
+| [[Kasib/fr|Sédra]] || 126 (optionnel)
+|}
+
+===== Que faire si aucune Pitaye n'est apparue alors ques les autres baies commencent à flétrir =====
+
+La première baie à flétrir sera la [[Wacan/fr|Parma]] — elle flétrit environ 1 heure et 25 mins après avoir atteint sa maturité. Cela ''devrait'' être suffisant pour qu'une Pitaye puisse apparaître. Si la [[Wacan/fr|Parma]] flétrit avant mutation, vous devrez replanter la [[Chilan/fr|Zalis]], la [[Tanga/fr|Panga]] et la [[Wacan/fr|Parma]]. Si vous commencez 38 minutes avant le flétrissement de la [[Wacan/fr|Parma]] (1 heure 15 minutes avec Fertibérance), vous ''devriez'' avoir un autre cycle complet de [[Wacan/fr|Parma]] avant que la [[Coba/fr|Cobaba]] ne flétrisse et que vous n'ayez à tout reprendre depuis le début. La possibilité de faire ainsi augmente les chances globales de mutation à 99%, ou 84,4% sans [[Squirtbottle/fr|Carapuce à O]].
+
+==== Tableau de minutage ====
+{| class="collapsible wikitable"| style="text-align: center;"
+|+ ''Tous les temps indiqués sont basés sur le temps restant avant que la première baie plantée n'arrive à maturité''
+! Baie !! Temps de plantation&lt;br&gt;sans modificateur!! Temps de plantation avec &lt;br&gt; Engrais ou Kwakarrosoir || Temps de plantation avec &lt;br&gt; Engrais et Kwakarrosoir
+|-
+| [[Haban/fr|Fraigo]] || - || - || -
+|-
+| [[Babiri/fr|Babiri]] || 20 heures avant maturité || 14 heures avant maturité || 10 heures avant maturité
+|-
+| [[Yache/fr|Nanone]] || 12 heures avant maturité || 8 heures avant maturité || 5 heures 20 mins avant maturité
+|-
+| [[Shuca/fr|Jouca]] || 10 heures 52 mins avant maturité || 7 heures 15 mins avant maturité || 4 heures 50 mins avant maturité
+|-
+| [[Charti/fr|Charti]] || 10 heures 22 mins avant maturité || 6 heures 55 mins avant maturité || 4 heures 37 mins avant maturité
+|-
+| [[Chople/fr|Pomroz]] || 9 heures 52 mins avant maturité || 6 heures 35 mins avant maturité || 4 heures 23 mins avant maturité
+|-
+| [[Payapa/fr|Yapap]] || 9 heures 22 mins avant maturité || 6 heures 15 mins avant maturité || 4 heures 10 mins avant maturité
+|-
+| [[Rindo/fr|Ratam]] || 7 heures 52 mins avant maturité || 5 heures 15 mins avant maturité || 3 heures 27 mins avant maturité
+|-
+| [[Colbur/fr|Lampou]] || 7 heures 22 mins avant maturité || 4 heures 55 mins avant maturité || 3 heures 17 mins avant maturité
+|-
+| [[Roseli/fr|Selro]] || 6 heures 52 mins avant maturité || 4 heures 35 mins avant maturité || 3 heures 3 mins avant maturité
+|-
+| [[Occa/fr|Chocco]] || 5 heures 58 mins avant maturité || 3 heures 59 mins avant maturité || 2 heures 39 mins avant maturité
+|-
+| [[Passho/fr|Pocpoc]] || 5 heures 52 mins avant maturité || 3 heures 55 mins avant maturité || 2 heures 37 mins avant maturité
+|-
+| [[Coba/fr|Cobaba]] || 5 heures 22 mins avant maturité || 3 heures 35 mins avant maturité || 2 heures 23 mins avant maturité
+|-
+| [[Chilan/fr|Zalis]] || 1 heure 52 mins avant maturité || 1 heure 15 mins avant maturité || 50 mins avant maturité
+|-
+| [[Tanga/fr|Panga]] || 1 heure 32 mins avant maturité || 1 heure 1 min avant maturité || 41 mins avant maturité
+|-
+| [[Wacan/fr|Parma]] || 53 mins avant maturité || 35 mins 30 secs avant maturité || 23 mins 30 secs avant maturité
+|-
+| [[Kebia/fr|Kébia]] || 10 mins avant maturité || 6 mins 40 secs avant maturité || 4 mins 27 secs
+|-
+| [[Kasib/fr|Sédra]] || 5 mins avant maturité || 3 mins 20 secs avant maturité || 2 mins 13 secs
+|-
+|}
+
+Si la [[Wacan/fr|Parma]] flétrit, récoltez et replantez la [[Chilan/fr|Zalis]], la [[Tanga/fr|Panga]] et la [[Wacan/fr|Parma]] en suivant ce tableau pour relancer la formation. Notez que vous devrez vous assurer qu'il reste au moins 2 heures et 46 minutes (3 heures 26 minutes sans Fertibérance) au chrono de la [[Coba/fr|Cobaba]] et de la [[Shuca/fr|Jouca]] pour avoir une autre cycle complet de [[Wacan/fr|Parma]]. Vous pourriez aussi replanter la [[Kasib/fr|Sédra]] pour éviter que la [[Shuca/fr|Jouca]] ne flétrisse avant la [[Coba/fr|Cobaba]], mais ce n'est pas très important à ce moment-là.
+
+{| class="wikitable" | style="text-align: center;"
+|+ ''Tous les temps indiqués sont basés sur le temps restant avant que la première baie plantée n'arrive à maturité''
+! Baie !! Temps de plantation&lt;br&gt;sans modificateur!! Temps de plantation avec &lt;br&gt; Engrais ou Kwakarrosoir || Temps de plantation avec &lt;br&gt; Engrais et Kwakarrosoir
+|-
+| [[Chilan/fr|Zalis]] || - || - || -
+|-
+| [[Tanga/fr|Panga]] || - || - || -
+|-
+| [[Wacan/fr|Parma]] || 1 heure 25 mins 42 secs avant maturité ||  57 mins 8 secs until ripe || 38 mins 5 secs avant maturité
+|-
+|}
+
+==Utilisation==
+
+===Mutations===
+
+Les baies Pitaye peuvent être utilisées pour faire muter les baies suivantes.
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Maranga.png|20px]] [[Maranga]] || [[File:Salac.png|20px]] [[Salac]]
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+==Using Petaya==
+Farm setups using Petaya can be found here:
+* [[Pokémon_Day_Care|Maximizing Egg step gain for Breeding Pokemon faster]] 
+* [[Shiny Chance|Maximizing Shiny Chance to turn all Pokemon Shiny]]
+* [[Farming Setups|Various useful Farming Setups]]
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+[[Category:Farm]][[Category:Berries]]</text>
+    <contributor>
+      <username>LeChatMG</username>
+      <id>97</id>
+    </contributor>
+    <comment>Created page with "Les baies Pitaye peuvent être utilisées pour faire muter les baies suivantes."</comment>
+    <model>wikitext</model>
+    <parentid>23788</parentid>
+    <sha1>809055ebb1deacafe60fb2db697847a53f2bff04</sha1>
+  </revision>
+  <revision>
+    <id>23788</id>
+    <timestamp>2022-08-16T16:01:49Z</timestamp>
+    <text bytes="16192" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #63 Pitaye
+|image   = [[File:Petaya.png]]
+|caption = Une Baie mystérieuse, censée contenir le pouvoir de la vie.&lt;br&gt;Ce pouvoir maintient les autres Baies en vie plus longtemps.
+|growtime  = 1j
+|harvest = 0,5 baies
+|replant = 0%
+|mutation = 0,001%
+|points = 15&amp;nbsp;000
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*30 épicée
+*0 sèche
+*0 sucrée
+*30 amère
+*10 acide
+}}
+
+'''Pitaye''' est un type de [[Berries/fr|Baie]] qui peut être plantée à la [[Farm/fr|Ferme]]. Elle s'obtient en ayant au moins une parcelle vide et au moins 1 plant de chacune des [[Berries#Baies de Gen 4|Baies de quatrième génération]] dans le champ.
+
+=== Stades de croissance ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+|-
+! !! Pousse !! Arbuste !! Fleuri !! Mûr
+|-
+! Temps écoulé depuis plantation
+| 3 hours || 6 hours || 12 hours || 1 day - 5 days
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:PetayaTreeTaller.png|50px]] || &lt;center&gt; [[File:PetayaTreeBloom.png|50px]] || &lt;center&gt; [[File:PetayaTreeBerry.png|50px]]
+|-
+! Aura (empêche le flétrissement)
+| colspan=3| &lt;center&gt; None || &lt;center&gt; Empêche les baies mûre des flétrir
+|}
+
+===Temps de croissance avec modificateurs===
+{| class="wikitable collapsible" | style="text-align: center;"
+! Modificateur !! Temps maturité-flétrissement !! Fertibérance nécessaire pour mûrir
+|-
+! Aucun
+| 1 jour -&lt;br&gt; 5 jours || &lt;center&gt; ---
+|-
+! Engrais ou Kwakarrosoir
+| 16 heures -&lt;br&gt; 80 heures || &lt;center&gt; 192 engrais
+|-
+! Engrais et Kwakarrosoir
+| 10 heures 40 mins -&lt;br&gt; 53 heures 20 mins || &lt;center&gt; 128 engrais
+|}
+
+== Organigramme ==
+[[File:Petaya_Flow_Chart.png|850px]]
+&lt;br&gt;
+
+== Stratégie de mutation ==
+=== Formations possibles ===
+
+Vous pouvez remplir votre ferme de la manière suivante pour obtenir des baies Pitaye. Notez que la [[Occa/fr|Chocco]], la [[Kebia/fr|Kébia]] et la [[Colbur/fr|Lampou]] peuvent remplacer d'autres plants, elles sont donc placées autour d'une [[Babiri/fr|Babiri]] pour éviter ça. La [[Kebia/fr|Kébia]] et la [[Payapa/fr|Yapap]] augmentent les chances de mutation et sont placées de sorte à affecter le plus de parcelles pouvant muter possibles. La [[Babiri/fr|Babiri]] réduit les chances de mutation et la [[Rindo/fr|Ratam]] s'étend sur les parcelles vides, elles ne sont donc pas placées à côté de parcelles pouvant muter. La [[Wacan/fr|Parma]], la [[Yache/fr|Nanone]] et la [[Haban/fr|Fraigo]] affectent toutes les temps de croissance et sont donc placées dans l'angle avec des baies dont les temps de croissance sont court afin de limiter leur impact et de rendre les timings plus simples. En utilisant du [[Farm_Items/fr|Fertistantané]], un [[Squirtbottle/fr|Carapuce à O]] au niveau max et en suivant la formation suivante, vous avez environ 90,2% de chances (60,5% sans le [[Squirtbottle/fr|Carapuce à O]]) d'obtenir une Pitaye avant que la première baie n'ait besoin d'être replantée. Les cases violettes indiquent où les mutations peuvent avoir lieu.
+
+{| class="wikitable" style="text-align: center;"
+|+ Ferme
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Kasib.png|30px]]&lt;br&gt;[[Kasib/fr|Sédra]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Payapa.png|30px]]&lt;br&gt;[[Payapa/fr|Yapap]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Yache.png|30px]]&lt;br&gt;[[Yache/fr|Nanone]]
+|- style="height: 50px;"
+| [[File:Shuca.png|30px]]&lt;br&gt;[[Shuca/fr|Jouca]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Wacan.png|30px]]&lt;br&gt;[[Wacan/fr|Parma]] 
+|- style="height: 30px;"
+| [[File:Chople.png|30px]]&lt;br&gt;[[Chople/fr|Pomroz]] || [[File:Coba.png|30px]]&lt;br&gt;[[Coba/fr|Cobaba]] || [[File:Kebia.png|30px]]&lt;br&gt;[[Kebia/fr|Kébia]] || style="background-color:#9C7D98;" | || [[File:Haban.png|30px]]&lt;br&gt;[[Haban/fr|Fraigo]] 
+|-
+| [[File:Colbur.png|30px]]&lt;br&gt;[[Colbur/fr|Lampou]] || [[File:Babiri.png|30px]]&lt;br&gt;[[Babiri/fr|Babiri]] || [[File:Charti.png|30px]]&lt;br&gt;[[Charti/fr|Charti]] || style="background-color:#9C7D98;" | || [[File:Tanga.png|30px]]&lt;br&gt;[[Tanga/fr|Panga]]
+|-
+| [[File:Occa.png|30px]]&lt;br&gt;[[Occa/fr|Chocco]] || [[File:Rindo.png|30px]]&lt;br&gt;[[Rindo/fr|Ratam]] || [[File:Passho.png|30px]]&lt;br&gt;[[Passho/fr|Pocpoc]] || [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli/fr|Selro]] || [[File:Chilan.png|30px]]&lt;br&gt;[[Chilan/fr|Zalis]]
+|}
+
+{| class="wikitable floatright" style="text-align: center;"
+|+ Minutage externe
+! Baie !! Temps !! Quantité d'engrais
+|-
+| [[Haban/fr|Fraigo]] || --- || 128
+|-
+| [[Babiri/fr|Babiri]] || --- || 52
+|-
+| [[Yache/fr|Nanone]] || 2 h 40 mins || --- 
+|-
+| [[Shuca/fr|Jouca]] || 3 h 14 mins 10 secs || ---
+|-
+| [[Charti/fr|Charti]] || 3 h 34 mins 10 secs|| ---
+|-
+| [[Chople/fr|Pomroz]] || 3 h 54 mins 10 secs || ---
+|-
+| [[Payapa/fr|Yapap]] || 4 h 14 mins 10 secs || ---
+|-
+| [[Rindo/fr|Ratam]] || 5 h 14 mins 10 secs || ---
+|-
+| [[Colbur/fr|Lampou]] || 5 h 34 mins 10 secs || ---
+|-
+| [[Roseli/fr|Selro]] || 5 h 54 mins 10 secs || ---
+|-
+| [[Occa/fr|Chocco]] || 6 h 30 mins 10 secs || ---
+|-
+| [[Passho/fr|Pocpoc]] || 6 h 34 mins 10 secs || ---
+|-
+| [[Coba/fr|Cobaba]] || 6 h 54 mins 10 secs || ---
+|-
+| [[Chilan/fr|Zalis]] || 9 h 14 mins 10 secs || ---
+|-
+| [[Tanga/fr|Panga]] || 9 h 27 mins 30 secs || ---
+|-
+| [[Wacan/fr|Parma]] || 9 h 52 mins 30 secs || ---
+|-
+| [[Kebia/fr|Kébia]] || 10 h 27 mins 30 secs || ---
+|-
+| [[Kasib/fr|Sédra]] || 10 h 30 mins 50 secs || ---
+|}
+
+==== Notes importantes ====
+
+Avant de démarrer ce processus, vous devez être prêt à passer près de 11 heures voire plus à côté de votre machine avec PokéClicker, ou au moins de pouvoir mettre vos chronomètres en pause pour faire des pauses. 
+
+* En suivant les temps listés dans le tableau à droite, toutes les baies mûriront à dix minutes d'intervalle les unes des autres. Chaque temps indique quand la baie correspondante doit être plantée.
+
+* Les minutages supposent que vous avez un [[Sprayduck/fr|Kwakarrosoir]] au niveau max ainsi que les quantités de Fertibérance indiquées sur les parcelles en question. Toutes les doses de Fertibérance devraient être appliquées au moment du plantage. Au total, vous aurez besoin de 180 doses de Fertibérance pour terminer l'ensemble du processus ; mais il est fortement recommandé d'avoir au moins 250 doses de Fertibérance en réserve au cas où les choses tourneraient mal. Notez que bien que la [[Babiri/fr|Babiri]] mûrira à peu près en même temps que la [[Haban/fr|Fraigo]] avec seulement 35 doses de Fertibérance, cela reste une fenêtre très serrée. Davantage de doses sont ajoutées pour s'assurer qu'elle mûrisse en premier afin d'éviter le risque que d'autres baies soient remplacées par des [[Occa/fr|Chocco]], des [[Colbur/fr|Lampou]], ou des [[Kebia/fr|Kébia]].
+
+* Le site gratuit [https://www.timeanddate.com/timer/ timeanddate.com] est une excellente ressource pour régler plusieurs chronomètres simultanément. Le minutage commence au moment du plantage de la première baie. Déclenchez tous vos chronomètres au moment exact où vous plantez la [[Haban/fr|Fraigo]] et la [[Babiri/fr|Babiri]].
+
+* Notez qu'il y a peu de périodes creuses de plus d'une heure ; les chronomètres de la Ferme ne tournent pas tant que le jeu n'est pas ouvert, vous pouvez donc faire des pauses au cours de ce processus.
+
+* Il est est très important que la [[Babiri/fr|Babiri]] finisse de mûrir avant la [[Occa/fr|Chocco]], la [[Colbur/fr|Lampou]] et la [[Kebia/fr|Kébia]]. De fait, elle est plantée de manière à mûrir très tôt puisqu'elle a aussi une durée de vie très longue. En suivant les tableaux ci-dessous, basez vos temps de plantage sur le temps restant à [[Haban/fr|Fraigo]] pour mûrir. N'utilisez pas d'autre baie pour vos minutages.
+
+===== Information critique pour quand les baies sont toutes mûres =====
+
+Lorsque les 18 baies sont mûres, les conditions requises pour l'apparition de Pitaye sont toutes remplies. À ce moment, remplacez immédiatement votre [[Sprayduck/fr|Kwakarrosoir]] par le [[Squirtbottle/fr|Carapuce à O]] si possible, où par un autre [[Oak Items/fr|Objet de Chen]] sinon. Il est fortement recommendé de faire une sauvgarde à ce moment afind de ne pas avoir à recommencer tout le processus du début au cas où aucune mutation ne se produit. Les Pitaye peuvent apparaître sur n'importe lesquelles des sept parcelles vide de votre ferme. Les sept parcelles vides devraient être continuellement recouverte de Fertistantané. Notez que bien que la [[Kebia/fr|Kébia]] a la possibilité de remplacer d'autres baies, elle ne peut le faire que sur des plants au stade arbuste ou plus, vous pourrez donc laisser les mutations continuer si vous souhaitez muter plusieurs Petaya avant que la [[Wacan/fr|Parma]] ne flétrisse. Plus précisément, vous avez 6 heures à partir du moment de la mutation pour enlever la [[Kebia/fr|Kébia]] avant qu'elle ne menace votre Petaya fraîchement mutée, sauf si elle a muté sur une des deux parcelles du bord.
+
+===== Petaya avec Fertigel (mode facile) =====
+Faire muter une Pitaye avec du Fertigel rend la chose incroyablement facile. Tout ce que vous avez à faire, c'est de planter toutes les baies en même temps, tel qu'indiqué sur la formation de mutation, et de simplemnt appliquer la bonne quantité de Fertigel sur les graines de baie, de telle manière que lorsque l'effet du Fertigel s'estompera, la baie poussera comme si vous veniez tout juste de la planter comme indiqué sur le tableau de minutage. Le tableau ci-dessous indique la quantité de Fertigel nécessaire pour que les minutages soient corrects. La Sédra et la Kébia ont un temps de croissance si court (5 et 10 minutes sans Kwakarrosoir) qu'il est probablement plus simple de ne les planter que lorsque les autres baies sont quasi mûres, d'où la mention optionnel.
+{| class="collapsible wikitable collapsed"| style="text-align: center;"
+! Baie !! Fertigel nécessaire
+|+ ''Note&amp;nbsp;: Cette table suppose que vous avez appliqué 128 doses de Fertibérance sur la Fraigo et 52 doses sur la Babiri, le tout sans équiper le Kwakarrosoir''
+|-
+| [[Haban/fr|Fraigo]] || 0
+|-
+| [[Babiri/fr|Babiri]] || 0
+|-
+| [[Yache/fr|Nanone]] || 32
+|-
+| [[Shuca/fr|Jouca]] || 39
+|-
+| [[Charti/fr|Charti]] || 43
+|-
+| [[Chople/fr|Pomroz]] || 47
+|-
+| [[Payapa/fr|Yapap]] || 51
+|-
+| [[Rindo/fr|Ratam]] || 63
+|-
+| [[Colbur/fr|Lampou]] || 67
+|-
+| [[Roseli/fr|Selro]] || 71
+|-
+| [[Occa/fr|Chocco]] || 78
+|-
+| [[Passho/fr|Pocpoc]] || 79
+|-
+| [[Coba/fr|Cobaba]] || 83
+|-
+| [[Chilan/fr|Zalis]] || 111
+|-
+| [[Tanga/fr|Panga]] || 113
+|-
+| [[Wacan/fr|Parma]] || 119
+|-
+| [[Kebia/fr|Kébia]] || 125 (optionnel)
+|-
+| [[Kasib/fr|Sédra]] || 126 (optionnel)
+|}
+
+===== Que faire si aucune Pitaye n'est apparue alors ques les autres baies commencent à flétrir =====
+
+La première baie à flétrir sera la [[Wacan/fr|Parma]] — elle flétrit environ 1 heure et 25 mins après avoir atteint sa maturité. Cela ''devrait'' être suffisant pour qu'une Pitaye puisse apparaître. Si la [[Wacan/fr|Parma]] flétrit avant mutation, vous devrez replanter la [[Chilan/fr|Zalis]], la [[Tanga/fr|Panga]] et la [[Wacan/fr|Parma]]. Si vous commencez 38 minutes avant le flétrissement de la [[Wacan/fr|Parma]] (1 heure 15 minutes avec Fertibérance), vous ''devriez'' avoir un autre cycle complet de [[Wacan/fr|Parma]] avant que la [[Coba/fr|Cobaba]] ne flétrisse et que vous n'ayez à tout reprendre depuis le début. La possibilité de faire ainsi augmente les chances globales de mutation à 99%, ou 84,4% sans [[Squirtbottle/fr|Carapuce à O]].
+
+==== Tableau de minutage ====
+{| class="collapsible wikitable"| style="text-align: center;"
+|+ ''Tous les temps indiqués sont basés sur le temps restant avant que la première baie plantée n'arrive à maturité''
+! Baie !! Temps de plantation&lt;br&gt;sans modificateur!! Temps de plantation avec &lt;br&gt; Engrais ou Kwakarrosoir || Temps de plantation avec &lt;br&gt; Engrais et Kwakarrosoir
+|-
+| [[Haban/fr|Fraigo]] || - || - || -
+|-
+| [[Babiri/fr|Babiri]] || 20 heures avant maturité || 14 heures avant maturité || 10 heures avant maturité
+|-
+| [[Yache/fr|Nanone]] || 12 heures avant maturité || 8 heures avant maturité || 5 heures 20 mins avant maturité
+|-
+| [[Shuca/fr|Jouca]] || 10 heures 52 mins avant maturité || 7 heures 15 mins avant maturité || 4 heures 50 mins avant maturité
+|-
+| [[Charti/fr|Charti]] || 10 heures 22 mins avant maturité || 6 heures 55 mins avant maturité || 4 heures 37 mins avant maturité
+|-
+| [[Chople/fr|Pomroz]] || 9 heures 52 mins avant maturité || 6 heures 35 mins avant maturité || 4 heures 23 mins avant maturité
+|-
+| [[Payapa/fr|Yapap]] || 9 heures 22 mins avant maturité || 6 heures 15 mins avant maturité || 4 heures 10 mins avant maturité
+|-
+| [[Rindo/fr|Ratam]] || 7 heures 52 mins avant maturité || 5 heures 15 mins avant maturité || 3 heures 27 mins avant maturité
+|-
+| [[Colbur/fr|Lampou]] || 7 heures 22 mins avant maturité || 4 heures 55 mins avant maturité || 3 heures 17 mins avant maturité
+|-
+| [[Roseli/fr|Selro]] || 6 heures 52 mins avant maturité || 4 heures 35 mins avant maturité || 3 heures 3 mins avant maturité
+|-
+| [[Occa/fr|Chocco]] || 5 heures 58 mins avant maturité || 3 heures 59 mins avant maturité || 2 heures 39 mins avant maturité
+|-
+| [[Passho/fr|Pocpoc]] || 5 heures 52 mins avant maturité || 3 heures 55 mins avant maturité || 2 heures 37 mins avant maturité
+|-
+| [[Coba/fr|Cobaba]] || 5 heures 22 mins avant maturité || 3 heures 35 mins avant maturité || 2 heures 23 mins avant maturité
+|-
+| [[Chilan/fr|Zalis]] || 1 heure 52 mins avant maturité || 1 heure 15 mins avant maturité || 50 mins avant maturité
+|-
+| [[Tanga/fr|Panga]] || 1 heure 32 mins avant maturité || 1 heure 1 min avant maturité || 41 mins avant maturité
+|-
+| [[Wacan/fr|Parma]] || 53 mins avant maturité || 35 mins 30 secs avant maturité || 23 mins 30 secs avant maturité
+|-
+| [[Kebia/fr|Kébia]] || 10 mins avant maturité || 6 mins 40 secs avant maturité || 4 mins 27 secs
+|-
+| [[Kasib/fr|Sédra]] || 5 mins avant maturité || 3 mins 20 secs avant maturité || 2 mins 13 secs
+|-
+|}
+
+Si la [[Wacan/fr|Parma]] flétrit, récoltez et replantez la [[Chilan/fr|Zalis]], la [[Tanga/fr|Panga]] et la [[Wacan/fr|Parma]] en suivant ce tableau pour relancer la formation. Notez que vous devrez vous assurer qu'il reste au moins 2 heures et 46 minutes (3 heures 26 minutes sans Fertibérance) au chrono de la [[Coba/fr|Cobaba]] et de la [[Shuca/fr|Jouca]] pour avoir une autre cycle complet de [[Wacan/fr|Parma]]. Vous pourriez aussi replanter la [[Kasib/fr|Sédra]] pour éviter que la [[Shuca/fr|Jouca]] ne flétrisse avant la [[Coba/fr|Cobaba]], mais ce n'est pas très important à ce moment-là.
+
+{| class="wikitable" | style="text-align: center;"
+|+ ''Tous les temps indiqués sont basés sur le temps restant avant que la première baie plantée n'arrive à maturité''
+! Baie !! Temps de plantation&lt;br&gt;sans modificateur!! Temps de plantation avec &lt;br&gt; Engrais ou Kwakarrosoir || Temps de plantation avec &lt;br&gt; Engrais et Kwakarrosoir
+|-
+| [[Chilan/fr|Zalis]] || - || - || -
+|-
+| [[Tanga/fr|Panga]] || - || - || -
+|-
+| [[Wacan/fr|Parma]] || 1 heure 25 mins 42 secs avant maturité ||  57 mins 8 secs until ripe || 38 mins 5 secs avant maturité
+|-
+|}
+
+==Utilisation==
+
+===Mutations===
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Petaya berries can be used to mutate the following berries.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Maranga.png|20px]] [[Maranga]] || [[File:Salac.png|20px]] [[Salac]]
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+==Using Petaya==
+Farm setups using Petaya can be found here:
+* [[Pokémon_Day_Care|Maximizing Egg step gain for Breeding Pokemon faster]] 
+* [[Shiny Chance|Maximizing Shiny Chance to turn all Pokemon Shiny]]
+* [[Farming Setups|Various useful Farming Setups]]
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+[[Category:Farm]][[Category:Berries]]</text>
+    <contributor>
+      <username>LeChatMG</username>
+      <id>97</id>
+    </contributor>
+    <comment>Created page with "===Mutations==="</comment>
+    <model>wikitext</model>
+    <parentid>23787</parentid>
+    <sha1>8251b4266b367ed2678e8726ccbd50493c2d24f0</sha1>
+  </revision>
+  <revision>
+    <id>23787</id>
+    <timestamp>2022-08-16T16:01:45Z</timestamp>
+    <text bytes="16248" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #63 Pitaye
+|image   = [[File:Petaya.png]]
+|caption = Une Baie mystérieuse, censée contenir le pouvoir de la vie.&lt;br&gt;Ce pouvoir maintient les autres Baies en vie plus longtemps.
+|growtime  = 1j
+|harvest = 0,5 baies
+|replant = 0%
+|mutation = 0,001%
+|points = 15&amp;nbsp;000
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*30 épicée
+*0 sèche
+*0 sucrée
+*30 amère
+*10 acide
+}}
+
+'''Pitaye''' est un type de [[Berries/fr|Baie]] qui peut être plantée à la [[Farm/fr|Ferme]]. Elle s'obtient en ayant au moins une parcelle vide et au moins 1 plant de chacune des [[Berries#Baies de Gen 4|Baies de quatrième génération]] dans le champ.
+
+=== Stades de croissance ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+|-
+! !! Pousse !! Arbuste !! Fleuri !! Mûr
+|-
+! Temps écoulé depuis plantation
+| 3 hours || 6 hours || 12 hours || 1 day - 5 days
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:PetayaTreeTaller.png|50px]] || &lt;center&gt; [[File:PetayaTreeBloom.png|50px]] || &lt;center&gt; [[File:PetayaTreeBerry.png|50px]]
+|-
+! Aura (empêche le flétrissement)
+| colspan=3| &lt;center&gt; None || &lt;center&gt; Empêche les baies mûre des flétrir
+|}
+
+===Temps de croissance avec modificateurs===
+{| class="wikitable collapsible" | style="text-align: center;"
+! Modificateur !! Temps maturité-flétrissement !! Fertibérance nécessaire pour mûrir
+|-
+! Aucun
+| 1 jour -&lt;br&gt; 5 jours || &lt;center&gt; ---
+|-
+! Engrais ou Kwakarrosoir
+| 16 heures -&lt;br&gt; 80 heures || &lt;center&gt; 192 engrais
+|-
+! Engrais et Kwakarrosoir
+| 10 heures 40 mins -&lt;br&gt; 53 heures 20 mins || &lt;center&gt; 128 engrais
+|}
+
+== Organigramme ==
+[[File:Petaya_Flow_Chart.png|850px]]
+&lt;br&gt;
+
+== Stratégie de mutation ==
+=== Formations possibles ===
+
+Vous pouvez remplir votre ferme de la manière suivante pour obtenir des baies Pitaye. Notez que la [[Occa/fr|Chocco]], la [[Kebia/fr|Kébia]] et la [[Colbur/fr|Lampou]] peuvent remplacer d'autres plants, elles sont donc placées autour d'une [[Babiri/fr|Babiri]] pour éviter ça. La [[Kebia/fr|Kébia]] et la [[Payapa/fr|Yapap]] augmentent les chances de mutation et sont placées de sorte à affecter le plus de parcelles pouvant muter possibles. La [[Babiri/fr|Babiri]] réduit les chances de mutation et la [[Rindo/fr|Ratam]] s'étend sur les parcelles vides, elles ne sont donc pas placées à côté de parcelles pouvant muter. La [[Wacan/fr|Parma]], la [[Yache/fr|Nanone]] et la [[Haban/fr|Fraigo]] affectent toutes les temps de croissance et sont donc placées dans l'angle avec des baies dont les temps de croissance sont court afin de limiter leur impact et de rendre les timings plus simples. En utilisant du [[Farm_Items/fr|Fertistantané]], un [[Squirtbottle/fr|Carapuce à O]] au niveau max et en suivant la formation suivante, vous avez environ 90,2% de chances (60,5% sans le [[Squirtbottle/fr|Carapuce à O]]) d'obtenir une Pitaye avant que la première baie n'ait besoin d'être replantée. Les cases violettes indiquent où les mutations peuvent avoir lieu.
+
+{| class="wikitable" style="text-align: center;"
+|+ Ferme
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Kasib.png|30px]]&lt;br&gt;[[Kasib/fr|Sédra]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Payapa.png|30px]]&lt;br&gt;[[Payapa/fr|Yapap]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Yache.png|30px]]&lt;br&gt;[[Yache/fr|Nanone]]
+|- style="height: 50px;"
+| [[File:Shuca.png|30px]]&lt;br&gt;[[Shuca/fr|Jouca]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Wacan.png|30px]]&lt;br&gt;[[Wacan/fr|Parma]] 
+|- style="height: 30px;"
+| [[File:Chople.png|30px]]&lt;br&gt;[[Chople/fr|Pomroz]] || [[File:Coba.png|30px]]&lt;br&gt;[[Coba/fr|Cobaba]] || [[File:Kebia.png|30px]]&lt;br&gt;[[Kebia/fr|Kébia]] || style="background-color:#9C7D98;" | || [[File:Haban.png|30px]]&lt;br&gt;[[Haban/fr|Fraigo]] 
+|-
+| [[File:Colbur.png|30px]]&lt;br&gt;[[Colbur/fr|Lampou]] || [[File:Babiri.png|30px]]&lt;br&gt;[[Babiri/fr|Babiri]] || [[File:Charti.png|30px]]&lt;br&gt;[[Charti/fr|Charti]] || style="background-color:#9C7D98;" | || [[File:Tanga.png|30px]]&lt;br&gt;[[Tanga/fr|Panga]]
+|-
+| [[File:Occa.png|30px]]&lt;br&gt;[[Occa/fr|Chocco]] || [[File:Rindo.png|30px]]&lt;br&gt;[[Rindo/fr|Ratam]] || [[File:Passho.png|30px]]&lt;br&gt;[[Passho/fr|Pocpoc]] || [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli/fr|Selro]] || [[File:Chilan.png|30px]]&lt;br&gt;[[Chilan/fr|Zalis]]
+|}
+
+{| class="wikitable floatright" style="text-align: center;"
+|+ Minutage externe
+! Baie !! Temps !! Quantité d'engrais
+|-
+| [[Haban/fr|Fraigo]] || --- || 128
+|-
+| [[Babiri/fr|Babiri]] || --- || 52
+|-
+| [[Yache/fr|Nanone]] || 2 h 40 mins || --- 
+|-
+| [[Shuca/fr|Jouca]] || 3 h 14 mins 10 secs || ---
+|-
+| [[Charti/fr|Charti]] || 3 h 34 mins 10 secs|| ---
+|-
+| [[Chople/fr|Pomroz]] || 3 h 54 mins 10 secs || ---
+|-
+| [[Payapa/fr|Yapap]] || 4 h 14 mins 10 secs || ---
+|-
+| [[Rindo/fr|Ratam]] || 5 h 14 mins 10 secs || ---
+|-
+| [[Colbur/fr|Lampou]] || 5 h 34 mins 10 secs || ---
+|-
+| [[Roseli/fr|Selro]] || 5 h 54 mins 10 secs || ---
+|-
+| [[Occa/fr|Chocco]] || 6 h 30 mins 10 secs || ---
+|-
+| [[Passho/fr|Pocpoc]] || 6 h 34 mins 10 secs || ---
+|-
+| [[Coba/fr|Cobaba]] || 6 h 54 mins 10 secs || ---
+|-
+| [[Chilan/fr|Zalis]] || 9 h 14 mins 10 secs || ---
+|-
+| [[Tanga/fr|Panga]] || 9 h 27 mins 30 secs || ---
+|-
+| [[Wacan/fr|Parma]] || 9 h 52 mins 30 secs || ---
+|-
+| [[Kebia/fr|Kébia]] || 10 h 27 mins 30 secs || ---
+|-
+| [[Kasib/fr|Sédra]] || 10 h 30 mins 50 secs || ---
+|}
+
+==== Notes importantes ====
+
+Avant de démarrer ce processus, vous devez être prêt à passer près de 11 heures voire plus à côté de votre machine avec PokéClicker, ou au moins de pouvoir mettre vos chronomètres en pause pour faire des pauses. 
+
+* En suivant les temps listés dans le tableau à droite, toutes les baies mûriront à dix minutes d'intervalle les unes des autres. Chaque temps indique quand la baie correspondante doit être plantée.
+
+* Les minutages supposent que vous avez un [[Sprayduck/fr|Kwakarrosoir]] au niveau max ainsi que les quantités de Fertibérance indiquées sur les parcelles en question. Toutes les doses de Fertibérance devraient être appliquées au moment du plantage. Au total, vous aurez besoin de 180 doses de Fertibérance pour terminer l'ensemble du processus ; mais il est fortement recommandé d'avoir au moins 250 doses de Fertibérance en réserve au cas où les choses tourneraient mal. Notez que bien que la [[Babiri/fr|Babiri]] mûrira à peu près en même temps que la [[Haban/fr|Fraigo]] avec seulement 35 doses de Fertibérance, cela reste une fenêtre très serrée. Davantage de doses sont ajoutées pour s'assurer qu'elle mûrisse en premier afin d'éviter le risque que d'autres baies soient remplacées par des [[Occa/fr|Chocco]], des [[Colbur/fr|Lampou]], ou des [[Kebia/fr|Kébia]].
+
+* Le site gratuit [https://www.timeanddate.com/timer/ timeanddate.com] est une excellente ressource pour régler plusieurs chronomètres simultanément. Le minutage commence au moment du plantage de la première baie. Déclenchez tous vos chronomètres au moment exact où vous plantez la [[Haban/fr|Fraigo]] et la [[Babiri/fr|Babiri]].
+
+* Notez qu'il y a peu de périodes creuses de plus d'une heure ; les chronomètres de la Ferme ne tournent pas tant que le jeu n'est pas ouvert, vous pouvez donc faire des pauses au cours de ce processus.
+
+* Il est est très important que la [[Babiri/fr|Babiri]] finisse de mûrir avant la [[Occa/fr|Chocco]], la [[Colbur/fr|Lampou]] et la [[Kebia/fr|Kébia]]. De fait, elle est plantée de manière à mûrir très tôt puisqu'elle a aussi une durée de vie très longue. En suivant les tableaux ci-dessous, basez vos temps de plantage sur le temps restant à [[Haban/fr|Fraigo]] pour mûrir. N'utilisez pas d'autre baie pour vos minutages.
+
+===== Information critique pour quand les baies sont toutes mûres =====
+
+Lorsque les 18 baies sont mûres, les conditions requises pour l'apparition de Pitaye sont toutes remplies. À ce moment, remplacez immédiatement votre [[Sprayduck/fr|Kwakarrosoir]] par le [[Squirtbottle/fr|Carapuce à O]] si possible, où par un autre [[Oak Items/fr|Objet de Chen]] sinon. Il est fortement recommendé de faire une sauvgarde à ce moment afind de ne pas avoir à recommencer tout le processus du début au cas où aucune mutation ne se produit. Les Pitaye peuvent apparaître sur n'importe lesquelles des sept parcelles vide de votre ferme. Les sept parcelles vides devraient être continuellement recouverte de Fertistantané. Notez que bien que la [[Kebia/fr|Kébia]] a la possibilité de remplacer d'autres baies, elle ne peut le faire que sur des plants au stade arbuste ou plus, vous pourrez donc laisser les mutations continuer si vous souhaitez muter plusieurs Petaya avant que la [[Wacan/fr|Parma]] ne flétrisse. Plus précisément, vous avez 6 heures à partir du moment de la mutation pour enlever la [[Kebia/fr|Kébia]] avant qu'elle ne menace votre Petaya fraîchement mutée, sauf si elle a muté sur une des deux parcelles du bord.
+
+===== Petaya avec Fertigel (mode facile) =====
+Faire muter une Pitaye avec du Fertigel rend la chose incroyablement facile. Tout ce que vous avez à faire, c'est de planter toutes les baies en même temps, tel qu'indiqué sur la formation de mutation, et de simplemnt appliquer la bonne quantité de Fertigel sur les graines de baie, de telle manière que lorsque l'effet du Fertigel s'estompera, la baie poussera comme si vous veniez tout juste de la planter comme indiqué sur le tableau de minutage. Le tableau ci-dessous indique la quantité de Fertigel nécessaire pour que les minutages soient corrects. La Sédra et la Kébia ont un temps de croissance si court (5 et 10 minutes sans Kwakarrosoir) qu'il est probablement plus simple de ne les planter que lorsque les autres baies sont quasi mûres, d'où la mention optionnel.
+{| class="collapsible wikitable collapsed"| style="text-align: center;"
+! Baie !! Fertigel nécessaire
+|+ ''Note&amp;nbsp;: Cette table suppose que vous avez appliqué 128 doses de Fertibérance sur la Fraigo et 52 doses sur la Babiri, le tout sans équiper le Kwakarrosoir''
+|-
+| [[Haban/fr|Fraigo]] || 0
+|-
+| [[Babiri/fr|Babiri]] || 0
+|-
+| [[Yache/fr|Nanone]] || 32
+|-
+| [[Shuca/fr|Jouca]] || 39
+|-
+| [[Charti/fr|Charti]] || 43
+|-
+| [[Chople/fr|Pomroz]] || 47
+|-
+| [[Payapa/fr|Yapap]] || 51
+|-
+| [[Rindo/fr|Ratam]] || 63
+|-
+| [[Colbur/fr|Lampou]] || 67
+|-
+| [[Roseli/fr|Selro]] || 71
+|-
+| [[Occa/fr|Chocco]] || 78
+|-
+| [[Passho/fr|Pocpoc]] || 79
+|-
+| [[Coba/fr|Cobaba]] || 83
+|-
+| [[Chilan/fr|Zalis]] || 111
+|-
+| [[Tanga/fr|Panga]] || 113
+|-
+| [[Wacan/fr|Parma]] || 119
+|-
+| [[Kebia/fr|Kébia]] || 125 (optionnel)
+|-
+| [[Kasib/fr|Sédra]] || 126 (optionnel)
+|}
+
+===== Que faire si aucune Pitaye n'est apparue alors ques les autres baies commencent à flétrir =====
+
+La première baie à flétrir sera la [[Wacan/fr|Parma]] — elle flétrit environ 1 heure et 25 mins après avoir atteint sa maturité. Cela ''devrait'' être suffisant pour qu'une Pitaye puisse apparaître. Si la [[Wacan/fr|Parma]] flétrit avant mutation, vous devrez replanter la [[Chilan/fr|Zalis]], la [[Tanga/fr|Panga]] et la [[Wacan/fr|Parma]]. Si vous commencez 38 minutes avant le flétrissement de la [[Wacan/fr|Parma]] (1 heure 15 minutes avec Fertibérance), vous ''devriez'' avoir un autre cycle complet de [[Wacan/fr|Parma]] avant que la [[Coba/fr|Cobaba]] ne flétrisse et que vous n'ayez à tout reprendre depuis le début. La possibilité de faire ainsi augmente les chances globales de mutation à 99%, ou 84,4% sans [[Squirtbottle/fr|Carapuce à O]].
+
+==== Tableau de minutage ====
+{| class="collapsible wikitable"| style="text-align: center;"
+|+ ''Tous les temps indiqués sont basés sur le temps restant avant que la première baie plantée n'arrive à maturité''
+! Baie !! Temps de plantation&lt;br&gt;sans modificateur!! Temps de plantation avec &lt;br&gt; Engrais ou Kwakarrosoir || Temps de plantation avec &lt;br&gt; Engrais et Kwakarrosoir
+|-
+| [[Haban/fr|Fraigo]] || - || - || -
+|-
+| [[Babiri/fr|Babiri]] || 20 heures avant maturité || 14 heures avant maturité || 10 heures avant maturité
+|-
+| [[Yache/fr|Nanone]] || 12 heures avant maturité || 8 heures avant maturité || 5 heures 20 mins avant maturité
+|-
+| [[Shuca/fr|Jouca]] || 10 heures 52 mins avant maturité || 7 heures 15 mins avant maturité || 4 heures 50 mins avant maturité
+|-
+| [[Charti/fr|Charti]] || 10 heures 22 mins avant maturité || 6 heures 55 mins avant maturité || 4 heures 37 mins avant maturité
+|-
+| [[Chople/fr|Pomroz]] || 9 heures 52 mins avant maturité || 6 heures 35 mins avant maturité || 4 heures 23 mins avant maturité
+|-
+| [[Payapa/fr|Yapap]] || 9 heures 22 mins avant maturité || 6 heures 15 mins avant maturité || 4 heures 10 mins avant maturité
+|-
+| [[Rindo/fr|Ratam]] || 7 heures 52 mins avant maturité || 5 heures 15 mins avant maturité || 3 heures 27 mins avant maturité
+|-
+| [[Colbur/fr|Lampou]] || 7 heures 22 mins avant maturité || 4 heures 55 mins avant maturité || 3 heures 17 mins avant maturité
+|-
+| [[Roseli/fr|Selro]] || 6 heures 52 mins avant maturité || 4 heures 35 mins avant maturité || 3 heures 3 mins avant maturité
+|-
+| [[Occa/fr|Chocco]] || 5 heures 58 mins avant maturité || 3 heures 59 mins avant maturité || 2 heures 39 mins avant maturité
+|-
+| [[Passho/fr|Pocpoc]] || 5 heures 52 mins avant maturité || 3 heures 55 mins avant maturité || 2 heures 37 mins avant maturité
+|-
+| [[Coba/fr|Cobaba]] || 5 heures 22 mins avant maturité || 3 heures 35 mins avant maturité || 2 heures 23 mins avant maturité
+|-
+| [[Chilan/fr|Zalis]] || 1 heure 52 mins avant maturité || 1 heure 15 mins avant maturité || 50 mins avant maturité
+|-
+| [[Tanga/fr|Panga]] || 1 heure 32 mins avant maturité || 1 heure 1 min avant maturité || 41 mins avant maturité
+|-
+| [[Wacan/fr|Parma]] || 53 mins avant maturité || 35 mins 30 secs avant maturité || 23 mins 30 secs avant maturité
+|-
+| [[Kebia/fr|Kébia]] || 10 mins avant maturité || 6 mins 40 secs avant maturité || 4 mins 27 secs
+|-
+| [[Kasib/fr|Sédra]] || 5 mins avant maturité || 3 mins 20 secs avant maturité || 2 mins 13 secs
+|-
+|}
+
+Si la [[Wacan/fr|Parma]] flétrit, récoltez et replantez la [[Chilan/fr|Zalis]], la [[Tanga/fr|Panga]] et la [[Wacan/fr|Parma]] en suivant ce tableau pour relancer la formation. Notez que vous devrez vous assurer qu'il reste au moins 2 heures et 46 minutes (3 heures 26 minutes sans Fertibérance) au chrono de la [[Coba/fr|Cobaba]] et de la [[Shuca/fr|Jouca]] pour avoir une autre cycle complet de [[Wacan/fr|Parma]]. Vous pourriez aussi replanter la [[Kasib/fr|Sédra]] pour éviter que la [[Shuca/fr|Jouca]] ne flétrisse avant la [[Coba/fr|Cobaba]], mais ce n'est pas très important à ce moment-là.
+
+{| class="wikitable" | style="text-align: center;"
+|+ ''Tous les temps indiqués sont basés sur le temps restant avant que la première baie plantée n'arrive à maturité''
+! Baie !! Temps de plantation&lt;br&gt;sans modificateur!! Temps de plantation avec &lt;br&gt; Engrais ou Kwakarrosoir || Temps de plantation avec &lt;br&gt; Engrais et Kwakarrosoir
+|-
+| [[Chilan/fr|Zalis]] || - || - || -
+|-
+| [[Tanga/fr|Panga]] || - || - || -
+|-
+| [[Wacan/fr|Parma]] || 1 heure 25 mins 42 secs avant maturité ||  57 mins 8 secs until ripe || 38 mins 5 secs avant maturité
+|-
+|}
+
+==Utilisation==
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+===Mutations===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Petaya berries can be used to mutate the following berries.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Maranga.png|20px]] [[Maranga]] || [[File:Salac.png|20px]] [[Salac]]
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+==Using Petaya==
+Farm setups using Petaya can be found here:
+* [[Pokémon_Day_Care|Maximizing Egg step gain for Breeding Pokemon faster]] 
+* [[Shiny Chance|Maximizing Shiny Chance to turn all Pokemon Shiny]]
+* [[Farming Setups|Various useful Farming Setups]]
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+[[Category:Farm]][[Category:Berries]]</text>
+    <contributor>
+      <username>LeChatMG</username>
+      <id>97</id>
+    </contributor>
+    <comment>Mauvais clic</comment>
+    <model>wikitext</model>
+    <parentid>23786</parentid>
+    <sha1>3fbcf61b8eda63ac0ddb22d5980c9f82e617f5c5</sha1>
+  </revision>
+  <revision>
+    <id>23786</id>
+    <timestamp>2022-08-16T16:01:21Z</timestamp>
+    <text bytes="16239" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #63 Pitaye
+|image   = [[File:Petaya.png]]
+|caption = Une Baie mystérieuse, censée contenir le pouvoir de la vie.&lt;br&gt;Ce pouvoir maintient les autres Baies en vie plus longtemps.
+|growtime  = 1j
+|harvest = 0,5 baies
+|replant = 0%
+|mutation = 0,001%
+|points = 15&amp;nbsp;000
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*30 épicée
+*0 sèche
+*0 sucrée
+*30 amère
+*10 acide
+}}
+
+'''Pitaye''' est un type de [[Berries/fr|Baie]] qui peut être plantée à la [[Farm/fr|Ferme]]. Elle s'obtient en ayant au moins une parcelle vide et au moins 1 plant de chacune des [[Berries#Baies de Gen 4|Baies de quatrième génération]] dans le champ.
+
+=== Stades de croissance ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+|-
+! !! Pousse !! Arbuste !! Fleuri !! Mûr
+|-
+! Temps écoulé depuis plantation
+| 3 hours || 6 hours || 12 hours || 1 day - 5 days
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:PetayaTreeTaller.png|50px]] || &lt;center&gt; [[File:PetayaTreeBloom.png|50px]] || &lt;center&gt; [[File:PetayaTreeBerry.png|50px]]
+|-
+! Aura (empêche le flétrissement)
+| colspan=3| &lt;center&gt; None || &lt;center&gt; Empêche les baies mûre des flétrir
+|}
+
+===Temps de croissance avec modificateurs===
+{| class="wikitable collapsible" | style="text-align: center;"
+! Modificateur !! Temps maturité-flétrissement !! Fertibérance nécessaire pour mûrir
+|-
+! Aucun
+| 1 jour -&lt;br&gt; 5 jours || &lt;center&gt; ---
+|-
+! Engrais ou Kwakarrosoir
+| 16 heures -&lt;br&gt; 80 heures || &lt;center&gt; 192 engrais
+|-
+! Engrais et Kwakarrosoir
+| 10 heures 40 mins -&lt;br&gt; 53 heures 20 mins || &lt;center&gt; 128 engrais
+|}
+
+== Organigramme ==
+[[File:Petaya_Flow_Chart.png|850px]]
+&lt;br&gt;
+
+== Stratégie de mutation ==
+=== Formations possibles ===
+
+Vous pouvez remplir votre ferme de la manière suivante pour obtenir des baies Pitaye. Notez que la [[Occa/fr|Chocco]], la [[Kebia/fr|Kébia]] et la [[Colbur/fr|Lampou]] peuvent remplacer d'autres plants, elles sont donc placées autour d'une [[Babiri/fr|Babiri]] pour éviter ça. La [[Kebia/fr|Kébia]] et la [[Payapa/fr|Yapap]] augmentent les chances de mutation et sont placées de sorte à affecter le plus de parcelles pouvant muter possibles. La [[Babiri/fr|Babiri]] réduit les chances de mutation et la [[Rindo/fr|Ratam]] s'étend sur les parcelles vides, elles ne sont donc pas placées à côté de parcelles pouvant muter. La [[Wacan/fr|Parma]], la [[Yache/fr|Nanone]] et la [[Haban/fr|Fraigo]] affectent toutes les temps de croissance et sont donc placées dans l'angle avec des baies dont les temps de croissance sont court afin de limiter leur impact et de rendre les timings plus simples. En utilisant du [[Farm_Items/fr|Fertistantané]], un [[Squirtbottle/fr|Carapuce à O]] au niveau max et en suivant la formation suivante, vous avez environ 90,2% de chances (60,5% sans le [[Squirtbottle/fr|Carapuce à O]]) d'obtenir une Pitaye avant que la première baie n'ait besoin d'être replantée. Les cases violettes indiquent où les mutations peuvent avoir lieu.
+
+{| class="wikitable" style="text-align: center;"
+|+ Ferme
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Kasib.png|30px]]&lt;br&gt;[[Kasib/fr|Sédra]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Payapa.png|30px]]&lt;br&gt;[[Payapa/fr|Yapap]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Yache.png|30px]]&lt;br&gt;[[Yache/fr|Nanone]]
+|- style="height: 50px;"
+| [[File:Shuca.png|30px]]&lt;br&gt;[[Shuca/fr|Jouca]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Wacan.png|30px]]&lt;br&gt;[[Wacan/fr|Parma]] 
+|- style="height: 30px;"
+| [[File:Chople.png|30px]]&lt;br&gt;[[Chople/fr|Pomroz]] || [[File:Coba.png|30px]]&lt;br&gt;[[Coba/fr|Cobaba]] || [[File:Kebia.png|30px]]&lt;br&gt;[[Kebia/fr|Kébia]] || style="background-color:#9C7D98;" | || [[File:Haban.png|30px]]&lt;br&gt;[[Haban/fr|Fraigo]] 
+|-
+| [[File:Colbur.png|30px]]&lt;br&gt;[[Colbur/fr|Lampou]] || [[File:Babiri.png|30px]]&lt;br&gt;[[Babiri/fr|Babiri]] || [[File:Charti.png|30px]]&lt;br&gt;[[Charti/fr|Charti]] || style="background-color:#9C7D98;" | || [[File:Tanga.png|30px]]&lt;br&gt;[[Tanga/fr|Panga]]
+|-
+| [[File:Occa.png|30px]]&lt;br&gt;[[Occa/fr|Chocco]] || [[File:Rindo.png|30px]]&lt;br&gt;[[Rindo/fr|Ratam]] || [[File:Passho.png|30px]]&lt;br&gt;[[Passho/fr|Pocpoc]] || [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli/fr|Selro]] || [[File:Chilan.png|30px]]&lt;br&gt;[[Chilan/fr|Zalis]]
+|}
+
+{| class="wikitable floatright" style="text-align: center;"
+|+ Minutage externe
+! Baie !! Temps !! Quantité d'engrais
+|-
+| [[Haban/fr|Fraigo]] || --- || 128
+|-
+| [[Babiri/fr|Babiri]] || --- || 52
+|-
+| [[Yache/fr|Nanone]] || 2 h 40 mins || --- 
+|-
+| [[Shuca/fr|Jouca]] || 3 h 14 mins 10 secs || ---
+|-
+| [[Charti/fr|Charti]] || 3 h 34 mins 10 secs|| ---
+|-
+| [[Chople/fr|Pomroz]] || 3 h 54 mins 10 secs || ---
+|-
+| [[Payapa/fr|Yapap]] || 4 h 14 mins 10 secs || ---
+|-
+| [[Rindo/fr|Ratam]] || 5 h 14 mins 10 secs || ---
+|-
+| [[Colbur/fr|Lampou]] || 5 h 34 mins 10 secs || ---
+|-
+| [[Roseli/fr|Selro]] || 5 h 54 mins 10 secs || ---
+|-
+| [[Occa/fr|Chocco]] || 6 h 30 mins 10 secs || ---
+|-
+| [[Passho/fr|Pocpoc]] || 6 h 34 mins 10 secs || ---
+|-
+| [[Coba/fr|Cobaba]] || 6 h 54 mins 10 secs || ---
+|-
+| [[Chilan/fr|Zalis]] || 9 h 14 mins 10 secs || ---
+|-
+| [[Tanga/fr|Panga]] || 9 h 27 mins 30 secs || ---
+|-
+| [[Wacan/fr|Parma]] || 9 h 52 mins 30 secs || ---
+|-
+| [[Kebia/fr|Kébia]] || 10 h 27 mins 30 secs || ---
+|-
+| [[Kasib/fr|Sédra]] || 10 h 30 mins 50 secs || ---
+|}
+
+==== Notes importantes ====
+
+Avant de démarrer ce processus, vous devez être prêt à passer près de 11 heures voire plus à côté de votre machine avec PokéClicker, ou au moins de pouvoir mettre vos chronomètres en pause pour faire des pauses. 
+
+* En suivant les temps listés dans le tableau à droite, toutes les baies mûriront à dix minutes d'intervalle les unes des autres. Chaque temps indique quand la baie correspondante doit être plantée.
+
+* Les minutages supposent que vous avez un [[Sprayduck/fr|Kwakarrosoir]] au niveau max ainsi que les quantités de Fertibérance indiquées sur les parcelles en question. Toutes les doses de Fertibérance devraient être appliquées au moment du plantage. Au total, vous aurez besoin de 180 doses de Fertibérance pour terminer l'ensemble du processus ; mais il est fortement recommandé d'avoir au moins 250 doses de Fertibérance en réserve au cas où les choses tourneraient mal. Notez que bien que la [[Babiri/fr|Babiri]] mûrira à peu près en même temps que la [[Haban/fr|Fraigo]] avec seulement 35 doses de Fertibérance, cela reste une fenêtre très serrée. Davantage de doses sont ajoutées pour s'assurer qu'elle mûrisse en premier afin d'éviter le risque que d'autres baies soient remplacées par des [[Occa/fr|Chocco]], des [[Colbur/fr|Lampou]], ou des [[Kebia/fr|Kébia]].
+
+* Le site gratuit [https://www.timeanddate.com/timer/ timeanddate.com] est une excellente ressource pour régler plusieurs chronomètres simultanément. Le minutage commence au moment du plantage de la première baie. Déclenchez tous vos chronomètres au moment exact où vous plantez la [[Haban/fr|Fraigo]] et la [[Babiri/fr|Babiri]].
+
+* Notez qu'il y a peu de périodes creuses de plus d'une heure ; les chronomètres de la Ferme ne tournent pas tant que le jeu n'est pas ouvert, vous pouvez donc faire des pauses au cours de ce processus.
+
+* Il est est très important que la [[Babiri/fr|Babiri]] finisse de mûrir avant la [[Occa/fr|Chocco]], la [[Colbur/fr|Lampou]] et la [[Kebia/fr|Kébia]]. De fait, elle est plantée de manière à mûrir très tôt puisqu'elle a aussi une durée de vie très longue. En suivant les tableaux ci-dessous, basez vos temps de plantage sur le temps restant à [[Haban/fr|Fraigo]] pour mûrir. N'utilisez pas d'autre baie pour vos minutages.
+
+===== Information critique pour quand les baies sont toutes mûres =====
+
+Lorsque les 18 baies sont mûres, les conditions requises pour l'apparition de Pitaye sont toutes remplies. À ce moment, remplacez immédiatement votre [[Sprayduck/fr|Kwakarrosoir]] par le [[Squirtbottle/fr|Carapuce à O]] si possible, où par un autre [[Oak Items/fr|Objet de Chen]] sinon. Il est fortement recommendé de faire une sauvgarde à ce moment afind de ne pas avoir à recommencer tout le processus du début au cas où aucune mutation ne se produit. Les Pitaye peuvent apparaître sur n'importe lesquelles des sept parcelles vide de votre ferme. Les sept parcelles vides devraient être continuellement recouverte de Fertistantané. Notez que bien que la [[Kebia/fr|Kébia]] a la possibilité de remplacer d'autres baies, elle ne peut le faire que sur des plants au stade arbuste ou plus, vous pourrez donc laisser les mutations continuer si vous souhaitez muter plusieurs Petaya avant que la [[Wacan/fr|Parma]] ne flétrisse. Plus précisément, vous avez 6 heures à partir du moment de la mutation pour enlever la [[Kebia/fr|Kébia]] avant qu'elle ne menace votre Petaya fraîchement mutée, sauf si elle a muté sur une des deux parcelles du bord.
+
+===== Petaya avec Fertigel (mode facile) =====
+Faire muter une Pitaye avec du Fertigel rend la chose incroyablement facile. Tout ce que vous avez à faire, c'est de planter toutes les baies en même temps, tel qu'indiqué sur la formation de mutation, et de simplemnt appliquer la bonne quantité de Fertigel sur les graines de baie, de telle manière que lorsque l'effet du Fertigel s'estompera, la baie poussera comme si vous veniez tout juste de la planter comme indiqué sur le tableau de minutage. Le tableau ci-dessous indique la quantité de Fertigel nécessaire pour que les minutages soient corrects. La Sédra et la Kébia ont un temps de croissance si court (5 et 10 minutes sans Kwakarrosoir) qu'il est probablement plus simple de ne les planter que lorsque les autres baies sont quasi mûres, d'où la mention optionnel.
+{| class="collapsible wikitable collapsed"| style="text-align: center;"
+! Baie !! Fertigel nécessaire
+|+ ''Note&amp;nbsp;: Cette table suppose que vous avez appliqué 128 doses de Fertibérance sur la Fraigo et 52 doses sur la Babiri, le tout sans équiper le Kwakarrosoir''
+|-
+| [[Haban/fr|Fraigo]] || 0
+|-
+| [[Babiri/fr|Babiri]] || 0
+|-
+| [[Yache/fr|Nanone]] || 32
+|-
+| [[Shuca/fr|Jouca]] || 39
+|-
+| [[Charti/fr|Charti]] || 43
+|-
+| [[Chople/fr|Pomroz]] || 47
+|-
+| [[Payapa/fr|Yapap]] || 51
+|-
+| [[Rindo/fr|Ratam]] || 63
+|-
+| [[Colbur/fr|Lampou]] || 67
+|-
+| [[Roseli/fr|Selro]] || 71
+|-
+| [[Occa/fr|Chocco]] || 78
+|-
+| [[Passho/fr|Pocpoc]] || 79
+|-
+| [[Coba/fr|Cobaba]] || 83
+|-
+| [[Chilan/fr|Zalis]] || 111
+|-
+| [[Tanga/fr|Panga]] || 113
+|-
+| [[Wacan/fr|Parma]] || 119
+|-
+| [[Kebia/fr|Kébia]] || 125 (optionnel)
+|-
+| [[Kasib/fr|Sédra]] || 126 (optionnel)
+|}
+
+===== Que faire si aucune Pitaye n'est apparue alors ques les autres baies commencent à flétrir =====
+
+La première baie à flétrir sera la [[Wacan/fr|Parma]] — elle flétrit environ 1 heure et 25 mins après avoir atteint sa maturité. Cela ''devrait'' être suffisant pour qu'une Pitaye puisse apparaître. Si la [[Wacan/fr|Parma]] flétrit avant mutation, vous devrez replanter la [[Chilan/fr|Zalis]], la [[Tanga/fr|Panga]] et la [[Wacan/fr|Parma]]. Si vous commencez 38 minutes avant le flétrissement de la [[Wacan/fr|Parma]] (1 heure 15 minutes avec Fertibérance), vous ''devriez'' avoir un autre cycle complet de [[Wacan/fr|Parma]] avant que la [[Coba/fr|Cobaba]] ne flétrisse et que vous n'ayez à tout reprendre depuis le début. La possibilité de faire ainsi augmente les chances globales de mutation à 99%, ou 84,4% sans [[Squirtbottle/fr|Carapuce à O]].
+
+==== Tableau de minutage ====
+{| class="collapsible wikitable"| style="text-align: center;"
+|+ ''Tous les temps indiqués sont basés sur le temps restant avant que la première baie plantée n'arrive à maturité''
+! Baie !! Temps de plantation&lt;br&gt;sans modificateur!! Temps de plantation avec &lt;br&gt; Engrais ou Kwakarrosoir || Temps de plantation avec &lt;br&gt; Engrais et Kwakarrosoir
+|-
+| [[Haban/fr|Fraigo]] || - || - || -
+|-
+| [[Babiri/fr|Babiri]] || 20 heures avant maturité || 14 heures avant maturité || 10 heures avant maturité
+|-
+| [[Yache/fr|Nanone]] || 12 heures avant maturité || 8 heures avant maturité || 5 heures 20 mins avant maturité
+|-
+| [[Shuca/fr|Jouca]] || 10 heures 52 mins avant maturité || 7 heures 15 mins avant maturité || 4 heures 50 mins avant maturité
+|-
+| [[Charti/fr|Charti]] || 10 heures 22 mins avant maturité || 6 heures 55 mins avant maturité || 4 heures 37 mins avant maturité
+|-
+| [[Chople/fr|Pomroz]] || 9 heures 52 mins avant maturité || 6 heures 35 mins avant maturité || 4 heures 23 mins avant maturité
+|-
+| [[Payapa/fr|Yapap]] || 9 heures 22 mins avant maturité || 6 heures 15 mins avant maturité || 4 heures 10 mins avant maturité
+|-
+| [[Rindo/fr|Ratam]] || 7 heures 52 mins avant maturité || 5 heures 15 mins avant maturité || 3 heures 27 mins avant maturité
+|-
+| [[Colbur/fr|Lampou]] || 7 heures 22 mins avant maturité || 4 heures 55 mins avant maturité || 3 heures 17 mins avant maturité
+|-
+| [[Roseli/fr|Selro]] || 6 heures 52 mins avant maturité || 4 heures 35 mins avant maturité || 3 heures 3 mins avant maturité
+|-
+| [[Occa/fr|Chocco]] || 5 heures 58 mins avant maturité || 3 heures 59 mins avant maturité || 2 heures 39 mins avant maturité
+|-
+| [[Passho/fr|Pocpoc]] || 5 heures 52 mins avant maturité || 3 heures 55 mins avant maturité || 2 heures 37 mins avant maturité
+|-
+| [[Coba/fr|Cobaba]] || 5 heures 22 mins avant maturité || 3 heures 35 mins avant maturité || 2 heures 23 mins avant maturité
+|-
+| [[Chilan/fr|Zalis]] || 1 heure 52 mins avant maturité || 1 heure 15 mins avant maturité || 50 mins avant maturité
+|-
+| [[Tanga/fr|Panga]] || 1 heure 32 mins avant maturité || 1 heure 1 min avant maturité || 41 mins avant maturité
+|-
+| [[Wacan/fr|Parma]] || 53 mins avant maturité || 35 mins 30 secs avant maturité || 23 mins 30 secs avant maturité
+|-
+| [[Kebia/fr|Kébia]] || 10 mins avant maturité || 6 mins 40 secs avant maturité || 4 mins 27 secs
+|-
+| [[Kasib/fr|Sédra]] || 5 mins avant maturité || 3 mins 20 secs avant maturité || 2 mins 13 secs
+|-
+|}
+
+Si la [[Wacan/fr|Parma]] flétrit, récoltez et replantez la [[Chilan/fr|Zalis]], la [[Tanga/fr|Panga]] et la [[Wacan/fr|Parma]] en suivant ce tableau pour relancer la formation. Notez que vous devrez vous assurer qu'il reste au moins 2 heures et 46 minutes (3 heures 26 minutes sans Fertibérance) au chrono de la [[Coba/fr|Cobaba]] et de la [[Shuca/fr|Jouca]] pour avoir une autre cycle complet de [[Wacan/fr|Parma]]. Vous pourriez aussi replanter la [[Kasib/fr|Sédra]] pour éviter que la [[Shuca/fr|Jouca]] ne flétrisse avant la [[Coba/fr|Cobaba]], mais ce n'est pas très important à ce moment-là.
+
+{| class="wikitable" | style="text-align: center;"
+|+ ''Tous les temps indiqués sont basés sur le temps restant avant que la première baie plantée n'arrive à maturité''
+! Baie !! Temps de plantation&lt;br&gt;sans modificateur!! Temps de plantation avec &lt;br&gt; Engrais ou Kwakarrosoir || Temps de plantation avec &lt;br&gt; Engrais et Kwakarrosoir
+|-
+| [[Chilan/fr|Zalis]] || - || - || -
+|-
+| [[Tanga/fr|Panga]] || - || - || -
+|-
+| [[Wacan/fr|Parma]] || 1 heure 25 mins 42 secs avant maturité ||  57 mins 8 secs until ripe || 38 mins 5 secs avant maturité
+|-
+|}
+
+Utilis
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+===Mutations===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Petaya berries can be used to mutate the following berries.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Maranga.png|20px]] [[Maranga]] || [[File:Salac.png|20px]] [[Salac]]
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+==Using Petaya==
+Farm setups using Petaya can be found here:
+* [[Pokémon_Day_Care|Maximizing Egg step gain for Breeding Pokemon faster]] 
+* [[Shiny Chance|Maximizing Shiny Chance to turn all Pokemon Shiny]]
+* [[Farming Setups|Various useful Farming Setups]]
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+[[Category:Farm]][[Category:Berries]]</text>
+    <contributor>
+      <username>LeChatMG</username>
+      <id>97</id>
+    </contributor>
+    <comment>Created page with "Utilis"</comment>
+    <model>wikitext</model>
+    <parentid>23785</parentid>
+    <sha1>1585fce24c4e42c0e4dc5b6739789ffc99bd6cf1</sha1>
+  </revision>
+  <revision>
+    <id>23785</id>
+    <timestamp>2022-08-16T16:01:13Z</timestamp>
+    <text bytes="16297" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #63 Pitaye
+|image   = [[File:Petaya.png]]
+|caption = Une Baie mystérieuse, censée contenir le pouvoir de la vie.&lt;br&gt;Ce pouvoir maintient les autres Baies en vie plus longtemps.
+|growtime  = 1j
+|harvest = 0,5 baies
+|replant = 0%
+|mutation = 0,001%
+|points = 15&amp;nbsp;000
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*30 épicée
+*0 sèche
+*0 sucrée
+*30 amère
+*10 acide
+}}
+
+'''Pitaye''' est un type de [[Berries/fr|Baie]] qui peut être plantée à la [[Farm/fr|Ferme]]. Elle s'obtient en ayant au moins une parcelle vide et au moins 1 plant de chacune des [[Berries#Baies de Gen 4|Baies de quatrième génération]] dans le champ.
+
+=== Stades de croissance ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+|-
+! !! Pousse !! Arbuste !! Fleuri !! Mûr
+|-
+! Temps écoulé depuis plantation
+| 3 hours || 6 hours || 12 hours || 1 day - 5 days
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:PetayaTreeTaller.png|50px]] || &lt;center&gt; [[File:PetayaTreeBloom.png|50px]] || &lt;center&gt; [[File:PetayaTreeBerry.png|50px]]
+|-
+! Aura (empêche le flétrissement)
+| colspan=3| &lt;center&gt; None || &lt;center&gt; Empêche les baies mûre des flétrir
+|}
+
+===Temps de croissance avec modificateurs===
+{| class="wikitable collapsible" | style="text-align: center;"
+! Modificateur !! Temps maturité-flétrissement !! Fertibérance nécessaire pour mûrir
+|-
+! Aucun
+| 1 jour -&lt;br&gt; 5 jours || &lt;center&gt; ---
+|-
+! Engrais ou Kwakarrosoir
+| 16 heures -&lt;br&gt; 80 heures || &lt;center&gt; 192 engrais
+|-
+! Engrais et Kwakarrosoir
+| 10 heures 40 mins -&lt;br&gt; 53 heures 20 mins || &lt;center&gt; 128 engrais
+|}
+
+== Organigramme ==
+[[File:Petaya_Flow_Chart.png|850px]]
+&lt;br&gt;
+
+== Stratégie de mutation ==
+=== Formations possibles ===
+
+Vous pouvez remplir votre ferme de la manière suivante pour obtenir des baies Pitaye. Notez que la [[Occa/fr|Chocco]], la [[Kebia/fr|Kébia]] et la [[Colbur/fr|Lampou]] peuvent remplacer d'autres plants, elles sont donc placées autour d'une [[Babiri/fr|Babiri]] pour éviter ça. La [[Kebia/fr|Kébia]] et la [[Payapa/fr|Yapap]] augmentent les chances de mutation et sont placées de sorte à affecter le plus de parcelles pouvant muter possibles. La [[Babiri/fr|Babiri]] réduit les chances de mutation et la [[Rindo/fr|Ratam]] s'étend sur les parcelles vides, elles ne sont donc pas placées à côté de parcelles pouvant muter. La [[Wacan/fr|Parma]], la [[Yache/fr|Nanone]] et la [[Haban/fr|Fraigo]] affectent toutes les temps de croissance et sont donc placées dans l'angle avec des baies dont les temps de croissance sont court afin de limiter leur impact et de rendre les timings plus simples. En utilisant du [[Farm_Items/fr|Fertistantané]], un [[Squirtbottle/fr|Carapuce à O]] au niveau max et en suivant la formation suivante, vous avez environ 90,2% de chances (60,5% sans le [[Squirtbottle/fr|Carapuce à O]]) d'obtenir une Pitaye avant que la première baie n'ait besoin d'être replantée. Les cases violettes indiquent où les mutations peuvent avoir lieu.
+
+{| class="wikitable" style="text-align: center;"
+|+ Ferme
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Kasib.png|30px]]&lt;br&gt;[[Kasib/fr|Sédra]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Payapa.png|30px]]&lt;br&gt;[[Payapa/fr|Yapap]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Yache.png|30px]]&lt;br&gt;[[Yache/fr|Nanone]]
+|- style="height: 50px;"
+| [[File:Shuca.png|30px]]&lt;br&gt;[[Shuca/fr|Jouca]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Wacan.png|30px]]&lt;br&gt;[[Wacan/fr|Parma]] 
+|- style="height: 30px;"
+| [[File:Chople.png|30px]]&lt;br&gt;[[Chople/fr|Pomroz]] || [[File:Coba.png|30px]]&lt;br&gt;[[Coba/fr|Cobaba]] || [[File:Kebia.png|30px]]&lt;br&gt;[[Kebia/fr|Kébia]] || style="background-color:#9C7D98;" | || [[File:Haban.png|30px]]&lt;br&gt;[[Haban/fr|Fraigo]] 
+|-
+| [[File:Colbur.png|30px]]&lt;br&gt;[[Colbur/fr|Lampou]] || [[File:Babiri.png|30px]]&lt;br&gt;[[Babiri/fr|Babiri]] || [[File:Charti.png|30px]]&lt;br&gt;[[Charti/fr|Charti]] || style="background-color:#9C7D98;" | || [[File:Tanga.png|30px]]&lt;br&gt;[[Tanga/fr|Panga]]
+|-
+| [[File:Occa.png|30px]]&lt;br&gt;[[Occa/fr|Chocco]] || [[File:Rindo.png|30px]]&lt;br&gt;[[Rindo/fr|Ratam]] || [[File:Passho.png|30px]]&lt;br&gt;[[Passho/fr|Pocpoc]] || [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli/fr|Selro]] || [[File:Chilan.png|30px]]&lt;br&gt;[[Chilan/fr|Zalis]]
+|}
+
+{| class="wikitable floatright" style="text-align: center;"
+|+ Minutage externe
+! Baie !! Temps !! Quantité d'engrais
+|-
+| [[Haban/fr|Fraigo]] || --- || 128
+|-
+| [[Babiri/fr|Babiri]] || --- || 52
+|-
+| [[Yache/fr|Nanone]] || 2 h 40 mins || --- 
+|-
+| [[Shuca/fr|Jouca]] || 3 h 14 mins 10 secs || ---
+|-
+| [[Charti/fr|Charti]] || 3 h 34 mins 10 secs|| ---
+|-
+| [[Chople/fr|Pomroz]] || 3 h 54 mins 10 secs || ---
+|-
+| [[Payapa/fr|Yapap]] || 4 h 14 mins 10 secs || ---
+|-
+| [[Rindo/fr|Ratam]] || 5 h 14 mins 10 secs || ---
+|-
+| [[Colbur/fr|Lampou]] || 5 h 34 mins 10 secs || ---
+|-
+| [[Roseli/fr|Selro]] || 5 h 54 mins 10 secs || ---
+|-
+| [[Occa/fr|Chocco]] || 6 h 30 mins 10 secs || ---
+|-
+| [[Passho/fr|Pocpoc]] || 6 h 34 mins 10 secs || ---
+|-
+| [[Coba/fr|Cobaba]] || 6 h 54 mins 10 secs || ---
+|-
+| [[Chilan/fr|Zalis]] || 9 h 14 mins 10 secs || ---
+|-
+| [[Tanga/fr|Panga]] || 9 h 27 mins 30 secs || ---
+|-
+| [[Wacan/fr|Parma]] || 9 h 52 mins 30 secs || ---
+|-
+| [[Kebia/fr|Kébia]] || 10 h 27 mins 30 secs || ---
+|-
+| [[Kasib/fr|Sédra]] || 10 h 30 mins 50 secs || ---
+|}
+
+==== Notes importantes ====
+
+Avant de démarrer ce processus, vous devez être prêt à passer près de 11 heures voire plus à côté de votre machine avec PokéClicker, ou au moins de pouvoir mettre vos chronomètres en pause pour faire des pauses. 
+
+* En suivant les temps listés dans le tableau à droite, toutes les baies mûriront à dix minutes d'intervalle les unes des autres. Chaque temps indique quand la baie correspondante doit être plantée.
+
+* Les minutages supposent que vous avez un [[Sprayduck/fr|Kwakarrosoir]] au niveau max ainsi que les quantités de Fertibérance indiquées sur les parcelles en question. Toutes les doses de Fertibérance devraient être appliquées au moment du plantage. Au total, vous aurez besoin de 180 doses de Fertibérance pour terminer l'ensemble du processus ; mais il est fortement recommandé d'avoir au moins 250 doses de Fertibérance en réserve au cas où les choses tourneraient mal. Notez que bien que la [[Babiri/fr|Babiri]] mûrira à peu près en même temps que la [[Haban/fr|Fraigo]] avec seulement 35 doses de Fertibérance, cela reste une fenêtre très serrée. Davantage de doses sont ajoutées pour s'assurer qu'elle mûrisse en premier afin d'éviter le risque que d'autres baies soient remplacées par des [[Occa/fr|Chocco]], des [[Colbur/fr|Lampou]], ou des [[Kebia/fr|Kébia]].
+
+* Le site gratuit [https://www.timeanddate.com/timer/ timeanddate.com] est une excellente ressource pour régler plusieurs chronomètres simultanément. Le minutage commence au moment du plantage de la première baie. Déclenchez tous vos chronomètres au moment exact où vous plantez la [[Haban/fr|Fraigo]] et la [[Babiri/fr|Babiri]].
+
+* Notez qu'il y a peu de périodes creuses de plus d'une heure ; les chronomètres de la Ferme ne tournent pas tant que le jeu n'est pas ouvert, vous pouvez donc faire des pauses au cours de ce processus.
+
+* Il est est très important que la [[Babiri/fr|Babiri]] finisse de mûrir avant la [[Occa/fr|Chocco]], la [[Colbur/fr|Lampou]] et la [[Kebia/fr|Kébia]]. De fait, elle est plantée de manière à mûrir très tôt puisqu'elle a aussi une durée de vie très longue. En suivant les tableaux ci-dessous, basez vos temps de plantage sur le temps restant à [[Haban/fr|Fraigo]] pour mûrir. N'utilisez pas d'autre baie pour vos minutages.
+
+===== Information critique pour quand les baies sont toutes mûres =====
+
+Lorsque les 18 baies sont mûres, les conditions requises pour l'apparition de Pitaye sont toutes remplies. À ce moment, remplacez immédiatement votre [[Sprayduck/fr|Kwakarrosoir]] par le [[Squirtbottle/fr|Carapuce à O]] si possible, où par un autre [[Oak Items/fr|Objet de Chen]] sinon. Il est fortement recommendé de faire une sauvgarde à ce moment afind de ne pas avoir à recommencer tout le processus du début au cas où aucune mutation ne se produit. Les Pitaye peuvent apparaître sur n'importe lesquelles des sept parcelles vide de votre ferme. Les sept parcelles vides devraient être continuellement recouverte de Fertistantané. Notez que bien que la [[Kebia/fr|Kébia]] a la possibilité de remplacer d'autres baies, elle ne peut le faire que sur des plants au stade arbuste ou plus, vous pourrez donc laisser les mutations continuer si vous souhaitez muter plusieurs Petaya avant que la [[Wacan/fr|Parma]] ne flétrisse. Plus précisément, vous avez 6 heures à partir du moment de la mutation pour enlever la [[Kebia/fr|Kébia]] avant qu'elle ne menace votre Petaya fraîchement mutée, sauf si elle a muté sur une des deux parcelles du bord.
+
+===== Petaya avec Fertigel (mode facile) =====
+Faire muter une Pitaye avec du Fertigel rend la chose incroyablement facile. Tout ce que vous avez à faire, c'est de planter toutes les baies en même temps, tel qu'indiqué sur la formation de mutation, et de simplemnt appliquer la bonne quantité de Fertigel sur les graines de baie, de telle manière que lorsque l'effet du Fertigel s'estompera, la baie poussera comme si vous veniez tout juste de la planter comme indiqué sur le tableau de minutage. Le tableau ci-dessous indique la quantité de Fertigel nécessaire pour que les minutages soient corrects. La Sédra et la Kébia ont un temps de croissance si court (5 et 10 minutes sans Kwakarrosoir) qu'il est probablement plus simple de ne les planter que lorsque les autres baies sont quasi mûres, d'où la mention optionnel.
+{| class="collapsible wikitable collapsed"| style="text-align: center;"
+! Baie !! Fertigel nécessaire
+|+ ''Note&amp;nbsp;: Cette table suppose que vous avez appliqué 128 doses de Fertibérance sur la Fraigo et 52 doses sur la Babiri, le tout sans équiper le Kwakarrosoir''
+|-
+| [[Haban/fr|Fraigo]] || 0
+|-
+| [[Babiri/fr|Babiri]] || 0
+|-
+| [[Yache/fr|Nanone]] || 32
+|-
+| [[Shuca/fr|Jouca]] || 39
+|-
+| [[Charti/fr|Charti]] || 43
+|-
+| [[Chople/fr|Pomroz]] || 47
+|-
+| [[Payapa/fr|Yapap]] || 51
+|-
+| [[Rindo/fr|Ratam]] || 63
+|-
+| [[Colbur/fr|Lampou]] || 67
+|-
+| [[Roseli/fr|Selro]] || 71
+|-
+| [[Occa/fr|Chocco]] || 78
+|-
+| [[Passho/fr|Pocpoc]] || 79
+|-
+| [[Coba/fr|Cobaba]] || 83
+|-
+| [[Chilan/fr|Zalis]] || 111
+|-
+| [[Tanga/fr|Panga]] || 113
+|-
+| [[Wacan/fr|Parma]] || 119
+|-
+| [[Kebia/fr|Kébia]] || 125 (optionnel)
+|-
+| [[Kasib/fr|Sédra]] || 126 (optionnel)
+|}
+
+===== Que faire si aucune Pitaye n'est apparue alors ques les autres baies commencent à flétrir =====
+
+La première baie à flétrir sera la [[Wacan/fr|Parma]] — elle flétrit environ 1 heure et 25 mins après avoir atteint sa maturité. Cela ''devrait'' être suffisant pour qu'une Pitaye puisse apparaître. Si la [[Wacan/fr|Parma]] flétrit avant mutation, vous devrez replanter la [[Chilan/fr|Zalis]], la [[Tanga/fr|Panga]] et la [[Wacan/fr|Parma]]. Si vous commencez 38 minutes avant le flétrissement de la [[Wacan/fr|Parma]] (1 heure 15 minutes avec Fertibérance), vous ''devriez'' avoir un autre cycle complet de [[Wacan/fr|Parma]] avant que la [[Coba/fr|Cobaba]] ne flétrisse et que vous n'ayez à tout reprendre depuis le début. La possibilité de faire ainsi augmente les chances globales de mutation à 99%, ou 84,4% sans [[Squirtbottle/fr|Carapuce à O]].
+
+==== Tableau de minutage ====
+{| class="collapsible wikitable"| style="text-align: center;"
+|+ ''Tous les temps indiqués sont basés sur le temps restant avant que la première baie plantée n'arrive à maturité''
+! Baie !! Temps de plantation&lt;br&gt;sans modificateur!! Temps de plantation avec &lt;br&gt; Engrais ou Kwakarrosoir || Temps de plantation avec &lt;br&gt; Engrais et Kwakarrosoir
+|-
+| [[Haban/fr|Fraigo]] || - || - || -
+|-
+| [[Babiri/fr|Babiri]] || 20 heures avant maturité || 14 heures avant maturité || 10 heures avant maturité
+|-
+| [[Yache/fr|Nanone]] || 12 heures avant maturité || 8 heures avant maturité || 5 heures 20 mins avant maturité
+|-
+| [[Shuca/fr|Jouca]] || 10 heures 52 mins avant maturité || 7 heures 15 mins avant maturité || 4 heures 50 mins avant maturité
+|-
+| [[Charti/fr|Charti]] || 10 heures 22 mins avant maturité || 6 heures 55 mins avant maturité || 4 heures 37 mins avant maturité
+|-
+| [[Chople/fr|Pomroz]] || 9 heures 52 mins avant maturité || 6 heures 35 mins avant maturité || 4 heures 23 mins avant maturité
+|-
+| [[Payapa/fr|Yapap]] || 9 heures 22 mins avant maturité || 6 heures 15 mins avant maturité || 4 heures 10 mins avant maturité
+|-
+| [[Rindo/fr|Ratam]] || 7 heures 52 mins avant maturité || 5 heures 15 mins avant maturité || 3 heures 27 mins avant maturité
+|-
+| [[Colbur/fr|Lampou]] || 7 heures 22 mins avant maturité || 4 heures 55 mins avant maturité || 3 heures 17 mins avant maturité
+|-
+| [[Roseli/fr|Selro]] || 6 heures 52 mins avant maturité || 4 heures 35 mins avant maturité || 3 heures 3 mins avant maturité
+|-
+| [[Occa/fr|Chocco]] || 5 heures 58 mins avant maturité || 3 heures 59 mins avant maturité || 2 heures 39 mins avant maturité
+|-
+| [[Passho/fr|Pocpoc]] || 5 heures 52 mins avant maturité || 3 heures 55 mins avant maturité || 2 heures 37 mins avant maturité
+|-
+| [[Coba/fr|Cobaba]] || 5 heures 22 mins avant maturité || 3 heures 35 mins avant maturité || 2 heures 23 mins avant maturité
+|-
+| [[Chilan/fr|Zalis]] || 1 heure 52 mins avant maturité || 1 heure 15 mins avant maturité || 50 mins avant maturité
+|-
+| [[Tanga/fr|Panga]] || 1 heure 32 mins avant maturité || 1 heure 1 min avant maturité || 41 mins avant maturité
+|-
+| [[Wacan/fr|Parma]] || 53 mins avant maturité || 35 mins 30 secs avant maturité || 23 mins 30 secs avant maturité
+|-
+| [[Kebia/fr|Kébia]] || 10 mins avant maturité || 6 mins 40 secs avant maturité || 4 mins 27 secs
+|-
+| [[Kasib/fr|Sédra]] || 5 mins avant maturité || 3 mins 20 secs avant maturité || 2 mins 13 secs
+|-
+|}
+
+Si la [[Wacan/fr|Parma]] flétrit, récoltez et replantez la [[Chilan/fr|Zalis]], la [[Tanga/fr|Panga]] et la [[Wacan/fr|Parma]] en suivant ce tableau pour relancer la formation. Notez que vous devrez vous assurer qu'il reste au moins 2 heures et 46 minutes (3 heures 26 minutes sans Fertibérance) au chrono de la [[Coba/fr|Cobaba]] et de la [[Shuca/fr|Jouca]] pour avoir une autre cycle complet de [[Wacan/fr|Parma]]. Vous pourriez aussi replanter la [[Kasib/fr|Sédra]] pour éviter que la [[Shuca/fr|Jouca]] ne flétrisse avant la [[Coba/fr|Cobaba]], mais ce n'est pas très important à ce moment-là.
+
+{| class="wikitable" | style="text-align: center;"
+|+ ''Tous les temps indiqués sont basés sur le temps restant avant que la première baie plantée n'arrive à maturité''
+! Baie !! Temps de plantation&lt;br&gt;sans modificateur!! Temps de plantation avec &lt;br&gt; Engrais ou Kwakarrosoir || Temps de plantation avec &lt;br&gt; Engrais et Kwakarrosoir
+|-
+| [[Chilan/fr|Zalis]] || - || - || -
+|-
+| [[Tanga/fr|Panga]] || - || - || -
+|-
+| [[Wacan/fr|Parma]] || 1 heure 25 mins 42 secs avant maturité ||  57 mins 8 secs until ripe || 38 mins 5 secs avant maturité
+|-
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Uses==
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+===Mutations===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Petaya berries can be used to mutate the following berries.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Maranga.png|20px]] [[Maranga]] || [[File:Salac.png|20px]] [[Salac]]
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+==Using Petaya==
+Farm setups using Petaya can be found here:
+* [[Pokémon_Day_Care|Maximizing Egg step gain for Breeding Pokemon faster]] 
+* [[Shiny Chance|Maximizing Shiny Chance to turn all Pokemon Shiny]]
+* [[Farming Setups|Various useful Farming Setups]]
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+[[Category:Farm]][[Category:Berries]]</text>
+    <contributor>
+      <username>LeChatMG</username>
+      <id>97</id>
+    </contributor>
+    <comment>Created page with "{| class="wikitable" | style="text-align: center;" |+ ''Tous les temps indiqués sont basés sur le temps restant avant que la première baie plantée n'arrive à maturité'' ! Baie !! Temps de plantation&lt;br&gt;sans modificateur!! Temps de plantation avec &lt;br&gt; Engrais ou Kwakarrosoir || Temps de plantation avec &lt;br&gt; Engrais et Kwakarrosoir |- | [[Chilan/fr|Zalis]] || - || - || - |- | [[Tanga/fr|Panga]] || - || - || - |- | [[Wacan/fr|Parma]] || 1 heure 25 mins 42 secs avant..."</comment>
+    <model>wikitext</model>
+    <parentid>23784</parentid>
+    <sha1>6f6d12880cf2da799384d57d47c79f74228cb5cf</sha1>
+  </revision>
+  <revision>
+    <id>23784</id>
+    <timestamp>2022-08-16T16:00:02Z</timestamp>
+    <text bytes="16279" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #63 Pitaye
+|image   = [[File:Petaya.png]]
+|caption = Une Baie mystérieuse, censée contenir le pouvoir de la vie.&lt;br&gt;Ce pouvoir maintient les autres Baies en vie plus longtemps.
+|growtime  = 1j
+|harvest = 0,5 baies
+|replant = 0%
+|mutation = 0,001%
+|points = 15&amp;nbsp;000
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*30 épicée
+*0 sèche
+*0 sucrée
+*30 amère
+*10 acide
+}}
+
+'''Pitaye''' est un type de [[Berries/fr|Baie]] qui peut être plantée à la [[Farm/fr|Ferme]]. Elle s'obtient en ayant au moins une parcelle vide et au moins 1 plant de chacune des [[Berries#Baies de Gen 4|Baies de quatrième génération]] dans le champ.
+
+=== Stades de croissance ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+|-
+! !! Pousse !! Arbuste !! Fleuri !! Mûr
+|-
+! Temps écoulé depuis plantation
+| 3 hours || 6 hours || 12 hours || 1 day - 5 days
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:PetayaTreeTaller.png|50px]] || &lt;center&gt; [[File:PetayaTreeBloom.png|50px]] || &lt;center&gt; [[File:PetayaTreeBerry.png|50px]]
+|-
+! Aura (empêche le flétrissement)
+| colspan=3| &lt;center&gt; None || &lt;center&gt; Empêche les baies mûre des flétrir
+|}
+
+===Temps de croissance avec modificateurs===
+{| class="wikitable collapsible" | style="text-align: center;"
+! Modificateur !! Temps maturité-flétrissement !! Fertibérance nécessaire pour mûrir
+|-
+! Aucun
+| 1 jour -&lt;br&gt; 5 jours || &lt;center&gt; ---
+|-
+! Engrais ou Kwakarrosoir
+| 16 heures -&lt;br&gt; 80 heures || &lt;center&gt; 192 engrais
+|-
+! Engrais et Kwakarrosoir
+| 10 heures 40 mins -&lt;br&gt; 53 heures 20 mins || &lt;center&gt; 128 engrais
+|}
+
+== Organigramme ==
+[[File:Petaya_Flow_Chart.png|850px]]
+&lt;br&gt;
+
+== Stratégie de mutation ==
+=== Formations possibles ===
+
+Vous pouvez remplir votre ferme de la manière suivante pour obtenir des baies Pitaye. Notez que la [[Occa/fr|Chocco]], la [[Kebia/fr|Kébia]] et la [[Colbur/fr|Lampou]] peuvent remplacer d'autres plants, elles sont donc placées autour d'une [[Babiri/fr|Babiri]] pour éviter ça. La [[Kebia/fr|Kébia]] et la [[Payapa/fr|Yapap]] augmentent les chances de mutation et sont placées de sorte à affecter le plus de parcelles pouvant muter possibles. La [[Babiri/fr|Babiri]] réduit les chances de mutation et la [[Rindo/fr|Ratam]] s'étend sur les parcelles vides, elles ne sont donc pas placées à côté de parcelles pouvant muter. La [[Wacan/fr|Parma]], la [[Yache/fr|Nanone]] et la [[Haban/fr|Fraigo]] affectent toutes les temps de croissance et sont donc placées dans l'angle avec des baies dont les temps de croissance sont court afin de limiter leur impact et de rendre les timings plus simples. En utilisant du [[Farm_Items/fr|Fertistantané]], un [[Squirtbottle/fr|Carapuce à O]] au niveau max et en suivant la formation suivante, vous avez environ 90,2% de chances (60,5% sans le [[Squirtbottle/fr|Carapuce à O]]) d'obtenir une Pitaye avant que la première baie n'ait besoin d'être replantée. Les cases violettes indiquent où les mutations peuvent avoir lieu.
+
+{| class="wikitable" style="text-align: center;"
+|+ Ferme
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Kasib.png|30px]]&lt;br&gt;[[Kasib/fr|Sédra]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Payapa.png|30px]]&lt;br&gt;[[Payapa/fr|Yapap]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Yache.png|30px]]&lt;br&gt;[[Yache/fr|Nanone]]
+|- style="height: 50px;"
+| [[File:Shuca.png|30px]]&lt;br&gt;[[Shuca/fr|Jouca]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Wacan.png|30px]]&lt;br&gt;[[Wacan/fr|Parma]] 
+|- style="height: 30px;"
+| [[File:Chople.png|30px]]&lt;br&gt;[[Chople/fr|Pomroz]] || [[File:Coba.png|30px]]&lt;br&gt;[[Coba/fr|Cobaba]] || [[File:Kebia.png|30px]]&lt;br&gt;[[Kebia/fr|Kébia]] || style="background-color:#9C7D98;" | || [[File:Haban.png|30px]]&lt;br&gt;[[Haban/fr|Fraigo]] 
+|-
+| [[File:Colbur.png|30px]]&lt;br&gt;[[Colbur/fr|Lampou]] || [[File:Babiri.png|30px]]&lt;br&gt;[[Babiri/fr|Babiri]] || [[File:Charti.png|30px]]&lt;br&gt;[[Charti/fr|Charti]] || style="background-color:#9C7D98;" | || [[File:Tanga.png|30px]]&lt;br&gt;[[Tanga/fr|Panga]]
+|-
+| [[File:Occa.png|30px]]&lt;br&gt;[[Occa/fr|Chocco]] || [[File:Rindo.png|30px]]&lt;br&gt;[[Rindo/fr|Ratam]] || [[File:Passho.png|30px]]&lt;br&gt;[[Passho/fr|Pocpoc]] || [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli/fr|Selro]] || [[File:Chilan.png|30px]]&lt;br&gt;[[Chilan/fr|Zalis]]
+|}
+
+{| class="wikitable floatright" style="text-align: center;"
+|+ Minutage externe
+! Baie !! Temps !! Quantité d'engrais
+|-
+| [[Haban/fr|Fraigo]] || --- || 128
+|-
+| [[Babiri/fr|Babiri]] || --- || 52
+|-
+| [[Yache/fr|Nanone]] || 2 h 40 mins || --- 
+|-
+| [[Shuca/fr|Jouca]] || 3 h 14 mins 10 secs || ---
+|-
+| [[Charti/fr|Charti]] || 3 h 34 mins 10 secs|| ---
+|-
+| [[Chople/fr|Pomroz]] || 3 h 54 mins 10 secs || ---
+|-
+| [[Payapa/fr|Yapap]] || 4 h 14 mins 10 secs || ---
+|-
+| [[Rindo/fr|Ratam]] || 5 h 14 mins 10 secs || ---
+|-
+| [[Colbur/fr|Lampou]] || 5 h 34 mins 10 secs || ---
+|-
+| [[Roseli/fr|Selro]] || 5 h 54 mins 10 secs || ---
+|-
+| [[Occa/fr|Chocco]] || 6 h 30 mins 10 secs || ---
+|-
+| [[Passho/fr|Pocpoc]] || 6 h 34 mins 10 secs || ---
+|-
+| [[Coba/fr|Cobaba]] || 6 h 54 mins 10 secs || ---
+|-
+| [[Chilan/fr|Zalis]] || 9 h 14 mins 10 secs || ---
+|-
+| [[Tanga/fr|Panga]] || 9 h 27 mins 30 secs || ---
+|-
+| [[Wacan/fr|Parma]] || 9 h 52 mins 30 secs || ---
+|-
+| [[Kebia/fr|Kébia]] || 10 h 27 mins 30 secs || ---
+|-
+| [[Kasib/fr|Sédra]] || 10 h 30 mins 50 secs || ---
+|}
+
+==== Notes importantes ====
+
+Avant de démarrer ce processus, vous devez être prêt à passer près de 11 heures voire plus à côté de votre machine avec PokéClicker, ou au moins de pouvoir mettre vos chronomètres en pause pour faire des pauses. 
+
+* En suivant les temps listés dans le tableau à droite, toutes les baies mûriront à dix minutes d'intervalle les unes des autres. Chaque temps indique quand la baie correspondante doit être plantée.
+
+* Les minutages supposent que vous avez un [[Sprayduck/fr|Kwakarrosoir]] au niveau max ainsi que les quantités de Fertibérance indiquées sur les parcelles en question. Toutes les doses de Fertibérance devraient être appliquées au moment du plantage. Au total, vous aurez besoin de 180 doses de Fertibérance pour terminer l'ensemble du processus ; mais il est fortement recommandé d'avoir au moins 250 doses de Fertibérance en réserve au cas où les choses tourneraient mal. Notez que bien que la [[Babiri/fr|Babiri]] mûrira à peu près en même temps que la [[Haban/fr|Fraigo]] avec seulement 35 doses de Fertibérance, cela reste une fenêtre très serrée. Davantage de doses sont ajoutées pour s'assurer qu'elle mûrisse en premier afin d'éviter le risque que d'autres baies soient remplacées par des [[Occa/fr|Chocco]], des [[Colbur/fr|Lampou]], ou des [[Kebia/fr|Kébia]].
+
+* Le site gratuit [https://www.timeanddate.com/timer/ timeanddate.com] est une excellente ressource pour régler plusieurs chronomètres simultanément. Le minutage commence au moment du plantage de la première baie. Déclenchez tous vos chronomètres au moment exact où vous plantez la [[Haban/fr|Fraigo]] et la [[Babiri/fr|Babiri]].
+
+* Notez qu'il y a peu de périodes creuses de plus d'une heure ; les chronomètres de la Ferme ne tournent pas tant que le jeu n'est pas ouvert, vous pouvez donc faire des pauses au cours de ce processus.
+
+* Il est est très important que la [[Babiri/fr|Babiri]] finisse de mûrir avant la [[Occa/fr|Chocco]], la [[Colbur/fr|Lampou]] et la [[Kebia/fr|Kébia]]. De fait, elle est plantée de manière à mûrir très tôt puisqu'elle a aussi une durée de vie très longue. En suivant les tableaux ci-dessous, basez vos temps de plantage sur le temps restant à [[Haban/fr|Fraigo]] pour mûrir. N'utilisez pas d'autre baie pour vos minutages.
+
+===== Information critique pour quand les baies sont toutes mûres =====
+
+Lorsque les 18 baies sont mûres, les conditions requises pour l'apparition de Pitaye sont toutes remplies. À ce moment, remplacez immédiatement votre [[Sprayduck/fr|Kwakarrosoir]] par le [[Squirtbottle/fr|Carapuce à O]] si possible, où par un autre [[Oak Items/fr|Objet de Chen]] sinon. Il est fortement recommendé de faire une sauvgarde à ce moment afind de ne pas avoir à recommencer tout le processus du début au cas où aucune mutation ne se produit. Les Pitaye peuvent apparaître sur n'importe lesquelles des sept parcelles vide de votre ferme. Les sept parcelles vides devraient être continuellement recouverte de Fertistantané. Notez que bien que la [[Kebia/fr|Kébia]] a la possibilité de remplacer d'autres baies, elle ne peut le faire que sur des plants au stade arbuste ou plus, vous pourrez donc laisser les mutations continuer si vous souhaitez muter plusieurs Petaya avant que la [[Wacan/fr|Parma]] ne flétrisse. Plus précisément, vous avez 6 heures à partir du moment de la mutation pour enlever la [[Kebia/fr|Kébia]] avant qu'elle ne menace votre Petaya fraîchement mutée, sauf si elle a muté sur une des deux parcelles du bord.
+
+===== Petaya avec Fertigel (mode facile) =====
+Faire muter une Pitaye avec du Fertigel rend la chose incroyablement facile. Tout ce que vous avez à faire, c'est de planter toutes les baies en même temps, tel qu'indiqué sur la formation de mutation, et de simplemnt appliquer la bonne quantité de Fertigel sur les graines de baie, de telle manière que lorsque l'effet du Fertigel s'estompera, la baie poussera comme si vous veniez tout juste de la planter comme indiqué sur le tableau de minutage. Le tableau ci-dessous indique la quantité de Fertigel nécessaire pour que les minutages soient corrects. La Sédra et la Kébia ont un temps de croissance si court (5 et 10 minutes sans Kwakarrosoir) qu'il est probablement plus simple de ne les planter que lorsque les autres baies sont quasi mûres, d'où la mention optionnel.
+{| class="collapsible wikitable collapsed"| style="text-align: center;"
+! Baie !! Fertigel nécessaire
+|+ ''Note&amp;nbsp;: Cette table suppose que vous avez appliqué 128 doses de Fertibérance sur la Fraigo et 52 doses sur la Babiri, le tout sans équiper le Kwakarrosoir''
+|-
+| [[Haban/fr|Fraigo]] || 0
+|-
+| [[Babiri/fr|Babiri]] || 0
+|-
+| [[Yache/fr|Nanone]] || 32
+|-
+| [[Shuca/fr|Jouca]] || 39
+|-
+| [[Charti/fr|Charti]] || 43
+|-
+| [[Chople/fr|Pomroz]] || 47
+|-
+| [[Payapa/fr|Yapap]] || 51
+|-
+| [[Rindo/fr|Ratam]] || 63
+|-
+| [[Colbur/fr|Lampou]] || 67
+|-
+| [[Roseli/fr|Selro]] || 71
+|-
+| [[Occa/fr|Chocco]] || 78
+|-
+| [[Passho/fr|Pocpoc]] || 79
+|-
+| [[Coba/fr|Cobaba]] || 83
+|-
+| [[Chilan/fr|Zalis]] || 111
+|-
+| [[Tanga/fr|Panga]] || 113
+|-
+| [[Wacan/fr|Parma]] || 119
+|-
+| [[Kebia/fr|Kébia]] || 125 (optionnel)
+|-
+| [[Kasib/fr|Sédra]] || 126 (optionnel)
+|}
+
+===== Que faire si aucune Pitaye n'est apparue alors ques les autres baies commencent à flétrir =====
+
+La première baie à flétrir sera la [[Wacan/fr|Parma]] — elle flétrit environ 1 heure et 25 mins après avoir atteint sa maturité. Cela ''devrait'' être suffisant pour qu'une Pitaye puisse apparaître. Si la [[Wacan/fr|Parma]] flétrit avant mutation, vous devrez replanter la [[Chilan/fr|Zalis]], la [[Tanga/fr|Panga]] et la [[Wacan/fr|Parma]]. Si vous commencez 38 minutes avant le flétrissement de la [[Wacan/fr|Parma]] (1 heure 15 minutes avec Fertibérance), vous ''devriez'' avoir un autre cycle complet de [[Wacan/fr|Parma]] avant que la [[Coba/fr|Cobaba]] ne flétrisse et que vous n'ayez à tout reprendre depuis le début. La possibilité de faire ainsi augmente les chances globales de mutation à 99%, ou 84,4% sans [[Squirtbottle/fr|Carapuce à O]].
+
+==== Tableau de minutage ====
+{| class="collapsible wikitable"| style="text-align: center;"
+|+ ''Tous les temps indiqués sont basés sur le temps restant avant que la première baie plantée n'arrive à maturité''
+! Baie !! Temps de plantation&lt;br&gt;sans modificateur!! Temps de plantation avec &lt;br&gt; Engrais ou Kwakarrosoir || Temps de plantation avec &lt;br&gt; Engrais et Kwakarrosoir
+|-
+| [[Haban/fr|Fraigo]] || - || - || -
+|-
+| [[Babiri/fr|Babiri]] || 20 heures avant maturité || 14 heures avant maturité || 10 heures avant maturité
+|-
+| [[Yache/fr|Nanone]] || 12 heures avant maturité || 8 heures avant maturité || 5 heures 20 mins avant maturité
+|-
+| [[Shuca/fr|Jouca]] || 10 heures 52 mins avant maturité || 7 heures 15 mins avant maturité || 4 heures 50 mins avant maturité
+|-
+| [[Charti/fr|Charti]] || 10 heures 22 mins avant maturité || 6 heures 55 mins avant maturité || 4 heures 37 mins avant maturité
+|-
+| [[Chople/fr|Pomroz]] || 9 heures 52 mins avant maturité || 6 heures 35 mins avant maturité || 4 heures 23 mins avant maturité
+|-
+| [[Payapa/fr|Yapap]] || 9 heures 22 mins avant maturité || 6 heures 15 mins avant maturité || 4 heures 10 mins avant maturité
+|-
+| [[Rindo/fr|Ratam]] || 7 heures 52 mins avant maturité || 5 heures 15 mins avant maturité || 3 heures 27 mins avant maturité
+|-
+| [[Colbur/fr|Lampou]] || 7 heures 22 mins avant maturité || 4 heures 55 mins avant maturité || 3 heures 17 mins avant maturité
+|-
+| [[Roseli/fr|Selro]] || 6 heures 52 mins avant maturité || 4 heures 35 mins avant maturité || 3 heures 3 mins avant maturité
+|-
+| [[Occa/fr|Chocco]] || 5 heures 58 mins avant maturité || 3 heures 59 mins avant maturité || 2 heures 39 mins avant maturité
+|-
+| [[Passho/fr|Pocpoc]] || 5 heures 52 mins avant maturité || 3 heures 55 mins avant maturité || 2 heures 37 mins avant maturité
+|-
+| [[Coba/fr|Cobaba]] || 5 heures 22 mins avant maturité || 3 heures 35 mins avant maturité || 2 heures 23 mins avant maturité
+|-
+| [[Chilan/fr|Zalis]] || 1 heure 52 mins avant maturité || 1 heure 15 mins avant maturité || 50 mins avant maturité
+|-
+| [[Tanga/fr|Panga]] || 1 heure 32 mins avant maturité || 1 heure 1 min avant maturité || 41 mins avant maturité
+|-
+| [[Wacan/fr|Parma]] || 53 mins avant maturité || 35 mins 30 secs avant maturité || 23 mins 30 secs avant maturité
+|-
+| [[Kebia/fr|Kébia]] || 10 mins avant maturité || 6 mins 40 secs avant maturité || 4 mins 27 secs
+|-
+| [[Kasib/fr|Sédra]] || 5 mins avant maturité || 3 mins 20 secs avant maturité || 2 mins 13 secs
+|-
+|}
+
+Si la [[Wacan/fr|Parma]] flétrit, récoltez et replantez la [[Chilan/fr|Zalis]], la [[Tanga/fr|Panga]] et la [[Wacan/fr|Parma]] en suivant ce tableau pour relancer la formation. Notez que vous devrez vous assurer qu'il reste au moins 2 heures et 46 minutes (3 heures 26 minutes sans Fertibérance) au chrono de la [[Coba/fr|Cobaba]] et de la [[Shuca/fr|Jouca]] pour avoir une autre cycle complet de [[Wacan/fr|Parma]]. Vous pourriez aussi replanter la [[Kasib/fr|Sédra]] pour éviter que la [[Shuca/fr|Jouca]] ne flétrisse avant la [[Coba/fr|Cobaba]], mais ce n'est pas très important à ce moment-là.
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="collapsible wikitable"| style="text-align: center;"
+|+ ''All planting times use the time-to-ripe remaining of the first planted berry for subsequent planting times''
+! Berry !! Planting Time with &lt;br&gt; No Modifier !!  Planting Time with &lt;br&gt; Mulch || Planting Time with &lt;br&gt;  Mulch &amp; Sprayduck
+|-
+| [[Chilan]] || - || - || -
+|-
+| [[Tanga]] || - || - || -
+|-
+| [[Wacan]] || 1 hour 25 mins 42 secs until ripe ||  57 mins 8 secs until ripe || 38 mins 5 secs until ripe
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Uses==
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+===Mutations===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Petaya berries can be used to mutate the following berries.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Maranga.png|20px]] [[Maranga]] || [[File:Salac.png|20px]] [[Salac]]
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+==Using Petaya==
+Farm setups using Petaya can be found here:
+* [[Pokémon_Day_Care|Maximizing Egg step gain for Breeding Pokemon faster]] 
+* [[Shiny Chance|Maximizing Shiny Chance to turn all Pokemon Shiny]]
+* [[Farming Setups|Various useful Farming Setups]]
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+[[Category:Farm]][[Category:Berries]]</text>
+    <contributor>
+      <username>LeChatMG</username>
+      <id>97</id>
+    </contributor>
+    <comment>Created page with "Si la [[Wacan/fr|Parma]] flétrit, récoltez et replantez la [[Chilan/fr|Zalis]], la [[Tanga/fr|Panga]] et la [[Wacan/fr|Parma]] en suivant ce tableau pour relancer la formation. Notez que vous devrez vous assurer qu'il reste au moins 2 heures et 46 minutes (3 heures 26 minutes sans Fertibérance) au chrono de la [[Coba/fr|Cobaba]] et de la [[Shuca/fr|Jouca]] pour avoir une autre cycle complet de [[Wacan/fr|Parma]]. Vous pourriez aussi replanter la [[Kasib/fr|Sédra]] po..."</comment>
+    <model>wikitext</model>
+    <parentid>23783</parentid>
+    <sha1>4f67362b1a82b760475fa3dbe261c24739200d68</sha1>
+  </revision>
+  <revision>
+    <id>23783</id>
+    <timestamp>2022-08-16T15:52:38Z</timestamp>
+    <text bytes="16167" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #63 Pitaye
+|image   = [[File:Petaya.png]]
+|caption = Une Baie mystérieuse, censée contenir le pouvoir de la vie.&lt;br&gt;Ce pouvoir maintient les autres Baies en vie plus longtemps.
+|growtime  = 1j
+|harvest = 0,5 baies
+|replant = 0%
+|mutation = 0,001%
+|points = 15&amp;nbsp;000
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*30 épicée
+*0 sèche
+*0 sucrée
+*30 amère
+*10 acide
+}}
+
+'''Pitaye''' est un type de [[Berries/fr|Baie]] qui peut être plantée à la [[Farm/fr|Ferme]]. Elle s'obtient en ayant au moins une parcelle vide et au moins 1 plant de chacune des [[Berries#Baies de Gen 4|Baies de quatrième génération]] dans le champ.
+
+=== Stades de croissance ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+|-
+! !! Pousse !! Arbuste !! Fleuri !! Mûr
+|-
+! Temps écoulé depuis plantation
+| 3 hours || 6 hours || 12 hours || 1 day - 5 days
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:PetayaTreeTaller.png|50px]] || &lt;center&gt; [[File:PetayaTreeBloom.png|50px]] || &lt;center&gt; [[File:PetayaTreeBerry.png|50px]]
+|-
+! Aura (empêche le flétrissement)
+| colspan=3| &lt;center&gt; None || &lt;center&gt; Empêche les baies mûre des flétrir
+|}
+
+===Temps de croissance avec modificateurs===
+{| class="wikitable collapsible" | style="text-align: center;"
+! Modificateur !! Temps maturité-flétrissement !! Fertibérance nécessaire pour mûrir
+|-
+! Aucun
+| 1 jour -&lt;br&gt; 5 jours || &lt;center&gt; ---
+|-
+! Engrais ou Kwakarrosoir
+| 16 heures -&lt;br&gt; 80 heures || &lt;center&gt; 192 engrais
+|-
+! Engrais et Kwakarrosoir
+| 10 heures 40 mins -&lt;br&gt; 53 heures 20 mins || &lt;center&gt; 128 engrais
+|}
+
+== Organigramme ==
+[[File:Petaya_Flow_Chart.png|850px]]
+&lt;br&gt;
+
+== Stratégie de mutation ==
+=== Formations possibles ===
+
+Vous pouvez remplir votre ferme de la manière suivante pour obtenir des baies Pitaye. Notez que la [[Occa/fr|Chocco]], la [[Kebia/fr|Kébia]] et la [[Colbur/fr|Lampou]] peuvent remplacer d'autres plants, elles sont donc placées autour d'une [[Babiri/fr|Babiri]] pour éviter ça. La [[Kebia/fr|Kébia]] et la [[Payapa/fr|Yapap]] augmentent les chances de mutation et sont placées de sorte à affecter le plus de parcelles pouvant muter possibles. La [[Babiri/fr|Babiri]] réduit les chances de mutation et la [[Rindo/fr|Ratam]] s'étend sur les parcelles vides, elles ne sont donc pas placées à côté de parcelles pouvant muter. La [[Wacan/fr|Parma]], la [[Yache/fr|Nanone]] et la [[Haban/fr|Fraigo]] affectent toutes les temps de croissance et sont donc placées dans l'angle avec des baies dont les temps de croissance sont court afin de limiter leur impact et de rendre les timings plus simples. En utilisant du [[Farm_Items/fr|Fertistantané]], un [[Squirtbottle/fr|Carapuce à O]] au niveau max et en suivant la formation suivante, vous avez environ 90,2% de chances (60,5% sans le [[Squirtbottle/fr|Carapuce à O]]) d'obtenir une Pitaye avant que la première baie n'ait besoin d'être replantée. Les cases violettes indiquent où les mutations peuvent avoir lieu.
+
+{| class="wikitable" style="text-align: center;"
+|+ Ferme
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Kasib.png|30px]]&lt;br&gt;[[Kasib/fr|Sédra]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Payapa.png|30px]]&lt;br&gt;[[Payapa/fr|Yapap]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Yache.png|30px]]&lt;br&gt;[[Yache/fr|Nanone]]
+|- style="height: 50px;"
+| [[File:Shuca.png|30px]]&lt;br&gt;[[Shuca/fr|Jouca]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Wacan.png|30px]]&lt;br&gt;[[Wacan/fr|Parma]] 
+|- style="height: 30px;"
+| [[File:Chople.png|30px]]&lt;br&gt;[[Chople/fr|Pomroz]] || [[File:Coba.png|30px]]&lt;br&gt;[[Coba/fr|Cobaba]] || [[File:Kebia.png|30px]]&lt;br&gt;[[Kebia/fr|Kébia]] || style="background-color:#9C7D98;" | || [[File:Haban.png|30px]]&lt;br&gt;[[Haban/fr|Fraigo]] 
+|-
+| [[File:Colbur.png|30px]]&lt;br&gt;[[Colbur/fr|Lampou]] || [[File:Babiri.png|30px]]&lt;br&gt;[[Babiri/fr|Babiri]] || [[File:Charti.png|30px]]&lt;br&gt;[[Charti/fr|Charti]] || style="background-color:#9C7D98;" | || [[File:Tanga.png|30px]]&lt;br&gt;[[Tanga/fr|Panga]]
+|-
+| [[File:Occa.png|30px]]&lt;br&gt;[[Occa/fr|Chocco]] || [[File:Rindo.png|30px]]&lt;br&gt;[[Rindo/fr|Ratam]] || [[File:Passho.png|30px]]&lt;br&gt;[[Passho/fr|Pocpoc]] || [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli/fr|Selro]] || [[File:Chilan.png|30px]]&lt;br&gt;[[Chilan/fr|Zalis]]
+|}
+
+{| class="wikitable floatright" style="text-align: center;"
+|+ Minutage externe
+! Baie !! Temps !! Quantité d'engrais
+|-
+| [[Haban/fr|Fraigo]] || --- || 128
+|-
+| [[Babiri/fr|Babiri]] || --- || 52
+|-
+| [[Yache/fr|Nanone]] || 2 h 40 mins || --- 
+|-
+| [[Shuca/fr|Jouca]] || 3 h 14 mins 10 secs || ---
+|-
+| [[Charti/fr|Charti]] || 3 h 34 mins 10 secs|| ---
+|-
+| [[Chople/fr|Pomroz]] || 3 h 54 mins 10 secs || ---
+|-
+| [[Payapa/fr|Yapap]] || 4 h 14 mins 10 secs || ---
+|-
+| [[Rindo/fr|Ratam]] || 5 h 14 mins 10 secs || ---
+|-
+| [[Colbur/fr|Lampou]] || 5 h 34 mins 10 secs || ---
+|-
+| [[Roseli/fr|Selro]] || 5 h 54 mins 10 secs || ---
+|-
+| [[Occa/fr|Chocco]] || 6 h 30 mins 10 secs || ---
+|-
+| [[Passho/fr|Pocpoc]] || 6 h 34 mins 10 secs || ---
+|-
+| [[Coba/fr|Cobaba]] || 6 h 54 mins 10 secs || ---
+|-
+| [[Chilan/fr|Zalis]] || 9 h 14 mins 10 secs || ---
+|-
+| [[Tanga/fr|Panga]] || 9 h 27 mins 30 secs || ---
+|-
+| [[Wacan/fr|Parma]] || 9 h 52 mins 30 secs || ---
+|-
+| [[Kebia/fr|Kébia]] || 10 h 27 mins 30 secs || ---
+|-
+| [[Kasib/fr|Sédra]] || 10 h 30 mins 50 secs || ---
+|}
+
+==== Notes importantes ====
+
+Avant de démarrer ce processus, vous devez être prêt à passer près de 11 heures voire plus à côté de votre machine avec PokéClicker, ou au moins de pouvoir mettre vos chronomètres en pause pour faire des pauses. 
+
+* En suivant les temps listés dans le tableau à droite, toutes les baies mûriront à dix minutes d'intervalle les unes des autres. Chaque temps indique quand la baie correspondante doit être plantée.
+
+* Les minutages supposent que vous avez un [[Sprayduck/fr|Kwakarrosoir]] au niveau max ainsi que les quantités de Fertibérance indiquées sur les parcelles en question. Toutes les doses de Fertibérance devraient être appliquées au moment du plantage. Au total, vous aurez besoin de 180 doses de Fertibérance pour terminer l'ensemble du processus ; mais il est fortement recommandé d'avoir au moins 250 doses de Fertibérance en réserve au cas où les choses tourneraient mal. Notez que bien que la [[Babiri/fr|Babiri]] mûrira à peu près en même temps que la [[Haban/fr|Fraigo]] avec seulement 35 doses de Fertibérance, cela reste une fenêtre très serrée. Davantage de doses sont ajoutées pour s'assurer qu'elle mûrisse en premier afin d'éviter le risque que d'autres baies soient remplacées par des [[Occa/fr|Chocco]], des [[Colbur/fr|Lampou]], ou des [[Kebia/fr|Kébia]].
+
+* Le site gratuit [https://www.timeanddate.com/timer/ timeanddate.com] est une excellente ressource pour régler plusieurs chronomètres simultanément. Le minutage commence au moment du plantage de la première baie. Déclenchez tous vos chronomètres au moment exact où vous plantez la [[Haban/fr|Fraigo]] et la [[Babiri/fr|Babiri]].
+
+* Notez qu'il y a peu de périodes creuses de plus d'une heure ; les chronomètres de la Ferme ne tournent pas tant que le jeu n'est pas ouvert, vous pouvez donc faire des pauses au cours de ce processus.
+
+* Il est est très important que la [[Babiri/fr|Babiri]] finisse de mûrir avant la [[Occa/fr|Chocco]], la [[Colbur/fr|Lampou]] et la [[Kebia/fr|Kébia]]. De fait, elle est plantée de manière à mûrir très tôt puisqu'elle a aussi une durée de vie très longue. En suivant les tableaux ci-dessous, basez vos temps de plantage sur le temps restant à [[Haban/fr|Fraigo]] pour mûrir. N'utilisez pas d'autre baie pour vos minutages.
+
+===== Information critique pour quand les baies sont toutes mûres =====
+
+Lorsque les 18 baies sont mûres, les conditions requises pour l'apparition de Pitaye sont toutes remplies. À ce moment, remplacez immédiatement votre [[Sprayduck/fr|Kwakarrosoir]] par le [[Squirtbottle/fr|Carapuce à O]] si possible, où par un autre [[Oak Items/fr|Objet de Chen]] sinon. Il est fortement recommendé de faire une sauvgarde à ce moment afind de ne pas avoir à recommencer tout le processus du début au cas où aucune mutation ne se produit. Les Pitaye peuvent apparaître sur n'importe lesquelles des sept parcelles vide de votre ferme. Les sept parcelles vides devraient être continuellement recouverte de Fertistantané. Notez que bien que la [[Kebia/fr|Kébia]] a la possibilité de remplacer d'autres baies, elle ne peut le faire que sur des plants au stade arbuste ou plus, vous pourrez donc laisser les mutations continuer si vous souhaitez muter plusieurs Petaya avant que la [[Wacan/fr|Parma]] ne flétrisse. Plus précisément, vous avez 6 heures à partir du moment de la mutation pour enlever la [[Kebia/fr|Kébia]] avant qu'elle ne menace votre Petaya fraîchement mutée, sauf si elle a muté sur une des deux parcelles du bord.
+
+===== Petaya avec Fertigel (mode facile) =====
+Faire muter une Pitaye avec du Fertigel rend la chose incroyablement facile. Tout ce que vous avez à faire, c'est de planter toutes les baies en même temps, tel qu'indiqué sur la formation de mutation, et de simplemnt appliquer la bonne quantité de Fertigel sur les graines de baie, de telle manière que lorsque l'effet du Fertigel s'estompera, la baie poussera comme si vous veniez tout juste de la planter comme indiqué sur le tableau de minutage. Le tableau ci-dessous indique la quantité de Fertigel nécessaire pour que les minutages soient corrects. La Sédra et la Kébia ont un temps de croissance si court (5 et 10 minutes sans Kwakarrosoir) qu'il est probablement plus simple de ne les planter que lorsque les autres baies sont quasi mûres, d'où la mention optionnel.
+{| class="collapsible wikitable collapsed"| style="text-align: center;"
+! Baie !! Fertigel nécessaire
+|+ ''Note&amp;nbsp;: Cette table suppose que vous avez appliqué 128 doses de Fertibérance sur la Fraigo et 52 doses sur la Babiri, le tout sans équiper le Kwakarrosoir''
+|-
+| [[Haban/fr|Fraigo]] || 0
+|-
+| [[Babiri/fr|Babiri]] || 0
+|-
+| [[Yache/fr|Nanone]] || 32
+|-
+| [[Shuca/fr|Jouca]] || 39
+|-
+| [[Charti/fr|Charti]] || 43
+|-
+| [[Chople/fr|Pomroz]] || 47
+|-
+| [[Payapa/fr|Yapap]] || 51
+|-
+| [[Rindo/fr|Ratam]] || 63
+|-
+| [[Colbur/fr|Lampou]] || 67
+|-
+| [[Roseli/fr|Selro]] || 71
+|-
+| [[Occa/fr|Chocco]] || 78
+|-
+| [[Passho/fr|Pocpoc]] || 79
+|-
+| [[Coba/fr|Cobaba]] || 83
+|-
+| [[Chilan/fr|Zalis]] || 111
+|-
+| [[Tanga/fr|Panga]] || 113
+|-
+| [[Wacan/fr|Parma]] || 119
+|-
+| [[Kebia/fr|Kébia]] || 125 (optionnel)
+|-
+| [[Kasib/fr|Sédra]] || 126 (optionnel)
+|}
+
+===== Que faire si aucune Pitaye n'est apparue alors ques les autres baies commencent à flétrir =====
+
+La première baie à flétrir sera la [[Wacan/fr|Parma]] — elle flétrit environ 1 heure et 25 mins après avoir atteint sa maturité. Cela ''devrait'' être suffisant pour qu'une Pitaye puisse apparaître. Si la [[Wacan/fr|Parma]] flétrit avant mutation, vous devrez replanter la [[Chilan/fr|Zalis]], la [[Tanga/fr|Panga]] et la [[Wacan/fr|Parma]]. Si vous commencez 38 minutes avant le flétrissement de la [[Wacan/fr|Parma]] (1 heure 15 minutes avec Fertibérance), vous ''devriez'' avoir un autre cycle complet de [[Wacan/fr|Parma]] avant que la [[Coba/fr|Cobaba]] ne flétrisse et que vous n'ayez à tout reprendre depuis le début. La possibilité de faire ainsi augmente les chances globales de mutation à 99%, ou 84,4% sans [[Squirtbottle/fr|Carapuce à O]].
+
+==== Tableau de minutage ====
+{| class="collapsible wikitable"| style="text-align: center;"
+|+ ''Tous les temps indiqués sont basés sur le temps restant avant que la première baie plantée n'arrive à maturité''
+! Baie !! Temps de plantation&lt;br&gt;sans modificateur!! Temps de plantation avec &lt;br&gt; Engrais ou Kwakarrosoir || Temps de plantation avec &lt;br&gt; Engrais et Kwakarrosoir
+|-
+| [[Haban/fr|Fraigo]] || - || - || -
+|-
+| [[Babiri/fr|Babiri]] || 20 heures avant maturité || 14 heures avant maturité || 10 heures avant maturité
+|-
+| [[Yache/fr|Nanone]] || 12 heures avant maturité || 8 heures avant maturité || 5 heures 20 mins avant maturité
+|-
+| [[Shuca/fr|Jouca]] || 10 heures 52 mins avant maturité || 7 heures 15 mins avant maturité || 4 heures 50 mins avant maturité
+|-
+| [[Charti/fr|Charti]] || 10 heures 22 mins avant maturité || 6 heures 55 mins avant maturité || 4 heures 37 mins avant maturité
+|-
+| [[Chople/fr|Pomroz]] || 9 heures 52 mins avant maturité || 6 heures 35 mins avant maturité || 4 heures 23 mins avant maturité
+|-
+| [[Payapa/fr|Yapap]] || 9 heures 22 mins avant maturité || 6 heures 15 mins avant maturité || 4 heures 10 mins avant maturité
+|-
+| [[Rindo/fr|Ratam]] || 7 heures 52 mins avant maturité || 5 heures 15 mins avant maturité || 3 heures 27 mins avant maturité
+|-
+| [[Colbur/fr|Lampou]] || 7 heures 22 mins avant maturité || 4 heures 55 mins avant maturité || 3 heures 17 mins avant maturité
+|-
+| [[Roseli/fr|Selro]] || 6 heures 52 mins avant maturité || 4 heures 35 mins avant maturité || 3 heures 3 mins avant maturité
+|-
+| [[Occa/fr|Chocco]] || 5 heures 58 mins avant maturité || 3 heures 59 mins avant maturité || 2 heures 39 mins avant maturité
+|-
+| [[Passho/fr|Pocpoc]] || 5 heures 52 mins avant maturité || 3 heures 55 mins avant maturité || 2 heures 37 mins avant maturité
+|-
+| [[Coba/fr|Cobaba]] || 5 heures 22 mins avant maturité || 3 heures 35 mins avant maturité || 2 heures 23 mins avant maturité
+|-
+| [[Chilan/fr|Zalis]] || 1 heure 52 mins avant maturité || 1 heure 15 mins avant maturité || 50 mins avant maturité
+|-
+| [[Tanga/fr|Panga]] || 1 heure 32 mins avant maturité || 1 heure 1 min avant maturité || 41 mins avant maturité
+|-
+| [[Wacan/fr|Parma]] || 53 mins avant maturité || 35 mins 30 secs avant maturité || 23 mins 30 secs avant maturité
+|-
+| [[Kebia/fr|Kébia]] || 10 mins avant maturité || 6 mins 40 secs avant maturité || 4 mins 27 secs
+|-
+| [[Kasib/fr|Sédra]] || 5 mins avant maturité || 3 mins 20 secs avant maturité || 2 mins 13 secs
+|-
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+If [[Wacan]] dies, harvest and replant [[Chilan]], [[Tanga]], and [[Wacan]] following this table to get the setup again. Note that you will want to make sure [[Coba]] and [[Shuca]] have at least about 2 hours 46 mins left on their timers (3 hours 26 mins without boost mulch) for another full [[Wacan]] cycle. You may want to replant [[Kasib]] as well to avoid [[Shuca]] dying before [[Coba]], but this is not very important at this time.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="collapsible wikitable"| style="text-align: center;"
+|+ ''All planting times use the time-to-ripe remaining of the first planted berry for subsequent planting times''
+! Berry !! Planting Time with &lt;br&gt; No Modifier !!  Planting Time with &lt;br&gt; Mulch || Planting Time with &lt;br&gt;  Mulch &amp; Sprayduck
+|-
+| [[Chilan]] || - || - || -
+|-
+| [[Tanga]] || - || - || -
+|-
+| [[Wacan]] || 1 hour 25 mins 42 secs until ripe ||  57 mins 8 secs until ripe || 38 mins 5 secs until ripe
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Uses==
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+===Mutations===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Petaya berries can be used to mutate the following berries.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Maranga.png|20px]] [[Maranga]] || [[File:Salac.png|20px]] [[Salac]]
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+==Using Petaya==
+Farm setups using Petaya can be found here:
+* [[Pokémon_Day_Care|Maximizing Egg step gain for Breeding Pokemon faster]] 
+* [[Shiny Chance|Maximizing Shiny Chance to turn all Pokemon Shiny]]
+* [[Farming Setups|Various useful Farming Setups]]
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+[[Category:Farm]][[Category:Berries]]</text>
+    <contributor>
+      <username>LeChatMG</username>
+      <id>97</id>
+    </contributor>
+    <comment>Created page with "==== Tableau de minutage ==== {| class="collapsible wikitable"| style="text-align: center;" |+ ''Tous les temps indiqués sont basés sur le temps restant avant que la première baie plantée n'arrive à maturité'' ! Baie !! Temps de plantation&lt;br&gt;sans modificateur!! Temps de plantation avec &lt;br&gt; Engrais ou Kwakarrosoir || Temps de plantation avec &lt;br&gt; Engrais et Kwakarrosoir |- | [[Haban/fr|Fraigo]] || - || - || - |- | [[Babiri/fr|Babiri]] || 20 heures avant maturité..."</comment>
+    <model>wikitext</model>
+    <parentid>23782</parentid>
+    <sha1>56b3ae9d0a1a78adddada2a1e9a4dc56a9132252</sha1>
+  </revision>
+</page>

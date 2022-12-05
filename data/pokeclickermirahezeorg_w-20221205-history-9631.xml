@@ -1,0 +1,53 @@
+<page>
+  <title>Battle Points</title>
+  <ns>0</ns>
+  <id>201</id>
+  <revision>
+    <id>3505</id>
+    <timestamp>2021-11-26T05:44:47Z</timestamp>
+    <text bytes="488" space="preserve">[[File:Battlepoints.png|thumb|200px|A Battle Point]]
+
+==Description==
+'''Battle Points''' are the red currency earned from the [[Battle Frontier]] that are currently only used to buy items from the [[Shops#Battle Frontier|Battle Frontier Shop]].
+
+==Formulas==
+
+&lt;math&gt; \text{Battle Points} = \text{Stage Beaten} \times \text{Battle Multiplier}&lt;/math&gt; 
+&lt;br&gt;&lt;br&gt; &lt;big&gt;Where:&lt;/big&gt; 
+&lt;math&gt;\text{Battle Multiplier} = \text{max}(\frac{\text{stageBeaten}}{100},1)&lt;/math&gt;
+
+[[Category:Currencies]]</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>3504</parentid>
+    <sha1>c89af12315b5fbb855a2841395fca8203592d9f8</sha1>
+  </revision>
+  <revision>
+    <id>3504</id>
+    <timestamp>2021-11-26T05:18:36Z</timestamp>
+    <text bytes="437" space="preserve">[[File:Battlepoints.png|thumb|200px|A Battle Point]]
+
+==Description==
+The currency earned from the [[Battle Frontier]], used to buy items from the [[Shops#Battle Frontier|Battle Frontier Shop]].
+
+==Formulas==
+
+&lt;math&gt; \text{Battle Points} = \text{Stage Beaten} \times \text{Battle Multiplier}&lt;/math&gt; 
+&lt;br&gt;&lt;br&gt; &lt;big&gt;Where:&lt;/big&gt; 
+&lt;math&gt;\text{Battle Multiplier} = \text{max}(\frac{\text{stageBeaten}}{100},1)&lt;/math&gt;
+
+[[Category:Currencies]]</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment>Battle Points fixups</comment>
+    <model>wikitext</model>
+    <parentid>3503</parentid>
+    <sha1>2f525e5eae00655a9f55b1660d1cd46c3c3a46a2</sha1>
+  </revision>
+</page>

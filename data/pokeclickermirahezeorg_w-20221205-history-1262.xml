@@ -1,0 +1,55 @@
+<page>
+  <title>Translations:Duskball/1/fr</title>
+  <ns>0</ns>
+  <id>8571</id>
+  <revision>
+    <id>23708</id>
+    <timestamp>2022-08-11T11:27:37Z</timestamp>
+    <text bytes="446" space="preserve">{{Infobox Pokéball
+|name       = Sombre Ball
+|image      = [[File:Duskball.png]]
+|caption    = Image en jeu de la ''Sombre Ball''.
+|price      = Variable
+|catchTime  = 1s
+|catchRate = Variable (dépend du lieu et de l'heure)
+*+15% la nuit (18h - 6h) et dans les [[Dungeons/fr|Donjons]]
+*+0% le jour (6h - 18h) et partout ailleurs
+|location   = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*[[Duskball/fr#Shops|Boutiques]]
+*[[Duskball/fr#Dungeons|Donjons]]
+}}</text>
+    <contributor>
+      <username>LuK</username>
+      <id>96</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>23707</parentid>
+    <sha1>91d91f41ee2742fa680dd8d406352a556a3d3e15</sha1>
+  </revision>
+  <revision>
+    <id>23707</id>
+    <timestamp>2022-08-11T11:25:44Z</timestamp>
+    <text bytes="448" space="preserve">{{Infobox Pokéball
+|name       = Sombre Ball
+|image      = [[File:Duskball.png]]
+|caption    = Image en jeu de la ''Sombre Ball''.
+|price      = Variable
+|catchTime  = 1s
+|catchRate = Variable (dépend du lieu et de l'heure)
+*+15% la nuit (6PM - 6AM) et dans les [[Dungeons/fr|Donjons]]
+*+0% le jour (6AM - 6PM) et partout ailleurs
+|location   = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*[[Duskball/fr#Shops|Boutiques]]
+*[[Duskball/fr#Dungeons|Donjons]]
+}}</text>
+    <contributor>
+      <username>LuK</username>
+      <id>96</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>23706</parentid>
+    <sha1>4aa2a8efd0e91c120648625e2f15a678cd07b814</sha1>
+  </revision>
+</page>

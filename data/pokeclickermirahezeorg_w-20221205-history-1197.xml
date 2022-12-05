@@ -1,0 +1,71 @@
+<page>
+  <title>Repeatball/fr</title>
+  <ns>0</ns>
+  <id>8499</id>
+  <revision>
+    <id>23562</id>
+    <timestamp>2022-08-12T05:40:22Z</timestamp>
+    <text bytes="1795" space="preserve">&lt;languages/&gt;
+
+{{Infobox Pokéball
+|name       = Bis Ball
+|image      = [[File:Repeatball.png]]
+|caption    = Image en jeu de la ''Bis Ball''.
+|price      = Variable
+|catchTime  = 1,25s
+|catchRate = Variable (Augmente avec le nombre de fois qu'un Pokémon est capturé)
+|location   = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*[[Repeatball/fr#Dungeons|Donjons]]
+}}
+
+==Description==
+
+La '''Bis Ball''' est un type de [[Pokéballs/fr|Ball]]. Elle est automatiquement lancée pour capturer un Pokémon sauvage après l'avoir mis KO s'il s'agit du plus haut type de Ball actif et qu'il vous en reste dans la fenètre de sélection de Poké Ball.
+
+==Détails==
+
+Une Ball spécialisée pour attraper les Pokémon qui ont déjà été capturés. Le taux augmente en proportion du nombre déjà capturé. De plus, attraper un Pokémon avec une Bis Ball donnera 5x plus d'EV que la normale.
+
+==Taux==
+
+{| class="wikitable"
+|+ Taux de Capture de la Bis Ball
+|-
+! Pokémon Capturé !! Chance de capture (+%)
+|-
+| 0 fois || 0 (égal à une Poké Ball)
+|-
+| 159 fois || 5 (égal à une Super Ball)
+|-
+| 224 fois || 10 (égal to Hyper Ball)
+|-
+| 274 fois || 15
+|}
+
+[[File:Repeatball_Catch_Rate_Graph.png|Axe X : Pokémon Capturés&lt;br&gt;Axe Y : Taux de Capture|200px]]
+
+==Acquisition==
+===Donjons===
+{{Loot/head‎|Pokéballs}}
+{{LootItem|Victory Road Sinnoh|Route Victoire (Sinnoh)|Légendaire}}
+{{LootItem|Victory Road Unova|Route Victoire (Unys)|Épique}}
+{{LootItem|Kalos Power Plant|Centrale de Kalos|Légendaire}}
+{{LootItem|Pokéball Factory|Usine de Poké Balls|Épique}}
+{{LootItem|Pokémon Village|Village Pokémon|Épique}}
+{{LootItem|Ula'ula Meadow|Jardin d'Ula-Ula|Légendaire}}
+{{LootItem|Vast Poni Canyon|Grand Canyon de Poni|Épique}}
+|}
+|}
+
+&lt;br&gt;{{Pokéballs}}&lt;br&gt;
+[[Category:Items]] [[Category:Pokéballs]]</text>
+    <contributor>
+      <username>PetroleVB</username>
+      <id>36</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>23561</parentid>
+    <sha1>78fcd10ec0065b74420ec91d21223233425d3359</sha1>
+  </revision>
+</page>

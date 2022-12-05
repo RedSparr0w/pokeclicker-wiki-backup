@@ -1,0 +1,72 @@
+<page>
+  <title>Weather/es</title>
+  <ns>0</ns>
+  <id>5162</id>
+  <revision>
+    <id>17443</id>
+    <timestamp>2022-07-28T08:14:44Z</timestamp>
+    <text bytes="2622" space="preserve">&lt;languages/&gt;
+El '''tiempo atmosférico''' es una mecánica del juego que refleja las condiciones atmosféricas afectando al ataque de ciertos tipos. Cambia cada cuatro horas y algunas condiciones solo pueden ocurrir en [[Regions|regiones]] concretas. El tiempo también condiciona la evolución y la disponibilidad de algunos Pokémon.
+
+=Detalles=
+
+La siguiente tabla es correcta para la versión 0.8.15.
+
+{| class="wikitable"
+|-
+! Tiempo Atmosférico !! Descripción !! Tipos que modifica !! Peso en GNA !! Región
+|-
+| [[File:Clear.png|30px]] Despejado || El clima está despejado y agradable. || Ninguno || 30 || rowspan = 5 | All
+|-
+| [[File:Overcast.png|30px]] Nublado || Las nubes llenan los cielos || Normal x1.1 || 15
+|-
+| [[File:Rain.png|30px]] Lluvia || Llueve y hay humedad. || Agua x1.1 Bicho x1.05 || 10
+|-
+| [[File:Thunderstorm.png|30px]] Tormenta || Hay fuerte lluvia con rayos. || Agua x1.1, Electricidad x1.1 Fuego x0.9 || 5
+|-
+| [[File:Sunny.png|30px]] Sol || La luz del sol es muy fuerte. || Fuego x1.2, Hierba x1.1, Agua x0.9 || 10
+|-
+| [[File:Snow.png|30px]] Nieve || Hace frío y nieva. || Hielo x1.05 || 5 || rowspan = 3 | En adelante a Johto
+|-
+| [[File:Hail.png|30px]] Granizo || Hace frío y graniza. || Hielo x1.1 || 3
+|-
+| [[File:Blizzard.png|30px]] Ventisca || Sopla una ventisca aullante. || Hielo x1.2, Fuego x0.9, Hierba x0.9 || 2
+|-
+| [[File:Sandstorm.png|30px]] Tormenta de Arena || Una tormenta de arena golpea con fuerza. || Roca x1.1, Tierra x1.1, Acero x1.1 || 10 || En adelante a Hoenn
+|-
+| [[File:Fog.png|30px]] Niebla || La niebla es densa... || Fantasma x1.2 Siniéstro x1.1 Electricidad x0.9 || 10 || En adelante a Shinnoh
+|-
+| [[File:Windy.png|30px]] Ventoso || Un viento misterioso sopla hacia adelante. || Volador x1.2, Dragon x1.1 || 1 || En adelante a Teselia
+|}
+
+=Pokémon afectados por el clima=
+
+{| class="wikitable"
+|+ Evoluciones dependientes del tiempo atmosférico
+! Pokémon !! Evolución !! Tiempo Atmosférico necesario
+|-
+| [[File:Cherrim_(overcast).png|30px]]Cherrim (Forma Encapotada) || [[File:Cherrim_(sunshine).png|30px]]Cherrim (Forma Soleada) || Sol
+|-
+| [[File:Sliggoo.png|30px]]Sliggoo || [[File:Goodra.png|30px]]Goodra || Lluvia o Niebla
+|}
+
+{| class="wikitable"
+|+ Encuentros en ruta dependientes del tiempo atmosférico
+! Pokémon !! Tiempo Atmosférico necesario !! Ruta
+|-
+| [[File:Castform_(sunny).png|30px]]Castform (Forma Sol) || Sol || rowspan = 3| Hoenn 119
+|-
+| [[File:Castform_(rainy).png|30px]]Castform (Forma Lluvia) || Lluvia o Tormenta
+|-
+| [[File:Castform_(snowy).png|30px]]Castform (Forma Nieve) || Nieve, Ventisca, Granizo o Niebla.
+|}</text>
+    <contributor>
+      <username>SrVariable</username>
+      <id>142</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>17442</parentid>
+    <sha1>15aa7c94125dbf08e65a61ba74b1c2334208568c</sha1>
+  </revision>
+</page>

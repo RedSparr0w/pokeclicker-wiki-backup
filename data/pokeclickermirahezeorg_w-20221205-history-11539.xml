@@ -1,0 +1,64 @@
+<page>
+  <title>Nanab</title>
+  <ns>0</ns>
+  <id>532</id>
+  <revision>
+    <id>6614</id>
+    <timestamp>2020-12-24T22:34:44Z</timestamp>
+    <text bytes="1602" space="preserve">{{Infobox Berry
+|name    = #12 Nanab
+|image   = [[File:Nanab.png]]
+|caption = Bitter, but with a trace of sweetness, the Nanab Berry was the seventh to be discovered in the word.
+|growtime  = 4m 10s
+|harvest = 11 berries
+|replant = 40%
+|points = 25
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 spicy 
+*0 dry
+*10 sweet
+*10 bitter
+*0 sour
+}}
+'''Nanab''' is a type of [[Berries|Berry]] that can be planted in [[Farm]]. It can be obtained by surrounding an empty plot with at least 1 [[Pecha]] and at least 1 [[Aspear]].
+
+{| class="wikitable"
+|+ Growth Stages
+! !! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 25 secs || 5 secs || 5 secs || 4 mins 10 secs - 8 mins 20 secs
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:NanabTreeTaller.png|50px]] || &lt;center&gt; [[File:NanabTreeBloom.png|50px]] || &lt;center&gt; [[File:NanabTreeBerry.png|50px]]
+|}
+
+=== Possible Planting Formations ===
+
+You can fill your [[farm]] in following way to obtain Nanab berry.
+
+{| class="wikitable" style="text-align: center;"
+|+ Farm
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Pecha.png|30px]] [[Pecha]] || style="width: 40px;" | || style="width: 40px;" | || style="width: 40px;" | [[File:Pecha.png|30px]] [[Pecha]] || style="width: 40px;" | 
+|-
+| || [[File:Aspear.png|30px]] [[Aspear]] ||  ||  || [[File:Aspear.png|30px]] [[Aspear]] 
+|- style="height: 50px;"
+| || || || || 
+|-
+| [[File:Pecha.png|30px]] [[Pecha]] || || || [[File:Pecha.png|30px]] [[Pecha]] || 
+|-
+| || [[File:Aspear.png|30px]] [[Aspear]] ||  ||  || [[File:Aspear.png|30px]] [[Aspear]] 
+|}
+
+{{Berries}}</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>6613</parentid>
+    <sha1>5aa460a4d22f9b38af7ee777ee9fa2bdd5206595</sha1>
+  </revision>
+</page>

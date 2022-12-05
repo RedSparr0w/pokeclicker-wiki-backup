@@ -1,0 +1,85 @@
+<page>
+  <title>Battle Items</title>
+  <ns>0</ns>
+  <id>73</id>
+  <revision>
+    <id>808</id>
+    <timestamp>2021-02-13T05:11:12Z</timestamp>
+    <text bytes="1750" space="preserve">'''Battle Items''' are common items used throughout gameplay to buff various player attributes. Each item boosts its corresponding parameter by 50% for 30 seconds per use. Buff duration can be extended indefinitely via multiple uses of the same item. In addition to being available in certain [[Shops|shops]], the items can be obtained by opening chests in [[Dungeons|dungeons]]. Most of the items are also given as rewards for clearing certain stages in the [[Battle Frontier]].
+
+==List of Battle Items==
+Outside of [[Kanto]], all battle items can be found in the Pokémart shortcut that is unlocked after reaching [[Johto]], LilyCove City ([[Hoenn]]), Veilstone City ([[Sinnoh]]), and Opelucid City ([[Unova]]).
+
+{| class="wikitable"
+! Item !! Boosted parameter !! Kanto shop locations !! Cost !! Battle Frontier stage rewards
+|-
+| {{Bag3|X Attack}} [[X Attack]] || Pokémon attack || Lavender Town || 600 {{pdollar}} || Stage 40
+|-
+| {{Bag3|X Click}} [[X Click]] || Click attack || Saffron City, Viridian City || 400 {{pdollar}} || Stage 35
+|-
+| {{Bag3|Lucky Egg}} [[Lucky Egg]] || Experience gain || Pewter City, Vermilion City, Fuchsia City || 800 {{pdollar}} || Stage 160
+|-
+| {{Bag3|Token Collector}} [[Token Collector]] || [[Dungeon Tokens|Dungeon Token]] {{dungeontokens}} gain || Pewter City || 1000 {{pdollar}} || None
+|-
+| {{Bag3|Item Magnet}} [[Item Magnet]] || Chance of obtaining [[Rare hold items|rare hold items]] from defeated Pokémon&lt;br&gt;Gives an additional 50% chance to duplicate items found in dungeon chests || rowspan=2 | Lavender Town || 1500 {{pdollar}} || Stage 180
+|-
+| {{Bag3|Lucky Incense}} [[Lucky Incense]] || [[Poke Dollar|Pokédollar]] {{pdollar}} gain || 2000 {{pdollar}} || Stage 170
+
+|}
+
+
+
+
+
+
+{{Battle items}}&lt;br&gt;</text>
+    <contributor>
+      <username>Adrian.Lew</username>
+      <id>29</id>
+    </contributor>
+    <comment>/* List of Battle Items */ Costs added</comment>
+    <model>wikitext</model>
+    <parentid>807</parentid>
+    <sha1>cb52e4e1f08b63f9def41e0bee3e8021606ded5d</sha1>
+  </revision>
+  <revision>
+    <id>807</id>
+    <timestamp>2021-02-13T05:03:56Z</timestamp>
+    <text bytes="1625" space="preserve">'''Battle Items''' are common items used throughout gameplay to buff various player attributes. Each item boosts its corresponding parameter by 50% for 30 seconds per use. Buff duration can be extended indefinitely via multiple uses of the same item. In addition to being available in certain [[Shops|shops]], the items can be obtained by opening chests in [[Dungeons|dungeons]]. Most of the items are also given as rewards for clearing certain stages in the [[Battle Frontier]].
+
+==List of Battle Items==
+Outside of [[Kanto]], all battle items can be found in the Pokémart shortcut that is unlocked after reaching [[Johto]], LilyCove City ([[Hoenn]]), Veilstone City ([[Sinnoh]]), and Opelucid City ([[Unova]]).
+
+{| class="wikitable"
+! Item !! Boosted parameter !! Kanto shop locations !! Battle Frontier stage rewards
+|-
+| {{Bag3|X Attack}} [[X Attack]] || Pokémon attack || Lavender Town || Stage 40
+|-
+| {{Bag3|X Click}} [[X Click]] || Click attack || Saffron City, Viridian City || Stage 35
+|-
+| {{Bag3|Lucky Egg}} [[Lucky Egg]] || Experience gain || Pewter City, Vermilion City, Fuchsia City || Stage 160
+|-
+| {{Bag3|Token Collector}} [[Token Collector]] || [[Dungeon Tokens|Dungeon Token]] {{dungeontokens}} gain || Pewter City || None
+|-
+| {{Bag3|Item Magnet}} [[Item Magnet]] || Chance of obtaining [[Rare hold items|rare hold items]] from defeated Pokémon&lt;br&gt;Gives an additional 50% chance to duplicate items found in dungeon chests || rowspan=2 | Lavender Town || Stage 180
+|-
+| {{Bag3|Lucky Incense}} [[Lucky Incense]] || [[Poke Dollar|Pokédollar]] {{pdollar}} gain || Stage 170
+
+|}
+
+
+
+
+
+
+{{Battle items}}&lt;br&gt;</text>
+    <contributor>
+      <username>Adrian.Lew</username>
+      <id>29</id>
+    </contributor>
+    <comment>Formatting, information port in preparation for page culling</comment>
+    <model>wikitext</model>
+    <parentid>806</parentid>
+    <sha1>47fb5dd680815756f93a063ef0c077b3128ffa7c</sha1>
+  </revision>
+</page>

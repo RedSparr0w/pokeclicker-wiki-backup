@@ -1,0 +1,62 @@
+<page>
+  <title>Rawst</title>
+  <ns>0</ns>
+  <id>472</id>
+  <revision>
+    <id>6326</id>
+    <timestamp>2021-01-09T21:27:38Z</timestamp>
+    <text bytes="1267" space="preserve">{{Infobox Berry
+|name    = #04 Rawst
+|image   = [[File:Rawst.png]]
+|caption = If the leaves grow longer and curlier than average, this Berry will have a somewhat-bitter taste.
+|growtime  = 1m 20s
+|harvest = 5 berries
+|replant = 50%
+|points = 8
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 spicy 
+*0 dry
+*0 sweet
+*10 bitter
+*0 sour
+}}
+
+'''Rawst''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]] to obtain [[Farming Points|Farm Points]]. It can be obtained as a random drop by defeating wild Pokémon on routes.
+
+{| class="wikitable" | style = "image-rendering: pixelated"
+|+ Growth Stages
+!!! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 15 secs|| 30 secs || 45 secs || 1 min 20 secs - 2 mins 40 secs
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] ||&lt;center&gt; [[File:RawstTreeTaller.png|50px]] ||&lt;center&gt; [[File:RawstTreeBloom.png|50px]] || &lt;center&gt;[[File:RawstTreeBerry.png|50px]]
+|}
+
+{| class="wikitable collapsible" | style="text-align: center;"
+|+ Ripening Time with Modifiers
+! Modifier !! Ripe-Wither Time
+|-
+! None
+| 1 min 20 secs -&lt;br&gt; 2 mins 40 secs
+|-
+! Sprayduck
+| 53 secs -&lt;br&gt; 1 min 46 secs
+|}
+
+== Flow Chart ==
+[[File:Rawst_Flow_Chart.png|100px]]
+
+&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+{{Berries}}</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment>Flow Chart</comment>
+    <model>wikitext</model>
+    <parentid>6325</parentid>
+    <sha1>72476d2c7de07edf06cd2395809ee3f9ca0b55fc</sha1>
+  </revision>
+</page>

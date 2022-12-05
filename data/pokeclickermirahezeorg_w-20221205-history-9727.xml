@@ -1,0 +1,476 @@
+<page>
+  <title>Pokémon Statistics</title>
+  <ns>0</ns>
+  <id>3416</id>
+  <revision>
+    <id>13056</id>
+    <timestamp>2021-10-20T18:44:38Z</timestamp>
+    <text bytes="10717" space="preserve">==Base Attack==
+The formula for a Pokemon’s '''Base Attack''' is loosely derived from Pokemon Go’s formula for CP.  It can be described through the following equations:
+
+&lt;math&gt;\\\text{base offense} = 2*\left[\sqrt{\text{Atk}*\text{SAtk}}+\sqrt{\text{Spe}}\right]
+\\
+\\\text{base defense} = 2*\left[\sqrt{\text{Def}*\text{SDef}}+\sqrt{\text{Spe}}\right]
+\\
+\\\text{base stamina} = 2*\text{HP}
+\\
+\\ \text{Base Attack}=\text{max}\left(10,\left\lfloor\sqrt{\text{base defense} * \text{base stamina}}*\frac{\text{base offense}}{250}\right\rfloor\right) &lt;/math&gt;
+
+Or, depicted as a single equation:
+
+&lt;math&gt; \text{Base Attack}=\text{max}\left(10,\left\lfloor\sqrt{2*\left[\sqrt{\text{Def}*\text{SDef}}+\sqrt{\text{Spe}}\right] * (2*\text{HP})}*\frac{2*\left[\sqrt{\text{Atk}*\text{SAtk}}+\sqrt{\text{Spe}}\right]}{250}\right\rfloor\right) &lt;/math&gt;
+
+This can be graphically represented by holding every stat except one at the same value, allowing us to track how the Base Attack changes as a function of that stat.  The following graph shows the Base Attack for each stat when all others are held at 60:
+
+[[File:Base_Attack_At_60.png|frameless|upright 2]]
+
+Generally speaking, the steeper a curve is the more impact an increase in that stat has on the Base Attack.  For example, it takes much more Speed than HP to increase the Base Attack by 1, and accordingly Pokemon with high Speed but low HP will have lower Base Attack than Pokemon with high HP but low Speed.
+
+To visualize the effect of the overall BST on the results, the following graph shows the Base Attack for each stat when all other stats are held at 100:
+
+[[File:Base_Attack_At_100.png|frameless|upright 2]]
+
+In addition to the curves meeting at a higher Base Attack, they’re somewhat steeper across the board.  This indicates that the higher a Pokemon’s BST the more valuable each stat point is, leading to an even greater Base Attack.
+
+==Attack==
+When first caught, a Pokemon will at level 100 have an '''Attack''' stat equal to their '''Base Attack'''.  Beneath level 100, their Attack scales linearly from 0 to their maximum Attack.  However, at no point may a Pokemon’s Attack be less than 1.
+
+A Pokemon’s Attack stat may contribute less to your total Attack depending on which Region you are in.  For more information, see [[Regions]].
+
+==Click Attack==
+'''Click Attack''' is determined by the number of Pokemon you’ve caught, the number of [[Shinies|shiny Pokemon]] you’ve caught, and your [[Achievements|Achievement Bonus]], according to the following formula:
+
+&lt;math&gt; (\text{Pokemon} + 0.5(\text{Shinies}) + 1)^{1.4}*(1+\text{Achievement Bonus}) &lt;/math&gt;
+
+[[Pokémon_with_Alternate_Forms|Alternate forms]] count, both for the number of Pokemon and the number of Shinies.  Any Pokémon that has an entry in your [[List of Pokémon with attack|List of Pokémon]] contributes.
+
+==Egg Cycles==
+'''Egg Cycles''' is a value specific to each species that determines how many steps they need in order to hatch, with each egg cycle corresponding to 40 steps.  The egg cycle value for each species begins with the canonical value, with alternate forms using the same value as the base form, and is subject to few modifiers:
+* An evolved Pokemon’s egg cycle value is 1.5 times the egg cycle value of their pre-evolved form.  In the case of third-stage Pokemon, their egg cycle value is 1.5 times the egg cycle value of the second-stage Pokemon
+* A baby Pokemon’s egg cycle value is 0.8 times the egg cycle value of the base species
+* There is a hard cap of 120 egg cycles, equaling 4800 steps, after all factors have been accounted for
+
+There are exceptions to this rule:
+* Flying Pikachu, Surfing Pikachu, Pikachu (Gengar), and Let’s Go Pikachu all require 20 egg cycles instead of 10
+* Heatran requires 80 egg cycles instead of 10
+* The egg cycle values for Sand Cloak and Trash Cloak forms of Burmy and Wormadam are 1.5x higher than their Plant Cloak counterparts, since Burmy (plant) evolves into Burmy (sand) and Burmy (trash).  Similarly, Cherrim (sunshine) has 1.5x the egg cycle value of Cherrim (overcast)
+
+==Breeding Efficiency==
+'''Breeding Efficiency''' can be summarized as ‘how much Attack a Pokemon gains upon breeding’ divided by ‘how long it takes to breed that Pokemon’.  It is a useful value to know because one of the most important tasks in Pokéclicker is to [[Pokemon Day Care|breed your Pokemon]] to increase their Attack. Some Pokemon give a lot of Attack but take too long to breed, while others breed really quickly but give too little Attack.
+
+When bred, a Pokemon’s ‘Attack Bonus’ is 1/4 of their Base Attack plus 1 for every Protein they have been fed.  For example, a Pokemon with a Base Attack of 80 and 5 Protein would gain 20 + 5 = 25 Attack upon being bred.  When raised to level 100 again, they would have an Attack stat of 105 instead of 80.  Its Base Attack remains unchanged, however, so a second breeding would still give 25 Attack (for a new max of 130) instead of 26 + 5 = 31.
+
+Meanwhile, the amount of time it takes to breed a Pokemon is a simple reference to the number of Egg Cycles that they take to hatch.  Thus, the full equation for Breeding Efficiency is as follows:
+
+&lt;math&gt; \text{Breeding Efficiency} = \frac{(0.25*\text{Base Attack})+\text{Proteins used}}{\text{Egg Cycles}} &lt;/math&gt;
+
+If your goal is to grow your strength within a single region, you also need to account for the damage debuff for non-native Pokemon.  For more information, see [[Protein]].
+
+==Catch Rate==
+'''Catch Rate''' is a value specific to each species that determines the base odds of capture before in-game modifiers like [[Pokéballs|Pokéball]]type and the [[Magic Ball]] Oak Item.  The catch rate for each species is identical to the canonical value, with alternate forms using the same value as the base form.  In cases where the canonical catch rate has changed over time, such as Dialga’s catch rate changing from 30 to 3 in ORAS, the newer values are used.
+
+There are exceptions to this rule:
+* Flying Pikachu, Surfing Pikachu, Pikachu (Gengar), and Let’s Go Pikachu have a catch rate of 50 instead of 190
+* Eevee has a catch rate of 255 instead of 45
+* Let’s Go Eevee has a catch rate of 50 instead of 45
+* Spooky Togepi has a catch rate of 30 instead of 190
+* Spooky Bulbasaur has a catch rate of 25 instead of 45
+* Armored Mewtwo has a catch rate of 2 instead of 3
+
+To create the in-game base percentage, the catch rate is raised to the power of 0.75, rounded down, and then a random integer from -3 to +3 is added.
+
+The following graph shows the transformation from catch rate to in-game percentages, including the range created by the random integer but excluding the rounding for the sake of readability:
+
+[[File:Catch_Rate_Without_Rounding.png|frameless|upright 2]]
+
+The following graph includes the rounding and is thus a true representation of the formula transforming catch rate to in-game base percentages:
+
+[[File:Catch_Rate_With_Rounding.png|frameless|upright 2]]
+
+==Base EXP==
+'''Base EXP''' is a value specific to each species that is used to determine how much EXP they award when you defeat them in battle.  The EXP value for each Pokemon begins with the canonical ‘base experience yield’ value, with alternate forms using their canonical value when applicable and sharing the base form’s value otherwise.  The base experience yield used is then subject to a modifier:
+* The EXP value for third-stage Pokemon and Legendary Pokemon is 90% of the canonical value.
+
+Additionally, there are exceptions to this general rule:
+* Blissey gives 96% of its canonical EXP value instead of 90%
+* Slaking gives 88% of its canonical EXP value instead of 90%
+* Rotom’s base form has the same EXP value as its alternate forms instead of its canonical EXP value
+* Darmanitan has the same EXP value as its Zen Mode form instead of its canonical EXP value
+* Volcarona gives 90% of its canonical EXP value despite being neither third-stage nor Legendary
+* Talonflame gives 100% of its canonical EXP value despite being a third-stage Pokemon
+* Aegislash gives 94% of its canonical EXP value instead of 90%
+
+==Enemy Level==
+The '''Enemy Level''' of enemy wild Pokemon is generated according to the following formula:
+
+&lt;math&gt; \text{Wild Level} = \left\lfloor(\text{Route Order Number}*2) + (20*\text{region}^{2.3})\right\rfloor &lt;/math&gt;
+
+In which ‘Route Order Number’ is the order of the routes as determined by the code.  For more information, see [[Route Statistics]].
+
+{| class="wikitable"
+|+ Wild Pokemon Levels per Region
+|-
+! Region !! Routes !! Route Levels !! Region Levels !! Level Range
+|-
+| Kanto (0) || 1-25 || 2-50 || +0 || 2-50
+|-
+| Johto (1) || 26-48 || 52-96 || +20 || 72-116
+|-
+| Hoenn (2) || 49-82 || 98-164 || +98 || 196-262
+|-
+| Sinnoh (3) || 83-112 || 166-224 || +250 || 416-474
+|-
+| Unova (4) || 113-136 || 226-272 || +485 || 711-757
+|-
+| Kalos (5) || 137-159 || 274-318 || +810 || 1084-1128
+|}
+If you encounter a [[Roaming Pokémon]] on a route, it will have the same level as the other Pokemon on that route.
+
+In [[Dungeons]], the level of non-boss wild Pokemon is determined by the dungeon level, and the level of boss Pokemon is custom-specified.  Both dungeon level and boss Pokemon level vary from 0 to 100.
+
+Pokemon belonging to dungeon trainers (regular and boss trainers) have the same levels as their respective trainer battles in the games.
+
+Pokemon belonging to [[Gyms|Gym Leaders]] and associated boss fights have the same levels as their respective boss fights in the games.
+
+The level of Pokemon fought in the [[Battle Frontier]] is equal to the stage number you are on, with a minimum level of 100.
+
+==EXP Award==
+The '''EXP Award''' from a defeated Pokemon is calculated according to the following formula:
+
+&lt;math&gt; \text{EXP Award} = \frac{\text{Base EXP}*\text{level}*\text{Trainer Bonus}}{9} &lt;/math&gt;
+
+“Trainer Bonus” is 1.5x if you are fighting a Gym trainer, and 1.0x otherwise.  The resultant value may be further modified by in-game effects such as the [[EXP Share]] and [[Achievements]].
+
+==Leveling Rate==
+Just like in the games, different species level at different rates.  There are 6 different leveling rates, each with its own formula and EXP at level 100:
+* Fluctuating: 1,640,000 EXP at level 100
+* Slow: 1,250,000 EXP at level 100
+* Medium Slow: 1,059,860 EXP at level 100
+* Medium Fast: 1,000,000 EXP at level 100
+* Fast: 800,000 EXP at level 100
+* Erratic: 600,000 EXP at level 100
+Every Pokemon shares their canonical leveling rate and accordingly EXP needed for level 100.  For more information on how these EXP groups behave, see Bulbapedia’s [https://bulbapedia.bulbagarden.net/wiki/Experience article] on the subject.</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment>Protected "[[Pokémon Statistics]]": Protecting new pages ([Edit=Allow only autoconfirmed users] (indefinite) [Move=Allow only autoconfirmed users] (indefinite) [Delete=Allow only autoconfirmed users] (indefinite) [Protect=Allow only autoconfirmed users] (indefinite))</comment>
+    <model>wikitext</model>
+    <parentid>13055</parentid>
+    <sha1>875c45c08d2a4da9f706e54eb8c0b1d1f2e84940</sha1>
+  </revision>
+  <revision>
+    <id>13055</id>
+    <timestamp>2021-10-20T05:29:21Z</timestamp>
+    <text bytes="10717" space="preserve">==Base Attack==
+The formula for a Pokemon’s '''Base Attack''' is loosely derived from Pokemon Go’s formula for CP.  It can be described through the following equations:
+
+&lt;math&gt;\\\text{base offense} = 2*\left[\sqrt{\text{Atk}*\text{SAtk}}+\sqrt{\text{Spe}}\right]
+\\
+\\\text{base defense} = 2*\left[\sqrt{\text{Def}*\text{SDef}}+\sqrt{\text{Spe}}\right]
+\\
+\\\text{base stamina} = 2*\text{HP}
+\\
+\\ \text{Base Attack}=\text{max}\left(10,\left\lfloor\sqrt{\text{base defense} * \text{base stamina}}*\frac{\text{base offense}}{250}\right\rfloor\right) &lt;/math&gt;
+
+Or, depicted as a single equation:
+
+&lt;math&gt; \text{Base Attack}=\text{max}\left(10,\left\lfloor\sqrt{2*\left[\sqrt{\text{Def}*\text{SDef}}+\sqrt{\text{Spe}}\right] * (2*\text{HP})}*\frac{2*\left[\sqrt{\text{Atk}*\text{SAtk}}+\sqrt{\text{Spe}}\right]}{250}\right\rfloor\right) &lt;/math&gt;
+
+This can be graphically represented by holding every stat except one at the same value, allowing us to track how the Base Attack changes as a function of that stat.  The following graph shows the Base Attack for each stat when all others are held at 60:
+
+[[File:Base_Attack_At_60.png|frameless|upright 2]]
+
+Generally speaking, the steeper a curve is the more impact an increase in that stat has on the Base Attack.  For example, it takes much more Speed than HP to increase the Base Attack by 1, and accordingly Pokemon with high Speed but low HP will have lower Base Attack than Pokemon with high HP but low Speed.
+
+To visualize the effect of the overall BST on the results, the following graph shows the Base Attack for each stat when all other stats are held at 100:
+
+[[File:Base_Attack_At_100.png|frameless|upright 2]]
+
+In addition to the curves meeting at a higher Base Attack, they’re somewhat steeper across the board.  This indicates that the higher a Pokemon’s BST the more valuable each stat point is, leading to an even greater Base Attack.
+
+==Attack==
+When first caught, a Pokemon will at level 100 have an '''Attack''' stat equal to their '''Base Attack'''.  Beneath level 100, their Attack scales linearly from 0 to their maximum Attack.  However, at no point may a Pokemon’s Attack be less than 1.
+
+A Pokemon’s Attack stat may contribute less to your total Attack depending on which Region you are in.  For more information, see [[Regions]].
+
+==Click Attack==
+'''Click Attack''' is determined by the number of Pokemon you’ve caught, the number of [[Shinies|shiny Pokemon]] you’ve caught, and your [[Achievements|Achievement Bonus]], according to the following formula:
+
+&lt;math&gt; (\text{Pokemon} + 0.5(\text{Shinies}) + 1)^{1.4}*(1+\text{Achievement Bonus}) &lt;/math&gt;
+
+[[Pokémon_with_Alternate_Forms|Alternate forms]] count, both for the number of Pokemon and the number of Shinies.  Any Pokémon that has an entry in your [[List of Pokémon with attack|List of Pokémon]] contributes.
+
+==Egg Cycles==
+'''Egg Cycles''' is a value specific to each species that determines how many steps they need in order to hatch, with each egg cycle corresponding to 40 steps.  The egg cycle value for each species begins with the canonical value, with alternate forms using the same value as the base form, and is subject to few modifiers:
+* An evolved Pokemon’s egg cycle value is 1.5 times the egg cycle value of their pre-evolved form.  In the case of third-stage Pokemon, their egg cycle value is 1.5 times the egg cycle value of the second-stage Pokemon
+* A baby Pokemon’s egg cycle value is 0.8 times the egg cycle value of the base species
+* There is a hard cap of 120 egg cycles, equaling 4800 steps, after all factors have been accounted for
+
+There are exceptions to this rule:
+* Flying Pikachu, Surfing Pikachu, Pikachu (Gengar), and Let’s Go Pikachu all require 20 egg cycles instead of 10
+* Heatran requires 80 egg cycles instead of 10
+* The egg cycle values for Sand Cloak and Trash Cloak forms of Burmy and Wormadam are 1.5x higher than their Plant Cloak counterparts, since Burmy (plant) evolves into Burmy (sand) and Burmy (trash).  Similarly, Cherrim (sunshine) has 1.5x the egg cycle value of Cherrim (overcast)
+
+==Breeding Efficiency==
+'''Breeding Efficiency''' can be summarized as ‘how much Attack a Pokemon gains upon breeding’ divided by ‘how long it takes to breed that Pokemon’.  It is a useful value to know because one of the most important tasks in Pokéclicker is to [[Pokemon Day Care|breed your Pokemon]] to increase their Attack. Some Pokemon give a lot of Attack but take too long to breed, while others breed really quickly but give too little Attack.
+
+When bred, a Pokemon’s ‘Attack Bonus’ is 1/4 of their Base Attack plus 1 for every Protein they have been fed.  For example, a Pokemon with a Base Attack of 80 and 5 Protein would gain 20 + 5 = 25 Attack upon being bred.  When raised to level 100 again, they would have an Attack stat of 105 instead of 80.  Its Base Attack remains unchanged, however, so a second breeding would still give 25 Attack (for a new max of 130) instead of 26 + 5 = 31.
+
+Meanwhile, the amount of time it takes to breed a Pokemon is a simple reference to the number of Egg Cycles that they take to hatch.  Thus, the full equation for Breeding Efficiency is as follows:
+
+&lt;math&gt; \text{Breeding Efficiency} = \frac{(0.25*\text{Base Attack})+\text{Proteins used}}{\text{Egg Cycles}} &lt;/math&gt;
+
+If your goal is to grow your strength within a single region, you also need to account for the damage debuff for non-native Pokemon.  For more information, see [[Protein]].
+
+==Catch Rate==
+'''Catch Rate''' is a value specific to each species that determines the base odds of capture before in-game modifiers like [[Pokéballs|Pokéball]]type and the [[Magic Ball]] Oak Item.  The catch rate for each species is identical to the canonical value, with alternate forms using the same value as the base form.  In cases where the canonical catch rate has changed over time, such as Dialga’s catch rate changing from 30 to 3 in ORAS, the newer values are used.
+
+There are exceptions to this rule:
+* Flying Pikachu, Surfing Pikachu, Pikachu (Gengar), and Let’s Go Pikachu have a catch rate of 50 instead of 190
+* Eevee has a catch rate of 255 instead of 45
+* Let’s Go Eevee has a catch rate of 50 instead of 45
+* Spooky Togepi has a catch rate of 30 instead of 190
+* Spooky Bulbasaur has a catch rate of 25 instead of 45
+* Armored Mewtwo has a catch rate of 2 instead of 3
+
+To create the in-game base percentage, the catch rate is raised to the power of 0.75, rounded down, and then a random integer from -3 to +3 is added.
+
+The following graph shows the transformation from catch rate to in-game percentages, including the range created by the random integer but excluding the rounding for the sake of readability:
+
+[[File:Catch_Rate_Without_Rounding.png|frameless|upright 2]]
+
+The following graph includes the rounding and is thus a true representation of the formula transforming catch rate to in-game base percentages:
+
+[[File:Catch_Rate_With_Rounding.png|frameless|upright 2]]
+
+==Base EXP==
+'''Base EXP''' is a value specific to each species that is used to determine how much EXP they award when you defeat them in battle.  The EXP value for each Pokemon begins with the canonical ‘base experience yield’ value, with alternate forms using their canonical value when applicable and sharing the base form’s value otherwise.  The base experience yield used is then subject to a modifier:
+* The EXP value for third-stage Pokemon and Legendary Pokemon is 90% of the canonical value.
+
+Additionally, there are exceptions to this general rule:
+* Blissey gives 96% of its canonical EXP value instead of 90%
+* Slaking gives 88% of its canonical EXP value instead of 90%
+* Rotom’s base form has the same EXP value as its alternate forms instead of its canonical EXP value
+* Darmanitan has the same EXP value as its Zen Mode form instead of its canonical EXP value
+* Volcarona gives 90% of its canonical EXP value despite being neither third-stage nor Legendary
+* Talonflame gives 100% of its canonical EXP value despite being a third-stage Pokemon
+* Aegislash gives 94% of its canonical EXP value instead of 90%
+
+==Enemy Level==
+The '''Enemy Level''' of enemy wild Pokemon is generated according to the following formula:
+
+&lt;math&gt; \text{Wild Level} = \left\lfloor(\text{Route Order Number}*2) + (20*\text{region}^{2.3})\right\rfloor &lt;/math&gt;
+
+In which ‘Route Order Number’ is the order of the routes as determined by the code.  For more information, see [[Route Statistics]].
+
+{| class="wikitable"
+|+ Wild Pokemon Levels per Region
+|-
+! Region !! Routes !! Route Levels !! Region Levels !! Level Range
+|-
+| Kanto (0) || 1-25 || 2-50 || +0 || 2-50
+|-
+| Johto (1) || 26-48 || 52-96 || +20 || 72-116
+|-
+| Hoenn (2) || 49-82 || 98-164 || +98 || 196-262
+|-
+| Sinnoh (3) || 83-112 || 166-224 || +250 || 416-474
+|-
+| Unova (4) || 113-136 || 226-272 || +485 || 711-757
+|-
+| Kalos (5) || 137-159 || 274-318 || +810 || 1084-1128
+|}
+If you encounter a [[Roaming Pokémon]] on a route, it will have the same level as the other Pokemon on that route.
+
+In [[Dungeons]], the level of non-boss wild Pokemon is determined by the dungeon level, and the level of boss Pokemon is custom-specified.  Both dungeon level and boss Pokemon level vary from 0 to 100.
+
+Pokemon belonging to dungeon trainers (regular and boss trainers) have the same levels as their respective trainer battles in the games.
+
+Pokemon belonging to [[Gyms|Gym Leaders]] and associated boss fights have the same levels as their respective boss fights in the games.
+
+The level of Pokemon fought in the [[Battle Frontier]] is equal to the stage number you are on, with a minimum level of 100.
+
+==EXP Award==
+The '''EXP Award''' from a defeated Pokemon is calculated according to the following formula:
+
+&lt;math&gt; \text{EXP Award} = \frac{\text{Base EXP}*\text{level}*\text{Trainer Bonus}}{9} &lt;/math&gt;
+
+“Trainer Bonus” is 1.5x if you are fighting a Gym trainer, and 1.0x otherwise.  The resultant value may be further modified by in-game effects such as the [[EXP Share]] and [[Achievements]].
+
+==Leveling Rate==
+Just like in the games, different species level at different rates.  There are 6 different leveling rates, each with its own formula and EXP at level 100:
+* Fluctuating: 1,640,000 EXP at level 100
+* Slow: 1,250,000 EXP at level 100
+* Medium Slow: 1,059,860 EXP at level 100
+* Medium Fast: 1,000,000 EXP at level 100
+* Fast: 800,000 EXP at level 100
+* Erratic: 600,000 EXP at level 100
+Every Pokemon shares their canonical leveling rate and accordingly EXP needed for level 100.  For more information on how these EXP groups behave, see Bulbapedia’s [https://bulbapedia.bulbagarden.net/wiki/Experience article] on the subject.</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment>/* EXP Award */</comment>
+    <model>wikitext</model>
+    <parentid>13054</parentid>
+    <sha1>875c45c08d2a4da9f706e54eb8c0b1d1f2e84940</sha1>
+  </revision>
+  <revision>
+    <id>13054</id>
+    <timestamp>2021-10-17T23:38:39Z</timestamp>
+    <text bytes="10696" space="preserve">==Base Attack==
+The formula for a Pokemon’s '''Base Attack''' is loosely derived from Pokemon Go’s formula for CP.  It can be described through the following equations:
+
+&lt;math&gt;\\\text{base offense} = 2*\left[\sqrt{\text{Atk}*\text{SAtk}}+\sqrt{\text{Spe}}\right]
+\\
+\\\text{base defense} = 2*\left[\sqrt{\text{Def}*\text{SDef}}+\sqrt{\text{Spe}}\right]
+\\
+\\\text{base stamina} = 2*\text{HP}
+\\
+\\ \text{Base Attack}=\text{max}\left(10,\left\lfloor\sqrt{\text{base defense} * \text{base stamina}}*\frac{\text{base offense}}{250}\right\rfloor\right) &lt;/math&gt;
+
+Or, depicted as a single equation:
+
+&lt;math&gt; \text{Base Attack}=\text{max}\left(10,\left\lfloor\sqrt{2*\left[\sqrt{\text{Def}*\text{SDef}}+\sqrt{\text{Spe}}\right] * (2*\text{HP})}*\frac{2*\left[\sqrt{\text{Atk}*\text{SAtk}}+\sqrt{\text{Spe}}\right]}{250}\right\rfloor\right) &lt;/math&gt;
+
+This can be graphically represented by holding every stat except one at the same value, allowing us to track how the Base Attack changes as a function of that stat.  The following graph shows the Base Attack for each stat when all others are held at 60:
+
+[[File:Base_Attack_At_60.png|frameless|upright 2]]
+
+Generally speaking, the steeper a curve is the more impact an increase in that stat has on the Base Attack.  For example, it takes much more Speed than HP to increase the Base Attack by 1, and accordingly Pokemon with high Speed but low HP will have lower Base Attack than Pokemon with high HP but low Speed.
+
+To visualize the effect of the overall BST on the results, the following graph shows the Base Attack for each stat when all other stats are held at 100:
+
+[[File:Base_Attack_At_100.png|frameless|upright 2]]
+
+In addition to the curves meeting at a higher Base Attack, they’re somewhat steeper across the board.  This indicates that the higher a Pokemon’s BST the more valuable each stat point is, leading to an even greater Base Attack.
+
+==Attack==
+When first caught, a Pokemon will at level 100 have an '''Attack''' stat equal to their '''Base Attack'''.  Beneath level 100, their Attack scales linearly from 0 to their maximum Attack.  However, at no point may a Pokemon’s Attack be less than 1.
+
+A Pokemon’s Attack stat may contribute less to your total Attack depending on which Region you are in.  For more information, see [[Regions]].
+
+==Click Attack==
+'''Click Attack''' is determined by the number of Pokemon you’ve caught, the number of [[Shinies|shiny Pokemon]] you’ve caught, and your [[Achievements|Achievement Bonus]], according to the following formula:
+
+&lt;math&gt; (\text{Pokemon} + 0.5(\text{Shinies}) + 1)^{1.4}*(1+\text{Achievement Bonus}) &lt;/math&gt;
+
+[[Pokémon_with_Alternate_Forms|Alternate forms]] count, both for the number of Pokemon and the number of Shinies.  Any Pokémon that has an entry in your [[List of Pokémon with attack|List of Pokémon]] contributes.
+
+==Egg Cycles==
+'''Egg Cycles''' is a value specific to each species that determines how many steps they need in order to hatch, with each egg cycle corresponding to 40 steps.  The egg cycle value for each species begins with the canonical value, with alternate forms using the same value as the base form, and is subject to few modifiers:
+* An evolved Pokemon’s egg cycle value is 1.5 times the egg cycle value of their pre-evolved form.  In the case of third-stage Pokemon, their egg cycle value is 1.5 times the egg cycle value of the second-stage Pokemon
+* A baby Pokemon’s egg cycle value is 0.8 times the egg cycle value of the base species
+* There is a hard cap of 120 egg cycles, equaling 4800 steps, after all factors have been accounted for
+
+There are exceptions to this rule:
+* Flying Pikachu, Surfing Pikachu, Pikachu (Gengar), and Let’s Go Pikachu all require 20 egg cycles instead of 10
+* Heatran requires 80 egg cycles instead of 10
+* The egg cycle values for Sand Cloak and Trash Cloak forms of Burmy and Wormadam are 1.5x higher than their Plant Cloak counterparts, since Burmy (plant) evolves into Burmy (sand) and Burmy (trash).  Similarly, Cherrim (sunshine) has 1.5x the egg cycle value of Cherrim (overcast)
+
+==Breeding Efficiency==
+'''Breeding Efficiency''' can be summarized as ‘how much Attack a Pokemon gains upon breeding’ divided by ‘how long it takes to breed that Pokemon’.  It is a useful value to know because one of the most important tasks in Pokéclicker is to [[Pokemon Day Care|breed your Pokemon]] to increase their Attack. Some Pokemon give a lot of Attack but take too long to breed, while others breed really quickly but give too little Attack.
+
+When bred, a Pokemon’s ‘Attack Bonus’ is 1/4 of their Base Attack plus 1 for every Protein they have been fed.  For example, a Pokemon with a Base Attack of 80 and 5 Protein would gain 20 + 5 = 25 Attack upon being bred.  When raised to level 100 again, they would have an Attack stat of 105 instead of 80.  Its Base Attack remains unchanged, however, so a second breeding would still give 25 Attack (for a new max of 130) instead of 26 + 5 = 31.
+
+Meanwhile, the amount of time it takes to breed a Pokemon is a simple reference to the number of Egg Cycles that they take to hatch.  Thus, the full equation for Breeding Efficiency is as follows:
+
+&lt;math&gt; \text{Breeding Efficiency} = \frac{(0.25*\text{Base Attack})+\text{Proteins used}}{\text{Egg Cycles}} &lt;/math&gt;
+
+If your goal is to grow your strength within a single region, you also need to account for the damage debuff for non-native Pokemon.  For more information, see [[Protein]].
+
+==Catch Rate==
+'''Catch Rate''' is a value specific to each species that determines the base odds of capture before in-game modifiers like [[Pokéballs|Pokéball]]type and the [[Magic Ball]] Oak Item.  The catch rate for each species is identical to the canonical value, with alternate forms using the same value as the base form.  In cases where the canonical catch rate has changed over time, such as Dialga’s catch rate changing from 30 to 3 in ORAS, the newer values are used.
+
+There are exceptions to this rule:
+* Flying Pikachu, Surfing Pikachu, Pikachu (Gengar), and Let’s Go Pikachu have a catch rate of 50 instead of 190
+* Eevee has a catch rate of 255 instead of 45
+* Let’s Go Eevee has a catch rate of 50 instead of 45
+* Spooky Togepi has a catch rate of 30 instead of 190
+* Spooky Bulbasaur has a catch rate of 25 instead of 45
+* Armored Mewtwo has a catch rate of 2 instead of 3
+
+To create the in-game base percentage, the catch rate is raised to the power of 0.75, rounded down, and then a random integer from -3 to +3 is added.
+
+The following graph shows the transformation from catch rate to in-game percentages, including the range created by the random integer but excluding the rounding for the sake of readability:
+
+[[File:Catch_Rate_Without_Rounding.png|frameless|upright 2]]
+
+The following graph includes the rounding and is thus a true representation of the formula transforming catch rate to in-game base percentages:
+
+[[File:Catch_Rate_With_Rounding.png|frameless|upright 2]]
+
+==Base EXP==
+'''Base EXP''' is a value specific to each species that is used to determine how much EXP they award when you defeat them in battle.  The EXP value for each Pokemon begins with the canonical ‘base experience yield’ value, with alternate forms using their canonical value when applicable and sharing the base form’s value otherwise.  The base experience yield used is then subject to a modifier:
+* The EXP value for third-stage Pokemon and Legendary Pokemon is 90% of the canonical value.
+
+Additionally, there are exceptions to this general rule:
+* Blissey gives 96% of its canonical EXP value instead of 90%
+* Slaking gives 88% of its canonical EXP value instead of 90%
+* Rotom’s base form has the same EXP value as its alternate forms instead of its canonical EXP value
+* Darmanitan has the same EXP value as its Zen Mode form instead of its canonical EXP value
+* Volcarona gives 90% of its canonical EXP value despite being neither third-stage nor Legendary
+* Talonflame gives 100% of its canonical EXP value despite being a third-stage Pokemon
+* Aegislash gives 94% of its canonical EXP value instead of 90%
+
+==Enemy Level==
+The '''Enemy Level''' of enemy wild Pokemon is generated according to the following formula:
+
+&lt;math&gt; \text{Wild Level} = \left\lfloor(\text{Route Order Number}*2) + (20*\text{region}^{2.3})\right\rfloor &lt;/math&gt;
+
+In which ‘Route Order Number’ is the order of the routes as determined by the code.  For more information, see [[Route Statistics]].
+
+{| class="wikitable"
+|+ Wild Pokemon Levels per Region
+|-
+! Region !! Routes !! Route Levels !! Region Levels !! Level Range
+|-
+| Kanto (0) || 1-25 || 2-50 || +0 || 2-50
+|-
+| Johto (1) || 26-48 || 52-96 || +20 || 72-116
+|-
+| Hoenn (2) || 49-82 || 98-164 || +98 || 196-262
+|-
+| Sinnoh (3) || 83-112 || 166-224 || +250 || 416-474
+|-
+| Unova (4) || 113-136 || 226-272 || +485 || 711-757
+|-
+| Kalos (5) || 137-159 || 274-318 || +810 || 1084-1128
+|}
+If you encounter a [[Roaming Pokémon]] on a route, it will have the same level as the other Pokemon on that route.
+
+In [[Dungeons]], the level of non-boss wild Pokemon is determined by the dungeon level, and the level of boss Pokemon is custom-specified.  Both dungeon level and boss Pokemon level vary from 0 to 100.
+
+Pokemon belonging to dungeon trainers (regular and boss trainers) have the same levels as their respective trainer battles in the games.
+
+Pokemon belonging to [[Gyms|Gym Leaders]] and associated boss fights have the same levels as their respective boss fights in the games.
+
+The level of Pokemon fought in the [[Battle Frontier]] is equal to the stage number you are on, with a minimum level of 100.
+
+==EXP Award==
+The '''EXP Award''' from a defeated Pokemon is calculated according to the following formula:
+
+&lt;math&gt; \text{EXP Award} = \frac{\text{Base EXP}*\text{level}*\text{Trainer Bonus}}{9} &lt;/math&gt;
+
+“Trainer Bonus” is 1.5x if you are fighting a Gym trainer, and 1.0x otherwise.  The resultant value may be further modified by in-game effects such as the [[EXP Share]].
+
+==Leveling Rate==
+Just like in the games, different species level at different rates.  There are 6 different leveling rates, each with its own formula and EXP at level 100:
+* Fluctuating: 1,640,000 EXP at level 100
+* Slow: 1,250,000 EXP at level 100
+* Medium Slow: 1,059,860 EXP at level 100
+* Medium Fast: 1,000,000 EXP at level 100
+* Fast: 800,000 EXP at level 100
+* Erratic: 600,000 EXP at level 100
+Every Pokemon shares their canonical leveling rate and accordingly EXP needed for level 100.  For more information on how these EXP groups behave, see Bulbapedia’s [https://bulbapedia.bulbagarden.net/wiki/Experience article] on the subject.</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment>Jk13 moved page [[Pokemon Statistics]] to [[Pokémon Statistics]]</comment>
+    <model>wikitext</model>
+    <parentid>13053</parentid>
+    <sha1>55f00e5cc8d733a3f765c763e1bb7b6ca4c50e15</sha1>
+  </revision>
+</page>

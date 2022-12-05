@@ -1,0 +1,725 @@
+<page>
+  <title>Qualot/fr</title>
+  <ns>0</ns>
+  <id>8212</id>
+  <revision>
+    <id>23087</id>
+    <timestamp>2022-08-10T23:47:17Z</timestamp>
+    <text bytes="6481" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #23 Qualot
+|image   = [[File:Qualot.png]]
+|caption = La plante de cette Baie n'a aucun mal à pousser en région pluvieuse ou en terrain humide. Elle est pleine de vitalité.
+|growtime  = 1h 20m 0s
+|harvest = 22 baies
+|replant = 20%
+|mutation = 0.05%
+|points = 550
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*10 épicée 
+*0 sèche
+*10 sucrée
+*0 amère
+*10 acide
+}}
+
+'''Qualot''' est un type de [[Berries/fr|Baie]] qui peut être plantée dans la [[Farm/fr|Ferme]]. Elle s'obtient en entourant une parcelle vide avec au moins 10, mais pas plus de 15 points de saveur épicée, sucrée et acide et 0 points de toute autre saveur. Les baies [[Cheri/fr|Ceriz]], [[Pecha/fr|Pêcha]] et [[Aspear/fr|Willia]] doivent avoir été débloquées afin d'obtenir cette baie.
+
+== Tables de croissance ==
+=== Stades de croissance ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Pousse !! Arbuste !! Fleuri !! Mûr
+|-
+! Temps écoulé depuis plantation
+| 3 mins 50 secs || 16 mins 40 secs || 41 mins 40 secs || 1 heure 20 mins - 2 heures 40 mins
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:QualotTreeTaller.png|50px]] || &lt;center&gt;[[File:QualotTreeBloom.png|50px]] || &lt;center&gt; [[File:QualotTreeBerry.png|50px]]
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+=== Ripening Time with Modifiers  ===
+{| class="wikitable" | style="text-align: center;"
+! Modifier !! Ripe-Wither Time !! Boost Mulch Needed to Ripen
+|-
+! None
+| 1 hour 20 mins -&lt;br&gt; 2 hours 40 mins || ---
+|-
+! Mulch/Sprayduck
+| 53 mins 20 secs -&lt;br&gt; 1 hour 46 mins 40 secs || 11 mulch
+|-
+! Mulch*Sprayduck
+| 35 mins 33 secs -&lt;br&gt; 1 hour 11 mins 6 secs || 8 mulch
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Flow Chart ==
+[[File:Qualot_Flow_Chart.png|500px]]
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Mutation Strategy ==
+=== Possible Planting Formations ===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+You can fill your farm in the following ways to obtain Qualot berries. Purple squares indicate where mutations can occur.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Base Formation
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Pinap.png|30px]] [[Pinap]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Mago.png|30px]] [[Mago]]
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Optimized Planting Formation
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Pinap.png|30px]] [[Pinap]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Pinap.png|30px]] [[Pinap]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Mago.png|30px]] [[Mago]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Mago.png|30px]] [[Mago]] 
+|- style="height: 50px; background-color:#9C7D98;"
+| || || || || 
+|-
+| [[File:Pinap.png|30px]] [[Pinap]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Pinap.png|30px]] [[Pinap]] || style="background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Mago.png|30px]] [[Mago]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Mago.png|30px]] [[Mago]] 
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Base Formation
+|- style="height: 50px;"
+| style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Cheri.png|30px]]&lt;br&gt;[[Cheri]]
+|-
+| style="width: 40px;" | [[File:Pecha.png|30px]] [[Pecha]] || [[File:Aspear.png|30px]] [[Aspear]]
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Optimized Planting Formation
+|- style="height: 50px;"
+| style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Cheri.png|30px]]&lt;br&gt;[[Cheri]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Cheri.png|30px]]&lt;br&gt;[[Cheri]]
+|-style="height: 50px;"
+| [[File:Pecha.png|30px]] [[Pecha]] || [[File:Aspear.png|30px]] [[Aspear]] || style="background-color:#9C7D98;" | || [[File:Pecha.png|30px]] [[Pecha]] || [[File:Aspear.png|30px]] [[Aspear]] 
+|- style="height: 50px; background-color:#9C7D98;"
+| || || || || 
+|- style="height: 50px;"
+| style="background-color:#9C7D98;" | || [[File:Cheri.png|30px]]&lt;br&gt;[[Cheri]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Cheri.png|30px]]&lt;br&gt;[[Cheri]] 
+|-
+| [[File:Pecha.png|30px]] [[Pecha]] || [[File:Aspear.png|30px]] [[Aspear]] || style="background-color:#9C7D98;" | || [[File:Pecha.png|30px]] [[Pecha]] || [[File:Aspear.png|30px]] [[Aspear]] 
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+=== Timing Table ===
+{| class="wikitable"| style="text-align: center;"
+|+ ''All planting times use the time-to-ripe remaining of the first planted berry for subsequent planting times''
+! Berry !! Planting Time with &lt;br&gt; No Modifier !! Planting Time with &lt;br&gt; Mulch or Sprayduck || Planting Time with &lt;br&gt;  Mulch &amp; Sprayduck
+|-
+| [[Aspear]] || - || - || -
+|-
+| [[Pecha]] || 1 min until ripe || 40 secs until ripe || Not Practical
+|-
+| [[Cheri]] || 30 secs until ripe || 20 secs until ripe || Not Practical
+|-
+| colspan=4|'''''OR'''''
+|-
+| [[Mago]] || - || - || -
+|-
+| [[Pinap]] || 4 mins until ripe || 2 mins 40 secs until ripe || Not Practical
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Uses==
+===Mutations===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Qualot berries can be used to mutate the following berries.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Wacan.png|20px]] [[Wacan]] || [[File:Pinap.png|20px]] [[Pinap]] &lt;br&gt; [[File:Iapapa.png|20px]] [[Iapapa]] &lt;br&gt; [[File:Grepa.png|20px]] [[Grepa]]
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>LuK</username>
+      <id>96</id>
+    </contributor>
+    <comment>Created page with "== Tables de croissance == === Stades de croissance === {| class="wikitable" | style = "image-rendering: pixelated" ! !! Pousse !! Arbuste !! Fleuri !! Mûr |- ! Temps écoulé depuis plantation | 3 mins 50 secs || 16 mins 40 secs || 41 mins 40 secs || 1 heure 20 mins - 2 heures 40 mins |- ! Animation | &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:QualotTreeTaller.png|50px]] || &lt;center&gt;[[File:QualotTreeBloom.png|50px]] || &lt;center&gt; File:QualotTreeBerry.pn..."</comment>
+    <model>wikitext</model>
+    <parentid>23086</parentid>
+    <sha1>ebe7e8455c0f587b6f9d288fdc2e5d515f4c10c0</sha1>
+  </revision>
+  <revision>
+    <id>23086</id>
+    <timestamp>2022-08-10T23:45:52Z</timestamp>
+    <text bytes="6514" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #23 Qualot
+|image   = [[File:Qualot.png]]
+|caption = La plante de cette Baie n'a aucun mal à pousser en région pluvieuse ou en terrain humide. Elle est pleine de vitalité.
+|growtime  = 1h 20m 0s
+|harvest = 22 baies
+|replant = 20%
+|mutation = 0.05%
+|points = 550
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*10 épicée 
+*0 sèche
+*10 sucrée
+*0 amère
+*10 acide
+}}
+
+'''Qualot''' est un type de [[Berries/fr|Baie]] qui peut être plantée dans la [[Farm/fr|Ferme]]. Elle s'obtient en entourant une parcelle vide avec au moins 10, mais pas plus de 15 points de saveur épicée, sucrée et acide et 0 points de toute autre saveur. Les baies [[Cheri/fr|Ceriz]], [[Pecha/fr|Pêcha]] et [[Aspear/fr|Willia]] doivent avoir été débloquées afin d'obtenir cette baie.
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Growth Tables ==
+=== Growth Stages ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 3 mins 50 secs || 16 mins 40 secs || 41 mins 40 secs || 1 hour 20 mins - 2 hours 40 mins
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:QualotTreeTaller.png|50px]] || &lt;center&gt;[[File:QualotTreeBloom.png|50px]] || &lt;center&gt; [[File:QualotTreeBerry.png|50px]]
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+=== Ripening Time with Modifiers  ===
+{| class="wikitable" | style="text-align: center;"
+! Modifier !! Ripe-Wither Time !! Boost Mulch Needed to Ripen
+|-
+! None
+| 1 hour 20 mins -&lt;br&gt; 2 hours 40 mins || ---
+|-
+! Mulch/Sprayduck
+| 53 mins 20 secs -&lt;br&gt; 1 hour 46 mins 40 secs || 11 mulch
+|-
+! Mulch*Sprayduck
+| 35 mins 33 secs -&lt;br&gt; 1 hour 11 mins 6 secs || 8 mulch
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Flow Chart ==
+[[File:Qualot_Flow_Chart.png|500px]]
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Mutation Strategy ==
+=== Possible Planting Formations ===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+You can fill your farm in the following ways to obtain Qualot berries. Purple squares indicate where mutations can occur.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Base Formation
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Pinap.png|30px]] [[Pinap]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Mago.png|30px]] [[Mago]]
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Optimized Planting Formation
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Pinap.png|30px]] [[Pinap]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Pinap.png|30px]] [[Pinap]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Mago.png|30px]] [[Mago]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Mago.png|30px]] [[Mago]] 
+|- style="height: 50px; background-color:#9C7D98;"
+| || || || || 
+|-
+| [[File:Pinap.png|30px]] [[Pinap]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Pinap.png|30px]] [[Pinap]] || style="background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Mago.png|30px]] [[Mago]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Mago.png|30px]] [[Mago]] 
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Base Formation
+|- style="height: 50px;"
+| style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Cheri.png|30px]]&lt;br&gt;[[Cheri]]
+|-
+| style="width: 40px;" | [[File:Pecha.png|30px]] [[Pecha]] || [[File:Aspear.png|30px]] [[Aspear]]
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Optimized Planting Formation
+|- style="height: 50px;"
+| style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Cheri.png|30px]]&lt;br&gt;[[Cheri]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Cheri.png|30px]]&lt;br&gt;[[Cheri]]
+|-style="height: 50px;"
+| [[File:Pecha.png|30px]] [[Pecha]] || [[File:Aspear.png|30px]] [[Aspear]] || style="background-color:#9C7D98;" | || [[File:Pecha.png|30px]] [[Pecha]] || [[File:Aspear.png|30px]] [[Aspear]] 
+|- style="height: 50px; background-color:#9C7D98;"
+| || || || || 
+|- style="height: 50px;"
+| style="background-color:#9C7D98;" | || [[File:Cheri.png|30px]]&lt;br&gt;[[Cheri]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Cheri.png|30px]]&lt;br&gt;[[Cheri]] 
+|-
+| [[File:Pecha.png|30px]] [[Pecha]] || [[File:Aspear.png|30px]] [[Aspear]] || style="background-color:#9C7D98;" | || [[File:Pecha.png|30px]] [[Pecha]] || [[File:Aspear.png|30px]] [[Aspear]] 
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+=== Timing Table ===
+{| class="wikitable"| style="text-align: center;"
+|+ ''All planting times use the time-to-ripe remaining of the first planted berry for subsequent planting times''
+! Berry !! Planting Time with &lt;br&gt; No Modifier !! Planting Time with &lt;br&gt; Mulch or Sprayduck || Planting Time with &lt;br&gt;  Mulch &amp; Sprayduck
+|-
+| [[Aspear]] || - || - || -
+|-
+| [[Pecha]] || 1 min until ripe || 40 secs until ripe || Not Practical
+|-
+| [[Cheri]] || 30 secs until ripe || 20 secs until ripe || Not Practical
+|-
+| colspan=4|'''''OR'''''
+|-
+| [[Mago]] || - || - || -
+|-
+| [[Pinap]] || 4 mins until ripe || 2 mins 40 secs until ripe || Not Practical
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Uses==
+===Mutations===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Qualot berries can be used to mutate the following berries.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Wacan.png|20px]] [[Wacan]] || [[File:Pinap.png|20px]] [[Pinap]] &lt;br&gt; [[File:Iapapa.png|20px]] [[Iapapa]] &lt;br&gt; [[File:Grepa.png|20px]] [[Grepa]]
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>LuK</username>
+      <id>96</id>
+    </contributor>
+    <comment>Created page with "'''Qualot''' est un type de [[Berries/fr|Baie]] qui peut être plantée dans la [[Farm/fr|Ferme]]. Elle s'obtient en entourant une parcelle vide avec au moins 10, mais pas plus de 15 points de saveur épicée, sucrée et acide et 0 points de toute autre saveur. Les baies [[Cheri/fr|Ceriz]], [[Pecha/fr|Pêcha]] et [[Aspear/fr|Willia]] doivent avoir été débloquées afin d'obtenir cette baie."</comment>
+    <model>wikitext</model>
+    <parentid>23085</parentid>
+    <sha1>114b389537e16b1f06d70649d397eed60409deea</sha1>
+  </revision>
+  <revision>
+    <id>23085</id>
+    <timestamp>2022-08-10T23:41:14Z</timestamp>
+    <text bytes="6496" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #23 Qualot
+|image   = [[File:Qualot.png]]
+|caption = La plante de cette Baie n'a aucun mal à pousser en région pluvieuse ou en terrain humide. Elle est pleine de vitalité.
+|growtime  = 1h 20m 0s
+|harvest = 22 baies
+|replant = 20%
+|mutation = 0.05%
+|points = 550
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*10 épicée 
+*0 sèche
+*10 sucrée
+*0 amère
+*10 acide
+}}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+'''Qualot''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by surrounding an empty plot with at least 10, but no more than 15 points of spicy, sweet and sour and 0 points of all other flavours. The [[Cheri]], [[Pecha]] and [[Aspear]] berries must be unlocked to obtain this berry.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Growth Tables ==
+=== Growth Stages ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 3 mins 50 secs || 16 mins 40 secs || 41 mins 40 secs || 1 hour 20 mins - 2 hours 40 mins
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:QualotTreeTaller.png|50px]] || &lt;center&gt;[[File:QualotTreeBloom.png|50px]] || &lt;center&gt; [[File:QualotTreeBerry.png|50px]]
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+=== Ripening Time with Modifiers  ===
+{| class="wikitable" | style="text-align: center;"
+! Modifier !! Ripe-Wither Time !! Boost Mulch Needed to Ripen
+|-
+! None
+| 1 hour 20 mins -&lt;br&gt; 2 hours 40 mins || ---
+|-
+! Mulch/Sprayduck
+| 53 mins 20 secs -&lt;br&gt; 1 hour 46 mins 40 secs || 11 mulch
+|-
+! Mulch*Sprayduck
+| 35 mins 33 secs -&lt;br&gt; 1 hour 11 mins 6 secs || 8 mulch
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Flow Chart ==
+[[File:Qualot_Flow_Chart.png|500px]]
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Mutation Strategy ==
+=== Possible Planting Formations ===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+You can fill your farm in the following ways to obtain Qualot berries. Purple squares indicate where mutations can occur.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Base Formation
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Pinap.png|30px]] [[Pinap]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Mago.png|30px]] [[Mago]]
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Optimized Planting Formation
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Pinap.png|30px]] [[Pinap]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Pinap.png|30px]] [[Pinap]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Mago.png|30px]] [[Mago]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Mago.png|30px]] [[Mago]] 
+|- style="height: 50px; background-color:#9C7D98;"
+| || || || || 
+|-
+| [[File:Pinap.png|30px]] [[Pinap]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Pinap.png|30px]] [[Pinap]] || style="background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Mago.png|30px]] [[Mago]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Mago.png|30px]] [[Mago]] 
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Base Formation
+|- style="height: 50px;"
+| style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Cheri.png|30px]]&lt;br&gt;[[Cheri]]
+|-
+| style="width: 40px;" | [[File:Pecha.png|30px]] [[Pecha]] || [[File:Aspear.png|30px]] [[Aspear]]
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Optimized Planting Formation
+|- style="height: 50px;"
+| style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Cheri.png|30px]]&lt;br&gt;[[Cheri]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Cheri.png|30px]]&lt;br&gt;[[Cheri]]
+|-style="height: 50px;"
+| [[File:Pecha.png|30px]] [[Pecha]] || [[File:Aspear.png|30px]] [[Aspear]] || style="background-color:#9C7D98;" | || [[File:Pecha.png|30px]] [[Pecha]] || [[File:Aspear.png|30px]] [[Aspear]] 
+|- style="height: 50px; background-color:#9C7D98;"
+| || || || || 
+|- style="height: 50px;"
+| style="background-color:#9C7D98;" | || [[File:Cheri.png|30px]]&lt;br&gt;[[Cheri]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Cheri.png|30px]]&lt;br&gt;[[Cheri]] 
+|-
+| [[File:Pecha.png|30px]] [[Pecha]] || [[File:Aspear.png|30px]] [[Aspear]] || style="background-color:#9C7D98;" | || [[File:Pecha.png|30px]] [[Pecha]] || [[File:Aspear.png|30px]] [[Aspear]] 
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+=== Timing Table ===
+{| class="wikitable"| style="text-align: center;"
+|+ ''All planting times use the time-to-ripe remaining of the first planted berry for subsequent planting times''
+! Berry !! Planting Time with &lt;br&gt; No Modifier !! Planting Time with &lt;br&gt; Mulch or Sprayduck || Planting Time with &lt;br&gt;  Mulch &amp; Sprayduck
+|-
+| [[Aspear]] || - || - || -
+|-
+| [[Pecha]] || 1 min until ripe || 40 secs until ripe || Not Practical
+|-
+| [[Cheri]] || 30 secs until ripe || 20 secs until ripe || Not Practical
+|-
+| colspan=4|'''''OR'''''
+|-
+| [[Mago]] || - || - || -
+|-
+| [[Pinap]] || 4 mins until ripe || 2 mins 40 secs until ripe || Not Practical
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Uses==
+===Mutations===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Qualot berries can be used to mutate the following berries.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Wacan.png|20px]] [[Wacan]] || [[File:Pinap.png|20px]] [[Pinap]] &lt;br&gt; [[File:Iapapa.png|20px]] [[Iapapa]] &lt;br&gt; [[File:Grepa.png|20px]] [[Grepa]]
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>LuK</username>
+      <id>96</id>
+    </contributor>
+    <comment>Created page with "{{Infobox Berry |name    = #23 Qualot |image   = [[File:Qualot.png]] |caption = La plante de cette Baie n'a aucun mal à pousser en région pluvieuse ou en terrain humide. Elle est pleine de vitalité. |growtime  = 1h 20m 0s |harvest = 22 baies |replant = 20% |mutation = 0.05% |points = 550 |flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt; *10 épicée  *0 sèche *10 sucrée *0 amère *10 acide }}"</comment>
+    <model>wikitext</model>
+    <parentid>23084</parentid>
+    <sha1>08c18038b264d374c346bab8cf3f49184271e22d</sha1>
+  </revision>
+  <revision>
+    <id>23084</id>
+    <timestamp>2022-08-10T23:40:02Z</timestamp>
+    <text bytes="6519" space="preserve">&lt;languages/&gt;
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Infobox Berry
+|name    = #23 Qualot
+|image   = [[File:Qualot.png]]
+|caption = Even in places of constant rain and high humidity, this Berry's plant grows healthy and strong.
+|growtime  = 1h 20m 0s
+|harvest = 22 berries
+|replant = 20%
+|mutation = 0.05%
+|points = 550
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*10 spicy 
+*0 dry
+*10 sweet
+*0 bitter
+*10 sour
+}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+'''Qualot''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by surrounding an empty plot with at least 10, but no more than 15 points of spicy, sweet and sour and 0 points of all other flavours. The [[Cheri]], [[Pecha]] and [[Aspear]] berries must be unlocked to obtain this berry.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Growth Tables ==
+=== Growth Stages ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 3 mins 50 secs || 16 mins 40 secs || 41 mins 40 secs || 1 hour 20 mins - 2 hours 40 mins
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:QualotTreeTaller.png|50px]] || &lt;center&gt;[[File:QualotTreeBloom.png|50px]] || &lt;center&gt; [[File:QualotTreeBerry.png|50px]]
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+=== Ripening Time with Modifiers  ===
+{| class="wikitable" | style="text-align: center;"
+! Modifier !! Ripe-Wither Time !! Boost Mulch Needed to Ripen
+|-
+! None
+| 1 hour 20 mins -&lt;br&gt; 2 hours 40 mins || ---
+|-
+! Mulch/Sprayduck
+| 53 mins 20 secs -&lt;br&gt; 1 hour 46 mins 40 secs || 11 mulch
+|-
+! Mulch*Sprayduck
+| 35 mins 33 secs -&lt;br&gt; 1 hour 11 mins 6 secs || 8 mulch
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Flow Chart ==
+[[File:Qualot_Flow_Chart.png|500px]]
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Mutation Strategy ==
+=== Possible Planting Formations ===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+You can fill your farm in the following ways to obtain Qualot berries. Purple squares indicate where mutations can occur.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Base Formation
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Pinap.png|30px]] [[Pinap]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Mago.png|30px]] [[Mago]]
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Optimized Planting Formation
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Pinap.png|30px]] [[Pinap]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Pinap.png|30px]] [[Pinap]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Mago.png|30px]] [[Mago]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Mago.png|30px]] [[Mago]] 
+|- style="height: 50px; background-color:#9C7D98;"
+| || || || || 
+|-
+| [[File:Pinap.png|30px]] [[Pinap]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Pinap.png|30px]] [[Pinap]] || style="background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Mago.png|30px]] [[Mago]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Mago.png|30px]] [[Mago]] 
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Base Formation
+|- style="height: 50px;"
+| style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Cheri.png|30px]]&lt;br&gt;[[Cheri]]
+|-
+| style="width: 40px;" | [[File:Pecha.png|30px]] [[Pecha]] || [[File:Aspear.png|30px]] [[Aspear]]
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Optimized Planting Formation
+|- style="height: 50px;"
+| style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Cheri.png|30px]]&lt;br&gt;[[Cheri]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Cheri.png|30px]]&lt;br&gt;[[Cheri]]
+|-style="height: 50px;"
+| [[File:Pecha.png|30px]] [[Pecha]] || [[File:Aspear.png|30px]] [[Aspear]] || style="background-color:#9C7D98;" | || [[File:Pecha.png|30px]] [[Pecha]] || [[File:Aspear.png|30px]] [[Aspear]] 
+|- style="height: 50px; background-color:#9C7D98;"
+| || || || || 
+|- style="height: 50px;"
+| style="background-color:#9C7D98;" | || [[File:Cheri.png|30px]]&lt;br&gt;[[Cheri]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Cheri.png|30px]]&lt;br&gt;[[Cheri]] 
+|-
+| [[File:Pecha.png|30px]] [[Pecha]] || [[File:Aspear.png|30px]] [[Aspear]] || style="background-color:#9C7D98;" | || [[File:Pecha.png|30px]] [[Pecha]] || [[File:Aspear.png|30px]] [[Aspear]] 
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+=== Timing Table ===
+{| class="wikitable"| style="text-align: center;"
+|+ ''All planting times use the time-to-ripe remaining of the first planted berry for subsequent planting times''
+! Berry !! Planting Time with &lt;br&gt; No Modifier !! Planting Time with &lt;br&gt; Mulch or Sprayduck || Planting Time with &lt;br&gt;  Mulch &amp; Sprayduck
+|-
+| [[Aspear]] || - || - || -
+|-
+| [[Pecha]] || 1 min until ripe || 40 secs until ripe || Not Practical
+|-
+| [[Cheri]] || 30 secs until ripe || 20 secs until ripe || Not Practical
+|-
+| colspan=4|'''''OR'''''
+|-
+| [[Mago]] || - || - || -
+|-
+| [[Pinap]] || 4 mins until ripe || 2 mins 40 secs until ripe || Not Practical
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Uses==
+===Mutations===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Qualot berries can be used to mutate the following berries.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Wacan.png|20px]] [[Wacan]] || [[File:Pinap.png|20px]] [[Pinap]] &lt;br&gt; [[File:Iapapa.png|20px]] [[Iapapa]] &lt;br&gt; [[File:Grepa.png|20px]] [[Grepa]]
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>LuK</username>
+      <id>96</id>
+    </contributor>
+    <comment>Created page with "Qualot"</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>5d9812c605c54ade5aeb1a3d717c55443e543d40</sha1>
+  </revision>
+</page>

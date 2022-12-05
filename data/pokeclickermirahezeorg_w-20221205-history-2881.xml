@@ -1,0 +1,545 @@
+<page>
+  <title>Pinap/es</title>
+  <ns>0</ns>
+  <id>7468</id>
+  <revision>
+    <id>21382</id>
+    <timestamp>2022-08-01T21:33:45Z</timestamp>
+    <text bytes="4650" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #14 Pinia (Pinap)
+|image   = [[File:Pinap.png]]
+|caption = Tiene una piel ácida y dicen que, si se pela, se puede reducir a polvo para elaborar una medicina.
+|growtime  = 4m 0s
+|harvest = 13 bayas
+|replant = 40%
+|mutation = 1.5%
+|points = 35
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*10 picante
+*0 seco
+*0 dulce
+*0 amargo
+*10 ácido
+}}
+
+'''Pinia (Pinap)''' es un tipo de [[Berries|baya]] que puede ser plantada en la [[Farm|granja]]. Se puede obtener rodeando una parcela vacía con al menos 1 baya [[Sitrus|Zidra (Sitrus)]] y al menos 1 baya [[Aspear|Perasi (Aspear)]].
+
+== Tablas de Crecimiento ==
+=== Estados de Crecimiento ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+!!! Brote !! Crecimiento !! Floración !! Madurez
+|-
+! Tiempo pasado desde que se planta
+| 30 seg || 1 min || 3 mins || 4 mins - 8 mins
+|-
+! Animación
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:PinapTreeTaller.png|50px]] || &lt;center&gt;[[File:PinapTreeBloom.png|50px]] || &lt;center&gt; [[File:PinapTreeBerry.png|50px]]
+|}
+
+=== Tiempos de Maduración con modificadores ===
+{| class="wikitable" | style="text-align: center;"
+! Modificador !! Tiempo hasta la madurez-marchitado
+|-
+! Ninguno
+| 4 min -&lt;br&gt; 8 min
+|-
+! Psydugadera
+| 2 min 40 seg -&lt;br&gt; 5 min 20 seg
+|}
+
+== Diagrama de Flujo ==
+[[File:Pinap_Flow_Chart.png|200px]]
+&lt;br&gt;
+'''Leyenda:'''&lt;br&gt;
+· Random Drop: Obtenido aleatoriamente en ruta
+
+== Estrategia de mutación ==
+=== Posibles formaciones ===
+
+Puedes llenar tu granja del siguiente modo para obtener bayas Pinia (Pinap). Los cuadrados morados indican dónde pueden ocurrir las mutaciones.
+
+{| class="wikitable" style="text-align: center;"
+|+ Formación base
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Sitrus.png|30px]] [[Sitrus|Zidra (Sitrus)]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Aspear.png|30px]] [[Aspear|Perasi (Aspear)]]
+|}
+
+{| class="wikitable" style="text-align: center;"
+|+ Formación óptima
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Sitrus.png|30px]] [[Sitrus|Zidra (Sitrus)]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Sitrus.png|30px]] [[Sitrus|Zidra (Sitrus)]] || style="width: 40px; background-color:#9C7D98;" |
+|-
+| style="background-color:#9C7D98;" | || [[File:Aspear.png|30px]] [[Aspear|Perasi (Aspear)]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Aspear.png|30px]] [[Aspear|Perasi (Aspear)]] 
+|- style="height: 50px;"
+| style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | 
+|-
+| [[File:Sitrus.png|30px]] [[Sitrus|Zidra (Sitrus)]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Sitrus.png|30px]] [[Sitrus|Zidra (Sitrus)]] || style="background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Aspear.png|30px]] [[Aspear|Perasi (Aspear)]] ||  style="background-color:#9C7D98;" | ||  style="background-color:#9C7D98;" | || [[File:Aspear.png|30px]] [[Aspear|Perasi (Aspear)]] 
+|}
+
+=== Tabla de Tiempos ===
+{| class="wikitable" | style="text-align: center;"
+|+ ''Todos los tiempos de plantado usan el tiempo hasta la madurez de la primera baya plantada para las siguientes''
+! Baya !! Tiempo de plantado &lt;br&gt; Sin modificador !! Tiempo de plantado &lt;br&gt; Abono o Psydugadera || Tiempo de plantado &lt;br&gt;  Abono y Psydugadera
+|-
+| [[Sitrus|Zidra (Sitrus)]] || - || - || -
+|-
+| [[Aspear|Perasi (Aspear)]] || 2 min hasta la madurez || 1 min 20 seg || No tiene sentido
+|-
+|}
+
+==Usos==
+===Mutaciones===
+
+Las bayas Pinia (Pinap) pueden usarse para mutar las siguientes bayas.
+
+{| class="wikitable" | style="text-align: center;"
+|-
+! Se usa para !! Junto a
+|-
+| [[File:Qualot.png|20px]] [[Qualot|Ispero (Qualot)]] || [[File:Mago.png|20px]] [[Mago|Ango (Mago)]]
+|-
+| [[File:Nomel.png|20px]] [[Nomel|Monli (Nomel)]] || -
+|-
+| [[File:Wacan.png|20px]] [[Wacan|Gualot (Wacan)]] || [[File:Iapapa.png|20px]] [[Iapapa|Pabaya (Iapapa)]] &lt;br&gt; [[File:Qualot.png|20px]] [[Qualot|Ispero (Qualot)]] &lt;br&gt; [[File:Grepa.png|20px]] [[Grepa|Uvav (Grepa)]]
+|-
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Acquisition==
+===Dungeons===
+{{Loot/head‎|Berries}}
+{{LootItem|Radio Tower|Epic}}
+{{LootItem|Magma Hideout|Common}}
+{{LootItem|Dragonspiral Tower|Common}}
+|}
+|}
+&lt;/div&gt;
+
+&lt;br&gt;
+
+{{Berries}}
+
+[[Category:Farm|Categoría:Granja]][[Category:Berries|Categoría:Bayas]]</text>
+    <contributor>
+      <username>Cthulhu Follower</username>
+      <id>51</id>
+    </contributor>
+    <comment>Created page with "[[Category:Farm|Categoría:Granja]][[Category:Berries|Categoría:Bayas]]"</comment>
+    <model>wikitext</model>
+    <parentid>21381</parentid>
+    <sha1>3c2003ea58bc4cc55be2e8ac1c77eb9e6499cbbf</sha1>
+  </revision>
+  <revision>
+    <id>21381</id>
+    <timestamp>2022-08-01T21:33:39Z</timestamp>
+    <text bytes="4671" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #14 Pinia (Pinap)
+|image   = [[File:Pinap.png]]
+|caption = Tiene una piel ácida y dicen que, si se pela, se puede reducir a polvo para elaborar una medicina.
+|growtime  = 4m 0s
+|harvest = 13 bayas
+|replant = 40%
+|mutation = 1.5%
+|points = 35
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*10 picante
+*0 seco
+*0 dulce
+*0 amargo
+*10 ácido
+}}
+
+'''Pinia (Pinap)''' es un tipo de [[Berries|baya]] que puede ser plantada en la [[Farm|granja]]. Se puede obtener rodeando una parcela vacía con al menos 1 baya [[Sitrus|Zidra (Sitrus)]] y al menos 1 baya [[Aspear|Perasi (Aspear)]].
+
+== Tablas de Crecimiento ==
+=== Estados de Crecimiento ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+!!! Brote !! Crecimiento !! Floración !! Madurez
+|-
+! Tiempo pasado desde que se planta
+| 30 seg || 1 min || 3 mins || 4 mins - 8 mins
+|-
+! Animación
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:PinapTreeTaller.png|50px]] || &lt;center&gt;[[File:PinapTreeBloom.png|50px]] || &lt;center&gt; [[File:PinapTreeBerry.png|50px]]
+|}
+
+=== Tiempos de Maduración con modificadores ===
+{| class="wikitable" | style="text-align: center;"
+! Modificador !! Tiempo hasta la madurez-marchitado
+|-
+! Ninguno
+| 4 min -&lt;br&gt; 8 min
+|-
+! Psydugadera
+| 2 min 40 seg -&lt;br&gt; 5 min 20 seg
+|}
+
+== Diagrama de Flujo ==
+[[File:Pinap_Flow_Chart.png|200px]]
+&lt;br&gt;
+'''Leyenda:'''&lt;br&gt;
+· Random Drop: Obtenido aleatoriamente en ruta
+
+== Estrategia de mutación ==
+=== Posibles formaciones ===
+
+Puedes llenar tu granja del siguiente modo para obtener bayas Pinia (Pinap). Los cuadrados morados indican dónde pueden ocurrir las mutaciones.
+
+{| class="wikitable" style="text-align: center;"
+|+ Formación base
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Sitrus.png|30px]] [[Sitrus|Zidra (Sitrus)]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Aspear.png|30px]] [[Aspear|Perasi (Aspear)]]
+|}
+
+{| class="wikitable" style="text-align: center;"
+|+ Formación óptima
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Sitrus.png|30px]] [[Sitrus|Zidra (Sitrus)]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Sitrus.png|30px]] [[Sitrus|Zidra (Sitrus)]] || style="width: 40px; background-color:#9C7D98;" |
+|-
+| style="background-color:#9C7D98;" | || [[File:Aspear.png|30px]] [[Aspear|Perasi (Aspear)]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Aspear.png|30px]] [[Aspear|Perasi (Aspear)]] 
+|- style="height: 50px;"
+| style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | 
+|-
+| [[File:Sitrus.png|30px]] [[Sitrus|Zidra (Sitrus)]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Sitrus.png|30px]] [[Sitrus|Zidra (Sitrus)]] || style="background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Aspear.png|30px]] [[Aspear|Perasi (Aspear)]] ||  style="background-color:#9C7D98;" | ||  style="background-color:#9C7D98;" | || [[File:Aspear.png|30px]] [[Aspear|Perasi (Aspear)]] 
+|}
+
+=== Tabla de Tiempos ===
+{| class="wikitable" | style="text-align: center;"
+|+ ''Todos los tiempos de plantado usan el tiempo hasta la madurez de la primera baya plantada para las siguientes''
+! Baya !! Tiempo de plantado &lt;br&gt; Sin modificador !! Tiempo de plantado &lt;br&gt; Abono o Psydugadera || Tiempo de plantado &lt;br&gt;  Abono y Psydugadera
+|-
+| [[Sitrus|Zidra (Sitrus)]] || - || - || -
+|-
+| [[Aspear|Perasi (Aspear)]] || 2 min hasta la madurez || 1 min 20 seg || No tiene sentido
+|-
+|}
+
+==Usos==
+===Mutaciones===
+
+Las bayas Pinia (Pinap) pueden usarse para mutar las siguientes bayas.
+
+{| class="wikitable" | style="text-align: center;"
+|-
+! Se usa para !! Junto a
+|-
+| [[File:Qualot.png|20px]] [[Qualot|Ispero (Qualot)]] || [[File:Mago.png|20px]] [[Mago|Ango (Mago)]]
+|-
+| [[File:Nomel.png|20px]] [[Nomel|Monli (Nomel)]] || -
+|-
+| [[File:Wacan.png|20px]] [[Wacan|Gualot (Wacan)]] || [[File:Iapapa.png|20px]] [[Iapapa|Pabaya (Iapapa)]] &lt;br&gt; [[File:Qualot.png|20px]] [[Qualot|Ispero (Qualot)]] &lt;br&gt; [[File:Grepa.png|20px]] [[Grepa|Uvav (Grepa)]]
+|-
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Acquisition==
+===Dungeons===
+{{Loot/head‎|Berries}}
+{{LootItem|Radio Tower|Epic}}
+{{LootItem|Magma Hideout|Common}}
+{{LootItem|Dragonspiral Tower|Common}}
+|}
+|}
+&lt;/div&gt;
+
+&lt;br&gt;
+
+{{Berries}}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>Cthulhu Follower</username>
+      <id>51</id>
+    </contributor>
+    <comment>Created page with "{{Berries}}"</comment>
+    <model>wikitext</model>
+    <parentid>21380</parentid>
+    <sha1>5e14cb829804819bdc0ee6d3f71ae15bc6a2c275</sha1>
+  </revision>
+  <revision>
+    <id>21380</id>
+    <timestamp>2022-08-01T21:33:20Z</timestamp>
+    <text bytes="4727" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #14 Pinia (Pinap)
+|image   = [[File:Pinap.png]]
+|caption = Tiene una piel ácida y dicen que, si se pela, se puede reducir a polvo para elaborar una medicina.
+|growtime  = 4m 0s
+|harvest = 13 bayas
+|replant = 40%
+|mutation = 1.5%
+|points = 35
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*10 picante
+*0 seco
+*0 dulce
+*0 amargo
+*10 ácido
+}}
+
+'''Pinia (Pinap)''' es un tipo de [[Berries|baya]] que puede ser plantada en la [[Farm|granja]]. Se puede obtener rodeando una parcela vacía con al menos 1 baya [[Sitrus|Zidra (Sitrus)]] y al menos 1 baya [[Aspear|Perasi (Aspear)]].
+
+== Tablas de Crecimiento ==
+=== Estados de Crecimiento ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+!!! Brote !! Crecimiento !! Floración !! Madurez
+|-
+! Tiempo pasado desde que se planta
+| 30 seg || 1 min || 3 mins || 4 mins - 8 mins
+|-
+! Animación
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:PinapTreeTaller.png|50px]] || &lt;center&gt;[[File:PinapTreeBloom.png|50px]] || &lt;center&gt; [[File:PinapTreeBerry.png|50px]]
+|}
+
+=== Tiempos de Maduración con modificadores ===
+{| class="wikitable" | style="text-align: center;"
+! Modificador !! Tiempo hasta la madurez-marchitado
+|-
+! Ninguno
+| 4 min -&lt;br&gt; 8 min
+|-
+! Psydugadera
+| 2 min 40 seg -&lt;br&gt; 5 min 20 seg
+|}
+
+== Diagrama de Flujo ==
+[[File:Pinap_Flow_Chart.png|200px]]
+&lt;br&gt;
+'''Leyenda:'''&lt;br&gt;
+· Random Drop: Obtenido aleatoriamente en ruta
+
+== Estrategia de mutación ==
+=== Posibles formaciones ===
+
+Puedes llenar tu granja del siguiente modo para obtener bayas Pinia (Pinap). Los cuadrados morados indican dónde pueden ocurrir las mutaciones.
+
+{| class="wikitable" style="text-align: center;"
+|+ Formación base
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Sitrus.png|30px]] [[Sitrus|Zidra (Sitrus)]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Aspear.png|30px]] [[Aspear|Perasi (Aspear)]]
+|}
+
+{| class="wikitable" style="text-align: center;"
+|+ Formación óptima
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Sitrus.png|30px]] [[Sitrus|Zidra (Sitrus)]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Sitrus.png|30px]] [[Sitrus|Zidra (Sitrus)]] || style="width: 40px; background-color:#9C7D98;" |
+|-
+| style="background-color:#9C7D98;" | || [[File:Aspear.png|30px]] [[Aspear|Perasi (Aspear)]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Aspear.png|30px]] [[Aspear|Perasi (Aspear)]] 
+|- style="height: 50px;"
+| style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | 
+|-
+| [[File:Sitrus.png|30px]] [[Sitrus|Zidra (Sitrus)]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Sitrus.png|30px]] [[Sitrus|Zidra (Sitrus)]] || style="background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Aspear.png|30px]] [[Aspear|Perasi (Aspear)]] ||  style="background-color:#9C7D98;" | ||  style="background-color:#9C7D98;" | || [[File:Aspear.png|30px]] [[Aspear|Perasi (Aspear)]] 
+|}
+
+=== Tabla de Tiempos ===
+{| class="wikitable" | style="text-align: center;"
+|+ ''Todos los tiempos de plantado usan el tiempo hasta la madurez de la primera baya plantada para las siguientes''
+! Baya !! Tiempo de plantado &lt;br&gt; Sin modificador !! Tiempo de plantado &lt;br&gt; Abono o Psydugadera || Tiempo de plantado &lt;br&gt;  Abono y Psydugadera
+|-
+| [[Sitrus|Zidra (Sitrus)]] || - || - || -
+|-
+| [[Aspear|Perasi (Aspear)]] || 2 min hasta la madurez || 1 min 20 seg || No tiene sentido
+|-
+|}
+
+==Usos==
+===Mutaciones===
+
+Las bayas Pinia (Pinap) pueden usarse para mutar las siguientes bayas.
+
+{| class="wikitable" | style="text-align: center;"
+|-
+! Se usa para !! Junto a
+|-
+| [[File:Qualot.png|20px]] [[Qualot|Ispero (Qualot)]] || [[File:Mago.png|20px]] [[Mago|Ango (Mago)]]
+|-
+| [[File:Nomel.png|20px]] [[Nomel|Monli (Nomel)]] || -
+|-
+| [[File:Wacan.png|20px]] [[Wacan|Gualot (Wacan)]] || [[File:Iapapa.png|20px]] [[Iapapa|Pabaya (Iapapa)]] &lt;br&gt; [[File:Qualot.png|20px]] [[Qualot|Ispero (Qualot)]] &lt;br&gt; [[File:Grepa.png|20px]] [[Grepa|Uvav (Grepa)]]
+|-
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Acquisition==
+===Dungeons===
+{{Loot/head‎|Berries}}
+{{LootItem|Radio Tower|Epic}}
+{{LootItem|Magma Hideout|Common}}
+{{LootItem|Dragonspiral Tower|Common}}
+|}
+|}
+&lt;/div&gt;
+
+&lt;br&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>Cthulhu Follower</username>
+      <id>51</id>
+    </contributor>
+    <comment>Created page with "&lt;br&gt;"</comment>
+    <model>wikitext</model>
+    <parentid>21379</parentid>
+    <sha1>c5905c5180d59aea935c4780cb734dcff0d7581d</sha1>
+  </revision>
+  <revision>
+    <id>21379</id>
+    <timestamp>2022-08-01T21:32:32Z</timestamp>
+    <text bytes="4783" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #14 Pinia (Pinap)
+|image   = [[File:Pinap.png]]
+|caption = Tiene una piel ácida y dicen que, si se pela, se puede reducir a polvo para elaborar una medicina.
+|growtime  = 4m 0s
+|harvest = 13 bayas
+|replant = 40%
+|mutation = 1.5%
+|points = 35
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*10 picante
+*0 seco
+*0 dulce
+*0 amargo
+*10 ácido
+}}
+
+'''Pinia (Pinap)''' es un tipo de [[Berries|baya]] que puede ser plantada en la [[Farm|granja]]. Se puede obtener rodeando una parcela vacía con al menos 1 baya [[Sitrus|Zidra (Sitrus)]] y al menos 1 baya [[Aspear|Perasi (Aspear)]].
+
+== Tablas de Crecimiento ==
+=== Estados de Crecimiento ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+!!! Brote !! Crecimiento !! Floración !! Madurez
+|-
+! Tiempo pasado desde que se planta
+| 30 seg || 1 min || 3 mins || 4 mins - 8 mins
+|-
+! Animación
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:PinapTreeTaller.png|50px]] || &lt;center&gt;[[File:PinapTreeBloom.png|50px]] || &lt;center&gt; [[File:PinapTreeBerry.png|50px]]
+|}
+
+=== Tiempos de Maduración con modificadores ===
+{| class="wikitable" | style="text-align: center;"
+! Modificador !! Tiempo hasta la madurez-marchitado
+|-
+! Ninguno
+| 4 min -&lt;br&gt; 8 min
+|-
+! Psydugadera
+| 2 min 40 seg -&lt;br&gt; 5 min 20 seg
+|}
+
+== Diagrama de Flujo ==
+[[File:Pinap_Flow_Chart.png|200px]]
+&lt;br&gt;
+'''Leyenda:'''&lt;br&gt;
+· Random Drop: Obtenido aleatoriamente en ruta
+
+== Estrategia de mutación ==
+=== Posibles formaciones ===
+
+Puedes llenar tu granja del siguiente modo para obtener bayas Pinia (Pinap). Los cuadrados morados indican dónde pueden ocurrir las mutaciones.
+
+{| class="wikitable" style="text-align: center;"
+|+ Formación base
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Sitrus.png|30px]] [[Sitrus|Zidra (Sitrus)]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Aspear.png|30px]] [[Aspear|Perasi (Aspear)]]
+|}
+
+{| class="wikitable" style="text-align: center;"
+|+ Formación óptima
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Sitrus.png|30px]] [[Sitrus|Zidra (Sitrus)]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Sitrus.png|30px]] [[Sitrus|Zidra (Sitrus)]] || style="width: 40px; background-color:#9C7D98;" |
+|-
+| style="background-color:#9C7D98;" | || [[File:Aspear.png|30px]] [[Aspear|Perasi (Aspear)]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Aspear.png|30px]] [[Aspear|Perasi (Aspear)]] 
+|- style="height: 50px;"
+| style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | 
+|-
+| [[File:Sitrus.png|30px]] [[Sitrus|Zidra (Sitrus)]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Sitrus.png|30px]] [[Sitrus|Zidra (Sitrus)]] || style="background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Aspear.png|30px]] [[Aspear|Perasi (Aspear)]] ||  style="background-color:#9C7D98;" | ||  style="background-color:#9C7D98;" | || [[File:Aspear.png|30px]] [[Aspear|Perasi (Aspear)]] 
+|}
+
+=== Tabla de Tiempos ===
+{| class="wikitable" | style="text-align: center;"
+|+ ''Todos los tiempos de plantado usan el tiempo hasta la madurez de la primera baya plantada para las siguientes''
+! Baya !! Tiempo de plantado &lt;br&gt; Sin modificador !! Tiempo de plantado &lt;br&gt; Abono o Psydugadera || Tiempo de plantado &lt;br&gt;  Abono y Psydugadera
+|-
+| [[Sitrus|Zidra (Sitrus)]] || - || - || -
+|-
+| [[Aspear|Perasi (Aspear)]] || 2 min hasta la madurez || 1 min 20 seg || No tiene sentido
+|-
+|}
+
+==Usos==
+===Mutaciones===
+
+Las bayas Pinia (Pinap) pueden usarse para mutar las siguientes bayas.
+
+{| class="wikitable" | style="text-align: center;"
+|-
+! Se usa para !! Junto a
+|-
+| [[File:Qualot.png|20px]] [[Qualot|Ispero (Qualot)]] || [[File:Mago.png|20px]] [[Mago|Ango (Mago)]]
+|-
+| [[File:Nomel.png|20px]] [[Nomel|Monli (Nomel)]] || -
+|-
+| [[File:Wacan.png|20px]] [[Wacan|Gualot (Wacan)]] || [[File:Iapapa.png|20px]] [[Iapapa|Pabaya (Iapapa)]] &lt;br&gt; [[File:Qualot.png|20px]] [[Qualot|Ispero (Qualot)]] &lt;br&gt; [[File:Grepa.png|20px]] [[Grepa|Uvav (Grepa)]]
+|-
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Acquisition==
+===Dungeons===
+{{Loot/head‎|Berries}}
+{{LootItem|Radio Tower|Epic}}
+{{LootItem|Magma Hideout|Common}}
+{{LootItem|Dragonspiral Tower|Common}}
+|}
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>Cthulhu Follower</username>
+      <id>51</id>
+    </contributor>
+    <comment>Created page with "Las bayas Pinia (Pinap) pueden usarse para mutar las siguientes bayas."</comment>
+    <model>wikitext</model>
+    <parentid>21378</parentid>
+    <sha1>4395ff5ea38b3cce6035c40cdbd9cd152124de62</sha1>
+  </revision>
+</page>

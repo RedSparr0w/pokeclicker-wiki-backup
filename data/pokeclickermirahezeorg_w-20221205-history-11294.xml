@@ -1,0 +1,242 @@
+<page>
+  <title>Starf</title>
+  <ns>0</ns>
+  <id>794</id>
+  <revision>
+    <id>8135</id>
+    <timestamp>2021-01-04T05:09:21Z</timestamp>
+    <text bytes="3017" space="preserve">{{Infobox Berry
+|name    = #66 Starf
+|image   = [[File:Starf.png]]
+|caption = This Berry is considered a mirage. It was said to be so strong that it had to be abandoned at the world's edge.
+|growtime  = 1d
+|harvest = 0.5 berries
+|replant = 0%
+|points = 15,000
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*30 spicy 
+*10 dry
+*30 sweet
+*10 bitter
+*30 sour
+}}
+=== Description ===
+'''Starf''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by having at least 1 empty plot while encountering a shiny wandering pokemon. The [[Occa]] or any later berry must be unlocked to unlock this berry. It emits an aura that increases the [[Shiny Chance]].
+
+=== Growth Tables ===
+==== Growth Stages ====
+{| class="wikitable"
+|+ Growth Stages
+! !! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 3 hours || 6 hours || 12 hours || 1 day - 5 days
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:StarfTreeTaller.png|50px]] || &lt;center&gt; [[File:StarfTreeBloom.png|50px]] || &lt;center&gt; [[File:StarfTreeBerry.png|50px]]
+|-
+! Aura (shiny chance)
+| || &lt;center&gt; x1.005 || &lt;center&gt; x1.01 || &lt;center&gt; x1.015
+|}
+
+==== Ripening Time with Modifiers  ====
+{| class="wikitable collapsible" | style="text-align: center;"
+! Modifier !! Ripe-Wither Time !! Boost Mulch Needed to Ripen
+|-
+! None
+| 1 day -&lt;br&gt; 5 days || &lt;center&gt; ---
+|-
+! Mulch/Sprayduck
+| 16 hours -&lt;br&gt; 80 hours || &lt;center&gt; 192 mulch
+|-
+! Mulch*Sprayduck
+| 10 hours 40 mins -&lt;br&gt; 53 hours 20 mins || &lt;center&gt; 128 mulch
+|}
+
+=== Mutation Strategy ===
+==== Possible Planting Formations ====
+
+You can fill your [[Farm]] in the following way to obtain this berry. Note that the setup omits a 24th [[Roseli]] as that would allow the mutation of the [[Custap]] which would occupy the empty plot.
+
+{| class="wikitable" style="text-align: center;"
+|+ Farm
+|-
+| style="width: 50px;" | [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || style="width: 50px;" | [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || style="width: 50px;" | [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || style="width: 50px;" | [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || style="width: 50px;" | [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]]
+|- style="height: 26px;"
+| [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] 
+|- style="height: 26px;"
+| [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] 
+|-
+| [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] 
+|-
+| [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || ||
+|}
+{{Berries}}</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment>/* Description */</comment>
+    <model>wikitext</model>
+    <parentid>8134</parentid>
+    <sha1>834828e645910a5106dfc238f65b1b4cc3163cd0</sha1>
+  </revision>
+  <revision>
+    <id>8134</id>
+    <timestamp>2021-01-04T03:18:12Z</timestamp>
+    <text bytes="3018" space="preserve">{{Infobox Berry
+|name    = #66 Starf
+|image   = [[File:Starf.png]]
+|caption = This Berry is considered a mirage. It was said to be so strong that it had to be abandoned at the world's edge.
+|growtime  = 1d
+|harvest = 0.5 berries
+|replant = 0%
+|points = 15,000
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*30 spicy 
+*10 dry
+*30 sweet
+*10 bitter
+*30 sour
+}}
+=== Description ===
+'''Starf''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by having at least 1 empty plot while encountering a shiny wandering pokemon. The [[Salac]] or any later berry must be unlocked to unlock this berry. It emits an aura that increases the [[Shiny Chance]].
+
+=== Growth Tables ===
+==== Growth Stages ====
+{| class="wikitable"
+|+ Growth Stages
+! !! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 3 hours || 6 hours || 12 hours || 1 day - 5 days
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:StarfTreeTaller.png|50px]] || &lt;center&gt; [[File:StarfTreeBloom.png|50px]] || &lt;center&gt; [[File:StarfTreeBerry.png|50px]]
+|-
+! Aura (shiny chance)
+| || &lt;center&gt; x1.005 || &lt;center&gt; x1.01 || &lt;center&gt; x1.015
+|}
+
+==== Ripening Time with Modifiers  ====
+{| class="wikitable collapsible" | style="text-align: center;"
+! Modifier !! Ripe-Wither Time !! Boost Mulch Needed to Ripen
+|-
+! None
+| 1 day -&lt;br&gt; 5 days || &lt;center&gt; ---
+|-
+! Mulch/Sprayduck
+| 16 hours -&lt;br&gt; 80 hours || &lt;center&gt; 192 mulch
+|-
+! Mulch*Sprayduck
+| 10 hours 40 mins -&lt;br&gt; 53 hours 20 mins || &lt;center&gt; 128 mulch
+|}
+
+=== Mutation Strategy ===
+==== Possible Planting Formations ====
+
+You can fill your [[Farm]] in the following way to obtain this berry. Note that the setup omits a 24th [[Roseli]] as that would allow the mutation of the [[Custap]] which would occupy the empty plot.
+
+{| class="wikitable" style="text-align: center;"
+|+ Farm
+|-
+| style="width: 50px;" | [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || style="width: 50px;" | [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || style="width: 50px;" | [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || style="width: 50px;" | [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || style="width: 50px;" | [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]]
+|- style="height: 26px;"
+| [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] 
+|- style="height: 26px;"
+| [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] 
+|-
+| [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] 
+|-
+| [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || ||
+|}
+{{Berries}}</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment>/* Ripening Time with Modifiers */</comment>
+    <model>wikitext</model>
+    <parentid>8133</parentid>
+    <sha1>c868bdf25593d18a3a0c0a8bae305451aee78e84</sha1>
+  </revision>
+  <revision>
+    <id>8133</id>
+    <timestamp>2021-01-04T01:02:48Z</timestamp>
+    <text bytes="3075" space="preserve">{{Infobox Berry
+|name    = #66 Starf
+|image   = [[File:Starf.png]]
+|caption = This Berry is considered a mirage. It was said to be so strong that it had to be abandoned at the world's edge.
+|growtime  = 1d
+|harvest = 0.5 berries
+|replant = 0%
+|points = 15,000
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*30 spicy 
+*10 dry
+*30 sweet
+*10 bitter
+*30 sour
+}}
+=== Description ===
+'''Starf''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by having at least 1 empty plot while encountering a shiny wandering pokemon. The [[Salac]] or any later berry must be unlocked to unlock this berry. It emits an aura that increases the [[Shiny Chance]].
+
+=== Growth Tables ===
+==== Growth Stages ====
+{| class="wikitable"
+|+ Growth Stages
+! !! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 3 hours || 6 hours || 12 hours || 1 day - 5 days
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:StarfTreeTaller.png|50px]] || &lt;center&gt; [[File:StarfTreeBloom.png|50px]] || &lt;center&gt; [[File:StarfTreeBerry.png|50px]]
+|-
+! Aura (shiny chance)
+| || &lt;center&gt; x1.005 || &lt;center&gt; x1.01 || &lt;center&gt; x1.015
+|}
+
+==== Ripening Time with Modifiers  ====
+{| class="wikitable collapsible" | style="text-align: center;"
+! !! Ripe-Wither !! Boost Mulch Needed to Ripen
+|-
+! Time to Ripen &lt;br&gt; (No Modifiers)
+| 1 day -&lt;br&gt; 5 days || &lt;center&gt; ---
+|-
+! Time to Ripen &lt;br&gt; (Mulch/Sprayduck)
+| 16 hours -&lt;br&gt; 80 hours || &lt;center&gt; 192 mulch
+|-
+! Time to Ripen &lt;br&gt; (Mulch*Sprayduck)
+| 10 hours 40 mins -&lt;br&gt; 53 hours 20 mins || &lt;center&gt; 128 mulch
+|}
+
+=== Mutation Strategy ===
+==== Possible Planting Formations ====
+
+You can fill your [[Farm]] in the following way to obtain this berry. Note that the setup omits a 24th [[Roseli]] as that would allow the mutation of the [[Custap]] which would occupy the empty plot.
+
+{| class="wikitable" style="text-align: center;"
+|+ Farm
+|-
+| style="width: 50px;" | [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || style="width: 50px;" | [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || style="width: 50px;" | [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || style="width: 50px;" | [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || style="width: 50px;" | [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]]
+|- style="height: 26px;"
+| [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] 
+|- style="height: 26px;"
+| [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] 
+|-
+| [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] 
+|-
+| [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || ||
+|}
+{{Berries}}</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment>Growth Table</comment>
+    <model>wikitext</model>
+    <parentid>8132</parentid>
+    <sha1>ad4f4d5a8734469d6c72812fda03e582ac7592a6</sha1>
+  </revision>
+</page>

@@ -1,0 +1,107 @@
+<page>
+  <title>Pinap</title>
+  <ns>0</ns>
+  <id>534</id>
+  <revision>
+    <id>6671</id>
+    <timestamp>2021-01-04T03:07:50Z</timestamp>
+    <text bytes="2665" space="preserve">{{Infobox Berry
+|name    = #14 Pinap
+|image   = [[File:Pinap.png]]
+|caption = It is said that when the sour skin is peeled, this spicy Berry can be crushed to make medicine.
+|growtime  = 4m 0s
+|harvest = 13 berries
+|replant = 40%
+|points = 35
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*10 spicy 
+*0 dry
+*0 sweet
+*0 bitter
+*10 sour
+}}
+=== Description ===
+'''Pinap''' is a type of [[Berries|Berry]] that can be planted in [[Farm]]. It can be obtained by surrounding an empty plot with at least 1 [[Sitrus]] and at least 1 [[Aspear]].
+
+=== Growth Tables ===
+==== Growth Stages ====
+{| class="wikitable"
+|+ Growth Stages
+!!! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 30 secs || 1 min || 3 mins || 4 mins - 8 mins
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:PinapTreeTaller.png|50px]] || &lt;center&gt;[[File:PinapTreeBloom.png|50px]] || &lt;center&gt; [[File:PinapTreeBerry.png|50px]]
+|}
+
+==== Ripening Time with Modifiers ====
+{| class="wikitable collapsible" | style="text-align: center;"
+! Modifier !! Ripe-Wither Time
+|-
+! None
+| 4 mins -&lt;br&gt; 8 mins
+|-
+! Sprayduck
+| 2 mins 40 secs -&lt;br&gt; 5 mins 20 secs
+|}
+
+=== Flow Chart ===
+&lt;br&gt;
+{| style="text-align: center;"
+|+ '''Flow Chart to get this berry'''
+|-
+| Random&lt;br&gt;Drop ||  || Random&lt;br&gt;Drop 
+|-
+| ↓ || || ↓ 
+|-
+|  [[File:Sitrus.png|20px]] [[Sitrus]] || + || [[File:Aspear.png|20px]] [[Aspear]]
+|-
+| colspan="3" | ↓ ||
+|-
+|  || [[File:Pinap.png|20px]] [[Pinap]]
+|}
+&lt;br&gt;
+
+=== Mutation Strategy ===
+==== Possible Planting Formations ====
+
+You can fill your [[farm]] in following way to obtain Pinap berry.
+
+{| class="wikitable" style="text-align: center;"
+|+ Farm
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Sitrus.png|30px]] [[Sitrus]] || style="width: 40px;" | || style="width: 40px;" | || style="width: 40px;" | [[File:Sitrus.png|30px]] [[Sitrus]] || style="width: 40px;" | 
+|-
+| || [[File:Aspear.png|30px]] [[Aspear]] ||  ||  || [[File:Aspear.png|30px]] [[Aspear]] 
+|- style="height: 50px;"
+| || || || || 
+|-
+| [[File:Sitrus.png|30px]] [[Sitrus]] || || || [[File:Sitrus.png|30px]] [[Sitrus]] || 
+|-
+| || [[File:Aspear.png|30px]] [[Aspear]] ||  ||  || [[File:Aspear.png|30px]] [[Aspear]] 
+|}
+
+==== Timing Table ====
+{| class="collapsible wikitable" | style="text-align: center;"
+|+ ''All planting times use the time-to-ripe remaining of the first planted berry for subsequent planting times''
+! Berry !! Planting Time with &lt;br&gt; No Modifier !! Planting Time with &lt;br&gt; Mulch/Sprayduck || Planting Time with &lt;br&gt;  Mulch*Sprayduck
+|-
+| [[Sitrus]] || - || - || -
+|-
+| [[Aspear]] || 2 mins until ripe || 1 min 20 secs || Not Practical
+|-
+|}
+
+{{Berries}}</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment>Growth Table</comment>
+    <model>wikitext</model>
+    <parentid>6670</parentid>
+    <sha1>5c35f71b1321eec738e6037652d26eba92b9d032</sha1>
+  </revision>
+</page>

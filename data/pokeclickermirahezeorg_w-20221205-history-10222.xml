@@ -1,0 +1,71 @@
+<page>
+  <title>Seafoam Islands</title>
+  <ns>0</ns>
+  <id>327</id>
+  <revision>
+    <id>4901</id>
+    <timestamp>2021-05-03T07:18:36Z</timestamp>
+    <text bytes="1466" space="preserve">{{Infobox dungeon
+|name    = Seafoam Islands
+|image   = [[File:Seafoam Islands.png|400px]]
+|caption = An overhead map of the Seafoam Islands.
+|tokens  = 1,250
+|location = West of Cinnabar Island, on route 19.
+}}
+The '''Seafoam Islands''' is a [[Dungeons|dungeon]] in [[Kanto]]. It has 25 tiles arranged in a 5x5 square, including 5 chest tiles, 13 non-boss encounter tiles, and 1 boss encounter tile.
+
+==Random Encounters==
+
+{| class="wikitable"
+|-
+! Wild Encounter !! Base Health !! Trainer !! Pokémon !! Base Health
+|-
+| [[File:Zubat.png|40px]] Zubat || rowspan=9|&lt;center&gt; 17,226 || rowspan=9|&lt;center&gt; N/A || rowspan=9|&lt;center&gt; N/A || rowspan=9|&lt;center&gt; N/A
+|-
+| [[File:Golbat.png|40px]] Golbat
+|-
+| [[File:Psyduck.png|40px]] Psyduck
+|-
+| [[File:Golduck.png|40px]] Golduck
+|-
+| [[File:Slowpoke.png|40px]] Slowpoke
+|-
+| [[File:Slowbro.png|40px]] Slowbro
+|-
+| [[File:Krabby.png|40px]] Krabby
+|-
+| [[File:Horsea.png|40px]] Horsea
+|-
+| [[File:Staryu.png|40px]] Staryu
+|-
+! Boss !! Base Health !! Boss Trainer !! Pokémon !! Base Health
+|-
+| [[File: Seel.png|40px]] Seel || &lt;center&gt; 86,130 || rowspan=2|&lt;center&gt; N/A || rowspan=2|&lt;center&gt; N/A || rowspan=2|&lt;center&gt; N/A
+|-
+| [[File: Articuno.png|40px]] Articuno || &lt;center&gt; 129,195
+|}
+
+==Items==
+
+{| class="wikitable"
+|-
+! Chest Item !! Chance to Find
+|-
+| {{Bag3|X Attack}} [[X Attack|xAttack]] || 40%
+|-
+| {{Bag3|X Click}} [[XClick|xClick]] || 40%
+|-
+| {{Bag3|Lucky Egg}} [[Lucky Egg]] || 20%
+|}
+
+[[Category:Dungeons]]</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment>Trainer format</comment>
+    <model>wikitext</model>
+    <parentid>4900</parentid>
+    <sha1>35bb9b5f60c7dff5e48967bff4630da155cf660d</sha1>
+  </revision>
+</page>

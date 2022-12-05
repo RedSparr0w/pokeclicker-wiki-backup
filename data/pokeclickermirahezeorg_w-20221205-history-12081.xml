@@ -1,0 +1,62 @@
+<page>
+  <title>Wepear</title>
+  <ns>0</ns>
+  <id>533</id>
+  <revision>
+    <id>6639</id>
+    <timestamp>2020-12-10T16:29:55Z</timestamp>
+    <text bytes="1568" space="preserve">{{Infobox Berry
+|name    = Wepear
+|image   = [[File:Wepear.png]]
+|caption = The potent mix of bitter and sour in this Berry seems to promote digestion. The flower is white and beautiful.
+|growtime  = 6m 40s
+|harvest = 12 berries
+|replant = 40%
+|points = 30
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 spicy 
+*0 dry
+*0 sweet
+*10 bitter
+*10 sour
+}}
+'''Wepear''' is a type of [[Berries|Berry]] that can be planted in [[Farm]]. It can be obtained by surrounding an empty plot with at least 1 [[Rawst]] and at least 1 [[Oran]].
+
+{| class="wikitable"
+|+ Harvest Stages durations
+! !! Seed !! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 0-150s || 150-350s || 350-375s || 375-400s || 400-800s
+|-
+! Animation
+| [[File:AllTreeSeed.png|50px]] || [[File:AllTreeSprout.png|50px]] || [[File:WepearTreeTaller.png|50px]] || [[File:WepearTreeBloom.png|50px]] || [[File:WepearTreeBerry.png|50px]]
+|}
+
+=== Possible Planting Formations ===
+
+You can fill your [[farm]] in following way to obtain Wepear berry.
+
+{| class="wikitable" style="text-align: center;"
+|+ Farm
+|-
+| style="width: 40px;" | [[File:Rawst.png|30px]] [[Rawst]] || style="width: 40px;" | || style="width: 40px;" | || style="width: 40px;" | [[File:Rawst.png|30px]] [[Rawst]] || style="width: 40px;" | 
+|-
+| || [[File:Oran.png|30px]] [[Oran]] ||  ||  || [[File:Oran.png|30px]] [[Oran]]
+|- style="height: 50px;"
+| || || || || 
+|-
+| [[File:Rawst.png|30px]] [[Rawst]] || || || [[File:Rawst.png|30px]] [[Rawst]] || 
+|-
+| || [[File:Oran.png|30px]] [[Oran]] ||  ||  || [[File:Oran.png|30px]] [[Oran]]
+|}</text>
+    <contributor>
+      <username>CharizardX9001</username>
+      <id>34</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>6638</parentid>
+    <sha1>e70fb1dd67fd7191fb1a034e0c5c4e66a12719a8</sha1>
+  </revision>
+</page>

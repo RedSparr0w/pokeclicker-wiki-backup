@@ -1,0 +1,60 @@
+<page>
+  <title>Digletts Cave</title>
+  <ns>0</ns>
+  <id>318</id>
+  <revision>
+    <id>4675</id>
+    <timestamp>2020-12-18T01:01:17Z</timestamp>
+    <text bytes="897" space="preserve">{{Infobox dungeon
+|name    = Digletts Cave
+|image   = [[File:Digletts Cave.png]]
+|caption = An overhead map of Digletts Cave.
+|tokens  = 95
+|location = North of Viridian Forest, on Route 2.
+}}
+'''Digletts Cave''' is a [[Dungeons|dungeon]] in [[Kanto]]. It has 25 tiles arranged in a 5x5 square, including 5 chest tiles, 13 non-boss encounter tiles, and 1 boss encounter tile.
+
+==Dungeon Stats==
+
+{| class="wikitable"
+|-
+! Pokémon !! Base Health
+|-
+| Random Encounter || 1,208
+|-
+| Dugtrio (Boss) || 6,040
+|}
+
+==Pokémon==
+
+{| class="wikitable"
+|-
+! Random Encounter !! Boss
+|-
+| [[File:Diglett.png|40px]] Diglett || [[File:Dugtrio.png|40px]] Dugtrio
+|}
+
+==Items==
+
+{| class="wikitable"
+|-
+! Chest Item !! Chance to Find
+|-
+| {{Bag3|X Attack}} [[X Attack|xAttack]] || 57%
+|-
+| {{Bag3|X Click}} [[XClick|xClick]] || 28%
+|-
+| {{Bag3|Lucky Incense}} [[Lucky Incense]] || 14%
+|}
+
+[[Category:Dungeons]]</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment>Images + pokemon list reformat</comment>
+    <model>wikitext</model>
+    <parentid>4674</parentid>
+    <sha1>a3956a75979d714d99735ed235bb6f7584d48e1f</sha1>
+  </revision>
+</page>

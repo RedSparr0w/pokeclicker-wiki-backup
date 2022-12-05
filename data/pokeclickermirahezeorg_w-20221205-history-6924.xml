@@ -1,0 +1,103 @@
+<page>
+  <title>Pokémon Village</title>
+  <ns>0</ns>
+  <id>2908</id>
+  <revision>
+    <id>12219</id>
+    <timestamp>2022-07-22T18:10:20Z</timestamp>
+    <text bytes="2186" space="preserve">{{Infobox dungeon
+|name    = Pokémon Village
+|image   = [[File:Pokémon Village.png|250px]]
+|caption = A map of Pokémon Village.
+|tokens  = 725,000
+|location = East of Route 20.
+}}
+'''Pokémon Village''' is a [[Dungeons|dungeon]] in [[Kalos]]. It initially has 100 tiles arranged in a 10x10 square, including 10 chest tiles, 23 non-boss encounter tiles, and 1 boss encounter tile. Wild Encounters have 9,003,000 HP.
+
+==Encounter  Tables==
+
+===Wild Encounters===
+
+{| class="wikitable"
+|-
+! Wild Pokémon !! colspan=2|Trainers
+|-
+! Encounter !! Trainer !! Pokémon Team
+|-
+| [[File:Jigglypuff.png|40px]] Jigglypuff || rowspan=6 colspan=2|&lt;center&gt; N/A 
+|-
+| [[File:Poliwhirl.png|40px]] Poliwhirl
+|-
+| [[File:Noctowl.png|40px]] Noctowl
+|-
+| [[File:Lombre.png|40px]] Lombre
+|-
+| [[File:Gothorita.png|40px]] Gothorita
+|-
+| [[File:Amoonguss.png|40px]] Amoonguss
+|}
+
+
+===Boss Encounters===
+
+{| class="wikitable"
+|-
+! Wild Pokémon !! Base Health !! Boss Trainer !! Pokémon Team !! Base Health
+|-
+| [[File:Ditto.png|40px]] Ditto || &lt;center&gt; 94,836,530 || rowspan=2 colspan=3|&lt;center&gt; N/A 
+|-
+| [[File:Zoroark.png|40px]] Zoroark || &lt;center&gt; 95,743,340
+|}
+
+==Items==
+
+{| class="wikitable"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+|-
+| align="center" colspan=6| '''Common'''
+|-
+| {{Bag2|Token Collector}} || N/A || 10.71% || 10.31% || 8.66%
+|-
+| {{Bag2|Rawst}} || N/A || 10.71% || 10.31% || 8.66%
+|-
+| {{Bag2|Chesto}} || N/A || 10.71% || 10.31% || 8.66%
+|-
+| {{Bag2|Aguav}} || N/A || 10.71% || 10.31% || 8.66%
+|-
+| {{Bag2|Wiki}} || N/A || 10.71% || 10.31% || 8.66%
+|-
+| {{Pokemon|Garbodor}} || N/A || 10.71% || 10.31% || 8.66%
+|-
+| {{Pokemon|Banette}} || N/A || 10.71% || 10.31% || 8.66%
+|-
+| align="center" colspan=6| '''Rare'''
+|-
+| {{Bag2|Green Shard}} || N/A || 10.01% || 10.52% || 12.61%
+|-
+| {{Bag2|Pink Shard}} || N/A || 10.01% || 10.52% || 12.61%
+|-
+| align="center" colspan=6| '''Epic'''
+|-
+| {{Bag2|Pixie Plate}} || N/A || 2.01% || 2.61% || 5.05%
+|-
+| {{Bag2|Repeatball}} || N/A || 2.01% || 2.61% || 5.05%
+|-
+| align="center" colspan=6| '''Legendary'''
+|-
+| {{Bag2|Large Restore}} || N/A || 1.00% || 1.59% || 4.03%
+|}
+
+{{Kalos Dungeons}}
+
+[[Category:Dungeons]]</text>
+    <contributor>
+      <username>Dragonkin550</username>
+      <id>27</id>
+    </contributor>
+    <comment>/* Items */</comment>
+    <model>wikitext</model>
+    <parentid>12218</parentid>
+    <sha1>adcc154a49c430c6d592f1200e92eb10a3dcb559</sha1>
+  </revision>
+</page>

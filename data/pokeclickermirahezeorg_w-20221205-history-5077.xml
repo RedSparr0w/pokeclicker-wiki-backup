@@ -1,0 +1,96 @@
+<page>
+  <title>Rowap</title>
+  <ns>0</ns>
+  <id>730</id>
+  <revision>
+    <id>7777</id>
+    <timestamp>2022-07-29T07:39:24Z</timestamp>
+    <text bytes="3063" space="preserve">&lt;languages/&gt;
+&lt;translate&gt;
+{{Infobox Berry
+|name    = #57 Rowap
+|image   = [[File:Rowap.png]]
+|caption = In days of old, people worked the top-shaped pieces of this Berry free and used them as toys.
+|growtime  = 5h 54m 0s
+|harvest = 1 berry
+|replant = 5%
+|mutation = 0.03%
+|points = 2,900
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*10 spicy 
+*0 dry
+*0 sweet
+*0 bitter
+*40 sour
+}}
+
+'''Rowap''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by having at least one empty plot and at least 600 points of sour on the field. The [[Belue]] must be unlocked to unlock this berry.
+
+== Growth Tables ==
+=== Growth Stages ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+!!! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 1 hour 36 mins || 2 hours 30 mins || 3 hours 54 mins || 5 hours 54 mins - 11 hours 48 mins
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt;[[File:RowapTreeTaller.png|50px]] || &lt;center&gt;[[File:RowapTreeBloom.png|50px]] || &lt;center&gt;[[File:RowapTreeBerry.png|50px]]
+|-
+! Aura (Ev Multiplier)
+| &lt;center&gt;N/A || &lt;center&gt; x1.005 || &lt;center&gt; x1.01 || &lt;center&gt; x1.015
+|}
+
+=== Ripening Time with Modifiers  ===
+{| class="wikitable" | style="text-align: center;"
+! Modifier !! Ripe-Wither Time !! Boost Mulch Needed to Ripen
+|-
+! None
+| 5 hours 54 mins -&lt;br&gt; 11 hours 48 mins || ---
+|-
+! Mulch or Sprayduck
+| 3 hours 56 mins -&lt;br&gt; 7 hours 52 mins || 48 mulch
+|-
+! Mulch &amp; Sprayduck
+| 2 hours 37 mins 20 secs -&lt;br&gt; 5 hours 14 mins 40 secs || 32 mulch
+|}
+
+== Flow Chart ==
+[[File:Rowap_Flow_Chart.png|250px]]
+&lt;br&gt;
+
+== Mutation Strategy ==
+=== Possible Planting Formations ===
+
+You can fill your farm in the following way to obtain Rowap berries. Purple squares indicate where mutations can occur.
+
+{| class="wikitable" style="text-align: center;"
+|+ Farm
+|-
+| style="width: 50px;" | [[File:Belue.png|30px]]&lt;br&gt;[[Belue]] || style="width: 50px;" | [[File:Belue.png|30px]]&lt;br&gt;[[Belue]] || style="width: 50px;" | [[File:Belue.png|30px]]&lt;br&gt;[[Belue]] || style="width: 50px;" | [[File:Belue.png|30px]]&lt;br&gt;[[Belue]] || style="width: 50px;" | [[File:Belue.png|30px]]&lt;br&gt;[[Belue]]
+|-
+| [[File:Belue.png|30px]]&lt;br&gt;[[Belue]] || style="background-color:#9C7D98;" | || [[File:Belue.png|30px]]&lt;br&gt;[[Belue]] || style="background-color:#9C7D98;" | || [[File:Belue.png|30px]]&lt;br&gt;[[Belue]]
+|- style="height: 26px;"
+| [[File:Belue.png|30px]]&lt;br&gt;[[Belue]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Belue.png|30px]]&lt;br&gt;[[Belue]]
+|-
+| [[File:Belue.png|30px]]&lt;br&gt;[[Belue]] || [[File:Belue.png|30px]]&lt;br&gt;[[Belue]] || [[File:Belue.png|30px]]&lt;br&gt;[[Belue]] || [[File:Belue.png|30px]]&lt;br&gt;[[Belue]] || [[File:Belue.png|30px]]&lt;br&gt;[[Belue]]
+|-
+| [[File:Belue.png|30px]]&lt;br&gt;[[Belue]] || [[File:Belue.png|30px]]&lt;br&gt;[[Belue]] || [[File:Belue.png|30px]]&lt;br&gt;[[Belue]] || [[File:Belue.png|30px]]&lt;br&gt;[[Belue]] || [[File:Belue.png|30px]]&lt;br&gt;[[Belue]]
+|}
+
+&lt;br&gt;
+
+{{Berries}}
+
+[[Category:Farm]][[Category:Berries]]
+&lt;/translate&gt;</text>
+    <contributor>
+      <username>Cthulhu Follower</username>
+      <id>51</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>7776</parentid>
+    <sha1>c8b3c609e88faa5008d93d33570f13be769f9441</sha1>
+  </revision>
+</page>

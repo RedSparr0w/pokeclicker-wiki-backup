@@ -1,0 +1,115 @@
+<page>
+  <title>Snowpoint Temple</title>
+  <ns>0</ns>
+  <id>441</id>
+  <revision>
+    <id>5981</id>
+    <timestamp>2022-07-22T17:47:04Z</timestamp>
+    <text bytes="2514" space="preserve">{{Infobox dungeon
+|name    = Snowpoint Temple
+|image   = [[File:Snowpoint Temple.png|300px]]
+|caption = A map of Snowpoint Temple.
+|tokens  = 96,500
+|location = East of Snowpoint City.
+}}
+'''Snowpoint Temple''' is a [[Dungeons|dungeon]] in [[Sinnoh]]. It initially has 64 tiles arranged in an 8x8 square, including 8 chest tiles, 19 non-boss encounter tiles, and 1 boss encounter tile. Wild Encounters have 2,603,000 HP.
+
+== Encounter Tables ==
+
+===Wild Encounters===
+
+{| class="wikitable"
+|-
+! Wild Pokémon !! colspan=2|Trainers
+|-
+! Encounter !! Trainer !! Pokémon Team
+|-
+| [[File:Golbat.png|40px]] Golbat || rowspan=3 colspan=2 | &lt;center&gt;N/A
+|-
+| [[File:Sneasel.png|40px]] Sneasel 
+|-
+| [[File:Smoochum.png|40px]] Smoochum
+|}
+
+===Boss Encounters===
+
+{| class="wikitable"
+|-
+! Wild Pokémon !! Base Health !! Boss Trainer !! Pokémon Team !! Base Health
+|-
+| [[File:Jynx.png|40px]] Jynx || &lt;center&gt;10,000,000  || rowspan=2 colspan=2 | &lt;center&gt; N/A
+|-
+| [[File:Regigigas.png|40px]] Regigigas || &lt;center&gt;11,000,000
+|}
+
+==Items==
+
+===No Debuff===
+
+{| class="wikitable"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+|-
+| align="center" colspan=6| '''Common'''
+|-
+| {{Bag2|xAttack}} || N/A || 25.24% || 24.44% || 21.06%
+|-
+| {{Bag2|Mago}} || N/A || 25.24% || 24.44% || 21.06%
+|-
+| {{Bag2|Aguav}} || N/A || 25.24% || 24.44% || 21.06%
+|-
+| align="center" colspan=6| '''Rare'''
+|-
+| {{Bag2|Blue Shard}} || N/A || 10.11% || 10.69% || 13.14%
+|-
+| {{Bag2|Green Shard}} || N/A || 10.11% || 10.69% || 13.14%
+|-
+| align="center" colspan=6| '''Epic'''
+|-
+| {{Bag2|Meadow Plate}} || N/A || 2.03% || 2.65% || 5.27%
+|-
+| {{Bag2|Sky Plate}} || N/A || 2.03% || 2.65% || 5.27%
+|}
+
+===Debuff Drop Table===
+
+After Reaching Alola, the drop chance for items in Hoenn will be debuffed for any loot with weight &lt; 2.
+
+{| class="wikitable collapsible collapsed"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+|-
+| align="center" colspan=6| '''Common'''
+|-
+| {{Bag2|xAttack}} || N/A || 25.03% || 25.03% || 25.03%
+|-
+| {{Bag2|Mago}} || N/A || 25.03% || 25.03% || 25.03%
+|-
+| {{Bag2|Aguav}} || N/A || 25.03% || 25.03% || 25.03%
+|-
+| align="center" colspan=6| '''Rare'''
+|-
+| {{Bag2|Blue Shard}} || N/A || 12.01% || 12.01% || 12.01%
+|-
+| {{Bag2|Green Shard}} || N/A || 12.01% || 12.01% || 12.01%
+|-
+| align="center" colspan=6| '''Epic'''
+|-
+| {{Bag2|Meadow Plate}} || N/A || 0.45% || 0.45% || 0.45%
+|-
+| {{Bag2|Sky Plate}} || N/A || 0.45% || 0.45% || 0.45%
+|}
+
+{{Sinnoh Dungeons}}
+
+[[Category:Dungeons]]</text>
+    <contributor>
+      <username>Dragonkin550</username>
+      <id>27</id>
+    </contributor>
+    <comment>/* Items */</comment>
+    <model>wikitext</model>
+    <parentid>5980</parentid>
+    <sha1>f67150769267bb1d619d5ba36876e884717f3f60</sha1>
+  </revision>
+</page>

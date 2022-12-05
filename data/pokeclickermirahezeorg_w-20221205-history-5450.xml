@@ -1,0 +1,29 @@
+<page>
+  <title>Translations:Pokérus/11/en</title>
+  <ns>0</ns>
+  <id>5340</id>
+  <revision>
+    <id>17952</id>
+    <timestamp>2022-07-27T05:41:10Z</timestamp>
+    <text bytes="643" space="preserve">{| class="wikitable"
+! State || Description
+|-
+| None || Base State. Pokémon can contract Pokérus. Pokémon cannot gain EVs.
+|-
+| [[File:Pokérus (infected).png|20px]] Infected || Pokémon has contracted Pokérus, but has yet to hatch once after contracting the virus. Pokémon cannot gain EVs.
+|-
+| [[File:Pokérus (contagious).png|20px]] Contagious || Pokémon has contracted Pokérus, and is capable of spreading the virus. Pokémon can gain EVs.
+|-
+| [[File:Pokérus (cured).png|20px]] Cured || Pokémon has contracted Pokérus, and is capable of spreading the virus. Pokémon can gain EVs, and has also accumulated 50 or more EVs.
+|-
+|}</text>
+    <contributor>
+      <username>FuzzyBot</username>
+      <id>133</id>
+    </contributor>
+    <comment>Importing a new version from external source</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>9cfbadfd80f57ebeb71abc4f77378db9d51f1172</sha1>
+  </revision>
+</page>

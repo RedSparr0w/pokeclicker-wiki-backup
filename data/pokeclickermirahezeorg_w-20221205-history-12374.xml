@@ -1,0 +1,55 @@
+<page>
+  <title>Roseli</title>
+  <ns>0</ns>
+  <id>629</id>
+  <revision>
+    <id>7221</id>
+    <timestamp>2020-11-22T01:43:10Z</timestamp>
+    <text bytes="1434" space="preserve">{{Infobox Berry
+|name    = Roseli
+|image   = [[File:Roseli.png]]
+|caption = This Berry is sweet with a hint of bitterness and has a lingering sweet scent. The scent of this Berry plant attracts wild Pokémon.
+|growtime  = 7h 0m 0s
+|harvest = 38 berries
+|replant = 5%
+|points = 2,500
+|flavor = {{!}} 0 {{!}} 0 {{!}} 25 {{!}} 10 {{!}} 0
+}}
+'''Roseli''' is a type of [[Berries|Berry]] that can be planted in [[Farm]]. It can be obtained by surrounding an empty plot with at least 1 [[Mago]], at least 1 [[Nanab]], at least 1 [[Magost]] and at least 1 [[Watmel]].
+
+{| class="wikitable"
+|+ Harvest Stages durations
+! Seed !! Sprout !! Taller !! Bloom !! Berry
+|-
+| 0-2410s || 2410-5040s || 5040-12600s || 12600-25200s || 25200-50400s
+|-
+| [[File:AllTreeSeed.png|50px]] || [[File:AllTreeSprout.png|50px]] || [[File:RoseliTreeTaller.png|50px]] || [[File:RoseliTreeBloom.png|50px]] || [[File:RoseliTreeBerry.png|50px]]
+|}
+
+=== Possible Planting Formations ===
+
+You can fill your [[farm]] in following way to obtain Roseli berry.
+
+{| class="wikitable" style="text-align: center;"
+|+ Farm
+|-
+| style="width: 40px;" | [[Mago]] || style="width: 40px;" | || style="width: 40px;" | [[Magost]] || style="width: 40px;" | || style="width: 40px;" | [[Mago]]
+|-
+| [[Nanab]] ||  || [[Watmel]] ||  || [[Nanab]]
+|- style="height: 26px;"
+| || || || || 
+|-
+| [[Magost]]  ||  || [[Mago]] || || [[Magost]] 
+|-
+| [[Watmel]] ||  || [[Nanab]] ||  || [[Watmel]]
+|}</text>
+    <contributor>
+      <username>Kirby2729</username>
+      <id>67</id>
+    </contributor>
+    <comment>Created page with "{{Infobox Berry |name    = Roseli |image   = [[File:Roseli.png]] |caption = This Berry is sweet with a hint of bitterness and has a lingering sweet scent. The scent of this Be..."</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>79d756bd1608b44a43844c11f4bb5d42714cf64f</sha1>
+  </revision>
+</page>

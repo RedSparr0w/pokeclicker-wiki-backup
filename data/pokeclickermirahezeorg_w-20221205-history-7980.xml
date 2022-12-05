@@ -1,0 +1,128 @@
+<page>
+  <title>Team Rockets Hideout</title>
+  <ns>0</ns>
+  <id>3569</id>
+  <revision>
+    <id>13472</id>
+    <timestamp>2022-04-28T06:50:01Z</timestamp>
+    <text bytes="4478" space="preserve">{{Infobox dungeon
+|name    = Team Rockets Hideout
+|image   = [[File:Team Rockets Hideout.png|thumb]]
+|caption = A map of Team Rockets Hideout
+|tokens  = 5,500
+|location = Mahogany Town
+}}
+'''Team Rockets Hideout''' is a [[Dungeons|dungeon]] in [[Johto]]. It initially has 36 tiles arranged in a 6x6 square,  including 6 chest tiles, 15 non-boss encounter tiles, and 1 boss encounter tile. Wild Encounters have 104,100 HP.
+
+== Encounter Tables ==
+
+===Wild Encounters===
+
+{| class="wikitable"
+|-
+! Wild Pokémon !! colspan=2|Trainers
+|-
+! Encounter !! Trainer !! Pokémon Team
+|-
+| rowspan=2|[[File:Geodude.png|40px]]Geodude || [[File:Team_Rocket_Grunt_(male).png|40px]] Team Rocket Grunt || [[File:Rattata.png|40px]] Rattata, [[File:Rattata.png|40px]] Rattata, [[File:Rattata.png|40px]] Rattata, [[File:Rattata.png|40px]] Rattata
+|-
+| [[File:Scientist_(male).png|40px]] Scientist Jed || [[File:Magnemite.png|40px]] Magnemite, [[File:Magnemite.png|40px]] Magnemite, [[File:Magnemite.png|40px]] Magnemite
+|-
+| rowspan=3|[[File:Voltorb.png|40px]]Voltorb || [[File:Team_Rocket_Grunt_(male).png|40px]] Team Rocket Grunt || [[File:Drowzee.png|40px]] Drowzee, [[File:Zubat.png|40px]] Zubat
+|-
+| [[File:Team_Rocket_Grunt_(male).png|40px]] Team Rocket Grunt || [[File:Zubat.png|40px]] Zubat, [[File:Grimer.png|40px]] Grimer, [[File:Rattata.png|40px]] Rattata
+|-
+| [[File:Team_Rocket_Grunt_(male).png|40px]] Team Rocket Grunt || [[File:Venonat.png|40px]] Venonat, [[File:Venonat.png|40px]] Venonat
+|-
+| rowspan=3|[[File:Electrode.png|40px]]Electrode || [[File:Team_Rocket_Grunt_(male).png|40px]] Team Rocket Grunt || [[File:Golbat.png|40px]] Golbat
+|-
+| [[File:Team_Rocket_Grunt_(male).png|40px]] Team Rocket Grunt || [[File:Rattata.png|40px]] Rattata, [[File:Zubat.png|40px]] Zubat, [[File:Rattata.png|40px]] Rattata
+|-
+| [[File:Team_Rocket_Grunt_(female).png|40px]] Team Rocket Grunt || [[File:Ekans.png|40px]] Ekans, [[File:Gloom.png|40px]] Gloom
+|-
+| rowspan=3|[[File:Koffing.png|40px]]Koffing || [[File:Team_Rocket_Grunt_(male).png|40px]] Team Rocket Grunt || [[File:Raticate.png|40px]] Raticate
+|-
+| [[File:Scientist_(male).png|40px]] Scientist Ross || [[File:Koffing.png|40px]] Koffing, [[File:Koffing.png|40px]] Koffing
+|-
+| [[File:Scientist_(male).png|40px]] Scientist Mitch || [[File:Ditto.png|40px]] Ditto
+|-
+|}
+
+===Boss Encounters===
+{| class="wikitable"
+|-
+! Wild Pokémon !! Base Health !! Boss Trainer !! Pokémon Team !! Base Health
+|-
+| colspan=2 rowspan=3|&lt;center&gt;N/A || [[File:Rocket_Executive_(petrel).png|40px]] Rocket Executive Petrel || [[File:Zubat.png|40px]] Zubat, [[File:Koffing.png|40px]] Koffing, [[File:Raticate.png|40px]] Raticate || rowspan=2|&lt;center&gt;140,000
+|-
+| [[File:Rocket_Executive_(ariana).png|40px]] Rocket Executive Ariana || [[File:Arbok.png|40px]] Arbok, [[File:Gloom.png|40px]] Gloom, [[File:Murkrow.png|40px]] Murkrow
+|-
+|}
+
+==Items==
+
+===No Debuff===
+
+{| class="wikitable"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears !! Requirement
+|-
+| {{Bag2|XAttack}} || 4 || 44.00% || 43.70% || 41.46% || rowspan=8|&lt;center&gt;N/A
+|-
+| {{Bag2|Token Collector}} || 4 || 44.00% || 43.70% || 41.46% 
+|-
+| {{Pokemon|Electrode}} || 3.5 || 11.36% || 11.35% || 11.00% 
+|-
+| {{Bag2|Dread Plate}} || 2 || 0.20% || 0.28% || 1.22% 
+|-
+| {{Bag2|Splash Plate}} || 2 || 0.20% || 0.28% || 1.22% 
+|-
+| {{Bag2|Ultraball}} || 1.75 || 0.10% || 0.24% || 1.11% 
+|-
+| {{Bag2|Revive}} || 1.75 || 0.10% || 0.24% || 1.11% 
+|-
+| {{Bag2|Large Restore}} || 1.5 || 0.051% || 0.22% || 1.01% 
+|-
+| {{Bag2|Protein}} || 0 || 0.00% || 0.00% || 0.41% || &lt;center&gt;400 Clears
+|}
+
+===Debuff Drop Table===
+
+After Reaching Unova, the drop chance for items in Johto will be debuffed for any loot with weight &lt; 2.
+
+{| class="wikitable collapsible collapsed"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears !! Requirement
+|-
+| {{Bag2|XAttack}} || 4 || 44.11% || 43.99% || 42.93% || rowspan=8|&lt;center&gt;N/A
+|-
+| {{Bag2|Token Collector}} || 4 || 44.11% || 43.99% || 42.93%
+|-
+| {{Pokemon|Electrode}} || 3.5 || 11.39% || 11.42% || 11.40%
+|-
+| {{Bag2|Dread Plate}} || 2 || 0.20% || 0.28% || 1.26%
+|-
+| {{Bag2|Splash Plate}} || 2 || 0.20% || 0.28% || 1.26%
+|-
+| {{Bag2|Ultraball}} || 1.75 || 0.00015% || 0.015% || 0.073%
+|-
+| {{Bag2|Revive}} || 1.75 || 0.00015% || 0.015% || 0.073%
+|-
+| {{Bag2|Large Restore}} || 1.5 || 0.00013% || 0.013% || 0.063%
+|-
+| {{Bag2|Protein}} || 0 || 0.00% || 0.00% || 0.021% || &lt;center&gt;400 Clears
+|}
+
+{{Johto Dungeons}}
+
+[[Category:Dungeons]]</text>
+    <contributor>
+      <username>Razrushil</username>
+      <id>31</id>
+    </contributor>
+    <comment>/* Items */ Adding debuffed drop table</comment>
+    <model>wikitext</model>
+    <parentid>13471</parentid>
+    <sha1>20d47b864b59b7db93a9af367069bf401cdbc19b</sha1>
+  </revision>
+</page>

@@ -1,0 +1,64 @@
+<page>
+  <title>Mt. Moon</title>
+  <ns>0</ns>
+  <id>319</id>
+  <revision>
+    <id>4704</id>
+    <timestamp>2020-12-08T19:26:43Z</timestamp>
+    <text bytes="864" space="preserve">{{Infobox dungeon
+|name    = Mt. Moon
+|image   = [[File:Digletts Cave.png]]
+|caption = A map of Mt. Moon.
+|tokens  = 75
+|location = East of Pewter City, between Route 3 and 4.
+}}
+'''Mt. Moon''' is a dungeon in [[Kanto]]. It has 64 tiles arranged in an 8x8 square, including 5 chest tiles, 13 non-boss encounter tiles, and 1 boss encounter tile.
+
+==Dungeon Stats==
+
+{| class="wikitable"
+|-
+! Pokémon !! Base Health
+|-
+| Random Encounter || 834
+|-
+| Kabuto (Boss) || 4,170
+|-
+| Omanyte (Boss) || 4,170
+|}
+
+===Pokémon===
+
+* Sandshrew
+* Clefairy
+* Zubat
+* Paras
+* Geodude
+* Pidgeotto
+* Kabuto (boss)
+* Omanyte (boss)
+
+===Items===
+
+{| class="wikitable"
+|-
+! Chest Item !! Chance to Find
+|-
+| {{Bag3|X Attack}} [[X Attack|xAttack]] || 57%
+|-
+| {{Bag3|X Click}} [[XClick|xClick]] || 28%
+|-
+| {{Bag3|Token Collector}} [[Token Collector]] || 14%
+|}
+
+[[Category:Dungeons]]</text>
+    <contributor>
+      <username>Catie-cat</username>
+      <id>30</id>
+    </contributor>
+    <comment>update to match standard</comment>
+    <model>wikitext</model>
+    <parentid>4703</parentid>
+    <sha1>3111b185870671acadc6c282b8d2c21393747297</sha1>
+  </revision>
+</page>

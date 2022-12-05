@@ -1,0 +1,665 @@
+<page>
+  <title>Nanab/es</title>
+  <ns>0</ns>
+  <id>7463</id>
+  <revision>
+    <id>21334</id>
+    <timestamp>2022-08-01T20:32:51Z</timestamp>
+    <text bytes="5326" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #12 Anana (Nanab)
+|image   = [[File:Nanab.png]]
+|caption = Esta es la séptima baya descubierta en todo el mundo. Aunque amarga, tiene un cierto toque dulce.
+|growtime  = 4m 10s
+|harvest = 11 bayas
+|replant = 40%
+|mutation = 1.7%
+|points = 25
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 picante
+*0 seco
+*10 dulce
+*10 amargo
+*0 ácido
+}}
+
+'''Latano (Nanab)''' es un tipo de [[Berries|baya]] que puede ser plantada en la [[Farm|granja]]. Se puede obtener rodeando una parcela vacía con al menos 1 baya [[Pecha|Meloc (Pecha)]] y al menos 1 baya [[Aspear|Perasi (Aspear)]].
+
+== Tablas de Crecimiento ==
+=== Estados de Crecimiento ===
+{| class="wikitable"| style = "image-rendering: pixelated"
+! !! Brote !! Crecimiento !! Floración !! Madurez
+|-
+! Tiempo pasado desde que se planta
+| 25 seg || 30 seg || 35 seg || 4 mins 10 seg - 8 mins 20 seg
+|-
+! Animación
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:NanabTreeTaller.png|50px]] || &lt;center&gt; [[File:NanabTreeBloom.png|50px]] || &lt;center&gt; [[File:NanabTreeBerry.png|50px]]
+|}
+
+=== Tiempos de Maduración con modificadores ===
+{| class="wikitable" | style="text-align: center;" | style = "image-rendering: pixelated"
+! Modificador !! Tiempo hasta la madurez-marchitado
+|-
+! Ninguno
+| 4 min 10 seg -&lt;br&gt; 8 min 20 seg
+|-
+! Psydugadera
+| 2 min 47 seg -&lt;br&gt; 5 min 53 seg
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Flow Chart ==
+[[File:Nanab_Flow_Chart.png|200px]]
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Mutation Strategy ==
+=== Possible Planting Formations ===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+You can fill your farm in the following way to obtain Nanab berries. Purple squares indicate where mutations can occur.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Base Formation
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Pecha.png|30px]] [[Pecha]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Aspear.png|30px]] [[Aspear]]
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Optimized Planting Formation
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Pecha.png|30px]] [[Pecha]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Pecha.png|30px]] [[Pecha]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Aspear.png|30px]] [[Aspear]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Aspear.png|30px]] [[Aspear]] 
+|- style="height: 50px;"
+| style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | 
+|-
+| [[File:Pecha.png|30px]] [[Pecha]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Pecha.png|30px]] [[Pecha]] || style="background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Aspear.png|30px]] [[Aspear]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Aspear.png|30px]] [[Aspear]] 
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+=== Timing Table ===
+{| class="wikitable"| style="text-align: center;"
+|+ ''All planting times use the time-to-ripe remaining of the first planted berry for subsequent planting times''
+! Berry !! Planting Time with &lt;br&gt; No Modifier !! Planting Time with &lt;br&gt; Mulch or Sprayduck || Planting Time with &lt;br&gt;  Mulch &amp; Sprayduck
+|-
+| [[Aspear]] || - || - || -
+|-
+| [[Pecha]] || 1 min until ripe || 40 secs until ripe || Not Practical
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Uses==
+===Mutations===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Nanab berries can be used to mutate the following berries.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Magost.png|20px]] [[Magost]] || [[File:Pecha.png|20px]] [[Pecha]] &lt;br&gt; [[File:Mago.png|20px]] [[Mago]]
+|-
+| [[File:Roseli.png|20px]] [[Roseli]] || [[File:Mago.png|20px]] [[Mago]] &lt;br&gt; [[File:Magost.png|20px]] [[Magost]] &lt;br&gt; [[File:Watmel.png|20px]] [[Watmel]]
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+===[[Safari Zone]] bait===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+As a type of bait, Nanab berries give Pokémon in the Safari Zone "eating" status for 2 - 6 turns, and boosts catch chance by 1.5x for the rest of the encounter unless another type of bait is used.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Acquisition==
+===Dungeons===
+{{Loot/head‎|Berries}}
+{{LootItem|Berry Forest|Epic}}
+{{LootItem|Radio Tower|Epic}}
+{{LootItem|Fullmoon Island|Common}}
+{{LootItem|Newmoon Island|Common}}
+{{LootItem|Floccesy Ranch|Epic}}
+|}
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>Cthulhu Follower</username>
+      <id>51</id>
+    </contributor>
+    <comment>Created page with "=== Tiempos de Maduración con modificadores === {| class="wikitable" | style="text-align: center;" | style = "image-rendering: pixelated" ! Modificador !! Tiempo hasta la madurez-marchitado |- ! Ninguno | 4 min 10 seg -&lt;br&gt; 8 min 20 seg |- ! Psydugadera | 2 min 47 seg -&lt;br&gt; 5 min 53 seg |}"</comment>
+    <model>wikitext</model>
+    <parentid>21333</parentid>
+    <sha1>8fd2bc6f70cd3a7e0c4239af9e409a53e948d4c2</sha1>
+  </revision>
+  <revision>
+    <id>21333</id>
+    <timestamp>2022-08-01T20:27:31Z</timestamp>
+    <text bytes="5352" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #12 Anana (Nanab)
+|image   = [[File:Nanab.png]]
+|caption = Esta es la séptima baya descubierta en todo el mundo. Aunque amarga, tiene un cierto toque dulce.
+|growtime  = 4m 10s
+|harvest = 11 bayas
+|replant = 40%
+|mutation = 1.7%
+|points = 25
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 picante
+*0 seco
+*10 dulce
+*10 amargo
+*0 ácido
+}}
+
+'''Latano (Nanab)''' es un tipo de [[Berries|baya]] que puede ser plantada en la [[Farm|granja]]. Se puede obtener rodeando una parcela vacía con al menos 1 baya [[Pecha|Meloc (Pecha)]] y al menos 1 baya [[Aspear|Perasi (Aspear)]].
+
+== Tablas de Crecimiento ==
+=== Estados de Crecimiento ===
+{| class="wikitable"| style = "image-rendering: pixelated"
+! !! Brote !! Crecimiento !! Floración !! Madurez
+|-
+! Tiempo pasado desde que se planta
+| 25 seg || 30 seg || 35 seg || 4 mins 10 seg - 8 mins 20 seg
+|-
+! Animación
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:NanabTreeTaller.png|50px]] || &lt;center&gt; [[File:NanabTreeBloom.png|50px]] || &lt;center&gt; [[File:NanabTreeBerry.png|50px]]
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+=== Ripening Time with Modifiers ===
+{| class="wikitable" | style="text-align: center;" | style = "image-rendering: pixelated"
+! Modifier !! Ripe-Wither Time
+|-
+! None
+| 4 mins 10 secs -&lt;br&gt; 8 mins 20 secs
+|-
+! Sprayduck
+| 2 mins 47 secs -&lt;br&gt; 5 mins 53 secs
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Flow Chart ==
+[[File:Nanab_Flow_Chart.png|200px]]
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Mutation Strategy ==
+=== Possible Planting Formations ===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+You can fill your farm in the following way to obtain Nanab berries. Purple squares indicate where mutations can occur.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Base Formation
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Pecha.png|30px]] [[Pecha]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Aspear.png|30px]] [[Aspear]]
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Optimized Planting Formation
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Pecha.png|30px]] [[Pecha]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Pecha.png|30px]] [[Pecha]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Aspear.png|30px]] [[Aspear]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Aspear.png|30px]] [[Aspear]] 
+|- style="height: 50px;"
+| style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | 
+|-
+| [[File:Pecha.png|30px]] [[Pecha]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Pecha.png|30px]] [[Pecha]] || style="background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Aspear.png|30px]] [[Aspear]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Aspear.png|30px]] [[Aspear]] 
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+=== Timing Table ===
+{| class="wikitable"| style="text-align: center;"
+|+ ''All planting times use the time-to-ripe remaining of the first planted berry for subsequent planting times''
+! Berry !! Planting Time with &lt;br&gt; No Modifier !! Planting Time with &lt;br&gt; Mulch or Sprayduck || Planting Time with &lt;br&gt;  Mulch &amp; Sprayduck
+|-
+| [[Aspear]] || - || - || -
+|-
+| [[Pecha]] || 1 min until ripe || 40 secs until ripe || Not Practical
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Uses==
+===Mutations===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Nanab berries can be used to mutate the following berries.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Magost.png|20px]] [[Magost]] || [[File:Pecha.png|20px]] [[Pecha]] &lt;br&gt; [[File:Mago.png|20px]] [[Mago]]
+|-
+| [[File:Roseli.png|20px]] [[Roseli]] || [[File:Mago.png|20px]] [[Mago]] &lt;br&gt; [[File:Magost.png|20px]] [[Magost]] &lt;br&gt; [[File:Watmel.png|20px]] [[Watmel]]
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+===[[Safari Zone]] bait===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+As a type of bait, Nanab berries give Pokémon in the Safari Zone "eating" status for 2 - 6 turns, and boosts catch chance by 1.5x for the rest of the encounter unless another type of bait is used.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Acquisition==
+===Dungeons===
+{{Loot/head‎|Berries}}
+{{LootItem|Berry Forest|Epic}}
+{{LootItem|Radio Tower|Epic}}
+{{LootItem|Fullmoon Island|Common}}
+{{LootItem|Newmoon Island|Common}}
+{{LootItem|Floccesy Ranch|Epic}}
+|}
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>Cthulhu Follower</username>
+      <id>51</id>
+    </contributor>
+    <comment>Created page with "== Tablas de Crecimiento == === Estados de Crecimiento === {| class="wikitable"| style = "image-rendering: pixelated" ! !! Brote !! Crecimiento !! Floración !! Madurez |- ! Tiempo pasado desde que se planta | 25 seg || 30 seg || 35 seg || 4 mins 10 seg - 8 mins 20 seg |- ! Animación | &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:NanabTreeTaller.png|50px]] || &lt;center&gt; [[File:NanabTreeBloom.png|50px]] || &lt;center&gt; [[File:NanabTreeBerry.png|50px]] |}"</comment>
+    <model>wikitext</model>
+    <parentid>21332</parentid>
+    <sha1>124228c6c2c1fb255fc3cb662690bd5ca1dd3ac0</sha1>
+  </revision>
+  <revision>
+    <id>21332</id>
+    <timestamp>2022-08-01T20:19:20Z</timestamp>
+    <text bytes="5377" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #12 Anana (Nanab)
+|image   = [[File:Nanab.png]]
+|caption = Esta es la séptima baya descubierta en todo el mundo. Aunque amarga, tiene un cierto toque dulce.
+|growtime  = 4m 10s
+|harvest = 11 bayas
+|replant = 40%
+|mutation = 1.7%
+|points = 25
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 picante
+*0 seco
+*10 dulce
+*10 amargo
+*0 ácido
+}}
+
+'''Latano (Nanab)''' es un tipo de [[Berries|baya]] que puede ser plantada en la [[Farm|granja]]. Se puede obtener rodeando una parcela vacía con al menos 1 baya [[Pecha|Meloc (Pecha)]] y al menos 1 baya [[Aspear|Perasi (Aspear)]].
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Growth Tables ==
+=== Growth Stages ===
+{| class="wikitable"| style = "image-rendering: pixelated"
+! !! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 25 secs || 30 secs || 35 secs || 4 mins 10 secs - 8 mins 20 secs
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:NanabTreeTaller.png|50px]] || &lt;center&gt; [[File:NanabTreeBloom.png|50px]] || &lt;center&gt; [[File:NanabTreeBerry.png|50px]]
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+=== Ripening Time with Modifiers ===
+{| class="wikitable" | style="text-align: center;" | style = "image-rendering: pixelated"
+! Modifier !! Ripe-Wither Time
+|-
+! None
+| 4 mins 10 secs -&lt;br&gt; 8 mins 20 secs
+|-
+! Sprayduck
+| 2 mins 47 secs -&lt;br&gt; 5 mins 53 secs
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Flow Chart ==
+[[File:Nanab_Flow_Chart.png|200px]]
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Mutation Strategy ==
+=== Possible Planting Formations ===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+You can fill your farm in the following way to obtain Nanab berries. Purple squares indicate where mutations can occur.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Base Formation
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Pecha.png|30px]] [[Pecha]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Aspear.png|30px]] [[Aspear]]
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Optimized Planting Formation
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Pecha.png|30px]] [[Pecha]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Pecha.png|30px]] [[Pecha]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Aspear.png|30px]] [[Aspear]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Aspear.png|30px]] [[Aspear]] 
+|- style="height: 50px;"
+| style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | 
+|-
+| [[File:Pecha.png|30px]] [[Pecha]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Pecha.png|30px]] [[Pecha]] || style="background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Aspear.png|30px]] [[Aspear]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Aspear.png|30px]] [[Aspear]] 
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+=== Timing Table ===
+{| class="wikitable"| style="text-align: center;"
+|+ ''All planting times use the time-to-ripe remaining of the first planted berry for subsequent planting times''
+! Berry !! Planting Time with &lt;br&gt; No Modifier !! Planting Time with &lt;br&gt; Mulch or Sprayduck || Planting Time with &lt;br&gt;  Mulch &amp; Sprayduck
+|-
+| [[Aspear]] || - || - || -
+|-
+| [[Pecha]] || 1 min until ripe || 40 secs until ripe || Not Practical
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Uses==
+===Mutations===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Nanab berries can be used to mutate the following berries.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Magost.png|20px]] [[Magost]] || [[File:Pecha.png|20px]] [[Pecha]] &lt;br&gt; [[File:Mago.png|20px]] [[Mago]]
+|-
+| [[File:Roseli.png|20px]] [[Roseli]] || [[File:Mago.png|20px]] [[Mago]] &lt;br&gt; [[File:Magost.png|20px]] [[Magost]] &lt;br&gt; [[File:Watmel.png|20px]] [[Watmel]]
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+===[[Safari Zone]] bait===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+As a type of bait, Nanab berries give Pokémon in the Safari Zone "eating" status for 2 - 6 turns, and boosts catch chance by 1.5x for the rest of the encounter unless another type of bait is used.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Acquisition==
+===Dungeons===
+{{Loot/head‎|Berries}}
+{{LootItem|Berry Forest|Epic}}
+{{LootItem|Radio Tower|Epic}}
+{{LootItem|Fullmoon Island|Common}}
+{{LootItem|Newmoon Island|Common}}
+{{LootItem|Floccesy Ranch|Epic}}
+|}
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>Cthulhu Follower</username>
+      <id>51</id>
+    </contributor>
+    <comment>Created page with "'''Latano (Nanab)''' es un tipo de [[Berries|baya]] que puede ser plantada en la [[Farm|granja]]. Se puede obtener rodeando una parcela vacía con al menos 1 baya [[Pecha|Meloc (Pecha)]] y al menos 1 baya [[Aspear|Perasi (Aspear)]]."</comment>
+    <model>wikitext</model>
+    <parentid>21331</parentid>
+    <sha1>5200d9a57337e302b8358cabb35992bf14253eea</sha1>
+  </revision>
+  <revision>
+    <id>21331</id>
+    <timestamp>2022-08-01T20:16:40Z</timestamp>
+    <text bytes="5381" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #12 Anana (Nanab)
+|image   = [[File:Nanab.png]]
+|caption = Esta es la séptima baya descubierta en todo el mundo. Aunque amarga, tiene un cierto toque dulce.
+|growtime  = 4m 10s
+|harvest = 11 bayas
+|replant = 40%
+|mutation = 1.7%
+|points = 25
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 picante
+*0 seco
+*10 dulce
+*10 amargo
+*0 ácido
+}}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+'''Nanab''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by surrounding an empty plot with at least 1 [[Pecha]] and at least 1 [[Aspear]].
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Growth Tables ==
+=== Growth Stages ===
+{| class="wikitable"| style = "image-rendering: pixelated"
+! !! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 25 secs || 30 secs || 35 secs || 4 mins 10 secs - 8 mins 20 secs
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:NanabTreeTaller.png|50px]] || &lt;center&gt; [[File:NanabTreeBloom.png|50px]] || &lt;center&gt; [[File:NanabTreeBerry.png|50px]]
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+=== Ripening Time with Modifiers ===
+{| class="wikitable" | style="text-align: center;" | style = "image-rendering: pixelated"
+! Modifier !! Ripe-Wither Time
+|-
+! None
+| 4 mins 10 secs -&lt;br&gt; 8 mins 20 secs
+|-
+! Sprayduck
+| 2 mins 47 secs -&lt;br&gt; 5 mins 53 secs
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Flow Chart ==
+[[File:Nanab_Flow_Chart.png|200px]]
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Mutation Strategy ==
+=== Possible Planting Formations ===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+You can fill your farm in the following way to obtain Nanab berries. Purple squares indicate where mutations can occur.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Base Formation
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Pecha.png|30px]] [[Pecha]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Aspear.png|30px]] [[Aspear]]
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Optimized Planting Formation
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Pecha.png|30px]] [[Pecha]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Pecha.png|30px]] [[Pecha]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Aspear.png|30px]] [[Aspear]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Aspear.png|30px]] [[Aspear]] 
+|- style="height: 50px;"
+| style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | 
+|-
+| [[File:Pecha.png|30px]] [[Pecha]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Pecha.png|30px]] [[Pecha]] || style="background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Aspear.png|30px]] [[Aspear]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Aspear.png|30px]] [[Aspear]] 
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+=== Timing Table ===
+{| class="wikitable"| style="text-align: center;"
+|+ ''All planting times use the time-to-ripe remaining of the first planted berry for subsequent planting times''
+! Berry !! Planting Time with &lt;br&gt; No Modifier !! Planting Time with &lt;br&gt; Mulch or Sprayduck || Planting Time with &lt;br&gt;  Mulch &amp; Sprayduck
+|-
+| [[Aspear]] || - || - || -
+|-
+| [[Pecha]] || 1 min until ripe || 40 secs until ripe || Not Practical
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Uses==
+===Mutations===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Nanab berries can be used to mutate the following berries.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Magost.png|20px]] [[Magost]] || [[File:Pecha.png|20px]] [[Pecha]] &lt;br&gt; [[File:Mago.png|20px]] [[Mago]]
+|-
+| [[File:Roseli.png|20px]] [[Roseli]] || [[File:Mago.png|20px]] [[Mago]] &lt;br&gt; [[File:Magost.png|20px]] [[Magost]] &lt;br&gt; [[File:Watmel.png|20px]] [[Watmel]]
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+===[[Safari Zone]] bait===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+As a type of bait, Nanab berries give Pokémon in the Safari Zone "eating" status for 2 - 6 turns, and boosts catch chance by 1.5x for the rest of the encounter unless another type of bait is used.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Acquisition==
+===Dungeons===
+{{Loot/head‎|Berries}}
+{{LootItem|Berry Forest|Epic}}
+{{LootItem|Radio Tower|Epic}}
+{{LootItem|Fullmoon Island|Common}}
+{{LootItem|Newmoon Island|Common}}
+{{LootItem|Floccesy Ranch|Epic}}
+|}
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>Cthulhu Follower</username>
+      <id>51</id>
+    </contributor>
+    <comment>Created page with "{{Infobox Berry |name    = #12 Anana (Nanab) |image   = [[File:Nanab.png]] |caption = Esta es la séptima baya descubierta en todo el mundo. Aunque amarga, tiene un cierto toque dulce. |growtime  = 4m 10s |harvest = 11 bayas |replant = 40% |mutation = 1.7% |points = 25 |flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt; *0 picante *0 seco *10 dulce *10 amargo *0 ácido }}"</comment>
+    <model>wikitext</model>
+    <parentid>21330</parentid>
+    <sha1>287f703471bbed4cd6b01d53f9ca1190066ad347</sha1>
+  </revision>
+</page>

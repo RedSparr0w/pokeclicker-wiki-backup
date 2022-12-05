@@ -1,0 +1,40 @@
+<page>
+  <title>User:Awaiko</title>
+  <ns>2</ns>
+  <id>3701</id>
+  <revision>
+    <id>14137</id>
+    <timestamp>2022-04-01T02:25:01Z</timestamp>
+    <text bytes="248" space="preserve">Testing the ability to edit this page.
+{| class="wikitable"
+|+ Test Table
+|-
+! Header text un !! Header text deux !! Header text trois
+|-
+| Example quatre || Example cinq || Example '''six'''
+|-
+| Example ''sept'' || Example huit || Example neuf
+|}</text>
+    <contributor>
+      <username>Awaiko</username>
+      <id>89</id>
+    </contributor>
+    <comment>Added a table</comment>
+    <model>wikitext</model>
+    <parentid>14136</parentid>
+    <sha1>66830e4c9ebb9f3a95c34b63787ce621b19dfb9d</sha1>
+  </revision>
+  <revision>
+    <id>14136</id>
+    <timestamp>2022-04-01T02:22:18Z</timestamp>
+    <text bytes="38" space="preserve">Testing the ability to edit this page.</text>
+    <contributor>
+      <username>Awaiko</username>
+      <id>89</id>
+    </contributor>
+    <comment>Introduced text</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>1b27f2e21c16a0e4c73504f6f120991d022c7024</sha1>
+  </revision>
+</page>

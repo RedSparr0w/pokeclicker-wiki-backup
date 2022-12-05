@@ -1,0 +1,88 @@
+<page>
+  <title>Charti</title>
+  <ns>0</ns>
+  <id>709</id>
+  <revision>
+    <id>7673</id>
+    <timestamp>2021-02-22T19:27:26Z</timestamp>
+    <text bytes="3332" space="preserve">{{Infobox Berry
+|name    = #47 Charti
+|image   = [[File:Charti.png]]
+|caption = It is often used for pickles because of its very dry flavor. It can also be eaten raw for its provocative taste. This Berry plant hardens the surrounding soil, decreasing the chances of replanting.
+|growtime  = 10h 30m 0s
+|harvest = 32 berries
+|replant = 5%
+|points = 2,000
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*10 spicy 
+*20 dry
+*0 sweet
+*0 bitter
+*0 sour
+}}
+
+'''Charti''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by planting [[Cornn]] and equipping the [[Cell Battery]]. The Cornn will then have a chance to mutate into this berry.
+
+== Growth Tables ==
+=== Growth Stages ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 2 hours 23 mins 20 secs || 3 hours 36 mins || 6 hours 24 mins || 10 hours 30 mins - 21 hours
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:ChartiTreeTaller.png|50px]] || &lt;center&gt; [[File:ChartiTreeBloom.png|50px]] || &lt;center&gt; [[File:ChartiTreeBerry.png|50px]]
+|-
+! Aura (replant chance)
+| || &lt;center&gt; x0.99 || &lt;center&gt; x0.98 || &lt;center&gt; x0.97
+|}
+
+=== Ripening Time with Modifiers  ===
+{| class="wikitable" | style="text-align: center;"
+! Modifier !! Ripe-Wither Time !! Boost Mulch Needed to Ripen
+|-
+! None
+| 10 hours 30 mins -&lt;br&gt; 21 hours || ---
+|-
+! Mulch/Sprayduck
+| 7 hours -&lt;br&gt; 14 hours || 84 mulch
+|-
+! Mulch*Sprayduck
+| 4 hours 40 mins -&lt;br&gt; 9 hours 20 mins || 56 mulch
+|}
+
+== Flow Chart ==
+[[File:Charti_Flow_Chart1.png|250px]]
+&lt;br&gt;
+
+== Mutation Strategy ==
+=== Possible Planting Formations ===
+
+You can fill your farm in the following way to obtain Charti berries. Purple squares indicate where mutations can occur.
+
+{| class="wikitable" style="text-align: center;"
+|+ Farm
+|- style="background-color:#9C7D98;"
+| style="width: 50px;" | [[File:Cornn.png|30px]]&lt;br&gt;'''[[Cornn]]''' || style="width: 50px;" | [[File:Cornn.png|30px]]&lt;br&gt;'''[[Cornn]]''' || style="width: 50px;" | [[File:Cornn.png|30px]]&lt;br&gt;'''[[Cornn]]''' || style="width: 50px;" | [[File:Cornn.png|30px]]&lt;br&gt;'''[[Cornn]]''' || style="width: 50px;" | [[File:Cornn.png|30px]]&lt;br&gt;'''[[Cornn]]'''
+|- style="background-color:#9C7D98;"
+| [[File:Cornn.png|30px]]&lt;br&gt;'''[[Cornn]]''' || [[File:Cornn.png|30px]]&lt;br&gt;'''[[Cornn]]''' || [[File:Cornn.png|30px]]&lt;br&gt;'''[[Cornn]]''' || [[File:Cornn.png|30px]]&lt;br&gt;'''[[Cornn]]''' || [[File:Cornn.png|30px]]&lt;br&gt;'''[[Cornn]]'''
+|- style="height: 26px; background-color:#9C7D98;"
+| [[File:Cornn.png|30px]]&lt;br&gt;'''[[Cornn]]''' || [[File:Cornn.png|30px]]&lt;br&gt;'''[[Cornn]]''' || [[File:Cornn.png|30px]]&lt;br&gt;'''[[Cornn]]''' || [[File:Cornn.png|30px]]&lt;br&gt;'''[[Cornn]]''' || [[File:Cornn.png|30px]]&lt;br&gt;'''[[Cornn]]'''
+|- style="background-color:#9C7D98;"
+| [[File:Cornn.png|30px]]&lt;br&gt;'''[[Cornn]]''' || [[File:Cornn.png|30px]]&lt;br&gt;'''[[Cornn]]''' || [[File:Cornn.png|30px]]&lt;br&gt;'''[[Cornn]]''' || [[File:Cornn.png|30px]]&lt;br&gt;'''[[Cornn]]''' || [[File:Cornn.png|30px]]&lt;br&gt;'''[[Cornn]]'''
+|- style="background-color:#9C7D98;"
+| [[File:Cornn.png|30px]]&lt;br&gt;'''[[Cornn]]''' || [[File:Cornn.png|30px]]&lt;br&gt;'''[[Cornn]]''' || [[File:Cornn.png|30px]]&lt;br&gt;'''[[Cornn]]''' || [[File:Cornn.png|30px]]&lt;br&gt;'''[[Cornn]]''' || [[File:Cornn.png|30px]]&lt;br&gt;'''[[Cornn]]'''
+|}
+
+{{Berries}}</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment>/* Flow Chart */</comment>
+    <model>wikitext</model>
+    <parentid>7672</parentid>
+    <sha1>69fb2cdf6d0af1ad140807548c7b313b409b2f54</sha1>
+  </revision>
+</page>

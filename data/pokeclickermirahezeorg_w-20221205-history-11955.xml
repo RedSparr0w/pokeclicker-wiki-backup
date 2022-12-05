@@ -1,0 +1,64 @@
+<page>
+  <title>Passho</title>
+  <ns>0</ns>
+  <id>625</id>
+  <revision>
+    <id>7127</id>
+    <timestamp>2020-12-13T01:08:20Z</timestamp>
+    <text bytes="1820" space="preserve">{{Infobox Berry
+|name    = Passho
+|image   = [[File:Passho.png]]
+|caption = This Berry's flesh is dotted with countless tiny bubbles of air that keep it afloat in water. This Berry promotes the fruiting of nearby Berry plants.
+|growtime  =6h 0m 0s
+|harvest = 22 berries
+|replant = 5%
+|points = 1,300
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 spicy 
+*15 dry
+*0 sweet
+*10 bitter
+*0 sour
+}}
+'''Passho''' is a type of [[Berries|Berry]] that can be planted in [[Farm]]. It can be obtained by surrounding an empty plot with at least 1 [[Oran]], at least 1 [[Chesto]], at least 1 [[Kelpsy]] and at least 1 [[Coba]].
+
+{| class="wikitable"
+|+ Growth Stages
+!!! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 8 mins 10 secs || 1 hour || 3 hours || 6 hours 12 hours
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:PasshoTreeTaller.png|50px]] || &lt;center&gt; [[File:PasshoTreeBloom.png|50px]] || &lt;center&gt; [[File:PasshoTreeBerry.png|50px]]
+|}
+
+=== Possible Planting Formations ===
+
+You can fill your [[farm]] in following way to obtain Passho berry.
+
+{| class="wikitable" style="text-align: center;"
+|+ Farm
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Oran.png|30px]] [[Oran]] || style="width: 40px;" | || style="width: 40px;" | [[File:Kelpsy.png|30px]] [[Kelpsy]] || style="width: 40px;" | || style="width: 40px;" | [[File:Oran.png|30px]] [[Oran]]
+|-
+| [[File:Chesto.png|30px]] [[Chesto]] ||  || [[File:Coba.png|30px]] [[Coba]] ||  || [[File:Chesto.png|30px]] [[Chesto]]
+|- style="height: 50px;"
+| || || || || 
+|-
+| [[File:Kelpsy.png|30px]] [[Kelpsy]]  ||  || [[File:Oran.png|30px]] [[Oran]] || || [[File:Kelpsy.png|30px]] [[Kelpsy]] 
+|-
+| [[File:Coba.png|30px]] [[Coba]] ||  || [[File:Chesto.png|30px]] [[Chesto]] ||  || [[File:Coba.png|30px]] [[Coba]]
+|}
+
+{{Berries}}</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment>Passho Fixes</comment>
+    <model>wikitext</model>
+    <parentid>7126</parentid>
+    <sha1>10ab00ce87907b7a3879011be34547a6bdf1b5d8</sha1>
+  </revision>
+</page>

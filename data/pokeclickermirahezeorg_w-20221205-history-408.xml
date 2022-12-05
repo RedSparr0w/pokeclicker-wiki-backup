@@ -1,0 +1,1999 @@
+<page>
+  <title>Kebia/fr</title>
+  <ns>0</ns>
+  <id>9107</id>
+  <revision>
+    <id>24745</id>
+    <timestamp>2022-08-19T18:41:49Z</timestamp>
+    <text bytes="5487" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #42 Kébia
+|image   = [[File:Kebia.png]]
+|caption = L'extérieur de cette baie est d'un vert brillant. This Berry is a brilliant green on the outside. À l'intérieur, elle est remplie d'une chair noire au goût sec. Elle a tendance à parasiter les plantes voisines. Grâce à sa nature vénéneuse, elle augmente les chances de mutations à ses alentours.
+|growtime  = 10m 0s
+|harvest = 1 baie
+|replant = 100%
+|mutation = 0.01%
+|points = 50
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 Épicée
+*15 Sèche
+*0 Sucrée
+*0 Amère
+*10 Acide
+}}
+
+'''Kébia''' est un type de [[Berries/fr|Baie]] qui peut être plantée à la [[Farm/fr|Ferme]]. Elle peut être obtenue en plantant une [[Pamtre/fr|Palma]] tout en équipant le [[Rocky Helmet/fr|Casque Brut]]. La Palma aura alors une chance de muter en Kébia. Cette baie peut aussi être achetée au [[Berry Master|Maître des baies]] contre 10 000 {{farmpoints}} si vous jouez en [[Challenge Mode/fr|mode Challenge]] pas d'objets de Chen, et avez déjà débloqué la baie Palma. Les [[Farming Setups/fr|configurations de la Ferme]] avec des baies Kébia peuvent être trouvées [[Farming Setups/fr#Stratégies d'Amélioration du Carapuce à O|ici]].
+
+== Tables de croissance ==
+=== Stades de croissance ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Pousse !! Arbuste !! Fleuri !! Mûr
+|-
+! Temps écoulé après plantation
+| 1 min 40 secs || 3 mins 20 secs || 6 mins 40 secs || 10 mins - 24 heures
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:KebiaTreeTaller.png|50px]] || &lt;center&gt; [[File:KebiaTreeBloom.png|50px]] || &lt;center&gt; [[File:KebiaTreeBerry.png|50px]]
+|-
+! Aura (chance de mutation)
+| || &lt;center&gt; x1.2 || &lt;center&gt; x1.4 || &lt;center&gt; x1.6
+|-
+! Parasite (Tendance à remplacer les autres plants)
+| colspan=3|&lt;center&gt; N/A || &lt;center&gt; 0.04%
+|}
+
+=== Temps de croissance avec modificateurs ===
+{| class="wikitable" | style="text-align: center;"
+! Modificateur !! Temps maturité-flétrissement !! Nombre de Fertipousse requis
+|-
+! Aucun
+| 10 mins -&lt;br&gt; 23 heures 50 mins || ---
+|-
+! Engrais ou Kwakarrosoir
+| 6 mins 40 secs -&lt;br&gt; 15 heures 53 mins 20 secs || 2 engrais
+|-
+! Engrais et Kwakarrosoir
+| 4 mins 27 secs -&lt;br&gt; 10 heures 35 mins 33 secs || 1 engrais
+|}
+
+== Organigramme ==
+[[File:Kébia_-_Graph_découverte.png|250px]]
+&lt;br&gt;
+
+== Stratégie de mutation ==
+=== Formations possibles ===
+Vous pouvez remplir votre ferme de la manière suivante pour obtenir des baies Kébia. Les cases violettes indiquent où les mutations peuvent avoir lieu.
+
+{| class="wikitable" style="text-align: center;"
+|+ Ferme
+|- style="background-color:#9C7D98;"
+| style="width: 50px;" | [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || style="width: 50px;" | [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || style="width: 50px;" | [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || style="width: 50px;" | [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || style="width: 50px;" | [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]'''
+|- style="background-color:#9C7D98;"
+| [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]'''
+|- style="height: 26px; background-color:#9C7D98;"
+| [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]'''
+|- style="background-color:#9C7D98;"
+| [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]'''
+|- style="background-color:#9C7D98;"
+| [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]'''
+|}
+
+==Utilisations==
+===Mutations===
+
+Les baies Kébia peuvent être utilisées pour faire muter les baies suivantes :
+
+{| class="wikitable" | style="text-align: center;"
+|-
+! Utilisée pour !! Plantée avec
+|-
+| [[File:Petaya.png|20px]] [[Petaya/fr|Pitaye]] || [[File:Occa.png|20px]] [[Occa/fr|Chocco]] [[File:Passho.png|20px]] [[Passho/fr|Pocpoc]] &lt;br&gt; [[File:Wacan.png|20px]] [[Wacan/fr|Parma]] [[File:Rindo.png|20px]] [[Rindo/fr|Ratam]] &lt;br&gt; [[File:Yache.png|20px]] [[Yache/fr|Nanone]] [[File:Chople.png|20px]] [[Chople/fr|Pomroz]] &lt;br&gt; [[File:Shuca.png|20px]] [[Shuca/fr|Jouca]] [[File:Coba.png|20px]] [[Coba/fr|Cobaba]] &lt;br&gt; [[File:Payapa.png|20px]] [[Payapa/fr|Yayap]] [[File:Tanga.png|20px]] [[Tanga/fr|Panga]] &lt;br&gt; [[File:Charti.png|20px]] [[Charti/fr]] [[File:Kasib.png|20px]] [[Kasib/fr|Sédra]] &lt;br&gt; [[File:Haban.png|20px]] [[Haban/fr|Fraigo]] [[File:Colbur.png|20px]] [[Colbur/fr|Lampou]] &lt;br&gt; [[File:Babiri.png|20px]] [[Babiri/fr]] [[File:Chilan.png|20px]] [[Chilan/fr|Zalis]] &lt;br&gt; [[File:Roseli.png|20px]] [[Roseli/fr|Selro]]
+|-
+|}
+
+&lt;br&gt;
+
+{{Berries}}
+
+[[Category:Farm]][[Category:Berries]]</text>
+    <contributor>
+      <username>Incandescence</username>
+      <id>141</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>24744</parentid>
+    <sha1>60b47ca221571e377b30ab9bfc27e6746091744c</sha1>
+  </revision>
+  <revision>
+    <id>24744</id>
+    <timestamp>2022-08-19T18:33:45Z</timestamp>
+    <text bytes="5477" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #42 Kébia
+|image   = [[File:Kebia.png]]
+|caption = L'extérieur de cette baie est d'un vert brillant. This Berry is a brilliant green on the outside. À l'intérieur, elle est remplie d'une chair noire au goût sec. Elle a tendance à parasiter les plantes voisines. Grâce à sa nature vénéneuse, elle augmente les chances de mutations à ses alentours.
+|growtime  = 10m 0s
+|harvest = 1 baie
+|replant = 100%
+|mutation = 0.01%
+|points = 50
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 Épicée
+*15 Sèche
+*0 Sucrée
+*0 Amère
+*10 Acide
+}}
+
+'''Kébia''' est un type de [[Berries/fr|Baie]] qui peut être plantée à la [[Farm/fr|Ferme]]. Elle peut être obtenue en plantant une [[Pamtre/fr|Palma]] tout en équipant le [[Rocky Helmet/fr|Casque Brut]]. La Palma aura alors une chance de muter en Kébia. Cette baie peut aussi être achetée au [[Berry Master|Maître des baies]] contre 10 000 {{farmpoints}} si vous jouez en [[Challenge Mode/fr|mode Challenge]] pas d'objets de Chen, et avez déjà débloqué la baie Palma. Les [[Farming Setups/fr|configurations de la Ferme]] avec des baies Kébia peuvent être trouvées [[Farming Setups/fr#Stratégies d'Amélioration du Carapuce à O|ici]].
+
+== Tables de croissance ==
+=== Stades de croissance ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Pousse !! Arbuste !! Fleuri !! Mûr
+|-
+! Temps écoulé après plantation
+| 1 min 40 secs || 3 mins 20 secs || 6 mins 40 secs || 10 mins - 24 heures
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:KebiaTreeTaller.png|50px]] || &lt;center&gt; [[File:KebiaTreeBloom.png|50px]] || &lt;center&gt; [[File:KebiaTreeBerry.png|50px]]
+|-
+! Aura (chance de mutation)
+| || &lt;center&gt; x1.2 || &lt;center&gt; x1.4 || &lt;center&gt; x1.6
+|-
+! Parasite (Tendance à remplacer les autres plants)
+| colspan=3|&lt;center&gt; N/A || &lt;center&gt; 0.04%
+|}
+
+=== Temps de croissance avec modificateurs ===
+{| class="wikitable" | style="text-align: center;"
+! Modificateur !! Temps maturité-flétrissement !! Nombre de Fertipousse requis
+|-
+! Aucun
+| 10 mins -&lt;br&gt; 23 heures 50 mins || ---
+|-
+! Engrais ou Kwakarrosoir
+| 6 mins 40 secs -&lt;br&gt; 15 heures 53 mins 20 secs || 2 engrais
+|-
+! Engrais et Kwakarrosoir
+| 4 mins 27 secs -&lt;br&gt; 10 heures 35 mins 33 secs || 1 engrais
+|}
+
+== Organigramme ==
+[[File:Kebia_Flow_Chart.png|250px]]
+&lt;br&gt;
+
+== Stratégie de mutation ==
+=== Formations possibles ===
+Vous pouvez remplir votre ferme de la manière suivante pour obtenir des baies Kébia. Les cases violettes indiquent où les mutations peuvent avoir lieu.
+
+{| class="wikitable" style="text-align: center;"
+|+ Ferme
+|- style="background-color:#9C7D98;"
+| style="width: 50px;" | [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || style="width: 50px;" | [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || style="width: 50px;" | [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || style="width: 50px;" | [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || style="width: 50px;" | [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]'''
+|- style="background-color:#9C7D98;"
+| [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]'''
+|- style="height: 26px; background-color:#9C7D98;"
+| [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]'''
+|- style="background-color:#9C7D98;"
+| [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]'''
+|- style="background-color:#9C7D98;"
+| [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]'''
+|}
+
+==Utilisations==
+===Mutations===
+
+Les baies Kébia peuvent être utilisées pour faire muter les baies suivantes :
+
+{| class="wikitable" | style="text-align: center;"
+|-
+! Utilisée pour !! Plantée avec
+|-
+| [[File:Petaya.png|20px]] [[Petaya/fr|Pitaye]] || [[File:Occa.png|20px]] [[Occa/fr|Chocco]] [[File:Passho.png|20px]] [[Passho/fr|Pocpoc]] &lt;br&gt; [[File:Wacan.png|20px]] [[Wacan/fr|Parma]] [[File:Rindo.png|20px]] [[Rindo/fr|Ratam]] &lt;br&gt; [[File:Yache.png|20px]] [[Yache/fr|Nanone]] [[File:Chople.png|20px]] [[Chople/fr|Pomroz]] &lt;br&gt; [[File:Shuca.png|20px]] [[Shuca/fr|Jouca]] [[File:Coba.png|20px]] [[Coba/fr|Cobaba]] &lt;br&gt; [[File:Payapa.png|20px]] [[Payapa/fr|Yayap]] [[File:Tanga.png|20px]] [[Tanga/fr|Panga]] &lt;br&gt; [[File:Charti.png|20px]] [[Charti/fr]] [[File:Kasib.png|20px]] [[Kasib/fr|Sédra]] &lt;br&gt; [[File:Haban.png|20px]] [[Haban/fr|Fraigo]] [[File:Colbur.png|20px]] [[Colbur/fr|Lampou]] &lt;br&gt; [[File:Babiri.png|20px]] [[Babiri/fr]] [[File:Chilan.png|20px]] [[Chilan/fr|Zalis]] &lt;br&gt; [[File:Roseli.png|20px]] [[Roseli/fr|Selro]]
+|-
+|}
+
+&lt;br&gt;
+
+{{Berries}}
+
+[[Category:Farm]][[Category:Berries]]</text>
+    <contributor>
+      <username>Incandescence</username>
+      <id>141</id>
+    </contributor>
+    <comment>Created page with "[[Category:Farm]][[Category:Berries]]"</comment>
+    <model>wikitext</model>
+    <parentid>24743</parentid>
+    <sha1>906cc2980709833027eaa3a34ba476a269519db8</sha1>
+  </revision>
+  <revision>
+    <id>24743</id>
+    <timestamp>2022-08-19T18:33:40Z</timestamp>
+    <text bytes="5533" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #42 Kébia
+|image   = [[File:Kebia.png]]
+|caption = L'extérieur de cette baie est d'un vert brillant. This Berry is a brilliant green on the outside. À l'intérieur, elle est remplie d'une chair noire au goût sec. Elle a tendance à parasiter les plantes voisines. Grâce à sa nature vénéneuse, elle augmente les chances de mutations à ses alentours.
+|growtime  = 10m 0s
+|harvest = 1 baie
+|replant = 100%
+|mutation = 0.01%
+|points = 50
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 Épicée
+*15 Sèche
+*0 Sucrée
+*0 Amère
+*10 Acide
+}}
+
+'''Kébia''' est un type de [[Berries/fr|Baie]] qui peut être plantée à la [[Farm/fr|Ferme]]. Elle peut être obtenue en plantant une [[Pamtre/fr|Palma]] tout en équipant le [[Rocky Helmet/fr|Casque Brut]]. La Palma aura alors une chance de muter en Kébia. Cette baie peut aussi être achetée au [[Berry Master|Maître des baies]] contre 10 000 {{farmpoints}} si vous jouez en [[Challenge Mode/fr|mode Challenge]] pas d'objets de Chen, et avez déjà débloqué la baie Palma. Les [[Farming Setups/fr|configurations de la Ferme]] avec des baies Kébia peuvent être trouvées [[Farming Setups/fr#Stratégies d'Amélioration du Carapuce à O|ici]].
+
+== Tables de croissance ==
+=== Stades de croissance ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Pousse !! Arbuste !! Fleuri !! Mûr
+|-
+! Temps écoulé après plantation
+| 1 min 40 secs || 3 mins 20 secs || 6 mins 40 secs || 10 mins - 24 heures
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:KebiaTreeTaller.png|50px]] || &lt;center&gt; [[File:KebiaTreeBloom.png|50px]] || &lt;center&gt; [[File:KebiaTreeBerry.png|50px]]
+|-
+! Aura (chance de mutation)
+| || &lt;center&gt; x1.2 || &lt;center&gt; x1.4 || &lt;center&gt; x1.6
+|-
+! Parasite (Tendance à remplacer les autres plants)
+| colspan=3|&lt;center&gt; N/A || &lt;center&gt; 0.04%
+|}
+
+=== Temps de croissance avec modificateurs ===
+{| class="wikitable" | style="text-align: center;"
+! Modificateur !! Temps maturité-flétrissement !! Nombre de Fertipousse requis
+|-
+! Aucun
+| 10 mins -&lt;br&gt; 23 heures 50 mins || ---
+|-
+! Engrais ou Kwakarrosoir
+| 6 mins 40 secs -&lt;br&gt; 15 heures 53 mins 20 secs || 2 engrais
+|-
+! Engrais et Kwakarrosoir
+| 4 mins 27 secs -&lt;br&gt; 10 heures 35 mins 33 secs || 1 engrais
+|}
+
+== Organigramme ==
+[[File:Kebia_Flow_Chart.png|250px]]
+&lt;br&gt;
+
+== Stratégie de mutation ==
+=== Formations possibles ===
+Vous pouvez remplir votre ferme de la manière suivante pour obtenir des baies Kébia. Les cases violettes indiquent où les mutations peuvent avoir lieu.
+
+{| class="wikitable" style="text-align: center;"
+|+ Ferme
+|- style="background-color:#9C7D98;"
+| style="width: 50px;" | [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || style="width: 50px;" | [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || style="width: 50px;" | [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || style="width: 50px;" | [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || style="width: 50px;" | [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]'''
+|- style="background-color:#9C7D98;"
+| [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]'''
+|- style="height: 26px; background-color:#9C7D98;"
+| [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]'''
+|- style="background-color:#9C7D98;"
+| [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]'''
+|- style="background-color:#9C7D98;"
+| [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]'''
+|}
+
+==Utilisations==
+===Mutations===
+
+Les baies Kébia peuvent être utilisées pour faire muter les baies suivantes :
+
+{| class="wikitable" | style="text-align: center;"
+|-
+! Utilisée pour !! Plantée avec
+|-
+| [[File:Petaya.png|20px]] [[Petaya/fr|Pitaye]] || [[File:Occa.png|20px]] [[Occa/fr|Chocco]] [[File:Passho.png|20px]] [[Passho/fr|Pocpoc]] &lt;br&gt; [[File:Wacan.png|20px]] [[Wacan/fr|Parma]] [[File:Rindo.png|20px]] [[Rindo/fr|Ratam]] &lt;br&gt; [[File:Yache.png|20px]] [[Yache/fr|Nanone]] [[File:Chople.png|20px]] [[Chople/fr|Pomroz]] &lt;br&gt; [[File:Shuca.png|20px]] [[Shuca/fr|Jouca]] [[File:Coba.png|20px]] [[Coba/fr|Cobaba]] &lt;br&gt; [[File:Payapa.png|20px]] [[Payapa/fr|Yayap]] [[File:Tanga.png|20px]] [[Tanga/fr|Panga]] &lt;br&gt; [[File:Charti.png|20px]] [[Charti/fr]] [[File:Kasib.png|20px]] [[Kasib/fr|Sédra]] &lt;br&gt; [[File:Haban.png|20px]] [[Haban/fr|Fraigo]] [[File:Colbur.png|20px]] [[Colbur/fr|Lampou]] &lt;br&gt; [[File:Babiri.png|20px]] [[Babiri/fr]] [[File:Chilan.png|20px]] [[Chilan/fr|Zalis]] &lt;br&gt; [[File:Roseli.png|20px]] [[Roseli/fr|Selro]]
+|-
+|}
+
+&lt;br&gt;
+
+{{Berries}}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>Incandescence</username>
+      <id>141</id>
+    </contributor>
+    <comment>Created page with "{{Berries}}"</comment>
+    <model>wikitext</model>
+    <parentid>24742</parentid>
+    <sha1>7a2a95b1a63ef3617cf5e5a62871b7b486d44216</sha1>
+  </revision>
+  <revision>
+    <id>24742</id>
+    <timestamp>2022-08-19T18:33:35Z</timestamp>
+    <text bytes="5589" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #42 Kébia
+|image   = [[File:Kebia.png]]
+|caption = L'extérieur de cette baie est d'un vert brillant. This Berry is a brilliant green on the outside. À l'intérieur, elle est remplie d'une chair noire au goût sec. Elle a tendance à parasiter les plantes voisines. Grâce à sa nature vénéneuse, elle augmente les chances de mutations à ses alentours.
+|growtime  = 10m 0s
+|harvest = 1 baie
+|replant = 100%
+|mutation = 0.01%
+|points = 50
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 Épicée
+*15 Sèche
+*0 Sucrée
+*0 Amère
+*10 Acide
+}}
+
+'''Kébia''' est un type de [[Berries/fr|Baie]] qui peut être plantée à la [[Farm/fr|Ferme]]. Elle peut être obtenue en plantant une [[Pamtre/fr|Palma]] tout en équipant le [[Rocky Helmet/fr|Casque Brut]]. La Palma aura alors une chance de muter en Kébia. Cette baie peut aussi être achetée au [[Berry Master|Maître des baies]] contre 10 000 {{farmpoints}} si vous jouez en [[Challenge Mode/fr|mode Challenge]] pas d'objets de Chen, et avez déjà débloqué la baie Palma. Les [[Farming Setups/fr|configurations de la Ferme]] avec des baies Kébia peuvent être trouvées [[Farming Setups/fr#Stratégies d'Amélioration du Carapuce à O|ici]].
+
+== Tables de croissance ==
+=== Stades de croissance ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Pousse !! Arbuste !! Fleuri !! Mûr
+|-
+! Temps écoulé après plantation
+| 1 min 40 secs || 3 mins 20 secs || 6 mins 40 secs || 10 mins - 24 heures
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:KebiaTreeTaller.png|50px]] || &lt;center&gt; [[File:KebiaTreeBloom.png|50px]] || &lt;center&gt; [[File:KebiaTreeBerry.png|50px]]
+|-
+! Aura (chance de mutation)
+| || &lt;center&gt; x1.2 || &lt;center&gt; x1.4 || &lt;center&gt; x1.6
+|-
+! Parasite (Tendance à remplacer les autres plants)
+| colspan=3|&lt;center&gt; N/A || &lt;center&gt; 0.04%
+|}
+
+=== Temps de croissance avec modificateurs ===
+{| class="wikitable" | style="text-align: center;"
+! Modificateur !! Temps maturité-flétrissement !! Nombre de Fertipousse requis
+|-
+! Aucun
+| 10 mins -&lt;br&gt; 23 heures 50 mins || ---
+|-
+! Engrais ou Kwakarrosoir
+| 6 mins 40 secs -&lt;br&gt; 15 heures 53 mins 20 secs || 2 engrais
+|-
+! Engrais et Kwakarrosoir
+| 4 mins 27 secs -&lt;br&gt; 10 heures 35 mins 33 secs || 1 engrais
+|}
+
+== Organigramme ==
+[[File:Kebia_Flow_Chart.png|250px]]
+&lt;br&gt;
+
+== Stratégie de mutation ==
+=== Formations possibles ===
+Vous pouvez remplir votre ferme de la manière suivante pour obtenir des baies Kébia. Les cases violettes indiquent où les mutations peuvent avoir lieu.
+
+{| class="wikitable" style="text-align: center;"
+|+ Ferme
+|- style="background-color:#9C7D98;"
+| style="width: 50px;" | [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || style="width: 50px;" | [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || style="width: 50px;" | [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || style="width: 50px;" | [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || style="width: 50px;" | [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]'''
+|- style="background-color:#9C7D98;"
+| [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]'''
+|- style="height: 26px; background-color:#9C7D98;"
+| [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]'''
+|- style="background-color:#9C7D98;"
+| [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]'''
+|- style="background-color:#9C7D98;"
+| [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]'''
+|}
+
+==Utilisations==
+===Mutations===
+
+Les baies Kébia peuvent être utilisées pour faire muter les baies suivantes :
+
+{| class="wikitable" | style="text-align: center;"
+|-
+! Utilisée pour !! Plantée avec
+|-
+| [[File:Petaya.png|20px]] [[Petaya/fr|Pitaye]] || [[File:Occa.png|20px]] [[Occa/fr|Chocco]] [[File:Passho.png|20px]] [[Passho/fr|Pocpoc]] &lt;br&gt; [[File:Wacan.png|20px]] [[Wacan/fr|Parma]] [[File:Rindo.png|20px]] [[Rindo/fr|Ratam]] &lt;br&gt; [[File:Yache.png|20px]] [[Yache/fr|Nanone]] [[File:Chople.png|20px]] [[Chople/fr|Pomroz]] &lt;br&gt; [[File:Shuca.png|20px]] [[Shuca/fr|Jouca]] [[File:Coba.png|20px]] [[Coba/fr|Cobaba]] &lt;br&gt; [[File:Payapa.png|20px]] [[Payapa/fr|Yayap]] [[File:Tanga.png|20px]] [[Tanga/fr|Panga]] &lt;br&gt; [[File:Charti.png|20px]] [[Charti/fr]] [[File:Kasib.png|20px]] [[Kasib/fr|Sédra]] &lt;br&gt; [[File:Haban.png|20px]] [[Haban/fr|Fraigo]] [[File:Colbur.png|20px]] [[Colbur/fr|Lampou]] &lt;br&gt; [[File:Babiri.png|20px]] [[Babiri/fr]] [[File:Chilan.png|20px]] [[Chilan/fr|Zalis]] &lt;br&gt; [[File:Roseli.png|20px]] [[Roseli/fr|Selro]]
+|-
+|}
+
+&lt;br&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>Incandescence</username>
+      <id>141</id>
+    </contributor>
+    <comment>Created page with "&lt;br&gt;"</comment>
+    <model>wikitext</model>
+    <parentid>24741</parentid>
+    <sha1>e625a42c5a3a6b7e5061c92ef674792bfe972c43</sha1>
+  </revision>
+  <revision>
+    <id>24741</id>
+    <timestamp>2022-08-19T18:33:29Z</timestamp>
+    <text bytes="5645" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #42 Kébia
+|image   = [[File:Kebia.png]]
+|caption = L'extérieur de cette baie est d'un vert brillant. This Berry is a brilliant green on the outside. À l'intérieur, elle est remplie d'une chair noire au goût sec. Elle a tendance à parasiter les plantes voisines. Grâce à sa nature vénéneuse, elle augmente les chances de mutations à ses alentours.
+|growtime  = 10m 0s
+|harvest = 1 baie
+|replant = 100%
+|mutation = 0.01%
+|points = 50
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 Épicée
+*15 Sèche
+*0 Sucrée
+*0 Amère
+*10 Acide
+}}
+
+'''Kébia''' est un type de [[Berries/fr|Baie]] qui peut être plantée à la [[Farm/fr|Ferme]]. Elle peut être obtenue en plantant une [[Pamtre/fr|Palma]] tout en équipant le [[Rocky Helmet/fr|Casque Brut]]. La Palma aura alors une chance de muter en Kébia. Cette baie peut aussi être achetée au [[Berry Master|Maître des baies]] contre 10 000 {{farmpoints}} si vous jouez en [[Challenge Mode/fr|mode Challenge]] pas d'objets de Chen, et avez déjà débloqué la baie Palma. Les [[Farming Setups/fr|configurations de la Ferme]] avec des baies Kébia peuvent être trouvées [[Farming Setups/fr#Stratégies d'Amélioration du Carapuce à O|ici]].
+
+== Tables de croissance ==
+=== Stades de croissance ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Pousse !! Arbuste !! Fleuri !! Mûr
+|-
+! Temps écoulé après plantation
+| 1 min 40 secs || 3 mins 20 secs || 6 mins 40 secs || 10 mins - 24 heures
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:KebiaTreeTaller.png|50px]] || &lt;center&gt; [[File:KebiaTreeBloom.png|50px]] || &lt;center&gt; [[File:KebiaTreeBerry.png|50px]]
+|-
+! Aura (chance de mutation)
+| || &lt;center&gt; x1.2 || &lt;center&gt; x1.4 || &lt;center&gt; x1.6
+|-
+! Parasite (Tendance à remplacer les autres plants)
+| colspan=3|&lt;center&gt; N/A || &lt;center&gt; 0.04%
+|}
+
+=== Temps de croissance avec modificateurs ===
+{| class="wikitable" | style="text-align: center;"
+! Modificateur !! Temps maturité-flétrissement !! Nombre de Fertipousse requis
+|-
+! Aucun
+| 10 mins -&lt;br&gt; 23 heures 50 mins || ---
+|-
+! Engrais ou Kwakarrosoir
+| 6 mins 40 secs -&lt;br&gt; 15 heures 53 mins 20 secs || 2 engrais
+|-
+! Engrais et Kwakarrosoir
+| 4 mins 27 secs -&lt;br&gt; 10 heures 35 mins 33 secs || 1 engrais
+|}
+
+== Organigramme ==
+[[File:Kebia_Flow_Chart.png|250px]]
+&lt;br&gt;
+
+== Stratégie de mutation ==
+=== Formations possibles ===
+Vous pouvez remplir votre ferme de la manière suivante pour obtenir des baies Kébia. Les cases violettes indiquent où les mutations peuvent avoir lieu.
+
+{| class="wikitable" style="text-align: center;"
+|+ Ferme
+|- style="background-color:#9C7D98;"
+| style="width: 50px;" | [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || style="width: 50px;" | [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || style="width: 50px;" | [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || style="width: 50px;" | [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || style="width: 50px;" | [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]'''
+|- style="background-color:#9C7D98;"
+| [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]'''
+|- style="height: 26px; background-color:#9C7D98;"
+| [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]'''
+|- style="background-color:#9C7D98;"
+| [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]'''
+|- style="background-color:#9C7D98;"
+| [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]'''
+|}
+
+==Utilisations==
+===Mutations===
+
+Les baies Kébia peuvent être utilisées pour faire muter les baies suivantes :
+
+{| class="wikitable" | style="text-align: center;"
+|-
+! Utilisée pour !! Plantée avec
+|-
+| [[File:Petaya.png|20px]] [[Petaya/fr|Pitaye]] || [[File:Occa.png|20px]] [[Occa/fr|Chocco]] [[File:Passho.png|20px]] [[Passho/fr|Pocpoc]] &lt;br&gt; [[File:Wacan.png|20px]] [[Wacan/fr|Parma]] [[File:Rindo.png|20px]] [[Rindo/fr|Ratam]] &lt;br&gt; [[File:Yache.png|20px]] [[Yache/fr|Nanone]] [[File:Chople.png|20px]] [[Chople/fr|Pomroz]] &lt;br&gt; [[File:Shuca.png|20px]] [[Shuca/fr|Jouca]] [[File:Coba.png|20px]] [[Coba/fr|Cobaba]] &lt;br&gt; [[File:Payapa.png|20px]] [[Payapa/fr|Yayap]] [[File:Tanga.png|20px]] [[Tanga/fr|Panga]] &lt;br&gt; [[File:Charti.png|20px]] [[Charti/fr]] [[File:Kasib.png|20px]] [[Kasib/fr|Sédra]] &lt;br&gt; [[File:Haban.png|20px]] [[Haban/fr|Fraigo]] [[File:Colbur.png|20px]] [[Colbur/fr|Lampou]] &lt;br&gt; [[File:Babiri.png|20px]] [[Babiri/fr]] [[File:Chilan.png|20px]] [[Chilan/fr|Zalis]] &lt;br&gt; [[File:Roseli.png|20px]] [[Roseli/fr|Selro]]
+|-
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>Incandescence</username>
+      <id>141</id>
+    </contributor>
+    <comment>Created page with "{| class="wikitable" | style="text-align: center;" |- ! Utilisée pour !! Plantée avec |- | [[File:Petaya.png|20px]] [[Petaya/fr|Pitaye]] || [[File:Occa.png|20px]] [[Occa/fr|Chocco]] [[File:Passho.png|20px]] [[Passho/fr|Pocpoc]] &lt;br&gt; [[File:Wacan.png|20px]] [[Wacan/fr|Parma]] [[File:Rindo.png|20px]] [[Rindo/fr|Ratam]] &lt;br&gt; [[File:Yache.png|20px]] [[Yache/fr|Nanone]] [[File:Chople.png|20px]] [[Chople/fr|Pomroz]] &lt;br&gt; [[File:Shuca.png|20px]] [[Shuca/fr|Jouca]] File:Coba..."</comment>
+    <model>wikitext</model>
+    <parentid>24740</parentid>
+    <sha1>8094d986292c4e0c1f0abfa95eef505aef3870d1</sha1>
+  </revision>
+  <revision>
+    <id>24740</id>
+    <timestamp>2022-08-19T18:28:15Z</timestamp>
+    <text bytes="5526" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #42 Kébia
+|image   = [[File:Kebia.png]]
+|caption = L'extérieur de cette baie est d'un vert brillant. This Berry is a brilliant green on the outside. À l'intérieur, elle est remplie d'une chair noire au goût sec. Elle a tendance à parasiter les plantes voisines. Grâce à sa nature vénéneuse, elle augmente les chances de mutations à ses alentours.
+|growtime  = 10m 0s
+|harvest = 1 baie
+|replant = 100%
+|mutation = 0.01%
+|points = 50
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 Épicée
+*15 Sèche
+*0 Sucrée
+*0 Amère
+*10 Acide
+}}
+
+'''Kébia''' est un type de [[Berries/fr|Baie]] qui peut être plantée à la [[Farm/fr|Ferme]]. Elle peut être obtenue en plantant une [[Pamtre/fr|Palma]] tout en équipant le [[Rocky Helmet/fr|Casque Brut]]. La Palma aura alors une chance de muter en Kébia. Cette baie peut aussi être achetée au [[Berry Master|Maître des baies]] contre 10 000 {{farmpoints}} si vous jouez en [[Challenge Mode/fr|mode Challenge]] pas d'objets de Chen, et avez déjà débloqué la baie Palma. Les [[Farming Setups/fr|configurations de la Ferme]] avec des baies Kébia peuvent être trouvées [[Farming Setups/fr#Stratégies d'Amélioration du Carapuce à O|ici]].
+
+== Tables de croissance ==
+=== Stades de croissance ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Pousse !! Arbuste !! Fleuri !! Mûr
+|-
+! Temps écoulé après plantation
+| 1 min 40 secs || 3 mins 20 secs || 6 mins 40 secs || 10 mins - 24 heures
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:KebiaTreeTaller.png|50px]] || &lt;center&gt; [[File:KebiaTreeBloom.png|50px]] || &lt;center&gt; [[File:KebiaTreeBerry.png|50px]]
+|-
+! Aura (chance de mutation)
+| || &lt;center&gt; x1.2 || &lt;center&gt; x1.4 || &lt;center&gt; x1.6
+|-
+! Parasite (Tendance à remplacer les autres plants)
+| colspan=3|&lt;center&gt; N/A || &lt;center&gt; 0.04%
+|}
+
+=== Temps de croissance avec modificateurs ===
+{| class="wikitable" | style="text-align: center;"
+! Modificateur !! Temps maturité-flétrissement !! Nombre de Fertipousse requis
+|-
+! Aucun
+| 10 mins -&lt;br&gt; 23 heures 50 mins || ---
+|-
+! Engrais ou Kwakarrosoir
+| 6 mins 40 secs -&lt;br&gt; 15 heures 53 mins 20 secs || 2 engrais
+|-
+! Engrais et Kwakarrosoir
+| 4 mins 27 secs -&lt;br&gt; 10 heures 35 mins 33 secs || 1 engrais
+|}
+
+== Organigramme ==
+[[File:Kebia_Flow_Chart.png|250px]]
+&lt;br&gt;
+
+== Stratégie de mutation ==
+=== Formations possibles ===
+Vous pouvez remplir votre ferme de la manière suivante pour obtenir des baies Kébia. Les cases violettes indiquent où les mutations peuvent avoir lieu.
+
+{| class="wikitable" style="text-align: center;"
+|+ Ferme
+|- style="background-color:#9C7D98;"
+| style="width: 50px;" | [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || style="width: 50px;" | [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || style="width: 50px;" | [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || style="width: 50px;" | [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || style="width: 50px;" | [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]'''
+|- style="background-color:#9C7D98;"
+| [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]'''
+|- style="height: 26px; background-color:#9C7D98;"
+| [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]'''
+|- style="background-color:#9C7D98;"
+| [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]'''
+|- style="background-color:#9C7D98;"
+| [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]'''
+|}
+
+==Utilisations==
+===Mutations===
+
+Les baies Kébia peuvent être utilisées pour faire muter les baies suivantes :
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Petaya.png|20px]] [[Petaya]] || [[File:Occa.png|20px]] [[Occa]] [[File:Passho.png|20px]] [[Passho]] &lt;br&gt; [[File:Wacan.png|20px]] [[Wacan]] [[File:Rindo.png|20px]] [[Rindo]] &lt;br&gt; [[File:Yache.png|20px]] [[Yache]] [[File:Chople.png|20px]] [[Chople]] &lt;br&gt; [[File:Shuca.png|20px]] [[Shuca]] [[File:Coba.png|20px]] [[Coba]] &lt;br&gt; [[File:Payapa.png|20px]] [[Payapa]] [[File:Tanga.png|20px]] [[Tanga]] &lt;br&gt; [[File:Charti.png|20px]] [[Charti]] [[File:Kasib.png|20px]] [[Kasib]] &lt;br&gt; [[File:Haban.png|20px]] [[Haban]] [[File:Colbur.png|20px]] [[Colbur]] &lt;br&gt; [[File:Babiri.png|20px]] [[Babiri]] [[File:Chilan.png|20px]] [[Chilan]] &lt;br&gt; [[File:Roseli.png|20px]] [[Roseli]]
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>Incandescence</username>
+      <id>141</id>
+    </contributor>
+    <comment>Created page with "Les baies Kébia peuvent être utilisées pour faire muter les baies suivantes :"</comment>
+    <model>wikitext</model>
+    <parentid>24739</parentid>
+    <sha1>8358f5d2dfa2280f758150c661e2c904e53ccf76</sha1>
+  </revision>
+  <revision>
+    <id>24739</id>
+    <timestamp>2022-08-19T18:27:55Z</timestamp>
+    <text bytes="5560" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #42 Kébia
+|image   = [[File:Kebia.png]]
+|caption = L'extérieur de cette baie est d'un vert brillant. This Berry is a brilliant green on the outside. À l'intérieur, elle est remplie d'une chair noire au goût sec. Elle a tendance à parasiter les plantes voisines. Grâce à sa nature vénéneuse, elle augmente les chances de mutations à ses alentours.
+|growtime  = 10m 0s
+|harvest = 1 baie
+|replant = 100%
+|mutation = 0.01%
+|points = 50
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 Épicée
+*15 Sèche
+*0 Sucrée
+*0 Amère
+*10 Acide
+}}
+
+'''Kébia''' est un type de [[Berries/fr|Baie]] qui peut être plantée à la [[Farm/fr|Ferme]]. Elle peut être obtenue en plantant une [[Pamtre/fr|Palma]] tout en équipant le [[Rocky Helmet/fr|Casque Brut]]. La Palma aura alors une chance de muter en Kébia. Cette baie peut aussi être achetée au [[Berry Master|Maître des baies]] contre 10 000 {{farmpoints}} si vous jouez en [[Challenge Mode/fr|mode Challenge]] pas d'objets de Chen, et avez déjà débloqué la baie Palma. Les [[Farming Setups/fr|configurations de la Ferme]] avec des baies Kébia peuvent être trouvées [[Farming Setups/fr#Stratégies d'Amélioration du Carapuce à O|ici]].
+
+== Tables de croissance ==
+=== Stades de croissance ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Pousse !! Arbuste !! Fleuri !! Mûr
+|-
+! Temps écoulé après plantation
+| 1 min 40 secs || 3 mins 20 secs || 6 mins 40 secs || 10 mins - 24 heures
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:KebiaTreeTaller.png|50px]] || &lt;center&gt; [[File:KebiaTreeBloom.png|50px]] || &lt;center&gt; [[File:KebiaTreeBerry.png|50px]]
+|-
+! Aura (chance de mutation)
+| || &lt;center&gt; x1.2 || &lt;center&gt; x1.4 || &lt;center&gt; x1.6
+|-
+! Parasite (Tendance à remplacer les autres plants)
+| colspan=3|&lt;center&gt; N/A || &lt;center&gt; 0.04%
+|}
+
+=== Temps de croissance avec modificateurs ===
+{| class="wikitable" | style="text-align: center;"
+! Modificateur !! Temps maturité-flétrissement !! Nombre de Fertipousse requis
+|-
+! Aucun
+| 10 mins -&lt;br&gt; 23 heures 50 mins || ---
+|-
+! Engrais ou Kwakarrosoir
+| 6 mins 40 secs -&lt;br&gt; 15 heures 53 mins 20 secs || 2 engrais
+|-
+! Engrais et Kwakarrosoir
+| 4 mins 27 secs -&lt;br&gt; 10 heures 35 mins 33 secs || 1 engrais
+|}
+
+== Organigramme ==
+[[File:Kebia_Flow_Chart.png|250px]]
+&lt;br&gt;
+
+== Stratégie de mutation ==
+=== Formations possibles ===
+Vous pouvez remplir votre ferme de la manière suivante pour obtenir des baies Kébia. Les cases violettes indiquent où les mutations peuvent avoir lieu.
+
+{| class="wikitable" style="text-align: center;"
+|+ Ferme
+|- style="background-color:#9C7D98;"
+| style="width: 50px;" | [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || style="width: 50px;" | [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || style="width: 50px;" | [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || style="width: 50px;" | [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || style="width: 50px;" | [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]'''
+|- style="background-color:#9C7D98;"
+| [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]'''
+|- style="height: 26px; background-color:#9C7D98;"
+| [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]'''
+|- style="background-color:#9C7D98;"
+| [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]'''
+|- style="background-color:#9C7D98;"
+| [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]'''
+|}
+
+==Utilisations==
+===Mutations===
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Kebia berries can be used to mutate the following berries.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Petaya.png|20px]] [[Petaya]] || [[File:Occa.png|20px]] [[Occa]] [[File:Passho.png|20px]] [[Passho]] &lt;br&gt; [[File:Wacan.png|20px]] [[Wacan]] [[File:Rindo.png|20px]] [[Rindo]] &lt;br&gt; [[File:Yache.png|20px]] [[Yache]] [[File:Chople.png|20px]] [[Chople]] &lt;br&gt; [[File:Shuca.png|20px]] [[Shuca]] [[File:Coba.png|20px]] [[Coba]] &lt;br&gt; [[File:Payapa.png|20px]] [[Payapa]] [[File:Tanga.png|20px]] [[Tanga]] &lt;br&gt; [[File:Charti.png|20px]] [[Charti]] [[File:Kasib.png|20px]] [[Kasib]] &lt;br&gt; [[File:Haban.png|20px]] [[Haban]] [[File:Colbur.png|20px]] [[Colbur]] &lt;br&gt; [[File:Babiri.png|20px]] [[Babiri]] [[File:Chilan.png|20px]] [[Chilan]] &lt;br&gt; [[File:Roseli.png|20px]] [[Roseli]]
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>Incandescence</username>
+      <id>141</id>
+    </contributor>
+    <comment>Created page with "==Utilisations== ===Mutations==="</comment>
+    <model>wikitext</model>
+    <parentid>24738</parentid>
+    <sha1>689fe4cb83b284e06eb7834424b6942f775442da</sha1>
+  </revision>
+  <revision>
+    <id>24738</id>
+    <timestamp>2022-08-19T18:27:30Z</timestamp>
+    <text bytes="5608" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #42 Kébia
+|image   = [[File:Kebia.png]]
+|caption = L'extérieur de cette baie est d'un vert brillant. This Berry is a brilliant green on the outside. À l'intérieur, elle est remplie d'une chair noire au goût sec. Elle a tendance à parasiter les plantes voisines. Grâce à sa nature vénéneuse, elle augmente les chances de mutations à ses alentours.
+|growtime  = 10m 0s
+|harvest = 1 baie
+|replant = 100%
+|mutation = 0.01%
+|points = 50
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 Épicée
+*15 Sèche
+*0 Sucrée
+*0 Amère
+*10 Acide
+}}
+
+'''Kébia''' est un type de [[Berries/fr|Baie]] qui peut être plantée à la [[Farm/fr|Ferme]]. Elle peut être obtenue en plantant une [[Pamtre/fr|Palma]] tout en équipant le [[Rocky Helmet/fr|Casque Brut]]. La Palma aura alors une chance de muter en Kébia. Cette baie peut aussi être achetée au [[Berry Master|Maître des baies]] contre 10 000 {{farmpoints}} si vous jouez en [[Challenge Mode/fr|mode Challenge]] pas d'objets de Chen, et avez déjà débloqué la baie Palma. Les [[Farming Setups/fr|configurations de la Ferme]] avec des baies Kébia peuvent être trouvées [[Farming Setups/fr#Stratégies d'Amélioration du Carapuce à O|ici]].
+
+== Tables de croissance ==
+=== Stades de croissance ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Pousse !! Arbuste !! Fleuri !! Mûr
+|-
+! Temps écoulé après plantation
+| 1 min 40 secs || 3 mins 20 secs || 6 mins 40 secs || 10 mins - 24 heures
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:KebiaTreeTaller.png|50px]] || &lt;center&gt; [[File:KebiaTreeBloom.png|50px]] || &lt;center&gt; [[File:KebiaTreeBerry.png|50px]]
+|-
+! Aura (chance de mutation)
+| || &lt;center&gt; x1.2 || &lt;center&gt; x1.4 || &lt;center&gt; x1.6
+|-
+! Parasite (Tendance à remplacer les autres plants)
+| colspan=3|&lt;center&gt; N/A || &lt;center&gt; 0.04%
+|}
+
+=== Temps de croissance avec modificateurs ===
+{| class="wikitable" | style="text-align: center;"
+! Modificateur !! Temps maturité-flétrissement !! Nombre de Fertipousse requis
+|-
+! Aucun
+| 10 mins -&lt;br&gt; 23 heures 50 mins || ---
+|-
+! Engrais ou Kwakarrosoir
+| 6 mins 40 secs -&lt;br&gt; 15 heures 53 mins 20 secs || 2 engrais
+|-
+! Engrais et Kwakarrosoir
+| 4 mins 27 secs -&lt;br&gt; 10 heures 35 mins 33 secs || 1 engrais
+|}
+
+== Organigramme ==
+[[File:Kebia_Flow_Chart.png|250px]]
+&lt;br&gt;
+
+== Stratégie de mutation ==
+=== Formations possibles ===
+Vous pouvez remplir votre ferme de la manière suivante pour obtenir des baies Kébia. Les cases violettes indiquent où les mutations peuvent avoir lieu.
+
+{| class="wikitable" style="text-align: center;"
+|+ Ferme
+|- style="background-color:#9C7D98;"
+| style="width: 50px;" | [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || style="width: 50px;" | [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || style="width: 50px;" | [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || style="width: 50px;" | [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || style="width: 50px;" | [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]'''
+|- style="background-color:#9C7D98;"
+| [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]'''
+|- style="height: 26px; background-color:#9C7D98;"
+| [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]'''
+|- style="background-color:#9C7D98;"
+| [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]'''
+|- style="background-color:#9C7D98;"
+| [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]'''
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Uses==
+===Mutations===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Kebia berries can be used to mutate the following berries.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Petaya.png|20px]] [[Petaya]] || [[File:Occa.png|20px]] [[Occa]] [[File:Passho.png|20px]] [[Passho]] &lt;br&gt; [[File:Wacan.png|20px]] [[Wacan]] [[File:Rindo.png|20px]] [[Rindo]] &lt;br&gt; [[File:Yache.png|20px]] [[Yache]] [[File:Chople.png|20px]] [[Chople]] &lt;br&gt; [[File:Shuca.png|20px]] [[Shuca]] [[File:Coba.png|20px]] [[Coba]] &lt;br&gt; [[File:Payapa.png|20px]] [[Payapa]] [[File:Tanga.png|20px]] [[Tanga]] &lt;br&gt; [[File:Charti.png|20px]] [[Charti]] [[File:Kasib.png|20px]] [[Kasib]] &lt;br&gt; [[File:Haban.png|20px]] [[Haban]] [[File:Colbur.png|20px]] [[Colbur]] &lt;br&gt; [[File:Babiri.png|20px]] [[Babiri]] [[File:Chilan.png|20px]] [[Chilan]] &lt;br&gt; [[File:Roseli.png|20px]] [[Roseli]]
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>Incandescence</username>
+      <id>141</id>
+    </contributor>
+    <comment>Created page with "{| class="wikitable" style="text-align: center;" |+ Ferme |- style="background-color:#9C7D98;" | style="width: 50px;" | [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || style="width: 50px;" | [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || style="width: 50px;" | [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || style="width: 50px;" | [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre/fr|Palma]]''' || style="width: 50px;" | [[File:Pamtre.png|30px]]&lt;br&gt;'''Pa..."</comment>
+    <model>wikitext</model>
+    <parentid>24737</parentid>
+    <sha1>ea6fe2f273990b28417bc87bb0dd428e34ca9616</sha1>
+  </revision>
+  <revision>
+    <id>24737</id>
+    <timestamp>2022-08-19T18:25:10Z</timestamp>
+    <text bytes="5438" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #42 Kébia
+|image   = [[File:Kebia.png]]
+|caption = L'extérieur de cette baie est d'un vert brillant. This Berry is a brilliant green on the outside. À l'intérieur, elle est remplie d'une chair noire au goût sec. Elle a tendance à parasiter les plantes voisines. Grâce à sa nature vénéneuse, elle augmente les chances de mutations à ses alentours.
+|growtime  = 10m 0s
+|harvest = 1 baie
+|replant = 100%
+|mutation = 0.01%
+|points = 50
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 Épicée
+*15 Sèche
+*0 Sucrée
+*0 Amère
+*10 Acide
+}}
+
+'''Kébia''' est un type de [[Berries/fr|Baie]] qui peut être plantée à la [[Farm/fr|Ferme]]. Elle peut être obtenue en plantant une [[Pamtre/fr|Palma]] tout en équipant le [[Rocky Helmet/fr|Casque Brut]]. La Palma aura alors une chance de muter en Kébia. Cette baie peut aussi être achetée au [[Berry Master|Maître des baies]] contre 10 000 {{farmpoints}} si vous jouez en [[Challenge Mode/fr|mode Challenge]] pas d'objets de Chen, et avez déjà débloqué la baie Palma. Les [[Farming Setups/fr|configurations de la Ferme]] avec des baies Kébia peuvent être trouvées [[Farming Setups/fr#Stratégies d'Amélioration du Carapuce à O|ici]].
+
+== Tables de croissance ==
+=== Stades de croissance ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Pousse !! Arbuste !! Fleuri !! Mûr
+|-
+! Temps écoulé après plantation
+| 1 min 40 secs || 3 mins 20 secs || 6 mins 40 secs || 10 mins - 24 heures
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:KebiaTreeTaller.png|50px]] || &lt;center&gt; [[File:KebiaTreeBloom.png|50px]] || &lt;center&gt; [[File:KebiaTreeBerry.png|50px]]
+|-
+! Aura (chance de mutation)
+| || &lt;center&gt; x1.2 || &lt;center&gt; x1.4 || &lt;center&gt; x1.6
+|-
+! Parasite (Tendance à remplacer les autres plants)
+| colspan=3|&lt;center&gt; N/A || &lt;center&gt; 0.04%
+|}
+
+=== Temps de croissance avec modificateurs ===
+{| class="wikitable" | style="text-align: center;"
+! Modificateur !! Temps maturité-flétrissement !! Nombre de Fertipousse requis
+|-
+! Aucun
+| 10 mins -&lt;br&gt; 23 heures 50 mins || ---
+|-
+! Engrais ou Kwakarrosoir
+| 6 mins 40 secs -&lt;br&gt; 15 heures 53 mins 20 secs || 2 engrais
+|-
+! Engrais et Kwakarrosoir
+| 4 mins 27 secs -&lt;br&gt; 10 heures 35 mins 33 secs || 1 engrais
+|}
+
+== Organigramme ==
+[[File:Kebia_Flow_Chart.png|250px]]
+&lt;br&gt;
+
+== Stratégie de mutation ==
+=== Formations possibles ===
+Vous pouvez remplir votre ferme de la manière suivante pour obtenir des baies Kébia. Les cases violettes indiquent où les mutations peuvent avoir lieu.
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Farm
+|- style="background-color:#9C7D98;"
+| style="width: 50px;" | [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || style="width: 50px;" | [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || style="width: 50px;" | [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || style="width: 50px;" | [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || style="width: 50px;" | [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]'''
+|- style="background-color:#9C7D98;"
+| [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]'''
+|- style="height: 26px; background-color:#9C7D98;"
+| [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]'''
+|- style="background-color:#9C7D98;"
+| [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]'''
+|- style="background-color:#9C7D98;"
+| [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]'''
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Uses==
+===Mutations===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Kebia berries can be used to mutate the following berries.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Petaya.png|20px]] [[Petaya]] || [[File:Occa.png|20px]] [[Occa]] [[File:Passho.png|20px]] [[Passho]] &lt;br&gt; [[File:Wacan.png|20px]] [[Wacan]] [[File:Rindo.png|20px]] [[Rindo]] &lt;br&gt; [[File:Yache.png|20px]] [[Yache]] [[File:Chople.png|20px]] [[Chople]] &lt;br&gt; [[File:Shuca.png|20px]] [[Shuca]] [[File:Coba.png|20px]] [[Coba]] &lt;br&gt; [[File:Payapa.png|20px]] [[Payapa]] [[File:Tanga.png|20px]] [[Tanga]] &lt;br&gt; [[File:Charti.png|20px]] [[Charti]] [[File:Kasib.png|20px]] [[Kasib]] &lt;br&gt; [[File:Haban.png|20px]] [[Haban]] [[File:Colbur.png|20px]] [[Colbur]] &lt;br&gt; [[File:Babiri.png|20px]] [[Babiri]] [[File:Chilan.png|20px]] [[Chilan]] &lt;br&gt; [[File:Roseli.png|20px]] [[Roseli]]
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>Incandescence</username>
+      <id>141</id>
+    </contributor>
+    <comment>Created page with "== Stratégie de mutation == === Formations possibles === Vous pouvez remplir votre ferme de la manière suivante pour obtenir des baies Kébia. Les cases violettes indiquent où les mutations peuvent avoir lieu."</comment>
+    <model>wikitext</model>
+    <parentid>24736</parentid>
+    <sha1>d91cfd049ae8d5ee9c27ad2f864e995b20b5a3dd</sha1>
+  </revision>
+  <revision>
+    <id>24736</id>
+    <timestamp>2022-08-19T18:23:44Z</timestamp>
+    <text bytes="5462" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #42 Kébia
+|image   = [[File:Kebia.png]]
+|caption = L'extérieur de cette baie est d'un vert brillant. This Berry is a brilliant green on the outside. À l'intérieur, elle est remplie d'une chair noire au goût sec. Elle a tendance à parasiter les plantes voisines. Grâce à sa nature vénéneuse, elle augmente les chances de mutations à ses alentours.
+|growtime  = 10m 0s
+|harvest = 1 baie
+|replant = 100%
+|mutation = 0.01%
+|points = 50
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 Épicée
+*15 Sèche
+*0 Sucrée
+*0 Amère
+*10 Acide
+}}
+
+'''Kébia''' est un type de [[Berries/fr|Baie]] qui peut être plantée à la [[Farm/fr|Ferme]]. Elle peut être obtenue en plantant une [[Pamtre/fr|Palma]] tout en équipant le [[Rocky Helmet/fr|Casque Brut]]. La Palma aura alors une chance de muter en Kébia. Cette baie peut aussi être achetée au [[Berry Master|Maître des baies]] contre 10 000 {{farmpoints}} si vous jouez en [[Challenge Mode/fr|mode Challenge]] pas d'objets de Chen, et avez déjà débloqué la baie Palma. Les [[Farming Setups/fr|configurations de la Ferme]] avec des baies Kébia peuvent être trouvées [[Farming Setups/fr#Stratégies d'Amélioration du Carapuce à O|ici]].
+
+== Tables de croissance ==
+=== Stades de croissance ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Pousse !! Arbuste !! Fleuri !! Mûr
+|-
+! Temps écoulé après plantation
+| 1 min 40 secs || 3 mins 20 secs || 6 mins 40 secs || 10 mins - 24 heures
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:KebiaTreeTaller.png|50px]] || &lt;center&gt; [[File:KebiaTreeBloom.png|50px]] || &lt;center&gt; [[File:KebiaTreeBerry.png|50px]]
+|-
+! Aura (chance de mutation)
+| || &lt;center&gt; x1.2 || &lt;center&gt; x1.4 || &lt;center&gt; x1.6
+|-
+! Parasite (Tendance à remplacer les autres plants)
+| colspan=3|&lt;center&gt; N/A || &lt;center&gt; 0.04%
+|}
+
+=== Temps de croissance avec modificateurs ===
+{| class="wikitable" | style="text-align: center;"
+! Modificateur !! Temps maturité-flétrissement !! Nombre de Fertipousse requis
+|-
+! Aucun
+| 10 mins -&lt;br&gt; 23 heures 50 mins || ---
+|-
+! Engrais ou Kwakarrosoir
+| 6 mins 40 secs -&lt;br&gt; 15 heures 53 mins 20 secs || 2 engrais
+|-
+! Engrais et Kwakarrosoir
+| 4 mins 27 secs -&lt;br&gt; 10 heures 35 mins 33 secs || 1 engrais
+|}
+
+== Organigramme ==
+[[File:Kebia_Flow_Chart.png|250px]]
+&lt;br&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Mutation Strategy ==
+=== Possible Planting Formations ===
+You can fill your farm in the following way to obtain Kebia berries. Purple squares indicate where mutations can occur.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Farm
+|- style="background-color:#9C7D98;"
+| style="width: 50px;" | [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || style="width: 50px;" | [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || style="width: 50px;" | [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || style="width: 50px;" | [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || style="width: 50px;" | [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]'''
+|- style="background-color:#9C7D98;"
+| [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]'''
+|- style="height: 26px; background-color:#9C7D98;"
+| [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]'''
+|- style="background-color:#9C7D98;"
+| [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]'''
+|- style="background-color:#9C7D98;"
+| [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]'''
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Uses==
+===Mutations===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Kebia berries can be used to mutate the following berries.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Petaya.png|20px]] [[Petaya]] || [[File:Occa.png|20px]] [[Occa]] [[File:Passho.png|20px]] [[Passho]] &lt;br&gt; [[File:Wacan.png|20px]] [[Wacan]] [[File:Rindo.png|20px]] [[Rindo]] &lt;br&gt; [[File:Yache.png|20px]] [[Yache]] [[File:Chople.png|20px]] [[Chople]] &lt;br&gt; [[File:Shuca.png|20px]] [[Shuca]] [[File:Coba.png|20px]] [[Coba]] &lt;br&gt; [[File:Payapa.png|20px]] [[Payapa]] [[File:Tanga.png|20px]] [[Tanga]] &lt;br&gt; [[File:Charti.png|20px]] [[Charti]] [[File:Kasib.png|20px]] [[Kasib]] &lt;br&gt; [[File:Haban.png|20px]] [[Haban]] [[File:Colbur.png|20px]] [[Colbur]] &lt;br&gt; [[File:Babiri.png|20px]] [[Babiri]] [[File:Chilan.png|20px]] [[Chilan]] &lt;br&gt; [[File:Roseli.png|20px]] [[Roseli]]
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>Incandescence</username>
+      <id>141</id>
+    </contributor>
+    <comment>Created page with "== Organigramme == [[File:Kebia_Flow_Chart.png|250px]] &lt;br&gt;"</comment>
+    <model>wikitext</model>
+    <parentid>24735</parentid>
+    <sha1>e082d308950e5918736ab1d6a80ef916eaa4b4bb</sha1>
+  </revision>
+  <revision>
+    <id>24735</id>
+    <timestamp>2022-08-19T18:23:32Z</timestamp>
+    <text bytes="5516" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #42 Kébia
+|image   = [[File:Kebia.png]]
+|caption = L'extérieur de cette baie est d'un vert brillant. This Berry is a brilliant green on the outside. À l'intérieur, elle est remplie d'une chair noire au goût sec. Elle a tendance à parasiter les plantes voisines. Grâce à sa nature vénéneuse, elle augmente les chances de mutations à ses alentours.
+|growtime  = 10m 0s
+|harvest = 1 baie
+|replant = 100%
+|mutation = 0.01%
+|points = 50
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 Épicée
+*15 Sèche
+*0 Sucrée
+*0 Amère
+*10 Acide
+}}
+
+'''Kébia''' est un type de [[Berries/fr|Baie]] qui peut être plantée à la [[Farm/fr|Ferme]]. Elle peut être obtenue en plantant une [[Pamtre/fr|Palma]] tout en équipant le [[Rocky Helmet/fr|Casque Brut]]. La Palma aura alors une chance de muter en Kébia. Cette baie peut aussi être achetée au [[Berry Master|Maître des baies]] contre 10 000 {{farmpoints}} si vous jouez en [[Challenge Mode/fr|mode Challenge]] pas d'objets de Chen, et avez déjà débloqué la baie Palma. Les [[Farming Setups/fr|configurations de la Ferme]] avec des baies Kébia peuvent être trouvées [[Farming Setups/fr#Stratégies d'Amélioration du Carapuce à O|ici]].
+
+== Tables de croissance ==
+=== Stades de croissance ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Pousse !! Arbuste !! Fleuri !! Mûr
+|-
+! Temps écoulé après plantation
+| 1 min 40 secs || 3 mins 20 secs || 6 mins 40 secs || 10 mins - 24 heures
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:KebiaTreeTaller.png|50px]] || &lt;center&gt; [[File:KebiaTreeBloom.png|50px]] || &lt;center&gt; [[File:KebiaTreeBerry.png|50px]]
+|-
+! Aura (chance de mutation)
+| || &lt;center&gt; x1.2 || &lt;center&gt; x1.4 || &lt;center&gt; x1.6
+|-
+! Parasite (Tendance à remplacer les autres plants)
+| colspan=3|&lt;center&gt; N/A || &lt;center&gt; 0.04%
+|}
+
+=== Temps de croissance avec modificateurs ===
+{| class="wikitable" | style="text-align: center;"
+! Modificateur !! Temps maturité-flétrissement !! Nombre de Fertipousse requis
+|-
+! Aucun
+| 10 mins -&lt;br&gt; 23 heures 50 mins || ---
+|-
+! Engrais ou Kwakarrosoir
+| 6 mins 40 secs -&lt;br&gt; 15 heures 53 mins 20 secs || 2 engrais
+|-
+! Engrais et Kwakarrosoir
+| 4 mins 27 secs -&lt;br&gt; 10 heures 35 mins 33 secs || 1 engrais
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Flow Chart ==
+[[File:Kebia_Flow_Chart.png|250px]]
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Mutation Strategy ==
+=== Possible Planting Formations ===
+You can fill your farm in the following way to obtain Kebia berries. Purple squares indicate where mutations can occur.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Farm
+|- style="background-color:#9C7D98;"
+| style="width: 50px;" | [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || style="width: 50px;" | [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || style="width: 50px;" | [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || style="width: 50px;" | [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || style="width: 50px;" | [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]'''
+|- style="background-color:#9C7D98;"
+| [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]'''
+|- style="height: 26px; background-color:#9C7D98;"
+| [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]'''
+|- style="background-color:#9C7D98;"
+| [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]'''
+|- style="background-color:#9C7D98;"
+| [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]'''
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Uses==
+===Mutations===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Kebia berries can be used to mutate the following berries.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Petaya.png|20px]] [[Petaya]] || [[File:Occa.png|20px]] [[Occa]] [[File:Passho.png|20px]] [[Passho]] &lt;br&gt; [[File:Wacan.png|20px]] [[Wacan]] [[File:Rindo.png|20px]] [[Rindo]] &lt;br&gt; [[File:Yache.png|20px]] [[Yache]] [[File:Chople.png|20px]] [[Chople]] &lt;br&gt; [[File:Shuca.png|20px]] [[Shuca]] [[File:Coba.png|20px]] [[Coba]] &lt;br&gt; [[File:Payapa.png|20px]] [[Payapa]] [[File:Tanga.png|20px]] [[Tanga]] &lt;br&gt; [[File:Charti.png|20px]] [[Charti]] [[File:Kasib.png|20px]] [[Kasib]] &lt;br&gt; [[File:Haban.png|20px]] [[Haban]] [[File:Colbur.png|20px]] [[Colbur]] &lt;br&gt; [[File:Babiri.png|20px]] [[Babiri]] [[File:Chilan.png|20px]] [[Chilan]] &lt;br&gt; [[File:Roseli.png|20px]] [[Roseli]]
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>Incandescence</username>
+      <id>141</id>
+    </contributor>
+    <comment>Created page with "=== Temps de croissance avec modificateurs === {| class="wikitable" | style="text-align: center;" ! Modificateur !! Temps maturité-flétrissement !! Nombre de Fertipousse requis |- ! Aucun | 10 mins -&lt;br&gt; 23 heures 50 mins || --- |- ! Engrais ou Kwakarrosoir | 6 mins 40 secs -&lt;br&gt; 15 heures 53 mins 20 secs || 2 engrais |- ! Engrais et Kwakarrosoir | 4 mins 27 secs -&lt;br&gt; 10 heures 35 mins 33 secs || 1 engrais |}"</comment>
+    <model>wikitext</model>
+    <parentid>24734</parentid>
+    <sha1>c61493b1a3f7a2804e6f45de9e2a868d19f5576e</sha1>
+  </revision>
+  <revision>
+    <id>24734</id>
+    <timestamp>2022-08-19T18:21:27Z</timestamp>
+    <text bytes="5525" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #42 Kébia
+|image   = [[File:Kebia.png]]
+|caption = L'extérieur de cette baie est d'un vert brillant. This Berry is a brilliant green on the outside. À l'intérieur, elle est remplie d'une chair noire au goût sec. Elle a tendance à parasiter les plantes voisines. Grâce à sa nature vénéneuse, elle augmente les chances de mutations à ses alentours.
+|growtime  = 10m 0s
+|harvest = 1 baie
+|replant = 100%
+|mutation = 0.01%
+|points = 50
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 Épicée
+*15 Sèche
+*0 Sucrée
+*0 Amère
+*10 Acide
+}}
+
+'''Kébia''' est un type de [[Berries/fr|Baie]] qui peut être plantée à la [[Farm/fr|Ferme]]. Elle peut être obtenue en plantant une [[Pamtre/fr|Palma]] tout en équipant le [[Rocky Helmet/fr|Casque Brut]]. La Palma aura alors une chance de muter en Kébia. Cette baie peut aussi être achetée au [[Berry Master|Maître des baies]] contre 10 000 {{farmpoints}} si vous jouez en [[Challenge Mode/fr|mode Challenge]] pas d'objets de Chen, et avez déjà débloqué la baie Palma. Les [[Farming Setups/fr|configurations de la Ferme]] avec des baies Kébia peuvent être trouvées [[Farming Setups/fr#Stratégies d'Amélioration du Carapuce à O|ici]].
+
+== Tables de croissance ==
+=== Stades de croissance ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Pousse !! Arbuste !! Fleuri !! Mûr
+|-
+! Temps écoulé après plantation
+| 1 min 40 secs || 3 mins 20 secs || 6 mins 40 secs || 10 mins - 24 heures
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:KebiaTreeTaller.png|50px]] || &lt;center&gt; [[File:KebiaTreeBloom.png|50px]] || &lt;center&gt; [[File:KebiaTreeBerry.png|50px]]
+|-
+! Aura (chance de mutation)
+| || &lt;center&gt; x1.2 || &lt;center&gt; x1.4 || &lt;center&gt; x1.6
+|-
+! Parasite (Tendance à remplacer les autres plants)
+| colspan=3|&lt;center&gt; N/A || &lt;center&gt; 0.04%
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+=== Ripening Time with Modifiers  ===
+{| class="wikitable" | style="text-align: center;"
+! Modifier !! Ripe-Wither Time !! Boost Mulch Needed to Ripen
+|-
+! None
+| 10 mins -&lt;br&gt; 23 hours 50 mins || ---
+|-
+! Mulch or Sprayduck
+| 6 mins 40 secs -&lt;br&gt; 15 hours 53 mins 20 secs || 2 mulch
+|-
+! Mulch &amp; Sprayduck
+| 4 mins 27 secs -&lt;br&gt; 10 hours 35 mins 33 secs || 1 mulch
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Flow Chart ==
+[[File:Kebia_Flow_Chart.png|250px]]
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Mutation Strategy ==
+=== Possible Planting Formations ===
+You can fill your farm in the following way to obtain Kebia berries. Purple squares indicate where mutations can occur.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Farm
+|- style="background-color:#9C7D98;"
+| style="width: 50px;" | [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || style="width: 50px;" | [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || style="width: 50px;" | [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || style="width: 50px;" | [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || style="width: 50px;" | [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]'''
+|- style="background-color:#9C7D98;"
+| [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]'''
+|- style="height: 26px; background-color:#9C7D98;"
+| [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]'''
+|- style="background-color:#9C7D98;"
+| [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]'''
+|- style="background-color:#9C7D98;"
+| [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]'''
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Uses==
+===Mutations===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Kebia berries can be used to mutate the following berries.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Petaya.png|20px]] [[Petaya]] || [[File:Occa.png|20px]] [[Occa]] [[File:Passho.png|20px]] [[Passho]] &lt;br&gt; [[File:Wacan.png|20px]] [[Wacan]] [[File:Rindo.png|20px]] [[Rindo]] &lt;br&gt; [[File:Yache.png|20px]] [[Yache]] [[File:Chople.png|20px]] [[Chople]] &lt;br&gt; [[File:Shuca.png|20px]] [[Shuca]] [[File:Coba.png|20px]] [[Coba]] &lt;br&gt; [[File:Payapa.png|20px]] [[Payapa]] [[File:Tanga.png|20px]] [[Tanga]] &lt;br&gt; [[File:Charti.png|20px]] [[Charti]] [[File:Kasib.png|20px]] [[Kasib]] &lt;br&gt; [[File:Haban.png|20px]] [[Haban]] [[File:Colbur.png|20px]] [[Colbur]] &lt;br&gt; [[File:Babiri.png|20px]] [[Babiri]] [[File:Chilan.png|20px]] [[Chilan]] &lt;br&gt; [[File:Roseli.png|20px]] [[Roseli]]
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>Incandescence</username>
+      <id>141</id>
+    </contributor>
+    <comment>Created page with "== Tables de croissance == === Stades de croissance === {| class="wikitable" | style = "image-rendering: pixelated" ! !! Pousse !! Arbuste !! Fleuri !! Mûr |- ! Temps écoulé après plantation | 1 min 40 secs || 3 mins 20 secs || 6 mins 40 secs || 10 mins - 24 heures |- ! Animation | &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:KebiaTreeTaller.png|50px]] || &lt;center&gt; [[File:KebiaTreeBloom.png|50px]] || &lt;center&gt; [[File:KebiaTreeBerry.png|50px]] |- ! Aura (..."</comment>
+    <model>wikitext</model>
+    <parentid>24733</parentid>
+    <sha1>48b951c1b0791cc428e96bb2470d692363311784</sha1>
+  </revision>
+  <revision>
+    <id>24733</id>
+    <timestamp>2022-08-19T18:15:49Z</timestamp>
+    <text bytes="5551" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #42 Kébia
+|image   = [[File:Kebia.png]]
+|caption = L'extérieur de cette baie est d'un vert brillant. This Berry is a brilliant green on the outside. À l'intérieur, elle est remplie d'une chair noire au goût sec. Elle a tendance à parasiter les plantes voisines. Grâce à sa nature vénéneuse, elle augmente les chances de mutations à ses alentours.
+|growtime  = 10m 0s
+|harvest = 1 baie
+|replant = 100%
+|mutation = 0.01%
+|points = 50
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 Épicée
+*15 Sèche
+*0 Sucrée
+*0 Amère
+*10 Acide
+}}
+
+'''Kébia''' est un type de [[Berries/fr|Baie]] qui peut être plantée à la [[Farm/fr|Ferme]]. Elle peut être obtenue en plantant une [[Pamtre/fr|Palma]] tout en équipant le [[Rocky Helmet/fr|Casque Brut]]. La Palma aura alors une chance de muter en Kébia. Cette baie peut aussi être achetée au [[Berry Master|Maître des baies]] contre 10 000 {{farmpoints}} si vous jouez en [[Challenge Mode/fr|mode Challenge]] pas d'objets de Chen, et avez déjà débloqué la baie Palma. Les [[Farming Setups/fr|configurations de la Ferme]] avec des baies Kébia peuvent être trouvées [[Farming Setups/fr#Stratégies d'Amélioration du Carapuce à O|ici]].
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Growth Tables ==
+=== Growth Stages ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 1 min 40 secs || 3 mins 20 secs || 6 mins 40 secs || 10 mins - 24 hours
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:KebiaTreeTaller.png|50px]] || &lt;center&gt; [[File:KebiaTreeBloom.png|50px]] || &lt;center&gt; [[File:KebiaTreeBerry.png|50px]]
+|-
+! Aura (mutation chance)
+| || &lt;center&gt; x1.2 || &lt;center&gt; x1.4 || &lt;center&gt; x1.6
+|-
+! Parasite (Tendency to Overtake Planted Plots)
+| colspan=3|&lt;center&gt; N/A || &lt;center&gt; 0.04%
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+=== Ripening Time with Modifiers  ===
+{| class="wikitable" | style="text-align: center;"
+! Modifier !! Ripe-Wither Time !! Boost Mulch Needed to Ripen
+|-
+! None
+| 10 mins -&lt;br&gt; 23 hours 50 mins || ---
+|-
+! Mulch or Sprayduck
+| 6 mins 40 secs -&lt;br&gt; 15 hours 53 mins 20 secs || 2 mulch
+|-
+! Mulch &amp; Sprayduck
+| 4 mins 27 secs -&lt;br&gt; 10 hours 35 mins 33 secs || 1 mulch
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Flow Chart ==
+[[File:Kebia_Flow_Chart.png|250px]]
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Mutation Strategy ==
+=== Possible Planting Formations ===
+You can fill your farm in the following way to obtain Kebia berries. Purple squares indicate where mutations can occur.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Farm
+|- style="background-color:#9C7D98;"
+| style="width: 50px;" | [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || style="width: 50px;" | [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || style="width: 50px;" | [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || style="width: 50px;" | [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || style="width: 50px;" | [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]'''
+|- style="background-color:#9C7D98;"
+| [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]'''
+|- style="height: 26px; background-color:#9C7D98;"
+| [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]'''
+|- style="background-color:#9C7D98;"
+| [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]'''
+|- style="background-color:#9C7D98;"
+| [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]'''
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Uses==
+===Mutations===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Kebia berries can be used to mutate the following berries.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Petaya.png|20px]] [[Petaya]] || [[File:Occa.png|20px]] [[Occa]] [[File:Passho.png|20px]] [[Passho]] &lt;br&gt; [[File:Wacan.png|20px]] [[Wacan]] [[File:Rindo.png|20px]] [[Rindo]] &lt;br&gt; [[File:Yache.png|20px]] [[Yache]] [[File:Chople.png|20px]] [[Chople]] &lt;br&gt; [[File:Shuca.png|20px]] [[Shuca]] [[File:Coba.png|20px]] [[Coba]] &lt;br&gt; [[File:Payapa.png|20px]] [[Payapa]] [[File:Tanga.png|20px]] [[Tanga]] &lt;br&gt; [[File:Charti.png|20px]] [[Charti]] [[File:Kasib.png|20px]] [[Kasib]] &lt;br&gt; [[File:Haban.png|20px]] [[Haban]] [[File:Colbur.png|20px]] [[Colbur]] &lt;br&gt; [[File:Babiri.png|20px]] [[Babiri]] [[File:Chilan.png|20px]] [[Chilan]] &lt;br&gt; [[File:Roseli.png|20px]] [[Roseli]]
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>Incandescence</username>
+      <id>141</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>24732</parentid>
+    <sha1>243ea8e120cba7c781c5af159da61d24bd685dc7</sha1>
+  </revision>
+  <revision>
+    <id>24732</id>
+    <timestamp>2022-08-19T18:12:33Z</timestamp>
+    <text bytes="5539" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #42 Kébia
+|image   = [[File:Kebia.png]]
+|caption = L'extérieur de cette baie est d'un vert brillant. This Berry is a brilliant green on the outside. À l'intérieur, elle est remplie d'une chair noire au goût sec. Elle a tendance à parasiter les plantes voisines. Grâce à sa nature vénéneuse, elle augmente les chances de mutations à ses alentours.
+|growtime  = 10m 0s
+|harvest = 1 baie
+|replant = 100%
+|mutation = 0.01%
+|points = 50
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 Épicée
+*15 Sèche
+*0 Sucrée
+*0 Amère
+*10 Acide
+}}
+
+'''Kébia''' est un type de [[Berries/fr|Baie]] qui peut être plantée à la [[Farm/fr|Ferme]]. Elle peut être obtenue en plantant une [[Pamtre/fr|Palma]] tout en équipant le [[Rocky Helmet/fr|Casque Brut]]. La Palma aura alors une chance de muter en Kébia. Cette baie peut aussi être achetée au [[Berry Master|Maître des baies]] contre 10 000 {{farmpoints}} si vous jouez en [[Challenge Mode/fr|mode Challenge]] pas d'objets de Chen, et avez déjà débloqué la baie Palma. Les [[Farming Setups/fr|configurations de la Ferme]] avec des baies Kébia peuvent être trouvées [[Farming Setups/fr#Squirtbottle Leveling Strategies|ici]].
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Growth Tables ==
+=== Growth Stages ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 1 min 40 secs || 3 mins 20 secs || 6 mins 40 secs || 10 mins - 24 hours
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:KebiaTreeTaller.png|50px]] || &lt;center&gt; [[File:KebiaTreeBloom.png|50px]] || &lt;center&gt; [[File:KebiaTreeBerry.png|50px]]
+|-
+! Aura (mutation chance)
+| || &lt;center&gt; x1.2 || &lt;center&gt; x1.4 || &lt;center&gt; x1.6
+|-
+! Parasite (Tendency to Overtake Planted Plots)
+| colspan=3|&lt;center&gt; N/A || &lt;center&gt; 0.04%
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+=== Ripening Time with Modifiers  ===
+{| class="wikitable" | style="text-align: center;"
+! Modifier !! Ripe-Wither Time !! Boost Mulch Needed to Ripen
+|-
+! None
+| 10 mins -&lt;br&gt; 23 hours 50 mins || ---
+|-
+! Mulch or Sprayduck
+| 6 mins 40 secs -&lt;br&gt; 15 hours 53 mins 20 secs || 2 mulch
+|-
+! Mulch &amp; Sprayduck
+| 4 mins 27 secs -&lt;br&gt; 10 hours 35 mins 33 secs || 1 mulch
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Flow Chart ==
+[[File:Kebia_Flow_Chart.png|250px]]
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Mutation Strategy ==
+=== Possible Planting Formations ===
+You can fill your farm in the following way to obtain Kebia berries. Purple squares indicate where mutations can occur.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Farm
+|- style="background-color:#9C7D98;"
+| style="width: 50px;" | [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || style="width: 50px;" | [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || style="width: 50px;" | [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || style="width: 50px;" | [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || style="width: 50px;" | [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]'''
+|- style="background-color:#9C7D98;"
+| [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]'''
+|- style="height: 26px; background-color:#9C7D98;"
+| [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]'''
+|- style="background-color:#9C7D98;"
+| [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]'''
+|- style="background-color:#9C7D98;"
+| [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]'''
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Uses==
+===Mutations===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Kebia berries can be used to mutate the following berries.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Petaya.png|20px]] [[Petaya]] || [[File:Occa.png|20px]] [[Occa]] [[File:Passho.png|20px]] [[Passho]] &lt;br&gt; [[File:Wacan.png|20px]] [[Wacan]] [[File:Rindo.png|20px]] [[Rindo]] &lt;br&gt; [[File:Yache.png|20px]] [[Yache]] [[File:Chople.png|20px]] [[Chople]] &lt;br&gt; [[File:Shuca.png|20px]] [[Shuca]] [[File:Coba.png|20px]] [[Coba]] &lt;br&gt; [[File:Payapa.png|20px]] [[Payapa]] [[File:Tanga.png|20px]] [[Tanga]] &lt;br&gt; [[File:Charti.png|20px]] [[Charti]] [[File:Kasib.png|20px]] [[Kasib]] &lt;br&gt; [[File:Haban.png|20px]] [[Haban]] [[File:Colbur.png|20px]] [[Colbur]] &lt;br&gt; [[File:Babiri.png|20px]] [[Babiri]] [[File:Chilan.png|20px]] [[Chilan]] &lt;br&gt; [[File:Roseli.png|20px]] [[Roseli]]
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>Incandescence</username>
+      <id>141</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>24731</parentid>
+    <sha1>7117413998b65fca7b804e7af6e375d80fadd871</sha1>
+  </revision>
+  <revision>
+    <id>24731</id>
+    <timestamp>2022-08-19T17:55:53Z</timestamp>
+    <text bytes="5539" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #42 Kébia
+|image   = [[File:Kebia.png]]
+|caption = L'extérieur de cette baie est d'un vert brillant. This Berry is a brilliant green on the outside. À l'intérieur, elle est remplie d'une chair noire au goût sec. Elle a tendance à parasiter les plantes voisines. Grâce à sa nature vénéneuse, elle augmente les chances de mutations à ses alentours.
+|growtime  = 10m 0s
+|harvest = 1 baie
+|replant = 100%
+|mutation = 0.01%
+|points = 50
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 Épicée
+*15 Sèche
+*0 Sucrée
+*0 Amère
+*10 Acide
+}}
+
+'''Kébia''' est un type de [[Berries/fr|Baie]] qui peut être plantée à la [[Farm/fr|Ferme]]. Elle peut être obtenue en plantant une [[Pamtre/fr|Palma]] tout en équipant le [[Rocky Helmet/fr|Casque Brut]]. La Palma aura alors une chance de muter en Kébia. Cette baie peut aussi être achetée au [[Berry Master|Maître des baies]] contre 10 000 {{farmpoints}} si vous jouez en [[Challenge Mode/fr|mode Challenge]] pas d'objets de Chen, et avez déjà débloqué la baie Palma. Les [[Farming Setups/fr|configurations de la Ferme]] avec des baies Kébia peuvent être trouvées [[Farming Setups#Squirtbottle Leveling Strategies/fr|ici]].
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Growth Tables ==
+=== Growth Stages ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 1 min 40 secs || 3 mins 20 secs || 6 mins 40 secs || 10 mins - 24 hours
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:KebiaTreeTaller.png|50px]] || &lt;center&gt; [[File:KebiaTreeBloom.png|50px]] || &lt;center&gt; [[File:KebiaTreeBerry.png|50px]]
+|-
+! Aura (mutation chance)
+| || &lt;center&gt; x1.2 || &lt;center&gt; x1.4 || &lt;center&gt; x1.6
+|-
+! Parasite (Tendency to Overtake Planted Plots)
+| colspan=3|&lt;center&gt; N/A || &lt;center&gt; 0.04%
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+=== Ripening Time with Modifiers  ===
+{| class="wikitable" | style="text-align: center;"
+! Modifier !! Ripe-Wither Time !! Boost Mulch Needed to Ripen
+|-
+! None
+| 10 mins -&lt;br&gt; 23 hours 50 mins || ---
+|-
+! Mulch or Sprayduck
+| 6 mins 40 secs -&lt;br&gt; 15 hours 53 mins 20 secs || 2 mulch
+|-
+! Mulch &amp; Sprayduck
+| 4 mins 27 secs -&lt;br&gt; 10 hours 35 mins 33 secs || 1 mulch
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Flow Chart ==
+[[File:Kebia_Flow_Chart.png|250px]]
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Mutation Strategy ==
+=== Possible Planting Formations ===
+You can fill your farm in the following way to obtain Kebia berries. Purple squares indicate where mutations can occur.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Farm
+|- style="background-color:#9C7D98;"
+| style="width: 50px;" | [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || style="width: 50px;" | [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || style="width: 50px;" | [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || style="width: 50px;" | [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || style="width: 50px;" | [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]'''
+|- style="background-color:#9C7D98;"
+| [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]'''
+|- style="height: 26px; background-color:#9C7D98;"
+| [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]'''
+|- style="background-color:#9C7D98;"
+| [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]'''
+|- style="background-color:#9C7D98;"
+| [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]'''
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Uses==
+===Mutations===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Kebia berries can be used to mutate the following berries.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Petaya.png|20px]] [[Petaya]] || [[File:Occa.png|20px]] [[Occa]] [[File:Passho.png|20px]] [[Passho]] &lt;br&gt; [[File:Wacan.png|20px]] [[Wacan]] [[File:Rindo.png|20px]] [[Rindo]] &lt;br&gt; [[File:Yache.png|20px]] [[Yache]] [[File:Chople.png|20px]] [[Chople]] &lt;br&gt; [[File:Shuca.png|20px]] [[Shuca]] [[File:Coba.png|20px]] [[Coba]] &lt;br&gt; [[File:Payapa.png|20px]] [[Payapa]] [[File:Tanga.png|20px]] [[Tanga]] &lt;br&gt; [[File:Charti.png|20px]] [[Charti]] [[File:Kasib.png|20px]] [[Kasib]] &lt;br&gt; [[File:Haban.png|20px]] [[Haban]] [[File:Colbur.png|20px]] [[Colbur]] &lt;br&gt; [[File:Babiri.png|20px]] [[Babiri]] [[File:Chilan.png|20px]] [[Chilan]] &lt;br&gt; [[File:Roseli.png|20px]] [[Roseli]]
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>Incandescence</username>
+      <id>141</id>
+    </contributor>
+    <comment>Created page with "'''Kébia''' est un type de [[Berries/fr|Baie]] qui peut être plantée à la [[Farm/fr|Ferme]]. Elle peut être obtenue en plantant une [[Pamtre/fr|Palma]] tout en équipant le [[Rocky Helmet/fr|Casque Brut]]. La Palma aura alors une chance de muter en Kébia. Cette baie peut aussi être achetée au [[Berry Master|Maître des baies]] contre 10 000 {{farmpoints}} si vous jouez en [[Challenge Mode/fr|mode Challenge]] pas d'objets de Chen, et avez déjà débloqué la baie..."</comment>
+    <model>wikitext</model>
+    <parentid>24730</parentid>
+    <sha1>9622d65b1d17324b3f9ba95a62c2e9f9064fc9e1</sha1>
+  </revision>
+  <revision>
+    <id>24730</id>
+    <timestamp>2022-08-19T17:44:13Z</timestamp>
+    <text bytes="5474" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #42 Kébia
+|image   = [[File:Kebia.png]]
+|caption = L'extérieur de cette baie est d'un vert brillant. This Berry is a brilliant green on the outside. À l'intérieur, elle est remplie d'une chair noire au goût sec. Elle a tendance à parasiter les plantes voisines. Grâce à sa nature vénéneuse, elle augmente les chances de mutations à ses alentours.
+|growtime  = 10m 0s
+|harvest = 1 baie
+|replant = 100%
+|mutation = 0.01%
+|points = 50
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 Épicée
+*15 Sèche
+*0 Sucrée
+*0 Amère
+*10 Acide
+}}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+'''Kebia''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by planting [[Pamtre]] and equipping the [[Rocky Helmet]]. The Pamtre will then have a chance to mutate into this berry.  This berry can be bought from the Johto [[Berry Master]] for 10,000 {{farmpoints}} if the player is running the "No Oak Item" [[Challenge Mode|challenge]], and has already unlocked the Pamtre berry. [[Farming Setups]] using Kebia can be found [[Farming Setups#Squirtbottle Leveling Strategies|here]]
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Growth Tables ==
+=== Growth Stages ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 1 min 40 secs || 3 mins 20 secs || 6 mins 40 secs || 10 mins - 24 hours
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:KebiaTreeTaller.png|50px]] || &lt;center&gt; [[File:KebiaTreeBloom.png|50px]] || &lt;center&gt; [[File:KebiaTreeBerry.png|50px]]
+|-
+! Aura (mutation chance)
+| || &lt;center&gt; x1.2 || &lt;center&gt; x1.4 || &lt;center&gt; x1.6
+|-
+! Parasite (Tendency to Overtake Planted Plots)
+| colspan=3|&lt;center&gt; N/A || &lt;center&gt; 0.04%
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+=== Ripening Time with Modifiers  ===
+{| class="wikitable" | style="text-align: center;"
+! Modifier !! Ripe-Wither Time !! Boost Mulch Needed to Ripen
+|-
+! None
+| 10 mins -&lt;br&gt; 23 hours 50 mins || ---
+|-
+! Mulch or Sprayduck
+| 6 mins 40 secs -&lt;br&gt; 15 hours 53 mins 20 secs || 2 mulch
+|-
+! Mulch &amp; Sprayduck
+| 4 mins 27 secs -&lt;br&gt; 10 hours 35 mins 33 secs || 1 mulch
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Flow Chart ==
+[[File:Kebia_Flow_Chart.png|250px]]
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Mutation Strategy ==
+=== Possible Planting Formations ===
+You can fill your farm in the following way to obtain Kebia berries. Purple squares indicate where mutations can occur.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Farm
+|- style="background-color:#9C7D98;"
+| style="width: 50px;" | [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || style="width: 50px;" | [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || style="width: 50px;" | [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || style="width: 50px;" | [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || style="width: 50px;" | [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]'''
+|- style="background-color:#9C7D98;"
+| [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]'''
+|- style="height: 26px; background-color:#9C7D98;"
+| [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]'''
+|- style="background-color:#9C7D98;"
+| [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]'''
+|- style="background-color:#9C7D98;"
+| [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]'''
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Uses==
+===Mutations===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Kebia berries can be used to mutate the following berries.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Petaya.png|20px]] [[Petaya]] || [[File:Occa.png|20px]] [[Occa]] [[File:Passho.png|20px]] [[Passho]] &lt;br&gt; [[File:Wacan.png|20px]] [[Wacan]] [[File:Rindo.png|20px]] [[Rindo]] &lt;br&gt; [[File:Yache.png|20px]] [[Yache]] [[File:Chople.png|20px]] [[Chople]] &lt;br&gt; [[File:Shuca.png|20px]] [[Shuca]] [[File:Coba.png|20px]] [[Coba]] &lt;br&gt; [[File:Payapa.png|20px]] [[Payapa]] [[File:Tanga.png|20px]] [[Tanga]] &lt;br&gt; [[File:Charti.png|20px]] [[Charti]] [[File:Kasib.png|20px]] [[Kasib]] &lt;br&gt; [[File:Haban.png|20px]] [[Haban]] [[File:Colbur.png|20px]] [[Colbur]] &lt;br&gt; [[File:Babiri.png|20px]] [[Babiri]] [[File:Chilan.png|20px]] [[Chilan]] &lt;br&gt; [[File:Roseli.png|20px]] [[Roseli]]
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>Incandescence</username>
+      <id>141</id>
+    </contributor>
+    <comment>Created page with "{{Infobox Berry |name    = #42 Kébia |image   = [[File:Kebia.png]] |caption = L'extérieur de cette baie est d'un vert brillant. This Berry is a brilliant green on the outside. À l'intérieur, elle est remplie d'une chair noire au goût sec. Elle a tendance à parasiter les plantes voisines. Grâce à sa nature vénéneuse, elle augmente les chances de mutations à ses alentours. |growtime  = 10m 0s |harvest = 1 baie |replant = 100% |mutation = 0.01% |points = 50 |flav..."</comment>
+    <model>wikitext</model>
+    <parentid>24729</parentid>
+    <sha1>f4b787363874b2c556c60ccc318a0e94be90f671</sha1>
+  </revision>
+  <revision>
+    <id>24729</id>
+    <timestamp>2022-08-19T17:32:57Z</timestamp>
+    <text bytes="5448" space="preserve">&lt;languages/&gt;
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Infobox Berry
+|name    = #42 Kebia
+|image   = [[File:Kebia.png]]
+|caption = This Berry is a brilliant green on the outside. Inside, it is packed with a dry-flavored, black-colored flesh. It has a tendency to overtake nearby plants. Due to its poisonous nature, it increases the chances of mutations near it.
+|growtime  = 10m 0s
+|harvest = 1 berry
+|replant = 100%
+|mutation = 0.01%
+|points = 50
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 spicy 
+*15 dry
+*0 sweet
+*0 bitter
+*10 sour
+}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+'''Kebia''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by planting [[Pamtre]] and equipping the [[Rocky Helmet]]. The Pamtre will then have a chance to mutate into this berry.  This berry can be bought from the Johto [[Berry Master]] for 10,000 {{farmpoints}} if the player is running the "No Oak Item" [[Challenge Mode|challenge]], and has already unlocked the Pamtre berry. [[Farming Setups]] using Kebia can be found [[Farming Setups#Squirtbottle Leveling Strategies|here]]
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Growth Tables ==
+=== Growth Stages ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 1 min 40 secs || 3 mins 20 secs || 6 mins 40 secs || 10 mins - 24 hours
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:KebiaTreeTaller.png|50px]] || &lt;center&gt; [[File:KebiaTreeBloom.png|50px]] || &lt;center&gt; [[File:KebiaTreeBerry.png|50px]]
+|-
+! Aura (mutation chance)
+| || &lt;center&gt; x1.2 || &lt;center&gt; x1.4 || &lt;center&gt; x1.6
+|-
+! Parasite (Tendency to Overtake Planted Plots)
+| colspan=3|&lt;center&gt; N/A || &lt;center&gt; 0.04%
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+=== Ripening Time with Modifiers  ===
+{| class="wikitable" | style="text-align: center;"
+! Modifier !! Ripe-Wither Time !! Boost Mulch Needed to Ripen
+|-
+! None
+| 10 mins -&lt;br&gt; 23 hours 50 mins || ---
+|-
+! Mulch or Sprayduck
+| 6 mins 40 secs -&lt;br&gt; 15 hours 53 mins 20 secs || 2 mulch
+|-
+! Mulch &amp; Sprayduck
+| 4 mins 27 secs -&lt;br&gt; 10 hours 35 mins 33 secs || 1 mulch
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Flow Chart ==
+[[File:Kebia_Flow_Chart.png|250px]]
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Mutation Strategy ==
+=== Possible Planting Formations ===
+You can fill your farm in the following way to obtain Kebia berries. Purple squares indicate where mutations can occur.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Farm
+|- style="background-color:#9C7D98;"
+| style="width: 50px;" | [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || style="width: 50px;" | [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || style="width: 50px;" | [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || style="width: 50px;" | [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || style="width: 50px;" | [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]'''
+|- style="background-color:#9C7D98;"
+| [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]'''
+|- style="height: 26px; background-color:#9C7D98;"
+| [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]'''
+|- style="background-color:#9C7D98;"
+| [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]'''
+|- style="background-color:#9C7D98;"
+| [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]'''
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Uses==
+===Mutations===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Kebia berries can be used to mutate the following berries.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Petaya.png|20px]] [[Petaya]] || [[File:Occa.png|20px]] [[Occa]] [[File:Passho.png|20px]] [[Passho]] &lt;br&gt; [[File:Wacan.png|20px]] [[Wacan]] [[File:Rindo.png|20px]] [[Rindo]] &lt;br&gt; [[File:Yache.png|20px]] [[Yache]] [[File:Chople.png|20px]] [[Chople]] &lt;br&gt; [[File:Shuca.png|20px]] [[Shuca]] [[File:Coba.png|20px]] [[Coba]] &lt;br&gt; [[File:Payapa.png|20px]] [[Payapa]] [[File:Tanga.png|20px]] [[Tanga]] &lt;br&gt; [[File:Charti.png|20px]] [[Charti]] [[File:Kasib.png|20px]] [[Kasib]] &lt;br&gt; [[File:Haban.png|20px]] [[Haban]] [[File:Colbur.png|20px]] [[Colbur]] &lt;br&gt; [[File:Babiri.png|20px]] [[Babiri]] [[File:Chilan.png|20px]] [[Chilan]] &lt;br&gt; [[File:Roseli.png|20px]] [[Roseli]]
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>Incandescence</username>
+      <id>141</id>
+    </contributor>
+    <comment>Created page with "Kébia"</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>208e8787213657e2966f5ee97c4f1bd40c602ebc</sha1>
+  </revision>
+</page>

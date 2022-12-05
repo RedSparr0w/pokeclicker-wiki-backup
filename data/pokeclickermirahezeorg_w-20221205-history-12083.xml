@@ -1,0 +1,83 @@
+<page>
+  <title>Haban</title>
+  <ns>0</ns>
+  <id>628</id>
+  <revision>
+    <id>7202</id>
+    <timestamp>2020-12-10T16:16:16Z</timestamp>
+    <text bytes="2738" space="preserve">{{Infobox Berry
+|name    = Haban
+|image   = [[File:Haban.png]]
+|caption = If a large enough volume of this Berry is boiled down, its bitterness fades away. It makes a good jam. This Berry requires a lot of energy to grow, stealing away nutrients from nearby plots.
+|growtime  = 1d 0h 0m 0s
+|harvest = 34 berries
+|replant = 0%
+|points = 4,000
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 spicy 
+*0 dry
+*10 sweet
+*20 bitter
+*0 sour
+}}
+'''Haban''' is a type of [[Berries|Berry]] that can be planted in [[Farm]]. It can be obtained by surrounding an empty plot with at least 1 [[Occa]], at least 1 [[Rindo]], at least 1 [[Passho]] and at least 1 [[Wacan]].
+
+{| class="wikitable"
+|+ Growth Stages
+! !! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 3 hours || 6 hours || 12 hours || 1 day - 2 days
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:HabanTreeTaller.png|50px]] || &lt;center&gt; [[File:HabanTreeBloom.png|50px]] || &lt;center&gt; [[File:HabanTreeBerry.png|50px]]
+|-
+! Aura (growth speed)
+| || &lt;center&gt; x0.8 || &lt;center&gt; x0.6 || &lt;center&gt; x0.5
+|}
+
+=== Possible Planting Formations ===
+
+You can fill your [[farm]] in following way to obtain Haban berry.
+
+{| class="wikitable" style="text-align: center;"
+|+ Farm
+|-
+!colspan="5"| 10 mutation spots, Occa takeover possible
+|-
+| style="width: 40px;" | [[File:Occa.png|30px]]&lt;br&gt;[[Occa]] || style="width: 40px;" | || style="width: 40px;" | [[File:Passho.png|30px]] [[Passho]] || style="width: 40px;" | || style="width: 40px;" | [[File:Occa.png|30px]]&lt;br&gt;[[Occa]]
+|-
+| [[File:Wacan.png|30px]] [[Wacan]] || || [[File:Rindo.png|30px]]&lt;br&gt;[[Rindo]] || || [[File:Wacan.png|30px]] [[Wacan]]
+|- style="height: 50px;"
+| || || || || 
+|-
+| [[File:Passho.png|30px]] [[Passho]] || || [[File:Occa.png|30px]]&lt;br&gt;[[Occa]] || || [[File:Passho.png|30px]] [[Passho]] 
+|-
+| [[File:Rindo.png|30px]]&lt;br&gt;[[Rindo]] || || [[File:Wacan.png|30px]] [[Wacan]] || || [[File:Rindo.png|30px]]&lt;br&gt;[[Rindo]]
+|}
+
+{| class="wikitable" style="text-align: center;"
+|+ Farm
+|-
+!colspan="5"| No Occa takeover, only 6 mutation spots
+|-
+| style="width: 40px;" | [[File:Passho.png|30px]] [[Passho]] || style="width: 40px;" | || style="width: 40px;" | || style="width: 40px;" | || style="width: 40px;" | [[File:Passho.png|30px]] [[Passho]]
+|-
+| [[File:Rindo.png|30px]]&lt;br&gt;[[Rindo]] || || [[File:Occa.png|30px]]&lt;br&gt;[[Occa]] || | || [[File:Rindo.png|30px]]&lt;br&gt;[[Rindo]]
+|- style="height: 26px;"
+| [[File:Wacan.png|30px]] [[Wacan]] || || || || [[File:Wacan.png|30px]] [[Wacan]]
+|-
+| [[File:Passho.png|30px]] [[Passho]] || || || || [[File:Passho.png|30px]] [[Passho]] 
+|-
+| [[File:Rindo.png|30px]]&lt;br&gt;[[Rindo]] || || [[File:Occa.png|30px]]&lt;br&gt;[[Occa]] || || [[File:Rindo.png|30px]]&lt;br&gt;[[Rindo]]
+|}</text>
+    <contributor>
+      <username>Adrian.Lew</username>
+      <id>29</id>
+    </contributor>
+    <comment>Growth table formatting, images in formation</comment>
+    <model>wikitext</model>
+    <parentid>7201</parentid>
+    <sha1>53338d64c8040bd4ef4308abff3ab77a683584e9</sha1>
+  </revision>
+</page>

@@ -1,0 +1,645 @@
+<page>
+  <title>Figy/es</title>
+  <ns>0</ns>
+  <id>7469</id>
+  <revision>
+    <id>21399</id>
+    <timestamp>2022-08-01T21:33:16Z</timestamp>
+    <text bytes="4562" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #15 Higog (Figy)
+|image   = [[File:Figy.png]]
+|caption = Tiene una forma algo extraña, como si le faltara un pedazo. Su pulpa tiene notas picantes.
+|growtime  = 5m 50s
+|harvest = 14 bayas
+|replant = 30%
+|mutation = 0.9%
+|points = 40
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*15 picante
+*0 seco
+*0 dulce
+*0 amargo
+*0 ácido
+}}
+== Descripción ==
+'''Higog (Figy)''' es un tipo de [[Berries|baya]] que puede ser plantada en la [[Farm|granja]]. Se puede obtener rodeando una parcela con al menos de 25 y no más de 80 puntos picantes y menos de 5 puntos de cualquier otro sabor. Se requiere haber desbloqueado la baya [[Cheri|Zreza (Cheri)]] para desbloquear esta baya.
+
+== Tablas de Crecimiento ==
+=== Estados de Crecimiento ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Brote !! Crecimiento !! Floración !! Madurez
+|-
+! Tiempo pasado desde que se planta
+| 40 seg || 2 mins 40 seg || 3 mins 50 seg || 5 mins 50 seg - 11 mins 40 seg
+|-
+! Animación
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:FigyTreeTaller.png|50px]] || &lt;center&gt; [[File:FigyTreeBloom.png|50px]] || &lt;center&gt; [[File:FigyTreeBerry.png|50px]]
+|}
+
+=== Tiempos de Maduración con modificadores ===
+{| class="wikitable" | style="text-align: center;"
+! Modificador !! Tiempo hasta la madurez-marchitado
+|-
+! Ninguno
+| 5 min 50 seg -&lt;br&gt; 11 min 40 seg
+|-
+! Psydugadera
+| 3 min 53 seg -&lt;br&gt; 7 min 47 seg
+|}
+
+== Diagrama de Flujo ==
+[[File:Figy_Flow_Chart.png|100px]]
+&lt;br&gt;
+'''Leyenda:'''&lt;br&gt;
+· Random Drop: Obtenido aleatoriamente en ruta
+
+== Estrategia de mutación ==
+=== Posibles formaciones ===
+
+Puedes llenar tu granja del siguiente modo para obtener bayas Higog (Figy). Los cuadrados morados indican dónde pueden ocurrir las mutaciones.
+
+{| class="wikitable" style="text-align: center;"
+|+ Formación base
+|- style="height: 50px;"
+| style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri|Zreza (Cheri)]]
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri|Zreza (Cheri)]] || [[File:Cheri.png|30px]] [[Cheri|Zreza (Cheri)]]
+|}
+
+{| class="wikitable" style="text-align: center;"
+|+ Formación óptima
+|-
+| style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri|Zreza (Cheri)]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri|Zreza (Cheri)]]
+|-
+| [[File:Cheri.png|30px]] [[Cheri|Zreza (Cheri)]] || [[File:Cheri.png|30px]] [[Cheri|Zreza (Cheri)]] || style="background-color:#9C7D98;" | || [[File:Cheri.png|30px]] [[Cheri|Zreza (Cheri)]] || [[File:Cheri.png|30px]] [[Cheri|Zreza (Cheri)]] 
+|- style="height: 50px;"
+| style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Cheri.png|30px]] [[Cheri|Zreza (Cheri)]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Cheri.png|30px]] [[Cheri|Zreza (Cheri)]] 
+|-
+| [[File:Cheri.png|30px]] [[Cheri|Zreza (Cheri)]] || [[File:Cheri.png|30px]] [[Cheri|Zreza (Cheri)]] ||  style="background-color:#9C7D98;" | || [[File:Cheri.png|30px]] [[Cheri|Zreza (Cheri)]] || [[File:Cheri.png|30px]] [[Cheri|Zreza (Cheri)]] 
+|}
+
+==Usos==
+===Mutaciones===
+
+Las bayas Higog (Figy) pueden usarse para mutar las siguientes bayas.
+
+{| class="wikitable" | style="text-align: center;"
+|-
+! Se usa para !! Junto a
+|-
+| [[File:Hondew.png|20px]] [[Hondew|Meluce (Hondew)]] || [[File:Wiki.png|20px]] [[Wiki]] &lt;br&gt; [[File:Aguav.png|20px]] [[Aguav|Guaya (Aguav)]]
+|-
+| [[File:Grepa.png|20px]] [[Grepa|Uvav (Grepa)]] || [[File:Aguav.png|20px]] [[Aguav|Guaya (Aguav)]]
+|-
+| [[File:Occa.png|20px]] [[Occa|Caoca (Occa)]] || [[File:Razz.png|20px]] [[Razz|Frambu (Razz)]] &lt;br&gt; [[File:Tamato.png|20px]] [[Tamato|Tamate (Tamato)]] &lt;br&gt; [[File:Spelon.png|20px]] [[Spelon|Wikano (Spelon)]]
+|-
+| [[File:Rindo.png|20px]] [[Rindo|Tamar (Rindo)]] || [[File:Aguav.png|20px]] [[Aguav|Guaya (Aguav)]]
+|-
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Acquisition==
+===Dungeons===
+{{Loot/head‎|Berries}}
+{{LootItem|Pokemon Mansion|Epic}}
+{{LootItem|Radio Tower|Epic}}
+{{LootItem|Magma Hideout|Common}}
+{{LootItem|Liberty Garden|Common}}
+|}
+|}
+&lt;/div&gt;
+
+&lt;br&gt;
+
+{{Berries}}
+
+[[Category:Farm|Categoría:Granja]][[Category:Berries|Categoría:Bayas]]</text>
+    <contributor>
+      <username>Cthulhu Follower</username>
+      <id>51</id>
+    </contributor>
+    <comment>Created page with "[[Category:Farm|Categoría:Granja]][[Category:Berries|Categoría:Bayas]]"</comment>
+    <model>wikitext</model>
+    <parentid>21398</parentid>
+    <sha1>7f1f1260ad3655d9dda66ab7b23d9313b251834b</sha1>
+  </revision>
+  <revision>
+    <id>21398</id>
+    <timestamp>2022-08-01T21:32:44Z</timestamp>
+    <text bytes="4583" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #15 Higog (Figy)
+|image   = [[File:Figy.png]]
+|caption = Tiene una forma algo extraña, como si le faltara un pedazo. Su pulpa tiene notas picantes.
+|growtime  = 5m 50s
+|harvest = 14 bayas
+|replant = 30%
+|mutation = 0.9%
+|points = 40
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*15 picante
+*0 seco
+*0 dulce
+*0 amargo
+*0 ácido
+}}
+== Descripción ==
+'''Higog (Figy)''' es un tipo de [[Berries|baya]] que puede ser plantada en la [[Farm|granja]]. Se puede obtener rodeando una parcela con al menos de 25 y no más de 80 puntos picantes y menos de 5 puntos de cualquier otro sabor. Se requiere haber desbloqueado la baya [[Cheri|Zreza (Cheri)]] para desbloquear esta baya.
+
+== Tablas de Crecimiento ==
+=== Estados de Crecimiento ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Brote !! Crecimiento !! Floración !! Madurez
+|-
+! Tiempo pasado desde que se planta
+| 40 seg || 2 mins 40 seg || 3 mins 50 seg || 5 mins 50 seg - 11 mins 40 seg
+|-
+! Animación
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:FigyTreeTaller.png|50px]] || &lt;center&gt; [[File:FigyTreeBloom.png|50px]] || &lt;center&gt; [[File:FigyTreeBerry.png|50px]]
+|}
+
+=== Tiempos de Maduración con modificadores ===
+{| class="wikitable" | style="text-align: center;"
+! Modificador !! Tiempo hasta la madurez-marchitado
+|-
+! Ninguno
+| 5 min 50 seg -&lt;br&gt; 11 min 40 seg
+|-
+! Psydugadera
+| 3 min 53 seg -&lt;br&gt; 7 min 47 seg
+|}
+
+== Diagrama de Flujo ==
+[[File:Figy_Flow_Chart.png|100px]]
+&lt;br&gt;
+'''Leyenda:'''&lt;br&gt;
+· Random Drop: Obtenido aleatoriamente en ruta
+
+== Estrategia de mutación ==
+=== Posibles formaciones ===
+
+Puedes llenar tu granja del siguiente modo para obtener bayas Higog (Figy). Los cuadrados morados indican dónde pueden ocurrir las mutaciones.
+
+{| class="wikitable" style="text-align: center;"
+|+ Formación base
+|- style="height: 50px;"
+| style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri|Zreza (Cheri)]]
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri|Zreza (Cheri)]] || [[File:Cheri.png|30px]] [[Cheri|Zreza (Cheri)]]
+|}
+
+{| class="wikitable" style="text-align: center;"
+|+ Formación óptima
+|-
+| style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri|Zreza (Cheri)]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri|Zreza (Cheri)]]
+|-
+| [[File:Cheri.png|30px]] [[Cheri|Zreza (Cheri)]] || [[File:Cheri.png|30px]] [[Cheri|Zreza (Cheri)]] || style="background-color:#9C7D98;" | || [[File:Cheri.png|30px]] [[Cheri|Zreza (Cheri)]] || [[File:Cheri.png|30px]] [[Cheri|Zreza (Cheri)]] 
+|- style="height: 50px;"
+| style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Cheri.png|30px]] [[Cheri|Zreza (Cheri)]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Cheri.png|30px]] [[Cheri|Zreza (Cheri)]] 
+|-
+| [[File:Cheri.png|30px]] [[Cheri|Zreza (Cheri)]] || [[File:Cheri.png|30px]] [[Cheri|Zreza (Cheri)]] ||  style="background-color:#9C7D98;" | || [[File:Cheri.png|30px]] [[Cheri|Zreza (Cheri)]] || [[File:Cheri.png|30px]] [[Cheri|Zreza (Cheri)]] 
+|}
+
+==Usos==
+===Mutaciones===
+
+Las bayas Higog (Figy) pueden usarse para mutar las siguientes bayas.
+
+{| class="wikitable" | style="text-align: center;"
+|-
+! Se usa para !! Junto a
+|-
+| [[File:Hondew.png|20px]] [[Hondew|Meluce (Hondew)]] || [[File:Wiki.png|20px]] [[Wiki]] &lt;br&gt; [[File:Aguav.png|20px]] [[Aguav|Guaya (Aguav)]]
+|-
+| [[File:Grepa.png|20px]] [[Grepa|Uvav (Grepa)]] || [[File:Aguav.png|20px]] [[Aguav|Guaya (Aguav)]]
+|-
+| [[File:Occa.png|20px]] [[Occa|Caoca (Occa)]] || [[File:Razz.png|20px]] [[Razz|Frambu (Razz)]] &lt;br&gt; [[File:Tamato.png|20px]] [[Tamato|Tamate (Tamato)]] &lt;br&gt; [[File:Spelon.png|20px]] [[Spelon|Wikano (Spelon)]]
+|-
+| [[File:Rindo.png|20px]] [[Rindo|Tamar (Rindo)]] || [[File:Aguav.png|20px]] [[Aguav|Guaya (Aguav)]]
+|-
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Acquisition==
+===Dungeons===
+{{Loot/head‎|Berries}}
+{{LootItem|Pokemon Mansion|Epic}}
+{{LootItem|Radio Tower|Epic}}
+{{LootItem|Magma Hideout|Common}}
+{{LootItem|Liberty Garden|Common}}
+|}
+|}
+&lt;/div&gt;
+
+&lt;br&gt;
+
+{{Berries}}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>Cthulhu Follower</username>
+      <id>51</id>
+    </contributor>
+    <comment>Created page with "{{Berries}}"</comment>
+    <model>wikitext</model>
+    <parentid>21397</parentid>
+    <sha1>5e5d4a137ad091f9f3b87eb872fb188496a04066</sha1>
+  </revision>
+  <revision>
+    <id>21397</id>
+    <timestamp>2022-08-01T21:32:39Z</timestamp>
+    <text bytes="4639" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #15 Higog (Figy)
+|image   = [[File:Figy.png]]
+|caption = Tiene una forma algo extraña, como si le faltara un pedazo. Su pulpa tiene notas picantes.
+|growtime  = 5m 50s
+|harvest = 14 bayas
+|replant = 30%
+|mutation = 0.9%
+|points = 40
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*15 picante
+*0 seco
+*0 dulce
+*0 amargo
+*0 ácido
+}}
+== Descripción ==
+'''Higog (Figy)''' es un tipo de [[Berries|baya]] que puede ser plantada en la [[Farm|granja]]. Se puede obtener rodeando una parcela con al menos de 25 y no más de 80 puntos picantes y menos de 5 puntos de cualquier otro sabor. Se requiere haber desbloqueado la baya [[Cheri|Zreza (Cheri)]] para desbloquear esta baya.
+
+== Tablas de Crecimiento ==
+=== Estados de Crecimiento ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Brote !! Crecimiento !! Floración !! Madurez
+|-
+! Tiempo pasado desde que se planta
+| 40 seg || 2 mins 40 seg || 3 mins 50 seg || 5 mins 50 seg - 11 mins 40 seg
+|-
+! Animación
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:FigyTreeTaller.png|50px]] || &lt;center&gt; [[File:FigyTreeBloom.png|50px]] || &lt;center&gt; [[File:FigyTreeBerry.png|50px]]
+|}
+
+=== Tiempos de Maduración con modificadores ===
+{| class="wikitable" | style="text-align: center;"
+! Modificador !! Tiempo hasta la madurez-marchitado
+|-
+! Ninguno
+| 5 min 50 seg -&lt;br&gt; 11 min 40 seg
+|-
+! Psydugadera
+| 3 min 53 seg -&lt;br&gt; 7 min 47 seg
+|}
+
+== Diagrama de Flujo ==
+[[File:Figy_Flow_Chart.png|100px]]
+&lt;br&gt;
+'''Leyenda:'''&lt;br&gt;
+· Random Drop: Obtenido aleatoriamente en ruta
+
+== Estrategia de mutación ==
+=== Posibles formaciones ===
+
+Puedes llenar tu granja del siguiente modo para obtener bayas Higog (Figy). Los cuadrados morados indican dónde pueden ocurrir las mutaciones.
+
+{| class="wikitable" style="text-align: center;"
+|+ Formación base
+|- style="height: 50px;"
+| style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri|Zreza (Cheri)]]
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri|Zreza (Cheri)]] || [[File:Cheri.png|30px]] [[Cheri|Zreza (Cheri)]]
+|}
+
+{| class="wikitable" style="text-align: center;"
+|+ Formación óptima
+|-
+| style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri|Zreza (Cheri)]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri|Zreza (Cheri)]]
+|-
+| [[File:Cheri.png|30px]] [[Cheri|Zreza (Cheri)]] || [[File:Cheri.png|30px]] [[Cheri|Zreza (Cheri)]] || style="background-color:#9C7D98;" | || [[File:Cheri.png|30px]] [[Cheri|Zreza (Cheri)]] || [[File:Cheri.png|30px]] [[Cheri|Zreza (Cheri)]] 
+|- style="height: 50px;"
+| style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Cheri.png|30px]] [[Cheri|Zreza (Cheri)]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Cheri.png|30px]] [[Cheri|Zreza (Cheri)]] 
+|-
+| [[File:Cheri.png|30px]] [[Cheri|Zreza (Cheri)]] || [[File:Cheri.png|30px]] [[Cheri|Zreza (Cheri)]] ||  style="background-color:#9C7D98;" | || [[File:Cheri.png|30px]] [[Cheri|Zreza (Cheri)]] || [[File:Cheri.png|30px]] [[Cheri|Zreza (Cheri)]] 
+|}
+
+==Usos==
+===Mutaciones===
+
+Las bayas Higog (Figy) pueden usarse para mutar las siguientes bayas.
+
+{| class="wikitable" | style="text-align: center;"
+|-
+! Se usa para !! Junto a
+|-
+| [[File:Hondew.png|20px]] [[Hondew|Meluce (Hondew)]] || [[File:Wiki.png|20px]] [[Wiki]] &lt;br&gt; [[File:Aguav.png|20px]] [[Aguav|Guaya (Aguav)]]
+|-
+| [[File:Grepa.png|20px]] [[Grepa|Uvav (Grepa)]] || [[File:Aguav.png|20px]] [[Aguav|Guaya (Aguav)]]
+|-
+| [[File:Occa.png|20px]] [[Occa|Caoca (Occa)]] || [[File:Razz.png|20px]] [[Razz|Frambu (Razz)]] &lt;br&gt; [[File:Tamato.png|20px]] [[Tamato|Tamate (Tamato)]] &lt;br&gt; [[File:Spelon.png|20px]] [[Spelon|Wikano (Spelon)]]
+|-
+| [[File:Rindo.png|20px]] [[Rindo|Tamar (Rindo)]] || [[File:Aguav.png|20px]] [[Aguav|Guaya (Aguav)]]
+|-
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Acquisition==
+===Dungeons===
+{{Loot/head‎|Berries}}
+{{LootItem|Pokemon Mansion|Epic}}
+{{LootItem|Radio Tower|Epic}}
+{{LootItem|Magma Hideout|Common}}
+{{LootItem|Liberty Garden|Common}}
+|}
+|}
+&lt;/div&gt;
+
+&lt;br&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>Cthulhu Follower</username>
+      <id>51</id>
+    </contributor>
+    <comment>Created page with "&lt;br&gt;"</comment>
+    <model>wikitext</model>
+    <parentid>21396</parentid>
+    <sha1>cc6c63988cb96dfafb00461500e4779cd7ed8eb3</sha1>
+  </revision>
+  <revision>
+    <id>21396</id>
+    <timestamp>2022-08-01T21:30:25Z</timestamp>
+    <text bytes="4695" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #15 Higog (Figy)
+|image   = [[File:Figy.png]]
+|caption = Tiene una forma algo extraña, como si le faltara un pedazo. Su pulpa tiene notas picantes.
+|growtime  = 5m 50s
+|harvest = 14 bayas
+|replant = 30%
+|mutation = 0.9%
+|points = 40
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*15 picante
+*0 seco
+*0 dulce
+*0 amargo
+*0 ácido
+}}
+== Descripción ==
+'''Higog (Figy)''' es un tipo de [[Berries|baya]] que puede ser plantada en la [[Farm|granja]]. Se puede obtener rodeando una parcela con al menos de 25 y no más de 80 puntos picantes y menos de 5 puntos de cualquier otro sabor. Se requiere haber desbloqueado la baya [[Cheri|Zreza (Cheri)]] para desbloquear esta baya.
+
+== Tablas de Crecimiento ==
+=== Estados de Crecimiento ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Brote !! Crecimiento !! Floración !! Madurez
+|-
+! Tiempo pasado desde que se planta
+| 40 seg || 2 mins 40 seg || 3 mins 50 seg || 5 mins 50 seg - 11 mins 40 seg
+|-
+! Animación
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:FigyTreeTaller.png|50px]] || &lt;center&gt; [[File:FigyTreeBloom.png|50px]] || &lt;center&gt; [[File:FigyTreeBerry.png|50px]]
+|}
+
+=== Tiempos de Maduración con modificadores ===
+{| class="wikitable" | style="text-align: center;"
+! Modificador !! Tiempo hasta la madurez-marchitado
+|-
+! Ninguno
+| 5 min 50 seg -&lt;br&gt; 11 min 40 seg
+|-
+! Psydugadera
+| 3 min 53 seg -&lt;br&gt; 7 min 47 seg
+|}
+
+== Diagrama de Flujo ==
+[[File:Figy_Flow_Chart.png|100px]]
+&lt;br&gt;
+'''Leyenda:'''&lt;br&gt;
+· Random Drop: Obtenido aleatoriamente en ruta
+
+== Estrategia de mutación ==
+=== Posibles formaciones ===
+
+Puedes llenar tu granja del siguiente modo para obtener bayas Higog (Figy). Los cuadrados morados indican dónde pueden ocurrir las mutaciones.
+
+{| class="wikitable" style="text-align: center;"
+|+ Formación base
+|- style="height: 50px;"
+| style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri|Zreza (Cheri)]]
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri|Zreza (Cheri)]] || [[File:Cheri.png|30px]] [[Cheri|Zreza (Cheri)]]
+|}
+
+{| class="wikitable" style="text-align: center;"
+|+ Formación óptima
+|-
+| style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri|Zreza (Cheri)]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri|Zreza (Cheri)]]
+|-
+| [[File:Cheri.png|30px]] [[Cheri|Zreza (Cheri)]] || [[File:Cheri.png|30px]] [[Cheri|Zreza (Cheri)]] || style="background-color:#9C7D98;" | || [[File:Cheri.png|30px]] [[Cheri|Zreza (Cheri)]] || [[File:Cheri.png|30px]] [[Cheri|Zreza (Cheri)]] 
+|- style="height: 50px;"
+| style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Cheri.png|30px]] [[Cheri|Zreza (Cheri)]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Cheri.png|30px]] [[Cheri|Zreza (Cheri)]] 
+|-
+| [[File:Cheri.png|30px]] [[Cheri|Zreza (Cheri)]] || [[File:Cheri.png|30px]] [[Cheri|Zreza (Cheri)]] ||  style="background-color:#9C7D98;" | || [[File:Cheri.png|30px]] [[Cheri|Zreza (Cheri)]] || [[File:Cheri.png|30px]] [[Cheri|Zreza (Cheri)]] 
+|}
+
+==Usos==
+===Mutaciones===
+
+Las bayas Higog (Figy) pueden usarse para mutar las siguientes bayas.
+
+{| class="wikitable" | style="text-align: center;"
+|-
+! Se usa para !! Junto a
+|-
+| [[File:Hondew.png|20px]] [[Hondew|Meluce (Hondew)]] || [[File:Wiki.png|20px]] [[Wiki]] &lt;br&gt; [[File:Aguav.png|20px]] [[Aguav|Guaya (Aguav)]]
+|-
+| [[File:Grepa.png|20px]] [[Grepa|Uvav (Grepa)]] || [[File:Aguav.png|20px]] [[Aguav|Guaya (Aguav)]]
+|-
+| [[File:Occa.png|20px]] [[Occa|Caoca (Occa)]] || [[File:Razz.png|20px]] [[Razz|Frambu (Razz)]] &lt;br&gt; [[File:Tamato.png|20px]] [[Tamato|Tamate (Tamato)]] &lt;br&gt; [[File:Spelon.png|20px]] [[Spelon|Wikano (Spelon)]]
+|-
+| [[File:Rindo.png|20px]] [[Rindo|Tamar (Rindo)]] || [[File:Aguav.png|20px]] [[Aguav|Guaya (Aguav)]]
+|-
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Acquisition==
+===Dungeons===
+{{Loot/head‎|Berries}}
+{{LootItem|Pokemon Mansion|Epic}}
+{{LootItem|Radio Tower|Epic}}
+{{LootItem|Magma Hideout|Common}}
+{{LootItem|Liberty Garden|Common}}
+|}
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>Cthulhu Follower</username>
+      <id>51</id>
+    </contributor>
+    <comment>Created page with "Las bayas Higog (Figy) pueden usarse para mutar las siguientes bayas."</comment>
+    <model>wikitext</model>
+    <parentid>21395</parentid>
+    <sha1>26fcb67358337b6db540a12f89a6a1070460b293</sha1>
+  </revision>
+  <revision>
+    <id>21395</id>
+    <timestamp>2022-08-01T21:30:09Z</timestamp>
+    <text bytes="4739" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #15 Higog (Figy)
+|image   = [[File:Figy.png]]
+|caption = Tiene una forma algo extraña, como si le faltara un pedazo. Su pulpa tiene notas picantes.
+|growtime  = 5m 50s
+|harvest = 14 bayas
+|replant = 30%
+|mutation = 0.9%
+|points = 40
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*15 picante
+*0 seco
+*0 dulce
+*0 amargo
+*0 ácido
+}}
+== Descripción ==
+'''Higog (Figy)''' es un tipo de [[Berries|baya]] que puede ser plantada en la [[Farm|granja]]. Se puede obtener rodeando una parcela con al menos de 25 y no más de 80 puntos picantes y menos de 5 puntos de cualquier otro sabor. Se requiere haber desbloqueado la baya [[Cheri|Zreza (Cheri)]] para desbloquear esta baya.
+
+== Tablas de Crecimiento ==
+=== Estados de Crecimiento ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Brote !! Crecimiento !! Floración !! Madurez
+|-
+! Tiempo pasado desde que se planta
+| 40 seg || 2 mins 40 seg || 3 mins 50 seg || 5 mins 50 seg - 11 mins 40 seg
+|-
+! Animación
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:FigyTreeTaller.png|50px]] || &lt;center&gt; [[File:FigyTreeBloom.png|50px]] || &lt;center&gt; [[File:FigyTreeBerry.png|50px]]
+|}
+
+=== Tiempos de Maduración con modificadores ===
+{| class="wikitable" | style="text-align: center;"
+! Modificador !! Tiempo hasta la madurez-marchitado
+|-
+! Ninguno
+| 5 min 50 seg -&lt;br&gt; 11 min 40 seg
+|-
+! Psydugadera
+| 3 min 53 seg -&lt;br&gt; 7 min 47 seg
+|}
+
+== Diagrama de Flujo ==
+[[File:Figy_Flow_Chart.png|100px]]
+&lt;br&gt;
+'''Leyenda:'''&lt;br&gt;
+· Random Drop: Obtenido aleatoriamente en ruta
+
+== Estrategia de mutación ==
+=== Posibles formaciones ===
+
+Puedes llenar tu granja del siguiente modo para obtener bayas Higog (Figy). Los cuadrados morados indican dónde pueden ocurrir las mutaciones.
+
+{| class="wikitable" style="text-align: center;"
+|+ Formación base
+|- style="height: 50px;"
+| style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri|Zreza (Cheri)]]
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri|Zreza (Cheri)]] || [[File:Cheri.png|30px]] [[Cheri|Zreza (Cheri)]]
+|}
+
+{| class="wikitable" style="text-align: center;"
+|+ Formación óptima
+|-
+| style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri|Zreza (Cheri)]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri|Zreza (Cheri)]]
+|-
+| [[File:Cheri.png|30px]] [[Cheri|Zreza (Cheri)]] || [[File:Cheri.png|30px]] [[Cheri|Zreza (Cheri)]] || style="background-color:#9C7D98;" | || [[File:Cheri.png|30px]] [[Cheri|Zreza (Cheri)]] || [[File:Cheri.png|30px]] [[Cheri|Zreza (Cheri)]] 
+|- style="height: 50px;"
+| style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Cheri.png|30px]] [[Cheri|Zreza (Cheri)]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Cheri.png|30px]] [[Cheri|Zreza (Cheri)]] 
+|-
+| [[File:Cheri.png|30px]] [[Cheri|Zreza (Cheri)]] || [[File:Cheri.png|30px]] [[Cheri|Zreza (Cheri)]] ||  style="background-color:#9C7D98;" | || [[File:Cheri.png|30px]] [[Cheri|Zreza (Cheri)]] || [[File:Cheri.png|30px]] [[Cheri|Zreza (Cheri)]] 
+|}
+
+==Usos==
+===Mutaciones===
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Figy berries can be used to mutate the following berries.
+&lt;/div&gt;
+
+{| class="wikitable" | style="text-align: center;"
+|-
+! Se usa para !! Junto a
+|-
+| [[File:Hondew.png|20px]] [[Hondew|Meluce (Hondew)]] || [[File:Wiki.png|20px]] [[Wiki]] &lt;br&gt; [[File:Aguav.png|20px]] [[Aguav|Guaya (Aguav)]]
+|-
+| [[File:Grepa.png|20px]] [[Grepa|Uvav (Grepa)]] || [[File:Aguav.png|20px]] [[Aguav|Guaya (Aguav)]]
+|-
+| [[File:Occa.png|20px]] [[Occa|Caoca (Occa)]] || [[File:Razz.png|20px]] [[Razz|Frambu (Razz)]] &lt;br&gt; [[File:Tamato.png|20px]] [[Tamato|Tamate (Tamato)]] &lt;br&gt; [[File:Spelon.png|20px]] [[Spelon|Wikano (Spelon)]]
+|-
+| [[File:Rindo.png|20px]] [[Rindo|Tamar (Rindo)]] || [[File:Aguav.png|20px]] [[Aguav|Guaya (Aguav)]]
+|-
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Acquisition==
+===Dungeons===
+{{Loot/head‎|Berries}}
+{{LootItem|Pokemon Mansion|Epic}}
+{{LootItem|Radio Tower|Epic}}
+{{LootItem|Magma Hideout|Common}}
+{{LootItem|Liberty Garden|Common}}
+|}
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>Cthulhu Follower</username>
+      <id>51</id>
+    </contributor>
+    <comment>Created page with "==Usos== ===Mutaciones==="</comment>
+    <model>wikitext</model>
+    <parentid>21394</parentid>
+    <sha1>0105a2106ed83d2ccd084948da9207e5f5d6162b</sha1>
+  </revision>
+</page>

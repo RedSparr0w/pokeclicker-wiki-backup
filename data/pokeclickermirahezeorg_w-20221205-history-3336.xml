@@ -1,0 +1,218 @@
+<page>
+  <title>Rawst/es</title>
+  <ns>0</ns>
+  <id>7161</id>
+  <revision>
+    <id>20604</id>
+    <timestamp>2022-07-29T18:38:22Z</timestamp>
+    <text bytes="2683" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #04 Safre (Rawst)
+|image   = [[File:Rawst.png]]
+|caption = Si las hojas crecen mucho y se rizan, la baya se vuelve un poco amarga.
+|growtime  = 1m 20s
+|harvest = 5 bayas
+|replant = 50%
+|points = 8
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 picante
+*0 seco
+*0 dulce
+*10 amargo
+*0 ácido
+}}
+
+'''Safre (Rawst)''' es un tipo de [[Berries|baya]] que puede ser plantada en la [[Farm|Granja]] para obtener [[Farming Points|Puntos de Granja]]. Se puede obtener como recomensa aleatoria al derrotar Pokémon salvajes en las rutas.
+
+{| class="wikitable" | style = "image-rendering: pixelated"
+|+ Estados de Crecimiento
+!!! Brote !! Crecimiento !! Floración !! Madurez
+|-
+! Tiempo pasado desde que se planta
+| 15 seg|| 30 seg || 45 seg || 1 min 20 seg - 2 mins 40 seg
+|-
+! Animación
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] ||&lt;center&gt; [[File:RawstTreeTaller.png|50px]] ||&lt;center&gt; [[File:RawstTreeBloom.png|50px]] || &lt;center&gt;[[File:RawstTreeBerry.png|50px]]
+|}
+
+{| class="wikitable collapsible" | style="text-align: center;"
+|+ Tiempos de maduración con modificadores
+! Modificador !! Tiempo hasta la madurez-marchitado
+|-
+! Ninguno
+| 1 min 20 seg -&lt;br&gt; 2 mins 40 seg
+|-
+! Psydugadera
+| 53 seg -&lt;br&gt; 1 min 46 seg
+|}
+
+== Diagrama de Flujo ==
+[[File:Rawst_Flow_Chart.png|100px]]
+&lt;br&gt;
+'''Leyenda:'''
+· Random Drop: Obtenido aleatoriamente en ruta
+
+==Usos==
+===Mutaciones===
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Rawst berries can be used to mutate the following berries.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Wepear.png|20px]] [[Wepear]] || [[File:Oran.png|20px]] [[Oran]]
+|-
+| [[File:Aguav.png|20px]] [[Aguav]] || -
+|-
+| [[File:Lum.png|20px]] [[Lum]] || [[File:Cheri.png|20px]] [[Cheri]] &lt;br&gt; [[File:Chesto.png|20px]] [[Chesto]] &lt;br&gt; [[File:Pecha.png|20px]] [[Pecha]] &lt;br&gt; [[File:Aspear.png|20px]] [[Aspear]] &lt;br&gt; [[File:Leppa.png|20px]] [[Leppa]] &lt;br&gt; [[File:Oran.png|20px]] [[Oran]] &lt;br&gt; [[File:Sitrus.png|20px]] [[Sitrus]]
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Acquisition==
+===Dungeons===
+{{Loot/head‎|Berries}}
+{{LootItem|Pokemon Mansion|Common}}
+{{LootItem|Berry Forest|Common}}
+{{LootItem|Wayward Cave|Common}}
+{{LootItem|Stark Mountain|Common}}
+{{LootItem|Pokémon Village|Common}}
+{{LootItem|Wela Volcano Park|Common}}
+{{LootItem|Ruins of Abundance|Common}}
+|}
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>Cthulhu Follower</username>
+      <id>51</id>
+    </contributor>
+    <comment>Created page with "== Diagrama de Flujo == [[File:Rawst_Flow_Chart.png|100px]] &lt;br&gt; '''Leyenda:''' · Random Drop: Obtenido aleatoriamente en ruta"</comment>
+    <model>wikitext</model>
+    <parentid>20603</parentid>
+    <sha1>31699b21868b4d914fe96723ebc5b6ebadc57547</sha1>
+  </revision>
+  <revision>
+    <id>20603</id>
+    <timestamp>2022-07-29T18:31:38Z</timestamp>
+    <text bytes="2719" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #04 Safre (Rawst)
+|image   = [[File:Rawst.png]]
+|caption = Si las hojas crecen mucho y se rizan, la baya se vuelve un poco amarga.
+|growtime  = 1m 20s
+|harvest = 5 bayas
+|replant = 50%
+|points = 8
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 picante
+*0 seco
+*0 dulce
+*10 amargo
+*0 ácido
+}}
+
+'''Safre (Rawst)''' es un tipo de [[Berries|baya]] que puede ser plantada en la [[Farm|Granja]] para obtener [[Farming Points|Puntos de Granja]]. Se puede obtener como recomensa aleatoria al derrotar Pokémon salvajes en las rutas.
+
+{| class="wikitable" | style = "image-rendering: pixelated"
+|+ Estados de Crecimiento
+!!! Brote !! Crecimiento !! Floración !! Madurez
+|-
+! Tiempo pasado desde que se planta
+| 15 seg|| 30 seg || 45 seg || 1 min 20 seg - 2 mins 40 seg
+|-
+! Animación
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] ||&lt;center&gt; [[File:RawstTreeTaller.png|50px]] ||&lt;center&gt; [[File:RawstTreeBloom.png|50px]] || &lt;center&gt;[[File:RawstTreeBerry.png|50px]]
+|}
+
+{| class="wikitable collapsible" | style="text-align: center;"
+|+ Tiempos de maduración con modificadores
+! Modificador !! Tiempo hasta la madurez-marchitado
+|-
+! Ninguno
+| 1 min 20 seg -&lt;br&gt; 2 mins 40 seg
+|-
+! Psydugadera
+| 53 seg -&lt;br&gt; 1 min 46 seg
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Flow Chart ==
+[[File:Rawst_Flow_Chart.png|100px]]
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Uses==
+===Mutations===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Rawst berries can be used to mutate the following berries.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Wepear.png|20px]] [[Wepear]] || [[File:Oran.png|20px]] [[Oran]]
+|-
+| [[File:Aguav.png|20px]] [[Aguav]] || -
+|-
+| [[File:Lum.png|20px]] [[Lum]] || [[File:Cheri.png|20px]] [[Cheri]] &lt;br&gt; [[File:Chesto.png|20px]] [[Chesto]] &lt;br&gt; [[File:Pecha.png|20px]] [[Pecha]] &lt;br&gt; [[File:Aspear.png|20px]] [[Aspear]] &lt;br&gt; [[File:Leppa.png|20px]] [[Leppa]] &lt;br&gt; [[File:Oran.png|20px]] [[Oran]] &lt;br&gt; [[File:Sitrus.png|20px]] [[Sitrus]]
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Acquisition==
+===Dungeons===
+{{Loot/head‎|Berries}}
+{{LootItem|Pokemon Mansion|Common}}
+{{LootItem|Berry Forest|Common}}
+{{LootItem|Wayward Cave|Common}}
+{{LootItem|Stark Mountain|Common}}
+{{LootItem|Pokémon Village|Common}}
+{{LootItem|Wela Volcano Park|Common}}
+{{LootItem|Ruins of Abundance|Common}}
+|}
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>Cthulhu Follower</username>
+      <id>51</id>
+    </contributor>
+    <comment>Created page with "{| class="wikitable collapsible" | style="text-align: center;" |+ Tiempos de maduración con modificadores ! Modificador !! Tiempo hasta la madurez-marchitado |- ! Ninguno | 1 min 20 seg -&lt;br&gt; 2 mins 40 seg |- ! Psydugadera | 53 seg -&lt;br&gt; 1 min 46 seg |}"</comment>
+    <model>wikitext</model>
+    <parentid>20602</parentid>
+    <sha1>2973182c54900728f348d7922f560eb3eaddea84</sha1>
+  </revision>
+</page>

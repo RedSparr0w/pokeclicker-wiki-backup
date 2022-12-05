@@ -1,0 +1,2041 @@
+<page>
+  <title>Persim/fr</title>
+  <ns>0</ns>
+  <id>7946</id>
+  <revision>
+    <id>22428</id>
+    <timestamp>2022-08-09T17:22:54Z</timestamp>
+    <text bytes="4320" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #09 Kika
+|image   = [[File:Persim.png]]
+|caption = Plus on l'expose aux rayons du soleil et plus cette Baie prend une couleur vive.
+|growtime  = 1m 30s
+|harvest = 5 baies
+|replant = 40%
+|mutation = 2%
+|points = 10
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*10 épicée
+*10 sèche
+*10 sucrée
+*0 amère
+*10 acide
+}}
+'''Kika''' est un type de [[Berry/fr|Baie]] qui peut être plantée dans la [[Farm/fr|Ferme]]. Elle peut être obtenue en entourant une parcelle vide avec au moins 1 [[Pecha/fr|Pêcha]] et au moins 1 [[Oran/fr|Oran]].
+
+== Tables de croissance ==
+=== Stades de croissance ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+!!! Pousse !! Arbuste !! Fleuri !! Mûr
+|-
+! Temps écoulé depuis plantation
+| 20 secs || 40 secs || 50 secs || 1 min 30 secs - 3 mins
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:PersimTreeTaller.png|50px]] || &lt;center&gt;[[File:PersimTreeBloom.png|50px]] || &lt;center&gt; [[File:PersimTreeBerry.png|50px]]
+|}
+
+===Temps de croissance avec modificateurs===
+{| class="wikitable collapsible" | style="text-align: center;"
+! Modificateur !! Temps Maturité-Flétrissement
+|-
+! Aucun
+| 1 min 30 secs -&lt;br&gt; 3 mins
+|-
+! Kwakarrosoir
+| 1 min -&lt;br&gt; 2 mins
+|}
+
+== Graphique de découverte ==
+[[File:Kika_-_Graph_découverte.png|200px]]
+&lt;br&gt;
+
+== Stratégie de mutation ==
+=== Formations de plantation possibles ===
+
+Vous pouvez remplir votre ferme de la manière suivante pour obtenir des baies Kika. Les cases violettes indiquent où les mutations peuvent avoir lieu.
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation de base
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Pecha.png|30px]]&lt;br&gt;[[Pecha/fr|Pêcha]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Oran.png|30px]]&lt;br&gt;[[Oran/fr|Oran]]
+|}
+
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation de plantation optimisée
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Pecha.png|30px]]&lt;br&gt;[[Pecha/fr|Pêcha]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Pecha.png|30px]]&lt;br&gt;[[Pecha/fr|Pêcha]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Oran.png|30px]]&lt;br&gt;[[Oran/fr|Oran]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Oran.png|30px]]&lt;br&gt;[[Oran/fr|Oran]] 
+|- style="height: 50px;"
+| style="background-color:#9C7D98;" | ||style="background-color:#9C7D98;" | ||style="background-color:#9C7D98;" | ||style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" |
+|-
+| [[File:Pecha.png|30px]]&lt;br&gt;[[Pecha/fr|Pêcha]] ||style="background-color:#9C7D98;" | ||style="background-color:#9C7D98;" | || [[File:Pecha.png|30px]]&lt;br&gt;[[Pecha/fr|Pêcha]] || style="background-color:#9C7D98;" |
+|-
+| style="background-color:#9C7D98;" | || [[File:Oran.png|30px]]&lt;br&gt;[[Oran/fr|Oran]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Oran.png|30px]]&lt;br&gt;[[Oran/fr|Oran]] 
+|}
+
+=== Tableau de chronométrage ===
+{| class="wikitable" | style="text-align: center;"
+|-
+|+ ''Tous les temps indiqués sont basés sur le temps restant avant que la première baie plantée n'arrive à maturité''
+! Baie !! Temps de plantation&lt;br&gt;sans modificateur!! Temps de plantation avec &lt;br&gt; Engrais ou Kwakarrosoir || Temps de plantation avec &lt;br&gt; Engrais et Kwakarrosoir
+|-
+| [[Oran/fr|Oran]] || - || - || -
+|-
+| [[Pecha/fr|Pêcha]] || 1 min avant maturité || 40 secs avant maturité || Pas pratique
+|-
+|}
+
+==Utilisations==
+===Mutations===
+
+Les baies Kika peuvent être utilisées pour faire muter les baies suivantes.
+
+{| class="wikitable" | style="text-align: center;"
+|-
+! Utilisée pour !! Plantée avec
+|-
+| [[File:Kelpsy.png|20px]] [[Kelpsy/fr|Alga]] || [[File:Chesto.png|20px]] [[Chesto/fr|Maron]]
+|-
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Acquisition==
+===Dungeons===
+{{Loot/head‎|Berries}}
+{{LootItem|Berry Forest|Epic}}
+{{LootItem|Radio Tower|Epic}}
+{{LootItem|Solaceon Ruins|Common}}
+{{LootItem|Reversal Mountain|Common}}
+{{LootItem|Seaside Cave|Common}}
+|}
+|}
+&lt;/div&gt;
+
+&lt;br&gt;
+
+{{Berries}}
+[[Category:Farm]][[Category:Berries]]</text>
+    <contributor>
+      <username>LeChatMG</username>
+      <id>97</id>
+    </contributor>
+    <comment>Première traduction</comment>
+    <model>wikitext</model>
+    <parentid>22427</parentid>
+    <sha1>de16bbe548ce6e016bdcd2ea8e7525d5c3ef478e</sha1>
+  </revision>
+  <revision>
+    <id>22427</id>
+    <timestamp>2022-08-09T17:22:46Z</timestamp>
+    <text bytes="4309" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #09 Kika
+|image   = [[File:Persim.png]]
+|caption = Plus on l'expose aux rayons du soleil et plus cette Baie prend une couleur vive.
+|growtime  = 1m 30s
+|harvest = 5 baies
+|replant = 40%
+|mutation = 2%
+|points = 10
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*10 épicée
+*10 sèche
+*10 sucrée
+*0 amère
+*10 acide
+}}
+'''Kika''' est un type de [[Berry/fr|Baie]] qui peut être plantée dans la [[Farm/fr|Ferme]]. Elle peut être obtenue en entourant une parcelle vide avec au moins 1 [[Pecha/fr|Pêcha]] et au moins 1 [[Oran/fr|Oran]].
+
+== Tables de croissance ==
+=== Stades de croissance ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+!!! Pousse !! Arbuste !! Fleuri !! Mûr
+|-
+! Temps écoulé depuis plantation
+| 20 secs || 40 secs || 50 secs || 1 min 30 secs - 3 mins
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:PersimTreeTaller.png|50px]] || &lt;center&gt;[[File:PersimTreeBloom.png|50px]] || &lt;center&gt; [[File:PersimTreeBerry.png|50px]]
+|}
+
+===Temps de croissance avec modificateurs===
+{| class="wikitable" | style="text-align: center;"
+! Modificateur !! Temps Maturité-Flétrissement
+|-
+! Aucun
+| 1 min 30 secs -&lt;br&gt; 3 mins
+|-
+! Kwakarroisoir
+| 1 min -&lt;br&gt; 2 mins
+|}
+
+== Graphique de découverte ==
+[[File:Kika_-_Graph_découverte.png|200px]]
+&lt;br&gt;
+
+== Stratégie de mutation ==
+=== Formations de plantation possibles ===
+
+Vous pouvez remplir votre ferme de la manière suivante pour obtenir des baies Kika. Les cases violettes indiquent où les mutations peuvent avoir lieu.
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation de base
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Pecha.png|30px]]&lt;br&gt;[[Pecha/fr|Pêcha]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Oran.png|30px]]&lt;br&gt;[[Oran/fr|Oran]]
+|}
+
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation de plantation optimisée
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Pecha.png|30px]]&lt;br&gt;[[Pecha/fr|Pêcha]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Pecha.png|30px]]&lt;br&gt;[[Pecha/fr|Pêcha]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Oran.png|30px]]&lt;br&gt;[[Oran/fr|Oran]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Oran.png|30px]]&lt;br&gt;[[Oran/fr|Oran]] 
+|- style="height: 50px;"
+| style="background-color:#9C7D98;" | ||style="background-color:#9C7D98;" | ||style="background-color:#9C7D98;" | ||style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" |
+|-
+| [[File:Pecha.png|30px]]&lt;br&gt;[[Pecha/fr|Pêcha]] ||style="background-color:#9C7D98;" | ||style="background-color:#9C7D98;" | || [[File:Pecha.png|30px]]&lt;br&gt;[[Pecha/fr|Pêcha]] || style="background-color:#9C7D98;" |
+|-
+| style="background-color:#9C7D98;" | || [[File:Oran.png|30px]]&lt;br&gt;[[Oran/fr|Oran]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Oran.png|30px]]&lt;br&gt;[[Oran/fr|Oran]] 
+|}
+
+=== Tableau de chronométrage ===
+{| class="wikitable" | style="text-align: center;"
+|-
+|+ ''Tous les temps indiqués sont basés sur le temps restant avant que la première baie plantée n'arrive à maturité''
+! Baie !! Temps de plantation&lt;br&gt;sans modificateur!! Temps de plantation avec &lt;br&gt; Engrais ou Kwakarrosoir || Temps de plantation avec &lt;br&gt; Engrais et Kwakarrosoir
+|-
+| [[Oran/fr|Oran]] || - || - || -
+|-
+| [[Pecha/fr|Pêcha]] || 1 min avant maturité || 40 secs avant maturité || Pas pratique
+|-
+|}
+
+==Utilisations==
+===Mutations===
+
+Les baies Kika peuvent être utilisées pour faire muter les baies suivantes.
+
+{| class="wikitable" | style="text-align: center;"
+|-
+! Utilisée pour !! Plantée avec
+|-
+| [[File:Kelpsy.png|20px]] [[Kelpsy/fr|Alga]] || [[File:Chesto.png|20px]] [[Chesto/fr|Maron]]
+|-
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Acquisition==
+===Dungeons===
+{{Loot/head‎|Berries}}
+{{LootItem|Berry Forest|Epic}}
+{{LootItem|Radio Tower|Epic}}
+{{LootItem|Solaceon Ruins|Common}}
+{{LootItem|Reversal Mountain|Common}}
+{{LootItem|Seaside Cave|Common}}
+|}
+|}
+&lt;/div&gt;
+
+&lt;br&gt;
+
+{{Berries}}
+[[Category:Farm]][[Category:Berries]]</text>
+    <contributor>
+      <username>LeChatMG</username>
+      <id>97</id>
+    </contributor>
+    <comment>Première traduction</comment>
+    <model>wikitext</model>
+    <parentid>22426</parentid>
+    <sha1>08bb0b6949890e02f4fc019a0398f1c2838f9150</sha1>
+  </revision>
+  <revision>
+    <id>22426</id>
+    <timestamp>2022-08-09T17:21:01Z</timestamp>
+    <text bytes="4295" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #09 Kika
+|image   = [[File:Persim.png]]
+|caption = Plus on l'expose aux rayons du soleil et plus cette Baie prend une couleur vive.
+|growtime  = 1m 30s
+|harvest = 5 baies
+|replant = 40%
+|mutation = 2%
+|points = 10
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*10 épicée
+*10 sèche
+*10 sucrée
+*0 amère
+*10 acide
+}}
+'''Kika''' est un type de [[Berry/fr|Baie]] qui peut être plantée dans la [[Farm/fr|Ferme]]. Elle peut être obtenue en entourant une parcelle vide avec au moins 1 [[Pecha/fr|Pêcha]] et au moins 1 [[Oran/fr|Oran]].
+
+== Tables de croissance ==
+=== Stades de croissance ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+!!! Pousse !! Arbuste !! Fleuri !! Mûr
+|-
+! Temps écoulé depuis plantation
+| 20 secs || 40 secs || 50 secs || 1 min 30 secs - 3 mins
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:PersimTreeTaller.png|50px]] || &lt;center&gt;[[File:PersimTreeBloom.png|50px]] || &lt;center&gt; [[File:PersimTreeBerry.png|50px]]
+|}
+
+===Temps de croissance avec modificateurs===
+{| class="wikitable" | style="text-align: center;"
+! Modificateur !! Temps Maturité-Flétrissement
+|-
+! Aucun
+| 1 min 30 secs -&lt;br&gt; 3 mins
+|-
+! Kwakarroisoir
+| 1 min -&lt;br&gt; 2 mins
+|}
+
+== Graphique de découverte ==
+[[File:Kika_-_Graph_découverte.png|200px]]
+&lt;br&gt;
+
+== Stratégie de mutation ==
+=== Formations possibles ===
+
+Vous pouvez remplir votre ferme de la manière suivante pour obtenir des baies Kika. Les cases violettes indiquent où les mutations peuvent avoir lieu.
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation de base
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Pecha.png|30px]]&lt;br&gt;[[Pecha/fr|Pêcha]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Oran.png|30px]]&lt;br&gt;[[Oran/fr|Oran]]
+|}
+
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation de plantation optimisée
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Pecha.png|30px]]&lt;br&gt;[[Pecha/fr|Pêcha]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Pecha.png|30px]]&lt;br&gt;[[Pecha/fr|Pêcha]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Oran.png|30px]]&lt;br&gt;[[Oran/fr|Oran]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Oran.png|30px]]&lt;br&gt;[[Oran/fr|Oran]] 
+|- style="height: 50px;"
+| style="background-color:#9C7D98;" | ||style="background-color:#9C7D98;" | ||style="background-color:#9C7D98;" | ||style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" |
+|-
+| [[File:Pecha.png|30px]]&lt;br&gt;[[Pecha/fr|Pêcha]] ||style="background-color:#9C7D98;" | ||style="background-color:#9C7D98;" | || [[File:Pecha.png|30px]]&lt;br&gt;[[Pecha/fr|Pêcha]] || style="background-color:#9C7D98;" |
+|-
+| style="background-color:#9C7D98;" | || [[File:Oran.png|30px]]&lt;br&gt;[[Oran/fr|Oran]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Oran.png|30px]]&lt;br&gt;[[Oran/fr|Oran]] 
+|}
+
+=== Tableau de chronométrage ===
+{| class="wikitable" | style="text-align: center;"
+|-
+|+ ''Tous les temps indiqués sont basés sur le temps restant avant que la première baie plantée n'arrive à maturité''
+! Baie !! Temps de plantation&lt;br&gt;sans modificateur!! Temps de plantation avec &lt;br&gt; Engrais ou Kwakarrosoir || Temps de plantation avec &lt;br&gt; Engrais et Kwakarrosoir
+|-
+| [[Oran/fr|Oran]] || - || - || -
+|-
+| [[Pecha/fr|Pêcha]] || 1 min avant maturité || 40 secs avant maturité || Pas pratique
+|-
+|}
+
+==Utilisations==
+===Mutations===
+
+Les baies Kika peuvent être utilisées pour faire muter les baies suivantes.
+
+{| class="wikitable" | style="text-align: center;"
+|-
+! Utilisée pour !! Plantée avec
+|-
+| [[File:Kelpsy.png|20px]] [[Kelpsy/fr|Alga]] || [[File:Chesto.png|20px]] [[Chesto/fr|Maron]]
+|-
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Acquisition==
+===Dungeons===
+{{Loot/head‎|Berries}}
+{{LootItem|Berry Forest|Epic}}
+{{LootItem|Radio Tower|Epic}}
+{{LootItem|Solaceon Ruins|Common}}
+{{LootItem|Reversal Mountain|Common}}
+{{LootItem|Seaside Cave|Common}}
+|}
+|}
+&lt;/div&gt;
+
+&lt;br&gt;
+
+{{Berries}}
+[[Category:Farm]][[Category:Berries]]</text>
+    <contributor>
+      <username>LeChatMG</username>
+      <id>97</id>
+    </contributor>
+    <comment>Première traduction</comment>
+    <model>wikitext</model>
+    <parentid>22425</parentid>
+    <sha1>7d45acd05d6d555c8b8efded67fe761e29541d95</sha1>
+  </revision>
+  <revision>
+    <id>22425</id>
+    <timestamp>2022-08-09T17:12:58Z</timestamp>
+    <text bytes="4293" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #09 Kika
+|image   = [[File:Persim.png]]
+|caption = Plus on l'expose aux rayons du soleil et plus cette Baie prend une couleur vive.
+|growtime  = 1m 30s
+|harvest = 5 baies
+|replant = 40%
+|mutation = 2%
+|points = 10
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*10 épicée
+*10 sèche
+*10 sucrée
+*0 amère
+*10 acide
+}}
+'''Kika''' est un type de [[Berry/fr|Baie]] qui peut être plantée dans la [[Farm/fr|Ferme]]. Elle peut être obtenue en entourant une parcelle vide avec au moins 1 [[Pecha/fr|Pêcha]] et au moins 1 [[Oran/fr|Oran]].
+
+== Tables de croissance ==
+=== Stades de croissance ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+!!! Pousse !! Arbuste !! Fleuri !! Mûr
+|-
+! Temps passé depuis plantation
+| 20 secs || 40 secs || 50 secs || 1 min 30 secs - 3 mins
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:PersimTreeTaller.png|50px]] || &lt;center&gt;[[File:PersimTreeBloom.png|50px]] || &lt;center&gt; [[File:PersimTreeBerry.png|50px]]
+|}
+
+===Temps de croissance avec modificateurs===
+{| class="wikitable" | style="text-align: center;"
+! Modificateur !! Temps Maturité-Flétrissement
+|-
+! Aucun
+| 1 min 30 secs -&lt;br&gt; 3 mins
+|-
+! Kwakarroisoir
+| 1 min -&lt;br&gt; 2 mins
+|}
+
+== Graphique de découverte ==
+[[File:Kika_-_Graph_découverte.png|200px]]
+&lt;br&gt;
+
+== Stratégie de mutation ==
+=== Formations possibles ===
+
+Vous pouvez remplir votre ferme de la manière suivante pour obtenir des baies Kika. Les cases violettes indiquent où les mutations peuvent avoir lieu.
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation de base
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Pecha.png|30px]]&lt;br&gt;[[Pecha/fr|Pêcha]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Oran.png|30px]]&lt;br&gt;[[Oran/fr|Oran]]
+|}
+
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation de plantation optimisée
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Pecha.png|30px]]&lt;br&gt;[[Pecha/fr|Pêcha]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Pecha.png|30px]]&lt;br&gt;[[Pecha/fr|Pêcha]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Oran.png|30px]]&lt;br&gt;[[Oran/fr|Oran]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Oran.png|30px]]&lt;br&gt;[[Oran/fr|Oran]] 
+|- style="height: 50px;"
+| style="background-color:#9C7D98;" | ||style="background-color:#9C7D98;" | ||style="background-color:#9C7D98;" | ||style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" |
+|-
+| [[File:Pecha.png|30px]]&lt;br&gt;[[Pecha/fr|Pêcha]] ||style="background-color:#9C7D98;" | ||style="background-color:#9C7D98;" | || [[File:Pecha.png|30px]]&lt;br&gt;[[Pecha/fr|Pêcha]] || style="background-color:#9C7D98;" |
+|-
+| style="background-color:#9C7D98;" | || [[File:Oran.png|30px]]&lt;br&gt;[[Oran/fr|Oran]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Oran.png|30px]]&lt;br&gt;[[Oran/fr|Oran]] 
+|}
+
+=== Tableau de chronométrage ===
+{| class="wikitable" | style="text-align: center;"
+|-
+|+ ''Tous les temps indiqués sont basés sur le temps restant avant que la première baie plantée n'arrive à maturité''
+! Baie !! Temps de plantation&lt;br&gt;sans modificateur!! Temps de plantation avec &lt;br&gt; Engrais ou Kwakarrosoir || Temps de plantation avec &lt;br&gt; Engrais et Kwakarrosoir
+|-
+| [[Oran/fr|Oran]] || - || - || -
+|-
+| [[Pecha/fr|Pêcha]] || 1 min avant maturité || 40 secs avant maturité || Pas pratique
+|-
+|}
+
+==Utilisations==
+===Mutations===
+
+Les baies Kika peuvent être utilisées pour faire muter les baies suivantes.
+
+{| class="wikitable" | style="text-align: center;"
+|-
+! Utilisée pour !! Plantée avec
+|-
+| [[File:Kelpsy.png|20px]] [[Kelpsy/fr|Alga]] || [[File:Chesto.png|20px]] [[Chesto/fr|Maron]]
+|-
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Acquisition==
+===Dungeons===
+{{Loot/head‎|Berries}}
+{{LootItem|Berry Forest|Epic}}
+{{LootItem|Radio Tower|Epic}}
+{{LootItem|Solaceon Ruins|Common}}
+{{LootItem|Reversal Mountain|Common}}
+{{LootItem|Seaside Cave|Common}}
+|}
+|}
+&lt;/div&gt;
+
+&lt;br&gt;
+
+{{Berries}}
+[[Category:Farm]][[Category:Berries]]</text>
+    <contributor>
+      <username>LuK</username>
+      <id>96</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>22424</parentid>
+    <sha1>a3db6c896fe0d915985d865edff8c043f8238e00</sha1>
+  </revision>
+  <revision>
+    <id>22424</id>
+    <timestamp>2022-08-09T16:54:01Z</timestamp>
+    <text bytes="4317" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #09 Kika
+|image   = [[File:Persim.png]]
+|caption = Plus on l'expose aux rayons du soleil et plus cette Baie prend une couleur vive.
+|growtime  = 1m 30s
+|harvest = 5 baies
+|replant = 40%
+|mutation = 2%
+|points = 10
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*10 épicée
+*10 sèche
+*10 sucrée
+*0 amère
+*10 acide
+}}
+'''Kika''' est un type de [[Berry/fr|Baie]] qui peut être plantée dans la [[Farm/fr|Ferme]]. Elle peut être obtenue en entourant une parcelle vide avec au moins 1 [[Pecha/fr|Pêcha]] et au moins 1 [[Oran/fr|Oran]].
+
+== Tables de croissance ==
+=== Stades de croissance ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+!!! Pousse !! Arbuste !! Fleuri !! Mûr
+|-
+! Temps passé depuis plantation
+| 20 secs || 40 secs || 50 secs || 1 min 30 secs - 3 mins
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:PersimTreeTaller.png|50px]] || &lt;center&gt;[[File:PersimTreeBloom.png|50px]] || &lt;center&gt; [[File:PersimTreeBerry.png|50px]]
+|}
+
+===Temps de croissance avec modificateurs===
+{| class="wikitable" | style="text-align: center;"
+! Modificateur !! Temps Maturité-Flétrissement
+|-
+! Aucun
+| 1 min 30 secs -&lt;br&gt; 3 mins
+|-
+! Kwakarroisoir
+| 1 min -&lt;br&gt; 2 mins
+|}
+
+== Graphique de découverte ==
+[[File:Kika_-_Graph_découverte.png|200px]]
+&lt;br&gt;
+
+== Stratégie de mutation ==
+=== Formations possibles ===
+
+Vous pouvez remplir votre ferme de la manière suivante pour obtenir des baies Kika. Les cases violettes indiquent où les mutations peuvent avoir lieu.
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation de base
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Pecha.png|30px]]&lt;br&gt;[[Pecha/fr|Pêcha]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Oran.png|30px]]&lt;br&gt;[[Oran/fr|Oran]]
+|}
+
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation de plantation optimisée
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Pecha.png|30px]]&lt;br&gt;[[Pecha/fr|Pêcha]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Pecha.png|30px]]&lt;br&gt;[[Pecha/fr|Pêcha]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Oran.png|30px]]&lt;br&gt;[[Oran/fr|Oran]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Oran.png|30px]]&lt;br&gt;[[Oran/fr|Oran]] 
+|- style="height: 50px;"
+| style="background-color:#9C7D98;" | ||style="background-color:#9C7D98;" | ||style="background-color:#9C7D98;" | ||style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" |
+|-
+| [[File:Pecha.png|30px]]&lt;br&gt;[[Pecha/fr|Pêcha]] ||style="background-color:#9C7D98;" | ||style="background-color:#9C7D98;" | || [[File:Pecha.png|30px]]&lt;br&gt;[[Pecha/fr|Pêcha]] || style="background-color:#9C7D98;" |
+|-
+| style="background-color:#9C7D98;" | || [[File:Oran.png|30px]]&lt;br&gt;[[Oran/fr|Oran]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Oran.png|30px]]&lt;br&gt;[[Oran/fr|Oran]] 
+|}
+
+=== Tableau de chronométrage ===
+{| class="wikitable" | style="text-align: center;"
+|-
+|+ ''Tous les temps de plantation utilisent le temps restant pour que la première baie plantée soit mûre pour les temps de plantation suivants''
+! Baie !! Temps de plantation&lt;br&gt;sans modificateur!! Temps de plantation avec &lt;br&gt; Engrais ou Kwakarrosoir || Temps de plantation avec &lt;br&gt; Engrais et Kwakarrosoir
+|-
+| [[Oran/fr|Oran]] || - || - || -
+|-
+| [[Pecha/fr|Pêcha]] || 1 min avant maturité || 40 secs avant maturité || Pas pratique
+|-
+|}
+
+==Utilisations==
+===Mutations===
+
+Les baies Kika peuvent être utilisées pour faire muter les baies suivantes.
+
+{| class="wikitable" | style="text-align: center;"
+|-
+! Utilisée pour !! Plantée avec
+|-
+| [[File:Kelpsy.png|20px]] [[Kelpsy/fr|Alga]] || [[File:Chesto.png|20px]] [[Chesto/fr|Maron]]
+|-
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Acquisition==
+===Dungeons===
+{{Loot/head‎|Berries}}
+{{LootItem|Berry Forest|Epic}}
+{{LootItem|Radio Tower|Epic}}
+{{LootItem|Solaceon Ruins|Common}}
+{{LootItem|Reversal Mountain|Common}}
+{{LootItem|Seaside Cave|Common}}
+|}
+|}
+&lt;/div&gt;
+
+&lt;br&gt;
+
+{{Berries}}
+[[Category:Farm]][[Category:Berries]]</text>
+    <contributor>
+      <username>LuK</username>
+      <id>96</id>
+    </contributor>
+    <comment>Created page with "== Stratégie de mutation == === Formations possibles ==="</comment>
+    <model>wikitext</model>
+    <parentid>22423</parentid>
+    <sha1>85ace476c9c5c74d052bd25bc2a0c2bdc4eeaac3</sha1>
+  </revision>
+  <revision>
+    <id>22423</id>
+    <timestamp>2022-08-09T16:52:00Z</timestamp>
+    <text bytes="4376" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #09 Kika
+|image   = [[File:Persim.png]]
+|caption = Plus on l'expose aux rayons du soleil et plus cette Baie prend une couleur vive.
+|growtime  = 1m 30s
+|harvest = 5 baies
+|replant = 40%
+|mutation = 2%
+|points = 10
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*10 épicée
+*10 sèche
+*10 sucrée
+*0 amère
+*10 acide
+}}
+'''Kika''' est un type de [[Berry/fr|Baie]] qui peut être plantée dans la [[Farm/fr|Ferme]]. Elle peut être obtenue en entourant une parcelle vide avec au moins 1 [[Pecha/fr|Pêcha]] et au moins 1 [[Oran/fr|Oran]].
+
+== Tables de croissance ==
+=== Stades de croissance ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+!!! Pousse !! Arbuste !! Fleuri !! Mûr
+|-
+! Temps passé depuis plantation
+| 20 secs || 40 secs || 50 secs || 1 min 30 secs - 3 mins
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:PersimTreeTaller.png|50px]] || &lt;center&gt;[[File:PersimTreeBloom.png|50px]] || &lt;center&gt; [[File:PersimTreeBerry.png|50px]]
+|}
+
+===Temps de croissance avec modificateurs===
+{| class="wikitable" | style="text-align: center;"
+! Modificateur !! Temps Maturité-Flétrissement
+|-
+! Aucun
+| 1 min 30 secs -&lt;br&gt; 3 mins
+|-
+! Kwakarroisoir
+| 1 min -&lt;br&gt; 2 mins
+|}
+
+== Graphique de découverte ==
+[[File:Kika_-_Graph_découverte.png|200px]]
+&lt;br&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Mutation Strategy ==
+=== Possible Planting Formations ===
+&lt;/div&gt;
+
+Vous pouvez remplir votre ferme de la manière suivante pour obtenir des baies Kika. Les cases violettes indiquent où les mutations peuvent avoir lieu.
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation de base
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Pecha.png|30px]]&lt;br&gt;[[Pecha/fr|Pêcha]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Oran.png|30px]]&lt;br&gt;[[Oran/fr|Oran]]
+|}
+
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation de plantation optimisée
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Pecha.png|30px]]&lt;br&gt;[[Pecha/fr|Pêcha]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Pecha.png|30px]]&lt;br&gt;[[Pecha/fr|Pêcha]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Oran.png|30px]]&lt;br&gt;[[Oran/fr|Oran]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Oran.png|30px]]&lt;br&gt;[[Oran/fr|Oran]] 
+|- style="height: 50px;"
+| style="background-color:#9C7D98;" | ||style="background-color:#9C7D98;" | ||style="background-color:#9C7D98;" | ||style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" |
+|-
+| [[File:Pecha.png|30px]]&lt;br&gt;[[Pecha/fr|Pêcha]] ||style="background-color:#9C7D98;" | ||style="background-color:#9C7D98;" | || [[File:Pecha.png|30px]]&lt;br&gt;[[Pecha/fr|Pêcha]] || style="background-color:#9C7D98;" |
+|-
+| style="background-color:#9C7D98;" | || [[File:Oran.png|30px]]&lt;br&gt;[[Oran/fr|Oran]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Oran.png|30px]]&lt;br&gt;[[Oran/fr|Oran]] 
+|}
+
+=== Tableau de chronométrage ===
+{| class="wikitable" | style="text-align: center;"
+|-
+|+ ''Tous les temps de plantation utilisent le temps restant pour que la première baie plantée soit mûre pour les temps de plantation suivants''
+! Baie !! Temps de plantation&lt;br&gt;sans modificateur!! Temps de plantation avec &lt;br&gt; Engrais ou Kwakarrosoir || Temps de plantation avec &lt;br&gt; Engrais et Kwakarrosoir
+|-
+| [[Oran/fr|Oran]] || - || - || -
+|-
+| [[Pecha/fr|Pêcha]] || 1 min avant maturité || 40 secs avant maturité || Pas pratique
+|-
+|}
+
+==Utilisations==
+===Mutations===
+
+Les baies Kika peuvent être utilisées pour faire muter les baies suivantes.
+
+{| class="wikitable" | style="text-align: center;"
+|-
+! Utilisée pour !! Plantée avec
+|-
+| [[File:Kelpsy.png|20px]] [[Kelpsy/fr|Alga]] || [[File:Chesto.png|20px]] [[Chesto/fr|Maron]]
+|-
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Acquisition==
+===Dungeons===
+{{Loot/head‎|Berries}}
+{{LootItem|Berry Forest|Epic}}
+{{LootItem|Radio Tower|Epic}}
+{{LootItem|Solaceon Ruins|Common}}
+{{LootItem|Reversal Mountain|Common}}
+{{LootItem|Seaside Cave|Common}}
+|}
+|}
+&lt;/div&gt;
+
+&lt;br&gt;
+
+{{Berries}}
+[[Category:Farm]][[Category:Berries]]</text>
+    <contributor>
+      <username>LuK</username>
+      <id>96</id>
+    </contributor>
+    <comment>Created page with "== Graphique de découverte == [[File:Kika_-_Graph_découverte.png|200px]] &lt;br&gt;"</comment>
+    <model>wikitext</model>
+    <parentid>22422</parentid>
+    <sha1>40bbb46c75b6840e29a4faf95e56093522504a04</sha1>
+  </revision>
+  <revision>
+    <id>22422</id>
+    <timestamp>2022-08-09T16:49:35Z</timestamp>
+    <text bytes="4411" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #09 Kika
+|image   = [[File:Persim.png]]
+|caption = Plus on l'expose aux rayons du soleil et plus cette Baie prend une couleur vive.
+|growtime  = 1m 30s
+|harvest = 5 baies
+|replant = 40%
+|mutation = 2%
+|points = 10
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*10 épicée
+*10 sèche
+*10 sucrée
+*0 amère
+*10 acide
+}}
+'''Kika''' est un type de [[Berry/fr|Baie]] qui peut être plantée dans la [[Farm/fr|Ferme]]. Elle peut être obtenue en entourant une parcelle vide avec au moins 1 [[Pecha/fr|Pêcha]] et au moins 1 [[Oran/fr|Oran]].
+
+== Tables de croissance ==
+=== Stades de croissance ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+!!! Pousse !! Arbuste !! Fleuri !! Mûr
+|-
+! Temps passé depuis plantation
+| 20 secs || 40 secs || 50 secs || 1 min 30 secs - 3 mins
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:PersimTreeTaller.png|50px]] || &lt;center&gt;[[File:PersimTreeBloom.png|50px]] || &lt;center&gt; [[File:PersimTreeBerry.png|50px]]
+|}
+
+===Temps de croissance avec modificateurs===
+{| class="wikitable" | style="text-align: center;"
+! Modificateur !! Temps Maturité-Flétrissement
+|-
+! Aucun
+| 1 min 30 secs -&lt;br&gt; 3 mins
+|-
+! Kwakarroisoir
+| 1 min -&lt;br&gt; 2 mins
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Flow Chart ==
+[[File:Persim_Flow_Chart.png|200px]]
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Mutation Strategy ==
+=== Possible Planting Formations ===
+&lt;/div&gt;
+
+Vous pouvez remplir votre ferme de la manière suivante pour obtenir des baies Kika. Les cases violettes indiquent où les mutations peuvent avoir lieu.
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation de base
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Pecha.png|30px]]&lt;br&gt;[[Pecha/fr|Pêcha]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Oran.png|30px]]&lt;br&gt;[[Oran/fr|Oran]]
+|}
+
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation de plantation optimisée
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Pecha.png|30px]]&lt;br&gt;[[Pecha/fr|Pêcha]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Pecha.png|30px]]&lt;br&gt;[[Pecha/fr|Pêcha]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Oran.png|30px]]&lt;br&gt;[[Oran/fr|Oran]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Oran.png|30px]]&lt;br&gt;[[Oran/fr|Oran]] 
+|- style="height: 50px;"
+| style="background-color:#9C7D98;" | ||style="background-color:#9C7D98;" | ||style="background-color:#9C7D98;" | ||style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" |
+|-
+| [[File:Pecha.png|30px]]&lt;br&gt;[[Pecha/fr|Pêcha]] ||style="background-color:#9C7D98;" | ||style="background-color:#9C7D98;" | || [[File:Pecha.png|30px]]&lt;br&gt;[[Pecha/fr|Pêcha]] || style="background-color:#9C7D98;" |
+|-
+| style="background-color:#9C7D98;" | || [[File:Oran.png|30px]]&lt;br&gt;[[Oran/fr|Oran]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Oran.png|30px]]&lt;br&gt;[[Oran/fr|Oran]] 
+|}
+
+=== Tableau de chronométrage ===
+{| class="wikitable" | style="text-align: center;"
+|-
+|+ ''Tous les temps de plantation utilisent le temps restant pour que la première baie plantée soit mûre pour les temps de plantation suivants''
+! Baie !! Temps de plantation&lt;br&gt;sans modificateur!! Temps de plantation avec &lt;br&gt; Engrais ou Kwakarrosoir || Temps de plantation avec &lt;br&gt; Engrais et Kwakarrosoir
+|-
+| [[Oran/fr|Oran]] || - || - || -
+|-
+| [[Pecha/fr|Pêcha]] || 1 min avant maturité || 40 secs avant maturité || Pas pratique
+|-
+|}
+
+==Utilisations==
+===Mutations===
+
+Les baies Kika peuvent être utilisées pour faire muter les baies suivantes.
+
+{| class="wikitable" | style="text-align: center;"
+|-
+! Utilisée pour !! Plantée avec
+|-
+| [[File:Kelpsy.png|20px]] [[Kelpsy/fr|Alga]] || [[File:Chesto.png|20px]] [[Chesto/fr|Maron]]
+|-
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Acquisition==
+===Dungeons===
+{{Loot/head‎|Berries}}
+{{LootItem|Berry Forest|Epic}}
+{{LootItem|Radio Tower|Epic}}
+{{LootItem|Solaceon Ruins|Common}}
+{{LootItem|Reversal Mountain|Common}}
+{{LootItem|Seaside Cave|Common}}
+|}
+|}
+&lt;/div&gt;
+
+&lt;br&gt;
+
+{{Berries}}
+[[Category:Farm]][[Category:Berries]]</text>
+    <contributor>
+      <username>LuK</username>
+      <id>96</id>
+    </contributor>
+    <comment>Created page with "===Temps de croissance avec modificateurs=== {| class="wikitable" | style="text-align: center;" ! Modificateur !! Temps Maturité-Flétrissement |- ! Aucun | 1 min 30 secs -&lt;br&gt; 3 mins |- ! Kwakarroisoir | 1 min -&lt;br&gt; 2 mins |}"</comment>
+    <model>wikitext</model>
+    <parentid>22421</parentid>
+    <sha1>2463caf7205b2efd3344f3b115be9ae465d24686</sha1>
+  </revision>
+  <revision>
+    <id>22421</id>
+    <timestamp>2022-08-09T16:47:38Z</timestamp>
+    <text bytes="4434" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #09 Kika
+|image   = [[File:Persim.png]]
+|caption = Plus on l'expose aux rayons du soleil et plus cette Baie prend une couleur vive.
+|growtime  = 1m 30s
+|harvest = 5 baies
+|replant = 40%
+|mutation = 2%
+|points = 10
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*10 épicée
+*10 sèche
+*10 sucrée
+*0 amère
+*10 acide
+}}
+'''Kika''' est un type de [[Berry/fr|Baie]] qui peut être plantée dans la [[Farm/fr|Ferme]]. Elle peut être obtenue en entourant une parcelle vide avec au moins 1 [[Pecha/fr|Pêcha]] et au moins 1 [[Oran/fr|Oran]].
+
+== Tables de croissance ==
+=== Stades de croissance ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+!!! Pousse !! Arbuste !! Fleuri !! Mûr
+|-
+! Temps passé depuis plantation
+| 20 secs || 40 secs || 50 secs || 1 min 30 secs - 3 mins
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:PersimTreeTaller.png|50px]] || &lt;center&gt;[[File:PersimTreeBloom.png|50px]] || &lt;center&gt; [[File:PersimTreeBerry.png|50px]]
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+===Ripening Time with Modifiers===
+{| class="wikitable" | style="text-align: center;"
+! Modifier !! Ripe-Wither Time
+|-
+! None
+| 1 min 30 secs -&lt;br&gt; 3 mins
+|-
+! Sprayduck
+| 1 min -&lt;br&gt; 2 mins
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Flow Chart ==
+[[File:Persim_Flow_Chart.png|200px]]
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Mutation Strategy ==
+=== Possible Planting Formations ===
+&lt;/div&gt;
+
+Vous pouvez remplir votre ferme de la manière suivante pour obtenir des baies Kika. Les cases violettes indiquent où les mutations peuvent avoir lieu.
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation de base
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Pecha.png|30px]]&lt;br&gt;[[Pecha/fr|Pêcha]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Oran.png|30px]]&lt;br&gt;[[Oran/fr|Oran]]
+|}
+
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation de plantation optimisée
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Pecha.png|30px]]&lt;br&gt;[[Pecha/fr|Pêcha]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Pecha.png|30px]]&lt;br&gt;[[Pecha/fr|Pêcha]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Oran.png|30px]]&lt;br&gt;[[Oran/fr|Oran]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Oran.png|30px]]&lt;br&gt;[[Oran/fr|Oran]] 
+|- style="height: 50px;"
+| style="background-color:#9C7D98;" | ||style="background-color:#9C7D98;" | ||style="background-color:#9C7D98;" | ||style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" |
+|-
+| [[File:Pecha.png|30px]]&lt;br&gt;[[Pecha/fr|Pêcha]] ||style="background-color:#9C7D98;" | ||style="background-color:#9C7D98;" | || [[File:Pecha.png|30px]]&lt;br&gt;[[Pecha/fr|Pêcha]] || style="background-color:#9C7D98;" |
+|-
+| style="background-color:#9C7D98;" | || [[File:Oran.png|30px]]&lt;br&gt;[[Oran/fr|Oran]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Oran.png|30px]]&lt;br&gt;[[Oran/fr|Oran]] 
+|}
+
+=== Tableau de chronométrage ===
+{| class="wikitable" | style="text-align: center;"
+|-
+|+ ''Tous les temps de plantation utilisent le temps restant pour que la première baie plantée soit mûre pour les temps de plantation suivants''
+! Baie !! Temps de plantation&lt;br&gt;sans modificateur!! Temps de plantation avec &lt;br&gt; Engrais ou Kwakarrosoir || Temps de plantation avec &lt;br&gt; Engrais et Kwakarrosoir
+|-
+| [[Oran/fr|Oran]] || - || - || -
+|-
+| [[Pecha/fr|Pêcha]] || 1 min avant maturité || 40 secs avant maturité || Pas pratique
+|-
+|}
+
+==Utilisations==
+===Mutations===
+
+Les baies Kika peuvent être utilisées pour faire muter les baies suivantes.
+
+{| class="wikitable" | style="text-align: center;"
+|-
+! Utilisée pour !! Plantée avec
+|-
+| [[File:Kelpsy.png|20px]] [[Kelpsy/fr|Alga]] || [[File:Chesto.png|20px]] [[Chesto/fr|Maron]]
+|-
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Acquisition==
+===Dungeons===
+{{Loot/head‎|Berries}}
+{{LootItem|Berry Forest|Epic}}
+{{LootItem|Radio Tower|Epic}}
+{{LootItem|Solaceon Ruins|Common}}
+{{LootItem|Reversal Mountain|Common}}
+{{LootItem|Seaside Cave|Common}}
+|}
+|}
+&lt;/div&gt;
+
+&lt;br&gt;
+
+{{Berries}}
+[[Category:Farm]][[Category:Berries]]</text>
+    <contributor>
+      <username>LuK</username>
+      <id>96</id>
+    </contributor>
+    <comment>Created page with "== Tables de croissance == === Stades de croissance === {| class="wikitable" | style = "image-rendering: pixelated" !!! Pousse !! Arbuste !! Fleuri !! Mûr |- ! Temps passé depuis plantation | 20 secs || 40 secs || 50 secs || 1 min 30 secs - 3 mins |- ! Animation | &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:PersimTreeTaller.png|50px]] || &lt;center&gt;[[File:PersimTreeBloom.png|50px]] || &lt;center&gt; [[File:PersimTreeBerry.png|50px]] |}"</comment>
+    <model>wikitext</model>
+    <parentid>22420</parentid>
+    <sha1>f38203fbd45041935fbbec3ccc8c8553cb5d9549</sha1>
+  </revision>
+  <revision>
+    <id>22420</id>
+    <timestamp>2022-08-09T15:44:05Z</timestamp>
+    <text bytes="4471" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #09 Kika
+|image   = [[File:Persim.png]]
+|caption = Plus on l'expose aux rayons du soleil et plus cette Baie prend une couleur vive.
+|growtime  = 1m 30s
+|harvest = 5 baies
+|replant = 40%
+|mutation = 2%
+|points = 10
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*10 épicée
+*10 sèche
+*10 sucrée
+*0 amère
+*10 acide
+}}
+'''Kika''' est un type de [[Berry/fr|Baie]] qui peut être plantée dans la [[Farm/fr|Ferme]]. Elle peut être obtenue en entourant une parcelle vide avec au moins 1 [[Pecha/fr|Pêcha]] et au moins 1 [[Oran/fr|Oran]].
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Growth Tables ==
+=== Growth Stages ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+!!! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 20 secs || 40 secs || 50 secs || 1 min 30 secs - 3 mins
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:PersimTreeTaller.png|50px]] || &lt;center&gt;[[File:PersimTreeBloom.png|50px]] || &lt;center&gt; [[File:PersimTreeBerry.png|50px]]
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+===Ripening Time with Modifiers===
+{| class="wikitable" | style="text-align: center;"
+! Modifier !! Ripe-Wither Time
+|-
+! None
+| 1 min 30 secs -&lt;br&gt; 3 mins
+|-
+! Sprayduck
+| 1 min -&lt;br&gt; 2 mins
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Flow Chart ==
+[[File:Persim_Flow_Chart.png|200px]]
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Mutation Strategy ==
+=== Possible Planting Formations ===
+&lt;/div&gt;
+
+Vous pouvez remplir votre ferme de la manière suivante pour obtenir des baies Kika. Les cases violettes indiquent où les mutations peuvent avoir lieu.
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation de base
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Pecha.png|30px]]&lt;br&gt;[[Pecha/fr|Pêcha]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Oran.png|30px]]&lt;br&gt;[[Oran/fr|Oran]]
+|}
+
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation de plantation optimisée
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Pecha.png|30px]]&lt;br&gt;[[Pecha/fr|Pêcha]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Pecha.png|30px]]&lt;br&gt;[[Pecha/fr|Pêcha]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Oran.png|30px]]&lt;br&gt;[[Oran/fr|Oran]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Oran.png|30px]]&lt;br&gt;[[Oran/fr|Oran]] 
+|- style="height: 50px;"
+| style="background-color:#9C7D98;" | ||style="background-color:#9C7D98;" | ||style="background-color:#9C7D98;" | ||style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" |
+|-
+| [[File:Pecha.png|30px]]&lt;br&gt;[[Pecha/fr|Pêcha]] ||style="background-color:#9C7D98;" | ||style="background-color:#9C7D98;" | || [[File:Pecha.png|30px]]&lt;br&gt;[[Pecha/fr|Pêcha]] || style="background-color:#9C7D98;" |
+|-
+| style="background-color:#9C7D98;" | || [[File:Oran.png|30px]]&lt;br&gt;[[Oran/fr|Oran]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Oran.png|30px]]&lt;br&gt;[[Oran/fr|Oran]] 
+|}
+
+=== Tableau de chronométrage ===
+{| class="wikitable" | style="text-align: center;"
+|-
+|+ ''Tous les temps de plantation utilisent le temps restant pour que la première baie plantée soit mûre pour les temps de plantation suivants''
+! Baie !! Temps de plantation&lt;br&gt;sans modificateur!! Temps de plantation avec &lt;br&gt; Engrais ou Kwakarrosoir || Temps de plantation avec &lt;br&gt; Engrais et Kwakarrosoir
+|-
+| [[Oran/fr|Oran]] || - || - || -
+|-
+| [[Pecha/fr|Pêcha]] || 1 min avant maturité || 40 secs avant maturité || Pas pratique
+|-
+|}
+
+==Utilisations==
+===Mutations===
+
+Les baies Kika peuvent être utilisées pour faire muter les baies suivantes.
+
+{| class="wikitable" | style="text-align: center;"
+|-
+! Utilisée pour !! Plantée avec
+|-
+| [[File:Kelpsy.png|20px]] [[Kelpsy/fr|Alga]] || [[File:Chesto.png|20px]] [[Chesto/fr|Maron]]
+|-
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Acquisition==
+===Dungeons===
+{{Loot/head‎|Berries}}
+{{LootItem|Berry Forest|Epic}}
+{{LootItem|Radio Tower|Epic}}
+{{LootItem|Solaceon Ruins|Common}}
+{{LootItem|Reversal Mountain|Common}}
+{{LootItem|Seaside Cave|Common}}
+|}
+|}
+&lt;/div&gt;
+
+&lt;br&gt;
+
+{{Berries}}
+[[Category:Farm]][[Category:Berries]]</text>
+    <contributor>
+      <username>LeChatMG</username>
+      <id>97</id>
+    </contributor>
+    <comment>Created page with "&lt;br&gt;"</comment>
+    <model>wikitext</model>
+    <parentid>22419</parentid>
+    <sha1>bd0ce0a0aa31c528d4c8b100cca04643d56985dd</sha1>
+  </revision>
+  <revision>
+    <id>22419</id>
+    <timestamp>2022-08-09T15:43:59Z</timestamp>
+    <text bytes="4527" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #09 Kika
+|image   = [[File:Persim.png]]
+|caption = Plus on l'expose aux rayons du soleil et plus cette Baie prend une couleur vive.
+|growtime  = 1m 30s
+|harvest = 5 baies
+|replant = 40%
+|mutation = 2%
+|points = 10
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*10 épicée
+*10 sèche
+*10 sucrée
+*0 amère
+*10 acide
+}}
+'''Kika''' est un type de [[Berry/fr|Baie]] qui peut être plantée dans la [[Farm/fr|Ferme]]. Elle peut être obtenue en entourant une parcelle vide avec au moins 1 [[Pecha/fr|Pêcha]] et au moins 1 [[Oran/fr|Oran]].
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Growth Tables ==
+=== Growth Stages ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+!!! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 20 secs || 40 secs || 50 secs || 1 min 30 secs - 3 mins
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:PersimTreeTaller.png|50px]] || &lt;center&gt;[[File:PersimTreeBloom.png|50px]] || &lt;center&gt; [[File:PersimTreeBerry.png|50px]]
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+===Ripening Time with Modifiers===
+{| class="wikitable" | style="text-align: center;"
+! Modifier !! Ripe-Wither Time
+|-
+! None
+| 1 min 30 secs -&lt;br&gt; 3 mins
+|-
+! Sprayduck
+| 1 min -&lt;br&gt; 2 mins
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Flow Chart ==
+[[File:Persim_Flow_Chart.png|200px]]
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Mutation Strategy ==
+=== Possible Planting Formations ===
+&lt;/div&gt;
+
+Vous pouvez remplir votre ferme de la manière suivante pour obtenir des baies Kika. Les cases violettes indiquent où les mutations peuvent avoir lieu.
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation de base
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Pecha.png|30px]]&lt;br&gt;[[Pecha/fr|Pêcha]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Oran.png|30px]]&lt;br&gt;[[Oran/fr|Oran]]
+|}
+
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation de plantation optimisée
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Pecha.png|30px]]&lt;br&gt;[[Pecha/fr|Pêcha]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Pecha.png|30px]]&lt;br&gt;[[Pecha/fr|Pêcha]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Oran.png|30px]]&lt;br&gt;[[Oran/fr|Oran]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Oran.png|30px]]&lt;br&gt;[[Oran/fr|Oran]] 
+|- style="height: 50px;"
+| style="background-color:#9C7D98;" | ||style="background-color:#9C7D98;" | ||style="background-color:#9C7D98;" | ||style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" |
+|-
+| [[File:Pecha.png|30px]]&lt;br&gt;[[Pecha/fr|Pêcha]] ||style="background-color:#9C7D98;" | ||style="background-color:#9C7D98;" | || [[File:Pecha.png|30px]]&lt;br&gt;[[Pecha/fr|Pêcha]] || style="background-color:#9C7D98;" |
+|-
+| style="background-color:#9C7D98;" | || [[File:Oran.png|30px]]&lt;br&gt;[[Oran/fr|Oran]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Oran.png|30px]]&lt;br&gt;[[Oran/fr|Oran]] 
+|}
+
+=== Tableau de chronométrage ===
+{| class="wikitable" | style="text-align: center;"
+|-
+|+ ''Tous les temps de plantation utilisent le temps restant pour que la première baie plantée soit mûre pour les temps de plantation suivants''
+! Baie !! Temps de plantation&lt;br&gt;sans modificateur!! Temps de plantation avec &lt;br&gt; Engrais ou Kwakarrosoir || Temps de plantation avec &lt;br&gt; Engrais et Kwakarrosoir
+|-
+| [[Oran/fr|Oran]] || - || - || -
+|-
+| [[Pecha/fr|Pêcha]] || 1 min avant maturité || 40 secs avant maturité || Pas pratique
+|-
+|}
+
+==Utilisations==
+===Mutations===
+
+Les baies Kika peuvent être utilisées pour faire muter les baies suivantes.
+
+{| class="wikitable" | style="text-align: center;"
+|-
+! Utilisée pour !! Plantée avec
+|-
+| [[File:Kelpsy.png|20px]] [[Kelpsy/fr|Alga]] || [[File:Chesto.png|20px]] [[Chesto/fr|Maron]]
+|-
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Acquisition==
+===Dungeons===
+{{Loot/head‎|Berries}}
+{{LootItem|Berry Forest|Epic}}
+{{LootItem|Radio Tower|Epic}}
+{{LootItem|Solaceon Ruins|Common}}
+{{LootItem|Reversal Mountain|Common}}
+{{LootItem|Seaside Cave|Common}}
+|}
+|}
+&lt;/div&gt;
+
+&lt;br&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>LeChatMG</username>
+      <id>97</id>
+    </contributor>
+    <comment>Première traduction</comment>
+    <model>wikitext</model>
+    <parentid>22418</parentid>
+    <sha1>2f7d0608c47c89270a4fe56ec3a60518137887f9</sha1>
+  </revision>
+  <revision>
+    <id>22418</id>
+    <timestamp>2022-08-09T15:43:16Z</timestamp>
+    <text bytes="4606" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #09 Kika
+|image   = [[File:Persim.png]]
+|caption = Plus on l'expose aux rayons du soleil et plus cette Baie prend une couleur vive.
+|growtime  = 1m 30s
+|harvest = 5 baies
+|replant = 40%
+|mutation = 2%
+|points = 10
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*10 épicée
+*10 sèche
+*10 sucrée
+*0 amère
+*10 acide
+}}
+'''Kika''' est un type de [[Berry/fr|Baie]] qui peut être plantée dans la [[Farm/fr|Ferme]]. Elle peut être obtenue en entourant une parcelle vide avec au moins 1 [[Pecha/fr|Pêcha]] et au moins 1 [[Oran/fr|Oran]].
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Growth Tables ==
+=== Growth Stages ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+!!! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 20 secs || 40 secs || 50 secs || 1 min 30 secs - 3 mins
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:PersimTreeTaller.png|50px]] || &lt;center&gt;[[File:PersimTreeBloom.png|50px]] || &lt;center&gt; [[File:PersimTreeBerry.png|50px]]
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+===Ripening Time with Modifiers===
+{| class="wikitable" | style="text-align: center;"
+! Modifier !! Ripe-Wither Time
+|-
+! None
+| 1 min 30 secs -&lt;br&gt; 3 mins
+|-
+! Sprayduck
+| 1 min -&lt;br&gt; 2 mins
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Flow Chart ==
+[[File:Persim_Flow_Chart.png|200px]]
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Mutation Strategy ==
+=== Possible Planting Formations ===
+&lt;/div&gt;
+
+Vous pouvez remplir votre ferme de la manière suivante pour obtenir des baies Kika. Les cases violettes indiquent où les mutations peuvent avoir lieu.
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation de base
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Pecha.png|30px]]&lt;br&gt;[[Pecha/fr|Pêcha]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Oran.png|30px]]&lt;br&gt;[[Oran/fr|Oran]]
+|}
+
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation de plantation optimisée
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Pecha.png|30px]]&lt;br&gt;[[Pecha/fr|Pêcha]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Pecha.png|30px]]&lt;br&gt;[[Pecha/fr|Pêcha]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Oran.png|30px]]&lt;br&gt;[[Oran/fr|Oran]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Oran.png|30px]]&lt;br&gt;[[Oran/fr|Oran]] 
+|- style="height: 50px;"
+| style="background-color:#9C7D98;" | ||style="background-color:#9C7D98;" | ||style="background-color:#9C7D98;" | ||style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" |
+|-
+| [[File:Pecha.png|30px]]&lt;br&gt;[[Pecha/fr|Pêcha]] ||style="background-color:#9C7D98;" | ||style="background-color:#9C7D98;" | || [[File:Pecha.png|30px]]&lt;br&gt;[[Pecha/fr|Pêcha]] || style="background-color:#9C7D98;" |
+|-
+| style="background-color:#9C7D98;" | || [[File:Oran.png|30px]]&lt;br&gt;[[Oran/fr|Oran]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Oran.png|30px]]&lt;br&gt;[[Oran/fr|Oran]] 
+|}
+
+=== Tableau de chronométrage ===
+{| class="wikitable" | style="text-align: center;"
+|-
+|+ ''Tous les temps de plantation utilisent le temps restant pour que la première baie plantée soit mûre pour les temps de plantation suivants''
+! Baie !! Temps de plantation&lt;br&gt;sans modificateur!! Temps de plantation avec &lt;br&gt; Engrais ou Kwakarrosoir || Temps de plantation avec &lt;br&gt; Engrais et Kwakarrosoir
+|-
+| [[Oran/fr|Oran]] || - || - || -
+|-
+| [[Pecha/fr|Pêcha]] || 1 min avant maturité || 40 secs avant maturité || Pas pratique
+|-
+|}
+
+==Utilisations==
+===Mutations===
+
+Les baies Kika peuvent être utilisées pour faire muter les baies suivantes.
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Kelpsy.png|20px]] [[Kelpsy]] || [[File:Chesto.png|20px]] [[Chesto]]
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Acquisition==
+===Dungeons===
+{{Loot/head‎|Berries}}
+{{LootItem|Berry Forest|Epic}}
+{{LootItem|Radio Tower|Epic}}
+{{LootItem|Solaceon Ruins|Common}}
+{{LootItem|Reversal Mountain|Common}}
+{{LootItem|Seaside Cave|Common}}
+|}
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>LeChatMG</username>
+      <id>97</id>
+    </contributor>
+    <comment>Première traduction</comment>
+    <model>wikitext</model>
+    <parentid>22417</parentid>
+    <sha1>878c8dd7645a0852bb1414585a9cbd9352166019</sha1>
+  </revision>
+  <revision>
+    <id>22417</id>
+    <timestamp>2022-08-09T15:42:37Z</timestamp>
+    <text bytes="4644" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #09 Kika
+|image   = [[File:Persim.png]]
+|caption = Plus on l'expose aux rayons du soleil et plus cette Baie prend une couleur vive.
+|growtime  = 1m 30s
+|harvest = 5 baies
+|replant = 40%
+|mutation = 2%
+|points = 10
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*10 épicée
+*10 sèche
+*10 sucrée
+*0 amère
+*10 acide
+}}
+'''Kika''' est un type de [[Berry/fr|Baie]] qui peut être plantée dans la [[Farm/fr|Ferme]]. Elle peut être obtenue en entourant une parcelle vide avec au moins 1 [[Pecha/fr|Pêcha]] et au moins 1 [[Oran/fr|Oran]].
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Growth Tables ==
+=== Growth Stages ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+!!! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 20 secs || 40 secs || 50 secs || 1 min 30 secs - 3 mins
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:PersimTreeTaller.png|50px]] || &lt;center&gt;[[File:PersimTreeBloom.png|50px]] || &lt;center&gt; [[File:PersimTreeBerry.png|50px]]
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+===Ripening Time with Modifiers===
+{| class="wikitable" | style="text-align: center;"
+! Modifier !! Ripe-Wither Time
+|-
+! None
+| 1 min 30 secs -&lt;br&gt; 3 mins
+|-
+! Sprayduck
+| 1 min -&lt;br&gt; 2 mins
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Flow Chart ==
+[[File:Persim_Flow_Chart.png|200px]]
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Mutation Strategy ==
+=== Possible Planting Formations ===
+&lt;/div&gt;
+
+Vous pouvez remplir votre ferme de la manière suivante pour obtenir des baies Kika. Les cases violettes indiquent où les mutations peuvent avoir lieu.
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation de base
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Pecha.png|30px]]&lt;br&gt;[[Pecha/fr|Pêcha]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Oran.png|30px]]&lt;br&gt;[[Oran/fr|Oran]]
+|}
+
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation de plantation optimisée
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Pecha.png|30px]]&lt;br&gt;[[Pecha/fr|Pêcha]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Pecha.png|30px]]&lt;br&gt;[[Pecha/fr|Pêcha]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Oran.png|30px]]&lt;br&gt;[[Oran/fr|Oran]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Oran.png|30px]]&lt;br&gt;[[Oran/fr|Oran]] 
+|- style="height: 50px;"
+| style="background-color:#9C7D98;" | ||style="background-color:#9C7D98;" | ||style="background-color:#9C7D98;" | ||style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" |
+|-
+| [[File:Pecha.png|30px]]&lt;br&gt;[[Pecha/fr|Pêcha]] ||style="background-color:#9C7D98;" | ||style="background-color:#9C7D98;" | || [[File:Pecha.png|30px]]&lt;br&gt;[[Pecha/fr|Pêcha]] || style="background-color:#9C7D98;" |
+|-
+| style="background-color:#9C7D98;" | || [[File:Oran.png|30px]]&lt;br&gt;[[Oran/fr|Oran]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Oran.png|30px]]&lt;br&gt;[[Oran/fr|Oran]] 
+|}
+
+=== Tableau de chronométrage ===
+{| class="wikitable" | style="text-align: center;"
+|-
+|+ ''Tous les temps de plantation utilisent le temps restant pour que la première baie plantée soit mûre pour les temps de plantation suivants''
+! Baie !! Temps de plantation&lt;br&gt;sans modificateur!! Temps de plantation avec &lt;br&gt; Engrais ou Kwakarrosoir || Temps de plantation avec &lt;br&gt; Engrais et Kwakarrosoir
+|-
+| [[Oran/fr|Oran]] || - || - || -
+|-
+| [[Pecha/fr|Pêcha]] || 1 min avant maturité || 40 secs avant maturité || Pas pratique
+|-
+|}
+
+==Utilisations==
+===Mutations===
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Persim berries can be used to mutate the following berries.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Kelpsy.png|20px]] [[Kelpsy]] || [[File:Chesto.png|20px]] [[Chesto]]
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Acquisition==
+===Dungeons===
+{{Loot/head‎|Berries}}
+{{LootItem|Berry Forest|Epic}}
+{{LootItem|Radio Tower|Epic}}
+{{LootItem|Solaceon Ruins|Common}}
+{{LootItem|Reversal Mountain|Common}}
+{{LootItem|Seaside Cave|Common}}
+|}
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>LeChatMG</username>
+      <id>97</id>
+    </contributor>
+    <comment>Traduction du titre (oublié)</comment>
+    <model>wikitext</model>
+    <parentid>22416</parentid>
+    <sha1>cdd3d58a13146b317f590f7c34f1efff8cfa4245</sha1>
+  </revision>
+  <revision>
+    <id>22416</id>
+    <timestamp>2022-08-09T15:40:56Z</timestamp>
+    <text bytes="4679" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #09 Kika
+|image   = [[File:Persim.png]]
+|caption = Plus on l'expose aux rayons du soleil et plus cette Baie prend une couleur vive.
+|growtime  = 1m 30s
+|harvest = 5 baies
+|replant = 40%
+|mutation = 2%
+|points = 10
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*10 épicée
+*10 sèche
+*10 sucrée
+*0 amère
+*10 acide
+}}
+'''Kika''' est un type de [[Berry/fr|Baie]] qui peut être plantée dans la [[Farm/fr|Ferme]]. Elle peut être obtenue en entourant une parcelle vide avec au moins 1 [[Pecha/fr|Pêcha]] et au moins 1 [[Oran/fr|Oran]].
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Growth Tables ==
+=== Growth Stages ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+!!! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 20 secs || 40 secs || 50 secs || 1 min 30 secs - 3 mins
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:PersimTreeTaller.png|50px]] || &lt;center&gt;[[File:PersimTreeBloom.png|50px]] || &lt;center&gt; [[File:PersimTreeBerry.png|50px]]
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+===Ripening Time with Modifiers===
+{| class="wikitable" | style="text-align: center;"
+! Modifier !! Ripe-Wither Time
+|-
+! None
+| 1 min 30 secs -&lt;br&gt; 3 mins
+|-
+! Sprayduck
+| 1 min -&lt;br&gt; 2 mins
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Flow Chart ==
+[[File:Persim_Flow_Chart.png|200px]]
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Mutation Strategy ==
+=== Possible Planting Formations ===
+&lt;/div&gt;
+
+Vous pouvez remplir votre ferme de la manière suivante pour obtenir des baies Kika. Les cases violettes indiquent où les mutations peuvent avoir lieu.
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation de base
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Pecha.png|30px]]&lt;br&gt;[[Pecha/fr|Pêcha]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Oran.png|30px]]&lt;br&gt;[[Oran/fr|Oran]]
+|}
+
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation de plantation optimisée
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Pecha.png|30px]]&lt;br&gt;[[Pecha/fr|Pêcha]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Pecha.png|30px]]&lt;br&gt;[[Pecha/fr|Pêcha]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Oran.png|30px]]&lt;br&gt;[[Oran/fr|Oran]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Oran.png|30px]]&lt;br&gt;[[Oran/fr|Oran]] 
+|- style="height: 50px;"
+| style="background-color:#9C7D98;" | ||style="background-color:#9C7D98;" | ||style="background-color:#9C7D98;" | ||style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" |
+|-
+| [[File:Pecha.png|30px]]&lt;br&gt;[[Pecha/fr|Pêcha]] ||style="background-color:#9C7D98;" | ||style="background-color:#9C7D98;" | || [[File:Pecha.png|30px]]&lt;br&gt;[[Pecha/fr|Pêcha]] || style="background-color:#9C7D98;" |
+|-
+| style="background-color:#9C7D98;" | || [[File:Oran.png|30px]]&lt;br&gt;[[Oran/fr|Oran]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Oran.png|30px]]&lt;br&gt;[[Oran/fr|Oran]] 
+|}
+
+=== Timing Table ===
+{| class="wikitable" | style="text-align: center;"
+|-
+|+ ''Tous les temps de plantation utilisent le temps restant pour que la première baie plantée soit mûre pour les temps de plantation suivants''
+! Baie !! Temps de plantation&lt;br&gt;sans modificateur!! Temps de plantation avec &lt;br&gt; Engrais ou Kwakarrosoir || Temps de plantation avec &lt;br&gt; Engrais et Kwakarrosoir
+|-
+| [[Oran/fr|Oran]] || - || - || -
+|-
+| [[Pecha/fr|Pêcha]] || 1 min avant maturité || 40 secs avant maturité || Pas pratique
+|-
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Uses==
+===Mutations===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Persim berries can be used to mutate the following berries.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Kelpsy.png|20px]] [[Kelpsy]] || [[File:Chesto.png|20px]] [[Chesto]]
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Acquisition==
+===Dungeons===
+{{Loot/head‎|Berries}}
+{{LootItem|Berry Forest|Epic}}
+{{LootItem|Radio Tower|Epic}}
+{{LootItem|Solaceon Ruins|Common}}
+{{LootItem|Reversal Mountain|Common}}
+{{LootItem|Seaside Cave|Common}}
+|}
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>LeChatMG</username>
+      <id>97</id>
+    </contributor>
+    <comment>Coquille</comment>
+    <model>wikitext</model>
+    <parentid>22415</parentid>
+    <sha1>89d3dd5de2b7b870f8d2dc223effa2ee32b9b0da</sha1>
+  </revision>
+  <revision>
+    <id>22415</id>
+    <timestamp>2022-08-09T15:40:39Z</timestamp>
+    <text bytes="4683" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #09 Kika
+|image   = [[File:Persim.png]]
+|caption = Plus on l'expose aux rayons du soleil et plus cette Baie prend une couleur vive.
+|growtime  = 1m 30s
+|harvest = 5 baies
+|replant = 40%
+|mutation = 2%
+|points = 10
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*10 épicée
+*10 sèche
+*10 sucrée
+*0 amère
+*10 acide
+}}
+'''Kika''' est un type de [[Berry/fr|Baie]] qui peut être plantée dans la [[Farm/fr|Ferme]]. Elle peut être obtenue en entourant une parcelle vide avec au moins 1 [[Pecha/fr|Pêcha]] et au moins 1 [[Oran/fr|Oran]].
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Growth Tables ==
+=== Growth Stages ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+!!! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 20 secs || 40 secs || 50 secs || 1 min 30 secs - 3 mins
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:PersimTreeTaller.png|50px]] || &lt;center&gt;[[File:PersimTreeBloom.png|50px]] || &lt;center&gt; [[File:PersimTreeBerry.png|50px]]
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+===Ripening Time with Modifiers===
+{| class="wikitable" | style="text-align: center;"
+! Modifier !! Ripe-Wither Time
+|-
+! None
+| 1 min 30 secs -&lt;br&gt; 3 mins
+|-
+! Sprayduck
+| 1 min -&lt;br&gt; 2 mins
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Flow Chart ==
+[[File:Persim_Flow_Chart.png|200px]]
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Mutation Strategy ==
+=== Possible Planting Formations ===
+&lt;/div&gt;
+
+Vous pouvez remplir votre ferme de la manière suivante pour obtenir des baies Kika. Les cases violettes indiquent où les mutations peuvent avoir lieu.
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation de base
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Pecha.png|30px]]&lt;br&gt;[[Pecha/fr|Pêcha]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Oran.png|30px]]&lt;br&gt;[[Oran/fr|Oran]]
+|}
+
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation de plantation optimisée
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Pecha.png|30px]]&lt;br&gt;[[Pecha/fr|Pêcha]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Pecha.png|30px]]&lt;br&gt;[[Pecha/fr|Pêcha]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Oran.png|30px]]&lt;br&gt;[[Oran/fr|Oran]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Oran.png|30px]]&lt;br&gt;[[Oran/fr|Oran]] 
+|- style="height: 50px;"
+| style="background-color:#9C7D98;" | ||style="background-color:#9C7D98;" | ||style="background-color:#9C7D98;" | ||style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" |
+|-
+| [[File:Pecha.png|30px]]&lt;br&gt;[[Pecha/fr|Pêcha]] ||style="background-color:#9C7D98;" | ||style="background-color:#9C7D98;" | || [[File:Pecha.png|30px]]&lt;br&gt;[[Pecha/fr|Pêcha]] || style="background-color:#9C7D98;" |
+|-
+| style="background-color:#9C7D98;" | || [[File:Oran.png|30px]]&lt;br&gt;[[Oran/fr|Oran]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Oran.png|30px]]&lt;br&gt;[[Oran/fr|Oran]] 
+|}
+
+=== Timing Table ===
+{| class="wikitable" | style="text-align: center;"
+|-
+|+ ''Tous les temps de plantation utilisent le temps restant pour que la première baie plantée soit mûre pour les temps de plantation suivants''
+! Baie !! Temps de plantation&lt;br&gt;sans modificateur!! Temps de plantation avec &lt;br&gt; Engrais ou Kwakarrosoirduck || Temps de plantation avec &lt;br&gt; Engrais et Kwakarrosoir
+|-
+| [[Oran/fr|Oran]] || - || - || -
+|-
+| [[Pecha/fr|Pêcha]] || 1 min avant maturité || 40 secs avant maturité || Pas pratique
+|-
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Uses==
+===Mutations===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Persim berries can be used to mutate the following berries.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Kelpsy.png|20px]] [[Kelpsy]] || [[File:Chesto.png|20px]] [[Chesto]]
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Acquisition==
+===Dungeons===
+{{Loot/head‎|Berries}}
+{{LootItem|Berry Forest|Epic}}
+{{LootItem|Radio Tower|Epic}}
+{{LootItem|Solaceon Ruins|Common}}
+{{LootItem|Reversal Mountain|Common}}
+{{LootItem|Seaside Cave|Common}}
+|}
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>LeChatMG</username>
+      <id>97</id>
+    </contributor>
+    <comment>Première traduction</comment>
+    <model>wikitext</model>
+    <parentid>22414</parentid>
+    <sha1>84fd664c1ba0a3a85be8a2b2b6a5b5f0e8b0569c</sha1>
+  </revision>
+  <revision>
+    <id>22414</id>
+    <timestamp>2022-08-09T15:34:04Z</timestamp>
+    <text bytes="4649" space="preserve">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #09 Kika
+|image   = [[File:Persim.png]]
+|caption = Plus on l'expose aux rayons du soleil et plus cette Baie prend une couleur vive.
+|growtime  = 1m 30s
+|harvest = 5 baies
+|replant = 40%
+|mutation = 2%
+|points = 10
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*10 épicée
+*10 sèche
+*10 sucrée
+*0 amère
+*10 acide
+}}
+'''Kika''' est un type de [[Berry/fr|Baie]] qui peut être plantée dans la [[Farm/fr|Ferme]]. Elle peut être obtenue en entourant une parcelle vide avec au moins 1 [[Pecha/fr|Pêcha]] et au moins 1 [[Oran/fr|Oran]].
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Growth Tables ==
+=== Growth Stages ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+!!! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 20 secs || 40 secs || 50 secs || 1 min 30 secs - 3 mins
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:PersimTreeTaller.png|50px]] || &lt;center&gt;[[File:PersimTreeBloom.png|50px]] || &lt;center&gt; [[File:PersimTreeBerry.png|50px]]
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+===Ripening Time with Modifiers===
+{| class="wikitable" | style="text-align: center;"
+! Modifier !! Ripe-Wither Time
+|-
+! None
+| 1 min 30 secs -&lt;br&gt; 3 mins
+|-
+! Sprayduck
+| 1 min -&lt;br&gt; 2 mins
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Flow Chart ==
+[[File:Persim_Flow_Chart.png|200px]]
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Mutation Strategy ==
+=== Possible Planting Formations ===
+&lt;/div&gt;
+
+Vous pouvez remplir votre ferme de la manière suivante pour obtenir des baies Kika. Les cases violettes indiquent où les mutations peuvent avoir lieu.
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation de base
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Pecha.png|30px]]&lt;br&gt;[[Pecha/fr|Pêcha]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Oran.png|30px]]&lt;br&gt;[[Oran/fr|Oran]]
+|}
+
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation de plantation optimisée
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Pecha.png|30px]]&lt;br&gt;[[Pecha/fr|Pêcha]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Pecha.png|30px]]&lt;br&gt;[[Pecha/fr|Pêcha]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Oran.png|30px]]&lt;br&gt;[[Oran/fr|Oran]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Oran.png|30px]]&lt;br&gt;[[Oran/fr|Oran]] 
+|- style="height: 50px;"
+| style="background-color:#9C7D98;" | ||style="background-color:#9C7D98;" | ||style="background-color:#9C7D98;" | ||style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" |
+|-
+| [[File:Pecha.png|30px]]&lt;br&gt;[[Pecha/fr|Pêcha]] ||style="background-color:#9C7D98;" | ||style="background-color:#9C7D98;" | || [[File:Pecha.png|30px]]&lt;br&gt;[[Pecha/fr|Pêcha]] || style="background-color:#9C7D98;" |
+|-
+| style="background-color:#9C7D98;" | || [[File:Oran.png|30px]]&lt;br&gt;[[Oran/fr|Oran]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Oran.png|30px]]&lt;br&gt;[[Oran/fr|Oran]] 
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+=== Timing Table ===
+{| class="wikitable" | style="text-align: center;"
+|-
+|+ ''All planting times use the time-to-ripe remaining of the first planted berry for subsequent planting times''
+! Berry !! Planting Time with &lt;br&gt; No Modifier !! Planting Time with &lt;br&gt; Mulch or Sprayduck || Planting Time with &lt;br&gt;  Mulch &amp; Sprayduck
+|-
+| [[Oran]] || - || - || -
+|-
+| [[Pecha]] || 1 min until ripe || 40 secs until ripe || Not Practical
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Uses==
+===Mutations===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Persim berries can be used to mutate the following berries.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Kelpsy.png|20px]] [[Kelpsy]] || [[File:Chesto.png|20px]] [[Chesto]]
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Acquisition==
+===Dungeons===
+{{Loot/head‎|Berries}}
+{{LootItem|Berry Forest|Epic}}
+{{LootItem|Radio Tower|Epic}}
+{{LootItem|Solaceon Ruins|Common}}
+{{LootItem|Reversal Mountain|Common}}
+{{LootItem|Seaside Cave|Common}}
+|}
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>LeChatMG</username>
+      <id>97</id>
+    </contributor>
+    <comment>Première traduction</comment>
+    <model>wikitext</model>
+    <parentid>22413</parentid>
+    <sha1>8e650478a26b2c65a5e2ce5a0be86cd9ff3cdd20</sha1>
+  </revision>
+</page>

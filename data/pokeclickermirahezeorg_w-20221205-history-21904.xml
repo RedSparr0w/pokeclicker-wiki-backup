@@ -1,0 +1,51 @@
+<page>
+  <title>Template:LootItem/fr</title>
+  <ns>10</ns>
+  <id>8641</id>
+  <revision>
+    <id>23850</id>
+    <timestamp>2022-08-12T06:19:05Z</timestamp>
+    <text bytes="160" space="preserve">
+|-
+| [[File:{{{1}}}.png|30px|{{{2}}}|link={{{1}}}/fr]] [[{{{1}}}/fr|{{{2}}}]] || {{{3|N/A}}} || {{{4|N/A}}} &lt;noinclude&gt;[[Category:Table templates]]&lt;/noinclude&gt;</text>
+    <contributor>
+      <username>PetroleVB</username>
+      <id>36</id>
+    </contributor>
+    <comment>Attempt to redirect the link of the image</comment>
+    <model>wikitext</model>
+    <parentid>23849</parentid>
+    <sha1>4c4c768464b90cfc2bbd122a97f5fcab7f97105d</sha1>
+  </revision>
+  <revision>
+    <id>23849</id>
+    <timestamp>2022-08-12T05:12:15Z</timestamp>
+    <text bytes="157" space="preserve">
+|-
+| [[File:{{{1}}}.png|30px|{{{1}}}|link={{{1}}}]] [[{{{1}}}/fr|{{{2}}}]] || {{{3|N/A}}} || {{{4|N/A}}} &lt;noinclude&gt;[[Category:Table templates]]&lt;/noinclude&gt;</text>
+    <contributor>
+      <username>PetroleVB</username>
+      <id>36</id>
+    </contributor>
+    <comment>Created page with " |- | [[File:{{{1}}}.png|30px|{{{1}}}|link={{{1}}}]] [[{{{1}}}/fr|{{{2}}}]] || {{{3|N/A}}} || {{{4|N/A}}} &lt;noinclude&gt;[[Category:Table templates]]&lt;/noinclude&gt;"</comment>
+    <model>wikitext</model>
+    <parentid>23848</parentid>
+    <sha1>6aa7a7893c98293930cd821d655e47dc6704113b</sha1>
+  </revision>
+  <revision>
+    <id>23848</id>
+    <timestamp>2022-08-12T05:10:58Z</timestamp>
+    <text bytes="209" space="preserve">&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+|-
+| [[File:{{{1}}}.png|30px|{{{1}}}|link={{{1}}}]] [[{{{1}}}|{{{1}}}]] || {{{2|N/A}}} || {{{3|N/A}}} &lt;noinclude&gt;[[Category:Table templates]]&lt;/noinclude&gt;
+&lt;/div&gt;</text>
+    <contributor>
+      <username>PetroleVB</username>
+      <id>36</id>
+    </contributor>
+    <comment>Created page with "Template:LootItem"</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>4105b57f5e567d22702d7421c1ccf6bdd1373d72</sha1>
+  </revision>
+</page>

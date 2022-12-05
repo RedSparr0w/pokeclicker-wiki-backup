@@ -1,0 +1,55 @@
+<page>
+  <title>Tamato</title>
+  <ns>0</ns>
+  <id>638</id>
+  <revision>
+    <id>7278</id>
+    <timestamp>2020-12-08T23:45:48Z</timestamp>
+    <text bytes="2135" space="preserve">{{Infobox Berry
+|name    = Tamato
+|image   = [[File:Tamato.png]]
+|caption = This Berry is large and spicy. When eaten during the cold season, it warms the body from inside.
+|growtime  = 2h 24m 0s
+|harvest = 25 berries
+|replant = 20%
+|points = 625
+|flavor = {{!}} 20 {{!}} 10 {{!}} 0 {{!}} 0 {{!}} 0
+}}
+'''Tamato''' is a type of [[Berries|Berry]] that can be planted in [[Farm]]. It can be obtained by surrounding a [[Razz]] with at least 1 [[Pomeg]]. The [[Razz]] will then have a chance to mutate into this berry.
+
+{| class="wikitable"
+|+ Harvest Stages durations
+! Seed !! Sprout !! Taller !! Bloom !! Berry
+|-
+| 0-430s || 430-1400s || 1400-4000s || 4000-8640s || 8640-17280s
+|-
+| [[File:AllTreeSeed.png|50px]] || [[File:AllTreeSprout.png|50px]] || [[File:TamatoTreeTaller.png|50px]] || [[File:TamatoTreeBloom.png|50px]] || [[File:TamatoTreeBerry.png|50px]]
+|}
+
+=== Possible Planting Formations ===
+
+You can fill your [[farm]] in following way to obtain Tamato berry.
+
+{| class="wikitable" style="text-align: center;"
+|+ Farm
+|-
+| style="width: 60px;" | [[File:Razz.png|30px]]&lt;br&gt;[[Razz]] || style="width: 60px;" | [[File:Razz.png|30px]]&lt;br&gt;[[Razz]] || style="width: 60px;" | [[File:Razz.png|30px]]&lt;br&gt;[[Razz]] || style="width: 60px;" | [[File:Razz.png|30px]]&lt;br&gt;[[Razz]] || style="width: 60px;" | [[File:Razz.png|30px]]&lt;br&gt;[[Razz]]
+|-
+| [[File:Razz.png|30px]]&lt;br&gt;[[Razz]] || [[File:Pomeg.png|30px]]&lt;br&gt;[[Pomeg]] || [[File:Razz.png|30px]]&lt;br&gt;[[Razz]] || [[File:Razz.png|30px]]&lt;br&gt;[[Razz]] || [[File:Pomeg.png|30px]]&lt;br&gt;[[Pomeg]]
+|- style="height: 26px;"
+| [[File:Razz.png|30px]]&lt;br&gt;[[Razz]] || [[File:Razz.png|30px]]&lt;br&gt;[[Razz]] || [[File:Razz.png|30px]]&lt;br&gt;[[Razz]] || [[File:Razz.png|30px]]&lt;br&gt;[[Razz]] || [[File:Razz.png|30px]]&lt;br&gt;[[Razz]]
+|-
+| [[File:Razz.png|30px]]&lt;br&gt;[[Razz]] || [[File:Razz.png|30px]]&lt;br&gt;[[Razz]] || [[File:Razz.png|30px]]&lt;br&gt;[[Razz]] || [[File:Razz.png|30px]]&lt;br&gt;[[Razz]] || [[File:Razz.png|30px]]&lt;br&gt;[[Razz]]
+|-
+| [[File:Razz.png|30px]]&lt;br&gt;[[Razz]] || [[File:Pomeg.png|30px]]&lt;br&gt;[[Pomeg]] || [[File:Razz.png|30px]]&lt;br&gt;[[Razz]] || [[File:Razz.png|30px]]&lt;br&gt;[[Razz]] || [[File:Pomeg.png|30px]]&lt;br&gt;[[Pomeg]]
+|}</text>
+    <contributor>
+      <username>J-3047</username>
+      <id>42</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>7277</parentid>
+    <sha1>c1c3f32fc8f9a510319f62b4b58783bdc7b62afd</sha1>
+  </revision>
+</page>

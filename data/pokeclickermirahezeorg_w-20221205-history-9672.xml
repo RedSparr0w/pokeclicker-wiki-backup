@@ -1,0 +1,57 @@
+<page>
+  <title>Battle Points</title>
+  <ns>0</ns>
+  <id>201</id>
+  <revision>
+    <id>3502</id>
+    <timestamp>2021-11-03T17:02:58Z</timestamp>
+    <text bytes="1566" space="preserve">[[File:Battlepoints.png|thumb|200px|A Battle Point]]
+
+==Description==
+The currency earned from the [[Battle Frontier]].
+
+==Multipliers==
+
+There is a hidden multiplier called the Battle Multiplier that is determined by the last stage you've beaten divided by 100, but is never less than 1. 
+
+max(StageBeaten / 100, 1) = battleMultiplier
+
+===Rates===
+{| class="wikitable"
+|-
+! Awarded !! Rate
+|-
+| [[Battle Points]] || stageBeaten * battleMultiplier
+|-
+| Money || stageBeaten * 100 * battleMultiplier
+|}
+
+==Uses==
+Used to buy items from the Battle Frontier Shop.
+===Battle Frontier Shop===
+{| class="wikitable"
+|-
+! Items available !! Starting price !! Price Increment !! Max Price
+|-
+| [[Ultraball]] || style="text-align:right" | 1 [[File:Battlepoints.png|15px]] || 0% Previous Price || style="text-align:right" | 1 [[File:Battlepoints.png|15px]]
+|-
+| [[Masterball]] || style="text-align:right" | 500 [[File:Battlepoints.png|15px]] || 135% Previous Price || style="text-align:right" | 50000 [[File:Battlepoints.png|15px]]
+|-
+| [[Small Restore]]  || style="text-align:right" | 10 [[File:Battlepoints.png|15px]] || 0% Previous Price || style="text-align:right" | 10 [[File:Battlepoints.png|15px]]
+|-
+| [[Medium Restore]] || style="text-align:right" | 20 [[File:Battlepoints.png|15px]] || 0% Previous Price || style="text-align:right" | 20 [[File:Battlepoints.png|15px]]
+|-
+| [[Large Restore]] || style="text-align:right" | 40 [[File:Battlepoints.png|15px]] || 0% Previous Price || style="text-align:right" | 40 [[File:Battlepoints.png|15px]]
+|}
+
+[[Category:Currencies]]</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>3501</parentid>
+    <sha1>4da9c6165cbcc69691607574c1eaab073900e19e</sha1>
+  </revision>
+</page>

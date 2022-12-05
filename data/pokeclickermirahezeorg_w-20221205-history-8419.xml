@@ -1,0 +1,89 @@
+<page>
+  <title>Union Cave</title>
+  <ns>0</ns>
+  <id>331</id>
+  <revision>
+    <id>4993</id>
+    <timestamp>2022-04-16T17:33:24Z</timestamp>
+    <text bytes="2311" space="preserve">{{Infobox dungeon
+|name    = Union Cave
+|image   = [[File:Union Cave.png|thumb]]
+|caption = A map of  Union Cave.
+|tokens  = 3,000
+|location = South of Violet City and [[Ruins of Alph]], on Route 32.
+}}
+'''Union Cave''' is a dungeon in [[Johto]].  It initially has 36 tiles arranged in an 6x6 square, including 6 chest tiles, 14 non-boss encounter tiles, and 1 boss encounter tile. Wild Encounters have 63,600 HP.
+
+== Encounter Tables ==
+
+===Wild Encounters===
+
+{| class="wikitable"
+|-
+! Wild Pokémon !! colspan=2|Trainers
+|-
+! Encounter !! Trainer !! Pokémon Team
+|-
+| [[File:Rattata.png|40px]] Rattata || rowspan=2|[[File:Hiker.png|40px]] Hiker Russell || rowspan=2|[[File:Geodude.png|40px]] Geodude, [[File:Geodude.png|40px]] Geodude, [[File:Geodude.png|40px]] Geodude
+|-
+| [[File:Sandshrew.png|40px]] Sandshrew 
+|-
+| [[File:Zubat.png|40px]] Zubat || rowspan=3|[[File:Firebreather.png|40px]] Firebreather Bill || rowspan=3|[[File:Koffing.png|40px]] Koffing, [[File:Koffing.png|40px]] Koffing
+|-
+| [[File:Geodude.png|40px]] Geodude 
+|-
+| [[File:Onix.png|40px]] Onix
+|-
+| [[File:Goldeen.png|40px]] Goldeen || rowspan=3|[[File:PokéManiac.png|40px]] PokéManiac Larry || rowspan=3|[[File:Slowpoke.png|40px]] Slowpoke
+|-
+| [[File:Magikarp.png|40px]] Magikarp
+|-
+| [[File:Wooper.png|40px]] Wooper
+|}
+
+===Boss Encounters===
+{| class="wikitable"
+|-
+! Wild Pokémon !! Base Health !! Boss Trainer !! Pokémon Team !! Base Health
+|-
+| colspan=2 rowspan=2|&lt;center&gt;N/A || [[File:Hiker.png|40px]] Hiker Daniel || [[File:Onix.png|40px]] Onix || rowspan=2|&lt;center&gt;300,000
+|-
+| [[File:Firebreather.png|40px]] Firebreather Ray || [[File:Vulpix.png|40px]] Vulpix
+|}
+
+==Items==
+
+{| class="wikitable"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears !! Requirement 
+|-
+| {{Bag2|XAttack}} || 4 || 42.92% || 42.64% || 41.25% || rowspan=8|&lt;center&gt;N/A
+|-
+| {{Bag2|XClick}} || 4 || 42.92% || 42.64% || 41.25% 
+|-
+| {{Pokemon|Geodude}} || 3.5 || 11.08% || 11.07% || 10.95% 
+|-
+| {{Bag2|Greatball}} || 3 || 2.86% || 2.92% || 3.13% 
+|-
+| {{Bag2|Small Restore}} || 1.75 || 0.098% || 0.23% || 1.11% 
+|-
+| {{Bag2|Revive}} || 1.75 || 0.098% || 0.23% || 1.11% 
+|-
+| {{Bag2|Large Restore}} || 1 || 0.014% || 0.17% || 0.81% 
+|-
+| {{Bag2|Ultraball}} || 0 || 0.0017% || 0.09% || 0.40% 
+|}
+
+{{Dungeons}}
+
+[[Category:Dungeons]]</text>
+    <contributor>
+      <username>Slk</username>
+      <id>6</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>4992</parentid>
+    <sha1>f34ac02895a4556f4b299bf9466c5a4415f4d25e</sha1>
+  </revision>
+</page>

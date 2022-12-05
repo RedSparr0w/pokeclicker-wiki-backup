@@ -1,0 +1,49 @@
+<page>
+  <title>Squirtbottle</title>
+  <ns>0</ns>
+  <id>503</id>
+  <revision>
+    <id>6452</id>
+    <timestamp>2020-12-07T14:29:26Z</timestamp>
+    <text bytes="1235" space="preserve">{{Infobox Oak Item
+|name       = Squirtbottle
+|image      = [[File:Squirtbottle.png]]
+|caption    = Artwork of the ''Squirtbottle''.
+|dex = 0 (Bought at Goldenrod City in Johto) 
+|effect     = Increases the chance of berry mutations
+}}
+
+The '''Squirtbottle''' is a type of [[Oak Items|Oak Item]]. When equipped, it increases the chance of mutations occurring in the [[Farm]]. Unlike most other Oak Items, it is not unlocked by capturing unique Pokémon and instead can be bought from the Johto Berry Master in Goldenrod City. It also requires [[Farming Points]] to upgrade instead of Pokédollars.
+
+==Details==
+
+{| class="wikitable sortable"
+|-
+! Level !! Effect !! Upgrade Requirement !! Upgrade Cost
+|-
+|0 || +25% to mutation rate || 50 mutations triggered || 2,000 {{farmpoints}}
+|-
+|1 || +50% to mutation rate || 50 mutations triggered || 5,000 {{farmpoints}}
+|-
+|2 || +75% to mutation rate || 150 mutations triggered || 10,000 {{farmpoints}}
+|-
+|3 || +100% to mutation rate || 250 mutations triggered || 20,000 {{farmpoints}}
+|-
+|4 || +125% to mutation rate || 500 mutations triggered || 50,000 {{farmpoints}}
+|-
+|5/Max || +150% to mutation rate || N/A || N/A
+|-
+|}
+
+&lt;br&gt;{{Oak items}}&lt;br&gt;
+[[Category:Oak Items]] [[Category:Items]]</text>
+    <contributor>
+      <username>Adrian.Lew</username>
+      <id>29</id>
+    </contributor>
+    <comment>/* Details */ Farming points symbols</comment>
+    <model>wikitext</model>
+    <parentid>6451</parentid>
+    <sha1>2afb62c077c2df57bfa325a7c5ddfc53ec640b1f</sha1>
+  </revision>
+</page>

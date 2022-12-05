@@ -1,0 +1,65 @@
+<page>
+  <title>Translations:Berries/20/es</title>
+  <ns>0</ns>
+  <id>5137</id>
+  <revision>
+    <id>17240</id>
+    <timestamp>2022-07-26T16:05:38Z</timestamp>
+    <text bytes="4346" space="preserve">{| class="wikitable" | style="text-align: center;"
+! Aura !! Efecto !! Notas
+|-
+! Estimulo de Auras
+| Incrementa el efecto de las auras de las 8 bayas alrededor || &lt;center&gt; Este aura sólo se puede aplicar a cada baya una única vez y no afecta a otras bayas que ya tengan este efecto.
+|-
+! Expansiva
+| Planta una baya del mismo tipo en una de las 8 parcelas vacías || &lt;center&gt; Se necesita que la baya original haya madurado para que se pueda producir este efecto. &lt;br&gt; Se considera mutación se ve afectado por los modificadores de mutación.
+|-
+! Parásita
+| Transforma una baya en las 8 parcelas de alrededor en la misma baya que la parásita. || &lt;center&gt; Se necesita que la baya original haya madurado para que se pueda producir este efecto. &lt;br&gt; Se considera mutación se ve afectado por los modificadores de mutación. &lt;br&gt; Los parásitos sólo afectan a bayas en su fase de crecimiento o posterior. Las semillas o los brotes no pueden ser parasitados. &lt;br&gt; La nueva planta comienza con su temporizador de crecimiento en la misma fase que en la que se encontraba la planta parasitada.
+|-
+! Muerte
+| Provoca que las 8 bayas de alrededor se marchiten antes. || &lt;center&gt; Sólo afecta a bayas maduras. &lt;br&gt; No afecta a otras bayas que tengan el Aura Mortal. &lt;br&gt; Este efecto no se acumula.
+|-
+! Bayas Cosechadas
+| Modifica la cantidad de bayas obtenidas al cosechar o marchitarse para las 8 bayas de alrededor.|| &lt;center&gt; El efecto se multiplica si se plantan más plantas con este efecto y se acumula con el [[Rich Mulch|Fertilizante Cargado]]
+|-
+! Velocidad de Crecimiento
+| Modifica el tiempo hasta crecer por completo o marchitarse de las 8 bayas de alrededor || &lt;center&gt; El efecto se multiplica si se plantan más plantas con este efecto y se acumula con el Aura Mortal (Una vez que ha madurado la planta), la [[Sprayduck|Psydugadera]] y el [[Rich Mulch|Fertilizante Creciente]].
+|-
+! Probabilidad de Replantar
+| Modifica la probabilidad de que cualquiera de las 8 bayas de alrededor se replante una vez que se haya marchitado. || &lt;center&gt; El efecto se multiplica si se plantan más plantas con este efecto y se acumula con la [[Sprinklotad|Lotadgadera]].
+|-
+! Probabilidad de Mutación
+| Modifica la probabilidad de que cualquiera de las 8 bayas o parcelas de alrededor mute si se cumplen las condiciones para ello. || &lt;center&gt; El efecto se multiplica si se plantan más plantas con este efecto y se acumula con la [[Squirtbottle|Regadera]] y el [[Surprise Mulch|Fertilizante Sorpresa]] &lt;br&gt; Afecta a los efectos de Expansión y Parásito.
+|-
+! Prevención de Drasi (Kasib)
+| Evita que las bayas muten en bayas [[Kasib|Drasi (Kasib)]] cuando se marchiten. || &lt;center&gt; Una única baya con esta habilidad afecta a todo el campo.
+|-
+! Evitar el Marchitado
+| Evita que otras bayas se marchiten mientras que esta baya esté madura. || &lt;center&gt; Una única baya con esta habilidad afecta a todo el campo. &lt;br&gt; Las bayas con esta habilidad no se afectan entre ellas. &lt;br&gt; Una vez que esta baya se marchita o se cosecha las otras bayas verán reiniciado su tiempo hasta marchitarse desde el comienzo de la fase de madurez.
+|-
+! Velocidad de Incubado
+| Aumenta la velocidad de Incubado de la Guardería. || &lt;center&gt; El efecto se multiplica si se plantan más plantas con este efecto en cualquier parte del campo. &lt;br&gt; El efecto se acumula con [[Blaze Cassette|PiroROM]].
+|-
+! Probabilidad de Variocolor
+| Incrementa la probabilidad de encontrar Pokémon [[Shiny Chance|Variocolor]]|| &lt;center&gt; El efecto se multiplica si se plantan más plantas con este efecto en cualquier parte del campo. &lt;br&gt; El efecto se acumula con el [[Shiny Charm|Amuleto Iris]].
+|-
+! Probabilidad de Itinerante
+| Incrementa la probabilidad de que [[Wandering Pokemon|Pokémon Itinerantes]] entren en la granja|| &lt;center&gt; El efecto se multiplica si se plantan más plantas con este efecto en cualquier parte del campo. 
+|-
+! Probabilidad de Errante
+| Incrementa la probabilidad de encontrarse con [[Roaming Pokemon|Pokémon Errantes]] en las rutas. || &lt;center&gt; El efecto se multiplica si se plantan más plantas con este efecto en cualquier parte del campo. 
+|-
+! Ganancia de PE
+| Incrementa la cantidad de [[Pokerus|PE ganados]] a través de cualquier método. || &lt;center&gt; El efecto se multiplica si se plantan más plantas con este efecto en cualquier parte del campo. 
+|}</text>
+    <contributor>
+      <username>Cthulhu Follower</username>
+      <id>51</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>17239</parentid>
+    <sha1>a372628c1af6ee0d97385bbee78d20ab3ff14ce6</sha1>
+  </revision>
+</page>

@@ -1,0 +1,103 @@
+<page>
+  <title>Code Contributors</title>
+  <ns>0</ns>
+  <id>304</id>
+  <revision>
+    <id>4356</id>
+    <timestamp>2020-10-15T02:13:21Z</timestamp>
+    <text bytes="2649" space="preserve">So You want to contribute code yourself like the fine folks on the list on the Main Page?  Please enjoy our unreasonably detailed and long guide on how to do exactly that!
+Brought to you Courtesy of [[User:Liczale|Liczale]] who Struggled to do this for almost 2 and a half hours!
+
+# Install Nodejs (From Nodejs.org)
+# Install Github for Desktop
+# Go to the [[https://github.com/pokeclicker/pokeclicker| Pokeclicker Github Website]]
+# Click the Green button that says "Code"
+# Copy the HTTPS brought up by the Code Button, by clicking the Clipboard Icon
+# Open the Github for Desktop app
+# Click "Clone a Repository from the Internet"
+# Go to the "URL" tab and paste the HTTPS from the Code Button
+# Add the Repository and wait for it to download
+# Open the Repository Tab on the top of the screen in the Github for Desktop App
+# Click "Open in command Prompt"
+# Click "Open Without Git"
+# Click "Open in CMD"
+# Go to the opened instance of CMD
+# Type "npm clean-install" then hit the Enter Key in the Command Prompt
+# Once the Install is done type "npm start" and then hit the Enter key in the Command Prompt
+# After doing that an instance of the Game should open with it being a local copy
+# Now open an instance of File Explorer   |   Alternatively you can go to repository in the Github menu and click on "Show in Explorer"
+# Navigate to where Github Cloned the Repository that is just Cloned
+# Locate the Code (Should be a .ts File) that you want to edit, and right click it
+# Select open with, and select Notepad
+# Then you can edit the code from the selected Repository in the Notepad
+# Once you finish your changes hit Save, and close the Notepad
+# Now go back to the CMD and type "npm run eslint-fix" This should fix any issues with it, or it will point them out for you to fix.
+# Go back to the Github Desktop app
+# Github will recognize the Changed files, in the bottom left put a summary of the changes in the box and hit the bottom left blue button
+# Now you should be on the Main page, if so click the blue button that says "Push Origin"
+# Fork the Repository when it asks you to, and then click "Contribute to Parent Project"
+# Lastly click the button that says "View on Github", once the website is up click on "Pull Requests"
+# Now you should click the green "New Pull Requests" Button
+# Now click "compare changes" after clicking this above the comparison area should be a "Compare across forks" hyperlinked Words
+# Click the "Compare across forks" hyperlinked words, and under "Head Repository" click your fork
+# Now hit the "Create Pull Request" button
+# Congratulations you just finished your edits and published them for review!</text>
+    <contributor>
+      <username>Liczale</username>
+      <id>20</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>4355</parentid>
+    <sha1>0a68e97ebd4e326ce7669481b68f06170e7a6457</sha1>
+  </revision>
+  <revision>
+    <id>4355</id>
+    <timestamp>2020-10-15T00:39:01Z</timestamp>
+    <text bytes="2553" space="preserve">So You want to contribute code yourself like the fine folks on the list on the Main Page?  Please enjoy our unreasonably detailed and long guide on how to do exactly that!
+Brought to you Courtesy of [[User:Liczale|Liczale]] who Struggled to do this for almost 2 and a half hours!
+
+# Install Nodejs (From Nodejs.org)
+# Install Github for Desktop
+# Go to the [[https://github.com/pokeclicker/pokeclicker| Pokeclicker Github Website]]
+# Click the Green button that says "Code"
+# Copy the HTTPS brought up by the Code Button, by clicking the Clipboard Icon
+# Open the Github for Desktop app
+# Click "Clone a Repository from the Internet"
+# Go to the "URL" tab and paste the HTTPS from the Code Button
+# Add the Repository and wait for it to download
+# Open the Repository Tab on the top of the screen in the Github for Desktop App
+# Click "Open in command Prompt"
+# Click "Open Without Git"
+# Click "Open in CMD"
+# Go to the opened instance of CMD
+# Type "npm clean-install" then hit the Enter Key in the Command Prompt
+# Once the Install is done type "npm start" and then hit the Enter key in the Command Prompt
+# After doing that an instance of the Game should open with it being a local copy
+# Now open an instance of File Explorer
+# Navigate to where Github Cloned the Repository that is just Cloned
+# Locate the Code (Should be a .ts File) that you want to edit, and right click it
+# Select open with, and select Notepad
+# Then you can edit the code from the selected Repository in the Notepad
+# Once you finish your changes hit Save, and close the Notepad
+# Now go back to the CMD and type "npm run eslint-fix" This should fix any issues with it, or it will point them out for you to fix.
+# Go back to the Github Desktop app
+# Github will recognize the Changed files, in the bottom left put a summary of the changes in the box and hit the bottom left blue button
+# Now you should be on the Main page, if so click the blue button that says "Push Origin"
+# Fork the Repository when it asks you to, and then click "Contribute to Parent Project"
+# Lastly click the button that says "View on Github", once the website is up click on "Pull Requests"
+# Now you should click the green "New Pull Requests" Button
+# Now click "compare changes" after clicking this above the comparison area should be a "Compare across forks" hyperlinked Words
+# Click the "Compare across forks" hyperlinked words, and under "Head Repository" click your fork
+# Now hit the "Create Pull Request" button
+# Congratulations you just finished your edits and published them for review!</text>
+    <contributor>
+      <username>Liczale</username>
+      <id>20</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>4354</parentid>
+    <sha1>b081043ac38817ac6a41b4162ffe97e1a7e4112e</sha1>
+  </revision>
+</page>

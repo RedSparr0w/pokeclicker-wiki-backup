@@ -1,0 +1,53 @@
+<page>
+  <title>Battle Points</title>
+  <ns>0</ns>
+  <id>201</id>
+  <revision>
+    <id>3500</id>
+    <timestamp>2021-01-28T15:39:35Z</timestamp>
+    <text bytes="1533" space="preserve">[[File:Battlepoints.png|thumb|200px|A Battle Point]]
+
+==Description==
+The currency earned from the [[Battle Frontier]].
+
+==Multipliers==
+
+There is a hidden multiplier called the Battle Multiplier that is determined by The last stage you've beaten divided by 100, but is at least 1. --&gt; (StageBeaten / 100, 1) = battleMultiplier
+
+===Rates===
+{| class="wikitable"
+|-
+! Awarded !! Rate
+|-
+| [[Battle Points]] || stageBeaten * battleMultiplier
+|-
+| Money || stageBeaten * 100 * battleMultiplier
+|}
+
+==Uses==
+Used to buy items from the Battle Frontier Shop.
+===Battle Frontier Shop===
+{| class="wikitable"
+|-
+! Items available !! Starting price !! Price Increment !! Max Price
+|-
+| [[Ultraball]] || style="text-align:right" | 1 [[File:Battlepoints.png|15px]] || 0% Previous Price || style="text-align:right" | 1 [[File:Battlepoints.png|15px]]
+|-
+| [[Masterball]] || style="text-align:right" | 500 [[File:Battlepoints.png|15px]] || 135% Previous Price || style="text-align:right" | 50000 [[File:Battlepoints.png|15px]]
+|-
+| [[Small Restore]]  || style="text-align:right" | 10 [[File:Battlepoints.png|15px]] || 0% Previous Price || style="text-align:right" | 10 [[File:Battlepoints.png|15px]]
+|-
+| [[Medium Restore]] || style="text-align:right" | 20 [[File:Battlepoints.png|15px]] || 0% Previous Price || style="text-align:right" | 20 [[File:Battlepoints.png|15px]]
+|-
+| [[Large Restore]] || style="text-align:right" | 40 [[File:Battlepoints.png|15px]] || 0% Previous Price || style="text-align:right" | 40 [[File:Battlepoints.png|15px]]
+|}</text>
+    <contributor>
+      <username>Liczale</username>
+      <id>20</id>
+    </contributor>
+    <comment>Protected "[[Battle Points]]": Protecting the whole wiki lets go ([Edit=Allow only autoconfirmed users] (indefinite) [Move=Allow only autoconfirmed users] (indefinite) [Delete=Allow only autoconfirmed users] (indefinite) [Protect=Allow only autoconfirmed users] (indefinite))</comment>
+    <model>wikitext</model>
+    <parentid>3499</parentid>
+    <sha1>2252fc2969cb0d2d66b2fd085549cf3e7546eb95</sha1>
+  </revision>
+</page>

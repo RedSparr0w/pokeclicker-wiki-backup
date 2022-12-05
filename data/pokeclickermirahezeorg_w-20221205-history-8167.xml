@@ -1,0 +1,99 @@
+<page>
+  <title>Glittering Cave</title>
+  <ns>0</ns>
+  <id>2903</id>
+  <revision>
+    <id>12183</id>
+    <timestamp>2022-04-20T03:10:32Z</timestamp>
+    <text bytes="2494" space="preserve">{{Infobox dungeon
+|name    = Glittering Cave
+|image   = [[File:Glittering Cave.png|150px]]
+|caption = A map of Glittering Cave.
+|tokens  = 505,000
+|location = West of Route 9
+}}
+'''Glittering Cave''' is a [[Dungeons|dungeon]] in [[Kalos]]. It initially has 100 tiles arranged in a 10x10 square, including 10 chest tiles, 23 non-boss encounter tiles, and 1 boss encounter tile. Wild Encounters have 7,037,500 HP.
+
+==Encounter  Tables==
+
+===Wild Encounters===
+
+{| class="wikitable"
+|-
+! Wild Pokémon !! colspan=2|Trainers
+|-
+! Encounter !! Trainer !! Pokémon Team
+|-
+| [[File:Machop.png|40px]] Machop || rowspan=2|[[File:Team_Flare_Grunt_(male).png|40px]] Team Flare Grunt || rowspan=2|[[File:Machop.png|40px]]Machop, [[File:Zubat.png|40px]]Zubat
+|-
+| [[File:Cubone.png|40px]] Cubone
+|-
+| [[File:Rhyhorn.png|40px]] Rhyhorn || rowspan=3|[[File:Team_Flare_Grunt_(female).png|40px]] Team Flare Grunt || rowspan=3|[[File:Gulpin.png|40px]]Gulpin, [[File:Electrike.png|40px]]Electrike
+|-
+| [[File:Lunatone.png|40px]] Lunatone
+|-
+| [[File:Solrock.png|40px]] Solrock
+|}
+
+
+===Boss Encounters===
+
+{| class="wikitable"
+|-
+! Wild Pokémon !! Base Health !! Boss Trainer !! Pokémon Team !! Base Health
+|-
+| [[File:Mawile.png|40px]] Mawile || &lt;center&gt;61,285,398 ||rowspan=2|[[File:Team_Flare_Grunt_Duo.png|40px]] Team Flare Grunt Duo || [[File:Scraggy.png|40px]] Scraggy || &lt;center&gt; 33,084,827
+|-
+| [[File:Kangaskhan.png|40px]] Kangaskhan || &lt;center&gt;63,749,659 || [[File:Croagunk.png|40px]] Croagunk || &lt;center&gt; 31,937,395
+|}
+
+==Items==
+
+{| class="wikitable"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears !! Requirememt
+|-
+|{{Bag2|xClick}}||4||49.76%||48.94%||45.24%||rowspan=13|&lt;center&gt;N/A
+|-
+|{{Bag2|xAttack}}||4||49.76%||48.94%||45.24%
+|-
+|{{Bag2|Hard Stone}}||2||0.22%||0.31%||1.33%
+|-
+|{{Bag2|Revive}}||2||0.22%||0.31%||1.33%
+|-
+|{{Bag2|Old Amber}}||0.5||0.00%||0.14%||0.66%
+|-
+|{{Bag2|Skull Fossil}}||0.5||0.00%||0.14%||0.66%
+|-
+|{{Bag2|Armor Fossil}}||0.5||0.00%||0.14%||0.66%
+|-
+|{{Bag2|Dome Fossil}}||0.5||0.00%||0.14%||0.66%
+|-
+|{{Bag2|Helix Fossil}}||0.5||0.00%||0.14%||0.66%
+|-
+|{{Bag2|Cover Fossil}}||0.5||0.00%||0.14%||0.66%
+|-
+|{{Bag2|Plume Fossil}}||0.5||0.00%||0.14%||0.66%
+|-
+|{{Bag2|Claw Fossil}}||0.5||0.00%||0.14%||0.66%
+|-
+|{{Bag2|Root Fossil}}||0.5||0.00%||0.14%||0.66%
+|-
+|{{Bag2|Jaw Fossil}}||0||0.00%||0.10%||0.44%|| &lt;center&gt;Clear 100 Times
+|-
+|{{Bag2|Sail Fossil}}||0||0.00%||0.10%||0.44%|| &lt;center&gt;Clear 100 Times
+|}
+
+{{Kalos Dungeons}}
+
+[[Category:Dungeons]]</text>
+    <contributor>
+      <username>Slk</username>
+      <id>6</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>12182</parentid>
+    <sha1>8ba235bb45659823f98364110ffea6d37816e43d</sha1>
+  </revision>
+</page>

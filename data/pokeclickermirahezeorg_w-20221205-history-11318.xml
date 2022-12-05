@@ -1,0 +1,59 @@
+<page>
+  <title>Pecha</title>
+  <ns>0</ns>
+  <id>467</id>
+  <revision>
+    <id>6303</id>
+    <timestamp>2021-01-04T02:50:42Z</timestamp>
+    <text bytes="1154" space="preserve">{{Infobox Berry
+|name    = #03 Pecha
+|image   = [[File:Pecha.png]]
+|caption = Because of its hollow inside pocket, there isn't a lot to eat. What can be eaten is very sweet and delicious.
+|growtime  = 60s
+|harvest = 4 berries
+|replant = 50%
+|points = 7
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 spicy 
+*0 dry
+*10 sweet
+*0 bitter
+*0 sour
+}}
+
+'''Pecha''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]] to obtain [[Farming Points|Farm Points]]. It can be obtained as a random drop by defeating wild Pokémon on routes.
+
+{| class="wikitable"
+|+ Growth Stages
+!!! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 10 secs || 35 secs || 50 secs || 1 min - 2 mins
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:PechaTreeTaller.png|50px]] || &lt;center&gt; [[File:PechaTreeBloom.png|50px]] || &lt;center&gt;[[File:PechaTreeBerry.png|50px]]
+|}
+
+{| class="wikitable collapsible" | style="text-align: center;"
+|+ Ripening Time with Modifiers
+! Modifier !! Ripe-Wither Time
+|-
+! None
+| 1 min -&lt;br&gt; 2 mins
+|-
+! Sprayduck
+| 40 secs -&lt;br&gt; 1 min 20 secs
+|}
+
+&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+{{Berries}}</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment>Growth Table</comment>
+    <model>wikitext</model>
+    <parentid>6302</parentid>
+    <sha1>d3a2d281b1b10c57c9d4d4f4b4397ecb047c08a5</sha1>
+  </revision>
+</page>

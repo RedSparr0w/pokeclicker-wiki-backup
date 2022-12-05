@@ -1,0 +1,27 @@
+<page>
+  <title>Translations:Battle Frontier/11/en</title>
+  <ns>0</ns>
+  <id>6799</id>
+  <revision>
+    <id>19616</id>
+    <timestamp>2022-07-29T08:07:08Z</timestamp>
+    <text bytes="509" space="preserve">'''Note''': Currency Rewards are not awarded if your Battle Frontier run is Quit. You must lose your attempt normally to gain [[Pokémon Dollars]] {{pdollar}} and [[Battle Points]] {{Battlepoints}}.
+{| class="wikitable"
+|-
+! Currency Reward !! Formula
+|-
+| {{pdollar}} Pokémon Dollars || &lt;math&gt;\text{Stage Beaten}^{2}&lt;/math&gt;
+|-
+| {{Battlepoints}} Battle Points&lt;sup&gt;1&lt;/sup&gt; || &lt;math&gt;\frac{\text{Stage Beaten}^{2}}{100}&lt;/math&gt;
+|}
+&lt;small&gt;&lt;sup&gt;1&lt;/sup&gt;Battle Points are rounded to the nearest whole number&lt;/small&gt;</text>
+    <contributor>
+      <username>FuzzyBot</username>
+      <id>133</id>
+    </contributor>
+    <comment>Importing a new version from external source</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>d5c70042297e7a6469e4d71c5b6690b62831e7bf</sha1>
+  </revision>
+</page>
