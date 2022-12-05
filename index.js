@@ -22,12 +22,10 @@
   inputStream.pipe(xmlsplit).on('data', function(data) {
     let xmlDocument = data.toString();
     const title = (xmlDocument.match(/<title>(.*)<\/title>/) || [,'undefined'])[1];
-    const isRedirectSamePage = new RegExp(`#REDIRECT \\[\\[${title}\\]\\]`, 'i')
 
     if (title.includes('/')) return;
     if (
       titles.has(title)
-      || isRedirectSamePage.test(title)
       || title.includes('File:')
       || title.includes('Talk:')
       || title.includes('Forum:')
@@ -35,6 +33,9 @@
       || title.includes('Message Wall:')
       || title.includes('talk:')
     ) return;
+
+    const isRedirectSamePage = new RegExp(`#REDIRECT \\[\\[${title}\\]\\]`, 'i')
+    if (isRedirectSamePage.test(title)) return;
 
     titles.add(title);
     xmlDocument = `${xmlDocument.substring(0, xmlDocument.indexOf('<siteinfo>') - 3)}${xmlDocument.substring(xmlDocument.indexOf('</siteinfo>') + 12)}`
