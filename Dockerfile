@@ -1,5 +1,5 @@
 FROM python:3.10-alpine
-RUN apk add --update git nano openssh
+RUN apk add --update git nano openssh nodejs npm
 RUN pip install --upgrade pip
 
 RUN git clone https://github.com/elsiehupp/wikiteam3.git
