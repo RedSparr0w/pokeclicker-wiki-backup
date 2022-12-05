@@ -10,8 +10,8 @@ if (!files?.length) {
 
 var xmlsplit = new XmlSplit(1, 'page')
 var inputStream = fs.createReadStream(`data-dump/${files[0]}`) // from somewhere
-fs.mkdir('data', { recursive: true }, (err) => {});
-fs.mkdir('data-dump', { recursive: true }, (err) => {});
+fs.mkdir('data', { recursive: true }, console.error);
+fs.mkdir('data-dump', { recursive: true }, console.error);
 const titles = new Set();
 inputStream.pipe(xmlsplit).on('data', function(data) {
   let xmlDocument = data.toString();
