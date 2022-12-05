@@ -8,7 +8,8 @@ const dirCont = fs.readdirSync('data-dump');
 const files = dirCont.filter((filename) => filename.match(/.*\.xml/ig));
 
 if (!files?.length) {
-  return console.error('No XML file found, quiting..');
+  console.error('No XML file found, quiting..');
+  process.exit();
 }
 
 var xmlsplit = new XmlSplit(1, 'page')
