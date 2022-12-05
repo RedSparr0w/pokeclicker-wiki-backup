@@ -15,6 +15,8 @@
 
   console.log('Splitting wiki file..');
 
+  const isRedirectSamePage = new RegExp(`#REDIRECT \\[\\[${title}\\]\\]`, 'i')
+
   var xmlsplit = new XmlSplit(1, 'page')
   var inputStream = fs.createReadStream(`data-dump/${files[0]}`) // from somewhere
   const titles = new Set();
@@ -25,6 +27,7 @@
     if (title.includes('/')) return;
     if (
       titles.has(title)
+      || isRedirectSamePage.test(title)
       || title.includes('File:')
       || title.includes('Talk:')
       || title.includes('Forum:')

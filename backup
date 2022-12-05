@@ -3,6 +3,7 @@
 cd /wikiteam3/wikiteam3
 
 # Delete our old data-dump
+rm /pokeclicker-wiki-backup/data -r
 rm /pokeclicker-wiki-backup/data-dump -r
 # Generate our new data
 dumpgenerator --xmlrevisions --xml --api=https://pokeclicker.miraheze.org/w/api.php --path=/pokeclicker-wiki-backup/data-dump
