@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>143</id>
   <revision>
-    <id>1779</id>
-    <timestamp>2022-07-25T00:20:46Z</timestamp>
-    <text space="preserve" bytes="2533">'''Fossils''' are petrified organic relics that can be unearthed in the [[Underground]]. They may either be traded for [[Gem Plates]] or objects that can be sold for [[Diamonds]], or put into the hatchery to obtain Fossil Pokémon. Fossils generally can only be obtained upon reaching the region the Pokémon they yield can be found in. However, by utilizing the Daily Deals of the Underground fossils may be obtained (but not bred) in earlier regions.
+    <id>32199</id>
+    <timestamp>2022-12-06T21:16:51Z</timestamp>
+    <text space="preserve" bytes="3037">'''Fossils''' are petrified organic relics that can be unearthed in the [[Underground]]. They may either be traded for [[Gem Plates]] or objects that can be sold for [[Diamonds]], or put into the hatchery to obtain Fossil Pokémon. Fossils generally can only be obtained upon reaching the region the Pokémon they yield can be found in. However, by utilizing the Daily Deals of the Underground fossils may be obtained (but not bred) in earlier regions.
 
 =Released=
 
@@ -35,92 +35,25 @@
 | rowspan = 2 | [[Kalos]] || [[File:Jaw_Fossil.png|50px]]&lt;br /&gt;[[Jaw_Fossil|Jaw]] || [[File:JawFossilMine.png|100px]] || [[File:Tyrunt.png|40px]] Tyrunt
 |-
 | [[File:Sail_Fossil.png|50px]]&lt;br /&gt;[[Sail_Fossil|Sail]] || [[File:SailFossilMine.png|100px]] || [[File:Amaura.png|40px]] Amaura
+|-
+| rowspan = 4 | [[Galar]] || [[File:Fossilized_Drake.png|50px]]&lt;br /&gt;[[Fossilized Drake]] || [[File:FossilizedDrakeMine.png|100px]] || [[File:Dracozolt.png|40px]] Dracozolt&lt;br /&gt; [[File:Dracovish.png|40px]] Dracovish
+|-
+| [[File:Fossilized_Dino.png|50px]]&lt;br /&gt;[[Fossilized Dino]] || [[File:FossilizedDinoMine.png|100px]] || [[File:Arctozolt.png|40px]] Arctozolt&lt;br /&gt; [[File:Arctovish.png|40px]] Arctovish
+|-
+| [[File:Fossilized_Bird.png|50px]]&lt;br /&gt;[[Fossilized Bird]] || [[File:FossilizedBirdMine.png|100px]] || [[File:Dracozolt.png|40px]] Dracozolt&lt;br /&gt; [[File:Arctozolt.png|40px]] Arctozolt
+|-
+| [[File:Fossilized_Fish.png|50px]]&lt;br /&gt;[[Fossilized Fish]] || [[File:FossilizedFishMine.png|100px]] || [[File:Dracovish.png|40px]] Dracovish&lt;br /&gt; [[File:Arctovish.png|40px]] Arctovish
 |}
-
-=To Be Released=
-
-{| class="wikitable"
-|-
-! Region !! Fossil !! Pokémon
-|-
-| rowspan = 4 | [[Galar]] || Fossilized Drake || Dracozolt, Dracovish
-|-
-| Fossilized Dino || Arctozolt, Arctovish
-|-
-| Fossilized Bird || Dracozolt, Arctozolt
-|-
-| Fossilized Fish || Dracovish, Arctovish
-|}
-
 
 {{Underground Items}}
 [[Category:Pokémon]] [[Category:Fossils]]</text>
     <contributor>
-      <username>ThePantMan</username>
-      <id>8</id>
+      <username>Razorflame</username>
+      <id>9</id>
     </contributor>
-    <comment>/* Added underground list at the bottom */</comment>
+    <comment>/* Released */</comment>
     <model>wikitext</model>
-    <parentid>1778</parentid>
-    <sha1>982f97b6cb2b54c09d8935095c234aa1ed8176c1</sha1>
-  </revision>
-  <revision>
-    <id>1778</id>
-    <timestamp>2022-07-25T00:18:51Z</timestamp>
-    <text space="preserve" bytes="2510">'''Fossils''' are petrified organic relics that can be unearthed in the [[Underground]]. They may either be traded for [[Gem Plates]] or objects that can be sold for [[Diamonds]], or put into the hatchery to obtain Fossil Pokémon. Fossils generally can only be obtained upon reaching the region the Pokémon they yield can be found in. However, by utilizing the Daily Deals of the Underground fossils may be obtained (but not bred) in earlier regions.
-
-=Released=
-
-{| class="wikitable"
-|-
-! Region !! Fossil !! Mine layout !! Pokémon
-|-
-| rowspan = 3 | [[Kanto]] || [[File:DomeFossil.png|50px]]&lt;br /&gt;[[Dome_Fossil|Dome]] || [[File:DomeFossilMine.png|100px]] || [[File:Kabuto.png|40px]] Kabuto
-|-
-| [[File:HelixFossil.png|50px]]&lt;br /&gt;[[Helix_Fossil|Helix]] || [[File:HelixFossilMine.png|100px]] || [[File:Omanyte.png|40px]] Omanyte
-|-
-| [[File:OldAmber.png|50px]]&lt;br /&gt;[[Old_Amber|Old Amber]] || [[File:OldAmberMine.png|100px]] || [[File:Aerodactyl.png|40px]] Aerodactyl
-|-
-| rowspan = 2 | [[Hoenn]] || [[File:RootFossil.png|50px]]&lt;br /&gt;[[Root_Fossil|Root]] || [[File:RootFossilMine.png|100px]] || [[File:Lileep.png|40px]] Lileep
-|-
-| [[File:ClawFossil.png|50px]]&lt;br /&gt;[[Claw_Fossil|Claw]] || [[File:ClawFossilMine.png|100px]] || [[File:Anorith.png|40px]] Anorith
-|-
-| rowspan = 2 | [[Sinnoh]] || [[File:SkullFossil.png|50px]]&lt;br /&gt;[[Skull_Fossil|Skull]] || [[File:SkullFossilMine.png|100px]] || [[File:Cranidos.png|40px]] Cranidos
-|-
-| [[File:ArmorFossil.png|50px]]&lt;br /&gt;[[Armor_Fossil|Armor]] || [[File:ArmorFossilMine.png|100px]] || [[File:Shieldon.png|40px]] Shieldon
-|-
-| rowspan = 2 | [[Unova]] || [[File:Plume_Fossil.png|50px]]&lt;br /&gt;[[Plume_Fossil|Plume]] || [[File:PlumeFossilMine 0-7-3.png|100px]] || [[File:Archen.png|40px]] Archen
-|-
-| [[File:Cover_Fossil.png|50px]]&lt;br /&gt;[[Cover_Fossil|Cover]] || [[File:CoverFossilMine 0-7-3.png|100px]] || [[File:Tirtouga.png|40px]] Tirtouga
-|-
-| rowspan = 2 | [[Kalos]] || [[File:Jaw_Fossil.png|50px]]&lt;br /&gt;[[Jaw_Fossil|Jaw]] || [[File:JawFossilMine.png|100px]] || [[File:Tyrunt.png|40px]] Tyrunt
-|-
-| [[File:Sail_Fossil.png|50px]]&lt;br /&gt;[[Sail_Fossil|Sail]] || [[File:SailFossilMine.png|100px]] || [[File:Amaura.png|40px]] Amaura
-|}
-
-=To Be Released=
-
-{| class="wikitable"
-|-
-! Region !! Fossil !! Pokémon
-|-
-| rowspan = 4 | [[Galar]] || Fossilized Drake || Dracozolt, Dracovish
-|-
-| Fossilized Dino || Arctozolt, Arctovish
-|-
-| Fossilized Bird || Dracozolt, Arctozolt
-|-
-| Fossilized Fish || Dracovish, Arctovish
-|}
-
-[[Category:Pokémon]] [[Category:Fossils]]</text>
-    <contributor>
-      <username>ThePantMan</username>
-      <id>8</id>
-    </contributor>
-    <comment>/* Released - removed Dungeon loot */</comment>
-    <model>wikitext</model>
-    <parentid>1777</parentid>
-    <sha1>d75cee12e32e5cd8460e146f615f796882c7758d</sha1>
+    <parentid>32198</parentid>
+    <sha1>786f888e4267f508030963e718db80ce8230558b</sha1>
   </revision>
 </page></mediawiki>

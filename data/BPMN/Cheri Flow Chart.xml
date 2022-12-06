@@ -41,42 +41,4 @@
     <parentid>31808</parentid>
     <sha1>e948544ee4eac689e5eefa1ffa708ad5a6f36890</sha1>
   </revision>
-  <revision>
-    <id>31808</id>
-    <timestamp>2022-12-06T01:33:59Z</timestamp>
-    <text space="preserve" bytes="1509">&lt;?xml version="1.0" encoding="UTF-8"?&gt;
-&lt;bpmn:definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:bpmn="http://www.omg.org/spec/BPMN/20100524/MODEL" xmlns:bpmndi="http://www.omg.org/spec/BPMN/20100524/DI" xmlns:dc="http://www.omg.org/spec/DD/20100524/DC" xmlns:di="http://www.omg.org/spec/DD/20100524/DI" id="Definitions_1" targetNamespace="http://bpmn.io/schema/bpmn"&gt;
-  &lt;bpmn:process id="Process_1" isExecutable="false"&gt;
-    &lt;bpmn:task id="Task_12zdqed" name="Random Drop"&gt;
-      &lt;bpmn:outgoing&gt;SequenceFlow_0po6nro&lt;/bpmn:outgoing&gt;
-    &lt;/bpmn:task&gt;
-    &lt;bpmn:task id="Task_03725ml" name="Cheri [[Cheri]]"&gt;
-      &lt;bpmn:incoming&gt;SequenceFlow_0po6nro&lt;/bpmn:incoming&gt;
-    &lt;/bpmn:task&gt;
-    &lt;bpmn:sequenceFlow id="SequenceFlow_0po6nro" sourceRef="Task_12zdqed" targetRef="Task_03725ml" /&gt;
-  &lt;/bpmn:process&gt;
-  &lt;bpmndi:BPMNDiagram id="BPMNDiagram_1"&gt;
-    &lt;bpmndi:BPMNPlane id="BPMNPlane_1" bpmnElement="Process_1"&gt;
-      &lt;bpmndi:BPMNShape id="Task_12zdqed_di" bpmnElement="Task_12zdqed"&gt;
-        &lt;dc:Bounds x="390" y="70" width="100" height="80" /&gt;
-      &lt;/bpmndi:BPMNShape&gt;
-      &lt;bpmndi:BPMNShape id="Task_03725ml_di" bpmnElement="Task_03725ml"&gt;
-        &lt;dc:Bounds x="390" y="210" width="100" height="80" /&gt;
-      &lt;/bpmndi:BPMNShape&gt;
-      &lt;bpmndi:BPMNEdge id="SequenceFlow_0po6nro_di" bpmnElement="SequenceFlow_0po6nro"&gt;
-        &lt;di:waypoint x="440" y="150" /&gt;
-        &lt;di:waypoint x="440" y="210" /&gt;
-      &lt;/bpmndi:BPMNEdge&gt;
-    &lt;/bpmndi:BPMNPlane&gt;
-  &lt;/bpmndi:BPMNDiagram&gt;
-&lt;/bpmn:definitions&gt;</text>
-    <contributor>
-      <username>Jk13</username>
-      <id>14</id>
-    </contributor>
-    <comment>test BPMN</comment>
-    <model>flexdiagrams-bpmn</model>
-    <parentid>0</parentid>
-    <sha1>deed2de6f1071d5ebbbe5617711e4adacf265de9</sha1>
-  </revision>
 </page></mediawiki>
