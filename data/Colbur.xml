@@ -4,8 +4,8 @@
   <ns>0</ns>
   <id>599</id>
   <revision>
-    <id>25168</id>
-    <timestamp>2022-12-03T19:57:28Z</timestamp>
+    <id>31042</id>
+    <timestamp>2022-12-05T14:28:54Z</timestamp>
     <text space="preserve" bytes="5034">&lt;languages/&gt;
 &lt;translate&gt;
 &lt;!--T:1--&gt;
@@ -29,7 +29,8 @@
 &lt;!--T:2--&gt;
 '''Colbur''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by surrounding an empty plot with at least 1 [[Rabuta]], at least 1 [[Kasib]] and at least 1 [[Payapa]]. It has the unique effect of preventing the mutation of new Kasib berries.
 
-== Growth Tables == &lt;!--T:3--&gt;
+&lt;!--T:3--&gt;
+== Growth Tables ==
 === Growth Stages ===
 {| class="wikitable" | style = "image-rendering: pixelated"
 ! !! Sprout !! Taller !! Bloom !! Berry
@@ -44,7 +45,8 @@
 | colspan=3|&lt;center&gt; N/A || &lt;center&gt; 0.04%
 |}
 
-=== Ripening Time with Modifiers  === &lt;!--T:4--&gt;
+&lt;!--T:4--&gt;
+=== Ripening Time with Modifiers  ===
 {| class="wikitable" | style="text-align: center;"
 ! Modifier !! Ripe-Wither Time !! Boost Mulch Needed to Ripen
 |-
@@ -58,11 +60,13 @@
 | 3 hours 20 mins -&lt;br&gt; 6 hours 40 mins || 40 mulch
 |}
 
-== Flow Chart == &lt;!--T:5--&gt;
+&lt;!--T:5--&gt;
+== Flow Chart ==
 [[File:Colbur_Flow_Chart.png|750px]]
 &lt;br&gt;
 
-== Mutation Strategy == &lt;!--T:6--&gt;
+&lt;!--T:6--&gt;
+== Mutation Strategy ==
 === Possible Planting Formations ===
 
 &lt;!--T:7--&gt;
@@ -83,7 +87,8 @@ You can fill your farm in the following way to obtain Colbur berries. Purple squ
 | [[File:Kasib.png|30px]] [[Kasib]] || [[File:Payapa.png|30px]] [[Payapa]] || style="background-color:#9C7D98;" | || [[File:Kasib.png|30px]] [[Kasib]] || [[File:Payapa.png|30px]] [[Payapa]] 
 |}
 
-=== Timing Table === &lt;!--T:9--&gt;
+&lt;!--T:9--&gt;
+=== Timing Table ===
 {| class="wikitable"| style="text-align: center;"
 |+ ''All planting times use the time-to-ripe remaining of the first planted berry for subsequent planting times''
 ! Berry !! Planting Time with &lt;br&gt; No Modifier !! Planting Time with &lt;br&gt; Mulch or Sprayduck || Planting Time with &lt;br&gt;  Mulch &amp; Sprayduck
@@ -95,10 +100,12 @@ You can fill your farm in the following way to obtain Colbur berries. Purple squ
 | [[Kasib]] || 5 mins until ripe || 3 mins 20 secs until ripe || 2 mins 13 secs 
 |}
 
-=== Important Notes === &lt;!--T:10--&gt;
+&lt;!--T:10--&gt;
+=== Important Notes ===
 [[Kasib]] berries will speed up the wither rates of all [[Rabuta]] and [[Payapa]] berries on the farm. The amount of time that Boost Mulch and the Sprayduck are active on the former two berries should be minimized to prevent excessive withering by the Kasib berry. However, the long wither times of both Rabuta and Payapa should prevent this potential Kasib withering increase from being an issue.
 
-==Uses== &lt;!--T:11--&gt;
+&lt;!--T:11--&gt;
+==Uses==
 Can be planted to prevent the creation of Kasibs when other berries whither on the farm.
 
 ===Mutations=== &lt;!--T:12--&gt;
@@ -128,9 +135,9 @@ Colbur berries can be used to mutate the following berries.
       <username>DraKay</username>
       <id>18</id>
     </contributor>
-    <comment></comment>
+    <comment>Marked this version for translation</comment>
     <model>wikitext</model>
-    <parentid>7076</parentid>
-    <sha1>d7c9d26723604dfddc9349253de584706dd151df</sha1>
+    <parentid>25168</parentid>
+    <sha1>efb90d991a57985a493efd68ba899a04fdee534b</sha1>
   </revision>
 </page></mediawiki>

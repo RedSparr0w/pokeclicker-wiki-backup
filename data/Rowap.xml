@@ -4,8 +4,8 @@
   <ns>0</ns>
   <id>730</id>
   <revision>
-    <id>25174</id>
-    <timestamp>2022-12-03T20:01:35Z</timestamp>
+    <id>30397</id>
+    <timestamp>2022-12-05T14:20:41Z</timestamp>
     <text space="preserve" bytes="3186">&lt;languages/&gt;
 &lt;translate&gt;
 &lt;!--T:1--&gt;
@@ -29,7 +29,8 @@
 &lt;!--T:2--&gt;
 '''Rowap''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by having at least one empty plot and at least 600 points of sour on the field. The [[Belue]] must be unlocked to unlock this berry.
 
-== Growth Tables == &lt;!--T:3--&gt;
+&lt;!--T:3--&gt;
+== Growth Tables ==
 === Growth Stages ===
 {| class="wikitable" | style = "image-rendering: pixelated"
 !!! Sprout !! Taller !! Bloom !! Berry
@@ -44,7 +45,8 @@
 | &lt;center&gt;N/A || &lt;center&gt; x1.005 || &lt;center&gt; x1.01 || &lt;center&gt; x1.015
 |}
 
-=== Ripening Time with Modifiers  === &lt;!--T:4--&gt;
+&lt;!--T:4--&gt;
+=== Ripening Time with Modifiers  ===
 {| class="wikitable" | style="text-align: center;"
 ! Modifier !! Ripe-Wither Time !! Boost Mulch Needed to Ripen
 |-
@@ -58,11 +60,13 @@
 | 2 hours 37 mins 20 secs -&lt;br&gt; 5 hours 14 mins 40 secs || 32 mulch
 |}
 
-== Flow Chart == &lt;!--T:5--&gt;
+&lt;!--T:5--&gt;
+== Flow Chart ==
 [[File:Rowap_Flow_Chart.png|250px]]
 &lt;br&gt;
 
-== Mutation Strategy == &lt;!--T:6--&gt;
+&lt;!--T:6--&gt;
+== Mutation Strategy ==
 === Possible Planting Formations ===
 
 &lt;!--T:7--&gt;
@@ -96,9 +100,9 @@ You can fill your farm in the following way to obtain Rowap berries. Purple squa
       <username>DraKay</username>
       <id>18</id>
     </contributor>
-    <comment></comment>
+    <comment>Marked this version for translation</comment>
     <model>wikitext</model>
-    <parentid>7778</parentid>
-    <sha1>2ff506093b5dd4e523e6a7dd56c2ad56cbeaf487</sha1>
+    <parentid>25174</parentid>
+    <sha1>7a717748e9aaa8dc45995688003f9f87dbc76f20</sha1>
   </revision>
 </page></mediawiki>

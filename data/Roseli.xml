@@ -4,8 +4,8 @@
   <ns>0</ns>
   <id>629</id>
   <revision>
-    <id>25171</id>
-    <timestamp>2022-12-03T19:58:26Z</timestamp>
+    <id>30409</id>
+    <timestamp>2022-12-05T14:20:53Z</timestamp>
     <text space="preserve" bytes="4936">&lt;languages/&gt;
 &lt;translate&gt;
 &lt;!--T:1--&gt;
@@ -29,7 +29,8 @@
 &lt;!--T:2--&gt;
 '''Roseli''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by surrounding an empty plot with at least 1 [[Mago]], at least 1 [[Nanab]], at least 1 [[Magost]] and at least 1 [[Watmel]]. It emits an aura that increases the chance of encountering a wandering Pokémon.
 
-== Growth Tables == &lt;!--T:3--&gt;
+&lt;!--T:3--&gt;
+== Growth Tables ==
 === Growth Stages ===
 {| class="wikitable" | style = "image-rendering: pixelated"
 ! !! Sprout !! Taller !! Bloom !! Berry
@@ -44,7 +45,8 @@
 | || &lt;center&gt; x1.01 || &lt;center&gt; x1.02 || &lt;center&gt;x1.03
 |}
 
-=== Ripening Time with Modifiers  === &lt;!--T:4--&gt;
+&lt;!--T:4--&gt;
+=== Ripening Time with Modifiers  ===
 {| class="wikitable" | style="text-align: center;"
 ! Modifier !! Ripe-Wither Time !! Boost Mulch Needed to Ripen
 |-
@@ -58,11 +60,13 @@
 | 3 hours 7 mins -&lt;br&gt; 6 hours 14 mins || 47 mulch
 |}
 
-== Flow Chart == &lt;!--T:5--&gt;
+&lt;!--T:5--&gt;
+== Flow Chart ==
 [[File:Roseli_Flow_Chart.png|350px]]
 &lt;br&gt;
 
-== Mutation Strategy == &lt;!--T:6--&gt;
+&lt;!--T:6--&gt;
+== Mutation Strategy ==
 === Possible Planting Formations ===
 
 &lt;!--T:7--&gt;
@@ -86,7 +90,8 @@ You can fill your farm in the following way to obtain Roseli berries. Purple squ
 | [[File:Watmel.png|30px]] [[Watmel]] || style="background-color:#9C7D98;" | || [[File:Nanab.png|30px]] [[Nanab]] || style="background-color:#9C7D98;" | || [[File:Watmel.png|30px]] [[Watmel]]
 |}
 
-=== Timing Table === &lt;!--T:10--&gt;
+&lt;!--T:10--&gt;
+=== Timing Table ===
 {| class="wikitable"| style="text-align: center;"
 |+ ''All planting times use the time-to-ripe remaining of the first planted berry for subsequent planting times''
 ! Berry !! Planting Time with &lt;br&gt; No Modifier !! Planting Time with &lt;br&gt; Mulch or Sprayduck || Planting Time with &lt;br&gt;  Mulch &amp; Sprayduck
@@ -101,7 +106,8 @@ You can fill your farm in the following way to obtain Roseli berries. Purple squ
 |-
 |}
 
-==Uses== &lt;!--T:11--&gt;
+&lt;!--T:11--&gt;
+==Uses==
 ===Mutations===
 
 &lt;!--T:12--&gt;
@@ -117,7 +123,8 @@ Roseli berries can be used to mutate the following berries.
 | [[File:Lansat.png|20px]] [[Lansat]] || - 
 |}
 
-==Using Roseli== &lt;!--T:14--&gt;
+&lt;!--T:14--&gt;
+==Using Roseli==
 Farm setups using Roseli can be found here:
 * [[Farming Setups|Various useful Farming Setups]]
 
@@ -134,9 +141,9 @@ Farm setups using Roseli can be found here:
       <username>DraKay</username>
       <id>18</id>
     </contributor>
-    <comment></comment>
+    <comment>Marked this version for translation</comment>
     <model>wikitext</model>
-    <parentid>7268</parentid>
-    <sha1>8e25e15beff9db0f99cd152a9299a6e82914075c</sha1>
+    <parentid>25171</parentid>
+    <sha1>108651e14a50e6a50d3b2879cc072b3e8e257491</sha1>
   </revision>
 </page></mediawiki>

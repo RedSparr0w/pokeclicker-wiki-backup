@@ -4,8 +4,8 @@
   <ns>0</ns>
   <id>729</id>
   <revision>
-    <id>25173</id>
-    <timestamp>2022-12-03T20:01:11Z</timestamp>
+    <id>30854</id>
+    <timestamp>2022-12-05T14:26:53Z</timestamp>
     <text space="preserve" bytes="3340">&lt;languages/&gt;
 &lt;translate&gt;
 &lt;!--T:1--&gt;
@@ -29,7 +29,8 @@
 &lt;!--T:2--&gt;
 '''Jaboca''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by having at least one empty plot and at least 600 points of bitter on the field. The [[Durin]] must be unlocked to unlock this berry. Various [[Farming Setups]] using Jaboca can be found [[Farming Setups#Roaming Pokemon Farm Setup|here]].
 
-== Growth Tables == &lt;!--T:3--&gt;
+&lt;!--T:3--&gt;
+== Growth Tables ==
 === Growth Stages ===
 {| class="wikitable" | style = "image-rendering: pixelated"
 ! !! Sprout !! Taller !! Bloom !! Berry
@@ -44,7 +45,8 @@
 | || &lt;center&gt; x1.005 || &lt;center&gt; x1.01 || &lt;center&gt; x1.015
 |}
 
-=== Ripening Time with Modifiers  === &lt;!--T:4--&gt;
+&lt;!--T:4--&gt;
+=== Ripening Time with Modifiers  ===
 {| class="wikitable" | style="text-align: center;"
 ! Modifier !! Ripe-Wither Time !! Boost Mulch Needed to Ripen
 |-
@@ -58,11 +60,13 @@
 | 4 hours 8 mins -&lt;br&gt; 8 hours 16 mins || 50 mulch
 |}
 
-== Flow Chart == &lt;!--T:5--&gt;
+&lt;!--T:5--&gt;
+== Flow Chart ==
 [[File:Jaboca_Flow_Chart.png|250px]]
 &lt;br&gt;
 
-== Mutation Strategy == &lt;!--T:6--&gt;
+&lt;!--T:6--&gt;
+== Mutation Strategy ==
 === Possible Planting Formations ===
 
 &lt;!--T:7--&gt;
@@ -96,9 +100,9 @@ You can fill your farm in the following way to obtain Jaboca berries. Purple squ
       <username>DraKay</username>
       <id>18</id>
     </contributor>
-    <comment></comment>
+    <comment>Marked this version for translation</comment>
     <model>wikitext</model>
-    <parentid>7758</parentid>
-    <sha1>01c1999ad3bc23c44e826f40e3d368339c575841</sha1>
+    <parentid>25173</parentid>
+    <sha1>9b9af7c7848fe233fef49f98b5510db1a294defb</sha1>
   </revision>
 </page></mediawiki>

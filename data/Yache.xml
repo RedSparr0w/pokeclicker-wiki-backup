@@ -4,8 +4,8 @@
   <ns>0</ns>
   <id>762</id>
   <revision>
-    <id>25157</id>
-    <timestamp>2022-12-03T19:51:00Z</timestamp>
+    <id>30250</id>
+    <timestamp>2022-12-05T14:16:51Z</timestamp>
     <text space="preserve" bytes="3953">&lt;languages/&gt;
 &lt;translate&gt;
 &lt;!--T:1--&gt;
@@ -29,7 +29,8 @@
 &lt;!--T:2--&gt;
 '''Yache''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by surrounding a [[Passho]] with all empty plots. The Passho will then have a chance to mutate into this berry.
 
-== Growth Tables == &lt;!--T:3--&gt;
+&lt;!--T:3--&gt;
+== Growth Tables ==
 === Growth Stages ===
 {| class="wikitable" | style = "image-rendering: pixelated"
 ! !! Sprout !! Taller !! Bloom !! Berry
@@ -44,7 +45,8 @@
 | || &lt;center&gt; x0.9 || &lt;center&gt; x0.8 || &lt;center&gt; x0.7
 |}
 
-=== Ripening Time with Modifiers  === &lt;!--T:4--&gt;
+&lt;!--T:4--&gt;
+=== Ripening Time with Modifiers  ===
 {| class="wikitable" | style="text-align: center;"
 ! Modifier !! Ripe-Wither Time !! Boost Mulch Needed to Ripen
 |-
@@ -58,11 +60,13 @@
 | 5 hours 20 mins -&lt;br&gt; 10 hours 40 mins || 64 mulch
 |}
 
-== Flow Chart == &lt;!--T:5--&gt;
+&lt;!--T:5--&gt;
+== Flow Chart ==
 [[File:Yache_Flow_Chart.png|350px]]
 &lt;br&gt;
 
-== Mutation Strategy == &lt;!--T:6--&gt;
+&lt;!--T:6--&gt;
+== Mutation Strategy ==
 === Possible Planting Formations ===
 
 &lt;!--T:7--&gt;
@@ -83,7 +87,8 @@ You can fill your farm in the following way to obtain Yache berries. Purple squa
 | style="background-color:#9C7D98;" | [[File:Passho.png|30px]] '''[[Passho]]''' || || style="background-color:#9C7D98;" | [[File:Passho.png|30px]] '''[[Passho]]''' || || style="background-color:#9C7D98;" | [[File:Passho.png|30px]] '''[[Passho]]'''
 |}
 
-==Uses== &lt;!--T:9--&gt;
+&lt;!--T:9--&gt;
+==Uses==
 ===Mutations===
 
 &lt;!--T:10--&gt;
@@ -98,7 +103,8 @@ Yache berries can be used to mutate the following berries.
 |-
 |}
 
-==Using Yache== &lt;!--T:12--&gt;
+&lt;!--T:12--&gt;
+==Using Yache==
 Farm setups using Yache can be found here:
 * [[Pokémon_Day_Care|Maximizing Egg step gain for Breeding Pokemon faster]] 
 
@@ -115,9 +121,9 @@ Farm setups using Yache can be found here:
       <username>DraKay</username>
       <id>18</id>
     </contributor>
-    <comment></comment>
+    <comment>Marked this version for translation</comment>
     <model>wikitext</model>
-    <parentid>7891</parentid>
-    <sha1>fbcdac2bcd022c8a4a7a4b4c689aaa6322e553d8</sha1>
+    <parentid>25157</parentid>
+    <sha1>28fe7c33311a6ae0b2b09c895f5ff0fd51811e1a</sha1>
   </revision>
 </page></mediawiki>

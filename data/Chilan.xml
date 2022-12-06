@@ -4,8 +4,8 @@
   <ns>0</ns>
   <id>765</id>
   <revision>
-    <id>25170</id>
-    <timestamp>2022-12-03T19:58:10Z</timestamp>
+    <id>31102</id>
+    <timestamp>2022-12-05T14:29:32Z</timestamp>
     <text space="preserve" bytes="4361">&lt;languages/&gt;
 &lt;translate&gt;
 &lt;!--T:1--&gt;
@@ -29,7 +29,8 @@
 &lt;!--T:2--&gt;
 '''Chilan''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by surrounding a [[Chople]] with at least 3 other Chople berries. The surrounded Chople will then have a chance to mutate into this berry.
 
-== Growth Tables == &lt;!--T:3--&gt;
+&lt;!--T:3--&gt;
+== Growth Tables ==
 === Growth Stages ===
 {| class="wikitable" | style = "image-rendering: pixelated"
 ! !! Sprout !! Taller !! Bloom !! Berry
@@ -41,7 +42,8 @@
 | &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:ChilanTreeTaller.png|50px]] || &lt;center&gt; [[File:ChilanTreeBloom.png|50px]] || &lt;center&gt; [[File:ChilanTreeBerry.png|50px]]
 |}
 
-=== Ripening Time with Modifiers  === &lt;!--T:4--&gt;
+&lt;!--T:4--&gt;
+=== Ripening Time with Modifiers  ===
 {| class="wikitable" | style="text-align: center;"
 ! Modifier !! Ripe-Wither Time !! Boost Mulch Needed to Ripen
 |-
@@ -55,11 +57,13 @@
 | 53 mins 20 secs -&lt;br&gt; 1 hour 46 mins 30 secs || 11 mulch
 |}
 
-== Flow Chart == &lt;!--T:5--&gt;
+&lt;!--T:5--&gt;
+== Flow Chart ==
 [[File:Chilan_Flow_Chart.png|350px]]
 &lt;br&gt;
 
-== Mutation Strategy == &lt;!--T:6--&gt;
+&lt;!--T:6--&gt;
+== Mutation Strategy ==
 === Possible Planting Formations ===
 
 &lt;!--T:7--&gt;
@@ -80,7 +84,8 @@ You can fill your farm in the following way to obtain Chilan berries. Purple squ
 | [[File:Chople.png|30px]]&lt;br&gt;'''[[Chople]]''' || [[File:Chople.png|30px]]&lt;br&gt;'''[[Chople]]''' || [[File:Chople.png|30px]]&lt;br&gt;'''[[Chople]]''' || [[File:Chople.png|30px]]&lt;br&gt;'''[[Chople]]''' || [[File:Chople.png|30px]]&lt;br&gt;'''[[Chople]]'''
 |}
 
-==Uses== &lt;!--T:9--&gt;
+&lt;!--T:9--&gt;
+==Uses==
 ===Mutations===
 
 &lt;!--T:10--&gt;
@@ -110,9 +115,9 @@ Chilan berries can be used to mutate the following berries.
       <username>DraKay</username>
       <id>18</id>
     </contributor>
-    <comment></comment>
+    <comment>Marked this version for translation</comment>
     <model>wikitext</model>
-    <parentid>7960</parentid>
-    <sha1>adc09e33f193f491c0a9bd7572a7083a965b4a67</sha1>
+    <parentid>25170</parentid>
+    <sha1>36a964b89f1ad0c6f6f91521c630f3f945f07130</sha1>
   </revision>
 </page></mediawiki>

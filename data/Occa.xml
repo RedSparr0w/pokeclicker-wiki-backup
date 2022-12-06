@@ -4,8 +4,8 @@
   <ns>0</ns>
   <id>624</id>
   <revision>
-    <id>25153</id>
-    <timestamp>2022-12-03T19:45:51Z</timestamp>
+    <id>30684</id>
+    <timestamp>2022-12-05T14:23:31Z</timestamp>
     <text space="preserve" bytes="5404">&lt;languages/&gt;
 &lt;translate&gt;
 &lt;!--T:1--&gt;
@@ -29,7 +29,8 @@
 &lt;!--T:2--&gt;
 '''Occa''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by surrounding an empty plot with at least 1 [[Razz]], at least 1 [[Figy]], at least 1 [[Tamato]] and at least 1 [[Spelon]]. [[Farming Setups]] using Occa can be found [[Farming Setups#Squirtbottle Leveling Strategies|here]].
 
-== Growth Tables == &lt;!--T:3--&gt;
+&lt;!--T:3--&gt;
+== Growth Tables ==
 === Growth Stages ===
 {| class="wikitable" | style = "image-rendering: pixelated"
 ! !! Sprout !! Taller !! Bloom !! Berry
@@ -44,7 +45,8 @@
 | colspan=3|&lt;center&gt; N/A || &lt;center&gt; 0.04%
 |}
 
-=== Ripening Time with Modifiers  === &lt;!--T:4--&gt;
+&lt;!--T:4--&gt;
+=== Ripening Time with Modifiers  ===
 {| class="wikitable" | style="text-align: center;"
 ! Modifier !! Ripe-Wither Time !! Boost Mulch Needed to Ripen
 |-
@@ -61,7 +63,8 @@
 [[File:Occa_Flow_Chart.png|350px]]
 &lt;br&gt;
 
-== Mutation Strategy == &lt;!--T:5--&gt;
+&lt;!--T:5--&gt;
+== Mutation Strategy ==
 === Possible Planting Formations ===
 '''WARNING:''' Trying to mutate Occa while having the Blaze Cassette equipped will result in your Spelon turning into Chople.&lt;br&gt;
 You can fill your farm in the following way to obtain Occa berries. Purple squares indicate where mutations can occur.
@@ -90,7 +93,8 @@ You can fill your farm in the following way to obtain Occa berries. Purple squar
 | [[File:Razz.png|30px]] [[Razz]] || style="background-color:#9C7D98;" | || [[File:Spelon.png|30px]] [[Spelon]] || style="background-color:#9C7D98;" | || [[File:Razz.png|30px]] [[Razz]]
 |}
 
-=== Timing Table === &lt;!--T:8--&gt;
+&lt;!--T:8--&gt;
+=== Timing Table ===
 {| class="wikitable"| style="text-align: center;"
 |+ ''All planting times use the time-to-ripe remaining of the first planted berry for subsequent planting times''
 ! Berry !! Planting Time with &lt;br&gt; No Modifier !! Planting Time with &lt;br&gt; Mulch or Sprayduck || Planting Time with &lt;br&gt;  Mulch &amp; Sprayduck
@@ -104,7 +108,8 @@ You can fill your farm in the following way to obtain Occa berries. Purple squar
 | [[Razz]] || 4 mins 10 secs until ripe || 2 mins 47 secs until ripe || Not Practical
 |}
 
-==Uses== &lt;!--T:9--&gt;
+&lt;!--T:9--&gt;
+==Uses==
 ===Mutations===
 
 &lt;!--T:10--&gt;
@@ -134,9 +139,9 @@ Occa berries can be used to mutate the following berries.
       <username>DraKay</username>
       <id>18</id>
     </contributor>
-    <comment></comment>
+    <comment>Marked this version for translation</comment>
     <model>wikitext</model>
-    <parentid>7124</parentid>
-    <sha1>00a0439109bf67a0a92810be559a6a90f9df68b5</sha1>
+    <parentid>25153</parentid>
+    <sha1>a8c44769aca6effa1ff3ebcba8030d19259eeae2</sha1>
   </revision>
 </page></mediawiki>

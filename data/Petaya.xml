@@ -4,8 +4,8 @@
   <ns>0</ns>
   <id>793</id>
   <revision>
-    <id>25179</id>
-    <timestamp>2022-12-03T20:03:16Z</timestamp>
+    <id>30612</id>
+    <timestamp>2022-12-05T14:22:39Z</timestamp>
     <text space="preserve" bytes="13458">&lt;languages/&gt;
 &lt;translate&gt;
 &lt;!--T:1--&gt;
@@ -29,7 +29,8 @@
 &lt;!--T:2--&gt;
 '''Petaya''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by having at least one empty plot and at least 1 of every [[Berries#Gen 4 Berries|Gen 4 berry]] on the field.
 
-=== Growth Stages === &lt;!--T:3--&gt;
+&lt;!--T:3--&gt;
+=== Growth Stages ===
 {| class="wikitable" | style = "image-rendering: pixelated"
 ! !! Sprout !! Taller !! Bloom !! Berry
 |-
@@ -43,7 +44,8 @@
 | colspan=3| &lt;center&gt; None || &lt;center&gt; Prevents ripe berries from withering
 |}
 
-==== Ripening Time with Modifiers  ==== &lt;!--T:4--&gt;
+&lt;!--T:4--&gt;
+==== Ripening Time with Modifiers  ====
 {| class="wikitable" | style="text-align: center;"
 ! Modifier !! Ripe-Wither Time !! Boost Mulch Needed to Ripen
 |-
@@ -57,11 +59,13 @@
 | 10 hours 40 mins -&lt;br&gt; 53 hours 20 mins || &lt;center&gt; 128 mulch
 |}
 
-== Flow Chart == &lt;!--T:5--&gt;
+&lt;!--T:5--&gt;
+== Flow Chart ==
 [[File:Petaya_Flow_Chart.png|850px]]
 &lt;br&gt;
 
-=== Mutation Strategy === &lt;!--T:6--&gt;
+&lt;!--T:6--&gt;
+=== Mutation Strategy ===
 ==== Possible Planting Formations ====
 
 &lt;!--T:7--&gt;
@@ -149,7 +153,8 @@ Before you start this process, you need to be prepared to spend around 11 hours 
 &lt;!--T:18--&gt;
 After all 18 berries are ripe, the requirements for Petaya to spawn have been fully met. At this point, immediately switch out your [[Sprayduck]] for the [[Squirtbottle]], if possible, otherwise another [[Oak Item]] if not. It is highly recommended that you make a save here so you don't have to go through the whole setup again in case nothing mutates. Petaya can spawn on any of the seven open plots in your farm. The seven empty plots should all be permanently applied with surprise mulch. Note that even though the [[Kebia]] has the ability to overtake other berries, it can only do so at the taller or later stages, so you will be able to let the mutation keep going if you want to mutate multiple petayas before the [[Wacan]] withers. Specifically, you have 6 hours from time of mutation to remove the [[Kebia]] before it threatens to take over your newly mutated petaya unless it mutates on one of the two edge plots.
 
-===== Petaya with Freeze Mulch (easy mode) ===== &lt;!--T:19--&gt;
+&lt;!--T:19--&gt;
+===== Petaya with Freeze Mulch (easy mode) =====
 Mutating a Petaya with Freeze Mulch makes the entire thing incredibly easy.  What you need to do is plant all the berries simultaneously, as seen in the mutation formation, and then simply apply the appropriate amount of freeze mulch to the berry seeds, such that when the freeze mulch runs out the berry would start growing as if you had just planted it according to the timing table.  Below is a table for how much freeze mulch each berry needs for the timings to be correct.  Kasib and Kebia have such a short growth time (5 and 10 minutes without sprayduck) that it's probably worth just planting them when the rest of the berries are nearly ripe, hence the optional.
 {| class="collapsible wikitable collapsed"| style="text-align: center;"
 ! Berry !! Freeze mulch needed
@@ -197,7 +202,8 @@ Mutating a Petaya with Freeze Mulch makes the entire thing incredibly easy.  Wha
 &lt;!--T:21--&gt;
 The berry that will die first is [[Wacan]] — it will die around 1 hours 25 mins after it ripens. This ''should'' be enough for you to get a Petaya to spawn. If the [[Wacan]] dies before mutation, you will have to replant [[Chilan]], [[Tanga]], and [[Wacan]]. If you start within 38 minutes of [[Wacan]] dying (1 hour 15 minutes with boost mulch), you ''should'' be able to get one more full [[Wacan]] cycle before the [[Coba]] dies and you have to start over. The ability to do this increases overall chance of mutation to 99% or 84.4% without [[Squirtbottle]].
 
-==== Timing Table ==== &lt;!--T:22--&gt;
+&lt;!--T:22--&gt;
+==== Timing Table ====
 {| class="collapsible wikitable"| style="text-align: center;"
 |+ ''All planting times use the time-to-ripe remaining of the first planted berry for subsequent planting times''
 ! Berry !! Planting Time with &lt;br&gt; No Modifier !! Planting Time with &lt;br&gt; Mulch or Sprayduck || Planting Time with &lt;br&gt;  Mulch &amp; Sprayduck
@@ -272,8 +278,9 @@ Petaya berries can be used to mutate the following berries.
 |-
 |}
 
+&lt;!--T:29--&gt;
 &lt;br&gt;
-==Using Petaya== &lt;!--T:29--&gt;
+==Using Petaya==
 Farm setups using Petaya can be found here:
 * [[Pokémon_Day_Care|Maximizing Egg step gain for Breeding Pokemon faster]] 
 * [[Shiny Chance|Maximizing Shiny Chance to turn all Pokemon Shiny]]
@@ -290,9 +297,9 @@ Farm setups using Petaya can be found here:
       <username>DraKay</username>
       <id>18</id>
     </contributor>
-    <comment></comment>
+    <comment>Marked this version for translation</comment>
     <model>wikitext</model>
-    <parentid>8128</parentid>
-    <sha1>284497fcb302e5aa464aad0e41592b97311c5e48</sha1>
+    <parentid>25179</parentid>
+    <sha1>bdf39b6622048a580f246dcef6717d4c207b0a45</sha1>
   </revision>
 </page></mediawiki>

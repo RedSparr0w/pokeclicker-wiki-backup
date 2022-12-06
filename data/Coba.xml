@@ -4,8 +4,8 @@
   <ns>0</ns>
   <id>684</id>
   <revision>
-    <id>25161</id>
-    <timestamp>2022-12-03T19:53:25Z</timestamp>
+    <id>31063</id>
+    <timestamp>2022-12-05T14:29:06Z</timestamp>
     <text space="preserve" bytes="5632">&lt;languages/&gt;
 &lt;translate&gt;
 &lt;!--T:1--&gt;
@@ -29,7 +29,8 @@
 &lt;!--T:2--&gt;
 '''Coba''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by surrounding an empty plot with between 10 and 15 points of dry, between 15 and 20 points of bitter, and 0 points of all other flavors. The [[Chesto]] and [[Aguav]] must be unlocked to unlock this berry.
 
-== Growth Tables == &lt;!--T:3--&gt;
+&lt;!--T:3--&gt;
+== Growth Tables ==
 === Growth Stages ===
 {| class="wikitable" | style = "image-rendering: pixelated"
 ! !! Sprout !! Taller !! Bloom !! Berry
@@ -41,7 +42,8 @@
 | &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:CobaTreeTaller.png|50px]] || &lt;center&gt; [[File:CobaTreeBloom.png|50px]] || &lt;center&gt; [[File:CobaTreeBerry.png|50px]]
 |}
 
-=== Ripening Time with Modifiers  === &lt;!--T:4--&gt;
+&lt;!--T:4--&gt;
+=== Ripening Time with Modifiers  ===
 {| class="wikitable" | style="text-align: center;"
 ! Modifier !! Ripe-Wither Time !! Boost Mulch Needed to Ripen
 |-
@@ -55,11 +57,13 @@
 | 2 hours 26 mins 40 secs -&lt;br&gt; 4 hours 53 mins 20 secs || 30 mulch
 |}
 
-== Flow Chart == &lt;!--T:5--&gt;
+&lt;!--T:5--&gt;
+== Flow Chart ==
 [[File:Coba_Flow_Chart.png|500px]]
 &lt;br&gt;
 
-== Mutation Strategy == &lt;!--T:6--&gt;
+&lt;!--T:6--&gt;
+== Mutation Strategy ==
 === Possible Planting Formations ===
 
 &lt;!--T:7--&gt;
@@ -95,7 +99,8 @@ You can fill your farm in the following ways to obtain Coba berries. Purple squa
 | style="background-color:#9C7D98;" | || [[File:Aguav.png|30px]] [[Aguav]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Aguav.png|30px]] [[Aguav]] 
 |}
 
-=== Timing Table === &lt;!--T:10--&gt;
+&lt;!--T:10--&gt;
+=== Timing Table ===
 {| class="wikitable"| style="text-align: center;"
 |+ ''All planting times use the time-to-ripe remaining of the first planted berry for subsequent planting times''
 ! Berry !! Planting Time with &lt;br&gt; No Modifier !! Planting Time with &lt;br&gt; Mulch or Sprayduck || Planting Time with &lt;br&gt;  Mulch &amp; Sprayduck
@@ -112,7 +117,8 @@ You can fill your farm in the following ways to obtain Coba berries. Purple squa
 |-
 |}
 
-==Uses== &lt;!--T:11--&gt;
+&lt;!--T:11--&gt;
+==Uses==
 ===Mutations===
 
 &lt;!--T:12--&gt;
@@ -144,9 +150,9 @@ Coba berries can be used to mutate the following berries.
       <username>DraKay</username>
       <id>18</id>
     </contributor>
-    <comment></comment>
+    <comment>Marked this version for translation</comment>
     <model>wikitext</model>
-    <parentid>7551</parentid>
-    <sha1>d90a1bad5995d5f59fdcb2512ceadf0ac3eae865</sha1>
+    <parentid>25161</parentid>
+    <sha1>2d77e4feb6fe07cc03a7ee37171f075483056d42</sha1>
   </revision>
 </page></mediawiki>

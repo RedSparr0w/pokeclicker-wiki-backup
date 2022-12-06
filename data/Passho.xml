@@ -4,8 +4,8 @@
   <ns>0</ns>
   <id>625</id>
   <revision>
-    <id>25154</id>
-    <timestamp>2022-12-03T19:48:37Z</timestamp>
+    <id>30664</id>
+    <timestamp>2022-12-05T14:23:10Z</timestamp>
     <text space="preserve" bytes="5645">&lt;languages/&gt;
 &lt;translate&gt;
 &lt;!--T:1--&gt;
@@ -32,7 +32,8 @@
 &lt;!--T:3--&gt;
 When a Passho berry is not surrounded by at least one other berry, there is a chance it may mutate to a [[Yache]]. On obtaining your first Passho berry, plant a berry ([[Kasib]] is a good choice) around it to avoid it unintentionally mutating and then needing to reobtain it.
 
-== Growth Tables == &lt;!--T:4--&gt;
+&lt;!--T:4--&gt;
+== Growth Tables ==
 === Growth Stages ===
 {| class="wikitable" | style = "image-rendering: pixelated"
 !!! Sprout !! Taller !! Bloom !! Berry
@@ -47,7 +48,8 @@ When a Passho berry is not surrounded by at least one other berry, there is a ch
 | || &lt;center&gt; x1.1 || &lt;center&gt; x1.2 || &lt;center&gt; x1.3
 |}
 
-=== Ripening Time with Modifiers  === &lt;!--T:5--&gt;
+&lt;!--T:5--&gt;
+=== Ripening Time with Modifiers  ===
 {| class="wikitable" | style="text-align: center;"
 ! Modifier !! Ripe-Wither Time !! Boost Mulch Needed to Ripen
 |-
@@ -61,11 +63,13 @@ When a Passho berry is not surrounded by at least one other berry, there is a ch
 | 2 hours 40 mins -&lt;br&gt; 5 hours 20 mins || 32 mulch
 |}
 
-== Flow Chart == &lt;!--T:6--&gt;
+&lt;!--T:6--&gt;
+== Flow Chart ==
 [[File:Passho_Flow_Chart_Updated.png|350px]]
 &lt;br&gt;
 
-== Mutation Strategy == &lt;!--T:7--&gt;
+&lt;!--T:7--&gt;
+== Mutation Strategy ==
 === Possible Planting Formations ===
 
 &lt;!--T:8--&gt;
@@ -95,7 +99,8 @@ You can fill your farm in the following way to obtain Passho berries. Purple squ
 | [[File:Coba.png|30px]]&lt;br&gt;[[Coba]] || style="background-color:#9C7D98;" | || [[File:Chesto.png|30px]]&lt;br&gt;[[Chesto]] || style="background-color:#9C7D98;" | || [[File:Coba.png|30px]]&lt;br&gt;[[Coba]]
 |}
 
-=== Timing Table === &lt;!--T:11--&gt;
+&lt;!--T:11--&gt;
+=== Timing Table ===
 {| class="wikitable"| style="text-align: center;"
 |+ ''All planting times use the time-to-ripe remaining of the first planted berry for subsequent planting times''
 ! Berry !! Planting Time with &lt;br&gt; No Modifier !! Planting Time with &lt;br&gt; Mulch or Sprayduck || Planting Time with &lt;br&gt;  Mulch &amp; Sprayduck
@@ -109,7 +114,8 @@ You can fill your farm in the following way to obtain Passho berries. Purple squ
 | [[Chesto]] || 40 secs until ripe || 27 secs until ripe || Not Practical
 |}
 
-==Uses== &lt;!--T:12--&gt;
+&lt;!--T:12--&gt;
+==Uses==
 ===Mutations===
 
 &lt;!--T:13--&gt;
@@ -130,7 +136,8 @@ Passho berries can be used to mutate the following berries.
 |-
 |}
 
-==Using Passho== &lt;!--T:15--&gt;
+&lt;!--T:15--&gt;
+==Using Passho==
 Farm setups using Passho can be found here:
 * [[Farming Setups|Various useful Farming Setups]]
 
@@ -147,9 +154,9 @@ Farm setups using Passho can be found here:
       <username>DraKay</username>
       <id>18</id>
     </contributor>
-    <comment></comment>
+    <comment>Marked this version for translation</comment>
     <model>wikitext</model>
-    <parentid>7151</parentid>
-    <sha1>71471f8f053199c71aca4e7162a22d3e7129ddbd</sha1>
+    <parentid>25154</parentid>
+    <sha1>2157cd2a6176f225f7e089624295bc485686f355</sha1>
   </revision>
 </page></mediawiki>

@@ -4,16 +4,276 @@
   <ns>10</ns>
   <id>3663</id>
   <revision>
-    <id>13909</id>
-    <timestamp>2022-03-25T23:13:20Z</timestamp>
-    <text space="preserve" bytes="145">[[File:{{{1}}}.png|30px|{{{1}}}|link=[[Obtainable Pokémon]]]] [[Obtainable Pokémon|{{{1}}}]] &lt;noinclude&gt;[[Category:Link templates]]&lt;/noinclude&gt;</text>
+    <id>31793</id>
+    <timestamp>2022-12-06T00:07:07Z</timestamp>
+    <text space="preserve" bytes="204">[[File:{{{1}}}.png|30px|{{{1}}}|{{#ifeq:{{{2|}}}|Mimic|link=[[Obtainable Pokémon]]|}}]] {{#ifeq:{{{2|}}}|Mimic|[[Obtainable Pokémon|{{{1}}}]]|{{{1}}}}} &lt;noinclude&gt;[[Category:Link templates]]&lt;/noinclude&gt;</text>
     <contributor>
       <username>Jk13</username>
       <id>14</id>
     </contributor>
     <comment></comment>
     <model>wikitext</model>
-    <parentid>13908</parentid>
-    <sha1>56d48c9f9588c80d215644e3b9f4f4b156aa8bff</sha1>
+    <parentid>31792</parentid>
+    <sha1>50c1eb67fd92f5726b56d67f8554578a059820a0</sha1>
+  </revision>
+  <revision>
+    <id>31792</id>
+    <timestamp>2022-12-06T00:02:19Z</timestamp>
+    <text space="preserve" bytes="202">[[File:{{{1}}}.png|30px|{{{1}}}|{{ifeq:{{{2|}}}|Mimic|link=[[Obtainable Pokémon]]|}}]] {{ifeq:{{{2|}}}|Mimic|[[Obtainable Pokémon|{{{1}}}]]|{{{1}}}}} &lt;noinclude&gt;[[Category:Link templates]]&lt;/noinclude&gt;</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>31791</parentid>
+    <sha1>672d8163464371e5b1c78e43ad1c3f14a1849324</sha1>
+  </revision>
+  <revision>
+    <id>31791</id>
+    <timestamp>2022-12-06T00:00:11Z</timestamp>
+    <text space="preserve" bytes="209">[[File:{{{1}}}.png|30px|{{{1}}}|{{ifeq:{{{2|}}}|Mimic|link=[[Obtainable Pokémon]]|}}]] {{ifeq:{{{2|{{{1}}}}}}|Mimic|[[Obtainable Pokémon|{{{1}}}]]|{{{1}}}}} &lt;noinclude&gt;[[Category:Link templates]]&lt;/noinclude&gt;</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>31790</parentid>
+    <sha1>be13188b4d4a6dd55e486ff9a746b9882d497e1c</sha1>
+  </revision>
+  <revision>
+    <id>31790</id>
+    <timestamp>2022-12-05T23:58:37Z</timestamp>
+    <text space="preserve" bytes="204">[[File:{{{1}}}.png|30px|{{{1}}}|{{ifeq:{{{2|}}}|Mimic|link=[[Obtainable Pokémon]]| }}]] {{ifeq:{{{2| }}}|Mimic|[[Obtainable Pokémon|{{{1}}}]]|{{{1}}}}} &lt;noinclude&gt;[[Category:Link templates]]&lt;/noinclude&gt;</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>31789</parentid>
+    <sha1>6a95f9ac71e3f8125c2d2759500a7047aefb8611</sha1>
+  </revision>
+  <revision>
+    <id>31789</id>
+    <timestamp>2022-12-05T23:55:34Z</timestamp>
+    <text space="preserve" bytes="202">[[File:{{{1}}}.png|30px|{{{1}}}|{{ifeq:{{{2|}}}|Mimic|link=[[Obtainable Pokémon]]|}}]] {{ifeq:{{{2|}}}|Mimic|[[Obtainable Pokémon|{{{1}}}]]|{{{1}}}}} &lt;noinclude&gt;[[Category:Link templates]]&lt;/noinclude&gt;</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>31788</parentid>
+    <sha1>672d8163464371e5b1c78e43ad1c3f14a1849324</sha1>
+  </revision>
+  <revision>
+    <id>31788</id>
+    <timestamp>2022-12-05T23:52:52Z</timestamp>
+    <text space="preserve" bytes="200">[[File:{{{1}}}.png|30px|{{{1}}}|{{ifeq:{{{2}}}|Mimic|link=[[Obtainable Pokémon]]|}}]] {{ifeq:{{{2}}}|Mimic|[[Obtainable Pokémon|{{{1}}}]]|{{{1}}}}} &lt;noinclude&gt;[[Category:Link templates]]&lt;/noinclude&gt;</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>31787</parentid>
+    <sha1>f06b61e5196eb1b24b3250273e6bb53e9679c60a</sha1>
+  </revision>
+  <revision>
+    <id>31787</id>
+    <timestamp>2022-12-05T23:49:02Z</timestamp>
+    <text space="preserve" bytes="202">[[File:{{{1}}}.png|30px|{{{1}}}|{{ifeq:{{{2|}}}|Mimic|link=[[Obtainable Pokémon]]|}}]] {{ifeq:{{{2|}}}|Mimic|[[Obtainable Pokémon|{{{1}}}]]|{{{1}}}}} &lt;noinclude&gt;[[Category:Link templates]]&lt;/noinclude&gt;</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>31784</parentid>
+    <sha1>672d8163464371e5b1c78e43ad1c3f14a1849324</sha1>
+  </revision>
+  <revision>
+    <id>31784</id>
+    <timestamp>2022-12-05T23:42:19Z</timestamp>
+    <text space="preserve" bytes="200">[[File:{{{1}}}.png|30px|{{{1}}}|{{ifeq:{{{2|}}}|Mimic|link=[[Obtainable Pokémon]]|}} {{ifeq:{{{2|}}}|Mimic|[[Obtainable Pokémon|{{{1}}}]]|{{{1}}}}} &lt;noinclude&gt;[[Category:Link templates]]&lt;/noinclude&gt;</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>31783</parentid>
+    <sha1>ad442c930fdfd0c3f5934f93974aadbeb11d78a9</sha1>
+  </revision>
+  <revision>
+    <id>31783</id>
+    <timestamp>2022-12-05T23:39:30Z</timestamp>
+    <text space="preserve" bytes="218">[[File:{{{1}}}.png|30px|{{{1}}}|{{ifeq:{{{2|}}}|Mimic|link=[[Obtainable Pokémon]]|}} {{#if:{{{2|}}}|{{ifeq:{{{2|}}}|Mimic|[[Obtainable Pokémon|{{{1}}}]]|}}|{{{1}}}}} &lt;noinclude&gt;[[Category:Link templates]]&lt;/noinclude&gt;</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>31782</parentid>
+    <sha1>5a8a0323bc21718dce46888f8df19eb5356b3c2d</sha1>
+  </revision>
+  <revision>
+    <id>31782</id>
+    <timestamp>2022-12-05T23:37:04Z</timestamp>
+    <text space="preserve" bytes="217">[[File:{{{1}}}.png|30px|{{{1}}}|{{ifeq:{{{2|}}}|Mimic|link=[[Obtainable Pokémon]]|}} {{#if:{{{2|}}}|{{ifeq:{{{2|}}}|Mimic|[[Obtainable Pokémon|{{{1}}}]]}}|{{{1}}}}} &lt;noinclude&gt;[[Category:Link templates]]&lt;/noinclude&gt;</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>31781</parentid>
+    <sha1>72e7273398eb57ce2830e740a661c921188f20c3</sha1>
+  </revision>
+  <revision>
+    <id>31781</id>
+    <timestamp>2022-12-05T23:36:08Z</timestamp>
+    <text space="preserve" bytes="216">[[File:{{{1}}}.png|30px|{{{1}}}|{{ifeq:{{{2}}}|Mimic|link=[[Obtainable Pokémon]]|}} {{#if:{{{2|}}}|{{ifeq:{{{2|}}}|Mimic|[[Obtainable Pokémon|{{{1}}}]]}}|{{{1}}}}} &lt;noinclude&gt;[[Category:Link templates]]&lt;/noinclude&gt;</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>31780</parentid>
+    <sha1>2801bc5a0220b687c43bf1573dbb9330cca4a148</sha1>
+  </revision>
+  <revision>
+    <id>31780</id>
+    <timestamp>2022-12-05T23:33:26Z</timestamp>
+    <text space="preserve" bytes="235">[[File:{{{1}}}.png|30px|{{{1}}}|{{#if:{{{2|}}}|{{ifeq:{{{2|}}}|Mimic|link=[[Obtainable Pokémon]]|}}|}} {{#if:{{{2|}}}|{{ifeq:{{{2|}}}|Mimic|[[Obtainable Pokémon|{{{1}}}]]}}|{{{1}}}}} &lt;noinclude&gt;[[Category:Link templates]]&lt;/noinclude&gt;</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>31779</parentid>
+    <sha1>b0db2b6ad310f4a8c6c9d27d17560b57f2119179</sha1>
+  </revision>
+  <revision>
+    <id>31779</id>
+    <timestamp>2022-12-05T23:32:32Z</timestamp>
+    <text space="preserve" bytes="238">[[File:{{{1|}}}.png|30px|{{{1|}}}|{{#if:{{{2|}}}|{{ifeq:{{{2|}}}|Mimic|link=[[Obtainable Pokémon]]|}}|}} {{#if:{{{2|}}}|{{ifeq:{{{2|}}}|Mimic|[[Obtainable Pokémon|{{{1|}}}]]}}|{{{1}}}}} &lt;noinclude&gt;[[Category:Link templates]]&lt;/noinclude&gt;</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>31778</parentid>
+    <sha1>f4fc28a3c7678298e63e011a2f7dba9ed6b4f136</sha1>
+  </revision>
+  <revision>
+    <id>31778</id>
+    <timestamp>2022-12-05T23:30:00Z</timestamp>
+    <text space="preserve" bytes="235">[[File:{{{1}}}.png|30px|{{{1}}}|{{#if:{{{2}}}|{{ifeq:{{{{{2}}}|Mimic|link=[[Obtainable Pokémon]]|}}|}} {{#if:{{{2}}}|{{ifeq:{{{{{2}}}|Mimic|[[Obtainable Pokémon|{{{1}}}]]}}|{{{1}}}}} &lt;noinclude&gt;[[Category:Link templates]]&lt;/noinclude&gt;</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>31777</parentid>
+    <sha1>3fa9934d761d18e348bf50f151d587952b60a2ec</sha1>
+  </revision>
+  <revision>
+    <id>31777</id>
+    <timestamp>2022-12-05T23:28:55Z</timestamp>
+    <text space="preserve" bytes="239">[[File:{{{1}}}.png|30px|{{{1}}}|{{#if:{{{2|}}}|{{ifeq:{{{{{2|}}}|Mimic|link=[[Obtainable Pokémon]]|}}|}} {{#if:{{{2|}}}|{{ifeq:{{{{{2|}}}|Mimic|[[Obtainable Pokémon|{{{1}}}]]}}|{{{1}}}}} &lt;noinclude&gt;[[Category:Link templates]]&lt;/noinclude&gt;</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>31776</parentid>
+    <sha1>53eacd2488249d2d05b742e90c34f46ae740c81b</sha1>
+  </revision>
+  <revision>
+    <id>31776</id>
+    <timestamp>2022-12-05T23:28:24Z</timestamp>
+    <text space="preserve" bytes="238">[[File:{{{1}}}.png|30px|{{{1}}}|{{#if:{{{2|}}}|{{ifeq:{{{{{2}}}|Mimic|link=[[Obtainable Pokémon]]|}}|}} {{#if:{{{2|}}}|{{ifeq:{{{{{2|}}}|Mimic|[[Obtainable Pokémon|{{{1}}}]]}}|{{{1}}}}} &lt;noinclude&gt;[[Category:Link templates]]&lt;/noinclude&gt;</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>31775</parentid>
+    <sha1>ba95ebd87691c0757f6fe9e8bc088a194f43d1aa</sha1>
+  </revision>
+  <revision>
+    <id>31775</id>
+    <timestamp>2022-12-05T23:27:33Z</timestamp>
+    <text space="preserve" bytes="236">[[File:{{{1}}}.png|30px|{{{1}}}|{{#if:{{{2|}}}|{{ifeq:{{{{{2|}}}|Mimic|link=[[Obtainable Pokémon]]|}} {{#if:{{{2|}}}|{{ifeq:{{{{{2|}}}|Mimic|[[Obtainable Pokémon|{{{1}}}]]}}|{{{1}}}}} &lt;noinclude&gt;[[Category:Link templates]]&lt;/noinclude&gt;</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>31773</parentid>
+    <sha1>081d293f4966dab7e46e0949f0e190f46449a2b5</sha1>
+  </revision>
+  <revision>
+    <id>31773</id>
+    <timestamp>2022-12-05T23:26:20Z</timestamp>
+    <text space="preserve" bytes="234">[[File:{{{1}}}.png|30px|{{{1}}}|{{#if:{{{2|}}}|{{ifeq:{{{{{2}}}|Mimic|link=[[Obtainable Pokémon]]|}} {{#if:{{{2|}}}|{{ifeq:{{{{{2}}}|Mimic|[[Obtainable Pokémon|{{{1}}}]]}}|{{{1}}}}} &lt;noinclude&gt;[[Category:Link templates]]&lt;/noinclude&gt;</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>31772</parentid>
+    <sha1>41947079e246c9f05bdacb67563d042ce90700e9</sha1>
+  </revision>
+  <revision>
+    <id>31772</id>
+    <timestamp>2022-12-05T23:25:29Z</timestamp>
+    <text space="preserve" bytes="227">[[File:{{{1}}}.png|30px|{{{1}}}|{{#if:{{{2|}}}|{{ifeq:{{{2|Mimic|link=[[Obtainable Pokémon]]|}} {{#if:{{{2|}}}|{{ifeq:{{{2}}}|Mimic|[[Obtainable Pokémon|{{{1}}}]]}}|{{{1}}}}} &lt;noinclude&gt;[[Category:Link templates]]&lt;/noinclude&gt;</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>31771</parentid>
+    <sha1>4155c0d5b8f059bf559f9dc60d2d3acc1d29ca41</sha1>
+  </revision>
+  <revision>
+    <id>31771</id>
+    <timestamp>2022-12-05T23:23:25Z</timestamp>
+    <text space="preserve" bytes="225">[[File:{{{1}}}.png|30px|{{{1}}}|{{#if:{{{2|}}}|{{ifeq:{{{2|Mimic|link=[[Obtainable Pokémon]]|}} {{#if:{{{2|}}}|{{ifeq:{{{2}}}|Mimic|[[Obtainable Pokémon|{{{1}}}]]|{{{1}}}}} &lt;noinclude&gt;[[Category:Link templates]]&lt;/noinclude&gt;</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment>Mimic Test?</comment>
+    <model>wikitext</model>
+    <parentid>31769</parentid>
+    <sha1>831b6becfd09c84c24a11f48f4bc7d4096f44e9f</sha1>
+  </revision>
+  <revision>
+    <id>31769</id>
+    <timestamp>2022-12-05T22:59:10Z</timestamp>
+    <text space="preserve" bytes="92">[[File:{{{1}}}.png|30px|{{{1}}}]] {{{1}}} &lt;noinclude&gt;[[Category:Link templates]]&lt;/noinclude&gt;</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>13909</parentid>
+    <sha1>9ead5ecb43ce4458a5444520cc550a680c1fdbd2</sha1>
   </revision>
 </page></mediawiki>

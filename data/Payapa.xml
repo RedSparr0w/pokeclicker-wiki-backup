@@ -4,8 +4,8 @@
   <ns>0</ns>
   <id>627</id>
   <revision>
-    <id>25162</id>
-    <timestamp>2022-12-03T19:53:44Z</timestamp>
+    <id>30647</id>
+    <timestamp>2022-12-05T14:22:52Z</timestamp>
     <text space="preserve" bytes="4968">&lt;languages/&gt;
 &lt;translate&gt;
 &lt;!--T:1--&gt;
@@ -29,7 +29,8 @@
 &lt;!--T:2--&gt;
 '''Payapa''' is a type of [[Berries|Berry]] that can be planted in [[Farm]]. It can be obtained by surrounding an empty plot with at least 1 [[Wiki]], at least 1 [[Bluk]], at least 1 [[Cornn]] and at least 1 [[Pamtre]].
 
-== Growth Tables == &lt;!--T:3--&gt;
+&lt;!--T:3--&gt;
+== Growth Tables ==
 === Growth Stages ===
 {| class="wikitable" | style = "image-rendering: pixelated"
 !!! Sprout !! Taller !! Bloom !! Berry
@@ -44,7 +45,8 @@
 | || &lt;center&gt; x1.1 || &lt;center&gt; x1.2 || &lt;center&gt; x1.3
 |}
 
-=== Ripening Time with Modifiers  === &lt;!--T:4--&gt;
+&lt;!--T:4--&gt;
+=== Ripening Time with Modifiers  ===
 {| class="wikitable" | style="text-align: center;"
 ! Modifier !! Ripe-Wither Time !! Boost Mulch Needed to Ripen
 |-
@@ -58,11 +60,13 @@
 | 4 hours 13 mins 20 secs -&lt;br&gt; 8 hours 26 mins 40 secs || 51 mulch
 |}
 
-== Flow Chart == &lt;!--T:5--&gt;
+&lt;!--T:5--&gt;
+== Flow Chart ==
 [[File:Payapa_Flow_Chart.png|350px]]
 &lt;br&gt;
 
-== Mutation Strategy == &lt;!--T:6--&gt;
+&lt;!--T:6--&gt;
+== Mutation Strategy ==
 === Possible Planting Formations ===
 '''WARNING:''' Trying to mutate Payapa while having the [[Rocky Helmet]] equipped may result in your Pamtre mutating into Kebia.  Additionally, having the [[Cell Battery]] equipped may result in your Cornn mutating into Charti.&lt;br&gt;
 
@@ -85,7 +89,8 @@ You can fill your farm in the following way to obtain Payapa berries. Purple squ
 | [[File:Pamtre.png|30px]]&lt;br&gt;[[Pamtre]] || style="background-color:#9C7D98;" | || [[File:Bluk.png|30px]]&lt;br&gt;[[Bluk]] || style="background-color:#9C7D98;" | || [[File:Pamtre.png|30px]]&lt;br&gt;[[Pamtre]]
 |}
 
-=== Timing Table === &lt;!--T:9--&gt;
+&lt;!--T:9--&gt;
+=== Timing Table ===
 {| class="wikitable"| style="text-align: center;"
 |+ ''All planting times use the time-to-ripe remaining of the first planted berry for subsequent planting times''
 ! Berry !! Planting Time with &lt;br&gt; No Modifier !! Planting Time with &lt;br&gt; Mulch or Sprayduck || Planting Time with &lt;br&gt;  Mulch &amp; Sprayduck
@@ -99,7 +104,8 @@ You can fill your farm in the following way to obtain Payapa berries. Purple squ
 | [[Bluk]] || 5 mins 30 secs until ripe || 3 mins 40 secs until ripe || Not Practical
 |}
 
-==Uses== &lt;!--T:10--&gt;
+&lt;!--T:10--&gt;
+==Uses==
 ===Mutations===
 
 &lt;!--T:11--&gt;
@@ -129,9 +135,9 @@ Payapa berries can be used to mutate the following berries.
       <username>DraKay</username>
       <id>18</id>
     </contributor>
-    <comment></comment>
+    <comment>Marked this version for translation</comment>
     <model>wikitext</model>
-    <parentid>7197</parentid>
-    <sha1>9f8bcbf4e90200138767a331da21ee381d74eb2c</sha1>
+    <parentid>25162</parentid>
+    <sha1>8d1d0ad51107ab1e71a7078cd5d8326d3b789627</sha1>
   </revision>
 </page></mediawiki>

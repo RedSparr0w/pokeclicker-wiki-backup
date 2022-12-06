@@ -4,11 +4,14 @@
   <ns>0</ns>
   <id>2035</id>
   <revision>
-    <id>11265</id>
-    <timestamp>2022-08-16T16:26:50Z</timestamp>
-    <text space="preserve" bytes="977">Test Page Returns
+    <id>31794</id>
+    <timestamp>2022-12-06T00:09:29Z</timestamp>
+    <text space="preserve" bytes="1033">Test Page Returns
 
 Test: 1&lt;sup&gt;ère&lt;/sup&gt; génération
+
+{{Pokemon|Geodude}}&lt;br&gt;
+{{Pokemon|Geodude|Mimic}}&lt;br&gt;
 
 ===Used in===
 
@@ -51,17 +54,150 @@ Test: 1&lt;sup&gt;ère&lt;/sup&gt; génération
 
 {{Bag4|Pokéball|Poké test ?}} &lt;- Bag4 works perfectly
 
+
 ====Template test for translators====
 
 {{Loot/head‎|Berries}}
 {{LootItem|Parc Safari|Commun}}</text>
     <contributor>
-      <username>LeChatMG</username>
-      <id>97</id>
+      <username>Jk13</username>
+      <id>14</id>
     </contributor>
-    <comment>testing &lt;sup</comment>
+    <comment></comment>
     <model>wikitext</model>
-    <parentid>11264</parentid>
-    <sha1>0c461bcdcd803847cb19bd7bd7c47bac1879ebfc</sha1>
+    <parentid>31786</parentid>
+    <sha1>482b0c6c2a4c33ae2bfd816929746fd09243fc10</sha1>
+  </revision>
+  <revision>
+    <id>31786</id>
+    <timestamp>2022-12-05T23:45:16Z</timestamp>
+    <text space="preserve" bytes="1055">Test Page Returns
+
+Test: 1&lt;sup&gt;ère&lt;/sup&gt; génération
+
+{{Pokemon|Geodude}}&lt;br&gt;
+{{Pokemon|Geodude|Mimic}}&lt;br&gt;
+{{Mimic|Geodude}}&lt;br&gt;
+
+===Used in===
+
+{|class="wikitable"
+|-
+| This berry is used in
+|-
+| Berry 1
+|-
+| Berry 2
+|}
+
+{|class="wikitable"
+|-
+| Test
+|-
+| [[File:Bulbasaur_Egg_Pattern.png|30px]]
+|-
+| [[File:Ivysaur_Egg_Pattern.png|30px]]
+|-
+| [[File:Venusaur_Egg_Pattern.png|30px]]
+|-
+| [[File:Charmander_Egg_Pattern.png|30px]]
+|-
+| [[File:Charmeleon_Egg_Pattern.png|30px]]
+|-
+| [[File:Charizard_Egg_Pattern.png|30px]]
+|-
+| [[File:Grey Shard.png|79px]][[File:GreyShardMine.png]]
+|-
+| [[File:Purple Shard.png|79px]][[File:PurpleShardMine.png]]
+|}
+
+====Bag Functions test====
+
+
+{{Bag2|Lucky Incense|Lucky test ?}} &lt;- Bag2 set the image link to the second argument, but seems like never used anywhere
+
+{{Bag3|EXP Share|EXP test ?}} &lt;- Bag3 doesn't show anything if second argument, just the picture
+
+{{Bag4|Pokéball|Poké test ?}} &lt;- Bag4 works perfectly
+
+
+====Template test for translators====
+
+{{Loot/head‎|Berries}}
+{{LootItem|Parc Safari|Commun}}</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>31785</parentid>
+    <sha1>d610afcd2a25e71dd8114ed52cbbe9adeacd4200</sha1>
+  </revision>
+  <revision>
+    <id>31785</id>
+    <timestamp>2022-12-05T23:45:03Z</timestamp>
+    <text space="preserve" bytes="1043">Test Page Returns
+
+Test: 1&lt;sup&gt;ère&lt;/sup&gt; génération
+
+{{Pokemon|Geodude}}
+{{Pokemon|Geodude|Mimic}}
+{{Mimic|Geodude}}
+
+===Used in===
+
+{|class="wikitable"
+|-
+| This berry is used in
+|-
+| Berry 1
+|-
+| Berry 2
+|}
+
+{|class="wikitable"
+|-
+| Test
+|-
+| [[File:Bulbasaur_Egg_Pattern.png|30px]]
+|-
+| [[File:Ivysaur_Egg_Pattern.png|30px]]
+|-
+| [[File:Venusaur_Egg_Pattern.png|30px]]
+|-
+| [[File:Charmander_Egg_Pattern.png|30px]]
+|-
+| [[File:Charmeleon_Egg_Pattern.png|30px]]
+|-
+| [[File:Charizard_Egg_Pattern.png|30px]]
+|-
+| [[File:Grey Shard.png|79px]][[File:GreyShardMine.png]]
+|-
+| [[File:Purple Shard.png|79px]][[File:PurpleShardMine.png]]
+|}
+
+====Bag Functions test====
+
+
+{{Bag2|Lucky Incense|Lucky test ?}} &lt;- Bag2 set the image link to the second argument, but seems like never used anywhere
+
+{{Bag3|EXP Share|EXP test ?}} &lt;- Bag3 doesn't show anything if second argument, just the picture
+
+{{Bag4|Pokéball|Poké test ?}} &lt;- Bag4 works perfectly
+
+
+====Template test for translators====
+
+{{Loot/head‎|Berries}}
+{{LootItem|Parc Safari|Commun}}</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>11265</parentid>
+    <sha1>7526ce50adbf57bcb79da1441c34ae3ce24b64c8</sha1>
   </revision>
 </page></mediawiki>

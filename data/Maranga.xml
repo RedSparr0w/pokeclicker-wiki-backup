@@ -4,8 +4,8 @@
   <ns>0</ns>
   <id>584</id>
   <revision>
-    <id>25151</id>
-    <timestamp>2022-12-03T19:40:40Z</timestamp>
+    <id>30731</id>
+    <timestamp>2022-12-05T14:24:58Z</timestamp>
     <text space="preserve" bytes="3353">&lt;languages/&gt;
 &lt;translate&gt;
 &lt;!--T:1--&gt;
@@ -29,7 +29,8 @@
 &lt;!--T:2--&gt;
 '''Maranga''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by surrounding an empty plot with at least 1 [[Salac]] and at least 1 [[Petaya]].
 
-== Growth Tables == &lt;!--T:3--&gt;
+&lt;!--T:3--&gt;
+== Growth Tables ==
 === Growth Stages ===
 {| class="wikitable" | style = "image-rendering: pixelated"
 ! !! Sprout !! Taller !! Bloom !! Berry
@@ -41,7 +42,8 @@
 | &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:MarangaTreeTallerUpdated.png|50px]] || &lt;center&gt; [[File:MarangaTreeBloom.png|50px]] || &lt;center&gt; [[File:MarangaTreeBerry.png|50px]]
 |}
 
-=== Ripening Time with Modifiers  === &lt;!--T:4--&gt;
+&lt;!--T:4--&gt;
+=== Ripening Time with Modifiers  ===
 {| class="wikitable" | style="text-align: center;"
 ! Modifier !! Ripe-Wither Time !! Boost Mulch Needed to Ripen
 |-
@@ -55,11 +57,13 @@
 | 4 hours 58 mins 40 secs -&lt;br&gt; 8 hours 57 mins 20 secs || 60 mulch
 |}
 
-== Flow Chart == &lt;!--T:5--&gt;
+&lt;!--T:5--&gt;
+== Flow Chart ==
 [[File:Maranga_Flow_Chart1.png|850px]]
 &lt;br&gt;
 
-== Mutation Strategy == &lt;!--T:6--&gt;
+&lt;!--T:6--&gt;
+== Mutation Strategy ==
 === Possible Planting Formations ===
 
 &lt;!--T:7--&gt;
@@ -80,7 +84,8 @@ You can fill your farm in the following way to obtain Maranga berries. Purple sq
 | style="background-color:#9C7D98;" | || [[File:Petaya.png|30px]] [[Petaya]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Petaya.png|30px]] [[Petaya]] 
 |}
 
-=== Timing Table === &lt;!--T:9--&gt;
+&lt;!--T:9--&gt;
+=== Timing Table ===
 {| class="wikitable"| style="text-align: center;"
 |+ ''All planting times use the time-to-ripe remaining of the first planted berry for subsequent planting times''
 ! Berry !! Planting Time with &lt;br&gt; No Modifier !! Planting Time with &lt;br&gt; Mulch or Sprayduck || Planting Time with &lt;br&gt;  Mulch &amp; Sprayduck
@@ -100,9 +105,9 @@ You can fill your farm in the following way to obtain Maranga berries. Purple sq
       <username>DraKay</username>
       <id>18</id>
     </contributor>
-    <comment></comment>
+    <comment>Marked this version for translation</comment>
     <model>wikitext</model>
-    <parentid>7001</parentid>
-    <sha1>16bda5eb187ce652d2fb027dfdae45df0f36414b</sha1>
+    <parentid>25151</parentid>
+    <sha1>b0441aea2a7dbc469b714eb427e5883ea6a4d84c</sha1>
   </revision>
 </page></mediawiki>

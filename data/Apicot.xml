@@ -4,8 +4,8 @@
   <ns>0</ns>
   <id>3404</id>
   <revision>
-    <id>25180</id>
-    <timestamp>2022-12-03T20:03:38Z</timestamp>
+    <id>30235</id>
+    <timestamp>2022-12-05T14:16:06Z</timestamp>
     <text space="preserve" bytes="3098">&lt;languages/&gt;
 &lt;translate&gt;
 &lt;!--T:1--&gt;
@@ -29,7 +29,8 @@
 &lt;!--T:2--&gt;
 '''Apicot''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by having at least one empty plot and at least 23 [[Chilan]] on the field. Pokémon #484 (Palkia) must be caught to unlock this berry.
 
-== Growth Tables == &lt;!--T:3--&gt;
+&lt;!--T:3--&gt;
+== Growth Tables ==
 === Growth Stages ===
 {| class="wikitable" | style = "image-rendering: pixelated"
 ! !! Sprout !! Taller !! Bloom !! Berry
@@ -41,7 +42,8 @@
 | &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:ApicotTreeTaller.png|50px]] || &lt;center&gt; [[File:ApicotTreeBloom.png|50px]] || &lt;center&gt; [[File:ApicotTreeBerry.png|50px]]
 |}
 
-==== Ripening Time with Modifiers  ==== &lt;!--T:4--&gt;
+&lt;!--T:4--&gt;
+==== Ripening Time with Modifiers  ====
 {| class="wikitable" | style="text-align: center;"
 ! Modifier !! Ripe-Wither Time !! Boost Mulch Needed to Ripen
 |-
@@ -55,11 +57,13 @@
 | 10 hours 40 mins -&lt;br&gt; 53 hours 20 mins || &lt;center&gt; 128 mulch
 |}
 
-== Flow Chart == &lt;!--T:5--&gt;
+&lt;!--T:5--&gt;
+== Flow Chart ==
 [[File:Apicot_Flow_Chart.png|350px]]
 &lt;br&gt;
 
-== Mutation Strategy == &lt;!--T:6--&gt;
+&lt;!--T:6--&gt;
+== Mutation Strategy ==
 === Possible Planting Formations ===
 
 &lt;!--T:7--&gt;
@@ -93,9 +97,9 @@ You can fill your farm in the following way to obtain Apicot berries. Purple squ
       <username>DraKay</username>
       <id>18</id>
     </contributor>
-    <comment></comment>
+    <comment>Marked this version for translation</comment>
     <model>wikitext</model>
-    <parentid>13023</parentid>
-    <sha1>c3dc186e0fb9f2d4fdd247eb919a7ca93004aebc</sha1>
+    <parentid>25180</parentid>
+    <sha1>5676319c207faf0348117bc70d3fc887e80fe6ca</sha1>
   </revision>
 </page></mediawiki>

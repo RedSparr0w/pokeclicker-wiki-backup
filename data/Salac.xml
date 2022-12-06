@@ -4,8 +4,8 @@
   <ns>0</ns>
   <id>745</id>
   <revision>
-    <id>25178</id>
-    <timestamp>2022-12-03T20:02:56Z</timestamp>
+    <id>30396</id>
+    <timestamp>2022-12-05T14:20:26Z</timestamp>
     <text space="preserve" bytes="3252">&lt;languages/&gt;
 &lt;translate&gt;
 &lt;!--T:1--&gt;
@@ -29,7 +29,8 @@
 &lt;!--T:2--&gt;
 '''Salac''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by having at least one empty plot and at least 23 ripe [[Coba]] on the field. Pokémon #384 (Rayquaza) must be caught to unlock this berry.
 
-== Growth Tables == &lt;!--T:3--&gt;
+&lt;!--T:3--&gt;
+== Growth Tables ==
 === Growth Stages ===
 {| class="wikitable" style="text-align: center;" | style = "image-rendering: pixelated"
 ! !! Sprout !! Taller !! Bloom !! Berry
@@ -41,7 +42,8 @@
 | [[File:AllTreeSprout.png|50px]] || [[File:SalacTreeTaller.png|50px]] || [[File:SalacTreeBloom.png|50px]] || [[File:SalacTreeBerry.png|50px]]
 |}
 
-=== Ripening Time with Modifiers  === &lt;!--T:4--&gt;
+&lt;!--T:4--&gt;
+=== Ripening Time with Modifiers  ===
 {| class="wikitable" | style="text-align: center;"
 ! Modifier !! Ripe-Wither Time !! Boost Mulch Needed to Ripen
 |-
@@ -55,11 +57,13 @@
 | 21 hours 20 mins -&lt;br&gt; 42 hours 40 mins || 256 mulch
 |}
 
-== Flow Chart == &lt;!--T:5--&gt;
+&lt;!--T:5--&gt;
+== Flow Chart ==
 [[File:Salac_Flow_Chart.png|250px]]
 &lt;br&gt;
 
-== Mutation Strategy == &lt;!--T:6--&gt;
+&lt;!--T:6--&gt;
+== Mutation Strategy ==
 === Possible Planting Formations ===
 
 &lt;!--T:7--&gt;
@@ -80,7 +84,8 @@ You can fill your farm in the following way to obtain Salac berries. Purple squa
 | [[File:Coba.png|30px]]&lt;br&gt;[[Coba]] || [[File:Coba.png|30px]]&lt;br&gt;[[Coba]] || [[File:Coba.png|30px]]&lt;br&gt;[[Coba]] || [[File:Coba.png|30px]]&lt;br&gt;[[Coba]] || [[File:Coba.png|30px]]&lt;br&gt;[[Coba]]
 |}
 
-==Uses== &lt;!--T:9--&gt;
+&lt;!--T:9--&gt;
+==Uses==
 ===Mutations===
 
 &lt;!--T:10--&gt;
@@ -112,9 +117,9 @@ Salac berries can be used to mutate the following berries.
       <username>DraKay</username>
       <id>18</id>
     </contributor>
-    <comment></comment>
+    <comment>Marked this version for translation</comment>
     <model>wikitext</model>
-    <parentid>7852</parentid>
-    <sha1>936c57f97457651b982f4ecf3a42569f2484793d</sha1>
+    <parentid>25178</parentid>
+    <sha1>fc741fbb173d550c45dcbe698b058664bfb7eb02</sha1>
   </revision>
 </page></mediawiki>

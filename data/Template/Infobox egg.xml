@@ -46,46 +46,4 @@
     <parentid>10666</parentid>
     <sha1>d2a462c0e3f3ff9ef9d8efe4821e5fbb4916eaff</sha1>
   </revision>
-  <revision>
-    <id>10666</id>
-    <timestamp>2022-07-29T16:20:48Z</timestamp>
-    <text space="preserve" bytes="918">&lt;translate&gt;
-{|class="infobox bordered" style="float:right; width:264px; font-size:90%; text-align:left; border:2px solid #4d4494; padding:3px;" cellpadding="3"
-|- 
-!colspan="2" style="font-size:110%; text-align:center; background-color:#00563f; color:#FFF;" | {{{name}}}
-|-
-{{#if:{{{image&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
-{{!}} colspan="2" style="text-align:center;" {{!}}{{{image}}}{{#if:{{{symbol|}}}|&lt;br /&gt;{{{symbol}}}}}{{#if:{{{caption|}}}|&lt;br /&gt;{{{caption}}}}}
-{{!}}-
-}}
-{{#if:{{{price&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
-{{!}} style="background-color:#00cc99; color:#000;" {{!}}'''Price'''
-{{!}}{{{price}}}
-{{!}}-
-}}
-{{#if:{{{location&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
-{{!}} style="background-color:#00cc99; color:#000;" {{!}}'''Location'''
-{{!}}{{{location}}}
-{{!}}-
-}}
-|}&lt;noinclude&gt;
-
-== Code ==
-&lt;pre&gt;{{Infobox character general
-|name     = 
-|image    = 
-|caption  = 
-|price    = 
-|location = 
-}}&lt;/pre&gt;
-&lt;/translate&gt;</text>
-    <contributor>
-      <username>Cthulhu Follower</username>
-      <id>51</id>
-    </contributor>
-    <comment></comment>
-    <model>wikitext</model>
-    <parentid>10665</parentid>
-    <sha1>b8c1d8b7de03927daa94ee160f9c2edb8c50ae10</sha1>
-  </revision>
 </page></mediawiki>

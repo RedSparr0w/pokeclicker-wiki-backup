@@ -4,18 +4,21 @@
   <ns>0</ns>
   <id>4123</id>
   <revision>
-    <id>30058</id>
-    <timestamp>2022-12-04T20:39:41Z</timestamp>
-    <text space="preserve" bytes="6077">&lt;languages/&gt;
+    <id>30873</id>
+    <timestamp>2022-12-05T14:27:05Z</timestamp>
+    <text space="preserve" bytes="6176">&lt;languages/&gt;
 &lt;translate&gt;
+&lt;!--T:1--&gt;
 '''Hatchery Helpers''' are people that can be hired to work on your [[Pokémon Day Care]] to automate the Hatchery. Many can be unlocked by fulfilling certain requisites, while others can be purchased from certain [[Shops]]. Once hired, a Hatchery Helper will work until they are fired or you do not have the necessary funds to continue to employ them. This feature is currently in beta, and is subject to change.
 
-== Usage ==
+== Usage == &lt;!--T:2--&gt;
 
+&lt;!--T:3--&gt;
 Clicking on "Sort" opens a dropdown that allows you to select the order in which Hatchery Helpers will pull Pokémon from Party. Pokémon that are currently queued will not be able to be selected by Hatchery Helpers.  You can only hire a maximum of 3 hatchery helpers at a time.
 
-==Unlocking Hatchery Helpers==
+==Unlocking Hatchery Helpers== &lt;!--T:4--&gt;
 
+&lt;!--T:5--&gt;
 {| class="wikitable sortable" style="text-align: center;"
 |-
 ! Name !! Cost Per Hatch !! Step Efficiency !! Attack Efficiency !!  Unlock Requirements || Purchase Location
@@ -43,9 +46,11 @@ Clicking on "Sort" opens a dropdown that allows you to select the order in which
 | Noel [[File:HHNoel.png|20px]] || 25 {{battlepoints}} || 100% || 200% || 20,000 Battle Points {{battlepoints}} || Purchase in [[Battle Frontier]]
 |}
 
+&lt;!--T:6--&gt;
 == Stats ==
 Hatchery Helpers have 3 important stats: '''Cost, Step Efficiency and Attack Efficiency''' (see below).  At this time, Hatchery Helpers don't Cost you anything when there are no eggs to hatch.  Each individual Hatchery Helper gains Step Efficiency and Attack Efficiency the more Pokemon that they hatch, up to a limit of 50% bonus in each stat.  As an example, Hatchery Helper Sam can thus have up to 60% Step Efficiency and 60% Attack Efficiency.  Maxing out a Hatchery Helpers stats takes 125,000 Pokemon Hatched by that helper.
 
+&lt;!--T:7--&gt;
 {| class="wikitable" style="text-align: center;"
 |-
 ! Stat !! Description !! Usage
@@ -58,6 +63,7 @@ Hatchery Helpers have 3 important stats: '''Cost, Step Efficiency and Attack Eff
 |-
 |}
 
+&lt;!--T:8--&gt;
 === Hatchery Helpers Stats ===
 &lt;tabs&gt;
 &lt;tab name="Maximum Stats"&gt;
@@ -119,17 +125,18 @@ Hatchery Helpers have 3 important stats: '''Cost, Step Efficiency and Attack Eff
 &lt;/tab&gt;
 &lt;/tabs&gt;
 
+&lt;!--T:9--&gt;
 [[Category:Eggs]] 
 [[Category:Items]]
 __NOTOC__
 &lt;/translate&gt;</text>
     <contributor>
-      <username>ThePantMan</username>
-      <id>8</id>
+      <username>DraKay</username>
+      <id>18</id>
     </contributor>
-    <comment>/* Added Cameron and +25% table */</comment>
+    <comment>Marked this version for translation</comment>
     <model>wikitext</model>
-    <parentid>15002</parentid>
-    <sha1>96239ad216e806ca11a34de3c61ff0374b5ec8fe</sha1>
+    <parentid>30058</parentid>
+    <sha1>069dceeebe6cb21b11a7c72b3acdf66b64f9f3c3</sha1>
   </revision>
 </page></mediawiki>

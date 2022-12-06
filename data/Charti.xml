@@ -4,8 +4,8 @@
   <ns>0</ns>
   <id>709</id>
   <revision>
-    <id>25164</id>
-    <timestamp>2022-12-03T19:54:34Z</timestamp>
+    <id>31119</id>
+    <timestamp>2022-12-05T14:29:44Z</timestamp>
     <text space="preserve" bytes="4707">&lt;languages/&gt;
 &lt;translate&gt;
 &lt;!--T:1--&gt;
@@ -29,7 +29,8 @@
 &lt;!--T:2--&gt;
 '''Charti''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by planting [[Cornn]] and equipping the [[Cell Battery]]. The Cornn will then have a chance to mutate into this berry.  This berry can be bought from the Johto [[Berry Master]] for 10,000 {{farmpoints}} if the player is running the "No Oak Item" [[Challenge Mode|challenge]], and has already unlocked the Cornn berry.
 
-== Growth Tables == &lt;!--T:3--&gt;
+&lt;!--T:3--&gt;
+== Growth Tables ==
 === Growth Stages ===
 {| class="wikitable" | style = "image-rendering: pixelated"
 ! !! Sprout !! Taller !! Bloom !! Berry
@@ -44,7 +45,8 @@
 | || &lt;center&gt; x0.99 || &lt;center&gt; x0.98 || &lt;center&gt; x0.97
 |}
 
-=== Ripening Time with Modifiers  === &lt;!--T:4--&gt;
+&lt;!--T:4--&gt;
+=== Ripening Time with Modifiers  ===
 {| class="wikitable" | style="text-align: center;"
 ! Modifier !! Ripe-Wither Time !! Boost Mulch Needed to Ripen
 |-
@@ -58,11 +60,13 @@
 | 4 hours 40 mins -&lt;br&gt; 9 hours 20 mins || 56 mulch
 |}
 
-== Flow Chart == &lt;!--T:5--&gt;
+&lt;!--T:5--&gt;
+== Flow Chart ==
 [[File:Charti_Flow_Chart1.png|250px]]
 &lt;br&gt;
 
-== Mutation Strategy == &lt;!--T:6--&gt;
+&lt;!--T:6--&gt;
+== Mutation Strategy ==
 === Possible Planting Formations ===
 
 &lt;!--T:7--&gt;
@@ -83,7 +87,8 @@ You can fill your farm in the following way to obtain Charti berries. Purple squ
 | [[File:Cornn.png|30px]]&lt;br&gt;'''[[Cornn]]''' || [[File:Cornn.png|30px]]&lt;br&gt;'''[[Cornn]]''' || [[File:Cornn.png|30px]]&lt;br&gt;'''[[Cornn]]''' || [[File:Cornn.png|30px]]&lt;br&gt;'''[[Cornn]]''' || [[File:Cornn.png|30px]]&lt;br&gt;'''[[Cornn]]'''
 |}
 
-==Uses== &lt;!--T:9--&gt;
+&lt;!--T:9--&gt;
+==Uses==
 ===Mutations===
 
 &lt;!--T:10--&gt;
@@ -113,9 +118,9 @@ Charti berries can be used to mutate the following berries.
       <username>DraKay</username>
       <id>18</id>
     </contributor>
-    <comment></comment>
+    <comment>Marked this version for translation</comment>
     <model>wikitext</model>
-    <parentid>7682</parentid>
-    <sha1>0fb6239a4662839c071eb75a1ff994bc443f3686</sha1>
+    <parentid>25164</parentid>
+    <sha1>d58d01c8ea24758c1dd02a65176a8b7a5d908d3f</sha1>
   </revision>
 </page></mediawiki>

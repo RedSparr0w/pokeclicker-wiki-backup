@@ -4,8 +4,8 @@
   <ns>0</ns>
   <id>683</id>
   <revision>
-    <id>25156</id>
-    <timestamp>2022-12-03T19:49:20Z</timestamp>
+    <id>30447</id>
+    <timestamp>2022-12-05T14:21:22Z</timestamp>
     <text space="preserve" bytes="5904">&lt;languages/&gt;
 &lt;translate&gt;
 &lt;!--T:1--&gt;
@@ -29,7 +29,8 @@
 &lt;!--T:2--&gt;
 '''Rindo''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by surrounding an empty plot with at least 10, but no more than 15 points of spicy, at least 15, but no more than 20 points of bitter and 0 points of all other flavours. The [[Cheri]] and [[Aguav]] must be unlocked to unlock this berry.
 
-== Growth Tables == &lt;!--T:3--&gt;
+&lt;!--T:3--&gt;
+== Growth Tables ==
 === Growth Stages ===
 {| class="wikitable" | style = "image-rendering: pixelated"
 |+ Growth Stages
@@ -45,7 +46,8 @@
 | colspan=3|&lt;center&gt;N/A || &lt;center&gt; 0.04%
 |}
 
-=== Ripening Time with Modifiers  === &lt;!--T:4--&gt;
+&lt;!--T:4--&gt;
+=== Ripening Time with Modifiers  ===
 {| class="wikitable" | style="text-align: center;"
 ! Modifier !! Ripe-Wither Time !! Boost Mulch Needed to Ripen
 |-
@@ -59,11 +61,13 @@
 | 3 hours 33 mins 20 secs -&lt;br&gt; 7 hours 6 mins 40 secs || 43 mulch
 |}
 
-== Flow Chart == &lt;!--T:5--&gt;
+&lt;!--T:5--&gt;
+== Flow Chart ==
 [[File:Rindo_Flow_Chart.png|250px]]
 &lt;br&gt;
 
-== Mutation Strategy == &lt;!--T:6--&gt;
+&lt;!--T:6--&gt;
+== Mutation Strategy ==
 === Possible Planting Formations ===
 
 &lt;!--T:7--&gt;
@@ -99,7 +103,8 @@ You can fill your farm in the following ways to obtain Rindo berries. Purple squ
 | style="background-color:#9C7D98;" | || [[File:Aguav.png|30px]] [[Aguav]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Aguav.png|30px]] [[Aguav]] 
 |}
 
-=== Timing Table === &lt;!--T:10--&gt;
+&lt;!--T:10--&gt;
+=== Timing Table ===
 {| class="wikitable"| style="text-align: center;"
 |+ ''All planting times use the time-to-ripe remaining of the first planted berry for subsequent planting times''
 ! Berry !! Planting Time with &lt;br&gt; No Modifier !! Planting Time with &lt;br&gt; Mulch or Sprayduck || Planting Time with &lt;br&gt;  Mulch &amp; Sprayduck
@@ -112,7 +117,8 @@ You can fill your farm in the following ways to obtain Rindo berries. Purple squ
 &lt;!--T:11--&gt;
 Note: Figy and Aguav have equivalent growth times.
 
-==Uses== &lt;!--T:12--&gt;
+&lt;!--T:12--&gt;
+==Uses==
 ===Mutations===
 
 &lt;!--T:13--&gt;
@@ -144,9 +150,9 @@ Rindo berries can be used to mutate the following berries.
       <username>DraKay</username>
       <id>18</id>
     </contributor>
-    <comment></comment>
+    <comment>Marked this version for translation</comment>
     <model>wikitext</model>
-    <parentid>7532</parentid>
-    <sha1>625653c5c33e212f6fbd8407d11a2fc0713e1e70</sha1>
+    <parentid>25156</parentid>
+    <sha1>e4845321f095aa55e5922c7340a59b517bd2dafc</sha1>
   </revision>
 </page></mediawiki>

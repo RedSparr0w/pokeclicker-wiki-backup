@@ -4,8 +4,8 @@
   <ns>0</ns>
   <id>626</id>
   <revision>
-    <id>25155</id>
-    <timestamp>2022-12-03T19:48:59Z</timestamp>
+    <id>30269</id>
+    <timestamp>2022-12-05T14:18:01Z</timestamp>
     <text space="preserve" bytes="4711">&lt;languages/&gt;
 &lt;translate&gt;
 &lt;!--T:1--&gt;
@@ -29,7 +29,8 @@
 &lt;!--T:2--&gt;
 '''Wacan''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by surrounding an empty plot with at least 1 [[Iapapa]], at least 1 [[Qualot]], at least 1 [[Pinap]] and at least 1 [[Grepa]]. Various [[Farming Setups]] using Wacan can be found [[Farming Setups#Wacan|here]].
 
-== Growth Tables == &lt;!--T:3--&gt;
+&lt;!--T:3--&gt;
+== Growth Tables ==
 === Growth Stages ===
 {| class="wikitable" | style = "image-rendering: pixelated"
 ! !! Sprout !! Taller !! Bloom !! Berry
@@ -44,7 +45,8 @@
 | || &lt;center&gt; x1.1 || &lt;center&gt; x1.2 || &lt;center&gt; x1.3
 |}
 
-=== Ripening Time with Modifiers  === &lt;!--T:4--&gt;
+&lt;!--T:4--&gt;
+=== Ripening Time with Modifiers  ===
 {| class="wikitable" | style="text-align: center;"
 ! Modifier !! Ripe-Wither Time !! Boost Mulch Needed to Ripen
 |-
@@ -58,11 +60,13 @@
 | 13 mins 20 secs-&lt;br&gt; 26 mins 40 secs || 3 mulch
 |}
 
-== Flow Chart == &lt;!--T:5--&gt;
+&lt;!--T:5--&gt;
+== Flow Chart ==
 [[File:Wacan_Flow_Chart.png|400px]]
 &lt;br&gt;
 
-== Mutation Strategy == &lt;!--T:6--&gt;
+&lt;!--T:6--&gt;
+== Mutation Strategy ==
 === Possible Planting Formations ===
 
 &lt;!--T:7--&gt;
@@ -83,7 +87,8 @@ You can fill your farm in the following way to obtain Wacan berries. Purple squa
 | [[File:Grepa.png|30px]] [[Grepa]] || style="background-color:#9C7D98;" | || [[File:Qualot.png|30px]] [[Qualot]] || style="background-color:#9C7D98;" | || [[File:Grepa.png|30px]] [[Grepa]]
 |}
 
-=== Timing Table === &lt;!--T:9--&gt;
+&lt;!--T:9--&gt;
+=== Timing Table ===
 {| class="wikitable"| style="text-align: center;"
 |+ ''All planting times use the time-to-ripe remaining of the first planted berry for subsequent planting times''
 ! Berry !! Planting Time with &lt;br&gt; No Modifier !! Planting Time with &lt;br&gt; Mulch or Sprayduck || Planting Time with &lt;br&gt;  Mulch &amp; Sprayduck
@@ -97,7 +102,8 @@ You can fill your farm in the following way to obtain Wacan berries. Purple squa
 | [[Pinap]] || 4 mins until ripe || 2 mins 40 secs until ripe || Not Practical
 |}
 
-==Uses== &lt;!--T:10--&gt;
+&lt;!--T:10--&gt;
+==Uses==
 ===Mutations===
 
 &lt;!--T:11--&gt;
@@ -127,9 +133,9 @@ Wacan berries can be used to mutate the following berries.
       <username>DraKay</username>
       <id>18</id>
     </contributor>
-    <comment></comment>
+    <comment>Marked this version for translation</comment>
     <model>wikitext</model>
-    <parentid>7174</parentid>
-    <sha1>805bc8bc7eb32632b60f7e1565bc04dddcc62984</sha1>
+    <parentid>25155</parentid>
+    <sha1>e5a56af77dcbc8304fffc33cc1062f6bafca70ae</sha1>
   </revision>
 </page></mediawiki>

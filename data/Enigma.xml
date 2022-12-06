@@ -4,8 +4,8 @@
   <ns>0</ns>
   <id>795</id>
   <revision>
-    <id>25183</id>
-    <timestamp>2022-12-03T20:04:34Z</timestamp>
+    <id>31023</id>
+    <timestamp>2022-12-05T14:28:35Z</timestamp>
     <text space="preserve" bytes="5460">&lt;languages/&gt;
 &lt;translate&gt;
 &lt;!--T:1--&gt;
@@ -32,7 +32,8 @@
 &lt;!--T:3--&gt;
 To link your Discord account, click on Start Menu, then Save, then on the Link Discord button. This will redirect to a Discord page, please click on the Authorize button. Now your save is linked to your Discord account.
 
-== Growth Tables == &lt;!--T:4--&gt;
+&lt;!--T:4--&gt;
+== Growth Tables ==
 === Growth Stages ===
 {| class="wikitable" | style = "image-rendering: pixelated"
 ! !! Sprout !! Taller !! Bloom !! Berry
@@ -47,7 +48,8 @@ To link your Discord account, click on Start Menu, then Save, then on the Link D
 | colspan=3|&lt;center&gt;N/A || &lt;center&gt; 0.04%
 |}
 
-=== Ripening Time with Modifiers  === &lt;!--T:5--&gt;
+&lt;!--T:5--&gt;
+=== Ripening Time with Modifiers  ===
 {| class="wikitable" | style="text-align: center;"
 ! Modifier !! Ripe-Wither Time !! Boost Mulch Needed to Ripen
 |-
@@ -61,11 +63,13 @@ To link your Discord account, click on Start Menu, then Save, then on the Link D
 | 10 hours 40 mins -&lt;br&gt; 3 days 2 hours 40 mins || 128 mulch
 |}
 
-== Flow Chart == &lt;!--T:6--&gt;
+&lt;!--T:6--&gt;
+== Flow Chart ==
 [[File:Enigma_Flow_Chart.png|500px]]
 &lt;br&gt;
 
-== Mutation Strategy == &lt;!--T:7--&gt;
+&lt;!--T:7--&gt;
+== Mutation Strategy ==
 === Possible Planting Formations ===
 
 &lt;!--T:8--&gt;
@@ -86,7 +90,8 @@ You can fill your farm in the following way to obtain Enigma berries. As the ber
 | || || || '''South Hint''' ||
 |}
 
-== Possible Hints == &lt;!--T:10--&gt;
+&lt;!--T:10--&gt;
+== Possible Hints ==
 Due to inconvenience, some berries cannot be selected as hints. Any Gen 3 or 4 berry can be selected, except the following:
 * Parasitic berries ([[File:Occa.png|15px]] [[Occa]], [[File:Kebia.png|15px]] [[Kebia]] or [[File:Colbur.png|15px]] [[Colbur]])
 * Berries that prevent mutation ([[File:Babiri.png|15px]] [[Babiri]])
@@ -102,10 +107,12 @@ Here is a list of berries that can be given as hints:
 | Gen 4 || [[File:Passho.png|15px]] [[Passho]], [[File:Wacan.png|15px]] [[Wacan]], [[File:Rindo.png|15px]] [[Rindo]], [[File:Yache.png|15px]] [[Yache]], [[File:Chople.png|15px]] [[Chople]], [[File:Shuca.png|15px]] [[Shuca]], [[File:Coba.png|15px]] [[Coba]], [[File:Payapa.png|15px]] [[Payapa]], [[File:Tanga.png|15px]] [[Tanga]], [[File:Charti.png|15px]] [[Charti]], [[File:Kasib.png|15px]] [[Kasib]], [[File:Haban.png|15px]] [[Haban]], [[File:Chilan.png|15px]] [[Chilan]], [[File:Roseli.png|15px]] [[Roseli]]
 |}
 
-== Additional Mutations == &lt;!--T:12--&gt;
+&lt;!--T:12--&gt;
+== Additional Mutations ==
 Planting Enigma berries next to certain other berries will cause them to mutate. For all of these mutations, the goal berry must already be unlocked for the mutation to occur.
 Each berry has a 0.04% chance of mutation.
 
+&lt;!--T:13--&gt;
 {| class="wikitable"
 |-
 ! Original Berry !! Mutated Berry
@@ -125,7 +132,7 @@ Each berry has a 0.04% chance of mutation.
 | [[File:Haban.png|30px]] [[Haban]] || [[File:Starf.png|30px]] [[Starf]]
 |}
 &lt;br&gt;
-==Using Enigma== &lt;!--T:13--&gt;
+==Using Enigma==
 Farm setups using Enigma can be found here:
 * [[Farming Setups|Various useful Farming Setups]]
 &lt;br&gt;
@@ -140,9 +147,9 @@ Farm setups using Enigma can be found here:
       <username>DraKay</username>
       <id>18</id>
     </contributor>
-    <comment></comment>
+    <comment>Marked this version for translation</comment>
     <model>wikitext</model>
-    <parentid>8192</parentid>
-    <sha1>5ef45d033382a8e892c878bd638b2dcf78f05429</sha1>
+    <parentid>25183</parentid>
+    <sha1>1a79a79f49ea6d5a6bfa0b8e119fc9d80c22efe3</sha1>
   </revision>
 </page></mediawiki>

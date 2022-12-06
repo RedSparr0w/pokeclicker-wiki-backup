@@ -4,8 +4,8 @@
   <ns>0</ns>
   <id>764</id>
   <revision>
-    <id>25169</id>
-    <timestamp>2022-12-03T19:57:49Z</timestamp>
+    <id>31166</id>
+    <timestamp>2022-12-05T14:30:13Z</timestamp>
     <text space="preserve" bytes="4770">&lt;languages/&gt;
 &lt;translate&gt;
 &lt;!--T:1--&gt;
@@ -29,7 +29,8 @@
 &lt;!--T:2--&gt;
 '''Babiri''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by surrounding an empty plot with 4 [[Shuca]] and 4 [[Charti]] berries. The Babiri cannot be taken over through the parasite aura at any stage of its growth.
 
-== Growth Tables == &lt;!--T:3--&gt;
+&lt;!--T:3--&gt;
+== Growth Tables ==
 === Growth Stages ===
 {| class="wikitable" | style = "image-rendering: pixelated"
 !!! Sprout !! Taller !! Bloom !! Berry
@@ -44,7 +45,8 @@
 | || &lt;center&gt; x0.5 || &lt;center&gt; x0.25 || &lt;center&gt; x0
 |}
 
-=== Ripening Time with Modifiers  === &lt;!--T:4--&gt;
+&lt;!--T:4--&gt;
+=== Ripening Time with Modifiers  ===
 {| class="wikitable" | style="text-align: center;"
 ! Modifier !! Ripe-Wither Time !! Boost Mulch Needed to Ripen
 |-
@@ -58,11 +60,13 @@
 | 8 hours -&lt;br&gt; 16 hours || 96 mulch
 |}
 
-== Flow Chart == &lt;!--T:5--&gt;
+&lt;!--T:5--&gt;
+== Flow Chart ==
 [[File:Babiri_Flow_Chart1.png|500px]]
 &lt;br&gt;
 
-== Mutation Strategy == &lt;!--T:6--&gt;
+&lt;!--T:6--&gt;
+== Mutation Strategy ==
 === Possible Planting Formations ===
 
 &lt;!--T:7--&gt;
@@ -83,7 +87,8 @@ You can fill your farm in the following way to obtain Babiri berries. Purple squ
 | [[File:Shuca.png|30px]]&lt;br&gt;[[Shuca]] || [[File:Shuca.png|30px]]&lt;br&gt;[[Shuca]] || [[File:Shuca.png|30px]]&lt;br&gt;[[Shuca]] || [[File:Shuca.png|30px]]&lt;br&gt;[[Shuca]] || [[File:Shuca.png|30px]]&lt;br&gt;[[Shuca]] 
 |}
 
-=== Timing Table === &lt;!--T:9--&gt;
+&lt;!--T:9--&gt;
+=== Timing Table ===
 {| class="wikitable"| style="text-align: center;"
 |+ ''All planting times use the time-to-ripe remaining of the first planted berry for subsequent planting times''
 ! Berry !! Planting Time with &lt;br&gt; No Modifier !! Planting Time with &lt;br&gt; Mulch or Sprayduck || Planting Time with &lt;br&gt;  Mulch &amp; Sprayduck
@@ -93,7 +98,8 @@ You can fill your farm in the following way to obtain Babiri berries. Purple squ
 | [[Charti]] || 10 hours 30 mins until ripe || 7 hours until ripe || 4 hours 40 mins until ripe
 |}
 
-==Uses== &lt;!--T:10--&gt;
+&lt;!--T:10--&gt;
+==Uses==
 ===Mutations===
 
 &lt;!--T:11--&gt;
@@ -108,7 +114,8 @@ Babiri berries can be used to mutate the following berries.
 |-
 |}
 
-==Using Babiri== &lt;!--T:13--&gt;
+&lt;!--T:13--&gt;
+==Using Babiri==
 Farm setups using Babiri can be found here:
 * [[Pokémon_Day_Care|Maximizing Egg step gain for Breeding Pokemon faster]] 
 
@@ -125,9 +132,9 @@ Farm setups using Babiri can be found here:
       <username>DraKay</username>
       <id>18</id>
     </contributor>
-    <comment></comment>
+    <comment>Marked this version for translation</comment>
     <model>wikitext</model>
-    <parentid>7935</parentid>
-    <sha1>9e5aa8cebc1d28d9f0943c983c54972f429c898f</sha1>
+    <parentid>25169</parentid>
+    <sha1>4844f7dbac356e28c15b63d152dce064868d1d5c</sha1>
   </revision>
 </page></mediawiki>

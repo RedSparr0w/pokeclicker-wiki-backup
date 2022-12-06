@@ -4,8 +4,8 @@
   <ns>0</ns>
   <id>706</id>
   <revision>
-    <id>25158</id>
-    <timestamp>2022-12-03T19:51:31Z</timestamp>
+    <id>31083</id>
+    <timestamp>2022-12-05T14:29:21Z</timestamp>
     <text space="preserve" bytes="4881">&lt;languages/&gt;
 &lt;translate&gt;
 &lt;!--T:1--&gt;
@@ -29,7 +29,8 @@
 &lt;!--T:2--&gt;
 '''Chople''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by planting [[Spelon]] and equipping the [[Blaze Cassette]]. The Spelon will then have a chance to mutate into this berry.  This berry can be bought from the Johto [[Berry Master]] for 10,000 {{farmpoints}} if the player is running the "No Oak Item" [[Challenge Mode|challenge]], and has already unlocked the Spelon berry.
 
-== Growth Tables == &lt;!--T:3--&gt;
+&lt;!--T:3--&gt;
+== Growth Tables ==
 === Growth Stages ===
 {| class="wikitable" | style = "image-rendering: pixelated"
 ! !! Sprout !! Taller !! Bloom !! Berry
@@ -44,7 +45,8 @@
 | || &lt;center&gt; x1.01 || &lt;center&gt; x1.02 || &lt;center&gt; x1.03
 |}
 
-=== Ripening Time with Modifiers  === &lt;!--T:4--&gt;
+&lt;!--T:4--&gt;
+=== Ripening Time with Modifiers  ===
 {| class="wikitable" | style="text-align: center;"
 ! Modifier !! Ripe-Wither Time !! Boost Mulch Needed to Ripen
 |-
@@ -58,11 +60,13 @@
 | 4 hours 26 mins 40 secs -&lt;br&gt; 8 hours 53 mins 20 secs || 54 mulch
 |}
 
-== Flow Chart == &lt;!--T:5--&gt;
+&lt;!--T:5--&gt;
+== Flow Chart ==
 [[File:Chople_Flow_Chart.png|400px]]
 &lt;br&gt;
 
-== Mutation Strategy == &lt;!--T:6--&gt;
+&lt;!--T:6--&gt;
+== Mutation Strategy ==
 === Possible Planting Formations ===
 
 &lt;!--T:7--&gt;
@@ -83,7 +87,8 @@ You can fill your farm in the following way to obtain Chople berries. Purple squ
 | [[File:Spelon.png|30px]]&lt;br&gt;'''[[Spelon]]''' || [[File:Spelon.png|30px]]&lt;br&gt;'''[[Spelon]]''' || [[File:Spelon.png|30px]]&lt;br&gt;'''[[Spelon]]''' || [[File:Spelon.png|30px]]&lt;br&gt;'''[[Spelon]]''' || [[File:Spelon.png|30px]]&lt;br&gt;'''[[Spelon]]'''
 |}
 
-==Uses== &lt;!--T:9--&gt;
+&lt;!--T:9--&gt;
+==Uses==
 ===Mutations===
 
 &lt;!--T:10--&gt;
@@ -103,7 +108,8 @@ Chople berries can be used to mutate the following berries.
 &lt;!--T:12--&gt;
 &lt;br&gt;
 
-==Using Chople== &lt;!--T:13--&gt;
+&lt;!--T:13--&gt;
+==Using Chople==
 Farm setups using Chople can be found here:
 * [[Pokémon_Day_Care|Maximizing Egg step gain for Breeding Pokemon faster]] 
 * [[Shiny Chance|Maximizing Shiny Chance to turn all Pokemon Shiny]]
@@ -119,9 +125,9 @@ Farm setups using Chople can be found here:
       <username>DraKay</username>
       <id>18</id>
     </contributor>
-    <comment></comment>
+    <comment>Marked this version for translation</comment>
     <model>wikitext</model>
-    <parentid>7614</parentid>
-    <sha1>ab86fa3ecd2a8bb64a44af0113a0dd78c592da57</sha1>
+    <parentid>25158</parentid>
+    <sha1>d95b2ba8dc103dab4ddb38c6391eb802255c5463</sha1>
   </revision>
 </page></mediawiki>

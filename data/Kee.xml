@@ -4,8 +4,8 @@
   <ns>0</ns>
   <id>583</id>
   <revision>
-    <id>25175</id>
-    <timestamp>2022-12-03T20:01:53Z</timestamp>
+    <id>30771</id>
+    <timestamp>2022-12-05T14:26:17Z</timestamp>
     <text space="preserve" bytes="3316">&lt;languages/&gt;
 &lt;translate&gt;
 &lt;!--T:1--&gt;
@@ -29,7 +29,8 @@
 &lt;!--T:2--&gt;
 '''Kee''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by surrounding an empty plot with at least 1 [[Liechi]] and at least 1 [[Ganlon]].
 
-== Growth Tables == &lt;!--T:3--&gt;
+&lt;!--T:3--&gt;
+== Growth Tables ==
 === Growth Stages ===
 {| class="wikitable" | style = "image-rendering: pixelated"
 ! !! Sprout !! Taller !! Bloom !! Berry
@@ -41,7 +42,8 @@
 | &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt;[[File:KeeTreeTaller.png|50px]] || &lt;center&gt;[[File:KeeTreeBloom.png|50px]] || &lt;center&gt;[[File:KeeTreeBerry.png|50px]]
 |}
 
-=== Ripening Time with Modifiers  === &lt;!--T:4--&gt;
+&lt;!--T:4--&gt;
+=== Ripening Time with Modifiers  ===
 {| class="wikitable" | style="text-align: center;"
 ! Modifier !! Ripe-Wither Time !! Boost Mulch Needed to Ripen
 |-
@@ -55,11 +57,13 @@
 | 4 hours 29 mins 20 secs -&lt;br&gt; 8 hours 58 mins 40 secs || 54 mulch
 |}
 
-== Flow Chart == &lt;!--T:5--&gt;
+&lt;!--T:5--&gt;
+== Flow Chart ==
 [[File:Kee_Flow_Chart.png|500px]]
 &lt;br&gt;
 
-== Mutation Strategy == &lt;!--T:6--&gt;
+&lt;!--T:6--&gt;
+== Mutation Strategy ==
 === Possible Planting Formations ===
 
 &lt;!--T:7--&gt;
@@ -80,7 +84,8 @@ You can fill your farm in the following way to obtain Kee berries. Purple square
 | style="background-color:#9C7D98;" | || [[File:Ganlon.png|30px]] [[Ganlon]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Ganlon.png|30px]] [[Ganlon]] 
 |}
 
-=== Timing Table === &lt;!--T:9--&gt;
+&lt;!--T:9--&gt;
+=== Timing Table ===
 {| class="wikitable"| style="text-align: center;"
 |+ ''All planting times use the time-to-ripe remaining of the first planted berry for subsequent planting times''
 ! Berry !! Planting Time with &lt;br&gt; No Modifier !! Planting Time with &lt;br&gt; Mulch or Sprayduck || Planting Time with &lt;br&gt;  Mulch &amp; Sprayduck
@@ -103,9 +108,9 @@ Note: Ganlon and Liechi berries have equivalent growth times.
       <username>DraKay</username>
       <id>18</id>
     </contributor>
-    <comment></comment>
+    <comment>Marked this version for translation</comment>
     <model>wikitext</model>
-    <parentid>6985</parentid>
-    <sha1>523fc6c3d1b6012f8c58a175adb5e727cf17dcba</sha1>
+    <parentid>25175</parentid>
+    <sha1>a5dd02f0bd04eeaa3d6210af1a7ba896f7341f72</sha1>
   </revision>
 </page></mediawiki>

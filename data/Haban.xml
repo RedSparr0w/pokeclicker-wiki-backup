@@ -4,8 +4,8 @@
   <ns>0</ns>
   <id>628</id>
   <revision>
-    <id>25167</id>
-    <timestamp>2022-12-03T19:57:03Z</timestamp>
+    <id>30885</id>
+    <timestamp>2022-12-05T14:27:19Z</timestamp>
     <text space="preserve" bytes="6718">&lt;languages/&gt;
 &lt;translate&gt;
 &lt;!--T:1--&gt;
@@ -29,7 +29,8 @@
 &lt;!--T:2--&gt;
 '''Haban''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by surrounding an empty plot with at least 1 [[Occa]], at least 1 [[Rindo]], at least 1 [[Passho]] and at least 1 [[Wacan]].
 
-== Growth Tables == &lt;!--T:3--&gt;
+&lt;!--T:3--&gt;
+== Growth Tables ==
 === Growth Stages ===
 {| class="wikitable" | style = "image-rendering: pixelated"
 ! !! Sprout !! Taller !! Bloom !! Berry
@@ -44,7 +45,8 @@
 | || &lt;center&gt; x0.8 || &lt;center&gt; x0.6 || &lt;center&gt; x0.5
 |}
 
-=== Ripening Time with Modifiers  === &lt;!--T:4--&gt;
+&lt;!--T:4--&gt;
+=== Ripening Time with Modifiers  ===
 {| class="wikitable" | style="text-align: center;"
 ! Modifier !! Ripe-Wither Time !! Boost Mulch Needed to Ripen
 |-
@@ -58,10 +60,12 @@
 | 10 hours 40 mins -&lt;br&gt; 21 hours 20 mins || 128 mulch
 |}
 
-== Flow Chart == &lt;!--T:5--&gt;
+&lt;!--T:5--&gt;
+== Flow Chart ==
 [[File:Haban_Flow_Chart2.png|750px]]
 
-== Mutation Strategy == &lt;!--T:6--&gt;
+&lt;!--T:6--&gt;
+== Mutation Strategy ==
 === Possible Planting Formations ===
 
 &lt;!--T:7--&gt;
@@ -102,7 +106,8 @@ You can fill your farm in the following way to obtain Haban berries. Purple squa
 | style="width: 40px;" | || style="width: 40px;" | [[File:Passho.png|30px]] [[Passho]] || style="width: 40px;" | [[File:Wacan.png|30px]] [[Wacan]] || style="width: 40px;" | [[File:Rindo.png|30px]]&lt;br&gt;[[Rindo]] || style="width: 40px;" | 
 |}
 
-=== Timing Table === &lt;!--T:10--&gt;
+&lt;!--T:10--&gt;
+=== Timing Table ===
 {| class="wikitable"| style="text-align: center;"
 |+ ''All planting times use the time-to-ripe remaining of the first planted berry for subsequent planting times''
 ! Berry !! Planting Time with &lt;br&gt; No Modifier !! Planting Time with &lt;br&gt; Mulch or Sprayduck || Planting Time with &lt;br&gt;  Mulch &amp; Sprayduck
@@ -116,10 +121,12 @@ You can fill your farm in the following way to obtain Haban berries. Purple squa
 | [[Wacan]] || 30 mins until ripe || 20 mins until ripe || 13 mins 20 secs until ripe
 |}
 
-=== Important Notes === &lt;!--T:11--&gt;
+&lt;!--T:11--&gt;
+=== Important Notes ===
 [[Wacan]] berries will speed up the growth rates of [[Rindo]], [[Passho]], and [[Occa]] berries planted adjacent to them. This timing table does not account for this deviation in growth timings. However, it is a relatively minor difference that does not significantly impact ripenings of all four berries at about the same time. Furthermore, the other three berries (Rindo, Passho, Occa) have long enough wither times to allow for this minor discrepancy to be unimportant. Finally, the most likely limiting factor in achieving the Haban mutation is the Wacan berries withering, and these can be replanted several more times prior to any other berry types withering.
 
-==Uses== &lt;!--T:12--&gt;
+&lt;!--T:12--&gt;
+==Uses==
 ===Mutations===
 
 &lt;!--T:13--&gt;
@@ -134,7 +141,8 @@ Haban berries can be used to mutate the following berries.
 |-
 |}
 
-==Using Haban== &lt;!--T:15--&gt;
+&lt;!--T:15--&gt;
+==Using Haban==
 Farm setups using Haban can be found here:
 * [[Pokémon_Day_Care|Maximizing Egg step gain for Breeding Pokemon faster]] 
 
@@ -151,9 +159,9 @@ Farm setups using Haban can be found here:
       <username>DraKay</username>
       <id>18</id>
     </contributor>
-    <comment></comment>
+    <comment>Marked this version for translation</comment>
     <model>wikitext</model>
-    <parentid>7220</parentid>
-    <sha1>1449015184624a25a8231f2236165cc14920e35f</sha1>
+    <parentid>25167</parentid>
+    <sha1>02f4e7409661b25e54e59a73ea4562c9fbee80a3</sha1>
   </revision>
 </page></mediawiki>
