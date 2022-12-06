@@ -18,14 +18,15 @@
 
   var xmlsplit = new XmlSplit(1, 'page')
   var inputStream = fs.createReadStream(`data-dump/${files[0]}`) // from somewhere
-  const titles = new Set();
+  const titles = {};
   inputStream.pipe(xmlsplit).on('data', function(data) {
     let xmlDocument = data.toString();
     const title = (xmlDocument.match(/<title>(.*)<\/title>/) || [,'undefined'])[1];
+    const date = new Date((xmlDocument.match(/<timestamp>(.*)<\/timestamp>/) || [,'0'])[1]);
 
     if (title.includes('/')) return;
     if (
-      titles.has(title)
+      titles[title] > date
       || title.includes('File:')
       || title.includes('Talk:')
       || title.includes('Forum:')
@@ -37,8 +38,13 @@
     const isRedirectSamePage = new RegExp(`#REDIRECT \\[\\[${title}\\]\\]`, 'i')
     if (isRedirectSamePage.test(xmlDocument)) return;
 
-    titles.add(title);
-    xmlDocument = `${xmlDocument.substring(0, xmlDocument.indexOf('<siteinfo>') - 3)}${xmlDocument.substring(xmlDocument.indexOf('</siteinfo>') + 12)}`
+    titles[title] = date.getTime(); 
+    // Remove our site info
+    if (xmlDocument.includes('<siteinfo>')) xmlDocument = `${xmlDocument.substring(0, xmlDocument.indexOf('<siteinfo>') - 3)}${xmlDocument.substring(xmlDocument.indexOf('</siteinfo>') + 12)}`;
+    // Replace any extra revisions
+    xmlDocument = xmlDocument.replace('<revision>', '<revision-main>').replace('</revision>', '</revision-main>');
+    while (xmlDocument.includes('<revision>') && xmlDocument.includes('</revision>')) xmlDocument = `${xmlDocument.substring(0, xmlDocument.indexOf('<revision>') - 3)}${xmlDocument.substring(xmlDocument.indexOf('</revision>') + 11)}`;
+    xmlDocument = xmlDocument.replace('<revision-main>', '<revision>').replace('</revision-main>', '</revision>');
 
     if (title.includes(':')) {
       fs.promises.mkdir(`data/${title.replace(/:/g, '/').replace(/\/[^\/]+$/, '')}`, { recursive: true }).catch(console.error).then(() => {
