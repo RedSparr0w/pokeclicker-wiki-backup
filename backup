@@ -3,11 +3,13 @@
 cd /wikiteam3/wikiteam3
 
 # Delete our old data-dump
-rm /pokeclicker-wiki-backup/data -r
 rm /pokeclicker-wiki-backup/data-dump -r
 
 # Generate our new data
 dumpgenerator --xmlrevisions --xml --api=https://pokeclicker.miraheze.org/w/api.php --path=/pokeclicker-wiki-backup/data-dump
+
+# Delete our old data
+rm /pokeclicker-wiki-backup/data -r
 
 # Split the xml up
 cd /pokeclicker-wiki-backup
@@ -20,6 +22,9 @@ cp /pokeclicker-wiki-backup/data-dump/siteinfo.json /pokeclicker-wiki-backup/dat
 git add .
 git commit -am "updated data"
 git push
+
+# Delete our data-dump (free up space)
+rm /pokeclicker-wiki-backup/data-dump -r
 
 # log the date
 echo "Data backed up"

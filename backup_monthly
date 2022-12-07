@@ -3,13 +3,15 @@
 cd /wikiteam3/wikiteam3
 
 # Delete our old data-dump
-rm /pokeclicker-wiki-backup/data-dump-images
-rm /pokeclicker-wiki-backup/images
+rm /pokeclicker-wiki-backup/data-dump-images -r
 
 # Generate our new data
 dumpgenerator --images --api=https://pokeclicker.miraheze.org/w/api.php --path=/pokeclicker-wiki-backup/data-dump-images
 
-# Delete our desc files
+# Delete our old images
+rm /pokeclicker-wiki-backup/images -r
+
+# Delete the .desc files
 find /pokeclicker-wiki-backup/data-dump-images/images -name "*.desc" -type f -delete
 
 # Move the images
@@ -21,8 +23,8 @@ git add .
 git commit -am "updated images"
 git push
 
-# Delete our data-dump
-rm /pokeclicker-wiki-backup/data-dump-images
+# Delete our data-dump (free up space)
+rm /pokeclicker-wiki-backup/data-dump-images -r
 
 # log the date
 echo "Images backed up"
