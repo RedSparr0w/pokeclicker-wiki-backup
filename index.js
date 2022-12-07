@@ -34,7 +34,7 @@
     }
 
     if (
-      titles[title] > date
+      titles[title.toLowerCase()] > date
       || title.includes('File:')
       || title.includes('Talk:')
       || title.includes('Forum:')
@@ -43,7 +43,7 @@
       || title.includes('talk:')
     ) return;
 
-    titles[title] = date.getTime(); 
+    titles[title.toLowerCase()] = date.getTime(); 
 
     if (!title.includes(':')) {
       title = `Main:${title}`;
@@ -59,7 +59,7 @@
     while (xmlDocument.includes('<revision>') && xmlDocument.includes('</revision>')) xmlDocument = `${xmlDocument.substring(0, xmlDocument.indexOf('<revision>') - 3)}${xmlDocument.substring(xmlDocument.indexOf('</revision>') + 11)}`;
     xmlDocument = xmlDocument.replace('<revision-main>', '<revision>').replace('</revision-main>', '</revision>');
 
-    // Update our titles
+    // Update our titles to make folders
     title = title.replace(/:/g, '/');
 
     if (title.includes('/')) {
