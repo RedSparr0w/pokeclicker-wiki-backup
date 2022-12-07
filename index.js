@@ -24,8 +24,6 @@
     let title = (xmlDocument.match(/<title>(.*)<\/title>/) || [,'undefined'])[1];
     const date = new Date((xmlDocument.match(/<timestamp>(.*)<\/timestamp>/) || [,'0'])[1]);
 
-    if (title != 'Aguav') return;
-
     // Move language to the start
     if (title.startsWith('Translations:')) title = title.replace(/:(.*)\/(.*)\/(.*)/, ':$3/$1/$2');
     if (/\/[a-z]{2}$/.test(title)) {
