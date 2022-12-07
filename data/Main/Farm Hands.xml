@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>3430</id>
   <revision>
-    <id>13105</id>
-    <timestamp>2021-10-03T13:53:33Z</timestamp>
-    <text space="preserve" bytes="2475">'''Farm hands''' are people that can be hired to work on your [[farm]], which are used to automate planting and harvesting berries.  Many are unlocked by unlocking a certain number of berries, while others can be unlocked from certain shops.  Once hired, farm hands will work until they are fired.  This feature is currently in beta, and is subject to change.
+    <id>13108</id>
+    <timestamp>2021-10-04T20:27:00Z</timestamp>
+    <text space="preserve" bytes="3552">'''Farm hands''' are people that can be hired to work on your [[farm]], which are used to automate planting and harvesting berries.  Many are unlocked by unlocking a certain number of berries, while others can be unlocked from certain shops.  Once hired, farm hands will work until they are fired.  This feature is currently in beta, and is subject to change.
 
 ==Unlocking Farm Hands==
 
@@ -34,7 +34,7 @@
 |-
 |}
 
-== Usage ==
+== Stats ==
 Farm hands have 4 important stats: cost, work speed, efficiency, and max energy (see below).  At this time, farm hands recover exactly 1 energy when fired, and do not recover any more energy when fired.
 
 {| class="wikitable" style="text-align: center;"
@@ -51,14 +51,24 @@ Farm hands have 4 important stats: cost, work speed, efficiency, and max energy 
 |-
 |}
 
+== Usage ==
+
+Clicking on "Allowed Plots" opens a dropdown that allows you to select which specific plots the farm hand works on, where green is a space where they are allowed to work.  Selecting the Berry Planting dropdown will allow the player to pick a specific berry to plant in those specific plots.  Clicking the Harvest checkbox will allow that farmhand to harvest from those specific plots.
+
+
+
+[[File:FarmHandExample1.png|right|400px]]
+
+In this example, Alex and Logan are going to work on the farm together (once hired).  Alex is planting [[Wacan]] berries along the outside, down the third column, and across the third row.  Logan is planting [[Lum|Lums]] in the remaining spaces.  Alex will harvest all berries along the outside, down the third column, and across the third row (which could be Wacans, [[Kasib|Kasibs]], etc.) and will put Wacans in those empty plots.  Logan will plant Lums in the 4 plots they have been told to watch, but only if they are empty.  Logan will not harvest any berries, and will do nothing, except plant those 4 empty plots with Lums.
+
 [[Category:Farm]]</text>
     <contributor>
-      <username>GarrikFel</username>
-      <id>23</id>
+      <username>Jk13</username>
+      <id>14</id>
     </contributor>
-    <comment>Created page with "'''Farm hands''' are people that can be hired to work on your [[farm]], which are used to automate planting and harvesting berries.  Many are unlocked by unlocking a certain n..."</comment>
+    <comment></comment>
     <model>wikitext</model>
-    <parentid>0</parentid>
-    <sha1>19a5905244c2edff3ca3920eda888ad08dcc814c</sha1>
+    <parentid>13107</parentid>
+    <sha1>9ac035f43cd4ea135bc15e5c8bec2724ba3625a0</sha1>
   </revision>
 </page></mediawiki>

@@ -824,6 +824,19 @@
                 "version": "3.0.0"
             },
             {
+                "author": "David M. Sledge, Purodha Blissenbach, Universal Omega, ...",
+                "descriptionmsg": "pipeescape-desc",
+                "license": "/wiki/Special:Version/License/Pipe_Escape",
+                "license-name": "GPL-2.0-or-later",
+                "name": "Pipe Escape",
+                "namemsg": "pipeescape-extensionname",
+                "type": "parserhook",
+                "url": "https://www.mediawiki.org/wiki/Extension:Pipe_Escape",
+                "vcs-system": "git",
+                "vcs-version": "2e43a9fd19ab238c473fecd2dbf902120b306e15",
+                "version": "3.0.0"
+            },
+            {
                 "author": "Brion Vibber, Tim Starling, Rob Church, Niklas Laxstr\u00f6m, Ori Livneh, Ed Sanders",
                 "descriptionmsg": "syntaxhighlight-desc",
                 "license": "/wiki/Special:Version/License/SyntaxHighlight",
@@ -1017,7 +1030,7 @@
             "minuploadchunksize": 1024,
             "mobileserver": "https://pokeclicker.miraheze.org",
             "phpsapi": "fpm-fcgi",
-            "phpversion": "7.4.33",
+            "phpversion": "7.4.30",
             "script": "/w/index.php",
             "scriptpath": "/w",
             "server": "https://pokeclicker.miraheze.org",
@@ -1031,7 +1044,7 @@
                 250,
                 300
             ],
-            "time": "2022-12-06T02:09:45Z",
+            "time": "2022-12-07T02:10:25Z",
             "timeoffset": 0,
             "timezone": "UTC",
             "titleconversion": "",
@@ -5741,13 +5754,13 @@
         ],
         "statistics": {
             "activeusers": 4,
-            "admins": 4,
-            "articles": 2689,
-            "edits": 27962,
-            "images": 4685,
+            "admins": 5,
+            "articles": 2711,
+            "edits": 28389,
+            "images": 4690,
             "jobs": 0,
-            "pages": 11439,
-            "users": 201
+            "pages": 11688,
+            "users": 208
         },
         "usergroups": [
             {
@@ -5783,7 +5796,7 @@
             },
             {
                 "name": "autopatrolled",
-                "number": 2,
+                "number": 3,
                 "rights": [
                     "autopatrol",
                     "patrol",
@@ -5830,7 +5843,7 @@
             },
             {
                 "name": "confirmed",
-                "number": 14,
+                "number": 16,
                 "rights": [
                     "editsemiprotected",
                     "autoconfirmed",
@@ -5866,7 +5879,7 @@
                     "rollbacker"
                 ],
                 "name": "sysop",
-                "number": 4,
+                "number": 5,
                 "remove": [
                     "autopatrolled",
                     "confirmed",
@@ -5955,7 +5968,7 @@
             },
             {
                 "name": "user",
-                "number": 201,
+                "number": 208,
                 "rights": [
                     "move",
                     "move-subpages",

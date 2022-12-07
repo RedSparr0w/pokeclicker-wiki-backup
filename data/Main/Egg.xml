@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>7</id>
   <revision>
-    <id>155</id>
-    <timestamp>2020-09-03T13:50:35Z</timestamp>
-    <text space="preserve" bytes="537">'''Eggs''' are items that contain Pokemons. Eggs can be obtained in 2 ways : Hatch a shop egg or a level 100 Pokemon.
+    <id>161</id>
+    <timestamp>2020-09-03T14:20:01Z</timestamp>
+    <text space="preserve" bytes="1013">'''Eggs''' are items that contain Pokémon. Eggs can be obtained in 2 ways: Buy from a shop or breed a level 100 Pokémon. Getting the egg through the latter method will boost the egged Pokémon's attack by 25% of its base attack.
 == Shop Egg Pool ==
 '''&lt;big&gt;Kanto&lt;/big&gt;'''
 {| class="wikitable sortable"
@@ -20,14 +20,30 @@
 | Ponyta || Bellsprout || Staryu || Voltorb || Machop || Dragonite
 |-
 | Vulpix || Tangela || Psyduck || Electabuzz || Mankey ||
-|}</text>
+|}
+
+'''&lt;big&gt;Johto&lt;/big&gt;'''
+{| class="wikitable sortable"
+|-
+! Fire !! Grass !! Water !! Electric !! Fighting !! Dragon
+|-
+| Cyndaquil || Chickorita || Totodile || Chinchou || Tyrogue ||
+|-
+| Slugma || Hoppip || Wooper || Mareep || ||
+|-
+| Houndour || Sunkern || Marill || Elekid || ||
+|-
+| Magby ||      || Qwilfish || || ||
+|}
+
+[[Category:Eggs]] [[Category:Items]]</text>
     <contributor>
-      <username>Anapple96</username>
-      <id>2</id>
+      <username>ElvisDitto</username>
+      <id>19</id>
     </contributor>
     <comment></comment>
     <model>wikitext</model>
-    <parentid>154</parentid>
-    <sha1>fc5ef903171f8aae83b6f4d4b748b0a26acbc42e</sha1>
+    <parentid>160</parentid>
+    <sha1>20b36b4e7210a5c4021924bfd1ec3904387029eb</sha1>
   </revision>
 </page></mediawiki>

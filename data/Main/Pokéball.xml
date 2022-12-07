@@ -4,45 +4,43 @@
   <ns>0</ns>
   <id>185</id>
   <revision>
-    <id>2935</id>
-    <timestamp>2020-09-30T15:02:20Z</timestamp>
-    <text space="preserve" bytes="713">{{Infobox pokeball item
+    <id>2937</id>
+    <timestamp>2020-09-30T16:25:06Z</timestamp>
+    <text space="preserve" bytes="865">{{Infobox battle item
 |name       = Pokeball
-|image      = [[File:Bag_X_Click_Sprite.png]]
-|caption    = Artwork of the ''Pokeball''.
-|price      = 400
-|location   = Saffron City, Viridian City
+|image      = [[File:Ball_Pokeball.png]]
+|caption    = In-Game image of the ''Pokeball''.
+|price      = {{pdollar}}100
+|location   = Viridian City, Pewter City, New Bark Town, Littleroot Town, Twinleaf Town, Poké Mart
 }}
 
-The '''Pokeball''' is a type of pokeball item. It automatically tries to catch a wild Pokemon after defeating it.
+The '''Pokeball''' is a type of pokeball. It automatically tries to catch a wild Pokemon after defeating it if it or a higher type of pokeball is active.
 
 
 ==Details==
 ===Description===
-+50% Bonus to click attack
+A basic pokeball to capture pokemon with. It has no catch rate multipliers.
 
 ===Acquisition===
 {{ItemPrice/head‎|Battle items}}
-{{ItemPrice|Dungeon Drop|Random}}
-{{ItemPrice|Saffron City|{{pdollar}}400}}
-{{ItemPrice|Viridian City|{{pdollar}}400}}
+{{ItemPrice|Viridian City|{{pdollar}}100}}
+{{ItemPrice|Pewter City|{{pdollar}}100}}
+{{ItemPrice|New Bark Town|{{pdollar}}100}}
+{{ItemPrice|Littleroot Town|{{pdollar}}100}}
+{{ItemPrice|Twinleaf Town|{{pdollar}}100}}
+{{ItemPrice|Poké Mart|{{pdollar}}100}}
 |}
 |}
 
 
-== Trivia ==
-* While the Click is an original item, it uses the design of the X Defence from official Pokémon games.
-
-
-{{Battle items}}&lt;br&gt;
 [[Category:Items]]</text>
     <contributor>
       <username>Fonzy420</username>
       <id>37</id>
     </contributor>
-    <comment>Created page with "{{Infobox pokeball item |name       = Pokeball |image      = [[File:Bag_X_Click_Sprite.png]] |caption    = Artwork of the ''Pokeball''. |price      = 400 |location   = Saffron..."</comment>
+    <comment></comment>
     <model>wikitext</model>
-    <parentid>0</parentid>
-    <sha1>f014ddde64da8ad31d5c4139afab6f2feda354d6</sha1>
+    <parentid>2936</parentid>
+    <sha1>6a1484e8bd907e29910c666c0f3c7b750195b8ee</sha1>
   </revision>
 </page></mediawiki>

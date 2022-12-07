@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>745</id>
   <revision>
-    <id>7833</id>
-    <timestamp>2020-11-23T17:53:55Z</timestamp>
-    <text space="preserve" bytes="1522">{{Infobox Berry
+    <id>7831</id>
+    <timestamp>2020-11-22T19:38:20Z</timestamp>
+    <text space="preserve" bytes="1526">{{Infobox Berry
 |name    = #62 Salac
 |image   = [[File:Salac.png]]
 |caption = This Berry is surrounded by mystery. It is rumored to be imbued with the power of the sky.
@@ -21,14 +21,14 @@
 *10 bitter
 *30 sour
 }}
-'''Salac''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by having at least one empty plot and at least 23 ripe [[Coba]] on the field. Pokemon #384 Rayquaza must have been caught to unlock this berry.
+'''Salac''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by having at least one empty plot and at least 23 ripe [[Coba]] on the field. #384 Rayquaza must have been caught to unlock this berry.
 
 {| class="wikitable"
 |+ Growth Stage Durations
 ! Seed !! Sprout !! Taller !! Bloom !! Berry
 |-
-| 0-6 Hours || 6-12 Hours || 12-24 Hours || 1-2 days || 2-4 days
-|- 
+| 0-21600s || 21600-43200s || 43200-86400s || 86400-172800s || 172800-345600s
+|-
 | [[File:AllTreeSeed.png|50px]] || [[File:AllTreeSprout.png|50px]] || [[File:SalacTreeTaller.png|50px]] || [[File:SalacTreeBloom.png|50px]] || [[File:SalacTreeBerry.png|50px]]
 |}
 
@@ -50,12 +50,12 @@ You can fill your [[farm]] in following way to obtain Salac berry.
 | || [[Coba]] || [[Coba]] || [[Coba]] || [[Coba]]
 |}</text>
     <contributor>
-      <username>Claygame</username>
-      <id>22</id>
+      <username>Kirby2729</username>
+      <id>67</id>
     </contributor>
-    <comment></comment>
+    <comment>Created page with "{{Infobox Berry |name    = #62 Salac |image   = [[File:Salac.png]] |caption = This Berry is surrounded by mystery. It is rumored to be imbued with the power of the sky. |growt..."</comment>
     <model>wikitext</model>
-    <parentid>7832</parentid>
-    <sha1>56746a984a6aa4dac8dd975fdcd5f73385a1aad1</sha1>
+    <parentid>0</parentid>
+    <sha1>890d61f333e620cc7f765dc31021ef10433358e0</sha1>
   </revision>
 </page></mediawiki>

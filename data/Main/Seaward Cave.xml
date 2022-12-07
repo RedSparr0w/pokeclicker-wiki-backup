@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>3971</id>
   <revision>
-    <id>14491</id>
-    <timestamp>2022-04-16T01:21:25Z</timestamp>
-    <text space="preserve" bytes="1352">'''Seaward Cave''' is a [[Dungeons|dungeon]] in [[Alola]]. It initially has 121 tiles arranged in a 11x11 square, including 11 chest tiles, 41 non-boss encounter tiles, and 1 boss encounter tile. Wild Encounters have 11,845,338 HP.
+    <id>14493</id>
+    <timestamp>2022-04-16T07:13:27Z</timestamp>
+    <text space="preserve" bytes="1440">'''Seaward Cave''' is a [[Dungeons|dungeon]] in [[Alola]]. It initially has 121 tiles arranged in a 11x11 square, including 11 chest tiles, 41 non-boss encounter tiles, and 1 boss encounter tile. Wild Encounters have 11,845,338 HP.
 
 {{Infobox dungeon
 |name    = Seaward Cave
@@ -22,11 +22,11 @@
 
 {| class="wikitable"
 |-
-! Wild Pokémon !! colspan=2|Trainers
+! colspan=2|Wild Pokémon !! colspan=3|Trainers
 |-
-! Encounter !! Trainer !! Pokémon Team
+! Encounter !! Base Health !! Trainer !! Pokémon Team !! Base Health
 |-
-| [[File:Zubat.png|40px]] Zubat || rowspan=5 colspan=2|&lt;center&gt;N/A
+| [[File:Zubat.png|40px]] Zubat || rowspan=5 | &lt;center&gt; 11,845,338||rowspan=5 colspan=3|&lt;center&gt;N/A
 |-
 | [[File:Psyduck.png|40px]] Psyduck
 |-
@@ -59,14 +59,17 @@
 | {{Bag2|Token Collector}} || 4 || 50.00% || 50.00% || 50.00%
 |}
 
+
+{{Dungeons}}
+
 [[Category:Dungeons]]</text>
     <contributor>
-      <username>SomeonealiveQN</username>
-      <id>5</id>
+      <username>Slk</username>
+      <id>6</id>
     </contributor>
-    <comment>Seaward cave</comment>
+    <comment>/* Wild Encounters */</comment>
     <model>wikitext</model>
-    <parentid>0</parentid>
-    <sha1>825dce35e9151ef16e1844dd33a3771924b9fceb</sha1>
+    <parentid>14492</parentid>
+    <sha1>75b96fd5c66a1d2040369ad7376c47500ed4d757</sha1>
   </revision>
 </page></mediawiki>

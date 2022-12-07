@@ -1,19 +1,64 @@
 <mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
 <page>
-  <title>Mystery egg</title>
+  <title>Mystery Egg</title>
   <ns>0</ns>
-  <id>197</id>
+  <id>3610</id>
   <revision>
-    <id>3351</id>
-    <timestamp>2020-10-01T03:43:28Z</timestamp>
-    <text space="preserve" bytes="17">#REDIRECT [[Egg]]</text>
+    <id>13595</id>
+    <timestamp>2022-03-04T07:03:22Z</timestamp>
+    <text space="preserve" bytes="2153">{{Infobox egg
+|name       = Mystery Egg
+|image      = [[File:Mystery_Egg.png]]
+|caption    = In-Game image of the ''Mystery Egg''.
+|price      = 700 {{Questpoints}}
+|location   = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*[[Towns &amp; Cities#Kanto|Pewter City]]
+*[[Towns &amp; Cities#Johto|Violet City]]
+*[[Towns &amp; Cities#Hoenn|Rustboro City]]
+*[[Towns &amp; Cities#Sinnoh|Oreburgh City]]
+*[[Towns &amp; Cities#Unova|Floccesy Town]]
+*[[Towns &amp; Cities#Kalos|Santalune Town]]
+}}
+
+==Description==
+
+A '''Mystery Egg''' is a type of Pokémon [[Egg]] that can hatch a Pokémon from multiple typings.
+
+==Hatch Table==
+
+For a list of Pokémon obtainable from the Mystery Egg, see the Shop Egg Pool section in [[Egg]]. Every Pokémon listed there can be obtained through a Mystery Egg up to and including your highest reached region. You do not have to have unlocked the shop containing the particular egg type. For example, it is possible to hatch a dratini from a Mystery Egg before reaching Fuchsia.
+
+== Acquisition ==
+{{ItemPrice/head‎|Egg items}}
+{{ItemPrice|[[Shops#Kanto:Locations_&amp;_Items|Pewter City]]|700 {{Questpoints}}}}
+{{ItemPrice|[[Shops#Johto:Locations_&amp;_Items|Violet City]]|700 {{Questpoints}}}}
+{{ItemPrice|[[Shops#Hoenn:Locations_&amp;_Items|Rustboro City]]|700 {{Questpoints}}}}
+{{ItemPrice|[[Shops#Sinnoh:Locations_&amp;_Items|Oreburgh City]]|700 {{Questpoints}}}}
+{{ItemPrice|[[Shops#Unova:Locations_&amp;_Items|Floccesy Town]]|700 {{Questpoints}}}}
+{{ItemPrice|[[Shops#Kalos:Locations_&amp;_Items|Santalune Town]]|700 {{Questpoints}}}}
+|}
+|} 
+
+=== Advantages ===
+Mystery Eggs cost less to buy from shop than any other shop eggs. They also allow you to gain certain Pokémon earlier than you otherwise could have, but primarily in Kanto as you keep your unhatched eggs between regions. As with any other egg, hatching a Mystery Egg of a Pokémon you already have will give it an attack boost similar to breeding.
+
+=== Disadvantages ===
+Mystery Eggs are less reliable for obtaining new Pokémon as they pull from a much larger pool, so they are best used when you don't have many egg Pokémon in your furthest reached region.
+
+
+
+
+{{Eggs}}&lt;br&gt;
+
+
+[[Category:Items]] [[Category:Eggs]]</text>
     <contributor>
-      <username>Liczale</username>
-      <id>20</id>
+      <username>Jk13</username>
+      <id>14</id>
     </contributor>
-    <comment>Redirected page to [[Egg]]</comment>
+    <comment>Protected "[[Mystery Egg]]": New Page ([Edit=Allow only autoconfirmed users] (indefinite) [Move=Allow only autoconfirmed users] (indefinite) [Delete=Allow only autoconfirmed users] (indefinite) [Protect=Allow only autoconfirmed users] (indefinite))</comment>
     <model>wikitext</model>
-    <parentid>0</parentid>
-    <sha1>7a2895a31390406dfc76304199596e0949beccae</sha1>
+    <parentid>13594</parentid>
+    <sha1>8709fbb97c57fe8ef1f1771bf3dd8e681c8ebaf9</sha1>
   </revision>
 </page></mediawiki>
