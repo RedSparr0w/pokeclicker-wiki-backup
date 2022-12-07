@@ -1,0 +1,31 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Translations:Yache/4/en</title>
+  <ns>1198</ns>
+  <id>10257</id>
+  <revision>
+    <id>30255</id>
+    <timestamp>2022-12-05T14:16:55Z</timestamp>
+    <text space="preserve" bytes="330">=== Ripening Time with Modifiers  ===
+{| class="wikitable" | style="text-align: center;"
+! Modifier !! Ripe-Wither Time !! Boost Mulch Needed to Ripen
+|-
+! None
+| 12 hours -&lt;br&gt; 1 day || ---
+|-
+! Mulch or Sprayduck
+| 8 hours -&lt;br&gt; 16 hours || 96 mulch
+|-
+! Mulch &amp; Sprayduck
+| 5 hours 20 mins -&lt;br&gt; 10 hours 40 mins || 64 mulch
+|}</text>
+    <contributor>
+      <username>FuzzyBot</username>
+      <id>133</id>
+    </contributor>
+    <comment>Importing a new version from external source</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>e80bfb052d3fb61a08594d694606f0d774c67b3b</sha1>
+  </revision>
+</page></mediawiki>

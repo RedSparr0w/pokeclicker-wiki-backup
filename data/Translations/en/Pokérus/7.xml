@@ -1,0 +1,23 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Translations:Pokérus/7/en</title>
+  <ns>1198</ns>
+  <id>10551</id>
+  <revision>
+    <id>30587</id>
+    <timestamp>2022-12-05T14:22:13Z</timestamp>
+    <text space="preserve" bytes="301">====EV Formulas====
+'''When a Pokémon has fewer than 50 EVs:''' &lt;br&gt;
+&lt;math&gt;\colorbox{White}{$ \text{EV Damage Multiplier} = 1 + (\text{EV} / 100)$}&lt;/math&gt; &lt;br&gt;&lt;br&gt;
+'''When a Pokémon has greater than 50 EVs:''' &lt;br&gt;
+&lt;math&gt;\colorbox{White}{$ \text{EV Damage Multiplier} = \text{EV} ^ log50(1,5)&lt;/math&gt;</text>
+    <contributor>
+      <username>FuzzyBot</username>
+      <id>133</id>
+    </contributor>
+    <comment>Importing a new version from external source</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>a14f6744f749639f5e8e1136fa18d230d1bf7b26</sha1>
+  </revision>
+</page></mediawiki>

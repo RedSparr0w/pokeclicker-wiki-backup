@@ -1,0 +1,42 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Translations:Template:Infobox evolution item/1/en</title>
+  <ns>0</ns>
+  <id>7229</id>
+  <revision>
+    <id>20719</id>
+    <timestamp>2022-07-29T18:05:51Z</timestamp>
+    <text space="preserve" bytes="1028">{|class="infobox bordered" style="float:right; width:264px; font-size:90%; text-align:left; border:2px solid #4d4494; padding:3px;" cellpadding="3"
+|- 
+!colspan="2" style="font-size:110%; text-align:center; background-color:#{{Evolution items color dark}}; color:#FFF;" | {{{name}}}
+|-
+{{#if:{{{image&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} colspan="2" style="text-align:center;" {{!}}{{{image}}}{{#if:{{{symbol|}}}|&lt;br /&gt;{{{symbol}}}}}{{#if:{{{caption|}}}|&lt;br /&gt;{{{caption}}}}}
+{{!}}-
+}}
+{{#if:{{{price&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#{{Evolution items color light}}; color:#000;" {{!}}'''Price'''
+{{!}}{{{price}}}
+{{!}}-
+}}
+{{#if:{{{location&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#{{Evolution items color light}}; color:#000;" {{!}}'''Location'''
+{{!}}{{{location}}}
+{{!}}-
+}}
+{{#if:{{{helditem&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#{{Evolution items color light}}; color:#000;" {{!}}'''Dropped by'''
+{{!}}{{{helditem}}}
+{{!}}-
+}}
+|}&lt;noinclude&gt;</text>
+    <contributor>
+      <username>FuzzyBot</username>
+      <id>133</id>
+    </contributor>
+    <comment>Importing a new version from external source</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>c31a5b45ab05fee1cc2b19339b22e7af0b46ee68</sha1>
+  </revision>
+</page></mediawiki>

@@ -1,0 +1,32 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Translations:Tanga/3/en</title>
+  <ns>1198</ns>
+  <id>10297</id>
+  <revision>
+    <id>30304</id>
+    <timestamp>2022-12-05T14:19:37Z</timestamp>
+    <text space="preserve" bytes="508">== Growth Tables ==
+=== Growth Stages ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+!!! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 7 mins 30 secs || 15 mins || 30 mins || 1 hour - 2 hours
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:TangaTreeTaller.png|50px]] || &lt;center&gt; [[File:TangaTreeBloom.png|50px]] || &lt;center&gt; [[File:TangaTreeBerry.png|50px]]
+|-
+! Aura (harvest amount)
+| || &lt;center&gt; x0.9 || &lt;center&gt; x0.8 || &lt;center&gt; x0.7
+|}</text>
+    <contributor>
+      <username>FuzzyBot</username>
+      <id>133</id>
+    </contributor>
+    <comment>Importing a new version from external source</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>84d778a38fbe2b7b2c8e5d95cd06eab9b32ba7de</sha1>
+  </revision>
+</page></mediawiki>

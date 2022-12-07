@@ -1,0 +1,36 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Translations:Safari Zone/5/en</title>
+  <ns>0</ns>
+  <id>6751</id>
+  <revision>
+    <id>19568</id>
+    <timestamp>2022-07-29T08:05:54Z</timestamp>
+    <text space="preserve" bytes="1405">==Actions==
+{| class="wikitable"
+! Action !! Effect
+|-
+| Ball || Attempt to catch the Pokémon with a Safari Ball. Based on catch chance, this action may fail, after which the Pokémon might flee (based on escape chance), watch carefully / be angry (i.e. do nothing), or resume eating bait. Upon running out of Safari Balls, the player will be forced out of the Safari Zone, requiring them to pay the entrance fee again to re-enter.
+|-
+| Rock || Toss a rock at the Pokémon, removing "eating" status and making it angry for 2 - 7 turns. When angry, a Pokémon's catch chance and escape chance are both doubled.
+|-
+| Run || Flee the encounter and return to the Safari Zone overworld without penalty.
+|-
+| colspan=2 | All three types of bait give the Pokémon "eating" status, and removes "angry" status. While eating, a Pokémon's catch chance is halved, and its escape chance is quartered. Pokémon begin encounters with an escape chance of 30%.
+|-
+| Bait (generic) || Gives the Pokémon "eating" status for 2 - 7 turns. No other effects.
+|-
+| Bait ([[Razz]] [[Berry]]) || Gives the Pokémon "eating" status for 2 - 8 turns. Divides escape chance by 1.5 for the rest of the encounter unless another type of bait is used.
+|-
+| Bait ([[Nanab]] [[Berry]]) || Gives the Pokémon "eating" status for 2 - 8 turns. Boosts catch chance by 1.5x for the rest of the encounter unless another type of bait is used.
+|}</text>
+    <contributor>
+      <username>FuzzyBot</username>
+      <id>133</id>
+    </contributor>
+    <comment>Importing a new version from external source</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>755edc93709024010889b4c7789a14c614e4f38b</sha1>
+  </revision>
+</page></mediawiki>

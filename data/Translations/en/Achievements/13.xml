@@ -1,0 +1,30 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Translations:Achievements/13/en</title>
+  <ns>1198</ns>
+  <id>9305</id>
+  <revision>
+    <id>31602</id>
+    <timestamp>2022-12-05T20:11:31Z</timestamp>
+    <text space="preserve" bytes="668">===Caught Unique Pokémon by Region===
+{| class="wikitable"
+! rowspan=2|Name !! rowspan=2|Requirement !! colspan=9|Regional Bonus Percentage
+|-
+! Kanto !! Johto !! Hoenn !! Sinnoh !! Unova !! Kalos !! Alola !! Galar !! Sevii
+|-
+| Region Trainer || Capture 10% of the Regional Pokédex || +0.61% || +0.58% || +0.48% || +0.46% || +0.51% || +0.62% || +0.45% || +0.33% || +0.70%
+|-
+| Region Ace || Capture 50% of the Regional Pokédex || +1.21% || +1.17% || +0.95% || +0.93% || +1.01% || +1.23% || +0.90% || +0.67% || -
+|-
+| Region Master || Capture 100% of the Regional Pokédex || +1.82% || +1.75% || +1.43% || +1.39% || +1.52% || +1.85% || +1.35% || +1.00% || +1.40%
+|}</text>
+    <contributor>
+      <username>FuzzyBot</username>
+      <id>133</id>
+    </contributor>
+    <comment>Importing a new version from external source</comment>
+    <model>wikitext</model>
+    <parentid>25227</parentid>
+    <sha1>7258607981bea04c07fdedb23f87691cdff5c129</sha1>
+  </revision>
+</page></mediawiki>

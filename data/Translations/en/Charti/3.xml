@@ -1,0 +1,32 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Translations:Charti/3/en</title>
+  <ns>1198</ns>
+  <id>11004</id>
+  <revision>
+    <id>31123</id>
+    <timestamp>2022-12-05T14:29:45Z</timestamp>
+    <text space="preserve" bytes="551">== Growth Tables ==
+=== Growth Stages ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 2 hours 23 mins 20 secs || 3 hours 36 mins || 6 hours 24 mins || 10 hours 30 mins - 21 hours
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:ChartiTreeTaller.png|50px]] || &lt;center&gt; [[File:ChartiTreeBloom.png|50px]] || &lt;center&gt; [[File:ChartiTreeBerry.png|50px]]
+|-
+! Aura (replant chance)
+| || &lt;center&gt; x0.99 || &lt;center&gt; x0.98 || &lt;center&gt; x0.97
+|}</text>
+    <contributor>
+      <username>FuzzyBot</username>
+      <id>133</id>
+    </contributor>
+    <comment>Importing a new version from external source</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>b830ffd6336d9ccecb98e5f3800c1d8f40282b2b</sha1>
+  </revision>
+</page></mediawiki>

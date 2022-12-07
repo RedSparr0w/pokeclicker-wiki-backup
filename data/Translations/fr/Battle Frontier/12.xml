@@ -1,0 +1,28 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Translations:Battle Frontier/12/fr</title>
+  <ns>1198</ns>
+  <id>9347</id>
+  <revision>
+    <id>25280</id>
+    <timestamp>2022-12-04T00:33:31Z</timestamp>
+    <text space="preserve" bytes="635">'''Note''' : Les gains ne sont pas remportés dans la Zone de Combat lorsque vous quittez par vous même. Vous devez perdre un niveau pour récupérer l'ensemble de vos [[Pokémon Dollars|Pokédollars]] {{pdollar}} et vos [[Battle Points|Points de Combat]] {{Battlepoints}}.
+{| class="wikitable"
+|-
+! Devise gagnée !! Formula
+|-
+| {{pdollar}} Pokédollars || &lt;math&gt;\text{Niveau atteint}^{2}&lt;/math&gt;
+|-
+| {{Battlepoints}} Points de Combat&lt;sup&gt;1&lt;/sup&gt; || &lt;math&gt;\frac{\text{Niveau atteint}^{2}}{100}&lt;/math&gt;
+|}
+&lt;small&gt;&lt;sup&gt;1&lt;/sup&gt;Les [[Battle Points|Points de Combat]] {{Battlepoints}} sont arrondis au nombre entier le plus proche&lt;/small&gt;</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment>Imported translation using [[Special:PageMigration|page migration]]</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>5c035bfe8a09e9115b768c5772a2abd2fda450d0</sha1>
+  </revision>
+</page></mediawiki>

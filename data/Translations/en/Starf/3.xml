@@ -1,0 +1,33 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Translations:Starf/3/en</title>
+  <ns>1198</ns>
+  <id>10312</id>
+  <revision>
+    <id>30320</id>
+    <timestamp>2022-12-05T14:19:49Z</timestamp>
+    <text space="preserve" bytes="521">== Growth Tables ==
+=== Growth Stages ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+|+ Growth Stages
+! !! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 3 hours || 6 hours || 12 hours || 1 day - 5 days
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:StarfTreeTaller.png|50px]] || &lt;center&gt; [[File:StarfTreeBloom.png|50px]] || &lt;center&gt; [[File:StarfTreeBerry.png|50px]]
+|-
+! Aura (shiny chance)
+| || &lt;center&gt; x1.005 || &lt;center&gt; x1.01 || &lt;center&gt; x1.015
+|}</text>
+    <contributor>
+      <username>FuzzyBot</username>
+      <id>133</id>
+    </contributor>
+    <comment>Importing a new version from external source</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>4bbe4ca12ede02f2a0dd1364d4f337a8a8c9dce1</sha1>
+  </revision>
+</page></mediawiki>

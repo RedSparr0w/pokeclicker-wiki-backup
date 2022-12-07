@@ -1,0 +1,31 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Translations:Shuca/4/en</title>
+  <ns>1198</ns>
+  <id>10336</id>
+  <revision>
+    <id>30345</id>
+    <timestamp>2022-12-05T14:20:05Z</timestamp>
+    <text space="preserve" bytes="364">=== Ripening Time with Modifiers  ===
+{| class="wikitable" | style="text-align: center;"
+! Modifier !! Ripe-Wither Time !! Boost Mulch Needed to Ripen
+|-
+! None
+| 11 hours -&lt;br&gt; 22 hours || ---
+|-
+! Mulch or Sprayduck
+| 7 hours 20 mins -&lt;br&gt; 14 hours 40 mins || 88 mulch
+|-
+! Mulch &amp; Sprayduck
+| 4 hours 53 mins 20 secs -&lt;br&gt; 9 hours 46 mins 40 secs || 59 mulch
+|}</text>
+    <contributor>
+      <username>FuzzyBot</username>
+      <id>133</id>
+    </contributor>
+    <comment>Importing a new version from external source</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>fdd4f94744df88ffe2ffbb26e159f4efcf5f2ffc</sha1>
+  </revision>
+</page></mediawiki>

@@ -1,0 +1,35 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Translations:Cell Battery/4/es</title>
+  <ns>0</ns>
+  <id>4800</id>
+  <revision>
+    <id>16638</id>
+    <timestamp>2022-07-23T22:50:09Z</timestamp>
+    <text space="preserve" bytes="793">{| class="wikitable sortable"
+|-
+! Nivel !! Efecto !! Requisito de Mejora !! Coste de Mejora
+|-
+|0 || x1.5 Cantidad de Energía Regenerada || 25 objetos excavados || style="text-align:right" | 50,000 {{pdollar}} 
+|-
+|1 || x1.6 Cantidad de Energía Regenerada || 25 objetos excavados || style="text-align:right" | 100,000 {{pdollar}}
+|-
+|2 || x1.7 Cantidad de Energía Regenerada || 75 objetos excavados || style="text-align:right" | 250,000 {{pdollar}}
+|-
+|3 || x1.8 Cantidad de Energía Regenerada || 125 objetos excavados || style="text-align:right" | 500,000 {{pdollar}}
+|-
+|4 || x1.9 Cantidad de Energía Regenerada || 250 objetos excavados || style="text-align:right" | 1,000,000 {{pdollar}}
+|-
+|5/Max || x2.0 Cantidad de Energía Regenerada || N/A || style="text-align:right" | N/A
+|-
+|}</text>
+    <contributor>
+      <username>Cthulhu Follower</username>
+      <id>51</id>
+    </contributor>
+    <comment>Created page with "{| class="wikitable sortable" |- ! Nivel !! Efecto !! Requisito de Mejora !! Coste de Mejora |- |0 || x1.5 Cantidad de Energía Regenerada || 25 objetos excavados || style="text-align:right" | 50,000 {{pdollar}}  |- |1 || x1.6 Cantidad de Energía Regenerada || 25 objetos excavados || style="text-align:right" | 100,000 {{pdollar}} |- |2 || x1.7 Cantidad de Energía Regenerada || 75 objetos excavados || style="text-align:right" | 250,000 {{pdollar}} |- |3 || x1.8 Cantidad..."</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>256350bdf3725fba9f8ec1fc7e1d7c7e6ea8df25</sha1>
+  </revision>
+</page></mediawiki>

@@ -1,0 +1,32 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Translations:Occa/3/en</title>
+  <ns>1198</ns>
+  <id>10641</id>
+  <revision>
+    <id>30688</id>
+    <timestamp>2022-12-05T14:23:31Z</timestamp>
+    <text space="preserve" bytes="569">== Growth Tables ==
+=== Growth Stages ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 2 hours 14 mins 50 secs || 3 hours 40 mins || 4 hours 26 mins 40 secs || 6 hours 6 mins - 12 hours 12 mins
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:OccaTreeTaller.png|50px]] || &lt;center&gt;[[File:OccaTreeBloom.png|50px]] || &lt;center&gt; [[File:OccaTreeBerry.png|50px]]
+|-
+! Parasite (Tendency to Overtake Planted Plots)
+| colspan=3|&lt;center&gt; N/A || &lt;center&gt; 0.04%
+|}</text>
+    <contributor>
+      <username>FuzzyBot</username>
+      <id>133</id>
+    </contributor>
+    <comment>Importing a new version from external source</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>c0eae0acc1f0e56a2479dbf29ccdc8ec7126b061</sha1>
+  </revision>
+</page></mediawiki>

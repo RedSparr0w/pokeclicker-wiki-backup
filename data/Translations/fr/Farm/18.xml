@@ -1,0 +1,19 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Translations:Farm/18/fr</title>
+  <ns>0</ns>
+  <id>7797</id>
+  <revision>
+    <id>22072</id>
+    <timestamp>2022-08-06T17:09:59Z</timestamp>
+    <text space="preserve" bytes="889">* Exemple : [[Persim/fr|Kika]] a un taux de mutation de 2%. Cela signifie qu'à chaque seconde où les baies requises ([[Oran/fr|Oran]] et [[Pecha/fr|Pêcha]]) sont mûres et correctement placées dans la ferme, vous avez 2% de chance de voir muter une Kika. Ces 2% de chance de mutation sont calculés par parcelle. En suivant la partie Kika du guide de formation des plantations en lien ci-dessus, où 5 parcelles peuvent accueillir la mutation d'une Kika, chaque seconde le jeu calculera 5 fois si cette chance de 2% a eu lieu. La baie Pêcha ne reste mûre qu'une minute, donc si les deux baies Pêcha atteignent leur maturité en même temps que les Oran, chaque parcelle calculera 60 fois si elle permet une mutation, en d'autre termes, vous avez 300 chances de voir si vous êtes chanceux avec la mutation à 2% avant que les Pêcha ne flétrissent et ne doivent être replantées.</text>
+    <contributor>
+      <username>LuK</username>
+      <id>96</id>
+    </contributor>
+    <comment>corrections de coquilles</comment>
+    <model>wikitext</model>
+    <parentid>22071</parentid>
+    <sha1>eea9c80238beb4994cfd395147c90fc654be19b1</sha1>
+  </revision>
+</page></mediawiki>

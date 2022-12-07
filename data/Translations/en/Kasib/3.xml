@@ -1,0 +1,32 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Translations:Kasib/3/en</title>
+  <ns>1198</ns>
+  <id>10774</id>
+  <revision>
+    <id>30842</id>
+    <timestamp>2022-12-05T14:26:50Z</timestamp>
+    <text space="preserve" bytes="459">== Growth Tables ==
+=== Growth Stages ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 30 secs || 1 min || 2 mins || 5 mins - 1 day
+|-
+! Animation
+| [[File:AllTreeSprout.png|50px]] || [[File:KasibTreeTaller.png|50px]] || [[File:KasibTreeBloom.png|50px]] || [[File:KasibTreeBerry.png|50px]]
+|-
+! Aura (Wither Rate)
+| || &lt;center&gt; x1.25 || &lt;center&gt; x1.5 || &lt;center&gt; x2.0
+|}</text>
+    <contributor>
+      <username>FuzzyBot</username>
+      <id>133</id>
+    </contributor>
+    <comment>Importing a new version from external source</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>6aed5b8572b56cecb139329148d3fa8d9d13da2b</sha1>
+  </revision>
+</page></mediawiki>

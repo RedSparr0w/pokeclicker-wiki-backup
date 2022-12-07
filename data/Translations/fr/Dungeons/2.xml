@@ -1,0 +1,29 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Translations:Dungeons/2/fr</title>
+  <ns>1198</ns>
+  <id>11584</id>
+  <revision>
+    <id>32062</id>
+    <timestamp>2022-12-06T16:10:14Z</timestamp>
+    <text space="preserve" bytes="2270">==Informations générales sur les donjons==
+Terminer un donjon demande une action du joueur. Pour entrer dans le donjon, sélectionnez le sur la carte de la région et appuyez soit sur "Commencer" soit sur la touche Entrer du clavier. Pour se déplacer dans le donjon, vous pouvez utiliser la souris sur les différentes cases, utiliser les flèches directionnelles ou bien les touches ZQSD du clavier. Seules les cases adjacentes à une case explorée peut être accédée. En ce déplaçant sur une case non découverte vous pouvez découvrir 4 possibilités : 
+ 
+# '''Une case vide''' - Vous pouvez simplement vous rendre sur la prochaine case. Aucune action est demandée.
+# '''Un Pokémon sauvage''' - Comme sur les routes, ce sont des Pokémons que vous pouvez combattre et attraper. Certains Pokémon ne peuvent être trouvés que dans certains donjons.
+# '''Le Boss du donjon''' - Ce Pokémon doit être vaincu pour terminer le donjon. Il a plus de PV que les Pokémon normaux rencontrés les autres donjons. Vous pouvez soit cliquer sur "Commencer le combat du Boss" soit appuyer sur la barre "Espace".
+# '''Un coffre''' - Beaucoup d'[[Items]] peuvent être trouvés dans les coffres en cliquant ou en appuyant sur la barre "Espace". Voir [[Dungeons#Chests in Dungeons|Chest in Dungons]] pour plus de détails.
+# '''Un dresseur''' - On trouve les dresseurs sur les cases et ils possèdent un équipe de Pokémon qu'il faut battre entièrement pour pouvoir progresser. Les Pokémon sauvages ont ~4 fois plus de chance d'apparaitre sur une case ennemie qu'un dresseur, mais dans certains donjons, la proportion peut être différente. Vous pouvez recevoir ces récompenses en battant un dresseur : 
+#* Les dresseurs de donjons offrent 4% des coûts d'entrée en [[Dungeon Tokens]] {{dungeontokens}} et 50% des coûts d'entrée en [[Poké Dollar|Poké Dollars]] {{pdollar}} lorsqu'ils sont battus.
+#* Les dresseurs boss de donjons offrent 10% des coûts d'entrée en jetons de donjons {{dungeontokens}} et 50% des coûts d'entrée en Poké Dollars {{pdollar}} lorsqu'ils sont battus.
+Note: L'Amulet coin and les autres objets qui augmentent les montants des {{pdollar}} n'affectent pas les montants que vous recevez des dresseurs et des dresseurs boss de donjons.</text>
+    <contributor>
+      <username>Razikd</username>
+      <id>33</id>
+    </contributor>
+    <comment>Imported translation using [[Special:PageMigration|page migration]]</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>1d2febf178984a909027d9ac206e98d3c7df4168</sha1>
+  </revision>
+</page></mediawiki>

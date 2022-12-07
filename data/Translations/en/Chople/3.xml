@@ -1,0 +1,32 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Translations:Chople/3/en</title>
+  <ns>1198</ns>
+  <id>10973</id>
+  <revision>
+    <id>31087</id>
+    <timestamp>2022-12-05T14:29:22Z</timestamp>
+    <text space="preserve" bytes="514">== Growth Tables ==
+=== Growth Stages ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 1 hour 30 mins || 3 hours || 7 hours || 10 hours - 20 hours
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:ChopleTreeTaller.png|50px]] || &lt;center&gt; [[File:ChopleTreeBloom.png|50px]] || &lt;center&gt; [[File:ChopleTreeBerry.png|50px]]
+|-
+! Aura (egg growth)
+| || &lt;center&gt; x1.01 || &lt;center&gt; x1.02 || &lt;center&gt; x1.03
+|}</text>
+    <contributor>
+      <username>FuzzyBot</username>
+      <id>133</id>
+    </contributor>
+    <comment>Importing a new version from external source</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>05d10779740458f0f933f2d6bccde62a46c6aaf2</sha1>
+  </revision>
+</page></mediawiki>

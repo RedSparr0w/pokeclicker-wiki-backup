@@ -1,0 +1,32 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Translations:Wacan/3/en</title>
+  <ns>1198</ns>
+  <id>10272</id>
+  <revision>
+    <id>30279</id>
+    <timestamp>2022-12-05T14:19:18Z</timestamp>
+    <text space="preserve" bytes="498">== Growth Tables ==
+=== Growth Stages ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 10 secs || 3 mins || 15 mins || 30 mins - 1 hour
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:WacanTreeTaller.png|50px]] || &lt;center&gt; [[File:WacanTreeBloom.png|50px]] || &lt;center&gt; [[File:WacanTreeBerry.png|50px]]
+|-
+! Aura (growth rate)
+| || &lt;center&gt; x1.1 || &lt;center&gt; x1.2 || &lt;center&gt; x1.3
+|}</text>
+    <contributor>
+      <username>FuzzyBot</username>
+      <id>133</id>
+    </contributor>
+    <comment>Importing a new version from external source</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>81cb54b5c5ad9e93c844ffc2b93f1244d006cbd7</sha1>
+  </revision>
+</page></mediawiki>

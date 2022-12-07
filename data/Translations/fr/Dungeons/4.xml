@@ -1,0 +1,25 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Translations:Dungeons/4/fr</title>
+  <ns>1198</ns>
+  <id>11586</id>
+  <revision>
+    <id>32065</id>
+    <timestamp>2022-12-06T16:10:16Z</timestamp>
+    <text space="preserve" bytes="532">Le nombre de chaque type de cases réduit avec la taille du donjon. Tous les donjons sont carrés. Voici comment évolue chaque type de case en fonction de la taille :
+Pour un donjon de taille NxN nous avons :
+&lt;br&gt;&lt;math&gt;\colorbox{White}{$ \text{1 case de Boss}$}&lt;/math&gt;
+&lt;br&gt;&lt;math&gt;\colorbox{White}{$ \text{N cases de coffres}$}&lt;/math&gt;
+&lt;br&gt;&lt;math&gt;\colorbox{White}{$ \text{2*N+3 cases de combats divers}$}&lt;/math&gt;
+&lt;br&gt;&lt;math&gt;\colorbox{White}{$ \text{(N+1)*(N-4) cases vides}$}&lt;/math&gt;
+&lt;br&gt;Note: La case d'entrée compte comme une case vide</text>
+    <contributor>
+      <username>Razikd</username>
+      <id>33</id>
+    </contributor>
+    <comment>Imported translation using [[Special:PageMigration|page migration]]</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>091f338d49e1976118391157e3e3a75b0ad9ec38</sha1>
+  </revision>
+</page></mediawiki>

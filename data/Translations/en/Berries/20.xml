@@ -1,0 +1,66 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Translations:Berries/20/en</title>
+  <ns>1198</ns>
+  <id>11038</id>
+  <revision>
+    <id>31159</id>
+    <timestamp>2022-12-05T14:29:58Z</timestamp>
+    <text space="preserve" bytes="3273">{| class="wikitable" | style="text-align: center;"
+! Aura !! Effect !! Notes
+|-
+! Aura Boost
+| Boosts aura effects of the 8 surrounding berries || &lt;center&gt; This aura can only be applied to a berry once and does not affect other berries with this effect.
+|-
+! Overgrow
+| Plants a berry of the same type in one of the 8 surrounding empty plots || &lt;center&gt; Original berry needs to be ripe before this takes effect. &lt;br&gt; This counts as a mutation and is affected by the same mutation boosts.
+|-
+! Parasite
+| Transforms a berry in one of the 8 surrounding berries into the same berry as the parasite || &lt;center&gt; Original berry needs to be ripe before this takes effect. &lt;br&gt; This counts as a mutation and is affected by the same mutation boosts. &lt;br&gt; Parasite only affects berries in the taller and later stages. Seed and sprout cannot be taken over. &lt;br&gt; The newly taken over berry will start its timer at the start of the same stage as it was taken over.
+|-
+! Death
+| Causes the surrounding 8 berries to wither more quickly || &lt;center&gt; Only affects ripe berries. &lt;br&gt; Does not affect other berries with Death aura. &lt;br&gt; Effect does not stack.
+|-
+! Harvest Amount
+| Changes the amount of berries obtained on harvest/wither for the 8 surrounding berries.|| &lt;center&gt; Effect is multiplicative and stacks with [[Rich Mulch]]
+|-
+! Growth Rate
+| Changes growth/wither time of the 8 surrounding berries || &lt;center&gt; Effect is multiplicative and stacks with Death aura (once ripe), [[Sprayduck]], and [[Boost Mulch]] effects.
+|-
+! Replant Chance
+| Changes the chance that any of the 8 surrounding berries will replant itself after withering || &lt;center&gt; Effect is multiplicative and stacks with [[Sprinklotad]]
+|-
+! Mutation Chance
+| Changes the chance that any of the 8 surrounding plots will mutate a berry if possible || &lt;center&gt; Effect is multiplicative and stacks with [[Squirtbottle]] and [[Surprise Mulch]] effects. &lt;br&gt; Affects Overgrow and Parasite effects
+|-
+! Kasib Prevention
+| Prevents berries from mutating into [[Kasib]] berries when they wither || &lt;center&gt; A single berry with this ability will affect the entire field
+|-
+! Wither Prevention
+| Prevents other berries from withering while this is berry is ripe || &lt;center&gt; A single berry with this ability will affect the entire field. &lt;br&gt; Berries with this ability do not affect each other. &lt;br&gt; Once this berry withers or is harvested other berries will reset their timers from the beginning of the Ripe stage.
+|-
+! Egg Growth
+| Increases the growth speed of eggs in the hatchery || &lt;center&gt; Effect is multiplicative over the whole field. &lt;br&gt; Effect stacks with [[Blaze Cassette]]
+|-
+! Shiny Chance
+| Increases chance of finding [[Shiny Chance|Shiny Pokémon]]|| &lt;center&gt; Effect is multiplicative over the whole field. &lt;br&gt; Effect stacks with [[Shiny Charm]]
+|-
+! Wandering Chance
+| Increases chance of Pokémon [[Wandering Pokemon|wandering]] onto the farm || &lt;center&gt; Effect is multiplicative over the whole field
+|-
+! Roamer Chance
+| Increases chance of finding [[Roaming Pokemon|Roaming Pokémon]] on routes || &lt;center&gt; Effect is multiplicative over the whole field
+|-
+! Ev Gain
+| Increases amount of [[Pokerus|EVs gained]] in all applicable situations. || &lt;center&gt; Effect is multiplicative over the whole field
+|}</text>
+    <contributor>
+      <username>FuzzyBot</username>
+      <id>133</id>
+    </contributor>
+    <comment>Importing a new version from external source</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>6cb3d3bdc01f833161eb2ba576a0a05d31d7e59f</sha1>
+  </revision>
+</page></mediawiki>

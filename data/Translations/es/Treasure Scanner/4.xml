@@ -1,0 +1,35 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Translations:Treasure Scanner/4/es</title>
+  <ns>0</ns>
+  <id>4722</id>
+  <revision>
+    <id>16432</id>
+    <timestamp>2022-07-23T20:45:56Z</timestamp>
+    <text space="preserve" bytes="743">{| class="wikitable sortable"
+|-
+! Nivel !! Efecto !! Requisitos de Mejora !! Coste de Mejora
+|-
+|0 || 4% probabilidad de duplicar || 20 Objetos Excavados || style="text-align:right" | 50,000 {{pdollar}}
+|-
+|1 || 8% probabilidad de duplicar || 20 Objetos Excavados || style="text-align:right" | 100,000 {{pdollar}}
+|-
+|2 || 12% probabilidad de duplicar || 60 Objetos Excavados || style="text-align:right" | 250,000 {{pdollar}}
+|-
+|3 || 16% probabilidad de duplicar || 100 Objetos Excavados || style="text-align:right" | 500,000 {{pdollar}}
+|-
+|4 || 20% probabilidad de duplicar || 200 Objetos Excavados || style="text-align:right" | 1,000,000 {{pdollar}}
+|-
+|5/Max || 24% probabilidad de duplicar || N/A || style="text-align:right" | N/A
+|-
+|}</text>
+    <contributor>
+      <username>Cthulhu Follower</username>
+      <id>51</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>16431</parentid>
+    <sha1>899a17c2494ab169b285bbbe40153bf1bfe7c07b</sha1>
+  </revision>
+</page></mediawiki>
