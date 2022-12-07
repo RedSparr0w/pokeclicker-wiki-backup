@@ -1,0 +1,29 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Translations:Apicot/3/en</title>
+  <ns>1198</ns>
+  <id>10242</id>
+  <revision>
+    <id>30239</id>
+    <timestamp>2022-12-05T14:16:28Z</timestamp>
+    <text space="preserve" bytes="424">== Growth Tables ==
+=== Growth Stages ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 3 hours || 6 hours || 12 hours || 1 day - 5 days
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:ApicotTreeTaller.png|50px]] || &lt;center&gt; [[File:ApicotTreeBloom.png|50px]] || &lt;center&gt; [[File:ApicotTreeBerry.png|50px]]
+|}</text>
+    <contributor>
+      <username>FuzzyBot</username>
+      <id>133</id>
+    </contributor>
+    <comment>Importing a new version from external source</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>75494d5c78fe37d8b5bb718c40c2941efd7ee5b4</sha1>
+  </revision>
+</page></mediawiki>

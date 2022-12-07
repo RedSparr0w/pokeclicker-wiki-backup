@@ -1,0 +1,163 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Pokéball</title>
+  <ns>0</ns>
+  <id>185</id>
+  <revision>
+    <id>2983</id>
+    <timestamp>2022-08-15T08:37:38Z</timestamp>
+    <text space="preserve" bytes="8108">&lt;languages/&gt;
+&lt;translate&gt;
+
+&lt;!--T:1--&gt;
+{{Infobox Pokéball
+|name       = Pokéball
+|image      = [[File:Pokéball.png]]
+|caption    = In-Game image of the ''Pokéball''.
+|price      = 100 {{pdollar}}
+|catchTime  = 1.25s
+|catchRate = 0%
+|location   = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*[[Pokéball#Shops|Shops]]
+*[[Pokéball#Dungeons|Dungeons]]
+}}
+
+
+==Description== &lt;!--T:2--&gt;
+
+&lt;!--T:6--&gt;
+The '''Pokéball''' is a type of [[Pokéballs|Pokéball]]. It automatically tries to catch a wild Pokémon after defeating it if is the highest type of Pokéball active and there is a remaining supply in the Pokéball selector.
+
+==Details== &lt;!--T:3--&gt;
+
+&lt;!--T:7--&gt;
+A basic Pokéball to capture Pokémon with, it has no catch rate multiplier and catches a Pokémon in 1.25 seconds.
+
+== Acquisition == &lt;!--T:4--&gt;
+===Shops===
+{{ItemPrice/head‎|Pokéballs}}
+{{ItemPrice|[[Shops#Kanto: Locations &amp; Items|Viridian City]]|100{{pdollar}}}}
+{{ItemPrice|[[Shops#Kanto: Locations &amp; Items|Pewter City]]|100{{pdollar}}}}
+{{ItemPrice|[[Shops#Kanto: Locations &amp; Items|Cerulean City]]|100{{pdollar}}}}
+{{ItemPrice|[[Shops#Kanto: Locations &amp; Items|Vermillion City]]|100{{pdollar}}}}
+{{ItemPrice|[[Shops#Kanto: Locations &amp; Items|Lavender Town]]|100{{pdollar}}}}
+{{ItemPrice|[[Shops#Kanto: Locations &amp; Items|Saffron City]]|100{{pdollar}}}}
+{{ItemPrice|[[Shops#Kanto: Locations &amp; Items|Fuchsia City]]|100{{pdollar}}}}
+{{ItemPrice|[[Shops#Kanto: Locations &amp; Items|Cinnabar Island]]|100{{pdollar}}}}
+{{ItemPrice|[[Shops#Johto: Locations &amp; Items|Cherrygrove City]]|100{{pdollar}}}}
+{{ItemPrice|[[Shops#Johto: Locations &amp; Items|Violet City]]|100{{pdollar}}}}
+{{ItemPrice|[[Shops#Johto: Locations &amp; Items|Azalea Town]]|100{{pdollar}}}}
+{{ItemPrice|[[Shops#Johto: Locations &amp; Items|Ecruteak City]]|100{{pdollar}}}}
+{{ItemPrice|[[Shops#Johto: Locations &amp; Items|Olivine City]]|100{{pdollar}}}}
+{{ItemPrice|[[Shops#Johto: Locations &amp; Items|Cyanwood City]]|100{{pdollar}}}}
+{{ItemPrice|[[Shops#Johto: Locations &amp; Items|Mahogany Town]]|100{{pdollar}}}}
+{{ItemPrice|[[Shops#Johto: Locations &amp; Items|Blackthorn City]]|100{{pdollar}}}}
+{{ItemPrice|[[Shops#Hoenn: Locations &amp; Items|Oldale Town]]|100{{pdollar}}}}
+{{ItemPrice|[[Shops#Hoenn: Locations &amp; Items|Petalburg City]]|100{{pdollar}}}}
+{{ItemPrice|[[Shops#Hoenn: Locations &amp; Items|Rustboro City]]|100{{pdollar}}}}
+{{ItemPrice|[[Shops#Hoenn: Locations &amp; Items|Dewford Town]]|100{{pdollar}}}}
+{{ItemPrice|[[Shops#Hoenn: Locations &amp; Items|Slateport City]]|100{{pdollar}}}}
+{{ItemPrice|[[Shops#Hoenn: Locations &amp; Items|Mauville City]]|100{{pdollar}}}}
+{{ItemPrice|[[Shops#Hoenn: Locations &amp; Items|Vendaturf Town]]|100{{pdollar}}}}
+{{ItemPrice|[[Shops#Hoenn: Locations &amp; Items|Lavaridge Town]]|100{{pdollar}}}}
+{{ItemPrice|[[Shops#Hoenn: Locations &amp; Items|Fallabor Town]]|100{{pdollar}}}}
+{{ItemPrice|[[Shops#Hoenn: Locations &amp; Items|Fortree City]]|100{{pdollar}}}}
+{{ItemPrice|[[Shops#Hoenn: Locations &amp; Items|Mossdeep City]]|100{{pdollar}}}}
+{{ItemPrice|[[Shops#Hoenn: Locations &amp; Items|Sootopolis City]]|100{{pdollar}}}}
+{{ItemPrice|[[Shops#Hoenn: Locations &amp; Items|Pacifidlog Town]]|100{{pdollar}}}}
+{{ItemPrice|[[Shops#Hoenn: Locations &amp; Items|Ever Grande City]]|100{{pdollar}}}}
+{{ItemPrice|[[Shops#Sinnoh: Locations &amp; Items|Sandgem Town]]|100{{pdollar}}}}
+{{ItemPrice|[[Shops#Sinnoh: Locations &amp; Items|Jubilife City]]|100{{pdollar}}}}
+{{ItemPrice|[[Shops#Sinnoh: Locations &amp; Items|Oreburgh City]]|100{{pdollar}}}}
+{{ItemPrice|[[Shops#Sinnoh: Locations &amp; Items|Floaroma Town]]|100{{pdollar}}}}
+{{ItemPrice|[[Shops#Sinnoh: Locations &amp; Items|Eterna City]]|100{{pdollar}}}}
+{{ItemPrice|[[Shops#Sinnoh: Locations &amp; Items|Hearthome City]]|100{{pdollar}}}}
+{{ItemPrice|[[Shops#Sinnoh: Locations &amp; Items|Solaceon Town]]|100{{pdollar}}}}
+{{ItemPrice|[[Shops#Sinnoh: Locations &amp; Items|Pastoria City]]|100{{pdollar}}}}
+{{ItemPrice|[[Shops#Sinnoh: Locations &amp; Items|Celestic Town]]|100{{pdollar}}}}
+{{ItemPrice|[[Shops#Sinnoh: Locations &amp; Items|Canalave City]]|100{{pdollar}}}}
+{{ItemPrice|[[Shops#Sinnoh: Locations &amp; Items|Snowpoint City]]|100{{pdollar}}}}
+{{ItemPrice|[[Shops#Sinnoh: Locations &amp; Items|Sunyshore City]]|100{{pdollar}}}}
+{{ItemPrice|[[Shops#Sinnoh: Locations &amp; Items|Fight Area]]|100{{pdollar}}}}
+{{ItemPrice|[[Shops#Sinnoh: Locations &amp; Items|Survival Area]]|100{{pdollar}}}}
+{{ItemPrice|[[Shops#Sinnoh: Locations &amp; Items|Resort Area]]|100{{pdollar}}}}
+{{ItemPrice|[[Shops#Unova: Locations &amp; Items|Floccesy Town]]|100{{pdollar}}}}
+{{ItemPrice|[[Shops#Unova: Locations &amp; Items|Virbank City]]|100{{pdollar}}}}
+{{ItemPrice|[[Shops#Unova: Locations &amp; Items|Castelia City]]|100{{pdollar}}}}
+{{ItemPrice|[[Shops#Unova: Locations &amp; Items|Nimbasa City]]|100{{pdollar}}}}
+{{ItemPrice|[[Shops#Unova: Locations &amp; Items|Driftveil City]]|100{{pdollar}}}}
+{{ItemPrice|[[Shops#Unova: Locations &amp; Items|Mistralton City]]|100{{pdollar}}}}
+{{ItemPrice|[[Shops#Unova: Locations &amp; Items|Lentimas Town]]|100{{pdollar}}}}
+{{ItemPrice|[[Shops#Unova: Locations &amp; Items|Undella Town]]|100{{pdollar}}}}
+{{ItemPrice|[[Shops#Unova: Locations &amp; Items|Lacunosa Towm]]|100{{pdollar}}}}
+{{ItemPrice|[[Shops#Unova: Locations &amp; Items|Opelucid City]]|100{{pdollar}}}}
+{{ItemPrice|[[Shops#Unova: Locations &amp; Items|Humilau City]]|100{{pdollar}}}}
+{{ItemPrice|[[Shops#Unova: Locations &amp; Items|Icirrus City]]|100{{pdollar}}}}
+{{ItemPrice|[[Shops#Unova: Locations &amp; Items|Black and White Park]]|100{{pdollar}}}}
+{{ItemPrice|[[Shops#Unova: Locations &amp; Items|Nacrene City]]|100{{pdollar}}}}
+{{ItemPrice|[[Shops#Unova: Locations &amp; Items|Striaton City]]|100{{pdollar}}}}
+{{ItemPrice|[[Shops#Unova: Locations &amp; Items|Accumula Town]]|100{{pdollar}}}}
+{{ItemPrice|[[Shops#Unova: Locations &amp; Items|Nuvema Town]]|100{{pdollar}}}}
+{{ItemPrice|[[Shops#Kalos: Locations &amp; Items|Aquacorde Town]]|100{{pdollar}}}}
+{{ItemPrice|[[Shops#Kalos: Locations &amp; Items|Santalune City]]|100{{pdollar}}}}
+{{ItemPrice|[[Shops#Kalos: Locations &amp; Items|Camphrier Town]]|100{{pdollar}}}}
+{{ItemPrice|[[Shops#Kalos: Locations &amp; Items|Ambrette Town]]|100{{pdollar}}}}
+{{ItemPrice|[[Shops#Kalos: Locations &amp; Items|Geosenge Town]]|100{{pdollar}}}}
+{{ItemPrice|[[Shops#Kalos: Locations &amp; Items|Shalour City]]|100{{pdollar}}}}
+{{ItemPrice|[[Shops#Kalos: Locations &amp; Items|Coumarine City]]|100{{pdollar}}}}
+{{ItemPrice|[[Shops#Kalos: Locations &amp; Items|Laverre City]]|100{{pdollar}}}}
+{{ItemPrice|[[Shops#Kalos: Locations &amp; Items|Dendemille Town]]|100{{pdollar}}}}
+{{ItemPrice|[[Shops#Kalos: Locations &amp; Items|Anistar City]]|100{{pdollar}}}}
+{{ItemPrice|[[Shops#Kalos: Locations &amp; Items|Coriway City]]|100{{pdollar}}}}
+{{ItemPrice|[[Shops#Kalos: Locations &amp; Items|Snowbelle City]]|100{{pdollar}}}}
+{{ItemPrice|[[Shops#Alola: Locations &amp; Items|Hauoli City]]|100{{pdollar}}}}
+{{ItemPrice|[[Shops#Alola: Locations &amp; Items|Heahea City]]|100{{pdollar}}}}
+{{ItemPrice|[[Shops#Alola: Locations &amp; Items|Paniola Town]]|100{{pdollar}}}}
+{{ItemPrice|[[Shops#Alola: Locations &amp; Items|Konikoni City]]|100{{pdollar}}}}
+{{ItemPrice|[[Shops#Alola: Locations &amp; Items|Malie City]]|100{{pdollar}}}}
+{{ItemPrice|[[Shops#Alola: Locations &amp; Items|Tapu Village]]|100{{pdollar}}}}
+{{ItemPrice|[[Shops#Alola: Locations &amp; Items|Seafolk Village]]|100{{pdollar}}}}
+{{ItemPrice|[[Shops#Poké Mart|Poké Mart]]|100{{pdollar}}}}
+|}
+|}
+
+===Dungeons===  &lt;!--T:8--&gt;
+{{Loot/head‎|Pokéballs}}
+{{LootItem|Viridian Forest|Epic}}
+{{LootItem|Rock Tunnel|Common}}
+{{LootItem|Rocket Game Corner|Epic}}
+{{LootItem|Silph Co|Common}}
+{{LootItem|Cerulean Cave|Common}}
+{{LootItem|Dark Cave|Common}}
+{{LootItem|Petalburg Woods|Common}}
+{{LootItem|Rusturf Tunnel|Common}}
+{{LootItem|Granite Cave|Common}}
+{{LootItem|Meteor Falls|Common}}
+{{LootItem|Aqua Hideout|Common}}
+{{LootItem|Valley Windworks|Common}}
+{{LootItem|Iron Island|Common}}
+{{LootItem|Floccesy Ranch|Common}}
+{{LootItem|Plasma Frigate|Common}}
+{{LootItem|Dreamyard|Common}}
+{{LootItem|Santalune Forest|Common}}
+{{LootItem|Connecting Cave|Common}}
+{{LootItem|Pokéball Factory|Common}}
+{{LootItem|Terminus Cave|Common}}
+{{LootItem|Trainers' School|Common}}
+|}
+|}
+
+&lt;!--T:5--&gt;
+&lt;br&gt;{{Pokéballs}}&lt;br&gt;
+[[Category:Items]] [[Category:Pokéballs]]
+&lt;/translate&gt;</text>
+    <contributor>
+      <username>DraKay</username>
+      <id>18</id>
+    </contributor>
+    <comment>/* Shops */Minor ortographic correction in "survival"  word</comment>
+    <model>wikitext</model>
+    <parentid>2982</parentid>
+    <sha1>3958e37d5e18e5a7087c3689bd9b7e8ed56b2474</sha1>
+  </revision>
+</page></mediawiki>

@@ -1,0 +1,44 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Template:ItemInfobox/head</title>
+  <ns>10</ns>
+  <id>88</id>
+  <revision>
+    <id>891</id>
+    <timestamp>2020-09-07T13:38:35Z</timestamp>
+    <text space="preserve" bytes="1458">{| class="roundy" style="float:right; border: 3px solid #{{{{{colorscheme|Unknown}}} color dark}}; background: #{{{{{colorscheme|Unknown}}} color light}}; width: 30%; max-width: 30%; margin-left: 5px; margin-bottom: 5px"
+|-
+| 
+{| class="roundy" width="100%"
+|- style="text-align:center"
+| width="30px" | 
+| &lt;big&gt;&lt;big&gt;'''{{{name|Cancel}}}'''&lt;/big&gt;&lt;/big&gt;&lt;br&gt;&lt;span lang="ja"&gt;
+|style="width:30px"|
+{| style="{{roundy|24px}}; background: #{{{{{colorscheme|Unknown}}} color light}}; border: 1px solid #{{{{{colorscheme|Unknown}}} color dark}}; float:right; {{#ifeq:{{{sprite|}}}|None|display:none}}"
+| style="{{roundy|24px}}" | {{bag|{{{sprite|{{{name|Cancel}}}}}}}}{{#if:{{{sprite2|}}}|{{bag|{{{sprite2|{{{name|Cancel}}}}}}}}}}
+|}
+|}
+|- {{#ifeq:{{{art|}}}|None|style="display:none"}} 
+|
+{| class="roundy" width="100%" style="border: 3px solid #{{{{{colorscheme|Unknown}}} color dark}}; background: #FFF; text-align:center; margin:auto"
+|-
+| [[File:{{{art|Dream {{{name|Rare Candy}}} Sprite}}}.png|{{{size}}}|{{{name|Cancel}}}]]{{#if:{{{art2|}}}|[[File:{{{art2|Dream {{{name|Rare Candy}}} Sprite}}}.png|{{{size2}}}|{{{name|Cancel}}}]]}}
+|-
+| &lt;small&gt;{{{caption|HD artwork}}}&lt;/small&gt;
+|}
+|-
+|
+{| style="background: #{{{{{colorscheme|Unknown}}} color dark}}" width="100%" {{#if:{{{fling|}}}||class=roundybottom}}
+! colspan="2" class="roundytop" style="background: #{{{{{colorscheme|Unknown}}} color light}}" |&lt;noinclude&gt;
+|}
+|}[[Category:Infobox templates]]&lt;/noinclude&gt;</text>
+    <contributor>
+      <username>ElvisDitto</username>
+      <id>19</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>890</parentid>
+    <sha1>d92eb06fd45cdcaae892d9205dc6198cb69ff28b</sha1>
+  </revision>
+</page></mediawiki>

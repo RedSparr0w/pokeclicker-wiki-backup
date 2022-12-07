@@ -1,0 +1,105 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Chesto/es</title>
+  <ns>0</ns>
+  <id>7157</id>
+  <revision>
+    <id>20585</id>
+    <timestamp>2022-07-29T19:36:49Z</timestamp>
+    <text space="preserve" bytes="2937">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #02 Atania (Chesto)
+|image   = [[File:Chesto.png]]
+|caption = Tiene la piel gruesa, la pulpa dura y un sabor seco, pero es totalmente comestible.
+|growtime  = 40s
+|harvest = 3 bayas
+|replant = 50%
+|points = 6
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 picante
+*10 seco
+*0 dulce
+*0 amargo
+*0 ácido
+}}
+
+'''Atania (Chesto)''' es un tipo de [[Berries|baya]] que puede ser plantada en la [[Farm|Granja]] para obtener [[Farming Points|Puntos de Granja]]. Se puede obtener como recomensa aleatoria al derrotar Pokémon salvajes en las rutas.
+
+{| class="wikitable" | style = "image-rendering: pixelated"
+|+ Estados de Crecimiento
+!!! Brote !! Crecimiento !! Floración !! Madurez
+|-
+! Tiempo pasado desde que se planta
+| 5 seg || 15 seg || 25 seg || 40 seg - 1 min 20 seg
+|-
+! Animación
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] ||&lt;center&gt; [[File:ChestoTreeTaller.png|50px]] ||&lt;center&gt; [[File:ChestoTreeBloom.png|50px]] || &lt;center&gt;[[File:ChestoTreeBerry.png|50px]]
+|}
+
+{| class="wikitable collapsible" | style="text-align: center;"
+|+ Tiempos de maduración con modificadores
+! Modificador !! Tiempo hasta la madurez-marchitado
+|-
+! Ninguno
+| 40 seg -&lt;br&gt; 1 min 20 seg
+|-
+! Psydugadera
+| 27 seg -&lt;br&gt; 53 seg
+|}
+
+== Diagrama de Flujo ==
+[[File:Chesto_Flow_Chart.png|100px]]
+&lt;br&gt;
+'''Leyenda:'''
+· Random Drop: Obtenido aleatoriamente en ruta
+
+==Usos==
+===Mutaciones===
+
+La baya Atania (Chesto) puede usarse para mutar las bayas siguientes.
+
+{| class="wikitable" | style="text-align: center;"
+|-
+! Se usa para !! Junto a
+|-
+| [[File:Bluk.png|20px]] [[Bluk|Oram (Bluk)]] || [[File:Leppa.png|20px]] [[Leppa|Zanama (Leppa)]]
+|-
+| [[File:Wiki.png|20px]] [[Wiki]] || -
+|-
+| [[File:Lum.png|20px]] [[Lum|Ziuela (Lum)]] || [[File:Cheri.png|20px]] [[Cheri|Zreza (Cheri)]] &lt;br&gt; [[File:Pecha.png|20px]] [[Pecha|Meloc (Pecha)]] &lt;br&gt; [[File:Rawst.png|20px]] [[Rawst|Safre (Rawst)]] &lt;br&gt; [[File:Aspear.png|20px]] [[Aspear|Perasi (Aspear)]] &lt;br&gt; [[File:Leppa.png|20px]] [[Leppa|Zanama (Leppa)]] &lt;br&gt; [[File:Oran.png|20px]] [[Oran|Aranja (Oran)]] &lt;br&gt; [[File:Sitrus.png|20px]] [[Sitrus|Zidra (Sitrus)]]
+|-
+| [[File:Kelpsy.png|20px]] [[Kelpsy|Algama (Kelpsy)]] || [[File:Persim.png|20px]] [[Persim|Caquic (Persim)]]
+|-
+| [[File:Passho.png|20px]] [[Passho|Passio (Passho)]] || [[File:Oran.png|20px]] [[Oran|Aranja (Oran)]] &lt;br&gt; [[File:Kelpsy.png|20px]] [[Kelpsy|Algama (Kelpsy)]] &lt;br&gt; [[File:Coba.png|20px]] [[Coba|Kouba (Coba)]]
+|-
+| [[File:Coba.png|20px]] [[Coba|Kouba (Coba)]] || [[File:Aguav.png|20px]] [[Aguav|Guaya (Aguav)]]
+|-
+|}
+
+==Adquisición==
+===Mazmorras===
+{{Loot/head‎|Berries}}
+{{LootItem|Pokemon Tower|Común}}
+{{LootItem|Berry Forest|Común}}
+{{LootItem|Pinwheel Forest|Común}}
+{{LootItem|Pokémon Village|Común}}
+{{LootItem|Aether Foundation|Común}}
+{{LootItem|Lake of the Sunne and Moone|Común}}
+|}
+|}
+
+&lt;br&gt;
+
+{{Berries}}
+
+[[Category:Farm|Categoría:Granja]][[Category:Berries|Categoría:Bayas]]</text>
+    <contributor>
+      <username>Cthulhu Follower</username>
+      <id>51</id>
+    </contributor>
+    <comment>Created page with "[[Category:Farm|Categoría:Granja]][[Category:Berries|Categoría:Bayas]]"</comment>
+    <model>wikitext</model>
+    <parentid>20584</parentid>
+    <sha1>926b5d8de5b7d02568582b076ed9799e705a72ed</sha1>
+  </revision>
+</page></mediawiki>

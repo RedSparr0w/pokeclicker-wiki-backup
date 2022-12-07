@@ -1,0 +1,59 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Template:Infobox dungeon/en</title>
+  <ns>10</ns>
+  <id>7243</id>
+  <revision>
+    <id>30197</id>
+    <timestamp>2022-12-05T04:26:25Z</timestamp>
+    <text space="preserve" bytes="1611">&lt;languages/&gt;
+{|class="infobox bordered" style="float:right; width:264px; font-size:90%; text-align:left; border:2px solid #404040; padding:3px;" cellpadding="3"
+|- 
+!colspan="2" style="font-size:110%; text-align:center; background-color:#{{Dungeons color dark}}; color:#FFF;"|{{{name}}}
+|-
+{{#if:{{{image&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} colspan="2" style="text-align:center;background-color:#FFF;" {{!}}{{{image}}}&lt;br /&gt;{{#if:{{{caption|}}}|&lt;br /&gt;{{{caption}}}}}
+{{!}}-
+}}
+{{#if:{{{tokens&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#{{Dungeons color light}}; color:#000;" {{!}}'''Tokens needed'''
+{{!}}{{{tokens}}} {{Dungeontokens}}
+{{!}}-
+}}
+{{#if:{{{location&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#{{Dungeons color light}}; color:#000;" {{!}}'''Location'''
+{{!}}{{{location}}}
+{{!}}-
+}}
+
+
+|}&lt;noinclude&gt;
+
+== Code ==
+&lt;pre&gt;{{Infobox Dungeon
+|name    =
+|image   =
+|caption =
+|tokens  =
+|location =
+}}&lt;/pre&gt;
+
+== Usage ==
+To use this template, place the code above at the top of an article and fill in the respective blanks.
+
+'''Where:'''
+*&lt;code&gt;name&lt;/code&gt; should be filled with the name of the dungeon.
+*&lt;code&gt;image&lt;/code&gt; should be filled with the background image of the dungeon (from the screen before you start the dungeon).
+*&lt;code&gt;caption&lt;/code&gt; should be filled with a description of the &lt;code&gt;image&lt;/code&gt; spot.
+*&lt;code&gt;tokens&lt;/code&gt; should be filled with the number of dungeon tokens needed to enter the dungeon.
+*&lt;code&gt;location&lt;/code&gt; should be filled with the general location of the dungeon; i.e., Viridian Forest is north of Viridian City on Route 2.</text>
+    <contributor>
+      <username>FuzzyBot</username>
+      <id>133</id>
+    </contributor>
+    <comment>Updating to match new version of source page</comment>
+    <model>wikitext</model>
+    <parentid>20733</parentid>
+    <sha1>2835191c101080dac8b2e727ca58d59395e0e7c8</sha1>
+  </revision>
+</page></mediawiki>

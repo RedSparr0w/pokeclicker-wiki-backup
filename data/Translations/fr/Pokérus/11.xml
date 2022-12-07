@@ -1,0 +1,30 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Translations:Pokérus/11/fr</title>
+  <ns>0</ns>
+  <id>7148</id>
+  <revision>
+    <id>20548</id>
+    <timestamp>2022-08-19T15:27:19Z</timestamp>
+    <text space="preserve" bytes="704">{| class="wikitable"
+! Stade || Description
+|-
+| Rien || Etat de base. Le Pokémon peut contracter le Pokérus. Le Pokémon ne peut gagner d'EVs.
+|-
+| [[File:Pokérus (infected).png|20px]] Infecté || Le Pokémon a contracté le Pokérus, mais doit encore éclore une fois après la contraction du virus. Le Pokémon ne peut pas gagner d'EV.
+|-
+| [[File:Pokérus (contagious).png|20px]] Contagieux || Le Pokémon a contracté le Pokérus, et est capable de le transmettre. Le Pokémon peut gagner des EV.
+|-
+| [[File:Pokérus (cured).png|20px]] Soigné|| Le Pokémon a contracté le Pokérus et peut le transmettre. Le Pokémon peut gagner des EV et devient Soigné s'il a accumulé au moins 50 EV.
+|-
+|}</text>
+    <contributor>
+      <username>Razikd</username>
+      <id>33</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>20547</parentid>
+    <sha1>e90641623e7a16db16d8bec8773ee0042c4f6133</sha1>
+  </revision>
+</page></mediawiki>

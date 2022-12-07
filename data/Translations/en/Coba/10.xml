@@ -1,0 +1,34 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Translations:Coba/10/en</title>
+  <ns>1198</ns>
+  <id>10963</id>
+  <revision>
+    <id>31074</id>
+    <timestamp>2022-12-05T14:29:08Z</timestamp>
+    <text space="preserve" bytes="580">=== Timing Table ===
+{| class="wikitable"| style="text-align: center;"
+|+ ''All planting times use the time-to-ripe remaining of the first planted berry for subsequent planting times''
+! Berry !! Planting Time with &lt;br&gt; No Modifier !! Planting Time with &lt;br&gt; Mulch or Sprayduck || Planting Time with &lt;br&gt;  Mulch &amp; Sprayduck
+|-
+| [[Aguav]] || - || - || -
+|-
+| [[Chesto]] || 40 secs until ripe || 27 secs until ripe || Not Practical
+|-
+| colspan=4| '''OR'''
+|-
+| [[Wiki]] || - || - || -
+|-
+| [[Aguav]] || 5 mins 50 secs until ripe || 3 mins 53 secs until ripe || Not Practical
+|-
+|}</text>
+    <contributor>
+      <username>FuzzyBot</username>
+      <id>133</id>
+    </contributor>
+    <comment>Importing a new version from external source</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>7afeec8d2cbf41035fe16e101803a8867fa9664a</sha1>
+  </revision>
+</page></mediawiki>

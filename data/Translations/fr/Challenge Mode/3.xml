@@ -1,0 +1,40 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Translations:Challenge Mode/3/fr</title>
+  <ns>0</ns>
+  <id>5204</id>
+  <revision>
+    <id>17606</id>
+    <timestamp>2022-08-05T21:19:42Z</timestamp>
+    <text space="preserve" bytes="1124">{| class="wikitable" style="text-align: center;"
+|-
+! Défi !! Recommandé !! Contrainte
+|-
+| Perte d'attaque régionale || Oui || Diminue l'attaque des Pokémon selon leur région d'origine et la dernière région atteinte. (Voir [[Regions|Régions]] pour le calcul de l'attaque)
+|-
+| Pokédex Complet Requis || Oui || Requiert un Pokédex régional complet avant de partir pour la région suivante. (Voir chaque [[Regions|Régions]] pour plus d'informations)
+|-
+| Pas d'attaques de clic || Non || Empêche de cliquer pour infliger des dégâts.
+|-
+| Pas d'objets de combat || Non || Empêche l'utilisation des 6 [[Battle Items|Objets de Combat]] ou des 6 [[Flutes|Flûtes]].
+|-
+| Pas de Masterballs || Non || Empêche l'utilisation des [[Masterball|Masterballs]].
+|-
+| Pas d'Objets de Chen || Non || Empêche l'utilisation des [[Oak Items|Objets de Chen]].
+|-
+| Pas de Joyaux || Non || Empêche l'utilisation des [[Gems|Joyaux]] et des [[Flutes|Flûtes]].
+|-
+| Pas de Protéines || Non || Empêche l'utilisation de [[Protein|Protéines]].
+|-
+| EV lents || Non || Diminue le taux auquel sont gagnés les [[Pokérus|EV]].
+|}</text>
+    <contributor>
+      <username>LeChatMG</username>
+      <id>97</id>
+    </contributor>
+    <comment>"challenge" -&gt; "défi" ; mise au pluriel</comment>
+    <model>wikitext</model>
+    <parentid>17605</parentid>
+    <sha1>12780e016ed58416d1703d471582bb93fef2f572</sha1>
+  </revision>
+</page></mediawiki>

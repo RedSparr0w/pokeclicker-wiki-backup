@@ -1,0 +1,29 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Translations:Hatchery Helpers/7/en</title>
+  <ns>1198</ns>
+  <id>10805</id>
+  <revision>
+    <id>30881</id>
+    <timestamp>2022-12-05T14:27:06Z</timestamp>
+    <text space="preserve" bytes="590">{| class="wikitable" style="text-align: center;"
+|-
+! Stat !! Description !! Usage
+|-
+| '''Cost''' || Cost Per Hatch of the Hatcher Helper || Cost is deducted from your every hatch that the Hatchery Helper made.
+|-
+| '''Step Efficiency''' || How much of the egg steps it will use ||  If the Hatchery helper has 50% step efficiency, they will use on the egg half of the egg steps you gain.
+|-
+| '''Attack Efficiency''' || How much of the attack you pokemon will gain || If the Hatchery helper has 50% attack efficiency, when the egg hatch it will gain half of the attack it should get.
+|-
+|}</text>
+    <contributor>
+      <username>FuzzyBot</username>
+      <id>133</id>
+    </contributor>
+    <comment>Importing a new version from external source</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>6226f98fd403ca01cda520d9f774b4f097addb4d</sha1>
+  </revision>
+</page></mediawiki>

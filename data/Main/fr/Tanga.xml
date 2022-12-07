@@ -1,0 +1,136 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Tanga/fr</title>
+  <ns>0</ns>
+  <id>9177</id>
+  <revision>
+    <id>30402</id>
+    <timestamp>2022-12-05T14:20:50Z</timestamp>
+    <text space="preserve" bytes="4600">&lt;languages/&gt;
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Infobox Berry
+|name    = #47 Tanga
+|image   = [[File:Tanga.png]]
+|caption = The flower grows at the tip of this Berry. It attracts Bug Pokémon by letting its stringy petals stream out. The attracted Bug Pokémon decreases the amount of harvestable Berries in nearby plants
+|growtime  = 1h 0m 0s
+|harvest = 3 berries
+|replant = 50%
+|mutation = 0.01%
+|points = 500
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*20 spicy 
+*0 dry
+*0 sweet
+*0 bitter
+*10 sour
+}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+'''Tanga''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by surrounding an empty plot with 8 [[Rindo]] berries.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Growth Tables ==
+=== Growth Stages ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+!!! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 7 mins 30 secs || 15 mins || 30 mins || 1 hour - 2 hours
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:TangaTreeTaller.png|50px]] || &lt;center&gt; [[File:TangaTreeBloom.png|50px]] || &lt;center&gt; [[File:TangaTreeBerry.png|50px]]
+|-
+! Aura (harvest amount)
+| || &lt;center&gt; x0.9 || &lt;center&gt; x0.8 || &lt;center&gt; x0.7
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+=== Ripening Time with Modifiers  ===
+{| class="wikitable" | style="text-align: center;"
+! Modifier !! Ripe-Wither Time !! Boost Mulch Needed to Ripen
+|-
+! None
+| 1 hour -&lt;br&gt; 2 hours || ---
+|-
+! Mulch or Sprayduck
+| 40 mins -&lt;br&gt; 1 hour 20 mins || 8 mulch
+|-
+! Mulch &amp; Sprayduck
+| 26 mins 40 secs -&lt;br&gt; 53 mins 20 secs || 6 mulch
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Flow Chart ==
+[[File:Tanga_Flow_ChartV2.png|250px]]
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Mutation Strategy ==
+=== Possible Planting Formations ===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+You can fill your farm in the following way to obtain Tanga berries. Purple squares indicate where mutations can occur.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Farm
+|-
+| style="width: 50px;" | [[File:Rindo.png|30px]]&lt;br&gt;[[Rindo]] || style="width: 50px;" | [[File:Rindo.png|30px]]&lt;br&gt;[[Rindo]] || style="width: 50px;" | [[File:Rindo.png|30px]]&lt;br&gt;[[Rindo]] || style="width: 50px;" | [[File:Rindo.png|30px]]&lt;br&gt;[[Rindo]] || style="width: 50px;" | [[File:Rindo.png|30px]]&lt;br&gt;[[Rindo]]
+|-
+| [[File:Rindo.png|30px]]&lt;br&gt;[[Rindo]] || style="background-color:#9C7D98;" | || [[File:Rindo.png|30px]]&lt;br&gt;[[Rindo]] || style="background-color:#9C7D98;" | || [[File:Rindo.png|30px]]&lt;br&gt;[[Rindo]]
+|- style="height: 26px;"
+| [[File:Rindo.png|30px]]&lt;br&gt;[[Rindo]] || [[File:Rindo.png|30px]]&lt;br&gt;[[Rindo]] || [[File:Rindo.png|30px]]&lt;br&gt;[[Rindo]] || [[File:Rindo.png|30px]]&lt;br&gt;[[Rindo]] || [[File:Rindo.png|30px]]&lt;br&gt;[[Rindo]] 
+|-
+| [[File:Rindo.png|30px]]&lt;br&gt;[[Rindo]] || style="background-color:#9C7D98;" | || [[File:Rindo.png|30px]]&lt;br&gt;[[Rindo]] || style="background-color:#9C7D98;" | || [[File:Rindo.png|30px]]&lt;br&gt;[[Rindo]]
+|-
+| [[File:Rindo.png|30px]]&lt;br&gt;[[Rindo]] || [[File:Rindo.png|30px]]&lt;br&gt;[[Rindo]] || [[File:Rindo.png|30px]]&lt;br&gt;[[Rindo]] || [[File:Rindo.png|30px]]&lt;br&gt;[[Rindo]] || [[File:Rindo.png|30px]]&lt;br&gt;[[Rindo]] 
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Uses==
+===Mutations===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Tanga berries can be used to mutate the following berries.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Petaya.png|20px]] [[Petaya]] || [[File:Occa.png|20px]] [[Occa]] [[File:Passho.png|20px]] [[Passho]] &lt;br&gt; [[File:Wacan.png|20px]] [[Wacan]] [[File:Rindo.png|20px]] [[Rindo]] &lt;br&gt; [[File:Yache.png|20px]] [[Yache]] [[File:Chople.png|20px]] [[Chople]] &lt;br&gt; [[File:Kebia.png|20px]] [[Kebia]] [[File:Shuca.png|20px]] [[Shuca]] &lt;br&gt; [[File:Coba.png|20px]] [[Coba]] [[File:Payapa.png|20px]] [[Payapa]] &lt;br&gt; [[File:Charti.png|20px]] [[Charti]] [[File:Kasib.png|20px]] [[Kasib]] &lt;br&gt; [[File:Haban.png|20px]] [[Haban]] [[File:Colbur.png|20px]] [[Colbur]] &lt;br&gt; [[File:Babiri.png|20px]] [[Babiri]] [[File:Chilan.png|20px]] [[Chilan]] &lt;br&gt; [[File:Roseli.png|20px]] [[Roseli]]
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>FuzzyBot</username>
+      <id>133</id>
+    </contributor>
+    <comment>Updating to match new version of source page</comment>
+    <model>wikitext</model>
+    <parentid>24906</parentid>
+    <sha1>51339e08572e74ad530e819a6ea2a6a35fa06f2a</sha1>
+  </revision>
+</page></mediawiki>

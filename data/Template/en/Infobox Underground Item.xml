@@ -1,0 +1,57 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Template:Infobox Underground Item/en</title>
+  <ns>10</ns>
+  <id>7241</id>
+  <revision>
+    <id>20731</id>
+    <timestamp>2022-07-29T18:06:04Z</timestamp>
+    <text space="preserve" bytes="1325">{|class="infobox bordered" style="float:right; width:264px; font-size:90%; text-align:left; border:2px solid #4d4494; padding:3px;" cellpadding="3"
+|- 
+!colspan="2" style="font-size:110%; text-align:center; background-color:#cd6600; color:#FFF;" | {{{name}}}
+|-
+{{#if:{{{image&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} colspan="2" style="text-align:center;" {{!}}{{{image}}}{{#if:{{{symbol|}}}|&lt;br /&gt;{{{symbol}}}}}{{#if:{{{caption|}}}|&lt;br /&gt;{{{caption}}}}}
+{{!}}-
+}}
+{{#if:{{{price&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#{{Underground Items color light}}; color:#000;" {{!}}'''Price'''
+{{!}}{{{price}}}
+{{!}}-
+}}
+{{#if:{{{value&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#{{Underground Items color light}}; color:#000;" {{!}}'''Value'''
+{{!}}{{{value}}}
+{{!}}-
+}}
+{{#if:{{{location&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#{{Underground Items color light}}; color:#000;" {{!}}'''Location'''
+{{!}}{{{location}}}
+{{!}}-
+}}
+{{#if:{{{helditem&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#{{Underground Items color light}}; color:#000;" {{!}}'''Dropped by'''
+{{!}}{{{helditem}}}
+{{!}}-
+}}
+|}&lt;noinclude&gt;
+
+== Code ==
+&lt;pre&gt;{{Infobox character general
+|name       = 
+|image      = 
+|caption    = 
+|price      = 
+|location   = 
+|value      = 
+}}&lt;/pre&gt;</text>
+    <contributor>
+      <username>FuzzyBot</username>
+      <id>133</id>
+    </contributor>
+    <comment>Updating to match new version of source page</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>0848880ead908c05a48706cf0be97a72fc437e7d</sha1>
+  </revision>
+</page></mediawiki>

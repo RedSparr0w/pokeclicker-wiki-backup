@@ -1,0 +1,130 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Roaming Pokémon</title>
+  <ns>0</ns>
+  <id>123</id>
+  <revision>
+    <id>30431</id>
+    <timestamp>2022-12-05T14:21:10Z</timestamp>
+    <text space="preserve" bytes="5581">&lt;languages/&gt;
+&lt;translate&gt;
+&lt;!--T:1--&gt;
+'''Roaming Pokémon''' are rare Pokémon that can be found randomly while on routes.
+Each [[Regions|Region]] has a set of Roaming Pokémon that can be caught.
+So far, only Mew and Manaphy have no requirements to appear.
+
+=Odds= &lt;!--T:2--&gt;
+
+&lt;!--T:3--&gt;
+''For a breakdown of roaming chances on every route, visit the [[Route Statistics]] page.''
+
+&lt;!--T:4--&gt;
+The chance to encounter a roaming Pokémon is 1/8192 for the first route of a region, and increases linearly up to 1/4096 for the last route of a region."First" and "last" here refer to the health of the Pokémon on these routes, not necessarily the order they are unlocked. This means that a route you can 1-shot will always be at least as efficient as a route you can't, so it is recommended to idle on the highest route number you can 1-shot if you need them. &lt;br&gt;&lt;br&gt;
+The way that a Roaming Pokémon is encountered works like so. First, the game calculates if a Roaming Pokémon is encountered (using the above odds description with the current route). Next, the game calculates which Roaming Pokémon is encountered from the Roaming Pokémon pool for that region. Uncaught Roaming Pokémon have twice the chance of being encountered. &lt;br&gt;&lt;br&gt;
+An [[NPCs|NPC]] in each region can inform the player of a specific route in that region where the odds of encountering Roaming Pokémon are tripled. The boosted route changes every 8 hours. &lt;b&gt; If every route in the region can be one-shot, the Boosted Route is always the best route for encountering Roaming Pokémon.&lt;/b&gt;
+
+&lt;!--T:5--&gt;
+==Encounter Chance Table==
+{| class="wikitable sortable"
+|-
+! Route !! Farm !! Boosted Route !! Chance
+|-
+| rowspan=4|Highest Route || rowspan=2|[[File:Jaboca.png|20px]] [[Jaboca]] + [[File:Lum.png|20px]] [[Lum]] || Yes || 1/537
+|-
+| No || 1/1611
+|-
+| rowspan=2|&lt;center&gt;None || Yes || 1/1365
+|-
+| No || 1/4096
+|-
+| rowspan=4|Lowest Route || rowspan=2|[[File:Jaboca.png|20px]] [[Jaboca]] + [[File:Lum.png|20px]] [[Lum]] || Yes || 1/1074
+|-
+| No || 1/3221
+|-
+| rowspan=2|&lt;center&gt;None || Yes || 1/2731
+|-
+| No || 1/8192
+|}
+''Note: To see the Jaboca + Lum farm setup, visit [[Farming_Setups#Roaming_Pokemon_Farm_Setup|Farming Setups]]''
+
+&lt;!--T:6--&gt;
+=Regions=
+{| class="wikitable collapsible" style="text-align: center;"
+|-
+! Region !! NPC Location !! Roaming Pokémon !! Unlock Condition 
+|-
+| [[Kanto|Kanto (only in Main Region)]] || [[Towns &amp; Cities#Kanto|Fuchsia City]] || [[File:Mew.png|40px]] Mew || N/A
+|-
+| rowspan=5|[[Kanto|Kanto (Sevii Islands)]] || rowspan=5|[[Towns &amp; Cities#Sevii4567|Six Island]] || [[File:Raikou.png|40px]] Raikou || rowspan=3| Complete [[Questlines#Celio's_Errand|Celio's Errand]] Questline
+|-
+| [[File:Entei.png|40px]] Entei
+|-
+| [[File:Suicune.png|40px]] Suicune
+|-
+| [[File:Pink_Butterfree.png|40px]] Pink Butterfree || rowspan=2|Become the [[Gyms#Orange_League|Orange League Champion]]
+|-
+| [[File:Ashs_Butterfree.png|40px]] Ash's Butterfree
+|-
+| rowspan=2|[[Johto]] || rowspan=2|[[Towns &amp; Cities#Johto|Blackthorn City]] || [[File:Entei.png|40px]] Entei || rowspan=2|Unlocks during [[Questlines#The_Legendary_Beasts|The Legendary Beasts]] Questline
+|-
+|[[File:Raikou.png|40px]] Raikou 
+|-
+| rowspan=3|[[Hoenn]] || rowspan=3|[[Towns &amp; Cities#Hoenn|Slateport City]] || [[File:Latios.png|40px]] Latios || rowspan=3|Become the [[Hoenn|Hoenn Champion]]
+|-
+| [[File:Latias.png|40px]] Latias 
+|-
+| [[File:Jirachi.png|40px]] Jirachi
+|-
+| rowspan=3|[[Sinnoh]] || rowspan=3|[[Towns &amp; Cities#Sinnoh|Survival Area]] || [[File:Manaphy.png|40px]] Manaphy || N/A
+|-
+| [[File:Cresselia.png|40px]] Cresselia || Clear [[Dungeons#Sinnoh|Fullmoon Island]]
+|-
+| [[File:Mesprit.png|40px]] Mesprit || Clear [[Dungeons#Sinnoh|Lake Verity]]
+|-
+| rowspan=3|[[Unova]] || rowspan=3|[[Towns &amp; Cities#Unova|Nuvema Town]] || [[File:Tornadus.png|30px]]Tornadus || rowspan=2|Defeat the [[Gyms#Unova|Opelucid City Gym]]
+|-
+| [[File:Thundurus.png|30px]]Thundurus
+|-
+| [[File:Meloetta (aria).png|30px]]Meloetta (Aria) || Become the [[Unova|Unova Champion]]
+|-
+| rowspan=4|[[Kalos]] || rowspan=4|[[Towns &amp; Cities#Kalos|Anistar City]] || [[File:Zapdos.png|30px]] Zapdos || rowspan=3|Clear the [[Dungeons#Kalos|Sea Spirit's Den]]
+|-
+| [[File:Moltres.png|30px]]Moltres
+|-
+| [[File:Articuno.png|30px]]Articuno
+|-
+| [[File:Hoopa.png|30px]]Hoopa || Become the [[Kalos|Kalos Champion]]
+|-
+| rowspan=3|[[Alola]] || rowspan=3|[[Towns &amp; Cities#ALola|Aether Foundation]] || [[File:Magearna.png|30px]]Magearna || rowspan=3|Become the [[Alola|Alola Champion]]
+|-
+| [[File:Marshadow.png|30px]]Marshadow
+|-
+| [[File:Zeraora.png|30px]]Zeraora
+|-
+| [[Galar|South Galar]] || [[Towns &amp; Cities#Galar|Wedgehurst]] || [[File:Galarian Zapdos.png|30px]]Galarian Zapdos || rowspan=2| Unlocks during [[Questlines#The_Birds_of_the_Dyna_Tree|The Birds of the Dyna Tree]] Questline
+|-
+| rowspan=2|[[Galar|Isle of Armor]] || rowspan=2|[[Towns &amp; Cities#Galar|Master Dojo]] || [[File:Galarian Moltres.png|30px]]Galarian Moltres
+|-
+| [[File:Zarude.png|30px]]Zarude || Unlocks during [[Questlines#Secrets_of_the_Jungle|Secrets of the Jungle]] Questline
+|-
+| rowspan=3|[[Galar|Crown Tundra]] || rowspan=3|[[Towns &amp; Cities#Galar|Freezington]] || [[File:Galarian Articuno.png|30px]]Galarian Articuno || Unlocks during [[Questlines#The_Birds_of_the_Dyna_Tree|The Birds of the Dyna Tree]] Questline
+|-
+| [[File:Spectrier.png|30px]]Spectrier || rowspan=2|Unlocks during [[Questlines#The_Crown_of_Galar|The Crown of Galar]] Questline
+|-
+| [[File:Glastrier.png|30px]]Glastrier
+|}
+
+
+&lt;!--T:7--&gt;
+[[Category:Unique Pokémon]] [[Category:Pokémon]]
+&lt;/translate&gt;</text>
+    <contributor>
+      <username>DraKay</username>
+      <id>18</id>
+    </contributor>
+    <comment>Marked this version for translation</comment>
+    <model>wikitext</model>
+    <parentid>30180</parentid>
+    <sha1>d0f3261ac1828319c4c5ceaa14e0e5d619e91bab</sha1>
+  </revision>
+</page></mediawiki>

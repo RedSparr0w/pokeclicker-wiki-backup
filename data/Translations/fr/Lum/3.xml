@@ -1,0 +1,35 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Translations:Lum/3/fr</title>
+  <ns>0</ns>
+  <id>8148</id>
+  <revision>
+    <id>22979</id>
+    <timestamp>2022-08-09T21:19:43Z</timestamp>
+    <text space="preserve" bytes="699">== Tables de croissance ==
+=== Stades de croissance ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+|-
+! !! Pousse !! Arbuste !! Fleuri !! Mûr
+|-
+! Temps écoulé depuis plantation
+| 50 mins || 53 mins 20 secs || 56 mins 40 secs || 1 heure - 12 heures
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:LumTreeTaller.png|50px]] || &lt;center&gt; [[File:LumTreeBloom.png|50px]] || &lt;center&gt; [[File:LumTreeBerry.png|50px]]
+|-
+! rowspan=2|Aura (améliore les auras alentours)
+| rowspan=2|&lt;center&gt; N/A || &lt;center&gt; x1,01 || &lt;center&gt; x1,02 || &lt;center&gt;x1,03
+|-
+| colspan=3|'''Note&amp;nbsp;: Une Baie ne peut être affectée que par l'aura d'une seule Prine à la fois'''
+|}</text>
+    <contributor>
+      <username>LeChatMG</username>
+      <id>97</id>
+    </contributor>
+    <comment>Oubli de trad de "hour(s)"</comment>
+    <model>wikitext</model>
+    <parentid>22978</parentid>
+    <sha1>0967d44663bc4039faaeba28c754dd2e6bead570</sha1>
+  </revision>
+</page></mediawiki>

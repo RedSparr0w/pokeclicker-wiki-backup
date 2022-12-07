@@ -1,0 +1,54 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Amulet Coin/fr</title>
+  <ns>0</ns>
+  <id>4300</id>
+  <revision>
+    <id>30234</id>
+    <timestamp>2022-12-05T14:15:03Z</timestamp>
+    <text space="preserve" bytes="1417">&lt;languages/&gt;
+{{Infobox Oak Item
+|name       = Pièce Rune
+|image      = [[File:Bag_Amulet_Coin_Sprite.png]]
+|caption    = Dessin de la ''Pièce Rune''.
+|dex = 30
+|effect     = Augmente le gain de pièces en combattant
+}}
+
+La '''Pièce Rune''' est un [[Oak Items|Objet de Chen]]. Equipée, elle augmente la quantité d'argent gagnée. Elle n'affecte pas les {{pdollar}} gains en donjon, mais affecte les gains dans la majeur partie des autres situations. La Pièce Rune est débloquée après avoir capturé 30 Pokémons uniques.
+
+&lt;span id="Details"&gt;&lt;/span&gt;
+== Détails ==
+
+{| class="wikitable sortable"
+|-
+! Niveau !! Effet !! Critères d'amélioration !! Coût d'amélioration
+|-
+|0 || Gains de pièces x1.25 || 500 Pokémons vaincus || style="text-align:right" | 50,000 {{pdollar}}
+|-
+|1 || Gains de pièces x1.3 || 500 Pokémons vaincus || style="text-align:right" | 100,000 {{pdollar}}
+|-
+|2 || Gains de pièces x1.35 || 1500 Pokémons vaincus || style="text-align:right" | 250,000 {{pdollar}}
+|-
+|3 || Gains de pièces x1.4 || 2500 Pokémons vaincus || style="text-align:right" | 500,000 {{pdollar}}
+|-
+|4 || Gains de pièces x1.45 || 5000 Pokémons vaincus || style="text-align:right" | 1,000,000 {{pdollar}}
+|-
+|5/Max || Gains de pièces x1.5 || N/A || style="text-align:right" | N/A
+|-
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;{{Oak items}}&lt;br&gt;
+[[Category:Oak Items]] [[Category:Items]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>Razikd</username>
+      <id>33</id>
+    </contributor>
+    <comment>Imported translation using [[Special:PageMigration|page migration]]</comment>
+    <model>wikitext</model>
+    <parentid>25327</parentid>
+    <sha1>a7f5127c1a8e5c700a87f5e456bca91f4b526e69</sha1>
+  </revision>
+</page></mediawiki>

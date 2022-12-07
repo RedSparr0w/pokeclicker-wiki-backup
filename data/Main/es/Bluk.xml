@@ -1,0 +1,136 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Bluk/es</title>
+  <ns>0</ns>
+  <id>7457</id>
+  <revision>
+    <id>21292</id>
+    <timestamp>2022-08-01T21:37:15Z</timestamp>
+    <text space="preserve" bytes="4573">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #11 Oram (Bluk)
+|image   = [[File:Bluk.png]]
+|caption = Aunque esta pequeña y delicada Baya es de color azul, al comerla la boca se vuelve negra.
+|growtime  = 5m 30s
+|harvest = 9 bayas
+|replant = 40%
+|mutation = 1.8%
+|points = 20
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 picante
+*10 seco
+*10 dulce
+*0 amargo
+*0 ácido
+}}
+
+'''Oram (Bluk)''' es un tipo de [[Berries|baya]] que puede ser plantada en la [[Farm|granja]]. Se puede obtener rodeando una parcela vacía con al menos 1 baya [[Chesto|Atania (Chesto)]] y al menos 1 baya [[Leppa|Zanama (Leppa)]].
+
+== Tablas de Crecimiento ==
+=== Estados de Crecimiento ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Brote !! Crecimiento !! Floración !! Madurez
+|-
+! Tiempo pasado desde que se planta
+| 3 mins 20 seg || 4 mins 10 seg || 5 mins || 5 mins 30 seg - 11 mins
+|-
+!Animación
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:BlukTreeTaller.png|50px]] || &lt;center&gt; [[File:BlukTreeBloom.png|50px]] || &lt;center&gt; [[File:BlukTreeBerry.png|50px]]
+|}
+
+=== Tiempos de Maduración con modificadores ===
+{| class="wikitable" | style="text-align: center;"
+! Modificador !! Tiempo hasta la madurez-marchitado
+|-
+! Ninguno
+| 5 min 30 seg -&lt;br&gt; 11 min
+|-
+! Psydugadera
+| 3 min 40 seg -&lt;br&gt; 7 min 20 seg
+|}
+
+== Diagrama de Flujo ==
+[[File:Bluk_Flow_Chart.png|200px]]
+&lt;br&gt;
+'''Leyenda:'''&lt;br&gt;
+· Random Drop: Obtenido aleatoriamente en ruta
+
+== Estrategia de mutación ==
+=== Posibles formaciones ===
+
+Puedes llenar tu granja del siguiente modo para obtener bayas Oram (Bluk). Los cuadrados morados indican dónde pueden ocurrir las mutaciones.
+
+{| class="wikitable" style="text-align: center;"
+|+ Formación base
+|-
+| style="width: 40px;" | [[File:Chesto.png|30px]] [[Chesto|Atania (Chesto)]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Leppa.png|30px]] [[Leppa|Zanama (Leppa)]]
+|}
+
+{| class="wikitable" style="text-align: center;"
+|+ Formación óptima
+|-
+| style="width: 40px;" | [[File:Chesto.png|30px]] [[Chesto|Atania (Chesto)]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Chesto.png|30px]] [[Chesto|Atania (Chesto)]] || style="width: 40px; background-color:#9C7D98;" |
+|-
+| style="background-color:#9C7D98;" | || [[File:Leppa.png|30px]] [[Leppa|Zanama (Leppa)]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Leppa.png|30px]] [[Leppa|Zanama (Leppa)]] 
+|- style="height: 50px;"
+| style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | 
+|-
+| [[File:Chesto.png|30px]] [[Chesto|Atania (Chesto)]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Chesto.png|30px]] [[Chesto|Atania (Chesto)]] || style="background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Leppa.png|30px]] [[Leppa|Zanama (Leppa)]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Leppa.png|30px]] [[Leppa|Zanama (Leppa)]] 
+|}
+
+=== Tabla de Tiempos ===
+{| class="wikitable"| style="text-align: center;"
+|+ ''Todos los tiempos de plantado usan el tiempo hasta la madurez de la primera baya plantada para las siguientes''
+! Baya !! Tiempo de plantado &lt;br&gt; Sin modificador !! Tiempo de plantado &lt;br&gt; Abono o Psydugadera || Tiempo de plantado &lt;br&gt;  Abono y Psydugadera
+|-
+| [[Leppa|Zanama (Leppa)]] || - || - || -
+|-
+| [[Chesto|Atania (Chesto)]] || 40 seg hasta la madurez || 26 seg hasta la madurez || No tiene sentido
+|-
+|}
+
+==Usos==
+===Mutaciones===
+
+Las bayas Oram (Bluk) pueden usarse para mutar las siguientes bayas.
+
+{| class="wikitable" | style="text-align: center;"
+|-
+! Se usa para !! Junto a
+|-
+| [[File:Cornn.png|20px]] [[Cornn|Mais (Cornn)]] || [[File:Leppa.png|20px]] [[Leppa|Zanama (Leppa)]] &lt;br&gt; [[File:Wiki.png|20px]] [[Wiki]]
+|-
+| [[File:Payapa.png|20px]] [[Payapa]] || [[File:Wiki.png|20px]] [[Wiki]] &lt;br&gt; [[File:Cornn.png|20px]] [[Cornn|Mais (Cornn)]] &lt;br&gt; [[File:Pamtre.png|20px]] [[Pamtre|Plama (Pamtre)]]
+|-
+|}
+
+==Adquisición==
+===Mazmorras===
+{{Loot/head‎|Berries}}
+{{LootItem|Berry Forest|Épico}}
+{{LootItem|Radio Tower|Épico}}
+{{LootItem|Seafloor Cavern|Épico}}
+{{LootItem|Eterna Forest|Común}}
+{{LootItem|Sea Spirit's Den|Común}}
+|}
+|}
+
+&lt;br&gt;
+
+{{Berries}}
+
+[[Category:Farm|Categoría:Granja]][[Category:Berries|Categoría:Bayas]]</text>
+    <contributor>
+      <username>Cthulhu Follower</username>
+      <id>51</id>
+    </contributor>
+    <comment>Created page with "==Adquisición== ===Mazmorras=== {{Loot/head‎|Berries}} {{LootItem|Berry Forest|Épico}} {{LootItem|Radio Tower|Épico}} {{LootItem|Seafloor Cavern|Épico}} {{LootItem|Eterna Forest|Común}} {{LootItem|Sea Spirit's Den|Común}} |} |}"</comment>
+    <model>wikitext</model>
+    <parentid>21291</parentid>
+    <sha1>04055c66b4ceb3ae8ecd16b6925ffe9c2d0de914</sha1>
+  </revision>
+</page></mediawiki>

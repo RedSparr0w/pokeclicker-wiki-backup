@@ -1,0 +1,23 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Translations:Dungeons/3/en</title>
+  <ns>1198</ns>
+  <id>11088</id>
+  <revision>
+    <id>31228</id>
+    <timestamp>2022-12-05T14:56:29Z</timestamp>
+    <text space="preserve" bytes="1150">==Dungeon Perks and Mechanics==
+===Clear Dependent Mechanics===
+====Dungeon Size====
+Dungeons have a minimum size floor of 5x5 and a maximum of 10x10. From Alola onwards, dungeons have two floors: the first one with maximum size (10x10) and a second floor that starts with minimum size (5x5) and that increases with each subsequent region. Galar dungeons, for example, have a first floor that is 10x10 in size and a second floor that is 6x6 in size.
+Certain perks are granted to the player after clearing a Dungeon some number of times - these perks make clearing that particular Dungeon easier. When the number of clears reaches a power of ten (10, 100, 1000, etc.), the Dungeon size will shrink by 1 row and 1 column until it reaches the minimum size. For example, a Hoenn dungeon cleared 100 times will now be a 5x5 sized Hoenn Dungeon instead of the base 7x7 sized Hoenn Dungeon. If the dungeon has a second floor, then the second floor will get reduced first. If the second floor is already at minimum size, then the size reduction will remove this floor instead. So, for example, clearing an Alola dungeon 10 times will remove the second floor.</text>
+    <contributor>
+      <username>FuzzyBot</username>
+      <id>133</id>
+    </contributor>
+    <comment>Importing a new version from external source</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>5e973d10bcdad371932d7ff80b03a9098ecb8ab3</sha1>
+  </revision>
+</page></mediawiki>

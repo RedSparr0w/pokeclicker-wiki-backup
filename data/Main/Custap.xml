@@ -1,0 +1,104 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Custap</title>
+  <ns>0</ns>
+  <id>728</id>
+  <revision>
+    <id>7736</id>
+    <timestamp>2022-07-29T08:02:23Z</timestamp>
+    <text space="preserve" bytes="3256">&lt;languages/&gt;
+&lt;translate&gt;
+&lt;!--T:1--&gt;
+{{Infobox Berry
+|name    = #55 Custap
+|image   = [[File:Custap.png]]
+|caption = The flesh underneath the Custap Berry's tough skin is sweet and creamy soft.
+|growtime  = 7h 36m 0s
+|harvest = 1 berry
+|replant = 5%
+|mutation = 0.03%
+|points = 2,700
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 spicy 
+*0 dry
+*40 sweet
+*10 bitter
+*0 sour
+}}
+
+&lt;!--T:2--&gt;
+'''Custap''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by having at least one empty plot and at least 600 points of sweet on the field. The [[Watmel]] must be unlocked to unlock this berry.
+
+== Growth Tables == &lt;!--T:3--&gt;
+=== Growth Stages ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 54 mins || 2 hours 18 mins || 3 hours 42 mins || 7 hours 36 mins - 15 hours 12 mins
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:CustapTreeTaller.png|50px]] || &lt;center&gt; [[File:CustapTreeBloom.png|50px]] || &lt;center&gt; [[File:CustapTreeBerry.png|50px]]
+|}
+
+=== Ripening Time with Modifiers  === &lt;!--T:4--&gt;
+{| class="wikitable" | style="text-align: center;"
+! Modifier !! Ripe-Wither Time !! Boost Mulch Needed to Ripen
+|-
+! None
+| 7 hours 36 mins -&lt;br&gt; 15 hours 12 mins || ---
+|-
+! Mulch/Sprayduck
+| 5 hours 4 mins -&lt;br&gt; 10 hours 8 mins || 61 mulch
+|-
+! Mulch*Sprayduck
+| 3 hours 22 mins 40 secs -&lt;br&gt; 6 hours 45 mins 20 secs || 41 mulch
+|}
+
+== Flow Chart == &lt;!--T:5--&gt;
+[[File:Custap_Flow_Chart.png|250px]]
+&lt;br&gt;
+
+== Mutation Strategy == &lt;!--T:6--&gt;
+=== Possible Planting Formations ===
+
+&lt;!--T:7--&gt;
+'''WARNING:''' Trying to mutate Custap while having the Sprinklotad equipped may result in your Watmel mutating into Shuca.&lt;br&gt;
+
+&lt;!--T:8--&gt;
+You can fill your farm in the following way to obtain Custap berries. Purple squares indicate where mutations can occur.
+
+&lt;!--T:9--&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Farm
+|- style="height: 26px;"
+| style="width: 50px;" | [[File:Watmel.png|30px]]&lt;br&gt;[[Watmel]] || style="width: 50px;" | [[File:Watmel.png|30px]]&lt;br&gt;[[Watmel]] || style="width: 50px;" | [[File:Watmel.png|30px]]&lt;br&gt;[[Watmel]] || style="width: 50px;" | [[File:Watmel.png|30px]]&lt;br&gt;[[Watmel]] || style="width: 50px;" | [[File:Watmel.png|30px]]&lt;br&gt;[[Watmel]]
+|-
+| [[File:Watmel.png|30px]]&lt;br&gt;[[Watmel]] || style="background-color:#9C7D98;" | || [[File:Watmel.png|30px]]&lt;br&gt;[[Watmel]] || style="background-color:#9C7D98;" | || [[File:Watmel.png|30px]]&lt;br&gt;[[Watmel]]
+|- 
+| [[File:Watmel.png|30px]]&lt;br&gt;[[Watmel]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Watmel.png|30px]]&lt;br&gt;[[Watmel]]
+|-
+| [[File:Watmel.png|30px]]&lt;br&gt;[[Watmel]] || [[File:Watmel.png|30px]]&lt;br&gt;[[Watmel]] || [[File:Watmel.png|30px]]&lt;br&gt;[[Watmel]] || [[File:Watmel.png|30px]]&lt;br&gt;[[Watmel]] || [[File:Watmel.png|30px]]&lt;br&gt;[[Watmel]]
+|-
+| [[File:Watmel.png|30px]]&lt;br&gt;[[Watmel]] || [[File:Watmel.png|30px]]&lt;br&gt;[[Watmel]] || [[File:Watmel.png|30px]]&lt;br&gt;[[Watmel]] || [[File:Watmel.png|30px]]&lt;br&gt;[[Watmel]] || [[File:Watmel.png|30px]]&lt;br&gt;[[Watmel]]
+|}
+
+&lt;!--T:10--&gt;
+&lt;br&gt;
+
+&lt;!--T:11--&gt;
+{{Berries}}
+
+&lt;!--T:12--&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/translate&gt;</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment>Marked this version for translation</comment>
+    <model>wikitext</model>
+    <parentid>7735</parentid>
+    <sha1>959bd4385d13c93de1114c8366d639f3f72f5da3</sha1>
+  </revision>
+</page></mediawiki>

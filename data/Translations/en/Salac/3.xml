@@ -1,0 +1,29 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Translations:Salac/3/en</title>
+  <ns>1198</ns>
+  <id>10396</id>
+  <revision>
+    <id>30418</id>
+    <timestamp>2022-12-05T14:21:09Z</timestamp>
+    <text space="preserve" bytes="413">== Growth Tables ==
+=== Growth Stages ===
+{| class="wikitable" style="text-align: center;" | style = "image-rendering: pixelated"
+! !! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 6 hours || 12 hours || 1 day || 2 days - 4 days
+|- 
+! Animation
+| [[File:AllTreeSprout.png|50px]] || [[File:SalacTreeTaller.png|50px]] || [[File:SalacTreeBloom.png|50px]] || [[File:SalacTreeBerry.png|50px]]
+|}</text>
+    <contributor>
+      <username>FuzzyBot</username>
+      <id>133</id>
+    </contributor>
+    <comment>Importing a new version from external source</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>45a3c2e071077c6fc11d82bc366ba2be645f600f</sha1>
+  </revision>
+</page></mediawiki>

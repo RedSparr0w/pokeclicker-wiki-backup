@@ -1,0 +1,29 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Translations:Nanab/3/en</title>
+  <ns>0</ns>
+  <id>5678</id>
+  <revision>
+    <id>18495</id>
+    <timestamp>2022-07-29T07:57:11Z</timestamp>
+    <text space="preserve" bytes="436">== Growth Tables ==
+=== Growth Stages ===
+{| class="wikitable"| style = "image-rendering: pixelated"
+! !! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 25 secs || 30 secs || 35 secs || 4 mins 10 secs - 8 mins 20 secs
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:NanabTreeTaller.png|50px]] || &lt;center&gt; [[File:NanabTreeBloom.png|50px]] || &lt;center&gt; [[File:NanabTreeBerry.png|50px]]
+|}</text>
+    <contributor>
+      <username>FuzzyBot</username>
+      <id>133</id>
+    </contributor>
+    <comment>Importing a new version from external source</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>d1d2a0a78a070ea5438bec083caa2f531b964098</sha1>
+  </revision>
+</page></mediawiki>

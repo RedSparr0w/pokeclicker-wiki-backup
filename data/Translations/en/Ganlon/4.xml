@@ -1,0 +1,31 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Translations:Ganlon/4/en</title>
+  <ns>1198</ns>
+  <id>10907</id>
+  <revision>
+    <id>31010</id>
+    <timestamp>2022-12-05T14:28:11Z</timestamp>
+    <text space="preserve" bytes="345">=== Ripening Time with Modifiers  ===
+{| class="wikitable" | style="text-align: center;"
+! Modifier !! Ripe-Wither Time !! Boost Mulch Needed to Ripen
+|-
+! None
+| 2 days -&lt;br&gt; 4 days || ---
+|-
+! Mulch or Sprayduck
+| 1 day 8 hours -&lt;br&gt; 2 days 16 hours || 384 mulch
+|-
+! Mulch &amp; Sprayduck
+| 21 hours 20 mins -&lt;br&gt; 42 hours 40 mins || 256 mulch
+|}</text>
+    <contributor>
+      <username>FuzzyBot</username>
+      <id>133</id>
+    </contributor>
+    <comment>Importing a new version from external source</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>206dee80ba4a508d8afa629b638ce95d5bac377b</sha1>
+  </revision>
+</page></mediawiki>

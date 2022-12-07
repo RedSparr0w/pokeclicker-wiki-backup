@@ -1,0 +1,32 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Translations:Charti/3/fr</title>
+  <ns>1198</ns>
+  <id>11501</id>
+  <revision>
+    <id>31906</id>
+    <timestamp>2022-12-06T10:11:40Z</timestamp>
+    <text space="preserve" bytes="581">== Tables de Croissance ==
+=== Stades de croissance ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Pousse !! Arbuste !! Fleuri !! Mûr
+|-
+! Temps écoulé après plantation
+| 2 heures 23 mins 20 secs || 3 heures 36 mins || 6 heures 24 mins || 10 heures 30 mins - 21 heures
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:ChartiTreeTaller.png|50px]] || &lt;center&gt; [[File:ChartiTreeBloom.png|50px]] || &lt;center&gt; [[File:ChartiTreeBerry.png|50px]]
+|-
+! Aura (chance de replante)
+| || &lt;center&gt; x0,99 || &lt;center&gt; x0,98 || &lt;center&gt; x0,97
+|}</text>
+    <contributor>
+      <username>Razikd</username>
+      <id>33</id>
+    </contributor>
+    <comment>Imported translation using [[Special:PageMigration|page migration]]</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>6ec8dc8db28b6fc99d72ce0cf6644d369961c3f5</sha1>
+  </revision>
+</page></mediawiki>

@@ -1,0 +1,35 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Translations:Kebia/3/fr</title>
+  <ns>0</ns>
+  <id>9110</id>
+  <revision>
+    <id>24755</id>
+    <timestamp>2022-08-19T20:16:34Z</timestamp>
+    <text space="preserve" bytes="649">== Tables de croissance ==
+=== Stades de croissance ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Pousse !! Arbuste !! Fleuri !! Mûr
+|-
+! Temps écoulé après plantation
+| 1 min 40 secs || 3 mins 20 secs || 6 mins 40 secs || 10 mins - 24 heures
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:KebiaTreeTaller.png|50px]] || &lt;center&gt; [[File:KebiaTreeBloom.png|50px]] || &lt;center&gt; [[File:KebiaTreeBerry.png|50px]]
+|-
+! Aura (chance de mutation)
+| || &lt;center&gt; x1,2 || &lt;center&gt; x1,4 || &lt;center&gt; x1,6
+|-
+! Parasite (Tendance à remplacer les autres plants)
+| colspan=3|&lt;center&gt; N/A || &lt;center&gt; 0.04%
+|}</text>
+    <contributor>
+      <username>Incandescence</username>
+      <id>141</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>24754</parentid>
+    <sha1>b209325d17540e44b289a986774fb06f092b4151</sha1>
+  </revision>
+</page></mediawiki>

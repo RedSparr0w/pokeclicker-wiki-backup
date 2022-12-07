@@ -1,0 +1,31 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Translations:Enigma/5/en</title>
+  <ns>1198</ns>
+  <id>10924</id>
+  <revision>
+    <id>31029</id>
+    <timestamp>2022-12-05T14:28:36Z</timestamp>
+    <text space="preserve" bytes="345">=== Ripening Time with Modifiers  ===
+{| class="wikitable" | style="text-align: center;"
+! Modifier !! Ripe-Wither Time !! Boost Mulch Needed to Ripen
+|-
+! None
+| 1 day -&lt;br&gt; 7 days || ---
+|-
+! Mulch or Sprayduck
+| 16 hours -&lt;br&gt; 4 days 16 hours || 192 mulch
+|-
+! Mulch &amp; Sprayduck
+| 10 hours 40 mins -&lt;br&gt; 3 days 2 hours 40 mins || 128 mulch
+|}</text>
+    <contributor>
+      <username>FuzzyBot</username>
+      <id>133</id>
+    </contributor>
+    <comment>Importing a new version from external source</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>ce903430293709d3d376a46be7edbd0379310096</sha1>
+  </revision>
+</page></mediawiki>

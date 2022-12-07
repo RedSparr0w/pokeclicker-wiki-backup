@@ -1,0 +1,36 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Template:Featured article</title>
+  <ns>10</ns>
+  <id>25</id>
+  <revision>
+    <id>324</id>
+    <timestamp>2020-09-03T15:07:49Z</timestamp>
+    <text space="preserve" bytes="560">{{#switch:{{#expr: ({{#time: s}} mod 14)+1}} 
+| 1  = {{Featured article/1}}
+| 2  = {{Featured article/2}}
+| 3  = {{Featured article/3}}
+| 4  = {{Featured article/4}}
+| 5  = {{Featured article/5}}
+| 6  = {{Featured article/6}}
+| 7  = {{Featured article/7}}
+| 8  = {{Featured article/8}}
+| 9  = {{Featured article/9}}
+| 10 = {{Featured article/10}}
+| 11 = {{Featured article/11}}
+| 12 = {{Featured article/12}}
+| 13 = {{Featured article/13}}
+| 14 = {{Featured article/14}}
+}}
+&lt;noinclude&gt;[[Category:Templates]]
+[[Category:Featured articles templates]]&lt;/noinclude&gt;</text>
+    <contributor>
+      <username>ElvisDitto</username>
+      <id>19</id>
+    </contributor>
+    <comment>Created page with "{{#switch:{{#expr: ({{#time: s}} mod 14)+1}}  | 1  = {{Featured article/1}} | 2  = {{Featured article/2}} | 3  = {{Featured article/3}} | 4  = {{Featured article/4}} | 5  = {{..."</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>d0493c7434930c2208551ee563f4a90dd423c59d</sha1>
+  </revision>
+</page></mediawiki>

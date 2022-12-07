@@ -1,0 +1,32 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Translations:Yache/3/fr</title>
+  <ns>0</ns>
+  <id>9041</id>
+  <revision>
+    <id>24604</id>
+    <timestamp>2022-08-18T22:10:33Z</timestamp>
+    <text space="preserve" bytes="534">== Tables de croissance ==
+=== Stades de croissance ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Pousse !! Arbuste !! Fleuri !! Mûr
+|-
+! Temps écoulé depuis plantation
+| 1 heure || 4 heures || 8 heures || 12 heures - 1 jour
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:YacheTreeTaller.png|50px]] || &lt;center&gt; [[File:YacheTreeBloom.png|50px]] || &lt;center&gt; [[File:YacheTreeBerry.png|50px]]
+|-
+! Aura (vitesse de croissance)
+| || &lt;center&gt; x0,9 || &lt;center&gt; x0,8 || &lt;center&gt; x0,7
+|}</text>
+    <contributor>
+      <username>LuK</username>
+      <id>96</id>
+    </contributor>
+    <comment>Created page with "== Tables de croissance == === Stades de croissance === {| class="wikitable" | style = "image-rendering: pixelated" ! !! Pousse !! Arbuste !! Fleuri !! Mûr |- ! Temps écoulé depuis plantation | 1 heure || 4 heures || 8 heures || 12 heures - 1 jour |- ! Animation | &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:YacheTreeTaller.png|50px]] || &lt;center&gt; [[File:YacheTreeBloom.png|50px]] || &lt;center&gt; [[File:YacheTreeBerry.png|50px]] |- ! Aura (vitesse de croissan..."</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>413a02be100c040f8af5753a4fc606b065c3e191</sha1>
+  </revision>
+</page></mediawiki>

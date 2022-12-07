@@ -1,0 +1,29 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Translations:Questlines/5/en</title>
+  <ns>1198</ns>
+  <id>10499</id>
+  <revision>
+    <id>30534</id>
+    <timestamp>2022-12-05T14:21:52Z</timestamp>
+    <text space="preserve" bytes="348">==Mining Expedition==
+{| class="wikitable"
+|+ Mining Expedition
+! Type !! Requirement !! Reward
+|-
+| Prerequisite || Defeat the [[Gyms#Kanto|Fuchsia City Gym]] || None
+|-
+| Purchase Item || Buy the [[Explorer Kit]] [[File:ExplorerKit_HighRes.png|15px]] || None
+|-
+| Mine Layer || Mine 5 layers || [[Fossils|Old Amber]] [[File:OldAmber.png|15px]]
+|}</text>
+    <contributor>
+      <username>FuzzyBot</username>
+      <id>133</id>
+    </contributor>
+    <comment>Importing a new version from external source</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>0baaa334691ca58e555b2c52fc724c1b12b98ea0</sha1>
+  </revision>
+</page></mediawiki>

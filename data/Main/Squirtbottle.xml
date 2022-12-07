@@ -1,0 +1,60 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Squirtbottle</title>
+  <ns>0</ns>
+  <id>503</id>
+  <revision>
+    <id>6466</id>
+    <timestamp>2022-07-22T16:18:09Z</timestamp>
+    <text space="preserve" bytes="1832">&lt;languages/&gt;
+&lt;translate&gt;
+&lt;!--T:1--&gt;
+{{Infobox Oak Item
+|name       = Squirtbottle
+|image      = [[File:Squirtbottle.png]]
+|caption    = Artwork of the ''Squirtbottle''.
+|dex = 0 (Bought at Goldenrod City in [[Johto]] for 5,000 {{farmpoints}})
+|effect     = Increases the chance of [[Berry|berry]] mutations
+}}
+
+&lt;!--T:2--&gt;
+The '''Squirtbottle''' is a type of [[Oak Items|Oak Item]]. When equipped, it increases the chance of [[Berry|mutations]] occurring in the [[Farm]]. Unlike most other Oak Items, it is not unlocked by capturing unique Pokémon and instead can be bought from the [[Johto]] Berry Master in Goldenrod City. It also requires [[Farming Points]] to upgrade instead of Pokédollars.
+
+==Details== &lt;!--T:3--&gt;
+
+&lt;!--T:4--&gt;
+{| class="wikitable sortable"
+|-
+! Level !! Effect !! Upgrade Requirement !! Upgrade Cost
+|-
+|0 || +25% to mutation rate || 50 mutations triggered || style="text-align:right" | 2,000 {{farmpoints}}
+|-
+|1 || +50% to mutation rate || 50 mutations triggered || style="text-align:right" | 5,000 {{farmpoints}}
+|-
+|2 || +75% to mutation rate || 150 mutations triggered || style="text-align:right" | 10,000 {{farmpoints}}
+|-
+|3 || +100% to mutation rate || 250 mutations triggered || style="text-align:right" | 20,000 {{farmpoints}}
+|-
+|4 || +125% to mutation rate || 500 mutations triggered || style="text-align:right" | 50,000 {{farmpoints}}
+|-
+|5/Max || +150% to mutation rate || N/A || style="text-align:right" | N/A
+|-
+|}
+
+== Leveling Strategies == &lt;!--T:5--&gt;
+There are a few highly efficient strategies on how to level up the Squirtbottle based on which berries you have unlocked. To see the leveling Strategies, see the [[Farming Setups#Squirtbottle Leveling Strategies|Farming Setups page]]
+
+&lt;!--T:6--&gt;
+&lt;br&gt;{{Oak items}}&lt;br&gt;
+[[Category:Oak Items]] [[Category:Items]] [[Category:Farm]]
+&lt;/translate&gt;</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment>Marked this version for translation</comment>
+    <model>wikitext</model>
+    <parentid>6465</parentid>
+    <sha1>f3b966cb986cc6b360b6bc185d1fec46148290a5</sha1>
+  </revision>
+</page></mediawiki>

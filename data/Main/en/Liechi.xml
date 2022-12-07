@@ -1,0 +1,107 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Liechi/en</title>
+  <ns>0</ns>
+  <id>6707</id>
+  <revision>
+    <id>30796</id>
+    <timestamp>2022-12-05T14:26:39Z</timestamp>
+    <text space="preserve" bytes="3143">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #61 Liechi
+|image   = [[File:Liechi.png]]
+|caption = This Berry is surrounded by mystery. It is rumored to be imbued with the power of the sea.
+|growtime  = 2d
+|harvest = 0.5 berries
+|replant = 0%
+|mutation = 0.001%
+|points = 10,000
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*30 spicy 
+*10 dry
+*30 sweet
+*0 bitter
+*0 sour
+}}
+
+'''Liechi''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by having at least one empty plot and at least 23 [[Passho]] on the field. Pokémon #382 (Kyogre) must be caught to unlock this berry.
+
+== Growth Tables ==
+=== Growth Stages ===
+{| class="wikitable" style="text-align: center;" | style = "image-rendering: pixelated"
+! !! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 6 hours || 12 hours || 1 day || 2 days - 4 days
+|- 
+! Animation
+| [[File:AllTreeSprout.png|50px]] || [[File:LiechiTreeTaller.png|50px]] || [[File:LiechiTreeBloom.png|50px]] || [[File:LiechiTreeBerry.png|50px]]
+|}
+
+=== Ripening Time with Modifiers  ===
+{| class="wikitable" | style="text-align: center;"
+! Modifier !! Ripe-Wither Time !! Boost Mulch Needed to Ripen
+|-
+! None
+| 2 days -&lt;br&gt; 4 days || ---
+|-
+! Mulch or Sprayduck
+| 1 day 8 hours -&lt;br&gt; 2 days 16 hours || 384 mulch
+|-
+! Mulch &amp; Sprayduck
+| 21 hours 20 mins -&lt;br&gt; 42 hours 40 mins || 256 mulch
+|}
+
+== Flow Chart ==
+[[File:Liechi_Flow_Chart.png|350px]]
+&lt;br&gt;
+
+== Mutation Strategy ==
+=== Possible Planting Formations ===
+
+You can fill your farm in the following way to obtain Liechi berries. Purple squares indicate where mutations can occur.
+
+{| class="wikitable" style="text-align: center;"
+|+ Farm
+|-
+| style="width: 50px;" | [[File:Passho.png|30px]]&lt;br&gt;[[Passho]] || style="width: 50px;" | [[File:Passho.png|30px]]&lt;br&gt;[[Passho]] || style="width: 50px;" | [[File:Passho.png|30px]]&lt;br&gt;[[Passho]] || style="width: 50px;" | [[File:Passho.png|30px]]&lt;br&gt;[[Passho]] || style="width: 50px;" | [[File:Passho.png|30px]]&lt;br&gt;[[Passho]]
+|-
+| [[File:Passho.png|30px]]&lt;br&gt;[[Passho]] || [[File:Passho.png|30px]]&lt;br&gt;[[Passho]] || [[File:Passho.png|30px]]&lt;br&gt;[[Passho]] || [[File:Passho.png|30px]]&lt;br&gt;[[Passho]] || [[File:Passho.png|30px]]&lt;br&gt;[[Passho]]
+|-
+| [[File:Passho.png|30px]]&lt;br&gt;[[Passho]] || [[File:Passho.png|30px]]&lt;br&gt;[[Passho]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Passho.png|30px]]&lt;br&gt;[[Passho]]
+|-
+| [[File:Passho.png|30px]]&lt;br&gt;[[Passho]] || [[File:Passho.png|30px]]&lt;br&gt;[[Passho]] || [[File:Passho.png|30px]]&lt;br&gt;[[Passho]] || [[File:Passho.png|30px]]&lt;br&gt;[[Passho]] || [[File:Passho.png|30px]]&lt;br&gt;[[Passho]]
+|-
+| [[File:Passho.png|30px]]&lt;br&gt;[[Passho]] || [[File:Passho.png|30px]]&lt;br&gt;[[Passho]] || [[File:Passho.png|30px]]&lt;br&gt;[[Passho]] || [[File:Passho.png|30px]]&lt;br&gt;[[Passho]] || [[File:Passho.png|30px]]&lt;br&gt;[[Passho]]
+|}
+
+==Uses==
+===Mutations===
+
+Liechi berries can be used to mutate the following berries.
+
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Kee.png|20px]] [[Kee]] || [[File:Ganlon.png|20px]] [[Ganlon]]
+|-
+|}
+
+&lt;br&gt;
+
+&lt;br&gt;
+
+{{Berries}}
+
+[[Category:Farm]][[Category:Berries]]</text>
+    <contributor>
+      <username>FuzzyBot</username>
+      <id>133</id>
+    </contributor>
+    <comment>Updating to match new version of source page</comment>
+    <model>wikitext</model>
+    <parentid>19524</parentid>
+    <sha1>211b65187e4c42fd8f3ab96f943ccd24b68543be</sha1>
+  </revision>
+</page></mediawiki>

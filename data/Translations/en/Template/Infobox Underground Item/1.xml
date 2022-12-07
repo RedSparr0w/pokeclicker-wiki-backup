@@ -1,0 +1,47 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Translations:Template:Infobox Underground Item/1/en</title>
+  <ns>0</ns>
+  <id>7214</id>
+  <revision>
+    <id>20704</id>
+    <timestamp>2022-07-29T18:05:44Z</timestamp>
+    <text space="preserve" bytes="1181">{|class="infobox bordered" style="float:right; width:264px; font-size:90%; text-align:left; border:2px solid #4d4494; padding:3px;" cellpadding="3"
+|- 
+!colspan="2" style="font-size:110%; text-align:center; background-color:#cd6600; color:#FFF;" | {{{name}}}
+|-
+{{#if:{{{image&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} colspan="2" style="text-align:center;" {{!}}{{{image}}}{{#if:{{{symbol|}}}|&lt;br /&gt;{{{symbol}}}}}{{#if:{{{caption|}}}|&lt;br /&gt;{{{caption}}}}}
+{{!}}-
+}}
+{{#if:{{{price&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#{{Underground Items color light}}; color:#000;" {{!}}'''Price'''
+{{!}}{{{price}}}
+{{!}}-
+}}
+{{#if:{{{value&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#{{Underground Items color light}}; color:#000;" {{!}}'''Value'''
+{{!}}{{{value}}}
+{{!}}-
+}}
+{{#if:{{{location&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#{{Underground Items color light}}; color:#000;" {{!}}'''Location'''
+{{!}}{{{location}}}
+{{!}}-
+}}
+{{#if:{{{helditem&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#{{Underground Items color light}}; color:#000;" {{!}}'''Dropped by'''
+{{!}}{{{helditem}}}
+{{!}}-
+}}
+|}&lt;noinclude&gt;</text>
+    <contributor>
+      <username>FuzzyBot</username>
+      <id>133</id>
+    </contributor>
+    <comment>Importing a new version from external source</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>6131b2aea568bcdc875f955a8e3814941e5b03dc</sha1>
+  </revision>
+</page></mediawiki>

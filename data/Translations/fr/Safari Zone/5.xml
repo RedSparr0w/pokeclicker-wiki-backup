@@ -1,0 +1,36 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Translations:Safari Zone/5/fr</title>
+  <ns>0</ns>
+  <id>7728</id>
+  <revision>
+    <id>21841</id>
+    <timestamp>2022-08-05T14:25:26Z</timestamp>
+    <text space="preserve" bytes="1692">==Actions==
+{| class="wikitable"
+! Action !! Effet
+|-
+| Ball || Essaie d'attraper le Pokémon avec une Safari Ball. Selon les chances de capture, cette action peut échouer, après quoi le Pokémon peut fuir (sur la base de ses chances de fuite), vous regarder avec attention ou être furieux (c.à.d ne rien faire dans ces deux cas), ou encore continuer de manger l'appât. Si vous arrivez à court de Safari Ball, vous serez conduit à la sortie du Parc Safari, et sommé de payer les frais d'entrée à nouveau pour y retourner.
+|-
+| Caillou || Jette un caillou sur le Pokémon, lui retirant le statut "mange" et le rendant furieux entre 2 et 7 tours. Lorsqu'il est furieux, un Pokémon a deux fois plus de chances de se faire attraper, et de s'enfuir. 
+|-
+| Fuir || Fuit le combat et retourne dans le Parc Safari sans pénalité. 
+|-
+| colspan=2 | Les trois types d'appâts donnent aux Pokémon le statut "mange" et retirent le statut "furieux". Lorsqu'il mange, un Pokémon a deux fois moins de chance de se faire attraper, et a quatre fois moins de chance de fuir. Au début du combat, les Pokémon démarrent avec un taux de fuite de 30%.
+|-
+| Appât (générique) || Donne au Pokémon le statut "mange" entre 2 et 7 tours, sans plus d'effets.
+|-
+| Appât ( [[Berry|Baie]] [[Razz|Framby]]) || Donne au Pokémon le statut "mange" entre 2 et 8 tours. Divise ses chances de fuir par 1,5 pour le reste du combat, à moins qu'un autre type d'appât ne soit utilisé.
+|-
+| Appât ([[Berry|Baie]] [[Nanab]] ) || Donne au Pokémon le statut "mange" entre 2 et 8 tours. Multiplie les chances de l'attraper par 1,5 pour le reste du combat, à moins qu'un autre type d'appât ne soit utilisé.
+|}</text>
+    <contributor>
+      <username>LuK</username>
+      <id>96</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>21840</parentid>
+    <sha1>5806bed6cf9d9dae5732b3492e20131ca314a9f1</sha1>
+  </revision>
+</page></mediawiki>

@@ -1,0 +1,55 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Template:Infobox Key Item</title>
+  <ns>10</ns>
+  <id>1242</id>
+  <revision>
+    <id>9703</id>
+    <timestamp>2022-07-29T18:05:32Z</timestamp>
+    <text space="preserve" bytes="1113">&lt;translate&gt;
+&lt;!--T:1--&gt;
+{|class="infobox bordered" style="float:right; width:264px; font-size:90%; text-align:left; border:2px solid #000; padding:3px;" cellpadding="3"
+|- 
+!colspan="2" style="font-size:110%; text-align:center; background-color:#3f9ad8; color:#000;" | {{{name}}}
+|-
+{{#if:{{{image&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} colspan="2" style="text-align:center;" {{!}}{{{image}}}{{#if:{{{symbol|}}}|&lt;br /&gt;{{{symbol}}}}}{{#if:{{{caption|}}}|&lt;br /&gt;{{{caption}}}}}
+{{!}}-
+}}
+{{#if:{{{descript&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#3f9ad8; color:#000;" {{!}}'''Description'''
+{{!}}{{{descript}}}
+{{!}}-
+}}
+{{#if:{{{use&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#3f9ad8; color:#000;" {{!}}'''Use'''
+{{!}}{{{use}}}
+{{!}}-
+}}
+{{#if:{{{obtain&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#3f9ad8; color:#000;" {{!}}'''How to obtain'''
+{{!}}{{{obtain}}}
+{{!}}-
+}}
+|}&lt;noinclude&gt;
+
+== Code == &lt;!--T:2--&gt;
+&lt;pre&gt;{{Infobox character general
+|name       = 
+|image      = 
+|caption    = 
+|descript   = 
+|use        = 
+|obtain     = 
+}}&lt;/pre&gt;
+&lt;/translate&gt;</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment>Marked this version for translation</comment>
+    <model>wikitext</model>
+    <parentid>9702</parentid>
+    <sha1>cbe6d10401110cf92bac506111d18819cebee087</sha1>
+  </revision>
+</page></mediawiki>

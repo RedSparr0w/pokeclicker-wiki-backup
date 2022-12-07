@@ -1,0 +1,61 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Translations:Template:Infobox Berry/1/en</title>
+  <ns>0</ns>
+  <id>7196</id>
+  <revision>
+    <id>20685</id>
+    <timestamp>2022-07-29T18:05:29Z</timestamp>
+    <text space="preserve" bytes="1699">{|class="infobox bordered" style="float:right; width:264px; font-size:90%; text-align:left; border:2px solid #404040; padding:3px;" cellpadding="3"
+|- 
+!colspan="2" style="font-size:110%; text-align:center; background-color:#{{Berries color dark}}; color:#FFF;"|{{{name}}}
+|-
+{{#if:{{{image&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} colspan="2" style="text-align:center;background-color:#FFF;" {{!}}{{{image}}}&lt;br /&gt;{{#if:{{{caption|}}}|&lt;br /&gt;{{{caption}}}}}
+{{!}}-
+}}
+{{#if:{{{growtime&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#{{Berries color light}}; color:#000;" {{!}}'''Total Growth Time'''
+{{!}}{{{growtime}}}
+{{!}}-
+}}
+{{#if:{{{harvest&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#{{Berries color light}}; color:#000;" {{!}}'''Harvest Amount'''
+{{!}}{{{harvest}}}
+{{!}}-
+}}
+{{#if:{{{replant&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#{{Berries color light}}; color:#000;" {{!}}'''Replant Rate'''
+{{!}}{{{replant}}}
+{{!}}-
+}}
+{{#if:{{{mutation&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#{{Berries color light}}; color:#000;" {{!}}'''Mutation Rate'''
+{{!}}{{{mutation}}}
+{{!}}-
+}}
+{{#if:{{{points&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#{{Berries color light}}; color:#000;" {{!}}'''Farm Points Gained'''
+{{!}}{{{points}}} {{farmpoints}}
+{{!}}-
+}}
+{{#if:{{{flavor&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#{{Berries color light}}; color:#000;" {{!}}'''Berry Flavors'''
+{{!}}{{{flavor}}}
+{{!}}-
+}}
+{{#if:{{{helditem&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#{{Berries color light}}; color:#000;" {{!}}'''Dropped by'''
+{{!}}{{{helditem}}}
+{{!}}-
+}}</text>
+    <contributor>
+      <username>FuzzyBot</username>
+      <id>133</id>
+    </contributor>
+    <comment>Importing a new version from external source</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>f5370bbd7d234e9e059ac60c927b46994a859682</sha1>
+  </revision>
+</page></mediawiki>

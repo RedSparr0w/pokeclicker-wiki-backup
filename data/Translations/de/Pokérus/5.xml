@@ -1,0 +1,29 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Translations:Pokérus/5/de</title>
+  <ns>0</ns>
+  <id>4631</id>
+  <revision>
+    <id>16155</id>
+    <timestamp>2022-07-22T20:12:03Z</timestamp>
+    <text space="preserve" bytes="519">====EVs erlangen====
+Die Methode wie, bzw. wo ein Pokémon gefangen wird, beeinflusst die Menge an EV, die gewonnen werden.  Wenn die [[Challenge Mode|Slow EVs Challenge]] aktiviert ist, werden immer 10x weniger EV gewonnen.  &lt;br&gt;''Hinweis: Wird ein Shiny Pokémon gefangen, werden immer 5x so viele gewonnen, als in der Tabelle angegeben.''
+{| class="wikitable"
+! EVs gained || Slow EV Challenge || Fangmethode
+|-
+| 0.1 || 0.01 || Route Pokémon
+|-
+| 0.2 || 0.02 || Dungeon Pokémon
+|-
+| 1 || 0.1 || Evolutions Item
+|}</text>
+    <contributor>
+      <username>NiCeDiCe</username>
+      <id>74</id>
+    </contributor>
+    <comment>Created page with "====EVs erlangen==== Die Methode wie, bzw. wo ein Pokémon gefangen wird, beeinflusst die Menge an EV, die gewonnen werden.  Wenn die [[Challenge Mode|Slow EVs Challenge]] aktiviert ist, werden immer 10x weniger EV gewonnen.  &lt;br&gt;''Hinweis: Wird ein Shiny Pokémon gefangen, werden immer 5x so viele gewonnen, als in der Tabelle angegeben.'' {| class="wikitable" ! EVs gained || Slow EV Challenge || Fangmethode |- | 0.1 || 0.01 || Route Pokémon |- | 0.2 || 0.02 || Dungeon..."</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>7799983b0898333531836371d29c9a15a53401a0</sha1>
+  </revision>
+</page></mediawiki>

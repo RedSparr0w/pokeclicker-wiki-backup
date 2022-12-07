@@ -1,0 +1,125 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Pomeg/en</title>
+  <ns>0</ns>
+  <id>5887</id>
+  <revision>
+    <id>18704</id>
+    <timestamp>2022-07-29T07:59:13Z</timestamp>
+    <text space="preserve" bytes="3858">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #21 Pomeg
+|image   = [[File:Pomeg.png]]
+|caption = When this sweetly spicy Berry's thick skin is peeled, many pieces of the fruit spill out.
+|growtime  = 1h 30m 0s
+|harvest = 20 berries
+|replant = 20%
+|mutation = 0.05%
+|points = 500
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*10 spicy 
+*0 dry
+*10 sweet
+*10 bitter
+*0 sour
+}}
+
+'''Pomeg''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by surrounding an empty plot with at least 1 [[Iapapa]] and at least 1 [[Mago]].
+
+== Growth Tables ==
+=== Growth Stages ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+!!! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 3 mins 20 secs || 20 mins || 1 hour 6 mins 40 secs || 1 hour 30 mins - 3 hours
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:PomegTreeTaller.png|50px]] || &lt;center&gt;[[File:PomegTreeBloom.png|50px]] || &lt;center&gt; [[File:PomegTreeBerry.png|50px]]
+|}
+
+=== Ripening Time with Modifiers  ===
+{| class="wikitable" | style="text-align: center;"
+! Modifier !! Ripe-Wither Time !! Boost Mulch Needed to Ripen
+|-
+! None
+| 1 hour 30 mins -&lt;br&gt; 3 hours || ---
+|-
+! Mulch or Sprayduck
+| 1 hour -&lt;br&gt; 2 hours || 9 mulch
+|-
+! Mulch &amp; Sprayduck
+| 40 mins -&lt;br&gt; 1 hour 20 mins || 6 mulch
+|}
+
+== Flow Chart ==
+[[File:Pomeg_Flow_Chart.png|250px]]
+&lt;br&gt;
+
+== Mutation Strategy ==
+=== Possible Planting Formations ===
+
+You can fill your farm in the following way to obtain Pomeg berries. Purple squares indicate where mutations can occur.
+
+{| class="wikitable" style="text-align: center;"
+|+ Base Formation
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Iapapa.png|30px]] [[Iapapa]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Mago.png|30px]] [[Mago]]
+|}
+
+{| class="wikitable" style="text-align: center;"
+|+ Optimized Planting Formation
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Iapapa.png|30px]] [[Iapapa]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Iapapa.png|30px]] [[Iapapa]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Mago.png|30px]] [[Mago]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Mago.png|30px]] [[Mago]] 
+|- style="height: 50px;"
+| style="height: 50px; background-color:#9C7D98;" | || style="height: 50px; background-color:#9C7D98;" | || style="height: 50px; background-color:#9C7D98;" | || style="height: 50px; background-color:#9C7D98;" | || style="height: 50px; background-color:#9C7D98;" | 
+|-
+| [[File:Iapapa.png|30px]] [[Iapapa]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Iapapa.png|30px]] [[Iapapa]] || style="background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Mago.png|30px]] [[Mago]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Mago.png|30px]] [[Mago]] 
+|}
+
+=== Timing Table ===
+{| class="wikitable"| style="text-align: center;"
+|+ ''All planting times use the time-to-ripe remaining of the first planted berry for subsequent planting times''
+! Berry !! Planting Time with &lt;br&gt; No Modifier !! Planting Time with &lt;br&gt; Mulch or Sprayduck || Planting Time with &lt;br&gt;  Mulch &amp; Sprayduck
+|-
+| [[Iapapa]] || - || - || -
+|-
+| [[Mago]] || 6 mins 10 secs until ripe || 4 mins 7 secs until ripe || Not Practical
+|-
+|}
+
+==Uses==
+===Mutations===
+
+Pomeg berries can be used to mutate the following berries.
+
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Tamato.png|20px]] [[Tamato]] || [[File:Razz.png|20px]] [[Razz]]
+|-
+|}
+
+
+&lt;br&gt;
+
+{{Berries}}
+
+[[Category:Farm]][[Category:Berries]]</text>
+    <contributor>
+      <username>FuzzyBot</username>
+      <id>133</id>
+    </contributor>
+    <comment>Updating to match new version of source page</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>5aae8233e82db2a3c57ce0eefab7f19636a69c86</sha1>
+  </revision>
+</page></mediawiki>

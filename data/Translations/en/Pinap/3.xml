@@ -1,0 +1,29 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Translations:Pinap/3/en</title>
+  <ns>0</ns>
+  <id>5715</id>
+  <revision>
+    <id>18532</id>
+    <timestamp>2022-07-29T07:57:20Z</timestamp>
+    <text space="preserve" bytes="416">== Growth Tables ==
+=== Growth Stages ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+!!! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 30 secs || 1 min || 3 mins || 4 mins - 8 mins
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:PinapTreeTaller.png|50px]] || &lt;center&gt;[[File:PinapTreeBloom.png|50px]] || &lt;center&gt; [[File:PinapTreeBerry.png|50px]]
+|}</text>
+    <contributor>
+      <username>FuzzyBot</username>
+      <id>133</id>
+    </contributor>
+    <comment>Importing a new version from external source</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>938a93e800531680c054402511ad55098eccb1b0</sha1>
+  </revision>
+</page></mediawiki>

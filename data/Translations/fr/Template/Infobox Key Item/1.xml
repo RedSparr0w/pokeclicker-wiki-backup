@@ -1,0 +1,42 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Translations:Template:Infobox Key Item/1/fr</title>
+  <ns>0</ns>
+  <id>7753</id>
+  <revision>
+    <id>21908</id>
+    <timestamp>2022-08-05T21:23:34Z</timestamp>
+    <text space="preserve" bytes="928">{|class="infobox bordered" style="float:right; width:264px; font-size:90%; text-align:left; border:2px solid #000; padding:3px;" cellpadding="3"
+|- 
+!colspan="2" style="font-size:110%; text-align:center; background-color:#3f9ad8; color:#000;" | {{{name}}}
+|-
+{{#if:{{{image&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} colspan="2" style="text-align:center;" {{!}}{{{image}}}{{#if:{{{symbol|}}}|&lt;br /&gt;{{{symbol}}}}}{{#if:{{{caption|}}}|&lt;br /&gt;{{{caption}}}}}
+{{!}}-
+}}
+{{#if:{{{descript&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#3f9ad8; color:#000;" {{!}}'''Description'''
+{{!}}{{{descript}}}
+{{!}}-
+}}
+{{#if:{{{use&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#3f9ad8; color:#000;" {{!}}'''Usage'''
+{{!}}{{{use}}}
+{{!}}-
+}}
+{{#if:{{{obtain&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
+{{!}} style="background-color:#3f9ad8; color:#000;" {{!}}'''Comment l'obtenir'''
+{{!}}{{{obtain}}}
+{{!}}-
+}}
+|}&lt;noinclude&gt;</text>
+    <contributor>
+      <username>PetroleVB</username>
+      <id>36</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>21907</parentid>
+    <sha1>59fc8fc5bf275379e24763926764386b8d07a41c</sha1>
+  </revision>
+</page></mediawiki>

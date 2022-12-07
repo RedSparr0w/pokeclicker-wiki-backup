@@ -1,0 +1,35 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Translations:Lum/3/en</title>
+  <ns>1198</ns>
+  <id>10693</id>
+  <revision>
+    <id>30751</id>
+    <timestamp>2022-12-05T14:25:16Z</timestamp>
+    <text space="preserve" bytes="643">== Growth Tables ==
+=== Growth Stages ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+|-
+! !! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 50 mins || 53 mins 20 secs || 56 mins 40 secs || 1 hour - 12 hours
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:LumTreeTaller.png|50px]] || &lt;center&gt; [[File:LumTreeBloom.png|50px]] || &lt;center&gt; [[File:LumTreeBerry.png|50px]]
+|-
+! rowspan=2|Aura (boost nearby auras)
+| rowspan=2|&lt;center&gt; N/A || &lt;center&gt; x1.01 || &lt;center&gt; x1.02 || &lt;center&gt;x1.03
+|-
+| colspan=3|'''Note: A Berry can only be affected by a single Lum boost at a time'''
+|}</text>
+    <contributor>
+      <username>FuzzyBot</username>
+      <id>133</id>
+    </contributor>
+    <comment>Importing a new version from external source</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>81a53a3e4055a56abe3241a7789309a4fd0f5758</sha1>
+  </revision>
+</page></mediawiki>

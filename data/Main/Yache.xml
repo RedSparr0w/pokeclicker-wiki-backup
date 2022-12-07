@@ -1,0 +1,129 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Yache</title>
+  <ns>0</ns>
+  <id>762</id>
+  <revision>
+    <id>30250</id>
+    <timestamp>2022-12-05T14:16:51Z</timestamp>
+    <text space="preserve" bytes="3953">&lt;languages/&gt;
+&lt;translate&gt;
+&lt;!--T:1--&gt;
+{{Infobox Berry
+|name    = #41 Yache
+|image   = [[File:Yache.png]]
+|caption = This Berry has a refreshing flavor that strikes a good balance of dryness and sourness. It tastes better chilled. This Berry slows the growth of nearby Berries.
+|growtime  = 12h 0m 0s
+|harvest = 25 berries
+|replant = 5%
+|mutation = 0.01%
+|points = 1,500
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 spicy 
+*10 dry
+*0 sweet
+*0 bitter
+*15 sour
+}}
+
+&lt;!--T:2--&gt;
+'''Yache''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by surrounding a [[Passho]] with all empty plots. The Passho will then have a chance to mutate into this berry.
+
+&lt;!--T:3--&gt;
+== Growth Tables ==
+=== Growth Stages ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 1 hour || 4 hours || 8 hours || 12 hours - 1 day
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:YacheTreeTaller.png|50px]] || &lt;center&gt; [[File:YacheTreeBloom.png|50px]] || &lt;center&gt; [[File:YacheTreeBerry.png|50px]]
+|-
+! Aura (growth speed)
+| || &lt;center&gt; x0.9 || &lt;center&gt; x0.8 || &lt;center&gt; x0.7
+|}
+
+&lt;!--T:4--&gt;
+=== Ripening Time with Modifiers  ===
+{| class="wikitable" | style="text-align: center;"
+! Modifier !! Ripe-Wither Time !! Boost Mulch Needed to Ripen
+|-
+! None
+| 12 hours -&lt;br&gt; 1 day || ---
+|-
+! Mulch or Sprayduck
+| 8 hours -&lt;br&gt; 16 hours || 96 mulch
+|-
+! Mulch &amp; Sprayduck
+| 5 hours 20 mins -&lt;br&gt; 10 hours 40 mins || 64 mulch
+|}
+
+&lt;!--T:5--&gt;
+== Flow Chart ==
+[[File:Yache_Flow_Chart.png|350px]]
+&lt;br&gt;
+
+&lt;!--T:6--&gt;
+== Mutation Strategy ==
+=== Possible Planting Formations ===
+
+&lt;!--T:7--&gt;
+You can fill your farm in the following way to obtain Yache berries. Purple squares indicate where mutations can occur.
+
+&lt;!--T:8--&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Farm
+|- style="height: 50px;"
+| style="width: 40px; background-color:#9C7D98;" | [[File:Passho.png|30px]] '''[[Passho]]''' || style="width: 50px;" | || style="width: 40px; background-color:#9C7D98;" | [[File:Passho.png|30px]] '''[[Passho]]''' || style="width: 50px;" | || style="width: 40px; background-color:#9C7D98;" | [[File:Passho.png|30px]] '''[[Passho]]'''
+|- style="height: 50px;"
+| || || || ||
+|-
+| style="background-color:#9C7D98;" | [[File:Passho.png|30px]] '''[[Passho]]''' || || style="background-color:#9C7D98;" | [[File:Passho.png|30px]] '''[[Passho]]''' || || style="background-color:#9C7D98;" | [[File:Passho.png|30px]] '''[[Passho]]'''
+|- style="height: 50px;"
+| || || ||  ||
+|-
+| style="background-color:#9C7D98;" | [[File:Passho.png|30px]] '''[[Passho]]''' || || style="background-color:#9C7D98;" | [[File:Passho.png|30px]] '''[[Passho]]''' || || style="background-color:#9C7D98;" | [[File:Passho.png|30px]] '''[[Passho]]'''
+|}
+
+&lt;!--T:9--&gt;
+==Uses==
+===Mutations===
+
+&lt;!--T:10--&gt;
+Yache berries can be used to mutate the following berries.
+
+&lt;!--T:11--&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Petaya.png|20px]] [[Petaya]] || [[File:Occa.png|20px]] [[Occa]] [[File:Passho.png|20px]] [[Passho]] &lt;br&gt; [[File:Wacan.png|20px]] [[Wacan]] [[File:Rindo.png|20px]] [[Rindo]] &lt;br&gt; [[File:Chople.png|20px]] [[Chople]] [[File:Kebia.png|20px]] [[Kebia]] &lt;br&gt; [[File:Shuca.png|20px]] [[Shuca]] [[File:Coba.png|20px]] [[Coba]] &lt;br&gt; [[File:Payapa.png|20px]] [[Payapa]] [[File:Tanga.png|20px]] [[Tanga]] &lt;br&gt; [[File:Charti.png|20px]] [[Charti]] [[File:Kasib.png|20px]] [[Kasib]] &lt;br&gt; [[File:Haban.png|20px]] [[Haban]] [[File:Colbur.png|20px]] [[Colbur]] &lt;br&gt; [[File:Babiri.png|20px]] [[Babiri]] [[File:Chilan.png|20px]] [[Chilan]] &lt;br&gt; [[File:Roseli.png|20px]] [[Roseli]]
+|-
+|}
+
+&lt;!--T:12--&gt;
+==Using Yache==
+Farm setups using Yache can be found here:
+* [[Pokémon_Day_Care|Maximizing Egg step gain for Breeding Pokemon faster]] 
+
+&lt;!--T:13--&gt;
+&lt;br&gt;
+
+&lt;!--T:14--&gt;
+{{Berries}}
+
+&lt;!--T:15--&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/translate&gt;</text>
+    <contributor>
+      <username>DraKay</username>
+      <id>18</id>
+    </contributor>
+    <comment>Marked this version for translation</comment>
+    <model>wikitext</model>
+    <parentid>25157</parentid>
+    <sha1>28fe7c33311a6ae0b2b09c895f5ff0fd51811e1a</sha1>
+  </revision>
+</page></mediawiki>

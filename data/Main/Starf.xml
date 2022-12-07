@@ -1,0 +1,149 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Starf</title>
+  <ns>0</ns>
+  <id>794</id>
+  <revision>
+    <id>30275</id>
+    <timestamp>2022-12-05T14:19:12Z</timestamp>
+    <text space="preserve" bytes="6675">&lt;languages/&gt;
+&lt;translate&gt;
+&lt;!--T:1--&gt;
+{{Infobox Berry
+|name    = #67 Starf
+|image   = [[File:Starf.png]]
+|caption = This Berry is considered a mirage. It was said to be so strong that it had to be abandoned at the world's edge.
+|growtime  = 1d
+|harvest = 0.5 berries
+|replant = 0%
+|mutation = 100% (When requisites are met)
+|points = 15,000
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*30 spicy 
+*10 dry
+*30 sweet
+*10 bitter
+*30 sour
+}}
+
+&lt;!--T:2--&gt;
+'''Starf''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by encountering a [[Shiny Chance|shiny]] [[Wandering_Pokemon|Wandering Pokémon]] while at least 1 plot on the Farm is empty. To start encountering Wandering Pokémon you need at least 1 ripe berry on your farm.
+
+&lt;!--T:3--&gt;
+== Growth Tables ==
+=== Growth Stages ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+|+ Growth Stages
+! !! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 3 hours || 6 hours || 12 hours || 1 day - 5 days
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:StarfTreeTaller.png|50px]] || &lt;center&gt; [[File:StarfTreeBloom.png|50px]] || &lt;center&gt; [[File:StarfTreeBerry.png|50px]]
+|-
+! Aura (shiny chance)
+| || &lt;center&gt; x1.005 || &lt;center&gt; x1.01 || &lt;center&gt; x1.015
+|}
+
+&lt;!--T:4--&gt;
+=== Ripening Time with Modifiers  ===
+{| class="wikitable" | style="text-align: center;"
+! Modifier !! Ripe-Wither Time !! Boost Mulch Needed to Ripen
+|-
+! None
+| 1 day -&lt;br&gt; 5 days || &lt;center&gt; ---
+|-
+! Mulch or Sprayduck
+| 16 hours -&lt;br&gt; 80 hours || &lt;center&gt; 192 mulch
+|-
+! Mulch &amp; Sprayduck
+| 10 hours 40 mins -&lt;br&gt; 53 hours 20 mins || &lt;center&gt; 128 mulch
+|}
+
+&lt;!--T:5--&gt;
+== Flow Chart ==
+[[File:Starf_Flow_Chart.png|350px]]
+&lt;br&gt;
+
+&lt;!--T:6--&gt;
+== Mutation Strategy ==
+=== Possible Planting Formations ===
+==== Roseli Setup ====
+You can fill your farm in the following way to have the best chance to obtain Starf berries without any additional berries. Note that the setup omits a 24th [[Roseli]], as that would allow [[Custap]] berries to mutate, and omits a 23rd Roseli as that would allow [[Lansat]] Berries to mutate if [[Spear Pillar|Dialga]] has been caught. Purple squares indicate where mutations can occur.
+
+&lt;!--T:7--&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Farm - '''''Wandering Boost 1.92x'''''
+|-
+| style="width: 50px;" | [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || style="width: 50px;" | [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || style="width: 50px;" | [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || style="width: 50px;" | [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || style="width: 50px;" | [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]]
+|- style="height: 26px;"
+| [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] 
+|- style="height: 26px;"
+| [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || style="background-color:#9C7D98;" |  || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] 
+|-
+| [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] 
+|-
+| [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]]
+|}
+
+&lt;!--T:8--&gt;
+==== Roseli + Lum Setup ====
+You can fill your farm in the following way to have the best chance to obtain Starf berries. Purple squares indicate where mutations can occur.
+
+&lt;!--T:9--&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Farm - '''''Wandering Boost 3.46x'''''
+|-
+| style="width: 50px;" | [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || style="width: 50px;" | [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || style="width: 50px;" | [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || style="width: 50px;" | [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || style="width: 50px;" | [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]]
+|- style="height: 26px;"
+| [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || [[File:Lum.png|30px]]&lt;br&gt;[[Lum]] || [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || [[File:Lum.png|30px]]&lt;br&gt;[[Lum]] || [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] 
+|- style="height: 26px;"
+| [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || style="background-color:#9C7D98;" | || [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] 
+|-
+| [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || [[File:Lum.png|30px]]&lt;br&gt;[[Lum]] || [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || [[File:Lum.png|30px]]&lt;br&gt;[[Lum]] || [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] 
+|-
+| [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]]
+|}
+
+&lt;!--T:10--&gt;
+===== Timing Table =====
+{| class="wikitable"| style="text-align: center;"
+|+ ''All planting times use the time-to-ripe remaining of the first planted berry for subsequent planting times''
+! Berry !! Planting Time with &lt;br&gt; No Modifier !! Planting Time with &lt;br&gt; Mulch or Sprayduck || Planting Time with &lt;br&gt;  Mulch &amp; Sprayduck
+|-
+| [[Roseli]] || - || - || -
+|-
+| [[Lum]] || 1 hour until ripe || 40 mins until ripe || 26 mins 40 secs until ripe
+|}
+
+=== Important Notes === &lt;!--T:11--&gt;
+
+&lt;!--T:12--&gt;
+If possible it is highly recommended to obtain at least 8 [[Passho]] berries, and if possible 4 [[Lum]] berries, prior to obtaining the Starf Berry mutation. Without any Passho berries surrounding the Starf plot, harvesting a Starf plant '''&lt;u&gt;even with a rich mulch applied&lt;/u&gt;''' will only ever yield 1 Starf Berry. Furthermore, harvesting a single ripe Starf berry with the maximum yield modifier (surrounded by ripe Passho berries [8 spots] that are all bordered by at least one Lum berry, and with a rich mulch applied to the plot the Starf is on) will still only yield 10 harvested Starf berries. It is necessary to use at least a combination of Passho berries and Ripe Mulch to increase the total amount of Starf berries one has with the exception of finding additional Starf berries or using the Enigma berry.
+
+&lt;!--T:13--&gt;
+==Using Starf==
+Farm setups using Starf can be found here:
+* [[Pokémon_Day_Care|Maximizing Egg step gain for Breeding Pokemon faster]] 
+* [[Shiny Chance|Maximizing Shiny Chance to turn all Pokemon Shiny]]
+
+&lt;!--T:14--&gt;
+&lt;br&gt;
+
+&lt;!--T:15--&gt;
+{{Berries}}
+
+&lt;!--T:16--&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/translate&gt;</text>
+    <contributor>
+      <username>DraKay</username>
+      <id>18</id>
+    </contributor>
+    <comment>Marked this version for translation</comment>
+    <model>wikitext</model>
+    <parentid>25182</parentid>
+    <sha1>30e5563f8bfa9b672dc7b4b982661f060559a270</sha1>
+  </revision>
+</page></mediawiki>

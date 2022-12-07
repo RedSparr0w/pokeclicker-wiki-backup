@@ -1,0 +1,105 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Viridian Forest</title>
+  <ns>0</ns>
+  <id>316</id>
+  <revision>
+    <id>4639</id>
+    <timestamp>2022-07-27T01:48:20Z</timestamp>
+    <text space="preserve" bytes="2727">{{Infobox dungeon
+|name    = Viridian Forest
+|image   = [[File:Viridian Forest.png|thumb]]
+|caption = A map of Viridian Forest.
+|tokens  = 50
+|location = North of Viridian City, on Route 2.
+}}
+'''Viridian Forest''' is a [[Dungeons|dungeon]] in [[Kanto]]. It has 25 tiles arranged in a 5x5 square, including 5 chest tiles, 13 non-boss encounter tiles, and 1 boss encounter tile. Wild Encounters have 50 HP.
+
+== Encounter Tables ==
+
+===Wild Encounters===
+
+{| class="wikitable"
+|-
+! Wild Pokémon !! colspan=2|Trainers
+|-
+! Encounter !! Trainer !! Pokémon Team
+|-
+| [[File:Caterpie.png|40px]] Caterpie || [[File:Bug_Catcher.png|40px]] Bug Catcher Rick || [[File:Caterpie.png|40px]] Caterpie, [[File:Weedle.png|40px]] Weedle
+|-
+| [[File:Metapod.png|40px]] Metapod || [[File:Bug_Catcher.png|40px]] Bug Catcher Doug || [[File:Weedle.png|40px]] Weedle, [[File:Kakuna.png|40px]] Kakuna, [[File:Weedle.png|40px]] Weedle
+|-
+| [[File:Weedle.png|40px]] Weedle || [[File:Bug_Catcher.png|40px]] Bug Catcher Anthony || [[File:Caterpie.png|40px]] Caterpie, [[File:Caterpie.png|40px]] Caterpie
+|-
+| [[File:Kakuna.png|40px]] Kakuna || [[File:Bug_Catcher.png|40px]] Bug Catcher Charlie || [[File:Metapod.png|40px]] Metapod, [[File:Caterpie.png|40px]] Caterpie, [[File:Metapod.png|40px]] Metapod
+|-
+|}
+
+===Boss Encounters===
+{| class="wikitable"
+|-
+! Wild Pokémon !! Base Health !! Boss Trainer !! Pokémon Team !! Base Health
+|-
+| [[File:Pikachu.png|40px]] Pikachu || &lt;center&gt; 510 ||[[File:Bug_Catcher.png|40px]] Bug Catcher Sammy || [[File:Weedle.png|40px]] Weedle || &lt;center&gt; 510
+|}
+
+==Items==
+
+===No Debuff===
+
+{| class="wikitable"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+|-
+| align="center" colspan=5| '''Common'''
+|-
+| {{Bag2|xAttack}} || 2 || 63.27% || 62.00% || 56.29%
+|-
+| {{Bag2|Pecha}} || N/A || 31.64% || 31.00% || 28.15%
+|-
+| align="center" colspan=5| '''Epic'''
+|-
+| {{Bag2|Pokéball}} || N/A || 5.08% || 6.72% || 14.07%
+|-
+| align="center" colspan=5| '''Mythic'''
+|-
+| {{Bag2|Small Restore}} || N/A || 0.01% || 0.28% || 1.49%
+|}
+
+===Debuff Drop Table===
+
+After Reaching Sinnoh, the drop chance for items in Kanto will be debuffed for any loot with weight &lt; 2.
+
+{| class="wikitable collapsible collapsed"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+|-
+| align="center" colspan=5| '''Common'''
+|-
+| {{Bag2|xAttack}} || 2 || 65.88% || 65.88% || 65.88%
+|-
+| {{Bag2|Pecha}} || N/A || 32.94% || 32.94% || 32.94%
+|-
+| align="center" colspan=5| '''Epic'''
+|-
+| {{Bag2|Pokéball}} || N/A || 1.19% || 1.19% || 1.19%
+|-
+| align="center" colspan=5| '''Mythic'''
+|-
+| {{Bag2|Small Restore}} || N/A || &lt;0.01% || &lt;0.01% || &lt;0.01%
+|}
+
+
+{{Kanto Dungeons}}
+
+[[Category:Dungeons|^Region #1 - Kanto^a]]</text>
+    <contributor>
+      <username>LatiosRider</username>
+      <id>35</id>
+    </contributor>
+    <comment>Use letters for category order</comment>
+    <model>wikitext</model>
+    <parentid>4638</parentid>
+    <sha1>322c8594a25f66e4d037a5f2ff47dbc60d206174</sha1>
+  </revision>
+</page></mediawiki>

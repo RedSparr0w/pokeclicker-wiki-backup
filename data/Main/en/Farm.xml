@@ -1,0 +1,136 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Farm/en</title>
+  <ns>0</ns>
+  <id>6759</id>
+  <revision>
+    <id>19576</id>
+    <timestamp>2022-07-29T08:06:50Z</timestamp>
+    <text space="preserve" bytes="11271">&lt;languages/&gt;
+[[File:Pokeclicker_Farm_Interface.png|400px|thumb|The Farm interface, with multiple berries planted.]]
+
+The '''Farm''' is a location in [[Kanto]] where [[Berries]] can be planted. Harvesting them yields [[Farming Points]] {{Farmpoints}} and more of the same type of Berry. Occasionally, mutations can occur when Berries are planted in certain configurations. The Farm is unlocked upon reaching Kanto '''Route 14''' and obtaining the [[Wailmer pail]].
+
+Two [[Quests#Normal_Quests|Quests]] that can appear involve the usage of the Farm.
+
+=Usage=
+
+''For a breakdown of harvest yields, flavors, and mutation configurations for the various types of Berries, consult the [[Berries|Berries page]].
+
+''For some helpful farming configurations (requires some advanced berries) for faster / more efficient farming, consult the [[Farming Setups|Farming Setups page]].
+
+Before completing Kanto, the Farm can be accessed by clicking on its location on the map between Routes 14 and Route 15. Upon reaching [[Johto]], it becomes available in the Shortcuts dropdown modal.
+
+The eight Gen 1 Berries are dropped by defeated Pokémon on routes. They can be planted by selecting the desired type in the left-hand column and clicking on plots in the field on the right. Alternatively, the "Plant All" button can be clicked to plant the selected Berry in every empty plot.
+
+Depending on the type of Berry planted, different lengths of time must pass before they can be harvested. Individual plots can be clicked to be harvested, or the "Harvest All" button may be pressed to harvest every plot ready for harvesting.
+
+When Berry plants become ripe, they will die after a set period of time if not harvested. When this happens, only 1/2 of the harvest is obtained. There is also a chance they will replant themselves, spawning a plant of the same berry in that plot. The Replant Rate can be augmented by using the [[Sprinklotad]] Oak Item.
+
+Berries can be obtained by planting obtained Berries in special configurations. The [[Berry Master|Kanto Berry Master]] in [[Towns &amp; Cities#Kanto|Cerulean City]] gives hints as to these configurations. The chance for mutations to occur can be augmented by the [[Squirtbottle]] Oak Item.
+
+[[Farm Items|Mulch]] and  [[Farm Items|Berry Shovel]] can be bought in [[Towns &amp; Cities#Johto|Goldenrod City]], [[Towns &amp; Cities#Hoenn|Mauville City]], [[Towns &amp; Cities#Sinnoh|Hearthome City]]. Mulches can be applied to Berry plants to speed up growth (Boost Mulch), increase harvest yield (Rich Mulch), increase mutation chance (Surprise Mulch), or all the above with a slightly reduced boost for all three (Amaze Mulch). [[Farm Items|Berry Shovels]] can be used to clear occupied plots.
+
+The farm can also produce helpful effects (external auras) such as increasing [[Pokémon Day Care|egg steps]] for faster breeding and better [[Shiny Chance|shiny chance]].
+
+=Mutating Berries=
+''Note: if you have not yet unlocked all the plots on the farm and need to mutate berries #9 [[Persim]] through #25 [[Grepa]], please use the [https://docs.google.com/document/d/1TE5cAKSlA7TAliA001_mIiO1odZ6e4yUEMre0GBW1to/edit?usp=sharing Walkthrough link] for an optimized planting formation to mutate those berries within the limited available farm plots.''
+
+Mutating Berries is a fairly simple process - plant berries in the correct setup and at the proper timings, wait for berries to be ripe, and then hope that RNG favors you.  Generally speaking, for a mutation to occur the berries required for a mutation to occur must all be ripe on the farm simultaneously.  Thus, on each individual berry page, you will find an Optimized Planting Formation to maximize your chances of a mutation occurring, as well as a Timing Chart, to help you plant berries at the correct times such that all berries will become ripe simultaneously.  
+
+There are a few exceptions to these general rules, the [[Kasib]] and [[Starf]] berries, that each play by their own respective rules as explained on their individual Berry pages.  
+
+Each berry has it's own individual mutation chance for whether or not it will mutate when the conditions are correct.  A Berries' Mutation chance can be increased by using the [[Squirtbottle]] and [[Farm Items|Surprise Mulch]] items.  When attempting to mutate a berry, there are a few things to be aware of.  We'll use mutating Persim as an example, not involving the Squirtbottle or Surprise Mulch.
+
+* Example: [[Persim]] has a mutation rate of 2%.  This means each second the required berries ([[Oran]] and [[Pecha]]) are ripe on the farm in the proper locations to cause a mutation to occur, you have a 2% chance of mutating a Persim.  That 2% mutation is calculated per plot.  Following the above linked Walkthrough's planting formation for Persim, where there are 5 possible plots for Persim to mutate on, that means that each second the game calculates whether the 2% chance occurred 5 separate times.  The Pecha berry will only remain ripe for 1 minute, thus if both Pecha berries become ripe at the same time as Oran, each plot will calculate to see if a mutation will occur 60 times, or in other words, you have 300 chances to see if you get lucky with the 2% mutation before the Pecha withers and must be replanted. 
+
+Mutations can happen in one of two ways - the most common method is for berries to mutate by growing near required berries, while a less common mutation is when berries mutate by evolving in the proper conditions.  See below for examples.
+
+===Growth Mutation===
+Berries that mutate by growing near required berries must have the required berries planted such that every required berry is touching at least the corner of a plot for mutation to be possible on that plot.  Mutations can never occur where there is already a berry growing.  Here is an example of mutating [[Occa]], white background squares are where mutation is impossible, purple squares are where mutation is possible, and where surprise mulch should be applied (if you want to improve your odds):
+{| class="wikitable" style="text-align: center;"
+|+ Mutating Occa, 9x9
+|- style="height: 60px;"
+| style="width: 40px;" | [[File:Tamato.png|30px]] [[Tamato]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Figy.png|30px]] [[Figy]]
+|-
+| [[File:Spelon.png|30px]] [[Spelon]] || style="background-color:#9C7D98;" | || [[File:Razz.png|30px]] [[Razz]] 
+|- style="height: 60px;"
+| || || 
+|}
+
+===Evolution Mutation===
+''Note: Depending on the Flavor profile required for the Berry to evolve, an evolution mutation may occur while the berries are still in the Taller or Bloom growth stages, rather than only when Ripe.''
+
+Berries that mutate by evolving will replace an existing ripe berry with the mutated berry.  Here is an example of mutating [[Spelon]], white background squares are where mutation is impossible, purple squares are where mutation is possible, and where surprise mulch should be applied (if you want to improve your odds):
+{| class="wikitable" style="text-align: center;"
+|+ Mutating Spelon, 9x9
+|-
+| style="width: 50px;" | [[File:Tamato.png|30px]]&lt;br&gt;[[Tamato]] || style="width: 50px;" | [[File:Tamato.png|30px]]&lt;br&gt;[[Tamato]] || style="width: 50px;" | [[File:Tamato.png|30px]]&lt;br&gt;[[Tamato]]
+|-
+| [[File:Tamato.png|30px]]&lt;br&gt;[[Tamato]] || style="background-color:#9C7D98;" | [[File:Tamato.png|30px]]&lt;br&gt;'''[[Tamato]]''' || [[File:Tamato.png|30px]]&lt;br&gt;[[Tamato]]
+|- style="height: 26px;"
+| [[File:Tamato.png|30px]]&lt;br&gt;[[Tamato]] || [[File:Tamato.png|30px]]&lt;br&gt;[[Tamato]] || [[File:Tamato.png|30px]]&lt;br&gt;[[Tamato]]
+|}
+
+=Upgrades=
+
+Extra plots can be unlocked by spending Farming Points and Berries to allow more Berries to grow simultaneously, up to a maximum of 25 total plots. The table below displays the cost to unlock each plot corresponding to the 5x5 grid of plots in the Farm.
+
+[https://docs.google.com/document/d/1TE5cAKSlA7TAliA001_mIiO1odZ6e4yUEMre0GBW1to/edit?usp=sharing Here is a Walkthrough] for unlocking all the Farm Slots in order.
+
+{| class="wikitable"
+|-
+| 220 [[Kelpsy]] [[File:Kelpsy.png|20px]]&lt;br \&gt;4840 {{Farmpoints}} || rowspan = 5 | || 170 [[Mago]] [[File:Mago.png|20px]] &lt;br \&gt;2890 {{Farmpoints}} || rowspan = 5 | || 90 [[Persim]] [[File:Persim.png|20px]]&lt;br \&gt;810 {{Farmpoints}} || rowspan = 5 | || 130 [[Wepear]] [[File:Wepear.png|20px]]&lt;br \&gt;1690 {{Farmpoints}} || rowspan = 5 | || 230 [[Qualot]] [[File:Qualot.png|20px]]&lt;br \&gt;5290 {{Farmpoints}}
+|-
+| 160 [[Wiki]] [[File:Wiki.png|20px]]&lt;br \&gt;2560 {{Farmpoints}} || 50 [[Aspear]] [[File:Aspear.png|20px]]&lt;br \&gt;250 {{Farmpoints}} || 10 [[Cheri]] [[File:Cheri.png|20px]]&lt;br \&gt;10 {{Farmpoints}} || 60 [[Leppa]] [[File:Leppa.png|20px]]&lt;br \&gt;360 {{Farmpoints}} || 180 [[Aguav]] [[File:Aguav.png|20px]]&lt;br \&gt;3240 {{Farmpoints}}
+|-
+| 120 [[Nanab]] [[File:Nanab.png|20px]]&lt;br \&gt;1440 {{Farmpoints}} || 40 [[Rawst]] [[File:Rawst.png|20px]]&lt;br \&gt;160 {{Farmpoints}} || Free Plot || 20 [[Chesto]] [[File:Chesto.png|20px]]&lt;br \&gt;40 {{Farmpoints}} || 100 [[Razz]] [[File:Razz.png|20px]]&lt;br \&gt;1000 {{Farmpoints}}
+|-
+| 210 [[Pomeg]] [[File:Pomeg.png|20px]]&lt;br \&gt;4410 {{Farmpoints}} || 80 [[Sitrus]] [[File:Sitrus.png|20px]]&lt;br \&gt;640 {{Farmpoints}} || 30 [[Pecha]] [[File:Pecha.png|20px]]&lt;br \&gt;90 {{Farmpoints}} || 70 [[Oran]] [[File:Oran.png|20px]]&lt;br \&gt;490 {{Farmpoints}} || 140 [[Pinap]] [[File:Pinap.png|20px]]&lt;br \&gt;1960 {{Farmpoints}}
+|-
+| 250 [[Grepa]] [[File:Grepa.png|20px]]&lt;br \&gt;6250 {{Farmpoints}} || 150 [[Figy]] [[File:Figy.png|20px]]&lt;br \&gt;2250 {{Farmpoints}} || 110 [[Bluk]] [[File:Bluk.png|20px]]&lt;br \&gt;1210 {{Farmpoints}} || 190 [[Iapapa]] [[File:Iapapa.png|20px]]&lt;br \&gt;3610 {{Farmpoints}} || 240 [[Hondew]] [[File:Hondew.png|20px]]&lt;br \&gt;5760 {{Farmpoints}}
+|}
+
+=Farm Hands=
+
+[[Farm Hand|Farm Hands]] are unlockable and purchasable "Items" that allow the player to automate their farm. As of Version 0.8.7 this is a BETA feature and is likely to change in the future. Below are the currently implemented Farm Hands in the game.
+
+{| class="wikitable" style="text-align: center;"
+|-
+! Name !! Cost || Purchase Location
+|-
+| Alex [[File:Alex.png|20px]] || 8 Unlocked Berries || rowspan=5|N/A
+|-
+| Logan [[File:Logan.png|20px]] || 16 Unlocked Berries
+|-
+| Joey [[File:Joey.png|20px]] || 24 Unlocked Berries
+|-
+| Charlie [[File:Charlie.png|20px]] || 32 Unlocked Berries
+|-
+| Jessie [[File:Jessie.png|20px]] || 56 Unlocked Berries
+|-
+| Bailey [[File:Bailey.png|20px]] || 50,000 [[Farming Points]] {{farmpoints}} || Johto [[Berry Master]]
+|-
+| Kerry [[File:Kerry.png|20px]] || 100,000 Farming Points {{farmpoints}} || Hoenn Berry Master
+|-
+| Riley [[File:Riley.png|20px]] || 200,000 Farming Points {{farmpoints}} || Sinnoh Berry Master 
+|-
+| Jamie [[File:Jamie.png|20px]] || 20,000 [[Battle Points]] {{Battlepoints}} || [[Battle Frontier]]
+|-
+|}
+
+=Wandering Pokémon=
+
+Farms with at least one ripe Berry can attract [[Wandering Pokémon]] that are automatically caught without the use of a Pokéball. Some Berries can attract rare Pokémon and can thus be used strategically to complete the Pokédex. Wandering Pokémon can also be [[Shiny Chance|shiny]], attracting a shiny Wandering Pokémon when the Farm has at least one empty plot is the condition for a [[Starf|Starf Berry]] to spawn on the Farm (in one of the empty plots).
+
+[[Category:Farm]]</text>
+    <contributor>
+      <username>FuzzyBot</username>
+      <id>133</id>
+    </contributor>
+    <comment>Updating to match new version of source page</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>6e6eff4c0210cb034858fa225f4efef56a25aac8</sha1>
+  </revision>
+</page></mediawiki>

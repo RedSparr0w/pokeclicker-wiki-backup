@@ -1,0 +1,21 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Template:Roundy</title>
+  <ns>10</ns>
+  <id>89</id>
+  <revision>
+    <id>893</id>
+    <timestamp>2020-09-07T12:02:17Z</timestamp>
+    <text space="preserve" bytes="532">border-radius: {{{1|10px}}}; -moz-border-radius: {{{1|10px}}}; -webkit-border-radius: {{{1|10px}}}; -khtml-border-radius: {{{1|10px}}}; -icab-border-radius: {{{1|10px}}}; -o-border-radius: {{{1|10px}}};&lt;noinclude&gt;
+
+'''If you update this template, make sure to update all eight subtemplates, {{template|roundytr}}, {{template|roundytl}}, {{template|roundybr}}, {{template|roundybl}}, {{template|roundytop}}, {{template|roundybottom}}, {{template|roundyright}}, and {{template|roundyleft}}.''' [[Category:Table templates]]&lt;/noinclude&gt;</text>
+    <contributor>
+      <username>ElvisDitto</username>
+      <id>19</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>892</parentid>
+    <sha1>d8a68a5ff3a68bc06aabcf1eb5db065830360e99</sha1>
+  </revision>
+</page></mediawiki>

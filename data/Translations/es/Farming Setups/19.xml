@@ -1,0 +1,19 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Translations:Farming Setups/19/es</title>
+  <ns>0</ns>
+  <id>5468</id>
+  <revision>
+    <id>18237</id>
+    <timestamp>2022-07-28T16:00:18Z</timestamp>
+    <text space="preserve" bytes="1325">Para una eficiencia máxima se debería cambiar la formación Wacan por una formación Passio (Passho) antes de que las bayas de 5ª generación hayan madurado. Hay que hacer unos pequeños cálculos para realizar este cambio correctamente debido a que el aura de crecimiento de la baya Gualot (Wacan) varía, afectando a las bayas de 5ª generación dependiendo del estado de crecimiento de la baya Gualot (Wacan). No obstante, si multiplicas el 'Tiempo hasta la madurez' de la baya de 5ª generación por el múltiplo de crecimiento recibido por las bayas Gualot (Wacan), obtienes el tiempo real para madurar sin bayas Gualot (Wacan) alrededor. Dado que a las Bayas Passio (Passho) les lleva un tiempo crecer, primero se debería calcular el tiempo hasta la madurez (Sin modificadores) y después cosechar todas las bayas Gualot (Wacan) cuando a la baya de 5ª generación le quede algo menos de tiempo para la madurez que lo que tarda la baya Passio (Passho) en llegar a la madurez (Incluyendo cualquier multiplicador de crecimiento, como la [[Sprayduck|Psydugadera]] o el [[Farm Items|Fertilizante Creciente]]). Asegúrate de aplicar [[Farm Items|Fertilizante Cargado]] antes de cosechar la baya de 5ª generación. Gracias a esta estrategia se puede obtener hasta 32 (28 acumulativas) bayas de 5ª generación por ciclo.</text>
+    <contributor>
+      <username>Cthulhu Follower</username>
+      <id>51</id>
+    </contributor>
+    <comment>Created page with "Para una eficiencia máxima se debería cambiar la formación Wacan por una formación Passio (Passho) antes de que las bayas de 5ª generación hayan madurado. Hay que hacer unos pequeños cálculos para realizar este cambio correctamente debido a que el aura de crecimiento de la baya Gualot (Wacan) varía, afectando a las bayas de 5ª generación dependiendo del estado de crecimiento de la baya Gualot (Wacan). No obstante, si multiplicas el 'Tiempo hasta la madurez' de..."</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>c1de0c769ae782b0007c5b808fd09a2421052d97</sha1>
+  </revision>
+</page></mediawiki>

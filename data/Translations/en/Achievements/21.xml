@@ -1,0 +1,33 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Translations:Achievements/21/en</title>
+  <ns>1198</ns>
+  <id>9313</id>
+  <revision>
+    <id>31610</id>
+    <timestamp>2022-12-05T20:11:31Z</timestamp>
+    <text space="preserve" bytes="709">===Clear Dungeon===
+{| class="wikitable"
+|-
+! rowspan=2|Name !! rowspan=2|Requirement !! colspan=9|Regional Bonus Percentage
+|-
+! Kanto !! Johto !! Hoenn !! Sinnoh !! Unova !! Kalos !! Alola !! Galar !! Sevii
+|-
+| Dungeon Explorer || 10 Clears || +0.24% || +0.23% || +0.19% || +0.19% || +0.20% || +0.25% || +0.18% || +0.13% || +0.19%
+|-
+| Dungeon Expert || 100 Clears || +0.36% || +0.35% || +0.29% || +0.28% || +0.30% || +0.37% || +0.27% || +0.20% || +0.28%
+|-
+| Dungeon Hermit || 250 Clears || +0.48% || +0.47% || +0.38% || +0.37% || +0.40% || +0.49% || +0.36% || +0.27% || +0.37%
+|-
+| Dungeon Dweller || 500 Clears || +0.73% || +0.70% || +0.57% || +0.56% || +0.61% || +0.74% || +0.54% || +0.40% || +0.56%
+|}</text>
+    <contributor>
+      <username>FuzzyBot</username>
+      <id>133</id>
+    </contributor>
+    <comment>Importing a new version from external source</comment>
+    <model>wikitext</model>
+    <parentid>25235</parentid>
+    <sha1>77b77bb51d3f82c4503e4b27d4048d96b9b7bb31</sha1>
+  </revision>
+</page></mediawiki>

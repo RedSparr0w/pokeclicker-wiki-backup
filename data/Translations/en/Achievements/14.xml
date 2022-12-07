@@ -1,0 +1,31 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Translations:Achievements/14/en</title>
+  <ns>1198</ns>
+  <id>9306</id>
+  <revision>
+    <id>31603</id>
+    <timestamp>2022-12-05T20:11:31Z</timestamp>
+    <text space="preserve" bytes="740">===Caught Unique Shiny Pokémon by Region===
+{| class="wikitable"
+! rowspan=2|Name !! rowspan=2|Requirement !! colspan=9|Regional Bonus Percentage
+|-
+! Kanto !! Johto !! Hoenn !! Sinnoh !! Unova !! Kalos !! Alola !! Galar !! Sevii
+|-
+| Region Shiny Trainer || Capture 10% unique shinies of the Regional Pokédex || +0.91% || +0.88% || +0.71% || +0.69% || +0.76% || +0.93% || +0.68% || +0.50% || +1.16%
+|-
+| Region Shiny Ace || Capture 50% unique shinies of the Regional Pokédex || +1.82% || +1.75% || +1.43% || +1.39% || +1.52% || +1.85% || +1.35% || +1.00% || -
+|-
+| Region Shiny Master || Capture 100% unique shinies of the Regional Pokédex || +2.73% || +2.63% || +2.14% || +2.08% || +2.27% || +2.78% || +2.03% || +1.50% || +2.09%
+|-
+|}</text>
+    <contributor>
+      <username>FuzzyBot</username>
+      <id>133</id>
+    </contributor>
+    <comment>Importing a new version from external source</comment>
+    <model>wikitext</model>
+    <parentid>25228</parentid>
+    <sha1>77ddadc2dbbefc617b762bd7c808c7fca93986de</sha1>
+  </revision>
+</page></mediawiki>

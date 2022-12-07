@@ -1,0 +1,31 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Translations:Kelpsy/4/en</title>
+  <ns>0</ns>
+  <id>5873</id>
+  <revision>
+    <id>18690</id>
+    <timestamp>2022-07-29T07:59:09Z</timestamp>
+    <text space="preserve" bytes="392">=== Ripening Time with Modifiers  ===
+{| class="wikitable collapsible" | style="text-align: center;"
+! Modifier !! Ripe-Wither Time !! Boost Mulch Needed to Ripen
+|-
+! None
+| 1 hour 40 mins -&lt;br&gt; 3 hours 20 mins || ---
+|-
+! Mulch or Sprayduck
+| 1 hour 6 mins 40 secs -&lt;br&gt; 2 hours 13 mins 20 secs || 14 mulch
+|-
+! Mulch &amp; Sprayduck
+| 44 mins 27 secs -&lt;br&gt; 1 hour 28 mins 54 secs || 9 mulch
+|}</text>
+    <contributor>
+      <username>FuzzyBot</username>
+      <id>133</id>
+    </contributor>
+    <comment>Importing a new version from external source</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>90a31eba7dc7558cfa31c632d09fb368e6ba332d</sha1>
+  </revision>
+</page></mediawiki>

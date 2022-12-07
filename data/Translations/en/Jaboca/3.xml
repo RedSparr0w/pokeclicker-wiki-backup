@@ -1,0 +1,32 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Translations:Jaboca/3/en</title>
+  <ns>1198</ns>
+  <id>10789</id>
+  <revision>
+    <id>30858</id>
+    <timestamp>2022-12-05T14:26:55Z</timestamp>
+    <text space="preserve" bytes="557">== Growth Tables ==
+=== Growth Stages ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 1 hour 12 mins || 2 hours 12 mins || 4 hours 36 mins || 9 hours 18 mins - 18 hours 36 mins
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt;[[File:JabocaTreeTaller.png|50px]] || &lt;center&gt;[[File:JabocaTreeBloom.png|50px]] || &lt;center&gt;[[File:JabocaTreeBerry.png|50px]]
+|-
+! Aura (Roaming Pokémon Chance)
+| || &lt;center&gt; x1.005 || &lt;center&gt; x1.01 || &lt;center&gt; x1.015
+|}</text>
+    <contributor>
+      <username>FuzzyBot</username>
+      <id>133</id>
+    </contributor>
+    <comment>Importing a new version from external source</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>fb44e17eebc35b476d304b339f21fb67fc7805fb</sha1>
+  </revision>
+</page></mediawiki>
