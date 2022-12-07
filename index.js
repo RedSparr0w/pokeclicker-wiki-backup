@@ -24,6 +24,8 @@
     let title = (xmlDocument.match(/<title>(.*)<\/title>/) || [,'undefined'])[1];
     const date = new Date((xmlDocument.match(/<timestamp>(.*)<\/timestamp>/) || [,'0'])[1]);
 
+    if (title != 'Aguav') return;
+
     // Move language to the start
     if (title.startsWith('Translations:')) title = title.replace(/:(.*)\/(.*)\/(.*)/, ':$3/$1/$2');
     if (/\/[a-z]{2}$/.test(title)) {
@@ -43,6 +45,8 @@
       || title.includes('talk:')
     ) return;
 
+    titles[title] = date.getTime(); 
+
     if (!title.includes(':')) {
       title = `Main:${title}`;
     }
@@ -50,7 +54,6 @@
     const isRedirectSamePage = new RegExp(`#REDIRECT \\[\\[${title}\\]\\]`, 'i')
     if (isRedirectSamePage.test(xmlDocument)) return;
 
-    titles[title] = date.getTime(); 
     // Remove our site info
     if (xmlDocument.includes('<siteinfo>')) xmlDocument = `${xmlDocument.substring(0, xmlDocument.indexOf('<siteinfo>') - 3)}${xmlDocument.substring(xmlDocument.indexOf('</siteinfo>') + 12)}`;
     // Replace any extra revisions

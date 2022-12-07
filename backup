@@ -12,6 +12,8 @@ dumpgenerator --xmlrevisions --xml --api=https://pokeclicker.miraheze.org/w/api.
 cd /pokeclicker-wiki-backup
 node index.js
 
+cp /pokeclicker-wiki-backup/data-dump/siteinfo.json /pokeclicker-wiki-backup/data/siteinfo.json
+
 # Push changes to GitHub
 git add .
 git commit -am "updated data"
