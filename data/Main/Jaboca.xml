@@ -1,0 +1,61 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Jaboca</title>
+  <ns>0</ns>
+  <id>729</id>
+  <revision>
+    <id>7737</id>
+    <timestamp>2020-11-22T18:11:03Z</timestamp>
+    <text space="preserve" bytes="1569">{{Infobox Berry
+|name    = #56 Jaboca
+|image   = [[File:Jaboca.png]]
+|caption = The cluster of drupelets that make up this Berry pop rhythmically if the Berry is handled roughly. The sound of these Berries attracts wild Pokémon.
+|growtime  = 9h 18m 0s
+|harvest = 1 berry
+|replant = 5%
+|points = 2,800
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 spicy 
+*0 dry
+*0 sweet
+*40 bitter
+*10 sour
+}}
+'''Jaboca''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by having at least one empty plot and at least 600 points of bitter on the field. The [[Durin]] must be unlocked to unlock this berry.
+
+{| class="wikitable"
+|+ Growth Stage Durations
+! Seed !! Sprout !! Taller !! Bloom !! Berry
+|-
+| 0-4320s || 4320-8640s || 8640-16560s || 16560-33480s || 33480-66960s
+|-
+| [[File:AllTreeSeed.png|50px]] || [[File:AllTreeSprout.png|50px]] || [[File:JabocaTreeTaller.png|50px]] || [[File:JabocaTreeBloom.png|50px]] || [[File:JabocaTreeBerry.png|50px]]
+|}
+
+=== Possible Planting Formations ===
+
+You can fill your [[farm]] in following way to obtain Jaboca berry.
+
+{| class="wikitable" style="text-align: center;"
+|+ Farm
+|-
+| style="width: 40px;" | || style="width: 40px;" | [[Durin]] || style="width: 40px;" | [[Durin]] || style="width: 40px;" | [[Durin]] || style="width: 40px;" | [[Durin]]
+|-
+| || [[Durin]] || [[Durin]] || [[Durin]] || [[Durin]]
+|- style="height: 26px;"
+| || [[Durin]] || [[Durin]] || [[Durin]] || [[Durin]]
+|-
+| || [[Durin]] || [[Durin]] || [[Durin]] || [[Durin]]
+|-
+| || [[Durin]] || [[Durin]] || [[Durin]] || [[Durin]]
+|}</text>
+    <contributor>
+      <username>Kirby2729</username>
+      <id>67</id>
+    </contributor>
+    <comment>Created page with "{{Infobox Berry |name    = #56 Jaboca |image   = [[File:Jaboca.png]] |caption = The cluster of drupelets that make up this Berry pop rhythmically if the Berry is handled rough..."</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>faf1d4aaf6814138a08437fd98c3517bb746ecbf</sha1>
+  </revision>
+</page></mediawiki>

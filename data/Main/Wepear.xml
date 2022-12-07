@@ -1,0 +1,56 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Wepear</title>
+  <ns>0</ns>
+  <id>533</id>
+  <revision>
+    <id>6638</id>
+    <timestamp>2020-11-21T21:27:28Z</timestamp>
+    <text space="preserve" bytes="1302">{{Infobox Berry
+|name    = Wepear
+|image   = [[File:Wepear.png]]
+|caption = The potent mix of bitter and sour in this Berry seems to promote digestion. The flower is white and beautiful.
+|growtime  = 6m 40s
+|harvest = 12 berries
+|replant = 40%
+|points = 30
+|flavor = {{!}} 0 {{!}} 0 {{!}} 0 {{!}} 10 {{!}} 10
+}}
+'''Wepear''' is a type of [[Berries|Berry]] that can be planted in [[Farm]]. It can be obtained by surrounding an empty plot with at least 1 [[Rawst]] and at least 1 [[Oran]].
+
+{| class="wikitable"
+|+ Harvest Stages durations
+! Seed !! Sprout !! Taller !! Bloom !! Berry
+|-
+| 0-150s || 150-350s || 350-375s || 375-400s || 400-800s
+|-
+| [[File:AllTreeSeed.png|50px]] || [[File:AllTreeSprout.png|50px]] || [[File:WepearTreeTaller.png|50px]] || [[File:WepearTreeBloom.png|50px]] || [[File:WepearTreeBerry.png|50px]]
+|}
+
+=== Possible Planting Formations ===
+
+You can fill your [[farm]] in following way to obtain Wepear berry.
+
+{| class="wikitable" style="text-align: center;"
+|+ Farm
+|-
+| style="width: 40px;" | [[Rawst]] || style="width: 40px;" | || style="width: 40px;" | || style="width: 40px;" | [[Rawst]] || style="width: 40px;" | 
+|-
+| || [[Oran]] ||  ||  || [[Oran]] 
+|- style="height: 26px;"
+| || || || || 
+|-
+| [[Rawst]] || || || [[Rawst]] || 
+|-
+| || [[Oran]] ||  ||  || [[Oran]] 
+|}</text>
+    <contributor>
+      <username>Kirby2729</username>
+      <id>67</id>
+    </contributor>
+    <comment>Created page with "{{Infobox Berry |name    = Wepear |image   = [[File:Wepear.png]] |caption = The potent mix of bitter and sour in this Berry seems to promote digestion. The flower is white and..."</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>1e2e01a84875c09711af4a7ef7483ae9a7834044</sha1>
+  </revision>
+</page></mediawiki>

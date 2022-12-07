@@ -1,0 +1,222 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Farming Setups</title>
+  <ns>0</ns>
+  <id>4141</id>
+  <revision>
+    <id>15042</id>
+    <timestamp>2022-05-10T18:05:19Z</timestamp>
+    <text space="preserve" bytes="23262">[[File:Pokeclicker_Farm_Interface.png|400px|thumb|The Farm interface, with multiple berries planted.]]
+
+There are a number of Farming Setups not related to [[Pokémon_Day_Care|Breeding Pokemon faster]] or [[Shiny Chance|Increasing Shiny Chance]] that are quite useful, particularly when either mutating berries or trying to harvest mutated berries faster, or, even without mutating berries, if you just want to harvest a lot of berries to trade to the [[Berry Master]].  Here are some useful berry setups to know.
+
+''Note: Aura Received is multiplicative from all the auras affecting a berry.  If a Berry receives the aura from 4 aura berries each at 1.3x aura output, that Berry receives 1.3^4 = 2.8561, or ~2.86x as an aura multiplier.  If a Berry receives auras from 3 berries, two at 1.3x and one at 1.2x, the berry receives 1.3^2 * 1.2x = 2.028, or ~2.03x aura output.''
+
+=Single Berry focused=
+''Blue squares show Boost Mulch being recommended, though if you are ready to harvest use Rich Mulch for maximum harvesting gain.''
+&lt;br&gt;
+Note: Once a berry has grown enough with Wacans, swap the Wacans for Passho to gain maximum Berry Harvests. 
+
+==8 Wacan==
+{| class="wikitable" style="text-align: center;"
+|+ '''''Aura Received: 8.14x Growth&lt;br&gt;(all aura berries ripe)'''''
+|- style="height: 50px;"
+| style="width: 20%;" | || style="width: 20%;" | || style="width: 20%;" | || style="width: 20%;" | || style="width: 20%;" |  
+|- style="height: 50px;"
+|| || [[File:Wacan.png|30px]]&lt;br&gt;[[Wacan]] || [[File:Wacan.png|30px]]&lt;br&gt;[[Wacan]] || [[File:Wacan.png|30px]]&lt;br&gt;[[Wacan]] || 
+|- style="height: 50px;"
+|  || [[File:Wacan.png|30px]]&lt;br&gt;[[Wacan]] || style="background-color:#587783;" | [[File:Petaya.png|30px]]&lt;br&gt;[[Petaya]] || [[File:Wacan.png|30px]]&lt;br&gt;[[Wacan]] || 
+|- style="height: 50px;"
+|| || [[File:Wacan.png|30px]]&lt;br&gt;[[Wacan]] || [[File:Wacan.png|30px]]&lt;br&gt;[[Wacan]] || [[File:Wacan.png|30px]]&lt;br&gt;[[Wacan]] || 
+|- style="height: 50px;"
+|| || || || || 
+|}
+Above is the base setup to give a massive aura boost to a central berry on the farm.  While Wacan is used here, it can be swapped out for Passho to gain more berries per harvest.  Don't forget to add the appropriate Mulch!  Note how much adding a few Lum berries improves the aura boost below though.
+==8 Wacan + 4 Lum==
+The ideal single berry situation.  Absolute maximum possible aura received.
+{| class="wikitable" style="text-align: center;"
+|+ '''''Aura Received: 9.79x Growth&lt;br&gt;(all aura berries ripe)'''''
+|- style="height: 50px;"
+| style="width: 20%;" | || style="width: 20%;" | || style="width: 20%;" | [[File:Lum.png|30px]]&lt;br&gt;[[Lum]] || style="width: 20%;" | || style="width: 20%;" |  
+|- style="height: 50px;"
+|| || [[File:Wacan.png|30px]]&lt;br&gt;[[Wacan]] || [[File:Wacan.png|30px]]&lt;br&gt;[[Wacan]] || [[File:Wacan.png|30px]]&lt;br&gt;[[Wacan]] || 
+|- style="height: 50px;"
+| [[File:Lum.png|30px]]&lt;br&gt;[[Lum]] || [[File:Wacan.png|30px]]&lt;br&gt;[[Wacan]] || style="background-color:#587783;" | [[File:Petaya.png|30px]]&lt;br&gt;[[Petaya]] || [[File:Wacan.png|30px]]&lt;br&gt;[[Wacan]] || [[File:Lum.png|30px]]&lt;br&gt;[[Lum]]
+|- style="height: 50px;"
+|| || [[File:Wacan.png|30px]]&lt;br&gt;[[Wacan]] || [[File:Wacan.png|30px]]&lt;br&gt;[[Wacan]] || [[File:Wacan.png|30px]]&lt;br&gt;[[Wacan]] || 
+|- style="height: 50px;"
+|| || || [[File:Lum.png|30px]]&lt;br&gt;[[Lum]] || || 
+|}
+==8 Wacan + 3 Lum==
+Even if the berry you're trying to affect with an aura isn't in the exact center, it is still significantly faster to add some Lum to the setups:
+{| class="wikitable" style="text-align: center;"
+|+ '''''Aura Received: 9.57x Growth&lt;br&gt;(all aura berries ripe)'''''
+|- style="height: 50px;"
+| style="width: 20%;" | || style="width: 20%;" | [[File:Lum.png|30px]]&lt;br&gt;[[Lum]] || style="width: 20%;" | || style="width: 20%;" | || style="width: 20%;" |  
+|- style="height: 50px;"
+|| [[File:Wacan.png|30px]]&lt;br&gt;[[Wacan]] || [[File:Wacan.png|30px]]&lt;br&gt;[[Wacan]] || [[File:Wacan.png|30px]]&lt;br&gt;[[Wacan]] || ||
+|- style="height: 50px;"
+| [[File:Wacan.png|30px]]&lt;br&gt;[[Wacan]] || style="background-color:#587783;" | [[File:Petaya.png|30px]]&lt;br&gt;[[Petaya]] || [[File:Wacan.png|30px]]&lt;br&gt;[[Wacan]] || [[File:Lum.png|30px]]&lt;br&gt;[[Lum]] ||
+|- style="height: 50px;"
+|| [[File:Wacan.png|30px]]&lt;br&gt;[[Wacan]] || [[File:Wacan.png|30px]]&lt;br&gt;[[Wacan]] || [[File:Wacan.png|30px]]&lt;br&gt;[[Wacan]] || || 
+|- style="height: 50px;"
+|| || [[File:Lum.png|30px]]&lt;br&gt;[[Lum]] || || || 
+|}
+==8 Wacan + 2 Lum==
+Even if the berry you're trying to affect with an aura isn't in the exact center, it is still significantly faster to add some Lum to the setups:
+{| class="wikitable" style="text-align: center;"
+|+ '''''Aura Received: 9.14x Growth&lt;br&gt;(all aura berries ripe)'''''
+|- style="height: 50px;"
+| style="height: 20%; width: 20%;" | || style="width: 20%;" | || style="width: 20%;" | || style="width: 20%;" | || style="width: 20%;" |  
+|- style="height: 50px;"
+|| || [[File:Lum.png|30px]]&lt;br&gt;[[Lum]] || ||
+|- style="height: 50px;"
+|| [[File:Wacan.png|30px]]&lt;br&gt;[[Wacan]] || [[File:Wacan.png|30px]]&lt;br&gt;[[Wacan]] || [[File:Wacan.png|30px]]&lt;br&gt;[[Wacan]] || ||
+|- style="height: 50px;"
+| [[File:Wacan.png|30px]]&lt;br&gt;[[Wacan]] || style="background-color:#587783;" | [[File:Petaya.png|30px]]&lt;br&gt;[[Petaya]] || [[File:Wacan.png|30px]]&lt;br&gt;[[Wacan]] || [[File:Lum.png|30px]]&lt;br&gt;[[Lum]] ||
+|- style="height: 50px;"
+|| [[File:Wacan.png|30px]]&lt;br&gt;[[Wacan]] || [[File:Wacan.png|30px]]&lt;br&gt;[[Wacan]] || [[File:Wacan.png|30px]]&lt;br&gt;[[Wacan]] || || 
+|-
+|}
+
+
+=Maximum Harvesting=
+These setups are the most efficient setups for harvesting the most number of berries.  
+&lt;br&gt;
+''Green Squares indicate which squares to apply Rich mulch to.''
+
+==15 Passho==
+This is the setup for harvesting the maximum amount of berries from any berries with a harvest amount of 1 or greater, and gives you 6 plots at 4.83x harvest rate, and 4 plots at 2.86x harvest rate.  Using this setup, repeatedly growing 10 Aguav berries while the Passho are all ripe will yield 684 Aguav Berries (1,372 with Rich Mulch) per harvesting cycle, in comparison to the 425 (850 with Rich mulch) you would yield per harvesting cycle growing an Aguav berry in all 25 Farm Plots.  Using farmhand Jessie with the Sprayduck equipped to repeatedly harvest Aguav berries every 4 minutes would yield 40,356 berries (80,948 with Rich Mulch) during the duration of Passho's ripe phase, which could then be traded to [[Berry Master|Berry Masters]] for a number of items.
+{| class="wikitable" style="text-align: center;"
+|+ '''''Harvesting Bonus:&lt;br&gt; 6 Plots at 4.83x, 4 Plots at 2.86x'''''
+|- style="height: 50px;"
+| style="width: 20%;" | [[File:Passho.png|30px]]&lt;br&gt;[[Passho]] || style="width: 20%;" | [[File:Passho.png|30px]]&lt;br&gt;[[Passho]] || style="width: 20%;" | [[File:Passho.png|30px]]&lt;br&gt;[[Passho]] || style="width: 20%;" | [[File:Passho.png|30px]]&lt;br&gt;[[Passho]] || style="width: 20%;" | [[File:Passho.png|30px]]&lt;br&gt;[[Passho]]
+|- style="height: 50px;"
+| style="background-color:#6c7a57;" | [[File:Aguav.png|30px]]&lt;br&gt;[[Aguav]] || style="background-color:#6c7a57;" | [[File:Aguav.png|30px]]&lt;br&gt;[[Aguav]] || style="background-color:#6c7a57;" | [[File:Aguav.png|30px]]&lt;br&gt;[[Aguav]] || style="background-color:#6c7a57;" | [[File:Aguav.png|30px]]&lt;br&gt;[[Aguav]] || style="background-color:#6c7a57;" | [[File:Aguav.png|30px]]&lt;br&gt;[[Aguav]]
+|- style="height: 50px;"
+| style="width: 20%;" | [[File:Passho.png|30px]]&lt;br&gt;[[Passho]] || style="width: 20%;" | [[File:Passho.png|30px]]&lt;br&gt;[[Passho]] || style="width: 20%;" | [[File:Passho.png|30px]]&lt;br&gt;[[Passho]] || style="width: 20%;" | [[File:Passho.png|30px]]&lt;br&gt;[[Passho]] || style="width: 20%;" | [[File:Passho.png|30px]]&lt;br&gt;[[Passho]]
+|- style="height: 50px;"
+| style="background-color:#6c7a57;" | [[File:Aguav.png|30px]]&lt;br&gt;[[Aguav]] || style="background-color:#6c7a57;" | [[File:Aguav.png|30px]]&lt;br&gt;[[Aguav]] || style="background-color:#6c7a57;" | [[File:Aguav.png|30px]]&lt;br&gt;[[Aguav]] || style="background-color:#6c7a57;" | [[File:Aguav.png|30px]]&lt;br&gt;[[Aguav]] || style="background-color:#6c7a57;" | [[File:Aguav.png|30px]]&lt;br&gt;[[Aguav]]
+|- style="height: 50px;"
+| style="width: 20%;" | [[File:Passho.png|30px]]&lt;br&gt;[[Passho]] || style="width: 20%;" | [[File:Passho.png|30px]]&lt;br&gt;[[Passho]] || style="width: 20%;" | [[File:Passho.png|30px]]&lt;br&gt;[[Passho]] || style="width: 20%;" | [[File:Passho.png|30px]]&lt;br&gt;[[Passho]] || style="width: 20%;" | [[File:Passho.png|30px]]&lt;br&gt;[[Passho]]
+|}
+
+==Petaya + Passho==
+This setup gives slightly less harvesting amount per harvesting cycle, in exchange for vastly greater Passho ripeness time.  Despite the Petaya taking a slot away from the Passho, this would still give 654 Aguav berries per harvesting cycle, 1,311 with Rich Mulch.  Due to Petaya keeping the Passho ripe for at least 64 hours though, you could have farmhand Jessie harvest 618,240 Aguav berries, harvesting in 4 minute cycles, over this time.  You could also simply replace a Passho in one of the corners with a 2nd Petaya temporarily when the first Petaya's wither time is getting close to the growth time of a Petaya minus the wither time of a Passho (10 hours with just sprayduck equipped, ~6 hours 40 minutes if you use boost mulch on the 2nd petaya as well as having the sprayduck equipped), then replacing the withered Petaya with a Passho, to keep this formation up indefinitely.
+{| class="wikitable" style="text-align: center;"
+|+ '''''Harvesting Bonus:&lt;br&gt; 5 Plots at 4.83x, 3 Plots at 2.86x,&lt;br&gt; 1 Plot at 3.71x, 1 Plot at 2.2x'''''
+|- style="height: 50px;"
+| style="width: 20%;" | [[File:Petaya.png|30px]]&lt;br&gt;[[Petaya]] || style="width: 20%;" | [[File:Passho.png|30px]]&lt;br&gt;[[Passho]] || style="width: 20%;" | [[File:Passho.png|30px]]&lt;br&gt;[[Passho]] || style="width: 20%;" | [[File:Passho.png|30px]]&lt;br&gt;[[Passho]] || style="width: 20%;" | [[File:Passho.png|30px]]&lt;br&gt;[[Passho]]
+|- style="height: 50px;"
+| style="background-color:#6c7a57;" | [[File:Aguav.png|30px]]&lt;br&gt;[[Aguav]] || style="background-color:#6c7a57;" | [[File:Aguav.png|30px]]&lt;br&gt;[[Aguav]] || style="background-color:#6c7a57;" | [[File:Aguav.png|30px]]&lt;br&gt;[[Aguav]] || style="background-color:#6c7a57;" | [[File:Aguav.png|30px]]&lt;br&gt;[[Aguav]] || style="background-color:#6c7a57;" | [[File:Aguav.png|30px]]&lt;br&gt;[[Aguav]]
+|- style="height: 50px;"
+| style="width: 20%;" | [[File:Passho.png|30px]]&lt;br&gt;[[Passho]] || style="width: 20%;" | [[File:Passho.png|30px]]&lt;br&gt;[[Passho]] || style="width: 20%;" | [[File:Passho.png|30px]]&lt;br&gt;[[Passho]] || style="width: 20%;" | [[File:Passho.png|30px]]&lt;br&gt;[[Passho]] || style="width: 20%;" | [[File:Passho.png|30px]]&lt;br&gt;[[Passho]]
+|- style="height: 50px;"
+| style="background-color:#6c7a57;" | [[File:Aguav.png|30px]]&lt;br&gt;[[Aguav]] || style="background-color:#6c7a57;" | [[File:Aguav.png|30px]]&lt;br&gt;[[Aguav]] || style="background-color:#6c7a57;" | [[File:Aguav.png|30px]]&lt;br&gt;[[Aguav]] || style="background-color:#6c7a57;" | [[File:Aguav.png|30px]]&lt;br&gt;[[Aguav]] || style="background-color:#6c7a57;" | [[File:Aguav.png|30px]]&lt;br&gt;[[Aguav]]
+|- style="height: 50px;"
+| style="width: 20%;" | [[File:Passho.png|30px]]&lt;br&gt;[[Passho]] || style="width: 20%;" | [[File:Passho.png|30px]]&lt;br&gt;[[Passho]] || style="width: 20%;" | [[File:Passho.png|30px]]&lt;br&gt;[[Passho]] || style="width: 20%;" | [[File:Passho.png|30px]]&lt;br&gt;[[Passho]] || style="width: 20%;" | [[File:Passho.png|30px]]&lt;br&gt;[[Passho]]
+|}
+
+==Wacan-Passho Handoff==
+This combination of setups is the most useful when trying to quickly grow and harvest multiple gen5 berries with a 0.5 Berry harvest amount, such as Starf or Petaya.  This two-part setup, going from the wacan formation to the following Passho formation, is the most efficient way to harvest more of these berries in the shortest amount of time.  Using Farmhands Jessie or Riley to either harvest and replant Wacans or just replant Wacans when they wither (faster but need to manually watch out for Kasib) is the best way to grow the very slow growing Gen 5 berries in a reasonable amount of time, and due to the very low harvest amount, completely surrounding each Berry with 8 Passho berries is the best way to maximize harvest amounts.
+
+For maximum time savings you should go from the Wacan formation to the Passho formation before the Starf berries are ripe.  It takes a little bit of math due to the Wacan Growth aura affecting the Starf berries, but if you multiply the shown 'Time until Ripe' by the 'Aura Received' you get how much longer the berry has until it would be ripe without the Wacan Berries' effect.  Since it takes a while for the Passho to grow, calculate the actual time until ripe and then harvest all the Wacans when Starf has less time until ripe than it will take the Passho to ripen with whatever growth multipliers ([[Sprayduck]], [[Farm_Items|Boost Mulch]], [[Grass Flute]]) you're using.  Make sure to apply [[Farm_Items|Rich Mulch]] before harvesting!  This is the fastest way to gain the maximum amount of additional Starf or Petaya or other Gen 5 Berry which only gives 0.5 Berry harvested - 32 berries harvested per cycle, 28 berries gained when you account for replanting for a new cycle.
+&lt;br&gt;
+{| class="wikitable" style="text-align: center;"
+|+ '''''Maximum Growth Bonus: 8.14x'''''
+|- style="height: 50px;"
+| style="width: 20%;" | [[File:Wacan.png|30px]]&lt;br&gt;[[Wacan]] || style="width: 20%;" | [[File:Wacan.png|30px]]&lt;br&gt;[[Wacan]] || style="width: 20%;" | [[File:Wacan.png|30px]]&lt;br&gt;[[Wacan]] || style="width: 20%;" | [[File:Wacan.png|30px]]&lt;br&gt;[[Wacan]] || style="width: 20%;" | [[File:Wacan.png|30px]]&lt;br&gt;[[Wacan]] 
+|- style="height: 50px;"
+|| [[File:Wacan.png|30px]]&lt;br&gt;[[Wacan]] || style="background-color:#587783;" | [[File:Starf.png|30px]]&lt;br&gt;[[Starf]] || [[File:Wacan.png|30px]]&lt;br&gt;[[Wacan]] || style="background-color:#587783;" | [[File:Starf.png|30px]]&lt;br&gt;[[Starf]] || [[File:Wacan.png|30px]]&lt;br&gt;[[Wacan]]
+|- style="height: 50px;"
+| [[File:Wacan.png|30px]]&lt;br&gt;[[Wacan]] || [[File:Wacan.png|30px]]&lt;br&gt;[[Wacan]] || [[File:Wacan.png|30px]]&lt;br&gt;[[Wacan]] || [[File:Wacan.png|30px]]&lt;br&gt;[[Wacan]] || [[File:Wacan.png|30px]]&lt;br&gt;[[Wacan]]
+|- style="height: 50px;"
+|| [[File:Wacan.png|30px]]&lt;br&gt;[[Wacan]]|| style="background-color:#587783;" | [[File:Starf.png|30px]]&lt;br&gt;[[Starf]] || [[File:Wacan.png|30px]]&lt;br&gt;[[Wacan]] || style="background-color:#587783;" | [[File:Starf.png|30px]]&lt;br&gt;[[Starf]] || [[File:Wacan.png|30px]]&lt;br&gt;[[Wacan]]
+|- style="height: 50px;"
+| [[File:Wacan.png|30px]]&lt;br&gt;[[Wacan]] || [[File:Wacan.png|30px]]&lt;br&gt;[[Wacan]] || [[File:Wacan.png|30px]]&lt;br&gt;[[Wacan]] || [[File:Wacan.png|30px]]&lt;br&gt;[[Wacan]] || [[File:Wacan.png|30px]]&lt;br&gt;[[Wacan]]
+|}
+{| class="wikitable" style="text-align: center;"
+|+ '''''Harvesting Bonus: 8.14x'''''
+|- style="height: 50px;"
+| style="width: 20%;" | [[File:Passho.png|30px]]&lt;br&gt;[[Passho]] || style="width: 20%;" | [[File:Passho.png|30px]]&lt;br&gt;[[Passho]] || style="width: 20%;" | [[File:Passho.png|30px]]&lt;br&gt;[[Passho]] || style="width: 20%;" | [[File:Passho.png|30px]]&lt;br&gt;[[Passho]] || style="width: 20%;" | [[File:Passho.png|30px]]&lt;br&gt;[[Passho]] 
+|- style="height: 50px;"
+|| [[File:Passho.png|30px]]&lt;br&gt;[[Passho]] || style="background-color:#6c7a57;" | [[File:Starf.png|30px]]&lt;br&gt;[[Starf]] || [[File:Passho.png|30px]]&lt;br&gt;[[Passho]] || style="background-color:#6c7a57;" | [[File:Starf.png|30px]]&lt;br&gt;[[Starf]] || [[File:Passho.png|30px]]&lt;br&gt;[[Passho]]
+|- style="height: 50px;"
+| [[File:Passho.png|30px]]&lt;br&gt;[[Passho]] || [[File:Passho.png|30px]]&lt;br&gt;[[Passho]] || [[File:Passho.png|30px]]&lt;br&gt;[[Passho]] || [[File:Passho.png|30px]]&lt;br&gt;[[Passho]] || [[File:Passho.png|30px]]&lt;br&gt;[[Passho]]
+|- style="height: 50px;"
+|| [[File:Passho.png|30px]]&lt;br&gt;[[Passho]]|| style="background-color:#6c7a57;" | [[File:Starf.png|30px]]&lt;br&gt;[[Starf]] || [[File:Passho.png|30px]]&lt;br&gt;[[Passho]] || style="background-color:#6c7a57;" | [[File:Starf.png|30px]]&lt;br&gt;[[Starf]] || [[File:Passho.png|30px]]&lt;br&gt;[[Passho]]
+|- style="height: 50px;"
+| [[File:Passho.png|30px]]&lt;br&gt;[[Passho]] || [[File:Passho.png|30px]]&lt;br&gt;[[Passho]] || [[File:Passho.png|30px]]&lt;br&gt;[[Passho]] || [[File:Passho.png|30px]]&lt;br&gt;[[Passho]] || [[File:Passho.png|30px]]&lt;br&gt;[[Passho]]
+|}
+
+
+=Maximizing Wanderer Chance=
+Wandering Pokemon are attracted to ripe berries.  For maximum chances of obtaining a desired wandering pokemon, use one of the setups below
+&lt;br&gt;
+==Roseli + Lum + Attracting Berry==
+Note: Do not use this setup with Occa, Colbur, or Kebia Berries.  Due to their nature of overtaking other berries, it is most efficient to simply plant 25 of those berries.
+{| class="wikitable" style="text-align: center;"
+|+ '''''Encounter Chance per 1.5s: 1.29% &lt;br&gt;Attraction Aura: 1.51x&lt;br&gt;1 Lum, 7 Roseli,&lt;br&gt; 17 Attracting Berries (Passho)'''''
+|- style="height: 50px;"
+| style="width: 20%;" | [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || style="width: 20%;" | [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || style="width: 20%;" | [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || style="width: 20%;" | [[File:Passho.png|30px]]&lt;br&gt;[[Passho]] || style="width: 20%;" | [[File:Passho.png|30px]]&lt;br&gt;[[Passho]]
+|- style="height: 50px;"
+|| [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || [[File:Lum.png|30px]]&lt;br&gt;[[Lum]] || [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || [[File:Passho.png|30px]]&lt;br&gt;[[Passho]] || [[File:Passho.png|30px]]&lt;br&gt;[[Passho]]
+|- style="height: 50px;"
+| style="width: 20%;" | [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || style="width: 20%;" | [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || style="width: 20%;" | [[File:Passho.png|30px]]&lt;br&gt;[[Passho]] || style="width: 20%;" | [[File:Passho.png|30px]]&lt;br&gt;[[Passho]] || style="width: 20%;" | [[File:Passho.png|30px]]&lt;br&gt;[[Passho]]
+|- style="height: 50px;"
+| style="width: 20%;" | [[File:Passho.png|30px]]&lt;br&gt;[[Passho]] || style="width: 20%;" | [[File:Passho.png|30px]]&lt;br&gt;[[Passho]] || style="width: 20%;" | [[File:Passho.png|30px]]&lt;br&gt;[[Passho]] || style="width: 20%;" | [[File:Passho.png|30px]]&lt;br&gt;[[Passho]] || style="width: 20%;" | [[File:Passho.png|30px]]&lt;br&gt;[[Passho]]
+|- style="height: 50px;"
+| style="width: 20%;" | [[File:Passho.png|30px]]&lt;br&gt;[[Passho]] || style="width: 20%;" | [[File:Passho.png|30px]]&lt;br&gt;[[Passho]] || style="width: 20%;" | [[File:Passho.png|30px]]&lt;br&gt;[[Passho]] || style="width: 20%;" | [[File:Passho.png|30px]]&lt;br&gt;[[Passho]] || style="width: 20%;" | [[File:Passho.png|30px]]&lt;br&gt;[[Passho]]
+|}
+
+==Roseli + Lum + Petaya + Attracting Berry ==
+Of course, for significantly longer uptime to attract a wanderer - perhaps if you're looking for a specific pokemon or group of pokemon to turn shiny for example - replace a Roseli Berry with a Petaya berry.  This doesn't decrease the encounter chance per second significantly, but it does make this setup something you can leave active for several days.  
+{| class="wikitable" style="text-align: center;"
+|+ '''''Encounter Chance per 1.5s: 1.28% &lt;br&gt;Attraction Aura: 1.42x&lt;br&gt;1 Lum, 6 Roseli, 1 Petaya,&lt;br&gt; 17 Attracting Berries (Passho)'''''
+|- style="height: 50px;"
+| style="width: 20%;" | [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || style="width: 20%;" | [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || style="width: 20%;" | [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || style="width: 20%;" | [[File:Passho.png|30px]]&lt;br&gt;[[Passho]] || style="width: 20%;" | [[File:Passho.png|30px]]&lt;br&gt;[[Passho]]
+|- style="height: 50px;"
+|| [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || [[File:Lum.png|30px]]&lt;br&gt;[[Lum]] || [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || [[File:Passho.png|30px]]&lt;br&gt;[[Passho]] || [[File:Passho.png|30px]]&lt;br&gt;[[Passho]]
+|- style="height: 50px;"
+| style="width: 20%;" | [[File:Passho.png|30px]]&lt;br&gt;[[Passho]] || style="width: 20%;" | [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || style="width: 20%;" | [[File:Petaya.png|30px]]&lt;br&gt;[[Petaya]] || style="width: 20%;" | [[File:Passho.png|30px]]&lt;br&gt;[[Passho]] || style="width: 20%;" | [[File:Passho.png|30px]]&lt;br&gt;[[Passho]]
+|- style="height: 50px;"
+| style="width: 20%;" | [[File:Passho.png|30px]]&lt;br&gt;[[Passho]] || style="width: 20%;" | [[File:Passho.png|30px]]&lt;br&gt;[[Passho]] || style="width: 20%;" | [[File:Passho.png|30px]]&lt;br&gt;[[Passho]] || style="width: 20%;" | [[File:Passho.png|30px]]&lt;br&gt;[[Passho]] || style="width: 20%;" | [[File:Passho.png|30px]]&lt;br&gt;[[Passho]]
+|- style="height: 50px;"
+| style="width: 20%;" | [[File:Passho.png|30px]]&lt;br&gt;[[Passho]] || style="width: 20%;" | [[File:Passho.png|30px]]&lt;br&gt;[[Passho]] || style="width: 20%;" | [[File:Passho.png|30px]]&lt;br&gt;[[Passho]] || style="width: 20%;" | [[File:Passho.png|30px]]&lt;br&gt;[[Passho]] || style="width: 20%;" | [[File:Passho.png|30px]]&lt;br&gt;[[Passho]]
+|}
+
+=Regaining lost Gen 5 berries=
+Shovel your only copy of a Gen5 berry by accident?  You can use Enigma to mutate another one rather than having to go through the original mutation process.  Here's the setup you need to mutate a Petaya if you shovel your only one by accident:
+&lt;br&gt;
+Note: Don't forget to equip the [[Squirtbottle]], and use [[Farm Items|Surprise Mulch]] as this is a mutation.  Purple squares are where mutations can occur.
+{| class="wikitable" style="text-align: center;"
+|+ 
+|- style="height: 50px;"
+| style="width: 20%; background-color:#9C7D98;" | [[File:Payapa.png|30px]]&lt;br&gt;[[Payapa]] || style="width: 20%; background-color:#9C7D98;" | [[File:Payapa.png|30px]]&lt;br&gt;[[Payapa]] || style="width: 20%; background-color:#9C7D98;" | [[File:Payapa.png|30px]]&lt;br&gt;[[Payapa]] || style="width: 20%; background-color:#9C7D98;" | [[File:Payapa.png|30px]]&lt;br&gt;[[Payapa]] || style="width: 20%; background-color:#9C7D98;" | [[File:Payapa.png|30px]]&lt;br&gt;[[Payapa]] 
+|- style="height: 50px;"
+| style="background-color:#9C7D98;" | [[File:Payapa.png|30px]]&lt;br&gt;[[Payapa]] || [[File:Enigma.png|30px]]&lt;br&gt;[[Enigma]] || style="background-color:#9C7D98;" | [[File:Payapa.png|30px]]&lt;br&gt;[[Payapa]] || [[File:Enigma.png|30px]]&lt;br&gt;[[Enigma]] || style="background-color:#9C7D98;" | [[File:Payapa.png|30px]]&lt;br&gt;[[Payapa]]
+|- style="height: 50px;"
+| style="background-color:#9C7D98;" | [[File:Payapa.png|30px]]&lt;br&gt;[[Payapa]] || style="background-color:#9C7D98;" | [[File:Payapa.png|30px]]&lt;br&gt;[[Payapa]] || style="background-color:#9C7D98;" | [[File:Payapa.png|30px]]&lt;br&gt;[[Payapa]] || style="background-color:#9C7D98;" | [[File:Payapa.png|30px]]&lt;br&gt;[[Payapa]] || style="background-color:#9C7D98;" | [[File:Payapa.png|30px]]&lt;br&gt;[[Payapa]]
+|- style="height: 50px;"
+| style="background-color:#9C7D98;" | [[File:Payapa.png|30px]]&lt;br&gt;[[Payapa]]|| [[File:Enigma.png|30px]]&lt;br&gt;[[Enigma]] || style="background-color:#9C7D98;" | [[File:Payapa.png|30px]]&lt;br&gt;[[Payapa]] || [[File:Enigma.png|30px]]&lt;br&gt;[[Enigma]] || style="background-color:#9C7D98;" | [[File:Payapa.png|30px]]&lt;br&gt;[[Payapa]]
+|- style="height: 50px;"
+| style="background-color:#9C7D98;" | [[File:Payapa.png|30px]]&lt;br&gt;[[Payapa]] || style="background-color:#9C7D98;" | [[File:Payapa.png|30px]]&lt;br&gt;[[Payapa]] || style="background-color:#9C7D98;" | [[File:Payapa.png|30px]]&lt;br&gt;[[Payapa]] || style="background-color:#9C7D98;" | [[File:Payapa.png|30px]]&lt;br&gt;[[Payapa]] || style="background-color:#9C7D98;" | [[File:Payapa.png|30px]]&lt;br&gt;[[Payapa]]
+|}
+
+=Other Useful Setups=
+Other useful Berry setups can be found on these pages:
+* [[Pokémon_Day_Care|Maximizing Egg step gain for Breeding Pokemon faster]] 
+* [[Shiny Chance|Maximizing Shiny Chance to turn all Pokemon Shiny]]
+* [[Roaming Pokemon|Jaboca + Lum to increase Roamer encounter chances]]
+* [[Squirtbottle|Specialized setups to help level up the Squirtbottle]]
+* [[Sprinklotad|Special Setup to help level up the Sprinklotad]]</text>
+    <contributor>
+      <username>Dragonkin550</username>
+      <id>27</id>
+    </contributor>
+    <comment>adding Enigma setup</comment>
+    <model>wikitext</model>
+    <parentid>15041</parentid>
+    <sha1>53605970ac3f1cd5557dc42c676f58094d0222df</sha1>
+  </revision>
+</page></mediawiki>

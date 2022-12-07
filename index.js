@@ -21,10 +21,18 @@
   const titles = {};
   inputStream.pipe(xmlsplit).on('data', function(data) {
     let xmlDocument = data.toString();
-    const title = (xmlDocument.match(/<title>(.*)<\/title>/) || [,'undefined'])[1];
+    let title = (xmlDocument.match(/<title>(.*)<\/title>/) || [,'undefined'])[1];
     const date = new Date((xmlDocument.match(/<timestamp>(.*)<\/timestamp>/) || [,'0'])[1]);
 
-    if (title.includes('/')) return;
+    // Move language to the start
+    if (title.startsWith('Translations:')) title = title.replace(/:(.*)\/(.*)\/(.*)/, ':$3/$1/$2');
+    if (/\/[a-z]{2}$/.test(title)) {
+      if (title.includes(':'))
+        title = title.replace(/:(.*)\/([a-z]{2})$/, ':$2/$1');
+      else
+        title = title.replace(/(.*)\/([a-z]{2})$/, 'Main:$2/$1');
+    }
+
     if (
       titles[title] > date
       || title.includes('File:')
@@ -34,6 +42,10 @@
       || title.includes('Message Wall:')
       || title.includes('talk:')
     ) return;
+
+    if (!title.includes(':')) {
+      title = `Main:${title}`;
+    }
 
     const isRedirectSamePage = new RegExp(`#REDIRECT \\[\\[${title}\\]\\]`, 'i')
     if (isRedirectSamePage.test(xmlDocument)) return;
@@ -46,12 +58,15 @@
     while (xmlDocument.includes('<revision>') && xmlDocument.includes('</revision>')) xmlDocument = `${xmlDocument.substring(0, xmlDocument.indexOf('<revision>') - 3)}${xmlDocument.substring(xmlDocument.indexOf('</revision>') + 11)}`;
     xmlDocument = xmlDocument.replace('<revision-main>', '<revision>').replace('</revision-main>', '</revision>');
 
-    if (title.includes(':')) {
-      fs.promises.mkdir(`data/${title.replace(/:/g, '/').replace(/\/[^\/]+$/, '')}`, { recursive: true }).catch(console.error).then(() => {
-        fs.writeFileSync(`data/${title.replace(/:/g, '/')}.xml`, xmlDocument);
+    // Update our titles
+    title = title.replace(/:/g, '/');
+
+    if (title.includes('/')) {
+      fs.promises.mkdir(`data/${title.replace(/\/[^\/]+$/, '')}`, { recursive: true }).catch(console.error).then(() => {
+        fs.writeFileSync(`data/${title}.xml`, xmlDocument);
       })
     } else {
-      fs.writeFileSync(`data/${title.replace(/:/g, '/')}.xml`, xmlDocument);
+      fs.writeFileSync(`data/${title}.xml`, xmlDocument);
     }
   })
 

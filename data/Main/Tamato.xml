@@ -1,0 +1,56 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Tamato</title>
+  <ns>0</ns>
+  <id>638</id>
+  <revision>
+    <id>7277</id>
+    <timestamp>2020-11-22T12:44:03Z</timestamp>
+    <text space="preserve" bytes="1481">{{Infobox Berry
+|name    = Tamato
+|image   = [[File:Tamato.png]]
+|caption = This Berry is large and spicy. When eaten during the cold season, it warms the body from inside.
+|growtime  = 2h 24m 0s
+|harvest = 25 berries
+|replant = 20%
+|points = 625
+|flavor = {{!}} 20 {{!}} 10 {{!}} 0 {{!}} 0 {{!}} 0
+}}
+'''Tamato''' is a type of [[Berries|Berry]] that can be planted in [[Farm]]. It can be obtained by surrounding a [[Razz]] with at least 1 [[Pomeg]]. The [[Razz]] will then have a chance to mutate into this berry.
+
+{| class="wikitable"
+|+ Harvest Stages durations
+! Seed !! Sprout !! Taller !! Bloom !! Berry
+|-
+| 0-430s || 430-1400s || 1400-4000s || 4000-8640s || 8640-17280s
+|-
+| [[File:AllTreeSeed.png|50px]] || [[File:AllTreeSprout.png|50px]] || [[File:TamatoTreeTaller.png|50px]] || [[File:TamatoTreeBloom.png|50px]] || [[File:TamatoTreeBerry.png|50px]]
+|}
+
+=== Possible Planting Formations ===
+
+You can fill your [[farm]] in following way to obtain Tamato berry.
+
+{| class="wikitable" style="text-align: center;"
+|+ Farm
+|-
+| style="width: 40px;" | [[Razz]] || style="width: 40px;" | [[Razz]] || style="width: 40px;" | [[Razz]] || style="width: 40px;" | [[Razz]] || style="width: 40px;" | [[Razz]]
+|-
+| [[Razz]] || [[Pomeg]] || [[Razz]] || [[Razz]] || [[Pomeg]]
+|- style="height: 26px;"
+| [[Razz]] || [[Razz]] || [[Razz]] || [[Razz]] || [[Razz]]
+|-
+| [[Razz]] || [[Razz]] || [[Razz]] || [[Razz]] || [[Razz]]
+|-
+| [[Razz]] || [[Pomeg]] || [[Razz]] || [[Razz]] || [[Pomeg]]
+|}</text>
+    <contributor>
+      <username>Kirby2729</username>
+      <id>67</id>
+    </contributor>
+    <comment>Created page with "{{Infobox Berry |name    = Tamato |image   = [[File:Tamato.png]] |caption = This Berry is large and spicy. When eaten during the cold season, it warms the body from inside. |g..."</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>d00214b96ad3ed0b88efff8460bbb7baf66dbb1b</sha1>
+  </revision>
+</page></mediawiki>

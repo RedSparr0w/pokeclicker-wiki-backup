@@ -1,0 +1,78 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Ruins of Life</title>
+  <ns>0</ns>
+  <id>4030</id>
+  <revision>
+    <id>14661</id>
+    <timestamp>2022-04-16T20:26:39Z</timestamp>
+    <text space="preserve" bytes="1466">'''Ruins of Life''' is a [[Dungeons|dungeon]] in [[Alola]]. It initially has 121 tiles arranged in a 11x11 square, including 11 chest tiles, 41 non-boss encounter tiles, and 1 boss encounter tile. Wild Encounters have 16,435,490 HP.
+
+{{Infobox dungeon
+|name    = Ruins of Life
+|image   = [[File:Ruins of Life.png|300px]]
+|caption = A map of Ruins of Life.
+|tokens  = 1,200,000
+|location = North of Akala Outskirts.
+}}
+
+== Encounter Tables ==
+
+===Wild Encounters===
+
+{| class="wikitable"
+|-
+! Wild Pokémon !! colspan=2|Trainers
+|-
+! Encounter !! Trainer !! Pokémon Team
+|-
+| [[File:Floette (Red).png|40px]] Floette (Red) || rowspan=5 colspan=2|&lt;center&gt;N/A
+|-
+| [[File:Comfey.png|40px]] Comfey 
+|-
+| [[File:Gardevoir.png|40px]] Gardevoir
+|-
+| [[File:Chimecho.png|40px]] Chimecho
+|-
+| [[File:Munna.png|40px]] Munna
+|-
+|}
+
+===Boss Encounters===
+{| class="wikitable"
+|-
+! Wild Pokémon !! Base Health !! Boss Trainer !! Pokémon Team !! Base Health
+|-
+| [[File:Wobbuffet.png|40px]] Wobbuffet ||rowspan=2|&lt;center&gt;82,177,450 ||rowspan=3 colspan=3|&lt;center&gt;N/A
+|-
+| [[File:Granbull.png|40px]] Granbull
+|-
+| [[File:Tapu Lele.png|40px]] Tapu Lele || &lt;center&gt;82,543,791
+|-
+|}
+
+==Items==
+
+{| class="wikitable"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears !! Requirement
+|-
+| {{Bag2|XClick}} || 4 || 50.00% || 50.00% || 50.00% || rowspan=2|&lt;center&gt;N/A
+|-
+| {{Bag2|Token Collector}} || 4 || 50.00% || 50.00% || 50.00%
+|}
+
+
+{{Dungeons}}
+
+[[Category:Dungeons]]</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>14</id>
+    </contributor>
+    <comment>/* Boss Encounters */</comment>
+    <model>wikitext</model>
+    <parentid>14660</parentid>
+    <sha1>47afb8bb40b0bd3072f62780c3ca763cc8ad0242</sha1>
+  </revision>
+</page></mediawiki>

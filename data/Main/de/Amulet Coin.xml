@@ -1,0 +1,61 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Amulet Coin/de</title>
+  <ns>0</ns>
+  <id>4306</id>
+  <revision>
+    <id>25324</id>
+    <timestamp>2022-12-04T00:51:56Z</timestamp>
+    <text space="preserve" bytes="1537">&lt;languages/&gt;
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Infobox Oak Item
+|name       = Amulet Coin
+|image      = [[File:Bag_Amulet_Coin_Sprite.png]]
+|caption    = Artwork of the ''Amulet Coin''.
+|dex = 30
+|effect     = Gain more coins from Battling
+}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+The '''Amulet Coin''' is an [[Oak Items|Oak Item]]. When equipped, it increases the amount of money gained. It notably does not affect {{pdollar}} earnings in dungeons, but affects earnings in most other situations. The Amulet Coin is unlocked after catching 30 unique Pokémon.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Details ==
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable sortable"
+|-
+! Level !! Effect !! Upgrade Requirements !! Upgrade Cost
+|-
+|0 || x1.25 Coins Earned || 500 defeated Pokémon || style="text-align:right" | 50,000 {{pdollar}}
+|-
+|1 || x1.3 Coins Earned || 500 defeated Pokémon || style="text-align:right" | 100,000 {{pdollar}}
+|-
+|2 || x1.35 Coins Earned || 1500 defeated Pokémon || style="text-align:right" | 250,000 {{pdollar}}
+|-
+|3 || x1.4 Coins Earned || 2500 defeated Pokémon || style="text-align:right" | 500,000 {{pdollar}}
+|-
+|4 || x1.45 Coins Earned || 5000 defeated Pokémon || style="text-align:right" | 1,000,000 {{pdollar}}
+|-
+|5/Max || x1.5 Coins Earned || N/A || style="text-align:right" | N/A
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;{{Oak items}}&lt;br&gt;
+[[Category:Oak Items]] [[Category:Items]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>FuzzyBot</username>
+      <id>133</id>
+    </contributor>
+    <comment>Updating to match new version of source page</comment>
+    <model>wikitext</model>
+    <parentid>25303</parentid>
+    <sha1>bc801a04ac1f6a83c85c0fea760f9af0f80bc4d2</sha1>
+  </revision>
+</page></mediawiki>

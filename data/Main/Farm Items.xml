@@ -1,0 +1,37 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Farm Items</title>
+  <ns>0</ns>
+  <id>799</id>
+  <revision>
+    <id>8443</id>
+    <timestamp>2020-12-05T14:57:55Z</timestamp>
+    <text space="preserve" bytes="893">Farm items are various items you can use on your farm to help you with growing and mutating new [[berries]]. These can be bought from [[Berry Master]]s of any [[region]] using [[Farming Points|Farm points]] {{farmpoints}}.
+
+
+The following items can be categorized as Farm Items :
+{| class="wikitable"
+|+ Farm Items
+|-
+! Name !! Price !! Descriptoin
+|-
+| Boost Mulch || &lt;center&gt; 50 {{farmpoints}} || Increases berry growth rate when applied to a plot that have berry
+|-
+| Rich Mulch || 100 {{farmpoints}} || Increases berry the amount of berries you would gain from harvesting the plot it is applied to
+|-
+| Surprise Mulch || 150  {{farmpoints}}|| Increases the chance of a berry mutation when applied to an empty plot
+|-
+| Amaze Mulch || 200 {{farmpoints}} || Increases all berry effects
+|-
+| Shovel || 300 {{farmpoints}} || Clears a plot instantly to let you plant a new berry in that plot
+|}</text>
+    <contributor>
+      <username>Claygame</username>
+      <id>22</id>
+    </contributor>
+    <comment>Created page with "Farm items are various items you can use on your farm to help you with growing and mutating new [[berries]]. These can be bought from [[Berry Master]]s of any [[region]] using..."</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>c419f5d1e3a97c7ef79d4cfc276ba15c33e1c75d</sha1>
+  </revision>
+</page></mediawiki>

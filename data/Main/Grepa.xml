@@ -1,0 +1,56 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Grepa</title>
+  <ns>0</ns>
+  <id>574</id>
+  <revision>
+    <id>6943</id>
+    <timestamp>2020-11-21T23:16:45Z</timestamp>
+    <text space="preserve" bytes="1280">{{Infobox Berry
+|name    = Grepa
+|image   = [[File:Grepa.png]]
+|caption = One bite of this very tender Berry fills the mouth with its sweet and tangy flavor.
+|growtime  = 2h 0m 0s
+|harvest = 24 berries
+|replant = 20%
+|points = 600
+|flavor = {{!}} 0 {{!}} 10 {{!}} 10 {{!}} 0 {{!}} 10
+}}
+'''Grepa''' is a type of [[Berries|Berry]] that can be planted in [[Farm]]. It can be obtained by surrounding an empty plot with at least 1 [[Aguav]] and at least 1 [[Figy]].
+
+{| class="wikitable"
+|+ Harvest Stages durations
+! Seed !! Sprout !! Taller !! Bloom !! Berry
+|-
+| 0-300s || 300-3400s || 3400-5600s || 5600-7200s || 7200-14400s
+|-
+| [[File:AllTreeSeed.png|50px]] || [[File:AllTreeSprout.png|50px]] || [[File:GrepaTreeTaller.png|50px]] || [[File:GrepaTreeBloom.png|50px]] || [[File:GrepaTreeBerry.png|50px]]
+|}
+
+=== Possible Planting Formations ===
+
+You can fill your [[farm]] in following way to obtain Grepa berry.
+
+{| class="wikitable" style="text-align: center;"
+|+ Farm
+|-
+| style="width: 40px;" | [[Aguav]] || style="width: 40px;" | || style="width: 40px;" | || style="width: 40px;" | [[Aguav]] || style="width: 40px;" | 
+|-
+| || [[Figy]] ||  ||  || [[Figy]] 
+|- style="height: 26px;"
+| || || || || 
+|-
+| [[Aguav]] || || || [[Aguav]] || 
+|-
+| || [[Figy]] ||  ||  || [[Figy]] 
+|}</text>
+    <contributor>
+      <username>Kirby2729</username>
+      <id>67</id>
+    </contributor>
+    <comment>Created page with "{{Infobox Berry |name    = Grepa |image   = [[File:Grepa.png]] |caption = One bite of this very tender Berry fills the mouth with its sweet and tangy flavor. |growtime  = 2h 0..."</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>28cb8a0ba44863cdfe859dfd95c7614e6f635dea</sha1>
+  </revision>
+</page></mediawiki>

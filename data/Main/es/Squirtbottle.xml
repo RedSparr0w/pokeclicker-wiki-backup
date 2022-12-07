@@ -1,0 +1,54 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Squirtbottle/es</title>
+  <ns>0</ns>
+  <id>4727</id>
+  <revision>
+    <id>16451</id>
+    <timestamp>2022-07-24T22:56:17Z</timestamp>
+    <text space="preserve" bytes="1908">&lt;languages/&gt;
+{{Infobox Oak Item
+|name       = Regadera
+|image      = [[File:Squirtbottle.png]]
+|caption    = Imagen de la ''Regadera''.
+|dex = 0 (Se puede comprar en Ciudad Trigal [[Johto]] por 5,000 {{farmpoints}})
+|effect     = Aumenta la probabilidad de mutación de las [[Berry|Bayas]]
+}}
+
+La '''regadera''' es un  [[Oak Items|Objeto de Oak]]. Al equiparla aumenta la probabilidad de [[Berry|mutaciones]] ocurridas en la [[Farm|granja]]. A diferencia de la mayoría de objetos de Oak no se desbloquea capturando Pokémons, en su lugar se puede comprar al Maestro de bayas de [[Johto]] en ciudad trigal. Además en lugar de Pokédolares necesita [[Farming Points|puntos de granja]].
+
+==Detalles==
+
+{| class="wikitable sortable"
+|-
+! Nivel !! Efecto !! Requisitos de Mejora !! Coste de Mejora
+|-
+|0 || +25% al índice de mutación|| 50 mutaciones generadas || style="text-align:right" | 2,000 {{farmpoints}}
+|-
+|1 || +50% al índice de mutación || 50 mutaciones generadas || style="text-align:right" | 5,000 {{farmpoints}}
+|-
+|2 || +75% al índice de mutación || 150 mutaciones generadas || style="text-align:right" | 10,000 {{farmpoints}}
+|-
+|3 || +100% al índice de mutación || 250 mutaciones generadas || style="text-align:right" | 20,000 {{farmpoints}}
+|-
+|4 || +125% al índice de mutación || 500 mutaciones generadas || style="text-align:right" | 50,000 {{farmpoints}}
+|-
+|5/Max || +150% al índice de mutación || N/A || style="text-align:right" | N/A
+|-
+|}
+
+== Estrategias para subir de nivel==
+Hay distintas estrategias eficaces para subir de nivel la regadera en función de que bayas hayas desbloqueado. Para ver las estrategias para subir de nivel ve a la [[Farming Setups#Squirtbottle Leveling Strategies|página de formaciones de la granja]]
+
+&lt;br&gt;{{Oak items}}&lt;br&gt;
+[[Category:Oak Items|Categoría:Objetos de Oak]] [[Category:Items|Categoría:Objetos]] [[Category:Farm|Categoría:granja]]</text>
+    <contributor>
+      <username>Cthulhu Follower</username>
+      <id>51</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>16450</parentid>
+    <sha1>5352ab40b173268e47ea9c5d1493077e17238a6c</sha1>
+  </revision>
+</page></mediawiki>

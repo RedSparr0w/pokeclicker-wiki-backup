@@ -1,0 +1,66 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Starf</title>
+  <ns>0</ns>
+  <id>794</id>
+  <revision>
+    <id>8130</id>
+    <timestamp>2020-11-28T19:31:44Z</timestamp>
+    <text space="preserve" bytes="1898">{{Infobox Berry
+|name    = #66 Starf
+|image   = [[File:Starf.png]]
+|caption = This Berry is considered a mirage. It was said to be so strong that it had to be abandoned at the world's edge.
+|growtime  = 1d
+|harvest = 0.5 berries
+|replant = 0%
+|points = 15,000
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*30 spicy 
+*10 dry
+*30 sweet
+*10 bitter
+*30 sour
+}}
+'''Starf''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by having at least 1 empty plot while encountering a shiny wandering pokemon. The [[Salac]] or any later berry must be unlocked to unlock this berry. It emits an aura that increases the [[Shiny Chance]].
+
+{| class="wikitable"
+|+ Growth Stages
+! !! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 3 hours || 6 hours || 12 hours || 1 day - 5 days
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:StarfTreeTaller.png|50px]] || &lt;center&gt; [[File:StarfTreeBloom.png|50px]] || &lt;center&gt; [[File:StarfTreeBerry.png|50px]]
+|-
+! Aura (shiny chance)
+| || &lt;center&gt; x1.005 || &lt;center&gt; x1.01 || &lt;center&gt; x1.015
+|}
+
+=== Possible Planting Formations ===
+
+You can fill your [[Farm]] in the following way to obtain this berry. Note that the setup omits a 24th [[Roseli]] as that would allow the mutation of the [[Custap]] which would occupy the empty plot.
+
+{| class="wikitable" style="text-align: center;"
+|+ Farm
+|-
+| style="width: 40px;" | [[Roseli]] || style="width: 40px;" | [[Roseli]] || style="width: 40px;" | [[Roseli]] || style="width: 40px;" | [[Roseli]] || style="width: 40px;" | [[Roseli]]
+|- style="height: 26px;"
+| [[Roseli]] || [[Roseli]] || [[Roseli]] || [[Roseli]] || [[Roseli]] 
+|- style="height: 26px;"
+| [[Roseli]] || [[Roseli]] || [[Roseli]] || [[Roseli]] || [[Roseli]] 
+|-
+| [[Roseli]] || [[Roseli]] || [[Roseli]] || [[Roseli]] || [[Roseli]] 
+|-
+| [[Roseli]] || [[Roseli]] || [[Roseli]] || ||
+|}</text>
+    <contributor>
+      <username>Kirby2729</username>
+      <id>67</id>
+    </contributor>
+    <comment>Fix death time.</comment>
+    <model>wikitext</model>
+    <parentid>8129</parentid>
+    <sha1>63e16b305c34cf67dda01ec95ae3882ffee423aa</sha1>
+  </revision>
+</page></mediawiki>

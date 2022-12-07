@@ -1,0 +1,121 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Wepear/fr</title>
+  <ns>0</ns>
+  <id>8035</id>
+  <revision>
+    <id>22674</id>
+    <timestamp>2022-08-10T13:02:22Z</timestamp>
+    <text space="preserve" bytes="4011">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #13 Repoi
+|image   = [[File:Wepear.png]]
+|caption = Sa fleur est blanche et magnifique. Son goût, entre amertume et acidité, semble favoriser la digestion.
+|growtime  = 6m 40s
+|harvest = 12 baies
+|replant = 40%
+|mutation = 1.6%
+|points = 30
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 épicée
+*0 sèche
+*0 sucrée
+*10 amère
+*10 acide
+}}
+
+'''Repoi''' est un type de [[Berries/fr|Baie]] qui peut être plantée dans la [[Farm/fr|Ferme]]. Elle s'obtient en entourant une parcelle vide avec au moins 1 [[Rawst/fr|Fraive]] et au moins 1 [[Oran/fr|Oran]].
+
+== Tables de croissance ==
+=== Stades de croissance ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+|+ Stades de croissance
+! !! Pousse !! Arbuste !! Fleuri !! Mûr
+|-
+! Temps écoulé depuis plantation
+| 2 mins 30 secs || 5 mins 50 secs || 6 mins 15 secs || 6 mins 40 secs - 13 mins 20 secs
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:WepearTreeTaller.png|50px]] || &lt;center&gt; [[File:WepearTreeBloom.png|50px]] || &lt;center&gt; [[File:WepearTreeBerry.png|50px]]
+|}
+
+===Temps de croissance avec modificateurs===
+{| class="wikitable collapsible" | style="text-align: center;"
+! Modificateur !! Temps maturité-flétrissement
+|-
+! Aucun
+| 6 mins 40 secs -&lt;br&gt; 13 mins 20 secs
+|-
+! Kwakarrosoir
+| 4 mins 27 secs -&lt;br&gt; 8 mins 53 secs
+|}
+
+== Organigramme ==
+[[File:Repoi_-_Graph_découverte.png|200px]]
+&lt;br&gt;
+
+== Stratégie de mutation ==
+=== Formations possibles ===
+
+Vous pouvez remplir votre ferme de la manière suivante pour obtenir des baies Repoi. Les cases violettes indiquent où les mutations peuvent avoir lieu.
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation&amp;nbsp;de&amp;nbsp;base
+|-
+| style="width: 40px;" | [[File:Rawst.png|30px]] [[Rawst/fr|Fraive]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Oran.png|30px]] [[Oran/fr|Oran]]
+|}
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation de plantation optimisée
+|-
+| style="width: 40px;" | [[File:Rawst.png|30px]] [[Rawst/fr|Fraive]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Rawst.png|30px]] [[Rawst/fr|Fraive]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Oran.png|30px]] [[Oran/fr|Oran]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Oran.png|30px]]&lt;br&gt;[[Oran/fr|Oran]]
+|- style="height: 50px;"
+| style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | 
+|-
+| [[File:Rawst.png|30px]] [[Rawst/fr|Fraive]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Rawst.png|30px]] [[Rawst/fr|Fraive]] || style="background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Oran.png|30px]] [[Oran/fr|Oran]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Oran.png|30px]]&lt;br&gt;[[Oran/fr|Oran]]
+|}
+
+=== Tableau de chronométrage ===
+{| class="wikitable" | style="text-align: center;"
+|+ ''Tous les temps indiqués sont basés sur le temps restant avant que la première baie plantée n'arrive à maturité''
+! Baie !! Temps de plantation&lt;br&gt;sans modificateur!! Temps de plantation avec &lt;br&gt; Engrais ou Kwakarrosoir || Temps de plantation avec &lt;br&gt; Engrais et Kwakarrosoir
+|-
+| [[Oran/fr|Oran]] || - || - || -
+|-
+| [[Rawst/fr|Fraive]] || 1 min 20 secs avant maturité || 53 secs avant maturité || Non optimal
+|-
+|}
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Acquisition==
+===Dungeons===
+{{Loot/head‎|Berries}}
+{{LootItem|Berry Forest|Epic}}
+{{LootItem|Radio Tower|Epic}}
+{{LootItem|Floccesy Ranch|Epic}}
+{{LootItem|Connecting Cave|Common}}
+|}
+|}
+&lt;/div&gt;
+
+&lt;br&gt;
+
+{{Berries}}
+
+[[Category:Farm]][[Category:Berries]]</text>
+    <contributor>
+      <username>LuK</username>
+      <id>96</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>22673</parentid>
+    <sha1>14c3a76a7a351a8376dc691c370d17be82c854b9</sha1>
+  </revision>
+</page></mediawiki>

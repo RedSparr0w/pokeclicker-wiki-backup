@@ -1,0 +1,56 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Wiki</title>
+  <ns>0</ns>
+  <id>552</id>
+  <revision>
+    <id>6733</id>
+    <timestamp>2020-11-21T22:15:28Z</timestamp>
+    <text space="preserve" bytes="1429">{{Infobox Berry
+|name    = Wiki
+|image   = [[File:Wiki.png]]
+|caption = It is said that this Berry grew lumps to help Pokémon grip it, allowing propagation farther afield.
+|growtime  = 6m 0s
+|harvest = 15 berries
+|replant = 30%
+|points = 45
+|flavor = {{!}} 0 {{!}} 15 {{!}} 0 {{!}} 0 {{!}} 0
+}}
+'''Wiki''' is a type of [[Berries|Berry]] that can be planted in [[Farm]]. It can be obtained by surrounding an empty plot with at least 25, but no more than 80 points of dry and less than 5 points of all other flavours. The [[Chesto]] must be unlocked to unlock this berry.
+
+{| class="wikitable"
+|+ Harvest Stages durations
+! Seed !! Sprout !! Taller !! Bloom !! Berry
+|-
+| 0-40s || 40-210s || 210-230s || 230-360s || 360-720s
+|-
+| [[File:AllTreeSeed.png|50px]] || [[File:AllTreeSprout.png|50px]] || [[File:WikiTreeTaller.png|50px]] || [[File:WikiTreeBloom.png|50px]] || [[File:WikiTreeBerry.png|50px]]
+|}
+
+=== Possible Planting Formations ===
+
+You can fill your [[farm]] in following way to obtain Wiki berry.
+
+{| class="wikitable" style="text-align: center;"
+|+ Farm
+|-
+| style="width: 40px;" | || style="width: 40px;" | [[Chesto]] || style="width: 40px;" | || style="width: 40px;" | || style="width: 40px;" | [[Chesto]]
+|-
+| [[Chesto]] || [[Chesto]] ||  || [[Chesto]] || [[Chesto]] 
+|- style="height: 26px;"
+| || || || || 
+|-
+| || [[Chesto]] ||  || || [[Chesto]] 
+|-
+| [[Chesto]] || [[Chesto]] ||  || [[Chesto]] || [[Chesto]] 
+|}</text>
+    <contributor>
+      <username>Kirby2729</username>
+      <id>67</id>
+    </contributor>
+    <comment>Created page with "{{Infobox Berry |name    = Wiki |image   = [[File:Wiki.png]] |caption = It is said that this Berry grew lumps to help Pokémon grip it, allowing propagation farther afield. |g..."</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>13159b7c92dbbbfd7e5bbb22308af7ae267fdad0</sha1>
+  </revision>
+</page></mediawiki>

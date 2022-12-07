@@ -1,0 +1,69 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Hau'oli Cemetery</title>
+  <ns>0</ns>
+  <id>3707</id>
+  <revision>
+    <id>14164</id>
+    <timestamp>2022-04-14T22:50:01Z</timestamp>
+    <text space="preserve" bytes="1546">'''Hau'oli Cemetery''' is a [[Dungeons|dungeon]] in [[Alola]]. It initially has 121 tiles arranged in a 11x11 square, including 11 chest tiles, 41 non-boss encounter tiles, and 1 boss encounter tile. Wild Encounters have 11,587,450 HP.
+
+{{Infobox dungeon
+|name    = Hau'oli Cemetery
+|image   = [[File:Hau'oli Cemetery.png|300px]]
+|caption = A map of Hau'oli Cemetery.
+|tokens  = 800,000
+|location = East of Route 2.
+}}
+
+== Encounter Tables ==
+
+===Wild Encounters===
+
+{| class="wikitable"
+|-
+! Wild Pokémon !! colspan=2|Trainers
+|-
+! Encounter !! Trainer !! Pokémon Team
+|-
+| [[File:Zubat.png|40px]] Zubat || [[File:Pokémon Breeder (Female).png|40px]] Pokémon Breeder || [[File:Pikachu.png|40px]] Pikachu
+|-
+| [[File:Gastly.png|40px]] Gastly || [[File:Office Worker (Male).png|40px]] Office Worker || [[File:Pikipek.png|40px]] Pikipek
+|-
+| [[File:Misdreavus.png|40px]] Misdreavus || [[File:Preschooler (Female).png|40px]] Preschooler || [[File:Happiny.png|40px]] Happiny
+|-
+|}
+
+===Boss Encounters===
+{| class="wikitable"
+|-
+! Wild Pokémon !! Base Health !! Boss Trainer !! Pokémon Team !! Base Health
+|-
+| [[File:Drifloon.png|40px]] Drifloon || rowspan=2|&lt;center&gt;28,968,625 || rowspan=2 colspan=3|&lt;center&gt;N/A
+|-
+| [[File:Litwick.png|40px]] Litwick 
+|-
+|} 
+
+==Items==
+
+{| class="wikitable"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears !! Requirement
+|-
+| {{Bag2|XClick}} || 4 || 50.00% || 50.00% || 50.00% || rowspan=2|&lt;center&gt;N/A
+|-
+| {{Bag2|Token Collector}} || 4 || 50.00% || 50.00% || 50.00%
+|}
+
+[[Category:Dungeons]]</text>
+    <contributor>
+      <username>SomeonealiveQN</username>
+      <id>5</id>
+    </contributor>
+    <comment>Fixed</comment>
+    <model>wikitext</model>
+    <parentid>14163</parentid>
+    <sha1>61cd23aee269caad572edf6898199d2ae16d3d62</sha1>
+  </revision>
+</page></mediawiki>

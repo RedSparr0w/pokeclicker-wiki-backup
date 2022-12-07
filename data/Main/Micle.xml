@@ -1,0 +1,61 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Micle</title>
+  <ns>0</ns>
+  <id>727</id>
+  <revision>
+    <id>7700</id>
+    <timestamp>2020-11-22T18:00:05Z</timestamp>
+    <text space="preserve" bytes="1539">{{Infobox Berry
+|name    = #54 Micle
+|image   = [[File:Micle.png]]
+|caption = This Berry has a very dry flavor. It has the effect of making other food eaten at the same time taste sweet.
+|growtime  = 4h 24m 0s
+|harvest = 1 berry
+|replant = 5%
+|points = 2,600
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 spicy 
+*40 dry
+*10 sweet
+*0 bitter
+*0 sour
+}}
+'''Micle''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by having at least one empty plot and at least 600 points of dry on the field. The [[Pamtre]] must be unlocked to unlock this berry.
+
+{| class="wikitable"
+|+ Growth Stage Durations
+! Seed !! Sprout !! Taller !! Bloom !! Berry
+|-
+| 0-3960s || 3960-7920s || 7920-15840s || 15840-31680s || 31680-63360s
+|-
+| [[File:AllTreeSeed.png|50px]] || [[File:AllTreeSprout.png|50px]] || [[File:MicleTreeTaller.png|50px]] || [[File:MicleTreeBloom.png|50px]] || [[File:MicleTreeBerry.png|50px]]
+|}
+
+=== Possible Planting Formations ===
+
+You can fill your [[farm]] in following way to obtain Micle berry.
+
+{| class="wikitable" style="text-align: center;"
+|+ Farm
+|-
+| style="width: 40px;" | || style="width: 40px;" | [[Pamtre]] || style="width: 40px;" | [[Pamtre]] || style="width: 40px;" | [[Pamtre]] || style="width: 40px;" | [[Pamtre]]
+|-
+| || [[Pamtre]] || [[Pamtre]] || [[Pamtre]] || [[Pamtre]]
+|- style="height: 26px;"
+| || [[Pamtre]] || [[Pamtre]] || [[Pamtre]] || [[Pamtre]]
+|-
+| || [[Pamtre]] || [[Pamtre]] || [[Pamtre]] || [[Pamtre]]
+|-
+| || [[Pamtre]] || [[Pamtre]] || [[Pamtre]] || [[Pamtre]]
+|}</text>
+    <contributor>
+      <username>Kirby2729</username>
+      <id>67</id>
+    </contributor>
+    <comment>Created page with "{{Infobox Berry |name    = #54 Micle |image   = [[File:Micle.png]] |caption = This Berry has a very dry flavor. It has the effect of making other food eaten at the same time t..."</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>e09feaf4fdc3efdbaa731088dcd587c69b50155a</sha1>
+  </revision>
+</page></mediawiki>

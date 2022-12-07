@@ -1,0 +1,37 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Template:Battle items</title>
+  <ns>10</ns>
+  <id>11</id>
+  <revision>
+    <id>297</id>
+    <timestamp>2022-06-26T21:14:44Z</timestamp>
+    <text space="preserve" bytes="1191">&lt;div class="roundy" style="margin:auto; border: 3px solid #{{battle items color dark}}; white-space:nowrap; padding:3px; max-width:1000px"&gt;
+&lt;div class="roundy" style="margin:auto; text-align:center; background-color:#{{battle items color light}}; padding:2px; margin-bottom:3px"&gt;&lt;big&gt;'''{{color2|000|Battle Items|Battle Items}}'''&lt;/big&gt;&lt;/div&gt;
+&lt;div style="clear:both; display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr))"&gt;
+&lt;div&gt;{{Bag2|XAttack}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|XClick}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Lucky Egg}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Token Collector}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Dowsing Machine}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Lucky Incense}}&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="roundy" style="margin:auto; text-align:center; background-color:#{{battle items color light}}; padding:2px; margin-bottom:3px"&gt;&lt;big&gt;'''{{color2|000|Flutes}}'''&lt;/big&gt;&lt;/div&gt;
+&lt;div style="clear:both; display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr))"&gt;
+&lt;div&gt;{{Bag2|Yellow Flute}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Time Flute}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Black Flute}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Red Flute}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|White Flute}}&lt;/div&gt;
+&lt;div&gt;{{Bag2|Blue Flute}}&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;noinclude&gt;[[Category:Item navigation templates]]&lt;/noinclude&gt;</text>
+    <contributor>
+      <username>LatiosRider</username>
+      <id>35</id>
+    </contributor>
+    <comment>/* Deleted removed flutes, renamed Item Magnet to Dowsing Machine, and rearranged entries */</comment>
+    <model>wikitext</model>
+    <parentid>296</parentid>
+    <sha1>3c238279b61f31b27046a222c0fa7dd6b3f9069d</sha1>
+  </revision>
+</page></mediawiki>

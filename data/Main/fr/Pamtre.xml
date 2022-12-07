@@ -1,0 +1,124 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Pamtre/fr</title>
+  <ns>0</ns>
+  <id>8813</id>
+  <revision>
+    <id>24174</id>
+    <timestamp>2022-08-15T14:33:03Z</timestamp>
+    <text space="preserve" bytes="5190">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #32 Palma
+|image   = [[File:Pamtre.png]]
+|caption = Cette Baie a dérivé d'une mer lointaine. On la cultive désormais dans la région de Sinnoh.
+|growtime  = 5h 0m 0s
+|harvest = 31 baies
+|replant = 10%
+|mutation = 0,02%
+|points = 950
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 épicée 
+*30 sèche
+*10 sucrée
+*0 amère
+*0 acide
+}}
+
+'''Palma''' est un type de [[Berries/fr|Baie]] qui peut être plantée dans la [[Farm/fr|Ferme]]. Elle s'obtient en entourant une [[Cornn/fr|Siam]] avec au moins 130, mais pas plus de 160 points de saveur sèche ainsi que pas plus de 80 points de toute autre saveur. La [[Cornn/fr|Siam]] aura alors des chances de muter en Palma. 
+
+== Tables de croissance ==
+=== Stades de croissance ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Pousse !! Arbuste !! Fleuri !! Mûr
+|-
+! Temps écoulé depuis plantation
+| 50 mins || 2 heures 46 mins 40 secs || 4 heures 33 mins 20 secs || 5 heures - 10 heures
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:PamtreTreeTaller.png|50px]] || &lt;center&gt; [[File:PamtreTreeBloom.png|50px]] || &lt;center&gt; [[File:PamtreTreeBerry.png|50px]]
+|-
+! Envahissante (Tendance à s'étendre aux parcelles vides environnantes)
+| colspan=3|&lt;center&gt;N/A || &lt;center&gt; 0,04%
+|}
+
+=== Temps de croissance avec modificateurs  ===
+{| class="wikitable" | style="text-align: center;"
+! Modificateur !! Temps maturité-flétrissement !! Nombre de Fertipousse requis
+|-
+! Aucun
+| 5 heures -&lt;br&gt; 10 heures || ---
+|-
+! Engrais ou Kwakarroisoir
+| 3 heures 20 mins -&lt;br&gt; 6 heures 40 mins || 40 engrais
+|-
+! Engrais et Kwakarroisoir
+| 2 heures 13 mins 20 secs -&lt;br&gt; 4 heures 26 mins 40 secs || 27 engrais
+|}
+
+== Organigramme ==
+[[File:Palma_-_Graph_découverte.png|350px]]
+&lt;br&gt;
+
+== Stratégie de mutation ==
+=== Formations possibles ===
+
+'''ATTENTION :''' Essayer d'obtenir une Palma par mutation en ayant la Pile équipée peut aboutir à la mutation de la [[Cornn/fr|Siam]] en [[Charti/fr|Charti]].&lt;br&gt;
+
+Vous pouvez remplir votre ferme de la manière suivante pour obtenir des baies Palma. Les cases violettes indiquent où les mutations peuvent avoir lieu.
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation&amp;nbsp;de&amp;nbsp;base
+|-
+| style="width: 50px;" | [[File:Cornn.png|30px]]&lt;br&gt;[[Cornn/fr|Siam]] || style="width: 50px;" | [[File:Cornn.png|30px]]&lt;br&gt;[[Cornn/fr|Siam]] || style="width: 50px;" | [[File:Cornn.png|30px]]&lt;br&gt;[[Cornn/fr|Siam]]
+|-
+| [[File:Cornn.png|30px]]&lt;br&gt;[[Cornn/fr|Siam]] || style="background-color:#9C7D98;" | [[File:Cornn.png|30px]]&lt;br&gt;'''[[Cornn/fr|Siam]]''' || [[File:Cornn.png|30px]]&lt;br&gt;[[Cornn/fr|Siam]]
+|- style="height: 26px;"
+| [[File:Cornn.png|30px]]&lt;br&gt;[[Cornn/fr|Siam]] || [[File:Cornn.png|30px]]&lt;br&gt;[[Cornn/fr|Siam]] || [[File:Cornn.png|30px]]&lt;br&gt;[[Cornn/fr|Siam]]
+|}
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation optimisée
+|-
+| style="width: 50px;" | [[File:Cornn.png|30px]]&lt;br&gt;[[Cornn/fr|Siam]] || style="width: 50px;" | [[File:Cornn.png|30px]]&lt;br&gt;[[Cornn/fr|Siam]] || style="width: 50px;" | [[File:Cornn.png|30px]]&lt;br&gt;[[Cornn/fr|Siam]] || style="width: 50px;" | [[File:Cornn.png|30px]]&lt;br&gt;[[Cornn/fr|Siam]] || style="width: 50px;" | [[File:Cornn.png|30px]]&lt;br&gt;[[Cornn/fr|Siam]]
+|-
+| [[File:Cornn.png|30px]]&lt;br&gt;[[Cornn/fr|Siam]] || style="background-color:#9C7D98;" | [[File:Cornn.png|30px]]&lt;br&gt;'''[[Cornn/fr|Siam]]''' || style="background-color:#9C7D98;" | [[File:Cornn.png|30px]]&lt;br&gt;'''[[Cornn/fr|Siam]]''' || style="background-color:#9C7D98;" | [[File:Cornn.png|30px]]&lt;br&gt;'''[[Cornn/fr|Siam]]''' || [[File:Cornn.png|30px]]&lt;br&gt;[[Cornn/fr|Siam]]
+|- style="height: 26px;"
+| [[File:Cornn.png|30px]]&lt;br&gt;[[Cornn/fr|Siam]] || style="background-color:#9C7D98;" | [[File:Cornn.png|30px]]&lt;br&gt;'''[[Cornn/fr|Siam]]''' || style="background-color:#9C7D98;" | [[File:Cornn.png|30px]]&lt;br&gt;'''[[Cornn/fr|Siam]]''' || style="background-color:#9C7D98;" | [[File:Cornn.png|30px]]&lt;br&gt;'''[[Cornn/fr|Siam]]''' || [[File:Cornn.png|30px]]&lt;br&gt;[[Cornn/fr|Siam]]
+|-
+| [[File:Cornn.png|30px]]&lt;br&gt;[[Cornn/fr|Siam]] || style="background-color:#9C7D98;" | [[File:Cornn.png|30px]]&lt;br&gt;'''[[Cornn/fr|Siam]]''' || style="background-color:#9C7D98;" | [[File:Cornn.png|30px]]&lt;br&gt;'''[[Cornn/fr|Siam]]''' || style="background-color:#9C7D98;" | [[File:Cornn.png|30px]]&lt;br&gt;'''[[Cornn/fr|Siam]]''' || [[File:Cornn.png|30px]]&lt;br&gt;[[Cornn/fr|Siam]]
+|-
+| [[File:Cornn.png|30px]]&lt;br&gt;[[Cornn/fr|Siam]] || [[File:Cornn.png|30px]]&lt;br&gt;[[Cornn/fr|Siam]] || [[File:Cornn.png|30px]]&lt;br&gt;[[Cornn]] || [[File:Cornn.png|30px]]&lt;br&gt;[[Cornn/fr|Siam]] || [[File:Cornn.png|30px]]&lt;br&gt;[[Cornn/fr|Siam]]
+|}
+
+==Utilisations==
+===Mutations===
+
+Les baies Palma peuvent être utilisées pour faire muter les baies suivantes :
+
+{| class="wikitable" | style="text-align: center;"
+|-
+! Utilisée pour !! Plantée avec
+|-
+| [[File:Kebia.png|20px]] [[Kebia/fr|Kébia]] || -
+|-
+| [[File:Payapa.png|20px]] [[Payapa/fr|Yapap]] || [[File:Bluk.png|20px]] [[Bluk/fr|Remu]] &lt;br&gt; [[File:Wiki.png|20px]] [[Wiki/fr|Wiki]] &lt;br&gt; [[File:Cornn.png|20px]] [[Cornn/fr|Siam]]
+|-
+| [[File:Micle.png|20px]] [[Micle/fr|Micle]] || -
+|-
+|}
+
+&lt;br&gt;
+
+{{Berries}}
+
+[[Category:Farm]][[Category:Berries]]</text>
+    <contributor>
+      <username>LuK</username>
+      <id>96</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>24173</parentid>
+    <sha1>4d122788cbe2f1c46d5ea07fdc603f74438acde0</sha1>
+  </revision>
+</page></mediawiki>

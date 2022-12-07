@@ -1,0 +1,56 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Hondew</title>
+  <ns>0</ns>
+  <id>682</id>
+  <revision>
+    <id>7492</id>
+    <timestamp>2020-11-22T14:41:35Z</timestamp>
+    <text space="preserve" bytes="1439">{{Infobox Berry
+|name    = Hondew
+|image   = [[File:Hondew.png]]
+|caption = This somewhat-rare Berry projects an image of luxury, so it is favored as a gift item.
+|growtime  = 3h 0m 0s
+|harvest = 23 berries
+|replant = 20%
+|points = 2,000
+|flavor = {{!}} 10 {{!}} 10 {{!}} 0 {{!}} 10 {{!}} 0
+}}
+'''Hondew''' is a type of [[Berries|Berry]] that can be planted in [[Farm]]. It can be obtained by surrounding an empty plot with exactly 15 points of spicy, dry and bitter and 0 points of all other flavours. The [[Figy]], [[Wiki]] and [[Aguav]] must be unlocked to unlock this berry.
+
+{| class="wikitable"
+|+ Harvest Stages durations
+! Seed !! Sprout !! Taller !! Bloom !! Berry
+|-
+| 0-1000s || 1000-2000s || 2000-5000s || 5000-10800s || 10800-21600s
+|-
+| [[File:AllTreeSeed.png|50px]] || [[File:AllTreeSprout.png|50px]] || [[File:HondewTreeTaller.png|50px]] || [[File:HondewTreeBloom.png|50px]] || [[File:HondewTreeBerry.png|50px]]
+|}
+
+=== Possible Planting Formations ===
+
+You can fill your [[farm]] in following way to obtain Hondew berry.
+
+{| class="wikitable" style="text-align: center;"
+|+ Farm
+|-
+| style="width: 40px;" | || style="width: 40px;" | [[Figy]] || style="width: 40px;" | || style="width: 40px;" | || style="width: 40px;" | [[Figy]]
+|-
+| [[Wiki]] || [[Aguav]] ||  || [[Wiki]] || [[Aguav]] 
+|- style="height: 26px;"
+| || || || || 
+|-
+| || [[Figy]] ||  || || [[Figy]] 
+|-
+| [[Wiki]] || [[Aguav]] ||  || [[Wiki]] || [[Aguav]] 
+|}</text>
+    <contributor>
+      <username>Kirby2729</username>
+      <id>67</id>
+    </contributor>
+    <comment>Created page with "{{Infobox Berry |name    = Hondew |image   = [[File:Hondew.png]] |caption = This somewhat-rare Berry projects an image of luxury, so it is favored as a gift item. |growtime  =..."</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>71d35dd2fb54586c840de466eba83ef3214edf22</sha1>
+  </revision>
+</page></mediawiki>

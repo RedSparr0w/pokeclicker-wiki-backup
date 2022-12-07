@@ -1,0 +1,163 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Pokérus/es</title>
+  <ns>0</ns>
+  <id>4714</id>
+  <revision>
+    <id>30591</id>
+    <timestamp>2022-12-05T14:22:29Z</timestamp>
+    <text space="preserve" bytes="6907">&lt;languages/&gt;
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[File:Charmander_infected.png|thumb|200px|A Shiny Charmander in the Hatchery, infected by Pokérus [[File:Pokerus.png|20px]]]]
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Description==
+'''Pokérus''' is a microscopic life-form that can attach to Pokémon. Your Kanto Starter Pokémon will automatically be infected with Pokérus upon clearing the [[Distortion World]] [[Dungeons|Dungeon]] in [[Sinnoh]] for the first time. Pokérus is a beneficial virus to any Pokémon that catches it. Once a Pokémon is infected by the Pokérus, it may gain Effort Values (EVs), which multiplicatively increase the attack of that Pokémon via the [[Pokérus#EV Damage Multiplier|EV Damage Multiplier]].
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Spreading Pokérus==
+Spreading Pokérus can only occur in the [[Pokémon Day Care]]. Currently, only a Pokémon that fulfill the below conditions are capable of spreading the virus:&lt;br&gt;
+&lt;u&gt;'''''Spreader Requirements'''''&lt;/u&gt;
+#infected with Pokérus, state is ''Contagious'' or ''Cured'' (see [[Pokérus#Pokérus States|Pokérus States]])
+#Not ready to hatch
+#Being bred manually (ie: a hatchery helper is not assisting with its egg)
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Only Pokémon that fulfill the below conditions are capable of contracting the virus: &lt;br&gt;
+&lt;u&gt;'''''Contraction Requirements'''''&lt;/u&gt;
+#Not ready to hatch
+#Share at least one type with a Pokémon that fulfills the "Spreader Requisites"
+#Being bred manually (ie: a hatchery helper is not assisting with its egg)
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+If all of the above conditions are met, an uninfected Pokémon will automatically catch Pokérus upon gaining any number of egg steps. Pokémon in the Hatchery Queue will not catch Pokérus.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Pokérus States==
+There are 4 states of Pokérus as described below.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable"
+! State || Description
+|-
+| None || Base State. Pokémon can contract Pokérus. Pokémon cannot gain EVs.
+|-
+| [[File:Pokérus (Infected).png|20px]] Infected || Pokémon has contracted Pokérus, but has yet to hatch once after contracting the virus. Pokémon cannot gain EVs.
+|-
+| [[File:Pokérus (Contagious).png|20px]] Contagious || Pokémon has contracted Pokérus, and is capable of spreading the virus. Pokémon can gain EVs.
+|-
+| [[File:Pokérus (Resistant).png|20px]] Resistant || Pokémon has contracted Pokérus, and is capable of spreading the virus. Pokémon can gain EVs, and has also accumulated 50 or more EVs.
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Effort Values (EVs)==
+EVs are a damage multiplying stat for each individual Pokémon that can be seen in the Pokédex page for that Pokémon and by using the ''Display Value'' setting in the Hatchery. EVs for a Pokémon can currently only be increased by obtaining that Pokémon again after it has caught the Pokérus. You can gain EVs for a Pokémon by: catching it on a [[Route Statistics|Route]] or a [[Dungeon]], obtaining it as a [[Wandering Pokemon]], or by evolving it using [[Evolution Items]]. [[Breeding]] a Pokémon does not count towards gaining EVs. EV gain is further affected by the [[Rowap|Rowap Berry Aura]]. See [[Farming Setups#Maximizing EV Gain|Farming Setups]] for an optimized EV gain farm setup.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+===Gaining EVs (Methods)===
+Different methods of catching a Pokémon will yield different amounts of EVs. If the [[Challenge Mode|Slow EVs Challenge Mode]] is activated, you will gain EVs at a 10x slower rate (You gain the same amount of EVs, but require 10x as many EVs to yield the same bonus. In some instances, the yield of EVs is further modified by an external factor (see below tables for specific information).
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+====EV Yields====
+{| class="wikitable"
+|+ EV Yields
+! EVs gained || Slow EV Challenge || Catching Method
+|-
+| 0.1 || 0.01 || Wild Pokémon
+|-
+| 1 || 0.1 || [[Evolution Items|Evolution Item]]
+|-
+| 1 || 0.1 || [[Shops|Shop bought Pokémon]]
+|-
+| 1 || 0.1 || [[Safari Zone|Safari Zone Pokémon]]
+|-
+| 0.5 || 0.05 || [[Wandering Pokemon]]
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+====EV Modifiers====
+{| class="wikitable"
+|+ EV Yield Modifiers
+! EV Modifier || Method
+|-
+| 3x || Pokémon is encountered and captured as a [[Dungeons|Dungeon Pokémon]]
+|-
+| 10x || Pokémon is encountered and captured as a [[Dungeons|Dungeon Boss Pokémon]]
+|-
+| 5x || Obtained Pokémon is [[Shiny Chance|Shiny]]. 
+|-
+| 5x || Pokémon is obtained using a [[Repeatball]]
+|-
+| 50x || Pokémon is encountered and captured as a [[Roaming Pokemon]]
+|-
+| Variable || [[Rowap|Rowap Berry Aura]] 
+|}
+'''Note:''' The pokemons that wander to any berry won't get any EV
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+====Examples====
+Example 1: Catching a '''Shiny Dungeon Pokémon''' with a [[Repeatball]] yields: &lt;math&gt;0.1 * 3 * 5 * 5 = 7.5 EVs&lt;/math&gt;&lt;br&gt;&lt;br&gt;
+Example 2: Catching a '''Shiny Roaming Pokémon''' yields: &lt;math&gt;0.1 * 5 * 50 = 25 EVs&lt;/math&gt;&lt;br&gt;&lt;br&gt;
+Example 3: Catching a '''Shiny Roaming Pokémon''' with a [[Repeatball]] yields: &lt;math&gt;0.1 * 5 * 5 * 50 = 125 EVs&lt;/math&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+===EV Damage Multiplier===
+EVs increase the amount of damage that a Pokémon does. EVs multiply the damage indefinitely. If your Pokémon has fewer than 50 EVs, a Pokémon's EV Damage Multiplier increases by 0.01 per EV, and consequently a Pokémon gains 1% extra damage per EV for the first 50 EVs. &lt;br&gt;&lt;br&gt;
+Pokemon that have: contracted Pokérus, have left the hatchery after contracting Pokérus (ie: not ''Infected''), and have gained less than 50 EVs are considered
+&lt;/div&gt; 
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+''Contagious''. However, Pokémon that fulfill all the above conditions but have gained 50 or more EVs are considered
+&lt;/div&gt; 
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+''Resistant''. See [[Pokérus#Pokérus States|Pokérus States]] After gain 50 EV the damage gained have dismissal results
+&lt;/div&gt; 
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable"
+|+EV Attack Bonus at certain benchmarks
+! Effort Value || Pokémon Damage Multiplier
+|-
+| 50 || 1.5x
+|-
+| 802 || 2x
+|-
+| 40,121 || 3x
+|-
+| 643,300 || 4x
+|-
+| 5,540,000 ||5x
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+====EV Formulas====
+'''When a Pokémon has fewer than 50 EVs:''' &lt;br&gt;
+&lt;math&gt;\colorbox{White}{$ \text{EV Damage Multiplier} = 1 + (\text{EV} / 100)$}&lt;/math&gt; &lt;br&gt;&lt;br&gt;
+'''When a Pokémon has greater than 50 EVs:''' &lt;br&gt;
+&lt;math&gt;\colorbox{White}{$ \text{EV Damage Multiplier} = \text{EV} ^ log50(1,5)&lt;/math&gt;
+&lt;/div&gt;</text>
+    <contributor>
+      <username>FuzzyBot</username>
+      <id>133</id>
+    </contributor>
+    <comment>Updating to match new version of source page</comment>
+    <model>wikitext</model>
+    <parentid>16408</parentid>
+    <sha1>de064b41547cbf9d581ad91ee705aee216967285</sha1>
+  </revision>
+</page></mediawiki>

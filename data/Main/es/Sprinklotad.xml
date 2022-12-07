@@ -1,0 +1,55 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Sprinklotad/es</title>
+  <ns>0</ns>
+  <id>4789</id>
+  <revision>
+    <id>16619</id>
+    <timestamp>2022-07-24T22:57:15Z</timestamp>
+    <text space="preserve" bytes="1955">&lt;languages/&gt;
+{{Infobox Oak Item
+|name       = Lotadgadera
+|image      = [[File:Sprinklotad.png]]
+|caption    = Imagen de la ''Lotadgadera''.
+|dex = 0 (Se puede comprar en Ciudad Malvalona en [[Hoenn]] por 10,000 {{farmpoints}})
+|effect     = Aumenta la probabilidad de que tus Bayas se replanten
+}}
+
+La '''Lotadgadera''' es un [[Oak Items|Objeto de Oak]]. Al equiparla aumenta la probabilidad de que las [[Berries|bayas]]  se replanten solas al marchitarse en la [[Farm|granja]]. A diferencia de otros objetos de Oak no se desbloquea capturando pokemon, en su lugar se compra al maestro de bayas de [[Hoenn]] en Ciudad Malvalona. Además para subirla de nivel se necesitan [[Farming Points|puntos de granja]] en lugar de pokédolares.
+
+==Detalles==
+
+{| class="wikitable sortable"
+|-
+! Nivel !! Efecto !! Requisito de Mejora !! Coste de Mejora
+|-
+|0 || +15% probabilidad de replantar || 250 replantes producidos || style="text-align:right" | 2,000 {{farmpoints}}
+|-
+|1 || +30% probabilidad de replantar || 250 replantes producidos || style="text-align:right" | 5,000 {{farmpoints}}
+|-
+|2 || +45% probabilidad de replantar || 750 replantes producidos || style="text-align:right" | 10,000 {{farmpoints}}
+|-
+|3 || +60% probabilidad de replantar || 1250 replantes producidos || style="text-align:right" | 20,000 {{farmpoints}}
+|-
+|4 || +75% probabilidad de replantar || 2500 replantes producidos || style="text-align:right" | 50,000 {{farmpoints}}
+|-
+|5/Max || +90% probabilidad de replantar | N/A || style="text-align:right" | N/A
+|-
+|}
+
+==Estrategia para subir de nivel==
+La experiencia más eficiente para subir de nivel la regadera es equipar la[[Sprayduck|psydugadera]] rodeando 4 Drasi con Zrezas. Puedes ver la formación en [[Farming Setups#Sprinklotad Leveling Strategy|página de formaciones de granja]]
+
+
+&lt;br&gt;{{Oak items}}&lt;br&gt;
+[[Category:Oak Items|Categoría:Objetos de Oak]] [[Category:Items|Categoría:Objetos]] [[Category:Farm|Categoría:granja]]</text>
+    <contributor>
+      <username>Cthulhu Follower</username>
+      <id>51</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>16618</parentid>
+    <sha1>0ae469c497000f4d5839f2efb873c448a964ebb6</sha1>
+  </revision>
+</page></mediawiki>

@@ -1,0 +1,38 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Oran</title>
+  <ns>0</ns>
+  <id>491</id>
+  <revision>
+    <id>6385</id>
+    <timestamp>2020-11-19T03:04:51Z</timestamp>
+    <text space="preserve" bytes="704">{{Infobox Berry
+|name    = Oran
+|image   = [[File:Oran.png]]
+|caption = Nature's gifts came together as one in this Berry. It has a wondrous mix of flavors that spread in the mouth.
+|growtime  = 5m
+|harvest = 8 berries
+|replant = 50%
+|points = 20
+|flavor = {{!}} 10 {{!}} 10 {{!}} 0 {{!}} 10 {{!}} 10
+}}
+
+'''Oran''' is a type of [[Berries|Berry]]. It can be dropped randomly from defeated Pokémon.
+
+{| class="wikitable"
+! Seed !! Sprout !! Taller !! Bloom !! Berry
+|-
+| 0-120s || 120-180s || 180-240s || 240-300s || 300-600s
+|-
+| [[File:AllTreeSeed.png|50px]] || [[File:AllTreeSprout.png|50px]] || [[File:OranTreeTaller.png|50px]] || [[File:OranTreeBloom.png|50px]] || [[File:OranTreeBerry.png|50px]]
+|}</text>
+    <contributor>
+      <username>Catie-cat</username>
+      <id>30</id>
+    </contributor>
+    <comment>Created page with "{{Infobox Berry |name    = Oran |image   = [[File:Oran.png]] |caption = Nature's gifts came together as one in this Berry. It has a wondrous mix of flavors that spread in the..."</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>269d413e37f0aa5abf5e5d48b59a37e0dcb9f2ef</sha1>
+  </revision>
+</page></mediawiki>

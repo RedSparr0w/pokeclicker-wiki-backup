@@ -1,0 +1,56 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Spelon</title>
+  <ns>0</ns>
+  <id>660</id>
+  <revision>
+    <id>7338</id>
+    <timestamp>2020-11-22T13:35:04Z</timestamp>
+    <text space="preserve" bytes="1634">{{Infobox Berry
+|name    = Spelon
+|image   = [[File:Spelon.png]]
+|caption = So spicy is the Spelon Berry that, Fire type or not, Pokémon will try to breathe fire after eating a single one.
+|growtime  = 4h 18m 0s
+|harvest = 30 berries
+|replant = 10%
+|points = 900
+|flavor = {{!}} 30{{!}} 10 {{!}} 0 {{!}} 0 {{!}} 0
+}}
+'''Spelon''' is a type of [[Berries|Berry]] that can be planted in [[Farm]]. It can be obtained by surrounding a [[Tamato]] with at least 130, but no more than 160 points of spicy and no more than 80 points of all other flavours. The [[Tamato]] will then have a chance to mutate into this berry. 
+
+{| class="wikitable"
+|+ Harvest Stages durations
+! Seed !! Sprout !! Taller !! Bloom !! Berry
+|-
+| 0-2000s || 2000-7000s || 7000-12000s || 12000-15480s || 15480-30960s
+|-
+| [[File:AllTreeSeed.png|50px]] || [[File:AllTreeSprout.png|50px]] || [[File:SpelonTreeTaller.png|50px]] || [[File:SpelonTreeBloom.png|50px]] || [[File:SpelonTreeBerry.png|50px]]
+|}
+
+=== Possible Planting Formations ===
+
+You can fill your [[farm]] in following way to obtain Spelon berry.
+
+{| class="wikitable" style="text-align: center;"
+|+ Farm
+|-
+| style="width: 40px;" | [[Tamato]] || style="width: 40px;" | [[Tamato]] || style="width: 40px;" | [[Tamato]] || style="width: 40px;" | [[Tamato]] || style="width: 40px;" | [[Tamato]]
+|-
+| [[Tamato]] || [[Tamato]] || [[Tamato]] || [[Tamato]] || [[Tamato]]
+|- style="height: 26px;"
+| [[Tamato]] || [[Tamato]] || [[Tamato]] || [[Tamato]] || [[Tamato]] 
+|-
+| [[Tamato]] || [[Tamato]] || [[Tamato]] || [[Tamato]] || [[Tamato]]
+|-
+| [[Tamato]] || [[Tamato]] || [[Tamato]] || [[Tamato]] || [[Tamato]]
+|}</text>
+    <contributor>
+      <username>Kirby2729</username>
+      <id>67</id>
+    </contributor>
+    <comment>Created page with "{{Infobox Berry |name    = Spelon |image   = [[File:Spelon.png]] |caption = So spicy is the Spelon Berry that, Fire type or not, Pokémon will try to breathe fire after eating..."</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>7bdf80769d5f967ab3da8d52dec8f8ff346e2033</sha1>
+  </revision>
+</page></mediawiki>

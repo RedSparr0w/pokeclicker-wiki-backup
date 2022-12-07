@@ -1,0 +1,97 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Timerball/fr</title>
+  <ns>0</ns>
+  <id>8451</id>
+  <revision>
+    <id>23474</id>
+    <timestamp>2022-08-12T05:50:30Z</timestamp>
+    <text space="preserve" bytes="2395">&lt;languages/&gt;
+
+{{Infobox Pokéball
+|name       = Chrono Ball
+|image      = [[File:Timerball.png]]
+|caption    = Image en jeu de la ''Chrono Ball''.
+|price      = Variable
+|catchTime  = 1s
+|catchRate = Variable (Augmente avec le nombre de victoire sur route)
+*+0% (0 victoire)
+*+15% (9 920 victoires)
+|location   = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*[[Timerball/fr#Shops|Boutiques]]
+*[[Timerball/fr#Dungeons|Donjons]]
+}}
+
+==Description==
+
+La '''Chrono Ball''' est un type de [[Pokéballs/fr|Ball]]. Elle est automatiquement lancée pour capturer un Pokémon sauvage après l'avoir mis KO s'il s'agit du plus haut type de Ball actif et qu'il vous en reste dans la fenètre de sélection de Poké Ball.
+
+==Détails==
+
+Une Ball spécialisée pour attraper les Pokémon sur les routes que vous avez particulièrement arpentées. Le taux de capture sur une route augmente avec le nombre de Pokémon vaincus. Le taux augmente également dans les Donjons à mesure que le temps passe. Elle capture les Pokémon en 1 seconde.
+
+==Taux==
+
+===Routes===
+
+{| class="wikitable"
+|+ Chrono Ball
+|-
+! Victoire sur Route !! Taux de capture (+%)
+|-
+| 0 || 0 (égal à une Poké Ball)
+|-
+| 4 793 || 5 (égal à une Super Ball)
+|-
+| 7 789 || 10 (égal à une Hyper Ball)
+|-
+| 9 920 || 15
+|}
+
+[[File:Timerball-catchrate-graph.png|Axe X : Victoire sur Route&lt;br&gt;Axe Y : Taux de capture de la Chrono Ball|200px]]
+
+===Donjons===
+
+{| class="wikitable"
+|+ Taux de capture de la Chrono Ball
+|-
+! % de temps restant dans le donjon !! Taux de capture (+%)
+|-
+| 0 || 15
+|-
+| 9,09 || 10 (égal à une Hyper Ball)
+|-
+| 16,67 || 5 (égal à une Super Ball)
+|-
+| 100 || 0 (égal à une Poké Ball)
+|}
+
+[[File:Timerball_Dungeon_Catch_Rate_Graph.png|Axe X : % de temps restant dans le donjon&lt;br&gt;Axe Y : Taux de capture|200px]]
+
+== Acquisition ==
+===Shops===
+{{ItemPrice/head‎|Pokéballs}}
+{{ItemPrice|[[Berry Master/fr#Trades|Doublonville]]|Entre 20 et 40  [[File:Cheri.png|25px]] [[Berries/fr#Gen 1 Berries|Baies Gen 1]] aléatoires&lt;br&gt; Entre 5 et 15 [[File:Persim.png|25px]] [[Berries/fr#Gen 2 Berries|Baies Gen 2]] aléatoires}}
+|}
+|}
+
+===Donjons=== 
+{{Loot/head‎|Pokéballs}}
+{{LootItem|Chargestone Cave|Grotte Électrolithe|Épique}}
+{{LootItem|Victory Road Unova|Route Victoire (Unys)|Épique}}
+{{LootItem|Pokéball Factory|Usine de Poké Balls|Épique}}
+|}
+|}
+
+&lt;br&gt;{{Pokéballs}}&lt;br&gt;
+[[Category:Items]] [[Category:Pokéballs]]</text>
+    <contributor>
+      <username>PetroleVB</username>
+      <id>36</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>23473</parentid>
+    <sha1>6fa2ce75c65d9e9afc35c4686e70d0e382651662</sha1>
+  </revision>
+</page></mediawiki>

@@ -1,0 +1,23 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Template:Lua</title>
+  <ns>10</ns>
+  <id>964</id>
+  <revision>
+    <id>9375</id>
+    <timestamp>2020-12-14T04:05:52Z</timestamp>
+    <text space="preserve" bytes="196">&lt;includeonly&gt;{{#invoke:Lua banner|main}}&lt;/includeonly&gt;&lt;noinclude&gt;
+{{Lua|Module:Lua banner}}
+{{documentation}}
+&lt;!-- Categories go on the /doc subpage and interwikis go on Wikidata. --&gt;
+&lt;/noinclude&gt;</text>
+    <contributor>
+      <username>Liczale</username>
+      <id>20</id>
+    </contributor>
+    <comment>1 revision imported: Here you go Cate &lt;3</comment>
+    <model>wikitext</model>
+    <parentid>9374</parentid>
+    <sha1>dba3962144dacd289dbc34f50fbe0a7bf6d7f2f7</sha1>
+  </revision>
+</page></mediawiki>

@@ -1,0 +1,56 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Razz</title>
+  <ns>0</ns>
+  <id>514</id>
+  <revision>
+    <id>6523</id>
+    <timestamp>2020-11-21T20:48:44Z</timestamp>
+    <text space="preserve" bytes="1291">{{Infobox Berry
+|name    = Razz
+|image   = [[File:Razz.png]]
+|caption = A small hint of spiciness lingers in the red granules surrounding this Berry. Their centers have a dry taste.
+|growtime  = 4m 10s
+|harvest = 7 berries
+|replant = 40%
+|points = 15
+|flavor = {{!}} 10 {{!}} 10 {{!}} 0 {{!}} 0 {{!}} 0
+}}
+'''Razz''' is a type of [[Berries|Berry]] that can be planted in [[Farm]]. It can be obtained by surrounding an empty plot with at least 1 [[Cheri]] and at least 1 [[Leppa]].
+
+{| class="wikitable"
+|+ Harvest Stages durations
+! Seed !! Sprout !! Taller !! Bloom !! Berry
+|-
+| 0-100s || 100-150s || 150-200s || 200-250s || 250-500s
+|-
+| [[File:AllTreeSeed.png|50px]] || [[File:AllTreeSprout.png|50px]] || [[File:RazzTreeTaller.png|50px]] || [[File:RazzTreeBloom.png|50px]] || [[File:RazzTreeBerry.png|50px]]
+|}
+
+=== Possible Planting Formations ===
+
+You can fill your [[farm]] in following way to obtain Razz berry.
+
+{| class="wikitable" style="text-align: center;"
+|+ Farm
+|-
+| style="width: 40px;" | [[Cheri]] || style="width: 40px;" | || style="width: 40px;" | || style="width: 40px;" | [[Cheri]] || style="width: 40px;" | 
+|-
+| || [[Leppa]] ||  ||  || [[Leppa]] 
+|- style="height: 26px;"
+| || || || || 
+|-
+| [[Cheri]] || || || [[Cheri]] || 
+|-
+| || [[Leppa]] ||  ||  || [[Leppa]] 
+|}</text>
+    <contributor>
+      <username>Kirby2729</username>
+      <id>67</id>
+    </contributor>
+    <comment>Created page with "{{Infobox Berry |name    = Razz |image   = [[File:Razz.png]] |caption = A small hint of spiciness lingers in the red granules surrounding this Berry. Their centers have a dry..."</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>5e5c06b516903dd943d9bb74f71351cacce88a9f</sha1>
+  </revision>
+</page></mediawiki>

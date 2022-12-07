@@ -1,0 +1,50 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Sprinklotad</title>
+  <ns>0</ns>
+  <id>504</id>
+  <revision>
+    <id>6467</id>
+    <timestamp>2020-11-21T05:59:44Z</timestamp>
+    <text space="preserve" bytes="1252">{{Infobox Oak Item
+|name       = Sprinklotad
+|image      = [[File:Sprinklotad.png]]
+|caption    = Artwork of the ''Sprinklotad''.
+|dex = 0 (Bought at Mauville City in Hoenn) 
+|effect     = Increases the chance of berry replants
+}}
+
+The '''Sprinklotad''' is a type of [[Oak Items|Oak Item]]. When equipped, it increases the chance of Berries replanting themselves if left to wither in the [[Farm]]. Unlike most other Oak Items, it is not unlocked by capturing unique Pokémon and instead can be bought from the Hoenn Berry Master in Mauville City. It also requires [[Farming Points]] to upgrade instead of Pokédollars.
+
+==Details==
+
+{| class="wikitable sortable"
+|-
+! Level !! Effect !! Upgrade Requirement !! Upgrade Cost
+|-
+|0 || +15% to mutation rate || 250 replants triggered || 2,000 Farming Points
+|-
+|1 || +30% to mutation rate || 250 replants triggered || 5,000 Farming Points
+|-
+|2 || +45% to mutation rate || 750 replants triggered || 10,000 Farming Points
+|-
+|3 || +60% to mutation rate || 1250 replants triggered || 20,000 Farming Points
+|-
+|4 || +75% to mutation rate || 2500 replants triggered || 50,000 Farming Points
+|-
+|5/Max || +90% to mutation rate || N/A || N/A
+|-
+|}
+
+&lt;br&gt;{{Oak items}}&lt;br&gt;
+[[Category:Oak Items]] [[Category:Items]]</text>
+    <contributor>
+      <username>Adrian.Lew</username>
+      <id>29</id>
+    </contributor>
+    <comment>Sprinklotad page, first draft. Upgrade Requirements may not be accurate</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>2ebe8fe552c7132bd31a017af25dbd8c1a1781dd</sha1>
+  </revision>
+</page></mediawiki>

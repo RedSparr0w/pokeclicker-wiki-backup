@@ -1,0 +1,92 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Lansat/en</title>
+  <ns>0</ns>
+  <id>6753</id>
+  <revision>
+    <id>30810</id>
+    <timestamp>2022-12-05T14:26:41Z</timestamp>
+    <text space="preserve" bytes="2917">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #66 Lansat
+|image   = [[File:Lansat.png]]
+|caption = This is said to be a legendary Berry. Holding it supposedly brings great joy.
+|growtime  = 24h 0m 0s
+|harvest = 0.5 berries
+|replant = 0%
+|mutation = 0.001%
+|points = 15,000
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*30 spicy 
+*10 dry
+*30 sweet
+*10 bitter
+*30 sour
+}}
+
+'''Lansat''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by having at least one empty plot and at least 23 [[Roseli]] on the field. Pokémon #483 (Dialga) must be caught to unlock this berry.
+
+== Growth Tables ==
+=== Growth Stages ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 3 hours || 6 hours || 12 hours || 1 day - 5 days
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:LansatTreeTaller.png|50px]] || &lt;center&gt; [[File:LansatTreeBloom.png|50px]] || &lt;center&gt; [[File:LansatTreeBerry.png|50px]]
+|}
+
+==== Ripening Time with Modifiers  ====
+{| class="wikitable" | style="text-align: center;"
+! Modifier !! Ripe-Wither Time !! Boost Mulch Needed to Ripen
+|-
+! None
+| 1 day -&lt;br&gt; 5 days || &lt;center&gt; ---
+|-
+! Mulch or Sprayduck
+| 16 hours -&lt;br&gt; 80 hours || &lt;center&gt; 192 mulch
+|-
+! Mulch &amp; Sprayduck
+| 10 hours 40 mins -&lt;br&gt; 53 hours 20 mins || &lt;center&gt; 128 mulch
+|}
+
+== Flow Chart ==
+[[File:Lansat_Flow_Chart.png|350px]]
+&lt;br&gt;
+
+== Mutation Strategy ==
+=== Possible Planting Formations ===
+
+You can fill your farm in the following way to obtain Lansat berries. Purple squares indicate where mutations can occur.
+
+{| class="wikitable" style="text-align: center;"
+|+ Farm
+|-
+| style="width: 50px;" | [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || style="width: 50px;" | [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || style="width: 50px;" | [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || style="width: 50px;" | [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || style="width: 50px;" | [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]]
+|-
+| [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]]
+|-
+| [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]]
+|-
+| [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]]
+|-
+| [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]] || [[File:Roseli.png|30px]]&lt;br&gt;[[Roseli]]
+|}
+
+&lt;br&gt;
+
+{{Berries}}
+
+[[Category:Farm]][[Category:Berries]]</text>
+    <contributor>
+      <username>FuzzyBot</username>
+      <id>133</id>
+    </contributor>
+    <comment>Updating to match new version of source page</comment>
+    <model>wikitext</model>
+    <parentid>19570</parentid>
+    <sha1>65e9fad95033ef149ba1664b14cf704cf5db1328</sha1>
+  </revision>
+</page></mediawiki>

@@ -1,0 +1,59 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Sprout Tower</title>
+  <ns>0</ns>
+  <id>321</id>
+  <revision>
+    <id>4739</id>
+    <timestamp>2020-10-16T15:25:49Z</timestamp>
+    <text space="preserve" bytes="660">{{Infobox dungeon
+|name    = Sprout Tower
+|image   = [[File:Sprout Tower.png]]
+|caption = An outside view of Sprout Tower.
+|tokens  = 2500
+|location = Directly east of Violet City
+}}
+'''Sprout Tower''' is a dungeon in [[Johto]].
+
+==Details==
+
+===Dungeon Stats===
+
+{| class="wikitable"
+|-
+! Pokémon !! Base Health (Pokémon) !! Base Health (Boss) !! Egg Steps Given
+|-
+| General || 56,735 || 240,000 || 5
+|}
+
+===Pokémon===
+
+* Ratatta
+* Gastly
+* Hoothoot
+* Bellsprout (boss)
+
+===Items===
+
+{| class="wikitable"
+|-
+! Chest Item !! Chance to Find
+|-
+| [[X Attack|xAttack]] || 50%
+|-
+| [[XClick|xClick]] || 25%
+|-
+| [[Item Magnet]] || 25%
+|}
+
+[[Category:Dungeons]]</text>
+    <contributor>
+      <username>Catie-cat</username>
+      <id>30</id>
+    </contributor>
+    <comment>Fixed egg steps</comment>
+    <model>wikitext</model>
+    <parentid>4738</parentid>
+    <sha1>44ed1d4b5493d989b86ca4b1f94fa81540a86645</sha1>
+  </revision>
+</page></mediawiki>

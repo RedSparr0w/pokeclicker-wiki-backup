@@ -1,0 +1,95 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Leppa/en</title>
+  <ns>0</ns>
+  <id>5797</id>
+  <revision>
+    <id>18614</id>
+    <timestamp>2022-07-29T07:57:57Z</timestamp>
+    <text space="preserve" bytes="2170">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #06 Leppa
+|image   = [[File:Leppa.png]]
+|caption = It takes longer to grow than Berries such as [[Cheri]]. The smaller Berries taste better.
+|growtime  = 4m
+|harvest = 7 berries
+|replant = 50%
+|points = 10
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*10 spicy 
+*0 dry
+*10 sweet
+*10 bitter
+*10 sour
+}}
+
+'''Leppa''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]] to obtain [[Farming Points|Farm Points]]. It can be obtained as a random drop by defeating wild Pokémon on routes.
+
+{| class="wikitable" | style = "image-rendering: pixelated"
+|+ Growth Stages
+! !! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 1 mins 40 secs || 2 mins || 2 mins 20 secs || 4 mins - 8 mins
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:LeppaTreeTaller.png|50px]] || &lt;center&gt; [[File:LeppaTreeBloom.png|50px]] || &lt;center&gt; [[File:LeppaTreeBerry.png|50px]]
+|}
+
+{| class="wikitable collapsible" | style="text-align: center;"
+|+ Ripening Time with Modifiers
+! Modifier !! Ripe-Wither Time
+|-
+! None
+| 4 mins -&lt;br&gt; 8 mins
+|-
+! Sprayduck
+| 2 mins 40 secs -&lt;br&gt; 5 mins 20 secs
+|}
+
+== Flow Chart ==
+[[File:Leppa_Flow_Chart.png|100px]]
+
+==Uses==
+===Mutations===
+
+Leppa berries can be used to mutate the following berries.
+
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Razz.png|20px]] [[Razz]] || [[File:Cheri.png|20px]] [[Cheri]]
+|-
+| [[File:Bluk.png|20px]] [[Bluk]] || [[File:Chesto.png|20px]] [[Chesto]]
+|-
+| [[File:Lum.png|20px]] [[Lum]] || [[File:Cheri.png|20px]] [[Cheri]] &lt;br&gt; [[File:Chesto.png|20px]] [[Chesto]] &lt;br&gt; [[File:Pecha.png|20px]] [[Pecha]] &lt;br&gt; [[File:Rawst.png|20px]] [[Rawst]] &lt;br&gt; [[File:Aspear.png|20px]] [[Aspear]] &lt;br&gt; [[File:Oran.png|20px]] [[Oran]] &lt;br&gt; [[File:Sitrus.png|20px]] [[Sitrus]]
+|-
+| [[File:Cornn.png|20px]] [[Cornn]] || [[File:Bluk.png|20px]] [[Bluk]] &lt;br&gt; [[File:Wiki.png|20px]] [[Wiki]]
+|-
+|}
+
+==Acquisition==
+===Dungeons===
+{{Loot/head‎|Berries}}
+{{LootItem|Rock Tunnel|Common}}
+{{LootItem|Berry Forest|Common}}
+{{LootItem|Ruins of Alph|Common}}
+|}
+|}
+
+&lt;br&gt;
+
+{{Berries}}
+
+[[Category:Farm]][[Category:Berries]]</text>
+    <contributor>
+      <username>FuzzyBot</username>
+      <id>133</id>
+    </contributor>
+    <comment>Updating to match new version of source page</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>b97f27c7f40fea0ec57f0ebaf0039364f78d63ab</sha1>
+  </revision>
+</page></mediawiki>
