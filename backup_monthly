@@ -8,6 +8,9 @@ rm /pokeclicker-wiki-backup/data-dump-images -r
 # Generate our new data
 dumpgenerator --images --api=https://pokeclicker.miraheze.org/w/api.php --path=/pokeclicker-wiki-backup/data-dump-images
 
+# Get any changes from GitHub
+git pull
+
 # Delete our old images
 rm /pokeclicker-wiki-backup/images -r
 

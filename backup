@@ -8,6 +8,9 @@ rm /pokeclicker-wiki-backup/data-dump -r
 # Generate our new data
 dumpgenerator --xmlrevisions --xml --api=https://pokeclicker.miraheze.org/w/api.php --path=/pokeclicker-wiki-backup/data-dump
 
+# Get any changes from GitHub
+git pull
+
 # Delete our old data
 rm /pokeclicker-wiki-backup/data -r
 
