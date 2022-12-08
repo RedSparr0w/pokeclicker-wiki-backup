@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>201</id>
   <revision>
-    <id>3508</id>
-    <timestamp>2022-06-08T08:11:20Z</timestamp>
-    <text space="preserve" bytes="1615">[[File:Battlepoints.png|thumb|200px|A Battle Point]]
+    <id>32711</id>
+    <timestamp>2022-12-07T17:08:20Z</timestamp>
+    <text space="preserve" bytes="1797">[[File:Battlepoints.png|thumb|200px|A Battle Point]]
 
 ==Description==
 '''Battle Points''' are the red currency earned from the [[Battle Frontier]] that are currently used to buy items from the [[Shops#Battle Frontier|Battle Frontier Shop]] and a Furfrou from [[Shops#Friseur Furfrou|Friseur Furfrou]]'s shop in [[Kalos]].
@@ -40,6 +40,13 @@ Battle Points can be used to purchase the following:
 |[[File:HHNoel.png|15px]][[Hatchery Helper|Hatchery Helper Noel]] || {{Battlepoints}} 20,000
 |}
 
+===Evolution Items===
+{| class="wikitable sortable"
+|-
+! Item !! Price !! Shop
+|-
+|[[File:Key Stone.png|15px]][[Key Stone]] || {{Battlepoints}} 25,000 ||[[Shops|Shalour City Shop]]
+
 ===Shopmon===
 {| class="wikitable sortable style="text-align: center;"
 |-
@@ -50,12 +57,12 @@ Battle Points can be used to purchase the following:
 
 [[Category:Currencies]]</text>
     <contributor>
-      <username>SwitchRoot</username>
-      <id>24</id>
+      <username>DraKay</username>
+      <id>18</id>
     </contributor>
-    <comment>/* Shopmon */</comment>
+    <comment>/* Battle Frontier Shop */</comment>
     <model>wikitext</model>
-    <parentid>3507</parentid>
-    <sha1>c5ad816e2c9c70d89674dee70979f9a398352820</sha1>
+    <parentid>3508</parentid>
+    <sha1>28a9987c4fba405fb40dd73c62afa8e815004c33</sha1>
   </revision>
 </page></mediawiki>

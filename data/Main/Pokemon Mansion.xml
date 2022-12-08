@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>317</id>
   <revision>
-    <id>4670</id>
-    <timestamp>2022-07-30T04:44:09Z</timestamp>
-    <text space="preserve" bytes="3807">{{Infobox dungeon
+    <id>32900</id>
+    <timestamp>2022-12-08T02:27:54Z</timestamp>
+    <text space="preserve" bytes="3816">{{Infobox dungeon
 |name    = Pokémon Mansion
 |image   = [[File:Pokemon Mansion.png|thumb]]
 |caption = An overhead map of the Pokémon Mansion.
@@ -56,7 +56,8 @@ The '''Pokémon Mansion''' is a [[Dungeons|dungeon]] in [[Kanto]]. It has 25 til
 
 ==Items==
 
-===No Debuff===
+&lt;tabs&gt;
+&lt;tab name="No Debuff"&gt;
 
 {| class="wikitable"
 |-
@@ -86,12 +87,12 @@ The '''Pokémon Mansion''' is a [[Dungeons|dungeon]] in [[Kanto]]. It has 25 til
 |-
 | {{Bag2|Max Revive}} || N/A || 0.01% || 0.22% || 1.06%
 |}
+&lt;/tab&gt;
 
-===Debuff Drop Table===
-
+&lt;tab name="Debuff"&gt;
 After Reaching Sinnoh, the drop chance for items in Kanto will be debuffed for any loot with a Tier rarer than Rare (ie: Epic, Legendary, Mythic).
 
-{| class="wikitable collapsible collapsed"
+{| class="wikitable"
 |-
 ! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
 |-
@@ -119,6 +120,8 @@ After Reaching Sinnoh, the drop chance for items in Kanto will be debuffed for a
 |-
 | {{Bag2|Max Revive}} || N/A || &lt;0.01% || &lt;0.01% || &lt;0.01%
 |}
+&lt;/tab&gt;
+&lt;/tabs&gt;
 
 {{Kanto Dungeons}}
 
@@ -127,9 +130,9 @@ After Reaching Sinnoh, the drop chance for items in Kanto will be debuffed for a
       <username>ThePantMan</username>
       <id>8</id>
     </contributor>
-    <comment>/* Debuff Drop Table */</comment>
+    <comment>/* Tabs */</comment>
     <model>wikitext</model>
-    <parentid>4669</parentid>
-    <sha1>e3856255b52dda33c04ff2f9fe46cb33b7a95f3f</sha1>
+    <parentid>4670</parentid>
+    <sha1>0fcdc9928d0e3cecafc6a179df3555e960f4af49</sha1>
   </revision>
 </page></mediawiki>

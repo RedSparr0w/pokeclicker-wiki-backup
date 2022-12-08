@@ -1,12 +1,12 @@
 <mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
 <page>
   <title>Translations:Beastball/6/en</title>
-  <ns>0</ns>
-  <id>8277</id>
+  <ns>1198</ns>
+  <id>12002</id>
   <revision>
-    <id>23174</id>
-    <timestamp>2022-08-11T05:02:35Z</timestamp>
-    <text space="preserve" bytes="374">The '''Beastball''' is a type of [[Pokéballs|Pokéball]] that is used solely to catch Ultra Beasts. Any Beastballs in the player’s inventory will be used to catch any encountered wild Ultra Beasts if it is set to caught, caught shiny, new or new shiny. If any ball is set to "caught", Beastballs will always be thrown at Ultra Beasts even if said ball is not a Beastball.</text>
+    <id>32717</id>
+    <timestamp>2022-12-07T17:19:43Z</timestamp>
+    <text space="preserve" bytes="200">The '''Beastball''' is a type of [[Pokéballs|Pokéball]] that is used solely to catch Ultra Beasts. It will attempt to catch an Ultra Beast according to the player's current Pokéball selector setup.</text>
     <contributor>
       <username>FuzzyBot</username>
       <id>133</id>
@@ -14,6 +14,6 @@
     <comment>Importing a new version from external source</comment>
     <model>wikitext</model>
     <parentid>0</parentid>
-    <sha1>ddd2fb6f638c5a348c9f2e5bfd81761c8f1bed8d</sha1>
+    <sha1>d7a3a77d028287d34bd2ba91eff393840c71a0e8</sha1>
   </revision>
 </page></mediawiki>

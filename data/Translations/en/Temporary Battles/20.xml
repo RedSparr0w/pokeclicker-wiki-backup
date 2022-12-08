@@ -1,0 +1,165 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Translations:Temporary Battles/20/en</title>
+  <ns>1198</ns>
+  <id>12085</id>
+  <revision>
+    <id>32867</id>
+    <timestamp>2022-12-07T22:38:17Z</timestamp>
+    <text space="preserve" bytes="5144">These battles change depending on the player's chosen starter:
+&lt;tabs&gt;
+&lt;tab name="Chespin"&gt;
+{| class="wikitable collapsible" style="text-align: center;"
+|-
+! Requirement !! Location !! Trainer !! Min. Attack !! Pokémon !! HP !! Weakness
+|-
+| {{#arrayprint:Shauna_1_Base_Encounters}} || Froakie [[File:Froakie.png|25px]] || 24,906,504 || (x4) Grass, Electric
+|-
+| {{#arrayprint:Calem_1_Base_Encounters}}
+|-
+| Braixen [[File:Braixen.png|25px]] || 41,888,812 || (x4) Ground, Rock, Water
+|-
+| {{#arrayprint:Calem_2_Base_Encounters}}
+|-
+| Braixen [[File:Braixen.png|25px]] || 54,231,360 || (x4) Ground, Rock, Water
+|-
+| {{#arrayprint:Calem_3_Base_Encounters}}
+|-
+| Delphox [[File:Delphox.png|25px]] || 67,476,604 || (x2) Ground, Rock, Ghost, Water, Dark
+|-
+| {{#arrayprint:Calem_4_Base_Encounters}}
+|-
+| Jolteon [[File:Jolteon.png|25px]] || 61,391,150 || (x4) Ground
+|-
+| Delphox [[File:Delphox.png|25px]] || 63,846,796 || (x2) Ground, Rock, Ghost, Water, Dark
+|-
+| {{#arrayprint:Shauna_2_Base_Encounters}}
+|-
+| Greninja [[File:Greninja.png|25px]] || 94,497,751 || (x2) Fighting, Bug, Grass, Electric, Fairy
+|-
+| {{#arrayprint:Calem_5-1_Base_Encounters}}
+|-
+| Jolteon [[File:Jolteon.png|25px]] || 67,294,391 || (x4) Ground
+|-
+| {{#arrayprint:Calem_5-2_Base_Encounters}}
+|-
+| Delphox [[File:Delphox.png|25px]] || 76,407,173 || (x2) Ground, Rock, Ghost, Water, Dark
+|-
+| {{#arrayprint:Calem_6-1_Base_Encounters}}
+|-
+| Jolteon [[File:Jolteon.png|25px]] || 99,137,044 || (x4) Ground
+|-
+| {{#arrayprint:Calem_6-2_Base_Encounters}}
+|-
+| Delphox [[File:Delphox.png|25px]] || 105,685,546 || (x2) Ground, Rock, Ghost, Water, Dark
+|-
+| {{#arrayprint:Calem_6-3_Base_Encounters}}
+|}
+&lt;/tab&gt;
+&lt;tab name="Fennekin"&gt;
+{| class="wikitable collapsible" style="text-align: center;"
+|-
+! Requirement !! Location !! Trainer !! Min. Attack !! Pokémon !! HP !! Weakness
+|-
+| {{#arrayprint:Shauna_1_Base_Encounters}} || Chespin [[File:Chespin.png|25px]] || 24,906,504 || (x4) Flying, Poison, Bug, Fire, Ice
+|-
+| {{#arrayprint:Calem_1_Base_Encounters}}
+|-
+| Frogadier [[File:Frogadier.png|25px]] || 41,888,812 || (x4) Grass, Electric
+|-
+| {{#arrayprint:Calem_2_Base_Encounters}}
+|-
+| Frogadier [[File:Frogadier.png|25px]] || 54,231,360 || (x4) Grass, Electric
+|-
+| {{#arrayprint:Calem_3_Base_Encounters}}
+|-
+| Greninja [[File:Greninja.png|25px]] || 67,476,604 || (x2) Fighting, Bug, Grass, Electric, Fairy
+|-
+| {{#arrayprint:Calem_4_Base_Encounters}}
+|-
+| Flareon [[File:Flareon.png|25px]] || 61,391,150 || (x4) Ground, Rock, Water
+|-
+| Greninja [[File:Greninja.png|25px]] || 63,846,796 || (x2) Fighting, Bug, Grass, Electric, Fairy
+|-
+| {{#arrayprint:Shauna_2_Base_Encounters}}
+|-
+| Chesnaught [[File:Chesnaught.png|25px]] || 94,497,751 || (x4) Flying &lt;br&gt; (x2) Poison, Fire, Psychic, Ice, Fairy
+|-
+| {{#arrayprint:Calem_5-1_Base_Encounters}}
+|-
+| Flareon [[File:Flareon.png|25px]] || 67,294,391 || (x4) Ground, Rock, Water
+|-
+| {{#arrayprint:Calem_5-2_Base_Encounters}}
+|-
+| Greninja [[File:Greninja.png|25px]] || 76,407,173 || (x2) Fighting, Bug, Grass, Electric, Fairy
+|-
+| {{#arrayprint:Calem_6-1_Base_Encounters}}
+|-
+| Flareon [[File:Flareon.png|25px]] || 99,137,044 || (x4) Ground, Rock, Water
+|-
+| {{#arrayprint:Calem_6-2_Base_Encounters}}
+|-
+| Greninja [[File:Greninja.png|25px]] || 105,685,546 || (x2) Fighting, Bug, Grass, Electric, Fairy
+|-
+| {{#arrayprint:Calem_6-3_Base_Encounters}}
+|}
+&lt;/tab&gt;
+&lt;tab name="Froakie"&gt;
+{| class="wikitable collapsible" style="text-align: center;"
+|-
+! Requirement !! Location !! Trainer !! Min. Attack !! Pokémon !! HP !! Weakness
+|-
+| {{#arrayprint:Shauna_1_Base_Encounters}} || Fennekin [[File:Fennekin.png|25px]] || 24,906,504 || (x4) Ground, Rock, Water
+|-
+| {{#arrayprint:Calem_1_Base_Encounters}}
+|-
+| Quilladin [[File:Quilladin.png|25px]] || 41,888,812 || (x4) Flying, Poison, Bug, Fire, Ice
+|-
+| {{#arrayprint:Calem_2_Base_Encounters}}
+|-
+| Quilladin [[File:Quilladin.png|25px]] || 54,231,360 || (x4) Flying, Poison, Bug, Fire, Ice
+|-
+| {{#arrayprint:Calem_3_Base_Encounters}}
+|-
+| Chesnaught [[File:Chesnaught.png|25px]] || 67,476,604 || (x4) Flying &lt;br&gt; (x2) Poison, Fire, Psychic, Ice, Fairy
+|-
+| {{#arrayprint:Calem_4_Base_Encounters}}
+|-
+| Vaporeon [[File:Vaporeon.png|25px]] || 61,391,150 || (x4) Grass, Electric
+|-
+| Chesnaught [[File:Chesnaught.png|25px]] || 63,846,796 || (x4) Flying &lt;br&gt; (x2) Poison, Fire, Psychic, Ice, Fairy
+|-
+| {{#arrayprint:Shauna_2_Base_Encounters}}
+|-
+| Delphox [[File:Delphox.png|25px]] || 94,497,751 || (x2) Ground, Rock, Ghost, Water, Dark
+|-
+| {{#arrayprint:Calem_5-1_Base_Encounters}}
+|-
+| Vaporeon [[File:Vaporeon.png|25px]] || 67,294,391 || (x4) Grass, Electric
+|-
+| {{#arrayprint:Calem_5-2_Base_Encounters}}
+|-
+| Chesnaught [[File:Chesnaught.png|25px]] || 76,407,173 || (x4) Flying &lt;br&gt; (x2) Poison, Fire, Psychic, Ice, Fairy
+|-
+| {{#arrayprint:Calem_6-1_Base_Encounters}}
+|-
+| Vaporeon [[File:Vaporeon.png|25px]] || 99,137,044 || (x4) Grass, Electric
+|-
+| {{#arrayprint:Calem_6-2_Base_Encounters}}
+|-
+| Chesnaught [[File:Chesnaught.png|25px]] || 105,685,546 || (x4) Flying &lt;br&gt; (x2) Poison, Fire, Psychic, Ice, Fairy
+|-
+| {{#arrayprint:Calem_6-3_Base_Encounters}}
+|}
+&lt;/tab&gt;
+&lt;/tabs&gt;</text>
+    <contributor>
+      <username>FuzzyBot</username>
+      <id>133</id>
+    </contributor>
+    <comment>Importing a new version from external source</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>086008f9931a3003e54def1bcab0feae4eb76e49</sha1>
+  </revision>
+</page></mediawiki>

@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>4406</id>
   <revision>
-    <id>15637</id>
-    <timestamp>2022-07-30T04:44:36Z</timestamp>
-    <text space="preserve" bytes="4498">{{Infobox dungeon
+    <id>32902</id>
+    <timestamp>2022-12-08T02:29:50Z</timestamp>
+    <text space="preserve" bytes="4507">{{Infobox dungeon
 |name    = Berry Forest
 |image   = [[File:Berry Forest.png|thumb]]
 |caption = A map of Berry Forest.
@@ -70,7 +70,8 @@
 
 ==Items==
 
-===No Debuff===
+&lt;tabs&gt;
+&lt;tab name="No Debuff"&gt;
 
 {| class="wikitable"
 |-
@@ -120,12 +121,12 @@
 |-
 | {{Bag2|Lum}} || N/A || 0% || 0% || 1.10% || 400 Clears
 |}
+&lt;/tab&gt;
 
-===Debuff Drop Table===
-
+&lt;tab name="Debuff"&gt;
 After Reaching Sinnoh, the drop chance for items in Kanto will be debuffed for any loot with a Tier rarer than Rare (ie: Epic, Legendary, Mythic).
 
-{| class="wikitable collapsible collapsed"
+{| class="wikitable"
 |-
 ! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears !! Requirement 
 |-
@@ -173,6 +174,8 @@ After Reaching Sinnoh, the drop chance for items in Kanto will be debuffed for a
 |-
 | {{Bag2|Lum}} || N/A || 0% || 0% || &lt;0.01% || 400 Clears
 |}
+&lt;/tab&gt;
+&lt;/tabs&gt;
 
 {{Kanto Dungeons}}
 
@@ -181,9 +184,9 @@ After Reaching Sinnoh, the drop chance for items in Kanto will be debuffed for a
       <username>ThePantMan</username>
       <id>8</id>
     </contributor>
-    <comment>/* Debuff Drop Table */</comment>
+    <comment>/* Tabs */</comment>
     <model>wikitext</model>
-    <parentid>15636</parentid>
-    <sha1>8372ed8be8da409ac32646d84264a6f99f84bf39</sha1>
+    <parentid>15637</parentid>
+    <sha1>47141c79f28f059611a291d1a5796f84366e708c</sha1>
   </revision>
 </page></mediawiki>

@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>8283</id>
   <revision>
-    <id>23180</id>
-    <timestamp>2022-08-11T05:02:38Z</timestamp>
-    <text space="preserve" bytes="1052">&lt;languages/&gt;
+    <id>32724</id>
+    <timestamp>2022-12-07T17:19:47Z</timestamp>
+    <text space="preserve" bytes="1295">&lt;languages/&gt;
 
 {{Infobox Pokéball
 |name       = Beastball
@@ -21,11 +21,13 @@
 
 ==Description==
 
-The '''Beastball''' is a type of [[Pokéballs|Pokéball]] that is used solely to catch Ultra Beasts. Any Beastballs in the player’s inventory will be used to catch any encountered wild Ultra Beasts if it is set to caught, caught shiny, new or new shiny. If any ball is set to "caught", Beastballs will always be thrown at Ultra Beasts even if said ball is not a Beastball.
+The '''Beastball''' is a type of [[Pokéballs|Pokéball]] that is used solely to catch Ultra Beasts. It will attempt to catch an Ultra Beast according to the player's current Pokéball selector setup.
 
 ==Details==
 
 A specialized Pokéball to capture Pokémon with, it can catch Ultra Beasts. Beastballs can't capture wild pokémons other than the Ultra Beasts.
+
+When Ultra Ball is equipped player will only catch Ultra Beast and the rest of Pokémon will be ignored. Also not other ball will be used against Ultra Beast. For example if the player have selected Ultra Ball for already catched pokemons and Master Ball for new shines if player finds a common Kartana it will be catched with the Ultra Ball but if they find a shiny kartana it won't be catched and will be ignored.
 
 ==Acquisition==
 ===Shops===
@@ -44,7 +46,7 @@ A specialized Pokéball to capture Pokémon with, it can catch Ultra Beasts. Bea
     </contributor>
     <comment>Updating to match new version of source page</comment>
     <model>wikitext</model>
-    <parentid>0</parentid>
-    <sha1>e53d9cf4827571f76f140e25cb72e73f3f5c000a</sha1>
+    <parentid>23180</parentid>
+    <sha1>06ca2a518e198488f8b227e8ac6ef78784d9bd5c</sha1>
   </revision>
 </page></mediawiki>

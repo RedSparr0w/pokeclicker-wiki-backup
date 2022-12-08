@@ -4,9 +4,10 @@
   <ns>10</ns>
   <id>9272</id>
   <revision>
-    <id>25122</id>
-    <timestamp>2022-08-20T21:24:29Z</timestamp>
-    <text space="preserve" bytes="161">&lt;span style="width: 40px;"|&gt; [[File:{{{1}}}.png|30px|{{{1}}}|link={{{1}}}]] [[{{{1}}}|{{{2|{{{1}}}}}}]]&lt;/span&gt;
+    <id>32790</id>
+    <timestamp>2022-12-07T20:08:35Z</timestamp>
+    <text space="preserve" bytes="114">[[File:{{{1}}}.png|{{#if:{{{2|}}}|{{{2}}}|30}}px]] [[{{{1}}}]]
+
 &lt;noinclude&gt;[[Category:Link templates]]&lt;/noinclude&gt;</text>
     <contributor>
       <username>FuzzyBot</username>
@@ -14,7 +15,7 @@
     </contributor>
     <comment>Updating to match new version of source page</comment>
     <model>wikitext</model>
-    <parentid>0</parentid>
-    <sha1>ce3ab8bbf050bdf6fbf4aa58ae56932a9c7d0b7c</sha1>
+    <parentid>32787</parentid>
+    <sha1>dbd79699d24bd22eaef113674f2632c02d2d1b5c</sha1>
   </revision>
 </page></mediawiki>

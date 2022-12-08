@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>1785</id>
   <revision>
-    <id>10726</id>
-    <timestamp>2022-07-25T17:17:27Z</timestamp>
-    <text space="preserve" bytes="28911">&lt;languages/&gt;
+    <id>32306</id>
+    <timestamp>2022-12-07T12:28:38Z</timestamp>
+    <text space="preserve" bytes="28929">&lt;languages/&gt;
 &lt;translate&gt;
 &lt;!--T:1--&gt;
 {{Infobox battle item
@@ -69,7 +69,8 @@ For example, let's say I am trying to defeat Champion Wallace in Hoenn. While th
 &lt;!--T:19--&gt;
 Additional Breeding Queue slots can be obtained by progressing to the next region.
 
-===Hatchery Queue Slots=== &lt;!--T:20--&gt;
+&lt;!--T:20--&gt;
+===Hatchery Queue Slots===
 {| class="wikitable sortable" style
 |-
 ! Region !! Number of Breeding Queue Slots
@@ -87,6 +88,8 @@ Additional Breeding Queue slots can be obtained by progressing to the next regio
 | Kalos || 64
 |-
 | Alola || 96
+|-
+| Galar || 128
 |}
 
 =Farm Strategies= &lt;!--T:21--&gt;
@@ -275,7 +278,8 @@ Combines Chople + Lum with a Petaya for a longer duration boost.
 | [[File:Chople.png|30px]]&lt;br&gt;[[Chople]] || [[File:Chople.png|30px]]&lt;br&gt;[[Chople]] || [[File:Chople.png|30px]]&lt;br&gt;[[Chople]] || [[File:Chople.png|30px]]&lt;br&gt;[[Chople]] || [[File:Chople.png|30px]]&lt;br&gt;[[Chople]]
 |}
 
-===== Timing Table ===== &lt;!--T:47--&gt;
+&lt;!--T:47--&gt;
+===== Timing Table =====
 {| class="collapsible wikitable"| style="text-align: center;"
 |+ ''All planting times use the time-to-ripe remaining of the first planted berry for subsequent planting times''
 ! Berry !! Planting Time with &lt;br&gt; No Modifier !! Planting Time with &lt;br&gt; Mulch/Sprayduck || Planting Time with &lt;br&gt;  Mulch*Sprayduck
@@ -308,7 +312,8 @@ This strategy combines Chople + Babiri and Chople + Petaya, utilizing the effect
 | [[File:Chople.png|30px]]&lt;br&gt;[[Chople]] || [[File:Chople.png|30px]]&lt;br&gt;[[Chople]] || [[File:Chople.png|30px]]&lt;br&gt;[[Chople]] || [[File:Chople.png|30px]]&lt;br&gt;[[Chople]] || [[File:Chople.png|30px]]&lt;br&gt;[[Chople]]
 |}
 
-===== Timing Table ===== &lt;!--T:51--&gt;
+&lt;!--T:51--&gt;
+===== Timing Table =====
 {| class="collapsible wikitable"| style="text-align: center;"
 |+ ''All planting times use the time-to-ripe remaining of the first planted berry for subsequent planting times''
 ! Berry !! Planting Time with &lt;br&gt; No Modifier !! Planting Time with &lt;br&gt; Mulch/Sprayduck || Planting Time with &lt;br&gt;  Mulch*Sprayduck
@@ -342,7 +347,8 @@ This strategy combines Chople + Babiri and Chople + Lum, utilizing the effects o
 | [[File:Chople.png|30px]]&lt;br&gt;[[Chople]] || [[File:Chople.png|30px]]&lt;br&gt;[[Chople]] || [[File:Chople.png|30px]]&lt;br&gt;[[Chople]] || [[File:Chople.png|30px]]&lt;br&gt;[[Chople]] || [[File:Chople.png|30px]]&lt;br&gt;[[Chople]]
 |}
 
-===== Timing Table ===== &lt;!--T:56--&gt;
+&lt;!--T:56--&gt;
+===== Timing Table =====
 {| class="collapsible wikitable"| style="text-align: center;"
 |+ ''All planting times use the time-to-ripe remaining of the first planted berry for subsequent planting times''
 ! Berry !! Planting Time with &lt;br&gt; No Modifier !! Planting Time with &lt;br&gt; Mulch/Sprayduck || Planting Time with &lt;br&gt;  Mulch*Sprayduck
@@ -397,12 +403,12 @@ Note that [[Chople]] can mutate into [[Chilan]] at taller and later stages, so y
 [[Category:Breeding]]
 &lt;/translate&gt;</text>
     <contributor>
-      <username>Aegyo</username>
-      <id>4</id>
+      <username>DraKay</username>
+      <id>18</id>
     </contributor>
     <comment>Marked this version for translation</comment>
     <model>wikitext</model>
-    <parentid>10725</parentid>
-    <sha1>d5efe59227a1ccf8a6eb52d4a808a3d84dd45f34</sha1>
+    <parentid>32290</parentid>
+    <sha1>bd1eb51f87720faafc1c73ec4979bc0277eb2a85</sha1>
   </revision>
 </page></mediawiki>

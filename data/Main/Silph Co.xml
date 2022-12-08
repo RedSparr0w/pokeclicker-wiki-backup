@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>4280</id>
   <revision>
-    <id>15269</id>
-    <timestamp>2022-07-30T04:43:34Z</timestamp>
-    <text space="preserve" bytes="7478">{{Infobox dungeon
+    <id>32897</id>
+    <timestamp>2022-12-08T02:24:23Z</timestamp>
+    <text space="preserve" bytes="7499">{{Infobox dungeon
 |name    = Silph Co
 |image   = [[File:Silph Co.png|thumb]]
 |caption = An overhead map of Silph Co.
@@ -98,7 +98,8 @@ The '''Silph Co''' is a [[Dungeons|dungeon]] in [[Kanto]]. It has 25 tiles arran
 
 ==Items==
 
-===No Debuff===
+&lt;tabs&gt;
+&lt;tab name="No Debuff"&gt;
 
 {| class="wikitable"
 |-
@@ -112,7 +113,7 @@ The '''Silph Co''' is a [[Dungeons|dungeon]] in [[Kanto]]. It has 25 tiles arran
 |-
 | {{Bag2|Pokéball}} || N/A || 11.16% || 10.85% || 9.52%
 |-
-| {{Pokemon|Electrode}} || N/A || 11.16% || 10.85% || 9.52%
+| {{Pokemon|Electrode|Mimic}} || N/A || 11.16% || 10.85% || 9.52%
 |-
 | align="center" colspan=5| '''Rare'''
 |-
@@ -128,12 +129,12 @@ The '''Silph Co''' is a [[Dungeons|dungeon]] in [[Kanto]]. It has 25 tiles arran
 |-
 | {{Bag2|Ultraball}} || N/A || 0.01% || 0.23% || 1.18%
 |}
+&lt;/tab&gt;
 
-===Debuff Drop Table===
-
+&lt;tab name="Debuff"&gt;
 After Reaching Sinnoh, the drop chance for items in Kanto will be debuffed for any loot with a Tier rarer than Rare (ie: Epic, Legendary, Mythic).
 
-{| class="wikitable collapsible collapsed"
+{| class="wikitable"
 |-
 ! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
 |-
@@ -145,7 +146,7 @@ After Reaching Sinnoh, the drop chance for items in Kanto will be debuffed for a
 |-
 | {{Bag2|Pokéball}} || N/A || 10.81% || 10.81% || 10.81%
 |-
-| {{Pokemon|Electrode}} || N/A || 10.81% || 10.81% || 10.81%
+| {{Pokemon|Electrode|Mimic}} || N/A || 10.81% || 10.81% || 10.81%
 |-
 | align="center" colspan=5| '''Rare'''
 |-
@@ -161,6 +162,8 @@ After Reaching Sinnoh, the drop chance for items in Kanto will be debuffed for a
 |-
 | {{Bag2|Ultraball}} || N/A || &lt;0.01% || &lt;0.01% || &lt;0.01%
 |}
+&lt;/tab&gt;
+&lt;/tabs&gt;
 
 
 {{Kanto Dungeons}}
@@ -170,9 +173,9 @@ After Reaching Sinnoh, the drop chance for items in Kanto will be debuffed for a
       <username>ThePantMan</username>
       <id>8</id>
     </contributor>
-    <comment>/* Debuff Drop Table */</comment>
+    <comment>/* Tabs */</comment>
     <model>wikitext</model>
-    <parentid>15268</parentid>
-    <sha1>a013b4a085f6893d921a1bb75b5dd9a8c6f21f8e</sha1>
+    <parentid>15269</parentid>
+    <sha1>03cfc98fcb0a0cd01c505b0abe604eba5daa8922</sha1>
   </revision>
 </page></mediawiki>

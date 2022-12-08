@@ -1,0 +1,165 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Translations:Temporary Battles/10/en</title>
+  <ns>1198</ns>
+  <id>12075</id>
+  <revision>
+    <id>32852</id>
+    <timestamp>2022-12-07T22:38:17Z</timestamp>
+    <text space="preserve" bytes="5000">These battles change depending on the player's chosen starter:
+&lt;tabs&gt;
+&lt;tab name="Bulbasaur"&gt;
+{| class="wikitable collapsible" style="text-align: center;"
+|-
+! Requirement !! Location !! Trainer !! Min. Attack !! Pokémon !! HP !! Weakness
+|-
+| {{#arrayprint:Blue_1_Base_Encounters}}
+|-
+| Charmander [[File:Charmander.png|25px]] || 1,678 || (x4) Ground, Rock, Water
+|-
+| {{#arrayprint:Blue_2_Base_Encounters}}
+|-
+| Charmander [[File:Charmander.png|25px]] || 3,791 || (x4) Ground, Rock, Water
+|-
+| {{#arrayprint:Blue_3_Base_Encounters}}
+|-
+| Charmeleon [[File:Charmeleon.png|25px]] || 20,797 || (x4) Ground, Rock, Water
+|-
+| {{#arrayprint:Blue_4-1_Base_Encounters}}
+|-
+| Exeggcute [[File:Exeggcute.png|25px]] || 28,878 || (x4) Bug &lt;br&gt; (x2) Flying, Poison, Ghost, Fire, Ice, Dark
+|-
+| Gyarados [[File:Gyarados.png|25px]] || 28,878 || (x4) Electric &lt;br&gt; (x2) Rock
+|-
+| {{#arrayprint:Blue_4-2_Base_Encounters}}
+|-
+| Charmeleon [[File:Charmeleon.png|25px]] || 33,438 || (x4) Ground, Rock, Water
+|-
+| {{#arrayprint:Blue_5-1_Base_Encounters}}
+|-
+| Exeggcute [[File:Exeggcute.png|25px]] || 38,447 || (x4) Bug &lt;br&gt; (x2) Flying, Poison, Ghost, Fire, Ice, Dark
+|-
+| Gyarados [[File:Gyarados.png|25px]] || 38,447 || (x4) Electric &lt;br&gt; (x2) Rock
+|-
+| {{#arrayprint:Blue_5-2_Base_Encounters}}
+|-
+| Charizard [[File:Charizard.png|25px]] || 44,113 || (x4) Rock &lt;br&gt; (x2) Water, Electric
+|-
+| {{#arrayprint:Blue_6-1_Base_Encounters}}
+|-
+| Exeggcute [[File:Exeggcute.png|25px]] || 82,269 || (x4) Bug &lt;br&gt; (x2) Flying, Poison, Ghost, Fire, Ice, Dark
+|-
+| Gyarados [[File:Gyarados.png|25px]] || 82,269 || (x4) Electric &lt;br&gt; (x2) Rock
+|-
+| {{#arrayprint:Blue_6-2_Base_Encounters}}
+|-
+| Charizard [[File:Charizard.png|25px]] || 92,553 || (x4) Rock &lt;br&gt; (x2) Water, Electric
+|}
+&lt;/tab&gt;
+&lt;tab name="Charmander"&gt;
+{| class="wikitable collapsible" style="text-align: center;"
+|-
+! Requirement !! Location !! Trainer !! Min. Attack !! Pokémon !! HP !! Weakness
+|-
+| {{#arrayprint:Blue_1_Base_Encounters}}
+|-
+| Squirtle [[File:Squirtle.png|25px]] || 1,678 || (x4) Grass, Electric
+|-
+| {{#arrayprint:Blue_2_Base_Encounters}}
+|-
+| Squirtle [[File:Squirtle.png|25px]] || 3,791 || (x4) Grass, Electric
+|-
+| {{#arrayprint:Blue_3_Base_Encounters}}
+|-
+| Wartortle [[File:Wartortle.png|25px]] || 20,797 || (x4) Grass, Electric
+|-
+| {{#arrayprint:Blue_4-1_Base_Encounters}}
+|-
+| Growlithe [[File:Growlithe.png|25px]] || 28,878 || (x4) Ground, Rock, Water
+|-
+| Exeggcute [[File:Exeggcute.png|25px]] || 28,878 || (x4) Bug &lt;br&gt; (x2) Flying, Poison, Ghost, Fire, Ice, Dark
+|-
+| {{#arrayprint:Blue_4-2_Base_Encounters}}
+|-
+| Wartortle [[File:Wartortle.png|25px]] || 33,438 || (x4) Grass, Electric
+|-
+| {{#arrayprint:Blue_5-1_Base_Encounters}}
+|-
+| Growlithe [[File:Growlithe.png|25px]] || 38,447 || (x4) Ground, Rock, Water
+|-
+| Exeggcute [[File:Exeggcute.png|25px]] || 38,447 || (x4) Bug &lt;br&gt; (x2) Flying, Poison, Ghost, Fire, Ice, Dark
+|-
+| {{#arrayprint:Blue_5-2_Base_Encounters}}
+|-
+| Blastoise [[File:Blastoise.png|25px]] || 44,113 || (x4) Grass, Electric
+|-
+| {{#arrayprint:Blue_6-1_Base_Encounters}}
+|-
+| Growlithe [[File:Growlithe.png|25px]] || 82,269 || (x4) Ground, Rock, Water
+|-
+| Exeggcute [[File:Exeggcute.png|25px]] || 82,269 || (x4) Bug &lt;br&gt; (x2) Flying, Poison, Ghost, Fire, Ice, Dark
+|-
+| {{#arrayprint:Blue_6-2_Base_Encounters}}
+|-
+| Blastoise [[File:Blastoise.png|25px]] || 92,553 || (x4) Grass, Electric
+|}
+&lt;/tab&gt;
+&lt;tab name="Squirtle / Pikachu"&gt;
+{| class="wikitable collapsible" style="text-align: center;"
+|-
+! Requirement !! Location !! Trainer !! Min. Attack !! Pokémon !! HP !! Weakness
+|-
+| {{#arrayprint:Blue_1_Base_Encounters}}
+|-
+| Bulbasaur [[File:Bulbasaur.png|25px]] || 1,678 || (x2) Flying, Fire, Psychic, Ice
+|-
+| {{#arrayprint:Blue_2_Base_Encounters}}
+|-
+| Bulbasaur [[File:Bulbasaur.png|25px]] || 3,791 || (x2) Flying, Fire, Psychic, Ice
+|-
+| {{#arrayprint:Blue_3_Base_Encounters}}
+|-
+| Ivysaur [[File:Ivysaur.png|25px]] || 20,797 || (x2) Flying, Fire, Psychic, Ice
+|-
+| {{#arrayprint:Blue_4-1_Base_Encounters}}
+|-
+| Gyarados [[File:Gyarados.png|25px]] || 28,878 || (x4) Electric &lt;br&gt; (x2) Rock
+|-
+| Growlithe [[File:Growlithe.png|25px]] || 28,878 || (x4) Ground, Rock, Water
+|-
+| {{#arrayprint:Blue_4-2_Base_Encounters}}
+|-
+| Ivysaur [[File:Ivysaur.png|25px]] || 33,438 || (x2) Flying, Fire, Psychic, Ice
+|-
+| {{#arrayprint:Blue_5-1_Base_Encounters}}
+|-
+| Gyarados [[File:Gyarados.png|25px]] || 38,447 || (x4) Electric &lt;br&gt; (x2) Rock
+|-
+| Growlithe [[File:Growlithe.png|25px]] || 38,447 || (x4) Ground, Rock, Water
+|-
+| {{#arrayprint:Blue_5-2_Base_Encounters}}
+|-
+| Venusaur [[File:Venusaur.png|25px]] || 44,113 || (x2) Flying, Fire, Psychic, Ice
+|-
+| {{#arrayprint:Blue_6-1_Base_Encounters}}
+|-
+| Gyarados [[File:Gyarados.png|25px]] || 82,269 || (x4) Electric &lt;br&gt; (x2) Rock
+|-
+| Growlithe [[File:Growlithe.png|25px]] || 82,269 || (x4) Ground, Rock, Water
+|-
+| {{#arrayprint:Blue_6-2_Base_Encounters}}
+|-
+| Venusaur [[File:Venusaur.png|25px]] || 92,553 || (x2) Flying, Fire, Psychic, Ice
+|}
+&lt;/tab&gt;
+&lt;/tabs&gt;</text>
+    <contributor>
+      <username>FuzzyBot</username>
+      <id>133</id>
+    </contributor>
+    <comment>Importing a new version from external source</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>5dd9e2b74f54b7b27df22068d283525ed986814b</sha1>
+  </revision>
+</page></mediawiki>

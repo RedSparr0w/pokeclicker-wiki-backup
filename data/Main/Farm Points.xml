@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>192</id>
   <revision>
-    <id>3304</id>
-    <timestamp>2022-08-02T15:30:32Z</timestamp>
-    <text space="preserve" bytes="22401">[[File:FarmPoint.png|thumb|200px|A Farm Point]]
+    <id>32685</id>
+    <timestamp>2022-12-07T16:38:14Z</timestamp>
+    <text space="preserve" bytes="22639">[[File:FarmPoint.png|thumb|200px|A Farm Point]]
 
 ==Description==
 Farm Points are the brown currency gained by harvesting [[Berries]]  on the [[Farm]]. Berries that wither do not grant farm points, and different types of berries give differing amounts Farm Points as detailed in the [[Farm Points#Berry Farm Point Table|Farm Points Earned]] Table below.&lt;br&gt;  
@@ -101,6 +101,14 @@ Once hired, farm hands will work until they are fired for an hourly wage. Below 
 | Jamie [[File:Jamie.png|20px]] || 4,000 {{farmpoints}}
 |-
 | Jessie [[File:Jessie.png|20px]] || 8,300 {{farmpoints}}
+|}
+
+===Farm Helpers===
+{| class="wikitable" style="text-align: center;"
+|-
+! Name !! Cost !! Purchase Location !! Cost per hatch
+|-
+|Cameron [[File:HHCameron.png|20px]] || 100,000 {{farmpoints}} || Hoenn Berry Master || 75 {{farmpoints}}
 |}
 
 ===Shopmon===
@@ -269,12 +277,12 @@ Maximum Efficiency - Set the Farm Hand to use the proper berry, plant the Farm H
 |}
 [[Category:Farm]][[Category:Currencies]]</text>
     <contributor>
-      <username>Dragonkin550</username>
-      <id>27</id>
+      <username>DraKay</username>
+      <id>18</id>
     </contributor>
-    <comment>/* Obtaining Farm Points */ added setup explanation for Farm Hand FP farming with Lum / Hondew</comment>
+    <comment>/* Farm Hands */</comment>
     <model>wikitext</model>
-    <parentid>3303</parentid>
-    <sha1>19604b973cd53ad3216b02142b0037e4d9000045</sha1>
+    <parentid>3304</parentid>
+    <sha1>2bc966b88cee41a8079f5d5f51f1d08371e485bf</sha1>
   </revision>
 </page></mediawiki>

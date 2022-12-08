@@ -1,11 +1,12 @@
-<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en"><page>
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
   <title>Held Items</title>
   <ns>0</ns>
   <id>11664</id>
   <revision>
-    <id>32239</id>
-    <timestamp>2022-12-06T23:39:45Z</timestamp>
-    <text space="preserve" bytes="6178">
+    <id>32424</id>
+    <timestamp>2022-12-07T13:00:40Z</timestamp>
+    <text space="preserve" bytes="6238">
 {{Infobox battle item
 |name       = Held Items
 |image      = [[File:Held_Items_Modal.png|thumb]]
@@ -17,10 +18,13 @@
 '''Held Items''' are items that can be equipped by Pokémon to boost certain statistics of that Pokémon such as Attack, Experience Gain, and [[Pokérus|EV Yield]]. Some Held Items can also be used to trigger evolutions. Held Items can be equipped in the Item Bag tab of the Items menu option.
 
 ==Details==
-As many as 6 Held Items can be equipped simultaneously - each Pokémon can only be equipped with 1 item at a time, and each item type can only be held by one Pokémon at a time. Held Items do not break. However, Held Items are consumed when they are removed - an individual Held Item cannot be reused. Some Held Items can only be held by Pokémon that have met certain requirements. For example: Machop can hold a [[Black Belt]] (Fighting Type-specific item) while Gyarados cannot. A Machop that is either ''Contagious'' or ''Resistant'' with Pokérus can hold a Macho Brace, while a Machop that is ''Uninfected'' or ''Infected'' cannot.
+As many as 6 Held Items can be equipped simultaneously - each Pokémon can only be equipped with 1 item at a time, and each item type can only be held by one Pokémon at a time. Held Items do not break. However, Held Items are consumed when they are removed - an individual Held Item cannot be reused. Some Held Items can only be held by Pokémon that have met certain requirements. 
+
+For example: Machop can hold a [[Black Belt]] (Fighting Type-specific item) while Gyarados cannot. 
+A Machop that is either ''Contagious'' or ''Resistant'' with Pokérus can hold a Macho Brace, while a Machop that is ''Uninfected'' or ''Infected'' cannot.
 
 ==Acquisition==
-Held Items can be found in [[Shops]] and as Loot in [[Dungeons]]. 
+Held Items can be found in [[Shops]], as Loot in [[Dungeons]] or as [[Rare Hold Items|rare drops]] from different Pokémon.
 
 ==List of items==
 {|class="wikitable sortable"
@@ -82,12 +86,12 @@ Held Items can be found in [[Shops]] and as Loot in [[Dungeons]].
 
 [[Category:Items]] [[Category:Held Items]]</text>
     <contributor>
-      <username>Jk13</username>
-      <id>14</id>
+      <username>DraKay</username>
+      <id>18</id>
     </contributor>
-    <comment></comment>
+    <comment>/* Details */</comment>
     <model>wikitext</model>
-    <parentid>32211</parentid>
-    <sha1>7b12f3e2f614dee2203d09ed475dc7c934b832a7</sha1>
+    <parentid>32423</parentid>
+    <sha1>62f1cbc38216b15b5302f2f9751f9231b4768006</sha1>
   </revision>
 </page></mediawiki>

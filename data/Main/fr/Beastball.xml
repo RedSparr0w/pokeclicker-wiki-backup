@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>8519</id>
   <revision>
-    <id>23611</id>
-    <timestamp>2022-08-16T08:35:18Z</timestamp>
-    <text space="preserve" bytes="1212">&lt;languages/&gt;
+    <id>32808</id>
+    <timestamp>2022-12-07T21:48:56Z</timestamp>
+    <text space="preserve" bytes="1712">&lt;languages/&gt;
 
 {{Infobox Pokéball
 |name       = Ultra Ball
@@ -23,13 +23,18 @@
 
 L' '''Ultra Ball'''  est un type de [[Pokéballs/fr|Ball]] utilisée uniquement pour attraper les Ultra-Chimères. Toute Ultra Ball présente dans l'inventaire du joueur sera utilisée pour attraper une Ultra-Chimère si le sélecteur est réglé sur "Réattraper", "Réattraper les Chroma", "Attraper les nouveaux", ou "Attraper les nouveaux Chroma". Peu importe la Ball sélectionnée dans "Réattraper", ce sera toujours une Ultra Ball qui sera lancée pour capturer une Ultra-Chimère.
 
+&lt;span id="Details"&gt;&lt;/span&gt;
 ==Détails==
 
 Une Poké Ball spéciale créée pour pouvoir capturer des Ultra-Chimères. Elle n'est pas du tout efficace sur les autres créatures.
 
-==Acquisition==
-===Boutiques===
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+When Ultra Ball is equipped player will only catch Ultra Beast and the rest of Pokémon will be ignored. Also not other ball will be used against Ultra Beast. For example if the player have selected Ultra Ball for already catched pokemons and Master Ball for new shines if player finds a common Kartana it will be catched with the Ultra Ball but if they find a shiny kartana it won't be catched and will be ignored.
+&lt;/div&gt;
 
+==Acquisition==
+
+===Boutiques===
 {{ItemPrice/head‎|Pokéballs}}
 |-
 {{ItemPrice|[[Shops/fr#Alola: Locations &amp; Items|Motel]]|500 {{questpoints}}}}
@@ -42,9 +47,9 @@ Une Poké Ball spéciale créée pour pouvoir capturer des Ultra-Chimères. Elle
       <username>Razikd</username>
       <id>33</id>
     </contributor>
-    <comment></comment>
+    <comment>Imported translation using [[Special:PageMigration|page migration]]</comment>
     <model>wikitext</model>
-    <parentid>23610</parentid>
-    <sha1>bc98971f5c3033d001cde6daf8fb9a64791c0ecc</sha1>
+    <parentid>32801</parentid>
+    <sha1>d94b2baae9b9f1e661a250b915a6ab8605cbba94</sha1>
   </revision>
 </page></mediawiki>

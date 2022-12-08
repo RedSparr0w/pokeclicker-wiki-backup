@@ -1,0 +1,117 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Translations:Temporary Battles/12/en</title>
+  <ns>1198</ns>
+  <id>12077</id>
+  <revision>
+    <id>32855</id>
+    <timestamp>2022-12-07T22:38:17Z</timestamp>
+    <text space="preserve" bytes="3318">These battles change depending on the player's chosen starter:
+&lt;tabs&gt;
+&lt;tab name="Chikorita"&gt;
+{| class="wikitable collapsible" style="text-align: center;"
+|-
+! Requirement !! Location !! Trainer !! Min. Attack !! Pokémon !! HP !! Weakness
+|-
+| {{#arrayprint:Silver_1_Base_Encounters}} || Cyndaquil [[File:Cyndaquil.png|25px]] || 176,000 || (x4) Ground, Rock, Water
+|-
+| {{#arrayprint:Silver_2_Base_Encounters}}
+|-
+| Quilava [[File:Quilava.png|25px]] || 237,772 || (x4) Ground, Rock, Water
+|-
+| {{#arrayprint:Silver_3_Base_Encounters}}
+|-
+| Quilava [[File:Quilava.png|25px]] || 251,262 || (x4) Ground, Rock, Water
+|-
+| {{#arrayprint:Silver_4_Base_Encounters}}
+|-
+| Quilava [[File:Quilava.png|25px]] || 295,109 || (x4) Ground, Rock, Water
+|-
+| {{#arrayprint:Silver_5_Base_Encounters}}
+|-
+| Typhlosion [[File:Typhlosion.png|25px]] || 397,807 || (x4) Ground, Rock, Water
+|-
+| {{#arrayprint:Silver_6_Base_Encounters}}
+|-
+| Typhlosion [[File:Typhlosion.png|25px]] || 581,846 || (x4) Ground, Rock, Water
+|-
+| {{#arrayprint:Silver_7_Base_Encounters}}
+|-
+| Typhlosion [[File:Typhlosion.png|25px]] || 705,124 || (x4) Ground, Rock, Water
+|}
+&lt;/tab&gt;
+&lt;tab name="Cyndaquil"&gt;
+{| class="wikitable collapsible" style="text-align: center;"
+|-
+! Requirement !! Location !! Trainer !! Min. Attack !! Pokémon !! HP !! Weakness
+|-
+| {{#arrayprint:Silver_1_Base_Encounters}} || Totodile [[File:Totodile.png|25px]] || 176,000 || (x4) Grass, Electric
+|-
+| {{#arrayprint:Silver_2_Base_Encounters}}
+|-
+| Croconaw [[File:Croconaw.png|25px]] || 237,772 || (x4) Grass, Electric
+|-
+| {{#arrayprint:Silver_3_Base_Encounters}}
+|-
+| Croconaw [[File:Croconaw.png|25px]] || 251,262 || (x4) Grass, Electric
+|-
+| {{#arrayprint:Silver_4_Base_Encounters}}
+|-
+| Croconaw [[File:Croconaw.png|25px]] || 295,109 || (x4) Grass, Electric
+|-
+| {{#arrayprint:Silver_5_Base_Encounters}}
+|-
+| Feraligatr [[File:Feraligatr.png|25px]] || 397,807 || (x4) Grass, Electric
+|-
+| {{#arrayprint:Silver_6_Base_Encounters}}
+|-
+| Feraligatr [[File:Feraligatr.png|25px]] || 581,846 || (x4) Grass, Electric
+|-
+| {{#arrayprint:Silver_7_Base_Encounters}}
+|-
+| Feraligatr [[File:Feraligatr.png|25px]] || 705,124 || (x4) Grass, Electric
+|}
+&lt;/tab&gt;
+&lt;tab name="Totodile"&gt;
+{| class="wikitable collapsible" style="text-align: center;"
+|-
+! Requirement !! Location !! Trainer !! Min. Attack !! Pokémon !! HP !! Weakness
+|-
+| {{#arrayprint:Silver_1_Base_Encounters}} || Chikorita [[File:Chikorita.png|25px]] || 176,000 || (x4) Flying, Poison, Bug, Fire, Ice
+|-
+| {{#arrayprint:Silver_2_Base_Encounters}}
+|-
+| Bayleef [[File:Bayleef.png|25px]] || 237,772 || (x4) Flying, Poison, Bug, Fire, Ice
+|-
+| {{#arrayprint:Silver_3_Base_Encounters}}
+|-
+| Bayleef [[File:Bayleef.png|25px]] || 251,262 || (x4) Flying, Poison, Bug, Fire, Ice
+|-
+| {{#arrayprint:Silver_4_Base_Encounters}}
+|-
+| Bayleef [[File:Bayleef.png|25px]] || 295,109 || (x4) Flying, Poison, Bug, Fire, Ice
+|-
+| {{#arrayprint:Silver_5_Base_Encounters}}
+|-
+| Meganium [[File:Meganium.png|25px]] || 397,807 || (x4) Flying, Poison, Bug, Fire, Ice
+|-
+| {{#arrayprint:Silver_6_Base_Encounters}}
+|-
+| Meganium [[File:Meganium.png|25px]] || 581,846 || (x4) Flying, Poison, Bug, Fire, Ice
+|-
+| {{#arrayprint:Silver_7_Base_Encounters}}
+|-
+| Meganium [[File:Meganium.png|25px]] || 705,124 || (x4) Flying, Poison, Bug, Fire, Ice
+|}
+&lt;/tab&gt;
+&lt;/tabs&gt;</text>
+    <contributor>
+      <username>FuzzyBot</username>
+      <id>133</id>
+    </contributor>
+    <comment>Importing a new version from external source</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>c4876b21c0a88223c299be23a79e5c6fe42d2394</sha1>
+  </revision>
+</page></mediawiki>

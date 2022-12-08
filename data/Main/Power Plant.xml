@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>325</id>
   <revision>
-    <id>31770</id>
-    <timestamp>2022-12-05T22:59:53Z</timestamp>
-    <text space="preserve" bytes="2427">{{Infobox dungeon
+    <id>32898</id>
+    <timestamp>2022-12-08T02:25:48Z</timestamp>
+    <text space="preserve" bytes="2450">{{Infobox dungeon
 |name    = Power Plant
 |image   = [[File:Power Plant.png|thumb]]
 |caption = An overhead map of the Power Plant.
@@ -49,7 +49,8 @@ The '''Power Plant''' is a [[Dungeons|dungeon]] in [[Kanto]]. It has 25 tiles ar
 
 ==Items==
 
-===No Debuff===
+&lt;tabs&gt;
+&lt;tab name="No Debuff"&gt;
 
 {| class="wikitable"
 |-
@@ -61,7 +62,7 @@ The '''Power Plant''' is a [[Dungeons|dungeon]] in [[Kanto]]. It has 25 tiles ar
 |-
 | {{Bag2|Cheri}} || 2 || 22.55% || 22.07% || 19.93%
 |-
-| {{Mimic|Electrode}} || N/A || 11.27% || 11.03% || 9.97%
+| {{Pokemon|Electrode|Mimic}} || N/A || 11.27% || 11.03% || 9.97%
 |-
 | align="center" colspan=5| '''Rare'''
 |-
@@ -71,12 +72,12 @@ The '''Power Plant''' is a [[Dungeons|dungeon]] in [[Kanto]]. It has 25 tiles ar
 |-
 | {{Bag2|Max Revive}} || N/A || 0.01% || 0.24% || 1.23%
 |}
+&lt;/tab&gt;
 
-===Debuff Drop Table===
-
+&lt;tab name="Debuff"&gt;
 After Reaching Sinnoh, the drop chance for items in Kanto will be debuffed for any loot with a Tier rarer than Rare (ie: Epic, Legendary, Mythic).
 
-{| class="wikitable collapsible collapsed"
+{| class="wikitable"
 |-
 ! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
 |-
@@ -86,7 +87,7 @@ After Reaching Sinnoh, the drop chance for items in Kanto will be debuffed for a
 |-
 | {{Bag2|Cheri}} || 2 || 21.64% || 21.64% || 21.64%
 |-
-| {{Pokemon|Electrode}} || N/A || 10.82% || 10.82% || 10.82%
+| {{Pokemon|Electrode|Mimic}} || N/A || 10.82% || 10.82% || 10.82%
 |-
 | align="center" colspan=5| '''Rare'''
 |-
@@ -96,17 +97,19 @@ After Reaching Sinnoh, the drop chance for items in Kanto will be debuffed for a
 |-
 | {{Bag2|Max Revive}} || N/A || &lt;0.01% || &lt;0.01% || &lt;0.01%
 |}
+&lt;/tab&gt;
+&lt;/tabs&gt;
 
 {{Kanto Dungeons}}
 
 [[Category:Dungeons|^Region #1 - Kanto^h]]</text>
     <contributor>
-      <username>Jk13</username>
-      <id>14</id>
+      <username>ThePantMan</username>
+      <id>8</id>
     </contributor>
-    <comment>/* No Debuff */</comment>
+    <comment>/* Tabs */</comment>
     <model>wikitext</model>
-    <parentid>4855</parentid>
-    <sha1>a7f134fb1c418ef0645d64c4173a8f6c50a5a350</sha1>
+    <parentid>31770</parentid>
+    <sha1>cd135b3f6d8be560ba946d3f72822fea6629c3ab</sha1>
   </revision>
 </page></mediawiki>

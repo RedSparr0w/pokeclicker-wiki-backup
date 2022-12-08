@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>4278</id>
   <revision>
-    <id>15261</id>
-    <timestamp>2022-07-30T04:43:09Z</timestamp>
-    <text space="preserve" bytes="5004">{{Infobox dungeon
+    <id>32895</id>
+    <timestamp>2022-12-08T02:22:07Z</timestamp>
+    <text space="preserve" bytes="5011">{{Infobox dungeon
 |name    = Rocket Game Corner
 |image   = [[File:Rocket Game Corner.png|thumb]]
 |caption = An overhead map of the Rocket Game Corner.
@@ -60,7 +60,8 @@ The '''Rocket Game Corner''' is a [[Dungeons|dungeon]] in [[Kanto]]. It has 25 t
 
 ==Items==
 
-===No Debuff===
+&lt;tabs&gt;
+&lt;tab name="No Debuff"&gt;
 
 {| class="wikitable"
 |-
@@ -98,14 +99,12 @@ The '''Rocket Game Corner''' is a [[Dungeons|dungeon]] in [[Kanto]]. It has 25 t
 |-
 | {{Bag2|Star Piece}} || N/A || &lt;0.01% || 0.07% || 0.35%
 |}
+&lt;/tab&gt;
 
-
-
-===Debuff Drop Table===
-
+&lt;tab name="Debuff"&gt;
 After Reaching Sinnoh, the drop chance for items in Kanto will be debuffed for any loot with a Tier rarer than Rare (ie: Epic, Legendary, Mythic).
 
-{| class="wikitable collapsible collapsed"
+{| class="wikitable"
 |-
 ! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
 |-
@@ -141,6 +140,8 @@ After Reaching Sinnoh, the drop chance for items in Kanto will be debuffed for a
 |-
 | {{Bag2|Star Piece}} || N/A || &lt;0.01% || &lt;0.01% || &lt;0.01%
 |}
+&lt;/tab&gt;
+&lt;/tabs&gt;
 
 {{Kanto Dungeons}}
 
@@ -149,9 +150,9 @@ After Reaching Sinnoh, the drop chance for items in Kanto will be debuffed for a
       <username>ThePantMan</username>
       <id>8</id>
     </contributor>
-    <comment>/* Debuff Drop Table */</comment>
+    <comment>/* Tabs */</comment>
     <model>wikitext</model>
-    <parentid>15260</parentid>
-    <sha1>60fc6b038f51b438eb5aacacc17a66cae89edf53</sha1>
+    <parentid>15261</parentid>
+    <sha1>5ba45cca011bbd92de8fce353fbad58ebaf7d3e3</sha1>
   </revision>
 </page></mediawiki>

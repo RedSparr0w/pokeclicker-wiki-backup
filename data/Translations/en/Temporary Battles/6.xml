@@ -4,14 +4,31 @@
   <ns>1198</ns>
   <id>10291</id>
   <revision>
-    <id>30298</id>
-    <timestamp>2022-12-05T14:19:30Z</timestamp>
-    <text space="preserve" bytes="9522">==Kalos==
+    <id>32865</id>
+    <timestamp>2022-12-07T22:38:17Z</timestamp>
+    <text space="preserve" bytes="12292">==Kalos==
+===Regular Battles===
 {| class="wikitable collapsible" style="text-align: center;"
 |-
 ! Requirement !! Location !! Trainer !! Min. Attack !! Pokémon !! HP !! Weakness
 |-
-| rowspan=5 | Part of [[Questlines#Detective Pikachu|Detective Pikachu]] Quest || rowspan=5 | [[Towns &amp; Cities#Johto|Goldenrod City]] || rowspan=5 | Aipom Alley [[File:Aipom Alley.png|25px]] || rowspan=5 | 2,600,000 || Aipom [[File:Aipom.png|25px]] || 31,200,000 || rowspan=5 | (x4) Fighting
+| rowspan=3| Clear [[Kalos#Routes|Route 4]] || rowspan=3| [[Towns &amp; Cities#Kalos|Lumiose City]] || rowspan=3| Sycamore 1 [[File:Sycamore.png|25px]] || rowspan=3| 878,420 || Bulbasaur [[File:Bulbasaur.png|25px]] || 17,568,392 || (x2) Flying, Fire, Psychic, Ice
+|-
+| Charmander [[File:Charmander.png|25px]] || 17,568,392 || (x4) Ground, Rock, Water
+|-
+| Squirtle [[File:Squirtle.png|25px]] || 17,568,392 || (x4) Grass, Electric
+|-
+| Clear [[Kalos#Routes|Route 5]] || [[Towns &amp; Cities#Kalos|Lumiose City]] || Tierno 1 [[File:Tierno.png|25px]] || 668,873 || Corphish [[File:Corphish.png|25px]] || 40,132,328 || (x4) Grass, Electric
+|-
+| rowspan=3| Clear [[Kalos#Routes|Route 7]] || rowspan=3| [[Towns &amp; Cities#Kalos|Camphrier Town]] || rowspan=3| Trevor &amp; Tierno [[File:Trevor &amp; Tierno.png|25px]] || rowspan=3| 1,192,802 || Pikachu [[File:Pikachu.png|25px]] || 23,154,377 || (x4) Ground
+|-
+| Corphish [[File:Corphish.png|25px]] || 23,856,025 || (x4) Grass, Electric
+|-
+| Flabébé (Orange) [[File:Flabébé (Orange).png|25px]] || 23,154,377 || (x4) Poison, Steel
+|-
+| Beat [[Gyms#Kalos|Korrina]] and&lt;br&gt; Catch Lucario [[File:Lucario.png|25px]] || [[Towns &amp; Cities#Kalos|Shalour City]] || Korrina [[File:Korrina.png|25px]] || 2,250,000 || Mega Lucario [[File:Mega Lucario.png|25px]] || 135,000,000 || (x2) Fighting, Ground, Fire
+|-
+| rowspan=5 | Part of [[Questlines#Detective Pikachu|Detective Pikachu]] Questline || rowspan=5 | [[Towns &amp; Cities#Johto|Goldenrod City]] || rowspan=5 | Aipom Alley [[File:Aipom Alley.png|25px]] || rowspan=5 | 2,600,000 || Aipom [[File:Aipom.png|25px]] || 31,200,000 || rowspan=5 | (x4) Fighting
 |-
 | Aipom [[File:Aipom.png|25px]] || 31,200,000
 |-
@@ -21,41 +38,59 @@
 |-
 | Aipom [[File:Aipom.png|25px]] || 31,200,000
 |-
-| Part of [[Questlines#Detective Pikachu|Detective Pikachu]] Quest || [[Towns &amp; Cities#Kanto|Saffron City]] || Mime Interview [[File:Mr. Mime.png|25px]] || 2,670,423 || Mr. Mime [[File:Mr. Mime.png|25px]] || 160,225,334 || (x2) Poison, Ghost, Steel
+| Part of [[Questlines#Detective Pikachu|Detective Pikachu]] Questline || [[Towns &amp; Cities#Kanto|Saffron City]] || Mime Interview [[File:Mr. Mime.png|25px]] || 2,670,423 || Mr. Mime [[File:Mr. Mime.png|25px]] || 160,225,334 || (x2) Poison, Ghost, Steel
 |-
-| rowspan=3 | Part of [[Questlines#Detective Pikachu|Detective Pikachu]] Quest || rowspan=3 | [[Towns &amp; Cities#Hoenn|Pacifidlog Town]] || rowspan=3 | Underground Fighting Ring [[File:Veteran (male).png|25px]] || rowspan=3 | 2,869,808 || Charizard [[File:Charizard.png|25px]] || 83,224,411 || (x4) Rock &lt;br&gt; (x2) Water, Electric
+| rowspan=3 | Part of [[Questlines#Detective Pikachu|Detective Pikachu]] Questline || rowspan=3 | [[Towns &amp; Cities#Hoenn|Pacifidlog Town]] || rowspan=3 | Underground Fighting Ring [[File:Veteran (male).png|25px]] || rowspan=3 | 2,869,808 || Charizard [[File:Charizard.png|25px]] || 83,224,411 || (x4) Rock &lt;br&gt; (x2) Water, Electric
 |-
 | Magikarp [[File:Magikarp.png|25px]] || 10 || (x4) Grass, Electric
 |-
 | Gyarados [[File:Gyarados.png|25px]] || 85,658,821 || (x4) Electric &lt;br&gt; (x2) Rock
 |-
-| rowspan=3 | Part of [[Questlines#Detective Pikachu|Detective Pikachu]] Quest || rowspan=3 | [[Towns &amp; Cities#Unova|Nuvema Town]] || rowspan=3 | Lab Ambush [[File:Lab Ambush.png|25px]] || rowspan=3 | 2,916,667 || Greninja [[File:Greninja.png|25px]] || 58,333,333 || rowspan=3 | (x2) Fighting, Bug, Grass, Electric, Fairy
+| rowspan=3 | Part of [[Questlines#Detective Pikachu|Detective Pikachu]] Questline || rowspan=3 | [[Towns &amp; Cities#Unova|Nuvema Town]] || rowspan=3 | Lab Ambush [[File:Lab Ambush.png|25px]] || rowspan=3 | 2,916,667 || Greninja [[File:Greninja.png|25px]] || 58,333,333 || rowspan=3 | (x2) Fighting, Bug, Grass, Electric, Fairy
 |-
 | Greninja [[File:Greninja.png|25px]] || 58,333,333
 |-
 | Greninja [[File:Greninja.png|25px]] || 58,333,333
 |-
-| Part of [[Questlines#Detective Pikachu|Detective Pikachu]] Quest || [[Towns &amp; Cities#Johto|Goldenrod City]] || Imposter [[File:Imposter.png|25px]] || 3,112,552 || Ditto [[File:Ditto.png|25px]] || 186,753,099 || (x4) Fighting
+| Part of [[Questlines#Detective Pikachu|Detective Pikachu]] Questline || [[Towns &amp; Cities#Johto|Goldenrod City]] || Imposter [[File:Imposter.png|25px]] || 3,112,552 || Ditto [[File:Ditto.png|25px]] || 186,753,099 || (x4) Fighting
 |-
-| Part of [[Questlines#Detective Pikachu|Detective Pikachu]] Quest || [[Towns &amp; Cities#Johto|Goldenrod City]] || Possessed Mewtwo [[File:Mewtwo.png|25px]] || 3,574,277 || Mewtwo [[File:Mewtwo.png|25px]] || 214,456,599 || (x4) Bug, Ghost, Dark
+| Part of [[Questlines#Detective Pikachu|Detective Pikachu]] Questline || [[Towns &amp; Cities#Johto|Goldenrod City]] || Possessed Mewtwo [[File:Mewtwo.png|25px]] || 3,574,277 || Mewtwo [[File:Mewtwo.png|25px]] || 214,456,599 || (x4) Bug, Ghost, Dark
 |-
-| rowspan=3 | Part of [[Questlines#Princess Diancie|Princess Diancie]] Quest || rowspan=3 | [[Towns &amp; Cities#Kalos|Shalour City]] || rowspan=3 | Riot [[File:Riot.png|25px]] || rowspan=3 | 8,277,579 || Ninjask [[File:Ninjask.png|25px]] || 160,554,441 || rowspan=2 | (x4) Rock &lt;br&gt; (x2) Flying, Fire, Electric, Ice
+| rowspan=3 | Part of [[Questlines#Princess Diancie|Princess Diancie]] Questline || rowspan=3 | [[Towns &amp; Cities#Kalos|Shalour City]] || rowspan=3 | Riot [[File:Riot.png|25px]] || rowspan=3 | 8,277,579 || Ninjask [[File:Ninjask.png|25px]] || 160,554,441 || rowspan=2 | (x4) Rock &lt;br&gt; (x2) Flying, Fire, Electric, Ice
 |-
 | Ninjask [[File:Ninjask.png|25px]] || 160,554,441
 |-
 | Greninja [[File:Greninja.png|25px]] || 165,551,573 || (x2) Fighting, Bug, Grass, Electric, Fairy
 |-
-| rowspan=2 | Part of [[Questlines#Princess Diancie|Princess Diancie]] Quest || rowspan=2 | [[Towns &amp; Cities#Kalos|Lumiose City]] || rowspan=2 | Merilyn [[File:Merilyn.png|25px]] || rowspan=2 | 8,322,742 || Yanma [[File:Yanma.png|25px]] || 243,684,567 || (x4) Rock &lt;br&gt; (x2) Flying, Fire, Electric, Ice
+| rowspan=2 | Part of [[Questlines#Princess Diancie|Princess Diancie]] Questline || rowspan=2 | [[Towns &amp; Cities#Kalos|Lumiose City]] || rowspan=2 | Merilyn [[File:Merilyn.png|25px]] || rowspan=2 | 8,322,742 || Yanma [[File:Yanma.png|25px]] || 243,684,567 || (x4) Rock &lt;br&gt; (x2) Flying, Fire, Electric, Ice
 |-
 | Delphox [[File:Delphox.png|25px]] || 249,682,234 || (x2) Ground, Rock, Ghost, Water, Dark
 |-
-| rowspan=4 | Part of [[Questlines#Princess Diancie|Princess Diancie]] Quest || rowspan=4 | [[Towns &amp; Cities#Kalos|Shalour City]] || rowspan=4 | Millis and Argus Steel [[File:Millis and Argus Steel.png|25px]] || rowspan=4 | 8,764,199 || Honedge [[File:Honedge.png|25px]] || 126,325,325 || rowspan=3 | (x2) Ground, Ghost, Fire, Dark
+| rowspan=4 | Part of [[Questlines#Princess Diancie|Princess Diancie]] Questline || rowspan=4 | [[Towns &amp; Cities#Kalos|Shalour City]] || rowspan=4 | Millis and Argus Steel [[File:Millis and Argus Steel.png|25px]] || rowspan=4 | 8,764,199 || Honedge [[File:Honedge.png|25px]] || 126,325,325 || rowspan=3 | (x2) Ground, Ghost, Fire, Dark
 |-
 | Doublade [[File:Doublade.png|25px]] || 129,983,175
 |-
 | Aegislash (Blade) [[File:Aegislash (Blade).png|25px]] || 130,012,468
 |-
 | Chesnaught [[File:Chesnaught.png|25px]] || 131,462,975 || (x4) Flying &lt;br&gt; (x2) Poison, Fire, Psychic, Ice, Fairy
+|-
+| rowspan=3| Clear [[Kalos#Routes|Route 18]] || rowspan=3| [[Towns &amp; Cities#Kalos|Couriway Town]] || rowspan=3| Sycamore 2 [[File:Sycamore.png|25px]] || rowspan=3| 4,439,955 || Venusaur [[File:Venusaur.png|25px]] || 88,799,088 || (x2) Flying, Fire, Psychic, Ice
+|-
+| Charizard [[File:Charizard.png|25px]] || 88,799,088 || (x4) Rock &lt;br&gt; (x2) Water, Electric
+|-
+| Blastoise [[File:Blastoise.png|25px]] || 88,799,088 || (x4) Grass, Electric
+|-
+| rowspan=3| Defeat [[Temporary Battles#Kalos|Shauna 2]] || rowspan=3| [[Towns &amp; Cities#Kalos|Couriway Town]] || rowspan=3| Tierno 2 [[File:Tierno.png|25px]] || rowspan=3| 4,730,904 || Talonflame [[File:Talonflame.png|25px]] || 91,601,632 || (x4) Rock &lt;br&gt; (x2) Water, Electric
+|-
+| Roserade [[File:Roserade.png|25px]] || 91,718,405 || (x2) Flying, Fire, Psychic, Ice
+|-
+| Crawdaunt [[File:Crawdaunt.png|25px]] || 94,618,062 || (x2) Fighting, Bug, Grass, Electric, Fairy
+|-
+| rowspan=3| Defeat [[Temporary Battles#Kalos|Tierno 2]] || rowspan=3| [[Towns &amp; Cities#Kalos|Couriway Town]] || rowspan=3| Trevor [[File:Trevor.png|25px]] || rowspan=3| 4,742,935 || Raichu [[File:Raichu.png|25px]] || 91,718,405 || (x4) Ground
+|-
+| Aerodactyl [[File:Aerodactyl.png|25px]] || 91,718,405 || (x2) Rock, Steel, Water, Electric, Ice
+|-
+| Florges (Orange) [[File:Florges (Orange).png|25px]] || 94,858,684 || (x4) Poison, Steel
 |-
 | rowspan=3 | Beat the [[Gyms#Pokémon League Kalos|Kalos Champion]] || rowspan=3 | [[Towns &amp; Cities#Kalos|Lumiose City]] || rowspan=3 | AZ [[File:AZ.png|25px]] || rowspan=3 | 12,399,800
 || Torkoal [[File:Torkoal.png|25px]] || 247,996,000 || (x4) Ground, Rock, Water
@@ -64,7 +99,7 @@
 |-
 || Sigilyph [[File:Sigilyph.png|25px]] || 247,996,000 || (x2) Rock, Ghost, Electric, Ice, Dark
 |-
-| rowspan=6 | Part of [[Questlines#The New Kid|The New Kid]] Quest || rowspan=6 | Near [[Towns &amp; Cities#Kanto|Pallet Town]] || rowspan=6 | Ash Ketchum Kanto [[File:Ash_Ketchum.png|25px]] || rowspan=6 | 12,399,800 || Pikachu (Partner cap) [[File:Pikachu_(Partner_cap).png|25px]] || 123,998,000 || (x4) Ground
+| rowspan=6 | Part of [[Questlines#The New Kid|The New Kid]] Questline || rowspan=6 | Near [[Towns &amp; Cities#Kanto|Pallet Town]] || rowspan=6 | Ash Ketchum Kanto [[File:Ash_Ketchum.png|25px]] || rowspan=6 | 12,399,800 || Pikachu (Partner cap) [[File:Pikachu_(Partner_cap).png|25px]] || 123,998,000 || (x4) Ground
 |-
 | Pidgeot [[File:Pidgeot.png|25px]] || 123,998,000 || (x2) Rock, Electric, Ice
 |-
@@ -76,7 +111,7 @@
 |-
 | Muk [[File:Muk.png|25px]] || 123,998,000 || (x4) Ground, Psychic
 |-
-| rowspan=6 | Part of [[Questlines#The New Kid|The New Kid]] Quest &lt;br&gt; and Clear Route 48 || rowspan=6 | Near [[Johto#Routes|Route 48]] || rowspan=6 | Ash Ketchum Johto [[File:Ash_Ketchum.png|25px]] || rowspan=6 | 12,399,800 || Pikachu (Partner cap) [[File:Pikachu_(Partner_cap).png|25px]] || 123,998,000 || (x4) Ground
+| rowspan=6 | Part of [[Questlines#The New Kid|The New Kid]] Questline &lt;br&gt; and Clear Route 48 || rowspan=6 | Near [[Johto#Routes|Route 48]] || rowspan=6 | Ash Ketchum Johto [[File:Ash_Ketchum.png|25px]] || rowspan=6 | 12,399,800 || Pikachu (Partner cap) [[File:Pikachu_(Partner_cap).png|25px]] || 123,998,000 || (x4) Ground
 |-
 | Heracross [[File:Heracross.png|25px]] || 123,998,000 || (x4) Flying &lt;br&gt; (x2) Fire, Psychic, Fairy
 |-
@@ -88,7 +123,7 @@
 |-
 | Totodile [[File:Totodile.png|25px]] || 123,998,000 || (x4) Grass, Electric
 |-
-| rowspan=6 | Part of [[Questlines#The New Kid|The New Kid]] Quest || rowspan=6 | Between [[Hoenn#Routes|Routes 120 and 121]] || rowspan=6 | Ash Ketchum Hoenn [[File:Ash_Ketchum.png|25px]] || rowspan=6 | 12,399,800 || Pikachu (Partner cap) [[File:Pikachu_(Partner_cap).png|25px]] || 123,998,000 || (x4) Ground
+| rowspan=6 | Part of [[Questlines#The New Kid|The New Kid]] Questline || rowspan=6 | Between [[Hoenn#Routes|Routes 120 and 121]] || rowspan=6 | Ash Ketchum Hoenn [[File:Ash_Ketchum.png|25px]] || rowspan=6 | 12,399,800 || Pikachu (Partner cap) [[File:Pikachu_(Partner_cap).png|25px]] || 123,998,000 || (x4) Ground
 |-
 | Swellow [[File:Swellow.png|25px]] || 123,998,000 || (x2) Rock, Electric, Ice
 |-
@@ -100,7 +135,7 @@
 |-
 | Glalie [[File:Glalie.png|25px]] || 123,998,000 || (x4) Fighting, Rock, Steel, Fire
 |-
-| rowspan=6 | Part of [[Questlines#The New Kid|The New Kid]] Quest &lt;br&gt; and Clear Route 226 || rowspan=6 | Between [[Sinnoh#Routes|Routes 226 and 227]] || rowspan=6 | Ash Ketchum Sinnoh [[File:Ash_Ketchum.png|25px]] || rowspan=6 | 12,399,800 || Pikachu (Partner cap) [[File:Pikachu_(Partner_cap).png|25px]] || 123,998,000 || (x4) Ground
+| rowspan=6 | Part of [[Questlines#The New Kid|The New Kid]] Questline &lt;br&gt; and Clear Route 226 || rowspan=6 | Between [[Sinnoh#Routes|Routes 226 and 227]] || rowspan=6 | Ash Ketchum Sinnoh [[File:Ash_Ketchum.png|25px]] || rowspan=6 | 12,399,800 || Pikachu (Partner cap) [[File:Pikachu_(Partner_cap).png|25px]] || 123,998,000 || (x4) Ground
 |-
 | Staraptor [[File:Staraptor.png|25px]] || 123,998,000 || (x2) Rock, Electric, Ice
 |-
@@ -112,7 +147,7 @@
 |-
 | Gible [[File:Gible.png|25px]] || 123,998,000 || (x4) Ice &lt;br&gt; (x2) Dragon, Fairy
 |-
-| rowspan=6 | Part of [[Questlines#The New Kid|The New Kid]] Quest || rowspan=6 | Near [[Chargestone Cave]] || rowspan=6 | Ash Ketchum Unova [[File:Ash_Ketchum.png|25px]] || rowspan=6 | 12,399,800 || Pikachu (Partner cap) [[File:Pikachu_(Partner_cap).png|25px]] || 123,998,000 || (x4) Ground
+| rowspan=6 | Part of [[Questlines#The New Kid|The New Kid]] Questline || rowspan=6 | Near [[Chargestone Cave]] || rowspan=6 | Ash Ketchum Unova [[File:Ash_Ketchum.png|25px]] || rowspan=6 | 12,399,800 || Pikachu (Partner cap) [[File:Pikachu_(Partner_cap).png|25px]] || 123,998,000 || (x4) Ground
 |-
 | Unfezant [[File:Unfezant.png|25px]] || 123,998,000 || (x2) Rock, Electric, Ice
 |-
@@ -124,7 +159,7 @@
 |-
 | Krookodile [[File:Krookodile.png|25px]] || 123,998,000 || (x2) Fighting, Bug, Water, Grass, Ice, Fairy
 |-
-| rowspan=6 | Part of [[Questlines#The New Kid|The New Kid]] Quest || rowspan=6 | Near [[Towns &amp; Cities#Kalos|Kiloude City]] || rowspan=6 | Ash Ketchum Kalos  [[File:Ash_Ketchum.png|25px]] || rowspan=6 | 12,399,800 || Pikachu (Partner cap) [[File:Pikachu_(Partner_cap).png|25px]] || 123,998,000 || (x4) Ground
+| rowspan=6 | Part of [[Questlines#The New Kid|The New Kid]] Questline || rowspan=6 | Near [[Towns &amp; Cities#Kalos|Kiloude City]] || rowspan=6 | Ash Ketchum Kalos  [[File:Ash_Ketchum.png|25px]] || rowspan=6 | 12,399,800 || Pikachu (Partner cap) [[File:Pikachu_(Partner_cap).png|25px]] || 123,998,000 || (x4) Ground
 |-
 | Talonflame [[File:Talonflame.png|25px]] || 123,998,000 || (x4) Rock &lt;br&gt; (x2) Water, Electric
 |-
@@ -136,7 +171,7 @@
 |-
 | Ash Greninja [[File:Ash_Greninja.png|25px]] || 123,998,000 || (x2) Fighting, Bug, Grass, Electric, Fairy
 |-
-| rowspan=6 | Complete [[Questlines#The New Kid|The New Kid]] Quest and &lt;br&gt; Clear [[Pinkan Mountain]] || rowspan=6 | Near [[Kanto#Routes|Pinkan Plains]] || rowspan=6 | Ash Ketchum Pinkan [[File:Ash_Ketchum.png|25px]] || rowspan=6 | 12,399,800 || Pinkan Pikachu [[File:Pinkan Pikachu.png|25px]] || 123,998,000 || (x4) Ground
+| rowspan=6 | Complete [[Questlines#The New Kid|The New Kid]] Questline and &lt;br&gt; Clear [[Pinkan Mountain]] || rowspan=6 | Near [[Kanto#Routes|Pinkan Plains]] || rowspan=6 | Ash Ketchum Pinkan [[File:Ash_Ketchum.png|25px]] || rowspan=6 | 12,399,800 || Pinkan Pikachu [[File:Pinkan Pikachu.png|25px]] || 123,998,000 || (x4) Ground
 |-
 | Snorlax [[File:Snorlax.png|25px]] || 123,998,000 || (x4) Fighting
 |-
@@ -154,7 +189,7 @@
     </contributor>
     <comment>Importing a new version from external source</comment>
     <model>wikitext</model>
-    <parentid>0</parentid>
-    <sha1>69563d1662d4e8fc1726743a09ba49580d32b2bb</sha1>
+    <parentid>30298</parentid>
+    <sha1>b5b61e696a799b68b5de52972c779763d10afe68</sha1>
   </revision>
 </page></mediawiki>

@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>322</id>
   <revision>
-    <id>4787</id>
-    <timestamp>2022-07-30T04:42:55Z</timestamp>
-    <text space="preserve" bytes="5256">{{Infobox dungeon
+    <id>32894</id>
+    <timestamp>2022-12-08T02:21:03Z</timestamp>
+    <text space="preserve" bytes="5277">{{Infobox dungeon
 |name    = Rock Tunnel
 |image   = [[File:Rock Tunnel.png|thumb]]
 |caption = An overhead map of the Rock Tunnel.
@@ -66,7 +66,8 @@
 
 ==Items==
 
-===No Debuff===
+&lt;tabs&gt;
+&lt;tab name="No Debuff"&gt;
 
 {| class="wikitable"
 |-
@@ -80,7 +81,7 @@
 |-
 | {{Bag2|Pokéball}} || 2 || 22.32% || 21.70% || 19.05%
 |-
-| {{Pokemon|Geodude}} || N/A || 11.16% || 10.85% || 9.52%
+| {{Pokemon|Geodude|Mimic}} || N/A || 11.16% || 10.85% || 9.52%
 |-
 | align="center" colspan=5| '''Rare'''
 |-
@@ -104,12 +105,12 @@
 |-
 | {{Bag2|Heart Scale}} || N/A || 0.01% || 0.09% || 0.47%
 |}
+&lt;/tab&gt;
 
-===Debuff Drop Table===
-
+&lt;tab name="Debuff"&gt;
 After Reaching Sinnoh, the drop chance for items in Kanto will be debuffed for any loot with a Tier rarer than Rare (ie: Epic, Legendary, Mythic).
 
-{| class="wikitable collapsible collapsed"
+{| class="wikitable"
 |-
 ! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
 |-
@@ -121,7 +122,7 @@ After Reaching Sinnoh, the drop chance for items in Kanto will be debuffed for a
 |-
 | {{Bag2|Pokéball}} || 2 || 21.62% || 21.62% || 21.62%
 |-
-| {{Pokemon|Geodude}} || N/A || 10.81% || 10.81% || 10.81%
+| {{Pokemon|Geodude|Mimic}} || N/A || 10.81% || 10.81% || 10.81%
 |-
 | align="center" colspan=5| '''Rare'''
 |-
@@ -145,6 +146,8 @@ After Reaching Sinnoh, the drop chance for items in Kanto will be debuffed for a
 |-
 | {{Bag2|Heart Scale}} || N/A || &lt;0.01% || &lt;0.01% || &lt;0.01%
 |}
+&lt;/tab&gt;
+&lt;/tabs&gt;
 
 
 {{Kanto Dungeons}}
@@ -154,9 +157,9 @@ After Reaching Sinnoh, the drop chance for items in Kanto will be debuffed for a
       <username>ThePantMan</username>
       <id>8</id>
     </contributor>
-    <comment>/* Debuff Drop Table */</comment>
+    <comment>/* Tabs */</comment>
     <model>wikitext</model>
-    <parentid>4786</parentid>
-    <sha1>2a47cd98c40415d132995ae26bedf79ad4d20133</sha1>
+    <parentid>4787</parentid>
+    <sha1>3caef78eb9de00ce3d692aced36c6a2a057714ad</sha1>
   </revision>
 </page></mediawiki>

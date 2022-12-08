@@ -4,70 +4,60 @@
   <ns>0</ns>
   <id>9154</id>
   <revision>
-    <id>30701</id>
-    <timestamp>2022-12-05T14:23:43Z</timestamp>
-    <text space="preserve" bytes="5612">&lt;languages/&gt;
-&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+    <id>32831</id>
+    <timestamp>2022-12-07T22:25:35Z</timestamp>
+    <text space="preserve" bytes="5495">&lt;languages/&gt;
 {{Infobox Berry
-|name    = #46 Payapa
+|name    = #46 Yapap
 |image   = [[File:Payapa.png]]
-|caption = This Berry is said to sense human emotions for the way it swells roundly when a person approaches. The same behavior affects nearby plants, causing additional mutations.
+|caption = On dit que cette baie est capable de lire les émotions humaine car elle gonfle quand une personne s'approche. Ce comportement affecte les plantes alentour, causant des mutations additionnelles.
 |growtime  = 9h 30m 0s
-|harvest = 30 berries
+|harvest = 30 baies
 |replant = 5%
-|mutation = 0.01%
-|points = 1,900
+|mutation = 0,01%
+|points = 1 900
 |flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
-*0 spicy 
-*0 dry
-*10 sweet
-*0 bitter
-*15 sour
+*0 Épicée
+*0 Sèche
+*10 Sucrée
+*0 Amère
+*15 Acide
 }}
-&lt;/div&gt;
 
-&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
-'''Payapa''' is a type of [[Berries|Berry]] that can be planted in [[Farm]]. It can be obtained by surrounding an empty plot with at least 1 [[Wiki]], at least 1 [[Bluk]], at least 1 [[Cornn]] and at least 1 [[Pamtre]].
-&lt;/div&gt;
+'''Yapap''' est un type de [[Berries/fr|Baie]] qui peut être plantée à la [[Farm/fr|Ferme]]. Elle peut être obtenue en entourant une parcelle libre avec au moins 1 [[Wiki/fr|Wiki]], au moins 1 [[Bluk/fr|Remu]], au moins 1 [[Cornn/fr|Siam]] et au moins 1 [[Pamtre/fr|Palma]].
 
-&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
-== Growth Tables ==
-=== Growth Stages ===
+== Tables de Croissance ==
+=== Stades de croissance ===
 {| class="wikitable" | style = "image-rendering: pixelated"
-!!! Sprout !! Taller !! Bloom !! Berry
+! !! Pousse !! Arbuste !! Fleuri !! Mûr
 |-
-! Time passed since planting
-| 1 hour 18 mins || 3 hours 18 mins || 6 hours 30 mins || 9 hours 30 mins - 19 hours
+! Temps écoulé après plantation
+| 1 heure 18 mins || 3 heures 18 mins || 6 heures 30 mins || 9 heures 30 mins - 19 heures
 |-
 ! Animation
 | &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt;[[File:PayapaTreeTaller.png|50px]] || &lt;center&gt;[[File:PayapaTreeBloom.png|50px]] || &lt;center&gt;[[File:PayapaTreeBerry.png|50px]]
 |-
-! Aura (mutation rate)
-| || &lt;center&gt; x1.1 || &lt;center&gt; x1.2 || &lt;center&gt; x1.3
+! Aura (chance de mutation)
+| || &lt;center&gt; x1,1 || &lt;center&gt; x1,2 || &lt;center&gt; x1,3
 |}
-&lt;/div&gt;
 
-&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
-=== Ripening Time with Modifiers  ===
+=== Temps de croissance avec modificateurs  ===
 {| class="wikitable" | style="text-align: center;"
-! Modifier !! Ripe-Wither Time !! Boost Mulch Needed to Ripen
+! Modificateur !! Temps maturité-flétrissement !! Nombre de Fertipousse requis
 |-
-! None
-| 9 hours 30 mins -&lt;br&gt; 19 hours || ---
+! Aucun
+| 9 heures 30 mins -&lt;br&gt; 19 heures || ---
 |-
-! Mulch or Sprayduck
-| 6 hours 20 mins -&lt;br&gt; 12 hours 40 mins || 76 mulch
+! Engrais ou Kwakarroisoir
+| 6 heures 20 mins -&lt;br&gt; 12 heures 40 mins || 76 engrais
 |-
-! Mulch &amp; Sprayduck
-| 4 hours 13 mins 20 secs -&lt;br&gt; 8 hours 26 mins 40 secs || 51 mulch
+! Engrais et Kwakarroisoir
+| 4 heures 13 mins 20 secs -&lt;br&gt; 8 heures 26 mins 40 secs || 51 engrais
 |}
-&lt;/div&gt;
 
-&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
-== Flow Chart ==
-[[File:Payapa_Flow_Chart.png|350px]]
+== Organigramme ==
+[[File:Yapap_-_Graph_découverte.png|500px]]
 &lt;br&gt;
-&lt;/div&gt;
 
 &lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
 == Mutation Strategy ==
@@ -76,81 +66,63 @@
 &lt;/div&gt;
 
 
-&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
-You can fill your farm in the following way to obtain Payapa berries. Purple squares indicate where mutations can occur.
-&lt;/div&gt;
+Vous pouvez remplir votre ferme de la manière suivante pour obtenir des baies Yapap. Les cases violettes indiquent où les mutations peuvent avoir lieu.
 
-&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
 {| class="wikitable" style="text-align: center;"
-|+ Farm
+|+ Ferme
 |- style="height: 50px;"
-| style="width: 40px;" | [[File:Wiki.png|30px]]&lt;br&gt;[[Wiki]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Cornn.png|30px]]&lt;br&gt;[[Cornn]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Wiki.png|30px]]&lt;br&gt;[[Wiki]]
+| style="width: 40px;" | [[File:Wiki.png|30px]]&lt;br&gt;[[Wiki/fr|Wiki]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Cornn.png|30px]]&lt;br&gt;[[Cornn/fr|Siam]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Wiki.png|30px]]&lt;br&gt;[[Wiki/fr|Wiki]]
 |-
-| [[File:Bluk.png|30px]]&lt;br&gt;[[Bluk]] || style="background-color:#9C7D98;" | || [[File:Pamtre.png|30px]]&lt;br&gt;[[Pamtre]] || style="background-color:#9C7D98;" | || [[File:Bluk.png|30px]]&lt;br&gt;[[Bluk]]
+| [[File:Bluk.png|30px]]&lt;br&gt;[[Bluk/fr|Remu]] || style="background-color:#9C7D98;" | || [[File:Pamtre.png|30px]]&lt;br&gt;[[Pamtre/fr|Palma]] || style="background-color:#9C7D98;" | || [[File:Bluk.png|30px]]&lt;br&gt;[[Bluk/fr|Remu]]
 |- style="height: 50px;"
 | || style="background-color:#9C7D98;" | || || style="background-color:#9C7D98;" | || 
 |-
-| [[File:Cornn.png|30px]]&lt;br&gt;[[Cornn]]  || style="background-color:#9C7D98;" | || [[File:Wiki.png|30px]]&lt;br&gt;[[Wiki]] || style="background-color:#9C7D98;" | || [[File:Cornn.png|30px]]&lt;br&gt;[[Cornn]] 
+| [[File:Cornn.png|30px]]&lt;br&gt;[[Cornn/fr|Siam]]  || style="background-color:#9C7D98;" | || [[File:Wiki.png|30px]]&lt;br&gt;[[Wiki/fr|Wiki]] || style="background-color:#9C7D98;" | || [[File:Cornn.png|30px]]&lt;br&gt;[[Cornn/fr|Siam]] 
 |-
-| [[File:Pamtre.png|30px]]&lt;br&gt;[[Pamtre]] || style="background-color:#9C7D98;" | || [[File:Bluk.png|30px]]&lt;br&gt;[[Bluk]] || style="background-color:#9C7D98;" | || [[File:Pamtre.png|30px]]&lt;br&gt;[[Pamtre]]
+| [[File:Pamtre.png|30px]]&lt;br&gt;[[Pamtre/fr|Palma]] || style="background-color:#9C7D98;" | || [[File:Bluk.png|30px]]&lt;br&gt;[[Bluk/fr|Remu]] || style="background-color:#9C7D98;" | || [[File:Pamtre.png|30px]]&lt;br&gt;[[Pamtre/fr|Palma]]
 |}
-&lt;/div&gt;
 
-&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
-=== Timing Table ===
+=== Tableau de chronométrage ===
 {| class="wikitable"| style="text-align: center;"
-|+ ''All planting times use the time-to-ripe remaining of the first planted berry for subsequent planting times''
-! Berry !! Planting Time with &lt;br&gt; No Modifier !! Planting Time with &lt;br&gt; Mulch or Sprayduck || Planting Time with &lt;br&gt;  Mulch &amp; Sprayduck
+|+ ''Tous les temps indiqués sont basés sur le temps restant &lt;br&gt; avant que la première baie plantée n'arrive à maturité''
+! ! Baie !! Temps de plantation &lt;br&gt; sans modificateur !! Temps de plantation avec &lt;br&gt; Engrais ou Kwakarrosoir || Temps de plantation avec &lt;br&gt; Engrais et Kwakarrosoir
 |-
-| [[Pamtre]] || - || - || -
+| [[Pamtre/fr|Palma]] || - || - || -
 |-
-| [[Cornn]] || 2 hours 30 mins until ripe || 1 hour 40 mins until ripe || 1 hour 6 mins 7 secs
+| [[Cornn/fr|Siam]] || 2 heures 30 mins à maturité || 1 heure 40 mins à maturité || 1 heure 6 mins 7 secs
 |-
-| [[Wiki]] || 6 mins until ripe || 4 mins until ripe || Not Practical
+| [[Wiki/fr|Wiki]] || 6 mins à maturité || 4 mins à maturité || Non optimal
 |-
-| [[Bluk]] || 5 mins 30 secs until ripe || 3 mins 40 secs until ripe || Not Practical
+| [[Bluk/fr|Remu]] || 5 mins 30 secs à maturité || 3 mins 40 secs à maturité || Non optimal
 |}
-&lt;/div&gt;
 
-&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
-==Uses==
+==Utilisations==
 ===Mutations===
-&lt;/div&gt;
 
-&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
-Payapa berries can be used to mutate the following berries.
-&lt;/div&gt;
+Les baies Yapap peuvent être utilisées pour faire muter les baies suivantes :
 
-&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
 {| class="wikitable" | style="text-align: center;"
 |-
-! Used In !! With
+! Utilisée pour !! Plantée avec
 |-
-| [[File:Colbur.png|20px]] [[Colbur]] || [[File:Rabuta.png|20px]] [[Rabuta]] &lt;br&gt; [[File:Kasib.png|20px]] [[Kasib]]
+| [[File:Colbur.png|20px]] [[Colbur/fr|Lampou]] || [[File:Rabuta.png|20px]] [[Rabuta/fr|Rabuta]] &lt;br&gt; [[File:Kasib.png|20px]] [[Kasib/fr|Sédra]]
 |-
-| [[File:Petaya.png|20px]] [[Petaya]] || [[File:Occa.png|20px]] [[Occa]] [[File:Passho.png|20px]] [[Passho]] &lt;br&gt; [[File:Wacan.png|20px]] [[Wacan]] [[File:Rindo.png|20px]] [[Rindo]] &lt;br&gt; [[File:Yache.png|20px]] [[Yache]] [[File:Chople.png|20px]] [[Chople]] &lt;br&gt; [[File:Kebia.png|20px]] [[Kebia]] [[File:Shuca.png|20px]] [[Shuca]] &lt;br&gt; [[File:Coba.png|20px]] [[Coba]] [[File:Tanga.png|20px]] [[Tanga]] &lt;br&gt; [[File:Charti.png|20px]] [[Charti]] [[File:Kasib.png|20px]] [[Kasib]] &lt;br&gt; [[File:Haban.png|20px]] [[Haban]] [[File:Colbur.png|20px]] [[Colbur]] &lt;br&gt; [[File:Babiri.png|20px]] [[Babiri]] [[File:Chilan.png|20px]] [[Chilan]] &lt;br&gt; [[File:Roseli.png|20px]] [[Roseli]]
+| [[File:Petaya.png|20px]] [[Petaya/fr|Pitaye]] || [[File:Occa.png|20px]] [[Occa/fr|Chocco]] [[File:Passho.png|20px]] [[Passho/fr|Pocpoc]] &lt;br&gt; [[File:Wacan.png|20px]] [[Wacan/fr|Parma]] [[File:Rindo.png|20px]] [[Rindo/fr|Ratam]] &lt;br&gt; [[File:Yache.png|20px]] [[Yache/fr|Nanone]] [[File:Chople.png|20px]] [[Chople/fr|Pomroz]] &lt;br&gt; [[File:Kebia.png|20px]] [[Kebia/fr|Kébia]] [[File:Shuca.png|20px]] [[Shuca/fr|Jouca]] &lt;br&gt; [[File:Coba.png|20px]] [[Coba/fr|Cobaba]] [[File:Tanga.png|20px]] [[Tanga/fr|Panga]] &lt;br&gt; [[File:Charti.png|20px]] [[Charti/fr|Charti]] [[File:Kasib.png|20px]] [[Kasib/fr|Sédra]] &lt;br&gt; [[File:Haban.png|20px]] [[Haban/fr|Fraigo]] [[File:Colbur.png|20px]] [[Colbur/fr|Lampou]] &lt;br&gt; [[File:Babiri.png|20px]] [[Babiri/fr|Babiri]] [[File:Chilan.png|20px]] [[Chilan/fr|Zalis]] &lt;br&gt; [[File:Roseli.png|20px]] [[Roseli/fr|Selro]]
 |-
 |}
-&lt;/div&gt;
 
-&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
 &lt;br&gt;
-&lt;/div&gt;
 
-&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
 {{Berries}}
-&lt;/div&gt;
 
-&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
-[[Category:Farm]][[Category:Berries]]
-&lt;/div&gt;</text>
+[[Category:Farm]][[Category:Berries]]</text>
     <contributor>
-      <username>FuzzyBot</username>
-      <id>133</id>
+      <username>Razikd</username>
+      <id>33</id>
     </contributor>
-    <comment>Updating to match new version of source page</comment>
+    <comment>Imported translation using [[Special:PageMigration|page migration]]</comment>
     <model>wikitext</model>
-    <parentid>24864</parentid>
-    <sha1>b4239a92078f35073829bd93f8f6e78d618dae11</sha1>
+    <parentid>32829</parentid>
+    <sha1>8ddcaef3b1354b6edc4965999948fe4e738192ca</sha1>
   </revision>
 </page></mediawiki>

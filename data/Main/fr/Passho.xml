@@ -4,175 +4,138 @@
   <ns>0</ns>
   <id>8963</id>
   <revision>
-    <id>30703</id>
-    <timestamp>2022-12-05T14:23:46Z</timestamp>
-    <text space="preserve" bytes="6421">&lt;languages/&gt;
-&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+    <id>32676</id>
+    <timestamp>2022-12-07T15:48:02Z</timestamp>
+    <text space="preserve" bytes="6172">&lt;languages/&gt;
 {{Infobox Berry
-|name    = #38 Passho
+|name    = #38 Pocpoc
 |image   = [[File:Passho.png]]
-|caption = This Berry's flesh is dotted with countless tiny bubbles of air that keep it afloat in water. This Berry promotes the fruiting of nearby Berry plants.
-|growtime  =6h 0m 0s
-|harvest = 22 berries
+|caption = La chair de cette Baie est couverte de petites bulles d'air qui lui permettent de flotter sur l'eau.
+|growtime = 6h 0m 0s
+|harvest = 22 baies
 |replant = 5%
-|mutation = 0.01%
-|points = 1,300
+|mutation = 0,01%
+|points = 1 300
 |flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
-*0 spicy 
-*15 dry
-*0 sweet
-*10 bitter
-*0 sour
+*0 épicée 
+*15 sèche
+*0 sucrée
+*10 amère
+*0 acide
 }}
-&lt;/div&gt;
 
-&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
-'''Passho''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by surrounding an empty plot with at least 1 [[Oran]], at least 1 [[Chesto]], at least 1 [[Kelpsy]] and at least 1 [[Coba]].
-&lt;/div&gt;
+'''Pocpoc''' est un type de [[Berries/fr|Baie]] qui peut être plantée dans la [[Farm/fr|Ferme]]. Elle s'obtient en entourant une parcelle vide avec au moins 1 [[Oran/fr|Oran]], au moins 1 [[Chesto/fr|Maron]], au moins 1 [[Kelpsy/fr|Alga]] et au moins 1 [[Coba/fr|Cobaba]].
 
-&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
-When a Passho berry is not surrounded by at least one other berry, there is a chance it may mutate to a [[Yache]]. On obtaining your first Passho berry, plant a berry ([[Kasib]] is a good choice) around it to avoid it unintentionally mutating and then needing to reobtain it.
-&lt;/div&gt;
+Lorsqu'une baie Pocpoc est entourée d'au moins une autre baie, il y a des chances que cette première mute en [[Yache/fr|Nanone]]. Pour l'obtention de votre première baie Pocpoc, il est alors conseillé de planter une baie [[Kasib/fr|Sédra]] dans ses alentours afin d'éviter qu'elle ne mute.
 
-&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
-== Growth Tables ==
-=== Growth Stages ===
+== Tables de croissance ==
+=== Stades de croissance ===
 {| class="wikitable" | style = "image-rendering: pixelated"
-!!! Sprout !! Taller !! Bloom !! Berry
+! !! Pousse !! Arbuste !! Fleuri !! Mûr
 |-
-! Time passed since planting
-| 8 mins 10 secs || 1 hour || 3 hours || 6 hours - 12 hours
+! Temps écoulé depuis plantation
+| 8 mins 10 secs || 1 heure || 3 heures || 6 heures - 12 heures
 |-
 ! Animation
 | &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:PasshoTreeTaller.png|50px]] || &lt;center&gt; [[File:PasshoTreeBloom.png|50px]] || &lt;center&gt; [[File:PasshoTreeBerry.png|50px]]
 |-
-! Aura (harvest amount)
-| || &lt;center&gt; x1.1 || &lt;center&gt; x1.2 || &lt;center&gt; x1.3
+! Aura (quantité récoltée)
+| || &lt;center&gt; x1,1 || &lt;center&gt; x1,2 || &lt;center&gt; x1,3
 |}
-&lt;/div&gt;
 
-&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
-=== Ripening Time with Modifiers  ===
+=== Temps de croissance avec modificateurs  ===
 {| class="wikitable" | style="text-align: center;"
-! Modifier !! Ripe-Wither Time !! Boost Mulch Needed to Ripen
+! Modificateur !! Temps maturité-flétrissement !! Nombre de Fertipousse requis
 |-
-! None
-| 6 hours -&lt;br&gt; 12 hours || ---
+! Aucun
+| 6 heures -&lt;br&gt; 12 heures || ---
 |-
-! Mulch or Sprayduck
-| 4 hours -&lt;br&gt; 8 hours || 48 mulch
+! Engrais ou Kwakarroisoir
+| 4 heures -&lt;br&gt; 8 heures || 48 engrais
 |-
-! Mulch &amp; Sprayduck
-| 2 hours 40 mins -&lt;br&gt; 5 hours 20 mins || 32 mulch
+! Engrais ou Kwakarroisoir
+| 2 heures 40 mins -&lt;br&gt; 5 heures 20 mins || 32 engrais
 |}
-&lt;/div&gt;
 
-&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
-== Flow Chart ==
-[[File:Passho_Flow_Chart_Updated.png|350px]]
+== Organigramme ==
+[[File:Pocpoc_-_Graph_découverte.png|350px]]
 &lt;br&gt;
-&lt;/div&gt;
 
-&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
-== Mutation Strategy ==
-=== Possible Planting Formations ===
-&lt;/div&gt;
+== Stratégie de mutation ==
+=== Formations possibles ===
 
-&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
-You can fill your farm in the following way to obtain Passho berries. Purple squares indicate where mutations can occur.
-&lt;/div&gt;
+Vous pouvez remplir votre ferme de la manière suivante pour obtenir des baies Pocpoc. Les cases violettes indiquent où les mutations peuvent avoir lieu.
 
-&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
 {| class="wikitable" style="text-align: center;"
-|+ Base Formation
+|+ Formation&amp;nbsp;de&amp;nbsp;base
 |- style="height: 50px;"
-| style="width: 40px;" | [[File:Oran.png|30px]]&lt;br&gt;[[Oran]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Kelpsy.png|30px]]&lt;br&gt;[[Kelpsy]]
+| style="width: 40px;" | [[File:Oran.png|30px]]&lt;br&gt;[[Oran/fr|Oran]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Kelpsy.png|30px]]&lt;br&gt;[[Kelpsy/fr|Alga]]
 |-
-| [[File:Chesto.png|30px]]&lt;br&gt;[[Chesto]] || style="background-color:#9C7D98;" | || [[File:Coba.png|30px]]&lt;br&gt;[[Coba]]
+| [[File:Chesto.png|30px]]&lt;br&gt;[[Chesto/fr|Maron]] || style="background-color:#9C7D98;" | || [[File:Coba.png|30px]]&lt;br&gt;[[Coba/fr|Cobaba]]
 |}
-&lt;/div&gt;
 
-&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
 {| class="wikitable" style="text-align: center;"
-|+ Optimized Planting Formation
+|+ Formation optimisée
 |- style="height: 50px;"
-| style="width: 40px;" | [[File:Oran.png|30px]]&lt;br&gt;[[Oran]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Kelpsy.png|30px]]&lt;br&gt;[[Kelpsy]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Oran.png|30px]]&lt;br&gt;[[Oran]]
+| style="width: 40px;" | [[File:Oran.png|30px]]&lt;br&gt;[[Oran/fr|Oran]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Kelpsy.png|30px]]&lt;br&gt;[[Kelpsy/fr|Alga]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Oran.png|30px]]&lt;br&gt;[[Oran/fr|Oran]]
 |-
-| [[File:Chesto.png|30px]]&lt;br&gt;[[Chesto]] || style="background-color:#9C7D98;" | || [[File:Coba.png|30px]]&lt;br&gt;[[Coba]] || style="background-color:#9C7D98;" | || [[File:Chesto.png|30px]]&lt;br&gt;[[Chesto]]
+| [[File:Chesto.png|30px]]&lt;br&gt;[[Chesto/fr|Maron]] || style="background-color:#9C7D98;" | || [[File:Coba.png|30px]]&lt;br&gt;[[Coba/fr|Cobaba]] || style="background-color:#9C7D98;" | || [[File:Chesto.png|30px]]&lt;br&gt;[[Chesto/fr|Maron]]
 |- style="height: 50px;"
 | || style="background-color:#9C7D98;" | || || style="background-color:#9C7D98;" | || 
 |-
-| [[File:Kelpsy.png|30px]]&lt;br&gt;[[Kelpsy]] || style="background-color:#9C7D98;" | || [[File:Oran.png|30px]]&lt;br&gt;[[Oran]] || style="background-color:#9C7D98;" | || [[File:Kelpsy.png|30px]]&lt;br&gt;[[Kelpsy]] 
+| [[File:Kelpsy.png|30px]]&lt;br&gt;[[Kelpsy/fr|Alga]] || style="background-color:#9C7D98;" | || [[File:Oran.png|30px]]&lt;br&gt;[[Oran/fr|Oran]] || style="background-color:#9C7D98;" | || [[File:Kelpsy.png|30px]]&lt;br&gt;[[Kelpsy/fr|Alga]] 
 |-
-| [[File:Coba.png|30px]]&lt;br&gt;[[Coba]] || style="background-color:#9C7D98;" | || [[File:Chesto.png|30px]]&lt;br&gt;[[Chesto]] || style="background-color:#9C7D98;" | || [[File:Coba.png|30px]]&lt;br&gt;[[Coba]]
+| [[File:Coba.png|30px]]&lt;br&gt;[[Coba/fr|Cobaba]] || style="background-color:#9C7D98;" | || [[File:Chesto.png|30px]]&lt;br&gt;[[Chesto/fr|Maron]] || style="background-color:#9C7D98;" | || [[File:Coba.png|30px]]&lt;br&gt;[[Coba/fr|Cobaba]]
 |}
-&lt;/div&gt;
 
-&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
-=== Timing Table ===
+=== Tableau de chronométrage ===
 {| class="wikitable"| style="text-align: center;"
-|+ ''All planting times use the time-to-ripe remaining of the first planted berry for subsequent planting times''
-! Berry !! Planting Time with &lt;br&gt; No Modifier !! Planting Time with &lt;br&gt; Mulch or Sprayduck || Planting Time with &lt;br&gt;  Mulch &amp; Sprayduck
+|+ ''Tous les temps indiqués sont basés sur le temps restant avant que la première baie plantée n'arrive à maturité''
+! Baie !! Temps de plantation &lt;br&gt; sans modificateur  !! Temps de plantation avec &lt;br&gt; Engrais ou Kwakarrosoir || Temps de plantation avec &lt;br&gt; Engrais et Kwakarrosoir
 |-
-| [[Coba]] || - || - || -
+| [[Coba/fr|Cobaba]] || - || - || -
 |-
-| [[Kelpsy]] || 1 hour 40 mins until ripe || 1 hour 6 mins 40  secs until ripe || 44 mins 27 secs until ripe
+| [[Kelpsy/fr|Alga]] || 1 heure 40 mins à maturité || 1 heure 6 mins 40 secs à maturité || 44 mins 27 secs à maturité
 |-
-| [[Oran]] || 5 mins until ripe || 3 mins 20 secs until ripe || Not Practical
+| [[Oran/fr|Oran]] || 5 mins à maturité || 3 mins 20 secs à maturité || Non optimal
 |-
-| [[Chesto]] || 40 secs until ripe || 27 secs until ripe || Not Practical
+| [[Chesto/fr|Maron]] || 40 secs à maturité || 27 secs à maturité || Non optimal
 |}
-&lt;/div&gt;
 
-&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
-==Uses==
+==Utilisations==
 ===Mutations===
-&lt;/div&gt;
 
-&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
-Passho berries can be used to mutate the following berries.
-&lt;/div&gt;
+Les baies Pocpoc peuvent être utilisées pour faire muter les baies suivantes :
 
-&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
 {| class="wikitable" | style="text-align: center;"
 |-
-! Used In !! With
+! Utilisée pour !! Plantée avec
 |-
-| [[File:Yache.png|20px]] [[Yache]] || -
+| [[File:Yache.png|20px]] [[Yache/fr|Nanone]] || -
 |-
-| [[File:Haban.png|20px]] [[Haban]] || [[File:Occa.png|20px]] [[Occa]] &lt;br&gt; [[File:Wacan.png|20px]] [[Wacan]] &lt;br&gt; [[File:Rindo.png|20px]] [[Rindo]]
+| [[File:Haban.png|20px]] [[Haban/fr|Fraigo]] || [[File:Occa.png|20px]] [[Occa/fr|Chocco]] &lt;br&gt; [[File:Wacan.png|20px]] [[Wacan/fr|Parma]] &lt;br&gt; [[File:Rindo.png|20px]] [[Rindo/fr|Ratam]]
 |-
-| [[File:Liechi.png|20px]] [[Liechi]] || -
+| [[File:Liechi.png|20px]] [[Liechi/fr|Lichii]] || -
 |-
-| [[File:Petaya.png|20px]] [[Petaya]] || [[File:Occa.png|20px]] [[Occa]] [[File:Wacan.png|20px]] [[Wacan]] &lt;br&gt; [[File:Rindo.png|20px]] [[Rindo]] [[File:Yache.png|20px]] [[Yache]] &lt;br&gt; [[File:Chople.png|20px]] [[Chople]] [[File:Kebia.png|20px]] [[Kebia]] &lt;br&gt; [[File:Shuca.png|20px]] [[Shuca]] [[File:Coba.png|20px]] [[Coba]] &lt;br&gt; [[File:Payapa.png|20px]] [[Payapa]] [[File:Tanga.png|20px]] [[Tanga]] &lt;br&gt; [[File:Charti.png|20px]] [[Charti]] [[File:Kasib.png|20px]] [[Kasib]] &lt;br&gt; [[File:Haban.png|20px]] [[Haban]] [[File:Colbur.png|20px]] [[Colbur]] &lt;br&gt; [[File:Babiri.png|20px]] [[Babiri]] [[File:Chilan.png|20px]] [[Chilan]] &lt;br&gt; [[File:Roseli.png|20px]] [[Roseli]]
+| [[File:Petaya.png|20px]] [[Petaya/fr|Pitaye]] || [[File:Occa.png|20px]] [[Occa/fr|Chocco]] [[File:Wacan.png|20px]] [[Wacan/fr|Parma]] &lt;br&gt; [[File:Rindo.png|20px]] [[Rindo/fr|Ratam]] [[File:Yache.png|20px]] [[Yache/fr|Nanone]] &lt;br&gt; [[File:Chople.png|20px]] [[Chople/fr|Pomroz]] [[File:Kebia.png|20px]] [[Kebia/fr|Kébia]] &lt;br&gt; [[File:Shuca.png|20px]] [[Shuca/fr|Jouca]] [[File:Coba.png|20px]] [[Coba/fr|Cobaba]] &lt;br&gt; [[File:Payapa.png|20px]] [[Payapa/fr|Yapap]] [[File:Tanga.png|20px]] [[Tanga/fr|Panga]] &lt;br&gt; [[File:Charti.png|20px]] [[Charti/fr|Charti]] [[File:Kasib.png|20px]] [[Kasib/fr|Sédra]] &lt;br&gt; [[File:Haban.png|20px]] [[Haban/fr|Fraigo]] [[File:Colbur.png|20px]] [[Colbur/fr|Lampou]] &lt;br&gt; [[File:Babiri.png|20px]] [[Babiri/fr|Babiri]] [[File:Chilan.png|20px]] [[Chilan/fr|Zalis]] &lt;br&gt; [[File:Roseli.png|20px]] [[Roseli/fr|Selro]]
 |-
 |}
-&lt;/div&gt;
 
-&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
-==Using Passho==
-Farm setups using Passho can be found here:
-* [[Farming Setups|Various useful Farming Setups]]
-&lt;/div&gt;
+==Utiliser la Pocpoc==
+Des [[Farming Setups/fr|configurations de Ferme]] utilisant la Pocpoc sont listées [[Farming Setups/fr#Configurations de récolte par aura|ici]].
 
-&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
 &lt;br&gt;
-&lt;/div&gt;
 
-&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
 {{Berries}}
-&lt;/div&gt;
 
-&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
-[[Category:Farm]][[Category:Berries]]
-&lt;/div&gt;</text>
+[[Category:Farm]][[Category:Berries]][[Category:Ferme]][[Category:Baies]]</text>
     <contributor>
-      <username>FuzzyBot</username>
-      <id>133</id>
+      <username>Razikd</username>
+      <id>33</id>
     </contributor>
-    <comment>Updating to match new version of source page</comment>
+    <comment>Imported translation using [[Special:PageMigration|page migration]]</comment>
     <model>wikitext</model>
-    <parentid>24468</parentid>
-    <sha1>906ab752b76a0fa7ab71476aa46fb133f05d2a0a</sha1>
+    <parentid>32674</parentid>
+    <sha1>202c8c285c8185f56817150166bb85d99de75adc</sha1>
   </revision>
 </page></mediawiki>

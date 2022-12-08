@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>8946</id>
   <revision>
-    <id>32166</id>
-    <timestamp>2022-12-06T16:30:32Z</timestamp>
-    <text space="preserve" bytes="6260">&lt;languages/&gt;
+    <id>32731</id>
+    <timestamp>2022-12-07T17:20:07Z</timestamp>
+    <text space="preserve" bytes="7229">&lt;languages/&gt;
 {{Infobox Berry
 |name    = #68 Enigma
 |image   = [[File:Enigma.png]]
@@ -26,8 +26,13 @@
 
 '''Enigma''' est un type de [[Berries/fr|Baie]] qui peut être plantée à la [[Farm/fr|Ferme]]. Elle s'obtient en liant votre jeu à un compte [https://discord.gg/a6DFe4p Discord], en obtenant 4 indices différents du [[Berry Master/fr|Maître des Baies]] de Kanto et en entourant une parcelle vide avec les baies correspondant à ces indices.
 
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+'''Note:''' Kanto Berry Master can give hints explaining how mutate ANY berry that player can mutate at that moment, so it is highly possible he gives hints not related to enigma, any Enigma hint must follow the following format: '''"There's a mysterious Berry that requires a XXXX berry to the north/west/east/south" '''
+&lt;/div&gt;
+
 Pour lier votre compte Discord, cliquez sur le Menu Démarrer, puis Sauvegarde, cliquez ensuite sur le bouton Lier à Discord. Cela vous redirigera vers une page Discord, cliquez alors sur le bouton Autoriser. Votre sauvegarde est maintenant liée à votre compte Discord.
 
+&lt;div class="mw-translate-fuzzy"&gt;
 == Tableaux de croissance ==
 === Stades de croissance ===
 {| class="wikitable" | style = "image-rendering: pixelated"
@@ -43,6 +48,24 @@ Pour lier votre compte Discord, cliquez sur le Menu Démarrer, puis Sauvegarde, 
 ! Taux de mutation d'Enigma
 | colspan=3|&lt;center&gt;N/A || &lt;center&gt; 0,04%
 |}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Growth Tables ==
+=== Growth Stages ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 3 hours || 6 hours || 12 hours || 1 day - 7 days
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:EnigmaTreeTaller.png|50px]] || &lt;center&gt; [[File:EnigmaTreeBloom.png|50px]] || &lt;center&gt; [[File:EnigmaTreeBerry.png|50px]]
+|-
+! Enigma Mutation Odds
+| colspan=3|&lt;center&gt;N/A || &lt;center&gt; 0.04%
+|}
+&lt;/div&gt;
 
 ===Temps de croissance avec modificateurs===
 {| class="wikitable collapsible" | style="text-align: center;"
@@ -128,12 +151,12 @@ Des agencements de Ferme utilisant l'Enigma peuvent être consultés sur cette p
 
 [[Category:Farm]][[Category:Berries]][[Category:Ferme]][[Category:Baies]]</text>
     <contributor>
-      <username>Razikd</username>
-      <id>33</id>
+      <username>FuzzyBot</username>
+      <id>133</id>
     </contributor>
-    <comment>Imported translation using [[Special:PageMigration|page migration]]</comment>
+    <comment>Updating to match new version of source page</comment>
     <model>wikitext</model>
-    <parentid>32163</parentid>
-    <sha1>be0444751f2757dee3b43d1b37451cd40cfe093e</sha1>
+    <parentid>32166</parentid>
+    <sha1>1269110efad363f1f79c6ff438b0ec28efb2878a</sha1>
   </revision>
 </page></mediawiki>

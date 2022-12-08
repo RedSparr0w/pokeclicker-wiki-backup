@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>780</id>
   <revision>
-    <id>8043</id>
-    <timestamp>2022-08-11T05:10:12Z</timestamp>
-    <text space="preserve" bytes="8221">&lt;languages/&gt;
+    <id>32558</id>
+    <timestamp>2022-12-07T15:01:02Z</timestamp>
+    <text space="preserve" bytes="8465">&lt;languages/&gt;
 &lt;translate&gt;
 
 &lt;!--T:1--&gt;
@@ -29,33 +29,33 @@ As of version 0.9.8, there are fourteen distinct types of Pokéball, each with t
 {| class="wikitable sortable"
 ! Ball !! Description !! Catch bonus (%) !! Catch time (s) !! Price
 |-
-| [[Pokéball]] || [[File:Ball_Pokeball.png|24px]] A standard Pokéball || 0 || 1.25 || 100 {{pdollar}}
+| [[Pokéball|Poké Ball]] || [[File:Ball_Pokeball.png|24px]] A standard Pokéball || 0 || 1.25 || 100 {{pdollar}}
 |-
-| [[Greatball]] || [[File:Greatball.png|24px]] +5% chance to catch || 5 || 1 || 500 {{pdollar}}
+| [[Greatball|Great Ball]] || [[File:Greatball.png|24px]] +5% chance to catch || 5 || 1 || 500 {{pdollar}}
 |-
-| [[Ultraball]] || [[File:Ultraball.png|24px]] +10% chance to catch || 10 || 0.75 || 2,000 {{pdollar}}
+| [[Ultraball|Ultra Ball]] || [[File:Ultraball.png|24px]] +10% chance to catch || 10 || 0.75 || 2,000 {{pdollar}}
 |-
-| [[Masterball]] || [[File:Masterball.png|24px]] +100% chance to catch || 100 || 0.5 || Variable
+| [[Masterball|Master Ball]] || [[File:Masterball.png|24px]] +100% chance to catch || 100 || 0.5 || Variable
 |-
-| [[Fastball]] || [[File:Fastball.png|24px]] Reduced catch time || 0 || 0.5 || rowspan = 4 | &lt;center&gt; Variable [[Berries]] &lt;br&gt;&lt;br&gt;20 - 40 Random [[File:Cheri.png|25px]] [[Berries#Gen 1 Berries|Gen 1 Berries]] &lt;br&gt; 5 - 15 Random [[File:Persim.png|25px]] [[Berries#Gen 2 Berries|Gen 2 Berries]]
+| [[Fastball|Fast Ball]] || [[File:Fastball.png|24px]] Reduced catch time || 0 || 0.5 || rowspan = 4 | &lt;center&gt; Variable [[Berries]] &lt;br&gt;&lt;br&gt;20 - 40 Random [[File:Cheri.png|25px]] [[Berries#Gen 1 Berries|Gen 1 Berries]] &lt;br&gt; 5 - 15 Random [[File:Persim.png|25px]] [[Berries#Gen 2 Berries|Gen 2 Berries]] in [[Shops|Goldenrod City]] [[Berry Master]] 
 |-
-| [[Quickball]] || [[File:Quickball.png|24px]] Increased catch rate on routes with less Pokémon defeated || 15% (0 route kills) to&lt;br&gt;0% (4012 route kills) || 1
+| [[Quickball|Quick Ball]] || [[File:Quickball.png|24px]] Increased catch rate on routes with less Pokémon defeated || 15% (0 route kills) to&lt;br&gt;0% (4012 route kills) || 1
 |-
-| [[Timerball]] || [[File:Timerball.png|24px]] Increased catch rate on routes with more Pokémon defeated || 0% (0 route kills) to&lt;br&gt;15% (9920 route kills) || 1
+| [[Timerball|Timer Ball]] || [[File:Timerball.png|24px]] Increased catch rate on routes with more Pokémon defeated || 0% (0 route kills) to&lt;br&gt;15% (9920 route kills) || 1
 |-
-| [[Duskball]] || [[File:Duskball.png|24px]] Increased catch rate at night time or in dungeons || 15% between 6pm to 6am or in dungeons,&lt;br&gt;0% otherwise || 1
+| [[Duskball|Dusk Ball]] || [[File:Duskball.png|24px]] Increased catch rate at night time or in dungeons || 15% between 6pm to 6am or in dungeons,&lt;br&gt;0% otherwise || 1
 |-
-| [[Luxuryball]] || [[File:Luxuryball.png|24px]] A Luxury Pokéball || 0 || 1.25 || 20 - 40 Random [[File:Cheri.png|25px]] [[Berries#Gen 1 Berries|Gen 1 Berries]] &lt;br&gt; 5 - 15 Random [[File:Persim.png|25px]] [[Berries#Gen 2 Berries|Gen 2 Berries]] &lt;br&gt; 5 - 10 Random [[File:Pomeg.png|25px]] [[Berries#Gen 3 Berries|Gen 3 Berries]]
+| [[Luxuryball|Luxury Ball]] || [[File:Luxuryball.png|24px]] A Luxury Pokéball || 0 || 1.25 || 20 - 40 Random [[File:Cheri.png|25px]] [[Berries#Gen 1 Berries|Gen 1 Berries]] &lt;br&gt; 5 - 15 Random [[File:Persim.png|25px]] [[Berries#Gen 2 Berries|Gen 2 Berries]] &lt;br&gt; 5 - 10 Random [[File:Pomeg.png|25px]] [[Berries#Gen 3 Berries|Gen 3 Berries]] in [[Shops|Goldenrod City]] [[Berry Master]] 
 |-
-| [[Diveball]] || [[File:Diveball.png|24px]] Increased catch rate in water environments || 15% in water environments, &lt;br&gt;0% otherwise || 1.25 || rowspan=4| N/A (only as [[Dungeons|Dungeon]] loot)
+| [[Diveball|Dive Ball]] || [[File:Diveball.png|24px]] Increased catch rate in water environments || 15% in water environments, &lt;br&gt;0% otherwise || 1.25 || rowspan=4| N/A (only as [[Dungeons|Dungeon]] loot)
 |-
-| [[Lureball]] || [[File:Lureball.png|24px]] Increased catch rate on fished Pokémon || 15% on fished Pokémon, &lt;br&gt;0% otherwise || 1.25
+| [[Lureball|Lure Ball]] || [[File:Lureball.png|24px]] Increased catch rate on fished Pokémon || 15% on fished Pokémon, &lt;br&gt;0% otherwise || 1.25
 |-
-| [[Nestball]] || [[File:Nestball.png|24px]] Increased catch rate on earlier routes || 15% on early routes to&lt;br&gt;1% in late routes || 1.25
+| [[Nestball|Nest Ball]] || [[File:Nestball.png|24px]] Increased catch rate on earlier routes || 15% on early routes to&lt;br&gt;1% in late routes || 1.25
 |-
-| [[Repeatball]] || [[File:Repeatball.png|24px]] Increased catch rate the more a Pokémon is captured. Also, gives 5x more [[Pokérus|EVs]] per capture || 15% at 274 captures to&lt;br&gt;0% at 0 captures || 1.25
+| [[Repeatball|Repeat Ball]] || [[File:Repeatball.png|24px]] Increased catch rate the more a Pokémon is captured. Also, gives 5x more [[Pokérus|EVs]] per capture || 15% at 274 captures to&lt;br&gt;0% at 0 captures || 1.25
 |-
-| [[Beastball]] || [[File:Beastball.png|25px]] Used to catch Ultra Beasts. Does not work with normal Pokémon || 10% to Ultra Beasts || 1s || 500 {{questpoints}}
+| [[Beastball|Beast Ball]] || [[File:Beastball.png|25px]] Used to catch Ultra Beasts. Does not work with normal Pokémon || 10% to Ultra Beasts || 1s || 500 {{questpoints}}
 |}
 
 =Timer Ball and Quickball Rate Modification= &lt;!--T:4--&gt;
@@ -156,12 +156,12 @@ As of version 0.6.7, any bonus to the Luxuryball has not been implemented and it
 [[Category:Items]] [[Category:Pokéballs]]
 &lt;/translate&gt;</text>
     <contributor>
-      <username>Jk13</username>
-      <id>14</id>
+      <username>SomeonealiveQN</username>
+      <id>5</id>
     </contributor>
     <comment></comment>
     <model>wikitext</model>
-    <parentid>8042</parentid>
-    <sha1>89853f36975b9fc6a8310878235fd02aa157f77b</sha1>
+    <parentid>32427</parentid>
+    <sha1>1e5124ff3150b3e35ace53b20592a7c7bea44b48</sha1>
   </revision>
 </page></mediawiki>

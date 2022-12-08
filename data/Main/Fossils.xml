@@ -4,11 +4,11 @@
   <ns>0</ns>
   <id>143</id>
   <revision>
-    <id>32199</id>
-    <timestamp>2022-12-06T21:16:51Z</timestamp>
-    <text space="preserve" bytes="3037">'''Fossils''' are petrified organic relics that can be unearthed in the [[Underground]]. They may either be traded for [[Gem Plates]] or objects that can be sold for [[Diamonds]], or put into the hatchery to obtain Fossil Pokémon. Fossils generally can only be obtained upon reaching the region the Pokémon they yield can be found in. However, by utilizing the Daily Deals of the Underground fossils may be obtained (but not bred) in earlier regions.
+    <id>32765</id>
+    <timestamp>2022-12-07T18:27:18Z</timestamp>
+    <text space="preserve" bytes="3579">'''Fossils''' are petrified organic relics that can be unearthed in the [[Underground]]. They may either be traded for [[Gem Plates]] or objects that can be sold for [[Diamonds]], or put into the hatchery to obtain Fossil Pokémon. Fossils generally can only be obtained upon reaching the region the Pokémon they yield can be found in. However, by utilizing the Daily Deals of the Underground fossils may be obtained (but not bred) in earlier regions.
 
-=Released=
+=Fossil List=
 
 {| class="wikitable"
 |-
@@ -35,25 +35,51 @@
 | rowspan = 2 | [[Kalos]] || [[File:Jaw_Fossil.png|50px]]&lt;br /&gt;[[Jaw_Fossil|Jaw]] || [[File:JawFossilMine.png|100px]] || [[File:Tyrunt.png|40px]] Tyrunt
 |-
 | [[File:Sail_Fossil.png|50px]]&lt;br /&gt;[[Sail_Fossil|Sail]] || [[File:SailFossilMine.png|100px]] || [[File:Amaura.png|40px]] Amaura
+|} 
+
+=Fossils Parts=
+In the [[Galar|Galar Region]] instead of Fossils you get introduced to Fossil Parts, that also can be found in the [[Underground]] with the following layouts:
+
+{| class="wikitable"
 |-
-| rowspan = 4 | [[Galar]] || [[File:Fossilized_Drake.png|50px]]&lt;br /&gt;[[Fossilized Drake]] || [[File:FossilizedDrakeMine.png|100px]] || [[File:Dracozolt.png|40px]] Dracozolt&lt;br /&gt; [[File:Dracovish.png|40px]] Dracovish
+! Fossil !! Mine layout
 |-
-| [[File:Fossilized_Dino.png|50px]]&lt;br /&gt;[[Fossilized Dino]] || [[File:FossilizedDinoMine.png|100px]] || [[File:Arctozolt.png|40px]] Arctozolt&lt;br /&gt; [[File:Arctovish.png|40px]] Arctovish
+| [[File:Fossilized_Drake.png|50px]]&lt;br /&gt;[[Fossilized Drake]] || [[File:FossilizedDrakeMine.png|100px]]
 |-
-| [[File:Fossilized_Bird.png|50px]]&lt;br /&gt;[[Fossilized Bird]] || [[File:FossilizedBirdMine.png|100px]] || [[File:Dracozolt.png|40px]] Dracozolt&lt;br /&gt; [[File:Arctozolt.png|40px]] Arctozolt
+| [[File:Fossilized_Dino.png|50px]]&lt;br /&gt;[[Fossilized Dino]] || [[File:FossilizedDinoMine.png|100px]]
 |-
-| [[File:Fossilized_Fish.png|50px]]&lt;br /&gt;[[Fossilized Fish]] || [[File:FossilizedFishMine.png|100px]] || [[File:Dracovish.png|40px]] Dracovish&lt;br /&gt; [[File:Arctovish.png|40px]] Arctovish
+| [[File:Fossilized_Bird.png|50px]]&lt;br /&gt;[[Fossilized Bird]] || [[File:FossilizedBirdMine.png|100px]]
+|-
+| [[File:Fossilized_Fish.png|50px]]&lt;br /&gt;[[Fossilized Fish]] || [[File:FossilizedFishMine.png|100px]]
 |}
 
+==Use==
+These Fossils can be traded for Pokémons in the [[Shops#Galar|Stow-on-Side Fossil Master]] into 4 different species in the following way:
+
+{| class="wikitable"
+|-
+! Fossil !! [[File:Fossilized_Bird.png|50px]]&lt;br /&gt;[[Fossilized Bird]] !! [[File:Fossilized_Fish.png|50px]]&lt;br /&gt;[[Fossilized Fish]]
+|-
+! [[File:Fossilized_Drake.png|50px]]&lt;br /&gt;[[Fossilized Drake]] 
+| [[File:Dracozolt.png|40px]] Dracozolt 
+| [[File:Dracovish.png|40px]] Dracovish
+|-
+! [[File:Fossilized_Dino.png|50px]]&lt;br /&gt;[[Fossilized Dino]] 
+| [[File:Arctozolt.png|40px]] Arctozolt 
+| [[File:Arctovish.png|40px]] Arctovish
+|} 
+'''Note:*''' Each trade costs 25k [[Quest Points]] {{Questpoints}}.
+
+&lt;br&gt;
 {{Underground Items}}
 [[Category:Pokémon]] [[Category:Fossils]]</text>
     <contributor>
-      <username>Razorflame</username>
-      <id>9</id>
+      <username>Jk13</username>
+      <id>14</id>
     </contributor>
-    <comment>/* Released */</comment>
+    <comment></comment>
     <model>wikitext</model>
-    <parentid>32198</parentid>
-    <sha1>786f888e4267f508030963e718db80ce8230558b</sha1>
+    <parentid>32617</parentid>
+    <sha1>fc9f553e2235545032a287fdc113b364259d0043</sha1>
   </revision>
 </page></mediawiki>

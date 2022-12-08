@@ -4,9 +4,12 @@
   <ns>0</ns>
   <id>3615</id>
   <revision>
-    <id>13669</id>
-    <timestamp>2022-07-25T00:24:50Z</timestamp>
-    <text space="preserve" bytes="997">{{Infobox Underground Item
+    <id>32295</id>
+    <timestamp>2022-12-07T12:27:53Z</timestamp>
+    <text space="preserve" bytes="1123">&lt;languages/&gt;
+&lt;translate&gt;
+&lt;!--T:1--&gt;
+{{Infobox Underground Item
 |name       = Dome Fossil
 |image      = [[File:Dome_Fossil.png|200px]]
 |caption    = In-Game image of the ''Dome Fossil''.
@@ -15,18 +18,22 @@
 *[[Berry Master]]
 }}
 
+&lt;!--T:2--&gt;
 ==Description==
 The '''Dome Fossil''' is a type of [[Fossils|Fossil]].
 
+&lt;!--T:3--&gt;
 ==Details==
 When a '''Dome Fossil''' is placed in the [[Pokémon Day Care]], it hatches into an Kabuto.
 
+&lt;!--T:4--&gt;
 ==Mine Layout==
 The Dome Fossil appears in the Underground as a 5x4 sized object.&lt;br&gt;&lt;br&gt;
 [[File:DomeFossilMine.png|100px]]
 
-==Uses==
+==Uses== &lt;!--T:5--&gt;
 
+&lt;!--T:6--&gt;
 {| class="wikitable sortable" style="text-align: center;"
 |-
 ! Fossil !! Pokémon
@@ -34,20 +41,23 @@ The Dome Fossil appears in the Underground as a 5x4 sized object.&lt;br&gt;&lt;b
 | [[File:Dome_Fossil.png|30px]] || [[File:Kabuto.png|40px]] Kabuto
 |}
 
+&lt;!--T:7--&gt;
 ==Acquisition==
 Dome Fossils can be found in the [[Underground]] and traded for with the [[Berry Master|Hoenn Berry Master]]. There is also a 50% chance of receiving one after beating [[Mt. Moon]] for the first time.
 
+&lt;!--T:8--&gt;
 &lt;br&gt;
 {{Underground Items}}
 [[Category:Items]] [[Category:Fossils]]
-__NOTOC__</text>
+__NOTOC__
+&lt;/translate&gt;</text>
     <contributor>
-      <username>ThePantMan</username>
-      <id>8</id>
+      <username>DraKay</username>
+      <id>18</id>
     </contributor>
-    <comment>/* Removed dungeon section */</comment>
+    <comment>Marked this version for translation</comment>
     <model>wikitext</model>
-    <parentid>13668</parentid>
-    <sha1>89fafda9b4442c15f17229924e7563a9772dc357</sha1>
+    <parentid>32294</parentid>
+    <sha1>8ee585a1f90e4d681ac2a923175d9be42672bf06</sha1>
   </revision>
 </page></mediawiki>

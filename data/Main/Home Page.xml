@@ -4,34 +4,45 @@
   <ns>0</ns>
   <id>3</id>
   <revision>
-    <id>32196</id>
-    <timestamp>2022-12-06T20:56:59Z</timestamp>
-    <text space="preserve" bytes="7122">&lt;!--
+    <id>32690</id>
+    <timestamp>2022-12-07T17:01:27Z</timestamp>
+    <text space="preserve" bytes="7367">&lt;languages/&gt;
+&lt;translate&gt;
+&lt;!--T:1--&gt;
+&lt;!--
 
+&lt;!--T:2--&gt;
 --------------------------------------
  Welcome to the Main Page of the Pokéclicker Wiki!
 --------------------------------------
 
+&lt;!--T:3--&gt;
 When editing this page, please note a few things:
 
 
+&lt;!--T:4--&gt;
 * The inexperienced may want to check out the "How to help" section on the "community portal" article linked on the sidebar.
 * Remember this page is the most public face of the wiki - test edits are best done on a separate page.
 * Sections within "&lt;! --" and "-- &gt;" markers (without the spaces) - like this entire section - are hidden comments, and can be separated by several lines. Be sure not to break them.
 
 
+&lt;!--T:5--&gt;
 -------------------------------------------
 The Main Page design code follows. Edit me!
 -------------------------------------------
 
 
 
+&lt;!--T:6--&gt;
 --&gt;
 
+&lt;!--T:7--&gt;
 &lt;!------------ Title area --&gt;
 
+&lt;!--T:8--&gt;
 &lt;div style="display:flex;"&gt;
 
+&lt;!--T:9--&gt;
 &lt;!--Welcome--&gt;
 &lt;div style="border:2px solid #00FFFF; background:#F2F2F2; padding:3px; -moz-border-radius:10px; margin: 0px 2px; text-align:center; flex-grow: 1;"&gt;
 [[File:Welcome to the.png|link=Project:Community Portal|210px|Welcome]][[File:Blank.png|9px|link=]]&lt;br&gt;[[File:PokeClickerLogo.png|link=Project:About|300px|Pokéclicker Wiki]]&lt;br /&gt; [[File:Wiki_Custom.png|link=|80px]]&lt;br /&gt;
@@ -48,8 +59,9 @@ Note: Auto-Confirmed accounts are those that have both existed for 4 days &lt;b&
 ----
 You can start browsing this wiki by scrolling below and clicking on any of the links.
 
-== '''Maps &amp; Navigation''' ==
+== '''Maps &amp; Navigation''' == &lt;!--T:10--&gt;
 
+&lt;!--T:11--&gt;
 {| class="wikitable" style="margin: auto;"
 ! [[Regions]] [[File:Town map.png|20px]] !! [[Dungeons]] {{dungeontokens}} !! [[Gyms]] [[File:Brock.png|20px]] !! [[Temporary Battles]] [[File:Ash Ketchum.png|40px]]
 |-
@@ -58,6 +70,7 @@ You can start browsing this wiki by scrolling below and clicking on any of the l
 ! [[Underground]] [[File:Explorer kit.png|20px]] !! [[Safari Zone]] [[File:SafariTicket_HighRes.png|20px]] !! [[Battle Frontier]] [[File:Deoxys_Shuffle.png|20px]] !! [[Battle Café]] [[File:Alcremie (Strawberry Vanilla).png|40px]]
 |}
 
+&lt;!--T:12--&gt;
 == '''Items''' ==
 {| class="wikitable" style="margin: auto;"
 ! [[Key Items]] [[File:GemCase_HighRes.png|20px]] !! [[Oak Items]] [[File:Bag_Amulet_Coin_Sprite.png|20px]] !! [[Underground#Items|Underground Items]] [[File:Rare_Bone_Updated.png|20px]] !! [[Evolution Items]] [[File:Moon_Stone.png|20px]] !! [[Held Items]] [[File:Leek.png|20px]]
@@ -65,6 +78,7 @@ You can start browsing this wiki by scrolling below and clicking on any of the l
 ! [[Pokéballs]] [[File:Ball_Pokeball.png|20px]] !! [[Battle Items]] [[File:Bag_X_Click_Sprite.png|20px]] !! [[Egg|Eggs]] [[File:Mystery egg.png|20px]] !! [[Berries]] [[File:Cheri.png|20px]] &amp; [[Farm Items]] [[File:Berry_Shovel.png|20px]] !! [[Rare Hold Items]] [[File:Kings_Rock.png|20px]]
 |}
 
+&lt;!--T:13--&gt;
 == '''Currencies''' ==
 {| class="wikitable" style="margin: auto;"
 ! [[Pokémon Dollars|Poké Dollars]] {{pdollar}} !! [[Dungeon Tokens]] {{dungeontokens}} !! [[Quest Points]] {{Questpoints}}
@@ -72,6 +86,7 @@ You can start browsing this wiki by scrolling below and clicking on any of the l
 ! [[Farming Points|Farm Points]] {{farmpoints}} !! [[Diamonds]] {{Diamonds}} !! [[Battle Points]] [[File:Battlepoints.png|20px]]
 |}
 
+&lt;!--T:14--&gt;
 == '''Pokémon and Mechanics''' ==
 {| class="wikitable" style="margin: auto;"
 ! [[Obtainable Pokémon]] [[File:Pikachu.png|40px]] !! [[Baby Pokémon]] [[File:Pichu.png|40px]] !! [[Roaming Pokémon]] [[File:Mew.png|40px]] !! [[Wandering Pokémon]] [[File:Flabébé_(Blue).png|40px]]
@@ -83,6 +98,7 @@ You can start browsing this wiki by scrolling below and clicking on any of the l
 ! [[Farm Hands]] [[File:Alex.png|20px]] !! [[Hatchery Helpers]] [[File:HHNoel.png|20px]] !! [[File:Pokerus.png|20px]] [[Pokérus]] [[File:Pokerus_cured.png|20px]] !! [[Protein|Proteins]] [[File:Protein_Item.png|20px]] 
 |}
 
+&lt;!--T:15--&gt;
 == '''Guides, Calculators, Statistics, and Miscellaneous Information''' ==
 {| class="wikitable" style="margin: auto;"
 ! [[NPCs]] [[File:Professor_Oak.png|40px]] !! [[Help:FAQ|FAQ]] [[File:Youngster.png|40px]] !! [[Speedruns]] [[File:Bag_Poison_Barb_Sprite.png|20px]] !! [[Challenge Mode]] [[File:Masterball.png|20px]]
@@ -93,8 +109,10 @@ You can start browsing this wiki by scrolling below and clicking on any of the l
 ! [https://docs.google.com/document/d/1TE5cAKSlA7TAliA001_mIiO1odZ6e4yUEMre0GBW1to/edit?usp=sharing Farm Walkthrough] [[File:Grepa.png|20px]] !! [[Shiny Chance]] [[File:Bag_Shiny_Charm_Sprite.png|20px]] !! [[Farming Setups]] [[File:Passho.png|20px]] !! [https://discord.gg/a6DFe4p Discord] [[File:Unown_(D).png|40px]]
 |}
 
+&lt;!--T:16--&gt;
 '''Didn't find the page you were looking for? try looking at this list of all [[Special:Statistics|'''{{NUMBEROFARTICLES}}''']] [[Special:AllPages|pages]]'''
 
+&lt;!--T:17--&gt;
 This wiki is community managed, but we do try to keep a [[To-Do list]] of what is missing or needs updating on this wiki. Please let us know on [https://discord.gg/a6DFe4p Discord] if you see anything that needs updating on a page or simply add it in the To-Do list. Thank you.
 &lt;!--Contributors--&gt;
 &lt;br&gt;&lt;big&gt; Meet the [[Pokéclicker Development Team]]! &lt;/big&gt;[[File:RedSparr0w avatar.png|50px]]&lt;br&gt;&lt;br&gt; 
@@ -102,15 +120,17 @@ This wiki is community managed, but we do try to keep a [[To-Do list]] of what i
 &lt;br clear="all" /&gt;
 
 
+&lt;!--T:18--&gt;
 __NOTOC__ 
-__NOEDITSECTION__</text>
+__NOEDITSECTION__
+&lt;/translate&gt;</text>
     <contributor>
-      <username>Jk13</username>
-      <id>14</id>
+      <username>ThePantMan</username>
+      <id>8</id>
     </contributor>
-    <comment></comment>
+    <comment>Marked this version for translation</comment>
     <model>wikitext</model>
-    <parentid>32195</parentid>
-    <sha1>57c7ff3cbe7dbd6d2fa8c6851e4e7e82a2dafe26</sha1>
+    <parentid>32688</parentid>
+    <sha1>0716f3b1505f71e80c95fa1d3927c0908b5039f8</sha1>
   </revision>
 </page></mediawiki>

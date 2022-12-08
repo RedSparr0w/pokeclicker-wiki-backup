@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>1836</id>
   <revision>
-    <id>30093</id>
-    <timestamp>2022-12-04T22:49:25Z</timestamp>
-    <text space="preserve" bytes="12493">'''Rare Hold Items''' can be dropped by wild Pokémon on [[Route Statistics|Routes]] or in [[Dungeons|Dungeons]]. The chance for Underground-type items to be dropped on routes is &lt;math&gt;\frac{1}{2048}&lt;/math&gt;, while the chance for other item types is &lt;math&gt;\frac{1}{512}&lt;/math&gt;. This chance is increased by 50% when the [[Dowsing Machine]] is in effect. The chance for a drop in dungeons is 4 times higher than on routes.
+    <id>32687</id>
+    <timestamp>2022-12-07T16:59:23Z</timestamp>
+    <text space="preserve" bytes="13395">'''Rare Hold Items''' can be dropped by wild Pokémon on [[Route Statistics|Routes]] or in [[Dungeons|Dungeons]]. The chance for Underground-type items to be dropped on routes is &lt;math&gt;\frac{1}{2048}&lt;/math&gt;, while the chance for other item types is &lt;math&gt;\frac{1}{512}&lt;/math&gt;. This chance is increased by 50% when the [[Dowsing Machine]] is in effect. The chance for a drop in dungeons is 4 times higher than on routes.
 
 {| class="wikitable sortable"
 ! Item Type !! Route Odds !! Dungeon Odds !! Route Odds with Dowsing Machine !! Dungeon Odds with Dowsing Machine
@@ -63,7 +63,7 @@ All of these items can be found in other ways.
 |-
 | 82 || [[File:Magneton.png|40px]] Magneton || Evolution || [[File:Metal coat.png|20px]] [[Metal Coat]]
 |-
-| 83.1 || [[File:Galarian Farfetch'd.png|40px]] Galarian Farfetch'd || Held Item || [[Leek]]
+| 83.1 || [[File:Galarian Farfetch'd.png|40px]] Galarian Farfetch'd || Held Item || [[File:Leek.png|20px]] [[Leek]]
 |-
 | 95 || [[File:Onix.png|40px]] Onix || Underground || [[File:Hard Stone.png|20px]] [[Hard Stone]]
 |-
@@ -116,6 +116,8 @@ All of these items can be found in other ways.
 | 240 || [[File:Magby.png|40px]] Magby || Evolution || [[File:Magmarizer.png|20px]] [[Magmarizer]]
 |-
 | 242 || [[File:Blissey.png|40px]] Blissey || Underground || [[File:Oval Stone.png|20px]] [[Oval Stone]]
+|-
+| 242.01 || [[File:Blessing_Blissey.png|40px]] Blessing Blissey || Underground || [[File:Oval Stone.png|20px]] [[Oval Stone]]
 |-
 | 251 || [[File:Celebi.png|40px]] Celebi || Berry || [[File:Lum.png|20px]] [[Lum|Lum Berry]]
 |-
@@ -179,6 +181,8 @@ All of these items can be found in other ways.
 |-
 | 440 || [[File:Happiny.png|40px]] Happiny || Underground || [[File:Oval Stone.png|20px]] [[Oval Stone]]
 |-
+| 440.01 || [[File:Handout_Happiny.png|40px]] Handout Happiny || Underground || [[File:Oval Stone.png|20px]] [[Oval Stone]]
+|-
 | 462 || [[File:Magnezone.png|40px]] Magnezone || Evolution || [[File:Metal coat.png|20px]] [[Metal Coat]]
 |-
 | 466 || [[File:Electivire.png|40px]] Electivire || Evolution || [[File:Electirizer.png|20px]] [[Electirizer]]
@@ -189,7 +193,7 @@ All of these items can be found in other ways.
 |-
 | 483 || [[File:Dialga.png|40px]] Dialga || Held Item || [[File:Adamant Orb.png|20px]] [[Adamant Orb]]
 |-
-| 484 || [[File:Palkia.png|40px]] Palkia || Held Item || [[File:Lustrous Orb.png|20px]] [[Lustruous Orb]]
+| 484 || [[File:Palkia.png|40px]] Palkia || Held Item || [[File:Lustrous Orb.png|20px]] [[Lustrous Orb]]
 |-
 | 487 || [[File:Giratina (Altered).png|40px]] Giratina (Altered) || Held Item || [[File:Griseous Orb.png|20px]] [[Griseous Orb]]
 |-
@@ -229,13 +233,23 @@ All of these items can be found in other ways.
 |-
 | 791 || [[File:Solgaleo.png|40px]] Solgaleo || Evolution || [[File:Solar Light.png|20px]] [[Solar Light]]
 |-
-| 791.1 || [[File:Solgaleo (Radiant Sun).png|40px]] Solgaleo (Radiant Sun) || Evolution || [[File:Solar Light.png|20px]] Solar Light
+| 791.1 || [[File:Solgaleo (Radiant Sun).png|40px]] Solgaleo (Radiant Sun) || Evolution || [[File:Solar Light.png|20px]] [[Solar Light]]
 |-
 | 792 || [[File:Lunala.png|40px]] Lunala || Evolution || [[File:Lunar Light.png|20px]] [[Lunar Light]]
 |-
 | 792.1 || [[File:Lunala (Full Moon).png|40px]] Lunala (Full Moon) || Evolution || [[File:Lunar Light.png|20px]] [[Lunar Light]]
 |-
 | 800 || [[File:Necrozma.png|40px]] Necrozma || Evolution || [[File:Pure Light.png|20px]] [[Pure Light]]
+|-
+| 865 || [[File:Sirfetch'd.png|40px]] Sirfetch'd || Evolution || [[File:Leek.png|20px]] [[Leek]]
+|-
+| 888 || [[File:Zacian_(Battle_Hero).png|40px]] Zacian (Battle Hero) || Evolution || [[File:Rusted_Sword.png|20px]] [[Rusted Sword]]
+|-
+| 889 || [[File:Zamazenta_(Battle_Hero).png|40px]] Zamazenta (Battle Hero) || Evolution || [[File:Rusted_Shield.png|20px]] [[Rusted Shield]]
+|-
+| 896 || [[File:Glastrier.png|40px]] Glastrier || Evolution || [[File:White_Mane_Hair.png|20px]] [[White Mane Hair]]
+|-
+| 897 || [[File:Spectrier.png|40px]] Spectrier || Evolution || [[File:Black_Mane_Hair.png|20px]] [[Black Mane Hair]]
 |}</text>
     <contributor>
       <username>SomeonealiveQN</username>
@@ -243,7 +257,7 @@ All of these items can be found in other ways.
     </contributor>
     <comment>/* Pokémon with rare hold items */</comment>
     <model>wikitext</model>
-    <parentid>29887</parentid>
-    <sha1>0ba64528ee5a661e7522ed4e4280d23ffe0be046</sha1>
+    <parentid>32686</parentid>
+    <sha1>bd1d3d770654fe35e9f42d77331621912cca8071</sha1>
   </revision>
 </page></mediawiki>

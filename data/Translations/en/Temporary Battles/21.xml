@@ -1,0 +1,66 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Translations:Temporary Battles/21/en</title>
+  <ns>1198</ns>
+  <id>12086</id>
+  <revision>
+    <id>32869</id>
+    <timestamp>2022-12-07T22:38:17Z</timestamp>
+    <text space="preserve" bytes="3367">===Starter-Dependent Battles===
+&lt;!-- All Starter Shared Encounters Arrays --&gt;
+{{#arraydefine:Hau_1_Base_Encounters|
+Clear [[Alola#Routes|Route 1]] {{!}}{{!}} South of [[Towns &amp; Cities#Alola|Iki Town]] {{!}}{{!}} Hau 1 [[File:Hau.png|25px]] {{!}}{{!}} 1,185,519| 
+}}
+{{#arraydefine:Hau_2_Base_Encounters|
+rowspan=2{{!}} Defeat [[Temporary Battles#Alola|Hau 1]] {{!}}{{!}} rowspan=2{{!}} In [[Towns &amp; Cities#Alola|Iki Town]] {{!}}{{!}} rowspan=2{{!}} Hau 2 [[File:Hau.png|25px]] {{!}}{{!}} rowspan=2{{!}} 2,637,527 {{!}}{{!}} Pichu [[File:Pichu.png|25px]] {{!}}{{!}} 75,473,838 {{!}}{{!}} (x4) Ground| 
+}}
+{{#arraydefine:Hau_3-1_Base_Encounters|
+rowspan=3{{!}} Clear [[Melemele Meadow]] {{!}}{{!}} rowspan=3{{!}} In [[Alola#Routes|Route 3]] {{!}}{{!}} rowspan=3{{!}} Hau 3 [[File:Hau.png|25px]] {{!}}{{!}} rowspan=3{{!}} 4,866,865| 
+}}
+{{#arraydefine:Hau_3-2_Base_Encounters|
+Noibat [[File:Noibat.png|25px]] {{!}}{{!}} 92,470,422 {{!}}{{!}} (x4) Ice &lt;br&gt; (x2) Rock, Dragon, Fairy
+{{!}}-
+{{!}} Pikachu [[File:Pikachu.png|25px]] {{!}}{{!}} 93,893,044 {{!}}{{!}} (x4) Ground| 
+}}
+{{#arraydefine:Hau_4-1_Base_Encounters|
+rowspan=4{{!}} Clear [[Alola#Routes|Route 4]] {{!}}{{!}} rowspan=4{{!}} West of [[Towns &amp; Cities#Alola|Paniola Town]] {{!}}{{!}} rowspan=4{{!}} Hau 4 [[File:Hau.png|25px]] {{!}}{{!}} rowspan=4{{!}} 6,641,876| 
+}}
+{{#arraydefine:Hau_4-2_Base_Encounters|
+Pikachu [[File:Pikachu.png|25px]] {{!}}{{!}} 95,796,282 {{!}}{{!}} (x4) Ground
+{{!}}-
+{{!}} Noibat [[File:Noibat.png|25px]] {{!}}{{!}} 93,880,356 {{!}}{{!}} (x4) Ice &lt;br&gt; (x2) Rock, Dragon, Fairy
+{{!}}-
+{{!}} Eevee [[File:Eevee.png|25px]] {{!}}{{!}} 93,880,356 {{!}}{{!}} (x4) Fighting| 
+}}
+{{#arraydefine:Battle_Royal_Base_Encounters|
+rowspan=3{{!}} Clear [[Alola#Routes|Route 6]] {{!}}{{!}} rowspan=3{{!}} [[Towns &amp; Cities#Alola|Royal Avenue]] {{!}}{{!}} rowspan=3{{!}} Battle Royal [[File:Battle Royal.png|25px]] {{!}}{{!}} rowspan=3{{!}} 6,629,697 {{!}}{{!}} Type: Null [[File:Type Null.png|25px]] {{!}}{{!}} 132,593,929 {{!}}{{!}} (x4) Fighting
+{{!}}-
+{{!}} Rockruff [[File:Rockruff.png|25px]] {{!}}{{!}} 132,593,929 {{!}}{{!}} (x4) Fighting, Ground, Steel, Water, Grass| 
+}}
+{{#arraydefine:Hau_5-1_Base_Encounters|
+rowspan=5{{!}} Defeat [[Temporary Battles#Alola|Ultra Wormhole]] {{!}}{{!}} rowspan=5{{!}} West of [[Towns &amp; Cities#Alola|Malie City]] {{!}}{{!}} rowspan=5{{!}} Hau 5 [[File:Hau.png|25px]] {{!}}{{!}} rowspan=5{{!}} 7,089,126| 
+}}
+{{#arraydefine:Hau_5-2_Base_Encounters|
+Noibat [[File:Noibat.png|25px]] {{!}}{{!}} 77,980,385 {{!}}{{!}} (x4) Ice &lt;br&gt; (x2) Rock, Dragon, Fairy
+{{!}}-
+{{!}} Tauros [[File:Tauros.png|25px]] {{!}}{{!}} 77,980,385 {{!}}{{!}} (x4) Fighting
+{{!}}-
+{{!}} Alolan Raichu [[File:Alolan Raichu.png|25px]] {{!}}{{!}} 83,521,097 {{!}}{{!}} (x2) Ground, Bug, Ghost, Dark| 
+}}
+{{#arraydefine:Gladion_3_Base_Encounters|
+rowspan=4{{!}} Beat [[Gyms#Alola|Hapu]] {{!}}{{!}} rowspan=4{{!}} North of [[Towns &amp; Cities#Alola|Tapu Village]] {{!}}{{!}} rowspan=4{{!}} Gladion 3 [[File:Gladion.png|25px]] {{!}}{{!}} rowspan=4{{!}} 13,581,300 {{!}}{{!}} Crobat [[File:Crobat.png|25px]] {{!}}{{!}} 190,138,197 {{!}}{{!}} (x2) Rock, Electric, Psychic, Ice
+{{!}}-
+{{!}} Zoroark [[File:Zoroark.png|25px]] {{!}}{{!}} 190,138,197 {{!}}{{!}} (x4) Fighting, Bug, Fairy
+{{!}}-
+{{!}} Lucario [[File:Lucario.png|25px]] {{!}}{{!}} 190,138,197 {{!}}{{!}} (x2) Fighting, Ground, Fire| 
+}}</text>
+    <contributor>
+      <username>FuzzyBot</username>
+      <id>133</id>
+    </contributor>
+    <comment>Importing a new version from external source</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>7da26d0bf6a54697707b4b0cb11754efe349aebb</sha1>
+  </revision>
+</page></mediawiki>

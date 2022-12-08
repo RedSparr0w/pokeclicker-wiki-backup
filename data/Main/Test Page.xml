@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>2035</id>
   <revision>
-    <id>31794</id>
-    <timestamp>2022-12-06T00:09:29Z</timestamp>
-    <text space="preserve" bytes="1033">Test Page Returns
+    <id>32791</id>
+    <timestamp>2022-12-07T20:13:21Z</timestamp>
+    <text space="preserve" bytes="2038">Test Page Returns
 
 Test: 1&lt;sup&gt;ère&lt;/sup&gt; génération
 
@@ -15,13 +15,18 @@ Test: 1&lt;sup&gt;ère&lt;/sup&gt; génération
 
 ===Used in===
 
-{|class="wikitable"
+{| class="wikitable" style="text-align: center;"
+|+ Optimized Planting Formation
 |-
-| This berry is used in
+| style="width: 40px; background-color:#9C7D98;" {{!}} || style="width: 40px;" | {{Berry|Chesto}} || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | {{Berry|Chesto}}
 |-
-| Berry 1
+| {{Berry|Chesto|40}} || {{Berry|Chesto|40}} || style="background-color:#9C7D98;" | || {{Berry|Chesto|40}} || {{Berry|Chesto|40}}
+|- style="height: 50px;"
+| style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | 
 |-
-| Berry 2
+| style="background-color:#9C7D98;" | || [[File:Chesto.png|30px]] [[Chesto]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Chesto.png|30px]] [[Chesto]] 
+|-
+| [[File:Chesto.png|30px]] [[Chesto]] || [[File:Chesto.png|30px]] [[Chesto]] || style="background-color:#9C7D98;" | || [[File:Chesto.png|30px]] [[Chesto]] || [[File:Chesto.png|30px]] [[Chesto]] 
 |}
 
 {|class="wikitable"
@@ -63,9 +68,9 @@ Test: 1&lt;sup&gt;ère&lt;/sup&gt; génération
       <username>Jk13</username>
       <id>14</id>
     </contributor>
-    <comment></comment>
+    <comment>/* Used in */</comment>
     <model>wikitext</model>
-    <parentid>31786</parentid>
-    <sha1>482b0c6c2a4c33ae2bfd816929746fd09243fc10</sha1>
+    <parentid>31794</parentid>
+    <sha1>e79593c07e9cc4c66d0fbc84f65814ed3eabb3c7</sha1>
   </revision>
 </page></mediawiki>

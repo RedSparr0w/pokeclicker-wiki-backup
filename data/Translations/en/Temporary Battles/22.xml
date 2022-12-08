@@ -1,0 +1,123 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Translations:Temporary Battles/22/en</title>
+  <ns>1198</ns>
+  <id>12087</id>
+  <revision>
+    <id>32870</id>
+    <timestamp>2022-12-07T22:38:17Z</timestamp>
+    <text space="preserve" bytes="4055">These battles change depending on the player's chosen starter:
+&lt;tabs&gt;
+&lt;tab name="Rowlet"&gt;
+{| class="wikitable collapsible" style="text-align: center;"
+|-
+! Requirement !! Location !! Trainer !! Min. Attack !! Pokémon !! HP !! Weakness
+|-
+| {{#arrayprint:Hau_1_Base_Encounters}} || Popplio [[File:Popplio.png|25px]] || 71,131,094 || (x4) Grass, Electric
+|-
+| {{#arrayprint:Hau_2_Base_Encounters}}
+|-
+| Popplio [[File:Popplio.png|25px]] || 81,763,320 || (x4) Grass, Electric
+|-
+| {{#arrayprint:Hau_3-1_Base_Encounters}} || Popplio [[File:Popplio.png|25px]] || 98,160,909 || (x4) Grass, Electric
+|-
+| {{#arrayprint:Hau_3-2_Base_Encounters}}
+|-
+| {{#arrayprint:Hau_4-1_Base_Encounters}} || Brionne [[File:Brionne.png|25px]] || 99,628,133 || (x4) Grass, Electric
+|-
+| {{#arrayprint:Hau_4-2_Base_Encounters}}
+|-
+| {{#arrayprint:Battle_Royal_Base_Encounters}}
+|-
+| Brionne [[File:Brionne.png|25px]] || 132,593,929 || (x4) Grass, Electric
+|-
+| {{#arrayprint:Hau_5-1_Base_Encounters}} || Brionne [[File:Brionne.png|25px]] || 88,240,962 || (x4) Grass, Electric
+|-
+| Flareon [[File:Flareon.png|25px]] || 80,032,500 || (x4) Ground, Rock, Water
+|-
+| {{#arrayprint:Hau_5-2_Base_Encounters}}
+|-
+| {{#arrayprint:Gladion_3_Base_Encounters}}
+|-
+| Silvally (Fire) [[File:Silvally (Fire).png|25px]] || 209,152,017 || (x4) Ground, Rock, Water
+|}
+&lt;/tab&gt;
+&lt;tab name="Litten"&gt;
+{| class="wikitable collapsible" style="text-align: center;"
+|-
+! Requirement !! Location !! Trainer !! Min. Attack !! Pokémon !! HP !! Weakness
+|-
+| {{#arrayprint:Hau_1_Base_Encounters}} || Rowlet [[File:Rowlet.png|25px]] || 71,131,094 || (x4) Ice &lt;br&gt; (x2) Flying, Poison, Rock, Fire
+|-
+| {{#arrayprint:Hau_2_Base_Encounters}}
+|-
+| Rowlet [[File:Rowlet.png|25px]] || 81,763,320 || (x4) Ice &lt;br&gt; (x2) Flying, Poison, Rock, Fire
+|-
+| {{#arrayprint:Hau_3-1_Base_Encounters}} || Rowlet [[File:Rowlet.png|25px]] || 98,160,909 || (x4) Ice &lt;br&gt; (x2) Flying, Poison, Rock, Fire
+|-
+| {{#arrayprint:Hau_3-2_Base_Encounters}}
+|-
+| {{#arrayprint:Hau_4-1_Base_Encounters}} || Dartrix [[File:Dartrix.png|25px]] || 99,628,133 || (x4) Ice &lt;br&gt; (x2) Flying, Poison, Rock, Fire
+|-
+| {{#arrayprint:Hau_4-2_Base_Encounters}}
+|-
+| {{#arrayprint:Battle_Royal_Base_Encounters}}
+|-
+| Dartrix [[File:Dartrix.png|25px]] || 132,593,929 || (x4) Ice &lt;br&gt; (x2) Flying, Poison, Rock, Fire
+|-
+| {{#arrayprint:Hau_5-1_Base_Encounters}} || Dartrix [[File:Dartrix.png|25px]] || 88,240,962 || (x4) Ice &lt;br&gt; (x2) Flying, Poison, Rock, Fire
+|-
+| Vaporeon [[File:Vaporeon.png|25px]] || 80,032,500 || (x4) Grass, Electric
+|-
+| {{#arrayprint:Hau_5-2_Base_Encounters}}
+|-
+| {{#arrayprint:Gladion_3_Base_Encounters}}
+|-
+| Silvally (Water) [[File:Silvally (Water).png|25px]] || 209,152,017 || (x4) Grass, Electric
+|}
+&lt;/tab&gt;
+&lt;tab name="Popplio"&gt;
+{| class="wikitable collapsible" style="text-align: center;"
+|-
+! Requirement !! Location !! Trainer !! Min. Attack !! Pokémon !! HP !! Weakness
+|-
+| {{#arrayprint:Hau_1_Base_Encounters}} || Litten [[File:Litten.png|25px]] || 71,131,094 || (x4) Ground, Rock, Water
+|-
+| {{#arrayprint:Hau_2_Base_Encounters}}
+|-
+| Litten [[File:Litten.png|25px]] || 81,763,320 || (x4) Ground, Rock, Water
+|-
+| {{#arrayprint:Hau_3-1_Base_Encounters}} || Litten [[File:Litten.png|25px]] || 98,160,909 || (x4) Ground, Rock, Water
+|-
+| {{#arrayprint:Hau_3-2_Base_Encounters}}
+|-
+| {{#arrayprint:Hau_4-1_Base_Encounters}} || Torracat [[File:Torracat.png|25px]] || 99,628,133 || (x4) Ground, Rock, Water
+|-
+| {{#arrayprint:Hau_4-2_Base_Encounters}}
+|-
+| {{#arrayprint:Battle_Royal_Base_Encounters}}
+|-
+| Torracat [[File:Torracat.png|25px]] || 132,593,929 || (x4) Ground, Rock, Water
+|-
+| {{#arrayprint:Hau_5-1_Base_Encounters}} || Torracat [[File:Torracat.png|25px]] || 88,240,962 || (x4) Ground, Rock, Water
+|-
+| Leafeon [[File:Leafeon.png|25px]] || 80,032,500 || (x4) Flying, Poison, Bug, Fire, Ice
+|-
+| {{#arrayprint:Hau_5-2_Base_Encounters}}
+|-
+| {{#arrayprint:Gladion_3_Base_Encounters}}
+|-
+| Silvally (Grass) [[File:Silvally (Water).png|25px]] || 209,152,017 || (x4) Flying, Poison, Bug, Fire, Ice
+|}
+&lt;/tab&gt;
+&lt;/tabs&gt;</text>
+    <contributor>
+      <username>FuzzyBot</username>
+      <id>133</id>
+    </contributor>
+    <comment>Importing a new version from external source</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>b475b599a0bdd1e9ea4c11179f85aa43c3d1a212</sha1>
+  </revision>
+</page></mediawiki>

@@ -1,0 +1,195 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Translations:Temporary Battles/16/en</title>
+  <ns>1198</ns>
+  <id>12081</id>
+  <revision>
+    <id>32861</id>
+    <timestamp>2022-12-07T22:38:17Z</timestamp>
+    <text space="preserve" bytes="6352">These battles change depending on the player's chosen starter:
+&lt;tabs&gt;
+&lt;tab name="Turtwig"&gt;
+{| class="wikitable collapsible" style="text-align: center;"
+|-
+! Requirement !! Location !! Trainer !! Min. Attack !! Pokémon !! HP !! Weakness
+|-
+| {{#arrayprint:Barry_1_Base_Encounters}} || Chimchar [[File:Chimchar.png|25px]] || 1,689,240 || (x4) Ground, Rock, Water
+|-
+| {{#arrayprint:Barry_2_Base_Encounters}}
+|-
+| Chimchar [[File:Chimchar.png|25px]] || 3,074,416 || (x4) Ground, Rock, Water
+|-
+| {{#arrayprint:Barry_3_Base_Encounters}}
+|-
+| Buizel [[File:Buizel.png|25px]] || 2,195,053 || (x4) Grass, Electric
+|-
+| Roselia [[File:Roselia.png|25px]] || 2,195,053 || (x2) Flying, Fire, Psychic, Ice
+|-
+| Monferno [[File:Monferno.png|25px]] || 2,329,444 || (x2) Flying, Ground, Water, Psychic
+|-
+| {{#arrayprint:Barry_4_Base_Encounters}}
+|-
+| Buizel [[File:Buizel.png|25px]] || 2,440,886 || (x4) Grass, Electric
+|-
+| Roselia [[File:Roselia.png|25px]] || 2,440,886 || (x2) Flying, Fire, Psychic, Ice
+|-
+| Monferno [[File:Monferno.png|25px]] || 2,590,328 || (x2) Flying, Ground, Water, Psychic
+|-
+| {{#arrayprint:Barry_5_Base_Encounters}}
+|-
+| Floatzel [[File:Floatzel.png|25px]] || 2,051,478 || (x4) Grass, Electric
+|- 
+| Roserade [[File:Roserade.png|25px]] || 2,051,478 || (x2) Flying, Fire, Psychic, Ice
+|-
+| Infernape [[File:Infernape.png|25px]] || 2,209,284 || (x2) Flying, Ground, Water, Psychic
+|-
+| {{#arrayprint:Barry_6-1_Base_Encounters}}
+|-
+| Floatzel [[File:Floatzel.png|25px]] || 3,740,930 || (x4) Grass, Electric
+|-
+| Snorlax [[File:Snorlax.png|25px]] || 3,857,834 || (x4) Fighting
+|-
+| {{#arrayprint:Barry_6-2_Base_Encounters}}
+|-
+| Roserade [[File:Roserade.png|25px]] || 3,740,930 || (x2) Flying, Fire, Psychic, Ice
+|-
+| Infernape [[File:Infernape.png|25px]] || 4,161,784 || (x2) Flying, Ground, Water, Psychic
+|-
+| {{#arrayprint:Barry_7-1_Base_Encounters}}
+|-
+| Floatzel [[File:Floatzel.png|25px]] || 9,212,128 || (x4) Grass, Electric
+|-
+| Roserade [[File:Roserade.png|25px]] || 9,212,128 || (x2) Flying, Fire, Psychic, Ice
+|-
+| {{#arrayprint:Barry_7-2_Base_Encounters}}
+|-
+| Infernape [[File:Infernape.png|25px]] || 10,184,837 || (x2) Flying, Ground, Water, Psychic
+|}
+&lt;/tab&gt;
+&lt;tab name="Chimchar"&gt;
+{| class="wikitable collapsible" style="text-align: center;"
+|-
+! Requirement !! Location !! Trainer !! Min. Attack !! Pokémon !! HP !! Weakness
+|-
+| {{#arrayprint:Barry_1_Base_Encounters}} || Piplup [[File:Piplup.png|25px]] || 1,689,240 || (x4) Grass, Electric
+|-
+| {{#arrayprint:Barry_2_Base_Encounters}}
+|-
+| Piplup [[File:Piplup.png|25px]] || 3,074,416 || (x4) Grass, Electric
+|-
+| {{#arrayprint:Barry_3_Base_Encounters}}
+|-
+| Ponyta [[File:Ponyta.png|25px]] || 2,195,053 || (x4) Ground, Rock, Water
+|-
+| Roselia [[File:Roselia.png|25px]] || 2,195,053 || (x2) Flying, Fire, Psychic, Ice
+|-
+| Prinplup [[File:Prinplup.png|25px]] || 2,329,444 || (x4) Grass, Electric
+|-
+| {{#arrayprint:Barry_4_Base_Encounters}}
+|-
+| Ponyta [[File:Ponyta.png|25px]] || 2,440,886 || (x4) Ground, Rock, Water
+|-
+| Roselia [[File:Roselia.png|25px]] || 2,440,886 || (x2) Flying, Fire, Psychic, Ice
+|-
+| Prinplup [[File:Prinplup.png|25px]] || 2,590,328 || (x4) Grass, Electric
+|-
+| {{#arrayprint:Barry_5_Base_Encounters}}
+|-
+| Rapidash [[File:Rapidash.png|25px]] || 2,051,478 || (x4) Ground, Rock, Water
+|- 
+| Roserade [[File:Roserade.png|25px]] || 2,051,478 || (x2) Flying, Fire, Psychic, Ice
+|-
+| Empoleon [[File:Empoleon.png|25px]] || 2,209,284 || (x2) Fighting, Ground, Electric
+|-
+| {{#arrayprint:Barry_6-1_Base_Encounters}}
+|-
+| Rapidash [[File:Rapidash.png|25px]] || 3,740,930 || (x4) Ground, Rock, Water
+|-
+| Snorlax [[File:Snorlax.png|25px]] || 3,857,834 || (x4) Fighting
+|-
+| {{#arrayprint:Barry_6-2_Base_Encounters}}
+|-
+| Roserade [[File:Roserade.png|25px]] || 3,740,930 || (x2) Flying, Fire, Psychic, Ice
+|-
+| Empoleon [[File:Empoleon.png|25px]] || 4,161,784 || (x2) Fighting, Ground, Electric
+|-
+| {{#arrayprint:Barry_7-1_Base_Encounters}}
+|-
+| Roserade [[File:Roserade.png|25px]] || 9,212,128 || (x2) Flying, Fire, Psychic, Ice
+|-
+| Rapidash [[File:Rapidash.png|25px]] || 9,212,128 || (x4) Ground, Rock, Water
+|-
+| {{#arrayprint:Barry_7-2_Base_Encounters}}
+|-
+| Empoleon [[File:Empoleon.png|25px]] || 10,184,837 || (x2) Fighting, Ground, Electric
+|}
+&lt;/tab&gt;
+&lt;tab name="Piplup"&gt;
+{| class="wikitable collapsible" style="text-align: center;"
+|-
+! Requirement !! Location !! Trainer !! Min. Attack !! Pokémon !! HP !! Weakness
+|-
+| {{#arrayprint:Barry_1_Base_Encounters}} || Turtwig [[File:Turtwig.png|25px]] || 1,689,240 || (x4) Flying, Poison, Bug, Fire, Ice
+|-
+| {{#arrayprint:Barry_2_Base_Encounters}}
+|-
+| Turtwig [[File:Turtwig.png|25px]] || 3,074,416 || (x4) Flying, Poison, Bug, Fire, Ice
+|-
+| {{#arrayprint:Barry_3_Base_Encounters}}
+|-
+| Buizel [[File:Buizel.png|25px]] || 2,195,053 || (x4) Grass, Electric
+|-
+| Ponyta [[File:Ponyta.png|25px]] || 2,195,053 || (x4) Ground, Rock, Water
+|-
+| Grotle [[File:Grotle.png|25px]] || 2,329,444 || (x4) Flying, Poison, Bug, Fire, Ice
+|-
+| {{#arrayprint:Barry_4_Base_Encounters}}
+|-
+| Buizel [[File:Buizel.png|25px]] || 2,440,886 || (x4) Grass, Electric
+|-
+| Ponyta [[File:Ponyta.png|25px]] || 2,440,886 || (x4) Ground, Rock, Water
+|-
+| Grotle [[File:Grotle.png|25px]] || 2,590,328 || (x4) Flying, Poison, Bug, Fire, Ice
+|-
+| {{#arrayprint:Barry_5_Base_Encounters}}
+|-
+| Floatzel [[File:Floatzel.png|25px]] || 2,051,478 || (x4) Grass, Electric
+|- 
+| Rapidash [[File:Rapidash.png|25px]] || 2,051,478 || (x4) Ground, Rock, Water
+|-
+| Torterra [[File:Torterra.png|25px]] || 2,209,284 || (x4) Ice &lt;br&gt; (x2) Flying, Bug, Fire
+|-
+| {{#arrayprint:Barry_6-1_Base_Encounters}}
+|-
+| Rapidash [[File:Rapidash.png|25px]] || 3,740,930 || (x4) Ground, Rock, Water
+|-
+| Floatzel [[File:Floatzel.png|25px]] || 3,857,834 || (x4) Grass, Electric
+|-
+| {{#arrayprint:Barry_6-2_Base_Encounters}}
+|-
+| Snorlax [[File:Snorlax.png|25px]] || 3,740,930 || (x4) Fighting
+|-
+| Torterra [[File:Torterra.png|25px]] || 4,161,784 || (x4) Ice &lt;br&gt; (x2) Flying, Bug, Fire
+|-
+| {{#arrayprint:Barry_7-1_Base_Encounters}}
+|-
+| Rapidash [[File:Rapidash.png|25px]] || 9,212,128 || (x4) Ground, Rock, Water
+|-
+| Floatzel [[File:Floatzel.png|25px]] || 9,212,128 || (x4) Grass, Electric
+|-
+| {{#arrayprint:Barry_7-2_Base_Encounters}}
+|-
+| Torterra [[File:Torterra.png|25px]] || 10,184,837 || (x4) Ice &lt;br&gt; (x2) Flying, Bug, Fire
+|}
+&lt;/tab&gt;
+&lt;/tabs&gt;</text>
+    <contributor>
+      <username>FuzzyBot</username>
+      <id>133</id>
+    </contributor>
+    <comment>Importing a new version from external source</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>68bc473f5ac317c62de2813f0eef2528b68856f7</sha1>
+  </revision>
+</page></mediawiki>

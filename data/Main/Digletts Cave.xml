@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>318</id>
   <revision>
-    <id>4700</id>
-    <timestamp>2022-07-30T04:42:41Z</timestamp>
-    <text space="preserve" bytes="2366">{{Infobox dungeon
+    <id>32893</id>
+    <timestamp>2022-12-08T02:19:47Z</timestamp>
+    <text space="preserve" bytes="2375">{{Infobox dungeon
 |name    = Digletts Cave
 |image   = [[File:Digletts Cave.png|thumb]]
 |caption = An overhead map of Digletts Cave.
@@ -39,7 +39,8 @@
 
 ==Items==
 
-===No Debuff===
+&lt;tabs&gt;
+&lt;tab name="No Debuff"&gt;
 
 {| class="wikitable"
 |-
@@ -63,12 +64,12 @@
 |-
 | {{Bag2|Max Revive}} || N/A || &lt;0.01% || 0.08% || 0.41%
 |}
+&lt;/tab&gt;
 
-===Debuff Drop Table===
-
+&lt;tab name="Debuff"&gt;
 After Reaching Sinnoh, the drop chance for items in Kanto will be debuffed for any loot with a Tier rarer than Rare (ie: Epic, Legendary, Mythic).
 
-{| class="wikitable collapsible collapsed"
+{| class="wikitable"
 |-
 ! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
 |-
@@ -90,6 +91,8 @@ After Reaching Sinnoh, the drop chance for items in Kanto will be debuffed for a
 |-
 | {{Bag2|Max Revive}} || N/A || &lt;0.01% || &lt;0.01% || &lt;0.01%
 |}
+&lt;/tab&gt;
+&lt;/tabs&gt;
 
 {{Kanto Dungeons}}
 
@@ -98,9 +101,9 @@ After Reaching Sinnoh, the drop chance for items in Kanto will be debuffed for a
       <username>ThePantMan</username>
       <id>8</id>
     </contributor>
-    <comment>/* Debuff Drop Table */</comment>
+    <comment>/* Tabs */</comment>
     <model>wikitext</model>
-    <parentid>4699</parentid>
-    <sha1>c35614fc69eedff4bc8cd5bf1a378feef606b497</sha1>
+    <parentid>4700</parentid>
+    <sha1>ee466dc94ec87f0e4812f58ced353066183b221a</sha1>
   </revision>
 </page></mediawiki>

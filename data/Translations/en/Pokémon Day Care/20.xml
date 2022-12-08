@@ -1,12 +1,12 @@
 <mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
 <page>
   <title>Translations:Pokémon Day Care/20/en</title>
-  <ns>0</ns>
-  <id>4992</id>
+  <ns>1198</ns>
+  <id>11743</id>
   <revision>
-    <id>16955</id>
-    <timestamp>2022-07-25T17:17:29Z</timestamp>
-    <text space="preserve" bytes="228">===Hatchery Queue Slots===
+    <id>32327</id>
+    <timestamp>2022-12-07T12:28:40Z</timestamp>
+    <text space="preserve" bytes="246">===Hatchery Queue Slots===
 {| class="wikitable sortable" style
 |-
 ! Region !! Number of Breeding Queue Slots
@@ -24,6 +24,8 @@
 | Kalos || 64
 |-
 | Alola || 96
+|-
+| Galar || 128
 |}</text>
     <contributor>
       <username>FuzzyBot</username>
@@ -32,6 +34,6 @@
     <comment>Importing a new version from external source</comment>
     <model>wikitext</model>
     <parentid>0</parentid>
-    <sha1>7b525264e5469489c1498de81cf8f6b26a576639</sha1>
+    <sha1>a70bb17d9c97b4c7be1a2df87002116ed10b174c</sha1>
   </revision>
 </page></mediawiki>

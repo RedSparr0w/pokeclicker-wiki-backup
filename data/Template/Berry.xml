@@ -4,11 +4,13 @@
   <ns>10</ns>
   <id>9268</id>
   <revision>
-    <id>25118</id>
-    <timestamp>2022-08-20T22:19:18Z</timestamp>
-    <text space="preserve" bytes="202">&lt;translate&gt;
+    <id>32788</id>
+    <timestamp>2022-12-07T20:08:26Z</timestamp>
+    <text space="preserve" bytes="160">&lt;translate&gt;
 &lt;!--T:1--&gt;
-[[{{{4}}}|&lt;span style="width: 10px;"&gt;File:{{{1}}}.png|30px|{{{1}}}|link={{{1}}}]] [[{{{1}}}|{{{3|{{{1}}}}}}&lt;/span&gt;]]
+[[File:{{{1}}}.png|{{#if:{{{2|}}}|{{{2}}}|30}}px]] [[{{{1}}}]]
+
+&lt;!--T:2--&gt;
 &lt;noinclude&gt;&lt;/translate&gt;[[Category:Link templates]]&lt;/noinclude&gt;</text>
     <contributor>
       <username>Jk13</username>
@@ -16,7 +18,7 @@
     </contributor>
     <comment></comment>
     <model>wikitext</model>
-    <parentid>25117</parentid>
-    <sha1>ba9429aaae9910ebbd32834511f9ec1eb81efc66</sha1>
+    <parentid>32783</parentid>
+    <sha1>feaea04f1f03c65728fbaa76ed5aed73b7071858</sha1>
   </revision>
 </page></mediawiki>

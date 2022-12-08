@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>4271</id>
   <revision>
-    <id>30569</id>
-    <timestamp>2022-12-05T14:22:06Z</timestamp>
-    <text space="preserve" bytes="6175">&lt;languages/&gt;
+    <id>32244</id>
+    <timestamp>2022-12-07T03:11:27Z</timestamp>
+    <text space="preserve" bytes="6214">&lt;languages/&gt;
 &lt;translate&gt;
 &lt;!--T:1--&gt;
 [[File:Charmander_infected.png|thumb|200px|A Shiny Charmander in the Hatchery, infected by Pokérus [[File:Pokerus.png|20px]]]]
@@ -132,17 +132,17 @@ Pokemon that have: contracted Pokérus, have left the hatchery after contracting
 &lt;!--T:7--&gt;
 ====EV Formulas====
 '''When a Pokémon has fewer than 50 EVs:''' &lt;br&gt;
-&lt;math&gt;\colorbox{White}{$ \text{EV Damage Multiplier} = 1 + (\text{EV} / 100)$}&lt;/math&gt; &lt;br&gt;&lt;br&gt;
+&lt;math&gt;\colorbox{White}{$ \text{EV Damage Multiplier} = 1 + \left (\frac{\text{EVs}}{100} \right)$}&lt;/math&gt; &lt;br&gt;&lt;br&gt;
 '''When a Pokémon has greater than 50 EVs:''' &lt;br&gt;
-&lt;math&gt;\colorbox{White}{$ \text{EV Damage Multiplier} = \text{EV} ^ log50(1,5)&lt;/math&gt;
+&lt;math&gt;\colorbox{White}{$ \text{EV Damage Multiplier} = \text{EVs}^{(\frac{\log 1.5}{\log 50})}$}&lt;/math&gt;
 &lt;/translate&gt;</text>
     <contributor>
-      <username>DraKay</username>
-      <id>18</id>
+      <username>Jk13</username>
+      <id>14</id>
     </contributor>
-    <comment>Marked this version for translation</comment>
+    <comment>Formula cleanup</comment>
     <model>wikitext</model>
-    <parentid>29996</parentid>
-    <sha1>8b7f32c1433ea2d6c64e7e9326053d557b1ee699</sha1>
+    <parentid>30569</parentid>
+    <sha1>2932a66905f8488fb7c8c6390d73a29d88f2a9ed</sha1>
   </revision>
 </page></mediawiki>
