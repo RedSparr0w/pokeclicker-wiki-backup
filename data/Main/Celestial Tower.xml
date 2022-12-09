@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>1744</id>
   <revision>
-    <id>10464</id>
-    <timestamp>2022-07-27T02:45:23Z</timestamp>
-    <text space="preserve" bytes="2796">{{Infobox dungeon
+    <id>33058</id>
+    <timestamp>2022-12-08T21:09:35Z</timestamp>
+    <text space="preserve" bytes="3891">{{Infobox dungeon
 |name    = Celestial Tower
 |image   = [[File:Celestial Tower.png|300px]]
 |caption = A map of Celestial Tower.
@@ -57,6 +57,8 @@
 
 ==Items==
 
+&lt;tabs&gt;
+&lt;tab name="No Debuff"&gt;
 {| class="wikitable"
 |-
 ! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
@@ -81,21 +83,59 @@
 |-
 | align="center" colspan=6| '''Legendary'''
 |-
-| {{Bag2|Revive}} || 2 || 0.66% || 1.06% || 2.69%
+| {{Bag2|Revive}} || 2 || 0.50% || 0.80% || 2.02%
 |-
-| {{Bag2|Large Restore}} || N/A || 0.33% || 0.53% || 1.34%
+| {{Bag2|Large Restore}} || N/A || 0.25% || 0.40% || 1.01%
+|-
+| {{Bag2|Twisted Spoon}} || N/A || 0.25% || 0.40% || 1.01%
 |}
+&lt;/tab&gt;
+
+&lt;tab name="Debuff"&gt;
+After Reaching Galar, the drop chance for items in Unova will be debuffed for any loot with a Tier rarer than Rare (ie: Epic, Legendary, Mythic).
+{| class="wikitable"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+|-
+| align="center" colspan=6| '''Common'''
+|-
+| {{Bag2|Lucky Egg}} || 2 || 50.00% || 50.00% || 50.00%
+|-
+| {{Bag2|Token Collector}} || N/A || 25.00% || 25.00% || 25.00%
+|-
+| align="center" colspan=6| '''Rare'''
+|-
+| {{Bag2|Blue Shard}} || N/A || 12.00% || 12.00% || 12.00%
+|-
+| {{Bag2|Yellow Shard}} || N/A || 12.00% || 12.00% || 12.00%
+|-
+| align="center" colspan=6| '''Epic'''
+|-
+| {{Bag2|Spooky Plate}} || N/A || 0.45% || 0.45% || 0.45%
+|-
+| {{Bag2|Mind Plate}} || N/A || 0.45% || 0.45% || 0.45%
+|-
+| align="center" colspan=6| '''Legendary'''
+|-
+| {{Bag2|Revive}} || 2 || 0.05% || 0.05% || 0.05%
+|-
+| {{Bag2|Large Restore}} || N/A || 0.03% || 0.03% || 0.03%
+|-
+| {{Bag2|Twisted Spoon}} || N/A || 0.03% || 0.03% || 0.03%
+|}
+&lt;/tab&gt;
+&lt;/tabs&gt;
 
 {{Unova Dungeons}}
 
 [[Category:Dungeons|^Region #5 - Unova^i]]</text>
     <contributor>
-      <username>LatiosRider</username>
-      <id>35</id>
+      <username>ThePantMan</username>
+      <id>8</id>
     </contributor>
-    <comment>Add Category header</comment>
+    <comment>/* Galar */</comment>
     <model>wikitext</model>
-    <parentid>10463</parentid>
-    <sha1>43f9388cb1f1dd3c4644f70b8361925fb149a3de</sha1>
+    <parentid>10464</parentid>
+    <sha1>98275a871ff6c56161e4fb03a0b0a1ead154d2b7</sha1>
   </revision>
 </page></mediawiki>

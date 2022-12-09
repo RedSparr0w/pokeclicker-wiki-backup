@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>1741</id>
   <revision>
-    <id>10422</id>
-    <timestamp>2022-07-27T02:44:03Z</timestamp>
-    <text space="preserve" bytes="2678">{{Infobox dungeon
+    <id>33048</id>
+    <timestamp>2022-12-08T21:03:03Z</timestamp>
+    <text space="preserve" bytes="3752">{{Infobox dungeon
 |name    = Lostlorn Forest
 |image   = [[File:Lostlorn Forest.png|300px]]
 |caption = A map of Lostlorn Forest.
@@ -53,6 +53,8 @@
 
 ==Items==
 
+&lt;tabs&gt;
+&lt;tab name="No Debuff"&gt;
 {| class="wikitable"
 |-
 ! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears !! Requirement 
@@ -65,7 +67,7 @@
 |-
 | {{Bag2|Greatball}} || 2 || 26.03% || 25.32% || 22.22%
 |-
-| {{Pokemon|Foongus}} || N/A || 13.02% || 12.66% || 11.11%
+| {{Pokemon|Foongus|Mimic}} || N/A || 13.02% || 12.66% || 11.11%
 |-
 | align="center" colspan=6| '''Rare'''
 |-
@@ -75,23 +77,57 @@
 |-
 | {{Bag2|Ultraball}} || N/A || 0.52% || 0.84% || 2.22% || &lt;center&gt; N/A
 |-
-| {{Pokemon|Zoroark}} || N/A || 0% || 0.84% || 2.22% || 50 Clears
+| {{Pokemon|Zoroark|Mimic}} || N/A || 0% || 0.84% || 2.22% || 50 Clears
 |-
 | align="center" colspan=6| '''Mythic'''
 |-
 | {{Bag2|Protein}} || N/A || 0% || 0% || 1.18% || 300 Clears
 |}
+&lt;/tab&gt;
+
+&lt;tab name="Debuff"&gt;
+After Reaching Galar, the drop chance for items in Unova will be debuffed for any loot with a Tier rarer than Rare (ie: Epic, Legendary, Mythic).
+{| class="wikitable"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears !! Requirement
+|-
+| align="center" colspan=6| '''Common'''
+|-
+| {{Bag2|Iapapa}} || N/A || 12.61% || 12.61% || 12.61% || rowspan=4| &lt;center&gt;N/A
+|-
+| {{Bag2|xClick}} || 2 || 25.23% || 25.23% || 25.23%
+|-
+| {{Bag2|Greatball}} || 2 || 25.23% || 25.23% || 25.23%
+|-
+| {{Pokemon|Foongus|Mimic}} || N/A || 12.61% || 12.61% || 12.61%
+|-
+| align="center" colspan=6| '''Rare'''
+|-
+| {{Bag2|Green Shard}} || N/A || 24.22% || 24.22% || 24.22% || &lt;center&gt;N/A
+|-
+| align="center" colspan=6| '''Legendary'''
+|-
+| {{Bag2|Ultraball}} || N/A || 0.05% || 0.05% || 0.05% || &lt;center&gt;N/A
+|-
+| {{Pokemon|Zoroark|Mimic}} || N/A || 0.05% || 0.05% || 0.05% || 50 Clears
+|-
+| align="center" colspan=6| '''Mythic'''
+|-
+| {{Bag2|Protein}} || N/A || 0% || 0% || &lt;0.01% || 300 Clears
+|}
+&lt;/tab&gt;
+&lt;/tabs&gt;
 
 {{Unova Dungeons}}
 
 [[Category:Dungeons|^Region #5 - Unova^f]]</text>
     <contributor>
-      <username>LatiosRider</username>
-      <id>35</id>
+      <username>ThePantMan</username>
+      <id>8</id>
     </contributor>
-    <comment>Add Category header</comment>
+    <comment>/* Galar */</comment>
     <model>wikitext</model>
-    <parentid>10421</parentid>
-    <sha1>dff53c46288ab216d67ca0a0cac76c9ed5f93a42</sha1>
+    <parentid>10422</parentid>
+    <sha1>8749f94d14043e6bb0030be0f2451791d08186a5</sha1>
   </revision>
 </page></mediawiki>

@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>403</id>
   <revision>
-    <id>5545</id>
-    <timestamp>2022-07-30T04:56:07Z</timestamp>
-    <text space="preserve" bytes="6272">{{Infobox dungeon
+    <id>32999</id>
+    <timestamp>2022-12-08T16:06:51Z</timestamp>
+    <text space="preserve" bytes="6280">{{Infobox dungeon
 |name    = Victory Road Hoenn
 |image   = [[File:Victory Road Hoenn.png|250px]]
 |caption = A bird's-eye view of Victory Road Hoenn.
@@ -76,8 +76,8 @@
 
 ==Items==
 
-===No Debuff===
-
+&lt;tabs&gt;
+&lt;tab name="No Debuff"&gt;
 {| class="wikitable"
 |-
 ! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears !! Requirement 
@@ -114,12 +114,12 @@
 |-
 | {{Bag2|Protein}} || N/A || 0% || 0% || 1.06% || 400 Clears
 |}
+&lt;/tab&gt;
 
-===Debuff Drop Table===
-
+&lt;tab name="Debuff"&gt;
 After Reaching Kalos, the drop chance for items in Hoenn will be debuffed for any loot with a Tier rarer than Rare (ie: Epic, Legendary, Mythic).
 
-{| class="wikitable collapsible collapsed"
+{| class="wikitable"
 |-
 ! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears !! Requirement 
 |-
@@ -155,6 +155,8 @@ After Reaching Kalos, the drop chance for items in Hoenn will be debuffed for an
 |-
 | {{Bag2|Protein}} || N/A || 0% || 0% || &lt;0.01% || 400 Clears
 |}
+&lt;/tab&gt;
+&lt;/tabs&gt;
 
 {{Hoenn Dungeons}}
 
@@ -163,9 +165,9 @@ After Reaching Kalos, the drop chance for items in Hoenn will be debuffed for an
       <username>ThePantMan</username>
       <id>8</id>
     </contributor>
-    <comment>/* Debuff Drop Table */</comment>
+    <comment>/* Tabs */</comment>
     <model>wikitext</model>
-    <parentid>5544</parentid>
-    <sha1>5f2f002914b072a8fcf2272633128836c12d8045</sha1>
+    <parentid>5545</parentid>
+    <sha1>6f006bcdbccdadf290a8e2ecd1e5b12f964769ad</sha1>
   </revision>
 </page></mediawiki>

@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>398</id>
   <revision>
-    <id>5438</id>
-    <timestamp>2022-07-30T04:54:28Z</timestamp>
-    <text space="preserve" bytes="2830">{{Infobox dungeon
+    <id>32994</id>
+    <timestamp>2022-12-08T16:01:10Z</timestamp>
+    <text space="preserve" bytes="2971">{{Infobox dungeon
 |name    = Shoal Cave
 |image   = [[File:Shoal Cave.png|300px]]
 |caption = A map of Shoal Cave.
@@ -50,7 +50,8 @@
 
 ==Items==
 
-===No Debuff===
+&lt;tabs&gt;
+&lt;tab name="No Debuff"&gt;
 
 {| class="wikitable"
 |-
@@ -76,16 +77,18 @@
 |-
 | align="center" colspan=6| '''Mythic'''
 |-
-| {{Bag2|Max Revive}} || N/A || 0.01% || 0.12% || 0.59%
+| {{Bag2|Max Revive}} || N/A || &lt;0.01% || 0.08% || 0.39%
 |-
-| {{Bag2|Heart Scale}} || N/A || 0.01% || 0.12% || 0.59%
+| {{Bag2|Heart Scale}} || N/A || &lt;0.01% || 0.08% || 0.39%
+|-
+| {{Bag2|Never Melt Ice}} || N/A || &lt;0.01% || 0.08% || 0.39%
 |}
+&lt;/tab&gt;
 
-===Debuff Drop Table===
-
+&lt;tab name="Debuff"&gt;
 After Reaching Kalos, the drop chance for items in Hoenn will be debuffed for any loot with a Tier rarer than Rare (ie: Epic, Legendary, Mythic).
 
-{| class="wikitable collapsible collapsed"
+{| class="wikitable"
 |-
 ! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
 |-
@@ -112,7 +115,11 @@ After Reaching Kalos, the drop chance for items in Hoenn will be debuffed for an
 | {{Bag2|Max Revive}} || N/A || &lt;0.01% || &lt;0.01% || &lt;0.01%
 |-
 | {{Bag2|Heart Scale}} || N/A || &lt;0.01% || &lt;0.01% || &lt;0.01%
+|-
+| {{Bag2|Never Melt Ice}} || N/A || &lt;0.01% || &lt;0.01% || &lt;0.01%
 |}
+&lt;/tab&gt;
+&lt;/tabs&gt;
 
 {{Hoenn Dungeons}}
 
@@ -121,9 +128,9 @@ After Reaching Kalos, the drop chance for items in Hoenn will be debuffed for an
       <username>ThePantMan</username>
       <id>8</id>
     </contributor>
-    <comment>/* Debuff Drop Table */</comment>
+    <comment>/* Loot update */</comment>
     <model>wikitext</model>
-    <parentid>5437</parentid>
-    <sha1>224f7e563d0358f3cdcc29cf83f56135aadb8f60</sha1>
+    <parentid>5438</parentid>
+    <sha1>4437d5d90539bcd1ecaefbd944df2919d312ee8d</sha1>
   </revision>
 </page></mediawiki>

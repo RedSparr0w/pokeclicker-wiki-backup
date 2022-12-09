@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>431</id>
   <revision>
-    <id>5754</id>
-    <timestamp>2022-07-30T05:07:06Z</timestamp>
-    <text space="preserve" bytes="5376">{{Infobox dungeon
+    <id>33025</id>
+    <timestamp>2022-12-08T16:44:02Z</timestamp>
+    <text space="preserve" bytes="5396">{{Infobox dungeon
 |name    = Hall of Origin
 |image   = [[File:Hall of Origin.png|200px]]
 |caption = A map of the Hall of Origin.
@@ -59,8 +59,8 @@ The '''Hall of Origin''' is a [[Dungeons|dungeon]] in [[Sinnoh]]. It initially h
 
 ==Items==
 
-===No Debuff===
-
+&lt;tabs&gt;
+&lt;tab name="No Debuff"&gt;
 {| class="wikitable"
 |-
 ! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
@@ -71,7 +71,7 @@ The '''Hall of Origin''' is a [[Dungeons|dungeon]] in [[Sinnoh]]. It initially h
 |-
 | {{Bag2|Cheri}} || 2 || 21.64% || 20.95% || 18.05%
 |-
-| {{Pokemon|Ditto}} || N/A || 10.82% || 10.48% || 9.03%
+| {{Pokemon|Ditto|Mimic}} || N/A || 10.82% || 10.48% || 9.03%
 |-
 | align="center" colspan=6| '''Rare'''
 |-
@@ -127,12 +127,12 @@ The '''Hall of Origin''' is a [[Dungeons|dungeon]] in [[Sinnoh]]. It initially h
 |-
 | {{Bag2|Zap Plate}} || N/A || 0.24% || 0.31% || 0.62%
 |}
+&lt;/tab&gt;
 
-===Debuff Drop Table===
-
+&lt;tab name="Debuff"&gt;
 After Reaching Alola, the drop chance for items in Sinnoh will be debuffed for any loot with a Tier rarer than Rare (ie: Epic, Legendary, Mythic).
 
-{| class="wikitable collapsible collapsed"
+{| class="wikitable"
 |-
 ! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
 |-
@@ -142,7 +142,7 @@ After Reaching Alola, the drop chance for items in Sinnoh will be debuffed for a
 |-
 | {{Bag2|Cheri}} || 2 || 21.45% || 21.45% || 21.45%
 |-
-| {{Pokemon|Ditto}} || N/A || 10.73% || 10.73% || 10.73%
+| {{Pokemon|Ditto|Mimic}} || N/A || 10.73% || 10.73% || 10.73%
 |-
 | align="center" colspan=6| '''Rare'''
 |-
@@ -198,6 +198,8 @@ After Reaching Alola, the drop chance for items in Sinnoh will be debuffed for a
 |-
 | {{Bag2|Zap Plate}} || N/A || 0.05% || 0.05% || 0.05%
 |}
+&lt;/tab&gt;
+&lt;/tabs&gt;
 
 
 {{Sinnoh Dungeons}}
@@ -207,9 +209,9 @@ After Reaching Alola, the drop chance for items in Sinnoh will be debuffed for a
       <username>ThePantMan</username>
       <id>8</id>
     </contributor>
-    <comment>/* Debuff Drop Table */</comment>
+    <comment>/* Tabs */</comment>
     <model>wikitext</model>
-    <parentid>5753</parentid>
-    <sha1>3585e4324675186f1ea8aad18c20a3eee34846fe</sha1>
+    <parentid>5754</parentid>
+    <sha1>41bb0f38ffc4093bb9d8eef3d20b2609bba821f8</sha1>
   </revision>
 </page></mediawiki>

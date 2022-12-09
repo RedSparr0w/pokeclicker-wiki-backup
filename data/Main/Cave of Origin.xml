@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>399</id>
   <revision>
-    <id>5462</id>
-    <timestamp>2022-07-30T04:54:59Z</timestamp>
-    <text space="preserve" bytes="2908">{{Infobox dungeon
+    <id>32995</id>
+    <timestamp>2022-12-08T16:02:14Z</timestamp>
+    <text space="preserve" bytes="2900">{{Infobox dungeon
 |name    = Cave of Origin
 |image   = [[File:Cave of Origin.png|300px]]
 |caption = A map of Cave of Origin.
@@ -52,10 +52,8 @@
 
 ==Items==
 
-===No Debuff===
-
-Cave of Origin
-
+&lt;tabs&gt;
+&lt;tab name="No Debuff"&gt;
 {| class="wikitable"
 |-
 ! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears !! Requirement 
@@ -80,12 +78,12 @@ Cave of Origin
 |-
 | {{Bag2|Lum}} || N/A || 0% || 0% || 0.59% || 150 Clears
 |}
+&lt;/tab&gt;
 
-===Debuff Drop Table===
-
+&lt;tab name="Debuff"&gt;
 After Reaching Kalos, the drop chance for items in Hoenn will be debuffed for any loot with a Tier rarer than Rare (ie: Epic, Legendary, Mythic).
 
-{| class="wikitable collapsible collapsed"
+{| class="wikitable"
 |-
 ! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears !! Requirement 
 |-
@@ -109,6 +107,8 @@ After Reaching Kalos, the drop chance for items in Hoenn will be debuffed for an
 |-
 | {{Bag2|Lum}} || N/A || 0% || 0% || &lt;0.01% || 150 Clears
 |}
+&lt;/tab&gt;
+&lt;/tabs&gt;
 
 {{Hoenn Dungeons}}
 
@@ -117,9 +117,9 @@ After Reaching Kalos, the drop chance for items in Hoenn will be debuffed for an
       <username>ThePantMan</username>
       <id>8</id>
     </contributor>
-    <comment>/* Debuff Drop Table */</comment>
+    <comment>/* Tabs */</comment>
     <model>wikitext</model>
-    <parentid>5461</parentid>
-    <sha1>a6aa316ba17e7dc0ece2a5af5bd7fba3a5b0c0d2</sha1>
+    <parentid>5462</parentid>
+    <sha1>8557dd710578992f5bff3446d81ca3dfda9ec46c</sha1>
   </revision>
 </page></mediawiki>

@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>350</id>
   <revision>
-    <id>5100</id>
-    <timestamp>2022-07-30T04:52:47Z</timestamp>
-    <text space="preserve" bytes="3250">{{Infobox dungeon
+    <id>32987</id>
+    <timestamp>2022-12-08T15:50:33Z</timestamp>
+    <text space="preserve" bytes="3259">{{Infobox dungeon
 |name    = Mt. Chimney Crater
 |image   = [[File:Mt. Chimney.png|300px]]
 |caption = A map of Mt. Chimney Crater.
@@ -47,7 +47,8 @@
 
 ==Items==
 
-===No Debuff===
+&lt;tabs&gt;
+&lt;tab name="No Debuff"&gt;
 
 {| class="wikitable"
 |-
@@ -73,12 +74,12 @@
 |-
 | {{Bag2|Protein}} || N/A || 0% || 0% || 1.18% || 400 Clears
 |}
+&lt;/tab&gt;
 
-===Debuff Drop Table===
-
+&lt;tab name="Debuff"&gt;
 After Reaching Kalos, the drop chance for items in Hoenn will be debuffed for any loot with a Tier rarer than Rare (ie: Epic, Legendary, Mythic).
 
-{| class="wikitable collapsible collapsed"
+{| class="wikitable"
 |-
 ! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears !! Requirement 
 |-
@@ -102,6 +103,8 @@ After Reaching Kalos, the drop chance for items in Hoenn will be debuffed for an
 |-
 | {{Bag2|Protein}} || N/A || 0% || 0% || &lt;0.01% || 400 Clears
 |}
+&lt;/tab&gt;
+&lt;/tabs&gt;
 
 {{Hoenn Dungeons}}
 
@@ -110,9 +113,9 @@ After Reaching Kalos, the drop chance for items in Hoenn will be debuffed for an
       <username>ThePantMan</username>
       <id>8</id>
     </contributor>
-    <comment>/* Debuff Drop Table */</comment>
+    <comment>/* Tabs */</comment>
     <model>wikitext</model>
-    <parentid>5099</parentid>
-    <sha1>cf13a2405b907b185b94da90cefaf191c2086ede</sha1>
+    <parentid>5100</parentid>
+    <sha1>be13420ea974ce8ce2f895fa8f430adc530bd3cd</sha1>
   </revision>
 </page></mediawiki>

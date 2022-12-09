@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>426</id>
   <revision>
-    <id>5642</id>
-    <timestamp>2022-07-30T04:58:16Z</timestamp>
-    <text space="preserve" bytes="2728">{{Infobox dungeon
+    <id>33003</id>
+    <timestamp>2022-12-08T16:12:27Z</timestamp>
+    <text space="preserve" bytes="2852">{{Infobox dungeon
 |name    = Old Chateau
 |image   = [[File:Old Chateau.png|300px]]
 |caption = An outside view of the Old Chateau.
@@ -44,8 +44,8 @@ The '''Old Chateau''' is a [[Dungeons|dungeon]] in [[Sinnoh]]. It initially has 
 
 ==Items==
 
-===No Debuff===
-
+&lt;tabs&gt;
+&lt;tab name="No Debuff"&gt;
 {| class="wikitable"
 |-
 ! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
@@ -72,14 +72,16 @@ The '''Old Chateau''' is a [[Dungeons|dungeon]] in [[Sinnoh]]. It initially has 
 |-
 | align="center" colspan=6| '''Legendary'''
 |-
-| {{Bag2|Odd Keystone}} || N/A || 1.00% || 1.59% || 4.03%
+| {{Bag2|Odd Keystone}} || N/A || 0.50% || 0.80% || 2.02%
+|-
+| {{Bag2|Spell Tag}} || N/A || 0.50% || 0.80% || 2.02%
 |}
+&lt;/tab&gt;
 
-===Debuff Drop Table===
-
+&lt;tab name="Debuff"&gt;
 After Reaching Alola, the drop chance for items in Sinnoh will be debuffed for any loot with a Tier rarer than Rare (ie: Epic, Legendary, Mythic).
 
-{| class="wikitable collapsible collapsed"
+{| class="wikitable"
 |-
 ! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
 |-
@@ -105,8 +107,12 @@ After Reaching Alola, the drop chance for items in Sinnoh will be debuffed for a
 |-
 | align="center" colspan=6| '''Legendary'''
 |-
-| {{Bag2|Odd Keystone}} || N/A || 0.10% || 0.10% || 0.10%
+| {{Bag2|Odd Keystone}} || N/A || 0.05% || 0.05% || 0.05%
+|-
+| {{Bag2|Spell Tag}} || N/A || 0.05% || 0.05% || 0.05%
 |}
+&lt;/tab&gt;
+&lt;/tabs&gt;
 
 {{Sinnoh Dungeons}}
 
@@ -115,9 +121,9 @@ After Reaching Alola, the drop chance for items in Sinnoh will be debuffed for a
       <username>ThePantMan</username>
       <id>8</id>
     </contributor>
-    <comment>/* Debuff Drop Table */</comment>
+    <comment>/* Loot update */</comment>
     <model>wikitext</model>
-    <parentid>5641</parentid>
-    <sha1>060f9f2e207a419651925d07145582421069e725</sha1>
+    <parentid>5642</parentid>
+    <sha1>a4ed87a69555d811980ba407fcf78151b411507f</sha1>
   </revision>
 </page></mediawiki>

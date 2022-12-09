@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>353</id>
   <revision>
-    <id>5159</id>
-    <timestamp>2022-07-30T04:52:13Z</timestamp>
-    <text space="preserve" bytes="3570">{{Infobox dungeon
+    <id>32984</id>
+    <timestamp>2022-12-08T15:47:06Z</timestamp>
+    <text space="preserve" bytes="3579">{{Infobox dungeon
 |name    = Granite Cave
 |image   = [[File:Granite Cave.png|300px]]
 |caption = An outside view of Granite Cave.
@@ -51,7 +51,8 @@
 
 ==Items==
 
-===No Debuff===
+&lt;tabs&gt;
+&lt;tab name="No Debuff"&gt;
 
 {| class="wikitable"
 |-
@@ -93,12 +94,12 @@
 |-
 | {{Bag2|Heart Scale}} || N/A || 0.01% || 0.22% || 1.06%
 |}
+&lt;/tab&gt;
 
-===Debuff Drop Table===
-
+&lt;tab name="Debuff"&gt;
 After Reaching Kalos, the drop chance for items in Hoenn will be debuffed for any loot with a Tier rarer than Rare (ie: Epic, Legendary, Mythic).
 
-{| class="wikitable collapsible collapsed"
+{| class="wikitable"
 |-
 ! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
 |-
@@ -138,6 +139,8 @@ After Reaching Kalos, the drop chance for items in Hoenn will be debuffed for an
 |-
 | {{Bag2|Heart Scale}} || N/A || &lt;0.01% || &lt;0.01% || &lt;0.01%
 |}
+&lt;/tab&gt;
+&lt;/tabs&gt;
 
 {{Hoenn Dungeons}}
 
@@ -146,9 +149,9 @@ After Reaching Kalos, the drop chance for items in Hoenn will be debuffed for an
       <username>ThePantMan</username>
       <id>8</id>
     </contributor>
-    <comment>/* Debuff Drop Table */</comment>
+    <comment>/* Tabs */</comment>
     <model>wikitext</model>
-    <parentid>5158</parentid>
-    <sha1>3b4fafd9933a8ac7872a9036375680ab0c48ba8c</sha1>
+    <parentid>5159</parentid>
+    <sha1>2e5e835ae492ec189d15c703b55b79c469b564d5</sha1>
   </revision>
 </page></mediawiki>

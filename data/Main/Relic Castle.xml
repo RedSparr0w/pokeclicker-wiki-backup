@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>1740</id>
   <revision>
-    <id>10405</id>
-    <timestamp>2022-07-27T02:43:48Z</timestamp>
-    <text space="preserve" bytes="2552">{{Infobox dungeon
+    <id>33052</id>
+    <timestamp>2022-12-08T21:05:38Z</timestamp>
+    <text space="preserve" bytes="4008">{{Infobox dungeon
 |name    = Relic Castle
 |image   = [[File:Relic Castle.png|300px]]
 |caption = A map of Relic Castle.
@@ -49,7 +49,9 @@
 |}
 
 ==Items==
-
+¨
+&lt;tabs&gt;
+&lt;tab name="No Debuff"&gt;
 {| class="wikitable"
 |-
 ! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
@@ -90,19 +92,69 @@
 |-
 | {{Bag2|Heart Scale}} || N/A || 0.01% || 0.11% || 0.53%
 |-
-| {{Pokemon|Darmanitan (Zen)}} || N/A || 0.01% || 0.11% || 0.53%
+| {{Pokemon|Darmanitan (Zen)|Mimic}} || N/A || 0.01% || 0.11% || 0.53%
 |}
+&lt;/tab&gt;
+
+&lt;tab name="Debuff"&gt;
+After Reaching Galar, the drop chance for items in Unova will be debuffed for any loot with a Tier rarer than Rare (ie: Epic, Legendary, Mythic).
+&lt;br&gt;
+'''*Note:''' Darmanitan (Zen) does not get debuffed!
+{| class="wikitable"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+|-
+| align="center" colspan=6| '''Common'''
+|-
+| {{Bag2|Token Collector}} || N/A || 18.75% || 18.75% || 18.75%
+|-
+| {{Bag2|Mago}} || 2 || 37.50% || 37.50% || 37.50%
+|-
+| {{Bag2|Greatball}} || N/A || 18.75% || 18.75% || 18.75%
+|-
+| align="center" colspan=6| '''Rare'''
+|-
+| {{Bag2|Blue Shard}} || N/A || 12.00% || 12.00% || 12.00%
+|-
+| {{Bag2|Yellow Shard}} || N/A || 12.00% || 12.00% || 12.00%
+|-
+| align="center" colspan=6| '''Epic'''
+|-
+| {{Bag2|Earth Plate}} || N/A || 0.30% || 0.30% || 0.30%
+|-
+| {{Bag2|Insect Plate}} || N/A || 0.30% || 0.30% || 0.30%
+|-
+| {{Bag2|Flame Plate}} || N/A || 0.30% || 0.30% || 0.30%
+|-
+| align="center" colspan=6| '''Legendary'''
+|-
+| {{Bag2|Revive}} || N/A || 0.02% || 0.02% || 0.02%
+|-
+| {{Bag2|Ultraball}} || N/A || 0.02% || 0.02% || 0.02%
+|-
+| {{Bag2|Medium Restore}} || 2 || 0.04% || 0.04% || 0.04%
+|-
+| {{Bag2|Large Restore}} || N/A || 0.02% || 0.02% || 0.02%
+|-
+| align="center" colspan=6| '''Mythic'''
+|-
+| {{Bag2|Heart Scale}} || N/A || &lt;0.01% || &lt;0.01% || &lt;0.01%
+|-
+| {{Pokemon|Darmanitan (Zen)|Mimic}} || N/A || 0.01% || 0.11% || 0.53%
+|}
+&lt;/tab&gt;
+&lt;/tabs&gt;
 
 {{Unova Dungeons}}
 
 [[Category:Dungeons|^Region #5 - Unova^e]]</text>
     <contributor>
-      <username>LatiosRider</username>
-      <id>35</id>
+      <username>ThePantMan</username>
+      <id>8</id>
     </contributor>
-    <comment>Add Category header</comment>
+    <comment>/* Galar */</comment>
     <model>wikitext</model>
-    <parentid>10404</parentid>
-    <sha1>e317614c98f4e8fe4863f14164802d6e34c64d98</sha1>
+    <parentid>10405</parentid>
+    <sha1>da5c3d6974f3ab99b0ebd71ae642f5985dfe3b51</sha1>
   </revision>
 </page></mediawiki>

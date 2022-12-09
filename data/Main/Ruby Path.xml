@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>10203</id>
   <revision>
-    <id>30167</id>
-    <timestamp>2022-12-05T01:14:18Z</timestamp>
-    <text space="preserve" bytes="2219">{{Infobox dungeon
+    <id>32907</id>
+    <timestamp>2022-12-08T02:33:57Z</timestamp>
+    <text space="preserve" bytes="2231">{{Infobox dungeon
 |name    = Ruby Path
 |image   = [[File:Ruby Path.png|thumb]]
 |caption = An overhead map of Ruby Path.
@@ -58,7 +58,7 @@
 |-
 | {{Bag2|Rawst}} || 3 || 33.83% || 33.18% || 30.27%
 |-
-| {{Pokemon|Geodude}} || N/A || 11.28% || 11.06% || 10.09%
+| {{Pokemon|Geodude|Mimic}} || N/A || 11.28% || 11.06% || 10.09%
 |-
 | align="center" colspan=6| '''Rare'''
 |-
@@ -81,7 +81,7 @@ After Reaching Kalos, the drop chance for items will be debuffed for any loot wi
 |-
 | {{Bag2|Rawst}} || 3 || 32.47% || 32.47% || 32.47%
 |-
-| {{Pokemon|Geodude}} || N/A || 10.82% || 10.82% || 10.82%
+| {{Pokemon|Geodude|Mimic}} || N/A || 10.82% || 10.82% || 10.82%
 |-
 | align="center" colspan=6| '''Rare'''
 |-
@@ -98,9 +98,9 @@ After Reaching Kalos, the drop chance for items will be debuffed for any loot wi
       <username>ThePantMan</username>
       <id>8</id>
     </contributor>
-    <comment>Created page with "{{Infobox dungeon |name    = Ruby Path |image   = [[File:Ruby Path.png|thumb]] |caption = An overhead map of Ruby Path. |tokens  = 43,000 |location = North of Kindle Road. }} '''Ruby Path''' is a [[Dungeons|dungeon]] in [[Kanto]]. It has 49 tiles arranged in a 7x7 square, including 7 chest tiles, 17 non-boss encounter tiles, and 1 boss encounter tile. Wild Encounters have 720,600 HP.  == Encounter Tables ==  ===Wild Encounters===  {| class="wikitable" |- ! Wild Pokémon..."</comment>
+    <comment>/* mimic */</comment>
     <model>wikitext</model>
-    <parentid>0</parentid>
-    <sha1>b5f86461586d1db6fcc58e91e278cf2c1fe44caa</sha1>
+    <parentid>30167</parentid>
+    <sha1>6a1c9de8d2ce19abca95f622be4782d1b9d3aea5</sha1>
   </revision>
 </page></mediawiki>

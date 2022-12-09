@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>4069</id>
   <revision>
-    <id>14817</id>
-    <timestamp>2022-07-30T05:04:56Z</timestamp>
-    <text space="preserve" bytes="2713">{{Infobox dungeon
+    <id>33018</id>
+    <timestamp>2022-12-08T16:31:42Z</timestamp>
+    <text space="preserve" bytes="2721">{{Infobox dungeon
 |name    = Sendoff Spring
 |image   = [[File:Sendoff_Spring.png|300px]]
 |caption = A map of Sendoff Spring.
@@ -57,8 +57,8 @@
 
 ==Items==
 
-===No Debuff===
-
+&lt;tabs&gt;
+&lt;tab name="No Debuff"&gt;
 {| class="wikitable"
 |-
 ! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
@@ -81,12 +81,12 @@
 |-
 | {{Bag2|Draco Plate}} || N/A || 2.03% || 2.65% || 5.27%
 |}
+&lt;/tab&gt;
 
-===Debuff Drop Table===
-
+&lt;tab name="Debuff"&gt;
 After Reaching Alola, the drop chance for items in Sinnoh will be debuffed for any loot with a Tier rarer than Rare (ie: Epic, Legendary, Mythic).
 
-{| class="wikitable collapsible collapsed"
+{| class="wikitable"
 |-
 ! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
 |-
@@ -108,6 +108,8 @@ After Reaching Alola, the drop chance for items in Sinnoh will be debuffed for a
 |-
 | {{Bag2|Draco Plate}} || N/A || 0.45% || 0.45% || 0.45%
 |}
+&lt;/tab&gt;
+&lt;/tabs&gt;
 
 {{Sinnoh Dungeons}}
 
@@ -116,9 +118,9 @@ After Reaching Alola, the drop chance for items in Sinnoh will be debuffed for a
       <username>ThePantMan</username>
       <id>8</id>
     </contributor>
-    <comment>/* Debuff Drop Table */</comment>
+    <comment>/* Tabs */</comment>
     <model>wikitext</model>
-    <parentid>14816</parentid>
-    <sha1>a670f69ddd0c1a5ca171fc0f4a4589ecd203d454</sha1>
+    <parentid>14817</parentid>
+    <sha1>921b7070bb1853167cce9489ae44bd71d829c496</sha1>
   </revision>
 </page></mediawiki>

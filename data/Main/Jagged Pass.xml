@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>349</id>
   <revision>
-    <id>5079</id>
-    <timestamp>2022-07-30T04:53:01Z</timestamp>
-    <text space="preserve" bytes="3254">{{Infobox dungeon
+    <id>32988</id>
+    <timestamp>2022-12-08T15:51:16Z</timestamp>
+    <text space="preserve" bytes="3263">{{Infobox dungeon
 |name    = Jagged Pass
 |image   = [[File:Jagged Pass.png|300px]]
 |caption = A map of Jagged Pass.
@@ -48,7 +48,8 @@
 
 ==Items==
 
-===No Debuff===
+&lt;tabs&gt;
+&lt;tab name="No Debuff"&gt;
 
 {| class="wikitable"
 |-
@@ -76,12 +77,12 @@
 |-
 | {{Bag2|Stone Plate}} || N/A || 0.50% || 0.80% || 2.02%
 |}
+&lt;/tab&gt;
 
-===Debuff Drop Table===
-
+&lt;tab name="Debuff"&gt;
 After Reaching Kalos, the drop chance for items in Hoenn will be debuffed for any loot with a Tier rarer than Rare (ie: Epic, Legendary, Mythic).
 
-{| class="wikitable collapsible collapsed"
+{| class="wikitable"
 |-
 ! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
 |-
@@ -107,6 +108,8 @@ After Reaching Kalos, the drop chance for items in Hoenn will be debuffed for an
 |-
 | {{Bag2|Stone Plate}} || N/A || 0.05% || 0.05% || 0.05%
 |}
+&lt;/tab&gt;
+&lt;/tabs&gt;
 
 {{Hoenn Dungeons}}
 
@@ -115,9 +118,9 @@ After Reaching Kalos, the drop chance for items in Hoenn will be debuffed for an
       <username>ThePantMan</username>
       <id>8</id>
     </contributor>
-    <comment>/* Debuff Drop Table */</comment>
+    <comment>/* Tabs */</comment>
     <model>wikitext</model>
-    <parentid>5078</parentid>
-    <sha1>703679aa693d582307be5e607df5fa18920ba562</sha1>
+    <parentid>5079</parentid>
+    <sha1>a3e28b2647e3f01e7fd9fbebdcaadd62760e5faf</sha1>
   </revision>
 </page></mediawiki>

@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>3569</id>
   <revision>
-    <id>13476</id>
-    <timestamp>2022-07-30T04:50:04Z</timestamp>
-    <text space="preserve" bytes="5215">{{Infobox dungeon
+    <id>32918</id>
+    <timestamp>2022-12-08T02:56:58Z</timestamp>
+    <text space="preserve" bytes="5359">{{Infobox dungeon
 |name    = Team Rockets Hideout
 |image   = [[File:Team Rockets Hideout.png|thumb]]
 |caption = A map of Team Rockets Hideout
@@ -62,68 +62,71 @@
 
 ==Items==
 
-===No Debuff===
+&lt;tabs&gt;
+&lt;tab name="No Debuff"&gt;
 
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears !! Requirement 
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears !! Requirement
 |-
 | align="center" colspan=6| '''Common'''
 |-
-| {{Bag2|xAttack}} || 3 || 33.47% || 32.55% || 28.57% || rowspan=3|&lt;center&gt; N/A
+| {{Bag2|xAttack}} || 3 || 33.47% || 32.55% || 28.57% || rowspan=3| &lt;center&gt;N/A
 |-
 | {{Bag2|Token Collector}} || 3 || 33.47% || 32.55% || 28.57%
 |-
-| {{Pokemon|Electrode}} || N/A || 11.16% || 10.85% || 9.52%
+| {{Pokemon|Electrode|Mimic}} || N/A || 11.16% || 10.85% || 9.52%
 |-
 | align="center" colspan=6| '''Rare'''
 |-
-| {{Bag2|Blue Shard}} || N/A || 10.42% || 11.07% || 13.86% || rowspan=2|&lt;center&gt; N/A
+| {{Bag2|Blue Shard}} || N/A || 10.42% || 11.07% || 13.86% || rowspan=2| &lt;center&gt;N/A
 |-
 | {{Bag2|Purple Shard}} || N/A || 10.42% || 11.07% || 13.86%
 |-
 | align="center" colspan=6| '''Legendary'''
 |-
-| {{Bag2|Ultraball}} || 2 || 0.30% || 0.48% || 1.27% || rowspan=5|&lt;center&gt; N/A
+| {{Bag2|Ultraball}} || 2 || 0.26% || 0.42% || 1.11% || rowspan=6| &lt;center&gt;N/A
 |-
-| {{Bag2|Revive}} || 2 || 0.30% || 0.48% || 1.27%
+| {{Bag2|Revive}} || 2 || 0.26% || 0.42% || 1.11%
 |-
-| {{Bag2|Large Restore}} || N/A || 0.15% || 0.24% || 0.63%
+| {{Bag2|Large Restore}} || N/A || 0.13% || 0.21% || 0.55%
 |-
-| {{Bag2|Dread Plate}} || N/A || 0.15% || 0.24% || 0.63%
+| {{Bag2|Dread Plate}} || N/A || 0.13% || 0.21% || 0.55%
 |-
-| {{Bag2|Splash Plate}} || N/A || 0.15% || 0.24% || 0.63%
+| {{Bag2|Splash Plate}} || N/A || 0.13% || 0.21% || 0.55%
+|-
+| {{Bag2|Black Glasses}} || N/A || 0.13% || 0.21% || 0.55%
 |-
 | align="center" colspan=6| '''Mythic'''
 |-
-| {{Bag2|Protein}} || N/A || 0.00% || 0.00% || 1.18% || 400 Clears
+| {{Bag2|Protein}} || N/A || 0% || 0% || 1.18% || 400 Clears
 |}
+&lt;/tab&gt;
 
-===Debuff Drop Table===
-
+&lt;tab name="Debuff"&gt;
 After Reaching Unova, the drop chance for items in Johto will be debuffed for any loot with a Tier rarer than Rare (ie: Epic, Legendary, Mythic).
 
-{| class="wikitable collapsible collapsed"
+{| class="wikitable collapsible"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears !! Requirement 
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears !! Requirement
 |-
 | align="center" colspan=6| '''Common'''
-|-
-| {{Bag2|xAttack}} || 3 || 32.43% || 32.43% || 32.43% || rowspan=3|&lt;center&gt; N/A
+|- 
+| {{Bag2|xAttack}} || 3 || 32.43% || 32.43% || 32.43% || rowspan=3| &lt;center&gt;N/A
 |-
 | {{Bag2|Token Collector}} || 3 || 32.43% || 32.43% || 32.43%
 |-
-| {{Pokemon|Electrode}} || N/A || 10.81% || 10.81% || 10.81%
+| {{Pokemon|Electrode|Mimic}} || N/A || 10.81% || 10.81% || 10.81%
 |-
 | align="center" colspan=6| '''Rare'''
 |-
-| {{Bag2|Blue Shard}} || N/A || 12.11% || 12.11% || 12.11% || rowspan=2|&lt;center&gt; N/A
+| {{Bag2|Blue Shard}} || N/A || 12.11% || 12.11% || 12.11% || rowspan=2| &lt;center&gt;N/A
 |-
 | {{Bag2|Purple Shard}} || N/A || 12.11% || 12.11% || 12.11%
 |-
 | align="center" colspan=6| '''Legendary'''
 |-
-| {{Bag2|Ultraball}} || 2 || 0.03% || 0.03% || 0.03% || rowspan=5|&lt;center&gt; N/A
+| {{Bag2|Ultraball}} || 2 || 0.03% || 0.03% || 0.03% || rowspan=6| &lt;center&gt;N/A
 |-
 | {{Bag2|Revive}} || 2 || 0.03% || 0.03% || 0.03%
 |-
@@ -133,10 +136,14 @@ After Reaching Unova, the drop chance for items in Johto will be debuffed for an
 |-
 | {{Bag2|Splash Plate}} || N/A || 0.01% || 0.01% || 0.01%
 |-
+| {{Bag2|Black Glasses}} || N/A || 0.01% || 0.01% || 0.01%
+|-
 | align="center" colspan=6| '''Mythic'''
 |-
-| {{Bag2|Protein}} || N/A || 0.00% || 0.00% || &lt;0.01% || 400 Clears
+| {{Bag2|Protein}} || N/A || 0% || 0% || &lt;0.01% || 400 Clears
 |}
+&lt;/tab&gt;
+&lt;/tabs&gt;
 
 {{Johto Dungeons}}
 
@@ -145,9 +152,9 @@ After Reaching Unova, the drop chance for items in Johto will be debuffed for an
       <username>ThePantMan</username>
       <id>8</id>
     </contributor>
-    <comment>/* Debuff Drop Table */</comment>
+    <comment>/* Loot update */</comment>
     <model>wikitext</model>
-    <parentid>13475</parentid>
-    <sha1>bf349f9172172d1e536c629c366714a1afa6779f</sha1>
+    <parentid>13476</parentid>
+    <sha1>17148ef9a1cc1428431a85cecc49e6c165c91b9d</sha1>
   </revision>
 </page></mediawiki>

@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>321</id>
   <revision>
-    <id>4759</id>
-    <timestamp>2022-07-30T04:47:57Z</timestamp>
-    <text space="preserve" bytes="3454">{{Infobox dungeon
+    <id>32909</id>
+    <timestamp>2022-12-08T02:38:50Z</timestamp>
+    <text space="preserve" bytes="3585">{{Infobox dungeon
 |name    = Sprout Tower
 |image   = [[File:Sprout Tower.png|thumb]]
 |caption = An outside view of Sprout Tower.
@@ -52,7 +52,8 @@
 
 ==Items==
 
-===No Debuff===
+&lt;tabs&gt;
+&lt;tab name="No Debuff"&gt;
 
 {| class="wikitable"
 |-
@@ -74,16 +75,18 @@
 |-
 | align="center" colspan=6| '''Legendary'''
 |-
-| {{Bag2|Meadow Plate}} || 2 || 0.69% || 1.12% || 2.99%
+| {{Bag2|Meadow Plate}} || 2 || 0.52% || 0.84% || 2.24%
 |-
-| {{Bag2|Small Restore}} || N/A || 0.35% || 0.56% || 1.50%
+| {{Bag2|Small Restore}} || N/A || 0.26% || 0.42% || 1.12%
+|-
+| {{Bag2|Miracle Seed}} || N/A || 0.26% || 0.42% || 1.12%
 |}
+&lt;/tab&gt;
 
-===Debuff Drop Table===
-
+&lt;tab name="Debuff"&gt;
 After Reaching Unova, the drop chance for items in Johto will be debuffed for any loot with a Tier rarer than Rare (ie: Epic, Legendary, Mythic).
 
-{| class="wikitable collapsible collapsed"
+{| class="wikitable"
 |-
 ! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
 |-
@@ -103,10 +106,14 @@ After Reaching Unova, the drop chance for items in Johto will be debuffed for an
 |-
 | align="center" colspan=6| '''Legendary'''
 |-
-| {{Bag2|Meadow Plate}} || 2 || 0.07% || 0.07% || 0.07%
+| {{Bag2|Meadow Plate}} || 2 || 0.05% || 0.05% || 0.05%
 |-
 | {{Bag2|Small Restore}} || N/A || 0.03% || 0.03% || 0.03%
+|-
+| {{Bag2|Miracle Seed}} || N/A || 0.03% || 0.03% || 0.03%
 |}
+&lt;/tab&gt;
+&lt;/tabs&gt;
 
 {{Johto Dungeons}}
 
@@ -115,9 +122,9 @@ After Reaching Unova, the drop chance for items in Johto will be debuffed for an
       <username>ThePantMan</username>
       <id>8</id>
     </contributor>
-    <comment>/* Debuff Drop Table */</comment>
+    <comment>/* Loot update */</comment>
     <model>wikitext</model>
-    <parentid>4758</parentid>
-    <sha1>f76b015c049ad820c2a313cc4ff9c82216a33538</sha1>
+    <parentid>4759</parentid>
+    <sha1>cb02a7a5d12e305828df9633be262343189dfc0c</sha1>
   </revision>
 </page></mediawiki>

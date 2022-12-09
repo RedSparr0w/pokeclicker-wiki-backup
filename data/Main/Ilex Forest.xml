@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>366</id>
   <revision>
-    <id>5214</id>
-    <timestamp>2022-08-19T02:53:16Z</timestamp>
-    <text space="preserve" bytes="3133">{{Infobox dungeon
+    <id>32913</id>
+    <timestamp>2022-12-08T02:45:20Z</timestamp>
+    <text space="preserve" bytes="3266">{{Infobox dungeon
 |name    = Ilex Forest
 |image   = [[File:Ilex Forest.png|thumb]]
 |caption = A map of Ilex Forest.
@@ -61,7 +61,8 @@
 
 ==Items==
 
-===No Debuff===
+&lt;tabs&gt;
+&lt;tab name="No Debuff"&gt;
 
 {| class="wikitable"
 |-
@@ -79,22 +80,24 @@
 |-
 | align="center" colspan=6| '''Legendary'''
 |-
-| {{Bag2|Revive}} || N/A || 0.35% || 0.56% || 1.48%
+| {{Bag2|Revive}} || N/A || 0.26% || 0.42% || 1.11%
 |-
-| {{Bag2|Insect Plate}} || N/A || 0.35% || 0.56% || 1.48%
+| {{Bag2|Insect Plate}} || N/A || 0.26% || 0.42% || 1.11%
 |-
-| {{Bag2|Medium Restore}} || N/A || 0.35% || 0.56% || 1.48%
+| {{Bag2|Medium Restore}} || N/A || 0.26% || 0.42% || 1.11%
+|-
+| {{Bag2|Silver Powder}} || N/A || 0.26% || 0.42% || 1.11%
 |-
 | align="center" colspan=6| '''Mythic'''
 |-
 | {{Bag2|Zap Plate}} || N/A || 0.01% || 0.23% || 1.18%
 |}
+&lt;/tab&gt;
 
-===Debuff Drop Table===
-
+&lt;tab name="Debuff"&gt;
 After Reaching Unova, the drop chance for items in Johto will be debuffed for any loot with a Tier rarer than Rare (ie: Epic, Legendary, Mythic).
 
-{| class="wikitable collapsible collapsed"
+{| class="wikitable"
 |-
 ! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
 |-
@@ -116,10 +119,14 @@ After Reaching Unova, the drop chance for items in Johto will be debuffed for an
 |-
 | {{Bag2|Medium Restore}} || N/A || 0.03% || 0.03% || 0.03%
 |-
+| {{Bag2|Silver Powder}} || N/A || 0.03% || 0.03% || 0.03%
+|-
 | align="center" colspan=6| '''Mythic'''
 |-
 | {{Bag2|Zap Plate}} || N/A || &lt;0.01% || &lt;0.01% || &lt;0.01%
 |}
+&lt;/tab&gt;
+&lt;/tabs&gt;
 
 {{Johto Dungeons}}
 
@@ -128,9 +135,9 @@ After Reaching Unova, the drop chance for items in Johto will be debuffed for an
       <username>ThePantMan</username>
       <id>8</id>
     </contributor>
-    <comment>/* Boss Encounters - added line about Celebi quest */</comment>
+    <comment>/* Loot update */</comment>
     <model>wikitext</model>
-    <parentid>5213</parentid>
-    <sha1>a4bed781a2d120053a9e2e8bad9296c95a5b508d</sha1>
+    <parentid>5214</parentid>
+    <sha1>48b2a0cc82ef1cb61f59102e61ec3d6f0cc25e44</sha1>
   </revision>
 </page></mediawiki>

@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>9371</id>
   <revision>
-    <id>25331</id>
-    <timestamp>2022-12-04T07:32:42Z</timestamp>
-    <text space="preserve" bytes="3101">{{Infobox dungeon
+    <id>32908</id>
+    <timestamp>2022-12-08T02:34:50Z</timestamp>
+    <text space="preserve" bytes="3132">{{Infobox dungeon
 |name    = Sunburst Island
 |image   = [[File:Sunburst Island.png|thumb]]
 |caption = An outside view of Sunburst Island.
@@ -60,7 +60,8 @@
 
 ==Items==
 
-===No Debuff===
+&lt;tabs&gt;
+&lt;tab name="No Debuff"&gt;
 
 {| class="wikitable"
 |-
@@ -90,9 +91,9 @@
 |-
 | {{Bag2|Icy Rock}} || N/A || 0.50% || 0.80% || 2.02%
 |}
+&lt;/tab&gt;
 
-===Debuff Drop Table===
-
+&lt;tab name="Debuff"&gt;
 After Reaching Kalos, the drop chance for items will be debuffed for any loot with a Tier rarer than Rare (ie: Epic, Legendary, Mythic).
 
 {| class="wikitable"
@@ -123,16 +124,18 @@ After Reaching Kalos, the drop chance for items will be debuffed for any loot wi
 |-
 | {{Bag2|Icy Rock}} || N/A || 0.05% || 0.05% || 0.05%
 |}
+&lt;/tab&gt;
+&lt;/tabs&gt;
 
 {{Kanto Dungeons}}
 [[Category:Dungeons|^Region #1 - Kanto^c]]</text>
     <contributor>
-      <username>CypherX</username>
-      <id>15</id>
+      <username>ThePantMan</username>
+      <id>8</id>
     </contributor>
-    <comment>Created page with "{{Infobox dungeon |name    = Sunburst Island |image   = [[File:Sunburst Island.png|thumb]] |caption = An outside view of Sunburst Island. |tokens  = 43,000 |location = Sevii Island 5, south of Memorial Pillar route. }} '''Sunburst Island''' is a [[Dungeons|dungeon]] in [[Kanto]]. It has 49 tiles arranged in a 7x7 square, including 7 chest tiles, 17 non-boss encounter tiles, and 1 boss encounter tile. Wild Encounters have 720,600 HP.  == Encounter Tables ==  ===Wild Encou..."</comment>
+    <comment>/* Tabs */</comment>
     <model>wikitext</model>
-    <parentid>0</parentid>
-    <sha1>0aa5caed6ca69e72df8ceae016adb739f15417b7</sha1>
+    <parentid>25331</parentid>
+    <sha1>63a56a7719040d544c75d2333d96c7dda2e02bc0</sha1>
   </revision>
 </page></mediawiki>

@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>380</id>
   <revision>
-    <id>5364</id>
-    <timestamp>2022-07-30T04:51:11Z</timestamp>
-    <text space="preserve" bytes="4298">{{Infobox dungeon
+    <id>32924</id>
+    <timestamp>2022-12-08T03:12:28Z</timestamp>
+    <text space="preserve" bytes="4422">{{Infobox dungeon
 |name    = Mt Silver
 |image   = [[File:Mt Silver.png|thumb]]
 |caption = A map of Mt Silver.
@@ -57,21 +57,22 @@
 
 ==Items==
 
-===No Debuff===
+&lt;tabs&gt;
+&lt;tab name="No Debuff"&gt;
 
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears !! Requirement 
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears !! Requirement
 |-
 | align="center" colspan=6| '''Common'''
 |-
-| {{Bag2|Token Collector}} || N/A || 39.05% || 37.97% || 33.33% || rowspan=2|&lt;center&gt; N/A
+| {{Bag2|Token Collector}} || N/A || 39.05% || 37.97% || 33.33% || rowspan=2| &lt;center&gt;N/A
 |-
 | {{Bag2|Lucky Egg}} || N/A || 39.05% || 37.97% || 33.33%
 |-
 | align="center" colspan=6| '''Rare'''
 |-
-| {{Bag2|Blue Shard}} || N/A || 3.47% || 3.69% || 4.62% || rowspan=6|&lt;center&gt; N/A
+| {{Bag2|Blue Shard}} || N/A || 3.47% || 3.69% || 4.62% || rowspan=6| &lt;center&gt;N/A
 |-
 | {{Bag2|Green Shard}} || N/A || 3.47% || 3.69% || 4.62%
 |-
@@ -85,44 +86,46 @@
 |-
 | align="center" colspan=6| '''Legendary'''
 |-
-| {{Bag2|Fist Plate}} || 2 || 0.23% || 0.37% || 0.99% || rowspan=6|&lt;center&gt; N/A
+| {{Bag2|Fist Plate}} || 2 || 0.21% || 0.34% || 0.89% || rowspan=7| &lt;center&gt;N/A
 |-
-| {{Bag2|Zap Plate}} || 2 || 0.23% || 0.37% || 0.99%
+| {{Bag2|Zap Plate}} || 2 || 0.21% || 0.34% || 0.89%
 |-
-| {{Bag2|Ultraball}} || 2 || 0.23% || 0.37% || 0.99%
+| {{Bag2|Ultraball}} || 2 || 0.21% || 0.34% || 0.89%
 |-
-| {{Bag2|Large Restore}} || N/A || 0.12% || 0.19% || 0.49%
+| {{Bag2|Large Restore}} || N/A || 0.10% || 0.17% || 0.44%
 |-
-| {{Bag2|Revive}} || N/A || 0.12% || 0.19% || 0.49%
+| {{Bag2|Revive}} || N/A || 0.10% || 0.17% || 0.44%
 |-
-| {{Bag2|Star Piece}} || N/A || 0.12% || 0.19% || 0.49%
+| {{Bag2|Star Piece}} || N/A || 0.10% || 0.17% || 0.44%
+|-
+| {{Bag2|Spell Tag}} || N/A || 0.10% || 0.17% || 0.44%
 |-
 | align="center" colspan=6| '''Mythic'''
 |-
-| {{Bag2|Max Revive}} || N/A || &lt;0.01% || 0.08% || 0.39% || rowspan=2|&lt;center&gt; N/A
+| {{Bag2|Max Revive}} || N/A || &lt;0.01% || 0.08% || 0.39% || rowspan=2| &lt;center&gt;N/A
 |-
 | {{Bag2|Heart Scale}} || N/A || &lt;0.01% || 0.08% || 0.39%
 |-
 | {{Bag2|Protein}} || N/A || 0% || 0% || 0.39% || 450 Clears
 |}
+&lt;/tab&gt;
 
-===Debuff Drop Table===
-
+&lt;tab name="Debuff"&gt;
 After Reaching Unova, the drop chance for items in Johto will be debuffed for any loot with a Tier rarer than Rare (ie: Epic, Legendary, Mythic).
 
-{| class="wikitable collapsible collapsed"
+{| class="wikitable"
 |-
 ! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears !! Requirement 
 |-
 | align="center" colspan=6| '''Common'''
 |-
-| {{Bag2|Token Collector}} || N/A || 37.84% || 37.84% || 37.84% || rowspan=2|&lt;center&gt; N/A
+| {{Bag2|Token Collector}} || N/A || 37.84% || 37.84% || 37.84% || rowspan=2| &lt;center&gt;N/A
 |-
 | {{Bag2|Lucky Egg}} || N/A || 37.84% || 37.84% || 37.84%
 |-
 | align="center" colspan=6| '''Rare'''
 |-
-| {{Bag2|Blue Shard}} || N/A || 4.04% || 4.04% || 4.04% || rowspan=6|&lt;center&gt; N/A
+| {{Bag2|Blue Shard}} || N/A || 4.04% || 4.04% || 4.04% || rowspan=6| &lt;center&gt;N/A
 |-
 | {{Bag2|Green Shard}} || N/A || 4.04% || 4.04% || 4.04%
 |-
@@ -136,7 +139,7 @@ After Reaching Unova, the drop chance for items in Johto will be debuffed for an
 |-
 | align="center" colspan=6| '''Legendary'''
 |-
-| {{Bag2|Fist Plate}} || 2 || 0.02% || 0.02% || 0.02% || rowspan=6|&lt;center&gt; N/A
+| {{Bag2|Fist Plate}} || 2 || 0.02% || 0.02% || 0.02% || rowspan=7| &lt;center&gt;N/A
 |-
 | {{Bag2|Zap Plate}} || 2 || 0.02% || 0.02% || 0.02%
 |-
@@ -148,14 +151,18 @@ After Reaching Unova, the drop chance for items in Johto will be debuffed for an
 |-
 | {{Bag2|Star Piece}} || N/A || 0.01% || 0.01% || 0.01%
 |-
+| {{Bag2|Spell Tag}} || N/A || 0.01% || 0.01% || 0.01%
+|-
 | align="center" colspan=6| '''Mythic'''
 |-
-| {{Bag2|Max Revive}} || N/A || &lt;0.01% || &lt;0.01% || &lt;0.01% || rowspan=2|&lt;center&gt; N/A
+| {{Bag2|Max Revive}} || N/A || &lt;0.01% || &lt;0.01% || &lt;0.01% || rowspan=2| &lt;center&gt;N/A
 |-
 | {{Bag2|Heart Scale}} || N/A || &lt;0.01% || &lt;0.01% || &lt;0.01%
 |-
 | {{Bag2|Protein}} || N/A || 0% || 0% || &lt;0.01% || 450 Clears
 |}
+&lt;/tab&gt;
+&lt;/tabs&gt;
 
 {{Johto Dungeons}}
 
@@ -164,9 +171,9 @@ After Reaching Unova, the drop chance for items in Johto will be debuffed for an
       <username>ThePantMan</username>
       <id>8</id>
     </contributor>
-    <comment>/* Debuff Drop Table */</comment>
+    <comment>/* Loot update */</comment>
     <model>wikitext</model>
-    <parentid>5363</parentid>
-    <sha1>cf12bfc01186a8c4a36264440e747ff3f6061822</sha1>
+    <parentid>5364</parentid>
+    <sha1>2f5d69cc3c5118a6d94f4e9ca4b75c9dc095244c</sha1>
   </revision>
 </page></mediawiki>

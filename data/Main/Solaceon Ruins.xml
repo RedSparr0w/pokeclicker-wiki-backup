@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>1885</id>
   <revision>
-    <id>10902</id>
-    <timestamp>2022-07-30T04:59:06Z</timestamp>
-    <text space="preserve" bytes="3461">{{Infobox dungeon
+    <id>33007</id>
+    <timestamp>2022-12-08T16:15:12Z</timestamp>
+    <text space="preserve" bytes="3469">{{Infobox dungeon
 |name    = Solaceon Ruins
 |image   = [[File:Solaceon_Ruins.png|300px]]
 |caption = A map of Solaceon Ruins.
@@ -53,8 +53,8 @@
 
 ==Items==
 
-===No Debuff===
-
+&lt;tabs&gt;
+&lt;tab name="No Debuff"&gt;
 {| class="wikitable"
 |-
 ! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
@@ -75,12 +75,12 @@
 |-
 | {{Bag2|Sky Plate}} || N/A || 2.03% || 2.65% || 5.27%
 |}
+&lt;/tab&gt;
 
-===Debuff Drop Table===
-
+&lt;tab name="Debuff"&gt;
 After Reaching Alola, the drop chance for items in Sinnoh will be debuffed for any loot with a Tier rarer than Rare (ie: Epic, Legendary, Mythic).
 
-{| class="wikitable collapsible collapsed"
+{| class="wikitable"
 |-
 ! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
 |-
@@ -100,6 +100,8 @@ After Reaching Alola, the drop chance for items in Sinnoh will be debuffed for a
 |-
 | {{Bag2|Sky Plate}} || N/A || 0.45% || 0.45% || 0.45%
 |}
+&lt;/tab&gt;
+&lt;/tabs&gt;
 
 {{Sinnoh Dungeons}}
 
@@ -108,9 +110,9 @@ After Reaching Alola, the drop chance for items in Sinnoh will be debuffed for a
       <username>ThePantMan</username>
       <id>8</id>
     </contributor>
-    <comment>/* Debuff Drop Table */</comment>
+    <comment>/* Tabs */</comment>
     <model>wikitext</model>
-    <parentid>10901</parentid>
-    <sha1>8a856f3bcea92146609a03577fe6267c27717ffd</sha1>
+    <parentid>10902</parentid>
+    <sha1>a71eac59bf19645cfa91b3d28d5f563bbe2e91da</sha1>
   </revision>
 </page></mediawiki>

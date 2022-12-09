@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>3570</id>
   <revision>
-    <id>13493</id>
-    <timestamp>2022-07-30T04:50:18Z</timestamp>
-    <text space="preserve" bytes="7705">{{Infobox dungeon
+    <id>32919</id>
+    <timestamp>2022-12-08T03:00:32Z</timestamp>
+    <text space="preserve" bytes="7840">{{Infobox dungeon
 |name    = Radio Tower
 |image   = [[File:Radio Tower.png|thumb]]
 |caption = A map of Radio Tower.
@@ -91,7 +91,8 @@
 
 ==Items==
 
-===No Debuff===
+&lt;tabs&gt;
+&lt;tab name="No Debuff"&gt;
 
 {| class="wikitable"
 |-
@@ -99,17 +100,17 @@
 |-
 | align="center" colspan=6| '''Common'''
 |-
-| {{Bag2|xClick}} || N/A || 37.48% || 36.00% || 30.00% || rowspan=2|&lt;center&gt; N/A
+| {{Bag2|xClick}} || N/A || 37.48% || 36.00% || 30.00% || rowspan=2| &lt;center&gt;N/A
 |-
 | {{Bag2|Lucky Egg}} || N/A || 37.48% || 36.00% || 30.00%
 |-
 | align="center" colspan=6| '''Rare'''
 |-
-| {{Bag2|Yellow Shard}} || N/A || 20.01% || 20.99% || 24.95% || &lt;center&gt; N/A
+| {{Bag2|Yellow Shard}} || N/A || 20.01% || 20.99% || 24.95% || &lt;center&gt;N/A
 |-
 | align="center" colspan=6| '''Epic'''
 |-
-| {{Bag2|Persim}} || N/A || 0.36% || 0.47% || 0.91% || rowspan=11|&lt;center&gt; N/A
+| {{Bag2|Persim}} || N/A || 0.36% || 0.47% || 0.91% || rowspan=11| &lt;center&gt;N/A
 |-
 | {{Bag2|Razz}} || N/A || 0.36% || 0.47% || 0.91%
 |-
@@ -133,36 +134,38 @@
 |-
 | align="center" colspan=6| '''Legendary'''
 |-
-| {{Bag2|Ultraball}} || N/A || 1.00% || 1.59% || 3.99% || &lt;center&gt; N/A
+| {{Bag2|Ultraball}} || N/A || 0.50% || 0.80% || 1.99% || rowspan=2| &lt;center&gt;N/A
+|-
+| {{Bag2|Magnet}} || N/A || 0.50% || 0.80% || 1.99%
 |-
 | align="center" colspan=6| '''Mythic'''
 |-
-| {{Bag2|Max Revive}} || N/A || 0.01% || 0.11% || 0.53% || &lt;center&gt; N/A
+| {{Bag2|Max Revive}} || N/A || 0.01% || 0.11% || 0.53% || &lt;center&gt;N/A
 |-
 | {{Bag2|Lum}} || N/A || 0% || 0% || 0.53% || 250 Clears
 |}
+&lt;/tab&gt;
 
-===Debuff Drop Table===
-
+&lt;tab name="Debuff"&gt;
 After Reaching Unova, the drop chance for items in Johto will be debuffed for any loot with a Tier rarer than Rare (ie: Epic, Legendary, Mythic).
 
-{| class="wikitable collapsible collapsed"
+{| class="wikitable"
 |-
 ! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears !! Requirement 
 |-
 | align="center" colspan=6| '''Common'''
 |-
-| {{Bag2|xClick}} || N/A || 37.50% || 37.50% || 37.50% || rowspan=2|&lt;center&gt; N/A
+| {{Bag2|xClick}} || N/A || 37.50% || 37.50% || 37.50% || rowspan=2| &lt;center&gt;N/A
 |-
 | {{Bag2|Lucky Egg}} || N/A || 37.50% || 37.50% || 37.50%
 |-
 | align="center" colspan=6| '''Rare'''
 |-
-| {{Bag2|Yellow Shard}} || N/A || 24.00% || 24.00% || 24.00% || &lt;center&gt; N/A
+| {{Bag2|Yellow Shard}} || N/A || 24.00% || 24.00% || 24.00% || &lt;center&gt;N/A
 |-
 | align="center" colspan=6| '''Epic'''
 |-
-| {{Bag2|Persim}} || N/A || 0.08% || 0.08% || 0.08% || rowspan=11|&lt;center&gt; N/A
+| {{Bag2|Persim}} || N/A || 0.08% || 0.08% || 0.08% || rowspan=11| &lt;center&gt;N/A
 |-
 | {{Bag2|Razz}} || N/A || 0.08% || 0.08% || 0.08%
 |-
@@ -186,14 +189,18 @@ After Reaching Unova, the drop chance for items in Johto will be debuffed for an
 |-
 | align="center" colspan=6| '''Legendary'''
 |-
-| {{Bag2|Ultraball}} || N/A || 0.10% || 0.10% || 0.10% || &lt;center&gt; N/A
+| {{Bag2|Ultraball}} || N/A || 0.05% || 0.05% || 0.05% || rowspan=2| &lt;center&gt;N/A
+|-
+| {{Bag2|Magnet}} || N/A || 0.05% || 0.05% || 0.05%
 |-
 | align="center" colspan=6| '''Mythic'''
 |-
-| {{Bag2|Max Revive}} || N/A || &lt;0.01% || &lt;0.01% || &lt;0.01% || &lt;center&gt; N/A
+| {{Bag2|Max Revive}} || N/A || &lt;0.01% || &lt;0.01% || &lt;0.01% || &lt;center&gt;N/A
 |-
 | {{Bag2|Lum}} || N/A || 0% || 0% || &lt;0.01% || 250 Clears
 |}
+&lt;/tab&gt;
+&lt;/tabs&gt;
 
 {{Johto Dungeons}}
 
@@ -202,9 +209,9 @@ After Reaching Unova, the drop chance for items in Johto will be debuffed for an
       <username>ThePantMan</username>
       <id>8</id>
     </contributor>
-    <comment>/* Debuff Drop Table */</comment>
+    <comment>/* Loot update */</comment>
     <model>wikitext</model>
-    <parentid>13492</parentid>
-    <sha1>35efd3e3f082fee2b154ee5ff9edaad9a56709e2</sha1>
+    <parentid>13493</parentid>
+    <sha1>c9e4174ba347681d096d266a319ff94f42d33e97</sha1>
   </revision>
 </page></mediawiki>

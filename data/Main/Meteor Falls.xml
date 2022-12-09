@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>351</id>
   <revision>
-    <id>5121</id>
-    <timestamp>2022-07-30T04:52:35Z</timestamp>
-    <text space="preserve" bytes="3336">{{Infobox dungeon
+    <id>32986</id>
+    <timestamp>2022-12-08T15:49:38Z</timestamp>
+    <text space="preserve" bytes="3345">{{Infobox dungeon
 |name    = Meteor Falls
 |image   = [[File:Meteor Falls.png|300px]]
 |caption = A map of Meteor Falls.
@@ -50,7 +50,8 @@
 
 ==Items==
 
-===No Debuff===
+&lt;tabs&gt;
+&lt;tab name="No Debuff"&gt;
 
 {| class="wikitable"
 |-
@@ -84,12 +85,12 @@
 |-
 | {{Bag2|Star Piece}} || N/A || 0.01% || 0.22% || 1.10%
 |}
+&lt;/tab&gt;
 
-===Debuff Drop Table===
-
+&lt;tab name="Debuff"&gt;
 After Reaching Kalos, the drop chance for items in Hoenn will be debuffed for any loot with a Tier rarer than Rare (ie: Epic, Legendary, Mythic).
 
-{| class="wikitable collapsible collapsed"
+{| class="wikitable"
 |-
 ! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
 |-
@@ -121,6 +122,8 @@ After Reaching Kalos, the drop chance for items in Hoenn will be debuffed for an
 |-
 | {{Bag2|Star Piece}} || N/A || &lt;0.01% || &lt;0.01% || &lt;0.01%
 |}
+&lt;/tab&gt;
+&lt;/tabs&gt;
 
 {{Hoenn Dungeons}}
 
@@ -129,9 +132,9 @@ After Reaching Kalos, the drop chance for items in Hoenn will be debuffed for an
       <username>ThePantMan</username>
       <id>8</id>
     </contributor>
-    <comment>/* Debuff Drop Table */</comment>
+    <comment>/* Tabs */</comment>
     <model>wikitext</model>
-    <parentid>5120</parentid>
-    <sha1>c7b596122af97072f5f62be15282952f17dda1f6</sha1>
+    <parentid>5121</parentid>
+    <sha1>016d8329e102d073cf52649eae889da6f9cf9d73</sha1>
   </revision>
 </page></mediawiki>

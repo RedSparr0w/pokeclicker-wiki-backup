@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>370</id>
   <revision>
-    <id>5260</id>
-    <timestamp>2022-07-30T04:49:28Z</timestamp>
-    <text space="preserve" bytes="3093">{{Infobox dungeon
+    <id>32915</id>
+    <timestamp>2022-12-08T02:48:19Z</timestamp>
+    <text space="preserve" bytes="3220">{{Infobox dungeon
 |name    = Tin Tower
 |image   = [[File:Tin Tower.png|thumb]]
 |caption = A map of Tin Tower.
@@ -46,7 +46,8 @@
 
 ==Items==
 
-===No Debuff===
+&lt;tabs&gt;
+&lt;tab name="No Debuff"&gt;
 
 {| class="wikitable"
 |-
@@ -66,26 +67,28 @@
 |-
 | align="center" colspan=6| '''Legendary'''
 |-
-| {{Bag2|Medium Restore}} || N/A || 0.21% || 0.34% || 0.89%
+| {{Bag2|Medium Restore}} || N/A || 0.17% || 0.28% || 0.74%
 |-
-| {{Bag2|Ultraball}} || N/A || 0.21% || 0.34% || 0.89%
+| {{Bag2|Ultraball}} || N/A || 0.17% || 0.28% || 0.74%
 |-
-| {{Bag2|Flame Plate}} || N/A || 0.21% || 0.34% || 0.89%
+| {{Bag2|Flame Plate}} || N/A || 0.17% || 0.28% || 0.74%
 |-
-| {{Bag2|Spooky Plate}} || N/A || 0.21% || 0.34% || 0.89%
+| {{Bag2|Spooky Plate}} || N/A || 0.17% || 0.28% || 0.74%
 |-
-| {{Bag2|Sky Plate}} || N/A || 0.21% || 0.34% || 0.89%
+| {{Bag2|Sky Plate}} || N/A || 0.17% || 0.28% || 0.74%
+|-
+| {{Bag2|Sharp Beak}} || N/A || 0.17% || 0.28% || 0.74%
 |-
 | align="center" colspan=6| '''Mythic'''
 |-
 | {{Bag2|Max Revive}} || N/A || 0.01% || 0.23% || 1.18%
 |}
+&lt;/tab&gt;
 
-===Debuff Drop Table===
-
+&lt;tab name="Debuff"&gt;
 After Reaching Unova, the drop chance for items in Johto will be debuffed for any loot with a Tier rarer than Rare (ie: Epic, Legendary, Mythic).
 
-{| class="wikitable collapsible collapsed"
+{| class="wikitable"
 |-
 ! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
 |-
@@ -113,10 +116,14 @@ After Reaching Unova, the drop chance for items in Johto will be debuffed for an
 |-
 | {{Bag2|Sky Plate}} || N/A || 0.02% || 0.02% || 0.02%
 |-
+| {{Bag2|Sharp Beak}} || N/A || 0.02% || 0.02% || 0.02%
+|-
 | align="center" colspan=6| '''Mythic'''
 |-
 | {{Bag2|Max Revive}} || N/A || &lt;0.01% || &lt;0.01% || &lt;0.01%
 |}
+&lt;/tab&gt;
+&lt;/tabs&gt;
 
 {{Johto Dungeons}}
 
@@ -125,9 +132,9 @@ After Reaching Unova, the drop chance for items in Johto will be debuffed for an
       <username>ThePantMan</username>
       <id>8</id>
     </contributor>
-    <comment>/* Debuff Drop Table */</comment>
+    <comment>/* Loot update */</comment>
     <model>wikitext</model>
-    <parentid>5259</parentid>
-    <sha1>7b2d073aaf40ad7e861ca2affdf80b7a493a7526</sha1>
+    <parentid>5260</parentid>
+    <sha1>5cc2486cfbbf9d640f5d62fef2171e5251cdcd9f</sha1>
   </revision>
 </page></mediawiki>

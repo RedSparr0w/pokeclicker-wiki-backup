@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>372</id>
   <revision>
-    <id>5281</id>
-    <timestamp>2022-07-30T04:49:40Z</timestamp>
-    <text space="preserve" bytes="2912">{{Infobox dungeon
+    <id>32916</id>
+    <timestamp>2022-12-08T02:49:58Z</timestamp>
+    <text space="preserve" bytes="3043">{{Infobox dungeon
 |name    = Whirl Islands
 |image   = [[File:Whirl Islands.png|thumb]]
 |caption = An inside view of Whirl Islands.
@@ -50,7 +50,8 @@
 
 ==Items==
 
-===No Debuff===
+&lt;tabs&gt;
+&lt;tab name="No Debuff"&gt;
 
 {| class="wikitable"
 |-
@@ -68,24 +69,26 @@
 |-
 | align="center" colspan=6| '''Legendary'''
 |-
-| {{Bag2|Revive}} || N/A || 0.26% || 0.42% || 1.11%
+| {{Bag2|Revive}} || N/A || 0.21% || 0.34% || 0.89%
 |-
-| {{Bag2|Ultraball}} || N/A || 0.26% || 0.42% || 1.11%
+| {{Bag2|Ultraball}} || N/A || 0.21% || 0.34% || 0.89%
 |-
-| {{Bag2|Mind Plate}} || N/A || 0.26% || 0.42% || 1.11%
+| {{Bag2|Mind Plate}} || N/A || 0.21% || 0.34% || 0.89%
 |-
-| {{Bag2|Sky Plate}} || N/A || 0.26% || 0.42% || 1.11%
+| {{Bag2|Sky Plate}} || N/A || 0.21% || 0.34% || 0.89%
+|-
+| {{Bag2|Mystic Water}} || N/A || 0.21% || 0.34% || 0.89%
 |-
 | align="center" colspan=6| '''Mythic'''
 |-
 | {{Bag2|Max Revive}} || N/A || 0.01% || 0.23% || 1.18%
 |}
+&lt;/tab&gt;
 
-===Debuff Drop Table===
-
+&lt;tab name="Debuff"&gt;
 After Reaching Unova, the drop chance for items in Johto will be debuffed for any loot with a Tier rarer than Rare (ie: Epic, Legendary, Mythic).
 
-{| class="wikitable collapsible collapsed"
+{| class="wikitable"
 |-
 ! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
 |-
@@ -101,18 +104,22 @@ After Reaching Unova, the drop chance for items in Johto will be debuffed for an
 |-
 | align="center" colspan=6| '''Legendary'''
 |-
-| {{Bag2|Revive}} || N/A || 0.03% || 0.03% || 0.03%
+| {{Bag2|Revive}} || N/A || 0.02% || 0.02% || 0.02%
 |-
-| {{Bag2|Ultraball}} || N/A || 0.03% || 0.03% || 0.03%
+| {{Bag2|Ultraball}} || N/A || 0.02% || 0.02% || 0.02%
 |-
-| {{Bag2|Mind Plate}} || N/A || 0.03% || 0.03% || 0.03%
+| {{Bag2|Mind Plate}} || N/A || 0.02% || 0.02% || 0.02%
 |-
-| {{Bag2|Sky Plate}} || N/A || 0.03% || 0.03% || 0.03%
+| {{Bag2|Sky Plate}} || N/A || 0.02% || 0.02% || 0.02%
+|-
+| {{Bag2|Mystic Water}} || N/A || 0.02% || 0.02% || 0.02%
 |-
 | align="center" colspan=6| '''Mythic'''
 |-
 | {{Bag2|Max Revive}} || N/A || &lt;0.01% || &lt;0.01% || &lt;0.01%
 |}
+&lt;/tab&gt;
+&lt;/tabs&gt;
 
 {{Johto Dungeons}}
 
@@ -121,9 +128,9 @@ After Reaching Unova, the drop chance for items in Johto will be debuffed for an
       <username>ThePantMan</username>
       <id>8</id>
     </contributor>
-    <comment>/* Debuff Drop Table */</comment>
+    <comment>/* Loot update */</comment>
     <model>wikitext</model>
-    <parentid>5280</parentid>
-    <sha1>ab9865be1f36eb5a6039dbb6de5725b38f0f07cd</sha1>
+    <parentid>5281</parentid>
+    <sha1>f6d3f5e6ea38a50126e83001d6ac9ad7dafed6d4</sha1>
   </revision>
 </page></mediawiki>
