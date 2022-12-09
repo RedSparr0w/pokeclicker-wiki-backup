@@ -14,3 +14,5 @@ RUN chmod +x /etc/periodic/daily/backup
 COPY ./backup_monthly /etc/periodic/monthly/backup_monthly
 RUN dos2unix /etc/periodic/monthly/backup_monthly
 RUN chmod +x /etc/periodic/monthly/backup_monthly
+
+RUN git config --global pull.rebase true
