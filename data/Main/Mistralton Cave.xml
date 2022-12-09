@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>1743</id>
   <revision>
-    <id>10451</id>
-    <timestamp>2022-07-27T02:44:57Z</timestamp>
-    <text space="preserve" bytes="2505">{{Infobox dungeon
+    <id>33057</id>
+    <timestamp>2022-12-08T21:08:21Z</timestamp>
+    <text space="preserve" bytes="3699">{{Infobox dungeon
 |name    = Mistralton Cave
 |image   = [[File:Mistralton Cave.png|300px]]
 |caption = A map of Mistralton Cave.
@@ -49,6 +49,8 @@
 
 ==Items==
 
+&lt;tabs&gt;
+&lt;tab name="No Debuff"&gt;
 {| class="wikitable"
 |-
 ! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
@@ -85,17 +87,59 @@
 |-
 | {{Bag2|Large Restore}} || N/A || 0.20% || 0.32% || 0.81%
 |}
+&lt;/tab&gt;
+
+&lt;tab name="Debuff"&gt;
+After Reaching Galar, the drop chance for items in Unova will be debuffed for any loot with a Tier rarer than Rare (ie: Epic, Legendary, Mythic).
+{| class="wikitable"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+|-
+| align="center" colspan=6| '''Common'''
+|-
+| {{Bag2|xClick}} || 2 || 50.00% || 50.00% || 50.00%
+|-
+| {{Bag2|Greatball}} || N/A || 25.00% || 25.00% || 25.00%
+|-
+| align="center" colspan=6| '''Rare'''
+|-
+| {{Bag2|Red Shard}} || N/A || 12.00% || 12.00% || 12.00%
+|-
+| {{Bag2|Green Shard}} || N/A || 12.00% || 12.00% || 12.00%
+|-
+| align="center" colspan=6| '''Epic'''
+|-
+| {{Bag2|Draco Plate}} || N/A || 0.30% || 0.30% || 0.30%
+|-
+| {{Bag2|Fist Plate}} || N/A || 0.30% || 0.30% || 0.30%
+|-
+| {{Bag2|Iron Plate}} || N/A || 0.30% || 0.30% || 0.30%
+|-
+| align="center" colspan=6| '''Legendary'''
+|-
+| {{Bag2|Ultraball}} || N/A || 0.02% || 0.02% || 0.02%
+|-
+| {{Bag2|Revive}} || N/A || 0.02% || 0.02% || 0.02%
+|-
+| {{Bag2|Hard Stone}} || N/A || 0.02% || 0.02% || 0.02%
+|-
+| {{Bag2|Duskball}} || N/A || 0.02% || 0.02% || 0.02%
+|-
+| {{Bag2|Large Restore}} || N/A || 0.02% || 0.02% || 0.02%
+|}
+&lt;/tab&gt;
+&lt;/tabs&gt;
 
 {{Unova Dungeons}}
 
 [[Category:Dungeons|^Region #5 - Unova^h]]</text>
     <contributor>
-      <username>LatiosRider</username>
-      <id>35</id>
+      <username>ThePantMan</username>
+      <id>8</id>
     </contributor>
-    <comment>Add Category header</comment>
+    <comment>/* Galar */</comment>
     <model>wikitext</model>
-    <parentid>10450</parentid>
-    <sha1>47466a9a620b6560a1979db941ff172cdd45795d</sha1>
+    <parentid>10451</parentid>
+    <sha1>80487e459cd9157237387b79955f3b8c9a2be804</sha1>
   </revision>
 </page></mediawiki>

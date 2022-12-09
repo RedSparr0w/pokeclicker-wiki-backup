@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>424</id>
   <revision>
-    <id>5598</id>
-    <timestamp>2022-07-30T04:57:31Z</timestamp>
-    <text space="preserve" bytes="2868">{{Infobox dungeon
+    <id>33000</id>
+    <timestamp>2022-12-08T16:08:03Z</timestamp>
+    <text space="preserve" bytes="2876">{{Infobox dungeon
 |name    = Oreburgh Gate
 |image   = [[File:Oreburgh Gate.png|300px]]
 |caption = A map of Oreburgh Gate.
@@ -53,8 +53,8 @@
 
 ==Items==
 
-===No Debuff===
-
+&lt;tabs&gt;
+&lt;tab name="No Debuff"&gt;
 {| class="wikitable"
 |-
 ! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
@@ -77,12 +77,12 @@
 |-
 | {{Bag2|Fist Plate}} || N/A || 2.03% || 2.65% || 5.27%
 |}
+&lt;/tab&gt;
 
-===Debuff Drop Table===
-
+&lt;tab name="Debuff"&gt;
 After Reaching Alola, the drop chance for items in Sinnoh will be debuffed for any loot with a Tier rarer than Rare (ie: Epic, Legendary, Mythic).
 
-{| class="wikitable collapsible collapsed"
+{| class="wikitable"
 |-
 ! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
 |-
@@ -104,6 +104,8 @@ After Reaching Alola, the drop chance for items in Sinnoh will be debuffed for a
 |-
 | {{Bag2|Fist Plate}} || N/A || 0.45% || 0.45% || 0.45%
 |}
+&lt;/tab&gt;
+&lt;/tabs&gt;
 
 {{Sinnoh Dungeons}}
 
@@ -112,9 +114,9 @@ After Reaching Alola, the drop chance for items in Sinnoh will be debuffed for a
       <username>ThePantMan</username>
       <id>8</id>
     </contributor>
-    <comment>/* Debuff Drop Table */</comment>
+    <comment>/* Tabs */</comment>
     <model>wikitext</model>
-    <parentid>5597</parentid>
-    <sha1>607ba1827713e7093d0399a27a112bebe725f046</sha1>
+    <parentid>5598</parentid>
+    <sha1>7546bf84de9a1bd2fcf3529482724a5a57235733</sha1>
   </revision>
 </page></mediawiki>

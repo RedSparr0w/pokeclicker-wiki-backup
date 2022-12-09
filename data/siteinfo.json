@@ -1044,7 +1044,7 @@
                 250,
                 300
             ],
-            "time": "2022-12-08T02:41:38Z",
+            "time": "2022-12-09T02:12:01Z",
             "timeoffset": 0,
             "timezone": "UTC",
             "titleconversion": "",
@@ -5755,12 +5755,12 @@
         "statistics": {
             "activeusers": 4,
             "admins": 5,
-            "articles": 2724,
-            "edits": 29057,
+            "articles": 2723,
+            "edits": 29244,
             "images": 4703,
             "jobs": 0,
-            "pages": 12093,
-            "users": 211
+            "pages": 12116,
+            "users": 212
         },
         "usergroups": [
             {
@@ -5968,7 +5968,7 @@
             },
             {
                 "name": "user",
-                "number": 211,
+                "number": 212,
                 "rights": [
                     "move",
                     "move-subpages",
@@ -5985,7 +5985,6 @@
                     "editmyusercss",
                     "editmyuserjson",
                     "editmyuserjs",
-                    "purge",
                     "sendemail",
                     "applychangetags",
                     "changetags",

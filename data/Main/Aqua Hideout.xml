@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>3243</id>
   <revision>
-    <id>12699</id>
-    <timestamp>2022-07-30T04:54:13Z</timestamp>
-    <text space="preserve" bytes="3996">{{Infobox dungeon
+    <id>32993</id>
+    <timestamp>2022-12-08T15:59:44Z</timestamp>
+    <text space="preserve" bytes="4017">{{Infobox dungeon
 |name    = Aqua Hideout
 |image   = [[File:Aqua Hideout.png|300px]]
 |caption = A map of Aqua Hideout.
@@ -52,7 +52,8 @@
 
 ==Items==
 
-===No Debuff===
+&lt;tabs&gt;
+&lt;tab name="No Debuff"&gt;
 
 {| class="wikitable"
 |-
@@ -64,7 +65,7 @@
 |-
 | {{Bag2|Pokéball}} || 2 || 21.42% || 20.57% || 17.14%
 |-
-| {{Pokemon|Electrode}} || N/A || 10.71% || 10.29% || 8.57%
+| {{Pokemon|Electrode|Mimic}} || N/A || 10.71% || 10.29% || 8.57%
 |-
 | align="center" colspan=6| '''Rare'''
 |-
@@ -92,12 +93,12 @@
 |-
 | {{Bag2|Max Revive}} || N/A || 0.01% || 0.22% || 1.06%
 |}
+&lt;/tab&gt;
 
-===Debuff Drop Table===
-
+&lt;tab name="Debuff"&gt;
 After Reaching Kalos, the drop chance for items in Hoenn will be debuffed for any loot with a Tier rarer than Rare (ie: Epic, Legendary, Mythic).
 
-{| class="wikitable collapsible collapsed"
+{| class="wikitable"
 |-
 ! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
 |-
@@ -107,7 +108,7 @@ After Reaching Kalos, the drop chance for items in Hoenn will be debuffed for an
 |-
 | {{Bag2|Pokéball}} || 2 || 21.43% || 21.43% || 21.43%
 |-
-| {{Pokemon|Electrode}} || N/A || 10.71% || 10.71% || 10.71%
+| {{Pokemon|Electrode|Mimic}} || N/A || 10.71% || 10.71% || 10.71%
 |-
 | align="center" colspan=6| '''Rare'''
 |-
@@ -135,6 +136,8 @@ After Reaching Kalos, the drop chance for items in Hoenn will be debuffed for an
 |-
 | {{Bag2|Max Revive}} || N/A || &lt;0.01% || &lt;0.01% || &lt;0.01%
 |}
+&lt;/tab&gt;
+&lt;/tabs&gt;
 
 {{Hoenn Dungeons}}
 
@@ -143,9 +146,9 @@ After Reaching Kalos, the drop chance for items in Hoenn will be debuffed for an
       <username>ThePantMan</username>
       <id>8</id>
     </contributor>
-    <comment>/* Debuff Drop Table */</comment>
+    <comment>/* Tabs */</comment>
     <model>wikitext</model>
-    <parentid>12698</parentid>
-    <sha1>83b1f379a35fe73b20629407344dd06721daae5b</sha1>
+    <parentid>12699</parentid>
+    <sha1>005e53f558bc428e4b576384383609efa690c3e1</sha1>
   </revision>
 </page></mediawiki>

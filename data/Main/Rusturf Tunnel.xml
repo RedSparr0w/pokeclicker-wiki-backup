@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>347</id>
   <revision>
-    <id>5036</id>
-    <timestamp>2022-07-30T04:52:01Z</timestamp>
-    <text space="preserve" bytes="3280">{{Infobox dungeon
+    <id>32983</id>
+    <timestamp>2022-12-08T15:44:59Z</timestamp>
+    <text space="preserve" bytes="3289">{{Infobox dungeon
 |name    = Rusturf Tunnel
 |image   = [[File:Rusturf Tunnel.png|300px]]
 |caption = A map of Rusturf Tunnel.
@@ -37,7 +37,8 @@
 
 ==Items==
 
-===No Debuff===
+&lt;tabs&gt;
+&lt;tab name="No Debuff"&gt;
 
 {| class="wikitable"
 |-
@@ -75,12 +76,12 @@
 |-
 | {{Bag2|Heart Scale}} || N/A || 0.01% || 0.23% || 1.18%
 |}
+&lt;/tab&gt;
 
-===Debuff Drop Table===
-
+&lt;tab name="Debuff"&gt;
 After Reaching Kalos, the drop chance for items in Hoenn will be debuffed for any loot with a Tier rarer than Rare (ie: Epic, Legendary, Mythic).
 
-{| class="wikitable collapsible collapsed"
+{| class="wikitable"
 |-
 ! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
 |-
@@ -116,6 +117,8 @@ After Reaching Kalos, the drop chance for items in Hoenn will be debuffed for an
 |-
 | {{Bag2|Heart Scale}} || N/A || &lt;0.01% || &lt;0.01% || &lt;0.01%
 |}
+&lt;/tab&gt;
+&lt;/tabs&gt;
 
 {{Hoenn Dungeons}}
 
@@ -124,9 +127,9 @@ After Reaching Kalos, the drop chance for items in Hoenn will be debuffed for an
       <username>ThePantMan</username>
       <id>8</id>
     </contributor>
-    <comment>/* Debuff Drop Table */</comment>
+    <comment>/* Tabs */</comment>
     <model>wikitext</model>
-    <parentid>5035</parentid>
-    <sha1>2a94e1050ef26ec3cdd29cf665b7d1b91bfdf1f7</sha1>
+    <parentid>5036</parentid>
+    <sha1>ff2f507387235be5c1d64224d008b1730376f91c</sha1>
   </revision>
 </page></mediawiki>

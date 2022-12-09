@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>5229</id>
   <revision>
-    <id>32275</id>
-    <timestamp>2022-12-07T11:42:54Z</timestamp>
-    <text space="preserve" bytes="62375">&lt;languages/&gt;
+    <id>33081</id>
+    <timestamp>2022-12-08T21:21:22Z</timestamp>
+    <text space="preserve" bytes="62415">&lt;languages/&gt;
 Les '''Donjons''' sont des endroits comme des forêts, des caves, ou bien des bâtiments qui sont accessibles grâce à des [[Dungeon Tokens]] et où l'on peut rencontrer des Pokémon sauvages. Mis à part le coût d'entrée qui est différent selon les routes, vous aurez 60 secondes pour trouver et vaincre le "Boss Pokémon" ou le "Boss dresseur", après cela le donjon sera considéré comme terminé.
 
 ==Informations générales sur les donjons==
@@ -355,6 +355,7 @@ Dungeons in [[Sinnoh]] are initially 8x8 in size (64 tiles in total), contain 8 
 
 Dungeons in [[Unova]] are initially 9x9 in size (81 tiles in total), contain 9 chests, 21 non-boss encounters, and 50 empty tiles.
 
+&lt;div class="mw-translate-fuzzy"&gt;
 {| class="wikitable sortable"
 |+ Unova Dungeons
 |-
@@ -409,6 +410,7 @@ Dungeons in [[Unova]] are initially 9x9 in size (81 tiles in total), contain 9 c
 | [[File:P2 Laboratory.png|30px]] [[P2 Laboratory]] || Unova Route 18 || style="text-align: right;" | 396,500 {{dungeontokens}} || [[File:Ursaring.png|30px]]Ursaring, [[File:Mawile.png|30px]]Mawile, [[File:Sableye.png|30px]]Sableye, [[File:Zangoose.png|30px]]Zangoose, [[File:Audino.png|30px]]Audino, [[File:Durant.png|30px]]Durant, [[File:Genesect.png|30px]]Genesect || [[File:Team_Plasma_(colress).png|30px]] Team Plasma Colress ([[File:Magneton.png|30px]],[[File:Rotom_(wash).png|30px]],[[File:Metagross.png|30px]],[[File:Beheeyem.png|30px]],[[File:Magnezone.png|30px]],[[File:Klinklang.png|30px]])
 |-
 |}
+&lt;/div&gt;
 
 &lt;span id="Kalos"&gt;&lt;/span&gt;
 === [[Kalos/fr|Kalos]] ===
@@ -609,7 +611,7 @@ To complete all dungeon achievements, you would need the following number of Dun
     </contributor>
     <comment>Updating to match new version of source page</comment>
     <model>wikitext</model>
-    <parentid>32117</parentid>
-    <sha1>49877ebad92b607cf15e75104871dab92b1e99e5</sha1>
+    <parentid>32275</parentid>
+    <sha1>519ddb8d0e4ed649fbc879354fc70f7ee38b0375</sha1>
   </revision>
 </page></mediawiki>

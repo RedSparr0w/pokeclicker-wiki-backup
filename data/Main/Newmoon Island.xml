@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>439</id>
   <revision>
-    <id>5936</id>
-    <timestamp>2022-07-30T05:06:43Z</timestamp>
-    <text space="preserve" bytes="2230">{{Infobox dungeon
+    <id>33024</id>
+    <timestamp>2022-12-08T16:42:45Z</timestamp>
+    <text space="preserve" bytes="2456">{{Infobox dungeon
 |name    = Newmoon Island
 |image   = [[File:Newmoon Island.png|300px]]
 |caption = A bird's-eye view of Newmoon Island.
@@ -45,7 +45,34 @@
 
 ==Items==
 
-===No Debuff===
+&lt;tabs&gt;
+&lt;tab name="No Debuff"&gt;
+{| class="wikitable"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+|-
+| align="center" colspan=6| '''Common'''
+|-
+| {{Bag2|Lucky Egg}} || 2 || 49.99% || 48.11% || 40.43%
+|-
+| {{Bag2|Nanab}} || N/A || 24.99% || 24.05% || 20.21%
+|-
+| align="center" colspan=6| '''Rare'''
+|-
+| {{Bag2|Black Shard}} || N/A || 20.01% || 21.04% || 25.22%
+|-
+| align="center" colspan=6| '''Epic'''
+|-
+| {{Bag2|Dread Plate}} || N/A || 4.01% || 5.21% || 10.11%
+|-
+| align="center" colspan=6| '''Legendary'''
+|-
+| {{Bag2|Black Glasses}} || N/A || 1.00% || 1.59% || 4.03%
+|}
+&lt;/tab&gt;
+
+&lt;tab name="Debuff"&gt;
+After Reaching Alola, the drop chance for items in Sinnoh will be debuffed for any loot with a Tier rarer than Rare (ie: Epic, Legendary, Mythic).
 
 {| class="wikitable"
 |-
@@ -53,41 +80,24 @@
 |-
 | align="center" colspan=6| '''Common'''
 |-
-| {{Bag2|Lucky Egg}} || 2 || 50.49% || 48.88% || 42.13%
+| {{Bag2|Lucky Egg}} || 2 || 50.00% || 50.00% || 50.00%
 |-
-| {{Bag2|Nanab}} || N/A || 25.24% || 24.44% || 21.06%
-|-
-| align="center" colspan=6| '''Rare'''
-|-
-| {{Bag2|Black Shard}} || N/A || 20.21% || 21.38% || 26.28%
-|-
-| align="center" colspan=6| '''Epic'''
-|-
-| {{Bag2|Dread Plate}} || N/A || 4.05% || 5.30% || 10.53%
-|}
-
-===Debuff Drop Table===
-
-After Reaching Alola, the drop chance for items in Sinnoh will be debuffed for any loot with a Tier rarer than Rare (ie: Epic, Legendary, Mythic).
-
-{| class="wikitable collapsible collapsed"
-|-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
-|-
-| align="center" colspan=6| '''Common'''
-|-
-| {{Bag2|Lucky Egg}} || 2 || 50.05% || 50.05% || 50.05%
-|-
-| {{Bag2|Nanab}} || N/A || 25.03% || 25.03% || 25.03%
+| {{Bag2|Nanab}} || N/A || 25.00% || 25.00% || 25.00%
 |-
 | align="center" colspan=6| '''Rare'''
 |-
-| {{Bag2|Black Shard}} || N/A || 24.02% || 24.02% || 24.02%
+| {{Bag2|Black Shard}} || N/A || 24.00% || 24.00% || 24.00%
 |-
 | align="center" colspan=6| '''Epic'''
 |-
 | {{Bag2|Dread Plate}} || N/A || 0.90% || 0.90% || 0.90%
+|-
+| align="center" colspan=6| '''Legendary'''
+|-
+| {{Bag2|Black Glasses}} || N/A || 0.10% || 0.10% || 0.10%
 |}
+&lt;/tab&gt;
+&lt;/tabs&gt;
 
 
 {{Sinnoh Dungeons}}
@@ -97,9 +107,9 @@ After Reaching Alola, the drop chance for items in Sinnoh will be debuffed for a
       <username>ThePantMan</username>
       <id>8</id>
     </contributor>
-    <comment>/* Debuff Drop Table */</comment>
+    <comment>/* Loot update */</comment>
     <model>wikitext</model>
-    <parentid>5935</parentid>
-    <sha1>4615dfc830f1df5e256449d17abb91166a3cafdb</sha1>
+    <parentid>5936</parentid>
+    <sha1>f6598921cc972d930c9090f6aff269d96c723d6f</sha1>
   </revision>
 </page></mediawiki>

@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>3276</id>
   <revision>
-    <id>12778</id>
-    <timestamp>2022-07-27T02:47:27Z</timestamp>
-    <text space="preserve" bytes="3830">{{Infobox dungeon
+    <id>33082</id>
+    <timestamp>2022-12-08T21:22:17Z</timestamp>
+    <text space="preserve" bytes="4898">{{Infobox dungeon
 |name    = Plasma Frigate
 |image   = [[File:Plasma Frigate.png|300px]]
 |caption = A map of Plasma Frigate.
@@ -70,6 +70,8 @@
 
 ==Items==
 
+&lt;tabs&gt;
+&lt;tab name="No Debuff"&gt;
 {| class="wikitable"
 |-
 ! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
@@ -102,17 +104,55 @@
 |-
 | {{Bag2|Max Revive}} || N/A || 0.01% || 0.22% || 1.06%
 |}
+&lt;/tab&gt;
+
+&lt;tab name="Debuff"&gt;
+After Reaching Galar, the drop chance for items in Unova will be debuffed for any loot with a Tier rarer than Rare (ie: Epic, Legendary, Mythic).
+{| class="wikitable"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+|-
+| align="center" colspan=6| '''Common'''
+|-
+| {{Bag2|xAttack}} || N/A || 37.50% || 37.50% || 37.50%
+|-
+| {{Bag2|Pokéball}} || N/A || 37.50% || 37.50% || 37.50%
+|-
+| align="center" colspan=6| '''Rare'''
+|-
+| {{Bag2|Red Shard}} || N/A || 12.00% || 12.00% || 12.00%
+|-
+| {{Bag2|Yellow Shard}} || N/A || 12.00% || 12.00% || 12.00%
+|-
+| align="center" colspan=6| '''Epic'''
+|-
+| {{Bag2|Iron Plate}} || N/A || 0.30% || 0.30% || 0.30%
+|-
+| {{Bag2|Zap Plate}} || N/A || 0.30% || 0.30% || 0.30%
+|-
+| {{Bag2|Icicle Plate}} || N/A || 0.30% || 0.30% || 0.30%
+|-
+| align="center" colspan=6| '''Legendary'''
+|-
+| {{Bag2|Revive}} || N/A || 0.10% || 0.10% || 0.10%
+|-
+| align="center" colspan=6| '''Mythic'''
+|-
+| {{Bag2|Max Revive}} || N/A || &lt;0.01% || &lt;0.01% || &lt;0.01%
+|}
+&lt;/tab&gt;
+&lt;/tabs&gt;
 
 {{Unova Dungeons}}
 
 [[Category:Dungeons|^Region #5 - Unova^m]]</text>
     <contributor>
-      <username>LatiosRider</username>
-      <id>35</id>
+      <username>ThePantMan</username>
+      <id>8</id>
     </contributor>
-    <comment>Add Category header</comment>
+    <comment>/* Galar */</comment>
     <model>wikitext</model>
-    <parentid>12777</parentid>
-    <sha1>a0248f53caf2b80c48f2355c83b2fd10007341a4</sha1>
+    <parentid>12778</parentid>
+    <sha1>9404675e0ce655a61c88ba9906587e5c825e3652</sha1>
   </revision>
 </page></mediawiki>

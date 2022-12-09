@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>1735</id>
   <revision>
-    <id>10330</id>
-    <timestamp>2022-07-27T02:42:44Z</timestamp>
-    <text space="preserve" bytes="2128">{{Infobox dungeon
+    <id>33027</id>
+    <timestamp>2022-12-08T16:48:32Z</timestamp>
+    <text space="preserve" bytes="2978">{{Infobox dungeon
 |name    = Floccesy Ranch
 |image   = [[File:Floccesy Ranch.png|300px]]
 |caption = A map of Floccesy Ranch.
@@ -49,6 +49,8 @@
 
 ==Items==
 
+&lt;tabs&gt;
+&lt;tab name="No Debuff"&gt;
 {| class="wikitable"
 |-
 ! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
@@ -73,17 +75,47 @@
 |-
 | {{Bag2|Wepear}} || N/A || 2.03% || 2.65% || 5.27%
 |}
+&lt;/tab&gt;
+
+&lt;tab name="Debuff"&gt;
+After Reaching Galar, the drop chance for items in Unova will be debuffed for any loot with a Tier rarer than Rare (ie: Epic, Legendary, Mythic).
+{| class="wikitable"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+|-
+| align="center" colspan=6| '''Common'''
+|-
+| {{Bag2|xAttack}} || N/A || 25.03% || 25.03% || 25.03%
+|-
+| {{Bag2|Pokéball}} || N/A || 25.03% || 25.03% || 25.03%
+|-
+| {{Bag2|Cheri}} || N/A || 25.03% || 25.03% || 25.03%
+|-
+| align="center" colspan=6| '''Rare'''
+|-
+| {{Bag2|Green Shard}} || N/A || 12.01% || 12.01% || 12.01%
+|-
+| {{Bag2|Yellow Shard}} || N/A || 12.01% || 12.01% || 12.01%
+|-
+| align="center" colspan=6| '''Epic'''
+|-
+| {{Bag2|Nanab}} || N/A || 0.45% || 0.45% || 0.45%
+|-
+| {{Bag2|Wepear}} || N/A || 0.45% || 0.45% || 0.45%
+|}
+&lt;/tab&gt;
+&lt;/tabs&gt;
 
 {{Unova Dungeons}}
 
 [[Category:Dungeons|^Region #5 - Unova^a]]</text>
     <contributor>
-      <username>LatiosRider</username>
-      <id>35</id>
+      <username>ThePantMan</username>
+      <id>8</id>
     </contributor>
-    <comment>Add Category header</comment>
+    <comment>/* Galar */</comment>
     <model>wikitext</model>
-    <parentid>10329</parentid>
-    <sha1>c9ba9eef952ce92cdda31c56b714737ae77b624a</sha1>
+    <parentid>10330</parentid>
+    <sha1>2b083eecb0a0be85df6e3a4295c3db6e0b33af88</sha1>
   </revision>
 </page></mediawiki>

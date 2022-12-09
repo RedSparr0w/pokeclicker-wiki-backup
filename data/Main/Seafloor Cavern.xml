@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>400</id>
   <revision>
-    <id>5485</id>
-    <timestamp>2022-07-30T04:55:20Z</timestamp>
-    <text space="preserve" bytes="3596">{{Infobox dungeon
+    <id>32996</id>
+    <timestamp>2022-12-08T16:03:05Z</timestamp>
+    <text space="preserve" bytes="3603">{{Infobox dungeon
 |name    = Seafloor Cavern
 |image   = [[File:Seafloor Cavern.png|300px]]
 |caption = A map of Seafloor Cavern.
@@ -51,9 +51,8 @@
 
 ==Items==
 
-===No Debuff===
-
-
+&lt;tabs&gt;
+&lt;tab name="No Debuff"&gt;
 {| class="wikitable"
 |-
 ! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
@@ -82,12 +81,12 @@
 |-
 | {{Bag2|Heart Scale}} || N/A || 0.01% || 0.22% || 1.06%
 |}
+&lt;/tab&gt;
 
-===Debuff Drop Table===
-
+&lt;tab name="Debuff"&gt;
 After Reaching Kalos, the drop chance for items in Hoenn will be debuffed for any loot with a Tier rarer than Rare (ie: Epic, Legendary, Mythic).
 
-{| class="wikitable collapsible collapsed"
+{| class="wikitable"
 |-
 ! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
 |-
@@ -115,6 +114,8 @@ After Reaching Kalos, the drop chance for items in Hoenn will be debuffed for an
 |-
 | {{Bag2|Heart Scale}} || N/A || &lt;0.01% || &lt;0.01% || &lt;0.01%
 |}
+&lt;/tab&gt;
+&lt;/tabs&gt;
 
 {{Hoenn Dungeons}}
 
@@ -123,9 +124,9 @@ After Reaching Kalos, the drop chance for items in Hoenn will be debuffed for an
       <username>ThePantMan</username>
       <id>8</id>
     </contributor>
-    <comment>/* Debuff Drop Table */</comment>
+    <comment>/* Tabs */</comment>
     <model>wikitext</model>
-    <parentid>5484</parentid>
-    <sha1>567914360a4b182830808439d4a3fb60d1bf40c1</sha1>
+    <parentid>5485</parentid>
+    <sha1>8a31ce33e594129b817227456197b743b1814846</sha1>
   </revision>
 </page></mediawiki>

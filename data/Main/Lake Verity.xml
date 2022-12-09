@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>433</id>
   <revision>
-    <id>5813</id>
-    <timestamp>2022-07-30T05:00:03Z</timestamp>
-    <text space="preserve" bytes="3031">{{Infobox dungeon
+    <id>33010</id>
+    <timestamp>2022-12-08T16:17:52Z</timestamp>
+    <text space="preserve" bytes="3039">{{Infobox dungeon
 |name    = Lake Verity
 |image   = [[File:Lake Verity.png|300px]]
 |caption = A bird's-eye view of Lake Verity.
@@ -49,8 +49,8 @@
 
 ==Items==
 
-===No Debuff===
-
+&lt;tabs&gt;
+&lt;tab name="No Debuff"&gt;
 {| class="wikitable"
 |-
 ! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
@@ -71,12 +71,12 @@
 |-
 | {{Bag2|Mind Plate}} || N/A || 4.05% || 5.30% || 10.53%
 |}
+&lt;/tab&gt;
 
-===Debuff Drop Table===
-
+&lt;tab name="Debuff"&gt;
 After Reaching Alola, the drop chance for items in Sinnoh will be debuffed for any loot with a Tier rarer than Rare (ie: Epic, Legendary, Mythic).
 
-{| class="wikitable collapsible collapsed"
+{| class="wikitable"
 |-
 ! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
 |-
@@ -96,6 +96,8 @@ After Reaching Alola, the drop chance for items in Sinnoh will be debuffed for a
 |-
 | {{Bag2|Mind Plate}} || N/A || 0.90% || 0.90% || 0.90%
 |}
+&lt;/tab&gt;
+&lt;/tabs&gt;
 
 {{Sinnoh Dungeons}}
 
@@ -104,9 +106,9 @@ After Reaching Alola, the drop chance for items in Sinnoh will be debuffed for a
       <username>ThePantMan</username>
       <id>8</id>
     </contributor>
-    <comment>/* Debuff Drop Table */</comment>
+    <comment>/* Tabs */</comment>
     <model>wikitext</model>
-    <parentid>5812</parentid>
-    <sha1>c62eb6760840e0d66bc6fb1baef77c382c0f9045</sha1>
+    <parentid>5813</parentid>
+    <sha1>0c3ae87453cbb0b44646282ce44c72b5506b7b5c</sha1>
   </revision>
 </page></mediawiki>

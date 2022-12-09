@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>437</id>
   <revision>
-    <id>5896</id>
-    <timestamp>2022-07-30T05:04:21Z</timestamp>
-    <text space="preserve" bytes="6132">{{Infobox dungeon
+    <id>33017</id>
+    <timestamp>2022-12-08T16:30:53Z</timestamp>
+    <text space="preserve" bytes="6159">{{Infobox dungeon
 |name    = Victory Road Sinnoh
 |image   = [[File:Victory Road Sinnoh.png|300px]]
 |caption = A map of Victory Road Sinnoh.
@@ -39,7 +39,7 @@
 |-
 | rowspan=2|[[File:Rhyhorn.png|40px]] Rhyhorn || [[File:Double_Team.png|40px]] Double Team Al &amp; Kay ||[[File:Staraptor.png|40px]] Staraptor, [[File:Ambipom.png|40px]] Ambipom
 |-
-| [[File:Black_Belt.png|40px]] Black Belt Miles || [[File:Machamp.png|40px]] Machamp
+| [[File:Black_Belt (male).png|40px]] Black Belt Miles || [[File:Machamp.png|40px]] Machamp
 |-
 | rowspan=3|[[File:Magneton.png|40px]] Magneton || [[File:Psychic_(female).png|40px]] Psychic Valencia || [[File:Chimecho.png|40px]] Chimecho, [[File:Absol.png|40px]] Absol, [[File:Dusknoir.png|40px]] Dusknoir
 |-
@@ -67,8 +67,8 @@
 
 ==Items==
 
-===No Debuff===
-
+&lt;tabs&gt;
+&lt;tab name="No Debuff"&gt;
 {| class="wikitable"
 |-
 ! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears !! Requirement 
@@ -79,7 +79,7 @@
 |-
 | {{Bag2|Oran}} || 3 || 33.47% || 32.55% || 28.57%
 |-
-| {{Pokemon|Graveler}} || N/A || 11.16% || 10.85% || 9.52%
+| {{Pokemon|Graveler|Mimic}} || N/A || 11.16% || 10.85% || 9.52%
 |-
 | align="center" colspan=6| '''Rare'''
 |-
@@ -113,12 +113,12 @@
 |-
 | {{Bag2|Protein}} || N/A || 0% || 0% || 0.39% || 350 Clears
 |}
+&lt;/tab&gt;
 
-===Debuff Drop Table===
-
+&lt;tab name="Debuff"&gt;
 After Reaching Alola, the drop chance for items in Sinnoh will be debuffed for any loot with a Tier rarer than Rare (ie: Epic, Legendary, Mythic).
 
-{| class="wikitable collapsible collapsed"
+{| class="wikitable"
 |-
 ! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears !! Requirement 
 |-
@@ -128,7 +128,7 @@ After Reaching Alola, the drop chance for items in Sinnoh will be debuffed for a
 |-
 | {{Bag2|Oran}} || 3 || 32.43% || 32.43% || 32.43%
 |-
-| {{Pokemon|Graveler}} || N/A || 10.81% || 10.81% || 10.81%
+| {{Pokemon|Graveler|Mimic}} || N/A || 10.81% || 10.81% || 10.81%
 |-
 | align="center" colspan=6| '''Rare'''
 |-
@@ -162,6 +162,8 @@ After Reaching Alola, the drop chance for items in Sinnoh will be debuffed for a
 |-
 | {{Bag2|Protein}} || N/A || 0% || 0% || &lt;0.01% || 350 Clears
 |}
+&lt;/tab&gt;
+&lt;/tabs&gt;
 
 
 {{Sinnoh Dungeons}}
@@ -171,9 +173,9 @@ After Reaching Alola, the drop chance for items in Sinnoh will be debuffed for a
       <username>ThePantMan</username>
       <id>8</id>
     </contributor>
-    <comment>/* Debuff Drop Table */</comment>
+    <comment>/* mimic */</comment>
     <model>wikitext</model>
-    <parentid>5895</parentid>
-    <sha1>57ed36020910072b392840d4a3b782a1ae74cf11</sha1>
+    <parentid>33016</parentid>
+    <sha1>8f7ff9b602fe3099c588cb15a03b6b7fbcddb8f2</sha1>
   </revision>
 </page></mediawiki>

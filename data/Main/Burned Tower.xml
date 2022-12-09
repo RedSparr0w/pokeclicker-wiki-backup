@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>368</id>
   <revision>
-    <id>5236</id>
-    <timestamp>2022-07-30T04:49:16Z</timestamp>
-    <text space="preserve" bytes="2547">{{Infobox dungeon
+    <id>32914</id>
+    <timestamp>2022-12-08T02:46:44Z</timestamp>
+    <text space="preserve" bytes="2670">{{Infobox dungeon
 |name    = Burned Tower
 |image   = [[File:Burned Tower.png|thumb]]
 |caption = An outside view of Burned Tower.
@@ -49,7 +49,8 @@
 
 ==Items==
 
-===No Debuff===
+&lt;tabs&gt;
+&lt;tab name="No Debuff"&gt;
 
 {| class="wikitable"
 |-
@@ -67,18 +68,20 @@
 |-
 | align="center" colspan=6| '''Legendary'''
 |-
-| {{Bag2|Revive}} || N/A || 0.35% || 0.56% || 1.50%
+| {{Bag2|Revive}} || N/A || 0.26% || 0.42% || 1.12%
 |-
-| {{Bag2|Flame Plate}} || N/A || 0.35% || 0.56% || 1.50%
+| {{Bag2|Flame Plate}} || N/A || 0.26% || 0.42% || 1.12%
 |-
-| {{Bag2|Ultraball}} || N/A || 0.35% || 0.56% || 1.50%
+| {{Bag2|Ultraball}} || N/A || 0.26% || 0.42% || 1.12%
+|-
+| {{Bag2|Charcoal}} || N/A || 0.26% || 0.42% || 1.12%
 |}
+&lt;/tab&gt;
 
-===Debuff Drop Table===
-
+&lt;tab name="Debuff"&gt;
 After Reaching Unova, the drop chance for items in Johto will be debuffed for any loot with a Tier rarer than Rare (ie: Epic, Legendary, Mythic).
 
-{| class="wikitable collapsible collapsed"
+{| class="wikitable"
 |-
 ! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
 |-
@@ -99,7 +102,11 @@ After Reaching Unova, the drop chance for items in Johto will be debuffed for an
 | {{Bag2|Flame Plate}} || N/A || 0.03% || 0.03% || 0.03%
 |-
 | {{Bag2|Ultraball}} || N/A || 0.03% || 0.03% || 0.03%
+|-
+| {{Bag2|Charcoal}} || N/A || 0.03% || 0.03% || 0.03%
 |}
+&lt;/tab&gt;
+&lt;/tabs&gt;
 
 
 {{Johto Dungeons}}
@@ -109,9 +116,9 @@ After Reaching Unova, the drop chance for items in Johto will be debuffed for an
       <username>ThePantMan</username>
       <id>8</id>
     </contributor>
-    <comment>/* Debuff Drop Table */</comment>
+    <comment>/* Tabs */</comment>
     <model>wikitext</model>
-    <parentid>5235</parentid>
-    <sha1>f9168a16699cff187d287e13ac589dd1e2ca4162</sha1>
+    <parentid>5236</parentid>
+    <sha1>1ae97f83b6501a25e9ad7fa6d7600bb1963ab7c4</sha1>
   </revision>
 </page></mediawiki>

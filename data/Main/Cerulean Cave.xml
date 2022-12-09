@@ -1,11 +1,12 @@
-<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en"><page>
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
   <title>Cerulean Cave</title>
   <ns>0</ns>
   <id>330</id>
   <revision>
-    <id>32905</id>
-    <timestamp>2022-12-08T02:32:58Z</timestamp>
-    <text space="preserve" bytes="4177">{{Infobox dungeon
+    <id>32906</id>
+    <timestamp>2022-12-08T02:33:27Z</timestamp>
+    <text space="preserve" bytes="4189">{{Infobox dungeon
 |name    = Cerulean Cave
 |image   = [[File:Cerulean Cave.png|thumb]]
 |caption = An overhead map of Cerulean Cave.
@@ -81,7 +82,7 @@
 |-
 | {{Bag2|Lucky Incense}} || 2 || 21.42% || 20.57% || 17.14%
 |-
-| {{Pokemon|Graveler}} || N/A || 10.71% || 10.29% || 8.57%
+| {{Pokemon|Graveler|Mimic}} || N/A || 10.71% || 10.29% || 8.57%
 |-
 | align="center" colspan=6| '''Rare'''
 |-
@@ -126,7 +127,7 @@ After Reaching Sinnoh, the drop chance for items in Kanto will be debuffed for a
 |-
 | {{Bag2|Lucky Incense}} || 2 || 21.43% || 21.43% || 21.43%
 |-
-| {{Pokemon|Graveler}} || N/A || 10.71% || 10.71% || 10.71%
+| {{Pokemon|Graveler|Mimic}} || N/A || 10.71% || 10.71% || 10.71%
 |-
 | align="center" colspan=6| '''Rare'''
 |-
@@ -164,9 +165,9 @@ After Reaching Sinnoh, the drop chance for items in Kanto will be debuffed for a
       <username>ThePantMan</username>
       <id>8</id>
     </contributor>
-    <comment>/* Tabs */</comment>
+    <comment>/* mimic */</comment>
     <model>wikitext</model>
-    <parentid>4979</parentid>
-    <sha1>d5a22179ea3bba1648fc320ec0b33a257fcdbc28</sha1>
+    <parentid>32905</parentid>
+    <sha1>8c98e486f36a37ce6fc0af91b19c4ea810a1a38c</sha1>
   </revision>
 </page></mediawiki>

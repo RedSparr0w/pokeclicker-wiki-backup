@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>428</id>
   <revision>
-    <id>5686</id>
-    <timestamp>2022-07-30T04:58:54Z</timestamp>
-    <text space="preserve" bytes="2866">{{Infobox dungeon
+    <id>33006</id>
+    <timestamp>2022-12-08T16:14:35Z</timestamp>
+    <text space="preserve" bytes="2874">{{Infobox dungeon
 |name    = Mt. Coronet South
 |image   = [[File:Mt. Coronet South.png|300px]]
 |caption = A map of Mt. Coronet South.
@@ -57,8 +57,8 @@
 
 ==Items==
 
-===No Debuff===
-
+&lt;tabs&gt;
+&lt;tab name="No Debuff"&gt;
 {| class="wikitable"
 |-
 ! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
@@ -83,12 +83,12 @@
 |-
 | {{Bag2|Revive}} || 2 || 1.00% || 1.59% || 4.03%
 |}
+&lt;/tab&gt;
 
-===Debuff Drop Table===
-
+&lt;tab name="Debuff"&gt;
 After Reaching Alola, the drop chance for items in Sinnoh will be debuffed for any loot with a Tier rarer than Rare (ie: Epic, Legendary, Mythic).
 
-{| class="wikitable collapsible collapsed"
+{| class="wikitable"
 |-
 ! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
 |-
@@ -112,6 +112,8 @@ After Reaching Alola, the drop chance for items in Sinnoh will be debuffed for a
 |-
 | {{Bag2|Revive}} || 2 || 0.10% || 0.10% || 0.10%
 |}
+&lt;/tab&gt;
+&lt;/tabs&gt;
 
 {{Sinnoh Dungeons}}
 
@@ -120,9 +122,9 @@ After Reaching Alola, the drop chance for items in Sinnoh will be debuffed for a
       <username>ThePantMan</username>
       <id>8</id>
     </contributor>
-    <comment>/* Debuff Drop Table */</comment>
+    <comment>/* Tabs */</comment>
     <model>wikitext</model>
-    <parentid>5685</parentid>
-    <sha1>a0ca5666342ece892380ea6e389ce32e38958298</sha1>
+    <parentid>5686</parentid>
+    <sha1>3f6b351415ed2934b9397776de8060c0d4593b86</sha1>
   </revision>
 </page></mediawiki>

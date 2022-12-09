@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>364</id>
   <revision>
-    <id>5193</id>
-    <timestamp>2022-07-30T04:48:37Z</timestamp>
-    <text space="preserve" bytes="2953">{{Infobox dungeon
+    <id>32912</id>
+    <timestamp>2022-12-08T02:43:56Z</timestamp>
+    <text space="preserve" bytes="3082">{{Infobox dungeon
 |name    = Slowpoke Well
 |image   = [[File:Slowpoke Well.png|thumb]]
 |caption = A map of Slowpoke Well.
@@ -43,7 +43,8 @@
 
 ==Items==
 
-===No Debuff===
+&lt;tabs&gt;
+&lt;tab name="No Debuff"&gt;
 
 {| class="wikitable"
 |-
@@ -67,16 +68,18 @@
 |-
 | align="center" colspan=6| '''Legendary'''
 |-
-| {{Bag2|Splash Plate}} || 2 || 0.66% || 1.06% || 2.69%
+| {{Bag2|Splash Plate}} || 2 || 0.50% || 0.80% || 2.02%
 |-
-| {{Bag2|Medium Restore}} || N/A || 0.33% || 0.53% || 1.34%
+| {{Bag2|Medium Restore}} || N/A || 0.25% || 0.40% || 1.01%
+|-
+| {{Bag2|Poison Barb}} || N/A || 0.25% || 0.40% || 1.01%
 |}
+&lt;/tab&gt;
 
-===Debuff Drop Table===
-
+&lt;tab name="Debuff"&gt;
 After Reaching Unova, the drop chance for items in Johto will be debuffed for any loot with a Tier rarer than Rare (ie: Epic, Legendary, Mythic).
 
-{| class="wikitable collapsible collapsed"
+{| class="wikitable"
 |-
 ! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
 |-
@@ -98,10 +101,14 @@ After Reaching Unova, the drop chance for items in Johto will be debuffed for an
 |-
 | align="center" colspan=6| '''Legendary'''
 |-
-| {{Bag2|Splash Plate}} || 2 || 0.07% || 0.07% || 0.07%
+| {{Bag2|Splash Plate}} || 2 || 0.05% || 0.05% || 0.05%
 |-
 | {{Bag2|Medium Restore}} || N/A || 0.03% || 0.03% || 0.03%
+|-
+| {{Bag2|Poison Barb}} || N/A || 0.03% || 0.03% || 0.03%
 |}
+&lt;/tab&gt;
+&lt;/tabs&gt;
 
 {{Johto Dungeons}}
 
@@ -110,9 +117,9 @@ After Reaching Unova, the drop chance for items in Johto will be debuffed for an
       <username>ThePantMan</username>
       <id>8</id>
     </contributor>
-    <comment>/* Debuff Drop Table */</comment>
+    <comment>/* Loot update */</comment>
     <model>wikitext</model>
-    <parentid>5192</parentid>
-    <sha1>d8872e6cc77f84ab7ada379c2c5574b04f467816</sha1>
+    <parentid>5193</parentid>
+    <sha1>0681bc2f3bbd7886443c7c3d59fa8f38ec2d2531</sha1>
   </revision>
 </page></mediawiki>

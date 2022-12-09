@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>1742</id>
   <revision>
-    <id>10436</id>
-    <timestamp>2022-07-27T02:44:36Z</timestamp>
-    <text space="preserve" bytes="3573">{{Infobox dungeon
+    <id>33055</id>
+    <timestamp>2022-12-08T21:07:19Z</timestamp>
+    <text space="preserve" bytes="4702">{{Infobox dungeon
 |name    = Chargestone Cave
 |image   = [[File:Chargestone Cave.png|300px]]
 |caption = A map of Chargestone Cave.
@@ -63,6 +63,8 @@
 
 ==Items==
 
+&lt;tabs&gt;
+&lt;tab name="No Debuff"&gt;
 {| class="wikitable"
 |-
 ! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
@@ -87,23 +89,63 @@
 |-
 | align="center" colspan=6| '''Legendary'''
 |-
-| {{Bag2|Star Piece}} || 2 || 0.50% || 0.80% || 2.02%
+| {{Bag2|Star Piece}} || 2 || 0.40% || 0.64% || 1.61%
 |-
-| {{Bag2|Revive}} || N/A || 0.25% || 0.40% || 1.01%
+| {{Bag2|Magnet}} || N/A || 0.20% || 0.32% || 0.81%
 |-
-| {{Bag2|Large Restore}} || N/A || 0.25% || 0.40% || 1.01%
+| {{Bag2|Revive}} || N/A || 0.20% || 0.32% || 0.81%
+|-
+| {{Bag2|Large Restore}} || N/A || 0.20% || 0.32% || 0.81%
 |}
+&lt;/tab&gt;
+
+&lt;tab name="Debuff"&gt;
+After Reaching Galar, the drop chance for items in Unova will be debuffed for any loot with a Tier rarer than Rare (ie: Epic, Legendary, Mythic).
+{| class="wikitable"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+|-
+| align="center" colspan=6| '''Common'''
+|-
+| {{Bag2|Lucky Egg}} || 2 || 30.00% || 30.00% || 30.00%
+|-
+| {{Bag2|Dowsing Machine}} || 2 || 30.00% || 30.00% || 30.00%
+|-
+| {{Bag2|Aguav}} || N/A || 15.00% || 15.00% || 15.00%
+|-
+| align="center" colspan=6| '''Rare'''
+|-
+| {{Bag2|Yellow Shard}} || N/A || 24.00% || 24.00% || 24.00%
+|-
+| align="center" colspan=6| '''Epic'''
+|-
+| {{Bag2|Zap Plate}} || N/A || 0.45% || 0.45% || 0.45%
+|-
+| {{Bag2|Timerball}} || N/A || 0.45% || 0.45% || 0.45%
+|-
+| align="center" colspan=6| '''Legendary'''
+|-
+| {{Bag2|Star Piece}} || 2 || 0.04% || 0.04% || 0.04%
+|-
+| {{Bag2|Magnet}} || N/A || 0.02% || 0.02% || 0.02%
+|-
+| {{Bag2|Revive}} || N/A || 0.02% || 0.02% || 0.02%
+|-
+| {{Bag2|Large Restore}} || N/A || 0.02% || 0.02% || 0.02%
+|}
+&lt;/tab&gt;
+&lt;/tabs&gt;
 
 {{Unova Dungeons}}
 
 [[Category:Dungeons|^Region #5 - Unova^g]]</text>
     <contributor>
-      <username>LatiosRider</username>
-      <id>35</id>
+      <username>ThePantMan</username>
+      <id>8</id>
     </contributor>
-    <comment>Add Category header</comment>
+    <comment>/* Galar */</comment>
     <model>wikitext</model>
-    <parentid>10435</parentid>
-    <sha1>867598b7c657f39659c0b8e36f84180eb4042d62</sha1>
+    <parentid>10436</parentid>
+    <sha1>987c4bb13c3620c743bf9169952c31e14b422b00</sha1>
   </revision>
 </page></mediawiki>
