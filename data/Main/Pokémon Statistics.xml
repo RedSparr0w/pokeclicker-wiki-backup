@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>3416</id>
   <revision>
-    <id>13061</id>
-    <timestamp>2022-08-20T23:40:55Z</timestamp>
-    <text space="preserve" bytes="10788">==Base Attack==
+    <id>33119</id>
+    <timestamp>2022-12-09T15:35:36Z</timestamp>
+    <text space="preserve" bytes="10880">==Base Attack==
 The formula for a Pokemon’s '''Base Attack''' is loosely derived from Pokemon Go’s formula for CP.  It can be described through the following equations:
 
 &lt;math&gt;\colorbox{White}{$\\\text{base offense} = 2*\left[\sqrt{\text{Atk}*\text{SAtk}}+\sqrt{\text{Spe}}\right]
@@ -39,11 +39,11 @@ When first caught, a Pokemon will at level 100 have an '''Attack''' stat equal t
 A Pokemon’s Attack stat may contribute less to your total Attack depending on which Region you are in.  For more information, see [[Regions]].
 
 ==Click Attack==
-'''Click Attack''' is determined by the number of Pokemon you’ve caught, the number of [[Shinies|shiny Pokemon]] you’ve caught, and your [[Achievements|Achievement Bonus]], according to the following formula:
+'''Click Attack''' is determined by the number of Pokemon you’ve caught, the number of [[Shinies|shiny Pokemon]] you’ve caught, the number of [[Pokérus|Resistant Pokémon]] and your [[Achievements|Achievement Bonus]], according to the following formula:
 
-&lt;math&gt;\colorbox{White}{$ (\text{Pokemon} + 0.5(\text{Shinies}) + 1)^{1.4}*(1+\text{Achievement Bonus}) $}&lt;/math&gt;
+&lt;math&gt;\colorbox{White}{$ (\text{Pokemon} + \text{Shinies} + \text{Resistant} + 1)^{1.4}*(1+\text{Achievement Bonus}) $}&lt;/math&gt;
 
-[[Pokémon_with_Alternate_Forms|Alternate forms]] count, both for the number of Pokemon and the number of Shinies.  Any Pokémon that has an entry in your [[List of Pokémon with attack|List of Pokémon]] contributes.
+[[Pokémon_with_Alternate_Forms|Alternate forms]] count, for all the number of Pokemon, the number of Shinies and the number of pokerus resistant.  Any Pokémon that has an entry in your [[List of Pokémon with attack|List of Pokémon]] contributes.
 
 ==Egg Cycles==
 '''Egg Cycles''' is a value specific to each species that determines how many steps they need in order to hatch, with each egg cycle corresponding to 40 steps.  The egg cycle value for each species begins with the canonical value, with alternate forms using the same value as the base form, and is subject to few modifiers:
@@ -158,12 +158,12 @@ Every Pokemon shares their canonical leveling rate and accordingly EXP needed fo
 
 [[Category:Statistics]]</text>
     <contributor>
-      <username>Jk13</username>
-      <id>14</id>
+      <username>DraKay</username>
+      <id>18</id>
     </contributor>
-    <comment>/* Enemy Level */</comment>
+    <comment>/* Click Attack */</comment>
     <model>wikitext</model>
-    <parentid>13060</parentid>
-    <sha1>d5ae891a75c88f6dec4f7719356c70172f66fda8</sha1>
+    <parentid>33118</parentid>
+    <sha1>f9d82eb95765f2eb19a458ad9d848cc5bb399b9a</sha1>
   </revision>
 </page></mediawiki>

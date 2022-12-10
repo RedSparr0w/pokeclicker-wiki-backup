@@ -4,9 +4,10 @@
   <ns>10</ns>
   <id>7759</id>
   <revision>
-    <id>21916</id>
-    <timestamp>2022-08-05T21:32:34Z</timestamp>
-    <text space="preserve" bytes="1165">{|class="infobox bordered" style="float:right; width:264px; font-size:90%; text-align:left; border:2px solid #4d4494; padding:3px;" cellpadding="3"
+    <id>33167</id>
+    <timestamp>2022-12-09T21:37:20Z</timestamp>
+    <text space="preserve" bytes="1283">&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{|class="infobox bordered" style="float:right; width:264px; font-size:90%; text-align:left; border:2px solid #4d4494; padding:3px;" cellpadding="3"
 |- 
 !colspan="2" style="font-size:110%; text-align:center; background-color:#{{Evolution items color dark}}; color:#FFF;" | {{{name}}}
 |-
@@ -15,22 +16,24 @@
 {{!}}-
 }}
 {{#if:{{{price&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
-{{!}} style="background-color:#{{Evolution items color light}}; color:#000;" {{!}}'''Prix'''
+{{!}} style="background-color:#{{Evolution items color light}}; color:#000;" {{!}}'''Price'''
 {{!}}{{{price}}}
 {{!}}-
 }}
 {{#if:{{{location&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
-{{!}} style="background-color:#{{Evolution items color light}}; color:#000;" {{!}}'''Lieux'''
+{{!}} style="background-color:#{{Evolution items color light}}; color:#000;" {{!}}'''Location'''
 {{!}}{{{location}}}
 {{!}}-
 }}
 {{#if:{{{helditem&lt;includeonly&gt;|&lt;/includeonly&gt;}}} |
-{{!}} style="background-color:#{{Evolution items color light}}; color:#000;" {{!}}'''Tenu par'''
+{{!}} style="background-color:#{{Evolution items color light}}; color:#000;" {{!}}'''Dropped by'''
 {{!}}{{{helditem}}}
 {{!}}-
 }}
 |}&lt;noinclude&gt;
+&lt;/div&gt;
 
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
 == Code ==
 &lt;pre&gt;{{Infobox character general
 |name       = 
@@ -39,14 +42,15 @@
 |price      = 
 |location   = 
 |helditem   =
-}}&lt;/pre&gt;</text>
+}}&lt;/pre&gt;
+&lt;/div&gt;</text>
     <contributor>
-      <username>PetroleVB</username>
-      <id>36</id>
+      <username>FuzzyBot</username>
+      <id>133</id>
     </contributor>
-    <comment>Created page with "{|class="infobox bordered" style="float:right; width:264px; font-size:90%; text-align:left; border:2px solid #4d4494; padding:3px;" cellpadding="3" |-  !colspan="2" style="font-size:110%; text-align:center; background-color:#{{Evolution items color dark}}; color:#FFF;" | {{{name}}} |- {{#if:{{{image&lt;includeonly&gt;|&lt;/includeonly&gt;}}} | {{!}} colspan="2" style="text-align:center;" {{!}}{{{image}}}{{#if:{{{symbol|}}}|&lt;br /&gt;{{{symbol}}}}}{{#if:{{{caption|}}}|&lt;br /&gt;{{{caption}}}..."</comment>
+    <comment>Updating to match new version of source page</comment>
     <model>wikitext</model>
-    <parentid>21915</parentid>
-    <sha1>b853c5546450cdb1f294cf9b610ac2707b5219b0</sha1>
+    <parentid>21916</parentid>
+    <sha1>bf4ea7ee9454c840d195e44b316357d91382105f</sha1>
   </revision>
 </page></mediawiki>

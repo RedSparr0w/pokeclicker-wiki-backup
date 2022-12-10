@@ -4,9 +4,9 @@
   <ns>12</ns>
   <id>80</id>
   <revision>
-    <id>847</id>
-    <timestamp>2022-08-21T20:32:15Z</timestamp>
-    <text space="preserve" bytes="7027">=General:=
+    <id>33126</id>
+    <timestamp>2022-12-09T17:46:11Z</timestamp>
+    <text space="preserve" bytes="9438">=General:=
 
 ==Where can I play the latest version?==
 https://www.pokeclicker.com/
@@ -45,23 +45,27 @@ Your save file will likely be compatible with the final release.
 ==What are the [[Roaming Pokémon#Odds|odds of finding a Roaming Pokémon]]?==
 The chance to encounter a roaming Pokémon is 1/8192 for the first route of a region, and increases linearly up to 1/4096 for the last route of a region. "First" and "Last" refer to the [[Route Statistics|Route Order]], not the route number.
 
+If it is a boosted route the chance is 3x of the route chance.
+
 ==What are the [[Shiny Chance#Odds|odds of finding a Shiny Pokémon]]?==
 *On a Route - 1/8192
 *In a [[Dungeons|Dungeon]] - 1/4096
 *In the [[Safari Zone]] - 1/2048
 *Using an [[Evolution Items|Evolution Item]] - 1/2048
-*From a [[Shops|Shop]] - 1/2048
+*From a [[Shops|Shop]] - 1/1024
 *From [[Pokémon Day Care|hatching]] an [[Egg]] - 1/1024
 *[[Wandering Pokémon]] on the Farm - 1/1024
 
 ==Do Shiny Pokémon give any bonus to gameplay?==
-Yes, they give an extra 50% bonus to Click Attack compared to the non shiny variant.
+Yes, they give an extra 100% bonus to Click Attack compared to the non shiny variant.
 
 ==If I breed a Shiny Pokémon will it stay shiny?==
 Yes, once a Pokémon is shiny, it will always remain shiny.
 
 ==If I evolve a Shiny Pokémon will the evolution always be shiny?==
-There is also a 1/2048 chance the evolution will be shiny. If it is not, you will need to obtain the evolutions shiny via a different method. 
+Only if you have Real Evolution [[Challenge Mode]] on, as the Pokémon transforms into the next stage. (take into account that next time you get the original Pokémon it won't be shiny) 
+
+There is also a 1/2048 chance the evolution will be shiny. If it is not, you will need to obtain the evolutions shiny via a different method.
 
 =Items:=
 
@@ -70,7 +74,7 @@ They can be used in the [[Underground]] to restore some stamina.
 
 ==What are [[Berries]] used for?==
 Berries are currently used on the [[Farm]] to grow more berries and earn [[Farm Points]]. They also have special Auras, that can provide Gameplay bonuses, can attract [[Wandering Pokémon]], and can be traded for various items.
-'''Note:'''They will eventually have more uses
+Also can be used as bait in safari zone.
 
 ==What are [[Protein|Proteins]] used for?==
 They increase the "base attack" of your Pokémon, which will gain you more damage each time you breed them.
@@ -81,7 +85,7 @@ There is a maximum of 3 active slots.
 =Gameplay:=
 
 ==How many [[Regions]] are playable?==
-Currently, [[Kanto]] through [[Alola]] are able to be played.
+Currently, [[Kanto]] through [[Galar]] are able to be played.
 
 ==How do I get to the next [[Regions|Region]]?==
 With the Recommended Challenges active, you must obtain all Pokémon available in the current region and then take the Blimp located at the region's starting town. (Note: See [[Challenge Mode]] for more information on Recommended Challenges)
@@ -89,7 +93,7 @@ With the Recommended Challenges active, you must obtain all Pokémon available i
 '''Note:'''Once you go to the next region, you will not be able to go back to prior regions until you reach the [[Dock]] of the region you have entered.
 
 ==How do I increase my [[Pokémon Statistics#Click Attack|Click Attack]]?==
-Each new Pokémon increases your click attack. New Shiny Pokémon also increase your click attack by 50% of the rate that a normal new Pokémon would.
+Each new Pokémon increases your click attack. New Shiny Pokémon also increase your click attack by 100% of the rate that a normal new Pokémon would.
 
 ==How do I unlock the [[Gyms#Gym Auto-Rebattle|Auto Battle option for Gyms]]?==
 You must defeat a Gym Leader manually 100 times to unlock this feature for that Gym.
@@ -115,7 +119,7 @@ Yes, you can unlock up to 4 quest slots.
 ==How do I unlock X location in [[Kanto]]?==
 *Underground: Buy the [[Explorer Kit]] from [[Shops#Kanto: Locations &amp; Items|Cinnabar Island]].
 *Daycare: Will be unlocked after reaching [[Kanto#Routes|Route 5]].
-*Farm: Will be unlocked after reaching[[Kanto#Routes|Route 14]] and obtaining [[Berries]].
+*Farm: Will be unlocked after reaching [[Kanto#Routes|Route 14]] and obtaining [[Berries]].
 
 ==Why should I be [[Pokémon Day Care|Breeding Pokémon]]?==
 [[Baby Pokémon|Some Pokémon]] can only be obtained by breeding. When a Pokémon is hatched, its attack will increase by 25% of the base amount. Breeding also has higher odds of obtaining Shiny Pokémon (1/1024).
@@ -132,6 +136,81 @@ Some Pokémon can only be obtained from the '''[[Safari Zone]]'''.
 Some Pokémon can only evolve at certain times of day.
 Some Pokémon can only evolve in specific locations.
 Some Pokémon can only appear/evolve in specific [[Weather]].
+
+==When is night and dusk?==
+Right now there are 2 different set of night and dusk based upon main games: 
+
+For almost everything '''day''' is from 6:00 am to 5:59 pm, '''night''' is from 6 pm to 5:59 am and '''dusk''' is from 5:00 pm to 5:59 pm
+
+For [[Battle Café|Alcremie spins]] '''day''' is from 5:00 am to 6:59 pm, '''night''' is from 7:00 pm to 4:59 am and '''dusk''' is from 7:00 pm to 7:59 pm
+
+=EVs and Pokérus (BETA)=
+'''NOTE:''' This is a '''beta''' feature, so things will likely change in the future
+
+==What is Pokérus, and what are EVs?==
+Pokérus is a beneficial virus your Pokémon can catch. EVs increase the attack of your Pokémon.
+
+==When do I unlock EVs?==
+EVs are unlocked after defeating the Distortion World Dungeon (Sinnoh)
+
+==How do I spread Pokérus?==
+Pokérus is spread by Pokémon that are infected, to other Pokémon in the hatchery (not in the queue) that share a type with the infected Pokémon.
+
+Neither Pokémon can be ready to hatch, nor can a Hatchery Helper be used on either Pokémon, in order to spread the virus.
+
+==How do I gain EVs?==
+EVs can be gained in a variety of ways, but are primarily gained by capturing (not breeding) Pokémon.
+
+{|class="wikitable sortable"
+! Situation !! EV gained
+|-
+|Base Yield || 0.1EV
+|-
+|Evolution Item Yield || 1EV
+|-
+|Wanderer Yield || 0.5EV
+|-
+|Shopmon Yield || 1EV
+|-
+|Safari Yield || 1EV
+|-
+|Shiny Modifier || 5×
+|-
+|Dungeon Modifier || 3×
+|-
+|Dungeon Boss Modifier || 10
+|-
+|Roamer Modifier || 50×
+|-
+|Repeatball Modifier || 5×
+|} 
+
+
+==What is the EV Attack Bonus?==
+The EV bonus is multiplicative, and scales linearly until 1.5x (50EVs).
+
+The bonus thereafter has diminishing returns relative to the number of EVs gained.
+
+{|class="wikitable sortable"
+!  EVs !! Damage Multiplier
+|-
+| 50 || 1.5x Damage
+|-
+| 802 || 2x Damage
+|-
+| 40,121 || 3x Damage
+|-
+| 643,300 || 4x Damage
+|-
+| 5,540,000 || 5x Damage
+|} 
+
+==What do the Pokérus status filters mean?==
+'''None:''' Pokémon that have not been infected with Pokérus.
+
+'''Contagious:''' Pokémon with less than 50 EVs.
+
+'''Resistant:''' Pokémon with more than 50 EVs. These Pokémon will still be able to spread Pokérus.
 
 =Development:=
 
@@ -153,12 +232,12 @@ https://github.com/pokeclicker/pokeclicker.
 Any new issues, suggestions or code contributions are always welcomed.
 You may even earn certain [[Discord Roles]] based on your contributions.</text>
     <contributor>
-      <username>Jk13</username>
-      <id>14</id>
+      <username>CooldudeOmega0</username>
+      <id>25</id>
     </contributor>
-    <comment>Update</comment>
+    <comment></comment>
     <model>wikitext</model>
-    <parentid>846</parentid>
-    <sha1>339b03f25aa1706811d3a0141ad8b8f6db85eb83</sha1>
+    <parentid>33117</parentid>
+    <sha1>6cb2a0e995ec817fee77436e2242d75dc5316244</sha1>
   </revision>
 </page></mediawiki>

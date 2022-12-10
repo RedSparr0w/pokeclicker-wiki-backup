@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>4852</id>
   <revision>
-    <id>16799</id>
-    <timestamp>2022-07-28T20:18:51Z</timestamp>
-    <text space="preserve" bytes="2707">&lt;languages/&gt;
+    <id>33160</id>
+    <timestamp>2022-12-09T21:37:10Z</timestamp>
+    <text space="preserve" bytes="3167">&lt;languages/&gt;
 {{Infobox battle item
 |name       = Challenge Mode
 |image      = [[File:Challenge_Modes_Start_Menu.png|thumb|300px]]
@@ -17,25 +17,27 @@
 
 {| class="wikitable" style="text-align: center;"
 |-
-! Challenge !! Recommended !! Requirements
+! Challenge !! Ribbon !! Recommended !! Requirements
 |-
-| Regional Attack Debuff || Yes || Lowers Pokémon attack based on native region and highest reached region. (See [[Regions]] for the debuffs)
+| Regional Attack Debuff || [[File:RegionalAttackDebuff.png|30px]]|| Yes || Lowers Pokémon attack based on native region and highest reached region. (See [[Regions]] for the debuffs)
 |-
-| Require Complete Pokédex || Yes || Requires a complete regional pokédex before moving on to the next region. (See each [[Regions]] page for more)
+| Require Complete Pokédex || [[File:RequireCompletePokedex.png|30px]]|| Yes || Requires a complete regional pokédex before moving on to the next region. (See each [[Regions]] page for more)
 |-
-| No Click Attack || No || Prevents clicking on pokemon to deal damage.
+| No Click Attack ||[[File:DisableClickAttack.png|30px]]||  No || Prevents clicking on pokemon to deal damage.
 |-
-| No Battle Item || No || Prevents the use of the 6 [[Battle Items]] or the 6 [[Flutes]].
+| No Battle Item || [[File:DisableBattleItems.png|30px]]|| No || Prevents the use of the 6 [[Battle Items]] or the 6 [[Flutes]].
 |-
-| No Masterball || No || Prevents the use of [[Masterball|Masterballs]].
+| No Masterball || [[File:DisableMasterballs.png|30px]]|| No || Prevents the use of [[Masterball|Masterballs]].
 |-
-| No Oak Item || No || Prevents the use of [[Oak Items]].
+| No Oak Item || [[File:DisableOakItems.png|30px]]|| No || Prevents the use of [[Oak Items]].
 |-
-| No Gem || No || Prevents the use of [[Gems]] and [[Flutes]].
+| No Gem || [[File:DisableGems.png|30px]]|| No || Prevents the use of [[Gems]] and [[Flutes]].
 |-
-| No Protein || No || Prevents the use of [[Protein|Proteins]].
+| No Protein || [[File:DisableProteins.png|30px]]|| No || Prevents the use of [[Protein|Proteins]].
 |-
-| Slow EVs || No || Diminishes the rate at which [[Pokérus|EVs]] are gained..
+| Slow EVs ||[[File:SlowEVs.png|30px]]||  No || Diminishes the rate at which [[Pokérus|EVs]] are gained, 10x slower.
+|-
+| Real Evolutions || [[File:RealEvolutions.png|30px]]|| No || Your Pokémon go away when they evolve. 
 |}
 
 ===Challenge Mode Berries===
@@ -51,7 +53,7 @@ Many community members have developed and participate in a challenge that goes b
     </contributor>
     <comment>Updating to match new version of source page</comment>
     <model>wikitext</model>
-    <parentid>16798</parentid>
-    <sha1>5a9583ccc0f5dd954671bd73f801dbe0fb67a0ec</sha1>
+    <parentid>16799</parentid>
+    <sha1>80ea7fccee5b052da3864ad9631d3361c3553c56</sha1>
   </revision>
 </page></mediawiki>

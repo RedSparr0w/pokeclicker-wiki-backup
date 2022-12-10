@@ -4,9 +4,9 @@
   <ns>1198</ns>
   <id>11038</id>
   <revision>
-    <id>31159</id>
-    <timestamp>2022-12-05T14:29:58Z</timestamp>
-    <text space="preserve" bytes="3273">{| class="wikitable" | style="text-align: center;"
+    <id>33175</id>
+    <timestamp>2022-12-09T21:37:44Z</timestamp>
+    <text space="preserve" bytes="3269">{| class="wikitable" | style="text-align: center;"
 ! Aura !! Effect !! Notes
 |-
 ! Aura Boost
@@ -45,13 +45,13 @@
 ! Shiny Chance
 | Increases chance of finding [[Shiny Chance|Shiny Pokémon]]|| &lt;center&gt; Effect is multiplicative over the whole field. &lt;br&gt; Effect stacks with [[Shiny Charm]]
 |-
-! Wandering Chance
+! Attract Aura
 | Increases chance of Pokémon [[Wandering Pokemon|wandering]] onto the farm || &lt;center&gt; Effect is multiplicative over the whole field
 |-
 ! Roamer Chance
 | Increases chance of finding [[Roaming Pokemon|Roaming Pokémon]] on routes || &lt;center&gt; Effect is multiplicative over the whole field
 |-
-! Ev Gain
+! EV Gain
 | Increases amount of [[Pokerus|EVs gained]] in all applicable situations. || &lt;center&gt; Effect is multiplicative over the whole field
 |}</text>
     <contributor>
@@ -60,7 +60,7 @@
     </contributor>
     <comment>Importing a new version from external source</comment>
     <model>wikitext</model>
-    <parentid>0</parentid>
-    <sha1>6cb3d3bdc01f833161eb2ba576a0a05d31d7e59f</sha1>
+    <parentid>31159</parentid>
+    <sha1>36bb1d2aa76ccce3104bd5389890242daf8e24e2</sha1>
   </revision>
 </page></mediawiki>

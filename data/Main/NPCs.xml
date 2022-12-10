@@ -1,12 +1,11 @@
-<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
-<page>
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en"><page>
   <title>NPCs</title>
   <ns>0</ns>
   <id>308</id>
   <revision>
-    <id>4422</id>
-    <timestamp>2022-08-06T12:11:03Z</timestamp>
-    <text space="preserve" bytes="11771">&lt;languages/&gt;
+    <id>33205</id>
+    <timestamp>2022-12-10T01:31:32Z</timestamp>
+    <text space="preserve" bytes="11799">&lt;languages/&gt;
 &lt;translate&gt;
 &lt;!--T:1--&gt;
 '''NPCs''' (or '''non-player characters''') act as helpful guides to the player, giving them information about different features in the game or hinting to the locations and requirements of certain [[Obtainable Pokémon|Pokémon]].
@@ -173,9 +172,11 @@
 |-
 ! NPC Name !! Location !! Function
 |-
-| Musician || [[Towns &amp; Cities#Unova|Castelia City]] || Informs the player about the roaming nature of Meloetta.
+| Musician || [[Towns &amp; Cities#Unova|Castelia City]] || Informs the player about the roaming nature of {{Pokemon|Meloetta}}.
 |-
-| Excited Child || [[Towns &amp; Cities#Unova|Humilau City]] || Informs the player about the roaming nature of Thundurus and Tornadus.
+| Ruin Maniac || [[Relic Castle]] || Informs the player how to get {{Pokemon|Volcarona}}
+|-
+| Excited Child || [[Towns &amp; Cities#Unova|Humilau City]] || Informs the player about the roaming nature of {{Pokemon|Tornadus}} and {{Pokemon|Thundurus}}.
 |-
 | Explorer || [[Towns &amp; Cities#Unova|Nimbasa City]] || Informs the player about Mimics and the exclusive mimic in [[Relic Castle]]
 |-
@@ -218,9 +219,9 @@
 |-
 ! NPC Name !! Location !! Function
 |-
-| Scratch Cat Girl || [[Towns &amp; Cities#Alola|Iki Town Outskirts]] || Informs the player about the [[File:Lycanroc (Dusk).png|15px]]Lycanroc (Dusk) Requirement
+| Scratch Cat Girl || [[Towns &amp; Cities#Alola|Iki Town Outskirts]] || Informs the player about the {{Pokemon|Lycanroc (Dusk)}} Requirement
 |-
-| Professor Kukui || [[Towns &amp; Cities#Alola|Professor Kukui's Lab]] || Informs the player about the Ultra beasts, Meltan And Tells About the Ub and Meltan Update
+| Professor Kukui || [[Towns &amp; Cities#Alola|Professor Kukui's Lab]] || Informs the player about the missing Pokémon
 |-
 | Kahuna Hala || [[Towns &amp; Cities#Alola|Iki Town]] || Explains The Trials And Grand Trials
 |-
@@ -234,19 +235,19 @@
 |-
 | Kahuna Nanu || [[Towns &amp; Cities#Alola|Malie City]] || Informs the player of The Requirements To Fight him
 |-
-| Worker || [[Towns &amp; Cities#Alola|Tapu Village]] || Informs the player about how to evolve [[File:Crabrawler.png|15px]]Crabrawler into [[File:Crabominable.png|15px]]Crabominable
+| Worker || [[Towns &amp; Cities#Alola|Tapu Village]] || Informs the player about how to evolve {{Pokemon|Crabrawler}} into {{Pokemon|Crabominable}}
 |-
 | Captain Mina|| [[Towns &amp; Cities#Alola|Seafolk Village]] || Informs the player of the Requirements of [[Mina's Houseboat]] Dungeon and where the next Kahuna is
 |-
 |}
 &lt;/translate&gt;</text>
     <contributor>
-      <username>PetroleVB</username>
-      <id>36</id>
+      <username>SomeonealiveQN</username>
+      <id>5</id>
     </contributor>
-    <comment>adding pokemon ranger catherine to Fortree</comment>
+    <comment></comment>
     <model>wikitext</model>
-    <parentid>4421</parentid>
-    <sha1>e92ebc2785e6c0fa372db18c5e7d3cd948d64547</sha1>
+    <parentid>33204</parentid>
+    <sha1>894e2a60cfe3f6fd7f0ad3bcb4ccaf3c1ba52994</sha1>
   </revision>
 </page></mediawiki>

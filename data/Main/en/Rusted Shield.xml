@@ -1,14 +1,12 @@
 <mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
 <page>
-  <title>Rusted Shield</title>
+  <title>Rusted Shield/en</title>
   <ns>0</ns>
-  <id>9283</id>
+  <id>12136</id>
   <revision>
-    <id>33143</id>
-    <timestamp>2022-12-09T21:15:23Z</timestamp>
-    <text space="preserve" bytes="1073">&lt;languages/&gt;
-&lt;translate&gt;
-&lt;!--T:1--&gt;
+    <id>33151</id>
+    <timestamp>2022-12-09T21:37:00Z</timestamp>
+    <text space="preserve" bytes="982">&lt;languages/&gt;
 {{Infobox battle item
 |name       = Rusted Shield
 |image      = [[File:Rusted Shield.png]]
@@ -17,15 +15,12 @@
 *[[Energy Plant]]
 }}
 
-&lt;!--T:2--&gt;
 == Description ==
 The '''Rusted Shield''' is a type of held item that can only be equipped to Zamazenta.
 
-&lt;!--T:3--&gt;
 == Details ==
 Raises attack of the Pokémon holding the item by 50%.
 
-&lt;!--T:4--&gt;
 ==Uses==
 {| class="wikitable sortable"
 |-
@@ -34,7 +29,6 @@ Raises attack of the Pokémon holding the item by 50%.
 | [[File:Zamazenta (Battle Hero).png|40px]] Zamazenta (Battle Hero) || [[File:Zamazenta (Crowned Shield).png|40px]] Zamazenta (Crowned Shield)
 |}
 
-&lt;!--T:5--&gt;
 == Acquisition ==
 {{ItemPrice/head‎|Evolution items}}
 {{ItemPrice|[[Energy Plant]]|[[Rare_Hold_Items|Rare Hold Item]] drop from Zamazenta (Battle Hero) ''(Base 1/22.5 chance to drop)*''}}
@@ -42,17 +36,15 @@ Raises attack of the Pokémon holding the item by 50%.
 |} 
 *Note: Using the [[Dowsing Machine]] increases the chances of obtaining Rusted Shield to 1/15.&lt;br&gt;&lt;br&gt;
 
-&lt;!--T:6--&gt;
 {{Held Items}}
-[[Category:Items]] [[Category:Held Items]]
-&lt;/translate&gt;</text>
+[[Category:Items]] [[Category:Held Items]]</text>
     <contributor>
-      <username>CooldudeOmega0</username>
-      <id>25</id>
+      <username>FuzzyBot</username>
+      <id>133</id>
     </contributor>
-    <comment>changed sword to shield</comment>
+    <comment>Updating to match new version of source page</comment>
     <model>wikitext</model>
-    <parentid>25134</parentid>
-    <sha1>d7323ed62e7dbcdb5ce7d67ba47a0ae86a9ec02c</sha1>
+    <parentid>0</parentid>
+    <sha1>6d82e162192b27e727d014c44056033c651db5ed</sha1>
   </revision>
 </page></mediawiki>

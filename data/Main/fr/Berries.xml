@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>5149</id>
   <revision>
-    <id>32058</id>
-    <timestamp>2022-12-06T11:58:07Z</timestamp>
-    <text space="preserve" bytes="28359">&lt;languages/&gt;
+    <id>33178</id>
+    <timestamp>2022-12-09T21:37:47Z</timestamp>
+    <text space="preserve" bytes="28519">&lt;languages/&gt;
 Les '''Baies''' peuvent être cultivées dans la [[Farm/fr|Ferme]] pour obtenir des [[Farming Points/fr|Points de Récolte]]. Vous pouvez échanger certaines baies pour des [[Masterball/fr|Master Ball]], des [[Protein/fr|Protéines]] et autres [[Evolution Items/fr|Objets d'évolution]] dans les boutiques d'échange des [[Berry Master/fr|Maîtres des baies]].
 Le [[Sprayduck/fr|Kwakarrosoir]], le [[Squirtbottle/fr|Carapuce à O]] et le [[Sprinklotad/fr|Nénurrosoir]] sont des Objets de Chen qui accélèrent ou améliorent le processus de culture des baies.
 
@@ -82,6 +82,7 @@ Les baies peuvent commencer à muter une fois qu'elles ont atteint le stade de B
 &lt;span id="Gen_3_Berries"&gt;&lt;/span&gt;
 ==== Baies de Gen 3 ====
 
+&lt;div class="mw-translate-fuzzy"&gt;
 {|class="wikitable sortable"
 |-
 ! N° Dex !! Baie !! Quantité&lt;br&gt;Récoltée  !! Points de&lt;br&gt;récolte !! Temps de croissance !! Obtention !! Capacité spéciale
@@ -118,10 +119,12 @@ Les baies peuvent commencer à muter une fois qu'elles ont atteint le stade de B
 |-
 | #36 [[File:Pinkan.png|25px]] || [[Pinkan/fr|Guimauve]] ||  style="text-align:right" | 3 || style="text-align:right" | 2500 {{farmpoints}} || 4 h à maturité&lt;br&gt;8 h au flétrissement || Entourer une parcelle avec un de chaque baie rose avant #36 || N/A
 |}
+&lt;/div&gt;
 
 &lt;span id="Gen_4_Berries"&gt;&lt;/span&gt;
 ==== Baies de Gen 4 ====
 
+&lt;div class="mw-translate-fuzzy"&gt;
 {|class="wikitable sortable"
 |-
 ! N° Dex !! Baie !! Quantité&lt;br&gt;Récoltée !! Points&lt;br&gt;de récolte!! Temps de croissance!! Obtention !! Capacité Spéciale
@@ -162,10 +165,12 @@ Les baies peuvent commencer à muter une fois qu'elles ont atteint le stade de B
 |-
 | #54 [[File:Roseli.png|25px]] || [[Roseli/fr|Selro]] ||  style="text-align:right" | 38 || style="text-align:right" | 2500 {{farmpoints}} || 7 h à maturité&lt;br&gt;7 h au flétrissement|| Faire pousser des baies Mago, Nanab, Mangou et Stekpa près d'une parcelle vide|| Pokémon Errants ↑
 |}
+&lt;/div&gt;
 
 &lt;span id="Gen_5_Berries"&gt;&lt;/span&gt;
 ==== Baies de Gen 5 ====
 
+&lt;div class="mw-translate-fuzzy"&gt;
 {|class="wikitable sortable"
 |-
 ! N° Dex !! Baie !! Quantité&lt;br&gt;Récoltée !! Points de récolte !! Temps de croissance !! Obtention  !! Capacité spéciale
@@ -199,6 +204,7 @@ Les baies peuvent commencer à muter une fois qu'elles ont atteint le stade de B
 | #68 [[File:Enigma.png|25px]] || [[Enigma/fr|Enigma]] ||  style="text-align:right" | 0,5 || style="text-align:right" | 15000 {{farmpoints}} || 24 h à maturité&lt;br&gt;144 h au flétrissement || Unique : synchroniser son compte Discord || Peut faire muter des baies de Gen 4 en baies de Gen 5&lt;br&gt; (pour cela, les baies de Gen 5 doivent déjà avoir été découvertes)
 |-
 |}
+&lt;/div&gt;
 
 Note : La quantité minimale de baies récoltées est de 1 pour toute baie. Si cette quantité est indiquée comme étant inférieure à 1, le nombre de baies récoltées sera quand même de 1. Cependant, une quantité inférieure à 1 affecte le nombre de baies supplémentaires qu'offrent le [[Farm_Items/fr|Fertibondance]] et la baie Pocpoc. Par exemple, considérant une parcelle fertilisée avec du Fertibondance et entourée de 8 baies Pocpoc, une baie Rangma donnera 16 baies, mais une baie Lichii n'en donnera que 8. Pour plus d'informations concernant les meilleures configurations de ferme, afin de récolter plus de baies ou plus rapidement, veuillez consulter la [[Farming Setups/fr|page d'organisation des cultures]].
 
@@ -207,6 +213,7 @@ Note : La quantité minimale de baies récoltées est de 1 pour toute baie. Si c
 
 Certaines baies possèdent des capacités spéciales appelées Auras. Ces Auras affectent le plus souvent la croissance des baies ou la mutation, mais certaines peuvent affecter d'autres aspects du jeu. Ces Auras sont souvent utilisés afin d'aider les joueurs à rencontrer des Pokémon chromatiques ou améliorer le processus d'incubation. Voici une liste des auras de baies. La baie [[Enigma/fr|Enigma]] a un effet unique qui est mieux expliqué sur sa page.
 
+&lt;div class="mw-translate-fuzzy"&gt;
 {| class="wikitable" | style="text-align: center;"
 ! Aura !! Effet !! Notes
 |-
@@ -255,6 +262,7 @@ Certaines baies possèdent des capacités spéciales appelées Auras. Ces Auras 
 ! Gain d'EV
 | Augmente la quantité d'[[Pokerus|EV gagnés]] dans toutes les situations applicables. || &lt;center&gt; L'effet est multiplicatif sur le terrain entier
 |}
+&lt;/div&gt;
 
 
 
@@ -262,12 +270,12 @@ Certaines baies possèdent des capacités spéciales appelées Auras. Ces Auras 
 
 [[Category:Farm|Catégorie:Ferme]][[Category:Berries|Catégorie:Baies]]</text>
     <contributor>
-      <username>Gwendal</username>
-      <id>175</id>
+      <username>FuzzyBot</username>
+      <id>133</id>
     </contributor>
-    <comment></comment>
+    <comment>Updating to match new version of source page</comment>
     <model>wikitext</model>
-    <parentid>32056</parentid>
-    <sha1>517ee81a7f819fb8a7c134f5ee31e8267f7cc003</sha1>
+    <parentid>32058</parentid>
+    <sha1>fdcfc8cba4cb112480fc699b1f60ce62bc15cb35</sha1>
   </revision>
 </page></mediawiki>

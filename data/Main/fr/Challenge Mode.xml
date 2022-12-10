@@ -4,56 +4,70 @@
   <ns>0</ns>
   <id>5201</id>
   <revision>
-    <id>17599</id>
-    <timestamp>2022-08-05T21:19:57Z</timestamp>
-    <text space="preserve" bytes="3094">&lt;languages/&gt;
+    <id>33162</id>
+    <timestamp>2022-12-09T21:37:11Z</timestamp>
+    <text space="preserve" bytes="3559">&lt;languages/&gt;
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
 {{Infobox battle item
-|name       = Mode Challenge
+|name       = Challenge Mode
 |image      = [[File:Challenge_Modes_Start_Menu.png|thumb|300px]]
-|caption    = La modale du Mode défi au moment de commencer une partie
+|caption    = The Challenge Mode Modal upon starting the game
 }}
+&lt;/div&gt;
 
-Les '''Modes défi''' sont des options pour changer la difficulté du jeu. Il y a actuellement 9 défis qui, une fois activés, ne peuvent pas être désactivés du fichier de sauvegarde. Aucune récompense n'est offerte pour la complétion de ces défis, hormis le droit de s'en vanter. Le jeu est toujours complétable à 100%, même avec l'ensemble des défis activés (même si la méthode peut varier par moment). Les défis recommandés sont sélectionnés par défaut mais il est possible de les désactiver à tout moment.
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+'''Challenge Modes''' are in-game options to change the difficulty of the game.  There are currently 8 challenges, and once a challenge is activated it cannot be deactivated on that save file.  There are no rewards for completing the challenges, other than for bragging rights.  The game is always designed to be 100% completable, even with all eight challenges active (although the methods may be different).  The recommended challenges are selected by default, however, you can click on them to disable that challenge.
+&lt;/div&gt;
 
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
 {| class="wikitable" style="text-align: center;"
 |-
-! Défi !! Recommandé !! Contrainte
+! Challenge !! Ribbon !! Recommended !! Requirements
 |-
-| Perte d'attaque régionale || Oui || Diminue l'attaque des Pokémon selon leur région d'origine et la dernière région atteinte. (Voir [[Regions|Régions]] pour le calcul de l'attaque)
+| Regional Attack Debuff || [[File:RegionalAttackDebuff.png|30px]]|| Yes || Lowers Pokémon attack based on native region and highest reached region. (See [[Regions]] for the debuffs)
 |-
-| Pokédex Complet Requis || Oui || Requiert un Pokédex régional complet avant de partir pour la région suivante. (Voir chaque [[Regions|Régions]] pour plus d'informations)
+| Require Complete Pokédex || [[File:RequireCompletePokedex.png|30px]]|| Yes || Requires a complete regional pokédex before moving on to the next region. (See each [[Regions]] page for more)
 |-
-| Pas d'attaques de clic || Non || Empêche de cliquer pour infliger des dégâts.
+| No Click Attack ||[[File:DisableClickAttack.png|30px]]||  No || Prevents clicking on pokemon to deal damage.
 |-
-| Pas d'objets de combat || Non || Empêche l'utilisation des 6 [[Battle Items|Objets de Combat]] ou des 6 [[Flutes|Flûtes]].
+| No Battle Item || [[File:DisableBattleItems.png|30px]]|| No || Prevents the use of the 6 [[Battle Items]] or the 6 [[Flutes]].
 |-
-| Pas de Masterballs || Non || Empêche l'utilisation des [[Masterball|Masterballs]].
+| No Masterball || [[File:DisableMasterballs.png|30px]]|| No || Prevents the use of [[Masterball|Masterballs]].
 |-
-| Pas d'Objets de Chen || Non || Empêche l'utilisation des [[Oak Items|Objets de Chen]].
+| No Oak Item || [[File:DisableOakItems.png|30px]]|| No || Prevents the use of [[Oak Items]].
 |-
-| Pas de Joyaux || Non || Empêche l'utilisation des [[Gems|Joyaux]] et des [[Flutes|Flûtes]].
+| No Gem || [[File:DisableGems.png|30px]]|| No || Prevents the use of [[Gems]] and [[Flutes]].
 |-
-| Pas de Protéines || Non || Empêche l'utilisation de [[Protein|Protéines]].
+| No Protein || [[File:DisableProteins.png|30px]]|| No || Prevents the use of [[Protein|Proteins]].
 |-
-| EV lents || Non || Diminue le taux auquel sont gagnés les [[Pokérus|EV]].
+| Slow EVs ||[[File:SlowEVs.png|30px]]||  No || Diminishes the rate at which [[Pokérus|EVs]] are gained, 10x slower.
+|-
+| Real Evolutions || [[File:RealEvolutions.png|30px]]|| No || Your Pokémon go away when they evolve. 
 |}
+&lt;/div&gt;
 
-=== Les Baies durant les Mode Challenge ===
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+===Challenge Mode Berries===
+&lt;/div&gt;
 
-Si le challenge "Pas d'Objets de Chen" est actif, les [[Berries|Baies]] [[Chople|Pomroz]] [[Kebia|Kébia]] [[Shuca|Jouca]] et [[Charti]] ne sont pas récoltables comme elles devraient normalement l'être dans la [[Farm|Ferme]]. Ces quatre baies nécessitent en effet que des Objets de Chen soient équipés pour engendrer leur mutation. A la place, elles deviennent disponibles à l'achat auprès du [[Berry Master|Maître des Baies]] de Johto. 
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+If the No Oak Items challenge is active, the [[Chople]], [[Kebia]], [[Shuca]] and [[Charti]] [[Berries]] are unable to be obtained as they normally would be from the [[Farm]] as all four berries require Oak Items to be equipped in order to mutate. Instead, they become available for purchase from the Johto [[Berry Master]].
+&lt;/div&gt; 
 
-=== All Challenges Shiny Route Quest (ACSRQ) ===
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+===All Challenges Shiny Route Quest (ACSRQ) ===
+&lt;/div&gt;
 
-Des membres de la communauté Pokéclicker ont développé et participent à un challenge qui va au delà de ce qui est offert via les Modes Challenges standards. ACSRQ consiste non seulement à jouer avec les 9 challenges actifs (AC/A9C est aussi un challenge populaire) mais également à capturer tous les Pokémons chromatiques possible sur chaque Route/Donjon/Ville/etc avant d'avancer au prochain lieu.
-
-Plus d'informations sur [https://discord.gg/a6DFe4p Discord Pokéclicker], le [https://discord.gg/eRBzdU9tVk Discord ACSRQ] où il y a un classement activement mis à jour et [https://bit.ly/acsrq-leaderboard Classement ACSRQ] où plus de ressources et une FAQ sont disponibles.</text>
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Many community members have developed and participate in a challenge that goes beyond what is offered via the standard Challenge Modes. ACSRQ is defined as not only playing using all 8 challenges (AC/A8C is also a popular challenge), but also capturing every Shiny Pokémon possible on each Route/Dungeon/Town etc. before proceeding to the next location in the game. More information can be found on the [https://discord.gg/a6DFe4p Pokéclicker Discord], the [https://discord.gg/eRBzdU9tVk ACSRQ Discord] where there is an active leaderboard that is maintained, and the [https://bit.ly/acsrq-leaderboard ACSRQ Leaderboard] where there are more resources and an FAQ.
+&lt;/div&gt;</text>
     <contributor>
-      <username>LeChatMG</username>
-      <id>97</id>
+      <username>FuzzyBot</username>
+      <id>133</id>
     </contributor>
-    <comment>"challenge" -&gt; "défi" ; mise au pluriel</comment>
+    <comment>Updating to match new version of source page</comment>
     <model>wikitext</model>
-    <parentid>17598</parentid>
-    <sha1>1c730e954acf9e3ce652e5acdf573d132f00ba56</sha1>
+    <parentid>17599</parentid>
+    <sha1>e60260b57240f6e5d7901590b9d51334aa096c31</sha1>
   </revision>
 </page></mediawiki>

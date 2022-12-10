@@ -1,32 +1,34 @@
 <mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
 <page>
   <title>Translations:Challenge Mode/3/en</title>
-  <ns>0</ns>
-  <id>4847</id>
+  <ns>1198</ns>
+  <id>12140</id>
   <revision>
-    <id>16793</id>
-    <timestamp>2022-07-28T20:18:40Z</timestamp>
-    <text space="preserve" bytes="916">{| class="wikitable" style="text-align: center;"
+    <id>33155</id>
+    <timestamp>2022-12-09T21:37:05Z</timestamp>
+    <text space="preserve" bytes="1376">{| class="wikitable" style="text-align: center;"
 |-
-! Challenge !! Recommended !! Requirements
+! Challenge !! Ribbon !! Recommended !! Requirements
 |-
-| Regional Attack Debuff || Yes || Lowers Pokémon attack based on native region and highest reached region. (See [[Regions]] for the debuffs)
+| Regional Attack Debuff || [[File:RegionalAttackDebuff.png|30px]]|| Yes || Lowers Pokémon attack based on native region and highest reached region. (See [[Regions]] for the debuffs)
 |-
-| Require Complete Pokédex || Yes || Requires a complete regional pokédex before moving on to the next region. (See each [[Regions]] page for more)
+| Require Complete Pokédex || [[File:RequireCompletePokedex.png|30px]]|| Yes || Requires a complete regional pokédex before moving on to the next region. (See each [[Regions]] page for more)
 |-
-| No Click Attack || No || Prevents clicking on pokemon to deal damage.
+| No Click Attack ||[[File:DisableClickAttack.png|30px]]||  No || Prevents clicking on pokemon to deal damage.
 |-
-| No Battle Item || No || Prevents the use of the 6 [[Battle Items]] or the 6 [[Flutes]].
+| No Battle Item || [[File:DisableBattleItems.png|30px]]|| No || Prevents the use of the 6 [[Battle Items]] or the 6 [[Flutes]].
 |-
-| No Masterball || No || Prevents the use of [[Masterball|Masterballs]].
+| No Masterball || [[File:DisableMasterballs.png|30px]]|| No || Prevents the use of [[Masterball|Masterballs]].
 |-
-| No Oak Item || No || Prevents the use of [[Oak Items]].
+| No Oak Item || [[File:DisableOakItems.png|30px]]|| No || Prevents the use of [[Oak Items]].
 |-
-| No Gem || No || Prevents the use of [[Gems]] and [[Flutes]].
+| No Gem || [[File:DisableGems.png|30px]]|| No || Prevents the use of [[Gems]] and [[Flutes]].
 |-
-| No Protein || No || Prevents the use of [[Protein|Proteins]].
+| No Protein || [[File:DisableProteins.png|30px]]|| No || Prevents the use of [[Protein|Proteins]].
 |-
-| Slow EVs || No || Diminishes the rate at which [[Pokérus|EVs]] are gained..
+| Slow EVs ||[[File:SlowEVs.png|30px]]||  No || Diminishes the rate at which [[Pokérus|EVs]] are gained, 10x slower.
+|-
+| Real Evolutions || [[File:RealEvolutions.png|30px]]|| No || Your Pokémon go away when they evolve. 
 |}</text>
     <contributor>
       <username>FuzzyBot</username>
@@ -34,7 +36,7 @@
     </contributor>
     <comment>Importing a new version from external source</comment>
     <model>wikitext</model>
-    <parentid>16792</parentid>
-    <sha1>b0fc5a52e8357e8f449b67b0112e2db13f8bbc3e</sha1>
+    <parentid>0</parentid>
+    <sha1>493175795ff8a3bf61fb1e0b967bbe9a3b5f8d52</sha1>
   </revision>
 </page></mediawiki>

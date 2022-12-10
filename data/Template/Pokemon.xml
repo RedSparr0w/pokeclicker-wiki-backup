@@ -4,16 +4,16 @@
   <ns>10</ns>
   <id>3663</id>
   <revision>
-    <id>31793</id>
-    <timestamp>2022-12-06T00:07:07Z</timestamp>
-    <text space="preserve" bytes="204">[[File:{{{1}}}.png|30px|{{{1}}}|{{#ifeq:{{{2|}}}|Mimic|link=[[Obtainable Pokémon]]|}}]] {{#ifeq:{{{2|}}}|Mimic|[[Obtainable Pokémon|{{{1}}}]]|{{{1}}}}} &lt;noinclude&gt;[[Category:Link templates]]&lt;/noinclude&gt;</text>
+    <id>33181</id>
+    <timestamp>2022-12-09T21:42:32Z</timestamp>
+    <text space="preserve" bytes="226">[[File:{{{1}}}.png|{{#if:{{{Size|}}}|{{{Size}}}|30px}}|{{{1}}}|{{#if:{{{Mimic|}}}|link=[[Obtainable Pokémon]]}}]] {{#if:{{{Mimic|}}}|[[Obtainable Pokémon|{{{1}}}]]|{{{1}}}}} &lt;noinclude&gt;[[Category:Link templates]]&lt;/noinclude&gt;</text>
     <contributor>
       <username>Jk13</username>
       <id>14</id>
     </contributor>
     <comment></comment>
     <model>wikitext</model>
-    <parentid>31792</parentid>
-    <sha1>50c1eb67fd92f5726b56d67f8554578a059820a0</sha1>
+    <parentid>33132</parentid>
+    <sha1>d38bcbf03998cdcc14116e27f9b9d858e46d6012</sha1>
   </revision>
 </page></mediawiki>

@@ -4,54 +4,70 @@
   <ns>0</ns>
   <id>5501</id>
   <revision>
-    <id>18290</id>
-    <timestamp>2022-07-29T07:03:07Z</timestamp>
-    <text space="preserve" bytes="3131">&lt;languages/&gt;
+    <id>33161</id>
+    <timestamp>2022-12-09T21:37:10Z</timestamp>
+    <text space="preserve" bytes="3559">&lt;languages/&gt;
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
 {{Infobox battle item
-|name       = Modo Reto
+|name       = Challenge Mode
 |image      = [[File:Challenge_Modes_Start_Menu.png|thumb|300px]]
-|caption    = La Ventana del Modo Reto al iniciar el juego
+|caption    = The Challenge Mode Modal upon starting the game
 }}
+&lt;/div&gt;
 
-Los '''Modos Reto''' son opciones dentro del juego para cambiar la dificultad. Actualmente hay 8 retos, y una vez activos no pueden ser desactivados para toda la partida. No hay recompensas por completar los retos más allá de poder presumir ante todos. El juego está diseñado de forma que siempre se puede completar al 100%, incluso con los 8 retos activos, aunque los métodos para completarlo pueden ser diferentes. Los retos recomendados están activos por defecto, no obtante, puedes pulsar sobre ellos para deshabilitar el reto.
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+'''Challenge Modes''' are in-game options to change the difficulty of the game.  There are currently 8 challenges, and once a challenge is activated it cannot be deactivated on that save file.  There are no rewards for completing the challenges, other than for bragging rights.  The game is always designed to be 100% completable, even with all eight challenges active (although the methods may be different).  The recommended challenges are selected by default, however, you can click on them to disable that challenge.
+&lt;/div&gt;
 
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
 {| class="wikitable" style="text-align: center;"
 |-
-! Reto !! ¿Recomendado? !! Efectos
+! Challenge !! Ribbon !! Recommended !! Requirements
 |-
-| Debilitación del Ataque Regional || Sí || Disminuye el ataque de cada Pokémon basándose en su región de origen y la región más alta alcanzada. En [[Regions|Regiones]] se puede obtener más información.
+| Regional Attack Debuff || [[File:RegionalAttackDebuff.png|30px]]|| Yes || Lowers Pokémon attack based on native region and highest reached region. (See [[Regions]] for the debuffs)
 |-
-| Se requiere completar la Pokédex || Sí || Requiere completar toda la Pokédex nacional antes de poder avanzar a la siguiente región. En [[Regions|Regiones]] se puede obtener más información.
+| Require Complete Pokédex || [[File:RequireCompletePokedex.png|30px]]|| Yes || Requires a complete regional pokédex before moving on to the next region. (See each [[Regions]] page for more)
 |-
-| Sin daño por Click || No || Se elimina el daño por Click.
+| No Click Attack ||[[File:DisableClickAttack.png|30px]]||  No || Prevents clicking on pokemon to deal damage.
 |-
-| Sin Objetos de Batalla || No || Evita usar los 6 [[Battle Items|Objetos de Batalla]] o las 6 [[Flutes|Flautas]].
+| No Battle Item || [[File:DisableBattleItems.png|30px]]|| No || Prevents the use of the 6 [[Battle Items]] or the 6 [[Flutes]].
 |-
-| Sin Masterball || No || Evita el uso de [[Masterball|Masterballs]].
+| No Masterball || [[File:DisableMasterballs.png|30px]]|| No || Prevents the use of [[Masterball|Masterballs]].
 |-
-| Sin Objetos de Oak || No || Evita el uso de los [[Oak Items|Objetos de Oak]].
+| No Oak Item || [[File:DisableOakItems.png|30px]]|| No || Prevents the use of [[Oak Items]].
 |-
-| Sin Gemas || No || Evita el uso de las [[Gems|Gemas]] y las [[Flutes|Flautas]].
+| No Gem || [[File:DisableGems.png|30px]]|| No || Prevents the use of [[Gems]] and [[Flutes]].
 |-
-| Sin Proteínas || No || Evita el uso de [[Protein|Proteínas]].
+| No Protein || [[File:DisableProteins.png|30px]]|| No || Prevents the use of [[Protein|Proteins]].
 |-
-| Crecimiento lento de PE || No || Disminuye la obtención de [[Pokérus|PE]].
+| Slow EVs ||[[File:SlowEVs.png|30px]]||  No || Diminishes the rate at which [[Pokérus|EVs]] are gained, 10x slower.
+|-
+| Real Evolutions || [[File:RealEvolutions.png|30px]]|| No || Your Pokémon go away when they evolve. 
 |}
+&lt;/div&gt;
 
-===Bayas con los Modos Reto===
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+===Challenge Mode Berries===
+&lt;/div&gt;
 
-Si el Reto Sin objetos de Oak está activo, las [[Berries|Bayas]] [[Chople|Pomaro (Chople)]], [[Kebia]], [[Shuca|Acardo (Shuca)]] y [[Charti|Alcho (Charti)]] no se pueden obtener por su método habitual, ya que mutan de otras bayas plantadas en la [[Farm|granja]] mientras se tiene equipado determinado Objeto de Oak. En su lugar, se pueden obtener comprándolas al [[Berry Master|Bayólogo]] de Johto. 
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+If the No Oak Items challenge is active, the [[Chople]], [[Kebia]], [[Shuca]] and [[Charti]] [[Berries]] are unable to be obtained as they normally would be from the [[Farm]] as all four berries require Oak Items to be equipped in order to mutate. Instead, they become available for purchase from the Johto [[Berry Master]].
+&lt;/div&gt; 
 
-===Reto de todos los variocolor por ruta (ACSRQ)===
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+===All Challenges Shiny Route Quest (ACSRQ) ===
+&lt;/div&gt;
 
-Varios miembros de la comunidad han desarrollado y participado en un Reto que va más allá de lo que se ofrece en los Modos Reto. ACSRQ (All Challenges Shiny Route Quest - Todos los retos y variocolor requeridos en inglés) es un modo reto donde además de tener activos los 8 modos retos (Denominado en ingés como All Chalenges, AC / All 8 Challenges, A8C), se requiere capturar a todos los pokémon variocolor en cada Ruta/Mazmorra/Ciudad,etc. antes de proceder a la siguiente ubicación del juego. Se puede encontrar más información en el [https://discord.gg/a6DFe4p Discord de Pokéclicker], [https://discord.gg/eRBzdU9tVk el Discord ACSRQ] donde hay una clasificación actualizándose activamente, y la [https://bit.ly/acsrq-leaderboard Clasificación ACSRQ] donde se pueden encontrar más recursos y preguntas frecuentes.</text>
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Many community members have developed and participate in a challenge that goes beyond what is offered via the standard Challenge Modes. ACSRQ is defined as not only playing using all 8 challenges (AC/A8C is also a popular challenge), but also capturing every Shiny Pokémon possible on each Route/Dungeon/Town etc. before proceeding to the next location in the game. More information can be found on the [https://discord.gg/a6DFe4p Pokéclicker Discord], the [https://discord.gg/eRBzdU9tVk ACSRQ Discord] where there is an active leaderboard that is maintained, and the [https://bit.ly/acsrq-leaderboard ACSRQ Leaderboard] where there are more resources and an FAQ.
+&lt;/div&gt;</text>
     <contributor>
-      <username>Cthulhu Follower</username>
-      <id>51</id>
+      <username>FuzzyBot</username>
+      <id>133</id>
     </contributor>
-    <comment></comment>
+    <comment>Updating to match new version of source page</comment>
     <model>wikitext</model>
-    <parentid>18289</parentid>
-    <sha1>a75a7b9ae67c1d87033f0ef36cdd84751609ba19</sha1>
+    <parentid>18290</parentid>
+    <sha1>e60260b57240f6e5d7901590b9d51334aa096c31</sha1>
   </revision>
 </page></mediawiki>

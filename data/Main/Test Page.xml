@@ -4,15 +4,17 @@
   <ns>0</ns>
   <id>2035</id>
   <revision>
-    <id>32791</id>
-    <timestamp>2022-12-07T20:13:21Z</timestamp>
-    <text space="preserve" bytes="2038">Test Page Returns
+    <id>33135</id>
+    <timestamp>2022-12-09T19:40:51Z</timestamp>
+    <text space="preserve" bytes="2169">Test Page Returns
 
 Test: 1&lt;sup&gt;ère&lt;/sup&gt; génération
 
 {{Pokemon|Geodude}}&lt;br&gt;
-{{Pokemon|Geodude|Mimic}}&lt;br&gt;
-
+{{Pokemon|Geodude|Mimic=Mimic}}&lt;br&gt;
+{{Pokemon|Geodude|Size=50px}}&lt;br&gt;
+{{Pokemon|Geodude|Size=50px|Mimic=Mimic}}&lt;br&gt;
+{{Pokemon|Geodude|Mimic=Mimic|Size=50px}}&lt;br&gt;
 ===Used in===
 
 {| class="wikitable" style="text-align: center;"
@@ -68,9 +70,9 @@ Test: 1&lt;sup&gt;ère&lt;/sup&gt; génération
       <username>Jk13</username>
       <id>14</id>
     </contributor>
-    <comment>/* Used in */</comment>
+    <comment></comment>
     <model>wikitext</model>
-    <parentid>31794</parentid>
-    <sha1>e79593c07e9cc4c66d0fbc84f65814ed3eabb3c7</sha1>
+    <parentid>33134</parentid>
+    <sha1>cf81678807eb0f1f04c163195f02598c32ef0fa6</sha1>
   </revision>
 </page></mediawiki>

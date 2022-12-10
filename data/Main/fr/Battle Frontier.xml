@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>6912</id>
   <revision>
-    <id>25294</id>
-    <timestamp>2022-12-04T00:37:59Z</timestamp>
-    <text space="preserve" bytes="8574">&lt;languages/&gt;
+    <id>33171</id>
+    <timestamp>2022-12-09T21:37:30Z</timestamp>
+    <text space="preserve" bytes="8654">&lt;languages/&gt;
 {{Infobox battle item
 |name       = Zone de Combat
 |image      = [[File:Battle_Frontier.png|500px]]
@@ -53,11 +53,14 @@ Vaincre des Pokémon dans la Zone de Combat permet également de gagner des [[Ge
 |}
 &lt;small&gt;&lt;sup&gt;1&lt;/sup&gt;Les [[Battle Points|Points de Combat]] {{Battlepoints}} sont arrondis au nombre entier le plus proche&lt;/small&gt;
 
+&lt;div class="mw-translate-fuzzy"&gt;
 ===Items &amp; Pokémon===
+&lt;/div&gt;
 
 ''Note : Les points de vies des pokémon sont calculés puis arrondis à l'inférieur par la formule suivante : ''&lt;br&gt;
 &lt;math&gt;\text{PV ennemis} = \text{Arrondi}[\left ( \frac{100}{12} \times (\text{Niveau actuel} + 10)^{2,2}\right )^{1,15} \times (1 - 0,05)]&lt;/math&gt;
 
+&lt;div class="mw-translate-fuzzy"&gt;
 '' Conseil : En moyenne  pour un niveau donné  vous aurez besoin d'avoir un niveau d'attaque 10x moins élevé que le nombre de point de vie des Pokemon (en prenant en compte tous les bonus de gemmes).''
 {| class="wikitable sortable"
 |-
@@ -136,6 +139,7 @@ Vaincre des Pokémon dans la Zone de Combat permet également de gagner des [[Ge
 |}
 *&lt;b&gt;&lt;big&gt;Note : &lt;/big&gt;&lt;/b&gt; [[File:Vivillon_(Pokéball).png|25px]] Prismillon (Pokéball) ne peut être récupéré que dans le cadre de la quête [[Quests|La Grande Chasse aux Prismillon !]]
 Il n'y a pas de récompenses supplémentaires après avoir atteint le niveau 1000 (valable jusqu'à la version 0.8.9). Toutefois, le record du plus haut niveau atteint est lui connu. Vous trouverez plus d'informations sur le [https://discord.gg/a6DFe4p Discord].
+&lt;/div&gt;
 
 &lt;span id="Battle_Frontier_Shop"&gt;&lt;/span&gt;
 ==Boutique de la Zone de Combat==
@@ -160,12 +164,12 @@ Il n'y a pas de récompenses supplémentaires après avoir atteint le niveau 100
 |-
 |}</text>
     <contributor>
-      <username>Jk13</username>
-      <id>14</id>
+      <username>FuzzyBot</username>
+      <id>133</id>
     </contributor>
-    <comment></comment>
+    <comment>Updating to match new version of source page</comment>
     <model>wikitext</model>
-    <parentid>25292</parentid>
-    <sha1>959f76e8b62e303e3074dfeb38a5a8eaf97e520c</sha1>
+    <parentid>25294</parentid>
+    <sha1>17051b65bb7e5feae7fd4f3e9d688c115eee321b</sha1>
   </revision>
 </page></mediawiki>
