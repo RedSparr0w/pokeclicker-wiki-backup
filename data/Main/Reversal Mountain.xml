@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>1745</id>
   <revision>
-    <id>33059</id>
-    <timestamp>2022-12-08T21:10:45Z</timestamp>
-    <text space="preserve" bytes="4911">{{Infobox dungeon
+    <id>33220</id>
+    <timestamp>2022-12-10T19:43:04Z</timestamp>
+    <text space="preserve" bytes="4957">{{Infobox dungeon
 |name    = Reversal Mountain
 |image   = [[File:Reversal Mountain.png|300px]]
 |caption = A map of Reversal Mountain.
@@ -58,7 +58,9 @@
 |-
 ! Wild Pokémon !! Base Health !! Boss Trainer !! Pokémon Team !! Base Health
 |-
-| [[File:Cacturne.png|40px]] Cacturne || &lt;center&gt;24,000,000 || rowspan=3 colspan=3|&lt;center&gt;N/A 
+| [[File:Cacturne.png|40px]] Cacturne || rowspan=2| &lt;center&gt;24,000,000 || rowspan=4 colspan=3|&lt;center&gt;N/A 
+|-
+| {{Pokemon|Vibrava|Size=40px}}
 |-
 | [[File:Excadrill.png|40px]] Excadrill || &lt;center&gt;26,000,000
 |-
@@ -145,9 +147,9 @@ After Reaching Galar, the drop chance for items in Unova will be debuffed for an
       <username>ThePantMan</username>
       <id>8</id>
     </contributor>
-    <comment>/* Galar */</comment>
+    <comment>/* Added Vibrava to bosses */</comment>
     <model>wikitext</model>
-    <parentid>33051</parentid>
-    <sha1>4649b9d84a86ade6ed1d329270016408ec49e838</sha1>
+    <parentid>33059</parentid>
+    <sha1>1b7d84e937f3b5945622df118ad820d3fe68924b</sha1>
   </revision>
 </page></mediawiki>

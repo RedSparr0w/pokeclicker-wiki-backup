@@ -4,16 +4,25 @@
   <ns>1198</ns>
   <id>9346</id>
   <revision>
-    <id>25278</id>
-    <timestamp>2022-12-04T00:33:26Z</timestamp>
-    <text space="preserve" bytes="13">===Devises===</text>
+    <id>33256</id>
+    <timestamp>2022-12-10T23:51:36Z</timestamp>
+    <text space="preserve" bytes="654">'''Note''' : Les gains ne sont pas remportés si vous quittez de vous-même votre tentative dans la Zone de Combat. Vous devez perdre un niveau pour récupérer l'ensemble de vos [[Pokémon Dollars/fr|Pokédollars]] {{pdollar}} et vos [[Battle Points/fr|Points de Combat]] {{Battlepoints}}.
+{| class="wikitable"
+|-
+! Devise gagnée !! Formule
+|-
+| {{pdollar}} Pokédollars || &lt;math&gt;\text{Étage atteint}^{2}&lt;/math&gt;
+|-
+| {{Battlepoints}} Points de Combat&lt;sup&gt;1&lt;/sup&gt; || &lt;math&gt;\frac{\text{Étage atteint}^{2}}{100}&lt;/math&gt;
+|}
+&lt;small&gt;&lt;sup&gt;1&lt;/sup&gt;Les [[Battle Points/fr|Points de Combat]] {{Battlepoints}} sont arrondis au nombre entier le plus proche&lt;/small&gt;</text>
     <contributor>
-      <username>Jk13</username>
-      <id>14</id>
+      <username>Razikd</username>
+      <id>33</id>
     </contributor>
-    <comment>Imported translation using [[Special:PageMigration|page migration]]</comment>
+    <comment></comment>
     <model>wikitext</model>
-    <parentid>0</parentid>
-    <sha1>b69455d7ab65228fed2e4e816c0dacb554161e97</sha1>
+    <parentid>25278</parentid>
+    <sha1>1823db5de93342a690b0edad2cb64e3e0126d2b4</sha1>
   </revision>
 </page></mediawiki>

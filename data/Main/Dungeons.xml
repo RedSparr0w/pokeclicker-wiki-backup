@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>174</id>
   <revision>
-    <id>33061</id>
-    <timestamp>2022-12-08T21:13:22Z</timestamp>
-    <text space="preserve" bytes="62899">&lt;languages/&gt;
+    <id>33239</id>
+    <timestamp>2022-12-10T22:10:26Z</timestamp>
+    <text space="preserve" bytes="62882">&lt;languages/&gt;
 &lt;translate&gt;
 &lt;!--T:1--&gt;
 '''Dungeons''' include forests, caves, buildings, and other places that are accessible by spending [[Dungeon Tokens]] in which wild Pokémon are encountered. Apart from the entrance fee, they differ from routes in that only 60 seconds are given to find and defeat a "Boss Pokémon" or "Boss Trainer", after which the dungeon is considered cleared.
@@ -387,7 +387,7 @@ Dungeons in [[Unova]] are initially 9x9 in size (81 tiles in total), contain 9 c
 |-
 | [[File:Celestial Tower.png|30px]] [[Celestial Tower]] || Unova Route 7 || style="text-align: right;" | 206,500 {{dungeontokens}} || [[File:Litwick.png|30px]]Litwick || [[File:Psychic_(male).png|30px]] Psychic Bryce ([[File:Elgyem.png|30px]],[[File:Duosion.png|30px]]), [[File:Psychic_(female).png|30px]] Psychic Sarah ([[File:Yamask.png|30px]],[[File:Gothorita.png|30px]])
 |-
-| [[File:Reversal Mountain.png|30px]] [[Reversal Mountain]] || Unova Route 14 || style="text-align: right;" | 226,500 {{dungeontokens}} || [[File:Cacturne.png|30px]]Cacturne, [[File:Excadrill.png|30px]]Excadrill, [[File:Heatran.png|30px]]Heatran || &lt;center&gt;N/A
+| [[File:Reversal Mountain.png|30px]] [[Reversal Mountain]] || Unova Route 14 || style="text-align: right;" | 226,500 {{dungeontokens}} || [[File:Cacturne.png|30px]]Cacturne, {{Pokemon|Vibrava}}, [[File:Excadrill.png|30px]]Excadrill, [[File:Heatran.png|30px]]Heatran || &lt;center&gt;N/A
 |-
 | [[File:Seaside Cave.png|30px]] [[Seaside Cave]] || Unova Route 21 || style="text-align: right;" | 246,500 {{dungeontokens}} || [[File:Eelektrik.png|30px]]Eelektrik, [[File:Crustle.png|30px]]Crustle || &lt;center&gt;N/A
 |-
@@ -519,7 +519,7 @@ Dungeons in [[Alola]] initially have two floors: 10x10 and 5x5 in size, respecti
 |-
 | [[File:Ruins of Hope.png|30px]] [[Ruins of Hope]] || Northeast of Poni Breaker Coast || style="text-align: right;" | 1,200,000 {{dungeontokens}} || [[File:Lumineon.png|30px]]Lumineon, [[File:Granbull.png|30px]]Granbull, [[File:Tapu Fini.png|30px]]Tapu Fini || &lt;center&gt;N/A
 |-
-| [[File:Poni Meadow.png|30px]] [[Poni Meadow]] || North of Poni Plains || style="text-align: right;" | 1,225,000 {{dungeontokens}} || [[File:Floette_(Red).png|30px]]Floette Red, [[File:Oricorio (Sensu).png|30px]]Oricorio (Sensu) || &lt;center&gt;N/A
+| [[File:Poni Meadow.png|30px]] [[Poni Meadow]] || North of Poni Plains || style="text-align: right;" | 1,225,000 {{dungeontokens}} || {{Pokemon|Oricorio (Sensu)}}, {{Pokemon|Floette (Blue)}} || &lt;center&gt;N/A
 |-
 | [[File:Resolution Cave.png|30px]] [[Resolution Cave]] || West of Poni Meadow/South of Poni Gauntlet || style="text-align: right;" | 1,250,000 {{dungeontokens}} || [[File:Golbat.png|30px]]Golbat, [[File:Noivern.png|30px]]Noivern, [[File:Guzzlord.png|30px]]Guzzlord || &lt;center&gt;N/A
 |}
@@ -611,9 +611,9 @@ To complete all dungeon achievements, you would need the following number of Dun
       <username>ThePantMan</username>
       <id>8</id>
     </contributor>
-    <comment>/* Team Plasma Assault is no longer a dungeon */</comment>
+    <comment>/* mon update */</comment>
     <model>wikitext</model>
-    <parentid>33041</parentid>
-    <sha1>7a02fc6f96faeb5fb95a04722e413fcee0e1df9e</sha1>
+    <parentid>33061</parentid>
+    <sha1>97ea72515b4a1917f0de999e855441c1e1ad1e92</sha1>
   </revision>
 </page></mediawiki>

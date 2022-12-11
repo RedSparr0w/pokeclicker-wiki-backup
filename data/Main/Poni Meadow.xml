@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>4075</id>
   <revision>
-    <id>14849</id>
-    <timestamp>2022-07-27T03:11:38Z</timestamp>
-    <text space="preserve" bytes="1945">{{Infobox dungeon
+    <id>33221</id>
+    <timestamp>2022-12-10T19:46:48Z</timestamp>
+    <text space="preserve" bytes="1875">{{Infobox dungeon
 |name    = Poni Meadow
 |image   = [[File:Poni Meadow.png|300px]]
 |caption = A map of Poni Meadow.
@@ -26,19 +26,19 @@
 |-
 ! Encounter !! Trainer !! Pokémon Team
 |-
-| [[File:Magikarp.png|40px]] Magikarp ||rowspan=7|&lt;center&gt;[[File:Actor.png|40px]] Actor Meredith || rowspan=7|&lt;center&gt;[[File:Oricorio (Sensu).png|40px]] Oricorio (sensu)
+| {{Pokemon|Magikarp|Size=40px}} ||rowspan=7|&lt;center&gt;[[File:Actor.png|40px]] Actor Meredith || rowspan=7|&lt;center&gt;{{Pokemon|Oricorio (Sensu)|Size=40px}}
 |-
-| [[File:Dratini.png|40px]] Dratini
+| {{Pokemon|Dratini|Size=40px}}
 |-
-| [[File:Cottonee.png|40px]] Cottonee
+| {{Pokemon|Cottonee|Size=40px}}
 |-
-| [[File:Petilil.png|40px]] Petilil
+| {{Pokemon|Petilil|Size=40px}}
 |-
-| [[File:Ribombee.png|40px]] Ribombee
+| {{Pokemon|Ribombee|Size=40px}}
 |-
-| [[File:Misdreavus.png|40px]] Misdreavus
+| {{Pokemon|Misdreavus|Size=40px}}
 |-
-| [[File:Barboach.png|40px]] Barboach
+| {{Pokemon|Barboach|Size=40px}}
 |-
 |}
 
@@ -47,10 +47,9 @@
 |-
 ! Wild Pokémon !! Base Health !! Boss Trainer !! Pokémon Team !! Base Health
 |-
-| [[File:Floette (Red).png|50px]] Floette Red ||rowspan=2|&lt;center&gt;83,299,840 ||rowspan=2 colspan=3|&lt;center&gt;N/A
+| {{Pokemon|Oricorio (Sensu)|Size=40px}} ||rowspan=2|&lt;center&gt;83,299,840 ||rowspan=2 colspan=3|&lt;center&gt;N/A
 |-
-| [[File:Oricorio (Sensu).png|50px]] Oricorio (Sensu)
-|-
+| {{Pokemon|Floette (Blue)|Size=50px}} 
 |}
 
 
@@ -82,12 +81,12 @@
 {{Alola Dungeons}}
 [[Category:Dungeons|^Region #7 - Alola^zc]]</text>
     <contributor>
-      <username>LatiosRider</username>
-      <id>35</id>
+      <username>ThePantMan</username>
+      <id>8</id>
     </contributor>
-    <comment>Add Category header</comment>
+    <comment>/* dungeon bosses */</comment>
     <model>wikitext</model>
-    <parentid>14848</parentid>
-    <sha1>8ea69aafc2759b0ebd850b3f54ac71375f7d5c67</sha1>
+    <parentid>14849</parentid>
+    <sha1>23fb55d4f52cea80ba6d227e34f5eb66305fe074</sha1>
   </revision>
 </page></mediawiki>

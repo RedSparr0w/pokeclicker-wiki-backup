@@ -4,25 +4,18 @@
   <ns>1198</ns>
   <id>9347</id>
   <revision>
-    <id>25280</id>
-    <timestamp>2022-12-04T00:33:31Z</timestamp>
-    <text space="preserve" bytes="635">'''Note''' : Les gains ne sont pas remportés dans la Zone de Combat lorsque vous quittez par vous même. Vous devez perdre un niveau pour récupérer l'ensemble de vos [[Pokémon Dollars|Pokédollars]] {{pdollar}} et vos [[Battle Points|Points de Combat]] {{Battlepoints}}.
-{| class="wikitable"
-|-
-! Devise gagnée !! Formula
-|-
-| {{pdollar}} Pokédollars || &lt;math&gt;\text{Niveau atteint}^{2}&lt;/math&gt;
-|-
-| {{Battlepoints}} Points de Combat&lt;sup&gt;1&lt;/sup&gt; || &lt;math&gt;\frac{\text{Niveau atteint}^{2}}{100}&lt;/math&gt;
-|}
-&lt;small&gt;&lt;sup&gt;1&lt;/sup&gt;Les [[Battle Points|Points de Combat]] {{Battlepoints}} sont arrondis au nombre entier le plus proche&lt;/small&gt;</text>
+    <id>33258</id>
+    <timestamp>2022-12-10T23:53:52Z</timestamp>
+    <text space="preserve" bytes="295">===Objets &amp; Pokémon===
+''Note : Les points de vie des Pokémon adverses sont calculés selon la formule suivante, arrondis à l'inférieur : ''&lt;br&gt;
+&lt;math&gt;\text{PV adverses} = \text{Arrondi}[\left ( \frac{100}{12} \times (\text{Étage actuel} + 10)^{2,2}\right )^{1,15} \times (1 - 0,05)]&lt;/math&gt;</text>
     <contributor>
-      <username>Jk13</username>
-      <id>14</id>
+      <username>Razikd</username>
+      <id>33</id>
     </contributor>
-    <comment>Imported translation using [[Special:PageMigration|page migration]]</comment>
+    <comment></comment>
     <model>wikitext</model>
-    <parentid>0</parentid>
-    <sha1>5c035bfe8a09e9115b768c5772a2abd2fda450d0</sha1>
+    <parentid>25280</parentid>
+    <sha1>d7dd3c3030e8ff6a756d5eca563ef946b9015412</sha1>
   </revision>
 </page></mediawiki>
