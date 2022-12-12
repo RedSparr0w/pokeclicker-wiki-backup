@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>424</id>
   <revision>
-    <id>33000</id>
-    <timestamp>2022-12-08T16:08:03Z</timestamp>
-    <text space="preserve" bytes="2876">{{Infobox dungeon
+    <id>33552</id>
+    <timestamp>2022-12-12T01:50:11Z</timestamp>
+    <text space="preserve" bytes="2960">{{Infobox dungeon
 |name    = Oreburgh Gate
 |image   = [[File:Oreburgh Gate.png|300px]]
 |caption = A map of Oreburgh Gate.
@@ -54,55 +54,55 @@
 ==Items==
 
 &lt;tabs&gt;
-&lt;tab name="No Debuff"&gt;
+&lt;tab name="Base"&gt;
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears
 |-
 | align="center" colspan=6| '''Common'''
 |-
-| {{Bag2|xAttack}} || 2 || 50.49% || 48.88% || 42.13%
+| {{Bag2|xAttack}} || 2 || 50.49% || 48.88% || 46.40% || 42.13%
 |-
-| {{Bag2|Dowsing Machine}} || N/A || 25.24% || 24.44% || 21.06%
+| {{Bag2|Dowsing Machine}} || 1 || 25.24% || 24.44% || 23.20% || 21.06%
 |-
 | align="center" colspan=6| '''Rare'''
 |-
-| {{Bag2|Blue Shard}} || N/A || 10.11% || 10.69% || 13.14%
+| {{Bag2|Blue Shard}} || 1 || 10.11% || 10.69% || 11.59% || 13.14%
 |-
-| {{Bag2|Green Shard}} || N/A || 10.11% || 10.69% || 13.14%
+| {{Bag2|Green Shard}} || 1 || 10.11% || 10.69% || 11.59% || 13.14%
 |-
 | align="center" colspan=6| '''Epic'''
 |-
-| {{Bag2|Earth Plate}} || N/A || 2.03% || 2.65% || 5.27%
+| {{Bag2|Earth Plate}} || 1 || 2.03% || 2.65% || 3.61% || 5.27%
 |-
-| {{Bag2|Fist Plate}} || N/A || 2.03% || 2.65% || 5.27%
+| {{Bag2|Fist Plate}} || 1 || 2.03% || 2.65% || 3.61% || 5.27%
 |}
 &lt;/tab&gt;
 
 &lt;tab name="Debuff"&gt;
-After Reaching Alola, the drop chance for items in Sinnoh will be debuffed for any loot with a Tier rarer than Rare (ie: Epic, Legendary, Mythic).
+After reaching [[Alola]], the drop chance for items will be [[Dungeons#Dungeon Loot Regional Debuff|debuffed]].
 
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears
 |-
 | align="center" colspan=6| '''Common'''
 |-
-| {{Bag2|xAttack}} || 2 || 50.05% || 50.05% || 50.05%
+| {{Bag2|xAttack}} || 2 || 50.05% || 50.05% || 50.05% || 50.05%
 |-
-| {{Bag2|Dowsing Machine}} || N/A || 25.03% || 25.03% || 25.03%
+| {{Bag2|Dowsing Machine}} || 1 || 25.03% || 25.03% || 25.03% || 25.03%
 |-
 | align="center" colspan=6| '''Rare'''
 |-
-| {{Bag2|Blue Shard}} || N/A || 12.01% || 12.01% || 12.01%
+| {{Bag2|Blue Shard}} || 1 || 12.01% || 12.01% || 12.01% || 12.01%
 |-
-| {{Bag2|Green Shard}} || N/A || 12.01% || 12.01% || 12.01%
+| {{Bag2|Green Shard}} || 1 || 12.01% || 12.01% || 12.01% || 12.01%
 |-
 | align="center" colspan=6| '''Epic'''
 |-
-| {{Bag2|Earth Plate}} || N/A || 0.45% || 0.45% || 0.45%
+| {{Bag2|Earth Plate}} || 1 || 0.45% || 0.45% || 0.45% || 0.45%
 |-
-| {{Bag2|Fist Plate}} || N/A || 0.45% || 0.45% || 0.45%
+| {{Bag2|Fist Plate}} || 1 || 0.45% || 0.45% || 0.45% || 0.45%
 |}
 &lt;/tab&gt;
 &lt;/tabs&gt;
@@ -114,9 +114,9 @@ After Reaching Alola, the drop chance for items in Sinnoh will be debuffed for a
       <username>ThePantMan</username>
       <id>8</id>
     </contributor>
-    <comment>/* Tabs */</comment>
+    <comment>/* loot */</comment>
     <model>wikitext</model>
-    <parentid>5598</parentid>
-    <sha1>7546bf84de9a1bd2fcf3529482724a5a57235733</sha1>
+    <parentid>33000</parentid>
+    <sha1>c23c00546c1bf0dff8f0f5086c7542a491b2cdfa</sha1>
   </revision>
 </page></mediawiki>

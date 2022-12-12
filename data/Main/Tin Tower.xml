@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>370</id>
   <revision>
-    <id>32915</id>
-    <timestamp>2022-12-08T02:48:19Z</timestamp>
-    <text space="preserve" bytes="3220">{{Infobox dungeon
+    <id>33503</id>
+    <timestamp>2022-12-12T00:42:32Z</timestamp>
+    <text space="preserve" bytes="3371">{{Infobox dungeon
 |name    = Tin Tower
 |image   = [[File:Tin Tower.png|thumb]]
 |caption = A map of Tin Tower.
@@ -47,80 +47,79 @@
 ==Items==
 
 &lt;tabs&gt;
-&lt;tab name="No Debuff"&gt;
-
+&lt;tab name="Base"&gt;
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears
 |-
 | align="center" colspan=6| '''Common'''
 |-
-| {{Bag2|xClick}} || N/A || 39.05% || 37.97% || 33.33%
+| {{Bag2|xClick}} || 1 || 39.05% || 37.97% || 36.29% || 33.33%
 |-
-| {{Bag2|Token Collector}} || N/A || 39.05% || 37.97% || 33.33%
+| {{Bag2|Token Collector}} || 1 || 39.05% || 37.97% || 36.29% || 33.33%
 |-
 | align="center" colspan=6| '''Rare'''
 |-
-| {{Bag2|Red Shard}} || N/A || 10.42% || 11.07% || 13.86%
+| {{Bag2|Red Shard}} || 1 || 10.42% || 11.07% || 12.08% || 13.86%
 |-
-| {{Bag2|Grey Shard}} || N/A || 10.42% || 11.07% || 13.86%
+| {{Bag2|Grey Shard}} || 1 || 10.42% || 11.07% || 12.08% || 13.86%
 |-
 | align="center" colspan=6| '''Legendary'''
 |-
-| {{Bag2|Medium Restore}} || N/A || 0.17% || 0.28% || 0.74%
+| {{Bag2|Medium Restore}} || 1 || 0.17% || 0.28% || 0.45% || 0.74%
 |-
-| {{Bag2|Ultraball}} || N/A || 0.17% || 0.28% || 0.74%
+| {{Bag2|Ultraball}} || 1 || 0.17% || 0.28% || 0.45% || 0.74%
 |-
-| {{Bag2|Flame Plate}} || N/A || 0.17% || 0.28% || 0.74%
+| {{Bag2|Flame Plate}} || 1 || 0.17% || 0.28% || 0.45% || 0.74%
 |-
-| {{Bag2|Spooky Plate}} || N/A || 0.17% || 0.28% || 0.74%
+| {{Bag2|Spooky Plate}} || 1 || 0.17% || 0.28% || 0.45% || 0.74%
 |-
-| {{Bag2|Sky Plate}} || N/A || 0.17% || 0.28% || 0.74%
+| {{Bag2|Sky Plate}} || 1 || 0.17% || 0.28% || 0.45% || 0.74%
 |-
-| {{Bag2|Sharp Beak}} || N/A || 0.17% || 0.28% || 0.74%
+| {{Bag2|Sharp Beak}} || 1 || 0.17% || 0.28% || 0.45% || 0.74%
 |-
 | align="center" colspan=6| '''Mythic'''
 |-
-| {{Bag2|Max Revive}} || N/A || 0.01% || 0.23% || 1.18%
+| {{Bag2|Max Revive}} || 1 || 0.01% || 0.23% || 0.58% || 1.18%
 |}
 &lt;/tab&gt;
 
 &lt;tab name="Debuff"&gt;
-After Reaching Unova, the drop chance for items in Johto will be debuffed for any loot with a Tier rarer than Rare (ie: Epic, Legendary, Mythic).
+After reaching [[Unova]], the drop chance for items will be [[Dungeons#Dungeon Loot Regional Debuff|debuffed]].
 
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears
 |-
 | align="center" colspan=6| '''Common'''
 |-
-| {{Bag2|xClick}} || N/A || 37.84% || 37.84% || 37.84%
+| {{Bag2|xClick}} || 1 || 37.84% || 37.84% || 37.84% || 37.84%
 |-
-| {{Bag2|Token Collector}} || N/A || 37.84% || 37.84% || 37.84%
+| {{Bag2|Token Collector}} || 1 || 37.84% || 37.84% || 37.84% || 37.84%
 |-
 | align="center" colspan=6| '''Rare'''
 |-
-| {{Bag2|Red Shard}} || N/A || 12.11% || 12.11% || 12.11%
+| {{Bag2|Red Shard}} || 1 || 12.11% || 12.11% || 12.11% || 12.11%
 |-
-| {{Bag2|Grey Shard}} || N/A || 12.11% || 12.11% || 12.11%
+| {{Bag2|Grey Shard}} || 1 || 12.11% || 12.11% || 12.11% || 12.11%
 |-
 | align="center" colspan=6| '''Legendary'''
 |-
-| {{Bag2|Medium Restore}} || N/A || 0.02% || 0.02% || 0.02%
+| {{Bag2|Medium Restore}} || 1 || 0.02% || 0.02% || 0.02% || 0.02%
 |-
-| {{Bag2|Ultraball}} || N/A || 0.02% || 0.02% || 0.02%
+| {{Bag2|Ultraball}} || 1 || 0.02% || 0.02% || 0.02% || 0.02%
 |-
-| {{Bag2|Flame Plate}} || N/A || 0.02% || 0.02% || 0.02%
+| {{Bag2|Flame Plate}} || 1 || 0.02% || 0.02% || 0.02% || 0.02%
 |-
-| {{Bag2|Spooky Plate}} || N/A || 0.02% || 0.02% || 0.02%
+| {{Bag2|Spooky Plate}} || 1 || 0.02% || 0.02% || 0.02% || 0.02%
 |-
-| {{Bag2|Sky Plate}} || N/A || 0.02% || 0.02% || 0.02%
+| {{Bag2|Sky Plate}} || 1 || 0.02% || 0.02% || 0.02% || 0.02%
 |-
-| {{Bag2|Sharp Beak}} || N/A || 0.02% || 0.02% || 0.02%
+| {{Bag2|Sharp Beak}} || 1 || 0.02% || 0.02% || 0.02% || 0.02%
 |-
 | align="center" colspan=6| '''Mythic'''
 |-
-| {{Bag2|Max Revive}} || N/A || &lt;0.01% || &lt;0.01% || &lt;0.01%
+| {{Bag2|Max Revive}} || 1 || &lt;0.01% || &lt;0.01% || &lt;0.01% || &lt;0.01%
 |}
 &lt;/tab&gt;
 &lt;/tabs&gt;
@@ -132,9 +131,9 @@ After Reaching Unova, the drop chance for items in Johto will be debuffed for an
       <username>ThePantMan</username>
       <id>8</id>
     </contributor>
-    <comment>/* Loot update */</comment>
+    <comment>/* loot */</comment>
     <model>wikitext</model>
-    <parentid>5260</parentid>
-    <sha1>5cc2486cfbbf9d640f5d62fef2171e5251cdcd9f</sha1>
+    <parentid>32915</parentid>
+    <sha1>3649da869bfd15175be81997e597e1bcdef91b9c</sha1>
   </revision>
 </page></mediawiki>

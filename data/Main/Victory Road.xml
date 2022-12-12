@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>329</id>
   <revision>
-    <id>32904</id>
-    <timestamp>2022-12-08T02:32:01Z</timestamp>
-    <text space="preserve" bytes="5594">{{Infobox dungeon
+    <id>33485</id>
+    <timestamp>2022-12-12T00:24:23Z</timestamp>
+    <text space="preserve" bytes="5747">{{Infobox dungeon
 |name    = Victory Road
 |image   = [[File:Victory Road.png|thumb]]
 |caption = A map of Victory Road.
@@ -60,80 +60,79 @@
 ==Items==
 
 &lt;tabs&gt;
-&lt;tab name="No Debuff"&gt;
-
+&lt;tab name="Base"&gt;
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears
 |-
-| align="center" colspan=5| '''Common'''
+| align="center" colspan=6| '''Common'''
 |-
-| {{Bag2|xClick}} || N/A || 39.05% || 37.97% || 33.33%
+| {{Bag2|xClick}} || 1 || 39.05% || 37.97% || 36.29% || 33.33%
 |-
-| {{Bag2|Lucky Egg}} || N/A || 39.05% || 37.97% || 33.33%
+| {{Bag2|Lucky Egg}} || 1 || 39.05% || 37.97% || 36.29% || 33.33%
 |-
-| align="center" colspan=5| '''Rare'''
+| align="center" colspan=6| '''Rare'''
 |-
-| {{Bag2|Blue Shard}} || N/A || 5.21% || 5.54% || 6.93%
+| {{Bag2|Blue Shard}} || 1 || 5.21% || 5.54% || 6.04% || 6.93%
 |-
-| {{Bag2|Green Shard}} || N/A || 5.21% || 5.54% || 6.93%
+| {{Bag2|Green Shard}} || 1 || 5.21% || 5.54% || 6.04% || 6.93%
 |-
-| {{Bag2|Red Shard}} || N/A || 5.21% || 5.54% || 6.93%
+| {{Bag2|Red Shard}} || 1 || 5.21% || 5.54% || 6.04% || 6.93%
 |-
-| {{Bag2|Yellow Shard}} || N/A || 5.21% || 5.54% || 6.93%
+| {{Bag2|Yellow Shard}} || 1 || 5.21% || 5.54% || 6.04% || 6.93%
 |-
-| align="center" colspan=5| '''Legendary'''
+| align="center" colspan=6| '''Legendary'''
 |-
-| {{Bag2|Ultraball}} || N/A || 0.52% || 0.84% || 2.22%
+| {{Bag2|Ultraball}} || 1 || 0.52% || 0.84% || 1.34% || 2.22%
 |-
-| {{Bag2|Small Restore}} || N/A || 0.52% || 0.84% || 2.22%
+| {{Bag2|Small Restore}} || 1 || 0.52% || 0.84% || 1.34% || 2.22%
 |-
-| align="center" colspan=5| '''Mythic'''
+| align="center" colspan=6| '''Mythic'''
 |-
-| {{Bag2|Max Revive}} || 2 || 0.01% || 0.12% || 0.59%
+| {{Bag2|Max Revive}} || 2 || 0.01% || 0.12% || 0.29% || 0.59%
 |-
-| {{Bag2|Star Piece}} || N/A || &lt;0.01% || 0.06% || 0.29%
+| {{Bag2|Star Piece}} || 1 || &lt;0.01% || 0.06% || 0.14% || 0.29%
 |-
-| {{Bag2|Heart Scale}} || N/A || &lt;0.01% || 0.06% || 0.29%
+| {{Bag2|Heart Scale}} || 1 || &lt;0.01% || 0.06% || 0.14% || 0.29%
 |}
 &lt;/tab&gt;
 
 &lt;tab name="Debuff"&gt;
-After Reaching Sinnoh, the drop chance for items in Kanto will be debuffed for any loot with a Tier rarer than Rare (ie: Epic, Legendary, Mythic).
+After reaching [[Sinnoh]], the drop chance for items will be [[Dungeons#Dungeon Loot Regional Debuff|debuffed]].
 
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears
 |-
-| align="center" colspan=5| '''Common'''
+| align="center" colspan=6| '''Common'''
 |-
-| {{Bag2|xClick}} || N/A || 37.84% || 37.84% || 37.84%
+| {{Bag2|xClick}} || 1 || 37.84% || 37.84% || 37.84% || 37.84%
 |-
-| {{Bag2|Lucky Egg}} || N/A || 37.84% || 37.84% || 37.84%
+| {{Bag2|Lucky Egg}} || 1 || 37.84% || 37.84% || 37.84% || 37.84%
 |-
-| align="center" colspan=5| '''Rare'''
+| align="center" colspan=6| '''Rare'''
 |-
-| {{Bag2|Blue Shard}} || N/A || 6.05% || 6.05% || 6.05%
+| {{Bag2|Blue Shard}} || 1 || 6.05% || 6.05% || 6.05% || 6.05%
 |-
-| {{Bag2|Green Shard}} || N/A || 6.05% || 6.05% || 6.05%
+| {{Bag2|Green Shard}} || 1 || 6.05% || 6.05% || 6.05% || 6.05%
 |-
-| {{Bag2|Red Shard}} || N/A || 6.05% || 6.05% || 6.05%
+| {{Bag2|Red Shard}} || 1 || 6.05% || 6.05% || 6.05% || 6.05%
 |-
-| {{Bag2|Yellow Shard}} || N/A || 6.05% || 6.05% || 6.05%
+| {{Bag2|Yellow Shard}} || 1 || 6.05% || 6.05% || 6.05% || 6.05%
 |-
-| align="center" colspan=5| '''Legendary'''
+| align="center" colspan=6| '''Legendary'''
 |-
-| {{Bag2|Ultraball}} || N/A || 0.05% || 0.05% || 0.05%
+| {{Bag2|Ultraball}} || 1 || 0.05% || 0.05% || 0.05% || 0.05%
 |-
-| {{Bag2|Small Restore}} || N/A || 0.05% || 0.05% || 0.05%
+| {{Bag2|Small Restore}} || 1 || 0.05% || 0.05% || 0.05% || 0.05%
 |-
-| align="center" colspan=5| '''Mythic'''
+| align="center" colspan=6| '''Mythic'''
 |-
-| {{Bag2|Max Revive}} || 2 || &lt;0.01% || &lt;0.01% || &lt;0.01%
+| {{Bag2|Max Revive}} || 2 || &lt;0.01% || &lt;0.01% || &lt;0.01% || &lt;0.01%
 |-
-| {{Bag2|Star Piece}} || N/A || &lt;0.01% || &lt;0.01% || &lt;0.01%
+| {{Bag2|Star Piece}} || 1 || &lt;0.01% || &lt;0.01% || &lt;0.01% || &lt;0.01%
 |-
-| {{Bag2|Heart Scale}} || N/A || &lt;0.01% || &lt;0.01% || &lt;0.01%
+| {{Bag2|Heart Scale}} || 1 || &lt;0.01% || &lt;0.01% || &lt;0.01% || &lt;0.01%
 |}
 &lt;/tab&gt;
 &lt;/tabs&gt;
@@ -146,9 +145,9 @@ After Reaching Sinnoh, the drop chance for items in Kanto will be debuffed for a
       <username>ThePantMan</username>
       <id>8</id>
     </contributor>
-    <comment>/* Black Belt to trainer sprite */</comment>
+    <comment>/* small fix */</comment>
     <model>wikitext</model>
-    <parentid>32903</parentid>
-    <sha1>275d2eab2bbc7cae374a71990cfe6fb4bb58d725</sha1>
+    <parentid>33469</parentid>
+    <sha1>15f736f71b2ffbd63cb5acb5a8d79fcd82b046a4</sha1>
   </revision>
 </page></mediawiki>

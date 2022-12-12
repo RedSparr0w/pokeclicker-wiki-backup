@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>350</id>
   <revision>
-    <id>32987</id>
-    <timestamp>2022-12-08T15:50:33Z</timestamp>
-    <text space="preserve" bytes="3259">{{Infobox dungeon
+    <id>33541</id>
+    <timestamp>2022-12-12T01:35:41Z</timestamp>
+    <text space="preserve" bytes="3339">{{Infobox dungeon
 |name    = Mt. Chimney Crater
 |image   = [[File:Mt. Chimney.png|300px]]
 |caption = A map of Mt. Chimney Crater.
@@ -48,60 +48,59 @@
 ==Items==
 
 &lt;tabs&gt;
-&lt;tab name="No Debuff"&gt;
-
+&lt;tab name="Base"&gt;
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears !! Requirement 
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears !! Requirement
 |-
-| align="center" colspan=6| '''Common'''
+| align="center" colspan=7| '''Common'''
 |-
-| {{Bag2|xAttack}} || 2 || 52.07% || 50.63% || 44.44% || rowspan=2|&lt;center&gt; N/A
+| {{Bag2|xAttack}} || 2 || 52.07% || 50.63% || 48.39% || 44.44% || rowspan=2| &lt;center&gt;N/A
 |-
-| {{Bag2|Token Collector}} || N/A || 26.03% || 25.32% || 22.22%
+| {{Bag2|Token Collector}} || 1 || 26.03% || 25.32% || 24.19% || 22.22%
 |-
-| align="center" colspan=6| '''Rare'''
+| align="center" colspan=7| '''Rare'''
 |-
-| {{Bag2|Red Shard}} || N/A || 10.42% || 11.07% || 13.86% || rowspan=2|&lt;center&gt; N/A
+| {{Bag2|Red Shard}} || 1 || 10.42% || 11.07% || 12.08% || 13.86% || rowspan=2| &lt;center&gt;N/A
 |-
-| {{Bag2|Blue Shard}} || N/A || 10.42% || 11.07% || 13.86%
+| {{Bag2|Blue Shard}} || 1 || 10.42% || 11.07% || 12.08% || 13.86%
 |-
-| align="center" colspan=6| '''Legendary'''
+| align="center" colspan=7| '''Legendary'''
 |-
-| {{Bag2|Flame Plate}} || N/A || 1.04% || 1.68% || 4.43% || &lt;center&gt; N/A
+| {{Bag2|Flame Plate}} || 1 || 1.04% || 1.68% || 2.68% || 4.43% || &lt;center&gt;N/A
 |-
-| align="center" colspan=6| '''Mythic'''
+| align="center" colspan=7| '''Mythic'''
 |-
-| {{Bag2|Protein}} || N/A || 0% || 0% || 1.18% || 400 Clears
+| {{Bag2|Protein}} || 1 || N/A || N/A || N/A || 1.18% || 400 Clears
 |}
 &lt;/tab&gt;
 
 &lt;tab name="Debuff"&gt;
-After Reaching Kalos, the drop chance for items in Hoenn will be debuffed for any loot with a Tier rarer than Rare (ie: Epic, Legendary, Mythic).
+After reaching [[Kalos]], the drop chance for items will be [[Dungeons#Dungeon Loot Regional Debuff|debuffed]].
 
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears !! Requirement 
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears !! Requirement
 |-
-| align="center" colspan=6| '''Common'''
+| align="center" colspan=7| '''Common'''
 |-
-| {{Bag2|xAttack}} || 2 || 50.45% || 50.45% || 50.45% || rowspan=2|&lt;center&gt; N/A
+| {{Bag2|xAttack}} || 2 || 50.45% || 50.45% || 50.45% || 50.45% || rowspan=2| &lt;center&gt;N/A
 |-
-| {{Bag2|Token Collector}} || N/A || 25.23% || 25.23% || 25.23%
+| {{Bag2|Token Collector}} || 1 || 25.23% || 25.23% || 25.23% || 25.23%
 |-
-| align="center" colspan=6| '''Rare'''
+| align="center" colspan=7| '''Rare'''
 |-
-| {{Bag2|Red Shard}} || N/A || 12.11% || 12.11% || 12.11% || rowspan=2|&lt;center&gt; N/A
+| {{Bag2|Red Shard}} || 1 || 12.11% || 12.11% || 12.11% || 12.11% || rowspan=2| &lt;center&gt;N/A
 |-
-| {{Bag2|Blue Shard}} || N/A || 12.11% || 12.11% || 12.11%
+| {{Bag2|Blue Shard}} || 1 || 12.11% || 12.11% || 12.11% || 12.11%
 |-
-| align="center" colspan=6| '''Legendary'''
+| align="center" colspan=7| '''Legendary'''
 |-
-| {{Bag2|Flame Plate}} || N/A || 0.10% || 0.10% || 0.10% || &lt;center&gt; N/A
+| {{Bag2|Flame Plate}} || 1 || 0.10% || 0.10% || 0.10% || 0.10% || &lt;center&gt;N/A
 |-
-| align="center" colspan=6| '''Mythic'''
+| align="center" colspan=7| '''Mythic'''
 |-
-| {{Bag2|Protein}} || N/A || 0% || 0% || &lt;0.01% || 400 Clears
+| {{Bag2|Protein}} || 1 || N/A || N/A || N/A || &lt;0.01% || 400 Clears
 |}
 &lt;/tab&gt;
 &lt;/tabs&gt;
@@ -113,9 +112,9 @@ After Reaching Kalos, the drop chance for items in Hoenn will be debuffed for an
       <username>ThePantMan</username>
       <id>8</id>
     </contributor>
-    <comment>/* Tabs */</comment>
+    <comment>/* not Kanto */</comment>
     <model>wikitext</model>
-    <parentid>5100</parentid>
-    <sha1>be13420ea974ce8ce2f895fa8f430adc530bd3cd</sha1>
+    <parentid>33526</parentid>
+    <sha1>a2f1288b4bc88b4e3eb446d9164becd1f25ed5c2</sha1>
   </revision>
 </page></mediawiki>

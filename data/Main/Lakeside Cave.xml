@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>10166</id>
   <revision>
-    <id>30079</id>
-    <timestamp>2022-12-04T21:55:18Z</timestamp>
-    <text space="preserve" bytes="2218">{{Infobox dungeon
+    <id>33424</id>
+    <timestamp>2022-12-11T22:06:29Z</timestamp>
+    <text space="preserve" bytes="2337">{{Infobox dungeon
 |name    = Lakeside Cave
 |image   = [[File:Lakeside Cave.png|thumb]]
 |caption = A map of Lakeside Cave.
@@ -57,47 +57,49 @@
 |}
 
 ==Items==
-
+&lt;tabs&gt;
+&lt;tab name="Base"&gt;
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears
 |-
-| align="center" colspan=5| '''Common'''
+| align="center" colspan=6| '''Common'''
 |-
-| {{Bag2|xClick}} || N/A || 37.49% || 36.08% || 30.32%
+| {{Bag2|xClick}} || 1 || 37.49% || 36.08% || 33.93% || 30.32%
 |-
-| {{Bag2|Token Collector}} || N/A || 37.49% || 36.08% || 30.32%
+| {{Bag2|Token Collector}} || 1 || 37.49% || 36.08% || 33.93% || 30.32%
 |-
-| align="center" colspan=5| '''Rare'''
+| align="center" colspan=6| '''Rare'''
 |-
-| {{Bag2|Grey Shard}} || N/A || 10.01% || 10.52% || 12.61%
+| {{Bag2|Grey Shard}} || 1 || 10.01% || 10.52% || 11.30% || 12.61%
 |-
-| {{Bag2|Brown Shard}} || N/A || 10.01% || 10.52% || 12.61%
+| {{Bag2|Brown Shard}} || 1 || 10.01% || 10.52% || 11.30% || 12.61%
 |-
-| align="center" colspan=5| '''Epic'''
+| align="center" colspan=6| '''Epic'''
 |-
-| {{Bag2|Duskball}} || N/A || 4.01% || 5.21% || 10.11%
+| {{Bag2|Duskball}} || 1 || 4.01% || 5.21% || 7.04% || 10.11%
 |-
-| align="center" colspan=5| '''Legendary'''
+| align="center" colspan=6| '''Legendary'''
 |-
-| {{Bag2|Rare Bone}} || N/A || 0.25% || 0.40% || 1.01%
+| {{Bag2|Rare Bone}} || 1 || 0.25% || 0.40% || 0.63% || 1.01%
 |-
-| {{Bag2|Star Piece}} || N/A || 0.25% || 0.40% || 1.01%
+| {{Bag2|Star Piece}} || 1 || 0.25% || 0.40% || 0.63% || 1.01%
 |-
-| {{Bag2|Hard Stone}} || N/A || 0.25% || 0.40% || 1.01%
+| {{Bag2|Hard Stone}} || 1 || 0.25% || 0.40% || 0.63% || 1.01%
 |-
-| {{Bag2|Everstone}} || N/A || 0.25% || 0.40% || 1.01%
+| {{Bag2|Everstone}} || 1 || 0.25% || 0.40% || 0.63% || 1.01%
 |}
-
+&lt;/tab&gt;
+&lt;/tabs&gt;
 {{Galar Dungeons}}
 [[Category:Dungeons|^Region #8 - Galar^c]]</text>
     <contributor>
-      <username>CypherX</username>
-      <id>15</id>
+      <username>Jk13</username>
+      <id>14</id>
     </contributor>
-    <comment>Created page with "{{Infobox dungeon |name    = Lakeside Cave |image   = [[File:Lakeside Cave.png|thumb]] |caption = A map of Lakeside Cave. |tokens  = 1,750,000 |location = South of Rock Peak Ruins, northeast of Ballimere Lake }} '''Lakeside Cave''' is a [[Dungeons|dungeon]] in [[Galar]]. It initially has 125 tiles arranged in two floors: 10x10 and 6x6 in size, respectively; including 16 chest tiles, 38 non-boss encounter tiles, 1 ladder tile, and 1 boss encounter tile. Wild Encounters ha..."</comment>
+    <comment>/* Items */</comment>
     <model>wikitext</model>
-    <parentid>0</parentid>
-    <sha1>f9e603e9c12027d4df30acd8a932e432d7f36534</sha1>
+    <parentid>30079</parentid>
+    <sha1>a69c4239e00889e134b8c3548681a04daa1e22db</sha1>
   </revision>
 </page></mediawiki>

@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>378</id>
   <revision>
-    <id>32920</id>
-    <timestamp>2022-12-08T03:04:34Z</timestamp>
-    <text space="preserve" bytes="3053">{{Infobox dungeon
+    <id>33531</id>
+    <timestamp>2022-12-12T01:32:34Z</timestamp>
+    <text space="preserve" bytes="3177">{{Infobox dungeon
 |name    = Ice Path
 |image   = [[File:Ice Path.png|thumb]]
 |caption = A map of Ice Path.
@@ -43,71 +43,71 @@
 ==Items==
 
 &lt;tabs&gt;
-&lt;tab name="No Debuff"&gt;
+&lt;tab name="Base"&gt;
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears !! Requirement
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears !! Requirement
 |-
-| align="center" colspan=6| '''Common'''
+| align="center" colspan=7| '''Common'''
 |-
-| {{Bag2|xClick}} || N/A || 26.03% || 25.32% || 22.22% || rowspan=3| &lt;center&gt;N/A
+| {{Bag2|xClick}} || 1 || 26.03% || 25.32% || 24.19% || 22.22% || rowspan=3| &lt;center&gt;N/A
 |-
-| {{Bag2|Lucky Egg}} || N/A || 26.03% || 25.32% || 22.22%
+| {{Bag2|Lucky Egg}} || 1 || 26.03% || 25.32% || 24.19% || 22.22%
 |-
-| {{Bag2|Token Collector}} || N/A || 26.03% || 25.32% || 22.22%
+| {{Bag2|Token Collector}} || 1 || 26.03% || 25.32% || 24.19% || 22.22%
 |-
-| align="center" colspan=6| '''Rare'''
+| align="center" colspan=7| '''Rare'''
 |-
-| {{Bag2|Yellow Shard}} || N/A || 10.42% || 11.07% || 13.86% || rowspan=2| &lt;center&gt;N/A
+| {{Bag2|Yellow Shard}} || 1 || 10.42% || 11.07% || 12.08% || 13.86% || rowspan=2| &lt;center&gt;N/A
 |-
-| {{Bag2|Purple Shard}} || N/A || 10.42% || 11.07% || 13.86%
+| {{Bag2|Purple Shard}} || 1 || 10.42% || 11.07% || 12.08% || 13.86%
 |-
-| align="center" colspan=6| '''Legendary'''
+| align="center" colspan=7| '''Legendary'''
 |-
-| {{Bag2|Icicle Plate}} || N/A || 0.35% || 0.56% || 1.48% || rowspan=3| &lt;center&gt;N/A
+| {{Bag2|Icicle Plate}} || 1 || 0.35% || 0.56% || 0.89% || 1.48% || rowspan=3| &lt;center&gt;N/A
 |-
-| {{Bag2|Revive}} || N/A || 0.35% || 0.56% || 1.48%
+| {{Bag2|Revive}} || 1 || 0.35% || 0.56% || 0.89% || 1.48%
 |-
-| {{Bag2|Never Melt Ice}} || N/A || 0.35% || 0.56% || 1.48%
+| {{Bag2|Never Melt Ice}} || 1 || 0.35% || 0.56% || 0.89% || 1.48%
 |-
-| align="center" colspan=6| '''Mythic'''
+| align="center" colspan=7| '''Mythic'''
 |-
-| {{Bag2|Protein}} || N/A || 0% || 0% || 1.18% || 450 Clears
+| {{Bag2|Protein}} || 1 || N/A || N/A || N/A || 1.18% || 450 Clears
 |}
 &lt;/tab&gt;
 
 &lt;tab name="Debuff"&gt;
-After Reaching Unova, the drop chance for items in Johto will be debuffed for any loot with a Tier rarer than Rare (ie: Epic, Legendary, Mythic).
+After reaching [[Unova]], the drop chance for items will be [[Dungeons#Dungeon Loot Regional Debuff|debuffed]].
 
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears !! Requirement 
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears !! Requirement
 |-
-| align="center" colspan=6| '''Common'''
+| align="center" colspan=7| '''Common'''
 |-
-| {{Bag2|xClick}} || N/A || 25.23% || 25.23% || 25.23% || rowspan=3| &lt;center&gt;N/A
+| {{Bag2|xClick}} || 1 || 25.23% || 25.23% || 25.23% || 25.23% || rowspan=3| &lt;center&gt;N/A
 |-
-| {{Bag2|Lucky Egg}} || N/A || 25.23% || 25.23% || 25.23%
+| {{Bag2|Lucky Egg}} || 1 || 25.23% || 25.23% || 25.23% || 25.23%
 |-
-| {{Bag2|Token Collector}} || N/A || 25.23% || 25.23% || 25.23%
+| {{Bag2|Token Collector}} || 1 || 25.23% || 25.23% || 25.23% || 25.23%
 |-
-| align="center" colspan=6| '''Rare'''
+| align="center" colspan=7| '''Rare'''
 |-
-| {{Bag2|Yellow Shard}} || N/A || 12.11% || 12.11% || 12.11% || rowspan=2| &lt;center&gt;N/A
+| {{Bag2|Yellow Shard}} || 1 || 12.11% || 12.11% || 12.11% || 12.11% || rowspan=2| &lt;center&gt;N/A
 |-
-| {{Bag2|Purple Shard}} || N/A || 12.11% || 12.11% || 12.11%
+| {{Bag2|Purple Shard}} || 1 || 12.11% || 12.11% || 12.11% || 12.11%
 |-
-| align="center" colspan=6| '''Legendary'''
+| align="center" colspan=7| '''Legendary'''
 |-
-| {{Bag2|Icicle Plate}} || N/A || 0.03% || 0.03% || 0.03% || rowspan=3| &lt;center&gt;N/A
+| {{Bag2|Icicle Plate}} || 1 || 0.03% || 0.03% || 0.03% || 0.03% || rowspan=3| &lt;center&gt;N/A
 |-
-| {{Bag2|Revive}} || N/A || 0.03% || 0.03% || 0.03%
+| {{Bag2|Revive}} || 1 || 0.03% || 0.03% || 0.03% || 0.03%
 |-
-| {{Bag2|Never Melt Ice}} || N/A || 0.03% || 0.03% || 0.03%
+| {{Bag2|Never Melt Ice}} || 1 || 0.03% || 0.03% || 0.03% || 0.03%
 |-
-| align="center" colspan=6| '''Mythic'''
+| align="center" colspan=7| '''Mythic'''
 |-
-| {{Bag2|Protein}} || N/A || 0% || 0% || &lt;0.01% || 450 Clears
+| {{Bag2|Protein}} || 1 || N/A || N/A || N/A || &lt;0.01% || 450 Clears
 |}
 &lt;/tab&gt;
 &lt;/tabs&gt;
@@ -119,9 +119,9 @@ After Reaching Unova, the drop chance for items in Johto will be debuffed for an
       <username>ThePantMan</username>
       <id>8</id>
     </contributor>
-    <comment>/* Loot update */</comment>
+    <comment>/* not Kanto */</comment>
     <model>wikitext</model>
-    <parentid>5324</parentid>
-    <sha1>30f6aa2cb895ce93057aa51dff88ae8856f4d15a</sha1>
+    <parentid>33508</parentid>
+    <sha1>8a7a615d285f52c1584c813e8e9487bd59fa5176</sha1>
   </revision>
 </page></mediawiki>

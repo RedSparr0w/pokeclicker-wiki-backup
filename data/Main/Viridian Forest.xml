@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>316</id>
   <revision>
-    <id>32891</id>
-    <timestamp>2022-12-08T02:17:27Z</timestamp>
-    <text space="preserve" bytes="2735">{{Infobox dungeon
+    <id>33473</id>
+    <timestamp>2022-12-12T00:17:56Z</timestamp>
+    <text space="preserve" bytes="2831">{{Infobox dungeon
 |name    = Viridian Forest
 |image   = [[File:Viridian Forest.png|thumb]]
 |caption = A map of Viridian Forest.
@@ -46,47 +46,47 @@
 ==Items==
 
 &lt;tabs&gt;
-&lt;tab name="No Debuff"&gt;
+&lt;tab name="Base"&gt;
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears
 |-
-| align="center" colspan=5| '''Common'''
+| align="center" colspan=6| '''Common'''
 |-
-| {{Bag2|xAttack}} || 2 || 63.27% || 62.00% || 56.29%
+| {{Bag2|xAttack}} || 2 || 63.27% || 62.00% || 59.97% || 56.29%
 |-
-| {{Bag2|Pecha}} || N/A || 31.64% || 31.00% || 28.15%
+| {{Bag2|Pecha}} || 1 || 31.64% || 31.00% || 29.99% || 28.15%
 |-
-| align="center" colspan=5| '''Epic'''
+| align="center" colspan=6| '''Epic'''
 |-
-| {{Bag2|Pokéball}} || N/A || 5.08% || 6.72% || 14.07%
+| {{Bag2|Pokéball}} || 1 || 5.08% || 6.72% || 9.33% || 14.07%
 |-
-| align="center" colspan=5| '''Mythic'''
+| align="center" colspan=6| '''Mythic'''
 |-
-| {{Bag2|Small Restore}} || N/A || 0.01% || 0.28% || 1.49%
+| {{Bag2|Small Restore}} || 1 || 0.01% || 0.28% || 0.71% || 1.49%
 |}
 &lt;/tab&gt;
 
 &lt;tab name="Debuff"&gt;
-After Reaching Sinnoh, the drop chance for items in Kanto will be debuffed for any loot with weight &lt; 2.
+After reaching [[Sinnoh]], the drop chance for items will be [[Dungeons#Dungeon Loot Regional Debuff|debuffed]].
 
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears
 |-
-| align="center" colspan=5| '''Common'''
+| align="center" colspan=6| '''Common'''
 |-
-| {{Bag2|xAttack}} || 2 || 65.88% || 65.88% || 65.88%
+| {{Bag2|xAttack}} || 2 || 65.88% || 65.88% || 65.88% || 65.88%
 |-
-| {{Bag2|Pecha}} || N/A || 32.94% || 32.94% || 32.94%
+| {{Bag2|Pecha}} || 1 || 32.94% || 32.94% || 32.94% || 32.94%
 |-
-| align="center" colspan=5| '''Epic'''
+| align="center" colspan=6| '''Epic'''
 |-
-| {{Bag2|Pokéball}} || N/A || 1.19% || 1.19% || 1.19%
+| {{Bag2|Pokéball}} || 1 || 1.19% || 1.19% || 1.19% || 1.19%
 |-
-| align="center" colspan=5| '''Mythic'''
+| align="center" colspan=6| '''Mythic'''
 |-
-| {{Bag2|Small Restore}} || N/A || &lt;0.01% || &lt;0.01% || &lt;0.01%
+| {{Bag2|Small Restore}} || 1 || &lt;0.01% || &lt;0.01% || &lt;0.01% || &lt;0.01%
 |}
 &lt;/tab&gt;
 &lt;/tabs&gt;
@@ -99,9 +99,9 @@ After Reaching Sinnoh, the drop chance for items in Kanto will be debuffed for a
       <username>ThePantMan</username>
       <id>8</id>
     </contributor>
-    <comment>/* Tabs */</comment>
+    <comment>/* small fix */</comment>
     <model>wikitext</model>
-    <parentid>4639</parentid>
-    <sha1>65559c995758d467ba2179194be0e060ccccdc29</sha1>
+    <parentid>33457</parentid>
+    <sha1>ce91cfac2bda694151de74f91835dc9ac6cb0cd5</sha1>
   </revision>
 </page></mediawiki>

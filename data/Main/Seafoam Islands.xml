@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>327</id>
   <revision>
-    <id>32899</id>
-    <timestamp>2022-12-08T02:26:47Z</timestamp>
-    <text space="preserve" bytes="2668">{{Infobox dungeon
+    <id>33482</id>
+    <timestamp>2022-12-12T00:23:43Z</timestamp>
+    <text space="preserve" bytes="2737">{{Infobox dungeon
 |name    = Seafoam Islands
 |image   = [[File:Seafoam Islands.png|thumb]]
 |caption = An overhead map of the Seafoam Islands.
@@ -58,56 +58,55 @@ The '''Seafoam Islands''' is a [[Dungeons|dungeon]] in [[Kanto]]. It has 25 tile
 ==Items==
 
 &lt;tabs&gt;
-&lt;tab name="No Debuff"&gt;
-
+&lt;tab name="Base"&gt;
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears
 |-
-| align="center" colspan=5| '''Common'''
+| align="center" colspan=6| '''Common'''
 |-
-| {{Bag2|xAttack}} || 2 || 52.07% || 50.63% || 44.44%
+| {{Bag2|xAttack}} || 2 || 52.07% || 50.63% || 48.39% || 44.44%
 |-
-| {{Bag2|Aspear}} || N/A || 26.03% || 25.32% || 22.22%
+| {{Bag2|Aspear}} || 1 || 26.03% || 25.32% || 24.19% || 22.22%
 |-
-| align="center" colspan=5| '''Rare'''
+| align="center" colspan=6| '''Rare'''
 |-
-| {{Bag2|Blue Shard}} || N/A || 20.85% || 22.14% || 27.72%
+| {{Bag2|Blue Shard}} || 1 || 20.85% || 22.14% || 24.17% || 27.72%
 |-
-| align="center" colspan=5| '''Legendary'''
+| align="center" colspan=6| '''Legendary'''
 |-
-| {{Bag2|Revive}} || N/A || 1.04% || 1.68% || 4.43%
+| {{Bag2|Revive}} || 1 || 1.04% || 1.68% || 2.68% || 4.43%
 |-
-| align="center" colspan=5| '''Mythic'''
+| align="center" colspan=6| '''Mythic'''
 |-
-| {{Bag2|Ultraball}} || N/A || 0.01% || 0.23% || 1.18%
+| {{Bag2|Ultraball}} || 1 || 0.01% || 0.23% || 0.58% || 1.18%
 |}
 &lt;/tab&gt;
 
 &lt;tab name="Debuff"&gt;
-After Reaching Sinnoh, the drop chance for items in Kanto will be debuffed for any loot with a Tier rarer than Rare (ie: Epic, Legendary, Mythic).
+After reaching [[Sinnoh]], the drop chance for items will be [[Dungeons#Dungeon Loot Regional Debuff|debuffed]].
 
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears
 |-
-| align="center" colspan=5| '''Common'''
+| align="center" colspan=6| '''Common'''
 |-
-| {{Bag2|xAttack}} || 2 || 50.45% || 50.45% || 50.45%
+| {{Bag2|xAttack}} || 2 || 50.45% || 50.45% || 50.45% || 50.45%
 |-
-| {{Bag2|Aspear}} || N/A || 25.23% || 25.23% || 25.23%
+| {{Bag2|Aspear}} || 1 || 25.23% || 25.23% || 25.23% || 25.23%
 |-
-| align="center" colspan=5| '''Rare'''
+| align="center" colspan=6| '''Rare'''
 |-
-| {{Bag2|Blue Shard}} || N/A || 24.22% || 24.22% || 24.22%
+| {{Bag2|Blue Shard}} || 1 || 24.22% || 24.22% || 24.22% || 24.22%
 |-
-| align="center" colspan=5| '''Legendary'''
+| align="center" colspan=6| '''Legendary'''
 |-
-| {{Bag2|Revive}} || N/A || 0.10% || 0.10% || 0.10%
+| {{Bag2|Revive}} || 1 || 0.10% || 0.10% || 0.10% || 0.10%
 |-
-| align="center" colspan=5| '''Mythic'''
+| align="center" colspan=6| '''Mythic'''
 |-
-| {{Bag2|Ultraball}} || N/A || &lt;0.01% || &lt;0.01% || &lt;0.01%
+| {{Bag2|Ultraball}} || 1 || &lt;0.01% || &lt;0.01% || &lt;0.01% || &lt;0.01%
 |}
 &lt;/tab&gt;
 &lt;/tabs&gt;
@@ -120,9 +119,9 @@ After Reaching Sinnoh, the drop chance for items in Kanto will be debuffed for a
       <username>ThePantMan</username>
       <id>8</id>
     </contributor>
-    <comment>/* Tabs */</comment>
+    <comment>/* small fix */</comment>
     <model>wikitext</model>
-    <parentid>4918</parentid>
-    <sha1>b8a2ce710a538e05580d76c608d86d3f49985977</sha1>
+    <parentid>33465</parentid>
+    <sha1>02c6d725ec655ee4200b7a5d7cd894a661cb215d</sha1>
   </revision>
 </page></mediawiki>

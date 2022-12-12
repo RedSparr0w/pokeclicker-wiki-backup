@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>319</id>
   <revision>
-    <id>32892</id>
-    <timestamp>2022-12-08T02:18:56Z</timestamp>
-    <text space="preserve" bytes="3803">{{Infobox dungeon
+    <id>33474</id>
+    <timestamp>2022-12-12T00:18:20Z</timestamp>
+    <text space="preserve" bytes="3872">{{Infobox dungeon
 |name    = Mt. Moon
 |image   = [[File:Mt._Moon.png|thumb]]
 |caption = A map of Mt. Moon.
@@ -61,48 +61,47 @@
 ==Items==
 
 &lt;tabs&gt;
-&lt;tab name="No Debuff"&gt;
-
+&lt;tab name="Base"&gt;
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears
 |-
-| align="center" colspan=5| '''Common'''
+| align="center" colspan=6| '''Common'''
 |-
-| {{Bag2|xClick}} || N/A || 49.99% || 49.85% || 49.13%
+| {{Bag2|xClick}} || 1 || 49.99% || 49.85% || 49.61% || 49.13%
 |-
-| {{Bag2|Dowsing Machine}} || N/A || 49.99% || 49.85% || 49.13%
+| {{Bag2|Dowsing Machine}} || 1 || 49.99% || 49.85% || 49.61% || 49.13%
 |-
-| align="center" colspan=5| '''Mythic'''
+| align="center" colspan=6| '''Mythic'''
 |-
-| {{Bag2|Greatball}} || 2 || 0.01% || 0.15% || 0.87%
+| {{Bag2|Greatball}} || 2 || 0.01% || 0.15% || 0.39% || 0.87%
 |-
-| {{Bag2|Small Restore}} || N/A || &lt;0.01% || 0.08% || 0.43%
+| {{Bag2|Small Restore}} || 1 || &lt;0.01% || 0.08% || 0.20% || 0.43%
 |-
-| {{Bag2|Star Piece}} || N/A || &lt;0.01% || 0.08% || 0.43%
+| {{Bag2|Star Piece}} || 1 || &lt;0.01% || 0.08% || 0.20% || 0.43%
 |}
 &lt;/tab&gt;
 
 &lt;tab name="Debuff"&gt;
-After Reaching Sinnoh, the drop chance for items in Kanto will be debuffed for any loot with a Tier rarer than Rare (ie: Epic, Legendary, Mythic).
+After reaching [[Sinnoh]], the drop chance for items will be [[Dungeons#Dungeon Loot Regional Debuff|debuffed]].
 
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears
 |-
-| align="center" colspan=5| '''Common'''
+| align="center" colspan=6| '''Common'''
 |-
-| {{Bag2|xClick}} || N/A || 50.00% || 50.00% || 50.00%
+| {{Bag2|xClick}} || 1 || 50.00% || 50.00% || 50.00% || 50.00%
 |-
-| {{Bag2|Dowsing Machine}} || N/A || 50.00% || 50.00% || 50.00%
+| {{Bag2|Dowsing Machine}} || 1 || 50.00% || 50.00% || 50.00% || 50.00%
 |-
-| align="center" colspan=5| '''Mythic'''
+| align="center" colspan=6| '''Mythic'''
 |-
-| {{Bag2|Greatball}} || 2 || &lt;0.01% || &lt;0.01% || &lt;0.01%
+| {{Bag2|Greatball}} || 2 || &lt;0.01% || &lt;0.01% || &lt;0.01% || &lt;0.01%
 |-
-| {{Bag2|Small Restore}} || N/A || &lt;0.01% || &lt;0.01% || &lt;0.01%
+| {{Bag2|Small Restore}} || 1 || &lt;0.01% || &lt;0.01% || &lt;0.01% || &lt;0.01%
 |-
-| {{Bag2|Star Piece}} || N/A || &lt;0.01% || &lt;0.01% || &lt;0.01%
+| {{Bag2|Star Piece}} || 1 || &lt;0.01% || &lt;0.01% || &lt;0.01% || &lt;0.01%
 |}
 &lt;/tab&gt;
 &lt;/tabs&gt;
@@ -115,9 +114,9 @@ After Reaching Sinnoh, the drop chance for items in Kanto will be debuffed for a
       <username>ThePantMan</username>
       <id>8</id>
     </contributor>
-    <comment>/* Tabs */</comment>
+    <comment>/* small fix */</comment>
     <model>wikitext</model>
-    <parentid>4736</parentid>
-    <sha1>b79ddb0add3cb7ea0d2b9728a95d62ea05293d7d</sha1>
+    <parentid>33458</parentid>
+    <sha1>d3e6e42ef705aaa6333d7f54dcc49f1cc46aa700</sha1>
   </revision>
 </page></mediawiki>

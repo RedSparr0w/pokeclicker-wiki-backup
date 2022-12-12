@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>10162</id>
   <revision>
-    <id>30074</id>
-    <timestamp>2022-12-04T21:35:43Z</timestamp>
-    <text space="preserve" bytes="1907">{{Infobox dungeon
+    <id>33431</id>
+    <timestamp>2022-12-11T22:17:01Z</timestamp>
+    <text space="preserve" bytes="2000">{{Infobox dungeon
 |name    = Tower of Waters
 |image   = [[File:Tower of Waters.png|thumb]]
 |caption = A map of Tower of Waters.
@@ -44,36 +44,40 @@
 
 ==Items==
 
+&lt;tabs&gt;
+&lt;tab name="Base"&gt;
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears
 |-
-| align="center" colspan=5| '''Common'''
+| align="center" colspan=6| '''Common'''
 |-
-| {{Bag2|xClick}} || N/A || 37.87% || 36.66% || 31.60%
+| {{Bag2|xClick}} || 1 || 37.87% || 36.66% || 34.80% || 31.60%
 |-
-| {{Bag2|xAttack}} || N/A || 37.87% || 36.66% || 31.60%
+| {{Bag2|xAttack}} || 1 || 37.87% || 36.66% || 34.80% || 31.60%
 |-
-| align="center" colspan=5| '''Rare'''
+| align="center" colspan=6| '''Rare'''
 |-
-| {{Bag2|Blue Shard}} || N/A || 10.11% || 10.69% || 13.14%
+| {{Bag2|Blue Shard}} || 1 || 10.11% || 10.69% || 11.59% || 13.14%
 |-
-| {{Bag2|Ochre Shard}} || N/A || 10.11% || 10.69% || 13.14%
+| {{Bag2|Ochre Shard}} || 1 || 10.11% || 10.69% || 11.59% || 13.14%
 |-
-| align="center" colspan=5| '''Epic'''
+| align="center" colspan=6| '''Epic'''
 |-
-| {{Bag2|Splash Plate}} || N/A || 4.05% || 5.30% || 10.53%
+| {{Bag2|Splash Plate}} || 1 || 4.05% || 5.30% || 7.22% || 10.53%
 |}
+&lt;/tab&gt;
+&lt;/tabs&gt;
 
 {{Galar Dungeons}}
 [[Category:Dungeons|^Region #8 - Galar^c]]</text>
     <contributor>
-      <username>CypherX</username>
-      <id>15</id>
+      <username>Jk13</username>
+      <id>14</id>
     </contributor>
-    <comment>Created page with "{{Infobox dungeon |name    = Tower of Waters |image   = [[File:Tower of Waters.png|thumb]] |caption = A map of Tower of Waters. |tokens  = 2,000,000 |location = North of Challenge Beach }} '''Tower of Waters''' is a [[Dungeons|dungeon]] in [[Galar]]. It initially has 125 tiles arranged in two floors: 10x10 and 6x6 in size, respectively; including 16 chest tiles, 38 non-boss encounter tiles, 1 ladder tile, and 1 boss encounter tile. Wild Encounters have 28,886,112 HP.   =..."</comment>
+    <comment>/* Items */</comment>
     <model>wikitext</model>
-    <parentid>0</parentid>
-    <sha1>fee4f003973956999d737fe075580cc9a80787dd</sha1>
+    <parentid>30074</parentid>
+    <sha1>fa49bb01e17bca1eda1a629ae2cbc1883e82613b</sha1>
   </revision>
 </page></mediawiki>

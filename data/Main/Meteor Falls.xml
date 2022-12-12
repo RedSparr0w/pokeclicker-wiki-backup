@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>351</id>
   <revision>
-    <id>32986</id>
-    <timestamp>2022-12-08T15:49:38Z</timestamp>
-    <text space="preserve" bytes="3345">{{Infobox dungeon
+    <id>33540</id>
+    <timestamp>2022-12-12T01:35:27Z</timestamp>
+    <text space="preserve" bytes="3490">{{Infobox dungeon
 |name    = Meteor Falls
 |image   = [[File:Meteor Falls.png|300px]]
 |caption = A map of Meteor Falls.
@@ -51,76 +51,75 @@
 ==Items==
 
 &lt;tabs&gt;
-&lt;tab name="No Debuff"&gt;
-
+&lt;tab name="Base"&gt;
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears
 |-
 | align="center" colspan=6| '''Common'''
 |-
-| {{Bag2|Lucky Incense}} || 6 || 41.30% || 39.91% || 34.09%
+| {{Bag2|Lucky Incense}} || 6 || 41.30% || 39.91% || 37.76% || 34.09%
 |-
-| {{Bag2|Pokéball}} || 4 || 27.54% || 26.60% || 22.72%
+| {{Bag2|Pokéball}} || 4 || 27.54% || 26.60% || 25.17% || 22.72%
 |-
-| {{Bag2|Greatball}} || N/A || 6.88% || 6.65% || 5.68%
+| {{Bag2|Greatball}} || 1 || 6.88% || 6.65% || 6.29% || 5.68%
 |-
 | align="center" colspan=6| '''Rare'''
 |-
-| {{Bag2|Blue Shard}} || N/A || 10.11% || 10.66% || 12.99%
+| {{Bag2|Blue Shard}} || 1 || 10.11% || 10.66% || 11.52% || 12.99%
 |-
-| {{Bag2|Green Shard}} || N/A || 10.11% || 10.66% || 12.99%
+| {{Bag2|Green Shard}} || 1 || 10.11% || 10.66% || 11.52% || 12.99%
 |-
 | align="center" colspan=6| '''Epic'''
 |-
-| {{Bag2|Stone Plate}} || N/A || 1.01% || 1.32% || 2.60%
+| {{Bag2|Stone Plate}} || 1 || 1.01% || 1.32% || 1.79% || 2.60%
 |-
-| {{Bag2|Iron Plate}} || N/A || 1.01% || 1.32% || 2.60%
+| {{Bag2|Iron Plate}} || 1 || 1.01% || 1.32% || 1.79% || 2.60%
 |-
-| {{Bag2|Sky Plate}} || N/A || 1.01% || 1.32% || 2.60%
+| {{Bag2|Sky Plate}} || 1 || 1.01% || 1.32% || 1.79% || 2.60%
 |-
-| {{Bag2|Draco Plate}} || N/A || 1.01% || 1.32% || 2.60%
+| {{Bag2|Draco Plate}} || 1 || 1.01% || 1.32% || 1.79% || 2.60%
 |-
 | align="center" colspan=6| '''Mythic'''
 |-
-| {{Bag2|Star Piece}} || N/A || 0.01% || 0.22% || 1.10%
+| {{Bag2|Star Piece}} || 1 || 0.01% || 0.22% || 0.55% || 1.10%
 |}
 &lt;/tab&gt;
 
 &lt;tab name="Debuff"&gt;
-After Reaching Kalos, the drop chance for items in Hoenn will be debuffed for any loot with a Tier rarer than Rare (ie: Epic, Legendary, Mythic).
+After reaching [[Kalos]], the drop chance for items will be [[Dungeons#Dungeon Loot Regional Debuff|debuffed]].
 
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears
 |-
 | align="center" colspan=6| '''Common'''
 |-
-| {{Bag2|Lucky Incense}} || 6 || 40.95% || 40.95% || 40.95%
+| {{Bag2|Lucky Incense}} || 6 || 40.95% || 40.95% || 40.95% || 40.95%
 |-
-| {{Bag2|Pokéball}} || 4 || 27.30% || 27.30% || 27.30%
+| {{Bag2|Pokéball}} || 4 || 27.30% || 27.30% || 27.30% || 27.30%
 |-
-| {{Bag2|Greatball}} || N/A || 6.82% || 6.82% || 6.82%
+| {{Bag2|Greatball}} || 1 || 6.82% || 6.82% || 6.82% || 6.82%
 |-
 | align="center" colspan=6| '''Rare'''
 |-
-| {{Bag2|Blue Shard}} || N/A || 12.01% || 12.01% || 12.01%
+| {{Bag2|Blue Shard}} || 1 || 12.01% || 12.01% || 12.01% || 12.01%
 |-
-| {{Bag2|Green Shard}} || N/A || 12.01% || 12.01% || 12.01%
+| {{Bag2|Green Shard}} || 1 || 12.01% || 12.01% || 12.01% || 12.01%
 |-
 | align="center" colspan=6| '''Epic'''
 |-
-| {{Bag2|Stone Plate}} || N/A || 0.23% || 0.23% || 0.23%
+| {{Bag2|Stone Plate}} || 1 || 0.23% || 0.23% || 0.23% || 0.23%
 |-
-| {{Bag2|Iron Plate}} || N/A || 0.23% || 0.23% || 0.23%
+| {{Bag2|Iron Plate}} || 1 || 0.23% || 0.23% || 0.23% || 0.23%
 |-
-| {{Bag2|Sky Plate}} || N/A || 0.23% || 0.23% || 0.23%
+| {{Bag2|Sky Plate}} || 1 || 0.23% || 0.23% || 0.23% || 0.23%
 |-
-| {{Bag2|Draco Plate}} || N/A || 0.23% || 0.23% || 0.23%
+| {{Bag2|Draco Plate}} || 1 || 0.23% || 0.23% || 0.23% || 0.23%
 |-
 | align="center" colspan=6| '''Mythic'''
 |-
-| {{Bag2|Star Piece}} || N/A || &lt;0.01% || &lt;0.01% || &lt;0.01%
+| {{Bag2|Star Piece}} || 1 || &lt;0.01% || &lt;0.01% || &lt;0.01% || &lt;0.01%
 |}
 &lt;/tab&gt;
 &lt;/tabs&gt;
@@ -132,9 +131,9 @@ After Reaching Kalos, the drop chance for items in Hoenn will be debuffed for an
       <username>ThePantMan</username>
       <id>8</id>
     </contributor>
-    <comment>/* Tabs */</comment>
+    <comment>/* not Kanto */</comment>
     <model>wikitext</model>
-    <parentid>5121</parentid>
-    <sha1>016d8329e102d073cf52649eae889da6f9cf9d73</sha1>
+    <parentid>33525</parentid>
+    <sha1>aa2167fc56b7b8cbe56560dbcaa8a3d2a6eca474</sha1>
   </revision>
 </page></mediawiki>

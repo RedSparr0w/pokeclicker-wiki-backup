@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>401</id>
   <revision>
-    <id>32997</id>
-    <timestamp>2022-12-08T16:04:27Z</timestamp>
-    <text space="preserve" bytes="3050">{{Infobox dungeon
+    <id>33550</id>
+    <timestamp>2022-12-12T01:45:17Z</timestamp>
+    <text space="preserve" bytes="3176">{{Infobox dungeon
 |name    = Sky Pillar
 |image   = [[File:Sky Pillar.png|300px]]
 |caption = An outside view of Sky Pillar.
@@ -53,72 +53,71 @@
 ==Items==
 
 &lt;tabs&gt;
-&lt;tab name="No Debuff"&gt;
-
+&lt;tab name="Base"&gt;
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears
 |-
 | align="center" colspan=6| '''Common'''
 |-
-| {{Bag2|xAttack}} || 4 || 59.98% || 57.73% || 48.51%
+| {{Bag2|xAttack}} || 4 || 59.98% || 57.73% || 54.29% || 48.51%
 |-
-| {{Bag2|Greatball}} || N/A || 15.00% || 14.43% || 12.13%
+| {{Bag2|Greatball}} || 1 || 15.00% || 14.43% || 13.57% || 12.13%
 |-
 | align="center" colspan=6| '''Rare'''
 |-
-| {{Bag2|Yellow Shard}} || N/A || 10.01% || 10.52% || 12.61%
+| {{Bag2|Yellow Shard}} || 1 || 10.01% || 10.52% || 11.30% || 12.61%
 |-
-| {{Bag2|Ochre Shard}} || N/A || 10.01% || 10.52% || 12.61%
+| {{Bag2|Ochre Shard}} || 1 || 10.01% || 10.52% || 11.30% || 12.61%
 |-
 | align="center" colspan=6| '''Epic'''
 |-
-| {{Bag2|Ultraball}} || N/A || 4.01% || 5.21% || 10.11%
+| {{Bag2|Ultraball}} || 1 || 4.01% || 5.21% || 7.04% || 10.11%
 |-
 | align="center" colspan=6| '''Legendary'''
 |-
-| {{Bag2|Sky Plate}} || N/A || 0.25% || 0.40% || 1.01%
+| {{Bag2|Sky Plate}} || 1 || 0.25% || 0.40% || 0.63% || 1.01%
 |-
-| {{Bag2|Mind Plate}} || N/A || 0.25% || 0.40% || 1.01%
+| {{Bag2|Mind Plate}} || 1 || 0.25% || 0.40% || 0.63% || 1.01%
 |-
-| {{Bag2|Draco Plate}} || N/A || 0.25% || 0.40% || 1.01%
+| {{Bag2|Draco Plate}} || 1 || 0.25% || 0.40% || 0.63% || 1.01%
 |-
-| {{Bag2|Sharp Beak}} || N/A || 0.25% || 0.40% || 1.01%
+| {{Bag2|Sharp Beak}} || 1 || 0.25% || 0.40% || 0.63% || 1.01%
 |}
 &lt;/tab&gt;
 
 &lt;tab name="Debuff"&gt;
-After Reaching Kalos, the drop chance for items in Hoenn will be debuffed for any loot with a Tier rarer than Rare (ie: Epic, Legendary, Mythic).
+After reaching [[Kalos]], the drop chance for items will be [[Dungeons#Dungeon Loot Regional Debuff|debuffed]].
 
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears
 |-
 | align="center" colspan=6| '''Common'''
 |-
-| {{Bag2|xAttack}} || 4 || 60.00% || 60.00% || 60.00%
+| {{Bag2|xAttack}} || 4 || 60.00% || 60.00% || 60.00% || 60.00%
 |-
-| {{Bag2|Greatball}} || N/A || 15.00% || 15.00% || 15.00%
+| {{Bag2|Greatball}} || 1 || 15.00% || 15.00% || 15.00% || 15.00%
 |-
 | align="center" colspan=6| '''Rare'''
 |-
-| {{Bag2|Yellow Shard}} || N/A || 12.00% || 12.00% || 12.00%
+| {{Bag2|Yellow Shard}} || 1 || 12.00% || 12.00% || 12.00% || 12.00%
 |-
-| {{Bag2|Ochre Shard}} || N/A || 12.00% || 12.00% || 12.00%
+| {{Bag2|Ochre Shard}} || 1 || 12.00% || 12.00% || 12.00% || 12.00%
 |-
 | align="center" colspan=6| '''Epic'''
 |-
-| {{Bag2|Ultraball}} || N/A || 0.90% || 0.90% || 0.90%
+| {{Bag2|Ultraball}} || 1 || 0.90% || 0.90% || 0.90% || 0.90%
 |-
 | align="center" colspan=6| '''Legendary'''
 |-
-| {{Bag2|Sky Plate}} || N/A || 0.03% || 0.03% || 0.03%
+| {{Bag2|Sky Plate}} || 1 || 0.03% || 0.03% || 0.03% || 0.03%
 |-
-| {{Bag2|Mind Plate}} || N/A || 0.03% || 0.03% || 0.03%
+| {{Bag2|Mind Plate}} || 1 || 0.03% || 0.03% || 0.03% || 0.03%
 |-
-| {{Bag2|Draco Plate}} || N/A || 0.03% || 0.03% || 0.03%
+| {{Bag2|Draco Plate}} || 1 || 0.03% || 0.03% || 0.03% || 0.03%
 |-
-| {{Bag2|Sharp Beak}} || N/A || 0.03% || 0.03% || 0.03%
+| {{Bag2|Sharp Beak}} || 1 || 0.03% || 0.03% || 0.03% || 0.03%
 |}
 &lt;/tab&gt;
 &lt;/tabs&gt;
@@ -130,9 +129,9 @@ After Reaching Kalos, the drop chance for items in Hoenn will be debuffed for an
       <username>ThePantMan</username>
       <id>8</id>
     </contributor>
-    <comment>/* Loot update */</comment>
+    <comment>/* loot */</comment>
     <model>wikitext</model>
-    <parentid>5508</parentid>
-    <sha1>94b736d3405fc4991bebbfa323cea605f2b34f9a</sha1>
+    <parentid>32997</parentid>
+    <sha1>9792ec4d28e956e26b49b53e6974841549109341</sha1>
   </revision>
 </page></mediawiki>

@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>10160</id>
   <revision>
-    <id>30071</id>
-    <timestamp>2022-12-04T21:23:30Z</timestamp>
-    <text space="preserve" bytes="2846">{{Infobox dungeon
+    <id>33451</id>
+    <timestamp>2022-12-11T22:35:02Z</timestamp>
+    <text space="preserve" bytes="3015">{{Infobox dungeon
 |name    = Brawlers' Cave
 |image   = [[File:Brawlers Cave.png|thumb]]
 |caption = A map of Brawlers' Cave.
@@ -64,60 +64,64 @@
 
 ==Items==
 
+&lt;tabs&gt;
+&lt;tab name="Base"&gt;
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears !! Requirement
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears !! Requirement
 |-
-| align="center" colspan=5| '''Common'''
+| align="center" colspan=7| '''Common'''
 |-
-| {{Bag2|Greatball}} || 3 || 32.13% || 30.86% || 25.71% || rowspan=3|&lt;center&gt;N/A
+| {{Bag2|Greatball}} || 3 || 32.13% || 30.93% || 29.08% || 25.99% || rowspan=3| &lt;center&gt;N/A
 |-
-| {{Bag2|Ultraball}} || 3 || 32.13% || 30.86% || 25.71%
+| {{Bag2|Ultraball}} || 3 || 32.13% || 30.93% || 29.08% || 25.99%
 |-
-| {{Bag2|Medium Restore}} || N/A || 10.71% || 10.29% || 8.57%
+| {{Bag2|Medium Restore}} || 1 || 10.71% || 10.31% || 9.69% || 8.66%
 |-
-| align="center" colspan=5| '''Rare'''
+| align="center" colspan=7| '''Rare'''
 |-
-| {{Bag2|Blue Shard}} || N/A || 6.67% || 7.00% || 8.32% || rowspan=3|&lt;center&gt;N/A
+| {{Bag2|Blue Shard}} || 1 || 6.67% || 7.01% || 7.53% || 8.41% || rowspan=3| &lt;center&gt;N/A
 |-
-| {{Bag2|Ochre Shard}} || N/A || 6.67% || 7.00% || 8.32%
+| {{Bag2|Ochre Shard}} || 1 || 6.67% || 7.01% || 7.53% || 8.41%
 |-
-| {{Bag2|Rose Shard}} || N/A || 6.67% || 7.00% || 8.32%
+| {{Bag2|Rose Shard}} || 1 || 6.67% || 7.01% || 7.53% || 8.41%
 |-
-| align="center" colspan=5| '''Epic'''
+| align="center" colspan=7| '''Epic'''
 |-
-| {{Bag2|Duskball}} || N/A || 1.00% || 1.30% || 2.50% || rowspan=4|&lt;center&gt;N/A
+| {{Bag2|Duskball}} || 1 || 1.00% || 1.30% || 1.76% || 2.53% || rowspan=4| &lt;center&gt;N/A
 |-
-| {{Bag2|Nestball}} || N/A || 1.00% || 1.30% || 2.50%
+| {{Bag2|Nestball}} || 1 || 1.00% || 1.30% || 1.76% || 2.53%
 |-
-| {{Bag2|Timerball}} || N/A || 1.00% || 1.30% || 2.50%
+| {{Bag2|Timerball}} || 1 || 1.00% || 1.30% || 1.76% || 2.53%
 |-
-| {{Bag2|LuxuryBall}} || N/A || 1.00% || 1.30% || 2.50%
+| {{Bag2|Luxuryball}} || 1 || 1.00% || 1.30% || 1.76% || 2.53%
 |-
-| align="center" colspan=5| '''Legendary'''
+| align="center" colspan=7| '''Legendary'''
 |-
-| {{Bag2|Rare Bone}} || N/A || 0.25% || 0.40% || 1.00% || rowspan=4|&lt;center&gt;N/A
+| {{Bag2|Rare Bone}} || 1 || 0.25% || 0.40% || 0.63% || 1.01% || rowspan=4| &lt;center&gt;N/A
 |-
-| {{Bag2|Hard Stone}} || N/A || 0.25% || 0.40% || 1.00%
+| {{Bag2|Hard Stone}} || 1 || 0.25% || 0.40% || 0.63% || 1.01%
 |-
-| {{Bag2|Star Piece}} || N/A || 0.25% || 0.40% || 1.00%
+| {{Bag2|Star Piece}} || 1 || 0.25% || 0.40% || 0.63% || 1.01%
 |-
-| {{Bag2|Large Restore}} || N/A || 0.25% || 0.40% || 1.00%
+| {{Bag2|Large Restore}} || 1 || 0.25% || 0.40% || 0.63% || 1.01%
 |-
-| align="center" colspan=5| '''Mythic'''
+| align="center" colspan=7| '''Mythic'''
 |-
-| {{Bag2|Protein}} || N/A || 0% || 0% || 1.06% || 150 Clears
+| {{Bag2|Protein}} || 1 || 0% || 0% || 0.53% || 1.06% || 150 Clears
 |}
+&lt;/tab&gt;
+&lt;/tabs&gt;
 
 {{Galar Dungeons}}
 [[Category:Dungeons|^Region #8 - Galar^c]]</text>
     <contributor>
-      <username>CypherX</username>
-      <id>15</id>
+      <username>ThePantMan</username>
+      <id>8</id>
     </contributor>
-    <comment>Created page with "{{Infobox dungeon |name    = Brawlers' Cave |image   = [[File:Brawlers Cave.png|thumb]] |caption = A map of Brawlers' Cave. |tokens  = 1,730,000 |location = East of Forest of Focus }} '''Brawlers' Cave''' is a [[Dungeons|dungeon]] in [[Galar]]. It initially has 125 tiles arranged in two floors: 10x10 and 6x6 in size, respectively; including 16 chest tiles, 38 non-boss encounter tiles, 1 ladder tile, and 1 boss encounter tile. Wild Encounters have 27,009,504 HP.  == Encou..."</comment>
+    <comment>/* Protein */</comment>
     <model>wikitext</model>
-    <parentid>0</parentid>
-    <sha1>d86e0eed9b1a440ef3937cf2b23a8e1c745af502</sha1>
+    <parentid>33437</parentid>
+    <sha1>f86a648e91cbf679a11a3dc88a33c2165f7f0c54</sha1>
   </revision>
 </page></mediawiki>

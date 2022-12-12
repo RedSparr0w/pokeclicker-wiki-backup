@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>4063</id>
   <revision>
-    <id>33001</id>
-    <timestamp>2022-12-08T16:08:45Z</timestamp>
-    <text space="preserve" bytes="3148">{{Infobox dungeon
+    <id>33553</id>
+    <timestamp>2022-12-12T01:50:52Z</timestamp>
+    <text space="preserve" bytes="3228">{{Infobox dungeon
 |name    = Valley Windworks
 |image   = [[File:Valley Windworks.png|300px]]
 |caption = An outside view of the Valley Windworks.
@@ -50,59 +50,59 @@ The '''Valley Windworks''' is a [[Dungeons|dungeon]] in [[Sinnoh]]. It initially
 ==Items==
 
 &lt;tabs&gt;
-&lt;tab name="No Debuff"&gt;
+&lt;tab name="Base"&gt;
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears
 |-
 | align="center" colspan=6| '''Common'''
 |-
-| {{Bag2|Lucky Incense}} || N/A || 24.99% || 24.05% || 20.21%
+| {{Bag2|Lucky Incense}} || 1 || 24.99% || 24.05% || 22.62% || 20.21%
 |-
-| {{Bag2|Pokéball}} || N/A || 24.99% || 24.05% || 20.21%
+| {{Bag2|Pokéball}} || 1 || 24.99% || 24.05% || 22.62% || 20.21%
 |-
-| {{Bag2|Greatball}} || N/A || 24.99% || 24.05% || 20.21%
+| {{Bag2|Greatball}} || 1 || 24.99% || 24.05% || 22.62% || 20.21%
 |-
 | align="center" colspan=6| '''Rare'''
 |-
-| {{Bag2|Yellow Shard}} || N/A || 20.01% || 21.04% || 25.22%
+| {{Bag2|Yellow Shard}} || 1 || 20.01% || 21.04% || 22.60% || 25.22%
 |-
 | align="center" colspan=6| '''Epic'''
 |-
-| {{Bag2|Zap Plate}} || N/A || 4.01% || 5.21% || 10.11%
+| {{Bag2|Zap Plate}} || 1 || 4.01% || 5.21% || 7.04% || 10.11%
 |-
 | align="center" colspan=6| '''Legendary'''
 |-
-| {{Bag2|Small Restore}} || N/A || 1.00% || 1.59% || 4.03%
+| {{Bag2|Small Restore}} || 1 || 1.00% || 1.59% || 2.50% || 4.03%
 |}
 &lt;/tab&gt;
 
 &lt;tab name="Debuff"&gt;
-After Reaching Alola, the drop chance for items in Sinnoh will be debuffed for any loot with a Tier rarer than Rare (ie: Epic, Legendary, Mythic).
+After reaching [[Alola]], the drop chance for items will be [[Dungeons#Dungeon Loot Regional Debuff|debuffed]].
 
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears
 |-
 | align="center" colspan=6| '''Common'''
 |-
-| {{Bag2|Lucky Incense}} || N/A || 25.00% || 25.00% || 25.00%
+| {{Bag2|Lucky Incense}} || 1 || 25.00% || 25.00% || 25.00% || 25.00%
 |-
-| {{Bag2|Pokéball}} || N/A || 25.00% || 25.00% || 25.00%
+| {{Bag2|Pokéball}} || 1 || 25.00% || 25.00% || 25.00% || 25.00%
 |-
-| {{Bag2|Greatball}} || N/A || 25.00% || 25.00% || 25.00%
+| {{Bag2|Greatball}} || 1 || 25.00% || 25.00% || 25.00% || 25.00%
 |-
 | align="center" colspan=6| '''Rare'''
 |-
-| {{Bag2|Yellow Shard}} || N/A || 24.00% || 24.00% || 24.00%
+| {{Bag2|Yellow Shard}} || 1 || 24.00% || 24.00% || 24.00% || 24.00%
 |-
 | align="center" colspan=6| '''Epic'''
 |-
-| {{Bag2|Zap Plate}} || N/A || 0.90% || 0.90% || 0.90%
+| {{Bag2|Zap Plate}} || 1 || 0.90% || 0.90% || 0.90% || 0.90%
 |-
 | align="center" colspan=6| '''Legendary'''
 |-
-| {{Bag2|Small Restore}} || N/A || 0.10% || 0.10% || 0.10%
+| {{Bag2|Small Restore}} || 1 || 0.10% || 0.10% || 0.10% || 0.10%
 |}
 &lt;/tab&gt;
 &lt;/tabs&gt;
@@ -114,9 +114,9 @@ After Reaching Alola, the drop chance for items in Sinnoh will be debuffed for a
       <username>ThePantMan</username>
       <id>8</id>
     </contributor>
-    <comment>/* Tabs */</comment>
+    <comment>/* loot */</comment>
     <model>wikitext</model>
-    <parentid>14768</parentid>
-    <sha1>7f8b75faad28d5147e821fc5ba164154437bd08c</sha1>
+    <parentid>33001</parentid>
+    <sha1>deb622266522a008c8ff6e47360599e4e2c7369a</sha1>
   </revision>
 </page></mediawiki>

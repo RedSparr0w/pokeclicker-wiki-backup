@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>323</id>
   <revision>
-    <id>32896</id>
-    <timestamp>2022-12-08T02:23:08Z</timestamp>
-    <text space="preserve" bytes="4657">{{Infobox dungeon
+    <id>33478</id>
+    <timestamp>2022-12-12T00:22:45Z</timestamp>
+    <text space="preserve" bytes="4798">{{Infobox dungeon
 |name    = Pokémon Tower
 |image   = [[File:Pokemon Tower.png|thumb]]
 |caption = An overhead map of the Pokémon Tower.
@@ -72,76 +72,75 @@ The '''Pokémon Tower''' is a [[Dungeons|dungeon]] in [[Kanto]]. It has 25 tiles
 ==Items==
 
 &lt;tabs&gt;
-&lt;tab name="No Debuff"&gt;
-
+&lt;tab name="Base"&gt;
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears
 |-
-| align="center" colspan=5| '''Common'''
+| align="center" colspan=6| '''Common'''
 |-
-| {{Bag2|xAttack}} || 2 || 52.07% || 50.63% || 44.44%
+| {{Bag2|xAttack}} || 2 || 52.07% || 50.63% || 48.39% || 44.44%
 |-
-| {{Bag2|Chesto}} || N/A || 26.03% || 25.32% || 22.22%
+| {{Bag2|Chesto}} || 1 || 26.03% || 25.32% || 24.19% || 22.22%
 |-
-| align="center" colspan=5| '''Rare'''
+| align="center" colspan=6| '''Rare'''
 |-
-| {{Bag2|Green Shard}} || N/A || 20.85% || 22.14% || 27.72%
+| {{Bag2|Green Shard}} || 1 || 20.85% || 22.14% || 24.17% || 27.72%
 |-
-| align="center" colspan=5| '''Legendary'''
+| align="center" colspan=6| '''Legendary'''
 |-
-| {{Bag2|Greatball}} || N/A || 0.26% || 0.42% || 1.11%
+| {{Bag2|Greatball}} || 1 || 0.26% || 0.42% || 0.67% || 1.11%
 |-
-| {{Bag2|Medium Restore}} || N/A || 0.26% || 0.42% || 1.11%
+| {{Bag2|Medium Restore}} || 1 || 0.26% || 0.42% || 0.67% || 1.11%
 |-
-| {{Bag2|Star Piece}} || N/A || 0.26% || 0.42% || 1.11%
+| {{Bag2|Star Piece}} || 1 || 0.26% || 0.42% || 0.67% || 1.11%
 |-
-| {{Bag2|Revive}} || N/A || 0.26% || 0.42% || 1.11%
+| {{Bag2|Revive}} || 1 || 0.26% || 0.42% || 0.67% || 1.11%
 |-
-| align="center" colspan=5| '''Mythic'''
+| align="center" colspan=6| '''Mythic'''
 |-
-| {{Bag2|Rare Bone}} || N/A || &lt;0.01% || 0.08% || 0.39%
+| {{Bag2|Rare Bone}} || 1 || &lt;0.01% || 0.08% || 0.19% || 0.39%
 |-
-| {{Bag2|Ultraball}} || N/A || &lt;0.01% || 0.08% || 0.39%
+| {{Bag2|Ultraball}} || 1 || &lt;0.01% || 0.08% || 0.19% || 0.39%
 |-
-| {{Bag2|Large Restore}} || N/A || &lt;0.01% || 0.08% || 0.39%
+| {{Bag2|Large Restore}} || 1 || &lt;0.01% || 0.08% || 0.19% || 0.39%
 |}
 &lt;/tab&gt;
 
 &lt;tab name="Debuff"&gt;
-After Reaching Sinnoh, the drop chance for items in Kanto will be debuffed for any loot with a Tier rarer than Rare (ie: Epic, Legendary, Mythic).
+After reaching [[Sinnoh]], the drop chance for items will be [[Dungeons#Dungeon Loot Regional Debuff|debuffed]].
 
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears
 |-
-| align="center" colspan=5| '''Common'''
+| align="center" colspan=6| '''Common'''
 |-
-| {{Bag2|xAttack}} || 2 || 50.45% || 50.45% || 50.45%
+| {{Bag2|xAttack}} || 2 || 50.45% || 50.45% || 50.45% || 50.45%
 |-
-| {{Bag2|Chesto}} || N/A || 25.23% || 25.23% || 25.23%
+| {{Bag2|Chesto}} || 1 || 25.23% || 25.23% || 25.23% || 25.23%
 |-
-| align="center" colspan=5| '''Rare'''
+| align="center" colspan=6| '''Rare'''
 |-
-| {{Bag2|Green Shard}} || N/A || 24.22% || 24.22% || 24.22%
+| {{Bag2|Green Shard}} || 1 || 24.22% || 24.22% || 24.22% || 24.22%
 |-
-| align="center" colspan=5| '''Legendary'''
+| align="center" colspan=6| '''Legendary'''
 |-
-| {{Bag2|Greatball}} || N/A || 0.03% || 0.03% || 0.03%
+| {{Bag2|Greatball}} || 1 || 0.03% || 0.03% || 0.03% || 0.03%
 |-
-| {{Bag2|Medium Restore}} || N/A || 0.03% || 0.03% || 0.03%
+| {{Bag2|Medium Restore}} || 1 || 0.03% || 0.03% || 0.03% || 0.03%
 |-
-| {{Bag2|Star Piece}} || N/A || 0.03% || 0.03% || 0.03%
+| {{Bag2|Star Piece}} || 1 || 0.03% || 0.03% || 0.03% || 0.03%
 |-
-| {{Bag2|Revive}} || N/A || 0.03% || 0.03% || 0.03%
+| {{Bag2|Revive}} || 1 || 0.03% || 0.03% || 0.03% || 0.03%
 |-
-| align="center" colspan=5| '''Mythic'''
+| align="center" colspan=6| '''Mythic'''
 |-
-| {{Bag2|Rare Bone}} || N/A || &lt;0.01% || &lt;0.01% || &lt;0.01%
+| {{Bag2|Rare Bone}} || 1 || &lt;0.01% || &lt;0.01% || &lt;0.01% || &lt;0.01%
 |-
-| {{Bag2|Ultraball}} || N/A || &lt;0.01% || &lt;0.01% || &lt;0.01%
+| {{Bag2|Ultraball}} || 1 || &lt;0.01% || &lt;0.01% || &lt;0.01% || &lt;0.01%
 |-
-| {{Bag2|Large Restore}} || N/A || &lt;0.01% || &lt;0.01% || &lt;0.01%
+| {{Bag2|Large Restore}} || 1 || &lt;0.01% || &lt;0.01% || &lt;0.01% || &lt;0.01%
 |}
 &lt;/tab&gt;
 &lt;/tabs&gt;
@@ -154,9 +153,9 @@ After Reaching Sinnoh, the drop chance for items in Kanto will be debuffed for a
       <username>ThePantMan</username>
       <id>8</id>
     </contributor>
-    <comment>/* Tabs */</comment>
+    <comment>/* small fix */</comment>
     <model>wikitext</model>
-    <parentid>4819</parentid>
-    <sha1>b7533b8cf453bb1e1dccd55e6349fc5bd76325b0</sha1>
+    <parentid>33462</parentid>
+    <sha1>d720d5a14d32e9cca62a4288b87dfc9d7c16e3cd</sha1>
   </revision>
 </page></mediawiki>

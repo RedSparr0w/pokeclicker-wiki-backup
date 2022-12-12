@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>10147</id>
   <revision>
-    <id>30070</id>
-    <timestamp>2022-12-04T21:15:17Z</timestamp>
-    <text space="preserve" bytes="2828">{{Infobox dungeon
+    <id>33444</id>
+    <timestamp>2022-12-11T22:28:43Z</timestamp>
+    <text space="preserve" bytes="2970">{{Infobox dungeon
 |name    = Galar Mine No. 2
 |image   = [[File:Galar Mine No. 2.png|thumb]]
 |caption = A map of Galar Mine No. 2.
@@ -60,44 +60,48 @@
 
 ==Items==
 
+&lt;tabs&gt;
+&lt;tab name="Base"&gt;
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears
 |-
-| align="center" colspan=5| '''Common'''
+| align="center" colspan=6| '''Common'''
 |-
-| {{Bag2|Dowsing Machine}} || 4 || 42.85% || 41.23% || 34.65%
+| {{Bag2|Dowsing Machine}} || 4 || 42.85% || 41.23% || 38.78% || 34.65%
 |-
-| {{Bag2|xClick}} || 2.5 || 26.78% || 25.77% || 21.66%
+| {{Bag2|xClick}} || 2.5 || 26.78% || 25.77% || 24.24% || 21.66%
 |-
-| {{Pokemon|Galarian Stunfisk}} || 0.5 || 5.36% || 5.15% || 4.33%
+| {{Pokemon|Galarian Stunfisk|Mimic=Mimic|Size=40px}} || 0.5 || 5.36% || 5.15% || 4.85% || 4.33%
 |-
-| align="center" colspan=5| '''Rare'''
+| align="center" colspan=6| '''Rare'''
 |-
-| {{Bag2|Blue Shard}} || N/A || 10.01% || 10.52% || 12.61%
+| {{Bag2|Blue Shard}} || 1 || 10.01% || 10.52% || 11.30% || 12.61%
 |-
-| {{Bag2|Ochre Shard}} || N/A || 10.01% || 10.52% || 12.61%
+| {{Bag2|Ochre Shard}} || 1 || 10.01% || 10.52% || 11.30% || 12.61%
 |-
-| align="center" colspan=5| '''Epic'''
+| align="center" colspan=6| '''Epic'''
 |-
-| {{Bag2|Earth Plate}} || N/A || 2.01% || 2.61% || 5.05%
+| {{Bag2|Earth Plate}} || 1 || 2.01% || 2.61% || 3.52% || 5.05%
 |-
-| {{Bag2|Duskball}} || N/A || 2.01% || 2.61% || 5.05%
+| {{Bag2|Duskball}} || 1 || 2.01% || 2.61% || 3.52% || 5.05%
 |-
-| align="center" colspan=5| '''Legendary'''
+| align="center" colspan=6| '''Legendary'''
 |-
-| {{Bag2|Star Piece}} || N/A || 1.00% || 1.59% || 4.03%
+| {{Bag2|Star Piece}} || 1 || 1.00% || 1.59% || 2.50% || 4.03%
 |}
+&lt;/tab&gt;
+&lt;/tabs&gt;
 
 {{Galar Dungeons}}
 [[Category:Dungeons|^Region #8 - Galar^c]]</text>
     <contributor>
-      <username>CypherX</username>
-      <id>15</id>
+      <username>Jk13</username>
+      <id>14</id>
     </contributor>
-    <comment></comment>
+    <comment>/* Items */</comment>
     <model>wikitext</model>
-    <parentid>30045</parentid>
-    <sha1>69b804b1808a38be486105eb3215f8c9721dcfac</sha1>
+    <parentid>30070</parentid>
+    <sha1>90f171d1b79a3af0c8d6d51bd9dbfc94cf3a50a7</sha1>
   </revision>
 </page></mediawiki>

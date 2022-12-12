@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>368</id>
   <revision>
-    <id>32914</id>
-    <timestamp>2022-12-08T02:46:44Z</timestamp>
-    <text space="preserve" bytes="2670">{{Infobox dungeon
+    <id>33502</id>
+    <timestamp>2022-12-12T00:41:33Z</timestamp>
+    <text space="preserve" bytes="2766">{{Infobox dungeon
 |name    = Burned Tower
 |image   = [[File:Burned Tower.png|thumb]]
 |caption = An outside view of Burned Tower.
@@ -50,60 +50,59 @@
 ==Items==
 
 &lt;tabs&gt;
-&lt;tab name="No Debuff"&gt;
-
+&lt;tab name="Base"&gt;
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears
 |-
 | align="center" colspan=6| '''Common'''
 |-
-| {{Bag2|Dowsing Machine}} || 2 || 52.08% || 50.75% || 44.97%
+| {{Bag2|Dowsing Machine}} || 2 || 52.08% || 50.75% || 48.67% || 44.97%
 |-
-| {{Bag2|xAttack}} || N/A || 26.04% || 25.38% || 22.49%
+| {{Bag2|xAttack}} || 1 || 26.04% || 25.38% || 24.33% || 22.49%
 |-
 | align="center" colspan=6| '''Rare'''
 |-
-| {{Bag2|Red Shard}} || N/A || 20.85% || 22.19% || 28.05%
+| {{Bag2|Red Shard}} || 1 || 20.85% || 22.19% || 24.31% || 28.05%
 |-
 | align="center" colspan=6| '''Legendary'''
 |-
-| {{Bag2|Revive}} || N/A || 0.26% || 0.42% || 1.12%
+| {{Bag2|Revive}} || 1 || 0.26% || 0.42% || 0.67% || 1.12%
 |-
-| {{Bag2|Flame Plate}} || N/A || 0.26% || 0.42% || 1.12%
+| {{Bag2|Flame Plate}} || 1 || 0.26% || 0.42% || 0.67% || 1.12%
 |-
-| {{Bag2|Ultraball}} || N/A || 0.26% || 0.42% || 1.12%
+| {{Bag2|Ultraball}} || 1 || 0.26% || 0.42% || 0.67% || 1.12%
 |-
-| {{Bag2|Charcoal}} || N/A || 0.26% || 0.42% || 1.12%
+| {{Bag2|Charcoal}} || 1 || 0.26% || 0.42% || 0.67% || 1.12%
 |}
 &lt;/tab&gt;
 
 &lt;tab name="Debuff"&gt;
-After Reaching Unova, the drop chance for items in Johto will be debuffed for any loot with a Tier rarer than Rare (ie: Epic, Legendary, Mythic).
+After reaching [[Unova]], the drop chance for items will be [[Dungeons#Dungeon Loot Regional Debuff|debuffed]].
 
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears
 |-
 | align="center" colspan=6| '''Common'''
 |-
-| {{Bag2|Dowsing Machine}} || 2 || 50.45% || 50.45% || 50.45%
+| {{Bag2|Dowsing Machine}} || 2 || 50.45% || 50.45% || 50.45% || 50.45%
 |-
-| {{Bag2|xAttack}} || N/A || 25.23% || 25.23% || 25.23%
+| {{Bag2|xAttack}} || 1 || 25.23% || 25.23% || 25.23% || 25.23%
 |-
 | align="center" colspan=6| '''Rare'''
 |-
-| {{Bag2|Red Shard}} || N/A || 24.22% || 24.22% || 24.22%
+| {{Bag2|Red Shard}} || 1 || 24.22% || 24.22% || 24.22% || 24.22%
 |-
 | align="center" colspan=6| '''Legendary'''
 |-
-| {{Bag2|Revive}} || N/A || 0.03% || 0.03% || 0.03%
+| {{Bag2|Revive}} || 1 || 0.03% || 0.03% || 0.03% || 0.03%
 |-
-| {{Bag2|Flame Plate}} || N/A || 0.03% || 0.03% || 0.03%
+| {{Bag2|Flame Plate}} || 1 || 0.03% || 0.03% || 0.03% || 0.03%
 |-
-| {{Bag2|Ultraball}} || N/A || 0.03% || 0.03% || 0.03%
+| {{Bag2|Ultraball}} || 1 || 0.03% || 0.03% || 0.03% || 0.03%
 |-
-| {{Bag2|Charcoal}} || N/A || 0.03% || 0.03% || 0.03%
+| {{Bag2|Charcoal}} || 1 || 0.03% || 0.03% || 0.03% || 0.03%
 |}
 &lt;/tab&gt;
 &lt;/tabs&gt;
@@ -116,9 +115,9 @@ After Reaching Unova, the drop chance for items in Johto will be debuffed for an
       <username>ThePantMan</username>
       <id>8</id>
     </contributor>
-    <comment>/* Tabs */</comment>
+    <comment>/* loot */</comment>
     <model>wikitext</model>
-    <parentid>5236</parentid>
-    <sha1>1ae97f83b6501a25e9ad7fa6d7600bb1963ab7c4</sha1>
+    <parentid>32914</parentid>
+    <sha1>25171d8f1c8d5f589a3115a40beb2f4e74292d38</sha1>
   </revision>
 </page></mediawiki>

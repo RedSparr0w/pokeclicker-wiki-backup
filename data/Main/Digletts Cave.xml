@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>318</id>
   <revision>
-    <id>32893</id>
-    <timestamp>2022-12-08T02:19:47Z</timestamp>
-    <text space="preserve" bytes="2375">{{Infobox dungeon
+    <id>33475</id>
+    <timestamp>2022-12-12T00:21:50Z</timestamp>
+    <text space="preserve" bytes="2461">{{Infobox dungeon
 |name    = Digletts Cave
 |image   = [[File:Digletts Cave.png|thumb]]
 |caption = An overhead map of Digletts Cave.
@@ -40,56 +40,55 @@
 ==Items==
 
 &lt;tabs&gt;
-&lt;tab name="No Debuff"&gt;
-
+&lt;tab name="Base"&gt;
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears
 |-
-| align="center" colspan=5| '''Common'''
+| align="center" colspan=6| '''Common'''
 |-
-| {{Bag2|xClick}} || N/A || 39.46% || 38.62% || 34.88%
+| {{Bag2|xClick}} || 1 || 39.46% || 38.62% || 37.29% || 34.88%
 |-
-| {{Bag2|Lucky Incense}} || N/A || 39.46% || 38.62% || 34.88%
+| {{Bag2|Lucky Incense}} || 1 || 39.46% || 38.62% || 37.29% || 34.88%
 |-
-| align="center" colspan=5| '''Rare'''
+| align="center" colspan=6| '''Rare'''
 |-
-| {{Bag2|Blue Shard}} || N/A || 10.53% || 11.26% || 14.50%
+| {{Bag2|Blue Shard}} || 1 || 10.53% || 11.26% || 12.42% || 14.50%
 |-
-| {{Bag2|Yellow Shard}} || N/A || 10.53% || 11.26% || 14.50%
+| {{Bag2|Yellow Shard}} || 1 || 10.53% || 11.26% || 12.42% || 14.50%
 |-
-| align="center" colspan=5| '''Mythic'''
+| align="center" colspan=6| '''Mythic'''
 |-
-| {{Bag2|Wiki}} || 2 || 0.01% || 0.16% || 0.82%
+| {{Bag2|Wiki}} || 2 || 0.01% || 0.16% || 0.39% || 0.82%
 |-
-| {{Bag2|Max Revive}} || N/A || &lt;0.01% || 0.08% || 0.41%
+| {{Bag2|Max Revive}} || 1 || &lt;0.01% || 0.08% || 0.20% || 0.41%
 |}
 &lt;/tab&gt;
 
 &lt;tab name="Debuff"&gt;
-After Reaching Sinnoh, the drop chance for items in Kanto will be debuffed for any loot with a Tier rarer than Rare (ie: Epic, Legendary, Mythic).
+After reaching [[Sinnoh]], the drop chance for items will be [[Dungeons#Dungeon Loot Regional Debuff|debuffed]].
 
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears
 |-
-| align="center" colspan=5| '''Common'''
+| align="center" colspan=6| '''Common'''
 |-
-| {{Bag2|xClick}} || N/A || 37.88% || 37.88% || 37.88%
+| {{Bag2|xClick}} || 1 || 37.88% || 37.88% || 37.88% || 37.88%
 |-
-| {{Bag2|Lucky Incense}} || N/A || 37.88% || 37.88% || 37.88%
+| {{Bag2|Lucky Incense}} || 1 || 37.88% || 37.88% || 37.88% || 37.88%
 |-
-| align="center" colspan=5| '''Rare'''
+| align="center" colspan=6| '''Rare'''
 |-
-| {{Bag2|Blue Shard}} || N/A || 12.12% || 12.12% || 12.12%
+| {{Bag2|Blue Shard}} || 1 || 12.12% || 12.12% || 12.12% || 12.12%
 |-
-| {{Bag2|Yellow Shard}} || N/A || 12.12% || 12.12% || 12.12%
+| {{Bag2|Yellow Shard}} || 1 || 12.12% || 12.12% || 12.12% || 12.12%
 |-
-| align="center" colspan=5| '''Mythic'''
+| align="center" colspan=6| '''Mythic'''
 |-
-| {{Bag2|Wiki}} || 2 || &lt;0.01% || &lt;0.01% || &lt;0.01%
+| {{Bag2|Wiki}} || 2 || &lt;0.01% || &lt;0.01% || &lt;0.01% || &lt;0.01%
 |-
-| {{Bag2|Max Revive}} || N/A || &lt;0.01% || &lt;0.01% || &lt;0.01%
+| {{Bag2|Max Revive}} || 1 || &lt;0.01% || &lt;0.01% || &lt;0.01% || &lt;0.01%
 |}
 &lt;/tab&gt;
 &lt;/tabs&gt;
@@ -101,9 +100,9 @@ After Reaching Sinnoh, the drop chance for items in Kanto will be debuffed for a
       <username>ThePantMan</username>
       <id>8</id>
     </contributor>
-    <comment>/* Tabs */</comment>
+    <comment>/* small fix */</comment>
     <model>wikitext</model>
-    <parentid>4700</parentid>
-    <sha1>ee466dc94ec87f0e4812f58ced353066183b221a</sha1>
+    <parentid>33459</parentid>
+    <sha1>4847e516024de2d4107dff5ec6ca63f3f5fa5ad7</sha1>
   </revision>
 </page></mediawiki>

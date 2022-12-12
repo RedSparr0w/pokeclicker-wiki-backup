@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>374</id>
   <revision>
-    <id>32917</id>
-    <timestamp>2022-12-08T02:51:57Z</timestamp>
-    <text space="preserve" bytes="4178">{{Infobox dungeon
+    <id>33505</id>
+    <timestamp>2022-12-12T00:43:59Z</timestamp>
+    <text space="preserve" bytes="4372">{{Infobox dungeon
 |name    = Mt Mortar
 |image   = [[File:Mt Mortar.png|thumb]]
 |caption = A map of Mt Mortar.
@@ -54,92 +54,91 @@
 ==Items==
 
 &lt;tabs&gt;
-&lt;tab name="No Debuff"&gt;
-
+&lt;tab name="Base"&gt;
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears
 |-
 | align="center" colspan=6| '''Common'''
 |-
-| {{Bag2|xAttack}} || 6 || 64.26% || 61.71% || 51.43%
+| {{Bag2|xAttack}} || 6 || 64.26% || 61.71% || 57.86% || 51.43%
 |-
-| {{Pokemon|Graveler|Mimic}} || N/A || 10.71% || 10.29% || 8.57%
+| {{Pokemon|Graveler|Mimic=Mimic}} || 1 || 10.71% || 10.29% || 9.64% || 8.57%
 |-
 | align="center" colspan=6| '''Rare'''
 |-
-| {{Bag2|Green Shard}} || N/A || 10.00% || 10.50% || 12.47%
+| {{Bag2|Green Shard}} || 1 || 10.00% || 10.50% || 11.24% || 12.47%
 |-
-| {{Bag2|Grey Shard}} || N/A || 10.00% || 10.50% || 12.47%
+| {{Bag2|Grey Shard}} || 1 || 10.00% || 10.50% || 11.24% || 12.47%
 |-
 | align="center" colspan=6| '''Epic'''
 |-
-| {{Bag2|Iron Plate}} || N/A || 1.00% || 1.30% || 2.50%
+| {{Bag2|Iron Plate}} || 1 || 1.00% || 1.30% || 1.75% || 2.50%
 |-
-| {{Bag2|Stone Plate}} || N/A || 1.00% || 1.30% || 2.50%
+| {{Bag2|Stone Plate}} || 1 || 1.00% || 1.30% || 1.75% || 2.50%
 |-
-| {{Bag2|Earth Plate}} || N/A || 1.00% || 1.30% || 2.50%
+| {{Bag2|Earth Plate}} || 1 || 1.00% || 1.30% || 1.75% || 2.50%
 |-
-| {{Bag2|Draco Plate}} || N/A || 1.00% || 1.30% || 2.50%
+| {{Bag2|Draco Plate}} || 1 || 1.00% || 1.30% || 1.75% || 2.50%
 |-
 | align="center" colspan=6| '''Legendary'''
 |-
-| {{Bag2|Ultraball}} || N/A || 0.25% || 0.40% || 1.00%
+| {{Bag2|Ultraball}} || 1 || 0.25% || 0.40% || 0.62% || 1.00%
 |-
-| {{Bag2|Large Restore}} || N/A || 0.25% || 0.40% || 1.00%
+| {{Bag2|Large Restore}} || 1 || 0.25% || 0.40% || 0.62% || 1.00%
 |-
-| {{Bag2|Revive}} || N/A || 0.25% || 0.40% || 1.00%
+| {{Bag2|Revive}} || 1 || 0.25% || 0.40% || 0.62% || 1.00%
 |-
-| {{Bag2|Black Belt}} || N/A || 0.25% || 0.40% || 1.00%
+| {{Bag2|Black Belt}} || 1 || 0.25% || 0.40% || 0.62% || 1.00%
 |-
 | align="center" colspan=6| '''Mythic'''
 |-
-| {{Bag2|Max Revive}} || N/A || 0.01% || 0.22% || 1.06%
+| {{Bag2|Max Revive}} || 1 || 0.01% || 0.22% || 0.53% || 1.06%
 |}
 &lt;/tab&gt;
 
 &lt;tab name="Debuff"&gt;
-After Reaching Unova, the drop chance for items in Johto will be debuffed for any loot with a Tier rarer than Rare (ie: Epic, Legendary, Mythic).
+After reaching [[Unova]], the drop chance for items will be [[Dungeons#Dungeon Loot Regional Debuff|debuffed]].
 
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears
 |-
 | align="center" colspan=6| '''Common'''
 |-
-| {{Bag2|xAttack}} || 6 || 64.29% || 64.29% || 64.29%
+| {{Bag2|xAttack}} || 6 || 64.29% || 64.29% || 64.29% || 64.29%
 |-
-| {{Pokemon|Graveler|Mimic}} || N/A || 10.71% || 10.71% || 10.71%
+| {{Pokemon|Graveler|Mimic=Mimic}} || 1 || 10.71% || 10.71% || 10.71% || 10.71%
 |-
 | align="center" colspan=6| '''Rare'''
 |-
-| {{Bag2|Green Shard}} || N/A || 12.00% || 12.00% || 12.00%
+| {{Bag2|Green Shard}} || 1 || 12.00% || 12.00% || 12.00% || 12.00%
 |-
-| {{Bag2|Grey Shard}} || N/A || 12.00% || 12.00% || 12.00%
+| {{Bag2|Grey Shard}} || 1 || 12.00% || 12.00% || 12.00% || 12.00%
 |-
 | align="center" colspan=6| '''Epic'''
 |-
-| {{Bag2|Iron Plate}} || N/A || 0.22% || 0.22% || 0.22%
+| {{Bag2|Iron Plate}} || 1 || 0.22% || 0.22% || 0.22% || 0.22%
 |-
-| {{Bag2|Stone Plate}} || N/A || 0.22% || 0.22% || 0.22%
+| {{Bag2|Stone Plate}} || 1 || 0.22% || 0.22% || 0.22% || 0.22%
 |-
-| {{Bag2|Earth Plate}} || N/A || 0.22% || 0.22% || 0.22%
+| {{Bag2|Earth Plate}} || 1 || 0.22% || 0.22% || 0.22% || 0.22%
 |-
-| {{Bag2|Draco Plate}} || N/A || 0.22% || 0.22% || 0.22%
+| {{Bag2|Draco Plate}} || 1 || 0.22% || 0.22% || 0.22% || 0.22%
 |-
 | align="center" colspan=6| '''Legendary'''
 |-
-| {{Bag2|Ultraball}} || N/A || 0.03% || 0.03% || 0.03%
+| {{Bag2|Ultraball}} || 1 || 0.03% || 0.03% || 0.03% || 0.03%
 |-
-| {{Bag2|Large Restore}} || N/A || 0.03% || 0.03% || 0.03%
+| {{Bag2|Large Restore}} || 1 || 0.03% || 0.03% || 0.03% || 0.03%
 |-
-| {{Bag2|Revive}} || N/A || 0.03% || 0.03% || 0.03%
+| {{Bag2|Revive}} || 1 || 0.03% || 0.03% || 0.03% || 0.03%
 |-
-| {{Bag2|Black Belt}} || N/A || 0.03% || 0.03% || 0.03%
+| {{Bag2|Black Belt}} || 1 || 0.03% || 0.03% || 0.03% || 0.03%
 |-
 | align="center" colspan=6| '''Mythic'''
 |-
-| {{Bag2|Max Revive}} || N/A || &lt;0.01% || &lt;0.01% || &lt;0.01%
+| {{Bag2|Max Revive}} || 1 || &lt;0.01% || &lt;0.01% || &lt;0.01% || &lt;0.01%
 |}
 &lt;/tab&gt;
 &lt;/tabs&gt;
@@ -151,9 +150,9 @@ After Reaching Unova, the drop chance for items in Johto will be debuffed for an
       <username>ThePantMan</username>
       <id>8</id>
     </contributor>
-    <comment>/* Loot update */</comment>
+    <comment>/* loot */</comment>
     <model>wikitext</model>
-    <parentid>5301</parentid>
-    <sha1>ebcee11384ae5282c3ed35213feea4b19a22dd53</sha1>
+    <parentid>32917</parentid>
+    <sha1>e3b71aa016ac600b7ab2a26be7dde64ac04e2be8</sha1>
   </revision>
 </page></mediawiki>

@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>191</id>
   <revision>
-    <id>3246</id>
-    <timestamp>2022-07-29T08:03:40Z</timestamp>
-    <text space="preserve" bytes="11671">&lt;languages/&gt;
+    <id>33338</id>
+    <timestamp>2022-12-11T16:33:13Z</timestamp>
+    <text space="preserve" bytes="11716">&lt;languages/&gt;
 &lt;translate&gt;
 &lt;!--T:1--&gt;
 [[File:Pokeclicker_Farm_Interface.png|400px|thumb|The Farm interface, with multiple berries planted.]]
@@ -80,7 +80,7 @@ Berries that mutate by growing near required berries must have the required berr
 ''Note: Depending on the Flavor profile required for the Berry to evolve, an evolution mutation may occur while the berries are still in the Taller or Bloom growth stages, rather than only when Ripe.''
 
 &lt;!--T:22--&gt;
-Berries that mutate by evolving will replace an existing ripe berry with the mutated berry.  Here is an example of mutating [[Spelon]], white background squares are where mutation is impossible, purple squares are where mutation is possible, and where surprise mulch should be applied (if you want to improve your odds):
+Berries that mutate by evolving will replace an existing ripe berry with the mutated berry. This mutation can happen from Taller stage. Here is an example of mutating [[Spelon]], white background squares are where mutation is impossible, purple squares are where mutation is possible, and where surprise mulch should be applied (if you want to improve your odds):
 {| class="wikitable" style="text-align: center;"
 |+ Mutating Spelon, 9x9
 |-
@@ -137,7 +137,7 @@ Extra plots can be unlocked by spending Farming Points and Berries to allow more
 |-
 | Kerry [[File:Kerry.png|20px]] || 100,000 Farming Points {{farmpoints}} || Hoenn Berry Master
 |-
-| Riley [[File:Riley.png|20px]] || 200,000 Farming Points {{farmpoints}} || Sinnoh Berry Master 
+| Riley [[File:FHRiley.png|20px]] || 200,000 Farming Points {{farmpoints}} || Sinnoh Berry Master 
 |-
 | Jamie [[File:Jamie.png|20px]] || 20,000 [[Battle Points]] {{Battlepoints}} || [[Battle Frontier]]
 |-
@@ -152,12 +152,12 @@ Farms with at least one ripe Berry can attract [[Wandering Pokémon]] that are a
 [[Category:Farm]]
 &lt;/translate&gt;</text>
     <contributor>
-      <username>Jk13</username>
-      <id>14</id>
+      <username>ThePantMan</username>
+      <id>8</id>
     </contributor>
-    <comment>Marked this version for translation</comment>
+    <comment>/* Added Taller to mutation */</comment>
     <model>wikitext</model>
-    <parentid>3245</parentid>
-    <sha1>1b8b3454c7fb6db1667e40862145f3030e556c39</sha1>
+    <parentid>33309</parentid>
+    <sha1>f8a1360c0bf8ccdff4c4b99f975ae12a7442f675</sha1>
   </revision>
 </page></mediawiki>

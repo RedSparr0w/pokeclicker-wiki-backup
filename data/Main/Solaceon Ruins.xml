@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>1885</id>
   <revision>
-    <id>33007</id>
-    <timestamp>2022-12-08T16:15:12Z</timestamp>
-    <text space="preserve" bytes="3469">{{Infobox dungeon
+    <id>33562</id>
+    <timestamp>2022-12-12T01:56:15Z</timestamp>
+    <text space="preserve" bytes="3537">{{Infobox dungeon
 |name    = Solaceon Ruins
 |image   = [[File:Solaceon_Ruins.png|300px]]
 |caption = A map of Solaceon Ruins.
@@ -54,51 +54,51 @@
 ==Items==
 
 &lt;tabs&gt;
-&lt;tab name="No Debuff"&gt;
+&lt;tab name="Base"&gt;
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears
 |-
 | align="center" colspan=6| '''Common'''
 |-
-| {{Bag2|Lucky Incense}} || 2 || 50.49% || 48.88% || 42.13%
+| {{Bag2|Lucky Incense}} || 2 || 50.49% || 48.88% || 46.40% || 42.13%
 |-
-| {{Bag2|Persim}} || N/A || 25.24% || 24.44% || 21.06%
+| {{Bag2|Persim}} || 1 || 25.24% || 24.44% || 23.20% || 21.06%
 |-
 | align="center" colspan=6| '''Rare'''
 |-
-| {{Bag2|Crimson Shard}} || N/A || 20.21% || 21.38% || 26.28%
+| {{Bag2|Crimson Shard}} || 1 || 20.21% || 21.38% || 23.18% || 26.28%
 |-
 | align="center" colspan=6| '''Epic'''
 |-
-| {{Bag2|Mind Plate}} || N/A || 2.03% || 2.65% || 5.27%
+| {{Bag2|Mind Plate}} || 1 || 2.03% || 2.65% || 3.61% || 5.27%
 |-
-| {{Bag2|Sky Plate}} || N/A || 2.03% || 2.65% || 5.27%
+| {{Bag2|Sky Plate}} || 1 || 2.03% || 2.65% || 3.61% || 5.27%
 |}
 &lt;/tab&gt;
 
 &lt;tab name="Debuff"&gt;
-After Reaching Alola, the drop chance for items in Sinnoh will be debuffed for any loot with a Tier rarer than Rare (ie: Epic, Legendary, Mythic).
+After reaching [[Alola]], the drop chance for items will be [[Dungeons#Dungeon Loot Regional Debuff|debuffed]].
 
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears
 |-
 | align="center" colspan=6| '''Common'''
 |-
-| {{Bag2|Lucky Incense}} || 2 || 50.05% || 50.05% || 50.05%
+| {{Bag2|Lucky Incense}} || 2 || 50.05% || 50.05% || 50.05% || 50.05%
 |-
-| {{Bag2|Persim}} || N/A || 25.03% || 25.03% || 25.03%
+| {{Bag2|Persim}} || 1 || 25.03% || 25.03% || 25.03% || 25.03%
 |-
 | align="center" colspan=6| '''Rare'''
 |-
-| {{Bag2|Crimson Shard}} || N/A || 24.02% || 24.02% || 24.02%
+| {{Bag2|Crimson Shard}} || 1 || 24.02% || 24.02% || 24.02% || 24.02%
 |-
 | align="center" colspan=6| '''Epic'''
 |-
-| {{Bag2|Mind Plate}} || N/A || 0.45% || 0.45% || 0.45%
+| {{Bag2|Mind Plate}} || 1 || 0.45% || 0.45% || 0.45% || 0.45%
 |-
-| {{Bag2|Sky Plate}} || N/A || 0.45% || 0.45% || 0.45%
+| {{Bag2|Sky Plate}} || 1 || 0.45% || 0.45% || 0.45% || 0.45%
 |}
 &lt;/tab&gt;
 &lt;/tabs&gt;
@@ -110,9 +110,9 @@ After Reaching Alola, the drop chance for items in Sinnoh will be debuffed for a
       <username>ThePantMan</username>
       <id>8</id>
     </contributor>
-    <comment>/* Tabs */</comment>
+    <comment>/* loot */</comment>
     <model>wikitext</model>
-    <parentid>10902</parentid>
-    <sha1>a71eac59bf19645cfa91b3d28d5f563bbe2e91da</sha1>
+    <parentid>33007</parentid>
+    <sha1>646633405edc2b8ad06958635899674865b19837</sha1>
   </revision>
 </page></mediawiki>

@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>4271</id>
   <revision>
-    <id>32244</id>
-    <timestamp>2022-12-07T03:11:27Z</timestamp>
-    <text space="preserve" bytes="6214">&lt;languages/&gt;
+    <id>33340</id>
+    <timestamp>2022-12-11T16:41:35Z</timestamp>
+    <text space="preserve" bytes="7263">&lt;languages/&gt;
 &lt;translate&gt;
 &lt;!--T:1--&gt;
 [[File:Charmander_infected.png|thumb|200px|A Shiny Charmander in the Hatchery, infected by Pokérus [[File:Pokerus.png|20px]]]]
@@ -94,9 +94,50 @@ Different methods of catching a Pokémon will yield different amounts of EVs. If
 |-
 | Variable || [[Rowap|Rowap Berry Aura]] 
 |}
-'''Note:''' The pokemons that wander to any berry won't get any EV
+'''Note:''' The pokemons that wander to any berry won't get any EV. The following table list the pokemon that can't get EV in some situations. 
+
+{| class="wikitable"
+! Pokémon !! Situation when it can't get EV
+|-
+|[[File:Tangela.png|40px]] Tangela || Wanderer
+|-
+|[[File:Scyther.png|40px]] Scyther || Wanderer
+|-
+|[[File:Magikarp.png|40px]] Magikarp || Shop Pokémon
+|-
+|[[File:Pineco.png|40px]] Pineco || Wanderer
+|-
+|[[File:Heracross.png|40px]] Heracross || Wanderer
+|-
+|[[File:Volbeat.png|40px]] Volbeat || Wanderer
+|-
+|[[File:Illumise.png|40px]] Illumise || Wanderer
+|-
+|[[File:Burmy_(Plant).png|40px]] Burmy (Plant) || Wanderer
+|-
+|[[File:Combee.png|40px]] Combee || Wanderer
+|-
+|[[File:Cherubi.png|40px]] Cherubi || Wanderer
+|-
+|[[File:Sewaddle.png|40px]] Sewaddle || Wanderer
+|-
+|[[File:Karrablast.png|40px]] Karrablast || Wanderer
+|-
+|[[File:Scatterbug.png|40px]] Scatterbug || Wanderer
+|-
+|[[File:Bounsweet.png|40px]] Bounsweet || Wanderer
+|-
+|[[File:Cutiefly.png|40px]] Cutiefly || Wanderer
+|-
+|[[File:Blipbug.png|40px]] Blipbug || Wanderer
+|-
+|[[File:Gossifleur.png|40px]] Gossifleur || Wanderer
+|} 
+
 
 &lt;!--T:14--&gt;
+.
+
 ====Examples====
 Example 1: Catching a '''Shiny Dungeon Pokémon''' with a [[Repeatball]] yields: &lt;math&gt;0.1 * 3 * 5 * 5 = 7.5 EVs&lt;/math&gt;&lt;br&gt;&lt;br&gt;
 Example 2: Catching a '''Shiny Roaming Pokémon''' yields: &lt;math&gt;0.1 * 5 * 50 = 25 EVs&lt;/math&gt;&lt;br&gt;&lt;br&gt;
@@ -137,12 +178,12 @@ Pokemon that have: contracted Pokérus, have left the hatchery after contracting
 &lt;math&gt;\colorbox{White}{$ \text{EV Damage Multiplier} = \text{EVs}^{(\frac{\log 1.5}{\log 50})}$}&lt;/math&gt;
 &lt;/translate&gt;</text>
     <contributor>
-      <username>Jk13</username>
-      <id>14</id>
+      <username>DraKay</username>
+      <id>18</id>
     </contributor>
-    <comment>Formula cleanup</comment>
+    <comment>/* EV Modifiers */</comment>
     <model>wikitext</model>
-    <parentid>30569</parentid>
-    <sha1>2932a66905f8488fb7c8c6390d73a29d88f2a9ed</sha1>
+    <parentid>33339</parentid>
+    <sha1>7ed29ac2253b029f0839f5a46f72509aab9f88f1</sha1>
   </revision>
 </page></mediawiki>

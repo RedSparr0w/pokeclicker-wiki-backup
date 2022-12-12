@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>4280</id>
   <revision>
-    <id>32897</id>
-    <timestamp>2022-12-08T02:24:23Z</timestamp>
-    <text space="preserve" bytes="7499">{{Infobox dungeon
+    <id>33484</id>
+    <timestamp>2022-12-12T00:24:10Z</timestamp>
+    <text space="preserve" bytes="7632">{{Infobox dungeon
 |name    = Silph Co
 |image   = [[File:Silph Co.png|thumb]]
 |caption = An overhead map of Silph Co.
@@ -99,68 +99,67 @@ The '''Silph Co''' is a [[Dungeons|dungeon]] in [[Kanto]]. It has 25 tiles arran
 ==Items==
 
 &lt;tabs&gt;
-&lt;tab name="No Debuff"&gt;
-
+&lt;tab name="Base"&gt;
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears
 |-
-| align="center" colspan=5| '''Common'''
+| align="center" colspan=6| '''Common'''
 |-
-| {{Bag2|Dowsing Machine}} || 3 || 33.47% || 32.55% || 28.57%
+| {{Bag2|Dowsing Machine}} || 3 || 33.47% || 32.55% || 31.11% || 28.57%
 |-
-| {{Bag2|Lucky Incense}} || 2 || 22.32% || 21.70% || 19.05%
+| {{Bag2|Lucky Incense}} || 2 || 22.32% || 21.70% || 20.74% || 19.05%
 |-
-| {{Bag2|Pokéball}} || N/A || 11.16% || 10.85% || 9.52%
+| {{Bag2|Pokéball}} || 1 || 11.16% || 10.85% || 10.37% || 9.52%
 |-
-| {{Pokemon|Electrode|Mimic}} || N/A || 11.16% || 10.85% || 9.52%
+| {{Pokemon|Electrode|Mimic=Mimic}} || 1 || 11.16% || 10.85% || 10.37% || 9.52%
 |-
-| align="center" colspan=5| '''Rare'''
+| align="center" colspan=6| '''Rare'''
 |-
-| {{Bag2|Green Shard}} || N/A || 10.42% || 11.07% || 13.86%
+| {{Bag2|Green Shard}} || 1 || 10.42% || 11.07% || 12.08% || 13.86%
 |-
-| {{Bag2|Red Shard}} || N/A || 10.42% || 11.07% || 13.86%
+| {{Bag2|Red Shard}} || 1 || 10.42% || 11.07% || 12.08% || 13.86%
 |-
-| align="center" colspan=5| '''Legendary'''
+| align="center" colspan=6| '''Legendary'''
 |-
-| {{Bag2|Greatball}} || N/A || 1.04% || 1.68% || 4.43%
+| {{Bag2|Greatball}} || 1 || 1.04% || 1.68% || 2.68% || 4.43%
 |-
-| align="center" colspan=5| '''Mythic'''
+| align="center" colspan=6| '''Mythic'''
 |-
-| {{Bag2|Ultraball}} || N/A || 0.01% || 0.23% || 1.18%
+| {{Bag2|Ultraball}} || 1 || 0.01% || 0.23% || 0.58% || 1.18%
 |}
 &lt;/tab&gt;
 
 &lt;tab name="Debuff"&gt;
-After Reaching Sinnoh, the drop chance for items in Kanto will be debuffed for any loot with a Tier rarer than Rare (ie: Epic, Legendary, Mythic).
+After reaching [[Sinnoh]], the drop chance for items will be [[Dungeons#Dungeon Loot Regional Debuff|debuffed]].
 
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears
 |-
-| align="center" colspan=5| '''Common'''
+| align="center" colspan=6| '''Common'''
 |-
-| {{Bag2|Dowsing Machine}} || 3 || 32.43% || 32.43% || 32.43%
+| {{Bag2|Dowsing Machine}} || 3 || 32.43% || 32.43% || 32.43% || 32.43%
 |-
-| {{Bag2|Lucky Incense}} || 2 || 21.62% || 21.62% || 21.62%
+| {{Bag2|Lucky Incense}} || 2 || 21.62% || 21.62% || 21.62% || 21.62%
 |-
-| {{Bag2|Pokéball}} || N/A || 10.81% || 10.81% || 10.81%
+| {{Bag2|Pokéball}} || 1 || 10.81% || 10.81% || 10.81% || 10.81%
 |-
-| {{Pokemon|Electrode|Mimic}} || N/A || 10.81% || 10.81% || 10.81%
+| {{Pokemon|Electrode|Mimic=Mimic}} || 1 || 10.81% || 10.81% || 10.81% || 10.81%
 |-
-| align="center" colspan=5| '''Rare'''
+| align="center" colspan=6| '''Rare'''
 |-
-| {{Bag2|Green Shard}} || N/A || 12.11% || 12.11% || 12.11%
+| {{Bag2|Green Shard}} || 1 || 12.11% || 12.11% || 12.11% || 12.11%
 |-
-| {{Bag2|Red Shard}} || N/A || 12.11% || 12.11% || 12.11%
+| {{Bag2|Red Shard}} || 1 || 12.11% || 12.11% || 12.11% || 12.11%
 |-
-| align="center" colspan=5| '''Legendary'''
+| align="center" colspan=6| '''Legendary'''
 |-
-| {{Bag2|Greatball}} || N/A || 0.10% || 0.10% || 0.10%
+| {{Bag2|Greatball}} || 1 || 0.10% || 0.10% || 0.10% || 0.10%
 |-
-| align="center" colspan=5| '''Mythic'''
+| align="center" colspan=6| '''Mythic'''
 |-
-| {{Bag2|Ultraball}} || N/A || &lt;0.01% || &lt;0.01% || &lt;0.01%
+| {{Bag2|Ultraball}} || 1 || &lt;0.01% || &lt;0.01% || &lt;0.01% || &lt;0.01%
 |}
 &lt;/tab&gt;
 &lt;/tabs&gt;
@@ -173,9 +172,9 @@ After Reaching Sinnoh, the drop chance for items in Kanto will be debuffed for a
       <username>ThePantMan</username>
       <id>8</id>
     </contributor>
-    <comment>/* Tabs */</comment>
+    <comment>/* small fix */</comment>
     <model>wikitext</model>
-    <parentid>15269</parentid>
-    <sha1>03cfc98fcb0a0cd01c505b0abe604eba5daa8922</sha1>
+    <parentid>33463</parentid>
+    <sha1>8d5f5f28c3b9206c7dcd9c85b6c632d0827d8d17</sha1>
   </revision>
 </page></mediawiki>

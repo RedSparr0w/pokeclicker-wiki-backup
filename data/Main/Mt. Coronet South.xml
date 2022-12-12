@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>428</id>
   <revision>
-    <id>33006</id>
-    <timestamp>2022-12-08T16:14:35Z</timestamp>
-    <text space="preserve" bytes="2874">{{Infobox dungeon
+    <id>33561</id>
+    <timestamp>2022-12-12T01:55:38Z</timestamp>
+    <text space="preserve" bytes="2962">{{Infobox dungeon
 |name    = Mt. Coronet South
 |image   = [[File:Mt. Coronet South.png|300px]]
 |caption = A map of Mt. Coronet South.
@@ -58,59 +58,59 @@
 ==Items==
 
 &lt;tabs&gt;
-&lt;tab name="No Debuff"&gt;
+&lt;tab name="Base"&gt;
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears
 |-
 | align="center" colspan=6| '''Common'''
 |-
-| {{Bag2|xAttack}} || 2 || 49.99% || 48.11% || 40.43%
+| {{Bag2|xAttack}} || 2 || 49.99% || 48.11% || 45.24% || 40.43%
 |-
-| {{Bag2|Lucky Incense}} || N/A || 24.99% || 24.05% || 20.21%
+| {{Bag2|Lucky Incense}} || 1 || 24.99% || 24.05% || 22.62% || 20.21%
 |-
 | align="center" colspan=6| '''Rare'''
 |-
-| {{Bag2|Green Shard}} || N/A || 10.01% || 10.52% || 12.61%
+| {{Bag2|Green Shard}} || 1 || 10.01% || 10.52% || 11.30% || 12.61%
 |-
-| {{Bag2|Yellow Shard}} || N/A || 10.01% || 10.52% || 12.61%
+| {{Bag2|Yellow Shard}} || 1 || 10.01% || 10.52% || 11.30% || 12.61%
 |-
 | align="center" colspan=6| '''Epic'''
 |-
-| {{Bag2|Stone Plate}} || N/A || 4.01% || 5.21% || 10.11%
+| {{Bag2|Stone Plate}} || 1 || 4.01% || 5.21% || 7.04% || 10.11%
 |-
 | align="center" colspan=6| '''Legendary'''
 |-
-| {{Bag2|Revive}} || 2 || 1.00% || 1.59% || 4.03%
+| {{Bag2|Revive}} || 2 || 1.00% || 1.59% || 2.50% || 4.03%
 |}
 &lt;/tab&gt;
 
 &lt;tab name="Debuff"&gt;
-After Reaching Alola, the drop chance for items in Sinnoh will be debuffed for any loot with a Tier rarer than Rare (ie: Epic, Legendary, Mythic).
+After reaching [[Alola]], the drop chance for items will be [[Dungeons#Dungeon Loot Regional Debuff|debuffed]].
 
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears
 |-
 | align="center" colspan=6| '''Common'''
 |-
-| {{Bag2|xAttack}} || 2 || 50.00% || 50.00% || 50.00%
+| {{Bag2|xAttack}} || 2 || 50.00% || 50.00% || 50.00% || 50.00%
 |-
-| {{Bag2|Lucky Incense}} || N/A || 25.00% || 25.00% || 25.00%
+| {{Bag2|Lucky Incense}} || 1 || 25.00% || 25.00% || 25.00% || 25.00%
 |-
 | align="center" colspan=6| '''Rare'''
 |-
-| {{Bag2|Green Shard}} || N/A || 12.00% || 12.00% || 12.00%
+| {{Bag2|Green Shard}} || 1 || 12.00% || 12.00% || 12.00% || 12.00%
 |-
-| {{Bag2|Yellow Shard}} || N/A || 12.00% || 12.00% || 12.00%
+| {{Bag2|Yellow Shard}} || 1 || 12.00% || 12.00% || 12.00% || 12.00%
 |-
 | align="center" colspan=6| '''Epic'''
 |-
-| {{Bag2|Stone Plate}} || N/A || 0.90% || 0.90% || 0.90%
+| {{Bag2|Stone Plate}} || 1 || 0.90% || 0.90% || 0.90% || 0.90%
 |-
 | align="center" colspan=6| '''Legendary'''
 |-
-| {{Bag2|Revive}} || 2 || 0.10% || 0.10% || 0.10%
+| {{Bag2|Revive}} || 2 || 0.10% || 0.10% || 0.10% || 0.10%
 |}
 &lt;/tab&gt;
 &lt;/tabs&gt;
@@ -122,9 +122,9 @@ After Reaching Alola, the drop chance for items in Sinnoh will be debuffed for a
       <username>ThePantMan</username>
       <id>8</id>
     </contributor>
-    <comment>/* Tabs */</comment>
+    <comment>/* loot */</comment>
     <model>wikitext</model>
-    <parentid>5686</parentid>
-    <sha1>3f6b351415ed2934b9397776de8060c0d4593b86</sha1>
+    <parentid>33006</parentid>
+    <sha1>39318f42d8615249cf47b5f502d61df503bf542e</sha1>
   </revision>
 </page></mediawiki>

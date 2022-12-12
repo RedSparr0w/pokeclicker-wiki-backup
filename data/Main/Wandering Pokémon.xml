@@ -4,13 +4,15 @@
   <ns>0</ns>
   <id>3442</id>
   <revision>
-    <id>30158</id>
-    <timestamp>2022-12-05T00:36:06Z</timestamp>
-    <text space="preserve" bytes="11219">[[File:Farm.png|20px]] [[Farm|Farms]] with at least one fully ripe [[Berries|Berry]] can attract '''Wandering Pokémon''' that are automatically caught without the use of a [[Pokéballs|Pokéball]]. Which Wandering Pokémon is attracted is based on Berry type and the farthest [[Regions|region]] you have progressed to, with all valid options having an equal chance to be encountered.
+    <id>33317</id>
+    <timestamp>2022-12-11T13:23:55Z</timestamp>
+    <text space="preserve" bytes="11338">[[File:Farm.png|20px]] [[Farm|Farms]] with at least one fully ripe [[Berries|Berry]] can attract '''Wandering Pokémon''' that are automatically caught without the use of a [[Pokéballs|Pokéball]]. Which Wandering Pokémon is attracted is based on Berry type and the farthest [[Regions|region]] you have progressed to, with all valid options having an equal chance to be encountered.
 
 Some Berries attract rare [[List_of_Obtainable_Pokémon|Pokémon]] that can be used strategically to complete a region's Pokédex.
 
 Wandering Pokémon also have a Base 1/1024 chance to be [[Shiny Chance|shiny]]. Attracting a shiny Wandering Pokémon when there is at least one open plot on the Farm plants a [[File:Starf.png|20px]] [[Starf|Starf Berry]] in that open plot.
+
+The Wanderers that are attracted by any berry (base wanderers) don't get [[Pokérus|EVs]] when wandering to the farm.
 
 ===Table of Wandering Pokémon===
 {|class="wikitable sortable"
@@ -116,12 +118,12 @@ For an efficient farming setup to maximize wandering Pokemon chance, see the [[F
 
 [[Category:Farm]][[Category:Berries]]</text>
     <contributor>
-      <username>ThePantMan</username>
-      <id>8</id>
+      <username>DraKay</username>
+      <id>18</id>
     </contributor>
-    <comment>/* Galar wanderers + some others */</comment>
+    <comment></comment>
     <model>wikitext</model>
-    <parentid>13186</parentid>
-    <sha1>5fb0b38110b4cc2cbc09078cf97eaa67dc700960</sha1>
+    <parentid>30158</parentid>
+    <sha1>d8e4fd93b13b4d98e6982547d458c7c5aa101048</sha1>
   </revision>
 </page></mediawiki>

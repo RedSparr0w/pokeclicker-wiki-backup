@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>4407</id>
   <revision>
-    <id>32901</id>
-    <timestamp>2022-12-08T02:28:58Z</timestamp>
-    <text space="preserve" bytes="2898">{{Infobox dungeon
+    <id>33480</id>
+    <timestamp>2022-12-12T00:23:13Z</timestamp>
+    <text space="preserve" bytes="2948">{{Infobox dungeon
 |name    = Mt. Ember Summit
 |image   = [[File:Mt. Ember Summit.png|thumb]]
 |caption = A map of Mt. Ember Summit.
@@ -56,48 +56,47 @@
 ==Items==
 
 &lt;tabs&gt;
-&lt;tab name="No Debuff"&gt;
-
+&lt;tab name="Base"&gt;
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears
 |-
-| align="center" colspan=5| '''Common'''
+| align="center" colspan=6| '''Common'''
 |-
-| {{Bag2|xAttack}} || N/A || 39.06% || 38.06% || 33.73%
+| {{Bag2|xAttack}} || 1 || 39.06% || 38.06% || 36.50% || 33.73%
 |-
-| {{Bag2|Token Collector}} || N/A || 39.06% || 38.06% || 33.73%
+| {{Bag2|Token Collector}} || 1 || 39.06% || 38.06% || 36.50% || 33.73%
 |-
-| align="center" colspan=5| '''Rare'''
+| align="center" colspan=6| '''Rare'''
 |-
-| {{Bag2|Red Shard}} || N/A || 20.85% || 22.19% || 28.05%
+| {{Bag2|Red Shard}} || 1 || 20.85% || 22.19% || 24.31% || 28.05%
 |-
-| align="center" colspan=5| '''Legendary'''
+| align="center" colspan=6| '''Legendary'''
 |-
-| {{Bag2|Ultraball}} || N/A || 1.04% || 1.68% || 4.49%
+| {{Bag2|Ultraball}} || 1 || 1.04% || 1.68% || 2.69% || 4.49%
 |}
 &lt;/tab&gt;
 
 &lt;tab name="Debuff"&gt;
-After Reaching Sinnoh, the drop chance for items in Kanto will be debuffed for any loot with a Tier rarer than Rare (ie: Epic, Legendary, Mythic).
+After reaching [[Sinnoh]], the drop chance for items will be [[Dungeons#Dungeon Loot Regional Debuff|debuffed]].
 
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears
 |-
-| align="center" colspan=5| '''Common'''
+| align="center" colspan=6| '''Common'''
 |-
-| {{Bag2|xAttack}} || N/A || 37.84% || 37.84% || 37.84%
+| {{Bag2|xAttack}} || 1 || 37.84% || 37.84% || 37.84% || 37.84%
 |-
-| {{Bag2|Token Collector}} || N/A || 37.84% || 37.84% || 37.84%
+| {{Bag2|Token Collector}} || 1 || 37.84% || 37.84% || 37.84% || 37.84%
 |-
-| align="center" colspan=5| '''Rare'''
+| align="center" colspan=6| '''Rare'''
 |-
-| {{Bag2|Red Shard}} || N/A || 24.22% || 24.22% || 24.22%
+| {{Bag2|Red Shard}} || 1 || 24.22% || 24.22% || 24.22% || 24.22%
 |-
-| align="center" colspan=5| '''Legendary'''
+| align="center" colspan=6| '''Legendary'''
 |-
-| {{Bag2|Ultraball}} || N/A || 0.10% || 0.10% || 0.10%
+| {{Bag2|Ultraball}} || 1 || 0.10% || 0.10% || 0.10% || 0.10%
 |}
 &lt;/tab&gt;
 &lt;/tabs&gt;
@@ -109,9 +108,9 @@ After Reaching Sinnoh, the drop chance for items in Kanto will be debuffed for a
       <username>ThePantMan</username>
       <id>8</id>
     </contributor>
-    <comment>/* Tabs */</comment>
+    <comment>/* small fix */</comment>
     <model>wikitext</model>
-    <parentid>15645</parentid>
-    <sha1>c6ab8ab51fa64d996387671e388eccffb41ae510</sha1>
+    <parentid>33467</parentid>
+    <sha1>35398431f164c2b1afc709baa084b006338a574e</sha1>
   </revision>
 </page></mediawiki>

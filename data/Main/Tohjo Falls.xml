@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>9035</id>
   <revision>
-    <id>32922</id>
-    <timestamp>2022-12-08T03:07:30Z</timestamp>
-    <text space="preserve" bytes="3039">{{Infobox dungeon
+    <id>33533</id>
+    <timestamp>2022-12-12T01:33:18Z</timestamp>
+    <text space="preserve" bytes="3162">{{Infobox dungeon
 |name    = Tohjo Falls
 |image   = [[File:Tohjo Falls.png|thumb]]
 |caption = A map of Tohjo Falls.
@@ -51,72 +51,71 @@
 ==Items==
 
 &lt;tabs&gt;
-&lt;tab name="No Debuff"&gt;
-
+&lt;tab name="Base"&gt;
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears
 |-
 | align="center" colspan=6| '''Common'''
 |-
-| {{Bag2|Token Collector}} || N/A || 39.05% || 37.97% || 33.33%
+| {{Bag2|Token Collector}} || 1 || 39.05% || 37.97% || 36.29% || 33.33%
 |-
-| {{Bag2|Lucky Incense}} || N/A || 39.05% || 37.97% || 33.33%
+| {{Bag2|Lucky Incense}} || 1 || 39.05% || 37.97% || 36.29% || 33.33%
 |-
 | align="center" colspan=6| '''Rare'''
 |-
-| {{Bag2|Grey Shard}} || N/A || 10.42% || 11.07% || 13.86%
+| {{Bag2|Grey Shard}} || 1 || 10.42% || 11.07% || 12.08% || 13.86%
 |-
-| {{Bag2|Purple Shard}} || N/A || 10.42% || 11.07% || 13.86%
+| {{Bag2|Purple Shard}} || 1 || 10.42% || 11.07% || 12.08% || 13.86%
 |-
 | align="center" colspan=6| '''Legendary'''
 |-
-| {{Bag2|Greatball}} || N/A || 0.26% || 0.42% || 1.11%
+| {{Bag2|Greatball}} || 1 || 0.26% || 0.42% || 0.67% || 1.11%
 |-
-| {{Bag2|Hard Stone}} || N/A || 0.26% || 0.42% || 1.11%
+| {{Bag2|Hard Stone}} || 1 || 0.26% || 0.42% || 0.67% || 1.11%
 |-
-| {{Bag2|Small Restore}} || N/A || 0.26% || 0.42% || 1.11%
+| {{Bag2|Small Restore}} || 1 || 0.26% || 0.42% || 0.67% || 1.11%
 |-
-| {{Bag2|Pink Bow}} || N/A || 0.26% || 0.42% || 1.11%
+| {{Bag2|Pink Bow}} || 1 || 0.26% || 0.42% || 0.67% || 1.11%
 |-
 | align="center" colspan=6| '''Mythic'''
 |-
-| {{Bag2|Max Revive}} || N/A || 0.01% || 0.23% || 1.18%
+| {{Bag2|Max Revive}} || 1 || 0.01% || 0.23% || 0.58% || 1.18%
 |}
 &lt;/tab&gt;
 
 &lt;tab name="Debuff"&gt;
-After Reaching Unova, the drop chance for items in Johto will be debuffed for any loot with a Tier rarer than Rare (ie: Epic, Legendary, Mythic).
+After reaching [[Unova]], the drop chance for items will be [[Dungeons#Dungeon Loot Regional Debuff|debuffed]].
 
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears
 |-
 | align="center" colspan=6| '''Common'''
 |-
-| {{Bag2|Token Collector}} || N/A || 37.84% || 37.84% || 37.84%
+| {{Bag2|Token Collector}} || 1 || 37.84% || 37.84% || 37.84% || 37.84%
 |-
-| {{Bag2|Lucky Incense}} || N/A || 37.84% || 37.84% || 37.84%
+| {{Bag2|Lucky Incense}} || 1 || 37.84% || 37.84% || 37.84% || 37.84%
 |-
 | align="center" colspan=6| '''Rare'''
 |-
-| {{Bag2|Grey Shard}} || N/A || 12.11% || 12.11% || 12.11%
+| {{Bag2|Grey Shard}} || 1 || 12.11% || 12.11% || 12.11% || 12.11%
 |-
-| {{Bag2|Purple Shard}} || N/A || 12.11% || 12.11% || 12.11%
+| {{Bag2|Purple Shard}} || 1 || 12.11% || 12.11% || 12.11% || 12.11%
 |-
 | align="center" colspan=6| '''Legendary'''
 |-
-| {{Bag2|Greatball}} || N/A || 0.03% || 0.03% || 0.03%
+| {{Bag2|Greatball}} || 1 || 0.03% || 0.03% || 0.03% || 0.03%
 |-
-| {{Bag2|Hard Stone}} || N/A || 0.03% || 0.03% || 0.03%
+| {{Bag2|Hard Stone}} || 1 || 0.03% || 0.03% || 0.03% || 0.03%
 |-
-| {{Bag2|Small Restore}} || N/A || 0.03% || 0.03% || 0.03%
+| {{Bag2|Small Restore}} || 1 || 0.03% || 0.03% || 0.03% || 0.03%
 |-
-| {{Bag2|Pink Bow}} || N/A || 0.03% || 0.03% || 0.03%
+| {{Bag2|Pink Bow}} || 1 || 0.03% || 0.03% || 0.03% || 0.03%
 |-
 | align="center" colspan=6| '''Mythic'''
 |-
-| {{Bag2|Max Revive}} || N/A || &lt;0.01% || &lt;0.01% || &lt;0.01%
+| {{Bag2|Max Revive}} || 1 || &lt;0.01% || &lt;0.01% || &lt;0.01% || &lt;0.01%
 |}
 &lt;/tab&gt;
 &lt;/tabs&gt;
@@ -129,9 +128,9 @@ After Reaching Unova, the drop chance for items in Johto will be debuffed for an
       <username>ThePantMan</username>
       <id>8</id>
     </contributor>
-    <comment>/* Loot update */</comment>
+    <comment>/* not Kanto */</comment>
     <model>wikitext</model>
-    <parentid>24584</parentid>
-    <sha1>effd35c82cd971a9d971055b65835fd41b1ee2e7</sha1>
+    <parentid>33510</parentid>
+    <sha1>694c98079bf68623b233dcf10204078586572585</sha1>
   </revision>
 </page></mediawiki>

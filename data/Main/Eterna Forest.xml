@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>425</id>
   <revision>
-    <id>33002</id>
-    <timestamp>2022-12-08T16:10:15Z</timestamp>
-    <text space="preserve" bytes="4040">{{Infobox dungeon
+    <id>33554</id>
+    <timestamp>2022-12-12T01:51:34Z</timestamp>
+    <text space="preserve" bytes="4159">{{Infobox dungeon
 |name    = Eterna Forest
 |image   = [[File:Eterna Forest.png|300px]]
 |caption = A map of Eterna Forest.
@@ -58,76 +58,75 @@
 ==Items==
 
 &lt;tabs&gt;
-&lt;tab name="No Debuff"&gt;
+&lt;tab name="Base"&gt;
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears
 |-
 | align="center" colspan=6| '''Common'''
 |-
-| {{Bag2|Cheri}} || N/A || 15.00% || 14.43% || 12.13%
+| {{Bag2|Cheri}} || 1 || 15.00% || 14.43% || 13.57% || 12.13%
 |-
-| {{Bag2|Oran}} || N/A || 15.00% || 14.43% || 12.13%
+| {{Bag2|Oran}} || 1 || 15.00% || 14.43% || 13.57% || 12.13%
 |-
-| {{Bag2|Razz}} || N/A || 15.00% || 14.43% || 12.13%
+| {{Bag2|Razz}} || 1 || 15.00% || 14.43% || 13.57% || 12.13%
 |-
-| {{Bag2|Bluk}} || N/A || 15.00% || 14.43% || 12.13%
+| {{Bag2|Bluk}} || 1 || 15.00% || 14.43% || 13.57% || 12.13%
 |-
-| {{Bag2|Greatball}} || N/A || 15.00% || 14.43% || 12.13%
+| {{Bag2|Greatball}} || 1 || 15.00% || 14.43% || 13.57% || 12.13%
 |-
 | align="center" colspan=6| '''Rare'''
 |-
-| {{Bag2|Green Shard}} || N/A || 20.01% || 21.04% || 25.22%
+| {{Bag2|Green Shard}} || 1 || 20.01% || 21.04% || 22.60% || 25.22%
 |-
 | align="center" colspan=6| '''Epic'''
 |-
-| {{Bag2|Insect Plate}} || N/A || 2.01% || 2.61% || 5.05%
+| {{Bag2|Insect Plate}} || 1 || 2.01% || 2.61% || 3.52% || 5.05%
 |-
-| {{Bag2|Meadow Plate}} || N/A || 2.01% || 2.61% || 5.05%
+| {{Bag2|Meadow Plate}} || 1 || 2.01% || 2.61% || 3.52% || 5.05%
 |-
 | align="center" colspan=6| '''Legendary'''
 |-
-| {{Bag2|Small Restore}} || N/A || 0.50% || 0.80% || 2.02%
+| {{Bag2|Small Restore}} || 1 || 0.50% || 0.80% || 1.25% || 2.02%
 |-
-| {{Bag2|Silver Powder}} || N/A || 0.50% || 0.80% || 2.02%
+| {{Bag2|Silver Powder}} || 1 || 0.50% || 0.80% || 1.25% || 2.02%
 |}
 &lt;/tab&gt;
 
 &lt;tab name="Debuff"&gt;
-After Reaching Alola, the drop chance for items in Sinnoh will be debuffed for any loot with a Tier rarer than Rare (ie: Epic, Legendary, Mythic).
+After reaching [[Alola]], the drop chance for items will be [[Dungeons#Dungeon Loot Regional Debuff|debuffed]].
 
 {| class="wikitable"
-{| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears
 |-
 | align="center" colspan=6| '''Common'''
 |-
-| {{Bag2|Cheri}} || N/A || 15.00% || 14.43% || 12.13%
+| {{Bag2|Cheri}} || 1 || 15.00% || 15.00% || 15.00% || 15.00%
 |-
-| {{Bag2|Oran}} || N/A || 15.00% || 14.43% || 12.13%
+| {{Bag2|Oran}} || 1 || 15.00% || 15.00% || 15.00% || 15.00%
 |-
-| {{Bag2|Razz}} || N/A || 15.00% || 14.43% || 12.13%
+| {{Bag2|Razz}} || 1 || 15.00% || 15.00% || 15.00% || 15.00%
 |-
-| {{Bag2|Bluk}} || N/A || 15.00% || 14.43% || 12.13%
+| {{Bag2|Bluk}} || 1 || 15.00% || 15.00% || 15.00% || 15.00%
 |-
-| {{Bag2|Greatball}} || N/A || 15.00% || 14.43% || 12.13%
+| {{Bag2|Greatball}} || 1 || 15.00% || 15.00% || 15.00% || 15.00%
 |-
 | align="center" colspan=6| '''Rare'''
 |-
-| {{Bag2|Green Shard}} || N/A || 20.01% || 21.04% || 25.22%
+| {{Bag2|Green Shard}} || 1 || 24.00% || 24.00% || 24.00% || 24.00%
 |-
 | align="center" colspan=6| '''Epic'''
 |-
-| {{Bag2|Insect Plate}} || N/A || 2.01% || 2.61% || 5.05%
+| {{Bag2|Insect Plate}} || 1 || 0.45% || 0.45% || 0.45% || 0.45%
 |-
-| {{Bag2|Meadow Plate}} || N/A || 2.01% || 2.61% || 5.05%
+| {{Bag2|Meadow Plate}} || 1 || 0.45% || 0.45% || 0.45% || 0.45%
 |-
 | align="center" colspan=6| '''Legendary'''
 |-
-| {{Bag2|Small Restore}} || N/A || 0.50% || 0.80% || 2.02%
+| {{Bag2|Small Restore}} || 1 || 0.05% || 0.05% || 0.05% || 0.05%
 |-
-| {{Bag2|Silver Powder}} || N/A || 0.50% || 0.80% || 2.02%
+| {{Bag2|Silver Powder}} || 1 || 0.05% || 0.05% || 0.05% || 0.05%
 |}
 &lt;/tab&gt;
 &lt;/tabs&gt;
@@ -139,9 +138,9 @@ After Reaching Alola, the drop chance for items in Sinnoh will be debuffed for a
       <username>ThePantMan</username>
       <id>8</id>
     </contributor>
-    <comment>/* Loot update */</comment>
+    <comment>/* loot */</comment>
     <model>wikitext</model>
-    <parentid>5618</parentid>
-    <sha1>c40ac06ccead4d4987264aa36c27fcd9a3f03b03</sha1>
+    <parentid>33002</parentid>
+    <sha1>56ef338f32f11543ec69313238caec2a642ccdd5</sha1>
   </revision>
 </page></mediawiki>

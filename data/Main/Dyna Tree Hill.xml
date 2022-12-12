@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>10167</id>
   <revision>
-    <id>30080</id>
-    <timestamp>2022-12-04T21:59:59Z</timestamp>
-    <text space="preserve" bytes="1908">{{Infobox dungeon
+    <id>33423</id>
+    <timestamp>2022-12-11T22:04:40Z</timestamp>
+    <text space="preserve" bytes="2020">{{Infobox dungeon
 |name    = Dyna Tree Hill
 |image   = [[File:Dyna Tree Hill.png|thumb]]
 |caption = A map of Dyna Tree Hill.
@@ -49,43 +49,45 @@
 |}
 
 ==Items==
-
+&lt;tabs&gt;
+&lt;tab name="Base"&gt;
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears
 |-
-| align="center" colspan=5| '''Common'''
+| align="center" colspan=6| '''Common'''
 |-
-| {{Bag2|Oran}} || 2 || 50.49% || 48.88% || 42.13%
+| {{Bag2|Oran}} || 2 || 50.49% || 48.88% || 46.40% || 42.13%
 |-
-| {{Bag2|Sitrus}} || N/A || 25.24% || 24.44% || 21.16%
+| {{Bag2|Sitrus}} || 1 || 25.24% || 24.44% || 23.20% || 21.06%
 |-
-| align="center" colspan=5| '''Rare'''
+| align="center" colspan=6| '''Rare'''
 |-
-| {{Bag2|Green Shard}} || N/A || 6.74% || 7.13% || 8.76%
+| {{Bag2|Green Shard}} || 1 || 6.74% || 7.13% || 7.73% || 8.76%
 |-
-| {{Bag2|Cyan Shard}} || N/A || 6.74% || 7.13% || 8.76%
+| {{Bag2|Cyan Shard}} || 1 || 6.74% || 7.13% || 7.73% || 8.76%
 |-
-| {{Bag2|Rose Shard}} || N/A || 6.74% || 7.13% || 8.76%
+| {{Bag2|Rose Shard}} || 1 || 6.74% || 7.13% || 7.73% || 8.76%
 |-
-| align="center" colspan=5| '''Epic'''
+| align="center" colspan=6| '''Epic'''
 |-
-| {{Bag2|Meadow Plate}} || N/A || 1.35% || 1.77% || 3.51%
+| {{Bag2|Meadow Plate}} || 1 || 1.35% || 1.77% || 2.41% || 3.51%
 |-
-| {{Bag2|Tamato}} || N/A || 1.35% || 1.77% || 3.51%
+| {{Bag2|Tamato}} || 1 || 1.35% || 1.77% || 2.41% || 3.51%
 |-
-| {{Bag2|Hondew}} || N/A || 1.35% || 1.77% || 3.51%
+| {{Bag2|Hondew}} || 1 || 1.35% || 1.77% || 2.41% || 3.51%
 |}
-
+&lt;/tab&gt;
+&lt;/tabs&gt;
 {{Galar Dungeons}}
 [[Category:Dungeons|^Region #8 - Galar^c]]</text>
     <contributor>
-      <username>CypherX</username>
-      <id>15</id>
+      <username>Jk13</username>
+      <id>14</id>
     </contributor>
-    <comment>Created page with "{{Infobox dungeon |name    = Dyna Tree Hill |image   = [[File:Dyna Tree Hill.png|thumb]] |caption = A map of Dyna Tree Hill. |tokens  = 1,920,000 |location = In the middle of Ballimere Lake }} '''Dyna Tree Hill''' is a [[Dungeons|dungeon]] in [[Galar]]. It initially has 125 tiles arranged in two floors: 10x10 and 6x6 in size, respectively; including 16 chest tiles, 38 non-boss encounter tiles, 1 ladder tile, and 1 boss encounter tile. Wild Encounters have 33,216,830 HP...."</comment>
+    <comment></comment>
     <model>wikitext</model>
-    <parentid>0</parentid>
-    <sha1>db0e84ff4c99fc834168911925a319d78c180469</sha1>
+    <parentid>30080</parentid>
+    <sha1>b2c2153e6174afa35020c2653baee0d73f82e057</sha1>
   </revision>
 </page></mediawiki>

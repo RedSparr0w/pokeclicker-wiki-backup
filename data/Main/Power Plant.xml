@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>325</id>
   <revision>
-    <id>32898</id>
-    <timestamp>2022-12-08T02:25:48Z</timestamp>
-    <text space="preserve" bytes="2450">{{Infobox dungeon
+    <id>33483</id>
+    <timestamp>2022-12-12T00:23:56Z</timestamp>
+    <text space="preserve" bytes="2537">{{Infobox dungeon
 |name    = Power Plant
 |image   = [[File:Power Plant.png|thumb]]
 |caption = An overhead map of the Power Plant.
@@ -50,52 +50,51 @@ The '''Power Plant''' is a [[Dungeons|dungeon]] in [[Kanto]]. It has 25 tiles ar
 ==Items==
 
 &lt;tabs&gt;
-&lt;tab name="No Debuff"&gt;
-
+&lt;tab name="Base"&gt;
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears
 |-
-| align="center" colspan=5| '''Common'''
+| align="center" colspan=6| '''Common'''
 |-
-| {{Bag2|Lucky Incense}} || 4 || 45.10% || 44.14% || 39.86%
+| {{Bag2|Lucky Incense}} || 4 || 45.10% || 44.14% || 42.62% || 39.86%
 |-
-| {{Bag2|Cheri}} || 2 || 22.55% || 22.07% || 19.93%
+| {{Bag2|Cheri}} || 2 || 22.55% || 22.07% || 21.31% || 19.93%
 |-
-| {{Pokemon|Electrode|Mimic}} || N/A || 11.27% || 11.03% || 9.97%
+| {{Pokemon|Electrode|Mimic=Mimic}} || 1 || 11.27% || 11.03% || 10.65% || 9.97%
 |-
-| align="center" colspan=5| '''Rare'''
+| align="center" colspan=6| '''Rare'''
 |-
-| {{Bag2|Yellow Shard}} || N/A || 21.06% || 22.52% || 29.01%
+| {{Bag2|Yellow Shard}} || 1 || 21.06% || 22.52% || 24.83% || 29.01%
 |-
-| align="center" colspan=5| '''Mythic'''
+| align="center" colspan=6| '''Mythic'''
 |-
-| {{Bag2|Max Revive}} || N/A || 0.01% || 0.24% || 1.23%
+| {{Bag2|Max Revive}} || 1 || 0.01% || 0.24% || 0.59% || 1.23%
 |}
 &lt;/tab&gt;
 
 &lt;tab name="Debuff"&gt;
-After Reaching Sinnoh, the drop chance for items in Kanto will be debuffed for any loot with a Tier rarer than Rare (ie: Epic, Legendary, Mythic).
+After reaching [[Sinnoh]], the drop chance for items will be [[Dungeons#Dungeon Loot Regional Debuff|debuffed]].
 
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears
 |-
-| align="center" colspan=5| '''Common'''
+| align="center" colspan=6| '''Common'''
 |-
-| {{Bag2|Lucky Incense}} || 4 || 43.29% || 43.29% || 43.29%
+| {{Bag2|Lucky Incense}} || 4 || 43.29% || 43.29% || 43.29% || 43.29%
 |-
-| {{Bag2|Cheri}} || 2 || 21.64% || 21.64% || 21.64%
+| {{Bag2|Cheri}} || 2 || 21.64% || 21.64% || 21.64% || 21.64%
 |-
-| {{Pokemon|Electrode|Mimic}} || N/A || 10.82% || 10.82% || 10.82%
+| {{Pokemon|Electrode|Mimic=Mimic}} || 1 || 10.82% || 10.82% || 10.82% || 10.82%
 |-
-| align="center" colspan=5| '''Rare'''
+| align="center" colspan=6| '''Rare'''
 |-
-| {{Bag2|Yellow Shard}} || N/A || 24.24% || 24.24% || 24.24%
+| {{Bag2|Yellow Shard}} || 1 || 24.24% || 24.24% || 24.24% || 24.24%
 |-
-| align="center" colspan=5| '''Mythic'''
+| align="center" colspan=6| '''Mythic'''
 |-
-| {{Bag2|Max Revive}} || N/A || &lt;0.01% || &lt;0.01% || &lt;0.01%
+| {{Bag2|Max Revive}} || 1 || &lt;0.01% || &lt;0.01% || &lt;0.01% || &lt;0.01%
 |}
 &lt;/tab&gt;
 &lt;/tabs&gt;
@@ -107,9 +106,9 @@ After Reaching Sinnoh, the drop chance for items in Kanto will be debuffed for a
       <username>ThePantMan</username>
       <id>8</id>
     </contributor>
-    <comment>/* Tabs */</comment>
+    <comment>/* small fix */</comment>
     <model>wikitext</model>
-    <parentid>31770</parentid>
-    <sha1>cd135b3f6d8be560ba946d3f72822fea6629c3ab</sha1>
+    <parentid>33464</parentid>
+    <sha1>8db86f9cf38e75f1894e428e41d66890d6f44a1c</sha1>
   </revision>
 </page></mediawiki>

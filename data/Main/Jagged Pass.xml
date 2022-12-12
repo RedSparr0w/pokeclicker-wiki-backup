@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>349</id>
   <revision>
-    <id>32988</id>
-    <timestamp>2022-12-08T15:51:16Z</timestamp>
-    <text space="preserve" bytes="3263">{{Infobox dungeon
+    <id>33542</id>
+    <timestamp>2022-12-12T01:35:54Z</timestamp>
+    <text space="preserve" bytes="3358">{{Infobox dungeon
 |name    = Jagged Pass
 |image   = [[File:Jagged Pass.png|300px]]
 |caption = A map of Jagged Pass.
@@ -49,64 +49,64 @@
 ==Items==
 
 &lt;tabs&gt;
-&lt;tab name="No Debuff"&gt;
 
+&lt;tab name="Base"&gt;
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears
 |-
 | align="center" colspan=6| '''Common'''
 |-
-| {{Bag2|xClick}} || N/A || 37.49% || 36.08% || 30.32%
+| {{Bag2|xClick}} || 1 || 37.49% || 36.08% || 33.93% || 30.32%
 |-
-| {{Bag2|Lucky Egg}} || N/A || 37.49% || 36.08% || 30.32%
+| {{Bag2|Lucky Egg}} || 1 || 37.49% || 36.08% || 33.93% || 30.32%
 |-
 | align="center" colspan=6| '''Rare'''
 |-
-| {{Bag2|Red Shard}} || N/A || 10.01% || 10.52% || 12.61%
+| {{Bag2|Red Shard}} || 1 || 10.01% || 10.52% || 11.30% || 12.61%
 |-
-| {{Bag2|Green Shard}} || N/A || 10.01% || 10.52% || 12.61%
+| {{Bag2|Green Shard}} || 1 || 10.01% || 10.52% || 11.30% || 12.61%
 |-
 | align="center" colspan=6| '''Epic'''
 |-
-| {{Bag2|Greatball}} || N/A || 4.01% || 5.21% || 10.11%
+| {{Bag2|Greatball}} || 1 || 4.01% || 5.21% || 7.04% || 10.11%
 |-
 | align="center" colspan=6| '''Legendary'''
 |-
-| {{Bag2|Dread Plate}} || N/A || 0.50% || 0.80% || 2.02%
+| {{Bag2|Dread Plate}} || 1 || 0.50% || 0.80% || 1.25% || 2.02%
 |-
-| {{Bag2|Stone Plate}} || N/A || 0.50% || 0.80% || 2.02%
+| {{Bag2|Stone Plate}} || 1 || 0.50% || 0.80% || 1.25% || 2.02%
 |}
 &lt;/tab&gt;
 
 &lt;tab name="Debuff"&gt;
-After Reaching Kalos, the drop chance for items in Hoenn will be debuffed for any loot with a Tier rarer than Rare (ie: Epic, Legendary, Mythic).
+After reaching [[Kalos]], the drop chance for items will be [[Dungeons#Dungeon Loot Regional Debuff|debuffed]].
 
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears
 |-
 | align="center" colspan=6| '''Common'''
 |-
-| {{Bag2|xClick}} || N/A || 37.50% || 37.50% || 37.50%
+| {{Bag2|xClick}} || 1 || 37.50% || 37.50% || 37.50% || 37.50%
 |-
-| {{Bag2|Lucky Egg}} || N/A || 37.50% || 37.50% || 37.50%
+| {{Bag2|Lucky Egg}} || 1 || 37.50% || 37.50% || 37.50% || 37.50%
 |-
 | align="center" colspan=6| '''Rare'''
 |-
-| {{Bag2|Red Shard}} || N/A || 12.00% || 12.00% || 12.00%
+| {{Bag2|Red Shard}} || 1 || 12.00% || 12.00% || 12.00% || 12.00%
 |-
-| {{Bag2|Green Shard}} || N/A || 12.00% || 12.00% || 12.00%
+| {{Bag2|Green Shard}} || 1 || 12.00% || 12.00% || 12.00% || 12.00%
 |-
 | align="center" colspan=6| '''Epic'''
 |-
-| {{Bag2|Greatball}} || N/A || 0.90% || 0.90% || 0.90%
+| {{Bag2|Greatball}} || 1 || 0.90% || 0.90% || 0.90% || 0.90%
 |-
 | align="center" colspan=6| '''Legendary'''
 |-
-| {{Bag2|Dread Plate}} || N/A || 0.05% || 0.05% || 0.05%
+| {{Bag2|Dread Plate}} || 1 || 0.05% || 0.05% || 0.05% || 0.05%
 |-
-| {{Bag2|Stone Plate}} || N/A || 0.05% || 0.05% || 0.05%
+| {{Bag2|Stone Plate}} || 1 || 0.05% || 0.05% || 0.05% || 0.05%
 |}
 &lt;/tab&gt;
 &lt;/tabs&gt;
@@ -118,9 +118,9 @@ After Reaching Kalos, the drop chance for items in Hoenn will be debuffed for an
       <username>ThePantMan</username>
       <id>8</id>
     </contributor>
-    <comment>/* Tabs */</comment>
+    <comment>/* not Kanto */</comment>
     <model>wikitext</model>
-    <parentid>5079</parentid>
-    <sha1>a3e28b2647e3f01e7fd9fbebdcaadd62760e5faf</sha1>
+    <parentid>33527</parentid>
+    <sha1>c171f513ff11fb8737f082b0308a5a7f2e416f71</sha1>
   </revision>
 </page></mediawiki>

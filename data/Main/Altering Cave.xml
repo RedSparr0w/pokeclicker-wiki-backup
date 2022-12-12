@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>10207</id>
   <revision>
-    <id>30173</id>
-    <timestamp>2022-12-05T02:06:23Z</timestamp>
-    <text space="preserve" bytes="2739">{{Infobox dungeon
+    <id>33491</id>
+    <timestamp>2022-12-12T00:32:57Z</timestamp>
+    <text space="preserve" bytes="2850">{{Infobox dungeon
 |name    = Altering Cave
 |image   = [[File:Altering Cave.png|thumb]]
 |caption = An overhead map of Altering Cave.
@@ -53,59 +53,58 @@
 ==Items==
 
 &lt;tabs&gt;
-&lt;tab name="No Debuff"&gt;
+&lt;tab name="Base"&gt;
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears
 |-
 | align="center" colspan=6| '''Common'''
 |-
-| {{Bag2|xAttack}} || N/A || 39.06% || 38.06% || 33.73%
+| {{Bag2|xAttack}} || 1 || 39.06% || 38.06% || 36.50% || 33.73%
 |-
-| {{Bag2|xClick}} || N/A || 39.06% || 38.06% || 33.73%
+| {{Bag2|xClick}} || 1 || 39.06% || 38.06% || 36.50% || 33.73%
 |-
 | align="center" colspan=6| '''Rare'''
 |-
-| {{Bag2|Grey Shard}} || N/A || 10.42% || 11.10% || 14.03%
+| {{Bag2|Grey Shard}} || 1 || 10.42% || 11.10% || 12.15% || 14.03%
 |-
-| {{Bag2|Ochre Shard}} || N/A || 10.42% || 11.10% || 14.03%
+| {{Bag2|Ochre Shard}} || 1 || 10.42% || 11.10% || 12.15% || 14.03%
 |-
 | align="center" colspan=6| '''Legendary'''
 |-
-| {{Bag2|Small Restore}} || 3 || 0.52% || 0.84% || 2.24%
+| {{Bag2|Small Restore}} || 3 || 0.52% || 0.84% || 1.35% || 2.24%
 |-
-| {{Bag2|Medium Restore}} || 2 || 0.35% || 0.56% || 1.50%
+| {{Bag2|Medium Restore}} || 2 || 0.35% || 0.56% || 0.90% || 1.50%
 |-
-| {{Bag2|Large Restore}} || N/A || 0.17% || 0.28% || 0.75%
+| {{Bag2|Large Restore}} || 1 || 0.17% || 0.28% || 0.45% || 0.75%
 |}
 &lt;/tab&gt;
 &lt;tab name="Debuff"&gt;
-
-After Reaching Kalos, the drop chance for items will be debuffed for any loot with a Tier rarer than Rare (ie: Epic, Legendary, Mythic).
+After reaching [[Kalos]], the drop chance for items will be [[Dungeons#Dungeon Loot Regional Debuff|debuffed]].
 
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears
 |-
 | align="center" colspan=6| '''Common'''
 |-
-| {{Bag2|xAttack}} || N/A || 37.84% || 37.84% || 37.84%
+| {{Bag2|xAttack}} || 1 || 37.84% || 37.84% || 37.84% || 37.84%
 |-
-| {{Bag2|xClick}} || N/A || 37.84% || 37.84% || 37.84%
+| {{Bag2|xClick}} || 1 || 37.84% || 37.84% || 37.84% || 37.84%
 |-
 | align="center" colspan=6| '''Rare'''
 |-
-| {{Bag2|Grey Shard}} || N/A || 12.11% || 12.11% || 12.11%
+| {{Bag2|Grey Shard}} || 1 || 12.11% || 12.11% || 12.11% || 12.11%
 |-
-| {{Bag2|Ochre Shard}} || N/A || 12.11% || 12.11% || 12.11%
+| {{Bag2|Ochre Shard}} || 1 || 12.11% || 12.11% || 12.11% || 12.11%
 |-
 | align="center" colspan=6| '''Legendary'''
 |-
-| {{Bag2|Small Restore}} || 3 || 0.05% || 0.05% || 0.05%
+| {{Bag2|Small Restore}} || 3 || 0.05% || 0.05% || 0.05% || 0.05%
 |-
-| {{Bag2|Medium Restore}} || 2 || 0.03% || 0.03% || 0.03%
+| {{Bag2|Medium Restore}} || 2 || 0.03% || 0.03% || 0.03% || 0.03%
 |-
-| {{Bag2|Large Restore}} || N/A || 0.02% || 0.02% || 0.02%
+| {{Bag2|Large Restore}} || 1 || 0.02% || 0.02% || 0.02% || 0.02%
 |}
 &lt;/tab&gt;
 &lt;/tabs&gt;
@@ -116,9 +115,9 @@ After Reaching Kalos, the drop chance for items will be debuffed for any loot wi
       <username>ThePantMan</username>
       <id>8</id>
     </contributor>
-    <comment>/* Location */</comment>
+    <comment>/* loot */</comment>
     <model>wikitext</model>
-    <parentid>30172</parentid>
-    <sha1>01ebd93fc569b0d2b58ae6a4eb4d84cef34a5e39</sha1>
+    <parentid>30173</parentid>
+    <sha1>1e9e2a61bad5505bc4cdd7096f5193ff66a4178a</sha1>
   </revision>
 </page></mediawiki>

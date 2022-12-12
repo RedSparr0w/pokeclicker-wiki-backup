@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>330</id>
   <revision>
-    <id>32906</id>
-    <timestamp>2022-12-08T02:33:27Z</timestamp>
-    <text space="preserve" bytes="4189">{{Infobox dungeon
+    <id>33513</id>
+    <timestamp>2022-12-12T01:15:36Z</timestamp>
+    <text space="preserve" bytes="4393">{{Infobox dungeon
 |name    = Cerulean Cave
 |image   = [[File:Cerulean Cave.png|thumb]]
 |caption = An overhead map of Cerulean Cave.
@@ -68,92 +68,91 @@
 ==Items==
 
 &lt;tabs&gt;
-&lt;tab name="No Debuff"&gt;
-
+&lt;tab name="Base"&gt;
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears !! Requirement 
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears !! Requirement
 |-
-| align="center" colspan=6| '''Common'''
+| align="center" colspan=7| '''Common'''
 |-
-| {{Bag2|Pokéball}} || 2 || 21.42% || 20.57% || 17.14% || rowspan=4|&lt;center&gt; N/A
+| {{Bag2|Pokéball}} || 2 || 21.42% || 20.57% || 19.29% || 17.14% || rowspan=4| &lt;center&gt;N/A
 |-
-| {{Bag2|Token Collector}} || 2 || 21.42% || 20.57% || 17.14%
+| {{Bag2|Token Collector}} || 2 || 21.42% || 20.57% || 19.29% || 17.14%
 |-
-| {{Bag2|Lucky Incense}} || 2 || 21.42% || 20.57% || 17.14%
+| {{Bag2|Lucky Incense}} || 2 || 21.42% || 20.57% || 19.29% || 17.14%
 |-
-| {{Pokemon|Graveler|Mimic}} || N/A || 10.71% || 10.29% || 8.57%
+| {{Pokemon|Graveler|Mimic=Mimic}} || 1 || 10.71% || 10.29% || 9.64% || 8.57%
 |-
-| align="center" colspan=6| '''Rare'''
+| align="center" colspan=7| '''Rare'''
 |-
-| {{Bag2|Blue Shard}} || N/A || 5.00% || 5.25% || 6.24% || rowspan=4|&lt;center&gt; N/A
+| {{Bag2|Blue Shard}} || 1 || 5.00% || 5.25% || 5.62% || 6.24% || rowspan=4| &lt;center&gt;N/A
 |-
-| {{Bag2|Green Shard}} || N/A || 5.00% || 5.25% || 6.24%
+| {{Bag2|Green Shard}} || 1 || 5.00% || 5.25% || 5.62% || 6.24%
 |-
-| {{Bag2|Red Shard}} || N/A || 5.00% || 5.25% || 6.24%
+| {{Bag2|Red Shard}} || 1 || 5.00% || 5.25% || 5.62% || 6.24%
 |-
-| {{Bag2|Yellow Shard}} || N/A || 5.00% || 5.25% || 6.24%
+| {{Bag2|Yellow Shard}} || 1 || 5.00% || 5.25% || 5.62% || 6.24%
 |-
-| align="center" colspan=6| '''Epic'''
+| align="center" colspan=7| '''Epic'''
 |-
-| {{Bag2|Greatball}} || N/A || 4.01% || 5.20% || 10.00% || &lt;center&gt; N/A
+| {{Bag2|Greatball}} || 1 || 4.01% || 5.20% || 7.00% || 10.00% || &lt;center&gt;N/A
 |-
-| align="center" colspan=6| '''Legendary'''
+| align="center" colspan=7| '''Legendary'''
 |-
-| {{Bag2|Ultraball}} || N/A || 1.00% || 1.59% || 3.99% || &lt;center&gt; N/A
+| {{Bag2|Ultraball}} || 1 || 1.00% || 1.59% || 2.49% || 3.99% || &lt;center&gt;N/A
 |-
-| align="center" colspan=6| '''Mythic'''
+| align="center" colspan=7| '''Mythic'''
 |-
-| {{Bag2|Large Restore}} || N/A || &lt;0.01% || 0.06% || 0.27% || rowspan=2|&lt;center&gt; N/A
+| {{Bag2|Large Restore}} || 1 || &lt;0.01% || 0.06% || 0.13% || 0.27% || rowspan=2| &lt;center&gt;N/A
 |-
-| {{Bag2|Max Revive}} || 2 || 0.01% || 0.11% || 0.53%
+| {{Bag2|Max Revive}} || 2 || 0.01% || 0.11% || 0.27% || 0.53%
 |-
-| {{Bag2|Protein}} || N/A || 0% || 0% || 0.27% || 500 Clears
+| {{Bag2|Protein}} || 1 || N/A || N/A || N/A || 0.27% || 500 Clears
 |}
 &lt;/tab&gt;
 
 &lt;tab name="Debuff"&gt;
-After Reaching Sinnoh, the drop chance for items in Kanto will be debuffed for any loot with a Tier rarer than Rare (ie: Epic, Legendary, Mythic).
+After reaching [[Sinnoh]], the drop chance for items will be [[Dungeons#Dungeon Loot Regional Debuff|debuffed]].
 
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears !! Requirement
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears !! Requirement
 |-
-| align="center" colspan=6| '''Common'''
+| align="center" colspan=7| '''Common'''
 |-
-| {{Bag2|Pokéball}} || 2 || 21.43% || 21.43% || 21.43% || rowspan=4|&lt;center&gt; N/A
+| {{Bag2|Pokéball}} || 2 || 21.43% || 21.43% || 21.43% || 21.43% || rowspan=4| &lt;center&gt;N/A
 |-
-| {{Bag2|Token Collector}} || 2 || 21.43% || 21.43% || 21.43%
+| {{Bag2|Token Collector}} || 2 || 21.43% || 21.43% || 21.43% || 21.43%
 |-
-| {{Bag2|Lucky Incense}} || 2 || 21.43% || 21.43% || 21.43%
+| {{Bag2|Lucky Incense}} || 2 || 21.43% || 21.43% || 21.43% || 21.43%
 |-
-| {{Pokemon|Graveler|Mimic}} || N/A || 10.71% || 10.71% || 10.71%
+| {{Pokemon|Graveler|Mimic=Mimic}} || 1 || 10.71% || 10.71% || 10.71% || 10.71%
 |-
-| align="center" colspan=6| '''Rare'''
+| align="center" colspan=7| '''Rare'''
 |-
-| {{Bag2|Blue Shard}} || N/A || 6.00% || 6.00% || 6.00% || rowspan=4|&lt;center&gt; N/A
+| {{Bag2|Blue Shard}} || 1 || 6.00% || 6.00% || 6.00% || 6.00% || rowspan=4| &lt;center&gt;N/A
 |-
-| {{Bag2|Green Shard}} || N/A || 6.00% || 6.00% || 6.00%
+| {{Bag2|Green Shard}} || 1 || 6.00% || 6.00% || 6.00% || 6.00%
 |-
-| {{Bag2|Red Shard}} || N/A || 6.00% || 6.00% || 6.00%
+| {{Bag2|Red Shard}} || 1 || 6.00% || 6.00% || 6.00% || 6.00%
 |-
-| {{Bag2|Yellow Shard}} || N/A || 6.00% || 6.00% || 6.00%
+| {{Bag2|Yellow Shard}} || 1 || 6.00% || 6.00% || 6.00% || 6.00%
 |-
-| align="center" colspan=6| '''Epic'''
+| align="center" colspan=7| '''Epic'''
 |-
-| {{Bag2|Greatball}} || N/A || 0.90% || 0.90% || 0.90% || &lt;center&gt;N/A
+| {{Bag2|Greatball}} || 1 || 0.90% || 0.90% || 0.90% || 0.90% || &lt;center&gt;N/A
 |-
-| align="center" colspan=6| '''Legendary'''
+| align="center" colspan=7| '''Legendary'''
 |-
-| {{Bag2|Ultraball}} || N/A || 0.10% || 0.10% || 0.10% || &lt;center&gt;N/A
+| {{Bag2|Ultraball}} || 1 || 0.10% || 0.10% || 0.10% || 0.10% || &lt;center&gt;N/A
 |-
-| align="center" colspan=6| '''Mythic'''
+| align="center" colspan=7| '''Mythic'''
 |-
-| {{Bag2|Large Restore}} || N/A || &lt;0.01% || &lt;0.01% || &lt;0.01% || rowspan=2|&lt;center&gt; N/A
+| {{Bag2|Large Restore}} || 1 || &lt;0.01% || &lt;0.01% || &lt;0.01% || &lt;0.01% || rowspan=2| &lt;center&gt;N/A
 |-
-| {{Bag2|Max Revive}} || 2 || &lt;0.01% || &lt;0.01% || &lt;0.01%
+| {{Bag2|Max Revive}} || 2 || &lt;0.01% || &lt;0.01% || &lt;0.01% || &lt;0.01%
 |-
-| {{Bag2|Protein}} || N/A || 0% || 0% || &lt;0.01% || 500 Clears
+| {{Bag2|Protein}} || 1 || N/A || N/A || N/A || &lt;0.01% || 500 Clears
 |}
 &lt;/tab&gt;
 &lt;/tabs&gt;
@@ -165,9 +164,9 @@ After Reaching Sinnoh, the drop chance for items in Kanto will be debuffed for a
       <username>ThePantMan</username>
       <id>8</id>
     </contributor>
-    <comment>/* mimic */</comment>
+    <comment>/* protein */</comment>
     <model>wikitext</model>
-    <parentid>32905</parentid>
-    <sha1>8c98e486f36a37ce6fc0af91b19c4ea810a1a38c</sha1>
+    <parentid>33486</parentid>
+    <sha1>ee1a700ffcd841a9f1e7305d1518facb9a64d1ed</sha1>
   </revision>
 </page></mediawiki>

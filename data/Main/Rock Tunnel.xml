@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>322</id>
   <revision>
-    <id>32894</id>
-    <timestamp>2022-12-08T02:21:03Z</timestamp>
-    <text space="preserve" bytes="5277">{{Infobox dungeon
+    <id>33476</id>
+    <timestamp>2022-12-12T00:22:15Z</timestamp>
+    <text space="preserve" bytes="5475">{{Infobox dungeon
 |name    = Rock Tunnel
 |image   = [[File:Rock Tunnel.png|thumb]]
 |caption = An overhead map of the Rock Tunnel.
@@ -67,84 +67,83 @@
 ==Items==
 
 &lt;tabs&gt;
-&lt;tab name="No Debuff"&gt;
-
+&lt;tab name="Base"&gt;
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears
 |-
-| align="center" colspan=5| '''Common'''
+| align="center" colspan=6| '''Common'''
 |-
-| {{Bag2|xClick}} || 2 || 22.32% || 21.70% || 19.05%
+| {{Bag2|xClick}} || 2 || 22.32% || 21.70% || 20.74% || 19.05%
 |-
-| {{Bag2|Leppa}} || 2 || 22.32% || 21.70% || 19.05%
+| {{Bag2|Leppa}} || 2 || 22.32% || 21.70% || 20.74% || 19.05%
 |-
-| {{Bag2|Pokéball}} || 2 || 22.32% || 21.70% || 19.05%
+| {{Bag2|Pokéball}} || 2 || 22.32% || 21.70% || 20.74% || 19.05%
 |-
-| {{Pokemon|Geodude|Mimic}} || N/A || 11.16% || 10.85% || 9.52%
+| {{Pokemon|Geodude|Mimic=Mimic}} || 1 || 11.16% || 10.85% || 10.37% || 9.52%
 |-
-| align="center" colspan=5| '''Rare'''
+| align="center" colspan=6| '''Rare'''
 |-
-| {{Bag2|Green Shard}} || N/A || 10.42% || 11.07% || 13.86%
+| {{Bag2|Green Shard}} || 1 || 10.42% || 11.07% || 12.08% || 13.86%
 |-
-| {{Bag2|Yellow Shard}} || N/A || 10.42% || 11.07% || 13.86%
+| {{Bag2|Yellow Shard}} || 1 || 10.42% || 11.07% || 12.08% || 13.86%
 |-
-| align="center" colspan=5| '''Legendary'''
+| align="center" colspan=6| '''Legendary'''
 |-
-| {{Bag2|Greatball}} || N/A || 0.26% || 0.42% || 1.11%
+| {{Bag2|Greatball}} || 1 || 0.26% || 0.42% || 0.67% || 1.11%
 |-
-| {{Bag2|Medium Restore}} || N/A || 0.26% || 0.42% || 1.11%
+| {{Bag2|Medium Restore}} || 1 || 0.26% || 0.42% || 0.67% || 1.11%
 |-
-| {{Bag2|Oval Stone}} || N/A || 0.26% || 0.42% || 1.11%
+| {{Bag2|Oval Stone}} || 1 || 0.26% || 0.42% || 0.67% || 1.11%
 |-
-| {{Bag2|Revive}} || N/A || 0.26% || 0.42% || 1.11%
+| {{Bag2|Revive}} || 1 || 0.26% || 0.42% || 0.67% || 1.11%
 |-
-| align="center" colspan=5| '''Mythic'''
+| align="center" colspan=6| '''Mythic'''
 |-
-| {{Bag2|Star Piece}} || 1.5 || 0.01% || 0.14% || 0.71%
+| {{Bag2|Star Piece}} || 1.5 || 0.01% || 0.14% || 0.35% || 0.71%
 |-
-| {{Bag2|Heart Scale}} || N/A || 0.01% || 0.09% || 0.47%
+| {{Bag2|Heart Scale}} || 1 || 0.01% || 0.09% || 0.23% || 0.47%
 |}
 &lt;/tab&gt;
 
 &lt;tab name="Debuff"&gt;
-After Reaching Sinnoh, the drop chance for items in Kanto will be debuffed for any loot with a Tier rarer than Rare (ie: Epic, Legendary, Mythic).
+After reaching [[Sinnoh]], the drop chance for items will be [[Dungeons#Dungeon Loot Regional Debuff|debuffed]].
 
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears
 |-
-| align="center" colspan=5| '''Common'''
+| align="center" colspan=6| '''Common'''
 |-
-| {{Bag2|xClick}} || 2 || 21.62% || 21.62% || 21.62%
+| {{Bag2|xClick}} || 2 || 21.62% || 21.62% || 21.62% || 21.62%
 |-
-| {{Bag2|Leppa}} || 2 || 21.62% || 21.62% || 21.62%
+| {{Bag2|Leppa}} || 2 || 21.62% || 21.62% || 21.62% || 21.62%
 |-
-| {{Bag2|Pokéball}} || 2 || 21.62% || 21.62% || 21.62%
+| {{Bag2|Pokéball}} || 2 || 21.62% || 21.62% || 21.62% || 21.62%
 |-
-| {{Pokemon|Geodude|Mimic}} || N/A || 10.81% || 10.81% || 10.81%
+| {{Pokemon|Geodude|Mimic=Mimic}} || 1 || 10.81% || 10.81% || 10.81% || 10.81%
 |-
-| align="center" colspan=5| '''Rare'''
+| align="center" colspan=6| '''Rare'''
 |-
-| {{Bag2|Green Shard}} || N/A || 12.11% || 12.11% || 12.11%
+| {{Bag2|Green Shard}} || 1 || 12.11% || 12.11% || 12.11% || 12.11%
 |-
-| {{Bag2|Yellow Shard}} || N/A || 12.11% || 12.11% || 12.11%
+| {{Bag2|Yellow Shard}} || 1 || 12.11% || 12.11% || 12.11% || 12.11%
 |-
-| align="center" colspan=5| '''Legendary'''
+| align="center" colspan=6| '''Legendary'''
 |-
-| {{Bag2|Greatball}} || N/A || 0.03% || 0.03% || 0.03%
+| {{Bag2|Greatball}} || 1 || 0.03% || 0.03% || 0.03% || 0.03%
 |-
-| {{Bag2|Medium Restore}} || N/A || 0.03% || 0.03% || 0.03%
+| {{Bag2|Medium Restore}} || 1 || 0.03% || 0.03% || 0.03% || 0.03%
 |-
-| {{Bag2|Oval Stone}} || N/A || 0.03% || 0.03% || 0.03%
+| {{Bag2|Oval Stone}} || 1 || 0.03% || 0.03% || 0.03% || 0.03%
 |-
-| {{Bag2|Revive}} || N/A || 0.03% || 0.03% || 0.03%
+| {{Bag2|Revive}} || 1 || 0.03% || 0.03% || 0.03% || 0.03%
 |-
-| align="center" colspan=5| '''Mythic'''
+| align="center" colspan=6| '''Mythic'''
 |-
-| {{Bag2|Star Piece}} || 1.5 || &lt;0.01% || &lt;0.01% || &lt;0.01%
+| {{Bag2|Star Piece}} || 1.5 || &lt;0.01% || &lt;0.01% || &lt;0.01% || &lt;0.01%
 |-
-| {{Bag2|Heart Scale}} || N/A || &lt;0.01% || &lt;0.01% || &lt;0.01%
+| {{Bag2|Heart Scale}} || 1 || &lt;0.01% || &lt;0.01% || &lt;0.01% || &lt;0.01%
 |}
 &lt;/tab&gt;
 &lt;/tabs&gt;
@@ -157,9 +156,9 @@ After Reaching Sinnoh, the drop chance for items in Kanto will be debuffed for a
       <username>ThePantMan</username>
       <id>8</id>
     </contributor>
-    <comment>/* Tabs */</comment>
+    <comment>/* small fix */</comment>
     <model>wikitext</model>
-    <parentid>4787</parentid>
-    <sha1>3caef78eb9de00ce3d692aced36c6a2a057714ad</sha1>
+    <parentid>33460</parentid>
+    <sha1>6831a8d353b54f27407a8632d0bf068e0275e01c</sha1>
   </revision>
 </page></mediawiki>

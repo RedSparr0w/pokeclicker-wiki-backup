@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>3570</id>
   <revision>
-    <id>32919</id>
-    <timestamp>2022-12-08T03:00:32Z</timestamp>
-    <text space="preserve" bytes="7840">{{Infobox dungeon
+    <id>33516</id>
+    <timestamp>2022-12-12T01:18:19Z</timestamp>
+    <text space="preserve" bytes="8090">{{Infobox dungeon
 |name    = Radio Tower
 |image   = [[File:Radio Tower.png|thumb]]
 |caption = A map of Radio Tower.
@@ -92,112 +92,111 @@
 ==Items==
 
 &lt;tabs&gt;
-&lt;tab name="No Debuff"&gt;
-
+&lt;tab name="Base"&gt;
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears !! Requirement 
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears !! Requirement
 |-
-| align="center" colspan=6| '''Common'''
+| align="center" colspan=7| '''Common'''
 |-
-| {{Bag2|xClick}} || N/A || 37.48% || 36.00% || 30.00% || rowspan=2| &lt;center&gt;N/A
+| {{Bag2|xClick}} || 1 || 37.48% || 36.00% || 33.75% || 30.00% || rowspan=2| &lt;center&gt;N/A
 |-
-| {{Bag2|Lucky Egg}} || N/A || 37.48% || 36.00% || 30.00%
+| {{Bag2|Lucky Egg}} || 1 || 37.48% || 36.00% || 33.75% || 30.00%
 |-
-| align="center" colspan=6| '''Rare'''
+| align="center" colspan=7| '''Rare'''
 |-
-| {{Bag2|Yellow Shard}} || N/A || 20.01% || 20.99% || 24.95% || &lt;center&gt;N/A
+| {{Bag2|Yellow Shard}} || 1 || 20.01% || 20.99% || 22.47% || 24.95% || &lt;center&gt;N/A
 |-
-| align="center" colspan=6| '''Epic'''
+| align="center" colspan=7| '''Epic'''
 |-
-| {{Bag2|Persim}} || N/A || 0.36% || 0.47% || 0.91% || rowspan=11| &lt;center&gt;N/A
+| {{Bag2|Persim}} || 1 || 0.36% || 0.47% || 0.64% || 0.91% || rowspan=11| &lt;center&gt;N/A
 |-
-| {{Bag2|Razz}} || N/A || 0.36% || 0.47% || 0.91%
+| {{Bag2|Razz}} || 1 || 0.36% || 0.47% || 0.64% || 0.91%
 |-
-| {{Bag2|Bluk}} || N/A || 0.36% || 0.47% || 0.91%
+| {{Bag2|Bluk}} || 1 || 0.36% || 0.47% || 0.64% || 0.91%
 |-
-| {{Bag2|Nanab}} || N/A || 0.36% || 0.47% || 0.91%
+| {{Bag2|Nanab}} || 1 || 0.36% || 0.47% || 0.64% || 0.91%
 |-
-| {{Bag2|Wepear}} || N/A || 0.36% || 0.47% || 0.91%
+| {{Bag2|Wepear}} || 1 || 0.36% || 0.47% || 0.64% || 0.91%
 |-
-| {{Bag2|Pinap}} || N/A || 0.36% || 0.47% || 0.91%
+| {{Bag2|Pinap}} || 1 || 0.36% || 0.47% || 0.64% || 0.91%
 |-
-| {{Bag2|Figy}} || N/A || 0.36% || 0.47% || 0.91%
+| {{Bag2|Figy}} || 1 || 0.36% || 0.47% || 0.64% || 0.91%
 |-
-| {{Bag2|Wiki}} || N/A || 0.36% || 0.47% || 0.91%
+| {{Bag2|Wiki}} || 1 || 0.36% || 0.47% || 0.64% || 0.91%
 |-
-| {{Bag2|Mago}} || N/A || 0.36% || 0.47% || 0.91%
+| {{Bag2|Mago}} || 1 || 0.36% || 0.47% || 0.64% || 0.91%
 |-
-| {{Bag2|Aguav}} || N/A || 0.36% || 0.47% || 0.91%
+| {{Bag2|Aguav}} || 1 || 0.36% || 0.47% || 0.64% || 0.91%
 |-
-| {{Bag2|Iapapa}} || N/A || 0.36% || 0.47% || 0.91%
+| {{Bag2|Iapapa}} || 1 || 0.36% || 0.47% || 0.64% || 0.91%
 |-
-| align="center" colspan=6| '''Legendary'''
+| align="center" colspan=7| '''Legendary'''
 |-
-| {{Bag2|Ultraball}} || N/A || 0.50% || 0.80% || 1.99% || rowspan=2| &lt;center&gt;N/A
+| {{Bag2|Ultraball}} || 1 || 0.50% || 0.80% || 1.24% || 1.99% || rowspan=2| &lt;center&gt;N/A
 |-
-| {{Bag2|Magnet}} || N/A || 0.50% || 0.80% || 1.99%
+| {{Bag2|Magnet}} || 1 || 0.50% || 0.80% || 1.24% || 1.99%
 |-
-| align="center" colspan=6| '''Mythic'''
+| align="center" colspan=7| '''Mythic'''
 |-
-| {{Bag2|Max Revive}} || N/A || 0.01% || 0.11% || 0.53% || &lt;center&gt;N/A
+| {{Bag2|Max Revive}} || 1 || 0.01% || 0.11% || 0.27% || 0.53% || &lt;center&gt;N/A
 |-
-| {{Bag2|Lum}} || N/A || 0% || 0% || 0.53% || 250 Clears
+| {{Bag2|Lum}} || 1 || N/A || N/A || 0.27% || 0.53% || 250 Clears
 |}
 &lt;/tab&gt;
 
 &lt;tab name="Debuff"&gt;
-After Reaching Unova, the drop chance for items in Johto will be debuffed for any loot with a Tier rarer than Rare (ie: Epic, Legendary, Mythic).
+After reaching [[Unova]], the drop chance for items will be [[Dungeons#Dungeon Loot Regional Debuff|debuffed]].
 
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears !! Requirement 
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears !! Requirement
 |-
-| align="center" colspan=6| '''Common'''
+| align="center" colspan=7| '''Common'''
 |-
-| {{Bag2|xClick}} || N/A || 37.50% || 37.50% || 37.50% || rowspan=2| &lt;center&gt;N/A
+| {{Bag2|xClick}} || 1 || 37.50% || 37.50% || 37.50% || 37.50% || rowspan=2| &lt;center&gt;N/A
 |-
-| {{Bag2|Lucky Egg}} || N/A || 37.50% || 37.50% || 37.50%
+| {{Bag2|Lucky Egg}} || 1 || 37.50% || 37.50% || 37.50% || 37.50%
 |-
-| align="center" colspan=6| '''Rare'''
+| align="center" colspan=7| '''Rare'''
 |-
-| {{Bag2|Yellow Shard}} || N/A || 24.00% || 24.00% || 24.00% || &lt;center&gt;N/A
+| {{Bag2|Yellow Shard}} || 1 || 24.00% || 24.00% || 24.00% || 24.00% || &lt;center&gt;N/A
 |-
-| align="center" colspan=6| '''Epic'''
+| align="center" colspan=7| '''Epic'''
 |-
-| {{Bag2|Persim}} || N/A || 0.08% || 0.08% || 0.08% || rowspan=11| &lt;center&gt;N/A
+| {{Bag2|Persim}} || 1 || 0.08% || 0.08% || 0.08% || 0.08% || rowspan=11| &lt;center&gt;N/A
 |-
-| {{Bag2|Razz}} || N/A || 0.08% || 0.08% || 0.08%
+| {{Bag2|Razz}} || 1 || 0.08% || 0.08% || 0.08% || 0.08%
 |-
-| {{Bag2|Bluk}} || N/A || 0.08% || 0.08% || 0.08%
+| {{Bag2|Bluk}} || 1 || 0.08% || 0.08% || 0.08% || 0.08%
 |-
-| {{Bag2|Nanab}} || N/A || 0.08% || 0.08% || 0.08%
+| {{Bag2|Nanab}} || 1 || 0.08% || 0.08% || 0.08% || 0.08%
 |-
-| {{Bag2|Wepear}} || N/A || 0.08% || 0.08% || 0.08%
+| {{Bag2|Wepear}} || 1 || 0.08% || 0.08% || 0.08% || 0.08%
 |-
-| {{Bag2|Pinap}} || N/A || 0.08% || 0.08% || 0.08%
+| {{Bag2|Pinap}} || 1 || 0.08% || 0.08% || 0.08% || 0.08%
 |-
-| {{Bag2|Figy}} || N/A || 0.08% || 0.08% || 0.08%
+| {{Bag2|Figy}} || 1 || 0.08% || 0.08% || 0.08% || 0.08%
 |-
-| {{Bag2|Wiki}} || N/A || 0.08% || 0.08% || 0.08%
+| {{Bag2|Wiki}} || 1 || 0.08% || 0.08% || 0.08% || 0.08%
 |-
-| {{Bag2|Mago}} || N/A || 0.08% || 0.08% || 0.08%
+| {{Bag2|Mago}} || 1 || 0.08% || 0.08% || 0.08% || 0.08%
 |-
-| {{Bag2|Aguav}} || N/A || 0.08% || 0.08% || 0.08%
+| {{Bag2|Aguav}} || 1 || 0.08% || 0.08% || 0.08% || 0.08%
 |-
-| {{Bag2|Iapapa}} || N/A || 0.08% || 0.08% || 0.08%
+| {{Bag2|Iapapa}} || 1 || 0.08% || 0.08% || 0.08% || 0.08%
 |-
-| align="center" colspan=6| '''Legendary'''
+| align="center" colspan=7| '''Legendary'''
 |-
-| {{Bag2|Ultraball}} || N/A || 0.05% || 0.05% || 0.05% || rowspan=2| &lt;center&gt;N/A
+| {{Bag2|Ultraball}} || 1 || 0.05% || 0.05% || 0.05% || 0.05% || rowspan=2| &lt;center&gt;N/A
 |-
-| {{Bag2|Magnet}} || N/A || 0.05% || 0.05% || 0.05%
+| {{Bag2|Magnet}} || 1 || 0.05% || 0.05% || 0.05% || 0.05%
 |-
-| align="center" colspan=6| '''Mythic'''
+| align="center" colspan=7| '''Mythic'''
 |-
-| {{Bag2|Max Revive}} || N/A || &lt;0.01% || &lt;0.01% || &lt;0.01% || &lt;center&gt;N/A
+| {{Bag2|Max Revive}} || 1 || &lt;0.01% || &lt;0.01% || &lt;0.01% || &lt;0.01% || &lt;center&gt;N/A
 |-
-| {{Bag2|Lum}} || N/A || 0% || 0% || &lt;0.01% || 250 Clears
+| {{Bag2|Lum}} || 1 || N/A || N/A || &lt;0.01% || &lt;0.01% || 250 Clears
 |}
 &lt;/tab&gt;
 &lt;/tabs&gt;
@@ -209,9 +208,9 @@ After Reaching Unova, the drop chance for items in Johto will be debuffed for an
       <username>ThePantMan</username>
       <id>8</id>
     </contributor>
-    <comment>/* Loot update */</comment>
+    <comment>/* lum */</comment>
     <model>wikitext</model>
-    <parentid>13493</parentid>
-    <sha1>c9e4174ba347681d096d266a319ff94f42d33e97</sha1>
+    <parentid>33507</parentid>
+    <sha1>f3bd72ab2a25f508e0935632dbf25d8503382da6</sha1>
   </revision>
 </page></mediawiki>

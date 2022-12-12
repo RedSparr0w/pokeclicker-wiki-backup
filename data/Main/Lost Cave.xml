@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>10205</id>
   <revision>
-    <id>30170</id>
-    <timestamp>2022-12-05T01:39:57Z</timestamp>
-    <text space="preserve" bytes="3229">{{Infobox dungeon
+    <id>33489</id>
+    <timestamp>2022-12-12T00:29:04Z</timestamp>
+    <text space="preserve" bytes="3346">{{Infobox dungeon
 |name    = Lost Cave
 |image   = [[File:Lost Cave.png|thumb]]
 |caption = An overhead map of Lost Cave.
@@ -50,67 +50,66 @@
 ==Items==
 
 &lt;tabs&gt;
-&lt;tab name="No Debuff"&gt;
+&lt;tab name="Base"&gt;
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears
 |-
 | align="center" colspan=6| '''Common'''
 |-
-| {{Bag2|Dowsing Machine}} || N/A || 37.49% || 36.08% || 30.32%
+| {{Bag2|Dowsing Machine}} || 1 || 37.49% || 36.08% || 33.93% || 30.32%
 |-
-| {{Bag2|xAttack}} || N/A || 37.49% || 36.08% || 30.32%
+| {{Bag2|xAttack}} || 1 || 37.49% || 36.08% || 33.93% || 30.32%
 |-
 | align="center" colspan=6| '''Rare'''
 |-
-| {{Bag2|Purple Shard}} || N/A || 10.01% || 10.52% || 12.61%
+| {{Bag2|Purple Shard}} || 1 || 10.01% || 10.52% || 11.30% || 12.61%
 |-
-| {{Bag2|Grey Shard}} || N/A || 10.01% || 10.52% || 12.61%
+| {{Bag2|Grey Shard}} || 1 || 10.01% || 10.52% || 11.30% || 12.61%
 |-
 | align="center" colspan=6| '''Epic'''
 |-
-| {{Bag2|Toxic Plate}} || N/A || 2.01% || 2.61% || 5.05%
+| {{Bag2|Toxic Plate}} || 1 || 2.01% || 2.61% || 3.52% || 5.05%
 |-
-| {{Bag2|Spooky Plate}} || N/A || 2.01% || 2.61% || 5.05%
+| {{Bag2|Spooky Plate}} || 1 || 2.01% || 2.61% || 3.52% || 5.05%
 |-
 | align="center" colspan=6| '''Legendary'''
 |-
-| {{Bag2|Max Revive}} || N/A || 0.50% || 0.80% || 2.02%
+| {{Bag2|Max Revive}} || 1 || 0.50% || 0.80% || 1.25% || 2.02%
 |-
-| {{Bag2|Silk Scarf}} || N/A || 0.50% || 0.80% || 2.02%
+| {{Bag2|Silk Scarf}} || 1 || 0.50% || 0.80% || 1.25% || 2.02%
 |}
 &lt;/tab&gt;
 &lt;tab name="Debuff"&gt;
-
-After Reaching Kalos, the drop chance for items will be debuffed for any loot with a Tier rarer than Rare (ie: Epic, Legendary, Mythic).
+After reaching [[Kalos]], the drop chance for items will be [[Dungeons#Dungeon Loot Regional Debuff|debuffed]].
 
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears
 |-
 | align="center" colspan=6| '''Common'''
 |-
-| {{Bag2|Dowsing Machine}} || N/A || 37.50% || 37.50% || 37.50%
+| {{Bag2|Dowsing Machine}} || 1 || 37.50% || 37.50% || 37.50% || 37.50%
 |-
-| {{Bag2|xAttack}} || N/A || 37.50% || 37.50% || 37.50%
+| {{Bag2|xAttack}} || 1 || 37.50% || 37.50% || 37.50% || 37.50%
 |-
 | align="center" colspan=6| '''Rare'''
 |-
-| {{Bag2|Purple Shard}} || N/A || 12.00% || 12.00% || 12.00%
+| {{Bag2|Purple Shard}} || 1 || 12.00% || 12.00% || 12.00% || 12.00%
 |-
-| {{Bag2|Grey Shard}} || N/A || 12.00% || 12.00% || 12.00%
+| {{Bag2|Grey Shard}} || 1 || 12.00% || 12.00% || 12.00% || 12.00%
 |-
 | align="center" colspan=6| '''Epic'''
 |-
-| {{Bag2|Toxic Plate}} || N/A || 0.45% || 0.45% || 0.45%
+| {{Bag2|Toxic Plate}} || 1 || 0.45% || 0.45% || 0.45% || 0.45%
 |-
-| {{Bag2|Spooky Plate}} || N/A || 0.45% || 0.45% || 0.45%
+| {{Bag2|Spooky Plate}} || 1 || 0.45% || 0.45% || 0.45% || 0.45%
 |-
 | align="center" colspan=6| '''Legendary'''
 |-
-| {{Bag2|Max Revive}} || N/A || 0.05% || 0.05% || 0.05%
+| {{Bag2|Max Revive}} || 1 || 0.05% || 0.05% || 0.05% || 0.05%
 |-
-| {{Bag2|Silk Scarf}} || N/A || 0.05% || 0.05% || 0.05%
+| {{Bag2|Silk Scarf}} || 1 || 0.05% || 0.05% || 0.05% || 0.05%
 |}
 &lt;/tab&gt;
 &lt;/tabs&gt;
@@ -121,9 +120,9 @@ After Reaching Kalos, the drop chance for items will be debuffed for any loot wi
       <username>ThePantMan</username>
       <id>8</id>
     </contributor>
-    <comment>Created page with "{{Infobox dungeon |name    = Lost Cave |image   = [[File:Lost Cave.png|thumb]] |caption = An overhead map of Lost Cave. |tokens  = 36,000 |location = Sevii Island 5, east of Resort Gorgeous. }} '''Lost Cave''' is a [[Dungeons|dungeon]] in [[Kanto]]. It has 49 tiles arranged in a 7x7 square, including 7 chest tiles, 17 non-boss encounter tiles, and 1 boss encounter tile. Wild Encounters have 720,600 HP.  == Encounter Tables ==  ===Wild Encounters===  {| class="wikitable"..."</comment>
+    <comment>/* loot */</comment>
     <model>wikitext</model>
-    <parentid>0</parentid>
-    <sha1>c5489b9b6d00804d92f0f1f3b867021f084980e2</sha1>
+    <parentid>30170</parentid>
+    <sha1>3e8ce1b9792adeae84861cd552c9fc34b60854f5</sha1>
   </revision>
 </page></mediawiki>

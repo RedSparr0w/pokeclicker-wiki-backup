@@ -235,16 +235,6 @@
                 "version": "1.0.1"
             },
             {
-                "author": "Yaron Koren, Sahaj Khandelwal",
-                "descriptionmsg": "flexdiagrams-desc",
-                "name": "Flex Diagrams",
-                "type": "specialpage",
-                "url": "https://www.mediawiki.org/wiki/Extension:Flex_Diagrams",
-                "vcs-system": "git",
-                "vcs-version": "50d191a6c21ef24d1a08c91a22fa95199087f5e0",
-                "version": "0.4"
-            },
-            {
                 "author": "Brion Vibber, Kunal Mehta, Sam Reed, Aaron Schulz, Brad Jorsch, Umherirrender, Marius Hoch, Andrew Garrett, Chris Steipp, Tim Starling, Gerg\u0151 Tisza, Alexandre Emsenhuber, Victor Vasiliev, Glaisher, DannyS712, Peter Gehres, Bryan Davis, James D. Forrester, Taavi V\u00e4\u00e4n\u00e4nen",
                 "descriptionmsg": "centralauth-desc",
                 "license": "/wiki/Special:Version/License/CentralAuth",
@@ -731,6 +721,18 @@
                 "version": "2022-07-28"
             },
             {
+                "author": "Lisa Ridley, Eric Gingell, Karsten Hoffmeyer, ...",
+                "descriptionmsg": "userpageeditprotection-desc",
+                "license": "/wiki/Special:Version/License/UserPageEditProtection",
+                "license-name": "GPL-2.0-or-later",
+                "name": "UserPageEditProtection",
+                "type": "other",
+                "url": "https://www.mediawiki.org/wiki/Extension:UserPageEditProtection",
+                "vcs-system": "git",
+                "vcs-version": "4b3fef0a393ddc73b0bc4eb5761e5193293d068e",
+                "version": "4.1.0"
+            },
+            {
                 "author": "Andrew Garrett",
                 "descriptionmsg": "globalblocking-desc",
                 "license": "/wiki/Special:Version/License/GlobalBlocking",
@@ -1044,7 +1046,7 @@
                 250,
                 300
             ],
-            "time": "2022-12-11T02:12:28Z",
+            "time": "2022-12-12T02:14:16Z",
             "timeoffset": 0,
             "timezone": "UTC",
             "titleconversion": "",
@@ -5525,12 +5527,6 @@
             },
             {
                 "aliases": [
-                    "EditDiagram"
-                ],
-                "realname": "EditDiagram"
-            },
-            {
-                "aliases": [
                     "MobileDiff"
                 ],
                 "realname": "MobileDiff"
@@ -5755,12 +5751,12 @@
         "statistics": {
             "activeusers": 4,
             "admins": 5,
-            "articles": 2727,
-            "edits": 29426,
-            "images": 4720,
+            "articles": 2729,
+            "edits": 29718,
+            "images": 4731,
             "jobs": 0,
-            "pages": 12163,
-            "users": 215
+            "pages": 12214,
+            "users": 217
         },
         "usergroups": [
             {
@@ -5951,7 +5947,8 @@
                     "urlshortener-view-log",
                     "pagetranslation",
                     "translate-import",
-                    "translate-manage"
+                    "translate-manage",
+                    "editalluserpages"
                 ]
             },
             {
@@ -5968,7 +5965,7 @@
             },
             {
                 "name": "user",
-                "number": 215,
+                "number": 217,
                 "rights": [
                     "move",
                     "move-subpages",

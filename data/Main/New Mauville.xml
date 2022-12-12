@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>396</id>
   <revision>
-    <id>32989</id>
-    <timestamp>2022-12-08T15:52:06Z</timestamp>
-    <text space="preserve" bytes="2651">{{Infobox dungeon
+    <id>33543</id>
+    <timestamp>2022-12-12T01:36:41Z</timestamp>
+    <text space="preserve" bytes="2764">{{Infobox dungeon
 |name    = New Mauville
 |image   = [[File:New Mauville.png|300px]]
 |caption = An inside view of New Mauville.
@@ -45,64 +45,63 @@
 ==Items==
 
 &lt;tabs&gt;
-&lt;tab name="No Debuff"&gt;
-
+&lt;tab name="Base"&gt;
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears
 |-
 | align="center" colspan=6| '''Common'''
 |-
-| {{Bag2|Lucky Incense}} || 3 || 32.13% || 30.93% || 25.99%
+| {{Bag2|Lucky Incense}} || 3 || 32.13% || 30.93% || 29.08% || 25.99%
 |-
-| {{Bag2|Cheri}} || 3 || 32.13% || 30.93% || 25.99%
+| {{Bag2|Cheri}} || 3 || 32.13% || 30.93% || 29.08% || 25.99%
 |-
-| {{Pokemon|Voltorb|Mimic}} || N/A || 10.71% || 10.31% || 8.66%
+| {{Pokemon|Voltorb|Mimic=Mimic}} || 1 || 10.71% || 10.31% || 9.69% || 8.66%
 |-
 | align="center" colspan=6| '''Rare'''
 |-
-| {{Bag2|Yellow Shard}} || N/A || 20.01% || 21.04% || 25.22%
+| {{Bag2|Yellow Shard}} || 1 || 20.01% || 21.04% || 22.60% || 25.22%
 |-
 | align="center" colspan=6| '''Epic'''
 |-
-| {{Bag2|Razz}} || N/A || 2.01% || 2.61% || 5.05%
+| {{Bag2|Razz}} || 1 || 2.01% || 2.61% || 3.52% || 5.05%
 |-
-| {{Bag2|Ultraball}} || N/A || 2.01% || 2.61% || 5.05%
+| {{Bag2|Ultraball}} || 1 || 2.01% || 2.61% || 3.52% || 5.05%
 |-
 | align="center" colspan=6| '''Legendary'''
 |-
-| {{Bag2|Zap Plate}} || N/A || 1.00% || 1.59% || 4.03%
+| {{Bag2|Zap Plate}} || 1 || 1.00% || 1.59% || 2.50% || 4.03%
 |}
 &lt;/tab&gt;
 
 &lt;tab name="Debuff"&gt;
-After Reaching Kalos, the drop chance for items in Hoenn will be debuffed for any loot with a Tier rarer than Rare (ie: Epic, Legendary, Mythic).
+After reaching [[Kalos]], the drop chance for items will be [[Dungeons#Dungeon Loot Regional Debuff|debuffed]].
 
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears
 |-
 | align="center" colspan=6| '''Common'''
 |-
-| {{Bag2|Lucky Incense}} || 3 || 32.14% || 32.14% || 32.14%
+| {{Bag2|Lucky Incense}} || 3 || 32.14% || 32.14% || 32.14% || 32.14%
 |-
-| {{Bag2|Cheri}} || 3 || 32.14% || 32.14% || 32.14%
+| {{Bag2|Cheri}} || 3 || 32.14% || 32.14% || 32.14% || 32.14%
 |-
-| {{Pokemon|Voltorb|Mimic}} || N/A || 10.71% || 10.71% || 10.71%
+| {{Pokemon|Voltorb|Mimic=Mimic}} || 1 || 10.71% || 10.71% || 10.71% || 10.71%
 |-
 | align="center" colspan=6| '''Rare'''
 |-
-| {{Bag2|Yellow Shard}} || N/A || 24.00% || 24.00% || 24.00%
+| {{Bag2|Yellow Shard}} || 1 || 24.00% || 24.00% || 24.00% || 24.00%
 |-
 | align="center" colspan=6| '''Epic'''
 |-
-| {{Bag2|Razz}} || N/A || 0.45% || 0.45% || 0.45%
+| {{Bag2|Razz}} || 1 || 0.45% || 0.45% || 0.45% || 0.45%
 |-
-| {{Bag2|Ultraball}} || N/A || 0.45% || 0.45% || 0.45%
+| {{Bag2|Ultraball}} || 1 || 0.45% || 0.45% || 0.45% || 0.45%
 |-
 | align="center" colspan=6| '''Legendary'''
 |-
-| {{Bag2|Zap Plate}} || N/A || 0.10% || 0.10% || 0.10%
+| {{Bag2|Zap Plate}} || 1 || 0.10% || 0.10% || 0.10% || 0.10%
 |}
 &lt;/tab&gt;
 &lt;/tabs&gt;
@@ -114,9 +113,9 @@ After Reaching Kalos, the drop chance for items in Hoenn will be debuffed for an
       <username>ThePantMan</username>
       <id>8</id>
     </contributor>
-    <comment>/* Tabs */</comment>
+    <comment>/* not Kanto */</comment>
     <model>wikitext</model>
-    <parentid>5398</parentid>
-    <sha1>dd1143183fe69f0f497a936be4fbe480d59bfb09</sha1>
+    <parentid>33528</parentid>
+    <sha1>6bc11a01076b6b43ea2116709a7d3545755322cc</sha1>
   </revision>
 </page></mediawiki>

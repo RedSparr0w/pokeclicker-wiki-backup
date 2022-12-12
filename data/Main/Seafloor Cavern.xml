@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>400</id>
   <revision>
-    <id>32996</id>
-    <timestamp>2022-12-08T16:03:05Z</timestamp>
-    <text space="preserve" bytes="3603">{{Infobox dungeon
+    <id>33549</id>
+    <timestamp>2022-12-12T01:44:37Z</timestamp>
+    <text space="preserve" bytes="3697">{{Infobox dungeon
 |name    = Seafloor Cavern
 |image   = [[File:Seafloor Cavern.png|300px]]
 |caption = A map of Seafloor Cavern.
@@ -52,67 +52,67 @@
 ==Items==
 
 &lt;tabs&gt;
-&lt;tab name="No Debuff"&gt;
+&lt;tab name="Base"&gt;
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears
 |-
 | align="center" colspan=6| '''Common'''
 |-
-| {{Bag2|Dowsing Machine}} || N/A || 37.48% || 36.00% || 30.00%
+| {{Bag2|Dowsing Machine}} || 1 || 37.48% || 36.00% || 33.75% || 30.00%
 |-
-| {{Bag2|Token Collector}} || N/A || 37.48% || 36.00% || 30.00%
+| {{Bag2|Token Collector}} || 1 || 37.48% || 36.00% || 33.75% || 30.00%
 |-
 | align="center" colspan=6| '''Rare'''
 |-
-| {{Bag2|Blue Shard}} || N/A || 20.01% || 20.99% || 24.95%
+| {{Bag2|Blue Shard}} || 1 || 20.01% || 20.99% || 22.47% || 24.95%
 |-
 | align="center" colspan=6| '''Epic'''
 |-
-| {{Bag2|Bluk}} || N/A || 4.01% || 5.20% || 10.00%
+| {{Bag2|Bluk}} || 1 || 4.01% || 5.20% || 7.00% || 10.00%
 |-
 | align="center" colspan=6| '''Legendary'''
 |-
-| {{Bag2|Splash Plate}} || N/A || 0.50% || 0.80% || 1.99%
+| {{Bag2|Splash Plate}} || 1 || 0.50% || 0.80% || 1.24% || 1.99%
 |-
-| {{Bag2|Earth Plate}} || N/A || 0.50% || 0.80% || 1.99%
+| {{Bag2|Earth Plate}} || 1 || 0.50% || 0.80% || 1.24% || 1.99%
 |-
 | align="center" colspan=6| '''Mythic'''
 |-
-| {{Bag2|Heart Scale}} || N/A || 0.01% || 0.22% || 1.06%
+| {{Bag2|Heart Scale}} || 1 || 0.01% || 0.22% || 0.53% || 1.06%
 |}
 &lt;/tab&gt;
 
 &lt;tab name="Debuff"&gt;
-After Reaching Kalos, the drop chance for items in Hoenn will be debuffed for any loot with a Tier rarer than Rare (ie: Epic, Legendary, Mythic).
+After reaching [[Kalos]], the drop chance for items will be [[Dungeons#Dungeon Loot Regional Debuff|debuffed]].
 
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears
 |-
 | align="center" colspan=6| '''Common'''
 |-
-| {{Bag2|Dowsing Machine}} || N/A || 37.50% || 37.50% || 37.50%
+| {{Bag2|Dowsing Machine}} || 1 || 37.50% || 37.50% || 37.50% || 37.50%
 |-
-| {{Bag2|Token Collector}} || N/A || 37.50% || 37.50% || 37.50%
+| {{Bag2|Token Collector}} || 1 || 37.50% || 37.50% || 37.50% || 37.50%
 |-
 | align="center" colspan=6| '''Rare'''
 |-
-| {{Bag2|Blue Shard}} || N/A || 24.00% || 24.00% || 24.00%
+| {{Bag2|Blue Shard}} || 1 || 24.00% || 24.00% || 24.00% || 24.00%
 |-
 | align="center" colspan=6| '''Epic'''
 |-
-| {{Bag2|Bluk}} || N/A || 0.90% || 0.90% || 0.90%
+| {{Bag2|Bluk}} || 1 || 0.90% || 0.90% || 0.90% || 0.90%
 |-
 | align="center" colspan=6| '''Legendary'''
 |-
-| {{Bag2|Splash Plate}} || N/A || 0.05% || 0.05% || 0.05%
+| {{Bag2|Splash Plate}} || 1 || 0.05% || 0.05% || 0.05% || 0.05%
 |-
-| {{Bag2|Earth Plate}} || N/A || 0.05% || 0.05% || 0.05%
+| {{Bag2|Earth Plate}} || 1 || 0.05% || 0.05% || 0.05% || 0.05%
 |-
 | align="center" colspan=6| '''Mythic'''
 |-
-| {{Bag2|Heart Scale}} || N/A || &lt;0.01% || &lt;0.01% || &lt;0.01%
+| {{Bag2|Heart Scale}} || 1 || &lt;0.01% || &lt;0.01% || &lt;0.01% || &lt;0.01%
 |}
 &lt;/tab&gt;
 &lt;/tabs&gt;
@@ -124,9 +124,9 @@ After Reaching Kalos, the drop chance for items in Hoenn will be debuffed for an
       <username>ThePantMan</username>
       <id>8</id>
     </contributor>
-    <comment>/* Tabs */</comment>
+    <comment>/* loot */</comment>
     <model>wikitext</model>
-    <parentid>5485</parentid>
-    <sha1>8a31ce33e594129b817227456197b743b1814846</sha1>
+    <parentid>32996</parentid>
+    <sha1>2346ce3cf3cfb9e477adef20e675a31ccd4ab405</sha1>
   </revision>
 </page></mediawiki>

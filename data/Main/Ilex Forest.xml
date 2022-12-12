@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>366</id>
   <revision>
-    <id>32913</id>
-    <timestamp>2022-12-08T02:45:20Z</timestamp>
-    <text space="preserve" bytes="3266">{{Infobox dungeon
+    <id>33501</id>
+    <timestamp>2022-12-12T00:40:54Z</timestamp>
+    <text space="preserve" bytes="3377">{{Infobox dungeon
 |name    = Ilex Forest
 |image   = [[File:Ilex Forest.png|thumb]]
 |caption = A map of Ilex Forest.
@@ -62,68 +62,67 @@
 ==Items==
 
 &lt;tabs&gt;
-&lt;tab name="No Debuff"&gt;
-
+&lt;tab name="Base"&gt;
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears
 |-
 | align="center" colspan=6| '''Common'''
 |-
-| {{Bag2|xAttack}} || 2 || 52.07% || 50.63% || 44.44%
+| {{Bag2|xAttack}} || 2 || 52.07% || 50.63% || 48.39% || 44.44%
 |-
-| {{Bag2|Lucky Egg}} || N/A || 26.03% || 25.32% || 22.22%
+| {{Bag2|Lucky Egg}} || 1 || 26.03% || 25.32% || 24.19% || 22.22%
 |-
 | align="center" colspan=6| '''Rare'''
 |-
-| {{Bag2|Green Shard}} || N/A || 20.85% || 22.14% || 27.72%
+| {{Bag2|Green Shard}} || 1 || 20.85% || 22.14% || 24.17% || 27.72%
 |-
 | align="center" colspan=6| '''Legendary'''
 |-
-| {{Bag2|Revive}} || N/A || 0.26% || 0.42% || 1.11%
+| {{Bag2|Revive}} || 1 || 0.26% || 0.42% || 0.67% || 1.11%
 |-
-| {{Bag2|Insect Plate}} || N/A || 0.26% || 0.42% || 1.11%
+| {{Bag2|Insect Plate}} || 1 || 0.26% || 0.42% || 0.67% || 1.11%
 |-
-| {{Bag2|Medium Restore}} || N/A || 0.26% || 0.42% || 1.11%
+| {{Bag2|Medium Restore}} || 1 || 0.26% || 0.42% || 0.67% || 1.11%
 |-
-| {{Bag2|Silver Powder}} || N/A || 0.26% || 0.42% || 1.11%
+| {{Bag2|Silver Powder}} || 1 || 0.26% || 0.42% || 0.67% || 1.11%
 |-
 | align="center" colspan=6| '''Mythic'''
 |-
-| {{Bag2|Zap Plate}} || N/A || 0.01% || 0.23% || 1.18%
+| {{Bag2|Zap Plate}} || 1 || 0.01% || 0.23% || 0.58% || 1.18%
 |}
 &lt;/tab&gt;
 
 &lt;tab name="Debuff"&gt;
-After Reaching Unova, the drop chance for items in Johto will be debuffed for any loot with a Tier rarer than Rare (ie: Epic, Legendary, Mythic).
+After reaching [[Unova]], the drop chance for items will be [[Dungeons#Dungeon Loot Regional Debuff|debuffed]].
 
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears
 |-
 | align="center" colspan=6| '''Common'''
 |-
-| {{Bag2|xAttack}} || 2 || 50.45% || 50.45% || 50.45%
+| {{Bag2|xAttack}} || 2 || 50.45% || 50.45% || 50.45% || 50.45%
 |-
-| {{Bag2|Lucky Egg}} || N/A || 25.23% || 25.23% || 25.23%
+| {{Bag2|Lucky Egg}} || 1 || 25.23% || 25.23% || 25.23% || 25.23%
 |-
 | align="center" colspan=6| '''Rare'''
 |-
-| {{Bag2|Green Shard}} || N/A || 24.22% || 24.22% || 24.22%
+| {{Bag2|Green Shard}} || 1 || 24.22% || 24.22% || 24.22% || 24.22%
 |-
 | align="center" colspan=6| '''Legendary'''
 |-
-| {{Bag2|Revive}} || N/A || 0.03% || 0.03% || 0.03%
+| {{Bag2|Revive}} || 1 || 0.03% || 0.03% || 0.03% || 0.03%
 |-
-| {{Bag2|Insect Plate}} || N/A || 0.03% || 0.03% || 0.03%
+| {{Bag2|Insect Plate}} || 1 || 0.03% || 0.03% || 0.03% || 0.03%
 |-
-| {{Bag2|Medium Restore}} || N/A || 0.03% || 0.03% || 0.03%
+| {{Bag2|Medium Restore}} || 1 || 0.03% || 0.03% || 0.03% || 0.03%
 |-
-| {{Bag2|Silver Powder}} || N/A || 0.03% || 0.03% || 0.03%
+| {{Bag2|Silver Powder}} || 1 || 0.03% || 0.03% || 0.03% || 0.03%
 |-
 | align="center" colspan=6| '''Mythic'''
 |-
-| {{Bag2|Zap Plate}} || N/A || &lt;0.01% || &lt;0.01% || &lt;0.01%
+| {{Bag2|Zap Plate}} || 1 || &lt;0.01% || &lt;0.01% || &lt;0.01% || &lt;0.01%
 |}
 &lt;/tab&gt;
 &lt;/tabs&gt;
@@ -135,9 +134,9 @@ After Reaching Unova, the drop chance for items in Johto will be debuffed for an
       <username>ThePantMan</username>
       <id>8</id>
     </contributor>
-    <comment>/* Loot update */</comment>
+    <comment>/* loot */</comment>
     <model>wikitext</model>
-    <parentid>5214</parentid>
-    <sha1>48b2a0cc82ef1cb61f59102e61ec3d6f0cc25e44</sha1>
+    <parentid>32913</parentid>
+    <sha1>469d999e67f6b456d2ee795b56d55f5afabaf4a1</sha1>
   </revision>
 </page></mediawiki>

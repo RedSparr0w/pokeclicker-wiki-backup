@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>402</id>
   <revision>
-    <id>32998</id>
-    <timestamp>2022-12-08T16:06:06Z</timestamp>
-    <text space="preserve" bytes="3053">{{Infobox dungeon
+    <id>33551</id>
+    <timestamp>2022-12-12T01:46:24Z</timestamp>
+    <text space="preserve" bytes="3202">{{Infobox dungeon
 |name    = Sealed Chamber
 |image   = [[File:Sealed Chamber.png|270px]]
 |caption = A map of Sealed Chamber.
@@ -49,75 +49,75 @@
 ==Items==
 
 &lt;tabs&gt;
-&lt;tab name="No Debuff"&gt;
+&lt;tab name="Base"&gt;
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears
 |-
 | align="center" colspan=6| '''Common'''
 |-
-| {{Bag2|xClick}} || N/A || 37.49% || 36.08% || 30.32%
+| {{Bag2|xClick}} || 1 || 37.49% || 36.08% || 33.93% || 30.32%
 |-
-| {{Bag2|Token Collector}} || N/A || 37.49% || 36.08% || 30.32%
+| {{Bag2|Token Collector}} || 1 || 37.49% || 36.08% || 33.93% || 30.32%
 |-
 | align="center" colspan=6| '''Rare'''
 |-
-| {{Bag2|Red Shard}} || N/A || 10.01% || 10.52% || 12.61%
+| {{Bag2|Red Shard}} || 1 || 10.01% || 10.52% || 11.30% || 12.61%
 |-
-| {{Bag2|Ochre Shard}} || N/A || 10.01% || 10.52% || 12.61%
+| {{Bag2|Ochre Shard}} || 1 || 10.01% || 10.52% || 11.30% || 12.61%
 |-
 | align="center" colspan=6| '''Epic'''
 |-
-| {{Bag2|Greatball}} || N/A || 2.01% || 2.61% || 5.05%
+| {{Bag2|Greatball}} || 1 || 2.01% || 2.61% || 3.52% || 5.05%
 |-
-| {{Bag2|Diveball}} || N/A || 2.01% || 2.61% || 5.05%
+| {{Bag2|Diveball}} || 1 || 2.01% || 2.61% || 3.52% || 5.05%
 |-
 | align="center" colspan=6| '''Legendary'''
 |-
-| {{Bag2|Stone Plate}} || 2 || 0.28% || 0.46% || 1.15%
+| {{Bag2|Stone Plate}} || 2 || 0.28% || 0.46% || 0.72% || 1.15%
 |-
-| {{Bag2|Icicle Plate}} || 2 || 0.28% || 0.46% || 1.15%
+| {{Bag2|Icicle Plate}} || 2 || 0.28% || 0.46% || 0.72% || 1.15%
 |-
-| {{Bag2|Iron Plate}} || 2 || 0.28% || 0.46% || 1.15%
+| {{Bag2|Iron Plate}} || 2 || 0.28% || 0.46% || 0.72% || 1.15%
 |-
-| {{Bag2|Hard Stone}} || N/A || 0.14% || 0.23% || 0.58%
+| {{Bag2|Hard Stone}} || 1 || 0.14% || 0.23% || 0.36% || 0.58%
 |}
 &lt;/tab&gt;
 
 &lt;tab name="Debuff"&gt;
-After Reaching Kalos, the drop chance for items in Hoenn will be debuffed for any loot with a Tier rarer than Rare (ie: Epic, Legendary, Mythic).
+After reaching [[Kalos]], the drop chance for items will be [[Dungeons#Dungeon Loot Regional Debuff|debuffed]].
 
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears
 |-
 | align="center" colspan=6| '''Common'''
 |-
-| {{Bag2|xClick}} || N/A || 37.50% || 37.50% || 37.50%
+| {{Bag2|xClick}} || 1 || 37.50% || 37.50% || 37.50% || 37.50%
 |-
-| {{Bag2|Token Collector}} || N/A || 37.50% || 37.50% || 37.50%
+| {{Bag2|Token Collector}} || 1 || 37.50% || 37.50% || 37.50% || 37.50%
 |-
 | align="center" colspan=6| '''Rare'''
 |-
-| {{Bag2|Red Shard}} || N/A || 12.00% || 12.00% || 12.00%
+| {{Bag2|Red Shard}} || 1 || 12.00% || 12.00% || 12.00% || 12.00%
 |-
-| {{Bag2|Ochre Shard}} || N/A || 12.00% || 12.00% || 12.00%
+| {{Bag2|Ochre Shard}} || 1 || 12.00% || 12.00% || 12.00% || 12.00%
 |-
 | align="center" colspan=6| '''Epic'''
 |-
-| {{Bag2|Greatball}} || N/A || 0.45% || 0.45% || 0.45%
+| {{Bag2|Greatball}} || 1 || 0.45% || 0.45% || 0.45% || 0.45%
 |-
-| {{Bag2|Diveball}} || N/A || 0.45% || 0.45% || 0.45%
+| {{Bag2|Diveball}} || 1 || 0.45% || 0.45% || 0.45% || 0.45%
 |-
 | align="center" colspan=6| '''Legendary'''
 |-
-| {{Bag2|Stone Plate}} || 2 || 0.03% || 0.03% || 0.03%
+| {{Bag2|Stone Plate}} || 2 || 0.03% || 0.03% || 0.03% || 0.03%
 |-
-| {{Bag2|Icicle Plate}} || 2 || 0.03% || 0.03% || 0.03%
+| {{Bag2|Icicle Plate}} || 2 || 0.03% || 0.03% || 0.03% || 0.03%
 |-
-| {{Bag2|Iron Plate}} || 2 || 0.03% || 0.03% || 0.03%
+| {{Bag2|Iron Plate}} || 2 || 0.03% || 0.03% || 0.03% || 0.03%
 |-
-| {{Bag2|Hard Stone}} || N/A || 0.01% || 0.01% || 0.01%
+| {{Bag2|Hard Stone}} || 1 || 0.01% || 0.01% || 0.01% || 0.01%
 |}
 &lt;/tab&gt;
 &lt;/tabs&gt;
@@ -129,9 +129,9 @@ After Reaching Kalos, the drop chance for items in Hoenn will be debuffed for an
       <username>ThePantMan</username>
       <id>8</id>
     </contributor>
-    <comment>/* Tabs */</comment>
+    <comment>/* loot */</comment>
     <model>wikitext</model>
-    <parentid>5528</parentid>
-    <sha1>d5047fa1bd99b7eee7a87ab5290148909f0de452</sha1>
+    <parentid>32998</parentid>
+    <sha1>177e9b9313ddeb7f6cac278661d1b62f9be5c688</sha1>
   </revision>
 </page></mediawiki>

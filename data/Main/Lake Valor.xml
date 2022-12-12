@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>434</id>
   <revision>
-    <id>33009</id>
-    <timestamp>2022-12-08T16:17:12Z</timestamp>
-    <text space="preserve" bytes="3081">{{Infobox dungeon
+    <id>33565</id>
+    <timestamp>2022-12-12T01:58:42Z</timestamp>
+    <text space="preserve" bytes="3149">{{Infobox dungeon
 |name    = Lake Valor
 |image   = [[File:Lake Valor.png|300px]]
 |caption = A bird's-eye view of Lake Valor.
@@ -51,51 +51,51 @@
 ==Items==
 
 &lt;tabs&gt;
-&lt;tab name="No Debuff"&gt;
+&lt;tab name="Base"&gt;
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears
 |-
 | align="center" colspan=6| '''Common'''
 |-
-| {{Bag2|Token Collector}} || 2 || 50.49% || 48.88% || 42.13%
+| {{Bag2|Token Collector}} || 2 || 50.49% || 48.88% || 46.40% || 42.13%
 |-
-| {{Bag2|Sitrus}} || N/A || 25.24% || 24.44% || 21.06%
+| {{Bag2|Sitrus}} || 1 || 25.24% || 24.44% || 23.20% || 21.06%
 |-
 | align="center" colspan=6| '''Rare'''
 |-
-| {{Bag2|Blue Shard}} || N/A || 20.21% || 21.38% || 26.28%
+| {{Bag2|Blue Shard}} || 1 || 20.21% || 21.38% || 23.18% || 26.28%
 |-
 | align="center" colspan=6| '''Epic'''
 |-
-| {{Bag2|Mind Plate}} || N/A || 2.03% || 2.65% || 5.27%
+| {{Bag2|Mind Plate}} || 1 || 2.03% || 2.65% || 3.61% || 5.27%
 |-
-| {{Bag2|Lureball}} || N/A || 2.03% || 2.65% || 5.27%
+| {{Bag2|Lureball}} || 1 || 2.03% || 2.65% || 3.61% || 5.27%
 |}
 &lt;/tab&gt;
 
 &lt;tab name="Debuff"&gt;
-After Reaching Alola, the drop chance for items in Sinnoh will be debuffed for any loot with a Tier rarer than Rare (ie: Epic, Legendary, Mythic).
+After reaching [[Alola]], the drop chance for items will be [[Dungeons#Dungeon Loot Regional Debuff|debuffed]].
 
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears
 |-
 | align="center" colspan=6| '''Common'''
 |-
-| {{Bag2|Token Collector}} || 2 || 50.05% || 50.05% || 50.05%
+| {{Bag2|Token Collector}} || 2 || 50.05% || 50.05% || 50.05% || 50.05%
 |-
-| {{Bag2|Sitrus}} || N/A || 25.03% || 25.03% || 25.03%
+| {{Bag2|Sitrus}} || 1 || 25.03% || 25.03% || 25.03% || 25.03%
 |-
 | align="center" colspan=6| '''Rare'''
 |-
-| {{Bag2|Blue Shard}} || N/A || 24.02% || 24.02% || 24.02%
+| {{Bag2|Blue Shard}} || 1 || 24.02% || 24.02% || 24.02% || 24.02%
 |-
 | align="center" colspan=6| '''Epic'''
 |-
-| {{Bag2|Mind Plate}} || N/A || 0.45% || 0.45% || 0.45%
+| {{Bag2|Mind Plate}} || 1 || 0.45% || 0.45% || 0.45% || 0.45%
 |-
-| {{Bag2|Lureball}} || N/A || 0.45% || 0.45% || 0.45%
+| {{Bag2|Lureball}} || 1 || 0.45% || 0.45% || 0.45% || 0.45%
 |}
 &lt;/tab&gt;
 &lt;/tabs&gt;
@@ -107,9 +107,9 @@ After Reaching Alola, the drop chance for items in Sinnoh will be debuffed for a
       <username>ThePantMan</username>
       <id>8</id>
     </contributor>
-    <comment>/* Tabs */</comment>
+    <comment>/* loot fix */</comment>
     <model>wikitext</model>
-    <parentid>5835</parentid>
-    <sha1>e3934ff077dbbeb60e670a02c61444c7c9612ce9</sha1>
+    <parentid>33564</parentid>
+    <sha1>6da52dd06dda27d9ece8c3561d6d030fbb5d70ed</sha1>
   </revision>
 </page></mediawiki>

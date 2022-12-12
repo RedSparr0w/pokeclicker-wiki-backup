@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>398</id>
   <revision>
-    <id>32994</id>
-    <timestamp>2022-12-08T16:01:10Z</timestamp>
-    <text space="preserve" bytes="2971">{{Infobox dungeon
+    <id>33547</id>
+    <timestamp>2022-12-12T01:42:19Z</timestamp>
+    <text space="preserve" bytes="3102">{{Infobox dungeon
 |name    = Shoal Cave
 |image   = [[File:Shoal Cave.png|300px]]
 |caption = A map of Shoal Cave.
@@ -51,72 +51,71 @@
 ==Items==
 
 &lt;tabs&gt;
-&lt;tab name="No Debuff"&gt;
-
+&lt;tab name="Base"&gt;
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears
 |-
 | align="center" colspan=6| '''Common'''
 |-
-| {{Bag2|xClick}} || 2 || 52.07% || 50.63% || 44.44%
+| {{Bag2|xClick}} || 2 || 52.07% || 50.63% || 48.39% || 44.44%
 |-
-| {{Bag2|Lucky Incense}} || N/A || 26.03% || 25.32% || 22.22%
+| {{Bag2|Lucky Incense}} || 1 || 26.03% || 25.32% || 24.19% || 22.22%
 |-
 | align="center" colspan=6| '''Rare'''
 |-
-| {{Bag2|Ochre Shard}} || N/A || 20.85% || 22.14% || 27.72%
+| {{Bag2|Ochre Shard}} || 1 || 20.85% || 22.14% || 24.17% || 27.72%
 |-
 | align="center" colspan=6| '''Legendary'''
 |-
-| {{Bag2|Icicle Plate}} || 2 || 0.52% || 0.84% || 2.22%
+| {{Bag2|Icicle Plate}} || 2 || 0.52% || 0.84% || 1.34% || 2.22%
 |-
-| {{Bag2|Star Piece}} || N/A || 0.26% || 0.42% || 1.11%
+| {{Bag2|Star Piece}} || 1 || 0.26% || 0.42% || 0.67% || 1.11%
 |-
-| {{Bag2|Revive}} || N/A || 0.26% || 0.42% || 1.11%
+| {{Bag2|Revive}} || 1 || 0.26% || 0.42% || 0.67% || 1.11%
 |-
 | align="center" colspan=6| '''Mythic'''
 |-
-| {{Bag2|Max Revive}} || N/A || &lt;0.01% || 0.08% || 0.39%
+| {{Bag2|Max Revive}} || 1 || &lt;0.01% || 0.08% || 0.19% || 0.39%
 |-
-| {{Bag2|Heart Scale}} || N/A || &lt;0.01% || 0.08% || 0.39%
+| {{Bag2|Heart Scale}} || 1 || &lt;0.01% || 0.08% || 0.19% || 0.39%
 |-
-| {{Bag2|Never Melt Ice}} || N/A || &lt;0.01% || 0.08% || 0.39%
+| {{Bag2|Never Melt Ice}} || 1 || &lt;0.01% || 0.08% || 0.19% || 0.39%
 |}
 &lt;/tab&gt;
 
 &lt;tab name="Debuff"&gt;
-After Reaching Kalos, the drop chance for items in Hoenn will be debuffed for any loot with a Tier rarer than Rare (ie: Epic, Legendary, Mythic).
+After reaching [[Kalos]], the drop chance for items will be [[Dungeons#Dungeon Loot Regional Debuff|debuffed]].
 
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears
 |-
 | align="center" colspan=6| '''Common'''
 |-
-| {{Bag2|xClick}} || 2 || 50.45% || 50.45% || 50.45%
+| {{Bag2|xClick}} || 2 || 50.45% || 50.45% || 50.45% || 50.45%
 |-
-| {{Bag2|Lucky Incense}} || N/A || 25.23% || 25.23% || 25.23%
+| {{Bag2|Lucky Incense}} || 1 || 25.23% || 25.23% || 25.23% || 25.23%
 |-
 | align="center" colspan=6| '''Rare'''
 |-
-| {{Bag2|Ochre Shard}} || N/A || 24.22% || 24.22% || 24.22%
+| {{Bag2|Ochre Shard}} || 1 || 24.22% || 24.22% || 24.22% || 24.22%
 |-
 | align="center" colspan=6| '''Legendary'''
 |-
-| {{Bag2|Icicle Plate}} || 2 || 0.05% || 0.05% || 0.05%
+| {{Bag2|Icicle Plate}} || 2 || 0.05% || 0.05% || 0.05% || 0.05%
 |-
-| {{Bag2|Star Piece}} || N/A || 0.03% || 0.03% || 0.03%
+| {{Bag2|Star Piece}} || 1 || 0.03% || 0.03% || 0.03% || 0.03%
 |-
-| {{Bag2|Revive}} || N/A || 0.03% || 0.03% || 0.03%
+| {{Bag2|Revive}} || 1 || 0.03% || 0.03% || 0.03% || 0.03%
 |-
 | align="center" colspan=6| '''Mythic'''
 |-
-| {{Bag2|Max Revive}} || N/A || &lt;0.01% || &lt;0.01% || &lt;0.01%
+| {{Bag2|Max Revive}} || 1 || &lt;0.01% || &lt;0.01% || &lt;0.01% || &lt;0.01%
 |-
-| {{Bag2|Heart Scale}} || N/A || &lt;0.01% || &lt;0.01% || &lt;0.01%
+| {{Bag2|Heart Scale}} || 1 || &lt;0.01% || &lt;0.01% || &lt;0.01% || &lt;0.01%
 |-
-| {{Bag2|Never Melt Ice}} || N/A || &lt;0.01% || &lt;0.01% || &lt;0.01%
+| {{Bag2|Never Melt Ice}} || 1 || &lt;0.01% || &lt;0.01% || &lt;0.01% || &lt;0.01%
 |}
 &lt;/tab&gt;
 &lt;/tabs&gt;
@@ -128,9 +127,9 @@ After Reaching Kalos, the drop chance for items in Hoenn will be debuffed for an
       <username>ThePantMan</username>
       <id>8</id>
     </contributor>
-    <comment>/* Loot update */</comment>
+    <comment>/* loot */</comment>
     <model>wikitext</model>
-    <parentid>5438</parentid>
-    <sha1>4437d5d90539bcd1ecaefbd944df2919d312ee8d</sha1>
+    <parentid>32994</parentid>
+    <sha1>679568b4f0b4b22a86851d738fd15ce200de4d13</sha1>
   </revision>
 </page></mediawiki>

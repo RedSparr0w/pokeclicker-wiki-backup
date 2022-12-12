@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>399</id>
   <revision>
-    <id>32995</id>
-    <timestamp>2022-12-08T16:02:14Z</timestamp>
-    <text space="preserve" bytes="2900">{{Infobox dungeon
+    <id>33548</id>
+    <timestamp>2022-12-12T01:43:57Z</timestamp>
+    <text space="preserve" bytes="2978">{{Infobox dungeon
 |name    = Cave of Origin
 |image   = [[File:Cave of Origin.png|300px]]
 |caption = A map of Cave of Origin.
@@ -53,59 +53,59 @@
 ==Items==
 
 &lt;tabs&gt;
-&lt;tab name="No Debuff"&gt;
+&lt;tab name="Base"&gt;
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears !! Requirement 
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears !! Requirement
 |-
-| align="center" colspan=6| '''Common'''
+| align="center" colspan=7| '''Common'''
 |-
-| {{Bag2|xAttack}} || N/A || 78.10% || 75.95% || 66.67% || &lt;center&gt; N/A
+| {{Bag2|xAttack}} || 1 || 78.10% || 75.95% || 72.58% || 66.67% || &lt;center&gt;N/A
 |-
-| align="center" colspan=6| '''Rare'''
+| align="center" colspan=7| '''Rare'''
 |-
-| {{Bag2|Green Shard}} || N/A || 10.42% || 11.07% || 13.86% || rowspan=2|&lt;center&gt; N/A
+| {{Bag2|Green Shard}} || 1 || 10.42% || 11.07% || 12.08% || 13.86% || rowspan=2| &lt;center&gt;N/A
 |-
-| {{Bag2|Ochre Shard}} || N/A || 10.42% || 11.07% || 13.86%
+| {{Bag2|Ochre Shard}} || 1 || 10.42% || 11.07% || 12.08% || 13.86%
 |-
-| align="center" colspan=6| '''Legendary'''
+| align="center" colspan=7| '''Legendary'''
 |-
-| {{Bag2|Revive}} || N/A || 1.04% || 1.68% || 4.43% || &lt;center&gt; N/A
+| {{Bag2|Revive}} || 1 || 1.04% || 1.68% || 2.68% || 4.43% || &lt;center&gt;N/A
 |-
-| align="center" colspan=6| '''Mythic'''
+| align="center" colspan=7| '''Mythic'''
 |-
-| {{Bag2|Protein}} || N/A || 0% || 0% || 0.59% || 400 Clears
+| {{Bag2|Protein}} || 1 || N/A || N/A || N/A || 0.59% || 400 Clears
 |-
-| {{Bag2|Lum}} || N/A || 0% || 0% || 0.59% || 150 Clears
+| {{Bag2|Lum}} || 1 || N/A || N/A || 0.29% || 0.59% || 150 Clears
 |}
 &lt;/tab&gt;
 
 &lt;tab name="Debuff"&gt;
-After Reaching Kalos, the drop chance for items in Hoenn will be debuffed for any loot with a Tier rarer than Rare (ie: Epic, Legendary, Mythic).
+After reaching [[Kalos]], the drop chance for items will be [[Dungeons#Dungeon Loot Regional Debuff|debuffed]].
 
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears !! Requirement 
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears !! Requirement
 |-
-| align="center" colspan=6| '''Common'''
+| align="center" colspan=7| '''Common'''
 |-
-| {{Bag2|xAttack}} || N/A || 75.68% || 75.68% || 75.68% || &lt;center&gt; N/A
+| {{Bag2|xAttack}} || 1 || 75.68% || 75.68% || 75.68% || 75.68% || &lt;center&gt;N/A
 |-
-| align="center" colspan=6| '''Rare'''
+| align="center" colspan=7| '''Rare'''
 |-
-| {{Bag2|Green Shard}} || N/A || 12.11% || 12.11% || 12.11% || rowspan=2|&lt;center&gt; N/A
+| {{Bag2|Green Shard}} || 1 || 12.11% || 12.11% || 12.11% || 12.11% || rowspan=2| &lt;center&gt;N/A
 |-
-| {{Bag2|Ochre Shard}} || N/A || 12.11% || 12.11% || 12.11%
+| {{Bag2|Ochre Shard}} || 1 || 12.11% || 12.11% || 12.11% || 12.11%
 |-
-| align="center" colspan=6| '''Legendary'''
+| align="center" colspan=7| '''Legendary'''
 |-
-| {{Bag2|Revive}} || N/A || 0.10% || 0.10% || 0.10% || &lt;center&gt; N/A
+| {{Bag2|Revive}} || 1 || 0.10% || 0.10% || 0.10% || 0.10% || &lt;center&gt;N/A
 |-
-| align="center" colspan=6| '''Mythic'''
+| align="center" colspan=7| '''Mythic'''
 |-
-| {{Bag2|Protein}} || N/A || 0% || 0% || &lt;0.01% || 400 Clears
+| {{Bag2|Protein}} || 1 || N/A || N/A || N/A || &lt;0.01% || 400 Clears
 |-
-| {{Bag2|Lum}} || N/A || 0% || 0% || &lt;0.01% || 150 Clears
+| {{Bag2|Lum}} || 1 || N/A || N/A || &lt;0.01% || &lt;0.01% || 150 Clears
 |}
 &lt;/tab&gt;
 &lt;/tabs&gt;
@@ -117,9 +117,9 @@ After Reaching Kalos, the drop chance for items in Hoenn will be debuffed for an
       <username>ThePantMan</username>
       <id>8</id>
     </contributor>
-    <comment>/* Tabs */</comment>
+    <comment>/* loot */</comment>
     <model>wikitext</model>
-    <parentid>5462</parentid>
-    <sha1>8557dd710578992f5bff3446d81ca3dfda9ec46c</sha1>
+    <parentid>32995</parentid>
+    <sha1>62aaa77147a8877ded7a9cd1191c23f52d6b9424</sha1>
   </revision>
 </page></mediawiki>

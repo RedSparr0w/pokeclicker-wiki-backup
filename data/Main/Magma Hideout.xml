@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>3241</id>
   <revision>
-    <id>32992</id>
-    <timestamp>2022-12-08T15:58:52Z</timestamp>
-    <text space="preserve" bytes="3956">{{Infobox dungeon
+    <id>33545</id>
+    <timestamp>2022-12-12T01:40:36Z</timestamp>
+    <text space="preserve" bytes="4070">{{Infobox dungeon
 |name    = Magma Hideout
 |image   = [[File:Magma Hideout.png|300px]]
 |caption = A map of Magma Hideout.
@@ -62,64 +62,63 @@
 ==Items==
 
 &lt;tabs&gt;
-&lt;tab name="No Debuff"&gt;
-
+&lt;tab name="Base"&gt;
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears
 |-
 | align="center" colspan=6| '''Common'''
 |-
-| {{Bag2|xAttack}} || N/A || 19.53% || 19.03% || 16.87%
+| {{Bag2|xAttack}} || 1 || 19.53% || 19.03% || 18.25% || 16.87%
 |-
-| {{Bag2|Figy}} || 2 || 39.06% || 38.06% || 33.73%
+| {{Bag2|Figy}} || 2 || 39.06% || 38.06% || 36.50% || 33.73%
 |-
-| {{Bag2|Pinap}} || N/A || 19.53% || 19.03% || 16.87%
+| {{Bag2|Pinap}} || 1 || 19.53% || 19.03% || 18.25% || 16.87%
 |-
 | align="center" colspan=6| '''Rare'''
 |-
-| {{Bag2|Red Shard}} || N/A || 10.42% || 11.10% || 14.03%
+| {{Bag2|Red Shard}} || 1 || 10.42% || 11.10% || 12.15% || 14.03%
 |-
-| {{Bag2|Yellow Shard}} || N/A || 10.42% || 11.10% || 14.03%
+| {{Bag2|Yellow Shard}} || 1 || 10.42% || 11.10% || 12.15% || 14.03%
 |-
 | align="center" colspan=6| '''Legendary'''
 |-
-| {{Bag2|Flame Plate}} || N/A || 0.35% || 0.56% || 1.50%
+| {{Bag2|Flame Plate}} || 1 || 0.35% || 0.56% || 0.90% || 1.50%
 |-
-| {{Bag2|Dread Plate}} || N/A || 0.35% || 0.56% || 1.50%
+| {{Bag2|Dread Plate}} || 1 || 0.35% || 0.56% || 0.90% || 1.50%
 |-
-| {{Bag2|Nestball}} || N/A || 0.35% || 0.56% || 1.50%
+| {{Bag2|Nestball}} || 1 || 0.35% || 0.56% || 0.90% || 1.50%
 |}
 &lt;/tab&gt;
 
 &lt;tab name="Debuff"&gt;
-After Reaching Kalos, the drop chance for items in Hoenn will be debuffed for any loot with a Tier rarer than Rare (ie: Epic, Legendary, Mythic).
+After reaching [[Kalos]], the drop chance for items will be [[Dungeons#Dungeon Loot Regional Debuff|debuffed]].
 
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears
 |-
 | align="center" colspan=6| '''Common'''
 |-
-| {{Bag2|xAttack}} || N/A || 18.92% || 18.92% || 18.92%
+| {{Bag2|xAttack}} || 1 || 18.92% || 18.92% || 18.92% || 18.92%
 |-
-| {{Bag2|Figy}} || 2 || 37.84% || 37.84% || 37.84%
+| {{Bag2|Figy}} || 2 || 37.84% || 37.84% || 37.84% || 37.84%
 |-
-| {{Bag2|Pinap}} || N/A || 18.92% || 18.92% || 18.92%
+| {{Bag2|Pinap}} || 1 || 18.92% || 18.92% || 18.92% || 18.92%
 |-
 | align="center" colspan=6| '''Rare'''
 |-
-| {{Bag2|Red Shard}} || N/A || 12.11% || 12.11% || 12.11%
+| {{Bag2|Red Shard}} || 1 || 12.11% || 12.11% || 12.11% || 12.11%
 |-
-| {{Bag2|Yellow Shard}} || N/A || 12.11% || 12.11% || 12.11%
+| {{Bag2|Yellow Shard}} || 1 || 12.11% || 12.11% || 12.11% || 12.11%
 |-
 | align="center" colspan=6| '''Legendary'''
 |-
-| {{Bag2|Flame Plate}} || N/A || 0.03% || 0.03% || 0.03%
+| {{Bag2|Flame Plate}} || 1 || 0.03% || 0.03% || 0.03% || 0.03%
 |-
-| {{Bag2|Dread Plate}} || N/A || 0.03% || 0.03% || 0.03%
+| {{Bag2|Dread Plate}} || 1 || 0.03% || 0.03% || 0.03% || 0.03%
 |-
-| {{Bag2|Nestball}} || N/A || 0.03% || 0.03% || 0.03%
+| {{Bag2|Nestball}} || 1 || 0.03% || 0.03% || 0.03% || 0.03%
 |}
 &lt;/tab&gt;
 &lt;/tabs&gt;
@@ -131,9 +130,9 @@ After Reaching Kalos, the drop chance for items in Hoenn will be debuffed for an
       <username>ThePantMan</username>
       <id>8</id>
     </contributor>
-    <comment>/* Tabs */</comment>
+    <comment>/* loot */</comment>
     <model>wikitext</model>
-    <parentid>12687</parentid>
-    <sha1>b40aaa180df1de42d316da2fd9c3ad4ee048e314</sha1>
+    <parentid>32992</parentid>
+    <sha1>0c9371d09bda6dd023915365065746fcf534e141</sha1>
   </revision>
 </page></mediawiki>

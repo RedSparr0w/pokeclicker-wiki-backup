@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>10203</id>
   <revision>
-    <id>32907</id>
-    <timestamp>2022-12-08T02:33:57Z</timestamp>
-    <text space="preserve" bytes="2231">{{Infobox dungeon
+    <id>33472</id>
+    <timestamp>2022-12-12T00:12:08Z</timestamp>
+    <text space="preserve" bytes="2328">{{Infobox dungeon
 |name    = Ruby Path
 |image   = [[File:Ruby Path.png|thumb]]
 |caption = An overhead map of Ruby Path.
@@ -47,47 +47,46 @@
 ==Items==
 
 &lt;tabs&gt;
-&lt;tab name="No Debuff"&gt;
+&lt;tab name="Base"&gt;
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears
 |-
 | align="center" colspan=6| '''Common'''
 |-
-| {{Bag2|xAttack}} || 3 || 33.83% || 33.18% || 30.27%
+| {{Bag2|xAttack}} || 3 || 33.83% || 33.18% || 32.15% || 30.27%
 |-
-| {{Bag2|Rawst}} || 3 || 33.83% || 33.18% || 30.27%
+| {{Bag2|Rawst}} || 3 || 33.83% || 33.18% || 32.15% || 30.27%
 |-
-| {{Pokemon|Geodude|Mimic}} || N/A || 11.28% || 11.06% || 10.09%
+| {{Pokemon|Geodude|Mimic=Mimic}} || 1 || 11.28% || 11.06% || 10.72% || 10.09%
 |-
 | align="center" colspan=6| '''Rare'''
 |-
-| {{Bag2|Red Shard}} || N/A || 10.53% || 11.29% || 14.69%
+| {{Bag2|Red Shard}} || 1 || 10.53% || 11.29% || 12.49% || 14.69%
 |-
-| {{Bag2|Grey Shard}} || N/A || 10.53% || 11.29% || 14.69%
+| {{Bag2|Grey Shard}} || 1 || 10.53% || 11.29% || 12.49% || 14.69%
 |}
 &lt;/tab&gt;
 &lt;tab name="Debuff"&gt;
-
-After Reaching Kalos, the drop chance for items will be debuffed for any loot with a Tier rarer than Rare (ie: Epic, Legendary, Mythic).
+After reaching [[Kalos]], the drop chance for items will be [[Dungeons#Dungeon Loot Regional Debuff|debuffed]].
 
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears
 |-
 | align="center" colspan=6| '''Common'''
 |-
-| {{Bag2|xAttack}} || 3 || 32.47% || 32.47% || 32.47%
+| {{Bag2|xAttack}} || 3 || 32.47% || 32.47% || 32.47% || 32.47%
 |-
-| {{Bag2|Rawst}} || 3 || 32.47% || 32.47% || 32.47%
+| {{Bag2|Rawst}} || 3 || 32.47% || 32.47% || 32.47% || 32.47%
 |-
-| {{Pokemon|Geodude|Mimic}} || N/A || 10.82% || 10.82% || 10.82%
+| {{Pokemon|Geodude|Mimic=Mimic}} || 1 || 10.82% || 10.82% || 10.82% || 10.82%
 |-
 | align="center" colspan=6| '''Rare'''
 |-
-| {{Bag2|Red Shard}} || N/A || 12.12% || 12.12% || 12.12%
+| {{Bag2|Red Shard}} || 1 || 12.12% || 12.12% || 12.12% || 12.12%
 |-
-| {{Bag2|Grey Shard}} || N/A || 12.12% || 12.12% || 12.12%
+| {{Bag2|Grey Shard}} || 1 || 12.12% || 12.12% || 12.12% || 12.12%
 |}
 &lt;/tab&gt;
 &lt;/tabs&gt;
@@ -98,9 +97,9 @@ After Reaching Kalos, the drop chance for items will be debuffed for any loot wi
       <username>ThePantMan</username>
       <id>8</id>
     </contributor>
-    <comment>/* mimic */</comment>
+    <comment>/* loot */</comment>
     <model>wikitext</model>
-    <parentid>30167</parentid>
-    <sha1>6a1c9de8d2ce19abca95f622be4782d1b9d3aea5</sha1>
+    <parentid>32907</parentid>
+    <sha1>d019c166c7b2e46116523a6fe8f87288b3300032</sha1>
   </revision>
 </page></mediawiki>

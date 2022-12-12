@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>435</id>
   <revision>
-    <id>33203</id>
-    <timestamp>2022-12-10T01:27:39Z</timestamp>
-    <text space="preserve" bytes="2844">{{Infobox dungeon
+    <id>33567</id>
+    <timestamp>2022-12-12T02:00:37Z</timestamp>
+    <text space="preserve" bytes="2929">{{Infobox dungeon
 |name    = Lake Acuity
 |image   = [[File:Lake Acuity.png|300px]]
 |caption = A bird's-eye view of Lake Acuity.
@@ -57,55 +57,56 @@
 ==Items==
 
 &lt;tabs&gt;
-&lt;tab name="No Debuff"&gt;
+
+&lt;tab name="Base"&gt;
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears
 |-
 | align="center" colspan=6| '''Common'''
 |-
-| {{Bag2|Lucky Egg}} || 2 || 50.49% || 48.88% || 42.13%
+| {{Bag2|Lucky Egg}} || 2 || 50.49% || 48.88% || 46.40% || 42.13%
 |-
-| {{Bag2|Sitrus}} || N/A || 25.24% || 24.44% || 21.06%
+| {{Bag2|Sitrus}} || 1 || 25.24% || 24.44% || 23.20% || 21.06%
 |-
 | align="center" colspan=6| '''Rare'''
 |-
-| {{Bag2|Red Shard}} || N/A || 10.11% || 10.69% || 13.14%
+| {{Bag2|Red Shard}} || 1 || 10.11% || 10.69% || 11.59% || 13.14%
 |-
-| {{Bag2|Blue Shard}} || N/A || 10.11% || 10.69% || 13.14%
+| {{Bag2|Blue Shard}} || 1 || 10.11% || 10.69% || 11.59% || 13.14%
 |-
 | align="center" colspan=6| '''Epic'''
 |-
-| {{Bag2|Mind Plate}} || N/A || 2.03% || 2.65% || 5.27%
+| {{Bag2|Mind Plate}} || 1 || 2.03% || 2.65% || 3.61% || 5.27%
 |-
-| {{Bag2|Icicle Plate}} || N/A || 2.03% || 2.65% || 5.27%
+| {{Bag2|Icicle Plate}} || 1 || 2.03% || 2.65% || 3.61% || 5.27%
 |}
 &lt;/tab&gt;
 
 &lt;tab name="Debuff"&gt;
-After Reaching Alola, the drop chance for items in Sinnoh will be debuffed for any loot with a Tier rarer than Rare (ie: Epic, Legendary, Mythic).
+After reaching [[Alola]], the drop chance for items will be [[Dungeons#Dungeon Loot Regional Debuff|debuffed]].
 
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears
 |-
 | align="center" colspan=6| '''Common'''
 |-
-| {{Bag2|Lucky Egg}} || 2 || 50.05% || 50.05% || 50.05%
+| {{Bag2|Lucky Egg}} || 2 || 50.05% || 50.05% || 50.05% || 50.05%
 |-
-| {{Bag2|Sitrus}} || N/A || 25.03% || 25.03% || 25.03%
+| {{Bag2|Sitrus}} || 1 || 25.03% || 25.03% || 25.03% || 25.03%
 |-
 | align="center" colspan=6| '''Rare'''
 |-
-| {{Bag2|Red Shard}} || N/A || 12.01% || 12.01% || 12.01%
+| {{Bag2|Red Shard}} || 1 || 12.01% || 12.01% || 12.01% || 12.01%
 |-
-| {{Bag2|Blue Shard}} || N/A || 12.01% || 12.01% || 12.01%
+| {{Bag2|Blue Shard}} || 1 || 12.01% || 12.01% || 12.01% || 12.01%
 |-
 | align="center" colspan=6| '''Epic'''
 |-
-| {{Bag2|Mind Plate}} || N/A || 0.45% || 0.45% || 0.45%
+| {{Bag2|Mind Plate}} || 1 || 0.45% || 0.45% || 0.45% || 0.45%
 |-
-| {{Bag2|Icicle Plate}} || N/A || 0.45% || 0.45% || 0.45%
+| {{Bag2|Icicle Plate}} || 1 || 0.45% || 0.45% || 0.45% || 0.45%
 |}
 &lt;/tab&gt;
 &lt;/tabs&gt;
@@ -114,12 +115,12 @@ After Reaching Alola, the drop chance for items in Sinnoh will be debuffed for a
 
 [[Category:Dungeons|^Region #4 - Sinnoh^m]]</text>
     <contributor>
-      <username>SomeonealiveQN</username>
-      <id>5</id>
+      <username>ThePantMan</username>
+      <id>8</id>
     </contributor>
-    <comment>/* Boss Encounters */</comment>
+    <comment>/* loot */</comment>
     <model>wikitext</model>
-    <parentid>33012</parentid>
-    <sha1>04c156962330ae0c142b32998ed88fbfa20cb127</sha1>
+    <parentid>33203</parentid>
+    <sha1>6d30fbe0dcf25dc81fa9b1c3cbbefa5635969417</sha1>
   </revision>
 </page></mediawiki>

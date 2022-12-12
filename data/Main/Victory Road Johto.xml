@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>3608</id>
   <revision>
-    <id>32923</id>
-    <timestamp>2022-12-08T03:09:17Z</timestamp>
-    <text space="preserve" bytes="3584">{{Infobox dungeon
+    <id>33534</id>
+    <timestamp>2022-12-12T01:33:49Z</timestamp>
+    <text space="preserve" bytes="3802">{{Infobox dungeon
 |name    = Victory Road Johto
 |image   = [[File:Victory Road Johto.png|thumb]]
 |caption = A map of Victory Road Johto.
@@ -47,91 +47,91 @@
 ==Items==
 
 &lt;tabs&gt;
-&lt;tab name="No Debuff"&gt;
+&lt;tab name="Base"&gt;
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears
 |-
 | align="center" colspan=6| '''Common'''
 |-
-| {{Bag2|Dowsing Machine}} || 6 || 66.95% || 65.10% || 57.14%
+| {{Bag2|Dowsing Machine}} || 6 || 66.95% || 65.10% || 62.21% || 57.14%
 |-
-| {{Pokemon|Graveler|Mimic}} || N/A || 11.16% || 10.85% || 9.52%
+| {{Pokemon|Graveler|Mimic=Mimic}} || 1 || 11.16% || 10.85% || 10.37% || 9.52%
 |-
 | align="center" colspan=6| '''Rare'''
 |-
-| {{Bag2|Blue Shard}} || N/A || 3.47% || 3.69% || 4.62%
+| {{Bag2|Blue Shard}} || 1 || 3.47% || 3.69% || 4.03% || 4.62%
 |-
-| {{Bag2|Green Shard}} || N/A || 3.47% || 3.69% || 4.62%
+| {{Bag2|Green Shard}} || 1 || 3.47% || 3.69% || 4.03% || 4.62%
 |-
-| {{Bag2|Red Shard}} || N/A || 3.47% || 3.69% || 4.62%
+| {{Bag2|Red Shard}} || 1 || 3.47% || 3.69% || 4.03% || 4.62%
 |-
-| {{Bag2|Yellow Shard}} || N/A || 3.47% || 3.69% || 4.62%
+| {{Bag2|Yellow Shard}} || 1 || 3.47% || 3.69% || 4.03% || 4.62%
 |-
-| {{Bag2|Grey Shard}} || N/A || 3.47% || 3.69% || 4.62%
+| {{Bag2|Grey Shard}} || 1 || 3.47% || 3.69% || 4.03% || 4.62%
 |-
-| {{Bag2|Purple Shard}} || N/A || 3.47% || 3.69% || 4.62%
+| {{Bag2|Purple Shard}} || 1 || 3.47% || 3.69% || 4.03% || 4.62%
 |-
 | align="center" colspan=6| '''Legendary'''
 |-
-| {{Bag2|Earth Plate}} || 2 || 0.26% || 0.42% || 1.11%
+| {{Bag2|Earth Plate}} || 2 || 0.26% || 0.42% || 0.67% || 1.11%
 |-
-| {{Bag2|Ultraball}} || 2 || 0.26% || 0.42% || 1.11%
+| {{Bag2|Ultraball}} || 2 || 0.26% || 0.42% || 0.67% || 1.11%
 |-
-| {{Bag2|Small Restore}} || 2 || 0.26% || 0.42% || 1.11%
+| {{Bag2|Small Restore}} || 2 || 0.26% || 0.42% || 0.67% || 1.11%
 |-
-| {{Bag2|Large Restore}} || N/A || 0.13% || 0.21% || 0.55%
+| {{Bag2|Large Restore}} || 1 || 0.13% || 0.21% || 0.33% || 0.55%
 |-
-| {{Bag2|Dragon Fang}} || N/A || 0.13% || 0.21% || 0.55%
+| {{Bag2|Dragon Fang}} || 1 || 0.13% || 0.21% || 0.33% || 0.55%
 |-
 | align="center" colspan=6| '''Mythic'''
 |-
-| {{Bag2|Max Revive}} || N/A || 0.01% || 0.23% || 1.18%
+| {{Bag2|Max Revive}} || 1 || 0.01% || 0.23% || 0.58% || 1.18%
 |}
 &lt;/tab&gt;
 
 &lt;tab name="Debuff"&gt;
-After Reaching Unova, the drop chance for items in Johto will be debuffed for any loot with a Tier rarer than Rare (ie: Epic, Legendary, Mythic).
+After reaching [[Unova]], the drop chance for items will be [[Dungeons#Dungeon Loot Regional Debuff|debuffed]].
 
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears
 |-
 | align="center" colspan=6| '''Common'''
 |-
-| {{Bag2|Dowsing Machine}} || 6 || 64.87% || 64.87% || 64.87%
+| {{Bag2|Dowsing Machine}} || 6 || 64.87% || 64.87% || 64.87% || 64.87%
 |-
-| {{Pokemon|Graveler|Mimic}} || N/A || 10.81% || 10.81% || 10.81%
+| {{Pokemon|Graveler|Mimic=Mimic}} || 1 || 10.81% || 10.81% || 10.81% || 10.81%
 |-
 | align="center" colspan=6| '''Rare'''
 |-
-| {{Bag2|Blue Shard}} || N/A || 4.04% || 4.04% || 4.04%
+| {{Bag2|Blue Shard}} || 1 || 4.04% || 4.04% || 4.04% || 4.04%
 |-
-| {{Bag2|Green Shard}} || N/A || 4.04% || 4.04% || 4.04%
+| {{Bag2|Green Shard}} || 1 || 4.04% || 4.04% || 4.04% || 4.04%
 |-
-| {{Bag2|Red Shard}} || N/A || 4.04% || 4.04% || 4.04%
+| {{Bag2|Red Shard}} || 1 || 4.04% || 4.04% || 4.04% || 4.04%
 |-
-| {{Bag2|Yellow Shard}} || N/A || 4.04% || 4.04% || 4.04%
+| {{Bag2|Yellow Shard}} || 1 || 4.04% || 4.04% || 4.04% || 4.04%
 |-
-| {{Bag2|Grey Shard}} || N/A || 4.04% || 4.04% || 4.04%
+| {{Bag2|Grey Shard}} || 1 || 4.04% || 4.04% || 4.04% || 4.04%
 |-
-| {{Bag2|Purple Shard}} || N/A || 4.04% || 4.04% || 4.04%
+| {{Bag2|Purple Shard}} || 1 || 4.04% || 4.04% || 4.04% || 4.04%
 |-
 | align="center" colspan=6| '''Legendary'''
 |-
-| {{Bag2|Earth Plate}} || 2 || 0.03% || 0.03% || 0.03%
+| {{Bag2|Earth Plate}} || 2 || 0.03% || 0.03% || 0.03% || 0.03%
 |-
-| {{Bag2|Ultraball}} || 2 || 0.03% || 0.03% || 0.03%
+| {{Bag2|Ultraball}} || 2 || 0.03% || 0.03% || 0.03% || 0.03%
 |-
-| {{Bag2|Small Restore}} || 2 || 0.03% || 0.03% || 0.03%
+| {{Bag2|Small Restore}} || 2 || 0.03% || 0.03% || 0.03% || 0.03%
 |-
-| {{Bag2|Large Restore}} || N/A || 0.01% || 0.01% || 0.01%
+| {{Bag2|Large Restore}} || 1 || 0.01% || 0.01% || 0.01% || 0.01%
 |-
-| {{Bag2|Dragon Fang}} || N/A || 0.01% || 0.01% || 0.01%
+| {{Bag2|Dragon Fang}} || 1 || 0.01% || 0.01% || 0.01% || 0.01%
 |-
 | align="center" colspan=6| '''Mythic'''
 |-
-| {{Bag2|Max Revive}} || N/A || &lt;0.01% || &lt;0.01% || &lt;0.01%
+| {{Bag2|Max Revive}} || 1 || &lt;0.01% || &lt;0.01% || &lt;0.01% || &lt;0.01%
 |}
 &lt;/tab&gt;
 &lt;/tabs&gt;
@@ -143,9 +143,9 @@ After Reaching Unova, the drop chance for items in Johto will be debuffed for an
       <username>ThePantMan</username>
       <id>8</id>
     </contributor>
-    <comment>/* Loot update */</comment>
+    <comment>/* not Kanto */</comment>
     <model>wikitext</model>
-    <parentid>13592</parentid>
-    <sha1>0b2d54b84cf6690470c9475cb7eacd78a1b65e6d</sha1>
+    <parentid>33511</parentid>
+    <sha1>bd632214343ef1bc1cf1e4c6cac02bca64ec2bcc</sha1>
   </revision>
 </page></mediawiki>

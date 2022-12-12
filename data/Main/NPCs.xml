@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>308</id>
   <revision>
-    <id>33231</id>
-    <timestamp>2022-12-10T21:01:17Z</timestamp>
-    <text space="preserve" bytes="15577">&lt;languages/&gt;
+    <id>33314</id>
+    <timestamp>2022-12-11T04:37:39Z</timestamp>
+    <text space="preserve" bytes="16796">&lt;languages/&gt;
 &lt;translate&gt;
 &lt;!--T:1--&gt;
 '''NPCs''' (or '''non-player characters''') act as helpful guides to the player, giving them information about different features in the game or hinting to the locations and requirements of certain [[Obtainable Pokémon|Pokémon]].
@@ -70,10 +70,11 @@
 |-
 | [[File:Officer Jenny.png|30px]]Officer Jenny || [[Towns &amp; Cities#Kanto|Pinkan Pokémon Reserve]] || Informs the player that she is trading Pinkan Pokémon for [[File:Pinkan.png|30px]]Pinkan Berries.
 |-
-| [[File:.png|30px]] || [[Towns &amp; Cities#Kanto|Client Island]] || .
+| [[File:Sign Post.png|30px]]Welcome Sign || [[Towns &amp; Cities#Kanto|Client Island]] || Welcomes the player in the Client Island.
 |-
-| [[File:.png|30px]] || [[Towns &amp; Cities#Kanto|Client Island]] || .
+| [[File:Red Spearow.png|30px]]Red Spearow || [[Towns &amp; Cities#Kanto|Client Island]] || Welcomes the player with ''*weird spearow noises*'' into the Client Island.
 |}
+'''Note:''' The Client Island appears in Sevii 123 while playing in the '''client'''.
 
 ===[[Johto]] NPCs=== &lt;!--T:5--&gt;
 
@@ -84,31 +85,29 @@
 |-
 | [[File:Professor Elm.png|30px]]Professor Elm || [[Towns &amp; Cities#Johto|New Bark Town]] || Tells the player what is needed to progress to the next [[Regions|region]].
 |-
-| [[File:Technology Enthusiast.png|30px]]Technology Enthusiast || [[Towns &amp; Cities#Johto|New Bark Town]] || Tells the player about [[Dungeons|Dungeon]] Chest mechanics
-|-
 | [[File:Mr. Pokémon.png|30px]]Mr. Pokémon || [[Towns &amp; Cities#Johto|Cherrygrove City]] || Teaches the player about the [[Pokemon Day Care|Hatchery]] Queue feature.
 |-
-| [[File:Earl Dervish.png|30px]]Earl Dervish || [[Towns &amp; Cities#Johto|Violet City]] || Teaches the player about [[Baby Pokémon]].
+| Earl Dervish || [[Towns &amp; Cities#Johto|Violet City]] || Teaches the player about [[Baby Pokémon]].
 |-
-| [[File:.png|30px]]Wise Old Man || [[Towns &amp; Cities#Johto|Azalea Town]] || Tells the player about the [[Ilex Forest|location]] and [[Gyms#Johto_Indigo_Plateau|requirement]] needed to unlock Celebi.
+| Primo || [[Towns &amp; Cities#Johto|Violet City]] || Teaches the player how to us [[Held Items]].
 |-
-| [[File:.png|30px]]Hiker Daniel || [[Towns &amp; Cities#Johto|Azalea Town]] || Tells the player about the [[Union Cave|location]] and requirement needed for Lapras to appear.
+| [[File:Elder Li.png|30px]]Elder Li || [[Towns &amp; Cities#Johto|Azalea Town]] || Tells the player about the [[Ilex Forest|location]] and [[Questlines#Unfinished Business|requirement]] needed to unlock {{Pokemon|Celebi}}.
 |-
-| [[File:.png|30px]]Bill || [[Towns &amp; Cities#Johto|Ecruteak City]] || Tells the player the requirements of Espeon and Umbreon.
+| [[File:Hiker.png|30px]]Hiker Daniel || [[Towns &amp; Cities#Johto|Azalea Town]] || Tells the player about the [[Union Cave|location]] and requirement needed for {{Pokemon|Lapras}} to appear.
 |-
-| [[File:.png|30px]]Pokéfan Derek || [[Towns &amp; Cities#Johto|Ecruteak City]] || Tells the player that they now have access to the three legendary Beasts.
+| [[File:Bill.png|30px]]Bill || [[Towns &amp; Cities#Johto|Ecruteak City]] || Tells the player the requirements of {{Pokemon|Espeon}} and {{Pokemon|Umbreon}}.
 |-
-| [[File:.png|30px]]Kimono Girl || [[Towns &amp; Cities#Johto|Ecruteak City]] || Tells the player about the [[Tin Tower|location]] and [[Roaming_Pokémon|requirement]] needed to unlock Ho-Oh.
+| [[File:Poké Maniac.png|30px]]Pokéfan Derek || [[Towns &amp; Cities#Johto|Ecruteak City]] || Tells the player that they now have access to the three legendary Beasts.
 |-
-| [[File:.png|30px]]Big Spender || [[Towns &amp; Cities#Johto|Goldenrod City]] || Teaches the player about the Shop amount button.
+| [[File:Sailor.png|30px]]SS Aqua Captain || [[Towns &amp; Cities#Johto|Olivine City]] || Tells the player about the [[Dock]].
 |-
-| [[File:.png|30px]]SS Aqua Captain || [[Towns &amp; Cities#Johto|Olivine City]] || Tells the player about the [[Dock]].
+| Photography Aide || [[Towns &amp; Cities#Johto|Cianwood City]] || Tells the player about [[Berries#Wandering_Pokémon|Wandering Pokémon]].
 |-
-| [[File:.png|30px]]Photography Aide || [[Towns &amp; Cities#Johto|Cianwood City]] || Tells the player about [[Berries#Wandering_Pokémon|Wandering Pokémon]].
+| Souvenir Shop Attendant || [[Towns &amp; Cities#Johto|Mahogany Town]] || Tells the player about [[Item Magnet]] effects.
 |-
-| [[File:.png|30px]]Souvenir Shop Attendant || [[Towns &amp; Cities#Johto|Mahogany Town]] || Tells the player about [[Item Magnet]] effects.
+| [[File:Poké Maniac.png|30px]]Pokéfan Trevor || [[Towns &amp; Cities#Johto|Blackthorn City]] || Informs the player about increased roamer rates.
 |-
-| [[File:.png|30px]]Pokéfan Trevor || [[Towns &amp; Cities#Johto|Blackthorn City]] || Informs the player about increased roamer rates.
+| [[File:Hiker.png|30px]]Hiker || [[Towns &amp; Cities#Johto|Indigo Plateau Johto]] || Informs the player that [[Kanto]] is located in the east of [[Johto]].
 |}
 
 ===[[Hoenn]] NPCs=== &lt;!--T:7--&gt;
@@ -119,27 +118,33 @@
 |-
 ! NPC Name !! Location !! Function
 |-
-| [[File:.png|30px]]Professor Birch || [[Towns &amp; Cities#Kanto|Littleroot Town]] || Tells the player what is needed to progress to the next [[Regions|region]].
+| [[File:Professor Birch.png|30px]]Professor Birch || [[Towns &amp; Cities#Kanto|Littleroot Town]] || Tells the player what is needed to progress to the next [[Regions|region]].
 |-
-| [[File:.png|30px]]Professor Birch's Aide || [[Towns &amp; Cities#Hoenn|Littleroot Town]] || Tells the player about updates to the Hatchery Queue.
+| Professor Birch's Aide || [[Towns &amp; Cities#Hoenn|Littleroot Town]] || Tells the player about updates to the Hatchery Queue.
 |-
-| [[File:.png|30px]]Tracking Scientist || [[Towns &amp; Cities#Hoenn|Oldale Town]] || Tells the player about the Roaming nature of Latios and Latias.
+| [[File:Scientist (male).png|30px]]Tracking Scientist || [[Towns &amp; Cities#Hoenn|Oldale Town]] || Tells the player about the Roaming nature of {{Pokemon|Latios}} and {{Pokemon|Latias}}.
 |-
-| [[File:.png|30px]]Reporter Gabby || [[Towns &amp; Cities#Hoenn|Slateport City]] || Informs the player about increased roamer rates.
+| [[File:Reporter.png|30px]]Reporter Gabby || [[Towns &amp; Cities#Hoenn|Slateport City]] || Informs the player about increased roamer rates.
 |-
-| [[File:.png|30px]]Professor Cozmo || [[Towns &amp; Cities#Hoenn|Fallarbor Town]] || Informs the player about [[Battle Frontier|Deoxys]].
+| Professor Cozmo || [[Towns &amp; Cities#Hoenn|Fallarbor Town]] || Informs the player about [[File:Deoxys.png|30px|link = Battle Frontier]] [[Battle Frontier|Deoxys]].
 |-
-| [[File:.png|30px]]Weatherman || [[Towns &amp; Cities#Hoenn|Fortree City]] || Informs the player about the several forms of Castform.
+| Soot Collector || [[Towns  &amp; Cities#Hoenn|Lavaridge Town]] || Informs the player about the [[Flutes]] Location and about the Gem cost of Using [[Flutes]].
 |-
-| [[File:.png|30px]]Pokemon Ranger Catherine || [[Towns &amp; Cities#Hoenn|Fortree City]] || Tells the player about the overuse of the [[Dowsing Machine]].
+| Weatherman || [[Towns &amp; Cities#Hoenn|Fortree City]] || Informs the player about the several forms of {{Pokemon|Castform}}.
 |-
-| [[File:.png|30px]]Astronomer || [[Towns &amp; Cities#Hoenn|Mossdeep City]] || Informs the player about the Roaming nature of Jirachi.
+| [[File:Pokémon Ranger (female).png|30px]]Pokemon Ranger Catherine || [[Towns &amp; Cities#Hoenn|Fortree City]] || Tells the player about the overuse of the [[Dowsing Machine]].
 |-
-| [[File:.png|30px]]Big Spender || [[Towns &amp; Cities#Hoenn|LilyCove City]] || Teaches the player about Shop amount button.
+| [[File:Steven.png|30px]]Steven || [[Towns &amp; Cities#Hoenn|Fortree City]] || "Awards" the player a picture of an invisble Kecleon [[File:Kecleon Drawing.png|30px]].
 |-
-| [[File:.png|30px]]Diver || [[Towns &amp; Cities#Hoenn|Pacifidlog Town]] || Teaches the player about Dungeon Loot rates increasing with clears
+| Astronomer || [[Towns &amp; Cities#Hoenn|Mossdeep City]] || Informs the player about the Roaming nature of {{Pokemon|Jirachi}}.
 |-
-| [[File:.png|30px]]Gym Leader Wallace || [[Towns &amp; Cities#Hoenn|Sootopolis City]] || Tells the player about the [[Cave of Origin|location]] and [[Gyms#Pokémon League Hoenn|requirement]] needed to unlock Groudon and Kyogre.
+| Diver || [[Towns &amp; Cities#Hoenn|Pacifidlog Town]] || Teaches the player about Dungeon Loot rates increasing with clears
+|-
+| [[File:Wallace.png|30px]]Gym Leader Wallace || [[Towns &amp; Cities#Hoenn|Sootopolis City]] || Tells the player about the [[Cave of Origin|location]] and [[Gyms#Pokémon League Hoenn|requirement]] needed to unlock {{Pokemon|Groudon}} and {{Pokemon|Kyogre}}.
+|-
+| [[File:Regi Hints.png|30px|link=Questlines#The Three Golems]]Hidden Message || [[Sealed Chamber]] || Strange markings that leads to the [[Questlines#The Three Golems|Regis]] chamber.
+|-
+| [[File:Ruin Maniac.png|30px]]Braille Enthusiast || [[Sealed Chamber]] || Helps the player read the strange markings in the walls.
 |}
 
 ===[[Sinnoh]] NPCs=== &lt;!--T:9--&gt;
@@ -150,33 +155,35 @@
 |-
 ! NPC Name !! Location !! Function
 |-
-| [[File:.png|30px]]Contest Champion || [[Towns &amp; Cities#Sinnoh|Twinleaf Town]] || Informs the player about the Roaming nature of Mesprit.
+| [[File:Contest Champion (Johanna).png|30px]]Contest Champion || [[Towns &amp; Cities#Sinnoh|Twinleaf Town]] || Informs the player about the Roaming nature of {{Pokemon|Mesprit}}.
 |-
-| [[File:.png|30px]]Professor Rowan || [[Towns &amp; Cities#Sinnoh|Sandgem Town]] || Tells the player what is needed to progress to the next [[Regions|region]].
+| [[File:Professor Rowan.png|30px]]Professor Rowan || [[Towns &amp; Cities#Sinnoh|Sandgem Town]] || Tells the player what is needed to progress to the next [[Regions|region]].
 |-
-| [[File:.png|30px]]Beachcomber || [[Towns &amp; Cities#Sinnoh|Sandgem Town]] || Informs the player about the Roaming nature of Manaphy.
+| Beachcomber || [[Towns &amp; Cities#Sinnoh|Sandgem Town]] || Informs the player about the Roaming nature of {{Pokemon|Manaphy}}.
 |-
-| [[File:.png|30px]]Flower Girl || [[Towns &amp; Cities#Sinnoh|Floaroma Town]] || Explains the [[Sinnoh#Location-dependent_Pokémon|conditions]] needed to evolve Eevee into Leafeon.
+| [[File:Aroma Lady.png|30px]]Flower Girl || [[Towns &amp; Cities#Sinnoh|Floaroma Town]] || Explains the [[Sinnoh#Location-dependent_Pokémon|conditions]] needed to evolve {{Pokemon|Eevee}} into {{Pokemon|Leafeon}}.
 |-
-| [[File:.png|30px]]Lass Caroline || [[Towns &amp; Cities#Sinnoh|Eterna City]] || Informs the player about the [[Old Chateau|location]] and [[Dungeons#Sinnoh|requirement]] for Rotom and its forms.
+| [[File:Lass.png|30px]]Lass Caroline || [[Towns &amp; Cities#Sinnoh|Eterna City]] || Informs the player about the [[Old Chateau|location]] and [[Dungeons#Sinnoh|requirement]] for {{Pokemon|Rotom}} and its forms.
 |-
-| [[File:.png|30px]]Construction Worker || [[Towns &amp; Cities#Sinnoh|Oreburgh City]] || Explains the conditions needed to evolve Nosepass into Probopass.
+| [[File:Worker.png|30px]]Construction Worker || [[Towns &amp; Cities#Sinnoh|Oreburgh City]] || Explains the conditions needed to evolve {{Pokemon|Nosepass}} into {{Pokemon|Probopass}}.
 |-
-| [[File:.png|30px]]Contest Fan || [[Towns &amp; Cities#Sinnoh|Hearthome City]] || Explains the conditions needed to evolve Magneton into Magnezone.
+| Contest Fan || [[Towns &amp; Cities#Sinnoh|Hearthome City]] || Explains the conditions needed to evolve {{Pokemon|Magneton}} into {{Pokemon|Magnezone}}.
 |-
-| [[File:.png|30px]]Pal Park Warden || [[Towns &amp; Cities#Sinnoh|Pal Park]] || Explains the [[Sinnoh#Weather-dependent_Pokémon|conditions]] needed to evolve Cherrim (overcast) into Cherrim (sunny).
+| Pal Park Warden || [[Towns &amp; Cities#Sinnoh|Pal Park]] || Explains the [[Sinnoh#Weather-dependent_Pokémon|conditions]] needed to evolve {{Pokemon|Cherrim (Overcast)}} into {{Pokemon|Cherrim (Sunshine)}}.
 |-
-| [[File:.png|30px]]Riley || [[Towns &amp; Cities#Sinnoh|Canalave City]] || Informs the player about the requirement to evolve Riolu.
+| [[File:Burglar.png|30px]] Burglar || [[Towns &amp; Cities#Sinnoh|Canalve City]] || Tells the player the why the Razor [[Evolution Items]] don't work during the Day. 
 |-
-| [[File:.png|30px]]Young Boy || [[Towns &amp; Cities#Sinnoh|Canalave City]] || Informs the player about the Roaming nature of Cresselia.
+| [[File:Riley.png|30px]]Riley || [[Towns &amp; Cities#Sinnoh|Canalave City]] || Informs the player about the requirement to evolve {{Pokemon|Riolu}}.
 |-
-| [[File:.png|30px]]Young Girl || [[Towns &amp; Cities#Sinnoh|Snowpoint City]] || Explains the conditions needed to evolve Eevee into Glaceon.
+| Young Boy || [[Towns &amp; Cities#Sinnoh|Canalave City]] || Informs the player about the Roaming nature of {{Pokemon|Cresselia}}.
 |-
-| [[File:.png|30px]]Ribboner Julia || [[Towns &amp; Cities#Sinnoh|Sunyshore City]] || Explains the [[Sinnoh#Level-dependent_Pokémon|conditions]] needed to evolve Pilowswine into Mamoswine.
+| Young Girl || [[Towns &amp; Cities#Sinnoh|Snowpoint City]] || Explains the conditions needed to evolve {{Pokemon|Eevee}} into {{Pokemon|Glaceon}}.
 |-
-| [[File:.png|30px]]Ace Trainer Quinn || [[Towns &amp; Cities#Sinnoh|Fight Area]] || Informs the player about the requirement to unlock [[Distortion World]].
+| [[File:Beauty (trainer).png|30px]]Ribboner Julia || [[Towns &amp; Cities#Sinnoh|Sunyshore City]] || Explains the [[Sinnoh#Level-dependent_Pokémon|conditions]] needed to evolve {{Pokemon|Piloswine}} into {{Pokemon|Mamoswine}}.
 |-
-| [[File:.png|30px]]Hiker Kevin || [[Towns &amp; Cities#Sinnoh|Survival Area]] || Informs the player about increased roamer rates.
+| [[File:Ace Trainer (male).png|30px]]Ace Trainer Quinn || [[Towns &amp; Cities#Sinnoh|Fight Area]] || Informs the player about the requirement to unlock [[Distortion World]].
+|-
+| [[File:Hiker.png|30px]]Hiker Kevin || [[Towns &amp; Cities#Sinnoh|Survival Area]] || Informs the player about increased roamer rates.
 |}
 
 ===[[Unova]] NPCs=== &lt;!--T:11--&gt;
@@ -187,21 +194,21 @@
 |-
 ! NPC Name !! Location !! Function
 |-
-| [[File:.png|30px]]Musician || [[Towns &amp; Cities#Unova|Castelia City]] || Informs the player about the roaming nature of {{Pokemon|Meloetta (Aria)}}
+| [[File:Musician.png|30px]]Musician || [[Towns &amp; Cities#Unova|Castelia City]] || Informs the player about the roaming nature of {{Pokemon|Meloetta (Aria)}}
 |-
-| [[File:.png|30px]]Ruin Maniac || [[Relic Castle]] || Informs the player how to get {{Pokemon|Volcarona}}
+| [[File:Ruin Maniac.png|30px]]Ruin Maniac || [[Relic Castle]] || Informs the player how to get {{Pokemon|Volcarona}}
 |-
-| [[File:.png|30px]]Excited Child || [[Towns &amp; Cities#Unova|Humilau City]] || Informs the player about the roaming nature of {{Pokemon|Tornadus}} and {{Pokemon|Thundurus}}.
+| [[File:School Kid (female).png|30px]]Excited Child || [[Towns &amp; Cities#Unova|Humilau City]] || Informs the player about the roaming nature of {{Pokemon|Tornadus}} and {{Pokemon|Thundurus}}.
 |-
-| [[File:.png|30px]]Explorer || [[Towns &amp; Cities#Unova|Nimbasa City]] || Informs the player about Mimics and the exclusive mimic in [[Relic Castle]]
+| [[File:Backpacker (male).png|30px]]Explorer || [[Towns &amp; Cities#Unova|Nimbasa City]] || Informs the player about Mimics and the exclusive mimic in [[Relic Castle]]
 |-
-| [[File:.png|30px]]Fan Club Chairman || [[Towns &amp; Cities#Unova|Icirrus City]] || Informs the player about how to obtain [[Black DNA]] and [[White DNA]]
+| [[File:Gentleman.png|30px]]Fan Club Chairman || [[Towns &amp; Cities#Unova|Icirrus City]] || Informs the player about how to obtain [[File:Black DNA.png|30px]][[Black DNA]] and [[File:White DNA.png|30px]][[White DNA]]
 |-
-| [[File:.png|30px]]Professor Juniper|| [[Towns &amp; Cities#Unova|Nuvema Town]] || Tells the player what is needed to progress to the next [[Regions|region]].
+| [[File:Professor Juniper.png|30px]]Professor Juniper|| [[Towns &amp; Cities#Unova|Nuvema Town]] || Tells the player what is needed to progress to the next [[Regions|region]].
 |-
-| [[File:.png|30px]]Professor Juniper's Aide || [[Towns &amp; Cities#Unova|Nuvema Town]] || Informs the player about increased roamer rates.
+| Professor Juniper's Aide || [[Towns &amp; Cities#Unova|Nuvema Town]] || Informs the player about increased roamer rates.
 |- 
-| [[File:.png|30px]]Colress || [[P2 Laboratory]] || Challenges the player to defeat him to unlock the Rare Pokémon in the lab. 
+| [[File:Team Plasma (colress).png|30px]]Colress || [[P2 Laboratory]] || Challenges the player to defeat him to unlock the Rare Pokémon in the lab. 
 |}
 
 ===[[Kalos]] NPCs=== &lt;!--T:13--&gt;
@@ -236,7 +243,7 @@
 |-
 | [[File:Scratch Cat Girl.png|30px]]Scratch Cat Girl || [[Towns &amp; Cities#Alola|Iki Town Outskirts]] || Informs the player about the {{Pokemon|Lycanroc (Dusk)}} Requirement
 |-
-| [[File:Professor Kukui.png|30px]]Professor Kukui || [[Towns &amp; Cities#Alola|Professor Kukui's Lab]] || Informs the player about the missing Pokémon
+| [[File:Professor Kukui.png|30px]]Professor Kukui || [[Towns &amp; Cities#Alola|Professor Kukui's Lab]] || Tells the player what is needed to progress to the next [[Regions|region]].
 |-
 | [[File:Teacher.png|30px]]Teacher Emily || [[Trainers' School]] || Explains how dungeon floors work
 |-
@@ -270,7 +277,7 @@
     </contributor>
     <comment></comment>
     <model>wikitext</model>
-    <parentid>33217</parentid>
-    <sha1>dd9a4c75188f1a00454e407f5da2c425b5070055</sha1>
+    <parentid>33295</parentid>
+    <sha1>133bdfbec72d10fefd6cc5e8ad33a8ea3aaa25a3</sha1>
   </revision>
 </page></mediawiki>

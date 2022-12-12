@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>10161</id>
   <revision>
-    <id>30072</id>
-    <timestamp>2022-12-04T21:34:06Z</timestamp>
-    <text space="preserve" bytes="1907">{{Infobox dungeon
+    <id>33432</id>
+    <timestamp>2022-12-11T22:17:49Z</timestamp>
+    <text space="preserve" bytes="2000">{{Infobox dungeon
 |name    = Tower of Darkness
 |image   = [[File:Tower of Darkness.png|thumb]]
 |caption = A map of Tower of Darkness.
@@ -44,36 +44,40 @@
 
 ==Items==
 
+&lt;tabs&gt;
+&lt;tab name="Base"&gt;
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears
 |-
-| align="center" colspan=5| '''Common'''
+| align="center" colspan=6| '''Common'''
 |-
-| {{Bag2|xClick}} || N/A || 37.87% || 36.66% || 31.60%
+| {{Bag2|xClick}} || 1 || 37.87% || 36.66% || 34.80% || 31.60%
 |-
-| {{Bag2|xAttack}} || N/A || 37.87% || 36.66% || 31.60%
+| {{Bag2|xAttack}} || 1 || 37.87% || 36.66% || 34.80% || 31.60%
 |-
-| align="center" colspan=5| '''Rare'''
+| align="center" colspan=6| '''Rare'''
 |-
-| {{Bag2|Black Shard}} || N/A || 10.11% || 10.69% || 13.14%
+| {{Bag2|Black Shard}} || 1 || 10.11% || 10.69% || 11.59% || 13.14%
 |-
-| {{Bag2|Ochre Shard}} || N/A || 10.11% || 10.69% || 13.14%
+| {{Bag2|Ochre Shard}} || 1 || 10.11% || 10.69% || 11.59% || 13.14%
 |-
-| align="center" colspan=5| '''Epic'''
+| align="center" colspan=6| '''Epic'''
 |-
-| {{Bag2|Dread Plate}} || N/A || 4.05% || 5.30% || 10.53%
+| {{Bag2|Dread Plate}} || 1 || 4.05% || 5.30% || 7.22% || 10.53%
 |}
+&lt;/tab&gt;
+&lt;/tabs&gt;
 
 {{Galar Dungeons}}
 [[Category:Dungeons|^Region #8 - Galar^c]]</text>
     <contributor>
-      <username>CypherX</username>
-      <id>15</id>
+      <username>Jk13</username>
+      <id>14</id>
     </contributor>
-    <comment>Created page with "{{Infobox dungeon |name    = Tower of Darkness |image   = [[File:Tower of Darkness.png|thumb]] |caption = A map of Tower of Darkness. |tokens  = 2,000,000 |location = North of Challenge Road }} '''Tower of Darkness''' is a [[Dungeons|dungeon]] in [[Galar]]. It initially has 125 tiles arranged in two floors: 10x10 and 6x6 in size, respectively; including 16 chest tiles, 38 non-boss encounter tiles, 1 ladder tile, and 1 boss encounter tile. Wild Encounters have 28,886,112..."</comment>
+    <comment>/* Items */</comment>
     <model>wikitext</model>
-    <parentid>0</parentid>
-    <sha1>090294896b20124cd81cecd74d19723fc0476ee2</sha1>
+    <parentid>30072</parentid>
+    <sha1>106561456e641be71460a2abe44352151b246c21</sha1>
   </revision>
 </page></mediawiki>

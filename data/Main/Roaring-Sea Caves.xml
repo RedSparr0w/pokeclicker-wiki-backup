@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>10163</id>
   <revision>
-    <id>30075</id>
-    <timestamp>2022-12-04T21:43:20Z</timestamp>
-    <text space="preserve" bytes="3020">{{Infobox dungeon
+    <id>33430</id>
+    <timestamp>2022-12-11T22:16:13Z</timestamp>
+    <text space="preserve" bytes="3169">{{Infobox dungeon
 |name    = Roaring-Sea Caves
 |image   = [[File:Roaring-Sea Caves.png|thumb]]
 |caption = A map of Roaring-Sea Caves.
@@ -79,54 +79,58 @@
 
 ==Items==
 
+&lt;tabs&gt;
+&lt;tab name="Base"&gt;
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears
 |-
-| align="center" colspan=5| '''Common'''
+| align="center" colspan=6| '''Common'''
 |-
-| {{Bag2|Greatball}} || N/A || 37.49% || 36.08% || 30.32%
+| {{Bag2|Greatball}} || 1 || 37.49% || 36.08% || 33.93% || 30.32%
 |-
-| {{Bag2|Ultraball}} || N/A || 37.49% || 36.08% || 30.32%
+| {{Bag2|Ultraball}} || 1 || 37.49% || 36.08% || 33.93% || 30.32%
 |-
-| align="center" colspan=5| '''Rare'''
+| align="center" colspan=6| '''Rare'''
 |-
-| {{Bag2|Blue Shard}} || N/A || 10.01% || 10.52% || 12.61%
+| {{Bag2|Blue Shard}} || 1 || 10.01% || 10.52% || 11.30% || 12.61%
 |-
-| {{Bag2|Cyan Shard}} || N/A || 10.01% || 10.52% || 12.61%
+| {{Bag2|Cyan Shard}} || 1 || 10.01% || 10.52% || 11.30% || 12.61%
 |-
-| align="center" colspan=5| '''Epic'''
+| align="center" colspan=6| '''Epic'''
 |-
-| {{Bag2|Duskball}} || N/A || 1.34% || 1.74% || 3.37%
+| {{Bag2|Duskball}} || 1 || 1.34% || 1.74% || 2.35% || 3.37%
 |-
-| {{Bag2|Medium Restore}} || N/A || 1.34% || 1.74% || 3.37%
+| {{Bag2|Medium Restore}} || 1 || 1.34% || 1.74% || 2.35% || 3.37%
 |-
-| {{Bag2|Large Restore}} || N/A || 1.34% || 1.74% || 3.37%
+| {{Bag2|Large Restore}} || 1 || 1.34% || 1.74% || 2.35% || 3.37%
 |-
-| align="center" colspan=5| '''Legendary'''
+| align="center" colspan=6| '''Legendary'''
 |-
-| {{Bag2|Revive}} || N/A || 0.17% || 0.27% || 0.67%
+| {{Bag2|Revive}} || 1 || 0.17% || 0.27% || 0.42% || 0.67%
 |-
-| {{Bag2|Max Revive}} || N/A || 0.17% || 0.27% || 0.67%
+| {{Bag2|Max Revive}} || 1 || 0.17% || 0.27% || 0.42% || 0.67%
 |-
-| {{Bag2|Hard Stone}} || N/A || 0.17% || 0.27% || 0.67%
+| {{Bag2|Hard Stone}} || 1 || 0.17% || 0.27% || 0.42% || 0.67%
 |-
-| {{Bag2|Star Piece}} || N/A || 0.17% || 0.27% || 0.67%
+| {{Bag2|Star Piece}} || 1 || 0.17% || 0.27% || 0.42% || 0.67%
 |-
-| {{Bag2|Everstone}} || N/A || 0.17% || 0.27% || 0.67%
+| {{Bag2|Everstone}} || 1 || 0.17% || 0.27% || 0.42% || 0.67%
 |-
-| {{Bag2|Rare Bone}} || N/A || 0.17% || 0.27% || 0.67%
+| {{Bag2|Rare Bone}} || 1 || 0.17% || 0.27% || 0.42% || 0.67%
 |}
+&lt;/tab&gt;
+&lt;/tabs&gt;
 
 {{Galar Dungeons}}
 [[Category:Dungeons|^Region #8 - Galar^c]]</text>
     <contributor>
-      <username>CypherX</username>
-      <id>15</id>
+      <username>Jk13</username>
+      <id>14</id>
     </contributor>
-    <comment>Created page with "{{Infobox dungeon |name    = Roaring-Sea Caves |image   = [[File:Roaring-Sea Caves.png|thumb]] |caption = A map of Roaring-Sea Caves. |tokens  = 1,730,000 |location = North of Giants Foot }} '''Roaring-Sea Caves''' is a [[Dungeons|dungeon]] in [[Galar]]. It initially has 125 tiles arranged in two floors: 10x10 and 6x6 in size, respectively; including 16 chest tiles, 38 non-boss encounter tiles, 1 ladder tile, and 1 boss encounter tile. Wild Encounters have 32,184,888 HP...."</comment>
+    <comment>/* Items */</comment>
     <model>wikitext</model>
-    <parentid>0</parentid>
-    <sha1>3f70b2e0bbbd32a4dea5446e832121e3c9b93fff</sha1>
+    <parentid>30075</parentid>
+    <sha1>7fc339d7627e9dfa4ad9451cc621c17011739279</sha1>
   </revision>
 </page></mediawiki>
