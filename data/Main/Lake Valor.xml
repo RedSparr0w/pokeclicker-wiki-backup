@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>434</id>
   <revision>
-    <id>33565</id>
-    <timestamp>2022-12-12T01:58:42Z</timestamp>
-    <text space="preserve" bytes="3149">{{Infobox dungeon
+    <id>34193</id>
+    <timestamp>2022-12-12T21:05:29Z</timestamp>
+    <text space="preserve" bytes="3151">{{Infobox dungeon
 |name    = Lake Valor
 |image   = [[File:Lake Valor.png|300px]]
 |caption = A bird's-eye view of Lake Valor.
@@ -70,7 +70,7 @@
 |-
 | {{Bag2|Mind Plate}} || 1 || 2.03% || 2.65% || 3.61% || 5.27%
 |-
-| {{Bag2|Lureball}} || 1 || 2.03% || 2.65% || 3.61% || 5.27%
+| {{Bag2|Lure Ball}} || 1 || 2.03% || 2.65% || 3.61% || 5.27%
 |}
 &lt;/tab&gt;
 
@@ -95,7 +95,7 @@ After reaching [[Alola]], the drop chance for items will be [[Dungeons#Dungeon L
 |-
 | {{Bag2|Mind Plate}} || 1 || 0.45% || 0.45% || 0.45% || 0.45%
 |-
-| {{Bag2|Lureball}} || 1 || 0.45% || 0.45% || 0.45% || 0.45%
+| {{Bag2|Lure Ball}} || 1 || 0.45% || 0.45% || 0.45% || 0.45%
 |}
 &lt;/tab&gt;
 &lt;/tabs&gt;
@@ -107,9 +107,9 @@ After reaching [[Alola]], the drop chance for items will be [[Dungeons#Dungeon L
       <username>ThePantMan</username>
       <id>8</id>
     </contributor>
-    <comment>/* loot fix */</comment>
+    <comment>Text replacement - "Lureball" to "Lure Ball"</comment>
     <model>wikitext</model>
-    <parentid>33564</parentid>
-    <sha1>6da52dd06dda27d9ece8c3561d6d030fbb5d70ed</sha1>
+    <parentid>33565</parentid>
+    <sha1>f1b6903bda595464a50c8cd20e756f492289874c</sha1>
   </revision>
 </page></mediawiki>

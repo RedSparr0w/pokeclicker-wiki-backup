@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>4068</id>
   <revision>
-    <id>33013</id>
-    <timestamp>2022-12-08T16:24:18Z</timestamp>
-    <text space="preserve" bytes="4831">{{Infobox dungeon
+    <id>34097</id>
+    <timestamp>2022-12-12T20:45:29Z</timestamp>
+    <text space="preserve" bytes="5204">{{Infobox dungeon
 |name    = Team Galactic HQ
 |image   = [[File:Team_Galactic_HQ.png|300px]]
 |caption = An view Inside of the Team Galactic HQ.
@@ -60,80 +60,82 @@ The '''Team Galactic HQ''' is a [[Dungeons|dungeon]] in [[Sinnoh]]. It initially
 ==Items==
 
 &lt;tabs&gt;
-&lt;tab name="No Debuff"&gt;
+&lt;tab name="Base"&gt;
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears !! Requirement 
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears !! Requirement
 |-
-| align="center" colspan=6| '''Common'''
+| align="center" colspan=7| '''Common'''
 |-
-| {{Bag2|xClick}} || N/A || 37.48% || 36.00% || 30.00% || rowspan=2| &lt;center&gt;N/A
+| {{Bag2|xClick}} || 1 || 37.48% || 36.00% || 33.75% || 30.00% || rowspan=2| &lt;center&gt;N/A
 |-
-| {{Bag2|Dowsing Machine}} || N/A || 37.48% || 36.00% || 30.00%
+| {{Bag2|Dowsing Machine}} || 1 || 37.48% || 36.00% || 33.75% || 30.00%
 |-
-| align="center" colspan=6| '''Rare'''
+| align="center" colspan=7| '''Rare'''
 |-
-| {{Bag2|Crimson Shard}} || N/A || 10.00% || 10.50% || 12.47% || rowspan=2| &lt;center&gt;N/A
+| {{Bag2|Crimson Shard}} || 1 || 10.00% || 10.50% || 11.24% || 12.47% || rowspan=2| &lt;center&gt;N/A
 |-
-| {{Bag2|Lime Shard}} || N/A || 10.00% || 10.50% || 12.47%
+| {{Bag2|Lime Shard}} || 1 || 10.00% || 10.50% || 11.24% || 12.47%
 |-
-| align="center" colspan=6| '''Epic'''
+| align="center" colspan=7| '''Epic'''
 |-
-| {{Bag2|Sky Plate}} || N/A || 2.01% || 2.60% || 5.00% || rowspan=2| &lt;center&gt;N/A
+| {{Bag2|Sky Plate}} || 1 || 2.01% || 2.60% || 3.50% || 5.00% || rowspan=2| &lt;center&gt;N/A
 |-
-| {{Bag2|Ultraball}} || N/A || 2.01% || 2.60% || 5.00%
+| {{Bag2|Ultra Ball}} || 1 || 2.01% || 2.60% || 3.50% || 5.00%
 |-
-| align="center" colspan=6| '''Legendary'''
+| align="center" colspan=7| '''Legendary'''
 |-
-| {{Bag2|Large Restore}} || N/A || 0.50% || 0.80% || 1.99% || rowspan=2| &lt;center&gt;N/A
+| {{Bag2|Large Restore}} || 1 || 0.50% || 0.80% || 1.24% || 1.99% || rowspan=2| &lt;center&gt;N/A
 |-
-| {{Bag2|Poison Barb}} || N/A || 0.50% || 0.80% || 1.99%
+| {{Bag2|Poison Barb}} || 1 || 0.50% || 0.80% || 1.24% || 1.99%
 |-
-| align="center" colspan=6| '''Mythic'''
+| align="center" colspan=7| '''Mythic'''
 |-
-| {{Bag2|Max Revive}} || N/A || 0.01% || 0.11% || 0.53% || &lt;center&gt;N/A
+| {{Bag2|Max Revive}} || 1 || 0.01% || 0.11% || 0.27% || 0.53% || &lt;center&gt;N/A
 |-
-| {{Bag2|Protein}} || N/A || 0% || 0% || 0.53% || 350 Clears
+| {{Bag2|Protein}} || 1 || N/A || N/A || N/A || 0.53% || 350 Clears
 |}
+The odds are very slightly off due to chances getting redistributed while the requirement locked loot is unavailable.
 &lt;/tab&gt;
 
 &lt;tab name="Debuff"&gt;
-After Reaching Alola, the drop chance for items in Sinnoh will be debuffed for any loot with a Tier rarer than Rare (ie: Epic, Legendary, Mythic).
+After reaching [[Alola]], the drop chance for items will be [[Dungeons#Dungeon Loot Regional Debuff|debuffed]].
 
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears !! Requirement 
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears !! Requirement
 |-
-| align="center" colspan=6| '''Common'''
+| align="center" colspan=7| '''Common'''
 |-
-| {{Bag2|xClick}} || N/A || 37.50% || 37.50% || 37.50% || rowspan=2| &lt;center&gt;N/A
+| {{Bag2|xClick}} || 1 || 37.50% || 37.50% || 37.50% || 37.50% || rowspan=2| &lt;center&gt;N/A
 |-
-| {{Bag2|Dowsing Machine}} || N/A || 37.50% || 37.50% || 37.50%
+| {{Bag2|Dowsing Machine}} || 1 || 37.50% || 37.50% || 37.50% || 37.50%
 |-
-| align="center" colspan=6| '''Rare'''
+| align="center" colspan=7| '''Rare'''
 |-
-| {{Bag2|Crimson Shard}} || N/A || 12.00% || 12.00% || 12.00% || rowspan=2| &lt;center&gt;N/A
+| {{Bag2|Crimson Shard}} || 1 || 12.00% || 12.00% || 12.00% || 12.00% || rowspan=2| &lt;center&gt;N/A
 |-
-| {{Bag2|Lime Shard}} || N/A || 12.00% || 12.00% || 12.00%
+| {{Bag2|Lime Shard}} || 1 || 12.00% || 12.00% || 12.00% || 12.00%
 |-
-| align="center" colspan=6| '''Epic'''
+| align="center" colspan=7| '''Epic'''
 |-
-| {{Bag2|Sky Plate}} || N/A || 0.45% || 0.45% || 0.45% || rowspan=2| &lt;center&gt;N/A
+| {{Bag2|Sky Plate}} || 1 || 0.45% || 0.45% || 0.45% || 0.45% || rowspan=2| &lt;center&gt;N/A
 |-
-| {{Bag2|Ultraball}} || N/A || 0.45% || 0.45% || 0.45%
+| {{Bag2|Ultra Ball}} || 1 || 0.45% || 0.45% || 0.45% || 0.45%
 |-
-| align="center" colspan=6| '''Legendary'''
+| align="center" colspan=7| '''Legendary'''
 |-
-| {{Bag2|Large Restore}} || N/A || 0.05% || 0.05% || 0.05% || rowspan=2| &lt;center&gt;N/A
+| {{Bag2|Large Restore}} || 1 || 0.05% || 0.05% || 0.05% || 0.05% || rowspan=2| &lt;center&gt;N/A
 |-
-| {{Bag2|Poison Barb}} || N/A || 0.05% || 0.05% || 0.05%
+| {{Bag2|Poison Barb}} || 1 || 0.05% || 0.05% || 0.05% || 0.05%
 |-
-| align="center" colspan=6| '''Mythic'''
+| align="center" colspan=7| '''Mythic'''
 |-
-| {{Bag2|Max Revive}} || N/A || &lt;0.01% || &lt;0.01% || &lt;0.01% || &lt;center&gt;N/A
+| {{Bag2|Max Revive}} || 1 || &lt;0.01% || &lt;0.01% || &lt;0.01% || &lt;0.01% || &lt;center&gt;N/A
 |-
-| {{Bag2|Protein}} || N/A || 0% || 0% || &lt;0.01% || 350 Clears
+| {{Bag2|Protein}} || 1 || N/A || N/A || N/A || &lt;0.01% || 350 Clears
 |}
+The odds are very slightly off due to chances getting redistributed while the requirement locked loot is unavailable.
 &lt;/tab&gt;
 &lt;/tabs&gt;
 
@@ -145,9 +147,9 @@ After Reaching Alola, the drop chance for items in Sinnoh will be debuffed for a
       <username>ThePantMan</username>
       <id>8</id>
     </contributor>
-    <comment>/* Loot update */</comment>
+    <comment>Text replacement - "Ultraball" to "Ultra Ball"</comment>
     <model>wikitext</model>
-    <parentid>14808</parentid>
-    <sha1>84a763bb08193f01ece2443ea023fdbd7577fbe9</sha1>
+    <parentid>33856</parentid>
+    <sha1>daf6e2d03bf56c7d480356c3e5a843571238649a</sha1>
   </revision>
 </page></mediawiki>

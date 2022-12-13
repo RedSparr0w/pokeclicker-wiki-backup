@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>12183</id>
   <revision>
-    <id>33422</id>
-    <timestamp>2022-12-11T21:56:45Z</timestamp>
-    <text space="preserve" bytes="1929">'''Discord Plays Pokéclicker''' is a community-driven version of Pokéclicker that can be played in the Pokéclicker Discord server.
+    <id>33912</id>
+    <timestamp>2022-12-12T19:44:57Z</timestamp>
+    <text space="preserve" bytes="1934">'''Discord Plays Pokéclicker''' is a community-driven version of Pokéclicker that can be played in the Pokéclicker Discord server.
 
 {{Infobox battle item
 |name       = Discord Plays Pokéclicker
@@ -25,7 +25,7 @@ The following table lists the commands on can use to control the game. The '''He
 {| class="wikitable"
 ! Command !! Short form !! Use !! Needed input
 |-
-|Help || N/A || Shows the available commands || N/A
+|Help/Play || N/A || Shows the available commands || N/A
 |-
 |Click || C || Makes the bot click on the coordinates provided || X and Y coordinates 
 |-
@@ -40,12 +40,12 @@ The following table lists the commands on can use to control the game. The '''He
 
 '''Note:''' Commands can be used with or without capital letters, but a space is needed between the command used and the input.</text>
     <contributor>
-      <username>Razorflame</username>
-      <id>9</id>
+      <username>CooldudeOmega0</username>
+      <id>25</id>
     </contributor>
-    <comment>Grammar</comment>
+    <comment>play also displays comands</comment>
     <model>wikitext</model>
-    <parentid>33333</parentid>
-    <sha1>86be4b12777ec9ca933a6a512b3ec461072e09b5</sha1>
+    <parentid>33422</parentid>
+    <sha1>d2f2dad95000f23f7543a6cecb79d0aad3314825</sha1>
   </revision>
 </page></mediawiki>

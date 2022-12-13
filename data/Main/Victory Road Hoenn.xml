@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>403</id>
   <revision>
-    <id>32999</id>
-    <timestamp>2022-12-08T16:06:51Z</timestamp>
-    <text space="preserve" bytes="6280">{{Infobox dungeon
+    <id>34103</id>
+    <timestamp>2022-12-12T20:45:30Z</timestamp>
+    <text space="preserve" bytes="6661">{{Infobox dungeon
 |name    = Victory Road Hoenn
 |image   = [[File:Victory Road Hoenn.png|250px]]
 |caption = A bird's-eye view of Victory Road Hoenn.
@@ -77,84 +77,86 @@
 ==Items==
 
 &lt;tabs&gt;
-&lt;tab name="No Debuff"&gt;
+&lt;tab name="Base"&gt;
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears !! Requirement 
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears !! Requirement
 |-
-| align="center" colspan=6| '''Common'''
+| align="center" colspan=7| '''Common'''
 |-
-| {{Bag2|xAttack}} || N/A || 37.48% || 36.00% || 30.00% || rowspan=2|&lt;center&gt; N/A
+| {{Bag2|xAttack}} || 1 || 37.48% || 36.00% || 33.75% || 30.00% || rowspan=2| &lt;center&gt;N/A
 |-
-| {{Bag2|Lucky Egg}} || N/A || 37.48% || 36.00% || 30.00%
+| {{Bag2|Lucky Egg}} || 1 || 37.48% || 36.00% || 33.75% || 30.00%
 |-
-| align="center" colspan=6| '''Rare'''
+| align="center" colspan=7| '''Rare'''
 |-
-| {{Bag2|Red Shard}} || N/A || 4.00% || 4.20% || 4.99% || rowspan=5|&lt;center&gt; N/A
+| {{Bag2|Red Shard}} || 1 || 4.00% || 4.20% || 4.49% || 4.99% || rowspan=5| &lt;center&gt;N/A
 |-
-| {{Bag2|Blue Shard}} || N/A || 4.00% || 4.20% || 4.99%
+| {{Bag2|Blue Shard}} || 1 || 4.00% || 4.20% || 4.49% || 4.99%
 |-
-| {{Bag2|Green Shard}} || N/A || 4.00% || 4.20% || 4.99%
+| {{Bag2|Green Shard}} || 1 || 4.00% || 4.20% || 4.49% || 4.99%
 |-
-| {{Bag2|Yellow Shard}} || N/A || 4.00% || 4.20% || 4.99%
+| {{Bag2|Yellow Shard}} || 1 || 4.00% || 4.20% || 4.49% || 4.99%
 |-
-| {{Bag2|Ochre Shard}} || N/A || 4.00% || 4.20% || 4.99%
+| {{Bag2|Ochre Shard}} || 1 || 4.00% || 4.20% || 4.49% || 4.99%
 |-
-| align="center" colspan=6| '''Epic'''
+| align="center" colspan=7| '''Epic'''
 |-
-| {{Bag2|Ultraball}} || N/A || 4.01% || 5.20% || 10.00% || &lt;center&gt; N/A
+| {{Bag2|Ultra Ball}} || 1 || 4.01% || 5.20% || 7.00% || 10.00% || &lt;center&gt;N/A
 |-
-| align="center" colspan=6| '''Legendary'''
+| align="center" colspan=7| '''Legendary'''
 |-
-| {{Bag2|Mind Plate}} || N/A || 0.50% || 0.80% || 1.99% || rowspan=2|&lt;center&gt; N/A
+| {{Bag2|Mind Plate}} || 1 || 0.50% || 0.80% || 1.24% || 1.99% || rowspan=2| &lt;center&gt;N/A
 |-
-| {{Bag2|Flame Plate}} || N/A || 0.50% || 0.80% || 1.99%
+| {{Bag2|Flame Plate}} || 1 || 0.50% || 0.80% || 1.24% || 1.99%
 |-
-| align="center" colspan=6| '''Mythic'''
+| align="center" colspan=7| '''Mythic'''
 |-
-| {{Bag2|Protein}} || N/A || 0% || 0% || 1.06% || 400 Clears
+| {{Bag2|Protein}} || 1 || N/A || N/A || N/A || 1.06% || 400 Clears
 |}
+The odds are very slightly off due to chances getting redistributed while the requirement locked loot is unavailable.
 &lt;/tab&gt;
 
 &lt;tab name="Debuff"&gt;
-After Reaching Kalos, the drop chance for items in Hoenn will be debuffed for any loot with a Tier rarer than Rare (ie: Epic, Legendary, Mythic).
+After reaching [[Kalos]], the drop chance for items will be [[Dungeons#Dungeon Loot Regional Debuff|debuffed]].
 
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears !! Requirement 
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears !! Requirement
 |-
-| align="center" colspan=6| '''Common'''
+| align="center" colspan=7| '''Common'''
 |-
-| {{Bag2|xAttack}} || N/A || 37.50% || 37.50% || 37.50% || rowspan=2|&lt;center&gt; N/A
+| {{Bag2|xAttack}} || 1 || 37.50% || 37.50% || 37.50% || 37.50% || rowspan=2| &lt;center&gt;N/A
 |-
-| {{Bag2|Lucky Egg}} || N/A || 37.50% || 37.50% || 37.50%
+| {{Bag2|Lucky Egg}} || 1 || 37.50% || 37.50% || 37.50% || 37.50%
 |-
-| align="center" colspan=6| '''Rare'''
+| align="center" colspan=7| '''Rare'''
 |-
-| {{Bag2|Red Shard}} || N/A || 4.80% || 4.80% || 4.80% || rowspan=5|&lt;center&gt; N/A
+| {{Bag2|Red Shard}} || 1 || 4.80% || 4.80% || 4.80% || 4.80% || rowspan=5| &lt;center&gt;N/A
 |-
-| {{Bag2|Blue Shard}} || N/A || 4.80% || 4.80% || 4.80%
+| {{Bag2|Blue Shard}} || 1 || 4.80% || 4.80% || 4.80% || 4.80%
 |-
-| {{Bag2|Green Shard}} || N/A || 4.80% || 4.80% || 4.80%
+| {{Bag2|Green Shard}} || 1 || 4.80% || 4.80% || 4.80% || 4.80%
 |-
-| {{Bag2|Yellow Shard}} || N/A || 4.80% || 4.80% || 4.80%
+| {{Bag2|Yellow Shard}} || 1 || 4.80% || 4.80% || 4.80% || 4.80%
 |-
-| {{Bag2|Ochre Shard}} || N/A || 4.80% || 4.80% || 4.80%
+| {{Bag2|Ochre Shard}} || 1 || 4.80% || 4.80% || 4.80% || 4.80%
 |-
-| align="center" colspan=6| '''Epic'''
+| align="center" colspan=7| '''Epic'''
 |-
-| {{Bag2|Ultraball}} || N/A || 0.90% || 0.90% || 0.90% || &lt;center&gt; N/A
+| {{Bag2|Ultra Ball}} || 1 || 0.90% || 0.90% || 0.90% || 0.90% || &lt;center&gt;N/A
 |-
-| align="center" colspan=6| '''Legendary'''
+| align="center" colspan=7| '''Legendary'''
 |-
-| {{Bag2|Mind Plate}} || N/A || 0.05% || 0.05% || 0.05% || rowspan=2|&lt;center&gt; N/A
+| {{Bag2|Mind Plate}} || 1 || 0.05% || 0.05% || 0.05% || 0.05% || rowspan=2| &lt;center&gt;N/A
 |-
-| {{Bag2|Flame Plate}} || N/A || 0.05% || 0.05% || 0.05%
+| {{Bag2|Flame Plate}} || 1 || 0.05% || 0.05% || 0.05% || 0.05%
 |-
-| align="center" colspan=6| '''Mythic'''
+| align="center" colspan=7| '''Mythic'''
 |-
-| {{Bag2|Protein}} || N/A || 0% || 0% || &lt;0.01% || 400 Clears
+| {{Bag2|Protein}} || 1 || N/A || N/A || N/A || &lt;0.01% || 400 Clears
 |}
+The odds are very slightly off due to chances getting redistributed while the requirement locked loot is unavailable.
 &lt;/tab&gt;
 &lt;/tabs&gt;
 
@@ -165,9 +167,9 @@ After Reaching Kalos, the drop chance for items in Hoenn will be debuffed for an
       <username>ThePantMan</username>
       <id>8</id>
     </contributor>
-    <comment>/* Tabs */</comment>
+    <comment>Text replacement - "Ultraball" to "Ultra Ball"</comment>
     <model>wikitext</model>
-    <parentid>5545</parentid>
-    <sha1>6f006bcdbccdadf290a8e2ecd1e5b12f964769ad</sha1>
+    <parentid>33852</parentid>
+    <sha1>bccedbd849e4ee56a98c21ec4a70dcde331e0f1b</sha1>
   </revision>
 </page></mediawiki>

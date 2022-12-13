@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>1735</id>
   <revision>
-    <id>33027</id>
-    <timestamp>2022-12-08T16:48:32Z</timestamp>
-    <text space="preserve" bytes="2978">{{Infobox dungeon
+    <id>33895</id>
+    <timestamp>2022-12-12T19:11:25Z</timestamp>
+    <text space="preserve" bytes="3078">{{Infobox dungeon
 |name    = Floccesy Ranch
 |image   = [[File:Floccesy Ranch.png|300px]]
 |caption = A map of Floccesy Ranch.
@@ -50,58 +50,59 @@
 ==Items==
 
 &lt;tabs&gt;
-&lt;tab name="No Debuff"&gt;
+&lt;tab name="Base"&gt;
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears
 |-
 | align="center" colspan=6| '''Common'''
 |-
-| {{Bag2|xAttack}} || N/A || 25.24% || 24.44% || 21.06%
+| {{Bag2|xAttack}} || 1 || 25.24% || 24.44% || 23.20% || 21.06%
 |-
-| {{Bag2|Pokéball}} || N/A || 25.24% || 24.44% || 21.06%
+| {{Bag2|Poké Ball}} || 1 || 25.24% || 24.44% || 23.20% || 21.06%
 |-
-| {{Bag2|Cheri}} || N/A || 25.24% || 24.44% || 21.06%
+| {{Bag2|Cheri}} || 1 || 25.24% || 24.44% || 23.20% || 21.06%
 |-
 | align="center" colspan=6| '''Rare'''
 |-
-| {{Bag2|Green Shard}} || N/A || 10.11% || 10.69% || 13.14%
+| {{Bag2|Green Shard}} || 1 || 10.11% || 10.69% || 11.59% || 13.14%
 |-
-| {{Bag2|Yellow Shard}} || N/A || 10.11% || 10.69% || 13.14%
+| {{Bag2|Yellow Shard}} || 1 || 10.11% || 10.69% || 11.59% || 13.14%
 |-
 | align="center" colspan=6| '''Epic'''
 |-
-| {{Bag2|Nanab}} || N/A || 2.03% || 2.65% || 5.27%
+| {{Bag2|Nanab}} || 1 || 2.03% || 2.65% || 3.61% || 5.27%
 |-
-| {{Bag2|Wepear}} || N/A || 2.03% || 2.65% || 5.27%
+| {{Bag2|Wepear}} || 1 || 2.03% || 2.65% || 3.61% || 5.27%
 |}
 &lt;/tab&gt;
 
 &lt;tab name="Debuff"&gt;
-After Reaching Galar, the drop chance for items in Unova will be debuffed for any loot with a Tier rarer than Rare (ie: Epic, Legendary, Mythic).
+After reaching [[Galar]], the drop chance for items will be [[Dungeons#Dungeon Loot Regional Debuff|debuffed]].
+
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears
 |-
 | align="center" colspan=6| '''Common'''
 |-
-| {{Bag2|xAttack}} || N/A || 25.03% || 25.03% || 25.03%
+| {{Bag2|xAttack}} || 1 || 25.03% || 25.03% || 25.03% || 25.03%
 |-
-| {{Bag2|Pokéball}} || N/A || 25.03% || 25.03% || 25.03%
+| {{Bag2|Poké Ball}} || 1 || 25.03% || 25.03% || 25.03% || 25.03%
 |-
-| {{Bag2|Cheri}} || N/A || 25.03% || 25.03% || 25.03%
+| {{Bag2|Cheri}} || 1 || 25.03% || 25.03% || 25.03% || 25.03%
 |-
 | align="center" colspan=6| '''Rare'''
 |-
-| {{Bag2|Green Shard}} || N/A || 12.01% || 12.01% || 12.01%
+| {{Bag2|Green Shard}} || 1 || 12.01% || 12.01% || 12.01% || 12.01%
 |-
-| {{Bag2|Yellow Shard}} || N/A || 12.01% || 12.01% || 12.01%
+| {{Bag2|Yellow Shard}} || 1 || 12.01% || 12.01% || 12.01% || 12.01%
 |-
 | align="center" colspan=6| '''Epic'''
 |-
-| {{Bag2|Nanab}} || N/A || 0.45% || 0.45% || 0.45%
+| {{Bag2|Nanab}} || 1 || 0.45% || 0.45% || 0.45% || 0.45%
 |-
-| {{Bag2|Wepear}} || N/A || 0.45% || 0.45% || 0.45%
+| {{Bag2|Wepear}} || 1 || 0.45% || 0.45% || 0.45% || 0.45%
 |}
 &lt;/tab&gt;
 &lt;/tabs&gt;
@@ -113,9 +114,9 @@ After Reaching Galar, the drop chance for items in Unova will be debuffed for an
       <username>ThePantMan</username>
       <id>8</id>
     </contributor>
-    <comment>/* Galar */</comment>
+    <comment>Text replacement - "Pokéball" to "Poké Ball"</comment>
     <model>wikitext</model>
-    <parentid>10330</parentid>
-    <sha1>2b083eecb0a0be85df6e3a4295c3db6e0b33af88</sha1>
+    <parentid>33576</parentid>
+    <sha1>0189243c34d14d51993d91481a13c06afbc0a03f</sha1>
   </revision>
 </page></mediawiki>

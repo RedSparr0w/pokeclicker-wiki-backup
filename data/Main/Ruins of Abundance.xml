@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>4038</id>
   <revision>
-    <id>14727</id>
-    <timestamp>2022-07-27T03:11:00Z</timestamp>
-    <text space="preserve" bytes="1826">{{Infobox dungeon
+    <id>33629</id>
+    <timestamp>2022-12-12T02:50:21Z</timestamp>
+    <text space="preserve" bytes="1926">{{Infobox dungeon
 |name    = Ruins of Abundance
 |image   = [[File:Ruins of Abundance.png|300px]]
 |caption = A map of Ruins of Abundance.
@@ -52,39 +52,43 @@
 |}
 
 ==Items==
-
+&lt;tabs&gt;
+&lt;tab name="Base"&gt;
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears
 |-
 | align="center" colspan=6| '''Common'''
 |-
-| {{Bag2|xAttack}} || N/A || 37.87% || 36.66% || 31.60%
+| {{Bag2|xAttack}} || 1 || 37.87% || 36.66% || 34.80% || 31.60%
 |-
-| {{Bag2|Rawst}} || N/A || 37.87% || 36.66% || 31.60%
+| {{Bag2|Rawst}} || 1 || 37.87% || 36.66% || 34.80% || 31.60%
 |-
 | align="center" colspan=6| '''Rare'''
 |-
-| {{Bag2|Red Shard}} || N/A || 10.11% || 10.69% || 13.14%
+| {{Bag2|Red Shard}} || 1 || 10.11% || 10.69% || 11.59% || 13.14%
 |-
-| {{Bag2|Cyan Shard}} || N/A || 10.11% || 10.69% || 13.14%
+| {{Bag2|Cyan Shard}} || 1 || 10.11% || 10.69% || 11.59% || 13.14%
 |-
 | align="center" colspan=6| '''Epic'''
 |-
-| {{Bag2|Insect Plate}} || N/A || 2.03% || 2.65% || 5.27%
+| {{Bag2|Insect Plate}} || 1 || 2.03% || 2.65% || 3.61% || 5.27%
 |-
-| {{Bag2|Fist Plate}} || N/A || 2.03% || 2.65% || 5.27%
+| {{Bag2|Fist Plate}} || 1 || 2.03% || 2.65% || 3.61% || 5.27%
 |}
+&lt;/tab&gt;
+&lt;/tabs&gt;
+
 
 {{Alola Dungeons}}
 [[Category:Dungeons|^Region #7 - Alola^za]]</text>
     <contributor>
-      <username>LatiosRider</username>
-      <id>35</id>
+      <username>ThePantMan</username>
+      <id>8</id>
     </contributor>
-    <comment>Add Category header</comment>
+    <comment>/* loot */</comment>
     <model>wikitext</model>
-    <parentid>14726</parentid>
-    <sha1>975067b33b9dbfb3ef26a16480133841a70f291c</sha1>
+    <parentid>14727</parentid>
+    <sha1>759dd11420f9774ff0c2bc6a2bfa1ffd88b06e3b</sha1>
   </revision>
 </page></mediawiki>

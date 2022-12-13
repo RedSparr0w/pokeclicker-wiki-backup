@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>4027</id>
   <revision>
-    <id>14636</id>
-    <timestamp>2022-08-02T21:37:48Z</timestamp>
-    <text space="preserve" bytes="2583">{{Infobox dungeon
+    <id>34174</id>
+    <timestamp>2022-12-12T21:00:19Z</timestamp>
+    <text space="preserve" bytes="2775">{{Infobox dungeon
 |name    = Lush Jungle
 |image   = [[File:Lush Jungle.png|300px]]
 |caption = A map of Lush Jungle.
@@ -69,39 +69,45 @@
 '''*Must be Alola Champion to unlock'''
 
 ==Items==
-
+&lt;tabs&gt;
+&lt;tab name="Base"&gt;
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears
 |-
 | align="center" colspan=6| '''Common'''
 |-
-| {{Bag2|xClick}} || N/A || 24.99% || 24.00% || 20.00%
+| {{Bag2|xClick}} || 1 || 24.99% || 24.00% || 22.50% || 20.00%
 |-
-| {{Bag2|xAttack}} || N/A || 24.99% || 24.00% || 20.00%
+| {{Bag2|xAttack}} || 1 || 24.99% || 24.00% || 22.50% || 20.00%
 |-
-| {{Bag2|Mago}} || N/A || 24.99% || 24.00% || 20.00%
+| {{Bag2|Mago}} || 1 || 24.99% || 24.00% || 22.50% || 20.00%
 |-
 | align="center" colspan=6| '''Rare'''
 |-
-| {{Bag2|Green Shard}} || N/A || 20.01% || 20.99% || 24.95%
+| {{Bag2|Green Shard}} || 1 || 20.01% || 20.99% || 22.47% || 24.95%
 |-
 | align="center" colspan=6| '''Epic'''
 |-
-| {{Bag2|Meadow Plate}} || N/A || 2.01% || 2.60% || 5.00%
+| {{Bag2|Meadow Plate}} || 1 || 2.01% || 2.60% || 3.50% || 5.00%
 |-
-| {{Bag2|Nestball}} || N/A || 2.01% || 2.60% || 5.00%
+| {{Bag2|Nest Ball}} || 1 || 2.01% || 2.60% || 3.50% || 5.00%
 |-
 | align="center" colspan=6| '''Legendary'''
 |-
-| {{Bag2|Medium Restore}} || 2 || 0.66% || 1.06% || 2.66%
+| {{Bag2|Medium Restore}} || 2 || 0.50% || 0.80% || 1.24% || 1.99%
 |-
-| {{Bag2|Large Restore}} || N/A || 0.33% || 0.53% || 1.33%
+| {{Bag2|Large Restore}} || 1 || 0.25% || 0.40% || 0.62% || 1.00%
+|-
+| {{Bag2|Miracle Seed}} || 1 || 0.25% || 0.40% || 0.62% || 1.00%
 |-
 | align="center" colspan=6| '''Mythic'''
 |-
-| {{Bag2|Max Revive}} || N/A || 0.01% || 0.22% || 1.06%
+| {{Bag2|Max Revive}} || 1 || 0.01% || 0.22% || 0.53% || 1.06%
 |}
+&lt;/tab&gt;
+&lt;/tabs&gt;
+
 
 {{Alola Dungeons}}
 [[Category:Dungeons|^Region #7 - Alola^k]]</text>
@@ -109,9 +115,9 @@
       <username>ThePantMan</username>
       <id>8</id>
     </contributor>
-    <comment>/* Wild Encounters - added UB*/</comment>
+    <comment>Text replacement - "Nestball" to "Nest Ball"</comment>
     <model>wikitext</model>
-    <parentid>14635</parentid>
-    <sha1>11c774cd497e796bd9298e2db9a5804a15287d77</sha1>
+    <parentid>33615</parentid>
+    <sha1>75c1381e24d1d43ad71863700f1b518c61935499</sha1>
   </revision>
 </page></mediawiki>

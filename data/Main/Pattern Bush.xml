@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>10206</id>
   <revision>
-    <id>33515</id>
-    <timestamp>2022-12-12T01:17:10Z</timestamp>
-    <text space="preserve" bytes="6494">{{Infobox dungeon
+    <id>33841</id>
+    <timestamp>2022-12-12T18:07:50Z</timestamp>
+    <text space="preserve" bytes="6730">{{Infobox dungeon
 |name    = Pattern Bush
 |image   = [[File:Pattern Bush.png|thumb]]
 |caption = An overhead map of Pattern Bush.
@@ -118,6 +118,7 @@
 |-
 | {{Bag2|Lum}} || 1 || N/A || N/A || 0.55% || 1.10% || 150 Clears
 |}
+The odds are very slightly off due to chances getting redistributed while the requirement locked loot is unavailable.
 &lt;/tab&gt;
 &lt;tab name="Debuff"&gt;
 After reaching [[Kalos]], the drop chance for items will be [[Dungeons#Dungeon Loot Regional Debuff|debuffed]].
@@ -176,6 +177,7 @@ After reaching [[Kalos]], the drop chance for items will be [[Dungeons#Dungeon L
 |-
 | {{Bag2|Lum}} || 1 || N/A || N/A || &lt;0.01% || &lt;0.01% || 150 Clears
 |}
+The odds are very slightly off due to chances getting redistributed while the requirement locked loot is unavailable.
 &lt;/tab&gt;
 &lt;/tabs&gt;
 
@@ -185,9 +187,9 @@ After reaching [[Kalos]], the drop chance for items will be [[Dungeons#Dungeon L
       <username>ThePantMan</username>
       <id>8</id>
     </contributor>
-    <comment>/* Lum */</comment>
+    <comment>/* loot */</comment>
     <model>wikitext</model>
-    <parentid>33490</parentid>
-    <sha1>c5b1593a0c5d17d4e0ca25b683f1ff9c7ac7ff2c</sha1>
+    <parentid>33515</parentid>
+    <sha1>9ea0479bb6c79861e9200bd2288f13698f33ab27</sha1>
   </revision>
 </page></mediawiki>

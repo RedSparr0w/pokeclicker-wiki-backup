@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>174</id>
   <revision>
-    <id>33239</id>
-    <timestamp>2022-12-10T22:10:26Z</timestamp>
-    <text space="preserve" bytes="62882">&lt;languages/&gt;
+    <id>33975</id>
+    <timestamp>2022-12-12T20:16:09Z</timestamp>
+    <text space="preserve" bytes="62889">&lt;languages/&gt;
 &lt;translate&gt;
 &lt;!--T:1--&gt;
 '''Dungeons''' include forests, caves, buildings, and other places that are accessible by spending [[Dungeon Tokens]] in which wild Pokémon are encountered. Apart from the entrance fee, they differ from routes in that only 60 seconds are given to find and defeat a "Boss Pokémon" or "Boss Trainer", after which the dungeon is considered cleared.
@@ -133,8 +133,8 @@ Dungeon chest loot is classified as belonging to a specific '''Tier''' of loot i
 |}
 
 &lt;!--T:14--&gt;
-*'''Example 1:''' [[Mt. Moon]] has [[XClick]] and [[Greatball]] as 2 of its 5 lootable items from Dungeon chests. The XClick is in the '''Common''' Tier while the Greatball has the '''Mythic''' Tier. This means that the XClick is much likely to drop from a chest than a Greatball.
-*'''Example 2:''' [[Mt. Moon]] has [[Greatball]], [[Small Restore]] and [[Star Piece]] as 3 of its 5 lootable items from Dungeon chests. All 3 items are in the Mythic tier, but the Greatball Has Weight 2 while the Small Restore and Star Piece have the base weight of 1. This means the Greatball will be twice as likely to be dropped as the other 2 items. In other words, on average when an item looted from Mt. Moon is from the Mythic Tier, 50% of the time it will be a Greatball, 25% of the time it will be a Small Restore, 25% of the time it will be a Star Piece.
+*'''Example 1:''' [[Mt. Moon]] has [[XClick]] and [[Great Ball]] as 2 of its 5 lootable items from Dungeon chests. The XClick is in the '''Common''' Tier while the Great Ball has the '''Mythic''' Tier. This means that the XClick is much likely to drop from a chest than a Great Ball.
+*'''Example 2:''' [[Mt. Moon]] has [[Great Ball]], [[Small Restore]] and [[Star Piece]] as 3 of its 5 lootable items from Dungeon chests. All 3 items are in the Mythic tier, but the Great Ball Has Weight 2 while the Small Restore and Star Piece have the base weight of 1. This means the Great Ball will be twice as likely to be dropped as the other 2 items. In other words, on average when an item looted from Mt. Moon is from the Mythic Tier, 50% of the time it will be a Great Ball, 25% of the time it will be a Small Restore, 25% of the time it will be a Star Piece.
 
 &lt;!--T:15--&gt;
 ===Dowsing Machine===
@@ -611,9 +611,9 @@ To complete all dungeon achievements, you would need the following number of Dun
       <username>ThePantMan</username>
       <id>8</id>
     </contributor>
-    <comment>/* mon update */</comment>
+    <comment>Text replacement - "Greatball" to "Great Ball"</comment>
     <model>wikitext</model>
-    <parentid>33061</parentid>
-    <sha1>97ea72515b4a1917f0de999e855441c1e1ad1e92</sha1>
+    <parentid>33239</parentid>
+    <sha1>8cd34d4105564bc63b81846608508d39e61e2d1d</sha1>
   </revision>
 </page></mediawiki>

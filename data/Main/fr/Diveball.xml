@@ -2,67 +2,18 @@
 <page>
   <title>Diveball/fr</title>
   <ns>0</ns>
-  <id>8582</id>
+  <id>12329</id>
   <revision>
-    <id>23727</id>
-    <timestamp>2022-08-12T05:52:28Z</timestamp>
-    <text space="preserve" bytes="1383">&lt;languages/&gt;
-
-{{Infobox Pokéball
-|name       = Scuba Ball
-|image      = [[File:Diveball.png]]
-|caption    = Image en jeu de la ''Scuba Ball''.
-|price      = Variable
-|catchTime  = 1,25s
-|catchRate = Variable
-*+15% en environnement aquatique
-*+0% partout ailleurs
-|location   = &lt;div style="clear:both;"&gt;&lt;/div&gt;
-*[[Diveball/fr#Dungeons|Donjons]]
-}}
-
-==Description==
-
-La '''Scuba Ball''' est un type de [[Pokéballs/fr|Ball]]. Elle est automatiquement lancée pour capturer un Pokémon sauvage après l'avoir mis KO s'il s'agit du plus haut type de Ball actif et qu'il vous en reste dans la fenètre de sélection de Poké Ball.
-
-==Détails==
-
-Une Ball spécialisée pour attraper les Pokémon en milieu aquatique, avec un bonus sur le taux de capture.
-
-===Taux===
-
-{| class="wikitable"
-|+ Diveball
-|-
-! Lieu !! Modificateur du taux de capture
-|-
-| Environnement aquatique || +15%
-|-
-| Tout autre lieu || +0% (égal à une Poké Ball)
-|-
-|}
-
-==Acquisition==
-===Donjons===
-{{Loot/head‎|Pokéballs}}
-{{LootItem|Aqua Hideout|Planque Aqua|Épique}}
-{{LootItem|Sealed Chamber|Sanctuaire|Épique}}
-{{LootItem|Seaside Cave|Grotte Littorale (Unys)|Épique}}
-{{LootItem|Pokéball Factory|Usine de Poké Balls|Épique}}
-{{LootItem|Seaward Cave|Grotte Verlamer|Épique}}
-{{LootItem|Brooklet Hill|Colline Clapotis|Épique}}
-|}
-|}
-
-&lt;br&gt;{{Pokéballs}}&lt;br&gt;
-[[Category:Items]] [[Category:Pokéballs]]</text>
+    <id>34242</id>
+    <timestamp>2022-12-12T21:11:08Z</timestamp>
+    <text space="preserve" bytes="26">#REDIRECT [[Dive Ball/fr]]</text>
     <contributor>
-      <username>PetroleVB</username>
-      <id>36</id>
+      <username>ThePantMan</username>
+      <id>8</id>
     </contributor>
-    <comment></comment>
+    <comment>ThePantMan moved page [[Diveball/fr]] to [[Dive Ball/fr]]</comment>
     <model>wikitext</model>
-    <parentid>23726</parentid>
-    <sha1>34a64e4ea6378841d9b7971c7f7efbcc08931220</sha1>
+    <parentid>0</parentid>
+    <sha1>de2acda4c9a0ca4412b5ed789cb608045057014a</sha1>
   </revision>
 </page></mediawiki>

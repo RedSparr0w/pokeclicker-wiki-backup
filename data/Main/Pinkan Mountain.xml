@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>10209</id>
   <revision>
-    <id>30176</id>
-    <timestamp>2022-12-05T02:24:00Z</timestamp>
-    <text space="preserve" bytes="3843">{{Infobox dungeon
+    <id>33842</id>
+    <timestamp>2022-12-12T18:09:29Z</timestamp>
+    <text space="preserve" bytes="4119">{{Infobox dungeon
 |name    = Pinkan Mountain
 |image   = [[File:Pinkan Mountain.png|thumb]]
 |caption = An overhead map of Pinkan Mountain.
@@ -51,86 +51,88 @@
 ==Items==
 
 &lt;tabs&gt;
-&lt;tab name="No Debuff"&gt;
-'''*Note:''' [[Pink Shard]] is a Rare drop in this dungeon. However, due to it needing the player to have reached [[Kalos]] first, it won't drop without the debuff being applied to it. Check the Debuff tab for more details.
+
+&lt;tab name="Base"&gt;
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears !! Requirement
 |-
-| align="center" colspan=6| '''Common'''
+| align="center" colspan=7| '''Common'''
 |-
-| {{Bag2|Pecha}} || 6 || 49.98% || 48.00% || 40.00%
+| {{Bag2|Pecha}} || 6 || 49.98% || 48.00% || 45.00% || 40.00% || rowspan=4| &lt;center&gt;N/A
 |-
-| {{Bag2|Persim}} || N/A || 8.33% || 8.00% || 6.67%
+| {{Bag2|Persim}} || 1 || 8.33% || 8.00% || 7.50% || 6.67%
 |-
-| {{Bag2|Nanab}} || N/A || 8.33% || 8.00% || 6.67%
+| {{Bag2|Nanab}} || 1 || 8.33% || 8.00% || 7.50% || 6.67%
 |-
-| {{Bag2|Mago}} || N/A || 8.33% || 8.00% || 6.67%
+| {{Bag2|Mago}} || 1 || 8.33% || 8.00% || 7.50% || 6.67%
 |-
-| align="center" colspan=6| '''Rare'''
+| align="center" colspan=7| '''Rare'''
 |-
-| {{Bag2|Purple Shard}} || N/A || 20.00% || 21.00% || 24.94%
+| {{Bag2|Purple Shard}} || 1 || 20.00% || 21.00% || 22.48% || 24.94% || &lt;center&gt;N/A
 |-
-| align="center" colspan=6| '''Epic'''
+| {{Bag2|Pink Shard}} || 1 || N/A || N/A || N/A || N/A || Reach [[Kalos]]
 |-
-| {{Bag2|Mind Plate}} || N/A || 1.00% || 1.30% || 2.50%
+| align="center" colspan=7| '''Epic'''
 |-
-| {{Bag2|Qualot}} || N/A || 1.00% || 1.30% || 2.50%
+| {{Bag2|Mind Plate}} || 1 || 1.00% || 1.30% || 1.75% || 2.50% || rowspan=4| &lt;center&gt;N/A
 |-
-| {{Bag2|Magost}} || N/A || 1.00% || 1.30% || 2.50%
+| {{Bag2|Qualot}} || 1 || 1.00% || 1.30% || 1.75% || 2.50%
 |-
-| {{Bag2|Watmel}} || N/A || 1.00% || 1.30% || 2.50%
+| {{Bag2|Magost}} || 1 || 1.00% || 1.30% || 1.75% || 2.50%
 |-
-| align="center" colspan=6| '''Legendary'''
+| {{Bag2|Watmel}} || 1 || 1.00% || 1.30% || 1.75% || 2.50%
 |-
-| {{Bag2|Pink Bow}} || N/A || 1.00% || 1.59% || 3.99%
+| align="center" colspan=7| '''Legendary'''
 |-
-| align="center" colspan=6| '''Mythic'''
+| {{Bag2|Pink Bow}} || 1 || 1.00% || 1.59% || 2.49% || 3.99% || &lt;center&gt;N/A
 |-
-| {{Bag2|Heart Scale}} || N/A || 0.01% || 0.22% || 1.06%
+| align="center" colspan=7| '''Mythic'''
+|-
+| {{Bag2|Heart Scale}} || 1 || 0.01% || 0.22% || 0.53% || 1.06% || &lt;center&gt;N/A
 |}
+'''*Note:''' Due to [[Pink Shard]] having [[Kalos]] as a requirement to unlock, it will never drop without the debuff being applied to it.
 &lt;/tab&gt;
 &lt;tab name="Debuff"&gt;
-
-After Reaching Kalos, the drop chance for items will be debuffed for any loot with a Tier rarer than Rare (ie: Epic, Legendary, Mythic).
+After reaching [[Kalos]], the drop chance for items in Kanto will be [[Dungeons#Dungeon Loot Regional Debuff|debuffed]].
 
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears !! Requirement
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears !! Requirement
 |-
-| align="center" colspan=6| '''Common'''
+| align="center" colspan=7| '''Common'''
 |-
-| {{Bag2|Pecha}} || 6 || 50.00% || 50.00% || 50.00% || rowspan=4|&lt;center&gt;N/A
+| {{Bag2|Pecha}} || 6 || 50.00% || 50.00% || 50.00% || 50.00% || rowspan=4| &lt;center&gt;N/A
 |-
-| {{Bag2|Persim}} || N/A || 8.33% || 8.33% || 8.33%
+| {{Bag2|Persim}} || 1 || 8.33% || 8.33% || 8.33% || 8.33%
 |-
-| {{Bag2|Nanab}} || N/A || 8.33% || 8.33% || 8.33%
+| {{Bag2|Nanab}} || 1 || 8.33% || 8.33% || 8.33% || 8.33%
 |-
-| {{Bag2|Mago}} || N/A || 8.33% || 8.33% || 8.33%
+| {{Bag2|Mago}} || 1 || 8.33% || 8.33% || 8.33% || 8.33%
 |-
-| align="center" colspan=6| '''Rare'''
+| align="center" colspan=7| '''Rare'''
 |-
-| {{Bag2|Purple Shard}} || N/A || 12.00% || 12.00% || 12.00% || &lt;center&gt;N/A
+| {{Bag2|Purple Shard}} || 1 || 12.00% || 12.00% || 12.00% || 12.00% || &lt;center&gt;N/A
 |-
-| {{Bag2|Pink Shard}} || N/A || 12.00% || 12.00% || 12.00% || Have reached [[Kalos]]
+| {{Bag2|Pink Shard}} || 1 || 12.00% || 12.00% || 12.00% || 12.00% || Reach [[Kalos]]
 |-
-| align="center" colspan=6| '''Epic'''
+| align="center" colspan=7| '''Epic'''
 |-
-| {{Bag2|Mind Plate}} || N/A || 0.22% || 0.22% || 0.22% || rowspan=4| &lt;center&gt;N/A
+| {{Bag2|Mind Plate}} || 1 || 0.22% || 0.22% || 0.22% || 0.22% || rowspan=4| &lt;center&gt;N/A
 |-
-| {{Bag2|Qualot}} || N/A || 0.22% || 0.22% || 0.22%
+| {{Bag2|Qualot}} || 1 || 0.22% || 0.22% || 0.22% || 0.22%
 |-
-| {{Bag2|Magost}} || N/A || 0.22% || 0.22% || 0.22%
+| {{Bag2|Magost}} || 1 || 0.22% || 0.22% || 0.22% || 0.22%
 |-
-| {{Bag2|Watmel}} || N/A || 0.22% || 0.22% || 0.22%
+| {{Bag2|Watmel}} || 1 || 0.22% || 0.22% || 0.22% || 0.22%
 |-
-| align="center" colspan=6| '''Legendary'''
+| align="center" colspan=7| '''Legendary'''
 |-
-| {{Bag2|Pink Bow}} || N/A || 0.10% || 0.10% || 0.10% || &lt;center&gt;N/A
+| {{Bag2|Pink Bow}} || 1 || 0.10% || 0.10% || 0.10% || 0.10% || &lt;center&gt;N/A
 |-
-| align="center" colspan=6| '''Mythic'''
+| align="center" colspan=7| '''Mythic'''
 |-
-| {{Bag2|Heart Scale}} || N/A || &lt;0.01% || &lt;0.01% || &lt;0.01% || &lt;center&gt;N/A
+| {{Bag2|Heart Scale}} || 1 || &lt;0.01% || &lt;0.01% || &lt;0.01% || &lt;0.01% || &lt;center&gt;N/A
 |}
 &lt;/tab&gt;
 &lt;/tabs&gt;
@@ -141,9 +143,9 @@ After Reaching Kalos, the drop chance for items will be debuffed for any loot wi
       <username>ThePantMan</username>
       <id>8</id>
     </contributor>
-    <comment>Created page with "{{Infobox dungeon |name    = Pinkan Mountain |image   = [[File:Pinkan Mountain.png|thumb]] |caption = An overhead map of Pinkan Mountain. |tokens  = 86,500 |location = Pinkan Island, between Pinkan Plains and Pinkan Forest. }} '''Pinkan Mountain''' is a [[Dungeons|dungeon]] in [[Kanto]]. It has 49 tiles arranged in a 7x7 square, including 7 chest tiles, 17 non-boss encounter tiles, and 1 boss encounter tile. Wild Encounters have 1,503,000 HP.  == Encounter Tables ==  ===..."</comment>
+    <comment>/* loot */</comment>
     <model>wikitext</model>
-    <parentid>0</parentid>
-    <sha1>c59450cb77bb5470c78d4ab0825f73410572f8d8</sha1>
+    <parentid>30176</parentid>
+    <sha1>12fb89f0dad1b354fc9db198842725d31b0649d3</sha1>
   </revision>
 </page></mediawiki>

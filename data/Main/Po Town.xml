@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>4065</id>
   <revision>
-    <id>14785</id>
-    <timestamp>2022-07-27T03:06:34Z</timestamp>
-    <text space="preserve" bytes="3819">{{Infobox dungeon
+    <id>33621</id>
+    <timestamp>2022-12-12T02:45:57Z</timestamp>
+    <text space="preserve" bytes="4007">{{Infobox dungeon
 |name    = Po Town
 |image   = [[File:Po Town.png|300px]]
 |caption = A map of Po Town.
@@ -70,47 +70,53 @@
 |}
 
 ==Items==
-
+&lt;tabs&gt;
+&lt;tab name="Base"&gt;
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears
 |-
 | align="center" colspan=6| '''Common'''
 |-
-| {{Bag2|xAttack}} || N/A || 37.49% || 36.08% || 30.32%
+| {{Bag2|xAttack}} || 1 || 37.49% || 36.08% || 33.93% || 30.32%
 |-
-| {{Bag2|xClick}} || N/A || 37.49% || 36.08% || 30.32%
+| {{Bag2|xClick}} || 1 || 37.49% || 36.08% || 33.93% || 30.32%
 |-
 | align="center" colspan=6| '''Rare'''
 |-
-| {{Bag2|Blue Shard}} || N/A || 10.01% || 10.52% || 12.61%
+| {{Bag2|Blue Shard}} || 1 || 10.01% || 10.52% || 11.30% || 12.61%
 |-
-| {{Bag2|Green Shard}} || N/A || 10.01% || 10.52% || 12.61%
+| {{Bag2|Green Shard}} || 1 || 10.01% || 10.52% || 11.30% || 12.61%
 |-
 | align="center" colspan=6| '''Epic'''
 |-
-| {{Bag2|Insect Plate}} || N/A || 1.34% || 1.74% || 3.37%
+| {{Bag2|Insect Plate}} || 1 || 1.34% || 1.74% || 2.35% || 3.37%
 |-
-| {{Bag2|Toxic Plate}} || N/A || 1.34% || 1.74% || 3.37%
+| {{Bag2|Toxic Plate}} || 1 || 1.34% || 1.74% || 2.35% || 3.37%
 |-
-| {{Bag2|Dread Plate}} || N/A || 1.34% || 1.74% || 3.37%
+| {{Bag2|Dread Plate}} || 1 || 1.34% || 1.74% || 2.35% || 3.37%
 |-
 | align="center" colspan=6| '''Legendary'''
 |-
-| {{Bag2|Large Restore}} || N/A || 0.50% || 0.80% || 2.02%
+| {{Bag2|Large Restore}} || 1 || 0.33% || 0.53% || 0.83% || 1.34%
 |-
-| {{Bag2|Max Revive}} || N/A || 0.50% || 0.80% || 2.02%
+| {{Bag2|Max Revive}} || 1 || 0.33% || 0.53% || 0.83% || 1.34%
+|-
+| {{Bag2|Poison Barb}} || 1 || 0.33% || 0.53% || 0.83% || 1.34%
 |}
+&lt;/tab&gt;
+&lt;/tabs&gt;
+
 
 {{Alola Dungeons}}
 [[Category:Dungeons|^Region #7 - Alola^r]]</text>
     <contributor>
-      <username>LatiosRider</username>
-      <id>35</id>
+      <username>ThePantMan</username>
+      <id>8</id>
     </contributor>
-    <comment>Add Category header</comment>
+    <comment>/* loot */</comment>
     <model>wikitext</model>
-    <parentid>14784</parentid>
-    <sha1>ce4836f422d9727becad4e3c0790e37600f5b03a</sha1>
+    <parentid>14785</parentid>
+    <sha1>e54e402f77dbd4780bdd52932be1df435e9b31f1</sha1>
   </revision>
 </page></mediawiki>

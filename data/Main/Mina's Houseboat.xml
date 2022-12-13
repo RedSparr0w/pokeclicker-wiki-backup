@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>4073</id>
   <revision>
-    <id>14838</id>
-    <timestamp>2022-07-27T03:08:27Z</timestamp>
-    <text space="preserve" bytes="2089">{{Infobox dungeon
+    <id>33624</id>
+    <timestamp>2022-12-12T02:47:47Z</timestamp>
+    <text space="preserve" bytes="2300">{{Infobox dungeon
 |name    = Mina's Houseboat
 |image   = [[File:Mina's Houseboat.png|300px]]
 |caption = A map of Mina's Houseboat.
@@ -57,41 +57,49 @@
 '''*Must be Alola champion to unlock'''
 
 ==Items==
-
+&lt;tabs&gt;
+&lt;tab name="Base"&gt;
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears
 |-
 | align="center" colspan=6| '''Common'''
 |-
-| {{Bag2|Lucky Egg}} || N/A || 37.86% || 36.58% || 31.25%
+| {{Bag2|Lucky Egg}} || 1 || 37.48% || 36.00% || 33.75% || 30.00%
 |-
-| {{Bag2|Lucky Incense}} || N/A || 37.86% || 36.58% || 31.25%
+| {{Bag2|Lucky Incense}} || 1 || 37.48% || 36.00% || 33.75% || 30.00%
 |-
 | align="center" colspan=6| '''Rare'''
 |-
-| {{Bag2|Blue Shard}} || N/A || 10.11% || 10.66% || 12.99%
+| {{Bag2|Blue Shard}} || 1 || 10.00% || 10.50% || 11.24% || 12.47%
 |-
-| {{Bag2|Yellow Shard}} || N/A || 10.11% || 10.66% || 12.99%
+| {{Bag2|Yellow Shard}} || 1 || 10.00% || 10.50% || 11.24% || 12.47%
 |-
 | align="center" colspan=6| '''Epic'''
 |-
-| {{Bag2|Pixie Plate}} || N/A || 4.05% || 5.28% || 10.42%
+| {{Bag2|Pixie Plate}} || 1 || 4.01% || 5.20% || 7.00% || 10.00%
+|-
+| align="center" colspan=6| '''Legendary'''
+|-
+| {{Bag2|Pink Bow}} || 1 || 1.00% || 1.59% || 2.49% || 3.99%
 |-
 | align="center" colspan=6| '''Mythic'''
 |-
-| {{Bag2|Heart Scale}} || N/A || 0.01% || 0.22% || 1.10%
+| {{Bag2|Heart Scale}} || 1 || 0.01% || 0.22% || 0.53% || 1.06%
 |}
+&lt;/tab&gt;
+&lt;/tabs&gt;
+
 
 {{Alola Dungeons}}
 [[Category:Dungeons|^Region #7 - Alola^v]]</text>
     <contributor>
-      <username>LatiosRider</username>
-      <id>35</id>
+      <username>ThePantMan</username>
+      <id>8</id>
     </contributor>
-    <comment>Add Category header</comment>
+    <comment>/* loot */</comment>
     <model>wikitext</model>
-    <parentid>14837</parentid>
-    <sha1>6326bb8a48af0d4c50aaaef243d0ac5082b2864e</sha1>
+    <parentid>14838</parentid>
+    <sha1>7f4ae4c80b2d59c6ae697a21a67548c23940a86a</sha1>
   </revision>
 </page></mediawiki>

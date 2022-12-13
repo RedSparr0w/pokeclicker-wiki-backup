@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>215</id>
   <revision>
-    <id>29940</id>
-    <timestamp>2022-12-04T18:44:37Z</timestamp>
-    <text space="preserve" bytes="7047">Quests can be completed to earn [[Quest Points]], which can in turn be used to purchase [[Eggs]], [[Evolution Items]], and other collectibles. Their value is also effected by a randomization procedure making them able to be only 90% of their calculated value or up to 110% of the calculated value. Quests can be randomly generated as part of a list as explained in the Normal Quest Types section, or be part of a larger Questline that requires the player to follow certain steps to complete them. For more information about these other kinds of Quests, please check the [[Questlines]] page.
+    <id>34406</id>
+    <timestamp>2022-12-12T22:29:24Z</timestamp>
+    <text space="preserve" bytes="7058">Quests can be completed to earn [[Quest Points]], which can in turn be used to purchase [[Eggs]], [[Evolution Items]], and other collectibles. Their value is also effected by a randomization procedure making them able to be only 90% of their calculated value or up to 110% of the calculated value. Quests can be randomly generated as part of a list as explained in the Normal Quest Types section, or be part of a larger Questline that requires the player to follow certain steps to complete them. For more information about these other kinds of Quests, please check the [[Questlines]] page.
 
 =Slots and Quest XP=
 
@@ -95,11 +95,11 @@ So, I'm just going to pretend that that middle part doesn't matter, and so it's 
 |-
 | Use an [[Oak Item]] X times || Use either the [[Magic Ball]] [[File:Bag_Magic_Ball_Sprite.png|15px]], [[Amulet Coin]] [[File:Bag_Amulet_Coin_Sprite.png|15px]], or [[EXP Share]] [[File:Bag_EXP_Share_Sprite.png|15px]] between 100 and 500 times || Uses * 1 {{Questpoints}} || 90 - 550 {{Questpoints}}
 |-
-| rowspan=3|Use a type of [[Pokéballs|Pokéball]] || Between 100 and 500 [[Pokeball|Pokéballs]] [[File:Ball_Pokeball.png|15px]] || Pokéballs  * 1 {{Questpoints}} || 90 - 550 {{Questpoints}}
+| rowspan=3|Use a type of [[Poké Balls|Poké Ball]] || Between 100 and 500 [[Poké Ball|Poké Balls]] [[File:Poké Ball.png|15px]] || Poké Balls  * 1 {{Questpoints}} || 90 - 550 {{Questpoints}}
 |-
-| Between 100 and 500 [[Greatball|Greatballs]] [[File:Greatball.png|15px]] || Greatballs * 4 {{Questpoints}} || 360 - 2200 {{Questpoints}}
+| Between 100 and 500 [[Great Ball|Great Balls]] [[File:Great Ball.png|15px]] || Great Balls * 4 {{Questpoints}} || 360 - 2200 {{Questpoints}}
 |-
-| Between 100 and 500 [[Ultraball|Ultraballs]] [[File:Ultraball.png|15px]] || Ultraballs * 9 {{Questpoints}} || 810 - 4950 {{Questpoints}}
+| Between 100 and 500 [[Ultra Ball|Ultra Balls]] [[File:Ultra Ball.png|15px]] || Ultra Balls * 9 {{Questpoints}} || 810 - 4950 {{Questpoints}}
 |-
 | Defeat [[Gyms|Gym]] || Between 5 and 20 clears for an unlocked gym || rowspan = 3 | Variable {{Questpoints}}
 |-
@@ -118,9 +118,9 @@ const minAmt = Math.min(10, Math.ceil(maxAmt / 2));
       <username>ThePantMan</username>
       <id>8</id>
     </contributor>
-    <comment>/* Separating Quests and Questlines */</comment>
+    <comment>/* Pokeball change */</comment>
     <model>wikitext</model>
-    <parentid>3756</parentid>
-    <sha1>83bbfbb27c542dc8e6b78f2f31fd59f22324f601</sha1>
+    <parentid>34125</parentid>
+    <sha1>44c9af45d81fb9b5a3e2bb02ecd347ab8b90c06c</sha1>
   </revision>
 </page></mediawiki>

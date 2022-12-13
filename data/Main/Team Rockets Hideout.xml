@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>3569</id>
   <revision>
-    <id>33517</id>
-    <timestamp>2022-12-12T01:18:47Z</timestamp>
-    <text space="preserve" bytes="5540">{{Infobox dungeon
+    <id>34098</id>
+    <timestamp>2022-12-12T20:45:29Z</timestamp>
+    <text space="preserve" bytes="5778">{{Infobox dungeon
 |name    = Team Rockets Hideout
 |image   = [[File:Team Rockets Hideout.png|thumb]]
 |caption = A map of Team Rockets Hideout
@@ -84,7 +84,7 @@
 |-
 | align="center" colspan=7| '''Legendary'''
 |-
-| {{Bag2|Ultraball}} || 2 || 0.26% || 0.42% || 0.67% || 1.11% || rowspan=6| &lt;center&gt;N/A
+| {{Bag2|Ultra Ball}} || 2 || 0.26% || 0.42% || 0.67% || 1.11% || rowspan=6| &lt;center&gt;N/A
 |-
 | {{Bag2|Revive}} || 2 || 0.26% || 0.42% || 0.67% || 1.11%
 |-
@@ -100,6 +100,7 @@
 |-
 | {{Bag2|Protein}} || 1 || N/A || N/A || N/A || 1.18% || 400 Clears
 |}
+The odds are very slightly off due to chances getting redistributed while the requirement locked loot is unavailable.
 &lt;/tab&gt;
 
 &lt;tab name="Debuff"&gt;
@@ -125,7 +126,7 @@ After reaching [[Unova]], the drop chance for items will be [[Dungeons#Dungeon L
 |-
 | align="center" colspan=7| '''Legendary'''
 |-
-| {{Bag2|Ultraball}} || 2 || 0.03% || 0.03% || 0.03% || 0.03% || rowspan=6| &lt;center&gt;N/A
+| {{Bag2|Ultra Ball}} || 2 || 0.03% || 0.03% || 0.03% || 0.03% || rowspan=6| &lt;center&gt;N/A
 |-
 | {{Bag2|Revive}} || 2 || 0.03% || 0.03% || 0.03% || 0.03%
 |-
@@ -141,6 +142,7 @@ After reaching [[Unova]], the drop chance for items will be [[Dungeons#Dungeon L
 |-
 | {{Bag2|Protein}} || 1 || N/A || N/A || N/A || &lt;0.01% || 400 Clears
 |}
+The odds are very slightly off due to chances getting redistributed while the requirement locked loot is unavailable.
 &lt;/tab&gt;
 &lt;/tabs&gt;
 
@@ -151,9 +153,9 @@ After reaching [[Unova]], the drop chance for items will be [[Dungeons#Dungeon L
       <username>ThePantMan</username>
       <id>8</id>
     </contributor>
-    <comment>/* Protein */</comment>
+    <comment>Text replacement - "Ultraball" to "Ultra Ball"</comment>
     <model>wikitext</model>
-    <parentid>33506</parentid>
-    <sha1>1889b6951f90c3644154023175064a09b1842cdb</sha1>
+    <parentid>33843</parentid>
+    <sha1>ae972c1b5ff65760dccfd22fd07e7894ec121b9d</sha1>
   </revision>
 </page></mediawiki>

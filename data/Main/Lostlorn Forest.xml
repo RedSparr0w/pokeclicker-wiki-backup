@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>1741</id>
   <revision>
-    <id>33048</id>
-    <timestamp>2022-12-08T21:03:03Z</timestamp>
-    <text space="preserve" bytes="3752">{{Infobox dungeon
+    <id>34075</id>
+    <timestamp>2022-12-12T20:45:26Z</timestamp>
+    <text space="preserve" bytes="4133">{{Infobox dungeon
 |name    = Lostlorn Forest
 |image   = [[File:Lostlorn Forest.png|300px]]
 |caption = A map of Lostlorn Forest.
@@ -54,67 +54,70 @@
 ==Items==
 
 &lt;tabs&gt;
-&lt;tab name="No Debuff"&gt;
+&lt;tab name="Base"&gt;
 {| class="wikitable"
+|- 
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears !! Requirement
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears !! Requirement 
+| align="center" colspan=7| '''Common'''
 |-
-| align="center" colspan=6| '''Common'''
+| {{Bag2|Iapapa}} || 1 || 13.02% || 12.66% || 12.10% || 11.11% || rowspan=4| &lt;center&gt;N/A
 |-
-| {{Bag2|Iapapa}} || N/A || 13.02% || 12.66% || 11.11% || rowspan=4|&lt;center&gt; N/A
+| {{Bag2|xClick}} || 2 || 26.03% || 25.32% || 24.19% || 22.22%
 |-
-| {{Bag2|xClick}} || 2 || 26.03% || 25.32% || 22.22%
+| {{Bag2|Great Ball}} || 2 || 26.03% || 25.32% || 24.19% || 22.22%
 |-
-| {{Bag2|Greatball}} || 2 || 26.03% || 25.32% || 22.22%
+| {{Pokemon|Foongus|Mimic=Mimic}} || 1 || 13.02% || 12.66% || 12.10% || 11.11%
 |-
-| {{Pokemon|Foongus|Mimic}} || N/A || 13.02% || 12.66% || 11.11%
+| align="center" colspan=7| '''Rare'''
 |-
-| align="center" colspan=6| '''Rare'''
+| {{Bag2|Green Shard}} || 1 || 20.85% || 22.14% || 24.17% || 27.72% || &lt;center&gt;N/A
 |-
-| {{Bag2|Green Shard}} || N/A || 20.85% || 22.14% || 27.72% || &lt;center&gt; N/A
+| align="center" colspan=7| '''Legendary'''
 |-
-| align="center" colspan=6| '''Legendary'''
+| {{Bag2|Ultra Ball}} || 1 || 0.52% || 0.84% || 1.34% || 2.22% || &lt;center&gt;N/A
 |-
-| {{Bag2|Ultraball}} || N/A || 0.52% || 0.84% || 2.22% || &lt;center&gt; N/A
+| {{Pokemon|Zoroark|Mimic=Mimic}} || 1 || N/A || 0.84% || 1.34% || 2.22% || 50 Clears
 |-
-| {{Pokemon|Zoroark|Mimic}} || N/A || 0% || 0.84% || 2.22% || 50 Clears
+| align="center" colspan=7| '''Mythic'''
 |-
-| align="center" colspan=6| '''Mythic'''
-|-
-| {{Bag2|Protein}} || N/A || 0% || 0% || 1.18% || 300 Clears
+| {{Bag2|Protein}} || 1 || N/A || N/A || N/A || 1.18% || 300 Clears
 |}
+The odds are very slightly off due to chances getting redistributed while the requirement locked loot is unavailable.
 &lt;/tab&gt;
 
 &lt;tab name="Debuff"&gt;
-After Reaching Galar, the drop chance for items in Unova will be debuffed for any loot with a Tier rarer than Rare (ie: Epic, Legendary, Mythic).
+After reaching [[Galar]], the drop chance for items will be [[Dungeons#Dungeon Loot Regional Debuff|debuffed]].
+
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears !! Requirement
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears !! Requirement
 |-
-| align="center" colspan=6| '''Common'''
+| align="center" colspan=7| '''Common'''
 |-
-| {{Bag2|Iapapa}} || N/A || 12.61% || 12.61% || 12.61% || rowspan=4| &lt;center&gt;N/A
+| {{Bag2|Iapapa}} || 1 || 12.61% || 12.61% || 12.61% || 12.61% || rowspan=4| &lt;center&gt;N/A
 |-
-| {{Bag2|xClick}} || 2 || 25.23% || 25.23% || 25.23%
+| {{Bag2|xClick}} || 2 || 25.23% || 25.23% || 25.23% || 25.23%
 |-
-| {{Bag2|Greatball}} || 2 || 25.23% || 25.23% || 25.23%
+| {{Bag2|Great Ball}} || 2 || 25.23% || 25.23% || 25.23% || 25.23%
 |-
-| {{Pokemon|Foongus|Mimic}} || N/A || 12.61% || 12.61% || 12.61%
+| {{Pokemon|Foongus|Mimic=Mimic}} || 1 || 12.61% || 12.61% || 12.61% || 12.61%
 |-
-| align="center" colspan=6| '''Rare'''
+| align="center" colspan=7| '''Rare'''
 |-
-| {{Bag2|Green Shard}} || N/A || 24.22% || 24.22% || 24.22% || &lt;center&gt;N/A
+| {{Bag2|Green Shard}} || 1 || 24.22% || 24.22% || 24.22% || 24.22% || &lt;center&gt;N/A
 |-
-| align="center" colspan=6| '''Legendary'''
+| align="center" colspan=7| '''Legendary'''
 |-
-| {{Bag2|Ultraball}} || N/A || 0.05% || 0.05% || 0.05% || &lt;center&gt;N/A
+| {{Bag2|Ultra Ball}} || 1 || 0.05% || 0.05% || 0.05% || 0.05% || &lt;center&gt;N/A
 |-
-| {{Pokemon|Zoroark|Mimic}} || N/A || 0.05% || 0.05% || 0.05% || 50 Clears
+| {{Pokemon|Zoroark|Mimic=Mimic}} || 1 || N/A || 0.05% || 0.05% || 0.05% || 50 Clears
 |-
-| align="center" colspan=6| '''Mythic'''
+| align="center" colspan=7| '''Mythic'''
 |-
-| {{Bag2|Protein}} || N/A || 0% || 0% || &lt;0.01% || 300 Clears
+| {{Bag2|Protein}} || 1 || N/A || N/A || N/A || &lt;0.01% || 300 Clears
 |}
+The odds are very slightly off due to chances getting redistributed while the requirement locked loot is unavailable.
 &lt;/tab&gt;
 &lt;/tabs&gt;
 
@@ -125,9 +128,9 @@ After Reaching Galar, the drop chance for items in Unova will be debuffed for an
       <username>ThePantMan</username>
       <id>8</id>
     </contributor>
-    <comment>/* Galar */</comment>
+    <comment>Text replacement - "Ultraball" to "Ultra Ball"</comment>
     <model>wikitext</model>
-    <parentid>10422</parentid>
-    <sha1>8749f94d14043e6bb0030be0f2451791d08186a5</sha1>
+    <parentid>33982</parentid>
+    <sha1>38c40f63bec19da794644e53605bee7fbd956fe1</sha1>
   </revision>
 </page></mediawiki>

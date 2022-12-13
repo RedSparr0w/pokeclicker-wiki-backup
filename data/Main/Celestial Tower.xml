@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>1744</id>
   <revision>
-    <id>33058</id>
-    <timestamp>2022-12-08T21:09:35Z</timestamp>
-    <text space="preserve" bytes="3891">{{Infobox dungeon
+    <id>33581</id>
+    <timestamp>2022-12-12T02:14:59Z</timestamp>
+    <text space="preserve" bytes="4023">{{Infobox dungeon
 |name    = Celestial Tower
 |image   = [[File:Celestial Tower.png|300px]]
 |caption = A map of Celestial Tower.
@@ -58,70 +58,71 @@
 ==Items==
 
 &lt;tabs&gt;
-&lt;tab name="No Debuff"&gt;
+&lt;tab name="Base"&gt;
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears
 |-
 | align="center" colspan=6| '''Common'''
 |-
-| {{Bag2|Lucky Egg}} || 2 || 49.99% || 48.11% || 40.43%
+| {{Bag2|Lucky Egg}} || 2 || 49.99% || 48.11% || 45.24% || 40.43%
 |-
-| {{Bag2|Token Collector}} || N/A || 24.99% || 24.05% || 20.21%
+| {{Bag2|Token Collector}} || 1 || 24.99% || 24.05% || 22.62% || 20.21%
 |-
 | align="center" colspan=6| '''Rare'''
 |-
-| {{Bag2|Blue Shard}} || N/A || 10.01% || 10.52% || 12.61%
+| {{Bag2|Blue Shard}} || 1 || 10.01% || 10.52% || 11.30% || 12.61%
 |-
-| {{Bag2|Yellow Shard}} || N/A || 10.01% || 10.52% || 12.61%
+| {{Bag2|Yellow Shard}} || 1 || 10.01% || 10.52% || 11.30% || 12.61%
 |-
 | align="center" colspan=6| '''Epic'''
 |-
-| {{Bag2|Spooky Plate}} || N/A || 2.01% || 2.61% || 5.05%
+| {{Bag2|Spooky Plate}} || 1 || 2.01% || 2.61% || 3.52% || 5.05%
 |-
-| {{Bag2|Mind Plate}} || N/A || 2.01% || 2.61% || 5.05%
+| {{Bag2|Mind Plate}} || 1 || 2.01% || 2.61% || 3.52% || 5.05%
 |-
 | align="center" colspan=6| '''Legendary'''
 |-
-| {{Bag2|Revive}} || 2 || 0.50% || 0.80% || 2.02%
+| {{Bag2|Revive}} || 2 || 0.50% || 0.80% || 1.25% || 2.02%
 |-
-| {{Bag2|Large Restore}} || N/A || 0.25% || 0.40% || 1.01%
+| {{Bag2|Large Restore}} || 1 || 0.25% || 0.40% || 0.63% || 1.01%
 |-
-| {{Bag2|Twisted Spoon}} || N/A || 0.25% || 0.40% || 1.01%
+| {{Bag2|Twisted Spoon}} || 1 || 0.25% || 0.40% || 0.63% || 1.01%
 |}
 &lt;/tab&gt;
 
 &lt;tab name="Debuff"&gt;
-After Reaching Galar, the drop chance for items in Unova will be debuffed for any loot with a Tier rarer than Rare (ie: Epic, Legendary, Mythic).
+After reaching [[Galar]], the drop chance for items will be [[Dungeons#Dungeon Loot Regional Debuff|debuffed]].
+
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears
 |-
 | align="center" colspan=6| '''Common'''
 |-
-| {{Bag2|Lucky Egg}} || 2 || 50.00% || 50.00% || 50.00%
+| {{Bag2|Lucky Egg}} || 2 || 50.00% || 50.00% || 50.00% || 50.00%
 |-
-| {{Bag2|Token Collector}} || N/A || 25.00% || 25.00% || 25.00%
+| {{Bag2|Token Collector}} || 1 || 25.00% || 25.00% || 25.00% || 25.00%
 |-
 | align="center" colspan=6| '''Rare'''
 |-
-| {{Bag2|Blue Shard}} || N/A || 12.00% || 12.00% || 12.00%
+| {{Bag2|Blue Shard}} || 1 || 12.00% || 12.00% || 12.00% || 12.00%
 |-
-| {{Bag2|Yellow Shard}} || N/A || 12.00% || 12.00% || 12.00%
+| {{Bag2|Yellow Shard}} || 1 || 12.00% || 12.00% || 12.00% || 12.00%
 |-
 | align="center" colspan=6| '''Epic'''
 |-
-| {{Bag2|Spooky Plate}} || N/A || 0.45% || 0.45% || 0.45%
+| {{Bag2|Spooky Plate}} || 1 || 0.45% || 0.45% || 0.45% || 0.45%
 |-
-| {{Bag2|Mind Plate}} || N/A || 0.45% || 0.45% || 0.45%
+| {{Bag2|Mind Plate}} || 1 || 0.45% || 0.45% || 0.45% || 0.45%
 |-
 | align="center" colspan=6| '''Legendary'''
 |-
-| {{Bag2|Revive}} || 2 || 0.05% || 0.05% || 0.05%
+| {{Bag2|Revive}} || 2 || 0.05% || 0.05% || 0.05% || 0.05%
 |-
-| {{Bag2|Large Restore}} || N/A || 0.03% || 0.03% || 0.03%
+| {{Bag2|Large Restore}} || 1 || 0.03% || 0.03% || 0.03% || 0.03%
 |-
-| {{Bag2|Twisted Spoon}} || N/A || 0.03% || 0.03% || 0.03%
+| {{Bag2|Twisted Spoon}} || 1 || 0.03% || 0.03% || 0.03% || 0.03%
 |}
 &lt;/tab&gt;
 &lt;/tabs&gt;
@@ -133,9 +134,9 @@ After Reaching Galar, the drop chance for items in Unova will be debuffed for an
       <username>ThePantMan</username>
       <id>8</id>
     </contributor>
-    <comment>/* Galar */</comment>
+    <comment>/* loot */</comment>
     <model>wikitext</model>
-    <parentid>10464</parentid>
-    <sha1>98275a871ff6c56161e4fb03a0b0a1ead154d2b7</sha1>
+    <parentid>33058</parentid>
+    <sha1>d6caa394fce806fc257eaadf0cbb04afc41b16ae</sha1>
   </revision>
 </page></mediawiki>

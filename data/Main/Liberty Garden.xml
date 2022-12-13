@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>1737</id>
   <revision>
-    <id>33028</id>
-    <timestamp>2022-12-08T16:49:24Z</timestamp>
-    <text space="preserve" bytes="2935">{{Infobox dungeon
+    <id>34074</id>
+    <timestamp>2022-12-12T20:45:26Z</timestamp>
+    <text space="preserve" bytes="3055">{{Infobox dungeon
 |name    = Liberty Garden
 |image   = [[File:Liberty Garden.png|300px]]
 |caption = A map of Liberty Garden.
@@ -55,66 +55,67 @@
 ==Items==
 
 &lt;tabs&gt;
-&lt;tab name="No Debuff"&gt;
+&lt;tab name="Base"&gt;
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears
 |-
 | align="center" colspan=6| '''Common'''
 |-
-| {{Bag2|Token Collector}} || N/A || 18.74% || 18.04% || 15.16%
+| {{Bag2|Token Collector}} || 1 || 18.74% || 18.04% || 16.97% || 15.16%
 |-
-| {{Bag2|Figy}} || 2 || 37.49% || 36.08% || 30.32%
+| {{Bag2|Figy}} || 2 || 37.49% || 36.08% || 33.93% || 30.32%
 |-
-| {{Bag2|Greatball}} || N/A || 18.74% || 18.04% || 15.16%
+| {{Bag2|Great Ball}} || 1 || 18.74% || 18.04% || 16.97% || 15.16%
 |-
 | align="center" colspan=6| '''Rare'''
 |-
-| {{Bag2|Blue Shard}} || N/A || 10.01% || 10.52% || 12.61%
+| {{Bag2|Blue Shard}} || 1 || 10.01% || 10.52% || 11.30% || 12.61%
 |-
-| {{Bag2|Green Shard}} || N/A || 10.01% || 10.52% || 12.61%
+| {{Bag2|Green Shard}} || 1 || 10.01% || 10.52% || 11.30% || 12.61%
 |-
 | align="center" colspan=6| '''Epic'''
 |-
-| {{Bag2|Flame Plate}} || N/A || 2.01% || 2.61% || 5.05%
+| {{Bag2|Flame Plate}} || 1 || 2.01% || 2.61% || 3.52% || 5.05%
 |-
-| {{Bag2|Mind Plate}} || N/A || 2.01% || 2.61% || 5.05%
+| {{Bag2|Mind Plate}} || 1 || 2.01% || 2.61% || 3.52% || 5.05%
 |-
 | align="center" colspan=6| '''Legendary'''
 |-
-| {{Bag2|Ultraball}} || N/A || 1.00% || 1.59% || 4.03%
+| {{Bag2|Ultra Ball}} || 1 || 1.00% || 1.59% || 2.50% || 4.03%
 |}
 &lt;/tab&gt;
 
 &lt;tab name="Debuff"&gt;
-After Reaching Galar, the drop chance for items in Unova will be debuffed for any loot with a Tier rarer than Rare (ie: Epic, Legendary, Mythic).
+After reaching [[Galar]], the drop chance for items will be [[Dungeons#Dungeon Loot Regional Debuff|debuffed]].
+
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears
 |-
 | align="center" colspan=6| '''Common'''
 |-
-| {{Bag2|Token Collector}} || N/A || 18.75% || 18.75% || 18.75%
+| {{Bag2|Token Collector}} || 1 || 18.75% || 18.75% || 18.75% || 18.75%
 |-
-| {{Bag2|Figy}} || 2 || 37.50% || 37.50% || 37.50%
+| {{Bag2|Figy}} || 2 || 37.50% || 37.50% || 37.50% || 37.50%
 |-
-| {{Bag2|Greatball}} || N/A || 18.75% || 18.75% || 18.75%
+| {{Bag2|Great Ball}} || 1 || 18.75% || 18.75% || 18.75% || 18.75%
 |-
 | align="center" colspan=6| '''Rare'''
 |-
-| {{Bag2|Blue Shard}} || N/A || 12.00% || 12.00% || 12.00%
+| {{Bag2|Blue Shard}} || 1 || 12.00% || 12.00% || 12.00% || 12.00%
 |-
-| {{Bag2|Green Shard}} || N/A || 12.00% || 12.00% || 12.00%
+| {{Bag2|Green Shard}} || 1 || 12.00% || 12.00% || 12.00% || 12.00%
 |-
 | align="center" colspan=6| '''Epic'''
 |-
-| {{Bag2|Flame Plate}} || N/A || 0.45% || 0.45% || 0.45%
+| {{Bag2|Flame Plate}} || 1 || 0.45% || 0.45% || 0.45% || 0.45%
 |-
-| {{Bag2|Mind Plate}} || N/A || 0.45% || 0.45% || 0.45%
+| {{Bag2|Mind Plate}} || 1 || 0.45% || 0.45% || 0.45% || 0.45%
 |-
 | align="center" colspan=6| '''Legendary'''
 |-
-| {{Bag2|Ultraball}} || N/A || 0.10% || 0.10% || 0.10%
+| {{Bag2|Ultra Ball}} || 1 || 0.10% || 0.10% || 0.10% || 0.10%
 |}
 &lt;/tab&gt;
 &lt;/tabs&gt;
@@ -126,9 +127,9 @@ After Reaching Galar, the drop chance for items in Unova will be debuffed for an
       <username>ThePantMan</username>
       <id>8</id>
     </contributor>
-    <comment>/* Galar */</comment>
+    <comment>Text replacement - "Ultraball" to "Ultra Ball"</comment>
     <model>wikitext</model>
-    <parentid>10361</parentid>
-    <sha1>4b7ba3a905a326d061064ca6b9d9869388e97a91</sha1>
+    <parentid>33981</parentid>
+    <sha1>a898b0fbac3ed5926720fb57cf5c821c8e88b691</sha1>
   </revision>
 </page></mediawiki>

@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>1739</id>
   <revision>
-    <id>33030</id>
-    <timestamp>2022-12-08T16:51:59Z</timestamp>
-    <text space="preserve" bytes="4117">{{Infobox dungeon
+    <id>33859</id>
+    <timestamp>2022-12-12T18:29:17Z</timestamp>
+    <text space="preserve" bytes="4450">{{Infobox dungeon
 |name    = Relic Passage
 |image   = [[File:Relic Passage.png|300px]]
 |caption = A map of Relic Passage.
@@ -60,67 +60,70 @@
 ==Items==
 
 &lt;tabs&gt;
-&lt;tab name="No Debuff"&gt;
+&lt;tab name="Base"&gt;
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears !! Requirement 
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears !! Requirement
 |-
-| align="center" colspan=6| '''Common'''
+| align="center" colspan=7| '''Common'''
 |-
-| {{Bag2|Lucky Egg}} || 2 || 49.98% || 48.00% || 40.00% || rowspan=2|&lt;center&gt; N/A
+| {{Bag2|Lucky Egg}} || 2 || 49.98% || 48.00% || 45.00% || 40.00% || rowspan=2| &lt;center&gt;N/A
 |-
-| {{Bag2|Dowsing Machine}} || N/A || 24.99% || 24.00% || 20.00%
+| {{Bag2|Dowsing Machine}} || 1 || 24.99% || 24.00% || 22.50% || 20.00%
 |-
-| align="center" colspan=6| '''Rare'''
+| align="center" colspan=7| '''Rare'''
 |-
-| {{Bag2|Red Shard}} || N/A || 10.00% || 10.50% || 12.47% || rowspan=2|&lt;center&gt; N/A
+| {{Bag2|Red Shard}} || 1 || 10.00% || 10.50% || 11.24% || 12.47% || rowspan=2| &lt;center&gt;N/A
 |-
-| {{Bag2|Yellow Shard}} || N/A || 10.00% || 10.50% || 12.47%
+| {{Bag2|Yellow Shard}} || 1 || 10.00% || 10.50% || 11.24% || 12.47%
 |-
-| align="center" colspan=6| '''Epic'''
+| align="center" colspan=7| '''Epic'''
 |-
-| {{Bag2|Stone Plate}} || N/A || 4.01% || 5.20% || 10.00% || &lt;center&gt; N/A
+| {{Bag2|Stone Plate}} || 1 || 4.01% || 5.20% || 7.00% || 10.00% || &lt;center&gt;N/A
 |-
-| align="center" colspan=6| '''Legendary'''
+| align="center" colspan=7| '''Legendary'''
 |-
-| {{Bag2|Hard Stone}} || N/A || 1.00% || 1.59% || 3.99% || &lt;center&gt; N/A
+| {{Bag2|Hard Stone}} || 1 || 1.00% || 1.59% || 2.49% || 3.99% || &lt;center&gt;N/A
 |-
-| align="center" colspan=6| '''Mythic'''
+| align="center" colspan=7| '''Mythic'''
 |-
-| {{Bag2|Protein}} || N/A || 0% || 0% || 1.06% || 300 Clears
+| {{Bag2|Protein}} || 1 || N/A || N/A || N/A || 1.06% || 300 Clears
 |}
+The odds are very slightly off due to chances getting redistributed while the requirement locked loot is unavailable.
 &lt;/tab&gt;
 
 &lt;tab name="Debuff"&gt;
-After Reaching Galar, the drop chance for items in Unova will be debuffed for any loot with a Tier rarer than Rare (ie: Epic, Legendary, Mythic).
+After reaching [[Galar]], the drop chance for items will be [[Dungeons#Dungeon Loot Regional Debuff|debuffed]].
+
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears !! Requirement
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears !! Requirement
 |-
-| align="center" colspan=6| '''Common'''
+| align="center" colspan=7| '''Common'''
 |-
-| {{Bag2|Lucky Egg}} || 2 || 50.00% || 50.00% || 50.00% || rowspan=2| &lt;center&gt;N/A
+| {{Bag2|Lucky Egg}} || 2 || 50.00% || 50.00% || 50.00% || 50.00% || rowspan=2| &lt;center&gt;N/A
 |-
-| {{Bag2|Dowsing Machine}} || N/A || 25.00% || 25.00% || 25.00%
+| {{Bag2|Dowsing Machine}} || 1 || 25.00% || 25.00% || 25.00% || 25.00%
 |-
-| align="center" colspan=6| '''Rare'''
+| align="center" colspan=7| '''Rare'''
 |-
-| {{Bag2|Red Shard}} || N/A || 12.00% || 12.00% || 12.00% || rowspan=2| &lt;center&gt;N/A
+| {{Bag2|Red Shard}} || 1 || 12.00% || 12.00% || 12.00% || 12.00% || rowspan=2| &lt;center&gt;N/A
 |-
-| {{Bag2|Yellow Shard}} || N/A || 12.00% || 12.00% || 12.00%
+| {{Bag2|Yellow Shard}} || 1 || 12.00% || 12.00% || 12.00% || 12.00%
 |-
-| align="center" colspan=6| '''Epic'''
+| align="center" colspan=7| '''Epic'''
 |-
-| {{Bag2|Stone Plate}} || N/A || 0.90% || 0.90% || 0.90% || &lt;center&gt;N/A
+| {{Bag2|Stone Plate}} || 1 || 0.90% || 0.90% || 0.90% || 0.90% || &lt;center&gt;N/A
 |-
-| align="center" colspan=6| '''Legendary'''
+| align="center" colspan=7| '''Legendary'''
 |-
-| {{Bag2|Hard Stone}} || N/A || 0.10% || 0.10% || 0.10% || &lt;center&gt;N/A
+| {{Bag2|Hard Stone}} || 1 || 0.10% || 0.10% || 0.10% || 0.10% || &lt;center&gt;N/A
 |-
-| align="center" colspan=6| '''Mythic'''
+| align="center" colspan=7| '''Mythic'''
 |-
-| {{Bag2|Protein}} || N/A || 0% || 0% || &lt;0.01% || 300 Clears
+| {{Bag2|Protein}} || 1 || N/A || N/A || N/A || &lt;0.01% || 300 Clears
 |}
+The odds are very slightly off due to chances getting redistributed while the requirement locked loot is unavailable.
 &lt;/tab&gt;
 &lt;/tabs&gt;
 
@@ -131,9 +134,9 @@ After Reaching Galar, the drop chance for items in Unova will be debuffed for an
       <username>ThePantMan</username>
       <id>8</id>
     </contributor>
-    <comment>/* Galar */</comment>
+    <comment>/* loot */</comment>
     <model>wikitext</model>
-    <parentid>10390</parentid>
-    <sha1>4eee296af26cdef77d3e3eeb0ed0c8585ead2b55</sha1>
+    <parentid>33030</parentid>
+    <sha1>69ff98208327275edbf3d60cac07be881b7fc070</sha1>
   </revision>
 </page></mediawiki>

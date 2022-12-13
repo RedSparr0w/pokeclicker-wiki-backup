@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>1749</id>
   <revision>
-    <id>33065</id>
-    <timestamp>2022-12-08T21:15:40Z</timestamp>
-    <text space="preserve" bytes="6383">{{Infobox dungeon
+    <id>34312</id>
+    <timestamp>2022-12-12T21:23:14Z</timestamp>
+    <text space="preserve" bytes="8117">{{Infobox dungeon
 |name    = Victory Road Unova
 |image   = [[File:Victory Road Unova.png|300px]]
 |caption = A map of Victory Road Unova.
@@ -93,64 +93,118 @@
 |}
 
 ==Items==
-
+&lt;tabs&gt;
+&lt;tab name="Base"&gt;
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears
 |-
 | align="center" colspan=6| '''Common'''
 |-
-| {{Bag2|xClick}} || 3 || 32.13% || 30.86% || 25.71%
+| {{Bag2|xClick}} || 3 || 32.13% || 30.86% || 28.93% || 25.71%
 |-
-| {{Bag2|xAttack}} || 3 || 32.13% || 30.86% || 25.71%
+| {{Bag2|xAttack}} || 3 || 32.13% || 30.86% || 28.93% || 25.71%
 |-
-| {{Pokemon|Zoroark}} || N/A || 10.71% || 10.29% || 8.57%
+| {{Pokemon|Zoroark|Mimic=Mimic}} || 1 || 10.71% || 10.29% || 9.64% || 8.57%
 |-
 | align="center" colspan=6| '''Rare'''
 |-
-| {{Bag2|Red Shard}} || N/A || 5.00% || 5.25% || 6.24%
+| {{Bag2|Red Shard}} || 1 || 5.00% || 5.25% || 5.62% || 6.24%
 |-
-| {{Bag2|Blue Shard}} || N/A || 5.00% || 5.25% || 6.24%
+| {{Bag2|Blue Shard}} || 1 || 5.00% || 5.25% || 5.62% || 6.24%
 |-
-| {{Bag2|Green Shard}} || N/A || 5.00% || 5.25% || 6.24%
+| {{Bag2|Green Shard}} || 1 || 5.00% || 5.25% || 5.62% || 6.24%
 |-
-| {{Bag2|Yellow Shard}} || N/A || 5.00% || 5.25% || 6.24%
+| {{Bag2|Yellow Shard}} || 1 || 5.00% || 5.25% || 5.62% || 6.24%
 |-
 | align="center" colspan=6| '''Epic'''
 |-
-| {{Bag2|Quickball}} || N/A || 0.80% || 1.04% || 2.00%
+| {{Bag2|Quick Ball}} || 1 || 0.80% || 1.04% || 1.40% || 2.00%
 |-
-| {{Bag2|Timerball}} || N/A || 0.80% || 1.04% || 2.00%
+| {{Bag2|Timer Ball}} || 1 || 0.80% || 1.04% || 1.40% || 2.00%
 |-
-| {{Bag2|Duskball}} || N/A || 0.80% || 1.04% || 2.00%
+| {{Bag2|Dusk Ball}} || 1 || 0.80% || 1.04% || 1.40% || 2.00%
 |-
-| {{Bag2|Nestball}} || N/A || 0.80% || 1.04% || 2.00%
+| {{Bag2|Nest Ball}} || 1 || 0.80% || 1.04% || 1.40% || 2.00%
 |-
-| {{Bag2|Repeatball}} || N/A || 0.80% || 1.04% || 2.00%
+| {{Bag2|Repeat Ball}} || 1 || 0.80% || 1.04% || 1.40% || 2.00%
 |-
 | align="center" colspan=6| '''Legendary'''
 |-
-| {{Bag2|Ultraball}} || N/A || 0.33% || 0.53% || 1.33%
+| {{Bag2|Ultra Ball}} || 1 || 0.33% || 0.53% || 0.83% || 1.33%
 |-
-| {{Bag2|Star Piece}} || N/A || 0.33% || 0.53% || 1.33%
+| {{Bag2|Star Piece}} || 1 || 0.33% || 0.53% || 0.83% || 1.33%
 |-
-| {{Bag2|Large Restore}} || N/A || 0.33% || 0.53% || 1.33%
+| {{Bag2|Large Restore}} || 1 || 0.33% || 0.53% || 0.83% || 1.33%
 |-
 | align="center" colspan=6| '''Mythic'''
 |-
-| {{Bag2|Max Revive}} || N/A || 0.01% || 0.22% || 1.06%
+| {{Bag2|Max Revive}} || 1 || 0.01% || 0.22% || 0.53% || 1.06%
 |}
+&lt;/tab&gt;
+&lt;tab name="Debuff"&gt;
+After reaching [[Galar]], the drop chance for items will be [[Dungeons#Dungeon Loot Regional Debuff|debuffed]].
+
+{| class="wikitable"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears
+|-
+| align="center" colspan=6| '''Common'''
+|-
+| {{Bag2|xClick}} || 3 || 32.14% || 32.14% || 32.14% || 32.14%
+|-
+| {{Bag2|xAttack}} || 3 || 32.14% || 32.14% || 32.14% || 32.14%
+|-
+| {{Pokemon|Zoroark|Mimic=Mimic}} || 1 || 10.71% || 10.71% || 10.71% || 10.71%
+|-
+| align="center" colspan=6| '''Rare'''
+|-
+| {{Bag2|Red Shard}} || 1 || 6.00% || 6.00% || 6.00% || 6.00%
+|-
+| {{Bag2|Blue Shard}} || 1 || 6.00% || 6.00% || 6.00% || 6.00%
+|-
+| {{Bag2|Green Shard}} || 1 || 6.00% || 6.00% || 6.00% || 6.00%
+|-
+| {{Bag2|Yellow Shard}} || 1 || 6.00% || 6.00% || 6.00% || 6.00%
+|-
+| align="center" colspan=6| '''Epic'''
+|-
+| {{Bag2|Quick Ball}} || 1 || 0.18% || 0.18% || 0.18% || 0.18%
+|-
+| {{Bag2|Timer Ball}} || 1 || 0.18% || 0.18% || 0.18% || 0.18%
+|-
+| {{Bag2|Dusk Ball}} || 1 || 0.18% || 0.18% || 0.18% || 0.18%
+|-
+| {{Bag2|Nest Ball}} || 1 || 0.18% || 0.18% || 0.18% || 0.18%
+|-
+| {{Bag2|Repeat Ball}} || 1 || 0.18% || 0.18% || 0.18% || 0.18%
+|-
+| align="center" colspan=6| '''Legendary'''
+|-
+| {{Bag2|Ultra Ball}} || 1 || 0.03% || 0.03% || 0.03% || 0.03%
+|-
+| {{Bag2|Star Piece}} || 1 || 0.03% || 0.03% || 0.03% || 0.03%
+|-
+| {{Bag2|Large Restore}} || 1 || 0.03% || 0.03% || 0.03% || 0.03%
+|-
+| align="center" colspan=6| '''Mythic'''
+|-
+| {{Bag2|Max Revive}} || 1 || &lt;0.01% || &lt;0.01% || &lt;0.01% || &lt;0.01%
+|}
+&lt;/tab&gt;
+&lt;/tabs&gt;
+
 
 {{Unova Dungeons}}
 
 [[Category:Dungeons|^Region #5 - Unova^q]]</text>
     <contributor>
-      <username>DraKay</username>
-      <id>18</id>
+      <username>ThePantMan</username>
+      <id>8</id>
     </contributor>
-    <comment>/* Wild Encounters */</comment>
+    <comment>Text replacement - "Quickball" to "Quick Ball"</comment>
     <model>wikitext</model>
-    <parentid>10542</parentid>
-    <sha1>91bf4e94d3b6307d2a62d5cb2ccc996bc63dbdc0</sha1>
+    <parentid>34292</parentid>
+    <sha1>e16bc7a945e5307eb252e1d855a3a9a5b29fe2ad</sha1>
   </revision>
 </page></mediawiki>

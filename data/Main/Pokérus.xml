@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>4271</id>
   <revision>
-    <id>33340</id>
-    <timestamp>2022-12-11T16:41:35Z</timestamp>
-    <text space="preserve" bytes="7263">&lt;languages/&gt;
+    <id>34265</id>
+    <timestamp>2022-12-12T21:16:46Z</timestamp>
+    <text space="preserve" bytes="7266">&lt;languages/&gt;
 &lt;translate&gt;
 &lt;!--T:1--&gt;
 [[File:Charmander_infected.png|thumb|200px|A Shiny Charmander in the Hatchery, infected by Pokérus [[File:Pokerus.png|20px]]]]
@@ -88,7 +88,7 @@ Different methods of catching a Pokémon will yield different amounts of EVs. If
 |-
 | 5x || Obtained Pokémon is [[Shiny Chance|Shiny]]. 
 |-
-| 5x || Pokémon is obtained using a [[Repeatball]]
+| 5x || Pokémon is obtained using a [[Repeat Ball]]
 |-
 | 50x || Pokémon is encountered and captured as a [[Roaming Pokemon]]
 |-
@@ -139,9 +139,9 @@ Different methods of catching a Pokémon will yield different amounts of EVs. If
 .
 
 ====Examples====
-Example 1: Catching a '''Shiny Dungeon Pokémon''' with a [[Repeatball]] yields: &lt;math&gt;0.1 * 3 * 5 * 5 = 7.5 EVs&lt;/math&gt;&lt;br&gt;&lt;br&gt;
+Example 1: Catching a '''Shiny Dungeon Pokémon''' with a [[Repeat Ball]] yields: &lt;math&gt;0.1 * 3 * 5 * 5 = 7.5 EVs&lt;/math&gt;&lt;br&gt;&lt;br&gt;
 Example 2: Catching a '''Shiny Roaming Pokémon''' yields: &lt;math&gt;0.1 * 5 * 50 = 25 EVs&lt;/math&gt;&lt;br&gt;&lt;br&gt;
-Example 3: Catching a '''Shiny Roaming Pokémon''' with a [[Repeatball]] yields: &lt;math&gt;0.1 * 5 * 5 * 50 = 125 EVs&lt;/math&gt;
+Example 3: Catching a '''Shiny Roaming Pokémon''' with a [[Repeat Ball]] yields: &lt;math&gt;0.1 * 5 * 5 * 50 = 125 EVs&lt;/math&gt;
 
 &lt;!--T:6--&gt;
 ===EV Damage Multiplier===
@@ -178,12 +178,12 @@ Pokemon that have: contracted Pokérus, have left the hatchery after contracting
 &lt;math&gt;\colorbox{White}{$ \text{EV Damage Multiplier} = \text{EVs}^{(\frac{\log 1.5}{\log 50})}$}&lt;/math&gt;
 &lt;/translate&gt;</text>
     <contributor>
-      <username>DraKay</username>
-      <id>18</id>
+      <username>ThePantMan</username>
+      <id>8</id>
     </contributor>
-    <comment>/* EV Modifiers */</comment>
+    <comment>Text replacement - "Repeatball" to "Repeat Ball"</comment>
     <model>wikitext</model>
-    <parentid>33339</parentid>
-    <sha1>7ed29ac2253b029f0839f5a46f72509aab9f88f1</sha1>
+    <parentid>33340</parentid>
+    <sha1>393b7e3e7cd126f23cdc86ef106f76c22a5dffbc</sha1>
   </revision>
 </page></mediawiki>

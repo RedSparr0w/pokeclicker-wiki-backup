@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>4406</id>
   <revision>
-    <id>33514</id>
-    <timestamp>2022-12-12T01:16:26Z</timestamp>
-    <text space="preserve" bytes="4749">{{Infobox dungeon
+    <id>33839</id>
+    <timestamp>2022-12-12T18:07:05Z</timestamp>
+    <text space="preserve" bytes="4985">{{Infobox dungeon
 |name    = Berry Forest
 |image   = [[File:Berry Forest.png|thumb]]
 |caption = A map of Berry Forest.
@@ -120,6 +120,7 @@
 |-
 | {{Bag2|Lum}} || 1 || N/A || N/A || N/A || 1.10% || 400 Clears
 |}
+The odds are very slightly off due to chances getting redistributed while the requirement locked loot is unavailable.
 &lt;/tab&gt;
 
 &lt;tab name="Debuff"&gt;
@@ -173,6 +174,7 @@ After reaching [[Sinnoh]], the drop chance for items will be [[Dungeons#Dungeon 
 |-
 | {{Bag2|Lum}} || 1 || N/A || N/A || N/A || &lt;0.01% || 400 Clears
 |}
+The odds are very slightly off due to chances getting redistributed while the requirement locked loot is unavailable.
 &lt;/tab&gt;
 &lt;/tabs&gt;
 
@@ -183,9 +185,9 @@ After reaching [[Sinnoh]], the drop chance for items will be [[Dungeons#Dungeon 
       <username>ThePantMan</username>
       <id>8</id>
     </contributor>
-    <comment>/* lum */</comment>
+    <comment>/* loot */</comment>
     <model>wikitext</model>
-    <parentid>33479</parentid>
-    <sha1>b24dd2058d6573193f83f9b755f5c51e62837872</sha1>
+    <parentid>33514</parentid>
+    <sha1>ba11e6140d8e28cd617acbfd33d8672294a80c83</sha1>
   </revision>
 </page></mediawiki>

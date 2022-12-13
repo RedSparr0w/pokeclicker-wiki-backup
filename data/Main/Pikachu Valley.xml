@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>3984</id>
   <revision>
-    <id>14553</id>
-    <timestamp>2022-07-27T03:01:40Z</timestamp>
-    <text space="preserve" bytes="2055">{{Infobox dungeon
+    <id>33611</id>
+    <timestamp>2022-12-12T02:39:57Z</timestamp>
+    <text space="preserve" bytes="2257">{{Infobox dungeon
 |name    = Pikachu Valley
 |image   = [[File:Pikachu Valley.png|300px]]
 |caption = A map of Pikachu Valley.
@@ -62,37 +62,45 @@
 |}
 
 ==Items==
-
+&lt;tabs&gt;
+&lt;tab name="Base"&gt;
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears
 |-
 | align="center" colspan=6| '''Common'''
 |-
-| {{Bag2|Dowsing Machine}} || N/A || 37.87% || 36.66% || 31.60%
+| {{Bag2|Dowsing Machine}} || 1 || 37.49% || 36.08% || 33.93% || 30.32%
 |-
-| {{Bag2|Cheri}} || N/A || 37.87% || 36.66% || 31.60%
+| {{Bag2|Cheri}} || 1 || 37.49% || 36.08% || 33.93% || 30.32%
 |-
 | align="center" colspan=6| '''Rare'''
 |-
-| {{Bag2|Green Shard}} || N/A || 10.11% || 10.69% || 13.14%
+| {{Bag2|Green Shard}} || 1 || 10.01% || 10.52% || 11.30% || 12.61%
 |-
-| {{Bag2|Yellow Shard}} || N/A || 10.11% || 10.69% || 13.14%
+| {{Bag2|Yellow Shard}} || 1 || 10.01% || 10.52% || 11.30% || 12.61%
 |-
 | align="center" colspan=6| '''Epic'''
 |-
-| {{Bag2|Zap Plate}} || N/A || 4.05% || 5.30% || 10.53%
+| {{Bag2|Zap Plate}} || 1 || 4.01% || 5.21% || 7.04% || 10.11%
+|-
+| align="center" colspan=6| '''Legendary'''
+|-
+| {{Bag2|Magnet}} || 1 || 1.00% || 1.59% || 2.50% || 4.03%
 |}
+&lt;/tab&gt;
+&lt;/tabs&gt;
+
 
 {{Alola Dungeons}}
 [[Category:Dungeons|^Region #7 - Alola^g]]</text>
     <contributor>
-      <username>LatiosRider</username>
-      <id>35</id>
+      <username>ThePantMan</username>
+      <id>8</id>
     </contributor>
-    <comment>Add Category header</comment>
+    <comment>/* loot */</comment>
     <model>wikitext</model>
-    <parentid>14552</parentid>
-    <sha1>bdcc70f36d917e47c96851aade760fdae6b0d328</sha1>
+    <parentid>14553</parentid>
+    <sha1>762deff76b924468ede34ebf6479e30a9cd1b3f5</sha1>
   </revision>
 </page></mediawiki>

@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>1743</id>
   <revision>
-    <id>33057</id>
-    <timestamp>2022-12-08T21:08:21Z</timestamp>
-    <text space="preserve" bytes="3699">{{Infobox dungeon
+    <id>34225</id>
+    <timestamp>2022-12-12T21:10:20Z</timestamp>
+    <text space="preserve" bytes="3875">{{Infobox dungeon
 |name    = Mistralton Cave
 |image   = [[File:Mistralton Cave.png|300px]]
 |caption = A map of Mistralton Cave.
@@ -50,82 +50,83 @@
 ==Items==
 
 &lt;tabs&gt;
-&lt;tab name="No Debuff"&gt;
+&lt;tab name="Base"&gt;
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears
 |-
 | align="center" colspan=6| '''Common'''
 |-
-| {{Bag2|xClick}} || 2 || 49.99% || 48.11% || 40.43%
+| {{Bag2|xClick}} || 2 || 49.99% || 48.11% || 45.24% || 40.43%
 |-
-| {{Bag2|Greatball}} || N/A || 24.99% || 24.05% || 20.21%
+| {{Bag2|Great Ball}} || 1 || 24.99% || 24.05% || 22.62% || 20.21%
 |-
 | align="center" colspan=6| '''Rare'''
 |-
-| {{Bag2|Red Shard}} || N/A || 10.01% || 10.52% || 12.61%
+| {{Bag2|Red Shard}} || 1 || 10.01% || 10.52% || 11.30% || 12.61%
 |-
-| {{Bag2|Green Shard}} || N/A || 10.01% || 10.52% || 12.61%
+| {{Bag2|Green Shard}} || 1 || 10.01% || 10.52% || 11.30% || 12.61%
 |-
 | align="center" colspan=6| '''Epic'''
 |-
-| {{Bag2|Draco Plate}} || N/A || 1.34% || 1.74% || 3.37%
+| {{Bag2|Draco Plate}} || 1 || 1.34% || 1.74% || 2.35% || 3.37%
 |-
-| {{Bag2|Fist Plate}} || N/A || 1.34% || 1.74% || 3.37%
+| {{Bag2|Fist Plate}} || 1 || 1.34% || 1.74% || 2.35% || 3.37%
 |-
-| {{Bag2|Iron Plate}} || N/A || 1.34% || 1.74% || 3.37%
+| {{Bag2|Iron Plate}} || 1 || 1.34% || 1.74% || 2.35% || 3.37%
 |-
 | align="center" colspan=6| '''Legendary'''
 |-
-| {{Bag2|Ultraball}} || N/A || 0.20% || 0.32% || 0.81%
+| {{Bag2|Ultra Ball}} || 1 || 0.20% || 0.32% || 0.50% || 0.81%
 |-
-| {{Bag2|Revive}} || N/A || 0.20% || 0.32% || 0.81%
+| {{Bag2|Revive}} || 1 || 0.20% || 0.32% || 0.50% || 0.81%
 |-
-| {{Bag2|Hard Stone}} || N/A || 0.20% || 0.32% || 0.81%
+| {{Bag2|Hard Stone}} || 1 || 0.20% || 0.32% || 0.50% || 0.81%
 |-
-| {{Bag2|Duskball}} || N/A || 0.20% || 0.32% || 0.81%
+| {{Bag2|Dusk Ball}} || 1 || 0.20% || 0.32% || 0.50% || 0.81%
 |-
-| {{Bag2|Large Restore}} || N/A || 0.20% || 0.32% || 0.81%
+| {{Bag2|Large Restore}} || 1 || 0.20% || 0.32% || 0.50% || 0.81%
 |}
 &lt;/tab&gt;
 
 &lt;tab name="Debuff"&gt;
-After Reaching Galar, the drop chance for items in Unova will be debuffed for any loot with a Tier rarer than Rare (ie: Epic, Legendary, Mythic).
+After reaching [[Galar]], the drop chance for items will be [[Dungeons#Dungeon Loot Regional Debuff|debuffed]].
+
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears
 |-
 | align="center" colspan=6| '''Common'''
 |-
-| {{Bag2|xClick}} || 2 || 50.00% || 50.00% || 50.00%
+| {{Bag2|xClick}} || 2 || 50.00% || 50.00% || 50.00% || 50.00%
 |-
-| {{Bag2|Greatball}} || N/A || 25.00% || 25.00% || 25.00%
+| {{Bag2|Great Ball}} || 1 || 25.00% || 25.00% || 25.00% || 25.00%
 |-
 | align="center" colspan=6| '''Rare'''
 |-
-| {{Bag2|Red Shard}} || N/A || 12.00% || 12.00% || 12.00%
+| {{Bag2|Red Shard}} || 1 || 12.00% || 12.00% || 12.00% || 12.00%
 |-
-| {{Bag2|Green Shard}} || N/A || 12.00% || 12.00% || 12.00%
+| {{Bag2|Green Shard}} || 1 || 12.00% || 12.00% || 12.00% || 12.00%
 |-
 | align="center" colspan=6| '''Epic'''
 |-
-| {{Bag2|Draco Plate}} || N/A || 0.30% || 0.30% || 0.30%
+| {{Bag2|Draco Plate}} || 1 || 0.30% || 0.30% || 0.30% || 0.30%
 |-
-| {{Bag2|Fist Plate}} || N/A || 0.30% || 0.30% || 0.30%
+| {{Bag2|Fist Plate}} || 1 || 0.30% || 0.30% || 0.30% || 0.30%
 |-
-| {{Bag2|Iron Plate}} || N/A || 0.30% || 0.30% || 0.30%
+| {{Bag2|Iron Plate}} || 1 || 0.30% || 0.30% || 0.30% || 0.30%
 |-
 | align="center" colspan=6| '''Legendary'''
 |-
-| {{Bag2|Ultraball}} || N/A || 0.02% || 0.02% || 0.02%
+| {{Bag2|Ultra Ball}} || 1 || 0.02% || 0.02% || 0.02% || 0.02%
 |-
-| {{Bag2|Revive}} || N/A || 0.02% || 0.02% || 0.02%
+| {{Bag2|Revive}} || 1 || 0.02% || 0.02% || 0.02% || 0.02%
 |-
-| {{Bag2|Hard Stone}} || N/A || 0.02% || 0.02% || 0.02%
+| {{Bag2|Hard Stone}} || 1 || 0.02% || 0.02% || 0.02% || 0.02%
 |-
-| {{Bag2|Duskball}} || N/A || 0.02% || 0.02% || 0.02%
+| {{Bag2|Dusk Ball}} || 1 || 0.02% || 0.02% || 0.02% || 0.02%
 |-
-| {{Bag2|Large Restore}} || N/A || 0.02% || 0.02% || 0.02%
+| {{Bag2|Large Restore}} || 1 || 0.02% || 0.02% || 0.02% || 0.02%
 |}
 &lt;/tab&gt;
 &lt;/tabs&gt;
@@ -137,9 +138,9 @@ After Reaching Galar, the drop chance for items in Unova will be debuffed for an
       <username>ThePantMan</username>
       <id>8</id>
     </contributor>
-    <comment>/* Galar */</comment>
+    <comment>Text replacement - "Duskball" to "Dusk Ball"</comment>
     <model>wikitext</model>
-    <parentid>10451</parentid>
-    <sha1>80487e459cd9157237387b79955f3b8c9a2be804</sha1>
+    <parentid>34076</parentid>
+    <sha1>1c4183248d1a25515f6b1a21d88615cc4734fe7a</sha1>
   </revision>
 </page></mediawiki>

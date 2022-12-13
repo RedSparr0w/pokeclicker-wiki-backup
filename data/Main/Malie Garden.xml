@@ -4,14 +4,14 @@
   <ns>0</ns>
   <id>4032</id>
   <revision>
-    <id>14679</id>
-    <timestamp>2022-08-02T21:45:10Z</timestamp>
-    <text space="preserve" bytes="3082">{{Infobox dungeon
+    <id>34340</id>
+    <timestamp>2022-12-12T21:28:45Z</timestamp>
+    <text space="preserve" bytes="3194">{{Infobox dungeon
 |name    = Malie Garden
 |image   = [[File:Malie Garden.png|300px]]
 |caption = A map of Malie Garden.
 |tokens  = 975,000
-|location = North of Malie City.
+|location = Northwest of Malie City.
 }}
 
 '''Malie Garden''' is a [[Dungeons|dungeon]] in [[Alola]]. It initially has 121 tiles arranged in a 11x11 square, including 11 chest tiles, 41 non-boss encounter tiles, and 1 boss encounter tile. Wild Encounters have 13,483,476 HP.
@@ -71,33 +71,37 @@
 |}
 
 ==Items==
-
+&lt;tabs&gt;
+&lt;tab name="Base"&gt;
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears
 |-
 | align="center" colspan=6| '''Common'''
 |-
-| {{Bag2|xClick}} || N/A || 37.49% || 36.08% || 30.32%
+| {{Bag2|xClick}} || 1 || 37.49% || 36.08% || 33.93% || 30.32%
 |-
-| {{Bag2|Token Collector}} || N/A || 37.49% || 36.08% || 30.32%
+| {{Bag2|Token Collector}} || 1 || 37.49% || 36.08% || 33.93% || 30.32%
 |-
 | align="center" colspan=6| '''Rare'''
 |-
-| {{Bag2|Green Shard}} || N/A || 10.01% || 10.52% || 12.61%
+| {{Bag2|Green Shard}} || 1 || 10.01% || 10.52% || 11.30% || 12.61%
 |-
-| {{Bag2|Blue Shard}} || N/A || 10.01% || 10.52% || 12.61%
+| {{Bag2|Blue Shard}} || 1 || 10.01% || 10.52% || 11.30% || 12.61%
 |-
 | align="center" colspan=6| '''Epic'''
 |-
-| {{Bag2|Spooky Plate}} || N/A || 2.01% || 2.61% || 5.05%
+| {{Bag2|Spooky Plate}} || 1 || 2.01% || 2.61% || 3.52% || 5.05%
 |-
-| {{Bag2|Luxuryball}} || N/A || 2.01% || 2.61% || 5.05%
+| {{Bag2|Luxury Ball}} || 1 || 2.01% || 2.61% || 3.52% || 5.05%
 |-
 | align="center" colspan=6| '''Legendary'''
 |-
-| {{Bag2|Rare Bone}} || N/A || 1.00% || 1.59% || 4.03%
+| {{Bag2|Rare Bone}} || 1 || 1.00% || 1.59% || 2.50% || 4.03%
 |}
+&lt;/tab&gt;
+&lt;/tabs&gt;
+
 
 {{Alola Dungeons}}
 [[Category:Dungeons|^Region #7 - Alola^n]]</text>
@@ -105,9 +109,9 @@
       <username>ThePantMan</username>
       <id>8</id>
     </contributor>
-    <comment>/* Wild Encounters - added Kartana */</comment>
+    <comment>Text replacement - "Luxuryball" to "Luxury Ball"</comment>
     <model>wikitext</model>
-    <parentid>14678</parentid>
-    <sha1>64fea582610d0e9029ff91a4d5071c30392e97d5</sha1>
+    <parentid>33618</parentid>
+    <sha1>a020dab2941341f0457cc1569b953ee4c4082b70</sha1>
   </revision>
 </page></mediawiki>

@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>2909</id>
   <revision>
-    <id>33316</id>
-    <timestamp>2022-12-11T06:44:32Z</timestamp>
-    <text space="preserve" bytes="2035">{{Infobox dungeon
+    <id>34199</id>
+    <timestamp>2022-12-12T21:05:34Z</timestamp>
+    <text space="preserve" bytes="2240">{{Infobox dungeon
 |name    = Sea Spirit's Den
 |image   = [[File:Sea Spirit's Den.png|250px]]
 |caption = A map of Sea Spirit's Den.
@@ -49,52 +49,58 @@
 |}
 
 ==Items==
-
+&lt;tabs&gt;
+&lt;tab name="Base"&gt;
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears
 |-
 | align="center" colspan=6| '''Common'''
 |-
-| {{Bag2|xClick}} || 2 || 49.99% || 48.11% || 40.43%
+| {{Bag2|xClick}} || 2 || 49.99% || 48.11% || 45.24% || 40.43%
 |-
-| {{Bag2|Bluk}} || N/A || 24.99% || 24.05% || 20.21%
+| {{Bag2|Bluk}} || 1 || 24.99% || 24.05% || 22.62% || 20.21%
 |-
 | align="center" colspan=6| '''Rare'''
 |-
-| {{Bag2|Blue Shard}} || N/A || 20.01% || 21.04% || 25.22%
+| {{Bag2|Blue Shard}} || 1 || 20.01% || 21.04% || 22.60% || 25.22%
 |-
 | align="center" colspan=6| '''Epic'''
 |-
-| {{Bag2|Flame Plate}} || N/A || 0.67% || 0.87% || 1.68%
+| {{Bag2|Flame Plate}} || 1 || 0.67% || 0.87% || 1.17% || 1.68%
 |-
-| {{Bag2|Sky Plate}} || N/A || 0.67% || 0.87% || 1.68%
+| {{Bag2|Sky Plate}} || 1 || 0.67% || 0.87% || 1.17% || 1.68%
 |-
-| {{Bag2|Icicle Plate}} || N/A || 0.67% || 0.87% || 1.68%
+| {{Bag2|Icicle Plate}} || 1 || 0.67% || 0.87% || 1.17% || 1.68%
 |-
-| {{Bag2|Zap Plate}} || N/A || 0.67% || 0.87% || 1.68%
+| {{Bag2|Zap Plate}} || 1 || 0.67% || 0.87% || 1.17% || 1.68%
 |-
-| {{Bag2|Mind Plate}} || N/A || 0.67% || 0.87% || 1.68%
+| {{Bag2|Mind Plate}} || 1 || 0.67% || 0.87% || 1.17% || 1.68%
 |-
-| {{Bag2|Lureball}} || N/A || 0.67% || 0.87% || 1.68%
+| {{Bag2|Lure Ball}} || 1 || 0.67% || 0.87% || 1.17% || 1.68%
 |-
 | align="center" colspan=6| '''Legendary'''
 |-
-| {{Bag2|Hard Stone}} || N/A || 0.50% || 0.80% || 2.02%
+| {{Bag2|Hard Stone}} || 1 || 0.33% || 0.53% || 0.83% || 1.34%
 |-
-| {{Bag2|Damp Rock}} || N/A || 0.50% || 0.80% || 2.02%
+| {{Bag2|Damp Rock}} || 1 || 0.33% || 0.53% || 0.83% || 1.34%
+|-
+| {{Bag2|Mystic Water}} || 1 || 0.33% || 0.53% || 0.83% || 1.34%
 |}
+&lt;/tab&gt;
+&lt;/tabs&gt;
+
 
 {{Kalos Dungeons}}
 
 [[Category:Dungeons|^Region #6 - Kalos^g]]</text>
     <contributor>
-      <username>Razorflame</username>
-      <id>9</id>
+      <username>ThePantMan</username>
+      <id>8</id>
     </contributor>
-    <comment>Updating token amount</comment>
+    <comment>Text replacement - "Lureball" to "Lure Ball"</comment>
     <model>wikitext</model>
-    <parentid>12231</parentid>
-    <sha1>e3fda937f168fb195979570e1345a86af8ed8f2a</sha1>
+    <parentid>33596</parentid>
+    <sha1>847a8ff4a98b49919a3ef9a7a3a8a27af728269a</sha1>
   </revision>
 </page></mediawiki>

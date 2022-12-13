@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>2915</id>
   <revision>
-    <id>12256</id>
-    <timestamp>2022-07-27T02:55:24Z</timestamp>
-    <text space="preserve" bytes="2704">{{Infobox dungeon
+    <id>34344</id>
+    <timestamp>2022-12-12T21:28:46Z</timestamp>
+    <text space="preserve" bytes="2868">{{Infobox dungeon
 |name    = Pokéball Factory
 |image   = [[File:Pokéball Factory.png|250px]]
 |caption = A map of Pokéball Factory.
@@ -49,54 +49,58 @@
 |}
 
 ==Items==
-
+&lt;tabs&gt;
+&lt;tab name="Base"&gt;
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears
 |-
 | align="center" colspan=6| '''Common'''
 |-
-| {{Bag2|Pokéball}} || 4 || 43.28% || 41.90% || 36.11%
+| {{Bag2|Poké Ball}} || 4 || 43.28% || 41.90% || 39.77% || 36.11%
 |-
-| {{Bag2|Greatball}} || 2 || 21.64% || 20.95% || 18.05%
+| {{Bag2|Great Ball}} || 2 || 21.64% || 20.95% || 19.89% || 18.05%
 |-
-| {{Bag2|Ultraball}} || N/A || 10.82% || 10.48% || 9.03%
+| {{Bag2|Ultra Ball}} || 1 || 10.82% || 10.48% || 9.94% || 9.03%
 |-
 | align="center" colspan=6| '''Rare'''
 |-
-| {{Bag2|Yellow Shard}} || N/A || 10.11% || 10.69% || 13.14%
+| {{Bag2|Yellow Shard}} || 1 || 10.11% || 10.69% || 11.59% || 13.14%
 |-
-| {{Bag2|Pink Shard}} || N/A || 10.11% || 10.69% || 13.14%
+| {{Bag2|Pink Shard}} || 1 || 10.11% || 10.69% || 11.59% || 13.14%
 |-
 | align="center" colspan=6| '''Epic'''
 |-
-| {{Bag2|Duskball}} || N/A || 0.51% || 0.66% || 1.32%
+| {{Bag2|Dusk Ball}} || 1 || 0.51% || 0.66% || 0.90% || 1.32%
 |-
-| {{Bag2|Quickball}} || N/A || 0.51% || 0.66% || 1.32%
+| {{Bag2|Quick Ball}} || 1 || 0.51% || 0.66% || 0.90% || 1.32%
 |-
-| {{Bag2|Fastball}} || N/A || 0.51% || 0.66% || 1.32%
+| {{Bag2|Fast Ball}} || 1 || 0.51% || 0.66% || 0.90% || 1.32%
 |-
-| {{Bag2|Timerball}} || N/A || 0.51% || 0.66% || 1.32%
+| {{Bag2|Timer Ball}} || 1 || 0.51% || 0.66% || 0.90% || 1.32%
 |-
-| {{Bag2|Luxuryball}} || N/A || 0.51% || 0.66% || 1.32%
+| {{Bag2|Luxury Ball}} || 1 || 0.51% || 0.66% || 0.90% || 1.32%
 |-
-| {{Bag2|Lureball}} || N/A || 0.51% || 0.66% || 1.32%
+| {{Bag2|Lure Ball}} || 1 || 0.51% || 0.66% || 0.90% || 1.32%
 |-
-| {{Bag2|Diveball}} || N/A || 0.51% || 0.66% || 1.32%
+| {{Bag2|Dive Ball}} || 1 || 0.51% || 0.66% || 0.90% || 1.32%
 |-
-| {{Bag2|Repeatball}} || N/A || 0.51% || 0.66% || 1.32%
+| {{Bag2|Repeat Ball}} || 1 || 0.51% || 0.66% || 0.90% || 1.32%
 |}
+&lt;/tab&gt;
+&lt;/tabs&gt;
+
 
 {{Kalos Dungeons}}
 
 [[Category:Dungeons|^Region #6 - Kalos^h]]</text>
     <contributor>
-      <username>LatiosRider</username>
-      <id>35</id>
+      <username>ThePantMan</username>
+      <id>8</id>
     </contributor>
-    <comment>Add Category header</comment>
+    <comment>Text replacement - "Luxuryball" to "Luxury Ball"</comment>
     <model>wikitext</model>
-    <parentid>12255</parentid>
-    <sha1>7522e84c13960a3f40e8a3157c49c2f88762d00c</sha1>
+    <parentid>34328</parentid>
+    <sha1>3b117422cdd2f535e8d6bf24b7b49599e15fb4ee</sha1>
   </revision>
 </page></mediawiki>

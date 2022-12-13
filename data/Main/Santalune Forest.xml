@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>2898</id>
   <revision>
-    <id>12146</id>
-    <timestamp>2022-07-27T02:52:42Z</timestamp>
-    <text space="preserve" bytes="2274">{{Infobox dungeon
+    <id>33905</id>
+    <timestamp>2022-12-12T19:11:26Z</timestamp>
+    <text space="preserve" bytes="2446">{{Infobox dungeon
 |name    = Santalune Forest
 |image   = [[File:Santalune Forest.png|250px]]
 |caption = A map of Santalune Forest.
@@ -59,41 +59,48 @@
 
 ==Items==
 
+&lt;tabs&gt;
+&lt;tab name="Base"&gt;
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears
 |-
 | align="center" colspan=6| '''Common'''
 |-
-| {{Bag2|Pokéball}} || 2 || 49.99% || 48.11% || 40.43%
+| {{Bag2|Poké Ball}} || 2 || 49.99% || 48.11% || 45.24% || 40.43%
 |-
-| {{Bag2|Lucky Incense}} || N/A || 24.99% || 24.05% || 20.21%
+| {{Bag2|Lucky Incense}} || 1 || 24.99% || 24.05% || 22.62% || 20.21%
 |-
 | align="center" colspan=6| '''Rare'''
 |-
-| {{Bag2|Green Shard}} || N/A || 20.01% || 21.04% || 25.22%
+| {{Bag2|Green Shard}} || 1 || 20.01% || 21.04% || 22.60% || 25.22%
 |-
 | align="center" colspan=6| '''Epic'''
 |-
-| {{Bag2|Insect Plate}} || N/A || 2.01% || 2.61% || 5.05%
+| {{Bag2|Insect Plate}} || 1 || 2.01% || 2.61% || 3.52% || 5.05%
 |-
-| {{Bag2|Fist Plate}} || N/A || 2.01% || 2.61% || 5.05%
+| {{Bag2|Fist Plate}} || 1 || 2.01% || 2.61% || 3.52% || 5.05%
 |-
 | align="center" colspan=6| '''Legendary'''
 |-
-| {{Bag2|Small Restore}} || N/A || 1.00% || 1.59% || 4.03%
+| {{Bag2|Small Restore}} || 1 || 0.50% || 0.80% || 1.25% || 2.02%
+|-
+| {{Bag2|Silver Powder}} || 1 || 0.50% || 0.80% || 1.25% || 2.02%
 |}
+&lt;/tab&gt;
+&lt;/tabs&gt;
+
 
 {{Kalos Dungeons}}
 
 [[Category:Dungeons|^Region #6 - Kalos^a]]</text>
     <contributor>
-      <username>LatiosRider</username>
-      <id>35</id>
+      <username>ThePantMan</username>
+      <id>8</id>
     </contributor>
-    <comment>Add Category header</comment>
+    <comment>Text replacement - "Pokéball" to "Poké Ball"</comment>
     <model>wikitext</model>
-    <parentid>12145</parentid>
-    <sha1>1664a0b579c53da9c895c5e4097d5103a7a2a9c4</sha1>
+    <parentid>33591</parentid>
+    <sha1>8bcc8998ff6b6e0a175129f1add3687ba9568132</sha1>
   </revision>
 </page></mediawiki>

@@ -1,0 +1,68 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Lure Ball/fr</title>
+  <ns>0</ns>
+  <id>8558</id>
+  <revision>
+    <id>34196</id>
+    <timestamp>2022-12-12T21:05:32Z</timestamp>
+    <text space="preserve" bytes="1366">&lt;languages/&gt;
+
+{{Infobox Pokéball
+|name       = Appât Ball
+|image      = [[File:Lure Ball.png]]
+|caption    = Image en jeu de l'''Appât Ball''.
+|price      = Variable
+|catchTime  = 1,25s
+|catchRate = Variable
+*+15% sur un Pokémon pêché
+*+0% autrement
+|location   = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*[[Lure Ball/fr#Dungeons|Dungeons]]
+}}
+
+==Description==
+
+L' '''Appât Ball''' est un type de [[Pokéballs/fr|Poké Ball]]. Elle est automatiquement lancée pour capturer un Pokémon sauvage après l'avoir mis KO s'il s'agit du plus haut type de Ball actif et qu'il vous en reste dans la fenètre de sélection de Poké Ball.
+
+==Détails==
+
+Une Ball spécialisée pour attraper les Pokémon pêchés.
+
+===Taux===
+
+{| class="wikitable"
+|+ Appât Ball
+|-
+! Situation !! Modificateur du taux de capture
+|-
+| Pokémon pêché || +15%
+|-
+| Toute autre || +0% (égal à une Poké Ball)
+|-
+|}
+
+==Acquisition==
+{{Loot/head‎|Pokéballs}}
+{{LootItem|Slowpoke Well|Puits Ramoloss|Épique}}
+{{LootItem|Aqua Hideout|Planque Aqua|Épique}}
+{{LootItem|Lake Valor|Lac Courage|Épique}}
+{{LootItem|Seaside Cave|Grotte Littorale (Unys)|Épique}}
+{{LootItem|Sea Spirit's Den|Antre Néréen|Épique}}
+{{LootItem|Pokéball Factory|Usine de Poké Balls|Épique}}
+{{LootItem|Seaward Cave|Grotte Verlamer|Épique}}
+|}
+|}
+
+&lt;br&gt;{{Pokéballs}}&lt;br&gt;
+[[Category:Items]] [[Category:Pokéballs]]</text>
+    <contributor>
+      <username>ThePantMan</username>
+      <id>8</id>
+    </contributor>
+    <comment>Text replacement - "Lureball" to "Lure Ball"</comment>
+    <model>wikitext</model>
+    <parentid>34190</parentid>
+    <sha1>a70292161bad6e1467bfeed28eebe03226d137ff</sha1>
+  </revision>
+</page></mediawiki>

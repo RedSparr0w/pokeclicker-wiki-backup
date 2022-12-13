@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>4023</id>
   <revision>
-    <id>14608</id>
-    <timestamp>2022-07-27T03:02:47Z</timestamp>
-    <text space="preserve" bytes="3377">{{Infobox dungeon
+    <id>34244</id>
+    <timestamp>2022-12-12T21:12:14Z</timestamp>
+    <text space="preserve" bytes="3559">{{Infobox dungeon
 |name    = Brooklet Hill
 |image   = [[File:Brooklet Hill.png|300px]]
 |caption = A map of Brooklet Hill.
@@ -73,47 +73,53 @@
 '''*Must be Alola Champion to Unlock'''
 
 ==Items==
-
+&lt;tabs&gt;
+&lt;tab name="Base"&gt;
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears
 |-
 | align="center" colspan=6| '''Common'''
 |-
-| {{Bag2|xAttack}} || N/A || 37.48% || 36.00% || 30.00%
+| {{Bag2|xAttack}} || 1 || 37.48% || 36.00% || 33.75% || 30.00%
 |-
-| {{Bag2|Lucky Incense}} || N/A || 37.48% || 36.00% || 30.00%
+| {{Bag2|Lucky Incense}} || 1 || 37.48% || 36.00% || 33.75% || 30.00%
 |-
 | align="center" colspan=6| '''Rare'''
 |-
-| {{Bag2|Blue Shard}} || N/A || 20.01% || 20.99% || 24.95%
+| {{Bag2|Blue Shard}} || 1 || 20.01% || 20.99% || 22.47% || 24.95%
 |-
 | align="center" colspan=6| '''Epic'''
 |-
-| {{Bag2|Splash Plate}} || N/A || 2.01% || 2.60% || 5.00%
+| {{Bag2|Splash Plate}} || 1 || 2.01% || 2.60% || 3.50% || 5.00%
 |-
-| {{Bag2|Diveball}} || N/A || 2.01% || 2.60% || 5.00%
+| {{Bag2|Dive Ball}} || 1 || 2.01% || 2.60% || 3.50% || 5.00%
 |-
 | align="center" colspan=6| '''Legendary'''
 |-
-| {{Bag2|Large Restore}} || N/A || 0.50% || 0.80% || 1.99%
+| {{Bag2|Large Restore}} || 1 || 0.33% || 0.53% || 0.83% || 1.33%
 |-
-| {{Bag2|Revive}} || N/A || 0.50% || 0.80% || 1.99%
+| {{Bag2|Revive}} || 1 || 0.33% || 0.53% || 0.83% || 1.33%
+|-
+| {{Bag2|Mystic Water}} || 1 || 0.33% || 0.53% || 0.83% || 1.33%
 |-
 | align="center" colspan=6| '''Mythic'''
 |-
-| {{Bag2|Heart Scale}} || N/A || 0.01% || 0.22% || 1.06%
+| {{Bag2|Heart Scale}} || 1 || 0.01% || 0.22% || 0.53% || 1.06%
 |}
+&lt;/tab&gt;
+&lt;/tabs&gt;
+
 
 {{Alola Dungeons}}
 [[Category:Dungeons|^Region #7 - Alola^i]]</text>
     <contributor>
-      <username>LatiosRider</username>
-      <id>35</id>
+      <username>ThePantMan</username>
+      <id>8</id>
     </contributor>
-    <comment>Add Category header</comment>
+    <comment>Text replacement - "Diveball" to "Dive Ball"</comment>
     <model>wikitext</model>
-    <parentid>14607</parentid>
-    <sha1>b1c08c3ca0e5eb5b80c568a554ba6e30d734a696</sha1>
+    <parentid>33613</parentid>
+    <sha1>3c4b4a3eaf56abca47643e6e21528ddd61759119</sha1>
   </revision>
 </page></mediawiki>

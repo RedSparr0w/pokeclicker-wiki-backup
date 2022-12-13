@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>397</id>
   <revision>
-    <id>33544</id>
-    <timestamp>2022-12-12T01:39:51Z</timestamp>
-    <text space="preserve" bytes="5466">{{Infobox dungeon
+    <id>34080</id>
+    <timestamp>2022-12-12T20:45:27Z</timestamp>
+    <text space="preserve" bytes="5704">{{Infobox dungeon
 |name    = Mt. Pyre
 |image   = [[File:Mt. Pyre.png|300px]]
 |caption = A map of Mt. Pyre.
@@ -92,7 +92,7 @@
 |-
 | align="center" colspan=7| '''Epic'''
 |-
-| {{Bag2|Ultraball}} || 1 || 4.01% || 5.20% || 7.00% || 10.00% || &lt;center&gt;N/A
+| {{Bag2|Ultra Ball}} || 1 || 4.01% || 5.20% || 7.00% || 10.00% || &lt;center&gt;N/A
 |-
 | align="center" colspan=7| '''Legendary'''
 |-
@@ -108,6 +108,7 @@
 |-
 | {{Bag2|Protein}} || 1 || N/A || N/A || N/A || 1.06% || 400 Clears
 |}
+The odds are very slightly off due to chances getting redistributed while the requirement locked loot is unavailable.
 &lt;/tab&gt;
 
 &lt;tab name="Debuff"&gt;
@@ -131,7 +132,7 @@ After reaching [[Kalos]], the drop chance for items will be [[Dungeons#Dungeon L
 |-
 | align="center" colspan=7| '''Epic'''
 |-
-| {{Bag2|Ultraball}} || 1 || 0.90% || 0.90% || 0.90% || 0.90% || &lt;center&gt;N/A
+| {{Bag2|Ultra Ball}} || 1 || 0.90% || 0.90% || 0.90% || 0.90% || &lt;center&gt;N/A
 |-
 | align="center" colspan=7| '''Legendary'''
 |-
@@ -147,6 +148,7 @@ After reaching [[Kalos]], the drop chance for items will be [[Dungeons#Dungeon L
 |-
 | {{Bag2|Protein}} || 1 || N/A || N/A || N/A || &lt;0.01% || 400 Clears
 |}
+The odds are very slightly off due to chances getting redistributed while the requirement locked loot is unavailable.
 &lt;/tab&gt;
 &lt;/tabs&gt;
 
@@ -157,9 +159,9 @@ After reaching [[Kalos]], the drop chance for items will be [[Dungeons#Dungeon L
       <username>ThePantMan</username>
       <id>8</id>
     </contributor>
-    <comment>/* loot */</comment>
+    <comment>Text replacement - "Ultraball" to "Ultra Ball"</comment>
     <model>wikitext</model>
-    <parentid>32991</parentid>
-    <sha1>fc69ceb5f90ec1a343cfbc7ebb656138e5d0c08b</sha1>
+    <parentid>33850</parentid>
+    <sha1>4e80a4bcf21f23d8a1f231998f3d592dcc876725</sha1>
   </revision>
 </page></mediawiki>

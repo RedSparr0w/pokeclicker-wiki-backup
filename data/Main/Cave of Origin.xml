@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>399</id>
   <revision>
-    <id>33548</id>
-    <timestamp>2022-12-12T01:43:57Z</timestamp>
-    <text space="preserve" bytes="2978">{{Infobox dungeon
+    <id>33851</id>
+    <timestamp>2022-12-12T18:14:09Z</timestamp>
+    <text space="preserve" bytes="3214">{{Infobox dungeon
 |name    = Cave of Origin
 |image   = [[File:Cave of Origin.png|300px]]
 |caption = A map of Cave of Origin.
@@ -78,6 +78,7 @@
 |-
 | {{Bag2|Lum}} || 1 || N/A || N/A || 0.29% || 0.59% || 150 Clears
 |}
+The odds are very slightly off due to chances getting redistributed while the requirement locked loot is unavailable.
 &lt;/tab&gt;
 
 &lt;tab name="Debuff"&gt;
@@ -107,6 +108,7 @@ After reaching [[Kalos]], the drop chance for items will be [[Dungeons#Dungeon L
 |-
 | {{Bag2|Lum}} || 1 || N/A || N/A || &lt;0.01% || &lt;0.01% || 150 Clears
 |}
+The odds are very slightly off due to chances getting redistributed while the requirement locked loot is unavailable.
 &lt;/tab&gt;
 &lt;/tabs&gt;
 
@@ -119,7 +121,7 @@ After reaching [[Kalos]], the drop chance for items will be [[Dungeons#Dungeon L
     </contributor>
     <comment>/* loot */</comment>
     <model>wikitext</model>
-    <parentid>32995</parentid>
-    <sha1>62aaa77147a8877ded7a9cd1191c23f52d6b9424</sha1>
+    <parentid>33548</parentid>
+    <sha1>720dc65138521a88285d4d4d2e96ddb460db93c9</sha1>
   </revision>
 </page></mediawiki>

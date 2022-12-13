@@ -1,0 +1,68 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Dive Ball/en</title>
+  <ns>0</ns>
+  <id>8338</id>
+  <revision>
+    <id>34246</id>
+    <timestamp>2022-12-12T21:12:16Z</timestamp>
+    <text space="preserve" bytes="1221">&lt;languages/&gt;
+
+{{Infobox Pokéball
+|name       = Dive Ball
+|image      = [[File:Dive Ball.png]]
+|caption    = In-Game image of the ''Dive Ball''.
+|price      = Variable
+|catchTime  = 1.25s
+|catchRate = Variable
+*+15% in water environments
+*+0% all other environments
+|location   = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*[[Dive Ball#Dungeons|Dungeons]]
+}}
+
+==Description==
+
+The '''Dive Ball''' is a type of [[Pokéballs|Pokéball]]. It automatically tries to catch a wild Pokémon after defeating it if is the highest type of Pokéball active and there is a remaining supply in the Pokéball selector.
+
+==Details==
+
+A specialized Pokéball to capture Pokémon with, it provides an increased catch rate in water environments.
+
+===Rates===
+
+{| class="wikitable"
+|+ Dive Ball
+|-
+! Location !! Catch Chance Modifier
+|-
+| Water Environments || +15%
+|-
+| All other locations || +0% (Equal to Pokéball)
+|-
+|}
+
+==Acquisition==
+===Dungeons===
+{{Loot/head‎|Pokéballs}}
+{{LootItem|Aqua Hideout|Epic}}
+{{LootItem|Sealed Chamber|Epic}}
+{{LootItem|Seaside Cave|Epic}}
+{{LootItem|Pokéball Factory|Epic}}
+{{LootItem|Seaward Cave|Epic}}
+{{LootItem|Brooklet Hill|Epic}}
+|}
+|}
+
+&lt;br&gt;{{Pokéballs}}&lt;br&gt;
+[[Category:Items]] [[Category:Pokéballs]]</text>
+    <contributor>
+      <username>ThePantMan</username>
+      <id>8</id>
+    </contributor>
+    <comment>Text replacement - "Diveball" to "Dive Ball"</comment>
+    <model>wikitext</model>
+    <parentid>34239</parentid>
+    <sha1>c3e92bfdb915aadc0719e862414ab9ebe5f937d2</sha1>
+  </revision>
+</page></mediawiki>

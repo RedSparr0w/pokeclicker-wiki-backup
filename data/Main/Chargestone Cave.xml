@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>1742</id>
   <revision>
-    <id>33055</id>
-    <timestamp>2022-12-08T21:07:19Z</timestamp>
-    <text space="preserve" bytes="4702">{{Infobox dungeon
+    <id>34286</id>
+    <timestamp>2022-12-12T21:19:56Z</timestamp>
+    <text space="preserve" bytes="4854">{{Infobox dungeon
 |name    = Chargestone Cave
 |image   = [[File:Chargestone Cave.png|300px]]
 |caption = A map of Chargestone Cave.
@@ -64,74 +64,75 @@
 ==Items==
 
 &lt;tabs&gt;
-&lt;tab name="No Debuff"&gt;
+&lt;tab name="Base"&gt;
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears
 |-
 | align="center" colspan=6| '''Common'''
 |-
-| {{Bag2|Lucky Egg}} || 2 || 29.99% || 28.86% || 24.26%
+| {{Bag2|Lucky Egg}} || 2 || 29.99% || 28.86% || 27.15% || 24.26%
 |-
-| {{Bag2|Dowsing Machine}} || 2 || 29.99% || 28.86% || 24.26%
+| {{Bag2|Dowsing Machine}} || 2 || 29.99% || 28.86% || 27.15% || 24.26%
 |-
-| {{Bag2|Aguav}} || N/A || 15.00% || 14.43% || 12.13%
+| {{Bag2|Aguav}} || 1 || 15.00% || 14.43% || 13.57% || 12.13%
 |-
 | align="center" colspan=6| '''Rare'''
 |-
-| {{Bag2|Yellow Shard}} || N/A || 20.01% || 21.04% || 25.22%
+| {{Bag2|Yellow Shard}} || 1 || 20.01% || 21.04% || 22.60% || 25.22%
 |-
 | align="center" colspan=6| '''Epic'''
 |-
-| {{Bag2|Zap Plate}} || N/A || 2.01% || 2.61% || 5.05%
+| {{Bag2|Zap Plate}} || 1 || 2.01% || 2.61% || 3.52% || 5.05%
 |-
-| {{Bag2|Timerball}} || N/A || 2.01% || 2.61% || 5.05%
+| {{Bag2|Timer Ball}} || 1 || 2.01% || 2.61% || 3.52% || 5.05%
 |-
 | align="center" colspan=6| '''Legendary'''
 |-
-| {{Bag2|Star Piece}} || 2 || 0.40% || 0.64% || 1.61%
+| {{Bag2|Star Piece}} || 2 || 0.40% || 0.64% || 1.00% || 1.61%
 |-
-| {{Bag2|Magnet}} || N/A || 0.20% || 0.32% || 0.81%
+| {{Bag2|Magnet}} || 1 || 0.20% || 0.32% || 0.50% || 0.81%
 |-
-| {{Bag2|Revive}} || N/A || 0.20% || 0.32% || 0.81%
+| {{Bag2|Revive}} || 1 || 0.20% || 0.32% || 0.50% || 0.81%
 |-
-| {{Bag2|Large Restore}} || N/A || 0.20% || 0.32% || 0.81%
+| {{Bag2|Large Restore}} || 1 || 0.20% || 0.32% || 0.50% || 0.81%
 |}
 &lt;/tab&gt;
 
 &lt;tab name="Debuff"&gt;
-After Reaching Galar, the drop chance for items in Unova will be debuffed for any loot with a Tier rarer than Rare (ie: Epic, Legendary, Mythic).
+After reaching [[Galar]], the drop chance for items will be [[Dungeons#Dungeon Loot Regional Debuff|debuffed]].
+
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears
 |-
 | align="center" colspan=6| '''Common'''
 |-
-| {{Bag2|Lucky Egg}} || 2 || 30.00% || 30.00% || 30.00%
+| {{Bag2|Lucky Egg}} || 2 || 30.00% || 30.00% || 30.00% || 30.00%
 |-
-| {{Bag2|Dowsing Machine}} || 2 || 30.00% || 30.00% || 30.00%
+| {{Bag2|Dowsing Machine}} || 2 || 30.00% || 30.00% || 30.00% || 30.00%
 |-
-| {{Bag2|Aguav}} || N/A || 15.00% || 15.00% || 15.00%
+| {{Bag2|Aguav}} || 1 || 15.00% || 15.00% || 15.00% || 15.00%
 |-
 | align="center" colspan=6| '''Rare'''
 |-
-| {{Bag2|Yellow Shard}} || N/A || 24.00% || 24.00% || 24.00%
+| {{Bag2|Yellow Shard}} || 1 || 24.00% || 24.00% || 24.00% || 24.00%
 |-
 | align="center" colspan=6| '''Epic'''
 |-
-| {{Bag2|Zap Plate}} || N/A || 0.45% || 0.45% || 0.45%
+| {{Bag2|Zap Plate}} || 1 || 0.45% || 0.45% || 0.45% || 0.45%
 |-
-| {{Bag2|Timerball}} || N/A || 0.45% || 0.45% || 0.45%
+| {{Bag2|Timer Ball}} || 1 || 0.45% || 0.45% || 0.45% || 0.45%
 |-
 | align="center" colspan=6| '''Legendary'''
 |-
-| {{Bag2|Star Piece}} || 2 || 0.04% || 0.04% || 0.04%
+| {{Bag2|Star Piece}} || 2 || 0.04% || 0.04% || 0.04% || 0.04%
 |-
-| {{Bag2|Magnet}} || N/A || 0.02% || 0.02% || 0.02%
+| {{Bag2|Magnet}} || 1 || 0.02% || 0.02% || 0.02% || 0.02%
 |-
-| {{Bag2|Revive}} || N/A || 0.02% || 0.02% || 0.02%
+| {{Bag2|Revive}} || 1 || 0.02% || 0.02% || 0.02% || 0.02%
 |-
-| {{Bag2|Large Restore}} || N/A || 0.02% || 0.02% || 0.02%
+| {{Bag2|Large Restore}} || 1 || 0.02% || 0.02% || 0.02% || 0.02%
 |}
 &lt;/tab&gt;
 &lt;/tabs&gt;
@@ -143,9 +144,9 @@ After Reaching Galar, the drop chance for items in Unova will be debuffed for an
       <username>ThePantMan</username>
       <id>8</id>
     </contributor>
-    <comment>/* Galar */</comment>
+    <comment>Text replacement - "Timerball" to "Timer Ball"</comment>
     <model>wikitext</model>
-    <parentid>10436</parentid>
-    <sha1>987c4bb13c3620c743bf9169952c31e14b422b00</sha1>
+    <parentid>33579</parentid>
+    <sha1>c1e2c9410467864bd1be96ab4260f967d8f646d4</sha1>
   </revision>
 </page></mediawiki>

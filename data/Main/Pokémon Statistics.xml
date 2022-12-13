@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>3416</id>
   <revision>
-    <id>33119</id>
-    <timestamp>2022-12-09T15:35:36Z</timestamp>
-    <text space="preserve" bytes="10880">==Base Attack==
+    <id>34403</id>
+    <timestamp>2022-12-12T22:26:17Z</timestamp>
+    <text space="preserve" bytes="10882">==Base Attack==
 The formula for a Pokemon’s '''Base Attack''' is loosely derived from Pokemon Go’s formula for CP.  It can be described through the following equations:
 
 &lt;math&gt;\colorbox{White}{$\\\text{base offense} = 2*\left[\sqrt{\text{Atk}*\text{SAtk}}+\sqrt{\text{Spe}}\right]
@@ -68,7 +68,7 @@ Meanwhile, the amount of time it takes to breed a Pokemon is a simple reference 
 If your goal is to grow your strength within a single region, you also need to account for the damage debuff for non-native Pokemon.  For more information, see [[Protein]].
 
 ==Catch Rate==
-'''Catch Rate''' is a value specific to each species that determines the base odds of capture before in-game modifiers like [[Pokéballs|Pokéball]]type and the [[Magic Ball]] Oak Item.  The catch rate for each species is identical to the canonical value, with alternate forms using the same value as the base form.  In cases where the canonical catch rate has changed over time, such as Dialga’s catch rate changing from 30 to 3 in ORAS, the newer values are used.
+'''Catch Rate''' is a value specific to each species that determines the base odds of capture before in-game modifiers like [[Poké Balls|Poké Ball]]type and the [[Magic Ball]] Oak Item.  The catch rate for each species is identical to the canonical value, with alternate forms using the same value as the base form.  In cases where the canonical catch rate has changed over time, such as Dialga’s catch rate changing from 30 to 3 in ORAS, the newer values are used.
 
 There are exceptions to this rule:
 * Flying Pikachu, Surfing Pikachu, Pikachu (Gengar), and Let’s Go Pikachu have a catch rate of 50 instead of 190
@@ -158,12 +158,12 @@ Every Pokemon shares their canonical leveling rate and accordingly EXP needed fo
 
 [[Category:Statistics]]</text>
     <contributor>
-      <username>DraKay</username>
-      <id>18</id>
+      <username>ThePantMan</username>
+      <id>8</id>
     </contributor>
-    <comment>/* Click Attack */</comment>
+    <comment>/* Pokeball change */</comment>
     <model>wikitext</model>
-    <parentid>33118</parentid>
-    <sha1>f9d82eb95765f2eb19a458ad9d848cc5bb399b9a</sha1>
+    <parentid>33119</parentid>
+    <sha1>99b7ffa4dc05b8b478a4fe87d17478b8be58f550</sha1>
   </revision>
 </page></mediawiki>

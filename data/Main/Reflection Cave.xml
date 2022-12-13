@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>2905</id>
   <revision>
-    <id>33050</id>
-    <timestamp>2022-12-08T21:04:14Z</timestamp>
-    <text space="preserve" bytes="3439">{{Infobox dungeon
+    <id>34181</id>
+    <timestamp>2022-12-12T21:00:21Z</timestamp>
+    <text space="preserve" bytes="3636">{{Infobox dungeon
 |name    = Reflection Cave
 |image   = [[File:Reflection Cave.png|250px]]
 |caption = A map of Reflection Cave.
@@ -61,50 +61,56 @@
 
 '''*Must be Kalos Champion to unlock Diancie'''
 ==Items==
-
+&lt;tabs&gt;
+&lt;tab name="Base"&gt;
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears
 |-
 | align="center" colspan=6| '''Common'''
 |-
-| {{Bag2|Token Collector}} || N/A || 37.49% || 36.08% || 30.32%
+| {{Bag2|Token Collector}} || 1 || 37.49% || 36.08% || 33.93% || 30.32%
 |-
-| {{Bag2|Lucky Egg}} || N/A || 37.49% || 36.08% || 30.32%
+| {{Bag2|Lucky Egg}} || 1 || 37.49% || 36.08% || 33.93% || 30.32%
 |-
 | align="center" colspan=6| '''Rare'''
 |-
-| {{Bag2|Green Shard}} || N/A || 10.01% || 10.52% || 12.61%
+| {{Bag2|Green Shard}} || 1 || 10.01% || 10.52% || 11.30% || 12.61%
 |-
-| {{Bag2|Red Shard}} || N/A || 10.01% || 10.52% || 12.61%
+| {{Bag2|Red Shard}} || 1 || 10.01% || 10.52% || 11.30% || 12.61%
 |-
 | align="center" colspan=6| '''Epic'''
 |-
-| {{Bag2|Fist Plate}} || N/A || 1.00% || 1.30% || 2.53%
+| {{Bag2|Fist Plate}} || 1 || 1.00% || 1.30% || 1.76% || 2.53%
 |-
-| {{Bag2|Earth Plate}} || N/A || 1.00% || 1.30% || 2.53%
+| {{Bag2|Earth Plate}} || 1 || 1.00% || 1.30% || 1.76% || 2.53%
 |-
-| {{Bag2|Mind Plate}} || N/A || 1.00% || 1.30% || 2.53%
+| {{Bag2|Mind Plate}} || 1 || 1.00% || 1.30% || 1.76% || 2.53%
 |-
-| {{Bag2|Nestball}} || N/A || 1.00% || 1.30% || 2.53%
+| {{Bag2|Nest Ball}} || 1 || 1.00% || 1.30% || 1.76% || 2.53%
 |-
 | align="center" colspan=6| '''Legendary'''
 |-
-| {{Bag2|Revive}} || 2 || 0.66% || 1.06% || 2.69%
+| {{Bag2|Revive}} || 2 || 0.50% || 0.80% || 1.25% || 2.02%
 |-
-| {{Bag2|Large Restore}} || N/A || 0.33% || 0.53% || 1.34%
+| {{Bag2|Large Restore}} || 1 || 0.25% || 0.40% || 0.63% || 1.01%
+|-
+| {{Bag2|Black Belt}} || 1 || 0.25% || 0.40% || 0.63% || 1.01%
 |}
+&lt;/tab&gt;
+&lt;/tabs&gt;
+
 
 {{Kalos Dungeons}}
 
 [[Category:Dungeons|^Region #6 - Kalos^e]]</text>
     <contributor>
-      <username>DraKay</username>
-      <id>18</id>
+      <username>ThePantMan</username>
+      <id>8</id>
     </contributor>
-    <comment>/* Wild Encounters */</comment>
+    <comment>Text replacement - "Nestball" to "Nest Ball"</comment>
     <model>wikitext</model>
-    <parentid>12200</parentid>
-    <sha1>9b2f31dbc4ce1f399633a6208a202a9dbe14e3d9</sha1>
+    <parentid>33594</parentid>
+    <sha1>766d50325e273a0ebecc5a765161bdbc73ae351e</sha1>
   </revision>
 </page></mediawiki>

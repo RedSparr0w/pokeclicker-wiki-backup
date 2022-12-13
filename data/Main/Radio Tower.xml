@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>3570</id>
   <revision>
-    <id>33516</id>
-    <timestamp>2022-12-12T01:18:19Z</timestamp>
-    <text space="preserve" bytes="8090">{{Infobox dungeon
+    <id>34089</id>
+    <timestamp>2022-12-12T20:45:28Z</timestamp>
+    <text space="preserve" bytes="8328">{{Infobox dungeon
 |name    = Radio Tower
 |image   = [[File:Radio Tower.png|thumb]]
 |caption = A map of Radio Tower.
@@ -133,7 +133,7 @@
 |-
 | align="center" colspan=7| '''Legendary'''
 |-
-| {{Bag2|Ultraball}} || 1 || 0.50% || 0.80% || 1.24% || 1.99% || rowspan=2| &lt;center&gt;N/A
+| {{Bag2|Ultra Ball}} || 1 || 0.50% || 0.80% || 1.24% || 1.99% || rowspan=2| &lt;center&gt;N/A
 |-
 | {{Bag2|Magnet}} || 1 || 0.50% || 0.80% || 1.24% || 1.99%
 |-
@@ -143,6 +143,7 @@
 |-
 | {{Bag2|Lum}} || 1 || N/A || N/A || 0.27% || 0.53% || 250 Clears
 |}
+The odds are very slightly off due to chances getting redistributed while the requirement locked loot is unavailable.
 &lt;/tab&gt;
 
 &lt;tab name="Debuff"&gt;
@@ -188,7 +189,7 @@ After reaching [[Unova]], the drop chance for items will be [[Dungeons#Dungeon L
 |-
 | align="center" colspan=7| '''Legendary'''
 |-
-| {{Bag2|Ultraball}} || 1 || 0.05% || 0.05% || 0.05% || 0.05% || rowspan=2| &lt;center&gt;N/A
+| {{Bag2|Ultra Ball}} || 1 || 0.05% || 0.05% || 0.05% || 0.05% || rowspan=2| &lt;center&gt;N/A
 |-
 | {{Bag2|Magnet}} || 1 || 0.05% || 0.05% || 0.05% || 0.05%
 |-
@@ -198,6 +199,7 @@ After reaching [[Unova]], the drop chance for items will be [[Dungeons#Dungeon L
 |-
 | {{Bag2|Lum}} || 1 || N/A || N/A || &lt;0.01% || &lt;0.01% || 250 Clears
 |}
+The odds are very slightly off due to chances getting redistributed while the requirement locked loot is unavailable.
 &lt;/tab&gt;
 &lt;/tabs&gt;
 
@@ -208,9 +210,9 @@ After reaching [[Unova]], the drop chance for items will be [[Dungeons#Dungeon L
       <username>ThePantMan</username>
       <id>8</id>
     </contributor>
-    <comment>/* lum */</comment>
+    <comment>Text replacement - "Ultraball" to "Ultra Ball"</comment>
     <model>wikitext</model>
-    <parentid>33507</parentid>
-    <sha1>f3bd72ab2a25f508e0935632dbf25d8503382da6</sha1>
+    <parentid>33844</parentid>
+    <sha1>7af07bee7291324ad666c02cca626546909366a9</sha1>
   </revision>
 </page></mediawiki>

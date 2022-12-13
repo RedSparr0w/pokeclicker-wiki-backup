@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>2901</id>
   <revision>
-    <id>12174</id>
-    <timestamp>2022-07-27T02:53:23Z</timestamp>
-    <text space="preserve" bytes="2163">{{Infobox dungeon
+    <id>33885</id>
+    <timestamp>2022-12-12T19:11:23Z</timestamp>
+    <text space="preserve" bytes="2354">{{Infobox dungeon
 |name    = Connecting Cave
 |image   = [[File:Connecting Cave.png|250px]]
 |caption = A map of Connecting Cave.
@@ -49,48 +49,54 @@
 |}
 
 ==Items==
-
+&lt;tabs&gt;
+&lt;tab name="Base"&gt;
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears
 |-
 | align="center" colspan=6| '''Common'''
 |-
-| {{Bag2|Dowsing Machine}} || N/A || 18.74% || 18.04% || 15.16%
+| {{Bag2|Dowsing Machine}} || 1 || 18.74% || 18.04% || 16.97% || 15.16%
 |-
-| {{Bag2|Pokéball}} || 2 || 37.49% || 36.08% || 30.32%
+| {{Bag2|Poké Ball}} || 2 || 37.49% || 36.08% || 33.93% || 30.32%
 |-
-| {{Bag2|Wepear}} || N/A || 18.74% || 18.04% || 15.16%
+| {{Bag2|Wepear}} || 1 || 18.74% || 18.04% || 16.97% || 15.16%
 |-
 | align="center" colspan=6| '''Rare'''
 |-
-| {{Bag2|Green Shard}} || N/A || 10.01% || 10.52% || 12.61%
+| {{Bag2|Green Shard}} || 1 || 10.01% || 10.52% || 11.30% || 12.61%
 |-
-| {{Bag2|Yellow Shard}} || N/A || 10.01% || 10.52% || 12.61%
+| {{Bag2|Yellow Shard}} || 1 || 10.01% || 10.52% || 11.30% || 12.61%
 |-
 | align="center" colspan=6| '''Epic'''
 |-
-| {{Bag2|Toxic Plate}} || N/A || 2.01% || 2.61% || 5.05%
+| {{Bag2|Toxic Plate}} || 1 || 2.01% || 2.61% || 3.52% || 5.05%
 |-
-| {{Bag2|Sky Plate}} || N/A || 2.01% || 2.61% || 5.05%
+| {{Bag2|Sky Plate}} || 1 || 2.01% || 2.61% || 3.52% || 5.05%
 |-
 | align="center" colspan=6| '''Legendary'''
 |-
-| {{Bag2|Hard Stone}} || N/A || 0.50% || 0.80% || 2.02%
+| {{Bag2|Hard Stone}} || 1 || 0.33% || 0.53% || 0.83% || 1.34%
 |-
-| {{Bag2|Damp Rock}} || N/A || 0.50% || 0.80% || 2.02%
+| {{Bag2|Damp Rock}} || 1 || 0.33% || 0.53% || 0.83% || 1.34%
+|-
+| {{Bag2|Silk Scarf}} || 1 || 0.33% || 0.53% || 0.83% || 1.34%
 |}
+&lt;/tab&gt;
+&lt;/tabs&gt;
+
 
 {{Kalos Dungeons}}
 
 [[Category:Dungeons|^Region #6 - Kalos^c]]</text>
     <contributor>
-      <username>LatiosRider</username>
-      <id>35</id>
+      <username>ThePantMan</username>
+      <id>8</id>
     </contributor>
-    <comment>Add Category header</comment>
+    <comment>Text replacement - "Pokéball" to "Poké Ball"</comment>
     <model>wikitext</model>
-    <parentid>12173</parentid>
-    <sha1>87c0099d986df50ba3ad09fc0ec550e53b0a8fd8</sha1>
+    <parentid>33592</parentid>
+    <sha1>16462c1460db00e4cc403faacba3381fb695a200</sha1>
   </revision>
 </page></mediawiki>

@@ -4,14 +4,14 @@
   <ns>0</ns>
   <id>3706</id>
   <revision>
-    <id>14162</id>
-    <timestamp>2022-07-27T02:59:40Z</timestamp>
-    <text space="preserve" bytes="2605">{{Infobox dungeon
+    <id>34015</id>
+    <timestamp>2022-12-12T20:16:26Z</timestamp>
+    <text space="preserve" bytes="2734">{{Infobox dungeon
 |name    = Trainers' School
 |image   = [[File:Trainers' School.png|300px]]
 |caption = A map of Trainers' School.
 |tokens  = 757,500
-|location = West of Haou'li Outskirts.
+|location = Northeast of Route 1 Haou'li Outskirts.
 }}
 
 '''Trainers' School''' is a [[Dungeons|dungeon]] in [[Alola]]. It initially has 121 tiles arranged in a 11x11 square, including 11 chest tiles, 41 non-boss encounter tiles, and 1 boss encounter tile. Wild Encounters have 11,407,338 HP.
@@ -48,50 +48,54 @@
 |-
 ! Wild Pokémon !! Base Health !! Boss Trainer !! Pokémon Team !! Base Health
 |-
-| rowspan=3 colspan=2|&lt;center&gt;N/A|| [[File:Teacher _(female).png|40px]] Teacher Emily || [[File:Litten.png|40px]] Litten, [[File:Popplio.png|40px]] Popplio, [[File:Rowlet.png|40px]] Rowlet || &lt;center&gt;19,012,230
+| rowspan=3 colspan=2|&lt;center&gt;N/A|| [[File:Teacher _(gen 7).png|40px]] Teacher Emily || [[File:Litten.png|40px]] Litten, [[File:Popplio.png|40px]] Popplio, [[File:Rowlet.png|40px]] Rowlet || &lt;center&gt;19,012,230
 |-
 |}
 
 ==Items==
-
+&lt;tabs&gt;
+&lt;tab name="Base"&gt;
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears
 |-
 | align="center" colspan=6| '''Common'''
 |-
-| {{Bag2|Lucky Egg}} || N/A || 24.99% || 24.05% || 20.21%
+| {{Bag2|Lucky Egg}} || 1 || 24.99% || 24.05% || 22.62% || 20.21%
 |-
-| {{Bag2|Pokéball}} || N/A || 24.99% || 24.05% || 20.21%
+| {{Bag2|Poké Ball}} || 1 || 24.99% || 24.05% || 22.62% || 20.21%
 |-
-| {{Bag2|Oran}} || N/A || 24.99% || 24.05% || 20.21%
+| {{Bag2|Oran}} || 1 || 24.99% || 24.05% || 22.62% || 20.21%
 |-
 | align="center" colspan=6| '''Rare'''
 |-
-| {{Bag2|Red Shard}} || N/A || 10.01% || 10.52% || 12.61%
+| {{Bag2|Red Shard}} || 1 || 10.01% || 10.52% || 11.30% || 12.61%
 |-
-| {{Bag2|Yellow Shard}} || N/A || 10.01% || 10.52% || 12.61%
+| {{Bag2|Yellow Shard}} || 1 || 10.01% || 10.52% || 11.30% || 12.61%
 |-
 | align="center" colspan=6| '''Epic'''
 |-
-| {{Bag2|Flame Plate}} || N/A || 2.01% || 2.61% || 5.05%
+| {{Bag2|Flame Plate}} || 1 || 2.01% || 2.61% || 3.52% || 5.05%
 |-
-| {{Bag2|Greatball}} || N/A || 2.01% || 2.61% || 5.05%
+| {{Bag2|Great Ball}} || 1 || 2.01% || 2.61% || 3.52% || 5.05%
 |-
 | align="center" colspan=6| '''Legendary'''
 |-
-| {{Bag2|Small Restore}} || N/A || 1.00% || 1.59% || 4.03%
+| {{Bag2|Small Restore}} || 1 || 1.00% || 1.59% || 2.50% || 4.03%
 |}
+&lt;/tab&gt;
+&lt;/tabs&gt;
+
 
 {{Alola Dungeons}}
 [[Category:Dungeons|^Region #7 - Alola^a]]</text>
     <contributor>
-      <username>LatiosRider</username>
-      <id>35</id>
+      <username>ThePantMan</username>
+      <id>8</id>
     </contributor>
-    <comment>Add Category header</comment>
+    <comment>Text replacement - "Greatball" to "Great Ball"</comment>
     <model>wikitext</model>
-    <parentid>14161</parentid>
-    <sha1>95566ae7c8c6546815ab0cf988cd4ee4bab51df3</sha1>
+    <parentid>33908</parentid>
+    <sha1>7a7f26a6810f42875c9aa739013a4f14d2d09861</sha1>
   </revision>
 </page></mediawiki>

@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>3966</id>
   <revision>
-    <id>14474</id>
-    <timestamp>2022-08-02T21:35:17Z</timestamp>
-    <text space="preserve" bytes="2537">{{Infobox dungeon
+    <id>34039</id>
+    <timestamp>2022-12-12T20:16:34Z</timestamp>
+    <text space="preserve" bytes="2660">{{Infobox dungeon
 |name    = Verdant Cavern
 |image   = [[File:Verdant Cavern.png|300px]]
 |caption = A map of Verdant Cavern.
@@ -58,37 +58,41 @@
 '''*Must be Alola champion to unlock'''
 
 ==Items==
-
+&lt;tabs&gt;
+&lt;tab name="Base"&gt;
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears
 |-
 | align="center" colspan=6| '''Common'''
 |-
-| {{Bag2|xClick}} || N/A || 24.99% || 24.05% || 20.21%
+| {{Bag2|xClick}} || 1 || 24.99% || 24.05% || 22.62% || 20.21%
 |-
-| {{Bag2|Oran}} || N/A || 24.99% || 24.05% || 20.21%
+| {{Bag2|Oran}} || 1 || 24.99% || 24.05% || 22.62% || 20.21%
 |-
-| {{Bag2|Sitrus}} || N/A || 24.99% || 24.05% || 20.21%
+| {{Bag2|Sitrus}} || 1 || 24.99% || 24.05% || 22.62% || 20.21%
 |-
 | align="center" colspan=6| '''Rare'''
 |-
-| {{Bag2|Green Shard}} || N/A || 10.01% || 10.52% || 12.61%
+| {{Bag2|Green Shard}} || 1 || 10.01% || 10.52% || 11.30% || 12.61%
 |-
-| {{Bag2|Yellow Shard}} || N/A || 10.01% || 10.52% || 12.61%
+| {{Bag2|Yellow Shard}} || 1 || 10.01% || 10.52% || 11.30% || 12.61%
 |-
 | align="center" colspan=6| '''Epic'''
 |-
-| {{Bag2|Greatball}} || N/A || 2.01% || 2.61% || 5.05%
+| {{Bag2|Great Ball}} || 1 || 2.01% || 2.61% || 3.52% || 5.05%
 |-
-| {{Bag2|Meadow Plate}} || N/A || 2.01% || 2.61% || 5.05%
+| {{Bag2|Meadow Plate}} || 1 || 2.01% || 2.61% || 3.52% || 5.05%
 |-
 | align="center" colspan=6| '''Legendary'''
 |-
-| {{Bag2|Medium Restore}} || N/A || 0.50% || 0.80% || 2.02%
+| {{Bag2|Medium Restore}} || 1 || 0.50% || 0.80% || 1.25% || 2.02%
 |-
-| {{Bag2|Revive}} || N/A || 0.50% || 0.80% || 2.02%
+| {{Bag2|Revive}} || 1 || 0.50% || 0.80% || 1.25% || 2.02%
 |}
+&lt;/tab&gt;
+&lt;/tabs&gt;
+
 
 {{Alola Dungeons}}
 [[Category:Dungeons|^Region #7 - Alola^c]]</text>
@@ -96,9 +100,9 @@
       <username>ThePantMan</username>
       <id>8</id>
     </contributor>
-    <comment>/* Wild Encounters - added UB*/</comment>
+    <comment>Text replacement - "Greatball" to "Great Ball"</comment>
     <model>wikitext</model>
-    <parentid>14473</parentid>
-    <sha1>4307a3fc5515b49c5ad730fe9e3a1d835bba42a3</sha1>
+    <parentid>33606</parentid>
+    <sha1>fa4417a64c2046b120afbcc3dedd166a1241d0ba</sha1>
   </revision>
 </page></mediawiki>

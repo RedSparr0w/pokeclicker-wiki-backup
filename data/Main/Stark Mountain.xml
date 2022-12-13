@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>442</id>
   <revision>
-    <id>33021</id>
-    <timestamp>2022-12-08T16:34:07Z</timestamp>
-    <text space="preserve" bytes="5956">{{Infobox dungeon
+    <id>34096</id>
+    <timestamp>2022-12-12T20:45:29Z</timestamp>
+    <text space="preserve" bytes="6131">{{Infobox dungeon
 |name    = Stark Mountain
 |image   = [[File:Stark Mountain.png|300px]]
 |caption = A map of Stark Mountain.
@@ -62,87 +62,87 @@
 ==Items==
 
 &lt;tabs&gt;
-&lt;tab name="No Debuff"&gt;
+&lt;tab name="Base"&gt;
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears
 |-
 | align="center" colspan=6| '''Common'''
 |-
-| {{Bag2|Token Collector}} || 2 || 49.98% || 48.00% || 40.00%
+| {{Bag2|Token Collector}} || 2 || 49.98% || 48.00% || 45.00% || 40.00%
 |-
-| {{Bag2|Rawst}} || N/A || 24.99% || 24.00% || 20.00%
+| {{Bag2|Rawst}} || 1 || 24.99% || 24.00% || 22.50% || 20.00%
 |-
 | align="center" colspan=6| '''Rare'''
 |-
-| {{Bag2|Red Shard}} || N/A || 10.00% || 10.50% || 12.47%
+| {{Bag2|Red Shard}} || 1 || 10.00% || 10.50% || 11.24% || 12.47%
 |-
-| {{Bag2|Black Shard}} || N/A || 10.00% || 10.50% || 12.47%
+| {{Bag2|Black Shard}} || 1 || 10.00% || 10.50% || 11.24% || 12.47%
 |-
 | align="center" colspan=6| '''Epic'''
 |-
-| {{Bag2|Flame Plate}} || N/A || 2.01% || 2.60% || 5.00%
+| {{Bag2|Flame Plate}} || 1 || 2.01% || 2.60% || 3.50% || 5.00%
 |-
-| {{Bag2|Iron Plate}} || N/A || 2.01% || 2.60% || 5.00%
+| {{Bag2|Iron Plate}} || 1 || 2.01% || 2.60% || 3.50% || 5.00%
 |-
 | align="center" colspan=6| '''Legendary'''
 |-
-| {{Bag2|Ultraball}} || N/A || 0.17% || 0.27% || 0.66%
+| {{Bag2|Ultra Ball}} || 1 || 0.17% || 0.27% || 0.41% || 0.66%
 |-
-| {{Bag2|Revive}} || N/A || 0.17% || 0.27% || 0.66%
+| {{Bag2|Revive}} || 1 || 0.17% || 0.27% || 0.41% || 0.66%
 |-
-| {{Bag2|Star Piece}} || 2 || 0.33% || 0.53% || 1.33%
+| {{Bag2|Star Piece}} || 2 || 0.33% || 0.53% || 0.83% || 1.33%
 |-
-| {{Bag2|Large Restore}} || N/A || 0.17% || 0.27% || 0.66%
+| {{Bag2|Large Restore}} || 1 || 0.17% || 0.27% || 0.41% || 0.66%
 |-
-| {{Bag2|Charcoal}} || N/A || 0.17% || 0.27% || 0.66%
+| {{Bag2|Charcoal}} || 1 || 0.17% || 0.27% || 0.41% || 0.66%
 |-
 | align="center" colspan=6| '''Mythic'''
 |-
-| {{Bag2|Max Revive}} || N/A || 0.01% || 0.22% || 1.06%
+| {{Bag2|Max Revive}} || 1 || 0.01% || 0.22% || 0.53% || 1.06%
 |}
 &lt;/tab&gt;
 
 &lt;tab name="Debuff"&gt;
-After Reaching Alola, the drop chance for items in Sinnoh will be debuffed for any loot with a Tier rarer than Rare (ie: Epic, Legendary, Mythic).
+After reaching [[Alola]], the drop chance for items will be [[Dungeons#Dungeon Loot Regional Debuff|debuffed]].
 
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears
 |-
 | align="center" colspan=6| '''Common'''
 |-
-| {{Bag2|Token Collector}} || 2 || 50.00% || 50.00% || 50.00%
+| {{Bag2|Token Collector}} || 2 || 50.00% || 50.00% || 50.00% || 50.00%
 |-
-| {{Bag2|Rawst}} || N/A || 25.00% || 25.00% || 25.00%
+| {{Bag2|Rawst}} || 1 || 25.00% || 25.00% || 25.00% || 25.00%
 |-
 | align="center" colspan=6| '''Rare'''
 |-
-| {{Bag2|Red Shard}} || N/A || 12.00% || 12.00% || 12.00%
+| {{Bag2|Red Shard}} || 1 || 12.00% || 12.00% || 12.00% || 12.00%
 |-
-| {{Bag2|Black Shard}} || N/A || 12.00% || 12.00% || 12.00%
+| {{Bag2|Black Shard}} || 1 || 12.00% || 12.00% || 12.00% || 12.00%
 |-
 | align="center" colspan=6| '''Epic'''
 |-
-| {{Bag2|Flame Plate}} || N/A || 0.45% || 0.45% || 0.45%
+| {{Bag2|Flame Plate}} || 1 || 0.45% || 0.45% || 0.45% || 0.45%
 |-
-| {{Bag2|Iron Plate}} || N/A || 0.45% || 0.45% || 0.45%
+| {{Bag2|Iron Plate}} || 1 || 0.45% || 0.45% || 0.45% || 0.45%
 |-
 | align="center" colspan=6| '''Legendary'''
 |-
-| {{Bag2|Ultraball}} || N/A || 0.02% || 0.02% || 0.02%
+| {{Bag2|Ultra Ball}} || 1 || 0.02% || 0.02% || 0.02% || 0.02%
 |-
-| {{Bag2|Revive}} || N/A || 0.02% || 0.02% || 0.02%
+| {{Bag2|Revive}} || 1 || 0.02% || 0.02% || 0.02% || 0.02%
 |-
-| {{Bag2|Star Piece}} || 2 || 0.03% || 0.03% || 0.03%
+| {{Bag2|Star Piece}} || 2 || 0.03% || 0.03% || 0.03% || 0.03%
 |-
-| {{Bag2|Large Restore}} || N/A || 0.02% || 0.02% || 0.02%
+| {{Bag2|Large Restore}} || 1 || 0.02% || 0.02% || 0.02% || 0.02%
 |-
-| {{Bag2|Charcoal}} || N/A || 0.02% || 0.02% || 0.02%
+| {{Bag2|Charcoal}} || 1 || 0.02% || 0.02% || 0.02% || 0.02%
 |-
 | align="center" colspan=6| '''Mythic'''
 |-
-| {{Bag2|Max Revive}} || N/A || &lt;0.01% || &lt;0.01% || &lt;0.01%
+| {{Bag2|Max Revive}} || 1 || &lt;0.01% || &lt;0.01% || &lt;0.01% || &lt;0.01%
 |}
 &lt;/tab&gt;
 &lt;/tabs&gt;
@@ -155,9 +155,9 @@ After Reaching Alola, the drop chance for items in Sinnoh will be debuffed for a
       <username>ThePantMan</username>
       <id>8</id>
     </contributor>
-    <comment>/* Loot update */</comment>
+    <comment>Text replacement - "Ultraball" to "Ultra Ball"</comment>
     <model>wikitext</model>
-    <parentid>6002</parentid>
-    <sha1>94a2d7e77c4798469f6c427bb4be5aef43fe4b1d</sha1>
+    <parentid>33572</parentid>
+    <sha1>1e25b1017522bde7e15f1527f472e8ecaae1937d</sha1>
   </revision>
 </page></mediawiki>

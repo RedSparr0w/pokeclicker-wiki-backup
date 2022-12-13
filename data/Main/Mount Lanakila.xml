@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>4036</id>
   <revision>
-    <id>14712</id>
-    <timestamp>2022-07-27T03:08:47Z</timestamp>
-    <text space="preserve" bytes="4121">{{Infobox dungeon
+    <id>33625</id>
+    <timestamp>2022-12-12T02:48:16Z</timestamp>
+    <text space="preserve" bytes="4240">{{Infobox dungeon
 |name    = Mount Lanakila
 |image   = [[File:Mount Lanakila.png|300px]]
 |caption = A map of Mount Lanakila.
@@ -70,47 +70,51 @@
 |}
 
 ==Items==
-
+&lt;tabs&gt;
+&lt;tab name="Base"&gt;
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears
 |-
 | align="center" colspan=6| '''Common'''
 |-
-| {{Bag2|xClick}} || N/A || 37.49% || 36.08% || 30.32%
+| {{Bag2|xClick}} || 1 || 37.49% || 36.08% || 33.93% || 30.32%
 |-
-| {{Bag2|Dowsing Machine}} || N/A || 37.49% || 36.08% || 30.32%
+| {{Bag2|Dowsing Machine}} || 1 || 37.49% || 36.08% || 33.93% || 30.32%
 |-
 | align="center" colspan=6| '''Rare'''
 |-
-| {{Bag2|Red Shard}} || N/A || 4.00% || 4.21% || 5.04%
+| {{Bag2|Red Shard}} || 1 || 4.00% || 4.21% || 4.52% || 5.04%
 |-
-| {{Bag2|Blue Shard}} || N/A || 4.00% || 4.21% || 5.04%
+| {{Bag2|Blue Shard}} || 1 || 4.00% || 4.21% || 4.52% || 5.04%
 |-
-| {{Bag2|Green Shard}} || N/A || 4.00% || 4.21% || 5.04%
+| {{Bag2|Green Shard}} || 1 || 4.00% || 4.21% || 4.52% || 5.04%
 |-
-| {{Bag2|Yellow Shard}} || N/A || 4.00% || 4.21% || 5.04%
+| {{Bag2|Yellow Shard}} || 1 || 4.00% || 4.21% || 4.52% || 5.04%
 |-
-| {{Bag2|Cyan Shard}} || N/A || 4.00% || 4.21% || 5.04%
+| {{Bag2|Cyan Shard}} || 1 || 4.00% || 4.21% || 4.52% || 5.04%
 |-
 | align="center" colspan=6| '''Epic'''
 |-
-| {{Bag2|Icicle Plate}} || N/A || 4.01% || 5.21% || 10.11%
+| {{Bag2|Icicle Plate}} || 1 || 4.01% || 5.21% || 7.04% || 10.11%
 |-
 | align="center" colspan=6| '''Legendary'''
 |-
-| {{Bag2|Max Revive}} || N/A || 1.00% || 1.59% || 4.03%
+| {{Bag2|Max Revive}} || 1 || 1.00% || 1.59% || 2.50% || 4.03%
 |}
+&lt;/tab&gt;
+&lt;/tabs&gt;
+
 
 {{Alola Dungeons}}
 [[Category:Dungeons|^Region #7 - Alola^w]]</text>
     <contributor>
-      <username>LatiosRider</username>
-      <id>35</id>
+      <username>ThePantMan</username>
+      <id>8</id>
     </contributor>
-    <comment>Add Category header</comment>
+    <comment>/* loot */</comment>
     <model>wikitext</model>
-    <parentid>14711</parentid>
-    <sha1>08e5a3de9b82a2bd3e43769475f40ba3537fe7a5</sha1>
+    <parentid>14712</parentid>
+    <sha1>42a092a33103aacc1beb7da55cb9b4c5672c732a</sha1>
   </revision>
 </page></mediawiki>

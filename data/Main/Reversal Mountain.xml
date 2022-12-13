@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>1745</id>
   <revision>
-    <id>33220</id>
-    <timestamp>2022-12-10T19:43:04Z</timestamp>
-    <text space="preserve" bytes="4957">{{Infobox dungeon
+    <id>34091</id>
+    <timestamp>2022-12-12T20:45:28Z</timestamp>
+    <text space="preserve" bytes="5094">{{Infobox dungeon
 |name    = Reversal Mountain
 |image   = [[File:Reversal Mountain.png|300px]]
 |caption = A map of Reversal Mountain.
@@ -72,70 +72,71 @@
 ==Items==
 
 &lt;tabs&gt;
-&lt;tab name="No Debuff"&gt;
+&lt;tab name="Base"&gt;
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears
 |-
 | align="center" colspan=6| '''Common'''
 |-
-| {{Bag2|Persim}} || 4 || 42.85% || 41.23% || 34.65%
+| {{Bag2|Persim}} || 4 || 42.85% || 41.23% || 38.78% || 34.65%
 |-
-| {{Bag2|Dowsing Machine}} || 2 || 21.42% || 20.62% || 17.33%
+| {{Bag2|Dowsing Machine}} || 2 || 21.42% || 20.62% || 19.39% || 17.33%
 |-
-| {{Bag2|Ultraball}} || N/A || 10.71% || 10.31% || 8.66%
+| {{Bag2|Ultra Ball}} || 1 || 10.71% || 10.31% || 9.69% || 8.66%
 |-
 | align="center" colspan=6| '''Rare'''
 |-
-| {{Bag2|Red Shard}} || N/A || 20.01% || 21.04% || 25.22%
+| {{Bag2|Red Shard}} || 1 || 20.01% || 21.04% || 22.60% || 25.22%
 |-
 | align="center" colspan=6| '''Epic'''
 |-
-| {{Bag2|Iron Plate}} || N/A || 2.01% || 2.61% || 5.05%
+| {{Bag2|Iron Plate}} || 1 || 2.01% || 2.61% || 3.52% || 5.05%
 |-
-| {{Bag2|Flame Plate}} || N/A || 2.01% || 2.61% || 5.05%
+| {{Bag2|Flame Plate}} || 1 || 2.01% || 2.61% || 3.52% || 5.05%
 |-
 | align="center" colspan=6| '''Legendary'''
 |-
-| {{Bag2|Revive}} || 2 || 0.50% || 0.80% || 2.02%
+| {{Bag2|Revive}} || 2 || 0.50% || 0.80% || 1.25% || 2.02%
 |-
-| {{Bag2|Large Restore}} || N/A || 0.25% || 0.40% || 1.01%
+| {{Bag2|Large Restore}} || 1 || 0.25% || 0.40% || 0.63% || 1.01%
 |-
-| {{Bag2|Star Piece}} || N/A || 0.25% || 0.40% || 1.01%
+| {{Bag2|Star Piece}} || 1 || 0.25% || 0.40% || 0.63% || 1.01%
 |}
 &lt;/tab&gt;
 
 &lt;tab name="Debuff"&gt;
-After Reaching Galar, the drop chance for items in Unova will be debuffed for any loot with a Tier rarer than Rare (ie: Epic, Legendary, Mythic).
+After reaching [[Galar]], the drop chance for items will be [[Dungeons#Dungeon Loot Regional Debuff|debuffed]].
+
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears
 |-
 | align="center" colspan=6| '''Common'''
 |-
-| {{Bag2|Persim}} || 4 || 42.86% || 42.86% || 42.86%
+| {{Bag2|Persim}} || 4 || 42.86% || 42.86% || 42.86% || 42.86%
 |-
-| {{Bag2|Dowsing Machine}} || 2 || 21.43% || 21.43% || 21.43%
+| {{Bag2|Dowsing Machine}} || 2 || 21.43% || 21.43% || 21.43% || 21.43%
 |-
-| {{Bag2|Ultraball}} || N/A || 10.71% || 10.71% || 10.71%
+| {{Bag2|Ultra Ball}} || 1 || 10.71% || 10.71% || 10.71% || 10.71%
 |-
 | align="center" colspan=6| '''Rare'''
 |-
-| {{Bag2|Red Shard}} || N/A || 24.00% || 24.00% || 24.00%
+| {{Bag2|Red Shard}} || 1 || 24.00% || 24.00% || 24.00% || 24.00%
 |-
 | align="center" colspan=6| '''Epic'''
 |-
-| {{Bag2|Iron Plate}} || N/A || 0.45% || 0.45% || 0.45%
+| {{Bag2|Iron Plate}} || 1 || 0.45% || 0.45% || 0.45% || 0.45%
 |-
-| {{Bag2|Flame Plate}} || N/A || 0.45% || 0.45% || 0.45%
+| {{Bag2|Flame Plate}} || 1 || 0.45% || 0.45% || 0.45% || 0.45%
 |-
 | align="center" colspan=6| '''Legendary'''
 |-
-| {{Bag2|Revive}} || 2 || 0.05% || 0.05% || 0.05%
+| {{Bag2|Revive}} || 2 || 0.05% || 0.05% || 0.05% || 0.05%
 |-
-| {{Bag2|Large Restore}} || N/A || 0.03% || 0.03% || 0.03%
+| {{Bag2|Large Restore}} || 1 || 0.03% || 0.03% || 0.03% || 0.03%
 |-
-| {{Bag2|Star Piece}} || N/A || 0.03% || 0.03% || 0.03%
+| {{Bag2|Star Piece}} || 1 || 0.03% || 0.03% || 0.03% || 0.03%
 |}
 &lt;/tab&gt;
 &lt;/tabs&gt;
@@ -147,9 +148,9 @@ After Reaching Galar, the drop chance for items in Unova will be debuffed for an
       <username>ThePantMan</username>
       <id>8</id>
     </contributor>
-    <comment>/* Added Vibrava to bosses */</comment>
+    <comment>Text replacement - "Ultraball" to "Ultra Ball"</comment>
     <model>wikitext</model>
-    <parentid>33059</parentid>
-    <sha1>1b7d84e937f3b5945622df118ad820d3fe68924b</sha1>
+    <parentid>33582</parentid>
+    <sha1>54f3ceb074edd669da6a37d5f1bf2e45c30e8432</sha1>
   </revision>
 </page></mediawiki>

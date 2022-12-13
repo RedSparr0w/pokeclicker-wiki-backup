@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>2925</id>
   <revision>
-    <id>33063</id>
-    <timestamp>2022-12-08T21:14:44Z</timestamp>
-    <text space="preserve" bytes="5666">{{Infobox dungeon
+    <id>34233</id>
+    <timestamp>2022-12-12T21:10:24Z</timestamp>
+    <text space="preserve" bytes="5971">{{Infobox dungeon
 |name    = Victory Road Kalos
 |image   = [[File:Victory Road Kalos.png|250px]]
 |caption = A map of Victory Road Kalos.
@@ -85,66 +85,71 @@
 |}
 
 ==Items==
-
+&lt;tabs&gt;
+&lt;tab name="Base"&gt;
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears !! Requirement 
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears !! Requirement
 |-
-| align="center" colspan=6| '''Common'''
+| align="center" colspan=7| '''Common'''
 |-
-| {{Bag2|xAttack}} || N/A || 39.05% || 37.97% || 33.33% || rowspan=2|&lt;center&gt; N/A
+| {{Bag2|xAttack}} || 1 || 39.05% || 37.97% || 36.29% || 33.33% || rowspan=2| &lt;center&gt;N/A
 |-
-| {{Bag2|xClick}} || N/A || 39.05% || 37.97% || 33.33%
+| {{Bag2|xClick}} || 1 || 39.05% || 37.97% || 36.29% || 33.33%
 |-
-| align="center" colspan=6| '''Rare'''
+| align="center" colspan=7| '''Rare'''
 |-
-| {{Bag2|Red Shard}} || N/A || 4.17% || 4.43% || 5.54% || rowspan=5|&lt;center&gt; N/A
+| {{Bag2|Red Shard}} || 1 || 4.17% || 4.43% || 4.83% || 5.54% || rowspan=5| &lt;center&gt;N/A
 |-
-| {{Bag2|Blue Shard}} || N/A || 4.17% || 4.43% || 5.54%
+| {{Bag2|Blue Shard}} || 1 || 4.17% || 4.43% || 4.83% || 5.54%
 |-
-| {{Bag2|Green Shard}} || N/A || 4.17% || 4.43% || 5.54%
+| {{Bag2|Green Shard}} || 1 || 4.17% || 4.43% || 4.83% || 5.54%
 |-
-| {{Bag2|Yellow Shard}} || N/A || 4.17% || 4.43% || 5.54%
+| {{Bag2|Yellow Shard}} || 1 || 4.17% || 4.43% || 4.83% || 5.54%
 |-
-| {{Bag2|Pink Shard}} || N/A || 4.17% || 4.43% || 5.54%
+| {{Bag2|Pink Shard}} || 1 || 4.17% || 4.43% || 4.83% || 5.54%
 |-
-| align="center" colspan=6| '''Legendary'''
+| align="center" colspan=7| '''Legendary'''
 |-
-| {{Bag2|Star Piece}} || 2 || 0.23% || 0.37% || 0.99% || rowspan=8|&lt;center&gt; N/A
+| {{Bag2|Star Piece}} || 2 || 0.23% || 0.37% || 0.59% || 0.99% || rowspan=8| &lt;center&gt;N/A
 |-
-| {{Bag2|Ultraball}} || N/A || 0.12% || 0.19% || 0.49%
+| {{Bag2|Ultra Ball}} || 1 || 0.12% || 0.19% || 0.30% || 0.49%
 |-
-| {{Bag2|Smooth Rock}} || N/A || 0.12% || 0.19% || 0.49%
+| {{Bag2|Smooth Rock}} || 1 || 0.12% || 0.19% || 0.30% || 0.49%
 |-
-| {{Bag2|Revive}} || N/A || 0.12% || 0.19% || 0.49%
+| {{Bag2|Revive}} || 1 || 0.12% || 0.19% || 0.30% || 0.49%
 |-
-| {{Bag2|Duskball}} || N/A || 0.12% || 0.19% || 0.49%
+| {{Bag2|Dusk Ball}} || 1 || 0.12% || 0.19% || 0.30% || 0.49%
 |-
-| {{Bag2|Hard Stone}} || N/A || 0.12% || 0.19% || 0.49%
+| {{Bag2|Hard Stone}} || 1 || 0.12% || 0.19% || 0.30% || 0.49%
 |-
-| {{Bag2|Damp Rock}} || N/A || 0.12% || 0.19% || 0.49%
+| {{Bag2|Damp Rock}} || 1 || 0.12% || 0.19% || 0.30% || 0.49%
 |-
-| {{Bag2|Large Restore}} || N/A || 0.12% || 0.19% || 0.49%
+| {{Bag2|Large Restore}} || 1 || 0.12% || 0.19% || 0.30% || 0.49%
 |-
-| align="center" colspan=6| '''Mythic'''
+| align="center" colspan=7| '''Mythic'''
 |-
-| {{Bag2|Max Revive}} || N/A || &lt;0.01% || 0.08% || 0.39% || rowspan=2|&lt;center&gt; N/A
+| {{Bag2|Max Revive}} || 1 || &lt;0.01% || 0.08% || 0.19% || 0.39% || rowspan=2| &lt;center&gt;N/A
 |-
-| {{Bag2|Heart Scale}} || N/A || &lt;0.01% || 0.08% || 0.39%
+| {{Bag2|Heart Scale}} || 1 || &lt;0.01% || 0.08% || 0.19% || 0.39%
 |-
-| {{Bag2|Protein}} || N/A || 0% || 0% || 0.39% || 250 Clears
+| {{Bag2|Protein}} || 1 || N/A || N/A || 0.19% || 0.39% || 250 Clears
 |}
+The odds are very slightly off due to chances getting redistributed while the requirement locked loot is unavailable.
+&lt;/tab&gt;
+&lt;/tabs&gt;
+
 
 {{Kalos Dungeons}}
 
 [[Category:Dungeons|^Region #6 - Kalos^n]]</text>
     <contributor>
-      <username>DraKay</username>
-      <id>18</id>
+      <username>ThePantMan</username>
+      <id>8</id>
     </contributor>
-    <comment>/* Wild Encounters */</comment>
+    <comment>Text replacement - "Duskball" to "Dusk Ball"</comment>
     <model>wikitext</model>
-    <parentid>12326</parentid>
-    <sha1>ccf6b443028f3a70a284efe7954d7e8b81d28459</sha1>
+    <parentid>34106</parentid>
+    <sha1>b2ecfdded4bb8be8c91bc0660963446547e2f66a</sha1>
   </revision>
 </page></mediawiki>

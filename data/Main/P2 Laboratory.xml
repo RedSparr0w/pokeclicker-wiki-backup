@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>1756</id>
   <revision>
-    <id>29995</id>
-    <timestamp>2022-12-04T19:45:40Z</timestamp>
-    <text space="preserve" bytes="2938">{{Infobox dungeon
+    <id>33590</id>
+    <timestamp>2022-12-12T02:25:56Z</timestamp>
+    <text space="preserve" bytes="4339">{{Infobox dungeon
 |name    = P2 Laboratory
 |image   = [[File:P2 Laboratory.png|300px]]
 |caption = A map of P2 Laboratory.
@@ -65,54 +65,98 @@
 '''*Must have cleared P2 Laboratory at least once to unlock all Dungeon Boss Pokémon'''
 
 ==Items==
-
+&lt;tabs&gt;
+&lt;tab name="Base"&gt;
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears
 |-
 | align="center" colspan=6| '''Common'''
 |-
-| {{Bag2|xClick}} || N/A || 12.50% || 12.03% || 10.11%
+| {{Bag2|xClick}} || 1 || 12.50% || 12.03% || 11.31% || 10.11%
 |-
-| {{Bag2|xAttack}} || 2 || 24.99% || 24.05% || 20.21%
+| {{Bag2|xAttack}} || 2 || 24.99% || 24.05% || 22.62% || 20.21%
 |-
-| {{Bag2|Token Collector}} || 2 || 24.99% || 24.05% || 20.21%
+| {{Bag2|Token Collector}} || 2 || 24.99% || 24.05% || 22.62% || 20.21%
 |-
-| {{Pokemon|Forretress}} || N/A || 12.50% || 12.03% || 10.11%
+| {{Pokemon|Forretress|Mimic=Mimic}} || 1 || 12.50% || 12.03% || 11.31% || 10.11%
 |-
 | align="center" colspan=6| '''Rare'''
 |-
-| {{Bag2|Red Shard}} || N/A || 5.00% || 5.26% || 6.30%
+| {{Bag2|Red Shard}} || 1 || 5.00% || 5.26% || 5.65% || 6.30%
 |-
-| {{Bag2|Blue Shard}} || N/A || 5.00% || 5.26% || 6.30%
+| {{Bag2|Blue Shard}} || 1 || 5.00% || 5.26% || 5.65% || 6.30%
 |-
-| {{Bag2|Green Shard}} || N/A || 5.00% || 5.26% || 6.30%
+| {{Bag2|Green Shard}} || 1 || 5.00% || 5.26% || 5.65% || 6.30%
 |-
-| {{Bag2|Yellow Shard}} || N/A || 5.00% || 5.26% || 6.30%
+| {{Bag2|Yellow Shard}} || 1 || 5.00% || 5.26% || 5.65% || 6.30%
 |-
 | align="center" colspan=6| '''Epic'''
 |-
-| {{Bag2|Iron Plate}} || 2 || 1.60% || 2.08% || 4.04%
+| {{Bag2|Iron Plate}} || 2 || 1.60% || 2.08% || 2.82% || 4.04%
 |-
-| {{Bag2|Insect Plate}} || 2 || 1.60% || 2.08% || 4.04%
+| {{Bag2|Insect Plate}} || 2 || 1.60% || 2.08% || 2.82% || 4.04%
 |-
-| {{Bag2|Zap Plate}} || N/A || 0.80% || 1.04% || 2.02%
+| {{Bag2|Zap Plate}} || 1 || 0.80% || 1.04% || 1.41% || 2.02%
 |-
 | align="center" colspan=6| '''Legendary'''
 |-
-| {{Bag2|Revive}} || N/A || 1.00% || 1.59% || 4.03%
+| {{Bag2|Revive}} || 1 || 1.00% || 1.59% || 2.50% || 4.03%
 |}
+&lt;/tab&gt;
+&lt;tab name="Debuff"&gt;
+After reaching [[Galar]], the drop chance for items will be [[Dungeons#Dungeon Loot Regional Debuff|debuffed]].
+
+{| class="wikitable"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears
+|-
+| align="center" colspan=6| '''Common'''
+|-
+| {{Bag2|xClick}} || 1 || 12.50% || 12.50% || 12.50% || 12.50%
+|-
+| {{Bag2|xAttack}} || 2 || 25.00% || 25.00% || 25.00% || 25.00%
+|-
+| {{Bag2|Token Collector}} || 2 || 25.00% || 25.00% || 25.00% || 25.00%
+|-
+| {{Pokemon|Forretress|Mimic=Mimic}} || 1 || 12.50% || 12.50% || 12.50% || 12.50%
+|-
+| align="center" colspan=6| '''Rare'''
+|-
+| {{Bag2|Red Shard}} || 1 || 6.00% || 6.00% || 6.00% || 6.00%
+|-
+| {{Bag2|Blue Shard}} || 1 || 6.00% || 6.00% || 6.00% || 6.00%
+|-
+| {{Bag2|Green Shard}} || 1 || 6.00% || 6.00% || 6.00% || 6.00%
+|-
+| {{Bag2|Yellow Shard}} || 1 || 6.00% || 6.00% || 6.00% || 6.00%
+|-
+| align="center" colspan=6| '''Epic'''
+|-
+| {{Bag2|Iron Plate}} || 2 || 0.36% || 0.36% || 0.36% || 0.36%
+|-
+| {{Bag2|Insect Plate}} || 2 || 0.36% || 0.36% || 0.36% || 0.36%
+|-
+| {{Bag2|Zap Plate}} || 1 || 0.18% || 0.18% || 0.18% || 0.18%
+|-
+| align="center" colspan=6| '''Legendary'''
+|-
+| {{Bag2|Revive}} || 1 || 0.10% || 0.10% || 0.10% || 0.10%
+|}
+&lt;/tab&gt;
+&lt;/tabs&gt;
+
 
 {{Unova Dungeons}}
 
 [[Category:Dungeons|^Region #5 - Unova^x]]</text>
     <contributor>
-      <username>SomeonealiveQN</username>
-      <id>5</id>
+      <username>ThePantMan</username>
+      <id>8</id>
     </contributor>
-    <comment>/* Boss Encounters */</comment>
+    <comment>/* loot */</comment>
     <model>wikitext</model>
-    <parentid>10630</parentid>
-    <sha1>f182b6c486d3a7711a35cdb743af37ef2f48286a</sha1>
+    <parentid>29995</parentid>
+    <sha1>1e2a02cc1dd7cf21f9d2669b36ce729e6752c65b</sha1>
   </revision>
 </page></mediawiki>

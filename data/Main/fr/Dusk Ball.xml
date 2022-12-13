@@ -1,0 +1,82 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Dusk Ball/fr</title>
+  <ns>0</ns>
+  <id>8570</id>
+  <revision>
+    <id>34218</id>
+    <timestamp>2022-12-12T21:10:19Z</timestamp>
+    <text space="preserve" bytes="2301">&lt;languages/&gt;
+
+{{Infobox Pokéball
+|name       = Sombre Ball
+|image      = [[File:Dusk Ball.png]]
+|caption    = Image en jeu de la ''Sombre Ball''.
+|price      = Variable
+|catchTime  = 1s
+|catchRate = Variable (dépend du lieu et de l'heure)
+*+15% la nuit (18h - 6h) et dans les [[Dungeons/fr|Donjons]]
+*+0% le jour (6h - 18h) et partout ailleurs
+|location   = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*[[Dusk Ball/fr#Shops|Boutiques]]
+*[[Dusk Ball/fr#Dungeons|Donjons]]
+}}
+
+==Description==
+
+La '''Sombre Ball''' est un type de [[Pokéballs/fr|Ball]]. Elle est automatiquement lancée pour capturer un Pokémon sauvage après l'avoir mis KO s'il s'agit du plus haut type de Ball actif et qu'il vous en reste dans la fenètre de sélection de Poké Ball.
+
+==Détails==
+
+Une Ball spécialisée pour attraper les Pokémon la nuit et dans les [[Dungeons/fr|Donjons]]. Elle capture les Pokémon en 1 seconde.
+
+===Taux===
+
+{| class="wikitable"
+|+ Sombre Ball
+|-
+! Temps !! Modificateur du taux de capture
+|-
+| Nuit (entre 18:00 et 06:00) et dans les [[Dungeons/fr|Donjons]] || +15%
+|-
+| Jour (entre 06:00 et 18:00) et partout ailleurs || +0% (égal à une Poké Ball)
+|-
+|}
+
+== Acquisition ==
+===Boutiques===
+{{ItemPrice/head‎|Pokéballs}}
+{{ItemPrice|[[Berry Master#Trades|Doublonville]]|Entre 20 et 40 [[File:Cheri.png|25px]] [[Berries#Gen 1 Berries|Baies Gen 1]] aléatoires &lt;br&gt; Entre 5 et 15 [[File:Persim.png|25px]] [[Berries#Gen 2 Berries|Baies Gen 2]] aléatoires}}
+|}
+|}
+
+===Donjons===
+{{Loot/head‎|Pokéballs}}
+{{LootItem|Aqua Hideout|Planque Aqua|Légendaire}}
+{{LootItem|Iron Island|Île de Fer|Épique}}
+{{LootItem|Mistralton Cave|Grotte Parsemille|Légendaire}}
+{{LootItem|Victory Road Unova|Route Victoire (Unys)|Épique}}
+{{LootItem|Twist Mountain|Mont Foré|Légendaire}}
+{{LootItem|Pokéball Factory|Usine de Poké Balls|Épique}}
+{{LootItem|Lost Hotel|Hôtel Désolation|Épique}}
+{{LootItem|Frost Cavern|Caverne Gelée (Kalos)|Épique}}
+{{LootItem|Terminus Cave|Grotte Coda|Légendaire}}
+{{LootItem|Victory Road Kalos|Route Victoire (Kalos)|Légendaire}}
+{{LootItem|Diglett's Tunnel|Tunnel Taupiqueur|Épique}}
+{{LootItem|Memorial Hill|Colline Memento|Épique}}
+{{LootItem|Vast Poni Canyon|Grand Canyon de Poni|Épique}}
+|}
+|}
+
+&lt;br&gt;{{Pokéballs}}&lt;br&gt;
+[[Category:Items]] [[Category:Pokéballs]]</text>
+    <contributor>
+      <username>ThePantMan</username>
+      <id>8</id>
+    </contributor>
+    <comment>Text replacement - "Duskball" to "Dusk Ball"</comment>
+    <model>wikitext</model>
+    <parentid>34209</parentid>
+    <sha1>b9b5ae8096e967a58ff1864bc0899c4d42e3365f</sha1>
+  </revision>
+</page></mediawiki>

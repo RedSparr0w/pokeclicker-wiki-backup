@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>3707</id>
   <revision>
-    <id>14175</id>
-    <timestamp>2022-07-27T03:00:08Z</timestamp>
-    <text space="preserve" bytes="1993">{{Infobox dungeon
+    <id>33602</id>
+    <timestamp>2022-12-12T02:35:25Z</timestamp>
+    <text space="preserve" bytes="2093">{{Infobox dungeon
 |name    = Hau'oli Cemetery
 |image   = [[File:Hau'oli Cemetery.png|300px]]
 |caption = A map of Hau'oli Cemetery.
@@ -46,41 +46,45 @@
 |} 
 
 ==Items==
-
+&lt;tabs&gt;
+&lt;tab name="Base"&gt;
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears
 |-
 | align="center" colspan=6| '''Common'''
 |-
-| {{Bag2|xClick}} || N/A || 37.49% || 36.08% || 30.32%
+| {{Bag2|xClick}} || 1 || 37.49% || 36.08% || 33.93% || 30.32%
 |-
-| {{Bag2|Dowsing Machine}} || N/A || 37.49% || 36.08% || 30.32%
+| {{Bag2|Dowsing Machine}} || 1 || 37.49% || 36.08% || 33.93% || 30.32%
 |-
 | align="center" colspan=6| '''Rare'''
 |-
-| {{Bag2|Blue Shard}} || N/A || 10.01% || 10.52% || 12.61%
+| {{Bag2|Blue Shard}} || 1 || 10.01% || 10.52% || 11.30% || 12.61%
 |-
-| {{Bag2|Green Shard}} || N/A || 10.01% || 10.52% || 12.61%
+| {{Bag2|Green Shard}} || 1 || 10.01% || 10.52% || 11.30% || 12.61%
 |-
 | align="center" colspan=6| '''Epic'''
 |-
-| {{Bag2|Spooky Plate}} || N/A || 4.01% || 5.21% || 10.11%
+| {{Bag2|Spooky Plate}} || 1 || 4.01% || 5.21% || 7.04% || 10.11%
 |-
 | align="center" colspan=6| '''Legendary'''
 |-
-| {{Bag2|Medium Restore}} || N/A || 1.00% || 1.59% || 4.03%
+| {{Bag2|Medium Restore}} || 1 || 1.00% || 1.59% || 2.50% || 4.03%
 |}
+&lt;/tab&gt;
+&lt;/tabs&gt;
+
 
 {{Alola Dungeons}}
 [[Category:Dungeons|^Region #7 - Alola^b]]</text>
     <contributor>
-      <username>LatiosRider</username>
-      <id>35</id>
+      <username>ThePantMan</username>
+      <id>8</id>
     </contributor>
-    <comment>Add Category header</comment>
+    <comment>/* loot */</comment>
     <model>wikitext</model>
-    <parentid>14174</parentid>
-    <sha1>ff79c43f26d4c36531e992810ec854a5ebd68924</sha1>
+    <parentid>14175</parentid>
+    <sha1>92c346267f42e0a5abdfcda611725dc5d857ca88</sha1>
   </revision>
 </page></mediawiki>

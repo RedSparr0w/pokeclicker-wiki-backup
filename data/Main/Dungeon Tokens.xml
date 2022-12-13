@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>194</id>
   <revision>
-    <id>33142</id>
-    <timestamp>2022-12-09T20:26:55Z</timestamp>
-    <text space="preserve" bytes="92535">[[File:DungeonToken.png|thumb|200px|A Dungeon Token]]
+    <id>34392</id>
+    <timestamp>2022-12-12T21:50:26Z</timestamp>
+    <text space="preserve" bytes="92549">[[File:DungeonToken.png|thumb|200px|A Dungeon Token]]
 
 ==Description==
 '''Dungeon Tokens''' are blue tokens earned when a Pokémon is caught. They are consumables that are primarily used as a currency to enter '''[[Dungeons]].'''
@@ -23,27 +23,27 @@ A rate of Average Dungeon Tokens Gained per Second has been calculated for each 
 
 '''Dungeon Tokens''' and '''Average Catch%''' are route specific constants. &lt;br&gt;
 '''Defeat Time''' represents the time taken to defeat a Pokémon and is a constant (defeat time = 1 second). &lt;br&gt;
-'''Catch Time''' is a ball specific constant (see more information on this ball-specific constant in [[Pokéballs]]).
+'''Catch Time''' is a ball specific constant (see more information on this ball-specific constant in [[Poké Balls]]).
 
 ==Obtaining Dungeon Tokens==
 
 The following tables present the relevant information for gaining Dungeon Tokens. The most efficient routes are included in the [[Dungeon Tokens#Optimal Farming Routes|Optimal Farming Routes]] table. All route rates are also included below in subsequent tables. &lt;br&gt;
 
-The columns included in each table represent all the various combinations of the four standard [[Pokéballs]] and the [[Magic Ball]].
+The columns included in each table represent all the various combinations of the four standard [[Poké Balls]] and the [[Magic Ball]].
 &lt;br&gt;
 {| class="wikitable sortable"
 |-
-| PB || Just [[Pokéball|Pokéballs]]
+| PB || Just [[Poké Ball|Poké Balls]]
 |-
-| PB + MB || Both Pokéballs and Magic Ball
+| PB + MB || Both Poké Balls and Magic Ball
 |-
-| GB || Just [[Greatball|Greatballs]]
+| GB || Just [[Great Ball|Great Balls]]
 |-
-| GB + MB || Both Greatballs and Magic Ball
+| GB + MB || Both Great Balls and Magic Ball
 |-
-| UB || Just [[Ultraball|Ultraballs]]
+| UB || Just [[Ultra Ball|Ultra Balls]]
 |-
-| UB + MB || Both Ultraballs and Magic Ball
+| UB + MB || Both Ultra Balls and Magic Ball
 |}
 
 Importantly, the following tables assume two things:
@@ -107,7 +107,7 @@ Due to weather affecting encounters in [[Galar]], the optimal routes change acco
 
 
 ==Regional Rate Tables==
-The following tables provide detailed information for every route, separated by region. DT represents the DT you gain per capture on each route, and the values underneath each Pokéball/Magic Ball combination represent the average Dungeon Tokens you will gain per second.
+The following tables provide detailed information for every route, separated by region. DT represents the DT you gain per capture on each route, and the values underneath each Poké Ball/Magic Ball combination represent the average Dungeon Tokens you will gain per second.
 
 === [[Kanto]] ===
 {| class="mw-collapsible mw-collapsed wikitable sortable"
@@ -1768,7 +1768,7 @@ Galar Route 6 {{!}}{{!}} 4,982 {{!}}{{!}} 907.83 {{!}}{{!}} 1129.25 {{!}}{{!}} 1
 |-
 | [[File:Sea Spirit's Den.png|30px]] [[Sea Spirit's Den]]  ||  Azure Bay  ||  style="text-align: right;" | 600,000 {{dungeontokens}}
 |-
-| [[File:Pokéball Factory.png|30px]] [[Pokéball Factory]]  ||  Laverre City  ||  style="text-align: right;" | 615,000 {{dungeontokens}}
+| [[File:Poké Ball Factory.png|30px]] [[Poké Ball Factory]]  ||  Laverre City  ||  style="text-align: right;" | 615,000 {{dungeontokens}}
 |-
 | [[File:Lost Hotel.png|30px]] [[Lost Hotel]]  ||  Kalos Route 15  ||  style="text-align: right;" | 635,000 {{dungeontokens}}
 |-
@@ -1920,9 +1920,9 @@ Galar Route 6 {{!}}{{!}} 4,982 {{!}}{{!}} 907.83 {{!}}{{!}} 1129.25 {{!}}{{!}} 1
       <username>ThePantMan</username>
       <id>8</id>
     </contributor>
-    <comment>/* Galar */</comment>
+    <comment>/* Pokéball change */</comment>
     <model>wikitext</model>
-    <parentid>33064</parentid>
-    <sha1>a0df25f3eaeea35783a251407f670f28670a2304</sha1>
+    <parentid>34120</parentid>
+    <sha1>b2d26e9f6205206490074c61522d277a25228444</sha1>
   </revision>
 </page></mediawiki>

@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>1751</id>
   <revision>
-    <id>10568</id>
-    <timestamp>2022-07-27T02:49:46Z</timestamp>
-    <text space="preserve" bytes="3055">{{Infobox dungeon
+    <id>33864</id>
+    <timestamp>2022-12-12T18:37:29Z</timestamp>
+    <text space="preserve" bytes="5280">{{Infobox dungeon
 |name    = Dragonspiral Tower
 |image   = [[File:Dragonspiral Tower.png|300px]]
 |caption = A map of Dragonspiral Tower.
@@ -68,64 +68,124 @@
 
 
 ==Items==
+&lt;tabs&gt;
+&lt;tab name="Base"&gt;
+{| class="wikitable"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears !! Requirement
+|-
+| align="center" colspan=7| '''Common'''
+|-
+| {{Bag2|xAttack}} || 2 || 37.48% || 36.00% || 33.75% || 30.00% || rowspan=3| &lt;center&gt;N/A
+|-
+| {{Bag2|Razz}} || 1 || 18.74% || 18.00% || 16.88% || 15.00%
+|-
+| {{Bag2|Pinap}} || 1 || 18.74% || 18.00% || 16.88% || 15.00%
+|-
+| align="center" colspan=7| '''Rare'''
+|-
+| {{Bag2|Red Shard}} || 1 || 10.00% || 10.50% || 11.24% || 12.47% || rowspan=2| &lt;center&gt;N/A
+|-
+| {{Bag2|Yellow Shard}} || 1 || 10.00% || 10.50% || 11.24% || 12.47%
+|-
+| align="center" colspan=7| '''Epic'''
+|-
+| {{Bag2|Draco Plate}} || 1 || 0.57% || 0.74% || 1.00% || 1.43% || rowspan=7| &lt;center&gt;N/A
+|-
+| {{Bag2|Zap Plate}} || 1 || 0.57% || 0.74% || 1.00% || 1.43%
+|-
+| {{Bag2|Flame Plate}} || 1 || 0.57% || 0.74% || 1.00% || 1.43%
+|-
+| {{Bag2|Icicle Plate}} || 1 || 0.57% || 0.74% || 1.00% || 1.43%
+|-
+| {{Bag2|Spooky Plate}} || 1 || 0.57% || 0.74% || 1.00% || 1.43%
+|-
+| {{Bag2|Splash Plate}} || 1 || 0.57% || 0.74% || 1.00% || 1.43%
+|-
+| {{Bag2|Iron Plate}} || 1 || 0.57% || 0.74% || 1.00% || 1.43%
+|-
+| align="center" colspan=7| '''Legendary'''
+|-
+| {{Bag2|Star Piece}} || 2 || 0.50% || 0.80% || 1.24% || 1.99% || rowspan=3| &lt;center&gt;N/A
+|-
+| {{Bag2|Dragon Fang}} || 1 || 0.25% || 0.40% || 0.62% || 1.00%
+|-
+| {{Bag2|Large Restore}} || 1 || 0.25% || 0.40% || 0.62% || 1.00%
+|-
+| align="center" colspan=7| '''Mythic'''
+|-
+| {{Bag2|Heart Scale}} || 1 || 0.01% || 0.11% || 0.27% || 0.53% || &lt;center&gt;N/A
+|-
+| {{Bag2|Protein}} || 1 || N/A || N/A || N/A || 0.53% || 300 Clears
+|}
+The odds are very slightly off due to chances getting redistributed while the requirement locked loot is unavailable.
+&lt;/tab&gt;
+&lt;tab name="Debuff"&gt;
+After reaching [[Galar]], the drop chance for items will be [[Dungeons#Dungeon Loot Regional Debuff|debuffed]].
 
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears !! Requirement 
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears !! Requirement
+|- 
+| align="center" colspan=7| '''Common'''
 |-
-| align="center" colspan=6| '''Common'''
+| {{Bag2|xAttack}} || 2 || 37.50% || 37.50% || 37.50% || 37.50% || rowspan=3| &lt;center&gt;N/A
 |-
-| {{Bag2|xAttack}} || 2 || 37.48% || 36.00% || 30.00% || rowspan=3|&lt;center&gt; N/A
+| {{Bag2|Razz}} || 1 || 18.75% || 18.75% || 18.75% || 18.75%
 |-
-| {{Bag2|Razz}} || N/A || 18.74% || 18.00% || 15.00%
+| {{Bag2|Pinap}} || 1 || 18.75% || 18.75% || 18.75% || 18.75%
 |-
-| {{Bag2|Pinap}} || N/A || 18.74% || 18.00% || 15.00%
+| align="center" colspan=7| '''Rare'''
 |-
-| align="center" colspan=6| '''Rare'''
+| {{Bag2|Red Shard}} || 1 || 12.00% || 12.00% || 12.00% || 12.00% || rowspan=2| &lt;center&gt;N/A
 |-
-| {{Bag2|Red Shard}} || N/A || 10.00% || 10.50% || 12.47% || rowspan=3|&lt;center&gt; N/A
+| {{Bag2|Yellow Shard}} || 1 || 12.00% || 12.00% || 12.00% || 12.00%
 |-
-| {{Bag2|Yellow Shard}} || N/A || 10.00% || 10.50% || 12.47%
+| align="center" colspan=7| '''Epic'''
 |-
-| align="center" colspan=6| '''Epic'''
+| {{Bag2|Draco Plate}} || 1 || 0.13% || 0.13% || 0.13% || 0.13% || rowspan=7| &lt;center&gt;N/A
 |-
-| {{Bag2|Draco Plate}} || N/A || 0.57% || 0.74% || 1.43% || rowspan=7|&lt;center&gt; N/A
+| {{Bag2|Zap Plate}} || 1 || 0.13% || 0.13% || 0.13% || 0.13%
 |-
-| {{Bag2|Zap Plate}} || N/A || 0.57% || 0.74% || 1.43%
+| {{Bag2|Flame Plate}} || 1 || 0.13% || 0.13% || 0.13% || 0.13%
 |-
-| {{Bag2|Flame Plate}} || N/A || 0.57% || 0.74% || 1.43%
+| {{Bag2|Icicle Plate}} || 1 || 0.13% || 0.13% || 0.13% || 0.13%
 |-
-| {{Bag2|Icicle Plate}} || N/A || 0.57% || 0.74% || 1.43%
+| {{Bag2|Spooky Plate}} || 1 || 0.13% || 0.13% || 0.13% || 0.13%
 |-
-| {{Bag2|Spooky Plate}} || N/A || 0.57% || 0.74% || 1.43%
+| {{Bag2|Splash Plate}} || 1 || 0.13% || 0.13% || 0.13% || 0.13%
 |-
-| {{Bag2|Splash Plate}} || N/A || 0.57% || 0.74% || 1.43%
+| {{Bag2|Iron Plate}} || 1 || 0.13% || 0.13% || 0.13% || 0.13%
 |-
-| {{Bag2|Iron Plate}} || N/A || 0.57% || 0.74% || 1.43%
+| align="center" colspan=7| '''Legendary'''
 |-
-| align="center" colspan=6| '''Legendary'''
+| {{Bag2|Star Piece}} || 2 || 0.05% || 0.05% || 0.05% || 0.05% || rowspan=3| &lt;center&gt;N/A
 |-
-| {{Bag2|Star Piece}} || 2 || 0.66% || 1.06% || 2.66% || rowspan=2|&lt;center&gt; N/A
+| {{Bag2|Dragon Fang}} || 1 || 0.03% || 0.03% || 0.03% || 0.03%
 |-
-| {{Bag2|Large Restore}} || N/A || 0.33% || 0.53% || 1.33%
+| {{Bag2|Large Restore}} || 1 || 0.03% || 0.03% || 0.03% || 0.03%
 |-
-| align="center" colspan=6| '''Mythic'''
+| align="center" colspan=7| '''Mythic'''
 |-
-| {{Bag2|Heart Scale}} || N/A || 0.01% || 0.11% || 0.53% || &lt;center&gt; N/A
+| {{Bag2|Heart Scale}} || 1 || &lt;0.01% || &lt;0.01% || &lt;0.01% || &lt;0.01% || &lt;center&gt;N/A
 |-
-| {{Bag2|Protein}} || N/A || 0% || 0% || 0.53% || 300 Clears
+| {{Bag2|Protein}} || 1 || N/A || N/A || N/A || &lt;0.01% || 300 Clears
 |}
+The odds are very slightly off due to chances getting redistributed while the requirement locked loot is unavailable.
+&lt;/tab&gt;
+&lt;/tabs&gt;
+
 
 {{Unova Dungeons}}
 
 [[Category:Dungeons|^Region #5 - Unova^s]]</text>
     <contributor>
-      <username>LatiosRider</username>
-      <id>35</id>
+      <username>ThePantMan</username>
+      <id>8</id>
     </contributor>
-    <comment>Add Category header</comment>
+    <comment>/* loot */</comment>
     <model>wikitext</model>
-    <parentid>10567</parentid>
-    <sha1>0187ab5d7d38d50f286a681c0fe1e62ce5013d2a</sha1>
+    <parentid>10568</parentid>
+    <sha1>581920ed66693dd608d4ef18b3befa0d3c9e5488</sha1>
   </revision>
 </page></mediawiki>

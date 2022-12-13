@@ -4,14 +4,14 @@
   <ns>0</ns>
   <id>4033</id>
   <revision>
-    <id>14687</id>
-    <timestamp>2022-07-27T03:04:34Z</timestamp>
-    <text space="preserve" bytes="2170">{{Infobox dungeon
+    <id>34303</id>
+    <timestamp>2022-12-12T21:23:12Z</timestamp>
+    <text space="preserve" bytes="2274">{{Infobox dungeon
 |name    = Hokulani Observatory
 |image   = [[File:Hokulani Observatory.png|300px]]
 |caption = A map of Hokulani Observatory.
 |tokens  = 1,000,000
-|location = North of Mt. Hokulani.
+|location = Northeast of Mt. Hokulani.
 }}
 
 '''Hokulani Observatory''' is a [[Dungeons|dungeon]] in [[Alola]]. It initially has 121 tiles arranged in a 11x11 square, The [[Gyms#Alola|Electrium-Z]] [[File:ElectriumZ.png|30px]] is awarded upon clearing this dungeon, including 11 chest tiles, 41 non-boss encounter tiles, and 1 boss encounter tile. Wild Encounters have 13,883,676 HP.
@@ -57,41 +57,45 @@
 '''*Must be Alola Champion to Unlock'''
 
 ==Items==
-
+&lt;tabs&gt;
+&lt;tab name="Base"&gt;
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears
 |-
 | align="center" colspan=6| '''Common'''
 |-
-| {{Bag2|Dowsing Machine}} || N/A || 37.49% || 36.08% || 30.32%
+| {{Bag2|Dowsing Machine}} || 1 || 37.49% || 36.08% || 33.93% || 30.32%
 |-
-| {{Bag2|Token Collector}} || N/A || 37.49% || 36.08% || 30.32%
+| {{Bag2|Token Collector}} || 1 || 37.49% || 36.08% || 33.93% || 30.32%
 |-
 | align="center" colspan=6| '''Rare'''
 |-
-| {{Bag2|Yellow Shard}} || N/A || 20.01% || 21.04% || 25.22%
+| {{Bag2|Yellow Shard}} || 1 || 20.01% || 21.04% || 22.60% || 25.22%
 |-
 | align="center" colspan=6| '''Epic'''
 |-
-| {{Bag2|Zap Plate}} || N/A || 2.01% || 2.61% || 5.05%
+| {{Bag2|Zap Plate}} || 1 || 2.01% || 2.61% || 3.52% || 5.05%
 |-
-| {{Bag2|Iron Plate}} || N/A || 2.01% || 2.61% || 5.05%
+| {{Bag2|Iron Plate}} || 1 || 2.01% || 2.61% || 3.52% || 5.05%
 |-
 | align="center" colspan=6| '''Legendary'''
 |-
-| {{Bag2|Quickball}} || N/A || 1.00% || 1.59% || 4.03%
+| {{Bag2|Quick Ball}} || 1 || 1.00% || 1.59% || 2.50% || 4.03%
 |}
+&lt;/tab&gt;
+&lt;/tabs&gt;
+
 
 {{Alola Dungeons}}
 [[Category:Dungeons|^Region #7 - Alola^o]]</text>
     <contributor>
-      <username>LatiosRider</username>
-      <id>35</id>
+      <username>ThePantMan</username>
+      <id>8</id>
     </contributor>
-    <comment>Add Category header</comment>
+    <comment>Text replacement - "Quickball" to "Quick Ball"</comment>
     <model>wikitext</model>
-    <parentid>14686</parentid>
-    <sha1>6ef42c4f4785adb2e546bf57781b37c73537b5e2</sha1>
+    <parentid>33619</parentid>
+    <sha1>b175ddfd4328852c45264051d15612cb0b65a373</sha1>
   </revision>
 </page></mediawiki>

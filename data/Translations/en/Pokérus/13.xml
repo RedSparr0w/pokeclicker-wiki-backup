@@ -4,9 +4,9 @@
   <ns>1198</ns>
   <id>10545</id>
   <revision>
-    <id>30581</id>
-    <timestamp>2022-12-05T14:22:13Z</timestamp>
-    <text space="preserve" bytes="560">====EV Modifiers====
+    <id>34269</id>
+    <timestamp>2022-12-12T21:16:48Z</timestamp>
+    <text space="preserve" bytes="561">====EV Modifiers====
 {| class="wikitable"
 |+ EV Yield Modifiers
 ! EV Modifier || Method
@@ -17,7 +17,7 @@
 |-
 | 5x || Obtained Pokémon is [[Shiny Chance|Shiny]]. 
 |-
-| 5x || Pokémon is obtained using a [[Repeatball]]
+| 5x || Pokémon is obtained using a [[Repeat Ball]]
 |-
 | 50x || Pokémon is encountered and captured as a [[Roaming Pokemon]]
 |-
@@ -25,12 +25,12 @@
 |}
 '''Note:''' The pokemons that wander to any berry won't get any EV</text>
     <contributor>
-      <username>FuzzyBot</username>
-      <id>133</id>
+      <username>ThePantMan</username>
+      <id>8</id>
     </contributor>
-    <comment>Importing a new version from external source</comment>
+    <comment>Text replacement - "Repeatball" to "Repeat Ball"</comment>
     <model>wikitext</model>
-    <parentid>0</parentid>
-    <sha1>5a07932c997431f1dbae1c4c18704e51d9d4bed8</sha1>
+    <parentid>30581</parentid>
+    <sha1>8a5af91a27a8d8f390ac826d1ebb413f50050349</sha1>
   </revision>
 </page></mediawiki>

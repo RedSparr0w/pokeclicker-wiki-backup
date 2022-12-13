@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>4034</id>
   <revision>
-    <id>14696</id>
-    <timestamp>2022-07-27T03:04:53Z</timestamp>
-    <text space="preserve" bytes="2172">{{Infobox dungeon
+    <id>33871</id>
+    <timestamp>2022-12-12T18:49:29Z</timestamp>
+    <text space="preserve" bytes="2389">{{Infobox dungeon
 |name    = Thrifty Megamart
 |image   = [[File:Thrifty Megamart.png|300px]]
 |caption = A map of Thrifty Megmart.
@@ -57,41 +57,46 @@
 '''*Must be Alola Champion to Unlock'''
 
 ==Items==
-
+&lt;tabs&gt;
+&lt;tab name="Base"&gt;
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears !! Requirement 
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears !! Requirement
 |-
-| align="center" colspan=6| '''Common'''
+| align="center" colspan=7| '''Common'''
 |-
-| {{Bag2|Dowsing Machine}} || N/A || 37.86% || 36.58% || 31.25% || rowspan=2|&lt;center&gt; N/A
+| {{Bag2|Dowsing Machine}} || 1 || 37.86% || 36.58% || 34.61% || 31.25% || rowspan=2| &lt;center&gt;N/A
 |-
-| {{Bag2|Token Collector}} || N/A || 37.86% || 36.58% || 31.25%
+| {{Bag2|Token Collector}} || 1 || 37.86% || 36.58% || 34.61% || 31.25%
 |-
-| align="center" colspan=6| '''Rare'''
+| align="center" colspan=7| '''Rare'''
 |-
-| {{Bag2|Red Shard}} || N/A || 10.11% || 10.66% || 12.99% || rowspan=2|&lt;center&gt; N/A
+| {{Bag2|Red Shard}} || 1 || 10.11% || 10.66% || 11.52% || 12.99% || rowspan=2| &lt;center&gt;N/A
 |-
-| {{Bag2|Blue Shard}} || N/A || 10.11% || 10.66% || 12.99%
+| {{Bag2|Blue Shard}} || 1 || 10.11% || 10.66% || 11.52% || 12.99%
 |-
-| align="center" colspan=6| '''Epic'''
+| align="center" colspan=7| '''Epic'''
 |-
-| {{Bag2|Spooky Plate}} || N/A || 4.05% || 5.28% || 10.42% || &lt;center&gt; N/A
+| {{Bag2|Spooky Plate}} || 1 || 4.05% || 5.28% || 7.18% || 10.42% || &lt;center&gt;N/A
 |-
-| align="center" colspan=6| '''Mythic'''
+| align="center" colspan=7| '''Mythic'''
 |-
-| {{Bag2|Lum}} || N/A || 0% || 0.22% || 1.10% || 100 Clears
+| {{Bag2|Lum}} || 1 || N/A || 0.22% || 0.55% || 1.10% || 100 Clears
 |}
+The odds are very slightly off due to chances getting redistributed while the requirement locked loot is unavailable.
+&lt;/tab&gt;
+&lt;/tabs&gt;
+
 
 {{Alola Dungeons}}
 [[Category:Dungeons|^Region #7 - Alola^p]]</text>
     <contributor>
-      <username>LatiosRider</username>
-      <id>35</id>
+      <username>ThePantMan</username>
+      <id>8</id>
     </contributor>
-    <comment>Add Category header</comment>
+    <comment>/* loot */</comment>
     <model>wikitext</model>
-    <parentid>14695</parentid>
-    <sha1>abf961899f67614479d76eee5f9025daf805c0d7</sha1>
+    <parentid>14696</parentid>
+    <sha1>73ee4f8584e25d674f20cc7ecfbaa53ca388f198</sha1>
   </revision>
 </page></mediawiki>

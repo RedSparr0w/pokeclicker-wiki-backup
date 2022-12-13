@@ -1,0 +1,75 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Lure Ball</title>
+  <ns>0</ns>
+  <id>3595</id>
+  <revision>
+    <id>34397</id>
+    <timestamp>2022-12-12T22:16:59Z</timestamp>
+    <text space="preserve" bytes="1364">&lt;languages/&gt;
+&lt;translate&gt;
+
+&lt;!--T:1--&gt;
+{{Infobox Pokéball
+|name       = Lure Ball
+|image      = [[File:Lure Ball.png]]
+|caption    = In-Game image of the ''Lure Ball''.
+|price      = Variable
+|catchTime  = 1.25s
+|catchRate = Variable
+*+15% on fished route pokémon
+*+0% in all other instances
+|location   = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*[[Lure Ball#Dungeons|Dungeons]]
+}}
+
+==Description== &lt;!--T:2--&gt;
+
+&lt;!--T:7--&gt;
+The '''Lure Ball''' is a type of [[Poké Balls|Poké Ball]]. It automatically tries to catch a wild Pokémon after defeating it if is the highest type of Poké Ball active and there is a remaining supply in the Poké Ball selector.
+
+==Details== &lt;!--T:3--&gt;
+
+&lt;!--T:8--&gt;
+A specialized Poké Ball to capture Pokémon with, it provides an increased catch rate on fished Pokémon.
+
+===Rates=== &lt;!--T:4--&gt;
+
+&lt;!--T:9--&gt;
+{| class="wikitable"
+|+ Lure Ball
+|-
+! Location !! Catch Chance Modifier
+|-
+| Fished Pokémon || +15%
+|-
+| All other locations || +0% (Equal to Poké Ball)
+|-
+|}
+
+==Acquisition== &lt;!--T:5--&gt;
+{{Loot/head‎|Pokéballs}}
+{{LootItem|Slowpoke Well|Epic}}
+{{LootItem|Aqua Hideout|Epic}}
+{{LootItem|Lake Valor|Epic}}
+{{LootItem|Seaside Cave|Epic}}
+{{LootItem|Sea Spirit's Den|Epic}}
+{{LootItem|Pokéball Factory|Epic}}
+{{LootItem|Seaward Cave|Epic}}
+|}
+|}
+
+&lt;!--T:6--&gt;
+&lt;br&gt;{{Pokéballs}}&lt;br&gt;
+[[Category:Items]] [[Category:Pokéballs]]
+&lt;/translate&gt;</text>
+    <contributor>
+      <username>ThePantMan</username>
+      <id>8</id>
+    </contributor>
+    <comment>/* Pokeball change */</comment>
+    <model>wikitext</model>
+    <parentid>34194</parentid>
+    <sha1>778bcc0bc31415463371151c3c62669c7be948ce</sha1>
+  </revision>
+</page></mediawiki>

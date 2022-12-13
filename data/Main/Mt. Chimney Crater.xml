@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>350</id>
   <revision>
-    <id>33541</id>
-    <timestamp>2022-12-12T01:35:41Z</timestamp>
-    <text space="preserve" bytes="3339">{{Infobox dungeon
+    <id>33847</id>
+    <timestamp>2022-12-12T18:12:42Z</timestamp>
+    <text space="preserve" bytes="3575">{{Infobox dungeon
 |name    = Mt. Chimney Crater
 |image   = [[File:Mt. Chimney.png|300px]]
 |caption = A map of Mt. Chimney Crater.
@@ -73,6 +73,7 @@
 |-
 | {{Bag2|Protein}} || 1 || N/A || N/A || N/A || 1.18% || 400 Clears
 |}
+The odds are very slightly off due to chances getting redistributed while the requirement locked loot is unavailable.
 &lt;/tab&gt;
 
 &lt;tab name="Debuff"&gt;
@@ -102,6 +103,7 @@ After reaching [[Kalos]], the drop chance for items will be [[Dungeons#Dungeon L
 |-
 | {{Bag2|Protein}} || 1 || N/A || N/A || N/A || &lt;0.01% || 400 Clears
 |}
+The odds are very slightly off due to chances getting redistributed while the requirement locked loot is unavailable.
 &lt;/tab&gt;
 &lt;/tabs&gt;
 
@@ -112,9 +114,9 @@ After reaching [[Kalos]], the drop chance for items will be [[Dungeons#Dungeon L
       <username>ThePantMan</username>
       <id>8</id>
     </contributor>
-    <comment>/* not Kanto */</comment>
+    <comment>/* loot */</comment>
     <model>wikitext</model>
-    <parentid>33526</parentid>
-    <sha1>a2f1288b4bc88b4e3eb446d9164becd1f25ed5c2</sha1>
+    <parentid>33541</parentid>
+    <sha1>3e97816126f56376a1bec8b812baee8a587c2812</sha1>
   </revision>
 </page></mediawiki>

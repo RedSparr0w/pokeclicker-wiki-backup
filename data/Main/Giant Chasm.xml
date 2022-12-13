@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>1747</id>
   <revision>
-    <id>33083</id>
-    <timestamp>2022-12-08T21:26:20Z</timestamp>
-    <text space="preserve" bytes="7555">{{Infobox dungeon
+    <id>34071</id>
+    <timestamp>2022-12-12T20:45:26Z</timestamp>
+    <text space="preserve" bytes="7749">{{Infobox dungeon
 |name    = Giant Chasm
 |image   = [[File:Giant Chasm.png|300px]]
 |caption = A map of Giant Chasm.
@@ -92,86 +92,87 @@
 ==Items==
 
 &lt;tabs&gt;
-&lt;tab name="No Debuff"&gt;
+&lt;tab name="Base"&gt;
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears
 |-
 | align="center" colspan=6| '''Common'''
 |-
-| {{Bag2|Aspear}} || 4 || 42.84% || 41.14% || 34.29%
+| {{Bag2|Aspear}} || 4 || 42.84% || 41.14% || 38.57% || 34.29%
 |-
-| {{Bag2|Lucky Incense}} || 2 || 21.42% || 20.57% || 17.14%
+| {{Bag2|Lucky Incense}} || 2 || 21.42% || 20.57% || 19.29% || 17.14%
 |-
-| {{Pokemon|Amoonguss|Mimic}} || N/A || 10.71% || 10.29% || 8.57%
+| {{Pokemon|Amoonguss|Mimic=Mimic}} || 1 || 10.71% || 10.29% || 9.64% || 8.57%
 |-
 | align="center" colspan=6| '''Rare'''
 |-
-| {{Bag2|Green Shard}} || N/A || 10.00% || 10.50% || 12.47%
+| {{Bag2|Green Shard}} || 1 || 10.00% || 10.50% || 11.24% || 12.47%
 |-
-| {{Bag2|Yellow Shard}} || N/A || 10.00% || 10.50% || 12.47%
+| {{Bag2|Yellow Shard}} || 1 || 10.00% || 10.50% || 11.24% || 12.47%
 |-
 | align="center" colspan=6| '''Epic'''
 |-
-| {{Bag2|Icicle Plate}} || N/A || 1.34% || 1.73% || 3.33%
+| {{Bag2|Icicle Plate}} || 1 || 1.34% || 1.73% || 2.33% || 3.33%
 |-
-| {{Bag2|Draco Plate}} || N/A || 1.34% || 1.73% || 3.33%
+| {{Bag2|Draco Plate}} || 1 || 1.34% || 1.73% || 2.33% || 3.33%
 |-
-| {{Bag2|Dread Plate}} || N/A || 1.34% || 1.73% || 3.33%
+| {{Bag2|Dread Plate}} || 1 || 1.34% || 1.73% || 2.33% || 3.33%
 |-
 | align="center" colspan=6| '''Legendary'''
 |-
-| {{Bag2|Star Piece}} || 2 || 0.50% || 0.80% || 1.99%
+| {{Bag2|Star Piece}} || 2 || 0.50% || 0.80% || 1.24% || 1.99%
 |-
-| {{Bag2|Ultraball}} || N/A || 0.25% || 0.40% || 1.00%
+| {{Bag2|Ultra Ball}} || 1 || 0.25% || 0.40% || 0.62% || 1.00%
 |-
-| {{Bag2|Large Restore}} || N/A || 0.25% || 0.40% || 1.00%
+| {{Bag2|Large Restore}} || 1 || 0.25% || 0.40% || 0.62% || 1.00%
 |-
 | align="center" colspan=6| '''Mythic'''
 |-
-| {{Bag2|Max Revive}} || N/A || 0.01% || 0.22% || 1.06%
+| {{Bag2|Max Revive}} || 1 || 0.01% || 0.22% || 0.53% || 1.06%
 |}
 &lt;/tab&gt;
 
 &lt;tab name="Debuff"&gt;
-After Reaching Galar, the drop chance for items in Unova will be debuffed for any loot with a Tier rarer than Rare (ie: Epic, Legendary, Mythic).
+After reaching [[Galar]], the drop chance for items will be [[Dungeons#Dungeon Loot Regional Debuff|debuffed]].
+
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears
 |-
 | align="center" colspan=6| '''Common'''
 |-
-| {{Bag2|Aspear}} || 4 || 42.86% || 42.86% || 42.86%
+| {{Bag2|Aspear}} || 4 || 42.86% || 42.86% || 42.86% || 42.86%
 |-
-| {{Bag2|Lucky Incense}} || 2 || 21.43% || 21.43% || 21.43%
+| {{Bag2|Lucky Incense}} || 2 || 21.43% || 21.43% || 21.43% || 21.43%
 |-
-| {{Pokemon|Amoonguss|Mimic}} || N/A || 10.71% || 10.71% || 10.71%
+| {{Pokemon|Amoonguss|Mimic=Mimic}} || 1 || 10.71% || 10.71% || 10.71% || 10.71%
 |-
 | align="center" colspan=6| '''Rare'''
 |-
-| {{Bag2|Green Shard}} || N/A || 12.00% || 12.00% || 12.00%
+| {{Bag2|Green Shard}} || 1 || 12.00% || 12.00% || 12.00% || 12.00%
 |-
-| {{Bag2|Yellow Shard}} || N/A || 12.00% || 12.00% || 12.00%
+| {{Bag2|Yellow Shard}} || 1 || 12.00% || 12.00% || 12.00% || 12.00%
 |-
 | align="center" colspan=6| '''Epic'''
 |-
-| {{Bag2|Icicle Plate}} || N/A || 0.30% || 0.30% || 0.30%
+| {{Bag2|Icicle Plate}} || 1 || 0.30% || 0.30% || 0.30% || 0.30%
 |-
-| {{Bag2|Draco Plate}} || N/A || 0.30% || 0.30% || 0.30%
+| {{Bag2|Draco Plate}} || 1 || 0.30% || 0.30% || 0.30% || 0.30%
 |-
-| {{Bag2|Dread Plate}} || N/A || 0.30% || 0.30% || 0.30%
+| {{Bag2|Dread Plate}} || 1 || 0.30% || 0.30% || 0.30% || 0.30%
 |-
 | align="center" colspan=6| '''Legendary'''
 |-
-| {{Bag2|Star Piece}} || 2 || 0.05% || 0.05% || 0.05%
+| {{Bag2|Star Piece}} || 2 || 0.05% || 0.05% || 0.05% || 0.05%
 |-
-| {{Bag2|Ultraball}} || N/A || 0.03% || 0.03% || 0.03%
+| {{Bag2|Ultra Ball}} || 1 || 0.03% || 0.03% || 0.03% || 0.03%
 |-
-| {{Bag2|Large Restore}} || N/A || 0.03% || 0.03% || 0.03%
+| {{Bag2|Large Restore}} || 1 || 0.03% || 0.03% || 0.03% || 0.03%
 |-
 | align="center" colspan=6| '''Mythic'''
 |-
-| {{Bag2|Max Revive}} || N/A || &lt;0.01% || &lt;0.01% || &lt;0.01%
+| {{Bag2|Max Revive}} || 1 || &lt;0.01% || &lt;0.01% || &lt;0.01% || &lt;0.01%
 |}
 &lt;/tab&gt;
 &lt;/tabs&gt;
@@ -183,9 +184,9 @@ After Reaching Galar, the drop chance for items in Unova will be debuffed for an
       <username>ThePantMan</username>
       <id>8</id>
     </contributor>
-    <comment>/* Galar */</comment>
+    <comment>Text replacement - "Ultraball" to "Ultra Ball"</comment>
     <model>wikitext</model>
-    <parentid>10513</parentid>
-    <sha1>cbb2afafcef539ca7a0fc94fcda60cd755ceb7bb</sha1>
+    <parentid>33584</parentid>
+    <sha1>3078aef16d0020545f530399c395cbf0ccd02aab</sha1>
   </revision>
 </page></mediawiki>

@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>2908</id>
   <revision>
-    <id>12220</id>
-    <timestamp>2022-07-27T02:57:40Z</timestamp>
-    <text space="preserve" bytes="2207">{{Infobox dungeon
+    <id>34264</id>
+    <timestamp>2022-12-12T21:16:45Z</timestamp>
+    <text space="preserve" bytes="2436">{{Infobox dungeon
 |name    = Pokémon Village
 |image   = [[File:Pokémon Village.png|250px]]
 |caption = A map of Pokémon Village.
@@ -51,54 +51,60 @@
 |}
 
 ==Items==
-
+&lt;tabs&gt;
+&lt;tab name="Base"&gt;
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears
 |-
 | align="center" colspan=6| '''Common'''
 |-
-| {{Bag2|Token Collector}} || N/A || 10.71% || 10.31% || 8.66%
+| {{Bag2|Token Collector}} || 1 || 10.71% || 10.31% || 9.69% || 8.66%
 |-
-| {{Bag2|Rawst}} || N/A || 10.71% || 10.31% || 8.66%
+| {{Bag2|Rawst}} || 1 || 10.71% || 10.31% || 9.69% || 8.66%
 |-
-| {{Bag2|Chesto}} || N/A || 10.71% || 10.31% || 8.66%
+| {{Bag2|Chesto}} || 1 || 10.71% || 10.31% || 9.69% || 8.66%
 |-
-| {{Bag2|Aguav}} || N/A || 10.71% || 10.31% || 8.66%
+| {{Bag2|Aguav}} || 1 || 10.71% || 10.31% || 9.69% || 8.66%
 |-
-| {{Bag2|Wiki}} || N/A || 10.71% || 10.31% || 8.66%
+| {{Bag2|Wiki}} || 1 || 10.71% || 10.31% || 9.69% || 8.66%
 |-
-| {{Pokemon|Garbodor}} || N/A || 10.71% || 10.31% || 8.66%
+| {{Pokemon|Garbodor|Mimic=Mimic}} || 1 || 10.71% || 10.31% || 9.69% || 8.66%
 |-
-| {{Pokemon|Banette}} || N/A || 10.71% || 10.31% || 8.66%
+| {{Pokemon|Banette|Mimic=Mimic}} || 1 || 10.71% || 10.31% || 9.69% || 8.66%
 |-
 | align="center" colspan=6| '''Rare'''
 |-
-| {{Bag2|Green Shard}} || N/A || 10.01% || 10.52% || 12.61%
+| {{Bag2|Green Shard}} || 1 || 10.01% || 10.52% || 11.30% || 12.61%
 |-
-| {{Bag2|Pink Shard}} || N/A || 10.01% || 10.52% || 12.61%
+| {{Bag2|Pink Shard}} || 1 || 10.01% || 10.52% || 11.30% || 12.61%
 |-
 | align="center" colspan=6| '''Epic'''
 |-
-| {{Bag2|Pixie Plate}} || N/A || 2.01% || 2.61% || 5.05%
+| {{Bag2|Pixie Plate}} || 1 || 2.01% || 2.61% || 3.52% || 5.05%
 |-
-| {{Bag2|Repeatball}} || N/A || 2.01% || 2.61% || 5.05%
+| {{Bag2|Repeat Ball}} || 1 || 2.01% || 2.61% || 3.52% || 5.05%
 |-
 | align="center" colspan=6| '''Legendary'''
 |-
-| {{Bag2|Large Restore}} || N/A || 1.00% || 1.59% || 4.03%
+| {{Bag2|Large Restore}} || 1 || 0.50% || 0.80% || 1.25% || 2.02%
+|-
+| {{Bag2|Pink Bow}} || 1 || 0.50% || 0.80% || 1.25% || 2.02%
 |}
+&lt;/tab&gt;
+&lt;/tabs&gt;
+
 
 {{Kalos Dungeons}}
 
 [[Category:Dungeons|^Region #6 - Kalos^m]]</text>
     <contributor>
-      <username>LatiosRider</username>
-      <id>35</id>
+      <username>ThePantMan</username>
+      <id>8</id>
     </contributor>
-    <comment>Add Category header</comment>
+    <comment>Text replacement - "Repeatball" to "Repeat Ball"</comment>
     <model>wikitext</model>
-    <parentid>12219</parentid>
-    <sha1>7db646bb899d20c3efe9f04900f3e17258fea3ff</sha1>
+    <parentid>33600</parentid>
+    <sha1>92b659484549af0d2dc3ddff5df9a01e79ca2251</sha1>
   </revision>
 </page></mediawiki>

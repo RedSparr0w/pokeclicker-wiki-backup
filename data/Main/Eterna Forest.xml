@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>425</id>
   <revision>
-    <id>33554</id>
-    <timestamp>2022-12-12T01:51:34Z</timestamp>
-    <text space="preserve" bytes="4159">{{Infobox dungeon
+    <id>33977</id>
+    <timestamp>2022-12-12T20:16:11Z</timestamp>
+    <text space="preserve" bytes="4161">{{Infobox dungeon
 |name    = Eterna Forest
 |image   = [[File:Eterna Forest.png|300px]]
 |caption = A map of Eterna Forest.
@@ -73,7 +73,7 @@
 |-
 | {{Bag2|Bluk}} || 1 || 15.00% || 14.43% || 13.57% || 12.13%
 |-
-| {{Bag2|Greatball}} || 1 || 15.00% || 14.43% || 13.57% || 12.13%
+| {{Bag2|Great Ball}} || 1 || 15.00% || 14.43% || 13.57% || 12.13%
 |-
 | align="center" colspan=6| '''Rare'''
 |-
@@ -110,7 +110,7 @@ After reaching [[Alola]], the drop chance for items will be [[Dungeons#Dungeon L
 |-
 | {{Bag2|Bluk}} || 1 || 15.00% || 15.00% || 15.00% || 15.00%
 |-
-| {{Bag2|Greatball}} || 1 || 15.00% || 15.00% || 15.00% || 15.00%
+| {{Bag2|Great Ball}} || 1 || 15.00% || 15.00% || 15.00% || 15.00%
 |-
 | align="center" colspan=6| '''Rare'''
 |-
@@ -138,9 +138,9 @@ After reaching [[Alola]], the drop chance for items will be [[Dungeons#Dungeon L
       <username>ThePantMan</username>
       <id>8</id>
     </contributor>
-    <comment>/* loot */</comment>
+    <comment>Text replacement - "Greatball" to "Great Ball"</comment>
     <model>wikitext</model>
-    <parentid>33002</parentid>
-    <sha1>56ef338f32f11543ec69313238caec2a642ccdd5</sha1>
+    <parentid>33554</parentid>
+    <sha1>e709f31d9ae3dc85ef8e9bd3a24e4a026d4c8cef</sha1>
   </revision>
 </page></mediawiki>

@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>438</id>
   <revision>
-    <id>33023</id>
-    <timestamp>2022-12-08T16:41:02Z</timestamp>
-    <text space="preserve" bytes="2237">{{Infobox dungeon
+    <id>33573</id>
+    <timestamp>2022-12-12T02:05:57Z</timestamp>
+    <text space="preserve" bytes="2291">{{Infobox dungeon
 |name    = Fullmoon Island
 |image   = [[File:Fullmoon Island.png|300px]]
 |caption = A bird's-eye view of Fullmoon Island.
@@ -46,47 +46,47 @@
 == Items ==
 
 &lt;tabs&gt;
-&lt;tab name="No Debuff"&gt;
+&lt;tab name="Base"&gt;
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears
 |-
 | align="center" colspan=6| '''Common'''
 |-
-| {{Bag2|xClick}} || 2 || 50.49% || 48.88% || 42.13%
+| {{Bag2|xClick}} || 2 || 50.49% || 48.88% || 46.40% || 42.13%
 |-
-| {{Bag2|Nanab}} || N/A || 25.24% || 24.44% || 21.06%
+| {{Bag2|Nanab}} || 1 || 25.24% || 24.44% || 23.20% || 21.06%
 |-
 | align="center" colspan=6| '''Rare'''
 |-
-| {{Bag2|White Shard}} || N/A || 20.21% || 21.38% || 26.28%
+| {{Bag2|White Shard}} || 1 || 20.21% || 21.38% || 23.18% || 26.28%
 |-
 | align="center" colspan=6| '''Epic'''
 |-
-| {{Bag2|Mind Plate}} || N/A || 4.05% || 5.30% || 10.53%
+| {{Bag2|Mind Plate}} || 1 || 4.05% || 5.30% || 7.22% || 10.53%
 |}
 &lt;/tab&gt;
 
 &lt;tab name="Debuff"&gt;
-After Reaching Alola, the drop chance for items in Sinnoh will be debuffed for any loot with a Tier rarer than Rare (ie: Epic, Legendary, Mythic).
+After reaching [[Alola]], the drop chance for items will be [[Dungeons#Dungeon Loot Regional Debuff|debuffed]].
 
 {| class="wikitable"
 |-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears
 |-
 | align="center" colspan=6| '''Common'''
 |-
-| {{Bag2|xClick}} || 2 || 50.05% || 50.05% || 50.05%
+| {{Bag2|xClick}} || 2 || 50.05% || 50.05% || 50.05% || 50.05%
 |-
-| {{Bag2|Nanab}} || N/A || 25.03% || 25.03% || 25.03%
+| {{Bag2|Nanab}} || 1 || 25.03% || 25.03% || 25.03% || 25.03%
 |-
 | align="center" colspan=6| '''Rare'''
 |-
-| {{Bag2|White Shard}} || N/A || 24.02% || 24.02% || 24.02%
+| {{Bag2|White Shard}} || 1 || 24.02% || 24.02% || 24.02% || 24.02%
 |-
 | align="center" colspan=6| '''Epic'''
 |-
-| {{Bag2|Mind Plate}} || N/A || 0.90% || 0.90% || 0.90%
+| {{Bag2|Mind Plate}} || 1 || 0.90% || 0.90% || 0.90% || 0.90%
 |}
 &lt;/tab&gt;
 &lt;/tabs&gt;
@@ -99,9 +99,9 @@ After Reaching Alola, the drop chance for items in Sinnoh will be debuffed for a
       <username>ThePantMan</username>
       <id>8</id>
     </contributor>
-    <comment>/* Tabs */</comment>
+    <comment>/* loot */</comment>
     <model>wikitext</model>
-    <parentid>5917</parentid>
-    <sha1>e49ec87939e2b1ad6692fc2fc273fe33850a7f74</sha1>
+    <parentid>33023</parentid>
+    <sha1>b1021074e8ea57478c06c859bf54ebad466f494f</sha1>
   </revision>
 </page></mediawiki>
