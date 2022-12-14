@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>10164</id>
   <revision>
-    <id>33429</id>
-    <timestamp>2022-12-11T22:15:36Z</timestamp>
-    <text space="preserve" bytes="2336">{{Infobox dungeon
+    <id>34473</id>
+    <timestamp>2022-12-13T18:04:31Z</timestamp>
+    <text space="preserve" bytes="2186">{{Infobox dungeon
 |name    = Rock Peak Ruins
 |image   = [[File:Rock Peak Ruins.png|thumb]]
 |caption = A map of Rock Peak Ruins.
@@ -25,21 +25,21 @@
 |-
 ! Encounter !! Trainer !! Pokémon Team
 |-
-| [[File:Stonjourner.png|40px]] Stonjourner|| rowspan=8 colspan=2|&lt;center&gt;N/A
+| {{Pokemon|Stonjourner}} || rowspan=8 colspan=2|&lt;center&gt;N/A
 |-
-| [[File:Rhyperior.png|40px]] Rhyperior
+| {{Pokemon|Rhyperior}}
 |-
-| [[File:Aggron.png|40px]] Aggron
+| {{Pokemon|Aggron}}
 |-
-| [[File:Coalossal.png|40px]] Coalossal
+| {{Pokemon|Coalossal}}
 |-
-| [[File:Barbaracle.png|40px]] Barbaracle
+| {{Pokemon|Barbaracle}}
 |-
-| [[File:Gigalith.png|40px]] Gigalith
+| {{Pokemon|Gigalith}}
 |-
-| [[File:Crustle.png|40px]] Crustle
+| {{Pokemon|Crustle}}
 |-
-| [[File:Aerodactyl.png|40px]] Aerodactyl*
+| '''{{Pokemon|Aerodactyl}}*'''
 |}
 
 '''*Note:''' Aerodactyl will only appear if the player has captured it previously.
@@ -49,9 +49,9 @@
 |-
 ! Wild Pokémon !! Base Health !! Boss Trainer !! Pokémon Team !! Base Health
 |-
-| [[File:Relicanth.png|50px]] Relicanth || &lt;center&gt;149,662,240 || rowspan=2 colspan=3|&lt;center&gt;N/A
+| {{Pokemon|Relicanth}} || &lt;center&gt;149,662,240 || rowspan=2 colspan=3|&lt;center&gt;N/A
 |-
-| [[File:Regirock.png|50px]] '''Regirock*''' || &lt;center&gt;157,539,200
+| '''{{Pokemon|Regirock}}*''' || &lt;center&gt;157,539,200
 |}
 
 '''*Note:''' Must have made progress in [[Questlines#The_Ancient_Golems|The Ancient Golems]] Questline to unlock.
@@ -93,9 +93,9 @@
       <username>Jk13</username>
       <id>14</id>
     </contributor>
-    <comment>/* Items */</comment>
+    <comment></comment>
     <model>wikitext</model>
-    <parentid>32203</parentid>
-    <sha1>73040fdd11ae7018d594af0558fe68e150c41827</sha1>
+    <parentid>33429</parentid>
+    <sha1>1a9d322760b3387a9704bd1bb6a99a61d0425bed</sha1>
   </revision>
 </page></mediawiki>

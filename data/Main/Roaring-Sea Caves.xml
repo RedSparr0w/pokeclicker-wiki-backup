@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>10163</id>
   <revision>
-    <id>34228</id>
-    <timestamp>2022-12-12T21:10:22Z</timestamp>
-    <text space="preserve" bytes="3172">{{Infobox dungeon
+    <id>34489</id>
+    <timestamp>2022-12-13T18:34:57Z</timestamp>
+    <text space="preserve" bytes="2881">{{Infobox dungeon
 |name    = Roaring-Sea Caves
 |image   = [[File:Roaring-Sea Caves.png|thumb]]
 |caption = A map of Roaring-Sea Caves.
@@ -25,57 +25,56 @@
 |-
 ! Encounter !! Trainer !! Pokémon Team
 |-
-| [[File:Zubat.png|40px]] Zubat|| rowspan=15 colspan=2|&lt;center&gt;N/A
+| {{Pokemon|Zubat}} || rowspan=15 colspan=2|&lt;center&gt;N/A
 |-
-| [[File:Carbink.png|40px]] Carbink
+| {{Pokemon|Carbink}}
 |-
-| [[File:Piloswine.png|40px]] Piloswine
+| {{Pokemon|Piloswine}}
 |-
-| [[File:Deino.png|40px]] Deino
+| {{Pokemon|Deino}}
 |-
-| [[File:Larvitar.png|40px]] Larvitar
+| {{Pokemon|Larvitar}}
 |-
-| [[File:Riolu.png|40px]] Riolu
+| {{Pokemon|Riolu}}
 |-
-| [[File:Audino.png|40px]] Audino
+| {{Pokemon|Audino}}
 |-
-| [[File:Golbat.png|40px]] Golbat
+| {{Pokemon|Golbat}}
 |-
-| [[File:Barboach.png|40px]] Barboach
+| {{Pokemon|Barboach}}
 |-
-| [[File:Basculin (Red-Striped).png|40px]] Basculin (Red-Striped)
+| {{Pokemon|Basculin (Red-Striped)}}
 |-
-| [[File:Basculin (Blue-Striped).png|40px]] Basculin (Blue-Striped)
+| {{Pokemon|Basculin (Blue-Striped)}}
 |-
-| [[File:Magikarp.png|40px]] Magikarp
+| {{Pokemon|Magikarp}}
 |-
-| [[File:Feebas.png|40px]] Feebas
+| {{Pokemon|Feebas}}
 |-
-| [[File:Omanyte.png|40px]] Omanyte* 
+| '''{{Pokemon|Omanyte}}*'''
 |-
-| [[File:Kabuto.png|40px]] Kabuto* 
+| '''{{Pokemon|Kabuto}}*'''
 |}
 
-'''*Note:''' Omanyte and Kabuto will only appear if the player has captured them previously. 
-
+'''*Note:''' Omanyte and Kabuto will only appear if the player has captured them previously.
 
 ===Boss Encounters===
 {| class="wikitable"
 |-
 ! Wild Pokémon !! Base Health !! Boss Trainer !! Pokémon Team !! Base Health
 |-
-| [[File:Kabutops.png|50px]] Kabutops* || rowspan=5|&lt;center&gt;160,924,440 || rowspan=5 colspan=3|&lt;center&gt;N/A
+| '''{{Pokemon|Kabutops}}*''' || rowspan=5|&lt;center&gt;160,924,440 || rowspan=5 colspan=3|&lt;center&gt;N/A
 |-
-| [[File:Omastar.png|50px]] Omastar*
+| '''{{Pokemon|Omastar}}*'''
 |-
-| [[File:Tyranitar.png|50px]] Tyranitar
+| {{Pokemon|Tyranitar}}
 |-
-| [[File:Hydreigon.png|50px]] Hydreigon
+| {{Pokemon|Hydreigon}}
 |-
-| [[File:Lucario.png|50px]] Lucario
+| {{Pokemon|Lucario}}
 |}
 
-'''*Note:''' Kabutops and Omastar will only appear if the player has captured them previously. 
+'''*Note:''' Kabutops and Omastar will only appear if the player has captured them previously.
 
 ==Items==
 
@@ -125,12 +124,12 @@
 {{Galar Dungeons}}
 [[Category:Dungeons|^Region #8 - Galar^c]]</text>
     <contributor>
-      <username>ThePantMan</username>
-      <id>8</id>
+      <username>Jk13</username>
+      <id>14</id>
     </contributor>
-    <comment>Text replacement - "Duskball" to "Dusk Ball"</comment>
+    <comment>/* Wild Encounters */</comment>
     <model>wikitext</model>
-    <parentid>34092</parentid>
-    <sha1>d96fe19797de4e86b49427a624b7d218e739f7cc</sha1>
+    <parentid>34488</parentid>
+    <sha1>70fe95407076b7b0487f15b05a9ee41683a7c853</sha1>
   </revision>
 </page></mediawiki>

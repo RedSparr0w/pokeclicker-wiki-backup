@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>10165</id>
   <revision>
-    <id>33428</id>
-    <timestamp>2022-12-11T22:15:18Z</timestamp>
-    <text space="preserve" bytes="2168">{{Infobox dungeon
+    <id>34458</id>
+    <timestamp>2022-12-13T17:57:57Z</timestamp>
+    <text space="preserve" bytes="2008">{{Infobox dungeon
 |name    = Iron Ruins
 |image   = [[File:Iron Ruins.png|thumb]]
 |caption = A map of Iron Ruins.
@@ -25,21 +25,21 @@
 |-
 ! Encounter !! Trainer !! Pokémon Team
 |-
-| [[File:Bronzong.png|40px]] Bronzong|| rowspan=8 colspan=2|&lt;center&gt;N/A
+| {{Pokemon|Bronzong}} || rowspan=8 colspan=2|&lt;center&gt;N/A
 |-
-| [[File:Duraludon.png|40px]] Duraludon
+| {{Pokemon|Duraludon}}
 |-
-| [[File:Copperajah.png|40px]] Copperajah
+| {{Pokemon|Copperajah}}
 |-
-| [[File:Corviknight.png|40px]] Corviknight
+| {{Pokemon|Corviknight}}
 |-
-| [[File:Perrserker.png|40px]] Perrserker
+| {{Pokemon|Perrserker}}
 |-
-| [[File:Bisharp.png|40px]] Bisharp
+| {{Pokemon|Bisharp}}
 |-
-| [[File:Ferrothorn.png|40px]] Ferrothorn
+| {{Pokemon|Ferrothorn}}
 |-
-| [[File:Excadrill.png|40px]] Excadrill
+| {{Pokemon|Excadrill}}
 |}
 
 ===Boss Encounters===
@@ -47,9 +47,9 @@
 |-
 ! Wild Pokémon !! Base Health !! Boss Trainer !! Pokémon Team !! Base Health
 |-
-| [[File:Metagross.png|50px]] Metagross|| &lt;center&gt;149,662,240 || rowspan=2 colspan=3|&lt;center&gt;N/A
+| {{Pokemon|Metagross}} || &lt;center&gt;149,662,240 || rowspan=2 colspan=3|&lt;center&gt;N/A
 |-
-| [[File:Registeel.png|50px]] '''Registeel*''' || &lt;center&gt;157,539,200
+| '''{{Pokemon|Registeel}}*''' || &lt;center&gt;157,539,200
 |}
 
 '''*Note:''' Must have made progress in [[Questlines#The_Ancient_Golems|The Ancient Golems]] Questline to unlock.
@@ -89,9 +89,9 @@
       <username>Jk13</username>
       <id>14</id>
     </contributor>
-    <comment>/* Items */</comment>
+    <comment></comment>
     <model>wikitext</model>
-    <parentid>32202</parentid>
-    <sha1>ea529c62b6f308f9df7cd55cf479b0b13e72146a</sha1>
+    <parentid>33428</parentid>
+    <sha1>d1571ba85c96a5d767f35761e4688ee1b05bc74b</sha1>
   </revision>
 </page></mediawiki>

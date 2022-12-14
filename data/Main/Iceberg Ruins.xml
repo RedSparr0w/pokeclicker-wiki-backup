@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>10122</id>
   <revision>
-    <id>33427</id>
-    <timestamp>2022-12-11T22:14:22Z</timestamp>
-    <text space="preserve" bytes="2410">{{Infobox dungeon
+    <id>34453</id>
+    <timestamp>2022-12-13T17:56:36Z</timestamp>
+    <text space="preserve" bytes="2254">{{Infobox dungeon
 |name    = Iceberg Ruins
 |image   = [[File:Iceberg Ruins.png|thumb]]
 |caption = A map of Iceberg Ruins.
@@ -25,21 +25,21 @@
 |-
 ! Encounter !! Trainer !! Pokémon Team
 |-
-| [[File:Cryogonal.png|40px]] Cryogonal|| colspan=2 rowspan=8| &lt;center&gt; N/A
+| {{Pokemon|Cryogonal}} || colspan=2 rowspan=8| &lt;center&gt; N/A
 |-
-| [[File:Beartic.png|40px]] Beartic
+| {{Pokemon|Beartic}}
 |-
-| [[File:Galarian Darumaka.png|40px]] Galarian Darumaka
+| {{Pokemon|Galarian Darumaka}}
 |-
-| [[File:Weavile.png|40px]] Weavile
+| {{Pokemon|Weavile}}
 |-
-| [[File:Vanilluxe.png|40px]] Vanilluxe
+| {{Pokemon|Vanilluxe}}
 |-
-| [[File:Froslass.png|40px]] Froslass
+| {{Pokemon|Froslass}}
 |-
-| [[File:Delibird.png|40px]] Delibird
+| {{Pokemon|Delibird}}
 |-
-| [[File:Aurorus.png|40px]] Aurorus*
+| '''{{Pokemon|Aurorus}}*'''
 |}
 
 '''*Note:''' Aurorus will only appear if the player has captured it previously.
@@ -49,9 +49,9 @@
 |-
 ! Wild Pokémon !! Base Health !! Boss Trainer !! Pokémon Team !! Base Health
 |-
-| [[File:Glalie.png|40px]] Glalie|| &lt;center&gt;149,662,240 || colspan=3 rowspan=2|&lt;center&gt;N/A
+| {{Pokemon|Glalie}} || &lt;center&gt;149,662,240 || colspan=3 rowspan=2|&lt;center&gt;N/A
 |-
-| [[File:Regice.png|40px]] '''Regice*'''|| &lt;center&gt;157,539,200
+| '''{{Pokemon|Regice}}*'''|| &lt;center&gt;157,539,200
 |}
 
 '''*Note:''' Must have made progress in [[Questlines#The_Ancient_Golems|The Ancient Golems]] Questline to unlock.
@@ -69,7 +69,7 @@
 |-
 | {{Bag2|Lucky Incense}} || 3 || 32.46% || 31.43% || 29.83% || 27.08%
 |-
-| {{Pokemon|Cryogonal|Mimic=Mimic|Size=40px}} || 1 || 10.82% || 10.48% || 9.94% || 9.03%
+| {{Pokemon|Cryogonal|Mimic=Mimic}} || 1 || 10.82% || 10.48% || 9.94% || 9.03%
 |-
 | align="center" colspan=6| '''Rare'''
 |-
@@ -93,9 +93,9 @@
       <username>Jk13</username>
       <id>14</id>
     </contributor>
-    <comment>/* Items */</comment>
+    <comment></comment>
     <model>wikitext</model>
-    <parentid>32201</parentid>
-    <sha1>0276a94512fbef3f54eaec29be6b49752f3ab14f</sha1>
+    <parentid>33427</parentid>
+    <sha1>57f5b9f68d8d4a94eeed7571029d8043296a67c4</sha1>
   </revision>
 </page></mediawiki>

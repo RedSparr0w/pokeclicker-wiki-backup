@@ -4,9 +4,11 @@
   <ns>0</ns>
   <id>3430</id>
   <revision>
-    <id>33308</id>
-    <timestamp>2022-12-11T04:14:35Z</timestamp>
-    <text space="preserve" bytes="4874">'''Farm Hands''' are people that can be hired to work on your [[farm]], which are used to automate planting and harvesting berries.  Many are unlocked by unlocking a certain number of berries, while others can be unlocked from certain shops.  Once hired, farm hands will work until they are fired.  This feature is currently in beta, and is subject to change.
+    <id>34426</id>
+    <timestamp>2022-12-13T09:54:54Z</timestamp>
+    <text space="preserve" bytes="5560">'''Farm Hands''' are people that can be hired to work on your [[farm]], which are used to automate planting and harvesting berries.  Many are unlocked by unlocking a certain number of berries, while others can be unlocked from certain shops.  Once hired, farm hands will work until they are fired.  This feature is currently in beta, and is subject to change.
+
+You can only hire 3 different farm hands at the same time.
 
 ==Unlocking Farm Hands==
 
@@ -40,7 +42,7 @@ Farm hands have 4 important stats: '''Cost, Work Speed, Efficiency, and Max Ener
 |-
 ! Stat !! Description !! Usage
 |-
-| '''Cost''' || Hourly wage of the Farm Hand || Cost is deducted from your [[Farmingpoints|farm points]] every hour that the Farm Hand is employed.
+| '''Cost''' || Hourly wage of the Farm Hand || Cost is deducted from your [[Farmingpoints|farm points]] every hour that the Farm Hand is employed. &lt;br&gt; this is independent of the farm hand working or not. They will Always receive their money. 
 |-
 | rowspan=3|'''Work Speed''' || rowspan=3|How often the Farm Hand works ||  If the farm hand has energy, they will work and lose 1 energy each work period where they perform any action
 |-
@@ -50,7 +52,7 @@ Farm hands have 4 important stats: '''Cost, Work Speed, Efficiency, and Max Ener
 |-
 | rowspan=3|'''Efficiency''' || rowspan=3|How many actions the Farm Hand can make each work cycle || Harvesting a berry and planting a berry count as two separate actions
 |-
-| (Efficiency / 2) is how many berries a farmhand can harvest and replant in a work cycle 
+| '' (Efficiency / 2) is how many berries a farmhand can both harvest and replant in a work cycle''
 |-
 | Farmhands will always prioritize harvesting berries over replanting them.
 |-
@@ -61,23 +63,42 @@ Farm hands have 4 important stats: '''Cost, Work Speed, Efficiency, and Max Ener
 |}
 
 == Usage ==
+===Settings===
+The Farm Hands have different options to personalize their work:
+{| class="wikitable"
+! Setting !! Options!! Description
+|-
+|'''Should harvest''' || Yes/No || Define if the Farm Hand harvest berries
+|-
+|'''Berry Planting''' || List of unlocked berries + random || Allows the player to pick a specific berry to plant. &lt;br&gt; Each hired farm hand can only plant one kind of berry. '' To plant more, additional farm hands must be hired.'' &lt;br&gt; If random option is selected the farm hand will plant any of the available berries. 
+|-
+|'''Allowed Plots''' || Green or not || Opens a dropdown that allows you to select which specific plots the farm hand works on, green is a space where they are allowed to work
+|}
+'''Note:''' Farm hands won't work in locked plots.
 
-Clicking on "Allowed Plots" opens a dropdown that allows you to select which specific plots the farm hand works on, where green is a space where they are allowed to work.  Selecting the Berry Planting dropdown will allow the player to pick a specific berry to plant in those specific plots.  Clicking the Harvest checkbox will allow that farmhand to harvest from those specific plots.
+===Example===
+{{Infobox battle item
+|name       = Example Settings
+|image      = [[File:FarmHandExample1.png|400px]]
+|caption    = Selected settings for the following example
+}}
 
+In this example, Alex and Logan are going to work on the farm together (once hired).
 
+Alex is planting [[Wacan]] berries along the outside, down the third column, and across the third row.  Logan is planting [[Lum|Lums]] in the remaining spaces.
 
-[[File:FarmHandExample1.png|right|400px]]
+Alex will harvest all berries along the outside, down the third column, and across the third row (which could be Wacans, [[Kasib|Kasibs]], etc.) and will put Wacans in those empty plots.  Logan will plant Lums in the 4 plots they have been told to watch, but only if they are empty.  Logan will not harvest any berries, and will do nothing, except plant those 4 empty plots with Lums.
 
-In this example, Alex and Logan are going to work on the farm together (once hired).  Alex is planting [[Wacan]] berries along the outside, down the third column, and across the third row.  Logan is planting [[Lum|Lums]] in the remaining spaces.  Alex will harvest all berries along the outside, down the third column, and across the third row (which could be Wacans, [[Kasib|Kasibs]], etc.) and will put Wacans in those empty plots.  Logan will plant Lums in the 4 plots they have been told to watch, but only if they are empty.  Logan will not harvest any berries, and will do nothing, except plant those 4 empty plots with Lums.  Keep in mind though, that the farm hands stats play a '''''very important''''' role in using farm hands.  In this scenario, Alex will plant 1 Wacan berry every 37 minutes, due to Alex's Work Speed being 37 minutes and his Efficiency being 1.  This is a rather poor use of Alex, as a Wacan is only alive for 1 hour without the sprayduck equipped, and so Alex will only ever plant berries on 2 plots.  Logan will Plant 3 Lum berries every 19 minutes, and when there are no more plots left to plant in, will recover energy or do nothing if at max energy.
+Keep in mind though, that the farm hands stats play a '''''very important''''' role in using farm hands.  In this scenario, Alex will plant 1 Wacan berry every 37 minutes, due to Alex's Work Speed being 37 minutes and his Efficiency being 1.  This is a rather poor use of Alex, as a Wacan is only alive for 1 hour without the sprayduck equipped, and so Alex will only ever plant berries on 2 plots.  Logan will Plant 3 Lum berries every 19 minutes, and when there are no more plots left to plant in, will recover energy or do nothing if at max energy.
 
 [[Category:Farm]]</text>
     <contributor>
-      <username>SomeonealiveQN</username>
-      <id>5</id>
+      <username>DraKay</username>
+      <id>18</id>
     </contributor>
-    <comment>/* Unlocking Farm Hands */</comment>
+    <comment></comment>
     <model>wikitext</model>
-    <parentid>13124</parentid>
-    <sha1>4decdff96f541016ac937583b87667664c763710</sha1>
+    <parentid>34425</parentid>
+    <sha1>8acb54fa053954eb933926069c9cc3b5fe93943a</sha1>
   </revision>
 </page></mediawiki>

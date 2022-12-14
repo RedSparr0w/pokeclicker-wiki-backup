@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>194</id>
   <revision>
-    <id>34392</id>
-    <timestamp>2022-12-12T21:50:26Z</timestamp>
-    <text space="preserve" bytes="92549">[[File:DungeonToken.png|thumb|200px|A Dungeon Token]]
+    <id>34603</id>
+    <timestamp>2022-12-14T00:26:22Z</timestamp>
+    <text space="preserve" bytes="94491">[[File:DungeonToken.png|thumb|200px|A Dungeon Token]]
 
 ==Description==
 '''Dungeon Tokens''' are blue tokens earned when a Pokémon is caught. They are consumables that are primarily used as a currency to enter '''[[Dungeons]].'''
@@ -1518,6 +1518,7 @@ Galar Route 6 {{!}}{{!}} 4,982 {{!}}{{!}} 907.83 {{!}}{{!}} 1129.25 {{!}}{{!}} 1
 ==Uses==
 ===Dungeon Entry Cost===
 ==== [[Kanto]] ====
+=====Main Region + Sevii Islands 123=====
 {| class="mw-collapsible mw-collapsed wikitable sortable"
 |-
 ! Name !! Location !! Entry Price
@@ -1551,6 +1552,12 @@ Galar Route 6 {{!}}{{!}} 4,982 {{!}}{{!}} 907.83 {{!}}{{!}} 1129.25 {{!}}{{!}} 1
 | [[File:Cerulean Cave.png|30px]] [[Cerulean Cave]]  ||  Cerulean City  ||  style="text-align: right;" | 2,500 {{dungeontokens}}
 |-
 | [[File:Ruby Path.png|30px]] [[Ruby Path]]  ||  Sevii Island 1  ||  style="text-align: right;" | 43,000 {{dungeontokens}}
+|}
+
+=====Sevii Islands 4567=====
+{| class="mw-collapsible mw-collapsed wikitable sortable"
+|-
+! Name !! Location !! Entry Price
 |-
 | [[File:Icefall Cave.png|30px]] [[Icefall Cave]]  ||  Sevii Island 4  ||  style="text-align: right;" | 43,000 {{dungeontokens}}
 |-
@@ -1897,6 +1904,31 @@ Galar Route 6 {{!}}{{!}} 4,982 {{!}}{{!}} 907.83 {{!}}{{!}} 1129.25 {{!}}{{!}} 1
 | [[File:Crown Shrine.png|30px]] [[Crown Shrine]]  || North of Path to the Peak ||  style="text-align: right;" | 2,200,000 {{dungeontokens}}
 |}
 
+==== Trivia ====
+To complete all dungeon achievements, you would need the following number of Dungeon tokens.
+{| class="wikitable" style="text-align: right;"
+|-
+! Region !! 1 Time !! 10 Times !! 100 Times !! 500 Times
+|-
+| style="text-align: left;" | [[Kanto]] || 398,220 {{dungeontokens}} || 3,982,200 {{dungeontokens}} || 39,822,000 {{dungeontokens}} || 199,110,000 {{dungeontokens}}
+|-
+| style="text-align: left;" | [[Johto]] || 83,000 {{dungeontokens}} || 830,000 {{dungeontokens}} || 8,300,000 {{dungeontokens}} || 41,500,000 {{dungeontokens}}
+|-
+| style="text-align: left;" | [[Hoenn]] || 459,000 {{dungeontokens}} || 4,590,000 {{dungeontokens}} || 45,900,000 {{dungeontokens}} || 229,500,000 {{dungeontokens}}
+|-
+| style="text-align: left;" | [[Sinnoh]] || 1,805,750 {{dungeontokens}} || 18,057,500 {{dungeontokens}} || 180,575,000 {{dungeontokens}} || 902,875,000 {{dungeontokens}}
+|-
+| style="text-align: left;" | [[Unova]] || 6,192,000 {{dungeontokens}} || 61,920,000 {{dungeontokens}} || 619,200,000 {{dungeontokens}} || 3,096,000,000 {{dungeontokens}}
+|-
+|style="text-align: left;" | [[Kalos]] || 7,876,000 {{dungeontokens}} || 78,760,000 {{dungeontokens}} || 787,600,000 {{dungeontokens}} || 3,938,000,000 {{dungeontokens}}
+|-
+|style="text-align: left;" | [[Alola]] || 30,367,500 {{dungeontokens}} || 303,675,000 {{dungeontokens}} || 3,036,750,000 {{dungeontokens}} || 15,183,750,000 {{dungeontokens}}
+|-
+|style="text-align: left;" | [[Galar]] || 38,200,000 {{dungeontokens}} || 382,000,000 {{dungeontokens}} || 3,820,000,000 {{dungeontokens}} || 19,100,000,000 {{dungeontokens}}
+|-
+| style="text-align: left;" | Total || 85,139,970 {{dungeontokens}} || 851,399,700 {{dungeontokens}} || 8,513,997,000 {{dungeontokens}} || 42,569,985,000 {{dungeontokens}}
+|}
+
 ===Shopmon===
 {| class="wikitable" style="text-align: center;"
 |-
@@ -1920,9 +1952,9 @@ Galar Route 6 {{!}}{{!}} 4,982 {{!}}{{!}} 907.83 {{!}}{{!}} 1129.25 {{!}}{{!}} 1
       <username>ThePantMan</username>
       <id>8</id>
     </contributor>
-    <comment>/* Pokéball change */</comment>
+    <comment>/* Kanto - Sevii */</comment>
     <model>wikitext</model>
-    <parentid>34120</parentid>
-    <sha1>b2d26e9f6205206490074c61522d277a25228444</sha1>
+    <parentid>34602</parentid>
+    <sha1>589893e66fd5a638a32e5a2d48f182ea6d812ac1</sha1>
   </revision>
 </page></mediawiki>

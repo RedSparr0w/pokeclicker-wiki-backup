@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>8420</id>
   <revision>
-    <id>33919</id>
-    <timestamp>2022-12-12T19:59:50Z</timestamp>
-    <text space="preserve" bytes="9608">&lt;languages/&gt;
+    <id>34440</id>
+    <timestamp>2022-12-13T14:49:21Z</timestamp>
+    <text space="preserve" bytes="9484">&lt;languages/&gt;
 
 Les '''Poké Balls''' sont des objets utilisés pour capturer et stocker les Pokémon.
 
@@ -24,7 +24,7 @@ Lorsqu'un Pokémon est vaincu, la Ball sélectionnée en fonction de la catégor
 {| class="wikitable sortable"
 ! Ball !! Description !! Bonus à la capture (%) !! Temps de capture (s) !! Prix
 |-
-| [[Pokéball/fr|Poké Ball]] || [[File:Ball_Pokeball.png|24px]] Une Poké Ball standard || 0 || 1,25 || 100 {{pdollar}}
+| [[Pokéball/fr|Poké Ball]] || [[File:Poké_Ball.png|24px]] Une Poké Ball standard || 0 || 1,25 || 100 {{pdollar}}
 |-
 | [[Greatball/fr|Super Ball]] || [[File:Greatball.png|24px]] +5% de chance de capture || 5 || 1 || 500 {{pdollar}}
 |-
@@ -40,7 +40,7 @@ Lorsqu'un Pokémon est vaincu, la Ball sélectionnée en fonction de la catégor
 |-
 | [[Duskball/fr|Sombre Ball]] || [[File:Duskball.png|24px]] Plus grands taux de capture la nuit ou dans les donjons || 15% entre 18:00 et 06:00 ou dans les donjons,&lt;br&gt;0% sinon || 1
 |-
-| [[Luxuryball/fr|Luxe Ball]] || [[File:Luxuryball.png|24px]] Une Poké Ball de luxe ! || 0 || 1,25 || Entre 20 et 40 [[File:Cheri.png|25px]] [[Berries/fr#Gen 1 Berries|Baies Gen 1]] aléatoires &lt;br&gt; Entre 5 et 15 [[File:Persim.png|25px]] [[Berries/fr#Gen 2 Berries|Baies Gen 2]] aléatoires &lt;br&gt; Entre 5 et 10 [[File:Pomeg.png|25px]] [[Berries/fr#Gen 3 Berries|Baies Gen 3]] aléatoires 
+| [[Luxuryball/fr|Luxe Ball]] || [[File:Luxury_Ball.png|24px]] Une Poké Ball de luxe ! || 0 || 1,25 || Entre 20 et 40 [[File:Cheri.png|25px]] [[Berries/fr#Gen 1 Berries|Baies Gen 1]] aléatoires &lt;br&gt; Entre 5 et 15 [[File:Persim.png|25px]] [[Berries/fr#Gen 2 Berries|Baies Gen 2]] aléatoires &lt;br&gt; Entre 5 et 10 [[File:Pomeg.png|25px]] [[Berries/fr#Gen 3 Berries|Baies Gen 3]] aléatoires 
 |-
 | [[Diveball/fr|Scuba Ball]] || [[File:Diveball.png|24px]] Plus grands taux de capture dans les environnements aquatiques || 15% dans l'eau, &lt;br&gt;0% sinon || 1,25 || rowspan=4| N/A (uniquement en récompense de [[Dungeons/fr|Donjon]])
 |-
@@ -97,7 +97,7 @@ Contrairement à la plupart des autres objets achetables en [[Shops/fr|Boutiques
 
 {| class="wikitable"
 |-
-! Achat !! [[Pokémon Dollars/fr|Pokédollars]] {{pdollar}} !! [[Dungeon Tokens/fr|Jetons de Donjon]] {{dungeontokens}} !! [[Quest Points/fr|Points de Quête]] {{Questpoints}} !! [[Battle Points/fr|Points de Combat]] {{Battlepoints}} !! [[Diamonds/fr|Diamants]] {{diamonds}} !! [[Farm Points/fr|Points de Récolte]] {{farmpoints}}
+! Achat !! Pokédollars {{pdollar}} !! Jetons de Donjon {{dungeontokens}} !! Points de Quête {{Questpoints}} !! Points de Combat {{Battlepoints}} !! Diamants {{diamonds}} !! Points de Récolte {{farmpoints}}
 |-
 | Prix de Base || 10 000 000 {{pdollar}} || 75 000 {{dungeontokens}} || 3 000 {{Questpoints}} || 500 {{Battlepoints}} || 50 {{diamonds}} || 3 000 {{farmpoints}}
 |-
@@ -144,12 +144,12 @@ Contrairement à la plupart des autres objets achetables en [[Shops/fr|Boutiques
 &lt;br&gt;{{Pokéballs}}&lt;br&gt;
 [[Category:Items|Catégorie:Objets]] [[Category:Pokéballs|Catégorie:Pokéballs]]</text>
     <contributor>
-      <username>FuzzyBot</username>
-      <id>133</id>
+      <username>Razikd</username>
+      <id>33</id>
     </contributor>
-    <comment>FuzzyBot moved page [[Pokéballs/fr]] to [[Poké Balls/fr]] without leaving a redirect: Part of translatable page "Pokéballs"</comment>
+    <comment></comment>
     <model>wikitext</model>
-    <parentid>33772</parentid>
-    <sha1>f88985e33fbf1fe792b017da14e72da3fda45142</sha1>
+    <parentid>34438</parentid>
+    <sha1>07d2bfbd579c80a39607fd07fbb2baa55c99b3a9</sha1>
   </revision>
 </page></mediawiki>
