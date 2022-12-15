@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>4087</id>
   <revision>
-    <id>14923</id>
-    <timestamp>2022-07-20T10:24:01Z</timestamp>
-    <text space="preserve" bytes="2081">'''Flutes''' are a series of special items each with their own beneficial effect.
+    <id>34775</id>
+    <timestamp>2022-12-15T01:28:33Z</timestamp>
+    <text space="preserve" bytes="2070">'''Flutes''' are a series of special items each with their own beneficial effect.
 Flutes are gained by purchasing them from the Hoenn and Unova [[Gem Master]] shops.  Flutes cannot be used until after defeating [[Towns_&amp;_Cities#Hoenn|Hoenn's Lavaridge Town Gym]] and obtaining the [[Gyms#Gyms_3|Heat Badge]].
 
 ==Usage==
@@ -62,7 +62,7 @@ Each active flute also provides a static +0.5% attack boost to the required gem 
 |-
 | {{Bag2|Blue Flute}}
 | Consumes Water, Bug, and Ghost Gems
-| (2% x (1 + Achievement Bonus)) Bonus to Dungeon Token Yield
+| (2% x (1 + Achievement Bonus)) Bonus to EV Yield
 |-
 |}
 
@@ -70,12 +70,12 @@ Each active flute also provides a static +0.5% attack boost to the required gem 
 {{Battle items}}&lt;br&gt;
 [[Category:Flutes]] [[Category:Items]]</text>
     <contributor>
-      <username>Jir4</username>
-      <id>123</id>
+      <username>ThePantMan</username>
+      <id>8</id>
     </contributor>
-    <comment>Add link to gem master</comment>
+    <comment>/* DT to EV */</comment>
     <model>wikitext</model>
-    <parentid>14922</parentid>
-    <sha1>747b034987d15efe1fdbfcafa93e72c24c59baa3</sha1>
+    <parentid>14923</parentid>
+    <sha1>a934a6213dd46e535c485fee5f41abf1f682145b</sha1>
   </revision>
 </page></mediawiki>

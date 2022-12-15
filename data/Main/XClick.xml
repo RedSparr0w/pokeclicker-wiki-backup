@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>8</id>
   <revision>
-    <id>257</id>
-    <timestamp>2022-08-17T13:41:32Z</timestamp>
-    <text space="preserve" bytes="3981">&lt;languages/&gt;
+    <id>34662</id>
+    <timestamp>2022-12-14T04:24:42Z</timestamp>
+    <text space="preserve" bytes="4337">&lt;languages/&gt;
 &lt;translate&gt;
 {{Infobox battle item
 |name       = XClick
@@ -30,6 +30,7 @@ The '''XClick''' is a type of battle item. It temporarily boosts the player's Cl
 {{ItemPrice|[[Shops#Kanto: Locations &amp; Items|Viridian City]]|400 {{pdollar}}}}
 {{ItemPrice|[[Shops#Kanto: Locations &amp; Items|Saffron City]]|400 {{pdollar}}}}
 {{ItemPrice|[[Shops#Kanto: Locations &amp; Items|Two Island]]|400 {{pdollar}}}}
+{{ItemPrice|[[Shops#Kanto: Locations &amp; Items|Five Island]]|400 {{pdollar}}}}
 {{ItemPrice|[[Shops#Johto: Locations &amp; Items|Cherrygrove City]]|400 {{pdollar}}}}
 {{ItemPrice|[[Shops#Johto: Locations &amp; Items|Cianwood City]]|400 {{pdollar}}}}
 {{ItemPrice|[[Shops#Hoenn: Locations &amp; Items|Oldale Town]]|400 {{pdollar}}}}
@@ -47,6 +48,7 @@ The '''XClick''' is a type of battle item. It temporarily boosts the player's Cl
 {{ItemPrice|[[Shops#Kalos: Locations &amp; Items|Dendemille Town]]|400 {{pdollar}}}}
 {{ItemPrice|[[Shops#Alola: Locations &amp; Items|Iki Town]]|400 {{pdollar}}}}
 {{ItemPrice|[[Shops#Alola: Locations &amp; Items|Malie City]]|400 {{pdollar}}}}
+{{ItemPrice|[[Shops#Galar: Locations &amp; Items|Wyndon]]|400 {{pdollar}}}}
 {{ItemPrice|[[Shops#Poké Mart|Poké Mart]]|400 {{pdollar}}}}
 |}
 |}
@@ -58,6 +60,8 @@ The '''XClick''' is a type of battle item. It temporarily boosts the player's Cl
 {{LootItem|Rock Tunnel|Common}}
 {{LootItem|Berry Forest|Common}}
 {{LootItem|Victory Road|Common}}
+{{LootItem|Icefall Cave|Common}}
+{{LootItem|Altering Cave|Common}}
 {{LootItem|Sprout Tower|Common}}
 {{LootItem|Union Cave|Common}}
 {{LootItem|Tin Tower|Common}}
@@ -78,7 +82,6 @@ The '''XClick''' is a type of battle item. It temporarily boosts the player's Cl
 {{LootItem|Castelia Sewers|Common}}
 {{LootItem|Lostlorn Forest|Common}}
 {{LootItem|Mistralton Cave|Common}}
-{{LootItem|Team Plasma Assault|Common}}
 {{LootItem|Cave of Being|Common}}
 {{LootItem|Abundant Shrine|Common}}
 {{LootItem|Victory Road Unova|Common}}
@@ -101,6 +104,11 @@ The '''XClick''' is a type of battle item. It temporarily boosts the player's Cl
 {{LootItem|Exeggutor Island Hill|Common}}
 {{LootItem|Vast Poni Canyon|Common}}
 {{LootItem|Mount Lanakila|Common}}
+{{LootItem|Galar Mine No. 2|Common}}
+{{LootItem|Warm-Up Tunnel|Common}}
+{{LootItem|Tower of Darkness|Common}}
+{{LootItem|Tower of Waters|Common}}
+{{LootItem|Lakeside Cave|Common}}
 |}
 |}
 
@@ -109,12 +117,12 @@ __NOTOC__
 [[Category:Items]] [[Category: Battle Items]]
 &lt;/translate&gt;</text>
     <contributor>
-      <username>Razikd</username>
-      <id>33</id>
+      <username>ThePantMan</username>
+      <id>8</id>
     </contributor>
-    <comment></comment>
+    <comment>/* Galar */</comment>
     <model>wikitext</model>
-    <parentid>256</parentid>
-    <sha1>bc9dc88dcb4cb3c1768a04beee354a4199655c1f</sha1>
+    <parentid>257</parentid>
+    <sha1>ae4cbebdbb760ad9797a20c466f76a741d4ec56d</sha1>
   </revision>
 </page></mediawiki>

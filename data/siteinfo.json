@@ -576,7 +576,7 @@
                 "type": "other",
                 "url": "//github.com/Miraheze/MirahezeMagic",
                 "vcs-system": "git",
-                "vcs-version": "04d4228c070190ddd47724e2d050bdcb443a830d"
+                "vcs-version": "cef793298741dcaab4c9df501f7e326333d35257"
             },
             {
                 "author": "Ryan Lane, Robert Vogel <vogel@hallowelt.com>, Dejan Savuljesku <savuljesku@hallowelt.com>",
@@ -996,7 +996,7 @@
             },
             "generator": "MediaWiki 1.38.4",
             "git-branch": "REL1_38",
-            "git-hash": "678cf12f0560f768418202744c91fe873f9ce926",
+            "git-hash": "e77f2f0590d64b04fbe62f9082cfc7191975be06",
             "imagelimits": [
                 {
                     "height": 240,
@@ -1058,7 +1058,7 @@
                 250,
                 300
             ],
-            "time": "2022-12-14T02:13:44Z",
+            "time": "2022-12-15T02:13:48Z",
             "timeoffset": 0,
             "timezone": "UTC",
             "titleconversion": "",
@@ -5770,11 +5770,11 @@
             "activeusers": 4,
             "admins": 5,
             "articles": 2735,
-            "edits": 30748,
-            "images": 4741,
+            "edits": 30919,
+            "images": 4743,
             "jobs": 0,
-            "pages": 12387,
-            "users": 217
+            "pages": 12396,
+            "users": 222
         },
         "usergroups": [
             {
@@ -5984,7 +5984,7 @@
             },
             {
                 "name": "user",
-                "number": 217,
+                "number": 222,
                 "rights": [
                     "move",
                     "move-subpages",

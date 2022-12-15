@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>107</id>
   <revision>
-    <id>963</id>
-    <timestamp>2022-08-17T13:43:06Z</timestamp>
-    <text space="preserve" bytes="5220">&lt;languages/&gt;
+    <id>34669</id>
+    <timestamp>2022-12-14T04:44:53Z</timestamp>
+    <text space="preserve" bytes="5739">&lt;languages/&gt;
 &lt;translate&gt;
 {{Infobox battle item
 |name       = Dowsing Machine
@@ -53,19 +53,19 @@ The number of items one obtains if the Dowsing Machine activates depends on both
 The Tier variable works as it does the previous formula, and Region takes a value from 0 ([[Kanto]]) to the highest available Region, 6 ([[Alola]]). This translates to the following table:
 
 {| class="wikitable"
-! rowspan=2|Tier !! colspan=7|Item Yield per Region
+! rowspan=2|Tier !! colspan=8|Item Yield per Region
 |-
-! Kanto !! Johto !! Hoenn !! Sinnoh !! Unova !! Kalos !! Alola
+! Kanto !! Johto !! Hoenn !! Sinnoh !! Unova !! Kalos !! Alola !! Galar
 |-
-| Common || 2 Items || 2 Items || 3 Items || 3 Items || 4 Items || 4 Items || 5 Items
+| Common || 2 Items || 2 Items || 3 Items || 3 Items || 4 Items || 4 Items || 5 Items || 5 Items
 |-
-| Rare || 2 Items || 2 Items || 2 Items || 3 Items || 3 Items || 3 Items || 4 Items
+| Rare || 2 Items || 2 Items || 2 Items || 3 Items || 3 Items || 3 Items || 4 Items || 4 Items
 |-
-| Epic || 2 Items || 2 Items || 2 Items || 2 Items || 2 Items || 3 Items || 3 Items
+| Epic || 2 Items || 2 Items || 2 Items || 2 Items || 2 Items || 3 Items || 3 Items || 3 Items
 |-
-| Legendary || 2 Items || 2 Items || 2 Items || 2 Items || 2 Items || 3 Items || 3 Items
+| Legendary || 2 Items || 2 Items || 2 Items || 2 Items || 2 Items || 3 Items || 3 Items || 3 Items
 |-
-| Mythic || 2 Items || 2 Items || 2 Items || 2 Items || 2 Items || 3 Items || 3 Items
+| Mythic || 2 Items || 2 Items || 2 Items || 2 Items || 2 Items || 3 Items || 3 Items || 3 Items
 |}
 
 '''*Note:''' The +50% chance of getting an item from Pokémon that drop [[Rare Hold Items]] does not change - it is always the same irrespective of the Region the player is currently in.
@@ -76,6 +76,7 @@ The Tier variable works as it does the previous formula, and Region takes a valu
 {{ItemPrice/head‎|Battle items}}
 {{ItemPrice|[[Shops#Kanto: Locations &amp; Items|Lavender Town]]|1,500 {{pdollar}}}}
 {{ItemPrice|[[Shops#Kanto: Locations &amp; Items|Two Island]]|1,500 {{pdollar}}}}
+{{ItemPrice|[[Shops#Kanto: Locations &amp; Items|Valencia Pokémon Center]]|1,500 {{pdollar}}}}
 {{ItemPrice|[[Shops#Johto: Locations &amp; Items|Olivine City]]|1,500 {{pdollar}}}}
 {{ItemPrice|[[Shops#Hoenn: Locations &amp; Items|Slateport City]]|1,500 {{pdollar}}}}
 {{ItemPrice|[[Shops#Hoenn: Locations &amp; Items|Fortree City]]|1,500 {{pdollar}}}}
@@ -87,6 +88,7 @@ The Tier variable works as it does the previous formula, and Region takes a valu
 {{ItemPrice|[[Shops#Kalos: Locations &amp; Items|Cyllage City]]|1,500 {{pdollar}}}}
 {{ItemPrice|[[Shops#Kalos: Locations &amp; Items|Dendemille Town]]|1,500 {{pdollar}}}}
 {{ItemPrice|[[Shops#Alola: Locations &amp; Items|Konikoni City]]|1,500 {{pdollar}}}}
+{{ItemPrice|[[Shops#Galar: Locations &amp; Items|Wyndon]]|1,500 {{pdollar}}}}
 {{ItemPrice|[[Shops#Poké Mart|Poké Mart]]|1,500 {{pdollar}}}}
 |}
 |}
@@ -95,6 +97,8 @@ The Tier variable works as it does the previous formula, and Region takes a valu
 {{Loot/head‎|Battle items}}
 {{LootItem|Mt. Moon|Common}}
 {{LootItem|Silph Co|Common}}
+{{LootItem|Sunburst Island|Common}}
+{{LootItem|Lost Cave|Common}}
 {{LootItem|Slowpoke Well|Common}}
 {{LootItem|Burned Tower|Common}}
 {{LootItem|Dark Cave|Common}}
@@ -125,6 +129,12 @@ The Tier variable works as it does the previous formula, and Region takes a valu
 {{LootItem|Mount Lanakila|Common}}
 {{LootItem|Ruins of Conflict|Common}}
 {{LootItem|Ruins of Life|Common}}
+{{LootItem|Slumbering Weald Shrine|Common}}
+{{LootItem|Galar Mine No. 2|Common}}
+{{LootItem|Rock Peak Ruins|Common}}
+{{LootItem|Iron Ruins|Common}}
+{{LootItem|Iceberg Ruins|Common}}
+{{LootItem|Split-Decision Ruins|Common}}
 |}
 |}
 
@@ -136,12 +146,12 @@ __NOTOC__
 [[Category:Items]] [[Category: Battle Items]]
 &lt;/translate&gt;</text>
     <contributor>
-      <username>Razikd</username>
-      <id>33</id>
+      <username>ThePantMan</username>
+      <id>8</id>
     </contributor>
-    <comment></comment>
+    <comment>/* Galar */</comment>
     <model>wikitext</model>
-    <parentid>962</parentid>
-    <sha1>6337ac059cfdd8959e0671a6fee7f6cf996bd651</sha1>
+    <parentid>963</parentid>
+    <sha1>b48da0bbc2a6b84eecbba82d630adbe8b5b98c5a</sha1>
   </revision>
 </page></mediawiki>

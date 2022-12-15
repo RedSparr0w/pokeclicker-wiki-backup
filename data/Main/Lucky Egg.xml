@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>110</id>
   <revision>
-    <id>1037</id>
-    <timestamp>2022-08-17T13:42:16Z</timestamp>
-    <text space="preserve" bytes="3507">&lt;languages/&gt;
+    <id>34661</id>
+    <timestamp>2022-12-14T04:21:23Z</timestamp>
+    <text space="preserve" bytes="3822">&lt;languages/&gt;
 &lt;translate&gt;
 {{Infobox battle item
 |name       = Lucky Egg
@@ -32,6 +32,7 @@ The Lucky Egg provides a +50% Bonus to experience gained.
 {{ItemPrice|[[Shops#Kanto: Locations &amp; Items|Pewter City]]|800 {{pdollar}}}}
 {{ItemPrice|[[Shops#Kanto: Locations &amp; Items|Vermilion City]]|800 {{pdollar}}}}
 {{ItemPrice|[[Shops#Kanto: Locations &amp; Items|Fuschia City]]|800 {{pdollar}}}}
+{{ItemPrice|[[Shops#Kanto: Locations &amp; Items|Six Island]]|800 {{pdollar}}}}
 {{ItemPrice|[[Shops#Johto: Locations &amp; Items|Violet City]]|800 {{pdollar}}}}
 {{ItemPrice|[[Shops#Johto: Locations &amp; Items|Ecruteak City]]|800 {{pdollar}}}}
 {{ItemPrice|[[Shops#Johto: Locations &amp; Items|Mahogany Town]]|800 {{pdollar}}}}
@@ -52,6 +53,7 @@ The Lucky Egg provides a +50% Bonus to experience gained.
 {{ItemPrice|[[Shops#Alola: Locations &amp; Items|Hauoli City]]|800 {{pdollar}}}}
 {{ItemPrice|[[Shops#Alola: Locations &amp; Items|Paniola Town]]|800 {{pdollar}}}}
 {{ItemPrice|[[Shops#Alola: Locations &amp; Items|Tapu Village]]|800 {{pdollar}}}}
+{{ItemPrice|[[Shops#Galar: Locations &amp; Items|Wyndon]]|800 {{pdollar}}}}
 {{ItemPrice|[[Shops#Poké Mart|Poké Mart]]|800 {{pdollar}}}}
 |}
 |}
@@ -59,6 +61,8 @@ The Lucky Egg provides a +50% Bonus to experience gained.
 ===Dungeons===
 {{Loot/head‎|Battle items}}
 {{LootItem|Victory Road|Common}}
+{{LootItem|Icefall Cave|Common}}
+{{LootItem|Tanoby Ruins|Common}}
 {{LootItem|Sprout Tower|Common}}
 {{LootItem|Ilex Forest|Common}}
 {{LootItem|Radio Tower|Common}}
@@ -85,6 +89,9 @@ The Lucky Egg provides a +50% Bonus to experience gained.
 {{LootItem|Mina's Houseboat|Common}}
 {{LootItem|Ruins of Hope|Common}}
 {{LootItem|Poni Meadow|Common}}
+{{LootItem|Energy Plant|Common}}
+{{LootItem|Warm-Up Tunnel|Common}}
+{{LootItem|Crown Shrine|Common}}
 |}
 |}
 
@@ -93,12 +100,12 @@ The Lucky Egg provides a +50% Bonus to experience gained.
 [[Category:Items]] [[Category: Battle Items]]
 &lt;/translate&gt;</text>
     <contributor>
-      <username>Razikd</username>
-      <id>33</id>
+      <username>ThePantMan</username>
+      <id>8</id>
     </contributor>
-    <comment></comment>
+    <comment>/* Galar */</comment>
     <model>wikitext</model>
-    <parentid>1036</parentid>
-    <sha1>625da5536b3db76f30aa8cc6b2036e33eb24f64d</sha1>
+    <parentid>1037</parentid>
+    <sha1>1ef649118e1b583035226a04886e652626bbe742</sha1>
   </revision>
 </page></mediawiki>

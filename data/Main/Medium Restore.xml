@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>203</id>
   <revision>
-    <id>3548</id>
-    <timestamp>2022-08-03T19:33:50Z</timestamp>
-    <text space="preserve" bytes="1991">{{Infobox Underground Item
+    <id>34697</id>
+    <timestamp>2022-12-14T05:11:17Z</timestamp>
+    <text space="preserve" bytes="2206">{{Infobox Underground Item
 |name       = Medium Restore
 |image      = [[File:MediumRestore.png]]
 |caption    = In-Game image of the ''Medium Restore''.
@@ -33,6 +33,7 @@ A Medium Potion to Restore Energy with. It has a 20% restoration rate.
 {{ItemPrice|[[Shops#Unova: Locations &amp; Items|Virbank City]]|100,000 {{pdollar}}}}
 {{ItemPrice|[[Shops#Kalos: Locations &amp; Items|Camphrier Town]]|100,000 {{pdollar}}}}
 {{ItemPrice|[[Shops#Alola: Locations &amp; Items|Heahea City]]|100,000 {{pdollar}}}}
+{{ItemPrice|[[Shops#Galar: Locations &amp; Items|Wyndon]]|100,000 {{pdollar}}}}
 {{ItemPrice|[[Shops#Poké Mart|Poké Mart]]|100,000 {{pdollar}}}}
 {{ItemPrice|[[Shops#Battle Frontier|Battle Frontier]]|20 {{Battlepoints}}}}
 |}
@@ -42,6 +43,7 @@ A Medium Potion to Restore Energy with. It has a 20% restoration rate.
 {{Loot/head‎|Underground Items}}
 {{LootItem|Rock Tunnel|Legendary}}
 {{LootItem|Pokemon Tower|Legendary}}
+{{LootItem|Altering Cave|Legendary}}
 {{LootItem|Slowpoke Well|Legendary}}
 {{LootItem|Ilex Forest|Legendary}}
 {{LootItem|Tin Tower|Legendary}}
@@ -56,6 +58,9 @@ A Medium Potion to Restore Energy with. It has a 20% restoration rate.
 {{LootItem|Seaward Cave|Legendary}}
 {{LootItem|Ten Carat Hill|Epic}}
 {{LootItem|Lush Jungle|Legendary}}
+{{LootItem|Galar Mine|Common}}
+{{LootItem|Brawlers' Cave|Common}}
+{{LootItem|Roaring-Sea Caves|Epic}}
 |}
 |}
 
@@ -66,9 +71,9 @@ A Medium Potion to Restore Energy with. It has a 20% restoration rate.
       <username>ThePantMan</username>
       <id>8</id>
     </contributor>
-    <comment>/* Dungeons - removed Parfum Palace */</comment>
+    <comment>/* Galar */</comment>
     <model>wikitext</model>
-    <parentid>3547</parentid>
-    <sha1>29741e5a5faa78cfd92b52c3625673bcdd4e2861</sha1>
+    <parentid>3548</parentid>
+    <sha1>f4c5d224eeb7619941e75a3c9522ee9e51617afa</sha1>
   </revision>
 </page></mediawiki>

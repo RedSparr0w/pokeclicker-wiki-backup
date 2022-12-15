@@ -1,12 +1,11 @@
-<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
-<page>
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en"><page>
   <title>Regions/ja</title>
   <ns>0</ns>
   <id>12355</id>
   <revision>
-    <id>34595</id>
-    <timestamp>2022-12-13T23:33:45Z</timestamp>
-    <text space="preserve" bytes="7866">&lt;languages/&gt;
+    <id>34782</id>
+    <timestamp>2022-12-15T01:59:47Z</timestamp>
+    <text space="preserve" bytes="7854">&lt;languages/&gt;
 '''地方'''とは、ポケモンの世界にある地域のこと。新しい地方には、 [[Route Statistics|ルート]], [[Towns &amp; Cities|町]], [[Gyms|ジム]]、[[Obtainable Pokémon|ポケモン]]が登場します。
 その地方に生息していないポケモンはダメージデバフを受けますが、新しい地方に入るたびにこのデバフは10%ずつ減少します。さらに、地域によっては独自のゲームプレイが可能です。
 
@@ -35,9 +34,8 @@
 '''育成キュー：4'''&lt;br&gt;
 '''ポケモン1匹あたりの最大プロテイン：5個'''
 
-&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
-===[[Hoenn]]===
-&lt;/div&gt;
+&lt;span id="Hoenn"&gt;&lt;/span&gt;
+===[[Hoenn|ホウエン地方]]===
 
 &lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
 Hoenn is the third region and the player can catch another 135 unique Pokèmon here. The player will find the last missing Oak item here and can take the challenge of the [[Battle Frontier|Battle Frontier]]. There is also a Pokémon that evolves based on the current weather here.&lt;br&gt;
@@ -127,9 +125,9 @@ Galar is the eighth region and currently has 108 new Pokémon to catch, breed an
       <username>NobbHero</username>
       <id>196</id>
     </contributor>
-    <comment></comment>
+    <comment>Created page with "===[[Hoenn|ホウエン地方]]==="</comment>
     <model>wikitext</model>
-    <parentid>34593</parentid>
-    <sha1>cc5e9bd6605a623bfefacd96f24e594f56aa46b2</sha1>
+    <parentid>34595</parentid>
+    <sha1>9206910eccec3c8fe2c7e20a4bcf64eb68b342d1</sha1>
   </revision>
 </page></mediawiki>

@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>3599</id>
   <revision>
-    <id>34568</id>
-    <timestamp>2022-12-13T21:05:10Z</timestamp>
-    <text space="preserve" bytes="1666">&lt;languages/&gt;
+    <id>34656</id>
+    <timestamp>2022-12-14T03:57:24Z</timestamp>
+    <text space="preserve" bytes="1673">&lt;languages/&gt;
 &lt;translate&gt;
 
 &lt;!--T:1--&gt;
@@ -24,12 +24,12 @@
 ==Description== &lt;!--T:2--&gt;
 
 &lt;!--T:8--&gt;
-The '''Repeat Ball''' is a type of [[Pokéballs|Pokéball]]. It automatically tries to catch a wild Pokémon after defeating it if is the highest type of Pokéball active and there is a remaining supply in the Pokéball selector.
+The '''Repeat Ball''' is a type of [[Poké Balls|Poké Ball]]. It automatically tries to catch a wild Pokémon after defeating it if is the highest type of Poké Ball active and there is a remaining supply in the Poké Ball selector.
 
 ==Details== &lt;!--T:3--&gt;
 
 &lt;!--T:9--&gt;
-A specialized Pokéball to capture Pokémon with, it provides an increased catch rate the more a Pokémon is captured. Additionally, catching a Pokémon with the Repeat Ball yields 5x more EVs.
+A specialized Poké Ball to capture Pokémon with, it provides an increased catch rate the more a Pokémon is captured. Additionally, catching a Pokémon with the Repeat Ball yields 5x more EVs.
 
 ==Rates== &lt;!--T:4--&gt;
 
@@ -39,7 +39,7 @@ A specialized Pokéball to capture Pokémon with, it provides an increased catch
 |-
 ! Pokémon Captures !! Catch chance (+%)
 |-
-| 0 || 0 (Equal to Pokéball)
+| 0 || 0 (Equal to Poké Ball)
 |-
 | 159 || 5 (Equal to Great Ball)
 |-
@@ -57,7 +57,7 @@ A specialized Pokéball to capture Pokémon with, it provides an increased catch
 {{LootItem|Victory Road Sinnoh|Legendary}}
 {{LootItem|Victory Road Unova|Epic}}
 {{LootItem|Kalos Power Plant|Legendary}}
-{{LootItem|Pokéball Factory|Epic}}
+{{LootItem|Poké Ball Factory|Epic}}
 {{LootItem|Pokémon Village|Epic}}
 {{LootItem|Ula'ula Meadow|Legendary}}
 {{LootItem|Vast Poni Canyon|Epic}}
@@ -72,9 +72,9 @@ A specialized Pokéball to capture Pokémon with, it provides an increased catch
       <username>ThePantMan</username>
       <id>8</id>
     </contributor>
-    <comment>/* Category */</comment>
+    <comment>/* Pokeball change */</comment>
     <model>wikitext</model>
-    <parentid>34266</parentid>
-    <sha1>ec659d5c715f93b277bc141be9db8a6aaf977029</sha1>
+    <parentid>34641</parentid>
+    <sha1>1607a87043100e630b32203c206e37e17cec3952</sha1>
   </revision>
 </page></mediawiki>

@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>109</id>
   <revision>
-    <id>1016</id>
-    <timestamp>2022-08-17T13:42:32Z</timestamp>
-    <text space="preserve" bytes="3477">&lt;languages/&gt;
+    <id>34714</id>
+    <timestamp>2022-12-14T05:36:18Z</timestamp>
+    <text space="preserve" bytes="3698">&lt;languages/&gt;
 &lt;translate&gt;
 {{Infobox battle item
 |name       = Token Collector
@@ -32,6 +32,7 @@ The '''Token Collector''' is a type of battle item. It temporarily boosts the dr
 {{ItemPrice|[[Shops#Kanto: Locations &amp; Items|Pewter City]]|1,000 {{pdollar}}}}
 {{ItemPrice|[[Shops#Kanto: Locations &amp; Items|Cinnabar Island]]|1,000 {{pdollar}}}}
 {{ItemPrice|[[Shops#Kanto: Locations &amp; Items|Three Island]]|1,000 {{pdollar}}}}
+{{ItemPrice|[[Shops#Kanto: Locations &amp; Items|Seven Island]]|1,000 {{pdollar}}}}
 {{ItemPrice|[[Shops#Johto: Locations &amp; Items|Violet City]]|1,000 {{pdollar}}}}
 {{ItemPrice|[[Shops#Johto: Locations &amp; Items|Blackthorn City]]|1,000 {{pdollar}}}}
 {{ItemPrice|[[Shops#Hoenn: Locations &amp; Items|Petalburg City]]|1,000 {{pdollar}}}}
@@ -48,6 +49,7 @@ The '''Token Collector''' is a type of battle item. It temporarily boosts the dr
 {{ItemPrice|[[Shops#Kalos: Locations &amp; Items|Coumarine City]]|1,000 {{pdollar}}}}
 {{ItemPrice|[[Shops#Alola: Locations &amp; Items|Hauoli City]]|1,000 {{pdollar}}}}
 {{ItemPrice|[[Shops#Alola: Locations &amp; Items|Seafolk Village]]|1,000 {{pdollar}}}}
+{{ItemPrice|[[Shops#Galar: Locations &amp; Items|Wyndon]]|1,000 {{pdollar}}}}
 {{ItemPrice|[[Shops#Poké Mart|Poké Mart]]|1,000 {{pdollar}}}}
 |}
 |}
@@ -87,6 +89,8 @@ The '''Token Collector''' is a type of battle item. It temporarily boosts the dr
 {{LootItem|Malie Garden|Common}}
 {{LootItem|Hokulani Observatory|Common}}
 {{LootItem|Thrifty Megamart|Common}}
+{{LootItem|Energy Plant|Common}}
+{{LootItem|Lakeside Cave|Common}}
 |}
 |}
 
@@ -95,12 +99,12 @@ __NOTOC__
 [[Category:Items]] [[Category: Battle Items]]
 &lt;/translate&gt;</text>
     <contributor>
-      <username>Razikd</username>
-      <id>33</id>
+      <username>ThePantMan</username>
+      <id>8</id>
     </contributor>
-    <comment></comment>
+    <comment>/* Galar */</comment>
     <model>wikitext</model>
-    <parentid>1015</parentid>
-    <sha1>88b36976962ece8742d39ea1e53bcc930add481d</sha1>
+    <parentid>1016</parentid>
+    <sha1>b7b8880e04f67a80a07799199de56eb723118c9a</sha1>
   </revision>
 </page></mediawiki>

@@ -4,15 +4,15 @@
   <ns>1198</ns>
   <id>11495</id>
   <revision>
-    <id>31897</id>
-    <timestamp>2022-12-06T10:06:03Z</timestamp>
-    <text space="preserve" bytes="3808">{| class="wikitable" | style="text-align: center;"
+    <id>34741</id>
+    <timestamp>2022-12-14T14:30:07Z</timestamp>
+    <text space="preserve" bytes="3830">{| class="wikitable" | style="text-align: center;"
 ! Aura !! Effet !! Notes
 |-
 ! Aura Boostée
 | Booste les effets d'aura des 8 baies alentours || &lt;center&gt; Cette aura ne peut être appliquée à une baie qu'une seule fois et n'affecte pas d'autres baies avec cet effet.
 |-
-! Engrais
+! Envahissement
 | Plante une baie du même type dans l'une des 8 parcelles vides environnantes || &lt;center&gt;La baie originelle doit être au stade mûr pour que l'effet soit déclenché.&lt;br&gt; Cela compte pour une mutation et est affecté par les mêmes boosts de mutation.
 |-
 ! Parasite
@@ -39,13 +39,13 @@
 ! Anti-Flétrissement
 | Empêche les autres baies de flétrir lorsqu'elles sont au stade mûr. || &lt;center&gt; Une seule baie avec cette aura affectera le terrain entier. &lt;br&gt; Les baies avec cette aura ne s'affectent pas l'une l'autre.&lt;br&gt; Une fois que cette baie flétrit ou est récoltée, les autres baies auront leur minuteur réinitialisé au début du stade mûr.
 |-
-! Croissance d'oeuf
-| Augmente la vitesse de croissance des oeufs dans la Pension.|| &lt;center&gt; L'effet est multiplicatif sur le terrain entier. &lt;br&gt; L'effet se cumule avec le [[Blaze Cassette|Module Pyro]]
+! Croissance d'Œuf
+| Augmente la vitesse de croissance des Œufs dans la Pension.|| &lt;center&gt; L'effet est multiplicatif sur le terrain entier. &lt;br&gt; L'effet se cumule avec le [[Blaze Cassette/fr|Module Pyro]]
 |-
-! Chance de Chroma
-| Augmente les chances de rencontrer un [[Shiny Chance|Pokémon Chromatique]]|| &lt;center&gt; L'effet est multiplicatif sur le terrain entier. &lt;br&gt; L'effet se cumule avec le [[Shiny Charm|Charme Chroma]]
+! Chance de Chromatiques
+| Augmente les chances de rencontrer un [[Shiny Chance/fr|Pokémon Chromatique]]|| &lt;center&gt; L'effet est multiplicatif sur le terrain entier. &lt;br&gt; L'effet se cumule avec le [[Shiny Charm/fr|Charme Chroma]]
 |-
-! Chance d'Errants
+! Aura d'Attraction
 | Augmente les chances qu'un Pokémon [[Wandering Pokemon|erre]] dans la ferme || &lt;center&gt; L'effet est multiplicatif sur le terrain entier
 |-
 ! Chance de Voyageurs
@@ -58,9 +58,9 @@
       <username>Razikd</username>
       <id>33</id>
     </contributor>
-    <comment>Imported translation using [[Special:PageMigration|page migration]]</comment>
+    <comment></comment>
     <model>wikitext</model>
-    <parentid>0</parentid>
-    <sha1>52bf049ea39e804a7ac02144c286f6ad522bf3d7</sha1>
+    <parentid>31897</parentid>
+    <sha1>07d28df63f017bfaf37bca32b39605962a7d596f</sha1>
   </revision>
 </page></mediawiki>

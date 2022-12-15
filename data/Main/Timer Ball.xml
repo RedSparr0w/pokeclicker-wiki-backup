@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>3550</id>
   <revision>
-    <id>34562</id>
-    <timestamp>2022-12-13T21:02:54Z</timestamp>
-    <text space="preserve" bytes="2201">&lt;languages/&gt;
+    <id>34655</id>
+    <timestamp>2022-12-14T03:54:57Z</timestamp>
+    <text space="preserve" bytes="2242">&lt;languages/&gt;
 &lt;translate&gt;
 
 &lt;!--T:1--&gt;
@@ -27,12 +27,12 @@
 ==Description== &lt;!--T:2--&gt;
 
 &lt;!--T:7--&gt;
-The '''Timer Ball''' is a type of [[Pokéballs|Pokéball]]. It automatically tries to catch a wild Pokémon after defeating it if is the highest type of Pokéball active and there is a remaining supply in the Pokéball selector.
+The '''Timer Ball''' is a type of [[Poké Balls|Poké Ball]]. It automatically tries to catch a wild Pokémon after defeating it if is the highest type of Poké Ball active and there is a remaining supply in the Poké Ball selector.
 
 ==Details== &lt;!--T:3--&gt;
 
 &lt;!--T:8--&gt;
-A specialized Pokéball to capture Pokémon with, it provides an increased catch rate on routes with more Pokémon defeated and catches Pokémon in 1s.
+A specialized Poké Ball to capture Pokémon with, it provides an increased catch rate on routes with more Pokémon defeated and catches Pokémon in 1s.
 
 ==Rate== &lt;!--T:4--&gt;
 
@@ -44,7 +44,7 @@ A specialized Pokéball to capture Pokémon with, it provides an increased catch
 |-
 ! Route kills !! Catch chance
 |-
-| 0 || 0 (Equal to Pokéball)
+| 0 || 0 (Equal to Poké Ball)
 |-
 | 4793 || 5 (Equal to Great Ball)
 |-
@@ -70,7 +70,7 @@ A specialized Pokéball to capture Pokémon with, it provides an increased catch
 |-
 | 16.67 || 5 (Equal to Great Ball)
 |-
-| 100 || 0 (Equal to Pokéball)
+| 100 || 0 (Equal to Poké Ball)
 |}
 
 &lt;!--T:14--&gt;
@@ -87,7 +87,8 @@ A specialized Pokéball to capture Pokémon with, it provides an increased catch
 {{Loot/head‎|Pokéballs}}
 {{LootItem|Chargestone Cave|Epic}}
 {{LootItem|Victory Road Unova|Epic}}
-{{LootItem|Pokéball Factory|Epic}}
+{{LootItem|Poké Ball Factory|Epic}}
+{{LootItem|Brawlers' Cave|Epic}}
 |}
 |}
 
@@ -99,9 +100,9 @@ A specialized Pokéball to capture Pokémon with, it provides an increased catch
       <username>ThePantMan</username>
       <id>8</id>
     </contributor>
-    <comment>/* Category */</comment>
+    <comment>/* Galar */</comment>
     <model>wikitext</model>
-    <parentid>34308</parentid>
-    <sha1>e2dfb559b6b4b4b9ef5cfa01e64230f15d903298</sha1>
+    <parentid>34644</parentid>
+    <sha1>85e7c9072b11ce22d1ee11dc97452402ad3d6311</sha1>
   </revision>
 </page></mediawiki>

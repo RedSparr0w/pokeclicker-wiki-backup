@@ -2,105 +2,18 @@
 <page>
   <title>Pokéball Factory</title>
   <ns>0</ns>
-  <id>2915</id>
+  <id>12399</id>
   <revision>
-    <id>34344</id>
-    <timestamp>2022-12-12T21:28:46Z</timestamp>
-    <text space="preserve" bytes="2868">{{Infobox dungeon
-|name    = Pokéball Factory
-|image   = [[File:Pokéball Factory.png|250px]]
-|caption = A map of Pokéball Factory.
-|tokens  = 615,000
-|location = North of Laverre City
-}}
-'''Pokéball Factory''' is a [[Dungeons|dungeon]] in [[Kalos]]. It initially has 100 tiles arranged in a 10x10 square, including 10 chest tiles, 23 non-boss encounter tiles, and 1 boss encounter tile. Wild Encounters have 8,173,950 HP.
-
-==Encounter  Tables==
-
-===Wild Encounters===
-
-{| class="wikitable"
-|-
-! Wild Pokémon !! colspan=2|Trainers
-|-
-! Encounter !! Trainer !! Pokémon Team
-|-
-| rowspan=5|&lt;center&gt; N/A || [[File:Team_Flare_Grunt_(male).png|40px]] Team Flare Grunt || [[File:Toxicroak.png|40px]] Toxicroak 
-|-
-| [[File:Team_Flare_Grunt_(male).png|40px]] Team Flare Grunt || [[File:Mightyena.png|40px]] Mightyena, [[File:Golbat.png|40px]] Golbat
-|-
-| [[File:Team_Flare_Grunt_(female).png|40px]] Team Flare Grunt || [[File:Scraggy.png|40px]] Scraggy, [[File:Mightyena.png|40px]] Mightyena
-|-
-| [[File:Team_Flare_Grunt_(female).png|40px]] Team Flare Grunt || [[File:Swalot.png|40px]] Swalot
-|-
-| [[File:Team_Flare_Admin_(female).png|40px]] Team Flare Admin || [[File:Scraggy.png|40px]] Scraggy, [[File:Houndoom.png|40px]] Houndoom
-|}
-
-
-===Boss Encounters===
-
-{| class="wikitable"
-|-
-! Wild Pokémon !! Base Health !! Boss Trainer !! Pokémon Team !! Base Health
-|-
-| rowspan=2 colspan=2|&lt;center&gt; N/A || [[File:Team_Flare_Celosia.png|40px]] Team Flare Celosia || [[File:Manectric.png|40px]] Manectric || &lt;center&gt; 79,385,030
-|-
-| [[File:Team_Flare_Bryony.png|40px]] Team Flare Bryony || [[File:Liepard.png|40px]] Liepard || &lt;center&gt; 79,284,730
-|}
-
-==Items==
-&lt;tabs&gt;
-&lt;tab name="Base"&gt;
-{| class="wikitable"
-|-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears
-|-
-| align="center" colspan=6| '''Common'''
-|-
-| {{Bag2|Poké Ball}} || 4 || 43.28% || 41.90% || 39.77% || 36.11%
-|-
-| {{Bag2|Great Ball}} || 2 || 21.64% || 20.95% || 19.89% || 18.05%
-|-
-| {{Bag2|Ultra Ball}} || 1 || 10.82% || 10.48% || 9.94% || 9.03%
-|-
-| align="center" colspan=6| '''Rare'''
-|-
-| {{Bag2|Yellow Shard}} || 1 || 10.11% || 10.69% || 11.59% || 13.14%
-|-
-| {{Bag2|Pink Shard}} || 1 || 10.11% || 10.69% || 11.59% || 13.14%
-|-
-| align="center" colspan=6| '''Epic'''
-|-
-| {{Bag2|Dusk Ball}} || 1 || 0.51% || 0.66% || 0.90% || 1.32%
-|-
-| {{Bag2|Quick Ball}} || 1 || 0.51% || 0.66% || 0.90% || 1.32%
-|-
-| {{Bag2|Fast Ball}} || 1 || 0.51% || 0.66% || 0.90% || 1.32%
-|-
-| {{Bag2|Timer Ball}} || 1 || 0.51% || 0.66% || 0.90% || 1.32%
-|-
-| {{Bag2|Luxury Ball}} || 1 || 0.51% || 0.66% || 0.90% || 1.32%
-|-
-| {{Bag2|Lure Ball}} || 1 || 0.51% || 0.66% || 0.90% || 1.32%
-|-
-| {{Bag2|Dive Ball}} || 1 || 0.51% || 0.66% || 0.90% || 1.32%
-|-
-| {{Bag2|Repeat Ball}} || 1 || 0.51% || 0.66% || 0.90% || 1.32%
-|}
-&lt;/tab&gt;
-&lt;/tabs&gt;
-
-
-{{Kalos Dungeons}}
-
-[[Category:Dungeons|^Region #6 - Kalos^h]]</text>
+    <id>34614</id>
+    <timestamp>2022-12-14T03:51:46Z</timestamp>
+    <text space="preserve" bytes="32">#REDIRECT [[Poké Ball Factory]]</text>
     <contributor>
       <username>ThePantMan</username>
       <id>8</id>
     </contributor>
-    <comment>Text replacement - "Luxuryball" to "Luxury Ball"</comment>
+    <comment>ThePantMan moved page [[Pokéball Factory]] to [[Poké Ball Factory]]</comment>
     <model>wikitext</model>
-    <parentid>34328</parentid>
-    <sha1>3b117422cdd2f535e8d6bf24b7b49599e15fb4ee</sha1>
+    <parentid>0</parentid>
+    <sha1>014c5bea68fa2b3b3a1e593bf5655c1332c02c30</sha1>
   </revision>
 </page></mediawiki>
