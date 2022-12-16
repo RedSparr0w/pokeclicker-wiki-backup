@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>4537</id>
   <revision>
-    <id>34275</id>
-    <timestamp>2022-12-12T21:16:53Z</timestamp>
-    <text space="preserve" bytes="5997">&lt;languages/&gt;
+    <id>35102</id>
+    <timestamp>2022-12-15T20:39:55Z</timestamp>
+    <text space="preserve" bytes="6001">&lt;languages/&gt;
 [[File:Charmander_infected.png|thumb|200px|A Shiny Charmander in the Hatchery, infected by Pokérus [[File:Pokerus.png|20px]]]]
 
 ==Description==
@@ -44,7 +44,7 @@ There are 4 states of Pokérus as described below.
 |}
 
 ==Effort Values (EVs)==
-EVs are a damage multiplying stat for each individual Pokémon that can be seen in the Pokédex page for that Pokémon and by using the ''Display Value'' setting in the Hatchery. EVs for a Pokémon can currently only be increased by obtaining that Pokémon again after it has caught the Pokérus. You can gain EVs for a Pokémon by: catching it on a [[Route Statistics|Route]] or a [[Dungeon]], obtaining it as a [[Wandering Pokemon]], or by evolving it using [[Evolution Items]]. [[Breeding]] a Pokémon does not count towards gaining EVs. EV gain is further affected by the [[Rowap|Rowap Berry Aura]]. See [[Farming Setups#Maximizing EV Gain|Farming Setups]] for an optimized EV gain farm setup.
+EVs are a damage multiplying stat for each individual Pokémon that can be seen in the Pokédex page for that Pokémon and by using the ''Display Value'' setting in the Hatchery. EVs for a Pokémon can currently only be increased by obtaining that Pokémon again after it has caught the Pokérus. You can gain EVs for a Pokémon by: catching it on a [[Route Statistics|Route]] or a [[Dungeon]], obtaining it as a [[Wandering Pokémon]], or by evolving it using [[Evolution Items]]. [[Breeding]] a Pokémon does not count towards gaining EVs. EV gain is further affected by the [[Rowap|Rowap Berry Aura]]. See [[Farming Setups#Maximizing EV Gain|Farming Setups]] for an optimized EV gain farm setup.
 
 ===Gaining EVs (Methods)===
 Different methods of catching a Pokémon will yield different amounts of EVs. If the [[Challenge Mode|Slow EVs Challenge Mode]] is activated, you will gain EVs at a 10x slower rate (You gain the same amount of EVs, but require 10x as many EVs to yield the same bonus. In some instances, the yield of EVs is further modified by an external factor (see below tables for specific information).
@@ -62,7 +62,7 @@ Different methods of catching a Pokémon will yield different amounts of EVs. If
 |-
 | 1 || 0.1 || [[Safari Zone|Safari Zone Pokémon]]
 |-
-| 0.5 || 0.05 || [[Wandering Pokemon]]
+| 0.5 || 0.05 || [[Wandering Pokémon]]
 |}
 
 ====EV Modifiers====
@@ -78,7 +78,7 @@ Different methods of catching a Pokémon will yield different amounts of EVs. If
 |-
 | 5x || Pokémon is obtained using a [[Repeat Ball]]
 |-
-| 50x || Pokémon is encountered and captured as a [[Roaming Pokemon]]
+| 50x || Pokémon is encountered and captured as a [[Roaming Pokémon]]
 |-
 | Variable || [[Rowap|Rowap Berry Aura]] 
 |}
@@ -91,7 +91,7 @@ Example 3: Catching a '''Shiny Roaming Pokémon''' with a [[Repeat Ball]] yields
 
 ===EV Damage Multiplier===
 EVs increase the amount of damage that a Pokémon does. EVs multiply the damage indefinitely. If your Pokémon has fewer than 50 EVs, a Pokémon's EV Damage Multiplier increases by 0.01 per EV, and consequently a Pokémon gains 1% extra damage per EV for the first 50 EVs. &lt;br&gt;&lt;br&gt;
-Pokemon that have: contracted Pokérus, have left the hatchery after contracting Pokérus (ie: not ''Infected''), and have gained less than 50 EVs are considered 
+Pokémon that have: contracted Pokérus, have left the hatchery after contracting Pokérus (ie: not ''Infected''), and have gained less than 50 EVs are considered 
 
 ''Contagious''. However, Pokémon that fulfill all the above conditions but have gained 50 or more EVs are considered 
 
@@ -121,9 +121,9 @@ Pokemon that have: contracted Pokérus, have left the hatchery after contracting
       <username>ThePantMan</username>
       <id>8</id>
     </contributor>
-    <comment>Text replacement - "Repeatball" to "Repeat Ball"</comment>
+    <comment>Text replacement - "(?&lt;!{{)(?&lt;!{{Route)Pokemon" to "Pokémon"</comment>
     <model>wikitext</model>
-    <parentid>32287</parentid>
-    <sha1>b9a1b66f199759bcd145e21d371bbe743101499e</sha1>
+    <parentid>35021</parentid>
+    <sha1>401993d81430801fa2cc7dfd547764683b9b825c</sha1>
   </revision>
 </page></mediawiki>

@@ -1,0 +1,118 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Home Page/pt-br</title>
+  <ns>0</ns>
+  <id>12434</id>
+  <revision>
+    <id>34899</id>
+    <timestamp>2022-12-15T17:31:57Z</timestamp>
+    <text space="preserve" bytes="8129">&lt;languages/&gt;
+&lt;!--
+
+--------------------------------------
+ Welcome to the Main Page of the Pokéclicker Wiki!
+--------------------------------------
+
+When editing this page, please note a few things:
+
+
+* The inexperienced may want to check out the "How to help" section on the "community portal" article linked on the sidebar.
+* Remember this page is the most public face of the wiki - test edits are best done on a separate page.
+* Sections within "&lt;! --" and "-- &gt;" markers (without the spaces) - like this entire section - are hidden comments, and can be separated by several lines. Be sure not to break them.
+
+
+-------------------------------------------
+The Main Page design code follows. Edit me!
+-------------------------------------------
+
+
+
+--&gt;
+
+&lt;!------------ Title area --&gt;
+
+&lt;div style="display:flex;"&gt;
+
+&lt;!--Welcome--&gt;
+&lt;div style="border:2px solid #00FFFF; background:#F2F2F2; padding:3px; -moz-border-radius:10px; margin: 0px 2px; text-align:center; flex-grow: 1;"&gt;
+[[File:Welcome to the.png|link=Project:Community Portal|210px|Welcome]][[File:Blank.png|9px|link=]]&lt;br&gt;[[File:PokeClickerLogo.png|link=Project:About|300px|Pokéclicker Wiki]]&lt;br /&gt; [[File:Wiki_Custom.png|link=|80px]]&lt;br /&gt;
+[[File:PC_E.png|80px|left|link=]][[File:PC_E.png|right|80px|link=]]
+A community-driven wiki focusing on [[PokéClicker|Pokéclicker]] that [[Meta:Autoconfirmed_users|anyone with a confirmed Miraheze account]] can [[Help:Editing|edit]].&lt;br /&gt;
+&lt;span style="font-size:85%;"&gt;Hoje é {{CURRENTDAYNAME}} {{CURRENTMONTHNAME}} {{CURRENTDAY}}, {{CURRENTYEAR}} a {{CURRENTTIME}}.&lt;br /&gt;A wiki atualmente tem [[Special:Statistics|'''{{NUMBEROFARTICLES}}''']] [[Special:Allpages|articles]] desde Maio 31, 2008.&lt;br /&gt;Tem um total de {{NUMBEROFACTIVEUSERS}} contas ativas esse mês.&lt;/span&gt;&lt;br /&gt;
+Nota: Contas auto-confirmadas são aquelas que existem por 4 dias &lt;b&gt;e&lt;/b&gt; editaram páginass 10 vezes. Contate os moderadores da wiki para mais informação.
+---- 
+[[Wikia:Help:How_to_create_a_great_guide_or_tutorial|Tutorial para a wiki]]{{·}} [[:Category:Help|Páginas de ajuda]]{{·}} [https://discord.gg/a6DFe4p Discord]{{·}} [[PokéClicker Wiki:Directory|Diretoria]]&lt;br /&gt;[[PokéClicker Wiki:Ruleset|Conjunto de regras e diretrizes]]{{·}} [[Special:SpecialPages|Páginas especiais]]{{·}} [[Special:Categories|Categorias]]{{·}} [[Special:Preferences|Preferências]]{{·}} [[Help:FAQ|Perguntas frequentes]]
+----
+&lt;h2 style="font-size:120%; ; font-weight:normal"&gt; Pokéclicker é um jogo de código aberto construído em torno da história e do conteúdo dos jogos de Pokémon. Este é um jogo do tipo inativo e clicker que está atualmente em fase de lançamento beta. Novos conteúdos e patches são lançados com frequência.&lt;/h2&gt;
+----
+&lt;h2 style="font-size:120%; ; font-weight:normal"&gt;Pokémon é propriedade exclusiva da Nintendo e não reivindicamos a propriedade dos mesmos.&lt;/h2&gt;
+----
+Você pode começar a navegar essa wiki rolando a página para baixo e clicando em qualquer um do links.
+
+&lt;span id="Maps_&amp;amp;_Navigation"&gt;&lt;/span&gt;
+== '''Mapas &amp; Navegação''' ==
+
+{| class="wikitable" style="margin: auto;"
+! [[Regions|Regiões]] [[File:Town map.png|20px]] !! [[Dungeons|Masmorras]] {{dungeontokens}} !! [[Gyms|Ginásios]] [[File:Brock.png|20px]] !! [[Temporary Battles|Batalhas Temporárias]] [[File:Ash Ketchum.png|40px]]
+|-
+! [[Towns &amp; Cities|Vilas &amp; Cidades]] [[File:Socialite.png|40px]] !! [[Shops]] [[File:Eevee_Shuffle.png|20px]] !! [[Pokémon Day Care|Criadour Pokémon]] [[File:Bag_Blaze_Cassette_Sprite.png|20px]] !! [[Farm|Plantação]] [[File:WailmerPail_HighRes.png|20px]] 
+|-
+! [[Underground|Subsolo]] [[File:Explorer kit.png|20px]] !! [[Safari Zone|Zona Safari]] [[File:SafariTicket_HighRes.png|20px]] !! [[Battle Frontier|A Batalha da Fronteira]] [[File:Deoxys_Shuffle.png|20px]] !! [[Battle Café|Café de Batalha]] [[File:Alcremie (Strawberry Vanilla).png|40px]]
+|}
+
+== '''Itens''' ==
+{| class="wikitable" style="margin: auto;"
+! [[Key Items|Itens Chave]] [[File:GemCase_HighRes.png|20px]] !! [[Oak Items|Itens do Oak]] [[File:Bag_Amulet_Coin_Sprite.png|20px]] !! [[Underground#Items|Itens do Subsolo]] [[File:Rare_Bone_Updated.png|20px]] !! [[Evolution Items|Itens de Evolução]] [[File:Moon_Stone.png|20px]] !! [[Held Items|Itens seguráveis]] [[File:Leek.png|20px]]
+|-
+! [[Poké Balls|Poké Bolas]] [[File:Poké Ball.png|20px]] !! [[Battle Items|Itens de Batalha]] [[File:Bag_X_Click_Sprite.png|20px]] !! [[Egg|Ovos]] [[File:Mystery egg.png|20px]] !! [[Berries|Bagas]] [[File:Cheri.png|20px]] &amp; [[Farm Items|Itens de Plantação]] [[File:Berry_Shovel.png|20px]] !! [[Rare Hold Items|Itens Raros]] [[File:Kings_Rock.png|20px]]
+|}
+
+== '''Currências''' ==
+{| class="wikitable" style="margin: auto;"
+! [[Pokémon Dollars|Poké Dolares]] {{pdollar}} !! [[Dungeon Tokens|Tokens de Masmorra]] {{dungeontokens}} !! [[Quest Points|Pontos de missão]] {{Questpoints}}
+|-
+! [[Farming Points|Pontos de Plantação]] {{farmpoints}} !! [[Diamonds|Diamantes]] {{Diamonds}} !! [[Battle Points|Pontos de batalha]] [[File:Battlepoints.png|20px]]
+|}
+
+== '''Pokémon e Mecânicas''' ==
+{| class="wikitable" style="margin: auto;"
+! [[Obtainable Pokémon|Pokémons obtíveis]] [[File:Pikachu.png|40px]] !! [[Baby Pokémon|Pokémons Bebê]] [[File:Pichu.png|40px]] !! [[Roaming Pokémon|Pokémons Vaguantes]] [[File:Mew.png|40px]] !! [[Wandering Pokémon|Pokémons errante]] [[File:Flabébé_(Blue).png|40px]]
+|-
+!  [[Pokémon with Alternate Forms|Pokémons com Formas Alternativas]] [[File:Unown_(A).png|40px]] !! [[Genders|Gêneros]] [[File:MeowsticF.png|40px]] !! [[Events|Pokémons de Evento]] [[File:Armored_Mewtwo.png|40px]] !! [[Weather|Climas]] [[File:Castform.png|40px]]
+|-
+! [[Type Effectiveness|Eficácia de Tipos]] [[File:Fire_Gem.png|15px]][[File:Water_Gem.png|15px]] !! [[Gems|Gemas]] [[File:Fairy_Gem.png|20px]] !! [[Quests|Missões]] {{Questpoints}} || [[Questlines|Linhas de Missão]] [[File:Peony.png|30px|Chad Peony]]
+|-
+! [[Farm Hands|Ajudantes da Plantação]] [[File:Alex.png|20px]] !! [[Hatchery Helpers|Ajudantes do Criadouro]] [[File:HHNoel.png|20px]] !! [[File:Pokerus.png|20px]] [[Pokérus]] [[File:Pokerus_cured.png|20px]] !! [[Protein|Proteinas]] [[File:Protein_Item.png|20px]] 
+|}
+
+== '''Guias, Calculadoras, Estátisticas, and Informações Diversas''' ==
+{| class="wikitable" style="margin: auto;"
+! [[NPCs|PNJs]] [[File:Professor_Oak.png|40px]] !! [[Help:FAQ|Perguntas Frequentes]] [[File:Youngster.png|40px]] !! [[Speedruns]] [[File:Bag_Poison_Barb_Sprite.png|20px]] !! [[Challenge Mode|Desafios]] [[File:Masterball.png|20px]]
+|-
+! [[Shortcut Keys|Atalhos no Teclado]] [[File:Jolteon.png|40px]] !! [[Route Statistics|Estátisticas das Rotas]] [[File:Porygon_Shuffle.png|30px]] !! [[Pokémon Statistics|Estátisticas Pokémons]] [[File:Super_Nerd.png|40px]] !! 
+[https://docs.google.com/spreadsheets/d/1X5lBpoGCC6hc9ogzCEJGh87ecFCvLSJ1LqTe1FSiVKQ/edit?usp=sharing Calculadora de Reprodução] [[File:Chople.png|20px]]
+|-
+! [https://docs.google.com/document/d/1TE5cAKSlA7TAliA001_mIiO1odZ6e4yUEMre0GBW1to/edit?usp=sharing Passo a Passo da Plantação] [[File:Grepa.png|20px]] !! [[Shiny Chance|Chance de Pokémon Shiny]] [[File:Bag_Shiny_Charm_Sprite.png|20px]] !! [[Farming Setups|Combos de Plantação]] [[File:Passho.png|20px]] !! [https://discord.gg/a6DFe4p Discord] [[File:Unown_(D).png|40px]]
+|}
+
+'''Não achou a página que você procurava? tente olhas nessa list de todas as [[Special:Statistics|'''{{NUMBEROFARTICLES}}''']] [[Special:AllPages|páginas]]'''
+
+Essa wiki é gerenciada pela comunidade, Mas nos tentamos ter uma [[To-Do list|Lista de Afazeres]] do que esta faltando ou precisa ser atualizado nessa wiki. Por favor nos deixe saber no [https://discord.gg/a6DFe4p Discord] se você ver qualquer coisa que precisa ser atualizada ou simplesmente adicione na Lista de Afazeres. Obrigado.
+&lt;!--Contribuidores--&gt;
+&lt;br&gt;&lt;big&gt; Conheça a [[Pokéclicker Development Team|Equipe de Desenvolvimento]]! &lt;/big&gt;[[File:RedSparr0w avatar.png|50px]]&lt;br&gt;&lt;br&gt; 
+&lt;div id="Contribuidores da Wiki" style="float:right;"&gt;{{Wiki Contributors}}&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;br clear="all" /&gt;
+
+
+__NOTOC__ 
+__NOEDITSECTION__</text>
+    <contributor>
+      <username>SomeonealiveQN</username>
+      <id>5</id>
+    </contributor>
+    <comment>Created page with "__NOTOC__  __NOEDITSECTION__"</comment>
+    <model>wikitext</model>
+    <parentid>34897</parentid>
+    <sha1>b41bf35dfb2cf0e359cd68075a1af9d3cbb6d291</sha1>
+  </revision>
+</page></mediawiki>

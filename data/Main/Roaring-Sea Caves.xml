@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>10163</id>
   <revision>
-    <id>34489</id>
-    <timestamp>2022-12-13T18:34:57Z</timestamp>
-    <text space="preserve" bytes="2881">{{Infobox dungeon
+    <id>36094</id>
+    <timestamp>2022-12-15T22:41:15Z</timestamp>
+    <text space="preserve" bytes="2941">{{Infobox dungeon
 |name    = Roaring-Sea Caves
 |image   = [[File:Roaring-Sea Caves.png|thumb]]
 |caption = A map of Roaring-Sea Caves.
@@ -25,35 +25,35 @@
 |-
 ! Encounter !! Trainer !! Pokémon Team
 |-
-| {{Pokemon|Zubat}} || rowspan=15 colspan=2|&lt;center&gt;N/A
+| {{Pokemon|Zubat|40}} || rowspan=15 colspan=2|&lt;center&gt;N/A
 |-
-| {{Pokemon|Carbink}}
+| {{Pokemon|Carbink|40}}
 |-
-| {{Pokemon|Piloswine}}
+| {{Pokemon|Piloswine|40}}
 |-
-| {{Pokemon|Deino}}
+| {{Pokemon|Deino|40}}
 |-
-| {{Pokemon|Larvitar}}
+| {{Pokemon|Larvitar|40}}
 |-
-| {{Pokemon|Riolu}}
+| {{Pokemon|Riolu|40}}
 |-
-| {{Pokemon|Audino}}
+| {{Pokemon|Audino|40}}
 |-
-| {{Pokemon|Golbat}}
+| {{Pokemon|Golbat|40}}
 |-
-| {{Pokemon|Barboach}}
+| {{Pokemon|Barboach|40}}
 |-
-| {{Pokemon|Basculin (Red-Striped)}}
+| {{Pokemon|Basculin (Red-Striped)|40}}
 |-
-| {{Pokemon|Basculin (Blue-Striped)}}
+| {{Pokemon|Basculin (Blue-Striped)|40}}
 |-
-| {{Pokemon|Magikarp}}
+| {{Pokemon|Magikarp|40}}
 |-
-| {{Pokemon|Feebas}}
+| {{Pokemon|Feebas|40}}
 |-
-| '''{{Pokemon|Omanyte}}*'''
+| '''{{Pokemon|Omanyte|40}}*'''
 |-
-| '''{{Pokemon|Kabuto}}*'''
+| '''{{Pokemon|Kabuto|40}}*'''
 |}
 
 '''*Note:''' Omanyte and Kabuto will only appear if the player has captured them previously.
@@ -63,15 +63,15 @@
 |-
 ! Wild Pokémon !! Base Health !! Boss Trainer !! Pokémon Team !! Base Health
 |-
-| '''{{Pokemon|Kabutops}}*''' || rowspan=5|&lt;center&gt;160,924,440 || rowspan=5 colspan=3|&lt;center&gt;N/A
+| '''{{Pokemon|Kabutops|40}}*''' || rowspan=5|&lt;center&gt;160,924,440 || rowspan=5 colspan=3|&lt;center&gt;N/A
 |-
-| '''{{Pokemon|Omastar}}*'''
+| '''{{Pokemon|Omastar|40}}*'''
 |-
-| {{Pokemon|Tyranitar}}
+| {{Pokemon|Tyranitar|40}}
 |-
-| {{Pokemon|Hydreigon}}
+| {{Pokemon|Hydreigon|40}}
 |-
-| {{Pokemon|Lucario}}
+| {{Pokemon|Lucario|40}}
 |}
 
 '''*Note:''' Kabutops and Omastar will only appear if the player has captured them previously.
@@ -127,9 +127,9 @@
       <username>Jk13</username>
       <id>14</id>
     </contributor>
-    <comment>/* Wild Encounters */</comment>
+    <comment></comment>
     <model>wikitext</model>
-    <parentid>34488</parentid>
-    <sha1>70fe95407076b7b0487f15b05a9ee41683a7c853</sha1>
+    <parentid>34489</parentid>
+    <sha1>8d45c81e1f7d4281e63360535040b120d1260195</sha1>
   </revision>
 </page></mediawiki>

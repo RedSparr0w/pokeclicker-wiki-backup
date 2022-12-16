@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>682</id>
   <revision>
-    <id>34727</id>
-    <timestamp>2022-12-14T05:55:20Z</timestamp>
-    <text space="preserve" bytes="3896">&lt;languages/&gt;
+    <id>35397</id>
+    <timestamp>2022-12-15T21:42:40Z</timestamp>
+    <text space="preserve" bytes="3908">&lt;languages/&gt;
 &lt;translate&gt;
 &lt;!--T:1--&gt;
 {{Infobox Berry
@@ -29,7 +29,8 @@
 &lt;!--T:2--&gt;
 '''Hondew''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by surrounding an empty plot with exactly 15 points of spicy, dry and bitter and 0 points of all other flavours. The [[Figy]], [[Wiki]] and [[Aguav]] berries must be unlocked to obtain this berry.
 
-== Growth Tables == &lt;!--T:3--&gt;
+&lt;!--T:3--&gt;
+== Growth Tables ==
 === Growth Stages ===
 {| class="wikitable" | style = "image-rendering: pixelated"
 ! !! Sprout !! Taller !! Bloom !! Berry
@@ -42,7 +43,8 @@
  [[File:HondewTreeBerry.png|50px]]
 |}
 
-=== Ripening Time with Modifiers  === &lt;!--T:4--&gt;
+&lt;!--T:4--&gt;
+=== Ripening Time with Modifiers  ===
 {| class="wikitable" | style="text-align: center;"
 ! Modifier !! Ripe-Wither Time !! Boost Mulch Needed to Ripen
 |-
@@ -56,11 +58,13 @@
 | 1 hour 20 mins -&lt;br&gt; 2 hours 40 mins || 16 mulch
 |}
 
-== Flow Chart == &lt;!--T:5--&gt;
+&lt;!--T:5--&gt;
+== Flow Chart ==
 [[File:Hondew_Flow_Chart.png|250px]]
 &lt;br&gt;
 
-== Mutation Strategy == &lt;!--T:6--&gt;
+&lt;!--T:6--&gt;
+== Mutation Strategy ==
 === Possible Planting Formations ===
 
 &lt;!--T:7--&gt;
@@ -90,7 +94,8 @@ You can fill your farm in the following way to obtain Hondew berries. Purple squ
 | [[File:Wiki.png|30px]]&lt;br&gt;[[Wiki]] || [[File:Aguav.png|30px]] [[Aguav]] || style="background-color:#9C7D98;" | || [[File:Wiki.png|30px]]&lt;br&gt;[[Wiki]] || [[File:Aguav.png|30px]] [[Aguav]] 
 |}
 
-=== Timing Table === &lt;!--T:10--&gt;
+&lt;!--T:10--&gt;
+=== Timing Table ===
 {| class="wikitable"| style="text-align: center;"
 |+ ''All planting times use the time-to-ripe remaining of the first planted berry for subsequent planting times''
 ! Berry !! Planting Time with &lt;br&gt; No Modifier !! Planting Time with &lt;br&gt; Mulch or Sprayduck || Planting Time with &lt;br&gt;  Mulch &amp; Sprayduck
@@ -105,6 +110,7 @@ You can fill your farm in the following way to obtain Hondew berries. Purple squ
 &lt;!--T:11--&gt;
 Note: Figy and Aguav have equivalent growth times.
 
+&lt;!--T:15--&gt;
 ==Acquisition==
 ===Dungeons===
 {{Loot/head‎|Berries}}
@@ -122,12 +128,12 @@ Note: Figy and Aguav have equivalent growth times.
 [[Category:Farm]][[Category:Berries]]
 &lt;/translate&gt;</text>
     <contributor>
-      <username>ThePantMan</username>
-      <id>8</id>
+      <username>DraKay</username>
+      <id>18</id>
     </contributor>
-    <comment>/* loot */</comment>
+    <comment>Marked this version for translation</comment>
     <model>wikitext</model>
-    <parentid>7511</parentid>
-    <sha1>4a1c35f90f4cae3ab3f66574d754ceea2bacb9b4</sha1>
+    <parentid>34727</parentid>
+    <sha1>4474c5d144beba0700b56e14c21ce149e8ce02b6</sha1>
   </revision>
 </page></mediawiki>

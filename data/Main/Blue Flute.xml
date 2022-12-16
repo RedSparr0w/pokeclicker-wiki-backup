@@ -4,10 +4,11 @@
   <ns>0</ns>
   <id>4092</id>
   <revision>
-    <id>34757</id>
-    <timestamp>2022-12-14T17:13:32Z</timestamp>
-    <text space="preserve" bytes="1192">&lt;languages/&gt;
+    <id>35169</id>
+    <timestamp>2022-12-15T21:38:21Z</timestamp>
+    <text space="preserve" bytes="1280">&lt;languages/&gt;
 &lt;translate&gt;
+&lt;!--T:1--&gt;
 {{Infobox battle item
 |name       = Blue Flute
 |image      = [[File:Blue Flute.png]]
@@ -17,16 +18,19 @@
 *[[Blue Flute#Shops|Undella Town Gem Master]]
 }}
 
-== Description ==
+== Description == &lt;!--T:2--&gt;
 
+&lt;!--T:3--&gt;
 The '''Blue Flute''' is a type of [[Flutes|Flute]]. By using Water, Bug, and Ghost Gems the Blue Flute increases the player's EV Yield.
 
-== Details ==
+== Details == &lt;!--T:4--&gt;
 
+&lt;!--T:5--&gt;
 Blue Flute increases the player's EV Yield by a base 2%.  The Base effect is multiplied by the players Achievement Bonus, to a current maximum of 22%, with an achievement bonus of 1000%.  Costs a variable amount of Water, Bug, and Ghost Gems when active, cost based on how many total Flutes are active.
 
-== Acquisition ==
+== Acquisition == &lt;!--T:6--&gt;
 
+&lt;!--T:7--&gt;
 ===Shops===
 {{ItemPrice/head‎|Battle items}}
 {{ItemPrice|[[Shops#Fallarbor_Town_Gem_Master|Fallarbor Town Gem Master]]|
@@ -35,17 +39,18 @@ Blue Flute increases the player's EV Yield by a base 2%.  The Base effect is mul
 |}
 
 
+&lt;!--T:8--&gt;
 __NOTOC__
 {{Battle items}}&lt;br&gt;
 [[Category:Flutes]] [[Category:Items]]
 &lt;/translate&gt;</text>
     <contributor>
-      <username>SomeonealiveQN</username>
-      <id>5</id>
+      <username>DraKay</username>
+      <id>18</id>
     </contributor>
-    <comment></comment>
+    <comment>Marked this version for translation</comment>
     <model>wikitext</model>
-    <parentid>14951</parentid>
-    <sha1>e1c577329025e32024d54adc25c6179e5d9586e4</sha1>
+    <parentid>34757</parentid>
+    <sha1>d2973e262c1e483db9bdba6d92be685c583f628e</sha1>
   </revision>
 </page></mediawiki>

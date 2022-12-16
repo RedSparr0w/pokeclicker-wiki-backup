@@ -4,10 +4,11 @@
   <ns>0</ns>
   <id>42</id>
   <revision>
-    <id>34657</id>
-    <timestamp>2022-12-14T04:05:10Z</timestamp>
-    <text space="preserve" bytes="4343">&lt;languages/&gt;
+    <id>36051</id>
+    <timestamp>2022-12-15T21:50:02Z</timestamp>
+    <text space="preserve" bytes="4433">&lt;languages/&gt;
 &lt;translate&gt;
+&lt;!--T:1--&gt;
 {{Infobox battle item
 |name       = XAttack
 |image      = [[File:Bag_X_Attack_Sprite.png]]
@@ -18,15 +19,18 @@
 *[[XAttack#Dungeons|Dungeons]]
 }}
 
-== Description ==
+== Description == &lt;!--T:2--&gt;
 
+&lt;!--T:3--&gt;
 The '''XAttack''' is a type of battle item. It temporarily boosts the player's Pokémon's Attack by 50% for 30 seconds.
 
+&lt;!--T:4--&gt;
 == Details ==
 The XAttack provides a +50% Bonus to total Pokémon Attack.
 
-== Acquisition ==
+== Acquisition == &lt;!--T:5--&gt;
 
+&lt;!--T:6--&gt;
 ===Shops===
 {{ItemPrice/head‎|Battle items}}
 {{ItemPrice|[[Shops#Kanto: Locations &amp; Items|Cerulean City]]|600 {{pdollar}}}}
@@ -55,13 +59,14 @@ The XAttack provides a +50% Bonus to total Pokémon Attack.
 |}
 |}
 
+&lt;!--T:7--&gt;
 ===Dungeons===
 {{Loot/head‎|Battle items}}
 {{LootItem|Viridian Forest|Common}}
 {{LootItem|Rocket Game Corner|Common}}
-{{LootItem|Pokemon Tower|Common}}
+{{LootItem|Pokémon Tower|Common}}
 {{LootItem|Seafoam Islands|Common}}
-{{LootItem|Pokemon Mansion|Common}}
+{{LootItem|Pokémon Mansion|Common}}
 {{LootItem|Mt. Ember Summit|Common}}
 {{LootItem|Ruby Path|Common}}
 {{LootItem|Union Cave|Common}}
@@ -112,17 +117,18 @@ The XAttack provides a +50% Bonus to total Pokémon Attack.
 |}
 |}
 
+&lt;!--T:8--&gt;
 __NOTOC__
 {{Battle items}}&lt;br&gt;
 [[Category:Items]] [[Category:Battle Items]]
 &lt;/translate&gt;</text>
     <contributor>
-      <username>ThePantMan</username>
-      <id>8</id>
+      <username>DraKay</username>
+      <id>18</id>
     </contributor>
-    <comment>/* Galar */</comment>
+    <comment>Marked this version for translation</comment>
     <model>wikitext</model>
-    <parentid>434</parentid>
-    <sha1>2498008ad9363bf40aa560008acd5731dee0fc80</sha1>
+    <parentid>35100</parentid>
+    <sha1>88a494be6fe05c3fd8accab4d57d866ffe9c97e6</sha1>
   </revision>
 </page></mediawiki>

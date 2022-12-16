@@ -4,10 +4,10 @@
   <ns>0</ns>
   <id>5075</id>
   <revision>
-    <id>17038</id>
-    <timestamp>2022-07-25T17:18:22Z</timestamp>
-    <text space="preserve" bytes="24758">&lt;languages/&gt;
-Shiny Pokémon can be obtained in a number of different ways, each with their own odds. As of version 0.9.3, the only ways to augment the chances of encountering shinies are to equip the [[Shiny Charm]], using the [[Azure Flute]], or growing [[Starf]] Berries in the [[Farm]] (at full ripeness, each Starf plant gives a 1.015% boost).
+    <id>35849</id>
+    <timestamp>2022-12-15T21:48:08Z</timestamp>
+    <text space="preserve" bytes="24780">&lt;languages/&gt;
+Shiny Pokémon can be obtained in a number of different ways, each with their own odds. As of version 0.9.3, the only ways to augment the chances of encountering shinies are to equip the [[Shiny Charm]], using the [[White Flute]], or growing [[Starf]] Berries in the [[Farm]] (at full ripeness, each Starf plant gives a 1.015% boost).
 
 =Odds=
 
@@ -23,7 +23,7 @@ Shiny Pokémon can be obtained in a number of different ways, each with their ow
 |-
 | [[Safari Zone]] Encounter
 |-
-| [[Pokemon Day Care|Hatching an Egg]] || rowspan = 3 | 1 / 1024 || rowspan = 3 | 1 / 512 || rowspan = 3 | 1 / 353
+| [[Pokémon Day Care|Hatching an Egg]] || rowspan = 3 | 1 / 1024 || rowspan = 3 | 1 / 512 || rowspan = 3 | 1 / 353
 |-
 | [[Berries#Wandering Pokémon|Farm Wanderer]]
 |-
@@ -33,26 +33,26 @@ Shiny Pokémon can be obtained in a number of different ways, each with their ow
 
 =Farm Shiny Breeding Strategy=
 
-[[Pokemon Day Care|Breeding]] is the most effective way to obtain most Shiny [[Pokémon]]. The [[Farm]] can be used to increase both the Egg Steps gained by defeating a Pokémon (thus hatching eggs faster) and the Shiny Rate in general. Below is a table of optimal Shiny strategies along with planting strategies to achieve these strategies. Furthermore, a [https://docs.google.com/spreadsheets/d/1PqL4TNH61Bo1t0hG5TBbvOMavPU6D3EzbKnUNXxjqUk/edit?usp=sharing Shiny Breeding Rate Calculator] has been created for more specific calculations of Shiny Rates.
+[[Pokémon Day Care|Breeding]] is the most effective way to obtain most Shiny [[Pokémon]]. The [[Farm]] can be used to increase both the Egg Steps gained by defeating a Pokémon (thus hatching eggs faster) and the Shiny Rate in general. Below is a table of optimal Shiny strategies along with planting strategies to achieve these strategies. Furthermore, a [https://docs.google.com/spreadsheets/d/1PqL4TNH61Bo1t0hG5TBbvOMavPU6D3EzbKnUNXxjqUk/edit?usp=sharing Shiny Breeding Rate Calculator] has been created for more specific calculations of Shiny Rates.
 
 ===Optimal Strategy Rank Table===
 
 {| class="wikitable sortable"
 ! Berry Strategy !! Efficiency Ranking !! Berry Strategy !! Efficiency Ranking
 |-
-| [[Shiny Chance#Starf + Lum + Chople + Petaya Planting Formation|Starf + Lum + Chople + Petaya]]&lt;br&gt; ([[File:Starf.png|20px]] + [[File:Lum.png|20px]] + [[File:Chople.png|20px]] + [[File:Petaya.png|20px]]) || 1 || [[Pokemon Day Care#Chople + Petaya|Chople + Petaya]]&lt;br&gt; ([[File:Chople.png|20px]] + [[File:Petaya.png|20px]]) || 10
+| [[Shiny Chance#Starf + Lum + Chople + Petaya Planting Formation|Starf + Lum + Chople + Petaya]]&lt;br&gt; ([[File:Starf.png|20px]] + [[File:Lum.png|20px]] + [[File:Chople.png|20px]] + [[File:Petaya.png|20px]]) || 1 || [[Pokémon Day Care#Chople + Petaya|Chople + Petaya]]&lt;br&gt; ([[File:Chople.png|20px]] + [[File:Petaya.png|20px]]) || 10
 |-
-| [[Pokemon Day Care#Chople + Babiri + Petaya + Lum|Chople + Babiri + Petaya + Lum]]&lt;br&gt; ([[File:Chople.png|20px]] + [[File:Babiri.png|20px]] + [[File:Petaya.png|20px]] + [[File:Lum.png|20px]]) || 2 || [[Pokemon Day Care#Chople + Babiri|Chople + Babiri]]&lt;br&gt; ([[File:Chople.png|20px]] + [[File:Babiri.png|20px]]) || 11
+| [[Pokémon Day Care#Chople + Babiri + Petaya + Lum|Chople + Babiri + Petaya + Lum]]&lt;br&gt; ([[File:Chople.png|20px]] + [[File:Babiri.png|20px]] + [[File:Petaya.png|20px]] + [[File:Lum.png|20px]]) || 2 || [[Pokémon Day Care#Chople + Babiri|Chople + Babiri]]&lt;br&gt; ([[File:Chople.png|20px]] + [[File:Babiri.png|20px]]) || 11
 |-
-| [[Shiny Chance#Starf + Lum + Petaya Planting Formation|Starf + Lum + Petaya]]&lt;br&gt; ([[File:Starf.png|20px]] + [[File:Lum.png|20px]] + [[File:Petaya.png|20px]]) || 3 || [[Pokemon Day Care#Chople + Babiri + Petaya|Chople + Babiri + Petaya]]&lt;br&gt; ([[File:Chople.png|20px]] + [[File:Babiri.png|20px]] + [[File:Petaya.png|20px]]) || 12
+| [[Shiny Chance#Starf + Lum + Petaya Planting Formation|Starf + Lum + Petaya]]&lt;br&gt; ([[File:Starf.png|20px]] + [[File:Lum.png|20px]] + [[File:Petaya.png|20px]]) || 3 || [[Pokémon Day Care#Chople + Babiri + Petaya|Chople + Babiri + Petaya]]&lt;br&gt; ([[File:Chople.png|20px]] + [[File:Babiri.png|20px]] + [[File:Petaya.png|20px]]) || 12
 |-
-| [[Pokemon Day Care#Chople + Lum + Petaya|Chople + Lum + Petaya]]&lt;br&gt; ([[File:Chople.png|20px]] + [[File:Lum.png|20px]] + [[File:Petaya.png|20px]]) || 4 || [[Shiny Chance#Starf Planting Formation|Starf]]&lt;br&gt; ([[File:Starf.png|20px]]) || 13
+| [[Pokémon Day Care#Chople + Lum + Petaya|Chople + Lum + Petaya]]&lt;br&gt; ([[File:Chople.png|20px]] + [[File:Lum.png|20px]] + [[File:Petaya.png|20px]]) || 4 || [[Shiny Chance#Starf Planting Formation|Starf]]&lt;br&gt; ([[File:Starf.png|20px]]) || 13
 |-
-| [[Pokemon Day Care#Chople + Babiri + Lum|Chople + Babiri + Lum]]&lt;br&gt; ([[File:Chople.png|20px]] + [[File:Babiri.png|20px]] + [[File:Lum.png|20px]]) || 5 || [[Pokemon Day Care#Chople + Empty Rows|Chople]]&lt;br&gt; ([[File:Chople.png|20px]]) || 14
+| [[Pokémon Day Care#Chople + Babiri + Lum|Chople + Babiri + Lum]]&lt;br&gt; ([[File:Chople.png|20px]] + [[File:Babiri.png|20px]] + [[File:Lum.png|20px]]) || 5 || [[Pokémon Day Care#Chople + Empty Rows|Chople]]&lt;br&gt; ([[File:Chople.png|20px]]) || 14
 |-
-| [[Pokemon Day Care#Chople + Lum|Chople + Lum]]&lt;br&gt; ([[File:Chople.png|20px]] + [[File:Lum.png|20px]]) || 6 || [[Pokemon Day Care#Chople + Yache/Haban|Chople + Yache]]&lt;br&gt; ([[File:Chople.png|20px]] + [[File:Yache.png|20px]]) || 14
+| [[Pokémon Day Care#Chople + Lum|Chople + Lum]]&lt;br&gt; ([[File:Chople.png|20px]] + [[File:Lum.png|20px]]) || 6 || [[Pokémon Day Care#Chople + Yache/Haban|Chople + Yache]]&lt;br&gt; ([[File:Chople.png|20px]] + [[File:Yache.png|20px]]) || 14
 |-
-| [[Shiny Chance#Starf + Chople + Petaya Planting Formation|Starf + Chople + Petaya]]&lt;br&gt; ([[File:Starf.png|20px]] + [[File:Chople.png|20px]] + [[File:Petaya.png|20px]]) || 7 || [[Pokemon Day Care#Chople + Yache/Haban|Chople + Haban]]&lt;br&gt; ([[File:Chople.png|20px]] + [[File:Haban.png|20px]]) || 14
+| [[Shiny Chance#Starf + Chople + Petaya Planting Formation|Starf + Chople + Petaya]]&lt;br&gt; ([[File:Starf.png|20px]] + [[File:Chople.png|20px]] + [[File:Petaya.png|20px]]) || 7 || [[Pokémon Day Care#Chople + Yache/Haban|Chople + Haban]]&lt;br&gt; ([[File:Chople.png|20px]] + [[File:Haban.png|20px]]) || 14
 |-
 | [[Shiny Chance#Starf + Lum + Chople Planting Formation|Starf + Lum + Chople]]&lt;br&gt; ([[File:Starf.png|20px]] + [[File:Lum.png|20px]] + [[File:Chople.png|20px]]) || 8 || [[Shiny Chance#Starf + Chople Planting Formation|Starf + Chople]]&lt;br&gt; ([[File:Starf.png|20px]] + [[File:Chople.png|20px]]) || 15
 |-
@@ -78,25 +78,25 @@ Note: The table assumes perfect planting, where berries are planted not at the s
 {| class="wikitable sortable collapsible collapsed"
 ! Berry Types !! Full Strategy !! MESBM !! MSBM !! BD (hours) !! MRT (hours) !! U% !! MESBM w/ U% !! MSBM w/ U% !! ER
 |+Expanded Rate Table
-| rowspan=10|Chople ([[File:Chople.png|20px]]) || [[Pokemon Day Care#Chople + Empty Rows|Chople]]&lt;br&gt; ([[File:Chople.png|20px]]) || 1.56x || 1.00x || 10 hours || 10 hours || {{ #expr: 10/(10+10) * 100}} % || {{ #expr: (10/(10+10)) * (1.56-1) +1}}x || {{ #expr: (10/(10+10)) * (1.00 - 1) + 1}}.00x || 14
+| rowspan=10|Chople ([[File:Chople.png|20px]]) || [[Pokémon Day Care#Chople + Empty Rows|Chople]]&lt;br&gt; ([[File:Chople.png|20px]]) || 1.56x || 1.00x || 10 hours || 10 hours || {{ #expr: 10/(10+10) * 100}} % || {{ #expr: (10/(10+10)) * (1.56-1) +1}}x || {{ #expr: (10/(10+10)) * (1.00 - 1) + 1}}.00x || 14
 |-
-| [[Pokemon Day Care#Chople + Yache/Haban|Chople + Yache]]&lt;br&gt; ([[File:Chople.png|20px]] + [[File:Yache.png|20px]])|| 1.56x || 1.00x || {{ #expr: 10/0.7round2 }} hours || {{ #expr: 10/0.7round2 }} hours || {{ #expr: (10/0.7)/((10/0.7) + (10/0.7)) * 100}} % || {{ #expr: ((10/0.7)/((10/0.7) + (10/0.7))) * (1.56-1) + 1}}x || {{ #expr: ((10/0.7)/((10/0.7) + (10/0.7))) * (1.00-1) + 1}}.00x || 14
+| [[Pokémon Day Care#Chople + Yache/Haban|Chople + Yache]]&lt;br&gt; ([[File:Chople.png|20px]] + [[File:Yache.png|20px]])|| 1.56x || 1.00x || {{ #expr: 10/0.7round2 }} hours || {{ #expr: 10/0.7round2 }} hours || {{ #expr: (10/0.7)/((10/0.7) + (10/0.7)) * 100}} % || {{ #expr: ((10/0.7)/((10/0.7) + (10/0.7))) * (1.56-1) + 1}}x || {{ #expr: ((10/0.7)/((10/0.7) + (10/0.7))) * (1.00-1) + 1}}.00x || 14
 |-
-| [[Pokemon Day Care#Chople + Yache/Haban|Chople + Haban]]&lt;br&gt; ([[File:Chople.png|20px]] + [[File:Haban.png|20px]])|| 1.56x || 1.00x || {{ #expr: 10/0.5round2 }} hours || {{ #expr: 10/0.5round2 }} hours || {{ #expr: (10/0.5)/((10/0.5) + (10/0.5)) *100}} % || {{ #expr: ((10/0.5)/((10/0.5) + (10/0.5))) * (1.56-1) + 1}}x || {{ #expr: ((10/0.5)/((10/0.5) + (10/0.5))) * (1.00-1) + 1}}.00x || 14
+| [[Pokémon Day Care#Chople + Yache/Haban|Chople + Haban]]&lt;br&gt; ([[File:Chople.png|20px]] + [[File:Haban.png|20px]])|| 1.56x || 1.00x || {{ #expr: 10/0.5round2 }} hours || {{ #expr: 10/0.5round2 }} hours || {{ #expr: (10/0.5)/((10/0.5) + (10/0.5)) *100}} % || {{ #expr: ((10/0.5)/((10/0.5) + (10/0.5))) * (1.56-1) + 1}}x || {{ #expr: ((10/0.5)/((10/0.5) + (10/0.5))) * (1.00-1) + 1}}.00x || 14
 |-
-| [[Pokemon Day Care#Chople + Petaya|Chople + Petaya]]&lt;br&gt; ([[File:Chople.png|20px]] + [[File:Petaya.png|20px]]) || 1.56x || 1.00x || 4 days 10 hours || 24 hours || {{ #expr: (4*24 + 10)/((4*24 + 10) + 24) *100 round2}} % || {{ #expr: ((4*24 + 10)/((4*24 + 10) + 24)) * (1.56-1) + 1round2}} || {{ #expr: ((4*24 + 10)/((4*24 + 10) + 24)) * (1.00-1) + 1round2}}.00x || 10
+| [[Pokémon Day Care#Chople + Petaya|Chople + Petaya]]&lt;br&gt; ([[File:Chople.png|20px]] + [[File:Petaya.png|20px]]) || 1.56x || 1.00x || 4 days 10 hours || 24 hours || {{ #expr: (4*24 + 10)/((4*24 + 10) + 24) *100 round2}} % || {{ #expr: ((4*24 + 10)/((4*24 + 10) + 24)) * (1.56-1) + 1round2}} || {{ #expr: ((4*24 + 10)/((4*24 + 10) + 24)) * (1.00-1) + 1round2}}.00x || 10
 |-
-| [[Pokemon Day Care#Chople + Lum|Chople + Lum]]&lt;br&gt; ([[File:Chople.png|20px]] + [[File:Lum.png|20px]]) || 2.43x || 1.00x || 10 hours || 10 hours || {{ #expr: 10/(10+10) * 100}} % || {{ #expr: (10/(10+10)) * (2.43-1) + 1round2}} || {{ #expr: (10/(10+10)) * (1.00-1) + 1round2}}.00x || 6
+| [[Pokémon Day Care#Chople + Lum|Chople + Lum]]&lt;br&gt; ([[File:Chople.png|20px]] + [[File:Lum.png|20px]]) || 2.43x || 1.00x || 10 hours || 10 hours || {{ #expr: 10/(10+10) * 100}} % || {{ #expr: (10/(10+10)) * (2.43-1) + 1round2}} || {{ #expr: (10/(10+10)) * (1.00-1) + 1round2}}.00x || 6
 |-
-| [[Pokemon Day Care#Chople + Lum + Petaya|Chople + Lum + Petaya]]&lt;br&gt; ([[File:Chople.png|20px]] + [[File:Lum.png|20px]] + [[File:Petaya.png|20px]]) || 2.43x || 1.00x || 4 days 10 hours || 24 hours || {{ #expr: (4*24 + 10)/((4*24 + 10) + 24) *100 round2}} % || {{ #expr: ((4*24 + 10)/((4*24 + 10) + 24)) * (2.43-1) + 1round2}} || {{ #expr: ((4*24 + 10)/((4*24 + 10) + 24)) * (1.00-1) + 1round2}}.00x || 4
+| [[Pokémon Day Care#Chople + Lum + Petaya|Chople + Lum + Petaya]]&lt;br&gt; ([[File:Chople.png|20px]] + [[File:Lum.png|20px]] + [[File:Petaya.png|20px]]) || 2.43x || 1.00x || 4 days 10 hours || 24 hours || {{ #expr: (4*24 + 10)/((4*24 + 10) + 24) *100 round2}} % || {{ #expr: ((4*24 + 10)/((4*24 + 10) + 24)) * (2.43-1) + 1round2}} || {{ #expr: ((4*24 + 10)/((4*24 + 10) + 24)) * (1.00-1) + 1round2}}.00x || 4
 |-
-| [[Pokemon Day Care#Chople + Babiri + Petaya|Chople + Babiri + Petaya]]&lt;br&gt; ([[File:Chople.png|20px]] + [[File:Babiri.png|20px]] + [[File:Petaya.png|20px]]) || 1.81x || 1.00x || 4 days 10 hours || 24 hours || {{ #expr: (4*24 + 10)/((4*24 + 10) + 24) *100 round2}} % || {{ #expr: ((4*24 + 10)/((4*24 + 10) + 24)) * (1.81-1) + 1round2}} || {{ #expr: ((4*24 + 10)/((4*24 + 10) + 24)) * (1.00-1) + 1round2}}.00x || 12
+| [[Pokémon Day Care#Chople + Babiri + Petaya|Chople + Babiri + Petaya]]&lt;br&gt; ([[File:Chople.png|20px]] + [[File:Babiri.png|20px]] + [[File:Petaya.png|20px]]) || 1.81x || 1.00x || 4 days 10 hours || 24 hours || {{ #expr: (4*24 + 10)/((4*24 + 10) + 24) *100 round2}} % || {{ #expr: ((4*24 + 10)/((4*24 + 10) + 24)) * (1.81-1) + 1round2}} || {{ #expr: ((4*24 + 10)/((4*24 + 10) + 24)) * (1.00-1) + 1round2}}.00x || 12
 |-
-| [[Pokemon Day Care#Chople + Babiri|Chople + Babiri]]&lt;br&gt; ([[File:Chople.png|20px]] + [[File:Babiri.png|20px]]) || 1.86x || 1.00x || 10 hours || 18 hours || {{ #expr: 10/(10 + 18) *100 round2}} % || {{ #expr: (10/(10 + 18)) * (1.86-1) + 1round2}} || {{ #expr: (10/(10 + 18)) * (1.00-1) + 1round2}}.00x || 11
+| [[Pokémon Day Care#Chople + Babiri|Chople + Babiri]]&lt;br&gt; ([[File:Chople.png|20px]] + [[File:Babiri.png|20px]]) || 1.86x || 1.00x || 10 hours || 18 hours || {{ #expr: 10/(10 + 18) *100 round2}} % || {{ #expr: (10/(10 + 18)) * (1.86-1) + 1round2}} || {{ #expr: (10/(10 + 18)) * (1.00-1) + 1round2}}.00x || 11
 |-
-| [[Pokemon Day Care#Chople + Babiri + Lum|Chople + Babiri + Lum]]&lt;br&gt; ([[File:Chople.png|20px]] + [[File:Babiri.png|20px]] + [[File:Lum.png|20px]]) || 2.90x || 1.00x || 10 hours || 18 hours || {{ #expr: 10/(10 + 18) *100 round2}} % || {{ #expr: (10/(10 + 18)) * (2.90-1) + 1round2}} || {{ #expr: (10/(10 + 18)) * (1.00-1) + 1round2}}.00x || 5
+| [[Pokémon Day Care#Chople + Babiri + Lum|Chople + Babiri + Lum]]&lt;br&gt; ([[File:Chople.png|20px]] + [[File:Babiri.png|20px]] + [[File:Lum.png|20px]]) || 2.90x || 1.00x || 10 hours || 18 hours || {{ #expr: 10/(10 + 18) *100 round2}} % || {{ #expr: (10/(10 + 18)) * (2.90-1) + 1round2}} || {{ #expr: (10/(10 + 18)) * (1.00-1) + 1round2}}.00x || 5
 |-
-| [[Pokemon Day Care#Chople + Babiri + Petaya + Lum|Chople + Babiri + Petaya + Lum]]&lt;br&gt; ([[File:Chople.png|20px]] + [[File:Babiri.png|20px]] + [[File:Petaya.png|20px]] + [[File:Lum.png|20px]]) || 2.73x || 1.00x || 4 days 10 hours || 24 hours || {{ #expr: (4*24 + 10)/((4*24 + 10) + 24) *100 round2}} % || {{ #expr: ((4*24 + 10)/((4*24 + 10) + 24)) * (2.73-1) + 1round2}} || {{ #expr: ((4*24 + 10)/((4*24 + 10) + 24)) * (1.00-1) + 1round2}}.00x || 2
+| [[Pokémon Day Care#Chople + Babiri + Petaya + Lum|Chople + Babiri + Petaya + Lum]]&lt;br&gt; ([[File:Chople.png|20px]] + [[File:Babiri.png|20px]] + [[File:Petaya.png|20px]] + [[File:Lum.png|20px]]) || 2.73x || 1.00x || 4 days 10 hours || 24 hours || {{ #expr: (4*24 + 10)/((4*24 + 10) + 24) *100 round2}} % || {{ #expr: ((4*24 + 10)/((4*24 + 10) + 24)) * (2.73-1) + 1round2}} || {{ #expr: ((4*24 + 10)/((4*24 + 10) + 24)) * (1.00-1) + 1round2}}.00x || 2
 |-
 | rowspan=3|Starf ([[File:Starf.png|20px]]) || [[Shiny Chance#Starf Planting Formation|Starf]]&lt;br&gt; ([[File:Starf.png|20px]]) || 1.00x || 1.45x || 96 hours || 24 hours || {{ #expr: (4)/(4 + 1) *100 round2}} % || {{ #expr: ((4)/(4 + 1)) * (1.00-1) + 1round2}}.00x || {{ #expr: ((4)/(4 + 1)) * (1.45-1) + 1round2}} || 13
 |-
@@ -224,7 +224,7 @@ Combines Starf + Lum with a Petaya for a slightly less efficient setup with much
 |-
 | [[Petaya]] || - || - || -
 |-
-| [[Lum]] || 12 hours 59 minutes 59 seconds until ripe || 8 hours 39 mins 39 secs until ripe || 5 hours 46 mins 39 secs until ripe
+| [[Lum]] || 11 hours 59 minutes 59 seconds until ripe || 7 hours 59 mins 59 secs until ripe || 5 hours 19 mins 59 secs until ripe
 |}
 
 ====Starf + Lum + Chople Planting Formation====
@@ -286,7 +286,7 @@ Takes Chople + Lum + Petaya and adds Starf berries in the open spaces for a boos
 |-
 | [[Chople]] || 19 hours 59 minutes 59 seconds until ripe || 13 hours 19 mins 59 secs until ripe || 8 hours 53 mins 19 secs until ripe
 |-
-| [[Lum]] || 12 hours 59 minutes 59 seconds until ripe || 8 hours 39 mins 39 secs until ripe || 5 hours 46 mins 39 secs until ripe
+| [[Lum]] || 11 hours 59 minutes 59 seconds until ripe || 7 hours 59 mins 59 secs until ripe || 5 hours 19 mins 59 secs until ripe
 |}
 
 =Trivia=
@@ -299,7 +299,7 @@ Shinies as of version 0.3.0 increase click damage at a 150% rate compared to nor
     </contributor>
     <comment>Updating to match new version of source page</comment>
     <model>wikitext</model>
-    <parentid>0</parentid>
-    <sha1>3b1f572565750759d3ee621a95fe1288d1ff5ea4</sha1>
+    <parentid>35082</parentid>
+    <sha1>ef98eb0f27cc13656cf84e279f014cd4f6664798</sha1>
   </revision>
 </page></mediawiki>

@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>10167</id>
   <revision>
-    <id>34448</id>
-    <timestamp>2022-12-13T17:51:37Z</timestamp>
-    <text space="preserve" bytes="1910">{{Infobox dungeon
+    <id>36088</id>
+    <timestamp>2022-12-15T22:37:28Z</timestamp>
+    <text space="preserve" bytes="1934">{{Infobox dungeon
 |name    = Dyna Tree Hill
 |image   = [[File:Dyna Tree Hill.png|thumb]]
 |caption = A map of Dyna Tree Hill.
@@ -25,19 +25,19 @@
 |-
 ! Encounter !! Trainer !! Pokémon Team
 |-
-| {{Pokemon|Magmar}} || rowspan=7 colspan=2|&lt;center&gt;N/A
+| {{Pokemon|Magmar|40}} || rowspan=7 colspan=2|&lt;center&gt;N/A
 |-
-| {{Pokemon|Absol}}
+| {{Pokemon|Absol|40}}
 |-
-| {{Pokemon|Beartic}}
+| {{Pokemon|Beartic|40}}
 |-
-| {{Pokemon|Cryogonal}}
+| {{Pokemon|Cryogonal|40}}
 |-
-| {{Pokemon|Dubwool}}
+| {{Pokemon|Dubwool|40}}
 |-
-| {{Pokemon|Glalie}}
+| {{Pokemon|Glalie|40}}
 |-
-| {{Pokemon|Clefable}}
+| {{Pokemon|Clefable|40}}
 |}
 
 ===Boss Encounters===
@@ -45,7 +45,7 @@
 |-
 ! Wild Pokémon !! Base Health !! Boss Trainer !! Pokémon Team !! Base Health
 |-
-| {{Pokemon|Greedent}} || &lt;center&gt;166,608,415 || colspan=3|&lt;center&gt;N/A
+| {{Pokemon|Greedent|40}} || &lt;center&gt;166,608,415 || colspan=3|&lt;center&gt;N/A
 |}
 
 ==Items==
@@ -85,9 +85,9 @@
       <username>Jk13</username>
       <id>14</id>
     </contributor>
-    <comment>/* Boss Encounters */</comment>
+    <comment></comment>
     <model>wikitext</model>
-    <parentid>34447</parentid>
-    <sha1>fc2038d86c8848159817ed4604dc125dc86b82ec</sha1>
+    <parentid>34448</parentid>
+    <sha1>b038cdc4351839af5f3e1103970f88a24340b575</sha1>
   </revision>
 </page></mediawiki>

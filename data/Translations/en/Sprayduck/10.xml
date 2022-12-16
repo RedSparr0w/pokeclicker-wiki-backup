@@ -1,12 +1,12 @@
 <mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
 <page>
   <title>Translations:Sprayduck/10/en</title>
-  <ns>0</ns>
-  <id>4488</id>
+  <ns>1198</ns>
+  <id>13134</id>
   <revision>
-    <id>15726</id>
-    <timestamp>2022-07-22T16:18:02Z</timestamp>
-    <text space="preserve" bytes="10464">{| class="wikitable sortable"
+    <id>35879</id>
+    <timestamp>2022-12-15T21:48:22Z</timestamp>
+    <text space="preserve" bytes="10620">{| class="wikitable sortable"
 |-
 ! Dex # !! Berry !! XP per Harvest !! XP per Minute
 |-
@@ -81,72 +81,75 @@
 | #34 [[File:Durin.png|25px]] || [[Durin]] ||  style="text-align:right" | 10 || style="text-align:right" | {{ #expr: 60/((6*60^2)/1.25)*10round2 }}
 |-
 | #35 [[File:Belue.png|25px]] || [[Belue]] ||  style="text-align:right" | 10 || style="text-align:right" | {{ #expr: 60/((5*60^2+30*60)/1.25)*10round2 }}
+|-
+| #36 [[File:Pinkan.png|25px]] || [[Pinkan]] ||  style="text-align:right" | 15 || style="text-align:right" | {{ #expr: 60/((4*60^2)/1.25)*15round2 }}
+|-
 &lt;!--FOURTH GENERATION--&gt;
 |-
-| #36 [[File:Occa.png|25px]] || [[Occa]] ||  style="text-align:right" | 15 || style="text-align:right" | {{ #expr: 60/((6*60^2+6*60)/1.25)*15round2 }}
+| #37 [[File:Occa.png|25px]] || [[Occa]] ||  style="text-align:right" | 15 || style="text-align:right" | {{ #expr: 60/((6*60^2+6*60)/1.25)*15round2 }}
 |-
-| #37 [[File:Passho.png|25px]] || [[Passho]] ||  style="text-align:right" | 15 || style="text-align:right" | {{ #expr: 60/((6*60^2)/1.25)*15round2 }}
+| #38 [[File:Passho.png|25px]] || [[Passho]] ||  style="text-align:right" | 15 || style="text-align:right" | {{ #expr: 60/((6*60^2)/1.25)*15round2 }}
 |-
-| #38 [[File:Wacan.png|25px]] || [[Wacan]] ||  style="text-align:right" | 1 || style="text-align:right" | Between {{ #expr: 60/((30*60)/1.25)*1round2 }} and {{ #expr: 60/((30*60)/(1.3^8*1.25))*1round2 }}
+| #39 [[File:Wacan.png|25px]] || [[Wacan]] ||  style="text-align:right" | 1 || style="text-align:right" | Between {{ #expr: 60/((30*60)/1.25)*1round2 }} and {{ #expr: 60/((30*60)/(1.3^8*1.25))*1round2 }}
 |-
-| #39 [[File:Rindo.png|25px]] || [[Rindo]] ||  style="text-align:right" | 15 || style="text-align:right" | {{ #expr: 60/((8*60^2)/1.25)*15round2 }}
+| #40 [[File:Rindo.png|25px]] || [[Rindo]] ||  style="text-align:right" | 15 || style="text-align:right" | {{ #expr: 60/((8*60^2)/1.25)*15round2 }}
 |-
-| #40 [[File:Yache.png|25px]] || [[Yache]] ||  style="text-align:right" | 15 || style="text-align:right" | {{ #expr: 60/((12*60^2)/1.25)*15round2}}
+| #41 [[File:Yache.png|25px]] || [[Yache]] ||  style="text-align:right" | 15 || style="text-align:right" | {{ #expr: 60/((12*60^2)/1.25)*15round2}}
 |-
-| #41 [[File:Chople.png|25px]] || [[Chople]] ||  style="text-align:right" | 15 || style="text-align:right" | {{ #expr: 60/((10*60^2)/1.25)*15round2}}
+| #42 [[File:Chople.png|25px]] || [[Chople]] ||  style="text-align:right" | 15 || style="text-align:right" | {{ #expr: 60/((10*60^2)/1.25)*15round2}}
 |-
-| #42 [[File:Kebia.png|25px]] || [[Kebia]] ||  style="text-align:right" | 1 || style="text-align:right" |  {{ #expr: 60/((10*60)/1.25)*1round2}}
+| #43 [[File:Kebia.png|25px]] || [[Kebia]] ||  style="text-align:right" | 1 || style="text-align:right" |  {{ #expr: 60/((10*60)/1.25)*1round2}}
 |-
-| #43 [[File:Shuca.png|25px]] || [[Shuca]] ||  style="text-align:right" | 15 || style="text-align:right" | {{ #expr: 60/((11*60^2)/1.25)*15round2}}
+| #44 [[File:Shuca.png|25px]] || [[Shuca]] ||  style="text-align:right" | 15 || style="text-align:right" | {{ #expr: 60/((11*60^2)/1.25)*15round2}}
 |-
-| #44 [[File:Coba.png|25px]] || [[Coba]] ||  style="text-align:right" | 15 || style="text-align:right" | {{ #expr: 60/((5*60^2+30*60)/1.25)*15round2}}
+| #45 [[File:Coba.png|25px]] || [[Coba]] ||  style="text-align:right" | 15 || style="text-align:right" | {{ #expr: 60/((5*60^2+30*60)/1.25)*15round2}}
 |-
-| #45 [[File:Payapa.png|25px]] || [[Payapa]] ||  style="text-align:right" | 15 || style="text-align:right" | {{ #expr: 60/((9*60^2+30*60)/1.25)*15round2}}
+| #46 [[File:Payapa.png|25px]] || [[Payapa]] ||  style="text-align:right" | 15 || style="text-align:right" | {{ #expr: 60/((9*60^2+30*60)/1.25)*15round2}}
 |-
-| #46 [[File:Tanga.png|25px]] || [[Tanga]] ||  style="text-align:right" | 15 || style="text-align:right" | {{ #expr: 60/((1*60^2)/1.25)*15round2}}
+| #47 [[File:Tanga.png|25px]] || [[Tanga]] ||  style="text-align:right" | 15 || style="text-align:right" | {{ #expr: 60/((1*60^2)/1.25)*15round2}}
 |-
-| #47 [[File:Charti.png|25px]] || [[Charti]] ||  style="text-align:right" | 15 || style="text-align:right" | {{ #expr: 60/((10*60^2+30*60)/1.25)*15round2}}
+| #48 [[File:Charti.png|25px]] || [[Charti]] ||  style="text-align:right" | 15 || style="text-align:right" | {{ #expr: 60/((10*60^2+30*60)/1.25)*15round2}}
 |-
-| #48 [[File:Kasib.png|25px]] || [[Kasib]] ||  style="text-align:right" | 1 || style="text-align:right" | {{ #expr: 60/((5*60)/1.25)*1round2 }}
+| #49 [[File:Kasib.png|25px]] || [[Kasib]] ||  style="text-align:right" | 1 || style="text-align:right" | {{ #expr: 60/((5*60)/1.25)*1round2 }}
 |-
-| #49 [[File:Haban.png|25px]] || [[Haban]] ||  style="text-align:right" | 15 || style="text-align:right" | {{ #expr: 60/((24*60^2)/1.25)*15round2 }}
+| #50 [[File:Haban.png|25px]] || [[Haban]] ||  style="text-align:right" | 15 || style="text-align:right" | {{ #expr: 60/((24*60^2)/1.25)*15round2 }}
 |-
-| #50 [[File:Colbur.png|25px]] || [[Colbur]] ||  style="text-align:right" | 15 || style="text-align:right" | {{ #expr: 60/((7*60^2+30*60)/1.25)*15round2 }}
+| #51 [[File:Colbur.png|25px]] || [[Colbur]] ||  style="text-align:right" | 15 || style="text-align:right" | {{ #expr: 60/((7*60^2+30*60)/1.25)*15round2 }}
 |-
-| #51 [[File:Babiri.png|25px]] || [[Babiri]] ||  style="text-align:right" | 15 || style="text-align:right" | {{ #expr: 60/((18*60^2)/1.25)*15round2 }}
+| #52 [[File:Babiri.png|25px]] || [[Babiri]] ||  style="text-align:right" | 15 || style="text-align:right" | {{ #expr: 60/((18*60^2)/1.25)*15round2 }}
 |-
-| #52 [[File:Chilan.png|25px]] || [[Chilan]] ||  style="text-align:right" | 15 || style="text-align:right" | {{ #expr: 60/((2*60^2)/1.25)*15round2 }}
+| #53 [[File:Chilan.png|25px]] || [[Chilan]] ||  style="text-align:right" | 15 || style="text-align:right" | {{ #expr: 60/((2*60^2)/1.25)*15round2 }}
 |-
-| #53 [[File:Roseli.png|25px]] || [[Roseli]] ||  style="text-align:right" | 15 || style="text-align:right" | {{ #expr: 60/((7*60^2)/1.25)*15round2 }}
+| #54 [[File:Roseli.png|25px]] || [[Roseli]] ||  style="text-align:right" | 15 || style="text-align:right" | {{ #expr: 60/((7*60^2)/1.25)*15round2 }}
 &lt;!--FIFTH GENERATION--&gt;
 |-
-| #54 [[File:Micle.png|25px]] || [[Micle]] || style="text-align:right" | 20 || style="text-align:right" | {{ #expr: 60/((8*60^2+48*60)/1.25)*20round2 }}
+| #55 [[File:Micle.png|25px]] || [[Micle]] || style="text-align:right" | 20 || style="text-align:right" | {{ #expr: 60/((8*60^2+48*60)/1.25)*20round2 }}
 |-
-| #55 [[File:Custap.png|25px]] || [[Custap]] || style="text-align:right" | 20 || style="text-align:right" | {{ #expr: 60/((7*60^2+36*60)/1.25)*20round2 }}
+| #56 [[File:Custap.png|25px]] || [[Custap]] || style="text-align:right" | 20 || style="text-align:right" | {{ #expr: 60/((7*60^2+36*60)/1.25)*20round2 }}
 |-
-| #56 [[File:Jaboca.png|25px]] || [[Jaboca]] || style="text-align:right" | 20 || style="text-align:right" | {{ #expr: 60/((9*60^2+18*60)/1.25)*20round2 }}
+| #57 [[File:Jaboca.png|25px]] || [[Jaboca]] || style="text-align:right" | 20 || style="text-align:right" | {{ #expr: 60/((9*60^2+18*60)/1.25)*20round2 }}
 |-
-| #57 [[File:Rowap.png|25px]] || [[Rowap]] || style="text-align:right" | 20 || style="text-align:right" | {{ #expr: 60/((5*60^2+44*60)/1.25)*20round2 }}
+| #58 [[File:Rowap.png|25px]] || [[Rowap]] || style="text-align:right" | 20 || style="text-align:right" | {{ #expr: 60/((5*60^2+44*60)/1.25)*20round2 }}
 |-
-| #58 [[File:Kee.png|25px]] || [[Kee]] || style="text-align:right" | 20 || style="text-align:right" | {{ #expr: 60/((10*60^2+6*60)/1.25)*20round2 }}
+| #59 [[File:Kee.png|25px]] || [[Kee]] || style="text-align:right" | 20 || style="text-align:right" | {{ #expr: 60/((10*60^2+6*60)/1.25)*20round2 }}
 |-
-| #59 [[File:Maranga.png|25px]] || [[Maranga]] || style="text-align:right" | 20 || style="text-align:right" | {{ #expr: 60/((11*60^2+12*60)/1.25)*20round2 }}
+| #60 [[File:Maranga.png|25px]] || [[Maranga]] || style="text-align:right" | 20 || style="text-align:right" | {{ #expr: 60/((11*60^2+12*60)/1.25)*20round2 }}
 |-
-| #60 [[File:Liechi.png|25px]] || [[Liechi]] || style="text-align:right" | 20 || style="text-align:right" | {{ #expr: 60/((48*60^2)/1.25)*20round2 }}
+| #61 [[File:Liechi.png|25px]] || [[Liechi]] || style="text-align:right" | 20 || style="text-align:right" | {{ #expr: 60/((48*60^2)/1.25)*20round2 }}
 |-
-| #61 [[File:Ganlon.png|25px]] || [[Ganlon]] || style="text-align:right" | 20 || style="text-align:right" | {{ #expr: 60/((48*60^2)/1.25)*20round2 }}
+| #62 [[File:Ganlon.png|25px]] || [[Ganlon]] || style="text-align:right" | 20 || style="text-align:right" | {{ #expr: 60/((48*60^2)/1.25)*20round2 }}
 |-
-| #62 [[File:Salac.png|25px]] || [[Salac]] || style="text-align:right" | 20 || style="text-align:right" | {{ #expr: 60/((48*60^2)/1.25)*20round2 }}
+| #63 [[File:Salac.png|25px]] || [[Salac]] || style="text-align:right" | 20 || style="text-align:right" | {{ #expr: 60/((48*60^2)/1.25)*20round2 }}
 |-
-| #63 [[File:Petaya.png|25px]] || [[Petaya]] || style="text-align:right" | 20 || style="text-align:right" | {{ #expr: 60/((24*60^2)/1.25)*20round2 }}
+| #64 [[File:Petaya.png|25px]] || [[Petaya]] || style="text-align:right" | 20 || style="text-align:right" | {{ #expr: 60/((24*60^2)/1.25)*20round2 }}
 |-
-| #64 [[File:Apicot.png|25px]] || [[Apicot]] || style="text-align:right" | 20 || style="text-align:right" | {{ #expr: 60/((24*60^2)/1.25)*20round2 }}
+| #65 [[File:Apicot.png|25px]] || [[Apicot]] || style="text-align:right" | 20 || style="text-align:right" | {{ #expr: 60/((24*60^2)/1.25)*20round2 }}
 |-
-| #65 [[File:Lansat.png|25px]] || [[Lansat]] || style="text-align:right" | 20 || style="text-align:right" | {{ #expr: 60/((24*60^2)/1.25)*20round2 }}
+| #66 [[File:Lansat.png|25px]] || [[Lansat]] || style="text-align:right" | 20 || style="text-align:right" | {{ #expr: 60/((24*60^2)/1.25)*20round2 }}
 |-
-| #66 [[File:Starf.png|25px]] || [[Starf]] || style="text-align:right" | 20 || style="text-align:right" | {{ #expr: 60/((24*60^2)/1.25)*20round2 }}
+| #67 [[File:Starf.png|25px]] || [[Starf]] || style="text-align:right" | 20 || style="text-align:right" | {{ #expr: 60/((24*60^2)/1.25)*20round2 }}
 |-
-| #67 [[File:Enigma.png|25px]] || [[Enigma]] || style="text-align:right" | 20 || style="text-align:right" | {{ #expr: 60/((24*60^2)/1.25)*20round2 }}
+| #68 [[File:Enigma.png|25px]] || [[Enigma]] || style="text-align:right" | 20 || style="text-align:right" | {{ #expr: 60/((24*60^2)/1.25)*20round2 }}
 |-
 |}</text>
     <contributor>
@@ -156,6 +159,6 @@
     <comment>Importing a new version from external source</comment>
     <model>wikitext</model>
     <parentid>0</parentid>
-    <sha1>97b4d3696d4dbad2c98f35eeabd14613cb436da3</sha1>
+    <sha1>513c6c3e76690039cdd7a89e0f95068e9920566d</sha1>
   </revision>
 </page></mediawiki>

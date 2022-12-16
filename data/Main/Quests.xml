@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>215</id>
   <revision>
-    <id>34406</id>
-    <timestamp>2022-12-12T22:29:24Z</timestamp>
-    <text space="preserve" bytes="7058">Quests can be completed to earn [[Quest Points]], which can in turn be used to purchase [[Eggs]], [[Evolution Items]], and other collectibles. Their value is also effected by a randomization procedure making them able to be only 90% of their calculated value or up to 110% of the calculated value. Quests can be randomly generated as part of a list as explained in the Normal Quest Types section, or be part of a larger Questline that requires the player to follow certain steps to complete them. For more information about these other kinds of Quests, please check the [[Questlines]] page.
+    <id>35070</id>
+    <timestamp>2022-12-15T20:39:39Z</timestamp>
+    <text space="preserve" bytes="7061">Quests can be completed to earn [[Quest Points]], which can in turn be used to purchase [[Eggs]], [[Evolution Items]], and other collectibles. Their value is also effected by a randomization procedure making them able to be only 90% of their calculated value or up to 110% of the calculated value. Quests can be randomly generated as part of a list as explained in the Normal Quest Types section, or be part of a larger Questline that requires the player to follow certain steps to complete them. For more information about these other kinds of Quests, please check the [[Questlines]] page.
 
 =Slots and Quest XP=
 
@@ -62,8 +62,8 @@ In English, it says:
 and then it is rounded to 2 decimal places
 
 putting it together, we have:
-Pokemon * 1.35 * (Number specific to the individual, based on progress in the game) * 2.8
-So, I'm just going to pretend that that middle part doesn't matter, and so it's just Pokemon * 3.78.  It's close enough to the numbers I'm measuring in game
+Pokémon * 1.35 * (Number specific to the individual, based on progress in the game) * 2.8
+So, I'm just going to pretend that that middle part doesn't matter, and so it's just Pokémon * 3.78.  It's close enough to the numbers I'm measuring in game
 --&gt;
 | Capture Type || Between 50 and 250 Pokémon || Pokémon * 3.78 {{Questpoints}} † || 189 - 945{{Questpoints}}
 |-
@@ -113,14 +113,14 @@ const minAmt = Math.min(10, Math.ceil(maxAmt / 2));
 |}
 &lt;!-- alt 0134
 --&gt;
-† Note: these quests change their reward based on how far the player has progressed.  If for instance, the player receives a quest to capture fairy type pokemon, and very few are available, the reward should be more to reflect the difficulty.  This is similar to how the gem quest reward changes based on difficulty.</text>
+† Note: these quests change their reward based on how far the player has progressed.  If for instance, the player receives a quest to capture fairy type Pokémon, and very few are available, the reward should be more to reflect the difficulty.  This is similar to how the gem quest reward changes based on difficulty.</text>
     <contributor>
       <username>ThePantMan</username>
       <id>8</id>
     </contributor>
-    <comment>/* Pokeball change */</comment>
+    <comment>Text replacement - "(?&lt;!{{)(?&lt;!{{Route)Pokemon" to "Pokémon"</comment>
     <model>wikitext</model>
-    <parentid>34125</parentid>
-    <sha1>44c9af45d81fb9b5a3e2bb02ecd347ab8b90c06c</sha1>
+    <parentid>34987</parentid>
+    <sha1>310925267c4071f2a6a022c507f50730f3b70df9</sha1>
   </revision>
 </page></mediawiki>

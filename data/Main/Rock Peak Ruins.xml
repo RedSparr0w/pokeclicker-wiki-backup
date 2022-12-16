@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>10164</id>
   <revision>
-    <id>34473</id>
-    <timestamp>2022-12-13T18:04:31Z</timestamp>
-    <text space="preserve" bytes="2186">{{Infobox dungeon
+    <id>36093</id>
+    <timestamp>2022-12-15T22:39:53Z</timestamp>
+    <text space="preserve" bytes="2216">{{Infobox dungeon
 |name    = Rock Peak Ruins
 |image   = [[File:Rock Peak Ruins.png|thumb]]
 |caption = A map of Rock Peak Ruins.
@@ -25,21 +25,21 @@
 |-
 ! Encounter !! Trainer !! Pokémon Team
 |-
-| {{Pokemon|Stonjourner}} || rowspan=8 colspan=2|&lt;center&gt;N/A
+| {{Pokemon|Stonjourner|40}} || rowspan=8 colspan=2|&lt;center&gt;N/A
 |-
-| {{Pokemon|Rhyperior}}
+| {{Pokemon|Rhyperior|40}}
 |-
-| {{Pokemon|Aggron}}
+| {{Pokemon|Aggron|40}}
 |-
-| {{Pokemon|Coalossal}}
+| {{Pokemon|Coalossal|40}}
 |-
-| {{Pokemon|Barbaracle}}
+| {{Pokemon|Barbaracle|40}}
 |-
-| {{Pokemon|Gigalith}}
+| {{Pokemon|Gigalith|40}}
 |-
-| {{Pokemon|Crustle}}
+| {{Pokemon|Crustle|40}}
 |-
-| '''{{Pokemon|Aerodactyl}}*'''
+| '''{{Pokemon|Aerodactyl|40}}*'''
 |}
 
 '''*Note:''' Aerodactyl will only appear if the player has captured it previously.
@@ -49,9 +49,9 @@
 |-
 ! Wild Pokémon !! Base Health !! Boss Trainer !! Pokémon Team !! Base Health
 |-
-| {{Pokemon|Relicanth}} || &lt;center&gt;149,662,240 || rowspan=2 colspan=3|&lt;center&gt;N/A
+| {{Pokemon|Relicanth|40}} || &lt;center&gt;149,662,240 || rowspan=2 colspan=3|&lt;center&gt;N/A
 |-
-| '''{{Pokemon|Regirock}}*''' || &lt;center&gt;157,539,200
+| '''{{Pokemon|Regirock|40}}*''' || &lt;center&gt;157,539,200
 |}
 
 '''*Note:''' Must have made progress in [[Questlines#The_Ancient_Golems|The Ancient Golems]] Questline to unlock.
@@ -95,7 +95,7 @@
     </contributor>
     <comment></comment>
     <model>wikitext</model>
-    <parentid>33429</parentid>
-    <sha1>1a9d322760b3387a9704bd1bb6a99a61d0425bed</sha1>
+    <parentid>34473</parentid>
+    <sha1>af2b22b1409cb257800c3a6426e598c56620be18</sha1>
   </revision>
 </page></mediawiki>

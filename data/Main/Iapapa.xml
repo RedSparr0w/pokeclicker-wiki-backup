@@ -4,8 +4,8 @@
   <ns>0</ns>
   <id>554</id>
   <revision>
-    <id>34694</id>
-    <timestamp>2022-12-14T05:06:05Z</timestamp>
+    <id>35416</id>
+    <timestamp>2022-12-15T21:42:50Z</timestamp>
     <text space="preserve" bytes="3861">&lt;languages/&gt;
 &lt;translate&gt;
 &lt;!--T:1--&gt;
@@ -29,7 +29,8 @@
 &lt;!--T:2--&gt;
 '''Iapapa''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by surrounding an empty plot with at least 25, but no more than 80 points of sour and less than 5 points of all other flavours. The [[Aspear]] berry must be unlocked to obtain this berry.
 
-== Growth Tables == &lt;!--T:3--&gt;
+&lt;!--T:3--&gt;
+== Growth Tables ==
 === Growth Stages ===
 {| class="wikitable" | style = "image-rendering: pixelated"
 ! !! Sprout !! Taller !! Bloom !! Berry
@@ -41,7 +42,8 @@
 | &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:IapapaTreeTaller.png|50px]] || &lt;center&gt; [[File:IapapaTreeBloom.png|50px]] || &lt;center&gt; [[File:IapapaTreeBerry.png|50px]]
 |}
 
-=== Ripening Time with Modifiers === &lt;!--T:4--&gt;
+&lt;!--T:4--&gt;
+=== Ripening Time with Modifiers ===
 {| class="wikitable" | style="text-align: center;"
 ! Modifier !! Ripe-Wither Time
 |-
@@ -52,11 +54,13 @@
 | 4 mins 13 secs -&lt;br&gt; 8 mins 27 secs
 |}
 
-== Flow Chart == &lt;!--T:5--&gt;
+&lt;!--T:5--&gt;
+== Flow Chart ==
 [[File:Iapapa_Flow_Chart.png|100px]]
 &lt;br&gt;
 
-== Mutation Strategy == &lt;!--T:6--&gt;
+&lt;!--T:6--&gt;
+== Mutation Strategy ==
 === Possible Planting Formations ===
 
 &lt;!--T:7--&gt;
@@ -86,7 +90,8 @@ You can fill your farm in the following way to obtain Iapapa berries. Purple squ
 | [[File:Aspear.png|30px]]&lt;br&gt;[[Aspear]] || [[File:Aspear.png|30px]]&lt;br&gt;[[Aspear]] || style="background-color:#9C7D98;" | || [[File:Aspear.png|30px]]&lt;br&gt;[[Aspear]] || [[File:Aspear.png|30px]]&lt;br&gt;[[Aspear]] 
 |}
 
-==Uses== &lt;!--T:10--&gt;
+&lt;!--T:10--&gt;
+==Uses==
 ===Mutations===
 
 &lt;!--T:11--&gt;
@@ -101,7 +106,8 @@ Iapapa berries can be used to mutate the following berries.
 |-
 |}
 
-==Acquisition== &lt;!--T:13--&gt;
+&lt;!--T:13--&gt;
+==Acquisition==
 ===Dungeons===
 {{Loot/head‎|Berries}}
 {{LootItem|Berry Forest|Epic}}
@@ -121,12 +127,12 @@ Iapapa berries can be used to mutate the following berries.
 [[Category:Farm]][[Category:Berries]]
 &lt;/translate&gt;</text>
     <contributor>
-      <username>ThePantMan</username>
-      <id>8</id>
+      <username>DraKay</username>
+      <id>18</id>
     </contributor>
-    <comment>/* Dungeon */</comment>
+    <comment>Marked this version for translation</comment>
     <model>wikitext</model>
-    <parentid>6800</parentid>
-    <sha1>1363bd993700a550650a4e02d31a03609aac168a</sha1>
+    <parentid>34694</parentid>
+    <sha1>c1c5ba66ad08f56ff5f7a76c5ccaeb902d93b6cd</sha1>
   </revision>
 </page></mediawiki>

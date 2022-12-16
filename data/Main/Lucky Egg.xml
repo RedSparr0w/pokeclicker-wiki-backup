@@ -4,10 +4,11 @@
   <ns>0</ns>
   <id>110</id>
   <revision>
-    <id>34661</id>
-    <timestamp>2022-12-14T04:21:23Z</timestamp>
-    <text space="preserve" bytes="3822">&lt;languages/&gt;
+    <id>35454</id>
+    <timestamp>2022-12-15T21:43:13Z</timestamp>
+    <text space="preserve" bytes="3910">&lt;languages/&gt;
 &lt;translate&gt;
+&lt;!--T:1--&gt;
 {{Infobox battle item
 |name       = Lucky Egg
 |image      = [[File:Bag_Lucky_Egg_Sprite.png]]
@@ -18,15 +19,18 @@
 *[[Lucky Egg#Dungeons|Dungeons]]
 }}
 
-==Description==
+==Description== &lt;!--T:2--&gt;
 
+&lt;!--T:3--&gt;
 The '''Lucky Egg''' is a type of battle item. It temporarily boosts the player's experience for 30 seconds.
 
+&lt;!--T:4--&gt;
 == Details ==
 The Lucky Egg provides a +50% Bonus to experience gained.
 
-==Acquisition==
+==Acquisition== &lt;!--T:5--&gt;
 
+&lt;!--T:6--&gt;
 ===Shops===
 {{ItemPrice/head‎|Battle items}}
 {{ItemPrice|[[Shops#Kanto: Locations &amp; Items|Pewter City]]|800 {{pdollar}}}}
@@ -58,6 +62,7 @@ The Lucky Egg provides a +50% Bonus to experience gained.
 |}
 |}
 
+&lt;!--T:7--&gt;
 ===Dungeons===
 {{Loot/head‎|Battle items}}
 {{LootItem|Victory Road|Common}}
@@ -96,16 +101,17 @@ The Lucky Egg provides a +50% Bonus to experience gained.
 |}
 
 
+&lt;!--T:8--&gt;
 {{Battle items}}&lt;br&gt;
 [[Category:Items]] [[Category: Battle Items]]
 &lt;/translate&gt;</text>
     <contributor>
-      <username>ThePantMan</username>
-      <id>8</id>
+      <username>DraKay</username>
+      <id>18</id>
     </contributor>
-    <comment>/* Galar */</comment>
+    <comment>Marked this version for translation</comment>
     <model>wikitext</model>
-    <parentid>1037</parentid>
-    <sha1>1ef649118e1b583035226a04886e652626bbe742</sha1>
+    <parentid>34661</parentid>
+    <sha1>35b47298b3a3ac60b8a592cf98e562a16bfe3b10</sha1>
   </revision>
 </page></mediawiki>

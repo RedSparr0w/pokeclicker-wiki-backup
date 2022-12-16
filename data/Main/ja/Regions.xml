@@ -1,11 +1,12 @@
-<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en"><page>
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
   <title>Regions/ja</title>
   <ns>0</ns>
   <id>12355</id>
   <revision>
-    <id>34782</id>
-    <timestamp>2022-12-15T01:59:47Z</timestamp>
-    <text space="preserve" bytes="7854">&lt;languages/&gt;
+    <id>34800</id>
+    <timestamp>2022-12-15T02:21:55Z</timestamp>
+    <text space="preserve" bytes="7959">&lt;languages/&gt;
 '''地方'''とは、ポケモンの世界にある地域のこと。新しい地方には、 [[Route Statistics|ルート]], [[Towns &amp; Cities|町]], [[Gyms|ジム]]、[[Obtainable Pokémon|ポケモン]]が登場します。
 その地方に生息していないポケモンはダメージデバフを受けますが、新しい地方に入るたびにこのデバフは10%ずつ減少します。さらに、地域によっては独自のゲームプレイが可能です。
 
@@ -37,44 +38,30 @@
 &lt;span id="Hoenn"&gt;&lt;/span&gt;
 ===[[Hoenn|ホウエン地方]]===
 
-&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
-Hoenn is the third region and the player can catch another 135 unique Pokèmon here. The player will find the last missing Oak item here and can take the challenge of the [[Battle Frontier|Battle Frontier]]. There is also a Pokémon that evolves based on the current weather here.&lt;br&gt;
-In the Battle Frontier the player can take a challenge and win great prizes, including 4 unique Pokémon. It is not necessary for the progression to Sinnoh to capture these Pokémon from the Battle Frontier. To reach the last prize at stage 386 the player should have a minimum of 1,000,000 attack damage including all [[Gems|gems]] at maximum. Manual clicks are not possible in the Battle Frontier.&lt;br&gt;
-&lt;/div&gt;
+3つ目の地域はホウエンで、ここでは135種類のポケモンを捕まえることができます。プレーヤーは最後のオークアイテムをここで見つけて、[[Battle Frontier|バトルフロンティア]]へ挑戦できます。また、天候によって進化するポケモンもいます。&lt;br&gt;
+バトルフロンティアでは、4匹のユニークなポケモンを含む、豪華な賞品にチャレンジすることができます。シンオウ地方へ進むためにバトルフロンティアのポケモンを捕まえる事は必須ではありません。ステージ386で最後の賞品を手に入れるには、すべての[[Gems|宝石]]を最大にした状態で、攻撃力が100万以上である必要があります。また、手動でのクリックはできません。
 
-&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
-'''Damage debuff of non-native Pokémon: 70%'''&lt;br&gt;
-'''Breeding Queue in the hatchery: 8'''&lt;br&gt;
-'''Maximum Protein per Pokémon: 15'''
-&lt;/div&gt;
+'''他地方ポケモンのダメージデバフ：70%'''&lt;br&gt;
+'''育成キュー：8'''&lt;br&gt;
+'''ポケモン1匹あたりの最大プロテイン：15個'''
 
-&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
-===[[Sinnoh]]===
-&lt;/div&gt;
+&lt;span id="Sinnoh"&gt;&lt;/span&gt;
+===[[Sinnoh|シンオウ地方]]===
 
-&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
-Sinnoh is the fourth region and 107 unique Pokémon are waiting to be caught. The player will encounter some Pokémon that only evolve when they are in a certain area. One should pay attention to the hints from the local people. At this stage it is suggested to give maximum [[Protein|protein]] at least to the Pokémon that are actively being bred. After clearing the [[Distortion World]] for the first time the player will be given [[Pokérus]] to their starter.&lt;br&gt;
-&lt;/div&gt;
+シンオウは4番目の地域で、107匹の個性豊かなポケモンが待ち構えています。プレイヤーは、特定の地域にいるときだけ進化するポケモンと遭遇することになります。現地の人が教えてくれるヒントにも注目しましょう。この段階では、少なくとも積極的に飼育しているポケモンには、最大限の[[Protein|たんぱく質]]を与えることをおすすめします。[[Distortion World|やぶれたせかい]]を初めてクリアーすると、[[Pokérus|ポケルス]]がスターター(最初のポケモン)に与えられます。
 
-&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
-'''Damage debuff of non-native Pokémon: 60%'''&lt;br&gt;
-'''Breeding Queue in the hatchery: 16'''&lt;br&gt;
-'''Maximum Protein per Pokémon: 20'''
-&lt;/div&gt;
+'''他地方ポケモンのダメージデバフ：60%'''&lt;br&gt;
+'''育成キュー：16'''&lt;br&gt;
+'''ポケモン1匹あたりの最大プロテイン：20個'''
 
-&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
-===[[Unova]]===
-&lt;/div&gt;
+&lt;span id="Unova"&gt;&lt;/span&gt;
+===[[Unova|イッシュ地方]]===
 
-&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
-Unova is the fifth region with 156 unique Pokémon to catch. There are lots of dungeons in this region that require a substantial amount of Dungeon Tokens as well as damage. Breeding and hatching Pokémon that are native to this region for several days is quite common at this stage.&lt;br&gt;
-&lt;/div&gt;
+イッシュは5番目の地域で156種類のポケモンを捕まえる事ができます。この地域には、ダメージだけでなく、たくさんのダンジョントークンを必要とするダンジョンがたくさんあります。この地方に生息するポケモンを数日間繁殖・孵化させることは、現段階ではごく普通の事です。
 
-&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
-'''Damage debuff of non-native Pokémon: 50%'''&lt;br&gt;
-'''Breeding Queue in the hatchery: 32'''&lt;br&gt;
-'''Maximum Protein per Pokémon: 25'''
-&lt;/div&gt;
+'''他地方ポケモンのダメージデバフ：50%'''&lt;br&gt;
+'''育成キュー：32'''&lt;br&gt;
+'''ポケモン1匹あたりの最大プロテイン：25個'''
 
 &lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
 ===[[Kalos]]===
@@ -125,9 +112,9 @@ Galar is the eighth region and currently has 108 new Pokémon to catch, breed an
       <username>NobbHero</username>
       <id>196</id>
     </contributor>
-    <comment>Created page with "===[[Hoenn|ホウエン地方]]==="</comment>
+    <comment></comment>
     <model>wikitext</model>
-    <parentid>34595</parentid>
-    <sha1>9206910eccec3c8fe2c7e20a4bcf64eb68b342d1</sha1>
+    <parentid>34798</parentid>
+    <sha1>3be2f43f58f1b608d363c04c570f1aa69bee5d71</sha1>
   </revision>
 </page></mediawiki>

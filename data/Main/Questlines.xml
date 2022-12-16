@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>10103</id>
   <revision>
-    <id>34744</id>
-    <timestamp>2022-12-14T15:11:14Z</timestamp>
-    <text space="preserve" bytes="60122">&lt;languages/&gt;
+    <id>35069</id>
+    <timestamp>2022-12-15T20:39:39Z</timestamp>
+    <text space="preserve" bytes="60126">&lt;languages/&gt;
 &lt;translate&gt;
 &lt;!--T:1--&gt;
 Questlines are special kinds of Quests where the player follows a series of steps to unlock progress in the current [[Region]], unlock certain mechanics or receive different rewards like Items and Pokémon. Some are activated at certain points of the game while others require the player to check a Bulletin Board. For the list of randomly generated Quests, please check the corresponding [[Quests]] page instead.
@@ -676,7 +676,7 @@ Some quests require the player to accept them at the Bulletin Boards. They are l
 |-
 ! Type !! Requirement !! Reward
 |-
-| Prerequisite || Capture [[Wandering Pokemon|Detective Pikachu]] [[File:Detective Pikachu.png|30px]] and defeat [[Gyms#Kalos|Santalune City Gym]] || N/A
+| Prerequisite || Capture [[Wandering Pokémon|Detective Pikachu]] [[File:Detective Pikachu.png|30px]] and defeat [[Gyms#Kalos|Santalune City Gym]] || N/A
 |-
 | Talk to NPC || Search for clues in [[Towns &amp; Cities#Johto|Goldenrod City]] || N/A
 |-
@@ -804,7 +804,7 @@ Some quests require the player to accept them at the Bulletin Boards. They are l
 |-
 ! Type !! Requirement !! Reward
 |- 
-| Prerequisite || Defeat [[Gyms#Pokemon_League_Kalos|Champion Diantha]][[File:Diantha.png|25px]] || N/A
+| Prerequisite || Defeat [[Gyms#Pokémon_League_Kalos|Champion Diantha]][[File:Diantha.png|25px]] || N/A
 |-
 | Defeat [[Temporary Battles|Temporary Battle]] || Defeat [[Temporary Battles#Kalos|Ash Ketchum Kanto]][[File:Ash_Ketchum.png|25px]] || N/A
 |-
@@ -857,7 +857,7 @@ Some quests require the player to accept them at the Bulletin Boards. They are l
 |-
 ! Type !! Requirement !! Reward
 |- 
-| Prerequisite || Defeat the [[Gyms#Pokemon League Alola|Champion Hau]][[File:Hau.png|25px]] || N/A
+| Prerequisite || Defeat the [[Gyms#Pokémon League Alola|Champion Hau]][[File:Hau.png|25px]] || N/A
 |-
 | Talk to NPC || Talk to Looker in [[Towns &amp; Cities#Alola|Roadside Motel]] || N/A
 |-
@@ -905,7 +905,7 @@ Some quests require the player to accept them at the Bulletin Boards. They are l
 |-
 ! Type !! Requirement !! Reward
 |- 
-| Prerequisite || Become [[Gyms#Pokemon League Alola|Alola Champion]] || N/A
+| Prerequisite || Become [[Gyms#Pokémon League Alola|Alola Champion]] || N/A
 |-
 | Multistep || Mine 10 items in the [[Underground]] and capture 50 Pokémon || N/A
 |-
@@ -1205,12 +1205,12 @@ Some quests require the player to accept them at the Bulletin Boards. They are l
 
 &lt;/translate&gt;</text>
     <contributor>
-      <username>SomeonealiveQN</username>
-      <id>5</id>
+      <username>ThePantMan</username>
+      <id>8</id>
     </contributor>
-    <comment></comment>
+    <comment>Text replacement - "(?&lt;!{{)(?&lt;!{{Route)Pokemon" to "Pokémon"</comment>
     <model>wikitext</model>
-    <parentid>34637</parentid>
-    <sha1>75e805ddeef15247dcdba135f6c384a7f413eb4c</sha1>
+    <parentid>34986</parentid>
+    <sha1>1105a7c17c9b64ac63fdbad3ea65c3efa1a0edd3</sha1>
   </revision>
 </page></mediawiki>

@@ -4,10 +4,11 @@
   <ns>0</ns>
   <id>4091</id>
   <revision>
-    <id>34776</id>
-    <timestamp>2022-12-15T01:29:37Z</timestamp>
-    <text space="preserve" bytes="1239">&lt;languages/&gt;
+    <id>36072</id>
+    <timestamp>2022-12-15T21:50:18Z</timestamp>
+    <text space="preserve" bytes="1329">&lt;languages/&gt;
 &lt;translate&gt;
+&lt;!--T:1--&gt;
 {{Infobox battle item
 |name       = Yellow Flute
 |image      = [[File:Yellow Flute.png]]
@@ -17,16 +18,19 @@
 *[[Yellow Flute#Shops|Fallarbor Town Gem Master]]
 }}
 
-== Description ==
+== Description == &lt;!--T:2--&gt;
 
-The '''Yellow Flute''' is a type of [[Flutes|Flute]]. By using Grass, Flying, and Electric Gems the Yellow Flute increases the player's Pokemon Attack.
+&lt;!--T:3--&gt;
+The '''Yellow Flute''' is a type of [[Flutes|Flute]]. By using Grass, Flying, and Electric Gems the Yellow Flute increases the player's Pokémon Attack.
 
-== Details ==
+== Details == &lt;!--T:4--&gt;
 
-Yellow Flute increases the player's Pokemon Attack by a base 2%.  The Base effect is multiplied by the players Achievement Bonus, to a current maximum of 22%, with an achievement bonus of 1000%.  Costs a variable amount of Grass, Flying, and Electric Gems when active, cost based on how many total Flutes are active.
+&lt;!--T:5--&gt;
+Yellow Flute increases the player's Pokémon Attack by a base 2%.  The Base effect is multiplied by the players Achievement Bonus, to a current maximum of 22%, with an achievement bonus of 1000%.  Costs a variable amount of Grass, Flying, and Electric Gems when active, cost based on how many total Flutes are active.
 
-== Acquisition ==
+== Acquisition == &lt;!--T:6--&gt;
 
+&lt;!--T:7--&gt;
 ===Shops===
 {{ItemPrice/head‎|Battle items}}
 {{ItemPrice|[[Shops#Fallarbor_Town_Gem_Master|Fallarbor Town Gem Master]]|
@@ -35,17 +39,18 @@ Yellow Flute increases the player's Pokemon Attack by a base 2%.  The Base effec
 |}
 
 
+&lt;!--T:8--&gt;
 __NOTOC__
 {{Battle items}}&lt;br&gt;
 [[Category:Flutes]] [[Category:Items]]
 &lt;/translate&gt;</text>
     <contributor>
-      <username>ThePantMan</username>
-      <id>8</id>
+      <username>DraKay</username>
+      <id>18</id>
     </contributor>
-    <comment>/* Maximum boost */</comment>
+    <comment>Marked this version for translation</comment>
     <model>wikitext</model>
-    <parentid>14945</parentid>
-    <sha1>b2d4cb5238eb13d553ca9d10e7cd2c28046067a6</sha1>
+    <parentid>35009</parentid>
+    <sha1>b0463c16f721c21b732c9d634b79fbb9e5c19d5d</sha1>
   </revision>
 </page></mediawiki>

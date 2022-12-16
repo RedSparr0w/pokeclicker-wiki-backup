@@ -1,11 +1,11 @@
 <mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
 <page>
   <title>Translations:Farming Setups/3/en</title>
-  <ns>0</ns>
-  <id>4894</id>
+  <ns>1198</ns>
+  <id>12673</id>
   <revision>
-    <id>16854</id>
-    <timestamp>2022-07-25T17:16:18Z</timestamp>
+    <id>35323</id>
+    <timestamp>2022-12-15T21:41:55Z</timestamp>
     <text space="preserve" bytes="360">''Note: Aura Received is multiplicative from all the auras affecting a berry.  If a Berry receives the aura from 4 aura berries each at 1.3x aura output, that Berry receives 1.3^4 = 2.8561, or ~2.86x as an aura multiplier.  If a Berry receives auras from 3 berries, two at 1.3x and one at 1.2x, the berry receives 1.3^2 * 1.2x = 2.028, or ~2.03x aura output.''</text>
     <contributor>
       <username>FuzzyBot</username>

@@ -4,9 +4,9 @@
   <ns>1198</ns>
   <id>12140</id>
   <revision>
-    <id>34385</id>
-    <timestamp>2022-12-12T21:41:21Z</timestamp>
-    <text space="preserve" bytes="1379">{| class="wikitable" style="text-align: center;"
+    <id>34950</id>
+    <timestamp>2022-12-15T20:17:28Z</timestamp>
+    <text space="preserve" bytes="1380">{| class="wikitable" style="text-align: center;"
 |-
 ! Challenge !! Ribbon !! Recommended !! Requirements
 |-
@@ -14,7 +14,7 @@
 |-
 | Require Complete Pokédex || [[File:RequireCompletePokedex.png|30px]]|| Yes || Requires a complete regional pokédex before moving on to the next region. (See each [[Regions]] page for more)
 |-
-| No Click Attack ||[[File:DisableClickAttack.png|30px]]||  No || Prevents clicking on pokemon to deal damage.
+| No Click Attack ||[[File:DisableClickAttack.png|30px]]||  No || Prevents clicking on Pokémon to deal damage.
 |-
 | No Battle Item || [[File:DisableBattleItems.png|30px]]|| No || Prevents the use of the 6 [[Battle Items]] or the 6 [[Flutes]].
 |-
@@ -31,12 +31,12 @@
 | Real Evolutions || [[File:RealEvolutions.png|30px]]|| No || Your Pokémon go away when they evolve. 
 |}</text>
     <contributor>
-      <username>FuzzyBot</username>
-      <id>133</id>
+      <username>ThePantMan</username>
+      <id>8</id>
     </contributor>
-    <comment>Importing a new version from external source</comment>
+    <comment>Text replacement - " pokemon " to " Pokémon "</comment>
     <model>wikitext</model>
-    <parentid>33155</parentid>
-    <sha1>f4f401d73b8f6ee5dd8c1995b01c8ecdf6a1c1d7</sha1>
+    <parentid>34385</parentid>
+    <sha1>e9e93eb7cf91637edec676fb4d6fbe32ee2d37ea</sha1>
   </revision>
 </page></mediawiki>

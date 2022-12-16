@@ -1,42 +1,40 @@
 <mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
 <page>
   <title>Translations:NPCs/6/en</title>
-  <ns>0</ns>
-  <id>6672</id>
+  <ns>1198</ns>
+  <id>12872</id>
   <revision>
-    <id>19489</id>
-    <timestamp>2022-07-29T08:04:10Z</timestamp>
-    <text space="preserve" bytes="1958">{| class="wikitable"
+    <id>35561</id>
+    <timestamp>2022-12-15T21:45:01Z</timestamp>
+    <text space="preserve" bytes="2042">{| class="wikitable"
 |-
 ! NPC Name !! Location !! Function
 |-
-| Professor Elm || [[Towns &amp; Cities#Johto|New Bark Town]] || Tells the player what is needed to progress to the next [[Regions|region]].
+| [[File:Professor Elm.png|30px]]Professor Elm || [[Towns &amp; Cities#Johto|New Bark Town]] || Tells the player what is needed to progress to the next [[Regions|region]].
 |-
-| Technology Enthusiast || [[Towns &amp; Cities#Johto|New Bark Town]] || Tells the player about [[Dungeons|Dungeon]] Chest mechanics
-|-
-| Mr. Pokémon || [[Towns &amp; Cities#Johto|Cherrygrove City]] || Teaches the player about the [[Pokemon Day Care|Hatchery]] Queue feature.
+| [[File:Mr. Pokémon.png|30px]]Mr. Pokémon || [[Towns &amp; Cities#Johto|Cherrygrove City]] || Teaches the player about the [[Pokémon Day Care|Hatchery]] Queue feature.
 |-
 | Earl Dervish || [[Towns &amp; Cities#Johto|Violet City]] || Teaches the player about [[Baby Pokémon]].
 |-
-| Wise Old Man || [[Towns &amp; Cities#Johto|Azalea Town]] || Tells the player about the [[Ilex Forest|location]] and [[Gyms#Johto_Indigo_Plateau|requirement]] needed to unlock Celebi.
+| Primo || [[Towns &amp; Cities#Johto|Violet City]] || Teaches the player how to us [[Held Items]].
 |-
-| Bill || [[Towns &amp; Cities#Johto|Ecruteak City]] || Tells the player the requirements of Espeon and Umbreon.
+| [[File:Elder Li.png|30px]]Elder Li || [[Towns &amp; Cities#Johto|Azalea Town]] || Tells the player about the [[Ilex Forest|location]] and [[Questlines#Unfinished Business|requirement]] needed to unlock {{Pokemon|Celebi}}.
 |-
-| Eusine || [[Towns &amp; Cities#Johto|Ecruteak City]] || Tells the player about the requirement of the  [[Roaming_Pokémon|requirement]] to unlock the Roaming legendary Beasts .
+| [[File:Hiker.png|30px]]Hiker Daniel || [[Towns &amp; Cities#Johto|Azalea Town]] || Tells the player about the [[Union Cave|location]] and requirement needed for {{Pokemon|Lapras}} to appear.
 |-
-| Pokéfan Derek || [[Towns &amp; Cities#Johto|Ecruteak City]] || Tells the player that they now have access to the three legendary Beasts.
+| [[File:Bill.png|30px]]Bill || [[Towns &amp; Cities#Johto|Ecruteak City]] || Tells the player the requirements of {{Pokemon|Espeon}} and {{Pokemon|Umbreon}}.
 |-
-| Kimono Girl || [[Towns &amp; Cities#Johto|Ecruteak City]] || Tells the player about the [[Tin Tower|location]] and [[Roaming_Pokémon|requirement]] needed to unlock Ho-Oh.
+| [[File:Poké Maniac.png|30px]]Pokéfan Derek || [[Towns &amp; Cities#Johto|Ecruteak City]] || Tells the player that they now have access to the three legendary Beasts.
 |-
-| Big Spender || [[Towns &amp; Cities#Johto|Goldenrod City]] || Teaches the player about the Shop amount button.
-|-
-| SS Aqua Captain || [[Towns &amp; Cities#Johto|Olivine City]] || Tells the player about the [[Dock]].
+| [[File:Sailor.png|30px]]SS Aqua Captain || [[Towns &amp; Cities#Johto|Olivine City]] || Tells the player about the [[Dock]].
 |-
 | Photography Aide || [[Towns &amp; Cities#Johto|Cianwood City]] || Tells the player about [[Berries#Wandering_Pokémon|Wandering Pokémon]].
 |-
 | Souvenir Shop Attendant || [[Towns &amp; Cities#Johto|Mahogany Town]] || Tells the player about [[Item Magnet]] effects.
 |-
-| Pokéfan Trevor || [[Towns &amp; Cities#Johto|Blackthorn City]] || Informs the player about increased roamer rates.
+| [[File:Poké Maniac.png|30px]]Pokéfan Trevor || [[Towns &amp; Cities#Johto|Blackthorn City]] || Informs the player about increased roamer rates.
+|-
+| [[File:Hiker.png|30px]]Hiker || [[Towns &amp; Cities#Johto|Indigo Plateau Johto]] || Informs the player that [[Kanto]] is located in the east of [[Johto]].
 |}</text>
     <contributor>
       <username>FuzzyBot</username>
@@ -45,6 +43,6 @@
     <comment>Importing a new version from external source</comment>
     <model>wikitext</model>
     <parentid>0</parentid>
-    <sha1>32aa1d785d44be5037d2514b125ac4761a1811f1</sha1>
+    <sha1>5e0b23b05097cc559e4b1d98d64856006bc1d04e</sha1>
   </revision>
 </page></mediawiki>

@@ -1,19 +1,21 @@
 <mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
 <page>
   <title>Translations:Pinap/14/en</title>
-  <ns>0</ns>
-  <id>5726</id>
+  <ns>1198</ns>
+  <id>12974</id>
   <revision>
-    <id>18543</id>
-    <timestamp>2022-07-29T07:57:21Z</timestamp>
-    <text space="preserve" bytes="164">==Acquisition==
+    <id>35686</id>
+    <timestamp>2022-12-15T21:46:05Z</timestamp>
+    <text space="preserve" bytes="200">==Acquisition==
 ===Dungeons===
 {{Loot/head‎|Berries}}
+{{LootItem|Pattern Bush|Epic}}
 {{LootItem|Radio Tower|Epic}}
 {{LootItem|Magma Hideout|Common}}
 {{LootItem|Dragonspiral Tower|Common}}
 |}
-|}</text>
+|}
+&lt;br&gt;</text>
     <contributor>
       <username>FuzzyBot</username>
       <id>133</id>
@@ -21,6 +23,6 @@
     <comment>Importing a new version from external source</comment>
     <model>wikitext</model>
     <parentid>0</parentid>
-    <sha1>674a2cd05f51f85a2fb703fabbd4d96442bbdbef</sha1>
+    <sha1>53023935e95759caec7f180f2bcd27ff354c0802</sha1>
   </revision>
 </page></mediawiki>

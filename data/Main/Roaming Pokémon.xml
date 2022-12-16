@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>123</id>
   <revision>
-    <id>30431</id>
-    <timestamp>2022-12-05T14:21:10Z</timestamp>
-    <text space="preserve" bytes="5581">&lt;languages/&gt;
+    <id>35079</id>
+    <timestamp>2022-12-15T20:39:41Z</timestamp>
+    <text space="preserve" bytes="5582">&lt;languages/&gt;
 &lt;translate&gt;
 &lt;!--T:1--&gt;
 '''Roaming Pokémon''' are rare Pokémon that can be found randomly while on routes.
@@ -45,7 +45,7 @@ An [[NPCs|NPC]] in each region can inform the player of a specific route in that
 |-
 | No || 1/8192
 |}
-''Note: To see the Jaboca + Lum farm setup, visit [[Farming_Setups#Roaming_Pokemon_Farm_Setup|Farming Setups]]''
+''Note: To see the Jaboca + Lum farm setup, visit [[Farming_Setups#Roaming_Pokémon_Farm_Setup|Farming Setups]]''
 
 &lt;!--T:6--&gt;
 =Regions=
@@ -119,12 +119,12 @@ An [[NPCs|NPC]] in each region can inform the player of a specific route in that
 [[Category:Unique Pokémon]] [[Category:Pokémon]]
 &lt;/translate&gt;</text>
     <contributor>
-      <username>DraKay</username>
-      <id>18</id>
+      <username>ThePantMan</username>
+      <id>8</id>
     </contributor>
-    <comment>Marked this version for translation</comment>
+    <comment>Text replacement - "(?&lt;!{{)(?&lt;!{{Route)Pokemon" to "Pokémon"</comment>
     <model>wikitext</model>
-    <parentid>30180</parentid>
-    <sha1>d0f3261ac1828319c4c5ceaa14e0e5d619e91bab</sha1>
+    <parentid>30431</parentid>
+    <sha1>a43a704e191f4d21dad92ef0265a04499a5c33be</sha1>
   </revision>
 </page></mediawiki>

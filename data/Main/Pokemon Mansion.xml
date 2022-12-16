@@ -2,136 +2,18 @@
 <page>
   <title>Pokemon Mansion</title>
   <ns>0</ns>
-  <id>317</id>
+  <id>12493</id>
   <revision>
-    <id>34086</id>
-    <timestamp>2022-12-12T20:45:28Z</timestamp>
-    <text space="preserve" bytes="3917">{{Infobox dungeon
-|name    = Pokémon Mansion
-|image   = [[File:Pokemon Mansion.png|thumb]]
-|caption = An overhead map of the Pokémon Mansion.
-|tokens  = 1,500
-|location = West of Cinnabar Island.
-}}
-The '''Pokémon Mansion''' is a [[Dungeons|dungeon]] in [[Kanto]]. It has 25 tiles arranged in a 5x5 square, including 5 chest tiles, 13 non-boss encounter tiles, and 1 boss encounter tile. Wild Encounters have 17,760 HP.
-
-== Encounter Tables ==
-
-===Wild Encounters===
-
-{| class="wikitable"
-|-
-! Wild Pokémon !! colspan=2|Trainers
-|-
-! Encounter !! Trainer !! Pokémon Team
-|-
-| [[File:Rattata.png|40px]] Ratatta || [[File:Youngster.png|40px]] Youngster Johnson || [[File:Ekans.png|40px]] Ekans, [[File:Ekans.png|40px]] Ekans, [[File:Raticate.png|40px]] Raticate
-|-
-|[[File:Raticate.png|40px]] Raticate || [[File:Burglar.png|40px]] Burglar Arnie || [[File:Charmander.png|40px]] Charmander, [[File:Charmeleon.png|40px]] Charmeleon
-|-
-| [[File:Vulpix.png|40px]] Vulpix || [[File:Burglar.png|40px]] Burglar Simon || [[File:Ninetales.png|40px]] Ninetales
-|-
-| [[File:Growlithe.png|40px]] Growlithe || [[File:Scientist_(male).png|40px]] Scientist Braydon || [[File:Magnemite.png|40px]] Magnemite, [[File:Magneton.png|40px]] Magneton, [[File:Voltorb.png|40px]] Voltorb
-|-
-| [[File:Grimer.png|40px]] Grimer || [[File:Scientist_(male).png|40px]] Scientist Ted || [[File:Electrode.png|40px]] Electrode, [[File:Weezing.png|40px]] Weezing
-|-
-| [[File:Muk.png|40px]] Muk || rowspan=2|[[File:Burglar.png|40px]] Burglar Lewis || rowspan=2|[[File:Growlithe.png|40px]] Growlithe, [[File:Ponyta.png|40px]] Ponyta
-|-
-| [[File:Koffing.png|40px]] Koffing
-|-
-| [[File:Weezing.png|40px]] Weezing || rowspan=2|[[File:Scientist_(male).png|40px]] Scientist Ivan || rowspan=2| [[File:Magnemite.png|40px]] Magnemite, [[File:Electrode.png|40px]] Electrode
-|-
-| [[File:Ditto.png|40px]] Ditto
-|-
-|}
-
-===Boss Encounters===
-{| class="wikitable"
-|-
-! Wild Pokémon !! Base Health !! Boss Trainer !! Pokémon Team !! Base Health
-|-
-| [[File:Magmar.png|40px]] Magmar || &lt;center&gt;88,800 || colspan=3|&lt;center&gt;N/A
-|-
-|}
-
-==Items==
-
-&lt;tabs&gt;
-&lt;tab name="Base"&gt;
-{| class="wikitable"
-|-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears
-|-
-| align="center" colspan=6| '''Common'''
-|-
-| {{Bag2|xAttack}} || 2 || 49.98% || 48.00% || 45.00% || 40.00%
-|-
-| {{Bag2|Rawst}} || 1 || 24.99% || 24.00% || 22.50% || 20.00%
-|-
-| align="center" colspan=6| '''Rare'''
-|-
-| {{Bag2|Red Shard}} || 1 || 10.00% || 10.50% || 11.24% || 12.47%
-|-
-| {{Bag2|Blue Shard}} || 1 || 10.00% || 10.50% || 11.24% || 12.47%
-|-
-| align="center" colspan=6| '''Epic'''
-|-
-| {{Bag2|Figy}} || 1 || 4.01% || 5.20% || 7.00% || 10.00%
-|-
-| align="center" colspan=6| '''Legendary'''
-|-
-| {{Bag2|Ultra Ball}} || 1 || 1.00% || 1.59% || 2.49% || 3.99%
-|-
-| align="center" colspan=6| '''Mythic'''
-|-
-| {{Bag2|Max Revive}} || 1 || 0.01% || 0.22% || 0.53% || 1.06%
-|}
-&lt;/tab&gt;
-
-&lt;tab name="Debuff"&gt;
-After reaching [[Sinnoh]], the drop chance for items will be [[Dungeons#Dungeon Loot Regional Debuff|debuffed]].
-
-{| class="wikitable"
-|-
-! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 250 Clears !! 500 Clears
-|-
-| align="center" colspan=6| '''Common'''
-|-
-| {{Bag2|xAttack}} || 2 || 50.00% || 50.00% || 50.00% || 50.00%
-|-
-| {{Bag2|Rawst}} || 1 || 25.00% || 25.00% || 25.00% || 25.00%
-|-
-| align="center" colspan=6| '''Rare'''
-|-
-| {{Bag2|Red Shard}} || 1 || 12.00% || 12.00% || 12.00% || 12.00%
-|-
-| {{Bag2|Blue Shard}} || 1 || 12.00% || 12.00% || 12.00% || 12.00%
-|-
-| align="center" colspan=6| '''Epic'''
-|-
-| {{Bag2|Figy}} || 1 || 0.90% || 0.90% || 0.90% || 0.90%
-|-
-| align="center" colspan=6| '''Legendary'''
-|-
-| {{Bag2|Ultra Ball}} || 1 || 0.10% || 0.10% || 0.10% || 0.10%
-|-
-| align="center" colspan=6| '''Mythic'''
-|-
-| {{Bag2|Max Revive}} || 1 || &lt;0.01% || &lt;0.01% || &lt;0.01% || &lt;0.01%
-|}
-&lt;/tab&gt;
-&lt;/tabs&gt;
-
-{{Kanto Dungeons}}
-
-[[Category:Dungeons|^Region #1 - Kanto^j]]</text>
+    <id>35032</id>
+    <timestamp>2022-12-15T20:34:36Z</timestamp>
+    <text space="preserve" bytes="30">#REDIRECT [[Pokémon Mansion]]</text>
     <contributor>
       <username>ThePantMan</username>
       <id>8</id>
     </contributor>
-    <comment>Text replacement - "Ultraball" to "Ultra Ball"</comment>
+    <comment>ThePantMan moved page [[Pokemon Mansion]] to [[Pokémon Mansion]]</comment>
     <model>wikitext</model>
-    <parentid>33481</parentid>
-    <sha1>187c221844d6a9f2e35adcfb0883cacf5cb2073c</sha1>
+    <parentid>0</parentid>
+    <sha1>128d17ee848f27f86df904e502cf8697372d57c1</sha1>
   </revision>
 </page></mediawiki>

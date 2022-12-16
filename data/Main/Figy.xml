@@ -4,10 +4,11 @@
   <ns>0</ns>
   <id>539</id>
   <revision>
-    <id>34690</id>
-    <timestamp>2022-12-14T05:04:07Z</timestamp>
-    <text space="preserve" bytes="4149">&lt;languages/&gt;
+    <id>35377</id>
+    <timestamp>2022-12-15T21:42:16Z</timestamp>
+    <text space="preserve" bytes="4150">&lt;languages/&gt;
 &lt;translate&gt;
+&lt;!--T:1--&gt;
 {{Infobox Berry
 |name    = #15 Figy
 |image   = [[File:Figy.png]]
@@ -24,10 +25,11 @@
 *0 bitter
 *0 sour
 }}
-== Description == &lt;!--T:1--&gt;
+== Description ==
 '''Figy''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by surrounding an empty plot with at least 25, but no more than 80 points of spicy and less than 5 points of all other flavours. [[Cheri]] berries must be unlocked to unlock this berry.
 
-== Growth Tables == &lt;!--T:2--&gt;
+&lt;!--T:2--&gt;
+== Growth Tables ==
 === Growth Stages ===
 {| class="wikitable" | style = "image-rendering: pixelated"
 ! !! Sprout !! Taller !! Bloom !! Berry
@@ -39,7 +41,8 @@
 | &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:FigyTreeTaller.png|50px]] || &lt;center&gt; [[File:FigyTreeBloom.png|50px]] || &lt;center&gt; [[File:FigyTreeBerry.png|50px]]
 |}
 
-=== Ripening Time with Modifiers === &lt;!--T:3--&gt;
+&lt;!--T:3--&gt;
+=== Ripening Time with Modifiers ===
 {| class="wikitable" | style="text-align: center;"
 ! Modifier !! Ripe-Wither Time
 |-
@@ -50,11 +53,13 @@
 | 3 mins 53 secs -&lt;br&gt; 7 mins 47 secs
 |}
 
-== Flow Chart == &lt;!--T:4--&gt;
+&lt;!--T:4--&gt;
+== Flow Chart ==
 [[File:Figy_Flow_Chart.png|100px]]
 &lt;br&gt;
 
-== Mutation Strategy == &lt;!--T:5--&gt;
+&lt;!--T:5--&gt;
+== Mutation Strategy ==
 === Possible Planting Formations ===
 
 &lt;!--T:6--&gt;
@@ -84,7 +89,8 @@ You can fill your farm in the following way to obtain Figy berries. Purple squar
 | [[File:Cheri.png|30px]] [[Cheri]] || [[File:Cheri.png|30px]] [[Cheri]] ||  style="background-color:#9C7D98;" | || [[File:Cheri.png|30px]] [[Cheri]] || [[File:Cheri.png|30px]] [[Cheri]] 
 |}
 
-==Uses== &lt;!--T:9--&gt;
+&lt;!--T:9--&gt;
+==Uses==
 ===Mutations===
 
 &lt;!--T:10--&gt;
@@ -105,10 +111,11 @@ Figy berries can be used to mutate the following berries.
 |-
 |}
 
-==Acquisition== &lt;!--T:12--&gt;
+&lt;!--T:12--&gt;
+==Acquisition==
 ===Dungeons===
 {{Loot/head‎|Berries}}
-{{LootItem|Pokemon Mansion|Epic}}
+{{LootItem|Pokémon Mansion|Epic}}
 {{LootItem|Pattern Bush|Epic}}
 {{LootItem|Radio Tower|Epic}}
 {{LootItem|Magma Hideout|Common}}
@@ -126,12 +133,12 @@ Figy berries can be used to mutate the following berries.
 [[Category:Farm]][[Category:Berries]]
 &lt;/translate&gt;</text>
     <contributor>
-      <username>ThePantMan</username>
-      <id>8</id>
+      <username>DraKay</username>
+      <id>18</id>
     </contributor>
-    <comment>/* Dungeon */</comment>
+    <comment>Marked this version for translation</comment>
     <model>wikitext</model>
-    <parentid>6720</parentid>
-    <sha1>deadbeb9bb2c5fd576e674dbef73ee6afac4af7b</sha1>
+    <parentid>35045</parentid>
+    <sha1>dc99e01d34a296cb6c2c3b82818cdd09224f99a1</sha1>
   </revision>
 </page></mediawiki>

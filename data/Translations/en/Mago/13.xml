@@ -1,14 +1,16 @@
 <mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
 <page>
   <title>Translations:Mago/13/en</title>
-  <ns>0</ns>
-  <id>5776</id>
+  <ns>1198</ns>
+  <id>12835</id>
   <revision>
-    <id>18593</id>
-    <timestamp>2022-07-29T07:57:26Z</timestamp>
-    <text space="preserve" bytes="228">==Acquisition==
+    <id>35515</id>
+    <timestamp>2022-12-15T21:44:34Z</timestamp>
+    <text space="preserve" bytes="295">==Acquisition==
 ===Dungeons===
 {{Loot/head‎|Berries}}
+{{LootItem|Pattern Bush|Epic}}
+{{LootItem|Pinkan Mountain|Common}}
 {{LootItem|Radio Tower|Epic}}
 {{LootItem|Flower Paradise|Common}}
 {{LootItem|Relic Castle|Common}}
@@ -23,6 +25,6 @@
     <comment>Importing a new version from external source</comment>
     <model>wikitext</model>
     <parentid>0</parentid>
-    <sha1>7ab41fd04227e906dabcf33057f5fa9cb5d39228</sha1>
+    <sha1>6c317f945256ecd4633b5e3a3d5b1a2152f39176</sha1>
   </revision>
 </page></mediawiki>

@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>144</id>
   <revision>
-    <id>34354</id>
-    <timestamp>2022-12-12T21:39:45Z</timestamp>
-    <text space="preserve" bytes="8868">&lt;languages/&gt;
+    <id>34963</id>
+    <timestamp>2022-12-15T20:22:58Z</timestamp>
+    <text space="preserve" bytes="8870">&lt;languages/&gt;
 &lt;translate&gt;
 &lt;!--T:1--&gt;
 {{Infobox battle item
@@ -64,7 +64,7 @@ Defeating Pokémon in the Battle Frontier also awards [[Gems]] depending on the 
 &lt;math&gt;\text{Enemy Health} = \text{Floor}[\left ( \frac{100}{12} \times (\text{Battle Frontier Stage} + 10)^{2.2}\right )^{1.15} \times (1 - 0.05)]&lt;/math&gt;
 
 &lt;!--T:13--&gt;
-''Quick tip: You need, on average, Enemy Health divided by 10 Total Pokemon Attack (that is, Pokemon attack with type advantage and gems bonus damage factored in) to defeat a given stage.''
+''Quick tip: You need, on average, Enemy Health divided by 10 Total Pokémon Attack (that is, Pokémon attack with type advantage and gems bonus damage factored in) to defeat a given stage.''
 {| class="wikitable sortable"
 |-
 ! Stage !! Reward Amount !! Reward Type !! Enemy Health
@@ -217,9 +217,9 @@ After clearing floor 2,000 there aren't any further rewards. However, there is a
       <username>ThePantMan</username>
       <id>8</id>
     </contributor>
-    <comment>Text replacement - "Masterball" to "Master Ball"</comment>
+    <comment>Text replacement - " Pokemon" to " Pokémon"</comment>
     <model>wikitext</model>
-    <parentid>34116</parentid>
-    <sha1>50be2d45b772f3428eb4790db4f8cdc54eae5cbb</sha1>
+    <parentid>34354</parentid>
+    <sha1>dcd6c4488a4772369a82ac9d55ba7ce51f02da83</sha1>
   </revision>
 </page></mediawiki>

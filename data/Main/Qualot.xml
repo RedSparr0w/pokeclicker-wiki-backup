@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>681</id>
   <revision>
-    <id>34701</id>
-    <timestamp>2022-12-14T05:17:16Z</timestamp>
-    <text space="preserve" bytes="5840">&lt;languages/&gt;
+    <id>35691</id>
+    <timestamp>2022-12-15T21:46:16Z</timestamp>
+    <text space="preserve" bytes="5852">&lt;languages/&gt;
 &lt;translate&gt;
 &lt;!--T:1--&gt;
 {{Infobox Berry
@@ -29,7 +29,8 @@
 &lt;!--T:2--&gt;
 '''Qualot''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by surrounding an empty plot with at least 10, but no more than 15 points of spicy, sweet and sour and 0 points of all other flavours. The [[Cheri]], [[Pecha]] and [[Aspear]] berries must be unlocked to obtain this berry.
 
-== Growth Tables == &lt;!--T:3--&gt;
+&lt;!--T:3--&gt;
+== Growth Tables ==
 === Growth Stages ===
 {| class="wikitable" | style = "image-rendering: pixelated"
 ! !! Sprout !! Taller !! Bloom !! Berry
@@ -41,7 +42,8 @@
 | &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:QualotTreeTaller.png|50px]] || &lt;center&gt;[[File:QualotTreeBloom.png|50px]] || &lt;center&gt; [[File:QualotTreeBerry.png|50px]]
 |}
 
-=== Ripening Time with Modifiers  === &lt;!--T:4--&gt;
+&lt;!--T:4--&gt;
+=== Ripening Time with Modifiers  ===
 {| class="wikitable" | style="text-align: center;"
 ! Modifier !! Ripe-Wither Time !! Boost Mulch Needed to Ripen
 |-
@@ -55,11 +57,13 @@
 | 35 mins 33 secs -&lt;br&gt; 1 hour 11 mins 6 secs || 8 mulch
 |}
 
-== Flow Chart == &lt;!--T:5--&gt;
+&lt;!--T:5--&gt;
+== Flow Chart ==
 [[File:Qualot_Flow_Chart.png|500px]]
 &lt;br&gt;
 
-== Mutation Strategy == &lt;!--T:6--&gt;
+&lt;!--T:6--&gt;
+== Mutation Strategy ==
 === Possible Planting Formations ===
 
 &lt;!--T:7--&gt;
@@ -113,7 +117,8 @@ You can fill your farm in the following ways to obtain Qualot berries. Purple sq
 | [[File:Pecha.png|30px]] [[Pecha]] || [[File:Aspear.png|30px]] [[Aspear]] || style="background-color:#9C7D98;" | || [[File:Pecha.png|30px]] [[Pecha]] || [[File:Aspear.png|30px]] [[Aspear]] 
 |}
 
-=== Timing Table === &lt;!--T:12--&gt;
+&lt;!--T:12--&gt;
+=== Timing Table ===
 {| class="wikitable"| style="text-align: center;"
 |+ ''All planting times use the time-to-ripe remaining of the first planted berry for subsequent planting times''
 ! Berry !! Planting Time with &lt;br&gt; No Modifier !! Planting Time with &lt;br&gt; Mulch or Sprayduck || Planting Time with &lt;br&gt;  Mulch &amp; Sprayduck
@@ -131,7 +136,8 @@ You can fill your farm in the following ways to obtain Qualot berries. Purple sq
 | [[Pinap]] || 4 mins until ripe || 2 mins 40 secs until ripe || Not Practical
 |}
 
-==Uses== &lt;!--T:13--&gt;
+&lt;!--T:13--&gt;
+==Uses==
 ===Mutations===
 
 &lt;!--T:14--&gt;
@@ -146,6 +152,7 @@ Qualot berries can be used to mutate the following berries.
 |-
 |}
 
+&lt;!--T:19--&gt;
 ==Acquisition==
 ===Dungeons===
 {{Loot/head‎|Berries}}
@@ -163,12 +170,12 @@ Qualot berries can be used to mutate the following berries.
 [[Category:Farm]][[Category:Berries]]
 &lt;/translate&gt;</text>
     <contributor>
-      <username>ThePantMan</username>
-      <id>8</id>
+      <username>DraKay</username>
+      <id>18</id>
     </contributor>
-    <comment>/* loot */</comment>
+    <comment>Marked this version for translation</comment>
     <model>wikitext</model>
-    <parentid>7491</parentid>
-    <sha1>894ceeb41e1159418eacf1346fa0436ffe1b5232</sha1>
+    <parentid>34701</parentid>
+    <sha1>ef2b8ffbe002095badf9a1aa750c93f3bd83a074</sha1>
   </revision>
 </page></mediawiki>

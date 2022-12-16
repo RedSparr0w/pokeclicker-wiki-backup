@@ -4,302 +4,376 @@
   <ns>0</ns>
   <id>5279</id>
   <revision>
-    <id>17863</id>
-    <timestamp>2022-07-26T19:10:33Z</timestamp>
-    <text space="preserve" bytes="29752">&lt;languages/&gt;
-Los Pokémon variocolor se pueden obtener de múltiples maneras, cada una con sus propias probabilidades. Desde la versión 0.9.3, la única manera de incrementar las probabilidades de encontrarse con Pokémon variocolor son equiparse el [[Shiny Charm|Amuleto Iris]], usar la [[Azure Flute|Flauta Azul]] o hacer crecer bayas [[Starf|Arabol (Starf)]] en la [[Farm|Granja]] (Una vez madura, cada baya Arabol (Starf) otorga un aumento de 1,015%).
+    <id>35850</id>
+    <timestamp>2022-12-15T21:48:09Z</timestamp>
+    <text space="preserve" bytes="26852">&lt;languages/&gt;
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Shiny Pokémon can be obtained in a number of different ways, each with their own odds. As of version 0.9.3, the only ways to augment the chances of encountering shinies are to equip the [[Shiny Charm]], using the [[White Flute]], or growing [[Starf]] Berries in the [[Farm]] (at full ripeness, each Starf plant gives a 1.015% boost).
+&lt;/div&gt;
 
-=Posibilidades=
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+=Odds=
+&lt;/div&gt;
 
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
 {| class="wikitable sortable"
 |-
-! Localización/Método !! Probabilidad (Sin Amuleto Iris) !! Probabilidad (Con Amuleto Iris al Nivel 5) !! Probabilidad (Con Amuleto Iris al Nivel 5 y la Granja llena de bayas Arabol (Starf))
+! Location/Method !! Chance (no Shiny Charm) !! Chance (Lv 5 Shiny Charm) !! Chance (Lv 5 Shiny Charm and Full Starf Farm)
 |-
-| [[Regions|Encuentro en Ruta]] || 1 / 8192 || 1 / 4096 || 1 / 2823
+| [[Regions|Route Encounter]] || 1 / 8192 || 1 / 4096 || 1 / 2823
 |-
-| [[Dungeons|Encuentro en Mazmorra]] || 1 / 4096 || 1 / 2048 || 1 / 1412
+| [[Dungeons|Dungeon]] Encounter || 1 / 4096 || 1 / 2048 || 1 / 1412
 |-
-| [[Evolution Items|Objeto de Evolución]] || rowspan = 2 | 1 / 2048 || rowspan = 2 | 1 / 1024 || rowspan = 2 | 1 / 706
+| [[Evolution Items|Evolution Item/Level Up Evolutions]] || rowspan = 2 | 1 / 2048 || rowspan = 2 | 1 / 1024 || rowspan = 2 | 1 / 706
 |-
-| [[Safari Zone|Encuentro en Zona Safari]]
+| [[Safari Zone]] Encounter
 |-
-| [[Pokemon Day Care|Incubando un huevo]] || rowspan = 3 | 1 / 1024 || rowspan = 3 | 1 / 512 || rowspan = 3 | 1 / 353
+| [[Pokémon Day Care|Hatching an Egg]] || rowspan = 3 | 1 / 1024 || rowspan = 3 | 1 / 512 || rowspan = 3 | 1 / 353
 |-
-| [[Berries#Wandering Pokémon|Pokémon Itinerantes]]
+| [[Berries#Wandering Pokémon|Farm Wanderer]]
 |-
-| [[Shops|Pokémon comprado en Tienda]]
+| [[Shops|Purchased Shop Pokémon]]
 |-
 |}
+&lt;/div&gt;
 
-=Estrategias de incubación de Pokémon variocolor usando la granja=
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+=Farm Shiny Breeding Strategy=
+&lt;/div&gt;
 
-La manera más efectiva para obtener [[Pokémon]] variocolor es a través de la [[Pokemon Day Care|Guardería Pokémon]]. La [[Farm|Granja]] puede ser usada tanto para incrementar los pasos por derrotar Pokémon (Provocando mayor velocidad de incubación) así como mejorar la probabilidad de un encuentro con un Pokémon variocolor. A continuación se puede encontrar una tabla con las estrategias más óptimas para capturar Pokémon variocolor empleando formaciones en la granja. Además, se ha creado una [https://docs.google.com/spreadsheets/d/1PqL4TNH61Bo1t0hG5TBbvOMavPU6D3EzbKnUNXxjqUk/edit?usp=sharing Calculadora de incubación variocolor] para calcular de manera más exacta los índices de obtención de un Pokémon Variocolor a través de la incubación.
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Pokémon Day Care|Breeding]] is the most effective way to obtain most Shiny [[Pokémon]]. The [[Farm]] can be used to increase both the Egg Steps gained by defeating a Pokémon (thus hatching eggs faster) and the Shiny Rate in general. Below is a table of optimal Shiny strategies along with planting strategies to achieve these strategies. Furthermore, a [https://docs.google.com/spreadsheets/d/1PqL4TNH61Bo1t0hG5TBbvOMavPU6D3EzbKnUNXxjqUk/edit?usp=sharing Shiny Breeding Rate Calculator] has been created for more specific calculations of Shiny Rates.
+&lt;/div&gt;
 
-===Ranking de Estrategias Óptimas===
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+===Optimal Strategy Rank Table===
+&lt;/div&gt;
 
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
 {| class="wikitable sortable"
-! Formación de Bayas !! Ranking de Eficiencia !! Formación de Bayas !! Ranking de Eficiencia
+! Berry Strategy !! Efficiency Ranking !! Berry Strategy !! Efficiency Ranking
 |-
-| [[Shiny Chance#Starf + Lum + Chople + Petaya Planting Formation|Arabol (Starf) + Ziuela (Lum) + Pomaro (Chople) + Yapati (Petaya)]]&lt;br&gt; ([[File:Starf.png|20px]] + [[File:Lum.png|20px]] + [[File:Chople.png|20px]] + [[File:Petaya.png|20px]]) || 1 || [[Pokemon Day Care#Chople + Petaya|Pomaro (Chople) + Yapati (Petaya)]]&lt;br&gt; ([[File:Chople.png|20px]] + [[File:Petaya.png|20px]]) || 10
+| [[Shiny Chance#Starf + Lum + Chople + Petaya Planting Formation|Starf + Lum + Chople + Petaya]]&lt;br&gt; ([[File:Starf.png|20px]] + [[File:Lum.png|20px]] + [[File:Chople.png|20px]] + [[File:Petaya.png|20px]]) || 1 || [[Pokémon Day Care#Chople + Petaya|Chople + Petaya]]&lt;br&gt; ([[File:Chople.png|20px]] + [[File:Petaya.png|20px]]) || 10
 |-
-| [[Pokemon Day Care#Chople + Babiri + Petaya + Lum|Pomaro (Chople) + Baribá (Babiri) + Yapati (Petaya) + Ziuela (Lum)]]&lt;br&gt; ([[File:Chople.png|20px]] + [[File:Babiri.png|20px]] + [[File:Petaya.png|20px]] + [[File:Lum.png|20px]]) || 2 || [[Pokemon Day Care#Chople + Babiri|Pomaro (Chople) + Baribá (Babiri)]]&lt;br&gt; ([[File:Chople.png|20px]] + [[File:Babiri.png|20px]]) || 11
+| [[Pokémon Day Care#Chople + Babiri + Petaya + Lum|Chople + Babiri + Petaya + Lum]]&lt;br&gt; ([[File:Chople.png|20px]] + [[File:Babiri.png|20px]] + [[File:Petaya.png|20px]] + [[File:Lum.png|20px]]) || 2 || [[Pokémon Day Care#Chople + Babiri|Chople + Babiri]]&lt;br&gt; ([[File:Chople.png|20px]] + [[File:Babiri.png|20px]]) || 11
 |-
-| [[Shiny Chance#Starf + Lum + Petaya Planting Formation|Arabol (Starf) + Ziuela (Lum) + Yapati (Petaya)]]&lt;br&gt; ([[File:Starf.png|20px]] + [[File:Lum.png|20px]] + [[File:Petaya.png|20px]]) || 3 || [[Pokemon Day Care#Chople + Babiri + Petaya|Pomaro (Chople) + Baribá (Babiri) + Yapati (Petaya)]]&lt;br&gt; ([[File:Chople.png|20px]] + [[File:Babiri.png|20px]] + [[File:Petaya.png|20px]]) || 12
+| [[Shiny Chance#Starf + Lum + Petaya Planting Formation|Starf + Lum + Petaya]]&lt;br&gt; ([[File:Starf.png|20px]] + [[File:Lum.png|20px]] + [[File:Petaya.png|20px]]) || 3 || [[Pokémon Day Care#Chople + Babiri + Petaya|Chople + Babiri + Petaya]]&lt;br&gt; ([[File:Chople.png|20px]] + [[File:Babiri.png|20px]] + [[File:Petaya.png|20px]]) || 12
 |-
-| [[Pokemon Day Care#Chople + Lum + Petaya|Pomaro (Chople) + Ziuela (Lum) + Yapati (Petaya)]]&lt;br&gt; ([[File:Chople.png|20px]] + [[File:Lum.png|20px]] + [[File:Petaya.png|20px]]) || 4 || [[Shiny Chance#Starf Planting Formation|Arabol (Starf)]]&lt;br&gt; ([[File:Starf.png|20px]]) || 13
+| [[Pokémon Day Care#Chople + Lum + Petaya|Chople + Lum + Petaya]]&lt;br&gt; ([[File:Chople.png|20px]] + [[File:Lum.png|20px]] + [[File:Petaya.png|20px]]) || 4 || [[Shiny Chance#Starf Planting Formation|Starf]]&lt;br&gt; ([[File:Starf.png|20px]]) || 13
 |-
-| [[Pokemon Day Care#Chople + Babiri + Lum|Pomaro (Chople) + Baribá (Babiri) + Ziuela (Lum)]]&lt;br&gt; ([[File:Chople.png|20px]] + [[File:Babiri.png|20px]] + [[File:Lum.png|20px]]) || 5 || [[Pokemon Day Care#Chople + Empty Rows|Pomaro (Chople)]]&lt;br&gt; ([[File:Chople.png|20px]]) || 14
+| [[Pokémon Day Care#Chople + Babiri + Lum|Chople + Babiri + Lum]]&lt;br&gt; ([[File:Chople.png|20px]] + [[File:Babiri.png|20px]] + [[File:Lum.png|20px]]) || 5 || [[Pokémon Day Care#Chople + Empty Rows|Chople]]&lt;br&gt; ([[File:Chople.png|20px]]) || 14
 |-
-| [[Pokemon Day Care#Chople + Lum|Pomaro (Chople) + Ziuela (Lum)]]&lt;br&gt; ([[File:Chople.png|20px]] + [[File:Lum.png|20px]]) || 6 || [[Pokemon Day Care#Chople + Yache/Haban|Pomaro (Chople) + Rimoya (Rache)]]&lt;br&gt; ([[File:Chople.png|20px]] + [[File:Yache.png|20px]]) || 14
+| [[Pokémon Day Care#Chople + Lum|Chople + Lum]]&lt;br&gt; ([[File:Chople.png|20px]] + [[File:Lum.png|20px]]) || 6 || [[Pokémon Day Care#Chople + Yache/Haban|Chople + Yache]]&lt;br&gt; ([[File:Chople.png|20px]] + [[File:Yache.png|20px]]) || 14
 |-
-| [[Shiny Chance#Starf + Chople + Petaya Planting Formation|Arabol (Starf) + Pomaro (Chople) + Yapati (Petaya)]]&lt;br&gt; ([[File:Starf.png|20px]] + [[File:Chople.png|20px]] + [[File:Petaya.png|20px]]) || 7 || [[Pokemon Day Care#Chople + Yache/Haban|Pomaro (Chople) + Anjiro (Haban)]]&lt;br&gt; ([[File:Chople.png|20px]] + [[File:Haban.png|20px]]) || 14
+| [[Shiny Chance#Starf + Chople + Petaya Planting Formation|Starf + Chople + Petaya]]&lt;br&gt; ([[File:Starf.png|20px]] + [[File:Chople.png|20px]] + [[File:Petaya.png|20px]]) || 7 || [[Pokémon Day Care#Chople + Yache/Haban|Chople + Haban]]&lt;br&gt; ([[File:Chople.png|20px]] + [[File:Haban.png|20px]]) || 14
 |-
-| [[Shiny Chance#Starf + Lum + Chople Planting Formation|Arabol (Starf) + Ziuela (Lum) + Pomaro (Chople)]]&lt;br&gt; ([[File:Starf.png|20px]] + [[File:Lum.png|20px]] + [[File:Chople.png|20px]]) || 8 || [[Shiny Chance#Starf + Chople Planting Formation|Arabol (Starf) + Pomaro (Chople)]]&lt;br&gt; ([[File:Starf.png|20px]] + [[File:Chople.png|20px]]) || 15
+| [[Shiny Chance#Starf + Lum + Chople Planting Formation|Starf + Lum + Chople]]&lt;br&gt; ([[File:Starf.png|20px]] + [[File:Lum.png|20px]] + [[File:Chople.png|20px]]) || 8 || [[Shiny Chance#Starf + Chople Planting Formation|Starf + Chople]]&lt;br&gt; ([[File:Starf.png|20px]] + [[File:Chople.png|20px]]) || 15
 |-
-| [[Shiny Chance#Starf + Lum Planting Formation|Arabol (Starf) + Ziuela (Lum)]]&lt;br&gt; ([[File:Starf.png|20px]] + [[File:Lum.png|20px]]) || 9 || colspan=2|---
+| [[Shiny Chance#Starf + Lum Planting Formation|Starf + Lum]]&lt;br&gt; ([[File:Starf.png|20px]] + [[File:Lum.png|20px]]) || 9 || colspan=2|---
 |-
 |}
+&lt;/div&gt;
 
-&lt;big&gt;&lt;b&gt;Cálculos avanzados de las tablas&lt;/b&gt;&lt;/big&gt;
-''Todos los cálculos para el Ranking en la tabla  [https://docs.google.com/spreadsheets/d/1kyQIpahGezv8tYYeQDoZMHjw6cVyGr7FD4MlXgbPr68/edit?usp=sharing pueden encontrarse aquí]''
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;big&gt;&lt;b&gt;Expanded Rate Table Calculations&lt;/b&gt;&lt;/big&gt;
+''All calculations for Rank Table done  [https://docs.google.com/spreadsheets/d/1kyQIpahGezv8tYYeQDoZMHjw6cVyGr7FD4MlXgbPr68/edit?usp=sharing here]''
+&lt;/div&gt;
 
-Leyenda:
-*MAP - Máximo Aumento de Pasos
-*MAV - Máximo Aumento de Variocolor
-*DA - Duración del Aumento (horas)
-*MTR - Máximo tiempo para replantar (horas)
-*TA% - % de Tiempo de Actividad
-*MAP c/ TA% - Máximo aumento de Pasos factorizado con el tiempo de actividad
-*MAV c/ TA% - Máximo aumento de variocolor factorizado con el tiempo de actividad
-*RE - Ranking de Efectividad, donde el 1 es lo mejor
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Legend:
+*MESBM - Max Egg Steps Boost Multiplier
+*MSBM - Max Shiny Boost Multiplier
+*BD - Buff Duration (hours)
+*MRT - Max Replant Time (hours)
+*U% - Uptime%
+*MESBM w/ U% - Max Egg Steps Boost Multiplier w/ Uptime% factored in
+*MSBM w/ U% - Max Shiny Boost Multiplier w/ Uptime% factored in
+*ER - Efficiency Rank where 1 = Best
+&lt;/div&gt;
 
-NOTA: Esta tabla asume un perfecto plantado, de forma que todas las bayas no se plantan al mismo tiempo pero llegan al estado de madurez al mismo tiempo.  
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Note: The table assumes perfect planting, where berries are planted not at the same time, but are planted so all plants are in the berry stage at the same time.
+&lt;/div&gt;  
 
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
 {| class="wikitable sortable collapsible collapsed"
-! Tipos de Bayas !! Full Strategy !! MAP !! MAV !! DA (horas) !! MTR (horas) !! TA% !! MAP c/ TA% !! MAV c/ TA% !! RE
+! Berry Types !! Full Strategy !! MESBM !! MSBM !! BD (hours) !! MRT (hours) !! U% !! MESBM w/ U% !! MSBM w/ U% !! ER
 |+Expanded Rate Table
-| rowspan=10|Pomaro (Chople) ([[File:Chople.png|20px]]) || [[Pokemon Day Care#Chople + Empty Rows| Pomaro (Chople)]]&lt;br&gt; ([[File:Chople.png|20px]]) || x1.56 || x1.00 || 10 horas || 10 horas || {{ #expr: 10/(10+10) * 100}} % || {{ #expr: (10/(10+10)) * (1.56-1) +1}}x || {{ #expr: (10/(10+10)) * (1.00 - 1) + 1}}.00x || 14
+| rowspan=10|Chople ([[File:Chople.png|20px]]) || [[Pokémon Day Care#Chople + Empty Rows|Chople]]&lt;br&gt; ([[File:Chople.png|20px]]) || 1.56x || 1.00x || 10 hours || 10 hours || {{ #expr: 10/(10+10) * 100}} % || {{ #expr: (10/(10+10)) * (1.56-1) +1}}x || {{ #expr: (10/(10+10)) * (1.00 - 1) + 1}}.00x || 14
 |-
-| [[Pokemon Day Care#Chople + Yache/Haban|Pomaro (Chople)  + Rimoya (Yache)]]&lt;br&gt; ([[File:Chople.png|20px]] + [[File:Yache.png|20px]])|| x1.56 || x1.00 || {{ #expr: 10/0.7round2 }} horas || {{ #expr: 10/0.7round2 }} horas || {{ #expr: (10/0.7)/((10/0.7) + (10/0.7)) * 100}} % || {{ #expr: ((10/0.7)/((10/0.7) + (10/0.7))) * (1.56-1) + 1}}x || {{ #expr: ((10/0.7)/((10/0.7) + (10/0.7))) * (1.00-1) + 1}}.00x || 14
+| [[Pokémon Day Care#Chople + Yache/Haban|Chople + Yache]]&lt;br&gt; ([[File:Chople.png|20px]] + [[File:Yache.png|20px]])|| 1.56x || 1.00x || {{ #expr: 10/0.7round2 }} hours || {{ #expr: 10/0.7round2 }} hours || {{ #expr: (10/0.7)/((10/0.7) + (10/0.7)) * 100}} % || {{ #expr: ((10/0.7)/((10/0.7) + (10/0.7))) * (1.56-1) + 1}}x || {{ #expr: ((10/0.7)/((10/0.7) + (10/0.7))) * (1.00-1) + 1}}.00x || 14
 |-
-| [[Pokemon Day Care#Chople + Yache/Haban|Pomaro (Chople) + Anjiro (Haban)]]&lt;br&gt; ([[File:Chople.png|20px]] + [[File:Haban.png|20px]])|| x1.56 || x1.00 || {{ #expr: 10/0.5round2 }} horas || {{ #expr: 10/0.5round2 }} horas || {{ #expr: (10/0.5)/((10/0.5) + (10/0.5)) *100}} % || {{ #expr: ((10/0.5)/((10/0.5) + (10/0.5))) * (1.56-1) + 1}}x || {{ #expr: ((10/0.5)/((10/0.5) + (10/0.5))) * (1.00-1) + 1}}.00x || 14
+| [[Pokémon Day Care#Chople + Yache/Haban|Chople + Haban]]&lt;br&gt; ([[File:Chople.png|20px]] + [[File:Haban.png|20px]])|| 1.56x || 1.00x || {{ #expr: 10/0.5round2 }} hours || {{ #expr: 10/0.5round2 }} hours || {{ #expr: (10/0.5)/((10/0.5) + (10/0.5)) *100}} % || {{ #expr: ((10/0.5)/((10/0.5) + (10/0.5))) * (1.56-1) + 1}}x || {{ #expr: ((10/0.5)/((10/0.5) + (10/0.5))) * (1.00-1) + 1}}.00x || 14
 |-
-| [[Pokemon Day Care#Chople + Petaya|Pomaro (Chople)  + Yapati (Petaya)]]&lt;br&gt; ([[File:Chople.png|20px]] + [[File:Petaya.png|20px]]) || x1.56 || x1.00 || 4 días 10 horas || 24 horas || {{ #expr: (4*24 + 10)/((4*24 + 10) + 24) *100 round2}} % || {{ #expr: ((4*24 + 10)/((4*24 + 10) + 24)) * (1.56-1) + 1round2}} || {{ #expr: ((4*24 + 10)/((4*24 + 10) + 24)) * (1.00-1) + 1round2}}.00x || 10
+| [[Pokémon Day Care#Chople + Petaya|Chople + Petaya]]&lt;br&gt; ([[File:Chople.png|20px]] + [[File:Petaya.png|20px]]) || 1.56x || 1.00x || 4 days 10 hours || 24 hours || {{ #expr: (4*24 + 10)/((4*24 + 10) + 24) *100 round2}} % || {{ #expr: ((4*24 + 10)/((4*24 + 10) + 24)) * (1.56-1) + 1round2}} || {{ #expr: ((4*24 + 10)/((4*24 + 10) + 24)) * (1.00-1) + 1round2}}.00x || 10
 |-
-| [[Pokemon Day Care#Chople + Lum|Pomaro (Chople)  + Ziuela (Lum)]]&lt;br&gt; ([[File:Chople.png|20px]] + [[File:Lum.png|20px]]) || x2.43 || x1.00 || 10 horas || 10 horas || {{ #expr: 10/(10+10) * 100}} % || {{ #expr: (10/(10+10)) * (2.43-1) + 1round2}} || {{ #expr: (10/(10+10)) * (1.00-1) + 1round2}}.00x || 6
+| [[Pokémon Day Care#Chople + Lum|Chople + Lum]]&lt;br&gt; ([[File:Chople.png|20px]] + [[File:Lum.png|20px]]) || 2.43x || 1.00x || 10 hours || 10 hours || {{ #expr: 10/(10+10) * 100}} % || {{ #expr: (10/(10+10)) * (2.43-1) + 1round2}} || {{ #expr: (10/(10+10)) * (1.00-1) + 1round2}}.00x || 6
 |-
-| [[Pokemon Day Care#Chople + Lum + Petaya|Pomaro (Chople)  + Ziuela (Lum) + Yapati (Petaya)]]&lt;br&gt; ([[File:Chople.png|20px]] + [[File:Lum.png|20px]] + [[File:Petaya.png|20px]]) || x2.43 || x1.00 || 4 días 10 horas || 24 horas || {{ #expr: (4*24 + 10)/((4*24 + 10) + 24) *100 round2}} % || {{ #expr: ((4*24 + 10)/((4*24 + 10) + 24)) * (2.43-1) + 1round2}} || {{ #expr: ((4*24 + 10)/((4*24 + 10) + 24)) * (1.00-1) + 1round2}}.00x || 4
+| [[Pokémon Day Care#Chople + Lum + Petaya|Chople + Lum + Petaya]]&lt;br&gt; ([[File:Chople.png|20px]] + [[File:Lum.png|20px]] + [[File:Petaya.png|20px]]) || 2.43x || 1.00x || 4 days 10 hours || 24 hours || {{ #expr: (4*24 + 10)/((4*24 + 10) + 24) *100 round2}} % || {{ #expr: ((4*24 + 10)/((4*24 + 10) + 24)) * (2.43-1) + 1round2}} || {{ #expr: ((4*24 + 10)/((4*24 + 10) + 24)) * (1.00-1) + 1round2}}.00x || 4
 |-
-| [[Pokemon Day Care#Chople + Babiri + Petaya|Pomaro (Chople) + Baribá (Babiri) + Yapati (Petaya)]]&lt;br&gt; ([[File:Chople.png|20px]] + [[File:Babiri.png|20px]] + [[File:Petaya.png|20px]]) || x1.81 || x1.00 || 4 días 10 horas || 24 horas || {{ #expr: (4*24 + 10)/((4*24 + 10) + 24) *100 round2}} % || {{ #expr: ((4*24 + 10)/((4*24 + 10) + 24)) * (1.81-1) + 1round2}} || {{ #expr: ((4*24 + 10)/((4*24 + 10) + 24)) * (1.00-1) + 1round2}}.00x || 12
+| [[Pokémon Day Care#Chople + Babiri + Petaya|Chople + Babiri + Petaya]]&lt;br&gt; ([[File:Chople.png|20px]] + [[File:Babiri.png|20px]] + [[File:Petaya.png|20px]]) || 1.81x || 1.00x || 4 days 10 hours || 24 hours || {{ #expr: (4*24 + 10)/((4*24 + 10) + 24) *100 round2}} % || {{ #expr: ((4*24 + 10)/((4*24 + 10) + 24)) * (1.81-1) + 1round2}} || {{ #expr: ((4*24 + 10)/((4*24 + 10) + 24)) * (1.00-1) + 1round2}}.00x || 12
 |-
-| [[Pokemon Day Care#Chople + Babiri|Pomaro (Chople)  + Baribá (Babiri)]]&lt;br&gt; ([[File:Chople.png|20px]] + [[File:Babiri.png|20px]]) || x1.86 || x1.00 || 10 horas || 18 horas || {{ #expr: 10/(10 + 18) *100 round2}} % || {{ #expr: (10/(10 + 18)) * (1.86-1) + 1round2}} || {{ #expr: (10/(10 + 18)) * (1.00-1) + 1round2}}.00x || 11
+| [[Pokémon Day Care#Chople + Babiri|Chople + Babiri]]&lt;br&gt; ([[File:Chople.png|20px]] + [[File:Babiri.png|20px]]) || 1.86x || 1.00x || 10 hours || 18 hours || {{ #expr: 10/(10 + 18) *100 round2}} % || {{ #expr: (10/(10 + 18)) * (1.86-1) + 1round2}} || {{ #expr: (10/(10 + 18)) * (1.00-1) + 1round2}}.00x || 11
 |-
-| [[Pokemon Day Care#Chople + Babiri + Lum|Pomaro (Chople)  + Baribá (Babiri) + Ziuela (Lum)]]&lt;br&gt; ([[File:Chople.png|20px]] + [[File:Babiri.png|20px]] + [[File:Lum.png|20px]]) || x2.90 || x1.00 || 10 horas || 18 horas || {{ #expr: 10/(10 + 18) *100 round2}} % || {{ #expr: (10/(10 + 18)) * (2.90-1) + 1round2}} || {{ #expr: (10/(10 + 18)) * (1.00-1) + 1round2}}.00x || 5
+| [[Pokémon Day Care#Chople + Babiri + Lum|Chople + Babiri + Lum]]&lt;br&gt; ([[File:Chople.png|20px]] + [[File:Babiri.png|20px]] + [[File:Lum.png|20px]]) || 2.90x || 1.00x || 10 hours || 18 hours || {{ #expr: 10/(10 + 18) *100 round2}} % || {{ #expr: (10/(10 + 18)) * (2.90-1) + 1round2}} || {{ #expr: (10/(10 + 18)) * (1.00-1) + 1round2}}.00x || 5
 |-
-| [[Pokemon Day Care#Chople + Babiri + Petaya + Lum|Pomaro (Chople) + Baribá (Babiri) + Yapati (Petaya) + Ziuela (Lum)]]&lt;br&gt; ([[File:Chople.png|20px]] + [[File:Babiri.png|20px]] + [[File:Petaya.png|20px]] + [[File:Lum.png|20px]]) || x2.73 || x1.00 || 4 días 10 horas || 24 horas || {{ #expr: (4*24 + 10)/((4*24 + 10) + 24) *100 round2}} % || {{ #expr: ((4*24 + 10)/((4*24 + 10) + 24)) * (2.73-1) + 1round2}} || {{ #expr: ((4*24 + 10)/((4*24 + 10) + 24)) * (1.00-1) + 1round2}}.00x || 2
+| [[Pokémon Day Care#Chople + Babiri + Petaya + Lum|Chople + Babiri + Petaya + Lum]]&lt;br&gt; ([[File:Chople.png|20px]] + [[File:Babiri.png|20px]] + [[File:Petaya.png|20px]] + [[File:Lum.png|20px]]) || 2.73x || 1.00x || 4 days 10 hours || 24 hours || {{ #expr: (4*24 + 10)/((4*24 + 10) + 24) *100 round2}} % || {{ #expr: ((4*24 + 10)/((4*24 + 10) + 24)) * (2.73-1) + 1round2}} || {{ #expr: ((4*24 + 10)/((4*24 + 10) + 24)) * (1.00-1) + 1round2}}.00x || 2
 |-
-| rowspan=3|Arabol (Starf) ([[File:Starf.png|20px]]) || [[Shiny Chance#Starf Planting Formation|Arabol (Starf)]]&lt;br&gt; ([[File:Starf.png|20px]]) || x1.00 || x1.45 || 96 horas || 24 horas || {{ #expr: (4)/(4 + 1) *100 round2}} % || {{ #expr: ((4)/(4 + 1)) * (1.00-1) + 1round2}}.00x || {{ #expr: ((4)/(4 + 1)) * (1.45-1) + 1round2}} || 13
+| rowspan=3|Starf ([[File:Starf.png|20px]]) || [[Shiny Chance#Starf Planting Formation|Starf]]&lt;br&gt; ([[File:Starf.png|20px]]) || 1.00x || 1.45x || 96 hours || 24 hours || {{ #expr: (4)/(4 + 1) *100 round2}} % || {{ #expr: ((4)/(4 + 1)) * (1.00-1) + 1round2}}.00x || {{ #expr: ((4)/(4 + 1)) * (1.45-1) + 1round2}} || 13
 |-
-| [[Shiny Chance#Starf + Lum Planting Formation|Arabol (Starf) + Ziuela (Lum)]]&lt;br&gt; ([[File:Starf.png|20px]] + [[File:Lum.png|20px]]) || x1.00 || x2.54 || 12 horas || 24 horas || {{ #expr: (12)/(12 + 24) *100 round2}} % || {{ #expr: ((12)/(12 + 24)) * (1.00-1) + 1round2}}.00x || {{ #expr: ((12)/(12 + 24)) * (2.54-1) + 1round2}} || 9
+| [[Shiny Chance#Starf + Lum Planting Formation|Starf + Lum]]&lt;br&gt; ([[File:Starf.png|20px]] + [[File:Lum.png|20px]]) || 1.00x || 2.54x || 12 hours || 24 hours || {{ #expr: (12)/(12 + 24) *100 round2}} % || {{ #expr: ((12)/(12 + 24)) * (1.00-1) + 1round2}}.00x || {{ #expr: ((12)/(12 + 24)) * (2.54-1) + 1round2}} || 9
 |-
-| [[Shiny Chance#Starf + Lum + Petaya Planting Formation|Arabol (Starf) + Ziuela (Lum) + Yapati (Petaya)]]&lt;br&gt; ([[File:Starf.png|20px]] + [[File:Lum.png|20px]] + [[File:Petaya.png|20px]]) || x1.00 || x2.43 || 4 días 12 horas || 24 horas || {{ #expr: (4*24 + 12)/((4*24 + 12) + 24) *100 round2}} % || {{ #expr: ((4*24 + 12)/((4*24 + 12) + 24)) * (1.00-1) + 1round2}}.00x || {{ #expr: ((4*24 + 12)/((4*24 + 12) + 24)) * (2.43-1) + 1round2}} || 3
+| [[Shiny Chance#Starf + Lum + Petaya Planting Formation|Starf + Lum + Petaya]]&lt;br&gt; ([[File:Starf.png|20px]] + [[File:Lum.png|20px]] + [[File:Petaya.png|20px]]) || 1.00x || 2.43x || 4 days 12 hours || 24 hours || {{ #expr: (4*24 + 12)/((4*24 + 12) + 24) *100 round2}} % || {{ #expr: ((4*24 + 12)/((4*24 + 12) + 24)) * (1.00-1) + 1round2}}.00x || {{ #expr: ((4*24 + 12)/((4*24 + 12) + 24)) * (2.43-1) + 1round2}} || 3
 |-
-|rowspan=4|Arabol (Starf) y Pomaro (Chople) ([[File:Starf.png|20px]] &amp; [[File:Chople.png|20px]]) || [[Shiny Chance#Starf + Chople Planting Formation|Arabol (Starf) + Pomaro (Chople)]]&lt;br&gt; ([[File:Starf.png|20px]] + [[File:Chople.png|20px]]) || x1.56 || x1.16 || 10 horas || 24 horas || {{ #expr: 10/(10 + 24) *100 round2}} % || {{ #expr: (10/(10 + 24)) * (1.56-1) + 1round2}} || {{ #expr: (10/(10 + 24)) * (1.16-1) + 1round2}} || 15
+|rowspan=4|Starf &amp; Chople ([[File:Starf.png|20px]] &amp; [[File:Chople.png|20px]]) || [[Shiny Chance#Starf + Chople Planting Formation|Starf + Chople]]&lt;br&gt; ([[File:Starf.png|20px]] + [[File:Chople.png|20px]]) || 1.56x || 1.16x || 10 hours || 24 hours || {{ #expr: 10/(10 + 24) *100 round2}} % || {{ #expr: (10/(10 + 24)) * (1.56-1) + 1round2}} || {{ #expr: (10/(10 + 24)) * (1.16-1) + 1round2}} || 15
 |-
-| [[Shiny Chance#Starf + Chople + Petaya Planting Formation|Arabol (Starf) + Pomaro (Chople) + Yapati (Petaya)]]&lt;br&gt; ([[File:Starf.png|20px]] + [[File:Chople.png|20px]] + [[File:Petaya.png|20px]]) || x1.56 || x1.14 || 4 días 10 horas || 24 horas || {{ #expr: (4*24 + 12)/((4*24 + 12) + 24) *100 round2}} % || {{ #expr: ((4*24 + 12)/((4*24 + 12) + 24)) * (1.56-1) + 1round2}} || {{ #expr: ((4*24 + 12)/((4*24 + 12) + 24)) * (1.14-1) + 1round2}} || 7
+| [[Shiny Chance#Starf + Chople + Petaya Planting Formation|Starf + Chople + Petaya]]&lt;br&gt; ([[File:Starf.png|20px]] + [[File:Chople.png|20px]] + [[File:Petaya.png|20px]]) || 1.56x || 1.14x || 4 days 10 hours || 24 hours || {{ #expr: (4*24 + 12)/((4*24 + 12) + 24) *100 round2}} % || {{ #expr: ((4*24 + 12)/((4*24 + 12) + 24)) * (1.56-1) + 1round2}} || {{ #expr: ((4*24 + 12)/((4*24 + 12) + 24)) * (1.14-1) + 1round2}} || 7
 |-
-| [[Shiny Chance#Starf + Lum + Chople Planting Formation|Arabol (Starf) + Ziuela (Lum) + Pomaro (Chople)]]&lt;br&gt; ([[File:Starf.png|20px]] + [[File:Lum.png|20px]] + [[File:Chople.png|20px]]) || x2.43 || x1.31 || 10 horas || 24 horas || {{ #expr: (10)/(10 + 24) *100 round2}} % || {{ #expr: ((10)/(10 + 24)) * (2.43-1) + 1round2}} || {{ #expr: ((10)/(10 + 24)) * (1.31-1) + 1round2}} || 8
+| [[Shiny Chance#Starf + Lum + Chople Planting Formation|Starf + Lum + Chople]]&lt;br&gt; ([[File:Starf.png|20px]] + [[File:Lum.png|20px]] + [[File:Chople.png|20px]]) || 2.43x || 1.31x || 10 hours || 24 hours || {{ #expr: (10)/(10 + 24) *100 round2}} % || {{ #expr: ((10)/(10 + 24)) * (2.43-1) + 1round2}} || {{ #expr: ((10)/(10 + 24)) * (1.31-1) + 1round2}} || 8
 |-
-| [[Shiny Chance#Starf + Lum + Chople + Petaya Planting Formation|Arabol (Starf) + Ziuela (Lum) + Pomaro (Chople) + Yapati (Petaya)]]&lt;br&gt; ([[File:Starf.png|20px]] + [[File:Lum.png|20px]] + [[File:Chople.png|20px]] + [[File:Petaya.png|20px]]) || x2.43 || x1.25 || 4 días 10 horas || 24 horas || {{ #expr: (4*24 + 12)/((4*24 + 12) + 24) *100 round2}} % || {{ #expr: ((4*24 + 12)/((4*24 + 12) + 24)) * (2.43-1) + 1round2}} || {{ #expr: ((4*24 + 12)/((4*24 + 12) + 24)) * (1.25-1) + 1round2}} || 1
+| [[Shiny Chance#Starf + Lum + Chople + Petaya Planting Formation|Starf + Lum + Chople + Petaya]]&lt;br&gt; ([[File:Starf.png|20px]] + [[File:Lum.png|20px]] + [[File:Chople.png|20px]] + [[File:Petaya.png|20px]]) || 2.43x || 1.25x || 4 days 10 hours || 24 hours || {{ #expr: (4*24 + 12)/((4*24 + 12) + 24) *100 round2}} % || {{ #expr: ((4*24 + 12)/((4*24 + 12) + 24)) * (2.43-1) + 1round2}} || {{ #expr: ((4*24 + 12)/((4*24 + 12) + 24)) * (1.25-1) + 1round2}} || 1
 |-
 |}
+&lt;/div&gt;
 
-====Formación Arabol (Starf)====
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+====Starf Planting Formation====
+&lt;/div&gt;
 
-Plantar bayas Arabol (Starf) puede aumentar la probabilidad de Variocolor en todos los encuentros Pokémon, incluídos los incubados. A continuación se puede encontrar una tabla con la formación más eficiente empleando únicamente bayas Arabol (Starf).
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Planting Starf Berries can increase the Shiny Rate of all Pokémon encounters, including hatched eggs. Below is a Planting Table of the most efficient setup to use only Starf Berries.
+&lt;/div&gt;
 
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
 {| class="wikitable" style="text-align: center;"
-|+ Granja - '''''Bonus Variocolor: 1.45x'''''
+|+ Farm - '''''Shiny Bonus: 1.45x'''''
 |- style="height: 50px;"
-| style="width: 40px;" | [[File:Starf.png|30px]]&lt;br&gt;[[Starf|Arabol (Starf)]] || style="width: 40px;" | [[File:Starf.png|30px]]&lt;br&gt;[[Starf|Arabol (Starf)]] || style="width: 40px;" | [[File:Starf.png|30px]]&lt;br&gt;[[Starf|Arabol (Starf)]] || style="width: 40px;" | [[File:Starf.png|30px]]&lt;br&gt;[[Starf|Arabol (Starf)]] || style="width: 40px;" | [[File:Starf.png|30px]]&lt;br&gt;[[Starf|Arabol (Starf)]]
+| style="width: 40px;" | [[File:Starf.png|30px]]&lt;br&gt;[[Starf]] || style="width: 40px;" | [[File:Starf.png|30px]]&lt;br&gt;[[Starf]] || style="width: 40px;" | [[File:Starf.png|30px]]&lt;br&gt;[[Starf]] || style="width: 40px;" | [[File:Starf.png|30px]]&lt;br&gt;[[Starf]] || style="width: 40px;" | [[File:Starf.png|30px]]&lt;br&gt;[[Starf]]
 |- style="height: 50px;"
-| [[File:Starf.png|30px]]&lt;br&gt;[[Starf|Arabol (Starf)]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf|Arabol (Starf)]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf|Arabol (Starf)]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf|Arabol (Starf)]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf|Arabol (Starf)]]
+| [[File:Starf.png|30px]]&lt;br&gt;[[Starf]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf]]
 |- style="height: 50px;"
-| [[File:Starf.png|30px]]&lt;br&gt;[[Starf|Arabol (Starf)]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf|Arabol (Starf)]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf|Arabol (Starf)]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf|Arabol (Starf)]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf|Arabol (Starf)]]
+| [[File:Starf.png|30px]]&lt;br&gt;[[Starf]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf]]
 |- style="height: 50px;"
-| [[File:Starf.png|30px]]&lt;br&gt;[[Starf|Arabol (Starf)]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf|Arabol (Starf)]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf|Arabol (Starf)]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf|Arabol (Starf)]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf|Arabol (Starf)]]
+| [[File:Starf.png|30px]]&lt;br&gt;[[Starf]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf]]
 |- style="height: 50px;"
-| [[File:Starf.png|30px]]&lt;br&gt;[[Starf|Arabol (Starf)]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf|Arabol (Starf)]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf|Arabol (Starf)]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf|Arabol (Starf)]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf|Arabol (Starf)]]
+| [[File:Starf.png|30px]]&lt;br&gt;[[Starf]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf]]
 |}
-====Formación Arabol (Starf) + Pomaro (Chople)====
+====Starf + Chople Planting Formation====
+&lt;/div&gt;
 
-Plantar bayas Arabol (Starf) y Pomaro (Chople) juntas aumenta la probabilidad de variocolor y los pasos ganados al mismo tiempo. A continuación se puede encontrar una tabla con la formación más eficiente.
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Planting Starf and Chople Berries together increases the Shiny Rate and Egg Steps Gained at the same time. Below is a Planting Table of the most efficient setup.
+&lt;/div&gt;
 
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
 {| class="wikitable" style="text-align: center;"
-|+ Granja - '''''Bonus Variocolor: x1.16''''',&lt;br&gt;'''''Bonus a los Pasos: x1.56'''''
+|+ Farm - '''''Shiny Bonus: 1.16x''''',&lt;br&gt;'''''Egg Step Bonus: 1.56x'''''
 |- style="height: 50px;"
-| style="width: 40px;" | [[File:Chople.png|30px]]&lt;br&gt;[[Chople|Pomaro (Chople)]] || style="width: 40px;" | [[File:Chople.png|30px]]&lt;br&gt;[[Chople|Pomaro (Chople)]] || style="width: 40px;" | [[File:Chople.png|30px]]&lt;br&gt;[[Chople|Pomaro (Chople)]] || style="width: 40px;" | [[File:Chople.png|30px]]&lt;br&gt;[[Chople|Pomaro (Chople)]] || style="width: 40px;" | [[File:Chople.png|30px]]&lt;br&gt;[[Chople|Pomaro (Chople)]]
+| style="width: 40px;" | [[File:Chople.png|30px]]&lt;br&gt;[[Chople]] || style="width: 40px;" | [[File:Chople.png|30px]]&lt;br&gt;[[Chople]] || style="width: 40px;" | [[File:Chople.png|30px]]&lt;br&gt;[[Chople]] || style="width: 40px;" | [[File:Chople.png|30px]]&lt;br&gt;[[Chople]] || style="width: 40px;" | [[File:Chople.png|30px]]&lt;br&gt;[[Chople]]
 |- style="height: 50px;"
-| [[File:Starf.png|30px]]&lt;br&gt;[[Starf|Arabol (Starf)]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf|Arabol (Starf)]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf|Arabol (Starf)]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf|Arabol (Starf)]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf|Arabol (Starf)]]
+| [[File:Starf.png|30px]]&lt;br&gt;[[Starf]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf]]
 |- style="height: 50px;"
-| [[File:Chople.png|30px]]&lt;br&gt;[[Chople|Pomaro (Chople)]] || [[File:Chople.png|30px]]&lt;br&gt;[[Chople|Pomaro (Chople)]] || [[File:Chople.png|30px]]&lt;br&gt;[[Chople|Pomaro (Chople)]] || [[File:Chople.png|30px]]&lt;br&gt;[[Chople|Pomaro (Chople)]] || [[File:Chople.png|30px]]&lt;br&gt;[[Chople|Pomaro (Chople)]]
+| [[File:Chople.png|30px]]&lt;br&gt;[[Chople]] || [[File:Chople.png|30px]]&lt;br&gt;[[Chople]] || [[File:Chople.png|30px]]&lt;br&gt;[[Chople]] || [[File:Chople.png|30px]]&lt;br&gt;[[Chople]] || [[File:Chople.png|30px]]&lt;br&gt;[[Chople]]
 |- style="height: 50px;"
-| [[File:Starf.png|30px]]&lt;br&gt;[[Starf|Arabol (Starf)]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf|Arabol (Starf)]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf|Arabol (Starf)]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf|Arabol (Starf)]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf|Arabol (Starf)]]
+| [[File:Starf.png|30px]]&lt;br&gt;[[Starf]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf]]
 |- style="height: 50px;"
-| [[File:Chople.png|30px]]&lt;br&gt;[[Chople|Pomaro (Chople)]] || [[File:Chople.png|30px]]&lt;br&gt;[[Chople|Pomaro (Chople)]] || [[File:Chople.png|30px]]&lt;br&gt;[[Chople|Pomaro (Chople)]] || [[File:Chople.png|30px]]&lt;br&gt;[[Chople|Pomaro (Chople)]] || [[File:Chople.png|30px]]&lt;br&gt;[[Chople|Pomaro (Chople)]]
+| [[File:Chople.png|30px]]&lt;br&gt;[[Chople]] || [[File:Chople.png|30px]]&lt;br&gt;[[Chople]] || [[File:Chople.png|30px]]&lt;br&gt;[[Chople]] || [[File:Chople.png|30px]]&lt;br&gt;[[Chople]] || [[File:Chople.png|30px]]&lt;br&gt;[[Chople]]
 |}
+&lt;/div&gt;
 
-====Formación Arabol (Starf) + Pomaro (Chople) + Yapati (Petaya)====
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+====Starf + Chople + Petaya Planting Formation====
+&lt;/div&gt;
 
-Combina las bayas Arabol (Starf) + Pomaro (Chople) con una Yapati (Petaya).
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Combines Starf + Chople with a Petaya.
+&lt;/div&gt;
 
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
 {| class="wikitable" style="text-align: center;"
-|+ Granja - '''''Bonus Variocolor: x1.14''''',&lt;br&gt;'''''Bonus a los Pasos: x1.56'''''
+|+ Farm - '''''Shiny Bonus: 1.14x''''',&lt;br&gt;'''''Egg Step Bonus: 1.56x'''''
 |- style="height: 50px;"
-| style="width: 40px;" | [[File:Chople.png|30px]]&lt;br&gt;[[Chople|Pomaro (Chople)]] || style="width: 40px;" | [[File:Chople.png|30px]]&lt;br&gt;[[Chople|Pomaro (Chople)]] || style="width: 40px;" | [[File:Chople.png|30px]]&lt;br&gt;[[Chople|Pomaro (Chople)]] || style="width: 40px;" | [[File:Chople.png|30px]]&lt;br&gt;[[Chople|Pomaro (Chople)]] || style="width: 40px;" | [[File:Chople.png|30px]]&lt;br&gt;[[Chople|Pomaro (Chople)]]
+| style="width: 40px;" | [[File:Chople.png|30px]]&lt;br&gt;[[Chople]] || style="width: 40px;" | [[File:Chople.png|30px]]&lt;br&gt;[[Chople]] || style="width: 40px;" | [[File:Chople.png|30px]]&lt;br&gt;[[Chople]] || style="width: 40px;" | [[File:Chople.png|30px]]&lt;br&gt;[[Chople]] || style="width: 40px;" | [[File:Chople.png|30px]]&lt;br&gt;[[Chople]]
 |- style="height: 50px;"
-| [[File:Starf.png|30px]]&lt;br&gt;[[Starf|Arabol (Starf)]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf|Arabol (Starf)]] || [[File:Petaya.png|30px]]&lt;br&gt;[[Petaya|Yapati (Petaya)]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf|Arabol (Starf)]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf|Arabol (Starf)]]
+| [[File:Starf.png|30px]]&lt;br&gt;[[Starf]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf]] || [[File:Petaya.png|30px]]&lt;br&gt;[[Petaya]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf]]
 |- style="height: 50px;"
-| [[File:Chople.png|30px]]&lt;br&gt;[[Chople|Pomaro (Chople)]] || [[File:Chople.png|30px]]&lt;br&gt;[[Chople|Pomaro (Chople)]] || [[File:Chople.png|30px]]&lt;br&gt;[[Chople|Pomaro (Chople)]] || [[File:Chople.png|30px]]&lt;br&gt;[[Chople|Pomaro (Chople)]] || [[File:Chople.png|30px]]&lt;br&gt;[[Chople|Pomaro (Chople)]]
+| [[File:Chople.png|30px]]&lt;br&gt;[[Chople]] || [[File:Chople.png|30px]]&lt;br&gt;[[Chople]] || [[File:Chople.png|30px]]&lt;br&gt;[[Chople]] || [[File:Chople.png|30px]]&lt;br&gt;[[Chople]] || [[File:Chople.png|30px]]&lt;br&gt;[[Chople]]
 |- style="height: 50px;"
-| [[File:Starf.png|30px]]&lt;br&gt;[[Starf|Arabol (Starf)]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf|Arabol (Starf)]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf|Arabol (Starf)]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf|Arabol (Starf)]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf|Arabol (Starf)]]
+| [[File:Starf.png|30px]]&lt;br&gt;[[Starf]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf]]
 |- style="height: 50px;"
-| [[File:Chople.png|30px]]&lt;br&gt;[[Chople|Pomaro (Chople)]] || [[File:Chople.png|30px]]&lt;br&gt;[[Chople|Pomaro (Chople)]] || [[File:Chople.png|30px]]&lt;br&gt;[[Chople|Pomaro (Chople)]] || [[File:Chople.png|30px]]&lt;br&gt;[[Chople|Pomaro (Chople)]] || [[File:Chople.png|30px]]&lt;br&gt;[[Chople|Pomaro (Chople)]]
+| [[File:Chople.png|30px]]&lt;br&gt;[[Chople]] || [[File:Chople.png|30px]]&lt;br&gt;[[Chople]] || [[File:Chople.png|30px]]&lt;br&gt;[[Chople]] || [[File:Chople.png|30px]]&lt;br&gt;[[Chople]] || [[File:Chople.png|30px]]&lt;br&gt;[[Chople]]
 |}
+&lt;/div&gt;
 
-===== Tabla de Tiempos =====
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+===== Timing Table =====
 {| class="collapsible wikitable"| style="text-align: center;"
-|+ ''Todos los tiempos indicados para plantar bayas usan el tiempo de madurez restante de la primera baya plantada''
-! Baya !! Tiempo para Plantar   &lt;br&gt; Sin Modificador !! Tiempo para Plantar   &lt;br&gt; Abono/Psydugadera || Tiempo para Plantar   &lt;br&gt;  Abono y Psydugadera
+|+ ''All planting times use the time-to-ripe remaining of the first planted berry for subsequent planting times''
+! Berry !! Planting Time with &lt;br&gt; No Modifier !! Planting Time with &lt;br&gt; Mulch/Sprayduck || Planting Time with &lt;br&gt;  Mulch*Sprayduck
 |-
-| [[Starf|Arabol (Starf)]] || - || - || -
+| [[Starf]] || - || - || -
 |-
-| [[Petaya|Yapati (Petaya)]] || - || - || -
+| [[Petaya]] || - || - || -
 |-
-| [[Chople|Pomaro (Chople)]] || 19 h 59 min 59 seg hasta la madurez || 13 h 19 min 59 seg hasta la madurez || 8 h 53 min 19 seg hasta la madurez
+| [[Chople]] || 19 hours 59 minutes 59 seconds until ripe || 13 hours 19 mins 59 secs until ripe || 8 hours 53 mins 19 secs until ripe
 |}
+&lt;/div&gt;
 
-====Formación Arabol (Starf) + Ziuela (Lum)====
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+====Starf + Lum Planting Formation====
+&lt;/div&gt;
 
-Plantar bayas Arabol (Starf) cerca de al menos una baya Ziuela (Lum) aumenta la probabilidad de encuentro con un Pokémon variocolor, incluyendo los incubados, frente a usar únicamente bayas Arabol (Starf). A continuación se puede encontrar una tabla con la formación más eficiente.
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Planting Starf berries near at least one Lum Berry increases the Shiny Rate of all Pokémon encounters including hatched eggs more than solely using Starf berries. Below is a Planting Table of the most efficient setup.
+&lt;/div&gt;
 
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
 {| class="wikitable" style="text-align: center;"
-|+ Granja - '''''Bonus Variocolor: x2.54'''''
+|+ Farm - '''''Shiny Bonus: 2.54x'''''
 |- style="height: 50px;"
-| style="width: 40px;" | [[File:Starf.png|30px]]&lt;br&gt;[[Starf|Arabol (Starf)]] || style="width: 40px;" | [[File:Starf.png|30px]]&lt;br&gt;[[Starf|Arabol (Starf)]] || style="width: 40px;" | [[File:Starf.png|30px]]&lt;br&gt;[[Starf|Arabol (Starf)]] || style="width: 40px;" | [[File:Starf.png|30px]]&lt;br&gt;[[Starf|Arabol (Starf)]] || style="width: 40px;" | [[File:Starf.png|30px]]&lt;br&gt;[[Starf|Arabol (Starf)]]
+| style="width: 40px;" | [[File:Starf.png|30px]]&lt;br&gt;[[Starf]] || style="width: 40px;" | [[File:Starf.png|30px]]&lt;br&gt;[[Starf]] || style="width: 40px;" | [[File:Starf.png|30px]]&lt;br&gt;[[Starf]] || style="width: 40px;" | [[File:Starf.png|30px]]&lt;br&gt;[[Starf]] || style="width: 40px;" | [[File:Starf.png|30px]]&lt;br&gt;[[Starf]]
 |- style="height: 50px;"
-| [[File:Starf.png|30px]]&lt;br&gt;[[Starf|Arabol (Starf)]] || [[File:Lum.png|30px]]&lt;br&gt;[[Lum|Ziuela (Lum)]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf|Arabol (Starf)]] || [[File:Lum.png|30px]]&lt;br&gt;[[Lum|Ziuela (Lum)]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf|Arabol (Starf)]]
+| [[File:Starf.png|30px]]&lt;br&gt;[[Starf]] || [[File:Lum.png|30px]]&lt;br&gt;[[Lum]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf]] || [[File:Lum.png|30px]]&lt;br&gt;[[Lum]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf]]
 |- style="height: 50px;"
-| [[File:Starf.png|30px]]&lt;br&gt;[[Starf|Arabol (Starf)]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf|Arabol (Starf)]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf|Arabol (Starf)]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf|Arabol (Starf)]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf|Arabol (Starf)]]
+| [[File:Starf.png|30px]]&lt;br&gt;[[Starf]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf]]
 |- style="height: 50px;"
-| [[File:Starf.png|30px]]&lt;br&gt;[[Starf|Arabol (Starf)]] || [[File:Lum.png|30px]]&lt;br&gt;[[Lum|Ziuela (Lum)]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf|Arabol (Starf)]] || [[File:Lum.png|30px]]&lt;br&gt;[[Lum|Ziuela (Lum)]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf|Arabol (Starf)]]
+| [[File:Starf.png|30px]]&lt;br&gt;[[Starf]] || [[File:Lum.png|30px]]&lt;br&gt;[[Lum]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf]] || [[File:Lum.png|30px]]&lt;br&gt;[[Lum]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf]]
 |- style="height: 50px;"
-| [[File:Starf.png|30px]]&lt;br&gt;[[Starf|Arabol (Starf)]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf|Arabol (Starf)]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf|Arabol (Starf)]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf|Arabol (Starf)]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf|Arabol (Starf)]]
+| [[File:Starf.png|30px]]&lt;br&gt;[[Starf]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf]]
 |}
+&lt;/div&gt;
 
-====Formación Arabol (Starf) + Ziuela (Lum) + Yapati (Petaya)====
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+====Starf + Lum + Petaya Planting Formation====
+&lt;/div&gt;
 
-Combina las bayas Arabol (Starf) + Ziuela (Lum) con una Yapati (Petaya) para ganar una mayor longevidad a cambio de una pequeña pérdida de eficiencia.
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Combines Starf + Lum with a Petaya for a slightly less efficient setup with much more longevity.
+&lt;/div&gt;
 
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
 {| class="wikitable" style="text-align: center;"
-|+ Granja - '''''Bonus Variocolor: x2.43'''''
+|+ Farm - '''''Shiny Bonus: 2.43x'''''
 |- style="height: 50px;"
-| style="width: 40px;" | [[File:Starf.png|30px]]&lt;br&gt;[[Starf|Arabol (Starf)]] || style="width: 40px;" | [[File:Starf.png|30px]]&lt;br&gt;[[Starf|Arabol (Starf)]] || style="width: 40px;" | [[File:Starf.png|30px]]&lt;br&gt;[[Starf|Arabol (Starf)]] || style="width: 40px;" | [[File:Starf.png|30px]]&lt;br&gt;[[Starf|Arabol (Starf)]] || style="width: 40px;" | [[File:Starf.png|30px]]&lt;br&gt;[[Starf|Arabol (Starf)]]
+| style="width: 40px;" | [[File:Starf.png|30px]]&lt;br&gt;[[Starf]] || style="width: 40px;" | [[File:Starf.png|30px]]&lt;br&gt;[[Starf]] || style="width: 40px;" | [[File:Starf.png|30px]]&lt;br&gt;[[Starf]] || style="width: 40px;" | [[File:Starf.png|30px]]&lt;br&gt;[[Starf]] || style="width: 40px;" | [[File:Starf.png|30px]]&lt;br&gt;[[Starf]]
 |- style="height: 50px;"
-| [[File:Starf.png|30px]]&lt;br&gt;[[Starf|Arabol (Starf)]] || [[File:Lum.png|30px]]&lt;br&gt;[[Lum|Ziuela (Lum)]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf|Arabol (Starf)]] || [[File:Lum.png|30px]]&lt;br&gt;[[Lum|Ziuela (Lum)]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf|Arabol (Starf)]]
+| [[File:Starf.png|30px]]&lt;br&gt;[[Starf]] || [[File:Lum.png|30px]]&lt;br&gt;[[Lum]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf]] || [[File:Lum.png|30px]]&lt;br&gt;[[Lum]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf]]
 |- style="height: 50px;"
-| [[File:Starf.png|30px]]&lt;br&gt;[[Starf|Arabol (Starf)]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf|Arabol (Starf)]] || [[File:Petaya.png|30px]]&lt;br&gt;[[Petaya|Yapati (Petaya)]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf|Arabol (Starf)]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf|Arabol (Starf)]]
+| [[File:Starf.png|30px]]&lt;br&gt;[[Starf]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf]] || [[File:Petaya.png|30px]]&lt;br&gt;[[Petaya]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf]]
 |- style="height: 50px;"
-| [[File:Starf.png|30px]]&lt;br&gt;[[Starf|Arabol (Starf)]] || [[File:Lum.png|30px]]&lt;br&gt;[[Lum|Ziuela (Lum)]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf|Arabol (Starf)]] || [[File:Lum.png|30px]]&lt;br&gt;[[Lum|Ziuela (Lum)]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf|Arabol (Starf)]]
+| [[File:Starf.png|30px]]&lt;br&gt;[[Starf]] || [[File:Lum.png|30px]]&lt;br&gt;[[Lum]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf]] || [[File:Lum.png|30px]]&lt;br&gt;[[Lum]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf]]
 |- style="height: 50px;"
-| [[File:Starf.png|30px]]&lt;br&gt;[[Starf|Arabol (Starf)]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf|Arabol (Starf)]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf|Arabol (Starf)]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf|Arabol (Starf)]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf|Arabol (Starf)]]
+| [[File:Starf.png|30px]]&lt;br&gt;[[Starf]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf]]
 |}
+&lt;/div&gt;
 
-===== Tabla de Tiempos =====
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+===== Timing Table =====
 {| class="collapsible wikitable"| style="text-align: center;"
-|+ ''Todos los tiempos indicados para plantar bayas usan el tiempo de madurez restante de la primera baya plantada''
-! Baya !! Tiempo para Plantar   &lt;br&gt; Sin Modificador !! Tiempo para Plantar   &lt;br&gt; Abono/Psydugadera || Tiempo para Plantar   &lt;br&gt;  Abono y Psydugadera
+|+ ''All planting times use the time-to-ripe remaining of the first planted berry for subsequent planting times''
+! Berry !! Planting Time with &lt;br&gt; No Modifier !! Planting Time with &lt;br&gt; Mulch/Sprayduck || Planting Time with &lt;br&gt;  Mulch*Sprayduck
 |-
-| [[Starf|Arabol (Starf)]] || - || - || -
+| [[Starf]] || - || - || -
 |-
-| [[Petaya|Yapati (Petaya)]] || - || - || -
+| [[Petaya]] || - || - || -
 |-
-| [[Lum|Ziuela (Lum)]] || 12 h 59 min 59 seg hasta la madurez || 8 h 39 min 39 seg hasta la madurez || 5 h 46 min 39 seg hasta la madurez
+| [[Lum]] || 11 hours 59 minutes 59 seconds until ripe || 7 hours 59 mins 59 secs until ripe || 5 hours 19 mins 59 secs until ripe
 |}
+&lt;/div&gt;
 
-====Formación Arabol (Starf) + Ziuela (Lum) + Pomaro (Chople)====
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+====Starf + Lum + Chople Planting Formation====
+&lt;/div&gt;
 
-Combina Arabol (Starf) + Ziuela (Lum) así como Arabol (Starf) + Pomaro (Chople) para obtener grandes mejoras a la hora de incubar Pokémon Variocolor. A continuación se puede encontrar una tabla con la formación más eficiente.
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Combines Starf + Lum and Starf + Chople for massive improvements in Shinies hatched over time. Below is a Planting Table of the most efficient setup.
+&lt;/div&gt;
 
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
 {| class="wikitable" style="text-align: center;"
-|+ Granja - '''''Bonus a los Pasos: x2.43''''' &lt;br&gt; '''''Bonus Variocolor: x1.31'''''
+|+ Farm - '''''Egg Step Bonus: 2.43x''''' &lt;br&gt; '''''Shiny Bonus: 1.31x'''''
 |- style="height: 50px;"
-| style="width: 40px;" | [[File:Chople.png|30px]]&lt;br&gt;[[Chople|Pomaro (Chople)]] || style="width: 40px;" | [[File:Chople.png|30px]]&lt;br&gt;[[Chople|Pomaro (Chople)]] || style="width: 40px;" | [[File:Chople.png|30px]]&lt;br&gt;[[Chople|Pomaro (Chople)]] || style="width: 40px;" | [[File:Chople.png|30px]]&lt;br&gt;[[Chople|Pomaro (Chople)]] || style="width: 40px;" | [[File:Chople.png|30px]]&lt;br&gt;[[Chople|Pomaro (Chople)]]
+| style="width: 40px;" | [[File:Chople.png|30px]]&lt;br&gt;[[Chople]] || style="width: 40px;" | [[File:Chople.png|30px]]&lt;br&gt;[[Chople]] || style="width: 40px;" | [[File:Chople.png|30px]]&lt;br&gt;[[Chople]] || style="width: 40px;" | [[File:Chople.png|30px]]&lt;br&gt;[[Chople]] || style="width: 40px;" | [[File:Chople.png|30px]]&lt;br&gt;[[Chople]]
 |- style="height: 50px;"
-| [[File:Starf.png|30px]]&lt;br&gt;[[Starf|Arabol (Starf)]] || [[File:Lum.png|30px]]&lt;br&gt;[[Lum|Ziuela (Lum)]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf|Arabol (Starf)]] || [[File:Lum.png|30px]]&lt;br&gt;[[Lum|Ziuela (Lum)]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf|Arabol (Starf)]]
+| [[File:Starf.png|30px]]&lt;br&gt;[[Starf]] || [[File:Lum.png|30px]]&lt;br&gt;[[Lum]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf]] || [[File:Lum.png|30px]]&lt;br&gt;[[Lum]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf]]
 |- style="height: 50px;"
-| [[File:Chople.png|30px]]&lt;br&gt;[[Chople|Pomaro (Chople)]] || [[File:Chople.png|30px]]&lt;br&gt;[[Chople|Pomaro (Chople)]] || [[File:Chople.png|30px]]&lt;br&gt;[[Chople|Pomaro (Chople)]] || [[File:Chople.png|30px]]&lt;br&gt;[[Chople|Pomaro (Chople)]] || [[File:Chople.png|30px]]&lt;br&gt;[[Chople|Pomaro (Chople)]]
+| [[File:Chople.png|30px]]&lt;br&gt;[[Chople]] || [[File:Chople.png|30px]]&lt;br&gt;[[Chople]] || [[File:Chople.png|30px]]&lt;br&gt;[[Chople]] || [[File:Chople.png|30px]]&lt;br&gt;[[Chople]] || [[File:Chople.png|30px]]&lt;br&gt;[[Chople]]
 |- style="height: 50px;"
-| [[File:Starf.png|30px]]&lt;br&gt;[[Starf|Arabol (Starf)]] || [[File:Lum.png|30px]]&lt;br&gt;[[Lum|Ziuela (Lum)]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf|Arabol (Starf)]] || [[File:Lum.png|30px]]&lt;br&gt;[[Lum|Ziuela (Lum)]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf|Arabol (Starf)]]
+| [[File:Starf.png|30px]]&lt;br&gt;[[Starf]] || [[File:Lum.png|30px]]&lt;br&gt;[[Lum]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf]] || [[File:Lum.png|30px]]&lt;br&gt;[[Lum]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf]]
 |- style="height: 50px;"
-| [[File:Chople.png|30px]]&lt;br&gt;[[Chople|Pomaro (Chople)]] || [[File:Chople.png|30px]]&lt;br&gt;[[Chople|Pomaro (Chople)]] || [[File:Chople.png|30px]]&lt;br&gt;[[Chople|Pomaro (Chople)]] || [[File:Chople.png|30px]]&lt;br&gt;[[Chople|Pomaro (Chople)]] || [[File:Chople.png|30px]]&lt;br&gt;[[Chople|Pomaro (Chople)]]
+| [[File:Chople.png|30px]]&lt;br&gt;[[Chople]] || [[File:Chople.png|30px]]&lt;br&gt;[[Chople]] || [[File:Chople.png|30px]]&lt;br&gt;[[Chople]] || [[File:Chople.png|30px]]&lt;br&gt;[[Chople]] || [[File:Chople.png|30px]]&lt;br&gt;[[Chople]]
 |}
+&lt;/div&gt;
 
-===== Tabla de Tiempos =====
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+===== Timing Table =====
 {| class="collapsible wikitable"| style="text-align: center;"
-|+ ''Todos los tiempos indicados para plantar bayas usan el tiempo de madurez restante de la primera baya plantada''
-! Baya !! Tiempo para Plantar   &lt;br&gt; Sin Modificador !! Tiempo para Plantar   &lt;br&gt; Abono/Psydugadera || Tiempo para Plantar   &lt;br&gt;  Abono y Psydugadera
+|+ ''All planting times use the time-to-ripe remaining of the first planted berry for subsequent planting times''
+! Berry !! Planting Time with &lt;br&gt; No Modifier !! Planting Time with &lt;br&gt; Mulch/Sprayduck || Planting Time with &lt;br&gt;  Mulch*Sprayduck
 |-
-| [[Starf|Arabol (Starf)]] || - || - || -
+| [[Starf]] || - || - || -
 |-
-| [[Chople|Pomaro (Chople)]] || 10 h hasta la madurez || 6 h 40 min hasta la madurez || 4 h 26 min 40 seg hasta la madurez
+| [[Chople]] || 10 hours until ripe || 6 hours 40 mins until ripe || 4 hours 26 mins 40 secs until ripe
 |-
-| [[Lum|Ziuela (Lum)]] || 1 h hasta la madurez || 40 min hasta la madurez || 26 min 40 seg hasta la madurez
+| [[Lum]] || 1 hours until ripe || 40 mins until ripe || 26 mins 40 secs until ripe
 |}
+&lt;/div&gt;
 
-====Formación Arabol (Starf) + Ziuela (Lum) + Pomaro (Chople) + Yapati (Petaya)====
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+====Starf + Lum + Chople + Petaya Planting Formation====
+&lt;/div&gt;
 
-Utiliza bayas Pomaro (Chople) + Ziuela (Lum) + Yapati (Petaya) y además añade bayas Arabol (Starf) en los huecos disponibles para aumentar la probaibilidad de Variocolor junto a los Pasos.
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Takes Chople + Lum + Petaya and adds Starf berries in the open spaces for a boost to Shiny rate as well as egg steps.
+&lt;/div&gt;
 
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
 {| class="wikitable" style="text-align: center;"
-|+ Granja - '''''Bonus a los Pasos: x2.43''''' &lt;br&gt; '''''Bonus Variocolor: x1.25'''''
+|+ Farm - '''''Egg Step Bonus: 2.43x''''' &lt;br&gt; '''''Shiny Bonus: 1.25x'''''
 |- style="height: 50px;"
-| style="width: 40px;" | [[File:Chople.png|30px]]&lt;br&gt;[[Chople|Pomaro (Chople)]] || style="width: 40px;" | [[File:Chople.png|30px]]&lt;br&gt;[[Chople|Pomaro (Chople)]] || style="width: 40px;" | [[File:Chople.png|30px]]&lt;br&gt;[[Chople|Pomaro (Chople)]] || style="width: 40px;" | [[File:Chople.png|30px]]&lt;br&gt;[[Chople|Pomaro (Chople)]] || style="width: 40px;" | [[File:Chople.png|30px]]&lt;br&gt;[[Chople|Pomaro (Chople)]]
+| style="width: 40px;" | [[File:Chople.png|30px]]&lt;br&gt;[[Chople]] || style="width: 40px;" | [[File:Chople.png|30px]]&lt;br&gt;[[Chople]] || style="width: 40px;" | [[File:Chople.png|30px]]&lt;br&gt;[[Chople]] || style="width: 40px;" | [[File:Chople.png|30px]]&lt;br&gt;[[Chople]] || style="width: 40px;" | [[File:Chople.png|30px]]&lt;br&gt;[[Chople]]
 |- style="height: 50px;"
-| [[File:Starf.png|30px]]&lt;br&gt;[[Starf|Arabol (Starf)]] || [[File:Lum.png|30px]]&lt;br&gt;[[Lum|Ziuela (Lum)]] || [[File:Petaya.png|30px]]&lt;br&gt;[[Petaya|Yapati (Petaya)]] || [[File:Lum.png|30px]]&lt;br&gt;[[Lum|Ziuela (Lum)]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf|Arabol (Starf)]]
+| [[File:Starf.png|30px]]&lt;br&gt;[[Starf]] || [[File:Lum.png|30px]]&lt;br&gt;[[Lum]] || [[File:Petaya.png|30px]]&lt;br&gt;[[Petaya]] || [[File:Lum.png|30px]]&lt;br&gt;[[Lum]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf]]
 |- style="height: 50px;"
-| [[File:Chople.png|30px]]&lt;br&gt;[[Chople|Pomaro (Chople)]] || [[File:Chople.png|30px]]&lt;br&gt;[[Chople|Pomaro (Chople)]] || [[File:Chople.png|30px]]&lt;br&gt;[[Chople|Pomaro (Chople)]] || [[File:Chople.png|30px]]&lt;br&gt;[[Chople|Pomaro (Chople)]] || [[File:Chople.png|30px]]&lt;br&gt;[[Chople|Pomaro (Chople)]]
+| [[File:Chople.png|30px]]&lt;br&gt;[[Chople]] || [[File:Chople.png|30px]]&lt;br&gt;[[Chople]] || [[File:Chople.png|30px]]&lt;br&gt;[[Chople]] || [[File:Chople.png|30px]]&lt;br&gt;[[Chople]] || [[File:Chople.png|30px]]&lt;br&gt;[[Chople]]
 |- style="height: 50px;"
-| [[File:Starf.png|30px]]&lt;br&gt;[[Starf|Arabol (Starf)]] || [[File:Lum.png|30px]]&lt;br&gt;[[Lum|Ziuela (Lum)]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf|Arabol (Starf)]] || [[File:Lum.png|30px]]&lt;br&gt;[[Lum|Ziuela (Lum)]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf|Arabol (Starf)]]
+| [[File:Starf.png|30px]]&lt;br&gt;[[Starf]] || [[File:Lum.png|30px]]&lt;br&gt;[[Lum]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf]] || [[File:Lum.png|30px]]&lt;br&gt;[[Lum]] || [[File:Starf.png|30px]]&lt;br&gt;[[Starf]]
 |- style="height: 50px;"
-| [[File:Chople.png|30px]]&lt;br&gt;[[Chople|Pomaro (Chople)]] || [[File:Chople.png|30px]]&lt;br&gt;[[Chople|Pomaro (Chople)]] || [[File:Chople.png|30px]]&lt;br&gt;[[Chople|Pomaro (Chople)]] || [[File:Chople.png|30px]]&lt;br&gt;[[Chople|Pomaro (Chople)]] || [[File:Chople.png|30px]]&lt;br&gt;[[Chople|Pomaro (Chople)]]
+| [[File:Chople.png|30px]]&lt;br&gt;[[Chople]] || [[File:Chople.png|30px]]&lt;br&gt;[[Chople]] || [[File:Chople.png|30px]]&lt;br&gt;[[Chople]] || [[File:Chople.png|30px]]&lt;br&gt;[[Chople]] || [[File:Chople.png|30px]]&lt;br&gt;[[Chople]]
 |}
+&lt;/div&gt;
 
-===== Tabla de Tiempos =====
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+===== Timing Table =====
 {| class="collapsible wikitable"| style="text-align: center;"
-|+ ''Todos los tiempos indicados para plantar bayas usan el tiempo de madurez restante de la primera baya plantada''
-! Baya !! Tiempo para plantar &lt;br&gt; Sin Modificador !! Tiempo para plantar &lt;br&gt; Abono/Psydugadera || Tiempo para plantar con &lt;br&gt;  Abono y Psydugadera
+|+ ''All planting times use the time-to-ripe remaining of the first planted berry for subsequent planting times''
+! Berry !! Planting Time with &lt;br&gt; No Modifier !! Planting Time with &lt;br&gt; Mulch/Sprayduck || Planting Time with &lt;br&gt;  Mulch*Sprayduck
 |-
-| [[Starf|Arabol (Starf)]] || - || - || -
+| [[Starf]] || - || - || -
 |-
-| [[Petaya|Yapati (Petaya)]] || - || - || -
+| [[Petaya]] || - || - || -
 |-
-| [[Chople|Pomaro (Chople)]] || 19 h 59 min 59 seg hasta la madurez || 13 h 19 min 59 seg hasta la madurez || 8 h 53 min 19 seg hasta la madurez
+| [[Chople]] || 19 hours 59 minutes 59 seconds until ripe || 13 hours 19 mins 59 secs until ripe || 8 hours 53 mins 19 secs until ripe
 |-
-| [[Lum|Ziuela (Lum)]] || 12 h 59 min 59 seg hasta la madurez || 8 h 39 min 39 seg hasta la madurez || 5 h 46 min 39 seg hasta la madurez
+| [[Lum]] || 11 hours 59 minutes 59 seconds until ripe || 7 hours 59 mins 59 secs until ripe || 5 hours 19 mins 59 secs until ripe
 |}
+&lt;/div&gt;
 
-=Notas=
-Desde la versión 0.3.0 los Pokémon variocolor incrementan el daño de los Clicks un 150% en comparación con un Pokémon normal.
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+=Trivia=
+Shinies as of version 0.3.0 increase click damage at a 150% rate compared to normal Pokémon.
+&lt;/div&gt;
 
-[[Category:Shinies|Categoría:Variocolor]]</text>
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Shinies]]
+&lt;/div&gt;</text>
     <contributor>
-      <username>Cthulhu Follower</username>
-      <id>51</id>
+      <username>FuzzyBot</username>
+      <id>133</id>
     </contributor>
-    <comment></comment>
+    <comment>Updating to match new version of source page</comment>
     <model>wikitext</model>
-    <parentid>17862</parentid>
-    <sha1>1b76ab4d4be4cb3966b7a0da743f91f51a5eed59</sha1>
+    <parentid>35081</parentid>
+    <sha1>b937ce2c3ba55f12e2793cccbdf5937130516cbe</sha1>
   </revision>
 </page></mediawiki>

@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>638</id>
   <revision>
-    <id>34726</id>
-    <timestamp>2022-12-14T05:54:48Z</timestamp>
-    <text space="preserve" bytes="4940">&lt;languages/&gt;
+    <id>35885</id>
+    <timestamp>2022-12-15T21:48:27Z</timestamp>
+    <text space="preserve" bytes="4952">&lt;languages/&gt;
 &lt;translate&gt;
 &lt;!--T:1--&gt;
 {{Infobox Berry
@@ -29,7 +29,8 @@
 &lt;!--T:2--&gt;
 '''Tamato''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by surrounding a [[Razz]] with at least 1 [[Pomeg]]. The [[Razz]] will then have a chance to mutate into this berry.
 
-== Growth Tables == &lt;!--T:3--&gt;
+&lt;!--T:3--&gt;
+== Growth Tables ==
 === Growth Stages ===
 {| class="wikitable" | style = "image-rendering: pixelated"
 !!! Sprout !! Taller !! Bloom !! Berry
@@ -41,7 +42,8 @@
 |  &lt;center&gt;  [[File:AllTreeSprout.png|50px]] ||  &lt;center&gt; [[File:TamatoTreeTaller.png|50px]] ||  &lt;center&gt; [[File:TamatoTreeBloom.png|50px]] ||  &lt;center&gt; [[File:TamatoTreeBerry.png|50px]]
 |}
 
-=== Ripening Time with Modifiers  === &lt;!--T:4--&gt;
+&lt;!--T:4--&gt;
+=== Ripening Time with Modifiers  ===
 {| class="wikitable" | style="text-align: center;"
 ! Modifier !! Ripe-Wither Time !! Boost Mulch Needed to Ripen
 |-
@@ -55,11 +57,13 @@
 | 1 hour 4 mins -&lt;br&gt; 2 hours 8 mins || 13 mulch
 |}
 
-== Flow Chart == &lt;!--T:5--&gt;
+&lt;!--T:5--&gt;
+== Flow Chart ==
 [[File:Tamato_Flow_Chart1.png|350px]]
 &lt;br&gt;
 
-== Mutation Strategy == &lt;!--T:6--&gt;
+&lt;!--T:6--&gt;
+== Mutation Strategy ==
 === Possible Planting Formations ===
 
 &lt;!--T:7--&gt;
@@ -89,7 +93,8 @@ You can fill your farm in the following way to obtain Tamato berries. Purple squ
 | style="background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]''' || [[File:Pomeg.png|30px]]&lt;br&gt;[[Pomeg]] || style="background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]''' || style="background-color:#9C7D98;" | [[File:Razz.png|30px]]&lt;br&gt;'''[[Razz]]''' || [[File:Pomeg.png|30px]]&lt;br&gt;[[Pomeg]]
 |}
 
-=== Timing Table === &lt;!--T:10--&gt;
+&lt;!--T:10--&gt;
+=== Timing Table ===
 {| class="wikitable"| style="text-align: center;"
 |+ ''All planting times use the time-to-ripe remaining of the first planted berry for subsequent planting times''
 ! Berry !! Planting Time with &lt;br&gt; No Modifier !! Planting Time with &lt;br&gt; Mulch or Sprayduck || Planting Time with &lt;br&gt;  Mulch &amp; Sprayduck
@@ -99,7 +104,8 @@ You can fill your farm in the following way to obtain Tamato berries. Purple squ
 | [[Razz]] || 4 mins 10 secs until ripe || 2 mins 47 secs until ripe || Not Practical
 |}
 
-==Uses== &lt;!--T:11--&gt;
+&lt;!--T:11--&gt;
+==Uses==
 ===Mutations===
 
 &lt;!--T:12--&gt;
@@ -116,6 +122,7 @@ Tamato berries can be used to mutate the following berries.
 |-
 |}
 
+&lt;!--T:17--&gt;
 ==Acquisition==
 ===Dungeons===
 {{Loot/head‎|Berries}}
@@ -133,12 +140,12 @@ Tamato berries can be used to mutate the following berries.
 [[Category:Farm]][[Category:Berries]]
 &lt;/translate&gt;</text>
     <contributor>
-      <username>ThePantMan</username>
-      <id>8</id>
+      <username>DraKay</username>
+      <id>18</id>
     </contributor>
-    <comment>/* loot */</comment>
+    <comment>Marked this version for translation</comment>
     <model>wikitext</model>
-    <parentid>7298</parentid>
-    <sha1>ceab1e9147d80958186d3a84d3a86a30ff936ec2</sha1>
+    <parentid>34726</parentid>
+    <sha1>9f97504efcd560670f52fc9c14c16b528714c284</sha1>
   </revision>
 </page></mediawiki>

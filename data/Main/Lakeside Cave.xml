@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>10166</id>
   <revision>
-    <id>34449</id>
-    <timestamp>2022-12-13T17:52:48Z</timestamp>
-    <text space="preserve" bytes="2178">{{Infobox dungeon
+    <id>36089</id>
+    <timestamp>2022-12-15T22:37:58Z</timestamp>
+    <text space="preserve" bytes="2214">{{Infobox dungeon
 |name    = Lakeside Cave
 |image   = [[File:Lakeside Cave.png|thumb]]
 |caption = A map of Lakeside Cave.
@@ -25,23 +25,23 @@
 |-
 ! Encounter !! Trainer !! Pokémon Team
 |-
-| {{Pokemon|Zubat}} || rowspan=9 colspan=2|&lt;center&gt;N/A
+| {{Pokemon|Zubat|40}} || rowspan=9 colspan=2|&lt;center&gt;N/A
 |-
-| {{Pokemon|Aron}}
+| {{Pokemon|Aron|40}}
 |-
-| {{Pokemon|Carbink}}
+| {{Pokemon|Carbink|40}}
 |-
-| {{Pokemon|Carkol}}
+| {{Pokemon|Carkol|40}}
 |-
-| {{Pokemon|Ferroseed}}
+| {{Pokemon|Ferroseed|40}}
 |-
-| {{Pokemon|Mawile}}
+| {{Pokemon|Mawile|40}}
 |-
-| {{Pokemon|Sableye}}
+| {{Pokemon|Sableye|40}}
 |-
-| {{Pokemon|Audino}}
+| {{Pokemon|Audino|40}}
 |-
-| {{Pokemon|Lairon}}
+| {{Pokemon|Lairon|40}}
 |}
 
 ===Boss Encounters===
@@ -49,11 +49,11 @@
 |-
 ! Wild Pokémon !! Base Health !! Boss Trainer !! Pokémon Team !! Base Health
 |-
-| {{Pokemon|Noivern}} || rowspan=3|&lt;center&gt;166,608,415 || rowspan=3 colspan=3|&lt;center&gt;N/A
+| {{Pokemon|Noivern|40}} || rowspan=3|&lt;center&gt;166,608,415 || rowspan=3 colspan=3|&lt;center&gt;N/A
 |-
-| {{Pokemon|Aggron}}
+| {{Pokemon|Aggron|40}}
 |-
-| {{Pokemon|Coalossal}}
+| {{Pokemon|Coalossal|40}}
 |}
 
 ==Items==
@@ -99,7 +99,7 @@
     </contributor>
     <comment></comment>
     <model>wikitext</model>
-    <parentid>34222</parentid>
-    <sha1>6597dd43968afae4ba070d3a2dcb93662991505b</sha1>
+    <parentid>34449</parentid>
+    <sha1>f0a151c7dbe227e58b3610f0d329c08a56de0e9d</sha1>
   </revision>
 </page></mediawiki>

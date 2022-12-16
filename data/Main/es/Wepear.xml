@@ -4,118 +4,145 @@
   <ns>0</ns>
   <id>7465</id>
   <revision>
-    <id>21363</id>
-    <timestamp>2022-08-01T21:37:28Z</timestamp>
-    <text space="preserve" bytes="4098">&lt;languages/&gt;
+    <id>36018</id>
+    <timestamp>2022-12-15T21:49:43Z</timestamp>
+    <text space="preserve" bytes="4457">&lt;languages/&gt;
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
 {{Infobox Berry
-|name    = #13 Peragu (Wepear)
+|name    = #13 Wepear
 |image   = [[File:Wepear.png]]
-|caption = Brota de una flor blanca muy bonita. Tiene un punto ácido y amargo al mismo tiempo, y ayuda a la digestión.
+|caption = The potent mix of bitter and sour in this Berry seems to promote digestion. The flower is white and beautiful.
 |growtime  = 6m 40s
-|harvest = 12 bayas
+|harvest = 12 berries
 |replant = 40%
 |mutation = 1.6%
 |points = 30
 |flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
-*0 picante
-*0 seco
-*0 dulce
-*10 amargo
-*10 ácido
+*0 spicy 
+*0 dry
+*0 sweet
+*10 bitter
+*10 sour
 }}
+&lt;/div&gt;
 
-'''Peragu (Wepear)''' es un tipo de [[Berries|baya]] que puede ser plantada en la [[Farm|granja]]. Se puede obtener rodeando una parcela vacía con al menos 1 baya [[Rawst|Safre (Rawst)]] y al menos 1 baya [[Oran|Aranja (Oran)]].
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+'''Wepear''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by surrounding an empty plot with at least 1 [[Rawst]] and at least 1 [[Oran]].
+&lt;/div&gt;
 
-== Tablas de Crecimiento ==
-=== Estados de Crecimiento ===
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Growth Tables ==
+=== Growth Stages ===
 {| class="wikitable" | style = "image-rendering: pixelated"
-|+ Estados de Crecimiento
-! !! Brote !! Crecimiento !! Floración !! Madurez
+|+ Growth Stages
+! !! Sprout !! Taller !! Bloom !! Berry
 |-
-! Tiempo pasado desde que se planta
-| 2 mins 30 seg || 5 mins 50 seg || 6 mins 15 seg || 6 mins 40 seg - 13 mins 20 seg
+! Time passed since planting
+| 2 mins 30 secs || 5 mins 50 secs || 6 mins 15 secs || 6 mins 40 secs - 13 mins 20 secs
 |-
-! Animación
+! Animation
 | &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:WepearTreeTaller.png|50px]] || &lt;center&gt; [[File:WepearTreeBloom.png|50px]] || &lt;center&gt; [[File:WepearTreeBerry.png|50px]]
 |}
+&lt;/div&gt;
 
-=== Tiempos de Maduración con modificadores ===
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+=== Ripening Time with Modifiers ===
 {| class="wikitable" | style="text-align: center;"
-! Modificador !! Tiempo hasta la madurez-marchitado
+! Modifier !! Ripe-Wither Time
 |-
-! Ninguno
-| 6 min 40 seg -&lt;br&gt; 13 min 20 seg
+! None
+| 6 mins 40 secs -&lt;br&gt; 13 mins 20 secs
 |-
-! Psydugadera
-| 4 min 27 seg -&lt;br&gt; 8 min 53 seg
+! Sprayduck
+| 4 mins 27 secs -&lt;br&gt; 8 mins 53 secs
 |}
+&lt;/div&gt;
 
-== Diagrama de Flujo ==
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Flow Chart ==
 [[File:Wepear_Flow_Chart.png|200px]]
 &lt;br&gt;
-'''Leyenda:'''&lt;br&gt;
-· Random Drop: Obtenido aleatoriamente en ruta
+&lt;/div&gt;
 
-== Estrategia de mutación ==
-=== Posibles formaciones ===
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Mutation Strategy ==
+=== Possible Planting Formations ===
+&lt;/div&gt;
 
-Puedes llenar tu granja del siguiente modo para obtener bayas Peragu (Wepear). Los cuadrados morados indican dónde pueden ocurrir las mutaciones.
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+You can fill your farm in the following way to obtain Wepear berries. Purple squares indicate where mutations can occur.
+&lt;/div&gt;
 
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
 {| class="wikitable" style="text-align: center;"
-|+ Formación base
+|+ Base Formation
 |-
-| style="width: 40px;" | [[File:Rawst.png|30px]] [[Rawst|Safre (Rawst)]] || style="width: 40px; background-color:#9C7D98;" | 
+| style="width: 40px;" | [[File:Rawst.png|30px]] [[Rawst]] || style="width: 40px; background-color:#9C7D98;" | 
 |-
-| style="background-color:#9C7D98;" | || [[File:Oran.png|30px]] [[Oran|Aranja (Oran)]]
+| style="background-color:#9C7D98;" | || [[File:Oran.png|30px]] [[Oran]]
 |}
+&lt;/div&gt;
 
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
 {| class="wikitable" style="text-align: center;"
-|+ Formación óptima
+|+ Optimized Planting Formation
 |-
-| style="width: 40px;" | [[File:Rawst.png|30px]] [[Rawst|Safre (Rawst)]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Rawst.png|30px]] [[Rawst|Safre (Rawst)]] || style="width: 40px; background-color:#9C7D98;" | 
+| style="width: 40px;" | [[File:Rawst.png|30px]] [[Rawst]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Rawst.png|30px]] [[Rawst]] || style="width: 40px; background-color:#9C7D98;" | 
 |-
-| style="background-color:#9C7D98;" | || [[File:Oran.png|30px]] [[Oran|Aranja (Oran)]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Oran.png|30px]]&lt;br&gt;[[Oran|Aranja (Oran)]]
+| style="background-color:#9C7D98;" | || [[File:Oran.png|30px]] [[Oran]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Oran.png|30px]]&lt;br&gt;[[Oran]]
 |- style="height: 50px;"
 | style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | 
 |-
-| [[File:Rawst.png|30px]] [[Rawst|Safre (Rawst)]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Rawst.png|30px]] [[Rawst|Safre (Rawst)]] || style="background-color:#9C7D98;" | 
+| [[File:Rawst.png|30px]] [[Rawst]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Rawst.png|30px]] [[Rawst]] || style="background-color:#9C7D98;" | 
 |-
-| style="background-color:#9C7D98;" | || [[File:Oran.png|30px]] [[Oran|Aranja (Oran)]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Oran.png|30px]]&lt;br&gt;[[Oran|Aranja (Oran)]]
+| style="background-color:#9C7D98;" | || [[File:Oran.png|30px]] [[Oran]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Oran.png|30px]]&lt;br&gt;[[Oran]]
 |}
+&lt;/div&gt;
 
-=== Tabla de Tiempos ===
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+=== Timing Table ===
 {| class="collapsible wikitable" | style="text-align: center;"
-|+ ''Todos los tiempos de plantado usan el tiempo hasta la madurez de la primera baya plantada para las siguientes''
-! Baya !! Tiempo de plantado &lt;br&gt; Sin modificador !! Tiempo de plantado &lt;br&gt; Abono o Psydugadera || Tiempo de plantado &lt;br&gt;  Abono y Psydugadera
+|+ ''All planting times use the time-to-ripe remaining of the first planted berry for subsequent planting times''
+! Berry !! Planting Time with &lt;br&gt; No Modifier !! Planting Time with &lt;br&gt; Mulch or Sprayduck || Planting Time with &lt;br&gt;  Mulch &amp; Sprayduck
 |-
-| [[Oran|Aranja (Oran)]] || - || - || -
+| [[Oran]] || - || - || -
 |-
-| [[Rawst|Safre (Rawst)]] || 1 min 20 seg hasta la madurez || 53 seg hasta la madurez || No tiene sentido
+| [[Rawst]] || 1 min 20 secs until ripe || 53 secs until ripe || Not Practical
 |-
 |}
+&lt;/div&gt;
 
-==Adquisición==
-===Mazmorras===
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Acquisition==
+===Dungeons===
 {{Loot/head‎|Berries}}
-{{LootItem|Berry Forest|Épico}}
-{{LootItem|Radio Tower|Épico}}
-{{LootItem|Floccesy Ranch|Épico}}
-{{LootItem|Connecting Cave|Común}}
+{{LootItem|Berry Forest|Epic}}
+{{LootItem|Pattern Bush|Epic}}
+{{LootItem|Radio Tower|Epic}}
+{{LootItem|Floccesy Ranch|Epic}}
+{{LootItem|Connecting Cave|Common}}
 |}
 |}
+&lt;/div&gt;
 
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
 &lt;br&gt;
+&lt;/div&gt;
 
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
 {{Berries}}
+&lt;/div&gt;
 
-[[Category:Farm|Categoría:Granja]][[Category:Berries|Categoría:Bayas]]</text>
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
     <contributor>
-      <username>Cthulhu Follower</username>
-      <id>51</id>
+      <username>FuzzyBot</username>
+      <id>133</id>
     </contributor>
-    <comment>Created page with "==Adquisición== ===Mazmorras=== {{Loot/head‎|Berries}} {{LootItem|Berry Forest|Épico}} {{LootItem|Radio Tower|Épico}} {{LootItem|Floccesy Ranch|Épico}} {{LootItem|Connecting Cave|Común}} |} |}"</comment>
+    <comment>Updating to match new version of source page</comment>
     <model>wikitext</model>
-    <parentid>21362</parentid>
-    <sha1>0d4a0a34c5dfb5ae773e8bbd1cceb2fc36a584e8</sha1>
+    <parentid>21363</parentid>
+    <sha1>548f50d04ebfc018912e7995ebeda69997809f86</sha1>
   </revision>
 </page></mediawiki>

@@ -4,20 +4,20 @@
   <ns>0</ns>
   <id>932</id>
   <revision>
-    <id>9321</id>
-    <timestamp>2022-07-28T21:52:31Z</timestamp>
-    <text space="preserve" bytes="33749">[[File:PokeCoin.png|thumb|200px|A Poké Dollar]]
+    <id>35064</id>
+    <timestamp>2022-12-15T20:39:38Z</timestamp>
+    <text space="preserve" bytes="33754">[[File:PokeCoin.png|thumb|200px|A Poké Dollar]]
 
 ==Description==
-'''Pokemon Dollars''' are the basic golden currency of PokéClicker, also known as simply '''Money''' or '''Poké'''. They are obtained by defeating enemies and are primarily spent on various '''[[Items]]'''. Poké Dollars can be collected while offline for up to 24 hours.
+'''Pokémon Dollars''' are the basic golden currency of PokéClicker, also known as simply '''Money''' or '''Poké'''. They are obtained by defeating enemies and are primarily spent on various '''[[Items]]'''. Poké Dollars can be collected while offline for up to 24 hours.
 
 ==Formulas==
 
 &lt;math&gt;\colorbox{White}{$ \text{Earnings} = \text{Max}(10, 3 \times \text {route (order)} + 5 \times \text{route}^{1.15} + \text{Deviation} $}&lt;/math&gt; &lt;br&gt;&lt;br&gt; &lt;big&gt;Where:&lt;/big&gt; &lt;math&gt;\colorbox{White}{$ \text{Deviation} = \text{Floor}(\text{[Random Integer between 0 and 1]} * 51) - 25 $}&lt;/math&gt; &lt;big&gt;&lt;br&gt; Or: &lt;/big&gt;&lt;math&gt;\colorbox{White}{$ \text{Deviation} = 12 $}&lt;/math&gt;&lt;br&gt;&lt;br&gt;
 
-&lt;math&gt;\colorbox{White}{$\text{Offline Earnings} = \text{Number Of Pokemon Defeated} \times \text{routeMoney} \times 0.5 $}&lt;/math&gt;&lt;br&gt;
+&lt;math&gt;\colorbox{White}{$\text{Offline Earnings} = \text{Number Of Pokémon Defeated} \times \text{routeMoney} \times 0.5 $}&lt;/math&gt;&lt;br&gt;
 
-'''Number of Pokemon Defeated''' is equivalent to the number of Pokemon that would be defeated on a particular route by only Pokémon damage.&lt;br&gt;
+'''Number of Pokémon Defeated''' is equivalent to the number of Pokémon that would be defeated on a particular route by only Pokémon damage.&lt;br&gt;
 '''Route Money''' is a route specific constant.
 
 ==Obtaining Pokémon Dollars==
@@ -706,7 +706,7 @@ The upgrades of some [[Oak Items]].
 |-
 ! Shop !! Token !! Pokémon !! Cost
 |- 
-| Poké Mart Route 3 Pokemon Center || [[File:Magikarp_shuffle.png|30px]] || [[File:Magikarp.png|40px]] Magikarp || 50,000 {{pdollar}}
+| Poké Mart Route 3 Pokémon Center || [[File:Magikarp_shuffle.png|30px]] || [[File:Magikarp.png|40px]] Magikarp || 50,000 {{pdollar}}
 |-
 | [[Shops#Friseur Furfrou|Friseur Furfrou (Kalos)]] || [[File:Furfrou_(Debutante)_Shuffle.png|30px]] || [[File:Furfrou_(Debutante).png|40px]]Furfrou (Debutante) || 5,000,000,000 {{pdollar}}
 |}
@@ -717,9 +717,9 @@ The upgrades of some [[Oak Items]].
       <username>ThePantMan</username>
       <id>8</id>
     </contributor>
-    <comment>/* Regional Rate Tables - updated values */</comment>
+    <comment>Text replacement - "(?&lt;!{{)(?&lt;!{{Route)Pokemon" to "Pokémon"</comment>
     <model>wikitext</model>
-    <parentid>9320</parentid>
-    <sha1>0899cf6e90f6c914dc8c2ee7182697ff5cb8ea65</sha1>
+    <parentid>34985</parentid>
+    <sha1>59dcf37fea24e171bc4d5e253afb743399cc931d</sha1>
   </revision>
 </page></mediawiki>

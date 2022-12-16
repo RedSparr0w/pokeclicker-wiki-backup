@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>8326</id>
   <revision>
-    <id>34645</id>
-    <timestamp>2022-12-14T03:53:13Z</timestamp>
-    <text space="preserve" bytes="2005">&lt;languages/&gt;
+    <id>35934</id>
+    <timestamp>2022-12-15T21:48:48Z</timestamp>
+    <text space="preserve" bytes="2045">&lt;languages/&gt;
 
 {{Infobox Pokéball
 |name       = Timer Ball
@@ -24,11 +24,11 @@
 
 ==Description==
 
-The '''Timer Ball''' is a type of [[Pokéballs|Pokéball]]. It automatically tries to catch a wild Pokémon after defeating it if is the highest type of Pokéball active and there is a remaining supply in the Pokéball selector.
+The '''Timer Ball''' is a type of [[Poké Balls|Poké Ball]]. It automatically tries to catch a wild Pokémon after defeating it if is the highest type of Poké Ball active and there is a remaining supply in the Poké Ball selector.
 
 ==Details==
 
-A specialized Pokéball to capture Pokémon with, it provides an increased catch rate on routes with more Pokémon defeated and catches Pokémon in 1s.
+A specialized Poké Ball to capture Pokémon with, it provides an increased catch rate on routes with more Pokémon defeated and catches Pokémon in 1s.
 
 ==Rate==
 
@@ -39,7 +39,7 @@ A specialized Pokéball to capture Pokémon with, it provides an increased catch
 |-
 ! Route kills !! Catch chance
 |-
-| 0 || 0 (Equal to Pokéball)
+| 0 || 0 (Equal to Poké Ball)
 |-
 | 4793 || 5 (Equal to Great Ball)
 |-
@@ -63,7 +63,7 @@ A specialized Pokéball to capture Pokémon with, it provides an increased catch
 |-
 | 16.67 || 5 (Equal to Great Ball)
 |-
-| 100 || 0 (Equal to Pokéball)
+| 100 || 0 (Equal to Poké Ball)
 |}
 
 [[File:Timer Ball_Dungeon_Catch_Rate_Graph.png|X-axis: % Time Remaining in Dungeon&lt;br&gt;Y-axis: Catch rate|200px]]
@@ -75,23 +75,24 @@ A specialized Pokéball to capture Pokémon with, it provides an increased catch
 |}
 |}
 
-===Dungeons=== 
+===Dungeons===
 {{Loot/head‎|Pokéballs}}
 {{LootItem|Chargestone Cave|Epic}}
 {{LootItem|Victory Road Unova|Epic}}
 {{LootItem|Poké Ball Factory|Epic}}
+{{LootItem|Brawlers' Cave|Epic}}
 |}
 |}
 
 &lt;br&gt;{{Pokéballs}}&lt;br&gt;
-[[Category:Items]] [[Category:Pokéballs]]</text>
+[[Category:Items]] [[Category:Poké Balls]]</text>
     <contributor>
-      <username>ThePantMan</username>
-      <id>8</id>
+      <username>FuzzyBot</username>
+      <id>133</id>
     </contributor>
-    <comment>Text replacement - "Pokéball Factory" to "Poké Ball Factory"</comment>
+    <comment>Updating to match new version of source page</comment>
     <model>wikitext</model>
-    <parentid>34310</parentid>
-    <sha1>825e6d2efa9859b88db9db56e4012b168e122c12</sha1>
+    <parentid>34645</parentid>
+    <sha1>704379621fb9199b787d1494272a8919e2882eaf</sha1>
   </revision>
 </page></mediawiki>

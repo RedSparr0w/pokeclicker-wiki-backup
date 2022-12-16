@@ -1,28 +1,34 @@
 <mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
 <page>
   <title>Translations:NPCs/12/en</title>
-  <ns>0</ns>
-  <id>6684</id>
+  <ns>1198</ns>
+  <id>12878</id>
   <revision>
-    <id>19501</id>
-    <timestamp>2022-07-29T08:04:12Z</timestamp>
-    <text space="preserve" bytes="961">{| class="wikitable"
+    <id>35567</id>
+    <timestamp>2022-12-15T21:45:01Z</timestamp>
+    <text space="preserve" bytes="1751">{| class="wikitable"
 |-
 ! NPC Name !! Location !! Function
 |-
-| Musician || [[Towns &amp; Cities#Unova|Castelia City]] || Informs the player about the roaming nature of Meloetta.
+| [[File:Musician.png|30px]]Musician || [[Towns &amp; Cities#Unova|Castelia City]] || Informs the player about the roaming nature of {{Pokemon|Meloetta (Aria)}}
 |-
-| Excited Child || [[Towns &amp; Cities#Unova|Humilau City]] || Informs the player about the roaming nature of Thundurus and Tornadus.
+| [[File:Ruin Maniac.png|30px]]Ruin Maniac || [[Relic Castle]] || Informs the player how to get {{Pokemon|Volcarona}}
 |-
-| Explorer || [[Towns &amp; Cities#Unova|Nimbasa City]] || Informs the player about Mimics and the exclusive mimic in [[Relic Castle]]
+| [[File:School Kid (female).png|30px]]Excited Child || [[Towns &amp; Cities#Unova|Humilau City]] || Informs the player about the roaming nature of {{Pokemon|Tornadus}} and {{Pokemon|Thundurus}}.
 |-
-| Fan Club Chairman || [[Towns &amp; Cities#Unova|Icirrus City]] || Informs the player about how to obtain [[Black DNA]] and [[White DNA]]
+| [[File:Backpacker (male).png|30px]]Explorer || [[Towns &amp; Cities#Unova|Nimbasa City]] || Informs the player about Mimics and the exclusive mimic in [[Relic Castle]]
 |-
-| Professor Juniper|| [[Towns &amp; Cities#Unova|Nuvema Town]] || Tells the player what is needed to progress to the next [[Regions|region]].
+| [[File:Gentleman.png|30px]]Fan Club Chairman || [[Towns &amp; Cities#Unova|Icirrus City]] || Informs the player about how to obtain [[File:Black DNA.png|30px]][[Black DNA]] and [[File:White DNA.png|30px]][[White DNA]]
+|-
+| [[File:Professor Juniper.png|30px]]Professor Juniper || [[Towns &amp; Cities#Unova|Nuvema Town]] || Tells the player what is needed to progress to the next [[Regions|region]].
 |-
 | Professor Juniper's Aide || [[Towns &amp; Cities#Unova|Nuvema Town]] || Informs the player about increased roamer rates.
+|-
+| [[File:Professor Burner.png|30px]]Professor Burnet || [[Towns &amp; Cities#Unova|Black and White Park]] || Explains to the player how to obtain [[Dream Orbs]].
+|-
+| [[File:Dream Researcher.png|30px]]Dream Researcher || [[Towns &amp; Cities#Unova|Black and White Park]] || Talks about [[Dream Orbs]] and hints at a reward if the player interact enough times with the mechanic.
 |- 
-| Colress || [[P2 Laboratory]] || Challenges the player to defeat him to unlock the Rare Pokémon in the lab. 
+| [[File:Team Plasma (colress).png|30px]]Colress || [[P2 Laboratory]] || Challenges the player to defeat him to unlock the Rare Pokémon in the lab. 
 |}</text>
     <contributor>
       <username>FuzzyBot</username>
@@ -31,6 +37,6 @@
     <comment>Importing a new version from external source</comment>
     <model>wikitext</model>
     <parentid>0</parentid>
-    <sha1>2eaecb12ca05174e90d4e5242d884f89cf2aec24</sha1>
+    <sha1>677cf341cdcc9bcbcdd63fd8d577b5517c7627ff</sha1>
   </revision>
 </page></mediawiki>

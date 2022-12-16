@@ -4,10 +4,11 @@
   <ns>0</ns>
   <id>4090</id>
   <revision>
-    <id>34778</id>
-    <timestamp>2022-12-15T01:30:15Z</timestamp>
-    <text space="preserve" bytes="1228">&lt;languages/&gt;
+    <id>35149</id>
+    <timestamp>2022-12-15T21:37:07Z</timestamp>
+    <text space="preserve" bytes="1316">&lt;languages/&gt;
 &lt;translate&gt;
+&lt;!--T:1--&gt;
 {{Infobox battle item
 |name       = Black Flute
 |image      = [[File:Black Flute.png]]
@@ -17,16 +18,19 @@
 *[[Black Flute#Shops|Fallarbor Town Gem Master]]
 }}
 
-== Description ==
+== Description == &lt;!--T:2--&gt;
 
+&lt;!--T:3--&gt;
 The '''Black Flute''' is a type of [[Flutes|Flute]]. By using Dark, Psychic, and Fighting Gems the Black Flute increases the player's Click Attack.
 
-== Details ==
+== Details == &lt;!--T:4--&gt;
 
+&lt;!--T:5--&gt;
 Black Flute increases the player's Click Attack by a base 2%.  The Base effect is multiplied by the players Achievement Bonus, to a current maximum of 22%, with an achievement bonus of 1000%.  Costs a variable amount of Dark, Psychic, and Fighting Gems when active, cost based on how many total Flutes are active.
 
-== Acquisition ==
+== Acquisition == &lt;!--T:6--&gt;
 
+&lt;!--T:7--&gt;
 ===Shops===
 {{ItemPrice/head‎|Battle items}}
 {{ItemPrice|[[Shops#Fallarbor_Town_Gem_Master|Fallarbor Town Gem Master]]|
@@ -35,17 +39,18 @@ Black Flute increases the player's Click Attack by a base 2%.  The Base effect i
 |}
 
 
+&lt;!--T:8--&gt;
 __NOTOC__
 {{Battle items}}&lt;br&gt;
 [[Category:Flutes]] [[Category:Items]]
 &lt;/translate&gt;</text>
     <contributor>
-      <username>ThePantMan</username>
-      <id>8</id>
+      <username>DraKay</username>
+      <id>18</id>
     </contributor>
-    <comment>/* Maximum boost */</comment>
+    <comment>Marked this version for translation</comment>
     <model>wikitext</model>
-    <parentid>14939</parentid>
-    <sha1>f872fe7505fe2971ba5e7013988bd495d655bfb6</sha1>
+    <parentid>34778</parentid>
+    <sha1>6ee352f65fb13f963ebf2b2daf63a644dd7ad710</sha1>
   </revision>
 </page></mediawiki>

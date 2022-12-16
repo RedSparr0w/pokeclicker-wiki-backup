@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>8327</id>
   <revision>
-    <id>34631</id>
-    <timestamp>2022-12-14T03:53:10Z</timestamp>
-    <text space="preserve" bytes="1308">&lt;languages/&gt;
+    <id>35499</id>
+    <timestamp>2022-12-15T21:44:28Z</timestamp>
+    <text space="preserve" bytes="1348">&lt;languages/&gt;
 
 {{Infobox Pokéball
 |name       = Luxury Ball
@@ -22,11 +22,11 @@
 
 ==Description==
 
-The '''Luxury Ball''' is a type of [[Pokéballs|Pokéball]]. It automatically tries to catch a wild Pokémon after defeating it if is the highest type of Pokéball active and there is a remaining supply in the Pokéball selector.
+The '''Luxury Ball''' is a type of [[Poké Balls|Poké Ball]]. It automatically tries to catch a wild Pokémon after defeating it if is the highest type of Poké Ball active and there is a remaining supply in the Poké Ball selector.
 
 ==Details==
 
-A specialized Pokéball to capture Pokémon with, it provides no increased catch rate bonus and catches Pokémon in 1.25s. It is functionally equivalent to a Pokéball.
+A specialized Poké Ball to capture Pokémon with, it provides no increased catch rate bonus and catches Pokémon in 1.25s. It is functionally equivalent to a Poké Ball.
 
 
 == Acquisition ==
@@ -40,18 +40,19 @@ A specialized Pokéball to capture Pokémon with, it provides no increased catch
 {{Loot/head‎|Pokéballs}}
 {{LootItem|Poké Ball Factory|Epic}}
 {{LootItem|Malie Garden|Epic}}
+{{LootItem|Brawlers' Cave|Epic}}
 |}
 |}
 
 &lt;br&gt;{{Pokéballs}}&lt;br&gt;
-[[Category:Items]] [[Category:Pokéballs]]</text>
+[[Category:Items]] [[Category:Poké Balls]]</text>
     <contributor>
-      <username>ThePantMan</username>
-      <id>8</id>
+      <username>FuzzyBot</username>
+      <id>133</id>
     </contributor>
-    <comment>Text replacement - "Pokéball Factory" to "Poké Ball Factory"</comment>
+    <comment>Updating to match new version of source page</comment>
     <model>wikitext</model>
-    <parentid>34342</parentid>
-    <sha1>9c6743f8bcc4f402317118e5b64fb5f2c782d776</sha1>
+    <parentid>34631</parentid>
+    <sha1>bbaa3cf414d5f0fd8c5bd88a090160b03a541125</sha1>
   </revision>
 </page></mediawiki>

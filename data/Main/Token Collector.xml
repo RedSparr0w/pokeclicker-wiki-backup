@@ -4,10 +4,11 @@
   <ns>0</ns>
   <id>109</id>
   <revision>
-    <id>34714</id>
-    <timestamp>2022-12-14T05:36:18Z</timestamp>
-    <text space="preserve" bytes="3698">&lt;languages/&gt;
+    <id>35936</id>
+    <timestamp>2022-12-15T21:48:52Z</timestamp>
+    <text space="preserve" bytes="3786">&lt;languages/&gt;
 &lt;translate&gt;
+&lt;!--T:1--&gt;
 {{Infobox battle item
 |name       = Token Collector
 |image      = [[File:Bag_Token_Collector_Sprite.png]]
@@ -18,14 +19,17 @@
 *[[Token Collector#Dungeons|Dungeons]]
 }}
 
-== Description ==
+== Description == &lt;!--T:2--&gt;
 
+&lt;!--T:3--&gt;
 The '''Token Collector''' is a type of battle item. It temporarily boosts the drop rate of [[Dungeon Tokens]] by 50% for 30 seconds.
 
-== Details ==
+== Details == &lt;!--T:4--&gt;
 
+&lt;!--T:5--&gt;
 +50% Bonus to [[Dungeon Tokens]] gained.
 
+&lt;!--T:6--&gt;
 == Acquisition ==
 ===Shops===
 {{ItemPrice/head‎|Battle items}}
@@ -55,6 +59,7 @@ The '''Token Collector''' is a type of battle item. It temporarily boosts the dr
 |}
 
 
+&lt;!--T:7--&gt;
 ===Dungeons===
 {{Loot/head‎|Battle items}}
 {{LootItem|Mt. Ember Summit|Common}}
@@ -94,17 +99,18 @@ The '''Token Collector''' is a type of battle item. It temporarily boosts the dr
 |}
 |}
 
+&lt;!--T:8--&gt;
 __NOTOC__
 {{Battle items}}&lt;br&gt;
 [[Category:Items]] [[Category: Battle Items]]
 &lt;/translate&gt;</text>
     <contributor>
-      <username>ThePantMan</username>
-      <id>8</id>
+      <username>DraKay</username>
+      <id>18</id>
     </contributor>
-    <comment>/* Galar */</comment>
+    <comment>Marked this version for translation</comment>
     <model>wikitext</model>
-    <parentid>1016</parentid>
-    <sha1>b7b8880e04f67a80a07799199de56eb723118c9a</sha1>
+    <parentid>34714</parentid>
+    <sha1>1e69e187e002c9ad2c5b912b321a0d62afb3b1ef</sha1>
   </revision>
 </page></mediawiki>

@@ -4,48 +4,58 @@
   <ns>0</ns>
   <id>4617</id>
   <revision>
-    <id>16129</id>
-    <timestamp>2022-08-14T21:14:49Z</timestamp>
-    <text space="preserve" bytes="1333">&lt;languages/&gt;
+    <id>35166</id>
+    <timestamp>2022-12-15T21:38:10Z</timestamp>
+    <text space="preserve" bytes="1497">&lt;languages/&gt;
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
 {{Infobox Oak Item
-|name       = Flammenmodul
+|name       = Blaze Cassette
 |image      = [[File:Bag_Blaze_Cassette_Sprite.png]]
-|caption    = ''Flammenmodul'' Artwork.
+|caption    = Artwork of the ''Blaze Cassette''.
 |dex = 80
-|effect     = Eier werden schneller ausgebrütet.
+|effect     = Hatch eggs faster
 }}
+&lt;/div&gt;
 
-Das '''Flammenmodul''' ist eines der [[Oak Items|Oak Items]]. Wenn es ausgerüstet ist, erhöht es die Geschwindigkeit mit der [[Egg|Eier]] in der [[Pokemon Day Care|Pokémon-Pension]] ausgebrütet werden. Das Flammenmodul wird freigeschalten, sobald 80 einzigartige pokemon gefangen wurden.
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+The '''Blaze Cassette''' is a type of [[Oak Items|Oak Item]]. When equipped, it speeds up the process of [[Pokémon Day Care|hatching]] [[Egg|eggs]]. The Blaze Cassette is unlocked after catching 80 unique Pokémon.
+&lt;/div&gt;
 
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
 == Details ==
+&lt;/div&gt;
 
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
 {| class="wikitable sortable"
 |-
-! Level !! Effekt !! Upgrade Voraussetzung !! Upgrade Kosten
+! Level !! Effect !! Upgrade Requirement !! Upgrade Cost
 |-
-|0 || x1.5 Brutgeschwindigkeit || 50 Eier ausgebrütet|| style="text-align:right" | 50,000 {{pdollar}}
+|0 || x1.5 Eggs Hatching Speed || 50 Eggs Hatched || style="text-align:right" | 50,000 {{pdollar}}
 |-
-|1 || x1.6 Brutgeschwindigkeit || 50 Eier ausgebrütet || style="text-align:right" | 100,000 {{pdollar}}
+|1 || x1.6 Eggs Hatching Speed || 50 Eggs Hatched || style="text-align:right" | 100,000 {{pdollar}}
 |-
-|2 || x1.7 Brutgeschwindigkeit || 150 Eier ausgebrütet || style="text-align:right" | 250,000 {{pdollar}}
+|2 || x1.7 Eggs Hatching Speed || 150 Eggs Hatched || style="text-align:right" | 250,000 {{pdollar}}
 |-
-|3 || x1.8 Brutgeschwindigkeit || 250 Eier ausgebrütet || style="text-align:right" | 500,000 {{pdollar}}
+|3 || x1.8 Eggs Hatching Speed || 250 Eggs Hatched || style="text-align:right" | 500,000 {{pdollar}}
 |-
-|4 || x1.9 Brutgeschwindigkeit || 500 Eier ausgebrütet || style="text-align:right" | 1,000,000 {{pdollar}}
+|4 || x1.9 Eggs Hatching Speed || 500 Eggs Hatched || style="text-align:right" | 1,000,000 {{pdollar}}
 |-
-|5/Max || x2.0 Brutgeschwindigkeit || N/A || style="text-align:right" | N/A
+|5/Max || x2.0 Eggs Hatching Speed || N/A || style="text-align:right" | N/A
 |-
 |}
+&lt;/div&gt;
 
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
 &lt;br&gt;{{Oak items}}&lt;br&gt;
-[[Category:Oak Items]] [[Category:Items]] [[Category:Eggs|Eier]]</text>
+[[Category:Oak Items]] [[Category:Items]] [[Category:Eggs]]
+&lt;/div&gt;</text>
     <contributor>
-      <username>Dracul</username>
-      <id>138</id>
+      <username>FuzzyBot</username>
+      <id>133</id>
     </contributor>
-    <comment></comment>
+    <comment>Updating to match new version of source page</comment>
     <model>wikitext</model>
-    <parentid>16128</parentid>
-    <sha1>3d56d72d504ac9ad484539c1ea19519ed6d089eb</sha1>
+    <parentid>35033</parentid>
+    <sha1>6b96509261f536c9914cfdc4f94ae33ae25b524a</sha1>
   </revision>
 </page></mediawiki>

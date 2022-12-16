@@ -4,105 +4,131 @@
   <ns>0</ns>
   <id>8097</id>
   <revision>
-    <id>22836</id>
-    <timestamp>2022-08-10T18:54:54Z</timestamp>
-    <text space="preserve" bytes="4486">&lt;languages/&gt;
+    <id>35521</id>
+    <timestamp>2022-12-15T21:44:38Z</timestamp>
+    <text space="preserve" bytes="4900">&lt;languages/&gt;
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
 {{Infobox Berry
 |name    = #17 Mago
 |image   = [[File:Mago.png]]
-|caption = Cette Baie s'enroule en poussant. Plus elle s'enroule, plus son goût est sucré et déliceux...
+|caption = This Berry progressively curves as it grows. The curvier the Berry, the sweeter and tastier.
 |growtime  = 6m 10s
-|harvest = 16 baies
+|harvest = 16 berries
 |replant = 30%
 |mutation = 0.7%
 |points = 50
 |flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
-*0 épicée
-*0 sèche
-*15 sucrée
-*0 amère
-*0 acide
+*0 spicy 
+*0 dry
+*15 sweet
+*0 bitter
+*0 sour
 }}
+&lt;/div&gt;
 
-'''Mago''' est un type de [[Berries/fr|Baie]] qui peut être plantée dans la [[Farm/fr|Ferme]]. Elle s'obtient en entourant une parcelle vide avec au moins 25, mais pas plus de 80 points de saveur sucrée et moins de 5 points de toute autre saveur. La [[Pecha/fr|Pêcha]] doit avoir été débloquée pour pouvoir débloquer la Figuy.
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+'''Mago''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by surrounding an empty plot with at least 25, but no more than 80 points of sweet and less than 5 points of all other flavours. The [[Pecha]] must be unlocked to unlock this berry.
+&lt;/div&gt;
 
-== Tables de croissance ==
-=== Stades de croissance ===
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Growth Tables ==
+=== Growth Stages ===
 {| class="wikitable" | style = "image-rendering: pixelated"
-! !! Pousse !! Arbuste !! Fleuri !! Mûr
+! !! Sprout !! Taller !! Bloom !! Berry
 |-
-! Temps écoulé depuis plantation
+! Time passed since planting
 | 40 secs || 3 mins || 4 mins || 6 mins 10 secs - 12 mins 20 secs
 |-
 ! Animation
 | &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:MagoTreeTaller.png|50px]] || &lt;center&gt; [[File:MagoTreeBloom.png|50px]] || &lt;center&gt; [[File:MagoTreeBerry.png|50px]]
 |}
+&lt;/div&gt;
 
-===Temps de croissance avec modificateurs===
-{| class="wikitable collapsible" | style="text-align: center;"
-! Modificateur !! Temps maturité-flétrissement
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+=== Ripening Time with Modifiers  ===
+{| class="wikitable" | style="text-align: center;"
+! Modifier !! Ripe-Wither Time
 |-
-! Aucun
+! None
 | 6 mins 10 secs -&lt;br&gt; 12 mins 20 secs
 |-
-! Engrais/Kwakarrosoir
+! Mulch/Sprayduck
 | 4 mins 7 secs -&lt;br&gt; 8 mins 13 secs
 |}
+&lt;/div&gt;
 
-== Organigramme ==
-[[File:Mago_-_Graph_découverte.png|100px]]
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Flow Chart ==
+[[File:Mago_Flow_Chart.png|100px]]
 &lt;br&gt;
+&lt;/div&gt;
 
-== Stratégie de mutation ==
-=== Formations possibles ===
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Mutation Strategy ==
+=== Possible Planting Formations ===
+&lt;/div&gt;
 
-Vous pouvez remplir votre ferme de la manière suivante pour obtenir des baies Mago. Les cases violettes indiquent où les mutations peuvent avoir lieu.
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+You can fill your farm in the following way to obtain Mago berries. Purple squares indicate where mutations can occur.
+&lt;/div&gt;
 
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
 {| class="wikitable" style="text-align: center;"
-|+ Formation&amp;nbsp;de&amp;nbsp;base 
+|+ Base Formation
 |- style="height: 50px;"
-| style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Pecha.png|30px]] [[Pecha/fr|Pêcha]]
+| style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Pecha.png|30px]] [[Pecha]]
 |- style="height: 50px;"
-| style="width: 40px;" | [[File:Pecha.png|30px]] [[Pecha/fr|Pêcha]] || [[File:Pecha.png|30px]] [[Pecha/fr|Pêcha]]
+| style="width: 40px;" | [[File:Pecha.png|30px]] [[Pecha]] || [[File:Pecha.png|30px]] [[Pecha]]
 |}
+&lt;/div&gt;
 
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
 {| class="wikitable" style="text-align: center;"
-|+ Formation de plantation optimisée
+|+ Optimized Planting Formation
 |- style="height: 50px;"
-| style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Pecha.png|30px]] [[Pecha/fr|Pêcha]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Pecha.png|30px]] [[Pecha/fr|Pêcha]]
+| style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Pecha.png|30px]] [[Pecha]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Pecha.png|30px]] [[Pecha]]
 |-
-| [[File:Pecha.png|30px]] [[Pecha/fr|Pêcha]] || [[File:Pecha.png|30px]] [[Pecha/fr|Pêcha]] || style="background-color:#9C7D98;" | || [[File:Pecha.png|30px]] [[Pecha/fr|Pêcha]] || [[File:Pecha.png|30px]] [[Pecha/fr|Pêcha]] 
+| [[File:Pecha.png|30px]] [[Pecha]] || [[File:Pecha.png|30px]] [[Pecha]] || style="background-color:#9C7D98;" | || [[File:Pecha.png|30px]] [[Pecha]] || [[File:Pecha.png|30px]] [[Pecha]] 
 |- style="height: 50px;"
 | style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | 
 |-
-| style="background-color:#9C7D98;" | || [[File:Pecha.png|30px]] [[Pecha/fr|Pêcha]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Pecha.png|30px]] [[Pecha/fr|Pêcha]] 
+| style="background-color:#9C7D98;" | || [[File:Pecha.png|30px]] [[Pecha]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Pecha.png|30px]] [[Pecha]] 
 |-
-| [[File:Pecha.png|30px]] [[Pecha/fr|Pêcha]] || [[File:Pecha.png|30px]] [[Pecha/fr|Pêcha]] || style="background-color:#9C7D98;" | || [[File:Pecha.png|30px]] [[Pecha/fr|Pêcha]] || [[File:Pecha.png|30px]] [[Pecha/fr|Pêcha]] 
+| [[File:Pecha.png|30px]] [[Pecha]] || [[File:Pecha.png|30px]] [[Pecha]] || style="background-color:#9C7D98;" | || [[File:Pecha.png|30px]] [[Pecha]] || [[File:Pecha.png|30px]] [[Pecha]] 
 |}
+&lt;/div&gt;
 
-==Utilisations==
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Uses==
 ===Mutations===
+&lt;/div&gt;
 
-Les baies Mago peuvent être utilisées pour faire muter les baies suivantes :
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Mago berries can be used to mutate the following berries.
+&lt;/div&gt;
 
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
 {| class="wikitable" | style="text-align: center;"
 |-
-! Utilisée pour !! Plantée avec
+! Used In !! With
 |-
-| [[File:Pomeg.png|20px]] [[Pomeg/fr|Grena]] || [[File:Iapapa.png|20px]] [[Iapapa/fr|Papaya]]
+| [[File:Pomeg.png|20px]] [[Pomeg]] || [[File:Iapapa.png|20px]] [[Iapapa]]
 |-
-| [[File:Qualot.png|20px]] [[Qualot/fr|Qualot]] || [[File:Pinap.png|20px]] [[Pinap/fr|Nanana]]
+| [[File:Qualot.png|20px]] [[Qualot]] || [[File:Pinap.png|20px]] [[Pinap]]
 |-
-| [[File:Magost.png|20px]] [[Magost/fr|Mangou]] || [[File:Pecha.png|20px]] [[Pecha/fr|Pêcha]] &lt;br&gt; [[File:Nanab.png|20px]] [[Nanab/fr|Nanab]]
+| [[File:Magost.png|20px]] [[Magost]] || [[File:Pecha.png|20px]] [[Pecha]] &lt;br&gt; [[File:Nanab.png|20px]] [[Nanab]]
 |-
-| [[File:Roseli.png|20px]] [[Roseli/fr|Selro]] || [[File:Nanab.png|20px]] [[Nanab/fr|Nanab]] &lt;br&gt; [[File:Magost.png|20px]] [[Magost/fr|Mangou]] &lt;br&gt; [[File:Watmel.png|20px]] [[Watmel/fr|Stekpa]]
+| [[File:Roseli.png|20px]] [[Roseli]] || [[File:Nanab.png|20px]] [[Nanab]] &lt;br&gt; [[File:Magost.png|20px]] [[Magost]] &lt;br&gt; [[File:Watmel.png|20px]] [[Watmel]]
 |-
 |}
+&lt;/div&gt;
 
 &lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
 ==Acquisition==
 ===Dungeons===
 {{Loot/head‎|Berries}}
+{{LootItem|Pattern Bush|Epic}}
+{{LootItem|Pinkan Mountain|Common}}
 {{LootItem|Radio Tower|Epic}}
 {{LootItem|Flower Paradise|Common}}
 {{LootItem|Relic Castle|Common}}
@@ -112,18 +138,24 @@ Les baies Mago peuvent être utilisées pour faire muter les baies suivantes :
 |}
 &lt;/div&gt;
 
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
 &lt;br&gt;
+&lt;/div&gt;
 
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
 {{Berries}}
+&lt;/div&gt;
 
-[[Category:Farm]][[Category:Berries]]</text>
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
     <contributor>
-      <username>LuK</username>
-      <id>96</id>
+      <username>FuzzyBot</username>
+      <id>133</id>
     </contributor>
-    <comment></comment>
+    <comment>Updating to match new version of source page</comment>
     <model>wikitext</model>
-    <parentid>22835</parentid>
-    <sha1>cd3376510da04796d06f8caf2320980625c1cdc7</sha1>
+    <parentid>22836</parentid>
+    <sha1>231cd771b91195641888e828fde732f26a67f168</sha1>
   </revision>
 </page></mediawiki>

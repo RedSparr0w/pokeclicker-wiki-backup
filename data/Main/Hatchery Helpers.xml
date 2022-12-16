@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>4123</id>
   <revision>
-    <id>30873</id>
-    <timestamp>2022-12-05T14:27:05Z</timestamp>
-    <text space="preserve" bytes="6176">&lt;languages/&gt;
+    <id>34974</id>
+    <timestamp>2022-12-15T20:23:01Z</timestamp>
+    <text space="preserve" bytes="6179">&lt;languages/&gt;
 &lt;translate&gt;
 &lt;!--T:1--&gt;
 '''Hatchery Helpers''' are people that can be hired to work on your [[Pokémon Day Care]] to automate the Hatchery. Many can be unlocked by fulfilling certain requisites, while others can be purchased from certain [[Shops]]. Once hired, a Hatchery Helper will work until they are fired or you do not have the necessary funds to continue to employ them. This feature is currently in beta, and is subject to change.
@@ -48,7 +48,7 @@ Clicking on "Sort" opens a dropdown that allows you to select the order in which
 
 &lt;!--T:6--&gt;
 == Stats ==
-Hatchery Helpers have 3 important stats: '''Cost, Step Efficiency and Attack Efficiency''' (see below).  At this time, Hatchery Helpers don't Cost you anything when there are no eggs to hatch.  Each individual Hatchery Helper gains Step Efficiency and Attack Efficiency the more Pokemon that they hatch, up to a limit of 50% bonus in each stat.  As an example, Hatchery Helper Sam can thus have up to 60% Step Efficiency and 60% Attack Efficiency.  Maxing out a Hatchery Helpers stats takes 125,000 Pokemon Hatched by that helper.
+Hatchery Helpers have 3 important stats: '''Cost, Step Efficiency and Attack Efficiency''' (see below).  At this time, Hatchery Helpers don't Cost you anything when there are no eggs to hatch.  Each individual Hatchery Helper gains Step Efficiency and Attack Efficiency the more Pokémon that they hatch, up to a limit of 50% bonus in each stat.  As an example, Hatchery Helper Sam can thus have up to 60% Step Efficiency and 60% Attack Efficiency.  Maxing out a Hatchery Helpers stats takes 125,000 Pokémon Hatched by that helper.
 
 &lt;!--T:7--&gt;
 {| class="wikitable" style="text-align: center;"
@@ -59,7 +59,7 @@ Hatchery Helpers have 3 important stats: '''Cost, Step Efficiency and Attack Eff
 |-
 | '''Step Efficiency''' || How much of the egg steps it will use ||  If the Hatchery helper has 50% step efficiency, they will use on the egg half of the egg steps you gain.
 |-
-| '''Attack Efficiency''' || How much of the attack you pokemon will gain || If the Hatchery helper has 50% attack efficiency, when the egg hatch it will gain half of the attack it should get.
+| '''Attack Efficiency''' || How much of the attack you Pokémon will gain || If the Hatchery helper has 50% attack efficiency, when the egg hatch it will gain half of the attack it should get.
 |-
 |}
 
@@ -131,12 +131,12 @@ Hatchery Helpers have 3 important stats: '''Cost, Step Efficiency and Attack Eff
 __NOTOC__
 &lt;/translate&gt;</text>
     <contributor>
-      <username>DraKay</username>
-      <id>18</id>
+      <username>ThePantMan</username>
+      <id>8</id>
     </contributor>
-    <comment>Marked this version for translation</comment>
+    <comment>Text replacement - " Pokemon" to " Pokémon"</comment>
     <model>wikitext</model>
-    <parentid>30058</parentid>
-    <sha1>069dceeebe6cb21b11a7c72b3acdf66b64f9f3c3</sha1>
+    <parentid>34949</parentid>
+    <sha1>74ab34dfc26188b83d9dcde41dd749d3b43698de</sha1>
   </revision>
 </page></mediawiki>

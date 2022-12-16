@@ -1,15 +1,16 @@
 <mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
 <page>
   <title>Translations:Iapapa/13/en</title>
-  <ns>0</ns>
-  <id>5828</id>
+  <ns>1198</ns>
+  <id>12766</id>
   <revision>
-    <id>18645</id>
-    <timestamp>2022-07-29T07:58:57Z</timestamp>
-    <text space="preserve" bytes="158">==Acquisition==
+    <id>35430</id>
+    <timestamp>2022-12-15T21:42:52Z</timestamp>
+    <text space="preserve" bytes="189">==Acquisition==
 ===Dungeons===
 {{Loot/head‎|Berries}}
 {{LootItem|Berry Forest|Epic}}
+{{LootItem|Pattern Bush|Epic}}
 {{LootItem|Radio Tower|Epic}}
 {{LootItem|Lostlorn Forest|Common}}
 |}
@@ -21,6 +22,6 @@
     <comment>Importing a new version from external source</comment>
     <model>wikitext</model>
     <parentid>0</parentid>
-    <sha1>0ff15ec408f4a76dbd09e2c0d6f071664b573843</sha1>
+    <sha1>755fb89a4af9fcead759b24012c83cdf2d605ae8</sha1>
   </revision>
 </page></mediawiki>

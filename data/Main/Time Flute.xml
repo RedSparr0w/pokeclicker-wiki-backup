@@ -4,10 +4,11 @@
   <ns>0</ns>
   <id>4093</id>
   <revision>
-    <id>34777</id>
-    <timestamp>2022-12-15T01:29:56Z</timestamp>
-    <text space="preserve" bytes="1232">&lt;languages/&gt;
+    <id>35904</id>
+    <timestamp>2022-12-15T21:48:35Z</timestamp>
+    <text space="preserve" bytes="1320">&lt;languages/&gt;
 &lt;translate&gt;
+&lt;!--T:1--&gt;
 {{Infobox battle item
 |name       = Time Flute
 |image      = [[File:Time Flute.png]]
@@ -17,16 +18,19 @@
 *[[Time Flute#Shops|Fallarbor Town Gem Master]]
 }}
 
-== Description ==
+== Description == &lt;!--T:2--&gt;
 
+&lt;!--T:3--&gt;
 The '''Time Flute''' is a type of [[Flutes|Flute]]. By using Ground, Poison, and Steel Gems the Time Flute increases the player's Gym and Dungeon Timers.
 
-== Details ==
+== Details == &lt;!--T:4--&gt;
 
+&lt;!--T:5--&gt;
 Time Flute increases the player's Gym and Dungeon Timers by a base 2%.  The Base effect is multiplied by the players Achievement Bonus, to a current maximum of 22%, with an achievement bonus of 1000%.  Costs a variable amount of Ground, Poison, and Steel Gems when active, cost based on how many total Flutes are active.
 
-== Acquisition ==
+== Acquisition == &lt;!--T:6--&gt;
 
+&lt;!--T:7--&gt;
 ===Shops===
 {{ItemPrice/head‎|Battle items}}
 {{ItemPrice|[[Shops#Fallarbor Town Gem Master|Fallarbor Town Gem Master]]|
@@ -35,17 +39,18 @@ Time Flute increases the player's Gym and Dungeon Timers by a base 2%.  The Base
 |}
 
 
+&lt;!--T:8--&gt;
 __NOTOC__
 {{Battle items}}&lt;br&gt;
 [[Category:Flutes]] [[Category:Items]]
 &lt;/translate&gt;</text>
     <contributor>
-      <username>ThePantMan</username>
-      <id>8</id>
+      <username>DraKay</username>
+      <id>18</id>
     </contributor>
-    <comment>/* Maximum boost */</comment>
+    <comment>Marked this version for translation</comment>
     <model>wikitext</model>
-    <parentid>14957</parentid>
-    <sha1>12f549628537b2a2c5ec3fa8b777fc39bfebb2a1</sha1>
+    <parentid>34777</parentid>
+    <sha1>c28aebc1151f84b1540a9fd441ef98925f36acfb</sha1>
   </revision>
 </page></mediawiki>

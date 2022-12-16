@@ -4,48 +4,58 @@
   <ns>0</ns>
   <id>4642</id>
   <revision>
-    <id>16185</id>
-    <timestamp>2022-08-20T10:11:15Z</timestamp>
-    <text space="preserve" bytes="1404">&lt;languages/&gt;
+    <id>35168</id>
+    <timestamp>2022-12-15T21:38:12Z</timestamp>
+    <text space="preserve" bytes="1497">&lt;languages/&gt;
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
 {{Infobox Oak Item
-|name       = Module Pyro
+|name       = Blaze Cassette
 |image      = [[File:Bag_Blaze_Cassette_Sprite.png]]
-|caption    = Dessin du ''Module Pyro''.
+|caption    = Artwork of the ''Blaze Cassette''.
 |dex = 80
-|effect     = Accélère l'éclosion des œufs
+|effect     = Hatch eggs faster
 }}
+&lt;/div&gt;
 
-Le '''Module Pyro''' est un [[Oak Items/fr|Objet de Chen]]. Equipé, il accélère le processus d'[[Pokemon Day Care/fr|éclosion]] des [[Egg/fr|œufs]]. Le Module Pyro est débloqué après avoir capturé 80 espèces différentes de Pokémon.
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+The '''Blaze Cassette''' is a type of [[Oak Items|Oak Item]]. When equipped, it speeds up the process of [[Pokémon Day Care|hatching]] [[Egg|eggs]]. The Blaze Cassette is unlocked after catching 80 unique Pokémon.
+&lt;/div&gt;
 
-== Détails ==
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Details ==
+&lt;/div&gt;
 
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
 {| class="wikitable sortable"
 |-
-! Niveau !! Effet !! Critère d'amélioration !! Coût d'amélioration
+! Level !! Effect !! Upgrade Requirement !! Upgrade Cost
 |-
-|0 || Vitesse d'éclosion des œufs X 1,5 || 50 œufs éclos || style="text-align:right" | 50 000 {{pdollar}}
+|0 || x1.5 Eggs Hatching Speed || 50 Eggs Hatched || style="text-align:right" | 50,000 {{pdollar}}
 |-
-|1 || Vitesse d'éclosion des œufs X 1,6 || 50 œufs éclos || style="text-align:right" | 100 000 {{pdollar}}
+|1 || x1.6 Eggs Hatching Speed || 50 Eggs Hatched || style="text-align:right" | 100,000 {{pdollar}}
 |-
-|2 || Vitesse d'éclosion des œufs X 1,7 || 150 œufs éclos || style="text-align:right" | 250 000 {{pdollar}}
+|2 || x1.7 Eggs Hatching Speed || 150 Eggs Hatched || style="text-align:right" | 250,000 {{pdollar}}
 |-
-|3 || Vitesse d'éclosion des œufs X 1,8 || 250 œufs éclos || style="text-align:right" | 500 000 {{pdollar}}
+|3 || x1.8 Eggs Hatching Speed || 250 Eggs Hatched || style="text-align:right" | 500,000 {{pdollar}}
 |-
-|4 || Vitesse d'éclosion des œufs X 1,9 || 500 œufs éclos || style="text-align:right" | 1 000 000 {{pdollar}}
+|4 || x1.9 Eggs Hatching Speed || 500 Eggs Hatched || style="text-align:right" | 1,000,000 {{pdollar}}
 |-
-|5/Max || Vitesse d'éclosion des œufs X 2 || N/A || style="text-align:right" | N/A
+|5/Max || x2.0 Eggs Hatching Speed || N/A || style="text-align:right" | N/A
 |-
 |}
+&lt;/div&gt;
 
-&lt;br&gt;{{Oak items|Objets de Chen}}&lt;br&gt;
-[[Category:Oak Items|Catégorie:Objets de Chen]] [[Category:Items|Catégorie:Objets]] [[Category:Eggs|Catégorie:Oeufs]]</text>
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;{{Oak items}}&lt;br&gt;
+[[Category:Oak Items]] [[Category:Items]] [[Category:Eggs]]
+&lt;/div&gt;</text>
     <contributor>
-      <username>PetroleVB</username>
-      <id>36</id>
+      <username>FuzzyBot</username>
+      <id>133</id>
     </contributor>
-    <comment></comment>
+    <comment>Updating to match new version of source page</comment>
     <model>wikitext</model>
-    <parentid>16184</parentid>
-    <sha1>54833b3056b9c9a261dadbc6c294aaa8039a849b</sha1>
+    <parentid>35038</parentid>
+    <sha1>6b96509261f536c9914cfdc4f94ae33ae25b524a</sha1>
   </revision>
 </page></mediawiki>

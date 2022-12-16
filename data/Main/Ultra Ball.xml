@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>199</id>
   <revision>
-    <id>34647</id>
-    <timestamp>2022-12-14T03:53:13Z</timestamp>
-    <text space="preserve" bytes="7546">&lt;languages/&gt;
+    <id>35971</id>
+    <timestamp>2022-12-15T21:49:13Z</timestamp>
+    <text space="preserve" bytes="7548">&lt;languages/&gt;
 &lt;translate&gt;
 
 &lt;!--T:1--&gt;
@@ -26,14 +26,17 @@
 *[[Shops#Battle Frontier|Battle Frontier]]
 }}
 
-==Description== &lt;!--T:2--&gt;
+&lt;!--T:2--&gt;
+==Description==
 The '''Ultra Ball''' is a type of [[Poké Balls|Poké Ball]]. It automatically tries to catch a wild Pokémon after defeating it if is the highest type of Poké Ball active and there is a remaining supply in the Poké Ball selector.
 
 
-==Details== &lt;!--T:3--&gt;
+&lt;!--T:3--&gt;
+==Details==
 An excellent Poké Ball to capture Pokémon with, it provides a +10% catch rate bonus and catches Pokémon in 0.75 seconds.
 
-== Acquisition == &lt;!--T:4--&gt;
+&lt;!--T:4--&gt;
+== Acquisition ==
 ===Shops===
 {{ItemPrice/head‎|Pokéballs}}
 {{ItemPrice|[[Shops#Kanto: Locations &amp; Items|Fuschia City]]|2,000 {{pdollar}}}}
@@ -97,12 +100,13 @@ An excellent Poké Ball to capture Pokémon with, it provides a +10% catch rate 
 |}
 |}
 
-===Dungeons=== &lt;!--T:6--&gt;
+&lt;!--T:6--&gt;
+===Dungeons===
 {{Loot/head‎|Pokéballs}}
-{{LootItem|Pokemon Tower|Mythic}}
+{{LootItem|Pokémon Tower|Mythic}}
 {{LootItem|Silph Co|Mythic}}
 {{LootItem|Seafoam Islands|Mythic}}
-{{LootItem|Pokemon Mansion|Legendary}}
+{{LootItem|Pokémon Mansion|Legendary}}
 {{LootItem|Mt. Ember Summit|Legendary}}
 {{LootItem|Victory Road|Legendary}}
 {{LootItem|Cerulean Cave|Legendary}}
@@ -155,12 +159,12 @@ An excellent Poké Ball to capture Pokémon with, it provides a +10% catch rate 
 [[Category:Items]] [[Category:Poké Balls]]
 &lt;/translate&gt;</text>
     <contributor>
-      <username>ThePantMan</username>
-      <id>8</id>
+      <username>DraKay</username>
+      <id>18</id>
     </contributor>
-    <comment>Text replacement - "Pokéball Factory" to "Poké Ball Factory"</comment>
+    <comment>Marked this version for translation</comment>
     <model>wikitext</model>
-    <parentid>34612</parentid>
-    <sha1>12abf101b933653ef11324b5879d69db56c1bbc2</sha1>
+    <parentid>35097</parentid>
+    <sha1>b7fb7526c43434b39ca243fe0a14c7186f14b1b1</sha1>
   </revision>
 </page></mediawiki>

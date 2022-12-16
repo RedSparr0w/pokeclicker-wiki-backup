@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>10122</id>
   <revision>
-    <id>34453</id>
-    <timestamp>2022-12-13T17:56:36Z</timestamp>
-    <text space="preserve" bytes="2254">{{Infobox dungeon
+    <id>36091</id>
+    <timestamp>2022-12-15T22:39:00Z</timestamp>
+    <text space="preserve" bytes="2281">{{Infobox dungeon
 |name    = Iceberg Ruins
 |image   = [[File:Iceberg Ruins.png|thumb]]
 |caption = A map of Iceberg Ruins.
@@ -25,21 +25,21 @@
 |-
 ! Encounter !! Trainer !! Pokémon Team
 |-
-| {{Pokemon|Cryogonal}} || colspan=2 rowspan=8| &lt;center&gt; N/A
+| {{Pokemon|Cryogonal|40}} || colspan=2 rowspan=8| &lt;center&gt; N/A
 |-
-| {{Pokemon|Beartic}}
+| {{Pokemon|Beartic|40}}
 |-
-| {{Pokemon|Galarian Darumaka}}
+| {{Pokemon|Galarian Darumaka|40}}
 |-
-| {{Pokemon|Weavile}}
+| {{Pokemon|Weavile|40}}
 |-
-| {{Pokemon|Vanilluxe}}
+| {{Pokemon|Vanilluxe|40}}
 |-
-| {{Pokemon|Froslass}}
+| {{Pokemon|Froslass|40}}
 |-
-| {{Pokemon|Delibird}}
+| {{Pokemon|Delibird|40}}
 |-
-| '''{{Pokemon|Aurorus}}*'''
+| '''{{Pokemon|Aurorus|40}}*'''
 |}
 
 '''*Note:''' Aurorus will only appear if the player has captured it previously.
@@ -69,7 +69,7 @@
 |-
 | {{Bag2|Lucky Incense}} || 3 || 32.46% || 31.43% || 29.83% || 27.08%
 |-
-| {{Pokemon|Cryogonal|Mimic=Mimic}} || 1 || 10.82% || 10.48% || 9.94% || 9.03%
+| {{Pokemon|Cryogonal|40|Mimic=Mimic}} || 1 || 10.82% || 10.48% || 9.94% || 9.03%
 |-
 | align="center" colspan=6| '''Rare'''
 |-
@@ -95,7 +95,7 @@
     </contributor>
     <comment></comment>
     <model>wikitext</model>
-    <parentid>33427</parentid>
-    <sha1>57f5b9f68d8d4a94eeed7571029d8043296a67c4</sha1>
+    <parentid>34453</parentid>
+    <sha1>37036e89d8b27740742326829423ccd149fb9b9e</sha1>
   </revision>
 </page></mediawiki>

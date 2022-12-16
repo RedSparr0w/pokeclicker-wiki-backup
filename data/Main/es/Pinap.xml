@@ -4,133 +4,160 @@
   <ns>0</ns>
   <id>7468</id>
   <revision>
-    <id>21383</id>
-    <timestamp>2022-08-01T21:37:31Z</timestamp>
-    <text space="preserve" bytes="4598">&lt;languages/&gt;
+    <id>35689</id>
+    <timestamp>2022-12-15T21:46:09Z</timestamp>
+    <text space="preserve" bytes="4879">&lt;languages/&gt;
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
 {{Infobox Berry
-|name    = #14 Pinia (Pinap)
+|name    = #14 Pinap
 |image   = [[File:Pinap.png]]
-|caption = Tiene una piel ácida y dicen que, si se pela, se puede reducir a polvo para elaborar una medicina.
+|caption = It is said that when the sour skin is peeled, this spicy Berry can be crushed to make medicine.
 |growtime  = 4m 0s
-|harvest = 13 bayas
+|harvest = 13 berries
 |replant = 40%
 |mutation = 1.5%
 |points = 35
 |flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
-*10 picante
-*0 seco
-*0 dulce
-*0 amargo
-*10 ácido
+*10 spicy 
+*0 dry
+*0 sweet
+*0 bitter
+*10 sour
 }}
+&lt;/div&gt;
 
-'''Pinia (Pinap)''' es un tipo de [[Berries|baya]] que puede ser plantada en la [[Farm|granja]]. Se puede obtener rodeando una parcela vacía con al menos 1 baya [[Sitrus|Zidra (Sitrus)]] y al menos 1 baya [[Aspear|Perasi (Aspear)]].
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+'''Pinap''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by surrounding an empty plot with at least 1 [[Sitrus]] and at least 1 [[Aspear]].
+&lt;/div&gt;
 
-== Tablas de Crecimiento ==
-=== Estados de Crecimiento ===
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Growth Tables ==
+=== Growth Stages ===
 {| class="wikitable" | style = "image-rendering: pixelated"
-!!! Brote !! Crecimiento !! Floración !! Madurez
+!!! Sprout !! Taller !! Bloom !! Berry
 |-
-! Tiempo pasado desde que se planta
-| 30 seg || 1 min || 3 mins || 4 mins - 8 mins
+! Time passed since planting
+| 30 secs || 1 min || 3 mins || 4 mins - 8 mins
 |-
-! Animación
+! Animation
 | &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:PinapTreeTaller.png|50px]] || &lt;center&gt;[[File:PinapTreeBloom.png|50px]] || &lt;center&gt; [[File:PinapTreeBerry.png|50px]]
 |}
+&lt;/div&gt;
 
-=== Tiempos de Maduración con modificadores ===
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+=== Ripening Time with Modifiers ===
 {| class="wikitable" | style="text-align: center;"
-! Modificador !! Tiempo hasta la madurez-marchitado
+! Modifier !! Ripe-Wither Time
 |-
-! Ninguno
-| 4 min -&lt;br&gt; 8 min
+! None
+| 4 mins -&lt;br&gt; 8 mins
 |-
-! Psydugadera
-| 2 min 40 seg -&lt;br&gt; 5 min 20 seg
+! Sprayduck
+| 2 mins 40 secs -&lt;br&gt; 5 mins 20 secs
 |}
+&lt;/div&gt;
 
-== Diagrama de Flujo ==
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Flow Chart ==
 [[File:Pinap_Flow_Chart.png|200px]]
 &lt;br&gt;
-'''Leyenda:'''&lt;br&gt;
-· Random Drop: Obtenido aleatoriamente en ruta
+&lt;/div&gt;
 
-== Estrategia de mutación ==
-=== Posibles formaciones ===
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Mutation Strategy ==
+=== Possible Planting Formations ===
+&lt;/div&gt;
 
-Puedes llenar tu granja del siguiente modo para obtener bayas Pinia (Pinap). Los cuadrados morados indican dónde pueden ocurrir las mutaciones.
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+You can fill your farm in the following way to obtain Pinap berries. Purple squares indicate where mutations can occur.
+&lt;/div&gt;
 
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
 {| class="wikitable" style="text-align: center;"
-|+ Formación base
+|+ Base Formation
 |- style="height: 50px;"
-| style="width: 40px;" | [[File:Sitrus.png|30px]] [[Sitrus|Zidra (Sitrus)]] || style="width: 40px; background-color:#9C7D98;" | 
+| style="width: 40px;" | [[File:Sitrus.png|30px]] [[Sitrus]] || style="width: 40px; background-color:#9C7D98;" | 
 |-
-| style="background-color:#9C7D98;" | || [[File:Aspear.png|30px]] [[Aspear|Perasi (Aspear)]]
+| style="background-color:#9C7D98;" | || [[File:Aspear.png|30px]] [[Aspear]]
 |}
+&lt;/div&gt;
 
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
 {| class="wikitable" style="text-align: center;"
-|+ Formación óptima
+|+ Optimized Planting Formation
 |- style="height: 50px;"
-| style="width: 40px;" | [[File:Sitrus.png|30px]] [[Sitrus|Zidra (Sitrus)]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Sitrus.png|30px]] [[Sitrus|Zidra (Sitrus)]] || style="width: 40px; background-color:#9C7D98;" |
+| style="width: 40px;" | [[File:Sitrus.png|30px]] [[Sitrus]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Sitrus.png|30px]] [[Sitrus]] || style="width: 40px; background-color:#9C7D98;" |
 |-
-| style="background-color:#9C7D98;" | || [[File:Aspear.png|30px]] [[Aspear|Perasi (Aspear)]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Aspear.png|30px]] [[Aspear|Perasi (Aspear)]] 
+| style="background-color:#9C7D98;" | || [[File:Aspear.png|30px]] [[Aspear]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Aspear.png|30px]] [[Aspear]] 
 |- style="height: 50px;"
 | style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | 
 |-
-| [[File:Sitrus.png|30px]] [[Sitrus|Zidra (Sitrus)]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Sitrus.png|30px]] [[Sitrus|Zidra (Sitrus)]] || style="background-color:#9C7D98;" | 
+| [[File:Sitrus.png|30px]] [[Sitrus]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Sitrus.png|30px]] [[Sitrus]] || style="background-color:#9C7D98;" | 
 |-
-| style="background-color:#9C7D98;" | || [[File:Aspear.png|30px]] [[Aspear|Perasi (Aspear)]] ||  style="background-color:#9C7D98;" | ||  style="background-color:#9C7D98;" | || [[File:Aspear.png|30px]] [[Aspear|Perasi (Aspear)]] 
+| style="background-color:#9C7D98;" | || [[File:Aspear.png|30px]] [[Aspear]] ||  style="background-color:#9C7D98;" | ||  style="background-color:#9C7D98;" | || [[File:Aspear.png|30px]] [[Aspear]] 
 |}
+&lt;/div&gt;
 
-=== Tabla de Tiempos ===
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+=== Timing Table ===
 {| class="wikitable" | style="text-align: center;"
-|+ ''Todos los tiempos de plantado usan el tiempo hasta la madurez de la primera baya plantada para las siguientes''
-! Baya !! Tiempo de plantado &lt;br&gt; Sin modificador !! Tiempo de plantado &lt;br&gt; Abono o Psydugadera || Tiempo de plantado &lt;br&gt;  Abono y Psydugadera
+|+ ''All planting times use the time-to-ripe remaining of the first planted berry for subsequent planting times''
+! Berry !! Planting Time with &lt;br&gt; No Modifier !! Planting Time with &lt;br&gt; Mulch or Sprayduck || Planting Time with &lt;br&gt;  Mulch &amp; Sprayduck
 |-
-| [[Sitrus|Zidra (Sitrus)]] || - || - || -
+| [[Sitrus]] || - || - || -
 |-
-| [[Aspear|Perasi (Aspear)]] || 2 min hasta la madurez || 1 min 20 seg || No tiene sentido
+| [[Aspear]] || 2 mins until ripe || 1 min 20 secs || Not Practical
 |-
 |}
+&lt;/div&gt;
 
-==Usos==
-===Mutaciones===
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Uses==
+===Mutations===
+&lt;/div&gt;
 
-Las bayas Pinia (Pinap) pueden usarse para mutar las siguientes bayas.
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Pinap berries can be used to mutate the following berries.
+&lt;/div&gt;
 
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
 {| class="wikitable" | style="text-align: center;"
 |-
-! Se usa para !! Junto a
+! Used In !! With
 |-
-| [[File:Qualot.png|20px]] [[Qualot|Ispero (Qualot)]] || [[File:Mago.png|20px]] [[Mago|Ango (Mago)]]
+| [[File:Qualot.png|20px]] [[Qualot]] || [[File:Mago.png|20px]] [[Mago]]
 |-
-| [[File:Nomel.png|20px]] [[Nomel|Monli (Nomel)]] || -
+| [[File:Nomel.png|20px]] [[Nomel]] || -
 |-
-| [[File:Wacan.png|20px]] [[Wacan|Gualot (Wacan)]] || [[File:Iapapa.png|20px]] [[Iapapa|Pabaya (Iapapa)]] &lt;br&gt; [[File:Qualot.png|20px]] [[Qualot|Ispero (Qualot)]] &lt;br&gt; [[File:Grepa.png|20px]] [[Grepa|Uvav (Grepa)]]
+| [[File:Wacan.png|20px]] [[Wacan]] || [[File:Iapapa.png|20px]] [[Iapapa]] &lt;br&gt; [[File:Qualot.png|20px]] [[Qualot]] &lt;br&gt; [[File:Grepa.png|20px]] [[Grepa]]
 |-
 |}
+&lt;/div&gt;
 
-==Adquisición==
-===Mazmorras===
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Acquisition==
+===Dungeons===
 {{Loot/head‎|Berries}}
-{{LootItem|Radio Tower|Épico}}
-{{LootItem|Magma Hideout|Común}}
-{{LootItem|Dragonspiral Tower|Común}}
+{{LootItem|Pattern Bush|Epic}}
+{{LootItem|Radio Tower|Epic}}
+{{LootItem|Magma Hideout|Common}}
+{{LootItem|Dragonspiral Tower|Common}}
 |}
 |}
-
 &lt;br&gt;
+&lt;/div&gt;
 
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
 {{Berries}}
-
-[[Category:Farm|Categoría:Granja]][[Category:Berries|Categoría:Bayas]]</text>
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
     <contributor>
-      <username>Cthulhu Follower</username>
-      <id>51</id>
+      <username>FuzzyBot</username>
+      <id>133</id>
     </contributor>
-    <comment>Created page with "==Adquisición== ===Mazmorras=== {{Loot/head‎|Berries}} {{LootItem|Radio Tower|Épico}} {{LootItem|Magma Hideout|Común}} {{LootItem|Dragonspiral Tower|Común}} |} |}"</comment>
+    <comment>Updating to match new version of source page</comment>
     <model>wikitext</model>
-    <parentid>21382</parentid>
-    <sha1>0df856398658c7ec35440917b05d8c4255fadd44</sha1>
+    <parentid>21383</parentid>
+    <sha1>415211e75b524b87bb540c4e5ae12b6a57e62133</sha1>
   </revision>
 </page></mediawiki>

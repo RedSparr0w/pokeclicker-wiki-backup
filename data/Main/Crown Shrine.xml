@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>10169</id>
   <revision>
-    <id>33456</id>
-    <timestamp>2022-12-11T23:18:34Z</timestamp>
-    <text space="preserve" bytes="2443">{{Infobox dungeon
+    <id>36086</id>
+    <timestamp>2022-12-15T22:36:18Z</timestamp>
+    <text space="preserve" bytes="2479">{{Infobox dungeon
 |name    = Crown Shrine
 |image   = [[File:Crown Shrine.png|thumb]]
 |caption = A map of Crown Shrine.
@@ -25,17 +25,17 @@
 |-
 ! Encounter !! Trainer !! Pokémon Team
 |-
-| {{Pokemon|Dhelmise}} || rowspan=6 colspan=2|&lt;center&gt;N/A
+| {{Pokemon|Dhelmise|40}} || rowspan=6 colspan=2|&lt;center&gt;N/A
 |-
-| {{Pokemon|Hatterene}}
+| {{Pokemon|Hatterene|40}}
 |-
-| {{Pokemon|Reuniclus}}
+| {{Pokemon|Reuniclus|40}}
 |-
-| {{Pokemon|Mr. Rime}}
+| {{Pokemon|Mr. Rime|40}}
 |-
-| {{Pokemon|Mamoswine}}
+| {{Pokemon|Mamoswine|40}}
 |-
-| {{Pokemon|Roserade}}
+| {{Pokemon|Roserade|40}}
 |}
 
 ===Boss Encounters===
@@ -43,15 +43,15 @@
 |-
 ! Wild Pokémon !! Base Health !! Boss Trainer !! Pokémon Team !! Base Health
 |-
-| {{Pokemon|Galarian Rapidash}}|| rowspan=4|&lt;center&gt;161,099,869 || rowspan=5 colspan=3|&lt;center&gt;N/A
+| {{Pokemon|Galarian Rapidash|40}}|| rowspan=4|&lt;center&gt;161,099,869 || rowspan=5 colspan=3|&lt;center&gt;N/A
 |-
-| {{Pokemon|Abomasnow}}
+| {{Pokemon|Abomasnow|40}}
 |-
-| {{Pokemon|Trevenant}}
+| {{Pokemon|Trevenant|40}}
 |-
-| {{Pokemon|Weavile}}
+| {{Pokemon|Weavile|40}}
 |-
-| '''{{Pokemon|Calyrex}}'''* || &lt;center&gt;169,578,810
+| '''{{Pokemon|Calyrex|40}}'''* || &lt;center&gt;169,578,810
 |}
 
 '''*Note:''' Must have made progress in [[Questlines#The_Crown_of_Galar|The Crown of Galar]] Questline to unlock.
@@ -91,7 +91,7 @@
 |-
 | {{Bag2|Heart Scale}} || 2 || 0.01% || 0.15% || 0.36% || 0.71%
 |-
-| {{Pokemon|Galarian Darmanitan (Zen)|Mimic=Mimic}} || 1 || &lt;0.01% || 0.07% || 0.18% || 0.35%
+| {{Pokemon|Galarian Darmanitan (Zen)|40|Mimic=Mimic}} || 1 || &lt;0.01% || 0.07% || 0.18% || 0.35%
 |}
 &lt;/tab&gt;
 &lt;/tabs&gt;
@@ -104,7 +104,7 @@
     </contributor>
     <comment></comment>
     <model>wikitext</model>
-    <parentid>33405</parentid>
-    <sha1>b27cd6d3ad22d668d01cb16b205b21e2e09a7ef2</sha1>
+    <parentid>33456</parentid>
+    <sha1>9b022db6e5f39f2b5f3c13821f4ef140a3e6a758</sha1>
   </revision>
 </page></mediawiki>

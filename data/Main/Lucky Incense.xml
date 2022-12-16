@@ -4,10 +4,11 @@
   <ns>0</ns>
   <id>108</id>
   <revision>
-    <id>34670</id>
-    <timestamp>2022-12-14T04:47:33Z</timestamp>
-    <text space="preserve" bytes="3448">&lt;languages/&gt;
+    <id>35465</id>
+    <timestamp>2022-12-15T21:43:22Z</timestamp>
+    <text space="preserve" bytes="3536">&lt;languages/&gt;
 &lt;translate&gt;
+&lt;!--T:1--&gt;
 {{Infobox battle item
 |name       = Lucky Incense
 |image      = [[File:Bag_Lucky_Incense_Sprite.png]]
@@ -18,13 +19,16 @@
 *[[Lucky Incense#Dungeons|Dungeons]]
 }}
 
-== Description ==
+== Description == &lt;!--T:2--&gt;
 
+&lt;!--T:3--&gt;
 The '''Lucky Incense''' is a type of battle item. It temporarily boosts the player's money gained by 50% for 30 seconds.
 
+&lt;!--T:4--&gt;
 == Details ==
 +50% Bonus to money gained.
 
+&lt;!--T:5--&gt;
 == Acquisition ==
 ===Shops===
 {{ItemPrice/head‎|Battle items}}
@@ -48,6 +52,7 @@ The '''Lucky Incense''' is a type of battle item. It temporarily boosts the play
 |}
 |}
 
+&lt;!--T:6--&gt;
 ===Dungeons===
 {{Loot/head‎|Battle items}}
 {{LootItem|Digletts Cave|Common}}
@@ -88,20 +93,22 @@ The '''Lucky Incense''' is a type of battle item. It temporarily boosts the play
 |}
 |}
 
+&lt;!--T:7--&gt;
 == Trivia ==
 The Lucky Incense shares its name, design and function with the official Lucky Incense from the Pokémon franchise. 
 
+&lt;!--T:8--&gt;
 __NOTOC__
 {{Battle items}}&lt;br&gt;
 [[Category:Items]] [[Category: Battle Items]]
 &lt;/translate&gt;</text>
     <contributor>
-      <username>ThePantMan</username>
-      <id>8</id>
+      <username>DraKay</username>
+      <id>18</id>
     </contributor>
-    <comment>/* Galar */</comment>
+    <comment>Marked this version for translation</comment>
     <model>wikitext</model>
-    <parentid>989</parentid>
-    <sha1>a2943a00a0905ce239e13a52a55cff9836704547</sha1>
+    <parentid>34670</parentid>
+    <sha1>68aaa484a649038c7de879084410d3afae72f665</sha1>
   </revision>
 </page></mediawiki>

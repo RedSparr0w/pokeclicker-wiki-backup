@@ -4,8 +4,8 @@
   <ns>0</ns>
   <id>533</id>
   <revision>
-    <id>34688</id>
-    <timestamp>2022-12-14T05:03:14Z</timestamp>
+    <id>36001</id>
+    <timestamp>2022-12-15T21:49:34Z</timestamp>
     <text space="preserve" bytes="3857">&lt;languages/&gt;
 &lt;translate&gt;
 &lt;!--T:1--&gt;
@@ -29,7 +29,8 @@
 &lt;!--T:2--&gt;
 '''Wepear''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by surrounding an empty plot with at least 1 [[Rawst]] and at least 1 [[Oran]].
 
-== Growth Tables == &lt;!--T:3--&gt;
+&lt;!--T:3--&gt;
+== Growth Tables ==
 === Growth Stages ===
 {| class="wikitable" | style = "image-rendering: pixelated"
 |+ Growth Stages
@@ -42,7 +43,8 @@
 | &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:WepearTreeTaller.png|50px]] || &lt;center&gt; [[File:WepearTreeBloom.png|50px]] || &lt;center&gt; [[File:WepearTreeBerry.png|50px]]
 |}
 
-=== Ripening Time with Modifiers === &lt;!--T:4--&gt;
+&lt;!--T:4--&gt;
+=== Ripening Time with Modifiers ===
 {| class="wikitable" | style="text-align: center;"
 ! Modifier !! Ripe-Wither Time
 |-
@@ -53,11 +55,13 @@
 | 4 mins 27 secs -&lt;br&gt; 8 mins 53 secs
 |}
 
-== Flow Chart == &lt;!--T:5--&gt;
+&lt;!--T:5--&gt;
+== Flow Chart ==
 [[File:Wepear_Flow_Chart.png|200px]]
 &lt;br&gt;
 
-== Mutation Strategy == &lt;!--T:6--&gt;
+&lt;!--T:6--&gt;
+== Mutation Strategy ==
 === Possible Planting Formations ===
 
 &lt;!--T:7--&gt;
@@ -87,7 +91,8 @@ You can fill your farm in the following way to obtain Wepear berries. Purple squ
 | style="background-color:#9C7D98;" | || [[File:Oran.png|30px]] [[Oran]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Oran.png|30px]]&lt;br&gt;[[Oran]]
 |}
 
-=== Timing Table === &lt;!--T:10--&gt;
+&lt;!--T:10--&gt;
+=== Timing Table ===
 {| class="collapsible wikitable" | style="text-align: center;"
 |+ ''All planting times use the time-to-ripe remaining of the first planted berry for subsequent planting times''
 ! Berry !! Planting Time with &lt;br&gt; No Modifier !! Planting Time with &lt;br&gt; Mulch or Sprayduck || Planting Time with &lt;br&gt;  Mulch &amp; Sprayduck
@@ -98,7 +103,8 @@ You can fill your farm in the following way to obtain Wepear berries. Purple squ
 |-
 |}
 
-==Acquisition== &lt;!--T:11--&gt;
+&lt;!--T:11--&gt;
+==Acquisition==
 ===Dungeons===
 {{Loot/head‎|Berries}}
 {{LootItem|Berry Forest|Epic}}
@@ -119,12 +125,12 @@ You can fill your farm in the following way to obtain Wepear berries. Purple squ
 [[Category:Farm]][[Category:Berries]]
 &lt;/translate&gt;</text>
     <contributor>
-      <username>ThePantMan</username>
-      <id>8</id>
+      <username>DraKay</username>
+      <id>18</id>
     </contributor>
-    <comment>/* Dungeon */</comment>
+    <comment>Marked this version for translation</comment>
     <model>wikitext</model>
-    <parentid>6661</parentid>
-    <sha1>8b3821ec5d0cfc851ad3db0ae4c0905f1cfa3811</sha1>
+    <parentid>34688</parentid>
+    <sha1>62f023695c549598525aeb5126cda7a9f5ace2b2</sha1>
   </revision>
 </page></mediawiki>

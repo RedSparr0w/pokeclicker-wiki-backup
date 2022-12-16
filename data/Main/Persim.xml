@@ -4,8 +4,8 @@
   <ns>0</ns>
   <id>509</id>
   <revision>
-    <id>34684</id>
-    <timestamp>2022-12-14T05:01:35Z</timestamp>
+    <id>35651</id>
+    <timestamp>2022-12-15T21:45:48Z</timestamp>
     <text space="preserve" bytes="4128">&lt;languages/&gt;
 &lt;translate&gt;
 &lt;!--T:1--&gt;
@@ -27,7 +27,8 @@
 }}
 '''Persim''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by surrounding an empty plot with at least 1 [[Pecha]] and at least 1 [[Oran]].
 
-== Growth Tables == &lt;!--T:2--&gt;
+&lt;!--T:2--&gt;
+== Growth Tables ==
 === Growth Stages ===
 {| class="wikitable" | style = "image-rendering: pixelated"
 !!! Sprout !! Taller !! Bloom !! Berry
@@ -39,7 +40,8 @@
 | &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:PersimTreeTaller.png|50px]] || &lt;center&gt;[[File:PersimTreeBloom.png|50px]] || &lt;center&gt; [[File:PersimTreeBerry.png|50px]]
 |}
 
-===Ripening Time with Modifiers=== &lt;!--T:3--&gt;
+&lt;!--T:3--&gt;
+===Ripening Time with Modifiers===
 {| class="wikitable" | style="text-align: center;"
 ! Modifier !! Ripe-Wither Time
 |-
@@ -50,11 +52,13 @@
 | 1 min -&lt;br&gt; 2 mins
 |}
 
-== Flow Chart == &lt;!--T:4--&gt;
+&lt;!--T:4--&gt;
+== Flow Chart ==
 [[File:Persim_Flow_Chart.png|200px]]
 &lt;br&gt;
 
-== Mutation Strategy == &lt;!--T:5--&gt;
+&lt;!--T:5--&gt;
+== Mutation Strategy ==
 === Possible Planting Formations ===
 
 &lt;!--T:6--&gt;
@@ -85,7 +89,8 @@ You can fill your farm in the following way to obtain Persim berries. Purple squ
 | style="background-color:#9C7D98;" | || [[File:Oran.png|30px]]&lt;br&gt;[[Oran]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Oran.png|30px]]&lt;br&gt;[[Oran]] 
 |}
 
-=== Timing Table === &lt;!--T:9--&gt;
+&lt;!--T:9--&gt;
+=== Timing Table ===
 {| class="wikitable" | style="text-align: center;"
 |-
 |+ ''All planting times use the time-to-ripe remaining of the first planted berry for subsequent planting times''
@@ -97,7 +102,8 @@ You can fill your farm in the following way to obtain Persim berries. Purple squ
 |-
 |}
 
-==Uses== &lt;!--T:10--&gt;
+&lt;!--T:10--&gt;
+==Uses==
 ===Mutations===
 
 &lt;!--T:11--&gt;
@@ -112,7 +118,8 @@ Persim berries can be used to mutate the following berries.
 |-
 |}
 
-==Acquisition== &lt;!--T:13--&gt;
+&lt;!--T:13--&gt;
+==Acquisition==
 ===Dungeons===
 {{Loot/head‎|Berries}}
 {{LootItem|Berry Forest|Epic}}
@@ -133,12 +140,12 @@ Persim berries can be used to mutate the following berries.
 [[Category:Farm]][[Category:Berries]]
 &lt;/translate&gt;</text>
     <contributor>
-      <username>ThePantMan</username>
-      <id>8</id>
+      <username>DraKay</username>
+      <id>18</id>
     </contributor>
-    <comment>/* Dungeon */</comment>
+    <comment>Marked this version for translation</comment>
     <model>wikitext</model>
-    <parentid>6518</parentid>
-    <sha1>e8a873636dc360749f37f4d8f26cf66af899f1fd</sha1>
+    <parentid>34684</parentid>
+    <sha1>fe26deb3d2ad41545d56d8b102d592da57b9c04c</sha1>
   </revision>
 </page></mediawiki>

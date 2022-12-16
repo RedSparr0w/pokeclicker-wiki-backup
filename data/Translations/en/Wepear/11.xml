@@ -1,15 +1,16 @@
 <mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
 <page>
   <title>Translations:Wepear/11/en</title>
-  <ns>0</ns>
-  <id>5706</id>
+  <ns>1198</ns>
+  <id>13249</id>
   <revision>
-    <id>18523</id>
-    <timestamp>2022-07-29T07:57:13Z</timestamp>
-    <text space="preserve" bytes="191">==Acquisition==
+    <id>36013</id>
+    <timestamp>2022-12-15T21:49:37Z</timestamp>
+    <text space="preserve" bytes="222">==Acquisition==
 ===Dungeons===
 {{Loot/head‎|Berries}}
 {{LootItem|Berry Forest|Epic}}
+{{LootItem|Pattern Bush|Epic}}
 {{LootItem|Radio Tower|Epic}}
 {{LootItem|Floccesy Ranch|Epic}}
 {{LootItem|Connecting Cave|Common}}
@@ -22,6 +23,6 @@
     <comment>Importing a new version from external source</comment>
     <model>wikitext</model>
     <parentid>0</parentid>
-    <sha1>4c6b121cf52708481afccdd382ef999dd14a6d73</sha1>
+    <sha1>b928c725ffb932a6980be61e5eccb8b56d1959ae</sha1>
   </revision>
 </page></mediawiki>

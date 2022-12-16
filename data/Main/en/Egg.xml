@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>5406</id>
   <revision>
-    <id>31752</id>
-    <timestamp>2022-12-05T22:48:50Z</timestamp>
-    <text space="preserve" bytes="17264">&lt;languages/&gt;
+    <id>35016</id>
+    <timestamp>2022-12-15T20:23:19Z</timestamp>
+    <text space="preserve" bytes="17267">&lt;languages/&gt;
 '''Eggs''' are items that can be hatched to obtain Pokémon. Eggs can be obtained in two ways: Purchasing them from [[Shops]] and trading for them from the [[Shard Trader|Shard Traders]]. Breeding level 100 Pokémon will also insert them into the Hatchery/Queue as an Egg. Hatching an egg will boost that Pokémon's attack by 25% of its base attack. Where an Egg is purchased/obtained an egg has no effect on what Pokémon hatches from that egg (See [[Egg#Egg Pool Odds|Egg Pool Odds]] section below for more details on specific odds).
 
 == [[Shops|Shop]] Egg Pool ==
@@ -14,8 +14,8 @@
 In the following tables, '''Bolded''' names indicate Pokémon that can be obtained in their respective regions by either hatching shop eggs or through [[Berries#Wandering_Pokémon|Wandering Pokémon]] on the [[Farm]]. '''''Bolded and Italicized''''' names indicate Pokémon that can only be obtained in their respective region by hatching shop eggs. '''''&lt;u&gt;Bold, Italicized, and underlined&lt;/u&gt;''''' names indicate Pokémon that cannot be obtained outside shop eggs (ie can't find it wild in a later region even with Require Complete Pokédex challenge off) as of v0.8.15
 
 The [[Egg#Egg Pool Odds|Egg Pool Odds]] works as follows:
-* There is a 50% chance of obtaining a Pokemon from the furthest region you've been to (odds split evenly for each possible Pokemon from the furthest region reached)
-* The Remaining 50% is split among all previous egg pool Pokemon, favoring the more recent regions. See the [[Egg#Egg Pool Odds|Egg Pool Odds]] section below for more specific details.
+* There is a 50% chance of obtaining a Pokémon from the furthest region you've been to (odds split evenly for each possible Pokémon from the furthest region reached)
+* The Remaining 50% is split among all previous egg pool Pokémon, favoring the more recent regions. See the [[Egg#Egg Pool Odds|Egg Pool Odds]] section below for more specific details.
 * Neither hatching an Egg in a particular region, nor obtaining an egg from a particular region, has any affect on what Regional Egg Pool the egg will pull the hatched Pokémon from.
 
 === '''&lt;big&gt;[[Kanto]]&lt;/big&gt;''' ===
@@ -157,12 +157,12 @@ The roll for what Pokémon a particular Typed Egg/Mystery Egg will be is perform
 
 [[Category:Eggs]]</text>
     <contributor>
-      <username>FuzzyBot</username>
-      <id>133</id>
+      <username>ThePantMan</username>
+      <id>8</id>
     </contributor>
-    <comment>Updating to match new version of source page</comment>
+    <comment>Text replacement - " Pokemon" to " Pokémon"</comment>
     <model>wikitext</model>
-    <parentid>18053</parentid>
-    <sha1>6a9bbde9c0283c55d1762707506ad0879d2d21fc</sha1>
+    <parentid>31752</parentid>
+    <sha1>5c349bb6cbe30ab6b783dcdcc9714ee08ae6cdc5</sha1>
   </revision>
 </page></mediawiki>

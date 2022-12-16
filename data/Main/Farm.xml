@@ -4,8 +4,8 @@
   <ns>0</ns>
   <id>191</id>
   <revision>
-    <id>33891</id>
-    <timestamp>2022-12-12T19:11:24Z</timestamp>
+    <id>35283</id>
+    <timestamp>2022-12-15T21:41:38Z</timestamp>
     <text space="preserve" bytes="11717">&lt;languages/&gt;
 &lt;translate&gt;
 &lt;!--T:1--&gt;
@@ -46,7 +46,8 @@ Berries can be obtained by planting obtained Berries in special configurations. 
 &lt;!--T:13--&gt;
 The farm can also produce helpful effects (external auras) such as increasing [[Pokémon Day Care|egg steps]] for faster breeding and better [[Shiny Chance|shiny chance]].
 
-=Mutating Berries= &lt;!--T:14--&gt;
+&lt;!--T:14--&gt;
+=Mutating Berries=
 ''Note: if you have not yet unlocked all the plots on the farm and need to mutate berries #9 [[Persim]] through #25 [[Grepa]], please use the [https://docs.google.com/document/d/1TE5cAKSlA7TAliA001_mIiO1odZ6e4yUEMre0GBW1to/edit?usp=sharing Walkthrough link] for an optimized planting formation to mutate those berries within the limited available farm plots.''
 
 &lt;!--T:15--&gt;
@@ -64,7 +65,8 @@ Each berry has it's own individual mutation chance for whether or not it will mu
 &lt;!--T:19--&gt;
 Mutations can happen in one of two ways - the most common method is for berries to mutate by growing near required berries, while a less common mutation is when berries mutate by evolving in the proper conditions.  See below for examples.
 
-===Growth Mutation=== &lt;!--T:20--&gt;
+&lt;!--T:20--&gt;
+===Growth Mutation===
 Berries that mutate by growing near required berries must have the required berries planted such that every required berry is touching at least the corner of a plot for mutation to be possible on that plot.  Mutations can never occur where there is already a berry growing.  Here is an example of mutating [[Occa]], white background squares are where mutation is impossible, purple squares are where mutation is possible, and where surprise mulch should be applied (if you want to improve your odds):
 {| class="wikitable" style="text-align: center;"
 |+ Mutating Occa, 9x9
@@ -76,7 +78,8 @@ Berries that mutate by growing near required berries must have the required berr
 | || || 
 |}
 
-===Evolution Mutation=== &lt;!--T:21--&gt;
+&lt;!--T:21--&gt;
+===Evolution Mutation===
 ''Note: Depending on the Flavor profile required for the Berry to evolve, an evolution mutation may occur while the berries are still in the Taller or Bloom growth stages, rather than only when Ripe.''
 
 &lt;!--T:22--&gt;
@@ -152,12 +155,12 @@ Farms with at least one ripe Berry can attract [[Wandering Pokémon]] that are a
 [[Category:Farm]]
 &lt;/translate&gt;</text>
     <contributor>
-      <username>ThePantMan</username>
-      <id>8</id>
+      <username>DraKay</username>
+      <id>18</id>
     </contributor>
-    <comment>Text replacement - "Pokéball" to "Poké Ball"</comment>
+    <comment>Marked this version for translation</comment>
     <model>wikitext</model>
-    <parentid>33338</parentid>
-    <sha1>b9b9fac880ed3e0f85b49dae97837d4eb51874ae</sha1>
+    <parentid>33891</parentid>
+    <sha1>e4a951dbac73409ea0eff783ad33418a3afa91f0</sha1>
   </revision>
 </page></mediawiki>

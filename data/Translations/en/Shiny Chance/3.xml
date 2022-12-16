@@ -1,12 +1,12 @@
 <mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
 <page>
   <title>Translations:Shiny Chance/3/en</title>
-  <ns>0</ns>
-  <id>5040</id>
+  <ns>1198</ns>
+  <id>13076</id>
   <revision>
-    <id>17003</id>
-    <timestamp>2022-07-25T17:17:58Z</timestamp>
-    <text space="preserve" bytes="677">{| class="wikitable sortable"
+    <id>35814</id>
+    <timestamp>2022-12-15T21:48:03Z</timestamp>
+    <text space="preserve" bytes="678">{| class="wikitable sortable"
 |-
 ! Location/Method !! Chance (no Shiny Charm) !! Chance (Lv 5 Shiny Charm) !! Chance (Lv 5 Shiny Charm and Full Starf Farm)
 |-
@@ -18,7 +18,7 @@
 |-
 | [[Safari Zone]] Encounter
 |-
-| [[Pokemon Day Care|Hatching an Egg]] || rowspan = 3 | 1 / 1024 || rowspan = 3 | 1 / 512 || rowspan = 3 | 1 / 353
+| [[Pokémon Day Care|Hatching an Egg]] || rowspan = 3 | 1 / 1024 || rowspan = 3 | 1 / 512 || rowspan = 3 | 1 / 353
 |-
 | [[Berries#Wandering Pokémon|Farm Wanderer]]
 |-
@@ -32,6 +32,6 @@
     <comment>Importing a new version from external source</comment>
     <model>wikitext</model>
     <parentid>0</parentid>
-    <sha1>c7eb73f422fe2e07a0abd52ea9db14533fb8151f</sha1>
+    <sha1>9f25ad28c86f52a89472e8dc34006aaa79971cb8</sha1>
   </revision>
 </page></mediawiki>

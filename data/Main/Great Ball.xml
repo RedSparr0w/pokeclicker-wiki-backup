@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>198</id>
   <revision>
-    <id>34625</id>
-    <timestamp>2022-12-14T03:53:09Z</timestamp>
-    <text space="preserve" bytes="8959">&lt;languages/&gt;
+    <id>35051</id>
+    <timestamp>2022-12-15T20:39:35Z</timestamp>
+    <text space="preserve" bytes="8960">&lt;languages/&gt;
 &lt;translate&gt;
 
 &lt;!--T:1--&gt;
@@ -132,7 +132,7 @@ A better Poké Ball to capture Pokémon with, it provides a +5% catch rate bonus
 {{LootItem|Mt. Moon|Mythic}}
 {{LootItem|Rock Tunnel|Legendary}}
 {{LootItem|Rocket Game Corner|Legendary}}
-{{LootItem|Pokemon Tower|Legendary}}
+{{LootItem|Pokémon Tower|Legendary}}
 {{LootItem|Silph Co|Legendary}}
 {{LootItem|Cerulean Cave|Epic}}
 {{LootItem|Ruins of Alph|Common}}
@@ -175,9 +175,9 @@ A better Poké Ball to capture Pokémon with, it provides a +5% catch rate bonus
       <username>ThePantMan</username>
       <id>8</id>
     </contributor>
-    <comment>Text replacement - "Pokéball Factory" to "Poké Ball Factory"</comment>
+    <comment>Text replacement - "(?&lt;!{{)(?&lt;!{{Route)Pokemon" to "Pokémon"</comment>
     <model>wikitext</model>
-    <parentid>34557</parentid>
-    <sha1>c693fc3d5cc74b41a4cb0778b80adb5b810bbc4b</sha1>
+    <parentid>34625</parentid>
+    <sha1>fffb1cce2432cc052372461cc33e1cf873b08af7</sha1>
   </revision>
 </page></mediawiki>

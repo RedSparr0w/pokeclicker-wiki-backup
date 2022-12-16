@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>598</id>
   <revision>
-    <id>34702</id>
-    <timestamp>2022-12-14T05:17:47Z</timestamp>
-    <text space="preserve" bytes="4221">&lt;languages/&gt;
+    <id>35522</id>
+    <timestamp>2022-12-15T21:44:42Z</timestamp>
+    <text space="preserve" bytes="4233">&lt;languages/&gt;
 &lt;translate&gt;
 &lt;!--T:1--&gt;
 {{Infobox Berry
@@ -29,7 +29,8 @@
 &lt;!--T:2--&gt;
 '''Magost''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by surrounding an empty plot with at least 1 [[Pecha]], at least 1 [[Nanab]] and at least 1 [[Mago]].
 
-== Growth Tables == &lt;!--T:3--&gt;
+&lt;!--T:3--&gt;
+== Growth Tables ==
 === Growth Stages ===
 {| class="wikitable" | style = "image-rendering: pixelated"
 ! !! Sprout !! Taller !! Bloom !! Berry
@@ -41,7 +42,8 @@
 | &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:MagostTreeTaller.png|50px]] || &lt;center&gt; [[File:MagostTreeBloom.png|50px]] || &lt;center&gt; [[File:MagostTreeBerry.png|50px]]
 |}
 
-=== Ripening Time with Modifiers  === &lt;!--T:4--&gt;
+&lt;!--T:4--&gt;
+=== Ripening Time with Modifiers  ===
 {| class="wikitable" | style="text-align: center;"
 ! Modifier !! Ripe-Wither Time !! Boost Mulch Needed to Ripen
 |-
@@ -55,11 +57,13 @@
 | 1 hour 46 mins 40 secs -&lt;br&gt; 2 hours 53 mins 20 secs || 22 mulch
 |}
 
-== Flow Chart == &lt;!--T:5--&gt;
+&lt;!--T:5--&gt;
+== Flow Chart ==
 [[File:Magost_Flow_Chart1.png|250px]]
 &lt;br&gt;
 
-== Mutation Strategy == &lt;!--T:6--&gt;
+&lt;!--T:6--&gt;
+== Mutation Strategy ==
 === Possible Planting Formations ===
 
 &lt;!--T:7--&gt;
@@ -89,7 +93,8 @@ You can fill your farm in the following way to obtain Magost berries. Purple squ
 | [[File:Nanab.png|30px]] [[Nanab]] || [[File:Mago.png|30px]] [[Mago]] || style="background-color:#9C7D98;" | || [[File:Nanab.png|30px]] [[Nanab]] || [[File:Mago.png|30px]]&lt;br&gt;[[Mago]] 
 |}
 
-=== Timing Table === &lt;!--T:10--&gt;
+&lt;!--T:10--&gt;
+=== Timing Table ===
 {| class="wikitable"| style="text-align: center;"
 |+ ''All planting times use the time-to-ripe remaining of the first planted berry for subsequent planting times''
 ! Berry !! Planting Time with &lt;br&gt; No Modifier !! Planting Time with &lt;br&gt; Mulch or Sprayduck || Planting Time with &lt;br&gt;  Mulch &amp; Sprayduck
@@ -101,7 +106,8 @@ You can fill your farm in the following way to obtain Magost berries. Purple squ
 | [[Pecha]] || 1 min until ripe || 40 secs until ripe || Not Practical
 |}
 
-==Uses== &lt;!--T:11--&gt;
+&lt;!--T:11--&gt;
+==Uses==
 ===Mutations===
 
 &lt;!--T:12--&gt;
@@ -118,6 +124,7 @@ Magost berries can be used to mutate the following berries.
 |-
 |}
 
+&lt;!--T:17--&gt;
 ==Acquisition==
 ===Dungeons===
 {{Loot/head‎|Berries}}
@@ -135,12 +142,12 @@ Magost berries can be used to mutate the following berries.
 [[Category:Farm]][[Category:Berries]]
 &lt;/translate&gt;</text>
     <contributor>
-      <username>ThePantMan</username>
-      <id>8</id>
+      <username>DraKay</username>
+      <id>18</id>
     </contributor>
-    <comment>/* loot */</comment>
+    <comment>Marked this version for translation</comment>
     <model>wikitext</model>
-    <parentid>7055</parentid>
-    <sha1>f615d02a18da4139b614820859d2ad243321b982</sha1>
+    <parentid>34702</parentid>
+    <sha1>abd01d36f079e5ca2738edffd4d09c34ef93d897</sha1>
   </revision>
 </page></mediawiki>

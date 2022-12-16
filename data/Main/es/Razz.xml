@@ -4,138 +4,174 @@
   <ns>0</ns>
   <id>7461</id>
   <revision>
-    <id>21328</id>
-    <timestamp>2022-08-01T21:40:59Z</timestamp>
-    <text space="preserve" bytes="4904">&lt;languages/&gt;
+    <id>35772</id>
+    <timestamp>2022-12-15T21:46:59Z</timestamp>
+    <text space="preserve" bytes="5413">&lt;languages/&gt;
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
 {{Infobox Berry
-|name    = #10 Frambu (Razz)
+|name    = #10 Razz
 |image   = [[File:Razz.png]]
-|caption = Es una baya algo seca. Sus gránulos rojos le dan un sabor un pelín picante.
+|caption = A small hint of spiciness lingers in the red granules surrounding this Berry. Their centers have a dry taste.
 |growtime  = 4m 10s
-|harvest = 7 bayas
+|harvest = 7 berries
 |replant = 40%
 |mutation = 1.9%
 |points = 15
 |flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
-*10 picante
-*10 seco
-*0 dulce
-*0 amargo
-*0 ácido
+*10 spicy 
+*10 dry
+*0 sweet
+*0 bitter
+*0 sour
 }}
+&lt;/div&gt;
 
-'''Frambu (Razz)''' es un tipo de [[Berries|baya]] que puede ser plantada en la [[Farm|granja]]. Se puede obtener rodeando una parcela vacía con al menos 1 baya [[Cheri|Zreza (Cheri)]] y al menos 1 baya [[Leppa|Zanama (Leppa)]].
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+'''Razz''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by surrounding an empty plot with at least 1 [[Cheri]] and at least 1 [[Leppa]].
+&lt;/div&gt;
 
-== Tablas de Crecimiento ==
-=== Estados de Crecimiento ===
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Growth Tables ==
+=== Growth Stages ===
 {| class="wikitable" | style = "image-rendering: pixelated"
-!!! Brote !! Crecimiento !! Floración !! Madurez
+!!! Sprout !! Taller !! Bloom !! Berry
 |-
-! Tiempo pasado desde que se planta
-| 1 min 40 seg || 2 mins 30 seg || 3 mins 20 seg || 4 mins 10 seg - 8 mins 20 seg
+! Time passed since planting
+| 1 min 40 secs || 2 mins 30 secs || 3 mins 20 secs || 4 mins 10 secs - 8 mins 20 secs
 |-
-! Animación
+! Animation
 | &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:RazzTreeTaller.png|50px]] || &lt;center&gt;[[File:RazzTreeBloom.png|50px]] || &lt;center&gt; [[File:RazzTreeBerry.png|50px]]
 |}
+&lt;/div&gt;
 
-===Tiempos de Maduración con modificadores===
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+===Ripening Time with Modifiers===
 {| class="wikitable" | style="text-align: center;"
-! Modificador !! Tiempo hasta la madurez-marchitado
+! Modifier !! Ripe-Wither Time
 |-
-! Ninguno
-| 4 min 10 seg -&lt;br&gt; 8 min 20 seg
+! None
+| 4 mins 10 secs -&lt;br&gt; 8 mins 20 secs
 |-
-! Psydugadera
-| 2 min 47 seg -&lt;br&gt; 5 min 53 seg
+! Sprayduck
+| 2 mins 47 secs -&lt;br&gt; 5 mins 53 secs
 |}
+&lt;/div&gt;
 
-== Diagrama de Flujo ==
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Flow Chart ==
 [[File:Razz_Flow_Chart.png|200px]]
-&lt;br&gt;
-'''Leyenda:'''&lt;br&gt;
-· Random Drop: Obtenido aleatoriamente en ruta
+&lt;/div&gt;
 
-== Estrategia de mutación ==
-=== Posibles formaciones ===
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Mutation Strategy ==
+=== Possible Planting Formations ===
+&lt;/div&gt;
 
-Puedes llenar tu granja del siguiente modo para obtener bayas Frambu (Razz). Los cuadrados morados indican dónde pueden ocurrir las mutaciones.
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+You can fill your farm in the following way to obtain Razz berries. Purple squares indicate where mutations can occur.
+&lt;/div&gt;
 
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
 {| class="wikitable" style="text-align: center;"
-|+ Formación base
+|+ Base Formation
 |- style="height: 50px;"
-| style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri|Zreza (Cheri)]] || style="width: 40px; background-color:#9C7D98;" | 
+| style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri]] || style="width: 40px; background-color:#9C7D98;" | 
 |-
-| style="background-color:#9C7D98;" | || [[File:Leppa.png|30px]] [[Leppa|Zanama (Leppa)]]
+| style="background-color:#9C7D98;" | || [[File:Leppa.png|30px]] [[Leppa]]
 |}
+&lt;/div&gt;
 
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
 {| class="wikitable" style="text-align: center;"
-|+ Formación óptima
+|+ Optimized Planting Formation
 |- style="height: 50px;"
-| style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri|Zreza (Cheri)]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri|Zreza (Cheri)]] || style="width: 40px; background-color:#9C7D98;" | 
+| style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Cheri.png|30px]] [[Cheri]] || style="width: 40px; background-color:#9C7D98;" | 
 |-
-| style="background-color:#9C7D98;" | || [[File:Leppa.png|30px]] [[Leppa|Zanama (Leppa)]] || style="background-color:#9C7D98;" | ||style="background-color:#9C7D98;" |  || [[File:Leppa.png|30px]] [[Leppa|Zanama (Leppa)]] 
+| style="background-color:#9C7D98;" | || [[File:Leppa.png|30px]] [[Leppa]] || style="background-color:#9C7D98;" | ||style="background-color:#9C7D98;" |  || [[File:Leppa.png|30px]] [[Leppa]] 
 |- style="height: 50px;"
 | style="background-color:#9C7D98;" | ||style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" |
 |-
-| [[File:Cheri.png|30px]] [[Cheri|Zreza (Cheri)]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Cheri.png|30px]] [[Cheri|Zreza (Cheri)]] || style="background-color:#9C7D98;" | 
+| [[File:Cheri.png|30px]] [[Cheri]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Cheri.png|30px]] [[Cheri]] || style="background-color:#9C7D98;" | 
 |-
-| style="background-color:#9C7D98;" | || [[File:Leppa.png|30px]] [[Leppa|Zanama (Leppa)]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Leppa.png|30px]] [[Leppa|Zanama (Leppa)]] 
+| style="background-color:#9C7D98;" | || [[File:Leppa.png|30px]] [[Leppa]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Leppa.png|30px]] [[Leppa]] 
 |}
+&lt;/div&gt;
 
-=== Tabla de Tiempos ===
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+=== Timing Table ===
 {| class="wikitable" | style="text-align: center;"
-|+ ''Todos los tiempos de plantado usan el tiempo hasta la madurez de la primera baya plantada para las siguientes''
-! Baya !! Tiempo de plantado &lt;br&gt; Sin modificador !! Tiempo de plantado &lt;br&gt; Abono o Psydugadera || Tiempo de plantado &lt;br&gt;  Abono y Psydugadera
+|+ ''All planting times use the time-to-ripe remaining of the first planted berry for subsequent planting times''
+! Berry !! Planting Time with &lt;br&gt; No Modifier !! Planting Time with &lt;br&gt; Mulch or Sprayduck || Planting Time with &lt;br&gt;  Mulch &amp; Sprayduck
 |-
-| [[Leppa|Zanama (Leppa)]] || - || - || -
+| [[Leppa]] || - || - || -
 |-
-| [[Cheri|Zreza (Cheri)]] || 30 seg hasta la madurez || 20 seg hasta la madurez || No tiene sentido
+| [[Cheri]] || 30 secs until ripe || 20 secs until ripe || Not Practical
 |-
 |}
+&lt;/div&gt;
 
-==Usos==
-===Mutaciones===
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Uses==
+===Mutations===
+&lt;/div&gt;
 
-Las bayas Frambu (Razz) pueden usarse para mutar las siguientes bayas.
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Razz berries can be used to mutate the following berries.
+&lt;/div&gt;
 
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
 {| class="wikitable" | style="text-align: center;"
 |-
-! Se usa para !! Junto a
+! Used In !! With
 |-
-| [[File:Tamato.png|20px]] [[Tamato|Tamate (Tamato)]] || [[File:Pomeg.png|20px]] [[Pomeg|Grana (Pomeg)]]
+| [[File:Tamato.png|20px]] [[Tamato]] || [[File:Pomeg.png|20px]] [[Pomeg]]
 |-
-| [[File:Occa.png|20px]] [[Occa|Caoca (Occa)]] || [[File:Figy.png|20px]] [[Figy|Higog (Figy)]] &lt;br&gt; [[File:Tamato.png|20px]] [[Tamato|Tamate (Tamato)]] &lt;br&gt; [[File:Spelon.png|20px]] [[Spelon|Wikano (Spelon)]]
+| [[File:Occa.png|20px]] [[Occa]] || [[File:Figy.png|20px]] [[Figy]] &lt;br&gt; [[File:Tamato.png|20px]] [[Tamato]] &lt;br&gt; [[File:Spelon.png|20px]] [[Spelon]]
 |-
 |}
+&lt;/div&gt;
 
-===Cebo en la [[Safari Zone|Zona Safari]]===
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+===[[Safari Zone]] bait===
+&lt;/div&gt;
 
-Como cebo, las bayas Frambu (Razz) otorgan el estado "comiendo" a los Pokémon en la Zona Safari durante 2 - 6 turnos, dividiendo la probabilidad de huida entre 1,5 para el resto del encuentro salvo que se use otro tipo de cebo.
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+As a type of bait, Razz berries give Pokémon in the Safari Zone "eating" status for 2 - 6 turns, and divides escape chance by 1.5 for the rest of the encounter unless another type of bait is used.
+&lt;/div&gt;
 
-==Adquisición==
-===Mazmorras===
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Acquisition==
+===Dungeons===
 {{Loot/head‎|Berries}}
-{{LootItem|Berry Forest|Épico}}
-{{LootItem|Radio Tower|Épico}}
-{{LootItem|New Mauville|Épico}}
-{{LootItem|Eterna Forest|Común}}
-{{LootItem|Wayward Cave|Común}}
-{{LootItem|Dragonspiral Tower|Común}}
+{{LootItem|Berry Forest|Epic}}
+{{LootItem|Pattern Bush|Epic}}
+{{LootItem|Radio Tower|Epic}}
+{{LootItem|New Mauville|Epic}}
+{{LootItem|Eterna Forest|Common}}
+{{LootItem|Wayward Cave|Common}}
+{{LootItem|Dragonspiral Tower|Common}}
 |}
 |}
+&lt;/div&gt;
 
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
 &lt;br&gt;
+&lt;/div&gt;
 
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
 {{Berries}}
+&lt;/div&gt;
 
-[[Category:Farm|Categoría:Granja]][[Category:Berries|Categoría:Bayas]]</text>
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
     <contributor>
-      <username>Cthulhu Follower</username>
-      <id>51</id>
+      <username>FuzzyBot</username>
+      <id>133</id>
     </contributor>
-    <comment>Created page with "Como cebo, las bayas Frambu (Razz) otorgan el estado "comiendo" a los Pokémon en la Zona Safari durante 2 - 6 turnos, dividiendo la probabilidad de huida entre 1,5 para el resto del encuentro salvo que se use otro tipo de cebo."</comment>
+    <comment>Updating to match new version of source page</comment>
     <model>wikitext</model>
-    <parentid>21327</parentid>
-    <sha1>d937e33e7326a12b857de7a3e9f030d175414ef8</sha1>
+    <parentid>21328</parentid>
+    <sha1>2564f79c38cc17e84ab970e98ed84d2f279a5e14</sha1>
   </revision>
 </page></mediawiki>

@@ -1,42 +1,44 @@
 <mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
 <page>
   <title>Translations:NPCs/10/en</title>
-  <ns>0</ns>
-  <id>6679</id>
+  <ns>1198</ns>
+  <id>12876</id>
   <revision>
-    <id>19496</id>
-    <timestamp>2022-07-29T08:04:11Z</timestamp>
-    <text space="preserve" bytes="2015">{| class="wikitable"
+    <id>35565</id>
+    <timestamp>2022-12-15T21:45:01Z</timestamp>
+    <text space="preserve" bytes="2655">{| class="wikitable"
 |-
 ! NPC Name !! Location !! Function
 |-
-| Contest Champion || [[Towns &amp; Cities#Sinnoh|Twinleaf Town]] || Informs the player about the Roaming nature of Mesprit.
+| [[File:Contest Champion (Johanna).png|30px]]Contest Champion || [[Towns &amp; Cities#Sinnoh|Twinleaf Town]] || Informs the player about the Roaming nature of {{Pokemon|Mesprit}}.
 |-
-| Professor Rowan || [[Towns &amp; Cities#Sinnoh|Sandgem Town]] || Tells the player what is needed to progress to the next [[Regions|region]].
+| [[File:Professor Rowan.png|30px]]Professor Rowan || [[Towns &amp; Cities#Sinnoh|Sandgem Town]] || Tells the player what is needed to progress to the next [[Regions|region]].
 |-
-| Beachcomber || [[Towns &amp; Cities#Sinnoh|Sandgem Town]] || Informs the player about the Roaming nature of Manaphy.
+| Beachcomber || [[Towns &amp; Cities#Sinnoh|Sandgem Town]] || Informs the player about the Roaming nature of {{Pokemon|Manaphy}}.
 |-
-| Flower Girl || [[Towns &amp; Cities#Sinnoh|Floaroma Town]] || Explains the [[Sinnoh#Location-dependent_Pokémon|conditions]] needed to evolve Eevee into Leafeon.
+| [[File:Aroma Lady.png|30px]]Flower Girl || [[Towns &amp; Cities#Sinnoh|Floaroma Town]] || Explains the [[Sinnoh#Location-dependent_Pokémon|conditions]] needed to evolve {{Pokemon|Eevee}} into {{Pokemon|Leafeon}}.
 |-
-| Lass Caroline || [[Towns &amp; Cities#Sinnoh|Eterna City]] || Informs the player about the [[Old Chateau|location]] and [[Dungeons#Sinnoh|requirement]] for Rotom and its forms.
+| [[File:Lass.png|30px]]Lass Caroline || [[Towns &amp; Cities#Sinnoh|Eterna City]] || Informs the player about the [[Old Chateau|location]] and [[Dungeons#Sinnoh|requirement]] for {{Pokemon|Rotom}} and its forms.
 |-
-| Construction Worker || [[Towns &amp; Cities#Sinnoh|Oreburgh City]] || Explains the conditions needed to evolve Nosepass into Probopass.
+| [[File:Worker.png|30px]]Construction Worker || [[Towns &amp; Cities#Sinnoh|Oreburgh City]] || Explains the conditions needed to evolve {{Pokemon|Nosepass}} into {{Pokemon|Probopass}}.
 |-
-| Contest Fan || [[Towns &amp; Cities#Sinnoh|Hearthome City]] || Explains the conditions needed to evolve Magneton into Magnezone.
+| Contest Fan || [[Towns &amp; Cities#Sinnoh|Hearthome City]] || Explains the conditions needed to evolve {{Pokemon|Magneton}} into {{Pokemon|Magnezone}}.
 |-
-| Pal Park Warden || [[Towns &amp; Cities#Sinnoh|Pal Park]] || Explains the [[Sinnoh#Weather-dependent_Pokémon|conditions]] needed to evolve Cherrim (overcast) into Cherrim (sunny).
+| Pal Park Warden || [[Towns &amp; Cities#Sinnoh|Pal Park]] || Explains the [[Sinnoh#Weather-dependent_Pokémon|conditions]] needed to evolve {{Pokemon|Cherrim (Overcast)}} into {{Pokemon|Cherrim (Sunshine)}}.
 |-
-| Riley || [[Towns &amp; Cities#Sinnoh|Canalave City]] || Informs the player about the requirement to evolve Riolu.
+| [[File:Burglar.png|30px]] Burglar || [[Towns &amp; Cities#Sinnoh|Canalve City]] || Tells the player the why the Razor [[Evolution Items]] don't work during the Day. 
 |-
-| Young Boy || [[Towns &amp; Cities#Sinnoh|Canalave City]] || Informs the player about the Roaming nature of Cresselia.
+| [[File:Riley.png|30px]]Riley || [[Towns &amp; Cities#Sinnoh|Canalave City]] || Informs the player about the requirement to evolve {{Pokemon|Riolu}}.
 |-
-| Young Girl || [[Towns &amp; Cities#Sinnoh|Snowpoint City]] || Explains the conditions needed to evolve Eevee into Glaceon.
+| Young Boy || [[Towns &amp; Cities#Sinnoh|Canalave City]] || Informs the player about the Roaming nature of {{Pokemon|Cresselia}}.
 |-
-| Ribboner Julia || [[Towns &amp; Cities#Sinnoh|Sunyshore City]] || Explains the [[Sinnoh#Level-dependent_Pokémon|conditions]] needed to evolve Pilowswine into Mamoswine.
+| Young Girl || [[Towns &amp; Cities#Sinnoh|Snowpoint City]] || Explains the conditions needed to evolve {{Pokemon|Eevee}} into {{Pokemon|Glaceon}}.
 |-
-| Ace Trainer Quinn || [[Towns &amp; Cities#Sinnoh|Fight Area]] || Informs the player about the requirement to unlock [[Distortion World]].
+| [[File:Beauty (trainer).png|30px]]Ribboner Julia || [[Towns &amp; Cities#Sinnoh|Sunyshore City]] || Explains the [[Sinnoh#Level-dependent_Pokémon|conditions]] needed to evolve {{Pokemon|Piloswine}} into {{Pokemon|Mamoswine}}.
 |-
-| Hiker Kevin || [[Towns &amp; Cities#Sinnoh|Survival Area]] || Informs the player about increased roamer rates.
+| [[File:Ace Trainer (male).png|30px]]Ace Trainer Quinn || [[Towns &amp; Cities#Sinnoh|Fight Area]] || Informs the player about the requirement to unlock [[Distortion World]].
+|-
+| [[File:Hiker.png|30px]]Hiker Kevin || [[Towns &amp; Cities#Sinnoh|Survival Area]] || Informs the player about increased roamer rates.
 |}</text>
     <contributor>
       <username>FuzzyBot</username>
@@ -45,6 +47,6 @@
     <comment>Importing a new version from external source</comment>
     <model>wikitext</model>
     <parentid>0</parentid>
-    <sha1>cc6d36ef9b1cb464af7cdc0adc18d7193b83c962</sha1>
+    <sha1>da3b5db5350ab2cff1eeb948f2d56d9fb19f1947</sha1>
   </revision>
 </page></mediawiki>

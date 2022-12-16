@@ -4,27 +4,38 @@
   <ns>0</ns>
   <id>7371</id>
   <revision>
-    <id>20921</id>
-    <timestamp>2022-07-29T23:25:25Z</timestamp>
-    <text space="preserve" bytes="4153">&lt;languages/&gt;
+    <id>35808</id>
+    <timestamp>2022-12-15T21:47:36Z</timestamp>
+    <text space="preserve" bytes="4498">&lt;languages/&gt;
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
 {{Infobox battle item
-|name       = Zona Safari
+|name       = Safari Zone
 |image      = [[File:safarizone1.png]]
-|caption    = Jugador en la Zona Safari.
+|caption    = Player in the Safari Zone.
 |location   = Kanto
 }}
+&lt;/div&gt;
 
 
-La '''Zona Safari''' en un área en [[Kanto]] donde el jugador puede gastar 100 [[Quest Points|Puntos de Misión]] para intentar capturar Pokémon únicos de [[Kanto]]. Algunos Pokémon, como en los juegos originales, solo aparecen en la Zona Safari.
-El jugador recibe 30 Safari Balls. Tiene la opción de capturar, tirar una roca, tirar un cebo Pokémon, o huir. Para desbloquear este área el Jugador debe tener primero el [[Safari Ticket|Ticket Safari]].
-Los Pokémon sin capturar tienen el doble de probabilidades de aparecer.
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+The '''Safari Zone''' is an area in [[Kanto]] where the player may spend 100 [[Quest Points]] to try and catch unique [[Kanto]] Pokémon. Some Pokémon, like in the original games, only appear in the Safari Zone. 
+The player receives 30 Safari balls. They have an option to either catch, throw a rock, bait the Pokémon, or flee. To unlock this area the Player must first have the [[Safari Ticket]].
+Uncaught Pokémon have double the chance of appearing.
+&lt;/div&gt;
 
-El jugador puede salir y volver a entrar a la zona safari sin pagar la entrada de 100 Puntos de Misión de nuevo estipulando que aún tienen Safari Balls. Solo tienen que volver a pagar la entrada si se quedan sin Safari Balls y necesitarán volver a entrar para conseguir más.
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+The player may exit and reenter the safari zone without paying the 100 Quest Point fee again provided they still have Safari balls. They only need to pay the fee if they run out of Safari balls and need to reenter to get more.
+&lt;/div&gt;
 
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
 ==Pokémon==
+In the following tables, '''Bolded''' names indicate Pokémon that can be obtained in Kanto in the Safari Zone or through Wandering Pokémon on the Farm. '''''Bolded and Italicized''''' names indicate Pokémon that can only be obtained in Kanto in the Safari Zone.
+&lt;/div&gt; 
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
 {| class="wikitable sortable" style
 |-
-! Pokémon !! Probabilidad de Encuentro
+! Pokémon !! Encounter Chance
 |-
 | [[File:Nidoran(F).png|40px]] Nidoran(F)|| 9.04%
 |-
@@ -40,17 +51,17 @@ El jugador puede salir y volver a entrar a la zona safari sin pagar la entrada d
 |-
 | [[File:Parasect.png|40px]] Parasect || 9.04%
 |-
-| [[File:Rhyhorn.png|40px]] Rhyhorn || 6.02%
+| [[File:Rhyhorn.png|40px]] '''''Rhyhorn''''' || '''''6.02%''''' 
 |-
-| [[File:Chansey.png|40px]] Chansey || 2.41%
+| [[File:Chansey.png|40px]] '''''Chansey'''''* || '''''2.41%''''' 
 |-
-| [[File:Scyther.png|40px]] Scyther || 2.41%
+| [[File:Scyther.png|40px]] '''Scyther''' || '''2.41%'''
 |-
-| [[File:Pinsir.png|40px]] Pinsir || 2.41%
+| [[File:Pinsir.png|40px]] '''''Pinsir''''' || '''''2.41%''''' 
 |-
-| [[File:Kangaskhan.png|40px]] Kangaskhan || 9.04%
+| [[File:Kangaskhan.png|40px]] '''''Kangaskhan''''' || '''''9.04%''''' 
 |-
-| [[File:Tauros.png|40px]] Tauros || 6.02%
+| [[File:Tauros.png|40px]] '''''Tauros''''' || '''''6.02%''''' 
 |-
 | [[File:Cubone.png|40px]] Cubone || 6.02%
 |-
@@ -58,38 +69,44 @@ El jugador puede salir y volver a entrar a la zona safari sin pagar la entrada d
 |-
 | [[File:Tangela.png|40px]] Tangela|| 2.41%
 |}
+*In Windows client a Chansey alt form can be bought in client island
+&lt;/div&gt;
 
-==Acciones==
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Actions==
 {| class="wikitable"
-! Acción !! Efecto
+! Action !! Effect
 |-
-| Ball || Intento de capturar el Pokémon con una Safari Ball. Dependiendo del porcentaje de captura, esta acción puede fallar, después del cual el Pokémon puede escapar (dependiendo de la porcentaje de escape), observar cuidadosamente / estar enfadado (por ejemplo no hacer nada), o continuar comiéndose el cebo. Hasta que se acaben las Safari Balls, el jugador será forzado a salir de la Zona Safari, requiriéndole pagar la entrada de nuevo para volver a entrar.
+| Ball || Attempt to catch the Pokémon with a Safari Ball. Based on catch chance, this action may fail, after which the Pokémon might flee (based on escape chance), watch carefully / be angry (i.e. do nothing), or resume eating bait. Upon running out of Safari Balls, the player will be forced out of the Safari Zone, requiring them to pay the entrance fee again to re-enter.
 |-
-| Roca || Lanzar una roca al Pokémon, eliminando el estado "comiendo" y enfadándolo de 2 - 7 turnos. Cuando está enfadado, el porcentaje de captura del Pokémon y escape se doblan.
+| Rock || Toss a rock at the Pokémon, removing "eating" status and making it angry for 2 - 7 turns. When angry, a Pokémon's catch chance and escape chance are both doubled.
 |-
-| Run || Huir del encuentro y volver a la Zona Safari sin penalización.
+| Run || Flee the encounter and return to the Safari Zone overworld without penalty.
 |-
-| colspan=2 | Los tres tipos de cebo dan al Pokémon el estado "comiendo", y elimina el estado "enfadado". Mientras come, el porcentaje de captura del Pokémon es reducido a la mitad, y su porcentaje de escape es reducido un cuarto. Los Pokémon encontrados empiezan con un porcentaje de escape del 30%.
+| colspan=2 | All three types of bait give the Pokémon "eating" status, and removes "angry" status. While eating, a Pokémon's catch chance is halved, and its escape chance is quartered. Pokémon begin encounters with an escape chance of 30%.
 |-
-| Cebo (génerico) || Da al Pokémon el estado "comiendo" de 2 - 7 turnos. No tiene otros efectos.
+| Bait (generic) || Gives the Pokémon "eating" status for 2 - 7 turns. No other effects.
 |-
-| Cebo ([[Berry|Baya]] [[Razz|Frambu]]) || Da al Pokémon el estado "comiendo" de 2 - 8 turnos. Divide el porcentaje de escape un x1,5 por el resto del encuentro a menos que se use otro tipo de cebo.
+| Bait ([[Razz]] [[Berry]]) || Gives the Pokémon "eating" status for 2 - 8 turns. Divides escape chance by 1.5 for the rest of the encounter unless another type of bait is used.
 |-
-| Cebo ([[Berry|Baya]] [[Nanab|Latano]]) || Da al Pokémon el estado "comiendo" de 2 - 8 turnos. Incrementa el porcentaje de captura un x1,5 el resto del encuentro a menos que se use otro tipo de cebo.
+| Bait ([[Nanab]] [[Berry]]) || Gives the Pokémon "eating" status for 2 - 8 turns. Boosts catch chance by 1.5x for the rest of the encounter unless another type of bait is used.
 |}
+&lt;/div&gt;
 
-Ejemplo del uso del cebo
-* Encuentro con Parasect en la Zona Safari. El porcentaje de Captura es '''12.5%''', el porcentaje de escape es '''30%'''.
-* Turno del jugador, se usa el cebo Baya Latano. El porcentaje de Captura incrementado un 1.5x: 12.5 * 1.5 = '''18.75%'''. El porcentaje de escape es '''30%'''.
-* Parasect está comiendo. Porcentaje de captura reducido a la mitad: 18.75 / 2 = '''9.375%'''. Porcentaje de escape reducido un cuarto: 30 / 4 = '''7.5%'''.
-* Unos pocos turnos pasan, y Parasect termina de comer. Los bonus de comer son revertidos, pero el bonus de la baya Latano continúa. El porcentaje de captura es '''18.75%''', el porcentaje de escape es '''30%'''.</text>
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Bait usage example
+* Parasect encountered in the Safari Zone. Catch chance is '''12.5%''', escape chance is '''30%'''.
+* Player's turn, Nanab Berry bait used. Catch chance boosted by 1.5x: 12.5 * 1.5 = '''18.75%'''. Escape chance is '''30%'''.
+* Parasect is eating. Catch chance halved: 18.75 / 2 = '''9.375%'''. Escape chance quartered: 30 / 4 = '''7.5%'''.
+* A few turns pass, and Parasect finishes eating. Eating bonuses are reverted, but Nanab bonus persists. Catch chance is '''18.75%''', escape chance is '''30%'''.
+&lt;/div&gt;</text>
     <contributor>
-      <username>SrVariable</username>
-      <id>142</id>
+      <username>FuzzyBot</username>
+      <id>133</id>
     </contributor>
-    <comment></comment>
+    <comment>Updating to match new version of source page</comment>
     <model>wikitext</model>
-    <parentid>20920</parentid>
-    <sha1>90042acd4bc90158b558e4e81081d563708d1e65</sha1>
+    <parentid>20921</parentid>
+    <sha1>744ed2bee2305de5cef3ebb11eeb47df542c8897</sha1>
   </revision>
 </page></mediawiki>

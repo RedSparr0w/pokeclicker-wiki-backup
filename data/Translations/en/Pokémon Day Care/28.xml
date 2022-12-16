@@ -4,40 +4,40 @@
   <ns>1198</ns>
   <id>11751</id>
   <revision>
-    <id>32335</id>
-    <timestamp>2022-12-07T12:28:40Z</timestamp>
-    <text space="preserve" bytes="3078">{| class="wikitable sortable collapsible collapsed"
+    <id>35089</id>
+    <timestamp>2022-12-15T20:39:43Z</timestamp>
+    <text space="preserve" bytes="3088">{| class="wikitable sortable collapsible collapsed"
 ! Full Strategy !! MESBM !! BD (hours) !! MRT (hours) !! U% !! MESBM w/ U% !! ER
 |+Expanded Rate Table
 |-
-| [[Pokemon Day Care#Chople + Empty Rows|Chople]]&lt;br&gt; ([[File:Chople.png|20px]]) || 1.56x || 10 hours || 10 hours || {{ #expr: 10/(10+10) * 100}} % || {{ #expr: (10/(10+10)) * (1.56-1) +1}}x || 8
+| [[Pokémon Day Care#Chople + Empty Rows|Chople]]&lt;br&gt; ([[File:Chople.png|20px]]) || 1.56x || 10 hours || 10 hours || {{ #expr: 10/(10+10) * 100}} % || {{ #expr: (10/(10+10)) * (1.56-1) +1}}x || 8
 |-
-| [[Pokemon Day Care#Chople + Yache/Haban|Chople + Yache]]&lt;br&gt; ([[File:Chople.png|20px]] + [[File:Yache.png|20px]])|| 1.56x || {{ #expr: 10/0.7round2 }} hours || {{ #expr: 10/0.7round2 }} hours || {{ #expr: (10/0.7)/((10/0.7) + (10/0.7)) * 100}} % || {{ #expr: ((10/0.7)/((10/0.7) + (10/0.7))) * (1.56-1) + 1}}x || 8
+| [[Pokémon Day Care#Chople + Yache/Haban|Chople + Yache]]&lt;br&gt; ([[File:Chople.png|20px]] + [[File:Yache.png|20px]])|| 1.56x || {{ #expr: 10/0.7round2 }} hours || {{ #expr: 10/0.7round2 }} hours || {{ #expr: (10/0.7)/((10/0.7) + (10/0.7)) * 100}} % || {{ #expr: ((10/0.7)/((10/0.7) + (10/0.7))) * (1.56-1) + 1}}x || 8
 |-
-| [[Pokemon Day Care#Chople + Yache/Haban|Chople + Haban]]&lt;br&gt; ([[File:Chople.png|20px]] + [[File:Haban.png|20px]])|| 1.56x || {{ #expr: 10/0.5round2 }} hours || {{ #expr: 10/0.5round2 }} hours || {{ #expr: (10/0.5)/((10/0.5) + (10/0.5)) *100}} % || {{ #expr: ((10/0.5)/((10/0.5) + (10/0.5))) * (1.56-1) + 1}}x || 8
+| [[Pokémon Day Care#Chople + Yache/Haban|Chople + Haban]]&lt;br&gt; ([[File:Chople.png|20px]] + [[File:Haban.png|20px]])|| 1.56x || {{ #expr: 10/0.5round2 }} hours || {{ #expr: 10/0.5round2 }} hours || {{ #expr: (10/0.5)/((10/0.5) + (10/0.5)) *100}} % || {{ #expr: ((10/0.5)/((10/0.5) + (10/0.5))) * (1.56-1) + 1}}x || 8
 |-
-| [[Pokemon Day Care#Chople + Petaya|Chople + Petaya]]&lt;br&gt; ([[File:Chople.png|20px]] + [[File:Petaya.png|20px]]) || 1.56x || 4 days 10 hours || 24 hours || {{ #expr: (4*24 + 10)/((4*24 + 10) + 24) *100 round2}} % || {{ #expr: ((4*24 + 10)/((4*24 + 10) + 24)) * (1.56-1) + 1round2}} || 5
+| [[Pokémon Day Care#Chople + Petaya|Chople + Petaya]]&lt;br&gt; ([[File:Chople.png|20px]] + [[File:Petaya.png|20px]]) || 1.56x || 4 days 10 hours || 24 hours || {{ #expr: (4*24 + 10)/((4*24 + 10) + 24) *100 round2}} % || {{ #expr: ((4*24 + 10)/((4*24 + 10) + 24)) * (1.56-1) + 1round2}} || 5
 |-
-| [[Pokemon Day Care#Chople + Lum|Chople + Lum]]&lt;br&gt; ([[File:Chople.png|20px]] + [[File:Lum.png|20px]]) || 2.43x || 10 hours || 10 hours || {{ #expr: 10/(10+10) * 100}} % || {{ #expr: (10/(10+10)) * (2.43-1) + 1round2}} || 4
+| [[Pokémon Day Care#Chople + Lum|Chople + Lum]]&lt;br&gt; ([[File:Chople.png|20px]] + [[File:Lum.png|20px]]) || 2.43x || 10 hours || 10 hours || {{ #expr: 10/(10+10) * 100}} % || {{ #expr: (10/(10+10)) * (2.43-1) + 1round2}} || 4
 |-
-| [[Pokemon Day Care#Chople + Lum + Petaya|Chople + Lum + Petaya]]&lt;br&gt; ([[File:Chople.png|20px]] + [[File:Lum.png|20px]] + [[File:Petaya.png|20px]]) || 2.43x || 4 days 10 hours || 24 hours || {{ #expr: (4*24 + 10)/((4*24 + 10) + 24) *100 round2}} % || {{ #expr: ((4*24 + 10)/((4*24 + 10) + 24)) * (2.43-1) + 1round2}} || 2
+| [[Pokémon Day Care#Chople + Lum + Petaya|Chople + Lum + Petaya]]&lt;br&gt; ([[File:Chople.png|20px]] + [[File:Lum.png|20px]] + [[File:Petaya.png|20px]]) || 2.43x || 4 days 10 hours || 24 hours || {{ #expr: (4*24 + 10)/((4*24 + 10) + 24) *100 round2}} % || {{ #expr: ((4*24 + 10)/((4*24 + 10) + 24)) * (2.43-1) + 1round2}} || 2
 |-
-| [[Pokemon Day Care#Chople + Babiri + Petaya|Chople + Babiri + Petaya]]&lt;br&gt; ([[File:Chople.png|20px]] + [[File:Babiri.png|20px]] + [[File:Petaya.png|20px]]) || 1.81x || 4 days 10 hours || 24 hours || {{ #expr: (4*24 + 10)/((4*24 + 10) + 24) *100 round2}} % || {{ #expr: ((4*24 + 10)/((4*24 + 10) + 24)) * (1.81-1) + 1round2}} || 7
+| [[Pokémon Day Care#Chople + Babiri + Petaya|Chople + Babiri + Petaya]]&lt;br&gt; ([[File:Chople.png|20px]] + [[File:Babiri.png|20px]] + [[File:Petaya.png|20px]]) || 1.81x || 4 days 10 hours || 24 hours || {{ #expr: (4*24 + 10)/((4*24 + 10) + 24) *100 round2}} % || {{ #expr: ((4*24 + 10)/((4*24 + 10) + 24)) * (1.81-1) + 1round2}} || 7
 |-
-| [[Pokemon Day Care#Chople + Babiri|Chople + Babiri]]&lt;br&gt; ([[File:Chople.png|20px]] + [[File:Babiri.png|20px]]) || 1.86x || 10 hours || 18 hours || {{ #expr: 10/(10 + 18) *100 round2}} % || {{ #expr: (10/(10 + 18)) * (1.86-1) + 1round2}} || 6
+| [[Pokémon Day Care#Chople + Babiri|Chople + Babiri]]&lt;br&gt; ([[File:Chople.png|20px]] + [[File:Babiri.png|20px]]) || 1.86x || 10 hours || 18 hours || {{ #expr: 10/(10 + 18) *100 round2}} % || {{ #expr: (10/(10 + 18)) * (1.86-1) + 1round2}} || 6
 |-
-| [[Pokemon Day Care#Chople + Babiri + Lum|Chople + Babiri + Lum]]&lt;br&gt; ([[File:Chople.png|20px]] + [[File:Babiri.png|20px]] + [[File:Lum.png|20px]]) || 2.90x || 10 hours || 18 hours || {{ #expr: 10/(10 + 18) *100 round2}} % || {{ #expr: (10/(10 + 18)) * (2.90-1) + 1round2}} || 3
+| [[Pokémon Day Care#Chople + Babiri + Lum|Chople + Babiri + Lum]]&lt;br&gt; ([[File:Chople.png|20px]] + [[File:Babiri.png|20px]] + [[File:Lum.png|20px]]) || 2.90x || 10 hours || 18 hours || {{ #expr: 10/(10 + 18) *100 round2}} % || {{ #expr: (10/(10 + 18)) * (2.90-1) + 1round2}} || 3
 |-
-| [[Pokemon Day Care#Chople + Babiri + Petaya + Lum|Chople + Babiri + Petaya + Lum]]&lt;br&gt; ([[File:Chople.png|20px]] + [[File:Babiri.png|20px]] + [[File:Petaya.png|20px]] + [[File:Lum.png|20px]]) || 2.73x || 4 days 10 hours || 24 hours || {{ #expr: (4*24 + 10)/((4*24 + 10) + 24) *100 round2}} % || {{ #expr: ((4*24 + 10)/((4*24 + 10) + 24)) * (2.73-1) + 1round2}} || 1
+| [[Pokémon Day Care#Chople + Babiri + Petaya + Lum|Chople + Babiri + Petaya + Lum]]&lt;br&gt; ([[File:Chople.png|20px]] + [[File:Babiri.png|20px]] + [[File:Petaya.png|20px]] + [[File:Lum.png|20px]]) || 2.73x || 4 days 10 hours || 24 hours || {{ #expr: (4*24 + 10)/((4*24 + 10) + 24) *100 round2}} % || {{ #expr: ((4*24 + 10)/((4*24 + 10) + 24)) * (2.73-1) + 1round2}} || 1
 |-
 |}</text>
     <contributor>
-      <username>FuzzyBot</username>
-      <id>133</id>
+      <username>ThePantMan</username>
+      <id>8</id>
     </contributor>
-    <comment>Importing a new version from external source</comment>
+    <comment>Text replacement - "(?&lt;!{{)(?&lt;!{{Route)Pokemon" to "Pokémon"</comment>
     <model>wikitext</model>
-    <parentid>0</parentid>
-    <sha1>e93d5eaf887d9d867fdd3f2767766742a1d13f56</sha1>
+    <parentid>32335</parentid>
+    <sha1>8dbc7e6ae4743f94ed0207a758121887dca79c2a</sha1>
   </revision>
 </page></mediawiki>

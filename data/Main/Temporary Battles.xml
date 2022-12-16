@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>4149</id>
   <revision>
-    <id>34761</id>
-    <timestamp>2022-12-14T17:48:09Z</timestamp>
-    <text space="preserve" bytes="137694">&lt;languages/&gt;
+    <id>35086</id>
+    <timestamp>2022-12-15T20:39:42Z</timestamp>
+    <text space="preserve" bytes="137698">&lt;languages/&gt;
 &lt;translate&gt;
 &lt;!--T:1--&gt;
 '''Temporary battles''' refers to special battles in Pokéclicker where the player faces a trainer or Pokémon once to unlock other areas. Once the player wins, these battles become inaccessible.
@@ -22,9 +22,9 @@
 |-
 || Hitmonchan [[File:Hitmonchan.png|25px]] || 108,985
 |-
-| Clear [[Kanto#Routes|Route 12]] and&lt;br&gt; Clear [[Pokemon Tower]] || [[Kanto#Routes|Route 12]] || Snorlax Route 12 [[File:Snorlax.png|25px]] || 3,167 || Snorlax [[File:Snorlax.png|25px]] || 189,990 || (x4) Fighting
+| Clear [[Kanto#Routes|Route 12]] and&lt;br&gt; Clear [[Pokémon Tower]] || [[Kanto#Routes|Route 12]] || Snorlax Route 12 [[File:Snorlax.png|25px]] || 3,167 || Snorlax [[File:Snorlax.png|25px]] || 189,990 || (x4) Fighting
 |-
-| Clear [[Pokemon Tower]] || [[Kanto#Routes|Route 16]] || Snorlax Route 16 [[File:Snorlax.png|25px]] || 3,167 || Snorlax [[File:Snorlax.png|25px]] || 189,990 || (x4) Fighting
+| Clear [[Pokémon Tower]] || [[Kanto#Routes|Route 16]] || Snorlax Route 16 [[File:Snorlax.png|25px]] || 3,167 || Snorlax [[File:Snorlax.png|25px]] || 189,990 || (x4) Fighting
 |-
 | rowspan=2 | Part of [[Questlines#Bill's Errand|Bill's Errand]] Questline || rowspan=2 | [[Towns &amp; Cities#Kanto|Three Island]] || rowspan=2 | Biker Goon 1 [[File:Biker_Goon.png|25px]] || rowspan=2 | 6,616 || Koffing [[File:Koffing.png|25px]] || 198,477 || rowspan=2 | (x4) Ground, Psychic
 |-
@@ -60,7 +60,7 @@ rowspan=4{{!}} Clear [[Kanto#Routes|Route 6]] {{!}}{{!}} rowspan=4{{!}} Near [[T
 {{!}} Kadabra [[File:Kadabra.png|25px]] {{!}}{{!}} 19,197 {{!}}{{!}} (x4) Bug, Ghost, Dark| 
 }}
 {{#arraydefine:Blue_4-1_Base_Encounters|
-rowspan=5{{!}} Clear [[Pokemon Tower]] {{!}}{{!}} rowspan=5{{!}} [[Pokemon Tower]] {{!}}{{!}} rowspan=5{{!}} Blue 4 [[File:Blue2 (Trainer).png|25px]] {{!}}{{!}} rowspan=5{{!}} 2,626 {{!}}{{!}} Pidgeotto [[File:Pidgeotto.png|25px]] {{!}}{{!}} 30,398 {{!}}{{!}} (x2) Rock, Electric, Ice| 
+rowspan=5{{!}} Clear [[Pokémon Tower]] {{!}}{{!}} rowspan=5{{!}} [[Pokémon Tower]] {{!}}{{!}} rowspan=5{{!}} Blue 4 [[File:Blue2 (Trainer).png|25px]] {{!}}{{!}} rowspan=5{{!}} 2,626 {{!}}{{!}} Pidgeotto [[File:Pidgeotto.png|25px]] {{!}}{{!}} 30,398 {{!}}{{!}} (x2) Rock, Electric, Ice| 
 }}
 {{#arraydefine:Blue_4-2_Base_Encounters|
 Kadabra [[File:Kadabra.png|25px]] {{!}}{{!}} 30,398 {{!}}{{!}} (x4) Bug, Ghost, Dark| 
@@ -2394,12 +2394,12 @@ These battles change depending on the player's chosen starter:
 
 &lt;/translate&gt;</text>
     <contributor>
-      <username>SomeonealiveQN</username>
-      <id>5</id>
+      <username>ThePantMan</username>
+      <id>8</id>
     </contributor>
-    <comment>fix cue ball paxton team</comment>
+    <comment>Text replacement - "(?&lt;!{{)(?&lt;!{{Route)Pokemon" to "Pokémon"</comment>
     <model>wikitext</model>
-    <parentid>34759</parentid>
-    <sha1>16040515c172cfb3a6b17b9a271a1154c7eaa604</sha1>
+    <parentid>34761</parentid>
+    <sha1>a6c2f3aa514cd1ad8ca0651bb66ee54b5b00bd29</sha1>
   </revision>
 </page></mediawiki>

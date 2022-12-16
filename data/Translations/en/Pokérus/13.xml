@@ -4,9 +4,9 @@
   <ns>1198</ns>
   <id>10545</id>
   <revision>
-    <id>34269</id>
-    <timestamp>2022-12-12T21:16:48Z</timestamp>
-    <text space="preserve" bytes="561">====EV Modifiers====
+    <id>35002</id>
+    <timestamp>2022-12-15T20:23:10Z</timestamp>
+    <text space="preserve" bytes="562">====EV Modifiers====
 {| class="wikitable"
 |+ EV Yield Modifiers
 ! EV Modifier || Method
@@ -19,7 +19,7 @@
 |-
 | 5x || Pokémon is obtained using a [[Repeat Ball]]
 |-
-| 50x || Pokémon is encountered and captured as a [[Roaming Pokemon]]
+| 50x || Pokémon is encountered and captured as a [[Roaming Pokémon]]
 |-
 | Variable || [[Rowap|Rowap Berry Aura]] 
 |}
@@ -28,9 +28,9 @@
       <username>ThePantMan</username>
       <id>8</id>
     </contributor>
-    <comment>Text replacement - "Repeatball" to "Repeat Ball"</comment>
+    <comment>Text replacement - " Pokemon" to " Pokémon"</comment>
     <model>wikitext</model>
-    <parentid>30581</parentid>
-    <sha1>8a5af91a27a8d8f390ac826d1ebb413f50050349</sha1>
+    <parentid>34269</parentid>
+    <sha1>023388af67f0245893872a2c52c4d80a91fd4a6c</sha1>
   </revision>
 </page></mediawiki>

@@ -4,127 +4,158 @@
   <ns>0</ns>
   <id>7590</id>
   <revision>
-    <id>21555</id>
-    <timestamp>2022-08-02T20:32:58Z</timestamp>
-    <text space="preserve" bytes="4595">&lt;languages/&gt;
+    <id>35130</id>
+    <timestamp>2022-12-15T21:36:07Z</timestamp>
+    <text space="preserve" bytes="4927">&lt;languages/&gt;
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
 {{Infobox Berry
-|name    = #18 Guaya (Aguav)
+|name    = #18 Aguav
 |image   = [[File:Aguav.png]]
-|caption = La parte cercana al tallo es un poco amarga. Su delicada flor no necesita mucha luz.
+|caption = This Berry turns bitter toward the stem. The dainty flower it grows from doesn't absorb much sunlight.
 |growtime  = 5m 50s
-|harvest = 17 bayas
+|harvest = 17 berries
 |replant = 30%
 |mutation = 0.6%
 |points = 55
 |flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
-*0 picante
-*0 seco
-*0 dulce
-*15 amargo
-*0 ácido
+*0 spicy 
+*0 dry
+*0 sweet
+*15 bitter
+*0 sour
 }}
+&lt;/div&gt;
 
-'''Guaya (Aguav)''' es un tipo de [[Berries|baya]] que puede ser plantada en la [[Farm|granja]]. Se puede obtener rodeando una parcela con al menos de 25 y no más de 80 puntos amargos y menos de 5 puntos de cualquier otro sabor. Se requiere haber desbloqueado la baya [[Rawst|Safre (Rawst)]] para desbloquear esta baya.
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+'''Aguav''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by surrounding an empty plot with at least 25, but no more than 80 points of bitter and less than 5 points of all other flavours. The [[Rawst]] berry must be unlocked to obtain this berry.
+&lt;/div&gt;
 
-== Tablas de Crecimiento ==
-=== Estados de Crecimiento ===
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Growth Tables ==
+=== Growth Stages ===
 {| class="wikitable" | style = "image-rendering: pixelated"
-! !! Brote !! Crecimiento !! Floración !! Madurez
+! !! Sprout !! Taller !! Bloom !! Berry
 |-
-! Tiempo pasado desde que se planta
-| 40 seg || 2 min 50 seg || 3 min 40 seg || 5 min 50 seg - 11 min 40 seg
+! Time passed since planting
+| 40 secs || 2 mins 50 secs || 3 mins 40 secs || 5 mins 50 secs - 11 mins 40 secs
 |-
-! Animación
+! Animation
 |  &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:AguavTreeTaller.png|50px]] || &lt;center&gt; [[File:AguavTreeBloom.png|50px]] || &lt;center&gt; [[File:AguavTreeBerry.png|50px]]
 |}
+&lt;/div&gt;
 
-=== Tiempos de Maduración con modificadores===
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+=== Ripening Time with Modifiers ===
 {| class="wikitable" | style="text-align: center;"
-! Modificador !! Tiempo hasta la madurez-marchitado
+! Modifier !! Ripe-Wither Time
 |-
-! Ninguno
-| 5 min 50 seg -&lt;br&gt; 11 min 40 seg
+! None
+| 5 mins 50 secs -&lt;br&gt; 11 mins 40 secs
 |-
-! Psydugadera
-| 3 min 53 seg -&lt;br&gt; 7 min 47 seg
+! Sprayduck
+| 3 mins 53 secs -&lt;br&gt; 7 mins 47 secs
 |}
+&lt;/div&gt;
 
-== Diagrama de Flujo ==
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Flow Chart ==
 [[File:Aguav_Flow_Chart.png|100px]]
 &lt;br&gt;
-'''Leyenda:'''&lt;br&gt;
-· Random Drop: Obtenido aleatoriamente en ruta
+&lt;/div&gt;
 
-== Estrategia de mutación ==
-=== Posibles formaciones ===
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Mutation Strategy ==
+=== Possible Planting Formations ===
+&lt;/div&gt;
 
-Puedes llenar tu granja del siguiente modo para obtener bayas Guaya (Aguav). Los cuadrados morados indican dónde pueden ocurrir las mutaciones.
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+You can fill your farm in the following way to obtain Aguav berries. Purple squares indicate where mutations can occur.
+&lt;/div&gt;
 
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
 {| class="wikitable" style="text-align: center;"
-|+ Formación Base
+|+ Base Formation
 |- style="height: 50px;"
-| style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Rawst.png|30px]] [[Rawst|Safre (Rawst)]]
+| style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Rawst.png|30px]] [[Rawst]]
 |- style="height: 50px;"
-| style="width: 40px;" | [[File:Rawst.png|30px]] [[Rawst|Safre (Rawst)]] || [[File:Rawst.png|30px]] [[Rawst|Safre (Rawst)]]
+| style="width: 40px;" | [[File:Rawst.png|30px]] [[Rawst]] || [[File:Rawst.png|30px]] [[Rawst]]
 |}
+&lt;/div&gt;
 
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
 {| class="wikitable" style="text-align: center;"
-|+ Formación Óptima
+|+ Optimized Planting Formation
 |-
-| style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Rawst.png|30px]] [[Rawst|Safre (Rawst)]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Rawst.png|30px]] [[Rawst|Safre (Rawst)]]
+| style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Rawst.png|30px]] [[Rawst]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Rawst.png|30px]] [[Rawst]]
 |-
-| [[File:Rawst.png|30px]] [[Rawst|Safre (Rawst)]] || [[File:Rawst.png|30px]] [[Rawst|Safre (Rawst)]] || style="background-color:#9C7D98;" | || [[File:Rawst.png|30px]] [[Rawst|Safre (Rawst)]] || [[File:Rawst.png|30px]] [[Rawst|Safre (Rawst)]] 
+| [[File:Rawst.png|30px]] [[Rawst]] || [[File:Rawst.png|30px]] [[Rawst]] || style="background-color:#9C7D98;" | || [[File:Rawst.png|30px]] [[Rawst]] || [[File:Rawst.png|30px]] [[Rawst]] 
 |- style="height: 50px;"
 | style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" |
 |-
-| style="background-color:#9C7D98;" | || [[File:Rawst.png|30px]] [[Rawst|Safre (Rawst)]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Rawst.png|30px]] [[Rawst|Safre (Rawst)]] 
+| style="background-color:#9C7D98;" | || [[File:Rawst.png|30px]] [[Rawst]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Rawst.png|30px]] [[Rawst]] 
 |-
-| [[File:Rawst.png|30px]] [[Rawst|Safre (Rawst)]] || [[File:Rawst.png|30px]] [[Rawst|Safre (Rawst)]] || style="background-color:#9C7D98;" | || [[File:Rawst.png|30px]] [[Rawst|Safre (Rawst)]] || [[File:Rawst.png|30px]] [[Rawst|Safre (Rawst)]] 
+| [[File:Rawst.png|30px]] [[Rawst]] || [[File:Rawst.png|30px]] [[Rawst]] || style="background-color:#9C7D98;" | || [[File:Rawst.png|30px]] [[Rawst]] || [[File:Rawst.png|30px]] [[Rawst]] 
 |}
+&lt;/div&gt;
 
-==Usos==
-===Mutaciones===
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Uses==
+===Mutations===
+&lt;/div&gt;
 
-Las bayas Guaya (Aguav) pueden usarse para mutar las siguientes bayas.
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Aguav berries can be used to mutate the following berries.
+&lt;/div&gt;
 
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
 {| class="wikitable" | style="text-align: center;"
 |-
-! Se usa para !! Junto a
+! Used In !! With
 |-
-| [[File:Hondew.png|20px]] [[Hondew|Meluce (Hondew)]] || [[File:Figy.png|20px]] [[Figy|Higog (Figy)]] &lt;br&gt; [[File:Wiki.png|20px]] [[Wiki]]
+| [[File:Hondew.png|20px]] [[Hondew]] || [[File:Figy.png|20px]] [[Figy]] &lt;br&gt; [[File:Wiki.png|20px]] [[Wiki]]
 |-
-| [[File:Grepa.png|20px]] [[Grepa|Uvav (Grepa)]] || [[File:Figy.png|20px]] [[Figy|Higog (Figy)]]
+| [[File:Grepa.png|20px]] [[Grepa]] || [[File:Figy.png|20px]] [[Figy]]
 |-
-| [[File:Rabuta.png|20px]] [[Rabuta|Rautan (Rabuta)]] || [[File:Aspear.png|20px]] [[Aspear|Perasi (Aspear)]]
+| [[File:Rabuta.png|20px]] [[Rabuta]] || [[File:Aspear.png|20px]] [[Aspear]]
 |-
-| [[File:Rindo.png|20px]] [[Rindo|Tamar (Rindo)]] || [[File:Cheri.png|20px]] [[Cheri|Zreza (Cheri)]] &lt;br&gt; OR &lt;br&gt; [[File:Figy.png|20px]] [[Figy|Higog (Figy)]]
+| [[File:Rindo.png|20px]] [[Rindo]] || [[File:Cheri.png|20px]] [[Cheri]] &lt;br&gt; OR &lt;br&gt; [[File:Figy.png|20px]] [[Figy]]
 |-
-| [[File:Coba.png|20px]] [[Coba|Kouba (Coba)]] || [[File:Chesto.png|20px]] [[Chesto|Atania (Chesto)]] &lt;br&gt; OR &lt;br&gt; [[File:Wiki.png|20px]] [[Wiki]]
+| [[File:Coba.png|20px]] [[Coba]] || [[File:Chesto.png|20px]] [[Chesto]] &lt;br&gt; OR &lt;br&gt; [[File:Wiki.png|20px]] [[Wiki]]
 |-
 |}
+&lt;/div&gt;
 
-==Adquisición==
-===Mazmorras===
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Acquisition==
+===Dungeons===
 {{Loot/head‎|Berries}}
-{{LootItem|Radio Tower|Épico}}
-{{LootItem|Flower Paradise|Común}}
-{{LootItem|Chargestone Cave|Común}}
-{{LootItem|Pokémon Village|Común}}
+{{LootItem|Pattern Bush|Epic}}
+{{LootItem|Radio Tower|Epic}}
+{{LootItem|Flower Paradise|Common}}
+{{LootItem|Chargestone Cave|Common}}
+{{LootItem|Pokémon Village|Common}}
 |}
 |}
+&lt;/div&gt;
 
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
 &lt;br&gt;
+&lt;/div&gt;
 
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
 {{Berries}}
+&lt;/div&gt;
 
-[[Category:Farm|Categoría:Granja]][[Category:Berries|Categoría:Bayas]]</text>
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
     <contributor>
-      <username>Cthulhu Follower</username>
-      <id>51</id>
+      <username>FuzzyBot</username>
+      <id>133</id>
     </contributor>
-    <comment>Created page with "==Adquisición== ===Mazmorras=== {{Loot/head‎|Berries}} {{LootItem|Radio Tower|Épico}} {{LootItem|Flower Paradise|Común}} {{LootItem|Chargestone Cave|Común}} {{LootItem|Pokémon Village|Común}} |} |}"</comment>
+    <comment>Updating to match new version of source page</comment>
     <model>wikitext</model>
-    <parentid>21554</parentid>
-    <sha1>c1f092a2337d1ca416ed416fa25495a65423b184</sha1>
+    <parentid>21555</parentid>
+    <sha1>335b1679d084f6bccca9a8a22332df411f6e0831</sha1>
   </revision>
 </page></mediawiki>

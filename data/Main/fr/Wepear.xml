@@ -4,99 +4,120 @@
   <ns>0</ns>
   <id>8035</id>
   <revision>
-    <id>22674</id>
-    <timestamp>2022-08-10T13:02:22Z</timestamp>
-    <text space="preserve" bytes="4011">&lt;languages/&gt;
+    <id>36019</id>
+    <timestamp>2022-12-15T21:49:43Z</timestamp>
+    <text space="preserve" bytes="4457">&lt;languages/&gt;
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
 {{Infobox Berry
-|name    = #13 Repoi
+|name    = #13 Wepear
 |image   = [[File:Wepear.png]]
-|caption = Sa fleur est blanche et magnifique. Son goût, entre amertume et acidité, semble favoriser la digestion.
+|caption = The potent mix of bitter and sour in this Berry seems to promote digestion. The flower is white and beautiful.
 |growtime  = 6m 40s
-|harvest = 12 baies
+|harvest = 12 berries
 |replant = 40%
 |mutation = 1.6%
 |points = 30
 |flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
-*0 épicée
-*0 sèche
-*0 sucrée
-*10 amère
-*10 acide
+*0 spicy 
+*0 dry
+*0 sweet
+*10 bitter
+*10 sour
 }}
+&lt;/div&gt;
 
-'''Repoi''' est un type de [[Berries/fr|Baie]] qui peut être plantée dans la [[Farm/fr|Ferme]]. Elle s'obtient en entourant une parcelle vide avec au moins 1 [[Rawst/fr|Fraive]] et au moins 1 [[Oran/fr|Oran]].
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+'''Wepear''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by surrounding an empty plot with at least 1 [[Rawst]] and at least 1 [[Oran]].
+&lt;/div&gt;
 
-== Tables de croissance ==
-=== Stades de croissance ===
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Growth Tables ==
+=== Growth Stages ===
 {| class="wikitable" | style = "image-rendering: pixelated"
-|+ Stades de croissance
-! !! Pousse !! Arbuste !! Fleuri !! Mûr
+|+ Growth Stages
+! !! Sprout !! Taller !! Bloom !! Berry
 |-
-! Temps écoulé depuis plantation
+! Time passed since planting
 | 2 mins 30 secs || 5 mins 50 secs || 6 mins 15 secs || 6 mins 40 secs - 13 mins 20 secs
 |-
 ! Animation
 | &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:WepearTreeTaller.png|50px]] || &lt;center&gt; [[File:WepearTreeBloom.png|50px]] || &lt;center&gt; [[File:WepearTreeBerry.png|50px]]
 |}
+&lt;/div&gt;
 
-===Temps de croissance avec modificateurs===
-{| class="wikitable collapsible" | style="text-align: center;"
-! Modificateur !! Temps maturité-flétrissement
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+=== Ripening Time with Modifiers ===
+{| class="wikitable" | style="text-align: center;"
+! Modifier !! Ripe-Wither Time
 |-
-! Aucun
+! None
 | 6 mins 40 secs -&lt;br&gt; 13 mins 20 secs
 |-
-! Kwakarrosoir
+! Sprayduck
 | 4 mins 27 secs -&lt;br&gt; 8 mins 53 secs
 |}
+&lt;/div&gt;
 
-== Organigramme ==
-[[File:Repoi_-_Graph_découverte.png|200px]]
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Flow Chart ==
+[[File:Wepear_Flow_Chart.png|200px]]
 &lt;br&gt;
+&lt;/div&gt;
 
-== Stratégie de mutation ==
-=== Formations possibles ===
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Mutation Strategy ==
+=== Possible Planting Formations ===
+&lt;/div&gt;
 
-Vous pouvez remplir votre ferme de la manière suivante pour obtenir des baies Repoi. Les cases violettes indiquent où les mutations peuvent avoir lieu.
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+You can fill your farm in the following way to obtain Wepear berries. Purple squares indicate where mutations can occur.
+&lt;/div&gt;
 
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
 {| class="wikitable" style="text-align: center;"
-|+ Formation&amp;nbsp;de&amp;nbsp;base
+|+ Base Formation
 |-
-| style="width: 40px;" | [[File:Rawst.png|30px]] [[Rawst/fr|Fraive]] || style="width: 40px; background-color:#9C7D98;" | 
+| style="width: 40px;" | [[File:Rawst.png|30px]] [[Rawst]] || style="width: 40px; background-color:#9C7D98;" | 
 |-
-| style="background-color:#9C7D98;" | || [[File:Oran.png|30px]] [[Oran/fr|Oran]]
+| style="background-color:#9C7D98;" | || [[File:Oran.png|30px]] [[Oran]]
 |}
+&lt;/div&gt;
 
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
 {| class="wikitable" style="text-align: center;"
-|+ Formation de plantation optimisée
+|+ Optimized Planting Formation
 |-
-| style="width: 40px;" | [[File:Rawst.png|30px]] [[Rawst/fr|Fraive]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Rawst.png|30px]] [[Rawst/fr|Fraive]] || style="width: 40px; background-color:#9C7D98;" | 
+| style="width: 40px;" | [[File:Rawst.png|30px]] [[Rawst]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Rawst.png|30px]] [[Rawst]] || style="width: 40px; background-color:#9C7D98;" | 
 |-
-| style="background-color:#9C7D98;" | || [[File:Oran.png|30px]] [[Oran/fr|Oran]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Oran.png|30px]]&lt;br&gt;[[Oran/fr|Oran]]
+| style="background-color:#9C7D98;" | || [[File:Oran.png|30px]] [[Oran]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Oran.png|30px]]&lt;br&gt;[[Oran]]
 |- style="height: 50px;"
 | style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | 
 |-
-| [[File:Rawst.png|30px]] [[Rawst/fr|Fraive]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Rawst.png|30px]] [[Rawst/fr|Fraive]] || style="background-color:#9C7D98;" | 
+| [[File:Rawst.png|30px]] [[Rawst]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Rawst.png|30px]] [[Rawst]] || style="background-color:#9C7D98;" | 
 |-
-| style="background-color:#9C7D98;" | || [[File:Oran.png|30px]] [[Oran/fr|Oran]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Oran.png|30px]]&lt;br&gt;[[Oran/fr|Oran]]
+| style="background-color:#9C7D98;" | || [[File:Oran.png|30px]] [[Oran]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Oran.png|30px]]&lt;br&gt;[[Oran]]
 |}
+&lt;/div&gt;
 
-=== Tableau de chronométrage ===
-{| class="wikitable" | style="text-align: center;"
-|+ ''Tous les temps indiqués sont basés sur le temps restant avant que la première baie plantée n'arrive à maturité''
-! Baie !! Temps de plantation&lt;br&gt;sans modificateur!! Temps de plantation avec &lt;br&gt; Engrais ou Kwakarrosoir || Temps de plantation avec &lt;br&gt; Engrais et Kwakarrosoir
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+=== Timing Table ===
+{| class="collapsible wikitable" | style="text-align: center;"
+|+ ''All planting times use the time-to-ripe remaining of the first planted berry for subsequent planting times''
+! Berry !! Planting Time with &lt;br&gt; No Modifier !! Planting Time with &lt;br&gt; Mulch or Sprayduck || Planting Time with &lt;br&gt;  Mulch &amp; Sprayduck
 |-
-| [[Oran/fr|Oran]] || - || - || -
+| [[Oran]] || - || - || -
 |-
-| [[Rawst/fr|Fraive]] || 1 min 20 secs avant maturité || 53 secs avant maturité || Non optimal
+| [[Rawst]] || 1 min 20 secs until ripe || 53 secs until ripe || Not Practical
 |-
 |}
+&lt;/div&gt;
 
 &lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
 ==Acquisition==
 ===Dungeons===
 {{Loot/head‎|Berries}}
 {{LootItem|Berry Forest|Epic}}
+{{LootItem|Pattern Bush|Epic}}
 {{LootItem|Radio Tower|Epic}}
 {{LootItem|Floccesy Ranch|Epic}}
 {{LootItem|Connecting Cave|Common}}
@@ -104,18 +125,24 @@ Vous pouvez remplir votre ferme de la manière suivante pour obtenir des baies R
 |}
 &lt;/div&gt;
 
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
 &lt;br&gt;
+&lt;/div&gt;
 
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
 {{Berries}}
+&lt;/div&gt;
 
-[[Category:Farm]][[Category:Berries]]</text>
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
     <contributor>
-      <username>LuK</username>
-      <id>96</id>
+      <username>FuzzyBot</username>
+      <id>133</id>
     </contributor>
-    <comment></comment>
+    <comment>Updating to match new version of source page</comment>
     <model>wikitext</model>
-    <parentid>22673</parentid>
-    <sha1>14c3a76a7a351a8376dc691c370d17be82c854b9</sha1>
+    <parentid>22674</parentid>
+    <sha1>548f50d04ebfc018912e7995ebeda69997809f86</sha1>
   </revision>
 </page></mediawiki>

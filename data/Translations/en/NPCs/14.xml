@@ -1,26 +1,34 @@
 <mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
 <page>
   <title>Translations:NPCs/14/en</title>
-  <ns>0</ns>
-  <id>6688</id>
+  <ns>1198</ns>
+  <id>12880</id>
   <revision>
-    <id>19505</id>
-    <timestamp>2022-07-29T08:04:13Z</timestamp>
-    <text space="preserve" bytes="925">{| class="wikitable"
+    <id>35569</id>
+    <timestamp>2022-12-15T21:45:01Z</timestamp>
+    <text space="preserve" bytes="1796">{| class="wikitable"
 |-
 ! NPC Name !! Location !! Function
 |-
-| Professor Sycamore || [[Towns &amp; Cities#Kalos|Lumiose City]] || Tells the player what is needed to progress to the next [[Regions|region]].
+| [[File:Sycamore.png|30px]]Professor Sycamore || [[Towns &amp; Cities#Kalos|Lumiose City]] || Tells the player what is needed to progress to the next [[Regions|region]].
 |-
-| Engineer || [[Towns &amp; Cities#Kalos|Lumiose City]] || Informs the player about the [[Kalos Power Plant|location]] and [[Gyms#Pokémon League Kalos|requirement]] for Volcanion
+| Engineer || [[Towns &amp; Cities#Kalos|Lumiose City]] || Informs the player about the [[Kalos Power Plant|location]] and [[Gyms#Pokémon League Kalos|requirement]] for {{Pokemon|Volcanion}}
+|-
+| Flabébé Enthusiast || [[Towns &amp; Cities#Kalos|Camphrier City]] || Informs the player how to obtain {{Pokemon|Flabébé (Yellow)}} and {{Pokemon|Flabébé (Blue)}}.
+|-
+| [[File:Korrina.png|30px]]Korrina || [[Towns &amp; Cities#Kalos|Shalour City]] || Informs the player where can you buy a [[Key Stone]] and to check the Pokedex for progression through the requirements to [[Mega Evolution|Mega evolve]] a Pokémon.
 |-
 | Birdwatcher || [[Towns &amp; Cities#Kalos|Coumarine City]] || Informs the player about the roaming nature of the legendary birds.
 |-
-| Furisode Girl Katherine || [[Towns &amp; Cities#Kalos|Laverre City]] || Explains the [[Kalos#Weather-dependent_Pokémon|conditions]] needed to evolve Sliggoo into Goodra.
+| [[File:Furisode Girl Katherine.png|30px]]Furisode Girl Katherine || [[Towns &amp; Cities#Kalos|Laverre City]] || Explains the [[Kalos#Weather-dependent_Pokémon|conditions]] needed to evolve {{Pokemon|Sliggoo}} into {{Pokemon|Goodra}}.
 |-
-| Hex Maniac Melanie || [[Towns &amp; Cities#Kalos|Anistar City]] || Informs the player about increased roamer rates.
+| [[File:Hex Maniac.png|30px]]Hex Maniac Melanie || [[Towns &amp; Cities#Kalos|Anistar City]] || Informs the player about increased roamer rates.
 |-
-| Confused Hiker || [[Towns &amp; Cities#Kalos|Kiloude City]] || Informs the player about the roaming nature of Hoopa.
+| [[File:Hiker.png|30px]]Confused Hiker || [[Towns &amp; Cities#Kalos|Kiloude City]] || Informs the player about the roaming nature of {{Pokemon|Hoopa}}.
+|-
+| Mystery Fan || [[Towns &amp; Cities#Kalos|Santalune City]] || Informs the player of a Pokémon interested in a [[Enigma|enigmatic Berry]].
+|-
+| Spelunker || [[Reflection Cave]] || Informs the player of the [[Questlines#Princess Diancie|requirements]] to obtain a princess-like Pokémon.
 |-
 |}</text>
     <contributor>
@@ -30,6 +38,6 @@
     <comment>Importing a new version from external source</comment>
     <model>wikitext</model>
     <parentid>0</parentid>
-    <sha1>0613b9cfe8e0bc6268abeec1c60d9b20ebd81563</sha1>
+    <sha1>b2dca5d50e7f42dabff11e27e62dc47fb09fb7f7</sha1>
   </revision>
 </page></mediawiki>

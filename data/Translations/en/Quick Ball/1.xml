@@ -1,0 +1,31 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Translations:Quick Ball/1/en</title>
+  <ns>1198</ns>
+  <id>12997</id>
+  <revision>
+    <id>35716</id>
+    <timestamp>2022-12-15T21:46:27Z</timestamp>
+    <text space="preserve" bytes="386">{{Infobox Pokéball
+|name       = Quick Ball
+|image      = [[File:Quick Ball.png]]
+|caption    = In-Game image of the ''Quick Ball''.
+|price      = Variable
+|catchTime  = 1s
+|catchRate = Variable (Decreases with more route kills)
+*+15% (0 route kills)
+*+0% (4012 route kills)
+|location   = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*[[Quick Ball#Shops|Shops]]
+*[[Quick Ball#Dungeons|Dungeons]]
+}}</text>
+    <contributor>
+      <username>FuzzyBot</username>
+      <id>133</id>
+    </contributor>
+    <comment>Importing a new version from external source</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>8c1d7f4453edb531c986951be129ae66b3917c3c</sha1>
+  </revision>
+</page></mediawiki>

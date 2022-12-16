@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>6759</id>
   <revision>
-    <id>33893</id>
-    <timestamp>2022-12-12T19:11:24Z</timestamp>
-    <text space="preserve" bytes="11272">&lt;languages/&gt;
+    <id>35317</id>
+    <timestamp>2022-12-15T21:41:45Z</timestamp>
+    <text space="preserve" bytes="11317">&lt;languages/&gt;
 [[File:Pokeclicker_Farm_Interface.png|400px|thumb|The Farm interface, with multiple berries planted.]]
 
 The '''Farm''' is a location in [[Kanto]] where [[Berries]] can be planted. Harvesting them yields [[Farming Points]] {{Farmpoints}} and more of the same type of Berry. Occasionally, mutations can occur when Berries are planted in certain configurations. The Farm is unlocked upon reaching Kanto '''Route 14''' and obtaining the [[Wailmer pail]].
@@ -61,7 +61,7 @@ Berries that mutate by growing near required berries must have the required berr
 ===Evolution Mutation===
 ''Note: Depending on the Flavor profile required for the Berry to evolve, an evolution mutation may occur while the berries are still in the Taller or Bloom growth stages, rather than only when Ripe.''
 
-Berries that mutate by evolving will replace an existing ripe berry with the mutated berry.  Here is an example of mutating [[Spelon]], white background squares are where mutation is impossible, purple squares are where mutation is possible, and where surprise mulch should be applied (if you want to improve your odds):
+Berries that mutate by evolving will replace an existing ripe berry with the mutated berry. This mutation can happen from Taller stage. Here is an example of mutating [[Spelon]], white background squares are where mutation is impossible, purple squares are where mutation is possible, and where surprise mulch should be applied (if you want to improve your odds):
 {| class="wikitable" style="text-align: center;"
 |+ Mutating Spelon, 9x9
 |-
@@ -113,7 +113,7 @@ Extra plots can be unlocked by spending Farming Points and Berries to allow more
 |-
 | Kerry [[File:Kerry.png|20px]] || 100,000 Farming Points {{farmpoints}} || Hoenn Berry Master
 |-
-| Riley [[File:Riley.png|20px]] || 200,000 Farming Points {{farmpoints}} || Sinnoh Berry Master 
+| Riley [[File:FHRiley.png|20px]] || 200,000 Farming Points {{farmpoints}} || Sinnoh Berry Master 
 |-
 | Jamie [[File:Jamie.png|20px]] || 20,000 [[Battle Points]] {{Battlepoints}} || [[Battle Frontier]]
 |-
@@ -125,12 +125,12 @@ Farms with at least one ripe Berry can attract [[Wandering Pokémon]] that are a
 
 [[Category:Farm]]</text>
     <contributor>
-      <username>ThePantMan</username>
-      <id>8</id>
+      <username>FuzzyBot</username>
+      <id>133</id>
     </contributor>
-    <comment>Text replacement - "Pokéball" to "Poké Ball"</comment>
+    <comment>Updating to match new version of source page</comment>
     <model>wikitext</model>
-    <parentid>19576</parentid>
-    <sha1>cd70eee71c16ed12fdc117408bd195649e6f531b</sha1>
+    <parentid>33893</parentid>
+    <sha1>23c71db148b244857bcd77777cc64b37620c708a</sha1>
   </revision>
 </page></mediawiki>

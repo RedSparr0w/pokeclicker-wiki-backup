@@ -4,10 +4,10 @@
   <ns>0</ns>
   <id>3416</id>
   <revision>
-    <id>34403</id>
-    <timestamp>2022-12-12T22:26:17Z</timestamp>
-    <text space="preserve" bytes="10882">==Base Attack==
-The formula for a Pokemon’s '''Base Attack''' is loosely derived from Pokemon Go’s formula for CP.  It can be described through the following equations:
+    <id>35110</id>
+    <timestamp>2022-12-15T20:46:29Z</timestamp>
+    <text space="preserve" bytes="10945">==Base Attack==
+The formula for a Pokémon’s '''Base Attack''' is loosely derived from Pokémon Go’s formula for CP.  It can be described through the following equations:
 
 &lt;math&gt;\colorbox{White}{$\\\text{base offense} = 2*\left[\sqrt{\text{Atk}*\text{SAtk}}+\sqrt{\text{Spe}}\right]
 \\
@@ -25,30 +25,30 @@ This can be graphically represented by holding every stat except one at the same
 
 [[File:Base_Attack_At_60.png|frameless|upright 2]]
 
-Generally speaking, the steeper a curve is the more impact an increase in that stat has on the Base Attack.  For example, it takes much more Speed than HP to increase the Base Attack by 1, and accordingly Pokemon with high Speed but low HP will have lower Base Attack than Pokemon with high HP but low Speed.
+Generally speaking, the steeper a curve is the more impact an increase in that stat has on the Base Attack.  For example, it takes much more Speed than HP to increase the Base Attack by 1, and accordingly Pokémon with high Speed but low HP will have lower Base Attack than Pokémon with high HP but low Speed.
 
 To visualize the effect of the overall BST on the results, the following graph shows the Base Attack for each stat when all other stats are held at 100:
 
 [[File:Base_Attack_At_100.png|frameless|upright 2]]
 
-In addition to the curves meeting at a higher Base Attack, they’re somewhat steeper across the board.  This indicates that the higher a Pokemon’s BST the more valuable each stat point is, leading to an even greater Base Attack.
+In addition to the curves meeting at a higher Base Attack, they’re somewhat steeper across the board.  This indicates that the higher a Pokémon’s BST the more valuable each stat point is, leading to an even greater Base Attack.
 
 ==Attack==
-When first caught, a Pokemon will at level 100 have an '''Attack''' stat equal to their '''Base Attack'''.  Beneath level 100, their Attack scales linearly from 0 to their maximum Attack.  However, at no point may a Pokemon’s Attack be less than 1.
+When first caught, a Pokémon will at level 100 have an '''Attack''' stat equal to their '''Base Attack'''.  Beneath level 100, their Attack scales linearly from 0 to their maximum Attack.  However, at no point may a Pokémon’s Attack be less than 1.
 
-A Pokemon’s Attack stat may contribute less to your total Attack depending on which Region you are in.  For more information, see [[Regions]].
+A Pokémon’s Attack stat may contribute less to your total Attack depending on which Region you are in.  For more information, see [[Regions]].
 
 ==Click Attack==
-'''Click Attack''' is determined by the number of Pokemon you’ve caught, the number of [[Shinies|shiny Pokemon]] you’ve caught, the number of [[Pokérus|Resistant Pokémon]] and your [[Achievements|Achievement Bonus]], according to the following formula:
+'''Click Attack''' is determined by the number of Pokémon you’ve caught, the number of [[Shinies|shiny Pokémon]] you’ve caught, the number of [[Pokérus|Resistant Pokémon]] and your [[Achievements|Achievement Bonus]], according to the following formula:
 
-&lt;math&gt;\colorbox{White}{$ (\text{Pokemon} + \text{Shinies} + \text{Resistant} + 1)^{1.4}*(1+\text{Achievement Bonus}) $}&lt;/math&gt;
+&lt;math&gt;\colorbox{White}{$ (\text{Pok}\acute{\mathrm{e}}\text{mon} + \text{Shinies} + \text{Resistant} + 1)^{1.4}*(1+\text{Achievement Bonus}) $}&lt;/math&gt;
 
-[[Pokémon_with_Alternate_Forms|Alternate forms]] count, for all the number of Pokemon, the number of Shinies and the number of pokerus resistant.  Any Pokémon that has an entry in your [[List of Pokémon with attack|List of Pokémon]] contributes.
+[[Pokémon_with_Alternate_Forms|Alternate forms]] count, for all the number of Pokémon, the number of Shinies and the number of pokerus resistant.  Any Pokémon that has an entry in your [[List of Pokémon with attack|List of Pokémon]] contributes.
 
 ==Egg Cycles==
 '''Egg Cycles''' is a value specific to each species that determines how many steps they need in order to hatch, with each egg cycle corresponding to 40 steps.  The egg cycle value for each species begins with the canonical value, with alternate forms using the same value as the base form, and is subject to few modifiers:
-* An evolved Pokemon’s egg cycle value is 1.5 times the egg cycle value of their pre-evolved form.  In the case of third-stage Pokemon, their egg cycle value is 1.5 times the egg cycle value of the second-stage Pokemon
-* A baby Pokemon’s egg cycle value is 0.8 times the egg cycle value of the base species
+* An evolved Pokémon’s egg cycle value is 1.5 times the egg cycle value of their pre-evolved form.  In the case of third-stage Pokémon, their egg cycle value is 1.5 times the egg cycle value of the second-stage Pokémon
+* A baby Pokémon’s egg cycle value is 0.8 times the egg cycle value of the base species
 * There is a hard cap of 120 egg cycles, equaling 4800 steps, after all factors have been accounted for
 
 There are exceptions to this rule:
@@ -57,15 +57,15 @@ There are exceptions to this rule:
 * The egg cycle values for Sand Cloak and Trash Cloak forms of Burmy and Wormadam are 1.5x higher than their Plant Cloak counterparts, since Burmy (plant) evolves into Burmy (sand) and Burmy (trash).  Similarly, Cherrim (sunshine) has 1.5x the egg cycle value of Cherrim (overcast)
 
 ==Breeding Efficiency==
-'''Breeding Efficiency''' can be summarized as ‘how much Attack a Pokemon gains upon breeding’ divided by ‘how long it takes to breed that Pokemon’.  It is a useful value to know because one of the most important tasks in Pokéclicker is to [[Pokemon Day Care|breed your Pokemon]] to increase their Attack. Some Pokemon give a lot of Attack but take too long to breed, while others breed really quickly but give too little Attack.
+'''Breeding Efficiency''' can be summarized as ‘how much Attack a Pokémon gains upon breeding’ divided by ‘how long it takes to breed that Pokémon’.  It is a useful value to know because one of the most important tasks in Pokéclicker is to [[Pokémon Day Care|breed your Pokémon]] to increase their Attack. Some Pokémon give a lot of Attack but take too long to breed, while others breed really quickly but give too little Attack.
 
-When bred, a Pokemon’s ‘Attack Bonus’ is 1/4 of their Base Attack plus 1 for every Protein they have been fed.  For example, a Pokemon with a Base Attack of 80 and 5 Protein would gain 20 + 5 = 25 Attack upon being bred.  When raised to level 100 again, they would have an Attack stat of 105 instead of 80.  Its Base Attack remains unchanged, however, so a second breeding would still give 25 Attack (for a new max of 130) instead of 26 + 5 = 31.
+When bred, a Pokémon’s ‘Attack Bonus’ is 1/4 of their Base Attack plus 1 for every Protein they have been fed.  For example, a Pokémon with a Base Attack of 80 and 5 Protein would gain 20 + 5 = 25 Attack upon being bred.  When raised to level 100 again, they would have an Attack stat of 105 instead of 80.  Its Base Attack remains unchanged, however, so a second breeding would still give 25 Attack (for a new max of 130) instead of 26 + 5 = 31.
 
-Meanwhile, the amount of time it takes to breed a Pokemon is a simple reference to the number of Egg Cycles that they take to hatch.  Thus, the full equation for Breeding Efficiency is as follows:
+Meanwhile, the amount of time it takes to breed a Pokémon is a simple reference to the number of Egg Cycles that they take to hatch.  Thus, the full equation for Breeding Efficiency is as follows:
 
 &lt;math&gt;\colorbox{White}{$ \text{Breeding Efficiency} = \frac{(0.25*\text{Base Attack})+\text{Proteins used}}{\text{Egg Cycles}} $}&lt;/math&gt;
 
-If your goal is to grow your strength within a single region, you also need to account for the damage debuff for non-native Pokemon.  For more information, see [[Protein]].
+If your goal is to grow your strength within a single region, you also need to account for the damage debuff for non-native Pokémon.  For more information, see [[Protein]].
 
 ==Catch Rate==
 '''Catch Rate''' is a value specific to each species that determines the base odds of capture before in-game modifiers like [[Poké Balls|Poké Ball]]type and the [[Magic Ball]] Oak Item.  The catch rate for each species is identical to the canonical value, with alternate forms using the same value as the base form.  In cases where the canonical catch rate has changed over time, such as Dialga’s catch rate changing from 30 to 3 in ORAS, the newer values are used.
@@ -89,8 +89,8 @@ The following graph includes the rounding and is thus a true representation of t
 [[File:Catch_Rate_With_Rounding.png|frameless|upright 2]]
 
 ==Base EXP==
-'''Base EXP''' is a value specific to each species that is used to determine how much EXP they award when you defeat them in battle.  The EXP value for each Pokemon begins with the canonical ‘base experience yield’ value, with alternate forms using their canonical value when applicable and sharing the base form’s value otherwise.  The base experience yield used is then subject to a modifier:
-* The EXP value for third-stage Pokemon and Legendary Pokemon is 90% of the canonical value.
+'''Base EXP''' is a value specific to each species that is used to determine how much EXP they award when you defeat them in battle.  The EXP value for each Pokémon begins with the canonical ‘base experience yield’ value, with alternate forms using their canonical value when applicable and sharing the base form’s value otherwise.  The base experience yield used is then subject to a modifier:
+* The EXP value for third-stage Pokémon and Legendary Pokémon is 90% of the canonical value.
 
 Additionally, there are exceptions to this general rule:
 * Blissey gives 96% of its canonical EXP value instead of 90%
@@ -98,11 +98,11 @@ Additionally, there are exceptions to this general rule:
 * Rotom’s base form has the same EXP value as its alternate forms instead of its canonical EXP value
 * Darmanitan has the same EXP value as its Zen Mode form instead of its canonical EXP value
 * Volcarona gives 90% of its canonical EXP value despite being neither third-stage nor Legendary
-* Talonflame gives 100% of its canonical EXP value despite being a third-stage Pokemon
+* Talonflame gives 100% of its canonical EXP value despite being a third-stage Pokémon
 * Aegislash gives 94% of its canonical EXP value instead of 90%
 
 ==Enemy Level==
-The '''Enemy Level''' of enemy wild Pokemon is generated according to the following formula:
+The '''Enemy Level''' of enemy wild Pokémon is generated according to the following formula:
 
 Math.floor(20 * Math.pow(MapHelper.normalizeRoute(route, region),(1 / 2.25)));
 
@@ -111,7 +111,7 @@ Math.floor(20 * Math.pow(MapHelper.normalizeRoute(route, region),(1 / 2.25)));
 In which ‘Route Order Number’ is the order of the routes as determined by the code.  For more information, see [[Route Statistics]].
 
 {| class="wikitable"
-|+ Wild Pokemon Levels per Region
+|+ Wild Pokémon Levels per Region
 |-
 ! Region !! Routes !! Level Range
 |-
@@ -129,18 +129,18 @@ In which ‘Route Order Number’ is the order of the routes as determined by th
 |-
 | Alola (6) || 164-193 || 192-207
 |}
-If you encounter a [[Roaming Pokémon]] on a route, it will have the same level as the other Pokemon on that route.
+If you encounter a [[Roaming Pokémon]] on a route, it will have the same level as the other Pokémon on that route.
 
-In [[Dungeons]], the level of non-boss wild Pokemon is determined by the dungeon level, and the level of boss Pokemon is custom-specified.  Both dungeon level and boss Pokemon level vary from 0 to 100.
+In [[Dungeons]], the level of non-boss wild Pokémon is determined by the dungeon level, and the level of boss Pokémon is custom-specified.  Both dungeon level and boss Pokémon level vary from 0 to 100.
 
-Pokemon belonging to dungeon trainers (regular and boss trainers) have the same levels as their respective trainer battles in the games.
+Pokémon belonging to dungeon trainers (regular and boss trainers) have the same levels as their respective trainer battles in the games.
 
-Pokemon belonging to [[Gyms|Gym Leaders]] and associated boss fights have the same levels as their respective boss fights in the games.
+Pokémon belonging to [[Gyms|Gym Leaders]] and associated boss fights have the same levels as their respective boss fights in the games.
 
-The level of Pokemon fought in the [[Battle Frontier]] is equal to the stage number you are on, with a minimum level of 100.
+The level of Pokémon fought in the [[Battle Frontier]] is equal to the stage number you are on, with a minimum level of 100.
 
 ==EXP Award==
-The '''EXP Award''' from a defeated Pokemon is calculated according to the following formula:
+The '''EXP Award''' from a defeated Pokémon is calculated according to the following formula:
 
 &lt;math&gt;\colorbox{White}{$ \text{EXP Award} = \frac{\text{Base EXP}*\text{level}*\text{Trainer Bonus}}{9} $}&lt;/math&gt;
 
@@ -154,16 +154,16 @@ Just like in the games, different species level at different rates.  There are 6
 * Medium Fast: 1,000,000 EXP at level 100
 * Fast: 800,000 EXP at level 100
 * Erratic: 600,000 EXP at level 100
-Every Pokemon shares their canonical leveling rate and accordingly EXP needed for level 100.  For more information on how these EXP groups behave, see Bulbapedia’s [https://bulbapedia.bulbagarden.net/wiki/Experience article] on the subject.
+Every Pokémon shares their canonical leveling rate and accordingly EXP needed for level 100.  For more information on how these EXP groups behave, see Bulbapedia’s [https://bulbapedia.bulbagarden.net/wiki/Experience article] on the subject.
 
 [[Category:Statistics]]</text>
     <contributor>
-      <username>ThePantMan</username>
-      <id>8</id>
+      <username>PixLLL</username>
+      <id>220</id>
     </contributor>
-    <comment>/* Pokeball change */</comment>
+    <comment>Updated accent in click attack formula</comment>
     <model>wikitext</model>
-    <parentid>33119</parentid>
-    <sha1>99b7ffa4dc05b8b478a4fe87d17478b8be58f550</sha1>
+    <parentid>35065</parentid>
+    <sha1>033c4c3bce6cc6d7df365064e6824d5ee63acf18</sha1>
   </revision>
 </page></mediawiki>

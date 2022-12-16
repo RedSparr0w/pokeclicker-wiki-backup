@@ -4,10 +4,11 @@
   <ns>0</ns>
   <id>8</id>
   <revision>
-    <id>34662</id>
-    <timestamp>2022-12-14T04:24:42Z</timestamp>
-    <text space="preserve" bytes="4337">&lt;languages/&gt;
+    <id>36063</id>
+    <timestamp>2022-12-15T21:50:10Z</timestamp>
+    <text space="preserve" bytes="4403">&lt;languages/&gt;
 &lt;translate&gt;
+&lt;!--T:1--&gt;
 {{Infobox battle item
 |name       = XClick
 |image      = [[File:Bag_X_Click_Sprite.png]]
@@ -18,12 +19,15 @@
 *[[XClick#Dungeons|Dungeons]]
 }}
 
+&lt;!--T:2--&gt;
 == Description ==
 The '''XClick''' is a type of battle item. It temporarily boosts the player's Click Attack by 50% for 30 seconds.
 
+&lt;!--T:3--&gt;
 == Details ==
 +50% Bonus to click attack
 
+&lt;!--T:4--&gt;
 == Acquisition ==
 ===Shops===
 {{ItemPrice/head‎|Battle items}}
@@ -53,6 +57,7 @@ The '''XClick''' is a type of battle item. It temporarily boosts the player's Cl
 |}
 |}
 
+&lt;!--T:5--&gt;
 ===Dungeons===
 {{Loot/head‎|Battle items}}
 {{LootItem|Mt. Moon|Common}}
@@ -112,17 +117,18 @@ The '''XClick''' is a type of battle item. It temporarily boosts the player's Cl
 |}
 |}
 
+&lt;!--T:6--&gt;
 __NOTOC__
 {{Battle items}}&lt;br&gt;
 [[Category:Items]] [[Category: Battle Items]]
 &lt;/translate&gt;</text>
     <contributor>
-      <username>ThePantMan</username>
-      <id>8</id>
+      <username>DraKay</username>
+      <id>18</id>
     </contributor>
-    <comment>/* Galar */</comment>
+    <comment>Marked this version for translation</comment>
     <model>wikitext</model>
-    <parentid>257</parentid>
-    <sha1>ae4cbebdbb760ad9797a20c466f76a741d4ec56d</sha1>
+    <parentid>34662</parentid>
+    <sha1>87e6431fd114bc57e86e5f51b7b5a81d0820b532</sha1>
   </revision>
 </page></mediawiki>

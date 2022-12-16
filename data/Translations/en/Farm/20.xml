@@ -1,11 +1,11 @@
 <mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
 <page>
   <title>Translations:Farm/20/en</title>
-  <ns>0</ns>
-  <id>6730</id>
+  <ns>1198</ns>
+  <id>12657</id>
   <revision>
-    <id>19547</id>
-    <timestamp>2022-07-29T08:05:07Z</timestamp>
+    <id>35304</id>
+    <timestamp>2022-12-15T21:41:41Z</timestamp>
     <text space="preserve" bytes="942">===Growth Mutation===
 Berries that mutate by growing near required berries must have the required berries planted such that every required berry is touching at least the corner of a plot for mutation to be possible on that plot.  Mutations can never occur where there is already a berry growing.  Here is an example of mutating [[Occa]], white background squares are where mutation is impossible, purple squares are where mutation is possible, and where surprise mulch should be applied (if you want to improve your odds):
 {| class="wikitable" style="text-align: center;"

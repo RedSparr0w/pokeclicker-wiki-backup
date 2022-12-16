@@ -4,137 +4,175 @@
   <ns>0</ns>
   <id>7463</id>
   <revision>
-    <id>21348</id>
-    <timestamp>2022-08-01T21:42:04Z</timestamp>
-    <text space="preserve" bytes="4996">&lt;languages/&gt;
+    <id>35599</id>
+    <timestamp>2022-12-15T21:45:16Z</timestamp>
+    <text space="preserve" bytes="5496">&lt;languages/&gt;
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
 {{Infobox Berry
-|name    = #12 Anana (Nanab)
+|name    = #12 Nanab
 |image   = [[File:Nanab.png]]
-|caption = Esta es la séptima baya descubierta en todo el mundo. Aunque amarga, tiene un cierto toque dulce.
+|caption = Bitter, but with a trace of sweetness, the Nanab Berry was the seventh to be discovered in the word.
 |growtime  = 4m 10s
-|harvest = 11 bayas
+|harvest = 11 berries
 |replant = 40%
 |mutation = 1.7%
 |points = 25
 |flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
-*0 picante
-*0 seco
-*10 dulce
-*10 amargo
-*0 ácido
+*0 spicy 
+*0 dry
+*10 sweet
+*10 bitter
+*0 sour
 }}
+&lt;/div&gt;
 
-'''Latano (Nanab)''' es un tipo de [[Berries|baya]] que puede ser plantada en la [[Farm|granja]]. Se puede obtener rodeando una parcela vacía con al menos 1 baya [[Pecha|Meloc (Pecha)]] y al menos 1 baya [[Aspear|Perasi (Aspear)]].
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+'''Nanab''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by surrounding an empty plot with at least 1 [[Pecha]] and at least 1 [[Aspear]].
+&lt;/div&gt;
 
-== Tablas de Crecimiento ==
-=== Estados de Crecimiento ===
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Growth Tables ==
+=== Growth Stages ===
 {| class="wikitable"| style = "image-rendering: pixelated"
-! !! Brote !! Crecimiento !! Floración !! Madurez
+! !! Sprout !! Taller !! Bloom !! Berry
 |-
-! Tiempo pasado desde que se planta
-| 25 seg || 30 seg || 35 seg || 4 mins 10 seg - 8 mins 20 seg
+! Time passed since planting
+| 25 secs || 30 secs || 35 secs || 4 mins 10 secs - 8 mins 20 secs
 |-
-! Animación
+! Animation
 | &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:NanabTreeTaller.png|50px]] || &lt;center&gt; [[File:NanabTreeBloom.png|50px]] || &lt;center&gt; [[File:NanabTreeBerry.png|50px]]
 |}
+&lt;/div&gt;
 
-=== Tiempos de Maduración con modificadores ===
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+=== Ripening Time with Modifiers ===
 {| class="wikitable" | style="text-align: center;" | style = "image-rendering: pixelated"
-! Modificador !! Tiempo hasta la madurez-marchitado
+! Modifier !! Ripe-Wither Time
 |-
-! Ninguno
-| 4 min 10 seg -&lt;br&gt; 8 min 20 seg
+! None
+| 4 mins 10 secs -&lt;br&gt; 8 mins 20 secs
 |-
-! Psydugadera
-| 2 min 47 seg -&lt;br&gt; 5 min 53 seg
+! Sprayduck
+| 2 mins 47 secs -&lt;br&gt; 5 mins 53 secs
 |}
+&lt;/div&gt;
 
-== Diagrama de Flujo ==
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Flow Chart ==
 [[File:Nanab_Flow_Chart.png|200px]]
 &lt;br&gt;
-'''Leyenda:'''&lt;br&gt;
-· Random Drop: Obtenido aleatoriamente en ruta
+&lt;/div&gt;
 
-== Estrategia de mutación ==
-=== Posibles formaciones ===
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Mutation Strategy ==
+=== Possible Planting Formations ===
+&lt;/div&gt;
 
-Puedes llenar tu granja del siguiente modo para obtener bayas Latano (Nanab). Los cuadrados morados indican dónde pueden ocurrir las mutaciones.
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+You can fill your farm in the following way to obtain Nanab berries. Purple squares indicate where mutations can occur.
+&lt;/div&gt;
 
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
 {| class="wikitable" style="text-align: center;"
-|+ Formación base
+|+ Base Formation
 |- style="height: 50px;"
-| style="width: 40px;" | [[File:Pecha.png|30px]] [[Pecha|Meloc (Pecha)]] || style="width: 40px; background-color:#9C7D98;" | 
+| style="width: 40px;" | [[File:Pecha.png|30px]] [[Pecha]] || style="width: 40px; background-color:#9C7D98;" | 
 |-
-| style="background-color:#9C7D98;" | || [[File:Aspear.png|30px]] [[Aspear|Perasi (Aspear)]]
+| style="background-color:#9C7D98;" | || [[File:Aspear.png|30px]] [[Aspear]]
 |}
+&lt;/div&gt;
 
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
 {| class="wikitable" style="text-align: center;"
-|+ Formación óptima
+|+ Optimized Planting Formation
 |- style="height: 50px;"
-| style="width: 40px;" | [[File:Pecha.png|30px]] [[Pecha|Meloc (Pecha)]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Pecha.png|30px]] [[Pecha|Meloc (Pecha)]] || style="width: 40px; background-color:#9C7D98;" | 
+| style="width: 40px;" | [[File:Pecha.png|30px]] [[Pecha]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Pecha.png|30px]] [[Pecha]] || style="width: 40px; background-color:#9C7D98;" | 
 |-
-| style="background-color:#9C7D98;" | || [[File:Aspear.png|30px]] [[Aspear|Perasi (Aspear)]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Aspear.png|30px]] [[Aspear|Perasi (Aspear)]] 
+| style="background-color:#9C7D98;" | || [[File:Aspear.png|30px]] [[Aspear]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Aspear.png|30px]] [[Aspear]] 
 |- style="height: 50px;"
 | style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | 
 |-
-| [[File:Pecha.png|30px]] [[Pecha|Meloc (Pecha)]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Pecha.png|30px]] [[Pecha|Meloc (Pecha)]] || style="background-color:#9C7D98;" | 
+| [[File:Pecha.png|30px]] [[Pecha]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Pecha.png|30px]] [[Pecha]] || style="background-color:#9C7D98;" | 
 |-
-| style="background-color:#9C7D98;" | || [[File:Aspear.png|30px]] [[Aspear|Perasi (Aspear)]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Aspear.png|30px]] [[Aspear|Perasi (Aspear)]] 
+| style="background-color:#9C7D98;" | || [[File:Aspear.png|30px]] [[Aspear]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Aspear.png|30px]] [[Aspear]] 
 |}
+&lt;/div&gt;
 
-=== Tabla de Tiempos ===
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+=== Timing Table ===
 {| class="wikitable"| style="text-align: center;"
-|+ ''Todos los tiempos de plantado usan el tiempo hasta la madurez de la primera baya plantada para las siguientes''
-! Baya !! Tiempo de plantado &lt;br&gt; Sin modificador !! Tiempo de plantado &lt;br&gt; Abono o Psydugadera || Tiempo de plantado &lt;br&gt;  Abono y Psydugadera
+|+ ''All planting times use the time-to-ripe remaining of the first planted berry for subsequent planting times''
+! Berry !! Planting Time with &lt;br&gt; No Modifier !! Planting Time with &lt;br&gt; Mulch or Sprayduck || Planting Time with &lt;br&gt;  Mulch &amp; Sprayduck
 |-
-| [[Aspear|Perasi (Aspear)]] || - || - || -
+| [[Aspear]] || - || - || -
 |-
-| [[Pecha|Meloc (Pecha)]] || 1 min hasta la madurez || 40 seg hasta la madurez || No tiene sentido
+| [[Pecha]] || 1 min until ripe || 40 secs until ripe || Not Practical
 |-
 |}
+&lt;/div&gt;
 
-==Usos==
-===Mutaciones===
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Uses==
+===Mutations===
+&lt;/div&gt;
 
-Las bayas Latano (Nanab) pueden usarse para mutar las siguientes bayas.
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Nanab berries can be used to mutate the following berries.
+&lt;/div&gt;
 
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
 {| class="wikitable" | style="text-align: center;"
 |-
-! Se usa para !! Junto a
+! Used In !! With
 |-
-| [[File:Magost.png|20px]] [[Magost|Aostan (Magost)]] || [[File:Pecha.png|20px]] [[Pecha|Meloc (Pecha)]] &lt;br&gt; [[File:Mago.png|20px]] [[Mago|Ango (Mago)]]
+| [[File:Magost.png|20px]] [[Magost]] || [[File:Pecha.png|20px]] [[Pecha]] &lt;br&gt; [[File:Mago.png|20px]] [[Mago]]
 |-
-| [[File:Roseli.png|20px]] [[Roseli|Hibis (Roseli)]] || [[File:Mago.png|20px]] [[Mago|Ango (Mago)]] &lt;br&gt; [[File:Magost.png|20px]] [[Magost|Aostan (Magost)]] &lt;br&gt; [[File:Watmel.png|20px]] [[Watmel|Sambia (Watmel)]]
+| [[File:Roseli.png|20px]] [[Roseli]] || [[File:Mago.png|20px]] [[Mago]] &lt;br&gt; [[File:Magost.png|20px]] [[Magost]] &lt;br&gt; [[File:Watmel.png|20px]] [[Watmel]]
 |-
 |}
+&lt;/div&gt;
 
-===Cebo en la [[Safari Zone|Zona Safari]]===
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+===[[Safari Zone]] bait===
+&lt;/div&gt;
 
-Como cebo, las bayas Frambu (Razz) otorgan el estado "comiendo" a los Pokémon en la Zona Safari durante 2 - 6 turnos, multiplicando la probabilidad de captura x1,5 para el resto del encuentro salvo que se use otro tipo de cebo.
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+As a type of bait, Nanab berries give Pokémon in the Safari Zone "eating" status for 2 - 6 turns, and boosts catch chance by 1.5x for the rest of the encounter unless another type of bait is used.
+&lt;/div&gt;
 
-==Adquisición==
-===Mazmorras===
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Acquisition==
+===Dungeons===
 {{Loot/head‎|Berries}}
-{{LootItem|Berry Forest|Épico}}
-{{LootItem|Radio Tower|Épico}}
-{{LootItem|Fullmoon Island|Común}}
-{{LootItem|Newmoon Island|Común}}
-{{LootItem|Floccesy Ranch|Épico}}
+{{LootItem|Berry Forest|Epic}}
+{{LootItem|Pattern Bush|Epic}}
+{{LootItem|Pinkan Mountain|Common}}
+{{LootItem|Radio Tower|Epic}}
+{{LootItem|Fullmoon Island|Common}}
+{{LootItem|Newmoon Island|Common}}
+{{LootItem|Floccesy Ranch|Epic}}
 |}
 |}
+&lt;/div&gt;
 
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
 &lt;br&gt;
+&lt;/div&gt;
 
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
 {{Berries}}
+&lt;/div&gt;
 
-[[Category:Farm|Categoría:Granja]][[Category:Berries|Categoría:Bayas]]</text>
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
     <contributor>
-      <username>Cthulhu Follower</username>
-      <id>51</id>
+      <username>FuzzyBot</username>
+      <id>133</id>
     </contributor>
-    <comment>Created page with "{| class="wikitable" style="text-align: center;" |+ Formación base |- style="height: 50px;" | style="width: 40px;" | [[File:Pecha.png|30px]] [[Pecha|Meloc (Pecha)]] || style="width: 40px; background-color:#9C7D98;" |  |- | style="background-color:#9C7D98;" | || [[File:Aspear.png|30px]] [[Aspear|Perasi (Aspear)]] |}"</comment>
+    <comment>Updating to match new version of source page</comment>
     <model>wikitext</model>
-    <parentid>21347</parentid>
-    <sha1>ccdda23fd90127a8f6cb60fa024b15c41f782728</sha1>
+    <parentid>21348</parentid>
+    <sha1>58acd12263066db8a73898f05c297290c9753b81</sha1>
   </revision>
 </page></mediawiki>

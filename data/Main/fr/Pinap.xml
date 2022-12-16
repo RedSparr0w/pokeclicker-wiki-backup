@@ -4,134 +4,160 @@
   <ns>0</ns>
   <id>8049</id>
   <revision>
-    <id>22713</id>
-    <timestamp>2022-08-10T13:23:01Z</timestamp>
-    <text space="preserve" bytes="4554">&lt;languages/&gt;
+    <id>35690</id>
+    <timestamp>2022-12-15T21:46:10Z</timestamp>
+    <text space="preserve" bytes="4879">&lt;languages/&gt;
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
 {{Infobox Berry
-|name    = #14 Nanana
+|name    = #14 Pinap
 |image   = [[File:Pinap.png]]
-|caption = La chair de cette Baie est épicée. On prétend qu'on peut en faire un médicament si on retire sa peau acide.
+|caption = It is said that when the sour skin is peeled, this spicy Berry can be crushed to make medicine.
 |growtime  = 4m 0s
-|harvest = 13 baies
+|harvest = 13 berries
 |replant = 40%
 |mutation = 1.5%
 |points = 35
 |flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
-*10 épicée
-*0 sèche
-*0 sucrée
-*0 amère
-*10 acide
+*10 spicy 
+*0 dry
+*0 sweet
+*0 bitter
+*10 sour
 }}
+&lt;/div&gt;
 
-'''Nanana''' est un type de [[Berries/fr|Baie]] qui peut être plantée dans la [[Farm/fr|Ferme]]. Elle s'obtient en entourant une parcelle vide avec au moins 1 [[Sitrus/fr|Sitrus]] et au moins 1 [[Aspear/fr|Willia]].
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+'''Pinap''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by surrounding an empty plot with at least 1 [[Sitrus]] and at least 1 [[Aspear]].
+&lt;/div&gt;
 
-== Tables de croissance ==
-=== Stades de croissance ===
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Growth Tables ==
+=== Growth Stages ===
 {| class="wikitable" | style = "image-rendering: pixelated"
-!!! Pousse !! Arbuste !! Fleuri !! Mûr
+!!! Sprout !! Taller !! Bloom !! Berry
 |-
-! Temps écoulé depuis plantation
+! Time passed since planting
 | 30 secs || 1 min || 3 mins || 4 mins - 8 mins
 |-
 ! Animation
 | &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:PinapTreeTaller.png|50px]] || &lt;center&gt;[[File:PinapTreeBloom.png|50px]] || &lt;center&gt; [[File:PinapTreeBerry.png|50px]]
 |}
+&lt;/div&gt;
 
-===Temps de croissance avec modificateurs===
-{| class="wikitable collapsible" | style="text-align: center;"
-! Modificateur !! Temps maturité-flétrissement
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+=== Ripening Time with Modifiers ===
+{| class="wikitable" | style="text-align: center;"
+! Modifier !! Ripe-Wither Time
 |-
-! Aucun
+! None
 | 4 mins -&lt;br&gt; 8 mins
 |-
-! Kwakarrosoir
+! Sprayduck
 | 2 mins 40 secs -&lt;br&gt; 5 mins 20 secs
 |}
+&lt;/div&gt;
 
-== Organigramme ==
-[[File:Nanana_-_Graph_découverte.png|200px]]
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Flow Chart ==
+[[File:Pinap_Flow_Chart.png|200px]]
 &lt;br&gt;
+&lt;/div&gt;
 
-== Stratégie de mutation ==
-=== Formations possibles ===
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Mutation Strategy ==
+=== Possible Planting Formations ===
+&lt;/div&gt;
 
-Vous pouvez remplir votre ferme de la manière suivante pour obtenir des baies Nanana. Les cases violettes indiquent où les mutations peuvent avoir lieu.
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+You can fill your farm in the following way to obtain Pinap berries. Purple squares indicate where mutations can occur.
+&lt;/div&gt;
 
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
 {| class="wikitable" style="text-align: center;"
-|+ Formation&amp;nbsp;de&amp;nbsp;base
+|+ Base Formation
 |- style="height: 50px;"
-| style="width: 40px;" | [[File:Sitrus.png|30px]] [[Sitrus/fr|Sitrus]] || style="width: 40px; background-color:#9C7D98;" | 
+| style="width: 40px;" | [[File:Sitrus.png|30px]] [[Sitrus]] || style="width: 40px; background-color:#9C7D98;" | 
 |-
-| style="background-color:#9C7D98;" | || [[File:Aspear.png|30px]] [[Aspear/fr|Willia]]
+| style="background-color:#9C7D98;" | || [[File:Aspear.png|30px]] [[Aspear]]
 |}
+&lt;/div&gt;
 
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
 {| class="wikitable" style="text-align: center;"
-|+ Formation de plantation optimisée
+|+ Optimized Planting Formation
 |- style="height: 50px;"
-| style="width: 40px;" | [[File:Sitrus.png|30px]] [[Sitrus/fr|Sitrus]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Sitrus.png|30px]] [[Sitrus/fr|Sitrus]] || style="width: 40px; background-color:#9C7D98;" |
+| style="width: 40px;" | [[File:Sitrus.png|30px]] [[Sitrus]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Sitrus.png|30px]] [[Sitrus]] || style="width: 40px; background-color:#9C7D98;" |
 |-
-| style="background-color:#9C7D98;" | || [[File:Aspear.png|30px]] [[Aspear/fr|Willia]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Aspear.png|30px]] [[Aspear/fr|Willia]] 
+| style="background-color:#9C7D98;" | || [[File:Aspear.png|30px]] [[Aspear]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Aspear.png|30px]] [[Aspear]] 
 |- style="height: 50px;"
 | style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | 
 |-
-| [[File:Sitrus.png|30px]] [[Sitrus/fr|Sitrus]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Sitrus.png|30px]] [[Sitrus/fr|Sitrus]] || style="background-color:#9C7D98;" | 
+| [[File:Sitrus.png|30px]] [[Sitrus]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Sitrus.png|30px]] [[Sitrus]] || style="background-color:#9C7D98;" | 
 |-
-| style="background-color:#9C7D98;" | || [[File:Aspear.png|30px]] [[Aspear/fr|Willia]] ||  style="background-color:#9C7D98;" | ||  style="background-color:#9C7D98;" | || [[File:Aspear.png|30px]] [[Aspear/fr|Willia]] 
+| style="background-color:#9C7D98;" | || [[File:Aspear.png|30px]] [[Aspear]] ||  style="background-color:#9C7D98;" | ||  style="background-color:#9C7D98;" | || [[File:Aspear.png|30px]] [[Aspear]] 
 |}
+&lt;/div&gt;
 
-=== Tableau de chronométrage ===
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+=== Timing Table ===
 {| class="wikitable" | style="text-align: center;"
+|+ ''All planting times use the time-to-ripe remaining of the first planted berry for subsequent planting times''
+! Berry !! Planting Time with &lt;br&gt; No Modifier !! Planting Time with &lt;br&gt; Mulch or Sprayduck || Planting Time with &lt;br&gt;  Mulch &amp; Sprayduck
 |-
-|+ ''Tous les temps indiqués sont basés sur le temps restant avant que la première baie plantée n'arrive à maturité''
-! Baie !! Temps de plantation&lt;br&gt;sans modificateur!! Temps de plantation avec &lt;br&gt; Engrais ou Kwakarrosoir || Temps de plantation avec &lt;br&gt; Engrais et Kwakarrosoir
+| [[Sitrus]] || - || - || -
 |-
-| [[Sitrus/fr|Sitrus]] || - || - || -
-|-
-| [[Aspear/fr|Willia]] || 2 mins avant maturité || 1 min 20 secs avant maturité || Non optimal
+| [[Aspear]] || 2 mins until ripe || 1 min 20 secs || Not Practical
 |-
 |}
+&lt;/div&gt;
 
-==Utilisations==
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Uses==
 ===Mutations===
+&lt;/div&gt;
 
-Les baies Nanana peuvent être utilisées pour faire muter les baies suivantes :
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Pinap berries can be used to mutate the following berries.
+&lt;/div&gt;
 
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
 {| class="wikitable" | style="text-align: center;"
 |-
-! Utilisée pour !! Plantée avec
+! Used In !! With
 |-
-| [[File:Qualot.png|20px]] [[Qualot/fr|Qualot]] || [[File:Mago.png|20px]] [[Mago/fr|Mago]]
+| [[File:Qualot.png|20px]] [[Qualot]] || [[File:Mago.png|20px]] [[Mago]]
 |-
-| [[File:Nomel.png|20px]] [[Nomel/fr|Tronci]] || -
+| [[File:Nomel.png|20px]] [[Nomel]] || -
 |-
-| [[File:Wacan.png|20px]] [[Wacan/fr|Parma]] || [[File:Iapapa.png|20px]] [[Iapapa/fr|Papaya]] &lt;br&gt; [[File:Qualot.png|20px]] [[Qualot/fr|Qualot]] &lt;br&gt; [[File:Grepa.png|20px]] [[Grepa/fr|Résin]]
+| [[File:Wacan.png|20px]] [[Wacan]] || [[File:Iapapa.png|20px]] [[Iapapa]] &lt;br&gt; [[File:Qualot.png|20px]] [[Qualot]] &lt;br&gt; [[File:Grepa.png|20px]] [[Grepa]]
 |-
 |}
+&lt;/div&gt;
 
 &lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
 ==Acquisition==
 ===Dungeons===
 {{Loot/head‎|Berries}}
+{{LootItem|Pattern Bush|Epic}}
 {{LootItem|Radio Tower|Epic}}
 {{LootItem|Magma Hideout|Common}}
 {{LootItem|Dragonspiral Tower|Common}}
 |}
 |}
+&lt;br&gt;
 &lt;/div&gt;
 
-&lt;br&gt;
-
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
 {{Berries}}
-
-[[Category:Farm]][[Category:Berries]]</text>
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
     <contributor>
-      <username>LuK</username>
-      <id>96</id>
+      <username>FuzzyBot</username>
+      <id>133</id>
     </contributor>
-    <comment></comment>
+    <comment>Updating to match new version of source page</comment>
     <model>wikitext</model>
-    <parentid>22712</parentid>
-    <sha1>0fbd82e1df5b98d9191d3c22c0756e5710d537e0</sha1>
+    <parentid>22713</parentid>
+    <sha1>415211e75b524b87bb540c4e5ae12b6a57e62133</sha1>
   </revision>
 </page></mediawiki>

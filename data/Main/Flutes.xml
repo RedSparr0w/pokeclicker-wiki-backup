@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>4087</id>
   <revision>
-    <id>34775</id>
-    <timestamp>2022-12-15T01:28:33Z</timestamp>
-    <text space="preserve" bytes="2070">'''Flutes''' are a series of special items each with their own beneficial effect.
+    <id>34971</id>
+    <timestamp>2022-12-15T20:23:00Z</timestamp>
+    <text space="preserve" bytes="2071">'''Flutes''' are a series of special items each with their own beneficial effect.
 Flutes are gained by purchasing them from the Hoenn and Unova [[Gem Master]] shops.  Flutes cannot be used until after defeating [[Towns_&amp;_Cities#Hoenn|Hoenn's Lavaridge Town Gym]] and obtaining the [[Gyms#Gyms_3|Heat Badge]].
 
 ==Usage==
@@ -42,7 +42,7 @@ Each active flute also provides a static +0.5% attack boost to the required gem 
 |-
 | {{Bag2|Yellow Flute}}
 | Consumes Grass, Flying, and Electric Gems
-| (2% x (1 + Achievement Bonus)) Bonus to Pokemon Attack
+| (2% x (1 + Achievement Bonus)) Bonus to Pokémon Attack
 |-
 | {{Bag2|Time Flute}}
 | Consumes Ground, Poison, and Steel Gems
@@ -73,9 +73,9 @@ Each active flute also provides a static +0.5% attack boost to the required gem 
       <username>ThePantMan</username>
       <id>8</id>
     </contributor>
-    <comment>/* DT to EV */</comment>
+    <comment>Text replacement - " Pokemon" to " Pokémon"</comment>
     <model>wikitext</model>
-    <parentid>14923</parentid>
-    <sha1>a934a6213dd46e535c485fee5f41abf1f682145b</sha1>
+    <parentid>34775</parentid>
+    <sha1>7daa1840034f26a2e6f554f1a738662f737a1127</sha1>
   </revision>
 </page></mediawiki>

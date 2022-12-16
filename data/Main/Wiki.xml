@@ -4,8 +4,8 @@
   <ns>0</ns>
   <id>552</id>
   <revision>
-    <id>34691</id>
-    <timestamp>2022-12-14T05:04:27Z</timestamp>
+    <id>36030</id>
+    <timestamp>2022-12-15T21:49:52Z</timestamp>
     <text space="preserve" bytes="4105">&lt;languages/&gt;
 &lt;translate&gt;
 &lt;!--T:1--&gt;
@@ -29,7 +29,8 @@
 &lt;!--T:2--&gt;
 '''Wiki''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by surrounding an empty plot with at least 25, but no more than 80 points of dry and less than 5 points of all other flavours. The [[Chesto]] must be unlocked to unlock this berry.
 
-== Growth Tables == &lt;!--T:3--&gt;
+&lt;!--T:3--&gt;
+== Growth Tables ==
 === Growth Stages ===
 {| class="wikitable" | style = "image-rendering: pixelated"
 ! !! Sprout !! Taller !! Bloom !! Berry
@@ -41,7 +42,8 @@
 | &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:WikiTreeTaller.png|50px]] || &lt;center&gt; [[File:WikiTreeBloom.png|50px]] || &lt;center&gt; [[File:WikiTreeBerry.png|50px]]
 |}
 
-=== Ripening Time with Modifiers  === &lt;!--T:4--&gt;
+&lt;!--T:4--&gt;
+=== Ripening Time with Modifiers  ===
 {| class="wikitable" | style="text-align: center;"
 ! Modifier !! Ripe-Wither Time
 |-
@@ -52,11 +54,13 @@
 | 4 mins -&lt;br&gt; 8 mins
 |}
 
-== Flow Chart == &lt;!--T:5--&gt;
+&lt;!--T:5--&gt;
+== Flow Chart ==
 [[File:Wiki_Flow_Chart.png|100px]]
 &lt;br&gt;
 
-== Mutation Strategy == &lt;!--T:6--&gt;
+&lt;!--T:6--&gt;
+== Mutation Strategy ==
 === Possible Planting Formations ===
 
 &lt;!--T:7--&gt;
@@ -86,7 +90,8 @@ You can fill your farm in the following way to obtain Wiki berries. Purple squar
 | [[File:Chesto.png|30px]] [[Chesto]] || [[File:Chesto.png|30px]] [[Chesto]] || style="background-color:#9C7D98;" | || [[File:Chesto.png|30px]] [[Chesto]] || [[File:Chesto.png|30px]] [[Chesto]] 
 |}
 
-==Uses== &lt;!--T:10--&gt;
+&lt;!--T:10--&gt;
+==Uses==
 ===Mutations===
 
 &lt;!--T:11--&gt;
@@ -107,7 +112,8 @@ Wiki berries can be used to mutate the following berries.
 |-
 |}
 
-==Acquisition== &lt;!--T:13--&gt;
+&lt;!--T:13--&gt;
+==Acquisition==
 ===Dungeons===
 {{Loot/head‎|Berries}}
 {{LootItem|Digletts Cave|Mythic}}
@@ -127,12 +133,12 @@ Wiki berries can be used to mutate the following berries.
 [[Category:Farm]][[Category:Berries]]
 &lt;/translate&gt;</text>
     <contributor>
-      <username>ThePantMan</username>
-      <id>8</id>
+      <username>DraKay</username>
+      <id>18</id>
     </contributor>
-    <comment>/* Dungeon */</comment>
+    <comment>Marked this version for translation</comment>
     <model>wikitext</model>
-    <parentid>6755</parentid>
-    <sha1>0a60889fdb365701c5518635367adcd864eadf31</sha1>
+    <parentid>34691</parentid>
+    <sha1>bac677e80b986d95f596621617aba115e0e9cf3c</sha1>
   </revision>
 </page></mediawiki>

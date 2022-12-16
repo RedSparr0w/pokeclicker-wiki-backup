@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>6760</id>
   <revision>
-    <id>19577</id>
-    <timestamp>2022-07-29T08:06:54Z</timestamp>
-    <text space="preserve" bytes="3652">&lt;languages/&gt;
+    <id>35807</id>
+    <timestamp>2022-12-15T21:47:35Z</timestamp>
+    <text space="preserve" bytes="4106">&lt;languages/&gt;
 {{Infobox battle item
 |name       = Safari Zone
 |image      = [[File:safarizone1.png]]
@@ -22,6 +22,8 @@ Uncaught Pokémon have double the chance of appearing.
 The player may exit and reenter the safari zone without paying the 100 Quest Point fee again provided they still have Safari balls. They only need to pay the fee if they run out of Safari balls and need to reenter to get more.
 
 ==Pokémon==
+In the following tables, '''Bolded''' names indicate Pokémon that can be obtained in Kanto in the Safari Zone or through Wandering Pokémon on the Farm. '''''Bolded and Italicized''''' names indicate Pokémon that can only be obtained in Kanto in the Safari Zone. 
+
 {| class="wikitable sortable" style
 |-
 ! Pokémon !! Encounter Chance
@@ -40,17 +42,17 @@ The player may exit and reenter the safari zone without paying the 100 Quest Poi
 |-
 | [[File:Parasect.png|40px]] Parasect || 9.04%
 |-
-| [[File:Rhyhorn.png|40px]] Rhyhorn || 6.02%
+| [[File:Rhyhorn.png|40px]] '''''Rhyhorn''''' || '''''6.02%''''' 
 |-
-| [[File:Chansey.png|40px]] Chansey || 2.41%
+| [[File:Chansey.png|40px]] '''''Chansey'''''* || '''''2.41%''''' 
 |-
-| [[File:Scyther.png|40px]] Scyther || 2.41%
+| [[File:Scyther.png|40px]] '''Scyther''' || '''2.41%'''
 |-
-| [[File:Pinsir.png|40px]] Pinsir || 2.41%
+| [[File:Pinsir.png|40px]] '''''Pinsir''''' || '''''2.41%''''' 
 |-
-| [[File:Kangaskhan.png|40px]] Kangaskhan || 9.04%
+| [[File:Kangaskhan.png|40px]] '''''Kangaskhan''''' || '''''9.04%''''' 
 |-
-| [[File:Tauros.png|40px]] Tauros || 6.02%
+| [[File:Tauros.png|40px]] '''''Tauros''''' || '''''6.02%''''' 
 |-
 | [[File:Cubone.png|40px]] Cubone || 6.02%
 |-
@@ -58,6 +60,7 @@ The player may exit and reenter the safari zone without paying the 100 Quest Poi
 |-
 | [[File:Tangela.png|40px]] Tangela|| 2.41%
 |}
+*In Windows client a Chansey alt form can be bought in client island
 
 ==Actions==
 {| class="wikitable"
@@ -89,7 +92,7 @@ Bait usage example
     </contributor>
     <comment>Updating to match new version of source page</comment>
     <model>wikitext</model>
-    <parentid>0</parentid>
-    <sha1>279ebae4161d44e7ff4fcbefc74dde1851770207</sha1>
+    <parentid>19577</parentid>
+    <sha1>02f90495e5b591ee5aa6f3eaf98eaa184af965bd</sha1>
   </revision>
 </page></mediawiki>

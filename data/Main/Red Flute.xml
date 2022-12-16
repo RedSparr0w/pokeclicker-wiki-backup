@@ -4,10 +4,11 @@
   <ns>0</ns>
   <id>4088</id>
   <revision>
-    <id>34779</id>
-    <timestamp>2022-12-15T01:30:33Z</timestamp>
-    <text space="preserve" bytes="1187">&lt;languages/&gt;
+    <id>35774</id>
+    <timestamp>2022-12-15T21:47:01Z</timestamp>
+    <text space="preserve" bytes="1275">&lt;languages/&gt;
 &lt;translate&gt;
+&lt;!--T:1--&gt;
 {{Infobox battle item
 |name       = Red Flute
 |image      = [[File:Red Flute.png]]
@@ -19,16 +20,19 @@
 *[[Red Flute#Shops|Undella Town Gem Master]]
 }}
 
-== Description ==
+== Description == &lt;!--T:2--&gt;
 
+&lt;!--T:3--&gt;
 The '''Red Flute''' is a type of [[Flutes|Flute]]. By using Fire, Rock, and Dragon Gems the Red Flute increases the player's Egg Steps.
 
-== Details ==
+== Details == &lt;!--T:4--&gt;
 
+&lt;!--T:5--&gt;
 Red Flute increases the player's Egg Steps by a base 2%.  The Base effect is multiplied by the players Achievement Bonus, to a current maximum of 22%, with an achievement bonus of 1000%.  Costs a variable amount of Fire, Rock, and Dragon Gems when active, cost based on how many total Flutes active.
 
-== Acquisition ==
+== Acquisition == &lt;!--T:6--&gt;
 
+&lt;!--T:7--&gt;
 ===Shops===
 {{ItemPrice/head‎|Battle items}}
 {{ItemPrice|[[Shops#Undella Town Gem Master|Undella Town Gem Master]]|10,000 [[File:Fire_Gem.png|30px]]&lt;br&gt;
@@ -38,17 +42,18 @@ Red Flute increases the player's Egg Steps by a base 2%.  The Base effect is mul
 |}
 
 
+&lt;!--T:8--&gt;
 __NOTOC__
 {{Battle items}}&lt;br&gt;
 [[Category:Flutes]] [[Category:Items]]
 &lt;/translate&gt;</text>
     <contributor>
-      <username>ThePantMan</username>
-      <id>8</id>
+      <username>DraKay</username>
+      <id>18</id>
     </contributor>
-    <comment>/* Maximum boost */</comment>
+    <comment>Marked this version for translation</comment>
     <model>wikitext</model>
-    <parentid>14928</parentid>
-    <sha1>c2feaf0a982422cfa2719fd92fd3efd03537e507</sha1>
+    <parentid>34779</parentid>
+    <sha1>3f00c73606c459c047bb7fb1b045a7f5b087c41c</sha1>
   </revision>
 </page></mediawiki>

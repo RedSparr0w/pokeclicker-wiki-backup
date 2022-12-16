@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>8325</id>
   <revision>
-    <id>34639</id>
-    <timestamp>2022-12-14T03:53:11Z</timestamp>
-    <text space="preserve" bytes="2118">&lt;languages/&gt;
+    <id>35731</id>
+    <timestamp>2022-12-15T21:46:29Z</timestamp>
+    <text space="preserve" bytes="2229">&lt;languages/&gt;
 
 {{Infobox Pokéball
 |name       = Quick Ball
@@ -24,11 +24,11 @@
 
 ==Description==
 
-The '''Quick Ball''' is a type of [[Pokéballs|Pokéball]]. It automatically tries to catch a wild Pokémon after defeating it if is the highest type of Pokéball active and there is a remaining supply in the Pokéball selector.
+The '''Quick Ball''' is a type of [[Poké Balls|Poké Ball]]. It automatically tries to catch a wild Pokémon after defeating it if is the highest type of Poké Ball active and there is a remaining supply in the Poké Ball selector.
 
 ==Details==
 
-A specialized Pokéball to capture Pokémon with. It provides an increased catch rate on routes with fewer Pokémon defeated, and an increased catch rate in Dungeons with more time remaining. It catches Pokémon in 1s.
+A specialized Poké Ball to capture Pokémon with. It provides an increased catch rate on routes with fewer Pokémon defeated, and an increased catch rate in Dungeons with more time remaining. It catches Pokémon in 1s.
 
 ==Rate==
 
@@ -45,10 +45,10 @@ A specialized Pokéball to capture Pokémon with. It provides an increased catch
 |-
 | 719 || 5 (Equal to Great Ball)
 |-
-| 4012 || 0 (Equal to Pokéball)
+| 4012 || 0 (Equal to Poké Ball)
 |}
 
-[[File:Quick Ball-catchrate-graph.png|X-axis: Route kills&lt;br&gt;Y-axis: Catch rate|200px]]
+[[File:Quickball-catchrate-graph.png|X-axis: Route kills&lt;br&gt;Y-axis: Catch rate|200px]]
 
 ===Dungeons===
 
@@ -63,10 +63,10 @@ A specialized Pokéball to capture Pokémon with. It provides an increased catch
 |-
 | 50 || 5 (Equal to Great Ball)
 |-
-| 0 || 0 (Equal to Pokéball)
+| 0 || 0 (Equal to Poké Ball)
 |}
 
-[[File:Quick Ball_Dungeon_Catch_Rate_Graph.png|X-axis: % Time Remaining in Dungeon&lt;br&gt;Y-axis: Catch rate|200px]]
+[[File:Quickball_Dungeon_Catch_Rate_Graph.png|X-axis: % Time Remaining in Dungeon&lt;br&gt;Y-axis: Catch rate|200px]]
 
 == Acquisition ==
 ===Shops===
@@ -81,18 +81,21 @@ A specialized Pokéball to capture Pokémon with. It provides an increased catch
 {{LootItem|Poké Ball Factory|Epic}}
 {{LootItem|Wela Volcano Park|Epic}}
 {{LootItem|Hokulani Observatory|Legendary}}
+{{LootItem|Warm-Up Tunnel|Epic}}
+{{LootItem|Courageous Cavern|Epic}}
+{{LootItem|Tunnel to the Top|Epic}}
 |}
 |}
 
 &lt;br&gt;{{Pokéballs}}&lt;br&gt;
-[[Category:Items]] [[Category:Pokéballs]]</text>
+[[Category:Items]] [[Category:Poké Balls]]</text>
     <contributor>
-      <username>ThePantMan</username>
-      <id>8</id>
+      <username>FuzzyBot</username>
+      <id>133</id>
     </contributor>
-    <comment>Text replacement - "Pokéball Factory" to "Poké Ball Factory"</comment>
+    <comment>Updating to match new version of source page</comment>
     <model>wikitext</model>
-    <parentid>34307</parentid>
-    <sha1>05dc513d9130565686ce8156c7a0c9bd5afa2e7a</sha1>
+    <parentid>34639</parentid>
+    <sha1>ddb7287c941311e7089b18afcba19255704aef2e</sha1>
   </revision>
 </page></mediawiki>

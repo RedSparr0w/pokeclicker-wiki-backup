@@ -4,10 +4,11 @@
   <ns>0</ns>
   <id>4089</id>
   <revision>
-    <id>34780</id>
-    <timestamp>2022-12-15T01:30:51Z</timestamp>
-    <text space="preserve" bytes="1210">&lt;languages/&gt;
+    <id>36020</id>
+    <timestamp>2022-12-15T21:49:44Z</timestamp>
+    <text space="preserve" bytes="1298">&lt;languages/&gt;
 &lt;translate&gt;
+&lt;!--T:1--&gt;
 {{Infobox battle item
 |name       = White Flute
 |image      = [[File:White Flute.png]]
@@ -19,16 +20,19 @@
 *[[White Flute#Shops|Undella Town Gem Master]]
 }}
 
-== Description ==
+== Description == &lt;!--T:2--&gt;
 
+&lt;!--T:3--&gt;
 The '''White Flute''' is a type of [[Flutes|Flute]]. By using Normal, Fairy, and Ice Gems the White Flute increases the player's Shiny Chance.
 
-== Details ==
+== Details == &lt;!--T:4--&gt;
 
+&lt;!--T:5--&gt;
 White Flute increases the player's Shiny Chance by a base 2%.  The Base effect is multiplied by the players Achievement Bonus, to a current maximum of 22%, with an achievement bonus of 1000%.  Costs a variable amount of Normal, Fairy, and Ice Gems when active, cost based on how many total Flutes are active.
 
-== Acquisition ==
+== Acquisition == &lt;!--T:6--&gt;
 
+&lt;!--T:7--&gt;
 ===Shops===
 {{ItemPrice/head‎|Battle items}}
 {{ItemPrice|[[Shops#Undella Town Gem Master|Undella Town Gem Master]]|
@@ -37,17 +41,18 @@ White Flute increases the player's Shiny Chance by a base 2%.  The Base effect i
 |}
 
 
+&lt;!--T:8--&gt;
 __NOTOC__
 {{Battle items}}&lt;br&gt;
 [[Category:Flutes]] [[Category:Items]]
 &lt;/translate&gt;</text>
     <contributor>
-      <username>ThePantMan</username>
-      <id>8</id>
+      <username>DraKay</username>
+      <id>18</id>
     </contributor>
-    <comment>/* Maximum boost */</comment>
+    <comment>Marked this version for translation</comment>
     <model>wikitext</model>
-    <parentid>14933</parentid>
-    <sha1>ecd2c7cf94c857bc37183de8040b55da2e2140a0</sha1>
+    <parentid>34780</parentid>
+    <sha1>087d823daf363df180b0acd3ecef08f06768ab69</sha1>
   </revision>
 </page></mediawiki>

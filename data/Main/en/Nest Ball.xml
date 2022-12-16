@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>8252</id>
   <revision>
-    <id>34177</id>
-    <timestamp>2022-12-12T21:00:20Z</timestamp>
-    <text space="preserve" bytes="1942">&lt;languages/&gt;
+    <id>35615</id>
+    <timestamp>2022-12-15T21:45:24Z</timestamp>
+    <text space="preserve" bytes="1981">&lt;languages/&gt;
 
 {{Infobox Pokéball
 |name       = Nest Ball
@@ -21,11 +21,11 @@
 
 ==Description==
 
-The '''Nest Ball''' is a type of [[Pokéballs|Pokéball]]. It automatically tries to catch a wild Pokémon after defeating it if is the highest type of Pokéball active and there is a remaining supply in the Pokéball selector.
+The '''Nest Ball''' is a type of [[Poké Balls|Poké Ball]]. It automatically tries to catch a wild Pokémon after defeating it if is the highest type of Poké Ball active and there is a remaining supply in the Poké Ball selector.
 
 ==Details==
 
-A specialized Pokéball to capture Pokémon with, it provides an increased catch rate on earlier routes.
+A specialized Poké Ball to capture Pokémon with, it provides an increased catch rate on earlier routes.
 
 ==Rates==
 
@@ -60,19 +60,20 @@ Rates are determined by the highest unlocked region. For example, when Johto is 
 {{LootItem|Pinwheel Forest|Legendary}}
 {{LootItem|Reflection Cave|Epic}}
 {{LootItem|Lush Jungle|Epic}}
+{{LootItem|Brawlers' Cave|Epic}}
 |}
 |}
 
 &lt;br&gt;{{Pokéballs}}&lt;br&gt;
 
-[[Category:Items]] [[Category:Pokéballs]]</text>
+[[Category:Items]] [[Category:Poké Balls]]</text>
     <contributor>
-      <username>ThePantMan</username>
-      <id>8</id>
+      <username>FuzzyBot</username>
+      <id>133</id>
     </contributor>
-    <comment>Text replacement - "Nestball" to "Nest Ball"</comment>
+    <comment>Updating to match new version of source page</comment>
     <model>wikitext</model>
-    <parentid>34168</parentid>
-    <sha1>3fb26b168b2ac2c3da004bcafc3cfacd9b23d960</sha1>
+    <parentid>34177</parentid>
+    <sha1>c1b09c2f39545c6817333ffdfeb2f171c0e9b0c7</sha1>
   </revision>
 </page></mediawiki>

@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>9373</id>
   <revision>
-    <id>34450</id>
-    <timestamp>2022-12-13T17:54:01Z</timestamp>
-    <text space="preserve" bytes="2131">{{Infobox dungeon
+    <id>36090</id>
+    <timestamp>2022-12-15T22:38:28Z</timestamp>
+    <text space="preserve" bytes="2167">{{Infobox dungeon
 |name    = Split-Decision Ruins
 |image   = [[File:Split-Decision Ruins.png|thumb]]
 |caption = A map of Split-Decision Ruins.
@@ -25,21 +25,21 @@
 |-
 ! Encounter !! Trainer !! Pokémon Team
 |-
-| {{Pokemon|Electabuzz}} || colspan=2 rowspan=8| &lt;center&gt; N/A
+| {{Pokemon|Electabuzz|40}} || colspan=2 rowspan=8| &lt;center&gt; N/A
 |-
-| {{Pokemon|Cryogonal}}
+| {{Pokemon|Cryogonal|40}}
 |-
-| {{Pokemon|Bronzong}}
+| {{Pokemon|Bronzong|40}}
 |-
-| {{Pokemon|Stonjourner}}
+| {{Pokemon|Stonjourner|40}}
 |-
-| {{Pokemon|Galvantula}}
+| {{Pokemon|Galvantula|40}}
 |-
-| {{Pokemon|Relicanth}}
+| {{Pokemon|Relicanth|40}}
 |-
-| {{Pokemon|Glalie}}
+| {{Pokemon|Glalie|40}}
 |-
-| {{Pokemon|Metagross}}
+| {{Pokemon|Metagross|40}}
 |}
 
 ===Boss Encounters===
@@ -47,13 +47,13 @@
 |-
 ! Wild Pokémon !! Base Health !! Boss Trainer !! Pokémon Team !! Base Health
 |-
-| {{Pokemon|Altaria}} || rowspan=2| &lt;center&gt;156,135,635 || colspan=3 rowspan=4|&lt;center&gt;N/A
+| {{Pokemon|Altaria|40}} || rowspan=2| &lt;center&gt;156,135,635 || colspan=3 rowspan=4|&lt;center&gt;N/A
 |-
-| {{Pokemon|Electivire}}
+| {{Pokemon|Electivire|40}}
 |-
-| {{Pokemon|Regidrago}} || rowspan=2| &lt;center&gt;164,353,300
+| {{Pokemon|Regidrago|40}} || rowspan=2| &lt;center&gt;164,353,300
 |-
-| {{Pokemon|Regieleki}}
+| {{Pokemon|Regieleki|40}}
 |}
 
 ==Items==
@@ -96,7 +96,7 @@
     </contributor>
     <comment></comment>
     <model>wikitext</model>
-    <parentid>33426</parentid>
-    <sha1>0e4ac499a3c68316be2e7666c787393a596718b6</sha1>
+    <parentid>34450</parentid>
+    <sha1>c9cb3f2694ff947dea989905ec5002ad768bc282</sha1>
   </revision>
 </page></mediawiki>

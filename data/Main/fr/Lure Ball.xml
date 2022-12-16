@@ -4,65 +4,83 @@
   <ns>0</ns>
   <id>8558</id>
   <revision>
-    <id>34629</id>
-    <timestamp>2022-12-14T03:53:10Z</timestamp>
-    <text space="preserve" bytes="1367">&lt;languages/&gt;
+    <id>35488</id>
+    <timestamp>2022-12-15T21:43:41Z</timestamp>
+    <text space="preserve" bytes="1746">&lt;languages/&gt;
 
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
 {{Infobox Pokéball
-|name       = Appât Ball
+|name       = Lure Ball
 |image      = [[File:Lure Ball.png]]
-|caption    = Image en jeu de l'''Appât Ball''.
+|caption    = In-Game image of the ''Lure Ball''.
 |price      = Variable
-|catchTime  = 1,25s
+|catchTime  = 1.25s
 |catchRate = Variable
-*+15% sur un Pokémon pêché
-*+0% autrement
+*+15% on fished route pokémon
+*+0% in all other instances
 |location   = &lt;div style="clear:both;"&gt;&lt;/div&gt;
-*[[Lure Ball/fr#Dungeons|Dungeons]]
+*[[Lure Ball#Dungeons|Dungeons]]
 }}
+&lt;/div&gt;
 
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
 ==Description==
+&lt;/div&gt;
 
-L' '''Appât Ball''' est un type de [[Pokéballs/fr|Poké Ball]]. Elle est automatiquement lancée pour capturer un Pokémon sauvage après l'avoir mis KO s'il s'agit du plus haut type de Ball actif et qu'il vous en reste dans la fenètre de sélection de Poké Ball.
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+The '''Lure Ball''' is a type of [[Poké Balls|Poké Ball]]. It automatically tries to catch a wild Pokémon after defeating it if is the highest type of Poké Ball active and there is a remaining supply in the Poké Ball selector.
+&lt;/div&gt;
 
-==Détails==
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Details==
+&lt;/div&gt;
 
-Une Ball spécialisée pour attraper les Pokémon pêchés.
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+A specialized Poké Ball to capture Pokémon with, it provides an increased catch rate on fished Pokémon.
+&lt;/div&gt;
 
-===Taux===
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+===Rates===
+&lt;/div&gt;
 
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
 {| class="wikitable"
-|+ Appât Ball
+|+ Lure Ball
 |-
-! Situation !! Modificateur du taux de capture
+! Location !! Catch Chance Modifier
 |-
-| Pokémon pêché || +15%
+| Fished Pokémon || +15%
 |-
-| Toute autre || +0% (égal à une Poké Ball)
+| All other locations || +0% (Equal to Poké Ball)
 |-
 |}
+&lt;/div&gt;
 
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
 ==Acquisition==
 {{Loot/head‎|Pokéballs}}
-{{LootItem|Slowpoke Well|Puits Ramoloss|Épique}}
-{{LootItem|Aqua Hideout|Planque Aqua|Épique}}
-{{LootItem|Lake Valor|Lac Courage|Épique}}
-{{LootItem|Seaside Cave|Grotte Littorale (Unys)|Épique}}
-{{LootItem|Sea Spirit's Den|Antre Néréen|Épique}}
-{{LootItem|Poké Ball Factory|Usine de Poké Balls|Épique}}
-{{LootItem|Seaward Cave|Grotte Verlamer|Épique}}
+{{LootItem|Slowpoke Well|Epic}}
+{{LootItem|Aqua Hideout|Epic}}
+{{LootItem|Lake Valor|Epic}}
+{{LootItem|Seaside Cave|Epic}}
+{{LootItem|Sea Spirit's Den|Epic}}
+{{LootItem|Poké Ball Factory|Epic}}
+{{LootItem|Seaward Cave|Epic}}
 |}
 |}
+&lt;/div&gt;
 
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
 &lt;br&gt;{{Pokéballs}}&lt;br&gt;
-[[Category:Items]] [[Category:Pokéballs]]</text>
+[[Category:Items]] [[Category:Poké Balls]]
+&lt;/div&gt;</text>
     <contributor>
-      <username>ThePantMan</username>
-      <id>8</id>
+      <username>FuzzyBot</username>
+      <id>133</id>
     </contributor>
-    <comment>Text replacement - "Pokéball Factory" to "Poké Ball Factory"</comment>
+    <comment>Updating to match new version of source page</comment>
     <model>wikitext</model>
-    <parentid>34196</parentid>
-    <sha1>924952bc8414ba8c42f054edf74d493df684f98e</sha1>
+    <parentid>34629</parentid>
+    <sha1>fadce9d234d93042ea502935c529867ce541dd7c</sha1>
   </revision>
 </page></mediawiki>

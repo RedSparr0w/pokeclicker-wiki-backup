@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>5149</id>
   <revision>
-    <id>34742</id>
-    <timestamp>2022-12-14T14:30:09Z</timestamp>
-    <text space="preserve" bytes="28451">&lt;languages/&gt;
+    <id>35014</id>
+    <timestamp>2022-12-15T20:23:19Z</timestamp>
+    <text space="preserve" bytes="28453">&lt;languages/&gt;
 Les '''Baies''' peuvent être cultivées dans la [[Farm/fr|Ferme]] pour obtenir des [[Farming Points/fr|Points de Récolte]]. Vous pouvez échanger certaines baies pour des [[Master Ball/fr|Master Ball]], des [[Protein/fr|Protéines]] et autres [[Evolution Items/fr|Objets d'évolution]] dans les boutiques d'échange des [[Berry Master/fr|Maîtres des baies]].
 Le [[Sprayduck/fr|Kwakarrosoir]], le [[Squirtbottle/fr|Carapuce à O]] et le [[Sprinklotad/fr|Nénurrosoir]] sont des Objets de Chen qui accélèrent ou améliorent le processus de culture des baies.
 
@@ -247,10 +247,10 @@ Certaines baies possèdent des capacités spéciales appelées Auras. Ces Auras 
 | Augmente les chances de rencontrer un [[Shiny Chance/fr|Pokémon Chromatique]]|| &lt;center&gt; L'effet est multiplicatif sur le terrain entier. &lt;br&gt; L'effet se cumule avec le [[Shiny Charm/fr|Charme Chroma]]
 |-
 ! Aura d'Attraction
-| Augmente les chances qu'un Pokémon [[Wandering Pokemon|erre]] dans la ferme || &lt;center&gt; L'effet est multiplicatif sur le terrain entier
+| Augmente les chances qu'un Pokémon [[Wandering Pokémon|erre]] dans la ferme || &lt;center&gt; L'effet est multiplicatif sur le terrain entier
 |-
 ! Chance de Voyageurs
-| Augmente les chances de trouver un [[Roaming Pokemon|Pokémon Voyageur]] sur les routes || &lt;center&gt; L'effet est multiplicatif sur le terrain entier.
+| Augmente les chances de trouver un [[Roaming Pokémon|Pokémon Voyageur]] sur les routes || &lt;center&gt; L'effet est multiplicatif sur le terrain entier.
 |-
 ! Gain d'EV
 | Augmente la quantité d'[[Pokerus|EV gagnés]] dans toutes les situations applicables. || &lt;center&gt; L'effet est multiplicatif sur le terrain entier
@@ -262,12 +262,12 @@ Certaines baies possèdent des capacités spéciales appelées Auras. Ces Auras 
 
 [[Category:Farm|Catégorie:Ferme]][[Category:Berries|Catégorie:Baies]]</text>
     <contributor>
-      <username>Razikd</username>
-      <id>33</id>
+      <username>ThePantMan</username>
+      <id>8</id>
     </contributor>
-    <comment></comment>
+    <comment>Text replacement - " Pokemon" to " Pokémon"</comment>
     <model>wikitext</model>
-    <parentid>34740</parentid>
-    <sha1>bcd89e289e6c6aa1d1748ae171355530bb94befb</sha1>
+    <parentid>34742</parentid>
+    <sha1>3864fefd999319a2171a8f12feb47d05da4be69e</sha1>
   </revision>
 </page></mediawiki>

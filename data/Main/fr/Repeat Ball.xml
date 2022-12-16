@@ -4,69 +4,89 @@
   <ns>0</ns>
   <id>8499</id>
   <revision>
-    <id>34643</id>
-    <timestamp>2022-12-14T03:53:12Z</timestamp>
-    <text space="preserve" bytes="1799">&lt;languages/&gt;
+    <id>35797</id>
+    <timestamp>2022-12-15T21:47:23Z</timestamp>
+    <text space="preserve" bytes="2096">&lt;languages/&gt;
 
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
 {{Infobox Pokéball
-|name       = Bis Ball
+|name       = Repeat Ball
 |image      = [[File:Repeat Ball.png]]
-|caption    = Image en jeu de la ''Bis Ball''.
+|caption    = In-Game image of the ''Repeat Ball''.
 |price      = Variable
-|catchTime  = 1,25s
-|catchRate = Variable (Augmente avec le nombre de fois qu'un Pokémon est capturé)
+|catchTime  = 1.25s
+|catchRate = Variable (Increased catch rate with more Pokémon catches)
 |location   = &lt;div style="clear:both;"&gt;&lt;/div&gt;
-*[[Repeat Ball/fr#Dungeons|Donjons]]
+*[[Repeat Ball#Dungeons|Dungeons]]
 }}
+&lt;/div&gt;
 
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
 ==Description==
+&lt;/div&gt;
 
-La '''Bis Ball''' est un type de [[Pokéballs/fr|Ball]]. Elle est automatiquement lancée pour capturer un Pokémon sauvage après l'avoir mis KO s'il s'agit du plus haut type de Ball actif et qu'il vous en reste dans la fenètre de sélection de Poké Ball.
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+The '''Repeat Ball''' is a type of [[Poké Balls|Poké Ball]]. It automatically tries to catch a wild Pokémon after defeating it if is the highest type of Poké Ball active and there is a remaining supply in the Poké Ball selector.
+&lt;/div&gt;
 
-==Détails==
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Details==
+&lt;/div&gt;
 
-Une Ball spécialisée pour attraper les Pokémon qui ont déjà été capturés. Le taux augmente en proportion du nombre déjà capturé. De plus, attraper un Pokémon avec une Bis Ball donnera 5x plus d'EV que la normale.
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+A specialized Poké Ball to capture Pokémon with, it provides an increased catch rate the more a Pokémon is captured. Additionally, catching a Pokémon with the Repeat Ball yields 5x more EVs.
+&lt;/div&gt;
 
-==Taux==
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Rates==
+&lt;/div&gt;
 
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
 {| class="wikitable"
-|+ Taux de Capture de la Bis Ball
+|+ Repeat Ball Catch Rates
 |-
-! Pokémon Capturé !! Chance de capture (+%)
+! Pokémon Captures !! Catch chance (+%)
 |-
-| 0 fois || 0 (égal à une Poké Ball)
+| 0 || 0 (Equal to Poké Ball)
 |-
-| 159 fois || 5 (égal à une Super Ball)
+| 159 || 5 (Equal to Great Ball)
 |-
-| 224 fois || 10 (égal to Hyper Ball)
+| 224 || 10 (Equal to Ultra Ball)
 |-
-| 274 fois || 15
+| 274 || 15
 |}
+&lt;/div&gt;
 
-[[File:Repeat Ball_Catch_Rate_Graph.png|Axe X : Pokémon Capturés&lt;br&gt;Axe Y : Taux de Capture|200px]]
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[File:Repeat Ball_Catch_Rate_Graph.png|X-axis: Pokémon Captures&lt;br&gt;Y-axis: Catch rate|200px]]
+&lt;/div&gt;
 
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
 ==Acquisition==
-===Donjons===
+===Dungeons===
 {{Loot/head‎|Pokéballs}}
-{{LootItem|Victory Road Sinnoh|Route Victoire (Sinnoh)|Légendaire}}
-{{LootItem|Victory Road Unova|Route Victoire (Unys)|Épique}}
-{{LootItem|Kalos Power Plant|Centrale de Kalos|Légendaire}}
-{{LootItem|Poké Ball Factory|Usine de Poké Balls|Épique}}
-{{LootItem|Pokémon Village|Village Pokémon|Épique}}
-{{LootItem|Ula'ula Meadow|Jardin d'Ula-Ula|Légendaire}}
-{{LootItem|Vast Poni Canyon|Grand Canyon de Poni|Épique}}
+{{LootItem|Victory Road Sinnoh|Legendary}}
+{{LootItem|Victory Road Unova|Epic}}
+{{LootItem|Kalos Power Plant|Legendary}}
+{{LootItem|Poké Ball Factory|Epic}}
+{{LootItem|Pokémon Village|Epic}}
+{{LootItem|Ula'ula Meadow|Legendary}}
+{{LootItem|Vast Poni Canyon|Epic}}
 |}
 |}
+&lt;/div&gt;
 
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
 &lt;br&gt;{{Pokéballs}}&lt;br&gt;
-[[Category:Items]] [[Category:Pokéballs]]</text>
+[[Category:Items]] [[Category:Poké Balls]]
+&lt;/div&gt;</text>
     <contributor>
-      <username>ThePantMan</username>
-      <id>8</id>
+      <username>FuzzyBot</username>
+      <id>133</id>
     </contributor>
-    <comment>Text replacement - "Pokéball Factory" to "Poké Ball Factory"</comment>
+    <comment>Updating to match new version of source page</comment>
     <model>wikitext</model>
-    <parentid>34268</parentid>
-    <sha1>ed6f510de59c4248036b1571bdce45d5ede665e6</sha1>
+    <parentid>34643</parentid>
+    <sha1>59f405caf6ae07e1d300b2d7c012a41bdf675e43</sha1>
   </revision>
 </page></mediawiki>
