@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>3984</id>
   <revision>
-    <id>33611</id>
-    <timestamp>2022-12-12T02:39:57Z</timestamp>
-    <text space="preserve" bytes="2257">{{Infobox dungeon
+    <id>36109</id>
+    <timestamp>2022-12-16T04:37:25Z</timestamp>
+    <text space="preserve" bytes="2276">{{Infobox dungeon
 |name    = Pikachu Valley
 |image   = [[File:Pikachu Valley.png|300px]]
 |caption = A map of Pikachu Valley.
@@ -26,19 +26,19 @@
 |-
 ! Encounter !! Trainer !! Pokémon Team
 |-
-| [[File:Pikachu.png|40px]] Pikachu ||rowspan=7 colspan=2|&lt;center&gt;N/A
+| {{Pokemon|Pikachu|40}} ||rowspan=7 colspan=2|&lt;center&gt;N/A
 |-
-| [[File:Pichu.png|40px]] Pichu
+| {{Pokemon|Pichu|40}}
 |-
-| [[File:Plusle.png|40px]] Plusle
+| {{Pokemon|Plusle|40}}
 |-
-| [[File:Minun.png|40px]] Minun
+| {{Pokemon|Minun|40}}
 |-
-| [[File:Pachirisu.png|40px]] Pachirisu
+| {{Pokemon|Pachirisu|40}}
 |-
-| [[File:Emolga.png|40px]] Emolga
+| {{Pokemon|Emolga|40}}
 |-
-| [[File:Dedenne.png|40px]] Dedenne
+| {{Pokemon|Dedenne|40}}
 |-
 |}
 
@@ -47,19 +47,21 @@
 |-
 ! Wild Pokémon !! Base Health !! Boss Trainer !! Pokémon Team !! Base Health
 |-
-| [[File:Pikachu (Original cap).png|50px]] Pikachu (Original cap) ||rowspan=6|&lt;center&gt;59,764,020 || rowspan=6 colspan=3|&lt;center&gt;N/A
+| {{Pokemon|Pikachu (Original Cap)|50}} ||rowspan=7|&lt;center&gt;59,764,020 || rowspan=7 colspan=3|&lt;center&gt;N/A
 |-
-| [[File:Pikachu (Hoenn cap).png|50px]] Pikachu (Hoenn cap)
+| {{Pokemon|Pikachu (Hoenn Cap)|50}}
 |-
-| [[File:Pikachu (Sinnoh cap).png|50px]] Pikachu (Sinnoh cap)
+| {{Pokemon|Pikachu (Sinnoh Cap)|50}}
 |-
-| [[File:Pikachu (Unova cap).png|50px]] Pikachu (Unova cap)
+| {{Pokemon|Pikachu (Unova Cap)|50}}
 |-
-| [[File:Pikachu (Kalos cap).png|50px]] Pikachu (Kalos cap)
+| {{Pokemon|Pikachu (Kalos Cap)|50}}
 |-
-| [[File:Pikachu (Alola cap).png|50px]] Pikachu (Alola cap)
+| {{Pokemon|Pikachu (Alola Cap)|50}}*
 |-
+| {{Pokemon|Pikachu (World Cap)|50}}*
 |}
+'''*Note:''' Pikachu (Alola Cap) and Pikachu (World Cap) require the player to be [[Gyms#Pokémon League Alola|Alola Champion]] and [[Gyms#Wyndon Stadium|Galar Champion]] respectively to unlock.
 
 ==Items==
 &lt;tabs&gt;
@@ -98,9 +100,9 @@
       <username>ThePantMan</username>
       <id>8</id>
     </contributor>
-    <comment>/* loot */</comment>
+    <comment>/* Galar */</comment>
     <model>wikitext</model>
-    <parentid>14553</parentid>
-    <sha1>762deff76b924468ede34ebf6479e30a9cd1b3f5</sha1>
+    <parentid>33611</parentid>
+    <sha1>19f6b102c2dd538ebbed53bfedce4d454e722575</sha1>
   </revision>
 </page></mediawiki>

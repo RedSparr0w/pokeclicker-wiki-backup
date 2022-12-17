@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>10161</id>
   <revision>
-    <id>33432</id>
-    <timestamp>2022-12-11T22:17:49Z</timestamp>
-    <text space="preserve" bytes="2000">{{Infobox dungeon
+    <id>36105</id>
+    <timestamp>2022-12-16T03:53:29Z</timestamp>
+    <text space="preserve" bytes="1866">{{Infobox dungeon
 |name    = Tower of Darkness
 |image   = [[File:Tower of Darkness.png|thumb]]
 |caption = A map of Tower of Darkness.
@@ -25,13 +25,13 @@
 |-
 ! Encounter !! Trainer !! Pokémon Team
 |-
-| rowspan=4|&lt;center&gt;N/A || [[File:Master_Dojo_Student.png|40px]] Master Dojo Student || [[File:Zorua.png|40px]] Zorua
+| rowspan=4|&lt;center&gt;N/A || {{Trainer|Master Dojo Student|40}} || [[File:Zorua.png|40px]] Zorua
 |-
-| [[File:Master_Dojo_Student.png|40px]] Master Dojo Student || [[File:Scraggy.png|40px]] Scraggy
+| {{Trainer|Master Dojo Student|40}} || {{Pokemon|Scraggy|40}}
 |-
-| [[File:Master_Dojo_Student.png|40px]] Master Dojo Student || [[File:Inkay.png|40px]] Inkay
+| {{Trainer|Master Dojo Student|40}} || {{Pokemon|Inkay|40}}
 |-
-| [[File:Master_Dojo_Student.png|40px]] Master Dojo Student || [[File:Krokorok.png|40px]] Krokorok
+| {{Trainer|Master Dojo Student|40}} || {{Pokemon|Krokorok|40}}
 |}
 
 ===Boss Encounters===
@@ -39,7 +39,8 @@
 |-
 ! Wild Pokémon !! Base Health !! Boss Trainer !! Pokémon Team !! Base Health
 |-
-| colspan=2|&lt;center&gt;N/A || [[File:Dojo_Master.png|40px]] Master Dojo Mustard || [[File:Kubfu.png|40px]] Kubfu || 144,430,560
+| colspan=2|&lt;center&gt;N/A || {{Trainer|Dojo Master|40|Dojo Master Mustard}} 
+ || {{Pokemon|Kubfu|40}} || 144,430,560
 |}
 
 ==Items==
@@ -75,9 +76,9 @@
       <username>Jk13</username>
       <id>14</id>
     </contributor>
-    <comment>/* Items */</comment>
+    <comment></comment>
     <model>wikitext</model>
-    <parentid>30072</parentid>
-    <sha1>106561456e641be71460a2abe44352151b246c21</sha1>
+    <parentid>33432</parentid>
+    <sha1>7c0f5ed84169e50c71413c0d0ef3ccea3d244af8</sha1>
   </revision>
 </page></mediawiki>

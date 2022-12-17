@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>10162</id>
   <revision>
-    <id>33431</id>
-    <timestamp>2022-12-11T22:17:01Z</timestamp>
-    <text space="preserve" bytes="2000">{{Infobox dungeon
+    <id>36106</id>
+    <timestamp>2022-12-16T03:55:36Z</timestamp>
+    <text space="preserve" bytes="1852">{{Infobox dungeon
 |name    = Tower of Waters
 |image   = [[File:Tower of Waters.png|thumb]]
 |caption = A map of Tower of Waters.
@@ -25,13 +25,13 @@
 |-
 ! Encounter !! Trainer !! Pokémon Team
 |-
-| rowspan=4|&lt;center&gt;N/A || [[File:Master_Dojo_Student.png|40px]] Master Dojo Student || [[File:Psyduck.png|40px]] Psyduck
+| rowspan=4|&lt;center&gt;N/A || {{Trainer|Master Dojo Student|40}} || {{Pokemon|Psyduck|40}}
 |-
-| [[File:Master_Dojo_Student.png|40px]] Master Dojo Student || [[File:Krabby.png|40px]] Krabby
+| {{Trainer|Master Dojo Student|40}} || {{Pokemon|Krabby|40}}
 |-
-| [[File:Master_Dojo_Student.png|40px]] Master Dojo Student || [[File:Marill.png|40px]] Marill
+| {{Trainer|Master Dojo Student|40}} || {{Pokemon|Marill|40}}
 |-
-| [[File:Master_Dojo_Student.png|40px]] Master Dojo Student || [[File:Poliwhirl.png|40px]] Poliwhirl
+| {{Trainer|Master Dojo Student|40}} || {{Pokemon|Poliwhirl|40}}
 |}
 
 ===Boss Encounters===
@@ -39,7 +39,7 @@
 |-
 ! Wild Pokémon !! Base Health !! Boss Trainer !! Pokémon Team !! Base Health
 |-
-| colspan=2|&lt;center&gt;N/A || [[File:Dojo_Master.png|40px]] Master Dojo Mustard || [[File:Kubfu.png|40px]] Kubfu || 144,430,560
+| colspan=2|&lt;center&gt;N/A || {{Trainer|Dojo Master|40|Dojo Master Mustard}} || {{Pokemon|Kubfu|40}} || 144,430,560
 |}
 
 ==Items==
@@ -75,9 +75,9 @@
       <username>Jk13</username>
       <id>14</id>
     </contributor>
-    <comment>/* Items */</comment>
+    <comment></comment>
     <model>wikitext</model>
-    <parentid>30074</parentid>
-    <sha1>fa49bb01e17bca1eda1a629ae2cbc1883e82613b</sha1>
+    <parentid>33431</parentid>
+    <sha1>ccf8984325df841d5cf71da783b1346dff1939b2</sha1>
   </revision>
 </page></mediawiki>

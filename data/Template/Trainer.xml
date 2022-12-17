@@ -1,12 +1,12 @@
 <mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
 <page>
-  <title>Template:Pokemon</title>
+  <title>Template:Trainer</title>
   <ns>10</ns>
-  <id>3663</id>
+  <id>13310</id>
   <revision>
-    <id>36146</id>
-    <timestamp>2022-12-16T20:46:08Z</timestamp>
-    <text space="preserve" bytes="130">{{Image|{{{1}}}|{{{2}}}|{{{3|}}}}} {{#if:{{{3|}}}|[[{{{3}}}|{{{1}}}]]|{{{1}}}}}&lt;noinclude&gt;
+    <id>36135</id>
+    <timestamp>2022-12-16T20:30:18Z</timestamp>
+    <text space="preserve" bytes="139">{{Image|{{{1}}}|{{{2}}}}} {{#if:{{{4|}}}|[[{{{4}}}]]|{{#if:{{{3|}}}|{{{3}}}|{{{1}}}}}}} &lt;noinclude&gt;
 [[Category:Link templates]]&lt;/noinclude&gt;</text>
     <contributor>
       <username>Jk13</username>
@@ -14,7 +14,7 @@
     </contributor>
     <comment></comment>
     <model>wikitext</model>
-    <parentid>36136</parentid>
-    <sha1>ea86217d15e69e5c856353ebe9a76e81de45bad9</sha1>
+    <parentid>36124</parentid>
+    <sha1>37873474362612d33d4c6ebd3faef3b4dc623553</sha1>
   </revision>
 </page></mediawiki>

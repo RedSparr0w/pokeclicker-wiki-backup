@@ -4,70 +4,108 @@
   <ns>0</ns>
   <id>798</id>
   <revision>
-    <id>35087</id>
-    <timestamp>2022-12-15T20:39:43Z</timestamp>
-    <text space="preserve" bytes="39926">&lt;languages/&gt;
+    <id>36156</id>
+    <timestamp>2022-12-16T21:26:09Z</timestamp>
+    <text space="preserve" bytes="22327">&lt;languages/&gt;
 &lt;translate&gt;
 &lt;!--T:1--&gt;
-'''Cities''' and '''Towns''' are areas in Pokéclicker. They offer access to [[Shops]], [[Gyms]], and certain [[Dungeons]].
+'''Cities''' and '''Towns''' are areas in Pokéclicker. They offer access to [[Shops]], [[Gyms]], and certain [[Dungeons]]. For a list of [[Items]] sold at these locations, please check [[Shops]] page.
 == [[Kanto]] ==
+===Main Region + Sevii Islands 123===
 {| class="wikitable"
 |-
+! Town Name !! Closest Routes !! [[Gyms|Gym]]/[[Dungeons|Dungeon]] !! [[NPCs]]
 |-
-! Town Name !! Closest Routes !! [[Gyms|Gym]]/[[Dungeons|Dungeon]] !! [[Shops#Kanto: Locations &amp; Items|Shop]] Items !! Cost !! [[NPCs]]
+| {{Image|Pallet Town|50}} Pallet Town || Route 1, 21 || None || [[NPCs#Kanto_NPCs|Prof. Oak]] &lt;br&gt;[[NPCs#Kanto_NPCs|Mom]]
 |-
-| [[File:Pallet Town.png|50px]] Pallet Town || Route 1, 21 || None || None || || [[NPCs#Kanto_NPCs|Prof. Oak]] &lt;br&gt;[[NPCs#Kanto_NPCs|Mom]]
+| {{Image|Viridian City|50}} Viridian City || Route 1, 2, 22 || [[File:Earth_Badge.png|45px|Earth Badge]] [[Gyms#Gyms|Earth Badge]] || [[NPCs#Kanto_NPCs|Old Man]]
 |-
-| [[File:Viridian City.png|50px]] Viridian City || Route 1, 2, 22 || [[File:Earth_Badge.png|45px|Earth Badge]] [[Gyms#Gyms|Earth Badge]] || [[File:Poké Ball.png|15px]][[Poké Ball|Poké Ball]] &lt;br&gt; [[File:Bag_X_Attack_Sprite.png|15px]][[xAttack]] &lt;br&gt; [[File:Bag_X_Click_Sprite.png|15px]][[xClick]] &lt;br&gt; [[File:Dungeonticket.png|17px]][[Dungeon Ticket]] || style="text-align:right" | 100 {{pdollar}} &lt;br&gt;  600 {{pdollar}} &lt;br&gt; 400 {{pdollar}} &lt;br&gt; 100 {{Questpoints}} || [[NPCs#Kanto_NPCs|Old Man]]
+| {{Image|Pewter City|50}} Pewter City || Route 2, 3 || [[File:Boulder_Badge.png|45px|Boulder Badge]] [[Gyms#Gyms|Boulder Badge]] || [[NPCs#Kanto_NPCs|Battle Item Master]] &lt;br&gt; [[NPCs#Kanto_NPCs|Gem Scientist]]
 |-
-| [[File:Pewter City.png|50px]] Pewter City || Route 2, 3 || [[File:Boulder_Badge.png|45px|Boulder Badge]] [[Gyms#Gyms|Boulder Badge]] || [[File:Poké Ball.png|15px]][[Poké Ball|Poké Ball]] &lt;br&gt; [[File:Bag_Token_Collector_Sprite.png|15px]][[Token Collector]] &lt;br&gt; [[File:Bag_Lucky_Egg_Sprite.png|15px]][[Lucky Egg]] &lt;br&gt; [[File:Mystery_Egg.png|15px]][[Mystery Egg]] || style="text-align:right" |100 {{pdollar}} &lt;br&gt;  1000 {{pdollar}} &lt;br&gt; 800 {{pdollar}} &lt;br&gt; 700 {{Questpoints}} || [[NPCs#Kanto_NPCs|Battle Item Master]] &lt;br&gt; [[NPCs#Kanto_NPCs|Gem Scientist]]
+| {{Image|Cerulean City|50}} Cerulean City || Route 4, 5, 9, 24 || [[File:Cascade_Badge.png|45px|Cascade Badge]] [[Gyms#Gyms|Cascade Badge]] || [[Berry Master]] &lt;br&gt; [[NPCs#Kanto_NPCs|Super Nerd Jovan]]
 |-
-| [[File:Cerulean City.png|50px]] Cerulean City || Route 4, 5, 9, 24 || [[File:Cascade_Badge.png|45px|Cascade Badge]] [[Gyms#Gyms|Cascade Badge]] || [[File:Water_Stone.png|15px]][[Water Stone]] &lt;br&gt; [[File:Bag_X_Attack_Sprite.png|15px]][[xAttack]] &lt;br&gt; [[File:Bag_Water_Egg_Sprite.png|15px]][[Water Egg]] || style="text-align:right" |2500 {{Questpoints}} &lt;br&gt; 600 {{pdollar}} &lt;br&gt; 1000 {{Questpoints}} || [[Berry Master]] &lt;br&gt; [[NPCs#Kanto_NPCs|Super Nerd Jovan]]
+| {{Image|Lavender Town|50}} Lavender Town || Route 8, 10, 12 || [[Pokémon Tower|Pokémon Tower]] || [[NPCs#Kanto_NPCs|Mr. Fuji]] &lt;br&gt; [[NPCs#Kanto_NPCs|Channeler Karina]]
 |-
-| [[File:Lavender Town.png|50px]] Lavender Town || Route 8, 10, 12 || [[Pokémon Tower|Pokémon Tower]] || [[File:Great Ball.png|15px]][[Great Ball]] &lt;br&gt; [[File:Bag_Item_Magnet_Sprite.png|15px]][[Item Magnet]] &lt;br&gt; [[File:Bag_Lucky_Incense_Sprite.png|15px]][[Lucky Incense]] &lt;br&gt; [[File:Bag_Grass_Egg_Sprite.png|15px]][[Grass Egg]] || style="text-align:right" |500 {{pdollar}} &lt;br&gt;  1500 {{pdollar}} &lt;br&gt; 2000 {{pdollar}} &lt;br&gt; 1000 {{Questpoints}} || [[NPCs#Kanto_NPCs|Mr. Fuji]] &lt;br&gt; [[NPCs#Kanto_NPCs|Channeler Karina]]
+| {{Image|Saffron City|50}} Saffron City || Route 5, 6, 7, 8 || [[File:Marsh_Badge.png|45px|Marsh Badge]] [[Gyms#Gyms|Marsh Badge]] || [[NPCs#Kanto_NPCs|Battle Item Master 2]] &lt;br&gt; [[NPCs#Kanto_NPCs|Breeder]]
 |-
-| [[File:Saffron City.png|50px]] Saffron City || Route 5, 6, 7, 8 || [[File:Marsh_Badge.png|45px|Marsh Badge]] [[Gyms#Gyms|Marsh Badge]] || [[File:Moon_Stone.png|15px]][[Moon Stone]] &lt;br&gt; [[File:Bag_X_Click_Sprite.png|15px]][[xClick]] &lt;br&gt; [[File:Leaf_Stone.png|15px]][[Leaf Stone]] &lt;br&gt; [[File:Bag_Fighting_Egg_Sprite.png|15px]][[Fighting Egg]] || style="text-align:right" |2500 {{Questpoints}} &lt;br&gt;  400 {{pdollar}} &lt;br&gt; 2500 {{Questpoints}} &lt;br&gt; 1000 {{Questpoints}} || [[NPCs#Kanto_NPCs|Battle Item Master 2]] &lt;br&gt; [[NPCs#Kanto_NPCs|Breeder]]
+| {{Image|Celadon City|50}} Celadon City || Route 7, 16 || [[File:Rainbow_Badge.png|45px|Rainbow Badge]] [[Gyms#Gyms|Rainbow Badge]] || [[NPCs#Kanto_NPCs|Big Spender]]
 |-
-| [[File:Celadon City.png|50px]] Celadon City || Route 7, 16 || [[File:Rainbow_Badge.png|45px|Rainbow Badge]] [[Gyms#Gyms|Rainbow Badge]] || [[File:Eevee_Shuffle.png|15px]] Eevee &lt;br&gt; [[File:Porygon_Shuffle.png|15px]] Porygon &lt;br&gt; [[File:Jynx_Shuffle.png|15px]] Jynx &lt;br&gt; [[File:MrMime_Shuffle.png|15px]] Mr. Mime &lt;br&gt; [[File:Lickitung_Shuffle.png|15px]] Lickitung || style="text-align:right" |4000 {{Questpoints}} &lt;br&gt;  2000 {{Questpoints}} &lt;br&gt; 2000 {{Questpoints}} &lt;br&gt; 1000 {{Questpoints}} &lt;br&gt; 1000 {{Questpoints}} || [[NPCs#Kanto_NPCs|Big Spender]]
+| {{Image|Vermilion City|50}} Vermilion City || Route 6, 11 || [[File:Thunder_Badge.png|45px|Thunder Badge]] [[Gyms#Gyms|Thunder Badge]] || [[Dock]] &lt;br&gt; [[NPCs#Kanto_NPCs|Fan Club Chairman]] &lt;br&gt; [[NPCs#Kanto_NPCs|Shard Apprentice]]
 |-
-| [[File:Vermilion City.png|50px]] Vermilion City || Route 6, 11 || [[File:Thunder_Badge.png|45px|Thunder Badge]] [[Gyms#Gyms|Thunder Badge]] || [[File:Thunder_Stone.png|15px]][[Thunder Stone]] &lt;br&gt; [[File:Bag_Lucky_Egg_Sprite.png|15px]][[Lucky Egg]] &lt;br&gt; [[File:Bag_Electric_Egg_Sprite.png|15px]][[Electric Egg]] &lt;br&gt;  || style="text-align:right" |2500 {{Questpoints}} &lt;br&gt; 800 {{pdollar}} &lt;br&gt; 1000 {{Questpoints}} || [[Dock]] &lt;br&gt; [[NPCs#Kanto_NPCs|Fan Club Chairman]] &lt;br&gt; [[NPCs#Kanto_NPCs|Shard Apprentice]]
+| {{Image|Fuchsia City|50}} Fuchsia City || Route 15, 18, 19 || [[File:Soul_Badge.png|45px|Soul Badge]] [[Gyms#Gyms|Soul Badge]] || [[Safari Zone]] &lt;br&gt; [[NPCs#Kanto_NPCs|Youngster Wendy]]
 |-
-| [[File:Fuchsia City.png|50px]] Fuchsia City || Route 15, 18, 19 || [[File:Soul_Badge.png|45px|Soul Badge]] [[Gyms#Gyms|Soul Badge]] || [[File:Ultra Ball.png|15px]][[Ultra Ball]] &lt;br&gt; [[File:TradeStone.png|15px]][[Trade Stone]] &lt;br&gt; [[File:Bag_Lucky_Egg_Sprite.png|15px]][[Lucky Egg]] &lt;br&gt; [[File:Bag_Dragon_Egg_Sprite.png|15px]][[Dragon Egg]] || style="text-align:right" |2000 {{pdollar}} &lt;br&gt;  2500 {{Questpoints}} &lt;br&gt; 800 {{pdollar}} &lt;br&gt; 1000 {{Questpoints}} || [[Safari Zone]] &lt;br&gt; [[NPCs#Kanto_NPCs|Youngster Wendy]]
+| {{Image|Cinnabar Island|50}} Cinnabar Island || Route 20, 21 || [[File:Volcano_Badge.png|45px|Volcano Badge]] [[Gyms#Gyms|Volcano Badge]]/[[Pokémon Mansion|Pokémon Mansion]] || [[NPCs#Kanto_NPCs|Researcher]]
 |-
-| [[File:Cinnabar Island.png|50px]] Cinnabar Island || Route 20, 21 || [[File:Volcano_Badge.png|45px|Volcano Badge]] [[Gyms#Gyms|Volcano Badge]]/[[Pokémon Mansion|Pokémon Mansion]] || [[File:Fire_Stone.png|15px]][[Fire Stone]] &lt;br&gt; [[File:Bag_Fire_Egg_Sprite.png|15px]][[Fire Egg]] &lt;br&gt; [[File:SmallRestore.png|15px]][[Small Restore]] &lt;br&gt; [[File:Explorer Kit.png|15px]][[Explorer Kit]] &lt;br&gt; [[File:ExplosiveCharge.png|15px]][[Explosive Charge]] &lt;br&gt; [[File:TreasureScanner.png|15px]][[Treasure Scanner]] || style="text-align:right" |2500 {{Questpoints}} &lt;br&gt;  1000 {{Questpoints}} &lt;br&gt; 30000 {{pdollar}} &lt;br&gt; 5000 {{Questpoints}} &lt;br&gt; 5000 {{Questpoints}} &lt;br&gt; 10000 {{Questpoints}} || [[NPCs#Kanto_NPCs|Researcher]]
+| {{Image|Indigo Plateau Kanto|50}} Indigo Plateau Kanto || Route 23 || [[Gyms#Indigo Plateau Kanto|Indigo Plateau Kanto]] / [[Victory Road]] || None
 |-
-| [[File:One Island.png|50px]] One Island || Treasure Beach, Kindle Road || [[Mt._Ember_Summit|Mt. Ember]] || [[File:Poké Ball.png|15px]][[Poké Ball|Poké Ball]] &lt;br&gt; [[File:Great Ball.png|15px]][[Great Ball]] &lt;br&gt; [[File:Ultra Ball.png|15px]][[Ultra Ball]] &lt;br&gt; [[File:Bag_X_Attack_Sprite.png|17px]][[xAttack]] &lt;br&gt; [[File:Bag_Lucky_Incense_Sprite.png|17px]][[Lucky Incense]] || style="text-align:right" | 100 {{pdollar}} &lt;br&gt;  500 {{pdollar}} &lt;br&gt; 2000 {{pdollar}} &lt;br&gt; 600 {{pdollar}} &lt;br&gt; 2000 {{pdollar}} || [[NPCs#Kanto_NPCs|Celio]] &lt;br&gt; [[NPCs#Kanto_NPCs|Youngster]]
+| {{Image|One Island|50}} One Island || Treasure Beach, Kindle Road || [[Mt._Ember_Summit|Mt. Ember]] || [[NPCs#Kanto_NPCs|Celio]] &lt;br&gt; [[NPCs#Kanto_NPCs|Youngster]]
 |-
-| [[File:Two Island.png|50px]] Two Island || Cape Brink || None || [[File:Poké Ball.png|15px]][[Poké Ball|Poké Ball]] &lt;br&gt; [[File:Great Ball.png|15px]][[Great Ball]] &lt;br&gt; [[File:Ultra Ball.png|15px]][[Ultra Ball]] &lt;br&gt; [[File:Bag_X_Click_Sprite.png|17px]][[xClick]] &lt;br&gt; [[File:Bag_Dowsing_Machine_Sprite.png|17px]][[Dowsing Machine]] || style="text-align:right" | 100 {{pdollar}} &lt;br&gt;  500 {{pdollar}} &lt;br&gt; 2000 {{pdollar}} &lt;br&gt; 400 {{pdollar}} &lt;br&gt; 1500 {{pdollar}} || None
+| {{Image|Two Island|50}} Two Island || Cape Brink || None || None
 |-
-| [[File:Three Island.png|50px]] Three Island || Bond Bridge || [[Berry_Forest|Berry Forest]] || [[File:Poké Ball.png|15px]][[Poké Ball|Poké Ball]] &lt;br&gt; [[File:Great Ball.png|15px]][[Great Ball]] &lt;br&gt; [[File:Ultra Ball.png|15px]][[Ultra Ball]] &lt;br&gt; [[File:Bag_Token_Collector_Sprite.png|17px]][[Token Collector]] || style="text-align:right" | 100 {{pdollar}} &lt;br&gt;  500 {{pdollar}} &lt;br&gt; 2000 {{pdollar}} &lt;br&gt; 1000 {{pdollar}} || [[NPCs#Kanto_NPCs|Biker]]
+| {{Image|Three Island|50}} Three Island || Bond Bridge || [[Berry_Forest|Berry Forest]] || [[NPCs#Kanto_NPCs|Biker]]
+|-
+| {{Image|Client Island|50}} Client Island || None || None || [[NPCs#Kanto_NPCs|Welcome Sign]] &lt;br&gt; [[NPCs#Kanto_NPCs|Red Spearow]]
+|}
+
+===Sevii Islands 4567===
+{| class="wikitable"
+|-
+! Town Name !! Closest Routes !! [[Gyms|Gym]]/[[Dungeons|Dungeon]] !! [[NPCs]]
+|-
+| {{Image|Four Island|50}} Four Island || None || [[Icefall Cave]] || None
+|-
+| {{Image|Five Island|50}} Five Island || Five Isle Meadow, Water Labyrinth || [[Sunburst Island]] / [[Lost Cave]] || None
+|-
+| {{Image|Rocket Warehouse|50}} Rocket Warehouse || Five Isle Meadow, Memorial Pillar || None || None
+|-
+| {{Image|Six Island|50}} Six Island || Water Path || [[Pattern Bush]] / [[Altering Cave]] || None
+|-
+| {{Image|Dotted Hole|50}} Dotted Hole || Ruin Valley || None || Gideon
+|-
+| {{Image|Seven Island|50}} Seven Island || Canyon Entrance || [[Tanoby Ruins]] || None
+|-
+| {{Image|Mikan Island|50}} Mikan Island || None || {{Image|Coral Eye Badge|45}} [[Gyms#Orange League|Coral Eye Badge]] || None
+|-
+| {{Image|Navel Island|50}} Navel Island || None || {{Image|Sea Ruby Badge|45}} [[Gyms#Orange League|Sea Ruby Badge]] / [[Lost Cave]] || None
+|-
+| {{Image|Trovita Island|50}} Trovita Island || None || {{Image|Spike Shell Badge|45}} [[Gyms#Orange League|Spike Shell Badge]] || None
+|-
+| {{Image|Kumquat Island|50}} Kumquat Island || None || {{Image|Jade Star Badge|45}} [[Gyms#Orange League|Jade Star Badge]] || None
+|-
+| {{Image|Pummelo Island|50}} Pummelo Island || None || [[Gyms#Pokémon Orange League|Pokémon Orange League]] || None
+|-
+| {{Image|Valencia Pokémon Center|50}} Valencia Pokémon Center || Valencia Island || None || [[NPCs#Kanto_NPCs|Prof. Ivy]]
+|-
+| {{Image|Pinkan Pokémon Reserve|50}} Pinkan Pokémon Reserve || Pinkan Plains || [[Pinkan Mountain]] / [[Altering Cave]] || [[NPCs#Kanto_NPCs|Officer Jenny]]
 |}
 
 &lt;!--T:2--&gt;
 == [[Johto]] ==
 {| class="wikitable"
 |-
-! Town Name !! Closest Routes !! [[Gyms|Gym]]/[[Dungeons|Dungeon]] !! [[Shops#Johto: Locations &amp; Items|Shop]] Items !! Cost !! [[NPCs]]
+! Town Name !! Closest Routes !! [[Gyms|Gym]]/[[Dungeons|Dungeon]] !! [[NPCs]]
 |-
-| [[File:New Bark Town.png|50px]] New Bark Town || Route 27, 29 || None || [[File:Poké Ball.png|15px]][[Poké Ball|Poké Ball]] || style="text-align:right"| 100 {{pdollar}} || [[NPCs#Johto_NPCs|Professor Elm]] &lt;br&gt; [[NPCs#Johto_NPCs|Technology Enthusiast]]
+| {{Image|New Bark Town|50}} New Bark Town || Route 27, 29 || None || [[NPCs#Johto_NPCs|Professor Elm]] &lt;br&gt; [[NPCs#Johto_NPCs|Technology Enthusiast]]
 |-
-| [[File:Cherrygrove City.png|50px]] Cherrygrove City || Route 29, 30 || None || None || style="text-align:right"| N/A || [[NPCs#Johto_NPCs|Mr. Pokémon]]
+| {{Image|Cherrygrove City|50}} Cherrygrove City || Route 29, 30 || None || [[NPCs#Johto_NPCs|Mr. Pokémon]]
 |-
-| [[File:Violet City.png|50px]] Violet City || Route 31, 32, 36 || [[file:Zephyr Badge.png|45px]] [[Gyms#Gyms_2|Zephyr Badge]]/[[Sprout Tower|Sprout Tower]] || [[File:Medium restore.png|15px]][[Medium Restore]] &lt;br&gt; [[File:Togepi_Shuffle.png|15px]] Togepi &lt;br&gt; [[File:Mystery_Egg.png|15px]][[Mystery Egg]] ||style="text-align:right" | 100000 {{pdollar}} &lt;br&gt; 15000 {{Questpoints}} &lt;br&gt; 700 {{Questpoints}} || [[NPCs#Johto_NPCs|Earl Dervish]] &lt;br&gt;[[NPCs#Johto_NPCs|Hiker Daniel]]
+| {{Image|Violet City|50}} Violet City || Route 31, 32, 36 || [[file:Zephyr Badge.png|45px]] [[Gyms#Gyms_2|Zephyr Badge]]/[[Sprout Tower|Sprout Tower]] || [[NPCs#Johto_NPCs|Earl Dervish]] &lt;br&gt;[[NPCs#Johto_NPCs|Hiker Daniel]]
 |-
-| [[File:Azalea Town.png|50px]] Azalea Town || Route 33, 34 || [[file:Hive Badge.png|45px]] [[Gyms#Gyms_2|Hive Badge]]/[[Slowpoke Well|Slowpoke Well]] || [[File:Leaf_Stone.png|15px]][[Leaf Stone]] &lt;br&gt;  [[File:Kings_Rock.png|15px]][[Kings Rock]] &lt;br&gt; [[File:Bag_Grass_Egg_Sprite.png|15px]][[Grass Egg]] || style="text-align:right" | 2500 {{Questpoints}} &lt;br&gt; 2500 {{Questpoints}} &lt;br&gt; 1000 {{Questpoints}} || [[NPCs#Johto_NPCs|Wise Old Man]]
+| {{Image|Azalea Town|50}} Azalea Town || Route 33, 34 || [[file:Hive Badge.png|45px]] [[Gyms#Gyms_2|Hive Badge]]/[[Slowpoke Well|Slowpoke Well]] || [[NPCs#Johto_NPCs|Wise Old Man]]
 |-
-| [[File:Goldenrod City.png|50px]] Goldenrod City || Route 34, 35 || [[file:Plain Badge.png|45px]] [[Gyms#Gyms_2|Plain Badge]] || Same as [[Shops#Poké Mart|Poké Mart]] || style="text-align:right" | N/A || [[Berry Master]] &lt;br&gt; [[NPCs#Johto_NPCs|Big Spender]]
+| {{Image|Goldenrod City|50}} Goldenrod City || Route 34, 35 || [[file:Plain Badge.png|45px]] [[Gyms#Gyms_2|Plain Badge]] || [[Berry Master]] &lt;br&gt; [[NPCs#Johto_NPCs|Big Spender]]
 |-
-| [[File:Ecruteak City.png|50px]] Ecruteak City || Route 37, 38, 42 || [[file:Fog Badge.png|45px]] [[Gyms#Gyms_2|Fog Badge]] &lt;br&gt; [[Tin_Tower|Tin Tower]] / [[Burned_Tower|Burned Tower]] || [[File:Fire_Stone.png|15px]][[Fire Stone]] &lt;br&gt; [[File:Soothe_Bell.png|15px]][[Soothe Bell]] &lt;br&gt; [[File:Great Ball.png|15px]][[Great Ball]] &lt;br&gt; [[File:Bag_Fire_Egg_Sprite.png|15px]][[Fire Egg]] || style="text-align:right" | 2500 {{Questpoints}} &lt;br&gt; 2500 {{Questpoints}} &lt;br&gt; 500 {{pdollar}} &lt;br&gt;  1000 {{Questpoints}} || [[NPCs#Johto_NPCs|Bill]] &lt;br&gt; [[NPCs#Johto_NPCs|Pokéfan Derek]] &lt;br&gt; [[NPCs#Johto_NPCs|Kimono Girl]]
+| {{Image|Ecruteak City|50}} Ecruteak City || Route 37, 38, 42 || [[file:Fog Badge.png|45px]] [[Gyms#Gyms_2|Fog Badge]] &lt;br&gt; [[Tin_Tower|Tin Tower]] / [[Burned_Tower|Burned Tower]] || [[NPCs#Johto_NPCs|Bill]] &lt;br&gt; [[NPCs#Johto_NPCs|Pokéfan Derek]] &lt;br&gt; [[NPCs#Johto_NPCs|Kimono Girl]]
 |-
-| [[File:Olivine City.png|50px]] Olivine City || Route 39, 40 || [[file:Mineral Badge.png|45px]] [[Gyms#Gyms_2|Mineral Badge]] || [[File:Metal coat.png|15px]][[Metal Coat]] &lt;br&gt; [[File:Bag_Water_Egg_Sprite.png|15px]][[Water Egg]] &lt;br&gt; [[File:Bag_Electric_Egg_Sprite.png|15px]][[Electric Egg]] &lt;br&gt; [[File:Water_Stone.png|15px]][[Water Stone]] &lt;br&gt; [[File:Thunder_Stone.png|15px]][[Thunder Stone]] || style="text-align:right" | 2500 {{Questpoints}} &lt;br&gt; 1000 {{Questpoints}} &lt;br&gt; 1000 {{Questpoints}} &lt;br&gt; 2500 {{Questpoints}} &lt;br&gt; 2500 {{Questpoints}} || [[Dock]]&lt;br&gt;[[NPCs#Johto_NPCs|SS Aqua Captain]]
+| {{Image|Olivine City|50}} Olivine City || Route 39, 40 || [[file:Mineral Badge.png|45px]] [[Gyms#Gyms_2|Mineral Badge]] || [[Dock]]&lt;br&gt;[[NPCs#Johto_NPCs|SS Aqua Captain]]
 |-
-| [[File:Cianwood City.png|50px]] Cianwood City || Route 41 || [[file:Storm Badge.png|45px]] [[Gyms#Gyms_2|Storm Badge]] || [[File:Sun stone.png|15px]][[Sun Stone]] &lt;br&gt; [[File:Moon_Stone.png|15px]][[Moon Stone]] &lt;br&gt; [[File:Ultra Ball.png|15px]][[Ultra Ball]] &lt;br&gt; [[File:Bag_Fighting_Egg_Sprite.png|15px]][[Fighting Egg]] || style="text-align:right" | 2500 {{Questpoints}} &lt;br&gt; 2500 {{Questpoints}} &lt;br&gt; 2000 {{pdollar}} &lt;br&gt; 1000 {{Questpoints}} || [[NPCs#Johto_NPCs|Photography Aide]]
+| {{Image|Cianwood City|50}} Cianwood City || Route 41 || [[file:Storm Badge.png|45px]] [[Gyms#Gyms_2|Storm Badge]] || [[NPCs#Johto_NPCs|Photography Aide]]
 |-
-| [[File:Mahogany Town.png|50px]] Mahogany Town || Route 42, 43, 44 || [[file:Glacier Badge.png|45px]] [[Gyms#Gyms_2|Glacier Badge]] || [[File:Upgrade.png|15px]][[Upgrade]] &lt;br&gt; [[File:Trade_Stone.png|15px]][[Trade Stone]] || style="text-align:right" | 2500 {{Questpoints}} &lt;br&gt; 2500 {{Questpoints}} || [[NPCs#Johto_NPCs|Souvenir Shop Attendant]]
+| {{Image|Mahogany Town|50}} Mahogany Town || Route 42, 43, 44 || [[file:Glacier Badge.png|45px]] [[Gyms#Gyms_2|Glacier Badge]] || [[NPCs#Johto_NPCs|Souvenir Shop Attendant]]
 |-
-| [[File:Blackthorn City.png|50px]] Blackthorn City || Route 44, 45 || [[file:Rising Badge.png|45px]] [[Gyms#Gyms_2|Rising Badge]] || [[File:Large restore.png|15px]][[Large Restore]] &lt;br&gt; [[File:Dragon_Scale.png|15px]][[Dragon Scale]] &lt;br&gt; [[File:Dragon_Egg.png|15px]][[Dragon Egg]] || style="text-align:right" | 400000 {{pdollar}} &lt;br&gt; 2500 {{Questpoints}} &lt;br&gt; 1000 {{Questpoints}} || [[NPCs#Johto_NPCs|Pokéfan Trevor]]
+| {{Image|Blackthorn City|50}} Blackthorn City || Route 44, 45 || [[file:Rising Badge.png|45px]] [[Gyms#Gyms_2|Rising Badge]] || [[NPCs#Johto_NPCs|Pokéfan Trevor]]
+|-
+| {{Image|Indigo Plateau Johto|50}} Indigo Plateau Johto || Route 26 || [[Gyms#Indigo Plateau Johto|Indigo Plateau Johto]] / [[Victory Road Johto]] || None
 |}
 
 &lt;!--T:3--&gt;
@@ -75,84 +113,88 @@
 {| class="wikitable"
 |-
 |-
-! Town Name !! Closest Routes !! [[Gyms|Gym]]/[[Dungeons|Dungeon]] !! [[Shops#Hoenn: Locations &amp; Items|Shop]] Items !! Cost !! [[NPCs]]
+! Town Name !! Closest Routes !! [[Gyms|Gym]]/[[Dungeons|Dungeon]] !! [[NPCs]]
 |-
-| [[File:Littleroot Town.png|50px]] Littleroot Town || Route 101 ||  None || [[File:Poké Ball.png|15px]][[Poké Ball|Poké Ball]] || style="text-align:right" | 100 {{pdollar}} || [[NPCs#Hoenn_NPCs|Profesor Birch]] &lt;br&gt; [[NPCs#Hoenn_NPCs|Profesor Birch's Aide]]
+| {{Image|Littleroot Town|50}} Littleroot Town || Route 101 || None || [[NPCs#Hoenn_NPCs|Profesor Birch]] &lt;br&gt; [[NPCs#Hoenn_NPCs|Profesor Birch's Aide]]
 |-
-| [[File:Oldale Town.png|50px]] Oldale Town || Route 101, 102, 103 || None || None || || [[NPCs#Hoenn_NPCs|Tracking Scientist]]
+| {{Image|Oldale Town|50}} Oldale Town || Route 101, 102, 103 || None || [[NPCs#Hoenn_NPCs|Tracking Scientist]]
 |-
-| [[File:Petalburg City.png|50px]] Petalburg City || Route 102, 104 || [[File:Balance_Badge.png|70px|Balance Badge]] [[Gyms#Gyms_3|Balance Badge]] || [[File:Kings_Rock.png|15px]][[Kings Rock]] || style="text-align:right" | 2500 {{Questpoints}} ||
+| {{Image|Petalburg City|50}} Petalburg City || Route 102, 104 || [[File:Balance_Badge.png|70px|Balance Badge]] [[Gyms#Gyms_3|Balance Badge]] || None
 |-
-| [[File:Rustboro City.png|50px]] Rustboro City || Route 104, 113, 116 || [[File:Stone_Badge.png|70px|Stone Badge]] [[Gyms#Gyms_3|Stone Badge]] || [[File:Mystery_Egg.png|15px]][[Mystery Egg]] || style="text-align:right" | 700 {{Questpoints}} ||
+| {{Image|Rustboro City|50}} Rustboro City || Route 104, 113, 116 || [[File:Stone_Badge.png|70px|Stone Badge]] [[Gyms#Gyms_3|Stone Badge]] || None
 |-
-| [[File:Dewford Town.png|50px]] Dewford Town || Route 106, 107 || [[File:Knuckle_Badge.png|70px|Knuckle Badge]] [[Gyms#Gyms_3|Knuckle Badge]] || [[File:Bag_Fighting_Egg_Sprite.png|15px]][[Fighting Egg]] || style="text-align:right" | 1000 {{Questpoints}} ||
+| {{Image|Dewford Town|50}} Dewford Town || Route 106, 107 || [[File:Knuckle_Badge.png|70px|Knuckle Badge]] [[Gyms#Gyms_3|Knuckle Badge]] || None
 |-
-| [[File:Slateport City.png|50px]] Slateport City || Route 109, 110, 134 || None || [[File:Great Ball.png|15px]][[Great Ball]] &lt;br&gt; [[File:Bag_Water_Egg_Sprite.png|15px]][[Water Egg]] &lt;br&gt; [[File:Trade_Stone.png|15px]][[Trade Stone]] || style="text-align:right" | 500 {{pdollar}} &lt;br&gt; 1000 {{Questpoints}} &lt;br&gt; 2500 {{Questpoints}} || [[Dock]] &lt;br&gt; [[NPCs#Hoenn_NPCs|Reporter Gabby]]
+| {{Image|Slateport City|50}} Slateport City || Route 109, 110, 134 || None || [[Dock]] &lt;br&gt; [[NPCs#Hoenn_NPCs|Reporter Gabby]]
 |-
-| [[File:Mauville City.png|50px]] Mauville City || Route 110, 111, 117, 118 || [[File:Dynamo_Badge.png|70px|Dynamo Badge]] [[Gyms#Gyms_3|Dyanamo Badge]] || [[File:Bag_Electric_Egg_Sprite.png|15px]][[Electric Egg]] &lt;br&gt; [[File:Thunder_Stone.png|15px]][[Thunder Stone]] &lt;br&gt; [[File:Metal_Coat.png|15px]][[Metal Coat]] || style="text-align:right" | 1000 {{Questpoints}} &lt;br&gt; 2500 {{Questpoints}} &lt;br&gt; 2500 {{Questpoints}} || [[Berry Master]]
+| {{Image|Mauville City|50}} Mauville City || Route 110, 111, 117, 118 || [[File:Dynamo_Badge.png|70px|Dynamo Badge]] [[Gyms#Gyms_3|Dyanamo Badge]] || [[Berry Master]]
 |-
-| [[File:Verdanturf Town.png|50px]] Verdanturf Town || Route 116, 117 || None || [[File:Bag_Grass_Egg_Sprite.png|15px]][[Grass Egg]] &lt;br&gt; [[File:Soothe_Bell.png|15px]][[Soothe Bell]] || style="text-align:right" | 1000 {{Questpoints}} &lt;br&gt; 2500 {{Questpoints}} || 
+| {{Image|Verdanturf Town|50}} Verdanturf Town || Route 116, 117 || None || None
 |-
-| [[File:Fallarbor Town.png|50px]] Fallarbor Town || Route 113, 114 || None || [[File:Moon_Stone.png|15px]][[Moon Stone]] &lt;br&gt; [[File:Sun_Stone.png|15px]][[Sun Stone]] || style="text-align:right" | 2500 {{Questpoints}} &lt;br&gt; 2500 {{Questpoints}} || [[NPCs#Hoenn_NPCs|Professor Cozmo]]
+| {{Image|Fallarbor Town|50}} Fallarbor Town || Route 113, 114 || None || [[NPCs#Hoenn_NPCs|Professor Cozmo]]
 |-
-| [[File:Lavaridge Town.png|50px]] Lavaridge Town || Route 112 || [[File:Heat_Badge.png|70px|Heat Badge]] [[Gyms#Gyms_3|Heat Badge]] || [[File:Bag_Fire_Egg_Sprite.png|15px]][[Fire Egg]] &lt;br&gt; [[File:Fire_Stone.png|15px]][[Fire Stone]] || style="text-align:right" | 1000 {{Questpoints}} &lt;br&gt; 2500 {{Questpoints}} ||
+| {{Image|Lavaridge Town|50}} Lavaridge Town || Route 112 || [[File:Heat_Badge.png|70px|Heat Badge]] [[Gyms#Gyms_3|Heat Badge]] || None
 |-
-| [[File:Fortree City.png|50px]] Fortree City || Route 119, 120 || [[File:Feather_Badge.png|70px|Feather Badge]] [[Gyms#Gyms_3|Feather Badge]] || [[File:Ultra Ball.png|15px]][[Ultra Ball]] &lt;br&gt; [[File:Leaf_Stone.png|15px]][[Leaf Stone]] || style="text-align:right" | 2000 {{pdollar}} &lt;br&gt; 2500 {{Questpoints}} || [[NPCs#Hoenn_NPCs|Weatherman]] &lt;br&gt; [[NPCs#Hoenn_NPCs|Pokémon Ranger Catherine]] 
+| {{Image|Fortree City|50}} Fortree City || Route 119, 120 || [[File:Feather_Badge.png|70px|Feather Badge]] [[Gyms#Gyms_3|Feather Badge]] || [[NPCs#Hoenn_NPCs|Weatherman]] &lt;br&gt; [[NPCs#Hoenn_NPCs|Pokémon Ranger Catherine]] 
 |-
-| [[File:LilyCove City.png|50px]] Lilycove City || Route 121, 124 || None || Same as [[Shops#Poké Mart|Poké Mart]] || Same as [[Shops#Poké Mart|Poké Mart]] || [[NPCs#Hoenn_NPCs|Big Spender]]
+| {{Image|Lilycove City|50}} Lilycove City || Route 121, 124 || None || [[NPCs#Hoenn_NPCs|Big Spender]]
 |-
-| [[File:Mossdeep City.png|50px]] Mossdeep City || Route 124, 125, 127 || [[File:Mind_Badge.png|70px|Mind Badge]] [[Gyms#Gyms_3|Mind Badge]] || [[File:Beldum_Shuffle.png|15px]] Beldum &lt;br&gt; [[File:Prism_Scale.png|15px]][[Prism Scale]] &lt;br&gt; [[File:Upgrade.png|15px]][[Upgrade]] || style="text-align:right" | 22500 {{Questpoints}} &lt;br&gt; 2500 {{Questpoints}} &lt;br&gt; 2500 {{Questpoints}} || [[NPCs#Hoenn_NPCs|Astronomer]]
+| {{Image|Mossdeep City|50}} Mossdeep City || Route 124, 125, 127 || [[File:Mind_Badge.png|70px|Mind Badge]] [[Gyms#Gyms_3|Mind Badge]] || [[NPCs#Hoenn_NPCs|Astronomer]]
 |-
-| [[File:Sootopolis City.png|50px]] Sootopolis City || Route 126 || [[File:Rain_Badge.png|70px|Rain Badge]] [[Gyms#Gyms_3|Rain Badge]] || [[File:Water_Stone.png|15px]][[Water Stone]] || style="text-align:right" | 2500 {{Questpoints}} || [[NPCs#Hoenn_NPCs|Gym Leader Wallace]]
+| {{Image|Sootopolis City|50}} Sootopolis City || Route 126 || [[File:Rain_Badge.png|70px|Rain Badge]] [[Gyms#Gyms_3|Rain Badge]] || [[NPCs#Hoenn_NPCs|Gym Leader Wallace]]
 |-
-| [[File:Pacifidlog Town.png|50px]] Pacifidlog Town || Route 131, 132 || None || [[File:Deep_Sea_Tooth.png|15px]][[Deep Sea Tooth]] &lt;br/&gt; [[File:Deep_Sea_Scale.png|15px]][[Deep Sea Scale]] || style="text-align:right" | 2500 {{Questpoints}} &lt;br&gt; 2500 {{Questpoints}} || [[NPCs#Hoenn_NPCs|Diver]]
+| {{Image|Pacifidlog Town|50}} Pacifidlog Town || Route 131, 132 || None || [[NPCs#Hoenn_NPCs|Diver]]
 |-
-| [[File:Ever Grande City.png|50px]] Ever Grande City || Route 128, 129 || None || [[File:Bag_Dragon_Egg_Sprite.png|15px]][[Dragon Egg]] &lt;br&gt; [[File:Dragon_Scale.png|15px]][[Dragon Scale]] || style="text-align:right" | 1000 {{Questpoints}} &lt;br&gt; 2500 {{Questpoints}} || 
+| {{Image|Ever Grande City|50}} Ever Grande City || Route 128, 129 || None || None
 |-
+| {{Image|Battle Frontier|50}} Battle Frontier || None || [[Battle Frontier]] || None
+|-
+| {{Image|Pokémon League Hoenn|50}} Pokémon League Hoenn || None || [[Gyms#Pokémon League Hoenn|Pokémon League Hoenn]] / [[Victory Road Hoenn]] || None
 |}
 
 &lt;!--T:4--&gt;
 == [[Sinnoh]] ==
 {| class="wikitable"
 |-
-! Town Name !! Closest Routes !! [[Gyms|Gym]]/[[Dungeons|Dungeon]] !! [[Shops#Sinnoh: Locations &amp; Items|Shop]] Items !! Cost !! [[NPCs]]
+! Town Name !! Closest Routes !! [[Gyms|Gym]]/[[Dungeons|Dungeon]] !! [[NPCs]]
 |-
-| [[File:Twinleaf Town.png|50px]] Twinleaf Town || Route 201 || None || [[File:Poké Ball.png|15px]][[Poké Ball|Poké Ball]] || style="text-align:right" | 100 {{pdollar}} || [[NPCs#Sinnoh_NPCs|Contest Champion]]
+| {{Image|Twinleaf Town|50}} Twinleaf Town || Route 201 || None || [[NPCs#Sinnoh_NPCs|Contest Champion]]
 |-
-| [[File:Sandgem Town.png|50px]] Sandgem Town || Route 201, 202, 219 || None || None || || [[NPCs#Sinnoh_NPCs|Professor Rowan]] &lt;br&gt; [[NPCs#Sinnoh_NPCs|Beachcomber]]
+| {{Image|Sandgem Town|50}} Sandgem Town || Route 201, 202, 219 || None || [[NPCs#Sinnoh_NPCs|Professor Rowan]] &lt;br&gt; [[NPCs#Sinnoh_NPCs|Beachcomber]]
 |-
-| [[File:Jubilife City.png|50px]] Jubilife City || Route 202, 203, 204, 218 || None || [[File:Sun_Stone.png|15px]][[Sun Stone]] &lt;br&gt; [[File:Moon_Stone.png|15px]][[Moon Stone]] || style="text-align:right" | 2500 {{Questpoints}} &lt;br&gt; 2500 {{Questpoints}} ||
+| {{Image|Jubilife City|50}} Jubilife City || Route 202, 203, 204, 218 || None || None
 |-
-| [[File:Oreburgh City.png|50px]] Oreburgh City || Route 203, 207 || [[File:Coal_Badge.png|45px|Coal Badge]] [[Gyms#Gyms_4|Coal Badge]] || [[File:Mystery_Egg.png|15px]][[Mystery Egg]] || style="text-align:right" | 700 {{Questpoints}} || [[NPCs#Sinnoh_NPCs|Construction Worker]]
+| {{Image|Oreburgh City|50}} Oreburgh City || Route 203, 207 || [[File:Coal_Badge.png|45px|Coal Badge]] [[Gyms#Gyms_4|Coal Badge]] || [[NPCs#Sinnoh_NPCs|Construction Worker]]
 |-
-| [[File:Floaroma Town.png|50px]] Floaroma Town || Route 204, 205 || None || [[File:Kings_Rock.png|15px]][[Kings Rock]] &lt;br&gt; [[File:Trade_Stone.png|15px]][[Trade Stone]] || style="text-align:right" | 2500 {{Questpoints}} &lt;br&gt; 2500 {{Questpoints}} || [[NPCs#Sinnoh_NPCs|Flower Girl]]
+| {{Image|Floaroma Town|50}} Floaroma Town || Route 204, 205 || None || [[NPCs#Sinnoh_NPCs|Flower Girl]]
 |-
-| [[File:Eterna City.png|50px]] Eterna City || Route 205, 206, 211 || [[File:Forest_Badge.png|45px|Forest Badge]] [[Gyms#Gyms_4|Forest Badge]] || [[File:Bag_Grass_Egg_Sprite.png|15px]][[Grass Egg]] &lt;br&gt; [[File:Leaf_Stone.png|15px]][[Leaf Stone]] || style="text-align:right" | 1000 {{Questpoints}} &lt;br&gt; 2500 {{Questpoints}} || [[NPCs#Sinnoh_NPCs|Lass Caroline]]
+| {{Image|Eterna City|50}} Eterna City || Route 205, 206, 211 || [[File:Forest_Badge.png|45px|Forest Badge]] [[Gyms#Gyms_4|Forest Badge]] || [[NPCs#Sinnoh_NPCs|Lass Caroline]]
 |-
-| [[File:Hearthome City.png|50px]] Hearthome City || Route 208, 209, 212 || [[File:Relic_Badge.png|45px|Relic Badge]] [[Gyms#Gyms_4|Relic Badge]] || [[File:Great Ball.png|15px]][[Great Ball]] &lt;br&gt;  [[File:Bag_Fire_Egg_Sprite.png|15px]][[Fire Egg]] &lt;br&gt; [[File:Soothe_Bell.png|15px]][[Soothe Bell]] &lt;br&gt; [[File:Fire_Stone.png|15px]][[Fire Stone]] || style="text-align:right" | 500 {{pdollar}} &lt;br&gt; 1000 {{Questpoints}} &lt;br&gt; 2500 {{Questpoints}}  &lt;br&gt; 2500 {{Questpoints}} || [[Berry Master]] &lt;br&gt; [[NPCs#Sinnoh_NPCs|Contest Fan]]
+| {{Image|Hearthome City|50}} Hearthome City || Route 208, 209, 212 || [[File:Relic_Badge.png|45px|Relic Badge]] [[Gyms#Gyms_4|Relic Badge]] || [[Berry Master]] &lt;br&gt; [[NPCs#Sinnoh_NPCs|Contest Fan]]
 |-
-| [[File:Solaceon Town.png|50px]] Solaceon Town || Route 209, 210 || None || [[File:Dawn_Stone.png|15px]][[Dawn Stone]] &lt;br/&gt; [[File:Dusk_Stone.png|15px]][[Dusk Stone]] &lt;br/&gt; [[File:Shiny_Stone.png|15px]][[Shiny Stone]] &lt;br/&gt; [[File:Spiritomb_Shuffle.png|15px]] Spiritomb || style="text-align:right" | 2500 {{Questpoints}} &lt;br&gt; 2500 {{Questpoints}} &lt;br/&gt; 2500 {{Questpoints}} &lt;br/&gt;  6750 {{Questpoints}}|| 
+| {{Image|Solaceon Town|50}} Solaceon Town || Route 209, 210 || None || None
 |-
-| [[File:Veilstone City.png|50px]] Veilstone City || Route 214, 215 || [[File:Cobble_Badge.png|45px|Cobble Badge]] [[Gyms#Gyms_4|Cobble Badge]] || Same as [[Shops#Poké Mart|Poké Mart]] || Same as [[Shops#Poké Mart|Poké Mart]] || [[NPCs#Sinnoh_NPCs|Big Spender]]
+| {{Image|Veilstone City|50}} Veilstone City || Route 214, 215 || [[File:Cobble_Badge.png|45px|Cobble Badge]] [[Gyms#Gyms_4|Cobble Badge]] || [[NPCs#Sinnoh_NPCs|Big Spender]]
 |-
-| [[File:Pastoria City.png|50px]] Pastoria City || Route 212, 213 || [[File:Fen_Badge.png|45px|Fen Badge]] [[Gyms#Gyms_4|Fen Badge]] || [[File:Ultra Ball.png|15px]][[Ultra Ball]] &lt;br&gt; [[File:Bag_Water_Egg_Sprite.png|15px]][[Water Egg]] &lt;br&gt; [[File:Water_Stone.png|15px]][[Water Stone]] &lt;br&gt; [[File:Prism_Scale.png|15px]][[Prism Scale]] &lt;br&gt; [[File:Skorupi_Shuffle.png|15px]] Skorupi || style="text-align:right" | 2000 {{pdollar}} &lt;br&gt; 1000 {{Questpoints}} &lt;br&gt; 2500 {{Questpoints}} &lt;br&gt; 2500 {{Questpoints}} &lt;br&gt; 6750 {{Questpoints}} || 
+| {{Image|Pastoria City|50}} Pastoria City || Route 212, 213 || [[File:Fen_Badge.png|45px|Fen Badge]] [[Gyms#Gyms_4|Fen Badge]] || None
 |-
-| [[File:Celestic Town.png|50px]] Celestic Town || Route 210, 211 || None || [[File:Bag_Dragon_Egg_Sprite.png|15px]][[Dragon Egg]] &lt;br&gt; [[File:Dragon_Scale.png|15px]][[Dragon Scale]] || style="text-align:right" | 1000 {{Questpoints}} &lt;br&gt; 2500 {{Questpoints}} || 
+| {{Image|Celestic Town|50}} Celestic Town || Route 210, 211 || None || None
 |-
-| [[File:Pal Park.png|50px]] Pal Park || Route 221 || None || [[File:Razor_Claw.png|15px]][[Razor Claw]] &lt;br&gt; [[File:Razor_Fang.png|15px]][[Razor Fang]] &lt;br&gt; [[File:Combee_Shuffle.png|15px]] Combee &lt;br&gt; [[File:Burmy_Shuffle.png|15px]] Burmy (Plant) &lt;br&gt; [[File:Cherubi_Shuffle.png|15px]] Cherubi ||  style="text-align:right" | 2500 {{Questpoints}} &lt;br&gt; 2500 {{Questpoints}} &lt;br&gt; 6750 {{Questpoints}} &lt;br&gt; 6750 {{Questpoints}} &lt;br&gt; 6750 {{Questpoints}}|| [[NPCs#Sinnoh_NPCs|Pal Park Warden]]
+| {{Image|Pal Park|50}} Pal Park || Route 221 || None || [[NPCs#Sinnoh_NPCs|Pal Park Warden]]
 |-
-| [[File:Canalave City.png|50px]] Canalave City || Route 218 || [[File:Mine_Badge.png|45px|Mine Badge]] [[Gyms#Gyms_4|Mine Badge]] || [[File:Bag_Fighting_Egg_Sprite.png|15px]][[Fighting Egg]] &lt;br&gt; [[File:Metal_Coat.png|15px]][[Metal Coat]] || style="text-align:right" | 1000 {{Questpoints}} &lt;br&gt; 2500 {{Questpoints}} || [[Dock]] &lt;br&gt; [[NPCs#Sinnoh_NPCs|Riley]] &lt;br&gt; [[NPCs#Sinnoh_NPCs|Young Boy]]
+| {{Image|Canalave City|50}} Canalave City || Route 218 || [[File:Mine_Badge.png|45px|Mine Badge]] [[Gyms#Gyms_4|Mine Badge]] || [[Dock]] &lt;br&gt; [[NPCs#Sinnoh_NPCs|Riley]] &lt;br&gt; [[NPCs#Sinnoh_NPCs|Young Boy]]
 |-
-| [[File:Snowpoint City.png|50px]] Snowpoint City || Route 217 || [[File:Icicle_Badge.png|45px|Icicle Badge]] [[Gyms#Gyms_4|Icicle Badge]] || [[File:Upgrade.png|15px]][[Upgrade]] || style="text-align:right" | 2500 {{Questpoints}} || [[NPCs#Sinnoh_NPCs|Young Girl]]
+| {{Image|Snowpoint City|50}} Snowpoint City || Route 217 || [[File:Icicle_Badge.png|45px|Icicle Badge]] [[Gyms#Gyms_4|Icicle Badge]] || [[NPCs#Sinnoh_NPCs|Young Girl]]
 |-
-| [[File:Sunyshore City.png|50px]] Sunyshore City || Route 222, 223 || [[File:Beacon_Badge.png|45px|Beacon Badge]] [[Gyms#Gyms_4|Beacon Badge]] || [[File:Bag_Electric_Egg_Sprite.png|15px]][[Electric Egg]] &lt;br&gt; [[File:Thunder_Stone.png|15px]][[Thunder Stone]] &lt;br&gt; [[File:Deep_Sea_Tooth.png|15px]][[Deep Sea Tooth]] &lt;br&gt; [[File:Deep_Sea_Scale.png|15px]][[Deep Sea Scale]] || style="text-align:right" | 1000 {{Questpoints}} &lt;br&gt; 2500 {{Questpoints}} &lt;br&gt; 2500 {{Questpoints}} &lt;br&gt; 2500 {{Questpoints}} || [[NPCs#Sinnoh_NPCs|Ribboner Julia]]
+| {{Image|Sunyshore City|50}} Sunyshore City || Route 222, 223 || [[File:Beacon_Badge.png|45px|Beacon Badge]] [[Gyms#Gyms_4|Beacon Badge]] || [[NPCs#Sinnoh_NPCs|Ribboner Julia]]
 |-
-| [[File:Fight Area.png|50px]] Fight Area || Route 230, 225 || None || None || || [[NPCs#Sinnoh_NPCs|Ace Trainer Quinn]] 
+| {{Image|Fight Area|50}} Fight Area || Route 230, 225 || None || [[NPCs#Sinnoh_NPCs|Ace Trainer Quinn]] 
 |-
-| [[File:Survival Area.png|50px]] Survival Area || Route 225, 226 || None || [[File:Electirizer.png|15px]][[Electirizer]] &lt;br&gt; [[File:Magmarizer.png|15px]][[Magmarizer]] || style="text-align:right" | 2500 {{Questpoints}} &lt;br&gt; 2500 {{Questpoints}} || [[NPCs#Sinnoh_NPCs|Hiker Kevin]]
+| {{Image|Survival Area|50}} Survival Area || Route 225, 226 || None || [[NPCs#Sinnoh_NPCs|Hiker Kevin]]
 |-
-| [[File:Resort Area.png|50px]] Resort Area || Route 229 || None || [[File:Reaper_Cloth.png|15px]][[Reaper Cloth]] &lt;br&gt; [[File:Dubious_Disc.png|15px]][[Dubious Disc]] &lt;br&gt; [[File:Protector.png|15px]][[Protector]] || style="text-align:right" | 2500 {{Questpoints}} &lt;br&gt; 2500 {{Questpoints}} &lt;br&gt; 2500 {{Questpoints}}||
+| {{Image|Resort Area|50}} Resort Area || Route 229 || None || None
 |-
+| {{Image|Pokémon League Sinnoh|50}} Pokémon League Sinnoh || Route 223 || [[Gyms#Pokémon League Sinnoh|Pokémon League Sinnoh]] / [[Victory Road Sinnoh]] || None 
 |}
 
 &lt;!--T:5--&gt;
@@ -160,135 +202,182 @@
 {| class="wikitable"
 |-
 |-
-! Town Name !! Closest Routes !! [[Gyms|Gym]]/[[Dungeons|Dungeon]] !! [[Shops#Unova: Locations &amp; Items|Shop]] Items !! Cost !! [[NPCs]]
+! Town Name !! Closest Routes !! [[Gyms|Gym]]/[[Dungeons|Dungeon]] !! [[NPCs]]
 |-
-| [[File:Aspertia City.png|50px]] Aspertia City || Route 19 || [[File:Basic_Badge.png|45px|Basic Badge]] [[Gyms#Gyms_5|Basic Badge]] || [[File:Poké Ball.png|15px]][[Poké Ball|Poké Ball]] || style="text-align:right" | 100 {{pdollar}} ||
+| {{Image|Aspertia City|50}} Aspertia City || Route 19 || [[File:Basic_Badge.png|45px|Basic Badge]] [[Gyms#Gyms_5|Basic Badge]] || None
 |-
-| [[File:Floccesy Town.png|50px]] Floccesy Town || Route 19, 20 || None || [[File:Mystery_Egg.png|15px]][[Mystery Egg]] || style="text-align:right" | 700 {{Questpoints}} ||
+| {{Image|Floccesy Town|50}} Floccesy Town || Route 19, 20 || None || None
 |-
-| [[File:Virbank City.png|50px]] Virbank City || Route 20 || [[File:Toxic_Badge.png|45px|Toxic Badge]] [[Gyms#Gyms_5|Toxic Badge]] || [[File:Great Ball.png|15px]][[Great Ball]] || style="text-align:right" | 500 {{pdollar}} ||
+| {{Image|Virbank City|50}} Virbank City || Route 20 || [[File:Toxic_Badge.png|45px|Toxic Badge]] [[Gyms#Gyms_5|Toxic Badge]] || None
 |-
-| [[File:Castelia City.png|50px]] Castelia City || Route 4 || [[File:Insect_Badge.png|45px|Insect Badge]] [[Gyms#Gyms_5|Insect Badge]]/[[Castelia Sewers|Castelia Sewers]] || [[File:Bag_Water_Egg_Sprite.png|15px]][[Water Egg]] &lt;br/&gt; [[File:TradeStone.png|15px]][[Trade Stone]] &lt;br/&gt; [[File:Kings_Rock.png|15px]][[Kings Rock]] || style="text-align:right" | 1000 {{Questpoints}} &lt;br&gt; 2500 {{Questpoints}} &lt;br&gt; 2500 {{Questpoints}} || [[Dock]] &lt;br&gt; [[NPCs#Unova_NPCs|Musician]]
+| {{Image|Castelia City|50}} Castelia City || Route 4 || [[File:Insect_Badge.png|45px|Insect Badge]] [[Gyms#Gyms_5|Insect Badge]]/[[Castelia Sewers|Castelia Sewers]] || [[Dock]] &lt;br&gt; [[NPCs#Unova_NPCs|Musician]]
 |-
-| [[File:Nimbasa City.png|50px]] Nimbasa City || Route 4, 5, 16 || [[File:Bolt_Badge.png|45px|Bolt Badge]] [[Gyms#Gyms_5|Bolt Badge]] || [[File:Bag_Electric_Egg_Sprite.png|15px]][[Electric Egg]] &lt;br&gt; [[File:Bag_Grass_Egg_Sprite.png|15px]][[Grass Egg]] &lt;br&gt; [[File:Metal_Coat.png|15px]][[Metal Coat]] || style="text-align:right" | 1000 {{Questpoints}} &lt;br&gt; 1000 {{Questpoints}} &lt;br&gt; 2500 {{Questpoints}} ||
+| {{Image|Nimbasa City|50}} Nimbasa City || Route 4, 5, 16 || [[File:Bolt_Badge.png|45px|Bolt Badge]] [[Gyms#Gyms_5|Bolt Badge]] || None
 |-
-| [[File:Driftveil City.png|50px]] Driftveil City || Route 5, 6 || [[File:Quake_Badge.png|45px|Quake Badge]] [[Gyms#Gyms_5|Quake Badge]] || [[File:Zorua_Shuffle.png|15px]] Zorua &lt;br&gt; [[File:Razor_Claw.png|15px]] [[Razor Claw]] &lt;br&gt; [[File:Razor_Fang.png|15px]] [[Razor Fang]] || style="text-align:right" | 50625 {{Questpoints}} &lt;br&gt; 2500 {{Questpoints}} &lt;br&gt; 2500 {{Questpoints}} || 
+| {{Image|Driftveil City|50}} Driftveil City || Route 5, 6 || [[File:Quake_Badge.png|45px|Quake Badge]] [[Gyms#Gyms_5|Quake Badge]] || None
 |-
-| [[File:Mistralton City.png|50px]] Mistralton City || Route 6, 7 || [[File:Jet_Badge.png|45px|Jet Badge]] [[Gyms#Gyms_5|Jet Badge]] || [[File:Ultra Ball.png|15px]][[Ultra Ball]] &lt;br&gt; [[File:Thunder_Stone.png|15px]][[Thunder Stone]] &lt;br&gt; [[File:Upgrade.png|15px]][[Upgrade]] || style="text-align:right" | 2000 {{pdollar}} &lt;br&gt; 2500 {{Questpoints}} &lt;br&gt; 2500 {{Questpoints}} || 
+| {{Image|Mistralton City|50}} Mistralton City || Route 6, 7 || [[File:Jet_Badge.png|45px|Jet Badge]] [[Gyms#Gyms_5|Jet Badge]] || None
 |-
-| [[File:Lentimas Town.png|50px]] Lentimas Town || None || None || [[File:Bag_Fire_Egg_Sprite.png|15px]][[Fire Egg]] || style="text-align:right" | 1000 {{Questpoints}} || 
+| {{Image|Lentimas Town|50}} Lentimas Town || None || None
 |-
-| [[File:Undella Town.png|50px]] Undella Town || Route 13, 14, 21 || None || [[File:Deep_Sea_Tooth.png|15px]][[Deep Sea Tooth]] &lt;br&gt; [[File:Deep_Sea_Scale.png|15px]][[Deep Sea Scale]] || style="text-align:right" | 2500 {{Questpoints}} &lt;br&gt; 2500 {{Questpoints}} || 
+| {{Image|Undella Town|50}} Undella Town || Route 13, 14, 21 || None || None 
 |-
-| [[File:Lacunosa Town.png|50px]] Lacunosa Town || Route 12, 13 || None || [[File:Bag_Fighting_Egg_Sprite.png|15px]][[Fighting Egg]] || style="text-align:right" | 1000 {{Questpoints}} || 
+| {{Image|Lacunosa Town|50}} Lacunosa Town || Route 12, 13 || None || None
 |-
-| [[File:Opelucid City.png|50px]] Opelucid City || Route 9, 11 || [[File:Legend_Badge.png|45px|Legend Badge]] [[Gyms#Gyms_5|Legend Badge]] || [[File:Bag_Dragon_Egg_Sprite.png|15px]][[Dragon Egg]] &lt;br&gt; [[File:Dragon_Scale.png|15px]][[Dragon Scale]] || style="text-align:right" | 1000 {{Questpoints}} &lt;br&gt; 2500 {{Questpoints}} || 
+| {{Image|Opelucid City|50}} Opelucid City || Route 9, 11 || [[File:Legend_Badge.png|45px|Legend Badge]] [[Gyms#Gyms_5|Legend Badge]] || None
 |-
-| [[File:Shopping Mall Nine.png|50px]] Shopping Mall Nine || Route 9 || None || Same as [[Shops#Poké Mart|Poké Mart]] || Same as [[Shops#Poké Mart|Poké Mart]] || 
+| {{Image|Shopping Mall Nine|50}} Shopping Mall Nine || Route 9 || None || None
 |-
-| [[File:Humilau City.png|50px]] Humilau City || Route 21, 22 || [[File:Wave_Badge.png|45px|Wave Badge]] [[Gyms#Gyms_5|Wave Badge]] || [[File:Prism_Scale.png|15px]][[Prism Scale]] || style="text-align:right" | 2500 {{Questpoints}} || [[NPCs#Unova_NPCs|Excited Child]]
+| {{Image|Humilau City|50}} Humilau City || Route 21, 22 || [[File:Wave_Badge.png|45px|Wave Badge]] [[Gyms#Gyms_5|Wave Badge]] || [[NPCs#Unova_NPCs|Excited Child]]
 |-
-| [[File:Icirrus City.png|50px]] Icirrus City || Route 7, 8 || None || [[File:Dubious_Disc.png|15px]][[Dubious Disc]] &lt;br&gt; [[File:Reaper_Cloth.png|15px]][[Reaper Cloth]] &lt;br&gt; [[File:Protector.png|15px]][[Protector]] || style="text-align:right" | 2500 {{Questpoints}} &lt;br&gt; 2500 {{Questpoints}} &lt;br&gt; 2500 {{Questpoints}} || [[NPCs#Unova_NPCs|Fan Club Chairman]]
+| {{Image|Icirrus City|50}} Icirrus City || Route 7, 8 || None || [[NPCs#Unova_NPCs|Fan Club Chairman]]
 |-
-| [[File:Black and White Park.png|50px]] Black and White Park || Route 14, 15 || None || [[File:Sun stone.png|15px]][[Sun Stone]] &lt;br&gt; [[File:Moon_Stone.png|15px]][[Moon Stone]] || style="text-align:right" | 2500 {{Questpoints}} &lt;br&gt; 2500 {{Questpoints}} ||
+| {{Image|Black and White Park|50}} Black and White Park || Route 14, 15 || None || None
 |-
-| [[File:Nacrene City.png|50px]] Nacrene City || Route 3 || None || [[File:Soothe_Bell.png|15px]][[Soothe Bell]] || style="text-align:right" | 2500 {{Questpoints}} ||
+| {{Image|Nacrene City|50}} Nacrene City || Route 3 || None || None
 |-
-| [[File:Striaton City.png|50px]] Striaton City || Route 2, 3 || None || [[File:Leaf_Stone.png|15px]][[Leaf Stone]] &lt;br&gt; [[File:Water_Stone.png|15px]][[Water Stone]] &lt;br&gt; [[File:Fire_Stone.png|15px]][[Fire Stone]] || style="text-align:right" | 2500 {{Questpoints}} &lt;br&gt; 2500 {{Questpoints}} &lt;br&gt; 2500 {{Questpoints}} ||
+| {{Image|Striaton City|50}} Striaton City || Route 2, 3 || None || None
 |-
-| [[File:Accumula Town.png|50px]] Accumula Town || Route 1, 2 || None || [[File:Dusk_Stone.png|15px]][[Dusk Stone]] &lt;br&gt; [[File:Shiny_Stone.png|15px]][[Shiny Stone]] &lt;br&gt; [[File:Dawn_Stone.png|15px]][[Dawn Stone]] || style="text-align:right" | 2500 {{Questpoints}} &lt;br&gt; 2500 {{Questpoints}} &lt;br&gt; 2500 {{Questpoints}} ||
+| {{Image|Accumula Town|50}} Accumula Town || Route 1, 2 || None || None
 |-
-| [[File:Nuvema Town.png|50px]] Nuvema Town || Route 1, 17 || None || [[File:Electirizer.png|15px]][[Electirizer]] &lt;br&gt; [[File:Magmarizer.png|15px]][[Magmarizer]] || style="text-align:right" | 2500 {{Questpoints}} &lt;br&gt; 2500 {{Questpoints}} || [[NPCs#Unova_NPCs|Professor Juniper]] &lt;br&gt; [[NPCs#Unova_NPCs|Professor Juniper's Aide]]
+| {{Image|Nuvema Town|50}} Nuvema Town || Route 1, 17 || None || [[NPCs#Unova_NPCs|Professor Juniper]] &lt;br&gt; [[NPCs#Unova_NPCs|Professor Juniper's Aide]]
 |-
-| [[File:Anville Town.png|50px]] Anville Town || None || None || [[File:Meloetta_(pirouette)_Shuffle.png|15px]] Meloetta (pirouette) || style="text-align:right" | 200000 {{Questpoints}} ||
+| {{Image|Anville Town|50}} Anville Town || None || None || None
 |-
+| {{Image|Pokémon League Unova|50}} Pokémon League Unova || Route 23 || [[Gyms#Pokémon League Unova|Pokémon League Unova]] / [[Victory Road Unova]] || None
 |}
 
 &lt;!--T:6--&gt;
 == [[Kalos]] ==
 {| class="wikitable"
 |-
-! Town Name !! Closest Routes !! [[Gyms|Gym]]/[[Dungeons|Dungeon]] !! [[Shops#Kalos: Locations &amp; Items|Shop]] Items !! Cost !! [[NPCs]]
+! Town Name !! Closest Routes !! [[Gyms|Gym]]/[[Dungeons|Dungeon]] !! [[NPCs]]
 |-
-| [[File:Vaniville Town.png|50px]] Vaniville Town || Route 1 || None || [[File:Poké Ball.png|15px]][[Poké Ball|Poké Ball]] || style="text-align:right" | 100 {{pdollar}} ||
+| {{Image|Vaniville Town|50}} Vaniville Town || Route 1 || None || None
 |-
-| [[File:Aquacorde Town.png|50px]] Aquacorde Town || Route 1, 2 || None || None ||  || 
+| {{Image|Aquacorde Town|50}} Aquacorde Town || Route 1, 2 || None || None
 |-
-| [[File:Santalune City.png|50px]] Santalune City || Route 3, 4, 22 || [[File:Bug_Badge.png|45px|Bug Badge]] [[Gyms#Gyms_6|Bug Badge]] || [[File:Mystery_Egg.png|15px]][[Mystery Egg]] || style="text-align:right" | 700 {{Questpoints}} || 
+| {{Image|Santalune City|50}} Santalune City || Route 3, 4, 22 || [[File:Bug_Badge.png|45px|Bug Badge]] [[Gyms#Gyms_6|Bug Badge]] || None
 |-
-| [[File:Lumiose City.png|50px]] Lumiose City || Route 4, 5, 13, 14, 16 || [[File:Voltage_Badge.png|45px|Voltage Badge]] [[Gyms#Gyms_6|Voltage Badge]] || [[File:Furfrou_(Debutante)_Shuffle.png|15px]] Furfrou (Debutante) &lt;br&gt; [[File:Furfrou_(Diamond)_Shuffle.png|15px]] Furfrou (Diamond) &lt;br&gt; [[File:Furfrou_(Matron)_Shuffle.png|15px]] Furfrou (Matron) &lt;br&gt; [[File:Furfrou_(Dandy)_Shuffle.png|15px]] Furfrou (Dandy) &lt;br&gt; [[File:Furfrou_(Kabuki)_Shuffle.png|15px]] Furfrou (Kabuki) &lt;br&gt; [[File:Furfrou_(Pharaoh)_Shuffle.png|15px]] Furfrou (Pharaoh) &lt;br&gt; Same as [[Shops#Poké Mart|Poké Mart]]|| style="text-align:right" | 5000000000 {{pdollar}} &lt;br&gt; 15000 {{Diamonds}} &lt;br&gt; 1500000 {{Farmpoints}} &lt;br&gt; 250000 {{Questpoints}} &lt;br&gt; 75000 {{Battlepoints}} &lt;br&gt; 300000000 {{Dungeontokens}}&lt;br&gt; Same as [[Shops#Poké Mart|Poké Mart]] || [[NPCs#Kalos_NPCs|Professor Sycamore]] &lt;br&gt; [[NPCs#Kalos_NPCs|Engineer]]
+| {{Image|Lumiose City|50}} Lumiose City || Route 4, 5, 13, 14, 16 || [[File:Voltage_Badge.png|45px|Voltage Badge]] [[Gyms#Gyms_6|Voltage Badge]] || [[NPCs#Kalos_NPCs|Professor Sycamore]] &lt;br&gt; [[NPCs#Kalos_NPCs|Engineer]]
 |-
-| [[File:Camphrier Town.png|50px]] Camphrier Town || Route 5, 6, 7 || None || [[File:Great Ball.png|15px]][[Great Ball]] &lt;br&gt; [[File:Bag_Electric_Egg_Sprite.png|15px]][[Electric Egg]] &lt;br&gt; [[File:Thunder_Stone.png|15px]][[Thunder Stone]] || style="text-align:right" | 500 {{pdollar}} &lt;br&gt; 1000 {{Questpoints}} &lt;br&gt; 2500 {{Questpoints}} || 
+| {{Image|Camphrier Town|50}} Camphrier Town || Route 5, 6, 7 || None || None
 |-
-| [[File:Cyllage City.png|50px]] Cyllage City || Route 7, 8, 10 || [[File:Cliff_Badge.png|45px|Cliff Badge]] [[Gyms#Gyms_6|Cliff Badge]] || None ||  || 
+| {{Image|Cyllage City|50}} Cyllage City || Route 7, 8, 10 || [[File:Cliff_Badge.png|45px|Cliff Badge]] [[Gyms#Gyms_6|Cliff Badge]] || None
 |-
-| [[File:Ambrette Town.png|50px]] Ambrette Town || Route 8, 9 || None || [[File:Bag_Water_Egg_Sprite.png|15px]][[Water Egg]] &lt;br&gt; [[File:Water_Stone.png|15px]][[Water Stone]] || style="text-align:right" | 1000 {{Questpoints}} &lt;br&gt; 2500 {{Questpoints}} || 
+| {{Image|Ambrette Town|50}} Ambrette Town || Route 8, 9 || None || None
 |-
-| [[File:Geosenge Town.png|50px]] Geosenge Town || Route 10, 11 || [[Team Flare Secret HQ|Team Flare Secret HQ]] || [[File:Bag_Fire_Egg_Sprite.png|15px]][[Fire Egg]] &lt;br&gt; [[File:Fire_Stone.png|15px]][[Fire Stone]] &lt;br&gt; [[File:Kings_Rock.png|15px]][[Kings Rock]] || style="text-align:right" | 1000 {{Questpoints}} &lt;br&gt; 2500 {{Questpoints}} &lt;br&gt; 2500 {{Questpoints}} || 
+| {{Image|Geosenge Town|50}} Geosenge Town || Route 10, 11 || [[Team Flare Secret HQ|Team Flare Secret HQ]] || None
 |-
-| [[File:Shalour City.png|50px]] Shalour City || Route 11, 12 || [[File:Rumble_Badge.png|45px|Rumble Badge]] [[Gyms#Gyms_6|Rumble Badge]] || [[File:Bag_Fighting_Egg_Sprite.png|15px]][[Fighting Egg]] &lt;br&gt; [[File:Metal_Coat.png|15px]][[Metal Coat]] &lt;br&gt; [[File:Trade_Stone.png|15px]][[Trade Stone]] || style="text-align:right" | 1000 {{Questpoints}} &lt;br&gt; 2500 {{Questpoints}} &lt;br&gt; 2500 {{Questpoints}} || 
+| {{Image|Shalour City|50}} Shalour City || Route 11, 12 || [[File:Rumble_Badge.png|45px|Rumble Badge]] [[Gyms#Gyms_6|Rumble Badge]] || None
 |-
-| [[File:Coumarine City.png|50px]] Coumarine City || Route 12, 13, A.B. || [[File:Plant_Badge.png|45px|Plant Badge]] [[Gyms#Gyms_6|Plant Badge]] || [[File:Ultra Ball.png|15px]][[Ultra Ball]] &lt;br&gt; [[File:Bag_Grass_Egg_Sprite.png|15px]][[Grass Egg]] &lt;br&gt; [[File:Leaf_Stone.png|15px]][[Leaf Stone]] &lt;br&gt; [[File:Electirizer.png|15px]][[Electirizer]] &lt;br&gt; [[File:Magmarizer.png|15px]][[Magmarizer]] || style="text-align:right" | 2000 {{pdollar}} &lt;br&gt; 1000 {{Questpoints}} &lt;br&gt; 2500 {{Questpoints}} &lt;br&gt; 2500 {{Questpoints}} &lt;br&gt; 2500 {{Questpoints}} || [[Dock]] &lt;br&gt; [[NPCs#Kalos_NPCs|Birdwatcher]]
+| {{Image|Coumarine City|50}} Coumarine City || Route 12, 13, A.B. || [[File:Plant_Badge.png|45px|Plant Badge]] [[Gyms#Gyms_6|Plant Badge]] || [[Dock]] &lt;br&gt; [[NPCs#Kalos_NPCs|Birdwatcher]]
 |-
-| [[File:Laverre City.png|50px]] Laverre City || Route 14, 15 || [[File:Fairy_Badge.png|45px|Fairy Badge]] [[Gyms#Gyms_6|Fairy Badge]] || [[File:Sachet.png|15px]][[Sachet]] &lt;br&gt; [[File:Whipped_Dream.png|15px]][[Whipped Dream]] &lt;br&gt; [[File:Deep_Sea_Tooth.png|15px]][[Deep Sea Tooth]] &lt;br&gt; [[File:Deep_Sea_Scale.png|15px]][[Deep Sea Scale]] || style="text-align:right" | 2500 {{Questpoints}} &lt;br&gt; 2500 {{Questpoints}} &lt;br&gt; 2500 {{Questpoints}} &lt;br&gt; 2500 {{Questpoints}} || [[NPCs#Kalos_NPCs|Furisode Girl Katherine]]
+| {{Image|Laverre City|50}} Laverre City || Route 14, 15 || [[File:Fairy_Badge.png|45px|Fairy Badge]] [[Gyms#Gyms_6|Fairy Badge]] || [[NPCs#Kalos_NPCs|Furisode Girl Katherine]]
 |-
-| [[File:Dendemille Town.png|50px]] Dendemille Town || Route 15, 16, 17 || None || [[File:Dusk_Stone.png|15px]][[Dusk Stone]] &lt;br/&gt; [[File:Shiny_Stone.png|15px]][[Shiny Stone]] &lt;br&gt; [[File:Dawn_Stone.png|15px]][[Dawn Stone]] &lt;br/&gt; [[File:Upgrade.png|15px]][[Upgrade]] || style="text-align:right" | 2500 {{Questpoints}} &lt;br&gt; 2500 {{Questpoints}} &lt;br&gt; 2500 {{Questpoints}} &lt;br&gt; 2500 {{Questpoints}} || 
+| {{Image|Dendemille Town|50}} Dendemille Town || Route 15, 16, 17 || None || None
 |-
-| [[File:Anistar City.png|50px]] Anistar City || Route 17, 18 || [[File:Psychic_Badge.png|45px|Psychic Badge]] [[Gyms#Gyms_6|Psychic Badge]] || [[File:Sun stone.png|15px]][[Sun Stone]] &lt;br&gt; [[File:Moon_Stone.png|15px]][[Moon Stone]] &lt;br&gt; [[File:Razor_Claw.png|15px]][[Razor Claw]] &lt;br&gt; [[File:Razor_Fang.png|15px]][[Razor Fang]] || style="text-align:right" | 2500 {{Questpoints}} &lt;br&gt; 2500 {{Questpoints}} &lt;br&gt; 2500 {{Questpoints}} &lt;br&gt; 2500 {{Questpoints}} || [[NPCs#Kalos_NPCs|Hex Maniac Melanie]]
+| {{Image|Anistar City|50}} Anistar City || Route 17, 18 || [[File:Psychic_Badge.png|45px|Psychic Badge]] [[Gyms#Gyms_6|Psychic Badge]] || [[NPCs#Kalos_NPCs|Hex Maniac Melanie]]
 |-
-| [[File:Couriway Town.png|50px]] Couriway Town || Route 18, 19 || None || [[File:Bag_Dragon_Egg_Sprite.png|15px]][[Dragon Egg]] &lt;br&gt; [[File:Dragon_Scale.png|15px]][[Dragon Scale]] &lt;br&gt; [[File:Prism_Scale.png|15px]][[Prism Scale]] || style="text-align:right" | 1000 {{Questpoints}} &lt;br&gt; 2500 {{Questpoints}} &lt;br&gt; 2500 {{Questpoints}} || 
+| {{Image|Couriway Town|50}} Couriway Town || Route 18, 19 || None || None
 |-
-| [[File:Snowbelle City.png|50px]] Snowbelle City || Route 19, 20, 21 || [[File:Iceberg_Badge.png|45px|Iceberg Badge]] [[Gyms#Gyms_6|Iceberg Badge]] || [[File:Protector.png|15px]][[Protector]] &lt;br&gt; [[File:Reaper_Cloth.png|15px]][[Reaper Cloth]] &lt;br&gt; [[File:Dubious_Disc.png|15px]][[Dubious Disc]] || style="text-align:right" | 2500 {{Questpoints}} &lt;br&gt; 2500 {{Questpoints}} &lt;br&gt; 2500 {{Questpoints}}  || 
+| {{Image|Snowbelle City|50}} Snowbelle City || Route 19, 20, 21 || [[File:Iceberg_Badge.png|45px|Iceberg Badge]] [[Gyms#Gyms_6|Iceberg Badge]] || None
 |-
-| [[File:Kiloude City.png|50px]] Kiloude City || None || None || None ||  || [[NPCs#Kalos_NPCs|Confused Hiker]]
+| {{Image|Kiloude City|50}} Kiloude City || None || None || [[NPCs#Kalos_NPCs|Confused Hiker]]
 |-
+| {{Image|Pokémon League Kalos|50}} Pokémon League Kalos || Route 22, 21 || [[Gyms#Pokémon League Kalos|Pokémon League Kalos]] / [[Victory Road Kalos]] || None
 |}
 
 &lt;!--T:7--&gt;
 == [[Alola]] ==
 {| class="wikitable"
 |-
-! Town Name !! Closest Routes !! [[Gyms|Gym]]/[[Dungeons|Dungeon]] !! [[Shops#Alola: Locations &amp; Items|Shop]] Items !! Cost !! [[NPCs]]
+! Town Name !! Closest Routes !! [[Gyms|Gym]]/[[Dungeons|Dungeon]] !! [[NPCs]]
 |-
-| [[File:Iki Town Outskirts.png|50px]] Iki Town Outskirts || Route 1 || None || None ||  || [[NPCs#Alola NPCs|Scratch Cat Girl]]
+| {{Image|Iki Town Outskirts|50}} Iki Town Outskirts || Route 1 || None || [[NPCs#Alola NPCs|Scratch Cat Girl]]
 |-
-| [[File:Professor Kukui%27s Lab.png|50px]] Professor Kukui's Lab || Melemele Sea || None || None || ||[[NPCs#Alola NPCs|Professor Kukui]]
+| {{Image|Professor Kukui's Lab|50}} Professor Kukui's Lab || Melemele Sea || None || [[NPCs#Alola NPCs|Professor Kukui]]
 |-
-| [[File:Hau'oli City.png|50px]] Hau'oli City || Route 2, Hau'oli Outskirts || None || [[File:Mystery_Egg.png|15px]] [[Mystery Egg]] &lt;br&gt; [[File:Dusk Stone.png|15px]] [[Dusk Stone]] &lt;br&gt; [[File:Shiny Stone.png|15px]] [[Shiny Stone]] &lt;br&gt; [[File:Dawn Stone.png|15px]] [[Dawn Stone]]  || style="text-align:right" | 700 {{Questpoints}} &lt;br&gt; 2,500 {{Questpoints}} &lt;br&gt; 2,500 {{Questpoints}} &lt;br&gt; 2,500 {{Questpoints}} || [[Dock]]
+| {{Image|Hau'oli City|50}} Hau'oli City || Route 2, Hau'oli Outskirts || None || [[Dock]]
 |-
-| [[File:Roadside Motel.png|50px]] Roadside Motel || Route 2 || None || None || ||
+| {{Image|Roadside Motel|50}} Roadside Motel || Route 2 || None || None
 |-
-| [[File:Iki Town.png|50px]] Iki Town || Route 3, 4 || [[File:FightiniumZ.png|45px|FightiniumZ]] [[Gyms#Gyms_7|Fightinium Z]] || None ||  || [[NPCs#Alola NPCs|Kahuna Hala]]
+| {{Image|Iki Town|50}} Iki Town || Route 3, 4 || [[File:FightiniumZ.png|45px|FightiniumZ]] [[Gyms#Gyms_7|Fightinium Z]] || [[NPCs#Alola NPCs|Kahuna Hala]]
 |-
-| [[File:Heahea City.png|50px]] Heahea City || Route 4, 6 || None || [[File:Great Ball.png|15px]] [[Great Ball]] &lt;br&gt; [[File:Water Stone.png|15px]] [[Water Stone]] &lt;br&gt; [[File:Metal Coat.png|15px]] [[Metal Coat]] &lt;br&gt; [[File:Kings Rock.png|15px]] [[Kings Rock]]|| style="text-align:right" | 500 {{pdollar}} &lt;br&gt; 2500 {{Questpoints}} &lt;br&gt; 2500 {{Questpoints}} &lt;br&gt; 2500 {{Questpoints}} || [[NPCs#Alola NPCs|Café Owner]] &lt;br&gt; [[Dock]] 
+| {{Image|Heahea City|50}} Heahea City || Route 4, 6 || None || [[NPCs#Alola NPCs|Café Owner]] &lt;br&gt; [[Dock]] 
 |-
-| [[File:Paniola Town.png|50px]] Paniola Town || Route 4 || None || [[File:Bag_Grass_Egg_Sprite.png|15px]][[Grass Egg]] &lt;br&gt; [[File:Bag_Fire_Egg_Sprite.png|15px]][[Fire Egg]] &lt;br&gt; [[File:Bag_Water_Egg_Sprite.png|15px]][[Water Egg]] || style="text-align:right" | 1000 {{Questpoints}} &lt;br&gt; 1000 {{Questpoints}} &lt;br&gt; 1000 {{Questpoints}} || 
+| {{Image|Paniola Town|50}} Paniola Town || Route 4 || None || None
 |-
-| [[File:Royal Avenue.png|50px]] Royal Avenue || Route 6, 8 || None || colspan=2|&lt;center&gt;Same as [[Shops#Poké Mart|Departament Store]] || [[NPCs#Alola NPCs|Spectator]]
+| {{Image|Royal Avenue|50}} Royal Avenue || Route 6, 8 || None || [[NPCs#Alola NPCs|Spectator]]
 |-
-| [[File:Konikoni City.png|50px]] Konikoni City || Route 9 || [[File:RockiumZ.png|45px|RockiumZ]] [[Gyms#Gyms_7|Rockium Z]] || [[File:Fire_Stone.png|15px]][[Fire Stone]] &lt;br&gt; [[File:Soothe_Bell.png|15px]][[Soothe Bell]] &lt;br&gt; [[File:Trade Stone.png|15px]] [[Trade Stone]] || style="text-align:right" | 2,500 {{Questpoints}} &lt;br&gt; 2,500 {{Questpoints}} &lt;br&gt; 2,500 {{Questpoints}} || [[NPCs#Alola NPCs|Kahuna Olivia]]
+| {{Image|Konikoni City|50}} Konikoni City || Route 9 || [[File:RockiumZ.png|45px|RockiumZ]] [[Gyms#Gyms_7|Rockium Z]] || [[NPCs#Alola NPCs|Kahuna Olivia]]
 |-
-| [[File:Aether Paradise.png|50px]] Aether Paradise || Ocean || [[Aether Foundation|Aether Foundation]], &lt;br&gt; [[Temporary Battles#Alola|Ultra Wormhole]] || [[File:Type_Null_Shuffle.png|15px]] Type:null &lt;br&gt; [[File:Upgrade.png|15px]] [[Upgrade]] || style="text-align:right" | 114,000 {{Questpoints}} &lt;br&gt; 2,500 {{Questpoints}} || [[NPCs#Alola NPCs|Aether Branch Chief Wicke]] 
+| {{Image|Aether Paradise|50}} Aether Paradise || Ocean || [[Aether Foundation|Aether Foundation]], &lt;br&gt; [[Temporary Battles#Alola|Ultra Wormhole]] || [[NPCs#Alola NPCs|Aether Branch Chief Wicke]] 
 |-
-| [[File:Malie City.png|50px]] Malie City || Route 10, 11 || [[File:DarkiniumZ.png|43px|DarkiniumZ]] [[Gyms#Gyms_7|Darkinium Z]], &lt;br&gt; [[Malie Garden]]|| [[File:Ultra Ball.png|15px]][[Ultra Ball]] &lt;br&gt; [[File:Thunder Stone.png|15px]][[Thunder Stone]] &lt;br&gt; [[File:Bag_Electric_Egg_Sprite.png|15px]][[Electric Egg]] &lt;br&gt; [[File:Electirizer.png|15px]][[Electirizer]] &lt;br&gt; [[File:Magmarizer.png|15px]][[Magmarizer]] || style="text-align:right" | 2000 {{pdollar}} &lt;br&gt; 2500 {{Questpoints}} &lt;br&gt; 1000 {{Questpoints}} &lt;br&gt; 2500 {{Questpoints}} &lt;br&gt; 2500 {{Questpoints}} || [[NPCs#Alola NPCs|Kahuna Nanu]] &lt;br&gt; [[Dock]]
+| {{Image|Malie City|50}} Malie City || Route 10, 11 || [[File:DarkiniumZ.png|43px|DarkiniumZ]] [[Gyms#Gyms_7|Darkinium Z]], &lt;br&gt; [[Malie Garden]] || [[NPCs#Alola NPCs|Kahuna Nanu]] &lt;br&gt; [[Dock]]
 |-
-| [[File:Tapu Village.png|50px]] Tapu Village || Route 13, 14, 15 || None || [[File:Ice Stone.png|15px]][[Ice Stone]] &lt;br&gt; [[File:Razor Claw.png|15px]][[Razor Claw]] &lt;br&gt; [[File:Razor Fang.png|15px]][[Razor Fang]] || style="text-align:right" | 2500 {{Questpoints}} &lt;br&gt; 2500 {{Questpoints}} &lt;br&gt; 2500 {{Questpoints}} || [[NPCs#Alola NPCs|Worker]]
+| {{Image|Tapu Village|50}} Tapu Village || Route 13, 14, 15 || None || [[NPCs#Alola NPCs|Worker]]
 |-
-| [[File:Seafolk Village.png|50px]] Seafolk Village || Poni Wilds || [[File:FairiumZ.png|45px|FairiumZ]] [[Gyms#Gyms_7|Fairium Z]]  ([[Mina's Houseboat]]) || [[File:Bag_Fighting_Egg_Sprite.png|15px]][[Fighting Egg]] &lt;br&gt; [[File:Deep_Sea_Scale.png|15px]][[Deep Sea Scale]] &lt;br&gt;[[File:Deep_Sea_Tooth.png|15px]][[Deep Sea Tooth]] &lt;br&gt; [[File:Prism Scale.png|15px]][[Prism Scale]] &lt;br&gt; [[File:Sachet.png|15px]][[Sachet]] &lt;br&gt; [[File:Whipped_Dream.png|15px]][[Whipped Dream]] || style="text-align:right" | 1000 {{Questpoints}} &lt;br&gt; 2500 {{Questpoints}} &lt;br&gt; 2500 {{Questpoints}} &lt;br&gt; 2500 {{Questpoints}} &lt;br&gt; 2500 {{Questpoints}} &lt;br&gt; 2500 {{Questpoints}} || [[NPCs#Alola NPCs|Captain Mina]]
+| {{Image|Seafolk Village|50}} Seafolk Village || Poni Wilds || [[File:FairiumZ.png|45px|FairiumZ]] [[Gyms#Gyms_7|Fairium Z]]  ([[Mina's Houseboat]]) || [[NPCs#Alola NPCs|Captain Mina]]
 |-
-| [[File:Exeggutor Island.png|50px]] Exeggutor Island || Seafolk Village || [[File:GroundiumZ.png|43px|GroundiumZ]] [[Gyms#Gyms_7|Groundium Z]], &lt;br&gt; [[Exeggutor Island Hill]] || [[File:Bag_Dragon_Egg_Sprite.png|15px]][[Dragon Egg]] &lt;br/&gt; [[File:Leaf_Stone.png|15px]][[Leaf Stone]] &lt;br&gt; [[File:Dragon Scale.png|15px]][[Dragon Scale]] &lt;br/&gt; [[File:Protector.png|15px]][[Protector]] &lt;br&gt; [[File:Dubious Disc.png|15px]][[Dubious Disc]] &lt;br&gt; [[File:Reaper Cloth.png|15px]][[Reaper Cloth]] || style="text-align:right" | 1000 {{Questpoints}} &lt;br&gt; 2500 {{Questpoints}} &lt;br&gt; 2500 {{Questpoints}} &lt;br&gt; 2500 {{Questpoints}} &lt;br&gt; 2500 {{Questpoints}} &lt;br&gt; 2500 {{Questpoints}}|| 
+| {{Image|Exeggutor Island|50}} Exeggutor Island || Seafolk Village || [[File:GroundiumZ.png|45px|GroundiumZ]] [[Gyms#Gyms_7|Groundium Z]], &lt;br&gt; [[Exeggutor Island Hill]] || None
 |-
-| [[File:Altar of the Sunne and Moone.png|50px]] Altar of the Sunne and Moone || Vast Poni Canyon || [[Temporary Battles#Alola|Ultra Megalopolis]] || [[File:Poipole_Shuffle.png|15px]] Poipole &lt;br&gt; [[File:Sun stone.png|15px]][[Sun Stone]] &lt;br&gt; [[File:Moon_Stone.png|15px]][[Moon Stone]] || style="text-align:right" |90000 {{Questpoints}} &lt;br&gt; 2500 {{Questpoints}} &lt;br&gt; 2500 {{Questpoints}} || 
+| {{Image|Altar of the Sunne and Moone|50}} Altar of the Sunne and Moone || Vast Poni Canyon || [[Temporary Battles#Alola|Ultra Megalopolis]] || None
 |-
+| {{Image|Pokémon League Alola|50}} Pokémon League Alola || None || [[Gyms#Pokémon League Alola|Pokémon League Alola]] / [[Mount Lanakila]] || None
+|}
+
+== [[Galar]] ==
+{| class="wikitable"
+|-
+! Town Name !! Closest Routes !! [[Gyms|Gym]]/[[Dungeons|Dungeon]] !! [[NPCs]]
+|-
+| {{Image|Postwick|50}} Postwick || Route 1 || None || [[NPCs#Galar NPCs|Mom]]
+|-
+| {{Image|Slumbering Weald|50}} Slumbering Weald || Route 1 || [[Slumbering Weald Shrine]] || None
+|-
+| {{Image|Professor Magnolia's House|50}} Professor Magnolia's House || Route 2 || None || [[NPCs#Galar NPCs|Professor Magnolia]] &lt;br&gt; [[NPCs#Galar NPCs|Assistant Henry]]
+|-
+| {{Image|Wedgehurst|50}} Wedgehurst || Route 1, 2 || None || [[NPCs#Galar NPCs|Rail Staff]] &lt;br&gt; [[NPCs#Galar NPCs|Professor Sonia]]
+|-
+| {{Image|Motostoke|50}} Motostoke || East Lake Axewell || {{Image|Galar Fire|45}} [[Gyms#Galar|Galar Fire]] || [[Battle Café]] &lt;br&gt; [[NPCs#Galar NPCs|Battle Café Master]] &lt;br&gt; [[NPCs#Galar NPCs|Artist Duncan]]
+|-
+| {{Image|Turffield|50}} Turffield || Route 4, 5 || {{Image|Galar Grass|45}} [[Gyms#Galar|Galar Grass]] || [[NPCs#Galar NPCs|Cook Stuart]]
+|-
+| {{Image|Hulbury|50}} Hulbury || Route 5 || {{Image|Galar Water|45}} [[Gyms#Galar|Galar Water]] || [[Dock]] &lt;br&gt; [[NPCs#Galar NPCs|Meteorologist]]
+|-
+| {{Image|Stow-on-Side|50}} Stow-on-Side || Route 6 || {{Image|Galar Fighting|45}} [[Gyms#Galar|Galar Fighting]] &lt;br&gt; {{Image|Galar Ghost|45}} [[Gyms#Galar|Galar Ghost]] || [[Shops#Stow-on-Side's Fossil Master|Fossil Master]] &lt;br&gt; [[NPCs#Galar NPCs|Ancient Mural Ruins]] &lt;br&gt; [[NPCs#Galar NPCs|Archeologist]]
+|-
+| {{Image|Ballonlea|50}} Ballonlea || Route 6 || {{Image|Galar Fairy|45}} [[Gyms#Galar|Galar Fairy]] || None
+|-
+| {{Image|Hammerlocke|50}} Hammerlocke || Route 6, 7 || {{Image|Galar Dragon|45}} [[Gyms#Galar|Galar Dragon]] / [[Energy Plant]] || [[Battle Café]] &lt;br&gt; [[NPCs#Galar NPCs|Hiker Donald]]
+|-
+| {{Image|Circhester|50}} Circhester || Steamdrift Way || {{Image|Galar Rock|45}} [[Gyms#Galar|Galar Rock]] &lt;br&gt; {{Image|Galar Ice|45}} [[Gyms#Galar|Galar Ice]] || [[NPCs#Galar NPCs|Hero's Bath]] &lt;br&gt; [[NPCs#Galar NPCs|Guitarist Justin]]
+|-
+| {{Image|Spikemuth|50}} Spikemuth || Outer Spikemuth || {{Image|Galar Dark|45}} [[Gyms#Galar|Galar Dark]] || [[NPCs#Galar NPCs|Team Yell Grunts]]
+|-
+| {{Image|Wyndon|50}} Wyndon || Route 10 || [[Rose Tower]] || [[Battle Café]]
+|-
+| {{Image|Wyndon Stadium|50}} Wyndon Stadium || None || [[Gyms#Wyndon Stadium|Wyndon Stadium]] / [[Rose Tower]] || None
+|-
+| {{Image|Armor Station|50}} Armor Station || Fields of Honour || None || None
+|-
+| {{Image|Master Dojo|50}} Master Dojo || Soothing Wetlands, Workout Sea || None || None
+|-
+| Master Dojo Battle Court || Soothing Wetlands, Workout Sea || [[Gyms#Isle of Armor + Crown Tundra Gyms|Master Dojo Battle Court]] || None
+|-
+| {{Image|Crown Tundra Station|50}} Crown Tundra Station || Slippery Slope || None || None
+|-
+| {{Image|Freezington|50}} Freezington || Slippery Slope, Frostpoint Field || [[Gyms#Isle of Armor + Crown Tundra Gyms|Chad Peony]] || [[NPCs#Galar NPCs|Chad Peony]] &lt;br&gt; [[NPCs#Galar NPCs|Freezington Mayor]]
 |}
 &lt;/translate&gt;</text>
     <contributor>
       <username>ThePantMan</username>
       <id>8</id>
     </contributor>
-    <comment>Text replacement - "(?&lt;!{{)(?&lt;!{{Route)Pokemon" to "Pokémon"</comment>
+    <comment>/* Galar */</comment>
     <model>wikitext</model>
-    <parentid>34134</parentid>
-    <sha1>815f81d375cef7594fcf46ab3a38682a23552a6f</sha1>
+    <parentid>36132</parentid>
+    <sha1>86698806412d38cda9c0077635fa1853df0d3b2b</sha1>
   </revision>
 </page></mediawiki>

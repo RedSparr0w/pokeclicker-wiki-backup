@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>144</id>
   <revision>
-    <id>34963</id>
-    <timestamp>2022-12-15T20:22:58Z</timestamp>
-    <text space="preserve" bytes="8870">&lt;languages/&gt;
+    <id>36157</id>
+    <timestamp>2022-12-16T21:36:23Z</timestamp>
+    <text space="preserve" bytes="8738">&lt;languages/&gt;
 &lt;translate&gt;
 &lt;!--T:1--&gt;
 {{Infobox battle item
@@ -64,7 +64,7 @@ Defeating Pokémon in the Battle Frontier also awards [[Gems]] depending on the 
 &lt;math&gt;\text{Enemy Health} = \text{Floor}[\left ( \frac{100}{12} \times (\text{Battle Frontier Stage} + 10)^{2.2}\right )^{1.15} \times (1 - 0.05)]&lt;/math&gt;
 
 &lt;!--T:13--&gt;
-''Quick tip: You need, on average, Enemy Health divided by 10 Total Pokémon Attack (that is, Pokémon attack with type advantage and gems bonus damage factored in) to defeat a given stage.''
+''Quick tip: You need, on average, '''Enemy Health divided by 10 Total Pokémon Attack''' (that is, Pokémon attack with type advantage and gems bonus damage factored in) to defeat a given stage.''
 {| class="wikitable sortable"
 |-
 ! Stage !! Reward Amount !! Reward Type !! Enemy Health
@@ -188,7 +188,7 @@ Defeating Pokémon in the Battle Frontier also awards [[Gems]] depending on the 
 *&lt;b&gt;&lt;big&gt;Note:&lt;/big&gt;&lt;/b&gt; [[File:Vivillon_(Poké Ball).png|25px]] Vivillon (Poké Ball) is only obtainable as part of [[Quests|The Great Vivillon Hunt! Questline]]
 
 &lt;!--T:15--&gt;
-After clearing floor 2,000 there aren't any further rewards. However, there is a known record for the highest floor reached. Check the [https://discord.gg/a6DFe4p Discord] for the most current info.
+After clearing floor 2,000 there aren't any further rewards.
 
 ==Battle Frontier Shop== &lt;!--T:16--&gt;
 
@@ -214,12 +214,12 @@ After clearing floor 2,000 there aren't any further rewards. However, there is a
 |}
 &lt;/translate&gt;</text>
     <contributor>
-      <username>ThePantMan</username>
-      <id>8</id>
+      <username>Razorflame</username>
+      <id>9</id>
     </contributor>
-    <comment>Text replacement - " Pokemon" to " Pokémon"</comment>
+    <comment>/* Rewards */ Gonna bold this for it to be seen clearer</comment>
     <model>wikitext</model>
-    <parentid>34354</parentid>
-    <sha1>dcd6c4488a4772369a82ac9d55ba7ce51f02da83</sha1>
+    <parentid>36112</parentid>
+    <sha1>fc32a7bc0a4ef28fb4f2e70be03513cc82b8f927</sha1>
   </revision>
 </page></mediawiki>

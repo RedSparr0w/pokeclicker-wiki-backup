@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>10158</id>
   <revision>
-    <id>34313</id>
-    <timestamp>2022-12-12T21:23:14Z</timestamp>
-    <text space="preserve" bytes="1884">{{Infobox dungeon
+    <id>36107</id>
+    <timestamp>2022-12-16T03:57:25Z</timestamp>
+    <text space="preserve" bytes="1838">{{Infobox dungeon
 |name    = Warm-Up Tunnel
 |image   = [[File:Warm-Up Tunnel.png|thumb]]
 |caption = A map of Warm-Up Tunnel.
@@ -25,11 +25,11 @@
 |-
 ! Encounter !! Trainer !! Pokémon Team
 |-
-| [[File:Sandshrew.png|40px]] Sandshrew|| rowspan=3 colspan=2|&lt;center&gt;N/A
+| {{Pokemon|Sandshrew|40}} || rowspan=3 colspan=2|&lt;center&gt;N/A
 |-
-| [[File:Cubone.png|40px]] Cubone
+| {{Pokemon|Cubone|40}}
 |-
-| [[File:Torkoal.png|40px]] Torkoal
+| {{Pokemon|Torkoal|40}}
 |}
 
 ===Boss Encounters===
@@ -37,7 +37,7 @@
 |-
 ! Wild Pokémon !! Base Health !! Boss Trainer !! Pokémon Team !! Base Health
 |-
-| [[File:Kangaskhan.png|50px]] Kangaskhan|| &lt;center&gt;141,260,500 || colspan=3|&lt;center&gt;N/A
+| {{Pokemon|Kangaskhan|40}} || &lt;center&gt;141,260,500 || colspan=3|&lt;center&gt;N/A
 |}
 
 ==Items==
@@ -76,12 +76,12 @@
 {{Galar Dungeons}}
 [[Category:Dungeons|^Region #8 - Galar^c]]</text>
     <contributor>
-      <username>ThePantMan</username>
-      <id>8</id>
+      <username>Jk13</username>
+      <id>14</id>
     </contributor>
-    <comment>Text replacement - "Quickball" to "Quick Ball"</comment>
+    <comment></comment>
     <model>wikitext</model>
-    <parentid>33434</parentid>
-    <sha1>67c5223e28e83efc429004136deded267842058b</sha1>
+    <parentid>34313</parentid>
+    <sha1>8676ddbc521907e09e8a66ada0d14a80a4dcc154</sha1>
   </revision>
 </page></mediawiki>
