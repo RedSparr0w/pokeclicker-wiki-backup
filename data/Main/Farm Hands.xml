@@ -1,12 +1,11 @@
-<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
-<page>
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en"><page>
   <title>Farm Hands</title>
   <ns>0</ns>
   <id>3430</id>
   <revision>
-    <id>34426</id>
-    <timestamp>2022-12-13T09:54:54Z</timestamp>
-    <text space="preserve" bytes="5560">'''Farm Hands''' are people that can be hired to work on your [[farm]], which are used to automate planting and harvesting berries.  Many are unlocked by unlocking a certain number of berries, while others can be unlocked from certain shops.  Once hired, farm hands will work until they are fired.  This feature is currently in beta, and is subject to change.
+    <id>36172</id>
+    <timestamp>2022-12-17T20:54:28Z</timestamp>
+    <text space="preserve" bytes="5559">'''Farm Hands''' are people that can be hired to work on your [[farm]], which are used to automate planting and harvesting berries.  Many are unlocked by unlocking a certain number of berries, while others can be unlocked from certain shops.  Once hired, farm hands will work until they are fired.  This feature is currently in beta, and is subject to change.
 
 You can only hire 3 different farm hands at the same time.
 
@@ -36,29 +35,29 @@ You can only hire 3 different farm hands at the same time.
 |}
 
 == Stats ==
-Farm hands have 4 important stats: '''Cost, Work Speed, Efficiency, and Max Energy''' (see below).  At this time, farm hands recover exactly 1 energy when there is no work to do, and do not recover any more energy when fired.
+Farm Hands have 4 important stats: '''Cost, Work Speed, Efficiency, and Max Energy''' (see below).  At this time, Farm Hands recover 1 energy per work cycle they do not work, and when fired, stop recovered energy.
 
 {| class="wikitable" style="text-align: center;"
 |-
 ! Stat !! Description !! Usage
 |-
-| '''Cost''' || Hourly wage of the Farm Hand || Cost is deducted from your [[Farmingpoints|farm points]] every hour that the Farm Hand is employed. &lt;br&gt; this is independent of the farm hand working or not. They will Always receive their money. 
+| '''Cost''' || Hourly wage of the Farm Hand || Cost is deducted from your [[Farm Points]] every hour that the Farm Hand is employed. &lt;br&gt; This is independent of whether the Farm hand has worked this cycle or not.
 |-
-| rowspan=3|'''Work Speed''' || rowspan=3|How often the Farm Hand works ||  If the farm hand has energy, they will work and lose 1 energy each work period where they perform any action
+| rowspan=3|'''Work Speed''' || rowspan=3|How often the Farm Hand works ||  If the Farm Hand has energy, they will do the specified actions, if possible, and lose 1 energy.
 |-
-| Regardless of how many actions a farmhand takes during their active work period, a Farm will use 1 energy
+| No matter the number of actions a Farm Hand takes during each work cycle, only 1 energy will be used.
 |-
-| If there is nothing to do or the Farm Hand is out of energy, they will not perform an action and gain 1 energy
+| If there is no work to be done, or if the Farm Hand is out of energy, they will instead recover 1 energy.
 |-
-| rowspan=3|'''Efficiency''' || rowspan=3|How many actions the Farm Hand can make each work cycle || Harvesting a berry and planting a berry count as two separate actions
+| rowspan=3|'''Efficiency''' || rowspan=3|How many actions a Farm Hand can take each work cycle || Harvesting a Berry and replanting a Berry are two separate actions.
 |-
-| '' (Efficiency / 2) is how many berries a farmhand can both harvest and replant in a work cycle''
+| '' (Efficiency / 2) is the number of Berries a Farm Hand can harvest and replant in the same work cycle.''
 |-
-| Farmhands will always prioritize harvesting berries over replanting them.
+| Farm Hands always prioritize harvesting Berries over replanting them.
 |-
 | rowspan=2|'''Max Energy''' || rowspan=2|The maximum energy a Farm Hand can have at one time || How much energy a Farm Hand starts with.
 |-
-| The current energy of a Farm Hand can be seen by hovering over the hired Farm Hand
+| The amount of energy a Farm Hand currently has can be seen by hovering over the Farm Hand in the bottom left-hand corner of the Farm sub-window.
 |-
 |}
 
@@ -93,12 +92,12 @@ Keep in mind though, that the farm hands stats play a '''''very important''''' r
 
 [[Category:Farm]]</text>
     <contributor>
-      <username>DraKay</username>
-      <id>18</id>
+      <username>Razorflame</username>
+      <id>9</id>
     </contributor>
-    <comment></comment>
+    <comment>/* Stats */ Grammar</comment>
     <model>wikitext</model>
-    <parentid>34425</parentid>
-    <sha1>8acb54fa053954eb933926069c9cc3b5fe93943a</sha1>
+    <parentid>34426</parentid>
+    <sha1>ef9f2e84be234671a4deeba74dbfda7eaef564a2</sha1>
   </revision>
 </page></mediawiki>

@@ -1044,7 +1044,7 @@
             "minuploadchunksize": 1024,
             "mobileserver": "https://pokeclicker.miraheze.org",
             "phpsapi": "fpm-fcgi",
-            "phpversion": "7.4.30",
+            "phpversion": "7.4.33",
             "script": "/w/index.php",
             "scriptpath": "/w",
             "server": "https://pokeclicker.miraheze.org",
@@ -1058,7 +1058,7 @@
                 250,
                 300
             ],
-            "time": "2022-12-17T02:14:40Z",
+            "time": "2022-12-18T02:18:01Z",
             "timeoffset": 0,
             "timezone": "UTC",
             "titleconversion": "",
@@ -5770,11 +5770,11 @@
             "activeusers": 19,
             "admins": 5,
             "articles": 2753,
-            "edits": 36159,
+            "edits": 36165,
             "images": 4786,
             "jobs": 0,
             "pages": 13314,
-            "users": 224
+            "users": 226
         },
         "usergroups": [
             {
@@ -5984,7 +5984,7 @@
             },
             {
                 "name": "user",
-                "number": 224,
+                "number": 226,
                 "rights": [
                     "move",
                     "move-subpages",
