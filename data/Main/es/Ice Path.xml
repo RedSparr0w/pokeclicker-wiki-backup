@@ -1,0 +1,148 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Ice Path/es</title>
+  <ns>0</ns>
+  <id>13614</id>
+  <revision>
+    <id>34117</id>
+    <timestamp>2022-09-13T08:53:43Z</timestamp>
+    <text space="preserve" bytes="3661">&lt;languages/&gt;
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Infobox dungeon
+|name    = Ice Path
+|image   = [[File:Ice Path.png|thumb]]
+|caption = A map of Ice Path.
+|tokens  = 6,000
+|location = Between Route 44 and 45, north of Blackthorn City.
+}}
+'''Ice Path''' is a [[Dungeons|dungeon]] in [[Johto]]. It initially has 36 tiles arranged in a 6x6 square, including 6 chest tiles, 15 non-boss encounter tiles, and 1 boss encounter tile. Wild Encounters have 120,400 HP.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+== Encounter Tables ==
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+===Wild Encounters===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable"
+|-
+! Wild Pokémon !! colspan=2|Trainers
+|-
+! Encounter !! Trainer !! Pokémon Team
+|-
+| [[File:Zubat.png|40px]] Zubat || colspan=2 rowspan=3|&lt;center&gt;N/A
+|-
+| [[File:Jynx.png|40px]] Jynx
+|-
+| [[File:Swinub.png|40px]] Swinub
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+===Boss Encounters===
+{| class="wikitable"
+|-
+! Wild Pokémon !! Base Health !! Boss Trainer !! Pokémon Team !! Base Health
+|-
+| [[File:Delibird.png|40px]] Delibird || &lt;center&gt; 440,000 || colspan=3|&lt;center&gt;N/A
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Items==
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+===No Debuff===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears !! Requirement 
+|-
+| align="center" colspan=6| '''Common'''
+|-
+| {{Bag2|xClick}} || N/A || 26.03% || 25.32% || 22.22% || rowspan=3|&lt;center&gt; N/A
+|-
+| {{Bag2|Lucky Egg}} || N/A || 26.03% || 25.32% || 22.22%
+|-
+| {{Bag2|Token Collector}} || N/A || 26.03% || 25.32% || 22.22%
+|-
+| align="center" colspan=6| '''Rare'''
+|-
+| {{Bag2|Yellow Shard}} || N/A || 10.42% || 11.07% || 13.86% || rowspan=2|&lt;center&gt; N/A
+|-
+| {{Bag2|Purple Shard}} || N/A || 10.42% || 11.07% || 13.86%
+|-
+| align="center" colspan=6| '''Legendary'''
+|-
+| {{Bag2|Icicle Plate}} || N/A || 0.52% || 0.84% || 2.22% || rowspan=2|&lt;center&gt; N/A
+|-
+| {{Bag2|Revive}} || N/A || 0.52% || 0.84% || 2.22%
+|-
+| align="center" colspan=6| '''Mythic'''
+|-
+| {{Bag2|Protein}} || N/A || 0% || 0% || 1.18% || 450 Clears
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+===Debuff Drop Table===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+After Reaching Unova, the drop chance for items in Johto will be debuffed for any loot with a Tier rarer than Rare (ie: Epic, Legendary, Mythic).
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable collapsible collapsed"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears !! Requirement 
+|-
+| align="center" colspan=6| '''Common'''
+|-
+| {{Bag2|xClick}} || N/A || 25.23% || 25.23% || 25.23% || rowspan=3|&lt;center&gt; N/A
+|-
+| {{Bag2|Lucky Egg}} || N/A || 25.23% || 25.23% || 25.23%
+|-
+| {{Bag2|Token Collector}} || N/A || 25.23% || 25.23% || 25.23%
+|-
+| align="center" colspan=6| '''Rare'''
+|-
+| {{Bag2|Yellow Shard}} || N/A || 12.11% || 12.11% || 12.11% || rowspan=2|&lt;center&gt; N/A
+|-
+| {{Bag2|Purple Shard}} || N/A || 12.11% || 12.11% || 12.11%
+|-
+| align="center" colspan=6| '''Legendary'''
+|-
+| {{Bag2|Icicle Plate}} || N/A || 0.05% || 0.05% || 0.05% || rowspan=2|&lt;center&gt; N/A
+|-
+| {{Bag2|Revive}} || N/A || 0.05% || 0.05% || 0.05%
+|-
+| align="center" colspan=6| '''Mythic'''
+|-
+| {{Bag2|Protein}} || N/A || 0% || 0% || &lt;0.01% || 450 Clears
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Johto Dungeons}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Dungeons|^Region #2 - Johto^l]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>DraKay</username>
+      <id>589</id>
+    </contributor>
+    <comment>Created page with "Ice Path"</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>a60adad86f25b03fbfff194264aad69bd95c349a</sha1>
+  </revision>
+</page></mediawiki>

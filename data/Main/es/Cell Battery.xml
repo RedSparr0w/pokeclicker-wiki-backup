@@ -1,0 +1,53 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Cell Battery/es</title>
+  <ns>0</ns>
+  <id>4877</id>
+  <revision>
+    <id>26472</id>
+    <timestamp>2022-08-25T05:18:27Z</timestamp>
+    <text space="preserve" bytes="1394">&lt;languages/&gt;
+{{Infobox Oak Item
+|name       = Batería
+|image      = [[File:Bag_Cell_Battery_Sprite.png]]
+|caption    = Imagen de la ''Batería''.
+|dex = 90
+|effect     = Aumenta la regeneración de energía del Subsuelo
+}}
+
+La '''Batería ''' es un [[Oak Items|Objeto de Oak]].Al equiparla aumenta la cantidad de [[Underground|Energía de minado]] ganada de forma pasiva. La batería se desbloquea tras capturar 90 Pokémon únicos.
+
+== Detalles ==
+
+{| class="wikitable sortable"
+|-
+! Nivel !! Efecto !! Requisito de Mejora !! Coste de Mejora
+|-
+|0 || x1.5 Cantidad de Energía Regenerada || 25 objetos excavados || style="text-align:right" | 50,000 {{pdollar}} 
+|-
+|1 || x1.6 Cantidad de Energía Regenerada || 25 objetos excavados || style="text-align:right" | 100,000 {{pdollar}}
+|-
+|2 || x1.7 Cantidad de Energía Regenerada || 75 objetos excavados || style="text-align:right" | 250,000 {{pdollar}}
+|-
+|3 || x1.8 Cantidad de Energía Regenerada || 125 objetos excavados || style="text-align:right" | 500,000 {{pdollar}}
+|-
+|4 || x1.9 Cantidad de Energía Regenerada || 250 objetos excavados || style="text-align:right" | 1,000,000 {{pdollar}}
+|-
+|5/Max || x2.0 Cantidad de Energía Regenerada || N/A || style="text-align:right" | N/A
+|-
+|}
+
+&lt;div class="mw-translate-fuzzy"&gt;
+&lt;br&gt;{{Oak items}}&lt;br&gt;
+[[Category:Oak Items|Categoría:Objetos de Oak]] [[Category:Items|Categoría:Objetos]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>FuzzyBot</username>
+      <id>587</id>
+    </contributor>
+    <comment>Updating to match new version of source page</comment>
+    <model>wikitext</model>
+    <parentid>15771</parentid>
+    <sha1>010e04ee66866c0346f5d2507c74354662b9846c</sha1>
+  </revision>
+</page></mediawiki>

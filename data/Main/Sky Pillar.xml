@@ -1,0 +1,150 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Sky Pillar</title>
+  <ns>0</ns>
+  <id>408</id>
+  <revision>
+    <id>41259</id>
+    <timestamp>2022-11-09T05:00:17Z</timestamp>
+    <text space="preserve" bytes="3236">&lt;languages/&gt;
+&lt;translate&gt;
+&lt;!--T:1--&gt;
+{{Infobox dungeon
+|name    = Sky Pillar
+|image   = [[File:Sky Pillar.png|300px]]
+|caption = An outside view of Sky Pillar.
+|tokens  = 34,000
+|location = Southwest of Sootopolis City, north of Route 131.
+}}
+'''Sky Pillar''' is a [[Dungeons|dungeon]] in [[Hoenn]]. It initially has 49 tiles arranged in a 7x7 square, including 7 chest tiles, 17 non-boss encounter tiles, and 1 boss encounter tile. Wild Encounters have 720,000 HP.
+
+== Encounter Tables == &lt;!--T:2--&gt;
+
+===Wild Encounters=== &lt;!--T:3--&gt;
+
+&lt;!--T:4--&gt;
+{| class="wikitable"
+|-
+! Wild Pokémon !! colspan=2|Trainers
+|-
+! Encounter !! Trainer !! Pokémon Team
+|-
+| [[File:Golbat.png|40px]] Golbat || colspan=2 rowspan=6|&lt;center&gt;N/A
+|-
+| [[File:Sableye.png|40px]] Sableye
+|-
+| [[File:Claydol.png|40px]] Claydol
+|-
+| [[File:Banette.png|40px]] Banette
+|-
+| [[File:Mawile.png|40px]] Mawile
+|-
+| [[File:Altaria.png|40px]] Altaria
+|-
+|}
+
+&lt;!--T:5--&gt;
+===Boss Encounters===
+{| class="wikitable"
+|-
+! Wild Pokémon !! Base Health !! Boss Trainer !! Pokémon Team !! Base Health
+|-
+| [[File:Dusclops.png|40px]] Dusclops || &lt;center&gt;3,200,000 || colspan=3 rowspan=2|&lt;center&gt; N/A
+|-
+| [[File:Rayquaza.png|40px]] Rayquaza || &lt;center&gt;5,824,002
+|-
+|}
+
+==Items== &lt;!--T:6--&gt;
+
+&lt;tabs&gt; &lt;!--T:7--&gt;
+&lt;tab name="No Debuff"&gt;
+
+&lt;!--T:8--&gt;
+{| class="wikitable"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+|-
+| align="center" colspan=6| '''Common'''
+|-
+| {{Bag2|xAttack}} || 4 || 59.98% || 57.73% || 48.51%
+|-
+| {{Bag2|Greatball}} || N/A || 15.00% || 14.43% || 12.13%
+|-
+| align="center" colspan=6| '''Rare'''
+|-
+| {{Bag2|Yellow Shard}} || N/A || 10.01% || 10.52% || 12.61%
+|-
+| {{Bag2|Ochre Shard}} || N/A || 10.01% || 10.52% || 12.61%
+|-
+| align="center" colspan=6| '''Epic'''
+|-
+| {{Bag2|Ultraball}} || N/A || 4.01% || 5.21% || 10.11%
+|-
+| align="center" colspan=6| '''Legendary'''
+|-
+| {{Bag2|Sky Plate}} || N/A || 0.25% || 0.40% || 1.01%
+|-
+| {{Bag2|Mind Plate}} || N/A || 0.25% || 0.40% || 1.01%
+|-
+| {{Bag2|Draco Plate}} || N/A || 0.25% || 0.40% || 1.01%
+|-
+| {{Bag2|Sharp Beak}} || N/A || 0.25% || 0.40% || 1.01%
+|}
+&lt;/tab&gt;
+
+&lt;tab name="Debuff"&gt; &lt;!--T:9--&gt;
+
+&lt;!--T:10--&gt;
+After Reaching Kalos, the drop chance for items in Hoenn will be debuffed for any loot with a Tier rarer than Rare (ie: Epic, Legendary, Mythic).
+
+&lt;!--T:11--&gt;
+{| class="wikitable"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+|-
+| align="center" colspan=6| '''Common'''
+|-
+| {{Bag2|xAttack}} || 4 || 60.00% || 60.00% || 60.00%
+|-
+| {{Bag2|Greatball}} || N/A || 15.00% || 15.00% || 15.00%
+|-
+| align="center" colspan=6| '''Rare'''
+|-
+| {{Bag2|Yellow Shard}} || N/A || 12.00% || 12.00% || 12.00%
+|-
+| {{Bag2|Ochre Shard}} || N/A || 12.00% || 12.00% || 12.00%
+|-
+| align="center" colspan=6| '''Epic'''
+|-
+| {{Bag2|Ultraball}} || N/A || 0.90% || 0.90% || 0.90%
+|-
+| align="center" colspan=6| '''Legendary'''
+|-
+| {{Bag2|Sky Plate}} || N/A || 0.03% || 0.03% || 0.03%
+|-
+| {{Bag2|Mind Plate}} || N/A || 0.03% || 0.03% || 0.03%
+|-
+| {{Bag2|Draco Plate}} || N/A || 0.03% || 0.03% || 0.03%
+|-
+| {{Bag2|Sharp Beak}} || N/A || 0.03% || 0.03% || 0.03%
+|}
+&lt;/tab&gt;
+&lt;/tabs&gt;
+
+&lt;!--T:12--&gt;
+{{Hoenn Dungeons}}
+
+&lt;!--T:13--&gt;
+[[Category:Dungeons|^Region #3 - Hoenn^p]]
+&lt;/translate&gt;</text>
+    <contributor>
+      <username>ThePantMan</username>
+      <id>310</id>
+    </contributor>
+    <comment>/* Tabs */</comment>
+    <model>wikitext</model>
+    <parentid>40526</parentid>
+    <sha1>65898c19f0407d495f3e8bd7ef06b2d5f0045f44</sha1>
+  </revision>
+</page></mediawiki>

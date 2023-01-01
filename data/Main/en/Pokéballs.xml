@@ -1,0 +1,151 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Pokéballs/en</title>
+  <ns>0</ns>
+  <id>8368</id>
+  <revision>
+    <id>38601</id>
+    <timestamp>2022-10-07T16:48:02Z</timestamp>
+    <text space="preserve" bytes="8118">&lt;languages/&gt;
+
+'''Pokéballs''' are items used to catch and store Pokémon.
+
+=Usage=
+
+The Pokéball selector allows players to select the type of ball they want to use to catch uncaught Pokémon, uncaught [[Shiny Chance|shiny]] Pokémon, already-caught Pokémon, and already-caught shinies. Alternatively, the trainer may decide not to catch Pokémon in these categories.
+
+When a Pokémon falling under one of these categories is defeated, the selected ball will be used to attempt to catch the Pokémon (as long as the player has one or more of that ball). After running out of the selected type of ball, a lower-tier ball will be used instead, if there are any.
+
+=Varieties=
+
+As of version 0.9.8, there are fourteen distinct types of Pokéball, each with their own bonuses and acquisition methods. Note that some balls can only be obtained by trading Berries with the Johto Berry Master. The types of Berries demanded in exchange vary from day to day. Also, every ball can be gotten as [[Dungeons|Dungeon]] loot, except [[Masterball]] and [[Beastball]].
+
+{| class="wikitable sortable"
+! Ball !! Description !! Catch bonus (%) !! Catch time (s) !! Price
+|-
+| [[Pokéball]] || [[File:Ball_Pokeball.png|24px]] A standard Pokéball || 0 || 1.25 || 100 {{pdollar}}
+|-
+| [[Greatball|Great Ball]] || [[File:Greatball.png|24px]] +5% chance to catch || 5 || 1 || 500 {{pdollar}}
+|-
+| [[Ultraball|Ultra Ball]] || [[File:Ultraball.png|24px]] +10% chance to catch || 10 || 0.75 || 2,000 {{pdollar}}
+|-
+| [[Masterball|Master Ball]] || [[File:Masterball.png|24px]] +100% chance to catch || 100 || 0.5 || Variable
+|-
+| [[Fastball|Fast Ball]] || [[File:Fastball.png|24px]] Reduced catch time || 0 || 0.5 || rowspan = 4 | &lt;center&gt; Variable [[Berries]] &lt;br&gt;&lt;br&gt;20 - 40 Random [[File:Cheri.png|25px]] [[Berries#Gen 1 Berries|Gen 1 Berries]] &lt;br&gt; 5 - 15 Random [[File:Persim.png|25px]] [[Berries#Gen 2 Berries|Gen 2 Berries]]
+|-
+| [[Quickball|Quick Ball]] || [[File:Quickball.png|24px]] Increased catch rate on routes with less Pokémon defeated || 15% (0 route kills) to&lt;br&gt;0% (4012 route kills) || 1
+|-
+| [[Timerball|Timer Ball]] || [[File:Timerball.png|24px]] Increased catch rate on routes with more Pokémon defeated || 0% (0 route kills) to&lt;br&gt;15% (9920 route kills) || 1
+|-
+| [[Duskball|Dusk Ball]] || [[File:Duskball.png|24px]] Increased catch rate at night time or in dungeons || 15% between 6pm to 6am or in dungeons,&lt;br&gt;0% otherwise || 1
+|-
+| [[Luxuryball|Luxury Ball]] || [[File:Luxuryball.png|24px]] A Luxury Pokéball || 0 || 1.25 || 20 - 40 Random [[File:Cheri.png|25px]] [[Berries#Gen 1 Berries|Gen 1 Berries]] &lt;br&gt; 5 - 15 Random [[File:Persim.png|25px]] [[Berries#Gen 2 Berries|Gen 2 Berries]] &lt;br&gt; 5 - 10 Random [[File:Pomeg.png|25px]] [[Berries#Gen 3 Berries|Gen 3 Berries]]
+|-
+| [[Diveball|Dive Ball]] || [[File:Diveball.png|24px]] Increased catch rate in water environments || 15% in water environments, &lt;br&gt;0% otherwise || 1.25 || rowspan=4| N/A (only as [[Dungeons|Dungeon]] loot)
+|-
+| [[Lureball|Lure Ball]] || [[File:Lureball.png|24px]] Increased catch rate on fished Pokémon || 15% on fished Pokémon, &lt;br&gt;0% otherwise || 1.25
+|-
+| [[Nestball|Nest Ball]] || [[File:Nestball.png|24px]] Increased catch rate on earlier routes || 15% on early routes to&lt;br&gt;1% in late routes || 1.25
+|-
+| [[Repeatball|Repeat Ball]] || [[File:Repeatball.png|24px]] Increased catch rate the more a Pokémon is captured. Also, gives 5x more [[Pokérus|EVs]] per capture || 15% at 274 captures to&lt;br&gt;0% at 0 captures || 1.25
+|-
+| [[Beastball|Beast Ball]] || [[File:Beastball.png|25px]] Used to catch Ultra Beasts. Does not work with normal Pokémon || 10% to Ultra Beasts || 1s || 500 {{questpoints}}
+|}
+
+=Timer Ball and Quickball Rate Modification=
+
+Catch rates for both Quickballs and Timerballs change as more Pokémon are defeated on specific routes. The Route Kills stat cannot be lowered.
+
+[[File:Quickball-catchrate-graph.png|thumb|X-axis: Route kills&lt;br&gt;Y-axis: Quickball catch rate]]
+
+[[File:Timerball-catchrate-graph.png|thumb|X-axis: Route kills&lt;br&gt;Y-axis: Timerball catch rate]]
+
+{| class="wikitable"
+|+ Quickball
+|-
+! Route kills !! Catch chance
+|-
+| 0 || 15
+|-
+| 153 || 10 (Equal to Ultraball)
+|-
+| 719 || 5 (Equal to Greatball)
+|-
+| 4012 || 0 (Equal to Pokéball)
+|}
+
+{| class="wikitable"
+|+ Timerball
+|-
+! Route kills !! Catch chance
+|-
+| 0 || 0 (Equal to Pokéball)
+|-
+| 4793 || 5 (Equal to Greatball)
+|-
+| 7789 || 10 (Equal to Ultraball)
+|-
+| 9920 || 15
+|}
+
+=Masterball price growth=
+
+Unlike most other [[Shops|Shop]] items, Masterball prices do not drop after route encounters. Every purchase raises its price by 35%, capping off at 100 times the base price.
+
+{| class="wikitable"
+|-
+! Purchased !! Pokecoins {{pdollar}} !! Dungeon Tokens {{dungeontokens}} !! Quest Points {{Questpoints}} !! Battle Points {{Battlepoints}} !! Diamonds {{diamonds}} !! Farm Tokens {{farmpoints}}
+|-
+| Base Price || 10,000,000 {{pdollar}} || 75,000 {{dungeontokens}} || 3,000 {{Questpoints}} || 500 {{Battlepoints}} || 50 {{diamonds}} || 3,000 {{farmpoints}}
+|-
+| After 1 || 13,500,000 {{pdollar}} || 101,250 {{dungeontokens}} || 4,050 {{Questpoints}} || 675 {{Battlepoints}} || 67 {{diamonds}} || 4,050 {{farmpoints}}
+|-
+| After 2 || 18,225,000 {{pdollar}} || 136,687 {{dungeontokens}} || 5,467 {{Questpoints}} || 911 {{Battlepoints}} || 91 {{diamonds}} || 5,467 {{farmpoints}}
+|-
+| After 3 || 24,603,750 {{pdollar}} || 184,528 {{dungeontokens}} || 7,381 {{Questpoints}} || 1,230 {{Battlepoints}} || 123 {{diamonds}} || 7,381 {{farmpoints}}
+|-
+| After 4 || 33,215,063 {{pdollar}} || 249,112 {{dungeontokens}} || 9,964 {{Questpoints}} || 1,660 {{Battlepoints}} || 166 {{diamonds}} || 9,964 {{farmpoints}}
+|-
+| After 5 || 44,840,334 {{pdollar}} || 336,302 {{dungeontokens}} || 13,452 {{Questpoints}} || 2,242 {{Battlepoints}} || 224 {{diamonds}} || 13,452 {{farmpoints}}
+|-
+| After 6 || 60,534,451 {{pdollar}} || 454,008 {{dungeontokens}} || 18,160 {{Questpoints}} || 3,026 {{Battlepoints}} || 302 {{diamonds}} || 18,160 {{farmpoints}}
+|-
+| After 7 || 81,721,509 {{pdollar}} || 612,911 {{dungeontokens}} || 24,516 {{Questpoints}} || 4,086 {{Battlepoints}} || 408 {{diamonds}} || 24,516 {{farmpoints}}
+|-
+| After 8 || 110,324,037 {{pdollar}} || 827,430 {{dungeontokens}} || 33,097 {{Questpoints}} || 5,516 {{Battlepoints}} || 551 {{diamonds}} || 33,097 {{farmpoints}}
+|-
+| After 9 || 148,937,450 {{pdollar}} || 1,117,030 {{dungeontokens}} || 44,681 {{Questpoints}} || 7,446 {{Battlepoints}} || 744 {{diamonds}} || 44,681 {{farmpoints}}
+|-
+| After 10 || 201,065,558 {{pdollar}} || 1,507,991 {{dungeontokens}} || 60,319 {{Questpoints}} || 10,053 {{Battlepoints}} || 1,005 {{diamonds}} || 60,319 {{farmpoints}}
+|-
+| After 11 || 271,438,504 {{pdollar}} || 2,035,788 {{dungeontokens}} || 81,431 {{Questpoints}} || 13,571 {{Battlepoints}} || 1,357 {{diamonds}} || 81,431 {{farmpoints}}
+|-
+| After 12 || 366,441,980 {{pdollar}} || 2,748,314 {{dungeontokens}} || 109,932 {{Questpoints}} || 18,322 {{Battlepoints}} || 1,832 {{diamonds}} || 109,932 {{farmpoints}}
+|-
+| After 13 || 494,696,673 {{pdollar}} || 3,710,225 {{dungeontokens}} || 148,409 {{Questpoints}} || 24,734 {{Battlepoints}} || 2,473 {{diamonds}} || 148,409 {{farmpoints}}
+|-
+| After 14 || 667,840,509 {{pdollar}} || 5,008,803 {{dungeontokens}} || 200,352 {{Questpoints}} || 33,392 {{Battlepoints}} || 3,339 {{diamonds}} || 200,352 {{farmpoints}}
+|-
+| After 15 || 901,584,688 {{pdollar}} || 6,761,885 {{dungeontokens}} || 270,475 {{Questpoints}} || 45,079 {{Battlepoints}} || 4,507 {{diamonds}} || 270,475 {{farmpoints}}
+|-
+| After 16 || 1,000,000,000 {{pdollar}} || 7,500,000 {{dungeontokens}} || 300,000 {{Questpoints}} || 50,000 {{Battlepoints}} || 5,000 {{diamonds}} || 300,000 {{farmpoints}}
+|-
+| After 17 || 1,000,000,000 {{pdollar}} || 7,500,000 {{dungeontokens}} || 300,000 {{Questpoints}} || 50,000 {{Battlepoints}} || 5,000 {{diamonds}} || 300,000 {{farmpoints}}
+|}
+
+=Luxuryball=
+
+As of version 0.6.7, any bonus to the Luxuryball has not been implemented and it is functionally identical to the Pokéball.
+
+&lt;br&gt;{{Pokéballs}}&lt;br&gt;
+[[Category:Items]] [[Category:Pokéballs]]</text>
+    <contributor>
+      <username>FuzzyBot</username>
+      <id>587</id>
+    </contributor>
+    <comment>Updating to match new version of source page</comment>
+    <model>wikitext</model>
+    <parentid>22843</parentid>
+    <sha1>e74f7d0c09fe82c160b1a4de4fc3277d2055f2f8</sha1>
+  </revision>
+</page></mediawiki>

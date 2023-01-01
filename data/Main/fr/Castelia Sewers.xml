@@ -1,0 +1,115 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Castelia Sewers/fr</title>
+  <ns>0</ns>
+  <id>11941</id>
+  <revision>
+    <id>35062</id>
+    <timestamp>2022-09-13T13:18:54Z</timestamp>
+    <text space="preserve" bytes="3465">&lt;languages/&gt;
+{{Infobox dungeon
+|name    = Égouts de Volucité
+|image   = [[File:Castelia Sewers.png|300px]]
+|caption = Une carte des Égouts de Volucité.
+|tokens  = 146 500
+|location = Volucité
+}}
+Les '''Égouts de Volucité''' sont un [[Dungeons/fr|donjon]] d'[[Unova/fr|Unys]]. Il a initiallement 81 cases arrangées en 9x9, comprenant 9 coffres, 21 rencontres hors boss et 1 Combat de Boss. Les rencontres sauvages ont 2 603 000 PV.
+
+&lt;span id="Encounter_Tables"&gt;&lt;/span&gt;
+==Tables des rencontres==
+
+&lt;span id="Wild_Encounters"&gt;&lt;/span&gt;
+===Rencontres sauvages===
+
+{| class="wikitable"
+|-
+! Pokémon sauvages !! colspan=2|Dresseurs
+|-
+! Rencontre !! Dresseur !! Équipe Pokémon
+|-
+| [[File:Rattata.png|40px]] Rattata ||  [[File:Janitor.png|40px]] Nettoyeur Lambert|| [[File:Lillipup.png|40px]] Ponchiot, [[File:Trubbish.png|40px]] Miamiasme 
+|-
+| [[File:Zubat.png|40px]] Nosferapti || [[File:Doctor.png|40px]] Infirmier Pablo || [[File:Sewaddle.png|40px]] Larveyette
+|-
+| [[File:Grimer.png|40px]] Tadmorv || [[File:Worker.png|40px]] Ouvrier François || [[File:Drilbur.png|40px]] Rototaupe
+|-
+| rowspan=2|[[File:Muk.png|40px]] Grotadmorv|| [[File:Worker.png|40px]] Ouvrier Aristide || [[File:Timburr.png|40px]] Charpenti
+|-
+| [[File:Scientist_(female).png|40px]] Scientifique Anaëlle|| [[File:Grimer.png|40px]] Tadmorv
+|-
+| rowspan=2|[[File:Trubbish.png|40px]] Miamiasme|| [[File:Scientist_(male).png|40px]] Scientifique Hervé || [[File:Magnemite.png|40px]] Magnemite
+|-
+| [[File:Janitor.png|40px]] Nettoyeur Ivan || [[File:Marill.png|40px]] Marill, [[File:Cinccino.png|40px]] Pashmilla
+|}
+
+&lt;span id="Boss_Encounters"&gt;&lt;/span&gt;
+===Combat de Boss===
+
+{| class="wikitable"
+|-
+! Pokémon sauvage !! PV de base !! Dresseur Boss !! Équipe Pokémon !! PV de base
+|-
+| rowspan=2 colspan=2|&lt;center&gt; N/A || [[File:Team_Plasma_Grunt_(male).png|40px]] Sbire de la Team Plasma || [[File:Sandile.png|40px]] Mascaïman || rowspan=2|&lt;center&gt;15 000 000
+|-
+| [[File:Team_Plasma_Grunt_(female).png|40px]] Sbire de la Team Plasma Grunt || [[File:Scraggy.png|40px]] Baggiguane
+|}
+
+&lt;span id="Items"&gt;&lt;/span&gt;
+==Objets==
+
+{| class="wikitable"
+|-
+! Objet de coffre !! Poids !! Complétion 0 fois !! Complétion 100 fois !! Complétion 500 fois
+|-
+| align="center" colspan=6| '''Commun'''
+|-
+| {{Bag2|xClick|Clic +}} || 2 || 49,98% || 48,00% || 40,00%
+|-
+| {{Bag2|xAttack}} || N/A || 24,99% || 24,00% || 20,00%
+|-
+| align="center" colspan=6| '''Rare'''
+|-
+| {{Bag2|Red Shard|Tesson Rouge}} || N/A || 10,00% || 10,50% || 12,47%
+|-
+| {{Bag2|Blue Shard|Tesson Bleu}} || N/A || 10,00% || 10,50% || 12,47%
+|-
+| align="center" colspan=6| '''Épique'''
+|-
+| {{Bag2|Toxic Plate|Plaque Toxicité}} || N/A || 2,01% || 2,60% || 5,00%
+|-
+| {{Bag2|Mind Plate|Plaque Esprit}} || N/A || 2,01% || 2,60% || 5,00%
+|-
+| align="center" colspan=6| '''Légendaire'''
+|-
+| {{Bag2|Small Restore|Potion}} || N/A || 0,14% || 0,23% || 0,57%
+|-
+| {{Bag2|Ultraball|Hyper Ball}} || N/A || 0,14% || 0,23% || 0,57%
+|-
+| {{Bag2|Revive|Rappel}} || N/A || 0,14% || 0,23% || 0,57%
+|-
+| {{Bag2|Medium Restore|Super Potion}} || 2 || 0,28% || 0,45% || 1,14%
+|-
+| {{Bag2|Rare Bone|Os Rare}} || N/A || 0,14% || 0,23% || 0,57%
+|-
+| {{Bag2|Large Restore|Hyper Potion}} || N/A || 0,14% || 0,23% || 0,57%
+|-
+| align="center" colspan=6| '''Mythique'''
+|-
+| {{Bag2|Heart Scale|Écaille Cœur}} || N/A || 0,01% || 0,22% || 1,06%
+|}
+
+{{Unova Dungeons}}
+
+[[Category:Dungeons|^Region #5 - Unova^c]]
+[[Category:Donjons|^Région #5 - Unys^c]]</text>
+    <contributor>
+      <username>PetroleVB</username>
+      <id>619</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>30169</parentid>
+    <sha1>380ff80994e9a6eb65cb9ba31da42b5803660137</sha1>
+  </revision>
+</page></mediawiki>

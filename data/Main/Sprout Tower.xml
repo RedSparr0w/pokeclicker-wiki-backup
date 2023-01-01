@@ -1,0 +1,142 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Sprout Tower</title>
+  <ns>0</ns>
+  <id>328</id>
+  <revision>
+    <id>41224</id>
+    <timestamp>2022-11-09T04:14:05Z</timestamp>
+    <text space="preserve" bytes="3786">&lt;languages/&gt;
+&lt;translate&gt;
+&lt;!--T:1--&gt;
+{{Infobox dungeon
+|name    = Sprout Tower
+|image   = [[File:Sprout Tower.png|thumb]]
+|caption = An outside view of Sprout Tower.
+|tokens  = 2,500
+|location = Directly east of Violet City, near Route 31.
+}}
+'''Sprout Tower''' is a [[Dungeons|dungeon]] in [[Johto]]. It initially has 36 tiles arranged in a 6x6 square, including 6 chest tiles, 15 non-boss encounter tiles, and 1 boss encounter tile. Wild Encounters have 56,735 HP.
+
+== Encounter Tables == &lt;!--T:2--&gt;
+
+===Wild Encounters=== &lt;!--T:3--&gt;
+
+&lt;!--T:4--&gt;
+{| class="wikitable"
+|-
+! Wild Pokémon !! colspan=2|Trainers
+|-
+! Encounter !! Trainer !! Pokémon Team
+|-
+| rowspan=2|[[File:Rattata.png|40px]] Rattata || [[File:Sage.png|40px]] Sage Nico || [[File:Bellsprout.png|40px]] Bellsprout, [[File:Bellsprout.png|40px]] Bellsprout, [[File:Bellsprout.png|40px]] Bellsprout
+|-
+| [[File:Sage.png|40px]] Sage Chow || [[File:Bellsprout.png|40px]] Bellsprout, [[File:Bellsprout.png|40px]] Bellsprout, [[File:Bellsprout.png|40px]] Bellsprout
+|-
+| rowspan=2|[[File:Gastly.png|40px]] Gastly || [[File:Sage.png|40px]] Sage Edmond || [[File:Bellsprout.png|40px]] Bellsprout, [[File:Bellsprout.png|40px]] Bellsprout, [[File:Bellsprout.png|40px]] Bellsprout
+|-
+| [[File:Sage.png|40px]] Sage Jin || [[File:Bellsprout.png|40px]] Bellsprout
+|-
+| rowspan=2|[[File:Hoothoot.png|40px]] Hoothoot || [[File:Sage.png|40px]] Sage Neal || [[File:Bellsprout.png|40px]] Bellsprout
+|-
+| [[File:Sage.png|40px]] Sage Troy || [[File:Bellsprout.png|40px]] Bellsprout, [[File:Hoothoot.png|40px]] Hoothoot
+|-
+|}
+
+&lt;!--T:5--&gt;
+===Boss Encounters===
+{| class="wikitable"
+|-
+! Wild Pokémon !! Base Health !! Boss Trainer !! Pokémon Team !! Base Health
+|-
+| colspan=2 rowspan=2|&lt;center&gt;N/A || rowspan=2|[[File:Sage.png|40px]] Sage Li || [[File:Bellsprout.png|40px]] Bellsprout, [[File:Bellsprout.png|40px]] Bellsprout || &lt;center&gt; 86,000
+|-
+| [[File:Hoothoot.png|40px]] Hoothoot || &lt;center&gt; 87,000
+|-
+|}
+
+==Items== &lt;!--T:6--&gt;
+
+&lt;tabs&gt; &lt;!--T:7--&gt;
+&lt;tab name="No Debuff"&gt;
+
+&lt;!--T:8--&gt;
+{| class="wikitable"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+|-
+| align="center" colspan=6| '''Common'''
+|-
+| {{Bag2|xClick}} || N/A || 26.04% || 25.38% || 22.49%
+|-
+| {{Bag2|Lucky Incense}} || N/A || 26.04% || 25.38% || 22.49%
+|-
+| {{Bag2|Lucky Egg}} || N/A || 26.04% || 25.38% || 22.49%
+|-
+| align="center" colspan=6| '''Rare'''
+|-
+| {{Bag2|Red Shard}} || N/A || 10.42% || 11.10% || 14.03%
+|-
+| {{Bag2|Yellow Shard}} || N/A || 10.42% || 11.10% || 14.03%
+|-
+| align="center" colspan=6| '''Legendary'''
+|-
+| {{Bag2|Meadow Plate}} || 2 || 0.52% || 0.84% || 2.24%
+|-
+| {{Bag2|Small Restore}} || N/A || 0.26% || 0.42% || 1.12%
+|-
+| {{Bag2|Miracle Seed}} || N/A || 0.26% || 0.42% || 1.12%
+|}
+&lt;/tab&gt;
+
+&lt;tab name="Debuff"&gt; &lt;!--T:9--&gt;
+
+&lt;!--T:10--&gt;
+After Reaching Unova, the drop chance for items in Johto will be debuffed for any loot with a Tier rarer than Rare (ie: Epic, Legendary, Mythic).
+
+&lt;!--T:11--&gt;
+{| class="wikitable"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+|-
+| align="center" colspan=6| '''Common'''
+|-
+| {{Bag2|xClick}} || N/A || 25.23% || 25.23% || 25.23%
+|-
+| {{Bag2|Lucky Incense}} || N/A || 25.23% || 25.23% || 25.23%
+|-
+| {{Bag2|Lucky Egg}} || N/A || 25.23% || 25.23% || 25.23%
+|-
+| align="center" colspan=6| '''Rare'''
+|-
+| {{Bag2|Red Shard}} || N/A || 12.11% || 12.11% || 12.11%
+|-
+| {{Bag2|Yellow Shard}} || N/A || 12.11% || 12.11% || 12.11%
+|-
+| align="center" colspan=6| '''Legendary'''
+|-
+| {{Bag2|Meadow Plate}} || 2 || 0.05% || 0.05% || 0.05%
+|-
+| {{Bag2|Small Restore}} || N/A || 0.03% || 0.03% || 0.03%
+|-
+| {{Bag2|Miracle Seed}} || N/A || 0.03% || 0.03% || 0.03%
+|}
+&lt;/tab&gt;
+&lt;/tabs&gt;
+
+&lt;!--T:12--&gt;
+{{Johto Dungeons}}
+
+&lt;!--T:13--&gt;
+[[Category:Dungeons|^Region #2 - Johto^a]]
+&lt;/translate&gt;</text>
+    <contributor>
+      <username>ThePantMan</username>
+      <id>310</id>
+    </contributor>
+    <comment>/* Tabs */</comment>
+    <model>wikitext</model>
+    <parentid>38941</parentid>
+    <sha1>5c5dc3fa490b15055ac473a028462013521782df</sha1>
+  </revision>
+</page></mediawiki>

@@ -1,0 +1,132 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Dark Cave/en</title>
+  <ns>0</ns>
+  <id>10434</id>
+  <revision>
+    <id>27471</id>
+    <timestamp>2022-08-28T18:32:49Z</timestamp>
+    <text space="preserve" bytes="2952">&lt;languages/&gt;
+{{Infobox dungeon
+|name    = Dark Cave
+|image   = [[File:Dark Cave.png|thumb]]
+|caption = A map of Dark Cave.
+|tokens  = 6,500
+|location = Between Route 45 and 46, south of Blackthorn City.
+}}
+'''Dark Cave''' is a [[Dungeons|dungeon]] in [[Johto]]. It initially has 36 tiles arranged in a 6x6 square, including 6 chest tiles, 15 non-boss encounter tiles, and 1 boss encounter tile. Wild Encounters have 127,000 HP.
+
+== Encounter Tables ==
+
+===Wild Encounters===
+
+{| class="wikitable"
+|-
+! Wild Pokémon !! colspan=2|Trainers
+|-
+! Encounter !! Trainer !! Pokémon Team
+|-
+| [[File:Zubat.png|40px]] Zubat || colspan=2 rowspan=5|&lt;center&gt;N/A
+|-
+| [[File:Geodude.png|40px]] Geodude
+|-
+| [[File:Golbat.png|40px]] Golbat
+|-
+| [[File:Graveler.png|40px]] Graveler
+|-
+| [[File:Wobbuffet.png|40px]] Wobbuffet
+|}
+
+===Boss Encounters===
+{| class="wikitable"
+|-
+! Wild Pokémon !! Base Health !! Boss Trainer !! Pokémon Team !! Base Health
+|-
+| [[File:Dunsparce.png|40px]] Dunsparce || &lt;center&gt; 460,000 || colspan=3|&lt;center&gt;N/A
+|-
+|}
+
+==Items==
+
+===No Debuff===
+
+{| class="wikitable"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+|-
+| align="center" colspan=6| '''Common'''
+|-
+| {{Bag2|Pokéball}} || N/A || 39.05% || 37.97% || 33.33%
+|-
+| {{Bag2|Dowsing Machine}} || N/A || 39.05% || 37.97% || 33.33%
+|-
+| align="center" colspan=6| '''Rare'''
+|-
+| {{Bag2|Purple Shard}} || N/A || 20.85% || 22.14% || 27.72%
+|-
+| align="center" colspan=6| '''Legendary'''
+|-
+| {{Bag2|Dread Plate}} || 2 || 0.42% || 0.67% || 1.77%
+|-
+| {{Bag2|Revive}} || N/A || 0.21% || 0.34% || 0.89%
+|-
+| {{Bag2|Star Piece}} || N/A || 0.21% || 0.34% || 0.89%
+|-
+| {{Bag2|Small Restore}} || N/A || 0.21% || 0.34% || 0.89%
+|-
+| align="center" colspan=6| '''Mythic'''
+|-
+| {{Bag2|Heart Scale}} || N/A || 0.01% || 0.12% || 0.59%
+|-
+| {{Bag2|Max Revive}} || N/A || 0.01% || 0.12% || 0.59%
+|}
+
+===Debuff Drop Table===
+
+After Reaching Unova, the drop chance for items in Johto will be debuffed for any loot with a Tier rarer than Rare (ie: Epic, Legendary, Mythic).
+
+{| class="wikitable collapsible collapsed"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+|-
+| align="center" colspan=6| '''Common'''
+|-
+| {{Bag2|Pokéball}} || N/A || 37.84% || 37.84% || 37.84%
+|-
+| {{Bag2|Dowsing Machine}} || N/A || 37.84% || 37.84% || 37.84%
+|-
+| align="center" colspan=6| '''Rare'''
+|-
+| {{Bag2|Purple Shard}} || N/A || 24.22% || 24.22% || 24.22%
+|-
+| align="center" colspan=6| '''Legendary'''
+|-
+| {{Bag2|Dread Plate}} || 2 || 0.04% || 0.04% || 0.04%
+|-
+| {{Bag2|Revive}} || N/A || 0.02% || 0.02% || 0.02%
+|-
+| {{Bag2|Star Piece}} || N/A || 0.02% || 0.02% || 0.02%
+|-
+| {{Bag2|Small Restore}} || N/A || 0.02% || 0.02% || 0.02%
+|-
+| align="center" colspan=6| '''Mythic'''
+|-
+| {{Bag2|Heart Scale}} || N/A || &lt;0.01% || &lt;0.01% || &lt;0.01%
+|-
+| {{Bag2|Max Revive}} || N/A || &lt;0.01% || &lt;0.01% || &lt;0.01%
+|}
+
+
+{{Johto Dungeons}}
+
+[[Category:Dungeons|^Region #2 - Johto^m]]</text>
+    <contributor>
+      <username>FuzzyBot</username>
+      <id>587</id>
+    </contributor>
+    <comment>Updating to match new version of source page</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>e0d3d2e46a35ccba8f8cc8589aa9cca0bd55cef9</sha1>
+  </revision>
+</page></mediawiki>

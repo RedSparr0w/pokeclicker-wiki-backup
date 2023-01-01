@@ -1,0 +1,143 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Pomeg/es</title>
+  <ns>0</ns>
+  <id>12860</id>
+  <revision>
+    <id>32379</id>
+    <timestamp>2022-09-08T10:55:41Z</timestamp>
+    <text space="preserve" bytes="4438">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #21 Grana
+|image   = [[File:Pomeg.png]]
+|caption = Cuando se pela la piel gruesa de esta baya dulcemente picante, se derraman muchos pedazos de la fruta.
+|growtime  = 1h 30m 0s
+|harvest = 20 bayas
+|replant = 20%
+|mutation = 0.05%
+|points = 500
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*10 picante
+*0 seco
+*10 dulce
+*10 amargo
+*0 ácido
+}}
+
+'''Grana''' es un tipo de [[Berries|Baya]] que puede ser plantada en la  [[Granja]]. Se puede obtener rodeando una parcela vacía con al menos 1 [[Pabaya]] y al menos 1 [[Ango]].
+
+== Tablas de crecimiento ==
+=== Tablas de crecimiento ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+!!! Brote !! Crecimiento !! Floración !! Madurez
+|-
+! Time passed since planting
+| 3 mins 20 secs || 20 mins || 1 hora 6 mins 40 secs || 1 hora 30 mins - 3 horas
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:PomegTreeTaller.png|50px]] || &lt;center&gt;[[File:PomegTreeBloom.png|50px]] || &lt;center&gt; [[File:PomegTreeBerry.png|50px]]
+|}
+
+=== iempos de maduración con modificadores  ===
+{| class="wikitable" | style="text-align: center;"
+! Modifier !! Ripe-Wither Time !! Boost Mulch Needed to Ripen
+|-
+! Ninguno
+| 1 hora 30 mins -&lt;br&gt; 3 hora || ---
+|-
+! Abono/Psydugadera
+| 1 hora -&lt;br&gt; 2 hora || 9 abono
+|-
+! Abono y Psydugadera
+| 40 mins -&lt;br&gt; 1 hour 20 mins || 6 abono
+|}
+
+== Diagrama de Flujo ==
+[[File:Pomeg_Flow_Chart.png|250px]]
+&lt;br&gt;
+
+== Estrategia de Mutación ==
+=== Posibles formaciones ===
+
+Puedes llenar tu granja de la siguiente manera para obtener bayas Pomeg. Los cuadrados morados indican dónde pueden ocurrir mutaciones.
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Base Formation
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Iapapa.png|30px]] [[Iapapa]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Mago.png|30px]] [[Mago]]
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Optimized Planting Formation
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Iapapa.png|30px]] [[Iapapa]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Iapapa.png|30px]] [[Iapapa]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Mago.png|30px]] [[Mago]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Mago.png|30px]] [[Mago]] 
+|- style="height: 50px;"
+| style="height: 50px; background-color:#9C7D98;" | || style="height: 50px; background-color:#9C7D98;" | || style="height: 50px; background-color:#9C7D98;" | || style="height: 50px; background-color:#9C7D98;" | || style="height: 50px; background-color:#9C7D98;" | 
+|-
+| [[File:Iapapa.png|30px]] [[Iapapa]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Iapapa.png|30px]] [[Iapapa]] || style="background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Mago.png|30px]] [[Mago]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Mago.png|30px]] [[Mago]] 
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+=== Timing Table ===
+{| class="wikitable"| style="text-align: center;"
+|+ ''All planting times use the time-to-ripe remaining of the first planted berry for subsequent planting times''
+! Berry !! Planting Time with &lt;br&gt; No Modifier !! Planting Time with &lt;br&gt; Mulch or Sprayduck || Planting Time with &lt;br&gt;  Mulch &amp; Sprayduck
+|-
+| [[Iapapa]] || - || - || -
+|-
+| [[Mago]] || 6 mins 10 secs until ripe || 4 mins 7 secs until ripe || Not Practical
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Uses==
+===Mutations===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Pomeg berries can be used to mutate the following berries.
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Tamato.png|20px]] [[Tamato]] || [[File:Razz.png|20px]] [[Razz]]
+|-
+|}
+&lt;/div&gt;
+
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Berries}}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>PedroESP</username>
+      <id>669</id>
+    </contributor>
+    <comment>Created page with "Puedes llenar tu granja de la siguiente manera para obtener bayas Pomeg. Los cuadrados morados indican dónde pueden ocurrir mutaciones."</comment>
+    <model>wikitext</model>
+    <parentid>32377</parentid>
+    <sha1>b13cb5432022e51f60a6b2db14d4da8d3b59f4f9</sha1>
+  </revision>
+</page></mediawiki>

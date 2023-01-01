@@ -1,0 +1,106 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Micle</title>
+  <ns>0</ns>
+  <id>735</id>
+  <revision>
+    <id>38330</id>
+    <timestamp>2022-10-07T16:14:17Z</timestamp>
+    <text space="preserve" bytes="3281">&lt;languages/&gt;
+&lt;translate&gt;
+&lt;!--T:1--&gt;
+{{Infobox Berry
+|name    = #55 Micle
+|image   = [[File:Micle.png]]
+|caption = This Berry has a very dry flavor. It has the effect of making other food eaten at the same time taste sweet.
+|growtime  = 8h 48m 0s
+|harvest = 1 berry
+|replant = 5%
+|mutation = 0.03%
+|points = 2,600
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 spicy 
+*40 dry
+*10 sweet
+*0 bitter
+*0 sour
+}}
+
+&lt;!--T:2--&gt;
+'''Micle''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by having at least one empty plot and at least 600 points of dry on the field. The [[Pamtre]] must be unlocked to unlock this berry.
+
+&lt;!--T:3--&gt;
+== Growth Tables ==
+=== Growth Stages ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 1 hour 6 mins || 2 hours 12 mins || 4 hours 24 mins || 8 hours 48 mins - 17 hours 36 mins
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:MicleTreeTaller.png|50px]] || &lt;center&gt; [[File:MicleTreeBloom.png|50px]] || &lt;center&gt; [[File:MicleTreeBerry.png|50px]]
+|}
+
+&lt;!--T:4--&gt;
+=== Ripening Time with Modifiers  ===
+{| class="wikitable" | style="text-align: center;"
+! Modifier !! Ripe-Wither Time !! Boost Mulch Needed to Ripen
+|-
+! None
+| 8 hours 48 mins -&lt;br&gt; 17 hours 36 mins || ---
+|-
+! Mulch or Sprayduck
+| 5 hours 52 mins -&lt;br&gt; 11 hours 44 mins || 71 mulch
+|-
+! Mulch &amp; Sprayduck
+| 3 hours 54 mins 40 secs -&lt;br&gt; 7 hours 50 mins 20 secs || 50 mulch
+|}
+
+&lt;!--T:5--&gt;
+== Flow Chart ==
+[[File:Micle_Flow_Chart.png|350px]]
+&lt;br&gt;
+
+&lt;!--T:6--&gt;
+== Mutation Strategy ==
+=== Possible Planting Formations ===
+'''WARNING:''' Trying to mutate Micle while having the [[Rocky Helmet]] equipped may result in your Pamtre mutating into Kebia.&lt;br&gt;
+
+&lt;!--T:7--&gt;
+You can fill your farm in the following way to obtain Micle berries. Purple squares indicate where mutations can occur.
+
+&lt;!--T:8--&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Farm
+|-
+| style="width: 50px;" | [[File:Pamtre.png|30px]]&lt;br&gt;[[Pamtre]] || style="width: 50px;" | [[File:Pamtre.png|30px]]&lt;br&gt;[[Pamtre]] || style="width: 50px;" | [[File:Pamtre.png|30px]]&lt;br&gt;[[Pamtre]] || style="width: 50px;" | [[File:Pamtre.png|30px]]&lt;br&gt;[[Pamtre]] || style="width: 50px;" | [[File:Pamtre.png|30px]]&lt;br&gt;[[Pamtre]]
+|-
+| [[File:Pamtre.png|30px]]&lt;br&gt;[[Pamtre]] || style="background-color:#9C7D98;" | || [[File:Pamtre.png|30px]]&lt;br&gt;[[Pamtre]] || style="background-color:#9C7D98;" | || [[File:Pamtre.png|30px]]&lt;br&gt;[[Pamtre]]
+|- style="height: 26px;"
+| [[File:Pamtre.png|30px]]&lt;br&gt;[[Pamtre]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Pamtre.png|30px]]&lt;br&gt;[[Pamtre]]
+|-
+| [[File:Pamtre.png|30px]]&lt;br&gt;[[Pamtre]] || [[File:Pamtre.png|30px]]&lt;br&gt;[[Pamtre]] || [[File:Pamtre.png|30px]]&lt;br&gt;[[Pamtre]] || [[File:Pamtre.png|30px]]&lt;br&gt;[[Pamtre]] || [[File:Pamtre.png|30px]]&lt;br&gt;[[Pamtre]]
+|-
+| [[File:Pamtre.png|30px]]&lt;br&gt;[[Pamtre]] || [[File:Pamtre.png|30px]]&lt;br&gt;[[Pamtre]] || [[File:Pamtre.png|30px]]&lt;br&gt;[[Pamtre]] || [[File:Pamtre.png|30px]]&lt;br&gt;[[Pamtre]] || [[File:Pamtre.png|30px]]&lt;br&gt;[[Pamtre]]
+|}
+
+&lt;!--T:9--&gt;
+&lt;br&gt;
+
+&lt;!--T:10--&gt;
+{{Berries}}
+
+&lt;!--T:11--&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/translate&gt;</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>59</id>
+    </contributor>
+    <comment>Marked this version for translation</comment>
+    <model>wikitext</model>
+    <parentid>37853</parentid>
+    <sha1>f89675b488aaf5632447f40818a7d40ffc94513b</sha1>
+  </revision>
+</page></mediawiki>

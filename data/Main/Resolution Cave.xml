@@ -1,0 +1,108 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Resolution Cave</title>
+  <ns>0</ns>
+  <id>4165</id>
+  <revision>
+    <id>40500</id>
+    <timestamp>2022-10-31T04:32:38Z</timestamp>
+    <text space="preserve" bytes="2602">&lt;languages/&gt;
+&lt;translate&gt;
+&lt;!--T:1--&gt;
+{{Infobox dungeon
+|name    = Resolution Cave
+|image   = [[File:Resolution Cave.png|300px]]
+|caption = A map of Resolution Cave.
+|tokens  = 1,250,000
+|location = West of Poni Meadow / South of Poni Gauntlet
+}}
+
+&lt;!--T:2--&gt;
+'''Resolution Cave''' is a [[Dungeons|dungeon]] in [[Alola]]. It initially has 125 tiles arranged in two floors: 10x10 and 5x5 in size, respectively; including 15 chest tiles, 36 non-boss encounter tiles, 1 ladder tile, and 1 boss encounter tile. Wild Encounters have 17,114,462 HP.
+
+== Encounter Tables == &lt;!--T:3--&gt;
+
+===Wild Encounters=== &lt;!--T:4--&gt;
+
+&lt;!--T:5--&gt;
+{| class="wikitable"
+|-
+! Wild Pokémon !! colspan=2|Trainers
+|-
+! Encounter !! Trainer !! Pokémon Team
+|-
+| [[File:Zubat.png|40px]] Zubat || [[File:Veteran (female).png|40px]] Veteran Leticia || [[File:Ribombee.png|40px]] Ribombee, [[File:Bewear.png|40px]] Bewear
+|-
+| [[File:Alolan Dugtrio.png|40px]] Alolan Dugtrio || [[File:Backpacker (female).png|40px]] Backpacker Maria || [[File:Manectric.png|40px]] Manectric
+|-
+| [[File:Druddigon.png|40px]] Druddigon || [[File:Hiker.png|40px]] Hiker Travis || [[File:Alolan Dugtrio.png|40px]] Alolan Dugtrio, [[File:Mudsdale.png|40px]] Mudsdale
+|-
+|}
+
+&lt;!--T:6--&gt;
+===Boss Encounters===
+{| class="wikitable"
+|-
+! Wild Pokémon !! Base Health !! Boss Trainer !! Pokémon Team !! Base Health
+|-
+| [[File:Golbat.png|50px]] Golbat ||rowspan=2|&lt;center&gt;85,572,310 ||rowspan=3 colspan=3|&lt;center&gt;N/A
+|-
+| [[File:Noivern.png|50px]] Noivern
+|-
+| [[File:Guzzlord.png|50px]] Guzzlord || &lt;center&gt;96,673,816
+|-
+|}
+
+
+==Items== &lt;!--T:7--&gt;
+
+&lt;!--T:8--&gt;
+{| class="wikitable"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+|-
+| align="center" colspan=6| '''Common'''
+|-
+| {{Bag2|xAttack}} || N/A || 37.49% || 36.08% || 30.32%
+|-
+| {{Bag2|Pecha}} || N/A || 37.49% || 36.08% || 30.32%
+|-
+| align="center" colspan=6| '''Rare'''
+|-
+| {{Bag2|Red Shard}} || N/A || 4.00% || 4.21% || 5.04%
+|-
+| {{Bag2|Blue Shard}} || N/A || 4.00% || 4.21% || 5.04%
+|-
+| {{Bag2|Green Shard}} || N/A || 4.00% || 4.21% || 5.04%
+|-
+| {{Bag2|Yellow Shard}} || N/A || 4.00% || 4.21% || 5.04%
+|-
+| {{Bag2|Cyan Shard}} || N/A || 4.00% || 4.21% || 5.04%
+|-
+| align="center" colspan=6| '''Epic'''
+|-
+| {{Bag2|Dread Plate}} || N/A || 2.01% || 2.61% || 5.05%
+|-
+| {{Bag2|Draco Plate}} || N/A || 2.01% || 2.61% || 5.05%
+|-
+| align="center" colspan=6| '''Legendary'''
+|-
+| {{Bag2|Star Piece}} || N/A || 0.50% || 0.80% || 2.02%
+|-
+| {{Bag2|Dragon Fang}} || N/A || 0.50% || 0.80% || 2.02%
+|}
+
+&lt;!--T:9--&gt;
+{{Alola Dungeons}}
+[[Category:Dungeons|^Region #7 - Alola^zd]]
+&lt;/translate&gt;</text>
+    <contributor>
+      <username>ThePantMan</username>
+      <id>310</id>
+    </contributor>
+    <comment>/* Held items update */</comment>
+    <model>wikitext</model>
+    <parentid>39963</parentid>
+    <sha1>72d5b9a15e23f0605e68765acd4ca89e8fa2b5ce</sha1>
+  </revision>
+</page></mediawiki>
