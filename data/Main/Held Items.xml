@@ -1,12 +1,11 @@
-<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
-<page>
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en"><page>
   <title>Held Items</title>
   <ns>0</ns>
   <id>16165</id>
   <revision>
-    <id>41674</id>
-    <timestamp>2022-11-15T13:55:42Z</timestamp>
-    <text space="preserve" bytes="5903">&lt;languages/&gt;
+    <id>42401</id>
+    <timestamp>2023-01-01T10:45:12Z</timestamp>
+    <text space="preserve" bytes="5840">&lt;languages/&gt;
 &lt;translate&gt;
 &lt;!--T:1--&gt;
 {{Infobox battle item
@@ -22,7 +21,7 @@
 
 &lt;!--T:3--&gt;
 ==Usage== 
-Held Items can be found in an tab on the Item menu. You can only have six Pokémon holding Held Items at once, and you can't use a single item type more than once simultaneously. A Held Item is consumed when equipped and '''cannot be re-used''' - it will be removed from your inventory when it is unequipped.&lt;br&gt;
+Held Items can be found in an tab on the Item menu. There is no limitation in the number of item which can be held. A Held Item is consumed when equipped and '''cannot be re-used''' - it will be removed from your inventory when it is unequipped.&lt;br&gt;
 
 &lt;!--T:4--&gt;
 To equip Held Items your Pokémon will typically need to meet some requirement. For example, to equip the Black Belt your desired Pokémon must be a Fighting type. To equip the Macho Brace your Pokémon must be at least ''Contagious'' with Pokérus.
@@ -92,12 +91,12 @@ Held items can be found in [[Shops]], as Loot in [[Dungeons]] and as [[Rare Hold
 [[Category:Items]] [[Category:Held Items]]
 &lt;/translate&gt;</text>
     <contributor>
-      <username>DraKay</username>
-      <id>589</id>
+      <username>Fincyril</username>
+      <id>649</id>
     </contributor>
-    <comment>Marked this version for translation</comment>
+    <comment>correction in the number of item which can be held</comment>
     <model>wikitext</model>
-    <parentid>41673</parentid>
-    <sha1>c0ca5d07610806a38ba8e3c258ed252ab4ee85ff</sha1>
+    <parentid>41674</parentid>
+    <sha1>a00e00f35f8958f14af8bb358701750b9ea1dfc5</sha1>
   </revision>
 </page></mediawiki>
