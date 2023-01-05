@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>3639</id>
   <revision>
-    <id>41518</id>
-    <timestamp>2022-11-10T23:13:26Z</timestamp>
-    <text space="preserve" bytes="185083">&lt;languages/&gt;
+    <id>42402</id>
+    <timestamp>2023-01-04T19:13:10Z</timestamp>
+    <text space="preserve" bytes="185099">&lt;languages/&gt;
 &lt;translate&gt;
 &lt;!--T:1--&gt;
 '''Galar''' is the eighth [[Regions|Region]] in the Pokéclicker world. The Pokédex for this region contains 108 Pokémon from Grookey #810 to Calyrex #898. '''This Page is currently NOT finished'''
@@ -62,7 +62,7 @@
 }}{{#arraydefine:Galar_Route_4_Base_Encounters|
 &lt;u&gt;''Land:''&lt;/u&gt; [[File:Yamper.png|30px]]Yamper, [[File:Cutiefly.png|30px]]Cutiefly, [[File:Wooloo.png|30px]]Wooloo, [[File:Milcery.png|30px]]Milcery, [[File:Galarian Meowth.png|30px]]Galarian Meowth, [[File:Budew.png|30px]]Budew, [[File:Ferroseed.png|30px]]Ferroseed, [[File:Joltik.png|30px]]Joltik, [[File:Pikachu.png|30px]]Pikachu, [[File:Eevee.png|30px]]Eevee, [[File:Electrike.png|30px]]Electrike, [[File:Pumpkaboo (Average).png|30px]]Pumpkaboo (Average), [[File:Pumpkaboo (Small).png|30px]]Pumpkaboo (Small), [[File:Pumpkaboo (Large).png|30px]]Pumpkaboo (Large), [[File:Pumpkaboo (Super Size).png|30px]]Pumpkaboo (Super Size), [[File:Diglett.png|30px]]Diglett &lt;br&gt; &lt;u&gt;''Water:''&lt;/u&gt; [[File:Magikarp.png|30px]]Magikarp, [[File:Goldeen.png|30px]]Goldeen, [[File:Chewtle.png|30px]]Chewtle &lt;br&gt; &lt;u&gt;''Headbutt:''&lt;/u&gt; [[File:Skwovet.png|30px]]Skwovet
 }}{{#arraydefine:Galar_Route_5_Base_Encounters|
-&lt;u&gt;''Land:''&lt;/u&gt; [[File:Dottler.png|30px]]Dottler, [[File:Drifloon.png|30px]]Drifloon, [[File:Applin.png|30px]]Applin, [[File:Eldegoss.png|30px]]Eldegoss, [[File:Galarian Farfetch'd.png|30px]]Galarian Farfetch'd, [[File:Wobbuffet.png|30px]]Wobbuffet, [[File:Minccino.png|30px]]Minccino, [[File:Spritzee.png|30px]]Spritzee, [[File:Swirlix.png|30px]]Swirlix, [[File:Stufful.png|30px]]Stufful, [[File:Espurr.png|30px]]Espurr, [[File:Nincada.png|30px]]Nincada, [[File:Dewpider.png|30px]], [[File:Nuzleaf.png|30px]]Nuzleaf, [[File:Lombre.png|30px]]Lombre &lt;br&gt; &lt;u&gt;''Water:''&lt;/u&gt; [[File:Magikarp.png|30px]]Magikarp, [[File:Chewtle.png|30px]]Chewtle, [[File:Goldeen.png|30px]]Goldeen &lt;br&gt; &lt;u&gt;''Headbutt:''&lt;/u&gt; [[File:Skwovet.png|30px]]Skwovet
+&lt;u&gt;''Land:''&lt;/u&gt; [[File:Dottler.png|30px]]Dottler, [[File:Drifloon.png|30px]]Drifloon, [[File:Applin.png|30px]]Applin, [[File:Eldegoss.png|30px]]Eldegoss, [[File:Galarian Farfetch'd.png|30px]]Galarian Farfetch'd, [[File:Wobbuffet.png|30px]]Wobbuffet, [[File:Minccino.png|30px]]Minccino, [[File:Spritzee.png|30px]]Spritzee, [[File:Swirlix.png|30px]]Swirlix, [[File:Stufful.png|30px]]Stufful, [[File:Espurr.png|30px]]Espurr, [[File:Nincada.png|30px]]Nincada, [[File:Dewpider.png|30px]]Dewpider, [[File:Nuzleaf.png|30px]]Nuzleaf, [[File:Lombre.png|30px]]Lombre &lt;br&gt; &lt;u&gt;''Water:''&lt;/u&gt; [[File:Magikarp.png|30px]]Magikarp, [[File:Chewtle.png|30px]]Chewtle, [[File:Goldeen.png|30px]]Goldeen &lt;br&gt; &lt;u&gt;''Headbutt:''&lt;/u&gt; [[File:Skwovet.png|30px]]Skwovet
 }}{{#arraydefine:Galar_Motostoke_Outskirts_Base_Encounters|
 &lt;u&gt;''Land:''&lt;/u&gt; [[File:Impidimp.png|30px]]Impidimp, [[File:Chewtle.png|30px]]Chewtle, [[File:Koffing.png|30px]]Koffing, [[File:Hatenna.png|30px]]Hatenna, [[File:Noctowl.png|30px]]Noctowl, [[File:Throh.png|30px]]Throh, [[File:Sawk.png|30px]]Sawk, [[File:Sudowoodo.png|30px]]Sudowoodo, [[File:Salandit.png|30px]]Salandit, [[File:Pawniard.png|30px]]Pawniard, [[File:Scraggy.png|30px]]Scraggy, [[File:Croagunk.png|30px]]Croagunk, [[File:Roggenrola.png|30px]]Roggenrola
 }}{{#arraydefine:Galar_Motostoke_Riverbank_Base_Encounters|
@@ -456,7 +456,7 @@
 ! North Lake Miloch
 |-
 | {{#arrayprint:Galar_North_Lake_Miloch_Base_Encounters}}&lt;br&gt;
-&lt;u&gt;''Weather:''&lt;/u&gt; [[File:Machop.png|30px]]Machop, [[File:Gastly.png|30px]]Gastly, [[File:Stufful.png|30px]]Stufful, [[File:Purrloin.png|30px]]Purrloin, [[File:Drifloon.png|30px]], [[File:Wingull.png|30px]]Wingull, [[File:Seismitoad.png|30px]]Seismitoad, [[File:Xatu.png|30px]]Xatu, [[File:Gyarados.png|30px]]Gyarados, [[File:Jellicent.png|30px]]Jellicent, [[File:Drifblim.png|30px]]Drifblim, [[File:Whiscash.png|30px]]Whiscash
+&lt;u&gt;''Weather:''&lt;/u&gt; [[File:Machop.png|30px]]Machop, [[File:Gastly.png|30px]]Gastly, [[File:Stufful.png|30px]]Stufful, [[File:Purrloin.png|30px]]Purrloin, [[File:Drifloon.png|30px]]Drifloon, [[File:Wingull.png|30px]]Wingull, [[File:Seismitoad.png|30px]]Seismitoad, [[File:Xatu.png|30px]]Xatu, [[File:Gyarados.png|30px]]Gyarados, [[File:Jellicent.png|30px]]Jellicent, [[File:Drifblim.png|30px]]Drifblim, [[File:Whiscash.png|30px]]Whiscash
 |-
 ! Axew's Eye
 |-
@@ -2962,12 +2962,12 @@
 [[Category:Regions]]
 &lt;/translate&gt;</text>
     <contributor>
-      <username>ThePantMan</username>
-      <id>310</id>
+      <username>Razrushil</username>
+      <id>317</id>
     </contributor>
-    <comment>/* Typo */</comment>
+    <comment>/* Routes */ adding a couple if missing pokemon names. there might be more needed</comment>
     <model>wikitext</model>
-    <parentid>41517</parentid>
-    <sha1>75adf458cd2400fd4a66f6b8689daf91a81e42ba</sha1>
+    <parentid>41518</parentid>
+    <sha1>143602b08e807f756aae10cc6dabb5ec081bee3a</sha1>
   </revision>
 </page></mediawiki>

@@ -1,11 +1,12 @@
-<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en"><page>
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
   <title>Held Items</title>
   <ns>0</ns>
   <id>16165</id>
   <revision>
-    <id>42401</id>
-    <timestamp>2023-01-01T10:45:12Z</timestamp>
-    <text space="preserve" bytes="5840">&lt;languages/&gt;
+    <id>42404</id>
+    <timestamp>2023-01-04T21:25:52Z</timestamp>
+    <text space="preserve" bytes="5983">&lt;languages/&gt;
 &lt;translate&gt;
 &lt;!--T:1--&gt;
 {{Infobox battle item
@@ -73,6 +74,8 @@ Held items can be found in [[Shops]], as Loot in [[Dungeons]] and as [[Rare Hold
 |-
 | {{Bag2|Wonder Chest}} || [[Shops#Johto: Locations &amp; Items|Violet City Shop]] || N/A || Increases EXP gained by 15%
 |-
+| {{Bag2|Light Ball}} || Acquired from defeating [[File:Trainer_Red.png|30px]] Red in {{Bag2|Mt Silver}} || Pikachu || Raises attack by 30%
+|-
 | {{Bag2|Soul Dew}} || [[Rare Hold Items|Rare Hold Item]] from [[File:Latias.png|30px]] Latias and [[File:Latios.png|30px]] Latios || Latios and Latios || Raises attack by 50%
 |-
 | {{Bag2|Adamant Orb}} || [[Rare Hold Items|Rare Hold Item]] from [[File:Dialga.png|30px]] Dialga || Dialga || Raises attack by 50%
@@ -91,12 +94,12 @@ Held items can be found in [[Shops]], as Loot in [[Dungeons]] and as [[Rare Hold
 [[Category:Items]] [[Category:Held Items]]
 &lt;/translate&gt;</text>
     <contributor>
-      <username>Fincyril</username>
-      <id>649</id>
+      <username>Razrushil</username>
+      <id>317</id>
     </contributor>
-    <comment>correction in the number of item which can be held</comment>
+    <comment>/* List of items */ not a rare hold item</comment>
     <model>wikitext</model>
-    <parentid>41674</parentid>
-    <sha1>a00e00f35f8958f14af8bb358701750b9ea1dfc5</sha1>
+    <parentid>42403</parentid>
+    <sha1>a0febdf4f775db1ebf422ac65380fc9ac7bc1a6a</sha1>
   </revision>
 </page></mediawiki>
