@@ -4,9 +4,9 @@
   <ns>0</ns>
   <id>16165</id>
   <revision>
-    <id>42410</id>
-    <timestamp>2023-01-06T12:15:14Z</timestamp>
-    <text space="preserve" bytes="5983">&lt;languages/&gt;
+    <id>42421</id>
+    <timestamp>2023-01-08T06:10:32Z</timestamp>
+    <text space="preserve" bytes="5903">&lt;languages/&gt;
 &lt;translate&gt;
 &lt;!--T:1--&gt;
 {{Infobox battle item
@@ -22,7 +22,7 @@
 
 &lt;!--T:3--&gt;
 ==Usage== 
-Held Items can be found in an tab on the Item menu. There is no limitation in the number of item which can be held. A Held Item is consumed when equipped and '''cannot be re-used''' - it will be removed from your inventory when it is unequipped.&lt;br&gt;
+Held Items can be found in an tab on the Item menu. You can only have six Pokémon holding Held Items at once, and you can't use a single item type more than once simultaneously. A Held Item is consumed when equipped and '''cannot be re-used''' - it will be removed from your inventory when it is unequipped.&lt;br&gt;
 
 &lt;!--T:4--&gt;
 To equip Held Items your Pokémon will typically need to meet some requirement. For example, to equip the Black Belt your desired Pokémon must be a Fighting type. To equip the Macho Brace your Pokémon must be at least ''Contagious'' with Pokérus.
@@ -36,7 +36,7 @@ Held items can be found in [[Shops]], as Loot in [[Dungeons]] and as [[Rare Hold
 {|class="wikitable sortable"
 ! Name !! Location !! Requirement !! Effect
 |-
-| {{Bag2|Black Belt}} || {{Bag2|Mt Mortar}} &lt;br&gt; {{Bag2|Mt. Pyre}} &lt;br&gt; {{Bag2|Reflection Cave}} || [[File:Fighting_Type_icon.png|20px]]Fighting type || rowspan=16|Raises attack by 20%
+| {{Bag2|Black Belt}} || {{Bag2|Mt Mortar}} &lt;br&gt; {{Bag2|Mt. Pyre}} &lt;br&gt; {{Bag2|Reflection Cave}} || [[File:Fighting_Type_icon.png|20px]]Fighting type || rowspan=16|Raises attack by 10%
 |-
 | {{Bag2|Black Glasses}} || {{Bag2|Team Rockets Hideout}} &lt;br&gt; {{Bag2|Newmoon Island}} &lt;br&gt; {{Bag2|Team Flare Secret HQ}} || [[File:Dark_Type_icon.png|20px]]Dark type
 |-
@@ -74,8 +74,6 @@ Held items can be found in [[Shops]], as Loot in [[Dungeons]] and as [[Rare Hold
 |-
 | {{Bag2|Wonder Chest}} || [[Shops#Johto: Locations &amp; Items|Violet City Shop]] || N/A || Increases EXP gained by 15%
 |-
-| {{Bag2|Light Ball}} || Acquired from defeating [[File:Trainer_Red.png|30px]] Red in {{Bag2|Mt Silver}} || Pikachu || Raises attack by 30%
-|-
 | {{Bag2|Soul Dew}} || [[Rare Hold Items|Rare Hold Item]] from [[File:Latias.png|30px]] Latias and [[File:Latios.png|30px]] Latios || Latios and Latios || Raises attack by 50%
 |-
 | {{Bag2|Adamant Orb}} || [[Rare Hold Items|Rare Hold Item]] from [[File:Dialga.png|30px]] Dialga || Dialga || Raises attack by 50%
@@ -94,12 +92,12 @@ Held items can be found in [[Shops]], as Loot in [[Dungeons]] and as [[Rare Hold
 [[Category:Items]] [[Category:Held Items]]
 &lt;/translate&gt;</text>
     <contributor>
-      <username>Iloli</username>
-      <id>778</id>
+      <username>Slk</username>
+      <id>368</id>
     </contributor>
-    <comment>/* List of items */</comment>
+    <comment>Undo revision 42401 by [[Special:Contributions/Fincyril|Fincyril]] ([[User talk:Fincyril|talk]])</comment>
     <model>wikitext</model>
-    <parentid>42409</parentid>
-    <sha1>3991aeb7c7f56d6727fca431f689cc828cbc0564</sha1>
+    <parentid>42420</parentid>
+    <sha1>c0ca5d07610806a38ba8e3c258ed252ab4ee85ff</sha1>
   </revision>
 </page></mediawiki>
