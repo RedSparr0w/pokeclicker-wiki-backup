@@ -4,8 +4,8 @@
   <ns>0</ns>
   <id>16497</id>
   <revision>
-    <id>42423</id>
-    <timestamp>2023-01-08T06:13:24Z</timestamp>
+    <id>42463</id>
+    <timestamp>2023-03-19T02:22:47Z</timestamp>
     <text space="preserve" bytes="11212">&lt;languages/&gt;
 &lt;translate&gt;
 &lt;!--T:1--&gt;
@@ -41,9 +41,9 @@ You can find the Battle Café in the following locations:
 &lt;!--T:7--&gt;
 To spin your Milcery you need to select one of the seven available sweets. Each sweet costs both a different amount and type of [[Berries]]. Additionally, you must select both a number of spins, and a spin direction (either clockwise or counterclockwise). Finally, the time of day impacts which Alcremie form is obtained. All of these factors combine in various permutations to yield 63 unique Alcremie forms. Ongoing spins in the Battle Café will continue even if the Café modal is closed. &lt;br&gt;
 It is important to note, that the time of day to obtain Alcremie forms is in line with the main series games, and not congruent with other times of day in Pokéclicker. The times are as follows:
-*Day - 5AM-7PM / 5:00-19:00
-*Dusk - 7PM-8PM / 19:00-20:00
-*Night - 7PM-5AM / 19:00-5:00
+*Day - 6AM-6PM / 6:00-18:00
+*Dusk - 5PM-6PM / 17:00-18:00
+*Night - 6PM-6AM / 18:00-6:00
 
 ===Sweet prices=== &lt;!--T:8--&gt;
 
@@ -202,12 +202,12 @@ The table below shows all the conditions needed to evolve the 63 Alcremie forms 
 |}
 &lt;/translate&gt;</text>
     <contributor>
-      <username>Slk</username>
-      <id>368</id>
+      <username>ThePantMan</username>
+      <id>310</id>
     </contributor>
-    <comment>Undo revision 42406 by [[Special:Contributions/ThePantMan|ThePantMan]] ([[User talk:ThePantMan|talk]])</comment>
+    <comment>Reverted edits by [[Special:Contributions/Slk|Slk]] ([[User talk:Slk|talk]]) to last revision by [[User:ThePantMan|ThePantMan]]</comment>
     <model>wikitext</model>
-    <parentid>42422</parentid>
-    <sha1>b705433b7cc92f036c7b402df7b38bd2c1f74940</sha1>
+    <parentid>42423</parentid>
+    <sha1>93b0f923807a030393a7af04543a535ca973799a</sha1>
   </revision>
 </page></mediawiki>
