@@ -1,45 +1,33 @@
-<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
-<page>
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en"><page>
   <title>Dungeon Tokens</title>
   <ns>0</ns>
   <id>198</id>
   <revision>
-    <id>40756</id>
-    <timestamp>2022-11-05T18:51:26Z</timestamp>
-    <text space="preserve" bytes="49541">&lt;languages/&gt;
-&lt;translate&gt;
-&lt;!--T:1--&gt;
-[[File:DungeonToken.png|thumb|200px|A Dungeon Token]]
+    <id>42473</id>
+    <timestamp>2023-04-22T16:50:18Z</timestamp>
+    <text space="preserve" bytes="93524">[[File:DungeonToken.png|thumb|200px|A Dungeon Token]]
 
-&lt;!--T:2--&gt;
 ==Description==
 '''Dungeon Tokens''' are blue tokens earned when a Pokémon is caught. They are consumables that are primarily used as a currency to enter '''[[Dungeons]].'''
 
-==Formulas== &lt;!--T:3--&gt;
+==Formulas==
 
-&lt;!--T:4--&gt;
 Dungeon Tokens are obtained via the following formula. Each Dungeon has an associated route that is approximately the same difficulty that is used in this calculation.
 
-&lt;!--T:5--&gt;
 &lt;math&gt;\colorbox{White}{$\text{Dungeon Tokens} = \text{max}(1, (6 \times \frac{\text{route} * 2}{\frac{2.8}{1 + \frac{\text{region}}{3}}})^{1.08} \times \text{Achievement Bonus}$}&lt;/math&gt;
 
-&lt;!--T:6--&gt;
 A rate of Average Dungeon Tokens Gained per Second has been calculated for each route in order to calculate the most efficient routes for Dungeon Token Farming in each region. The formula used to calculate the rates detailed on this page is as follows: &lt;br&gt;
 
-&lt;!--T:7--&gt;
 &lt;center&gt;&lt;math&gt;\colorbox{White}{$\frac {\text{Dungeon Tokens} \times \text{Average Catch%}} {\text{Defeat Time} + \text{Catch Time}}$}&lt;/math&gt;&lt;/center&gt; &lt;br&gt;
 
-&lt;!--T:8--&gt;
 '''Dungeon Tokens''' and '''Average Catch%''' are route specific constants. &lt;br&gt;
 '''Defeat Time''' represents the time taken to defeat a Pokémon and is a constant (defeat time = 1 second). &lt;br&gt;
 '''Catch Time''' is a ball specific constant (see more information on this ball-specific constant in [[Pokéballs]]).
 
-==Obtaining Dungeon Tokens== &lt;!--T:9--&gt;
+==Obtaining Dungeon Tokens==
 
-&lt;!--T:10--&gt;
 The following tables present the relevant information for gaining Dungeon Tokens. The most efficient routes are included in the [[Dungeon Tokens#Optimal Farming Routes|Optimal Farming Routes]] table. All route rates are also included below in subsequent tables. &lt;br&gt;
 
-&lt;!--T:11--&gt;
 The columns included in each table represent all the various combinations of the four standard [[Pokéballs]] and the [[Magic Ball]].
 &lt;br&gt;
 {| class="wikitable sortable"
@@ -57,19 +45,15 @@ The columns included in each table represent all the various combinations of the
 | UB + MB || Both Ultraballs and Magic Ball
 |}
 
-&lt;!--T:12--&gt;
 Importantly, the following tables assume two things:
 
-&lt;!--T:13--&gt;
 # You can defeat these routes in 1-shot
 # You have the [[Magic Ball]] at max level (5)
 
-&lt;!--T:14--&gt;
 If either of these conditions is not met, it is possible that the most efficient route will not be the one listed in the table and that rates of Average Dungeon Tokens Gained per Second may be diminished.
 
-== Optimal Farming Routes == &lt;!--T:15--&gt;
-
-&lt;!--T:16--&gt;
+== Optimal Farming Routes ==
+===By Region===
 {| class="wikitable sortable"
 |-
 ! Region !! PB !! PB + MB !! GB !! GB + MB !! UB !! UB + MB
@@ -86,17 +70,45 @@ If either of these conditions is not met, it is possible that the most efficient
 |-
 | [[Kalos]] || Route 2 || Route 2 || Route 2 || Route 2 || Route 2 || Route 2
 |-
-| [[Alola]] || Route 6 || Route 6 || Route 6 || Route 6 || Route 6 || Route 6
+| [[Alola]] || Route 4 || Route 4 || Route 4 || Route 4 || Route 4 || Route 4
 |-
+| [[Galar]] || Route 2 || Route 2 || Route 2 || Path to the Peak || Route 2 || Path to the Peak
+|}
+'''*Note:''' Galar's optimal routes were chosen taking the average of the optimal routes by [[Weather]] type. Check [[Dungeon Tokens#Galar's Optimal Routes by Weather|next section]] for more details.
+
+===Galar's Optimal Routes by Weather===
+Due to weather affecting encounters in [[Galar]], the optimal routes change accordingly:
+{| class="mw-collapsible mw-collapsed wikitable sortable"
+|-
+! Weather !! PB !! PB + MB !! GB !! GB + MB !! UB !! UB + MB
+|-
+| [[File:Clear.png|25px]] Clear || Route 2 || Route 2 || Route 2 || Old Cemetery || Route 2 || Old Cemetery
+|-
+| [[File:Overcast.png|25px]] Overcast || Route 2 || Route 2 || Route 2 || Route 2 || Route 2 || Route 2
+|-
+| [[File:Rain.png|25px]] Rain || Route 2 || Route 2 || Route 2 || Path to the Peak || Route 2 || Path to the Peak
+|-
+| [[File:Thunderstorm.png|25px]] Thunderstorm || Route 2 || Route 2 || Route 2 || Path to the Peak || Route 2 || Path to the Peak
+|-
+| [[File:Sunny.png|25px]] Sunny || Route 2 || Route 2 || Route 2 || Route 2 || Route 2 || Route 2
+|-
+| [[File:Snow.png|25px]] Snow || Route 2 || Route 2 || Route 2 || Path to the Peak || Route 2 || Path to the Peak
+|-
+| [[File:Blizzard.png|25px]] Blizzard || Route 2 || Route 2 || Route 2 || Route 2 || Route 2 || Route 2
+|-
+| [[File:Sandstorm.png|25px]] Sandstorm || Route 2 || Route 2 || Route 2 || Path to the Peak || Route 2 || Path to the Peak
+|-
+| [[File:Fog.png|25px]] Fog || Route 2 || Route 2 || Route 2 || Path to the Peak || Route 2 || Path to the Peak
+|-
+| [[File:Hail.png|25px]] Hail / [[File:Windy.png|25px]] Windy || Route 2 || Route 2 || Route 2 || Path to the Peak || Route 2 || Path to the Peak
 |}
 
-&lt;!--T:17--&gt;
+
+
 ==Regional Rate Tables==
 The following tables provide detailed information for every route, separated by region. DT represents the DT you gain per capture on each route, and the values underneath each Pokéball/Magic Ball combination represent the average Dungeon Tokens you will gain per second.
 
-&lt;!--T:18--&gt;
 === [[Kanto]] ===
-====Main Region + Sevii Islands 123====
 {| class="mw-collapsible mw-collapsed wikitable sortable"
 |-
 ! Route !! DT !! PB !! PB + MB !! GB !! GB + MB !! UB !! UB + MB
@@ -129,7 +141,7 @@ The following tables provide detailed information for every route, separated by 
 |-
 | Kanto Route 7 || 72 || 18.88 || 22.08 || 23.04 || 26.64 || 28.39 || 32.5
 |-
-| Kanto Route 12 || 77 || 16.77 || 20.19 || 20.79 || 24.64 || 25.96 || 30.36
+| Kanto Route 12 || 77 || 15.74 || 19.16 || 19.64 || 23.48 || 24.64 || 29.04
 |-
 | Kanto Route 13 || 83 || 16.97 || 20.66 || 21.16 || 25.31 || 26.56 || 31.3
 |-
@@ -137,7 +149,7 @@ The following tables provide detailed information for every route, separated by 
 |-
 | Kanto Route 15 || 94 || 18.8 || 22.98 || 23.5 || 28.2 || 29.54 || 34.91
 |-
-| Kanto Route 16 || 100 || 23.56 || 28 || 29 || 34 || 36 || 41.71
+| Kanto Route 16 || 100 || 20 || 24.44 || 25 || 30 || 31.43 || 37.14
 |-
 | Kanto Route 17 || 106 || 22.61 || 27.32 || 28.09 || 33.39 || 35.13 || 41.19
 |-
@@ -158,42 +170,9 @@ The following tables provide detailed information for every route, separated by 
 | Bond Bridge || 129 || 28.09 || 33.83 || 34.83 || 41.28 || 43.49 || 50.86
 |-
 | Kanto Route 23 || 134 || 29.18 || 35.14 || 36.18 || 42.88 || 45.18 || 52.83
+|-
 |}
 
-&lt;!--T:35--&gt;
-====Sevii Islands 4567====
-{| class="mw-collapsible mw-collapsed wikitable sortable"
-|-
-! Route !! DT !! PB !! PB + MB !! GB !! GB + MB !! UB !! UB + MB
-|-
-| Five Isle Meadow || 158 || 30.9 || 37.92 || 38.71 || 46.61 || 48.75 || 57.78
-|-
-| Memorial Pillar || 158 || 29.49 || 36.52 || 37.13 || 45.03 || 46.95 || 55.98
-|-
-| Water Labyrinth || 158 || 29.49 || 36.52 || 37.13 || 45.03 || 46.95 || 55.98
-|-
-| Resort Gorgeous || 158 || 29.49 || 36.52 || 37.13 || 45.03 || 46.95 || 55.98
-|-
-| Water Path || 158 || 30.9 || 37.92 || 38.71 || 46.61 || 48.75 || 57.78
-|-
-| Green Path || 158 || 28.09 || 35.11 || 35.55 || 43.45 || 45.14 || 54.17
-|-
-| Outcast Island || 158 || 28.09 || 35.11 || 35.55 || 43.45 || 45.14 || 54.17
-|-
-| Ruin Valley || 158 || 31.6 || 38.62 || 39.5 || 47.4 || 49.66 || 58.69
-|-
-| Canyon Entrance || 158 || 33.71 || 40.73 || 41.87 || 49.77 || 52.37 || 61.39
-|-
-| Sevault Canyon || 158 || 23.88 || 30.9 || 30.81 || 38.71 || 39.73 || 48.75
-|-
-| Valencia Island || 158 || 24.58 || 31.6 || 31.6 || 39.5 || 40.63 || 49.66
-|-
-| Pinkan Forest || 158 || 33 || 40.03 || 41.08 || 48.98 || 51.46 || 60.49
-|-
-| Pinkan Plains || 158 || 43.54 || 50.56 || 52.93 || 60.83 || 65.01 || 74.03
-|}
-
-&lt;!--T:19--&gt;
 === [[Johto]] ===
 {| class="mw-collapsible mw-collapsed wikitable sortable"
 |-
@@ -215,7 +194,7 @@ The following tables provide detailed information for every route, separated by 
 |-
 | Johto Route 35 || 248 || 55.11 || 66.13 || 68.2 || 80.6 || 85.03 || 99.2
 |-
-| Johto Route 36 || 256 || 59.16 || 70.54 || 72.96 || 85.76 || 90.7 || 105.33
+| Johto Route 36 || 256 || 56.89 || 68.27 || 70.4 || 83.2 || 87.77 || 102.4
 |-
 | Johto Route 37 || 264 || 61.01 || 72.75 || 75.24 || 88.44 || 93.53 || 108.62
 |-
@@ -247,83 +226,104 @@ The following tables provide detailed information for every route, separated by 
 |-
 |}
 
-&lt;!--T:20--&gt;
 === [[Hoenn]] ===
+&lt;!-- Arrays --&gt;
+{{#arraydefine:Hoenn_General-1|
+Hoenn Route 101 {{!}}{{!}} 484 {{!}}{{!}} 135.52 {{!}}{{!}} 157.03 {{!}}{{!}} 164.56 {{!}}{{!}} 188.76 {{!}}{{!}} 201.9 {{!}}{{!}} 229.55
+{{!}}-
+{{!}} Hoenn Route 103 {{!}}{{!}} 495 {{!}}{{!}} 99 {{!}}{{!}} 121 {{!}}{{!}} 123.75 {{!}}{{!}} 148.5 {{!}}{{!}} 155.57 {{!}}{{!}} 183.86
+{{!}}-
+{{!}} Hoenn Route 102 {{!}}{{!}} 505 {{!}}{{!}} 132.42 {{!}}{{!}} 154.87 {{!}}{{!}} 161.6 {{!}}{{!}} 186.85 {{!}}{{!}} 199.11 {{!}}{{!}} 227.97
+{{!}}-
+{{!}} Hoenn Route 104 {{!}}{{!}} 516 {{!}}{{!}} 116.96 {{!}}{{!}} 139.89 {{!}}{{!}} 144.48 {{!}}{{!}} 170.28 {{!}}{{!}} 179.86 {{!}}{{!}} 209.35
+{{!}}-
+{{!}} Hoenn Route 116 {{!}}{{!}} 527 {{!}}{{!}} 133.51 {{!}}{{!}} 156.93 {{!}}{{!}} 163.37 {{!}}{{!}} 189.72 {{!}}{{!}} 201.77 {{!}}{{!}} 231.88
+{{!}}-
+{{!}} Hoenn Route 110 {{!}}{{!}} 538 {{!}}{{!}} 117.16 {{!}}{{!}} 141.08 {{!}}{{!}} 145.26 {{!}}{{!}} 172.16 {{!}}{{!}} 181.38 {{!}}{{!}} 212.13
+{{!}}-
+{{!}} Hoenn Route 117 {{!}}{{!}} 548 {{!}}{{!}} 131.52 {{!}}{{!}} 155.88 {{!}}{{!}} 161.66 {{!}}{{!}} 189.06 {{!}}{{!}} 200.41 {{!}}{{!}} 231.73
+{{!}}-
+{{!}} Hoenn Route 111 {{!}}{{!}} 559 {{!}}{{!}} 144.1 {{!}}{{!}} 168.94 {{!}}{{!}} 176.09 {{!}}{{!}} 204.03 {{!}}{{!}} 217.21 {{!}}{{!}} 249.15
+{{!}}-
+{{!}} Hoenn Route 112 {{!}}{{!}} 570 {{!}}{{!}} 144.4 {{!}}{{!}} 169.73 {{!}}{{!}} 176.7 {{!}}{{!}} 205.2 {{!}}{{!}} 218.23 {{!}}{{!}} 250.8
+{{!}}-
+{{!}} Hoenn Route 113 {{!}}{{!}} 581 {{!}}{{!}} 105.87 {{!}}{{!}} 131.69 {{!}}{{!}} 133.63 {{!}}{{!}} 162.68 {{!}}{{!}} 169.32 {{!}}{{!}} 202.52
+{{!}}-
+{{!}} Hoenn Route 114 {{!}}{{!}} 592 {{!}}{{!}} 128.92 {{!}}{{!}} 155.24 {{!}}{{!}} 159.84 {{!}}{{!}} 189.44 {{!}}{{!}} 199.59 {{!}}{{!}} 233.42
+{{!}}-
+{{!}} Hoenn Route 115 {{!}}{{!}} 603 {{!}}{{!}} 117.92 {{!}}{{!}} 144.72 {{!}}{{!}} 147.73 {{!}}{{!}} 177.88 {{!}}{{!}} 186.07 {{!}}{{!}} 220.53
+{{!}}-
+{{!}} Hoenn Route 105 {{!}}{{!}} 613 {{!}}{{!}} 117.15 {{!}}{{!}} 144.4 {{!}}{{!}} 147.12 {{!}}{{!}} 177.77 {{!}}{{!}} 185.65 {{!}}{{!}} 220.68
+{{!}}-
+{{!}} Hoenn Route 106 {{!}}{{!}} 624 {{!}}{{!}} 119.25 {{!}}{{!}} 146.99 {{!}}{{!}} 149.76 {{!}}{{!}} 180.96 {{!}}{{!}} 188.98 {{!}}{{!}} 224.64
+{{!}}-
+{{!}} Hoenn Route 107 {{!}}{{!}} 635 {{!}}{{!}} 121.36 {{!}}{{!}} 149.58 {{!}}{{!}} 152.4 {{!}}{{!}} 184.15 {{!}}{{!}} 192.31 {{!}}{{!}} 228.6
+{{!}}-
+{{!}} Hoenn Route 108 {{!}}{{!}} 646 {{!}}{{!}} 123.46 {{!}}{{!}} 152.17 {{!}}{{!}} 155.04 {{!}}{{!}} 187.34 {{!}}{{!}} 195.65 {{!}}{{!}} 232.56
+{{!}}-
+{{!}} Hoenn Route 109 {{!}}{{!}} 657 {{!}}{{!}} 125.56 {{!}}{{!}} 154.76 {{!}}{{!}} 157.68 {{!}}{{!}} 190.53 {{!}}{{!}} 198.98 {{!}}{{!}} 236.52
+{{!}}-
+{{!}} Hoenn Route 118 {{!}}{{!}} 668 {{!}}{{!}} 121.72 {{!}}{{!}} 151.41 {{!}}{{!}} 153.64 {{!}}{{!}} 187.04 {{!}}{{!}} 194.67 {{!}}{{!}} 232.85| 
+}}
+{{#arraydefine:Hoenn_General-2|
+Hoenn Route 120 {{!}}{{!}} 690 {{!}}{{!}} 156.4 {{!}}{{!}} 187.07 {{!}}{{!}} 193.2 {{!}}{{!}} 227.7 {{!}}{{!}} 240.51 {{!}}{{!}} 279.94
+{{!}}-
+{{!}} Hoenn Route 121 {{!}}{{!}} 701 {{!}}{{!}} 149.55 {{!}}{{!}} 180.7 {{!}}{{!}} 185.77 {{!}}{{!}} 220.81 {{!}}{{!}} 232.33 {{!}}{{!}} 272.39
+{{!}}-
+{{!}} Hoenn Route 122 {{!}}{{!}} 712 {{!}}{{!}} 126.58 {{!}}{{!}} 158.22 {{!}}{{!}} 160.2 {{!}}{{!}} 195.8 {{!}}{{!}} 203.43 {{!}}{{!}} 244.11
+{{!}}-
+{{!}} Hoenn Route 123 {{!}}{{!}} 723 {{!}}{{!}} 154.24 {{!}}{{!}} 186.37 {{!}}{{!}} 191.59 {{!}}{{!}} 227.75 {{!}}{{!}} 239.62 {{!}}{{!}} 280.94
+{{!}}-
+{{!}} Hoenn Route 124 {{!}}{{!}} 734 {{!}}{{!}} 127.23 {{!}}{{!}} 159.85 {{!}}{{!}} 161.48 {{!}}{{!}} 198.18 {{!}}{{!}} 205.52 {{!}}{{!}} 247.46
+{{!}}-
+{{!}} Hoenn Route 125 {{!}}{{!}} 745 {{!}}{{!}} 132.44 {{!}}{{!}} 165.56 {{!}}{{!}} 167.63 {{!}}{{!}} 204.88 {{!}}{{!}} 212.86 {{!}}{{!}} 255.43
+{{!}}-
+{{!}} Hoenn Route 126 {{!}}{{!}} 756 {{!}}{{!}} 131.04 {{!}}{{!}} 164.64 {{!}}{{!}} 166.32 {{!}}{{!}} 204.12 {{!}}{{!}} 211.68 {{!}}{{!}} 254.88
+{{!}}-
+{{!}} Hoenn Route 127 {{!}}{{!}} 767 {{!}}{{!}} 136.36 {{!}}{{!}} 170.44 {{!}}{{!}} 172.58 {{!}}{{!}} 210.93 {{!}}{{!}} 219.14 {{!}}{{!}} 262.97
+{{!}}-
+{{!}} Hoenn Route 128 {{!}}{{!}} 778 {{!}}{{!}} 145.23 {{!}}{{!}} 179.8 {{!}}{{!}} 182.83 {{!}}{{!}} 221.73 {{!}}{{!}} 231.18 {{!}}{{!}} 275.63
+{{!}}-
+{{!}} Hoenn Route 129 {{!}}{{!}} 789 {{!}}{{!}} 129.75 {{!}}{{!}} 164.81 {{!}}{{!}} 165.69 {{!}}{{!}} 205.14 {{!}}{{!}} 211.9 {{!}}{{!}} 256.99
+{{!}}-
+{{!}} Hoenn Route 130 {{!}}{{!}} 800 {{!}}{{!}} 138.67 {{!}}{{!}} 174.22 {{!}}{{!}} 176 {{!}}{{!}} 216 {{!}}{{!}} 224 {{!}}{{!}} 269.71
+{{!}}-
+{{!}} Hoenn Route 131 {{!}}{{!}} 811 {{!}}{{!}} 144.18 {{!}}{{!}} 180.22 {{!}}{{!}} 182.47 {{!}}{{!}} 223.03 {{!}}{{!}} 231.71 {{!}}{{!}} 278.06
+{{!}}-
+{{!}} Hoenn Route 132 {{!}}{{!}} 822 {{!}}{{!}} 153.44 {{!}}{{!}} 189.97 {{!}}{{!}} 193.17 {{!}}{{!}} 234.27 {{!}}{{!}} 244.25 {{!}}{{!}} 291.22
+{{!}}-
+{{!}} Hoenn Route 133 {{!}}{{!}} 833 {{!}}{{!}} 155.49 {{!}}{{!}} 192.52 {{!}}{{!}} 195.75 {{!}}{{!}} 237.4 {{!}}{{!}} 247.52 {{!}}{{!}} 295.12
+{{!}}-
+{{!}} Hoenn Route 134 {{!}}{{!}} 844 {{!}}{{!}} 157.55 {{!}}{{!}} 195.06 {{!}}{{!}} 198.34 {{!}}{{!}} 240.54 {{!}}{{!}} 250.79 {{!}}{{!}} 299.02| 
+}}
+
+&lt;tabs&gt;
+&lt;tab name="Clear / Overcast / Sandstorm"&gt;
 {| class="mw-collapsible mw-collapsed wikitable sortable"
 |-
 ! Route !! DT !! PB !! PB + MB !! GB !! GB + MB !! UB !! UB + MB
 |-
-| Hoenn Route 101 || 484 || 135.52 || 157.03 || 164.56 || 188.76 || 201.9 || 229.55
+| {{#arrayprint:Hoenn_General-1}}
 |-
-| Hoenn Route 103 || 495 || 101.2 || 123.2 || 126.23 || 150.97 || 158.4 || 186.69
+| Hoenn Route 119 || 679 || 150.89 || 181.07 || 186.73 || 220.68 || 232.8 || 271.6
 |-
-| Hoenn Route 102 || 505 || 132.42 || 154.87 || 161.6 || 186.85 || 199.11 || 227.97
-|-
-| Hoenn Route 104 || 516 || 116.96 || 139.89 || 144.48 || 170.28 || 179.86 || 209.35
-|-
-| Hoenn Route 116 || 527 || 133.51 || 156.93 || 163.37 || 189.72 || 201.77 || 231.88
-|-
-| Hoenn Route 110 || 538 || 119.56 || 143.47 || 147.95 || 174.85 || 184.46 || 215.2
-|-
-| Hoenn Route 117 || 548 || 131.52 || 155.88 || 161.66 || 189.06 || 200.41 || 231.73
-|-
-| Hoenn Route 111 || 559 || 144.1 || 168.94 || 176.09 || 204.03 || 217.21 || 249.15
-|-
-| Hoenn Route 112 || 570 || 144.4 || 169.73 || 176.7 || 205.2 || 218.23 || 250.8
-|-
-| Hoenn Route 113 || 581 || 105.87 || 131.69 || 133.63 || 162.68 || 169.32 || 202.52
-|-
-| Hoenn Route 114 || 592 || 128.92 || 155.24 || 159.84 || 189.44 || 199.59 || 233.42
-|-
-| Hoenn Route 115 || 603 || 120.6 || 147.4 || 150.75 || 180.9 || 189.51 || 223.97
-|-
-| Hoenn Route 105 || 613 || 117.15 || 144.4 || 147.12 || 177.77 || 185.65 || 220.68
-|-
-| Hoenn Route 106 || 624 || 119.25 || 146.99 || 149.76 || 180.96 || 188.98 || 224.64
-|-
-| Hoenn Route 107 || 635 || 121.36 || 149.58 || 152.4 || 184.15 || 192.31 || 228.6
-|-
-| Hoenn Route 108 || 646 || 123.46 || 152.17 || 155.04 || 187.34 || 195.65 || 232.56
-|-
-| Hoenn Route 109 || 657 || 125.56 || 154.76 || 157.68 || 190.53 || 198.98 || 236.52
-|-
-| Hoenn Route 118 || 668 || 133.6 || 163.29 || 167 || 200.4 || 209.94 || 248.11
-|-
-| Hoenn Route 119 || 679 || 126.75 || 156.92 || 159.56 || 193.51 || 201.76 || 240.56
-|-
-| Hoenn Route 120 || 690 || 156.4 || 187.07 || 193.2 || 227.7 || 240.51 || 279.94
-|-
-| Hoenn Route 121 || 701 || 149.55 || 180.7 || 185.77 || 220.81 || 232.33 || 272.39
-|-
-| Hoenn Route 122 || 712 || 126.58 || 158.22 || 160.2 || 195.8 || 203.43 || 244.11
-|-
-| Hoenn Route 123 || 723 || 154.24 || 186.37 || 191.59 || 227.75 || 239.62 || 280.94
-|-
-| Hoenn Route 124 || 734 || 127.23 || 159.85 || 161.48 || 198.18 || 205.52 || 247.46
-|-
-| Hoenn Route 125 || 745 || 132.44 || 165.56 || 167.63 || 204.88 || 212.86 || 255.43
-|-
-| Hoenn Route 126 || 756 || 131.04 || 164.64 || 166.32 || 204.12 || 211.68 || 254.88
-|-
-| Hoenn Route 127 || 767 || 136.36 || 170.44 || 172.58 || 210.93 || 219.14 || 262.97
-|-
-| Hoenn Route 128 || 778 || 145.23 || 179.8 || 182.83 || 221.73 || 231.18 || 275.63
-|-
-| Hoenn Route 129 || 789 || 129.75 || 164.81 || 165.69 || 205.14 || 211.9 || 256.99
-|-
-| Hoenn Route 130 || 800 || 138.67 || 174.22 || 176 || 216 || 224 || 269.71
-|-
-| Hoenn Route 131 || 811 || 144.18 || 180.22 || 182.47 || 223.03 || 231.71 || 278.06
-|-
-| Hoenn Route 132 || 822 || 153.44 || 189.97 || 193.17 || 234.27 || 244.25 || 291.22
-|-
-| Hoenn Route 133 || 833 || 155.49 || 192.52 || 195.75 || 237.4 || 247.52 || 295.12
-|-
-| Hoenn Route 134 || 844 || 157.55 || 195.06 || 198.34 || 240.54 || 250.79 || 299.02
-|-
+| {{#arrayprint:Hoenn_General-2}}
 |}
+&lt;/tab&gt;
+&lt;tab name="Rain / Thunderstorm / Sunny / Snow / Hail / Blizzard"&gt;
+{| class="mw-collapsible mw-collapsed wikitable sortable"
+|-
+! Route !! DT !! PB !! PB + MB !! GB !! GB + MB !! UB !! UB + MB
+|-
+| {{#arrayprint:Hoenn_General-1}}
+|-
+| Hoenn Route 119 || 679 || 141.84 || 172.01 || 176.54 || 210.49 || 221.16 || 259.96
+|-
+| {{#arrayprint:Hoenn_General-2}}
+|}
+&lt;/tab&gt;
+&lt;/tabs&gt;
 
-&lt;!--T:21--&gt;
 === [[Sinnoh]] ===
 {| class="mw-collapsible mw-collapsed wikitable sortable"
 |-
@@ -391,7 +391,6 @@ The following tables provide detailed information for every route, separated by 
 |-
 |}
 
-&lt;!--T:22--&gt;
 === [[Unova]] ===
 {| class="mw-collapsible mw-collapsed wikitable sortable"
 |-
@@ -447,7 +446,6 @@ The following tables provide detailed information for every route, separated by 
 |-
 |}
 
-&lt;!--T:23--&gt;
 === [[Kalos]] ===
 {| class="mw-collapsible mw-collapsed wikitable sortable"
 ! Route !! DT !! PB !! PB + MB !! GB !! GB + MB !! UB !! UB + MB
@@ -486,7 +484,7 @@ The following tables provide detailed information for every route, separated by 
 |-
 | Kalos Route 15 || 2,753 || 428.24 || 550.6 || 550.6 || 688.25 || 707.91 || 865.23
 |-
-| Kalos Route 16 || 2,772 || 406.56 || 529.76 || 526.68 || 665.28 || 681.12 || 839.52
+| Kalos Route 16 || 2,772 || 394.24 || 517.44 || 512.82 || 651.42 || 665.28 || 823.68
 |-
 | Kalos Route 17 || 2,792 || 285.4 || 409.49 || 390.88 || 530.48 || 526.49 || 686.03
 |-
@@ -500,7 +498,6 @@ The following tables provide detailed information for every route, separated by 
 |-
 |}
 
-&lt;!--T:24--&gt;
 === [[Alola]] ===
 {| class="mw-collapsible mw-collapsed wikitable sortable"
 ! Route !! DT !! PB !! PB + MB !! GB !! GB + MB !! UB !! UB + MB
@@ -565,15 +562,980 @@ The following tables provide detailed information for every route, separated by 
 |-
 | Poni Gauntlet || 3,928 || 558.65 || 733.23 || 726.68 || 923.08 || 942.72 || 1167.18
 |-
+| Friend League Bridge || 4,311 || 1207.08 || 1398.68 || 1465.74 || 1681.29 || 1798.3 || 2044.65
+|-
+| Quick League Bridge || 4,311 || 1207.08 || 1398.68 || 1465.74 || 1681.29 || 1798.3 || 2044.65
+|-
+| Heavy League Bridge || 4,311 || 1207.08 || 1398.68 || 1465.74 || 1681.29 || 1798.3 || 2044.65
+|-
+| Great League Bridge || 4,311 || 1207.08 || 1398.68 || 1465.74 || 1681.29 || 1798.3 || 2044.65
+|-
+| Fast League Bridge || 4,311 || 1207.08 || 1398.68 || 1465.74 || 1681.29 || 1798.3 || 2044.65
+|-
+| Luxury League Bridge || 4,311 || 1207.08 || 1398.68 || 1465.74 || 1681.29 || 1798.3 || 2044.65
+|-
+| Heal League Bridge || 4,311 || 1207.08 || 1398.68 || 1465.74 || 1681.29 || 1798.3 || 2044.65
+|-
+| Ultra League Bridge || 4,311 || 1207.08 || 1398.68 || 1465.74 || 1681.29 || 1798.3 || 2044.65
+|-
+| Elite Four League Pier || 4,311 || 1207.08 || 1398.68 || 1465.74 || 1681.29 || 1798.3 || 2044.65
+|-
+| Master League Pier || 4,311 || 1207.08 || 1398.68 || 1465.74 || 1681.29 || 1798.3 || 2044.65
 |}
 
-&lt;!--T:25--&gt;
+=== [[Galar]] ===
+&lt;!-- Arrays --&gt;
+{{#arraydefine:Galar_General-1|
+Galar Route 1 {{!}}{{!}} 4,426 {{!}}{{!}} 1239.28 {{!}}{{!}} 1435.99 {{!}}{{!}} 1504.84 {{!}}{{!}} 1726.14 {{!}}{{!}} 1846.27 {{!}}{{!}} 2099.19
+{{!}}-
+{{!}} Galar Route 2 {{!}}{{!}} 4,452 {{!}}{{!}} 1246.56 {{!}}{{!}} 1444.43 {{!}}{{!}} 1513.68 {{!}}{{!}} 1736.28 {{!}}{{!}} 1857.12 {{!}}{{!}} 2111.52| 
+}}
+{{#arraydefine:Galar_General-2|
+Galar Route 3 {{!}}{{!}} 4,704 {{!}}{{!}} 1066.24 {{!}}{{!}} 1275.31 {{!}}{{!}} 1317.12 {{!}}{{!}} 1552.32 {{!}}{{!}} 1639.68 {{!}}{{!}} 1908.48
+{{!}}-
+{{!}} Galar Route 4 {{!}}{{!}} 4,729 {{!}}{{!}} 1113.94 {{!}}{{!}} 1324.12 {{!}}{{!}} 1371.41 {{!}}{{!}} 1607.86 {{!}}{{!}} 1702.44 {{!}}{{!}} 1972.67
+{{!}}-
+{{!}} Galar Route 5 {{!}}{{!}} 4,754 {{!}}{{!}} 971.93 {{!}}{{!}} 1183.22 {{!}}{{!}} 1212.27 {{!}}{{!}} 1449.97 {{!}}{{!}} 1521.28 {{!}}{{!}} 1792.94
+{{!}}-
+{{!}} Motostoke Outskirts {{!}}{{!}} 4,780 {{!}}{{!}} 892.27 {{!}}{{!}} 1104.71 {{!}}{{!}} 1123.3 {{!}}{{!}} 1362.3 {{!}}{{!}} 1420.34 {{!}}{{!}} 1693.49| 
+}}
+{{#arraydefine:Galar_General-3|
+Galar Route 6 {{!}}{{!}} 4,982 {{!}}{{!}} 907.83 {{!}}{{!}} 1129.25 {{!}}{{!}} 1145.86 {{!}}{{!}} 1394.96 {{!}}{{!}} 1451.9 {{!}}{{!}} 1736.58
+{{!}}-
+{{!}} Galar Route 7 {{!}}{{!}} 5,008 {{!}}{{!}} 756.76 {{!}}{{!}} 979.34 {{!}}{{!}} 976.56 {{!}}{{!}} 1226.96 {{!}}{{!}} 1259.15 {{!}}{{!}} 1545.33
+{{!}}-
+{{!}} Galar Route 8 {{!}}{{!}} 5,033 {{!}}{{!}} 715.8 {{!}}{{!}} 939.49 {{!}}{{!}} 931.11 {{!}}{{!}} 1182.75 {{!}}{{!}} 1207.92 {{!}}{{!}} 1495.52
+{{!}}-
+{{!}} Steamdrift Way {{!}}{{!}} 5,059 {{!}}{{!}} 697.02 {{!}}{{!}} 921.86 {{!}}{{!}} 910.62 {{!}}{{!}} 1163.57 {{!}}{{!}} 1185.25 {{!}}{{!}} 1474.34
+{{!}}-
+{{!}} Galar Route 2 Lakeside {{!}}{{!}} 5,084 {{!}}{{!}} 1107.18 {{!}}{{!}} 1333.14 {{!}}{{!}} 1372.68 {{!}}{{!}} 1626.88 {{!}}{{!}} 1714.03 {{!}}{{!}} 2004.55
+{{!}}-
+{{!}} Galar Route 9 {{!}}{{!}} 5,109 {{!}}{{!}} 544.96 {{!}}{{!}} 772.03 {{!}}{{!}} 740.8 {{!}}{{!}} 996.25 {{!}}{{!}} 992.61 {{!}}{{!}} 1284.55
+{{!}}-
+{{!}} Circhester Bay {{!}}{{!}} 5,135 {{!}}{{!}} 593.38 {{!}}{{!}} 821.6 {{!}}{{!}} 795.92 {{!}}{{!}} 1052.68 {{!}}{{!}} 1056.34 {{!}}{{!}} 1349.77
+{{!}}-
+{{!}} Outer Spikemuth {{!}}{{!}} 5,160 {{!}}{{!}} 756.8 {{!}}{{!}} 986.13 {{!}}{{!}} 980.4 {{!}}{{!}} 1238.4 {{!}}{{!}} 1267.89 {{!}}{{!}} 1562.74
+{{!}}-
+{{!}} Winter Hill Station {{!}}{{!}} 5,186 {{!}}{{!}} 668.42 {{!}}{{!}} 898.91 {{!}}{{!}} 881.62 {{!}}{{!}} 1140.92 {{!}}{{!}} 1155.74 {{!}}{{!}} 1452.08
+{{!}}-
+{{!}} Galar Route 10 {{!}}{{!}} 5,211 {{!}}{{!}} 625.32 {{!}}{{!}} 856.92 {{!}}{{!}} 833.76 {{!}}{{!}} 1094.31 {{!}}{{!}} 1101.75 {{!}}{{!}} 1399.53| 
+}}
+
+&lt;tabs&gt;
+&lt;!-- Clear Encounters --&gt;
+&lt;tab name="Clear"&gt;
+{| class="mw-collapsible mw-collapsed wikitable sortable"
+! Route !! DT !! PB !! PB + MB !! GB !! GB + MB !! UB !! UB + MB
+|-
+| {{#arrayprint:Galar_General-1}}
+|-
+| Rolling Fields || 4,477 || 835.71 || 1034.68 || 1052.1 || 1275.94 || 1330.31 || 1586.14
+|-
+| Dappled Grove || 4,502 || 880.39 || 1080.48 || 1102.99 || 1328.09 || 1389.19 || 1646.45
+|-
+| West Lake Axewell || 4,527 || 804.8 || 1006 || 1018.58 || 1244.93 || 1293.43 || 1552.11
+|-
+| East Lake Axewell || 4,552 || 768.78 || 971.09 || 978.68 || 1206.28 || 1248.55 || 1508.66
+|-
+| Giant's Seat || 4,578 || 610.4 || 813.87 || 801.15 || 1030.05 || 1046.4 || 1308
+|-
+| South Lake Miloch || 4,603 || 777.4 || 981.97 || 989.64 || 1219.8 || 1262.54 || 1525.57
+|-
+| North Lake Miloch || 4,628 || 740.48 || 946.17 || 948.74 || 1180.14 || 1216.5 || 1480.96
+|-
+| Axew's Eye || 4,653 || 579.04 || 785.84 || 767.75 || 1000.4 || 1010.37 || 1276.25
+|-
+| Watchtower Ruins || 4,679 || 935.8 || 1143.76 || 1169.75 || 1403.7 || 1470.54 || 1737.91
+|-
+| {{#arrayprint:Galar_General-2}}
+|-
+| Motostoke Riverbank || 4,805 || 704.73 || 918.29 || 912.95 || 1153.2 || 1180.66 || 1455.23
+|-
+| Bridge Field || 4,830 || 729.87 || 944.53 || 941.85 || 1183.35 || 1214.4 || 1490.4
+|-
+| Stony Wilderness || 4,856 || 690.63 || 906.45 || 898.36 || 1141.16 || 1165.44 || 1442.93
+|-
+| Giant's Mirror || 4,881 || 759.27 || 976.2 || 976.2 || 1220.25 || 1255.11 || 1534.03
+|-
+| Giant's Cap || 4,906 || 763.16 || 981.2 || 981.2 || 1226.5 || 1261.54 || 1541.89
+|-
+| Lake of Outrage || 4,932 || 438.4 || 657.6 || 616.5 || 863.1 || 845.49 || 1127.31
+|-
+| Hammerlocke Hills || 4,957 || 638.9 || 859.21 || 842.69 || 1090.54 || 1104.7 || 1387.96
+|-
+| {{#arrayprint:Galar_General-3}}
+|-
+| Fields of Honour || 5,237 || 907.75 || 1140.5 || 1152.14 || 1413.99 || 1466.36 || 1765.62
+|-
+| Soothing Wetlands || 5,262 || 865.31 || 1099.17 || 1105.02 || 1368.12 || 1413.22 || 1713.91
+|-
+| Forest of Focus || 5,288 || 940.09 || 1175.11 || 1189.8 || 1454.2 || 1510.86 || 1813.03
+|-
+| Challenge Beach || 5,313 || 850.08 || 1086.21 || 1089.16 || 1354.82 || 1396.56 || 1700.16
+|-
+| Loop Lagoon || 5,339 || 925.43 || 1162.72 || 1174.58 || 1441.53 || 1494.92 || 1800.01
+|-
+| Training Lowlands || 5,364 || 834.4 || 1072.8 || 1072.8 || 1341 || 1379.31 || 1685.83
+|-
+| Potbottom Desert || 5,390 || 718.67 || 958.22 || 943.25 || 1212.75 || 1232 || 1540
+|-
+| Challenge Road || 5,415 || 890.47 || 1131.13 || 1137.15 || 1407.9 || 1454.31 || 1763.74
+|-
+| Workout Sea || 5,441 || 870.56 || 1112.38 || 1115.4 || 1387.45 || 1430.21 || 1741.12
+|-
+| Stepping-Stone Sea || 5,466 || 947.44 || 1190.37 || 1202.52 || 1475.82 || 1530.48 || 1842.82
+|-
+| Insular Sea || 5,492 || 976.36 || 1220.44 || 1235.7 || 1510.3 || 1569.14 || 1882.97
+|-
+| Honeycalm Sea || 5,518 || 833.83 || 1079.08 || 1076.01 || 1351.91 || 1387.38 || 1702.7
+|-
+| Honeycalm Island || 5,543 || 960.79 || 1207.14 || 1219.46 || 1496.61 || 1552.04 || 1868.78
+|-
+| Slippery Slope || 5,569 || 891.04 || 1138.55 || 1141.64 || 1420.1 || 1463.85 || 1782.08
+|-
+| Frostpoint Field || 5,594 || 944.76 || 1193.39 || 1202.71 || 1482.41 || 1534.35 || 1854.01
+|-
+| Giant's Bed || 5,620 || 874.22 || 1124 || 1124 || 1405 || 1445.14 || 1766.29
+|-
+| Old Cemetery || 5,646 || 1179.39 || 1430.32 || 1467.96 || 1750.26 || 1838.98 || 2161.61
+|-
+| Giant's Foot || 5,671 || 856.95 || 1109 || 1105.85 || 1389.39 || 1425.85 || 1749.91
+|-
+| Frigid Sea || 5,697 || 784.92 || 1038.12 || 1025.46 || 1310.31 || 1334.73 || 1660.27
+|-
+| Three-Point Pass || 5,722 || 1017.24 || 1271.56 || 1287.45 || 1573.55 || 1634.86 || 1961.83
+|-
+| Ballimere Lake || 5,748 || 894.13 || 1149.6 || 1149.6 || 1437 || 1478.06 || 1806.51
+|-
+| Snowslide Slope || 5,774 || 692.88 || 949.5 || 923.84 || 1212.54 || 1220.79 || 1550.73
+|-
+| Path to the Peak || 5,799 || 1005.16 || 1262.89 || 1275.78 || 1565.73 || 1623.72 || 1955.09
+|-
+|}
+&lt;/tab&gt;
+&lt;!-- Overcast Encounters --&gt;
+&lt;tab name="Overcast"&gt;
+{| class="mw-collapsible mw-collapsed wikitable sortable"
+! Route !! DT !! PB !! PB + MB !! GB !! GB + MB !! UB !! UB + MB
+|-
+| {{#arrayprint:Galar_General-1}}
+|-
+| Rolling Fields || 4,477 || 875.5 || 1074.48 || 1096.87 || 1320.71 || 1381.47 || 1637.3
+|-
+| Dappled Grove || 4,502 || 840.37 || 1040.46 || 1057.97 || 1283.07 || 1337.74 || 1594.99
+|-
+| West Lake Axewell || 4,527 || 885.28 || 1086.48 || 1109.12 || 1335.46 || 1396.9 || 1655.59
+|-
+| East Lake Axewell || 4,552 || 829.48 || 1031.79 || 1046.96 || 1274.56 || 1326.58 || 1586.7
+|-
+| Giant's Seat || 4,578 || 590.05 || 793.52 || 778.26 || 1007.16 || 1020.24 || 1281.84
+|-
+| South Lake Miloch || 4,603 || 756.94 || 961.52 || 966.63 || 1196.78 || 1236.23 || 1499.26
+|-
+| North Lake Miloch || 4,628 || 740.48 || 946.17 || 948.74 || 1180.14 || 1216.5 || 1480.96
+|-
+| Axew's Eye || 4,653 || 599.72 || 806.52 || 791.01 || 1023.66 || 1036.95 || 1302.84
+|-
+| Watchtower Ruins || 4,679 || 956.6 || 1164.55 || 1193.14 || 1427.1 || 1497.28 || 1764.65
+|-
+| {{#arrayprint:Galar_General-2}}
+|-
+| Motostoke Riverbank || 4,805 || 704.73 || 918.29 || 912.95 || 1153.2 || 1180.66 || 1455.23
+|-
+| Bridge Field || 4,830 || 772.8 || 987.47 || 990.15 || 1231.65 || 1269.6 || 1545.6
+|-
+| Stony Wilderness || 4,856 || 776.96 || 992.78 || 995.48 || 1238.28 || 1276.43 || 1553.92
+|-
+| Giant's Mirror || 4,881 || 650.8 || 867.73 || 854.17 || 1098.22 || 1115.66 || 1394.57
+|-
+| Giant's Cap || 4,906 || 784.96 || 1003 || 1005.73 || 1251.03 || 1289.58 || 1569.92
+|-
+| Lake of Outrage || 4,932 || 438.4 || 657.6 || 616.5 || 863.1 || 845.49 || 1127.31
+|-
+| Hammerlocke Hills || 4,957 || 638.9 || 859.21 || 842.69 || 1090.54 || 1104.7 || 1387.96
+|-
+| {{#arrayprint:Galar_General-3}}
+|-
+| Fields of Honour || 5,237 || 907.75 || 1140.5 || 1152.14 || 1413.99 || 1466.36 || 1765.62
+|-
+| Soothing Wetlands || 5,262 || 912.08 || 1145.95 || 1157.64 || 1420.74 || 1473.36 || 1774.05
+|-
+| Forest of Focus || 5,288 || 940.09 || 1175.11 || 1189.8 || 1454.2 || 1510.86 || 1813.03
+|-
+| Challenge Beach || 5,313 || 873.69 || 1109.83 || 1115.73 || 1381.38 || 1426.92 || 1730.52
+|-
+| Loop Lagoon || 5,339 || 901.7 || 1138.99 || 1147.88 || 1414.84 || 1464.41 || 1769.5
+|-
+| Training Lowlands || 5,364 || 858.24 || 1096.64 || 1099.62 || 1367.82 || 1409.97 || 1716.48
+|-
+| Potbottom Desert || 5,390 || 718.67 || 958.22 || 943.25 || 1212.75 || 1232 || 1540
+|-
+| Challenge Road || 5,415 || 938.6 || 1179.27 || 1191.3 || 1462.05 || 1516.2 || 1825.63
+|-
+| Workout Sea || 5,441 || 846.38 || 1088.2 || 1088.2 || 1360.25 || 1399.11 || 1710.03
+|-
+| Stepping-Stone Sea || 5,466 || 947.44 || 1190.37 || 1202.52 || 1475.82 || 1530.48 || 1842.82
+|-
+| Insular Sea || 5,492 || 927.54 || 1171.63 || 1180.78 || 1455.38 || 1506.38 || 1820.21
+|-
+| Honeycalm Sea || 5,518 || 833.83 || 1079.08 || 1076.01 || 1351.91 || 1387.38 || 1702.7
+|-
+| Honeycalm Island || 5,543 || 985.42 || 1231.78 || 1247.17 || 1524.33 || 1583.71 || 1900.46
+|-
+| Slippery Slope || 5,569 || 841.54 || 1089.05 || 1085.95 || 1364.4 || 1400.21 || 1718.43
+|-
+| Frostpoint Field || 5,594 || 870.18 || 1118.8 || 1118.8 || 1398.5 || 1438.46 || 1758.11
+|-
+| Giant's Bed || 5,620 || 824.27 || 1074.04 || 1067.8 || 1348.8 || 1380.91 || 1702.06
+|-
+| Old Cemetery || 5,646 || 978.64 || 1229.57 || 1242.12 || 1524.42 || 1580.88 || 1903.51
+|-
+| Giant's Foot || 5,671 || 882.16 || 1134.2 || 1134.2 || 1417.75 || 1458.26 || 1782.31
+|-
+| Frigid Sea || 5,697 || 810.24 || 1063.44 || 1053.94 || 1338.79 || 1367.28 || 1692.82
+|-
+| Three-Point Pass || 5,722 || 1017.24 || 1271.56 || 1287.45 || 1573.55 || 1634.86 || 1961.83
+|-
+| Ballimere Lake || 5,748 || 868.59 || 1124.05 || 1120.86 || 1408.26 || 1445.21 || 1773.67
+|-
+| Snowslide Slope || 5,774 || 615.89 || 872.52 || 837.23 || 1125.93 || 1121.81 || 1451.75
+|-
+| Path to the Peak || 5,799 || 1108.25 || 1365.99 || 1391.76 || 1681.71 || 1756.27 || 2087.64
+|}
+&lt;/tab&gt;
+&lt;!-- Rain Encounters --&gt;
+&lt;tab name="Rain"&gt;
+{| class="mw-collapsible mw-collapsed wikitable sortable"
+! Route !! DT !! PB !! PB + MB !! GB !! GB + MB !! UB !! UB + MB
+|-
+| {{#arrayprint:Galar_General-1}}
+|-
+| Rolling Fields || 4,477 || 835.71 || 1034.68 || 1052.1 || 1275.94 || 1330.31 || 1586.14
+|-
+| Dappled Grove || 4,502 || 880.39 || 1080.48 || 1102.99 || 1328.09 || 1389.19 || 1646.45
+|-
+| West Lake Axewell || 4,527 || 804.8 || 1006 || 1018.58 || 1244.93 || 1293.43 || 1552.11
+|-
+| East Lake Axewell || 4,552 || 829.48 || 1031.79 || 1046.96 || 1274.56 || 1326.58 || 1586.7
+|-
+| Giant's Seat || 4,578 || 651.09 || 854.56 || 846.93 || 1075.83 || 1098.72 || 1360.32
+|-
+| South Lake Miloch || 4,603 || 818.31 || 1022.89 || 1035.67 || 1265.83 || 1315.14 || 1578.17
+|-
+| North Lake Miloch || 4,628 || 761.05 || 966.74 || 971.88 || 1203.28 || 1242.95 || 1507.41
+|-
+| Axew's Eye || 4,653 || 579.04 || 785.84 || 767.75 || 1000.4 || 1010.37 || 1276.25
+|-
+| Watchtower Ruins || 4,679 || 998.19 || 1206.14 || 1239.94 || 1473.88 || 1550.75 || 1818.13
+|-
+| {{#arrayprint:Galar_General-2}}
+|-
+| Motostoke Riverbank || 4,805 || 747.44 || 961 || 961 || 1201.25 || 1235.57 || 1510.14
+|-
+| Bridge Field || 4,830 || 729.87 || 944.53 || 941.85 || 1183.35 || 1214.4 || 1490.4
+|-
+| Stony Wilderness || 4,856 || 841.71 || 1057.53 || 1068.32 || 1311.12 || 1359.68 || 1637.17
+|-
+| Giant's Mirror || 4,881 || 737.57 || 954.51 || 951.8 || 1195.85 || 1227.22 || 1506.14
+|-
+| Giant's Cap || 4,906 || 741.35 || 959.4 || 956.67 || 1201.97 || 1233.51 || 1513.85
+|-
+| Lake of Outrage || 4,932 || 438.4 || 657.6 || 616.5 || 863.1 || 845.49 || 1127.31
+|-
+| Hammerlocke Hills || 4,957 || 638.9 || 859.21 || 842.69 || 1090.54 || 1104.7 || 1387.96
+|-
+| {{#arrayprint:Galar_General-3}}
+|-
+| Fields of Honour || 5,237 || 954.3 || 1187.05 || 1204.51 || 1466.36 || 1526.21 || 1825.47
+|-
+| Soothing Wetlands || 5,262 || 888.69 || 1122.56 || 1131.33 || 1394.43 || 1443.29 || 1743.98
+|-
+| Forest of Focus || 5,288 || 940.09 || 1175.11 || 1189.8 || 1454.2 || 1510.86 || 1813.03
+|-
+| Challenge Beach || 5,313 || 850.08 || 1086.21 || 1089.16 || 1354.82 || 1396.56 || 1700.16
+|-
+| Loop Lagoon || 5,339 || 901.7 || 1138.99 || 1147.88 || 1414.84 || 1464.41 || 1769.5
+|-
+| Training Lowlands || 5,364 || 858.24 || 1096.64 || 1099.62 || 1367.82 || 1409.97 || 1716.48
+|-
+| Potbottom Desert || 5,390 || 814.49 || 1054.04 || 1051.05 || 1320.55 || 1355.2 || 1663.2
+|-
+| Challenge Road || 5,415 || 914.53 || 1155.2 || 1164.22 || 1434.98 || 1485.26 || 1794.69
+|-
+| Workout Sea || 5,441 || 870.56 || 1112.38 || 1115.4 || 1387.45 || 1430.21 || 1741.12
+|-
+| Stepping-Stone Sea || 5,466 || 947.44 || 1190.37 || 1202.52 || 1475.82 || 1530.48 || 1842.82
+|-
+| Insular Sea || 5,492 || 976.36 || 1220.44 || 1235.7 || 1510.3 || 1569.14 || 1882.97
+|-
+| Honeycalm Sea || 5,518 || 858.36 || 1103.6 || 1103.6 || 1379.5 || 1418.91 || 1734.23
+|-
+| Honeycalm Island || 5,543 || 1010.06 || 1256.41 || 1274.89 || 1552.04 || 1615.39 || 1932.13
+|-
+| Slippery Slope || 5,569 || 940.54 || 1188.05 || 1197.34 || 1475.79 || 1527.5 || 1845.73
+|-
+| Frostpoint Field || 5,594 || 820.45 || 1069.08 || 1062.86 || 1342.56 || 1374.53 || 1694.18
+|-
+| Giant's Bed || 5,620 || 849.24 || 1099.02 || 1095.9 || 1376.9 || 1413.03 || 1734.17
+|-
+| Old Cemetery || 5,646 || 1079.01 || 1329.95 || 1355.04 || 1637.34 || 1709.93 || 2032.56
+|-
+| Giant's Foot || 5,671 || 882.16 || 1134.2 || 1134.2 || 1417.75 || 1458.26 || 1782.31
+|-
+| Frigid Sea || 5,697 || 835.56 || 1088.76 || 1082.43 || 1367.28 || 1399.83 || 1725.38
+|-
+| Three-Point Pass || 5,722 || 966.38 || 1220.69 || 1230.23 || 1516.33 || 1569.46 || 1896.43
+|-
+| Ballimere Lake || 5,748 || 843.04 || 1098.51 || 1092.12 || 1379.52 || 1412.37 || 1740.82
+|-
+| Snowslide Slope || 5,774 || 641.56 || 898.18 || 866.1 || 1154.8 || 1154.8 || 1484.74
+|-
+| Path to the Peak || 5,799 || 1185.57 || 1443.31 || 1478.75 || 1768.69 || 1855.68 || 2187.05
+|-
+|}
+&lt;/tab&gt;
+&lt;!-- Thunderstorm Encounters --&gt;
+&lt;tab name="Thunderstorm"&gt;
+{| class="mw-collapsible mw-collapsed wikitable sortable"
+! Route !! DT !! PB !! PB + MB !! GB !! GB + MB !! UB !! UB + MB
+|-
+| {{#arrayprint:Galar_General-1}}
+|-
+| Rolling Fields || 4,477 || 835.71 || 1034.68 || 1052.1 || 1275.94 || 1330.31 || 1586.14
+|-
+| Dappled Grove || 4,502 || 860.38 || 1060.47 || 1080.48 || 1305.58 || 1363.46 || 1620.72
+|-
+| West Lake Axewell || 4,527 || 804.8 || 1006 || 1018.58 || 1244.93 || 1293.43 || 1552.11
+|-
+| East Lake Axewell || 4,552 || 809.24 || 1011.56 || 1024.2 || 1251.8 || 1300.57 || 1560.69
+|-
+| Giant's Seat || 4,578 || 590.05 || 793.52 || 778.26 || 1007.16 || 1020.24 || 1281.84
+|-
+| South Lake Miloch || 4,603 || 797.85 || 1002.43 || 1012.66 || 1242.81 || 1288.84 || 1551.87
+|-
+| North Lake Miloch || 4,628 || 740.48 || 946.17 || 948.74 || 1180.14 || 1216.5 || 1480.96
+|-
+| Axew's Eye || 4,653 || 579.04 || 785.84 || 767.75 || 1000.4 || 1010.37 || 1276.25
+|-
+| Watchtower Ruins || 4,679 || 956.6 || 1164.55 || 1193.14 || 1427.1 || 1497.28 || 1764.65
+|-
+| {{#arrayprint:Galar_General-2}}
+|-
+| Motostoke Riverbank || 4,805 || 747.44 || 961 || 961 || 1201.25 || 1235.57 || 1510.14
+|-
+| Bridge Field || 4,830 || 772.8 || 987.47 || 990.15 || 1231.65 || 1269.6 || 1545.6
+|-
+| Stony Wilderness || 4,856 || 863.29 || 1079.11 || 1092.6 || 1335.4 || 1387.43 || 1664.91
+|-
+| Giant's Mirror || 4,881 || 780.96 || 997.89 || 1000.6 || 1244.65 || 1283.01 || 1561.92
+|-
+| Giant's Cap || 4,906 || 763.16 || 981.2 || 981.2 || 1226.5 || 1261.54 || 1541.89
+|-
+| Lake of Outrage || 4,932 || 438.4 || 657.6 || 616.5 || 863.1 || 845.49 || 1127.31
+|-
+| Hammerlocke Hills || 4,957 || 638.9 || 859.21 || 842.69 || 1090.54 || 1104.7 || 1387.96
+|-
+| {{#arrayprint:Galar_General-3}}
+|-
+| Fields of Honour || 5,237 || 954.3 || 1187.05 || 1204.51 || 1466.36 || 1526.21 || 1825.47
+|-
+| Soothing Wetlands || 5,262 || 912.08 || 1145.95 || 1157.64 || 1420.74 || 1473.36 || 1774.05
+|-
+| Forest of Focus || 5,288 || 963.59 || 1198.61 || 1216.24 || 1480.64 || 1541.07 || 1843.25
+|-
+| Challenge Beach || 5,313 || 850.08 || 1086.21 || 1089.16 || 1354.82 || 1396.56 || 1700.16
+|-
+| Loop Lagoon || 5,339 || 925.43 || 1162.72 || 1174.58 || 1441.53 || 1494.92 || 1800.01
+|-
+| Training Lowlands || 5,364 || 834.4 || 1072.8 || 1072.8 || 1341 || 1379.31 || 1685.83
+|-
+| Potbottom Desert || 5,390 || 742.62 || 982.18 || 970.2 || 1239.7 || 1262.8 || 1570.8
+|-
+| Challenge Road || 5,415 || 938.6 || 1179.27 || 1191.3 || 1462.05 || 1516.2 || 1825.63
+|-
+| Workout Sea || 5,441 || 870.56 || 1112.38 || 1115.4 || 1387.45 || 1430.21 || 1741.12
+|-
+| Stepping-Stone Sea || 5,466 || 947.44 || 1190.37 || 1202.52 || 1475.82 || 1530.48 || 1842.82
+|-
+| Insular Sea || 5,492 || 951.95 || 1196.04 || 1208.24 || 1482.84 || 1537.76 || 1851.59
+|-
+| Honeycalm Sea || 5,518 || 858.36 || 1103.6 || 1103.6 || 1379.5 || 1418.91 || 1734.23
+|-
+| Honeycalm Island || 5,543 || 985.42 || 1231.78 || 1247.17 || 1524.33 || 1583.71 || 1900.46
+|-
+| Slippery Slope || 5,569 || 940.54 || 1188.05 || 1197.34 || 1475.79 || 1527.5 || 1845.73
+|-
+| Frostpoint Field || 5,594 || 820.45 || 1069.08 || 1062.86 || 1342.56 || 1374.53 || 1694.18
+|-
+| Giant's Bed || 5,620 || 824.27 || 1074.04 || 1067.8 || 1348.8 || 1380.91 || 1702.06
+|-
+| Old Cemetery || 5,646 || 903.36 || 1154.29 || 1157.43 || 1439.73 || 1484.09 || 1806.72
+|-
+| Giant's Foot || 5,671 || 831.75 || 1083.79 || 1077.49 || 1361.04 || 1393.45 || 1717.5
+|-
+| Frigid Sea || 5,697 || 759.6 || 1012.8 || 996.97 || 1281.82 || 1302.17 || 1627.71
+|-
+| Three-Point Pass || 5,722 || 864.66 || 1118.97 || 1115.79 || 1401.89 || 1438.67 || 1765.65
+|-
+| Ballimere Lake || 5,748 || 791.95 || 1047.41 || 1034.64 || 1322.04 || 1346.67 || 1675.13
+|-
+| Snowslide Slope || 5,774 || 641.56 || 898.18 || 866.1 || 1154.8 || 1154.8 || 1484.74
+|-
+| Path to the Peak || 5,799 || 1185.57 || 1443.31 || 1478.75 || 1768.69 || 1855.68 || 2187.05
+|-
+|}
+&lt;/tab&gt;
+&lt;!-- Sunny Encounters --&gt;
+&lt;tab name="Sunny"&gt;
+{| class="mw-collapsible mw-collapsed wikitable sortable"
+! Route !! DT !! PB !! PB + MB !! GB !! GB + MB !! UB !! UB + MB
+|-
+| {{#arrayprint:Galar_General-1}}
+|-
+| Rolling Fields || 4,477 || 875.5 || 1074.48 || 1096.87 || 1320.71 || 1381.47 || 1637.3
+|-
+| Dappled Grove || 4,502 || 880.39 || 1080.48 || 1102.99 || 1328.09 || 1389.19 || 1646.45
+|-
+| West Lake Axewell || 4,527 || 925.52 || 1126.72 || 1154.38 || 1380.73 || 1448.64 || 1707.33
+|-
+| East Lake Axewell || 4,552 || 809.24 || 1011.56 || 1024.2 || 1251.8 || 1300.57 || 1560.69
+|-
+| Giant's Seat || 4,578 || 671.44 || 874.91 || 869.82 || 1098.72 || 1124.88 || 1386.48
+|-
+| South Lake Miloch || 4,603 || 818.31 || 1022.89 || 1035.67 || 1265.83 || 1315.14 || 1578.17
+|-
+| North Lake Miloch || 4,628 || 781.62 || 987.31 || 995.02 || 1226.42 || 1269.39 || 1533.85
+|-
+| Axew's Eye || 4,653 || 641.08 || 847.88 || 837.54 || 1070.19 || 1090.13 || 1356.02
+|-
+| Watchtower Ruins || 4,679 || 915 || 1122.96 || 1146.36 || 1380.3 || 1443.81 || 1711.18
+|-
+| {{#arrayprint:Galar_General-2}}
+|-
+| Motostoke Riverbank || 4,805 || 726.09 || 939.64 || 936.98 || 1177.22 || 1208.11 || 1482.69
+|-
+| Bridge Field || 4,830 || 772.8 || 987.47 || 990.15 || 1231.65 || 1269.6 || 1545.6
+|-
+| Stony Wilderness || 4,856 || 776.96 || 992.78 || 995.48 || 1238.28 || 1276.43 || 1553.92
+|-
+| Giant's Mirror || 4,881 || 694.19 || 911.12 || 902.99 || 1147.03 || 1171.44 || 1450.35
+|-
+| Giant's Cap || 4,906 || 763.16 || 981.2 || 981.2 || 1226.5 || 1261.54 || 1541.89
+|-
+| Lake of Outrage || 4,932 || 460.32 || 679.52 || 641.16 || 887.76 || 873.67 || 1155.5
+|-
+| Hammerlocke Hills || 4,957 || 705 || 925.31 || 917.04 || 1164.89 || 1189.68 || 1472.94
+|-
+| {{#arrayprint:Galar_General-3}}
+|-
+| Fields of Honour || 5,237 || 954.3 || 1187.05 || 1204.51 || 1466.36 || 1526.21 || 1825.47
+|-
+| Soothing Wetlands || 5,262 || 912.08 || 1145.95 || 1157.64 || 1420.74 || 1473.36 || 1774.05
+|-
+| Forest of Focus || 5,288 || 869.58 || 1104.6 || 1110.48 || 1374.88 || 1420.21 || 1722.38
+|-
+| Challenge Beach || 5,313 || 826.47 || 1062.6 || 1062.6 || 1328.25 || 1366.2 || 1669.8
+|-
+| Loop Lagoon || 5,339 || 877.97 || 1115.26 || 1121.19 || 1388.14 || 1433.9 || 1738.99
+|-
+| Training Lowlands || 5,364 || 834.4 || 1072.8 || 1072.8 || 1341 || 1379.31 || 1685.83
+|-
+| Potbottom Desert || 5,390 || 742.62 || 982.18 || 970.2 || 1239.7 || 1262.8 || 1570.8
+|-
+| Challenge Road || 5,415 || 938.6 || 1179.27 || 1191.3 || 1462.05 || 1516.2 || 1825.63
+|-
+| Workout Sea || 5,441 || 870.56 || 1112.38 || 1115.4 || 1387.45 || 1430.21 || 1741.12
+|-
+| Stepping-Stone Sea || 5,466 || 971.73 || 1214.67 || 1229.85 || 1503.15 || 1561.71 || 1874.06
+|-
+| Insular Sea || 5,492 || 951.95 || 1196.04 || 1208.24 || 1482.84 || 1537.76 || 1851.59
+|-
+| Honeycalm Sea || 5,518 || 882.88 || 1128.12 || 1131.19 || 1407.09 || 1450.45 || 1765.76
+|-
+| Honeycalm Island || 5,543 || 1010.06 || 1256.41 || 1274.89 || 1552.04 || 1615.39 || 1932.13
+|-
+| Slippery Slope || 5,569 || 792.04 || 1039.55 || 1030.27 || 1308.71 || 1336.56 || 1654.79
+|-
+| Frostpoint Field || 5,594 || 820.45 || 1069.08 || 1062.86 || 1342.56 || 1374.53 || 1694.18
+|-
+| Giant's Bed || 5,620 || 824.27 || 1074.04 || 1067.8 || 1348.8 || 1380.91 || 1702.06
+|-
+| Old Cemetery || 5,646 || 903.36 || 1154.29 || 1157.43 || 1439.73 || 1484.09 || 1806.72
+|-
+| Giant's Foot || 5,671 || 831.75 || 1083.79 || 1077.49 || 1361.04 || 1393.45 || 1717.5
+|-
+| Frigid Sea || 5,697 || 810.24 || 1063.44 || 1053.94 || 1338.79 || 1367.28 || 1692.82
+|-
+| Three-Point Pass || 5,722 || 864.66 || 1118.97 || 1115.79 || 1401.89 || 1438.67 || 1765.65
+|-
+| Ballimere Lake || 5,748 || 843.04 || 1098.51 || 1092.12 || 1379.52 || 1412.37 || 1740.82
+|-
+| Snowslide Slope || 5,774 || 667.22 || 923.84 || 894.97 || 1183.67 || 1187.79 || 1517.74
+|-
+| Path to the Peak || 5,799 || 798.97 || 1056.71 || 1043.82 || 1333.77 || 1358.62 || 1689.99
+|-
+|}
+&lt;/tab&gt;
+&lt;!-- Snow Encounters --&gt;
+&lt;tab name="Snow"&gt;
+{| class="mw-collapsible mw-collapsed wikitable sortable"
+! Route !! DT !! PB !! PB + MB !! GB !! GB + MB !! UB !! UB + MB
+|-
+| {{#arrayprint:Galar_General-1}}
+|-
+| Rolling Fields || 4,477 || 915.3 || 1114.28 || 1141.63 || 1365.48 || 1432.64 || 1688.47
+|-
+| Dappled Grove || 4,502 || 820.36 || 1020.45 || 1035.46 || 1260.56 || 1312.01 || 1569.27
+|-
+| West Lake Axewell || 4,527 || 824.92 || 1026.12 || 1041.21 || 1267.56 || 1319.3 || 1577.98
+|-
+| East Lake Axewell || 4,552 || 849.71 || 1052.02 || 1069.72 || 1297.32 || 1352.59 || 1612.71
+|-
+| Giant's Seat || 4,578 || 651.09 || 854.56 || 846.93 || 1075.83 || 1098.72 || 1360.32
+|-
+| South Lake Miloch || 4,603 || 818.31 || 1022.89 || 1035.67 || 1265.83 || 1315.14 || 1578.17
+|-
+| North Lake Miloch || 4,628 || 781.62 || 987.31 || 995.02 || 1226.42 || 1269.39 || 1533.85
+|-
+| Axew's Eye || 4,653 || 599.72 || 806.52 || 791.01 || 1023.66 || 1036.95 || 1302.84
+|-
+| Watchtower Ruins || 4,679 || 811.03 || 1018.98 || 1029.38 || 1263.33 || 1310.12 || 1577.49
+|-
+| {{#arrayprint:Galar_General-2}}
+|-
+| Motostoke Riverbank || 4,805 || 726.09 || 939.64 || 936.98 || 1177.22 || 1208.11 || 1482.69
+|-
+| Bridge Field || 4,830 || 772.8 || 987.47 || 990.15 || 1231.65 || 1269.6 || 1545.6
+|-
+| Stony Wilderness || 4,856 || 755.38 || 971.2 || 971.2 || 1214 || 1248.69 || 1526.17
+|-
+| Giant's Mirror || 4,881 || 737.57 || 954.51 || 951.8 || 1195.85 || 1227.22 || 1506.14
+|-
+| Giant's Cap || 4,906 || 763.16 || 981.2 || 981.2 || 1226.5 || 1261.54 || 1541.89
+|-
+| Lake of Outrage || 4,932 || 504.16 || 723.36 || 690.48 || 937.08 || 930.03 || 1211.86
+|-
+| Hammerlocke Hills || 4,957 || 638.9 || 859.21 || 842.69 || 1090.54 || 1104.7 || 1387.96
+|-
+| {{#arrayprint:Galar_General-3}}
+|-
+| Fields of Honour || 5,237 || 1047.4 || 1280.16 || 1309.25 || 1571.1 || 1645.91 || 1945.17
+|-
+| Soothing Wetlands || 5,262 || 1075.79 || 1309.65 || 1341.81 || 1604.91 || 1683.84 || 1984.53
+|-
+| Forest of Focus || 5,288 || 1081.1 || 1316.12 || 1348.44 || 1612.84 || 1692.16 || 1994.33
+|-
+| Challenge Beach || 5,313 || 1062.6 || 1298.73 || 1328.25 || 1593.9 || 1669.8 || 1973.4
+|-
+| Loop Lagoon || 5,339 || 1138.99 || 1376.28 || 1414.84 || 1681.79 || 1769.5 || 2074.58
+|-
+| Training Lowlands || 5,364 || 977.44 || 1215.84 || 1233.72 || 1501.92 || 1563.22 || 1869.74
+|-
+| Potbottom Desert || 5,390 || 862.4 || 1101.96 || 1104.95 || 1374.45 || 1416.8 || 1724.8
+|-
+| Challenge Road || 5,415 || 1107.07 || 1347.73 || 1380.83 || 1651.58 || 1732.8 || 2042.23
+|-
+| Workout Sea || 5,441 || 943.11 || 1184.93 || 1197.02 || 1469.07 || 1523.48 || 1834.39
+|-
+| Stepping-Stone Sea || 5,466 || 1020.32 || 1263.25 || 1284.51 || 1557.81 || 1624.18 || 1936.53
+|-
+| Insular Sea || 5,492 || 1049.58 || 1293.67 || 1318.08 || 1592.68 || 1663.29 || 1977.12
+|-
+| Honeycalm Sea || 5,518 || 907.4 || 1152.65 || 1158.78 || 1434.68 || 1481.98 || 1797.29
+|-
+| Honeycalm Island || 5,543 || 1083.96 || 1330.32 || 1358.04 || 1635.18 || 1710.41 || 2027.15
+|-
+| Slippery Slope || 5,569 || 866.29 || 1113.8 || 1113.8 || 1392.25 || 1432.03 || 1750.26
+|-
+| Frostpoint Field || 5,594 || 895.04 || 1143.66 || 1146.77 || 1426.47 || 1470.42 || 1790.08
+|-
+| Giant's Bed || 5,620 || 849.24 || 1099.02 || 1095.9 || 1376.9 || 1413.03 || 1734.17
+|-
+| Old Cemetery || 5,646 || 1003.73 || 1254.67 || 1270.35 || 1552.65 || 1613.14 || 1935.77
+|-
+| Giant's Foot || 5,671 || 882.16 || 1134.2 || 1134.2 || 1417.75 || 1458.26 || 1782.31
+|-
+| Frigid Sea || 5,697 || 784.92 || 1038.12 || 1025.46 || 1310.31 || 1334.73 || 1660.27
+|-
+| Three-Point Pass || 5,722 || 940.95 || 1195.26 || 1201.62 || 1487.72 || 1536.77 || 1863.74
+|-
+| Ballimere Lake || 5,748 || 843.04 || 1098.51 || 1092.12 || 1379.52 || 1412.37 || 1740.82
+|-
+| Snowslide Slope || 5,774 || 667.22 || 923.84 || 894.97 || 1183.67 || 1187.79 || 1517.74
+|-
+| Path to the Peak || 5,799 || 1185.57 || 1443.31 || 1478.75 || 1768.69 || 1855.68 || 2187.05
+|-
+|}
+&lt;/tab&gt;
+&lt;!-- Blizzard Encounters --&gt;
+&lt;tab name="Blizzard"&gt;
+{| class="mw-collapsible mw-collapsed wikitable sortable"
+! Route !! DT !! PB !! PB + MB !! GB !! GB + MB !! UB !! UB + MB
+|-
+| {{#arrayprint:Galar_General-1}}
+|-
+| Rolling Fields || 4,477 || 875.5 || 1074.48 || 1096.87 || 1320.71 || 1381.47 || 1637.3
+|-
+| Dappled Grove || 4,502 || 780.35 || 980.44 || 990.44 || 1215.54 || 1260.56 || 1517.82
+|-
+| West Lake Axewell || 4,527 || 824.92 || 1026.12 || 1041.21 || 1267.56 || 1319.3 || 1577.98
+|-
+| East Lake Axewell || 4,552 || 849.71 || 1052.02 || 1069.72 || 1297.32 || 1352.59 || 1612.71
+|-
+| Giant's Seat || 4,578 || 630.75 || 834.21 || 824.04 || 1052.94 || 1072.56 || 1334.16
+|-
+| South Lake Miloch || 4,603 || 736.48 || 941.06 || 943.61 || 1173.77 || 1209.93 || 1472.96
+|-
+| North Lake Miloch || 4,628 || 740.48 || 946.17 || 948.74 || 1180.14 || 1216.5 || 1480.96
+|-
+| Axew's Eye || 4,653 || 620.4 || 827.2 || 814.27 || 1046.92 || 1063.54 || 1329.43
+|-
+| Watchtower Ruins || 4,679 || 873.41 || 1081.37 || 1099.56 || 1333.51 || 1390.33 || 1657.7
+|-
+| {{#arrayprint:Galar_General-2}}
+|-
+| Motostoke Riverbank || 4,805 || 747.44 || 961 || 961 || 1201.25 || 1235.57 || 1510.14
+|-
+| Bridge Field || 4,830 || 751.33 || 966 || 966 || 1207.5 || 1242 || 1518
+|-
+| Stony Wilderness || 4,856 || 798.54 || 1014.36 || 1019.76 || 1262.56 || 1304.18 || 1581.67
+|-
+| Giant's Mirror || 4,881 || 759.27 || 976.2 || 976.2 || 1220.25 || 1255.11 || 1534.03
+|-
+| Giant's Cap || 4,906 || 763.16 || 981.2 || 981.2 || 1226.5 || 1261.54 || 1541.89
+|-
+| Lake of Outrage || 4,932 || 482.24 || 701.44 || 665.82 || 912.42 || 901.85 || 1183.68
+|-
+| Hammerlocke Hills || 4,957 || 660.93 || 881.24 || 867.47 || 1115.32 || 1133.03 || 1416.29
+|-
+| {{#arrayprint:Galar_General-3}}
+|-
+| Fields of Honour || 5,237 || 1047.4 || 1280.16 || 1309.25 || 1571.1 || 1645.91 || 1945.17
+|-
+| Soothing Wetlands || 5,262 || 1075.79 || 1309.65 || 1341.81 || 1604.91 || 1683.84 || 1984.53
+|-
+| Forest of Focus || 5,288 || 1081.1 || 1316.12 || 1348.44 || 1612.84 || 1692.16 || 1994.33
+|-
+| Challenge Beach || 5,313 || 1062.6 || 1298.73 || 1328.25 || 1593.9 || 1669.8 || 1973.4
+|-
+| Loop Lagoon || 5,339 || 1138.99 || 1376.28 || 1414.84 || 1681.79 || 1769.5 || 2074.58
+|-
+| Training Lowlands || 5,364 || 977.44 || 1215.84 || 1233.72 || 1501.92 || 1563.22 || 1869.74
+|-
+| Potbottom Desert || 5,390 || 862.4 || 1101.96 || 1104.95 || 1374.45 || 1416.8 || 1724.8
+|-
+| Challenge Road || 5,415 || 1107.07 || 1347.73 || 1380.83 || 1651.58 || 1732.8 || 2042.23
+|-
+| Workout Sea || 5,441 || 943.11 || 1184.93 || 1197.02 || 1469.07 || 1523.48 || 1834.39
+|-
+| Stepping-Stone Sea || 5,466 || 1020.32 || 1263.25 || 1284.51 || 1557.81 || 1624.18 || 1936.53
+|-
+| Insular Sea || 5,492 || 1049.58 || 1293.67 || 1318.08 || 1592.68 || 1663.29 || 1977.12
+|-
+| Honeycalm Sea || 5,518 || 907.4 || 1152.65 || 1158.78 || 1434.68 || 1481.98 || 1797.29
+|-
+| Honeycalm Island || 5,543 || 1083.96 || 1330.32 || 1358.04 || 1635.18 || 1710.41 || 2027.15
+|-
+| Slippery Slope || 5,569 || 792.04 || 1039.55 || 1030.27 || 1308.71 || 1336.56 || 1654.79
+|-
+| Frostpoint Field || 5,594 || 895.04 || 1143.66 || 1146.77 || 1426.47 || 1470.42 || 1790.08
+|-
+| Giant's Bed || 5,620 || 824.27 || 1074.04 || 1067.8 || 1348.8 || 1380.91 || 1702.06
+|-
+| Old Cemetery || 5,646 || 953.55 || 1204.48 || 1213.89 || 1496.19 || 1548.62 || 1871.25
+|-
+| Giant's Foot || 5,671 || 856.95 || 1109 || 1105.85 || 1389.39 || 1425.85 || 1749.91
+|-
+| Frigid Sea || 5,697 || 759.6 || 1012.8 || 996.97 || 1281.82 || 1302.17 || 1627.71
+|-
+| Three-Point Pass || 5,722 || 890.09 || 1144.4 || 1144.4 || 1430.5 || 1471.37 || 1798.34
+|-
+| Ballimere Lake || 5,748 || 868.59 || 1124.05 || 1120.86 || 1408.26 || 1445.21 || 1773.67
+|-
+| Snowslide Slope || 5,774 || 667.22 || 923.84 || 894.97 || 1183.67 || 1187.79 || 1517.74
+|-
+| Path to the Peak || 5,799 || 953.61 || 1211.35 || 1217.79 || 1507.74 || 1557.45 || 1888.82
+|-
+|}
+&lt;/tab&gt;
+&lt;!-- Sandstorm Encounters --&gt;
+&lt;tab name="Sandstorm"&gt;
+{| class="mw-collapsible mw-collapsed wikitable sortable"
+! Route !! DT !! PB !! PB + MB !! GB !! GB + MB !! UB !! UB + MB
+|-
+| {{#arrayprint:Galar_General-1}}
+|-
+| Rolling Fields || 4,477 || 875.5 || 1074.48 || 1096.87 || 1320.71 || 1381.47 || 1637.3
+|-
+| Dappled Grove || 4,502 || 880.39 || 1080.48 || 1102.99 || 1328.09 || 1389.19 || 1646.45
+|-
+| West Lake Axewell || 4,527 || 925.52 || 1126.72 || 1154.38 || 1380.73 || 1448.64 || 1707.33
+|-
+| East Lake Axewell || 4,552 || 849.71 || 1052.02 || 1069.72 || 1297.32 || 1352.59 || 1612.71
+|-
+| Giant's Seat || 4,578 || 630.75 || 834.21 || 824.04 || 1052.94 || 1072.56 || 1334.16
+|-
+| South Lake Miloch || 4,603 || 838.77 || 1043.35 || 1058.69 || 1288.84 || 1341.45 || 1604.47
+|-
+| North Lake Miloch || 4,628 || 781.62 || 987.31 || 995.02 || 1226.42 || 1269.39 || 1533.85
+|-
+| Axew's Eye || 4,653 || 641.08 || 847.88 || 837.54 || 1070.19 || 1090.13 || 1356.02
+|-
+| Watchtower Ruins || 4,679 || 998.19 || 1206.14 || 1239.94 || 1473.88 || 1550.75 || 1818.13
+|-
+| {{#arrayprint:Galar_General-2}}
+|-
+| Motostoke Riverbank || 4,805 || 683.38 || 896.93 || 888.92 || 1129.17 || 1153.2 || 1427.77
+|-
+| Bridge Field || 4,830 || 794.27 || 1008.93 || 1014.3 || 1255.8 || 1297.2 || 1573.2
+|-
+| Stony Wilderness || 4,856 || 776.96 || 992.78 || 995.48 || 1238.28 || 1276.43 || 1553.92
+|-
+| Giant's Mirror || 4,881 || 694.19 || 911.12 || 902.99 || 1147.03 || 1171.44 || 1450.35
+|-
+| Giant's Cap || 4,906 || 784.96 || 1003 || 1005.73 || 1251.03 || 1289.58 || 1569.92
+|-
+| Lake of Outrage || 4,932 || 460.32 || 679.52 || 641.16 || 887.76 || 873.67 || 1155.5
+|-
+| Hammerlocke Hills || 4,957 || 638.9 || 859.21 || 842.69 || 1090.54 || 1104.7 || 1387.96
+|-
+| {{#arrayprint:Galar_General-3}}
+|-
+| Fields of Honour || 5,237 || 931.02 || 1163.78 || 1178.33 || 1440.18 || 1496.29 || 1795.54
+|-
+| Soothing Wetlands || 5,262 || 865.31 || 1099.17 || 1105.02 || 1368.12 || 1413.22 || 1713.91
+|-
+| Forest of Focus || 5,288 || 1010.6 || 1245.62 || 1269.12 || 1533.52 || 1601.51 || 1903.68
+|-
+| Challenge Beach || 5,313 || 873.69 || 1109.83 || 1115.73 || 1381.38 || 1426.92 || 1730.52
+|-
+| Loop Lagoon || 5,339 || 854.24 || 1091.53 || 1094.49 || 1361.44 || 1403.39 || 1708.48
+|-
+| Training Lowlands || 5,364 || 834.4 || 1072.8 || 1072.8 || 1341 || 1379.31 || 1685.83
+|-
+| Potbottom Desert || 5,390 || 814.49 || 1054.04 || 1051.05 || 1320.55 || 1355.2 || 1663.2
+|-
+| Challenge Road || 5,415 || 890.47 || 1131.13 || 1137.15 || 1407.9 || 1454.31 || 1763.74
+|-
+| Workout Sea || 5,441 || 894.74 || 1136.56 || 1142.61 || 1414.66 || 1461.3 || 1772.21
+|-
+| Stepping-Stone Sea || 5,466 || 947.44 || 1190.37 || 1202.52 || 1475.82 || 1530.48 || 1842.82
+|-
+| Insular Sea || 5,492 || 976.36 || 1220.44 || 1235.7 || 1510.3 || 1569.14 || 1882.97
+|-
+| Honeycalm Sea || 5,518 || 833.83 || 1079.08 || 1076.01 || 1351.91 || 1387.38 || 1702.7
+|-
+| Honeycalm Island || 5,543 || 960.79 || 1207.14 || 1219.46 || 1496.61 || 1552.04 || 1868.78
+|-
+| Slippery Slope || 5,569 || 940.54 || 1188.05 || 1197.34 || 1475.79 || 1527.5 || 1845.73
+|-
+| Frostpoint Field || 5,594 || 820.45 || 1069.08 || 1062.86 || 1342.56 || 1374.53 || 1694.18
+|-
+| Giant's Bed || 5,620 || 949.16 || 1198.93 || 1208.3 || 1489.3 || 1541.49 || 1862.63
+|-
+| Old Cemetery || 5,646 || 1179.39 || 1430.32 || 1467.96 || 1750.26 || 1838.98 || 2161.61
+|-
+| Giant's Foot || 5,671 || 856.95 || 1109 || 1105.85 || 1389.39 || 1425.85 || 1749.91
+|-
+| Frigid Sea || 5,697 || 810.24 || 1063.44 || 1053.94 || 1338.79 || 1367.28 || 1692.82
+|-
+| Three-Point Pass || 5,722 || 1017.24 || 1271.56 || 1287.45 || 1573.55 || 1634.86 || 1961.83
+|-
+| Ballimere Lake || 5,748 || 868.59 || 1124.05 || 1120.86 || 1408.26 || 1445.21 || 1773.67
+|-
+| Snowslide Slope || 5,774 || 641.56 || 898.18 || 866.1 || 1154.8 || 1154.8 || 1484.74
+|-
+| Path to the Peak || 5,799 || 1185.57 || 1443.31 || 1478.75 || 1768.69 || 1855.68 || 2187.05
+|-
+|}
+&lt;/tab&gt;
+&lt;!-- Fog Encounters --&gt;
+&lt;tab name="Fog"&gt;
+{| class="mw-collapsible mw-collapsed wikitable sortable"
+! Route !! DT !! PB !! PB + MB !! GB !! GB + MB !! UB !! UB + MB
+|-
+| {{#arrayprint:Galar_General-1}}
+|-
+| Rolling Fields || 4,477 || 855.6 || 1054.58 || 1074.48 || 1298.33 || 1355.89 || 1611.72
+|-
+| Dappled Grove || 4,502 || 760.34 || 960.43 || 967.93 || 1193.03 || 1234.83 || 1492.09
+|-
+| West Lake Axewell || 4,527 || 865.16 || 1066.36 || 1086.48 || 1312.83 || 1371.03 || 1629.72
+|-
+| East Lake Axewell || 4,552 || 829.48 || 1031.79 || 1046.96 || 1274.56 || 1326.58 || 1586.7
+|-
+| Giant's Seat || 4,578 || 671.44 || 874.91 || 869.82 || 1098.72 || 1124.88 || 1386.48
+|-
+| South Lake Miloch || 4,603 || 797.85 || 1002.43 || 1012.66 || 1242.81 || 1288.84 || 1551.87
+|-
+| North Lake Miloch || 4,628 || 781.62 || 987.31 || 995.02 || 1226.42 || 1269.39 || 1533.85
+|-
+| Axew's Eye || 4,653 || 599.72 || 806.52 || 791.01 || 1023.66 || 1036.95 || 1302.84
+|-
+| Watchtower Ruins || 4,679 || 998.19 || 1206.14 || 1239.94 || 1473.88 || 1550.75 || 1818.13
+|-
+| {{#arrayprint:Galar_General-2}}
+|-
+| Motostoke Riverbank || 4,805 || 747.44 || 961 || 961 || 1201.25 || 1235.57 || 1510.14
+|-
+| Bridge Field || 4,830 || 794.27 || 1008.93 || 1014.3 || 1255.8 || 1297.2 || 1573.2
+|-
+| Stony Wilderness || 4,856 || 841.71 || 1057.53 || 1068.32 || 1311.12 || 1359.68 || 1637.17
+|-
+| Giant's Mirror || 4,881 || 780.96 || 997.89 || 1000.6 || 1244.65 || 1283.01 || 1561.92
+|-
+| Giant's Cap || 4,906 || 784.96 || 1003 || 1005.73 || 1251.03 || 1289.58 || 1569.92
+|-
+| Lake of Outrage || 4,932 || 438.4 || 657.6 || 616.5 || 863.1 || 845.49 || 1127.31
+|-
+| Hammerlocke Hills || 4,957 || 749.06 || 969.37 || 966.62 || 1214.46 || 1246.33 || 1529.59
+|-
+| {{#arrayprint:Galar_General-3}}
+|-
+| Fields of Honour || 5,237 || 931.02 || 1163.78 || 1178.33 || 1440.18 || 1496.29 || 1795.54
+|-
+| Soothing Wetlands || 5,262 || 888.69 || 1122.56 || 1131.33 || 1394.43 || 1443.29 || 1743.98
+|-
+| Forest of Focus || 5,288 || 893.08 || 1128.11 || 1136.92 || 1401.32 || 1450.42 || 1752.59
+|-
+| Challenge Beach || 5,313 || 826.47 || 1062.6 || 1062.6 || 1328.25 || 1366.2 || 1669.8
+|-
+| Loop Lagoon || 5,339 || 901.7 || 1138.99 || 1147.88 || 1414.84 || 1464.41 || 1769.5
+|-
+| Training Lowlands || 5,364 || 834.4 || 1072.8 || 1072.8 || 1341 || 1379.31 || 1685.83
+|-
+| Potbottom Desert || 5,390 || 742.62 || 982.18 || 970.2 || 1239.7 || 1262.8 || 1570.8
+|-
+| Challenge Road || 5,415 || 914.53 || 1155.2 || 1164.22 || 1434.98 || 1485.26 || 1794.69
+|-
+| Workout Sea || 5,441 || 846.38 || 1088.2 || 1088.2 || 1360.25 || 1399.11 || 1710.03
+|-
+| Stepping-Stone Sea || 5,466 || 947.44 || 1190.37 || 1202.52 || 1475.82 || 1530.48 || 1842.82
+|-
+| Insular Sea || 5,492 || 951.95 || 1196.04 || 1208.24 || 1482.84 || 1537.76 || 1851.59
+|-
+| Honeycalm Sea || 5,518 || 858.36 || 1103.6 || 1103.6 || 1379.5 || 1418.91 || 1734.23
+|-
+| Honeycalm Island || 5,543 || 985.42 || 1231.78 || 1247.17 || 1524.33 || 1583.71 || 1900.46
+|-
+| Slippery Slope || 5,569 || 915.79 || 1163.3 || 1169.49 || 1447.94 || 1495.67 || 1813.9
+|-
+| Frostpoint Field || 5,594 || 820.45 || 1069.08 || 1062.86 || 1342.56 || 1374.53 || 1694.18
+|-
+| Giant's Bed || 5,620 || 799.29 || 1049.07 || 1039.7 || 1320.7 || 1348.8 || 1669.94
+|-
+| Old Cemetery || 5,646 || 1028.83 || 1279.76 || 1298.58 || 1580.88 || 1645.41 || 1968.03
+|-
+| Giant's Foot || 5,671 || 882.16 || 1134.2 || 1134.2 || 1417.75 || 1458.26 || 1782.31
+|-
+| Frigid Sea || 5,697 || 810.24 || 1063.44 || 1053.94 || 1338.79 || 1367.28 || 1692.82
+|-
+| Three-Point Pass || 5,722 || 940.95 || 1195.26 || 1201.62 || 1487.72 || 1536.77 || 1863.74
+|-
+| Ballimere Lake || 5,748 || 817.49 || 1072.96 || 1063.38 || 1350.78 || 1379.52 || 1707.98
+|-
+| Snowslide Slope || 5,774 || 615.89 || 872.52 || 837.23 || 1125.93 || 1121.81 || 1451.75
+|-
+| Path to the Peak || 5,799 || 1185.57 || 1443.31 || 1478.75 || 1768.69 || 1855.68 || 2187.05
+|-
+|}
+&lt;/tab&gt;
+&lt;!-- Hail / Windy Encounters --&gt;
+&lt;tab name="Hail / Windy"&gt;
+{| class="mw-collapsible mw-collapsed wikitable sortable"
+! Route !! DT !! PB !! PB + MB !! GB !! GB + MB !! UB !! UB + MB
+|-
+| {{#arrayprint:Galar_General-1}}
+|-
+| Rolling Fields || 4,477 || 875.5 || 1074.48 || 1096.87 || 1320.71 || 1381.47 || 1637.3
+|-
+| Dappled Grove || 4,502 || 740.33 || 940.42 || 945.42 || 1170.52 || 1209.11 || 1466.37
+|-
+| West Lake Axewell || 4,527 || 784.68 || 985.88 || 995.94 || 1222.29 || 1267.56 || 1526.25
+|-
+| East Lake Axewell || 4,552 || 849.71 || 1052.02 || 1069.72 || 1297.32 || 1352.59 || 1612.71
+|-
+| Giant's Seat || 4,578 || 590.05 || 793.52 || 778.26 || 1007.16 || 1020.24 || 1281.84
+|-
+| South Lake Miloch || 4,603 || 838.77 || 1043.35 || 1058.69 || 1288.84 || 1341.45 || 1604.47
+|-
+| North Lake Miloch || 4,628 || 781.62 || 987.31 || 995.02 || 1226.42 || 1269.39 || 1533.85
+|-
+| Axew's Eye || 4,653 || 641.08 || 847.88 || 837.54 || 1070.19 || 1090.13 || 1356.02
+|-
+| Watchtower Ruins || 4,679 || 977.39 || 1185.35 || 1216.54 || 1450.49 || 1524.02 || 1791.39
+|-
+| {{#arrayprint:Galar_General-2}}
+|-
+| Motostoke Riverbank || 4,805 || 726.09 || 939.64 || 936.98 || 1177.22 || 1208.11 || 1482.69
+|-
+| Bridge Field || 4,830 || 815.73 || 1030.4 || 1038.45 || 1279.95 || 1324.8 || 1600.8
+|-
+| Stony Wilderness || 4,856 || 669.05 || 884.87 || 874.08 || 1116.88 || 1137.69 || 1415.18
+|-
+| Giant's Mirror || 4,881 || 715.88 || 932.81 || 927.39 || 1171.44 || 1199.33 || 1478.25
+|-
+| Giant's Cap || 4,906 || 806.76 || 1024.81 || 1030.26 || 1275.56 || 1317.61 || 1597.95
+|-
+| Lake of Outrage || 4,932 || 460.32 || 679.52 || 641.16 || 887.76 || 873.67 || 1155.5
+|-
+| Hammerlocke Hills || 4,957 || 594.84 || 815.15 || 793.12 || 1040.97 || 1048.05 || 1331.31
+|-
+| {{#arrayprint:Galar_General-3}}
+|-
+| Fields of Honour || 5,237 || 1047.4 || 1280.16 || 1309.25 || 1571.1 || 1645.91 || 1945.17
+|-
+| Soothing Wetlands || 5,262 || 1075.79 || 1309.65 || 1341.81 || 1604.91 || 1683.84 || 1984.53
+|-
+| Forest of Focus || 5,288 || 1081.1 || 1316.12 || 1348.44 || 1612.84 || 1692.16 || 1994.33
+|-
+| Challenge Beach || 5,313 || 1062.6 || 1298.73 || 1328.25 || 1593.9 || 1669.8 || 1973.4
+|-
+| Loop Lagoon || 5,339 || 1138.99 || 1376.28 || 1414.84 || 1681.79 || 1769.5 || 2074.58
+|-
+| Training Lowlands || 5,364 || 977.44 || 1215.84 || 1233.72 || 1501.92 || 1563.22 || 1869.74
+|-
+| Potbottom Desert || 5,390 || 862.4 || 1101.96 || 1104.95 || 1374.45 || 1416.8 || 1724.8
+|-
+| Challenge Road || 5,415 || 1107.07 || 1347.73 || 1380.83 || 1651.58 || 1732.8 || 2042.23
+|-
+| Workout Sea || 5,441 || 943.11 || 1184.93 || 1197.02 || 1469.07 || 1523.48 || 1834.39
+|-
+| Stepping-Stone Sea || 5,466 || 1020.32 || 1263.25 || 1284.51 || 1557.81 || 1624.18 || 1936.53
+|-
+| Insular Sea || 5,492 || 1049.58 || 1293.67 || 1318.08 || 1592.68 || 1663.29 || 1977.12
+|-
+| Honeycalm Sea || 5,518 || 907.4 || 1152.65 || 1158.78 || 1434.68 || 1481.98 || 1797.29
+|-
+| Honeycalm Island || 5,543 || 1083.96 || 1330.32 || 1358.04 || 1635.18 || 1710.41 || 2027.15
+|-
+| Slippery Slope || 5,569 || 940.54 || 1188.05 || 1197.34 || 1475.79 || 1527.5 || 1845.73
+|-
+| Frostpoint Field || 5,594 || 820.45 || 1069.08 || 1062.86 || 1342.56 || 1374.53 || 1694.18
+|-
+| Giant's Bed || 5,620 || 949.16 || 1198.93 || 1208.3 || 1489.3 || 1541.49 || 1862.63
+|-
+| Old Cemetery || 5,646 || 1179.39 || 1430.32 || 1467.96 || 1750.26 || 1838.98 || 2161.61
+|-
+| Giant's Foot || 5,671 || 856.95 || 1109 || 1105.85 || 1389.39 || 1425.85 || 1749.91
+|-
+| Frigid Sea || 5,697 || 810.24 || 1063.44 || 1053.94 || 1338.79 || 1367.28 || 1692.82
+|-
+| Three-Point Pass || 5,722 || 1017.24 || 1271.56 || 1287.45 || 1573.55 || 1634.86 || 1961.83
+|-
+| Ballimere Lake || 5,748 || 868.59 || 1124.05 || 1120.86 || 1408.26 || 1445.21 || 1773.67
+|-
+| Snowslide Slope || 5,774 || 641.56 || 898.18 || 866.1 || 1154.8 || 1154.8 || 1484.74
+|-
+| Path to the Peak || 5,799 || 1185.57 || 1443.31 || 1478.75 || 1768.69 || 1855.68 || 2187.05
+|-
+|}
+&lt;/tab&gt;
+&lt;/tabs&gt;
+
 ==Uses==
 ===Dungeon Entry Cost===
-
-&lt;!--T:29--&gt;
 ==== [[Kanto]] ====
-=====Main Region + Sevii Islands 123=====
 {| class="mw-collapsible mw-collapsed wikitable sortable"
 |-
 ! Name !! Location !! Entry Price
@@ -606,31 +1568,23 @@ The following tables provide detailed information for every route, separated by 
 |-
 | [[File:Cerulean Cave.png|30px]] [[Cerulean Cave]]  ||  Cerulean City  ||  style="text-align: right;" | 2,500 {{dungeontokens}}
 |-
-| [[File:Ruby Path.png|30px]] [[Ruby Path]]  || Sevii Island 1 ||  style="text-align: right;" | 43,000 {{dungeontokens}}
+| [[File:Ruby Path.png|30px]] [[Ruby Path]]  ||  Sevii Island 1  ||  style="text-align: right;" | 43,000 {{dungeontokens}}
+|-
+| [[File:Icefall Cave.png|30px]] [[Icefall Cave]]  ||  Sevii Island 4  ||  style="text-align: right;" | 43,000 {{dungeontokens}}
+|-
+| [[File:Sunburst Island.png|30px]] [[Sunburst Island]]  ||  Sevii Island 5  ||  style="text-align: right;" | 43,000 {{dungeontokens}}
+|-
+| [[File:Lost Cave.png|30px]] [[Lost Cave]]  ||  Sevii Island 5  ||  style="text-align: right;" | 36,000 {{dungeontokens}}
+|-
+| [[File:Pattern Bush.png|30px]] [[Pattern Bush]]  ||  Sevii Island 6  ||  style="text-align: right;" | 43,000 {{dungeontokens}}
+|-
+| [[File:Altering Cave.png|30px]] [[Altering Cave]]  ||  Sevii Island 6  ||  style="text-align: right;" | 43,000 {{dungeontokens}}
+|-
+| [[File:Tanoby Ruins.png|30px]] [[Tanoby Ruins]]  ||  Sevii Island 7  ||  style="text-align: right;" | 43,000 {{dungeontokens}}
+|-
+| [[File:pinkan Mountain.png|30px]] [[Pinkan Mountain]]  ||  Pinkan Island  ||  style="text-align: right;" | 89,500 {{dungeontokens}}
 |}
 
-&lt;!--T:36--&gt;
-=====Sevii Islands 4567=====
-{| class="mw-collapsible mw-collapsed wikitable sortable"
-|-
-! Name !! Location !! Entry Price
-|-
-| [[File:Icefall Cave.png|30px]] [[Icefall Cave]]  || Sevii Island 4 ||  style="text-align: right;" | 43,000 {{dungeontokens}}
-|-
-| [[File:Sunburst Island.png|30px]] [[Sunburst Island]]  || Sevii Island 5 ||  style="text-align: right;" | 43,000 {{dungeontokens}}
-|-
-| [[File:Lost Cave.png|30px]] [[Lost Cave]]  || Sevii Island 5 ||  style="text-align: right;" | 36,000 {{dungeontokens}}
-|-
-| [[File:Pattern Bush.png|30px]] [[Pattern Bush]]  || Sevii Island 6 ||  style="text-align: right;" | 43,000 {{dungeontokens}}
-|-
-| [[File:Altering Cave.png|30px]] [[Altering Cave]]  || Sevii Island 6 ||  style="text-align: right;" | 43,000 {{dungeontokens}}
-|-
-| [[File:Tanoby Ruins.png|30px]] [[Tanoby Ruins]]  || Sevii Island 7 ||  style="text-align: right;" | 43,000 {{dungeontokens}}
-|-
-| [[File:Pinkan Mountain.png|30px]] [[Pinkan Mountain]]  || Pinkan Island ||  style="text-align: right;" | 89,500 {{dungeontokens}}
-|}
-
-&lt;!--T:30--&gt;
 ==== [[Johto]] ====
 {| class="mw-collapsible mw-collapsed wikitable sortable"
 |-
@@ -662,12 +1616,13 @@ The following tables provide detailed information for every route, separated by 
 |-
 | [[File:Dark Cave.png|30px]] [[Dark Cave]]  ||  Between Johto Route 45 &amp; 46  ||  style="text-align: right;" | 6,500 {{dungeontokens}}
 |-
+| [[File:Tohjo_Falls.png|30px]] [[Tohjo Falls]]  || Johto Route 27  ||  style="text-align: right;" | 6,750 {{dungeontokens}}
+|-
 | [[File:Victory Road Johto.png|30px]] [[Victory Road Johto]]  ||  Johto Route 26  ||  style="text-align: right;" | 7,000 {{dungeontokens}}
 |-
 | [[File:Mt Silver.png|30px]] [[Mt Silver]]  ||  Johto Route 28  ||  style="text-align: right;" | 10,000 {{dungeontokens}}
 |}
 
-&lt;!--T:31--&gt;
 ==== [[Hoenn]] ====
 {| class="mw-collapsible mw-collapsed wikitable sortable"
 |-
@@ -710,7 +1665,6 @@ The following tables provide detailed information for every route, separated by 
 | [[File:Victory Road Hoenn.png|30px]] [[Victory Road Hoenn]]  ||  Before Pokémon League Hoenn  ||  style="text-align: right;" | 37,000 {{dungeontokens}}
 |}
 
-&lt;!--T:26--&gt;
 ==== [[Sinnoh]] ====
 {| class="mw-collapsible mw-collapsed wikitable sortable"
 |-
@@ -764,8 +1718,6 @@ The following tables provide detailed information for every route, separated by 
 |-
 | [[File:Hall of Origin.png|30px]] [[Hall of Origin]]  ||  Between Sinnoh Route 211 &amp; 210  ||  style="text-align: right;" | 106,500 {{dungeontokens}}
 |}
-
-&lt;!--T:32--&gt;
 ==== [[Unova]] ====
 {| class="mw-collapsible mw-collapsed wikitable sortable"
 |-
@@ -817,16 +1769,12 @@ The following tables provide detailed information for every route, separated by 
 |-
 | [[File:P2 Laboratory.png|30px]] [[P2 Laboratory]]  ||  Unova Route 18  ||  style="text-align: right;" | 396,500 {{dungeontokens}}
 |}
-
-&lt;!--T:33--&gt;
 ==== [[Kalos]] ====
 {| class="mw-collapsible mw-collapsed wikitable sortable"
 |-
 ! Name !! Location !! Entry Price
 |-
 | [[File:Santalune Forest.png|30px]] [[Santalune Forest]]  ||  Between Kalos Route 2 &amp; 3  ||  style="text-align: right;" | 400,000 {{dungeontokens}}
-|-
-| [[File:Parfum Palace.png|30px]] [[Parfum Palace]]  ||  Kalos Route 6  ||  style="text-align: right;" | 445,000 {{dungeontokens}}
 |-
 | [[File:Connecting Cave.png|30px]] [[Connecting Cave]]  ||  Between Cyllage City &amp; Kalos Routes 7 &amp; 8  ||  style="text-align: right;" | 475,000 {{dungeontokens}}
 |-
@@ -853,13 +1801,12 @@ The following tables provide detailed information for every route, separated by 
 | [[File:Victory_Road_Kalos.png|30px]] [[Victory Road Kalos]]  ||  Between Kalos Routes 21 &amp; 22  ||  style="text-align: right;" | 750,500 {{dungeontokens}}
 |}
 
-&lt;!--T:34--&gt;
 ==== [[Alola]] ====
 {| class="mw-collapsible mw-collapsed wikitable sortable"
 |-
 ! Name !! Location !! Entry Price
 |-
-| [[File:Trainers' School.png|30px]] [[Trainers' School]]  ||  West of Hau'oli Outskirts  ||  style="text-align: right;" | 757,500 {{dungeontokens}}
+| [[File:Trainers' School.png|30px]] [[Trainers' School]]  ||  West of Haou'li Outskirts  ||  style="text-align: right;" | 757,500 {{dungeontokens}}
 |-
 | [[File:Hau'oli Cemetery.png|30px]] [[Hau'oli Cemetery]]  ||  East of Route 2  ||  style="text-align: right;" | 800,000 {{dungeontokens}}
 |-
@@ -925,76 +1872,49 @@ The following tables provide detailed information for every route, separated by 
 |-
 ! Name !! Location !! Entry Price
 |-
-| [[File:Slumbering Weald Shrine.png|30px]] [[Slumbering Weald Shrine]] || West of Postwick, in Slumbering Weald || style="text-align: right;" | 2,000,000 {{dungeontokens}}
+| [[File:Slumbering Weald Shrine.png|30px]] [[Slumbering Weald Shrine]]  || West of Postwick, in Slumbering Weald ||  style="text-align: right;" | 2,000,000 {{dungeontokens}}
 |-
-| [[File:Galar Mine.png|30px]] [[Galar Mine]] || Between Galar Route 3 and Galar Route 4 || style="text-align: right;" | 1,320,000 {{dungeontokens}}
+| [[File:Galar Mine.png|30px]] [[Galar Mine]]  || Between Galar Route 3 and Galar Route 4 ||  style="text-align: right;" | 1,320,000 {{dungeontokens}}
 |-
-| [[File:Galar Mine No. 2.png|30px]] [[Galar Mine No. 2]] || South of Hulbury || style="text-align: right;" | 1,430,000 {{dungeontokens}}
+| [[File:Galar Mine No. 2.png|30px]] [[Galar Mine No. 2]]  || South of Hulbury ||  style="text-align: right;" | 1,430,000 {{dungeontokens}}
 |-
-| [[File:Rose Tower.png|30px]] [[Rose Tower]] || North of Wyndon || style="text-align: right;" | 1,800,000 {{dungeontokens}}
+| [[File:Rose Tower.png|30px]] [[Rose Tower]]  || North of Wyndon ||  style="text-align: right;" | 1,800,000 {{dungeontokens}}
 |-
-| [[File:Energy Plant.png|30px]] [[Energy Plant]] || In Hammerlocke || style="text-align: right;" | 1,850,000 {{dungeontokens}}
+| [[File:Energy Plant.png|30px]] [[Energy Plant]]  || In Hammerlocke ||  style="text-align: right;" | 1,850,000 {{dungeontokens}}
 |-
-| [[File:Glimwood Tangle.png|30px]] [[Glimwood Tangle]] || North of Stow-on-Side || style="text-align: right;" | 1,680,000 {{dungeontokens}}
+| [[File:Glimwood Tangle.png|30px]] [[Glimwood Tangle]]  || North of Stow-on-Side ||  style="text-align: right;" | 1,680,000 {{dungeontokens}}
 |-
-| [[File:Dusty Bowl.png|30px]] [[Dusty Bowl]] || Between Giant's Cap and Giant's Mirror || style="text-align: right;" | 1,570,000 {{dungeontokens}}
+| [[File:Dusty Bowl.png|30px]] [[Dusty Bowl]]  || Between Giant's Cap and Giant's Mirror ||  style="text-align: right;" | 1,570,000 {{dungeontokens}}
 |-
-| [[File:Warm-Up Tunnel.png|30px]] [[Warm-Up Tunnel]] || Between Training Lowlands and Potbottom Desert || style="text-align: right;" | 1,730,000 {{dungeontokens}}
+| [[File:Warm-Up Tunnel.png|30px]] [[Warm-Up Tunnel]]  || Between Training Lowlands and Potbottom Desert ||  style="text-align: right;" | 1,730,000 {{dungeontokens}}
 |-
-| [[File:Courageous Cavern.png|30px]] [[Courageous Cavern]] || North of Armor Station || style="text-align: right;" | 1,730,000 {{dungeontokens}}
+| [[File:Courageous Cavern.png|30px]] [[Courageous Cavern]]  || North of Armor Station ||  style="text-align: right;" | 1,730,000 {{dungeontokens}}
 |-
-| [[File:Brawlers Cave.png|30px]] [[Brawlers' Cave]] || East of Forest of Focus || style="text-align: right;" | 1,730,000 {{dungeontokens}}
+| [[File:Brawlers' Cave.png|30px]] [[Brawlers' Cave]]  || East of Forest of Focus ||  style="text-align: right;" | 1,730,000 {{dungeontokens}}
 |-
-| [[File:Tower of Darkness.png|30px]] [[Tower of Darkness]] || North of Challenge Road || style="text-align: right;" | 2,000,000 {{dungeontokens}}
+| [[File:Tower of Darkness.png|30px]] [[Tower of Darkness]]  || North of Challenge Road ||  style="text-align: right;" | 2,000,000 {{dungeontokens}}
 |-
-| [[File:Tower of Waters.png|30px]] [[Tower of Waters]] || North of Challenge Beach || style="text-align: right;" | 2,000,000 {{dungeontokens}}
+| [[File:Tower of Waters.png|30px]] [[Tower of Waters]]  || North of Challenge Beach ||  style="text-align: right;" | 2,000,000 {{dungeontokens}}
 |-
-| [[File:Roaring-Sea Caves.png|30px]] [[Roaring-Sea Caves]] || North of Giant's Foot || style="text-align: right;" | 1,730,000 {{dungeontokens}}
+| [[File:Roaring-Sea Caves.png|30px]] [[Roaring-Sea Caves]]  || North of Giant's Foot ||  style="text-align: right;" | 1,730,000 {{dungeontokens}}
 |-
-| [[File:Rock Peak Ruins.png|30px]] [[Rock Peak Ruins]] || Southeast of Giant's Bed || style="text-align: right;" | 1,920,000 {{dungeontokens}}
+| [[File:Rock Peak Ruins.png|30px]] [[Rock Peak Ruins]]  || Southeast of Giant's Bed ||  style="text-align: right;" | 1,920,000 {{dungeontokens}}
 |-
-| [[File:Iron Ruins.png|30px]] [[Iron Ruins]] || Northwest of Giant's Bed || style="text-align: right;" | 1,920,000 {{dungeontokens}}
+| [[File:Iron Ruins.png|30px]] [[Iron Ruins]]  || Northwest of Giant's Bed ||  style="text-align: right;" | 1,920,000 {{dungeontokens}}
 |-
-| [[File:Iceberg Ruins.png|30px]] [[Iceberg Ruins]] || North of Snowslide Slope || style="text-align: right;" | 1,920,000 {{dungeontokens}}
+| [[File:Iceberg Ruins.png|30px]] [[Iceberg Ruins]]  || North of Snowslide Slope ||  style="text-align: right;" | 1,920,000 {{dungeontokens}}
 |-
-| [[File:Split-Decision Ruins.png|30px]] [[Split-Decision Ruins]] || South of Frigid Sea || style="text-align: right;" | 2,000,000 {{dungeontokens}}
+| [[File:Split-Decision Ruins.png|30px]] [[Split-Decision Ruins]]  || South of Frigid Sea ||  style="text-align: right;" | 2,000,000 {{dungeontokens}}
 |-
-| [[File:Lakeside Cave.png|30px]] [[Lakeside Cave]] || South of Rock Peak Ruins, northeast of Ballimere Lake || style="text-align: right;" | 1,750,000 {{dungeontokens}}
+| [[File:Lakeside Cave.png|30px]] [[Lakeside Cave]]  || South of Rock Peak Ruins, Northeast of Ballimere Lake ||  style="text-align: right;" | 1,750,000 {{dungeontokens}}
 |-
-| [[File:Dyna Tree Hill.png|30px]] [[Dyna Tree Hill]] || In the middle of Ballimere Lake || style="text-align: right;" | 1,920,000 {{dungeontokens}}
+| [[File:Dyna Tree Hill.png|30px]] [[Dyna Tree Hill]]  || In the middle of Ballimere Lake ||  style="text-align: right;" | 1,920,000 {{dungeontokens}}
 |-
-| [[File:Tunnel to the Top.png|30px]] [[Tunnel to the Top]] || Northeast of Snowslide Slope, east of Iceberg Ruins || style="text-align: right;" | 2,000,000 {{dungeontokens}}
+| [[File:Tunnel to the Top.png|30px]] [[Tunnel to the Top]]  || Northeast of Snowslide Slope, East of Iceberg Ruins ||  style="text-align: right;" | 2,000,000 {{dungeontokens}}
 |-
-| [[File:Crown Shrine.png|30px]] [[Crown Shrine]] || North of Path to the Peak || style="text-align: right;" | 2,200,000 {{dungeontokens}}
+| [[File:Crown Shrine.png|30px]] [[Crown Shrine]]  || North of Path to the Peak ||  style="text-align: right;" | 2,200,000 {{dungeontokens}}
 |}
 
-====Trivia====
-To complete all dungeon achievements, you would need the following number of Dungeon Tokens.
-{| class="mw-collapsible wikitable" style="text-align: right;"
-|-
-! Region !! 1 Time !! 10 Times !! 100 Times !! 500 Times
-|-
-| style="text-align: left;" | [[Kanto]] || 398,220 {{dungeontokens}} || 3,982,200 {{dungeontokens}} || 39,822,000 {{dungeontokens}} || 199,110,000 {{dungeontokens}}
-|-
-| style="text-align: left;" | [[Johto]] || 83,000 {{dungeontokens}} || 830,000 {{dungeontokens}} || 8,300,000 {{dungeontokens}} || 41,500,000 {{dungeontokens}}
-|-
-| style="text-align: left;" | [[Hoenn]] || 459,000 {{dungeontokens}} || 4,590,000 {{dungeontokens}} || 45,900,000 {{dungeontokens}} || 229,500,000 {{dungeontokens}}
-|-
-| style="text-align: left;" | [[Sinnoh]] || 1,805,750 {{dungeontokens}} || 18,057,500 {{dungeontokens}} || 180,575,000 {{dungeontokens}} || 902,875,000 {{dungeontokens}}
-|-
-| style="text-align: left;" | [[Unova]] || 5,950,500 {{dungeontokens}} || 59,505,000 {{dungeontokens}} || 595,050,000 {{dungeontokens}} || 2,975,250,000 {{dungeontokens}}
-|-
-|style="text-align: left;" | [[Kalos]] || 7,876,000 {{dungeontokens}} || 78,760,000 {{dungeontokens}} || 787,600,000 {{dungeontokens}} || 3,938,000,000 {{dungeontokens}}
-|-
-|style="text-align: left;" | [[Alola]] || 30,367,500 {{dungeontokens}} || 303,675,000 {{dungeontokens}} || 3,036,750,000 {{dungeontokens}} || 15,183,750,000 {{dungeontokens}}
-|-
-|style="text-align: left;" | [[Galar]] || 38,200,000 {{dungeontokens}} || 382,000,000 {{dungeontokens}} || 3,820,000,000 {{dungeontokens}} || 19,100,000,000 {{dungeontokens}}
-|-
-| style="text-align: left;" | Total || 85,139,970 {{dungeontokens}} || 851,399,700 {{dungeontokens}} || 8,513,997,000 {{dungeontokens}} || 42,569,985,000 {{dungeontokens}}
-|-
-|}
-
-&lt;!--T:27--&gt;
 ===Shopmon===
 {| class="wikitable" style="text-align: center;"
 |-
@@ -1003,16 +1923,24 @@ To complete all dungeon achievements, you would need the following number of Dun
 | [[Shops#Friseur Furfrou|Friseur Furfrou (Kalos)]] || [[File:Furfrou_(Pharaoh)_Shuffle.png|30px]] || [[File:Furfrou_(Pharaoh).png|40px]]Furfrou (Pharaoh) || 300,000,000 {{dungeontokens}}
 |}
 
-&lt;!--T:28--&gt;
-[[Category:Currencies]]
-&lt;/translate&gt;</text>
+===Hatchery Helpers===
+{| class="wikitable" style="text-align: center;"
+|-
+! Helper !! Cost per hatch !! Purchase prize!! Shop
+|-
+|[[File:HHParker.png|30px]] &lt;br&gt; Parker|| 1,000 {{dungeontokens}} || Unlocks after hatch 1,000 eggs || - 
+|-
+|[[File:HHDakota.png|30px]] &lt;br&gt; Dakota || 10,000 {{dungeontokens}} || 100,000 {{dungeontokens}} ||  [[Shops#Johto: Locations &amp; Items|Mahogany Town]]
+|} 
+
+[[Category:Currencies]]</text>
     <contributor>
       <username>ThePantMan</username>
       <id>310</id>
     </contributor>
-    <comment>/* Galar */</comment>
+    <comment>/* Here have Galar (Not everything is here. Some dungeons are missing but that's intended. I won't be updating because that should go in the New Wiki. This is just a backup I had) */</comment>
     <model>wikitext</model>
-    <parentid>39283</parentid>
-    <sha1>0cc4abdd3d622a0c58b85cdadfceb19b1aec5ad8</sha1>
+    <parentid>40756</parentid>
+    <sha1>f43886a9a95f62a8adb7e4f1ea14c8decbab5ac5</sha1>
   </revision>
 </page></mediawiki>
