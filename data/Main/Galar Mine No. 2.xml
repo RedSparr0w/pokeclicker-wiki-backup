@@ -1,0 +1,113 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Galar Mine No. 2</title>
+  <ns>0</ns>
+  <id>16745</id>
+  <revision>
+    <id>41314</id>
+    <timestamp>2022-11-09T06:01:42Z</timestamp>
+    <text space="preserve" bytes="2987">&lt;languages/&gt;
+&lt;translate&gt;
+&lt;!--T:1--&gt;
+{{Infobox dungeon
+|name    = Galar Mine No. 2
+|image   = [[File:Galar Mine No. 2.png|300px]]
+|caption = A map of Galar Mine No. 2.
+|tokens  = 1,430,000
+|location = South of Hulbury
+}}
+
+&lt;!--T:2--&gt;
+'''Galar Mine No. 2''' is a [[Dungeons|dungeon]] in [[Galar]]. It initially has 125 tiles arranged in two floors: 10x10 and 6x6 in size, respectively; including 16 chest tiles, 38 non-boss encounter tiles, 1 ladder tile, and 1 boss encounter tile. Wild Encounters have 21,294,640 HP.
+
+== Encounter Tables == &lt;!--T:3--&gt;
+
+===Wild Encounters=== &lt;!--T:4--&gt;
+
+&lt;!--T:5--&gt;
+{| class="wikitable"
+|-
+! Wild Pokémon !! colspan=2|Trainers
+|-
+! Encounter !! Trainer !! Pokémon Team
+|-
+| [[File:Shellos (east).png|40px]] Shellos (East) || rowspan=2| [[File:Worker.png|40px]] Worker Francis || rowspan=2| [[File:Carkol.png|40px]] Carkol
+|-
+| [[File:Wimpod.png|40px]] Wimpod 
+|-
+| [[File:Binacle.png|40px]] Binacle || rowspan=2| [[File:Worker (female).png|40px]] Worker Yvonne || rowspan=2| [[File:Roggenrola.png|40px]] Roggenrola, [[File:Timburr.png|40px]] Timburr
+|-
+| [[File:Chewtle.png|40px]] Chewtle
+|-
+| [[File:Scraggy.png|40px]] Scraggy || rowspan=3| [[File:Team Yell Grunts.png|40px]] Team Yell Grunts || rowspan=3| [[File:Thievul.png|40px]] Thievul, [[File:Galarian Linoone.png|40px]] Galarian Linoone, [[File:Liepard.png|40px]] Liepard, [[File:Pancham.png|40px]] Pancham
+|-
+| [[File:Croagunk.png|40px]] Croagunk
+|-
+| [[File:Shuckle.png|40px]] Shuckle
+|-
+| [[File:Noibat.png|40px]] Noibat || rowspan=3| [[File:Rail Staff.png|40px]] Rail Staff Vincent || rowspan=3| [[File:Drilbur.png|40px]] Drilbur, [[File:Onix.png|40px]] Onix
+|-
+| [[File:Barboach.png|40px]] Barboach
+|-
+| [[File:Corphish.png|40px]] Corphish
+|}
+
+&lt;!--T:6--&gt;
+===Boss Encounters===
+{| class="wikitable"
+|-
+! Wild Pokémon !! Base Health !! Boss Trainer !! Pokémon Team !! Base Health
+|-
+| [[File:Galarian Stunfisk.png|50px]] Galarian Stunfisk || rowspan=3| &lt;center&gt;106,473,200 || rowspan=3 colspan=3|&lt;center&gt;N/A
+|-
+| [[File:Gastrodon (east).png|50px]] Gastrodon (East)
+|-
+| [[File:Drednaw.png|50px]] Drednaw
+|}
+
+==Items== &lt;!--T:7--&gt;
+
+&lt;!--T:8--&gt;
+{| class="wikitable"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+|-
+| align="center" colspan=6| '''Common'''
+|-
+| {{Bag2|Dowsing Machine}} || 4 || 42.85% || 41.23% || 34.65%
+|-
+| {{Bag2|xClick}} || 2.5 || 26.78% || 25.77% || 21.66%
+|-
+| {{Pokemon|Galarian Stunfisk|mimic}} || 0.5 || 5.36% || 5.15% || 4.33%
+|-
+| align="center" colspan=6| '''Rare'''
+|-
+| {{Bag2|Blue Shard}} || N/A || 10.01% || 10.52% || 12.61%
+|-
+| {{Bag2|Ochre Shard}} || N/A || 10.01% || 10.52% || 12.61%
+|-
+| align="center" colspan=6| '''Epic'''
+|-
+| {{Bag2|Earth Plate}} || N/A || 2.01% || 2.61% || 5.05%
+|-
+| {{Bag2|Duskball}} || N/A || 2.01% || 2.61% || 5.05%
+|-
+| align="center" colspan=6| '''Legendary'''
+|-
+| {{Bag2|Star Piece}} || N/A || 1.00% || 1.59% || 4.03%
+|}
+
+&lt;!--T:9--&gt;
+{{Galar Dungeons}}
+[[Category:Dungeons|^Region #8 - Galar^a]]
+&lt;/translate&gt;</text>
+    <contributor>
+      <username>ThePantMan</username>
+      <id>310</id>
+    </contributor>
+    <comment>/* mimic */</comment>
+    <model>wikitext</model>
+    <parentid>40003</parentid>
+    <sha1>cd859af5118aaa011a43048c3a5c1f72d456d11b</sha1>
+  </revision>
+</page></mediawiki>

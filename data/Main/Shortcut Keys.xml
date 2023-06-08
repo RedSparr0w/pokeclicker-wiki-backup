@@ -1,0 +1,73 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Shortcut Keys</title>
+  <ns>0</ns>
+  <id>143</id>
+  <revision>
+    <id>28874</id>
+    <timestamp>2022-08-29T08:28:00Z</timestamp>
+    <text space="preserve" bytes="1850">&lt;languages/&gt;
+&lt;translate&gt;
+==Modals== &lt;!--T:1--&gt;
+''Use on the main game screen (only works if the player can access the feature)''
+*Open the Farm Modal - '''F'''
+*Open the Hatchery Modal - '''H'''
+*Open the Oak Items Modal - '''O'''
+*Open the Underground Modal - '''U'''
+*Open the Poké Ball Selector Modal (number is the index [1-4] of the selector choice) - '''P + Number Key'''
+
+==Miscellaneous Main Screen== &lt;!--T:2--&gt;
+''Main game screen''
+*Go to the previous route (by [[Route Statistics|Route Order]]) - '''-'''
+*Go to the next route (by [[Route Statistics|Route Order]]) - '''+/='''
+
+===[[Farm]]=== &lt;!--T:3--&gt;
+''Use with the Farm Modal open''
+*Toggle the Shovel Item - '''S'''
+*Toggle the Plot Lock Option - '''L (or Shift + Click)'''
+
+===[[Underground]]=== &lt;!--T:4--&gt;
+''Use with the Underground Modal open''
+*Switch to the Hammer Item - '''H'''
+*Switch to the Chisel Item - '''C'''
+*Use the Survey tool - '''S'''
+*Use the Bomb tool - '''B'''
+
+===[[Oak Items]]=== &lt;!--T:5--&gt;
+''Use with the Oak Items Modal open''
+*Toggle item in the Oak Items menu - '''Number Keys 1-0 (corresponds to the number of the Oak Item)'''
+
+==[[Dungeons]]== &lt;!--T:6--&gt;
+''Use with the Dungeon Modal open (also works with the [[Safari Zone]] modal)''
+*Move Up - '''W or Up Arrow Key (↑)'''
+*Move Left - '''A or Left Arrow Key (←)'''
+*Move Down - '''S or Down Arrow Key (↓)'''
+*Move Right - '''D or Right Arrow Key (→)'''
+*Interact with Chest/Boss - '''Space Key'''
+
+==[[Towns &amp; Cities]]== &lt;!--T:7--&gt;
+''Use in Towns and Dungeons''
+*Start first town content - '''Space Key'''
+*Start Elite 4/Champion Battle - '''1-5'''
+
+==[[Shops]]== &lt;!--T:8--&gt;
+''Use in Shops''
+*Buy Item - '''B'''
+*Select Max Items - '''M'''
+*Reset Item Amount - '''R'''
+*Increase Item Amount - '''I'''
+
+==Miscellaneous== &lt;!--T:9--&gt;
+''Use anywhere''
+*Force Save Game - '''Shift + S'''
+&lt;/translate&gt;</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>59</id>
+    </contributor>
+    <comment>Marked this version for translation</comment>
+    <model>wikitext</model>
+    <parentid>26031</parentid>
+    <sha1>bb86e8ee6a30182d753ca0b7853f9dd8ff8e3be2</sha1>
+  </revision>
+</page></mediawiki>

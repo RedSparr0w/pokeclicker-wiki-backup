@@ -1,0 +1,196 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Berry Forest/fr</title>
+  <ns>0</ns>
+  <id>11129</id>
+  <revision>
+    <id>35053</id>
+    <timestamp>2022-09-13T13:18:25Z</timestamp>
+    <text space="preserve" bytes="5161">&lt;languages/&gt;
+{{Infobox dungeon
+|name    = Bois Baies
+|image   = [[File:Berry Forest.png|thumb]]
+|caption = Une carte du Bois Baies.
+|tokens  = 1 750
+|location = Île 3 de l'Archipel Sevii.
+}}
+Le '''Bois Baies''' est un [[Dungeons|donjon]] de [[Kanto]]. Il a 25 cases arrangées en 5x5, comprenant 5 coffres, 13 rencontres hors boss et 1 case de Combat de Boss. Les rencontres sauvages ont 18 120 PV.
+
+&lt;span id="Encounter_Tables"&gt;&lt;/span&gt;
+== Tables des rencontres ==
+
+&lt;span id="Wild_Encounters"&gt;&lt;/span&gt;
+===Rencontres Sauvages===
+
+{| class="wikitable"
+|-
+! Pokémon sauvages !! colspan=2|Dresseurs
+|-
+! Rencontre !! Dresseur !! Équipe Pokémon
+|-
+| [[File:Pidgey.png|40px]] Roucool || colspan=2, rowspan=16|&lt;center&gt; N/A
+|-
+| [[File:Pidgeotto.png|40px]] Roucoups
+|-
+| [[File:Oddish.png|40px]] Mystherbe
+|-
+| [[File:Gloom.png|40px]] Ortide
+|-
+| [[File:Venonat.png|40px]] Mimitoss
+|-
+| [[File:Psyduck.png|40px]] Psykokwak
+|-
+| [[File:Golduck.png|40px]] Akwakwak
+|-
+| [[File:Poliwag.png|40px]] Ptitard
+|-
+| [[File:Bellsprout.png|40px]] Chétiflor
+|-
+| [[File:Weepinbell.png|40px]] Boustiflor
+|-
+| [[File:Slowpoke.png|40px]] Ramoloss
+|-
+| [[File:Slowbro.png|40px]] Flagadoss
+|-
+| [[File:Drowzee.png|40px]] Soporifik
+|-
+| [[File:Exeggcute.png|40px]] Noeunoeuf
+|-
+| [[File:Goldeen.png|40px]] Poissirène
+|-
+| [[File:Magikarp.png|40px]] Magicarpe
+|}
+
+===Combats de Boss===
+{| class="wikitable"
+|-
+! Pokémon sauvages !! PV de base !! Dresseurs !! Équipe Pokémon !! PV de base
+|-
+| [[File:Venomoth.png|40px]] Aéromite || &lt;center&gt;101 427 || rowspan=2, colspan=3| &lt;center&gt;N/A
+|-
+| [[File:Hypno.png|40px]] Hypnomade || &lt;center&gt;101 427
+|}
+
+&lt;span id="Items"&gt;&lt;/span&gt;
+==Objets==
+
+&lt;span id="No_Debuff"&gt;&lt;/span&gt;
+===Sans Perte de Bonus===
+
+{| class="wikitable"
+|-
+! Objet de coffre !! Poids !! Complétion 0 fois!! Complétion 100 fois !! Complétion 500 fois !! Prérequis
+|-
+| align="center" colspan=6| '''Commun'''
+|-
+| {{Bag2|xClick|Clic +}} || N/A || 8,41% || 8,13% || 6,94% || rowspan=9|&lt;center&gt; N/A
+|-
+| {{Bag2|Cheri|Ceriz}} || N/A || 8,41% || 8,13% || 6,94%
+|-
+| {{Bag2|Chesto|Maron}} || N/A || 8,41% || 8,13% || 6,94%
+|-
+| {{Bag2|Pecha|Pêcha}} || N/A || 8,41% || 8,13% || 6,94%
+|-
+| {{Bag2|Rawst|Fraive}} || N/A || 8,41% || 8,13% || 6,94%
+|-
+| {{Bag2|Aspear|Willia}} || N/A || 8,41% || 8,13% || 6,94%
+|-
+| {{Bag2|Leppa|Mepo}} || N/A || 8,41% || 8,13% || 6,94%
+|-
+| {{Bag2|Oran}} || N/A || 8,41% || 8,13% || 6,94%
+|-
+| {{Bag2|Sitrus}} || N/A || 8,41% || 8,13% || 6,94%
+|-
+| align="center" colspan=6| '''Rare'''
+|-
+| {{Bag2|Green Shard|Tesson Vert}} || N/A || 10,11% || 10,66% || 12,99% || rowspan=2|&lt;center&gt; N/A
+|-
+| {{Bag2|Yellow Shard|Tesson Jaune}} || N/A || 10,11% || 10,66% || 12,99%
+|-
+| align="center" colspan=6| '''Épique'''
+|-
+| {{Bag2|Razz|Framby}} || N/A || 0,68% || 0,88% || 1,74% || rowspan=6|&lt;center&gt; N/A
+|-
+| {{Bag2|Persim|Kika}} || N/A || 0,68% || 0,88% || 1,74%
+|-
+| {{Bag2|Bluk|Remu}} || N/A || 0,68% || 0,88% || 1,74%
+|-
+| {{Bag2|Nanab}} || N/A || 0,68% || 0,88% || 1,74%
+|-
+| {{Bag2|Wepear|Repoi}} || N/A || 0,68% || 0,88% || 1,74%
+|-
+| {{Bag2|Iapapa|Papaya}} || N/A || 0,68% || 0,88% || 1,74%
+|-
+| align="center" colspan=6| '''Mythique'''
+|-
+| {{Bag2|Lum|Prine}} || N/A || 0% || 0% || 1,10% || Complétion 400 fois
+|}
+
+&lt;span id="Debuff_Drop_Table"&gt;&lt;/span&gt;
+===Table du taux d'obtention avec Perte de bonus===
+
+Après avoir atteint Sinnoh, le taux d'obtention des objets dans la région de Kanto sera abaissé pour tout objet avec un tiers de rareté supérieur à Rare (i.e. : Épique , Légendaire, Mythique).
+
+{| class="wikitable collapsible collapsed"
+|-
+! Objet de coffre !! Poids !! Complétion 0 fois!! Complétion 100 fois !! Complétion 500 fois !! Prérequis
+|-
+| align="center" colspan=6| '''Commun'''
+|-
+| {{Bag2|xClick|Clic +}} || N/A || 8,34% || 8,34% || 8,34% || rowspan=9|&lt;center&gt; N/A
+|-
+| {{Bag2|Cheri|Ceriz}} || N/A || 8,34% || 8,34% || 8,34%
+|-
+| {{Bag2|Chesto|Maron}} || N/A || 8,34% || 8,34% || 8,34%
+|-
+| {{Bag2|Pecha|Pêcha}} || N/A || 8,34% || 8,34% || 8,34%
+|-
+| {{Bag2|Rawst|Fraive}} || N/A || 8,34% || 8,34% || 8,34%
+|-
+| {{Bag2|Aspear|Willia}} || N/A || 8,34% || 8,34% || 8,34%
+|-
+| {{Bag2|Leppa|Mepo}} || N/A || 8,34% || 8,34% || 8,34%
+|-
+| {{Bag2|Oran}} || N/A || 8,34% || 8,34% || 8,34%
+|-
+| {{Bag2|Sitrus}} || N/A || 8,34% || 8,34% || 8,34%
+|-
+| align="center" colspan=6| '''Rare'''
+|-
+| {{Bag2|Green Shard|Tesson Vert}} || N/A || 12,01% || 12,01% || 12,01% || rowspan=2|&lt;center&gt; N/A
+|-
+| {{Bag2|Yellow Shard|Tesson Jaune}} || N/A || 12,01% || 12,01% || 12,01%
+|-
+| align="center" colspan=6| '''Épique'''
+|-
+| {{Bag2|Razz|Framby}} || N/A || 0,15% || 0,15% || 0,15% || rowspan=6|&lt;center&gt; N/A
+|-
+| {{Bag2|Persim|Kika}} || N/A || 0,15% || 0,15% || 0,15%
+|-
+| {{Bag2|Bluk|Remu}} || N/A || 0,15% || 0,15% || 0,15%
+|-
+| {{Bag2|Nanab}} || N/A || 0,15% || 0,15% || 0,15%
+|-
+| {{Bag2|Wepear|Repoi}} || N/A || 0,15% || 0,15% || 0,15%
+|-
+| {{Bag2|Iapapa|Papaya}} || N/A || 0,15% || 0,15% || 0,15%
+|-
+| align="center" colspan=6| '''Mythique'''
+|-
+| {{Bag2|Lum|Prine}} || N/A || 0% || 0% || &lt;0,01% || Complétion 400 fois
+|}
+
+{{Kanto Dungeons}}
+
+[[Category:Dungeons|^Region #1 - Kanto^l]]
+[[Category:Donjons|^Région #1 - Kanto^l]]</text>
+    <contributor>
+      <username>PetroleVB</username>
+      <id>619</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>29924</parentid>
+    <sha1>ddf49656eaffcc98d68570d1a57b4b97b2681f21</sha1>
+  </revision>
+</page></mediawiki>

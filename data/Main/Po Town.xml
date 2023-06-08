@@ -1,0 +1,127 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Po Town</title>
+  <ns>0</ns>
+  <id>4154</id>
+  <revision>
+    <id>40524</id>
+    <timestamp>2022-10-31T06:19:56Z</timestamp>
+    <text space="preserve" bytes="4064">&lt;languages/&gt;
+&lt;translate&gt;
+&lt;!--T:1--&gt;
+{{Infobox dungeon
+|name    = Po Town
+|image   = [[File:Po Town.png|300px]]
+|caption = A map of Po Town.
+|tokens  = 1,075,000
+|location = North of Route 17
+}}
+
+&lt;!--T:2--&gt;
+'''Po Town''' is a [[Dungeons|dungeon]] in [[Alola]]. It initially has 125 tiles arranged in two floors: 10x10 and 5x5 in size, respectively; including 15 chest tiles, 36 non-boss encounter tiles, 1 ladder tile, and 1 boss encounter tile. Wild Encounters have 15,340,576 HP.
+
+== Encounter Tables == &lt;!--T:3--&gt;
+
+===Wild Encounters=== &lt;!--T:4--&gt;
+
+&lt;!--T:5--&gt;
+{| class="wikitable"
+|-
+! Wild Pokémon !! colspan=2|Trainers
+|-
+! Encounter !! Trainer !! Pokémon Team
+|-
+| rowspan=16|&lt;center&gt;N/A || [[File:Team Skull Grunt (male).png|40px]] Team Skull Grunt || [[File:Spinarak.png|40px]] Spinarak
+|-
+| [[File:Team Skull Grunt (male).png|40px]]  Team Skull Grunt || [[File:Trubbish.png|40px]] Trubbish
+|-
+| [[File:Team Skull Grunt (male).png|40px]] Team Skull Grunt || [[File:Drowzee.png|40px]] Drowzee
+|-
+| [[File:Team Skull Grunt (female).png|40px]] Team Skull Grunt || [[File:Alolan Raticate.png|40px]] Alolan Raticate, [[File:Golbat.png|40px]] Golbat
+|-
+| [[File:Team Skull Grunt (male).png|40px]] Team Skull Grunt || [[File:Ekans.png|40px]] Ekans, [[File:Salandit.png|40px]] Salandit
+|-
+| [[File:Team Skull Grunt (female).png|40px]] Team Skull Grunt || [[File:Fomantis.png|40px]] Fomantis, [[File:Mareanie.png|40px]] Mareanie
+|-
+| [[File:Team Skull Grunt (male).png|40px]]  Team Skull Grunt || [[File:Scraggy.png|40px]] Scraggy
+|-
+| [[File:Office Worker (male).png|40px]] Office Worker Royce || [[File:Elgyem.png|40px]] Elgyem, [[File:Metang.png|40px]] Metang
+|-
+| [[File:Team Skull Grunt (male).png|40px]] Team Skull Grunt || [[File:Drowzee.png|40px]] Drowzee
+|-
+| [[File:Team Skull Grunt (female).png|40px]] Team Skull Grunt || [[File:Salandit.png|40px]] Salandit, [[File:Fomantis.png|40px]] Fomantis
+|-
+| [[File:Team Skull Grunt (female).png|40px]] Team Skull Grunt || [[File:Trubbish.png|40px]] Trubbish, [[File:Houndour.png|40px]] Houndour
+|-
+| [[File:Team Skull Grunt (male).png|40px]] Team Skull Grunt || [[File:Scraggy.png|40px]] Scraggy
+|-
+| [[File:Team Skull Grunt (female).png|40px]] Team Skull Grunt || [[File:Alolan Rattata.png|40px]] Alolan Rattata
+|-
+| [[File:Team Skull Grunt (female).png|40px]] Team Skull Grunt || [[File:Alolan Raticate.png|40px]] Alolan Raticate
+|-
+| [[File:Team Skull Grunt (male).png|40px]] Team Skull Grunt || [[File:Haunter.png|40px]] Haunter, [[File:Alolan Grimer.png|40px]]
+|-
+| [[File:Team Skull Grunt (female).png|40px]] Team Skull Grunt || [[File:Spinarak.png|40px]] Spinarak, [[File:Pawniard.png|40px]] Pawniard, [[File:Golbat.png|40px]] Golbat
+|-
+|}
+
+&lt;!--T:6--&gt;
+===Boss Encounters===
+{| class="wikitable"
+|-
+! Wild Pokémon !! Base Health !! Boss Trainer !! Pokémon Team !! Base Health
+|-
+| colspan=2|&lt;center&gt;N/A || [[File:Team Skull Boss (guzma).png|50px]] Team Skull Boss Guzma || [[File:Golisopod.png|50px]] Golisopod, [[File:Masquerain.png|50px]] Masquerain, [[File:Pinsir.png|40px]] Pinsir  || &lt;center&gt;25,567,627
+|-
+|}
+
+==Items== &lt;!--T:7--&gt;
+
+&lt;!--T:8--&gt;
+{| class="wikitable"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+|-
+| align="center" colspan=6| '''Common'''
+|-
+| {{Bag2|xAttack}} || N/A || 37.49% || 36.08% || 30.32%
+|-
+| {{Bag2|xClick}} || N/A || 37.49% || 36.08% || 30.32%
+|-
+| align="center" colspan=6| '''Rare'''
+|-
+| {{Bag2|Blue Shard}} || N/A || 10.01% || 10.52% || 12.61%
+|-
+| {{Bag2|Green Shard}} || N/A || 10.01% || 10.52% || 12.61%
+|-
+| align="center" colspan=6| '''Epic'''
+|-
+| {{Bag2|Insect Plate}} || N/A || 1.34% || 1.74% || 3.37%
+|-
+| {{Bag2|Toxic Plate}} || N/A || 1.34% || 1.74% || 3.37%
+|-
+| {{Bag2|Dread Plate}} || N/A || 1.34% || 1.74% || 3.37%
+|-
+| align="center" colspan=6| '''Legendary'''
+|-
+| {{Bag2|Large Restore}} || N/A || 0.33% || 0.53% || 1.34%
+|-
+| {{Bag2|Max Revive}} || N/A || 0.33% || 0.53% || 1.34%
+|-
+| {{Bag2|Poison Barb}} || N/A || 0.33% || 0.53% || 1.34%
+|}
+
+&lt;!--T:9--&gt;
+{{Alola Dungeons}}
+[[Category:Dungeons|^Region #7 - Alola^r]]
+&lt;/translate&gt;</text>
+    <contributor>
+      <username>ThePantMan</username>
+      <id>310</id>
+    </contributor>
+    <comment>/* Held items update */</comment>
+    <model>wikitext</model>
+    <parentid>39950</parentid>
+    <sha1>ef52693c2aa3b15be580b25520e35e2d352bd8ac</sha1>
+  </revision>
+</page></mediawiki>

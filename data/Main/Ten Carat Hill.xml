@@ -1,0 +1,113 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Ten Carat Hill</title>
+  <ns>0</ns>
+  <id>4062</id>
+  <revision>
+    <id>40528</id>
+    <timestamp>2022-10-31T06:25:42Z</timestamp>
+    <text space="preserve" bytes="2468">&lt;languages/&gt;
+&lt;translate&gt;
+&lt;!--T:1--&gt;
+{{Infobox dungeon
+|name    = Ten Carat Hill
+|image   = [[File:Ten Carat Hill.png|300px]]
+|caption = A map of Ten Carat Hill.
+|tokens  = 835,000
+|location = West of Melemele Sea
+}}
+
+&lt;!--T:2--&gt;
+'''Ten Carat Hill''' is a [[Dungeons|dungeon]] in [[Alola]]. It initially has 125 tiles arranged in two floors: 10x10 and 5x5 in size, respectively; including 15 chest tiles, 36 non-boss encounter tiles, 1 ladder tile, and 1 boss encounter tile. Wild Encounters have 11,897,821 HP.
+
+== Encounter Tables == &lt;!--T:3--&gt;
+
+===Wild Encounters=== &lt;!--T:4--&gt;
+
+&lt;!--T:5--&gt;
+{| class="wikitable"
+|-
+! Wild Pokémon !! colspan=2|Trainers
+|-
+! Encounter !! Trainer !! Pokémon Team
+|-
+| [[File:Zubat.png|40px]] Zubat ||rowspan=5 colspan=2|&lt;center&gt;N/A
+|-
+| [[File:Machop.png|40px]] Machop
+|-
+| [[File:Psyduck.png|40px]] Psyduck
+|-
+| [[File:Mawile.png|40px]] Mawile
+|-
+| [[File:Roggenrola.png|40px]] Roggenrola
+|-
+|}
+
+&lt;!--T:6--&gt;
+===Boss Encounters===
+{| class="wikitable"
+|-
+! Wild Pokémon !! Base Health !! Boss Trainer !! Pokémon Team !! Base Health
+|-
+| [[File:Spinda.png|50px]] Spinda ||rowspan=3|&lt;center&gt;59,489,105 ||rowspan=3 colspan=3|&lt;center&gt;N/A
+|-
+| [[File:Carbink.png|50px]] Carbink
+|-
+| [[File:Rockruff.png|50px]] Rockruff
+|-
+|}
+
+==Items== &lt;!--T:7--&gt;
+
+&lt;!--T:8--&gt;
+{| class="wikitable"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears !! Requirement
+|-
+| align="center" colspan=6| '''Common'''
+|-
+| {{Bag2|xAttack}} || N/A || 37.48% || 36.00% || 30.00% || rowspan=2| &lt;center&gt; N/A
+|-
+| {{Bag2|xClick}} || N/A || 37.48% || 36.00% || 30.00%
+|-
+| align="center" colspan=6| '''Rare'''
+|-
+| {{Bag2|Red Shard}} || N/A || 10.00% || 10.50% || 12.47% || rowspan=2| &lt;center&gt; N/A
+|-
+| {{Bag2|Yellow Shard}} || N/A || 10.00% || 10.50% || 12.47%
+|-
+| align="center" colspan=6| '''Epic'''
+|-
+| {{Bag2|Greatball}} || N/A || 2.01% || 2.60% || 5.00% || rowspan=2| &lt;center&gt; N/A
+|-
+| {{Bag2|Medium Restore}} || N/A || 2.01% || 2.60% || 5.00%
+|-
+| align="center" colspan=6| '''Legendary'''
+|-
+| {{Bag2|Hard Stone}} || N/A || 0.25% || 0.40% || 1.00% || rowspan=4| &lt;center&gt; N/A
+|-
+| {{Bag2|Ultraball}} || N/A || 0.25% || 0.40% || 1.00%
+|-
+| {{Bag2|Star Piece}} || N/A || 0.25% || 0.40% || 1.00%
+|-
+| {{Bag2|Sharp Beak}} || N/A || 0.25% || 0.40% || 1.00%
+|-
+| align="center" colspan=6| '''Mythic'''
+|-
+| {{Bag2|Protein}} || N/A || 0% || 0% || 1.06% || 200 Clears
+|}
+
+&lt;!--T:9--&gt;
+{{Alola Dungeons}}
+[[Category:Dungeons|^Region #7 - Alola^f]]
+&lt;/translate&gt;</text>
+    <contributor>
+      <username>ThePantMan</username>
+      <id>310</id>
+    </contributor>
+    <comment>/* Held items update */</comment>
+    <model>wikitext</model>
+    <parentid>39930</parentid>
+    <sha1>90e60a35abdb8e09d7cf36b841f62a79ba30c4e1</sha1>
+  </revision>
+</page></mediawiki>

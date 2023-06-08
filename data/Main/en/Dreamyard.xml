@@ -1,0 +1,106 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Dreamyard/en</title>
+  <ns>0</ns>
+  <id>10229</id>
+  <revision>
+    <id>27219</id>
+    <timestamp>2022-08-28T18:07:11Z</timestamp>
+    <text space="preserve" bytes="2997">&lt;languages/&gt;
+{{Infobox dungeon
+|name    = Dreamyard
+|image   = [[File:Dreamyard.png|300px]]
+|caption = A map of Dreamyard.
+|tokens  = 356,500
+|location = Between Unova Route 2 &amp; 3
+}}
+'''Dreamyard''' is a [[Dungeons|dungeon]] in [[Unova]]. It initially has 81 tiles arranged in an 9x9 square, including 9 chest tiles, 21 non-boss encounter tiles, and 1 boss encounter tile. Wild Encounters have 5,203,000 HP.
+
+==Encounter  Tables==
+
+===Wild Encounters===
+
+{| class="wikitable"
+|-
+! Wild Pokémon !! colspan=2|Trainers
+|-
+! Encounter !! Trainer !! Pokémon Team
+|-
+| [[File:Raticate.png|40px]] Raticate ||  [[File:Psychic_(male).png|30px]] Psychic Nandor || [[File:Hypno.png|40px]] Hypno, [[File:Dusclops.png|40px]] Dusclops 
+|-
+| [[File:Jigglypuff.png|40px]] Jigglypuff || [[File:Scientist_(female).png|40px]] Scientist Athena || [[File:Gastly.png|40px]] Gastly, [[File:Skuntank.png|40px]] Skuntank
+|-
+| [[File:Golbat.png|40px]] Golbat || [[File:Psychic_(female).png|40px]] Psychic Olesia || [[File:Chingling.png|40px]] Chingling, [[File:Mr._Mime.png|40px]] Mr. Mime
+|-
+| [[File:Watchog.png|40px]] Watchog || [[File:Scientist_(male).png|40px]] Scientist Franklin || [[File:Klang.png|40px]] Klang, [[File:Porygon.png|40px]] Porygon
+|-
+| [[File:Liepard.png|40px]] Liepard || [[File:School_Kid_(male).png|40px]] School Kid William || [[File:Shroomish.png|40px]] Shroomish, [[File:Tangrowth.png|40px]] Tangrowth
+|-
+| rowspan=2|[[File:Munna.png|40px]] Munna || [[File:Youngster.png|40px]] Youngster Keita || [[File:Slakoth.png|40px]] Slakoth, [[File:Slaking.png|40px]] Slaking
+|-
+| [[File:School_Kid_(female).png|40px]] School Kid Rita || [[File:Igglybuff.png|30px]] Igglybuff, [[File:Lickilicky.png|40px]] Lickilicky
+|}
+
+===Boss Encounters===
+
+{| class="wikitable"
+|-
+! Wild Pokémon !! Base Health !! Boss Trainer !! Pokémon Team !! Base Health
+|-
+| [[File:Audino.png|40px]] Audino || rowspan=4|&lt;center&gt;48,000,000 || rowspan=4 colspan=3|&lt;center&gt;N/A 
+|-
+| [[File:Dunsparce.png|40px]] Dunsparce
+|-
+| [[File:Latias.png|40px]] Latias
+|-
+| [[File:Latios.png|40px]] Latios
+|}
+
+==Items==
+
+{| class="wikitable"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+|-
+| align="center" colspan=6| '''Common'''
+|-
+| {{Bag2|xClick}} || N/A || 37.49% || 36.08% || 30.32%
+|-
+| {{Bag2|Pokéball}} || N/A || 37.49% || 36.08% || 30.32%
+|-
+| align="center" colspan=6| '''Rare'''
+|-
+| {{Bag2|Red Shard}} || N/A || 10.01% || 10.52% || 12.61%
+|-
+| {{Bag2|Blue Shard}} || N/A || 10.01% || 10.52% || 12.61%
+|-
+| align="center" colspan=6| '''Epic'''
+|-
+| {{Bag2|Mind Plate}} || 2 || 2.67% || 3.47% || 6.74%
+|-
+| {{Bag2|Draco Plate}} || N/A || 1.34% || 1.74% || 3.37%
+|-
+| align="center" colspan=6| '''Legendary'''
+|-
+| {{Bag2|Small Restore}} || 2 || 0.28% || 0.46% || 1.15%
+|-
+| {{Bag2|Ultraball}} || 2 || 0.28% || 0.46% || 1.15%
+|-
+| {{Bag2|Revive}} || 2 || 0.28% || 0.46% || 1.15%
+|-
+| {{Bag2|Large Restore}} || N/A || 0.14% || 0.23% || 0.58%
+|}
+
+{{Unova Dungeons}}
+
+[[Category:Dungeons|^Region #5 - Unova^w]]</text>
+    <contributor>
+      <username>FuzzyBot</username>
+      <id>587</id>
+    </contributor>
+    <comment>Updating to match new version of source page</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>43de954c2e1ed08a3731c92445fafa17baa32891</sha1>
+  </revision>
+</page></mediawiki>

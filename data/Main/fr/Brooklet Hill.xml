@@ -1,0 +1,124 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Brooklet Hill/fr</title>
+  <ns>0</ns>
+  <id>11864</id>
+  <revision>
+    <id>35068</id>
+    <timestamp>2022-09-13T13:19:26Z</timestamp>
+    <text space="preserve" bytes="3799">&lt;languages/&gt;
+{{Infobox dungeon
+|name    = Colline Clapotis
+|image   = [[File:Brooklet Hill.png|300px]]
+|caption = Une carte de la Colline Clapotis.
+|tokens  = 875 000
+|location = Ouest de la Route 5
+}}
+
+La '''Colline Clapotis''' est un [[Dungeons/fr|donjon]] d'[[Alola/fr|Alola]]. Il a initialement 121 cases arrangées en 11x11 comprenant 11 coffres, 41 rencontres hors-boss et 1 case de Combat de Boss. Les rencontres sauvages ont 12 128 060 PV. L'[[Gyms#Alola/fr|Aquazélite]][[File:WateriumZ.png|30px]] est donnée en récompense après avoir complété pour la première fois ce donjon.
+
+&lt;span id="Encounter_Tables"&gt;&lt;/span&gt;
+== Tables des rencontres ==
+
+&lt;span id="Wild_Encounters"&gt;&lt;/span&gt;
+===Rencontres sauvages===
+
+{| class="wikitable"
+|-
+! Pokémon sauvages!! colspan=2|Dresseurs
+|-
+! Rencontre !! Dresseur !! Équipe Pokémon
+|-
+| [[File:Paras.png|40px]] Paras || rowspan=2|&lt;center&gt;[[File:Fisherman.png|40px]] Pêcheur Hal || rowspan=2|&lt;center&gt;[[File:Tentacool.png|40px]] Tentacool
+|-
+| [[File:Psyduck.png|40px]] Psykokwak 
+|-
+| [[File:Poliwag.png|40px]] Ptitard|| rowspan=3|&lt;center&gt;[[File:Fisherman.png|40px]] Pêcheur Ernest || rowspan=3|&lt;center&gt;[[File:Barboach.png|40px]] Barloche, [[File:Goldeen.png|40px]] Poissirène
+|-
+| [[File:Tentacool.png|40px]] Tentacool 
+|-
+| [[File:Goldeen.png|40px]] Poissirène
+|-
+| [[File:Magikarp.png|40px]] Magicarpe || rowspan=3|&lt;center&gt;[[File:Backpacker (female).png|40px]]Randonneuse Mikiko || rowspan=3|&lt;center&gt;[[File:Fletchling.png|40px]] Passerouge
+|-
+| [[File:Wingull.png|40px]] Goélise
+|-
+| [[File:Surskit.png|40px]] Arakdo
+|-
+| [[File:Feebas.png|40px]] Barpau || rowspan=3|&lt;center&gt;[[File:Fisherman.png|40px]] Pêcheur Herbert || rowspan=3|&lt;center&gt;[[File:Poliwag.png|40px]] Ptitard
+|-
+| [[File:Finneon.png|40px]] Écayon
+|-
+| [[File:Basculin (Red-Striped).png|40px]] Bargantua (Motif Rouge)
+|-
+| [[File:Basculin (Blue-Striped).png|40px]] Bargantua (Motif Bleu) || rowspan=3|&lt;center&gt;[[File:Fisherman.png|40px]] Pêcheur Carl || rowspan=3|&lt;center&gt;[[File:Magikarp.png|40px]] Magicarpe, [[File:Magikarp.png|40px]] Magicarpe, [[File:Magikarp.png|40px]] Magicarpe
+|-
+| [[File:Alomomola.png|40px]] Mamanbo 
+|-
+| [[File:Dewpider.png|40px]] Araqua
+|-
+|}
+
+===Combat de Boss===
+{| class="wikitable"
+|-
+! Pokémon sauvages !! PV de base !! Dresseurs Boss !! Équipe Pokémon !! PV de base
+|-
+| [[File:Wishiwashi (School).png|50px]] Froussardine (Banc) ||rowspan=2|&lt;center&gt;60 690 300 ||rowspan=4 colspan=3|&lt;center&gt;N/A
+|-
+| [[File:Araquanid.png|50px]] Tarenbulle
+|-
+| '''[[File:Totem Wishiwashi.png|50px]] Froussardine Dominant*'''||rowspan=2|&lt;center&gt;82,543,791
+|-
+| '''[[File:Totem Araquanid.png|50px]] Tarenbulle Dominant*'''
+|-
+|}
+'''*Vous devez être Champion d'Alola pour le débloquer'''
+
+&lt;span id="Items"&gt;&lt;/span&gt;
+==Objets==
+
+{| class="wikitable"
+|-
+! Objet de coffre !! Poids !! Complétion 0 fois !! Complétion 100 fois !! Complétion 500 fois
+|-
+| align="center" colspan=6| '''Commun'''
+|-
+| {{Bag2|xAttack|Attaque +}} || N/A || 37,48% || 36,00% || 30,00%
+|-
+| {{Bag2|Lucky Incense|Encens Veine}} || N/A || 37,48% || 36,00% || 30,00%
+|-
+| align="center" colspan=6| '''Rare'''
+|-
+| {{Bag2|Blue Shard|Tesson Bleu}} || N/A || 20,01% || 20,99% || 24,95%
+|-
+| align="center" colspan=6| '''Épique'''
+|-
+| {{Bag2|Splash Plate|Plaque Hydro}} || N/A || 2,01% || 2,60% || 5,00%
+|-
+| {{Bag2|Diveball|Scuba Ball}} || N/A || 2,01% || 2,60% || 5,00%
+|-
+| align="center" colspan=6| '''Légendaire'''
+|-
+| {{Bag2|Large Restore|Hyper Potion}} || N/A || 0,50% || 0,80% || 1,99%
+|-
+| {{Bag2|Revive|Rappel}} || N/A || 0,50% || 0,80% || 1,99%
+|-
+| align="center" colspan=6| '''Mythique'''
+|-
+| {{Bag2|Heart Scale|Écaille Cœur}} || N/A || 0,01% || 0,22% || 1,06%
+|}
+
+{{Alola Dungeons}}
+[[Category:Dungeons|^Region #7 - Alola^i]]
+[[Category:Donjons|^Région #7 - Alola^i]]</text>
+    <contributor>
+      <username>PetroleVB</username>
+      <id>619</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>30165</parentid>
+    <sha1>c05f0d76884186638ac340d3ae6d3d3073e8c519</sha1>
+  </revision>
+</page></mediawiki>

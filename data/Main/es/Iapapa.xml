@@ -1,0 +1,121 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Iapapa/es</title>
+  <ns>0</ns>
+  <id>7687</id>
+  <revision>
+    <id>30917</id>
+    <timestamp>2022-09-03T20:16:03Z</timestamp>
+    <text space="preserve" bytes="4192">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #19 Pabaya (Iapapa)
+|image   = [[File:Iapapa.png]]
+|caption = Es muy grande y ácida. El jugo de la pulpa acentúa su acidez.
+|growtime  = 6m 20s
+|harvest = 18 bayas
+|replant = 30%
+|mutation = 0.5%
+|points = 60
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 picante
+*0 seco
+*0 dulce
+*0 amargo
+*15 ácido
+}}
+
+'''Pabaya (Iapapa)''' es un tipo de [[Berries|baya]] que puede ser plantada en la [[Farm|granja]]. Se puede obtener rodeando una parcela con al menos de 25 y no más de 80 puntos ácidos y menos de 5 puntos de cualquier otro sabor. Se requiere haber desbloqueado la baya [[Aspear|Perasi (Aspear)]] para desbloquear esta baya.
+
+== Tablas de Crecimiento ==
+=== Estados de Crecimiento ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Brote !! Crecimiento !! Floración !! Madurez
+|-
+! Tiempo pasado desde que se planta
+| 40 seg || 3 min 20 seg || 3 min 50 seg || 6 min 20 seg - 12 min 40 seg
+|-
+! Animación
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:IapapaTreeTaller.png|50px]] || &lt;center&gt; [[File:IapapaTreeBloom.png|50px]] || &lt;center&gt; [[File:IapapaTreeBerry.png|50px]]
+|}
+
+=== Tiempos de Maduración con modificadores===
+{| class="wikitable" | style="text-align: center;"
+! Modificador !! Tiempo hasta la madurez-marchitado
+|-
+! Ninguno
+| 6 min 20 seg -&lt;br&gt; 12 min 40 seg
+|-
+! Psydugadera
+| 4 min 13 seg -&lt;br&gt; 8 min 27 seg
+|}
+
+== Diagrama de Flujo ==
+[[File:Iapapa_Flow_Chart.png|100px]]
+&lt;br&gt;
+'''Leyenda:'''&lt;br&gt;
+· Random Drop: Obtenido aleatoriamente en ruta
+
+== Estrategia de mutación ==
+=== Posibles formaciones ===
+
+Puedes llenar tu granja del siguiente modo para obtener bayas Pabaya (Iapapa). Los cuadrados morados indican dónde pueden ocurrir las mutaciones.
+
+{| class="wikitable" style="text-align: center;"
+|+ Formación Base
+|-
+| style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Aspear.png|30px]]&lt;br&gt;[[Aspear|Perasi (Aspear)]]
+|-
+| style="width: 40px;" | [[File:Aspear.png|30px]]&lt;br&gt;[[Aspear|Perasi (Aspear)]] || [[File:Aspear.png|30px]]&lt;br&gt;[[Aspear|Perasi (Aspear)]]
+|}
+
+{| class="wikitable" style="text-align: center;"
+|+ Formación Óptima
+|-
+| style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Aspear.png|30px]]&lt;br&gt;[[Aspear|Perasi (Aspear)]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Aspear.png|30px]]&lt;br&gt;[[Aspear|Perasi (Aspear)]]
+|-
+| [[File:Aspear.png|30px]]&lt;br&gt;[[Aspear|Perasi (Aspear)]] || [[File:Aspear.png|30px]]&lt;br&gt;[[Aspear|Perasi (Aspear)]] || style="background-color:#9C7D98;" | || [[File:Aspear.png|30px]]&lt;br&gt;[[Aspear|Perasi (Aspear)]] || [[File:Aspear.png|30px]]&lt;br&gt;[[Aspear|Perasi (Aspear)]] 
+|- style="height: 50px;"
+| style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Aspear.png|30px]]&lt;br&gt;[[Aspear|Perasi (Aspear)]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Aspear.png|30px]]&lt;br&gt;[[Aspear|Perasi (Aspear)]] 
+|-
+| [[File:Aspear.png|30px]]&lt;br&gt;[[Aspear|Perasi (Aspear)]] || [[File:Aspear.png|30px]]&lt;br&gt;[[Aspear|Perasi (Aspear)]] || style="background-color:#9C7D98;" | || [[File:Aspear.png|30px]]&lt;br&gt;[[Aspear|Perasi (Aspear)]] || [[File:Aspear.png|30px]]&lt;br&gt;[[Aspear|Perasi (Aspear)]] 
+|}
+
+==Usos==
+===Mutaciones===
+
+Las bayas Iapapa (Pabaya) pueden usarse para mutar las siguientes bayas.
+
+{| class="wikitable" | style="text-align: center;"
+|-
+! Se usa para !! Junto a
+|-
+| [[File:Wacan.png|20px]] [[Wacan|Gualot (Wacan)]] || [[File:Pinap.png|20px]] [[Pinap|Pinia (Pinap)]] &lt;br&gt; [[File:Qualot.png|20px]] [[Qualot|Ispero (Qualot)]] &lt;br&gt; [[File:Grepa.png|20px]] [[Grepa|Uvav (Grepa)]]
+|-
+|}
+
+&lt;div class="mw-translate-fuzzy"&gt;
+==Adquisición==
+===Mazmorras===
+{{Loot/head‎|Berries}}
+{{LootItem|Berry Forest|Épico}}
+{{LootItem|Radio Tower|Épico}}
+{{LootItem|Lostlorn Forest|Común}}
+|}
+|}
+&lt;/div&gt;
+
+{{Berries}}
+
+[[Category:Farm|Categoría:granja]][[Category:Berries|Categoría:bayas]]</text>
+    <contributor>
+      <username>FuzzyBot</username>
+      <id>587</id>
+    </contributor>
+    <comment>Updating to match new version of source page</comment>
+    <model>wikitext</model>
+    <parentid>29799</parentid>
+    <sha1>e3267c05b0056bd158042053e26ab3fb4b46527b</sha1>
+  </revision>
+</page></mediawiki>
