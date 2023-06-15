@@ -1,0 +1,106 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Trainers' School</title>
+  <ns>0</ns>
+  <id>3783</id>
+  <revision>
+    <id>42475</id>
+    <timestamp>2023-04-27T08:33:01Z</timestamp>
+    <text space="preserve" bytes="2802">&lt;languages/&gt;
+&lt;translate&gt;
+&lt;!--T:1--&gt;
+{{Infobox dungeon
+|name    = Trainers' School
+|image   = [[File:Trainers' School.png|300px]]
+|caption = A map of Trainers' School.
+|tokens  = 757,500
+|location = Northeast of Route 1 Haou'li Outskirts
+}}
+
+&lt;!--T:2--&gt;
+'''Trainers' School''' is a [[Dungeons|dungeon]] in [[Alola]]. It initially has 125 tiles arranged in two floors: 10x10 and 5x5 in size, respectively; including 15 chest tiles, 36 non-boss encounter tiles, 1 ladder tile, and 1 boss encounter tile. Wild Encounters have 11,407,338 HP.
+
+== Encounter Tables == &lt;!--T:3--&gt;
+
+===Wild Encounters=== &lt;!--T:4--&gt;
+
+&lt;!--T:5--&gt;
+{| class="wikitable"
+|-
+! Wild Pokémon !! colspan=2|Trainers
+|-
+! Encounter !! Trainer !! Pokémon Team
+|-
+| [[File:Alolan Meowth.png|40px]] Alolan Meowth ||rowspan=2|&lt;center&gt;[[File:Youth_Athlete_(female).png|40px]] Youth Athlete Hiromi || rowspan=2|&lt;center&gt;[[File:Bonsly.png|40px]] Bonsly
+|-
+| [[File:Abra.png|40px]] Abra
+|-
+| [[File:Magnemite.png|40px]] Magnemite ||rowspan=2|&lt;center&gt;[[File:Preschooler (female).png|40px]] Preschooler Mia ||rowspan=2|&lt;center&gt;[[File:Metapod.png|40px]] Metapod
+|-
+| [[File:Alolan Grimer.png|40px]] Alolan Grimer
+|-
+| [[File:Wingull.png|40px]] Wingull ||rowspan=2|&lt;center&gt;[[File:Youngster.png|40px]] Youngster Joey ||rowspan=2|&lt;center&gt;[[File:Alolan Grimer.png|40px]] Alolan Grimer
+|-
+| |[[File:Mime Jr..png|40px]] Mime Jr.
+|-
+| [[File:Zorua.png|40px]] Zorua ||rowspan=2|&lt;center&gt;[[File:Rising Star (male).png|40px]] Rising Star Joseph ||rowspan=2|&lt;center&gt;[[File:Ekans.png|40px]] Ekans
+|-
+| [[File:Furfrou.png|40px]] Furfrou
+|}
+
+&lt;!--T:6--&gt;
+===Boss Encounters===
+{| class="wikitable"
+|-
+! Wild Pokémon !! Base Health !! Boss Trainer !! Pokémon Team !! Base Health
+|-
+| rowspan=3 colspan=2|&lt;center&gt;N/A|| [[File:Teacher _(female).png|40px]] Teacher Emily || [[File:Litten.png|40px]] Litten, [[File:Popplio.png|40px]] Popplio, [[File:Rowlet.png|40px]] Rowlet || &lt;center&gt;19,012,230
+|-
+|}
+
+==Items== &lt;!--T:7--&gt;
+
+&lt;!--T:8--&gt;
+{| class="wikitable"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+|-
+| align="center" colspan=6| '''Common'''
+|-
+| {{Bag2|Lucky Egg}} || N/A || 24.99% || 24.05% || 20.21%
+|-
+| {{Bag2|Pokéball}} || N/A || 24.99% || 24.05% || 20.21%
+|-
+| {{Bag2|Oran}} || N/A || 24.99% || 24.05% || 20.21%
+|-
+| align="center" colspan=6| '''Rare'''
+|-
+| {{Bag2|Red Shard}} || N/A || 10.01% || 10.52% || 12.61%
+|-
+| {{Bag2|Yellow Shard}} || N/A || 10.01% || 10.52% || 12.61%
+|-
+| align="center" colspan=6| '''Epic'''
+|-
+| {{Bag2|Flame Plate}} || N/A || 2.01% || 2.61% || 5.05%
+|-
+| {{Bag2|Greatball}} || N/A || 2.01% || 2.61% || 5.05%
+|-
+| align="center" colspan=6| '''Legendary'''
+|-
+| {{Bag2|Small Restore}} || N/A || 1.00% || 1.59% || 4.03%
+|}
+
+&lt;!--T:9--&gt;
+{{Alola Dungeons}}
+[[Category:Dungeons|^Region #7 - Alola^a]]
+&lt;/translate&gt;</text>
+    <contributor>
+      <username>ThePantMan</username>
+      <id>310</id>
+    </contributor>
+    <comment>Reverted edits by [[Special:Contributions/Awaiko|Awaiko]] ([[User talk:Awaiko|talk]]) to last revision by [[User:ThePantMan|ThePantMan]]</comment>
+    <model>wikitext</model>
+    <parentid>42474</parentid>
+    <sha1>c2a13c3033d1df2b69138413fd9be5153285b205</sha1>
+  </revision>
+</page></mediawiki>

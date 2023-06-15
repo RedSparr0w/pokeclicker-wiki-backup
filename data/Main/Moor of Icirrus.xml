@@ -1,0 +1,155 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Moor of Icirrus</title>
+  <ns>0</ns>
+  <id>1779</id>
+  <revision>
+    <id>41307</id>
+    <timestamp>2022-11-09T05:52:38Z</timestamp>
+    <text space="preserve" bytes="4419">&lt;languages/&gt;
+&lt;translate&gt;
+&lt;!--T:1--&gt;
+{{Infobox dungeon
+|name    = Moor of Icirrus
+|image   = [[File:Moor of Icirrus.png|300px]]
+|caption = A map of Moor of Icirrus.
+|tokens  = 356,500
+|location = Unova Route 8
+}}
+'''Moor of Icirrus''' is a [[Dungeons|dungeon]] in [[Unova]]. It initially has 81 tiles arranged in an 9x9 square, including 9 chest tiles, 21 non-boss encounter tiles, and 1 boss encounter tile. Wild Encounters have 5,203,000 HP.
+
+==Encounter  Tables== &lt;!--T:2--&gt;
+
+===Wild Encounters=== &lt;!--T:3--&gt;
+
+&lt;!--T:4--&gt;
+{| class="wikitable"
+|-
+! Wild Pokémon !! colspan=2|Trainers
+|-
+! Encounter !! Trainer !! Pokémon Team
+|-
+| [[File:Croagunk.png|40px]] Croagunk ||  [[File:Pokémon_Ranger_(female).png|40px]] Pokémon Ranger Elaine || [[File:Accelgor.png|40px]] Accelgor, [[File:Swalot.png|40px]] Swalot, [[File:Kecleon.png|40px]] Kecleon 
+|-
+| [[File:Palpitoad.png|40px]] Palpitoad || [[File:Pokémon_Ranger_(male).png|40px]] Pokémon Ranger Parker || [[File:Escavalier.png|40px]] Escavalier, [[File:Skuntank.png|40px]] Skuntank, [[File:Carnivine.png|40px]] Carnivine
+|-
+| [[File:Karrablast.png|40px]] Karrablast || rowspan=2|[[File:Fisherman.png|40px]] Fisherman Eustace || rowspan=2|[[File:Corphish.png|40px]] Corphish, [[File:Poliwag.png|40px]] Poliwag, [[File:Stunfisk.png|40px]] Stunfisk
+|-
+| [[File:Shelmet.png|40px]] Shelmet
+|-
+| [[File:Stunfisk.png|40px]] Stunfisk || rowspan=2|[[File:Fisherman.png|40px]] Fisherman Arnold || rowspan=2|[[File:Poliwhirl.png|40px]] Poliwhirl, [[File:Whiscash.png|40px]] Whiscash, [[File:Politoed.png|40px]] Politoed
+|-
+| [[File:Barboach.png|40px]] Barboach
+|}
+
+===Boss Encounters=== &lt;!--T:5--&gt;
+
+&lt;!--T:6--&gt;
+{| class="wikitable"
+|-
+! Wild Pokémon !! Base Health !! Boss Trainer !! Pokémon Team !! Base Health
+|-
+| [[File:Seismitoad.png|40px]] Seismitoad || rowspan=2|&lt;center&gt;48,000,000 || rowspan=3 colspan=3|&lt;center&gt;N/A 
+|-
+| [[File:Whiscash.png|40px]] Whiscash
+|-
+| [[File:Keldeo.png|40px]] Keldeo || &lt;center&gt;50,000,000
+|}
+
+==Items== &lt;!--T:7--&gt;
+&lt;tabs&gt;
+&lt;tab name="No Debuff"&gt;
+
+&lt;!--T:8--&gt;
+{| class="wikitable"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears !! Requirement 
+|-
+| align="center" colspan=6| '''Common'''
+|-
+| {{Bag2|xAttack}} || 3 || 33.47% || 32.55% || 28.57% || rowspan=3|&lt;center&gt; N/A
+|-
+| {{Bag2|Lucky Egg}} || 3 || 33.47% || 32.55% || 28.57%
+|-
+| {{Bag2|Greatball}} || N/A || 11.16% || 10.85% || 9.52%
+|-
+| align="center" colspan=6| '''Rare'''
+|-
+| {{Bag2|Blue Shard}} || N/A || 10.42% || 11.07% || 13.86% || rowspan=2|&lt;center&gt; N/A
+|-
+| {{Bag2|Green Shard}} || N/A || 10.42% || 11.07% || 13.86%
+|-
+| align="center" colspan=6| '''Legendary'''
+|-
+| {{Bag2|Ultraball}} || 2 || 0.42% || 0.67% || 1.77% || rowspan=3|&lt;center&gt; N/A
+|-
+| {{Bag2|Revive}} || 2 || 0.42% || 0.67% || 1.77%
+|-
+| {{Bag2|Large Restore}} || N/A || 0.21% || 0.34% || 0.89%
+|-
+| align="center" colspan=6| '''Mythic'''
+|-
+| {{Bag2|Heart Scale}} || N/A || &lt;0.01% || 0.08% || 0.39% || rowspan=2|&lt;center&gt; N/A
+|-
+| {{Bag2|Max Revive}} || N/A || &lt;0.01% || 0.08% || 0.39%
+|-
+| {{Bag2|Lum}} || N/A || 0% || 0% || 0.39% || 200 Clears
+|}
+&lt;/tab&gt;
+
+&lt;tab name="Debuff"&gt;
+After Reaching Galar, the drop chance for items in Unova will be debuffed for any loot with a Tier rarer than Rare (ie: Epic, Legendary, Mythic).
+{| class="wikitable"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears !! Requirement
+|-
+| align="center" colspan=6| '''Common'''
+|-
+| {{Bag2|xAttack}} || 3 || 32.43% || 32.43% || 32.43% || rowspan=3| &lt;center&gt;N/A
+|-
+| {{Bag2|Lucky Egg}} || 3 || 32.43% || 32.43% || 32.43%
+|-
+| {{Bag2|Greatball}} || N/A || 10.81% || 10.81% || 10.81%
+|-
+| align="center" colspan=6| '''Rare'''
+|-
+| {{Bag2|Blue Shard}} || N/A || 12.11% || 12.11% || 12.11% || rowspan=2| &lt;center&gt;N/A
+|-
+| {{Bag2|Green Shard}} || N/A || 12.11% || 12.11% || 12.11%
+|-
+| align="center" colspan=6| '''Legendary'''
+|-
+| {{Bag2|Ultraball}} || 2 || 0.04% || 0.04% || 0.04% || rowspan=3| &lt;center&gt;N/A
+|-
+| {{Bag2|Revive}} || 2 || 0.04% || 0.04% || 0.04%
+|-
+| {{Bag2|Large Restore}} || N/A || 0.02% || 0.02% || 0.02%
+|-
+| align="center" colspan=6| '''Mythic'''
+|-
+| {{Bag2|Heart Scale}} || N/A || &lt;0.01% || &lt;0.01% || &lt;0.01% || rowspan=2| &lt;center&gt;N/A
+|-
+| {{Bag2|Max Revive}} || N/A || &lt;0.01% || &lt;0.01% || &lt;0.01%
+|-
+| {{Bag2|Lum}} || N/A || &lt;0.01% || &lt;0.01% || &lt;0.01% || 200 Clears
+|}
+&lt;/tab&gt;
+&lt;/tabs&gt;
+
+
+&lt;!--T:9--&gt;
+{{Unova Dungeons}}
+
+&lt;!--T:10--&gt;
+[[Category:Dungeons|^Region #5 - Unova^t]]
+&lt;/translate&gt;</text>
+    <contributor>
+      <username>ThePantMan</username>
+      <id>310</id>
+    </contributor>
+    <comment>/* Tabs */</comment>
+    <model>wikitext</model>
+    <parentid>39982</parentid>
+    <sha1>7617de1733c1759df9d158f29a960fc0b6bbf04a</sha1>
+  </revision>
+</page></mediawiki>

@@ -1,0 +1,145 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Nanab/fr</title>
+  <ns>0</ns>
+  <id>8111</id>
+  <revision>
+    <id>38450</id>
+    <timestamp>2022-10-07T16:33:10Z</timestamp>
+    <text space="preserve" bytes="5138">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #12 Nanab
+|image   = [[File:Nanab.png]]
+|caption = C'est la septième Baie découverte au monde. Elle est amère mais a un arrière-goût sucré.
+|growtime  = 4m 10s
+|harvest = 11 baies
+|replant = 40%
+|mutation = 1.7%
+|points = 25
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 épicée
+*0 sèches
+*10 sucrée
+*10 amère
+*0 acide
+}}
+
+'''Nanab''' est un type de [[Berries/fr|Baie]] qui peut être plantée dans la [[Farm/fr|Ferme]]. Elle s'obtient en entourant une parcelle vide avec au moins 1 [[Pecha/fr|Pêcha]] et au moins 1 [[Aspear/fr|Willia]].
+
+== Tables de croissance ==
+=== Stades de croissance ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+!!! Pousse !! Arbuste !! Fleuri !! Mûr
+|-
+! Temps écoulé depuis plantation
+| 25 secs || 30 secs || 35 secs || 4 mins 10 secs - 8 mins 20 secs
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:NanabTreeTaller.png|50px]] || &lt;center&gt; [[File:NanabTreeBloom.png|50px]] || &lt;center&gt; [[File:NanabTreeBerry.png|50px]]
+|}
+
+&lt;div class="mw-translate-fuzzy"&gt;
+===Temps de croissance avec modificateurs===
+{| class="wikitable collapsible" | style="text-align: center;"
+! Modificateur !! Temps maturité-flétrissement
+|-
+! Aucun
+| 4 mins 10 secs -&lt;br&gt; 8 mins 20 secs
+|-
+! Kwakarrosoir
+| 2 mins 47 secs -&lt;br&gt; 5 mins 53 secs
+|}
+&lt;/div&gt;
+
+== Organigramme ==
+[[File:Nanab_-_Graph_découverte.png |200px]]
+&lt;br&gt;
+
+== Strategie de mutation ==
+=== Formations possibles ===
+
+Vous pouvez remplir votre ferme de la manière suivante pour obtenir des baies Nanab. Les cases violettes indiquent où les mutations peuvent avoir lieu.
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation&amp;nbsp;de&amp;nbsp;base
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Pecha.png|30px]] [[Pecha/fr|Pêcha]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Aspear.png|30px]] [[Aspear/fr|Willia]]
+|}
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation de plantation optimisée
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Pecha.png|30px]] [[Pecha/fr|Pêcha]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Pecha.png|30px]] [[Pecha/fr|Pêcha]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Aspear.png|30px]] [[Aspear/fr|Willia]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Aspear.png|30px]] [[Aspear/fr|Willia]] 
+|- style="height: 50px;"
+| style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | 
+|-
+| [[File:Pecha.png|30px]] [[Pecha/fr|Pêcha]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Pecha.png|30px]] [[Pecha/fr|Pêcha]] || style="background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Aspear.png|30px]] [[Aspear/fr|Willia]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Aspear.png|30px]] [[Aspear/fr|Willia]] 
+|}
+
+=== Tableau de chronométrage ===
+{| class="wikitable" | style="text-align: center;"
+|+ ''Tous les temps indiqués sont basés sur le temps restant avant que la première baie plantée n'arrive à maturité''
+! Baie !! Temps de plantation&lt;br&gt;sans modificateur!! Temps de plantation avec &lt;br&gt; Engrais ou Kwakarrosoir || Temps de plantation avec &lt;br&gt; Engrais et Kwakarrosoir
+|-
+| [[Aspear/fr|Willia]] || - || - || -
+|-
+| [[Pecha/fr|Pêcha]] || 1 min avant maturité || 40 secs avant maturité || Non optimal
+|-
+|}
+
+==Utilisations==
+===Mutations===
+
+Les baies Nanab peuvent être utilisées pour faire muter les baies suivantes :
+
+&lt;div class="mw-translate-fuzzy"&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Utilisée pour !! Plantée avec
+|-
+| [[File:Magost.png|20px]] [[Magost/fr|Mangou]] || [[File:Pecha.png|20px]] [[Pecha/fr|Pêcha]] &lt;br&gt; [[File:Mago.png|20px]] [[Mago/fr|Mago]]
+|-
+| [[File:Roseli.png|20px]] [[Roseli/fr|Selro]] || [[File:Mago.png|20px]] [[Mago/fr|Mago]] &lt;br&gt; [[File:Magost.png|20px]] [[Magost]] &lt;br&gt; [[File:Watmel.png|20px]] [[Watmel/fr|Stekpa]]
+|-
+|}
+&lt;/div&gt;
+
+&lt;span id="Safari_Zone_bait"&gt;&lt;/span&gt;
+===Appât de la [[Safari Zone/fr|Zone Safari]]===
+
+En tant qu'appât, les baies Nanab donnent aux Pokémon de la Zone Safari le statut "en train de manger" pour 2 à 6 tours, et multiplient les chances de capture par 1,5 pour le reste de la rencontre à moins qu'un autre type d'appât ne soit utilisé.
+
+==Acquisition==
+===Donjons===
+{{Loot/head‎|Berries}}
+{{LootItem|Berry Forest|Bois Baies|Épique}}
+{{LootItem|Pattern Bush|Forbuissons|Épique}}
+{{LootItem|Pinkan Mountain|Montagne Guimauve|Commun}}
+{{LootItem|Radio Tower|Tour Radio|Épique}}
+{{LootItem|Fullmoon Island|Île Pleine Lune|Commun}}
+{{LootItem|Newmoon Island|Île Nouvellune|Commun}}
+{{LootItem|Floccesy Ranch|Ranch d'Amaillide|Épique}}
+|}
+|}
+
+&lt;br&gt;
+
+{{Berries}}
+
+[[Category:Farm]][[Category:Berries]]</text>
+    <contributor>
+      <username>FuzzyBot</username>
+      <id>587</id>
+    </contributor>
+    <comment>Updating to match new version of source page</comment>
+    <model>wikitext</model>
+    <parentid>33314</parentid>
+    <sha1>0d4a0111f64c1af20195eb93bff41e2a665ad376</sha1>
+  </revision>
+</page></mediawiki>

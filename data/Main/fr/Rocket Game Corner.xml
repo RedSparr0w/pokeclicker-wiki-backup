@@ -1,0 +1,164 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Rocket Game Corner/fr</title>
+  <ns>0</ns>
+  <id>14716</id>
+  <revision>
+    <id>40947</id>
+    <timestamp>2022-11-07T22:05:30Z</timestamp>
+    <text space="preserve" bytes="5711">&lt;languages/&gt;
+{{Infobox dungeon
+|name    = Salle d'Arcade Rocket
+|image   = [[File:Rocket Game Corner.png|thumb]]
+|caption = Une carte en vue aérienne de la Salle d'Arcade Rocket.
+|tokens  = 625
+|location = Céladopole.
+}}
+La '''Salle d'Arcade Rocket''' est un [[Dungeons/fr|donjon]] de [[Kanto]]. Ce donjon a 25 cases arrangées dans un carré 5x5, qui incluent 5 cases de coffre, 13 cases de rencontres avec des Pokémon sauvages (hors boss), et 1 case de rencontre de boss. Les rencontres sauvages ont 5 820 PV.
+
+&lt;span id="Encounter_Tables"&gt;&lt;/span&gt;
+== Tables des rencontres ==
+
+&lt;span id="Wild_Encounters"&gt;&lt;/span&gt;
+=== Rencontres sauvages ===
+
+{| class="wikitable"
+|-
+! Pokémon Sauvages !! colspan=2|Trainers
+|-
+! Rencontres !! Dresseurs !! Équipe Pokémon
+|-
+| rowspan=21|&lt;center&gt; N/A || [[File:Team_Rocket_Grunt_(male).png|40px]] Sbire Rocket || [[File:Drowzee.png|40px]] Soporifik, [[File:Machop.png|40px]] Machoc 
+|-
+| [[File:Team_Rocket_Grunt_(male).png|40px]] Sbire Rocket || [[File:Raticate.png|40px]] Rattatac, [[File:Raticate.png|40px]] Rattatac
+|-
+| [[File:Team_Rocket_Grunt_(male).png|40px]] Sbire Rocket || [[File:Rattata.png|40px]] Rattata, [[File:Raticate.png|40px]] Rattatac, [[File:Raticate.png|40px]] Rattatac, [[File:Rattata.png|40px]] Rattata
+|-
+| [[File:Team_Rocket_Grunt_(male).png|40px]] Sbire Rocket || [[File:Grimer.png|40px]] Tadmorv, [[File:Koffing.png|40px]] Smogo, [[File:Koffing.png|40px]] Smogo
+|-
+| [[File:Team_Rocket_Grunt_(male).png|40px]] Sbire Rocket || [[File:Grimer.png|40px]] Tadmorv, [[File:Koffing.png|40px]] Smogo
+|-
+| [[File:Team_Rocket_Grunt_(male).png|40px]] Sbire Rocket || [[File:Zubat.png|40px]] Nosferapti, [[File:Koffing.png|40px]] Smogo, [[File:Grimer.png|40px]] Tadmorv, [[File:Zubat.png|40px]] Nosferapti,  [[File:Raticate.png|40px]] Rattatac
+|-
+| [[File:Team_Rocket_Grunt_(male).png|40px]] Sbire Rocket || [[File:Machop.png|40px]] Machoc, [[File:Machop.png|40px]] Machoc
+|-
+| [[File:Team_Rocket_Grunt_(male).png|40px]] Team Rocket Grunt || [[File:Rattata.png|40px]] Rattata, [[File:Raticate.png|40px]] Rattatac, [[File:Drowzee.png|40px]] Soporifik
+|-
+| [[File:Team_Rocket_Grunt_(male).png|40px]] Sbire Rocket || [[File:Zubat.png|40px]] Nosferapti, [[File:Koffing.png|40px]] Smogo
+|-
+| [[File:Team_Rocket_Grunt_(male).png|40px]] Team Rocket Grunt || [[File:Sandshrew.png|40px]] Sabelette, [[File:Ekans.png|40px]] Abo, [[File:Sandslash.png|40px]] Sablaireau
+|-
+| [[File:Team_Rocket_Grunt_(male).png|40px]] Team Rocket Grunt || [[File:Ekans.png|40px]] Abo, [[File:Sandshrew.png|40px]] Sabelette, [[File:Arbok.png|40px]] Arbok
+|}
+
+===Boss Encounters===
+{| class="wikitable"
+|-
+! Pokémon Sauvages !! PV de base !! Dresseur Boss !! Équipe Pokémon !! PV de base
+|-
+| colspan=2 rowspan=13|&lt;center&gt; N/A || rowspan=2|[[File:Giovanni.png|40px]] Giovanni || [[File:Onix.png|40px]] Onix, [[File:Rhyhorn.png|40px]] Rhinocorne|| 9,501
+|-
+| [[File:Kangaskhan.png|40px]] Kangourex|| 10,101
+|}
+
+&lt;span id="Items"&gt;&lt;/span&gt;
+==Objets==
+
+&lt;span id="No_Debuff"&gt;&lt;/span&gt;
+===Sans Perte de Bonus===
+
+{| class="wikitable"
+|-
+! Objet de coffre !! Poids !! Complétion 0 fois !! Complétion 100 fois !! Complétion 500 fois
+|-
+| align="center" colspan=5| '''Commun'''
+|-
+| {{Bag2|xAttack|Attaque +}} || N/A || 37.48% || 36.00% || 30.00%
+|-
+| {{Bag2|Lucky Incense|Encens Vein}} || N/A || 37.48% || 36.00% || 30.00%
+|-
+| align="center" colspan=5| '''Rare'''
+|-
+| {{Bag2|Blue Shard|Tesson Bleu}} || N/A || 10.00% || 10.50% || 12.47%
+|-
+| {{Bag2|Yellow Shard|Tesson Jaune}} || N/A || 10.00% || 10.50% || 12.47%
+|-
+| align="center" colspan=5| '''Épique'''
+|-
+| {{Bag2|Pokéball|Poké Ball}} || N/A || 4.01% || 5.20% || 10.00%
+|-
+| align="center" colspan=5| '''Légendaire'''
+|-
+| {{Bag2|Greatball|Super Ball}} || 2 || 0.50% || 0.80% || 1.99%
+|-
+| {{Bag2|Revive|Rappel}} || N/A || 0.25% || 0.40% || 1.00%
+|-
+| {{Bag2|Nestball|Faiblo Ball}} || N/A || 0.25% || 0.40% || 1.00%
+|-
+| align="center" colspan=5| '''Mythique'''
+|-
+| {{Bag2|Large Restore}} || N/A || &lt;0.01% || 0.07% || 0.35%
+|-
+| {{Bag2|Max Revive|Rappel Max}} || N/A || &lt;0.01% || 0.07% || 0.35%
+|-
+| {{Bag2|Star Piece|Morceau d'Étoile}} || N/A || &lt;0.01% || 0.07% || 0.35%
+|}
+
+
+
+&lt;span id="Debuff_Drop_Table"&gt;&lt;/span&gt;
+===Table du taux d'obtention avec Perte de bonus===
+
+Après avoir atteint Sinnoh, le taux d'obtention des objets dans la région de Kanto sera abaissé pour tout objet avec un tiers de rareté supérieur à Rare (i.e. : Épique , Légendaire, Mythique).
+
+{| class="wikitable collapsible collapsed"
+|-
+! Objet de coffre !! Poids !! Complétion 0 fois !! Complétion 100 fois !! Complétion 500 fois
+|-
+| align="center" colspan=5| '''Commun'''
+|-
+| {{Bag2|xAttack|Attaque +}} || N/A || 37.50% || 37.50% || 37.50%
+|-
+| {{Bag2|Lucky Incense|Encens Vein}} || N/A || 37.50% || 37.50% || 37.50%
+|-
+| align="center" colspan=5| '''Rare'''
+|-
+| {{Bag2|Blue Shard|Tesson Bleu}} || N/A || 12.00% || 12.00% || 12.00%
+|-
+| {{Bag2|Yellow Shard|Tesson Jaune}} || N/A || 12.00% || 12.00% || 12.00%
+|-
+| align="center" colspan=5| '''Épique'''
+|-
+| {{Bag2|Pokéball|Poké Ball}} || N/A || 0.90% || 0.90% || 0.90%
+|-
+| align="center" colspan=5| '''Légendaire'''
+|-
+| {{Bag2|Greatball|Super Ball}} || 2 || 0.05% || 0.05% || 0.05%
+|-
+| {{Bag2|Revive|Rappel}} || N/A || 0.03% || 0.03% || 0.03%
+|-
+| {{Bag2|Nestball|Faiblo Ball}} || N/A || 0.03% || 0.03% || 0.03%
+|-
+| align="center" colspan=5| '''Mythique'''
+|-
+| {{Bag2|Large Restore}} || N/A || &lt;0.01% || &lt;0.01% || &lt;0.01%
+|-
+| {{Bag2|Max Revive|Rappel Max}} || N/A || &lt;0.01% || &lt;0.01% || &lt;0.01%
+|-
+| {{Bag2|Star Piece|Morceau d'Étoile}} || N/A || &lt;0.01% || &lt;0.01% || &lt;0.01%
+|}
+
+{{Kanto Dungeons}}
+
+[[Category:Dungeons|^Region #1 - Kanto^e]]
+[[Category:Donjons|^Région #1 - Kanto^e]]</text>
+    <contributor>
+      <username>Gwendal</username>
+      <id>723</id>
+    </contributor>
+    <comment>Created page with "{| class="wikitable collapsible collapsed" |- ! Objet de coffre !! Poids !! Complétion 0 fois !! Complétion 100 fois !! Complétion 500 fois |- | align="center" colspan=5| '''Commun''' |- | {{Bag2|xAttack|Attaque +}} || N/A || 37.50% || 37.50% || 37.50% |- | {{Bag2|Lucky Incense|Encens Vein}} || N/A || 37.50% || 37.50% || 37.50% |- | align="center" colspan=5| '''Rare''' |- | {{Bag2|Blue Shard|Tesson Bleu}} || N/A || 12.00% || 12.00% || 12.00% |- | {{Bag2|Yellow Shard|T..."</comment>
+    <model>wikitext</model>
+    <parentid>40945</parentid>
+    <sha1>6da8c80ac1d25c23a38a2c00c0860fdbd5741bb3</sha1>
+  </revision>
+</page></mediawiki>

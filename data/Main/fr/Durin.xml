@@ -1,0 +1,115 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Durin/fr</title>
+  <ns>0</ns>
+  <id>8945</id>
+  <revision>
+    <id>31454</id>
+    <timestamp>2022-09-05T10:02:16Z</timestamp>
+    <text space="preserve" bytes="4815">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #34 Durin
+|image   = [[File:Durin.png]]
+|caption = Une Baie extrêmement amère. Une simple bouchée suffit à vous débarrasser du hoquet le plus tenace.
+|growtime  = 6h 0m 0s
+|harvest = 33 baies
+|replant = 10%
+|mutation = 0,02%
+|points = 1 050
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 épicée 
+*0 sèche
+*0 sucrée
+*30 amère
+*10 acide
+}}
+
+'''Durin''' est un type de [[Berries/fr|Baie]] qui peut être plantée dans la [[Farm/fr|Ferme]]. Elle s'obtient en entourant une [[Rabuta/fr|Rabuta]] avec au moins 130, mais pas plus de 160 points de saveur amère ainsi que pas plus de 80 points de toute autre saveur. La [[Rabuta/fr|Rabuta]] aura alors des chances de muter en Durin. 
+
+
+== Tables de croissance ==
+=== Stades de croissance ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Pousse !! Arbuste !! Fleuri !! Mûr
+|-
+! Temps écoulé depuis plantation
+| 2 heures 46 mins 40 secs || 3 heures 53 mins 20 secs || 5 heures || 6 heures - 12 heures
+|-
+! Animation
+| &lt;center&gt;  [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:DurinTreeTaller.png|50px]] || &lt;center&gt; [[File:DurinTreeBloom.png|50px]] || &lt;center&gt; [[File:DurinTreeBerry.png|50px]]
+|}
+
+=== Temps de croissance avec modificateurs  ===
+{| class="wikitable" | style="text-align: center;"
+! Modificateur !! Temps maturité-flétrissement !! Nombre de Fertipousse requis
+|-
+! Aucun
+| 6 heures -&lt;br&gt; 12 heures || ---
+|-
+! Engrais ou Kwakarrosoir
+| 4 heures -&lt;br&gt; 8 heures || 48 engrais
+|-
+! Engrais et Kwakarrosoir
+| 2 heures 40 mins -&lt;br&gt; 5 heures 20 mins || 32 engrais
+|}
+
+== Organigramme ==
+[[File:Durin_-_Graph_découverte.png|250px]]
+&lt;br&gt;
+
+== Stratégie de mutation ==
+=== Formations possibles ===
+
+Vous pouvez remplir votre ferme de la manière suivante pour obtenir des baies Durin. Les cases violettes indiquent où les mutations peuvent avoir lieu.
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation&amp;nbsp;de&amp;nbsp;base
+|-
+| style="width: 50px;" | [[File:Rabuta.png|30px]]&lt;br&gt;[[Rabuta/fr|Rabuta]] || style="width: 50px;" | [[File:Rabuta.png|30px]]&lt;br&gt;[[Rabuta/fr|Rabuta]] || style="width: 50px;" | [[File:Rabuta.png|30px]]&lt;br&gt;[[Rabuta/fr|Rabuta]]
+|-
+| [[File:Rabuta.png|30px]]&lt;br&gt;[[Rabuta/fr|Rabuta]] || style="background-color:#9C7D98;" | [[File:Rabuta.png|30px]]&lt;br&gt;'''[[Rabuta/fr|Rabuta]]''' || [[File:Rabuta.png|30px]]&lt;br&gt;[[Rabuta/fr|Rabuta]]
+|- style="height: 26px;"
+| [[File:Rabuta.png|30px]]&lt;br&gt;[[Rabuta/fr|Rabuta]] || [[File:Rabuta.png|30px]]&lt;br&gt;[[Rabuta/fr|Rabuta]] || [[File:Rabuta.png|30px]]&lt;br&gt;[[Rabuta/fr|Rabuta]]
+|}
+
+{| class="wikitable" style="text-align: center;"
+|+ Formation optimisée
+|-
+| style="width: 50px;" | [[File:Rabuta.png|30px]]&lt;br&gt;[[Rabuta/fr|Rabuta]] || style="width: 50px;" | [[File:Rabuta.png|30px]]&lt;br&gt;[[Rabuta/fr|Rabuta]] || style="width: 50px;" | [[File:Rabuta.png|30px]]&lt;br&gt;[[Rabuta/fr|Rabuta]] || style="width: 50px;" | [[File:Rabuta.png|30px]]&lt;br&gt;[[Rabuta/fr|Rabuta]] || style="width: 50px;" | [[File:Rabuta.png|30px]]&lt;br&gt;[[Rabuta/fr|Rabuta]]
+|-
+| [[File:Rabuta.png|30px]]&lt;br&gt;[[Rabuta/fr|Rabuta]] || style="background-color:#9C7D98;" | [[File:Rabuta.png|30px]]&lt;br&gt;'''[[Rabuta/fr|Rabuta]]''' || style="background-color:#9C7D98;" | [[File:Rabuta.png|30px]]&lt;br&gt;'''[[Rabuta/fr|Rabuta]]''' || style="background-color:#9C7D98;" | [[File:Rabuta.png|30px]]&lt;br&gt;'''[[Rabuta/fr|Rabuta]]''' || [[File:Rabuta.png|30px]]&lt;br&gt;[[Rabuta/fr|Rabuta]]
+|- style="height: 26px;"
+| [[File:Rabuta.png|30px]]&lt;br&gt;[[Rabuta/fr|Rabuta]] || style="background-color:#9C7D98;" | [[File:Rabuta.png|30px]]&lt;br&gt;'''[[Rabuta/fr|Rabuta]]''' || style="background-color:#9C7D98;" | [[File:Rabuta.png|30px]]&lt;br&gt;'''[[Rabuta/fr|Rabuta]]''' || style="background-color:#9C7D98;" | [[File:Rabuta.png|30px]]&lt;br&gt;'''[[Rabuta/fr|Rabuta]]''' || [[File:Rabuta.png|30px]]&lt;br&gt;[[Rabuta/fr|Rabuta]]
+|-
+| [[File:Rabuta.png|30px]]&lt;br&gt;[[Rabuta/fr|Rabuta]] || style="background-color:#9C7D98;" | [[File:Rabuta.png|30px]]&lt;br&gt;'''[[Rabuta/fr|Rabuta]]''' || style="background-color:#9C7D98;" | [[File:Rabuta.png|30px]]&lt;br&gt;'''[[Rabuta/fr|Rabuta]]''' || style="background-color:#9C7D98;" | [[File:Rabuta.png|30px]]&lt;br&gt;'''[[Rabuta/fr|Rabuta]]''' || [[File:Rabuta.png|30px]]&lt;br&gt;[[Rabuta/fr|Rabuta]]
+|-
+| [[File:Rabuta.png|30px]]&lt;br&gt;[[Rabuta/fr|Rabuta]] || [[File:Rabuta.png|30px]]&lt;br&gt;[[Rabuta/fr|Rabuta]] || [[File:Rabuta.png|30px]]&lt;br&gt;[[Rabuta/fr|Rabuta]] || [[File:Rabuta.png|30px]]&lt;br&gt;[[Rabuta/fr|Rabuta]] || [[File:Rabuta.png|30px]]&lt;br&gt;[[Rabuta/fr|Rabuta]]
+|}
+
+==Utilisations==
+===Mutations===
+
+Les baies Durin peuvent être utilisées pour faire muter les baies suivantes :
+
+{| class="wikitable" | style="text-align: center;"
+|-
+! Utilisée pour !! avec
+|-
+| [[File:Jaboca.png|20px]] [[Jaboca/fr|Jaboca]] || -
+|-
+|}
+
+{{Berries}}
+
+[[Category:Farm]][[Category:Berries]]
+[[Category:Ferme]][[Category:Baies]]</text>
+    <contributor>
+      <username>Razikd</username>
+      <id>535</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>31300</parentid>
+    <sha1>884ec81a3a6ce7c0a79d140c6bbd362bb6a168d6</sha1>
+  </revision>
+</page></mediawiki>

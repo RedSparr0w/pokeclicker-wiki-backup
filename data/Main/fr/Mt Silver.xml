@@ -1,0 +1,191 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Mt Silver/fr</title>
+  <ns>0</ns>
+  <id>14743</id>
+  <revision>
+    <id>35895</id>
+    <timestamp>2022-09-13T14:07:00Z</timestamp>
+    <text space="preserve" bytes="4902">&lt;languages/&gt;
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Infobox dungeon
+|name    = Mt Silver
+|image   = [[File:Mt Silver.png|thumb]]
+|caption = A map of Mt Silver.
+|tokens  = 10,000
+|location = On the west end of Route 28.
+}}
+'''Mt Silver''' is a [[Dungeons|dungeon]] in [[Johto]]. It initially has 36 tiles arranged in a 6x6 square, including 6 chest tiles, 15 non-boss encounter tiles, and 1 boss encounter tile. Wild Encounters have 130,500 HP.
+&lt;/div&gt;
+
+&lt;span id="Encounter_Tables"&gt;&lt;/span&gt;
+== Tables des rencontres ==
+
+&lt;span id="Wild_Encounters"&gt;&lt;/span&gt;
+=== Rencontres sauvages ===
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable"
+|-
+! Wild Pokémon !! colspan=2|Trainers
+|-
+! Encounter !! Trainer !! Pokémon Team
+|-
+| [[File:Ponyta.png|40px]] Ponyta || colspan=2 rowspan=10|&lt;center&gt;N/A
+|-
+| [[File:Doduo.png|40px]] Doduo
+|-
+| [[File:Tangela.png|40px]] Tangela
+|-
+| [[File:Sneasel.png|40px]] Sneasel
+|-
+| [[File:Ursaring.png|40px]] Ursaring
+|-
+| [[File:Donphan.png|40px]] Donphan
+|-
+| [[File:Teddiursa.png|40px]] Teddiursa
+|-
+| [[File:Phanpy.png|40px]] Phanpy
+|-
+| [[File:Quagsire.png|40px]] Quagsire
+|-
+| [[File:Misdreavus.png|40px]] Misdreavus
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+===Boss Encounters===
+{| class="wikitable"
+|-
+! Wild Pokémon !! Base Health !! Boss Trainer !! Pokémon Team !! Base Health
+|-
+| [[File:Larvitar.png|40px]] Larvitar || &lt;center&gt; 840,000 || colspan=3|&lt;center&gt;N/A
+|}
+&lt;/div&gt;
+
+&lt;span id="Items"&gt;&lt;/span&gt;
+==Objets==
+
+&lt;span id="No_Debuff"&gt;&lt;/span&gt;
+===Sans Perte de Bonus===
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears !! Requirement 
+|-
+| align="center" colspan=6| '''Common'''
+|-
+| {{Bag2|Token Collector}} || N/A || 39.05% || 37.97% || 33.33% || rowspan=2|&lt;center&gt; N/A
+|-
+| {{Bag2|Lucky Egg}} || N/A || 39.05% || 37.97% || 33.33%
+|-
+| align="center" colspan=6| '''Rare'''
+|-
+| {{Bag2|Blue Shard}} || N/A || 3.47% || 3.69% || 4.62% || rowspan=6|&lt;center&gt; N/A
+|-
+| {{Bag2|Green Shard}} || N/A || 3.47% || 3.69% || 4.62%
+|-
+| {{Bag2|Red Shard}} || N/A || 3.47% || 3.69% || 4.62%
+|-
+| {{Bag2|Yellow Shard}} || N/A || 3.47% || 3.69% || 4.62%
+|-
+| {{Bag2|Grey Shard}} || N/A || 3.47% || 3.69% || 4.62%
+|-
+| {{Bag2|Purple Shard}} || N/A || 3.47% || 3.69% || 4.62%
+|-
+| align="center" colspan=6| '''Legendary'''
+|-
+| {{Bag2|Fist Plate}} || 2 || 0.23% || 0.37% || 0.99% || rowspan=6|&lt;center&gt; N/A
+|-
+| {{Bag2|Zap Plate}} || 2 || 0.23% || 0.37% || 0.99%
+|-
+| {{Bag2|Ultraball}} || 2 || 0.23% || 0.37% || 0.99%
+|-
+| {{Bag2|Large Restore}} || N/A || 0.12% || 0.19% || 0.49%
+|-
+| {{Bag2|Revive}} || N/A || 0.12% || 0.19% || 0.49%
+|-
+| {{Bag2|Star Piece}} || N/A || 0.12% || 0.19% || 0.49%
+|-
+| align="center" colspan=6| '''Mythic'''
+|-
+| {{Bag2|Max Revive}} || N/A || &lt;0.01% || 0.08% || 0.39% || rowspan=2|&lt;center&gt; N/A
+|-
+| {{Bag2|Heart Scale}} || N/A || &lt;0.01% || 0.08% || 0.39%
+|-
+| {{Bag2|Protein}} || N/A || 0% || 0% || 0.39% || 450 Clears
+|}
+&lt;/div&gt;
+
+&lt;span id="Debuff_Drop_Table"&gt;&lt;/span&gt;
+===Table du taux d'obtention avec Perte de bonus===
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+After Reaching Unova, the drop chance for items in Johto will be debuffed for any loot with a Tier rarer than Rare (ie: Epic, Legendary, Mythic).
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable collapsible collapsed"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears !! Requirement 
+|-
+| align="center" colspan=6| '''Common'''
+|-
+| {{Bag2|Token Collector}} || N/A || 37.84% || 37.84% || 37.84% || rowspan=2|&lt;center&gt; N/A
+|-
+| {{Bag2|Lucky Egg}} || N/A || 37.84% || 37.84% || 37.84%
+|-
+| align="center" colspan=6| '''Rare'''
+|-
+| {{Bag2|Blue Shard}} || N/A || 4.04% || 4.04% || 4.04% || rowspan=6|&lt;center&gt; N/A
+|-
+| {{Bag2|Green Shard}} || N/A || 4.04% || 4.04% || 4.04%
+|-
+| {{Bag2|Red Shard}} || N/A || 4.04% || 4.04% || 4.04%
+|-
+| {{Bag2|Yellow Shard}} || N/A || 4.04% || 4.04% || 4.04%
+|-
+| {{Bag2|Grey Shard}} || N/A || 4.04% || 4.04% || 4.04%
+|-
+| {{Bag2|Purple Shard}} || N/A || 4.04% || 4.04% || 4.04%
+|-
+| align="center" colspan=6| '''Legendary'''
+|-
+| {{Bag2|Fist Plate}} || 2 || 0.02% || 0.02% || 0.02% || rowspan=6|&lt;center&gt; N/A
+|-
+| {{Bag2|Zap Plate}} || 2 || 0.02% || 0.02% || 0.02%
+|-
+| {{Bag2|Ultraball}} || 2 || 0.02% || 0.02% || 0.02%
+|-
+| {{Bag2|Large Restore}} || N/A || 0.01% || 0.01% || 0.01%
+|-
+| {{Bag2|Revive}} || N/A || 0.01% || 0.01% || 0.01%
+|-
+| {{Bag2|Star Piece}} || N/A || 0.01% || 0.01% || 0.01%
+|-
+| align="center" colspan=6| '''Mythic'''
+|-
+| {{Bag2|Max Revive}} || N/A || &lt;0.01% || &lt;0.01% || &lt;0.01% || rowspan=2|&lt;center&gt; N/A
+|-
+| {{Bag2|Heart Scale}} || N/A || &lt;0.01% || &lt;0.01% || &lt;0.01%
+|-
+| {{Bag2|Protein}} || N/A || 0% || 0% || &lt;0.01% || 450 Clears
+|}
+&lt;/div&gt;
+
+{{Johto Dungeons}}
+
+[[Category:Dungeons|^Region #2 - Johto^o]]
+[[Category:Donjons|^Région #2 - Johto^o]]</text>
+    <contributor>
+      <username>PetroleVB</username>
+      <id>619</id>
+    </contributor>
+    <comment>Created page with "===Sans Perte de Bonus==="</comment>
+    <model>wikitext</model>
+    <parentid>35772</parentid>
+    <sha1>d6d457b838d31389d898003bcb8bb3e08cacbd8f</sha1>
+  </revision>
+</page></mediawiki>

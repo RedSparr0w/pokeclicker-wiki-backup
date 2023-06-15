@@ -1,0 +1,80 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Small Restore</title>
+  <ns>0</ns>
+  <id>207</id>
+  <revision>
+    <id>30496</id>
+    <timestamp>2022-09-02T06:10:52Z</timestamp>
+    <text space="preserve" bytes="2210">&lt;languages/&gt;
+&lt;translate&gt;
+&lt;!--T:1--&gt;
+{{Infobox Underground Item
+|name       = Small Restore
+|image      = [[File:SmallRestore.png]]
+|caption    = In-Game image of the ''Small Restore''.
+|price      = 30,000 {{pdollar}}
+|location   = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*[[Towns &amp; Cities#Kanto|Cinnabar Island]]
+*[[Shops#Poké Mart|Poké Mart]]
+*[[Shops#Battle Frontier|Battle Frontier]]
+}}
+
+==Description== &lt;!--T:2--&gt;
+The '''Small Restore''' is a Mining Energy Restoration Item. When activated it restores 10% of your mining energy bar.
+
+==Details== &lt;!--T:3--&gt;
+A Small Potion to Restore Energy with. It has a 10% restoration rate.
+
+==Acquisition== &lt;!--T:4--&gt;
+===Shops===
+{{ItemPrice/head‎|Underground Items}}
+{{ItemPrice|[[Shops#Kanto: Locations &amp; Items|Cinnabar Island]]|30,000 {{pdollar}}}}
+{{ItemPrice|[[Shops#Johto: Locations &amp; Items|Cherrygrove City]]|30,000 {{pdollar}}}}
+{{ItemPrice|[[Shops#Hoenn: Locations &amp; Items|Oldale Town]]|30,000 {{pdollar}}}}
+{{ItemPrice|[[Shops#Sinnoh: Locations &amp; Items|Sandgem Town]]|30,000 {{pdollar}}}}
+{{ItemPrice|[[Shops#Unova: Locations &amp; Items|Floccesy Town]]|30,000 {{pdollar}}}}
+{{ItemPrice|[[Shops#Kalos: Locations &amp; Items|Aquacorde Town]]|30,000 {{pdollar}}}}
+{{ItemPrice|[[Shops#Alola: Locations &amp; Items|Iki Town]]|30,000 {{pdollar}}}}
+{{ItemPrice|[[Shops#Poké Mart|Poké Mart]]|30,000 {{pdollar}}}}
+{{ItemPrice|[[Shops#Battle Frontier|Battle Frontier]]|10 {{Battlepoints}}}}
+|}
+|}
+
+===Dungeons=== &lt;!--T:5--&gt;
+{{Loot/head‎|Underground Items}}
+{{LootItem|Viridian Forest|Mythic}}
+{{LootItem|Mt. Moon|Mythic}}
+{{LootItem|Victory Road|Legendary}}
+{{LootItem|Altering Cave|Legendary}}
+{{LootItem|Sprout Tower|Legendary}}
+{{LootItem|Ruins of Alph|Legendary}}
+{{LootItem|Union Cave|Legendary}}
+{{LootItem|Dark Cave|Legendary}}
+{{LootItem|Victory Road Johto|Legendary}}
+{{LootItem|Petalburg Woods|Legendary}}
+{{LootItem|Valley Windworks|Legendary}}
+{{LootItem|Eterna Forest|Legendary}}
+{{LootItem|Wayward Cave|Legendary}}
+{{LootItem|Castelia Sewers|Legendary}}
+{{LootItem|Dreamyard|Legendary}}
+{{LootItem|Santalune Forest|Legendary}}
+{{LootItem|Trainers' School|Legendary}}
+|}
+|}
+
+&lt;!--T:6--&gt;
+&lt;br&gt;
+{{Underground Items}}
+[[Category:Items]] [[Category:Restores]]
+&lt;/translate&gt;</text>
+    <contributor>
+      <username>ThePantMan</username>
+      <id>310</id>
+    </contributor>
+    <comment>/* Added new dungeon */</comment>
+    <model>wikitext</model>
+    <parentid>28402</parentid>
+    <sha1>d8c89018f076e17879fac2171eb121465cab2157</sha1>
+  </revision>
+</page></mediawiki>

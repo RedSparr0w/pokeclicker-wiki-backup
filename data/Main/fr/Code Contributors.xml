@@ -1,0 +1,67 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Code Contributors/fr</title>
+  <ns>0</ns>
+  <id>10107</id>
+  <revision>
+    <id>30210</id>
+    <timestamp>2022-08-31T15:20:57Z</timestamp>
+    <text space="preserve" bytes="3756">&lt;languages/&gt;
+Alors comme ça, vous voulez contribuer comme tous ces braves gars présent sur la page principale ? &lt;br&gt;
+En ce cas merci de bien vouloir respecter la déraisonnablement longue procédure détaillant précisément comment faire ça ! &lt;br&gt;
+Rapporté grâce à l'aimable (incroyable, talentueuse, inégalable) [[User:Liczale|Liczale]] qui à du luter pendant bien deux heures et demi pour vous produire ça  !
+
+# Installez [https://nodejs.org/ NodeJS]
+# Installez [https://desktop.github.com/ Github Desktop]
+# Allez sur le [https://github.com/pokeclicker/pokeclicker/ GitHub PokeClicker]
+# Cliquez sur le bouton vert "Code"
+# Copiez le lien HTTPS qui vous sera fourni par ce bouton en cliquant sur l'icone à droite (les deux petits carés)
+# Ouvrez l'application GitHub Desktop
+# Cliquez sur "Clone a Repository from the Internet"
+# Allez dans l'onglet "URL" et collez le lien HTTPS précédemment récupéré via le bouton "Code"
+# Ajoutez le dépôt (Repository) et attendez la fin du téléchargement
+# Ouvrez l'onglet du dépôt en haut de l'écran dans l'écran de l'application Github Desktop
+# Cliquez sur "Open in Command Prompt"
+#* Sur Mac, cette option sera appelée "Open in Terminal." Suivez toutes instructions fournie dans Terminal, puis sautez à l'étape 15.
+# Cliquez sur "Open Without Git"
+# Cliquez sur "Open in CMD"
+# Allez sur l'instance de commande ainsi ouverte
+# Tappez `npm clean-install` puis validez avec Entrer
+# Une fois installé, tapez `npm start` puis validez avec Entrer
+# Après avoir fait cela, votre navigateur internet devrait lancer une instance locale de PokéClicker
+# Ouvrez l'explorateur de fichier et allez dans le répertoire du dépôt cloné
+#* Alternativement, vous pouvez allez dans le dépôt sur l'application Github Desktop et cliquer sur "Show in Explorer" dans le menu
+# Trouvez et éditez n'importe quel fichier *.ts que vous souhaiteriez modifier
+# Si demandé, vous pouvez ouvrir le fichier avec Notepad
+# Effectuez tout changement voulu
+#* Pour éditer un fichier HTML sur Mac, vous pouvez avoir besoin de modifier les préférences de TextEdit pour vous assurer que l'option "Display HTML files as HTML code" est bien cochée sous l'onglet Ouvrir et Sauvegarder
+# Une fois les changements validés, sauvegardez
+# Revenez sur la console de commande CMD et tapez `npm run eslint-fix` puis validez avec Entrer
+#* Ceci devrait résoudre différents problèmes, ou au moins vous indiquer quels problèmes sont à résoudre 
+#* Si vous utilisez Chrome, vous pouvez également vérifier les erreurs via le système d'inspection (clic droit -&gt; Inspecter) directement sur l'onglet de votre instance Pokéclicker locale que vous avez lancé 
+# Revenez sur l'application GitHub Desktop
+# En bas à gauche, vous trouverez un résumé de l'ensemble des changements et un petit bouton bleu sur lequel cliquer.
+#* Github reconnaitra l'ensemble des fichiers marqués pour changement
+# Maintenant vous devriez être revenu sur la fenêtre principale de Github Desktop. Cliquez sur le bouton bleu "Push Origin"
+# Faites un Fork du dépôt quand il vous le sera demandé
+# Cliquez sur "Contribute to Parent Project"
+# Enfin cliquez sur le bouton qui dit "View on GitHub"
+# Sur votre navigateur internet, cliquez sur "Pull Requests"
+# Cliquez sur le bouton vert "New Pull Request"
+# Cliquez sur "compare changes" 
+# Cliquez sur "compare across forks"
+# Appuyez sur "Head Repository" et sélectionnez l'option qui représente votre version
+# Cliquez ensuite sur le bouton "Create Pull Request"
+
+Félicitations ! Vous venez de faire des modifications et de les publier pour qu'elles soient revues !
+N'hésitez pas à aller voir l'ensemble des auteurs trouvable ici https://github.com/orgs/pokeclicker/people</text>
+    <contributor>
+      <username>Razikd</username>
+      <id>535</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>26920</parentid>
+    <sha1>64c39d6d62b306628ea42c7a368cc6a7c393d282</sha1>
+  </revision>
+</page></mediawiki>

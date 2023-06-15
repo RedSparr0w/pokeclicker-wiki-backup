@@ -1,0 +1,148 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Union Cave/en</title>
+  <ns>0</ns>
+  <id>14499</id>
+  <revision>
+    <id>35107</id>
+    <timestamp>2022-09-13T13:26:57Z</timestamp>
+    <text space="preserve" bytes="3890">&lt;languages/&gt;
+{{Infobox dungeon
+|name    = Union Cave
+|image   = [[File:Union Cave.png|thumb]]
+|caption = A map of  Union Cave.
+|tokens  = 3,000
+|location = South of Violet City and [[Ruins of Alph]], on Route 32.
+}}
+'''Union Cave''' is a dungeon in [[Johto]].  It initially has 36 tiles arranged in an 6x6 square, including 6 chest tiles, 14 non-boss encounter tiles, and 1 boss encounter tile. Wild Encounters have 63,600 HP.
+
+== Encounter Tables ==
+
+===Wild Encounters===
+
+{| class="wikitable"
+|-
+! Wild Pokémon !! colspan=2|Trainers
+|-
+! Encounter !! Trainer !! Pokémon Team
+|-
+| [[File:Rattata.png|40px]] Rattata || rowspan=2|[[File:Hiker.png|40px]] Hiker Russell || rowspan=2|[[File:Geodude.png|40px]] Geodude, [[File:Geodude.png|40px]] Geodude, [[File:Geodude.png|40px]] Geodude
+|-
+| [[File:Sandshrew.png|40px]] Sandshrew 
+|-
+| [[File:Zubat.png|40px]] Zubat || rowspan=3|[[File:Firebreather.png|40px]] Firebreather Bill || rowspan=3|[[File:Koffing.png|40px]] Koffing, [[File:Koffing.png|40px]] Koffing
+|-
+| [[File:Geodude.png|40px]] Geodude 
+|-
+| [[File:Onix.png|40px]] Onix
+|-
+| [[File:Goldeen.png|40px]] Goldeen || rowspan=3|[[File:PokéManiac.png|40px]] PokéManiac Larry || rowspan=3|[[File:Slowpoke.png|40px]] Slowpoke
+|-
+| [[File:Magikarp.png|40px]] Magikarp
+|-
+| [[File:Wooper.png|40px]] Wooper
+|}
+
+===Boss Encounters===
+{| class="wikitable"
+|-
+! Wild Pokémon !! Base Health !! Boss Trainer !! Pokémon Team !! Base Health
+|-
+| rowspan=2|&lt;center&gt;[[File:Lapras.png|40px]] '''Lapras*''' || rowspan=2|&lt;center&gt;450,000 || [[File:Hiker.png|40px]] Hiker Daniel || [[File:Onix.png|40px]] Onix || rowspan=2|&lt;center&gt;300,000
+|-
+| [[File:Firebreather.png|40px]] Firebreather Ray || [[File:Vulpix.png|40px]] Vulpix
+|}
+
+'''*Lapras only appears on Fridays after obtaining Fog Badge'''
+
+==Items==
+
+===No Debuff===
+
+{| class="wikitable"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+|-
+| align="center" colspan=6| '''Common'''
+|-
+| {{Bag2|xAttack}} || 2 || 29.99% || 28.80% || 24.00%
+|-
+| {{Bag2|xClick}} || 2 || 29.99% || 28.80% || 24.00%
+|-
+| {{Pokemon|Geodude}} || N/A || 14.99% || 14.40% || 12.00%
+|-
+| align="center" colspan=6| '''Rare'''
+|-
+| {{Bag2|Blue Shard}} || N/A || 10.00% || 10.50% || 12.47%
+|-
+| {{Bag2|Yellow Shard}} || N/A || 10.00% || 10.50% || 12.47%
+|-
+| align="center" colspan=6| '''Epic'''
+|-
+| {{Bag2|Greatball}} || N/A || 4.01% || 5.20% || 10.00%
+|-
+| align="center" colspan=6| '''Legendary'''
+|-
+| {{Bag2|Small Restore}} || N/A || 0.50% || 0.80% || 1.99%
+|-
+| {{Bag2|Revive}} || N/A || 0.50% || 0.80% || 1.99%
+|-
+| align="center" colspan=6| '''Mythic'''
+|-
+| {{Bag2|Ultraball}} || N/A || 0.01% || 0.11% || 0.53%
+|-
+| {{Bag2|Large Restore}} || N/A || 0.01% || 0.11% || 0.53%
+|}
+
+===Debuff Drop Table===
+
+After Reaching Unova, the drop chance for items in Johto will be debuffed for any loot with a Tier rarer than Rare (ie: Epic, Legendary, Mythic).
+
+{| class="wikitable collapsible collapsed"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+|-
+| align="center" colspan=6| '''Common'''
+|-
+| {{Bag2|xAttack}} || 2 || 30.00% || 30.00% || 30.00%
+|-
+| {{Bag2|xClick}} || 2 || 30.00% || 30.00% || 30.00%
+|-
+| {{Pokemon|Geodude}} || N/A || 15.00% || 15.00% || 15.00%
+|-
+| align="center" colspan=6| '''Rare'''
+|-
+| {{Bag2|Blue Shard}} || N/A || 12.00% || 12.00% || 12.00%
+|-
+| {{Bag2|Yellow Shard}} || N/A || 12.00% || 12.00% || 12.00%
+|-
+| align="center" colspan=6| '''Epic'''
+|-
+| {{Bag2|Greatball}} || N/A || 0.90% || 0.90% || 0.90%
+|-
+| align="center" colspan=6| '''Legendary'''
+|-
+| {{Bag2|Small Restore}} || N/A || 0.05% || 0.05% || 0.05%
+|-
+| {{Bag2|Revive}} || N/A || 0.05% || 0.05% || 0.05%
+|-
+| align="center" colspan=6| '''Mythic'''
+|-
+| {{Bag2|Ultraball}} || N/A || &lt;0.01% || &lt;0.01% || &lt;0.01%
+|-
+| {{Bag2|Large Restore}} || N/A || &lt;0.01% || &lt;0.01% || &lt;0.01%
+|}
+
+{{Johto Dungeons}}
+
+[[Category:Dungeons|^Region #2 - Johto^c]]</text>
+    <contributor>
+      <username>FuzzyBot</username>
+      <id>587</id>
+    </contributor>
+    <comment>Updating to match new version of source page</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>6d4a5296fa48f98472459801eaf6e1d49848fb76</sha1>
+  </revision>
+</page></mediawiki>

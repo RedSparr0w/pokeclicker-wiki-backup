@@ -1,0 +1,53 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Magic Ball/de</title>
+  <ns>0</ns>
+  <id>8859</id>
+  <revision>
+    <id>23619</id>
+    <timestamp>2022-08-14T22:20:40Z</timestamp>
+    <text space="preserve" bytes="1256">&lt;languages/&gt;
+{{Infobox Oak Item
+|name       = Magischer Ball
+|image      = [[File:Bag_Magic_Ball_Sprite.png]]
+|caption    = ''Magischer Ball'' Artwork.
+|dex = 20
+|effect     = Gibt einen Bonus zur Fangwahrscheinlichkeit
+}}
+
+Der '''Magische Ball''' ist eines der [[Oak Items|Oak Items]]. Wenn es ausgerüstet ist gibt es einen Bonus zur Fangchance des Spielers.
+
+==Details==
+
+{| class="wikitable sortable"
+|-
+! Level !! Effekt !! Upgrade Voraussetzung !! Upgrade Kosten
+|-
+|0 || +5% zur Fangchance || 250 gefangene Pokémon || style="text-align:right" | 50,000 {{pdollar}}
+|-
+|1 || +6% zur Fangchance || 250 gefangene Pokémon || style="text-align:right" | 100,000 {{pdollar}}
+|-
+|2 || +7% zur Fangchance || 750 gefangene Pokémon || style="text-align:right" | 250,000 {{pdollar}}
+|-
+|3 || +8% zur Fangchance || 1250 gefangene Pokémon || style="text-align:right" | 500,000 {{pdollar}}
+|-
+|4 || +9% zur Fangchance || 2500 gefangene Pokémon || style="text-align:right" | 1,000,000 {{pdollar}}
+|-
+|5/Max || +10% zur Fangchance || N/A || style="text-align:right" | N/A
+|-
+|}
+
+== Trivia ==
+* Das Artwork des Magischen Balls teilt sich ein Design mit dem des Premierballs aus den original Spielen.
+&lt;br&gt;{{Oak items}}&lt;br&gt;
+[[Category:Oak Items]] [[Category:Items]]</text>
+    <contributor>
+      <username>Dracul</username>
+      <id>642</id>
+    </contributor>
+    <comment>Created page with "{| class="wikitable sortable" |- ! Level !! Effekt !! Upgrade Voraussetzung !! Upgrade Kosten |- |0 || +5% zur Fangchance || 250 gefangene Pokémon || style="text-align:right" | 50,000 {{pdollar}} |- |1 || +6% zur Fangchance || 250 gefangene Pokémon || style="text-align:right" | 100,000 {{pdollar}} |- |2 || +7% zur Fangchance || 750 gefangene Pokémon || style="text-align:right" | 250,000 {{pdollar}} |- |3 || +8% zur Fangchance || 1250 gefangene Pokémon || style="text-..."</comment>
+    <model>wikitext</model>
+    <parentid>23617</parentid>
+    <sha1>124f7d604cbcbbea3d77526e893f8319311585b2</sha1>
+  </revision>
+</page></mediawiki>
