@@ -1,0 +1,59 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Challenge Mode/fr</title>
+  <ns>0</ns>
+  <id>5296</id>
+  <revision>
+    <id>26781</id>
+    <timestamp>2022-08-25T09:03:50Z</timestamp>
+    <text space="preserve" bytes="3165">&lt;languages/&gt;
+{{Infobox battle item
+|name       = Mode de Défi
+|image      = [[File:Challenge_Modes_Start_Menu.png|thumb|300px]]
+|caption    = La fenêtre des Modes de défi au moment de commencer une partie
+}}
+
+Les '''Modes de défi''' sont des options pour changer la difficulté du jeu. Il y a actuellement 9 défis qui, une fois activés, ne peuvent pas être désactivés du fichier de sauvegarde. Aucune récompense n'est offerte pour la complétion de ces défis, hormis le droit de s'en vanter. Le jeu est toujours complétable à 100%, même avec l'ensemble des défis activés (même si la méthode peut varier par moment). Les défis recommandés sont sélectionnés par défaut mais il est possible de les désactiver à tout moment.
+
+{| class="wikitable" style="text-align: center;"
+|-
+! Défi !! Recommandé !! Contrainte
+|-
+| Perte d'attaque régionale || Oui || Diminue l'attaque des Pokémon selon leur région d'origine et la dernière région atteinte. (Voir [[Regions|Régions]] pour le calcul de l'attaque)
+|-
+| Pokédex Complet Requis || Oui || Requiert un Pokédex régional complet avant de partir pour la région suivante. (Voir chaque [[Regions|Régions]] pour plus d'informations)
+|-
+| Pas d'attaques de clic || Non || Empêche de cliquer pour infliger des dégâts.
+|-
+| Pas d'objets de combat || Non || Empêche l'utilisation des 6 [[Battle Items|Objets de Combat]] ou des 6 [[Flutes|Flûtes]].
+|-
+| Pas de Masterballs || Non || Empêche l'utilisation des [[Masterball|Masterballs]].
+|-
+| Pas d'Objets de Chen || Non || Empêche l'utilisation des [[Oak Items|Objets de Chen]].
+|-
+| Pas de Joyaux || Non || Empêche l'utilisation des [[Gems|Joyaux]] et des [[Flutes|Flûtes]].
+|-
+| Pas de Protéines || Non || Empêche l'utilisation de [[Protein|Protéines]].
+|-
+| EV lents || Non || Diminue le taux auquel sont gagnés les [[Pokérus|EV]] (10x plus lent).
+|}
+
+=== Les Baies durant les Défis ===
+
+Si le défi "Pas d'Objets de Chen" est actif, les [[Berries|Baies]] [[Chople|Pomroz]] [[Kebia|Kébia]] [[Shuca|Jouca]] et [[Charti]] ne sont pas récoltables comme elles devraient normalement l'être dans la [[Farm|Ferme]]. Ces quatre baies nécessitent en effet que des Objets de Chen soient équipés pour engendrer leur mutation. A la place, elles deviennent disponibles à l'achat auprès du [[Berry Master|Maître des Baies]] de Johto. 
+
+=== Quête des Routes Chromatiques avec Tous les Défis (All Challenges Shiny Route Quest (ACSRQ)) ===
+
+Des membres de la communauté Pokéclicker ont développé et participent à un challenge qui va au delà de ce qui est offert via les Modes de défi standards. ACSRQ consiste non seulement à jouer avec l'ensemble des défis actifs (AC/A9C est aussi un challenge populaire) mais également à capturer tous les Pokémons chromatiques possibles sur chaque Route/Donjon/Ville/etc avant d'avancer au prochain lieu.
+
+Plus d'informations sur [https://discord.gg/a6DFe4p Discord Pokéclicker], le [https://discord.gg/eRBzdU9tVk Discord ACSRQ] où il y a un classement activement mis à jour et [https://bit.ly/acsrq-leaderboard Classement ACSRQ] où plus de ressources et une FAQ sont disponibles.</text>
+    <contributor>
+      <username>PetroleVB</username>
+      <id>619</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>26779</parentid>
+    <sha1>c92323ac1d6b95434ff7b6396fb222dee63f0cac</sha1>
+  </revision>
+</page></mediawiki>

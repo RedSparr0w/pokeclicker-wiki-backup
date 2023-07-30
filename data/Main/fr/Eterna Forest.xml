@@ -1,0 +1,147 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Eterna Forest/fr</title>
+  <ns>0</ns>
+  <id>15736</id>
+  <revision>
+    <id>38085</id>
+    <timestamp>2022-09-25T22:40:40Z</timestamp>
+    <text space="preserve" bytes="4564">&lt;languages/&gt;
+{{Infobox dungeon
+|name    = Forêt de Vestigion
+|image   = [[File:Eterna Forest.png|300px]]
+|caption = Une carte de la Forêt de Vestigion.
+|tokens  = 48 000
+|location = Sur la partie nord de la Route 205.
+}}
+La '''Forêt de Vestigion''' est un [[Dungeons/fr|donjon]] de [[Sinnoh]]. Il est initialement composé de 64 cases arrangées en 8x8, comprenant 8 coffres, 19 rencontres hors boss et 1 Combat de Boss. Les rencontres sauvages ont 812 000 PV.
+
+&lt;span id="Encounter_Tables"&gt;&lt;/span&gt;
+== Tables de rencontres ==
+
+&lt;span id="Wild_Encounters"&gt;&lt;/span&gt;
+===Rencontres sauvages===
+
+{| class="wikitable"
+|-
+! Pokémon sauvages !! colspan=2|Dresseurs
+|-
+! Rencontre !! Dresseurs !! Équipe Pokémon
+|-
+| [[File:Gastly.png|40px]] Fantominus || rowspan=2| [[File:Bookworms.png|40px]] Éclaireurs Pascual &amp; Naomi || rowspan=2|[[File:Wurmple.png|40px]] Chenipotte, [[File:Silcoon.png|40px]] Armulys, [[File:Beautifly.png|40px]] Charmillon, [[File:Pachirisu.png|40px]] Pachirisu
+|-
+| [[File:Hoothoot.png|40px]] Hoothoot
+|-
+| [[File:Wurmple.png|40px]] Chenipotte|| rowspan=2| [[File:Melded_Minds_(both).png|40px]] Duo Hypno Jessica &amp; Térence || rowspan=2|[[File:Abra.png|40px]] Abra, [[File:Abra.png|40px]] Abra
+|-
+| [[File:Silcoon.png|40px]] Armulys
+|-
+| [[File:Cascoon.png|40px]] Blindalys || rowspan=2| [[File:Bug_Buds.png|40px]] Arthropotes Tim &amp; Kerwin || rowspan=2|[[File:Wurmple.png|40px]] Chenipotte, [[File:Cascoon.png|40px]] Blindalys, [[File:Dustox.png|40px]] Papinox, [[File:Burmy.png|40px]] Cheniti (Cape Plante), [[File:Kricketune.png|40px]] Mélokrik
+|-
+| [[File:Bidoof.png|40px]] Keunotor
+|-
+| [[File:Kricketot.png|40px]] Crikzik || rowspan=3| [[File:Melded_Minds_(both).png|40px]] Duo Hypno Medhi &amp; Andréa || rowspan=3|[[File:Meditite.png|40px]] Méditikka, [[File:Psyduck.png|40px]] Psykokwak
+|-
+| [[File:Budew.png|40px]] Rozbouton
+|-
+| [[File:Buneary.png|40px]] Laporeille
+|}
+
+&lt;span id="Boss_Encounters"&gt;&lt;/span&gt;
+===Combats de Boss===
+
+{| class="wikitable"
+|-
+! Pokémon sauvages !! PV de base !! Dresseurs Boss !! Équipe Pokémon !! PV de base
+|-
+|[[File:Beautifly.png|40px]] Charmillon ||  rowspan=2 | &lt;center&gt;3 950 000 || colspan=3 rowspan=2 | &lt;center&gt;N/A
+|-
+|[[File:Dustox.png|40px]] Papinox
+|}
+
+&lt;span id="Items"&gt;&lt;/span&gt;
+==Objets==
+
+&lt;span id="No_Debuff"&gt;&lt;/span&gt;
+===Sans Perte de Bonus===
+
+{| class="wikitable"
+|-
+! Objet de coffre !! Poids !! Complétion 0 fois !! Complétion 100 fois !! Complétion 500 fois
+|-
+| align="center" colspan=6| '''Commun'''
+|-
+| {{Bag2|Cheri|Ceriz}} || N/A || 15,00% || 14,43% || 12,13%
+|-
+| {{Bag2|Oran}} || N/A || 15,00% || 14,43% || 12,13%
+|-
+| {{Bag2|Razz|Framby}} || N/A || 15,00% || 14,43% || 12,13%
+|-
+| {{Bag2|Bluk|Remu}} || N/A || 15,00% || 14,43% || 12,13%
+|-
+| {{Bag2|Greatball|Super Ball}} || N/A || 15,00% || 14,43% || 12,13%
+|-
+| align="center" colspan=6| '''Rare'''
+|-
+| {{Bag2|Green Shard|Tesson Vert}} || N/A || 20,01% || 21,04% || 25,22%
+|-
+| align="center" colspan=6| '''Épique'''
+|-
+| {{Bag2|Insect Plate|Plaque Insecte}} || N/A || 2,01% || 2,61% || 5,05%
+|-
+| {{Bag2|Meadow Plate|Plaque Herbe}} || N/A || 2,01% || 2,61% || 5,05%
+|-
+| align="center" colspan=6| '''Légendaire'''
+|-
+| {{Bag2|Small Restore|Potion}} || N/A || 1,00% || 1,59% || 4,03%
+|}
+
+&lt;span id="Debuff_Drop_Table"&gt;&lt;/span&gt;
+===Table du taux d'obtention avec Perte de bonus===
+
+Après avoir atteint Alola, le taux d'obtention des objets dans la région de Sinnoh sera abaissé pour tout objet avec un tiers de rareté supérieur à Rare (i.e. : Épique , Légendaire, Mythique).
+
+{| class="wikitable collapsible collapsed"
+|-
+! Objet de coffre !! Poids !! Complétion 0 fois !! Complétion 100 fois !! Complétion 500 fois
+|-
+| align="center" colspan=6| '''Commun'''
+|-
+| {{Bag2|Cheri|Ceriz}} || N/A || 15,00% || 15,00% || 15,00%
+|-
+| {{Bag2|Oran}} || N/A || 15,00% || 15,00% || 15,00%
+|-
+| {{Bag2|Razz|Framby}} || N/A || 15,00% || 15,00% || 15,00%
+|-
+| {{Bag2|Bluk|Remu}} || N/A || 15,00% || 15,00% || 15,00%
+|-
+| {{Bag2|Greatball|Super Ball}} || N/A || 15,00% || 15,00% || 15,00%
+|-
+| align="center" colspan=6| '''Rare'''
+|-
+| {{Bag2|Green Shard|Tesson Vert}} || N/A || 24,00% || 24,00% || 24,00%
+|-
+| align="center" colspan=6| '''Épique'''
+|-
+| {{Bag2|Insect Plate|Plaque Insecte}} || N/A || 0,45% || 0,45% || 0,45%
+|-
+| {{Bag2|Meadow Plate|Plaque Herbe}} || N/A || 0,45% || 0,45% || 0,45%
+|-
+| align="center" colspan=6| '''Légendaire'''
+|-
+| {{Bag2|Small Restore|Potion}} || N/A || 0,10% || 0,10% || 0,10%
+|}
+
+{{Sinnoh Dungeons}}
+
+[[Category:Dungeons|^Region #4 - Sinnoh^c]][[Category:Donjons|^Région #4 - Sinnoh^c]]</text>
+    <contributor>
+      <username>Razikd</username>
+      <id>535</id>
+    </contributor>
+    <comment>Created page with "{| class="wikitable collapsible collapsed" |- ! Objet de coffre !! Poids !! Complétion 0 fois !! Complétion 100 fois !! Complétion 500 fois |- | align="center" colspan=6| '''Commun''' |- | {{Bag2|Cheri|Ceriz}} || N/A || 15,00% || 15,00% || 15,00% |- | {{Bag2|Oran}} || N/A || 15,00% || 15,00% || 15,00% |- | {{Bag2|Razz|Framby}} || N/A || 15,00% || 15,00% || 15,00% |- | {{Bag2|Bluk|Remu}} || N/A || 15,00% || 15,00% || 15,00% |- | {{Bag2|Greatball|Super Ball}} || N/A ||..."</comment>
+    <model>wikitext</model>
+    <parentid>38083</parentid>
+    <sha1>dd0195c01470872f599345dd9bdacc972f376b1d</sha1>
+  </revision>
+</page></mediawiki>

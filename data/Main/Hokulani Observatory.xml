@@ -1,0 +1,106 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Hokulani Observatory</title>
+  <ns>0</ns>
+  <id>4122</id>
+  <revision>
+    <id>39943</id>
+    <timestamp>2022-10-23T21:20:02Z</timestamp>
+    <text space="preserve" bytes="2359">&lt;languages/&gt;
+&lt;translate&gt;
+&lt;!--T:1--&gt;
+{{Infobox dungeon
+|name    = Hokulani Observatory
+|image   = [[File:Hokulani Observatory.png|300px]]
+|caption = A map of Hokulani Observatory.
+|tokens  = 1,000,000
+|location = Northeast of Mt. Hokulani.
+}}
+
+&lt;!--T:2--&gt;
+'''Hokulani Observatory''' is a [[Dungeons|dungeon]] in [[Alola]]. The [[Gyms#Alola|Electrium-Z]] [[File:ElectriumZ.png|30px]] is awarded upon clearing this dungeon. It initially has 125 tiles arranged in two floors: 10x10 and 5x5 in size, respectively; including 15 chest tiles, 36 non-boss encounter tiles, 1 ladder tile, and 1 boss encounter tile. Wild Encounters have 13,883,676 HP.
+
+== Encounter Tables == &lt;!--T:3--&gt;
+
+===Wild Encounters=== &lt;!--T:4--&gt;
+
+&lt;!--T:5--&gt;
+{| class="wikitable"
+|-
+! Wild Pokémon !! colspan=2|Trainers
+|-
+! Encounter !! Trainer !! Pokémon Team
+|-
+| [[File:Grubbin.png|40px]] Grubbin ||rowspan=6 colspan=2|&lt;center&gt;N/A
+|-
+| [[File:Charjabug.png|40px]] Charjabug 
+|-
+| [[File:Elekid.png|40px]] Elekid
+|-
+| [[File:Electabuzz.png|40px]] Electabuzz
+|-
+| [[File:Skarmory.png|40px]] Skarmory
+|-
+| [[File:Dedenne.png|40px]] Dedenne
+|-
+|}
+
+&lt;!--T:6--&gt;
+===Boss Encounters===
+{| class="wikitable"
+|-
+! Wild Pokémon !! Base Health !! Boss Trainer !! Pokémon Team !! Base Health
+|-
+| [[File:Vikavolt.png|50px]] Vikavolt ||rowspan=2|&lt;center&gt;69,418,380 ||rowspan=4 colspan=3|&lt;center&gt;N/A
+|-
+| [[File:Togedemaru.png|50px]] Togedemaru
+|-
+| '''[[File:Totem Vikavolt.png|50px]] Totem Vikavolt*''' ||rowspan=2|&lt;center&gt;82,543,791
+|-
+| '''[[File:Totem Togedemaru.png|50px]] Totem Togedemaru*'''
+|-
+|}
+'''*Must be Alola Champion to Unlock'''
+
+==Items== &lt;!--T:7--&gt;
+
+&lt;!--T:8--&gt;
+{| class="wikitable"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+|-
+| align="center" colspan=6| '''Common'''
+|-
+| {{Bag2|Dowsing Machine}} || N/A || 37.49% || 36.08% || 30.32%
+|-
+| {{Bag2|Token Collector}} || N/A || 37.49% || 36.08% || 30.32%
+|-
+| align="center" colspan=6| '''Rare'''
+|-
+| {{Bag2|Yellow Shard}} || N/A || 20.01% || 21.04% || 25.22%
+|-
+| align="center" colspan=6| '''Epic'''
+|-
+| {{Bag2|Zap Plate}} || N/A || 2.01% || 2.61% || 5.05%
+|-
+| {{Bag2|Iron Plate}} || N/A || 2.01% || 2.61% || 5.05%
+|-
+| align="center" colspan=6| '''Legendary'''
+|-
+| {{Bag2|Quickball}} || N/A || 1.00% || 1.59% || 4.03%
+|}
+
+&lt;!--T:9--&gt;
+{{Alola Dungeons}}
+[[Category:Dungeons|^Region #7 - Alola^o]]
+&lt;/translate&gt;</text>
+    <contributor>
+      <username>ThePantMan</username>
+      <id>310</id>
+    </contributor>
+    <comment>/* Description - floors */</comment>
+    <model>wikitext</model>
+    <parentid>38603</parentid>
+    <sha1>3d5d834679e8c9aaf697eacb16cd0a0f61bbb4c7</sha1>
+  </revision>
+</page></mediawiki>

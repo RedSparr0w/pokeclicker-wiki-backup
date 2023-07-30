@@ -1,0 +1,62 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Upgrade/fr</title>
+  <ns>0</ns>
+  <id>13001</id>
+  <revision>
+    <id>38534</id>
+    <timestamp>2022-10-07T16:42:33Z</timestamp>
+    <text space="preserve" bytes="1638">&lt;languages/&gt;
+{{Infobox evolution item
+|name       = Améliorator
+|image      = [[File:Upgrade.png|200px]]
+|caption    = Image en jeu de l'''Améliorator''.
+|price      = 2 500 {{Questpoints}}
+|location   = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*[[Upgrade/fr#Boutiques|Boutiques]]
+|helditem = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*[[File:Porygon2.png|30px]]Porygon2
+}}
+
+==Description==
+
+L'Améliorator est un type d'[[Evolution Items/fr|Objet d'évolution]] découvert à [[Johto/fr|Johto]].
+
+==Utilisation==
+{| class="wikitable sortable"
+|-
+! Pré-Évolution !! Évolution
+|- 
+| [[File:Porygon.png|40px]] Porygon || [[File:Porygon2.png|40px]] Porygon2
+|}
+
+&lt;div class="mw-translate-fuzzy"&gt;
+== Acquisition ==
+===Boutiques===
+{{ItemPrice/head‎|Evolution items}}
+{{ItemPrice|[[Shops/fr#Johto : Lieux &amp; Objets|Acajou]]|2 500 {{Questpoints}}}}
+{{ItemPrice|[[Shops/fr#Hoenn : Lieux &amp; Objets|Algatia]]|2 500 {{Questpoints}}}}
+{{ItemPrice|[[Shops/fr#Sinnoh : Lieux &amp; Objets|Frimapic]]|2 500 {{Questpoints}}}}
+{{ItemPrice|[[Shops/fr#Unys : Lieux &amp; Objets|Parsemille]]|2 500 {{Questpoints}}}}
+{{ItemPrice|[[Shops/fr#Kalos : Lieux &amp; Objets|Relifac-le-Haut]]|2 500 {{Questpoints}}}}
+{{ItemPrice|[[Shops/fr#Alola : Lieux &amp; Objets|Paradis Æther]]|2 500 {{Questpoints}}}}
+{{ItemPrice|[[Shard Trader/fr|Collectionneurs de Tessons]]|625 {{Questpoints}} &lt;br&gt; 50 [[File:Yellow_Shard_Updated.png|20px]] [[Yellow Shard/fr|Tessons Jaunes]] &lt;br&gt; 75 [[File:Purple_Shard_Updated.png|20px]] [[Purple Shard/fr|Tessons Violets]]}}
+|}
+|}
+&lt;/div&gt;
+
+&lt;br&gt;&lt;br&gt;
+{{Evolution Items}}
+
+[[Category:Items]] [[Category:Evolution Items]]
+[[Category:Objets]] [[Category:Objets d'Évolution]]</text>
+    <contributor>
+      <username>FuzzyBot</username>
+      <id>587</id>
+    </contributor>
+    <comment>Updating to match new version of source page</comment>
+    <model>wikitext</model>
+    <parentid>33291</parentid>
+    <sha1>4b9a05bab4fda684e94044933a77514e2c078655</sha1>
+  </revision>
+</page></mediawiki>

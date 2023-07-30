@@ -1,0 +1,146 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Seafloor Cavern</title>
+  <ns>0</ns>
+  <id>407</id>
+  <revision>
+    <id>41258</id>
+    <timestamp>2022-11-09T04:59:16Z</timestamp>
+    <text space="preserve" bytes="3791">&lt;languages/&gt;
+&lt;translate&gt;
+&lt;!--T:1--&gt;
+{{Infobox dungeon
+|name    = Seafloor Cavern
+|image   = [[File:Seafloor Cavern.png|300px]]
+|caption = A map of Seafloor Cavern.
+|tokens  = 32,000
+|location = To the west of Route 128.
+}}
+'''Seafloor Cavern''' is a [[Dungeons|dungeon]] in [[Hoenn]]. It initially has 49 tiles arranged in a 7x7 square, including 7 chest tiles, 17 non-boss encounter tiles, and 1 boss encounter tile. Wild Encounters have 530,000 HP.
+
+== Encounter Tables == &lt;!--T:2--&gt;
+
+===Wild Encounters=== &lt;!--T:3--&gt;
+
+&lt;!--T:4--&gt;
+{| class="wikitable"
+|-
+! Wild Pokémon !! colspan=2|Trainers
+|-
+! Encounter !! Trainer !! Pokémon Team
+|-
+| [[File:Zubat.png|40px]] Zubat || [[File:Team_Aqua_Grunt_(male).png|40px]] Team Aqua Grunt || [[File:Poochyena.png|40px]] Poochyena
+|-
+| [[File:Golbat.png|40px]] Golbat || [[File:Team_Aqua_Grunt_(male).png|40px]] Team Aqua Grunt || [[File:Carvanha.png|40px]] Carvanha
+|-
+| [[File:Tentacool.png|40px]] Tentacool || [[File:Team_Aqua_Grunt_(male).png|40px]] Team Aqua Grunt || [[File:Zubat.png|40px]] Zubat
+|-
+| [[File:Magikarp.png|40px]] Magikarp || [[File:Team_Aqua_Grunt_(female).png|40px]] Team Aqua Grunt || [[File:Carvanha.png|40px]] Carvanha
+|-
+| rowspan=2|[[File:Wailmer.png|40px]] Wailmer || [[File:Team_Aqua_Grunt_(male).png|40px]] Team Aqua Grunt || [[File:Mightyena.png|40px]] Mightyena, [[File:Golbat.png|40px]] Golbat
+|-
+| [[File:Aqua_Admin_(shelly).png|40px]] Aqua Admin Shelly || [[File:Sharpedo.png|40px]] Sharpedo,[[File:Mightyena.png|40px]] Mightyena
+|-
+|}
+
+&lt;!--T:5--&gt;
+===Boss Encounters===
+{| class="wikitable"
+|-
+! Wild Pokémon !! Base Health !! Boss Trainer !! Pokémon Team !! Base Health
+|-
+| colspan=2 rowspan=3|&lt;center&gt;N/A || rowspan=2|[[File:Aqua_Leader.png|40px]] Aqua Leader Archie || [[File:Mightyena.png|40px]] Mightyena, [[File:Crobat.png|40px]] Crobat || &lt;center&gt;700,000
+|-
+| [[File:Sharpedo.png|40px]] Sharpedo || &lt;center&gt;900,000
+|}
+
+==Items== &lt;!--T:6--&gt;
+
+&lt;tabs&gt; &lt;!--T:7--&gt;
+&lt;tab name="No Debuff"&gt;
+
+
+&lt;!--T:8--&gt;
+{| class="wikitable"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+|-
+| align="center" colspan=6| '''Common'''
+|-
+| {{Bag2|Dowsing Machine}} || N/A || 37.48% || 36.00% || 30.00%
+|-
+| {{Bag2|Token Collector}} || N/A || 37.48% || 36.00% || 30.00%
+|-
+| align="center" colspan=6| '''Rare'''
+|-
+| {{Bag2|Blue Shard}} || N/A || 20.01% || 20.99% || 24.95%
+|-
+| align="center" colspan=6| '''Epic'''
+|-
+| {{Bag2|Bluk}} || N/A || 4.01% || 5.20% || 10.00%
+|-
+| align="center" colspan=6| '''Legendary'''
+|-
+| {{Bag2|Splash Plate}} || N/A || 0.50% || 0.80% || 1.99%
+|-
+| {{Bag2|Earth Plate}} || N/A || 0.50% || 0.80% || 1.99%
+|-
+| align="center" colspan=6| '''Mythic'''
+|-
+| {{Bag2|Heart Scale}} || N/A || 0.01% || 0.22% || 1.06%
+|}
+&lt;/tab&gt;
+
+&lt;tab name="Debuff"&gt; &lt;!--T:9--&gt;
+
+&lt;!--T:10--&gt;
+After Reaching Kalos, the drop chance for items in Hoenn will be debuffed for any loot with a Tier rarer than Rare (ie: Epic, Legendary, Mythic).
+
+&lt;!--T:11--&gt;
+{| class="wikitable"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+|-
+| align="center" colspan=6| '''Common'''
+|-
+| {{Bag2|Dowsing Machine}} || N/A || 37.50% || 37.50% || 37.50%
+|-
+| {{Bag2|Token Collector}} || N/A || 37.50% || 37.50% || 37.50%
+|-
+| align="center" colspan=6| '''Rare'''
+|-
+| {{Bag2|Blue Shard}} || N/A || 24.00% || 24.00% || 24.00%
+|-
+| align="center" colspan=6| '''Epic'''
+|-
+| {{Bag2|Bluk}} || N/A || 0.90% || 0.90% || 0.90%
+|-
+| align="center" colspan=6| '''Legendary'''
+|-
+| {{Bag2|Splash Plate}} || N/A || 0.05% || 0.05% || 0.05%
+|-
+| {{Bag2|Earth Plate}} || N/A || 0.05% || 0.05% || 0.05%
+|-
+| align="center" colspan=6| '''Mythic'''
+|-
+| {{Bag2|Heart Scale}} || N/A || &lt;0.01% || &lt;0.01% || &lt;0.01%
+|}
+&lt;/tab&gt;
+&lt;/tabs&gt;
+
+&lt;!--T:12--&gt;
+{{Hoenn Dungeons}}
+
+&lt;!--T:13--&gt;
+[[Category:Dungeons|^Region #3 - Hoenn^o]]
+&lt;/translate&gt;</text>
+    <contributor>
+      <username>ThePantMan</username>
+      <id>310</id>
+    </contributor>
+    <comment>/* Tabs */</comment>
+    <model>wikitext</model>
+    <parentid>35209</parentid>
+    <sha1>5c13a6aaeb18a6ab74fe08cfb7a9edabf3f49914</sha1>
+  </revision>
+</page></mediawiki>

@@ -1,0 +1,114 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Type Effectiveness/en</title>
+  <ns>0</ns>
+  <id>11595</id>
+  <revision>
+    <id>41582</id>
+    <timestamp>2022-11-14T14:15:57Z</timestamp>
+    <text space="preserve" bytes="10983">&lt;languages/&gt;
+=Description=
+An attacking Pokémon's damage output against a defending Pokémon is calculated as follows. The attacking Pokémon is treated as having a single type (mono-type). The type that is used is the one that does the most damage against the defending Pokémon, including any Gem modifications to the type-efficacy multiplier. In cases where the defending Pokémon is a mono-type, it will treat it as being a dual-type of said type (for example, a pure Normal Pokémon would be treated as Normal / Normal), so type effectiveness will be twice as effective (or ineffective). The sum of all valid Party Pokémon (non-[[Pokemon Day Care|breeding]]) with modifiers ([[Weather]], [[XAttack]]) is the total Pokémon Attack. Below are some examples to articulate this calculation.
+
+==Examples==
+
+* [[File:Lanturn.png|35px]] Lanturn (attacking) vs [[File:Gyarados.png|35px]] Gyarados (defending) - Lanturn is dual electric-water typed and Gyarados is dual water-flying typed. Lanturn's electric type is 4x effective against Gyarados (2x for both water and electric) so this is the type that is used. Lanturn's attack against Gyarados is increased by a factor of 4 (4x) as per the type multiplier.
+
+* [[File:Venusaur.png|35px]] Venusaur (attacking) vs. [[File:Magcargo.png|35px]] Magcargo (defending) - Venusaur is dual grass-poison typed and Magcargo is dual fire-rock typed. Venusaur's grass type is 1x effective against Magcargo (normal-effective, 2x effective against rock while 0.5x effective against fire) while Venusaur's poison type is 0.5x effective (not very-effective). Thus, Venusaur's grass type is the type that is used. Venusaur's attack against Magcargo is neither increased nor decreased as per the type multiplier of 1 (1x).
+
+* [[File:Venusaur.png|35px]] Venusaur (attacking) with fully boosted not-very effective Poison Gem vs. [[File:Magcargo.png|35px]] Magcargo (defending) - Venusaur is dual grass-poison typed and Magcargo is dual fire-rock typed. Venusaur's grass type is 1x effective against Magcargo (normal-effective, 2x effective against rock while 0.5x effective against fire), while Venusaur's poison type is 1.5x effective (not very-effective) with the Gem multiplier. Thus, Venusaur's poison type is the type that is used. Venusaur's attack against Magcargo is increased by a factor of 1.5 (1.5x) as per the type multiplier.
+
+* [[File:Gengar.png|35px]] Gengar (attacking) vs. [[File:Kangaskhan.png|35px]] Kangaskhan (defending) - Gengar is dual ghost-poison typed and Kangaskhan is mono normal typed. Gengar's ghost type is 0x effective (immune) against Kangaskhan while Gengar's poison type is 1x effective (normal-effective). Thus, Gengar's poison type is the type that is used. Gengar's attack against Kangaskhan is neither increased nor decreased as per the type multiplier of 1 (1x).
+
+* [[File:Kangaskhan.png|35px]] Kangaskhan (attacking) vs. [[File:Gengar.png|35px]] Gengar (defending) - Kangaskhan is mono normal typed and Gengar is dual ghost-poison typed. Kangaskhan's normal type is 0x effective (immune) against Gengar's ghost type. As this is the only type of Kangaskhan, Kangaskhan's normal type is used. Thus, Kangaskhan's attack against Gengar is 0 as per the type multiplier of 0 (0x).
+
+* [[File:Blastoise.png|35px]] Blastoise (attacking) vs. [[File:Ninetales.png|35px]] Ninetales (defending) - Blastoise is mono water typed and Ninetales is fire type but the game considers it as a dual fire-fire typed. Blastoise's water type is 2x effective against fire and, since the game considers Ninetales a dual-type, it will double the 2x value making Blastoise's attack deal 4x (2x to each Fire type) instead of 2x. If very effective Water Gems has been fully boosted where the multiplier becomes 3x then Blastoise's attack will deal 9x (3x to each Fire type) instead.
+
+=Type Effectiveness Explanation=
+==Type Effectiveness Modifiers==
+*Very = "Super Effective" - (2x)
+*Neutral = "Effective" - (1x)
+*Not-Very = "Not-Very Effective" - (0.5x)
+*Immune = "Not Effective" - (0x)
+
+==Type Effectiveness Chart==
+Below is a table showing the effectiveness of each Pokémon type. It can be used to prioritize [[Gems]] upgrades.
+
+{| class="wikitable" style="text-align: center;"
+! Attacker ↴ Defender → !! Normal [[File:Normal_Type_icon.png|15px]] !! Fire [[File:Fire_Type_icon.png|15px]] !! Water [[File:Water_Type_icon.png|15px]] !! Electric [[File:Electric_Type_icon.png|15px]] !! Grass [[File:Grass_Type_icon.png|15px]] !! Ice [[File:Ice_Type_icon.png|15px]] !! Fighting [[File:Fighting_Type_icon.png|15px]] !! Poison [[File:Poison_Type_icon.png|15px]] !! Ground [[File:Ground_Type_icon.png|15px]] !! Flying [[File:Flying_Type_icon.png|15px]] !! Psychic [[File:Psychic_Type_icon.png|15px]] !! Bug [[File:Bug_Type_icon.png|15px]] !! Rock [[File:Rock_Type_icon.png|15px]] !! Ghost [[File:Ghost_Type_icon.png|15px]] !! Dragon [[File:Dragon_Type_icon.png|15px]] !! Dark [[File:Dark_Type_icon.png|15px]] !! Steel [[File:Steel_Type_icon.png|15px]] !! Fairy [[File:Fairy_Type_icon.png|15px]]
+|-
+| '''Normal''' [[File:Normal_Type_icon.png|15px]] ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || &lt;span style="color:Blue"&gt;x½ || x0 ||  ||  || &lt;span style="color:Blue"&gt;x½ || 
+|-
+| '''Fire''' [[File:Fire_Type_icon.png|15px]] ||  || &lt;span style="color:Blue"&gt;x½ || &lt;span style="color:Blue"&gt;x½ ||  || &lt;span style="color:Red"&gt;x2 || &lt;span style="color:Red"&gt;x2 ||  ||  ||  ||  ||  || &lt;span style="color:Red"&gt;x2 || &lt;span style="color:Blue"&gt;x½ ||  || &lt;span style="color:Blue"&gt;x½ ||  || &lt;span style="color:Red"&gt;x2 || 
+|-
+| '''Water''' [[File:Water_Type_icon.png|15px]] ||  || &lt;span style="color:Red"&gt;x2 || &lt;span style="color:Blue"&gt;x½ ||  || &lt;span style="color:Blue"&gt;x½ ||  ||  ||  || &lt;span style="color:Red"&gt;x2 ||  ||  ||  || &lt;span style="color:Red"&gt;x2 ||  || &lt;span style="color:Blue"&gt;x½ ||  ||  || 
+|-
+| '''Electric''' [[File:Electric_Type_icon.png|15px]] ||  ||  || &lt;span style="color:Red"&gt;x2 || &lt;span style="color:Blue"&gt;x½ || &lt;span style="color:Blue"&gt;x½ ||  ||  ||  || x0 || &lt;span style="color:Red"&gt;x2 ||  ||  ||  ||  || &lt;span style="color:Blue"&gt;x½ ||  ||  || 
+|-
+| '''Grass''' [[File:Grass_Type_icon.png|15px]] ||  || &lt;span style="color:Blue"&gt;x½ || &lt;span style="color:Red"&gt;x2 ||  || &lt;span style="color:Blue"&gt;x½ ||  ||  || &lt;span style="color:Blue"&gt;x½ || &lt;span style="color:Red"&gt;x2 || &lt;span style="color:Blue"&gt;x½ ||  || &lt;span style="color:Blue"&gt;x½ || &lt;span style="color:Red"&gt;x2 ||  || &lt;span style="color:Blue"&gt;x½ ||  || &lt;span style="color:Blue"&gt;x½ || 
+|-
+| '''Ice''' [[File:Ice_Type_icon.png|15px]] ||  || &lt;span style="color:Blue"&gt;x½ || &lt;span style="color:Blue"&gt;x½ ||  || &lt;span style="color:Red"&gt;x2 || &lt;span style="color:Blue"&gt;x½ ||  ||  || &lt;span style="color:Red"&gt;x2 || &lt;span style="color:Red"&gt;x2 ||  ||  ||  ||  || &lt;span style="color:Red"&gt;x2 ||  || &lt;span style="color:Blue"&gt;x½ || 
+|-
+| '''Fighting''' [[File:Fighting_Type_icon.png|15px]] || &lt;span style="color:Red"&gt;x2 ||  ||  ||  ||  || &lt;span style="color:Red"&gt;x2 ||  || &lt;span style="color:Blue"&gt;x½ ||  || &lt;span style="color:Blue"&gt;x½ || &lt;span style="color:Blue"&gt;x½ || &lt;span style="color:Blue"&gt;x½ || &lt;span style="color:Red"&gt;x2 || x0 ||  || &lt;span style="color:Red"&gt;x2 || &lt;span style="color:Red"&gt;x2 || &lt;span style="color:Blue"&gt;x½
+|-
+| '''Poison''' [[File:Poison_Type_icon.png|15px]] ||  ||  ||  ||  || &lt;span style="color:Red"&gt;x2 ||  ||  || &lt;span style="color:Blue"&gt;x½ || &lt;span style="color:Blue"&gt;x½ ||  ||  ||  || &lt;span style="color:Blue"&gt;x½ || &lt;span style="color:Blue"&gt;x½ ||  ||  || x0 || &lt;span style="color:Red"&gt;x2
+|-
+| '''Ground''' [[File:Ground_Type_icon.png|15px]] ||  || &lt;span style="color:Red"&gt;x2 ||  || &lt;span style="color:Red"&gt;x2 || &lt;span style="color:Blue"&gt;x½ ||  ||  || &lt;span style="color:Red"&gt;x2 ||  || x0 ||  || &lt;span style="color:Blue"&gt;x½ || &lt;span style="color:Red"&gt;x2 ||  ||  ||  || &lt;span style="color:Red"&gt;x2 || 
+|-
+| '''Flying''' [[File:Flying_Type_icon.png|15px]] ||  ||  ||  || &lt;span style="color:Blue"&gt;x½ || &lt;span style="color:Red"&gt;x2 ||  || &lt;span style="color:Red"&gt;x2 ||  ||  ||  ||  || &lt;span style="color:Red"&gt;x2 || &lt;span style="color:Blue"&gt;x½ ||  ||  ||  || &lt;span style="color:Blue"&gt;x½ || 
+|-
+| '''Psychic''' [[File:Psychic_Type_icon.png|15px]] ||  ||  ||  ||  ||  ||  || &lt;span style="color:Red"&gt;x2 || &lt;span style="color:Red"&gt;x2 ||  ||  || &lt;span style="color:Blue"&gt;x½ ||  ||  ||  ||  || x0 || &lt;span style="color:Blue"&gt;x½ || 
+|-
+| '''Bug''' [[File:Bug_Type_icon.png|15px]] ||  || &lt;span style="color:Blue"&gt;x½ ||  ||  || &lt;span style="color:Red"&gt;x2 ||  || &lt;span style="color:Blue"&gt;x½ || &lt;span style="color:Blue"&gt;x½ ||  || &lt;span style="color:Blue"&gt;x½ || &lt;span style="color:Red"&gt;x2 ||  ||  || &lt;span style="color:Blue"&gt;x½ ||  || &lt;span style="color:Red"&gt;x2 || &lt;span style="color:Blue"&gt;x½ || &lt;span style="color:Blue"&gt;x½
+|-
+| '''Rock''' [[File:Rock_Type_icon.png|15px]] ||  || &lt;span style="color:Red"&gt;x2 ||  ||  ||  || &lt;span style="color:Red"&gt;x2 || &lt;span style="color:Blue"&gt;x½ ||  || &lt;span style="color:Blue"&gt;x½ || &lt;span style="color:Red"&gt;x2 ||  || &lt;span style="color:Red"&gt;x2 ||  ||  ||  ||  || &lt;span style="color:Blue"&gt;x½ || 
+|-
+| '''Ghost''' [[File:Ghost_Type_icon.png|15px]] || x0 ||  ||  ||  ||  ||  ||  ||  ||  ||  || &lt;span style="color:Red"&gt;x2 ||  ||  || &lt;span style="color:Red"&gt;x2 ||  || &lt;span style="color:Blue"&gt;x½ ||  || 
+|-
+| '''Dragon''' [[File:Dragon_Type_icon.png|15px]] ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || &lt;span style="color:Red"&gt;x2 ||  || &lt;span style="color:Blue"&gt;x½ || x0
+|-
+| '''Dark''' [[File:Dark_Type_icon.png|15px]] ||  ||  ||  ||  ||  ||  || &lt;span style="color:Blue"&gt;x½ ||  ||  ||  || &lt;span style="color:Red"&gt;x2 ||  ||  || &lt;span style="color:Red"&gt;x2 ||  || &lt;span style="color:Blue"&gt;x½ ||  || &lt;span style="color:Blue"&gt;x½
+|-
+| '''Steel''' [[File:Steel_Type_icon.png|15px]] ||  || &lt;span style="color:Blue"&gt;x½ || &lt;span style="color:Blue"&gt;x½ || &lt;span style="color:Blue"&gt;x½ ||  || &lt;span style="color:Red"&gt;x2 ||  ||  ||  ||  ||  ||  || &lt;span style="color:Red"&gt;x2 ||  ||  ||  || &lt;span style="color:Blue"&gt;x½ || &lt;span style="color:Red"&gt;x2
+|-
+| '''Fairy''' [[File:Fairy_Type_icon.png|15px]] ||  || &lt;span style="color:Blue"&gt;x½ ||  ||  ||  ||  || &lt;span style="color:Red"&gt;x2 || &lt;span style="color:Blue"&gt;x½ ||  ||  ||  ||  ||  ||  || &lt;span style="color:Red"&gt;x2 || &lt;span style="color:Red"&gt;x2 || &lt;span style="color:Blue"&gt;x½ || 
+|}
+
+=Practicality=
+
+''See [[Gems]] for a list of optimal farming routes for each type of Gem.''
+
+A breakdown of how much damage each type contributes to total damage, absent any gem boosts, can be seen by using the Damage Calculator screen in the Start Menu. Types that do the most damage generally should be upgraded with gems first.
+
+=Trivia=
+
+As of PokéClicker version 0.5.8 the following categories were removed from the [[Gem Case]] because they have no effect (they do not increase damage) when invested into.
+
+&lt;b&gt;Very Effective (last row)&lt;/b&gt;
+
+*Normal
+
+&lt;b&gt;Immune (first row)&lt;/b&gt;
+
+*Fire
+*Water
+*Grass
+*Ice
+*Flying
+*Bug
+*Rock
+*Dark
+*Steel
+*Fairy
+
+[[Category:Gems]]</text>
+    <contributor>
+      <username>FuzzyBot</username>
+      <id>587</id>
+    </contributor>
+    <comment>Updating to match new version of source page</comment>
+    <model>wikitext</model>
+    <parentid>29074</parentid>
+    <sha1>2993aa8e16782e9fe1d730df9eb2255bb9bc0006</sha1>
+  </revision>
+</page></mediawiki>

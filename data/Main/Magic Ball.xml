@@ -1,0 +1,58 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Magic Ball</title>
+  <ns>0</ns>
+  <id>120</id>
+  <revision>
+    <id>14619</id>
+    <timestamp>2022-07-22T16:17:24Z</timestamp>
+    <text space="preserve" bytes="1274">&lt;languages/&gt;
+&lt;translate&gt;
+&lt;!--T:1--&gt;
+{{Infobox Oak Item
+|name       = Magic Ball
+|image      = [[File:Bag_Magic_Ball_Sprite.png]]
+|caption    = Artwork of the ''Magic Ball''.
+|dex = 20
+|effect     = Gives a bonus to your catch rate
+}}
+
+&lt;!--T:2--&gt;
+The '''Magic Ball''' is a type of [[Oak Items|Oak Item]]. When equipped, it gives a bonus to the player's catch rate.
+
+==Details== &lt;!--T:3--&gt;
+
+&lt;!--T:4--&gt;
+{| class="wikitable sortable"
+|-
+! Level !! Effect !! Upgrade Requirement !! Upgrade Cost
+|-
+|0 || +5% to catchrate || 250 captured Pokémon || style="text-align:right" | 50,000 {{pdollar}}
+|-
+|1 || +6% to catchrate || 250 captured Pokémon || style="text-align:right" | 100,000 {{pdollar}}
+|-
+|2 || +7% to catchrate || 750 captured Pokémon || style="text-align:right" | 250,000 {{pdollar}}
+|-
+|3 || +8% to catchrate || 1250 captured Pokémon || style="text-align:right" | 500,000 {{pdollar}}
+|-
+|4 || +9% to catchrate || 2500 Captured Pokémon || style="text-align:right" | 1,000,000 {{pdollar}}
+|-
+|5/Max || +10% to catchrate || N/A || style="text-align:right" | N/A
+|-
+|}
+
+== Trivia == &lt;!--T:5--&gt;
+* The artwork of the Magic Ball shares its design with the Premier Ball from the official games.
+&lt;br&gt;{{Oak items}}&lt;br&gt;
+[[Category:Oak Items]] [[Category:Items]]
+&lt;/translate&gt;</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>59</id>
+    </contributor>
+    <comment>Marked this version for translation</comment>
+    <model>wikitext</model>
+    <parentid>14508</parentid>
+    <sha1>5eb7ada833ddfc642b8834fba587554d3eb19cf0</sha1>
+  </revision>
+</page></mediawiki>

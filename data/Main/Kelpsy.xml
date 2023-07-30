@@ -1,0 +1,136 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Kelpsy</title>
+  <ns>0</ns>
+  <id>581</id>
+  <revision>
+    <id>17960</id>
+    <timestamp>2022-07-29T07:59:03Z</timestamp>
+    <text space="preserve" bytes="4183">&lt;languages/&gt;
+&lt;translate&gt;
+&lt;!--T:1--&gt;
+{{Infobox Berry
+|name    = #22 Kelpsy
+|image   = [[File:Kelpsy.png]]
+|caption = This Berry can be eaten as is or boiled to obtain an extract that adds a dash of flavor to food.
+|growtime  = 1h 40m 0s
+|harvest = 21 berries
+|replant = 20%
+|mutation = 0.05%
+|points = 525
+||flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 spicy 
+*10 dry
+*0 sweet
+*10 bitter
+*10 sour
+}}
+
+&lt;!--T:2--&gt;
+'''Kelpsy''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by surrounding an empty plot with at least 1 [[Chesto]] and at least 1 [[Persim]].
+
+== Growth Tables == &lt;!--T:3--&gt;
+=== Growth Stages ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 4 mins || 33 mins 20 secs || 56 mins 40 secs || 1 hour 40 mins - 3 hours 20 mins 
+|-
+! Animation
+| &lt;center&gt;[[File:AllTreeSprout.png|50px]] || &lt;center&gt;[[File:KelpsyTreeTaller.png|50px]] || &lt;center&gt;[[File:KelpsyTreeBloom.png|50px]] || &lt;center&gt;[[File:KelpsyTreeBerry.png|50px]]
+|}
+
+=== Ripening Time with Modifiers  === &lt;!--T:4--&gt;
+{| class="wikitable collapsible" | style="text-align: center;"
+! Modifier !! Ripe-Wither Time !! Boost Mulch Needed to Ripen
+|-
+! None
+| 1 hour 40 mins -&lt;br&gt; 3 hours 20 mins || ---
+|-
+! Mulch or Sprayduck
+| 1 hour 6 mins 40 secs -&lt;br&gt; 2 hours 13 mins 20 secs || 14 mulch
+|-
+! Mulch &amp; Sprayduck
+| 44 mins 27 secs -&lt;br&gt; 1 hour 28 mins 54 secs || 9 mulch
+|}
+
+== Flow Chart == &lt;!--T:5--&gt;
+[[File:Kelpsy_Flow_Chart.png|250px]]
+&lt;br&gt;
+
+== Mutation Strategy == &lt;!--T:6--&gt;
+=== Possible Planting Formations ===
+
+&lt;!--T:7--&gt;
+You can fill your farm in the following way to obtain Kelpsy berries. Purple squares indicate where mutations can occur.
+
+&lt;!--T:8--&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Base Formation
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Chesto.png|30px]] [[Chesto]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Persim.png|30px]] [[Persim]]
+|}
+
+&lt;!--T:9--&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Optimized Planting Formation
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Chesto.png|30px]] [[Chesto]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; " | [[File:Chesto.png|30px]] [[Chesto]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Persim.png|30px]] [[Persim]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Persim.png|30px]] [[Persim]] 
+|- style="height: 50px;"
+| style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | 
+|-
+| [[File:Chesto.png|30px]] [[Chesto]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Chesto.png|30px]] [[Chesto]] || style="background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Persim.png|30px]] [[Persim]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Persim.png|30px]] [[Persim]] 
+|}
+
+=== Timing Table === &lt;!--T:10--&gt;
+{| class="collapsible wikitable"| style="text-align: center;"
+|+ ''All planting times use the time-to-ripe remaining of the first planted berry for subsequent planting times''
+! Berry !! Planting Time with &lt;br&gt; No Modifier !! Planting Time with &lt;br&gt; Mulch or Sprayduck || Planting Time with &lt;br&gt;  Mulch &amp; Sprayduck
+|-
+| [[Persim]] || - || - || -
+|-
+| [[Chesto]] || 40 secs until ripe || 26 secs until ripe || Not Practical
+|-
+|}
+
+==Uses== &lt;!--T:11--&gt;
+===Mutations===
+
+&lt;!--T:12--&gt;
+Kelpsy berries can be used to mutate the following berries.
+
+&lt;!--T:13--&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Passho.png|20px]] [[Passho]] || [[File:Chesto.png|20px]] [[Chesto]] &lt;br&gt; [[File:Oran.png|20px]] [[Oran]] &lt;br&gt; [[File:Coba.png|20px]] [[Coba]]
+|-
+|}
+
+&lt;!--T:14--&gt;
+&lt;br&gt;
+
+&lt;!--T:15--&gt;
+{{Berries}}
+
+&lt;!--T:16--&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/translate&gt;</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>59</id>
+    </contributor>
+    <comment>Marked this version for translation</comment>
+    <model>wikitext</model>
+    <parentid>17571</parentid>
+    <sha1>377fe8bfc5457a221cbd75a570773679b8ebf6cd</sha1>
+  </revision>
+</page></mediawiki>

@@ -1,0 +1,148 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Shoal Cave</title>
+  <ns>0</ns>
+  <id>405</id>
+  <revision>
+    <id>41256</id>
+    <timestamp>2022-11-09T04:57:37Z</timestamp>
+    <text space="preserve" bytes="3157">&lt;languages/&gt;
+&lt;translate&gt;
+&lt;!--T:1--&gt;
+{{Infobox dungeon
+|name    = Shoal Cave
+|image   = [[File:Shoal Cave.png|300px]]
+|caption = A map of Shoal Cave.
+|tokens  = 30,000
+|location = On Route 125, north of Mossdeep City.
+}}
+'''Shoal Cave''' is a [[Dungeons|dungeon]] in [[Hoenn]]. It initially has 49 tiles arranged in a 7x7 square, including 7 chest tiles, 17 non-boss encounter tiles, and 1 boss encounter tile. Wild Encounters have 490,000 HP.
+
+== Encounter Tables == &lt;!--T:2--&gt;
+
+===Wild Encounters=== &lt;!--T:3--&gt;
+
+&lt;!--T:4--&gt;
+{| class="wikitable"
+|-
+! Wild Pokémon !! colspan=2|Trainers
+|-
+! Encounter !! Trainer !! Pokémon Team
+|-
+| [[File:Zubat.png|40px]] Zubat || colspan=2 rowspan=6|&lt;center&gt;N/A
+|-
+| [[File:Golbat.png|40px]] Golbat
+|-
+| [[File:Spheal.png|40px]] Spheal
+|-
+| [[File:Tentacool.png|40px]] Tentacool
+|-
+| [[File:Magikarp.png|40px]] Magikarp
+|-
+| [[File:Wailmer.png|40px]] Wailmer
+|-
+|}
+
+&lt;!--T:5--&gt;
+===Boss Encounters===
+{| class="wikitable"
+|-
+! Wild Pokémon !! Base Health !! Boss Trainer !! Pokémon Team !! Base Health
+|-
+| [[File:Snorunt.png|40px]] Snorunt || &lt;center&gt;1,900,000 || colspan=3|&lt;center&gt; N/A
+|-
+|}
+
+==Items== &lt;!--T:6--&gt;
+
+&lt;tabs&gt; &lt;!--T:7--&gt;
+&lt;tab name="No Debuff"&gt;
+
+&lt;!--T:8--&gt;
+{| class="wikitable"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+|-
+| align="center" colspan=6| '''Common'''
+|-
+| {{Bag2|xClick}} || 2 || 52.07% || 50.63% || 44.44%
+|-
+| {{Bag2|Lucky Incense}} || N/A || 26.03% || 25.32% || 22.22%
+|-
+| align="center" colspan=6| '''Rare'''
+|-
+| {{Bag2|Ochre Shard}} || N/A || 20.85% || 22.14% || 27.72%
+|-
+| align="center" colspan=6| '''Legendary'''
+|-
+| {{Bag2|Icicle Plate}} || 2 || 0.52% || 0.84% || 2.22%
+|-
+| {{Bag2|Star Piece}} || N/A || 0.26% || 0.42% || 1.11%
+|-
+| {{Bag2|Revive}} || N/A || 0.26% || 0.42% || 1.11%
+|-
+| align="center" colspan=6| '''Mythic'''
+|-
+| {{Bag2|Max Revive}} || N/A || &lt;0.01% || 0.08% || 0.39%
+|-
+| {{Bag2|Heart Scale}} || N/A || &lt;0.01% || 0.08% || 0.39%
+|-
+| {{Bag2|Never Melt Ice}} || N/A || &lt;0.01% || 0.08% || 0.39%
+|}
+&lt;/tab&gt;
+
+&lt;tab name="Debuff"&gt; &lt;!--T:9--&gt;
+
+&lt;!--T:10--&gt;
+After Reaching Kalos, the drop chance for items in Hoenn will be debuffed for any loot with a Tier rarer than Rare (ie: Epic, Legendary, Mythic).
+
+&lt;!--T:11--&gt;
+{| class="wikitable"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+|-
+| align="center" colspan=6| '''Common'''
+|-
+| {{Bag2|xClick}} || 2 || 50.45% || 50.45% || 50.45%
+|-
+| {{Bag2|Lucky Incense}} || N/A || 25.23% || 25.23% || 25.23%
+|-
+| align="center" colspan=6| '''Rare'''
+|-
+| {{Bag2|Ochre Shard}} || N/A || 24.22% || 24.22% || 24.22%
+|-
+| align="center" colspan=6| '''Legendary'''
+|-
+| {{Bag2|Icicle Plate}} || 2 || 0.05% || 0.05% || 0.05%
+|-
+| {{Bag2|Star Piece}} || N/A || 0.03% || 0.03% || 0.03%
+|-
+| {{Bag2|Revive}} || N/A || 0.03% || 0.03% || 0.03%
+|-
+| align="center" colspan=6| '''Mythic'''
+|-
+| {{Bag2|Max Revive}} || N/A || &lt;0.01% || &lt;0.01% || &lt;0.01%
+|-
+| {{Bag2|Heart Scale}} || N/A || &lt;0.01% || &lt;0.01% || &lt;0.01%
+|-
+| {{Bag2|Never Melt Ice}} || N/A || &lt;0.01% || &lt;0.01% || &lt;0.01%
+|}
+&lt;/tab&gt;
+&lt;/tabs&gt;
+
+&lt;!--T:12--&gt;
+{{Hoenn Dungeons}}
+
+&lt;!--T:13--&gt;
+[[Category:Dungeons|^Region #3 - Hoenn^m]]
+&lt;/translate&gt;</text>
+    <contributor>
+      <username>ThePantMan</username>
+      <id>310</id>
+    </contributor>
+    <comment>/* Tabs */</comment>
+    <model>wikitext</model>
+    <parentid>40515</parentid>
+    <sha1>df39778c3ee1c49a1ad952bab93f54cffab45021</sha1>
+  </revision>
+</page></mediawiki>
