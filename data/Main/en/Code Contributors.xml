@@ -1,0 +1,66 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Code Contributors/en</title>
+  <ns>0</ns>
+  <id>9981</id>
+  <revision>
+    <id>26567</id>
+    <timestamp>2022-08-25T05:27:21Z</timestamp>
+    <text space="preserve" bytes="2973">&lt;languages/&gt;
+So, you want to contribute code yourself like the fine folks on the list on the Main Page?&lt;br&gt;
+Please enjoy our unreasonably detailed and long guide on how to do exactly that!&lt;br&gt;
+Brought to you courtesy of (the amazing, wonderful, talented) [[User:Liczale|Liczale]] who struggled to do this for almost 2 and a half hours!
+
+# Install [https://nodejs.org/ NodeJS]
+# Install [https://desktop.github.com/ Github for Desktop]
+# Go to the [https://github.com/pokeclicker/pokeclicker/ PokeClicker GitHub Website]
+# Click the Green button that says "Code"
+# Copy the HTTPS brought up by the Code Button, by clicking the Clipboard Icon
+# Open the GitHub for Desktop app
+# Click "Clone a Repository from the Internet"
+# Go to the "URL" tab and paste the HTTPS from the Code Button
+# Add the Repository and wait for it to download
+# Open the Repository Tab on the top of the screen in the Github for Desktop App
+# Click "Open in Command Prompt"
+#* On a Mac, this option will be called "Open in Terminal." Follow any instructions given in Terminal, then skip to step 15.
+# Click "Open Without Git"
+# Click "Open in CMD"
+# Go to the opened instance of CMD
+# Type `npm clean-install` and press Enter
+# Once the Install is done type `npm start` and press Enter
+# After doing that your internet browser should launch a local instance of PokéClicker
+# Open File Explorer and navigate to the newly cloned directory
+#* Alternatively you can go to repository in the GitHub menu and click on "Show in Explorer"
+# Find and open any *.ts file you wish to edit
+# If prompted, open with Notepad
+# Make any changes you wish
+#* To edit HTML files on a Mac, you may need to go into TextEdit preferences and make sure "Display HTML files as HTML code" is checked under the Open and Save tab
+# Once you finish your changes hit Save
+# Now go back to the CMD and type `npm run eslint-fix`
+#* This should fix any issues with it, or it will point them out for you to fix.
+#* If you're using Chrome, you can also check for errors by inspecting (right click -&gt; Inspect) the local instance of Pokéclicker you launched earlier and looking at the Console tab
+# Go back to the GitHub Desktop app
+# In the bottom left put a summary of the changes in the box and hit the bottom left blue button
+#* Github will recognize files marked for change
+# Now you should be on the Main page, if so click the blue button that says "Push Origin"
+# Fork the Repository when it asks you to
+# Click "Contribute to Parent Project"
+# Lastly click the button that says "View on GitHub"
+# In your internet browser click "Pull Requests"
+# Click the green "New Pull Request" Button
+# Click "compare changes" 
+# Click "compare across forks"
+# Press "Head Repository" select the option representing your fork
+# Now hit the "Create Pull Request" button
+
+Congratulations! You just finished your edits and published them for review! Please reach out to any of the authors found here https://github.com/orgs/pokeclicker/people</text>
+    <contributor>
+      <username>FuzzyBot</username>
+      <id>587</id>
+    </contributor>
+    <comment>Updating to match new version of source page</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>d0af1ae65fb1a0fc2c8860ca599a01e47cfbaee9</sha1>
+  </revision>
+</page></mediawiki>

@@ -1,0 +1,115 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Pokémon Village</title>
+  <ns>0</ns>
+  <id>2941</id>
+  <revision>
+    <id>41313</id>
+    <timestamp>2022-11-09T05:58:07Z</timestamp>
+    <text space="preserve" bytes="2425">&lt;languages/&gt;
+&lt;translate&gt;
+&lt;!--T:1--&gt;
+{{Infobox dungeon
+|name    = Pokémon Village
+|image   = [[File:Pokémon Village.png|250px]]
+|caption = A map of Pokémon Village.
+|tokens  = 725,000
+|location = West of Route 20.
+}}
+'''Pokémon Village''' is a [[Dungeons|dungeon]] in [[Kalos]]. It initially has 100 tiles arranged in a 10x10 square, including 10 chest tiles, 23 non-boss encounter tiles, and 1 boss encounter tile. Wild Encounters have 9,003,000 HP.
+
+==Encounter  Tables== &lt;!--T:2--&gt;
+
+===Wild Encounters=== &lt;!--T:3--&gt;
+
+&lt;!--T:4--&gt;
+{| class="wikitable"
+|-
+! Wild Pokémon !! colspan=2|Trainers
+|-
+! Encounter !! Trainer !! Pokémon Team
+|-
+| [[File:Jigglypuff.png|40px]] Jigglypuff || rowspan=6 colspan=2|&lt;center&gt; N/A 
+|-
+| [[File:Poliwhirl.png|40px]] Poliwhirl
+|-
+| [[File:Noctowl.png|40px]] Noctowl
+|-
+| [[File:Lombre.png|40px]] Lombre
+|-
+| [[File:Gothorita.png|40px]] Gothorita
+|-
+| [[File:Amoonguss.png|40px]] Amoonguss
+|}
+
+
+===Boss Encounters=== &lt;!--T:5--&gt;
+
+&lt;!--T:6--&gt;
+{| class="wikitable"
+|-
+! Wild Pokémon !! Base Health !! Boss Trainer !! Pokémon Team !! Base Health
+|-
+| [[File:Ditto.png|40px]] Ditto || &lt;center&gt; 94,836,530 || rowspan=2 colspan=3|&lt;center&gt; N/A 
+|-
+| [[File:Zoroark.png|40px]] Zoroark || &lt;center&gt; 95,743,340
+|}
+
+==Items== &lt;!--T:7--&gt;
+
+&lt;!--T:8--&gt;
+{| class="wikitable"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+|-
+| align="center" colspan=6| '''Common'''
+|-
+| {{Bag2|Token Collector}} || N/A || 10.71% || 10.31% || 8.66%
+|-
+| {{Bag2|Rawst}} || N/A || 10.71% || 10.31% || 8.66%
+|-
+| {{Bag2|Chesto}} || N/A || 10.71% || 10.31% || 8.66%
+|-
+| {{Bag2|Aguav}} || N/A || 10.71% || 10.31% || 8.66%
+|-
+| {{Bag2|Wiki}} || N/A || 10.71% || 10.31% || 8.66%
+|-
+| {{Pokemon|Garbodor|mimic}} || N/A || 10.71% || 10.31% || 8.66%
+|-
+| {{Pokemon|Banette|mimic}} || N/A || 10.71% || 10.31% || 8.66%
+|-
+| align="center" colspan=6| '''Rare'''
+|-
+| {{Bag2|Green Shard}} || N/A || 10.01% || 10.52% || 12.61%
+|-
+| {{Bag2|Pink Shard}} || N/A || 10.01% || 10.52% || 12.61%
+|-
+| align="center" colspan=6| '''Epic'''
+|-
+| {{Bag2|Pixie Plate}} || N/A || 2.01% || 2.61% || 5.05%
+|-
+| {{Bag2|Repeatball}} || N/A || 2.01% || 2.61% || 5.05%
+|-
+| align="center" colspan=6| '''Legendary'''
+|-
+| {{Bag2|Large Restore}} || N/A || 0.50% || 0.80% || 2.02%
+|-
+| {{Bag2|Pink Bow}} || N/A || 0.50% || 0.80% || 2.02%
+|}
+
+&lt;!--T:9--&gt;
+{{Kalos Dungeons}}
+
+&lt;!--T:10--&gt;
+[[Category:Dungeons|^Region #6 - Kalos^m]]
+&lt;/translate&gt;</text>
+    <contributor>
+      <username>ThePantMan</username>
+      <id>310</id>
+    </contributor>
+    <comment>/* mimic */</comment>
+    <model>wikitext</model>
+    <parentid>40520</parentid>
+    <sha1>7f63b06c19912014ace7519ff9ac8331b63ca92c</sha1>
+  </revision>
+</page></mediawiki>

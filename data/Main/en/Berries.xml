@@ -1,0 +1,264 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Berries/en</title>
+  <ns>0</ns>
+  <id>5203</id>
+  <revision>
+    <id>39169</id>
+    <timestamp>2022-10-11T20:31:15Z</timestamp>
+    <text space="preserve" bytes="23772">&lt;languages/&gt;
+'''Berries''' can be grown in the [[Farm]] to earn [[Farming Points|Farm Points]]. You can trade certain berries for [[Masterball|Masterballs]], [[Protein]], and other [[Evolution Items]] at [[Berry Master]] shops. The [[Sprayduck]], [[Squirtbottle]], and [[Sprinklotad]] are all Oak Items that speed up or otherwise improve the process of growing berries.
+
+Some Berries require mutation or planting Berries according to specific conditions to be unlocked. The [[Berry Master]] NPC found at Cerulean City in [[Kanto]] provides hints on how to trigger mutations. Any Berry can Mutate when all of the needed Berries are at the Taller Stage. Certain mutations depend on flavor profiles, specific types of berries, or other factors, some of which are outside of the Farm.
+
+Farms with at least one ripe Berry can attract [[Wandering Pokémon]] that are automatically caught without the use of a Pokéball. Some Berries can attract rare Pokémon and can thus be used strategically to complete the Pokédex. Wandering Pokémon can also be [[Shiny Chance|shiny]], attracting a shiny Wandering Pokémon when the Farm has at least one empty plot is the condition for a [[Starf|Starf Berry]] to spawn on the Farm (in one of the empty plots).
+
+[https://docs.google.com/document/d/1TE5cAKSlA7TAliA001_mIiO1odZ6e4yUEMre0GBW1to/edit?usp=sharing Here is a Walkthrough] for unlocking all of the Farm Slots in order.
+
+=Growth Charts=
+
+Berries can start mutating once they are in the Berry stage (fully Ripe) until they die. For mutations involving flavor requirements, the mutation can happen at any time after the requirements are met (berries have 0.5x flavor in the "grown" stage, 0.75x flavor in the "bloom" stage, and 1x flavor in the "berry" stage). If the conditions for multiple mutations are met simultaneously, the mutation triggered will be random as well.
+
+====Gen 1 Berries====
+
+{|class="wikitable sortable"
+|-
+! Dex # !! Berry !! Harvest&lt;br&gt;Amount !! Farm&lt;br&gt;Points !! Growth times !! How to obtain
+|-
+| #1 [[File:Cheri.png|25px]] || [[Cheri]] ||  style="text-align:right" | 2 || style="text-align:right" | 5 {{farmpoints}}|| 30 s to ripe&lt;br&gt;30 s to death || rowspan="8" | Randomly dropped by defeated Pokémon on routes
+|-
+| #2 [[File:Chesto.png|25px]] || [[Chesto]] ||  style="text-align:right" | 3 || style="text-align:right" | 6 {{farmpoints}}|| 40 s to ripe&lt;br&gt;40 s to death
+|-
+| #3 [[File:Pecha.png|25px]] || [[Pecha]] ||  style="text-align:right" | 4 || style="text-align:right" | 7 {{farmpoints}}|| 1 min to ripe&lt;br&gt;1 min to death
+|-
+| #4 [[File:Rawst.png|25px]] || [[Rawst]] ||  style="text-align:right" | 5 || style="text-align:right" | 8 {{farmpoints}}|| 1 min 20 s to ripe&lt;br&gt;1 min 20 s to death
+|-
+| #5 [[File:Aspear.png|25px]] || [[Aspear]] ||  style="text-align:right" | 6 || style="text-align:right" | 9 {{farmpoints}}|| 2 min to ripe&lt;br&gt;2 min to death
+|-
+| #6 [[File:Leppa.png|25px]] || [[Leppa]] ||  style="text-align:right" | 7 || style="text-align:right" | 10 {{farmpoints}}|| 4 min to ripe&lt;br&gt;4 min to death
+|-
+| #7 [[File:Oran.png|25px]] || [[Oran]] ||  style="text-align:right" | 8 || style="text-align:right" | 20 {{farmpoints}}|| 5 min to ripe&lt;br&gt;5 min to death
+|-
+| #8 [[File:Sitrus.png|25px]] || [[Sitrus]] ||  style="text-align:right" | 9 || style="text-align:right" | 30 {{farmpoints}}|| 10 min to ripe&lt;br&gt;10 min to death
+|-
+|}
+
+====Gen 2 Berries====
+
+{|class="wikitable sortable"
+|-
+! Dex # !! Berry  !! Harvest&lt;br&gt;Amount !! Farm&lt;br&gt;Points !! Growth times !! How to obtain !! Special Abilities
+|-
+| #9 [[File:Persim.png|25px]] || [[Persim]] ||  style="text-align:right" | 5  || style="text-align:right" | 10 {{farmpoints}}|| 1 min 30 s to ripe&lt;br&gt;1 min 30 s to death || Grow Pecha and Oran Berries near an empty plot || N/A
+|-
+| #10 [[File:Razz.png|25px]] || [[Razz]] ||  style="text-align:right" | 7  || style="text-align:right" | 15 {{farmpoints}}|| 4 min 10 s to ripe&lt;br&gt;4 min 10 s to death || Grow Cheri and Leppa Berries near an empty plot || N/A
+|-
+| #11 [[File:Bluk.png|25px]] || [[Bluk]] ||  style="text-align:right" | 9  || style="text-align:right" | 20 {{farmpoints}}|| 5 min 30 s to ripe&lt;br&gt;5 min 30 s to death || Grow Chesto and Leppa Berries near an empty plot || N/A
+|-
+| #12 [[File:Nanab.png|25px]] || [[Nanab]] ||  style="text-align:right" | 11  || style="text-align:right" | 25 {{farmpoints}}|| 4 min 10 s to ripe&lt;br&gt;4 min 10 s to death || Grow Pecha and Aspear Berries near an empty plot || N/A
+|-
+| #13 [[File:Wepear.png|25px]] || [[Wepear]] ||  style="text-align:right" | 12  || style="text-align:right" | 30 {{farmpoints}}|| 6 min 40 s to ripe&lt;br&gt;6 min 40 s to death || Grow Rawst and Oran Berries near an empty plot || N/A
+|-
+| #14 [[File:Pinap.png|25px]] || [[Pinap]] ||  style="text-align:right" | 13  || style="text-align:right" | 35 {{farmpoints}}|| 4 min to ripe&lt;br&gt;4 min to death || Grow Sitrus and Aspear Berries near an empty plot || N/A
+|-
+| #15 [[File:Figy.png|25px]] || [[Figy]] ||  style="text-align:right" | 14  || style="text-align:right" | 40 {{farmpoints}}|| 5 min 50 s to ripe&lt;br&gt;5 min 50 s to death || Surround an empty plot with 25-80 Spicy points&lt;br&gt;and ≤ 5 of all other flavors (need Cheri to unlock) || N/A
+|-
+| #16 [[File:Wiki.png|25px]] || [[Wiki]] ||  style="text-align:right" | 15  || style="text-align:right" | 45 {{farmpoints}}|| 6 min to ripe&lt;br&gt;6 min to death || Surround an empty plot with 25-80 Dry points&lt;br&gt;and ≤ 5 of all other flavors (need Chesto to unlock) || N/A
+|-
+| #17 [[File:Mago.png|25px]] || [[Mago]] ||  style="text-align:right" | 16  || style="text-align:right" | 50 {{farmpoints}} || 6 min 10 s to ripe&lt;br&gt;6 min 10 s to death || Surround an empty plot with 25-80 Sweet points&lt;br&gt;and ≤ 5 of all other flavors (need Pecha to unlock) || N/A
+|-
+| #18 [[File:Aguav.png|25px]] || [[Aguav]] ||  style="text-align:right" | 17  || style="text-align:right" | 55 {{farmpoints}} || 5 min 50 s to ripe&lt;br&gt;5 min 50 s to death || Surround an empty plot with 25-80 Bitter points&lt;br&gt;and ≤ 5 of all other flavors (need Rawst to unlock) || N/A
+|-
+| #19 [[File:Iapapa.png|25px]] || [[Iapapa]] ||  style="text-align:right" | 18  || style="text-align:right" | 60 {{farmpoints}} || 6 min 20 s to ripe&lt;br&gt;6 min 20 s to death || Surround an empty plot with 25-80 Sour points&lt;br&gt;and ≤ 5 of all other flavors (need Aspear to unlock) || N/A
+|-
+| #20 [[File:Lum.png|25px]] || [[Lum]] ||  style="text-align:right" | 1  || style="text-align:right" | 540 {{farmpoints}} || 1 hr to ripe&lt;br&gt;11 hrs to death || Surround an empty plot with all 8 Gen 1 Berries || Aura Boost ↑
+|}
+
+====Gen 3 Berries====
+
+{|class="wikitable sortable"
+|-
+! Dex # !! Berry !! Harvest&lt;br&gt;Amount  !! Farm&lt;br&gt;Points !! Growth times !! How to obtain !! Special Ability
+|-
+| #21 [[File:Pomeg.png|25px]] || [[Pomeg]] ||  style="text-align:right" | 20 || style="text-align:right" | 500 {{farmpoints}} || 1 hr 30 min to ripe&lt;br&gt;1 hr 30 min to death || Grow Iapapa and Mago Berries near an empty plot || N/A
+|-
+| #22 [[File:Kelpsy.png|25px]] || [[Kelpsy]] ||  style="text-align:right" | 21 || style="text-align:right" | 525 {{farmpoints}} || 1 hr 40 min to ripe&lt;br&gt;1 hr 40 min to death || Grow Chesto and Persim Berries near an empty plot || N/A
+|-
+| #23 [[File:Qualot.png|25px]] || [[Qualot]] ||  style="text-align:right" | 22 || style="text-align:right" | 550 {{farmpoints}} || 1 hr 20 min to ripe&lt;br&gt;1 hr 20 min to death || Surround an empty plot with 10-15 Spicy, Sweet, and Sour points&lt;br&gt;and 0 of all others (need Cheri, Pecha, and Aspear to unlock) || N/A
+|-
+| #24 [[File:Hondew.png|25px]] || [[Hondew]] ||  style="text-align:right" | 23 || style="text-align:right" | 2,000 {{farmpoints}} || 3 hr to ripe&lt;br&gt;3 hr to death || Surround an empty plot with exactly 15 Spicy, Dry, and Bitter points &lt;br&gt;and 0 of all others (need Figy, Wiki, and Aguav to unlock) || N/A
+|-
+| #25 [[File:Grepa.png|25px]] || [[Grepa]] ||  style="text-align:right" | 24 || style="text-align:right" | 600 {{farmpoints}} || 2 hr to ripe&lt;br&gt;2 hr to death || Grow Aguav and Figy Berries near an empty plot || N/A
+|-
+| #26 [[File:Tamato.png|25px]] || [[Tamato]] ||  style="text-align:right" | 25 || style="text-align:right" | 625 {{farmpoints}} || 2 hr 24 min to ripe&lt;br&gt;2 hr 24 min to death || Grow a Pomeg Berry near a Razz Berry || N/A
+|-
+| #27 [[File:Cornn.png|25px]] || [[Cornn]] ||  style="text-align:right" | 26 || style="text-align:right" | 700 {{farmpoints}} || 2 hr 30 min to ripe&lt;br&gt;2 hr 30 min to death || Grow Leppa, Bluk, and Wiki Berries near an empty plot || N/A
+|-
+| #28 [[File:Magost.png|25px]] || [[Magost]] ||  style="text-align:right" | 27 || style="text-align:right" | 750 {{farmpoints}} || 4 hr to ripe&lt;br&gt;4 hr to death || Grow Pecha, Nanab, and Mago berries near an empty plot || N/A
+|-
+| #29 [[File:Rabuta.png|25px]] || [[Rabuta]] ||  style="text-align:right" | 28 || style="text-align:right" | 800 {{farmpoints}} || 3 hr 24 min to ripe&lt;br&gt;3 hr 24 min to death || Grow an Aguav Berry near an Aspear Berry || N/A
+|-
+| #30 [[File:Nomel.png|25px]] || [[Nomel]] ||  style="text-align:right" | 29 || style="text-align:right" | 850 {{farmpoints}} || 4 hr 12 min to ripe&lt;br&gt;4 hr 12 min to death || Grow a Pinap Berry near an empty plot || N/A
+|-
+| #31 [[File:Spelon.png|25px]] || [[Spelon]] ||  style="text-align:right" | 30 || style="text-align:right" | 900 {{farmpoints}} || 4 hr 18 min to ripe&lt;br&gt;4 hr 18 min to death || Surround a Tamato Berry with 130-160 Spicy points&lt;br&gt;and ≤ 80 points of all other flavors || N/A
+|-
+| #32 [[File:Pamtre.png|25px]] || [[Pamtre]] ||  style="text-align:right" | 31 || style="text-align:right" | 950 {{farmpoints}} || 5 hr to ripe&lt;br&gt;5 hr to death || Surround a Cornn Berry with 130-160 Dry points&lt;br&gt;and ≤ 80 points of all other flavors || Overgrow (Expands to empty plots)
+|-
+| #33 [[File:Watmel.png|25px]] || [[Watmel]] ||  style="text-align:right" | 32 || style="text-align:right" | 1,000 {{farmpoints}} || 4 hr 36 min to ripe&lt;br&gt;4 hr 36 min to death || Surround a Magost Berry with 130-160 Sweet points&lt;br&gt;and ≤ 80 points of all other flavors || N/A
+|-
+| #34 [[File:Durin.png|25px]] || [[Durin]] ||  style="text-align:right" | 33 || style="text-align:right" | 1,050 {{farmpoints}} || 6 hr to ripe&lt;br&gt;6 hr to death || Surround a Rabuta Berry with 130-160 Bitter points&lt;br&gt;and ≤ 80 points of all other flavors || N/A
+|-
+| #35 [[File:Belue.png|25px]] || [[Belue]] ||  style="text-align:right" | 20 || style="text-align:right" | 1,100 {{farmpoints}} || 5 hr 30 min to ripe&lt;br&gt;5 hr 30 min to death || Surround a Nomel Berry with 130-160 Sour points&lt;br&gt;and ≤ 80 points of all other flavors || N/A
+|-
+| #36 [[File:pinkan.png|25px]] || [[Pinkan]] ||  style="text-align:right" | 3 || style="text-align:right" | 2,500 {{farmpoints}} ||4 hr to ripe&lt;br&gt; 8 hr to death || Surround a plot with one of each pink berry before #36 || N/A
+|}
+
+====Gen 4 Berries====
+
+{|class="wikitable sortable"
+|-
+! Dex # !! Berry !! Harvest&lt;br&gt;Amount  !! Farm&lt;br&gt;Points !! Growth times !! How to obtain !! Special Abilities
+|-
+| #37 [[File:Occa.png|25px]] || [[Occa]] ||  style="text-align:right" | 21 || style="text-align:right" | 1,200 {{farmpoints}} || 6 hr 6 min to ripe&lt;br&gt;6 hr 6 min to death || Grow Razz, Figy, Tamato, and Spelon Berries near an empty plot || Parasite (Overtakes other Berry plants)
+|-
+| #38 [[File:Passho.png|25px]] || [[Passho]] ||  style="text-align:right" | 22 || style="text-align:right" | 1,300 {{farmpoints}} || 6 hr to ripe&lt;br&gt;6 hr to death || Grow Chesto, Oran, Kelpsy, and Coba Berries near an empty plot  || Harvest Amount ↑
+|-
+| #39 [[File:Wacan.png|25px]] || [[Wacan]] ||  style="text-align:right" | 2 || style="text-align:right" | 250 {{farmpoints}} || 30 min to ripe&lt;br&gt;30 min to death || Grow Pinap, Iapapa, Qualot, and Grepa Berries near an empty plot || Growth Rate ↑
+|-
+| #40 [[File:Rindo.png|25px]] || [[Rindo]] ||  style="text-align:right" | 24 || style="text-align:right" | 1,400 {{farmpoints}} || 8 hr to ripe&lt;br&gt;8 hr to death || Surround an empty plot with 10-15 Spicy points, 15-20 Bitter points,&lt;br&gt;and 0 of all other flavors (need Aguav and Cheri to unlock) || Overgrow (Expands to open plots)
+|-
+| #41 [[File:Yache.png|25px]] || [[Yache]] ||  style="text-align:right" | 25 || style="text-align:right" | 1,500 {{farmpoints}} || 12 hr to ripe&lt;br&gt;12 hr to death || Grow a single Passho Berry with no surrounding Berries || Growth Rate ↓
+|-
+| #42 [[File:Chople.png|25px]] || [[Chople]] ||  style="text-align:right" | 26 || style="text-align:right" | 1,600 {{farmpoints}} || 10 hr to ripe&lt;br&gt;10 hr to death || Grow a Spelon Berry with the [[Blaze Cassette]] equipped || Egg Growth ↑
+|-
+| #43 [[File:Kebia.png|25px]] || [[Kebia]] ||  style="text-align:right" | 1 || style="text-align:right" | 50 {{farmpoints}} || 10 min to ripe&lt;br&gt;23 hr 50 min to death || Grow a Pamtre Berry with the [[Rocky Helmet]] equipped || Parasite (Overtakes other Berry plants)&lt;br&gt;Mutation Chance ↑
+|-
+| #44 [[File:Shuca.png|25px]] || [[Shuca]] ||  style="text-align:right" | 28 || style="text-align:right" | 1,700 {{farmpoints}} || 11 hr to ripe&lt;br&gt;11 hr to death || Grow a Watmel Berry with the [[Sprinklotad]] equipped || Replant Chance ↑
+|-
+| #45 [[File:Coba.png|25px]] || [[Coba]] ||  style="text-align:right" | 29 || style="text-align:right" | 1,800 {{farmpoints}} || 5 hr 30 min to ripe&lt;br&gt;5 hr 30 min to death || Surround an empty plot with 10-15 Dry points, 15-20 Bitter points,&lt;br&gt;and 0 of all other flavors (need Aguav and Chesto to unlock) || N/A
+|-
+| #46 [[File:Payapa.png|25px]] || [[Payapa]] ||  style="text-align:right" | 30 || style="text-align:right" | 1,900 {{farmpoints}} || 9 hr 30 min to ripe&lt;br&gt;9 hr 30 min to death || Grow Wiki, Bluk, Cornn, and Pamtre Berries near an empty plot || Mutation Chance ↑
+|-
+| #47 [[File:Tanga.png|25px]] || [[Tanga]] ||  style="text-align:right" | 3 || style="text-align:right" | 500 {{farmpoints}} || 1 hr to ripe&lt;br&gt;1 hr to death || Surround an empty plot with 8 Rindo Berries || Harvest Amount ↓
+|-
+| #48 [[File:Charti.png|25px]] || [[Charti]] ||  style="text-align:right" | 32 || style="text-align:right" | 2,000 {{farmpoints}} || 10 hr 30 min to ripe&lt;br&gt;10 hr 30 min to death || Grow a Cornn Berry with the [[Cell Battery]] equipped || Replant Chance ↓
+|-
+| #49 [[File:Kasib.png|25px]] || [[Kasib]] ||  style="text-align:right" | 1 || style="text-align:right" | 25 {{farmpoints}} || 5 min to ripe&lt;br&gt;23 hr 55 min to death || Might appear after any Berry wilts, once any Gen 4 or 5 berry is unlocked || Death (Causes ripe berries to wither 2x as fast)
+|-
+| #50 [[File:Haban.png|25px]] || [[Haban]] ||  style="text-align:right" | 34 || style="text-align:right" | 4,000 {{farmpoints}} || 24 hr to ripe&lt;br&gt;24 hr to death || Grow Occa, Passho, Rindo, and Wacan Berries near an empty plot || Growth Rate ↓
+|-
+| #51 [[File:Colbur.png|25px]] || [[Colbur]] ||  style="text-align:right" | 35 || style="text-align:right" | 2,300 {{farmpoints}} || 7 hr 30 min to ripe&lt;br&gt;7 hr 30 min to death || Grow Rabuta, Kasib, and Payapa Berries near an empty plot || Parasite (Overtakes other plants), Prevents Kasibs
+|-
+| #52 [[File:Babiri.png|25px]] || [[Babiri]] ||  style="text-align:right" | 36 || style="text-align:right" | 2,400 {{farmpoints}} || 18 hr to ripe&lt;br&gt;18 hr to death || Surround an empty plot with 4 Shuca and 4 Charti Berries || Mutation Chance ↓
+|-
+| #53 [[File:Chilan.png|25px]] || [[Chilan]] ||  style="text-align:right" | 10 || style="text-align:right" | 500 {{farmpoints}} || 2 hr to ripe&lt;br&gt;2 hr to death || Grow a Chople Berry near ≥ 3 ripe Chople Berries || N/A
+|-
+| #54 [[File:Roseli.png|25px]] || [[Roseli]] ||  style="text-align:right" | 38 || style="text-align:right" | 2,500 {{farmpoints}} || 7 hr to ripe&lt;br&gt;7 hr to death || Grow Mago, Nanab, Magost, and Watmel Berries near an empty plot || Attract Aura (Increases chance of Wanderers)
+|}
+
+====Gen 5 Berries====
+
+{|class="wikitable sortable"
+|-
+! Dex # !! Berry !! Harvest&lt;br&gt;Amount !! Farm Points !! Growth times !! How to obtain !! Special Abilities
+|-
+| #55 [[File:Micle.png|25px]] || [[Micle]] ||  style="text-align:right" | 1 || style="text-align:right" | 2,600 {{farmpoints}} || 8 hr 48 min to ripe&lt;br&gt;8 hr 48 min to death || Fill the farm with ≥ 600 Dry points and at least one empty plot || N/A
+|-
+| #56 [[File:Custap.png|25px]] || [[Custap]] ||  style="text-align:right" | 1 || style="text-align:right" | 2,700 {{farmpoints}} || 7 hr 36 min to ripe&lt;br&gt;7 hr 36 min to death || Fill the farm with ≥ 600 Sweet points and at least one empty plot || N/A
+|-
+| #57 [[File:Jaboca.png|25px]] || [[Jaboca]] ||  style="text-align:right" | 1 || style="text-align:right" | 2,800 {{farmpoints}} || 9 hr 18 min to ripe&lt;br&gt;9 hr 18 min to death || Fill the farm with ≥ 600 Bitter points and at least one empty plot || Roamer Chance ↑
+|-
+| #58 [[File:Rowap.png|25px]] || [[Rowap]] ||  style="text-align:right" | 1 || style="text-align:right" | 2,900 {{farmpoints}} || 5 hr 54 min to ripe&lt;br&gt;5 hr 54 min to death || Fill the farm with ≥ 600 Sour points and at least one empty plot || EV Gain ↑
+|-
+| #59 [[File:Kee.png|25px]] || [[Kee]] ||  style="text-align:right" | 1 || style="text-align:right" | 3,000 {{farmpoints}} || 10 hr 6 min to ripe&lt;br&gt;10 hr 6 min to death || Grow Liechi and Ganlon Berries near an empty plot || N/A
+|-
+| #60 [[File:Maranga.png|25px]] || [[Maranga]] ||  style="text-align:right" | 1 || style="text-align:right" | 8,000 {{farmpoints}} || 11 hr 12 min to ripe&lt;br&gt;11 hr 12 min to death || Grow Salac and Petaya Berries near an empty plot || N/A
+|-
+| #61 [[File:Liechi.png|25px]] || [[Liechi]] ||  style="text-align:right" | 0.5 || style="text-align:right" | 10,000 {{farmpoints}} || 48 hr to ripe&lt;br&gt;48 hr to death || Grow Passho berries and have captured Kyogre || N/A
+|-
+| #62 [[File:Ganlon.png|25px]] || [[Ganlon]] ||  style="text-align:right" | 0.5 || style="text-align:right" | 10,000 {{farmpoints}} || 48 hr to ripe&lt;br&gt;48 hr to death || Grow Shuca berries and have captured Groudon || N/A
+|-
+| #63 [[File:Salac.png|25px]] || [[Salac]] ||  style="text-align:right" | 0.5 || style="text-align:right" | 10,000 {{farmpoints}} || 48 hr to ripe&lt;br&gt;48 hr to death || Grow Coba berries and have captured Rayquaza || N/A
+|-
+| #64 [[File:Petaya.png|25px]] || [[Petaya]] ||  style="text-align:right" | 0.5 || style="text-align:right" | 15,000 {{farmpoints}} || 24 hr to ripe&lt;br&gt;96 hr to death || Grow all Gen 4 Berries with an open plot and all plots unlocked,&lt;br&gt;need all Gen 4 Berries unlocked || Prevents non-Petaya berries from withering
+|-
+| #65 [[File:Apicot.png|25px]] || [[Apicot]] ||  style="text-align:right" | 0.5 || style="text-align:right" | 15,000 {{farmpoints}} || 24 hr to ripe&lt;br&gt;96 hr to death || Grow Chilan berries and have captured Palkia || N/A
+|-
+| #66 [[File:Lansat.png|25px]] || [[Lansat]] ||  style="text-align:right" | 0.5 || style="text-align:right" | 15,000 {{farmpoints}} || 24 hr to ripe&lt;br&gt;96 hr to death || Grow Roseli berries and have captured Dialga || N/A
+|-
+| #67 [[File:Starf.png|25px]] || [[Starf]] ||  style="text-align:right" | 0.5 || style="text-align:right" | 15,000 {{farmpoints}} || 24 hr to ripe&lt;br&gt;96 hr to death || Discover a shiny wandering Pokémon with an open plot || Shiny Chance ↑
+|-
+| #68 [[File:Enigma.png|25px]] || [[Enigma]] ||  style="text-align:right" | 0.5 || style="text-align:right" | 15,000 {{farmpoints}} || 24 hr to ripe&lt;br&gt;144 hr to death || Unique based on linked Discord account || Can mutate some Gen 4 berries into Gen 5 berries &lt;br&gt; (Must have unlocked the Gen 5 berry first)
+|-
+|}
+
+Note: The minimum harvest amount for any berry is 1.  If the harvest amount is less than 1, you will still get at least 1.  However, having a harvest amount of less than 1 affects how many berries you get from [[Farm_Items|Rich Mulch]] and Passho berries.  For example, with Rich Mulch and surrounded by 8 Passho berries, a Maranga will yield 16 berries, but a Liechi will only yield 8 berries.  For some helpful farming configurations to harvest more berries or grow berries faster, consult the [[Farming Setups|Farming Setups page]]
+
+=Special Abilities (Auras)=
+
+Some berries have special abilities, also called Auras. These auras often affect other berry growth and mutation, but others may affect other sections of the game. These auras are frequently used to help players find shiny pokémon or breed more efficiently. Here is a list of berry auras. The [[Enigma]] berry has a unique effect which is better explained on its page.
+
+{| class="wikitable" | style="text-align: center;"
+! Aura !! Effect !! Notes
+|-
+! Aura Boost
+| Boosts aura effects of the 8 surrounding berries || &lt;center&gt; This aura can only be applied to a berry once and does not affect other berries with this effect.
+|-
+! Overgrow
+| Plants a berry of the same type in one of the 8 surrounding empty plots || &lt;center&gt; Original berry needs to be ripe before this takes effect. &lt;br&gt; This counts as a mutation and is affected by the same mutation boosts.
+|-
+! Parasite
+| Transforms a berry in one of the 8 surrounding berries into the same berry as the parasite || &lt;center&gt; Original berry needs to be ripe before this takes effect. &lt;br&gt; This counts as a mutation and is affected by the same mutation boosts. &lt;br&gt; Parasite only affects berries in the taller and later stages. Seed and sprout cannot be taken over. &lt;br&gt; The newly taken over berry will start its timer at the start of the same stage as it was taken over.
+|-
+! Death
+| Causes the surrounding 8 berries to wither more quickly || &lt;center&gt; Only affects ripe berries. &lt;br&gt; Does not affect other berries with Death aura. &lt;br&gt; Effect does not stack.
+|-
+! Harvest Amount
+| Changes the amount of berries obtained on harvest/wither for the 8 surrounding berries.|| &lt;center&gt; Effect is multiplicative and stacks with [[Rich Mulch]]
+|-
+! Growth Rate
+| Changes growth/wither time of the 8 surrounding berries || &lt;center&gt; Effect is multiplicative and stacks with Death aura (once ripe), [[Sprayduck]], and [[Boost Mulch]] effects.
+|-
+! Replant Chance
+| Changes the chance that any of the 8 surrounding berries will replant itself after withering || &lt;center&gt; Effect is multiplicative and stacks with [[Sprinklotad]]
+|-
+! Mutation Chance
+| Changes the chance that any of the 8 surrounding plots will mutate a berry if possible || &lt;center&gt; Effect is multiplicative and stacks with [[Squirtbottle]] and [[Surprise Mulch]] effects. &lt;br&gt; Affects Overgrow and Parasite effects
+|-
+! Kasib Prevention
+| Prevents berries from mutating into [[Kasib]] berries when they wither || &lt;center&gt; A single berry with this ability will affect the entire field
+|-
+! Wither Prevention
+| Prevents other berries from withering while this is berry is ripe || &lt;center&gt; A single berry with this ability will affect the entire field. &lt;br&gt; Berries with this ability do not affect each other. &lt;br&gt; Once this berry withers or is harvested other berries will reset their timers from the beginning of the Ripe stage.
+|-
+! Egg Growth
+| Increases the growth speed of eggs in the hatchery || &lt;center&gt; Effect is multiplicative over the whole field. &lt;br&gt; Effect stacks with [[Blaze Cassette]]
+|-
+! Shiny Chance
+| Increases chance of finding [[Shiny Chance|Shiny Pokémon]]|| &lt;center&gt; Effect is multiplicative over the whole field. &lt;br&gt; Effect stacks with [[Shiny Charm]]
+|-
+! Attract Aura
+| Increases chance of Pokémon [[Wandering Pokemon|wandering]] onto the farm || &lt;center&gt; Effect is multiplicative over the whole field
+|-
+! Roamer Chance
+| Increases chance of finding [[Roaming Pokemon|Roaming Pokémon]] on routes || &lt;center&gt; Effect is multiplicative over the whole field
+|-
+! EV Gain
+| Increases amount of [[Pokerus|EVs gained]] in all applicable situations. || &lt;center&gt; Effect is multiplicative over the whole field
+|}
+
+
+
+{{Berries}}
+
+[[Category:Farm]][[Category:Berries]]</text>
+    <contributor>
+      <username>FuzzyBot</username>
+      <id>587</id>
+    </contributor>
+    <comment>Updating to match new version of source page</comment>
+    <model>wikitext</model>
+    <parentid>38469</parentid>
+    <sha1>91a4f0d57a26a06b89f4b541d5409a93f17bb816</sha1>
+  </revision>
+</page></mediawiki>

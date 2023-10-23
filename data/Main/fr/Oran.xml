@@ -1,0 +1,100 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Oran/fr</title>
+  <ns>0</ns>
+  <id>8019</id>
+  <revision>
+    <id>33312</id>
+    <timestamp>2022-09-11T17:49:05Z</timestamp>
+    <text space="preserve" bytes="2892">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #07 Oran
+|image   = [[File:Oran.png]]
+|caption = Cette Baie est un véritable cadeau de la nature. Ses saveurs variées lui donnent un goût fantastique.
+|growtime  = 5m
+|harvest = 8 baies
+|replant = 50%
+|points = 20
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*10 épicée 
+*10 sèche
+*0 sucrée
+*10 amère
+*10 acide
+}}
+
+'''Oran''' est un type de [[Berries/fr|Baie]] qui peut être plantée à la [[Farm/fr|Ferme]] pour obtenir des [[Farming Points/fr|Points de récolte]]. Les Pokémon sauvages peuvent aléatoirement en tenir une et la lâcher après avoir été vaincu.
+
+{| class="wikitable" | style = "image-rendering: pixelated"
+|+ Stades de croissance
+!!! Pousse !! Arbuste !! Fleuri !! Mûr
+|-
+! Temps écoulé depuis plantation
+| 2 mins || 3 mins || 4 mins || 5 mins - 10 mins
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:OranTreeTaller.png|50px]] || &lt;center&gt; [[File:OranTreeBloom.png|50px]] || &lt;center&gt; [[File:OranTreeBerry.png|50px]]
+|}
+
+{| class="wikitable collapsible" | style="text-align: center;"
+|+ Temps de croissance avec modificateurs
+! Modificateur !! Temps maturité-flétrissement
+|-
+! Aucun
+| 5 mins -&lt;br&gt; 10 mins
+|-
+! Kwakarrosoir
+| 3 mins 20 secs -&lt;br&gt; 6 mins 40 secs
+|}
+
+== Graphique de découverte ==
+[[File:Oran - Graph découverte.png|100px]]
+
+==Utilisations==
+===Mutations===
+
+Les baies Oran peuvent être utilisées pour faire muter les baies suivantes :
+
+{| class="wikitable" | style="text-align: center;"
+|-
+! Utilisée pour !! Plantée avec
+|-
+| [[File:Persim.png|20px]] [[Persim/fr|Kika]] || [[File:Pecha.png|20px]] [[Pecha/fr|Pêcha]]
+|-
+| [[File:Wepear.png|20px]] [[Wepear/fr|Repoi]] || [[File:Rawst.png|20px]] [[Rawst/fr|Fraive]]
+|-
+| [[File:Lum.png|20px]] [[Lum/fr|Prine]] || [[File:Cheri.png|20px]] [[Cheri/fr|Ceriz]] &lt;br&gt; [[File:Chesto.png|20px]] [[Chesto/fr|Maron]] &lt;br&gt; [[File:Pecha.png|20px]] [[Pecha/fr|Pêcha]] &lt;br&gt; [[File:Rawst.png|20px]] [[Rawst/fr|Fraive]] &lt;br&gt; [[File:Aspear.png|20px]] [[Aspear/fr|Willia]] &lt;br&gt; [[File:Leppa.png|20px]] [[Leppa/fr|Mepo]] &lt;br&gt; [[File:Sitrus.png|20px]] [[Sitrus/fr|Sitrus]]
+|-
+| [[File:Passho.png|20px]] [[Passho/fr|Pocpoc]] || [[File:Chesto.png|20px]] [[Chesto/fr|Maron]] &lt;br&gt; [[File:Kelpsy.png|20px]] [[Kelpsy/fr|Alga]] &lt;br&gt;
+[[File:Coba.png|20px]] [[Coba/fr|Cobaba]]
+|-
+|}
+
+==Acquisition==
+===Donjons===
+{{Loot/head‎|Berries}}
+{{LootItem|Berry Forest|Bois Baies|Commun}}
+{{LootItem|Pattern Bush|Forbuissons|Commun}}
+{{LootItem|Ruins of Alph|Ruines d'Alpha|Commun}}
+{{LootItem|Eterna Forest|Forêt de Vestigion|Commun}}
+{{LootItem|Victory Road Sinnoh|Route Victoire de Sinnoh|Commun}}
+{{LootItem|Frost Cavern|Caverne Gelée|Commun}}
+{{LootItem|Trainers' School|École des Dresseurs|Commun}}
+{{LootItem|Verdant Cavern|Grotte Verdoyante|Commun}}
+|}
+|}
+
+{{Berries}}
+
+[[Category:Farm]][[Category:Berries]]
+[[Category:Ferme]][[Category:Baies]]</text>
+    <contributor>
+      <username>LuK</username>
+      <id>506</id>
+    </contributor>
+    <comment>Created page with "==Acquisition== ===Donjons=== {{Loot/head‎|Berries}} {{LootItem|Berry Forest|Bois Baies|Commun}} {{LootItem|Pattern Bush|Forbuissons|Commun}} {{LootItem|Ruins of Alph|Ruines d'Alpha|Commun}} {{LootItem|Eterna Forest|Forêt de Vestigion|Commun}} {{LootItem|Victory Road Sinnoh|Route Victoire de Sinnoh|Commun}} {{LootItem|Frost Cavern|Caverne Gelée|Commun}} {{LootItem|Trainers' School|École des Dresseurs|Commun}} {{LootItem|Verdant Cavern|Grotte Verdoyante|Commun}} |} |}"</comment>
+    <model>wikitext</model>
+    <parentid>32086</parentid>
+    <sha1>b4ea065520b74a960c2f6ff1f783dc1d590ccf3c</sha1>
+  </revision>
+</page></mediawiki>
