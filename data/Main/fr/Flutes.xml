@@ -1,0 +1,80 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Flutes/fr</title>
+  <ns>0</ns>
+  <id>16483</id>
+  <revision>
+    <id>39539</id>
+    <timestamp>2022-10-21T20:52:38Z</timestamp>
+    <text space="preserve" bytes="2480">&lt;languages/&gt;
+Les '''flûtes''' sont une catégorie d'objets spéciaux qui possèdent chacun leur effet bénéfique. Les flûtes peuvent être obtenues en les achetant aux magasins des [[Gem Master|Maitres des Gemmes]] dans les régions d'Hoenn et d'Unys. Les flûtes ne peuvent pas être utilisées avant de battre [[Towns_&amp;_Cities#Hoenn's Lavaridge Town Gym|l'arène de Vermilava]] et d'obtenir le [[Gyms#Gyms_3|Badge Chaleur]].
+
+==Utilisation==
+Lorsque le joueur clique sur une flûte pour l'activer, cette dernière déploiera son effet. Les flûtes peuvent être activées ou désactivées quand le joueur le veut. Chaque flûte améliorera différentes mécaniques du jeu, et demandent toutes 3 types de Gemmes pour pouvoir activer leur pouvoir.  
+
+Activer plusieurs flûtes à la fois augmente le coût que chacune demande pour les garder actives. Chaque flûte active coute une gemme par seconde, par flûte active, dans chacun des trois types de gemmes demandées.
+
+Chaque flûte active donne au joueur un boost statique de +0.5% d'attaque aux types des gemmes requises. Si les 6 flûtes sont actives alors tous les types recevront un bonus de +0.5% d'attaque.
+
+===Active Cost per Flute===
+{|class="wikitable sortable"
+! Flûtes actives !! Cout en gemme / s &lt;br&gt;(par type de gemme)
+|-
+| 1 || 1
+|-
+| 2 || 2
+|-
+| 3 || 3
+|-
+| 4 || 4
+|-
+| 5 || 5
+|-
+| 6 || 6
+|}
+
+==Liste des flutes==
+{|class="wikitable sortable"
+! Nom
+! Gemmes demandées
+! Effet
+|-
+| {{Bag2|Yellow Flute|Flûte Jaune}}
+| Consomme des gemmes de type Plante, Vol et Electrique
+| (2% x (1 + Bonus de Succès)) Bonus d'attaque Pokémon
+|-
+| {{Bag2|Time Flute|Flûte de Temps}}
+| Consomme des gemmes de type Sol, Poison et Acier
+| (2% x (1 + Bonus de Succès)) Bonus sur les temps de Dongeons et d'Arènes
+|-
+| {{Bag2|Black Flute|Flûte Noire}}
+| Consomme des gemmes de type Ténèbres, Psy et Combat
+| (2% x (1 + Bonus de Succès)) Bonus d'attaque de clic
+|-
+| {{Bag2|Red Flute|Flûte Rouge}}
+| Consomme des gemmes de type Feu, Roche et Dragon
+| (2% x (1 + Bonus de Succès)) Bonus de pas pour le compteur des œufs
+|-
+| {{Bag2|White Flute|Flûte Blanche}}
+| Consomme des gemmes de type Normal, Fée et Glace
+| (2% x (1 + Bonus de Succès)) Bonus de chances de Pokémon Chromatique
+|-
+| {{Bag2|Blue Flute|Flûte Bleue}}
+| Consomme des gemmes de type Eau, Insecte et Spectre
+| (2% x (1 + Bonus de Succès)) Bonus de rendement de Tickets de Donjon
+|-
+|}
+
+
+{{Battle items}}&lt;br&gt;
+[[Category:Flutes]] [[Category:Items]]</text>
+    <contributor>
+      <username>Cozmix</username>
+      <id>718</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>39537</parentid>
+    <sha1>44fbab6e504efab7a7d89b189d35f96dffb7ff14</sha1>
+  </revision>
+</page></mediawiki>

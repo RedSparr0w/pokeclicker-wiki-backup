@@ -1,0 +1,117 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Lost Hotel</title>
+  <ns>0</ns>
+  <id>2952</id>
+  <revision>
+    <id>41312</id>
+    <timestamp>2022-11-09T05:57:27Z</timestamp>
+    <text space="preserve" bytes="3297">&lt;languages/&gt;
+&lt;translate&gt;
+&lt;!--T:1--&gt;
+{{Infobox dungeon
+|name    = Lost Hotel
+|image   = [[File:Lost Hotel.png|250px]]
+|caption = A map of Lost Hotel.
+|tokens  = 635,000
+|location = West of Route 15.
+}}
+'''Lost Hotel''' is a [[Dungeons|dungeon]] in [[Kalos]]. It initially has 100 tiles arranged in a 10x10 square, including 10 chest tiles, 23 non-boss encounter tiles, and 1 boss encounter tile. Wild Encounters have 8,375,300 HP.
+
+==Encounter  Tables== &lt;!--T:2--&gt;
+
+===Wild Encounters=== &lt;!--T:3--&gt;
+
+&lt;!--T:4--&gt;
+{| class="wikitable"
+|-
+! Wild Pokémon !! colspan=2|Trainers
+|-
+! Encounter !! Trainer !! Pokémon Team
+|-
+| [[File:Magneton.png|40px]] Magneton ||  [[File:Punk_Guy.png|40px]] Punk Guy Sid || [[File:Scrafty.png|40px]] Scrafty, [[File:Sharpedo.png|40px]] Sharpedo, [[File:Pawniard.png|40px]] Pawniard 
+|-
+| [[File:Electrode.png|40px]] Electrode || [[File:Punk_Guy.png|40px]] Punk Guy Jacques || [[File:Skuntank.png|40px]] Skuntank, [[File:Crawdaunt.png|40px]] Crawdaunt
+|-
+| [[File:Litwick.png|40px]] Litwick || [[File:Punk_Guy.png|40px]] Punk Guy Slater || [[File:Dunsparce.png|40px]] Dunsparce
+|-
+| [[File:Pawniard.png|40px]] Pawniard || [[File:Punk_Girl.png|40px]] Punk Girl Jeanne || [[File:Seviper.png|40px]] Seviper, [[File:Arbok.png|40px]] Arbok
+|-
+| [[File:Klefki.png|40px]] Klefki || [[File:Punk_Girl.png|40px]] Punk Girl Cecile || [[File:Liepard.png|40px]] Liepard, [[File:Liepard.png|40px]] Liepard
+|}
+
+
+===Boss Encounters=== &lt;!--T:5--&gt;
+
+&lt;!--T:6--&gt;
+{| class="wikitable"
+|-
+! Wild Pokémon !! Base Health !! Boss Trainer !! Pokémon Team !! Base Health
+|-
+| rowspan=2|[[File:Rotom.png|40px]] Rotom || rowspan=2|&lt;center&gt; 82,376,500 || rowspan=2|[[File:Punk_Couple.png|40px]] Punk Couple Zoya &amp; Asa || [[File:Garbodor.png|40px]] Garbodor || &lt;center&gt; 42,664,500
+|-
+| [[File:Pangoro.png|40px]] Pangoro || &lt;center&gt; 42,765,500
+|}
+
+==Items== &lt;!--T:7--&gt;
+
+&lt;!--T:8--&gt;
+{| class="wikitable"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears !! Requirement
+|-
+| align="center" colspan=6| '''Common'''
+|-
+| {{Bag2|xClick}} || 8 || 35.28% || 33.88% || 28.24% || rowspan=4| &lt;center&gt; N/A
+|-
+| {{Bag2|Lucky Incense}} || 6 || 26.46% || 25.41% || 21.18%
+|-
+| {{Pokemon|Trubbish|mimic}} || 2 || 8.82% || 8.47% || 7.06%
+|-
+| {{Pokemon|Garbodor|mimic}} || N/A || 4.41% || 4.24% || 3.53%
+|-
+| align="center" colspan=6| '''Rare'''
+|-
+| {{Bag2|Pink Shard}} || N/A || 20.01% || 20.99% || 24.95% || &lt;center&gt; N/A
+|-
+| align="center" colspan=6| '''Epic'''
+|-
+| {{Bag2|Dread Plate}} || N/A || 2.01% || 2.60% || 5.00% || rowspan=2| &lt;center&gt; N/A
+|-
+| {{Bag2|Duskball}} || N/A || 2.01% || 2.60% || 5.00%
+|-
+| align="center" colspan=6| '''Legendary'''
+|-
+| {{Pokemon|Rotom (Heat)|mimic}} || N/A || 0.17% || 0.27% || 0.66% || rowspan=6| &lt;center&gt; N/A
+|-
+| {{Pokemon|Rotom (Wash)|mimic}} || N/A || 0.17% || 0.27% || 0.66%
+|-
+| {{Pokemon|Rotom (Fan)|mimic}} || N/A || 0.17% || 0.27% || 0.66%
+|-
+| {{Pokemon|Rotom (Frost)|mimic}} || N/A || 0.17% || 0.27% || 0.66%
+|-
+| {{Pokemon|Rotom (Mow)|mimic}} || N/A || 0.17% || 0.27% || 0.66%
+|-
+| {{Bag2|Spell Tag}} || N/A || 0.17% || 0.27% || 0.66%
+|-
+| align="center" colspan=6| '''Mythic'''
+|-
+| {{Bag2|Protein}} || N/A || 0% || 0% || 1.06% || 250 Clears
+|}
+
+&lt;!--T:9--&gt;
+{{Kalos Dungeons}}
+
+&lt;!--T:10--&gt;
+[[Category:Dungeons|^Region #6 - Kalos^i]]
+&lt;/translate&gt;</text>
+    <contributor>
+      <username>ThePantMan</username>
+      <id>310</id>
+    </contributor>
+    <comment>/* mimic - rotom */</comment>
+    <model>wikitext</model>
+    <parentid>41311</parentid>
+    <sha1>f6d92e619f4cff2af20427f06aeb05aa1d463b86</sha1>
+  </revision>
+</page></mediawiki>

@@ -1,0 +1,113 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Chargestone Cave/fr</title>
+  <ns>0</ns>
+  <id>12015</id>
+  <revision>
+    <id>35070</id>
+    <timestamp>2022-09-13T13:22:38Z</timestamp>
+    <text space="preserve" bytes="3920">&lt;languages/&gt;
+{{Infobox dungeon
+|name    = Grotte Électrolithe
+|image   = [[File:Chargestone Cave.png|300px]]
+|caption = Une carte de la Grotte Électrolithe.
+|tokens  = 186 500
+|location = Unys - Route 6
+}}
+La '''Grotte Électrolithe''' est un [[Dungeons/fr|donjon]] d'[[Unova/fr|Unys]]. Il a initialement 81 cases arrangées en 9x9, comprenant 9 coffres, 21 rencontres hors boss et 1 Combat de Boss. Les rencontres sauvages ont 3 403 000 PV.
+
+&lt;span id="Encounter_Tables"&gt;&lt;/span&gt;
+==Tables des rencontres==
+
+&lt;span id="Wild_Encounters"&gt;&lt;/span&gt;
+===Rencontres sauvages===
+
+{| class="wikitable"
+|-
+! Pokémon sauvages!! colspan=2|Dresseurs
+|-
+! Rencontres !! Dresseur !! Équipe Pokémon
+|-
+| rowspan=2|[[File:Nosepass.png|40px]] Tarinor ||  [[File:Guitarist.png|40px]] Guitariste Anna || [[File:Emolga.png|40px]] Emolga 
+|-
+| [[File:Scientist_(male).png|40px]] Scientifique Ronald || [[File:Magneton.png|40px]] Magnéton
+|-
+| rowspan=2|[[File:Boldore.png|40px]] Géolithe|| [[File:Ace_Trainer_(male).png|40px]]Topdresseur Corky || [[File:Klink.png|40px]] Tic, [[File:Unfezant.png|40px]] Déflaisan, [[File:Sandslash.png|40px]] Sablaireau
+|-
+| [[File:Pokémon_Ranger_(male).png|40px]] Pokémon Ranger Louis || [[File:Ampharos.png|40px]] Pharamp
+|-
+| rowspan=2|[[File:Joltik.png|40px]] Statitik|| [[File:Hiker.png|40px]] Montagnard Otto || [[File:Aron.png|40px]] Galekid,[[File:Nosepass.png|40px]] Tarinor
+|-
+| [[File:Pokémon_Ranger_(female).png|40px]] Pokémon Ranger Briana || [[File:Minccino.png|40px]] Chinchidou, [[File:Excadrill.png|30px]] Minotaupe
+|-
+| rowspan=2|[[File:Ferroseed.png|40px]] Grindur|| [[File:Doctor.png|30px]] Infirmier Kit || [[File:Solosis.png|40px]] Nucléos,[[File:Gothita.png|40px]] Scrutella
+|-
+| [[File:Scientist_(female).png|40px]] Scientifique Lumi || [[File:Joltik.png|40px]] Statitik, [[File:Golbat.png|40px]] Nosferalto
+|-
+| rowspan=3|[[File:Klink.png|40px]] Tic|| [[File:Guitarist.png|40px]] Guitariste Beverly || [[File:Zebstrika.png|40px]] Zéblitz
+|-
+| [[File:Hiker.png|40px]] Montagnard Jeremy || [[File:Onix.png|40px]] Onix, [[File:Boldore.png|40px]] Géolithe
+|-
+| [[File:Ace_Trainer_(female).png|40px]] Topdresseuse Vicki || [[File:Stoutland.png|40px]] Mastouffe, [[File:Krokorok.png|40px]] Escroco, [[File:Ferroseed.png|40px]] Grindur
+|}
+
+&lt;span id="Boss_Encounters"&gt;&lt;/span&gt;
+===Combat de Boss===
+
+{| class="wikitable"
+|-
+! Pokémon sauvages !! PV de base !! Dresseur Boss !! Équipe Pokémon!! PV de base
+|-
+| [[File:Drilbur.png|40px]] Rototaupe|| rowspan=2|&lt;center&gt;22 000 000 || [[File:Ace_Trainer_(female).png|40px]] Topdresseuse Mary || [[File:Tirtouga.png|40px]] Carapagos, [[File:Magmar.png|40px]] Magmar || rowspan=2|&lt;center&gt; 12 000 000
+|-
+| [[File:Tynamo.png|40px]] Anchwatt|| [[File:Ace_Trainer_(male).png|30px]]Topdresseur Shaye || [[File:Archen.png|40px]] Arkéapti, [[File:Electabuzz.png|40px]] Élektek
+|}
+
+&lt;span id="Items"&gt;&lt;/span&gt;
+==Objets==
+
+{| class="wikitable"
+|-
+! Objet de coffre !! Poids !! Complétion 0 fois!! Complétion 100 fois !! Complétion 500 fois
+|-
+| align="center" colspan=6| '''Commun'''
+|-
+|{{Bag2|Lucky Egg|Œuf Chance}}||2||29,99%||28,86%||24,26% 
+|-
+|{{Bag2|Dowsing Machine|Cherch'Objet}}||2||29,99%||28,86%||24,26% 
+|-
+|{{Bag2|Aguav|Gowav}}|| — || 15,00% || 14,43% || 12,13%
+|-
+| align="center" colspan=6| '''Rare'''
+|-
+| {{Bag2|Yellow Shard|Tesson Jaune}} || — || 20,01% || 21,04% || 25,22%
+|-
+| align="center" colspan=6| '''Épique'''
+|-
+|{{Bag2|Zap Plate|Plaque Volt}}|| — || 2,01% || 2,61% || 5,05%
+|-
+|{{Bag2|Timerball|Chrono Ball}} || — || 2,01% || 2,61% || 5,05%
+|-
+| align="center" colspan=6| '''Légendaire'''
+|-
+|{{Bag2|Star Piece|Morceau d'Étoile}}|| 2 || 0,50% || 0.80% || 2.02% 
+|-
+|{{Bag2|Revive|Rappel}}|| — || 0,25% || 0,40% || 1,01%
+|-
+|{{Bag2|Large Restore|Hyper Potion}}|| — || 0,25% || 0,40% || 1,01% 
+|}
+
+{{Unova Dungeons}}
+
+[[Category:Dungeons|^Region #5 - Unova^g]]
+[[Category:Donjons|^Région #5 - Unys^g]]</text>
+    <contributor>
+      <username>PetroleVB</username>
+      <id>619</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>33306</parentid>
+    <sha1>2b5309c9a88c2439ed28fadc85eb6ed5dedb8be6</sha1>
+  </revision>
+</page></mediawiki>

@@ -1,0 +1,121 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Valley Windworks/en</title>
+  <ns>0</ns>
+  <id>15245</id>
+  <revision>
+    <id>36195</id>
+    <timestamp>2022-09-13T14:14:25Z</timestamp>
+    <text space="preserve" bytes="3153">&lt;languages/&gt;
+{{Infobox dungeon
+|name    = Valley Windworks
+|image   = [[File:Valley Windworks.png|300px]]
+|caption = An outside view of the Valley Windworks.
+|tokens  = 43,000
+|location = East of Floaroma Town.
+}}
+The '''Valley Windworks''' is a [[Dungeons|dungeon]] in [[Sinnoh]]. It initially has 64 tiles arranged in an 8x8 square, including 8 chest tiles, 19 non-boss encounter tiles, and 1 boss encounter tile. Wild Encounters have 756,000 HP.
+
+== Encounter Tables ==
+
+===Wild Encounters===
+
+{| class="wikitable"
+|-
+! Wild Pokémon !! colspan=2|Trainers
+|-
+! Encounter !! Trainer !! Pokémon Team
+|-
+| rowspan=5|&lt;center&gt; N/A || [[File:Galactic_Grunt_(male).png|40px]] Galactic Grunt || [[File:Glameow.png|40px]] Glameow
+|-
+| [[File:Galactic_Grunt_(male).png|40px]] Galactic Grunt || [[File:Zubat.png|40px]] Zubat
+|-
+| [[File:Galactic_Grunt_(male).png|40px]] Galactic Grunt || [[File:Glameow.png|40px]] Glameow, [[File:Stunky.png|40px]] Stunky
+|-
+| [[File:Galactic_Grunt_(male).png|40px]] Galactic Grunt || [[File:Stunky.png|40px]] Stunky
+|-
+| [[File:Galactic_Grunt_(male).png|40px]] Galactic Grunt || [[File:Zubat.png|40px]] Zubat, [[File:Zubat.png|40px]] Zubat
+|-
+|}
+
+===Boss Encounters===
+{| class="wikitable"
+|-
+! Wild Pokémon !! Base Health !! Boss Trainer !! Pokémon Team !! Base Health
+|-
+| [[File:Drifloon.png|40px]] '''Drifloon*''' ||&lt;center&gt;3,803,000 || [[File:Commander_(mars).png|40px]] Commander Mars || [[File:Zubat.png|40px]] Zubat, [[File:Purugly.png|40px]] Purugly || &lt;center&gt;1,901,500
+|-
+|}
+'''*Must have cleared Valley Windworks at least once to unlock Drifloon'''
+
+==Items==
+
+===No Debuff===
+
+{| class="wikitable"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+|-
+| align="center" colspan=6| '''Common'''
+|-
+| {{Bag2|Lucky Incense}} || N/A || 24.99% || 24.05% || 20.21%
+|-
+| {{Bag2|Pokéball}} || N/A || 24.99% || 24.05% || 20.21%
+|-
+| {{Bag2|Greatball}} || N/A || 24.99% || 24.05% || 20.21%
+|-
+| align="center" colspan=6| '''Rare'''
+|-
+| {{Bag2|Yellow Shard}} || N/A || 20.01% || 21.04% || 25.22%
+|-
+| align="center" colspan=6| '''Epic'''
+|-
+| {{Bag2|Zap Plate}} || N/A || 4.01% || 5.21% || 10.11%
+|-
+| align="center" colspan=6| '''Legendary'''
+|-
+| {{Bag2|Small Restore}} || N/A || 1.00% || 1.59% || 4.03%
+|}
+
+===Debuff Drop Table===
+
+After Reaching Alola, the drop chance for items in Sinnoh will be debuffed for any loot with a Tier rarer than Rare (ie: Epic, Legendary, Mythic).
+
+{| class="wikitable collapsible collapsed"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+|-
+| align="center" colspan=6| '''Common'''
+|-
+| {{Bag2|Lucky Incense}} || N/A || 25.00% || 25.00% || 25.00%
+|-
+| {{Bag2|Pokéball}} || N/A || 25.00% || 25.00% || 25.00%
+|-
+| {{Bag2|Greatball}} || N/A || 25.00% || 25.00% || 25.00%
+|-
+| align="center" colspan=6| '''Rare'''
+|-
+| {{Bag2|Yellow Shard}} || N/A || 24.00% || 24.00% || 24.00%
+|-
+| align="center" colspan=6| '''Epic'''
+|-
+| {{Bag2|Zap Plate}} || N/A || 0.90% || 0.90% || 0.90%
+|-
+| align="center" colspan=6| '''Legendary'''
+|-
+| {{Bag2|Small Restore}} || N/A || 0.10% || 0.10% || 0.10%
+|}
+
+{{Sinnoh Dungeons}}
+
+[[Category:Dungeons|^Region #4 - Sinnoh^b]]</text>
+    <contributor>
+      <username>FuzzyBot</username>
+      <id>587</id>
+    </contributor>
+    <comment>Updating to match new version of source page</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>29e6d49d6019ae1d7850bdbab9952398c66ca2f9</sha1>
+  </revision>
+</page></mediawiki>

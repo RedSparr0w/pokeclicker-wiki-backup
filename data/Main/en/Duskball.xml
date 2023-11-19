@@ -1,0 +1,82 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Duskball/en</title>
+  <ns>0</ns>
+  <id>8473</id>
+  <revision>
+    <id>22805</id>
+    <timestamp>2022-08-11T05:07:30Z</timestamp>
+    <text space="preserve" bytes="1930">&lt;languages/&gt;
+
+{{Infobox Pokéball
+|name       = Duskball
+|image      = [[File:Duskball.png]]
+|caption    = In-Game image of the ''Duskball''.
+|price      = Variable
+|catchTime  = 1s
+|catchRate = Variable (Depending on Time and Location)
+*+15% during night (6PM - 6AM) and in [[Dungeons]]
+*+0% during day (6AM - 6PM) and in all other locations
+|location   = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*[[Duskball#Shops|Shops]]
+*[[Duskball#Dungeons|Dungeons]]
+}}
+
+==Description==
+
+The '''Duskball''' is a type of [[Pokéballs|Pokéball]]. It automatically tries to catch a wild Pokémon after defeating it if is the highest type of Pokéball active and there is a remaining supply in the Pokéball selector.
+
+==Details==
+
+A specialized Pokéball to capture Pokémon with, it provides an increased catch rate at night and in [[Dungeons]] and catches Pokémon in 1s.
+
+===Rates===
+
+{| class="wikitable"
+|+ Duskball
+|-
+! Location !! Catch Chance Modifier
+|-
+| Night (6PM - 6AM) and in [[Dungeons]] || +15%
+|-
+| Day (6AM - 6PM) and in all other locations || +0% (Equal to Pokéball)
+|-
+|}
+
+== Acquisition ==
+===Shops===
+{{ItemPrice/head‎|Pokéballs}}
+{{ItemPrice|[[Berry Master#Trades|Goldenrod City]]|20 - 40 Random [[File:Cheri.png|25px]] [[Berries#Gen 1 Berries|Gen 1 Berries]] &lt;br&gt; 5 - 15 Random [[File:Persim.png|25px]] [[Berries#Gen 2 Berries|Gen 2 Berries]]}}
+|}
+|}
+
+===Dungeons===
+{{Loot/head‎|Pokéballs}}
+{{LootItem|Aqua Hideout|Legendary}}
+{{LootItem|Iron Island|Epic}}
+{{LootItem|Mistralton Cave|Legendary}}
+{{LootItem|Victory Road Unova|Epic}}
+{{LootItem|Twist Mountain|Legendary}}
+{{LootItem|Pokéball Factory|Epic}}
+{{LootItem|Lost Hotel|Epic}}
+{{LootItem|Frost Cavern|Epic}}
+{{LootItem|Terminus Cave|Legendary}}
+{{LootItem|Victory Road Kalos|Legendary}}
+{{LootItem|Diglett's Tunnel|Epic}}
+{{LootItem|Memorial Hill|Epic}}
+{{LootItem|Vast Poni Canyon|Epic}}
+|}
+|}
+
+&lt;br&gt;{{Pokéballs}}&lt;br&gt;
+[[Category:Items]] [[Category:Pokéballs]]</text>
+    <contributor>
+      <username>FuzzyBot</username>
+      <id>587</id>
+    </contributor>
+    <comment>Updating to match new version of source page</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>7e006c857f4c0749adb5d185222b05a01a764985</sha1>
+  </revision>
+</page></mediawiki>
