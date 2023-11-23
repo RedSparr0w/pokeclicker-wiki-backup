@@ -1,0 +1,101 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Galar Mine</title>
+  <ns>0</ns>
+  <id>16742</id>
+  <revision>
+    <id>41182</id>
+    <timestamp>2022-11-09T02:37:49Z</timestamp>
+    <text space="preserve" bytes="2555">&lt;languages/&gt;
+&lt;translate&gt;
+&lt;!--T:1--&gt;
+{{Infobox dungeon
+|name    = Galar Mine
+|image   = [[File:Galar Mine.png|300px]]
+|caption = A map of Galar Mine.
+|tokens  = 1,320,000
+|location = Between Galar Route 3 and Galar Route 4
+}}
+
+&lt;!--T:2--&gt;
+'''Galar Mine''' is a [[Dungeons|dungeon]] in [[Galar]]. It initially has 125 tiles arranged in two floors: 10x10 and 6x6 in size, respectively; including 16 chest tiles, 38 non-boss encounter tiles, 1 ladder tile, and 1 boss encounter tile. Wild Encounters have 20,767,840 HP.
+
+== Encounter Tables == &lt;!--T:3--&gt;
+
+===Wild Encounters=== &lt;!--T:4--&gt;
+
+&lt;!--T:5--&gt;
+{| class="wikitable"
+|-
+! Wild Pokémon !! colspan=2|Trainers
+|-
+! Encounter !! Trainer !! Pokémon Team
+|-
+| [[File:Rolycoly.png|40px]] Rolycoly || [[File:Worker.png|40px]] Worker Keith || [[File:Roggenrola.png|40px]] Roggenrola
+|-
+| [[File:Timburr.png|40px]] Timburr || [[File:Worker (female).png|40px]] Worker Georgia || [[File:Timburr.png|40px]] Timburr, [[File:Timburr.png|40px]] Timburr, [[File:Timburr.png|40px]] Timburr
+|-
+| [[File:Roggenrola.png|40px]] Roggenrola || rowspan=2| [[File:Worker (female).png|40px]] Worker Sandra || rowspan=2| [[File:Diglett.png|40px]] Diglett, [[File:Drilbur.png|40px]] Drilbur
+|-
+| [[File:Woobat.png|40px]] Woobat
+|-
+| [[File:Diglett.png|40px]] Diglett || rowspan=2| [[File:Worker.png|40px]] Worker Russell || rowspan=2| [[File:Rolycoly.png|40px]] Rolycoly
+|-
+| [[File:Drilbur.png|40px]] Drilbur
+|}
+
+&lt;!--T:6--&gt;
+===Boss Encounters===
+{| class="wikitable"
+|-
+! Wild Pokémon !! Base Health !! Boss Trainer !! Pokémon Team !! Base Health
+|-
+| [[File:Carkol.png|50px]] Carkol || &lt;center&gt;103,839,200 || colspan=3|&lt;center&gt;N/A
+|}
+
+==Items== &lt;!--T:7--&gt;
+
+&lt;!--T:8--&gt;
+{| class="wikitable"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+|-
+| align="center" colspan=6| '''Common'''
+|-
+| {{Bag2|Greatball}} || 5 || 55.80% || 54.38% || 48.19%
+|-
+| {{Bag2|Medium Restore}} || 1 || 11.16% || 10.88% || 9.64%
+|-
+| {{Pokemon|Carkol|mimic}} || 0.5 || 5.58% || 5.44% || 4.82%
+|-
+| {{Pokemon|Woobat|mimic}} || 0.5 || 5.58% || 5.44% || 4.82%
+|-
+| align="center" colspan=6| '''Rare'''
+|-
+| {{Bag2|Crimson Shard}} || N/A || 10.42% || 11.10% || 14.03%
+|-
+| {{Bag2|Brown Shard}} || N/A || 10.42% || 11.10% || 14.03%
+|-
+| align="center" colspan=6| '''Legendary'''
+|-
+| {{Bag2|Revive}} || N/A || 0.35% || 0.56% || 1.50%
+|-
+| {{Bag2|Star Piece}} || N/A || 0.35% || 0.56% || 1.50%
+|-
+| {{Bag2|Hard Stone}} || N/A || 0.35% || 0.56% || 1.50%
+|}
+
+&lt;!--T:9--&gt;
+{{Galar Dungeons}}
+[[Category:Dungeons|^Region #8 - Galar^a]]
+&lt;/translate&gt;</text>
+    <contributor>
+      <username>ThePantMan</username>
+      <id>310</id>
+    </contributor>
+    <comment>/* Links */</comment>
+    <model>wikitext</model>
+    <parentid>41161</parentid>
+    <sha1>66a971e3872af41383b7cb5eb4b7137203e7f0ec</sha1>
+  </revision>
+</page></mediawiki>

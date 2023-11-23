@@ -1,0 +1,103 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Held Items</title>
+  <ns>0</ns>
+  <id>16165</id>
+  <revision>
+    <id>42471</id>
+    <timestamp>2023-04-14T22:37:56Z</timestamp>
+    <text space="preserve" bytes="5854">&lt;languages/&gt;
+&lt;translate&gt;
+&lt;!--T:1--&gt;
+{{Infobox battle item
+|name       = Held Items
+|image      = [[File:Held Items Modal.png|thumb|301px]]
+|caption    = The Held Items modal
+|location   = Johto
+}}
+
+&lt;!--T:2--&gt;
+==Description==
+'''Held Items''' are items that Pokémon can equip for bonuses to their statistics. A held item only boosts an ''individual Pokémon
+
+&lt;!--T:3--&gt;
+==Usage== 
+Held Items can be found in an tab on the Item menu. All Pokémon can equip Held Items, however, they can only have one item each. A Held Item is consumed when equipped and '''cannot be re-used''' - it will be removed from your inventory when it is unequipped.&lt;br&gt;
+
+&lt;!--T:4--&gt;
+To equip Held Items your Pokémon will typically need to meet some requirement. For example, to equip the Black Belt your desired Pokémon must be a Fighting type. To equip the Macho Brace your Pokémon must be at least ''Contagious'' with Pokérus.
+
+&lt;!--T:5--&gt;
+==Acquisition==
+Held items can be found in [[Shops]], as Loot in [[Dungeons]] and as [[Rare Hold Items]] from Pokémons.
+
+&lt;!--T:6--&gt;
+==List of items==
+{|class="wikitable sortable"
+! Name !! Location !! Requirement !! Effect
+|-
+| {{Bag2|Black Belt}} || {{Bag2|Mt Mortar}} &lt;br&gt; {{Bag2|Mt. Pyre}} &lt;br&gt; {{Bag2|Reflection Cave}} || [[File:Fighting_Type_icon.png|20px]]Fighting type || rowspan=16|Raises attack by 10%
+|-
+| {{Bag2|Black Glasses}} || {{Bag2|Team Rockets Hideout}} &lt;br&gt; {{Bag2|Newmoon Island}} &lt;br&gt; {{Bag2|Team Flare Secret HQ}} || [[File:Dark_Type_icon.png|20px]]Dark type
+|-
+| {{Bag2|Charcoal}} || {{Bag2|Burned Tower}} &lt;br&gt; {{Bag2|Stark Mountain}} &lt;br&gt; {{Bag2|Wela Volcano Park}} || [[File:Fire_Type_icon.png|20px]]Fire type
+|-
+| {{Bag2|Dragon Fang}} || {{Bag2|Victory Road Johto}} &lt;br&gt; {{Bag2|Dragonspiral Tower}} &lt;br&gt; {{Bag2|Resolution Cave}} || [[File:Dragon_Type_icon.png|20px]]Dragon type
+|-
+| {{Bag2|Magnet}} || {{Bag2|Radio Tower}} &lt;br&gt; {{Bag2|Iron Island}} &lt;br&gt; {{Bag2|Chargestone Cave}} &lt;br&gt; {{Bag2|Kalos Power Plant}} &lt;br&gt; {{Bag2|Pikachu Valley}} || [[File:Electric_Type_icon.png|20px]]Electric type
+|-
+| {{Bag2|Miracle Seed}} || {{Bag2|Sprout Tower}} &lt;br&gt; {{Bag2|Petalburg Woods}} &lt;br&gt; {{Bag2|Pinwheel Forest}} &lt;br&gt; {{Bag2|Lush Jungle}} || [[File:Grass_Type_icon.png|20px]]Grass type
+|-
+| {{Bag2|Mystic Water}} || {{Bag2|Whirl Islands}} &lt;br&gt; {{Bag2|Weather Institute}} &lt;br&gt; {{Bag2|Sea Spirit's Den}} &lt;br&gt; {{Bag2|Brooklet Hill}} || [[File:Water_Type_icon.png|20px]]Water type
+|-
+| {{Bag2|Never Melt Ice}} || {{Bag2|Icefall Cave}} &lt;br&gt; {{Bag2|Ice Path}} &lt;br&gt; {{Bag2|Shoal Cave}} &lt;br&gt; {{Bag2|Snowpoint Temple}} &lt;br&gt; {{Bag2|Frost Cavern}} &lt;br&gt; {{Bag2|Seaward Cave}} || [[File:Ice_Type_icon.png|20px]]Ice type
+|-
+| {{Bag2|Pink Bow}} || {{Bag2|Pinkan Mountain}} &lt;br&gt; {{Bag2|Tohjo Falls}} &lt;br&gt; {{Bag2|Pokémon Village}} &lt;br&gt; {{Bag2|Mina's Houseboat}} || [[File:Fairy_Type_icon.png|20px]]Fairy type
+|-
+| {{Bag2|Poison Barb}} || {{Bag2|Slowpoke Well}} &lt;br&gt; {{Bag2|Team Galactic HQ}} &lt;br&gt; {{Bag2|Po Town}} || [[File:Poison_Type_icon.png|20px]]Poison type
+|-
+| {{Bag2|Sharp Beak}} || {{Bag2|Tin Tower}} &lt;br&gt; {{Bag2|Sky Pillar}} &lt;br&gt; {{Bag2|Pledge Grove}} &lt;br&gt; {{Bag2|Ten Carat Hill}} || [[File:Flying_Type_icon.png|20px]]Flying type
+|-
+| {{Bag2|Silk Scarf}} || {{Bag2|Lost Cave}} &lt;br&gt; {{Bag2|Dark Cave}} &lt;br&gt; {{Bag2|Connecting Cave}} || [[File:Normal_Type_icon.png|20px]]Normal type
+|-
+| {{Bag2|Silver Powder}} || {{Bag2|Ilex Forest}} &lt;br&gt; {{Bag2|Eterna Forest}} &lt;br&gt; {{Bag2|Santalune Forest}} || [[File:Bug_Type_icon.png|20px]]Bug type
+|-
+| {{Bag2|Soft Sand}} || {{Bag2|Union Cave}} &lt;br&gt; {{Bag2|Mt. Coronet North}} &lt;br&gt; {{Bag2|Diglett's Tunnel}} || [[File:Ground_Type_icon.png|20px]]Ground type
+|-
+| {{Bag2|Spell Tag}} || {{Bag2|Mt Silver}} &lt;br&gt; {{Bag2|Old Chateau}} &lt;br&gt; {{Bag2|Lost Hotel}} &lt;br&gt; {{Bag2|Memorial Hill}} || [[File:Ghost_Type_icon.png|20px]]Ghost type
+|-
+| {{Bag2|Twisted Spoon}} || {{Bag2|Ruins of Alph}} &lt;br&gt; {{Bag2|Celestial Tower}} &lt;br&gt; {{Bag2|Ruins of Life}} || [[File:Psychic_Type_icon.png|20px]]Psychic type
+|-
+| {{Bag2|Macho Brace}} || [[Shops#Sinnoh: Locations &amp; Items|Fight Area shop]] || Infected with Pokérus || Increases EVs gained by 100%
+|-
+| {{Bag2|Muscle Band}} || [[Battle Frontier|Battle Frontier Shop]] || N/A || Raises attack by 5%
+|-
+| {{Bag2|Wonder Chest}} || [[Shops#Johto: Locations &amp; Items|Violet City Shop]] || N/A || Increases EXP gained by 15%
+|-
+| {{Bag2|Soul Dew}} || [[Rare Hold Items|Rare Hold Item]] from [[File:Latias.png|30px]] Latias and [[File:Latios.png|30px]] Latios || Latios and Latios || Raises attack by 50%
+|-
+| {{Bag2|Adamant Orb}} || [[Rare Hold Items|Rare Hold Item]] from [[File:Dialga.png|30px]] Dialga || Dialga || Raises attack by 50%
+|-
+| {{Bag2|Lustrous Orb}} || [[Rare Hold Items|Rare Hold Item]] from [[File:Palkia.png|30px]] Palkia || Palkia || Raises attack by 50%
+|-
+| {{Bag2|Leek}} || [[Rare Hold Items|Rare Hold Item]] from [[File:Galarian Farfetch'd.png|30px]] Galarian Farfetch'd || Farfetch'd or Galarian Farfetch'd || Raises attack by 20%&lt;br&gt; Evolves [[File:Galarian Farfetch'd.png|30px]]Galarian Farfetch'd into [[File:Sirfetch'd.png|30px]]Sirfecth'd
+|-
+| {{Bag2|Rusted Sword}} || [[Rare Hold Items|Rare Hold Item]] from [[File:Zacian (Battle Hero).png|30px]] Zacian (Battle Hero) || Zacian (Battle Hero) or Zacian (Crowned Sword) || Raises attack by 50%&lt;br&gt; Evolves [[File:Zacian (Battle Hero).png|30px]] Zacian (Battle Hero) into [[File:Zacian (Crowned Sword).png|30px]]Zacian (Crowned Sword) 
+|-
+| {{Bag2|Rusted Shield}} || [[Rare Hold Items|Rare Hold Item]] from [[File:Zamazenta (Battle Hero).png|30px]] Zamazenta (Battle Hero) || Zamazenta (Battle Hero) or Zamazenta (Crowned Shield) || Raises attack by 50%&lt;br&gt; Evolves [[File:Zamazenta (Battle Hero).png|30px]]Zamazenta (Battle Hero) into [[File:Zamazenta (Crowned Shield).png|30px]]Zamazenta (Crowned Shield) 
+|-
+|}
+
+&lt;!--T:7--&gt;
+[[Category:Items]] [[Category:Held Items]]
+&lt;/translate&gt;</text>
+    <contributor>
+      <username>ThePantMan</username>
+      <id>310</id>
+    </contributor>
+    <comment>/* No more six */</comment>
+    <model>wikitext</model>
+    <parentid>42421</parentid>
+    <sha1>16dbdbeca28f5aac2c7a37ca9124ca8f453cfdf3</sha1>
+  </revision>
+</page></mediawiki>

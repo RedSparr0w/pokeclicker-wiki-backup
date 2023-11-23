@@ -1,0 +1,107 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Custap/fr</title>
+  <ns>0</ns>
+  <id>9440</id>
+  <revision>
+    <id>38698</id>
+    <timestamp>2022-10-09T21:16:42Z</timestamp>
+    <text space="preserve" bytes="5335">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #56 Chérim
+|image   = [[File:Custap.png]]
+|caption = Sous sa peau dure, la chair de la Chérim est sucrée et crémeuse.
+|growtime  = 7h 36m 0s
+|harvest = 1 baie
+|replant = 5%
+|mutation = 0,03%
+|points = 2 700
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 Épicée
+*0 Sèche
+*40 Sucrée
+*10 Amère
+*0 Acide
+}}
+
+'''Chérim''' est un type de [[Berries/fr|Baie]] qui peut être plantée à la [[Farm/fr|Ferme]]. Elle peut être obtenue en ayant au moins une parcelle libre et au moins 600 points de saveur sucrée dans le champs. La baie Stekpa doit être débloquée afin de pouvoir obtenir cette baie.
+
+== Tables de Croissance ==
+=== Stades de croissance ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Pousse !! Arbuste !! Fleuri !! Mûr
+|-
+! Temps écoulé après plantation
+| 54 mins || 2 heures 18 mins || 3 heures 42 mins || 7 heures 36 mins - 15 heures 12 mins
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:CustapTreeTaller.png|50px]] || &lt;center&gt; [[File:CustapTreeBloom.png|50px]] || &lt;center&gt; [[File:CustapTreeBerry.png|50px]]
+|}
+
+=== Temps de croissance avec modificateurs  ===
+{| class="wikitable" | style="text-align: center;"
+! Modificateur !! Temps maturité-flétrissement !! Nombre de Fertipousse requis
+|-
+! Aucun
+| 7 heures 36 mins -&lt;br&gt; 15 heures 12 mins || ---
+|-
+! Engrais ou Kwakarrosoir
+| 5 heures 4 mins -&lt;br&gt; 10 heures 8 mins || 61 engrais
+|-
+! Engrais et Kwakarrosoir
+| 3 heures 22 mins 40 secs -&lt;br&gt; 6 heures 45 mins 20 secs || 41 engrais
+|}
+
+== Organigramme ==
+[[File:Chérim_-_Graph_découverte.png|250px]]
+&lt;br&gt;
+
+== Stratégie de mutation ==
+=== Formations possibles ===
+'''Attention :''' Les tentatives de mutations de la baie Chérim alors que le [[Sprinklotad/fr|Nénurrosoir]] est équipé peut résulter en une mutation en baie [[Shuca/fr|Jouca]] des baies Stekpa.&lt;br&gt; Vous pouvez remplir votre Ferme de la façon suivante pour obtenir des baies Chérim. Les cases violettes indiquent où les mutations peuvent se produire.
+
+==== Stratégie de mutation avec des baies Stekpa ====
+{| class="wikitable" style="text-align: center;"
+|+ Ferme
+|- style="height: 26px;"
+| style="width: 50px;" | [[File:Watmel.png|30px]]&lt;br&gt;[[Watmel/fr|Stekpa]] || style="width: 50px;" | [[File:Watmel.png|30px]]&lt;br&gt;[[Watmel/fr|Stekpa]] || style="width: 50px;" | [[File:Watmel.png|30px]]&lt;br&gt;[[Watmel/fr|Stekpa]] || style="width: 50px;" | [[File:Watmel.png|30px]]&lt;br&gt;[[Watmel/fr|Stekpa]] || style="width: 50px;" | [[File:Watmel.png|30px]]&lt;br&gt;[[Watmel/fr|Stekpa]]
+|-
+| [[File:Watmel.png|30px]]&lt;br&gt;[[Watmel/fr|Stekpa]] || style="background-color:#9C7D98;" | || [[File:Watmel.png|30px]]&lt;br&gt;[[Watmel/fr|Stekpa]] || style="background-color:#9C7D98;" | || [[File:Watmel.png|30px]]&lt;br&gt;[[Watmel/fr|Stekpa]]
+|- 
+| [[File:Watmel.png|30px]]&lt;br&gt;[[Watmel/fr|Stekpa]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Watmel.png|30px]]&lt;br&gt;[[Watmel/fr|Stekpa]]
+|-
+| [[File:Watmel.png|30px]]&lt;br&gt;[[Watmel/fr|Stekpa]] || [[File:Watmel.png|30px]]&lt;br&gt;[[Watmel/fr|Stekpa]] || [[File:Watmel.png|30px]]&lt;br&gt;[[Watmel/fr|Stekpa]] || [[File:Watmel.png|30px]]&lt;br&gt;[[Watmel/fr|Stekpa]] || [[File:Watmel.png|30px]]&lt;br&gt;[[Watmel/fr|Stekpa]]
+|-
+| [[File:Watmel.png|30px]]&lt;br&gt;[[Watmel/fr|Stekpa]] || [[File:Watmel.png|30px]]&lt;br&gt;[[Watmel/fr|Stekpa]] || [[File:Watmel.png|30px]]&lt;br&gt;[[Watmel/fr|Stekpa]] || [[File:Watmel.png|30px]]&lt;br&gt;[[Watmel/fr|Stekpa]] || [[File:Watmel.png|30px]]&lt;br&gt;[[Watmel/fr|Stekpa]]
+|}
+
+==== Stratégie de mutation avec des baies Guimauve ====
+''Note : Ajouter 4 baies Guimauve supplémentaires permet la mutation de baies Chérim quand toutes les baies Guimauve sont seulement au stade Fleuri''
+
+{| class="wikitable" style="text-align: center;"
+|+ Ferme
+|- style="height: 50px;"
+| style="width: 50px;" | [[File:Pinkan.png|30px]]&lt;br&gt;[[Pinkan/fr|Guimauve]] || style="width: 50px;" | [[File:Pinkan.png|30px]]&lt;br&gt;[[Pinkan/fr|Guimauve]] ||style="background-color:#9C7D98; width: 50px;" | ||style="width: 50px;" | [[File:Pinkan.png|30px]]&lt;br&gt;[[Pinkan/fr|Guimauve]] || style="width: 50px;" | [[File:Pinkan.png|30px]]&lt;br&gt;[[Pinkan/fr|Guimauve]]
+|-
+| style="width: 50px;" | [[File:Pinkan.png|30px]]&lt;br&gt;[[Pinkan/fr|Guimauve]] || style="background-color:#9C7D98; width: 50px;" | ||style="background-color:#9C7D98; width: 50px;" | ||style="background-color:#9C7D98; width: 50px;" |  || style="width: 50px;" | [[File:Pinkan.png|30px]]&lt;br&gt;[[Pinkan/fr|Guimauve]]
+|-style="height: 50px; background-color:#9C7D98;"
+| || || || || 
+|-
+| style="width: 50px;" | [[File:Pinkan.png|30px]]&lt;br&gt;[[Pinkan/fr|Guimauve]] || style="background-color:#9C7D98; width: 50px;" | ||style="background-color:#9C7D98; width: 50px;" | ||style="background-color:#9C7D98; width: 50px;" |  || style="width: 50px;" | [[File:Pinkan.png|30px]]&lt;br&gt;[[Pinkan/fr|Guimauve]]
+|-
+| style="width: 50px;" | [[File:Pinkan.png|30px]]&lt;br&gt;[[Pinkan/fr|Guimauve]] || style="width: 50px;" | [[File:Pinkan.png|30px]]&lt;br&gt;[[Pinkan/fr|Guimauve]] ||style="background-color:#9C7D98; width: 50px;" | ||style="width: 50px;" | [[File:Pinkan.png|30px]]&lt;br&gt;[[Pinkan/fr|Guimauve]] || style="width: 50px;" | [[File:Pinkan.png|30px]]&lt;br&gt;[[Pinkan/fr|Guimauve]]
+|} 
+
+{{Berries}}
+
+[[Category:Farm]][[Category:Berries]][[Category:Ferme]][[Category:Baies]]</text>
+    <contributor>
+      <username>Razikd</username>
+      <id>535</id>
+    </contributor>
+    <comment>Created page with "{| class="wikitable" style="text-align: center;" |+ Ferme |- style="height: 50px;" | style="width: 50px;" | [[File:Pinkan.png|30px]]&lt;br&gt;[[Pinkan/fr|Guimauve]] || style="width: 50px;" | [[File:Pinkan.png|30px]]&lt;br&gt;[[Pinkan/fr|Guimauve]] ||style="background-color:#9C7D98; width: 50px;" | ||style="width: 50px;" | [[File:Pinkan.png|30px]]&lt;br&gt;[[Pinkan/fr|Guimauve]] || style="width: 50px;" | [[File:Pinkan.png|30px]]&lt;br&gt;[[Pinkan/fr|Guimauve]] |- | style="width: 50px;" | File:..."</comment>
+    <model>wikitext</model>
+    <parentid>38696</parentid>
+    <sha1>164462a19facf15087a1b5583210c8b3ad3a84ae</sha1>
+  </revision>
+</page></mediawiki>

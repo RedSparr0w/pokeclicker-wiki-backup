@@ -1,0 +1,115 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Santalune Forest/fr</title>
+  <ns>0</ns>
+  <id>15516</id>
+  <revision>
+    <id>36559</id>
+    <timestamp>2022-09-13T14:30:58Z</timestamp>
+    <text space="preserve" bytes="2747">&lt;languages/&gt;
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Infobox dungeon
+|name    = Santalune Forest
+|image   = [[File:Santalune Forest.png|250px]]
+|caption = A map of Santalune Forest.
+|tokens  = 400,000
+|location = Between Routes 2 and 3.
+}}
+'''Santalune Forest''' is a [[Dungeons|dungeon]] in [[Kalos]]. It initially has 100 tiles arranged in a 10x10 square, including 10 chest tiles, 23 non-boss encounter tiles, and 1 boss encounter tile. Wild Encounters have 5,803,020 HP.
+&lt;/div&gt;
+
+
+&lt;span id="Encounter_Tables"&gt;&lt;/span&gt;
+== Tables des rencontres ==
+
+&lt;span id="Wild_Encounters"&gt;&lt;/span&gt;
+===Rencontres sauvages===
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable"
+|-
+! Wild Pokémon !! colspan=2|Trainers
+|-
+! Encounter !! Trainer !! Pokémon Team
+|-
+| [[File:Caterpie.png|40px]] Caterpie || rowspan=4|[[File:Youngster.png|40px]] Youngster Joey || rowspan=4|[[File:Scatterbug.png|40px]] Scatterbug, [[File:Fletchling.png|40px]] Fletchling 
+|-
+| [[File:Metapod.png|40px]] Metapod
+|-
+| [[File:Weedle.png|40px]] Weedle
+|-
+| [[File:Kakuna.png|40px]] Kakuna
+|-
+| [[File:Pansage.png|40px]] Pansage || rowspan=5|[[File:Lass.png|40px]] Lass Anna || rowspan=5|[[File:Pikachu.png|40px]] Pikachu
+|-
+| [[File:Pansear.png|40px]] Pansear
+|-
+| [[File:Panpour.png|40px]] Panpour
+|-
+| [[File:Fletchling.png|40px]] Fletchling
+|-
+| [[File:Scatterbug.png|40px]] Scatterbug
+|}
+&lt;/div&gt;
+
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+===Boss Encounters===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable"
+|-
+! Wild Pokémon !! Base Health !! Boss Trainer !! Pokémon Team !! Base Health
+|-
+| rowspan=2|[[File:Pikachu.png|40px]] Pikachu || rowspan=2|&lt;center&gt; 51,738,600 ||rowspan=2|[[File:Lass.png|40px]] Lass Lise || [[File:Weedle.png|40px]] Weedle || &lt;center&gt; 24,303,000
+|-
+| [[File:Bunnelby.png|40px]] Bunnelby || &lt;center&gt; 27,303,000
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Items==
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+|-
+| align="center" colspan=6| '''Common'''
+|-
+| {{Bag2|Pokéball}} || 2 || 49.99% || 48.11% || 40.43%
+|-
+| {{Bag2|Lucky Incense}} || N/A || 24.99% || 24.05% || 20.21%
+|-
+| align="center" colspan=6| '''Rare'''
+|-
+| {{Bag2|Green Shard}} || N/A || 20.01% || 21.04% || 25.22%
+|-
+| align="center" colspan=6| '''Epic'''
+|-
+| {{Bag2|Insect Plate}} || N/A || 2.01% || 2.61% || 5.05%
+|-
+| {{Bag2|Fist Plate}} || N/A || 2.01% || 2.61% || 5.05%
+|-
+| align="center" colspan=6| '''Legendary'''
+|-
+| {{Bag2|Small Restore}} || N/A || 1.00% || 1.59% || 4.03%
+|}
+&lt;/div&gt;
+
+{{Kalos Dungeons}}
+
+[[Category:Dungeons|^Region #6 - Kalos^a]]
+[[Category:Donjons|^Région #6 - Kalos^a]]</text>
+    <contributor>
+      <username>PetroleVB</username>
+      <id>619</id>
+    </contributor>
+    <comment>Created page with "===Rencontres sauvages==="</comment>
+    <model>wikitext</model>
+    <parentid>36538</parentid>
+    <sha1>771c3cc870b384cbfe7514b44be322d0b0f590ae</sha1>
+  </revision>
+</page></mediawiki>

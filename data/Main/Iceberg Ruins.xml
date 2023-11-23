@@ -1,0 +1,107 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Iceberg Ruins</title>
+  <ns>0</ns>
+  <id>16794</id>
+  <revision>
+    <id>41316</id>
+    <timestamp>2022-11-09T06:03:15Z</timestamp>
+    <text space="preserve" bytes="2416">&lt;languages/&gt;
+&lt;translate&gt;
+&lt;!--T:1--&gt;
+{{Infobox dungeon
+|name    = Iceberg Ruins
+|image   = [[File:Iceberg Ruins.png|300px]]
+|caption = A map of Iceberg Ruins.
+|tokens  = 1,920,000
+|location = North of Snowslide Slope
+}}
+
+&lt;!--T:2--&gt;
+'''Iceberg Ruins''' is a [[Dungeons|dungeon]] in [[Galar]]. It initially has 125 tiles arranged in two floors: 10x10 and 6x6 in size, respectively; including 16 chest tiles, 38 non-boss encounter tiles, 1 ladder tile, and 1 boss encounter tile. Wild Encounters have 31,507,840 HP.
+
+== Encounter Tables == &lt;!--T:3--&gt;
+
+===Wild Encounters=== &lt;!--T:4--&gt;
+
+&lt;!--T:5--&gt;
+{| class="wikitable"
+|-
+! Wild Pokémon !! colspan=2|Trainers
+|-
+! Encounter !! Trainer !! Pokémon Team
+|-
+| [[File:Cryogonal.png|40px]] Cryogonal || rowspan=8 colspan=2| &lt;center&gt;N/A
+|-
+| [[File:Beartic.png|40px]] Beartic
+|-
+| [[File:Galarian Darumaka.png|40px]] Galarian Darumaka
+|-
+| [[File:Weavile.png|40px]] Weavile
+|-
+| [[File:Vanilluxe.png|40px]] Vanilluxe
+|-
+| [[File:Froslass.png|40px]] Froslass
+|-
+| [[File:Delibird.png|40px]] Delibird
+|-
+| [[File:Aurorus.png|40px]] Aurorus*
+|}
+'''*Note:''' Aurorus will only appear if the player has captured it previously.
+
+&lt;!--T:6--&gt;
+===Boss Encounters===
+{| class="wikitable"
+|-
+! Wild Pokémon !! Base Health !! Boss Trainer !! Pokémon Team !! Base Health
+|-
+| [[File:Glalie.png|50px]] Glalie || &lt;center&gt;149,662,240 || rowspan=2 colspan=3|&lt;center&gt;N/A
+|-
+| [[File:Regice.png|50px]] '''Regice*''' || &lt;center&gt;157,539,200
+|}
+'''*Note:''' Must have made progress in [[Questlines#The Ancient Golems|The Ancient Golems]] Questline to unlock.
+
+==Items== &lt;!--T:7--&gt;
+
+&lt;!--T:8--&gt;
+{| class="wikitable"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+|-
+| align="center" colspan=6| '''Common'''
+|-
+| {{Bag2|Dowsing Machine}} || 3 || 32.46% || 31.43% || 27.08%
+|-
+| {{Bag2|Lucky Incense}} || 3 || 32.46% || 31.43% || 27.08%
+|-
+| {{Pokemon|Cryogonal|mimic}} || N/A || 10.82% || 10.48% || 9.03%
+|-
+| align="center" colspan=6| '''Rare'''
+|-
+| {{Bag2|White Shard}} || N/A || 10.11% || 10.69% || 13.14%
+|-
+| {{Bag2|Cyan Shard}} || N/A || 10.11% || 10.69% || 13.14%
+|-
+| align="center" colspan=6| '''Epic'''
+|-
+| {{Bag2|Hard Stone}} || N/A || 1.35% || 1.77% || 3.51%
+|-
+| {{Bag2|Everstone}} || N/A || 1.35% || 1.77% || 3.51%
+|-
+| {{Bag2|Icicle Plate}} || N/A || 1.35% || 1.77% || 3.51%
+|}
+
+&lt;!--T:9--&gt;
+{{Galar Dungeons}}
+[[Category:Dungeons|^Region #8 - Galar^a]]
+&lt;/translate&gt;</text>
+    <contributor>
+      <username>ThePantMan</username>
+      <id>310</id>
+    </contributor>
+    <comment>/* mimic */</comment>
+    <model>wikitext</model>
+    <parentid>40094</parentid>
+    <sha1>06211a7999e5e8145c4e70d47112ed540d7d4135</sha1>
+  </revision>
+</page></mediawiki>

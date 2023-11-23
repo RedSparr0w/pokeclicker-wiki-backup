@@ -1,0 +1,57 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Rocky Helmet</title>
+  <ns>0</ns>
+  <id>119</id>
+  <revision>
+    <id>14700</id>
+    <timestamp>2022-07-22T16:18:18Z</timestamp>
+    <text space="preserve" bytes="1167">&lt;languages/&gt;
+&lt;translate&gt;
+&lt;!--T:1--&gt;
+{{Infobox Oak Item
+|name       = Rocky Helmet
+|image      = [[File:Bag_Rocky_Helmet_Sprite.png]]
+|caption    = Artwork of the ''Rocky Helmet''.
+|dex = 40
+|effect     = Clicks do more damage
+}}
+
+&lt;!--T:2--&gt;
+The '''Rocky Helmet''' is a type of [[Oak Items|Oak Item]]. When equipped, it increases the damage of clicks. The Rocky Helmet is unlocked after catching 40 unique Pokémon.
+
+==Details== &lt;!--T:3--&gt;
+
+&lt;!--T:4--&gt;
+{| class="wikitable sortable"
+|-
+! Level !! Effect !! Upgrade Requirement !! Upgrade Cost
+|-
+|0 || x1.25 Click Damage || 167 clicks || style="text-align:right" | 50,000 {{pdollar}}
+|-
+|1 || x1.3 Click Damage || 167 clicks || style="text-align:right" | 100,000 {{pdollar}}
+|-
+|2 || x1.35 Click Damage || 500 clicks || style="text-align:right" | 250,000 {{pdollar}}
+|-
+|3 || x1.4 Click Damage || 834 clicks || style="text-align:right" | 500,000 {{pdollar}}
+|-
+|4 || x1.45 Click Damage || 1667 clicks || style="text-align:right" | 1,000,000 {{pdollar}}
+|-
+|5/Max || x1.5 Click Damage || N/A || style="text-align:right" | N/A
+|-
+|}
+
+&lt;!--T:5--&gt;
+&lt;br&gt;{{Oak items}}&lt;br&gt;
+[[Category:Oak Items]] [[Category:Items]]
+&lt;/translate&gt;</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>59</id>
+    </contributor>
+    <comment>Marked this version for translation</comment>
+    <model>wikitext</model>
+    <parentid>14509</parentid>
+    <sha1>77d4d4eb50172686ca591f3be2bdfa10ca27419f</sha1>
+  </revision>
+</page></mediawiki>

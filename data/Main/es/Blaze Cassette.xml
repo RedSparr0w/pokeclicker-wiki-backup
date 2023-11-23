@@ -1,0 +1,53 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Blaze Cassette/es</title>
+  <ns>0</ns>
+  <id>4903</id>
+  <revision>
+    <id>26352</id>
+    <timestamp>2022-08-25T05:07:01Z</timestamp>
+    <text space="preserve" bytes="1332">&lt;languages/&gt;
+{{Infobox Oak Item
+|name       = PiroROM
+|image      = [[File:Bag_Blaze_Cassette_Sprite.png]]
+|caption    = Imagen del ''PiroROM''.
+|dex = 80
+|effect     = Incuba Huevos más rápido
+}}
+
+El '''piroROM''' es un [[Oak Items|Objeto de Oak]]. Al equiparlo acelera el proceso de [[Pokemon Day Care|incubar]] [[Egg|huevos]]. Se desbloquea tras capturar 80 pokemon distintos.
+
+== Detalles ==
+
+{| class="wikitable sortable"
+|-
+! Nivel !! Efecto !! Requisitos de Mejora !! Coste de Mejora
+|-
+|0 || x1.5 Velocidad de Incubación || 50 Huevos Incubados || style="text-align:right" | 50,000 {{pdollar}}
+|-
+|1 || x1.6 Velocidad de Incubación || 50 Huevos Incubados || style="text-align:right" | 100,000 {{pdollar}}
+|-
+|2 || x1.7 Velocidad de Incubación || 150 Huevos Incubados || style="text-align:right" | 250,000 {{pdollar}}
+|-
+|3 || x1.8 Velocidad de Incubación || 250 Huevos Incubados || style="text-align:right" | 500,000 {{pdollar}}
+|-
+|4 || x1.9 Velocidad de Incubación || 500 Huevos Incubados || style="text-align:right" | 1,000,000 {{pdollar}}
+|-
+|5/Max || x2.0 Velocidad de Incubación || N/A || style="text-align:right" | N/A
+|-
+|}
+
+&lt;div class="mw-translate-fuzzy"&gt;
+&lt;br&gt;{{Oak items}}&lt;br&gt;
+[[Category:Oak Items|Categoría:Objetos de Oak]] [[Category:Items|Categoría:Objetos]] [[Category:Eggs|Categoría:Huevos]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>FuzzyBot</username>
+      <id>587</id>
+    </contributor>
+    <comment>Updating to match new version of source page</comment>
+    <model>wikitext</model>
+    <parentid>15909</parentid>
+    <sha1>259218bd7af43d8fb53ffaacb259e2074e859140</sha1>
+  </revision>
+</page></mediawiki>

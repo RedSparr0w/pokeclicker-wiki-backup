@@ -1,0 +1,35 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Discord Integration/fr</title>
+  <ns>0</ns>
+  <id>12527</id>
+  <revision>
+    <id>31680</id>
+    <timestamp>2022-09-06T14:41:42Z</timestamp>
+    <text space="preserve" bytes="1712">&lt;languages/&gt;
+Lier un compte Discord à une sauvegarde de jeu Pokéclicker est nécessaire pour débloquer certains contenus, comme les indices pour la [[Enigma/fr|baie Enigma]] et la possibilité d'utiliser des codes pour obtenir des [[Obtainable Pokémon/fr#Events &amp; Discord Exclusives|Pokémon exclusifs au Discord]]
+
+=== Lier un compte Discord ===
+# Dans le menu Démarrer, cliquer sur le bouton "Save" ("Sauvegarder" en français).
+# Cliquer sur le bouton jaune "Lier à Discord".
+# Se connecter au compte Discord si nécessaire, puis défiler vers le bas et cliquer sur "Autoriser".
+# Vous devriez être redirigé vers la page principale. (Si vous avez plus d'une sauvegarde, sélectionnez en une.) Vous devriez avoir une notification verte en haut à gauche de votre écran, confirmation que vous avez lié votre compte Discord.
+# Répétez ce process pour n'imorte quel nombre de sauvegardes que vous souhaitez liées à votre compte Discord.
+
+=== Dépannage ===
+Si vous avez des soucis à renseigner les codes Discord dans Pokéclicker, essayez les étapes suivantes :
+* D'abord, assurez-vous que le compte Discord que vous avez lié avec votre sauvegarde est le même que celui avec lequel vous obtenez le code. //partie en attente de review.....
+* Arrêtez la liaison de votre compte Discord, attendez 30 à 60 secondes et liez votre compte une nouvelle fois. (Vous aurez peut-être à répéter cette étape plusieurs fois pour de meilleurs résultats.)
+* '''Sauvegarder votre partie''' puis effacer le cache de votre navigateur. Retenter ensuite de lier votre compte.
+
+Si vous avez des soucis d'intégration Discord, n'hésitez pas à remonter votre problème sur le channel #bugs du serveur Discord.</text>
+    <contributor>
+      <username>Razikd</username>
+      <id>535</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>31678</parentid>
+    <sha1>143e3e95d616a4ab4aae8a12d582cccb1998f297</sha1>
+  </revision>
+</page></mediawiki>

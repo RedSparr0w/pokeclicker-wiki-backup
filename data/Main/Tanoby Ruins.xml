@@ -1,0 +1,148 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Tanoby Ruins</title>
+  <ns>0</ns>
+  <id>12188</id>
+  <revision>
+    <id>41222</id>
+    <timestamp>2022-11-09T04:11:26Z</timestamp>
+    <text space="preserve" bytes="4405">&lt;languages/&gt;
+&lt;translate&gt;
+&lt;!--T:1--&gt;
+{{Infobox dungeon
+|name    = Tanoby Ruins
+|image   = [[File:Tanoby Ruins.png|thumb]]
+|caption = An overhead map of Tanoby Ruins.
+|tokens  = 43,000
+|location = Sevii Island 7, south of Sevault Canyon.
+}}
+'''Tanoby Ruins''' is a [[Dungeons|dungeon]] in [[Kanto]]. It has 49 tiles arranged in a 7x7 square, including 7 chest tiles, 17 non-boss encounter tiles, and 1 boss encounter tile. Wild Encounters have 720,600 HP.
+
+== Encounter Tables == &lt;!--T:2--&gt;
+
+===Wild Encounters=== &lt;!--T:3--&gt;
+
+&lt;!--T:4--&gt;
+{| class="wikitable"
+|-
+! Wild Pokémon !! colspan=2|Trainers
+|-
+! Encounter !! Trainer !! Pokémon Team
+|-
+| [[File:Tentacool.png|40px]] Tentacool || rowspan=3| [[File:Ruin Maniac.png|40px]] Ruin Maniac Brandon || rowspan=3|[[File:Onix.png|40px]] Onix
+|-
+| [[File:Tentacruel.png|40px]] Tentacruel
+|-
+| [[File:Mantine.png|40px]] Mantine 
+|-
+| [[File:Magikarp.png|40px]] Magikarp || rowspan=3|[[File:Gentleman.png|40px]] Gentleman Clifford || rowspan=3|[[File:Marowak.png|40px]] Marowak, [[File:Golduck.png|40px]] Golduck
+|-
+| [[File:Horsea.png|40px]] Horsea 
+|-
+| [[File:Krabby.png|40px]] Krabby
+|-
+| [[File:Qwilfish.png|40px]] Qwilfish || rowspan=3|[[File:Painter.png|40px]] Painter Allison || rowspan=3|[[File:Smeargle.png|40px]] Smeargle
+|-
+| [[File:Remoraid.png|40px]] Remoraid
+|-
+| [[File:Gyarados.png|40px]] Gyarados
+|-
+| [[File:Seadra.png|40px]] Seadra || rowspan=3|[[File:Ruin Maniac.png|40px]] Ruin Maniac Benjamin || rowspan=3|[[File:Geodude.png|40px]] Geodude, [[File:Geodude.png|40px]] Geodude, [[File:Graveler.png|40px]] Graveler
+|-
+| [[File:Psyduck.png|40px]] Psyduck
+|-
+| [[File:Kingler.png|40px]] Kingler
+|}
+
+===Boss Encounters=== &lt;!--T:5--&gt;
+{| class="wikitable"
+|-
+! Wild Pokémon !! Base Health !! Boss Trainer !! Pokémon Team !! Base Health
+|-
+| [[Tanoby Ruins# Unown Encounters in Tanoby Ruins|Unown (A) -&gt; Unown (?)]] || &lt;center&gt;4,100,000|| colspan=3 |&lt;center&gt;N/A
+|-
+|}
+
+==== Unown Encounters in Tanoby Ruins ==== &lt;!--T:14--&gt;
+24 Unown Forms (A-Z, excluding EFHP), Unown (!) and Unown (?) can be found in Tanoby Ruins as Dungeon Bosses. One Unown form per day is randomly chosen to be the boss (switches at midnight).
+
+&lt;!--T:15--&gt;
+[[File:Unown_(A).png|30px]] [[File:Unown_(B).png|30px]] [[File:Unown_(C).png|30px]] [[File:Unown_(D).png|30px]] [[File:Unown_(G).png|30px]] [[File:Unown_(I).png|30px]] [[File:Unown_(J).png|30px]] [[File:Unown_(K).png|30px]] [[File:Unown_(L).png|30px]] [[File:Unown_(M).png|30px]] [[File:Unown_(N).png|30px]] [[File:Unown_(O).png|30px]] [[File:Unown_(Q).png|30px]] [[File:Unown_(R).png|30px]] [[File:Unown_(S).png|30px]] [[File:Unown_(T).png|30px]] [[File:Unown_(U).png|30px]] [[File:Unown_(V).png|30px]] [[File:Unown_(W).png|30px]] [[File:Unown_(X).png|30px]] [[File:Unown_(Y).png|30px]] [[File:Unown_(Z).png|30px]] [[File:Unown_(!).png|30px]] [[File:Unown_(QuestionMark).png|30px]]
+
+==Items== &lt;!--T:6--&gt;
+
+&lt;tabs&gt; &lt;!--T:7--&gt;
+&lt;tab name="No Debuff"&gt;
+
+&lt;!--T:8--&gt;
+{| class="wikitable"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+|-
+| align="center" colspan=6| '''Common'''
+|-
+| {{Bag2|Lucky Egg}} || N/A || 37.86% || 36.58% || 31.25%
+|-
+| {{Bag2|Lucky Incense}} || N/A || 37.86% || 36.58% || 31.25%
+|-
+| align="center" colspan=6| '''Rare'''
+|-
+| {{Bag2|Grey Shard}} || N/A || 20.21% || 21.33% || 25.99%
+|-
+| align="center" colspan=6| '''Epic'''
+|-
+| {{Bag2|Mind Plate}} || N/A || 4.05% || 5.28% || 10.42%
+|-
+| align="center" colspan=6| '''Mythic'''
+|-
+| {{Bag2|Heart Scale}} || N/A || 0.01% || 0.22% || 1.10%
+|}
+&lt;/tab&gt;
+
+&lt;tab name="Debuff"&gt; &lt;!--T:9--&gt;
+
+&lt;!--T:10--&gt;
+After Reaching Kalos, the drop chance for items will be debuffed for any loot with a Tier rarer than Rare (ie: Epic, Legendary, Mythic).
+
+&lt;!--T:11--&gt;
+{| class="wikitable"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+|-
+| align="center" colspan=6| '''Common'''
+|-
+| {{Bag2|Lucky Egg}} || N/A || 37.54% || 37.54% || 37.54%
+|-
+| {{Bag2|Lucky Incense}} || N/A || 37.54% || 37.54% || 37.54%
+|-
+| align="center" colspan=6| '''Rare'''
+|-
+| {{Bag2|Grey Shard}} || N/A || 24.02% || 24.02% || 24.02%
+|-
+| align="center" colspan=6| '''Epic'''
+|-
+| {{Bag2|Mind Plate}} || N/A || 0.90% || 0.90% || 0.90%
+|-
+| align="center" colspan=6| '''Mythic'''
+|-
+| {{Bag2|Heart Scale}} || N/A || &lt;0.01% || &lt;0.01% || &lt;0.01%
+|}
+&lt;/tab&gt;
+&lt;/tabs&gt;
+
+&lt;!--T:12--&gt;
+{{Kanto Dungeons}}
+
+&lt;!--T:13--&gt;
+[[Category:Dungeons|^Region #1 - Kanto^n]]
+&lt;/translate&gt;</text>
+    <contributor>
+      <username>ThePantMan</username>
+      <id>310</id>
+    </contributor>
+    <comment>/* Tabs */</comment>
+    <model>wikitext</model>
+    <parentid>31170</parentid>
+    <sha1>183eb57eda5982cf8c2e70c83235489be3838426</sha1>
+  </revision>
+</page></mediawiki>

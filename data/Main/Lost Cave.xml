@@ -1,0 +1,142 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Lost Cave</title>
+  <ns>0</ns>
+  <id>12183</id>
+  <revision>
+    <id>41219</id>
+    <timestamp>2022-11-09T04:08:39Z</timestamp>
+    <text space="preserve" bytes="3415">&lt;languages/&gt;
+&lt;translate&gt;
+&lt;!--T:1--&gt;
+{{Infobox dungeon
+|name    = Lost Cave
+|image   = [[File:Lost Cave.png|thumb]]
+|caption = An overhead map of Lost Cave.
+|tokens  = 36,000
+|location = Sevii Island 5, east of Resort Gorgeous.
+}}
+'''Lost Cave''' is a [[Dungeons|dungeon]] in [[Kanto]]. It has 49 tiles arranged in a 7x7 square, including 7 chest tiles, 17 non-boss encounter tiles, and 1 boss encounter tile. Wild Encounters have 720,600 HP.
+
+== Encounter Tables == &lt;!--T:2--&gt;
+
+===Wild Encounters=== &lt;!--T:3--&gt;
+
+&lt;!--T:4--&gt;
+{| class="wikitable"
+|-
+! Wild Pokémon !! colspan=2|Trainers
+|-
+! Encounter !! Trainer !! Pokémon Team
+|-
+| [[File:Gastly.png|40px]] Gastly || rowspan=3|[[File:Ruin Maniac.png|40px]] Ruin Maniac Lawson || rowspan=3|[[File:Onix.png|40px]] Onix, [[File:Graveler.png|40px]] Graveler, [[File:Marowak.png|40px]] Marowak
+|-
+| [[File:Haunter.png|40px]] Haunter
+|-
+| [[File:Zubat.png|40px]] Zubat
+|-
+| [[File:Golbat.png|40px]] Golbat || rowspan=3|[[File:Psychic (female).png|40px]] Psychic Laura || rowspan=3|[[File:Natu.png|40px]] Natu, [[File:Natu.png|40px]] Natu, [[File:Xatu.png|40px]] Xatu
+|-
+| [[File:Murkrow.png|40px]] Murkrow
+|-
+| [[File:Misdreavus.png|40px]] Misdreavus
+|}
+
+===Boss Encounters=== &lt;!--T:5--&gt;
+{| class="wikitable"
+|-
+! Wild Pokémon !! Base Health !! Boss Trainer !! Pokémon Team !! Base Health
+|-
+| colspan=2|&lt;center&gt;N/A || [[File:Lady (trainer).png|40px]] Lady Selphy || [[File:Persian.png|40px]] Persian, [[File:Persian.png|40px]] Persian || &lt;center&gt;1,800,000
+|-
+|}
+
+==Items== &lt;!--T:6--&gt;
+
+&lt;tabs&gt; &lt;!--T:7--&gt;
+&lt;tab name="No Debuff"&gt;
+
+&lt;!--T:8--&gt;
+{| class="wikitable"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+|-
+| align="center" colspan=6| '''Common'''
+|-
+| {{Bag2|Dowsing Machine}} || N/A || 37.49% || 36.08% || 30.32%
+|-
+| {{Bag2|xAttack}} || N/A || 37.49% || 36.08% || 30.32%
+|-
+| align="center" colspan=6| '''Rare'''
+|-
+| {{Bag2|Purple Shard}} || N/A || 10.01% || 10.52% || 12.61%
+|-
+| {{Bag2|Grey Shard}} || N/A || 10.01% || 10.52% || 12.61%
+|-
+| align="center" colspan=6| '''Epic'''
+|-
+| {{Bag2|Toxic Plate}} || N/A || 2.01% || 2.61% || 5.05%
+|-
+| {{Bag2|Spooky Plate}} || N/A || 2.01% || 2.61% || 5.05%
+|-
+| align="center" colspan=6| '''Legendary'''
+|-
+| {{Bag2|Max Revive}} || N/A || 0.50% || 0.80% || 2.02%
+|-
+| {{Bag2|Silk Scarf}} || N/A || 0.50% || 0.80% || 2.02%
+|}
+&lt;/tab&gt;
+
+&lt;tab name="Debuff"&gt; &lt;!--T:9--&gt;
+
+&lt;!--T:10--&gt;
+After Reaching Kalos, the drop chance for items will be debuffed for any loot with a Tier rarer than Rare (ie: Epic, Legendary, Mythic).
+
+&lt;!--T:11--&gt;
+{| class="wikitable"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+|-
+| align="center" colspan=6| '''Common'''
+|-
+| {{Bag2|Dowsing Machine}} || N/A || 37.50% || 37.50% || 37.50%
+|-
+| {{Bag2|xAttack}} || N/A || 37.50% || 37.50% || 37.50%
+|-
+| align="center" colspan=6| '''Rare'''
+|-
+| {{Bag2|Purple Shard}} || N/A || 12.00% || 12.00% || 12.00%
+|-
+| {{Bag2|Grey Shard}} || N/A || 12.00% || 12.00% || 12.00%
+|-
+| align="center" colspan=6| '''Epic'''
+|-
+| {{Bag2|Toxic Plate}} || N/A || 0.45% || 0.45% || 0.45%
+|-
+| {{Bag2|Spooky Plate}} || N/A || 0.45% || 0.45% || 0.45%
+|-
+| align="center" colspan=6| '''Legendary'''
+|-
+| {{Bag2|Max Revive}} || N/A || 0.05% || 0.05% || 0.05%
+|-
+| {{Bag2|Silk Scarf}} || N/A || 0.05% || 0.05% || 0.05%
+|}
+&lt;/tab&gt;
+&lt;/tabs&gt;
+
+&lt;!--T:12--&gt;
+{{Kanto Dungeons}}
+
+&lt;!--T:13--&gt;
+[[Category:Dungeons|^Region #1 - Kanto^n]]
+&lt;/translate&gt;</text>
+    <contributor>
+      <username>ThePantMan</username>
+      <id>310</id>
+    </contributor>
+    <comment>/* Tabs */</comment>
+    <model>wikitext</model>
+    <parentid>38965</parentid>
+    <sha1>2a2c0eaf002f20fc567fef3d25158aab9bed7ada</sha1>
+  </revision>
+</page></mediawiki>
