@@ -1,0 +1,72 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Repeatball/en</title>
+  <ns>0</ns>
+  <id>8333</id>
+  <revision>
+    <id>22845</id>
+    <timestamp>2022-08-11T05:11:31Z</timestamp>
+    <text space="preserve" bytes="1518">&lt;languages/&gt;
+
+{{Infobox Pokéball
+|name       = Repeatball
+|image      = [[File:Repeatball.png]]
+|caption    = In-Game image of the ''Repeatball''.
+|price      = Variable
+|catchTime  = 1.25s
+|catchRate = Variable (Increased catch rate with more Pokémon catches)
+|location   = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*[[Repeatball#Dungeons|Dungeons]]
+}}
+
+==Description==
+
+The '''Repeatball''' is a type of [[Pokéballs|Pokéball]]. It automatically tries to catch a wild Pokémon after defeating it if is the highest type of Pokéball active and there is a remaining supply in the Pokéball selector.
+
+==Details==
+
+A specialized Pokéball to capture Pokémon with, it provides an increased catch rate the more a Pokémon is captured. Additionally, catching a Pokémon with the Repeatball yields 5x more EVs.
+
+==Rates==
+
+{| class="wikitable"
+|+ Repeatball Catch Rates
+|-
+! Pokémon Captures !! Catch chance (+%)
+|-
+| 0 || 0 (Equal to Pokéball)
+|-
+| 159 || 5 (Equal to Greatball)
+|-
+| 224 || 10 (Equal to Ultraball)
+|-
+| 274 || 15
+|}
+
+[[File:Repeatball_Catch_Rate_Graph.png|X-axis: Pokémon Captures&lt;br&gt;Y-axis: Catch rate|200px]]
+
+==Acquisition==
+===Dungeons===
+{{Loot/head‎|Pokéballs}}
+{{LootItem|Victory Road Sinnoh|Legendary}}
+{{LootItem|Victory Road Unova|Epic}}
+{{LootItem|Kalos Power Plant|Legendary}}
+{{LootItem|Pokéball Factory|Epic}}
+{{LootItem|Pokémon Village|Epic}}
+{{LootItem|Ula'ula Meadow|Legendary}}
+{{LootItem|Vast Poni Canyon|Epic}}
+|}
+|}
+
+&lt;br&gt;{{Pokéballs}}&lt;br&gt;
+[[Category:Items]] [[Category:Pokéballs]]</text>
+    <contributor>
+      <username>FuzzyBot</username>
+      <id>587</id>
+    </contributor>
+    <comment>Updating to match new version of source page</comment>
+    <model>wikitext</model>
+    <parentid>22680</parentid>
+    <sha1>c866f0165bdaeb3b9366dd81e338ebc6dba6f1a1</sha1>
+  </revision>
+</page></mediawiki>

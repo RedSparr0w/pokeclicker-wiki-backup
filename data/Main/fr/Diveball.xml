@@ -1,0 +1,58 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Diveball/fr</title>
+  <ns>0</ns>
+  <id>8677</id>
+  <revision>
+    <id>28163</id>
+    <timestamp>2022-08-28T20:40:32Z</timestamp>
+    <text space="preserve" bytes="1229">&lt;languages/&gt;
+
+{{Infobox Pokéball
+|name       = Scuba Ball
+|image      = [[File:Diveball.png]]
+|caption    = Image en jeu de la ''Scuba Ball''.
+|price      = Variable
+|catchTime  = 1,25s
+|catchRate = Variable
+*+15% en environnement aquatique
+*+0% partout ailleurs
+|location   = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*[[Diveball/fr#Dungeons|Donjons]]
+}}
+
+==Description==
+
+La '''Scuba Ball''' est un type de [[Pokéballs/fr|Ball]]. Elle est automatiquement lancée pour capturer un Pokémon sauvage après l'avoir mis KO s'il s'agit du plus haut type de Ball actif et qu'il vous en reste dans la fenètre de sélection de Poké Ball.
+
+===Détails===
+
+Une Ball spécialisée pour attraper les Pokémon en milieu aquatique, avec un bonus sur le taux de capture.
+
+===Taux===
+
+==Acquisition==
+===Donjons===
+{{Loot/head‎|Pokéballs}}
+{{LootItem|Aqua Hideout|Planque Aqua|Épique}}
+{{LootItem|Sealed Chamber|Sanctuaire|Épique}}
+{{LootItem|Seaside Cave|Grotte Littorale (Unys)|Épique}}
+{{LootItem|Pokéball Factory|Usine de Poké Balls|Épique}}
+{{LootItem|Seaward Cave|Grotte Verlamer|Épique}}
+{{LootItem|Brooklet Hill|Colline Clapotis|Épique}}
+|}
+|}
+
+&lt;br&gt;{{Pokéballs}}&lt;br&gt;
+[[Category:Items]] [[Category:Pokéballs]]
+[[Category:Objets]]</text>
+    <contributor>
+      <username>PetroleVB</username>
+      <id>619</id>
+    </contributor>
+    <comment>Replaced content with "===Taux==="</comment>
+    <model>wikitext</model>
+    <parentid>28159</parentid>
+    <sha1>c4116bc8966df1bfa0af6867c5b78c0f6b64ba0b</sha1>
+  </revision>
+</page></mediawiki>

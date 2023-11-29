@@ -1,0 +1,283 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Farm Points/en</title>
+  <ns>0</ns>
+  <id>10716</id>
+  <revision>
+    <id>38515</id>
+    <timestamp>2022-10-07T16:40:20Z</timestamp>
+    <text space="preserve" bytes="22669">&lt;languages/&gt;
+[[File:FarmPoint.png|thumb|200px|A Farm Point]]
+
+==Description==
+Farm Points are the brown currency gained by harvesting [[Berries]]  on the [[Farm]]. Berries that wither do not grant farm points, and different types of berries give differing amounts Farm Points as detailed in the [[Farm Points#Berry Farm Point Table|Farm Points Earned]] Table below.&lt;br&gt;  
+
+==Uses==
+Farm Points can be used to purchase the following:
+
+===Pokémon League Items===
+{| class="wikitable" style="text-align: center;"
+! Name !! Starting Price !! Maximum Price !! Description
+|-
+| [[File:Masterball.png|20px]] Masterball || 3,000 {{farmpoints}} || 300,000 {{farmpoints}} || The ultimate Pokéball to capture Pokémon with, it has a 100% catch rate and catches Pokémon in 0.5s.
+|}
+
+===Farm Items===
+[[Farm Items]] purchasable at the [[Berry Master|Berry Masters]].
+{| class="wikitable" style="text-align: center;"
+! Name !! Price !! Description
+|-
+| [[File:Boost_Mulch.png|20px]] Boost Mulch || &lt;center&gt; 50 {{farmpoints}} || Increases Berry growth rate by 50% when applied to a plot occupied by a Berry plant
+|-
+| [[File:Rich_Mulch.png|20px]] Rich Mulch || 100 {{farmpoints}} || Doubles the amount of berries gained from harvesting a ripe Berry plant. Can be applied immediately prior to harvesting a plant to gain the full doubling boost. &lt;br&gt; Doubles replant chance if berry withers while mulched.
+|-
+| [[File:Surprise_Mulch.png|20px]] Surprise Mulch || 150  {{farmpoints}} || Increases the chance of Berry mutations by 50% on any (can be empty or occupied) plot it is applied to
+|-
+| [[File:Amaze_Mulch.png|20px]] Amaze Mulch || 200 {{farmpoints}} || Increases all Berry effects on a plot: &lt;br&gt; - Growth and Mutation rates both boosted by 25% &lt;br&gt; - Harvest rate boosted by 50% &lt;br&gt; - Replant chance boosted by 50%
+|-
+| [[File:Freeze_Mulch.png|20px]] Freeze Mulch || 350 {{farmpoints}} || Stops Berry growth (and withering) timer and aura effect when applied to a plot occupied by a Berry plant.
+|-
+| [[File:Berry_Shovel.png|20px]] Berry Shovel || 300 {{farmpoints}} || Clears an occupied plot instantly. Harvestable plots that are shoveled are harvested and not cleared
+|-
+| [[File:Mulch_Shovel.png|20px]] Mulch Shovel || 300 {{farmpoints}} || Removes Mulch from a plot in the Farm
+|}
+
+===Berries===
+One of some exclusive Berries in [[Challenge Mode|Challenge Modes]].
+{| class="wikitable" style="text-align: center;"
+! Region !! Item Name !! Base Cost
+|-
+| rowspan=4|[[Johto]] (Goldenrod City) || [[File:Chople.png|20px]] [[Chople]] Berry || 10,000 {{farmpoints}} (Must have [[File:Spelon.png|20px]] [[Spelon]] Berry Unlocked) 
+|-
+| [[File:Kebia.png|20px]] [[Kebia]] Berry || 10,000 {{farmpoints}} (Must have [[File:Pamtre.png|20px]] [[Pamtre]] Berry Unlocked)
+|-
+| [[File:Shuca.png|20px]] [[Shuca]] Berry || 10,000 {{farmpoints}} (Must have [[File:Watmel.png|20px]] [[Watmel]] Berry Unlocked) 
+|-
+| [[File:Charti.png|20px]] [[Charti]] Berry || 10,000 {{farmpoints}} (Must have [[File:Cornn.png|20px]] [[Cornn]] Berry Unlocked)
+|}
+
+===Oak Items===
+The one-time purchase and upgrades of the Squirtbottle and Sprinklotad.
+{| class="wikitable" style="text-align: center;"
+|-
+! Name !! Cost || Purchase || Level 1 Upgrade || Level 2 Upgrade || Level 3 Upgrade || Level 4 Upgrade || Level 5 Upgrade
+|-
+| Squirtbottle [[File:Squirtbottle.png|20px]] || 5,000 [[Farming Points]] {{farmpoints}} || [[Towns &amp; Cities#Johto|Goldenrod City]] || 2,000 {{farmpoints}} || 5,000 {{farmpoints}} || 10,000 {{farmpoints}} || 20,000 {{farmpoints}} || 50,000 {{farmpoints}}
+|-
+| Sprinklotad [[File:Sprinklotad.png|20px]] || 10,000 [[Farming Points]] {{farmpoints}} || [[Towns &amp; Cities#Hoenn|Mauville City]] || 2,000 {{farmpoints}} || 5,000 {{farmpoints}} || 10,000 {{farmpoints}} || 20,000 {{farmpoints}} || 50,000 {{farmpoints}}
+|-
+|}
+
+===Farm Hands===
+[[Farm Hand|Farm Hands]] are unlockable and purchasable "Items" that allow the player to automate their farm. Below are the Farm Hands purchasable via Farm Points.
+{| class="wikitable" style="text-align: center;"
+|-
+! Name !! Cost || Purchase Location
+|-
+| Bailey [[File:Bailey.png|20px]] || 50,000 [[Farming Points]] {{farmpoints}} || Johto [[Berry Master]]
+|-
+| Kerry [[File:Kerry.png|20px]] || 100,000 Farming Points {{farmpoints}} || Hoenn Berry Master
+|-
+| Riley [[File:Riley.png|20px]] || 200,000 Farming Points {{farmpoints}} || Sinnoh Berry Master 
+|}
+Once hired, farm hands will work until they are fired for an hourly wage. Below are the hourly wages per Farm Hand.
+{| class="wikitable" style="text-align: center;"
+|-
+! Name !! Hourly Wage
+|-
+| Alex [[File:Alex.png|20px]] || 140 {{farmpoints}}
+|-
+| Logan [[File:Logan.png|20px]] || 440 {{farmpoints}}
+|-
+| Joey [[File:Joey.png|20px]] || 630 {{farmpoints}}
+|-
+| Charlie [[File:Charlie.png|20px]] || 910 {{farmpoints}}
+|-
+| Bailey [[File:Bailey.png|20px]] || 1,300 {{farmpoints}}
+|-
+| Kerry [[File:Kerry.png|20px]] || 1,900 {{farmpoints}}
+|-
+| Riley [[File:Riley.png|20px]] || 4,000 {{farmpoints}}
+|-
+| Jamie [[File:Jamie.png|20px]] || 4,000 {{farmpoints}}
+|-
+| Jessie [[File:Jessie.png|20px]] || 8,300 {{farmpoints}}
+|}
+
+===Shopmon===
+{| class="wikitable" style="text-align: center;"
+|-
+! Shop !! Token !! Pokémon !! Cost
+|- 
+| [[Shops#Friseur Furfrou|Friseur Furfrou (Kalos)]] || [[File:Furfrou_(Matron)_Shuffle.png|30px]] || [[File:Furfrou_(Matron).png|40px]]Furfrou (Matron) || 1,500,000 {{farmpoints}}
+|}
+
+==Obtaining Farm Points==
+
+&lt;b&gt;&lt;big&gt;Note:&lt;/b&gt;&lt;/big&gt; The three most efficient Berries to gather Farm Points quickly (excluding late-game berries when gathering Farm Points is largely irrelevant) are, in order:
+#[[Lum]] [[File:Lum.png|25px]]
+#[[Hondew]] [[File:Hondew.png|25px]]
+#[[Pinkan]] [[File:Pinkan.png|25px]]
+
+The Farm Points per Second column in [[Farm Points#Berry Farm Point Table|the following table]] can be used for other Berry efficiency comparisons.
+
+====Earning Farm Points with Farm Hands====
+While there is no efficient way to earn Farm Points (FP) with Farm Hands when using the [[Cheri]] berrry, you can use farmhands to earn FP efficiently when farming either [[Lum]] or [[Hondew]] Berries.  For farming Lum without the [[sprayduck]], the most efficient Farm Hand to use is Bailey.  With the [[sprayduck]], Kerry is most efficient.  For Hondew, regardless of using the sprayduck or not, Charlie is the most efficient Farm Hand.  The method of farming with farmhands is pretty simple, though there are two different methods to do so.
+
+Set and Forget - set the Farm Hand to use the proper berry, fill the farm with the chosen berry, ignore the farm until you have sufficient FP.  This method is fast and easy, but loses efficiency as the Farmhands will leave empty plots on the farm between harvesting and planting berries (Farm Hands first attempt to harvest as many berries as they can, and then plant new berries if there are no berries left to harvest).
+
+Maximum Efficiency - Set the Farm Hand to use the proper berry, plant the Farm Hands' Efficiency stat / 2 number of berries as a group at a time, each grouping being at least the Farmhands Work Speed stat apart.  This setup takes a bit of time, but earns you more FP per hour, and once the setup is done you can ignore the farm until you have sufficient FP.  This will lead to the farmhand harvesting and replanting the berry grouping as soon as they can, earning more FP with less wasted time.  For example, using Bailey while farming Lum, plant groups of up to 6 berries at a time, each 5 minutes or more apart for maximum efficiency.
+
+==Berry Farm Point Table==
+{| class="wikitable sortable"
+|-
+! Berry !! Farm Points&lt;br&gt;per Second !! Total berries&lt;br&gt;per harvest !! Total Farm Point&lt;br&gt;per harvest !! Total time till ripe&lt;br&gt;(hh:mm:ss)
+|-
+| [[File:Yache.png|25px]] [[Yache]] || style="text-align:right" | 0.034 {{farmpoints}} || style="text-align:right" | 25 berries || style="text-align:right" | 1,500 {{farmpoints}} || style="text-align:right" | 12:00:00
+|-
+| [[File:Babiri.png|25px]] [[Babiri]] || style="text-align:right" | 0.037 {{farmpoints}} || style="text-align:right" | 36 berries || style="text-align:right" | 2,400 {{farmpoints}} || style="text-align:right" | 18:00:00
+|-
+| [[File:Leppa.png|25px]] [[Leppa]] || style="text-align:right" | 0.041 {{farmpoints}} || style="text-align:right" | 7 berries || style="text-align:right" | 10 {{farmpoints}} || style="text-align:right" | 0:04:00 
+|-
+| [[File:Shuca.png|25px]]  [[Shuca]] || style="text-align:right" | 0.042 {{farmpoints}} || style="text-align:right" | 28 berries || style="text-align:right" | 1,700 {{farmpoints}} || style="text-align:right" | 11:00:00
+|-
+| [[File:Chople.png|25px]] [[Chople]] || style="text-align:right" | 0.044 {{farmpoints}} || style="text-align:right" | 26 berries || style="text-align:right" | 1,600 {{farmpoints}} || style="text-align:right" | 10:00:00
+|-
+| [[File:Haban.png|25px]] [[Haban]] || style="text-align:right" | 0.046 {{farmpoints}} || style="text-align:right" | 34 berries || style="text-align:right" | 4,000 {{farmpoints}} || style="text-align:right" | 24:00:00
+|-
+| [[File:Durin.png|25px]] [[Durin]] || style="text-align:right" | 0.048 {{farmpoints}} || style="text-align:right" | 33 berries || style="text-align:right" | 1,050 {{farmpoints}} || style="text-align:right" | 6:00:00
+|-
+| [[File:Rindo.png|25px]] [[Rindo]] || style="text-align:right" | 0.048 {{farmpoints}} || style="text-align:right" | 24 berries || style="text-align:right" | 1,400 {{farmpoints}} || style="text-align:right" | 8:00:00
+|-
+| [[File:Sitrus.png|25px]] [[Sitrus]] || style="text-align:right" | 0.050 {{farmpoints}} || style="text-align:right" | 9 berries || style="text-align:right" | 30 {{farmpoints}} || style="text-align:right" | 0:10:00
+|-
+| [[File:Magost.png|25px]] [[Magost]] || style="text-align:right" | 0.052 {{farmpoints}} || style="text-align:right" | 27 berries || style="text-align:right" | 750 {{farmpoints}} || style="text-align:right" | 4:00:00
+|-
+| [[File:Pamtre.png|25px]] [[Pamtre]] || style="text-align:right" | 0.052 {{farmpoints}} || style="text-align:right" | 31 berries || style="text-align:right" | 950 {{farmpoints}} || style="text-align:right" | 5:00:00
+|-
+| [[File:Charti.png|25px]] [[Charti]] || style="text-align:right" | 0.052 {{farmpoints}} || style="text-align:right" | 32 berries || style="text-align:right" | 2,000 {{farmpoints}} || style="text-align:right" | 10:30:00
+|-
+| [[File:Occa.png|25px]] [[Occa]] || style="text-align:right" | 0.054 {{farmpoints}} || style="text-align:right" | 21 berries || style="text-align:right" | 1,200 {{farmpoints}} || style="text-align:right" | 6:06:00
+|-
+| [[File:Belue.png|25px]] [[Belue]] || style="text-align:right" | 0.055 {{farmpoints}} || style="text-align:right" | 20 berries || style="text-align:right" | 1,100 {{farmpoints}} || style="text-align:right" | 5:30:00
+|-
+| [[File:Payapa.png|25px]] [[Payapa]] || style="text-align:right" | 0.055 {{farmpoints}} || style="text-align:right" | 30 berries || style="text-align:right" | 1,900 {{farmpoints}} || style="text-align:right" | 9:30:00
+|-
+| [[File:Nomel.png|25px]] [[Nomel]] || style="text-align:right" | 0.056 {{farmpoints}} || style="text-align:right" | 29 berries || style="text-align:right" | 850 {{farmpoints}} || style="text-align:right" | 4:12:00
+|-
+| [[File:Liechi.png|25px]] [[Liechi]] || style="text-align:right" | 0.057 {{farmpoints}} || style="text-align:right" | 0.5 berries || style="text-align:right" | 10,000 {{farmpoints}} || style="text-align:right" | 48:00:00
+|-
+| [[File:Ganlon.png|25px]] [[Ganlon]] || style="text-align:right" | 0.057 {{farmpoints}} || style="text-align:right" | 0.5 berries || style="text-align:right" | 10,000 {{farmpoints}} || style="text-align:right" | 48:00:00
+|-
+| [[File:Salac.png|25px]] [[Salac]] || style="text-align:right" | 0.057 {{farmpoints}} || style="text-align:right" | 0.5 berries || style="text-align:right" | 10,000 {{farmpoints}} || style="text-align:right" | 48:00:00
+|-
+| [[File:Spelon.png|25px]] [[Spelon]] || style="text-align:right" | 0.058 {{farmpoints}} || style="text-align:right" | 30 berries || style="text-align:right" | 900 {{farmpoints}} || style="text-align:right" | 4:18:00
+|-
+| [[File:Razz.png|25px]] [[Razz]] || style="text-align:right" | 0.060 {{farmpoints}} || style="text-align:right" | 7 berries || style="text-align:right" | 15 {{farmpoints}} || style="text-align:right" | 0:04:10
+|-
+| [[File:Passho.png|25px]] [[Passho]] || style="text-align:right" | 0.060 {{farmpoints}} || style="text-align:right" | 22 berries || style="text-align:right" | 1,300 {{farmpoints}} || style="text-align:right" | 6:00:00
+|-
+| [[File:Watmel.png|25px]] [[Watmel]] || style="text-align:right" | 0.060 {{farmpoints}} || style="text-align:right" | 32 berries || style="text-align:right" | 1,000 {{farmpoints}} || style="text-align:right" | 4:36:00
+|-
+| [[File:Bluk.png|25px]] [[Bluk]] || style="text-align:right" | 0.060 {{farmpoints}} || style="text-align:right" | 9 berries || style="text-align:right" | 20 {{farmpoints}} || style="text-align:right" | 0:05:30
+|-
+| [[File:Rabuta.png|25px]] [[Rabuta]] || style="text-align:right" | 0.065 {{farmpoints}} || style="text-align:right" | 28 berries || style="text-align:right" | 600 {{farmpoints}} || style="text-align:right" | 3:24:00
+|-
+| [[File:Oran.png|25px]] [[Oran]] || style="text-align:right" | 0.066 {{farmpoints}} || style="text-align:right" | 8 berries || style="text-align:right" | 20 {{farmpoints}} || style="text-align:right" | 0:05:00
+|-
+| [[File:Chilan.png|25px]] [[Chilan]] || style="text-align:right" | 0.069 {{farmpoints}} || style="text-align:right" | 10 berries || style="text-align:right" | 500 {{farmpoints}} || style="text-align:right" | 2:00:00
+|-
+| [[File:Tamato.png|25px]] [[Tamato]] || style="text-align:right" | 0.072 {{farmpoints}} || style="text-align:right" | 25 berries || style="text-align:right" | 625 {{farmpoints}} || style="text-align:right" | 2:24:00
+|-
+| [[File:Wepear.png|25px]] [[Wepear]] || style="text-align:right" | 0.075 {{farmpoints}} || style="text-align:right" | 12 berries || style="text-align:right" | 30 {{farmpoints}} || style="text-align:right" | 0:06:40
+|-
+| [[File:Maranga.png|25px]] [[Maranga]] || style="text-align:right" | 0.076 {{farmpoints}} || style="text-align:right" | 1 berries || style="text-align:right" | 3,100 {{farmpoints}} || style="text-align:right" | 11:12:00
+|-
+| [[File:Cornn.png|25px]] [[Cornn]] || style="text-align:right" | 0.077 {{farmpoints}} || style="text-align:right" | 26 berries || style="text-align:right" | 700 {{farmpoints}} || style="text-align:right" | 2:30:00
+|-
+| [[File:Aspear.png|25px]] [[Aspear]] || style="text-align:right" | 0.081 {{farmpoints}} || style="text-align:right" | 6 berries || style="text-align:right" | 9 {{farmpoints}} || style="text-align:right" | 0:02:00
+|-
+| [[File:Micle.png|25px]] [[Micle]] || style="text-align:right" | 0.082 {{farmpoints}} || style="text-align:right" | 1 berries || style="text-align:right" | 2,600 {{farmpoints}} || style="text-align:right" | 8:48:00
+|-
+| [[File:Kee.png|25px]] [[Kee]] || style="text-align:right" | 0.082 {{farmpoints}} || style="text-align:right" | 1 berries || style="text-align:right" | 3,000 {{farmpoints}} || style="text-align:right" | 10:06:00
+|-
+| [[File:Grepa.png|25px]] [[Grepa]] || style="text-align:right" | 0.083 {{farmpoints}} || style="text-align:right" | 24 berries || style="text-align:right" | 600 {{farmpoints}} || style="text-align:right" | 2:00:00
+|-
+| [[File:Kebia.png|25px]] [[Kebia]] || style="text-align:right" | 0.083 {{farmpoints}}|| style="text-align:right" | 1 berries || style="text-align:right" | 50 {{farmpoints}} || style="text-align:right" | 0:10:00
+|-
+| [[File:Kasib.png|25px]] [[Kasib]] || style="text-align:right" | 0.083 {{farmpoints}} || style="text-align:right" | 1 berries || style="text-align:right" | 25 {{farmpoints}} || style="text-align:right" | 0:05:00
+|-
+| [[File:Jaboca.png|25px]] [[Jaboca]] || style="text-align:right" | 0.083 {{farmpoints}}|| style="text-align:right" | 1 berries || style="text-align:right" | 2,800 {{farmpoints}} || style="text-align:right" | 9:18:00
+|-
+| [[File:Colbur.png|25px]] [[Colbur]] || style="text-align:right" | 0.085 {{farmpoints}}|| style="text-align:right" | 35 berries || style="text-align:right" | 2,300 {{farmpoints}} || style="text-align:right" | 7:30:00
+|-
+| [[File:Kelpsy.png|25px]] [[Kelpsy]] || style="text-align:right" | 0.087 {{farmpoints}}|| style="text-align:right" | 21 berries || style="text-align:right" | 525 {{farmpoints}} || style="text-align:right" | 1:40:00
+|-
+| [[File:Coba.png|25px]] [[Coba]] || style="text-align:right" | 0.090 {{farmpoints}}|| style="text-align:right" | 29 berries || style="text-align:right" | 1,800 {{farmpoints}} || style="text-align:right" | 5:30:00
+|-
+| [[File:Pomeg.png|25px]] [[Pomeg]] || style="text-align:right" | 0.092 {{farmpoints}}|| style="text-align:right" | 20 berries || style="text-align:right" | 500 {{farmpoints}} || style="text-align:right" | 1:30:00
+|-
+| [[File:Custap.png|25px]] [[Custap]] || style="text-align:right" | 0.098 {{farmpoints}}|| style="text-align:right" | 1 berries || style="text-align:right" | 2,700 {{farmpoints}} || style="text-align:right" | 7:36:00
+|-
+| [[File:Roseli.png|25px]] [[Roseli]] || style="text-align:right" | 0.099 {{farmpoints}}|| style="text-align:right" | 38 berries || style="text-align:right" | 2,500 {{farmpoints}} || style="text-align:right" | 7:00:00
+|-
+| [[File:Rawst.png|25px]] [[Rawst]] || style="text-align:right" | 0.100 {{farmpoints}} || style="text-align:right" | 5 berries || style="text-align:right" | 8 {{farmpoints}} || style="text-align:right" | 0:01:20
+|-
+| [[File:Nanab.png|25px]] [[Nanab]] || style="text-align:right" | 0.100 {{farmpoints}}|| style="text-align:right" | 11 berries || style="text-align:right" | 25 {{farmpoints}} || style="text-align:right" | 0:04:10
+|-
+| [[File:Persim.png|25px]] [[Persim]] || style="text-align:right" | 0.111 {{farmpoints}}|| style="text-align:right" | 5 berries || style="text-align:right" | 10 {{farmpoints}} || style="text-align:right" | 0:01:30
+|-
+| [[File:Figy.png|25px]] [[Figy]] || style="text-align:right" | 0.114 {{farmpoints}}|| style="text-align:right" | 14 berries || style="text-align:right" | 40 {{farmpoints}} || style="text-align:right" | 0:05:50
+|-
+| [[File:Qualot.png|25px]] [[Qualot]] || style="text-align:right" | 0.114 {{farmpoints}}|| style="text-align:right" | 22 berries || style="text-align:right" | 550 {{farmpoints}} || style="text-align:right" | 1:20:00
+|-
+| [[File:Pecha.png|25px]] [[Pecha]] || style="text-align:right" | 0.116 {{farmpoints}} || style="text-align:right" | 4 berries || style="text-align:right" | 7 {{farmpoints}} || style="text-align:right" | 0:01:00
+|-
+| [[File:Wiki.png|25px]] [[Wiki]] || style="text-align:right" | 0.125 {{farmpoints}} || style="text-align:right" | 15 berries || style="text-align:right" | 45 {{farmpoints}} || style="text-align:right" | 0:06:00
+|-
+| [[File:Mago.png|25px]] [[Mago]] || style="text-align:right" | 0.135 {{farmpoints}} || style="text-align:right" | 16 berries || style="text-align:right" | 50 {{farmpoints}} || style="text-align:right" | 0:06:10
+|-
+| [[File:Rowap.png|25px]] [[Rowap]] || style="text-align:right" | 0.136 {{farmpoints}} || style="text-align:right" | 1 berries || style="text-align:right" | 2,900 {{farmpoints}} || style="text-align:right" | 5:54:00
+|-
+| [[File:Wacan.png|25px]] [[Wacan]] || style="text-align:right" | 0.138 {{farmpoints}} || style="text-align:right" | 2 berries || style="text-align:right" | 250 {{farmpoints}} || style="text-align:right" | 0:30:00
+|-
+| [[File:Tanga.png|25px]] [[Tanga]] || style="text-align:right" | 0.138 {{farmpoints}} || style="text-align:right" | 3 berries || style="text-align:right" | 500 {{farmpoints}} || style="text-align:right" | 1:00:00
+|-
+| [[File:Pinap.png|25px]] [[Pinap]] || style="text-align:right" | 0.145 {{farmpoints}} || style="text-align:right" | 13 berries || style="text-align:right" | 35 {{farmpoints}} || style="text-align:right" | 0:04:00 
+|-
+| [[File:Chesto.png|25px]] [[Chesto]] || style="text-align:right" | 0.150 {{farmpoints}} || style="text-align:right" | 3 berries || style="text-align:right" | 6 {{farmpoints}} || style="text-align:right" | 0:00:40
+|-
+| [[File:Aguav.png|25px]] [[Aguav]] || style="text-align:right" | 0.157 {{farmpoints}} || style="text-align:right" | 17 berries || style="text-align:right" | 55 {{farmpoints}} || style="text-align:right" | 0:05:50
+|-
+| [[File:Iapapa.png|25px]] [[Iapapa]] || style="text-align:right" | 0.157 {{farmpoints}} || style="text-align:right" | 18 berries || style="text-align:right" | 60 {{farmpoints}} || style="text-align:right" | 0:06:20
+|-
+| [[File:Cheri.png|25px]] [[Cheri]] || style="text-align:right" | 0.166 {{farmpoints}} || style="text-align:right" | 2 berries || style="text-align:right" | 5 {{farmpoints}} || style="text-align:right" | 0:00:30
+|-
+| [[File:Pinkan.png|25px]] [[Pinkan]] || style="text-align:right" | 0.173 {{farmpoints}} || style="text-align:right" | 3 berries || style="text-align:right" | 2,500 {{farmpoints}} || style="text-align:right" | 4:00:00
+|-
+| [[File:Petaya.png|25px]] [[Petaya]] || style="text-align:right" | 0.173 {{farmpoints}} || style="text-align:right" | 0.5 berries || style="text-align:right" | 15,000 {{farmpoints}} || style="text-align:right" | 24:00:00
+|-
+| [[File:Apicot.png|25px]] [[Apicot]] || style="text-align:right" | 0.173 {{farmpoints}} || style="text-align:right" | 0.5 berries || style="text-align:right" | 15,000 {{farmpoints}} || style="text-align:right" | 24:00:00
+|-
+| [[File:Lansat.png|25px]] [[Lansat]] || style="text-align:right" | 0.173 {{farmpoints}} || style="text-align:right" | 0.5 berries || style="text-align:right" | 15,000 {{farmpoints}} || style="text-align:right" | 24:00:00
+|-
+| [[File:Starf.png|25px]] [[Starf]] || style="text-align:right" | 0.173 {{farmpoints}} || style="text-align:right" | 0.5 berries || style="text-align:right" | 15,000 {{farmpoints}} || style="text-align:right" | 24:00:00
+|-
+| [[File:Enigma.png|25px]] [[Enigma]] || style="text-align:right" | 0.173 {{farmpoints}} || style="text-align:right" | 0.5 berries || style="text-align:right" | 15,000 {{farmpoints}} || style="text-align:right" | 24:00:00
+|-
+| [[File:Hondew.png|25px]] [[Hondew]] || style="text-align:right" | 0.185 {{farmpoints}} || style="text-align:right" | 23 berries || style="text-align:right" | 2,000 {{farmpoints}} || style="text-align:right" | 3:00:00
+|-
+| [[File:Lum.png|25px]] [[Lum]] || style="text-align:right" | 0.277 {{farmpoints}} || style="text-align:right" | 1 berries || style="text-align:right" | 1,000 {{farmpoints}} || style="text-align:right" | 1:00:00
+|-
+|}
+[[Category:Farm]][[Category:Currencies]]</text>
+    <contributor>
+      <username>FuzzyBot</username>
+      <id>587</id>
+    </contributor>
+    <comment>Updating to match new version of source page</comment>
+    <model>wikitext</model>
+    <parentid>27833</parentid>
+    <sha1>334edf4050850f07b295244c9df2a0ee45b52425</sha1>
+  </revision>
+</page></mediawiki>

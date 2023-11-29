@@ -1,0 +1,271 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Berries/fr</title>
+  <ns>0</ns>
+  <id>5244</id>
+  <revision>
+    <id>39309</id>
+    <timestamp>2022-10-13T08:11:05Z</timestamp>
+    <text space="preserve" bytes="28139">&lt;languages/&gt;
+Les '''Baies''' peuvent être cultivées dans la [[Farm|Ferme]] pour obtenir des [[Farming Points|Points de récolte]]. Vous pouvez échanger certaines baies pour des [[Masterball|Master Ball]], des [[Protein|Protéines]] et autres [[Evolution Items|Objets d'évolution]] dans les boutiques d'échange des [[Berry Master|Maîtres des baies]].
+Le [[Sprayduck|Kwakarrosoir]], le [[Squirtbottle|Carapuce à O]] et le [[Sprinklotad|Nénurrosoir]] sont des Objets de Chen qui accélèrent ou améliorent le processus de culture des baies.
+
+Certaines baies nécessitent une mutation ou de planter des baies selon certaines conditions afin d'être débloquées. Le [[Berry Master|Maître des Baies]] d'Azuria à [[Kanto]] donne des indices sur la manière de déclencher des mutations.
+Toutes les baies peuvent muter lorsqu'elles ont atteint le stade d'arbuste. Certaines mutations dépendent des profils de saveurs, de certains types spécifiques de baies, ou d'autres facteurs pouvant être extérieurs à la Ferme.
+
+Les fermes contenant au moins une baie mûre peuvent attirer des [[Wandering Pokémon|Pokémon Errants]] qui sont automatiquement capturés sans l'utilisation d'une Ball. Certaines baies peuvent attirer des Pokémon rares et peuvent ainsi être utilisées stratégiquement pour compléter le Pokédex. Les Pokémon Errants peuvent également être [[Shiny Chance|chromatiques]]. Attirer un Pokémon Errant chromatique avec une parcelle vide dans la ferme est la condition pour faire apparaître la [[Starf|Frista]] dans la ferme (dans l'une des parcelles vides).
+
+[https://docs.google.com/document/d/1TE5cAKSlA7TAliA001_mIiO1odZ6e4yUEMre0GBW1to/edit?usp=sharing Voici un guide] pour débloquer toutes les parcelles dans la Ferme.
+
+&lt;span id="Growth_Charts"&gt;&lt;/span&gt;
+=Tableaux de croissance=
+
+Les baies peuvent commencer à muter une fois qu'elles ont atteint le stade de Baie (mûre) jusqu'à leur flétrissement. Pour les mutations demandant des prérequis de saveurs, la mutation peut intervenir à n'importe quel moment dès que les conditions sont réunies (les baies ont 0,5x saveur au stade "Arbuste", 0,75x saveur au stade "Fleuri" et 1x saveur au stade "Mûr"). Si les conditions pour plusieurs mutations sont réunies simultanément, la mutation déclenchée sera aléatoire.
+
+&lt;span id="Gen_1_Berries"&gt;&lt;/span&gt;
+====Baies de Gen 1====
+
+{|class="wikitable sortable"
+|-
+! N° Dex !! Baies !! Quantité&lt;br&gt;Récoltée !! Point de&lt;br&gt;Récolte !! Temps de croissance !! Obtention
+|-
+| #1 [[File:Cheri.png|25px]] || [[Cheri/fr|Ceriz]] ||  style="text-align:right" | 2 || style="text-align:right" | 5 {{farmpoints}}|| 30 s à maturité &lt;br&gt;30 s au flétrissement || rowspan="8" | Obtenue aléatoirement après avoir vaincu un Pokémon sur une route
+|-
+| #2 [[File:Chesto.png|25px]] || [[Chesto/fr|Maron]] ||  style="text-align:right" | 3 || style="text-align:right" | 6 {{farmpoints}}|| 40 s à maturité&lt;br&gt;40 s au flétrissement
+|-
+| #3 [[File:Pecha.png|25px]] || [[Pecha/fr|Pêcha]] ||  style="text-align:right" | 4 || style="text-align:right" | 7 {{farmpoints}}|| 1 min à maturité&lt;br&gt;1 min au flétrissement
+|-
+| #4 [[File:Rawst.png|25px]] || [[Rawst/fr|Fraive]] ||  style="text-align:right" | 5 || style="text-align:right" | 8 {{farmpoints}}|| 1 min 20 s à maturité&lt;br&gt;1 min 20 s au flétrissement
+|-
+| #5 [[File:Aspear.png|25px]] || [[Aspear/fr|Willia]] ||  style="text-align:right" | 6 || style="text-align:right" | 9 {{farmpoints}}|| 2 min à maturité&lt;br&gt;2 min au flétrissement
+|-
+| #6 [[File:Leppa.png|25px]] || [[Leppa/fr|Mepo]] ||  style="text-align:right" | 7 || style="text-align:right" | 10 {{farmpoints}}|| 4 min à maturité&lt;br&gt;4 min au flétrissement
+|-
+| #7 [[File:Oran.png|25px]] || [[Oran/fr|Oran]] ||  style="text-align:right" | 8 || style="text-align:right" | 20 {{farmpoints}}|| 5 min à maturité&lt;br&gt;5 min au flétrissement
+|-
+| #8 [[File:Sitrus.png|25px]] || [[Sitrus/fr|Sitrus]] ||  style="text-align:right" | 9 || style="text-align:right" | 30 {{farmpoints}}|| 10 min à maturité&lt;br&gt;10 min au flétrissement
+|-
+|}
+
+&lt;span id="Gen_2_Berries"&gt;&lt;/span&gt;
+====Baies de Gen 2====
+
+{|class="wikitable sortable"
+|-
+! N° Dex !! Baie !! Quantité&lt;br&gt;Récoltée !! Points de&lt;br&gt;Récolte !! Temps de croissance !! Obtention!! Capacité spéciale
+|-
+| #9 [[File:Persim.png|25px]] || [[Persim/fr|Kika]] ||  style="text-align:right" | 5  || style="text-align:right" | 10 {{farmpoints}}|| 1 min 30 s à maturité&lt;br&gt;1 min 30 s au flétrissement|| Faire pousser des baies Pêcha et Oran près d'une parcelle vide || N/A
+|-
+| #10 [[File:Razz.png|25px]] || [[Razz/fr|Framby]] ||  style="text-align:right" | 7  || style="text-align:right" | 15 {{farmpoints}}|| 4 min 10 s à maturité&lt;br&gt;4 min 10 s au flétrissement|| Faire pousser des baies Ceriz et Mepo près d'une parcelle vide|| N/A
+|-
+| #11 [[File:Bluk.png|25px]] || [[Bluk/fr|Remu]] ||  style="text-align:right" | 9  || style="text-align:right" | 20 {{farmpoints}}|| 5 min 30 s à maturité&lt;br&gt;5 min 30 s au flétrissement|| Faire pousser des baies Maron et Mepo près d'une parcelle vide|| N/A
+|-
+| #12 [[File:Nanab.png|25px]] || [[Nanab/fr|Nanab]] ||  style="text-align:right" | 11  || style="text-align:right" | 25 {{farmpoints}}|| 4 min 10 s à maturité&lt;br&gt;4 min 10 s au flétrissement|| Faire pousser des baies Pêcha et Willia près d'une parcelle vide|| N/A
+|-
+| #13 [[File:Wepear.png|25px]] || [[Wepear/fr|Repoi]] ||  style="text-align:right" | 12  || style="text-align:right" | 30 {{farmpoints}}|| 6 min 40 s à maturité&lt;br&gt;6 min 40 s au flétrissement|| Faire pousser des baies Fraive et Oran près d'une parcelle vide || N/A
+|-
+| #14 [[File:Pinap.png|25px]] || [[Pinap/fr|Nanana]] ||  style="text-align:right" | 13  || style="text-align:right" | 35 {{farmpoints}}|| 4 min à maturité&lt;br&gt;4 min au flétrissement|| Faire pousser des baies Sitrus et Willia près d'une parcelle vide || N/A
+|-
+| #15 [[File:Figy.png|25px]] || [[Figy/fr|Figuy]] ||  style="text-align:right" | 14  || style="text-align:right" | 40 {{farmpoints}}|| 5 min 50 s à maturité&lt;br&gt;5 min 50 s au flétrissement || Entourer une parcelle vide avec 25-80 points de saveur Epicée&lt;br&gt;et ≤ 5 d'autres saveurs (la baie Ceriz est nécessaire au déblocage) || N/A
+|-
+| #16 [[File:Wiki.png|25px]] || [[Wiki/fr|Wiki]] ||  style="text-align:right" | 15  || style="text-align:right" | 45 {{farmpoints}}|| 6 min à maturité&lt;br&gt;6 min au flétrissement|| Entourer une parcelle vide avec 25-80 points de saveur Sèche&lt;br&gt;et ≤ 5 d'autres saveurs (la baie Maron est nécessaire au déblocage) || N/A
+|-
+| #17 [[File:Mago.png|25px]] || [[Mago/fr|Mago]] ||  style="text-align:right" | 16  || style="text-align:right" | 50 {{farmpoints}} || 6 min 10 s à maturité&lt;br&gt;6 min 10 s au flétrissement|| Entourer une parcelle vide avec 25-80 points de saveur Sucrée&lt;br&gt;et ≤ 5 d'autres saveurs (la baie Pêcha est nécessaire au déblocage) || N/A
+|-
+| #18 [[File:Aguav.png|25px]] || [[Aguav/fr|Gowav]] ||  style="text-align:right" | 17  || style="text-align:right" | 55 {{farmpoints}} || 5 min 50 s à maturité&lt;br&gt;5 min 50 s au flétrissement || Entourer une parcelle vide avec 25-80 points de saveur Amère&lt;br&gt;et ≤ 5 d'autres saveurs (la baie Fraive est nécessaire au déblocage) || N/A
+|-
+| #19 [[File:Iapapa.png|25px]] || [[Iapapa/fr|Papaya]] ||  style="text-align:right" | 18  || style="text-align:right" | 60 {{farmpoints}} || 6 min 20 s à maturité&lt;br&gt;6 min 20 s au flétrissement|| Entourer une parcelle vide avec 25-80 points de saveur Acide&lt;br&gt;et ≤ 5 d'autres saveurs (la baie Willia est nécessaire au déblocage) || N/A
+|-
+| #20 [[File:Lum.png|25px]] || [[Lum/fr|Prine]] ||  style="text-align:right" | 1  || style="text-align:right" | 540 {{farmpoints}} || 1 h à maturité&lt;br&gt;11 h au flétrissement|| Entourer une parcelle vide avec les 8 baies de Génération 1 ||  Boost d'Aura ↑
+|}
+
+&lt;span id="Gen_3_Berries"&gt;&lt;/span&gt;
+==== Baies de Gen 3 ====
+
+{|class="wikitable sortable"
+|-
+! N° Dex !! Baie !! Quantité&lt;br&gt;Récoltée  !! Points de&lt;br&gt;récolte !! Temps de croissance !! Obtention !! Capacité spéciale
+|-
+| #21 [[File:Pomeg.png|25px]] || [[Pomeg/fr|Grena]] ||  style="text-align:right" | 20 || style="text-align:right" | 500 {{farmpoints}} || 1 h 30 min à maturité&lt;br&gt;1 h 30 min au flétrissement|| Faire pousser des baies Papaya et Mago près d’une parcelle vide || N/A
+|-
+| #22 [[File:Kelpsy.png|25px]] || [[Kelpsy/fr|Alga]] ||  style="text-align:right" | 21 || style="text-align:right" | 525 {{farmpoints}} || 1 h 40 min à maturité&lt;br&gt;1 h 40 min au flétrissement || Faire pousser des baies Maron et Kika près d’une parcelle vide || N/A
+|-
+| #23 [[File:Qualot.png|25px]] || [[Qualot/fr|Qualot]] ||  style="text-align:right" | 22 || style="text-align:right" | 550 {{farmpoints}} || 1 h 20 min à maturité&lt;br&gt;1 h 20 min au flétrissement || Entourer une parcelle vide avec 10-15 points de saveur Épicée, Sucrée et Acide&lt;br&gt;et 0 de toutes autres saveurs (les baies Ceriz, Pêcha, et Willia sont nécessaires au déblocage) || N/A
+|-
+| #24 [[File:Hondew.png|25px]] || [[Hondew/fr|Lonme]] ||  style="text-align:right" | 23 || style="text-align:right" | 2 000 {{farmpoints}} || 3 h à maturité&lt;br&gt;3 h au flétrissement || Entourer une parcelle vide avec exactement 15 points de saveur Épicée, Sèche et Amère&lt;br&gt;et 0 de toutes autres saveurs (les baies Figuy, Wiki, and Gowav sont nécessaires au déblocage) || N/A
+|-
+| #25 [[File:Grepa.png|25px]] || [[Grepa/fr|Résin]] ||  style="text-align:right" | 24 || style="text-align:right" | 600 {{farmpoints}} || 2 h à maturité&lt;br&gt;2 h au flétrissement || Faire pousser des baies Gowav et Figuy près d’une parcelle vide|| N/A
+|-
+| #26 [[File:Tamato.png|25px]] || [[Tamato/fr|Tamato]] ||  style="text-align:right" | 25 || style="text-align:right" | 625 {{farmpoints}} || 2 h 24 min à maturité&lt;br&gt;2 h 24 min au flétrissement || Faire pousser une baie Grena près d’une baie Framby|| N/A
+|-
+| #27 [[File:Cornn.png|25px]] || [[Cornn/fr|Siam]] ||  style="text-align:right" | 26 || style="text-align:right" | 700 {{farmpoints}} || 2 h 30 min à maturité&lt;br&gt;2 h 30 min au flétrissement || Faire pousser des baies Mepo, Remu, et Wiki près d’une parcelle vide || N/A
+|-
+| #28 [[File:Magost.png|25px]] || [[Magost/fr|Mangou]] ||  style="text-align:right" | 27 || style="text-align:right" | 750 {{farmpoints}} || 4 h à maturité&lt;br&gt;4 h au flétrissement || Faire pousser des baies Pêcha, Nanab, et Mago près d’une parcelle vide || N/A
+|-
+| #29 [[File:Rabuta.png|25px]] || [[Rabuta/fr|Rabuta]] ||  style="text-align:right" | 28 || style="text-align:right" | 800 {{farmpoints}} || 3 h 24 min à maturité&lt;br&gt;3 h 24 min au flétrissement || Faire pousser une baie Gowav près d’une baie Willia|| N/A
+|-
+| #30 [[File:Nomel.png|25px]] || [[Nomel/fr|Tronci]] ||  style="text-align:right" | 29 || style="text-align:right" | 850 {{farmpoints}} || 4 h 12 min à maturité&lt;br&gt;4 h 12 min au flétrissement || Faire pousser une baie Nanana près d’une parcelle vide || N/A
+|-
+| #31 [[File:Spelon.png|25px]] || [[Spelon/fr|Kiwan]] ||  style="text-align:right" | 30 || style="text-align:right" | 900 {{farmpoints}} || 4 h 18 min à maturité&lt;br&gt;4 h 18 min au flétrissement || Entourer une baie Tamato avec 130-160 points de saveur Épicée&lt;br&gt;et ≤ 80 points de toutes autres saveurs|| N/A
+|-
+| #32 [[File:Pamtre.png|25px]] || [[Pamtre/fr|Palma]] ||  style="text-align:right" | 31 || style="text-align:right" | 950 {{farmpoints}} || 5 h à maturité&lt;br&gt;5 h au flétrissement || Entourer une baie Siam avec 130-160 points de saveur Sèche&lt;br&gt;et ≤ 80 points de toutes autres saveurs || Engrais (s’étend aux parcelles environnantes)
+|-
+| #33 [[File:Watmel.png|25px]] || [[Watmel/fr|Stekpa]] ||  style="text-align:right" | 32 || style="text-align:right" | 1 000 {{farmpoints}} || 4 h 36 min à maturité&lt;br&gt;4 h 36 min au flétrissement || Entourer une baie Mangou avec 130-160 points de saveur Sucrée&lt;br&gt;et ≤ 80 points de toutes autres saveurs || N/A
+|-
+| #34 [[File:Durin.png|25px]] || [[Durin/fr|Durin]] ||  style="text-align:right" | 33 || style="text-align:right" | 1 050 {{farmpoints}} || 6 h à maturité&lt;br&gt;6 h au flétrissement || Entourer une baie Rabuta avec 130-160 points de saveur Amère&lt;br&gt;et ≤ 80 points de toutes autres saveurs|| N/A
+|-
+| #35 [[File:Belue.png|25px]] || [[Belue/fr|Myrte]] ||  style="text-align:right" | 20 || style="text-align:right" | 1 100 {{farmpoints}} || 5 h 30 min à maturité&lt;br&gt;5 h 30 min au flétrissement || Entourer une baie Tronci avec 130-160 points de saveur Acide&lt;br&gt;et ≤ 80 points de toutes autres saveurs|| N/A
+|}
+
+&lt;span id="Gen_4_Berries"&gt;&lt;/span&gt;
+==== Baies de Gen 4 ====
+
+{|class="wikitable sortable"
+|-
+! N° Dex !! Baie !! Quantité&lt;br&gt;Récoltée !! Points&lt;br&gt;de récolte!! Temps de croissance!! Obtention !! Capacité Spéciale
+|-
+| #37 [[File:Occa.png|25px]] || [[Occa/fr|Chocco]] ||  style="text-align:right" | 21 || style="text-align:right" | 1 200 {{farmpoints}} || 6 h 6 min à maturité&lt;br&gt;6 h 6 min au flétrissement|| Faire pousser des baies Framby, Figuy, Tamato et Kiwan près d'une parcelle vide|| Parasite (Remplace les plants adjacents)
+|-
+| #38 [[File:Passho.png|25px]] || [[Passho/fr|Pocpoc]] ||  style="text-align:right" | 22 || style="text-align:right" | 1 300 {{farmpoints}} || 6 h à maturité&lt;br&gt;6 h au flétrissement|| Faire pousser des baies Maron, Oran, Alga et Cobaba près d'une parcelle vide || Quantité Récoltée ↑
+|-
+| #39 [[File:Wacan.png|25px]] || [[Wacan/fr|Parma]] ||  style="text-align:right" | 2 || style="text-align:right" | 250 {{farmpoints}} || 30 min à maturité &lt;br&gt;30 min au flétrissement|| Faire pousser des baies Nanana, Papaya, Qualot et Résin près d'une parcelle vide|| Taux de Croissance ↑
+|-
+| #40 [[File:Rindo.png|25px]] || [[Rindo/fr|Ratam]] ||  style="text-align:right" | 24 || style="text-align:right" | 1 400 {{farmpoints}} || 8 h à maturité &lt;br&gt;8 h au flétrissement|| Entourer une parcelle vide avec entre 10 et 15 points de saveurs Épicées et Amères &lt;br&gt; et 0 de toutes autres saveurs (Les baies Gowav et Ceriz sont nécessaires au débloquage) || Engrais (s'étend aux parcelles vides)
+|-
+| #41 [[File:Yache.png|25px]] || [[Yache/fr|Nanone]] ||  style="text-align:right" | 25 || style="text-align:right" | 1 500 {{farmpoints}} || 12 h à maturité&lt;br&gt;12 h au flétrissement|| Faire pousser une baie Pocpoc sans plants adjacents|| Taux de Croissance ↓
+|-
+| #42 [[File:Chople.png|25px]] || [[Chople/fr|Pomroz]] ||  style="text-align:right" | 26 || style="text-align:right" | 1 600 {{farmpoints}} || 10 h à maturité&lt;br&gt;10 h au flétrissement|| Faire pousser une baie Kiwan avec l'objet [[Blaze Cassette|Module Pyro]] équippé || Croissance des Oeufs ↑
+|-
+| #43 [[File:Kebia.png|25px]] || [[Kebia/fr|Kébia]] ||  style="text-align:right" | 1 || style="text-align:right" | 50 {{farmpoints}} || 10 min à maturité&lt;br&gt;23 h 50 min au flétrissement|| Faire pousser une baie Palma avec l'objet [[Rocky Helmet|Casque Brut]] équipé || Parasite (Remplace les autres plants)&lt;br&gt; Chance de Mutations ↑
+|-
+| #44 [[File:Shuca.png|25px]] || [[Shuca/fr|Jouca]] ||  style="text-align:right" | 28 || style="text-align:right" | 1 700 {{farmpoints}} || 11 h à maturité&lt;br&gt;11 h au flétrissement||Faire pousser une baie Stekpa avec l'objet [[Sprinklotad|Nénurrosoir]] équipé || Chance de Replantation ↑
+|-
+| #45 [[File:Coba.png|25px]] || [[Coba/fr|Cobaba]] ||  style="text-align:right" | 29 || style="text-align:right" | 1 800 {{farmpoints}} || 5 h 30 min à maturité&lt;br&gt;5 h 30 min au flétrissement|| Entourer une parcelle vide avec entre 10 et 15 points de saveur Sèche et Amère&lt;br&gt;et 0 dans toutes les autres saveurs (les baies Gowav et Maron sont nécessaire au déblocage) || N/A
+|-
+| #46 [[File:Payapa.png|25px]] || [[Payapa/fr|Yapyap]] ||  style="text-align:right" | 30 || style="text-align:right" | 1900 {{farmpoints}} || 9 h 30 min à maturité&lt;br&gt;9 h 30 min au flétrissement|| Faire pousser des baies Wiki, Remu, Siam et Palma près d'une parcelle vide|| Chance de Mutation ↑
+|-
+| #47 [[File:Tanga.png|25px]] || [[Tanga/fr|Panga]] ||  style="text-align:right" | 3 || style="text-align:right" | 500 {{farmpoints}} || 1 h à maturité &lt;br&gt;1 h au flétrissement || Entourer une parcelle vide avec 8 baies Ratam|| Quantité Récoltée ↓
+|-
+| #48 [[File:Charti.png|25px]] || [[Charti/fr|Charti]] ||  style="text-align:right" | 32 || style="text-align:right" | 2000 {{farmpoints}} || 10 h 30 min à maturité&lt;br&gt;10 h 30 min au flétrissement || Faire pousser une baie Siam avec l'objet [[Cell Battery|Pile]] équipé || Taux de Replantation ↓
+|-
+| #49 [[File:Kasib.png|25px]] || [[Kasib/fr|Sédra]] ||  style="text-align:right" | 1 || style="text-align:right" | 25 {{farmpoints}} || 5 min à maturité&lt;br&gt;23 h 55 min au flétrissement || Peut apparaitre lorsqu'une baie se flétrit, une fois qu'au moins une baie de la Gen 4 ou 5 a été débloqué|| Flétrissement (Les baies mûres flétriront deux fois plus vite)
+|-
+| #50 [[File:Haban.png|25px]] || [[Haban/fr|Fraigo]] ||  style="text-align:right" | 34 || style="text-align:right" | 4 000 {{farmpoints}} || 24 h à maturité&lt;br&gt;24 h au flétrissement|| Faire pousser des baies Chocco, Pocpoc, Ratam et Parma près d'une parcelle vide|| Taux de Croissance ↓
+|-
+| #51 [[File:Colbur.png|25px]] || [[Colbur/fr|Lampou]] ||  style="text-align:right" | 35 || style="text-align:right" | 2 300 {{farmpoints}} || 7 h 30 min à maturité&lt;br&gt;7 h 30 min au flétrissement|| Faire pousser des baies Rabuta, Sédra et Yapyap près d'une parcelle vide|| Parasite (Remplace les autres plants), Empêche les baies Sédra d'apparaître
+|-
+| #52 [[File:Babiri.png|25px]] || [[Babiri/fr|Babiri|]] ||  style="text-align:right" | 36 || style="text-align:right" | 2 400 {{farmpoints}} || 18 h à maturité&lt;br&gt;18 h au flétrissement|| Entourer une parcelle vide avec 4 baies Jouca et 4 baies Charti|| Chance de Mutation ↓
+|-
+| #53 [[File:Chilan.png|25px]] || [[Chilan/fr|Zalis]] ||  style="text-align:right" | 10 || style="text-align:right" | 500 {{farmpoints}} || 2 h à maturité&lt;br&gt;2 h au flétrissement|| Faire pousser une baie Pomroz aux côtés d'au moins 3 baies Pomroz matures|| N/A
+|-
+| #54 [[File:Roseli.png|25px]] || [[Roseli/fr|Selro]] ||  style="text-align:right" | 38 || style="text-align:right" | 2 500 {{farmpoints}} || 7 h à maturité&lt;br&gt;7 h au flétrissement|| Faire pousser des baies Mago, Nanab, Mangou et Stekpa près d'une parcelle vide|| Aura d'Attraction (augmente les chances de Pokémon errants)
+|}
+
+&lt;span id="Gen_5_Berries"&gt;&lt;/span&gt;
+==== Baies de Gen 5 ====
+
+{|class="wikitable sortable"
+|-
+! N° Dex !! Baie !! Quantité&lt;br&gt;Récoltée !! Points de récolte !! Temps de croissance !! Obtention  !! Capacité spéciale
+|-
+| #55 [[File:Micle.png|25px]] || [[Micle/fr|Micle]] ||  style="text-align:right" | 1 || style="text-align:right" | 2 600 {{farmpoints}} || 8 h 48 min à maturité&lt;br&gt;8 h 48 min au flétrissement || Remplir la ferme avec ≥ 600 points de saveur Sèche et laisser au moins une parcelle vide || N/A
+|-
+| #56 [[File:Custap.png|25px]] || [[Custap/fr|Chérim]] ||  style="text-align:right" | 1 || style="text-align:right" | 2 700 {{farmpoints}} || 7 h 36 min à maturité&lt;br&gt;7 h 36 min au flétrissement || Remplir la ferme avec ≥ 600 points de saveur Sucrée et laisser au moins une parcelle vide|| N/A
+|-
+| #57 [[File:Jaboca.png|25px]] || [[Jaboca/fr]] ||  style="text-align:right" | 1 || style="text-align:right" | 2 800 {{farmpoints}} || 9 h 18 min à maturité&lt;br&gt;9 h 18 min au flétrissement || Remplir la ferme avec ≥ 600 points de saveur Amère et laisser au moins une parcelle vide || Chance de rencontrer un Pokémon Errant ↑
+|-
+| #58 [[File:Rowap.png|25px]] || [[Rowap/fr|Pommo]] ||  style="text-align:right" | 1 || style="text-align:right" | 2 900 {{farmpoints}} || 5 h 54 min à maturité&lt;br&gt;5 h 54 min au flétrissement || Remplir la ferme avec ≥ 600 points de saveur Acide et laisser au moins une parcelle vide || Gain d’EV ↑
+|-
+| #59 [[File:Kee.png|25px]] || [[Kee/fr|Éka]] ||  style="text-align:right" | 1 || style="text-align:right" | 3 000 {{farmpoints}} || 10 h 6 min à maturité&lt;br&gt;10 h 6 min au flétrissement || Faire pousser des baies Lichii et Lingan près d’une parcelle vide || N/A
+|-
+| #60 [[File:Maranga.png|25px]] || [[Maranga/fr|Rangma]] ||  style="text-align:right" | 1 || style="text-align:right" | 8 000 {{farmpoints}} || 11 h 12 min à maturité&lt;br&gt;11 h 12 min au flétrissement || Faire pousser des baies Sailak et Pitaye près d’une parcelle vide || N/A
+|-
+| #61 [[File:Liechi.png|25px]] || [[Liechi/fr|Lichii]] ||  style="text-align:right" | 0.5 || style="text-align:right" | 10 000 {{farmpoints}} || 48 h à maturité&lt;br&gt;48 h au flétrissement || Faire pousser des baies Chocco et avoir capturé Kyogre || N/A
+|-
+| #62 [[File:Ganlon.png|25px]] || [[Ganlon/fr|Lingan]] ||  style="text-align:right" | 0.5 || style="text-align:right" | 10 000 {{farmpoints}} || 48 h à maturité&lt;br&gt;48 h au flétrissement || Faire pousser des baies Jouca et avoir capturé Groudon || N/A
+|-
+| #63 [[File:Salac.png|25px]] || [[Salac/fr|Sailak]] ||  style="text-align:right" | 0.5 || style="text-align:right" | 10 000 {{farmpoints}} || 48 h à maturité&lt;br&gt;48 h au flétrissement || Faire pousser des baies Cobaba et avoir capturé Rayquaza || N/A
+|-
+| #64 [[File:Petaya.png|25px]] || [[Petaya/fr|Pitaye]] ||  style="text-align:right" | 0.5 || style="text-align:right" | 15 000 {{farmpoints}} || 24 h à maturité&lt;br&gt;96 h au flétrissement || Faire pousser toutes les baies de Gen 4, laisser une parcelle libre, et avoir débloqué toutes les parcelles&lt;br&gt;Requiert d’avoir débloqué toutes les parcelles de la ferme || Empêche les baies de se flétrir (sauf les baies Pitaye).
+|-
+| #65 [[File:Apicot.png|25px]] || [[Apicot/fr|Abriko]] ||  style="text-align:right" | 0,5 || style="text-align:right" | 15000 {{farmpoints}} || 24 h à maturité&lt;br&gt;96 h au flétrissement || Faire pousser des baies Zalis et avoir capturé Palkia || N/A
+|-
+| #66 [[File:Lansat.png|25px]] || [[Lansat/fr|Lansat]] ||  style="text-align:right" | 0,5 || style="text-align:right" | 15000 {{farmpoints}} || 24 h à maturité&lt;br&gt;96 h au flétrissement || Faire pousser des baies Selro et avoir capturé Dialga || N/A
+|-
+| #67 [[File:Starf.png|25px]] || [[Starf/fr|Frista]] ||  style="text-align:right" | 0,5 || style="text-align:right" | 15000 {{farmpoints}} || 24 h à maturité&lt;br&gt;96 h au flétrissement || Découvrir un Pokémon Errant chromatique, tout en ayant une parcelle libre || Probabilité de rencontrer un Pokémon chromatique ↑
+|-
+| #68 [[File:Enigma.png|25px]] || [[Enigma/fr|Enigma]] ||  style="text-align:right" | 0,5 || style="text-align:right" | 15 000 {{farmpoints}} || 24 h à maturité&lt;br&gt;144 h au flétrissement || Unique : synchroniser son compte Discord || Peut faire muter des baies de Gen 4 en baies de Gen 5&lt;br&gt; (pour cela, les baies de Gen 5 doivent déjà avoir été découvertes)
+|-
+|}
+
+Note : La quantité minimale de baies récoltées est de 1 pour toute baie. Si cette quantité est indiquée comme étant inférieure à 1, le nombre de baies récoltées sera quand même de 1. Cependant, une quantité inférieure à 1 affecte le nombre de baies supplémentaires qu'offrent le [[Farm_Items|Fertibondance]] et la baie Pocpoc. Par exemple, considérant une parcelle fertilisée avec du Fertibondance et entourée de 8 baies Pocpoc, une baie Rangma donnera 16 baies, mais une baie Lichii n'en donnera que 8. Pour plus d'informations concernant les meilleures configurations de ferme, afin de récolter plus de baies ou plus rapidement, veuillez consulter la [[Farming Setups|page d'organisation des cultures]].
+
+&lt;span id="Special_Abilities_(Auras)"&gt;&lt;/span&gt;
+= Capacités spéciales (Auras) =
+
+Certaines baies possèdent des capacités spéciales appelées Auras. Ces Auras affectent le plus souvent la croissance des baies ou la mutation, mais certaines peuvent affecter d'autres aspects du jeu. Ces Auras sont souvent utilisés afin d'aider les joueurs à rencontrer des Pokémon chromatiques ou améliorer le processus d'incubation. Voici une liste des auras de baies. La baie [[Enigma]] a un effet unique qui est mieux expliqué sur sa page.
+
+{| class="wikitable" | style="text-align: center;"
+! Aura !! Effet !! Notes
+|-
+! Aura Boostée
+| Booste les effets d'aura des 8 baies alentours || &lt;center&gt; Cette aura ne peut être appliquée à une baie qu'une seule fois et n'affecte pas d'autres baies avec cet effet.
+|-
+! Engrais
+| Plante une baie du même type dans l'une des 8 parcelles vides environnantes || &lt;center&gt;La baie originelle doit être au stade mûr pour que l'effet soit déclenché.&lt;br&gt; Cela compte pour une mutation et est affecté par les mêmes boosts de mutation.
+|-
+! Parasite
+| Transforme une baie parmi l'une des 8 baies environnantes en la même baie que le parasite || &lt;center&gt; La baie originelle doit être au stade mûr pour que l'effet soit déclenché.&lt;br&gt; Cela compte pour une mutation et est affecté par les mêmes boosts de mutation.&lt;br&gt;  Le Parasite affecte seulement les baies à partir du stade Arbuste. Les "Graines" et les "Pousses" ne peuvent pas être affectées. &lt;br&gt; Les baies parasitées auront leur minuteur initialisé avec le temps du stade durant lequel ils ont été parasité.
+|-
+! Flétrissement
+| Accélère le flétrissement des 8 baies environnantes|| &lt;center&gt; Affecte seulement les baies mûres. &lt;br&gt; N'affecte pas les autres baies avec l'aura Flétrissement. &lt;br&gt; L'effet ne se cumule pas.
+|-
+! Quantité récoltée
+| Modifie la quantité de baies obtenues par récolte/flétrissement pour les 8 baies environnantes.|| &lt;center&gt; L'effet est multiplicatif et se cumule avec le [[Rich Mulch|Fertibondance]]
+|-
+! Taux de croissance
+| Modifie la durée de croissance/flétrissement des 8 baies environnantes. || &lt;center&gt; L'effet est multiplicatif et se cumule avec l'aura de Flétrissement (une fois au stade mûr), [[Sprayduck|Kwakarrosoir]] et les effets du [[Boost Mulch|Fertibérance]].
+|-
+! Chance de replantation
+| Modifie les chances qu'une des 8 baies environnantes se replante elle-même après flétrissement. || &lt;center&gt; L'effet est multiplicatif et se cumule avec le [[Sprinklotad|Nénurrosoir]]
+|-
+! Chance de mutation
+| Modifie les chances qu'une des 8 baies environnantes mute en une autre baie si possible. || &lt;center&gt; L'effet est multiplicatif et se cumule avec le [[Squirtbottle|Carapuce à O]] et les effets du [[Surprise Mulch|Fertistantané]]. &lt;br&gt;Affecte les effets des auras Engrais et Parasite
+|-
+! Anti-Sédra
+| Empêche les baies de muter en une baie [[Kasib|Sédra]] quand elle flétrit. || &lt;center&gt; Une seule baie avec cette aura affectera le terrain entier
+|-
+! Anti-Flétrissement
+| Empêche les autres baies de flétrir lorsqu'elles sont au stade mûr. || &lt;center&gt; Une seule baie avec cette aura affectera le terrain entier. &lt;br&gt; Les baies avec cette aura ne s'affectent pas l'une l'autre.&lt;br&gt; Une fois que cette baie flétrit ou est récoltée, les autres baies auront leur minuteur réinitialisé au début du stade mûr.
+|-
+! Croissance d'oeuf
+| Augmente la vitesse de croissance des oeufs dans la Pension.|| &lt;center&gt; L'effet est multiplicatif sur le terrain entier. &lt;br&gt; L'effet se cumule avec le [[Blaze Cassette|Module Pyro]]
+|-
+! Chance de Chroma
+| Augmente les chances de rencontrer un [[Shiny Chance|Pokémon Chromatique]]|| &lt;center&gt; L'effet est multiplicatif sur le terrain entier. &lt;br&gt; L'effet se cumule avec le [[Shiny Charm|Charme Chroma]]
+|-
+! Aura Attractive
+| Augmente les chances qu'un Pokémon [[Wandering Pokemon|erre]] dans la ferme || &lt;center&gt; L'effet est multiplicatif sur le terrain entier
+|-
+! Chance de Voyageurs
+| Augmente les chances de trouver un [[Roaming Pokemon|Pokémon Voyageur]] sur les routes || &lt;center&gt; L'effet est multiplicatif sur le terrain entier.
+|-
+! Gain d'EV
+| Augmente la quantité d'[[Pokerus|EV gagnés]] dans toutes les situations applicables. || &lt;center&gt; L'effet est multiplicatif sur le terrain entier
+|}
+
+
+
+{{Berries|Baies}}
+
+[[Category:Farm|Catégorie:Ferme]] [[Category:Berries|Catégorie:Baies]]</text>
+    <contributor>
+      <username>Razikd</username>
+      <id>535</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>39307</parentid>
+    <sha1>691fc00df61713db5c9309fecc6b6da8983e5a5d</sha1>
+  </revision>
+</page></mediawiki>

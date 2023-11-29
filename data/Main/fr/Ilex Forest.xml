@@ -1,0 +1,157 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Ilex Forest/fr</title>
+  <ns>0</ns>
+  <id>14755</id>
+  <revision>
+    <id>35964</id>
+    <timestamp>2022-09-13T14:09:11Z</timestamp>
+    <text space="preserve" bytes="3793">&lt;languages/&gt;
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Infobox dungeon
+|name    = Ilex Forest
+|image   = [[File:Ilex Forest.png|thumb]]
+|caption = A map of Ilex Forest.
+|tokens  = 4,000
+|location = On route 34.
+}}
+'''Ilex Forest''' is a [[Dungeons|dungeon]] in [[Johto]]. It initially has 36 tiles arranged in a 6x6 square, including 6 chest tiles, 15 non-boss encounter tiles, and 1 boss encounter tile. Wild Encounters have 82,200 HP.
+&lt;/div&gt;
+
+&lt;span id="Encounter_Tables"&gt;&lt;/span&gt;
+== Tables des rencontres ==
+
+&lt;span id="Wild_Encounters"&gt;&lt;/span&gt;
+=== Rencontres sauvages ===
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable"
+|-
+! Wild Pokémon !! colspan=2|Trainers
+|-
+! Encounter !! Trainer !! Pokémon Team
+|-
+| [[File:Caterpie.png|40px]] Caterpie || rowspan=8|[[File:Bug_Catcher.png|40px]] Bug Catcher Wayne || rowspan=8|[[File:Ledyba.png|40px]] Ledyba, [[File:Paras.png|40px]] Paras
+|-
+| [[File:Metapod.png|40px]] Metapod
+|-
+| [[File:Weedle.png|40px]] Weedle
+|-
+| [[File:Kakuna.png|40px]] Kakuna
+|-
+| [[File:Zubat.png|40px]] Zubat
+|-
+| [[File:Oddish.png|40px]] Oddish
+|-
+| [[File:Paras.png|40px]] Paras
+|-
+| [[File:Hoothoot.png|40px]] Hoothoot
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+===Boss Encounters===
+{| class="wikitable"
+|-
+! Wild Pokémon !! Base Health !! Boss Trainer !! Pokémon Team !! Base Health
+|-
+| [[File:Noctowl.png|40px]] Noctowl || rowspan=3| &lt;center&gt;340,000 || colspan=3 rowspan=4|&lt;center&gt;N/A
+|-
+| [[File:Beedrill.png|40px]] Beedrill
+|-
+| [[File:Butterfree.png|40px]] Butterfree
+|-
+| [[File:Celebi.png|40px]] '''Celebi*''' || &lt;center&gt; 800,000
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+'''*Note:''' Must be Johto Champion and do [[Quests#Unfinished Business|Unfinished Business]] Quest first.
+&lt;/div&gt;
+
+&lt;span id="Items"&gt;&lt;/span&gt;
+==Objets==
+
+&lt;span id="No_Debuff"&gt;&lt;/span&gt;
+===Sans Perte de Bonus===
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+|-
+| align="center" colspan=6| '''Common'''
+|-
+| {{Bag2|xAttack}} || 2 || 52.07% || 50.63% || 44.44%
+|-
+| {{Bag2|Lucky Egg}} || N/A || 26.03% || 25.32% || 22.22%
+|-
+| align="center" colspan=6| '''Rare'''
+|-
+| {{Bag2|Green Shard}} || N/A || 20.85% || 22.14% || 27.72%
+|-
+| align="center" colspan=6| '''Legendary'''
+|-
+| {{Bag2|Revive}} || N/A || 0.35% || 0.56% || 1.48%
+|-
+| {{Bag2|Insect Plate}} || N/A || 0.35% || 0.56% || 1.48%
+|-
+| {{Bag2|Medium Restore}} || N/A || 0.35% || 0.56% || 1.48%
+|-
+| align="center" colspan=6| '''Mythic'''
+|-
+| {{Bag2|Zap Plate}} || N/A || 0.01% || 0.23% || 1.18%
+|}
+&lt;/div&gt;
+
+&lt;span id="Debuff_Drop_Table"&gt;&lt;/span&gt;
+===Table du taux d'obtention avec Perte de bonus===
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+After Reaching Unova, the drop chance for items in Johto will be debuffed for any loot with a Tier rarer than Rare (ie: Epic, Legendary, Mythic).
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable collapsible collapsed"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+|-
+| align="center" colspan=6| '''Common'''
+|-
+| {{Bag2|xAttack}} || 2 || 50.45% || 50.45% || 50.45%
+|-
+| {{Bag2|Lucky Egg}} || N/A || 25.23% || 25.23% || 25.23%
+|-
+| align="center" colspan=6| '''Rare'''
+|-
+| {{Bag2|Green Shard}} || N/A || 24.22% || 24.22% || 24.22%
+|-
+| align="center" colspan=6| '''Legendary'''
+|-
+| {{Bag2|Revive}} || N/A || 0.03% || 0.03% || 0.03%
+|-
+| {{Bag2|Insect Plate}} || N/A || 0.03% || 0.03% || 0.03%
+|-
+| {{Bag2|Medium Restore}} || N/A || 0.03% || 0.03% || 0.03%
+|-
+| align="center" colspan=6| '''Mythic'''
+|-
+| {{Bag2|Zap Plate}} || N/A || &lt;0.01% || &lt;0.01% || &lt;0.01%
+|}
+&lt;/div&gt;
+
+{{Johto Dungeons}}
+
+[[Category:Dungeons|^Region #2 - Johto^e]]
+[[Category:Donjons|^Région #2 - Johto^e]]</text>
+    <contributor>
+      <username>PetroleVB</username>
+      <id>619</id>
+    </contributor>
+    <comment>Created page with "===Sans Perte de Bonus==="</comment>
+    <model>wikitext</model>
+    <parentid>35636</parentid>
+    <sha1>94114dc383a83997f24197d3dfd28620947ceb73</sha1>
+  </revision>
+</page></mediawiki>

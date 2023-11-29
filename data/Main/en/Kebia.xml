@@ -1,0 +1,110 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Kebia/en</title>
+  <ns>0</ns>
+  <id>6496</id>
+  <revision>
+    <id>38317</id>
+    <timestamp>2022-10-07T16:13:32Z</timestamp>
+    <text space="preserve" bytes="4720">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #43 Kebia
+|image   = [[File:Kebia.png]]
+|caption = This Berry is a brilliant green on the outside. Inside, it is packed with a dry-flavored, black-colored flesh. It has a tendency to overtake nearby plants. Due to its poisonous nature, it increases the chances of mutations near it.
+|growtime  = 10m 0s
+|harvest = 1 berry
+|replant = 100%
+|mutation = 0.01%
+|points = 50
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 spicy 
+*15 dry
+*0 sweet
+*0 bitter
+*10 sour
+}}
+
+'''Kebia''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by planting [[Pamtre]] and equipping the [[Rocky Helmet]]. The Pamtre will then have a chance to mutate into this berry.  This berry can be bought from the Johto [[Berry Master]] for 10,000 {{farmpoints}} if the player is running the "No Oak Item" [[Challenge Mode|challenge]], and has already unlocked the Pamtre berry. [[Farming Setups]] using Kebia can be found [[Farming Setups#Squirtbottle Leveling Strategies|here]]
+
+== Growth Tables ==
+=== Growth Stages ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 1 min 40 secs || 3 mins 20 secs || 6 mins 40 secs || 10 mins - 24 hours
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:KebiaTreeTaller.png|50px]] || &lt;center&gt; [[File:KebiaTreeBloom.png|50px]] || &lt;center&gt; [[File:KebiaTreeBerry.png|50px]]
+|-
+! Aura (mutation chance)
+| || &lt;center&gt; x1.2 || &lt;center&gt; x1.4 || &lt;center&gt; x1.6
+|-
+! Parasite (Tendency to Overtake Planted Plots)
+| colspan=3|&lt;center&gt; N/A || &lt;center&gt; 0.04%
+|}
+
+=== Ripening Time with Modifiers  ===
+{| class="wikitable" | style="text-align: center;"
+! Modifier !! Ripe-Wither Time !! Boost Mulch Needed to Ripen
+|-
+! None
+| 10 mins -&lt;br&gt; 23 hours 50 mins || ---
+|-
+! Mulch or Sprayduck
+| 6 mins 40 secs -&lt;br&gt; 15 hours 53 mins 20 secs || 2 mulch
+|-
+! Mulch &amp; Sprayduck
+| 4 mins 27 secs -&lt;br&gt; 10 hours 35 mins 33 secs || 1 mulch
+|}
+
+== Flow Chart ==
+[[File:Kebia_Flow_Chart.png|250px]]
+&lt;br&gt;
+
+== Mutation Strategy ==
+=== Possible Planting Formations ===
+You can fill your farm in the following way to obtain Kebia berries. Purple squares indicate where mutations can occur.
+
+{| class="wikitable" style="text-align: center;"
+|+ Farm
+|- style="background-color:#9C7D98;"
+| style="width: 50px;" | [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || style="width: 50px;" | [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || style="width: 50px;" | [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || style="width: 50px;" | [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || style="width: 50px;" | [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]'''
+|- style="background-color:#9C7D98;"
+| [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]'''
+|- style="height: 26px; background-color:#9C7D98;"
+| [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]'''
+|- style="background-color:#9C7D98;"
+| [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]'''
+|- style="background-color:#9C7D98;"
+| [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]''' || [[File:Pamtre.png|30px]]&lt;br&gt;'''[[Pamtre]]'''
+|}
+
+==Uses==
+===Mutations===
+
+Kebia berries can be used to mutate the following berries.
+
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Petaya.png|20px]] [[Petaya]] || [[File:Occa.png|20px]] [[Occa]] [[File:Passho.png|20px]] [[Passho]] &lt;br&gt; [[File:Wacan.png|20px]] [[Wacan]] [[File:Rindo.png|20px]] [[Rindo]] &lt;br&gt; [[File:Yache.png|20px]] [[Yache]] [[File:Chople.png|20px]] [[Chople]] &lt;br&gt; [[File:Shuca.png|20px]] [[Shuca]] [[File:Coba.png|20px]] [[Coba]] &lt;br&gt; [[File:Payapa.png|20px]] [[Payapa]] [[File:Tanga.png|20px]] [[Tanga]] &lt;br&gt; [[File:Charti.png|20px]] [[Charti]] [[File:Kasib.png|20px]] [[Kasib]] &lt;br&gt; [[File:Haban.png|20px]] [[Haban]] [[File:Colbur.png|20px]] [[Colbur]] &lt;br&gt; [[File:Babiri.png|20px]] [[Babiri]] [[File:Chilan.png|20px]] [[Chilan]] &lt;br&gt; [[File:Roseli.png|20px]] [[Roseli]]
+|-
+|}
+
+&lt;br&gt;
+
+{{Berries}}
+
+[[Category:Farm]][[Category:Berries]]</text>
+    <contributor>
+      <username>FuzzyBot</username>
+      <id>587</id>
+    </contributor>
+    <comment>Updating to match new version of source page</comment>
+    <model>wikitext</model>
+    <parentid>18569</parentid>
+    <sha1>77e72babf8294d0a53017bdc5573197f03851ac7</sha1>
+  </revision>
+</page></mediawiki>

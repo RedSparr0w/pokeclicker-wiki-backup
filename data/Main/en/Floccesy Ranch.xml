@@ -1,0 +1,90 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Floccesy Ranch/en</title>
+  <ns>0</ns>
+  <id>10630</id>
+  <revision>
+    <id>27733</id>
+    <timestamp>2022-08-28T19:29:51Z</timestamp>
+    <text space="preserve" bytes="2141">&lt;languages/&gt;
+{{Infobox dungeon
+|name    = Floccesy Ranch
+|image   = [[File:Floccesy Ranch.png|300px]]
+|caption = A map of Floccesy Ranch.
+|tokens  = 126,500
+|location = Unova Route 20
+}}
+'''Floccesy Ranch''' is a [[Dungeons|dungeon]] in [[Unova]]. It initially has 81 tiles arranged in an 9x9 square, including 9 chest tiles, 21 non-boss encounter tiles, and 1 boss encounter tile. Wild Encounters have 2,503,000 HP.
+
+==Encounter  Tables==
+
+===Wild Encounters===
+
+{| class="wikitable"
+|-
+! Wild Pokémon !! colspan=2|Trainers
+|-
+! Encounter !! Trainer !! Pokémon Team
+|-
+| [[File:Psyduck.png|40px]] Psyduck || rowspan=6 rowspan=2|[[File:Lass.png|40px]] Lass Molly || rowspan=2|[[File:Purrloin.png|40px]] Purrloin, [[File:Sewaddle.png|40px]] Sewaddle 
+|-
+| [[File:Mareep.png|40px]] Mareep 
+|-
+| [[File:Azurill.png|40px]] Azurill || rowspan=2|[[File:Janitor.png|40px]] Janitor Orville || rowspan=2|[[File:Lillipup.png|40px]] Lillipup, [[File:Mareep.png|40px]] Mareep
+|-
+| [[File:Patrat.png|40px]] Patrat
+|-
+| [[File:Lillipup.png|40px]] Lillipup || rowspan=2|[[File:Youngster.png|40px]] Youngster Kenny || rowspan=2|[[File:Patrat.png|40px]] Patrat, [[File:Psyduck.png|40px]] Psyduck
+|-
+| [[File:Pidove.png|40px]] Pidove
+|}
+
+===Boss Encounters===
+
+{| class="wikitable"
+|-
+! Wild Pokémon !! Base Health !! Boss Trainer !! Pokémon Team !! Base Health
+|-
+| [[File:Riolu.png|40px]] Riolu || &lt;center&gt; 13,000,000 || colspan=3|&lt;center&gt;N/A 
+|}
+
+==Items==
+
+{| class="wikitable"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+|-
+| align="center" colspan=6| '''Common'''
+|-
+| {{Bag2|xAttack}} || N/A || 25.24% || 24.44% || 21.06%
+|-
+| {{Bag2|Pokéball}} || N/A || 25.24% || 24.44% || 21.06%
+|-
+| {{Bag2|Cheri}} || N/A || 25.24% || 24.44% || 21.06%
+|-
+| align="center" colspan=6| '''Rare'''
+|-
+| {{Bag2|Green Shard}} || N/A || 10.11% || 10.69% || 13.14%
+|-
+| {{Bag2|Yellow Shard}} || N/A || 10.11% || 10.69% || 13.14%
+|-
+| align="center" colspan=6| '''Epic'''
+|-
+| {{Bag2|Nanab}} || N/A || 2.03% || 2.65% || 5.27%
+|-
+| {{Bag2|Wepear}} || N/A || 2.03% || 2.65% || 5.27%
+|}
+
+{{Unova Dungeons}}
+
+[[Category:Dungeons|^Region #5 - Unova^a]]</text>
+    <contributor>
+      <username>FuzzyBot</username>
+      <id>587</id>
+    </contributor>
+    <comment>Updating to match new version of source page</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>fa870e81cc6f2756afb104bc085d06c45be6fb2f</sha1>
+  </revision>
+</page></mediawiki>
