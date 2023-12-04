@@ -1,0 +1,102 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Kee/fr</title>
+  <ns>0</ns>
+  <id>9523</id>
+  <revision>
+    <id>40192</id>
+    <timestamp>2022-10-25T12:19:03Z</timestamp>
+    <text space="preserve" bytes="3523">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #59 Éka
+|image   = [[File:Kee.png]]
+|caption = Cette baie est vénéneuse jusqu'à sa maturité. Une fois mûre, sa saveur est un mélange complexe d'épicé et de sucré.
+|growtime  = 10h 6m 0s
+|harvest = 1 baie
+|replant = 5%
+|mutation = 0,03%
+|points = 3 000
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*30 Épicée 
+*30 Sèche
+*10 Sucrée
+*10 Amère
+*10 Acide
+}}
+
+'''Éka''' est un type de [[Berries/fr|Baie]] qui peut être plantée à la [[Farm/fr|Ferme]]. Elle peut être obtenue en entourant une parcelle libre avec au moins 1 [[Liechi/fr|Lichii]] et au moins 1 [[Ganlon/fr|Lingan]].
+
+== Tables de Croissance ==
+=== Stades de croissance ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Pousse !! Arbuste !! Fleuri !! Mûr
+|-
+! Temps écoulé après plantation
+| 1 heure 18 mins || 2 heures 36 mins || 5 heures 6 mins || 10 heures 6 mins - 20 heures 12 mins
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt;[[File:KeeTreeTaller.png|50px]] || &lt;center&gt;[[File:KeeTreeBloom.png|50px]] || &lt;center&gt;[[File:KeeTreeBerry.png|50px]]
+|}
+
+=== Temps de croissance avec modificateurs  ===
+{| class="wikitable" | style="text-align: center;"
+! Modificateur !! Temps maturité-flétrissement !! Nombre de Fertipousse requis
+|-
+! Aucun
+| 10 heures 6 mins -&lt;br&gt; 20 heures 12 mins || ---
+|-
+! Engrais ou Kwakarrosoir
+| 6 heures 44 mins -&lt;br&gt; 13 heures 28 mins || 81 engrais
+|-
+! Engrais et Kwakarrosoir
+| 4 heures 29 mins 20 secs -&lt;br&gt; 8 heures 58 mins 40 secs || 54 engrais
+|}
+
+== Organigramme ==
+[[File:Éka_-_Graph_découverte.png|500px]]
+&lt;br&gt;
+
+== Stratégie de mutation ==
+=== Formations possibles ===
+
+Vous pouvez remplir votre ferme de la manière suivante pour obtenir des baies Éka. Les cases violettes indiquent où les mutations peuvent avoir lieu.
+
+{| class="wikitable" style="text-align: center;"
+|+ Ferme
+|- style="height: 50px;"
+| style="width: 40px;" | [[File:Liechi.png|30px]] [[Liechi/fr|Lichii]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Liechi.png|30px]] [[Liechi/fr|Lichii]] || style="width: 40px; background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Ganlon.png|30px]] [[Ganlon/fr|Lingan]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Ganlon.png|30px]] [[Ganlon/fr|Lingan]] 
+|- style="height: 50px; background-color:#9C7D98;"
+| || || || || 
+|-
+| [[File:Liechi.png|30px]] [[Liechi/fr|Lichii]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Liechi.png|30px]] [[Liechi/fr|Lichii]] || style="background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Ganlon.png|30px]] [[Ganlon/fr|Lingan]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Ganlon.png|30px]] [[Ganlon/fr|Lingan]] 
+|}
+
+=== Tableau de chronométrage ===
+{| class="wikitable"| style="text-align: center;"
+|+ ''Tous les temps indiqués sont basés sur le temps restant &lt;br&gt; avant que la première baie plantée n'arrive à maturité''
+!! Baie !! Temps de plantation &lt;br&gt; sans modificateur !! Temps de plantation avec &lt;br&gt; Engrais ou Kwakarrosoir || Temps de plantation avec &lt;br&gt; Engrais et Kwakarrosoir
+|-
+| [[Liechi/fr|Lichii]] || - || - || -
+|-
+| [[Ganlon/fr|Lingan]] || - || - || -
+|}
+
+Note : Les baies Lingan et Lichii ont des temps de pousse équivalents.
+
+{{Berries}}
+
+[[Category:Farm]][[Category:Berries]]</text>
+    <contributor>
+      <username>Razikd</username>
+      <id>535</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>38322</parentid>
+    <sha1>2a0a5734acf79941b782eb3463b750ae27865eb9</sha1>
+  </revision>
+</page></mediawiki>

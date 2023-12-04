@@ -1,0 +1,153 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Magost</title>
+  <ns>0</ns>
+  <id>606</id>
+  <revision>
+    <id>38406</id>
+    <timestamp>2022-10-07T16:31:01Z</timestamp>
+    <text space="preserve" bytes="4492">&lt;languages/&gt;
+&lt;translate&gt;
+&lt;!--T:1--&gt;
+{{Infobox Berry
+|name    = #28 Magost
+|image   = [[File:Magost.png]]
+|caption = The grown-up flavor and dreamy sweetness of this Berry make it a favorite of Pokémon everywhere.
+|growtime  = 4h 0m 0s
+|harvest = 27 berries
+|replant = 10%
+|mutation = 0.03%
+|points = 750
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 spicy 
+*0 dry
+*20 sweet
+*10 bitter
+*0 sour
+}}
+
+&lt;!--T:2--&gt;
+'''Magost''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by surrounding an empty plot with at least 1 [[Pecha]], at least 1 [[Nanab]] and at least 1 [[Mago]].
+
+&lt;!--T:3--&gt;
+== Growth Tables ==
+=== Growth Stages ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 40 mins || 1 hour 48 mins 20 secs || 2 hours 46 mins 40 secs || 4 hours - 8 hours 
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:MagostTreeTaller.png|50px]] || &lt;center&gt; [[File:MagostTreeBloom.png|50px]] || &lt;center&gt; [[File:MagostTreeBerry.png|50px]]
+|}
+
+&lt;!--T:4--&gt;
+=== Ripening Time with Modifiers  ===
+{| class="wikitable" | style="text-align: center;"
+! Modifier !! Ripe-Wither Time !! Boost Mulch Needed to Ripen
+|-
+! None
+| 4 hours -&lt;br&gt; 8 hours || ---
+|-
+! Mulch or Sprayduck
+| 2 hours 40 mins -&lt;br&gt; 5 hours 20 mins || 32 mulch
+|-
+! Mulch &amp; Sprayduck
+| 1 hour 46 mins 40 secs -&lt;br&gt; 2 hours 53 mins 20 secs || 22 mulch
+|}
+
+&lt;!--T:5--&gt;
+== Flow Chart ==
+[[File:Magost_Flow_Chart1.png|250px]]
+&lt;br&gt;
+
+&lt;!--T:6--&gt;
+== Mutation Strategy ==
+=== Possible Planting Formations ===
+
+&lt;!--T:7--&gt;
+You can fill your farm in the following way to obtain Magost berries. Purple squares indicate where mutations can occur.
+
+&lt;!--T:8--&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Base Formation
+|- style="height: 50px;"
+| style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Pecha.png|30px]] [[Pecha]]
+|-
+| [[File:Nanab.png|30px]] [[Nanab]] || style="width: 40px;" | [[File:Mago.png|30px]] [[Mago]]
+|}
+
+&lt;!--T:9--&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Optimized Planting Formation
+|- style="height: 50px;"
+| style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Pecha.png|30px]] [[Pecha]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Pecha.png|30px]] [[Pecha]]
+|-
+| [[File:Nanab.png|30px]] [[Nanab]] || [[File:Mago.png|30px]] [[Mago]] || style="background-color:#9C7D98;" | || [[File:Nanab.png|30px]] [[Nanab]] || [[File:Mago.png|30px]]&lt;br&gt;[[Mago]] 
+|- style="height: 50px; background-color:#9C7D98;"
+| || || || || 
+|-
+| style="background-color:#9C7D98;" | || [[File:Pecha.png|30px]] [[Pecha]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Pecha.png|30px]] [[Pecha]] 
+|-
+| [[File:Nanab.png|30px]] [[Nanab]] || [[File:Mago.png|30px]] [[Mago]] || style="background-color:#9C7D98;" | || [[File:Nanab.png|30px]] [[Nanab]] || [[File:Mago.png|30px]]&lt;br&gt;[[Mago]] 
+|}
+
+&lt;!--T:10--&gt;
+=== Timing Table ===
+{| class="wikitable"| style="text-align: center;"
+|+ ''All planting times use the time-to-ripe remaining of the first planted berry for subsequent planting times''
+! Berry !! Planting Time with &lt;br&gt; No Modifier !! Planting Time with &lt;br&gt; Mulch or Sprayduck || Planting Time with &lt;br&gt;  Mulch &amp; Sprayduck
+|-
+| [[Mago]] || - || - || -
+|-
+| [[Nanab]] || 4 mins 10 secs until ripe || 2 mins 47 secs until ripe || Not Practical
+|-
+| [[Pecha]] || 1 min until ripe || 40 secs until ripe || Not Practical
+|}
+
+&lt;!--T:11--&gt;
+==Uses==
+===Mutations===
+
+&lt;!--T:12--&gt;
+Magost berries can be used to mutate the following berries.
+
+&lt;!--T:13--&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Watmel.png|20px]] [[Watmel]] || -
+|-
+| [[File:Pinkan.png|20px]] [[Pinkan]] || [[File:Pecha.png|20px]] [[Pecha]] &lt;br&gt;
+[[File:Persim.png|20px]] [[Persim]] &lt;br&gt; [[File:Nanab.png|20px]] [[Nanab]] &lt;br&gt; [[File:Mago.png|20px]] [[Mago]] &lt;br&gt; [[File:Qualot.png|20px]] [[Qualot]] &lt;br&gt; [[File:Watmel.png|20px]] [[Watmel]]
+|-
+| [[File:Roseli.png|20px]] [[Roseli]] || [[File:Nanab.png|20px]] [[Nanab]] &lt;br&gt; [[File:Mago.png|20px]] [[Mago]] &lt;br&gt; [[File:Watmel.png|20px]] [[Watmel]]
+|-
+|}
+
+&lt;!--T:17--&gt;
+==Acquisition==
+===Dungeons===
+{{Loot/head‎|Berries}}
+{{LootItem|Pinkan Mountain|Epic}}
+|}
+|}
+
+&lt;!--T:15--&gt;
+{{Berries}}
+
+&lt;!--T:16--&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/translate&gt;</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>59</id>
+    </contributor>
+    <comment>Marked this version for translation</comment>
+    <model>wikitext</model>
+    <parentid>38336</parentid>
+    <sha1>01c42cda9717b1096fa25faba9121b24ba9d9941</sha1>
+  </revision>
+</page></mediawiki>

@@ -1,0 +1,131 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Pokérus/fr</title>
+  <ns>0</ns>
+  <id>4637</id>
+  <revision>
+    <id>38201</id>
+    <timestamp>2022-09-28T13:25:56Z</timestamp>
+    <text space="preserve" bytes="6454">&lt;languages/&gt;
+[[File:Charmander_infected.png|thumb|200px|Un Salamèche Chromatique en Incubateur, infecté par le Pokérus [[File:Pokerus.png|20px]]]]
+
+==Description==
+Le Pokérus est une forme de vie microscopique pouvant s'attacher aux Pokémon, par lequel votre Pokémon de départ de Kanto sera infecté à Sinnoh. Il s'agit d'une mécanique avantageuse pour un Pokémon. Votre Pokémon de départ de Kanto se trouvera infecté après avoir passé le [[Distortion World|Monde Distorsion]] pour la première fois. À partir du moment où un Pokémon est infecté par le Pokérus, il pourra gagner des Effort Values (EVs), qui augmenteront son attaque via le [[Pokérus#EV Damage Multiplier|Multiplicateur de dégats des EVs]].
+
+==Propager le Pokérus==
+Le Pokérus peut seulement se propager via la [[Pokémon Day Care|Pension]]. Actuellement, seuls les Pokémon remplissant les conditions suivantes peuvent propager le virus :&lt;br&gt;
+&lt;u&gt;'''''Conditions de propagation'''''&lt;/u&gt;
+#Être infecté par le Pokérus
+#Être "Contagieux" ou "Résistant" (voir [[Pokérus/fr#Étapes_du_Pokérus|Étapes du Pokérus]])
+#Ne pas être prêt à éclore
+#Être reproduit manuellement (sans l'aide d'un [[Hatchery Helpers|Assistant]])
+
+Seuls les Pokémons qui remplissent les conditions ci-dessous sont capables de contracter le virus:
+&lt;br&gt;
+&lt;u&gt;'''''Conditions de Contractions'''''&lt;/u&gt;
+#Ne pas être prêt à éclore
+#Partager au moins un type en commun avec un Pokémon qui remplit les "Conditions de Propagations"
+#Être géré par le joueur (et donc pas un Assistant de Pension)
+
+Si toutes les conditions précédentes sont vérifiées, un Pokémon non infecté sera alors automatiquement contaminé, quel que soit son avancement dans l'éclosion. Les Pokémon de la file d'attente ne peuvent pas attraper le Pokérus.
+
+==Étapes du Pokérus==
+Il y a 4 stades au Pokérus, comme décrit ci-dessous.
+
+{| class="wikitable"
+! Stade || Description
+|-
+| Rien || État de base. Le Pokémon peut contracter le Pokérus. Le Pokémon ne peut gagner d'EVs.
+|-
+| [[File:Pokérus (infected).png|20px]] Infecté || Le Pokémon a contracté le Pokérus, mais doit encore éclore afin de devenir contagieux. Le Pokémon ne peut pas gagner d'EV.
+|-
+| [[File:Pokérus (contagious).png|20px]] Contagieux || Le Pokémon a contracté le Pokérus, et est capable de le transmettre. Le Pokémon peut gagner des EV.
+|-
+| [[File:Pokérus (cured).png|20px]] Résistant || Le Pokémon a contracté le Pokérus et peut le transmettre. Le Pokémon peut gagner des EV et devient Résistant s'il a accumulé au moins 50 EV.
+|-
+|}
+
+==Effort Values (EV)==
+Les EV sont des statistiques de multiplication des dégâts pour chaque Pokémon. Ils ne peuvent actuellement être vus que sur la page Pokédex du Pokémon. Les EV d'un Pokémon augmentent en recapturant ce Pokémon ou en utilisant des objets d'évolution après qu'il ait attrapé le Pokérus. Gagner des EV peut se faire en obtenant le Pokémon sur une [[Route Statistics|Route]], dans un [[Dungeon|Donjon]], par [[Evolution Items|Objets d'évolution]]. Les [[Breeding|Éclosions]] et [[Wandering Pokémon|Pokémon Errants]] ne donnent pas d'EV supplémentaires.
+
+====Gains d'EVs ====
+La quantité d'EV gagnée dépend de la façon dont le Pokémon est attrapé. Si le [[Challenge Mode|Challenge EV lents]] est activé, vous gagnerez 10x moins d'EV.
+De plus, selon le lieu de capture ou le type de Pokémon capturé, les EV reçus peuvent recevoir un multiplicateur :
+
+====Gains d'EVs====
+{| class="wikitable"
+|+ Gains d'EV
+! EV gagnés || Défi EV lents || Méthode de capture
+|-
+| 0,1 || 0,01 || Pokémon sauvage
+|-
+| 1 || 0,1 || [[Evolution Items|Objet d'évolution]]
+|-
+| 1 || 0,1 || [[Shops|Pokémon acheté en Boutique]]
+|-
+| 1 || 0,1 || [[Safari Zone|Pokémon du Safari]]
+|-
+| 0,5 || 0,05 || [[Wandering Pokemon|Pokémon errant]]
+|}
+
+====Multiplicateur d'EVs====
+{| class="wikitable"
+! Modificateur|| Méthode
+|-
+| X3 || Le Pokémon est rencontré et capturé en tant que [[Dungeons|Pokémon de Donjon]]
+|-
+| X5 || Le Pokémon a été capturé avec une [[Repeatball|Bis Ball]]
+|-
+| X5 || Le Pokémon est [[Shiny Chance|Shiny]]
+|-
+| X10 || Le Pokémon est le [[Dungeons|Boss d'un donjon]]
+|-
+| X50 || Le Pokémon est un [[Roaming Pokemon|Pokémon Voyageur]]
+|-
+| Variable || [[Rowap|Aura de baie Pommo]]
+|}
+
+====Exemples====
+Exemple 1 : Capturer un '''Pokémon chromatique dans un donjon''' avec une [[Repeatball|Bis Ball]] donne : &lt;math&gt;0,1 * 3 * 5 * 5 = 7.5 EV&lt;/math&gt;&lt;br&gt;&lt;br&gt;
+Exemple 2 : Capturer un '''Pokémon chromatique errant''' donne : &lt;math&gt;0,1 * 5 * 50 = 25 EV&lt;/math&gt;&lt;br&gt;&lt;br&gt;
+Exemple 3 : Capturer un '''Pokémon chromatique errant''' avec une [[Repeatball|Bis Ball]] donne : &lt;math&gt;0,1 * 5 * 50 * 5 = 125 EV&lt;/math&gt;
+
+==== Multiplicateur de Dégâts des EV ====
+Les EV augmentent la quantité de dommages qu'un Pokémon inflige. Les EV multiplient la quantité de dommages infligés par un Pokémon. Si votre Pokémon a moins de 50 EV, le multiplicateur d'Attaque augmente de 0,01 par EV et, en conséquence, un Pokémon gagne 1% d'attaque bonus par EV pour les 50 premiers EV.&lt;br&gt;&lt;br&gt;
+Les Pokémon qui ont : contracté le Pokérus, ont quitté la Pension Pokémon après l'avoir contracté (c-à-d : pas ''Infecté'') et qui ont gagné moins de 50 EV sont considérés ''Contagieux''. Cependant, les Pokémon qui remplissent toutes ces conditions mais qui ont gagné 50 EV ou plus sont considérés ''Résistants''. Voir la page sur les [[Pokérus/fr#Pokérus States|États du Pokérus]] pour plus d'informations.&lt;br&gt;&lt;br&gt;
+Au delà de 50 EV, les Pokémon gagneront toujours des EV au même rythme mais le multiplicateur d'Attaque augmentera bien moins rapidement que précédemment. Il n'y a aucune limite aux EV gagnés et au multiplicateur d'attaque.
+
+{| class="wikitable"
+|+ Bonus d'attaque donné par EV à certains paliers 
+! Effort Value || Multiplicateur de Dégâts du Pokémon 
+|-
+| 50 || 1.5x
+|-
+| 802 || 2x
+|-
+| 40 121 || 3x
+|-
+| 643 300 || 4x
+|-
+| 5 540 000 || 5x
+|-
+| 3,2e7 || 6x
+|-
+| 1,4e8 || 7x
+|}
+
+====Formules liées aux EVs====
+'''Lorsque l'Effort Value est inférieur à 50:''' &lt;br&gt;
+&lt;math&gt;\colorbox{White}{$ \text{Multiplicateur de dommages d'EV} = 1 + (\text{EV} / 100)$}&lt;/math&gt; &lt;br&gt;&lt;br&gt;
+'''Lorsque l'Effort Value est égal ou supérieur à 50:''' &lt;br&gt;
+&lt;math&gt;\colorbox{White}{$ \text{Multiplicateur de dommages d'EV} = \text{EV}^{\left(\frac{\log\left(1.5\right)}{\log\left(50\right)}\right)}$}&lt;/math&gt;</text>
+    <contributor>
+      <username>Razikd</username>
+      <id>535</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>38199</parentid>
+    <sha1>0c10105d3fcd7f7d0993b426cd82d0f39cf7c160</sha1>
+  </revision>
+</page></mediawiki>

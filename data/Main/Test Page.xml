@@ -1,0 +1,115 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Test Page</title>
+  <ns>0</ns>
+  <id>2068</id>
+  <revision>
+    <id>41630</id>
+    <timestamp>2022-11-15T07:04:38Z</timestamp>
+    <text space="preserve" bytes="3153">&lt;languages/&gt;
+&lt;translate&gt;
+&lt;!--T:1--&gt;
+Test Page Returns
+Check Template:Berry : &lt;br&gt;
+{{Berry|Cheri}}&lt;br&gt;
+{{Berry|Cheri|50}}&lt;br&gt;
+[[File:Cheri.png|50px]]&lt;br&gt;
+[[File:Cheri.png|30px]]&lt;br&gt;
+Mimic - {{Pokemon|Pikachu|mimic}}&lt;br&gt;
+Pokemon - {{Pokemon|Pikachu}}
+=Title 1=
+{{#arraydefine:Galar_Rolling_Field_Base_Encounters|
+&lt;u&gt;''Land:''&lt;/u&gt; [[File:Skwovet.png|30px]]Skwovet, [[File:Rookidee.png|30px]]Rookidee, [[File:Blipbug.png|30px]]Blipbug, [[File:Wooloo.png|30px]]Wooloo, [[File:Nickit.png|30px]]Nickit, [[File:Caterpie.png|30px]]Caterpie, [[File:Hoothoot.png|30px]]Hoothoot, [[File:Grubbin.png|30px]]Grubbin
+}}
+&lt;tabs&gt;
+&lt;tab name="Clear"&gt;
+{{#arrayprint:Galar_Rolling_Field_Base_Encounters}}&lt;br&gt;
+&lt;u&gt;''Weather:''&lt;/u&gt; [[File:Combee.png|30px]]Combee, [[File:Mudsdale.png|30px]]Mudsdale, [[File:Pangoro.png|30px]]Pangoro, [[File:Roselia.png|30px]]Roselia, [[File:Vespiquen.png|30px]]Vespiquen, [[File:Minccino.png|30px]]Minccino
+&lt;/tab&gt;
+&lt;tab name="Thunderstorm"&gt;
+{{#arrayprint:Galar_Rolling_Field_Base_Encounters}}&lt;br&gt;
+&lt;u&gt;''Weather:''&lt;/u&gt; [[File:Electrike.png|30px]]Electrike, [[File:Haunter.png|30px]]Haunter, [[File:Pangoro.png|30px]]Pangoro, [[File:Pikachu.png|30px]]Pikachu, [[File:Manectric.png|30px]]Manectric, [[File:Wingull.png|30px]]Wingull, [[File:Joltik.png|30px]]Joltik
+&lt;/tab&gt;
+&lt;/tabs&gt;
+
+&lt;!--T:14--&gt;
+==Title 2==
+===Title 3===
+
+&lt;!--T:2--&gt;
+Test: 1&lt;sup&gt;ère&lt;/sup&gt; génération
+
+===Used in=== &lt;!--T:3--&gt;
+
+&lt;!--T:4--&gt;
+{|class="wikitable"
+|-
+| This berry is used in
+|-
+| Berry 1
+|-
+| Berry 2
+|}
+
+
+Example Table:
+{| class="wikitable" style="text-align: center;"
+|+ Optimized Planting Formation
+|-
+| style="width: 40px; background-color:#9C7D98;" | || {{Berry|Rawst}} || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Rawst.png|30px]] [[Rawst]]
+|-
+| [[File:Rawst.png|30px]] [[Rawst]] || [[File:Rawst.png|30px]] [[Rawst]] || style="background-color:#9C7D98;" | || [[File:Rawst.png|30px]] [[Rawst]] || [[File:Rawst.png|30px]] [[Rawst]] 
+|- style="height: 50px;"
+| style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" |
+|}
+
+&lt;!--T:6--&gt;
+{|class="wikitable"
+|-
+| Test
+|-
+| [[File:Bulbasaur_Egg_Pattern.png|30px]]
+|-
+| [[File:Ivysaur_Egg_Pattern.png|30px]]
+|-
+| [[File:Venusaur_Egg_Pattern.png|30px]]
+|-
+| [[File:Charmander_Egg_Pattern.png|30px]]
+|-
+| [[File:Charmeleon_Egg_Pattern.png|30px]]
+|-
+| [[File:Charizard_Egg_Pattern.png|30px]]
+|-
+| [[File:Grey Shard.png|79px]][[File:GreyShardMine.png]]
+|-
+| [[File:Purple Shard.png|79px]][[File:PurpleShardMine.png]]
+|}
+
+====Bag Functions test==== &lt;!--T:7--&gt;
+
+
+&lt;!--T:8--&gt;
+{{Bag2|Lucky Incense|Lucky test ?}} &lt;- Bag2 set the image link to the second argument, but seems like never used anywhere
+
+&lt;!--T:9--&gt;
+{{Bag3|EXP Share|EXP test ?}} &lt;- Bag3 doesn't show anything if second argument, just the picture
+
+&lt;!--T:10--&gt;
+{{Bag4|Pokéball|Poké test ?}} &lt;- Bag4 works perfectly
+
+====Template test for translators==== &lt;!--T:11--&gt;
+
+&lt;!--T:12--&gt;
+{{Loot/head‎|Berries}}
+{{LootItem|Parc Safari|Commun}}
+&lt;/translate&gt;</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>59</id>
+    </contributor>
+    <comment>Changed protection settings for "[[Test Page]]" ([Edit=Allow only logged in users] (indefinite) [Move=Allow only logged in users] (indefinite) [Delete=Allow only logged in users] (indefinite) [Protect=Allow only logged in users] (indefinite))</comment>
+    <model>wikitext</model>
+    <parentid>41188</parentid>
+    <sha1>7593e35ed720b1eb2222fc2aeaab07de1ff64726</sha1>
+  </revision>
+</page></mediawiki>

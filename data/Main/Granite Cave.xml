@@ -1,0 +1,168 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Granite Cave</title>
+  <ns>0</ns>
+  <id>360</id>
+  <revision>
+    <id>41246</id>
+    <timestamp>2022-11-09T04:49:43Z</timestamp>
+    <text space="preserve" bytes="3765">&lt;languages/&gt;
+&lt;translate&gt;
+&lt;!--T:1--&gt;
+{{Infobox dungeon
+|name    = Granite Cave
+|image   = [[File:Granite Cave.png|300px]]
+|caption = An outside view of Granite Cave.
+|tokens  = 16,000
+|location = South of Route 106.
+}}
+'''Granite Cave''' is a [[Dungeons|dungeon]] in [[Hoenn]]. It initially has 49 tiles arranged in a 7x7 square, including 7 chest tiles, 17 non-boss encounter tiles, and 1 boss encounter tile. Wild Encounters have 410,000 HP.
+
+== Encounter Tables == &lt;!--T:2--&gt;
+
+===Wild Encounters=== &lt;!--T:3--&gt;
+
+&lt;!--T:4--&gt;
+{| class="wikitable"
+|-
+! Wild Pokémon !! colspan=2|Trainers
+|-
+! Encounter !! Trainer !! Pokémon Team
+|-
+| [[File:Zubat.png|40px]] Zubat || colspan=2 rowspan=6|&lt;center&gt;N/A
+|-
+| [[File:Abra.png|40px]] Abra
+|-
+| [[File:Geodude.png|40px]] Geodude
+|-
+| [[File:Makuhita.png|40px]] Makuhita
+|-
+| [[File:Aron.png|40px]] Aron
+|-
+| [[File:Sableye.png|40px]] Sableye
+|-
+|}
+
+===Boss Encounters=== &lt;!--T:5--&gt;
+{| class="wikitable"
+|-
+! Wild Pokémon !! Base Health !! Boss Trainer !! Pokémon Team !! Base Health
+|-
+| [[File:Mawile.png|40px]] Mawile || &lt;center&gt;960,000 || colspan=3 rowspan=2|&lt;center&gt; N/A
+|-
+| [[File:Nosepass.png|40px]] Nosepass || &lt;center&gt;660,000
+|}
+
+==Items== &lt;!--T:6--&gt;
+
+&lt;tabs&gt; &lt;!--T:7--&gt;
+&lt;tab name="No Debuff"&gt;
+
+&lt;!--T:8--&gt;
+{| class="wikitable"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+|-
+| align="center" colspan=6| '''Common'''
+|-
+| {{Bag2|Pokéball}} || N/A || 24.99% || 24.00% || 20.00%
+|-
+| {{Bag2|xAttack}} || N/A || 24.99% || 24.00% || 20.00%
+|-
+| {{Bag2|Lucky Egg}} || N/A || 24.99% || 24.00% || 20.00%
+|-
+| align="center" colspan=6| '''Rare'''
+|-
+| {{Bag2|Blue Shard}} || N/A || 10.00% || 10.50% || 12.47%
+|-
+| {{Bag2|Yellow Shard}} || N/A || 10.00% || 10.50% || 12.47%
+|-
+| align="center" colspan=6| '''Epic'''
+|-
+| {{Bag2|Iron Plate}} || N/A || 1.00% || 1.30% || 2.50%
+|-
+| {{Bag2|Earth Plate}} || N/A || 1.00% || 1.30% || 2.50%
+|-
+| {{Bag2|Everstone}} || N/A || 1.00% || 1.30% || 2.50%
+|-
+| {{Bag2|Revive}} || N/A || 1.00% || 1.30% || 2.50%
+|-
+| align="center" colspan=6| '''Legendary'''
+|-
+| {{Bag2|Medium Restore}} || N/A || 0.33% || 0.53% || 1.33%
+|-
+| {{Bag2|Star Piece}} || N/A || 0.33% || 0.53% || 1.33%
+|-
+| {{Bag2|Hard Stone}} || N/A || 0.33% || 0.53% || 1.33%
+|-
+| align="center" colspan=6| '''Mythic'''
+|-
+| {{Bag2|Heart Scale}} || N/A || 0.01% || 0.22% || 1.06%
+|}
+&lt;/tab&gt;
+
+&lt;tab name="Debuff"&gt; &lt;!--T:9--&gt;
+
+&lt;!--T:10--&gt;
+After Reaching Kalos, the drop chance for items in Hoenn will be debuffed for any loot with a Tier rarer than Rare (ie: Epic, Legendary, Mythic).
+
+&lt;!--T:11--&gt;
+{| class="wikitable"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+|-
+| align="center" colspan=6| '''Common'''
+|-
+| {{Bag2|Pokéball}} || N/A || 25.00% || 25.00% || 25.00%
+|-
+| {{Bag2|xAttack}} || N/A || 25.00% || 25.00% || 25.00%
+|-
+| {{Bag2|Lucky Egg}} || N/A || 25.00% || 25.00% || 25.00%
+|-
+| align="center" colspan=6| '''Rare'''
+|-
+| {{Bag2|Blue Shard}} || N/A || 12.00% || 12.00% || 12.00%
+|-
+| {{Bag2|Yellow Shard}} || N/A || 12.00% || 12.00% || 12.00%
+|-
+| align="center" colspan=6| '''Epic'''
+|-
+| {{Bag2|Iron Plate}} || N/A || 0.22% || 0.22% || 0.22%
+|-
+| {{Bag2|Earth Plate}} || N/A || 0.22% || 0.22% || 0.22%
+|-
+| {{Bag2|Everstone}} || N/A || 0.22% || 0.22% || 0.22%
+|-
+| {{Bag2|Revive}} || N/A || 0.22% || 0.22% || 0.22%
+|-
+| align="center" colspan=6| '''Legendary'''
+|-
+| {{Bag2|Medium Restore}} || N/A || 0.03% || 0.03% || 0.03%
+|-
+| {{Bag2|Star Piece}} || N/A || 0.03% || 0.03% || 0.03%
+|-
+| {{Bag2|Hard Stone}} || N/A || 0.03% || 0.03% || 0.03%
+|-
+| align="center" colspan=6| '''Mythic'''
+|-
+| {{Bag2|Heart Scale}} || N/A || &lt;0.01% || &lt;0.01% || &lt;0.01%
+|}
+&lt;/tab&gt;
+&lt;/tabs&gt;
+
+&lt;!--T:12--&gt;
+{{Hoenn Dungeons}}
+
+&lt;!--T:13--&gt;
+[[Category:Dungeons|^Region #3 - Hoenn^c]]
+&lt;/translate&gt;</text>
+    <contributor>
+      <username>ThePantMan</username>
+      <id>310</id>
+    </contributor>
+    <comment>/* Tabs */</comment>
+    <model>wikitext</model>
+    <parentid>27874</parentid>
+    <sha1>fc457bf52d5219761acdce289546d722d20e46b2</sha1>
+  </revision>
+</page></mediawiki>

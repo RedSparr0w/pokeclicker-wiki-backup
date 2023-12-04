@@ -1,0 +1,106 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Thrifty Megamart</title>
+  <ns>0</ns>
+  <id>4123</id>
+  <revision>
+    <id>39944</id>
+    <timestamp>2022-10-23T21:20:21Z</timestamp>
+    <text space="preserve" bytes="2357">&lt;languages/&gt;
+&lt;translate&gt;
+&lt;!--T:1--&gt;
+{{Infobox dungeon
+|name    = Thrifty Megamart
+|image   = [[File:Thrifty Megamart.png|300px]]
+|caption = A map of Thrifty Megmart.
+|tokens  = 1,025,000
+|location = South of Tapu Village
+}}
+
+&lt;!--T:2--&gt;
+'''Thrifty Megamart''' is a [[Dungeons|dungeon]] in [[Alola]]. The [[Gyms#Alola|Ghostium-Z]] [[File:GhostiumZ.png|30px]] is awarded upon clearing this dungeon. It initially has 125 tiles arranged in two floors: 10x10 and 5x5 in size, respectively; including 15 chest tiles, 36 non-boss encounter tiles, 1 ladder tile, and 1 boss encounter tile. Wild Encounters have 14,705,422 HP.
+
+== Encounter Tables == &lt;!--T:3--&gt;
+
+===Wild Encounters=== &lt;!--T:4--&gt;
+
+&lt;!--T:5--&gt;
+{| class="wikitable"
+|-
+! Wild Pokémon !! colspan=2|Trainers
+|-
+! Encounter !! Trainer !! Pokémon Team
+|-
+| [[File:Golbat.png|40px]]  Golbat ||rowspan=8 colspan=2|&lt;center&gt;N/A
+|-
+| [[File:Gastly.png|40px]]  Gastly
+|-
+| [[File:Haunter.png|40px]] Haunter
+|-
+| [[File:Gengar.png|40px]] Gengar
+|-
+| [[File:Shuppet.png|40px]] Shuppet
+|-
+| [[File:Banette.png|40px]] Banette
+|-
+| [[File:Jellicent.png|40px]] Jellicent
+|-
+| [[File:Klefki.png|40px]] Klefki
+|-
+|}
+
+&lt;!--T:6--&gt;
+===Boss Encounters===
+{| class="wikitable"
+|-
+! Wild Pokémon !! Base Health !! Boss Trainer !! Pokémon Team !! Base Health
+|-
+| [[File:Mimikyu.png|50px]] Mimikyu ||&lt;center&gt;73,527,110 ||rowspan=2 colspan=3|&lt;center&gt;N/A
+|-
+| '''[[File:Totem Mimikyu.png|50px]] Totem Mimikyu*''' ||&lt;center&gt;82,543,791
+|-
+|}
+'''*Must be Alola Champion to Unlock'''
+
+==Items== &lt;!--T:7--&gt;
+
+&lt;!--T:8--&gt;
+{| class="wikitable"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears !! Requirement 
+|-
+| align="center" colspan=6| '''Common'''
+|-
+| {{Bag2|Dowsing Machine}} || N/A || 37.86% || 36.58% || 31.25% || rowspan=2|&lt;center&gt; N/A
+|-
+| {{Bag2|Token Collector}} || N/A || 37.86% || 36.58% || 31.25%
+|-
+| align="center" colspan=6| '''Rare'''
+|-
+| {{Bag2|Red Shard}} || N/A || 10.11% || 10.66% || 12.99% || rowspan=2|&lt;center&gt; N/A
+|-
+| {{Bag2|Blue Shard}} || N/A || 10.11% || 10.66% || 12.99%
+|-
+| align="center" colspan=6| '''Epic'''
+|-
+| {{Bag2|Spooky Plate}} || N/A || 4.05% || 5.28% || 10.42% || &lt;center&gt; N/A
+|-
+| align="center" colspan=6| '''Mythic'''
+|-
+| {{Bag2|Lum}} || N/A || 0% || 0.22% || 1.10% || 100 Clears
+|}
+
+&lt;!--T:9--&gt;
+{{Alola Dungeons}}
+[[Category:Dungeons|^Region #7 - Alola^p]]
+&lt;/translate&gt;</text>
+    <contributor>
+      <username>ThePantMan</username>
+      <id>310</id>
+    </contributor>
+    <comment>/* Description - floors */</comment>
+    <model>wikitext</model>
+    <parentid>36439</parentid>
+    <sha1>e63cde24a8deca42a10e747343a751ca19b9f486</sha1>
+  </revision>
+</page></mediawiki>

@@ -1,0 +1,113 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Power Plant/en</title>
+  <ns>0</ns>
+  <id>14437</id>
+  <revision>
+    <id>35011</id>
+    <timestamp>2022-09-13T13:04:33Z</timestamp>
+    <text space="preserve" bytes="2442">&lt;languages/&gt;
+{{Infobox dungeon
+|name    = Power Plant
+|image   = [[File:Power Plant.png|thumb]]
+|caption = An overhead map of the Power Plant.
+|tokens  = 1,000
+|location = North of Lavender Town.
+}}
+The '''Power Plant''' is a [[Dungeons|dungeon]] in [[Kanto]]. It has 25 tiles arranged in a 5x5 square, including 5 chest tiles, 13 non-boss encounter tiles, and 1 boss encounter tile. Wild Encounters have 13,507 HP.
+
+== Encounter Tables ==
+
+===Wild Encounters===
+
+{| class="wikitable"
+|-
+! Wild Pokémon !! colspan=2|Trainers
+|-
+! Encounter !! Trainer !! Pokémon Team
+|-
+| [[File:Pikachu.png|40px]] Pikachu || colspan=2 rowspan=5|&lt;center&gt; N/A
+|-
+| [[File:Magnemite.png|40px]] Magnemite
+|-
+| [[File:Magneton.png|40px]] Magneton
+|-
+| [[File:Voltorb.png|40px]] Voltorb
+|-
+| [[File:Electrode.png|40px]] Electrode
+|-
+|}
+
+===Boss Encounters===
+{| class="wikitable"
+|-
+! Wild Pokémon !! Base Health !! Boss Trainer !! Pokémon Team !! Base Health
+|-
+| [[File:Electabuzz.png|40px]] Electabuzz || &lt;center&gt; 67,535 || colspan=3 rowspan=2|&lt;center&gt; N/A
+|-
+| [[File:Zapdos.png|40px]] Zapdos || &lt;center&gt; 101,302
+|}
+
+==Items==
+
+===No Debuff===
+
+{| class="wikitable"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+|-
+| align="center" colspan=5| '''Common'''
+|-
+| {{Bag2|Lucky Incense}} || 4 || 45.10% || 44.14% || 39.86%
+|-
+| {{Bag2|Cheri}} || 2 || 22.55% || 22.07% || 19.93%
+|-
+| {{Pokemon|Electrode}} || N/A || 11.27% || 11.03% || 9.97%
+|-
+| align="center" colspan=5| '''Rare'''
+|-
+| {{Bag2|Yellow Shard}} || N/A || 21.06% || 22.52% || 29.01%
+|-
+| align="center" colspan=5| '''Mythic'''
+|-
+| {{Bag2|Max Revive}} || N/A || 0.01% || 0.24% || 1.23%
+|}
+
+===Debuff Drop Table===
+
+After Reaching Sinnoh, the drop chance for items in Kanto will be debuffed for any loot with a Tier rarer than Rare (ie: Epic, Legendary, Mythic).
+
+{| class="wikitable collapsible collapsed"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+|-
+| align="center" colspan=5| '''Common'''
+|-
+| {{Bag2|Lucky Incense}} || 4 || 43.29% || 43.29% || 43.29%
+|-
+| {{Bag2|Cheri}} || 2 || 21.64% || 21.64% || 21.64%
+|-
+| {{Pokemon|Electrode}} || N/A || 10.82% || 10.82% || 10.82%
+|-
+| align="center" colspan=5| '''Rare'''
+|-
+| {{Bag2|Yellow Shard}} || N/A || 24.24% || 24.24% || 24.24%
+|-
+| align="center" colspan=5| '''Mythic'''
+|-
+| {{Bag2|Max Revive}} || N/A || &lt;0.01% || &lt;0.01% || &lt;0.01%
+|}
+
+{{Kanto Dungeons}}
+
+[[Category:Dungeons|^Region #1 - Kanto^h]]</text>
+    <contributor>
+      <username>FuzzyBot</username>
+      <id>587</id>
+    </contributor>
+    <comment>Updating to match new version of source page</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>650c1b5863e67e5a78cd1f863299896596220bcb</sha1>
+  </revision>
+</page></mediawiki>

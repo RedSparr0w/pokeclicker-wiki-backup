@@ -1,0 +1,118 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Iapapa/en</title>
+  <ns>0</ns>
+  <id>5928</id>
+  <revision>
+    <id>30915</id>
+    <timestamp>2022-09-03T20:16:01Z</timestamp>
+    <text space="preserve" bytes="3647">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #19 Iapapa
+|image   = [[File:Iapapa.png]]
+|caption = This Berry is very big and sour. The juiciness of the pulp accentuates sourness.
+|growtime  = 6m 20s
+|harvest = 18 berries
+|replant = 30%
+|mutation = 0.5%
+|points = 60
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 spicy 
+*0 dry
+*0 sweet
+*0 bitter
+*15 sour
+}}
+
+'''Iapapa''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by surrounding an empty plot with at least 25, but no more than 80 points of sour and less than 5 points of all other flavours. The [[Aspear]] berry must be unlocked to obtain this berry.
+
+== Growth Tables ==
+=== Growth Stages ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 40 secs || 3 mins 20 secs || 3 mins 50 secs || 6 mins 20 secs - 12 mins 40 secs
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:IapapaTreeTaller.png|50px]] || &lt;center&gt; [[File:IapapaTreeBloom.png|50px]] || &lt;center&gt; [[File:IapapaTreeBerry.png|50px]]
+|}
+
+=== Ripening Time with Modifiers ===
+{| class="wikitable" | style="text-align: center;"
+! Modifier !! Ripe-Wither Time
+|-
+! None
+| 6 mins 20 secs -&lt;br&gt; 12 mins 40 secs
+|-
+! Sprayduck
+| 4 mins 13 secs -&lt;br&gt; 8 mins 27 secs
+|}
+
+== Flow Chart ==
+[[File:Iapapa_Flow_Chart.png|100px]]
+&lt;br&gt;
+
+== Mutation Strategy ==
+=== Possible Planting Formations ===
+
+You can fill your farm in the following way to obtain Iapapa berries. Purple squares indicate where mutations can occur.
+
+{| class="wikitable" style="text-align: center;"
+|+ Base Formation
+|-
+| style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Aspear.png|30px]]&lt;br&gt;[[Aspear]]
+|-
+| style="width: 40px;" | [[File:Aspear.png|30px]]&lt;br&gt;[[Aspear]] || [[File:Aspear.png|30px]]&lt;br&gt;[[Aspear]]
+|}
+
+{| class="wikitable" style="text-align: center;"
+|+ Optimized Planting Formations
+|-
+| style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Aspear.png|30px]]&lt;br&gt;[[Aspear]] || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Aspear.png|30px]]&lt;br&gt;[[Aspear]]
+|-
+| [[File:Aspear.png|30px]]&lt;br&gt;[[Aspear]] || [[File:Aspear.png|30px]]&lt;br&gt;[[Aspear]] || style="background-color:#9C7D98;" | || [[File:Aspear.png|30px]]&lt;br&gt;[[Aspear]] || [[File:Aspear.png|30px]]&lt;br&gt;[[Aspear]] 
+|- style="height: 50px;"
+| style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | 
+|-
+| style="background-color:#9C7D98;" | || [[File:Aspear.png|30px]]&lt;br&gt;[[Aspear]] || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || [[File:Aspear.png|30px]]&lt;br&gt;[[Aspear]] 
+|-
+| [[File:Aspear.png|30px]]&lt;br&gt;[[Aspear]] || [[File:Aspear.png|30px]]&lt;br&gt;[[Aspear]] || style="background-color:#9C7D98;" | || [[File:Aspear.png|30px]]&lt;br&gt;[[Aspear]] || [[File:Aspear.png|30px]]&lt;br&gt;[[Aspear]] 
+|}
+
+==Uses==
+===Mutations===
+
+Iapapa berries can be used to mutate the following berries.
+
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Wacan.png|20px]] [[Wacan]] || [[File:Pinap.png|20px]] [[Pinap]] &lt;br&gt; [[File:Qualot.png|20px]] [[Qualot]] &lt;br&gt; [[File:Grepa.png|20px]] [[Grepa]]
+|-
+|}
+
+==Acquisition==
+===Dungeons===
+{{Loot/head‎|Berries}}
+{{LootItem|Berry Forest|Epic}}
+{{LootItem|Pattern Bush|Epic}}
+{{LootItem|Radio Tower|Epic}}
+{{LootItem|Lostlorn Forest|Common}}
+|}
+|}
+
+{{Berries}}
+
+[[Category:Farm]][[Category:Berries]]</text>
+    <contributor>
+      <username>FuzzyBot</username>
+      <id>587</id>
+    </contributor>
+    <comment>Updating to match new version of source page</comment>
+    <model>wikitext</model>
+    <parentid>28078</parentid>
+    <sha1>de903e4c1196ed4084cc120be5a7249e5b4de52b</sha1>
+  </revision>
+</page></mediawiki>

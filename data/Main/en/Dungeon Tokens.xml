@@ -1,0 +1,909 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Dungeon Tokens/en</title>
+  <ns>0</ns>
+  <id>10201</id>
+  <revision>
+    <id>38491</id>
+    <timestamp>2022-10-07T16:38:40Z</timestamp>
+    <text space="preserve" bytes="44037">&lt;languages/&gt;
+[[File:DungeonToken.png|thumb|200px|A Dungeon Token]]
+
+==Description==
+'''Dungeon Tokens''' are blue tokens earned when a Pokémon is caught. They are consumables that are primarily used as a currency to enter '''[[Dungeons]].'''
+
+==Formulas==
+
+Dungeon Tokens are obtained via the following formula. Each Dungeon has an associated route that is approximately the same difficulty that is used in this calculation.
+
+&lt;math&gt;\colorbox{White}{$\text{Dungeon Tokens} = \text{max}(1, (6 \times \frac{\text{route} * 2}{\frac{2.8}{1 + \frac{\text{region}}{3}}})^{1.08} \times \text{Achievement Bonus}$}&lt;/math&gt;
+
+A rate of Average Dungeon Tokens Gained per Second has been calculated for each route in order to calculate the most efficient routes for Dungeon Token Farming in each region. The formula used to calculate the rates detailed on this page is as follows: &lt;br&gt;
+
+&lt;center&gt;&lt;math&gt;\colorbox{White}{$\frac {\text{Dungeon Tokens} \times \text{Average Catch%}} {\text{Defeat Time} + \text{Catch Time}}$}&lt;/math&gt;&lt;/center&gt; &lt;br&gt;
+
+'''Dungeon Tokens''' and '''Average Catch%''' are route specific constants. &lt;br&gt;
+'''Defeat Time''' represents the time taken to defeat a Pokémon and is a constant (defeat time = 1 second). &lt;br&gt;
+'''Catch Time''' is a ball specific constant (see more information on this ball-specific constant in [[Pokéballs]]).
+
+==Obtaining Dungeon Tokens==
+
+The following tables present the relevant information for gaining Dungeon Tokens. The most efficient routes are included in the [[Dungeon Tokens#Optimal Farming Routes|Optimal Farming Routes]] table. All route rates are also included below in subsequent tables. &lt;br&gt;
+
+The columns included in each table represent all the various combinations of the four standard [[Pokéballs]] and the [[Magic Ball]].
+&lt;br&gt;
+{| class="wikitable sortable"
+|-
+| PB || Just [[Pokéball|Pokéballs]]
+|-
+| PB + MB || Both Pokéballs and Magic Ball
+|-
+| GB || Just [[Greatball|Greatballs]]
+|-
+| GB + MB || Both Greatballs and Magic Ball
+|-
+| UB || Just [[Ultraball|Ultraballs]]
+|-
+| UB + MB || Both Ultraballs and Magic Ball
+|}
+
+Importantly, the following tables assume two things:
+
+# You can defeat these routes in 1-shot
+# You have the [[Magic Ball]] at max level (5)
+
+If either of these conditions is not met, it is possible that the most efficient route will not be the one listed in the table and that rates of Average Dungeon Tokens Gained per Second may be diminished.
+
+== Optimal Farming Routes ==
+
+{| class="wikitable sortable"
+|-
+! Region !! PB !! PB + MB !! GB !! GB + MB !! UB !! UB + MB
+|-
+| [[Kanto]] || Route 20 || Route 20 || Route 20 || Route 20 || Route 20 || Route 20
+|-
+| [[Johto]] || Route 26 || Route 26 || Route 26 || Route 26 || Route 26 || Route 26
+|-
+| [[Hoenn]] || Route 134 || Route 134 || Route 134 || Route 134 || Route 134 || Route 134
+|-
+| [[Sinnoh]] || Route 201 || Route 201 || Route 201 || Route 202 || Route 201 || Route 202
+|-
+| [[Unova]] || Route 8 || Route 8 || Route 8 || Route 3 || Route 8 || Route 18
+|-
+| [[Kalos]] || Route 2 || Route 2 || Route 2 || Route 2 || Route 2 || Route 2
+|-
+| [[Alola]] || Route 6 || Route 6 || Route 6 || Route 6 || Route 6 || Route 6
+|-
+|}
+
+==Regional Rate Tables==
+The following tables provide detailed information for every route, separated by region. DT represents the DT you gain per capture on each route, and the values underneath each Pokéball/Magic Ball combination represent the average Dungeon Tokens you will gain per second.
+
+=== [[Kanto]] ===
+====Main Region + Sevii Islands 123====
+{| class="mw-collapsible mw-collapsed wikitable sortable"
+|-
+! Route !! DT !! PB !! PB + MB !! GB !! GB + MB !! UB !! UB + MB
+|-
+| Kanto Route 1 || 4 || 1.12 || 1.3 || 1.36 || 1.56 || 1.67 || 1.9
+|-
+| Kanto Route 22 || 8 || 2.03 || 2.38 || 2.48 || 2.88 || 3.06 || 3.52
+|-
+| Kanto Route 2 || 13 || 3.64 || 4.22 || 4.42 || 5.07 || 5.42 || 6.17
+|-
+| Kanto Route 3 || 18 || 4.56 || 5.36 || 5.58 || 6.48 || 6.89 || 7.92
+|-
+| Kanto Route 4 || 23 || 6.03 || 7.05 || 7.36 || 8.51 || 9.07 || 10.38
+|-
+| Kanto Route 24 || 28 || 6.84 || 8.09 || 8.4 || 9.8 || 10.4 || 12
+|-
+| Kanto Route 25 || 34 || 8.31 || 9.82 || 10.2 || 11.9 || 12.63 || 14.57
+|-
+| Kanto Route 5 || 39 || 10.92 || 12.65 || 13.26 || 15.21 || 16.27 || 18.5
+|-
+| Kanto Route 6 || 44 || 11.54 || 13.49 || 14.08 || 16.28 || 17.35 || 19.86
+|-
+| Kanto Route 11 || 50 || 12.89 || 15.11 || 15.75 || 18.25 || 19.43 || 22.29
+|-
+| Kanto Route 9 || 55 || 15.4 || 17.84 || 18.7 || 21.45 || 22.94 || 26.09
+|-
+| Kanto Route 10 || 61 || 15.72 || 18.44 || 19.21 || 22.27 || 23.7 || 27.19
+|-
+| Kanto Route 8 || 66 || 17.31 || 20.24 || 21.12 || 24.42 || 26.02 || 29.79
+|-
+| Kanto Route 7 || 72 || 18.88 || 22.08 || 23.04 || 26.64 || 28.39 || 32.5
+|-
+| Kanto Route 12 || 77 || 15.74 || 19.16 || 19.64 || 23.48 || 24.64 || 29.04
+|-
+| Kanto Route 13 || 83 || 16.97 || 20.66 || 21.16 || 25.31 || 26.56 || 31.3
+|-
+| Kanto Route 14 || 88 || 17.6 || 21.51 || 22 || 26.4 || 27.66 || 32.69
+|-
+| Kanto Route 15 || 94 || 18.8 || 22.98 || 23.5 || 28.2 || 29.54 || 34.91
+|-
+| Kanto Route 16 || 100 || 20 || 24.44 || 25 || 30 || 31.43 || 37.14
+|-
+| Kanto Route 17 || 106 || 22.61 || 27.32 || 28.09 || 33.39 || 35.13 || 41.19
+|-
+| Kanto Route 18 || 111 || 23.68 || 28.61 || 29.42 || 34.97 || 36.79 || 43.13
+|-
+| Kanto Route 19 || 117 || 29.64 || 34.84 || 36.27 || 42.12 || 44.79 || 51.48
+|-
+| Kanto Route 20 || 123 || 30.61 || 36.08 || 37.52 || 43.67 || 46.39 || 53.42
+|-
+| Kanto Route 21 || 129 || 28.67 || 34.4 || 35.48 || 41.93 || 44.23 || 51.6
+|-
+| Treasure Beach || 129 || 26.37 || 32.11 || 32.9 || 39.34 || 41.28 || 48.65
+|-
+| Kindle Road || 129 || 27.52 || 33.25 || 34.19 || 40.63 || 42.75 || 50.13
+|-
+| Cape Brink || 129 || 25.8 || 31.53 || 32.25 || 38.7 || 40.54 || 47.91
+|-
+| Bond Bridge || 129 || 28.09 || 33.83 || 34.83 || 41.28 || 43.49 || 50.86
+|-
+| Kanto Route 23 || 134 || 29.18 || 35.14 || 36.18 || 42.88 || 45.18 || 52.83
+|}
+
+====Sevii Islands 4567====
+{| class="mw-collapsible mw-collapsed wikitable sortable"
+|-
+! Route !! DT !! PB !! PB + MB !! GB !! GB + MB !! UB !! UB + MB
+|-
+| Five Isle Meadow || 158 || 30.9 || 37.92 || 38.71 || 46.61 || 48.75 || 57.78
+|-
+| Memorial Pillar || 158 || 29.49 || 36.52 || 37.13 || 45.03 || 46.95 || 55.98
+|-
+| Water Labyrinth || 158 || 29.49 || 36.52 || 37.13 || 45.03 || 46.95 || 55.98
+|-
+| Resort Gorgeous || 158 || 29.49 || 36.52 || 37.13 || 45.03 || 46.95 || 55.98
+|-
+| Water Path || 158 || 30.9 || 37.92 || 38.71 || 46.61 || 48.75 || 57.78
+|-
+| Green Path || 158 || 28.09 || 35.11 || 35.55 || 43.45 || 45.14 || 54.17
+|-
+| Outcast Island || 158 || 28.09 || 35.11 || 35.55 || 43.45 || 45.14 || 54.17
+|-
+| Ruin Valley || 158 || 31.6 || 38.62 || 39.5 || 47.4 || 49.66 || 58.69
+|-
+| Canyon Entrance || 158 || 33.71 || 40.73 || 41.87 || 49.77 || 52.37 || 61.39
+|-
+| Sevault Canyon || 158 || 23.88 || 30.9 || 30.81 || 38.71 || 39.73 || 48.75
+|-
+| Valencia Island || 158 || 24.58 || 31.6 || 31.6 || 39.5 || 40.63 || 49.66
+|-
+| Pinkan Forest || 158 || 33 || 40.03 || 41.08 || 48.98 || 51.46 || 60.49
+|-
+| Pinkan Plains || 158 || 43.54 || 50.56 || 52.93 || 60.83 || 65.01 || 74.03
+|}
+
+=== [[Johto]] ===
+{| class="mw-collapsible mw-collapsed wikitable sortable"
+|-
+! Route !! DT !! PB !! PB + MB !! GB !! GB + MB !! UB !! UB + MB
+|-
+| Johto Route 29 || 192 || 48.64 || 57.17 || 59.52 || 69.12 || 73.51 || 84.48
+|-
+| Johto Route 46 || 200 || 41.78 || 50.67 || 52 || 62 || 65.14 || 76.57
+|-
+| Johto Route 30 || 208 || 50.84 || 60.09 || 62.4 || 72.8 || 77.26 || 89.14
+|-
+| Johto Route 31 || 216 || 50.88 || 60.48 || 62.64 || 73.44 || 77.76 || 90.1
+|-
+| Johto Route 32 || 224 || 49.78 || 59.73 || 61.6 || 72.8 || 76.8 || 89.6
+|-
+| Johto Route 33 || 232 || 52.59 || 62.9 || 64.96 || 76.56 || 80.87 || 94.13
+|-
+| Johto Route 34 || 240 || 49.07 || 59.73 || 61.2 || 73.2 || 76.8 || 90.51
+|-
+| Johto Route 35 || 248 || 55.11 || 66.13 || 68.2 || 80.6 || 85.03 || 99.2
+|-
+| Johto Route 36 || 256 || 56.89 || 68.27 || 70.4 || 83.2 || 87.77 || 102.4
+|-
+| Johto Route 37 || 264 || 61.01 || 72.75 || 75.24 || 88.44 || 93.53 || 108.62
+|-
+| Johto Route 38 || 272 || 54.4 || 66.49 || 68 || 81.6 || 85.49 || 101.03
+|-
+| Johto Route 39 || 281 || 54.95 || 67.44 || 68.84 || 82.89 || 86.71 || 102.77
+|-
+| Johto Route 40 || 289 || 52.66 || 65.51 || 66.47 || 80.92 || 84.22 || 100.74
+|-
+| Johto Route 41 || 297 || 54.12 || 67.32 || 68.31 || 83.16 || 86.55 || 103.53
+|-
+| Johto Route 42 || 305 || 62.36 || 75.91 || 77.78 || 93.02 || 97.6 || 115.03
+|-
+| Johto Route 43 || 314 || 64.2 || 78.15 || 80.07 || 95.77 || 100.48 || 118.42
+|-
+| Johto Route 44 || 322 || 57.24 || 71.56 || 72.45 || 88.55 || 92 || 110.4
+|-
+| Johto Route 45 || 330 || 52.8 || 67.47 || 67.65 || 84.15 || 86.74 || 105.6
+|-
+| Johto Route 47 || 338 || 58.59 || 73.61 || 74.36 || 91.26 || 94.64 || 113.95
+|-
+| Johto Route 48 || 347 || 67.86 || 83.28 || 85.02 || 102.36 || 107.07 || 126.9
+|-
+| Johto Route 27 || 355 || 67.84 || 83.62 || 85.2 || 102.95 || 107.51 || 127.8
+|-
+| Johto Route 26 || 364 || 69.56 || 85.74 || 87.36 || 105.56 || 110.24 || 131.04
+|-
+| Johto Route 28 || 372 || 51.25 || 67.79 || 66.96 || 85.56 || 87.15 || 108.41
+|-
+|}
+
+=== [[Hoenn]] ===
+{| class="mw-collapsible mw-collapsed wikitable sortable"
+|-
+! Route !! DT !! PB !! PB + MB !! GB !! GB + MB !! UB !! UB + MB
+|-
+| Hoenn Route 101 || 484 || 135.52 || 157.03 || 164.56 || 188.76 || 201.9 || 229.55
+|-
+| Hoenn Route 103 || 495 || 101.2 || 123.2 || 126.23 || 150.97 || 158.4 || 186.69
+|-
+| Hoenn Route 102 || 505 || 132.42 || 154.87 || 161.6 || 186.85 || 199.11 || 227.97
+|-
+| Hoenn Route 104 || 516 || 116.96 || 139.89 || 144.48 || 170.28 || 179.86 || 209.35
+|-
+| Hoenn Route 116 || 527 || 133.51 || 156.93 || 163.37 || 189.72 || 201.77 || 231.88
+|-
+| Hoenn Route 110 || 538 || 119.56 || 143.47 || 147.95 || 174.85 || 184.46 || 215.2
+|-
+| Hoenn Route 117 || 548 || 131.52 || 155.88 || 161.66 || 189.06 || 200.41 || 231.73
+|-
+| Hoenn Route 111 || 559 || 144.1 || 168.94 || 176.09 || 204.03 || 217.21 || 249.15
+|-
+| Hoenn Route 112 || 570 || 144.4 || 169.73 || 176.7 || 205.2 || 218.23 || 250.8
+|-
+| Hoenn Route 113 || 581 || 105.87 || 131.69 || 133.63 || 162.68 || 169.32 || 202.52
+|-
+| Hoenn Route 114 || 592 || 128.92 || 155.24 || 159.84 || 189.44 || 199.59 || 233.42
+|-
+| Hoenn Route 115 || 603 || 120.6 || 147.4 || 150.75 || 180.9 || 189.51 || 223.97
+|-
+| Hoenn Route 105 || 613 || 117.15 || 144.4 || 147.12 || 177.77 || 185.65 || 220.68
+|-
+| Hoenn Route 106 || 624 || 119.25 || 146.99 || 149.76 || 180.96 || 188.98 || 224.64
+|-
+| Hoenn Route 107 || 635 || 121.36 || 149.58 || 152.4 || 184.15 || 192.31 || 228.6
+|-
+| Hoenn Route 108 || 646 || 123.46 || 152.17 || 155.04 || 187.34 || 195.65 || 232.56
+|-
+| Hoenn Route 109 || 657 || 125.56 || 154.76 || 157.68 || 190.53 || 198.98 || 236.52
+|-
+| Hoenn Route 118 || 668 || 133.6 || 163.29 || 167 || 200.4 || 209.94 || 248.11
+|-
+| Hoenn Route 119 || 679 || 126.75 || 156.92 || 159.56 || 193.51 || 201.76 || 240.56
+|-
+| Hoenn Route 120 || 690 || 156.4 || 187.07 || 193.2 || 227.7 || 240.51 || 279.94
+|-
+| Hoenn Route 121 || 701 || 149.55 || 180.7 || 185.77 || 220.81 || 232.33 || 272.39
+|-
+| Hoenn Route 122 || 712 || 126.58 || 158.22 || 160.2 || 195.8 || 203.43 || 244.11
+|-
+| Hoenn Route 123 || 723 || 154.24 || 186.37 || 191.59 || 227.75 || 239.62 || 280.94
+|-
+| Hoenn Route 124 || 734 || 127.23 || 159.85 || 161.48 || 198.18 || 205.52 || 247.46
+|-
+| Hoenn Route 125 || 745 || 132.44 || 165.56 || 167.63 || 204.88 || 212.86 || 255.43
+|-
+| Hoenn Route 126 || 756 || 131.04 || 164.64 || 166.32 || 204.12 || 211.68 || 254.88
+|-
+| Hoenn Route 127 || 767 || 136.36 || 170.44 || 172.58 || 210.93 || 219.14 || 262.97
+|-
+| Hoenn Route 128 || 778 || 145.23 || 179.8 || 182.83 || 221.73 || 231.18 || 275.63
+|-
+| Hoenn Route 129 || 789 || 129.75 || 164.81 || 165.69 || 205.14 || 211.9 || 256.99
+|-
+| Hoenn Route 130 || 800 || 138.67 || 174.22 || 176 || 216 || 224 || 269.71
+|-
+| Hoenn Route 131 || 811 || 144.18 || 180.22 || 182.47 || 223.03 || 231.71 || 278.06
+|-
+| Hoenn Route 132 || 822 || 153.44 || 189.97 || 193.17 || 234.27 || 244.25 || 291.22
+|-
+| Hoenn Route 133 || 833 || 155.49 || 192.52 || 195.75 || 237.4 || 247.52 || 295.12
+|-
+| Hoenn Route 134 || 844 || 157.55 || 195.06 || 198.34 || 240.54 || 250.79 || 299.02
+|-
+|}
+
+=== [[Sinnoh]] ===
+{| class="mw-collapsible mw-collapsed wikitable sortable"
+|-
+! Route !! DT !! PB !! PB + MB !! GB !! GB + MB !! UB !! UB + MB
+|-
+| Sinnoh Route 201 || 1,042 || 291.76 || 338.07 || 354.28 || 406.38 || 434.66 || 494.21
+|-
+| Sinnoh Route 202 || 1,056 || 290.99 || 337.92 || 353.76 || 406.56 || 434.47 || 494.81
+|-
+| Sinnoh Route 203 || 1,069 || 237.56 || 285.07 || 293.98 || 347.43 || 366.51 || 427.6
+|-
+| Sinnoh Route 204 || 1,083 || 245.48 || 293.61 || 303.24 || 357.39 || 377.5 || 439.39
+|-
+| Sinnoh Route 205 || 1,096 || 204.59 || 253.3 || 257.56 || 312.36 || 325.67 || 388.3
+|-
+| Sinnoh Route 206 || 1,110 || 226.93 || 276.27 || 283.05 || 338.55 || 355.2 || 418.63
+|-
+| Sinnoh Route 207 || 1,124 || 284.75 || 334.7 || 348.44 || 404.64 || 430.33 || 494.56
+|-
+| Sinnoh Route 208 || 1,137 || 227.4 || 277.93 || 284.25 || 341.1 || 357.34 || 422.31
+|-
+| Sinnoh Route 209 || 1,151 || 209.74 || 260.89 || 264.73 || 322.28 || 335.43 || 401.21
+|-
+| Sinnoh Route 210 || 1,165 || 212.29 || 264.07 || 267.95 || 326.2 || 339.51 || 406.09
+|-
+| Sinnoh Route 215 || 1,178 || 178.01 || 230.36 || 229.71 || 288.61 || 296.18 || 363.5
+|-
+| Sinnoh Route 214 || 1,192 || 227.8 || 280.78 || 286.08 || 345.68 || 361.01 || 429.12
+|-
+| Sinnoh Route 213 || 1,206 || 214.4 || 268 || 271.35 || 331.65 || 344.57 || 413.49
+|-
+| Sinnoh Route 212 || 1,219 || 222.13 || 276.31 || 280.37 || 341.32 || 355.25 || 424.91
+|-
+| Sinnoh Route 211 || 1,233 || 263.04 || 317.84 || 326.75 || 388.39 || 408.65 || 479.11
+|-
+| Sinnoh Route 218 || 1,247 || 182.89 || 238.32 || 236.93 || 299.28 || 306.41 || 377.66
+|-
+| Sinnoh Route 216 || 1,261 || 235.39 || 291.43 || 296.33 || 359.38 || 374.7 || 446.75
+|-
+| Sinnoh Route 217 || 1,274 || 232.15 || 288.77 || 293.02 || 356.72 || 371.28 || 444.08
+|-
+| Sinnoh Route 219 || 1,288 || 223.25 || 280.5 || 283.36 || 347.76 || 360.64 || 434.24
+|-
+| Sinnoh Route 220 || 1,302 || 219.89 || 277.76 || 279.93 || 345.03 || 357.12 || 431.52
+|-
+| Sinnoh Route 221 || 1,316 || 204.71 || 263.2 || 263.2 || 329 || 338.4 || 413.6
+|-
+| Sinnoh Route 222 || 1,329 || 189.01 || 248.08 || 245.87 || 312.31 || 318.96 || 394.9
+|-
+| Sinnoh Route 223 || 1,343 || 173.1 || 232.79 || 228.31 || 295.46 || 299.3 || 376.04
+|-
+| Sinnoh Route 224 || 1,357 || 205.06 || 265.37 || 264.62 || 332.46 || 341.19 || 418.73
+|-
+| Sinnoh Route 225 || 1,371 || 225.45 || 286.39 || 287.91 || 356.46 || 368.21 || 446.55
+|-
+| Sinnoh Route 226 || 1,385 || 215.44 || 277 || 277 || 346.25 || 356.14 || 435.29
+|-
+| Sinnoh Route 227 || 1,399 || 223.84 || 286.02 || 286.79 || 356.75 || 367.74 || 447.68
+|-
+| Sinnoh Route 228 || 1,413 || 232.36 || 295.16 || 296.73 || 367.38 || 379.49 || 460.23
+|-
+| Sinnoh Route 229 || 1,426 || 228.16 || 291.54 || 292.33 || 363.63 || 374.83 || 456.32
+|-
+| Sinnoh Route 230 || 1,440 || 236.8 || 300.8 || 302.4 || 374.4 || 386.74 || 469.03
+|-
+|}
+
+=== [[Unova]] ===
+{| class="mw-collapsible mw-collapsed wikitable sortable"
+|-
+! Route !! DT !! PB !! PB + MB !! GB !! GB + MB !! UB !! UB + MB
+|-
+| Unova Route 19 || 1,718 || 282.52 || 358.87 || 360.78 || 446.68 || 461.41 || 559.58
+|-
+| Unova Route 20 || 1,734 || 369.92 || 446.99 || 459.51 || 546.21 || 574.7 || 673.78
+|-
+| Unova Route 4 || 1,751 || 381.33 || 459.15 || 472.77 || 560.32 || 590.34 || 690.39
+|-
+| Desert Resort || 1,767 || 376.96 || 455.49 || 468.25 || 556.61 || 585.63 || 686.61
+|-
+| Unova Route 5 || 1,783 || 388.3 || 467.54 || 481.41 || 570.56 || 601.13 || 703.01
+|-
+| Unova Route 16 || 1,800 || 392 || 472 || 486 || 576 || 606.86 || 709.71
+|-
+| Unova Route 6 || 1,816 || 338.99 || 419.7 || 426.76 || 517.56 || 539.61 || 643.38
+|-
+| Unova Route 7 || 1,833 || 350.31 || 431.77 || 439.92 || 531.57 || 555.14 || 659.88
+|-
+| Unova Route 13 || 1,849 || 189.01 || 271.19 || 258.86 || 351.31 || 348.67 || 454.33
+|-
+| Undella Bay || 1,866 || 348.32 || 431.25 || 438.51 || 531.81 || 554.47 || 661.1
+|-
+| Unova Route 14 || 1,882 || 234.2 || 317.85 || 310.53 || 404.63 || 408.66 || 516.21
+|-
+| Unova Route 12 || 1,899 || 295.4 || 379.8 || 379.8 || 474.75 || 488.31 || 596.83
+|-
+| Unova Route 11 || 1,916 || 272.5 || 357.65 || 354.46 || 450.26 || 459.84 || 569.33
+|-
+| Unova Route 9 || 1,932 || 283.36 || 369.23 || 367.08 || 463.68 || 474.72 || 585.12
+|-
+| Unova Route 21 || 1,949 || 389.8 || 476.42 || 487.25 || 584.7 || 612.54 || 723.91
+|-
+| Unova Route 22 || 1,965 || 209.6 || 296.93 || 284.92 || 383.18 || 381.77 || 494.06
+|-
+| Unova Route 23 || 1,982 || 273.08 || 361.16 || 356.76 || 455.86 || 464.35 || 577.61
+|-
+| Unova Route 8 || 1,998 || 399.6 || 488.4 || 499.5 || 599.4 || 627.94 || 742.11
+|-
+| Unova Route 15 || 2,015 || 197.02 || 286.58 || 272.03 || 372.77 || 368.46 || 483.6
+|-
+| Unova Route 3 || 2,032 || 397.37 || 487.68 || 497.84 || 599.44 || 627.02 || 743.13
+|-
+| Unova Route 2 || 2,048 || 345.88 || 436.91 || 440.32 || 542.72 || 561.74 || 678.77
+|-
+| Unova Route 1 || 2,065 || 293.69 || 385.47 || 382.02 || 485.27 || 495.6 || 613.6
+|-
+| Unova Route 17 || 2,082 || 351.63 || 444.16 || 447.63 || 551.73 || 571.06 || 690.03
+|-
+| Unova Route 18 || 2,098 || 391.63 || 484.87 || 493.03 || 597.93 || 623.41 || 743.29
+|-
+|}
+
+=== [[Kalos]] ===
+{| class="mw-collapsible mw-collapsed wikitable sortable"
+! Route !! DT !! PB !! PB + MB !! GB !! GB + MB !! UB !! UB + MB
+|-
+| Kalos Route 1 || 2,443 || 684.04 || 792.62 || 830.62 || 952.77 || 1019.08 || 1158.68
+|-
+| Kalos Route 2 || 2,462 || 689.36 || 798.78 || 837.08 || 960.18 || 1027.01 || 1167.69
+|-
+| Kalos Route 3 || 2,482 || 573.62 || 683.93 || 707.37 || 831.47 || 879.34 || 1021.17
+|-
+| Kalos Route 22 || 2,501 || 489.08 || 600.24 || 612.75 || 737.79 || 771.74 || 914.65
+|-
+| Kalos Route 4 || 2,520 || 638.4 || 750.4 || 781.2 || 907.2 || 964.8 || 1108.8
+|-
+| Kalos Route 5 || 2,540 || 598.31 || 711.2 || 736.6 || 863.6 || 914.4 || 1059.54
+|-
+| Kalos Route 6 || 2,559 || 648.28 || 762.01 || 793.29 || 921.24 || 979.73 || 1125.96
+|-
+| Kalos Route 7 || 2,578 || 515.6 || 630.18 || 644.5 || 773.4 || 810.23 || 957.54
+|-
+| Kalos Route 8 || 2,598 || 496.51 || 611.97 || 623.52 || 753.42 || 786.82 || 935.28
+|-
+| Kalos Route 9 || 2,617 || 535.03 || 651.34 || 667.34 || 798.18 || 837.44 || 986.98
+|-
+| Kalos Route 10 || 2,636 || 492.05 || 609.21 || 619.46 || 751.26 || 783.27 || 933.9
+|-
+| Kalos Route 11 || 2,656 || 436.76 || 554.81 || 557.76 || 690.56 || 713.33 || 865.1
+|-
+| Kalos Route 12 || 2,675 || 368.56 || 487.44 || 481.5 || 615.25 || 626.71 || 779.57
+|-
+| Azure Bay || 2,694 || 454.99 || 574.72 || 579.21 || 713.91 || 738.93 || 892.87
+|-
+| Kalos Route 13 || 2,714 || 385.99 || 506.61 || 502.09 || 637.79 || 651.36 || 806.45
+|-
+| Kalos Route 14 || 2,733 || 485.87 || 607.33 || 614.93 || 751.58 || 780.86 || 937.03
+|-
+| Kalos Route 15 || 2,753 || 428.24 || 550.6 || 550.6 || 688.25 || 707.91 || 865.23
+|-
+| Kalos Route 16 || 2,772 || 394.24 || 517.44 || 512.82 || 651.42 || 665.28 || 823.68
+|-
+| Kalos Route 17 || 2,792 || 285.4 || 409.49 || 390.88 || 530.48 || 526.49 || 686.03
+|-
+| Kalos Route 18 || 2,811 || 349.81 || 474.75 || 463.81 || 604.37 || 610.39 || 771.02
+|-
+| Kalos Route 19 || 2,831 || 452.96 || 578.78 || 580.36 || 721.9 || 744.15 || 905.92
+|-
+| Kalos Route 20 || 2,850 || 354.67 || 481.33 || 470.25 || 612.75 || 618.86 || 781.71
+|-
+| Kalos Route 21 || 2,870 || 382.67 || 510.22 || 502.25 || 645.75 || 656 || 820
+|-
+|}
+
+=== [[Alola]] ===
+{| class="mw-collapsible mw-collapsed wikitable sortable"
+! Route !! DT !! PB !! PB + MB !! GB !! GB + MB !! UB !! UB + MB
+|-
+| Alola Route 1 || 3,281 || 874.93 || 1020.76 || 1066.33 || 1230.38 || 1312.4 || 1499.89
+|-
+| Route 1 Hau'oli Outskirts || 3,303 || 645.92 || 792.72 || 809.24 || 974.38 || 1019.21 || 1207.95
+|-
+| Alola Route 2 || 3,325 || 768.44 || 916.22 || 947.63 || 1113.88 || 1178 || 1368
+|-
+| Alola Route 3 || 3,348 || 669.6 || 818.4 || 837 || 1004.4 || 1052.23 || 1243.54
+|-
+| Alola Route 4 || 3,370 || 883.69 || 1033.47 || 1078.4 || 1246.9 || 1328.74 || 1521.31
+|-
+| Alola Route 5 || 3,392 || 753.78 || 904.53 || 932.8 || 1102.4 || 1162.97 || 1356.8
+|-
+| Melemele Sea || 3,414 || 667.63 || 819.36 || 836.43 || 1007.13 || 1053.46 || 1248.55
+|-
+| Kala'e Bay || 3,436 || 687.2 || 839.91 || 859 || 1030.8 || 1079.89 || 1276.23
+|-
+| Alola Route 6 || 3,459 || 907.03 || 1060.76 || 1106.88 || 1279.83 || 1363.83 || 1561.49
+|-
+| Alola Route 7 || 3,481 || 696.2 || 850.91 || 870.25 || 1044.3 || 1094.03 || 1292.94
+|-
+| Alola Route 8 || 3,503 || 731.74 || 887.43 || 910.78 || 1085.93 || 1140.98 || 1341.15
+|-
+| Alola Route 9 || 3,525 || 658 || 814.67 || 828.38 || 1004.62 || 1047.43 || 1248.86
+|-
+| Akala Outskirts || 3,548 || 725.37 || 883.06 || 904.74 || 1082.14 || 1135.36 || 1338.1
+|-
+| Alola Route 10 || 3,570 || 507.73 || 666.4 || 660.45 || 838.95 || 856.8 || 1060.8
+|-
+| Mount Hokulani || 3,592 || 287.36 || 447 || 413.08 || 592.68 || 574.72 || 779.98
+|-
+| Alola Route 11 || 3,614 || 513.99 || 674.61 || 668.59 || 849.29 || 867.36 || 1073.87
+|-
+| Alola Route 12 || 3,637 || 565.76 || 727.4 || 727.4 || 909.25 || 935.23 || 1143.06
+|-
+| Alola Route 13 || 3,659 || 585.44 || 748.06 || 750.09 || 933.05 || 961.79 || 1170.88
+|-
+| Alola Route 14 || 3,681 || 572.6 || 736.2 || 736.2 || 920.25 || 946.54 || 1156.89
+|-
+| Alola Route 15 || 3,704 || 625.56 || 790.19 || 796.36 || 981.56 || 1015.95 || 1227.61
+|-
+| Alola Route 16 || 3,726 || 629.28 || 794.88 || 801.09 || 987.39 || 1021.99 || 1234.9
+|-
+| Alola Route 17 || 3,749 || 516.53 || 683.15 || 674.82 || 862.27 || 878.34 || 1092.57
+|-
+| Haina Desert || 3,771 || 603.36 || 770.96 || 773.05 || 961.61 || 991.23 || 1206.72
+|-
+| Poni Wilds || 3,793 || 539.45 || 708.03 || 701.71 || 891.35 || 910.32 || 1127.06
+|-
+| Ancient Poni Path || 3,816 || 542.72 || 712.32 || 705.96 || 896.76 || 915.84 || 1133.9
+|-
+| Poni Breaker Coast || 3,838 || 511.73 || 682.31 || 671.65 || 863.55 || 877.26 || 1096.57
+|-
+| Poni Grove || 3,860 || 411.73 || 583.29 || 559.7 || 752.7 || 749.94 || 970.51
+|-
+| Poni Plains || 3,883 || 552.25 || 724.83 || 718.36 || 912.5 || 931.92 || 1153.81
+|-
+| Poni Coast || 3,905 || 312.4 || 485.96 || 449.07 || 644.32 || 624.8 || 847.94
+|-
+| Poni Gauntlet || 3,928 || 558.65 || 733.23 || 726.68 || 923.08 || 942.72 || 1167.18
+|-
+|}
+
+==Uses==
+===Dungeon Entry Cost===
+
+==== [[Kanto]] ====
+=====Main Region + Sevii Islands 123=====
+{| class="mw-collapsible mw-collapsed wikitable sortable"
+|-
+! Name !! Location !! Entry Price
+|-
+| [[File:Viridian Forest.png|30px]] [[Viridian Forest]]  ||  Kanto Route 2  ||  style="text-align: right;" | 50 {{dungeontokens}}
+|-
+| [[File:Mt. Moon.png|30px]] [[Mt. Moon]]  ||  Between Kanto Route 3 &amp; 4  ||  style="text-align: right;" | 75 {{dungeontokens}}
+|-
+| [[File:Digletts Cave.png|30px]] [[Digletts Cave]]  ||  Kanto Route 2, or Kanto Route 11  ||  style="text-align: right;" | 95 {{dungeontokens}}
+|-
+| [[File:Rock Tunnel.png|30px]] [[Rock Tunnel]]  ||  Between Kanto Route 9 &amp; 10  ||  style="text-align: right;" | 500 {{dungeontokens}}
+|-
+| [[File:Rocket Game Corner.png|30px]] [[Rocket Game Corner]] || Celadon City || style="text-align: right;" | 625 {{dungeontokens}}
+|-
+| [[File:Pokemon Tower.png|30px]] [[Pokemon Tower|Pokémon Tower]]  ||  Lavender Town  ||  style="text-align: right;" | 750 {{dungeontokens}}
+|-
+| [[File:Silph Co.png|30px]] [[Silph Co|Silph Co.]] || Saffron City || style="text-align: right;" | 875 {{dungeontokens}}
+|-
+| [[File:Power Plant.png|30px]] [[Power Plant]]  ||  Kanto Route 10  ||  style="text-align: right;" | 1,000 {{dungeontokens}}
+|-
+| [[File:Seafoam Islands.png|30px]] [[Seafoam Islands]]  ||  Between Kanto Route 19 &amp; 20  ||  style="text-align: right;" | 1,250 {{dungeontokens}}
+|-
+| [[File:Pokemon Mansion.png|30px]] [[Pokemon Mansion|Pokémon Mansion]]  ||  Cinnabar Island  ||  style="text-align: right;" | 1,500 {{dungeontokens}}
+|-
+| [[File:Mt. Ember Summit.png|30px]] [[Mt. Ember Summit]] || Sevii Island 1 || style="text-align: right;" | 1,750 {{dungeontokens}}
+|-
+| [[File:Berry Forest.png|30px]] [[Berry Forest]] || Sevii Island 3 || style="text-align: right;" | 1,750 {{dungeontokens}}
+|-
+| [[File:Victory Road.png|30px]] [[Victory Road]]  ||  Kanto Route 23  ||  style="text-align: right;" | 2,000 {{dungeontokens}}
+|-
+| [[File:Cerulean Cave.png|30px]] [[Cerulean Cave]]  ||  Cerulean City  ||  style="text-align: right;" | 2,500 {{dungeontokens}}
+|-
+| [[File:Ruby Path.png|30px]] [[Ruby Path]]  || Sevii Island 1 ||  style="text-align: right;" | 43,000 {{dungeontokens}}
+|}
+
+=====Sevii Islands 4567=====
+{| class="mw-collapsible mw-collapsed wikitable sortable"
+|-
+! Name !! Location !! Entry Price
+|-
+| [[File:Icefall Cave.png|30px]] [[Icefall Cave]]  || Sevii Island 4 ||  style="text-align: right;" | 43,000 {{dungeontokens}}
+|-
+| [[File:Sunburst Island.png|30px]] [[Sunburst Island]]  || Sevii Island 5 ||  style="text-align: right;" | 43,000 {{dungeontokens}}
+|-
+| [[File:Lost Cave.png|30px]] [[Lost Cave]]  || Sevii Island 5 ||  style="text-align: right;" | 36,000 {{dungeontokens}}
+|-
+| [[File:Pattern Bush.png|30px]] [[Pattern Bush]]  || Sevii Island 6 ||  style="text-align: right;" | 43,000 {{dungeontokens}}
+|-
+| [[File:Altering Cave.png|30px]] [[Altering Cave]]  || Sevii Island 6 ||  style="text-align: right;" | 43,000 {{dungeontokens}}
+|-
+| [[File:Tanoby Ruins.png|30px]] [[Tanoby Ruins]]  || Sevii Island 7 ||  style="text-align: right;" | 43,000 {{dungeontokens}}
+|-
+| [[File:Pinkan Mountain.png|30px]] [[Pinkan Mountain]]  || Pinkan Island ||  style="text-align: right;" | 89,500 {{dungeontokens}}
+|}
+
+==== [[Johto]] ====
+{| class="mw-collapsible mw-collapsed wikitable sortable"
+|-
+! Name !! Location !! Entry Price
+|-
+| [[File:Sprout Tower.png|30px]] [[Sprout Tower]]  ||   Johto Route 31  ||  style="text-align: right;" | 2,500 {{dungeontokens}}
+|-
+| [[File:Ruins of Alph.png|30px]] [[Ruins of Alph]]  ||  Johto Route 32  ||  style="text-align: right;" | 3,000 {{dungeontokens}}
+|-
+| [[File:Union Cave.png|30px]] [[Union Cave]]  ||  Johto Route 32  ||  style="text-align: right;" | 3,000 {{dungeontokens}}
+|-
+| [[File:Slowpoke Well.png|30px]] [[Slowpoke Well]]  ||  Azalea Town  ||  style="text-align: right;" | 3,500 {{dungeontokens}}
+|-
+| [[File:Ilex Forest.png|30px]] [[Ilex Forest]]  ||  Johto Route 34  ||  style="text-align: right;" | 4,000 {{dungeontokens}}
+|-
+| [[File:Burned Tower.png|30px]] [[Burned Tower]]  ||  Johto Route 38  ||  style="text-align: right;" | 4,500 {{dungeontokens}}
+|-
+| [[File:Tin Tower.png|30px]] [[Tin Tower]]  ||  Johto Route 38  ||  style="text-align: right;" | 4,500 {{dungeontokens}}
+|-
+| [[File:Whirl Islands.png|30px]] [[Whirl Islands]]  ||  Johto Route 41  ||  style="text-align: right;" | 5,000 {{dungeontokens}}
+|-
+| [[File:Mt Mortar.png|30px]] [[Mt Mortar]]  ||  Johto Route 42  ||  style="text-align: right;" | 5,500 {{dungeontokens}}
+|-
+| [[File:Team Rockets Hideout.png|30px]] [[Team Rockets Hideout]]  ||  Mahogany Town  ||  style="text-align: right;" | 5,500 {{dungeontokens}}
+|-
+| [[File:Radio Tower.png|30px]] [[Radio Tower]]  ||  Goldenrod City  ||  style="text-align: right;" | 5,750 {{dungeontokens}}
+|-
+| [[File:Ice Path.png|30px]] [[Ice Path]]  ||  Between Johto Route 44 &amp; 45  ||  style="text-align: right;" | 6,000 {{dungeontokens}}
+|-
+| [[File:Dark Cave.png|30px]] [[Dark Cave]]  ||  Between Johto Route 45 &amp; 46  ||  style="text-align: right;" | 6,500 {{dungeontokens}}
+|-
+| [[File:Victory Road Johto.png|30px]] [[Victory Road Johto]]  ||  Johto Route 26  ||  style="text-align: right;" | 7,000 {{dungeontokens}}
+|-
+| [[File:Mt Silver.png|30px]] [[Mt Silver]]  ||  Johto Route 28  ||  style="text-align: right;" | 10,000 {{dungeontokens}}
+|}
+
+==== [[Hoenn]] ====
+{| class="mw-collapsible mw-collapsed wikitable sortable"
+|-
+! Name !! Location !! Entry Price
+|-
+| [[File:Petalburg Woods.png|30px]] [[Petalburg Woods]]  ||  Hoenn Route 104  ||  style="text-align: right;" | 12,000 {{dungeontokens}}
+|-
+| [[File:Rusturf Tunnel.png|30px]] [[Rusturf Tunnel]]  ||  Hoenn Route 116  ||  style="text-align: right;" | 14,000 {{dungeontokens}}
+|-
+| [[File:Granite Cave.png|30px]] [[Granite Cave]]  ||  Hoenn Route 106  ||  style="text-align: right;" | 16,000 {{dungeontokens}}
+|-
+| [[File:Fiery Path.png|30px]] [[Fiery Path]]  ||  Hoenn Route 112  ||  style="text-align: right;" | 17,000 {{dungeontokens}}
+|-
+| [[File:Meteor Falls.png|30px]] [[Meteor Falls]]  ||  Between Hoenn Route 115 &amp; 114  ||  style="text-align: right;" | 18,000 {{dungeontokens}}
+|-
+| [[File:Mt. Chimney.png|30px]] [[Mt. Chimney Crater]]  ||  Hoenn Route 112  ||  style="text-align: right;" | 20,000 {{dungeontokens}}
+|-
+| [[File:Jagged Pass.png|30px]] [[Jagged Pass]]  ||  Hoenn Route 112  ||  style="text-align: right;" | 22,000 {{dungeontokens}}
+|-
+| [[File:New Mauville.png|30px]] [[New Mauville]]  ||  Hoenn Route 118  ||  style="text-align: right;" | 24,000 {{dungeontokens}}
+|-
+| [[File:Weather Institute.png|30px]] [[Weather Institute]]  ||  Hoenn Route 119  ||  style="text-align: right;" | 26,000 {{dungeontokens}}
+|-
+| [[File:Mt. Pyre.png|30px]] [[Mt. Pyre]]  ||  Hoenn Route 122  ||  style="text-align: right;" | 28,000 {{dungeontokens}}
+|-
+| [[File:Magma Hideout.png|30px]] [[Magma Hideout]]  ||  Hoenn Route 112  ||  style="text-align: right;" | 29,000 {{dungeontokens}}
+|-
+| [[File:Aqua Hideout.png|30px]] [[Aqua Hideout]]  ||  Hoenn Route 124  ||  style="text-align: right;" | 30,000 {{dungeontokens}}
+|-
+| [[File:Shoal Cave.png|30px]] [[Shoal Cave]]  ||  Hoenn Route 125  ||  style="text-align: right;" | 30,000 {{dungeontokens}}
+|-
+| [[File:Cave of Origin.png|30px]] [[Cave of Origin]]  ||  Hoenn Route 126  ||  style="text-align: right;" | 34,000 {{dungeontokens}}
+|-
+| [[File:Seafloor Cavern.png|30px]] [[Seafloor Cavern]]  ||  Hoenn Route 128  ||  style="text-align: right;" | 32,000 {{dungeontokens}}
+|-
+| [[File:Sky Pillar.png|30px]] [[Sky Pillar]]  ||  Hoenn Route 131  ||  style="text-align: right;" | 34,000 {{dungeontokens}}
+|-
+| [[File:Sealed Chamber.png|30px]] [[Sealed Chamber]]  ||  Hoenn Route 134  ||  style="text-align: right;" | 36,000 {{dungeontokens}}
+|-
+| [[File:Victory Road Hoenn.png|30px]] [[Victory Road Hoenn]]  ||  Before Pokémon League Hoenn  ||  style="text-align: right;" | 37,000 {{dungeontokens}}
+|}
+
+==== [[Sinnoh]] ====
+{| class="mw-collapsible mw-collapsed wikitable sortable"
+|-
+! Name !! Location !! Entry Price
+|-
+| [[File:Oreburgh Gate.png|30px]] [[Oreburgh Gate]]  ||  Sinnoh Route 203  ||  style="text-align: right;" | 39,000 {{dungeontokens}}
+|-
+| [[File:Valley Windworks.png|30px]] [[Valley Windworks]]  ||  Sinnoh Route 205  ||  style="text-align: right;" | 43,000 {{dungeontokens}}
+|-
+| [[File:Eterna Forest.png|30px]] [[Eterna Forest]]  ||  Sinnoh Route 205  ||  style="text-align: right;" | 48,000 {{dungeontokens}}
+|-
+| [[File:Old Chateau.png|30px]] [[Old Chateau]]  ||  Sinnoh Route 205  ||  style="text-align: right;" | 52,500 {{dungeontokens}}
+|-
+| [[File:Team Galactic Eterna Building.png|30px]] [[Team Galactic Eterna Building]]  ||  Eterna City  ||  style="text-align: right;" |54,250 {{dungeontokens}}
+|-
+| [[File:Wayward Cave.png|30px]] [[Wayward Cave]]  ||  Sinnoh Route 206  ||  style="text-align: right;" | 56,500 {{dungeontokens}}
+|-
+| [[File:Mt. Coronet South.png|30px]] [[Mt. Coronet South]]  ||  Between Sinnoh Route 207 &amp; 208  ||  style="text-align: right;" | 60,500 {{dungeontokens}}
+|-
+| [[File:Solaceon Ruins.png|30px]] [[Solaceon Ruins]]  ||  Off Route 209, east of Solaceon Town  ||  style="text-align: right;" | 62,500 {{dungeontokens}}
+|-
+| [[File:Iron Island.png|30px]] [[Iron Island]]  ||  Left of Sinnoh Route 205  ||  style="text-align: right;" | 66,500 {{dungeontokens}}
+|-
+| [[File:Lake Valor.png|30px]] [[Lake Valor]]  ||  Betwenn Sinnoh Route 213 &amp; 214  ||  style="text-align: right;" | 69,500 {{dungeontokens}}
+|-
+| [[File:Lake Verity.png|30px]] [[Lake Verity]]  ||  Sinnoh Route 201  ||  style="text-align: right;" | 72,500 {{dungeontokens}}
+|-
+| [[File:Mt. Coronet North.png|30px]] [[Mt. Coronet North]]  ||  Sinnoh Route 216  ||  style="text-align: right;" | 74,500 {{dungeontokens}}
+|-
+| [[File:Lake Acuity.png|30px]] [[Lake Acuity]]  ||  Sinnoh Route 217  ||  style="text-align: right;" | 78,000 {{dungeontokens}}
+|-
+| [[File:Team Galactic HQ.png|30px]] [[Team Galactic HQ]]  ||  Veilstone City  ||  style="text-align: right;" | 82,500 {{dungeontokens}}
+|-
+| [[File:Spear Pillar.png|30px]] [[Spear Pillar]]  ||  Between Sinnoh Route 211 &amp; 210  ||  style="text-align: right;" | 84,500 {{dungeontokens}}
+|-
+| [[File:Distortion World.png|30px]] [[Distortion World]]  ||  Sinnoh Route 214  ||  style="text-align: right;" | 86,500 {{dungeontokens}}
+|-
+| [[File:Victory Road Sinnoh.png|30px]] [[Victory Road Sinnoh]]  ||  Sinnoh Route 223  ||  style="text-align: right;" | 89,500 {{dungeontokens}}
+|-
+| [[File:Sendoff Spring.png|30px]] [[Sendoff Spring]]  ||  Sinnoh Route 214  ||  style="text-align: right;" | 96,500 {{dungeontokens}}
+|-
+| [[File:Flower Paradise.png|30px]] [[Flower Paradise]]  ||  Sinnoh Route 224  ||  style="text-align: right;" | 96,500 {{dungeontokens}}
+|-
+| [[File:Stark Mountain.png|30px]] [[Stark Mountain]]  ||  Sinnoh Route 227  ||  style="text-align: right;" | 96,500 {{dungeontokens}}
+|-
+| [[File:Snowpoint Temple.png|30px]] [[Snowpoint Temple]]  ||  Sinnoh Route 217  ||  style="text-align: right;" | 96,500 {{dungeontokens}}
+|-
+| [[File:Fullmoon Island.png|30px]] [[Fullmoon Island]]  ||  Left of Sinnoh Route 217  ||  style="text-align: right;" | 96,500 {{dungeontokens}}
+|-
+| [[File:Newmoon Island.png|30px]] [[Newmoon Island]]  ||  Left of Sinnoh Route 217  ||  style="text-align: right;" | 96,500 {{dungeontokens}}
+|-
+| [[File:Hall of Origin.png|30px]] [[Hall of Origin]]  ||  Between Sinnoh Route 211 &amp; 210  ||  style="text-align: right;" | 106,500 {{dungeontokens}}
+|}
+
+==== [[Unova]] ====
+{| class="mw-collapsible mw-collapsed wikitable sortable"
+|-
+! Name !! Location !! Entry Price
+|-
+| [[File:Floccesy Ranch.png|30px]] [[Floccesy Ranch]]  ||  Unova Route 20  ||  style="text-align: right;" | 126,500 {{dungeontokens}}
+|-
+| [[File:Liberty Garden.png|30px]] [[Liberty Garden]]  ||  Below Unova Route 20  ||  style="text-align: right;" | 136,500 {{dungeontokens}}
+|-
+| [[File:Castelia Sewers.png|30px]] [[Castelia Sewers]]  ||  Castelia City  ||  style="text-align: right;" | 146,500 {{dungeontokens}}
+|-
+| [[File:Relic Passage.png|30px]] [[Relic Passage]]  ||  Unova Route D.R.  ||  style="text-align: right;" | 156,500 {{dungeontokens}}
+|-
+| [[File:Relic Castle.png|30px]] [[Relic Castle]]  ||  Unova Route D.R.  ||  style="text-align: right;" | 166,500 {{dungeontokens}}
+|-
+| [[File:Lostlorn Forest.png|30px]] [[Lostlorn Forest]]  ||  Unova Route 16  ||  style="text-align: right;" | 176,500 {{dungeontokens}}
+|-
+| [[File:Chargestone Cave.png|30px]] [[Chargestone Cave]]  ||  Unova Route 6  ||  style="text-align: right;" | 186,500 {{dungeontokens}}
+|-
+| [[File:Mistralton Cave.png|30px]] [[Mistralton Cave]]  ||  Unova Route 6  ||  style="text-align: right;" | 196,500 {{dungeontokens}}
+|-
+| [[File:Celestial Tower.png|30px]] [[Celestial Tower]]  ||  Unova Route 7  ||  style="text-align: right;" | 206,500 {{dungeontokens}}
+|-
+| [[File:Reversal Mountain.png|30px]] [[Reversal Mountain]]  ||  Unova Route 14  ||  style="text-align: right;" | 226,500 {{dungeontokens}}
+|-
+| [[File:Seaside Cave.png|30px]] [[Seaside Cave]]  ||  Unova Route 21  ||  style="text-align: right;" | 246,500 {{dungeontokens}}
+|-
+| [[File:Plasma Frigate.png|30px]] [[Plasma Frigate]]  ||  East of Seaside Cave  ||  style="text-align: right;" | 257,500 {{dungeontokens}}
+|-
+| [[File:Giant Chasm.png|30px]] [[Giant Chasm]]  ||  Unova Route 22  ||  style="text-align: right;" | 266,500 {{dungeontokens}}
+|-
+| [[File:Cave of Being.png|30px]] [[Cave of Being]]  ||  Right below Unova Route 20  ||  style="text-align: right;" | 286,500 {{dungeontokens}}
+|-
+| [[File:Abundant Shrine.png|30px]] [[Abundant Shrine]]  ||  Unova Route 14  ||  style="text-align: right;" | 306,500 {{dungeontokens}}
+|-
+| [[File:Victory Road Unova.png|30px]] [[Victory Road Unova]]  ||  Unova Route 23  ||  style="text-align: right;" | 326,500 {{dungeontokens}}
+|-
+| [[File:Twist Mountain.png|30px]] [[Twist Mountain]]  ||  Unova Route 7  ||  style="text-align: right;" | 356,500 {{dungeontokens}}
+|-
+| [[File:Dragonspiral Tower.png|30px]] [[Dragonspiral Tower]]  ||  Unova Route 7  ||  style="text-align: right;" | 356,500 {{dungeontokens}}
+|-
+| [[File:Moor of Icirrus.png|30px]] [[Moor of Icirrus]]  ||  Unova Route 8  ||  style="text-align: right;" | 356,500 {{dungeontokens}}
+|-
+| [[File:Pledge Grove.png|30px]] [[Pledge Grove]]  ||  Between Unova Route 19 &amp; 20  ||  style="text-align: right;" | 356,500 {{dungeontokens}}
+|-
+| [[File:Pinwheel Forest.png|30px]] [[Pinwheel Forest]]  ||  Before Unova Route 3  ||  style="text-align: right;" | 356,500 {{dungeontokens}}
+|-
+| [[File:Dreamyard.png|30px]] [[Dreamyard]]  ||  Between Unova Route 2 &amp; 3  ||  style="text-align: right;" | 356,500 {{dungeontokens}}
+|-
+| [[File:P2 Laboratory.png|30px]] [[P2 Laboratory]]  ||  Unova Route 18  ||  style="text-align: right;" | 396,500 {{dungeontokens}}
+|}
+
+==== [[Kalos]] ====
+{| class="mw-collapsible mw-collapsed wikitable sortable"
+|-
+! Name !! Location !! Entry Price
+|-
+| [[File:Santalune Forest.png|30px]] [[Santalune Forest]]  ||  Between Kalos Route 2 &amp; 3  ||  style="text-align: right;" | 400,000 {{dungeontokens}}
+|-
+| [[File:Parfum Palace.png|30px]] [[Parfum Palace]]  ||  Kalos Route 6  ||  style="text-align: right;" | 445,000 {{dungeontokens}}
+|-
+| [[File:Connecting Cave.png|30px]] [[Connecting Cave]]  ||  Between Cyllage City &amp; Kalos Routes 7 &amp; 8  ||  style="text-align: right;" | 475,000 {{dungeontokens}}
+|-
+| [[File:Glittering Cave.png|30px]] [[Glittering Cave]]  ||  Kalos Route 9  ||  style="text-align: right;" | 505,000 {{dungeontokens}}
+|-
+| [[File:Reflection Cave.png|30px]] [[Reflection Cave]]  ||  Between Route 11 and Shalour City  ||  style="text-align: right;" | 555,000 {{dungeontokens}}
+|-
+| [[File:Kalos Power Plant.png|30px]] [[Kalos Power Plant]]  ||  Kalos Route 13  ||  style="text-align: right;" | 575,000 {{dungeontokens}}
+|-
+| [[File:Sea Spirit's Den.png|30px]] [[Sea Spirit's Den]]  ||  Azure Bay  ||  style="text-align: right;" | 600,000 {{dungeontokens}}
+|-
+| [[File:Pokéball Factory.png|30px]] [[Pokéball Factory]]  ||  Laverre City  ||  style="text-align: right;" | 615,000 {{dungeontokens}}
+|-
+| [[File:Lost Hotel.png|30px]] [[Lost Hotel]]  ||  Kalos Route 15  ||  style="text-align: right;" | 635,000 {{dungeontokens}}
+|-
+| [[File:Frost Cavern.png|30px]] [[Frost Cavern]]  ||  Kalos Route 15  ||  style="text-align: right;" | 665,500 {{dungeontokens}}
+|-
+| [[File:Team Flare Secret HQ.png|30px]] [[Team Flare Secret HQ]]  ||  Geosenge Town  ||  style="text-align: right;" | 675,000 {{dungeontokens}}
+|-
+| [[File:Terminus Cave.png|30px]] [[Terminus Cave]]  ||  Kalos Route 18  ||  style="text-align: right;" | 700,000 {{dungeontokens}}
+|-
+| [[File:Pokémon Village.png|30px]] [[Pokémon Village]]  ||  Kalos Route 20  ||  style="text-align: right;" | 725,000 {{dungeontokens}}
+|-
+| [[File:Victory_Road_Kalos.png|30px]] [[Victory Road Kalos]]  ||  Between Kalos Routes 21 &amp; 22  ||  style="text-align: right;" | 750,500 {{dungeontokens}}
+|}
+
+==== [[Alola]] ====
+{| class="mw-collapsible mw-collapsed wikitable sortable"
+|-
+! Name !! Location !! Entry Price
+|-
+| [[File:Trainers' School.png|30px]] [[Trainers' School]]  ||  West of Hau'oli Outskirts  ||  style="text-align: right;" | 757,500 {{dungeontokens}}
+|-
+| [[File:Hau'oli Cemetery.png|30px]] [[Hau'oli Cemetery]]  ||  East of Route 2  ||  style="text-align: right;" | 800,000 {{dungeontokens}}
+|-
+| [[File:Verdant Cavern.png|30px]] [[Verdant Cavern]]  ||       East of Route 2  ||  style="text-align: right;" | 805,000 {{dungeontokens}}
+|-
+| [[File:Melemele Meadow.png|30px]] [[Melemele Meadow]]  ||  South of Route 3  ||  style="text-align: right;" | 825,000 {{dungeontokens}}
+|-
+| [[File:Seaward Cave.png|30px]] [[Seaward Cave]]  ||  East of Kala'e Bay  ||  style="text-align: right;" | 830,000 {{dungeontokens}}
+|-
+| [[File:Ten Carat Hill.png|30px]] [[Ten Carat Hill]]  ||  Northwest of Melemele Sea  ||  style="text-align: right;" | 835,000 {{dungeontokens}}
+|-
+| [[File:Pikachu Valley.png|30px]] [[Pikachu Valley]]  ||  North of Route 4  ||  style="text-align: right;" | 850,000 {{dungeontokens}}
+|-
+| [[File:Paniola Ranch.png|30px]] [[Paniola Ranch]]  ||  East of Paniola Town  ||  style="text-align: right;" | 855,000 {{dungeontokens}}
+|-
+| [[File:Brooklet Hill.png|30px]] [[Brooklet Hill]]  ||  West of Route 5  ||  style="text-align: right;" | 875,000 {{dungeontokens}}
+|-
+| [[File:Wela Volcano Park.png|30px]] [[Wela Volcano Park]]  ||  West of Route 7  ||  style="text-align: right;" | 900,000 {{dungeontokens}}
+|-
+| [[File:Lush Jungle.png|30px]] [[Lush Jungle]]  ||  North of Route 5  ||  style="text-align: right;" | 925,000 {{dungeontokens}}
+|-
+| [[File:Diglett's Tunnel.png|30px]] [[Diglett's Tunnel]]  ||  Northeast of Route 6  ||  style="text-align: right;" | 930,000 {{dungeontokens}}
+|-
+| [[File:Memorial Hill.png|30px]] [[Memorial Hill]]  ||  West of Akala Outskirts/East of Route 9  ||  style="text-align: right;" | 950,000 {{dungeontokens}}
+|-
+| [[File:Malie Garden.png|30px]] [[Malie Garden]]  ||  North of Malie City  ||  style="text-align: right;" | 975,000 {{dungeontokens}}
+|-
+| [[File:Hokulani Observatory.png|30px]] [[Hokulani Observatory]]  ||  North of Mt. Hokulani  ||  style="text-align: right;" | 1,000,000 {{dungeontokens}}
+|-
+| [[File:Thrifty Megamart.png|30px]] [[Thrifty Megamart]]  ||  South of Tapu Village  ||  style="text-align: right;" | 1,025,000 {{dungeontokens}}
+|-
+| [[File:Ula'ula Meadow.png|30px]] [[Ula'ula Meadow]]  ||  North of Route 16  ||  style="text-align: right;" | 1,050,000 {{dungeontokens}}
+|-
+| [[File:Po Town.png|30px]] [[Po Town]]  ||  North of Route 17  ||  style="text-align: right;" | 1,075,000 {{dungeontokens}}
+|-
+| [[File:Aether Foundation.png|30px]] [[Aether Foundation]]  ||  In The Water  ||  style="text-align: right;" | 1,080,000 {{dungeontokens}}
+|-
+| [[File:Exeggutor Island Hill.png|30px]] [[Exeggutor Island Hill]]  ||  Exeggutor Island  ||  style="text-align: right;" | 1,100,000 {{dungeontokens}}
+|-
+| [[File:Vast Poni Canyon.png|30px]] [[Vast Poni Canyon]]  ||  North of Ancient Poni Path  ||  style="text-align: right;" | 1,125,000 {{dungeontokens}}
+|-
+| [[File:Mina's Houseboat.png|30px]] [[Mina's Houseboat]]  ||  Inside Seafolk Village  ||  style="text-align: right;" | 1,150,000 {{dungeontokens}}
+|-
+| [[File:Mount Lanakila.png|30px]] [[Mount Lanakila]]  ||  North of Tapu Village  ||  style="text-align: right;" | 1,175,000 {{dungeontokens}}
+|-
+| [[File:Lake of the Sunne and Moone.png|30px]] [[Lake of the Sunne and Moone]]  ||     West of Ula'ula Meadow  ||  style="text-align: right;" | 1,200,000 {{dungeontokens}}
+|-
+| [[File:Ruins of Conflict.png|30px]] [[Ruins of Conflict]]  ||  North of Iki Town  ||  style="text-align: right;" | 1,200,000 {{dungeontokens}}
+|-
+| [[File:Ruins of Life.png|30px]] [[Ruins of Life]]  ||  North of Akala Outskirts  ||  style="text-align: right;" | 1,200,000 {{dungeontokens}}
+|-
+| [[File:Ruins of Abundance.png|30px]] [[Ruins of Abundance]]  ||  North of Haina Desert  ||  style="text-align: right;" | 1,200,000 {{dungeontokens}}
+|-
+| [[File:Ruins of Hope.png|30px]] [[Ruins of Hope]]  ||  North of Poni Breaker Coast  ||  style="text-align: right;" | 1,200,000 {{dungeontokens}}
+|-
+| [[File:Poni Meadow.png|30px]] [[Poni Meadow]]  ||  North of Poni Plains  ||  style="text-align: right;" | 1,225,000 {{dungeontokens}}
+|-
+| [[File:Resolution Cave.png|30px]] [[Resolution Cave]]  ||  East of Poni Coast  ||  style="text-align: right;" | 1,250,000 {{dungeontokens}}
+|}
+
+===Shopmon===
+{| class="wikitable" style="text-align: center;"
+|-
+! Shop !! Token !! Pokémon !! Cost
+|- 
+| [[Shops#Friseur Furfrou|Friseur Furfrou (Kalos)]] || [[File:Furfrou_(Pharaoh)_Shuffle.png|30px]] || [[File:Furfrou_(Pharaoh).png|40px]]Furfrou (Pharaoh) || 300,000,000 {{dungeontokens}}
+|}
+
+[[Category:Currencies]]</text>
+    <contributor>
+      <username>FuzzyBot</username>
+      <id>587</id>
+    </contributor>
+    <comment>Updating to match new version of source page</comment>
+    <model>wikitext</model>
+    <parentid>36636</parentid>
+    <sha1>1c139ec0e33bf1c2d924a4ac49ed426ef93b2ce2</sha1>
+  </revision>
+</page></mediawiki>
