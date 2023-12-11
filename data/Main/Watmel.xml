@@ -1,0 +1,144 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Watmel</title>
+  <ns>0</ns>
+  <id>670</id>
+  <revision>
+    <id>38365</id>
+    <timestamp>2022-10-07T16:27:27Z</timestamp>
+    <text space="preserve" bytes="5067">&lt;languages/&gt;
+&lt;translate&gt;
+&lt;!--T:1--&gt;
+{{Infobox Berry
+|name    = #33 Watmel
+|image   = [[File:Watmel.png]]
+|caption = A bounty of nature that is exceedingly sweet. The Berry is huge, with some discovered that exceed 20 inches.
+|growtime  = 4h 36m 0s
+|harvest = 32 berries
+|replant = 10%
+|mutation = 0.02%
+|points = 1,000
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*0 spicy 
+*0 dry
+*30 sweet
+*10 bitter
+*0 sour
+}}
+
+&lt;!--T:2--&gt;
+'''Watmel''' is a type of [[Berries|Berry]] that can be planted in the [[Farm]]. It can be obtained by surrounding a [[Magost]] with at least 130, but no more than 160 points of sweet and no more than 80 points of all other flavours. The [[Magost]] will then have a chance to mutate into this berry. 
+
+&lt;!--T:3--&gt;
+== Growth Tables ==
+=== Growth Stages ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Sprout !! Taller !! Bloom !! Berry
+|-
+! Time passed since planting
+| 38 mins 20 secs || 56 mins 40 secs || 2 hours 43 mins 20 secs || 4 hours 36 mins - 9 hours 12 mins 
+|-
+! Animation
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt; [[File:WatmelTreeTaller.png|50px]] || &lt;center&gt; [[File:WatmelTreeBloom.png|50px]] || &lt;center&gt; [[File:WatmelTreeBerry.png|50px]]
+|}
+
+&lt;!--T:4--&gt;
+=== Ripening Time with Modifiers  ===
+{| class="wikitable" | style="text-align: center;"
+! Modifier !! Ripe-Wither Time !! Boost Mulch Needed to Ripen
+|-
+! None
+| 4 hours 36 mins -&lt;br&gt; 9 hours 12 mins || ---
+|-
+! Mulch or Sprayduck
+| 3 hours 4 mins -&lt;br&gt; 6 hours 8 mins || 37 mulch
+|-
+! Mulch &amp; Sprayduck
+| 2 hours 2 mins 40 secs -&lt;br&gt; 4 hours 5 mins 20 secs || 25 mulch
+|}
+
+&lt;!--T:5--&gt;
+== Flow Chart ==
+[[File:Watmel_Flow_Chart.png|300px]]
+&lt;br&gt;
+
+&lt;!--T:6--&gt;
+== Mutation Strategy ==
+=== Possible Planting Formations ===
+
+&lt;!--T:7--&gt;
+You can fill your farm in the following way to obtain Watmel berries. Purple squares indicate where mutations can occur.
+
+&lt;!--T:8--&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Base Formation
+|-
+| style="width: 50px;" | [[File:Magost.png|30px]]&lt;br&gt;[[Magost]] || style="width: 50px;" | [[File:Magost.png|30px]]&lt;br&gt;[[Magost]] || style="width: 50px;" | [[File:Magost.png|30px]]&lt;br&gt;[[Magost]]
+|-
+| [[File:Magost.png|30px]]&lt;br&gt;[[Magost]] || style="background-color:#9C7D98;" | [[File:Magost.png|30px]]&lt;br&gt;'''[[Magost]]''' || [[File:Magost.png|30px]]&lt;br&gt;[[Magost]]
+|- style="height: 26px;"
+| [[File:Magost.png|30px]]&lt;br&gt;[[Magost]] || [[File:Magost.png|30px]]&lt;br&gt;[[Magost]] || [[File:Magost.png|30px]]&lt;br&gt;[[Magost]]
+|}
+
+&lt;!--T:9--&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Optimized Planting Formation
+|-
+| style="width: 50px;" | [[File:Magost.png|30px]]&lt;br&gt;[[Magost]] || style="width: 50px;" | [[File:Magost.png|30px]]&lt;br&gt;[[Magost]] || style="width: 50px;" | [[File:Magost.png|30px]]&lt;br&gt;[[Magost]] || style="width: 50px;" | [[File:Magost.png|30px]]&lt;br&gt;[[Magost]] || style="width: 50px;" | [[File:Magost.png|30px]]&lt;br&gt;[[Magost]]
+|-
+| [[File:Magost.png|30px]]&lt;br&gt;[[Magost]] || style="background-color:#9C7D98;" | [[File:Magost.png|30px]]&lt;br&gt;'''[[Magost]]''' || style="background-color:#9C7D98;" | [[File:Magost.png|30px]]&lt;br&gt;'''[[Magost]]''' || style="background-color:#9C7D98;" | [[File:Magost.png|30px]]&lt;br&gt;'''[[Magost]]''' || [[File:Magost.png|30px]]&lt;br&gt;[[Magost]]
+|- style="height: 26px;"
+| [[File:Magost.png|30px]]&lt;br&gt;[[Magost]] || style="background-color:#9C7D98;" | [[File:Magost.png|30px]]&lt;br&gt;'''[[Magost]]''' || style="background-color:#9C7D98;" | [[File:Magost.png|30px]]&lt;br&gt;'''[[Magost]]''' || style="background-color:#9C7D98;" | [[File:Magost.png|30px]]&lt;br&gt;'''[[Magost]]''' || [[File:Magost.png|30px]]&lt;br&gt;[[Magost]]
+|-
+| [[File:Magost.png|30px]]&lt;br&gt;[[Magost]] || style="background-color:#9C7D98;" | [[File:Magost.png|30px]]&lt;br&gt;'''[[Magost]]''' || style="background-color:#9C7D98;" | [[File:Magost.png|30px]]&lt;br&gt;'''[[Magost]]''' || style="background-color:#9C7D98;" | [[File:Magost.png|30px]]&lt;br&gt;'''[[Magost]]''' || [[File:Magost.png|30px]]&lt;br&gt;[[Magost]]
+|-
+| [[File:Magost.png|30px]]&lt;br&gt;[[Magost]] || [[File:Magost.png|30px]]&lt;br&gt;[[Magost]] || [[File:Magost.png|30px]]&lt;br&gt;[[Magost]] || [[File:Magost.png|30px]]&lt;br&gt;[[Magost]] || [[File:Magost.png|30px]]&lt;br&gt;[[Magost]]
+|}
+
+&lt;!--T:10--&gt;
+==Uses==
+===Mutations===
+
+&lt;!--T:11--&gt;
+Watmel berries can be used to mutate the following berries.
+
+&lt;!--T:12--&gt;
+{| class="wikitable" | style="text-align: center;"
+|-
+! Used In !! With
+|-
+| [[File:Shuca.png|20px]] [[Shuca]] || -
+|-
+| [[File:Pinkan.png|20px]] [[Pinkan]] || [[File:Pecha.png|20px]] [[Pecha]] &lt;br&gt;
+[[File:Persim.png|20px]] [[Persim]] &lt;br&gt; [[File:Nanab.png|20px]] [[Nanab]] &lt;br&gt; [[File:Mago.png|20px]] [[Mago]] &lt;br&gt; [[File:Qualot.png|20px]] [[Qualot]] &lt;br&gt; [[File:Magost.png|20px]] [[Magost]] 
+|-
+| [[File:Roseli.png|20px]] [[Roseli]] || [[File:Nanab.png|20px]] [[Nanab]] &lt;br&gt; [[File:Mago.png|20px]] [[Mago]] &lt;br&gt; [[File:Magost.png|20px]] [[Magost]]
+|-
+| [[File:Custap.png|20px]] [[Custap]] || -
+|-
+|}
+
+&lt;!--T:16--&gt;
+==Acquisition==
+===Dungeons===
+{{Loot/head‎|Berries}}
+{{LootItem|Pinkan Mountain|Epic}}
+|}
+|}
+
+&lt;!--T:14--&gt;
+{{Berries}}
+
+&lt;!--T:15--&gt;
+[[Category:Farm]][[Category:Berries]]
+&lt;/translate&gt;</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>59</id>
+    </contributor>
+    <comment>Marked this version for translation</comment>
+    <model>wikitext</model>
+    <parentid>38363</parentid>
+    <sha1>3beb5e66750edf9925103332635ee13d4bc1c1fa</sha1>
+  </revision>
+</page></mediawiki>

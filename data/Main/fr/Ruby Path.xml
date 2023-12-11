@@ -1,0 +1,126 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Ruby Path/fr</title>
+  <ns>0</ns>
+  <id>14713</id>
+  <revision>
+    <id>35933</id>
+    <timestamp>2022-09-13T14:08:19Z</timestamp>
+    <text space="preserve" bytes="2823">&lt;languages/&gt;
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Infobox dungeon
+|name    = Ruby Path
+|image   = [[File:Ruby Path.png|thumb]]
+|caption = An overhead map of Ruby Path.
+|tokens  = 43,000
+|location = North of Kindle Road.
+}}
+'''Ruby Path''' is a [[Dungeons|dungeon]] in [[Kanto]]. It has 49 tiles arranged in a 7x7 square, including 7 chest tiles, 17 non-boss encounter tiles, and 1 boss encounter tile. Wild Encounters have 720,600 HP.
+&lt;/div&gt;
+
+&lt;span id="Encounter_Tables"&gt;&lt;/span&gt;
+== Tables des rencontres ==
+
+&lt;span id="Wild_Encounters"&gt;&lt;/span&gt;
+=== Rencontres sauvages ===
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable"
+|-
+! Wild Pokémon !! colspan=2|Trainers
+|-
+! Encounter !! Trainer !! Pokémon Team
+|-
+| [[File:Geodude.png|40px]] Geodude || colspan=2 rowspan=5|&lt;center&gt; N/A
+|-
+| [[File:Graveler.png|40px]] Graveler
+|-
+| [[File:Machop.png|40px]] Machop
+|-
+| [[File:Machoke.png|40px]] Machoke
+|-
+| [[File:Slugma.png|40px]] Slugma
+|-
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+===Boss Encounters===
+{| class="wikitable"
+|-
+! Wild Pokémon !! Base Health !! Boss Trainer !! Pokémon Team !! Base Health
+|-
+| [[File:Magcargo.png|40px]] Magcargo || &lt;center&gt;3,703,000 || colspan=3 |&lt;center&gt;N/A
+|-
+|}
+&lt;/div&gt;
+
+&lt;span id="Items"&gt;&lt;/span&gt;
+==Objets==
+
+&lt;span id="No_Debuff"&gt;&lt;/span&gt;
+===Sans Perte de Bonus===
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+|-
+| align="center" colspan=6| '''Common'''
+|-
+| {{Bag2|xAttack}} || 3 || 33.83% || 33.18% || 30.27%
+|-
+| {{Bag2|Rawst}} || 3 || 33.83% || 33.18% || 30.27%
+|-
+| {{Pokemon|Geodude}} || N/A || 11.28% || 11.06% || 10.09%
+|-
+| align="center" colspan=6| '''Rare'''
+|-
+| {{Bag2|Red Shard}} || N/A || 10.53% || 11.29% || 14.69%
+|-
+| {{Bag2|Grey Shard}} || N/A || 10.53% || 11.29% || 14.69%
+|}
+&lt;/div&gt;
+
+&lt;span id="Debuff_Drop_Table"&gt;&lt;/span&gt;
+===Table du taux d'obtention avec Perte de bonus===
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+After Reaching Kalos, the drop chance for items will be debuffed for any loot with a Tier rarer than Rare (ie: Epic, Legendary, Mythic).
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{| class="wikitable collapsible collapsed"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+|-
+| align="center" colspan=6| '''Common'''
+|-
+| {{Bag2|xAttack}} || 3 || 32.47% || 32.47% || 32.47%
+|-
+| {{Bag2|Rawst}} || 3 || 32.47% || 32.47% || 32.47%
+|-
+| {{Pokemon|Geodude}} || N/A || 10.82% || 10.82% || 10.82%
+|-
+| align="center" colspan=6| '''Rare'''
+|-
+| {{Bag2|Red Shard}} || N/A || 12.12% || 12.12% || 12.12%
+|-
+| {{Bag2|Grey Shard}} || N/A || 12.12% || 12.12% || 12.12%
+|}
+&lt;/div&gt;
+
+{{Kanto Dungeons}}
+
+[[Category:Dungeons|^Region #1 - Kanto^n]]
+[[Category:Donjons|^Région #1 - Kanto^n]]</text>
+    <contributor>
+      <username>PetroleVB</username>
+      <id>619</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>35931</parentid>
+    <sha1>8d7fdf03a5b444303200f493efeb6c3d0589242c</sha1>
+  </revision>
+</page></mediawiki>

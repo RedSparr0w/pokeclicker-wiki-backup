@@ -1,0 +1,53 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Blaze Cassette/de</title>
+  <ns>0</ns>
+  <id>4712</id>
+  <revision>
+    <id>26350</id>
+    <timestamp>2022-08-25T05:07:00Z</timestamp>
+    <text space="preserve" bytes="1373">&lt;languages/&gt;
+{{Infobox Oak Item
+|name       = Flammenmodul
+|image      = [[File:Bag_Blaze_Cassette_Sprite.png]]
+|caption    = ''Flammenmodul'' Artwork.
+|dex = 80
+|effect     = Eier werden schneller ausgebrütet.
+}}
+
+Das '''Flammenmodul''' ist eines der [[Oak Items|Oak Items]]. Wenn es ausgerüstet ist, erhöht es die Geschwindigkeit mit der [[Egg|Eier]] in der [[Pokemon Day Care|Pokémon-Pension]] ausgebrütet werden. Das Flammenmodul wird freigeschalten, sobald 80 einzigartige pokemon gefangen wurden.
+
+== Details ==
+
+{| class="wikitable sortable"
+|-
+! Level !! Effekt !! Upgrade Voraussetzung !! Upgrade Kosten
+|-
+|0 || x1.5 Brutgeschwindigkeit || 50 Eier ausgebrütet|| style="text-align:right" | 50,000 {{pdollar}}
+|-
+|1 || x1.6 Brutgeschwindigkeit || 50 Eier ausgebrütet || style="text-align:right" | 100,000 {{pdollar}}
+|-
+|2 || x1.7 Brutgeschwindigkeit || 150 Eier ausgebrütet || style="text-align:right" | 250,000 {{pdollar}}
+|-
+|3 || x1.8 Brutgeschwindigkeit || 250 Eier ausgebrütet || style="text-align:right" | 500,000 {{pdollar}}
+|-
+|4 || x1.9 Brutgeschwindigkeit || 500 Eier ausgebrütet || style="text-align:right" | 1,000,000 {{pdollar}}
+|-
+|5/Max || x2.0 Brutgeschwindigkeit || N/A || style="text-align:right" | N/A
+|-
+|}
+
+&lt;div class="mw-translate-fuzzy"&gt;
+&lt;br&gt;{{Oak items}}&lt;br&gt;
+[[Category:Oak Items]] [[Category:Items]] [[Category:Eggs|Eier]]
+&lt;/div&gt;</text>
+    <contributor>
+      <username>FuzzyBot</username>
+      <id>587</id>
+    </contributor>
+    <comment>Updating to match new version of source page</comment>
+    <model>wikitext</model>
+    <parentid>23606</parentid>
+    <sha1>85ca30ca32db398f7d331d5ddd8ca944b9cacc59</sha1>
+  </revision>
+</page></mediawiki>

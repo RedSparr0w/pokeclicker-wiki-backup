@@ -1,0 +1,106 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Diglett's Tunnel</title>
+  <ns>0</ns>
+  <id>4117</id>
+  <revision>
+    <id>40534</id>
+    <timestamp>2022-10-31T06:30:01Z</timestamp>
+    <text space="preserve" bytes="2681">&lt;languages/&gt;
+&lt;translate&gt;
+&lt;!--T:1--&gt;
+{{Infobox dungeon
+|name    = Diglett's Tunnel
+|image   = [[File:Diglett's Tunnel.png|300px]]
+|caption = A map of Diglett's Tunnel.
+|tokens  = 930,000
+|location = Northeast of Route 9.
+}}
+
+&lt;!--T:2--&gt;
+'''Diglett's Tunnel''' is a [[Dungeons|dungeon]] in [[Alola]]. It initially has 125 tiles arranged in two floors: 10x10 and 5x5 in size, respectively; including 15 chest tiles, 36 non-boss encounter tiles, 1 ladder tile, and 1 boss encounter tile. Wild Encounters have 13,215,839 HP.
+
+== Encounter Tables == &lt;!--T:3--&gt;
+
+===Wild Encounters=== &lt;!--T:4--&gt;
+
+&lt;!--T:5--&gt;
+{| class="wikitable"
+|-
+! Wild Pokémon !! colspan=2|Trainers
+|-
+! Encounter !! Trainer !! Pokémon Team
+|-
+| [[File:Zubat.png|40px]] Zubat || [[File:Worker.png|40px]] Worker Frank || [[File:Shieldon.png|40px]] Shieldon
+|-
+| rowspan=2| [[File:Alolan Diglett.png|40px]] Alolan Diglett || [[File:Worker.png|40px]] Worker Jeff || [[File:Alolan Diglett.png|40px]] Alolan Diglett, [[File:Alolan Diglett.png|40px]] Alolan Diglett
+|-
+| [[File:Worker.png|40px]] Worker Vaclav || [[File:Archen.png|40px]] Archen
+|-
+| rowspan=2| [[File:Nihilego.png|40px]] '''Nihilego*''' || [[File:Team Skull Grunt (female).png|40px]] Team Skull Grunt || [[File:Ekans.png|40px]] Ekans
+|-
+| [[File:Team Skull Grunt (male).png|40px]] Team Skull Grunt || [[File:Salandit.png|40px]] Salandit
+|}
+
+&lt;!--T:6--&gt;
+'''*Note:''' Must be unlocked by doing [[Quests#Ultra Beast Hunt|Ultra Beast Hunt]] Quest first.
+
+===Boss Encounters=== &lt;!--T:7--&gt;
+{| class="wikitable"
+|-
+! Wild Pokémon !! Base Health !! Boss Trainer !! Pokémon Team !! Base Health
+|-
+| [[File:Larvitar.png|50px]] Larvitar || &lt;center&gt; 66,079,195 || colspan=3|&lt;center&gt;N/A
+|-
+|}
+
+==Items== &lt;!--T:8--&gt;
+
+&lt;!--T:9--&gt;
+{| class="wikitable"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+|-
+| align="center" colspan=6| '''Common'''
+|-
+| {{Bag2|xAttack}} || N/A || 37.48% || 36.00% || 30.00%
+|-
+| {{Bag2|Lucky Incense}} || N/A || 37.48% || 36.00% || 30.00%
+|-
+| align="center" colspan=6| '''Rare'''
+|-
+| {{Bag2|Red Shard}} || N/A || 10.00% || 10.50% || 12.47%
+|-
+| {{Bag2|Yellow Shard}} || N/A || 10.00% || 10.50% || 12.47%
+|-
+| align="center" colspan=6| '''Epic'''
+|-
+| {{Bag2|Earth Plate}} || N/A || 2.01% || 2.60% || 5.00%
+|-
+| {{Bag2|Duskball}} || N/A || 2.01% || 2.60% || 5.00%
+|-
+| align="center" colspan=6| '''Legendary'''
+|-
+| {{Bag2|Large Restore}} || N/A || 0.50% || 0.80% || 1.99%
+|-
+| {{Bag2|Soft Sand}} || N/A || 0.50% || 0.80% || 1.99%
+|-
+| align="center" colspan=6| '''Mythic'''
+|-
+| {{Bag2|Max Revive}} || N/A || 0.01% || 0.22% || 1.06%
+|}
+
+&lt;!--T:10--&gt;
+{{Alola Dungeons}}
+[[Category:Dungeons|^Region #7 - Alola^l]]
+&lt;/translate&gt;</text>
+    <contributor>
+      <username>ThePantMan</username>
+      <id>310</id>
+    </contributor>
+    <comment>/* Held items update */</comment>
+    <model>wikitext</model>
+    <parentid>39940</parentid>
+    <sha1>7c8a90f94f65bf80fe8fa20f7564bc8684d370c6</sha1>
+  </revision>
+</page></mediawiki>

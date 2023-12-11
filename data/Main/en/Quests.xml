@@ -1,0 +1,126 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Quests/en</title>
+  <ns>0</ns>
+  <id>13812</id>
+  <revision>
+    <id>34341</id>
+    <timestamp>2022-09-13T09:04:52Z</timestamp>
+    <text space="preserve" bytes="7115">&lt;languages/&gt;
+Quests can be completed to earn [[Quest Points]], which can in turn be used to purchase [[Eggs]], [[Evolution Items]], and other collectibles. Their value is also effected by a randomization procedure making them able to be only 90% of their calculated value or up to 110% of the calculated value. Quests can be randomly generated as part of a list as explained in the [[Quests#Normal Quest Types|Normal Quest Types]] section, or be part of a larger Questline that requires the player to follow certain steps to complete them. For more information about these other kinds of Quests, please check the [[Questlines]] page. 
+
+=Slots and Quest XP=
+
+By completing quests (even those part of questlines such as the tutorial), the player is rewarded with quest experience.
+
+Each quest gives experience according to the following formula:
+
+&lt;math&gt; Quest Experience = 100 + \frac{QP Reward}{100} &lt;/math&gt;
+
+Quests are also associated with a leveling system. The cumulative amount of experience to reach any given level follows the formula below:
+
+&lt;math&gt; Quest Level Experience = 5000 \times (1.2^{(level - 1)} - 1) &lt;/math&gt;
+
+Extra quest slots are awarded at certain quest level thresholds. Quest slots allow for multiple quests to be undertaken simultaneously. The maximum number of slots one can have is 4. Though the exact amount of quest experience one has is not visible in the game, XP requirements have been included for reference.
+
+{| class="wikitable"
+|+ Quest slot milestones
+|-
+! Slot !! Quest level reached !! Cumulative Quest XP requirement
+|-
+| 1 || 1 (start of game) || 0
+|-
+| 2 || 5 ||
+|-
+| 3 || 10 || 25959
+|-
+| 4 || 15 || 72036
+|}
+
+=Normal Quest Types=
+{| class="wikitable"
+|-
+! Type/Requirement !! Range of Requirements !! Rough Reward Calculation !! Min/Max Value
+|-
+| Defeat Pokémon || Between 100 and 500 Pokémon on an unlocked Route || Pokémon * 1 {{Questpoints}} || 90 - 550 {{Questpoints}}
+|-
+| Capture Pokémon || Between 100 and 500 Pokémon || Pokémon * 1.25 {{Questpoints}} || 113 - 687 {{Questpoints}}
+|-
+&lt;!-- Comments are not in need to be translated
+Capture type quest reward works like this:
+
+reward = questAmount * CAPTURE_POKEMONS_BASE_REWARD * weights[type].weight ... it's that last part that makes this confusing.  It's there to change the reward based on what types you can easily access
+
+questAmount = between 50 and 250
+CAPTURE_POKEMONS_BASE_REWARD = DEFEAT_POKEMONS_BASE_REWARD / 0.74
+              DEFEAT_POKEMONS_BASE_REWARD  = questBase * 1
+              questBase = 1
+     CAPTURE_POKEMONS_BASE_REWARD = 1/0.74 = 1.35
+weights[type].weight is much harder to explain.  In code, it is:
+          types.map(v =&gt; ((-v + max) / max) * (this.maxWeight - this.minWeight))   
+In English, it says:
+          ( (-TotalCountOfTypeThatThePlayerCanEnounterAtThisTime + totalNumberOfEncounters)/totalNumberOfEncounters) * (4.0 - 1.2)
+and then it is rounded to 2 decimal places
+
+putting it together, we have:
+Pokemon * 1.35 * (Number specific to the individual, based on progress in the game) * 2.8
+So, I'm just going to pretend that that middle part doesn't matter, and so it's just Pokemon * 3.78.  It's close enough to the numbers I'm measuring in game
+--&gt;
+| Capture Type || Between 50 and 250 Pokémon || Pokémon * 3.78 {{Questpoints}} † || 189 - 945{{Questpoints}}
+|-
+| Gain [[Poké Dollar|Money]] {{pdollar}} || Between 20,000 and 60,000 {{pdollar}} || Money * .0017 {{Questpoints}} || 31 - 112 {{Questpoints}}
+|-
+| Gain [[Dungeon Tokens]] {{Dungeontokens}} || Between 1,000 to 8,000 {{Dungeontokens}} || Tokens * .1 {{Questpoints}} || 90 - 880 {{Questpoints}}
+|-
+| Gain [[Farming Points|Farm Points]] {{Farmpoints}} || Between 500 to 5,000 {{Farmpoints}} || Points * .16 {{Questpoints}} || 72 - 880 {{Questpoints}}
+|-
+&lt;!-- See notes just above Capture Type.  The reward calculation also takes into account relative difficulty of getting certain types early in the game.  It might be different that what's listed below
+--&gt;
+| rowspan=5|Gain [[Gems]] || Between 200 and 600 Gems of Normal [[File:Normal_Gem.png|15px]], Water [[File:Water_Gem.png|15px]], Fighting [[File:Fighting_Gem.png|15px]], Poison [[File:Poison_Gem.png|15px]], or Flying [[File:Flying_Gem.png|15px]] type || Gems * 1 {{Questpoints}} || 180 - 660 {{Questpoints}}
+|-
+| Between 200 and 600 Gems of Fire [[File:Fire_Gem.png|15px]], Electric [[File:Electric_Gem.png|15px]], Grass [[File:Grass_Gem.png|15px]], Ground [[File:Ground_Gem.png|15px]], or Rock [[File:Rock_Gem.png|15px]] type || Gems * 2 {{Questpoints}} || 360 - 1320 {{Questpoints}}
+|-
+| Between 200 and 600 Gems of Bug [[File:Bug_Gem.png|15px]], Dark [[File:Dark_Gem.png|15px]], or Steel [[File:Steel_Gem.png|15px]] type || Gems * 3 {{Questpoints}} || 540 - 1980 {{Questpoints}}
+|-
+| Between 200 and 600 Gems of Psychic [[File:Psychic_Gem.png|15px]], Ghost [[File:Ghost_Gem.png|15px]], or Ice [[File:Ice_Gem.png|15px]] type || Gems * 4 {{Questpoints}} || 720 - 2640 {{Questpoints}}
+|-
+| Between 200 and 600 Gems of Dragon [[File:Dragon_Gem.png|15px]], or Fairy [[File:Fairy_Gem.png|15px]] type || Gems * 5 {{Questpoints}} || 900 - 3300 {{Questpoints}}
+|-
+| Hatch [[Eggs]] || Between 1 and 30 Eggs || Eggs * 33 {{Questpoints}} || 30 - 1089 {{Questpoints}}
+|-
+| Mine [[Underground|Layer]] || Between 1 and 3 Layers || Layers * 720 {{Questpoints}} || 648 - 2376 {{Questpoints}}
+|-
+| Mine [[Underground#Items|Items]] || Between 3 and 15 Items || Items * 210 {{Questpoints}} || 567 - 3465 {{Questpoints}}
+|-
+| Catch [[Shiny Chance|Shinies]] || 1 Shiny || Shinies * 3000 {{Questpoints}} || 2700 - 3300 {{Questpoints}}
+|-
+| Use an [[Oak Item]] X times || Use either the [[Magic Ball]] [[File:Bag_Magic_Ball_Sprite.png|15px]], [[Amulet Coin]] [[File:Bag_Amulet_Coin_Sprite.png|15px]], or [[EXP Share]] [[File:Bag_EXP_Share_Sprite.png|15px]] between 100 and 500 times || Uses * 1 {{Questpoints}} || 90 - 550 {{Questpoints}}
+|-
+| rowspan=3|Use a type of [[Pokéballs|Pokéball]] || Between 100 and 500 [[Pokeball|Pokéballs]] [[File:Ball_Pokeball.png|15px]] || Pokéballs  * 1 {{Questpoints}} || 90 - 550 {{Questpoints}}
+|-
+| Between 100 and 500 [[Greatball|Greatballs]] [[File:Greatball.png|15px]] || Greatballs * 4 {{Questpoints}} || 360 - 2200 {{Questpoints}}
+|-
+| Between 100 and 500 [[Ultraball|Ultraballs]] [[File:Ultraball.png|15px]] || Ultraballs * 9 {{Questpoints}} || 810 - 4950 {{Questpoints}}
+|-
+| Defeat [[Gyms|Gym]] || Between 5 and 20 clears for an unlocked gym || rowspan = 3 | Variable {{Questpoints}}
+|-
+| Defeat [[Dungeons|Dungeon]] || Between 5 and 20 clears for an unlocked dungeon
+|-
+&lt;!--
+const maxAmt = Math.min(300, Math.ceil(432000 / berry.growthTime[3]));
+const minAmt = Math.min(10, Math.ceil(maxAmt / 2));
+--&gt;
+| Harvest [[Berries]] || At least 1 Berry and up to 300 berries of a type unlocked by the player
+|}
+
+† Note: these quests change their reward based on how far the player has progressed.  If for instance, the player receives a quest to capture fairy type pokemon, and very few are available, the reward should be more to reflect the difficulty.  This is similar to how the gem quest reward changes based on difficulty.</text>
+    <contributor>
+      <username>FuzzyBot</username>
+      <id>587</id>
+    </contributor>
+    <comment>Updating to match new version of source page</comment>
+    <model>wikitext</model>
+    <parentid>34331</parentid>
+    <sha1>89e3bfb94cf99e46d4b09feac2fefb2437feff0e</sha1>
+  </revision>
+</page></mediawiki>

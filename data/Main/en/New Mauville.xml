@@ -1,0 +1,120 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>New Mauville/en</title>
+  <ns>0</ns>
+  <id>14669</id>
+  <revision>
+    <id>35289</id>
+    <timestamp>2022-09-13T13:29:42Z</timestamp>
+    <text space="preserve" bytes="2643">&lt;languages/&gt;
+{{Infobox dungeon
+|name    = New Mauville
+|image   = [[File:New Mauville.png|300px]]
+|caption = An inside view of New Mauville.
+|tokens  = 24,000
+|location = South of Mauville City, East of Route 110.
+}}
+'''New Mauville''' is a [[Dungeons|dungeon]] in [[Hoenn]]. It initially has 49 tiles arranged in a 7x7 square, including 7 chest tiles, 17 non-boss encounter tiles, and 1 boss encounter tile. Wild Encounters have 460,000 HP.
+
+== Encounter Tables ==
+
+===Wild Encounters===
+
+{| class="wikitable"
+|-
+! Wild Pokémon !! colspan=2|Trainers
+|-
+! Encounter !! Trainer !! Pokémon Team
+|-
+| [[File:Magnemite.png|40px]] Magnemite || colspan=2 rowspan=2|&lt;center&gt;N/A
+|-
+| [[File:Voltorb.png|40px]] Voltorb
+|-
+|}
+
+===Boss Encounters===
+{| class="wikitable"
+|-
+! Wild Pokémon !! Base Health !! Boss Trainer !! Pokémon Team !! Base Health
+|-
+| [[File:Magneton.png|40px]] Magneton || rowspan=2|&lt;center&gt;1,650,000 || colspan=3 rowspan=2|&lt;center&gt; N/A
+|-
+| [[File:Electrode.png|40px]] Electrode
+|-
+|}
+
+==Items==
+
+===No Debuff===
+
+{| class="wikitable"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+|-
+| align="center" colspan=6| '''Common'''
+|-
+| {{Bag2|Lucky Incense}} || 3 || 32.13% || 30.93% || 25.99%
+|-
+| {{Bag2|Cheri}} || 3 || 32.13% || 30.93% || 25.99%
+|-
+| {{Pokemon|Voltorb}} || N/A || 10.71% || 10.31% || 8.66%
+|-
+| align="center" colspan=6| '''Rare'''
+|-
+| {{Bag2|Yellow Shard}} || N/A || 20.01% || 21.04% || 25.22%
+|-
+| align="center" colspan=6| '''Epic'''
+|-
+| {{Bag2|Razz}} || N/A || 2.01% || 2.61% || 5.05%
+|-
+| {{Bag2|Ultraball}} || N/A || 2.01% || 2.61% || 5.05%
+|-
+| align="center" colspan=6| '''Legendary'''
+|-
+| {{Bag2|Zap Plate}} || N/A || 1.00% || 1.59% || 4.03%
+|}
+
+===Debuff Drop Table===
+
+After Reaching Kalos, the drop chance for items in Hoenn will be debuffed for any loot with a Tier rarer than Rare (ie: Epic, Legendary, Mythic).
+
+{| class="wikitable collapsible collapsed"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+|-
+| align="center" colspan=6| '''Common'''
+|-
+| {{Bag2|Lucky Incense}} || 3 || 32.14% || 32.14% || 32.14%
+|-
+| {{Bag2|Cheri}} || 3 || 32.14% || 32.14% || 32.14%
+|-
+| {{Pokemon|Voltorb}} || N/A || 10.71% || 10.71% || 10.71%
+|-
+| align="center" colspan=6| '''Rare'''
+|-
+| {{Bag2|Yellow Shard}} || N/A || 24.00% || 24.00% || 24.00%
+|-
+| align="center" colspan=6| '''Epic'''
+|-
+| {{Bag2|Razz}} || N/A || 0.45% || 0.45% || 0.45%
+|-
+| {{Bag2|Ultraball}} || N/A || 0.45% || 0.45% || 0.45%
+|-
+| align="center" colspan=6| '''Legendary'''
+|-
+| {{Bag2|Zap Plate}} || N/A || 0.10% || 0.10% || 0.10%
+|}
+
+{{Hoenn Dungeons}}
+
+[[Category:Dungeons|^Region #3 - Hoenn^h]]</text>
+    <contributor>
+      <username>FuzzyBot</username>
+      <id>587</id>
+    </contributor>
+    <comment>Updating to match new version of source page</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>25b8e6940f7b0b64d509dc194a07e4a6ab8a3012</sha1>
+  </revision>
+</page></mediawiki>
