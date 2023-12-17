@@ -1,0 +1,64 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Battle Points/fr</title>
+  <ns>0</ns>
+  <id>10161</id>
+  <revision>
+    <id>37729</id>
+    <timestamp>2022-09-20T08:17:15Z</timestamp>
+    <text space="preserve" bytes="2194">&lt;languages/&gt;
+[[File:Battlepoints.png|thumb|200px|Un Point de Combat]]
+
+==Description==
+Les '''Points de Combat''' sont la devise rouge gagnée à la [[Battle Frontier/fr|Zone de Combat]] et sont actuellement utilisés pour acheter des objets dans la [[Shops/fr#Zone_de_Combat|Boutique de la Zone de Combat]] ou pour obtenir un Couafarel à la boutique d'[[Shops#Friseur Furfrou|Au Fringant Pokémon]], située à Illumis à [[Kalos/fr|Kalos]].
+
+&lt;span id="Formulas"&gt;&lt;/span&gt;
+==Formules==
+
+&lt;math&gt;\colorbox{White}{$ \text{Points de Combat} = \text{Étage atteint} \times \text{Multiplicateur de Bataille}$}&lt;/math&gt; 
+&lt;br&gt;&lt;br&gt; &lt;big&gt;Avec :&lt;/big&gt; 
+&lt;math&gt;\colorbox{White}{$\text{Multiplicateur de Bataille} = \text{max}(\frac{\text{Étage atteint}}{100},1)$}&lt;/math&gt;
+
+==Utilisations==
+Les Points de Combat sont utilisés pour acheter les objets et Pokémon suivants :
+
+===[[Shops/fr#Zone_de_Combat|Boutique de la Zone de Combat]]===
+{| class="wikitable sortable"
+|-
+! Objet !! Prix
+|-
+|[[File:Ultraball.png|15px]][[Ultraball/fr|Hyper Ball]] || style="text-align:right;" | 1 {{Battlepoints}}
+|-
+|[[File:Masterball.png|15px]][[Masterball/fr|Master Ball]] || style="text-align:right;" | 500 {{Battlepoints}}
+|-
+|[[File:SmallRestore.png|15px]][[Small Restore/fr|Potion]] || style="text-align:right;" | 10 {{Battlepoints}}
+|-
+|[[File:MediumRestore.png|15px]][[Medium Restore/fr|Super Potion]] || style="text-align:right;" | 20 {{Battlepoints}}
+|-
+|[[File:LargeRestore.png|15px]][[Large Restore/fr|Hyper Potion]] || style="text-align:right;" | 40 {{Battlepoints}}
+|-
+|[[File:Jamie.png|18px]] [[Farm Hand/fr|Assistant Fermier Jamie]] || style="text-align:right;" | 20 000 {{Battlepoints}}
+|-
+|[[File:HHNoel.png|15px]] [[Hatchery Helper/fr|Assistant de Pension Noel]] || style="text-align:right;" | 20 000 {{Battlepoints}}
+|}
+
+===Pokémon disponible en Boutique===
+{| class="wikitable sortable style="text-align: center;"
+|-
+! Boutique !! Jeton !! Pokémon !! Coût
+|-
+| [[Shops/fr#Kalos_:_Lieux_&amp;_Objets|Au Fringant Pokémon (Kalos)]] || [[File:Furfrou_(Kabuki)_Shuffle.png|30px]] || [[File:Furfrou_(Kabuki).png|40px]]Couafarel (Kabuki) || 75 000 {{Battlepoints}}
+|}
+
+[[Category:Currencies]]
+[[Category:Devises]]</text>
+    <contributor>
+      <username>Razikd</username>
+      <id>535</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>30050</parentid>
+    <sha1>ced1fb2cf8b0e05d613351fb616cebc10580b0a2</sha1>
+  </revision>
+</page></mediawiki>

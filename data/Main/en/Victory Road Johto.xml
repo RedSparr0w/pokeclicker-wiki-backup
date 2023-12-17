@@ -1,0 +1,146 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Victory Road Johto/en</title>
+  <ns>0</ns>
+  <id>14019</id>
+  <revision>
+    <id>34560</id>
+    <timestamp>2022-09-13T09:09:22Z</timestamp>
+    <text space="preserve" bytes="3457">&lt;languages/&gt;
+{{Infobox dungeon
+|name    = Victory Road Johto
+|image   = [[File:Victory Road Johto.png|thumb]]
+|caption = A map of Victory Road Johto.
+|tokens  = 7,000
+|location = Route 26, south of Indigo Plateau Johto.
+}}
+'''Victory Road Johto''' is a [[Dungeons|dungeon]] in [[Johto]]. It initially has 36 tiles arranged in a 6x6 square, including 6 chest tiles, 15 non-boss encounter tiles, and 1 boss encounter tile. Wild Encounters have 128,500 HP.
+
+== Encounter Tables ==
+
+===Wild Encounters===
+
+{| class="wikitable"
+|-
+! Wild Pokémon !! colspan=2|Trainers
+|-
+! Encounter !! Trainer !! Pokémon Team
+|-
+| [[File:Golbat.png|40px]] Golbat || colspan=2 rowspan=4| &lt;center&gt; N/A
+|-
+| [[File:Graveler.png|40px]] Graveler 
+|-
+| [[File:Onix.png|40px]] Onix
+|-
+| [[File:Rhyhorn.png|40px]] Rhyhorn
+|}
+
+===Boss Encounters===
+{| class="wikitable"
+|-
+! Wild Pokémon !! Base Health !! Boss Trainer !! Pokémon Team !! Base Health
+|-
+| [[File:Sandslash.png|40px]] Sandslash || rowspan=2|&lt;center&gt; 500,000 || rowspan=2 colspan=3|&lt;center&gt;N/A
+|-
+| [[File:Rhydon.png|40px]] Rhydon
+|}
+
+==Items==
+
+===No Debuff===
+
+{| class="wikitable"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+|-
+| align="center" colspan=6| '''Common'''
+|-
+| {{Bag2|Dowsing Machine}} || 6 || 66.95% || 65.10% || 57.14%
+|-
+| {{Pokemon|Graveler}} || N/A || 11.16% || 10.85% || 9.52%
+|-
+| align="center" colspan=6| '''Rare'''
+|-
+| {{Bag2|Blue Shard}} || N/A || 3.47% || 3.69% || 4.62%
+|-
+| {{Bag2|Green Shard}} || N/A || 3.47% || 3.69% || 4.62%
+|-
+| {{Bag2|Red Shard}} || N/A || 3.47% || 3.69% || 4.62%
+|-
+| {{Bag2|Yellow Shard}} || N/A || 3.47% || 3.69% || 4.62%
+|-
+| {{Bag2|Grey Shard}} || N/A || 3.47% || 3.69% || 4.62%
+|-
+| {{Bag2|Purple Shard}} || N/A || 3.47% || 3.69% || 4.62%
+|-
+| align="center" colspan=6| '''Legendary'''
+|-
+| {{Bag2|Earth Plate}} || 2 || 0.30% || 0.48% || 1.27%
+|-
+| {{Bag2|Ultraball}} || 2 || 0.30% || 0.48% || 1.27%
+|-
+| {{Bag2|Small Restore}} || 2 || 0.30% || 0.48% || 1.27%
+|-
+| {{Bag2|Large Restore}} || N/A || 0.15% || 0.24% || 0.63%
+|-
+| align="center" colspan=6| '''Mythic'''
+|-
+| {{Bag2|Max Revive}} || N/A || 0.01% || 0.23% || 1.18%
+|}
+
+===Debuff Drop Table===
+
+After Reaching Unova, the drop chance for items in Johto will be debuffed for any loot with a Tier rarer than Rare (ie: Epic, Legendary, Mythic).
+
+{| class="wikitable collapsible collapsed"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+|-
+| align="center" colspan=6| '''Common'''
+|-
+| {{Bag2|Dowsing Machine}} || 6 || 64.87% || 64.87% || 64.87%
+|-
+| {{Pokemon|Graveler}} || N/A || 10.81% || 10.81% || 10.81%
+|-
+| align="center" colspan=6| '''Rare'''
+|-
+| {{Bag2|Blue Shard}} || N/A || 4.04% || 4.04% || 4.04%
+|-
+| {{Bag2|Green Shard}} || N/A || 4.04% || 4.04% || 4.04%
+|-
+| {{Bag2|Red Shard}} || N/A || 4.04% || 4.04% || 4.04%
+|-
+| {{Bag2|Yellow Shard}} || N/A || 4.04% || 4.04% || 4.04%
+|-
+| {{Bag2|Grey Shard}} || N/A || 4.04% || 4.04% || 4.04%
+|-
+| {{Bag2|Purple Shard}} || N/A || 4.04% || 4.04% || 4.04%
+|-
+| align="center" colspan=6| '''Legendary'''
+|-
+| {{Bag2|Earth Plate}} || 2 || 0.03% || 0.03% || 0.03%
+|-
+| {{Bag2|Ultraball}} || 2 || 0.03% || 0.03% || 0.03%
+|-
+| {{Bag2|Small Restore}} || 2 || 0.03% || 0.03% || 0.03%
+|-
+| {{Bag2|Large Restore}} || N/A || 0.01% || 0.01% || 0.01%
+|-
+| align="center" colspan=6| '''Mythic'''
+|-
+| {{Bag2|Max Revive}} || N/A || &lt;0.01% || &lt;0.01% || &lt;0.01%
+|}
+
+{{Johto Dungeons}}
+
+[[Category:Dungeons|^Region #2 - Johto^n]]</text>
+    <contributor>
+      <username>FuzzyBot</username>
+      <id>587</id>
+    </contributor>
+    <comment>Updating to match new version of source page</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>e8c67f75d8245be2ea5f12bc231d3686ce8aed18</sha1>
+  </revision>
+</page></mediawiki>

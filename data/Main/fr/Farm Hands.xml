@@ -1,0 +1,88 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Farm Hands/fr</title>
+  <ns>0</ns>
+  <id>16125</id>
+  <revision>
+    <id>41453</id>
+    <timestamp>2022-11-09T13:37:15Z</timestamp>
+    <text space="preserve" bytes="5989">&lt;languages/&gt;
+Les '''Assistants de Ferme''' sont des personnes que l'on peut embaucher pour travailler dans votre [[Farm/fr|Ferme]], dont le but est d'automatiser la plantation et la récolte des baies. La plupart se débloque en découvrant un certain nombre de baies alors que d'autres sont disponibles à l'achat dans certaines boutiques. Une fois embauchés, les Assistants de Ferme travailleront jusqu'à qu'ils soient renvoyés. Cette fonctionnalité est actuellement en beta et est susceptible de changer.
+
+&lt;span id="Unlocking_Farm_Hands"&gt;&lt;/span&gt;
+==Débloquer les Assistants de Ferme==
+
+{| class="wikitable sortable" style="text-align: center;"
+|-
+! Nom !! Salaire Horaire !! Vitesse de travail !! Efficacité !! Énergie Max !! Conditions de déblocage || 
+Lieu d'achat
+|-
+| Alex [[File:Alex.png|20px]] || 140 {{farmpoints}} || 37 minutes || 1 || 10 || 8 Baies Découvertes || rowspan=4|N/A
+|-
+| Logan [[File:Logan.png|20px]] || 440 {{farmpoints}} || 19 minutes || 3 || 15 || 16 Baies Débloquées
+|-
+| Joey [[File:Joey.png|20px]] || 630 {{farmpoints}} || 10 minutes || 5 || 10 || 24 Baies Débloquées
+|-
+| Charlie [[File:Charlie.png|20px]] || 910 {{farmpoints}} || 7 minutes || 10 || 30 || 32 Baies Débloquées
+|-
+| Bailey [[File:Bailey.png|20px]] || 1 300 {{farmpoints}} || 5 minutes || 12 || 10 || 50 000 Points de Récolte {{farmpoints}} || Johto [[Berry Master/fr|Maître des Baies]] de Johto
+|-
+| Kerry [[File:Kerry.png|20px]] || 1 900 {{farmpoints}} || 3 minutes 30 secondes || 16 || 50 || 100 000 Points de Récolte {{farmpoints}} || Maître des Baies de Hoenn
+|-
+| Riley [[File:Riley.png|20px]] || 4 000 {{farmpoints}} || 2 minutes 20 secondes || 25 || 70 || 200 000 Points de Récolte {{farmpoints}} || Maître des Baies de Sinnoh
+|-
+| Jamie [[File:Jamie.png|20px]] || 4 000 {{farmpoints}} || 1 minute 30 secondes || 5 || 65 || 20 000 [[Battle Points/fr|Points de Combat]] [[File:Battlepoints.png|15px]] || [[Battle Frontier/fr|Zone de Combat]]
+|-
+| Jessie [[File:Jessie.png|20px]] || 8 300 {{farmpoints}} || 1 minute || 50 || 100 || 56 Baies Découvertes ||N/A
+|}
+
+== Stats ==
+Les Assistants de Ferme ont 4 statistiques importantes :: '''Coût, Vitesse de travail, Efficacité et Énergie Max''' (voir ci-dessous).  Pour l'instant, les Assistants de Ferme regagne exactement 1 point d'énergie quand il n'y a pas de travail à faire et n'en récupère pas quand ils sont renvoyés.
+
+{| class="wikitable" style="text-align: center;"
+|-
+! Stat !! Description !! Utilisation
+|-
+| '''Coût''' || Salaire horaire de l'Assistant de Ferme || Le Coût est déduit de vos [[Farmingpoints|Points de Récolte]] à chaque heure durant laquelle l'Assistant est employé.
+|-
+| rowspan=3|'''Vitesse de travail''' || rowspan=3|La fréquence à laquelle l'Assistant de Ferme travaille || Si l'Assistant de Ferme a de l'énergie, ils travailleront et perdront 1 d'énergie pour chaque période de travail durant laquelle ils performent une action
+|-
+| Sans tenir compte du nombre d'actions un Assistant de Ferme réalise durant leur période de travail active, une Ferme utilisera 1 d'énergie.
+|-
+| S'il n'y a rien à faire ou que l'Assistant de Ferme est à court d'énergie, ils ne feront aucune action et gagneront 1 énergie
+|-
+| rowspan=3|'''Efficacité''' || rowspan=3| Combien d'actions l'Assistant de Ferme peut effectuer chaque cycle de travail || Récolter une baie et planter une baie compte comme deux actions distinctes
+|-
+| (Efficacité / 2) est le nombre de baies qu'un Assistant de Ferme peut récolter et replanter durant un cycle de travail 
+|-
+| Les Assistants de Ferme prioriseront toujours la récolte de baies à leur replantation.
+|-
+| rowspan=2|'''Énergie Max''' || rowspan=2|L'énergie maximum qu'un Assistant de Ferme peut avoir à un certain point || La quantité d'énergie avec laquelle démarre un Assistant de Ferme.
+|-
+| L'énergie actuelle d'un Assistant de Ferme peut être visible en survolant l'icône de l'Assistant embauché
+|-
+|}
+
+&lt;span id="Usage"&gt;&lt;/span&gt;
+== Utilisation ==
+
+Cliquer sur "Parcelles autorisées" ouvre un menu déroulant qui permet de sélectionner les parcelles sur lesquelles les Assistants de Ferme travailleront. Une parcelle verte indique un emplacement sur lequel l'Assistant est autorisé à travailler.
+Cliquer sur le menu déroulant "Baie à planter" donne la possibilité au joueur de choisir la baie à planter dans ces emplacements définis. Cocher la case "Récolte" autorise l'Assistant à effectuer la récolte sur ces parcelles.
+
+
+
+[[File:FarmHandExample1.png|right|400px]]
+
+Dans cet exemple, Alex et Logan vont travailler ensemble dans la Ferme (une fois embauchés). Alex plantera des baies [[Wacan/fr|Parma]] dans les parcelles extérieurs et sur les troisièmes ligne et colonne. Logan plantera des baies [[Lum/fr|Prine]] dans les parcelles restantes.  Alex récoltera toutes les baies sur les parcelles extérieures et des troisièmes rangée et colonne (qui pourront être des baies Parma, [[Kasib/fr|Sédra]], etc.) et plantera des baies Parma dans ces parcelles vides. Logan plantera des baies Prine dans les 4 parcelles qu'on lui a demandé de surveiller mais seulement si elles sont vides. Logan ne récoltera pas de baie et ne fera rien à part planter ces 4 parcelles vides avec des baies Prine. Gardez en tête que les caractéristiques des Assistants de Ferme jouent un rôle '''''très important''''' dans leur utilisation. Dans ce scénario, Alex plantera 1 baie Parma toutes les 37 minutes, du fait de la Vitesse de Travail d'Alex est de 37 minutes et son Efficacité étant de 1. C'est donc une utilisation plutôt mauvaise d'Alex comme les baies Parma ne durent qu'1 heure sans le Kwakarrosoir équipé. Ainsi, Alex ne plantera des baies que sur 2 parcelles. Logan plantera 3 baies Prine toutes les 19 minutes et, quand il n'y a plus de parcelles restantes dans lesquelles planter, recouvrera de l'énergie ou ne fera rien s'il est au maximum de son énergie.
+
+[[Category:Farm]][[Category:Ferme]]</text>
+    <contributor>
+      <username>Razikd</username>
+      <id>535</id>
+    </contributor>
+    <comment>Created page with "[[Category:Farm]][[Category:Ferme]]"</comment>
+    <model>wikitext</model>
+    <parentid>41451</parentid>
+    <sha1>4cbab3542f919d2599eec61a2ebf0e83ffb62a54</sha1>
+  </revision>
+</page></mediawiki>

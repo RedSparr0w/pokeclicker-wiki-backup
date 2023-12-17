@@ -1,0 +1,94 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Poni Meadow/en</title>
+  <ns>0</ns>
+  <id>15502</id>
+  <revision>
+    <id>36475</id>
+    <timestamp>2022-09-13T14:22:42Z</timestamp>
+    <text space="preserve" bytes="1958">&lt;languages/&gt;
+{{Infobox dungeon
+|name    = Poni Meadow
+|image   = [[File:Poni Meadow.png|300px]]
+|caption = A map of Poni Meadow.
+|tokens  = 1,225,000
+|location = North of Poni Plains.
+}}
+
+'''Poni Meadow''' is a [[Dungeons|dungeon]] in [[Alola]]. It initially has 121 tiles arranged in a 11x11 square, including 11 chest tiles, 41 non-boss encounter tiles, and 1 boss encounter tile. Wild Encounters have 16,659,968 HP.
+
+== Encounter Tables ==
+
+===Wild Encounters===
+
+{| class="wikitable"
+|-
+! Wild Pokémon !! colspan=2|Trainers
+|-
+! Encounter !! Trainer !! Pokémon Team
+|-
+| [[File:Magikarp.png|40px]] Magikarp ||rowspan=7|&lt;center&gt;[[File:Actor.png|40px]] Actor Meredith || rowspan=7|&lt;center&gt;[[File:Oricorio (Sensu).png|40px]] Oricorio (sensu)
+|-
+| [[File:Dratini.png|40px]] Dratini
+|-
+| [[File:Cottonee.png|40px]] Cottonee
+|-
+| [[File:Petilil.png|40px]] Petilil
+|-
+| [[File:Ribombee.png|40px]] Ribombee
+|-
+| [[File:Misdreavus.png|40px]] Misdreavus
+|-
+| [[File:Barboach.png|40px]] Barboach
+|-
+|}
+
+===Boss Encounters===
+{| class="wikitable"
+|-
+! Wild Pokémon !! Base Health !! Boss Trainer !! Pokémon Team !! Base Health
+|-
+| [[File:Floette (Red).png|50px]] Floette Red ||rowspan=2|&lt;center&gt;83,299,840 ||rowspan=2 colspan=3|&lt;center&gt;N/A
+|-
+| [[File:Oricorio (Sensu).png|50px]] Oricorio (Sensu)
+|-
+|}
+
+
+==Items==
+
+{| class="wikitable"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+|-
+| align="center" colspan=6| '''Common'''
+|-
+| {{Bag2|Lucky Egg}} || N/A || 37.87% || 36.66% || 31.60%
+|-
+| {{Bag2|Aspear}} || N/A || 37.87% || 36.66% || 31.60%
+|-
+| align="center" colspan=6| '''Rare'''
+|-
+| {{Bag2|Blue Shard}} || N/A || 10.11% || 10.69% || 13.14%
+|-
+| {{Bag2|Cyan Shard}} || N/A || 10.11% || 10.69% || 13.14%
+|-
+| align="center" colspan=6| '''Epic'''
+|-
+| {{Bag2|Splash Plate}} || N/A || 2.03% || 2.65% || 5.27%
+|-
+| {{Bag2|Pixie Plate}} || N/A || 2.03% || 2.65% || 5.27%
+|}
+
+{{Alola Dungeons}}
+[[Category:Dungeons|^Region #7 - Alola^zc]]</text>
+    <contributor>
+      <username>FuzzyBot</username>
+      <id>587</id>
+    </contributor>
+    <comment>Updating to match new version of source page</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>cf8c5ea80b91c9b7c26370c8134712a2e35f3404</sha1>
+  </revision>
+</page></mediawiki>

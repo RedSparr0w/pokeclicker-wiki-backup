@@ -1,0 +1,50 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Shiny Charm/fr</title>
+  <ns>0</ns>
+  <id>4731</id>
+  <revision>
+    <id>25139</id>
+    <timestamp>2022-08-20T10:40:39Z</timestamp>
+    <text space="preserve" bytes="1685">&lt;languages/&gt;
+{{Infobox Oak Item
+|name       = Charme Chroma
+|image      = [[File:Bag_Shiny_Charm_Sprite.png]]
+|caption    = Dessin du ''Charme Chroma''.
+|dex = 70
+|effect     = Augmente les chances de rencontrer un Pokémon chromatique
+}}
+Le '''Charme Chroma''' est un [[Oak Items|Objet de Chen]]. Equipé, il augmente la [[Shiny Chance|probabilité de rencontrer un Pokémon chromatique]] (dans la nature, dans les donjons, les arènes, l'incubation,...). Le Charme Chroma est débloqué après avoir capturé 70 espèces différentes de Pokémon.
+
+== Détails ==
+
+{| class="wikitable sortable"
+|-
+! Niveau !! Effet !! Critère d'amélioration !! Coût d'amélioration
+|-
+|0 || Chances de rencontrer un Pokémon chromatique X 1,5 || Rencontrer 4 Pokémon chromatiques || style="text-align:right" | 50 000 {{pdollar}}
+|-
+|1 || Chances de rencontrer un Pokémon chromatique X 1,6 || Rencontrer 4 Pokémon chromatiques || style="text-align:right" | 100 000 {{pdollar}}
+|-
+|2 || Chances de rencontrer un Pokémon chromatique X 1,7 || Rencontrer 10 Pokémon chromatiques || style="text-align:right" | 250 000 {{pdollar}}
+|-
+|3 || Chances de rencontrer un Pokémon chromatique X 1,8 || Rencontrer 17 Pokémon chromatiques || style="text-align:right" | 500 000 {{pdollar}}
+|-
+|4 || Chances de rencontrer un Pokémon chromatique X 1,9 || Rencontrer 34 Pokémon chromatiques || style="text-align:right" | 1 000 000 {{pdollar}}
+|-
+|5/Max || Chances de rencontrer un Pokémon chromatique X 2 || N/A || style="text-align:right" | N/A
+|-
+|}
+
+&lt;br&gt;{{Oak items}}&lt;br&gt;
+[[Category:Oak Items]][[Category:Objets de Chen]] [[Category:Items]][[Category:Objets]] [[Category:Shinies]][[Category:Chromatiques]]</text>
+    <contributor>
+      <username>PetroleVB</username>
+      <id>619</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>15917</parentid>
+    <sha1>cdbd98805d98beeeacfc2e3b53114b0a7c4c9312</sha1>
+  </revision>
+</page></mediawiki>

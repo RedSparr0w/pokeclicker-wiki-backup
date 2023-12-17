@@ -1,0 +1,178 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Mt. Pyre</title>
+  <ns>0</ns>
+  <id>404</id>
+  <revision>
+    <id>41253</id>
+    <timestamp>2022-11-09T04:55:17Z</timestamp>
+    <text space="preserve" bytes="5524">&lt;languages/&gt;
+&lt;translate&gt;
+&lt;!--T:1--&gt;
+{{Infobox dungeon
+|name    = Mt. Pyre
+|image   = [[File:Mt. Pyre.png|300px]]
+|caption = A map of Mt. Pyre.
+|tokens  = 28,000
+|location = East of Route 122.
+}}
+'''Mt. Pyre''' is a [[Dungeons|dungeon]] in [[Hoenn]]. It initially has 49 tiles arranged in a 7x7 square, including 7 chest tiles, 17 non-boss encounter tiles, and 1 boss encounter tile. Wild Encounters have 480,000 HP.
+
+
+== Encounter Tables == &lt;!--T:2--&gt;
+
+===Wild Encounters=== &lt;!--T:3--&gt;
+
+&lt;!--T:4--&gt;
+{| class="wikitable"
+|-
+! Wild Pokémon !! colspan=2|Trainers
+|-
+! Encounter !! Trainer !! Pokémon Team
+|-
+| rowspan=3|[[File:Shuppet.png|40px]] Shuppet || [[File:PokéManiac.png|40px]] Pokémaniac Mark || [[File:Rhyhorn.png|40px]] Rhyhorn
+|-
+| [[File:Hex_Maniac_(hoenn).png|40px]] Hex Maniac Leah || [[File:Spoink.png|40px]] Spoink
+|-
+| [[File:Black_Belt (male).png|40px]] Black Belt Zander || [[File:Hariyama.png|40px]] Hariyama
+|-
+| rowspan=3|[[File:Duskull.png|40px]] Duskull || [[File:Young_Couple.png|40px]] Young Couple Dez &amp; Luke || [[File:Delcatty.png|40px]] Delcatty, [[File:Manectric.png|40px]] Manectric
+|-
+| [[File:Psychic_(female).png|40px]] Psychic Kayla || [[File:Wobbuffet.png|40px]] Wobbuffet, [[File:Natu.png|40px]] Natu, [[File:Kadabra.png|40px]] Kadabra
+|-
+| [[File:Pokémon_Breeder_(female).png|40px]] Pokémon Breeder Gabrielle || [[File:Skitty.png|40px]] Skitty,[[File:Poochyena.png|40px]] Poochyena, [[File:Zigzagoon.png|40px]] Zigzagoon, [[File:Lotad.png|40px]] Lotad,[[File:Seedot.png|40px]] Seedot, [[File:Taillow.png|40px]] Taillow
+|-
+| rowspan=3|[[File:Vulpix.png|40px]] Vulpix || [[File:Psychic_(male).png|40px]] Psychic William || [[File:Ralts.png|40px]] Ralts, [[File:Ralts.png|40px]] Ralts, [[File:Kirlia.png|40px]] Kirlia
+|-
+| [[File:Hex_Maniac_(hoenn).png|40px]] Hex Maniac Tasha || [[File:Shuppet.png|40px]] Shuppet
+|-
+| [[File:Black_Belt (male).png|40px]] Black Belt Atsushi || [[File:Hariyama.png|40px]] Hariyama
+|-
+| rowspan=3|[[File:Wingull.png|40px]] Wingull || [[File:Hex_Maniac_(hoenn).png|40px]] Hex Maniac Valerie || [[File:Sableye.png|40px]] Sableye
+|-
+| [[File:Psychic_(male).png|40px]] Psychic Cedric || [[File:Wobbuffet.png|40px]] Wobbuffet
+|-
+| [[File:Team_Aqua_Grunt_(male).png|40px]] Team Aqua Grunt || [[File:Carvanha.png|40px]] Carvanha
+|-
+| rowspan=3|[[File:Meditite.png|40px]] Meditite || [[File:Team_Aqua_Grunt_(male).png|40px]] Team Aqua Grunt || [[File:Zubat.png|40px]] Zubat
+|-
+| [[File:Team_Aqua_Grunt_(male).png|40px]] Team Aqua Grunt || [[File:Poochyena.png|40px]] Poochyena, [[File:Carvanha.png|40px]] Carvanha
+|-
+| [[File:Team_Aqua_Grunt_(female).png|40px]] Team Aqua Grunt || [[File:Wailmer.png|40px]] Wailmer, [[File:Zubat.png|40px]] Zubat
+|-
+|}
+
+&lt;!--T:5--&gt;
+===Boss Encounters===
+{| class="wikitable"
+|-
+! Wild Pokémon !! Base Health !! Boss Trainer !! Pokémon Team !! Base Health
+|-
+| [[File:Shuppet.png|40px]] Shuppet || rowspan=2|&lt;center&gt;1,880,000 || colspan=3 rowspan=3|&lt;center&gt; N/A
+|-
+| [[File:Chimecho.png|40px]] Chimecho
+|-
+| [[File:Duskull.png|40px]] Duskull || &lt;center&gt;1,890,000
+|}
+
+==Items== &lt;!--T:6--&gt;
+
+&lt;tabs&gt; &lt;!--T:7--&gt;
+&lt;tab name="No Debuff"&gt;
+
+&lt;!--T:8--&gt;
+{| class="wikitable"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears !! Requirement
+|-
+| align="center" colspan=6| '''Common'''
+|-
+| {{Bag2|xAttack}} || N/A || 37.48% || 36.00% || 30.00% || rowspan=2| &lt;center&gt; N/A
+|-
+| {{Bag2|Lucky Incense}} || N/A || 37.48% || 36.00% || 30.00%
+|-
+| align="center" colspan=6| '''Rare'''
+|-
+| {{Bag2|Green Shard}} || N/A || 10.00% || 10.50% || 12.47% || rowspan=2| &lt;center&gt; N/A
+|-
+| {{Bag2|Blue Shard}} || N/A || 10.00% || 10.50% || 12.47%
+|-
+| align="center" colspan=6| '''Epic'''
+|-
+| {{Bag2|Ultraball}} || N/A || 4.01% || 5.20% || 10.00% || &lt;center&gt; N/A
+|-
+| align="center" colspan=6| '''Legendary'''
+|-
+| {{Bag2|Spooky Plate}} || N/A || 0.25% || 0.40% || 1.00% || rowspan=4| &lt;center&gt; N/A
+|-
+| {{Bag2|Fist Plate}} || N/A || 0.25% || 0.40% || 1.00%
+|-
+| {{Bag2|Mind Plate}} || N/A || 0.25% || 0.40% || 1.00%
+|-
+| {{Bag2|Black Belt}} || N/A || 0.25% || 0.40% || 1.00%
+|-
+| align="center" colspan=6| '''Mythic'''
+|-
+| {{Bag2|Protein}} || N/A || 0% || 0% || 1.06% || 400 Clears
+|}
+&lt;/tab&gt;
+
+&lt;tab name="Debuff"&gt; &lt;!--T:9--&gt;
+
+&lt;!--T:10--&gt;
+After Reaching Kalos, the drop chance for items in Hoenn will be debuffed for any loot with a Tier rarer than Rare (ie: Epic, Legendary, Mythic).
+
+&lt;!--T:11--&gt;
+{| class="wikitable"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears !! Requirement
+|-
+| align="center" colspan=6| '''Common'''
+|-
+| {{Bag2|xAttack}} || N/A || 37.50% || 37.50% || 37.50% || rowspan=2| &lt;center&gt; N/A
+|-
+| {{Bag2|Lucky Incense}} || N/A || 37.50% || 37.50% || 37.50%
+|-
+| align="center" colspan=6| '''Rare'''
+|-
+| {{Bag2|Green Shard}} || N/A || 12.00% || 12.00% || 12.00% || rowspan=2| &lt;center&gt; N/A
+|-
+| {{Bag2|Blue Shard}} || N/A || 12.00% || 12.00% || 12.00%
+|-
+| align="center" colspan=6| '''Epic'''
+|-
+| {{Bag2|Ultraball}} || N/A || 0.90% || 0.90% || 0.90% || &lt;center&gt; N/A
+|-
+| align="center" colspan=6| '''Legendary'''
+|-
+| {{Bag2|Spooky Plate}} || N/A || 0.03% || 0.03% || 0.03% || rowspan=4| &lt;center&gt; N/A
+|-
+| {{Bag2|Fist Plate}} || N/A || 0.03% || 0.03% || 0.03%
+|-
+| {{Bag2|Mind Plate}} || N/A || 0.03% || 0.03% || 0.03%
+|-
+| {{Bag2|Black Belt}} || N/A || 0.03% || 0.03% || 0.03%
+|-
+| align="center" colspan=6| '''Mythic'''
+|-
+| {{Bag2|Protein}} || N/A || 0% || 0% || &lt;0.01% || 400 Clears
+|}
+&lt;/tab&gt;
+&lt;/tabs&gt;
+
+&lt;!--T:12--&gt;
+{{Hoenn Dungeons}}
+
+&lt;!--T:13--&gt;
+[[Category:Dungeons|^Region #3 - Hoenn^j]]
+&lt;/translate&gt;</text>
+    <contributor>
+      <username>ThePantMan</username>
+      <id>310</id>
+    </contributor>
+    <comment>/* Tabs */</comment>
+    <model>wikitext</model>
+    <parentid>40491</parentid>
+    <sha1>de28e6a5e5a1301bf54d59857504965a985584b7</sha1>
+  </revision>
+</page></mediawiki>

@@ -1,0 +1,947 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Pokémon Dollars</title>
+  <ns>0</ns>
+  <id>954</id>
+  <revision>
+    <id>41692</id>
+    <timestamp>2022-11-15T14:05:01Z</timestamp>
+    <text space="preserve" bytes="41029">&lt;languages/&gt;
+&lt;translate&gt;
+&lt;!--T:1--&gt;
+[[File:PokeCoin.png|thumb|200px|A Poké Dollar]]
+
+&lt;!--T:2--&gt;
+==Description==
+'''Pokemon Dollars''' are the basic golden currency of PokéClicker, also known as simply '''Money''' or '''Poké'''. They are obtained by defeating enemies and are primarily spent on various '''[[Items]]'''. Poké Dollars can be collected while offline for up to 24 hours.
+
+==Formulas== &lt;!--T:3--&gt;
+
+&lt;!--T:4--&gt;
+&lt;math&gt;\colorbox{White}{$ \text{Earnings} = \text{Max}(10, 3 \times \text {route (order)} + 5 \times \text{route}^{1.15} + \text{Deviation} $}&lt;/math&gt; &lt;br&gt;&lt;br&gt; &lt;big&gt;Where:&lt;/big&gt; &lt;math&gt;\colorbox{White}{$ \text{Deviation} = \text{Floor}(\text{[Random Integer between 0 and 1]} * 51) - 25 $}&lt;/math&gt; &lt;big&gt;&lt;br&gt; Or: &lt;/big&gt;&lt;math&gt;\colorbox{White}{$ \text{Deviation} = 12 $}&lt;/math&gt;&lt;br&gt;&lt;br&gt;
+
+&lt;!--T:5--&gt;
+&lt;math&gt;\colorbox{White}{$\text{Offline Earnings} = \text{Number Of Pokemon Defeated} \times \text{routeMoney} \times 0.5 $}&lt;/math&gt;&lt;br&gt;
+
+&lt;!--T:6--&gt;
+'''Number of Pokemon Defeated''' is equivalent to the number of Pokemon that would be defeated on a particular route by only Pokémon damage.&lt;br&gt;
+'''Route Money''' is a route specific constant.
+
+==Obtaining Pokémon Dollars== &lt;!--T:7--&gt;
+
+&lt;!--T:8--&gt;
+The following table presents the relevant information for gaining Poké. Routes are listed together with gyms of a particular region, and both provide rates of Poké per defeated Pokémon. The most efficient Gym and Route in each region is included in the [[Pokémon Dollars#Optimal Farming Location|Optimal Farming Location]] table. &lt;br&gt;
+The columns included in each table represent all the various combinations of  [[Lucky Incense]] and [[Amulet Coin]] that apply a bonus to Poke Dollars gained.
+
+&lt;!--T:9--&gt;
+{| class="wikitable sortable"
+|-
+| Average || Average Pokedollars per defeated Pokémon with no modifiers active
+|-
+| (AC/LI) Average || Average Pokedollars per defeated Pokémon with either Amulet Coin or Lucky Incense active
+|-
+| (AC*LI) Average || Average Pokedollars per defeated Pokémon with both Amulet Coin and Lucky Incense active
+|}
+
+&lt;!--T:10--&gt;
+Importantly, the following tables assume two things:
+# You can defeat the Pokémon in 1-shot
+# You have the [[Amulet Coin]] at max level (5)
+If either of these conditions is not met, it is possible that the most efficient route will not be the one listed in the table and that rates of Average Pokémon Dollars Gained per Second may be diminished.
+
+== Optimal Farming Locations== &lt;!--T:13--&gt;
+
+&lt;!--T:14--&gt;
+It is always most efficient to farm money on the highest strength route when idling. When actively playing, it is not always most efficient to gain Poké by defeating the highest strength gym that can be one-shot, as some early gyms in later regions do not yield as high amounts of Poké per pokémon.&lt;br&gt; &lt;b&gt; In general, the most efficient location to idle is the highest HP route/gym that can be one-shot.&lt;/b&gt; For this table, if two Gyms are tied for efficiency the easier Gym will be bolded.
+
+&lt;!--T:15--&gt;
+{| class="wikitable sortable"
+|-
+! Region !! Route !! Gym
+|-
+| Kanto || 23 || '''Cinnabar Island''' &amp; Champion Blue
+|-
+| Johto || 28 || Johto Elite Four (All equivalent, '''Will''' is the easiest)
+|-
+| Hoenn || 134 || Champion Wallace
+|-
+| Sinnoh || 230 || Champion Cynthia
+|-
+| Unova || 18 || Champion Iris
+|-
+| Kalos || 21 || Champion Diantha
+|-
+| Alola || Poni Gauntlet || Alola Gyms (All equivalent, '''Hala''' is the easiest)
+|-
+| Galar || Path to the Peak || Elite Peony
+|}
+
+&lt;!--T:16--&gt;
+== Regional Rate Tables ==
+=== Kanto ===
+====Main Region + Sevii Islands 123====
+{| class="mw-collapsible mw-collapsed wikitable sortable"
+|-
+! Route/Gym !! data-sort-type=number | Max Health !! data-sort-type=number | Average {{pdollar}} !! data-sort-type=number | (AC/LI) Average {{pdollar}} !! data-sort-type=number | (AC*LI) Average {{pdollar}}
+|-
+| Kanto Route 1 || 20 || 22 {{pdollar}} || 33 {{pdollar}} || 49 {{pdollar}} 
+|-
+| Kanto Route 22 || 66 || 26 {{pdollar}} || 39 {{pdollar}} || 59 {{pdollar}} 
+|-
+| Kanto Route 2 || 184 || 31 {{pdollar}} || 47 {{pdollar}} || 70 {{pdollar}} 
+|-
+| Kanto Route 3 || 382 || 37 {{pdollar}} || 55 {{pdollar}} || 83 {{pdollar}} 
+|-
+| Kanto Route 4 || 671 || 47 {{pdollar}} || 70 {{pdollar}} || 106 {{pdollar}} 
+|-
+| Kanto Route 24 || 1,065 || 57 {{pdollar}} || 86 {{pdollar}} || 129 {{pdollar}} 
+|-
+| Kanto Route 25 || 1,574 || 68 {{pdollar}} || 102 {{pdollar}} || 153 {{pdollar}} 
+|-
+| Kanto Route 5 || 2,206 || 79 {{pdollar}} || 118 {{pdollar}} || 178 {{pdollar}} 
+|-
+| Kanto Route 6 || 2,972 || 90 {{pdollar}} || 135 {{pdollar}} || 202 {{pdollar}} 
+|-
+| Kanto Route 11 || 3,880 || 101 {{pdollar}} || 151 {{pdollar}} || 227 {{pdollar}} 
+|-
+| Kanto Route 9 || 4,939 || 112 {{pdollar}} || 168 {{pdollar}} || 252 {{pdollar}} 
+|-
+| Kanto Route 10 || 6,155 || 123 {{pdollar}} || 185 {{pdollar}} || 278 {{pdollar}} 
+|-
+| Kanto Route 8 || 7,537 || 135 {{pdollar}} || 202 {{pdollar}} || 303 {{pdollar}} 
+|-
+| Kanto Route 7 || 9,091 || 146 {{pdollar}} || 219 {{pdollar}} || 329 {{pdollar}} 
+|-
+| Kanto Route 12 || 10,825 || 158 {{pdollar}} || 237 {{pdollar}} || 355 {{pdollar}} 
+|-
+| Kanto Route 13 || 12,745 || 169 {{pdollar}} || 254 {{pdollar}} || 381 {{pdollar}} 
+|-
+| Kanto Route 14 || 14,858 || 181 {{pdollar}} || 272 {{pdollar}} || 408 {{pdollar}} 
+|-
+| Kanto Route 15 || 17,170 || 193 {{pdollar}} || 290 {{pdollar}} || 435 {{pdollar}} 
+|-
+| Kanto Route 16 || 19,687 || 205 {{pdollar}} || 307 {{pdollar}} || 461 {{pdollar}} 
+|-
+| Kanto Route 17 || 22,415 || 217 {{pdollar}} || 325 {{pdollar}} || 488 {{pdollar}} 
+|-
+| Kanto Route 18 || 25,360 || 229 {{pdollar}} || 343 {{pdollar}} || 515 {{pdollar}} 
+|-
+| Kanto Route 19 || 28,527 || 241 {{pdollar}} || 362 {{pdollar}} || 543 {{pdollar}} 
+|-
+| Kanto Route 20 || 31,923 || 253 {{pdollar}} || 380 {{pdollar}} || 570 {{pdollar}} 
+|-
+| Kanto Route 21 || 35,552 || 265 {{pdollar}} || 398 {{pdollar}} || 598 {{pdollar}} 
+|-
+| Treasure Beach || 37,487 || 265 {{pdollar}} || 398 {{pdollar}} || 598 {{pdollar}} 
+|-
+| Kindle Road || 37,487 || 265 {{pdollar}} || 398 {{pdollar}} || 598 {{pdollar}} 
+|-
+| Cape Brink || 37,487 || 265 {{pdollar}} || 398 {{pdollar}} || 598 {{pdollar}} 
+|-
+| Bond Bridge || 37,487 || 265 {{pdollar}} || 398 {{pdollar}} || 598 {{pdollar}} 
+|-
+| Kanto Route 23 || 39,421 || 278 {{pdollar}} || 417 {{pdollar}} || 625 {{pdollar}} 
+|-
+| Pewter || 1,399 || 125 {{pdollar}} || 188 {{pdollar}} || 281 {{pdollar}}
+|-
+| Cerulean || 6,800 || 250 {{pdollar}} || 375 {{pdollar}} || 562 {{pdollar}}
+|-
+| Vermilion || 15,675 || 1,000 {{pdollar}} || 1,500 {{pdollar}} || 2,250 {{pdollar}}
+|-
+| Celadon || 36,400 || 500 {{pdollar}} || 750 {{pdollar}} || 1,125 {{pdollar}}
+|-
+| Saffron || 35,380 || 833 {{pdollar}} || 1,250 {{pdollar}} || 1,875 {{pdollar}}
+|-
+| Fuschia || 37,430 || 875 {{pdollar}} || 1,313 {{pdollar}} || 1,969 {{pdollar}}
+|-
+| Cinnabar || 50,290 || 1,667 {{pdollar}} || 2,500 {{pdollar}} || 3,750 {{pdollar}}
+|-
+| Viridian || 55,000 || 1,200 {{pdollar}} || 1,800 {{pdollar}} || 2,700 {{pdollar}}
+|-
+| Elite Lorelei || 60,250 || 1,500 {{pdollar}} || 2,250 {{pdollar}} || 3,375 {{pdollar}}
+|-
+| Elite Bruno || 60,250 || 1,500 {{pdollar}} || 2,250 {{pdollar}} || 3,375 {{pdollar}}
+|-
+| Elite Agatha || 60,250 || 1,500 {{pdollar}} || 2,250 {{pdollar}} || 3,375 {{pdollar}}
+|-
+| Elite Lance || 66,000 || 1,500 {{pdollar}} || 2,250 {{pdollar}} || 3,375 {{pdollar}}
+|-
+| Champion Blue || 70,000 || 1,667 {{pdollar}} || 2,500 {{pdollar}} || 3,750 {{pdollar}}
+|}
+
+&lt;!--T:27--&gt;
+====Sevii Islands 4567====
+{| class="mw-collapsible mw-collapsed wikitable sortable"
+|-
+! Route/Gym !! data-sort-type=number | Max Health !! data-sort-type=number | Average {{pdollar}} !! data-sort-type=number | (AC/LI) Average {{pdollar}} !! data-sort-type=number | (AC*LI) Average {{pdollar}}
+|-
+| Five Isle Meadow || 1,050,000 || 327 {{pdollar}} || 491 {{pdollar}} || 737 {{pdollar}} 
+|-
+| Memorial Pillar || 1,050,000 || 327 {{pdollar}} || 491 {{pdollar}} || 737 {{pdollar}} 
+|-
+| Water Labyrinth || 1,050,000 || 327 {{pdollar}} || 491 {{pdollar}} || 737 {{pdollar}} 
+|-
+| Resort Gorgeous || 1,050,000 || 327 {{pdollar}} || 491 {{pdollar}} || 737 {{pdollar}} 
+|-
+| Water Path || 1,050,000 || 327 {{pdollar}} || 491 {{pdollar}} || 737 {{pdollar}} 
+|-
+| Green Path || 1,050,000 || 327 {{pdollar}} || 491 {{pdollar}} || 737 {{pdollar}} 
+|-
+| Outcast Island || 1,050,000 || 327 {{pdollar}} || 491 {{pdollar}} || 737 {{pdollar}} 
+|-
+| Ruin Valley || 1,050,000 || 327 {{pdollar}} || 491 {{pdollar}} || 737 {{pdollar}} 
+|-
+| Canyon Entrance || 1,050,000 || 327 {{pdollar}} || 491 {{pdollar}} || 737 {{pdollar}} 
+|-
+| Sevault Canyon || 1,050,000 || 327 {{pdollar}} || 491 {{pdollar}} || 737 {{pdollar}} 
+|-
+| Valencia Island || 1,250,000 || 327 {{pdollar}} || 491 {{pdollar}} || 737 {{pdollar}} 
+|-
+| Pinkan Forest || 1,250,000 || 327 {{pdollar}} || 491 {{pdollar}} || 737 {{pdollar}} 
+|-
+| Pinkan Plains || 1,250,000 || 327 {{pdollar}} || 491 {{pdollar}} || 737 {{pdollar}} 
+|-
+| Mikan || 2,307,500 || 370 {{pdollar}} || 555 {{pdollar}} || 833 {{pdollar}}
+|-
+| Navel || 923,000 || 148 {{pdollar}} || 222 {{pdollar}} || 333 {{pdollar}}
+|-
+| Trovita || 1,538,333 || 247 {{pdollar}} || 370 {{pdollar}} || 555 {{pdollar}}
+|-
+| Kumquat || 2,307,500 || 370 {{pdollar}} || 555 {{pdollar}} || 833 {{pdollar}}
+|-
+| Drake || 1,124,400 || 800 {{pdollar}} || 1,200 {{pdollar}} || 1,800 {{pdollar}}
+|}
+
+&lt;!--T:17--&gt;
+=== Johto ===
+{| class="mw-collapsible mw-collapsed wikitable sortable"
+|-
+! Route/Gym !! Max Health !! data-sort-type=number | Average {{pdollar}} !! data-sort-type=number | (AC/LI) Average {{pdollar}} !! data-sort-type=number | (AC*LI) Average {{pdollar}}
+|-
+| Johto Route 29 || 45,710 || 290 {{pdollar}} || 435 {{pdollar}} || 653 {{pdollar}} 
+|-
+| Johto Route 46 || 50,289 || 302 {{pdollar}} || 454 {{pdollar}} || 681 {{pdollar}} 
+|-
+| Johto Route 30 || 55,136 || 315 {{pdollar}} || 472 {{pdollar}} || 709 {{pdollar}} 
+|-
+| Johto Route 31 || 60,255 || 327 {{pdollar}} || 491 {{pdollar}} || 737 {{pdollar}} 
+|-
+| Johto Route 32 || 65,651 || 340 {{pdollar}} || 510 {{pdollar}} || 765 {{pdollar}} 
+|-
+| Johto Route 33 || 71,330 || 352 {{pdollar}} || 529 {{pdollar}} || 794 {{pdollar}} 
+|-
+| Johto Route 34 || 77,296 || 365 {{pdollar}} || 548 {{pdollar}} || 822 {{pdollar}} 
+|-
+| Johto Route 35 || 83,554 || 378 {{pdollar}} || 567 {{pdollar}} || 851 {{pdollar}} 
+|-
+| Johto Route 36 || 90,109 || 391 {{pdollar}} || 586 {{pdollar}} || 879 {{pdollar}} 
+|-
+| Johto Route 37 || 96,966 || 403 {{pdollar}} || 605 {{pdollar}} || 908 {{pdollar}} 
+|-
+| Johto Route 38 || 104,130 || 416 {{pdollar}} || 624 {{pdollar}} || 937 {{pdollar}} 
+|-
+| Johto Route 39 || 111,604 || 429 {{pdollar}} || 644 {{pdollar}} || 966 {{pdollar}} 
+|-
+| Johto Route 40 || 119,394 || 442 {{pdollar}} || 663 {{pdollar}} || 995 {{pdollar}} 
+|-
+| Johto Route 41 || 127,504 || 455 {{pdollar}} || 682 {{pdollar}} || 1,024 {{pdollar}} 
+|-
+| Johto Route 42 || 135,938 || 468 {{pdollar}} || 702 {{pdollar}} || 1,053 {{pdollar}} 
+|-
+| Johto Route 43 || 144,701 || 481 {{pdollar}} || 721 {{pdollar}} || 1,082 {{pdollar}} 
+|-
+| Johto Route 44 || 153,798 || 494 {{pdollar}} || 741 {{pdollar}} || 1,112 {{pdollar}} 
+|-
+| Johto Route 45 || 163,232 || 507 {{pdollar}} || 761 {{pdollar}} || 1,141 {{pdollar}} 
+|-
+| Johto Route 47 || 173,007 || 520 {{pdollar}} || 780 {{pdollar}} || 1,171 {{pdollar}} 
+|-
+| Johto Route 48 || 183,129 || 533 {{pdollar}} || 800 {{pdollar}} || 1,200 {{pdollar}} 
+|-
+| Johto Route 27 || 193,601 || 546 {{pdollar}} || 820 {{pdollar}} || 1,230 {{pdollar}} 
+|-
+| Johto Route 26 || 204,427 || 560 {{pdollar}} || 840 {{pdollar}} || 1,260 {{pdollar}} 
+|-
+| Johto Route 28 || 215,611 || 573 {{pdollar}} || 860 {{pdollar}} || 1,290 {{pdollar}} 
+|-
+| Violet || 112,000 || 125 {{pdollar}} || 188 {{pdollar}} || 281 {{pdollar}}
+|-
+| Azalea || 119,000 || 167 {{pdollar}} || 250 {{pdollar}} || 375 {{pdollar}}
+|-
+| Goldenrod || 170,000 || 500 {{pdollar}} || 750 {{pdollar}} || 1,125 {{pdollar}}
+|-
+| Ecruteak || 130,000 || 375 {{pdollar}} || 563 {{pdollar}} || 844 {{pdollar}}
+|-
+| Cianwood || 183,000 || 1,250 {{pdollar}} || 1,875 {{pdollar}} || 2,813 {{pdollar}}
+|-
+| Olivine || 182,000 || 1,167 {{pdollar}} || 1,750 {{pdollar}} || 2,625 {{pdollar}}
+|-
+| Mahogany || 196,000 || 1,333 {{pdollar}} || 2,000 {{pdollar}} || 3,000 {{pdollar}}
+|-
+| Blackthorn || 220,000 || 1,250 {{pdollar}} || 1,875 {{pdollar}} || 2,813 {{pdollar}}
+|-
+| Elite Will || 260,250 || 1,500 {{pdollar}} || 2,250 {{pdollar}} || 3,375 {{pdollar}}
+|-
+| Elite Koga || 260,250 || 1,500 {{pdollar}} || 2,250 {{pdollar}} || 3,375 {{pdollar}}
+|-
+| Elite Bruno2 || 260,250 || 1,500 {{pdollar}} || 2,250 {{pdollar}} || 3,375 {{pdollar}}
+|-
+| Elite Karen || 266,000 || 1,500 {{pdollar}} || 2,250 {{pdollar}} || 3,375 {{pdollar}}
+|-
+| Champion Lance || 270,000 || 1,250 {{pdollar}} || 1,875 {{pdollar}} || 2,813 {{pdollar}}
+|}
+
+&lt;!--T:18--&gt;
+=== Hoenn ===
+{| class="mw-collapsible mw-collapsed wikitable sortable"
+|-
+! Route/Gym !! Max Health !! data-sort-type=number | Average {{pdollar}} !! data-sort-type=number | (AC/LI) Average {{pdollar}} !! data-sort-type=number | (AC*LI) Average {{pdollar}}
+|-
+| Hoenn Route 101 || 237,974 || 586 {{pdollar}} || 880 {{pdollar}} || 1,320 {{pdollar}} 
+|-
+| Hoenn Route 103 || 250,454 || 600 {{pdollar}} || 900 {{pdollar}} || 1,350 {{pdollar}} 
+|-
+| Hoenn Route 102 || 263,321 || 613 {{pdollar}} || 920 {{pdollar}} || 1,380 {{pdollar}} 
+|-
+| Hoenn Route 104 || 276,581 || 626 {{pdollar}} || 940 {{pdollar}} || 1,410 {{pdollar}} 
+|-
+| Hoenn Route 116 || 290,236 || 640 {{pdollar}} || 960 {{pdollar}} || 1,440 {{pdollar}} 
+|-
+| Hoenn Route 110 || 304,291 || 653 {{pdollar}} || 980 {{pdollar}} || 1,470 {{pdollar}} 
+|-
+| Hoenn Route 117 || 318,751 || 667 {{pdollar}} || 1,000 {{pdollar}} || 1,501 {{pdollar}} 
+|-
+| Hoenn Route 111 || 333,618 || 680 {{pdollar}} || 1,020 {{pdollar}} || 1,531 {{pdollar}} 
+|-
+| Hoenn Route 112 || 348,897 || 694 {{pdollar}} || 1,041 {{pdollar}} || 1,561 {{pdollar}} 
+|-
+| Hoenn Route 113 || 364,591 || 707 {{pdollar}} || 1,061 {{pdollar}} || 1,592 {{pdollar}} 
+|-
+| Hoenn Route 114 || 380,706 || 721 {{pdollar}} || 1,081 {{pdollar}} || 1,622 {{pdollar}} 
+|-
+| Hoenn Route 115 || 397,243 || 734 {{pdollar}} || 1,102 {{pdollar}} || 1,653 {{pdollar}} 
+|-
+| Hoenn Route 105 || 414,208 || 748 {{pdollar}} || 1,122 {{pdollar}} || 1,684 {{pdollar}} 
+|-
+| Hoenn Route 106 || 431,603 || 762 {{pdollar}} || 1,143 {{pdollar}} || 1,715 {{pdollar}} 
+|-
+| Hoenn Route 107 || 449,433 || 775 {{pdollar}} || 1,163 {{pdollar}} || 1,745 {{pdollar}} 
+|-
+| Hoenn Route 108 || 467,702 || 789 {{pdollar}} || 1,184 {{pdollar}} || 1,776 {{pdollar}} 
+|-
+| Hoenn Route 109 || 486,412 || 803 {{pdollar}} || 1,205 {{pdollar}} || 1,807 {{pdollar}} 
+|-
+| Hoenn Route 118 || 505,568 || 817 {{pdollar}} || 1,225 {{pdollar}} || 1,838 {{pdollar}} 
+|-
+| Hoenn Route 119 || 525,174 || 830 {{pdollar}} || 1,246 {{pdollar}} || 1,869 {{pdollar}} 
+|-
+| Hoenn Route 120 || 545,232 || 844 {{pdollar}} || 1,267 {{pdollar}} || 1,900 {{pdollar}} 
+|-
+| Hoenn Route 121 || 565,747 || 858 {{pdollar}} || 1,287 {{pdollar}} || 1,931 {{pdollar}} 
+|-
+| Hoenn Route 122 || 586,721 || 872 {{pdollar}} || 1,308 {{pdollar}} || 1,963 {{pdollar}} 
+|-
+| Hoenn Route 123 || 608,160 || 886 {{pdollar}} || 1,329 {{pdollar}} || 1,994 {{pdollar}} 
+|-
+| Hoenn Route 124 || 630,065 || 900 {{pdollar}} || 1,350 {{pdollar}} || 2,025 {{pdollar}} 
+|-
+| Hoenn Route 125 || 652,440 || 914 {{pdollar}} || 1,371 {{pdollar}} || 2,056 {{pdollar}} 
+|-
+| Hoenn Route 126 || 675,290 || 928 {{pdollar}} || 1,392 {{pdollar}} || 2,088 {{pdollar}} 
+|-
+| Hoenn Route 127 || 698,617 || 942 {{pdollar}} || 1,413 {{pdollar}} || 2,119 {{pdollar}} 
+|-
+| Hoenn Route 128 || 722,424 || 956 {{pdollar}} || 1,434 {{pdollar}} || 2,151 {{pdollar}} 
+|-
+| Hoenn Route 129 || 746,716 || 970 {{pdollar}} || 1,455 {{pdollar}} || 2,182 {{pdollar}} 
+|-
+| Hoenn Route 130 || 771,495 || 984 {{pdollar}} || 1,476 {{pdollar}} || 2,214 {{pdollar}} 
+|-
+| Hoenn Route 131 || 796,765 || 998 {{pdollar}} || 1,497 {{pdollar}} || 2,246 {{pdollar}} 
+|-
+| Hoenn Route 132 || 822,530 || 1,012 {{pdollar}} || 1,518 {{pdollar}} || 2,277 {{pdollar}} 
+|-
+| Hoenn Route 133 || 848,792 || 1,026 {{pdollar}} || 1,539 {{pdollar}} || 2,309 {{pdollar}} 
+|-
+| Hoenn Route 134 || 875,554 || 1,040 {{pdollar}} || 1,560 {{pdollar}} || 2,341 {{pdollar}} 
+|-
+| Rustboro || 410,200 || 333 {{pdollar}} || 500 {{pdollar}} || 750 {{pdollar}}
+|-
+| Dewford || 444,000 || 667 {{pdollar}} || 1,000 {{pdollar}} || 1,500 {{pdollar}}
+|-
+| Mauville || 448,000 || 750 {{pdollar}} || 1,125 {{pdollar}} || 1,688 {{pdollar}}
+|-
+| Lavaridge || 524,000 || 1,000 {{pdollar}} || 1,500 {{pdollar}} || 2,250 {{pdollar}}
+|-
+| Petalburg || 596,000 || 1,250 {{pdollar}} || 1,875 {{pdollar}} || 2,812 {{pdollar}}
+|-
+| Fortree || 669,000 || 1,200 {{pdollar}} || 1,800 {{pdollar}} || 2,700 {{pdollar}}
+|-
+| Mossdeep || 703,000 || 2,000 {{pdollar}} || 3,000 {{pdollar}} || 4,500 {{pdollar}}
+|-
+| Sootopolis || 865,000 || 2,000 {{pdollar}} || 3,000 {{pdollar}} || 4,500 {{pdollar}}
+|-
+| Elite Sidney || 1,020,000 || 2,000 {{pdollar}} || 3,000 {{pdollar}} || 4,500 {{pdollar}}
+|-
+| Elite Phoebe || 1,063,000 || 2,000 {{pdollar}} || 3,000 {{pdollar}} || 4,500 {{pdollar}}
+|-
+| Elite Glacia || 1,100,000 || 2,000 {{pdollar}} || 3,000 {{pdollar}} || 4,500 {{pdollar}}
+|-
+| Elite Drake || 1,157,000 || 2,000 {{pdollar}} || 3,000 {{pdollar}} || 4,500 {{pdollar}}
+|-
+| Champion Wallace || 1,182,000 || 2,600 {{pdollar}} || 4,000 {{pdollar}} || 6,000 {{pdollar}}
+|}
+
+&lt;!--T:19--&gt;
+=== Sinnoh ===
+{| class="mw-collapsible mw-collapsed wikitable sortable"
+|-
+! Route/Gym !! Max Health !! data-sort-type=number | Average {{pdollar}} !! data-sort-type=number | (AC/LI) Average {{pdollar}} !! data-sort-type=number | (AC*LI) Average {{pdollar}}
+|-
+| Sinnoh Route 201 || 943,858 || 1,054 {{pdollar}} || 1,582 {{pdollar}} || 2,373 {{pdollar}} 
+|-
+| Sinnoh Route 202 || 972,895 || 1,068 {{pdollar}} || 1,603 {{pdollar}} || 2,404 {{pdollar}} 
+|-
+| Sinnoh Route 203 || 1,002,465 || 1,083 {{pdollar}} || 1,624 {{pdollar}} || 2,436 {{pdollar}} 
+|-
+| Sinnoh Route 204 || 1,032,572 || 1,097 {{pdollar}} || 1,645 {{pdollar}} || 2,468 {{pdollar}} 
+|-
+| Sinnoh Route 205 || 1,063,219 || 1,111 {{pdollar}} || 1,667 {{pdollar}} || 2,500 {{pdollar}} 
+|-
+| Sinnoh Route 206 || 1,094,411 || 1,125 {{pdollar}} || 1,688 {{pdollar}} || 2,532 {{pdollar}} 
+|-
+| Sinnoh Route 207 || 1,126,149 || 1,140 {{pdollar}} || 1,710 {{pdollar}} || 2,565 {{pdollar}} 
+|-
+| Sinnoh Route 208 || 1,158,438 || 1,154 {{pdollar}} || 1,731 {{pdollar}} || 2,597 {{pdollar}} 
+|-
+| Sinnoh Route 209 || 1,191,280 || 1,168 {{pdollar}} || 1,752 {{pdollar}} || 2,629 {{pdollar}} 
+|-
+| Sinnoh Route 210 || 1,224,679 || 1,182 {{pdollar}} || 1,774 {{pdollar}} || 2,661 {{pdollar}} 
+|-
+| Sinnoh Route 215 || 1,258,639 || 1,197 {{pdollar}} || 1,795 {{pdollar}} || 2,693 {{pdollar}} 
+|-
+| Sinnoh Route 214 || 1,293,161 || 1,211 {{pdollar}} || 1,817 {{pdollar}} || 2,726 {{pdollar}} 
+|-
+| Sinnoh Route 213 || 1,328,250 || 1,225 {{pdollar}} || 1,838 {{pdollar}} || 2,758 {{pdollar}} 
+|-
+| Sinnoh Route 212 || 1,363,909 || 1,240 {{pdollar}} || 1,860 {{pdollar}} || 2,790 {{pdollar}} 
+|-
+| Sinnoh Route 211 || 1,400,141 || 1,254 {{pdollar}} || 1,882 {{pdollar}} || 2,823 {{pdollar}} 
+|-
+| Sinnoh Route 218 || 1,436,949 || 1,269 {{pdollar}} || 1,903 {{pdollar}} || 2,855 {{pdollar}} 
+|-
+| Sinnoh Route 216 || 1,474,335 || 1,283 {{pdollar}} || 1,925 {{pdollar}} || 2,888 {{pdollar}} 
+|-
+| Sinnoh Route 217 || 1,512,305 || 1,298 {{pdollar}} || 1,947 {{pdollar}} || 2,920 {{pdollar}} 
+|-
+| Sinnoh Route 219 || 1,550,859 || 1,312 {{pdollar}} || 1,968 {{pdollar}} || 2,953 {{pdollar}} 
+|-
+| Sinnoh Route 220 || 1,590,002 || 1,327 {{pdollar}} || 1,990 {{pdollar}} || 2,985 {{pdollar}} 
+|-
+| Sinnoh Route 221 || 1,629,737 || 1,341 {{pdollar}} || 2,012 {{pdollar}} || 3,018 {{pdollar}} 
+|-
+| Sinnoh Route 222 || 1,670,066 || 1,356 {{pdollar}} || 2,034 {{pdollar}} || 3,051 {{pdollar}} 
+|-
+| Sinnoh Route 223 || 1,710,993 || 1,370 {{pdollar}} || 2,056 {{pdollar}} || 3,084 {{pdollar}} 
+|-
+| Sinnoh Route 224 || 1,752,521 || 1,385 {{pdollar}} || 2,077 {{pdollar}} || 3,116 {{pdollar}} 
+|-
+| Sinnoh Route 225 || 1,794,652 || 1,399 {{pdollar}} || 2,099 {{pdollar}} || 3,149 {{pdollar}} 
+|-
+| Sinnoh Route 226 || 1,837,390 || 1,414 {{pdollar}} || 2,121 {{pdollar}} || 3,182 {{pdollar}} 
+|-
+| Sinnoh Route 227 || 1,880,738 || 1,429 {{pdollar}} || 2,143 {{pdollar}} || 3,215 {{pdollar}} 
+|-
+| Sinnoh Route 228 || 1,924,699 || 1,443 {{pdollar}} || 2,165 {{pdollar}} || 3,248 {{pdollar}} 
+|-
+| Sinnoh Route 229 || 1,969,275 || 1,458 {{pdollar}} || 2,187 {{pdollar}} || 3,281 {{pdollar}} 
+|-
+| Sinnoh Route 230 || 2,014,470 || 1,473 {{pdollar}} || 2,209 {{pdollar}} || 3,314 {{pdollar}} 
+|-
+| Oreburgh || 1,342,000 || 83 {{pdollar}} || 125 {{pdollar}} || 188 {{pdollar}}
+|-
+| Eterna || 1,439,000 || 133 {{pdollar}} || 200 {{pdollar}} || 300 {{pdollar}}
+|-
+| Hearthome || 1,480,000 || 247 {{pdollar}} || 370 {{pdollar}} || 555 {{pdollar}}
+|-
+| Veilstone || 1,540,000 || 400 {{pdollar}} || 600 {{pdollar}} || 900 {{pdollar}}
+|-
+| Pastoria || 1,693,000 || 833 {{pdollar}} || 1,250 {{pdollar}} || 1,875 {{pdollar}}
+|-
+| Canalave || 1,768,000 || 1,600 {{pdollar}} || 2,400 {{pdollar}} || 3,600 {{pdollar}}
+|-
+| Snowpoint || 1,870,000 || 2,000 {{pdollar}} || 3,000 {{pdollar}} || 4,500 {{pdollar}}
+|-
+| Sunyshore || 1,980,000 || 3,000 {{pdollar}} || 4,500 {{pdollar}} || 6,750 {{pdollar}}
+|-
+| Elite Aaron || 2,560,250 || 3,600 {{pdollar}} || 5,400 {{pdollar}} || 8,100 {{pdollar}}
+|-
+| Elite Bertha || 2,660,250 || 3,600 {{pdollar}} || 5,400 {{pdollar}} || 8,100 {{pdollar}}
+|-
+| Elite Flint || 2,860,250 || 3,600 {{pdollar}} || 5,400 {{pdollar}} || 8,100 {{pdollar}}
+|-
+| Elite Lucian || 3,066,000 || 3,600 {{pdollar}} || 5,400 {{pdollar}} || 8,100 {{pdollar}}
+|-
+| Champion Cynthia || 3,570,000 || 5,333 {{pdollar}} || 8,000 {{pdollar}} || 12,000 {{pdollar}}
+|}
+
+&lt;!--T:20--&gt;
+=== Unova ===
+{| class="mw-collapsible mw-collapsed wikitable sortable"
+|-
+! Route/Gym !! Max Health !! data-sort-type=number | Average {{pdollar}} !! data-sort-type=number | (AC/LI) Average {{pdollar}} !! data-sort-type=number | (AC*LI) Average {{pdollar}}
+|-
+| Unova Route 19 || 2,149,865 || 1,487 {{pdollar}} || 2,231 {{pdollar}} || 3,347 {{pdollar}} 
+|-
+| Unova Route 20 || 2,198,325 || 1,502 {{pdollar}} || 2,253 {{pdollar}} || 3,380 {{pdollar}} 
+|-
+| Unova Route 4 || 2,247,441 || 1,517 {{pdollar}} || 2,275 {{pdollar}} || 3,413 {{pdollar}} 
+|-
+| Desert Resort || 2,297,214 || 1,531 {{pdollar}} || 2,297 {{pdollar}} || 3,446 {{pdollar}} 
+|-
+| Unova Route 5 || 2,347,648 || 1,546 {{pdollar}} || 2,319 {{pdollar}} || 3,479 {{pdollar}} 
+|-
+| Unova Route 16 || 2,398,746 || 1,561 {{pdollar}} || 2,341 {{pdollar}} || 3,512 {{pdollar}} 
+|-
+| Unova Route 6 || 2,450,510 || 1,576 {{pdollar}} || 2,364 {{pdollar}} || 3,546 {{pdollar}} 
+|-
+| Unova Route 7 || 2,502,945 || 1,590 {{pdollar}} || 2,386 {{pdollar}} || 3,579 {{pdollar}} 
+|-
+| Unova Route 13 || 2,556,052 || 1,605 {{pdollar}} || 2,408 {{pdollar}} || 3,612 {{pdollar}} 
+|-
+| Undella Bay || 2,609,835 || 1,620 {{pdollar}} || 2,430 {{pdollar}} || 3,646 {{pdollar}} 
+|-
+| Unova Route 14 || 2,664,297 || 1,635 {{pdollar}} || 2,452 {{pdollar}} || 3,679 {{pdollar}} 
+|-
+| Unova Route 12 || 2,719,441 || 1,650 {{pdollar}} || 2,475 {{pdollar}} || 3,712 {{pdollar}} 
+|-
+| Unova Route 11 || 2,775,269 || 1,664 {{pdollar}} || 2,497 {{pdollar}} || 3,746 {{pdollar}} 
+|-
+| Unova Route 9 || 2,831,785 || 1,679 {{pdollar}} || 2,519 {{pdollar}} || 3,779 {{pdollar}} 
+|-
+| Unova Route 21 || 2,888,991 || 1,694 {{pdollar}} || 2,542 {{pdollar}} || 3,813 {{pdollar}} 
+|-
+| Unova Route 22 || 2,946,890 || 1,709 {{pdollar}} || 2,564 {{pdollar}} || 3,846 {{pdollar}} 
+|-
+| Unova Route 23 || 3,005,486 || 1,724 {{pdollar}} || 2,586 {{pdollar}} || 3,880 {{pdollar}} 
+|-
+| Unova Route 8 || 3,064,781 || 1,739 {{pdollar}} || 2,609 {{pdollar}} || 3,913 {{pdollar}} 
+|-
+| Unova Route 15 || 3,124,778 || 1,754 {{pdollar}} || 2,631 {{pdollar}} || 3,947 {{pdollar}} 
+|-
+| Unova Route 3 || 3,185,479 || 1,769 {{pdollar}} || 2,654 {{pdollar}} || 3,981 {{pdollar}} 
+|-
+| Unova Route 2 || 3,246,889 || 1,784 {{pdollar}} || 2,676 {{pdollar}} || 4,014 {{pdollar}} 
+|-
+| Unova Route 1 || 3,309,009 || 1,799 {{pdollar}} || 2,698 {{pdollar}} || 4,048 {{pdollar}} 
+|-
+| Unova Route 17 || 3,371,842 || 1,814 {{pdollar}} || 2,721 {{pdollar}} || 4,082 {{pdollar}} 
+|-
+| Unova Route 18 || 3,435,391 || 1,829 {{pdollar}} || 2,743 {{pdollar}} || 4,115 {{pdollar}} 
+|-
+| Aspertia || 3,464,000 || 167 {{pdollar}} || 250 {{pdollar}} || 375 {{pdollar}}
+|-
+| Virbank || 3,664,000 || 267 {{pdollar}} || 400 {{pdollar}} || 600 {{pdollar}}
+|-
+| Castelia || 4,064,000 || 375 {{pdollar}} || 563 {{pdollar}} || 844 {{pdollar}}
+|-
+| Nimbasa || 4,464,000 || 650 {{pdollar}} || 975 {{pdollar}} || 1,463 {{pdollar}}
+|-
+| Driftveil || 5,064,000 || 1,200 {{pdollar}} || 1,800 {{pdollar}} || 2,700 {{pdollar}}
+|-
+| Mistralton || 5,864,000 || 1,900 {{pdollar}} || 2,850 {{pdollar}} || 4,275 {{pdollar}}
+|-
+| Opelucid || 6,964,000 || 3,500 {{pdollar}} || 5,250 {{pdollar}} || 7,875 {{pdollar}}
+|-
+| Humilau || 7,464,000 || 6,750 {{pdollar}} || 10,125 {{pdollar}} || 15,188 {{pdollar}}
+|-
+| Elite Shauntal || 8,960,250 || 5,333 {{pdollar}} || 8,000 {{pdollar}} || 12,000 {{pdollar}}
+|-
+| Elite Marshal || 9,960,250 || 5,333 {{pdollar}} || 8,000 {{pdollar}} || 12,000 {{pdollar}}
+|-
+| Elite Grimsley || 10,960,250 || 5,333 {{pdollar}} || 8,000 {{pdollar}} || 12,000 {{pdollar}}
+|-
+| Elite Caitlin || 11,960,250 || 5,333 {{pdollar}} || 8,000 {{pdollar}} || 12,000 {{pdollar}}
+|-
+| Champion Iris || 14,570,000 || 10,667 {{pdollar}} || 16,000 {{pdollar}} || 24,000 {{pdollar}}
+|}
+
+&lt;!--T:21--&gt;
+=== Kalos ===
+{| class="mw-collapsible mw-collapsed wikitable sortable"
+|-
+! Route/Gym !! Max Health !! data-sort-type=number | Average {{pdollar}} !! data-sort-type=number | (AC/LI) Average {{pdollar}} !! data-sort-type=number | (AC*LI) Average {{pdollar}}
+|-
+| Kalos Route 1 || 3,645,479 || 1,844 {{pdollar}} || 2,766 {{pdollar}} || 4,149 {{pdollar}} 
+|-
+| Kalos Route 2 || 3,713,177 || 1,859 {{pdollar}} || 2,789 {{pdollar}} || 4,183 {{pdollar}} 
+|-
+| Kalos Route 3 || 3,781,629 || 1,874 {{pdollar}} || 2,811 {{pdollar}} || 4,217 {{pdollar}} 
+|-
+| Kalos Route 22 || 3,850,840 || 1,889 {{pdollar}} || 2,834 {{pdollar}} || 4,251 {{pdollar}} 
+|-
+| Kalos Route 4 || 3,920,811 || 1,904 {{pdollar}} || 2,856 {{pdollar}} || 4,285 {{pdollar}} 
+|-
+| Kalos Route 5 || 3,991,545 || 1,919 {{pdollar}} || 2,879 {{pdollar}} || 4,319 {{pdollar}} 
+|-
+| Kalos Route 6 || 4,063,046 || 1,934 {{pdollar}} || 2,902 {{pdollar}} || 4,353 {{pdollar}} 
+|-
+| Kalos Route 7 || 4,135,315 || 1,949 {{pdollar}} || 2,924 {{pdollar}} || 4,387 {{pdollar}} 
+|-
+| Kalos Route 8 || 4,208,357 || 1,964 {{pdollar}} || 2,947 {{pdollar}} || 4,421 {{pdollar}} 
+|-
+| Kalos Route 9 || 4,282,173 || 1,980 {{pdollar}} || 2,970 {{pdollar}} || 4,455 {{pdollar}} 
+|-
+| Kalos Route 10 || 4,356,768 || 1,995 {{pdollar}} || 2,992 {{pdollar}} || 4,489 {{pdollar}} 
+|-
+| Kalos Route 11 || 4,432,142 || 2,010 {{pdollar}} || 3,015 {{pdollar}} || 4,523 {{pdollar}} 
+|-
+| Kalos Route 12 || 4,508,300 || 2,025 {{pdollar}} || 3,038 {{pdollar}} || 4,557 {{pdollar}} 
+|-
+| Azure Bay || 4,585,244 || 2,040 {{pdollar}} || 3,061 {{pdollar}} || 4,591 {{pdollar}} 
+|-
+| Kalos Route 13 || 4,662,976 || 2,055 {{pdollar}} || 3,083 {{pdollar}} || 4,625 {{pdollar}} 
+|-
+| Kalos Route 14 || 4,741,501 || 2,071 {{pdollar}} || 3,106 {{pdollar}} || 4,660 {{pdollar}} 
+|-
+| Kalos Route 15 || 4,820,819 || 2,086 {{pdollar}} || 3,129 {{pdollar}} || 4,694 {{pdollar}} 
+|-
+| Kalos Route 16 || 4,900,935 || 2,101 {{pdollar}} || 3,152 {{pdollar}} || 4,728 {{pdollar}} 
+|-
+| Kalos Route 17 || 4,981,851 || 2,116 {{pdollar}} || 3,175 {{pdollar}} || 4,763 {{pdollar}} 
+|-
+| Kalos Route 18 || 5,063,569 || 2,132 {{pdollar}} || 3,198 {{pdollar}} || 4,797 {{pdollar}} 
+|-
+| Kalos Route 19 || 5,146,093 || 2,147 {{pdollar}} || 3,221 {{pdollar}} || 4,831 {{pdollar}} 
+|-
+| Kalos Route 20 || 5,229,425 || 2,162 {{pdollar}} || 3,244 {{pdollar}} || 4,866 {{pdollar}} 
+|-
+| Kalos Route 21 || 5,313,568 || 2,178 {{pdollar}} || 3,267 {{pdollar}} || 4,900 {{pdollar}} 
+|-
+| Santalune || 17,395,730 || 400 {{pdollar}} || 600 {{pdollar}} || 900 {{pdollar}}
+|-
+| Cyllage || 19,837,400 || 850 {{pdollar}} || 1,275 {{pdollar}} || 1,913 {{pdollar}}
+|-
+| Shalour || 22,362,000 || 1,267 {{pdollar}} || 1,900 {{pdollar}} || 2,850 {{pdollar}}
+|-
+| Coumarine || 29,502,000 || 1,833 {{pdollar}} || 2,750 {{pdollar}} || 4,125 {{pdollar}}
+|-
+| Lumiose || 32,062,000 || 3,000 {{pdollar}} || 4,500 {{pdollar}} || 6,750 {{pdollar}}
+|-
+| Laverre || 38,062,000 || 5,333 {{pdollar}} || 8,000 {{pdollar}} || 12,000 {{pdollar}}
+|-
+| Anistar || 44,462,000 || 10,000 {{pdollar}} || 15,000 {{pdollar}} || 22,500 {{pdollar}}
+|-
+| Snowbelle || 50,062,000 || 17,333 {{pdollar}} || 26,000 {{pdollar}} || 39,000 {{pdollar}}
+|-
+| Elite Malva || 55,557,000 || 16,000 {{pdollar}} || 24,000 {{pdollar}} || 36,000 {{pdollar}}
+|-
+| Elite Siebold || 55,557,000 || 16,000 {{pdollar}} || 24,000 {{pdollar}} || 36,000 {{pdollar}}
+|-
+| Elite Wikstrom || 55,557,000 || 16,000 {{pdollar}} || 24,000 {{pdollar}} || 36,000 {{pdollar}}
+|-
+| Elite Drasna || 55,557,000 || 16,000 {{pdollar}} || 24,000 {{pdollar}} || 36,000 {{pdollar}}
+|-
+| Champion Diantha || 63,070,000 || 21,333 {{pdollar}} || 32,000 {{pdollar}} || 48,000 {{pdollar}}
+|}
+
+&lt;!--T:22--&gt;
+=== Alola ===
+{| class="mw-collapsible mw-collapsed wikitable sortable"
+|-
+! Route/Gym !! Max Health !! data-sort-type=number | Average {{pdollar}} !! data-sort-type=number | (AC/LI) Average {{pdollar}} !! data-sort-type=number | (AC*LI) Average {{pdollar}}
+|-
+| Alola Route 1 || 5,614,466 || 2,193 {{pdollar}} || 3,289 {{pdollar}} || 4,934 {{pdollar}} 
+|-
+| Route 1 Hau'oli Outskirts || 5,703,669 || 2,208 {{pdollar}} || 3,312 {{pdollar}} || 4,969 {{pdollar}} 
+|-
+| Alola Route 2 || 5,793,725 || 2,223 {{pdollar}} || 3,335 {{pdollar}} || 5,003 {{pdollar}} 
+|-
+| Alola Route 3 || 5,884,635 || 2,239 {{pdollar}} || 3,358 {{pdollar}} || 5,038 {{pdollar}} 
+|-
+| Alola Route 4 || 5,976,402 || 2,254 {{pdollar}} || 3,381 {{pdollar}} || 5,072 {{pdollar}} 
+|-
+| Alola Route 5 || 6,069,030 || 2,270 {{pdollar}} || 3,405 {{pdollar}} || 5,107 {{pdollar}} 
+|-
+| Melemele Sea || 6,162,520 || 2,285 {{pdollar}} || 3,428 {{pdollar}} || 5,142 {{pdollar}} 
+|-
+| Kala'e Bay || 6,256,876 || 2,300 {{pdollar}} || 3,451 {{pdollar}} || 5,176 {{pdollar}} 
+|-
+| Alola Route 6 || 6,352,101 || 2,316 {{pdollar}} || 3,474 {{pdollar}} || 5,211 {{pdollar}} 
+|-
+| Alola Route 7 || 6,448,196 || 2,331 {{pdollar}} || 3,497 {{pdollar}} || 5,246 {{pdollar}} 
+|-
+| Alola Route 8 || 6,545,166 || 2,346 {{pdollar}} || 3,520 {{pdollar}} || 5,280 {{pdollar}} 
+|-
+| Alola Route 9 || 6,643,012 || 2,362 {{pdollar}} || 3,543 {{pdollar}} || 5,315 {{pdollar}} 
+|-
+| Akala Outskirts || 6,741,738 || 2,377 {{pdollar}} || 3,566 {{pdollar}} || 5,350 {{pdollar}} 
+|-
+| Alola Route 10 || 6,841,346 || 2,393 {{pdollar}} || 3,589 {{pdollar}} || 5,384 {{pdollar}} 
+|-
+| Mount Hokulani || 6,941,838 || 2,408 {{pdollar}} || 3,613 {{pdollar}} || 5,419 {{pdollar}} 
+|-
+| Alola Route 11 || 7,043,218 || 2,424 {{pdollar}} || 3,636 {{pdollar}} || 5,454 {{pdollar}} 
+|-
+| Alola Route 12 || 7,145,489 || 2,439 {{pdollar}} || 3,659 {{pdollar}} || 5,489 {{pdollar}} 
+|-
+| Alola Route 13 || 7,248,652 || 2,455 {{pdollar}} || 3,682 {{pdollar}} || 5,524 {{pdollar}} 
+|-
+| Alola Route 14 || 7,352,711 || 2,470 {{pdollar}} || 3,706 {{pdollar}} || 5,559 {{pdollar}} 
+|-
+| Alola Route 15 || 7,457,668 || 2,486 {{pdollar}} || 3,729 {{pdollar}} || 5,594 {{pdollar}} 
+|-
+| Alola Route 16 || 7,563,526 || 2,501 {{pdollar}} || 3,752 {{pdollar}} || 5,628 {{pdollar}} 
+|-
+| Alola Route 17 || 7,670,288 || 2,517 {{pdollar}} || 3,775 {{pdollar}} || 5,663 {{pdollar}} 
+|-
+| Haina Desert || 7,777,956 || 2,532 {{pdollar}} || 3,799 {{pdollar}} || 5,698 {{pdollar}} 
+|-
+| Poni Wilds || 7,886,533 || 2,548 {{pdollar}} || 3,822 {{pdollar}} || 5,733 {{pdollar}} 
+|-
+| Ancient Poni Path || 7,996,022 || 2,563 {{pdollar}} || 3,845 {{pdollar}} || 5,768 {{pdollar}} 
+|-
+| Poni Breaker Coast || 8,106,425 || 2,579 {{pdollar}} || 3,869 {{pdollar}} || 5,803 {{pdollar}} 
+|-
+| Poni Grove || 8,217,745 || 2,595 {{pdollar}} || 3,892 {{pdollar}} || 5,839 {{pdollar}} 
+|-
+| Poni Plains || 8,329,984 || 2,610 {{pdollar}} || 3,916 {{pdollar}} || 5,874 {{pdollar}} 
+|-
+| Poni Coast || 8,443,145 || 2,626 {{pdollar}} || 3,939 {{pdollar}} || 5,909 {{pdollar}} 
+|-
+| Poni Gauntlet || 8,557,231 || 2,641 {{pdollar}} || 3,962 {{pdollar}} || 5,944 {{pdollar}} 
+|-
+| Elite Molayne || 86,456,446 || 12,800 {{pdollar}} || 19,200 {{pdollar}} || 28,800 {{pdollar}}
+|-
+| Elite Olivia || 86,456,446 || 12,800 {{pdollar}} || 19,200 {{pdollar}} || 28,800 {{pdollar}}
+|-
+| Elite Acerola || 86,456,446 || 12,800 {{pdollar}} || 19,200 {{pdollar}} || 28,800 {{pdollar}}
+|-
+| Elite Kahili || 86,456,446 || 12,800 {{pdollar}} || 19,200 {{pdollar}} || 28,800 {{pdollar}}
+|-
+| Champion Hau || 96,725,389 || 16,667 {{pdollar}} || 25,000 {{pdollar}} || 37,500 {{pdollar}}
+|-
+| Iki || 63,069,612 || 42,667 {{pdollar}} || 64,000 {{pdollar}} || 96,000 {{pdollar}}
+|-
+| Konikoni || 67,478,674 || 42,667 {{pdollar}} || 64,000 {{pdollar}} || 96,000 {{pdollar}}
+|-
+| Malie || 71,735,104 || 42,667 {{pdollar}} || 64,000 {{pdollar}} || 96,000 {{pdollar}}
+|-
+| Exeggutor Island || 77,747,374 || 32,000 {{pdollar}} || 48,000 {{pdollar}} || 72,000 {{pdollar}}
+|-
+|}
+
+&lt;!--T:28--&gt;
+=== Galar === 
+{| class="mw-collapsible mw-collapsed wikitable sortable"
+|-
+! Route/Gym !! Max Health !! data-sort-type=number | Average {{pdollar}} !! data-sort-type=number | (AC/LI) Average {{pdollar}} !! data-sort-type=number | (AC*LI) Average {{pdollar}}
+|-
+| Galar Route 1 || 9,005,792 || 2,657  || 3,986 || 5,979 
+|-
+| Galar Route 2 || 9,126,195 || 2,673  || 4,009 || 6,014 
+|-
+| Rolling Fields || 9,247,566 || 2,688  || 4,033 || 6,049 
+|-
+| Dappled Grove || 9,369,908 || 2,704  || 4,056 || 6,085 
+|-
+| West Lake Axewell || 9,493,223 || 2,720  || 4,080 || 6,120 
+|-
+| East Lake Axewell || 9,617,515 || 2,735  || 4,103 || 6,155 
+|-
+| Giant's Seat || 9,742,786 || 2,751  || 4,127 || 6,190 
+|-
+| South Lake Miloch || 9,869,039 || 2,767  || 4,150 || 6,226 
+|-
+| North Lake Miloch || 9,996,276 || 2,782  || 4,174 || 6,261 
+|-
+| Axew's Eye || 10,124,500 || 2,798  || 4,197 || 6,296 
+|-
+| Watchtower Ruins || 10,253,714 || 2,814  || 4,221 || 6,332 
+|-
+| Galar Route 3 || 10,383,920 || 2,830  || 4,245 || 6,367 
+|-
+| Galar Route 4 || 10,515,121 || 2,845  || 4,268 || 6,403 
+|-
+| Galar Route 5 || 10,647,320 || 2,861  || 4,292 || 6,438 
+|-
+| Motostoke Outskirts || 10,780,518 || 2,877  || 4,316 || 6,474 
+|-
+| Motostoke Riverbank || 10,914,720 || 2,893  || 4,339 || 6,509 
+|-
+| Bridge Field || 11,049,926 || 2,908  || 4,363 || 6,545 
+|-
+| Stony Wilderness || 11,186,141 || 2,924  || 4,387 || 6,580 
+|-
+| Giant's Mirror || 11,323,366 || 2,940  || 4,410 || 6,616 
+|-
+| Giant's Cap || 11,461,605 || 2,956  || 4,434 || 6,651 
+|-
+| Lake of Outrage || 11,600,859 || 2,972  || 4,458 || 6,687 
+|-
+| Hammerlocke Hills || 11,741,131 || 2,987  || 4,481 || 6,722 
+|-
+| Galar Route 6 || 11,882,424 || 3,003  || 4,505 || 6,758 
+|-
+| Galar Route 7 || 12,024,741 || 3,019  || 4,529 || 6,794 
+|-
+| Galar Route 8 || 12,168,083 || 3,035  || 4,553 || 6,829 
+|-
+| Steamdrift Way || 12,312,454 || 3,051  || 4,577 || 6,865 
+|-
+| Galar Route 2 Lakeside || 12,457,856 || 3,067  || 4,600 || 6,901 
+|-
+| Galar Route 9 || 12,604,292 || 3,083  || 4,624 || 6,937 
+|-
+| Circhester Bay || 12,751,763 || 3,099  || 4,648 || 6,972 
+|-
+| Outer Spikemuth || 12,900,274 || 3,114  || 4,672 || 7,008 
+|-
+| Winter Hill Station || 13,049,825 || 3,130  || 4,696 || 7,044 
+|-
+| Galar Route 10 || 13,200,421 || 3,146  || 4,720 || 7,080 
+|-
+| Fields of Honour || 13,352,062 || 3,162  || 4,744 || 7,116 
+|-
+| Soothing Wetlands || 13,504,752 || 3,178  || 4,767 || 7,151 
+|-
+| Forest of Focus || 13,658,494 || 3,194  || 4,791 || 7,187 
+|-
+| Challenge Beach || 13,813,289 || 3,210  || 4,815 || 7,223 
+|-
+| Loop Lagoon || 13,969,140 || 3,226  || 4,839 || 7,259 
+|-
+| Training Lowlands || 14,126,050 || 3,242  || 4,863 || 7,295 
+|-
+| Potbottom Desert || 14,284,021 || 3,258  || 4,887 || 7,331 
+|-
+| Challenge Road || 14,443,056 || 3,274  || 4,911 || 7,367 
+|-
+| Workout Sea || 14,603,157 || 3,290  || 4,935 || 7,403 
+|-
+| Stepping-Stone Sea || 14,764,326 || 3,306  || 4,959 || 7,439 
+|-
+| Insular Sea || 14,926,567 || 3,322  || 4,983 || 7,475 
+|-
+| Honeycalm Sea || 15,089,881 || 3,338  || 5,007 || 7,511 
+|-
+| Honeycalm Island || 15,254,270 || 3,354  || 5,031 || 7,547 
+|-
+| Slippery Slope || 15,419,739 || 3,370  || 5,055 || 7,583 
+|-
+| Frostpoint Field || 15,586,288 || 3,386  || 5,079 || 7,619 
+|-
+| Giant's Bed || 15,753,920 || 3,402  || 5,103 || 7,655 
+|-
+| Old Cemetery || 15,922,638 || 3,418  || 5,128 || 7,692 
+|-
+| Giant's Foot || 16,092,444 || 3,434  || 5,152 || 7,728 
+|-
+| Frigid Sea || 16,263,341 || 3,450  || 5,176 || 7,764 
+|-
+| Three-Point Pass || 16,435,330 || 3,466  || 5,200 || 7,800 
+|-
+| Ballimere Lake || 16,608,415 || 3,482  || 5,224 || 7,836 
+|-
+| Snowslide Slope || 16,782,598 || 3,499  || 5,248 || 7,872 
+|-
+| Path to the Peak || 16,957,881 || 3,515  || 5,272 || 7,909 
+|-
+| Turffield || 90,598,724 || 20,000 || 30,000 || 45,000
+|-
+| Hulbury || 90,185,011 || 20,000 || 30,000 || 45,000
+|-
+| Motostoke || 97,666,283 || 20,000 || 30,000 || 45,000
+|-
+| Stow-on-Side (Bea) || 104,466,958 || 20,000 || 30,000 || 45,000
+|-
+| Stow-on-Side (Allister) || 104,466,958 || 20,000 || 30,000 || 45,000
+|-
+| Ballonlea || 108,160,234 || 20,000 || 30,000 || 45,000
+|-
+| Circhester (Gordie) || 111,540,241 || 20,000 || 30,000 || 45,000
+|-
+| Circhester (Melony) || 111,540,241 || 20,000 || 30,000 || 45,000
+|-
+| Spikemuth || 115,760,683 || 24,000 || 36,000 || 54,000
+|-
+| Hammerlocke || 120,313,069 || 32,000 || 48,000 || 72,000
+|-
+| Elite Marnie || 126,153,272 || 30,000 || 45,000 || 67,500
+|-
+| Elite Bede || 126,153,272 || 30,000 || 45,000 || 67,500
+|-
+| Elite Hop || 139,216,928 || 40,000 || 60,000 || 90,000
+|-
+| Champion Leon || 145,088,818 || 41,667 || 62,500 || 93,750
+|-
+| Elite Klara || 151,617,045 || 30,000 || 45,000 || 67,500
+|-
+| Elite Avery || 151,617,045 || 30,000 || 45,000 || 67,500
+|-
+| Elite Dojo Matron Honey || 159,596,891 || 41,667 || 62,500 || 93,750
+|-
+| Elite Dojo Master Mustard || 159,596,891 || 41,667 || 62,500 || 93,750
+|-
+| Elite Peony || 203,123,316 || 50,000 || 75,000 || 112,500
+|}
+
+&lt;!--T:23--&gt;
+==Uses==
+===Item Purchasing===
+A large portion of in-game items are purchasable with Pokémon Dollars, please see the [[Shops]] page for a full listing. 
+
+&lt;!--T:24--&gt;
+===Oak Items===
+The upgrades of some [[Oak Items]].
+{| class="wikitable" style="text-align: center;"
+|-
+! Name !! Level 1 Upgrade || Level 2 Upgrade || Level 3 Upgrade || Level 4 Upgrade || Level 5 Upgrade
+|-
+| [[Magic Ball]] [[File:Bag_Magic_Ball_Sprite.png|20px]] || 50,000 {{pdollar}} || 100,000 {{pdollar}} || 250,000 {{pdollar}} || 500,000 {{pdollar}} || 1,000,000 {{pdollar}}
+|-
+| [[Amulet Coin]] [[File:Bag_Amulet Coin_Sprite.png|20px]] || 50,000 {{pdollar}} || 100,000 {{pdollar}} || 250,000 {{pdollar}} || 500,000 {{pdollar}} || 1,000,000 {{pdollar}}
+|-
+| [[Rocky Helmet]] [[File:Bag_Rocky Helmet_Sprite.png|20px]] || 50,000 {{pdollar}} || 100,000 {{pdollar}} || 250,000 {{pdollar}} || 500,000 {{pdollar}} || 1,000,000 {{pdollar}}
+|-
+| [[EXP Share]] [[File:Bag_EXP_Share_Sprite.png|20px]] || 50,000 {{pdollar}} || 100,000 {{pdollar}} || 250,000 {{pdollar}} || 500,000 {{pdollar}} || 1,000,000 {{pdollar}}
+|-
+| [[Sprayduck]] [[File:Sprayduck_New.png|20px]] || 50,000 {{pdollar}} || 100,000 {{pdollar}} || 250,000 {{pdollar}} || 500,000 {{pdollar}} || 1,000,000 {{pdollar}}
+|-
+| [[Shiny Charm]] [[File:Bag_Shiny_Charm_Sprite.png|20px]] || 50,000 {{pdollar}} || 100,000 {{pdollar}} || 250,000 {{pdollar}} || 500,000 {{pdollar}} || 1,000,000 {{pdollar}}
+|-
+| [[Blaze Cassette]] [[File:Bag_Blaze_Cassette_Sprite.png|20px]] || 50,000 {{pdollar}} || 100,000 {{pdollar}} || 250,000 {{pdollar}} || 500,000 {{pdollar}} || 1,000,000 {{pdollar}}
+|-
+| [[Cell Battery]] [[File:Bag_Cell_Battery_Sprite.png|20px]] || 50,000 {{pdollar}} || 100,000 {{pdollar}} || 250,000 {{pdollar}} || 500,000 {{pdollar}} || 1,000,000 {{pdollar}}
+|-
+| [[Explosive Charge]] [[File:ExplosiveCharge.png|20px]] || 50,000 {{pdollar}} || 100,000 {{pdollar}} || 250,000 {{pdollar}} || 500,000 {{pdollar}} || 1,000,000 {{pdollar}}
+|-
+| [[Treasure Scanner]] [[File:TreasureScanner.png|20px]] || 50,000 {{pdollar}} || 100,000 {{pdollar}} || 250,000 {{pdollar}} || 500,000 {{pdollar}} || 1,000,000 {{pdollar}}
+|-
+|}
+
+&lt;!--T:25--&gt;
+===Shopmon===
+{| class="wikitable" style="text-align: center;"
+|-
+! Shop !! Token !! Pokémon !! Cost
+|- 
+| Poké Mart Route 3 Pokemon Center || [[File:Magikarp_shuffle.png|30px]] || [[File:Magikarp.png|40px]] Magikarp || 50,000 {{pdollar}}
+|-
+| [[Shops#Friseur Furfrou|Friseur Furfrou (Kalos)]] || [[File:Furfrou_(Debutante)_Shuffle.png|30px]] || [[File:Furfrou_(Debutante).png|40px]]Furfrou (Debutante) || 5,000,000,000 {{pdollar}}
+|}
+
+
+&lt;!--T:26--&gt;
+[[Category:Currencies]]
+&lt;/translate&gt;</text>
+    <contributor>
+      <username>DraKay</username>
+      <id>589</id>
+    </contributor>
+    <comment>Marked this version for translation</comment>
+    <model>wikitext</model>
+    <parentid>40692</parentid>
+    <sha1>146357e8377ce39eef2258ca70ab209d7f2018cd</sha1>
+  </revision>
+</page></mediawiki>

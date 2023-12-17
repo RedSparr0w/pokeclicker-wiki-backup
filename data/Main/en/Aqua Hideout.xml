@@ -1,0 +1,152 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Aqua Hideout/en</title>
+  <ns>0</ns>
+  <id>9737</id>
+  <revision>
+    <id>26202</id>
+    <timestamp>2022-08-25T04:41:15Z</timestamp>
+    <text space="preserve" bytes="4009">&lt;languages/&gt;
+{{Infobox dungeon
+|name    = Aqua Hideout
+|image   = [[File:Aqua Hideout.png|300px]]
+|caption = A map of Aqua Hideout.
+|tokens  = 30,000
+|location = North of Route 124
+}}
+'''Aqua Hideout''' is a [[Dungeons|dungeon]] in [[Hoenn]]. It initially has 49 tiles arranged in a 7x7 square, including 7 chest tiles, 17 non-boss encounter tiles, and 1 boss encounter tile. Wild Encounters have 490,000 HP.
+
+== Encounter Tables ==
+
+===Wild Encounters===
+
+{| class="wikitable"
+|-
+! Wild Pokémon !! colspan=2|Trainers
+|-
+! Encounter !! Trainer !! Pokémon Team
+|-
+| rowspan=7|&lt;center&gt;N/A || [[File:Team_Aqua_Grunt_(male).png|40px]] Team Aqua Grunt ||  [[File:Poochyena.png|40px]] Poochyena
+|-
+| [[File:Team_Aqua_Grunt_(female).png|40px]] Team Aqua Grunt ||[[File:Carvanha.png|40px]] Carvanha
+|-
+| [[File:Team_Aqua_Grunt_(male).png|40px]] Team Aqua Grunt || [[File:Zubat.png|40px]] Zubat, [[File:Carvanha.png|40px]] Carvanha
+|-
+| [[File:Team_Aqua_Grunt_(female).png|40px]] Team Aqua Grunt ||[[File:Poochyena.png|40px]] Poochyena, [[File:Zubat.png|40px]] Zubat
+|-
+| [[File:Team_Aqua_Grunt_(male).png|40px]] Team Aqua Grunt || [[File:Carvanha.png|40px]] Carvanha
+|-
+| [[File:Team_Aqua_Grunt_(male).png|40px]] Team Aqua Grunt || [[File:Zubat.png|40px]] Zubat
+|-
+| [[File:Team_Aqua_Grunt_(female).png|40px]] Team Aqua Grunt || [[File:Zubat.png|40px]] Zubat
+|-
+|}
+
+===Boss Encounters===
+{| class="wikitable"
+|-
+! Wild Pokémon !! Base Health !! Boss Trainer !! Pokémon Team !! Base Health
+|-
+| colspan=2|&lt;center&gt; N/A || [[File:Aqua_Admin_(matt).png|40px]] Aqua Admin Matt || [[File:Mightyena.png|40px]] Mightyena, [[File:Golbat.png|40px]] Golbat || &lt;center&gt; 900,000
+|-
+|}
+
+==Items==
+
+===No Debuff===
+
+{| class="wikitable"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+|-
+| align="center" colspan=6| '''Common'''
+|-
+| {{Bag2|Token Collector}} || 4 || 42.84% || 41.14% || 34.29%
+|-
+| {{Bag2|Pokéball}} || 2 || 21.42% || 20.57% || 17.14%
+|-
+| {{Pokemon|Electrode}} || N/A || 10.71% || 10.29% || 8.57%
+|-
+| align="center" colspan=6| '''Rare'''
+|-
+| {{Bag2|Blue Shard}} || N/A || 10.00% || 10.50% || 12.47%
+|-
+| {{Bag2|Ochre Shard}} || N/A || 10.00% || 10.50% || 12.47%
+|-
+| align="center" colspan=6| '''Epic'''
+|-
+| {{Bag2|Lureball}} || N/A || 2.01% || 2.60% || 5.00%
+|-
+| {{Bag2|Diveball}} || N/A || 2.01% || 2.60% || 5.00%
+|-
+| align="center" colspan=6| '''Legendary'''
+|-
+| {{Bag2|Dread Plate}} || 2 || 0.33% || 0.53% || 1.33%
+|-
+| {{Bag2|Splash Plate}} || 2 || 0.33% || 0.53% || 1.33%
+|-
+| {{Bag2|Duskball}} || N/A || 0.17% || 0.27% || 0.66%
+|-
+| {{Bag2|Nestball}} || N/A || 0.17% || 0.27% || 0.66%
+|-
+| align="center" colspan=6| '''Mythic'''
+|-
+| {{Bag2|Max Revive}} || N/A || 0.01% || 0.22% || 1.06%
+|}
+
+===Debuff Drop Table===
+
+After Reaching Kalos, the drop chance for items in Hoenn will be debuffed for any loot with a Tier rarer than Rare (ie: Epic, Legendary, Mythic).
+
+{| class="wikitable collapsible collapsed"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+|-
+| align="center" colspan=6| '''Common'''
+|-
+| {{Bag2|Token Collector}} || 4 || 42.86% || 42.86% || 42.86%
+|-
+| {{Bag2|Pokéball}} || 2 || 21.43% || 21.43% || 21.43%
+|-
+| {{Pokemon|Electrode}} || N/A || 10.71% || 10.71% || 10.71%
+|-
+| align="center" colspan=6| '''Rare'''
+|-
+| {{Bag2|Blue Shard}} || N/A || 12.00% || 12.00% || 12.00%
+|-
+| {{Bag2|Ochre Shard}} || N/A || 12.00% || 12.00% || 12.00%
+|-
+| align="center" colspan=6| '''Epic'''
+|-
+| {{Bag2|Lureball}} || N/A || 0.45% || 0.45% || 0.45%
+|-
+| {{Bag2|Diveball}} || N/A || 0.45% || 0.45% || 0.45%
+|-
+| align="center" colspan=6| '''Legendary'''
+|-
+| {{Bag2|Dread Plate}} || 2 || 0.03% || 0.03% || 0.03%
+|-
+| {{Bag2|Splash Plate}} || 2 || 0.03% || 0.03% || 0.03%
+|-
+| {{Bag2|Duskball}} || N/A || 0.02% || 0.02% || 0.02%
+|-
+| {{Bag2|Nestball}} || N/A || 0.02% || 0.02% || 0.02%
+|-
+| align="center" colspan=6| '''Mythic'''
+|-
+| {{Bag2|Max Revive}} || N/A || &lt;0.01% || &lt;0.01% || &lt;0.01%
+|}
+
+{{Hoenn Dungeons}}
+
+[[Category:Dungeons|^Region #3 - Hoenn^l]]</text>
+    <contributor>
+      <username>FuzzyBot</username>
+      <id>587</id>
+    </contributor>
+    <comment>Updating to match new version of source page</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>bec84edfae992355dce5efb5c1bb31a4b4446f14</sha1>
+  </revision>
+</page></mediawiki>
