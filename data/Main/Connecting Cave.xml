@@ -1,0 +1,107 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Connecting Cave</title>
+  <ns>0</ns>
+  <id>2934</id>
+  <revision>
+    <id>40530</id>
+    <timestamp>2022-10-31T06:27:11Z</timestamp>
+    <text space="preserve" bytes="2371">&lt;languages/&gt;
+&lt;translate&gt;
+&lt;!--T:1--&gt;
+{{Infobox dungeon
+|name    = Connecting Cave
+|image   = [[File:Connecting Cave.png|250px]]
+|caption = A map of Connecting Cave.
+|tokens  = 475,000
+|location = Between Routes 7 and 8, next to Cyllage City.
+}}
+'''Connecting Cave''' is a [[Dungeons|dungeon]] in [[Kalos]]. It initially has 100 tiles arranged in a 10x10 square, including 10 chest tiles, 23 non-boss encounter tiles, and 1 boss encounter tile. Wild Encounters have 6,503,370 HP.
+
+==Encounter  Tables== &lt;!--T:2--&gt;
+
+===Wild Encounters=== &lt;!--T:3--&gt;
+
+&lt;!--T:4--&gt;
+{| class="wikitable"
+|-
+! Wild Pokémon !! colspan=2|Trainers
+|-
+! Encounter !! Trainer !! Pokémon Team
+|-
+| [[File:Zubat.png|40px]] Zubat || rowspan=3 colspan=2|&lt;center&gt;N/A
+|-
+| [[File:Whismur.png|40px]] Whismur
+|-
+| [[File:Meditite.png|40px]] Meditite
+|}
+
+
+===Boss Encounters=== &lt;!--T:5--&gt;
+
+&lt;!--T:6--&gt;
+{| class="wikitable"
+|-
+! Wild Pokémon !! Base Health !! Boss Trainer !! Pokémon Team !! Base Health
+|-
+| rowspan=4|[[File:Axew.png|40px]] Axew || rowspan=4|&lt;center&gt; 51,738,600 ||rowspan=4|[[File:Pokémon_Breeder_(female).png|40px]] Pokémon Breeder Mercy || [[File:Ducklett.png|40px]] Ducklett || &lt;center&gt; 13,374,965
+|-
+| [[File:Pikachu.png|40px]] Pikachu || &lt;center&gt; 14,465,837
+|-
+| [[File:Litleo.png|40px]] Litleo || &lt;center&gt; 17,438,602
+|-
+| [[File:Oddish.png|40px]] Oddish || &lt;center&gt; 19,365,784
+|}
+
+==Items== &lt;!--T:7--&gt;
+
+&lt;!--T:8--&gt;
+{| class="wikitable"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+|-
+| align="center" colspan=6| '''Common'''
+|-
+| {{Bag2|Dowsing Machine}} || N/A || 18.74% || 18.04% || 15.16%
+|-
+| {{Bag2|Pokéball}} || 2 || 37.49% || 36.08% || 30.32%
+|-
+| {{Bag2|Wepear}} || N/A || 18.74% || 18.04% || 15.16%
+|-
+| align="center" colspan=6| '''Rare'''
+|-
+| {{Bag2|Green Shard}} || N/A || 10.01% || 10.52% || 12.61%
+|-
+| {{Bag2|Yellow Shard}} || N/A || 10.01% || 10.52% || 12.61%
+|-
+| align="center" colspan=6| '''Epic'''
+|-
+| {{Bag2|Toxic Plate}} || N/A || 2.01% || 2.61% || 5.05%
+|-
+| {{Bag2|Sky Plate}} || N/A || 2.01% || 2.61% || 5.05%
+|-
+| align="center" colspan=6| '''Legendary'''
+|-
+| {{Bag2|Hard Stone}} || N/A || 0.33% || 0.53% || 1.34%
+|-
+| {{Bag2|Damp Rock}} || N/A || 0.33% || 0.53% || 1.34%
+|-
+| {{Bag2|Silk Scarf}} || N/A || 0.33% || 0.53% || 1.34%
+|}
+
+&lt;!--T:9--&gt;
+{{Kalos Dungeons}}
+
+&lt;!--T:10--&gt;
+[[Category:Dungeons|^Region #6 - Kalos^c]]
+&lt;/translate&gt;</text>
+    <contributor>
+      <username>ThePantMan</username>
+      <id>310</id>
+    </contributor>
+    <comment>/* Held items update */</comment>
+    <model>wikitext</model>
+    <parentid>26578</parentid>
+    <sha1>6da10feadde21f60cd405fdb4bee4d78064803ab</sha1>
+  </revision>
+</page></mediawiki>

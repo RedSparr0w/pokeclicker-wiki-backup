@@ -1,0 +1,101 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Connecting Cave/fr</title>
+  <ns>0</ns>
+  <id>12028</id>
+  <revision>
+    <id>36498</id>
+    <timestamp>2022-09-13T14:27:26Z</timestamp>
+    <text space="preserve" bytes="2557">&lt;languages/&gt;
+{{Infobox dungeon
+|name    = Cave Connecterre
+|image   = [[File:Connecting Cave.png|250px]]
+|caption = Une carte de la Cave Connecterre.
+|tokens  = 475 000
+|location = Entre les Routes 7 et 8, près de Relifac-le-Haut.
+}}
+La '''Cave Connecterre''' est un [[Dungeons/fr|donjon]] de [[Kalos/fr|Kalos]]. Il a initialement 100 cases arrangées en 10x10, comprenant 10 coffres, 23 rencontres hors boss et 1 Combat de Boss. Les rencontres sauvages ont 6 503 370 PV.
+
+&lt;span id="Encounter_Tables"&gt;&lt;/span&gt;
+== Tables des rencontres ==
+
+&lt;span id="Wild_Encounters"&gt;&lt;/span&gt;
+===Rencontres sauvages===
+
+{| class="wikitable"
+|-
+! Pokémon sauvages !! colspan=2| Dresseurs
+|-
+! Rencontre !! Dresseur !! Équipe Pokémon
+|-
+| [[File:Zubat.png|40px]] Nosferapti || rowspan=3 colspan=2|&lt;center&gt;N/A
+|-
+| [[File:Whismur.png|40px]] Chuchmur
+|-
+| [[File:Meditite.png|40px]] Méditikka
+|}
+
+
+&lt;span id="Boss_Encounters"&gt;&lt;/span&gt;
+===Combat de Boss===
+
+{| class="wikitable"
+|-
+! Pokémon sauvages !! PV de base !! Dresseur Boss !! Équipe Pokémon !! PV de base
+|-
+| rowspan=4|[[File:Axew.png|40px]] Coupenotte || rowspan=4|&lt;center&gt; 51 738 600 ||rowspan=4|[[File:Pokémon_Breeder_(female).png|40px]] Frigg l'Éleveuse || [[File:Ducklett.png|40px]] Couaneton|| &lt;center&gt; 13 374 965
+|-
+| [[File:Pikachu.png|40px]] Pikachu || &lt;center&gt; 14 465 837
+|-
+| [[File:Litleo.png|40px]] Hélionceau || &lt;center&gt; 17 438 602
+|-
+| [[File:Oddish.png|40px]] Mystherbe || &lt;center&gt; 19 365 784
+|}
+
+&lt;span id="Items"&gt;&lt;/span&gt;
+==Objets==
+
+{| class="wikitable"
+|-
+! Objet de coffre !! Poids !! Complétion 0 fois!! Complétion 100 fois !! Complétion 500 fois
+|-
+| align="center" colspan=6| '''Commun'''
+|-
+| {{Bag2|Dowsing Machine|Cherch'Objet}} || N/A || 18,74% || 18,04% || 15,16%
+|-
+| {{Bag2|Pokéball|Poké Ball}} || 2 || 37,49% || 36,08% || 30,32%
+|-
+| {{Bag2|Wepear|Repoi}} || N/A || 18,74% || 18,04% || 15,16%
+|-
+| align="center" colspan=6| '''Rare'''
+|-
+| {{Bag2|Green Shard|Tesson Vert}} || N/A || 10,01% || 10,52% || 12,61%
+|-
+| {{Bag2|Yellow Shard|Tesson Jaune}} || N/A || 10,01% || 10,52% || 12,61%
+|-
+| align="center" colspan=6| '''Épique'''
+|-
+| {{Bag2|Toxic Plate|Plaque Toxicité}} || N/A || 2,01% || 2,61% || 5,05%
+|-
+| {{Bag2|Sky Plate|Plaque Ciel}} || N/A || 2,01% || 2,61% || 5,05%
+|-
+| align="center" colspan=6| '''Légendaire'''
+|-
+| {{Bag2|Hard Stone|Pierre Dure}} || N/A || 0,50% || 0,80% || 2,02%
+|-
+| {{Bag2|Damp Rock|Roche Humide}} || N/A || 0,50% || 0,80% || 2,02%
+|}
+
+{{Kalos Dungeons}}
+
+[[Category:Dungeons|^Region #6 - Kalos^c]][[Category:Donjons|^Région #6 - Kalos^c]]</text>
+    <contributor>
+      <username>PetroleVB</username>
+      <id>619</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>29980</parentid>
+    <sha1>45189b3a16916d03451615889c8ba26447f182dd</sha1>
+  </revision>
+</page></mediawiki>

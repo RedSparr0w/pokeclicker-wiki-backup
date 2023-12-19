@@ -1,0 +1,112 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Digletts Cave/fr</title>
+  <ns>0</ns>
+  <id>12507</id>
+  <revision>
+    <id>40592</id>
+    <timestamp>2022-11-02T09:06:20Z</timestamp>
+    <text space="preserve" bytes="2944">&lt;languages/&gt;
+{{Infobox dungeon
+|name    = Grotte Taupiqueur
+|image   = [[File:Digletts Cave.png|thumb]]
+|caption = Une carte en vue aérienne de la Grotte Taupiqueur.
+|tokens  = 95
+|location = Entrée 1: Nord de la Forêt de Jade, sur la Route 2.&lt;br&gt;Entrée 2: Est de Carmin-sur-Mer, sur la Route 11.
+}}
+La '''Grotte Taupiqueur''' est un [[Dungeons/fr|donjon]] de [[Kanto]]. Il a 25 cases arrangées en 5x5, comprenant 5 coffres, 13 rencontres hors boss et 1 case de Combat de Boss. Les rencontres sauvages ont 2 962 PV.
+
+&lt;span id="Encounter_Tables"&gt;&lt;/span&gt;
+== Table du taux d'obtention avec Perte de bonus ==
+
+&lt;span id="Wild_Encounters"&gt;&lt;/span&gt;
+===Rencontres sauvages===
+
+{| class="wikitable"
+|-
+! Pokémon sauvages !! colspan=2|Dresseurs
+|-
+! Rencontre !! Dresseur !! Équipe Pokémon
+|-
+| [[File:Diglett.png|40px]] Taupiqueur || colspan=2|&lt;center&gt; N/A
+|-
+|}
+
+===Combats de Boss===
+{| class="wikitable"
+|-
+! Pokémon sauvages!! PV de base !! Dresseur Boss !! Équipe Pokémon !! PV de base
+|-
+|[[File:Dugtrio.png|40px]] Triopikeur || &lt;center&gt; 16 040 || colspan=3|&lt;center&gt; N/A
+|}
+
+&lt;span id="Items"&gt;&lt;/span&gt;
+==Objets==
+
+&lt;span id="No_Debuff"&gt;&lt;/span&gt;
+===Sans Perte de Bonus===
+
+{| class="wikitable"
+|-
+! Objet de coffre !! Poids !! Complétion 0 fois !! Complétion 100 fois !! Complétion 500 fois
+|-
+| align="center" colspan=5| '''Commun'''
+|-
+| {{Bag2|xClick|Clic +}} || N/A || 39,46% || 38,62% || 34,88%
+|-
+| {{Bag2|Lucky Incense|Encens Veine}} || N/A || 39,46% || 38,62% || 34,88%
+|-
+| align="center" colspan=5| '''Rare'''
+|-
+| {{Bag2|Blue Shard|Tesson Bleu}} || N/A || 10,53% || 11,26% || 14,50%
+|-
+| {{Bag2|Yellow Shard|Tesson Jaune}} || N/A || 10,53% || 11,26% || 14,50%
+|-
+| align="center" colspan=5| '''Mythique'''
+|-
+| {{Bag2|Wiki}} || 2 || 0,01% || 0,16% || 0,82%
+|-
+| {{Bag2|Max Revive|Rappel Max}} || N/A || &lt;0,01% || 0,08% || 0,41%
+|}
+
+&lt;span id="Debuff_Drop_Table"&gt;&lt;/span&gt;
+===Table du taux d'obtention avec Perte de bonus===
+
+Après avoir atteint Sinnoh, le taux d'obtention des objets dans la région de Kanto sera abaissé pour tout objet avec un tiers de rareté supérieur à Rare (i.e. : Épique , Légendaire, Mythique).
+
+{| class="wikitable collapsible collapsed"
+|-
+! Objet de coffre !! Poids !! Complétion 0 fois !! Complétion 100 fois !! Complétion 500 fois
+|-
+| align="center" colspan=5| '''Commun'''
+|-
+| {{Bag2|xClick|Clic +}} || N/A || 37,88% || 37,88% || 37,88%
+|-
+| {{Bag2|Lucky Incense|Encens Veine}} || N/A || 37,88% || 37,88% || 37,88%
+|-
+| align="center" colspan=5| '''Rare'''
+|-
+| {{Bag2|Blue Shard|Tesson Bleu}} || N/A || 12,12% || 12,12% || 12,12%
+|-
+| {{Bag2|Yellow Shard|Tesson Jaune}} || N/A || 12,12% || 12,12% || 12,12%
+|-
+| align="center" colspan=5| '''Mythique'''
+|-
+| {{Bag2|Wiki}} || 2 || &lt;0,01% || &lt;0,01% || &lt;0,01%
+|-
+| {{Bag2|Max Revive|Rappel Max}} || N/A || &lt;0,01% || &lt;0,01% || &lt;0,01%
+|}
+
+{{Kanto Dungeons}}
+
+[[Category:Dungeons|^Region #1 - Kanto^c]][[Category:Donjons|^Région #1 - Kanto^c]]</text>
+    <contributor>
+      <username>Gwendal</username>
+      <id>723</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>31618</parentid>
+    <sha1>26c92c7c46a19ec84f0e8de7d46ecd290f130272</sha1>
+  </revision>
+</page></mediawiki>

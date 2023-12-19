@@ -1,0 +1,107 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Cheri/es</title>
+  <ns>0</ns>
+  <id>7192</id>
+  <revision>
+    <id>30869</id>
+    <timestamp>2022-09-03T20:10:35Z</timestamp>
+    <text space="preserve" bytes="2923">&lt;languages/&gt;
+{{Infobox Berry
+|name    = #01 Zreza (Cheri)
+|image   = [[File:Cheri.png]]
+|caption = Es de color rojo vivo y su sabor picante resulta muy sugerente. Sus flores son extremadamente bellas y delicadas.
+|growtime  = 30s
+|harvest = 2 bayas
+|replant = 50%
+|points = 5
+|flavor = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*10 picante
+*0 seco
+*0 dulce
+*0 amargo
+*0 ácido
+}}
+
+'''Zreza (Cheri)''' es un tipo de [[Berries|baya]] que puede ser plantada en la [[Farm|Granja]] para obtener [[Farming Points|Puntos de Granja]]. Se puede obtener como recomensa aleatoria al derrotar Pokémon salvajes en las rutas.
+
+== Tablas de Crecimiento ==
+=== Estados de Crecimiento ===
+{| class="wikitable" | style = "image-rendering: pixelated"
+! !! Brote !! Crecimiento !! Floración !! Madurez
+|-
+! Tiempo pasado desde que se planta
+| 5 seg || 10 seg || 20 seg || 30 seg - 1 min
+|-
+! Animación
+| &lt;center&gt; [[File:AllTreeSprout.png|50px]] || &lt;center&gt;[[File:CheriTreeTaller.png|50px]] || &lt;center&gt;[[File:CheriTreeBloom.png|50px]] || &lt;center&gt;[[File:CheriTreeBerry.png|50px]]
+|}
+
+=== Tiempos de maduración con modificadores ===
+{| class="wikitable collapsible" | style="text-align: center;"
+! Modificador !! Tiempo hasta la madurez-marchitado
+|-
+! Ninguno
+| 30 seg -&lt;br&gt; 1 min
+|-
+! Psydugadera
+| 20 seg -&lt;br&gt; 40 seg
+|}
+
+== Diagrama de Flujo ==
+[[File:Cheri_Flow_Chart.png|100px]]
+&lt;br&gt;
+'''Leyenda:'''&lt;br&gt;
+· Random Drop: Obtenido aleatoriamente en ruta
+
+==Usos==
+===Mutaciones===
+
+La baya Zreza (Cheri) puede usarse para mutar las bayas siguientes.
+
+{| class="wikitable" | style="text-align: center;"
+|-
+! Se usa para !! Junto a
+|-
+| [[File:Razz.png|20px]] [[Razz|Frambu (Razz)]] || [[File:Leppa.png|20px]] [[Leppa|Zanama (Leppa)]]
+|-
+| [[File:Figy.png|20px]] [[Figy|Higog (Figy)]] || -
+|-
+| [[File:Lum.png|20px]] [[Lum|Ziuela (Lum)]] || [[File:Chesto.png|20px]] [[Chesto|Atania (Chesto)]] &lt;br&gt; [[File:Pecha.png|20px]] [[Pecha|Meloc (Pecha)]] &lt;br&gt; [[File:Rawst.png|20px]] [[Rawst|Safre (Rawst)]] &lt;br&gt; [[File:Aspear.png|20px]] [[Aspear|Perasi (Aspear)]] &lt;br&gt; [[File:Leppa.png|20px]] [[Leppa|Zanama (Leppa)]] &lt;br&gt; [[File:Oran.png|20px]] [[Oran|Aranja (Oran)]] &lt;br&gt; [[File:Sitrus.png|20px]] [[Sitrus|Zidra (Sitrus)]]
+|-
+| [[File:Qualot.png|20px]] [[Qualot|Ispero (Qualot)]] || [[File:Pecha.png|20px]] [[Pecha|Meloc (Pecha)]] &lt;br&gt; [[File:Aspear.png|20px]] [[Aspear|Perasi (Aspear)]]
+|-
+| [[File:Rindo.png|20px]] [[Rindo|Tamar (Rindo)]] || [[File:Aguav.png|20px]] [[Aguav|Guaya (Aguav)]]
+|-
+|}
+
+&lt;div class="mw-translate-fuzzy"&gt;
+==Adquisición==
+===Mazmorras===
+{{Loot/head‎|Berries}}
+{{LootItem|Power Plant|Común}}
+{{LootItem|Berry Forest|Común}}
+{{LootItem|New Mauville|Común}}
+{{LootItem|Eterna Forest|Común}}
+{{LootItem|Hall of Origin|Común}}
+{{LootItem|Floccesy Ranch|Común}}
+{{LootItem|Pikachu Valley|Común}}
+{{LootItem|Ruins of Conflict|Común}}
+{{LootItem|Ruins of Life|Común}}
+|}
+|}
+&lt;/div&gt;
+
+&lt;div class="mw-translate-fuzzy"&gt;
+&lt;br&gt;
+&lt;/div&gt;</text>
+    <contributor>
+      <username>FuzzyBot</username>
+      <id>587</id>
+    </contributor>
+    <comment>Updating to match new version of source page</comment>
+    <model>wikitext</model>
+    <parentid>26520</parentid>
+    <sha1>72ac5f1c25be8d42c41ea99ed81fc303cd830361</sha1>
+  </revision>
+</page></mediawiki>

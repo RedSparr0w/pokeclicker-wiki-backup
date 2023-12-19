@@ -1,0 +1,545 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Dungeons/fr</title>
+  <ns>0</ns>
+  <id>5324</id>
+  <revision>
+    <id>41487</id>
+    <timestamp>2022-11-10T10:15:48Z</timestamp>
+    <text space="preserve" bytes="60789">&lt;languages/&gt;
+Les '''Donjons''' sont des endroits comme des forêts, des caves ou bien des bâtiments qui sont accessibles grâce à des [[Dungeon Tokens/fr|Jetons de Donjon]] et où l'on peut rencontrer des Pokémon sauvages. Mis à part le coût d'entrée, les donjons diffèrent des routes du fait que 60 secondes sont accordées pour trouver et vaincre un "Pokémon Boss" ou un "dresseur Boss", après quoi le donjon est considéré comme terminé.
+
+==Informations générales sur les donjons==
+=== Comment le terminer ===
+Terminer un donjon requiert d'être actif sur le jeu. Pour entrer dans le donjon, sélectionnez-le sur la carte de la région et appuyez soit sur "Commencer" soit sur la touche Entrer du clavier. Pour se déplacer dans le donjon, vous pouvez utiliser la souris sur les différentes cases, utiliser les flèches directionnelles ou bien les touches ZQSD du clavier. Seules les cases adjacentes à une case explorée peut être accédées. En se déplaçant sur une case non découverte vous pouvez découvrir 4 possibilités : 
+ 
+# '''Une case vide''' - Vous pouvez simplement vous rendre sur la prochaine case. Aucune action est demandée.
+# '''Un Pokémon sauvage''' - Comme sur les routes, ce sont des Pokémon que vous pouvez combattre et attraper. Certains Pokémon ne peuvent être trouvés que dans certains donjons.
+# '''Le Boss du donjon''' - Ce Pokémon doit être vaincu pour terminer le donjon. Il a plus de PV que les Pokémon normaux rencontrés dans le donjon. Vous pouvez soit cliquer sur "Commencer le combat du Boss" soit appuyer sur la touche Barre Espace.
+# '''Un coffre''' - Beaucoup d'[[Items/fr|Objets]] peuvent être trouvés dans les coffres en cliquant ou en appuyant sur la Barre Espace. Voir la page des [[Dungeons/fr#Chests in Dungeons|coffres dans les donjons]] pour plus de détails.
+# '''Un dresseur''' - Ils possèdent un équipe de Pokémon qu'il faut battre entièrement pour pouvoir progresser. Les Pokémon sauvages ont ~4 fois plus de chances d'apparaitre sur une case ennemie qu'un dresseur, mais dans certains donjons, la proportion peut être différente. Vous pouvez recevoir ces récompenses en battant un dresseur : 
+## Les dresseurs de donjons offrent 4% des coûts d'entrée en [[Dungeon Tokens/fr|Jetons de Donjons]] {{dungeontokens}} et 50% des coûts d'entrée en [[Poké Dollar/fr|Poké Dollars]] {{pdollar}} lorsqu'ils sont battus.
+## Les dresseurs boss de donjons offrent 10% des coûts d'entrée en Jetons de Donjons {{dungeontokens}} et 50% des coûts d'entrée en Poké Dollars {{pdollar}} lorsqu'ils sont battus.
+Note: La [[Amulet_Coin/fr|Pièce Rune]] et les autres objets qui augmentent le montant des {{pdollar}} n'affectent pas les montants que vous recevez des dresseurs et des dresseurs boss de donjons. 
+
+==Avantages des donjons et autres mécaniques==
+===Mécaniques liées au nombre de victoires ===
+====Réduction de la taille du donjons====
+Certains avantages sont gagnés après avoir complété un Donjon un certain nombre de fois. Ces avantages rendent la complétion du donjon plus simple pour le joueur. Quand le nombre de victoires d'un donjon atteint une puissance de dix (10, 100, 1000,...), la taille de celui-ci se réduit d'1 ligne et d'1 colonne jusqu'à  atteindre un minimum de 5x5. Par exemple, un donjon de Hoenn terminé 100 fois fera donc 5x5 au lieu de la taille de base de 7x7.
+
+Le nombre de chaque type de case réduit avec la taille du donjon. Tous les donjons sont carrés. Voici comment évolue chaque type de case en fonction de la taille :
+Pour un donjon de taille NxN nous avons :
+&lt;br&gt;&lt;math&gt;\colorbox{White}{$ \text{1 case de Combat de Boss}$}&lt;/math&gt;
+&lt;br&gt;&lt;math&gt;\colorbox{White}{$ \text{N cases de coffres}$}&lt;/math&gt;
+&lt;br&gt;&lt;math&gt;\colorbox{White}{$ \text{2*N+3 cases de rencontre (Pokémon ou dresseur, hors boss)}$}&lt;/math&gt;
+&lt;br&gt;&lt;math&gt;\colorbox{White}{$ \text{(N+1)*(N-4) cases vides}$}&lt;/math&gt;
+&lt;br&gt;Note: La case d'entrée compte comme une case vide.
+
+
+{| class="wikitable" | style="text-align: center;"
+! Taille du donjon !! Coffres !! Cases de rencontres hors boss !! Cases vides
+|-
+! 5x5
+| &lt;center&gt; 5 || &lt;center&gt; 13 || &lt;center&gt; 6
+|-
+! 6x6
+| &lt;center&gt; 6 || &lt;center&gt; 15 || &lt;center&gt; 14
+|-
+! 7x7
+| &lt;center&gt; 7 || &lt;center&gt; 17 || &lt;center&gt; 24
+|-
+! 8x8
+| &lt;center&gt; 8 || &lt;center&gt; 19 || &lt;center&gt; 36
+|-
+! 9x9
+| &lt;center&gt; 9 || &lt;center&gt; 21 || &lt;center&gt; 50
+|-
+! 10x10
+| &lt;center&gt; 10 || &lt;center&gt; 23 || &lt;center&gt; 66
+|-
+! 11x11
+| &lt;center&gt; 11 || &lt;center&gt; 25 || &lt;center&gt; 84
+|}
+
+====Capacité Flash====
+Terminer un donjon 200 fois débloque la capacité Flash. Celle-ci révèle le contenu (Coffres, rencontres, vide) des cases adjacentes inexplorées.
+
+===Coffres dans les donjons===
+Quand le nombre de coffres ouverts est égal à un tiers de la taille de donjon arrondie à l'unité inférieure (par exemple : 2 coffres dans un donjon de 6x6), toutes les cases de coffres sont dévoilées. Quand le nombre de coffres ouverts est égal à la moitié de la taille du donjon arrondie à l'unité supérieure, l'entièreté du donjon est dévoilée. En contrepartie, chaque coffre ouvert augmente les PV de toutes les rencontres du donjon de 20%.
+
+Toutes les pages de chaque donjon présentent des tableaux listant les objets présents dans les coffres et leur taux d'obtention. Plus un donjon est terminé, plus il y aura de chances de trouver des objets plus rares (listé avec un poids et une chance d'apparition plus faibles), le maximum étant listé dans le tableau après avoir terminé 500 fois. Si un objet demande une condition particulière, cette condition doit être réunie avant d'avoir la chance de trouver cet objet dans un coffre.
+
+====Malus régional des récompenses de donjons====
+Quand la région la plus lointaine atteinte est situé au moins 2 régions après la région d'un donjon, toutes les récompenses d'un Tiers de rareté supérieur à ''Rare'' (soit ''Épique, Légendaire, Mythique'') ont leur taux d'obtention drastiquement diminué. Le graphique ci-dessous montre la relation entre la ''Plus Haute Région Atteinte'' par le joueur et la ''Région Pénalisée''. Tous les donjons trouvés dans la ''Région Pénalisée'', '''ou''' dans les régions atteintes avant la ''Région Pénalisée'', auront un malus appliqué au taux d'obtention des récompenses appartenant aux Tiers spécifiés.
+
+{| class="wikitable collapsible" style="text-align: center;"
+|+ Tableau du Malus Régional des Récompenses
+! Région la plus lointaine atteinte !! Région Pénalisée
+|-
+| Kanto || --
+|-
+| Johto || --
+|-
+| Hoenn || --
+|-
+| Sinnoh || Kanto
+|-
+| Unys || Johto
+|-
+| Kalos || Hoenn
+|-
+| Alola || Sinnoh
+|}
+
+*'''Exemple :''' la [[Viridian Forest/fr|Forêt de Jade]] possède quatre récompenses différentes dans les coffres. Deux d'entre elles, les [[Small Restore/fr|Potions]] et les [[Pokéball/fr|Poké Ball]], sont dans des Tiers de rareté supérieurs à ''Rare''. '''Avant''' que le joueur atteigne [[Sinnoh/fr|Sinnoh]], les chances de trouver ces objets augmentent avec chaque complétion du donjon et les objets n'auront pas le Malus Régional appliqué à leur taux d'obtention. '''Après''' que le joueur arrive à [[Sinnoh/fr|Sinnoh]], seuls ces deux récompenses seront impactés par le Malus Régional des Récompenses de Donjon dans la Forêt de Jade. En conséquence, ces deux objets de récompenses deviennent environ 20 fois plus rares. En général, il est préférable de chercher ces récompenses avant qu'elles ne soient affectées par le malus; cependant, il est plus difficile de compléter ces donjons de début de jeu tôt.
+
+===Catégories de Rareté===
+Les récompenses des coffres de donjons sont classées comme appartenant à une '''catégorie''' définie de récompense dans un donjon. La catégorie d'un objet précise la rareté d'obtention de cet objet dans un coffre. Il existe 5 catégories de rareté : Commun, Rare, Epique, Légendaire et Mythique, classées de la moins rare à la plus rare. En plus de ces catégories, les objets de récompenses peuvent avoir un '''poids''' dans leur catégorie. Un objet avec un poids plus grand a plus de chances d'être obtenu qu'un objet avec un poids inférieur. Les objets de récompense ont un poids de base de 1. La table ci-dessous explique les chances de trouver un objet selon sa catégorie.
+
+''Note : Les donjons qui n'ont pas de récompenses dans une certaine catégorie voient les probabilités de cette catégorie distribuées équitablement entre les catégories présentes.''
+
+{| class="wikitable sortable"
+|+ Tier Info
+|-
+! Catégorie !! Chance de base
+|-
+| Commun|| 75%
+|-
+| Rare || 20%
+|-
+| Epique || 4%
+|-
+| Legendaire || 0,99%
+|-
+| Mythique || 0,01%
+|-
+|}
+
+*'''Exemple 1 :''' le [[Mt. Moon|Mont Sélénite]] compte [[XClick|xClic]] et [[Greatball|Superball]] parmi ses 5 récompenses de coffre disponibles. Le xClic est dans la catégorie '''Commun''' tandis que la Superball appartient à la catégorie '''Mythique'''. Cela signifie que le xClic aura plus de chances d'être obtenu dans un coffre qu'une Superball.
+*'''Exemple 2 :''' le [[Mt. Moon|Mont Sélénite]] compte [[Greatball|Superball]], [[Small Restore|Potion]] et [[Star Piece|Morceau d'Etoile]] parmi ses 5 récompenses de coffre disponibles. Tous 3 sont dans la même catégorie (Mythique) mais la Superball a un poids de 2 tandis que les deux autres ont un poids de 1. Cela signifie que la Superball a deux fois plus de chances d'être obtenue que les deux autres objets.
+En d'autres termes, quand un objet de la catégorie Mythique est obtenu, en moyenne, 50% du temps ce sera une Superball, 25% du temps ce sera une Potion et 25% du temps ce sera un Morceau d'Étoile.
+
+===Cherch'Objet===
+Le Cherch'Objet augmente la quantité d'objets obtenus dans les donjons. Le nombre d'objets dépend de la région du donjon et de la catégorie de l'objet obtenu. Voir [[Dowsing_Machine#Details|Cherch'Objet]] pour plus d'informations.
+
+&lt;span id="Dungeon_Locations"&gt;&lt;/span&gt;
+== Emplacement des donjons ==
+
+=== [[Kanto]] ===
+
+Les donjons de [[Kanto]] ont une taille de 5x5 (25 cases au total), contiennent 5 coffres, 13 cases de rencontres hors boss and 6 cases vides.
+'''Note :''' Tous les donjons après la [[Cerulean Cave/fr|Cave Azurée]] sont débloqués après être devenu Champion de [[Hoenn/fr|Hoenn]] et après avoir accepté la [[Questlines/fr|quête]] "La Commission de Léo". Autrement dit, ils ont la difficulté de Hoenn en termes de taille et d'autres paramètres.
+
+====Kanto Région Principale + Îles Sevii 123====
+{| class="wikitable sortable"
+|+ Donjons de Kanto et Îles Sevii
+|-
+! Nom !! Lieu!! Coût d'entrée !! Pokémon Boss !! Dresseur Boss
+|-
+| [[File:Viridian Forest.png|30px]] [[Viridian Forest/fr|Forêt de Jade]] || Kanto - Route 2 || style="text-align: right;" | 50 {{dungeontokens}} ||[[File:Pikachu.png|30px]]Pikachu || [[File:Bug Catcher.png|30px]] Scout Sammy ([[File:Weedle.png|30px]])
+|-
+| [[File:Mt. Moon.png|30px]] [[Mt. Moon/fr|Mont Sélénite]] || Kanto - entre Route 3 et Route 4 || style="text-align: right;" | 75 {{dungeontokens}} || &lt;center&gt;— || [[File:Super_Nerd.png|30px]]Intello Miguel ([[File:Grimer.png|30px]],[[File:Voltorb.png|30px]], [[File:Koffing.png|30px]]) 
+|-
+| [[File:Digletts Cave.png|30px]] [[Digletts Cave/fr|Cave Taupiqueur]] || Kanto - Route 2 ou Route 11 || style="text-align: right;" | 95 {{dungeontokens}} || [[File:Dugtrio.png|30px]]Triopikeur || &lt;center&gt;—
+|-
+| [[File:Rock Tunnel.png|30px]] [[Rock Tunnel/fr|Grotte Sombre]] || Kanto - Route 10 || style="text-align: right;" | 500 {{dungeontokens}} || [[File:Onix.png|30px]]Onix || [[File:Picnicker.png|30px]]Pique-Nique Ariana ([[File:Pidgey.png|30px]],[[File:Rattata.png|30px]], [[File:Rattata.png|30px]],[[File:Bellsprout.png|30px]])
+|-
+| [[File:Rocket Game Corner.png|30px]] [[Rocket Game Corner/fr|Salle d'arcade Rocket]] || Céladopole || style="text-align: right;" | 625 {{dungeontokens}} || &lt;center&gt;—|| [[File:Giovanni.png|15px]] Giovanni ([[File:Onix.png|30px]],[[File:Rhyhorn.png|30px]],[[File:Kangaskhan.png|30px]])
+|-
+| [[File:Pokemon Tower.png|30px]] [[Pokemon Tower/fr|Tour Pokémon]] || Lavanville || style="text-align: right;" | 750 {{dungeontokens}} || [[File:Marowak.png|30px]] Ossatueur || &lt;center&gt;—
+|-
+| [[File:Silph Co.png|30px]] [[Silph Co/fr|Sylphe SARL]] || Safrania || style="text-align: right;" | 875 {{dungeontokens}} || &lt;center&gt;— || [[File:Giovanni.png|15px]] Giovanni ([[File:Nidorino.png|30px]],[[File:Rhyhorn.png|30px]],[[File:Kangaskhan.png|30px]],[[File:Nidoqueen.png|30px]])
+|-
+| [[File:Power Plant.png|30px]] [[Power Plant/fr|Centrale]] || Kanto - Route 10 || style="text-align: right;" | 1 000 {{dungeontokens}} || [[File:Electabuzz.png|30px]]Élektek, [[File:Zapdos.png|30px]]Electhor|| &lt;center&gt;—
+|-
+| [[File:Seafoam Islands.png|30px]] [[Seafoam Islands/fr|Îles Écume]] || Kanto - entre Route 19 et Route 20 || style="text-align: right;" | 1 250 {{dungeontokens}} || [[File:Seel.png|30px]]Otaria, [[File:Articuno.png|30px]]Artikodin || &lt;center&gt;—
+|-
+| [[File:Pokemon Mansion.png|30px]] [[Pokemon Mansion/fr|Manoir Pokémon]] || Cramois'Île || style="text-align: right;" | 1 500 {{dungeontokens}} || [[File:Magmar.png|30px]]Magmar || &lt;center&gt;—
+|-
+| [[File:Mt. Ember Summit.png|30px]] [[Mt. Ember Summit/fr|Sommet du Mont Braise]] || Île 1 de Sevii|| style="text-align: right;" | 1 750 {{dungeontokens}} || [[File:Magmar.png|30px]]Magmar, [[File:Moltres.png|30px]]Sulfura || &lt;center&gt;—
+|-
+| [[File:Berry Forest.png|30px]] [[Berry Forest/fr|Bois Baies]] || Île 3 de Sevii || style="text-align: right;" | 1 750 {{dungeontokens}} || [[File:Venomoth.png|30px]]Aéromite, [[File:Hypno.png|30px]]Hypnomade || &lt;center&gt;—
+|-
+| [[File:Victory Road.png|30px]] [[Victory Road/fr|Route Victoire (Kanto)]] || Kanto - Route 23 || style="text-align: right;" | 2 000 {{dungeontokens}} || [[File:Machoke.png|30px]]Machoke || [[File:Cool_Couple.png|30px]] Complices Ray &amp; Tyra
+([[File:Nidoking.png|30px]],[[File:Nidoqueen.png|30px]])
+|-
+| [[File:Cerulean Cave.png|30px]] [[Cerulean Cave/fr|Caverne Azurée]] || Azuria || style="text-align: right;" | 2 500 {{dungeontokens}} || [[File:Kadabra.png|40px]] Kadabra, [[File:Mewtwo.png|30px]]Mewtwo || &lt;center&gt;—
+|-
+| [[File:Ruby Path.png|30px]] [[Ruby Path/fr|Chemin vers le Rubis]] || Île 1 de Sevii || style="text-align: right;" | 43 000 {{dungeontokens}} || [[File:Magcargo.png|30px]]Volcaropod|| &lt;center&gt;—
+|}
+
+'''Note :''' le Chemin vers le Rubis est débloqué après être devenu le Champion de [[Hoenn/fr|Hoenn]] et avoir récupéré la quête "[[Questlines/fr#Celio's Errand|La commission de Léo]]". En d'autres termes, ils ont la difficulté des donjons de Hoenn et sont initialement de taille 7x7 (49 cases au total), contiennent 7 coffres, 17 rencontres hors boss and 24 cases vides.
+
+====Îles Sevii 4567====
+'''Note :''' Les donjons suivants sont débloqués après être devenu le Champion de [[Hoenn/fr|Hoenn]] et avoir récupéré la quête "[[Questlines/fr#Celio's Errand|La commission de Léo]]". En d'autres termes, ils ont la difficulté d'Hoenn et sont initialement de taille 7x7 (49 cases au total), contiennent 7 coffres, 17 rencontres hors boss and 24 cases vides.
+{| class="wikitable sortable"
+|+ Donjons des Îles Sevii 4567
+|-
+! Nom !! Localisation !! Coût d'entrée !! Pokémon Boss!! Dresseur Boss 
+|-
+| [[File:Icefall Cave.png|30px]] [[Icefall Cave/fr|Grotte de Glace]] || Île 4 de Sevii || style="text-align: right;" | 43 000 {{dungeontokens}} || &lt;center&gt;—|| [[File:Team Rocket Grunt (male).png|30px]] Sbire de la Team Rocket ([[File:Zubat.png|30px]],[[File:Zubat.png|30px]],[[File:Golbat.png|30px]])
+|-
+| [[File:Sunburst Island.png|30px]] [[Sunburst Island/fr|Île Caramel]] || Île 5 de Sevii || style="text-align: right;" | 43 000 {{dungeontokens}} || [[File:Crystal Onix.png|30px]]Onix de Crystal || &lt;center&gt;—
+|-
+| [[File:Lost Cave.png|30px]] [[Lost Cave/fr|Grotte Perdue]] || Île 5 de Sevii || style="text-align: right;" | 36 000 {{dungeontokens}} || &lt;center&gt;— || [[File:Lady (trainer).png|30px]] Mademoiselle Themis ([[File:Persian.png|30px]],[[File:Persian.png|30px]])
+|-
+| [[File:Pattern Bush.png|30px]] [[Pattern Bush/fr|Forbuissons]] || Île 6 de Sevii || style="text-align: right;" | 43 000 {{dungeontokens}} || [[File:Heracross.png|30px]]Scarhino || &lt;center&gt;—
+|-
+| [[File:Altering Cave.png|30px]] [[Altering Cave/fr|Grotte Métamo]] || Île 6 de Sevii || style="text-align: right;" | 43 000 {{dungeontokens}} || [[File:Stantler.png|30px]]Cerfrousse, [[File:Smeargle.png|30px]]Queulorior || &lt;center&gt;—
+|-
+| [[File:Tanoby Ruins.png|30px]] [[Tanoby Ruins/fr|Ruines Tanoby]] || Île 7 de Sevii || style="text-align: right;" | 43 000 {{dungeontokens}} || 24 Zarbis [[File:Unown_(A).png|30px]] [[File:Unown_(B).png|30px]] [[File:Unown_(C).png|30px]] [[File:Unown_(D).png|30px]] [[File:Unown_(G).png|30px]] [[File:Unown_(I).png|30px]] [[File:Unown_(J).png|30px]] [[File:Unown_(K).png|30px]] [[File:Unown_(L).png|30px]] [[File:Unown_(M).png|30px]] [[File:Unown_(N).png|30px]] [[File:Unown_(O).png|30px]] [[File:Unown_(Q).png|30px]] [[File:Unown_(R).png|30px]] [[File:Unown_(S).png|30px]] [[File:Unown_(T).png|30px]] [[File:Unown_(U).png|30px]] [[File:Unown_(V).png|30px]] [[File:Unown_(W).png|30px]] [[File:Unown_(X).png|30px]] [[File:Unown_(Y).png|30px]] [[File:Unown_(Z).png|30px]] [[File:Unown_(!).png|30px]] [[File:Unown_(QuestionMark).png|30px]] || &lt;center&gt;—
+|-
+| [[File:Pinkan Mountain.png|30px]] [[Pinkan Mountain/fr| Montagne de Guimauve]] || Île Guimauve || style="text-align: right;" | 89 500 {{dungeontokens}} || [[File:Pinkan Primeape.png|30px]]Colossinge de Guimauve, [[File:Pinkan Rhydon.png|30px]]Rhinoféros de Guimauve, [[File:Pinkan Nidoking.png|30px]]Nidoking de Guimauve || &lt;center&gt;—
+|}
+
+=== [[Johto]] ===
+
+Les donjons de [[Johto]] sont initialement de taille 6x6 (26 cases au total), contiennent 6 coffres, 15 rencontres hors boss et 14 cases vides.
+
+{| class="wikitable sortable"
+|+ Donjons Johto
+|-
+! Nom !! Lieu !! Coût d'entrée !! Pokémon Boss !! Dresseur Boss
+|-
+| [[File:Sprout Tower.png|30px]] [[Sprout Tower|Tour Chétiflor]] ||  Johto - Route 31 || style="text-align: right;" | 2 500 {{dungeontokens}} || &lt;center&gt; — || [[File:Sage.png|30px]] Sage Li ([[File:Bellsprout.png|30px]],[[File:Bellsprout.png|30px]],[[File:Hoothoot.png|30px]])
+|-
+| [[File:Ruins of Alph.png|30px]] [[Ruins of Alph|Ruines d'Alpha]] || Johto - Route 32 || style="text-align: right;" | 3 000 {{dungeontokens}} || 25 zarbis [[File:Unown_(A).png|30px]] [[File:Unown_(B).png|30px]] [[File:Unown_(C).png|30px]] [[File:Unown_(D).png|30px]] [[File:Unown_(F).png|30px]] [[File:Unown_(G).png|30px]] [[File:Unown_(H).png|30px]] [[File:Unown_(I).png|30px]] [[File:Unown_(J).png|30px]] [[File:Unown_(K).png|30px]] [[File:Unown_(L).png|30px]] [[File:Unown_(M).png|30px]] [[File:Unown_(N).png|30px]] [[File:Unown_(O).png|30px]] [[File:Unown_(P).png|30px]] [[File:Unown_(Q).png|30px]] [[File:Unown_(R).png|30px]] [[File:Unown_(S).png|30px]] [[File:Unown_(T).png|30px]] [[File:Unown_(U).png|30px]] [[File:Unown_(V).png|30px]] [[File:Unown_(W).png|30px]] [[File:Unown_(X).png|30px]] [[File:Unown_(Y).png|30px]] [[File:Unown_(Z).png|30px]] || &lt;center&gt;—
+|-
+| [[File:Union Cave.png|30px]] [[Union Cave|Caves Jumelles]] || Johto - Route 32 || style="text-align: right;" | 3 000 {{dungeontokens}} || &lt;center&gt;—|| [[File:Hiker.png|30px]] Montagnard Daniel ([[File:Onix.png|30px]]) &lt;br&gt; [[File:Firebreather.png|30px]] Crache-Feu Ray ([[File:Vulpix.png|30px]])
+|-
+| [[File:Slowpoke Well.png|30px]] [[Slowpoke Well|Puits Ramoloss]] || Écorcia || style="text-align: right;" | 3 500 {{dungeontokens}} || &lt;center&gt;— || [[File:Rocket_Executive_(proton).png|30px]] Caïd Rocket Proton ([[File:Koffing.png|30px]])
+|-
+| [[File:Ilex Forest.png|30px]] [[Ilex Forest|Bois aux Chênes]] || Johto - Route 34 || style="text-align: right;" | 4 000 {{dungeontokens}} || [[File:Butterfree.png|30px]]Papillusion, [[File:Noctowl.png|30px]]Noarfang, [[File:Beedrill.png|30px]]Dardagnan, [[File:Celebi.png|30px]]Celebi || &lt;center&gt;—
+|-
+| [[File:Burned Tower.png|30px]] [[Burned Tower|Tour Cendrée]] || Johto - Route 38 || style="text-align: right;" | 4 500 {{dungeontokens}} || [[File:Golbat.png|30px]]Nosferalto, [[File:Weezing.png|30px]]Smogogo, [[File:Shuckle.png|30px]]Caratroc || &lt;center&gt;—
+|-
+| [[File:Tin Tower.png|30px]] [[Tin Tower|Tour Ferraille]] || Johto - Route 38 || style="text-align: right;" | 4 500 {{dungeontokens}} || [[File:Haunter.png|30px]]Spectrum, [[File:Raticate.png|30px]]Rattata, [[File:Ho-Oh.png|30px]]Ho-Oh || &lt;center&gt;—
+|-
+| [[File:Whirl Islands.png|30px]] [[Whirl Islands|Tourb'Îles]] || Johto - Route 41 || style="text-align: right;" | 5 000 {{dungeontokens}} || [[File:Dewgong.png|30px]]Lamantine, [[File:Kingler.png|30px]]Krabboss, [[File:Lugia.png|30px]]Lugia || &lt;center&gt;—
+|-
+| [[File:Mt Mortar.png|30px]] [[Mt Mortar|Mont Creuset]] || Johto - Route 42 || style="text-align: right;" | 5 500 {{dungeontokens}} || [[File:Tyrogue.png|30px]]Débugant || [[File:Black_Belt.png|30px]] Black Belt Kiyo ([[File:Tyrogue.png|30px]])
+|-
+| [[File:Team Rockets Hideout.png|30px]] [[Team Rockets Hideout|Repaire des Rocket]] || Acajou || style="text-align: right;" | 5 500 {{dungeontokens}} || &lt;center&gt; — || [[File:Rocket_Executive_(petrel).png|30px]] Caïd Rocket Petrel ([[File:Zubat.png|30px]],[[File:Koffing.png|30px]],[[File:Raticate.png|30px]])&lt;br&gt; [[File:Rocket_Executive_(ariana).png|30px]] Caïd Rocket Ariana ([[File:Arbok.png|30px]],[[File:Gloom.png|30px]],[[File:Murkrow.png|30px]])
+|-
+| [[File:Radio Tower.png|30px]] [[Radio Tower|Tour Radio]] || Doublonville || style="text-align: right;" | 5 750 {{dungeontokens}} || &lt;center&gt; — || [[File:Rocket_Executive_(archer).png|30px]] Caïd Rocket Archer ([[File:Houndour.png|30px]],[[File:Koffing.png|30px]],[[File:Houndoom.png|30px]]) &lt;br&gt;  [[File:Rocket_Executive_(proton).png|30px]] Caïd Rocket Proton ([[File:Golbat.png|30px]]), [[File:Rocket_Executive_(petrel).png|30px]] Rocket Executive Petrel ([[File:Koffing.png|30px]],[[File:Weezing.png|30px]]) &lt;br&gt; [[File:Rocket_Executive_(ariana).png|30px]] Caïd Rocket Ariana ([[File:Arbok.png|30px]],[[File:Gloom.png|30px]],[[File:Murkrow.png|30px]])
+|-
+| [[File:Ice Path.png|30px]] [[Ice Path|Route de glace]] || Johto - entre Route 44 et 45 || style="text-align: right;" | 6 000 {{dungeontokens}} || [[File:Delibird.png|30px]]Cadoizo || &lt;center&gt;—
+|-
+| [[File:Dark Cave.png|30px]] [[Dark Cave|Antre Noire]] || Johto - entre Route 45 et 46 || style="text-align: right;" | 6 500 {{dungeontokens}} || [[File:Dunsparce.png|30px]]Insolourdo || &lt;center&gt;—
+|-
+| [[File:Tohjo Falls.png|30px]] [[Tohjo Falls/fr|Chutes Tohjo]] || Johto - Route 27 || style="text-align: right;" | 6 750 {{dungeontokens}} || [[File:Golbat.png|30px]] Nosferalto, [[File:Seaking.png|30px]] Poissoroy || &lt;center&gt;—
+|-
+| [[File:Victory Road Johto.png|30px]] [[Victory Road Johto|Route Victoire (Johto)]] || Johto - Route 26 || style="text-align: right;" | 7 000 {{dungeontokens}} || [[File:Sandslash.png|30px]]Sablaireau, [[File:Rhydon.png|30px]]Rhinoféros || &lt;center&gt;—
+|-
+| [[File:Mt Silver.png|30px]] [[Mt Silver|Mont Argenté]] || Johto - Route 28 || style="text-align: right;" | 10 000 {{dungeontokens}} || [[File:Larvitar.png|30px]]Embrylex || &lt;center&gt;—
+|}
+
+=== [[Hoenn]] ===
+
+Les donjons de [[Hoenn]] sont initialement de taille 7x7 (49 cases au total), contiennent 7 coffres, 17 rencontres hors boss et 24 cases vides.
+
+{| class="wikitable sortable"
+|+ Donjons Hoenn
+|-
+! Nom !! Lieu !! Coût d'entrée !! Pokémon Boss !! Dresseur Boss
+|-
+| [[File:Petalburg Woods.png|30px]] [[Petalburg Woods|Bois Clémenti]] || Hoenn - Route 104 || style="text-align: right;" | 12 000 {{dungeontokens}} || [[File:Slakoth.png|30px]]Parecool || [[File:Team_Aqua_Grunt_(male).png|30px]]Sbire de la Team Aqua ([[File:Poochyena.png|30px]])
+|-
+| [[File:Rusturf Tunnel.png|30px]] [[Rusturf Tunnel|Tunnel Mérazon]] || Hoenn - Route 116 || style="text-align: right;" | 14 000 {{dungeontokens}} || &lt;center&gt;— || [[File:Team_Aqua_Grunt_(male).png|30px]]Sbire de la Team Aqua ([[File:Poochyena.png|30px]])
+|-
+| [[File:Granite Cave.png|30px]] [[Granite Cave|Grotte Granite]] || Hoenn - Route 106 || style="text-align: right;" | 16 000 {{dungeontokens}} || [[File:Nosepass.png|30px]]Tarinor, [[File:Mawile.png|30px]]Mysdibule || &lt;center&gt; —
+|-
+| [[File:Fiery Path.png|30px]] [[Fiery Path|Chemin Ardent]] || Hoenn - Route 112 || style="text-align: right;" | 17 000 {{dungeontokens}} || [[File:Torkoal.png|30px]]Chartor || &lt;center&gt; —
+|-
+| [[File:Meteor Falls.png|30px]] [[Meteor Falls|Site Météore]] || Hoenn - entre Route 115 et 114 || style="text-align: right;" | 18 000 {{dungeontokens}} || [[File:Solrock.png|30px]]Solarock, [[File:Lunatone.png|30px]]Célérock || [[File:Dragon_Tamer.png|30px]] Dracologue Nicolas ([[File:Altaria.png|30px]],[[File:Altaria.png|30px]])
+|-
+| [[File:Mt. Chimney.png|30px]] [[Mt. Chimney Crater|Cratère du Mont Chimnée]] || Hoenn - Route 112 || style="text-align: right;" | 20 000 {{dungeontokens}} || &lt;center&gt;— || [[File:Magma_Leader.png|30px]] Leader de la Team Magma Max &lt;br&gt; ([[File:Mightyena.png|30px]],[[File:Zubat.png|30px]],[[File:Camerupt.png|30px]])
+|-
+| [[File:Jagged Pass.png|30px]] [[Jagged Pass|Sentier Sinuroc]] || Hoenn - Route 112 || style="text-align: right;" | 22 000 {{dungeontokens}} || &lt;center&gt;— || [[File:Team_Magma_Grunt_(male).png|30px]] Sbire de la Team Magma ([[File:Mightyena.png|30px]],[[File:Zubat.png|30px]])
+|-
+| [[File:New Mauville.png|30px]] [[New Mauville|New Lavandia]] || Hoenn - Route 118 || style="text-align: right;" | 24 000 {{dungeontokens}} || [[File:Magneton.png|30px]]Magnéton, [[File:Electrode.png|30px]]Electrode || &lt;center&gt; —
+|-
+| [[File:Weather Institute.png|30px]] [[Weather Institute|Centre Météo]] || Hoenn - Route 119 || style="text-align: right;" | 26 000 {{dungeontokens}} || [[File:Castform.png|30px]]Morphéo || [[File:Aqua_Admin_(shelly).png|30px]] Admin de la Team Aqua Sarah &lt;br&gt;([[File:Carvanha.png|30px]],[[File:Mightyena.png|30px]])
+|-
+| [[File:Mt. Pyre.png|30px]] [[Mt. Pyre|Mont Mémoria]] || Hoenn - Route 122 || style="text-align: right;" | 28 000 {{dungeontokens}} || [[File:Shuppet.png|30px]]Polichombr, [[File:Duskull.png|30px]]Skélénox, [[File:Chimecho.png|30px]]Éoko || &lt;center&gt;—
+|-
+| [[File:Magma Hideout.png|30px]] [[Magma Hideout|Planque Magma]] || Hoenn - Route 112 || style="text-align: right;" | 29 000 {{dungeontokens}} || &lt;center&gt;— || [[File:Magma_Leader.png|30px]] Leader de la Team Magma Max &lt;br&gt; ([[File:Mightyena.png|30px]],[[File:Crobat.png|30px]],[[File:Camerupt.png|30px]])
+|-
+| [[File:Aqua Hideout.png|30px]] [[Aqua Hideout|Planque Aqua]] || Hoenn - Route 124 || style="text-align: right;" | 30 000 {{dungeontokens}} || &lt;center&gt;— || [[File:Aqua_Admin_(matt).png|30px]] Admin de la Team Aqua Matthieu &lt;br&gt; ([[File:Mightyena.png|30px]],[[File:Golbat.png|30px]])
+|-
+| [[File:Shoal Cave.png|30px]] [[Shoal Cave|Grotte Tréfonds]] || Hoenn - Route 125 || style="text-align: right;" | 30 000 {{dungeontokens}} || [[File:Snorunt.png|30px]]Stalgamin || &lt;center&gt;—
+|-
+| [[File:Cave of Origin.png|30px]] [[Cave of Origin|Grotte Origine]] || Hoenn - Route 126 || style="text-align: right;" | 34 000 {{dungeontokens}} || [[File:Exploud.png|30px]]Brouhabam, [[File:Kyogre.png|30px]]Kyogre, [[File:Groudon.png|30px]]Groudon || &lt;center&gt;—
+|-
+| [[File:Seafloor Cavern.png|30px]] [[Seafloor Cavern|Caverne Fondmer]] || Hoenn - Route 128 || style="text-align: right;" | 32 000 {{dungeontokens}} || &lt;center&gt;— || [[File:Aqua_Leader.png|30px]] Leader de la Team Aqua Arthur&lt;br&gt; ([[File:Mightyena.png|30px]],[[File:Crobat.png|30px]],[[File:Sharpedo.png|30px]])
+|-
+| [[File:Sky Pillar.png|30px]] [[Sky Pillar|Pilier Céleste]] || Hoenn - Route 131 || style="text-align: right;" | 34 000 {{dungeontokens}} || [[File:Dusclops.png|30px]]Teraclope, [[File:Rayquaza.png|30px]]Rayquaza || &lt;center&gt;—
+|-
+| [[File:Sealed Chamber.png|30px]] [[Sealed Chamber|Sanctuaire]] || Hoenn - Route 134 || style="text-align: right;" | 36 000 {{dungeontokens}} || [[File:Regirock.png|30px]]Régirock, [[File:Regice.png|30px]]Régice, [[File:Registeel.png|30px]]Régisteel || &lt;center&gt;—
+|-
+| [[File:Victory Road Hoenn.png|30px]] [[Victory Road Hoenn|Route Victoire (Hoenn)]] || Avant la Ligue Pokémon Hoenn || style="text-align: right;" | 37 000 {{dungeontokens}} || &lt;center&gt;— || [[File:PKMN_Trainer_(wally).png|30px]] Dresseur Timmy &lt;br&gt; ([[File:Altaria.png|30px]],[[File:Delcatty.png|30px]],[[File:Roselia.png|30px]],[[File:Magneton.png|30px]],[[File:Gardevoir.png|30px]])
+
+|}
+
+=== [[Sinnoh]] ===
+
+Les donjons de [[Sinnoh]] sont initialement de taille 8x8 (64 cases au total), contiennent 8 coffres, 19 rencontres hors boss et 36 cases vides.
+
+{| class="wikitable sortable"
+|+ Donjons Sinnoh
+|-
+! Nom !! Lieu!! Coût d'entrée !! Pokémon Boss !! Dresseur Boss
+|-
+| [[File:Oreburgh Gate.png|30px]] [[Oreburgh Gate|Entrée de Charbourg]] || Sinnoh - Route 203 || style="text-align: right;" | 39 000 {{dungeontokens}} || [[File:Gyarados.png|30px]]Léviator, [[File:Whiscash.png|30px]]Barbicha || &lt;center&gt;—
+|-
+| [[File:Valley Windworks.png|30px]] [[Valley Windworks|Parc Éolien]] || Sinnoh - Route 205 || style="text-align: right;" | 43 000 {{dungeontokens}} || [[File:Drifloon.png|30px]]Baudrive || [[File:Commander_(mars).png|30px]] Commandant Mars ([[File:Zubat.png|30px]],[[File:Purugly.png|30px]])
+|-
+| [[File:Eterna Forest.png|30px]] [[Eterna Forest|Forêt Vestigion]] || Sinnoh - Route 205 || style="text-align: right;" | 48 000 {{dungeontokens}} || [[File:Beautifly.png|30px]]Charmillon, [[File:Dustox.png|30px]]Papinox || &lt;center&gt;—
+|-
+| [[File:Old Chateau.png|30px]] [[Old Chateau|Vieux Château]] || Sinnoh - Route 205 || style="text-align: right;" | 52 500 {{dungeontokens}} || [[File:Rotom.png|30px]]Motisma || &lt;center&gt;—
+|-
+| [[File:Team Galactic Eterna Building.png|30px]] [[Team Galactic Eterna Building|Centre Galaxie de Vestigion]] || Vestigion || style="text-align: right;" |54 250 {{dungeontokens}} || 5 formes de Motisma [[File:Rotom_(heat).png|30px]][[File:Rotom_(fan).png|30px]][[File:Rotom_(frost).png|30px]][[File:Rotom_(wash).png|30px]][[File:Rotom_(mow).png|30px]] || [[File:Commander_(jupiter).png|30px]] Commandant Jupiter ([[File:Zubat.png|30px]],[[File:Skuntank.png|30px]])
+|-
+| [[File:Wayward Cave.png|30px]] [[Wayward Cave|Grotte des Égarés]] || Sinnoh - Route 206 || style="text-align: right;" | 56 500 {{dungeontokens}} || [[File:Bronzor.png|30px]]Archéomire || &lt;center&gt;— 
+|-
+| [[File:Mt. Coronet South.png|30px]] [[Mt. Coronet South|Mont Couronné]] || Sinnoh - entre Route 207 et 208 || style="text-align: right;" | 60 500 {{dungeontokens}} || [[File:Machoke.png|30px]]Machopeur, [[File:Bronzong.png|30px]]Archéodong, [[File:Absol.png|30px]]Absol || &lt;center&gt;—
+|-
+| [[File:Solaceon Ruins.png|30px]] [[Solaceon Ruins|Ruines de Bonville]] || Près de Route 209, à l'est de Bonville || style="text-align: right;" | 62 500 {{dungeontokens}} || 23 forme de Zarbi [[File:Unown_(A).png|30px]] [[File:Unown_(B).png|30px]] [[File:Unown_(C).png|30px]] [[File:Unown_(D).png|30px]] [[File:Unown_(E).png|30px]] [[File:Unown_(G).png|30px]] [[File:Unown_(I).png|30px]] [[File:Unown_(J).png|30px]] [[File:Unown_(K).png|30px]] [[File:Unown_(L).png|30px]] [[File:Unown_(M).png|30px]] [[File:Unown_(N).png|30px]] [[File:Unown_(O).png|30px]] [[File:Unown_(Q).png|30px]] [[File:Unown_(R).png|30px]] [[File:Unown_(S).png|30px]] [[File:Unown_(T).png|30px]] [[File:Unown_(U).png|30px]] [[File:Unown_(V).png|30px]] [[File:Unown_(W).png|30px]] [[File:Unown_(X).png|30px]] [[File:Unown_(Y).png|30px]] [[File:Unown_(Z).png|30px]] || &lt;center&gt;—
+|-
+| [[File:Iron Island.png|30px]] [[Iron Island|Île de Fer]] || Sinnoh - à l'ouest de Route 205 || style="text-align: right;" | 66 500 {{dungeontokens}} || &lt;center&gt;— || [[File:Galactic_Grunts_(male).png|30px]] Sbires de la Team Galaxie ([[File:Zubat.png|30px]],[[File:Houndour.png|30px]],[[File:Golbat.png|30px]],[[File:Glameow.png|30px]],[[File:Croagunk.png|30px]],[[File:Stunky.png|30px]])
+|-
+| [[File:Lake Valor.png|30px]] [[Lake Valor|Lac Courage]] || Sinnoh - entre Route 213 et 214 || style="text-align: right;" | 69 500 {{dungeontokens}} || [[File:Azelf.png|30px]]Créfadet || [[File:Commander_(saturn).png|30px]] Commandant Saturne ([[File:Golbat.png|30px]],[[File:Bronzor.png|30px]],[[File:Toxicroak.png|30px]])
+|-
+| [[File:Lake Verity.png|30px]] [[Lake Verity|Lac Vérité]] || Sinnoh - Route 201 || style="text-align: right;" | 72 500 {{dungeontokens}} || &lt;center&gt;— || [[File:Commander_(mars).png|30px]] Commandant Mars ([[File:Golbat.png|30px]],[[File:Bronzor.png|30px]],[[File:Toxicroak.png|30px]])
+|-
+| [[File:Mt. Coronet North.png|30px]] [[Mt. Coronet North|Nord du Mont Couronné]] || Sinnoh - Route 216 || style="text-align: right;" | 74 500 {{dungeontokens}} || [[File:Graveler.png|30px]]Gravalanch, [[File:Feebas.png|30px]]Barpau, [[File:Medicham.png|30px]]Charmina || &lt;center&gt;—
+|-
+| [[File:Lake Acuity.png|30px]] [[Lake Acuity|Lac Savoir]] || Sinnoh - Route 217 || style="text-align: right;" | 78 000 {{dungeontokens}} || [[File:Uxie.png|30px]]Créhelf || [[File:Commander_(jupiter).png|30px]] Commandant Saturne ([[File:Bronzor.png|30px]],[[File:Zubat.png|30px]][[File:Skuntank.png|30px]])
+|-
+| [[File:Team Galactic HQ.png|30px]] [[Team Galactic HQ|Centre Galaxie de Voilaroc]] || Voilaroc || style="text-align: right;" | 82 500 {{dungeontokens}} || &lt;center&gt;— || [[File:Galactic Boss (cyrus).png|30px]] Leader de la Team Galaxie Cyrus ([[File:Sneasel.png|30px]],[[File:Crobat.png|30px]],[[File:Honchkrow.png|30px]])
+|-
+| [[File:Spear Pillar.png|30px]] [[Spear Pillar|Colonnes Lances]] || Sinnoh - entre Route 211 et 210 || style="text-align: right;" | 84 500 {{dungeontokens}} || [[File:Palkia.png|30px]]Palkia, [[File:Dialga.png|30px]]Dialga || [[File:Commanders (marsjupiter).png|30px]] Commandants Mars &amp; Jupiter ([[File:Bronzor.png|30px]],[[File:Golbat.png|30px]],[[File:Purugly.png|30px]],[[File:Bronzor.png|30px]],[[File:Golbat.png|30px]],[[File:Skuntank.png|30px]])
+|-
+| [[File:Distortion World.png|30px]] [[Distortion World|Monde Distortion]] || Sinnoh - Route 214 || style="text-align: right;" | 86 500 {{dungeontokens}} || [[File:Giratina_(altered).png|30px]]Giratina (altéré) || [[File:Galactic Boss (cyrus).png|30px]] Leader de la Team Galaxie Cyrus ([[File:Houndoom.png|30px]],[[File:Honchkrow.png|30px]],[[File:Crobat.png|30px]],[[File:Gyarados.png|30px]],[[File:Weavile.png|30px]])
+|-
+| [[File:Victory Road Sinnoh.png|30px]] [[Victory Road Sinnoh|Route Victoire (Sinnoh)]] || Sinnoh - Route 223 || style="text-align: right;" | 89 500 {{dungeontokens}} || [[File:Rhydon.png|30px]]Rhinoféros, [[File:Steelix.png|30px]]Steelix || &lt;center&gt;—
+|-
+| [[File:Sendoff Spring.png|30px]] [[Sendoff Spring|Source des Adieux]] || Sinnoh - Route 214 || style="text-align: right;" | 96 500 {{dungeontokens}} || [[File:Seaking.png|30px]]Poissoroy, [[File:Gyarados.png|30px]]Léviator, [[File:Dusclops.png|30px]]Téraclope || &lt;center&gt;—
+|-
+| [[File:Flower Paradise.png|30px]] [[Flower Paradise|Paradis Fleuri]] || Sinnoh - Route 224 || style="text-align: right;" | 96 500 {{dungeontokens}} || [[File:Parasect.png|30px]]Parasect, [[File:Breloom.png|30px]]Chapignon, [[File:Shaymin_(land).png|30px]]Shaymin (Terrestre) et [[File:Shaymin_(sky).png|30px]]Shaymin (Céleste) || &lt;center&gt;—
+|-
+| [[File:Stark Mountain.png|30px]] [[Stark Mountain|Mont Abrupt]] || Sinnoh - Route 227 || style="text-align: right;" | 96 500 {{dungeontokens}} || [[File:Skarmory.png|30px]]Airmure, [[File:Heatran.png|30px]]Heatran || &lt;center&gt;—
+|-
+| [[File:Snowpoint Temple.png|30px]] [[Snowpoint Temple|Temple Frimapic]] || Sinnoh - Route 217 || style="text-align: right;" | 96 500 {{dungeontokens}} || [[File:Regigigas.png|30px]]Regigigas, [[File:Jynx.png|30px]]Lippoutou || &lt;center&gt;—
+|-
+| [[File:Fullmoon Island.png|30px]] [[Fullmoon Island|Île Pleine Lune]] || Sinnoh - ouest de Route 217 || style="text-align: right;" | 96 500 {{dungeontokens}} || [[File:Clefable.png|30px]]Mélodelfe || &lt;center&gt;—
+|-
+| [[File:Newmoon Island.png|30px]] [[Newmoon Island|Île Nouvellune]] || Sinnoh - ouest de Route 217 || style="text-align: right;" | 96 500 {{dungeontokens}} || [[File:Darkrai.png|30px]]Darkrai || &lt;center&gt;—
+|-
+| [[File:Hall of Origin.png|30px]] [[Hall of Origin|Salle Originelle]] || Sinnoh - entre Route 211 et 210 || style="text-align: right;" | 106 500 {{dungeontokens}} || [[File:Slaking.png|30px]]Monaflèmit, [[File:Snorlax.png|30px]]Ronflex, [[File:Shuckle.png|30px]]Caratroc, [[File:Blissey.png|30px]]Leuphorie, [[File:Arceus.png|30px]]Arceus (Normal) || &lt;center&gt;—
+|-
+|}
+
+&lt;span id="Unova"&gt;&lt;/span&gt;
+=== [[Unova|Unys]] ===
+
+Les donjons de [[Unova|Unys]] sont initialement de taille 9x9 (81 cases au total), contiennent 9 coffres, 21 rencontres hors boss et 50 cases vides.
+
+{| class="wikitable sortable"
+|+ Donjons Unova
+|-
+! Nom !! Lieu !! Coût d'entrée !! Pokémon Boss !! Dresseur Boss
+|-
+| [[File:Floccesy Ranch.png|30px]] [[Floccesy Ranch|Ranch d'Amaillide]] || Unys Route 20 || style="text-align: right;" | 126 500 {{dungeontokens}} || [[File:Riolu.png|30px]]Riolu || &lt;center&gt;—
+|-
+| [[File:Liberty Garden.png|30px]] [[Liberty Garden|Jardin de l'Île Liberté]] || Unys - sous Route 20 || style="text-align: right;" | 136 500 {{dungeontokens}} || [[File:Victini.png|30px]]Victini, [[File:Chimecho.png|30px]]Eoko, [[File:Kadabra.png|30px]]Kadabra || &lt;center&gt;—
+|-
+| [[File:Castelia Sewers.png|30px]] [[Égouts de Volucité]] || Volucité || style="text-align: right;" | 146 500 {{dungeontokens}} || &lt;center&gt;— || [[File:Team_Plasma_Grunt_(male).png|30px]] Sbire de la Team Plasma ([[File:Sandile.png|30px]]), [[File:Team_Plasma_Grunt_(female).png|30px]] Sbire de la Team Plasma ([[File:Scraggy.png|30px]])
+|-
+| [[File:Relic Passage.png|30px]] [[Relic Passage|Chemin Enfoui]] || Unys - Route D.R. || style="text-align: right;" | 156 500 {{dungeontokens}} || [[File:Onix.png|30px]]Onix, [[File:Drilbur.png|30px]]Rototaupe || &lt;center&gt;—
+|-
+| [[File:Relic Castle.png|30px]] [[Relic Castle|Château Enfoui]] || Unys - Route D.R. || style="text-align: right;" | 166 500 {{dungeontokens}} || [[File:Baltoy.png|30px]]Balbuto, [[File:Volcarona.png|30px]]Pyrax || [[File:Psychic_(male).png|30px]] Médium Perry ([[File:Sigilyph.png|30px]])
+|-
+| [[File:Lostlorn Forest.png|30px]] [[Lostlorn Forest|Bois des Illusions]] || Unys - Route 16 || style="text-align: right;" | 176 500 {{dungeontokens}} || [[File:Heracross.png|30px]]Scarhino, [[File:Pinsir.png|30px]]Scarabrute, [[File:Emolga.png|30px]]Emolga || &lt;center&gt;—
+|-
+| [[File:Chargestone Cave.png|30px]] [[Chargestone Cave|Grotte Électrolithe]] || Unys - Route 6 || style="text-align: right;" | 186 500 {{dungeontokens}} || [[File:Drilbur.png|30px]]Rototaupe, [[File:Tynamo.png|30px]]Anchwatt || [[File:Ace_Trainer_(female).png|30px]] Dresseuse Mary ([[File:Tirtouga.png|30px]],[[File:Magmar.png|30px]]), [[File:Ace_Trainer_(male).png|30px]] Dresseur Shaye ([[File:Archen.png|30px]],[[File:Electabuzz.png|30px]])
+|-
+| [[File:Mistralton Cave.png|30px]] [[Mistralton Cave|Grotte Parsemille]] || Unys - Route 6 || style="text-align: right;" | 196 500 {{dungeontokens}} || [[File:Drilbur.png|30px]]Rototaupe, [[File:Axew.png|30px]]Coupenotte, [[File:Cobalion.png|30px]]Cobaltium || &lt;center&gt;—
+|-
+| [[File:Celestial Tower.png|30px]] [[Celestial Tower|Tour des Cieux]] || Unys - Route 7 || style="text-align: right;" | 206 500 {{dungeontokens}} || [[File:Litwick.png|30px]]Funécire || [[File:Psychic_(male).png|30px]] Médium Bryce ([[File:Elgyem.png|30px]],[[File:Duosion.png|30px]]), [[File:Psychic_(female).png|30px]] Médium Sarah ([[File:Yamask.png|30px]],[[File:Gothorita.png|30px]])
+|-
+| [[File:Reversal Mountain.png|30px]] [[Reversal Mountain|Mont Renenvers]] || Unys - Route 14 || style="text-align: right;" | 226 500 {{dungeontokens}} || [[File:Cacturne.png|30px]]Cacturne, [[File:Excadrill.png|30px]]Minotaupe, [[File:Heatran.png|30px]]Heatran || &lt;center&gt;—
+|-
+| [[File:Seaside Cave.png|30px]] [[Seaside Cave|Grotte Littorale]] || Unys Route 21 || style="text-align: right;" | 246 500 {{dungeontokens}} || [[File:Eelektrik.png|30px]]Lampéroi, [[File:Crustle.png|30px]]Crabaraque || &lt;center&gt;—
+|-
+| [[File:Plasma Frigate.png|30px]] [[Plasma Frigate|Frégate Plasma]] || Est de la Grotte Littorale || style="text-align: right;" | 257 500 {{dungeontokens}} || &lt;center&gt;— || [[File:Team_Plasma_(zinzolin).png|30px]] Team Plasma Zinzolin ([[File:Cryogonal.png|30px]],[[File:Cryogonal.png|30px]],[[File:Weavile.png|30px]])
+|-
+| [[File:Giant Chasm.png|30px]] [[Giant Chasm|Grotte Cyclopéenne]] || Unys - Route 22 || style="text-align: right;" | 266 500 {{dungeontokens}} || [[File:Tangrowth.png|30px]]Bouldeneu, [[File:Audino.png|30px]]Nanméouïe, [[File:Mamoswine.png|30px]]Mammochon, [[File:Kyurem.png|30px]]Kyurem || [[File:Team_Plasma_(ghetsis).png|30px]] Team Plasma Ghetsis ([[File:Cofagrigus.png|30px]],[[File:Seismitoad.png|30px]],[[File:Eelektross.png|30px]],[[File:Drapion.png|30px]],[[File:Toxicroak.png|30px]],[[File:Hydreigon.png|30px]])
+|-
+| [[File:Cave of Being.png|30px]] [[Cave of Being|Caverne des Esprits]] || Unys - sous Route 20 || style="text-align: right;" | 286 500 {{dungeontokens}} || [[File:Azelf.png|30px]]Créfadet, [[File:Mesprit.png|30px]]Créfollet, [[File:Uxie.png|30px]]Créhelf || &lt;center&gt;—
+|-
+| [[File:Abundant Shrine.png|30px]] [[Abundant Shrine|Autel Abondance]] || Unys - Route 14 || style="text-align: right;" | 306 500 {{dungeontokens}} || [[File:Bronzong.png|30px]]Archéodong, [[File:Altaria.png|30px]]Altaria, [[File:Landorus.png|30px]]Démétéros || &lt;center&gt;—
+|-
+| [[File:Victory Road Unova.png|30px]] [[Victory Road Unova|Route Victoire (Unys)]] || Unys - Route 23 || style="text-align: right;" | 326 500 {{dungeontokens}} || [[File:Golurk.png|30px]]Golemastoc, [[File:Terrakion.png|30px]]Terrakium, [[File:Audino.png|30px]]Nanméouïe, [[File:Druddigon.png|30px]]Drakkarmin || &lt;center&gt;—
+|-
+| [[File:Twist Mountain.png|30px]] [[Twist Mountain|Mont Foré]] || Unys - Route 7 || style="text-align: right;" | 356 500 {{dungeontokens}} || [[File:Durant.png|30px]]Fermite, [[File:Cryogonal.png|30px]]Hexagel, [[File:Heatmor.png|30px]]Aflamnoir, [[File:Regigigas.png|30px]]Regigigas || &lt;center&gt;—
+|-
+| [[File:Dragonspiral Tower.png|30px]] [[Dragonspiral Tower|Tour Dragospire]] || Unys - Route 7 || style="text-align: right;" | 356 500 {{dungeontokens}} || [[File:Dragonite.png|30px]]Dracolosse, [[File:Reshiram.png|30px]]Reshiram, [[File:Druddigon.png|30px]]Drakkarmin, [[File:Zekrom.png|30px]]Zekrom || &lt;center&gt;—
+|-
+| [[File:Moor of Icirrus.png|30px]] [[Moor of Icirrus|Tourbière Flocombe]] || Unys - Route 8 || style="text-align: right;" | 356 500 {{dungeontokens}} || [[File:Keldeo.png|30px]]Keldeo, [[File:Seismitoad.png|30px]]Crapustule, [[File:Whiscash.png|30px]]Barbicha || &lt;center&gt;—
+|-
+| [[File:Pledge Grove.png|30px]] [[Pledge Grove|Bois du Serment]] || Unys - entre Route 19 et 20 || style="text-align: right;" | 356 500 {{dungeontokens}} || [[File:Keldeo (Resolute).png|30px]]Keldeo (Décidé) || &lt;center&gt;—
+|-
+| [[File:Pinwheel Forest.png|30px]] [[Pinwheel Forest|Forêt d'Empoigne]] || Unys - avant Route 3 || style="text-align: right;" | 356 500 {{dungeontokens}} || [[File:Scolipede.png|30px]]Brutapode, [[File:Seismitoad.png|30px]]Crapustule, [[File:Virizion.png|30px]]Viridium || &lt;center&gt;—
+|-
+| [[File:Dreamyard.png|30px]] [[Dreamyard|Vestiges du Rêve]] || Unys - entre Route 2 et 3 || style="text-align: right;" | 356 500 {{dungeontokens}} || [[File:Audino.png|30px]]Nanméouïe, [[File:Dunsparce.png|30px]]Insolourdo, [[File:Latias.png|30px]]Latias, [[File:Latios.png|30px]]Latios || &lt;center&gt;—
+|-
+| [[File:P2 Laboratory.png|30px]] [[P2 Laboratory|Labo P2]] || Unys - Route 18 || style="text-align: right;" | 396 500 {{dungeontokens}} || [[File:Ursaring.png|30px]]Ursaring, [[File:Mawile.png|30px]]Mysdibule, [[File:Sableye.png|30px]]Ténéfix, [[File:Zangoose.png|30px]]Mangriff, [[File:Audino.png|30px]]Nanméouïe, [[File:Durant.png|30px]]Fermite, [[File:Genesect.png|30px]]Genesect || [[File:Team_Plasma_(colress).png|30px]] Team Plasma Colress ([[File:Magneton.png|30px]],[[File:Rotom_(wash).png|30px]],[[File:Metagross.png|30px]],[[File:Beheeyem.png|30px]],[[File:Magnezone.png|30px]],[[File:Klinklang.png|30px]])
+|-
+|}
+
+=== [[Kalos]] ===
+
+Les donjons de [[Kalos]] sont initialement de taille 10x10 (100 cases au total), contiennent 10 coffres, 23 rencontres hors boss et 77 cases vides.
+
+{| class="wikitable sortable"
+|+ Donjons de Kalos 
+|-
+! Nom !! Localisation !! Coût d'entrée !! Pokémon Boss !! Dresseur Boss 
+|-
+| [[File:Santalune Forest.png|30px]] [[Santalune Forest/fr|Forêt de Neuvartault]] || Entre les Routes 2 &amp; 3 de Kalos || style="text-align: right;" | 400 000 {{dungeontokens}} ||[[File:Pikachu.png|30px]]Pikachu || [[File:Lass.png|30px]] Jenn la Fillette ([[File:Weedle.png|30px]],[[File:Bunnelby.png|30px]])
+|-
+| [[File:Connecting Cave.png|30px]] [[Connecting Cave/fr|Cave Connecterre]] || Entre Relifac-le-Haut et les Routes 7 &amp; 8 de Kalos|| style="text-align: right;" | 475 000 {{dungeontokens}} || [[File:Axew.png|30px]]Coupenotte|| [[File:Pokémon_Breeder_(female).png|30px]] Frigg l'Éleveuse ([[File:Ducklett.png|30px]],[[File:Pikachu.png|30px]],[[File:Litleo.png|30px]],[[File:Oddish.png|30px]])
+|-
+| [[File:Glittering Cave.png|30px]] [[Glittering Cave/fr|Grotte Étincelante]] || Route 9 de Kalos|| style="text-align: right;" | 505 000 {{dungeontokens}} || [[File:Kangaskhan.png|30px]]Kangourex, [[File:Mawile.png|30px]]Mysdibule|| [[File:Team_Flare_Grunt_Duo.png|30px]] Sbires de la Team Flare ([[File:Scraggy.png|30px]],[[File:Croagunk.png|30px]])
+|-
+| [[File:Reflection Cave.png|30px]] [[Reflection Cave/fr|Grotte Miroitante]] || Entre la Route 11 et Yantreizh|| style="text-align: right;" | 555 000 {{dungeontokens}} || [[File:Diancie.png|30px]]Diancie || [[File:Ace_Trainer_(male).png|30px]] Nicolas le Topdresseur ([[File:Absol.png|30px]],[[File:Pinsir.png|30px]]), [[File:Ace_Trainer_(female).png|30px]] Asuka le Topdresseur ([[File:Doduo.png|30px]],[[File:Granbull.png|30px]],[[File:Helioptile.png|30px]])
+|-
+| [[File:Kalos Power Plant.png|30px]] [[Kalos Power Plant/fr|Centrale de Kalos]] || Route 13 de Kalos|| style="text-align: right;" | 575 000 {{dungeontokens}} || [[File:Volcanion.png|30px]]Volcanion || [[File:Team_Flare_Aliana.png|30px]] Ancolie de la Team Flare ([[File:Mightyena.png|30px]])
+|-
+| [[File:Sea Spirit's Den.png|30px]] [[Sea Spirit's Den/fr|Antre Néréen]] || Baie Azur || style="text-align: right;" | 600 000 {{dungeontokens}} || [[File:Lugia.png|30px]]Lugia || &lt;center&gt;N/A
+|-
+| [[File:Pokéball Factory.png|30px]] [[Pokéball Factory/fr|Usine de Poké Balls]] || Romant-sous-Bois || style="text-align: right;" | 615 000 {{dungeontokens}} || &lt;center&gt;N/A || [[File:Team_Flare_Celosia.png|30px]] Cyane de la Team Flare ([[File:Manectric.png|30px]]), [[File:Team_Flare_Bryony.png|30px]] Brasénie de la Team Flare ([[File:Liepard.png|30px]])
+|-
+| [[File:Lost Hotel.png|30px]] [[Lost Hotel/fr|Hôtel Désolation]] || Route 15 de Kalos || style="text-align: right;" | 635 000 {{dungeontokens}} || [[File:Rotom.png|30px]]Motisma || [[File:Punk_Couple.png|30px]] Les &amp; Mia les Mauvaises Graines ([[File:Garbodor.png|30px]],[[File:Pangoro.png|30px]])
+|-
+| [[File:Frost Cavern.png|30px]] [[Frost Cavern/fr|Caverne Gelée]] || Route 15 de Kalos|| style="text-align: right;" | 665 500 {{dungeontokens}} || [[File:Abomasnow.png|30px]]Blizzaroi || [[File:Team_Flare_Mable.png|30px]] Myosotis de la Team Flare ([[File:Houndoom.png|30px]])
+|-
+| [[File:Team Flare Secret HQ.png|30px]] [[Team Flare Secret HQ/fr|Repaire Team Flare]] || Cromlac'h || style="text-align: right;" | 675 000 {{dungeontokens}} || [[File:Xerneas.png|30px]]Xerneas, [[File:Yveltal.png|30px]]Yveltal || [[File:Team_Flare_Lysandre.png|30px]] Lysandre de la Team Flare ([[File:Mienshao.png|30px]],[[File:Honchkrow.png|30px]],[[File:Pyroar.png|30px]],[[File:Mega Gyarados.png|30px]])
+|-
+| [[File:Terminus Cave.png|30px]] [[Terminus Cave/fr|Grotte Coda]] || Route 18 de Kalos || style="text-align: right;" | 700 000 {{dungeontokens}} || [[File:Zygarde.png|30px]]Zygarde || [[File:Pokémon_Rangers.png|30px]] Maki &amp; Kit le Duo de Rangers ([[File:Nidoqueen.png|30px]],[[File:Nidoking.png|30px]])
+|-
+| [[File:Pokémon Village.png|30px]] [[Pokémon Village/fr|Village Pokémon]] || Route 20 de Kalos || style="text-align: right;" | 725 000 {{dungeontokens}} || [[File:Ditto.png|30px]]Métamorph, [[File:Zoroark.png|30px]]Zoroark || &lt;center&gt;N/A
+|-
+| [[File:Victory_Road_Kalos.png|30px]] [[Victory Road Kalos/fr|Route Victoire de Kalos]] || Entre les Routes 21 &amp; 22 de Kalos|| style="text-align: right;" | 750 500 {{dungeontokens}} || &lt;center&gt;N/A || [[File:Ace_Trainer_(female).png|30px]] Mika le Topdresseur ([[File:Magcargo.png|30px]], [[File:Scizor.png|30px]] ), [[File:Veteran_(male).png|30px]] Adam le Vénérable ([[File:Trevenant.png|30px]],[[File:Gigalith.png|30px]]), [[File:Veteran_(female).png|30px]] Kathleen la Vénérable ([[File:Glaceon.png|30px]], [[File:Snorlax.png|30px]]), [[File:Veteran_(male).png|30px]] Cain le Vénérable ([[File:Skarmory.png|30px]],[[File:Umbreon.png|30px]],[[File:Alakazam.png|30px]]),
+|}
+
+&lt;span id="Alola"&gt;&lt;/span&gt;
+=== [[Alola/fr|Alola]] ===
+
+Les donjons d'[[Alola/fr|Alola]] sont initialement de taille 11x11 (121 cases au total), contiennent 11 coffres, 25 rencontres hors boss et 84 cases vides.
+
+{| class="wikitable sortable"
+|+ Donjons d'Alola
+|-
+! Nom !! Localisation !! Coût d'entrée !! Pokémon Boss !! Dresseur Boss
+|-
+| [[File:Trainers' School.png|30px]] [[Trainers' School/fr|École de Dresseurs]] || Nord-est de la Route 1 Abords d'Ekaeka|| style="text-align: right;" | 757 500 {{dungeontokens}} ||&lt;center&gt;N/A || [[File:Teacher_(female).png|30px]] Élodie la Prof ([[File:Litten.png|30px]], [[File:Popplio.png|30px]], [[File:Rowlet.png|30px]])
+|-
+| [[File:Hau'oli Cemetery.png|30px]] [[Hau'oli Cemetery/fr|Cimetière d'Ekaeka]] || Est de la Route 2 || style="text-align: right;" | 800 000 {{dungeontokens}} || [[File:Drifloon.png|30px]]Baudrive, [[File:Litwick.png|30px]]Funécire|| &lt;center&gt;N/A 
+|-
+| [[File:Verdant Cavern.png|30px]] [[Verdant Cavern/fr|Grotte Verdoyante]] || Sud de la Route 3 (Bois de Mele-Mele) || style="text-align: right;" | 805 000 {{dungeontokens}} || [[File:Alolan_Raticate.png|30px]]Rattatac d'Alola, [[File:Gumshoos.png|30px]]Argouste, [[File:Totem_Raticate.png|30px]]Rattata Dominant,[[File:Totem_Gumshoos.png|30px]]Argouste Dominant|| &lt;center&gt;N/A
+|-
+| [[File:Melemele Meadow.png|30px]] [[Melemele Meadow/fr|Jardin de Mele-Mele]] || Sud de la Route 3 (Bois de Mele-Mele) || style="text-align: right;" | 825 000 {{dungeontokens}} || [[File:Flabébé (Red).png|30px]] Flabébé (Fleur Rouge), [[File:Oricorio (Pom-pom).png|30px]]Plumeline (Style Pom-pom) || &lt;center&gt;N/A
+|-
+| [[File:Seaward Cave.png|30px]] [[Seaward Cave/fr|Grotte Verlamer]] || Ouest de la Baie de Kala'e || style="text-align: right;" | 830 000 {{dungeontokens}} || [[File:Delibird.png|30px]]Cadoizo, [[File:Barboach.png|30px]]Barloche || &lt;center&gt;N/A
+|-
+| [[File:Ten Carat Hill.png|30px]] [[Ten Carat Hill/fr|Colline Dicarat]] || Ouest de la Mer de Mele-Mele || style="text-align: right;" | 835 000 {{dungeontokens}} || [[File:Spinda.png|30px]]Spinda, [[File:Carbink.png|30px]]Strassie, [[File:Rockruff.png|30px]]Rocabot || &lt;center&gt;N/A
+|-
+| [[File:Pikachu Valley.png|30px]] [[Pikachu Valley/fr|Plaine des Pikachu]] || Nord de la Route 4 || style="text-align: right;" | 850 000 {{dungeontokens}} || [[File:Pikachu (Original cap).png|30px]]Pikachu (Casquette Originale), [[File: Pikachu (Hoenn cap).png|30px]] Pikachu (Casquette de Hoenn), [[File: Pikachu (Sinnoh cap).png|30px]] Pikachu (Casquette de Sinnoh), [[File:Pikachu (Unova cap).png|30px]]Pikachu (Casquette d'Unys), [[File:Pikachu (Kalos cap).png|30px]]Pikachu (Casquette de Kalos), [[File:Pikachu (Alola cap).png|30px]]Pikachu (Casquette d'Alola) || &lt;center&gt;N/A
+|-
+| [[File:Paniola Ranch.png|30px]] [[Paniola Ranch/fr|Ranch Ohana]] || Ouest de Ohana || style="text-align: right;" | 855 000 {{dungeontokens}} || [[File:Tauros.png|30px]]Tauros, [[File:Miltank.png|30px]]Écrémeuh || &lt;center&gt;N/A
+|-
+| [[File:Brooklet Hill.png|30px]] [[Brooklet Hill/fr|Colline Clapotis]] || Ouest de la Route 5 || style="text-align: right;" | 875 000 {{dungeontokens}} || [[File:Wishiwashi (School).png|30px]]Froussardine (Forme Banc), [[File:Araquanid.png|30px]]Tarenbulle,[[File:Totem Wishiwashi.png|30px]]Froussardine Dominant, [[File:Totem Araquanid.png|30px]]Tarenbulle Dominant || &lt;center&gt;N/A
+|-
+| [[File:Wela Volcano Park.png|30px]] [[Wela Volcano Park/fr|Parc Volcanique]] || Ouest de la Route 7 || style="text-align: right;" | 900 000 {{dungeontokens}} || [[File:Alolan Marowak.png|30px]]Ossatueur d'ALola, [[File:Salazzle.png|30px]]Malamandre, [[File:Totem Marowak.png|30px]]Ossatueur Dominant, [[File:Totem Salazzle.png|30px]]Malamandre Dominante || &lt;center&gt;N/A
+|-
+| [[File:Lush Jungle.png|30px]] [[Lush Jungle/fr|Jungle Sombrefeuille]] || Nord de la Route 5 || style="text-align: right;" | 925 000 {{dungeontokens}} || [[File:Lurantis.png|30px]]Floramantis, [[File:Totem Lurantis.png|30px]]Floramantis Dominant || &lt;center&gt;N/A
+|-
+| [[File:Diglett's Tunnel.png|30px]] [[Diglett's Tunnel/fr|Tunnel Taupiqueur]] || Nord-est de la Route 9 || style="text-align: right;" | 930 000 {{dungeontokens}} || [[File:Larvitar.png|30px]]Embrylex || &lt;center&gt;N/A
+|-
+| [[File:Memorial Hill.png|30px]] [[Memorial Hill/fr|Colline Memento]] || Ouest de la Côte Reculée d'Akala/Est de la Route 9 || style="text-align: right;" | 950 000 {{dungeontokens}} || &lt;center&gt;N/A || [[File:Team Skull Grunt (male).png|30px]] Sbire de la Team Skull ([[File:Alolan Raticate.png|30px]])
+|-
+| [[File:Malie Garden.png|30px]] [[Malie Garden/fr|Parc de Malié]] || Nord-ouest de Malié || style="text-align: right;" | 975 000 {{dungeontokens}} || &lt;center&gt;N/A || [[File:Team Skull Boss (guzma).png|30px]] Guzma Boss de la Team Skull ([[File:Golisopod.png|30px]], [[File:Masquerain.png|30px]])
+|-
+| [[File:Hokulani Observatory.png|30px]] [[Hokulani Observatory/fr|Observatoire]] || Nord-est du Mont Hokulani || style="text-align: right;" | 1 000 000 {{dungeontokens}} || [[File:Vikavolt.png|30px]]Lucanon, [[File:Togedemaru.png|30px]]Togedemaru, [[File:Totem Vikavolt.png|30px]]Lucanon Dominant, [[File:Totem Togedemaru.png|30px]]Togedemaru Dominant|| &lt;center&gt;N/A
+|-
+| [[File:Thrifty Megamart.png|30px]] [[Thrifty Megamart/fr|Ancien Site Bradley Prix]] || Sud du Village Toko || style="text-align: right;" | 1 025 000 {{dungeontokens}} || [[File:Mimikyu.png|30px]]Mimiqui, [[File:Totem Mimikyu.png|30px]]Mimiqui Dominant || &lt;center&gt;N/A
+|-
+| [[File:Ula'ula Meadow.png|30px]] [[Ula'ula Meadow/fr|Jardin d'Ula-Ula]] || Nord de la Route 16 || style="text-align: right;" | 1 050 000 {{dungeontokens}} || [[File:Floette (Red).png|30px]]Floette (Fleur Rouge), [[File:Oricorio (Baile).png|30px]]Plumeline (Style Flamenco) || &lt;center&gt;N/A
+|-
+| [[File:Po Town.png|30px]] [[Po Town/fr|Kokohio]] || Nord de la Route 17 || style="text-align: right;" | 1 075 000 {{dungeontokens}} || &lt;center&gt;N/A || [[File:Team Skull Boss (guzma).png|30px]] Guzma Boss de la Team Skull ([[File:Golisopod.png|30px]], [[File:Masquerain.png|30px]], [[File:Pinsir.png|30px]])
+|-
+| [[File:Aether Foundation.png|30px]] [[Aether Foundation/fr|Fondation Æther ]] || Nord du Paradis Æther || style="text-align: right;" | 1 080 000 {{dungeontokens}} || &lt;center&gt;N/A || [[File:Aether President (lusamine).png|30px]] Elsa-Mina la Présidente d'Æther ([[File:Clefable.png|30px]], [[File:Lilligant.png|30px]], [[File:Lopunny.png|30px]], [[File:Milotic.png|30px]], [[File:Bewear.png|30px]])
+|-
+| [[File:Exeggutor Island Hill.png|30px]] [[Exeggutor Island Hill/fr|Colline de l'Île Noadkoko]] || Île Noadkoko || style="text-align: right;" | 1 100 000 {{dungeontokens}} || [[File:Pinsir.png|30px]]Scarabrute, [[File:Tropius.png|30px]]Tropius || &lt;center&gt;N/A
+|-
+| [[File:Vast Poni Canyon.png|30px]] [[Vast Poni Canyon/fr|Grand Canyon de Poni]] || Nord de la Vieille Route || style="text-align: right;" | 1 125 000 {{dungeontokens}} || [[File:Kommo-o.png|30px]]Ékaïser, [[File:Totem Kommo-o.png|30px]]Ékaïser Dominant || &lt;center&gt;N/A
+|-
+| [[File:Mina's Houseboat.png|30px]] [[Mina's Houseboat/fr|Maison Flottante d'Oléa]] || Dans le Village Flottant || style="text-align: right;" | 1 150 000 {{dungeontokens}} || [[File:Ribombee.png|30px]]Rubombelle, [[File:Totem Ribombee.png|30px]]Rubombelle Dominant|| &lt;center&gt;N/A
+|-
+| [[File:Mount Lanakila.png|30px]] [[Mount Lanakila/fr|Mont Lanakila]] || Nord du Village Toko || style="text-align: right;" | 1 175 000 {{dungeontokens}} || [[File:Absol.png|30px]]Absol, [[File:Glalie.png|30px]]Oniglali, [[File:Vanilluxe.png|30px]]Sorbouboul, [[File:Necrozma.png|30px]]Necrozma || &lt;center&gt;N/A
+|-
+| [[File:Lake of the Sunne and Moone.png|30px]] [[Lake of the Sunne and Moone/fr|Lac des Halos Solaire et Lunaire]] || 	Est du Jardin d'Ula-Ula || style="text-align: right;" | 1 200 000 {{dungeontokens}} || [[File:Cosmog.png|30px]]Cosmog, [[File:Lunala.png|30px]]Lunala, [[File:Solgaleo.png|30px]]Solgaleo || &lt;center&gt;N/A
+|-
+| [[File:Ruins of Conflict.png|30px]] [[Ruins of Conflict/fr|Ruines du Conflit]] || Sud de la Route 3 (Bois de Mele-Mele) || style="text-align: right;" | 1 200 000 {{dungeontokens}} || [[File:Luxray.png|30px]]Luxray, [[File:Granbull.png|30px]]Granbull, [[File:Tapu Koko.png|30px]]Tokorico|| &lt;center&gt;N/A
+|-
+| [[File:Ruins of Life.png|30px]] [[Ruins of Life/fr|Ruines de l'Éveil]] || Nord de la Côte Reculée d'Akala || style="text-align: right;" | 1 200 000 {{dungeontokens}} || [[File:Wobbuffet.png|30px]]Qulbutoké, [[File:Granbull.png|30px]]Granbull, [[File:Tapu Lele.png|30px]]Tokopiyon|| &lt;center&gt;N/A
+|-
+| [[File:Ruins of Abundance.png|30px]] [[Ruins of Abundance/fr|Ruines de l'Essor]] || Nord du Désert Haina || style="text-align: right;" | 1 200 000 {{dungeontokens}} || [[File:Maractus.png|30px]]Maracachi, [[File:Granbull.png|30px]]Granbull, [[File:Tapu Bulu.png|30px]]Tokotoro|| &lt;center&gt;N/A
+|-
+| [[File:Ruins of Hope.png|30px]] [[Ruins of Hope/fr|Ruines de l'Au-Delà]] || Nord-est du Récif de Poni || style="text-align: right;" | 1 200 000 {{dungeontokens}} || [[File:Lumineon.png|30px]]Luminéon, [[File:Granbull.png|30px]]Granbull, [[File:Tapu Fini.png|30px]]Tokopisco || &lt;center&gt;N/A
+|-
+| [[File:Poni Meadow.png|30px]] [[Poni Meadow/fr|Jardin de Poni]] || Nord de la Plaine de Poni|| style="text-align: right;" | 1 225 000 {{dungeontokens}} || [[File:Floette_(Red).png|30px]]Floette (Fleur Rouge), [[File:Oricorio (Sensu).png|30px]]Plumeline (Style Buyō) || &lt;center&gt;N/A
+|-
+| [[File:Resolution Cave.png|30px]] [[Resolution Cave/fr|Caverne Coda]] || Ouest du Jardin de Poni/Sud du Chemin du Défi|| style="text-align: right;" | 1 250 000 {{dungeontokens}} || [[File:Golbat.png|30px]]Nosferalto, [[File:Noivern.png|30px]]Bruyverne, [[File:Guzzlord.png|30px]]Engloutyran || &lt;center&gt;N/A
+|}
+
+== Bon à savoir ==
+Pour compléter l'ensemble des Succès liés aux donjons  vous aurez besoins des montants de [[Dungeon Tokens|Jetons de donjon]] suivant : 
+
+{| class="wikitable" style="text-align: right;"
+|-
+! Region !! 1 fois !! 10 fois !! 100 fois !! 500 fois
+|-
+| style="text-align: left;" | [[Kanto/fr|Kanto]] || 398 220 {{dungeontokens}} || 3 982 200 {{dungeontokens}} || 39 822 000 {{dungeontokens}} || 199 110 000 {{dungeontokens}}
+|-
+| style="text-align: left;" | [[Johto/fr|Johto]] || 83 000 {{dungeontokens}} || 830 000 {{dungeontokens}} || 8 300 000 {{dungeontokens}} || 41 500 000 {{dungeontokens}}
+|-
+| style="text-align: left;" | [[Hoenn/fr|Hoenn]] || 459 000 {{dungeontokens}} || 4 590 000 {{dungeontokens}} || 45 900 000 {{dungeontokens}} || 229 500 000 {{dungeontokens}}
+|-
+| style="text-align: left;" | [[Sinnoh/fr|Sinnoh]] || 1 805 750 {{dungeontokens}} || 18 057 500 {{dungeontokens}} || 180 575 000 {{dungeontokens}} || 902 875 000 {{dungeontokens}}
+|-
+| style="text-align: left;" | [[Unova/fr|Unys]] || 5 950 500 {{dungeontokens}} || 59 505 000 {{dungeontokens}} || 595 050 000 {{dungeontokens}} || 2 975 250 000 {{dungeontokens}}
+|-
+|style="text-align: left;" | [[Kalos/fr|Kalos]] || 7 876 000 {{dungeontokens}} || 78 760 000 {{dungeontokens}} || 787 600 000 {{dungeontokens}} || 3 938 000 000 {{dungeontokens}}
+|-
+|style="text-align: left;" | [[Alola/fr|Alola]] || 30 367 500 {{dungeontokens}} || 303 675 000 {{dungeontokens}} || 3 036 750 000 {{dungeontokens}} || 15 183 750 000 {{dungeontokens}}
+|-
+| style="text-align: left;" | Total || 47 181 470 {{dungeontokens}} || 471 814 700 {{dungeontokens}} || 4 718 147 000 {{dungeontokens}} || 23 590 735 000 {{dungeontokens}}
+|-
+|}
+
+
+[[Category:Dungeons|^Main^a]]
+[[Category:Donjons|^Principal^a]]</text>
+    <contributor>
+      <username>Gwendal</username>
+      <id>723</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>41485</parentid>
+    <sha1>113c18001ed642d1b6cd55d55814b197bf5cc821</sha1>
+  </revision>
+</page></mediawiki>

@@ -1,0 +1,94 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Hau'oli Cemetery</title>
+  <ns>0</ns>
+  <id>3784</id>
+  <revision>
+    <id>39926</id>
+    <timestamp>2022-10-23T21:15:13Z</timestamp>
+    <text space="preserve" bytes="2178">&lt;languages/&gt;
+&lt;translate&gt;
+&lt;!--T:1--&gt;
+{{Infobox dungeon
+|name    = Hau'oli Cemetery
+|image   = [[File:Hau'oli Cemetery.png|300px]]
+|caption = A map of Hau'oli Cemetery.
+|tokens  = 800,000
+|location = East of Route 2.
+}}
+
+&lt;!--T:2--&gt;
+'''Hau'oli Cemetery''' is a [[Dungeons|dungeon]] in [[Alola]]. It initially has 125 tiles arranged in two floors: 10x10 and 5x5 in size, respectively; including 15 chest tiles, 36 non-boss encounter tiles, 1 ladder tile, and 1 boss encounter tile. Wild Encounters have 11,587,450 HP.
+
+== Encounter Tables == &lt;!--T:3--&gt;
+
+===Wild Encounters=== &lt;!--T:4--&gt;
+
+&lt;!--T:5--&gt;
+{| class="wikitable"
+|-
+! Wild Pokémon !! colspan=2|Trainers
+|-
+! Encounter !! Trainer !! Pokémon Team
+|-
+| [[File:Zubat.png|40px]] Zubat || [[File:Pokémon Breeder (female).png|40px]] Pokémon Breeder Ikue || [[File:Pikachu.png|40px]] Pikachu
+|-
+| [[File:Gastly.png|40px]] Gastly || [[File:Office Worker (male).png|40px]] Office Worker Jeremy || [[File:Pikipek.png|40px]] Pikipek
+|-
+| [[File:Misdreavus.png|40px]] Misdreavus || [[File:Preschooler (female).png|40px]] Preschooler Malia || [[File:Happiny.png|40px]] Happiny
+|-
+|}
+
+===Boss Encounters=== &lt;!--T:6--&gt;
+{| class="wikitable"
+|-
+! Wild Pokémon !! Base Health !! Boss Trainer !! Pokémon Team !! Base Health
+|-
+| [[File:Drifloon.png|40px]] Drifloon || rowspan=2|&lt;center&gt;28,968,625 || rowspan=2 colspan=3|&lt;center&gt;N/A
+|-
+| [[File:Litwick.png|40px]] Litwick 
+|-
+|} 
+
+==Items== &lt;!--T:7--&gt;
+
+&lt;!--T:8--&gt;
+{| class="wikitable"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+|-
+| align="center" colspan=6| '''Common'''
+|-
+| {{Bag2|xClick}} || N/A || 37.49% || 36.08% || 30.32%
+|-
+| {{Bag2|Dowsing Machine}} || N/A || 37.49% || 36.08% || 30.32%
+|-
+| align="center" colspan=6| '''Rare'''
+|-
+| {{Bag2|Blue Shard}} || N/A || 10.01% || 10.52% || 12.61%
+|-
+| {{Bag2|Green Shard}} || N/A || 10.01% || 10.52% || 12.61%
+|-
+| align="center" colspan=6| '''Epic'''
+|-
+| {{Bag2|Spooky Plate}} || N/A || 4.01% || 5.21% || 10.11%
+|-
+| align="center" colspan=6| '''Legendary'''
+|-
+| {{Bag2|Medium Restore}} || N/A || 1.00% || 1.59% || 4.03%
+|}
+
+&lt;!--T:9--&gt;
+{{Alola Dungeons}}
+[[Category:Dungeons|^Region #7 - Alola^b]]
+&lt;/translate&gt;</text>
+    <contributor>
+      <username>ThePantMan</username>
+      <id>310</id>
+    </contributor>
+    <comment>/* Description - floors */</comment>
+    <model>wikitext</model>
+    <parentid>27975</parentid>
+    <sha1>124731b2dc82c0fe4928ccd15028a3628d534ced</sha1>
+  </revision>
+</page></mediawiki>

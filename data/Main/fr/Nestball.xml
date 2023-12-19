@@ -1,0 +1,78 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Nestball/fr</title>
+  <ns>0</ns>
+  <id>8580</id>
+  <revision>
+    <id>33210</id>
+    <timestamp>2022-09-10T21:21:47Z</timestamp>
+    <text space="preserve" bytes="2225">&lt;languages/&gt;
+
+{{Infobox Pokéball
+|name       = Faiblo Ball
+|image      = [[File:Nestball.png]]
+|caption    = Image en jeu de la ''Faiblo Ball''.
+|price      = Variable
+|catchTime  = 1,25s
+|catchRate = Variable (meilleur sur les premières routes, cf. [[Nestball/fr#Rates|Taux]] ci-dessous)
+|location   = &lt;div style="clear:both;"&gt;&lt;/div&gt;
+*[[Nestball/fr#Dungeons|Donjons]]
+}}
+
+==Description==
+
+La '''Faiblo Ball''' est un type de [[Pokéballs/fr|Ball]]. Elle est automatiquement lancée pour capturer un Pokémon sauvage après l'avoir mis KO s'il s'agit du plus haut type de Ball actif et qu'il vous en reste dans la fenêtre de sélection de Poké Ball.
+
+==Détails==
+
+Une Ball spécialisée pour attraper les Pokémon sur des routes avec des numéros bas.
+
+==Taux==
+
+Le taux est déterminé par la région débloquée la plus avancée (exemple : Quand Johto est débloqué, la route la plus haute est la n°48). 
+
+{| class="wikitable"
+|+ Nestball Catch Rates
+|-
+! Ordre des Routes des Régions !! Taux de capture&lt;br&gt;(+5%, égal à la Super Ball) !! Taux de capture&lt;br&gt;(+10%, égal à l'Hyper Ball) !! Taux de capture&lt;br&gt;(+15%)
+|-
+| [[Route_Statistics/fr#Kanto|Ordre des Routes de Kanto]] || 5 || 3 || 2
+|-
+| [[Route_Statistics/fr#Johto|Ordre des Routes de Johto]] || 10 || 5 || 4
+|-
+| [[Route_Statistics/fr#Hoenn|Ordre des Routes de Hoenn]] || 33 || 17 || 11
+|-
+| [[Route_Statistics/fr#Sinnoh|Ordre des Routes de Sinnoh]] || 68 || 34 || 23
+|-
+| [[Route_Statistics/fr#Unova|Ordre des Routes de d'Unys nova]] || 109 || 55 || 37
+|-
+| [[Route_Statistics/fr#Kalos|Ordre des Routes de Kalos]] || 159 || 80 || 53
+|}
+
+[[File:Nestball_Catch_Rate_Graph.png|Axe X :Numéro de route&lt;br&gt;Axe Y : Taux de capture|250px]]
+
+==Acquisition==
+{{Loot/head‎|Pokéballs}}
+{{LootItem|Rocket Game Corner|Salle d'arcade Rocket|Légendaire}}
+{{LootItem|Magma Hideout|Planque Magma|Légendaire}}
+{{LootItem|Aqua Hideout|Planque Aqua|Légendaire}}
+{{LootItem|Victory Road Unova|Route Victoire (Unys)|Épique}}
+{{LootItem|Pinwheel Forest|Forêt d'Empoigne|Légendaire}}
+{{LootItem|Reflection Cave|Grotte Miroitante|Épique}}
+{{LootItem|Lush Jungle|Jungle Sombrefeuille|Épique}}
+|}
+|}
+
+&lt;br&gt;{{Pokéballs}}&lt;br&gt;
+
+[[Category:Items]] [[Category:Pokéballs]]</text>
+    <contributor>
+      <username>PetroleVB</username>
+      <id>619</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>30268</parentid>
+    <sha1>24c0431d4bce111546c6f1470e8da1610ac1ca44</sha1>
+  </revision>
+</page></mediawiki>

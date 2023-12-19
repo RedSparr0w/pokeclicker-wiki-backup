@@ -1,0 +1,127 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Test Page/es</title>
+  <ns>0</ns>
+  <id>17037</id>
+  <revision>
+    <id>41121</id>
+    <timestamp>2022-11-08T21:28:01Z</timestamp>
+    <text space="preserve" bytes="3069">&lt;languages/&gt;
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Test Page Returns
+&lt;/div&gt;
+
+{{#arraydefine:Galar_Rolling_Field_Base_Encounters|
+&lt;u&gt;''Spanish:''&lt;/u&gt; Spanish Translation
+}}
+&lt;tabs&gt;
+&lt;tab name="Spanish"&gt;
+{{#arrayprint:Galar_Rolling_Field_Base_Encounters}}&lt;br&gt;
+&lt;u&gt;''Weather:''&lt;/u&gt; Spanish Clear Encounters
+&lt;/tab&gt;
+&lt;tab name="Thunderstorm"&gt;
+{{#arrayprint:Galar_Rolling_Field_Base_Encounters}}&lt;br&gt;
+&lt;u&gt;''Weather:''&lt;/u&gt; Spanish Thunderstorm Encounters
+&lt;/tab&gt;
+&lt;/tabs&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+==Title 2==
+===Title 3===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Test: 1&lt;sup&gt;ère&lt;/sup&gt; génération
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+===Used in===
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{|class="wikitable"
+|-
+| This berry is used in
+|-
+| Berry 1
+|-
+| Berry 2
+|}
+Check Template:Berry : &lt;br&gt;
+{{Berry|Cheri}} 
+{{Berry|Cheri|2nd arg}} &lt;= /w 2 arguments
+{{Berry|Cheri|2nd arg|3rd arg}}  &lt;= /w 3 arguments
+{{Berry|Cheri|2nd arg|3rd arg|4th arg}}  &lt;= /w 4 arguments
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+Example Table:
+{| class="wikitable" style="text-align: center;"
+|+ Optimized Planting Formation
+|-
+| style="width: 40px; background-color:#9C7D98;" | || {{Berry|Rawst}} || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px; background-color:#9C7D98;" | || style="width: 40px;" | [[File:Rawst.png|30px]] [[Rawst]]
+|-
+| [[File:Rawst.png|30px]] [[Rawst]] || [[File:Rawst.png|30px]] [[Rawst]] || style="background-color:#9C7D98;" | || [[File:Rawst.png|30px]] [[Rawst]] || [[File:Rawst.png|30px]] [[Rawst]] 
+|- style="height: 50px;"
+| style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" | || style="background-color:#9C7D98;" |
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{|class="wikitable"
+|-
+| Test
+|-
+| [[File:Bulbasaur_Egg_Pattern.png|30px]]
+|-
+| [[File:Ivysaur_Egg_Pattern.png|30px]]
+|-
+| [[File:Venusaur_Egg_Pattern.png|30px]]
+|-
+| [[File:Charmander_Egg_Pattern.png|30px]]
+|-
+| [[File:Charmeleon_Egg_Pattern.png|30px]]
+|-
+| [[File:Charizard_Egg_Pattern.png|30px]]
+|-
+| [[File:Grey Shard.png|79px]][[File:GreyShardMine.png]]
+|-
+| [[File:Purple Shard.png|79px]][[File:PurpleShardMine.png]]
+|}
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+====Bag Functions test====
+&lt;/div&gt;
+
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Bag2|Lucky Incense|Lucky test ?}} &lt;- Bag2 set the image link to the second argument, but seems like never used anywhere
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Bag3|EXP Share|EXP test ?}} &lt;- Bag3 doesn't show anything if second argument, just the picture
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Bag4|Pokéball|Poké test ?}} &lt;- Bag4 works perfectly
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+====Template test for translators====
+&lt;/div&gt;
+
+&lt;div lang="en" dir="ltr" class="mw-content-ltr"&gt;
+{{Loot/head‎|Berries}}
+{{LootItem|Parc Safari|Commun}}
+&lt;/div&gt;</text>
+    <contributor>
+      <username>Jk13</username>
+      <id>59</id>
+    </contributor>
+    <comment>Created page with "{{#arraydefine:Galar_Rolling_Field_Base_Encounters| &lt;u&gt;''Spanish:''&lt;/u&gt; Spanish Translation }} &lt;tabs&gt; &lt;tab name="Spanish"&gt; {{#arrayprint:Galar_Rolling_Field_Base_Encounters}}&lt;br&gt; &lt;u&gt;''Weather:''&lt;/u&gt; Spanish Clear Encounters &lt;/tab&gt; &lt;tab name="Thunderstorm"&gt; {{#arrayprint:Galar_Rolling_Field_Base_Encounters}}&lt;br&gt; &lt;u&gt;''Weather:''&lt;/u&gt; Spanish Thunderstorm Encounters &lt;/tab&gt; &lt;/tabs&gt;"</comment>
+    <model>wikitext</model>
+    <parentid>0</parentid>
+    <sha1>3e06c4bf1f8e5f55ac93b66595549375cc555379</sha1>
+  </revision>
+</page></mediawiki>

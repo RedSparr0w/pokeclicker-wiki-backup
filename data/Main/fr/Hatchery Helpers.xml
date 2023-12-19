@@ -1,0 +1,112 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Hatchery Helpers/fr</title>
+  <ns>0</ns>
+  <id>12108</id>
+  <revision>
+    <id>41579</id>
+    <timestamp>2022-11-14T02:14:17Z</timestamp>
+    <text space="preserve" bytes="5392">&lt;languages/&gt;
+&lt;div class="mw-translate-fuzzy"&gt;
+Les '''Assitants de Pension''' sont des personnes qui peuvent être embauchées pour travailler à la [[Pokémon Day Care/fr|Pension Pokémon]] et automatiser l'éclosion. Plusieurs sont débloquables une fois les prérequis remplis, tandis que d'autres peuvent simplement être achetés dans la bonne [[Shops/fr|Boutique]]. Une fois engagé, un Assitant de Pension travaillera jusqu'à ce que vous le renvoyez ou que vous n'avez plus les fonds nécessaire pour continuer à l'employer. Cette fonctionnalité reste actuellement en béta et peut être sujette à changement.
+&lt;/div&gt;
+
+&lt;span id="Usage"&gt;&lt;/span&gt;
+== Utilisation ==
+
+Cliquer sur "Sort" (trier) ouvre une sous-fenêtre qui va vous permettre de définir dans quel ordre un Assistant de Pension va choisir le prochain Pokémon. Les Pokémon déjà présent dans la file d'attente ne pourront pas être sélectionné par l'assistant.
+Vous pouvez embaucher jusqu'à un maximum de 3 Assistants de Pension à la fois.
+
+&lt;span id="Unlocking_Hatchery_Helpers"&gt;&lt;/span&gt;
+==Débloquer les Assitants de Pension ==
+
+&lt;div class="mw-translate-fuzzy"&gt;
+{| class="wikitable sortable" style="text-align: center;"
+|-
+! Nom !! Coût par écclosion !! Efficacité de Pas !! Efficacité d'Attaque !!  Condition de déblocage || Lieu d'achat
+|-
+| Sam [[File:HHSam.png|20px]] || 1 000 {{pdollar}} || 10% || 10%  || Faire éclore 100 Œufs || rowspan=2|N/A
+|-
+| Blake [[File:HHBlake.png|20px]] || 10 000 {{pdollar}} || 10% || 20%  || Faire éclore 500 Œufs
+|-
+| Jasmine [[File:HHJasmine.png|20px]] || 50 000 {{pdollar}} || 15% || 50% ||  10 000 000 Poké Dollars {{pdollar}} || Achetable à [[Shops/fr#Hoenn : Lieux &amp; Objets|Lavandia]]
+|-
+| Parker [[File:HHParker.png|20px]] || 1 000 {{dungeontokens}} || 15% || 25% || Faire éclore 1 000 Œufs || N/A
+|-
+| Dakota [[File:HHDakota.png|20px]] || 10 000 {{dungeontokens}} || 50% || 50% || 100 000 Jetons de Donjon {{dungeontokens}} || Achetable à [[Shops/fr#Johto : Lieux &amp; Objets|Écorcia]]
+|-
+| Justice [[File:HHJustice.png|20px]] || 10 {{questpoints}} || 100% || 50% || Compléter 200 Quêtes || N/A
+|-
+| Carey [[File:HHCarey.png|20px]] || 20 {{questpoints}} || 50% || 125% || 10 000 Points de Quête {{questpoints}} || Achetable à [[Shops#Johto : Lieux &amp; Objets|Oliville]] 
+|-
+| Aiden [[File:HHAiden.png|20px]] || 5 {{diamonds}} || 100% || 100% || Miner 100 couches dans le [[Underground/fr|Souterrain]] || N/A
+|-
+| Kris [[File:HHKris.png|20px]] || 10 {{diamonds}} || 150% || 100% || 2 000 Diamants {{diamonds}} || Achetable à [[Shops#Kanto: Lieux &amp; Objets|Cramois'Île]]
+|-
+| Noel [[File:HHNoel.png|20px]] || 25 {{battlepoints}} || 100% || 200% || 20 000 Points de Combat {{battlepoints}} || Achetable à la [[Battle Frontier/fr|Zone de Combat]]
+|}
+&lt;/div&gt;
+
+&lt;div class="mw-translate-fuzzy"&gt;
+== Statistiques ==
+Les Assistants de Pension ont 3 statistiques importantes : '''Coût, Efficacité du Pas et Efficacité d'Attaque''' (voir ci-dessous). 
+Actuellement, un Assistant de Pension ne vous coûte rien s'il n'y a pas de Pokémon disponible à faire éclore.
+Chaque Assistant de Pension augmentera (de façon individuelle) ses Efficacité de Pas et Efficacite d'Attaque pour chaque éclosion qu'il mènera à terme, jusqu'à un bonus de 50% de la valeur de base.
+Par exemple, l'Assistant de Pension Sam peut dont avoir jusqu'à 60% d'Efficacité dans ses deux statistiques. Pour avoir le bonus maximum, il faudra qu'un Assistant fasse éclore 125 000 Pokémon.
+&lt;/div&gt;
+
+{| class="wikitable" style="text-align: center;"
+|-
+! Statistique !! Description !! Commentaires
+|-
+| '''Coût''' || Coût par éclosion de l'Assistant || Cette valeur est déduite à chaque fois que votre Assistant fait éclore un Œuf.
+|-
+| '''Efficacité de Pas''' || L'efficacité des pas d'écclosion que l'Assistant a ||  Si un Assistant a une efficacité de 50%, chaque pas comptera comme 50% d'un pas normal (et l'Œuf prendra donc deux fois plus de temps à écclore)
+|-
+| '''Efficacité d'Attaque''' || Combien de bonus d'attaque le Pokémon gagnera à l'écclosion || Si un Assistant a une efficacité de 50%, lorsque l'Œuf éclos le Pokémon gagnera 50% de l'attaque qu'il était censé gagner.
+|-
+|}
+
+&lt;div class="mw-translate-fuzzy"&gt;
+=== Maximum des Statistiques par Assistant de Pension ===
+{| class="wikitable sortable" style="text-align: center;"
+|-
+! Nom !! Coût pour atteindre le Maximum !! Maximum d'Efficacité de Pas!! Maximum d'Efficacité d'Attaque
+|-
+| Sam [[File:HHSam.png|20px]] || 125 000 000 {{pdollar}} || 60% || 60%
+|-
+| Blake [[File:HHBlake.png|20px]] || 1 250 000 000 {{pdollar}} || 60% || 70%
+|-
+| Jasmine [[File:HHJasmine.png|20px]] || 6 250 000 000 {{pdollar}} || 65% || 100%
+|-
+| Parker [[File:HHParker.png|20px]] || 125 000 000 {{dungeontokens}} || 65% || 75%
+|-
+| Dakota [[File:HHDakota.png|20px]] || 1 250 000 000 {{dungeontokens}} || 100% || 100%
+|-
+| Justice [[File:HHJustice.png|20px]] || 1 250 000 {{questpoints}} || 150% || 100%
+|-
+| Carey [[File:HHCarey.png|20px]] || 2 500 000 {{questpoints}} || 100% || 175% 
+|-
+| Aiden [[File:HHAiden.png|20px]] || 625 000 {{diamonds}} || 150% || 150%
+|-
+| Kris [[File:HHKris.png|20px]] || 1 250 000 {{diamonds}} || 200% || 150%
+|-
+| Noel [[File:HHNoel.png|20px]] || 3 125 000 {{battlepoints}} || 150% || 250%
+|}
+&lt;/div&gt;
+
+[[Category:Eggs]] 
+[[Category:Items]]
+[[Category:Œufs]] 
+[[Category:Objets]]
+__NOTOC__</text>
+    <contributor>
+      <username>FuzzyBot</username>
+      <id>587</id>
+    </contributor>
+    <comment>Updating to match new version of source page</comment>
+    <model>wikitext</model>
+    <parentid>30306</parentid>
+    <sha1>c32ec5db4eb1caf2c7fb7096e4fbc65a430a44ef</sha1>
+  </revision>
+</page></mediawiki>

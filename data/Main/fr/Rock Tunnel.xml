@@ -1,0 +1,169 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Rock Tunnel/fr</title>
+  <ns>0</ns>
+  <id>14705</id>
+  <revision>
+    <id>40930</id>
+    <timestamp>2022-11-07T21:47:25Z</timestamp>
+    <text space="preserve" bytes="6046">&lt;languages/&gt;
+{{Infobox dungeon
+|name    = Grotte Sombre
+|image   = [[File:Rock Tunnel.png|thumb]]
+|caption = Une carte en vue aérienne de la Grotte Sombre.
+|tokens  = 500
+|location = Nord de Lavenville, ou Est d'Azuria.
+}}
+La '''Grotte Sombre''' est un [[Dungeons/fr|donjon]] de [[Kanto]]. Ce donjon a 25 cases arrangées dans un carré 5x5, qui incluent 5 cases de coffre, 13 cases de rencontres avec des Pokémon sauvages (hors boss), et 1 case de rencontre de boss. Les rencontres sauvages ont 4 117 PV.
+
+&lt;span id="Encounter_Tables"&gt;&lt;/span&gt;
+== Tables des rencontres ==
+
+&lt;span id="Wild_Encounters"&gt;&lt;/span&gt;
+=== Rencontres sauvages ===
+
+{| class="wikitable"
+|-
+! Pokémon Sauvages !! colspan=2|Dresseurs
+|-
+! Rencontres !! Dresseur !! Équipe Pokémon
+|-
+| rowspan=3|[[File:Zubat.png|40px]] Nosferapti|| [[File:PokéManiac.png|40px]] PokéManiac Quentin || [[File:Cubone.png|40px]] Osselait, [[File:Slowpoke.png|40px]] Ramoloss
+|-
+| [[File:PokéManiac.png|40px]] PokéManiac Jean-Marie || [[File:Slowpoke.png|40px]] Ramoloss
+|-
+| [[File:Picnicker.png|40px]] Pique-Nique Marthe || [[File:Oddish.png|40px]] Mystherbe, [[File:Bulbasaur.png|40px]] Bulbizarre
+|-
+| rowspan=3|[[File:Mankey.png|40px]] Férosinge|| [[File:PokéManiac.png|40px]] PokéManiac Stéphane|| [[File:Charmander.png|40px]] Salamèche, [[File:Cubone.png|40px]] Osselait
+|-
+| [[File:Hiker.png|40px]] Montagnard Alain|| [[File:Geodude.png|40px]] Racaillou
+|-
+| [[File:Hiker.png|40px]] Montagnard Eric || [[File:Machop.png|40px]] Machoc, [[File:Onix.png|40px]] Onix
+|-
+| rowspan=4|[[File:Geodude.png|40px]] Racaillou|| [[File:Hiker.png|40px]] Montagnard Jean-Luc || [[File:Geodude.png|40px]] Racaillou, [[File:Onix.png|40px]] Onix, [[File:Geodude.png|40px]] Racaillou, [[File:Geodude.png|40px]] Racaillou
+|-
+| [[File:Hiker.png|40px]] Montagnard Tanguy || [[File:Onix.png|40px]] Onix, [[File:Onix.png|40px]] Onix, [[File:Geodude.png|40px]] Racaillou
+|-
+| [[File:Hiker.png|40px]] Montagnard Lucas || [[File:Geodude.png|40px]] Racaillou, [[File:Graveler.png|40px]] Gravalanche
+|-
+| [[File:Picnicker.png|40px]] Pique-Nique Sofia || [[File:Jigglypuff.png|40px]] Rondoudou, [[File:Pidgey.png|40px]] Roucool, [[File:Meowth.png|40px]] Miaouss
+|-
+| rowspan=4|[[File:Machop.png|40px]] Machoc || [[File:Hiker.png|40px]] Montagnard Dorian || [[File:Geodude.png|40px]] Racaillou, [[File:Geodude.png|40px]] Racaillou, [[File:Graveler.png|40px]] Gravalanche
+|-
+| [[File:PokéManiac.png|40px]] Pokémaniac Arthur|| [[File:Slowpoke.png|40px]] Ramoloss, [[File:Slowpoke.png|40px]] Ramoloss, [[File:Slowpoke.png|40px]] Ramoloss
+|-
+| [[File:Picnicker.png|40px]] Pique-Nique Erin || [[File:Bellsprout.png|40px]] Chetiflor, [[File:Clefairy.png|40px]] Mélofée
+|-
+| [[File:Picnicker.png|40px]] Pique-Nique Christelle || [[File:Meowth.png|40px]] Miaouss, [[File:Oddish.png|40px]] Mystherbe, [[File:Pidgey.png|40px]] Roucool
+|-
+|}
+
+===Combats de Boss===
+{| class="wikitable"
+|-
+! Pokémon Sauvages !! PV de base !! Dresseur Boss !! Equipe Pokémon !! PV de base
+|-
+| [[File:Onix.png|40px]] Onix || &lt;center&gt; 20 585 || [[File:Picnicker.png|40px]] Pique-Nique Kim || [[File:Pidgey.png|40px]] Roucool, [[File:Rattata.png|40px]] Rattata, [[File:Rattata.png|40px]] Rattata,&lt;br&gt; [[File:Bellsprout.png|40px]] Chetiflor|| &lt;center&gt; 5 147
+|-
+|}
+
+&lt;span id="Items"&gt;&lt;/span&gt;
+==Objets==
+
+&lt;span id="No_Debuff"&gt;&lt;/span&gt;
+===Sans Perte de Bonus===
+
+{| class="wikitable"
+|-
+! Objet de coffre !! Poids !! Complétion 0 fois !! Complétion 100 fois !! Complétion 500 fois
+|-
+| align="center" colspan=5| '''Commun'''
+|-
+| {{Bag2|xClick|Clic +}} || 2 || 22.32% || 21.70% || 19.05%
+|-
+| {{Bag2|Leppa}} || 2 || 22.32% || 21.70% || 19.05%
+|-
+| {{Bag2|Pokéball|Poké Ball}} || 2 || 22.32% || 21.70% || 19.05%
+|-
+| {{Pokemon|Geodude}} || N/A || 11.16% || 10.85% || 9.52%
+|-
+| align="center" colspan=5| '''Rare'''
+|-
+| {{Bag2|Green Shard|Tesson Vert}} || N/A || 10.42% || 11.07% || 13.86%
+|-
+| {{Bag2|Yellow Shard|Tesson Jaune}} || N/A || 10.42% || 11.07% || 13.86%
+|-
+| align="center" colspan=5| '''Légendaire'''
+|-
+| {{Bag2|Greatball|Super Ball}} || N/A || 0.26% || 0.42% || 1.11%
+|-
+| {{Bag2|Medium Restore}} || N/A || 0.26% || 0.42% || 1.11%
+|-
+| {{Bag2|Oval Stone|Pierre Ovale}} || N/A || 0.26% || 0.42% || 1.11%
+|-
+| {{Bag2|Revive|Rappel}} || N/A || 0.26% || 0.42% || 1.11%
+|-
+| align="center" colspan=5| '''Mythique'''
+|-
+| {{Bag2|Star Piece|Morceau d'Étoile}} || 1.5 || 0.01% || 0.14% || 0.71%
+|-
+| {{Bag2|Heart Scale|Écaille Cœur}} || N/A || 0.01% || 0.09% || 0.47%
+|}
+
+&lt;span id="Debuff_Drop_Table"&gt;&lt;/span&gt;
+===Table du taux d'obtention avec Perte de bonus===
+
+Après avoir atteint Sinnoh, le taux d'obtention des objets dans la région de Kanto sera abaissé pour tout objet avec un tiers de rareté supérieur à Rare (i.e. : Épique , Légendaire, Mythique).
+
+{| class="wikitable collapsible collapsed"
+|-
+! Objet de coffre !! Poids !! Complétion 0 fois !! Complétion 100 fois !! Complétion 500 fois
+|-
+| align="center" colspan=5| '''Commun'''
+|-
+| {{Bag2|xClick|Clic +}} || 2 || 21.62% || 21.62% || 21.62%
+|-
+| {{Bag2|Leppa}} || 2 || 21.62% || 21.62% || 21.62%
+|-
+| {{Bag2|Pokéball|Poké Ball}} || 2 || 21.62% || 21.62% || 21.62%
+|-
+| {{Pokemon|Geodude}} || N/A || 10.81% || 10.81% || 10.81%
+|-
+| align="center" colspan=5| '''Rare'''
+|-
+| {{Bag2|Green Shard|Tesson Vert}} || N/A || 12.11% || 12.11% || 12.11%
+|-
+| {{Bag2|Yellow Shard|Tesson Jaune}} || N/A || 12.11% || 12.11% || 12.11%
+|-
+| align="center" colspan=5| '''Légendaire'''
+|-
+| {{Bag2|Greatball|Super Ball}} || N/A || 0.03% || 0.03% || 0.03%
+|-
+| {{Bag2|Medium Restore}} || N/A || 0.03% || 0.03% || 0.03%
+|-
+| {{Bag2|Oval Stone|Pierre Ovale}} || N/A || 0.03% || 0.03% || 0.03%
+|-
+| {{Bag2|Revive|Rappel}} || N/A || 0.03% || 0.03% || 0.03%
+|-
+| align="center" colspan=5| '''Mythique'''
+|-
+| {{Bag2|Star Piece|Morceau d'Étoile}} || 1.5 || &lt;0.01% || &lt;0.01% || &lt;0.01%
+|-
+| {{Bag2|Heart Scale|Écaille Cœur}} || N/A || &lt;0.01% || &lt;0.01% || &lt;0.01%
+|}
+
+
+{{Kanto Dungeons}}
+
+[[Category:Dungeons|^Region #1 - Kanto^d]]
+[[Category:Donjons|^Région #1 - Kanto^d]]</text>
+    <contributor>
+      <username>Gwendal</username>
+      <id>723</id>
+    </contributor>
+    <comment></comment>
+    <model>wikitext</model>
+    <parentid>40688</parentid>
+    <sha1>5dead3fc73ab8f5b2e2555abb00743f5ee1a73cb</sha1>
+  </revision>
+</page></mediawiki>

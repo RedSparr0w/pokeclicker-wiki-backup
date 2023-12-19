@@ -1,0 +1,99 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Ula'ula Meadow</title>
+  <ns>0</ns>
+  <id>4124</id>
+  <revision>
+    <id>39946</id>
+    <timestamp>2022-10-23T21:20:36Z</timestamp>
+    <text space="preserve" bytes="2538">&lt;languages/&gt;
+&lt;translate&gt;
+&lt;!--T:1--&gt;
+{{Infobox dungeon
+|name    = Ula'ula Meadow
+|image   = [[File:Ula'ula Meadow.png|300px]]
+|caption = A map of Ula'ula Meadow.
+|tokens  = 1,050,000
+|location = North of Route 16.
+}}
+
+&lt;!--T:2--&gt;
+'''Ula'ula Meadow''' is a [[Dungeons|dungeon]] in [[Alola]]. It initially has 125 tiles arranged in two floors: 10x10 and 5x5 in size, respectively; including 15 chest tiles, 36 non-boss encounter tiles, 1 ladder tile, and 1 boss encounter tile. Wild Encounters have 15,127,042 HP.
+
+== Encounter Tables == &lt;!--T:3--&gt;
+
+===Wild Encounters=== &lt;!--T:4--&gt;
+
+&lt;!--T:5--&gt;
+{| class="wikitable"
+|-
+! Wild Pokémon !! colspan=2|Trainers
+|-
+! Encounter !! Trainer !! Pokémon Team
+|-
+| [[File:Ledian.png|40px]] Ledian || [[File:Dancer (female).png|40px]] Dancer Mireille || [[File:Floette (Red).png|40px]] Floette (Red)
+|-
+| [[File:Ariados.png|40px]] Ariados || [[File:Office Worker (female).png|40px]] Office Worker Michelle || [[File:Torkoal.png|40px]] Torkoal, [[File:Whimsicott.png|40px]] Whimsicott
+|-
+| [[File:Cottonee.png|40px]] Cottonee || [[File:Lass.png|40px]] Lass Rylee || [[File:Sneasel.png|40px]] Sneasel, [[File:Komala.png|40px]] Komala
+|-
+| [[File:Petilil.png|40px]] Petilil || [[File:Golfer (male).png|40px]] Golfer Dean || [[File:Hariyama.png|40px]] Hariyama, [[File:Alakazam.png|40px]] Alakazam
+|-
+| [[File:Ribombee.png|40px]] Ribombee || [[File:Actor.png|40px]] Actor Meredith || [[File:Oricorio (Baile).png|40px]] Oricorio (Baile)
+|-
+|}
+
+&lt;!--T:6--&gt;
+===Boss Encounters===
+{| class="wikitable"
+|-
+! Wild Pokémon !! Base Health !! Boss Trainer !! Pokémon Team !! Base Health
+|-
+| [[File:Floette (Red).png|50px]] Floette (Red) ||rowspan=2|&lt;center&gt;75,635,260 ||rowspan=2 colspan=3|&lt;center&gt;N/A
+|-
+| [[File:Oricorio (Baile).png|50px]] Oricorio (Baile)
+|-
+|}
+
+==Items== &lt;!--T:7--&gt;
+
+&lt;!--T:8--&gt;
+{| class="wikitable"
+|-
+! Chest Item !! Weight !! 0 Clears !! 100 Clears !! 500 Clears
+|-
+| align="center" colspan=6| '''Common'''
+|-
+| {{Bag2|xClick}} || N/A || 37.49% || 36.08% || 30.32%
+|-
+| {{Bag2|Lucky Egg}} || N/A || 37.49% || 36.08% || 30.32%
+|-
+| align="center" colspan=6| '''Rare'''
+|-
+| {{Bag2|Red Shard}} || N/A || 10.01% || 10.52% || 12.61%
+|-
+| {{Bag2|Yellow Shard}} || N/A || 10.01% || 10.52% || 12.61%
+|-
+| align="center" colspan=6| '''Epic'''
+|-
+| {{Bag2|Flame Plate}} || N/A || 4.01% || 5.21% || 10.11%
+|-
+| align="center" colspan=6| '''Legendary'''
+|-
+| {{Bag2|Repeatball}} || N/A || 1.00% || 1.59% || 4.03%
+|}
+
+&lt;!--T:9--&gt;
+{{Alola Dungeons}}
+[[Category:Dungeons|^Region #7 - Alola^q]]
+&lt;/translate&gt;</text>
+    <contributor>
+      <username>ThePantMan</username>
+      <id>310</id>
+    </contributor>
+    <comment>/* Description - floors */</comment>
+    <model>wikitext</model>
+    <parentid>36336</parentid>
+    <sha1>3da6d8ac831f8b4a497a6735a2318b1e84230eb6</sha1>
+  </revision>
+</page></mediawiki>

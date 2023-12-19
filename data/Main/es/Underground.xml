@@ -1,0 +1,231 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<page>
+  <title>Underground/es</title>
+  <ns>0</ns>
+  <id>12517</id>
+  <revision>
+    <id>38157</id>
+    <timestamp>2022-09-27T14:25:52Z</timestamp>
+    <text space="preserve" bytes="16440">&lt;languages/&gt;
+{{Infobox Underground Item
+|name       = Subsuelo
+|image      = [[File:Underground1.png|thumb]]
+|caption    = El subsuelo
+|location   = Kanto - ruta 11, cerca de la [[Digletts Cave|Cueva Diglett]]
+}}
+
+==Descripción==
+El '''Subsuelo''' se desbloquea al comprar el  [[Explorer Kit|kit de explorador]] en la  [[Shops#Kanto: Locations &amp; Items|tienda de Isla Canela]].  Tiene su propia moneda llamada  [[Diamonds|Diamantws]] {{Diamonds}} que puede usarse para comprar mejoras del subsuelo o [[Masterball]] en la [[Shops|Ligas Pokémon]]. Para más información sobre el subsuelo ábrelo tras haber comprado el  [[Explorer Kit|Kit de explorador]] y ve a la pestaña '''Help'''.
+
+&lt;span id="Actions"&gt;&lt;/span&gt;
+===Acciones===
+
+# Martillo - Elimina 1 capa de cada casilla en un cuadrado de 3x3
+# Cincel - Elimina 2 capas de una única casilla
+# Bomba - Elimina 2 capas de 10 casillas aleatorias (puede mejorarse para cubrir más casillas)
+# Sondeo - Indica cuántos objetos de cada tipo hay en el nivel actual junto con el valor en diamantes (Ver la sección de objetos debajo) y elimina complemente una casilla (Puede mejorarse para dañar más casillas)
+# Saltar - Omite el nivel actual y pasa al siguiente. No recibirás ninguna recompensa por objetos que no estén totalmente desenterrado. Puedes recuperar saltar al completar capas.
+
+&lt;span id="Upgrades"&gt;&lt;/span&gt;
+==Mejoras==
+
+&lt;span id="Upgrade_Explanations"&gt;&lt;/span&gt;
+=== Explicación de las mejoras ===
+
+# Energía Máxima - Aumenta la energía máxima del jugador
+# Objetos Máximos - Aumenta el número máximo de objetos que pueden aparecer en una capa
+# Objetos mínimos - Aumenta el número mínimo de objetos que pueden aparecer en una capa
+# Energía recuperada - Aumenta la cantidad de energía recuperada por vez
+# Tiempo de recuperación de energía - Disminuye el tiempo entre recuperaciones de energía 
+# Ofertas diarias - Aumenta la cantidad de ofertas diarias ofrecidas 
+# Eficiencia de la bomba - Aumenta el número de casillas destruidas por cada bomba
+# Coste del sondeo - Disminuye el coste de la habilidad de sondeo
+# Eficiencia del Sondeo - Aumenta el número de casillas desenterradas por la habilidad sondeo
+# subsuelo largo, +1 Objeto máximo - Aumenta el subsuelo en dos filas y dos columnas (1 por lado del rectángulo), también aumenta en 2 el número máximo de objetos que pueden salir en una capa.
+
+=== Tabla de las mejoras ===
+{| class="wikitable"
+|-
+! Mejora !! Efecto/nivel !! Nivel máximo || Coste !! Coste total !! Efecto máximo !! Total en el nivel máximo 
+|-
+| Energía máxima || +10 Energía|| 10 || 50*nivel || style="text-align: right;"| 2,750 {{Diamonds}} || +100 Energía máxima || 150 Energía máxima 
+|-
+| Objetos máximos|| +1 objeto|| 4 || 200*nivel || style="text-align: right;"| 2,000 {{Diamonds}} || +4 Objetos máximos || 7 Objetos máximos (8 con la mejora de subsuelo largo)
+|-
+| objetos mínimos || +1 objeto|| 4 || 500+1500*lvl || style="text-align: right;"| 11,000 {{Diamonds}} || +4 objetos mínimos || 5 Objetos mínimos 
+|-
+| Energía recuperada || +1 Energía || 17 || 100*nivel || style="text-align: right;"| 15,300 {{Diamonds}} || +17 energía recuperada || 20 energía recuperada
+|-
+| Tiempo de regeneración de energía || -1 segundo || 20 || 20*nivel || style="text-align: right;"| 4,200 {{Diamonds}} || -20 segundos || 40 segundos por poción 
+|-
+| ofertas diarias || +1 oferta|| 2 || 150*nivel || style="text-align: right;"| 450 {{Diamonds}} || +2 ofertas diarias || 5 ofertas diarias
+|-
+| Eficiencia de la bomba || +2 || 5 || 50*nivel || style="text-align: right;"| 750 {{Diamonds}} || +10 Eficiencia de la bomba || 20 Eficiencia de la bomba
+|-
+| Coste del sondeo || -1 || 5 || 50*lvl || style="text-align: right;"| 750 {{Diamonds}} || -1 Coste del sondeo || coste del sondeo 10
+|-
+| Eficiencia del sondeo || +1 || 4 || 100*nivel || style="text-align: right;"| 1,000 {{Diamonds}} || +1 Eficiencia del sondeo || 5 Eficiencia del sondeo
+|-
+| Subsuelo máximo, +1 Objetos máximos || +1 || 1 || 3,000 || style="text-align: right;"| 3,000 {{Diamonds}} || +1 tamaño del subsuelo, +1 objeto máximo || +1 tamaño del sondeo, +1 objeto máximo 
+|}
+'''*Nota:''' En total se necesitan 41.200 {{Diamonds}} para mejorar el subsuelo.
+
+==Objetos==
+# '''Nota:''' Algunos objetos pueden conseguirse de pokemon salvajes que los llevan equipados además de desenterrarse en el subsuelo.  
+# '''Nota:''' todos '''los objetos del subsuelo''' pueden encontrarse en cualquier orientación apuntando a cualquiera de los cuatro puntos cardinales (NSEO).
+
+{| class="wikitable sortable" style="text-align: center;"
+|-
+! Tipo de objeto !! Objetos !! Aspecto  !! Recompensa !! colspan=2|pokemons que lo equipan
+|-
+| [[File:OldAmber.png|15px]] [[Fossils|Fósiles]]  || [[File:HelixFossil.png|15px]][[File:DomeFossil.png|15px]][[File:OldAmber.png|15px]][[File:ClawFossil.png|15px]][[File:RootFossil.png|15px]]&lt;br&gt;[[File:ArmorFossil.png|15px]][[File:SkullFossil.png|15px]][[File:Plume_Fossil.png|15px]][[File:Cover_Fossil.png|15px]][[File:Jaw_Fossil.png|15px]][[File:Sail_Fossil.png|15px]] || Ver la página de [[Fossils|fósiles]]  || [[File:Omanyte.png|40px]][[File:Kabuto.png|40px]][[File:Aerodactyl.png|40px]][[File:Lileep.png|40px]][[File:Anorith.png|40px]]&lt;br&gt;[[File:Cranidos.png|40px]][[File:Shieldon.png|40px]][[File:Archen.png|40px]][[File:Tirtouga.png|40px]][[File:Tyrunt.png|40px]][[File:Amaura.png|40px]] || colspan=2|N/A
+|-
+| rowspan=11|[[File:Moon_Stone.png|15px]] [[Evolution Items|Piedras evolutivas]] || [[File:Fire_Stone.png|15px]] [[Fire Stone|Piedra fuego]] || align="center" | [[File:FireStoneMine 0-7-3.png|75px]] || [[File:Ninetales.png|40px]][[File:Arcanine.png|40px]][[File:Flareon.png|40px]][[File:Simisear.png|40px]] || colspan=2 rowspan=4|N/A
+|-
+| [[File:Water_Stone.png|15px]] [[Water Stone|Piedra agua]] || align="center" | [[File:WaterStoneMine 0-7-3.png|75px]] ||[[File:Poliwrath.png|40px]][[File:Cloyster.png|40px]][[File:Starmie.png|40px]][[File:Vaporeon.png|40px]][[File:Ludicolo.png|40px]][[File:Simipour.png|40px]]
+|-
+| [[File:Thunder_Stone.png|15px]] [[Thunder Stone|Piedra trueno]] || align="center" | [[File:ThunderStoneMine 0-7-3.png|75px]] || [[File:Raichu.png|40px]][[File:Jolteon.png|40px]][[File:Eelektross.png|40px]][[File:Alolan Raichu.png|40px]]
+|-
+| [[File:Leaf_Stone.png|15px]] [[Leaf Stone|Piedra hoja]] || align="center" | [[File:LeafStoneMine 0-7-3.png|75px]] || [[File:Vileplume.png|40px]][[File:Victreebel.png|40px]][[File:Exeggutor.png|40px]][[File:Shiftry.png|40px]][[File:Simisage.png|40px]][[File:Alolan Exeggutor.png|40px]]
+|-
+| rowspan=2|[[File:Moon_Stone.png|15px]] [[Moon Stone|Piedra lunar]] || rowspan=2|[[File:MoonStoneMine 0-7-3.png|75px]] || rowspan=2|[[File:Nidoking.png|40px]][[File:Nidoqueen.png|40px]][[File:Clefable.png|40px]][[File:Wigglytuff.png|40px]][[File:Delcatty.png|40px]][[File:Musharna.png|40px]] || [[File:Cleffa.png|40px]]Cleffa || [[File:Clefairy.png|40px]]Clefairy
+|-
+| [[File:Clefable.png|40px]]Clefable || [[File:Lunatone.png|40px]]Lunatone
+|-
+| [[File:Sun_Stone.png|15px]] [[Sun Stone|Piedra solar]] || align="center" | [[File:SunStoneMine 0-7-3.png|75px]] || [[File:Bellossom.png|40px]][[File:Sunflora.png|40px]][[File:Whimsicott.png|40px]][[File:Lilligant.png|40px]][[File:Heliolisk.png|40px]] || colspan=2| [[File:Solrock.png|40px]]Solrock
+|-
+| [[File:Dawn_Stone.png|15px]] [[Dawn Stone|Piedra alba]] || align="center" |[[File:DawnStoneMine.png|75px]] || [[File:Gallade.png|40px]] [[File:Froslass.png|40px]] || colspan=2 rowspan=4|N/A
+|-
+| [[File:Dusk_Stone.png|15px]] [[Dusk Stone|Piedra noche]] || align="center" |[[File:DuskStoneMine.png|75px]] || [[File:Honchkrow.png|40px]] [[File:Mismagius.png|40px]][[File:Chandelure.png|40px]][[File:Aegislash.png|40px]]
+|-
+| [[File:Shiny_Stone.png|15px]] [[Shiny Stone|Piedra día]] || align="center" |[[File:ShinyStoneMine.png|75px]] || [[File:Togekiss.png|40px]] [[File:Roserade.png|40px]][[File:Cinccino.png|40px]][[File:Florges (Red).png|40px]][[File:Florges (Orange).png|40px]][[File:Florges (White).png|40px]][[File:Florges (Blue).png|40px]][[File:Florges (Yellow).png|40px]]
+|-
+| [[File:Ice_Stone.png|15px]] [[Ice Stone|Piedra hielo]] || align="center" |[[File:IceStoneMine.png|75px]] || [[File:Alolan Ninetales.png|40px]] [[File:Alolan Sandslash.png|40px]]
+|-
+| rowspan=17|[[File:Mine_Flame_Plate.png|15px]] [[Gem Plates|Tablas]] || [[File:Flame_Plate_Updated.png|15px]] [[Flame Plate|Tabla llama]] || rowspan = 17, align="center" | [[File:ShardPlateMine.png|75px]]&lt;br&gt;cada [[Gem Plates|tabla]] ocupa 4x3 casillas || [[File:Fire_Gem.png|15px]] 100 [[Gems|gemas]] de fuego|| colspan=2 rowspan=17| &lt;center&gt; N/A 
+|-
+| [[File:Splash_Plate_Updated.png|15px]] [[Splash Plate|Tabla linfa]] || [[File:Water_Gem.png|15px]] 100 [[Gems|gemas]] de agua
+|-
+| [[File:Zap_Plate_Updated.png|15px]] [[Zap Plate|Tabla trueno]] || [[File:Electric_Gem.png|15px]] 100  [[Gems|gemas]] eléctricas
+|-
+| [[File:Meadow_Plate_Updated.png|15px]] [[Meadow Plate|Tabla pradal]] || [[File:Grass_Gem.png|15px]] 100 [[Gems|gemas]] de planta
+|-
+| [[File:Icicle_Plate_Updated.png|15px]] [[Icicle Plate|Tabla helada]] || [[File:Ice_Gem.png|15px]] 100 [[Gems|gemas]] de hielo
+|-
+| [[File:Fist_Plate_Updated.png|15px]] [[Fist Plate|Tabla fuerte]] || [[File:Fighting_Gem.png|15px]] 100 [[Gems|gemas]] de lucha
+|-
+| [[File:Toxic_Plate_Updated.png|15px]] [[Toxic Plate|Tabla tóxica]] || [[File:Poison_Gem.png|15px]] 100 [[Gems|gemas]] de veneno
+|-
+| [[File:Earth_Plate_Updated.png|15px]] [[Earth Plate|Tabla terrax]] || [[File:Ground_Gem.png|15px]] 100 [[Gems|gemas]] de tierra
+|-
+| [[File:Sky_Plate_Updated.png|15px]] [[Sky Plate|Tabla cielo]] || [[File:Flying_Gem.png|15px]] 100 [[Gems|gemas]] de volador
+|-
+| [[File:Mind_Plate_Updated.png|15px]] [[Mind Plate|Tabla mental]] || [[File:Psychic_Gem.png|15px]] 100 [[Gems|gemas]] de psíquico 
+|-
+| [[File:Insect_Plate_Updated.png|15px]] [[Insect Plate|Tabla bicho]] || [[File:Bug_Gem.png|15px]] 100 [[Gems|gemas]] de bicho
+|-
+| [[File:Stone_Plate_Updated.png|15px]] [[Stone Plate|Tabla pétrea]] || [[File:Rock_Gem.png|15px]] 100 [[Gems|gemas]] de roca
+|-
+| [[File:Spooky_Plate_Updated.png|15px]] [[Spooky Plate|tabla terror]] || [[File:Ghost_Gem.png|15px]] 100 [[Gems|gemas]] de fantasma
+|-
+| [[File:Draco_Plate_Updated.png|15px]] [[Draco Plate|Tabla draco]] || [[File:Dragon_Gem.png|15px]] 100 [[Gems|gemas]] de dragón 
+|-
+| [[File:Dread_Plate_Updated.png|15px]] [[Dread Plate|Tabla oscura]] || [[File:Dark_Gem.png|15px]] 100 [[Gems|gemas]] de siniestro
+|-
+| [[File:Iron_Plate_Updated.png|15px]] [[Iron Plate|Tabla acero]] || [[File:Steel_Gem.png|15px]] 100 [[Gems|gemas]] de acero
+|-
+| [[File:Pixie_Plate_Updated.png|15px]] [[Pixie Plate|Tabla duende]] || [[File:Fairy_Gem.png|15px]] 100 [[Gems|gemas]] de hada
+|-
+| rowspan=13|[[File:Red_Shard.png|15px]][[Shards|partes]] ||[[File:Red_Shard_Updated.png|15px]] [[Red Shard|Parte roja]] || align="center"|[[File:RedShardMine.png|75px]] || Rowspan=13|&lt;center&gt;N/A || colspan=2 rowspan=13|&lt;center&gt;N/A
+|-
+| [[File:Yellow_Shard_Updated.png|15px]] [[Yellow Shard|Parte amarilla]] || align="center"|[[File:YellowShardMine.png|75px]]
+|-
+| [[File:Green_Shard_Updated.png|15px]] [[Green Shard|Parte verde]] || align="center"|[[File:GreenShardMine.png|75px]] 
+|-
+| [[File:Blue_Shard_Updated.png|15px]] [[Blue Shard|Parte azul]] || align="center"|[[File:BlueShardMine.png|75px]] 
+|-
+| [[File:Grey_Shard_Updated.png|15px]] [[Grey Shard|Parte gris]] || align="center"|[[File:GreyShardMine.png|75px]] 
+|-
+| [[File:Purple_Shard_Updated.png|15px]] [[Purple Shard|Parte morada]] || align="center"|[[File:PurpleShardMine.png|75px]] 
+|-
+| [[File:Ochre_Shard_Updated.png|15px]] [[Ochre Shard|Parte ocre]] || align="center"|[[File:OchreShardMine.png|75px]] 
+|-
+| [[File:Black_Shard_Updated.png|15px]] [[Black Shard|Parte negra]] || align="center"|[[File:BlackShardMine.png|75px]] 
+|-
+| [[File:Crimson_Shard_Updated.png|15px]] [[Crimson Shard|Parte carmesí ]] || align="center"|[[File:CrimsonShardMine.png|75px]] 
+|-
+| [[File:Lime_Shard_Updated.png|15px]] [[Lime Shard|Parte lima]] || align="center"|[[File:LimeShardMine.png|75px]] 
+|-
+| [[File:White_Shard_Updated.png|15px]] [[White Shard|Parte blanca]] || align="center"|[[File:WhiteShardMine.png|75px]] 
+|-
+| [[File:Pink_Shard_Updated.png|15px]] [[Pink Shard|Parte rosa]] || align="center"|[[File:PinkShardMine.png|75px]] 
+|-
+| [[File:Cyan_Shard_Updated.png|15px]] [[Cyan Shard|Parte cian]] || align="center"|[[File:CyanShardMine.png|75px]] 
+|-
+| rowspan=22|{{Diamonds}} [[Diamonds|Objetos de diamantes]] || [[File:Max_Revive_Updated.png|15px]] [[Max Revive|Revivir Máx.]] || align="center" | [[File:MaxReviveMine.png|75px]] || 4 Diamantes {{Diamonds}} || colspan=2|[[File:Linoone.png|40px]]Linoone
+|-
+| rowspan=2|[[File:Rare_Bone_Updated.png|15px]] [[Rare Bone|Hueso raro]] || rowspan=2|[[File:RareBoneMine.png|75px]] || rowspan=2|3 Diamantes {{Diamonds}} ||[[File:Cubone.png|40px]]Cubone || [[File:Marowak.png|40px]]Marowak
+|-
+| [[File:Dwebble.png|40px]]Dwebble || [[File:Crustle.png|40px]]Crustle
+|-
+| [[File:Icy_Rock_Updated.png|15px]] [[Icy Rock|Roca helada]] || align="center" | [[File:IcyRockMine 0-7-3.png|75px]] || 2 Diamantes {{Diamonds}} || colspan=2|N/A
+|-
+| rowspan=2|[[File:Everstone_Updated.png|15px]] [[Everstone|Piedra eterna]] || rowspan=2|[[File:EverstoneMine 0-7-3.png|75px]] || rowspan=2|3 Diamantes {{Diamonds}} || [[File:Geodude.png|40px]]Geodude || [[File:Roggenrola.png|40px]]Roggenrola
+|-
+| [[File:Boldore.png|40px]]Boldore || [[File:Gigalith.png|40px]]Gigalith
+|-
+| [[File:Revive_Updated.png|15px]] [[Revive|Revivir]] || align="center" | [[File:ReviveMine.png|75px]] || 2 Diamantes {{Diamonds}} ||colspan=2|[[File:Zigzagoon.png|40px]]Zigzagoon
+|-
+| [[File:Heart_Scale_Updated.png|15px]] [[Heart Scale|Escama corazón]] || align="center" | [[File:HeartScaleMine.png|75px]] || 10 Diamantes {{Diamonds}} ||colspan=2|[[File:Luvdisc.png|40px]]Luvdisc
+|-
+| [[File:Heat_Rock_Updated.png|15px]] [[Heat Rock|roca calor]] || align="center" | [[File:HeatRockMine 0-7-3.png|75px]] || 2 Diamantes {{Diamonds}} || colspan=2|N/A
+|-
+| [[File:Star_Piece_Updated.png|15px]] [[Star Piece|Trozo estrella]] || align="center" | [[File:StarPieceMine.png|75px]] || 5 Diamantes {{Diamonds}} ||[[File:Jirachi.png|40px]]Jirachi || [[File:Meloetta (aria).png|40px]]Meloetta (Aria)
+|-
+| [[File:Light_Clay_Updated.png|15px]] [[Light Clay|refleluz]] || align="center" | [[File:LightClayMine.png|75px]] || 2 Diamantes {{Diamonds}} || N/A
+|-
+| rowspan=5|[[File:Hard_Stone_Updated.png|15px]] [[Hard Stone|piedra dura]] || rowspan=5|[[File:HardStoneMine.png|75px]] || rowspan=5|4 Diamantes {{Diamonds}} || [[File:Graveler.png|40px]]Graveler || [[File:Golem.png|40px]]Golem
+|-
+| [[File:Onix.png|40px]]Onix || [[File:Corsola.png|40px]]Corsola
+|-
+| [[File:Nosepass.png|40px]]Nosepass || [[File:Probopass.png|40px]]Probopass
+|-
+| [[File:Aron.png|40px]]Aron || [[File:Lairon.png|40px]]Lairon
+|-
+| colspan=2|[[File:Aggron.png|40px]]Aggron
+|-
+| [[File:Odd_Keystone_Updated.png|15px]] [[Odd Keystone|Piedra espíritu]] || align="center" | [[File:OddKeystoneMine.png|75px]] || 6 Diamantes {{Diamonds}} || colspan=2 rowspan=3|N/A
+|-
+| [[File:Damp_Rock_Updated.png|15px]] [[Damp Rock|Roca lluvia]] || align="center" | [[File:DampRockMine.png|75px]] || 2 Diamantes {{Diamonds}}
+|-
+| [[File:Smooth_Rock_Updated.png|15px]] [[Smooth Rock|Roca suave]] || align="center" | [[File:SmoothRockMine 0-7-3.png|75px]] || 2 Diamantes {{Diamonds}}
+|-
+| [[File:Iron_Ball_Updated.png|15px]] [[Iron Ball|Bola ferrea]] || align="center" | [[File:IronBallMine.png|75px]] || 2 Diamantes {{Diamonds}} ||colspan=2|[[File:Mawile.png|40px]]Mawile
+|-
+| rowspan=2|[[File:Oval_Stone_Updated.png|15px]] [[Oval Stone|Piedra oval]] || rowspan=2|[[File:OvalStoneMine.png|75px]] || rowspan=2|3 Diamantes {{Diamonds}} || [[File:Chansey.png|40px]]Chansey || [[File:Happiny.png|40px]]Happiny
+|-
+| colspan=2|[[File:Blissey.png|40px]]Blissey
+|}
+
+&lt;span id="Efficiency"&gt;&lt;/span&gt;
+==Eficiencia==
+
+Para encontrar objetos del subsuelo de forma más eficiente, sigue el siguiente formato, minando las filas impares primero:
+
+&lt;pre&gt;
+Filas impares:  1 X 1 X 1 X 1 X 1 X 1 X 1 X 1 X 1 X 1 X 1 X 1 X 1
+Filas pares: X 2 X 2 X 2 X 2 X 2 X 2 X 2 X 2 X 2 X 2 X 2 X 2 X
+&lt;/pre&gt;
+
+{{Underground Items}}
+[[Category:Fossils|Categoria: fósiles]] [[Category:Gems|Categoría: gemas]] [[Category:Shards|Categoría:Partes]] [[Category:Underground Items|Categoria:Objetos del subsuelo]]</text>
+    <contributor>
+      <username>DraKay</username>
+      <id>589</id>
+    </contributor>
+    <comment>Created page with "{{Underground Items}} [[Category:Fossils|Categoria: fósiles]] [[Category:Gems|Categoría: gemas]] [[Category:Shards|Categoría:Partes]] [[Category:Underground Items|Categoria:Objetos del subsuelo]]"</comment>
+    <model>wikitext</model>
+    <parentid>38155</parentid>
+    <sha1>a958303905cfd57bc3ccbe93f79f687f88e644ec</sha1>
+  </revision>
+</page></mediawiki>
